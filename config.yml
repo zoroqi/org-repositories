@@ -34,3 +34,22 @@
 - name: elastic
   userType: org
   file: elastic.md
+- name: tencent
+  userType: org
+  file: tencent.md
+- name: netflix
+  userType: org
+  file: netflix.md
+- name: deepmind
+  userType: org
+  file: deepmind.md
+- name: google-research
+  userType: org
+  file: google-research.md
+- name: openjdk
+  userType: org
+  file: openjdk.md
+- name: oracle
+  userType: org
+  file: oracle.md
+
