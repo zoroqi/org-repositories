@@ -1,0 +1,26 @@
+name: collect-orgs
+on:
+  schedule:
+  - cron: 0 3 * * *
+jobs:
+  collect-orgs:
+    name: update orgs
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up go
+      uses: actions/setup-go@v2
+      with:
+        go-version: '^1.15'
+    - name: Install
+      run: |
+          ls -alh
+          git clone https://github.com/zoroqi/collect-repos.git
+          cd collect-repos
+          go install
+          ls -alh
+    - name: update repo
+      run: |
+          wget https://raw.githubusercontent.com/zoroqi/org-repositories/main/config.yml
+          ls -alh
+          collect-repos -username zoroqi -config config.yml -reposeitory org-repositories -token ${GITHUB_TOKEN} -branch main
