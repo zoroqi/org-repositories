@@ -1,7 +1,7 @@
 name: collect-orgs
 on:
   schedule:
-  - cron: 0 3 * * *
+  - cron: 20 3 * * *
 jobs:
   collect-orgs:
     name: update orgs
