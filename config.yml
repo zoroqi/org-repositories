@@ -52,4 +52,7 @@
 - name: oracle
   userType: org
   file: oracle.md
+- name: microsoft
+  userType: org
+  file: microsoft.md
 

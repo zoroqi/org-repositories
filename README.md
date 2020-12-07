@@ -18,3 +18,4 @@
 - [google-research](./google-research.md)
 - [openjdk](./openjdk.md)
 - [oracle](./oracle.md)
+- [microsoft](./microsoft.md)
