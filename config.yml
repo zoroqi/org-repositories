@@ -22,9 +22,6 @@
 - name: openai
   userType: org
   file: openai.md
-- name: apple
-  userType: org
-  file: apple.md
 - name: tensorflow
   userType: org
   file: tensorflow.md
@@ -55,4 +52,21 @@
 - name: microsoft
   userType: org
   file: microsoft.md
-
+- name: github
+  userType: org
+  file: github.md
+- name: mozilla
+  userType: org
+  file: mozilla.md
+- name: eclipse
+  userType: org
+  file: eclipse.md
+- name: cloudfoundry
+  userType: org
+  file: cloudfoundry.md
+- name: openstack
+  userType: org
+  file: openstack.md
+- name: opencollective
+  userType: org
+  file: opencollective.md
