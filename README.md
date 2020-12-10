@@ -24,3 +24,6 @@
 - [cloudfoundry](./cloudfoundry.md)
 - [openstack](./openstack.md)
 - [opencollective](./opencollective.md)
+- [twitter-archive](./twitter-archive.md)
+- [twitter](./twitter.md)
+- [cloudflare](./cloudflare.md)

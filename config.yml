@@ -70,3 +70,12 @@
 - name: opencollective
   userType: org
   file: opencollective.md
+- name: twitter-archive
+  userType: org
+  file: twitter-archive.md
+- name: twitter
+  userType: org
+  file: twitter.md
+- name: cloudflare
+  userType: org
+  file: cloudflare.md
