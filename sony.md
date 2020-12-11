@@ -20,67 +20,67 @@
 
 ## C
 
-- [sony/nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) Neural Network Libraries https://nnabla.org/ - C Runtime
-- [sony/openocd-nuttx](https://github.com/sony/openocd-nuttx) Fork of OpenOCD with NuttX thread support.
-- [sony/pdaf-library](https://github.com/sony/pdaf-library) 
+- [sony/nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) pushed_at:2020-12 Neural Network Libraries https://nnabla.org/ - C Runtime
+- [sony/openocd-nuttx](https://github.com/sony/openocd-nuttx) pushed_at:2019-01 Fork of OpenOCD with NuttX thread support.
+- [sony/pdaf-library](https://github.com/sony/pdaf-library) pushed_at:2016-03 
 
 ## C++
 
-- [sony/easyhttpcpp](https://github.com/sony/easyhttpcpp) A cross-platform HTTP client library with a focus on usability and speed
-- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
-- [sony/node-win-usbdev](https://github.com/sony/node-win-usbdev) 
-- [sony/v8eval](https://github.com/sony/v8eval) Multi-language bindings to JavaScript engine V8
+- [sony/easyhttpcpp](https://github.com/sony/easyhttpcpp) pushed_at:2020-11 A cross-platform HTTP client library with a focus on usability and speed
+- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) pushed_at:2020-12 An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
+- [sony/node-win-usbdev](https://github.com/sony/node-win-usbdev) pushed_at:2018-02 
+- [sony/v8eval](https://github.com/sony/v8eval) pushed_at:2019-09 Multi-language bindings to JavaScript engine V8
 
 ## Cuda
 
-- [sony/nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) A CUDA Extension of Neural Network Libraries
+- [sony/nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) pushed_at:2020-12 A CUDA Extension of Neural Network Libraries
 
 ## Go
 
-- [sony/appsync-client-go](https://github.com/sony/appsync-client-go) AWS AppSync golang client library
-- [sony/gobreaker](https://github.com/sony/gobreaker) Circuit Breaker implemented in Go
-- [sony/micro-notifier](https://github.com/sony/micro-notifier) Simplified Pusher Clone
-- [sony/sonyflake](https://github.com/sony/sonyflake) A distributed unique ID generator inspired by Twitter's Snowflake
+- [sony/appsync-client-go](https://github.com/sony/appsync-client-go) pushed_at:2020-11 AWS AppSync golang client library
+- [sony/gobreaker](https://github.com/sony/gobreaker) pushed_at:2020-09 Circuit Breaker implemented in Go
+- [sony/micro-notifier](https://github.com/sony/micro-notifier) pushed_at:2020-09 Simplified Pusher Clone
+- [sony/sonyflake](https://github.com/sony/sonyflake) pushed_at:2020-10 A distributed unique ID generator inspired by Twitter's Snowflake
 
 ## HTML
 
-- [sony/cdp-cli](https://github.com/sony/cdp-cli) Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository)
+- [sony/cdp-cli](https://github.com/sony/cdp-cli) pushed_at:2018-07 Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository)
 
 ## Java
 
-- [sony/smarttennissensormp4meta](https://github.com/sony/smarttennissensormp4meta) 
-- [sony/smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time.
+- [sony/smarttennissensormp4meta](https://github.com/sony/smarttennissensormp4meta) pushed_at:2016-09 
+- [sony/smarttennissensorsdk](https://github.com/sony/smarttennissensorsdk) pushed_at:2017-02 The Smart Tennis Sensor plugs into the end of a tennis racket and records data about all the shots you make throughout a game or practice. With the SDK, you can develop apps for analyzing and presenting that data in real-time.
 
 ## JavaScript
 
-- [sony/cdp-lib](https://github.com/sony/cdp-lib) Application template/libraries for cdp-js (Details: see cdp-js repository)
-- [sony/cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) 
-- [sony/generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) 
-- [sony/huis-ui-creator](https://github.com/sony/huis-ui-creator) 
-- [sony/isren](https://github.com/sony/isren) 
-- [sony/mapray-js](https://github.com/sony/mapray-js) JavaScript library for Interactive high quality 3D globes and maps in the browser
-- [sony/nmos-js](https://github.com/sony/nmos-js) An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
+- [sony/cdp-lib](https://github.com/sony/cdp-lib) pushed_at:2018-02 Application template/libraries for cdp-js (Details: see cdp-js repository)
+- [sony/cordova-plugin-cdp-nativebridge](https://github.com/sony/cordova-plugin-cdp-nativebridge) pushed_at:2016-11 
+- [sony/generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) pushed_at:2016-05 
+- [sony/huis-ui-creator](https://github.com/sony/huis-ui-creator) pushed_at:2018-10 
+- [sony/isren](https://github.com/sony/isren) pushed_at:2020-12 
+- [sony/mapray-js](https://github.com/sony/mapray-js) pushed_at:2020-12 JavaScript library for Interactive high quality 3D globes and maps in the browser
+- [sony/nmos-js](https://github.com/sony/nmos-js) pushed_at:2020-12 An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
 
 ## Others
 
-- [sony/nnabla-doc](https://github.com/sony/nnabla-doc) 
+- [sony/nnabla-doc](https://github.com/sony/nnabla-doc) pushed_at:2020-12 
 
 ## PHP
 
-- [sony/cdn-purge-control-php](https://github.com/sony/cdn-purge-control-php) Multi CDN purge control library for PHP
+- [sony/cdn-purge-control-php](https://github.com/sony/cdn-purge-control-php) pushed_at:2016-10 Multi CDN purge control library for PHP
 
 ## Python
 
-- [sony/ai-research-code](https://github.com/sony/ai-research-code) 
-- [sony/nnabla](https://github.com/sony/nnabla) Neural Network Libraries
-- [sony/nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) 
-- [sony/nnabla-examples](https://github.com/sony/nnabla-examples) Neural Network Libraries https://nnabla.org/ - Examples
-- [sony/nnabla-nas](https://github.com/sony/nnabla-nas) Neural Architecture Search for Neural Network Libraries
+- [sony/ai-research-code](https://github.com/sony/ai-research-code) pushed_at:2020-04 
+- [sony/nnabla](https://github.com/sony/nnabla) pushed_at:2020-12 Neural Network Libraries
+- [sony/nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) pushed_at:2019-03 
+- [sony/nnabla-examples](https://github.com/sony/nnabla-examples) pushed_at:2020-12 Neural Network Libraries https://nnabla.org/ - Examples
+- [sony/nnabla-nas](https://github.com/sony/nnabla-nas) pushed_at:2020-11 Neural Architecture Search for Neural Network Libraries
 
 ## TypeScript
 
-- [sony/cdp-js](https://github.com/sony/cdp-js) Libraries/SDK modules for multi-platform application development
-- [sony/typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa.
+- [sony/cdp-js](https://github.com/sony/cdp-js) pushed_at:2018-05 Libraries/SDK modules for multi-platform application development
+- [sony/typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) pushed_at:2020-01 Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa.
 
 
 ## License

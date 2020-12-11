@@ -23,160 +23,160 @@
 
 ## C
 
-- [openai/openai-gemm](https://github.com/openai/openai-gemm) Open single and half precision gemm implementations 
-- [openai/pachi-py](https://github.com/openai/pachi-py) Python wrappers for Pachi. Contains a modified version of the bleeding-edge Pachi source code.
-- [openai/retro](https://github.com/openai/retro) Retro Games in Gym
+- [openai/openai-gemm](https://github.com/openai/openai-gemm) pushed_at:2018-11 Open single and half precision gemm implementations 
+- [openai/pachi-py](https://github.com/openai/pachi-py) pushed_at:2018-11 Python wrappers for Pachi. Contains a modified version of the bleeding-edge Pachi source code.
+- [openai/retro](https://github.com/openai/retro) pushed_at:2020-11 Retro Games in Gym
 
 ## C#
 
-- [openai/orrb](https://github.com/openai/orrb) Code for the paper "OpenAI Remote Rendering Backend"
+- [openai/orrb](https://github.com/openai/orrb) pushed_at:2019-07 Code for the paper "OpenAI Remote Rendering Backend"
 
 ## C++
 
-- [openai/atari-py](https://github.com/openai/atari-py) A packaged and slightly-modified version of https://github.com/bbitmaster/ale_python_interface
-- [openai/box2d-py](https://github.com/openai/box2d-py) 
-- [openai/coinrun](https://github.com/openai/coinrun) Code for the paper "Quantifying Transfer in Reinforcement Learning"
-- [openai/doom-py](https://github.com/openai/doom-py) ViZDoom Python wrapper
-- [openai/nccl](https://github.com/openai/nccl) Optimized primitives for collective multi-GPU communication
-- [openai/procgen](https://github.com/openai/procgen) Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
-- [openai/pytorch](https://github.com/openai/pytorch) Tensors and Dynamic neural networks in Python with strong GPU acceleration
-- [openai/robot_controllers](https://github.com/openai/robot_controllers) Robot control infrastructure
+- [openai/atari-py](https://github.com/openai/atari-py) pushed_at:2020-09 A packaged and slightly-modified version of https://github.com/bbitmaster/ale_python_interface
+- [openai/box2d-py](https://github.com/openai/box2d-py) pushed_at:2019-10 
+- [openai/coinrun](https://github.com/openai/coinrun) pushed_at:2019-08 Code for the paper "Quantifying Transfer in Reinforcement Learning"
+- [openai/doom-py](https://github.com/openai/doom-py) pushed_at:2019-10 ViZDoom Python wrapper
+- [openai/nccl](https://github.com/openai/nccl) pushed_at:2019-04 Optimized primitives for collective multi-GPU communication
+- [openai/procgen](https://github.com/openai/procgen) pushed_at:2020-10 Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
+- [openai/pytorch](https://github.com/openai/pytorch) pushed_at:2020-12 Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [openai/robot_controllers](https://github.com/openai/robot_controllers) pushed_at:2016-07 Robot control infrastructure
 
 ## CSS
 
-- [openai/signup-forms](https://github.com/openai/signup-forms) Code for the paper "World of Bits: An Open-Domain Platform for Web-Based Agents"
+- [openai/signup-forms](https://github.com/openai/signup-forms) pushed_at:2018-11 Code for the paper "World of Bits: An Open-Domain Platform for Web-Based Agents"
 
 ## Cuda
 
-- [openai/blocksparse](https://github.com/openai/blocksparse) Efficient GPU kernels for block-sparse matrix multiplication and convolution
+- [openai/blocksparse](https://github.com/openai/blocksparse) pushed_at:2020-09 Efficient GPU kernels for block-sparse matrix multiplication and convolution
 
 ## Go
 
-- [openai/go-vncdriver](https://github.com/openai/go-vncdriver) Fast VNC driver
-- [openai/oauth2_proxy](https://github.com/openai/oauth2_proxy) A reverse proxy that provides authentication with Google, Github or other provider
-- [openai/prometheus](https://github.com/openai/prometheus) The Prometheus monitoring system and time series database.
+- [openai/go-vncdriver](https://github.com/openai/go-vncdriver) pushed_at:2020-04 Fast VNC driver
+- [openai/oauth2_proxy](https://github.com/openai/oauth2_proxy) pushed_at:2020-01 A reverse proxy that provides authentication with Google, Github or other provider
+- [openai/prometheus](https://github.com/openai/prometheus) pushed_at:2020-11 The Prometheus monitoring system and time series database.
 
 ## HTML
 
-- [openai/requests-for-research](https://github.com/openai/requests-for-research) A living collection of deep learning problems
+- [openai/requests-for-research](https://github.com/openai/requests-for-research) pushed_at:2018-11 A living collection of deep learning problems
 
 ## JavaScript
 
-- [openai/go-alias](https://github.com/openai/go-alias) Service for quickly aliasing and redirecting to long URLs
-- [openai/mitmproxy](https://github.com/openai/mitmproxy) An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
-- [openai/pixel](https://github.com/openai/pixel) Code for the single pixel debate game from the paper "AI safety via debate" (https://arxiv.org/abs/1805.00899)
-- [openai/supervised-reptile](https://github.com/openai/supervised-reptile) Code for the paper "On First-Order Meta-Learning Algorithms"
-- [openai/tabulate](https://github.com/openai/tabulate) public release of Excel / OpenAI API integration
+- [openai/go-alias](https://github.com/openai/go-alias) pushed_at:2018-11 Service for quickly aliasing and redirecting to long URLs
+- [openai/mitmproxy](https://github.com/openai/mitmproxy) pushed_at:2016-11 An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
+- [openai/pixel](https://github.com/openai/pixel) pushed_at:2020-09 Code for the single pixel debate game from the paper "AI safety via debate" (https://arxiv.org/abs/1805.00899)
+- [openai/supervised-reptile](https://github.com/openai/supervised-reptile) pushed_at:2020-08 Code for the paper "On First-Order Meta-Learning Algorithms"
+- [openai/tabulate](https://github.com/openai/tabulate) pushed_at:2020-12 public release of Excel / OpenAI API integration
 
 ## Jupyter Notebook
 
-- [openai/baselines-results](https://github.com/openai/baselines-results) 
-- [openai/lucid](https://github.com/openai/lucid) A collection of infrastructure and tools for research in neural network interpretability.
-- [openai/ot-gan](https://github.com/openai/ot-gan)  Code for the paper "Improving GANs Using Optimal Transport"
+- [openai/baselines-results](https://github.com/openai/baselines-results) pushed_at:2020-07 
+- [openai/lucid](https://github.com/openai/lucid) pushed_at:2019-01 A collection of infrastructure and tools for research in neural network interpretability.
+- [openai/ot-gan](https://github.com/openai/ot-gan) pushed_at:2018-11  Code for the paper "Improving GANs Using Optimal Transport"
 
 ## Others
 
-- [openai/ai-and-efficiency](https://github.com/openai/ai-and-efficiency) Submissions for AI and Efficiency SOTA's
-- [openai/bchess-personal](https://github.com/openai/bchess-personal) temporarily public for a bug report
-- [openai/consul-helm](https://github.com/openai/consul-helm) Helm chart to install Consul and other associated components.
-- [openai/go-retryablehttp](https://github.com/openai/go-retryablehttp) Retryable HTTP client in Go
-- [openai/gpt-3](https://github.com/openai/gpt-3) GPT-3: Language Models are Few-Shot Learners
-- [openai/GPT-3-Encoder](https://github.com/openai/GPT-3-Encoder) Javascript BPE Encoder Decoder for GPT-2 / GPT-3
-- [openai/jeffwu-dotfiles](https://github.com/openai/jeffwu-dotfiles) my configuration files
-- [openai/kubernetes](https://github.com/openai/kubernetes) Production-Grade Container Scheduling and Management
-- [openai/lustre](https://github.com/openai/lustre) 
-- [openai/monorepo-diff-buildkite-plugin](https://github.com/openai/monorepo-diff-buildkite-plugin) Run separate pipelines for each folder in your monorepo
-- [openai/scheduler-plugins](https://github.com/openai/scheduler-plugins) Repository for out-of-tree scheduler plugins based on scheduler framework.
+- [openai/ai-and-efficiency](https://github.com/openai/ai-and-efficiency) pushed_at:2020-06 Submissions for AI and Efficiency SOTA's
+- [openai/bchess-personal](https://github.com/openai/bchess-personal) pushed_at:2020-07 temporarily public for a bug report
+- [openai/consul-helm](https://github.com/openai/consul-helm) pushed_at:2020-10 Helm chart to install Consul and other associated components.
+- [openai/go-retryablehttp](https://github.com/openai/go-retryablehttp) pushed_at:2020-06 Retryable HTTP client in Go
+- [openai/gpt-3](https://github.com/openai/gpt-3) pushed_at:2020-09 GPT-3: Language Models are Few-Shot Learners
+- [openai/GPT-3-Encoder](https://github.com/openai/GPT-3-Encoder) pushed_at:2020-11 Javascript BPE Encoder Decoder for GPT-2 / GPT-3
+- [openai/jeffwu-dotfiles](https://github.com/openai/jeffwu-dotfiles) pushed_at:2020-09 my configuration files
+- [openai/kubernetes](https://github.com/openai/kubernetes) pushed_at:2020-07 Production-Grade Container Scheduling and Management
+- [openai/lustre](https://github.com/openai/lustre) pushed_at:2020-09 
+- [openai/monorepo-diff-buildkite-plugin](https://github.com/openai/monorepo-diff-buildkite-plugin) pushed_at:2019-05 Run separate pipelines for each folder in your monorepo
+- [openai/scheduler-plugins](https://github.com/openai/scheduler-plugins) pushed_at:2020-12 Repository for out-of-tree scheduler plugins based on scheduler framework.
 
 ## Python
 
-- [openai/atari-demo](https://github.com/openai/atari-demo) Code for the blog post "Learning Montezuma’s Revenge from a Single Demonstration"
-- [openai/atari-reset](https://github.com/openai/atari-reset) Code for the blog post "Learning Montezuma’s Revenge from a Single Demonstration"
-- [openai/baselines](https://github.com/openai/baselines) OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
-- [openai/deeptype](https://github.com/openai/deeptype)  Code for the paper "DeepType: Multilingual Entity Linking by Neural Type System Evolution"
-- [openai/distribution_augmentation](https://github.com/openai/distribution_augmentation) Code for the paper, "Distribution Augmentation for Generative Modeling", ICML 2020.
-- [openai/ebm_code_release](https://github.com/openai/ebm_code_release) Code for Implicit Generation and Generalization with Energy Based Models
-- [openai/EPG](https://github.com/openai/EPG) Code for the paper "Evolved Policy Gradients"
-- [openai/evolution-strategies-starter](https://github.com/openai/evolution-strategies-starter) Code for the paper "Evolution Strategies as a Scalable Alternative to Reinforcement Learning"
-- [openai/fetch_robots](https://github.com/openai/fetch_robots) Bringup for fetch & freight
-- [openai/finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm) Code and model for the paper "Improving Language Understanding by Generative Pre-Training"
-- [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) Code for "Learning to Generate Reviews and Discovering Sentiment"
-- [openai/glow](https://github.com/openai/glow) Code for reproducing results in "Glow: Generative Flow with Invertible 1x1 Convolutions"
-- [openai/gpt-2](https://github.com/openai/gpt-2) Code for the paper "Language Models are Unsupervised Multitask Learners"
-- [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) Dataset of GPT-2 outputs for research in detection, biases, and more
-- [openai/gym](https://github.com/openai/gym) A toolkit for developing and comparing reinforcement learning algorithms.
-- [openai/gym-http-api](https://github.com/openai/gym-http-api) API to access OpenAI Gym from other languages via HTTP
-- [openai/gym-recording](https://github.com/openai/gym-recording) Add-on package to gym, to record sequences of actions, observations, and rewards
-- [openai/gym-soccer](https://github.com/openai/gym-soccer) 
-- [openai/gym-wikinav](https://github.com/openai/gym-wikinav) Wikipedia navigation environment for OpenAI Gym
-- [openai/gym3](https://github.com/openai/gym3) Vectorized interface for reinforcement learning environments
-- [openai/iaf](https://github.com/openai/iaf) Code for reproducing key results in the paper "Improving Variational Inference with Inverse Autoregressive Flow"
-- [openai/image-gpt](https://github.com/openai/image-gpt) 
-- [openai/imitation](https://github.com/openai/imitation)  Code for the paper "Generative Adversarial Imitation Learning"
-- [openai/improved-gan](https://github.com/openai/improved-gan) Code for the paper "Improved Techniques for Training GANs"
-- [openai/InfoGAN](https://github.com/openai/InfoGAN) Code for reproducing key results in the paper "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets"
-- [openai/jukebox](https://github.com/openai/jukebox) Code for the paper "Jukebox: A Generative Model for Music"
-- [openai/kubernetes-ec2-autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler) A batch-optimized scaling manager for Kubernetes
-- [openai/large-scale-curiosity](https://github.com/openai/large-scale-curiosity) Code for the paper "Large-Scale Study of Curiosity-Driven Learning"
-- [openai/lm-human-preferences](https://github.com/openai/lm-human-preferences) Code for the paper Fine-Tuning Language Models from Human Preferences
-- [openai/maddpg](https://github.com/openai/maddpg) Code for the MADDPG algorithm from the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
-- [openai/ml-agents](https://github.com/openai/ml-agents) Unity Machine Learning Agents Toolkit
-- [openai/mlsh](https://github.com/openai/mlsh)  Code for the paper "Meta-Learning Shared Hierarchies"
-- [openai/mujoco-py](https://github.com/openai/mujoco-py) MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
-- [openai/mujoco-worldgen](https://github.com/openai/mujoco-worldgen) Automatic object XML generation for Mujoco
-- [openai/multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
-- [openai/multiagent-competition](https://github.com/openai/multiagent-competition)  Code for the paper "Emergent Complexity via Multi-agent Competition"
-- [openai/multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs) Code for a multi-agent particle environment used in the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
-- [openai/neural-gpu](https://github.com/openai/neural-gpu) Code for the Neural GPU model originally described in "Neural GPUs Learn Algorithms"
-- [openai/neural-mmo](https://github.com/openai/neural-mmo) Code for the paper "Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents"
-- [openai/openai-python](https://github.com/openai/openai-python) 
-- [openai/phasic-policy-gradient](https://github.com/openai/phasic-policy-gradient) Code for the paper "Phasic Policy Gradient"
-- [openai/pixel-cnn](https://github.com/openai/pixel-cnn) Code for the paper "PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications"
-- [openai/psaw](https://github.com/openai/psaw) Python Pushshift.io API Wrapper (for comment/submission search)
-- [openai/pyconfigatron](https://github.com/openai/pyconfigatron) a python3 compatible pyconfigatron
-- [openai/random-network-distillation](https://github.com/openai/random-network-distillation) Code for the paper "Exploration by Random Network Distillation"
-- [openai/retask](https://github.com/openai/retask) Retask is a simple task queue implementation written for human beings. It provides generic solution to create and manage task queues. 
-- [openai/retro-baselines](https://github.com/openai/retro-baselines) Publicly releasable baselines for the Retro contest
-- [openai/retro-contest](https://github.com/openai/retro-contest) OpenAI Retro Contest
-- [openai/retro-movies](https://github.com/openai/retro-movies) 
-- [openai/robogym](https://github.com/openai/robogym) Robotics Gym Environments
-- [openai/roboschool](https://github.com/openai/roboschool) DEPRECATED: Open-source software for robot simulation, integrated with OpenAI Gym.
-- [openai/robosumo](https://github.com/openai/robosumo)  Code for the paper "Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments"
-- [openai/rosbridge](https://github.com/openai/rosbridge) [deprecated] Bridge from Gym to ROS robots
-- [openai/safety-gym](https://github.com/openai/safety-gym) Tools for accelerating safe exploration research.
-- [openai/safety-starter-agents](https://github.com/openai/safety-starter-agents) Basic constrained RL agents used in experiments for the "Benchmarking Safe Exploration in Deep Reinforcement Learning" paper.
-- [openai/sonic-on-ray](https://github.com/openai/sonic-on-ray) Training Sonic with RLlib
-- [openai/sparse_attention](https://github.com/openai/sparse_attention) Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers"
-- [openai/spinningup](https://github.com/openai/spinningup) An educational resource to help anyone learn deep reinforcement learning.
-- [openai/staged-recipes](https://github.com/openai/staged-recipes) A place to submit conda recipes before they become fully fledged conda-forge feedstocks
-- [openai/summarize-from-feedback](https://github.com/openai/summarize-from-feedback) Code for "Learning to summarize from human feedback"
-- [openai/train-procgen](https://github.com/openai/train-procgen) Code for the paper "Leveraging Procedural Generation to Benchmark Reinforcement Learning"
-- [openai/understanding-rl-vision](https://github.com/openai/understanding-rl-vision) Code for the paper "Understanding RL Vision"
-- [openai/universe](https://github.com/openai/universe) Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.
-- [openai/universe-starter-agent](https://github.com/openai/universe-starter-agent) A starter agent that can solve a number of universe environments.
-- [openai/vdvae](https://github.com/openai/vdvae) Repository for the paper "Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images"
-- [openai/vime](https://github.com/openai/vime) Code for the paper "Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks"
-- [openai/websockify](https://github.com/openai/websockify) Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
-- [openai/weightnorm](https://github.com/openai/weightnorm) Example code for Weight Normalization, from "Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks"
-- [openai/zbarlight](https://github.com/openai/zbarlight) A simple wrapper for zbar
+- [openai/atari-demo](https://github.com/openai/atari-demo) pushed_at:2018-11 Code for the blog post "Learning Montezuma’s Revenge from a Single Demonstration"
+- [openai/atari-reset](https://github.com/openai/atari-reset) pushed_at:2018-11 Code for the blog post "Learning Montezuma’s Revenge from a Single Demonstration"
+- [openai/baselines](https://github.com/openai/baselines) pushed_at:2020-10 OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
+- [openai/deeptype](https://github.com/openai/deeptype) pushed_at:2019-03  Code for the paper "DeepType: Multilingual Entity Linking by Neural Type System Evolution"
+- [openai/distribution_augmentation](https://github.com/openai/distribution_augmentation) pushed_at:2020-11 Code for the paper, "Distribution Augmentation for Generative Modeling", ICML 2020.
+- [openai/ebm_code_release](https://github.com/openai/ebm_code_release) pushed_at:2019-04 Code for Implicit Generation and Generalization with Energy Based Models
+- [openai/EPG](https://github.com/openai/EPG) pushed_at:2018-11 Code for the paper "Evolved Policy Gradients"
+- [openai/evolution-strategies-starter](https://github.com/openai/evolution-strategies-starter) pushed_at:2019-10 Code for the paper "Evolution Strategies as a Scalable Alternative to Reinforcement Learning"
+- [openai/fetch_robots](https://github.com/openai/fetch_robots) pushed_at:2016-07 Bringup for fetch & freight
+- [openai/finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm) pushed_at:2019-01 Code and model for the paper "Improving Language Understanding by Generative Pre-Training"
+- [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) pushed_at:2019-07 Code for "Learning to Generate Reviews and Discovering Sentiment"
+- [openai/glow](https://github.com/openai/glow) pushed_at:2020-11 Code for reproducing results in "Glow: Generative Flow with Invertible 1x1 Convolutions"
+- [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2020-12 Code for the paper "Language Models are Unsupervised Multitask Learners"
+- [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) pushed_at:2020-08 Dataset of GPT-2 outputs for research in detection, biases, and more
+- [openai/gym](https://github.com/openai/gym) pushed_at:2020-12 A toolkit for developing and comparing reinforcement learning algorithms.
+- [openai/gym-http-api](https://github.com/openai/gym-http-api) pushed_at:2019-07 API to access OpenAI Gym from other languages via HTTP
+- [openai/gym-recording](https://github.com/openai/gym-recording) pushed_at:2020-10 Add-on package to gym, to record sequences of actions, observations, and rewards
+- [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2018-11 
+- [openai/gym-wikinav](https://github.com/openai/gym-wikinav) pushed_at:2018-11 Wikipedia navigation environment for OpenAI Gym
+- [openai/gym3](https://github.com/openai/gym3) pushed_at:2020-12 Vectorized interface for reinforcement learning environments
+- [openai/iaf](https://github.com/openai/iaf) pushed_at:2018-11 Code for reproducing key results in the paper "Improving Variational Inference with Inverse Autoregressive Flow"
+- [openai/image-gpt](https://github.com/openai/image-gpt) pushed_at:2020-12 
+- [openai/imitation](https://github.com/openai/imitation) pushed_at:2018-11  Code for the paper "Generative Adversarial Imitation Learning"
+- [openai/improved-gan](https://github.com/openai/improved-gan) pushed_at:2018-11 Code for the paper "Improved Techniques for Training GANs"
+- [openai/InfoGAN](https://github.com/openai/InfoGAN) pushed_at:2019-12 Code for reproducing key results in the paper "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets"
+- [openai/jukebox](https://github.com/openai/jukebox) pushed_at:2020-11 Code for the paper "Jukebox: A Generative Model for Music"
+- [openai/kubernetes-ec2-autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler) pushed_at:2019-06 A batch-optimized scaling manager for Kubernetes
+- [openai/large-scale-curiosity](https://github.com/openai/large-scale-curiosity) pushed_at:2020-01 Code for the paper "Large-Scale Study of Curiosity-Driven Learning"
+- [openai/lm-human-preferences](https://github.com/openai/lm-human-preferences) pushed_at:2020-12 Code for the paper Fine-Tuning Language Models from Human Preferences
+- [openai/maddpg](https://github.com/openai/maddpg) pushed_at:2020-04 Code for the MADDPG algorithm from the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
+- [openai/ml-agents](https://github.com/openai/ml-agents) pushed_at:2020-03 Unity Machine Learning Agents Toolkit
+- [openai/mlsh](https://github.com/openai/mlsh) pushed_at:2019-07  Code for the paper "Meta-Learning Shared Hierarchies"
+- [openai/mujoco-py](https://github.com/openai/mujoco-py) pushed_at:2020-12 MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
+- [openai/mujoco-worldgen](https://github.com/openai/mujoco-worldgen) pushed_at:2019-11 Automatic object XML generation for Mujoco
+- [openai/multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) pushed_at:2020-11 Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
+- [openai/multiagent-competition](https://github.com/openai/multiagent-competition) pushed_at:2019-10  Code for the paper "Emergent Complexity via Multi-agent Competition"
+- [openai/multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs) pushed_at:2020-12 Code for a multi-agent particle environment used in the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
+- [openai/neural-gpu](https://github.com/openai/neural-gpu) pushed_at:2018-11 Code for the Neural GPU model originally described in "Neural GPUs Learn Algorithms"
+- [openai/neural-mmo](https://github.com/openai/neural-mmo) pushed_at:2020-03 Code for the paper "Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents"
+- [openai/openai-python](https://github.com/openai/openai-python) pushed_at:2020-10 
+- [openai/phasic-policy-gradient](https://github.com/openai/phasic-policy-gradient) pushed_at:2020-09 Code for the paper "Phasic Policy Gradient"
+- [openai/pixel-cnn](https://github.com/openai/pixel-cnn) pushed_at:2020-02 Code for the paper "PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications"
+- [openai/psaw](https://github.com/openai/psaw) pushed_at:2020-10 Python Pushshift.io API Wrapper (for comment/submission search)
+- [openai/pyconfigatron](https://github.com/openai/pyconfigatron) pushed_at:2016-10 a python3 compatible pyconfigatron
+- [openai/random-network-distillation](https://github.com/openai/random-network-distillation) pushed_at:2020-10 Code for the paper "Exploration by Random Network Distillation"
+- [openai/retask](https://github.com/openai/retask) pushed_at:2017-02 Retask is a simple task queue implementation written for human beings. It provides generic solution to create and manage task queues. 
+- [openai/retro-baselines](https://github.com/openai/retro-baselines) pushed_at:2018-11 Publicly releasable baselines for the Retro contest
+- [openai/retro-contest](https://github.com/openai/retro-contest) pushed_at:2018-11 OpenAI Retro Contest
+- [openai/retro-movies](https://github.com/openai/retro-movies) pushed_at:2018-11 
+- [openai/robogym](https://github.com/openai/robogym) pushed_at:2020-11 Robotics Gym Environments
+- [openai/roboschool](https://github.com/openai/roboschool) pushed_at:2019-10 DEPRECATED: Open-source software for robot simulation, integrated with OpenAI Gym.
+- [openai/robosumo](https://github.com/openai/robosumo) pushed_at:2019-02  Code for the paper "Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments"
+- [openai/rosbridge](https://github.com/openai/rosbridge) pushed_at:2018-11 [deprecated] Bridge from Gym to ROS robots
+- [openai/safety-gym](https://github.com/openai/safety-gym) pushed_at:2019-11 Tools for accelerating safe exploration research.
+- [openai/safety-starter-agents](https://github.com/openai/safety-starter-agents) pushed_at:2020-09 Basic constrained RL agents used in experiments for the "Benchmarking Safe Exploration in Deep Reinforcement Learning" paper.
+- [openai/sonic-on-ray](https://github.com/openai/sonic-on-ray) pushed_at:2018-11 Training Sonic with RLlib
+- [openai/sparse_attention](https://github.com/openai/sparse_attention) pushed_at:2020-08 Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers"
+- [openai/spinningup](https://github.com/openai/spinningup) pushed_at:2020-12 An educational resource to help anyone learn deep reinforcement learning.
+- [openai/staged-recipes](https://github.com/openai/staged-recipes) pushed_at:2016-12 A place to submit conda recipes before they become fully fledged conda-forge feedstocks
+- [openai/summarize-from-feedback](https://github.com/openai/summarize-from-feedback) pushed_at:2020-10 Code for "Learning to summarize from human feedback"
+- [openai/train-procgen](https://github.com/openai/train-procgen) pushed_at:2020-06 Code for the paper "Leveraging Procedural Generation to Benchmark Reinforcement Learning"
+- [openai/understanding-rl-vision](https://github.com/openai/understanding-rl-vision) pushed_at:2020-11 Code for the paper "Understanding RL Vision"
+- [openai/universe](https://github.com/openai/universe) pushed_at:2018-04 Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.
+- [openai/universe-starter-agent](https://github.com/openai/universe-starter-agent) pushed_at:2018-04 A starter agent that can solve a number of universe environments.
+- [openai/vdvae](https://github.com/openai/vdvae) pushed_at:2020-11 Repository for the paper "Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images"
+- [openai/vime](https://github.com/openai/vime) pushed_at:2018-11 Code for the paper "Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks"
+- [openai/websockify](https://github.com/openai/websockify) pushed_at:2016-11 Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
+- [openai/weightnorm](https://github.com/openai/weightnorm) pushed_at:2018-11 Example code for Weight Normalization, from "Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks"
+- [openai/zbarlight](https://github.com/openai/zbarlight) pushed_at:2016-12 A simple wrapper for zbar
 
 ## Ruby
 
-- [openai/aws-fluent-plugin-kinesis](https://github.com/openai/aws-fluent-plugin-kinesis) Fluentd output plugin that sends events to Amazon Kinesis Streams and Amazon Kinesis Firehose.
-- [openai/ceph-chef](https://github.com/openai/ceph-chef) Chef cookbooks for managing a Ceph cluster
-- [openai/chef-logdna_agent](https://github.com/openai/chef-logdna_agent) Installs the LogDNA host agent. Currently only supports apt systems.
-- [openai/fluent-plugin-kubernetes_metadata_filter](https://github.com/openai/fluent-plugin-kubernetes_metadata_filter) Enrich your fluentd events with Kubernetes metadata
-- [openai/junit-annotate-buildkite-plugin](https://github.com/openai/junit-annotate-buildkite-plugin) 📈 Summarise your test failures as a build annotation
+- [openai/aws-fluent-plugin-kinesis](https://github.com/openai/aws-fluent-plugin-kinesis) pushed_at:2018-11 Fluentd output plugin that sends events to Amazon Kinesis Streams and Amazon Kinesis Firehose.
+- [openai/ceph-chef](https://github.com/openai/ceph-chef) pushed_at:2018-02 Chef cookbooks for managing a Ceph cluster
+- [openai/chef-logdna_agent](https://github.com/openai/chef-logdna_agent) pushed_at:2018-02 Installs the LogDNA host agent. Currently only supports apt systems.
+- [openai/fluent-plugin-kubernetes_metadata_filter](https://github.com/openai/fluent-plugin-kubernetes_metadata_filter) pushed_at:2020-04 Enrich your fluentd events with Kubernetes metadata
+- [openai/junit-annotate-buildkite-plugin](https://github.com/openai/junit-annotate-buildkite-plugin) pushed_at:2018-04 📈 Summarise your test failures as a build annotation
 
 ## Shell
 
-- [openai/assign-one-project-github-action](https://github.com/openai/assign-one-project-github-action) Automatically add an issue or pull request to specific GitHub Project when you create them.
-- [openai/go-vncdriver-feedstock](https://github.com/openai/go-vncdriver-feedstock) A conda-smithy repository for go-vncdriver.
+- [openai/assign-one-project-github-action](https://github.com/openai/assign-one-project-github-action) pushed_at:2020-07 Automatically add an issue or pull request to specific GitHub Project when you create them.
+- [openai/go-vncdriver-feedstock](https://github.com/openai/go-vncdriver-feedstock) pushed_at:2018-11 A conda-smithy repository for go-vncdriver.
 
 ## TeX
 
-- [openai/post--example](https://github.com/openai/post--example) Example Distill article repository—clone, rename, start writing!
-- [openai/spinningup-workshop](https://github.com/openai/spinningup-workshop) For educational materials related to the spinning up workshops.
+- [openai/post--example](https://github.com/openai/post--example) pushed_at:2018-08 Example Distill article repository—clone, rename, start writing!
+- [openai/spinningup-workshop](https://github.com/openai/spinningup-workshop) pushed_at:2019-02 For educational materials related to the spinning up workshops.
 
 
 ## License

@@ -27,178 +27,178 @@
 
 ## C
 
-- [facebook/fishhook](https://github.com/facebook/fishhook) A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
-- [facebook/glusterfs](https://github.com/facebook/glusterfs) Gluster Filesystem - (this is only a public mirror)
-- [facebook/openbmc](https://github.com/facebook/openbmc) OpenBMC is an open software framework to build a complete Linux image for a Board Management Controller (BMC).
-- [facebook/openbmc-linux](https://github.com/facebook/openbmc-linux) Linux kernel consumed by OpenBMC
-- [facebook/openbmc-uboot](https://github.com/facebook/openbmc-uboot) Tracking Denx Das u-boot with various trusted computing add-ons.
-- [facebook/transform360](https://github.com/facebook/transform360) Transform360 is an equirectangular to cubemap transform for 360 video.
-- [facebook/zstd](https://github.com/facebook/zstd) Zstandard - Fast real-time compression algorithm
+- [facebook/fishhook](https://github.com/facebook/fishhook) pushed_at:2020-09 A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
+- [facebook/glusterfs](https://github.com/facebook/glusterfs) pushed_at:2019-06 Gluster Filesystem - (this is only a public mirror)
+- [facebook/openbmc](https://github.com/facebook/openbmc) pushed_at:2020-12 OpenBMC is an open software framework to build a complete Linux image for a Board Management Controller (BMC).
+- [facebook/openbmc-linux](https://github.com/facebook/openbmc-linux) pushed_at:2020-12 Linux kernel consumed by OpenBMC
+- [facebook/openbmc-uboot](https://github.com/facebook/openbmc-uboot) pushed_at:2020-12 Tracking Denx Das u-boot with various trusted computing add-ons.
+- [facebook/transform360](https://github.com/facebook/transform360) pushed_at:2020-06 Transform360 is an equirectangular to cubemap transform for 360 video.
+- [facebook/zstd](https://github.com/facebook/zstd) pushed_at:2020-12 Zstandard - Fast real-time compression algorithm
 
 ## C++
 
-- [facebook/bistro](https://github.com/facebook/bistro) Bistro is a flexible distributed scheduler, a high-performance framework supporting multiple paradigms while retaining ease of configuration, management, and monitoring.
-- [facebook/facebook-clang-plugins](https://github.com/facebook/facebook-clang-plugins) Plugins to clang-analyzer and clang-frontend
-- [facebook/facebook-sdk-for-unity](https://github.com/facebook/facebook-sdk-for-unity) The facebook sdk for unity.
-- [facebook/fatal](https://github.com/facebook/fatal) Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood.
-- [facebook/fb303](https://github.com/facebook/fb303) fb303 is a core set of thrift functions that provide a common mechanism for querying stats and other information from a service.
-- [facebook/fboss](https://github.com/facebook/fboss) Facebook Open Switching System  Software for controlling network switches.
-- [facebook/fbthrift](https://github.com/facebook/fbthrift) Facebook's branch of Apache Thrift, including a new C++ server.
-- [facebook/folly](https://github.com/facebook/folly) An open-source C++ library developed and used at Facebook.
-- [facebook/hermes](https://github.com/facebook/hermes) Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.
-- [facebook/hhvm](https://github.com/facebook/hhvm) A virtual machine for executing programs written in Hack.
-- [facebook/mcrouter](https://github.com/facebook/mcrouter) Mcrouter is a memcached protocol router for scaling memcached deployments.
-- [facebook/mysql-5.6](https://github.com/facebook/mysql-5.6) Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks.
-- [facebook/mysql-8.0](https://github.com/facebook/mysql-8.0) MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
-- [facebook/openr](https://github.com/facebook/openr) Distributed platform for building autonomic network functions.
-- [facebook/proxygen](https://github.com/facebook/proxygen) A collection of C++ HTTP libraries including an easy to use HTTP server.
-- [facebook/pyre2](https://github.com/facebook/pyre2) Python wrapper for RE2
-- [facebook/redex](https://github.com/facebook/redex) A bytecode optimizer for Android apps
-- [facebook/rocksdb](https://github.com/facebook/rocksdb) A library that provides an embeddable, persistent key-value store for fast storage.
-- [facebook/squangle](https://github.com/facebook/squangle) SQuangLe is a C++ API for accessing MySQL servers
-- [facebook/Surround360](https://github.com/facebook/Surround360) Surround360 is Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR. The repo contains hardware designs, as well as software for camera control and rendering.
-- [facebook/ThreatExchange](https://github.com/facebook/ThreatExchange) Share threat information with vetted partners
-- [facebook/treadmill](https://github.com/facebook/treadmill) An intelligent loadtester
-- [facebook/wangle](https://github.com/facebook/wangle) Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
-- [facebook/watchman](https://github.com/facebook/watchman) Watches files and records, or triggers actions, when they change. 
-- [facebook/wdt](https://github.com/facebook/wdt) Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
-- [facebook/xcbuild](https://github.com/facebook/xcbuild) Xcode-compatible build tool.
-- [facebook/yoga](https://github.com/facebook/yoga) Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
+- [facebook/bistro](https://github.com/facebook/bistro) pushed_at:2020-12 Bistro is a flexible distributed scheduler, a high-performance framework supporting multiple paradigms while retaining ease of configuration, management, and monitoring.
+- [facebook/facebook-clang-plugins](https://github.com/facebook/facebook-clang-plugins) pushed_at:2020-09 Plugins to clang-analyzer and clang-frontend
+- [facebook/facebook-sdk-for-unity](https://github.com/facebook/facebook-sdk-for-unity) pushed_at:2020-12 The facebook sdk for unity.
+- [facebook/fatal](https://github.com/facebook/fatal) pushed_at:2020-12 Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood.
+- [facebook/fb303](https://github.com/facebook/fb303) pushed_at:2020-12 fb303 is a core set of thrift functions that provide a common mechanism for querying stats and other information from a service.
+- [facebook/fboss](https://github.com/facebook/fboss) pushed_at:2020-12 Facebook Open Switching System  Software for controlling network switches.
+- [facebook/fbthrift](https://github.com/facebook/fbthrift) pushed_at:2020-12 Facebook's branch of Apache Thrift, including a new C++ server.
+- [facebook/folly](https://github.com/facebook/folly) pushed_at:2020-12 An open-source C++ library developed and used at Facebook.
+- [facebook/hermes](https://github.com/facebook/hermes) pushed_at:2020-12 Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.
+- [facebook/hhvm](https://github.com/facebook/hhvm) pushed_at:2020-12 A virtual machine for executing programs written in Hack.
+- [facebook/mcrouter](https://github.com/facebook/mcrouter) pushed_at:2020-12 Mcrouter is a memcached protocol router for scaling memcached deployments.
+- [facebook/mysql-5.6](https://github.com/facebook/mysql-5.6) pushed_at:2020-12 Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks.
+- [facebook/mysql-8.0](https://github.com/facebook/mysql-8.0) pushed_at:2020-10 MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
+- [facebook/openr](https://github.com/facebook/openr) pushed_at:2020-12 Distributed platform for building autonomic network functions.
+- [facebook/proxygen](https://github.com/facebook/proxygen) pushed_at:2020-12 A collection of C++ HTTP libraries including an easy to use HTTP server.
+- [facebook/pyre2](https://github.com/facebook/pyre2) pushed_at:2020-03 Python wrapper for RE2
+- [facebook/redex](https://github.com/facebook/redex) pushed_at:2020-12 A bytecode optimizer for Android apps
+- [facebook/rocksdb](https://github.com/facebook/rocksdb) pushed_at:2020-12 A library that provides an embeddable, persistent key-value store for fast storage.
+- [facebook/squangle](https://github.com/facebook/squangle) pushed_at:2020-11 SQuangLe is a C++ API for accessing MySQL servers
+- [facebook/Surround360](https://github.com/facebook/Surround360) pushed_at:2019-08 Surround360 is Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR. The repo contains hardware designs, as well as software for camera control and rendering.
+- [facebook/ThreatExchange](https://github.com/facebook/ThreatExchange) pushed_at:2020-12 Share threat information with vetted partners
+- [facebook/treadmill](https://github.com/facebook/treadmill) pushed_at:2020-12 An intelligent loadtester
+- [facebook/wangle](https://github.com/facebook/wangle) pushed_at:2020-12 Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
+- [facebook/watchman](https://github.com/facebook/watchman) pushed_at:2020-12 Watches files and records, or triggers actions, when they change. 
+- [facebook/wdt](https://github.com/facebook/wdt) pushed_at:2020-11 Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
+- [facebook/xcbuild](https://github.com/facebook/xcbuild) pushed_at:2020-01 Xcode-compatible build tool.
+- [facebook/yoga](https://github.com/facebook/yoga) pushed_at:2020-11 Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 
 ## Go
 
-- [facebook/ent](https://github.com/facebook/ent) An entity framework for Go
-- [facebook/fbtracert](https://github.com/facebook/fbtracert) Identify the network components that drops packets by employing the traceroute logic which explores multiple parallel paths.
+- [facebook/ent](https://github.com/facebook/ent) pushed_at:2020-12 An entity framework for Go
+- [facebook/fbtracert](https://github.com/facebook/fbtracert) pushed_at:2020-08 Identify the network components that drops packets by employing the traceroute logic which explores multiple parallel paths.
 
 ## HTML
 
-- [facebook/facebook360_dep](https://github.com/facebook/facebook360_dep) Facebook360 Depth Estimation Pipeline - https://facebook.github.io/facebook360_dep
-- [facebook/fbhaddock](https://github.com/facebook/fbhaddock) Haskell Documentation Tool
+- [facebook/facebook360_dep](https://github.com/facebook/facebook360_dep) pushed_at:2020-09 Facebook360 Depth Estimation Pipeline - https://facebook.github.io/facebook360_dep
+- [facebook/fbhaddock](https://github.com/facebook/fbhaddock) pushed_at:2020-11 Haskell Documentation Tool
 
 ## Hack
 
-- [facebook/fbshipit](https://github.com/facebook/fbshipit) Copy commits between repositories · git → git, git → hg, hg → hg, or hg → git
+- [facebook/fbshipit](https://github.com/facebook/fbshipit) pushed_at:2020-12 Copy commits between repositories · git → git, git → hg, hg → hg, or hg → git
 
 ## Haskell
 
-- [facebook/duckling](https://github.com/facebook/duckling) Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
-- [facebook/fbghc](https://github.com/facebook/fbghc) Mirror of the Glasgow Haskell Compiler. Patches are best submitted to GHC's Phabricator (https://phabricator.haskell.org/), bugs and feature-requests are best filed to GHC's Trac (https://ghc.haskell.org/trac/ghc), or sent to the mailing list (ghc-devs@haskell.org).     First time contributors are encouraged to get started by just sending a Pull Request.
-- [facebook/Haxl](https://github.com/facebook/Haxl) A Haskell library that simplifies access to remote data, such as databases or web-based services. 
+- [facebook/duckling](https://github.com/facebook/duckling) pushed_at:2020-12 Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
+- [facebook/fbghc](https://github.com/facebook/fbghc) pushed_at:2020-12 Mirror of the Glasgow Haskell Compiler. Patches are best submitted to GHC's Phabricator (https://phabricator.haskell.org/), bugs and feature-requests are best filed to GHC's Trac (https://ghc.haskell.org/trac/ghc), or sent to the mailing list (ghc-devs@haskell.org).     First time contributors are encouraged to get started by just sending a Pull Request.
+- [facebook/Haxl](https://github.com/facebook/Haxl) pushed_at:2020-11 A Haskell library that simplifies access to remote data, such as databases or web-based services. 
 
 ## Java
 
-- [facebook/buck](https://github.com/facebook/buck) A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
-- [facebook/DelegatedRecoveryReferenceImplementation](https://github.com/facebook/DelegatedRecoveryReferenceImplementation) The reference implementation of the Delegated Recovery specification found at https://github.com/facebook/DelegatedRecoverySpecification
-- [facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) Used to integrate Android apps with Facebook Platform.
-- [facebook/facebook-java-business-sdk](https://github.com/facebook/facebook-java-business-sdk) Java SDK for Facebook Ads APIs
-- [facebook/fresco](https://github.com/facebook/fresco) An Android library for managing images and the memory they use.
-- [facebook/litho](https://github.com/facebook/litho) A declarative framework for building efficient UIs on Android.
-- [facebook/nailgun](https://github.com/facebook/nailgun) Nailgun is a client, protocol, and server for running Java programs from the command line without incurring the JVM startup overhead.
-- [facebook/react-native-fbsdk](https://github.com/facebook/react-native-fbsdk) A React Native wrapper around the Facebook SDKs for Android and iOS.  Provides access to Facebook login, sharing, graph requests, app events etc.
-- [facebook/robolectric](https://github.com/facebook/robolectric) Android Unit Testing Framework
-- [facebook/screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android) Generate fast deterministic screenshots during Android instrumentation tests
-- [facebook/shimmer-android](https://github.com/facebook/shimmer-android) An easy, flexible way to add a shimmering effect to any view in an Android app.
-- [facebook/SoLoader](https://github.com/facebook/SoLoader) Native code loader for Android
-- [facebook/TextLayoutBuilder](https://github.com/facebook/TextLayoutBuilder) An Android library that allows you to build text layouts more easily.
+- [facebook/buck](https://github.com/facebook/buck) pushed_at:2020-12 A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
+- [facebook/DelegatedRecoveryReferenceImplementation](https://github.com/facebook/DelegatedRecoveryReferenceImplementation) pushed_at:2019-01 The reference implementation of the Delegated Recovery specification found at https://github.com/facebook/DelegatedRecoverySpecification
+- [facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) pushed_at:2020-12 Used to integrate Android apps with Facebook Platform.
+- [facebook/facebook-java-business-sdk](https://github.com/facebook/facebook-java-business-sdk) pushed_at:2020-12 Java SDK for Facebook Ads APIs
+- [facebook/fresco](https://github.com/facebook/fresco) pushed_at:2020-12 An Android library for managing images and the memory they use.
+- [facebook/litho](https://github.com/facebook/litho) pushed_at:2020-12 A declarative framework for building efficient UIs on Android.
+- [facebook/nailgun](https://github.com/facebook/nailgun) pushed_at:2020-11 Nailgun is a client, protocol, and server for running Java programs from the command line without incurring the JVM startup overhead.
+- [facebook/react-native-fbsdk](https://github.com/facebook/react-native-fbsdk) pushed_at:2020-12 A React Native wrapper around the Facebook SDKs for Android and iOS.  Provides access to Facebook login, sharing, graph requests, app events etc.
+- [facebook/robolectric](https://github.com/facebook/robolectric) pushed_at:2019-03 Android Unit Testing Framework
+- [facebook/screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android) pushed_at:2020-12 Generate fast deterministic screenshots during Android instrumentation tests
+- [facebook/shimmer-android](https://github.com/facebook/shimmer-android) pushed_at:2020-11 An easy, flexible way to add a shimmering effect to any view in an Android app.
+- [facebook/SoLoader](https://github.com/facebook/SoLoader) pushed_at:2020-11 Native code loader for Android
+- [facebook/TextLayoutBuilder](https://github.com/facebook/TextLayoutBuilder) pushed_at:2020-11 An Android library that allows you to build text layouts more easily.
 
 ## JavaScript
 
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) Set up a modern web app by running one command.
-- [facebook/draft-js](https://github.com/facebook/draft-js) A React framework for building text editors.
-- [facebook/facebook-nodejs-business-sdk](https://github.com/facebook/facebook-nodejs-business-sdk) Facebook Ads API using Node.js
-- [facebook/fbjs](https://github.com/facebook/fbjs) A collection of utility libraries used by other Facebook JS projects.
-- [facebook/fbt](https://github.com/facebook/fbt) A JavaScript Internationalization Framework
-- [facebook/flux](https://github.com/facebook/flux) Application Architecture for Building User Interfaces
-- [facebook/instant-articles-builder](https://github.com/facebook/instant-articles-builder) Instant Articles Rules Editor
-- [facebook/jscodeshift](https://github.com/facebook/jscodeshift) A JavaScript codemod toolkit.
-- [facebook/metro](https://github.com/facebook/metro) 🚇 The JavaScript bundler for React Native.
-- [facebook/planout](https://github.com/facebook/planout) PlanOut is a library and interpreter for designing online experiments.
-- [facebook/prepack](https://github.com/facebook/prepack) A JavaScript bundle optimizer.
-- [facebook/prop-types](https://github.com/facebook/prop-types) Runtime type checking for React props and similar objects
-- [facebook/react](https://github.com/facebook/react) A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [facebook/react-360](https://github.com/facebook/react-360) Create amazing 360 and VR content using React
-- [facebook/react-native](https://github.com/facebook/react-native) A framework for building native apps with React.
-- [facebook/react-native-website](https://github.com/facebook/react-native-website) The site and docs for React Native
-- [facebook/rebound-js](https://github.com/facebook/rebound-js) Spring dynamics in JavaScript.
-- [facebook/regenerator](https://github.com/facebook/regenerator) Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
-- [facebook/relay](https://github.com/facebook/relay) Relay is a JavaScript framework for building data-driven React applications.
+- [facebook/create-react-app](https://github.com/facebook/create-react-app) pushed_at:2020-12 Set up a modern web app by running one command.
+- [facebook/draft-js](https://github.com/facebook/draft-js) pushed_at:2020-12 A React framework for building text editors.
+- [facebook/facebook-nodejs-business-sdk](https://github.com/facebook/facebook-nodejs-business-sdk) pushed_at:2020-12 Facebook Ads API using Node.js
+- [facebook/fbjs](https://github.com/facebook/fbjs) pushed_at:2020-11 A collection of utility libraries used by other Facebook JS projects.
+- [facebook/fbt](https://github.com/facebook/fbt) pushed_at:2020-12 A JavaScript Internationalization Framework
+- [facebook/flux](https://github.com/facebook/flux) pushed_at:2020-11 Application Architecture for Building User Interfaces
+- [facebook/instant-articles-builder](https://github.com/facebook/instant-articles-builder) pushed_at:2020-12 Instant Articles Rules Editor
+- [facebook/jscodeshift](https://github.com/facebook/jscodeshift) pushed_at:2020-09 A JavaScript codemod toolkit.
+- [facebook/metro](https://github.com/facebook/metro) pushed_at:2020-12 🚇 The JavaScript bundler for React Native.
+- [facebook/planout](https://github.com/facebook/planout) pushed_at:2020-10 PlanOut is a library and interpreter for designing online experiments.
+- [facebook/prepack](https://github.com/facebook/prepack) pushed_at:2020-09 A JavaScript bundle optimizer.
+- [facebook/prop-types](https://github.com/facebook/prop-types) pushed_at:2020-10 Runtime type checking for React props and similar objects
+- [facebook/react](https://github.com/facebook/react) pushed_at:2020-12 A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react-360](https://github.com/facebook/react-360) pushed_at:2020-11 Create amazing 360 and VR content using React
+- [facebook/react-native](https://github.com/facebook/react-native) pushed_at:2020-12 A framework for building native apps with React.
+- [facebook/react-native-website](https://github.com/facebook/react-native-website) pushed_at:2020-12 The site and docs for React Native
+- [facebook/rebound-js](https://github.com/facebook/rebound-js) pushed_at:2020-09 Spring dynamics in JavaScript.
+- [facebook/regenerator](https://github.com/facebook/regenerator) pushed_at:2020-08 Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
+- [facebook/relay](https://github.com/facebook/relay) pushed_at:2020-12 Relay is a JavaScript framework for building data-driven React applications.
 
 ## Jupyter Notebook
 
-- [facebook/Ax](https://github.com/facebook/Ax) Adaptive Experimentation Platform
+- [facebook/Ax](https://github.com/facebook/Ax) pushed_at:2020-12 Adaptive Experimentation Platform
 
 ## Lua
 
-- [facebook/MemNN](https://github.com/facebook/MemNN) Memory Networks implementations
+- [facebook/MemNN](https://github.com/facebook/MemNN) pushed_at:2020-07 Memory Networks implementations
 
 ## OCaml
 
-- [facebook/flow](https://github.com/facebook/flow) Adds static typing to JavaScript to improve developer productivity and code quality.
-- [facebook/infer](https://github.com/facebook/infer) A static analyzer for Java, C, C++, and Objective-C
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) Performant type-checking for python.
-- [facebook/reason](https://github.com/facebook/reason) Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
+- [facebook/flow](https://github.com/facebook/flow) pushed_at:2020-12 Adds static typing to JavaScript to improve developer productivity and code quality.
+- [facebook/infer](https://github.com/facebook/infer) pushed_at:2020-12 A static analyzer for Java, C, C++, and Objective-C
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) pushed_at:2020-12 Performant type-checking for python.
+- [facebook/reason](https://github.com/facebook/reason) pushed_at:2020-11 Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
 
 ## Objective-C
 
-- [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) Used to integrate the Facebook Platform with your iOS & tvOS apps.
-- [facebook/FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) iOS tool that helps with profiling iOS Memory usage.
-- [facebook/FLAnimatedImage](https://github.com/facebook/FLAnimatedImage) Performant animated GIF engine for iOS
-- [facebook/idb](https://github.com/facebook/idb) idb is a flexible command line interface for automating iOS simulators and devices
-- [facebook/Shimmer](https://github.com/facebook/Shimmer) An easy way to add a simple, shimmering effect to any view in an iOS app.
-- [facebook/tac_plus](https://github.com/facebook/tac_plus) A Tacacs+ Daemon tested on Linux (CentOS) to run AAA via TACACS+ Protocol via IPv4 and IPv6.
-- [facebook/xctool](https://github.com/facebook/xctool) An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
+- [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) pushed_at:2020-12 Used to integrate the Facebook Platform with your iOS & tvOS apps.
+- [facebook/FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) pushed_at:2020-04 iOS tool that helps with profiling iOS Memory usage.
+- [facebook/FLAnimatedImage](https://github.com/facebook/FLAnimatedImage) pushed_at:2015-08 Performant animated GIF engine for iOS
+- [facebook/idb](https://github.com/facebook/idb) pushed_at:2020-12 idb is a flexible command line interface for automating iOS simulators and devices
+- [facebook/Shimmer](https://github.com/facebook/Shimmer) pushed_at:2020-01 An easy way to add a simple, shimmering effect to any view in an iOS app.
+- [facebook/tac_plus](https://github.com/facebook/tac_plus) pushed_at:2019-11 A Tacacs+ Daemon tested on Linux (CentOS) to run AAA via TACACS+ Protocol via IPv4 and IPv6.
+- [facebook/xctool](https://github.com/facebook/xctool) pushed_at:2019-12 An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
 
 ## Objective-C++
 
-- [facebook/componentkit](https://github.com/facebook/componentkit) A React-inspired view framework for iOS.
-- [facebook/FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) iOS library to help detecting retain cycles in runtime.
+- [facebook/componentkit](https://github.com/facebook/componentkit) pushed_at:2020-12 A React-inspired view framework for iOS.
+- [facebook/FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) pushed_at:2020-11 iOS library to help detecting retain cycles in runtime.
 
 ## Others
 
-- [facebook/.github](https://github.com/facebook/.github) Default Community health files for Facebook projects
-- [facebook/jsx](https://github.com/facebook/jsx) The JSX specification is a XML-like syntax extension to ECMAScript.
-- [facebook/react-devtools](https://github.com/facebook/react-devtools) An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
+- [facebook/.github](https://github.com/facebook/.github) pushed_at:2020-09 Default Community health files for Facebook projects
+- [facebook/jsx](https://github.com/facebook/jsx) pushed_at:2019-09 The JSX specification is a XML-like syntax extension to ECMAScript.
+- [facebook/react-devtools](https://github.com/facebook/react-devtools) pushed_at:2019-09 An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
 
 ## PHP
 
-- [facebook/facebook-business-sdk-codegen](https://github.com/facebook/facebook-business-sdk-codegen) Codegen project for our business SDKs
-- [facebook/facebook-instant-articles-sdk-php](https://github.com/facebook/facebook-instant-articles-sdk-php) The Facebook Instant Articles SDK for PHP provides a native interface for creating and publishing Instant Articles.
-- [facebook/facebook-php-business-sdk](https://github.com/facebook/facebook-php-business-sdk) An SDK built to facilitate application development for Facebook Ads API.
+- [facebook/facebook-business-sdk-codegen](https://github.com/facebook/facebook-business-sdk-codegen) pushed_at:2020-12 Codegen project for our business SDKs
+- [facebook/facebook-instant-articles-sdk-php](https://github.com/facebook/facebook-instant-articles-sdk-php) pushed_at:2020-10 The Facebook Instant Articles SDK for PHP provides a native interface for creating and publishing Instant Articles.
+- [facebook/facebook-php-business-sdk](https://github.com/facebook/facebook-php-business-sdk) pushed_at:2020-12 An SDK built to facilitate application development for Facebook Ads API.
 
 ## Python
 
-- [facebook/chisel](https://github.com/facebook/chisel) Chisel is a collection of LLDB commands to assist debugging iOS apps.
-- [facebook/codemod](https://github.com/facebook/codemod) Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
-- [facebook/facebook-python-business-sdk](https://github.com/facebook/facebook-python-business-sdk) An SDK built to facilitate application development for Facebook Ads API.
-- [facebook/FAI-PEP](https://github.com/facebook/FAI-PEP) Facebook AI Performance Evaluation Platform
-- [facebook/fbkutils](https://github.com/facebook/fbkutils) A variety of utilities built and maintained by Facebook's Linux Kernel Team that we wish to share with the community.
-- [facebook/fbtftp](https://github.com/facebook/fbtftp) fbtftp is Facebook's implementation of a dynamic TFTP server framework.
-- [facebook/fbzmq](https://github.com/facebook/fbzmq) Facebook ZeroMQ wrappers.
-- [facebook/mysqlclient-python](https://github.com/facebook/mysqlclient-python) MySQL database connector for Python (with Python 3 support)
-- [facebook/PathPicker](https://github.com/facebook/PathPicker) PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
-- [facebook/pcicrawler](https://github.com/facebook/pcicrawler) pcicrawler is a Python based command line interface tool which can be used to display, filter and export information about PCI (Peripheral Component Interconnect) or PCIe buses and devices, as well as PCI topology.
-- [facebook/prophet](https://github.com/facebook/prophet) Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
-- [facebook/pyaib](https://github.com/facebook/pyaib) An easy to use Python Framework (that uses gevent) for writing IRC Bots.
-- [facebook/Recipes-for-AutoPkg](https://github.com/facebook/Recipes-for-AutoPkg) Collection of AutoPkg recipes authored at Facebook.
+- [facebook/chisel](https://github.com/facebook/chisel) pushed_at:2020-11 Chisel is a collection of LLDB commands to assist debugging iOS apps.
+- [facebook/codemod](https://github.com/facebook/codemod) pushed_at:2020-11 Codemod is a tool/library to assist you with large-scale codebase refactors that can be partially automated but still require human oversight and occasional intervention. Codemod was developed at Facebook and released as open source.
+- [facebook/facebook-python-business-sdk](https://github.com/facebook/facebook-python-business-sdk) pushed_at:2020-12 An SDK built to facilitate application development for Facebook Ads API.
+- [facebook/FAI-PEP](https://github.com/facebook/FAI-PEP) pushed_at:2020-12 Facebook AI Performance Evaluation Platform
+- [facebook/fbkutils](https://github.com/facebook/fbkutils) pushed_at:2020-10 A variety of utilities built and maintained by Facebook's Linux Kernel Team that we wish to share with the community.
+- [facebook/fbtftp](https://github.com/facebook/fbtftp) pushed_at:2020-11 fbtftp is Facebook's implementation of a dynamic TFTP server framework.
+- [facebook/fbzmq](https://github.com/facebook/fbzmq) pushed_at:2020-12 Facebook ZeroMQ wrappers.
+- [facebook/mysqlclient-python](https://github.com/facebook/mysqlclient-python) pushed_at:2019-03 MySQL database connector for Python (with Python 3 support)
+- [facebook/PathPicker](https://github.com/facebook/PathPicker) pushed_at:2020-09 PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything.After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
+- [facebook/pcicrawler](https://github.com/facebook/pcicrawler) pushed_at:2020-10 pcicrawler is a Python based command line interface tool which can be used to display, filter and export information about PCI (Peripheral Component Interconnect) or PCIe buses and devices, as well as PCI topology.
+- [facebook/prophet](https://github.com/facebook/prophet) pushed_at:2020-12 Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+- [facebook/pyaib](https://github.com/facebook/pyaib) pushed_at:2020-02 An easy to use Python Framework (that uses gevent) for writing IRC Bots.
+- [facebook/Recipes-for-AutoPkg](https://github.com/facebook/Recipes-for-AutoPkg) pushed_at:2020-08 Collection of AutoPkg recipes authored at Facebook.
 
 ## Ruby
 
-- [facebook/between-meals](https://github.com/facebook/between-meals) A library to provide calculations between Chef diffs.
-- [facebook/chef-cookbooks](https://github.com/facebook/chef-cookbooks) Open source chef cookbooks.
-- [facebook/chef-utils](https://github.com/facebook/chef-utils) Utilities related to Chef
-- [facebook/facebook-ruby-business-sdk](https://github.com/facebook/facebook-ruby-business-sdk) An SDK built to facilitate application development for Facebook Ads API using Ruby.
-- [facebook/grocery-delivery](https://github.com/facebook/grocery-delivery) The Grocery Delivery utility for managing cookbook uploads to distributed Chef backends.
-- [facebook/homebrew-fb](https://github.com/facebook/homebrew-fb) OS X Homebrew formulas to install Facebook open source software
-- [facebook/IT-CPE](https://github.com/facebook/IT-CPE) Facebook's IT - Client Platform Engineering tools. Some of the tools we have written to help manage our fleet of client systems. 
-- [facebook/Specs](https://github.com/facebook/Specs) A repository of CocoaPods (cocoapods.org) specifications.
-- [facebook/taste-tester](https://github.com/facebook/taste-tester) Software to manage a chef-zero instance and use it to test changes on production servers.
+- [facebook/between-meals](https://github.com/facebook/between-meals) pushed_at:2020-09 A library to provide calculations between Chef diffs.
+- [facebook/chef-cookbooks](https://github.com/facebook/chef-cookbooks) pushed_at:2020-12 Open source chef cookbooks.
+- [facebook/chef-utils](https://github.com/facebook/chef-utils) pushed_at:2020-12 Utilities related to Chef
+- [facebook/facebook-ruby-business-sdk](https://github.com/facebook/facebook-ruby-business-sdk) pushed_at:2020-12 An SDK built to facilitate application development for Facebook Ads API using Ruby.
+- [facebook/grocery-delivery](https://github.com/facebook/grocery-delivery) pushed_at:2020-07 The Grocery Delivery utility for managing cookbook uploads to distributed Chef backends.
+- [facebook/homebrew-fb](https://github.com/facebook/homebrew-fb) pushed_at:2020-11 OS X Homebrew formulas to install Facebook open source software
+- [facebook/IT-CPE](https://github.com/facebook/IT-CPE) pushed_at:2020-12 Facebook's IT - Client Platform Engineering tools. Some of the tools we have written to help manage our fleet of client systems. 
+- [facebook/Specs](https://github.com/facebook/Specs) pushed_at:2019-01 A repository of CocoaPods (cocoapods.org) specifications.
+- [facebook/taste-tester](https://github.com/facebook/taste-tester) pushed_at:2020-08 Software to manage a chef-zero instance and use it to test changes on production servers.
 
 ## TypeScript
 
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) Easy to maintain open source documentation websites.
-- [facebook/flipper](https://github.com/facebook/flipper) A desktop debugging platform for mobile developers.
-- [facebook/jest](https://github.com/facebook/jest) Delightful JavaScript Testing.
-- [facebook/remodel](https://github.com/facebook/remodel) Remodel is a tool that helps iOS and OS X developers avoid repetitive code by generating Objective-C models that support coding, value comparison, and immutability.
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) pushed_at:2020-12 Easy to maintain open source documentation websites.
+- [facebook/flipper](https://github.com/facebook/flipper) pushed_at:2020-12 A desktop debugging platform for mobile developers.
+- [facebook/jest](https://github.com/facebook/jest) pushed_at:2020-12 Delightful JavaScript Testing.
+- [facebook/remodel](https://github.com/facebook/remodel) pushed_at:2020-09 Remodel is a tool that helps iOS and OS X developers avoid repetitive code by generating Objective-C models that support coding, value comparison, and immutability.
 
 
 ## License
