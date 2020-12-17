@@ -27,3 +27,8 @@
 - [twitter-archive](./twitter-archive.md)
 - [twitter](./twitter.md)
 - [cloudflare](./cloudflare.md)
+- [golang](./golang.md)
+- [rust-lang](./rust-lang.md)
+- [intel](./intel.md)
+- [ARM-software](./ARM-software.md)
+- [riscv](./riscv.md)

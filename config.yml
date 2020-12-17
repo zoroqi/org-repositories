@@ -79,3 +79,18 @@
 - name: cloudflare
   userType: org
   file: cloudflare.md
+- name: golang
+  userType: org
+  file: golang.md
+- name: rust-lang
+  userType: org
+  file: rust-lang.md
+- name: intel
+  userType: org
+  file: intel.md
+- name: ARM-software
+  userType: org
+  file: ARM-software.md
+- name: riscv
+  userType: org
+  file: riscv.md
