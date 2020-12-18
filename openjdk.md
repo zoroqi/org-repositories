@@ -29,7 +29,7 @@
 ## HTML
 
 - [openjdk/amber-docs](https://github.com/openjdk/amber-docs) pushed_at:2020-09 https://openjdk.java.net/projects/amber
-- [openjdk/cr](https://github.com/openjdk/cr) pushed_at:2020-08 Automatically generated webrevs
+- [openjdk/cr](https://github.com/openjdk/cr) pushed_at:2020-12 Automatically generated webrevs
 
 ## Java
 
@@ -40,7 +40,7 @@
 - [openjdk/doccheck](https://github.com/openjdk/doccheck) pushed_at:2020-12 Read-only mirror of https://hg.openjdk.java.net/code-tools/doccheck/
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) pushed_at:2020-12 https://openjdk.java.net/projects/code-tools/friday-stats/
 - [openjdk/jcov](https://github.com/openjdk/jcov) pushed_at:2020-12 https://wiki.openjdk.java.net/display/CodeTools/jcov
-- [openjdk/jcstress](https://github.com/openjdk/jcstress) pushed_at:2020-10 https://openjdk.java.net/projects/code-tools/jcstress/
+- [openjdk/jcstress](https://github.com/openjdk/jcstress) pushed_at:2020-12 https://openjdk.java.net/projects/code-tools/jcstress/
 - [openjdk/jdk](https://github.com/openjdk/jdk) pushed_at:2020-12 JDK main-line development
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) pushed_at:2020-12 JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) pushed_at:2020-08 Read-only mirror of https://hg.openjdk.java.net/jdk/jdk10
@@ -68,7 +68,7 @@
 - [openjdk/loom](https://github.com/openjdk/loom) pushed_at:2020-12 https://openjdk.java.net/projects/loom/
 - [openjdk/metropolis](https://github.com/openjdk/metropolis) pushed_at:2020-10 http://openjdk.java.net/projects/metropolis/
 - [openjdk/mobile](https://github.com/openjdk/mobile) pushed_at:2020-12 http://openjdk.java.net/projects/mobile/
-- [openjdk/nashorn](https://github.com/openjdk/nashorn) pushed_at:2020-11 http://openjdk.java.net/projects/nashorn/
+- [openjdk/nashorn](https://github.com/openjdk/nashorn) pushed_at:2020-12 http://openjdk.java.net/projects/nashorn/
 - [openjdk/panama-foreign](https://github.com/openjdk/panama-foreign) pushed_at:2020-12 https://openjdk.java.net/projects/panama
 - [openjdk/panama-vector](https://github.com/openjdk/panama-vector) pushed_at:2020-12 Panama vector
 - [openjdk/playground](https://github.com/openjdk/playground) pushed_at:2020-12 Repository for experimenting. May be synced and/or reset at any time without notice.
@@ -91,7 +91,7 @@
 
 ## Others
 
-- [openjdk/cr-archive](https://github.com/openjdk/cr-archive) pushed_at:2020-08 Full archive of automatically generated webrevs 
+- [openjdk/cr-archive](https://github.com/openjdk/cr-archive) pushed_at:2020-12 Full archive of automatically generated webrevs 
 - [openjdk/jdk10u](https://github.com/openjdk/jdk10u) pushed_at:2020-08 Read-only mirror of https://hg.openjdk.java.net/jdk-updates/jdk10u/
 - [openjdk/jdk11](https://github.com/openjdk/jdk11) pushed_at:2020-08 Read-only mirror of https://hg.openjdk.java.net/jdk/jdk11/
 - [openjdk/jdk12](https://github.com/openjdk/jdk12) pushed_at:2020-08 Read-only mirror of https://hg.openjdk.java.net/jdk/jdk12/

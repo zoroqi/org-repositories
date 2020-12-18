@@ -28,7 +28,7 @@
 
 - [tensorflow/deepmath](https://github.com/tensorflow/deepmath) pushed_at:2020-12 Experiments towards neural network theorem proving
 - [tensorflow/io](https://github.com/tensorflow/io) pushed_at:2020-12 Dataset, streaming, and file system extensions maintained by TensorFlow SIG-IO
-- [tensorflow/minigo](https://github.com/tensorflow/minigo) pushed_at:2020-06 An open-source implementation of the AlphaGoZero algorithm
+- [tensorflow/minigo](https://github.com/tensorflow/minigo) pushed_at:2020-12 An open-source implementation of the AlphaGoZero algorithm
 - [tensorflow/mlir-hlo](https://github.com/tensorflow/mlir-hlo) pushed_at:2020-12 
 - [tensorflow/networking](https://github.com/tensorflow/networking) pushed_at:2020-12 Enhanced networking support for TensorFlow. Maintained by SIG-networking.
 - [tensorflow/ngraph-bridge](https://github.com/tensorflow/ngraph-bridge) pushed_at:2020-12 TensorFlow-nGraph bridge
@@ -96,7 +96,7 @@
 - [tensorflow/compression](https://github.com/tensorflow/compression) pushed_at:2020-12 Data compression in TensorFlow
 - [tensorflow/data-validation](https://github.com/tensorflow/data-validation) pushed_at:2020-12 Library for exploring and validating machine learning data
 - [tensorflow/datasets](https://github.com/tensorflow/datasets) pushed_at:2020-12 TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
-- [tensorflow/estimator](https://github.com/tensorflow/estimator) pushed_at:2020-11 TensorFlow Estimator
+- [tensorflow/estimator](https://github.com/tensorflow/estimator) pushed_at:2020-12 TensorFlow Estimator
 - [tensorflow/fairness-indicators](https://github.com/tensorflow/fairness-indicators) pushed_at:2020-12 Tensorflow's Fairness Evaluation and Visualization Toolkit
 - [tensorflow/federated](https://github.com/tensorflow/federated) pushed_at:2020-12 A framework for implementing federated learning
 - [tensorflow/fold](https://github.com/tensorflow/fold) pushed_at:2020-12 Deep learning with dynamic computation graphs in TensorFlow
@@ -134,7 +134,7 @@
 
 ## Scala
 
-- [tensorflow/ecosystem](https://github.com/tensorflow/ecosystem) pushed_at:2020-10 Integration of TensorFlow with other open-source frameworks
+- [tensorflow/ecosystem](https://github.com/tensorflow/ecosystem) pushed_at:2020-12 Integration of TensorFlow with other open-source frameworks
 
 ## Shell
 
@@ -165,7 +165,7 @@
 - [tensorflow/tfjs-layers](https://github.com/tensorflow/tfjs-layers) pushed_at:2019-08 TensorFlow.js high-level layers API
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) pushed_at:2020-12 Pretrained models for TensorFlow.js
 - [tensorflow/tfjs-node](https://github.com/tensorflow/tfjs-node) pushed_at:2019-08 TensorFlow powered JavaScript library for training and deploying ML models on Node.js.
-- [tensorflow/tfjs-tsne](https://github.com/tensorflow/tfjs-tsne) pushed_at:2020-10 
+- [tensorflow/tfjs-tsne](https://github.com/tensorflow/tfjs-tsne) pushed_at:2020-12 
 - [tensorflow/tfjs-vis](https://github.com/tensorflow/tfjs-vis) pushed_at:2019-08 A set of utilities for in browser visualization with TensorFlow.js
 - [tensorflow/tfjs-wechat](https://github.com/tensorflow/tfjs-wechat) pushed_at:2020-12 WeChat Mini-program plugin for TensorFlow.js
 

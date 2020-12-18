@@ -7,13 +7,13 @@
 ## Contents(121)
 
 - [C](#c) (7)
-- [C++](#c++) (27)
+- [C++](#c++) (28)
 - [Go](#go) (2)
 - [HTML](#html) (2)
 - [Hack](#hack) (1)
 - [Haskell](#haskell) (3)
 - [Java](#java) (13)
-- [JavaScript](#javascript) (19)
+- [JavaScript](#javascript) (18)
 - [Jupyter Notebook](#jupyter-notebook) (1)
 - [Lua](#lua) (1)
 - [OCaml](#ocaml) (4)
@@ -55,7 +55,8 @@
 - [facebook/pyre2](https://github.com/facebook/pyre2) pushed_at:2020-03 Python wrapper for RE2
 - [facebook/redex](https://github.com/facebook/redex) pushed_at:2020-12 A bytecode optimizer for Android apps
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) pushed_at:2020-12 A library that provides an embeddable, persistent key-value store for fast storage.
-- [facebook/squangle](https://github.com/facebook/squangle) pushed_at:2020-11 SQuangLe is a C++ API for accessing MySQL servers
+- [facebook/SPARTA](https://github.com/facebook/SPARTA) pushed_at:2020-12 SPARTA is a library that provides the basic blocks for building high-performance static code analyzers based on Abstract Interpretation.
+- [facebook/squangle](https://github.com/facebook/squangle) pushed_at:2020-12 SQuangLe is a C++ API for accessing MySQL servers
 - [facebook/Surround360](https://github.com/facebook/Surround360) pushed_at:2019-08 Surround360 is Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR. The repo contains hardware designs, as well as software for camera control and rendering.
 - [facebook/ThreatExchange](https://github.com/facebook/ThreatExchange) pushed_at:2020-12 Share threat information with vetted partners
 - [facebook/treadmill](https://github.com/facebook/treadmill) pushed_at:2020-12 An intelligent loadtester
@@ -63,7 +64,7 @@
 - [facebook/watchman](https://github.com/facebook/watchman) pushed_at:2020-12 Watches files and records, or triggers actions, when they change. 
 - [facebook/wdt](https://github.com/facebook/wdt) pushed_at:2020-11 Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
 - [facebook/xcbuild](https://github.com/facebook/xcbuild) pushed_at:2020-01 Xcode-compatible build tool.
-- [facebook/yoga](https://github.com/facebook/yoga) pushed_at:2020-11 Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
+- [facebook/yoga](https://github.com/facebook/yoga) pushed_at:2020-12 Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 
 ## Go
 
@@ -83,7 +84,7 @@
 
 - [facebook/duckling](https://github.com/facebook/duckling) pushed_at:2020-12 Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 - [facebook/fbghc](https://github.com/facebook/fbghc) pushed_at:2020-12 Mirror of the Glasgow Haskell Compiler. Patches are best submitted to GHC's Phabricator (https://phabricator.haskell.org/), bugs and feature-requests are best filed to GHC's Trac (https://ghc.haskell.org/trac/ghc), or sent to the mailing list (ghc-devs@haskell.org).     First time contributors are encouraged to get started by just sending a Pull Request.
-- [facebook/Haxl](https://github.com/facebook/Haxl) pushed_at:2020-11 A Haskell library that simplifies access to remote data, such as databases or web-based services. 
+- [facebook/Haxl](https://github.com/facebook/Haxl) pushed_at:2020-12 A Haskell library that simplifies access to remote data, such as databases or web-based services. 
 
 ## Java
 
@@ -98,28 +99,27 @@
 - [facebook/robolectric](https://github.com/facebook/robolectric) pushed_at:2019-03 Android Unit Testing Framework
 - [facebook/screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android) pushed_at:2020-12 Generate fast deterministic screenshots during Android instrumentation tests
 - [facebook/shimmer-android](https://github.com/facebook/shimmer-android) pushed_at:2020-11 An easy, flexible way to add a shimmering effect to any view in an Android app.
-- [facebook/SoLoader](https://github.com/facebook/SoLoader) pushed_at:2020-11 Native code loader for Android
-- [facebook/TextLayoutBuilder](https://github.com/facebook/TextLayoutBuilder) pushed_at:2020-11 An Android library that allows you to build text layouts more easily.
+- [facebook/SoLoader](https://github.com/facebook/SoLoader) pushed_at:2020-12 Native code loader for Android
+- [facebook/TextLayoutBuilder](https://github.com/facebook/TextLayoutBuilder) pushed_at:2020-12 An Android library that allows you to build text layouts more easily.
 
 ## JavaScript
 
 - [facebook/create-react-app](https://github.com/facebook/create-react-app) pushed_at:2020-12 Set up a modern web app by running one command.
 - [facebook/draft-js](https://github.com/facebook/draft-js) pushed_at:2020-12 A React framework for building text editors.
 - [facebook/facebook-nodejs-business-sdk](https://github.com/facebook/facebook-nodejs-business-sdk) pushed_at:2020-12 Facebook Ads API using Node.js
-- [facebook/fbjs](https://github.com/facebook/fbjs) pushed_at:2020-11 A collection of utility libraries used by other Facebook JS projects.
+- [facebook/fbjs](https://github.com/facebook/fbjs) pushed_at:2020-12 A collection of utility libraries used by other Facebook JS projects.
 - [facebook/fbt](https://github.com/facebook/fbt) pushed_at:2020-12 A JavaScript Internationalization Framework
-- [facebook/flux](https://github.com/facebook/flux) pushed_at:2020-11 Application Architecture for Building User Interfaces
+- [facebook/flux](https://github.com/facebook/flux) pushed_at:2020-12 Application Architecture for Building User Interfaces
 - [facebook/instant-articles-builder](https://github.com/facebook/instant-articles-builder) pushed_at:2020-12 Instant Articles Rules Editor
-- [facebook/jscodeshift](https://github.com/facebook/jscodeshift) pushed_at:2020-09 A JavaScript codemod toolkit.
+- [facebook/jscodeshift](https://github.com/facebook/jscodeshift) pushed_at:2020-12 A JavaScript codemod toolkit.
 - [facebook/metro](https://github.com/facebook/metro) pushed_at:2020-12 🚇 The JavaScript bundler for React Native.
 - [facebook/planout](https://github.com/facebook/planout) pushed_at:2020-10 PlanOut is a library and interpreter for designing online experiments.
-- [facebook/prepack](https://github.com/facebook/prepack) pushed_at:2020-09 A JavaScript bundle optimizer.
+- [facebook/prepack](https://github.com/facebook/prepack) pushed_at:2020-12 A JavaScript bundle optimizer.
 - [facebook/prop-types](https://github.com/facebook/prop-types) pushed_at:2020-10 Runtime type checking for React props and similar objects
 - [facebook/react](https://github.com/facebook/react) pushed_at:2020-12 A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [facebook/react-360](https://github.com/facebook/react-360) pushed_at:2020-11 Create amazing 360 and VR content using React
 - [facebook/react-native](https://github.com/facebook/react-native) pushed_at:2020-12 A framework for building native apps with React.
 - [facebook/react-native-website](https://github.com/facebook/react-native-website) pushed_at:2020-12 The site and docs for React Native
-- [facebook/rebound-js](https://github.com/facebook/rebound-js) pushed_at:2020-09 Spring dynamics in JavaScript.
+- [facebook/rebound-js](https://github.com/facebook/rebound-js) pushed_at:2020-12 Spring dynamics in JavaScript.
 - [facebook/regenerator](https://github.com/facebook/regenerator) pushed_at:2020-08 Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
 - [facebook/relay](https://github.com/facebook/relay) pushed_at:2020-12 Relay is a JavaScript framework for building data-driven React applications.
 

@@ -68,8 +68,8 @@
 
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) pushed_at:2019-06 Twitter's Effective Scala Guide
 - [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2020-11 Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2020-11 Emoji for everyone. https://twemoji.twitter.com/
-- [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2020-10 Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
+- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2020-12 Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2020-12 Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 
 ## Java
 
@@ -91,14 +91,14 @@
 ## JavaScript
 
 - [twitter/cli-guide.js](https://github.com/twitter/cli-guide.js) pushed_at:2020-09 CLI Guide JQuery Plugin
-- [twitter/d3kit](https://github.com/twitter/d3kit) pushed_at:2020-09 D3Kit is a set tools to speed D3 related project development
+- [twitter/d3kit](https://github.com/twitter/d3kit) pushed_at:2020-12 D3Kit is a set tools to speed D3 related project development
 - [twitter/hogan.js](https://github.com/twitter/hogan.js) pushed_at:2020-09 A compiler for the Mustache templating language
-- [twitter/labella.js](https://github.com/twitter/labella.js) pushed_at:2020-09 Placing labels on a timeline without overlap.
-- [twitter/SentenTree](https://github.com/twitter/SentenTree) pushed_at:2020-09 A novel text visualization technique
-- [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) pushed_at:2020-09 A simple library for identifying emoji entities within a string in order to render them as Twemoji.
+- [twitter/labella.js](https://github.com/twitter/labella.js) pushed_at:2020-12 Placing labels on a timeline without overlap.
+- [twitter/SentenTree](https://github.com/twitter/SentenTree) pushed_at:2020-12 A novel text visualization technique
+- [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) pushed_at:2020-12 A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) pushed_at:2019-08 JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
 - [twitter/twitter-cldr-npm](https://github.com/twitter/twitter-cldr-npm) pushed_at:2019-08 TwitterCldr npm package
-- [twitter/typeahead.js](https://github.com/twitter/typeahead.js) pushed_at:2020-07 typeahead.js is a fast and fully-featured autocomplete library
+- [twitter/typeahead.js](https://github.com/twitter/typeahead.js) pushed_at:2020-12 typeahead.js is a fast and fully-featured autocomplete library
 
 ## Lua
 
@@ -117,7 +117,7 @@
 
 ## Others
 
-- [twitter/.github](https://github.com/twitter/.github) pushed_at:2020-11 Twitter GitHub Organization-wide files
+- [twitter/.github](https://github.com/twitter/.github) pushed_at:2020-12 Twitter GitHub Organization-wide files
 - [twitter/analytics-infra-governance](https://github.com/twitter/analytics-infra-governance) pushed_at:2017-10 Description of the process for how to commit, review, and release code to the Scalding OSS family (Scalding, Summingbird, Algebird, Bijection, Storehaus, etc)
 - [twitter/code-of-conduct](https://github.com/twitter/code-of-conduct) pushed_at:2018-03 Open Source Code of Conduct at Twitter
 - [twitter/curation-style-guide](https://github.com/twitter/curation-style-guide) pushed_at:2019-06 Document Repository for Twitter's Curation Style Guide
@@ -138,7 +138,7 @@
 - [twitter/caladrius](https://github.com/twitter/caladrius) pushed_at:2020-07 Performance modelling system for Distributed Stream Processing Systems (DSPS) such as Apache Heron and Apache Storm
 - [twitter/dict_minimize](https://github.com/twitter/dict_minimize) pushed_at:2020-10 Access scipy optimizers from your favorite deep learning framework.
 - [twitter/gatekeeper-service](https://github.com/twitter/gatekeeper-service) pushed_at:2018-09 GateKeeper is a service built to automate the manual steps involved in onboarding, offboarding, and lost asset scenarios.
-- [twitter/pants](https://github.com/twitter/pants) pushed_at:2020-11 Pants Build System
+- [twitter/pants](https://github.com/twitter/pants) pushed_at:2020-12 Pants Build System
 - [twitter/pycascading](https://github.com/twitter/pycascading) pushed_at:2019-12 A Python wrapper for Cascading
 - [twitter/repo-scaffolding](https://github.com/twitter/repo-scaffolding) pushed_at:2020-12 Tools for creating repos based on open source standards and best practices
 - [twitter/zktraffic](https://github.com/twitter/zktraffic) pushed_at:2020-07 ZooKeeper protocol analyzer and stats gathering daemon
@@ -158,7 +158,7 @@
 
 - [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2020-12 Systems performance telemetry
 - [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2020-12 A tool for benchmarking RPC services
-- [twitter/rustcommon](https://github.com/twitter/rustcommon) pushed_at:2020-11 Common Twitter Rust lib
+- [twitter/rustcommon](https://github.com/twitter/rustcommon) pushed_at:2020-12 Common Twitter Rust lib
 
 ## Scala
 

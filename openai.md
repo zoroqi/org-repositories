@@ -25,7 +25,7 @@
 
 - [openai/openai-gemm](https://github.com/openai/openai-gemm) pushed_at:2018-11 Open single and half precision gemm implementations 
 - [openai/pachi-py](https://github.com/openai/pachi-py) pushed_at:2018-11 Python wrappers for Pachi. Contains a modified version of the bleeding-edge Pachi source code.
-- [openai/retro](https://github.com/openai/retro) pushed_at:2020-11 Retro Games in Gym
+- [openai/retro](https://github.com/openai/retro) pushed_at:2020-12 Retro Games in Gym
 
 ## C#
 
@@ -38,7 +38,7 @@
 - [openai/coinrun](https://github.com/openai/coinrun) pushed_at:2019-08 Code for the paper "Quantifying Transfer in Reinforcement Learning"
 - [openai/doom-py](https://github.com/openai/doom-py) pushed_at:2019-10 ViZDoom Python wrapper
 - [openai/nccl](https://github.com/openai/nccl) pushed_at:2019-04 Optimized primitives for collective multi-GPU communication
-- [openai/procgen](https://github.com/openai/procgen) pushed_at:2020-10 Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
+- [openai/procgen](https://github.com/openai/procgen) pushed_at:2020-12 Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
 - [openai/pytorch](https://github.com/openai/pytorch) pushed_at:2020-12 Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [openai/robot_controllers](https://github.com/openai/robot_controllers) pushed_at:2016-07 Robot control infrastructure
 
@@ -130,7 +130,7 @@
 - [openai/neural-gpu](https://github.com/openai/neural-gpu) pushed_at:2018-11 Code for the Neural GPU model originally described in "Neural GPUs Learn Algorithms"
 - [openai/neural-mmo](https://github.com/openai/neural-mmo) pushed_at:2020-03 Code for the paper "Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents"
 - [openai/openai-python](https://github.com/openai/openai-python) pushed_at:2020-10 
-- [openai/phasic-policy-gradient](https://github.com/openai/phasic-policy-gradient) pushed_at:2020-09 Code for the paper "Phasic Policy Gradient"
+- [openai/phasic-policy-gradient](https://github.com/openai/phasic-policy-gradient) pushed_at:2020-12 Code for the paper "Phasic Policy Gradient"
 - [openai/pixel-cnn](https://github.com/openai/pixel-cnn) pushed_at:2020-02 Code for the paper "PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications"
 - [openai/psaw](https://github.com/openai/psaw) pushed_at:2020-10 Python Pushshift.io API Wrapper (for comment/submission search)
 - [openai/pyconfigatron](https://github.com/openai/pyconfigatron) pushed_at:2016-10 a python3 compatible pyconfigatron
