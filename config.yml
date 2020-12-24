@@ -94,3 +94,15 @@
 - name: riscv
   userType: org
   file: riscv.md
+- name: microsoftgraph
+  userType: org
+  file: microsoftgraph.md
+- name: tuna
+  userType: org
+  file: tuna.md
+- name: ustclug
+  userType: org
+  file: ustclug.md
+- name: NVIDIA
+  userType: org
+  file: NVIDIA.md

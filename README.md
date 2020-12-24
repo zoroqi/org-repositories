@@ -32,3 +32,7 @@
 - [intel](./intel.md)
 - [ARM-software](./ARM-software.md)
 - [riscv](./riscv.md)
+- [microsoftgraph](./microsoftgraph.md)
+- [tuna](./tuna.md)
+- [ustclug](./ustclug.md)
+- [NVIDIA](./NVIDIA.md)
