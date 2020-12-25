@@ -45,7 +45,7 @@
 - [golang/playground](https://github.com/golang/playground) pushed_at:2020-12 [mirror] The Go Playground
 - [golang/proposal](https://github.com/golang/proposal) pushed_at:2020-12 Go Project Design Documents
 - [golang/protobuf](https://github.com/golang/protobuf) pushed_at:2020-12 Go support for Google's protocol buffers
-- [golang/review](https://github.com/golang/review) pushed_at:2020-09 [mirror] Tool for working with Gerrit code reviews
+- [golang/review](https://github.com/golang/review) pushed_at:2020-12 [mirror] Tool for working with Gerrit code reviews
 - [golang/scratch](https://github.com/golang/scratch) pushed_at:2020-11 [mirror] repository used for testing
 - [golang/snappy](https://github.com/golang/snappy) pushed_at:2020-11 The Snappy compression format in the Go programming language.
 - [golang/sync](https://github.com/golang/sync) pushed_at:2020-12 [mirror] concurrency primitives

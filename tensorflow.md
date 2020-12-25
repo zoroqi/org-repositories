@@ -83,7 +83,7 @@
 
 - [tensorflow/community](https://github.com/tensorflow/community) pushed_at:2020-12 Stores documents used by the TensorFlow developer community
 - [tensorflow/mlir](https://github.com/tensorflow/mlir) pushed_at:2019-12 "Multi-Level Intermediate Representation" Compiler Infrastructure
-- [tensorflow/recommenders-addons](https://github.com/tensorflow/recommenders-addons) pushed_at:2020-11 Additional utils and helpers to extend TensorFlow when build recommendation systems, contributed and maintained by SIG Recommenders.
+- [tensorflow/recommenders-addons](https://github.com/tensorflow/recommenders-addons) pushed_at:2020-12 Additional utils and helpers to extend TensorFlow when build recommendation systems, contributed and maintained by SIG Recommenders.
 - [tensorflow/tfrc](https://github.com/tensorflow/tfrc) pushed_at:2019-07 
 
 ## Python
@@ -100,7 +100,7 @@
 - [tensorflow/fairness-indicators](https://github.com/tensorflow/fairness-indicators) pushed_at:2020-12 Tensorflow's Fairness Evaluation and Visualization Toolkit
 - [tensorflow/federated](https://github.com/tensorflow/federated) pushed_at:2020-12 A framework for implementing federated learning
 - [tensorflow/fold](https://github.com/tensorflow/fold) pushed_at:2020-12 Deep learning with dynamic computation graphs in TensorFlow
-- [tensorflow/graphics](https://github.com/tensorflow/graphics) pushed_at:2020-11 TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow
+- [tensorflow/graphics](https://github.com/tensorflow/graphics) pushed_at:2020-12 TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow
 - [tensorflow/hub](https://github.com/tensorflow/hub) pushed_at:2020-12 A library for transfer learning by reusing parts of TensorFlow models.
 - [tensorflow/kfac](https://github.com/tensorflow/kfac) pushed_at:2020-09 An implementation of KFAC for TensorFlow
 - [tensorflow/lattice](https://github.com/tensorflow/lattice) pushed_at:2020-12 Lattice methods in TensorFlow
@@ -130,7 +130,7 @@
 
 ## Rust
 
-- [tensorflow/rust](https://github.com/tensorflow/rust) pushed_at:2020-11 Rust language bindings for TensorFlow
+- [tensorflow/rust](https://github.com/tensorflow/rust) pushed_at:2020-12 Rust language bindings for TensorFlow
 
 ## Scala
 

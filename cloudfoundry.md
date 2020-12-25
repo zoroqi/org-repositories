@@ -46,7 +46,7 @@
 - [cloudfoundry/apt-buildpack](https://github.com/cloudfoundry/apt-buildpack) pushed_at:2020-12 
 - [cloudfoundry/archive-expanding-cnb](https://github.com/cloudfoundry/archive-expanding-cnb) pushed_at:2019-11 
 - [cloudfoundry/archiver](https://github.com/cloudfoundry/archiver) pushed_at:2020-01 Utilities for extracting and compressing tgz and zip files.
-- [cloudfoundry/auction](https://github.com/cloudfoundry/auction) pushed_at:2020-04 Auction encodes Diego's long-running-process distribution algorithm
+- [cloudfoundry/auction](https://github.com/cloudfoundry/auction) pushed_at:2020-12 Auction encodes Diego's long-running-process distribution algorithm
 - [cloudfoundry/auctioneer](https://github.com/cloudfoundry/auctioneer) pushed_at:2020-12 Runs diego auctions
 - [cloudfoundry/auth-proxy](https://github.com/cloudfoundry/auth-proxy) pushed_at:2019-04 
 - [cloudfoundry/azure-application-insights-cnb](https://github.com/cloudfoundry/azure-application-insights-cnb) pushed_at:2020-02 
@@ -287,7 +287,7 @@
 - [cloudfoundry/docs-deploying-cf](https://github.com/cloudfoundry/docs-deploying-cf) pushed_at:2020-06 The docs repo for material on deploying Cloud Foundry
 - [cloudfoundry/docs-dev-guide](https://github.com/cloudfoundry/docs-dev-guide) pushed_at:2020-12 Documentation for application developers who want to deploy their applications to Cloud Foundry
 - [cloudfoundry/docs-loggregator](https://github.com/cloudfoundry/docs-loggregator) pushed_at:2020-12 
-- [cloudfoundry/docs-routing](https://github.com/cloudfoundry/docs-routing) pushed_at:2020-09 
+- [cloudfoundry/docs-routing](https://github.com/cloudfoundry/docs-routing) pushed_at:2020-12 
 - [cloudfoundry/docs-running-cf](https://github.com/cloudfoundry/docs-running-cf) pushed_at:2020-12 A place for docs related to running, monitoring, and troubleshooting a Cloud Foundry deployment
 - [cloudfoundry/docs-services](https://github.com/cloudfoundry/docs-services) pushed_at:2020-08 Documentation on extending Cloud Foundry
 - [cloudfoundry/docs-uaa](https://github.com/cloudfoundry/docs-uaa) pushed_at:2020-08 
@@ -362,7 +362,7 @@
 
 ## PowerShell
 
-- [cloudfoundry/bsdtar](https://github.com/cloudfoundry/bsdtar) pushed_at:2020-05 
+- [cloudfoundry/bsdtar](https://github.com/cloudfoundry/bsdtar) pushed_at:2020-12 
 - [cloudfoundry/garden-ci-artifacts-release](https://github.com/cloudfoundry/garden-ci-artifacts-release) pushed_at:2017-11 
 - [cloudfoundry/windows-tools-release](https://github.com/cloudfoundry/windows-tools-release) pushed_at:2020-12 Contains miscellaneous Windows packages to be BOSH-deployed
 

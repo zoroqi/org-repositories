@@ -78,7 +78,7 @@
 
 - [rust-lang/.github](https://github.com/rust-lang/.github) pushed_at:2019-11 GitHub metadata for this organization
 - [rust-lang/all-hands-2020](https://github.com/rust-lang/all-hands-2020) pushed_at:2020-02 Website for the Rust All Hands 2020
-- [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines) pushed_at:2020-11 Rust API guidelines
+- [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines) pushed_at:2020-12 Rust API guidelines
 - [rust-lang/community-localization](https://github.com/rust-lang/community-localization) pushed_at:2020-07 
 - [rust-lang/compiler-team-prioritization](https://github.com/rust-lang/compiler-team-prioritization) pushed_at:2020-09 Home repository for the compiler team "prioritization group"
 - [rust-lang/const-eval](https://github.com/rust-lang/const-eval) pushed_at:2020-12 home for proposals in and around compile-time function evaluation
@@ -138,7 +138,7 @@
 
 - [rust-lang/annotate-snippets-rs](https://github.com/rust-lang/annotate-snippets-rs) pushed_at:2020-08 Library for snippet annotations
 - [rust-lang/areweasyncyet.rs](https://github.com/rust-lang/areweasyncyet.rs) pushed_at:2020-12 Are we async yet?
-- [rust-lang/backtrace-rs](https://github.com/rust-lang/backtrace-rs) pushed_at:2020-11 Backtraces in Rust
+- [rust-lang/backtrace-rs](https://github.com/rust-lang/backtrace-rs) pushed_at:2020-12 Backtraces in Rust
 - [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) pushed_at:2020-12 The Rust Programming Language Blog
 - [rust-lang/book](https://github.com/rust-lang/book) pushed_at:2020-12 The Rust Programming Language
 - [rust-lang/cargo](https://github.com/rust-lang/cargo) pushed_at:2020-12 The Rust package manager
@@ -154,7 +154,7 @@
 - [rust-lang/ena](https://github.com/rust-lang/ena) pushed_at:2020-11 An implementation of union-find / congruence-closure in Rust. Extracted from rustc for independent experimentation.
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) pushed_at:2020-12 Zero-cost asynchronous programming in Rust
 - [rust-lang/generate-manifest-list](https://github.com/rust-lang/generate-manifest-list) pushed_at:2019-09 Creates a list of manifests on static.rust-lang.org
-- [rust-lang/getopts](https://github.com/rust-lang/getopts) pushed_at:2020-07 
+- [rust-lang/getopts](https://github.com/rust-lang/getopts) pushed_at:2020-12 
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) pushed_at:2020-12 libgit2 bindings for Rust
 - [rust-lang/glacier](https://github.com/rust-lang/glacier) pushed_at:2020-12 A big 'ol pile of ICE.
 - [rust-lang/gll](https://github.com/rust-lang/gll) pushed_at:2020-09 GLL parsing framework.
@@ -164,16 +164,16 @@
 - [rust-lang/libs-team](https://github.com/rust-lang/libs-team) pushed_at:2020-12 The home of the library team
 - [rust-lang/libtest](https://github.com/rust-lang/libtest) pushed_at:2019-07 Rust's built-in testing and benchmarking framework
 - [rust-lang/libz-sys](https://github.com/rust-lang/libz-sys) pushed_at:2020-12 Rust crate package to link to a system libz (zlib)
-- [rust-lang/log](https://github.com/rust-lang/log) pushed_at:2020-11 Logging implementation for Rust
+- [rust-lang/log](https://github.com/rust-lang/log) pushed_at:2020-12 Logging implementation for Rust
 - [rust-lang/mailgun-mailmap](https://github.com/rust-lang/mailgun-mailmap) pushed_at:2019-02 Mail configuration for rust-lang domains
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) pushed_at:2020-12 Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust-lang/measureme](https://github.com/rust-lang/measureme) pushed_at:2020-12 Support crate for rustc's self-profiling feature
 - [rust-lang/miri](https://github.com/rust-lang/miri) pushed_at:2020-12 An interpreter for Rust's mid-level intermediate representation
-- [rust-lang/monitorbot](https://github.com/rust-lang/monitorbot) pushed_at:2020-11 Monitoring of external API services Rust infrastructure relies upon
+- [rust-lang/monitorbot](https://github.com/rust-lang/monitorbot) pushed_at:2020-12 Monitoring of external API services Rust infrastructure relies upon
 - [rust-lang/packed_simd](https://github.com/rust-lang/packed_simd) pushed_at:2020-12 Portable Packed SIMD Vectors for Rust standard library
 - [rust-lang/pin-utils](https://github.com/rust-lang/pin-utils) pushed_at:2020-09 Utilities for pinning
 - [rust-lang/pkg-config-rs](https://github.com/rust-lang/pkg-config-rs) pushed_at:2020-10 Build library for invoking pkg-config for Rust
-- [rust-lang/polonius](https://github.com/rust-lang/polonius) pushed_at:2020-07 Defines the Rust borrow checker.
+- [rust-lang/polonius](https://github.com/rust-lang/polonius) pushed_at:2020-12 Defines the Rust borrow checker.
 - [rust-lang/promote-release](https://github.com/rust-lang/promote-release) pushed_at:2020-12 Tooling to publish Rust releases.
 - [rust-lang/reference](https://github.com/rust-lang/reference) pushed_at:2020-12 The Rust Reference
 - [rust-lang/regex](https://github.com/rust-lang/regex) pushed_at:2020-12 An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
@@ -198,7 +198,7 @@
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) pushed_at:2020-12 The Rust toolchain installer
 - [rust-lang/rustup-components-history](https://github.com/rust-lang/rustup-components-history) pushed_at:2020-12 Rustup package status history
 - [rust-lang/rustwide](https://github.com/rust-lang/rustwide) pushed_at:2020-11 Execute your code on the Rust ecosystem.
-- [rust-lang/socket2-rs](https://github.com/rust-lang/socket2-rs) pushed_at:2020-12 
+- [rust-lang/socket2](https://github.com/rust-lang/socket2) pushed_at:2020-12 Advanced configuration options for sockets.
 - [rust-lang/stacker](https://github.com/rust-lang/stacker) pushed_at:2020-11 Manual segmented stacks for Rust
 - [rust-lang/stdsimd](https://github.com/rust-lang/stdsimd) pushed_at:2020-12 The testing ground for the future of portable SIMD in Rust
 - [rust-lang/sync-team](https://github.com/rust-lang/sync-team) pushed_at:2020-06 Synchronize the team repository with the services we use

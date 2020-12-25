@@ -55,7 +55,7 @@
 - [Tencent/Hardcoder](https://github.com/Tencent/Hardcoder) pushed_at:2020-01 Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.
 - [Tencent/Hippy](https://github.com/Tencent/Hippy) pushed_at:2020-12 A cross platform framework designed for Web developer. Introduction video - https://v.qq.com/x/page/i3038urj2mt.html
 - [Tencent/KNVProtoEngine](https://github.com/Tencent/KNVProtoEngine) pushed_at:2019-10 KNV(Key-N-Value) is a very fast protocol engine for manipulating protocol data without knowing the detail of its contents.  KNV serves for 3 main purposes:  1, As a fast protocol engine, supporting 1M+ processes per second;  2, As a schema-free protocol inspecter/modifier for general-purpose network server;  3, As a protocol and data storage engine for general data storage server.
-- [Tencent/libco](https://github.com/Tencent/libco) pushed_at:2020-11 libco is a coroutine library which is widely used in wechat  back-end service. It has been running on tens of thousands of machines since 2013.
+- [Tencent/libco](https://github.com/Tencent/libco) pushed_at:2020-12 libco is a coroutine library which is widely used in wechat  back-end service. It has been running on tens of thousands of machines since 2013.
 - [Tencent/libwxfreq](https://github.com/Tencent/libwxfreq) pushed_at:2019-04 libwxfreq is a generic high performance frequency limitation library
 - [Tencent/mars](https://github.com/Tencent/mars) pushed_at:2020-12 Mars is a cross-platform network component  developed by WeChat.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) pushed_at:2020-12 An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
@@ -69,13 +69,13 @@
 - [Tencent/phxsql](https://github.com/Tencent/phxsql) pushed_at:2018-12 A high availability MySQL cluster that guarantees data consistency between a master and slaves.
 - [Tencent/plato](https://github.com/Tencent/plato) pushed_at:2020-09 腾讯高性能分布式图计算框架Plato
 - [Tencent/puerts](https://github.com/Tencent/puerts) pushed_at:2020-12 Write your game with TypeScript in the ue4 or unity
-- [Tencent/rapidjson](https://github.com/Tencent/rapidjson) pushed_at:2020-10 A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [Tencent/rapidjson](https://github.com/Tencent/rapidjson) pushed_at:2020-12 A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [Tencent/sluaunreal](https://github.com/Tencent/sluaunreal) pushed_at:2020-12 lua dev plugin for unreal engine 4
 - [Tencent/Teaf](https://github.com/Tencent/Teaf) pushed_at:2019-02 Tencent Easy ACE Framework，基于ACE的高性能服务框架，有完善的监控统计，数据库访问等功能
 - [Tencent/TenDBCluster-Tdbctl](https://github.com/Tencent/TenDBCluster-Tdbctl) pushed_at:2020-12 Tdbctl is the control node of TenDB Cluster.
 - [Tencent/TenDBCluster-TenDB](https://github.com/Tencent/TenDBCluster-TenDB) pushed_at:2020-09 TenDB is the data node of TenDB Cluster.
 - [Tencent/TenDBCluster-TSpider](https://github.com/Tencent/TenDBCluster-TSpider) pushed_at:2020-12 TSpider is the proxy node of TenDB Cluster.
-- [Tencent/Tendis](https://github.com/Tencent/Tendis) pushed_at:2020-12 Tendis is a high-performance distributed storage system which is fully compatible with the Redis protocol. 
+- [Tencent/Tendis](https://github.com/Tencent/Tendis) pushed_at:2020-12 Tendis is a high-performance distributed storage system fully compatible with the Redis protocol. 
 - [Tencent/TNN](https://github.com/Tencent/TNN) pushed_at:2020-12 TNN：由腾讯优图实验室打造，移动端高性能、轻量级推理框架，同时拥有跨平台、高性能、模型压缩、代码裁剪等众多突出优势。TNN框架在原有Rapidnet、ncnn框架的基础上进一步加强了移动端设备的支持以及性能优化，同时也借鉴了业界主流开源框架高性能和良好拓展性的优点。目前TNN已经在手Q、微视、P图等应用中落地，欢迎大家参与协同共建，促进TNN推理框架进一步完善。
 - [Tencent/TscanCode](https://github.com/Tencent/TscanCode) pushed_at:2018-12 A static code analyzer for C++, C#, Lua
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) pushed_at:2018-12 A high available service discovery & registration & fault-tolerance framework
@@ -111,7 +111,7 @@
 
 ## JavaScript
 
-- [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework) pushed_at:2020-12 🚀  A front-end and back-end integrated deployment tool 🔥  One-click deploy to serverless architecture. 云原生一体化部署工具 CloudBase Framework https://docs.cloudbase.net/framework
+- [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework) pushed_at:2020-12 ☁️ 云开发 🚀  云原生一体化部署工具 🏆 CloudBase Framework🏆   一键部署，不限框架语言，云端一体化开发，基于Serverless 架构。A front-end and back-end integrated deployment tool 🔥  One-click deploy to serverless architecture. https://docs.cloudbase.net/framework
 - [Tencent/Face2FaceTranslator](https://github.com/Tencent/Face2FaceTranslator) pushed_at:2019-11 面对面翻译小程序是微信团队针对面对面沟通的场景开发的流式语音翻译小程序，通过微信同声传译插件提供了语音识别，文本翻译等功能。
 - [Tencent/iHearing](https://github.com/Tencent/iHearing) pushed_at:2019-04 微信智聆口语测评小程序是针对口语练习场景开发的测评类小程序，通过智聆口语评测插件提供了句子和单词发音准确度等功能。
 - [Tencent/kbone](https://github.com/Tencent/kbone) pushed_at:2020-12 一个致力于微信小程序和 Web 端同构的解决方案
@@ -180,7 +180,7 @@
 - [Tencent/QT4C](https://github.com/Tencent/QT4C) pushed_at:2020-09 qta automation framework for pc client
 - [Tencent/QT4i](https://github.com/Tencent/QT4i) pushed_at:2020-07 QTA driver for iOS app
 - [Tencent/QT4W](https://github.com/Tencent/QT4W) pushed_at:2020-12 Web driver for QTA
-- [Tencent/QTAF](https://github.com/Tencent/QTAF) pushed_at:2020-11 QTA test framework
+- [Tencent/QTAF](https://github.com/Tencent/QTAF) pushed_at:2020-12 QTA test framework
 - [Tencent/Real-SR](https://github.com/Tencent/Real-SR) pushed_at:2020-08 Real-World Super-Resolution via Kernel Estimation and Noise Injection
 - [Tencent/tencent-ml-images](https://github.com/Tencent/tencent-ml-images) pushed_at:2019-12 Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
 - [Tencent/TStarBot1](https://github.com/Tencent/TStarBot1) pushed_at:2019-01 

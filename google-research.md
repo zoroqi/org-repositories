@@ -13,8 +13,8 @@
 - [Java](#java) (1)
 - [Julia](#julia) (1)
 - [Jupyter Notebook](#jupyter-notebook) (15)
-- [Others](#others) (7)
-- [Python](#python) (83)
+- [Others](#others) (8)
+- [Python](#python) (82)
 - [Shell](#shell) (1)
 - [Swift](#swift) (1)
 - [TeX](#tex) (1)
@@ -76,6 +76,7 @@
 - [google-research/perceptual-quality](https://github.com/google-research/perceptual-quality) pushed_at:2020-12 
 - [google-research/reassessed-imagenet](https://github.com/google-research/reassessed-imagenet) pushed_at:2020-08 Labels and other data for the paper "Are we done with ImageNet?"
 - [google-research/robel-scenes](https://github.com/google-research/robel-scenes) pushed_at:2020-07 Shared MuJoCo simulation scenes and assets for ROBEL environments.
+- [google-research/ruse](https://github.com/google-research/ruse) pushed_at:2020-12 
 - [google-research/searcho](https://github.com/google-research/searcho) pushed_at:2020-02 
 
 ## Python
@@ -139,7 +140,6 @@
 - [google-research/rl-reliability-metrics](https://github.com/google-research/rl-reliability-metrics) pushed_at:2020-08 The RL Reliability Metrics library provides a set of metrics for measuring the reliability of reinforcement learning (RL) algorithms, as well as statistical tools for comparing algorithms and for computing confidence intervals on these metrics.
 - [google-research/robel](https://github.com/google-research/robel) pushed_at:2020-11 ROBEL: Robotics Benchmarks for Learning with low-cost robots
 - [google-research/robustness_metrics](https://github.com/google-research/robustness_metrics) pushed_at:2020-12 
-- [google-research/ruse](https://github.com/google-research/ruse) pushed_at:2020-12 
 - [google-research/s4l](https://github.com/google-research/s4l) pushed_at:2019-11 Tensorflow implementation of S4L: Self-Supervised Semi-Supervised Learning
 - [google-research/sam](https://github.com/google-research/sam) pushed_at:2020-12 
 - [google-research/schema-guided-dialogue](https://github.com/google-research/schema-guided-dialogue) pushed_at:2020-12 

@@ -14,11 +14,11 @@
 - [Dockerfile](#dockerfile) (2)
 - [Go](#go) (15)
 - [Groovy](#groovy) (5)
-- [HTML](#html) (6)
+- [HTML](#html) (7)
 - [Java](#java) (62)
 - [JavaScript](#javascript) (40)
 - [Kotlin](#kotlin) (2)
-- [Others](#others) (11)
+- [Others](#others) (10)
 - [Python](#python) (20)
 - [R](#r) (1)
 - [Ruby](#ruby) (6)
@@ -62,7 +62,7 @@
 ## Go
 
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) pushed_at:2020-10 Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
-- [Netflix/go-env](https://github.com/Netflix/go-env) pushed_at:2020-11 a golang library to manage environment variables
+- [Netflix/go-env](https://github.com/Netflix/go-env) pushed_at:2020-12 a golang library to manage environment variables
 - [Netflix/go-expect](https://github.com/Netflix/go-expect) pushed_at:2020-11 an expect-like golang library to automate control of terminal or console based programs.
 - [Netflix/hal-9001](https://github.com/Netflix/hal-9001) pushed_at:2017-06 Hal-9001 is a Go library that offers a number of facilities for creating a bot and its plugins.
 - [Netflix/metrics-client-go](https://github.com/Netflix/metrics-client-go) pushed_at:2017-10 
@@ -87,11 +87,12 @@
 
 ## HTML
 
+- [Netflix/dgs](https://github.com/Netflix/dgs) pushed_at:2020-12 
 - [Netflix/falcor-express-demo](https://github.com/Netflix/falcor-express-demo) pushed_at:2016-02 Demonstration Falcor end point for a Netflix-style Application using express
 - [Netflix/falcor-hapi-demo](https://github.com/Netflix/falcor-hapi-demo) pushed_at:2018-03 Demonstration Falcor end point using Hapi
 - [Netflix/falcor-restify-demo](https://github.com/Netflix/falcor-restify-demo) pushed_at:2015-12 Demonstration Falcor end point for Netflix clone using Restify
 - [Netflix/ndbench](https://github.com/Netflix/ndbench) pushed_at:2020-11 Netflix Data Store Benchmark
-- [Netflix/netflix.github.com](https://github.com/Netflix/netflix.github.com) pushed_at:2020-10 
+- [Netflix/netflix.github.com](https://github.com/Netflix/netflix.github.com) pushed_at:2020-12 
 - [Netflix/polynote](https://github.com/Netflix/polynote) pushed_at:2019-10 
 
 ## Java
@@ -184,7 +185,7 @@
 - [Netflix/falcor-router-demo](https://github.com/Netflix/falcor-router-demo) pushed_at:2018-06 A demonstration of how to build a Router for a Netflix-like application
 - [Netflix/inviso](https://github.com/Netflix/inviso) pushed_at:2019-10 
 - [Netflix/Lipstick](https://github.com/Netflix/Lipstick) pushed_at:2018-01 Pig Visualization framework
-- [Netflix/mantis-cli](https://github.com/Netflix/mantis-cli) pushed_at:2020-09 CLI for managing Mantis clusters from the command line
+- [Netflix/mantis-cli](https://github.com/Netflix/mantis-cli) pushed_at:2020-12 CLI for managing Mantis clusters from the command line
 - [Netflix/nerror](https://github.com/Netflix/nerror) pushed_at:2020-11 nerror: rich JavaScript errors
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) pushed_at:2020-12 Record, Replay, and Stub HTTP Interactions.
 - [Netflix/pytheas](https://github.com/Netflix/pytheas) pushed_at:2016-11 Web Resources and UI Framework
@@ -210,9 +211,8 @@
 ## Others
 
 - [Netflix/Cloud-Prize](https://github.com/Netflix/Cloud-Prize) pushed_at:2015-12 Description and terms for the Netflix Cloud Prize, which runs from March-September 2013. Read the rules, fork to your GitHub account to create a Submission, then send us your email address.
-- [Netflix/dgs](https://github.com/Netflix/dgs) pushed_at:2020-12 
 - [Netflix/iep-shadow](https://github.com/Netflix/iep-shadow) pushed_at:2018-08 DEPRECATED: Shadowed versions of rx/platform libraries for Insight Engineering Platform use
-- [Netflix/metaflow-docs](https://github.com/Netflix/metaflow-docs) pushed_at:2020-10 
+- [Netflix/metaflow-docs](https://github.com/Netflix/metaflow-docs) pushed_at:2020-12 
 - [Netflix/metaflow-tools](https://github.com/Netflix/metaflow-tools) pushed_at:2020-12 
 - [Netflix/netflixoss-npm-build-infrastructure](https://github.com/Netflix/netflixoss-npm-build-infrastructure) pushed_at:2019-07 
 - [Netflix/security-bulletins](https://github.com/Netflix/security-bulletins) pushed_at:2020-12 Security Bulletins that relate to Netflix Open Source

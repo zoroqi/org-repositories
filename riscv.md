@@ -14,8 +14,8 @@
 - [Go](#go) (1)
 - [HTML](#html) (2)
 - [JavaScript](#javascript) (1)
-- [Makefile](#makefile) (3)
-- [Others](#others) (35)
+- [Makefile](#makefile) (4)
+- [Others](#others) (34)
 - [Python](#python) (5)
 - [Ruby](#ruby) (1)
 - [Shell](#shell) (3)
@@ -47,7 +47,7 @@
 - [riscv/riscv-isa-sim](https://github.com/riscv/riscv-isa-sim) pushed_at:2020-12 Spike, a RISC-V ISA Simulator
 - [riscv/riscv-linux](https://github.com/riscv/riscv-linux) pushed_at:2019-04 RISC-V Linux Port
 - [riscv/riscv-musl](https://github.com/riscv/riscv-musl) pushed_at:2019-06 musl libc for RISC-V
-- [riscv/riscv-newlib](https://github.com/riscv/riscv-newlib) pushed_at:2020-10 RISC-V port of newlib
+- [riscv/riscv-newlib](https://github.com/riscv/riscv-newlib) pushed_at:2020-12 RISC-V port of newlib
 - [riscv/riscv-openocd](https://github.com/riscv/riscv-openocd) pushed_at:2020-12 Fork of OpenOCD that has RISC-V support
 - [riscv/riscv-ovpsim](https://github.com/riscv/riscv-ovpsim) pushed_at:2020-07 
 - [riscv/riscv-pk](https://github.com/riscv/riscv-pk) pushed_at:2020-12 RISC-V Proxy Kernel
@@ -83,6 +83,7 @@
 
 - [riscv/riscv-CMOs-discuss](https://github.com/riscv/riscv-CMOs-discuss) pushed_at:2020-11 
 - [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2020-10 RISC-V Profiles and Platform Specification
+- [riscv/riscv-sbi-doc](https://github.com/riscv/riscv-sbi-doc) pushed_at:2020-12 Documentation for the RISC-V Supervisor Binary Interface
 - [riscv/riscv-semihosting-spec](https://github.com/riscv/riscv-semihosting-spec) pushed_at:2020-04 
 
 ## Others
@@ -111,7 +112,6 @@
 - [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) pushed_at:2020-09 RISC-V Packed SIMD Extension
 - [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) pushed_at:2020-12 PLIC Specification
 - [riscv/riscv-poky](https://github.com/riscv/riscv-poky) pushed_at:2019-01 Port of the Yocto Project to the RISC-V ISA
-- [riscv/riscv-sbi-doc](https://github.com/riscv/riscv-sbi-doc) pushed_at:2020-12 Documentation for the RISC-V Supervisor Binary Interface
 - [riscv/riscv-smbios](https://github.com/riscv/riscv-smbios) pushed_at:2019-03 RISC-V SMBIOS Type 44 Spec
 - [riscv/riscv-software-list](https://github.com/riscv/riscv-software-list) pushed_at:2020-12 The RISC-V software tools list, as seen on riscv.org
 - [riscv/riscv-teach](https://github.com/riscv/riscv-teach) pushed_at:2017-07 Slides, figures, and other material for teaching RISC-V courses

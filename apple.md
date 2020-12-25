@@ -27,8 +27,8 @@
 - [apple/cups](https://github.com/apple/cups) pushed_at:2020-11 Official CUPS Sources
 - [apple/darwin-libplatform](https://github.com/apple/darwin-libplatform) pushed_at:2018-12 The Darwin Platform Library (mirror)
 - [apple/darwin-libpthread](https://github.com/apple/darwin-libpthread) pushed_at:2018-12 The Darwin PThread Library (mirror)
-- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) pushed_at:2020-07 The Darwin Kernel (mirror)
-- [apple/HomeKitADK](https://github.com/apple/HomeKitADK) pushed_at:2020-10 
+- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) pushed_at:2020-12 The Darwin Kernel (mirror)
+- [apple/HomeKitADK](https://github.com/apple/HomeKitADK) pushed_at:2020-12 
 - [apple/swift-cmark](https://github.com/apple/swift-cmark) pushed_at:2020-12 CommonMark parsing and rendering library and program in C
 - [apple/swift-compiler-rt](https://github.com/apple/swift-compiler-rt) pushed_at:2019-10 
 - [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) pushed_at:2020-12 The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
@@ -106,7 +106,7 @@
 - [apple/ml-cvpr2019-swd](https://github.com/apple/ml-cvpr2019-swd) pushed_at:2020-11 Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation. In CVPR 2019.
 - [apple/ml-dab](https://github.com/apple/ml-dab) pushed_at:2020-07 
 - [apple/ml-data-parameters](https://github.com/apple/ml-data-parameters) pushed_at:2019-12 
-- [apple/ml-hypersim](https://github.com/apple/ml-hypersim) pushed_at:2020-11 The Hypersim Toolkit is a set of tools for generating photorealistic synthetic datasets from V-Ray scenes.
+- [apple/ml-hypersim](https://github.com/apple/ml-hypersim) pushed_at:2020-12 Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding
 - [apple/ml-mkqa](https://github.com/apple/ml-mkqa) pushed_at:2020-08 
 - [apple/ml-multiple-futures-prediction](https://github.com/apple/ml-multiple-futures-prediction) pushed_at:2020-11 
 - [apple/ml-ncg](https://github.com/apple/ml-ncg) pushed_at:2019-05 
@@ -154,7 +154,7 @@
 - [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) pushed_at:2020-10 Useful code around SwiftNIO.
 - [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) pushed_at:2020-12 HTTP/2 support for SwiftNIO
 - [apple/swift-nio-nghttp2-support](https://github.com/apple/swift-nio-nghttp2-support) pushed_at:2020-12 
-- [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) pushed_at:2020-11 SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
+- [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) pushed_at:2020-12 SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
 - [apple/swift-nio-ssl](https://github.com/apple/swift-nio-ssl) pushed_at:2020-12 TLS Support for SwiftNIO, based on BoringSSL.
 - [apple/swift-nio-ssl-support](https://github.com/apple/swift-nio-ssl-support) pushed_at:2020-12 
 - [apple/swift-nio-transport-services](https://github.com/apple/swift-nio-transport-services) pushed_at:2020-11 Extensions for SwiftNIO to support Apple platforms as first-class citizens.
@@ -170,7 +170,7 @@
 - [apple/swift-stress-tester](https://github.com/apple/swift-stress-tester) pushed_at:2020-12 Stress testing utilities for Swift's tooling
 - [apple/swift-syntax](https://github.com/apple/swift-syntax) pushed_at:2020-12 SwiftPM package for SwiftSyntax library.
 - [apple/swift-system](https://github.com/apple/swift-system) pushed_at:2020-12 Swift System provides idiomatic interfaces to system calls and low-level currency types.
-- [apple/swift-tools-support-async](https://github.com/apple/swift-tools-support-async) pushed_at:2020-10 Common infrastructural helpers on top of NIO for llbuild2 and swiftpm-on-llbuild2 projects. This is NOT a general purpose package and is unlikely to ever become stable.
+- [apple/swift-tools-support-async](https://github.com/apple/swift-tools-support-async) pushed_at:2020-12 Common infrastructural helpers on top of NIO for llbuild2 and swiftpm-on-llbuild2 projects. This is NOT a general purpose package and is unlikely to ever become stable.
 - [apple/swift-tools-support-core](https://github.com/apple/swift-tools-support-core) pushed_at:2020-12 Contains common infrastructural code for both SwiftPM and llbuild.
 - [apple/swift-xcode-playground-support](https://github.com/apple/swift-xcode-playground-support) pushed_at:2020-12 Logging and communication to allow Swift toolchains to communicate with Xcode.
 - [apple/swiftpm-on-llbuild2](https://github.com/apple/swiftpm-on-llbuild2) pushed_at:2020-09 

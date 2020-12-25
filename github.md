@@ -48,7 +48,7 @@
 - [github/putty](https://github.com/github/putty) pushed_at:2020-09 mirror of git://git.tartarus.org/simon/putty.git, used for client testing
 - [github/ssziparchive](https://github.com/github/ssziparchive) pushed_at:2015-02 Utility class for zipping and unzipping files on iOS and Mac
 - [github/synsanity](https://github.com/github/synsanity) pushed_at:2018-06 netfilter (iptables) target for high performance lockless SYN cookies for SYN flood mitigation
-- [github/testrepo](https://github.com/github/testrepo) pushed_at:2020-10 DON'T DELETE THIS. USED FOR MONITORING AND WHATNOT.
+- [github/testrepo](https://github.com/github/testrepo) pushed_at:2020-12 DON'T DELETE THIS. USED FOR MONITORING AND WHATNOT.
 - [github/version_sorter](https://github.com/github/version_sorter) pushed_at:2020-02 Fast sorting of version numbers
 
 ## C#
@@ -59,7 +59,7 @@
 - [github/RepoRepairTool](https://github.com/github/RepoRepairTool) pushed_at:2015-02 Repairs common Windows repository problems with encodings or line endings
 - [github/SharpDevelop](https://github.com/github/SharpDevelop) pushed_at:2015-01 #develop (short for SharpDevelop) is a free IDE for .NET programming languages.
 - [github/VFSForGit](https://github.com/github/VFSForGit) pushed_at:2020-10 GitHub development on VFSForGit [please fork upstream microsoft/VFSForGit repository instead of this one]
-- [github/VisualStudio](https://github.com/github/VisualStudio) pushed_at:2020-11 GitHub Extension for Visual Studio
+- [github/VisualStudio](https://github.com/github/VisualStudio) pushed_at:2020-12 GitHub Extension for Visual Studio
 
 ## C++
 
@@ -99,7 +99,7 @@
 
 - [github/ccql](https://github.com/github/ccql) pushed_at:2019-10 Multi server MySQL client
 - [github/certstore](https://github.com/github/certstore) pushed_at:2020-12 Go library for using system certificate stores on macOS/Windows
-- [github/codeql-action-sync-tool](https://github.com/github/codeql-action-sync-tool) pushed_at:2020-11 A tool for syncing the CodeQL Action from GitHub.com to GitHub Enterprise Server, including copying the CodeQL bundle.
+- [github/codeql-action-sync-tool](https://github.com/github/codeql-action-sync-tool) pushed_at:2020-12 A tool for syncing the CodeQL Action from GitHub.com to GitHub Enterprise Server, including copying the CodeQL bundle.
 - [github/depstubber](https://github.com/github/depstubber) pushed_at:2020-12 
 - [github/emissary](https://github.com/github/emissary) pushed_at:2020-10 Envoy External Authorization API Bridge To SPIFFE Workload API 
 - [github/etcd-operator](https://github.com/github/etcd-operator) pushed_at:2017-05 etcd operator creates/configures/manages etcd clusters atop Kubernetes
@@ -118,7 +118,7 @@
 - [github/orchestrator-agent](https://github.com/github/orchestrator-agent) pushed_at:2019-12 MySQL replication topology manager - agent (daemon)
 - [github/s3gof3r](https://github.com/github/s3gof3r) pushed_at:2020-09 Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r
 - [github/skeema](https://github.com/github/skeema) pushed_at:2020-02 Schema management CLI for MySQL
-- [github/smimesign](https://github.com/github/smimesign) pushed_at:2020-11 An S/MIME signing utility for use with Git
+- [github/smimesign](https://github.com/github/smimesign) pushed_at:2020-12 An S/MIME signing utility for use with Git
 - [github/sparkles-legacy](https://github.com/github/sparkles-legacy) pushed_at:2017-02 A Go backend for giving each other :sparkles: in Slack
 - [github/vitess-gh](https://github.com/github/vitess-gh) pushed_at:2020-11 Vitess is a database clustering system for horizontal scaling of MySQL.
 - [github/vulcanizer](https://github.com/github/vulcanizer) pushed_at:2020-11 GitHub's ops focused Elasticsearch library
@@ -130,8 +130,8 @@
 - [github/OAuth-Ruby-Quickstart](https://github.com/github/OAuth-Ruby-Quickstart) pushed_at:2019-01 Starter code and quickstart guide for a GitHub OAuth App in Ruby
 - [github/personal-website](https://github.com/github/personal-website) pushed_at:2020-12 Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [github/review-pull-requests-at-github-template](https://github.com/github/review-pull-requests-at-github-template) pushed_at:2020-09 Template for GitHub's Reviewing Pull Requests Learning Lab course. Course ➡️
-- [github/sdr-code-camp](https://github.com/github/sdr-code-camp) pushed_at:2018-07 learn you some code!
-- [github/Spoon-Knife](https://github.com/github/Spoon-Knife) pushed_at:2020-10 This repo is for demonstration purposes only.
+- [github/sdr-code-camp](https://github.com/github/sdr-code-camp) pushed_at:2020-12 learn you some code!
+- [github/Spoon-Knife](https://github.com/github/Spoon-Knife) pushed_at:2020-12 This repo is for demonstration purposes only.
 - [github/template](https://github.com/github/template) pushed_at:2017-11 Minimal polyfill for <template>
 - [github/training-kit](https://github.com/github/training-kit) pushed_at:2020-12 Open source cheat sheets for Git and GitHub
 - [github/webcomponentsjs](https://github.com/github/webcomponentsjs) pushed_at:2019-10 A suite of polyfills supporting the HTML Web Components specs
@@ -257,7 +257,7 @@
 - [github/balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) pushed_at:2020-12 GitHub's employee intellectual property agreement, open sourced and reusable
 - [github/circuitbreaker](https://github.com/github/circuitbreaker) pushed_at:2014-07 Circuit Breakers in Go
 - [github/codeql-cli-binaries](https://github.com/github/codeql-cli-binaries) pushed_at:2020-12 Binaries for the CodeQL CLI
-- [github/covid-19-repo-data](https://github.com/github/covid-19-repo-data) pushed_at:2020-11 Data archive of identifiable COVID-19 related public projects on GitHub 
+- [github/covid-19-repo-data](https://github.com/github/covid-19-repo-data) pushed_at:2020-12 Data archive of identifiable COVID-19 related public projects on GitHub 
 - [github/cvelist](https://github.com/github/cvelist) pushed_at:2020-12 Pilot program for CVE submission through GitHub
 - [github/feedback](https://github.com/github/feedback) pushed_at:2020-12 Public feedback discussions for: GitHub Mobile and GitHub Discussions
 - [github/game-off-2012](https://github.com/github/game-off-2012) pushed_at:2016-09 The GitHub Game Off 2012 is a game jam / hackathon / coding challenge to create an open source a web-based game
@@ -348,7 +348,7 @@
 - [github/freno-client](https://github.com/github/freno-client) pushed_at:2020-06 Ruby client and throttling library for freno, the throttler service
 - [github/garethr-docker](https://github.com/github/garethr-docker) pushed_at:2014-06 Puppet module for managing docker
 - [github/gem-builder](https://github.com/github/gem-builder) pushed_at:2015-02 The scripts used to build RubyGems on GitHub
-- [github/gemoji](https://github.com/github/gemoji) pushed_at:2020-10 Emoji images and names.
+- [github/gemoji](https://github.com/github/gemoji) pushed_at:2020-12 Emoji images and names.
 - [github/github-ds](https://github.com/github/github-ds) pushed_at:2020-11 A collection of Ruby libraries for working with SQL on top of ActiveRecord's connection
 - [github/github-graphql-rails-example](https://github.com/github/github-graphql-rails-example) pushed_at:2019-01 Example Rails app using GitHub's GraphQL API
 - [github/github-ldap](https://github.com/github/github-ldap) pushed_at:2017-06 LDAP client for humans. Part of GitHub Enterprise.
@@ -382,7 +382,7 @@
 - [github/omniauth](https://github.com/github/omniauth) pushed_at:2018-07 OmniAuth is a flexible authentication system utilizing Rack middleware.
 - [github/opensourcefriday](https://github.com/github/opensourcefriday) pushed_at:2020-12 🚲 Contribute to the open source community every Friday
 - [github/pagerduty-incident-webhooks](https://github.com/github/pagerduty-incident-webhooks) pushed_at:2015-02 Heroku app that fires webhooks for triggered PagerDuty incidents
-- [github/pages-gem](https://github.com/github/pages-gem) pushed_at:2020-11 A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages
+- [github/pages-gem](https://github.com/github/pages-gem) pushed_at:2020-12 A simple Ruby Gem to bootstrap dependencies for setting up and maintaining a local Jekyll environment in sync with GitHub Pages
 - [github/pages-health-check](https://github.com/github/pages-health-check) pushed_at:2020-07 Checks your GitHub Pages site for common DNS configuration issues
 - [github/posix-spawn](https://github.com/github/posix-spawn) pushed_at:2015-04 Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces
 - [github/promise.rb](https://github.com/github/promise.rb) pushed_at:2018-03 Promises/A+ for Ruby
@@ -404,8 +404,8 @@
 - [github/ruby-thecodeshop](https://github.com/github/ruby-thecodeshop) pushed_at:2015-02 The Ruby Programming Language
 - [github/rubycas-server](https://github.com/github/rubycas-server) pushed_at:2015-05 Provides single sign-on authentication for web applications, implementing the server-end of Jasig's CAS protocol.
 - [github/safegem](https://github.com/github/safegem) pushed_at:2015-02 GitHub's safe gem eval web service
-- [github/scientist](https://github.com/github/scientist) pushed_at:2020-11 :microscope: A Ruby library for carefully refactoring critical paths.
-- [github/secure_headers](https://github.com/github/secure_headers) pushed_at:2020-09 Manages application of security headers with many safe defaults
+- [github/scientist](https://github.com/github/scientist) pushed_at:2020-12 :microscope: A Ruby library for carefully refactoring critical paths.
+- [github/secure_headers](https://github.com/github/secure_headers) pushed_at:2020-12 Manages application of security headers with many safe defaults
 - [github/serialized_attributes](https://github.com/github/serialized_attributes) pushed_at:2017-06 UNMAINTAINED - kind of a bridge between using AR and a full blown schema-free db
 - [github/sonic-pi-challenge](https://github.com/github/sonic-pi-challenge) pushed_at:2020-12 Sonic Pi Challenge at GitHub Universe 2020
 - [github/ssh_data](https://github.com/github/ssh_data) pushed_at:2020-11 Ruby library for parsing SSH public keys and certificates
