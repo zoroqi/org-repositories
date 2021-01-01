@@ -137,7 +137,7 @@
 - [mozilla/rhino](https://github.com/mozilla/rhino) pushed_at:2020-12 Rhino is an open-source implementation of JavaScript written entirely in Java
 - [mozilla/sentencepiece](https://github.com/mozilla/sentencepiece) pushed_at:2020-03 Unsupervised text tokenizer for Neural Network-based text generation. 
 - [mozilla/Simple-WebSocket-Server](https://github.com/mozilla/Simple-WebSocket-Server) pushed_at:2020-06 
-- [mozilla/tensorflow](https://github.com/mozilla/tensorflow) pushed_at:2020-09 Computation using data flow graphs for scalable machine learning
+- [mozilla/tensorflow](https://github.com/mozilla/tensorflow) pushed_at:2020-12 Computation using data flow graphs for scalable machine learning
 - [mozilla/tofino-electron](https://github.com/mozilla/tofino-electron) pushed_at:2018-12 A fork of Electron with some changes for Project Tofino
 - [mozilla/universal-search-gecko-dev](https://github.com/mozilla/universal-search-gecko-dev) pushed_at:2015-05 gecko-dev plus awesome sauce, check the wiki for more
 - [mozilla/video_codec_module](https://github.com/mozilla/video_codec_module) pushed_at:2014-01 Video codec module interfaces for Firefox
@@ -226,7 +226,7 @@
 - [mozilla/tincan](https://github.com/mozilla/tincan) pushed_at:2019-03 A WebRTC demonstration
 - [mozilla/transonic](https://github.com/mozilla/transonic) pushed_at:2018-01 Curation tools for the Firefox Marketplace 
 - [mozilla/viewsourceconf-theme](https://github.com/mozilla/viewsourceconf-theme) pushed_at:2019-03 WordPress theme for viewsourceconf.org
-- [mozilla/web-lit-core](https://github.com/mozilla/web-lit-core) pushed_at:2020-09 Web Literacy Core Curriculum
+- [mozilla/web-lit-core](https://github.com/mozilla/web-lit-core) pushed_at:2020-12 Web Literacy Core Curriculum
 - [mozilla/web-to-lead](https://github.com/mozilla/web-to-lead) pushed_at:2019-03 
 - [mozilla/webext-compat-tool](https://github.com/mozilla/webext-compat-tool) pushed_at:2020-09 A compatibility-focused web instance of mozilla/addons-linter
 - [mozilla/webmaker-app-publisher](https://github.com/mozilla/webmaker-app-publisher) pushed_at:2015-05 Deprecated
@@ -1030,7 +1030,7 @@
 - [mozilla/pioneer-study-online-news-2](https://github.com/mozilla/pioneer-study-online-news-2) pushed_at:2019-04 Second generation online news study
 - [mozilla/pioneer-study-pathfinder](https://github.com/mozilla/pioneer-study-pathfinder) pushed_at:2019-03 An addon to help track down data loss in the Pioneer data-collection pipeline
 - [mozilla/pkix-compatibility-testing](https://github.com/mozilla/pkix-compatibility-testing) pushed_at:2019-03 
-- [mozilla/planet-content](https://github.com/mozilla/planet-content) pushed_at:2020-11 Content for the planet.mozilla.org website
+- [mozilla/planet-content](https://github.com/mozilla/planet-content) pushed_at:2020-12 Content for the planet.mozilla.org website
 - [mozilla/platform-analysis](https://github.com/mozilla/platform-analysis) pushed_at:2019-03 
 - [mozilla/platform-status](https://github.com/mozilla/platform-status) pushed_at:2020-10 Project Platform Status
 - [mozilla/plugin-crash-dashboard](https://github.com/mozilla/plugin-crash-dashboard) pushed_at:2019-03 Repository for processing & displaying data relating to plugin crashes
@@ -1330,7 +1330,7 @@
 - [mozilla/build-environments](https://github.com/mozilla/build-environments) pushed_at:2019-03 Bare bones environments (dependencies only) for Mozilla's Linux builds. 
 - [mozilla/clearlinux](https://github.com/mozilla/clearlinux) pushed_at:2019-03 Clear Linux scripts and specs and bits
 - [mozilla/cloudformation-cross-account-outputs](https://github.com/mozilla/cloudformation-cross-account-outputs) pushed_at:2020-06 System to enable AWS CloudFormation stacks to emit data into other AWS accounts
-- [mozilla/devtools-adb-extension](https://github.com/mozilla/devtools-adb-extension) pushed_at:2020-01 Web Extension that bundles the ADB binaries needed for USB debugging
+- [mozilla/devtools-adb-extension](https://github.com/mozilla/devtools-adb-extension) pushed_at:2020-12 Web Extension that bundles the ADB binaries needed for USB debugging
 - [mozilla/marketplace-docs](https://github.com/mozilla/marketplace-docs) pushed_at:2016-08 High level Firefox Marketplace developer documentation
 - [mozilla/marketplace-frontend-docs](https://github.com/mozilla/marketplace-frontend-docs) pushed_at:2016-08 Developer documentation for Firefox Marketplace frontend projects
 - [mozilla/marketplace-payment-provider-spec](https://github.com/mozilla/marketplace-payment-provider-spec) pushed_at:2016-02 A specification for a Marketplace Payment Provider.
@@ -2010,7 +2010,7 @@
 - [mozilla/mozdef-event-framework](https://github.com/mozilla/mozdef-event-framework) pushed_at:2019-12 https://mozdef-event-framework.readthedocs.io/en/latest/
 - [mozilla/MozDef-Triage-Bot](https://github.com/mozilla/MozDef-Triage-Bot) pushed_at:2020-04 A Slack bot that facilitates triaging MozDef alerts by automating outreach to Mozillians
 - [mozilla/mozdef_client](https://github.com/mozilla/mozdef_client) pushed_at:2020-11 MozDef client library (send events, etc.)
-- [mozilla/mozdownload](https://github.com/mozilla/mozdownload) pushed_at:2020-09 Easy to use download tool and API for different types of Firefox and Thunderbird builds
+- [mozilla/mozdownload](https://github.com/mozilla/mozdownload) pushed_at:2020-12 Easy to use download tool and API for different types of Firefox and Thunderbird builds
 - [mozilla/mozfest-event-app-data-processor](https://github.com/mozilla/mozfest-event-app-data-processor) pushed_at:2016-10 MozFest event app data processor
 - [mozilla/mozilla-badges](https://github.com/mozilla/mozilla-badges) pushed_at:2019-03 
 - [mozilla/mozilla-cloud-services-logger](https://github.com/mozilla/mozilla-cloud-services-logger) pushed_at:2019-03 Tools for producing a common application logging format defined by Mozilla Cloud Services

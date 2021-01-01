@@ -356,7 +356,7 @@
 - [opencollective/officegen](https://github.com/opencollective/officegen) pushed_at:2019-04 Standalone Office Open XML files (Microsoft Office 2007 and later) generator for Word (docx), PowerPoint (pptx) and Excell (xlsx) in javascript. The output is a stream.
 - [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) pushed_at:2020-12 Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
 - [opencollective/opencollective-app](https://github.com/opencollective/opencollective-app) pushed_at:2018-05 OpenCollective App - used to manage budgets and approve expenses
-- [opencollective/opencollective-changelog](https://github.com/opencollective/opencollective-changelog) pushed_at:2020-12 Tracking weekly changes
+- [opencollective/opencollective-changelog](https://github.com/opencollective/opencollective-changelog) pushed_at:2021-01 Tracking weekly changes
 - [opencollective/opencollective-cli](https://github.com/opencollective/opencollective-cli) pushed_at:2020-07 Command Line Interface for Open Collective
 - [opencollective/opencollective-email](https://github.com/opencollective/opencollective-email) pushed_at:2019-01 The email service for transparent and inclusive open collectives
 - [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) pushed_at:2020-12 The new Open Collective email service, powered by Eymail
@@ -440,7 +440,7 @@
 - [opencollective/url-shortener](https://github.com/opencollective/url-shortener) pushed_at:2017-10 Shitty url shortener, emoji powered. 🌍✌🏼
 - [opencollective/vis](https://github.com/opencollective/vis) pushed_at:2017-11 vis.js is a dynamic, browser-based visualization library
 - [opencollective/VSCodeBeautify](https://github.com/opencollective/VSCodeBeautify) pushed_at:2019-04 Enable js-beautify (https://github.com/beautify-web/js-beautify) in VS Code
-- [opencollective/vue](https://github.com/opencollective/vue) pushed_at:2020-11 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [opencollective/vue](https://github.com/opencollective/vue) pushed_at:2020-12 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
 - [opencollective/vue-lazy-hydration](https://github.com/opencollective/vue-lazy-hydration) pushed_at:2019-06 Lazy hydration of server-side rendered Vue.js components
 - [opencollective/warriorjs](https://github.com/opencollective/warriorjs) pushed_at:2018-05 An exciting game of programming and Artificial Intelligence
 - [opencollective/webpack](https://github.com/opencollective/webpack) pushed_at:2019-06 A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
@@ -864,7 +864,7 @@
 - [opencollective/zarm](https://github.com/opencollective/zarm) pushed_at:2019-10 基于React、React-Native 的移动端UI组件库
 - [opencollective/zjuthesis](https://github.com/opencollective/zjuthesis) pushed_at:2019-09 Zhejiang University Graduation Thesis/Design LaTeX template.
 - [opencollective/zplugin](https://github.com/opencollective/zplugin) pushed_at:2019-09 Flexible Zsh plugin manager with clean fpath, reports, completion management, turbo mode, services
-- [opencollective/zrythm](https://github.com/opencollective/zrythm) pushed_at:2020-12 a highly automated and intuitive digital audio workstation - official mirror
+- [opencollective/zrythm](https://github.com/opencollective/zrythm) pushed_at:2021-01 a highly automated and intuitive digital audio workstation - official mirror
 - [opencollective/zws](https://github.com/opencollective/zws) pushed_at:2020-01 Shorten URLs using invisible spaces.
 
 ## PHP

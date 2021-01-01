@@ -49,7 +49,7 @@
 
 ## C
 
-- [oracle/dtrace-linux-kernel](https://github.com/oracle/dtrace-linux-kernel) pushed_at:2020-11 Additional kernel tracing features merged with recent Linux kernel releases. DTrace makes use of these additional features.
+- [oracle/dtrace-linux-kernel](https://github.com/oracle/dtrace-linux-kernel) pushed_at:2020-12 Additional kernel tracing features merged with recent Linux kernel releases. DTrace makes use of these additional features.
 - [oracle/dtrace-utils](https://github.com/oracle/dtrace-utils) pushed_at:2020-12 DTrace-utils contains the DTrace port to Linux
 - [oracle/fdr](https://github.com/oracle/fdr) pushed_at:2020-03 Flight Data Recorder to enable "always on" diagnosability & observability
 - [oracle/kvm-guest-drivers-windows](https://github.com/oracle/kvm-guest-drivers-windows) pushed_at:2020-11 Windows paravirtualized 

@@ -51,7 +51,7 @@
 
 ## Others
 
-- [ustclug/blogs](https://github.com/ustclug/blogs) pushed_at:2020-09 USTCLUG 同学们的博客列表
+- [ustclug/blogs](https://github.com/ustclug/blogs) pushed_at:2020-12 USTCLUG 同学们的博客列表
 - [ustclug/discussions](https://github.com/ustclug/discussions) pushed_at:2020-11 Issue Tracker for USTC LUG
 - [ustclug/hackergame2020-writeups](https://github.com/ustclug/hackergame2020-writeups) pushed_at:2020-11 
 - [ustclug/lug-stickers](https://github.com/ustclug/lug-stickers) pushed_at:2019-05 
@@ -78,7 +78,7 @@
 
 - [ustclug/docker-gitlab](https://github.com/ustclug/docker-gitlab) pushed_at:2017-04 Dockerized GitLab
 - [ustclug/docker-image](https://github.com/ustclug/docker-image) pushed_at:2017-01 💀docker image used by USTC LUG (deprecated)
-- [ustclug/light-list](https://github.com/ustclug/light-list) pushed_at:2018-12 accelerate list of light service
+- [ustclug/light-list](https://github.com/ustclug/light-list) pushed_at:2020-12 accelerate list of light service
 - [ustclug/light-server](https://github.com/ustclug/light-server) pushed_at:2019-09 light accelerator daemon
 - [ustclug/light-socks5](https://github.com/ustclug/light-socks5) pushed_at:2018-01 light accelerator socks5 daemon
 - [ustclug/liimstrap](https://github.com/ustclug/liimstrap) pushed_at:2020-03 中国科大图书馆查询机生成脚本。
@@ -87,7 +87,7 @@
 - [ustclug/lug-sites-sync](https://github.com/ustclug/lug-sites-sync) pushed_at:2015-08 💀Script to sync lug.ustc.edu.cn/sites pages (deprecated)
 - [ustclug/lugftp](https://github.com/ustclug/lugftp) pushed_at:2020-01 FTP site of USTC Linux User Group
 - [ustclug/lugwiki](https://github.com/ustclug/lugwiki) pushed_at:2020-08 wiki site of USTC Linux User Group
-- [ustclug/mirrorimage](https://github.com/ustclug/mirrorimage) pushed_at:2020-04 Docker Distribution Images replaced with USTC Mirrors
+- [ustclug/mirrorimage](https://github.com/ustclug/mirrorimage) pushed_at:2020-12 Docker Distribution Images replaced with USTC Mirrors
 - [ustclug/monitor](https://github.com/ustclug/monitor) pushed_at:2018-06 tools used by USTC LUG monitor site
 - [ustclug/neatdns](https://github.com/ustclug/neatdns) pushed_at:2019-01 anti-pollution DNS server
 - [ustclug/pypi-mirror](https://github.com/ustclug/pypi-mirror) pushed_at:2017-02 💀 pypi mirror tool (deprecated)

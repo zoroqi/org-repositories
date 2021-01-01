@@ -49,7 +49,7 @@
 
 - [Tencent/3TS](https://github.com/Tencent/3TS) pushed_at:2020-12 腾讯事务处理技术验证系统（Tencent Transaction Processing Testbed System）
 - [Tencent/CMONGO](https://github.com/Tencent/CMONGO) pushed_at:2019-09 MongoDB for Tencent Cloud
-- [Tencent/DCache](https://github.com/Tencent/DCache) pushed_at:2020-11 A distributed in-memory NOSQL system based on TARS framework, support LRU algorithm and data persists on  back-end database. Users can easily deploy, publish, and scale services on the web interface.
+- [Tencent/DCache](https://github.com/Tencent/DCache) pushed_at:2020-12 A distributed in-memory NOSQL system based on TARS framework, support LRU algorithm and data persists on  back-end database. Users can easily deploy, publish, and scale services on the web interface.
 - [Tencent/FeatherCNN](https://github.com/Tencent/FeatherCNN) pushed_at:2019-09 FeatherCNN is a high performance inference engine for convolutional neural networks.
 - [Tencent/GameAISDK](https://github.com/Tencent/GameAISDK) pushed_at:2020-11 基于图像的游戏AI自动化框架
 - [Tencent/Hardcoder](https://github.com/Tencent/Hardcoder) pushed_at:2020-01 Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.
@@ -59,7 +59,7 @@
 - [Tencent/libwxfreq](https://github.com/Tencent/libwxfreq) pushed_at:2019-04 libwxfreq is a generic high performance frequency limitation library
 - [Tencent/mars](https://github.com/Tencent/mars) pushed_at:2020-12 Mars is a cross-platform network component  developed by WeChat.
 - [Tencent/MMKV](https://github.com/Tencent/MMKV) pushed_at:2020-12 An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
-- [Tencent/ncnn](https://github.com/Tencent/ncnn) pushed_at:2020-12 ncnn is a high-performance neural network inference framework optimized for the mobile platform
+- [Tencent/ncnn](https://github.com/Tencent/ncnn) pushed_at:2021-01 ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [Tencent/paxosstore](https://github.com/Tencent/paxosstore) pushed_at:2020-07 PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and is able to afford billions of peak TPS.
 - [Tencent/Pebble](https://github.com/Tencent/Pebble) pushed_at:2019-10 Pebble分布式开发框架
 - [Tencent/PhoenixGo](https://github.com/Tencent/PhoenixGo) pushed_at:2019-03 Go AI program which implements the AlphaGo Zero paper
@@ -76,7 +76,7 @@
 - [Tencent/TenDBCluster-TenDB](https://github.com/Tencent/TenDBCluster-TenDB) pushed_at:2020-09 TenDB is the data node of TenDB Cluster.
 - [Tencent/TenDBCluster-TSpider](https://github.com/Tencent/TenDBCluster-TSpider) pushed_at:2020-12 TSpider is the proxy node of TenDB Cluster.
 - [Tencent/Tendis](https://github.com/Tencent/Tendis) pushed_at:2020-12 Tendis is a high-performance distributed storage system fully compatible with the Redis protocol. 
-- [Tencent/TNN](https://github.com/Tencent/TNN) pushed_at:2020-12 TNN：由腾讯优图实验室打造，移动端高性能、轻量级推理框架，同时拥有跨平台、高性能、模型压缩、代码裁剪等众多突出优势。TNN框架在原有Rapidnet、ncnn框架的基础上进一步加强了移动端设备的支持以及性能优化，同时也借鉴了业界主流开源框架高性能和良好拓展性的优点。目前TNN已经在手Q、微视、P图等应用中落地，欢迎大家参与协同共建，促进TNN推理框架进一步完善。
+- [Tencent/TNN](https://github.com/Tencent/TNN) pushed_at:2021-01 TNN：由腾讯优图实验室打造，移动端高性能、轻量级推理框架，同时拥有跨平台、高性能、模型压缩、代码裁剪等众多突出优势。TNN框架在原有Rapidnet、ncnn框架的基础上进一步加强了移动端设备的支持以及性能优化，同时也借鉴了业界主流开源框架高性能和良好拓展性的优点。目前TNN已经在手Q、微视、P图等应用中落地，欢迎大家参与协同共建，促进TNN推理框架进一步完善。
 - [Tencent/TscanCode](https://github.com/Tencent/TscanCode) pushed_at:2018-12 A static code analyzer for C++, C#, Lua
 - [Tencent/TSeer](https://github.com/Tencent/TSeer) pushed_at:2018-12 A high available service discovery & registration & fault-tolerance framework
 - [Tencent/TurboTransformers](https://github.com/Tencent/TurboTransformers) pushed_at:2020-12 a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.

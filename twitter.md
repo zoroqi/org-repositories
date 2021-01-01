@@ -164,7 +164,7 @@
 ## Scala
 
 - [twitter/algebird](https://github.com/twitter/algebird) pushed_at:2020-12 Abstract Algebra for Scala
-- [twitter/bazel-multideps](https://github.com/twitter/bazel-multideps) pushed_at:2020-12 Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier. 
+- [twitter/bazel-multiversion](https://github.com/twitter/bazel-multiversion) pushed_at:2020-12 Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier. 
 - [twitter/bijection](https://github.com/twitter/bijection) pushed_at:2020-12 Reversible conversions between types
 - [twitter/cassovary](https://github.com/twitter/cassovary) pushed_at:2019-06 Cassovary is a simple big graph processing library for the JVM
 - [twitter/chill](https://github.com/twitter/chill) pushed_at:2020-12 Scala extensions for the Kryo serialization library

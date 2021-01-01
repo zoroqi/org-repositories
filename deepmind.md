@@ -98,7 +98,7 @@
 - [deepmind/deep-verify](https://github.com/deepmind/deep-verify) pushed_at:2019-11 
 - [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) pushed_at:2020-12 JAX-based neural network library
 - [deepmind/dm_construction](https://github.com/deepmind/dm_construction) pushed_at:2020-07 
-- [deepmind/dm_control](https://github.com/deepmind/dm_control) pushed_at:2020-11 DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
+- [deepmind/dm_control](https://github.com/deepmind/dm_control) pushed_at:2020-12 DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
 - [deepmind/dm_env](https://github.com/deepmind/dm_env) pushed_at:2020-10 A Python interface for reinforcement learning environments
 - [deepmind/dm_env_rpc](https://github.com/deepmind/dm_env_rpc) pushed_at:2020-12 A networking protocol for agent-environment communication
 - [deepmind/dm_hard_eight](https://github.com/deepmind/dm_hard_eight) pushed_at:2020-11 

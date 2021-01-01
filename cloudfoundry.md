@@ -355,7 +355,7 @@
 - [cloudfoundry/public-buildpacks-ci-robots](https://github.com/cloudfoundry/public-buildpacks-ci-robots) pushed_at:2020-12 
 - [cloudfoundry/python-buildpack-release](https://github.com/cloudfoundry/python-buildpack-release) pushed_at:2020-12 BOSH release for Python Buildpack
 - [cloudfoundry/r-buildpack-release](https://github.com/cloudfoundry/r-buildpack-release) pushed_at:2020-11 
-- [cloudfoundry/relint-ci-pools](https://github.com/cloudfoundry/relint-ci-pools) pushed_at:2020-12 
+- [cloudfoundry/relint-ci-pools](https://github.com/cloudfoundry/relint-ci-pools) pushed_at:2021-01 
 - [cloudfoundry/ruby-buildpack-release](https://github.com/cloudfoundry/ruby-buildpack-release) pushed_at:2020-12 BOSH release for Ruby Buildpack
 - [cloudfoundry/slack-interrupt-bot](https://github.com/cloudfoundry/slack-interrupt-bot) pushed_at:2020-06 
 - [cloudfoundry/staticfile-buildpack-release](https://github.com/cloudfoundry/staticfile-buildpack-release) pushed_at:2020-12 BOSH release for Staticfile Buildpack

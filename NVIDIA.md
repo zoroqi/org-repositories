@@ -13,7 +13,7 @@
 - [Cuda](#cuda) (16)
 - [Dockerfile](#dockerfile) (1)
 - [Fortran](#fortran) (1)
-- [Go](#go) (14)
+- [Go](#go) (15)
 - [HCL](#hcl) (1)
 - [HTML](#html) (4)
 - [Java](#java) (6)
@@ -26,7 +26,7 @@
 - [Others](#others) (21)
 - [Python](#python) (48)
 - [Scala](#scala) (1)
-- [Shell](#shell) (9)
+- [Shell](#shell) (8)
 - [Tcl](#tcl) (1)
 
 ## C
@@ -148,6 +148,7 @@
 ## Go
 
 - [NVIDIA/aistore](https://github.com/NVIDIA/aistore) pushed_at:2020-12 AIStore: scalable storage for AI applications
+- [NVIDIA/container-config](https://github.com/NVIDIA/container-config) pushed_at:2020-12 Set up your container runtime with NVIDIA GPUs support
 - [NVIDIA/docker-distribution](https://github.com/NVIDIA/docker-distribution) pushed_at:2017-09 The Docker toolset to pack, ship, store, and deliver content
 - [NVIDIA/docker-volume-netshare](https://github.com/NVIDIA/docker-volume-netshare) pushed_at:2017-05 Docker NFS, AWS EFS, Ceph & Samba/CIFS Volume Plugin
 - [NVIDIA/go-gpuallocator](https://github.com/NVIDIA/go-gpuallocator) pushed_at:2020-11 Go Abstraction for Allocating NVIDIA GPUs with Custom Policies
@@ -203,10 +204,10 @@
 - [NVIDIA/energy-sdk](https://github.com/NVIDIA/energy-sdk) pushed_at:2020-10 GPU Accelerated Building Blocks integrating HPC+AI for Energy Customers
 - [NVIDIA/flowtron](https://github.com/NVIDIA/flowtron) pushed_at:2020-12 Flowtron is an auto-regressive flow-based generative network for text to speech synthesis with control over speech variation and style transfer
 - [NVIDIA/healthcare-on-tap-TRT-TRITON-demo](https://github.com/NVIDIA/healthcare-on-tap-TRT-TRITON-demo) pushed_at:2020-09 Demonstration of the use of TensorRT and TRITON
-- [NVIDIA/ipyparaview](https://github.com/NVIDIA/ipyparaview) pushed_at:2020-10 iPython widget for server-side ParaView rendering in Jupyter.
+- [NVIDIA/ipyparaview](https://github.com/NVIDIA/ipyparaview) pushed_at:2020-12 iPython widget for server-side ParaView rendering in Jupyter.
 - [NVIDIA/mellotron](https://github.com/NVIDIA/mellotron) pushed_at:2020-11 Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) pushed_at:2020-12 NeMo: a toolkit for conversational AI
-- [NVIDIA/spark-xgboost-examples](https://github.com/NVIDIA/spark-xgboost-examples) pushed_at:2020-11 XGBoost GPU accelerated on Spark example applications
+- [NVIDIA/spark-xgboost-examples](https://github.com/NVIDIA/spark-xgboost-examples) pushed_at:2020-12 XGBoost GPU accelerated on Spark example applications
 - [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2) pushed_at:2020-12 Tacotron 2 - PyTorch implementation with faster-than-realtime inference
 - [NVIDIA/TRTorch](https://github.com/NVIDIA/TRTorch) pushed_at:2020-12 PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 
@@ -221,7 +222,7 @@
 - [NVIDIA/cbootimage-configs](https://github.com/NVIDIA/cbootimage-configs) pushed_at:2019-02 Configuration files for use with cbootimage
 - [NVIDIA/dgx-selinux](https://github.com/NVIDIA/dgx-selinux) pushed_at:2020-09 DGX RHEL SELinux Policies
 - [NVIDIA/nephele-packages](https://github.com/NVIDIA/nephele-packages) pushed_at:2020-12 OS packages for the Nephele project
-- [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) pushed_at:2020-09 Build and run Docker containers leveraging NVIDIA GPUs
+- [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) pushed_at:2020-12 Build and run Docker containers leveraging NVIDIA GPUs
 
 ## OCaml
 
@@ -310,7 +311,6 @@
 
 - [NVIDIA/ais-k8s](https://github.com/NVIDIA/ais-k8s) pushed_at:2020-12 Helm charts and production scripts for large-scale AIStore deployments on Kubernetes
 - [NVIDIA/ansible-role-nvidia-docker](https://github.com/NVIDIA/ansible-role-nvidia-docker) pushed_at:2020-03 
-- [NVIDIA/container-config](https://github.com/NVIDIA/container-config) pushed_at:2020-12 Set up your container runtime with NVIDIA GPUs support
 - [NVIDIA/data-science-stack](https://github.com/NVIDIA/data-science-stack) pushed_at:2020-12 NVIDIA Data Science stack tools
 - [NVIDIA/doroce-linux](https://github.com/NVIDIA/doroce-linux) pushed_at:2020-12 A command line utility to manage the configuration of a system's high performance network interfaces for RoCE deployments
 - [NVIDIA/egx-platform](https://github.com/NVIDIA/egx-platform) pushed_at:2020-12 Bring AI to the EDGE

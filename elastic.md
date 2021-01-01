@@ -90,13 +90,13 @@
 - [elastic/apm-server-integration](https://github.com/elastic/apm-server-integration) pushed_at:2020-02 experimental / POC
 - [elastic/aws-ami-share](https://github.com/elastic/aws-ami-share) pushed_at:2020-04 Tool for sharing AWS AMIs across accounts
 - [elastic/beats](https://github.com/elastic/beats) pushed_at:2020-12 :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
-- [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) pushed_at:2020-12 Elastic Cloud on Kubernetes
+- [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) pushed_at:2021-01 Elastic Cloud on Kubernetes
 - [elastic/cloud-sdk-go](https://github.com/elastic/cloud-sdk-go) pushed_at:2020-12 Go client library for Elastic Cloud and Elastic Cloud Enterprise (ECE)
 - [elastic/crd-ref-docs](https://github.com/elastic/crd-ref-docs) pushed_at:2020-05 Generates Kubernetes CRD API reference documentation
 - [elastic/e2e-testing](https://github.com/elastic/e2e-testing) pushed_at:2020-12 Formal verification of Metricbeat module using BDD
 - [elastic/ecctl](https://github.com/elastic/ecctl) pushed_at:2020-12 Elastic Cloud Control, the official ESS and ECE command line interface
 - [elastic/ecs-logging-go-logrus](https://github.com/elastic/ecs-logging-go-logrus) pushed_at:2020-11 Elastic Common Schema (ECS) support for logrus
-- [elastic/ecs-logging-go-zap](https://github.com/elastic/ecs-logging-go-zap) pushed_at:2020-10 Logging encoder for ECS compatible logs using uber-go/zap
+- [elastic/ecs-logging-go-zap](https://github.com/elastic/ecs-logging-go-zap) pushed_at:2020-12 Logging encoder for ECS compatible logs using uber-go/zap
 - [elastic/elastic-agent-client](https://github.com/elastic/elastic-agent-client) pushed_at:2020-11 
 - [elastic/elastic-package](https://github.com/elastic/elastic-package) pushed_at:2020-12 elastic-package - Command line tool for developing Elastic Integrations
 - [elastic/fleet-server](https://github.com/elastic/fleet-server) pushed_at:2020-12 The Fleet server allows managing a fleet of Elastic Agents.
@@ -130,7 +130,7 @@
 - [elastic/hey-apm](https://github.com/elastic/hey-apm) pushed_at:2020-12 Basic load generation for apm-server built on hey
 - [elastic/local-volume](https://github.com/elastic/local-volume) pushed_at:2019-12 Local volume operator for Kubernetes
 - [elastic/logstash-forwarder](https://github.com/elastic/logstash-forwarder) pushed_at:2016-10 An experiment to cut logs in preparation for processing elsewhere. Replaced by Filebeat: https://github.com/elastic/beats/tree/master/filebeat
-- [elastic/Machinebeat](https://github.com/elastic/Machinebeat) pushed_at:2020-10 This is a beat for collecting data of machines, sensors and PLCs. At the moment this is supporting OPC UA and MQTT. More to add.
+- [elastic/Machinebeat](https://github.com/elastic/Machinebeat) pushed_at:2020-12 This is a beat for collecting data of machines, sensors and PLCs. At the moment this is supporting OPC UA and MQTT. More to add.
 - [elastic/migrate-management-beats](https://github.com/elastic/migrate-management-beats) pushed_at:2019-04 Migrate between Beats Central Management 6.6 and 6.7
 - [elastic/opbeans-go](https://github.com/elastic/opbeans-go) pushed_at:2020-11 Opbeans Demo application for the Elastic APM Go agent
 - [elastic/package-registry](https://github.com/elastic/package-registry) pushed_at:2020-12 Elastic Package Registry (EPR)
@@ -216,7 +216,7 @@
 - [elastic/securesm](https://github.com/elastic/securesm) pushed_at:2018-01 SecurityManager implementation that works around design flaws in Java
 - [elastic/shield-custom-realm-example](https://github.com/elastic/shield-custom-realm-example) pushed_at:2018-07 
 - [elastic/spring-petclinic](https://github.com/elastic/spring-petclinic) pushed_at:2020-08 REST version of the Spring Petclinic sample application
-- [elastic/stack-docs](https://github.com/elastic/stack-docs) pushed_at:2020-12 Elastic Stack Documentation
+- [elastic/stack-docs](https://github.com/elastic/stack-docs) pushed_at:2021-01 Elastic Stack Documentation
 - [elastic/support-diagnostics](https://github.com/elastic/support-diagnostics) pushed_at:2020-12 Support diagnostics utility for elasticsearch and logstash
 - [elastic/tealess](https://github.com/elastic/tealess) pushed_at:2018-03 WORK IN PROGRESS - An SSL/TLS troubleshooting tool aimed at providing actionable diagnostics for SSL/TLS configuration problems.
 
@@ -333,7 +333,7 @@
 - [elastic/ansible-elasticsearch-example](https://github.com/elastic/ansible-elasticsearch-example) pushed_at:2016-01 
 - [elastic/apm-agent-ocaml](https://github.com/elastic/apm-agent-ocaml) pushed_at:2020-12 Elastic OCaml APM provides an OCaml library for uploading traces, transactions and errors to Elastic APM.
 - [elastic/badger](https://github.com/elastic/badger) pushed_at:2020-10 Fast key-value DB in Go.
-- [elastic/built-docs](https://github.com/elastic/built-docs) pushed_at:2020-12 Generated docs
+- [elastic/built-docs](https://github.com/elastic/built-docs) pushed_at:2021-01 Generated docs
 - [elastic/call-for-meetups](https://github.com/elastic/call-for-meetups) pushed_at:2020-06 Do you want to speak at an Elastic meetup? Or would you want to hear about a specific topic? You have come to the right place.
 - [elastic/cloud-ui-take-home](https://github.com/elastic/cloud-ui-take-home) pushed_at:2019-10 
 - [elastic/code-examples_empty-file](https://github.com/elastic/code-examples_empty-file) pushed_at:2019-04 
@@ -422,7 +422,7 @@
 - [elastic/apm-agent-python-benchmarks](https://github.com/elastic/apm-agent-python-benchmarks) pushed_at:2020-12 Benchmarks for the Python APM Agent
 - [elastic/apm-integration-testing](https://github.com/elastic/apm-integration-testing) pushed_at:2020-12 APM Integration Testing
 - [elastic/apm-server-docker](https://github.com/elastic/apm-server-docker) pushed_at:2019-06 Official Docker image for the Elastic APM Server
-- [elastic/app-search-python](https://github.com/elastic/app-search-python) pushed_at:2020-11 Elastic App Search Official Python Client
+- [elastic/app-search-python](https://github.com/elastic/app-search-python) pushed_at:2020-12 Elastic App Search Official Python Client
 - [elastic/aws-mfa](https://github.com/elastic/aws-mfa) pushed_at:2019-03 Manage AWS MFA Security Credentials
 - [elastic/awscli-keyring](https://github.com/elastic/awscli-keyring) pushed_at:2016-07 AWS CLI Keyring
 - [elastic/beats-docker](https://github.com/elastic/beats-docker) pushed_at:2019-06 Official Beats Docker images
@@ -433,7 +433,7 @@
 - [elastic/dorothy](https://github.com/elastic/dorothy) pushed_at:2020-12 Dorothy is a tool to test security monitoring and detection for Okta environments
 - [elastic/ecs](https://github.com/elastic/ecs) pushed_at:2020-12 Elastic Common Schema
 - [elastic/ecs-logging-python](https://github.com/elastic/ecs-logging-python) pushed_at:2020-10 Logging formatters for the Elastic Common Schema (ECS) in Python
-- [elastic/eland](https://github.com/elastic/eland) pushed_at:2020-11 Python Client and Toolkit for DataFrames, Big Data, Machine Learning and ETL in Elasticsearch
+- [elastic/eland](https://github.com/elastic/eland) pushed_at:2020-12 Python Client and Toolkit for DataFrames, Big Data, Machine Learning and ETL in Elasticsearch
 - [elastic/elastic-transport-python](https://github.com/elastic/elastic-transport-python) pushed_at:2020-12 Transport classes and utilities shared among Python Elastic client libraries
 - [elastic/elasticboard](https://github.com/elastic/elasticboard) pushed_at:2017-04 Pingboard adapter for Elasticsearch
 - [elastic/elasticsearch-docker](https://github.com/elastic/elasticsearch-docker) pushed_at:2019-06 Official Elasticsearch Docker image
@@ -454,7 +454,7 @@
 - [elastic/logstash-docker](https://github.com/elastic/logstash-docker) pushed_at:2019-06 Official Logstash Docker image
 - [elastic/ml-json-schemas](https://github.com/elastic/ml-json-schemas) pushed_at:2020-07 Json schema for data types used in ML code
 - [elastic/opbeans-flask](https://github.com/elastic/opbeans-flask) pushed_at:2020-07 A flask implementation of the Opbeans test app for Elastic APM
-- [elastic/opbeans-loadgen](https://github.com/elastic/opbeans-loadgen) pushed_at:2019-11 Load generator for Opbeans demo apps
+- [elastic/opbeans-loadgen](https://github.com/elastic/opbeans-loadgen) pushed_at:2020-12 Load generator for Opbeans demo apps
 - [elastic/opbeans-python](https://github.com/elastic/opbeans-python) pushed_at:2020-12 
 - [elastic/packerlicious](https://github.com/elastic/packerlicious) pushed_at:2020-08 use python to make hashicorp packer templates
 - [elastic/rally](https://github.com/elastic/rally) pushed_at:2020-12 Macrobenchmarking framework for Elasticsearch
@@ -536,7 +536,7 @@
 - [elastic/ece-support-diagnostics](https://github.com/elastic/ece-support-diagnostics) pushed_at:2020-12 Support diagnostics utility for Elastic Cloud Enterprise (ECE)
 - [elastic/eck-support-diagnostics](https://github.com/elastic/eck-support-diagnostics) pushed_at:2020-04 Support diagnostics for Elastic Cloud on Kubernetes
 - [elastic/elastic-github-actions](https://github.com/elastic/elastic-github-actions) pushed_at:2020-09 This action spins up an Elasticsearch instance that can be accessed and used in your subsequent steps.
-- [elastic/elastic-stack-testing](https://github.com/elastic/elastic-stack-testing) pushed_at:2020-12 Elastic Stack Testing Framework (ESTF)
+- [elastic/elastic-stack-testing](https://github.com/elastic/elastic-stack-testing) pushed_at:2021-01 Elastic Stack Testing Framework (ESTF)
 - [elastic/elasticsearch-clients-benchmarks](https://github.com/elastic/elasticsearch-clients-benchmarks) pushed_at:2020-09 Benchmarking framework for Elasticsearch clients
 - [elastic/elasticsearch-servicewrapper](https://github.com/elastic/elasticsearch-servicewrapper) pushed_at:2016-02 A service wrapper on top of elasticsearch
 - [elastic/esvm-snapshot-builder](https://github.com/elastic/esvm-snapshot-builder) pushed_at:2018-03 Tool used to update esvm snapshots (used for Kibana testing and development)

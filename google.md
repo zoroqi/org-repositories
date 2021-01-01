@@ -99,7 +99,7 @@
 - [google/audit-normalmap](https://github.com/google/audit-normalmap) pushed_at:2017-03 
 - [google/bluesky-watchface](https://github.com/google/bluesky-watchface) pushed_at:2016-07 
 - [google/boringssl](https://github.com/google/boringssl) pushed_at:2020-12 Mirror of BoringSSL
-- [google/brotli](https://github.com/google/brotli) pushed_at:2020-11 Brotli compression format
+- [google/brotli](https://github.com/google/brotli) pushed_at:2020-12 Brotli compression format
 - [google/bzip2-rpc](https://github.com/google/bzip2-rpc) pushed_at:2016-08 Experiments in converting bzip2 API to be RPC-based
 - [google/capsicum-linux](https://github.com/google/capsicum-linux) pushed_at:2020-06 Linux kernel with Capsicum support
 - [google/clspv](https://github.com/google/clspv) pushed_at:2020-12 Clspv is a prototype compiler for a subset of OpenCL C to Vulkan compute shaders
@@ -115,7 +115,7 @@
 - [google/fuzzer-test-suite](https://github.com/google/fuzzer-test-suite) pushed_at:2020-03 Set of tests for fuzzing engines
 - [google/glome](https://github.com/google/glome) pushed_at:2020-12 Generic Low Overhead Message Exchange (GLOME) is a protocol providing secure authentication and authorization for low dependency environments.
 - [google/go-tpm-tools](https://github.com/google/go-tpm-tools) pushed_at:2020-12 Go packages built on go-tpm providing a high-level API for using TPMs
-- [google/google-authenticator-libpam](https://github.com/google/google-authenticator-libpam) pushed_at:2020-09 
+- [google/google-authenticator-libpam](https://github.com/google/google-authenticator-libpam) pushed_at:2020-12 
 - [google/google-drive-dokany](https://github.com/google/google-drive-dokany) pushed_at:2019-10 
 - [google/graphd](https://github.com/google/graphd) pushed_at:2020-07 The Metaweb graph repository server
 - [google/hammer-kit](https://github.com/google/hammer-kit) pushed_at:2020-12 
@@ -287,7 +287,7 @@
 - [google/innsbruck-thermal-test-library](https://github.com/google/innsbruck-thermal-test-library) pushed_at:2019-07 
 - [google/ion](https://github.com/google/ion) pushed_at:2018-05 Ion
 - [google/iot-environment-sensors](https://github.com/google/iot-environment-sensors) pushed_at:2020-07 
-- [google/iree](https://github.com/google/iree) pushed_at:2020-12 👻
+- [google/iree](https://github.com/google/iree) pushed_at:2021-01 👻
 - [google/jwt_verify_lib](https://github.com/google/jwt_verify_lib) pushed_at:2020-12 
 - [google/kati](https://github.com/google/kati) pushed_at:2020-11 An experimental GNU make clone
 - [google/knusperli](https://github.com/google/knusperli) pushed_at:2019-08 A deblocking JPEG decoder
@@ -336,12 +336,12 @@
 - [google/nvidia_libs_test](https://github.com/google/nvidia_libs_test) pushed_at:2020-11 Tests and benchmarks for cudnn (and in the future, other nvidia libraries)
 - [google/oboe](https://github.com/google/oboe) pushed_at:2020-12 Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
 - [google/ohmu](https://github.com/google/ohmu) pushed_at:2018-12 Compiler intermediate language for static analysis.
-- [google/omaha](https://github.com/google/omaha) pushed_at:2020-11 Google Update for Windows
+- [google/omaha](https://github.com/google/omaha) pushed_at:2020-12 Google Update for Windows
 - [google/open-vcdiff](https://github.com/google/open-vcdiff) pushed_at:2019-06 An encoder/decoder for the VCDIFF (RFC3284) format
 - [google/opuscpp](https://github.com/google/opuscpp) pushed_at:2018-12 c++ wrapper around libopus
 - [google/or-tools](https://github.com/google/or-tools) pushed_at:2020-12 Google's Operations Research tools:
 - [google/orbit](https://github.com/google/orbit) pushed_at:2020-12 C/C++ Performance Profiler
-- [google/osqp-cpp](https://github.com/google/osqp-cpp) pushed_at:2020-10 A C++ interface for the OSQP quadratic programming solver.
+- [google/osqp-cpp](https://github.com/google/osqp-cpp) pushed_at:2020-12 A C++ interface for the OSQP quadratic programming solver.
 - [google/p4-pdpi](https://github.com/google/p4-pdpi) pushed_at:2020-10 
 - [google/paragraph](https://github.com/google/paragraph) pushed_at:2020-12 
 - [google/path-auditor](https://github.com/google/path-auditor) pushed_at:2020-12 
@@ -361,7 +361,7 @@
 - [google/quickshift](https://github.com/google/quickshift) pushed_at:2018-08 A clustering algorithm that first finds the high-density regions (cluster-cores) of the data and then clusters the remaining points by hill-climbing. Such seedings act as more stable and expressive cluster-cores than the singleton modes found by popular algorithm such as mean shift. (https://arxiv.org/abs/1805.07909)
 - [google/randen](https://github.com/google/randen) pushed_at:2018-10 Fast backtracking-resistant random generator: https://arxiv.org/abs/1810.02227
 - [google/rct-automation](https://github.com/google/rct-automation) pushed_at:2014-08 Radio automation software (not an official google product)
-- [google/re2](https://github.com/google/re2) pushed_at:2020-11 RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+- [google/re2](https://github.com/google/re2) pushed_at:2020-12 RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [google/REAPER](https://github.com/google/REAPER) pushed_at:2019-12 
 - [google/redgrep](https://github.com/google/redgrep) pushed_at:2019-01 ♥ Janusz Brzozowski
 - [google/refr](https://github.com/google/refr) pushed_at:2015-04 A framework for building reranking models.
@@ -472,7 +472,7 @@
 - [google/charted](https://github.com/google/charted) pushed_at:2019-09 Visualization toolkit for Dart language
 - [google/chartjs.dart](https://github.com/google/chartjs.dart) pushed_at:2020-12 Dart API for Chart.js
 - [google/charts](https://github.com/google/charts) pushed_at:2020-09 
-- [google/codemirror.dart](https://github.com/google/codemirror.dart) pushed_at:2020-10 A Dart wrapper around the CodeMirror text editor.
+- [google/codemirror.dart](https://github.com/google/codemirror.dart) pushed_at:2020-12 A Dart wrapper around the CodeMirror text editor.
 - [google/comid](https://github.com/google/comid) pushed_at:2015-05 CodeMirror in Dart
 - [google/crclib.dart](https://github.com/google/crclib.dart) pushed_at:2020-10 
 - [google/create-framework](https://github.com/google/create-framework) pushed_at:2020-03 
@@ -558,7 +558,7 @@
 ## Go
 
 - [google/acme](https://github.com/google/acme) pushed_at:2017-10 A simple ACME command line tool without 3rd party deps!
-- [google/addlicense](https://github.com/google/addlicense) pushed_at:2020-10 A program which ensures source code files have copyright license headers by scanning directory patterns recursively
+- [google/addlicense](https://github.com/google/addlicense) pushed_at:2020-12 A program which ensures source code files have copyright license headers by scanning directory patterns recursively
 - [google/agi](https://github.com/google/agi) pushed_at:2020-12 Android GPU Inspector
 - [google/alertmanager-irc-relay](https://github.com/google/alertmanager-irc-relay) pushed_at:2020-11 Send Prometheus Alerts to IRC using Webhooks
 - [google/apt-golang-s3](https://github.com/google/apt-golang-s3) pushed_at:2020-10 An s3 transport method for the apt package management system
@@ -604,7 +604,7 @@
 - [google/exposure-notifications-server](https://github.com/google/exposure-notifications-server) pushed_at:2020-12 Exposure Notification Reference Server | Covid-19 Exposure Notifications
 - [google/exposure-notifications-verification-server](https://github.com/google/exposure-notifications-verification-server) pushed_at:2020-12 Verification component for COVID-19 Exposure Notifications.
 - [google/fchan-go](https://github.com/google/fchan-go) pushed_at:2017-01 Experimental channel implementation
-- [google/fleetspeak](https://github.com/google/fleetspeak) pushed_at:2020-11 
+- [google/fleetspeak](https://github.com/google/fleetspeak) pushed_at:2020-12 
 - [google/font-go](https://github.com/google/font-go) pushed_at:2016-09 
 - [google/fresnel](https://github.com/google/fresnel) pushed_at:2020-11 A cross platform solution for remote OS provisioning.
 - [google/fscrypt](https://github.com/google/fscrypt) pushed_at:2020-12 Go tool for managing Linux filesystem encryption
@@ -710,7 +710,7 @@
 - [google/navc](https://github.com/google/navc) pushed_at:2019-04 C code indexer using language semantic from clang
 - [google/nel-collector](https://github.com/google/nel-collector) pushed_at:2019-06 Network Error Logging (NEL) collector
 - [google/netstack](https://github.com/google/netstack) pushed_at:2019-12 IPv4 and IPv6 userland network stack
-- [google/nftables](https://github.com/google/nftables) pushed_at:2020-08 This package manipulates Linux nftables (the iptables successor)
+- [google/nftables](https://github.com/google/nftables) pushed_at:2020-12 This package manipulates Linux nftables (the iptables successor)
 - [google/nixery](https://github.com/google/nixery) pushed_at:2020-12 Container registry which transparently builds images using the Nix package manager
 - [google/note-maps](https://github.com/google/note-maps) pushed_at:2020-12 A personal knowledge base intended for use on mobile devices.
 - [google/novm](https://github.com/google/novm) pushed_at:2020-06 Experimental KVM-based VMM for containers, written in Go.
@@ -762,7 +762,7 @@
 - [google/truestreet](https://github.com/google/truestreet) pushed_at:2020-09 Prometheus adapter for Google Cloud Spanner 
 - [google/ts-bridge](https://github.com/google/ts-bridge) pushed_at:2020-12 Time Series Bridge: a tool to import metrics from one monitoring system to another
 - [google/ubntools](https://github.com/google/ubntools) pushed_at:2020-12 Tools to do fun things with ubiquity gear
-- [google/uuid](https://github.com/google/uuid) pushed_at:2020-09 Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+- [google/uuid](https://github.com/google/uuid) pushed_at:2020-12 Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [google/vectorio](https://github.com/google/vectorio) pushed_at:2019-06 Library for Go (golang) to implement writev system call (not an official Google product)
 - [google/vmregistry](https://github.com/google/vmregistry) pushed_at:2020-05 VM Registry — manage and provision your VMs
 - [google/weasel](https://github.com/google/weasel) pushed_at:2020-01 A simple frontend (App Engine app) that serves content from a Google Cloud Storage (GCS) bucket
@@ -976,7 +976,7 @@
 - [google/j2objc](https://github.com/google/j2objc) pushed_at:2020-12 A Java to iOS Objective-C translation tool and runtime.
 - [google/jarjar](https://github.com/google/jarjar) pushed_at:2018-02 
 - [google/java-monitoring-client-library](https://github.com/google/java-monitoring-client-library) pushed_at:2020-11 A java idiomatic monitoring client for collecting metrics 
-- [google/java-photoslibrary](https://github.com/google/java-photoslibrary) pushed_at:2020-08 Java client library for the Google Photos Library API
+- [google/java-photoslibrary](https://github.com/google/java-photoslibrary) pushed_at:2020-12 Java client library for the Google Photos Library API
 - [google/java-sourcetools](https://github.com/google/java-sourcetools) pushed_at:2015-06 Automatically exported from code.google.com/p/java-sourcetools
 - [google/java-thread-sanitizer](https://github.com/google/java-thread-sanitizer) pushed_at:2014-09 
 - [google/jimfs](https://github.com/google/jimfs) pushed_at:2020-12 An in-memory file system for Java 7+
@@ -1039,7 +1039,7 @@
 - [google/sha1dc-jni](https://github.com/google/sha1dc-jni) pushed_at:2019-05 
 - [google/simple-pedometer](https://github.com/google/simple-pedometer) pushed_at:2014-10 
 - [google/simplecfg](https://github.com/google/simplecfg) pushed_at:2016-08 Simple CFG module for ExtendJ
-- [google/software-product-sprint](https://github.com/google/software-product-sprint) pushed_at:2020-11 
+- [google/software-product-sprint](https://github.com/google/software-product-sprint) pushed_at:2020-12 
 - [google/spline](https://github.com/google/spline) pushed_at:2017-07 A sample app that demonstrates Android's data binding library in the context of a vector drawing application.
 - [google/splot-java](https://github.com/google/splot-java) pushed_at:2020-06 Splot for Java: An Experimental IoT Machine-to-Machine Library for Monitoring, Control, and Automation
 - [google/startup-os](https://github.com/google/startup-os) pushed_at:2020-12 Working examples of Google's Open Source stack and deployment to the cloud.
@@ -1223,7 +1223,7 @@
 - [google/page-timer](https://github.com/google/page-timer) pushed_at:2019-08 A personal time-tracking Chrome extension
 - [google/pagespeed-inslides](https://github.com/google/pagespeed-inslides) pushed_at:2019-04 HTML5 Slide Deck Generator Tool Based on the PageSpeed Insights API
 - [google/palette.js](https://github.com/google/palette.js) pushed_at:2020-01 Script for generating colour palettes for use with graphs, charts and cartography.
-- [google/paseos](https://github.com/google/paseos) pushed_at:2020-09 Paseos is a web app for creating and sharing web journeys.
+- [google/paseos](https://github.com/google/paseos) pushed_at:2020-12 Paseos is a web app for creating and sharing web journeys.
 - [google/password-alert](https://github.com/google/password-alert) pushed_at:2018-02 A Chrome Extension to help protect against phishing attacks.
 - [google/payjs](https://github.com/google/payjs) pushed_at:2019-10 
 - [google/pepper.js](https://github.com/google/pepper.js) pushed_at:2016-08 Pepper applications as Native Client or JavaScript
@@ -1249,7 +1249,7 @@
 - [google/sqlcommenter](https://github.com/google/sqlcommenter) pushed_at:2020-12 
 - [google/stijl](https://github.com/google/stijl) pushed_at:2020-12 Unified code review dashboard.
 - [google/systemjs](https://github.com/google/systemjs) pushed_at:2014-01 A minimal System loader
-- [google/tamperchrome](https://github.com/google/tamperchrome) pushed_at:2020-12 Tamper Chrome is a Chrome extension that allows you to modify HTTP requests on the fly and aid on web security testing. Tamper Chrome works across all operating systems (including Chrome OS).
+- [google/tamperchrome](https://github.com/google/tamperchrome) pushed_at:2020-12 Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a proxy. Tamper Chrome works across all operating systems (including Chrome OS).
 - [google/tensorflow-tools](https://github.com/google/tensorflow-tools) pushed_at:2018-01 A collection of manipulation tools for TensorFlow data.
 - [google/tern-closure](https://github.com/google/tern-closure) pushed_at:2017-10 A Tern plugin adding Closure support.
 - [google/testRunner](https://github.com/google/testRunner) pushed_at:2013-10 testRunner
@@ -1501,7 +1501,7 @@
 - [google/mobly-snippet-lib](https://github.com/google/mobly-snippet-lib) pushed_at:2020-07 Mobly Snippet Lib is a library for triggering device-side code from host-side Mobly tests.
 - [google/multibox](https://github.com/google/multibox) pushed_at:2016-03 
 - [google/network-visualizer-x](https://github.com/google/network-visualizer-x) pushed_at:2015-02 
-- [google/new-project](https://github.com/google/new-project) pushed_at:2020-10 This repository contains a template you can use to seed a repository for a new open source project.
+- [google/new-project](https://github.com/google/new-project) pushed_at:2020-12 This repository contains a template you can use to seed a repository for a new open source project.
 - [google/night-sight](https://github.com/google/night-sight) pushed_at:2020-03 This is a github to host the webpage for: Handheld Mobile Photography in Very Low Light
 - [google/node-armor](https://github.com/google/node-armor) pushed_at:2018-06 
 - [google/obno](https://github.com/google/obno) pushed_at:2018-08 
@@ -1560,7 +1560,7 @@
 - [google/freebase-wikidata-converter](https://github.com/google/freebase-wikidata-converter) pushed_at:2015-09 
 - [google/identity-toolkit-php-client](https://github.com/google/identity-toolkit-php-client) pushed_at:2015-12 Google Identity Toolkit client library for PHP
 - [google/php-crc32](https://github.com/google/php-crc32) pushed_at:2020-10 PHP CRC32 implementations (support all crc32 polynomials, and hardware acceleration)
-- [google/php-photoslibrary](https://github.com/google/php-photoslibrary) pushed_at:2020-09 PHP client library for the Google Photos Library API
+- [google/php-photoslibrary](https://github.com/google/php-photoslibrary) pushed_at:2020-12 PHP client library for the Google Photos Library API
 - [google/recaptcha](https://github.com/google/recaptcha) pushed_at:2020-10 PHP client library for reCAPTCHA, a free service to protect your website from spam and abuse.
 - [google/recki-ct](https://github.com/google/recki-ct) pushed_at:2018-12 
 
@@ -1600,7 +1600,7 @@
 - [google/adcase](https://github.com/google/adcase) pushed_at:2020-04 
 - [google/airdialogue](https://github.com/google/airdialogue) pushed_at:2020-07 
 - [google/airdialogue_model](https://github.com/google/airdialogue_model) pushed_at:2020-07 
-- [google/aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) pushed_at:2020-11  API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
+- [google/aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) pushed_at:2020-12  API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
 - [google/alligator2](https://github.com/google/alligator2) pushed_at:2020-12 A sample integration between the Google My Business API and the Cloud Natural Language API
 - [google/amt-forensics](https://github.com/google/amt-forensics) pushed_at:2017-10 Retrieve Intel AMT's Audit Log from a Linux machine without knowing the admin user's password.
 - [google/androguard](https://github.com/google/androguard) pushed_at:2018-12 Reverse engineering, Malware and goodware analysis of Android applications ... and more (ninja !)
@@ -1676,7 +1676,7 @@
 - [google/CSP-Validator](https://github.com/google/CSP-Validator) pushed_at:2012-09 CSP-Validator
 - [google/ctfscoreboard](https://github.com/google/ctfscoreboard) pushed_at:2020-02 Scoreboard for Capture The Flag competitions.
 - [google/customer-match-upload-script](https://github.com/google/customer-match-upload-script) pushed_at:2019-08 
-- [google/cyanobyte](https://github.com/google/cyanobyte) pushed_at:2020-10 Machine-readable datasheets
+- [google/cyanobyte](https://github.com/google/cyanobyte) pushed_at:2020-12 Machine-readable datasheets
 - [google/dcm-video-uploader](https://github.com/google/dcm-video-uploader) pushed_at:2018-05 Python script to upload video creatives to DCM. The script creates the necessary structure under a provided DCM placement to target each video to a different geo location. One use case is creating dynamic video campaigns 
 - [google/decoupled_gaussian_process](https://github.com/google/decoupled_gaussian_process) pushed_at:2018-03 
 - [google/deepvariant](https://github.com/google/deepvariant) pushed_at:2020-12 DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
@@ -1711,7 +1711,7 @@
 - [google/flight-lab](https://github.com/google/flight-lab) pushed_at:2020-09 
 - [google/fplutil](https://github.com/google/fplutil) pushed_at:2018-07 fplutil is a set of small libraries and tools that can be useful when developing applications for Android and other platforms.
 - [google/fractribution](https://github.com/google/fractribution) pushed_at:2020-12 
-- [google/fuzzbench](https://github.com/google/fuzzbench) pushed_at:2020-12 FuzzBench - Fuzzer benchmarking as a service.
+- [google/fuzzbench](https://github.com/google/fuzzbench) pushed_at:2021-01 FuzzBench - Fuzzer benchmarking as a service.
 - [google/gae-secure-scaffold-python](https://github.com/google/gae-secure-scaffold-python) pushed_at:2020-02 
 - [google/gae-secure-scaffold-python3](https://github.com/google/gae-secure-scaffold-python3) pushed_at:2020-05 Secure scaffold for Google App Engine static and dynamic Python websites
 - [google/gazoo-device](https://github.com/google/gazoo-device) pushed_at:2020-11 Gazoo Device Manager is a framework for testing smart devices. It is used for device management and handles device communication, logging, log event filtering, and device health checks. Device controllers implement a common interface which allows GDM tests to be device-agnostic. GDM has a CLI to make common device interactions easy.
@@ -1726,7 +1726,7 @@
 - [google/git-mmrepo](https://github.com/google/git-mmrepo) pushed_at:2020-08 
 - [google/git-patrol](https://github.com/google/git-patrol) pushed_at:2019-04 
 - [google/git-rebaser](https://github.com/google/git-rebaser) pushed_at:2020-04 
-- [google/github-release-retry](https://github.com/google/github-release-retry) pushed_at:2020-06 A tool for creating GitHub Releases and uploading assets reliably
+- [google/github-release-retry](https://github.com/google/github-release-retry) pushed_at:2020-12 A tool for creating GitHub Releases and uploading assets reliably
 - [google/GL-Shader-Validator](https://github.com/google/GL-Shader-Validator) pushed_at:2017-06 
 - [google/glazier](https://github.com/google/glazier) pushed_at:2020-12 A tool for automating the installation of the Microsoft Windows operating system on various device platforms.
 - [google/gmail-oauth2-tools](https://github.com/google/gmail-oauth2-tools) pushed_at:2020-09 Tools and sample code for authenticating to Gmail with OAuth2
@@ -1755,7 +1755,7 @@
 - [google/io-captions-gadget](https://github.com/google/io-captions-gadget) pushed_at:2015-06 Automatically exported from code.google.com/p/io-captions-gadget
 - [google/ipaddr-py](https://github.com/google/ipaddr-py) pushed_at:2017-12 Google's Python IP address manipulation library
 - [google/it-cert-automation](https://github.com/google/it-cert-automation) pushed_at:2020-10 Code shown in the videos for the Google IT Automation with Python Professional Certificate
-- [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice) pushed_at:2020-12 Google IT Automation with Python Professional Certificate - Practice files
+- [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice) pushed_at:2021-01 Google IT Automation with Python Professional Certificate - Practice files
 - [google/it-cert-automation-project](https://github.com/google/it-cert-automation-project) pushed_at:2020-09 Files used in the final project of the Google IT Automation with Python Professional Certificate
 - [google/jacs](https://github.com/google/jacs) pushed_at:2020-02 
 - [google/jarvan](https://github.com/google/jarvan) pushed_at:2019-11 
@@ -1838,12 +1838,12 @@
 - [google/py-ast-utils](https://github.com/google/py-ast-utils) pushed_at:2020-07 
 - [google/py-html-contextual-escaping](https://github.com/google/py-html-contextual-escaping) pushed_at:2015-04 Automatically exported from code.google.com/p/py-html-contextual-escaping
 - [google/pyaedj](https://github.com/google/pyaedj) pushed_at:2020-06 
-- [google/pybadges](https://github.com/google/pybadges) pushed_at:2020-11 A Python library for creating Github-style badges
+- [google/pybadges](https://github.com/google/pybadges) pushed_at:2020-12 A Python library for creating Github-style badges
 - [google/pyctr](https://github.com/google/pyctr) pushed_at:2019-07 
 - [google/pygtrie](https://github.com/google/pygtrie) pushed_at:2020-02 Python library implementing a trie data structure.
 - [google/pymql](https://github.com/google/pymql) pushed_at:2020-08 The Metaweb Query Language
 - [google/pyringe](https://github.com/google/pyringe) pushed_at:2019-12 Debugger capable of attaching to and injecting code into python processes.
-- [google/python-adb](https://github.com/google/python-adb) pushed_at:2020-08 Python ADB + Fastboot implementation
+- [google/python-adb](https://github.com/google/python-adb) pushed_at:2020-12 Python ADB + Fastboot implementation
 - [google/python-atfork](https://github.com/google/python-atfork) pushed_at:2020-06 
 - [google/python-cloud-utils](https://github.com/google/python-cloud-utils) pushed_at:2020-10 
 - [google/python-dimond](https://github.com/google/python-dimond) pushed_at:2018-12 Python implementation of Telink Bluetooth mesh protocol
@@ -1907,7 +1907,7 @@
 - [google/support-tools](https://github.com/google/support-tools) pushed_at:2019-03 Automatically exported from code.google.com/p/support-tools
 - [google/swift-integration-tests](https://github.com/google/swift-integration-tests) pushed_at:2018-06 Automated tests for validating the generated Swift snapshots behave correctly
 - [google/swift-jupyter](https://github.com/google/swift-jupyter) pushed_at:2020-12 
-- [google/tangent](https://github.com/google/tangent) pushed_at:2020-06 Source-to-Source Debuggable Derivatives in Pure Python
+- [google/tangent](https://github.com/google/tangent) pushed_at:2020-12 Source-to-Source Debuggable Derivatives in Pure Python
 - [google/tcli](https://github.com/google/tcli) pushed_at:2020-12 
 - [google/tcp_killer](https://github.com/google/tcp_killer) pushed_at:2020-10 Shuts down a TCP connection on Linux or macOS. Local and remote endpoint arguments can be copied from the output of 'netstat -lanW'.
 - [google/teknowledge](https://github.com/google/teknowledge) pushed_at:2018-05 A basic CS curriculum for coding in Python.
@@ -2079,8 +2079,8 @@
 - [google/bazel-common](https://github.com/google/bazel-common) pushed_at:2020-12 Common functionality for Google's open-source libraries that are built with bazel.
 - [google/bazel_rules_install](https://github.com/google/bazel_rules_install) pushed_at:2020-10 Bazel rules for installing build results. Similar to `make install`.
 - [google/cabal2bazel](https://github.com/google/cabal2bazel) pushed_at:2020-03 Haskell Bazel rules and cabal2bazel import tool.
-- [google/llvm-bazel](https://github.com/google/llvm-bazel) pushed_at:2020-12 
-- [google/starlark-rust](https://github.com/google/starlark-rust) pushed_at:2020-11 Starlark (https://github.com/bazelbuild/starlark) in Rust
+- [google/llvm-bazel](https://github.com/google/llvm-bazel) pushed_at:2021-01 
+- [google/starlark-rust](https://github.com/google/starlark-rust) pushed_at:2020-12 Starlark (https://github.com/bazelbuild/starlark) in Rust
 
 ## Swift
 

@@ -29,7 +29,7 @@
 
 ## BitBake
 
-- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) pushed_at:2020-11 OpenEmbedded/Yocto layer for RISC-V Architecture
+- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) pushed_at:2021-01 OpenEmbedded/Yocto layer for RISC-V Architecture
 
 ## C
 
@@ -82,7 +82,7 @@
 ## Makefile
 
 - [riscv/riscv-CMOs-discuss](https://github.com/riscv/riscv-CMOs-discuss) pushed_at:2020-11 
-- [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2020-10 RISC-V Profiles and Platform Specification
+- [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2020-12 RISC-V Profiles and Platform Specification
 - [riscv/riscv-sbi-doc](https://github.com/riscv/riscv-sbi-doc) pushed_at:2020-12 Documentation for the RISC-V Supervisor Binary Interface
 - [riscv/riscv-semihosting-spec](https://github.com/riscv/riscv-semihosting-spec) pushed_at:2020-04 
 
@@ -133,7 +133,7 @@
 
 ## Ruby
 
-- [riscv/homebrew-riscv](https://github.com/riscv/homebrew-riscv) pushed_at:2020-09 homebrew (macOS) packages for RISC-V toolchain
+- [riscv/homebrew-riscv](https://github.com/riscv/homebrew-riscv) pushed_at:2020-12 homebrew (macOS) packages for RISC-V toolchain
 
 ## Shell
 

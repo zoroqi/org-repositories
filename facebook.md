@@ -37,14 +37,14 @@
 
 ## C++
 
-- [facebook/bistro](https://github.com/facebook/bistro) pushed_at:2020-12 Bistro is a flexible distributed scheduler, a high-performance framework supporting multiple paradigms while retaining ease of configuration, management, and monitoring.
+- [facebook/bistro](https://github.com/facebook/bistro) pushed_at:2021-01 Bistro is a flexible distributed scheduler, a high-performance framework supporting multiple paradigms while retaining ease of configuration, management, and monitoring.
 - [facebook/facebook-clang-plugins](https://github.com/facebook/facebook-clang-plugins) pushed_at:2020-09 Plugins to clang-analyzer and clang-frontend
 - [facebook/facebook-sdk-for-unity](https://github.com/facebook/facebook-sdk-for-unity) pushed_at:2020-12 The facebook sdk for unity.
 - [facebook/fatal](https://github.com/facebook/fatal) pushed_at:2020-12 Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood.
 - [facebook/fb303](https://github.com/facebook/fb303) pushed_at:2020-12 fb303 is a core set of thrift functions that provide a common mechanism for querying stats and other information from a service.
 - [facebook/fboss](https://github.com/facebook/fboss) pushed_at:2020-12 Facebook Open Switching System  Software for controlling network switches.
 - [facebook/fbthrift](https://github.com/facebook/fbthrift) pushed_at:2020-12 Facebook's branch of Apache Thrift, including a new C++ server.
-- [facebook/folly](https://github.com/facebook/folly) pushed_at:2020-12 An open-source C++ library developed and used at Facebook.
+- [facebook/folly](https://github.com/facebook/folly) pushed_at:2021-01 An open-source C++ library developed and used at Facebook.
 - [facebook/hermes](https://github.com/facebook/hermes) pushed_at:2020-12 Hermes is a small and lightweight JavaScript engine optimized for running React Native on Android.
 - [facebook/hhvm](https://github.com/facebook/hhvm) pushed_at:2020-12 A virtual machine for executing programs written in Hack.
 - [facebook/mcrouter](https://github.com/facebook/mcrouter) pushed_at:2020-12 Mcrouter is a memcached protocol router for scaling memcached deployments.
@@ -162,7 +162,7 @@
 ## PHP
 
 - [facebook/facebook-business-sdk-codegen](https://github.com/facebook/facebook-business-sdk-codegen) pushed_at:2020-12 Codegen project for our business SDKs
-- [facebook/facebook-instant-articles-sdk-php](https://github.com/facebook/facebook-instant-articles-sdk-php) pushed_at:2020-10 The Facebook Instant Articles SDK for PHP provides a native interface for creating and publishing Instant Articles.
+- [facebook/facebook-instant-articles-sdk-php](https://github.com/facebook/facebook-instant-articles-sdk-php) pushed_at:2020-12 The Facebook Instant Articles SDK for PHP provides a native interface for creating and publishing Instant Articles.
 - [facebook/facebook-php-business-sdk](https://github.com/facebook/facebook-php-business-sdk) pushed_at:2020-12 An SDK built to facilitate application development for Facebook Ads API.
 
 ## Python
@@ -189,7 +189,7 @@
 - [facebook/chef-utils](https://github.com/facebook/chef-utils) pushed_at:2020-12 Utilities related to Chef
 - [facebook/facebook-ruby-business-sdk](https://github.com/facebook/facebook-ruby-business-sdk) pushed_at:2020-12 An SDK built to facilitate application development for Facebook Ads API using Ruby.
 - [facebook/grocery-delivery](https://github.com/facebook/grocery-delivery) pushed_at:2020-07 The Grocery Delivery utility for managing cookbook uploads to distributed Chef backends.
-- [facebook/homebrew-fb](https://github.com/facebook/homebrew-fb) pushed_at:2020-11 OS X Homebrew formulas to install Facebook open source software
+- [facebook/homebrew-fb](https://github.com/facebook/homebrew-fb) pushed_at:2020-12 OS X Homebrew formulas to install Facebook open source software
 - [facebook/IT-CPE](https://github.com/facebook/IT-CPE) pushed_at:2020-12 Facebook's IT - Client Platform Engineering tools. Some of the tools we have written to help manage our fleet of client systems. 
 - [facebook/Specs](https://github.com/facebook/Specs) pushed_at:2019-01 A repository of CocoaPods (cocoapods.org) specifications.
 - [facebook/taste-tester](https://github.com/facebook/taste-tester) pushed_at:2020-12 Software to manage a chef-zero instance and use it to test changes on production servers.

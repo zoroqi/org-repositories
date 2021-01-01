@@ -43,10 +43,10 @@
 ## C
 
 - [eclipse/kiso](https://github.com/eclipse/kiso) pushed_at:2020-09 Kiso Project
-- [eclipse/mosquitto](https://github.com/eclipse/mosquitto) pushed_at:2020-12 Eclipse Mosquitto - An open source MQTT broker
+- [eclipse/mosquitto](https://github.com/eclipse/mosquitto) pushed_at:2021-01 Eclipse Mosquitto - An open source MQTT broker
 - [eclipse/mosquitto.rsmb](https://github.com/eclipse/mosquitto.rsmb) pushed_at:2020-12 Mosquitto rsmb
 - [eclipse/mraa](https://github.com/eclipse/mraa) pushed_at:2020-12 Linux Library for low speed IO Communication in C with bindings for C++, Python, Node.js & Java. Supports generic io platforms, as well as Intel Edison, Intel Joule, Raspberry Pi and many more.
-- [eclipse/paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) pushed_at:2020-12 An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation at https://eclipse.github.io/paho.mqtt.c/
+- [eclipse/paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) pushed_at:2020-12 An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
 - [eclipse/paho.mqtt.embedded-c](https://github.com/eclipse/paho.mqtt.embedded-c) pushed_at:2020-12 Paho MQTT C client library for embedded systems.  Paho is an Eclipse IoT project (https://iot.eclipse.org/)
 - [eclipse/tcf.agent](https://github.com/eclipse/tcf.agent) pushed_at:2018-11 Target Communication Framework project repository (tcf.agent)
 - [eclipse/tinydtls](https://github.com/eclipse/tinydtls) pushed_at:2020-10 Eclipse tinydtls
@@ -269,7 +269,7 @@
 - [eclipse/e4.tools](https://github.com/eclipse/e4.tools) pushed_at:2018-11 e4 Project project repository (e4.tools)
 - [eclipse/eavp](https://github.com/eclipse/eavp) pushed_at:2019-03 Eclipse advanced visualization project
 - [eclipse/ecf](https://github.com/eclipse/ecf) pushed_at:2018-11 Eclipse Communication Framework (ECF) project repository (ecf)
-- [eclipse/eclemma](https://github.com/eclipse/eclemma) pushed_at:2020-12 EclEmma project repository
+- [eclipse/eclemma](https://github.com/eclipse/eclemma) pushed_at:2020-12 :waning_crescent_moon:　Java Code Coverage for Eclipse
 - [eclipse/eclipse-collections](https://github.com/eclipse/eclipse-collections) pushed_at:2020-12 Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.
 - [eclipse/eclipse-collections-kata](https://github.com/eclipse/eclipse-collections-kata) pushed_at:2020-12 Collections Kata
 - [eclipse/eclipse.jdt.core](https://github.com/eclipse/eclipse.jdt.core) pushed_at:2020-11 JDT/Core project repository (eclipse.jdt.core)
@@ -414,7 +414,7 @@
 - [eclipse/microprofile-health](https://github.com/eclipse/microprofile-health) pushed_at:2020-12 microprofile-health
 - [eclipse/microprofile-jwt-auth](https://github.com/eclipse/microprofile-jwt-auth) pushed_at:2020-12 
 - [eclipse/microprofile-lra](https://github.com/eclipse/microprofile-lra) pushed_at:2020-12 microprofile-lra
-- [eclipse/microprofile-metrics](https://github.com/eclipse/microprofile-metrics) pushed_at:2020-11 microprofile-metrics
+- [eclipse/microprofile-metrics](https://github.com/eclipse/microprofile-metrics) pushed_at:2020-12 microprofile-metrics
 - [eclipse/microprofile-open-api](https://github.com/eclipse/microprofile-open-api) pushed_at:2020-12 Microprofile open api
 - [eclipse/microprofile-opentracing](https://github.com/eclipse/microprofile-opentracing) pushed_at:2020-12 microprofile-opentracing
 - [eclipse/microprofile-reactive-messaging](https://github.com/eclipse/microprofile-reactive-messaging) pushed_at:2020-10 
@@ -757,8 +757,8 @@
 - [eclipse/che-che4z-explorer-for-endevor](https://github.com/eclipse/che-che4z-explorer-for-endevor) pushed_at:2020-12 
 - [eclipse/che-che4z-zos-resource-explorer](https://github.com/eclipse/che-che4z-zos-resource-explorer) pushed_at:2020-12 
 - [eclipse/che-dashboard](https://github.com/eclipse/che-dashboard) pushed_at:2020-12 
-- [eclipse/che-plugin-registry](https://github.com/eclipse/che-plugin-registry) pushed_at:2020-12 
-- [eclipse/che-theia](https://github.com/eclipse/che-theia) pushed_at:2020-12 
+- [eclipse/che-plugin-registry](https://github.com/eclipse/che-plugin-registry) pushed_at:2021-01 
+- [eclipse/che-theia](https://github.com/eclipse/che-theia) pushed_at:2021-01 
 - [eclipse/che-theia-activity-tracker](https://github.com/eclipse/che-theia-activity-tracker) pushed_at:2019-03 che-theia-activity-tracker
 - [eclipse/che-theia-dashboard-extension](https://github.com/eclipse/che-theia-dashboard-extension) pushed_at:2019-03 
 - [eclipse/che-theia-env-variables-plugin](https://github.com/eclipse/che-theia-env-variables-plugin) pushed_at:2018-05 
@@ -780,7 +780,7 @@
 - [eclipse/sprotty-layout](https://github.com/eclipse/sprotty-layout) pushed_at:2020-12 Client-side automatic layout for the Sprotty diagramming framework
 - [eclipse/sprotty-theia](https://github.com/eclipse/sprotty-theia) pushed_at:2020-12 Integration of Sprotty diagrams into Theia IDE
 - [eclipse/sprotty-vscode](https://github.com/eclipse/sprotty-vscode) pushed_at:2020-12 sprotty-vscode
-- [eclipse/theia-generator-plugin](https://github.com/eclipse/theia-generator-plugin) pushed_at:2020-09 
+- [eclipse/theia-generator-plugin](https://github.com/eclipse/theia-generator-plugin) pushed_at:2020-12 
 - [eclipse/theia-plugin-packager](https://github.com/eclipse/theia-plugin-packager) pushed_at:2020-12 
 - [eclipse/theia-yeoman-plugin](https://github.com/eclipse/theia-yeoman-plugin) pushed_at:2020-07 
 - [eclipse/thingweb.node-wot](https://github.com/eclipse/thingweb.node-wot) pushed_at:2020-12 thingweb.node-wot

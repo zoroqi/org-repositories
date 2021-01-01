@@ -32,7 +32,7 @@
 - [tensorflow/mlir-hlo](https://github.com/tensorflow/mlir-hlo) pushed_at:2020-12 
 - [tensorflow/networking](https://github.com/tensorflow/networking) pushed_at:2020-12 Enhanced networking support for TensorFlow. Maintained by SIG-networking.
 - [tensorflow/ngraph-bridge](https://github.com/tensorflow/ngraph-bridge) pushed_at:2020-12 TensorFlow-nGraph bridge
-- [tensorflow/serving](https://github.com/tensorflow/serving) pushed_at:2020-12 A flexible, high-performance serving system for machine learning models
+- [tensorflow/serving](https://github.com/tensorflow/serving) pushed_at:2021-01 A flexible, high-performance serving system for machine learning models
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) pushed_at:2020-12 An Open Source Machine Learning Framework for Everyone
 - [tensorflow/tensorstore](https://github.com/tensorflow/tensorstore) pushed_at:2019-04 
 - [tensorflow/tflite-support](https://github.com/tensorflow/tflite-support) pushed_at:2020-12 TFLite Support is a toolkit that helps users to develop ML and deploy TFLite models onto mobile / ioT devices.
@@ -52,7 +52,7 @@
 
 ## Java
 
-- [tensorflow/java](https://github.com/tensorflow/java) pushed_at:2020-12 Java bindings for TensorFlow
+- [tensorflow/java](https://github.com/tensorflow/java) pushed_at:2021-01 Java bindings for TensorFlow
 - [tensorflow/java-models](https://github.com/tensorflow/java-models) pushed_at:2020-11 Models in Java
 
 ## JavaScript
@@ -88,11 +88,11 @@
 
 ## Python
 
-- [tensorflow/addons](https://github.com/tensorflow/addons) pushed_at:2020-12 Useful extra functionality for TensorFlow 2.x maintained by SIG-addons
+- [tensorflow/addons](https://github.com/tensorflow/addons) pushed_at:2021-01 Useful extra functionality for TensorFlow 2.x maintained by SIG-addons
 - [tensorflow/agents](https://github.com/tensorflow/agents) pushed_at:2020-12 TF-Agents is a library for Reinforcement Learning in TensorFlow
 - [tensorflow/autograph](https://github.com/tensorflow/autograph) pushed_at:2020-05 
 - [tensorflow/benchmarks](https://github.com/tensorflow/benchmarks) pushed_at:2020-12  A benchmark framework for Tensorflow
-- [tensorflow/cloud](https://github.com/tensorflow/cloud) pushed_at:2020-12 The TensorFlow Cloud repository provides APIs that will allow to easily go from debugging and training your Keras and TensorFlow code in a local environment to distributed training in the cloud.
+- [tensorflow/cloud](https://github.com/tensorflow/cloud) pushed_at:2021-01 The TensorFlow Cloud repository provides APIs that will allow to easily go from debugging and training your Keras and TensorFlow code in a local environment to distributed training in the cloud.
 - [tensorflow/compression](https://github.com/tensorflow/compression) pushed_at:2020-12 Data compression in TensorFlow
 - [tensorflow/data-validation](https://github.com/tensorflow/data-validation) pushed_at:2020-12 Library for exploring and validating machine learning data
 - [tensorflow/datasets](https://github.com/tensorflow/datasets) pushed_at:2020-12 TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...

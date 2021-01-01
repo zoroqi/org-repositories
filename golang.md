@@ -24,7 +24,7 @@
 - [golang/dl](https://github.com/golang/dl) pushed_at:2020-12 [mirror] go get golang.org/dl/go1.N
 - [golang/example](https://github.com/golang/example) pushed_at:2020-07 Go example projects
 - [golang/exp](https://github.com/golang/exp) pushed_at:2020-12 [mirror] Experimental and deprecated packages
-- [golang/freetype](https://github.com/golang/freetype) pushed_at:2019-01 The Freetype font rasterizer in the Go programming language.
+- [golang/freetype](https://github.com/golang/freetype) pushed_at:2020-12 The Freetype font rasterizer in the Go programming language.
 - [golang/gddo](https://github.com/golang/gddo) pushed_at:2020-12 Go Doc Dot Org
 - [golang/geo](https://github.com/golang/geo) pushed_at:2020-07 S2 geometry library in Go
 - [golang/glog](https://github.com/golang/glog) pushed_at:2020-12 Leveled execution logs for Go

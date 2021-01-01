@@ -100,7 +100,7 @@
 
 ## HTML
 
-- [pingcap/pingcap.github.io](https://github.com/pingcap/pingcap.github.io) pushed_at:2020-12 PingCAP Website
+- [pingcap/pingcap.github.io](https://github.com/pingcap/pingcap.github.io) pushed_at:2021-01 PingCAP Website
 - [pingcap/sqlgram](https://github.com/pingcap/sqlgram) pushed_at:2020-05 TiDB SQL
 
 ## Java
@@ -122,7 +122,7 @@
 
 ## OCaml
 
-- [pingcap/cloud-assets-utils](https://github.com/pingcap/cloud-assets-utils) pushed_at:2020-08 Cloud assets utils by PingCAP FE.
+- [pingcap/cloud-assets-utils](https://github.com/pingcap/cloud-assets-utils) pushed_at:2020-12 Cloud assets utils by PingCAP FE.
 
 ## Others
 

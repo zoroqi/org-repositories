@@ -63,7 +63,7 @@
 - [rust-lang/rust-reach-www](https://github.com/rust-lang/rust-reach-www) pushed_at:2018-06 the website for the rust reach program
 - [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) pushed_at:2020-12 A guide to how rustc works and how to contribute to it.
 - [rust-lang/stdarch](https://github.com/rust-lang/stdarch) pushed_at:2020-12 Rust's standard library vendor-specific APIs and run-time feature detection
-- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) pushed_at:2020-12 Data for this-week-in-rust.org
+- [rust-lang/this-week-in-rust](https://github.com/rust-lang/this-week-in-rust) pushed_at:2021-01 Data for this-week-in-rust.org
 
 ## Handlebars
 
@@ -72,7 +72,7 @@
 ## JavaScript
 
 - [rust-lang/atom-ide-rust](https://github.com/rust-lang/atom-ide-rust) pushed_at:2020-10 Rust IDE support for Atom, powered by the Rust Language Server (RLS)
-- [rust-lang/rustc-pr-tracking](https://github.com/rust-lang/rustc-pr-tracking) pushed_at:2020-12 Statistics about PRs on the rustc repository.
+- [rust-lang/rustc-pr-tracking](https://github.com/rust-lang/rustc-pr-tracking) pushed_at:2021-01 Statistics about PRs on the rustc repository.
 
 ## Others
 
@@ -130,7 +130,7 @@
 - [rust-lang/highfive](https://github.com/rust-lang/highfive) pushed_at:2020-12 Github hooks to provide an encouraging atmosphere for new contributors
 - [rust-lang/homu](https://github.com/rust-lang/homu) pushed_at:2020-12 A bot that integrates with GitHub and your favorite continuous integration service
 - [rust-lang/pontoon](https://github.com/rust-lang/pontoon) pushed_at:2020-03 Localization platform used by Rust
-- [rust-lang/rust-enhanced](https://github.com/rust-lang/rust-enhanced) pushed_at:2020-11 The official Sublime Text 3 package for the Rust Programming Language
+- [rust-lang/rust-enhanced](https://github.com/rust-lang/rust-enhanced) pushed_at:2020-12 The official Sublime Text 3 package for the Rust Programming Language
 - [rust-lang/rust-memory-model](https://github.com/rust-lang/rust-memory-model) pushed_at:2019-06 Collecting examples and information to help design a memory model for Rust.
 - [rust-lang/zulip_archive](https://github.com/rust-lang/zulip_archive) pushed_at:2020-08 A tool for archiving and displaying Zulip chat channels.
 
@@ -141,16 +141,16 @@
 - [rust-lang/backtrace-rs](https://github.com/rust-lang/backtrace-rs) pushed_at:2020-12 Backtraces in Rust
 - [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) pushed_at:2020-12 The Rust Programming Language Blog
 - [rust-lang/book](https://github.com/rust-lang/book) pushed_at:2020-12 The Rust Programming Language
-- [rust-lang/cargo](https://github.com/rust-lang/cargo) pushed_at:2020-12 The Rust package manager
-- [rust-lang/cargo-bisect-rustc](https://github.com/rust-lang/cargo-bisect-rustc) pushed_at:2020-11 Bisects rustc, either nightlies or CI artifacts
+- [rust-lang/cargo](https://github.com/rust-lang/cargo) pushed_at:2021-01 The Rust package manager
+- [rust-lang/cargo-bisect-rustc](https://github.com/rust-lang/cargo-bisect-rustc) pushed_at:2020-12 Bisects rustc, either nightlies or CI artifacts
 - [rust-lang/chalk](https://github.com/rust-lang/chalk) pushed_at:2020-12 An implementation and definition of the Rust trait system using a PROLOG-like logic solver
 - [rust-lang/compiler-builtins](https://github.com/rust-lang/compiler-builtins) pushed_at:2020-12 Porting `compiler-rt` intrinsics to Rust
 - [rust-lang/crater](https://github.com/rust-lang/crater) pushed_at:2020-11 Run experiments across parts of the Rust ecosystem!
 - [rust-lang/crates-io-ops-bot](https://github.com/rust-lang/crates-io-ops-bot) pushed_at:2020-07 a bot to help assist the crates.io, website, and other rust ops teams
 - [rust-lang/crates.io](https://github.com/rust-lang/crates.io) pushed_at:2020-12 Source code for crates.io
-- [rust-lang/datafrog](https://github.com/rust-lang/datafrog) pushed_at:2020-03 A lightweight Datalog engine in Rust
+- [rust-lang/datafrog](https://github.com/rust-lang/datafrog) pushed_at:2020-12 A lightweight Datalog engine in Rust
 - [rust-lang/discord-mods-bot](https://github.com/rust-lang/discord-mods-bot) pushed_at:2020-12 discord moderation bot
-- [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) pushed_at:2020-12 crates.io documentation generator
+- [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) pushed_at:2021-01 crates.io documentation generator
 - [rust-lang/ena](https://github.com/rust-lang/ena) pushed_at:2020-11 An implementation of union-find / congruence-closure in Rust. Extracted from rustc for independent experimentation.
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) pushed_at:2020-12 Zero-cost asynchronous programming in Rust
 - [rust-lang/generate-manifest-list](https://github.com/rust-lang/generate-manifest-list) pushed_at:2019-09 Creates a list of manifests on static.rust-lang.org
@@ -159,7 +159,7 @@
 - [rust-lang/glacier](https://github.com/rust-lang/glacier) pushed_at:2020-12 A big 'ol pile of ICE.
 - [rust-lang/gll](https://github.com/rust-lang/gll) pushed_at:2020-09 GLL parsing framework.
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) pushed_at:2020-12 Rust port of Google's SwissTable hash map
-- [rust-lang/libc](https://github.com/rust-lang/libc) pushed_at:2020-12 Raw bindings to platform APIs for Rust
+- [rust-lang/libc](https://github.com/rust-lang/libc) pushed_at:2021-01 Raw bindings to platform APIs for Rust
 - [rust-lang/libm](https://github.com/rust-lang/libm) pushed_at:2020-06 A port of MUSL's libm to Rust.
 - [rust-lang/libs-team](https://github.com/rust-lang/libs-team) pushed_at:2020-12 The home of the library team
 - [rust-lang/libtest](https://github.com/rust-lang/libtest) pushed_at:2019-07 Rust's built-in testing and benchmarking framework
@@ -180,20 +180,20 @@
 - [rust-lang/relnotes](https://github.com/rust-lang/relnotes) pushed_at:2020-12 Generate release notes for "The Rust Programming Language"
 - [rust-lang/rfcbot-rs](https://github.com/rust-lang/rfcbot-rs) pushed_at:2020-08 Coordinates asynchronous decision making on Rust repositories. Status of tracked issues and PRs can be viewed at https://rfcbot.rs.
 - [rust-lang/rls](https://github.com/rust-lang/rls) pushed_at:2020-12 Repository for the Rust Language Server (aka RLS)
-- [rust-lang/rust](https://github.com/rust-lang/rust) pushed_at:2020-12 Empowering everyone to build reliable and efficient software.
+- [rust-lang/rust](https://github.com/rust-lang/rust) pushed_at:2021-01 Empowering everyone to build reliable and efficient software.
 - [rust-lang/rust-central-station](https://github.com/rust-lang/rust-central-station) pushed_at:2020-11 Old home of some infra pieces
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) pushed_at:2020-12 A bunch of lints to catch common mistakes and improve your Rust code
 - [rust-lang/rust-forge](https://github.com/rust-lang/rust-forge) pushed_at:2020-12 Information useful to people contributing to Rust
 - [rust-lang/rust-gha](https://github.com/rust-lang/rust-gha) pushed_at:2020-09 GitHub Actions tests for rust-lang/rust
 - [rust-lang/rust-log-analyzer](https://github.com/rust-lang/rust-log-analyzer) pushed_at:2020-12 Analyzing Travis and Azure Pipelines logs to find encountered errors
 - [rust-lang/rust-playpen](https://github.com/rust-lang/rust-playpen) pushed_at:2017-10 A web interface for running Rust code
-- [rust-lang/rust-repos](https://github.com/rust-lang/rust-repos) pushed_at:2020-12 Dataset of Rust source code repositories
+- [rust-lang/rust-repos](https://github.com/rust-lang/rust-repos) pushed_at:2021-01 Dataset of Rust source code repositories
 - [rust-lang/rust-semverver](https://github.com/rust-lang/rust-semverver) pushed_at:2020-11 Automatic checking for semantic versioning in library crates
 - [rust-lang/rustc-hash](https://github.com/rust-lang/rustc-hash) pushed_at:2020-11 Custom hash algorithm used by rustc (plus hashmap/set aliases): fast, deterministic, not secure
 - [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf) pushed_at:2020-12 Website for graphing performance of rustc
 - [rust-lang/rustc-rayon](https://github.com/rust-lang/rustc-rayon) pushed_at:2020-03 Rayon: A data parallelism library for Rust
 - [rust-lang/rustfix](https://github.com/rust-lang/rustfix) pushed_at:2020-12 Automatically apply the suggestions made by rustc
-- [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) pushed_at:2020-12 Format Rust code
+- [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) pushed_at:2021-01 Format Rust code
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) pushed_at:2020-12 :crab: Small exercises to get you used to reading and writing Rust code!
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) pushed_at:2020-12 The Rust toolchain installer
 - [rust-lang/rustup-components-history](https://github.com/rust-lang/rustup-components-history) pushed_at:2020-12 Rustup package status history
@@ -203,14 +203,14 @@
 - [rust-lang/stdsimd](https://github.com/rust-lang/stdsimd) pushed_at:2020-12 The testing ground for the future of portable SIMD in Rust
 - [rust-lang/sync-team](https://github.com/rust-lang/sync-team) pushed_at:2020-06 Synchronize the team repository with the services we use
 - [rust-lang/team](https://github.com/rust-lang/team) pushed_at:2020-12 Rust teams structure
-- [rust-lang/thanks](https://github.com/rust-lang/thanks) pushed_at:2020-12 Celebrate Rust contributors.
+- [rust-lang/thanks](https://github.com/rust-lang/thanks) pushed_at:2021-01 Celebrate Rust contributors.
 - [rust-lang/triagebot](https://github.com/rust-lang/triagebot) pushed_at:2020-12 Triage Bot
 - [rust-lang/wg-grammar](https://github.com/rust-lang/wg-grammar) pushed_at:2020-03 Where the work of WG-grammar, aiming to provide a canonical grammar for Rust, resides
 
 ## Shell
 
 - [rust-lang/async-book](https://github.com/rust-lang/async-book) pushed_at:2020-12 Asynchronous Programming in Rust
-- [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) pushed_at:2020-12 Registry index for crates.io
+- [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) pushed_at:2021-01 Registry index for crates.io
 - [rust-lang/rfcs](https://github.com/rust-lang/rfcs) pushed_at:2020-12 RFCs for changes to Rust
 - [rust-lang/rust-installer](https://github.com/rust-lang/rust-installer) pushed_at:2020-12 The Bourne shell installer used by Rust and Cargo
 - [rust-lang/wg-security-response](https://github.com/rust-lang/wg-security-response) pushed_at:2020-07 Documentation for the Rust Security Response WG

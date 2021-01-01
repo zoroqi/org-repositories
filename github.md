@@ -125,7 +125,7 @@
 
 ## HTML
 
-- [github/actions-cheat-sheet](https://github.com/github/actions-cheat-sheet) pushed_at:2020-09 A cheat sheet for GitHub Actions
+- [github/actions-cheat-sheet](https://github.com/github/actions-cheat-sheet) pushed_at:2020-12 A cheat sheet for GitHub Actions
 - [github/government.github.com](https://github.com/github/government.github.com) pushed_at:2020-12 Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations
 - [github/OAuth-Ruby-Quickstart](https://github.com/github/OAuth-Ruby-Quickstart) pushed_at:2019-01 Starter code and quickstart guide for a GitHub OAuth App in Ruby
 - [github/personal-website](https://github.com/github/personal-website) pushed_at:2020-12 Code that'll help you kickstart a personal website that showcases your work as a software developer.
@@ -234,7 +234,7 @@
 ## Jupyter Notebook
 
 - [github/CodeSearchNet](https://github.com/github/CodeSearchNet) pushed_at:2020-09 Datasets, tools, and benchmarks for representation learning of code.
-- [github/covid19-dashboard](https://github.com/github/covid19-dashboard) pushed_at:2020-12 A site that displays up to date COVID-19 stats, powered by fastpages.
+- [github/covid19-dashboard](https://github.com/github/covid19-dashboard) pushed_at:2021-01 A site that displays up to date COVID-19 stats, powered by fastpages.
 
 ## Objective-C
 
@@ -373,7 +373,7 @@
 - [github/lightstep-tracer-ruby](https://github.com/github/lightstep-tracer-ruby) pushed_at:2020-11 The LightStep distributed tracing library for Ruby
 - [github/linguist](https://github.com/github/linguist) pushed_at:2020-12 Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [github/marginalia](https://github.com/github/marginalia) pushed_at:2013-10 Attach comments to ActiveRecord's SQL queries
-- [github/markup](https://github.com/github/markup) pushed_at:2020-11 Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [github/markup](https://github.com/github/markup) pushed_at:2020-12 Determines which markup library to use to render a content file (e.g. README) on GitHub
 - [github/mime-types](https://github.com/github/mime-types) pushed_at:2016-05 Ruby MIME::Types implementation
 - [github/nugget](https://github.com/github/nugget) pushed_at:2018-01 http integration test service
 - [github/octobox](https://github.com/github/octobox) pushed_at:2020-12 📮Untangle your GitHub Notifications

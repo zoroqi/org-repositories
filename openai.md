@@ -34,8 +34,8 @@
 ## C++
 
 - [openai/atari-py](https://github.com/openai/atari-py) pushed_at:2020-09 A packaged and slightly-modified version of https://github.com/bbitmaster/ale_python_interface
-- [openai/box2d-py](https://github.com/openai/box2d-py) pushed_at:2019-10 
-- [openai/coinrun](https://github.com/openai/coinrun) pushed_at:2019-08 Code for the paper "Quantifying Transfer in Reinforcement Learning"
+- [openai/box2d-py](https://github.com/openai/box2d-py) pushed_at:2020-12 
+- [openai/coinrun](https://github.com/openai/coinrun) pushed_at:2020-12 Code for the paper "Quantifying Transfer in Reinforcement Learning"
 - [openai/doom-py](https://github.com/openai/doom-py) pushed_at:2019-10 ViZDoom Python wrapper
 - [openai/nccl](https://github.com/openai/nccl) pushed_at:2019-04 Optimized primitives for collective multi-GPU communication
 - [openai/procgen](https://github.com/openai/procgen) pushed_at:2020-12 Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
@@ -48,7 +48,7 @@
 
 ## Cuda
 
-- [openai/blocksparse](https://github.com/openai/blocksparse) pushed_at:2020-09 Efficient GPU kernels for block-sparse matrix multiplication and convolution
+- [openai/blocksparse](https://github.com/openai/blocksparse) pushed_at:2020-12 Efficient GPU kernels for block-sparse matrix multiplication and convolution
 
 ## Go
 

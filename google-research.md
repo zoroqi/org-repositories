@@ -13,8 +13,8 @@
 - [Java](#java) (1)
 - [Julia](#julia) (1)
 - [Jupyter Notebook](#jupyter-notebook) (15)
-- [Others](#others) (8)
-- [Python](#python) (82)
+- [Others](#others) (7)
+- [Python](#python) (83)
 - [Shell](#shell) (1)
 - [Swift](#swift) (1)
 - [TeX](#tex) (1)
@@ -23,7 +23,7 @@
 ## C++
 
 - [google-research/math-opt-benchmark](https://github.com/google-research/math-opt-benchmark) pushed_at:2020-11 
-- [google-research/mozolm](https://github.com/google-research/mozolm) pushed_at:2020-11 MozoLM: A language model (LM) serving library
+- [google-research/mozolm](https://github.com/google-research/mozolm) pushed_at:2020-12 MozoLM: A language model (LM) serving library
 - [google-research/sputnik](https://github.com/google-research/sputnik) pushed_at:2020-11 A library of GPU kernels for sparse matrix operations.
 - [google-research/structured-additive-IR](https://github.com/google-research/structured-additive-IR) pushed_at:2020-12 
 - [google-research/tf-opt](https://github.com/google-research/tf-opt) pushed_at:2020-11 
@@ -76,7 +76,6 @@
 - [google-research/perceptual-quality](https://github.com/google-research/perceptual-quality) pushed_at:2020-12 
 - [google-research/reassessed-imagenet](https://github.com/google-research/reassessed-imagenet) pushed_at:2020-08 Labels and other data for the paper "Are we done with ImageNet?"
 - [google-research/robel-scenes](https://github.com/google-research/robel-scenes) pushed_at:2020-07 Shared MuJoCo simulation scenes and assets for ROBEL environments.
-- [google-research/ruse](https://github.com/google-research/ruse) pushed_at:2020-12 
 - [google-research/searcho](https://github.com/google-research/searcho) pushed_at:2020-02 
 
 ## Python
@@ -140,6 +139,7 @@
 - [google-research/rl-reliability-metrics](https://github.com/google-research/rl-reliability-metrics) pushed_at:2020-08 The RL Reliability Metrics library provides a set of metrics for measuring the reliability of reinforcement learning (RL) algorithms, as well as statistical tools for comparing algorithms and for computing confidence intervals on these metrics.
 - [google-research/robel](https://github.com/google-research/robel) pushed_at:2020-11 ROBEL: Robotics Benchmarks for Learning with low-cost robots
 - [google-research/robustness_metrics](https://github.com/google-research/robustness_metrics) pushed_at:2020-12 
+- [google-research/ruse](https://github.com/google-research/ruse) pushed_at:2020-12 
 - [google-research/s4l](https://github.com/google-research/s4l) pushed_at:2019-11 Tensorflow implementation of S4L: Self-Supervised Semi-Supervised Learning
 - [google-research/sam](https://github.com/google-research/sam) pushed_at:2020-12 
 - [google-research/schema-guided-dialogue](https://github.com/google-research/schema-guided-dialogue) pushed_at:2020-12 
@@ -170,7 +170,7 @@
 
 ## Swift
 
-- [google-research/swift-tfp](https://github.com/google-research/swift-tfp) pushed_at:2019-10 Find shape errors before you run your code!
+- [google-research/swift-tfp](https://github.com/google-research/swift-tfp) pushed_at:2020-12 Find shape errors before you run your code!
 
 ## TeX
 
