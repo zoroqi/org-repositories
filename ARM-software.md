@@ -6,7 +6,7 @@
 
 ## Contents(112)
 
-- [C](#c) (42)
+- [C](#c) (41)
 - [C++](#c++) (26)
 - [CSS](#css) (2)
 - [Dockerfile](#dockerfile) (1)
@@ -16,7 +16,7 @@
 - [Java](#java) (1)
 - [Jupyter Notebook](#jupyter-notebook) (3)
 - [OCaml](#ocaml) (1)
-- [Objective-C](#objective-c) (1)
+- [Objective-C](#objective-c) (2)
 - [Others](#others) (11)
 - [Perl](#perl) (1)
 - [PostScript](#postscript) (1)
@@ -37,7 +37,7 @@
 - [ARM-software/CMSIS-mbedTLS](https://github.com/ARM-software/CMSIS-mbedTLS) pushed_at:2020-04 CMSIS Pack for the mbedTLS software stack
 - [ARM-software/CMSIS-Musca-S1](https://github.com/ARM-software/CMSIS-Musca-S1) pushed_at:2020-08 Repository of CMSIS Software Pack for Musca-S1 test-chip and board.
 - [ARM-software/CMSIS-TFM](https://github.com/ARM-software/CMSIS-TFM) pushed_at:2020-06 Downstream Repository of CMSIS Software Packs for Trusted Firmware-M (TF-M).
-- [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) pushed_at:2020-12 CMSIS Version 5 Development Repository
+- [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) pushed_at:2021-01 CMSIS Version 5 Development Repository
 - [ARM-software/CPA](https://github.com/ARM-software/CPA) pushed_at:2017-11 Contiguous page allocator project
 - [ARM-software/cryptocell-312-runtime](https://github.com/ARM-software/cryptocell-312-runtime) pushed_at:2020-07 CryptoCell 312 runtime code
 - [ARM-software/Cryptocell-703-TEE-Lib](https://github.com/ARM-software/Cryptocell-703-TEE-Lib) pushed_at:2020-09 Cryptocell 713/703 TEE Lib
@@ -49,23 +49,22 @@
 - [ARM-software/linux](https://github.com/ARM-software/linux) pushed_at:2020-02 
 - [ARM-software/m0n0-library-and-examples](https://github.com/ARM-software/m0n0-library-and-examples) pushed_at:2020-04 
 - [ARM-software/mbed-beetle](https://github.com/ARM-software/mbed-beetle) pushed_at:2016-06 mbed libraries and tools (Classic). For mbed OS, look here: https://www.mbed.com/en/development/software/mbed-os/
-- [ARM-software/MCU-demo-for-AVS](https://github.com/ARM-software/MCU-demo-for-AVS) pushed_at:2020-12 Example implementation of the Alexa Voice Service Integration for AWS IoT Core for Arm Cortex-M series processors.
+- [ARM-software/MCU-demo-for-AVS](https://github.com/ARM-software/MCU-demo-for-AVS) pushed_at:2021-01 Example implementation of the Alexa Voice Service Integration for AWS IoT Core for Arm Cortex-M series processors.
 - [ARM-software/meabo](https://github.com/ARM-software/meabo) pushed_at:2018-04 Multi-purpose multi-phase micro-benchmark
 - [ARM-software/ML-KWS-for-MCU](https://github.com/ARM-software/ML-KWS-for-MCU) pushed_at:2019-04 Keyword spotting on Arm Cortex-M Microcontrollers
 - [ARM-software/NXP_LPC](https://github.com/ARM-software/NXP_LPC) pushed_at:2016-03 CMSIS Driver Implementations for the NXP LPC Microcontroller Series
-- [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) pushed_at:2020-12 Optimized implementations of various library functions for ARM architecture processors
+- [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) pushed_at:2021-01 Optimized implementations of various library functions for ARM architecture processors
 - [ARM-software/perf-libs-tools](https://github.com/ARM-software/perf-libs-tools) pushed_at:2020-08 
 - [ARM-software/progress64](https://github.com/ARM-software/progress64) pushed_at:2020-10 PROGRESS64 is a C library of scalable functions for concurrent programs, primarily focused on networking applications.
-- [ARM-software/psa-arch-tests](https://github.com/ARM-software/psa-arch-tests) pushed_at:2020-12 Tests for verifying implementations of TBSA-v8M and the PSA Developer APIs
+- [ARM-software/psa-arch-tests](https://github.com/ARM-software/psa-arch-tests) pushed_at:2021-01 Tests for verifying implementations of TBSA-v8M and the PSA Developer APIs
 - [ARM-software/rasc-devkit](https://github.com/ARM-software/rasc-devkit) pushed_at:2020-06 
 - [ARM-software/revere-demo](https://github.com/ARM-software/revere-demo) pushed_at:2020-09 Example program demonstrating the use of the Revere-AMU System Architecture from userspace, with VFIO
 - [ARM-software/sbsa-acs](https://github.com/ARM-software/sbsa-acs) pushed_at:2020-12 ARM Enterprise: SBSA Architecture Compliance Suite
 - [ARM-software/scmi-tests](https://github.com/ARM-software/scmi-tests) pushed_at:2020-12 Test suite for SCMI PDD
-- [ARM-software/SCP-firmware](https://github.com/ARM-software/SCP-firmware) pushed_at:2020-12 System Control Processor (SCP) firmware
+- [ARM-software/SCP-firmware](https://github.com/ARM-software/SCP-firmware) pushed_at:2021-01 System Control Processor (SCP) firmware
 - [ARM-software/server-data-plane](https://github.com/ARM-software/server-data-plane) pushed_at:2017-05 Modified OpenDataPlane APIs for general purpose server applications with example applications.
 - [ARM-software/Shackleton-Framework](https://github.com/ARM-software/Shackleton-Framework) pushed_at:2019-08 A generic genetic programming framework that aims to make genetic programming easier for a myriad of uses. Currently, the main target is to use the framework for code optimization in tandem with the LLVM framework.
 - [ARM-software/synchronization-benchmarks](https://github.com/ARM-software/synchronization-benchmarks) pushed_at:2020-12 Collection of synchronization micro-benchmarks and traces from infrastructure applications
-- [ARM-software/Tool-Solutions](https://github.com/ARM-software/Tool-Solutions) pushed_at:2020-12 Tutorials & examples for Arm software development tools.
 - [ARM-software/TZ-TRNG](https://github.com/ARM-software/TZ-TRNG) pushed_at:2020-10 TrustZone True Number Generator
 - [ARM-software/u-boot](https://github.com/ARM-software/u-boot) pushed_at:2020-06 Clone of upstream U-Boot repo with patches for Arm development boards
 - [ARM-software/vulkan-sdk](https://github.com/ARM-software/vulkan-sdk) pushed_at:2020-10 Github repository for the Vulkan SDK
@@ -73,9 +72,9 @@
 ## C++
 
 - [ARM-software/android-nn-driver](https://github.com/ARM-software/android-nn-driver) pushed_at:2020-11 
-- [ARM-software/armnn](https://github.com/ARM-software/armnn) pushed_at:2020-12 Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
+- [ARM-software/armnn](https://github.com/ARM-software/armnn) pushed_at:2021-01 Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
 - [ARM-software/armnn-mlperf](https://github.com/ARM-software/armnn-mlperf) pushed_at:2020-09 Arm mlperf.org benchmark port
-- [ARM-software/astc-encoder](https://github.com/ARM-software/astc-encoder) pushed_at:2020-12 This is the official repository for the Arm ASTC Encoder, a texture compressor for the Adaptive Scalable Texture Compression data format.
+- [ARM-software/astc-encoder](https://github.com/ARM-software/astc-encoder) pushed_at:2021-01 This is the official repository for the Arm ASTC Encoder, a texture compressor for the Adaptive Scalable Texture Compression data format.
 - [ARM-software/ATP-Engine](https://github.com/ARM-software/ATP-Engine) pushed_at:2020-08 
 - [ARM-software/BarrierPoint](https://github.com/ARM-software/BarrierPoint) pushed_at:2020-05 
 - [ARM-software/caiman](https://github.com/ARM-software/caiman) pushed_at:2020-11 Sources for Arm Streamline's caiman daemon
@@ -114,7 +113,7 @@
 
 ## Go
 
-- [ARM-software/bob-build](https://github.com/ARM-software/bob-build) pushed_at:2020-12 Meta-build system using Blueprint and ninja
+- [ARM-software/bob-build](https://github.com/ARM-software/bob-build) pushed_at:2021-01 Meta-build system using Blueprint and ninja
 
 ## HTML
 
@@ -126,8 +125,8 @@
 
 ## Jupyter Notebook
 
-- [ARM-software/developer](https://github.com/ARM-software/developer) pushed_at:2020-12 GTM related documentation
-- [ARM-software/lisa](https://github.com/ARM-software/lisa) pushed_at:2020-12 Linux Integrated System Analysis
+- [ARM-software/developer](https://github.com/ARM-software/developer) pushed_at:2021-01 GTM related documentation
+- [ARM-software/lisa](https://github.com/ARM-software/lisa) pushed_at:2021-01 Linux Integrated System Analysis
 - [ARM-software/mango](https://github.com/ARM-software/mango) pushed_at:2020-12 Parallel Hyperparameter Optimization in Python
 
 ## OCaml
@@ -137,6 +136,7 @@
 ## Objective-C
 
 - [ARM-software/speculation-barrier](https://github.com/ARM-software/speculation-barrier) pushed_at:2018-05 This project provides a header file which contains wrapper macros for the __builtin_load_no_speculate builtin function defined at https://www.arm.com/security-update This builtin function defines a speculation barrier, which can be used to limit the conditions under which a value which has been loaded can be used under speculative execution.
+- [ARM-software/Tool-Solutions](https://github.com/ARM-software/Tool-Solutions) pushed_at:2021-01 Tutorials & examples for Arm software development tools.
 
 ## Others
 
@@ -167,7 +167,7 @@
 - [ARM-software/core-benchmarks](https://github.com/ARM-software/core-benchmarks) pushed_at:2020-12 
 - [ARM-software/daq-server](https://github.com/ARM-software/daq-server) pushed_at:2019-11 Server for remote access to National Instruments DAQ devices
 - [ARM-software/devlib](https://github.com/ARM-software/devlib) pushed_at:2020-12 Library for interaction with and instrumentation of remote devices.
-- [ARM-software/SCALE-Sim](https://github.com/ARM-software/SCALE-Sim) pushed_at:2020-08 
+- [ARM-software/SCALE-Sim](https://github.com/ARM-software/SCALE-Sim) pushed_at:2021-01 
 - [ARM-software/scalpel](https://github.com/ARM-software/scalpel) pushed_at:2018-11 This is a PyTorch implementation of the Scalpel. Node pruning for five benchmark networks and SIMD-aware weight pruning for LeNet-300-100 and LeNet-5 is included.
 - [ARM-software/trappy](https://github.com/ARM-software/trappy) pushed_at:2020-05 Trace Analysis And Plotting in PYthon
 - [ARM-software/tspfnbeats](https://github.com/ARM-software/tspfnbeats) pushed_at:2020-10 

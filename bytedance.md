@@ -15,10 +15,10 @@
 - [Java](#java) (12)
 - [JavaScript](#javascript) (7)
 - [Jupyter Notebook](#jupyter-notebook) (1)
-- [Objective-C](#objective-c) (4)
+- [Objective-C](#objective-c) (3)
 - [Others](#others) (13)
 - [Python](#python) (9)
-- [Ruby](#ruby) (1)
+- [Ruby](#ruby) (2)
 - [Rust](#rust) (1)
 - [Swift](#swift) (1)
 - [TypeScript](#typescript) (7)
@@ -26,12 +26,12 @@
 ## C
 
 - [bytedance/atop](https://github.com/bytedance/atop) pushed_at:2020-12 System and process monitor for Linux
-- [bytedance/ByteDance-HIDS](https://github.com/bytedance/ByteDance-HIDS) pushed_at:2020-12 ByteDance-HIDS is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture.
+- [bytedance/ByteDance-HIDS](https://github.com/bytedance/ByteDance-HIDS) pushed_at:2021-01 ByteDance-HIDS is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture.
 - [bytedance/kvm-utils](https://github.com/bytedance/kvm-utils) pushed_at:2020-04 
 - [bytedance/libiscsi](https://github.com/bytedance/libiscsi) pushed_at:2020-11 iscsi client library and utilities
 - [bytedance/ovs-dpdk](https://github.com/bytedance/ovs-dpdk) pushed_at:2020-12 This is a fork of Open vSwitch, we focus DPDK based Open vSwitch
 - [bytedance/redis](https://github.com/bytedance/redis) pushed_at:2020-10 Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
-- [bytedance/tailor](https://github.com/bytedance/tailor) pushed_at:2020-12 
+- [bytedance/tailor](https://github.com/bytedance/tailor) pushed_at:2021-01 
 - [bytedance/trace-irqoff](https://github.com/bytedance/trace-irqoff) pushed_at:2020-12 Interrupts-off or softirqs-off latency tracer
 - [bytedance/trace-noschedule](https://github.com/bytedance/trace-noschedule) pushed_at:2020-11 Trace noschedule thread
 - [bytedance/trace-runqlat](https://github.com/bytedance/trace-runqlat) pushed_at:2020-11 
@@ -44,9 +44,9 @@
 - [bytedance/incubator-mxnet](https://github.com/bytedance/incubator-mxnet) pushed_at:2019-11 Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [bytedance/ps-lite](https://github.com/bytedance/ps-lite) pushed_at:2021-01 A lightweight parameter server interface
 - [bytedance/tensorflow](https://github.com/bytedance/tensorflow) pushed_at:2020-12 An Open Source Machine Learning Framework for Everyone
-- [bytedance/terark-zip](https://github.com/bytedance/terark-zip) pushed_at:2020-12 A data structure and algorithm library built for TerarkDB
-- [bytedance/terarkdb](https://github.com/bytedance/terarkdb) pushed_at:2020-12 A RocksDB compatible KV storage engine with better performance
-- [bytedance/triton-inference-server](https://github.com/bytedance/triton-inference-server) pushed_at:2020-12 The Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs. 
+- [bytedance/terark-zip](https://github.com/bytedance/terark-zip) pushed_at:2021-01 A data structure and algorithm library built for TerarkDB
+- [bytedance/terarkdb](https://github.com/bytedance/terarkdb) pushed_at:2021-01 A RocksDB compatible KV storage engine with better performance
+- [bytedance/triton-inference-server](https://github.com/bytedance/triton-inference-server) pushed_at:2021-01 The Triton Inference Server provides a cloud inferencing solution optimized for NVIDIA GPUs. 
 
 ## Cuda
 
@@ -57,9 +57,9 @@
 - [bytedance/flutterdoc](https://github.com/bytedance/flutterdoc) pushed_at:2019-11 Generate gallery for your Flutter widgets with one command
 - [bytedance/marquee_text](https://github.com/bytedance/marquee_text) pushed_at:2019-11 
 - [bytedance/pull_to_refresh](https://github.com/bytedance/pull_to_refresh) pushed_at:2020-05 Flutter pull_to_refresh widget
-- [bytedance/rangers_applog_flutter_plugin](https://github.com/bytedance/rangers_applog_flutter_plugin) pushed_at:2020-12 flutter plugin for RangersAppLog.
+- [bytedance/rangers_applog_flutter_plugin](https://github.com/bytedance/rangers_applog_flutter_plugin) pushed_at:2021-01 flutter plugin for RangersAppLog.
 - [bytedance/RealRichText](https://github.com/bytedance/RealRichText) pushed_at:2019-07  A Tricky Solution for Implementing Inline-Image-In-Text Feature in Flutter.
-- [bytedance/unpub](https://github.com/bytedance/unpub) pushed_at:2020-12 Self-hosted private Dart Pub server for Enterprise
+- [bytedance/unpub](https://github.com/bytedance/unpub) pushed_at:2021-01 Self-hosted private Dart Pub server for Enterprise
 
 ## Go
 
@@ -108,9 +108,8 @@
 ## Objective-C
 
 - [bytedance/AWERTL](https://github.com/bytedance/AWERTL) pushed_at:2019-10 An non-invasive iOS framework for quickly adapting Right-To-Left style UI
-- [bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD) pushed_at:2020-12 
-- [bytedance/RangersAppLog](https://github.com/bytedance/RangersAppLog) pushed_at:2020-12 Bytedance AppLog SDK
-- [bytedance/tiktok-business-ios-sdk](https://github.com/bytedance/tiktok-business-ios-sdk) pushed_at:2020-12 
+- [bytedance/RangersAppLog](https://github.com/bytedance/RangersAppLog) pushed_at:2021-01 Bytedance AppLog SDK
+- [bytedance/tiktok-business-ios-sdk](https://github.com/bytedance/tiktok-business-ios-sdk) pushed_at:2021-01 
 
 ## Others
 
@@ -119,7 +118,7 @@
 - [bytedance/bifrost](https://github.com/bytedance/bifrost) pushed_at:2020-12 
 - [bytedance/Fastbot_Android](https://github.com/bytedance/Fastbot_Android) pushed_at:2020-12 Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems
 - [bytedance/fedlearner_models](https://github.com/bytedance/fedlearner_models) pushed_at:2020-02 Public models for FedLearner
-- [bytedance/Garfish](https://github.com/bytedance/Garfish) pushed_at:2020-12 
+- [bytedance/garfish](https://github.com/bytedance/garfish) pushed_at:2020-12 
 - [bytedance/go-snappy](https://github.com/bytedance/go-snappy) pushed_at:2019-02 a fork of go-snappy
 - [bytedance/http-proxy-middleware](https://github.com/bytedance/http-proxy-middleware) pushed_at:2019-09 :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
 - [bytedance/libvirt](https://github.com/bytedance/libvirt) pushed_at:2020-04 Read-only mirror. Please submit merge requests / issues to https://gitlab.com/libvirt/libvirt
@@ -133,7 +132,7 @@
 - [bytedance/byteps](https://github.com/bytedance/byteps) pushed_at:2020-12 A high performance and generic framework for distributed DNN training
 - [bytedance/estimator](https://github.com/bytedance/estimator) pushed_at:2019-07 TensorFlow Estimator
 - [bytedance/fairseq](https://github.com/bytedance/fairseq) pushed_at:2019-06 Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-- [bytedance/fedlearner](https://github.com/bytedance/fedlearner) pushed_at:2020-12 A multi-party collaborative machine learning framework
+- [bytedance/fedlearner](https://github.com/bytedance/fedlearner) pushed_at:2021-01 A multi-party collaborative machine learning framework
 - [bytedance/GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) pushed_at:2020-10 
 - [bytedance/mega-ai](https://github.com/bytedance/mega-ai) pushed_at:2020-09 Encapsulate tensorflow and other deep frameworks, support feature evaluation and model evaluation methods
 - [bytedance/mega-spark](https://github.com/bytedance/mega-spark) pushed_at:2020-09 Spark is encapsulated as a mega interface to call pandas methods
@@ -142,7 +141,8 @@
 
 ## Ruby
 
-- [bytedance/cocoapods_sdk_source_repo](https://github.com/bytedance/cocoapods_sdk_source_repo) pushed_at:2020-12 
+- [bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD) pushed_at:2021-01 
+- [bytedance/cocoapods_sdk_source_repo](https://github.com/bytedance/cocoapods_sdk_source_repo) pushed_at:2021-01 
 
 ## Rust
 
@@ -158,7 +158,7 @@
 - [bytedance/debugtron](https://github.com/bytedance/debugtron) pushed_at:2020-10 Debug in-production Electron based app
 - [bytedance/fe-foundation](https://github.com/bytedance/fe-foundation) pushed_at:2020-11 UI Foundation for React Hooks and Vue Composition Api 
 - [bytedance/graphyne](https://github.com/bytedance/graphyne) pushed_at:2019-03 
-- [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2020-12 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+- [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-01 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) pushed_at:2020-12 Micro frontends made easy.😘
 - [bytedance/react-model](https://github.com/bytedance/react-model) pushed_at:2020-05 The next generation state management library for React
 

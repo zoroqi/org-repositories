@@ -27,7 +27,7 @@
 ## C++
 
 - [sony/easyhttpcpp](https://github.com/sony/easyhttpcpp) pushed_at:2020-11 A cross-platform HTTP client library with a focus on usability and speed
-- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) pushed_at:2020-12 An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
+- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) pushed_at:2021-01 An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
 - [sony/node-win-usbdev](https://github.com/sony/node-win-usbdev) pushed_at:2018-02 
 - [sony/v8eval](https://github.com/sony/v8eval) pushed_at:2020-12 Multi-language bindings to JavaScript engine V8
 
@@ -38,7 +38,7 @@
 ## Go
 
 - [sony/appsync-client-go](https://github.com/sony/appsync-client-go) pushed_at:2020-11 AWS AppSync golang client library
-- [sony/gobreaker](https://github.com/sony/gobreaker) pushed_at:2020-12 Circuit Breaker implemented in Go
+- [sony/gobreaker](https://github.com/sony/gobreaker) pushed_at:2021-01 Circuit Breaker implemented in Go
 - [sony/micro-notifier](https://github.com/sony/micro-notifier) pushed_at:2020-09 Simplified Pusher Clone
 - [sony/sonyflake](https://github.com/sony/sonyflake) pushed_at:2020-10 A distributed unique ID generator inspired by Twitter's Snowflake
 
@@ -59,7 +59,7 @@
 - [sony/huis-ui-creator](https://github.com/sony/huis-ui-creator) pushed_at:2018-10 
 - [sony/isren](https://github.com/sony/isren) pushed_at:2020-12 
 - [sony/mapray-js](https://github.com/sony/mapray-js) pushed_at:2020-12 JavaScript library for Interactive high quality 3D globes and maps in the browser
-- [sony/nmos-js](https://github.com/sony/nmos-js) pushed_at:2020-12 An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
+- [sony/nmos-js](https://github.com/sony/nmos-js) pushed_at:2021-01 An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
 
 ## Others
 
@@ -71,11 +71,11 @@
 
 ## Python
 
-- [sony/ai-research-code](https://github.com/sony/ai-research-code) pushed_at:2020-12 
+- [sony/ai-research-code](https://github.com/sony/ai-research-code) pushed_at:2021-01 
 - [sony/nnabla](https://github.com/sony/nnabla) pushed_at:2020-12 Neural Network Libraries
 - [sony/nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) pushed_at:2019-03 
 - [sony/nnabla-examples](https://github.com/sony/nnabla-examples) pushed_at:2020-12 Neural Network Libraries https://nnabla.org/ - Examples
-- [sony/nnabla-nas](https://github.com/sony/nnabla-nas) pushed_at:2020-11 Neural Architecture Search for Neural Network Libraries
+- [sony/nnabla-nas](https://github.com/sony/nnabla-nas) pushed_at:2021-01 Neural Architecture Search for Neural Network Libraries
 
 ## TypeScript
 
