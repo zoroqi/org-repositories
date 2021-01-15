@@ -37,3 +37,5 @@
 - [ustclug](./ustclug.md)
 - [NVIDIA](./NVIDIA.md)
 - [efforg](./efforg.md)
+- [facebookresearch](./facebookresearch.md)
+- [wikimedia](./wikimedia.md)

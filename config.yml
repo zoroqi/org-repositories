@@ -109,4 +109,10 @@
 - name: efforg
   userType: org
   file: efforg.md
+- name: facebookresearch
+  userType: org
+  file: facebookresearch.md
+- name: wikimedia
+  userType: org
+  file: wikimedia.md
 
