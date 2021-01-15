@@ -51,7 +51,7 @@
 
 ## Others
 
-- [ustclug/blogs](https://github.com/ustclug/blogs) pushed_at:2020-12 USTCLUG 同学们的博客列表
+- [ustclug/blogs](https://github.com/ustclug/blogs) pushed_at:2021-01 USTCLUG 同学们的博客列表
 - [ustclug/discussions](https://github.com/ustclug/discussions) pushed_at:2020-11 Issue Tracker for USTC LUG
 - [ustclug/hackergame2020-writeups](https://github.com/ustclug/hackergame2020-writeups) pushed_at:2020-11 
 - [ustclug/lug-stickers](https://github.com/ustclug/lug-stickers) pushed_at:2019-05 

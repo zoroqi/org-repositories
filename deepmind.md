@@ -19,7 +19,7 @@
 
 ## C
 
-- [deepmind/lab](https://github.com/deepmind/lab) pushed_at:2020-12 A customisable 3D platform for agent-based AI research
+- [deepmind/lab](https://github.com/deepmind/lab) pushed_at:2021-01 A customisable 3D platform for agent-based AI research
 - [deepmind/torch-cephes](https://github.com/deepmind/torch-cephes) pushed_at:2016-03 Cephes Mathematical Functions library wrapped for Torch
 - [deepmind/torch-oocairo](https://github.com/deepmind/torch-oocairo) pushed_at:2016-06 Cairo lua bindings with extensions for torch 
 
@@ -97,7 +97,7 @@
 - [deepmind/chex](https://github.com/deepmind/chex) pushed_at:2020-12 
 - [deepmind/deep-verify](https://github.com/deepmind/deep-verify) pushed_at:2019-11 
 - [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) pushed_at:2021-01 JAX-based neural network library
-- [deepmind/dm_construction](https://github.com/deepmind/dm_construction) pushed_at:2020-07 
+- [deepmind/dm_construction](https://github.com/deepmind/dm_construction) pushed_at:2021-01 
 - [deepmind/dm_control](https://github.com/deepmind/dm_control) pushed_at:2021-01 DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
 - [deepmind/dm_env](https://github.com/deepmind/dm_env) pushed_at:2020-10 A Python interface for reinforcement learning environments
 - [deepmind/dm_env_rpc](https://github.com/deepmind/dm_env_rpc) pushed_at:2020-12 A networking protocol for agent-environment communication
@@ -107,7 +107,7 @@
 - [deepmind/dnc](https://github.com/deepmind/dnc) pushed_at:2019-04 A TensorFlow implementation of the Differentiable Neural Computer.
 - [deepmind/dqn_zoo](https://github.com/deepmind/dqn_zoo) pushed_at:2020-10 DQN Zoo is a collection of reference implementations of reinforcement learning agents developed at DeepMind based on the Deep Q-Network (DQN) agent.
 - [deepmind/dynamic-kanerva-machines](https://github.com/deepmind/dynamic-kanerva-machines) pushed_at:2019-01 This is a self-contained memory module for the Dynamic Kanerva Machine, as reported in the NIPS 2018 paper: Learning Attractor Dynamics for Generative Memory.
-- [deepmind/ferminet](https://github.com/deepmind/ferminet) pushed_at:2020-11 An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
+- [deepmind/ferminet](https://github.com/deepmind/ferminet) pushed_at:2021-01 An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
 - [deepmind/gqn-datasets](https://github.com/deepmind/gqn-datasets) pushed_at:2019-10 Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper.
 - [deepmind/graph_nets](https://github.com/deepmind/graph_nets) pushed_at:2020-12 Build Graph Nets in Tensorflow
 - [deepmind/grid-cells](https://github.com/deepmind/grid-cells) pushed_at:2020-10 Implementation of the supervised learning experiments in Vector-based navigation using grid-like representations in artificial agents, as published at https://www.nature.com/articles/s41586-018-0102-6
@@ -115,7 +115,7 @@
 - [deepmind/interval-bound-propagation](https://github.com/deepmind/interval-bound-propagation) pushed_at:2019-12 This repository contains a simple implementation of Interval Bound Propagation (IBP) using TensorFlow: https://arxiv.org/abs/1810.12715
 - [deepmind/jax_verify](https://github.com/deepmind/jax_verify) pushed_at:2020-11 Neural network verification in JAX
 - [deepmind/jaxline](https://github.com/deepmind/jaxline) pushed_at:2020-12 
-- [deepmind/jraph](https://github.com/deepmind/jraph) pushed_at:2020-12 
+- [deepmind/jraph](https://github.com/deepmind/jraph) pushed_at:2021-01 
 - [deepmind/kapitan](https://github.com/deepmind/kapitan) pushed_at:2021-01 Generic templated configuration management for Kubernetes, Terraform and other things
 - [deepmind/kinetics-i3d](https://github.com/deepmind/kinetics-i3d) pushed_at:2019-09 Convolutional neural network model for video classification trained on the Kinetics dataset.
 - [deepmind/lamb](https://github.com/deepmind/lamb) pushed_at:2020-04 LAnguage Modelling Benchmarks
@@ -128,7 +128,7 @@
 - [deepmind/pycolab](https://github.com/deepmind/pycolab) pushed_at:2019-09 A highly-customisable gridworld game engine with some batteries included. Make your own gridworld games to test reinforcement learning agents!
 - [deepmind/pysc2](https://github.com/deepmind/pysc2) pushed_at:2020-07 StarCraft II Learning Environment
 - [deepmind/rc-data](https://github.com/deepmind/rc-data) pushed_at:2017-04 Question answering dataset featured in "Teaching Machines to Read and Comprehend
-- [deepmind/rlax](https://github.com/deepmind/rlax) pushed_at:2020-12 
+- [deepmind/rlax](https://github.com/deepmind/rlax) pushed_at:2021-01 
 - [deepmind/scalable_agent](https://github.com/deepmind/scalable_agent) pushed_at:2019-03 A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures.
 - [deepmind/slim-dataset](https://github.com/deepmind/slim-dataset) pushed_at:2018-07 Datasets used to train Spatial Language Integrating Model (SLIM) in the ‘Encoding Spatial Relations from Natural Language’ paper.
 - [deepmind/sonnet](https://github.com/deepmind/sonnet) pushed_at:2020-11 TensorFlow-based neural network library
@@ -137,7 +137,7 @@
 - [deepmind/surface-distance](https://github.com/deepmind/surface-distance) pushed_at:2020-12 Library to compute surface distance based performance metrics for segmentation tasks.
 - [deepmind/Temporal-3D-Pose-Kinetics](https://github.com/deepmind/Temporal-3D-Pose-Kinetics) pushed_at:2019-07 Exploiting temporal context for 3D human pose estimation in the wild: 3D poses for the Kinetics dataset
 - [deepmind/tensor_annotations](https://github.com/deepmind/tensor_annotations) pushed_at:2021-01 
-- [deepmind/tree](https://github.com/deepmind/tree) pushed_at:2020-10 tree is a library for working with nested data structures
+- [deepmind/tree](https://github.com/deepmind/tree) pushed_at:2021-01 tree is a library for working with nested data structures
 - [deepmind/trfl](https://github.com/deepmind/trfl) pushed_at:2020-11 TensorFlow Reinforcement Learning
 - [deepmind/wasserstein_fairness](https://github.com/deepmind/wasserstein_fairness) pushed_at:2020-01 An implementation of Wasserstein Fair Classification, a conference paper submitted to UAI 2019.
 

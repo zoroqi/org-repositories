@@ -16,12 +16,12 @@
 - [JavaScript](#javascript) (7)
 - [Jupyter Notebook](#jupyter-notebook) (1)
 - [Objective-C](#objective-c) (3)
-- [Others](#others) (13)
+- [Others](#others) (12)
 - [Python](#python) (9)
 - [Ruby](#ruby) (2)
 - [Rust](#rust) (1)
 - [Swift](#swift) (1)
-- [TypeScript](#typescript) (7)
+- [TypeScript](#typescript) (8)
 
 ## C
 
@@ -32,7 +32,7 @@
 - [bytedance/ovs-dpdk](https://github.com/bytedance/ovs-dpdk) pushed_at:2020-12 This is a fork of Open vSwitch, we focus DPDK based Open vSwitch
 - [bytedance/redis](https://github.com/bytedance/redis) pushed_at:2020-10 Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
 - [bytedance/tailor](https://github.com/bytedance/tailor) pushed_at:2021-01 
-- [bytedance/trace-irqoff](https://github.com/bytedance/trace-irqoff) pushed_at:2020-12 Interrupts-off or softirqs-off latency tracer
+- [bytedance/trace-irqoff](https://github.com/bytedance/trace-irqoff) pushed_at:2021-01 Interrupts-off or softirqs-off latency tracer
 - [bytedance/trace-noschedule](https://github.com/bytedance/trace-noschedule) pushed_at:2020-11 Trace noschedule thread
 - [bytedance/trace-runqlat](https://github.com/bytedance/trace-runqlat) pushed_at:2020-11 
 - [bytedance/twemproxy](https://github.com/bytedance/twemproxy) pushed_at:2015-10 A fork of twitter's twemproxy, please refer to README.bytedance.md
@@ -66,7 +66,7 @@
 - [bytedance/bosun](https://github.com/bytedance/bosun) pushed_at:2015-08 Time Series Alerting Framework
 - [bytedance/dbatman](https://github.com/bytedance/dbatman) pushed_at:2017-02 
 - [bytedance/go-querystring-parser](https://github.com/bytedance/go-querystring-parser) pushed_at:2020-10 A golang querystring parser
-- [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) pushed_at:2020-12 An interesting go struct tag expression syntax for field validation, etc.
+- [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) pushed_at:2021-01 An interesting go struct tag expression syntax for field validation, etc.
 - [bytedance/ingress-nginx](https://github.com/bytedance/ingress-nginx) pushed_at:2020-10 NGINX Ingress Controller for Kubernetes
 - [bytedance/json](https://github.com/bytedance/json) pushed_at:2019-05 JSON standard package extension library
 - [bytedance/msgp](https://github.com/bytedance/msgp) pushed_at:2019-10 A Go code generator for MessagePack / msgpack.org[Go]
@@ -89,7 +89,7 @@
 - [bytedance/okhttp](https://github.com/bytedance/okhttp) pushed_at:2016-11 An HTTP+HTTP/2 client for Android and Java applications.
 - [bytedance/pangle-sdk-demo](https://github.com/bytedance/pangle-sdk-demo) pushed_at:2020-07 pangle-sdk-demo and doc 
 - [bytedance/scene](https://github.com/bytedance/scene) pushed_at:2020-12 Android Single Activity Applications framework without Fragment.
-- [bytedance/tiktok-business-android-sdk](https://github.com/bytedance/tiktok-business-android-sdk) pushed_at:2020-12 
+- [bytedance/tiktok-business-android-sdk](https://github.com/bytedance/tiktok-business-android-sdk) pushed_at:2021-01 
 
 ## JavaScript
 
@@ -103,7 +103,7 @@
 
 ## Jupyter Notebook
 
-- [bytedance/TRTorch](https://github.com/bytedance/TRTorch) pushed_at:2020-10 PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
+- [bytedance/TRTorch](https://github.com/bytedance/TRTorch) pushed_at:2021-01 PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 
 ## Objective-C
 
@@ -118,7 +118,6 @@
 - [bytedance/bifrost](https://github.com/bytedance/bifrost) pushed_at:2020-12 
 - [bytedance/Fastbot_Android](https://github.com/bytedance/Fastbot_Android) pushed_at:2020-12 Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems
 - [bytedance/fedlearner_models](https://github.com/bytedance/fedlearner_models) pushed_at:2020-02 Public models for FedLearner
-- [bytedance/garfish](https://github.com/bytedance/garfish) pushed_at:2020-12 
 - [bytedance/go-snappy](https://github.com/bytedance/go-snappy) pushed_at:2019-02 a fork of go-snappy
 - [bytedance/http-proxy-middleware](https://github.com/bytedance/http-proxy-middleware) pushed_at:2019-09 :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
 - [bytedance/libvirt](https://github.com/bytedance/libvirt) pushed_at:2020-04 Read-only mirror. Please submit merge requests / issues to https://gitlab.com/libvirt/libvirt
@@ -129,7 +128,7 @@
 
 ## Python
 
-- [bytedance/byteps](https://github.com/bytedance/byteps) pushed_at:2020-12 A high performance and generic framework for distributed DNN training
+- [bytedance/byteps](https://github.com/bytedance/byteps) pushed_at:2021-01 A high performance and generic framework for distributed DNN training
 - [bytedance/estimator](https://github.com/bytedance/estimator) pushed_at:2019-07 TensorFlow Estimator
 - [bytedance/fairseq](https://github.com/bytedance/fairseq) pushed_at:2019-06 Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [bytedance/fedlearner](https://github.com/bytedance/fedlearner) pushed_at:2021-01 A multi-party collaborative machine learning framework
@@ -154,9 +153,10 @@
 
 ## TypeScript
 
-- [bytedance/bytemd](https://github.com/bytedance/bytemd) pushed_at:2020-12 A hackable Markdown editor component built with Svelte
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) pushed_at:2021-01 A hackable Markdown editor component built with Svelte
 - [bytedance/debugtron](https://github.com/bytedance/debugtron) pushed_at:2020-10 Debug in-production Electron based app
 - [bytedance/fe-foundation](https://github.com/bytedance/fe-foundation) pushed_at:2020-11 UI Foundation for React Hooks and Vue Composition Api 
+- [bytedance/garfish](https://github.com/bytedance/garfish) pushed_at:2021-01 
 - [bytedance/graphyne](https://github.com/bytedance/graphyne) pushed_at:2019-03 
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-01 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) pushed_at:2020-12 Micro frontends made easy.😘

@@ -29,7 +29,7 @@
 
 - [ARM-software/AArch64cryptolib](https://github.com/ARM-software/AArch64cryptolib) pushed_at:2020-11 AArch64cryptolib is a from scratch implementation of cryptographic primitives aiming for optimal performance on Arm A-class cores
 - [ARM-software/arm-enterprise-acs](https://github.com/ARM-software/arm-enterprise-acs) pushed_at:2020-12 ARM Enterprise ACS
-- [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) pushed_at:2020-12 Read-only mirror of Trusted Firmware-A
+- [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) pushed_at:2021-01 Read-only mirror of Trusted Firmware-A
 - [ARM-software/CMSIS](https://github.com/ARM-software/CMSIS) pushed_at:2018-10 Cortex Microcontroller Software Interface Standard
 - [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) pushed_at:2020-08 Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
 - [ARM-software/CMSIS-Driver_Validation](https://github.com/ARM-software/CMSIS-Driver_Validation) pushed_at:2020-08 Repository containing validation components for microcontroller peripheral driver implementing the CMSIS-Driver API specification.
@@ -59,7 +59,7 @@
 - [ARM-software/psa-arch-tests](https://github.com/ARM-software/psa-arch-tests) pushed_at:2021-01 Tests for verifying implementations of TBSA-v8M and the PSA Developer APIs
 - [ARM-software/rasc-devkit](https://github.com/ARM-software/rasc-devkit) pushed_at:2020-06 
 - [ARM-software/revere-demo](https://github.com/ARM-software/revere-demo) pushed_at:2020-09 Example program demonstrating the use of the Revere-AMU System Architecture from userspace, with VFIO
-- [ARM-software/sbsa-acs](https://github.com/ARM-software/sbsa-acs) pushed_at:2020-12 ARM Enterprise: SBSA Architecture Compliance Suite
+- [ARM-software/sbsa-acs](https://github.com/ARM-software/sbsa-acs) pushed_at:2021-01 ARM Enterprise: SBSA Architecture Compliance Suite
 - [ARM-software/scmi-tests](https://github.com/ARM-software/scmi-tests) pushed_at:2020-12 Test suite for SCMI PDD
 - [ARM-software/SCP-firmware](https://github.com/ARM-software/SCP-firmware) pushed_at:2021-01 System Control Processor (SCP) firmware
 - [ARM-software/server-data-plane](https://github.com/ARM-software/server-data-plane) pushed_at:2017-05 Modified OpenDataPlane APIs for general purpose server applications with example applications.
@@ -71,7 +71,7 @@
 
 ## C++
 
-- [ARM-software/android-nn-driver](https://github.com/ARM-software/android-nn-driver) pushed_at:2020-11 
+- [ARM-software/android-nn-driver](https://github.com/ARM-software/android-nn-driver) pushed_at:2021-01 
 - [ARM-software/armnn](https://github.com/ARM-software/armnn) pushed_at:2021-01 Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
 - [ARM-software/armnn-mlperf](https://github.com/ARM-software/armnn-mlperf) pushed_at:2020-09 Arm mlperf.org benchmark port
 - [ARM-software/astc-encoder](https://github.com/ARM-software/astc-encoder) pushed_at:2021-01 This is the official repository for the Arm ASTC Encoder, a texture compressor for the Adaptive Scalable Texture Compression data format.
@@ -80,7 +80,7 @@
 - [ARM-software/caiman](https://github.com/ARM-software/caiman) pushed_at:2020-11 Sources for Arm Streamline's caiman daemon
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) pushed_at:2020-11 The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [ARM-software/drm-hwcomposer](https://github.com/ARM-software/drm-hwcomposer) pushed_at:2020-09 Clone of the drm-hwcomposer from freedesktop.org plus patches from Mali DP team
-- [ARM-software/EndpointAI](https://github.com/ARM-software/EndpointAI) pushed_at:2020-12 
+- [ARM-software/EndpointAI](https://github.com/ARM-software/EndpointAI) pushed_at:2021-01 
 - [ARM-software/ethos-n-driver-stack](https://github.com/ARM-software/ethos-n-driver-stack) pushed_at:2020-11 Driver stack (including user space libraries, kernel module and firmware) for the Arm NPU
 - [ARM-software/gator](https://github.com/ARM-software/gator) pushed_at:2020-11 Sources for Arm Streamline's gator daemon
 - [ARM-software/HPCG_for_Arm](https://github.com/ARM-software/HPCG_for_Arm) pushed_at:2020-09 
@@ -164,14 +164,14 @@
 
 - [ARM-software/bart](https://github.com/ARM-software/bart) pushed_at:2018-09 Behavioural Analysis and Regression Toolkit
 - [ARM-software/Cloud-IoT-Core-Kit-Examples](https://github.com/ARM-software/Cloud-IoT-Core-Kit-Examples) pushed_at:2018-07 Example projects and code are supplied to support the Arm-based IoT Kit for Cloud IoT Core
-- [ARM-software/core-benchmarks](https://github.com/ARM-software/core-benchmarks) pushed_at:2020-12 
+- [ARM-software/core-benchmarks](https://github.com/ARM-software/core-benchmarks) pushed_at:2021-01 
 - [ARM-software/daq-server](https://github.com/ARM-software/daq-server) pushed_at:2019-11 Server for remote access to National Instruments DAQ devices
-- [ARM-software/devlib](https://github.com/ARM-software/devlib) pushed_at:2020-12 Library for interaction with and instrumentation of remote devices.
+- [ARM-software/devlib](https://github.com/ARM-software/devlib) pushed_at:2021-01 Library for interaction with and instrumentation of remote devices.
 - [ARM-software/SCALE-Sim](https://github.com/ARM-software/SCALE-Sim) pushed_at:2021-01 
 - [ARM-software/scalpel](https://github.com/ARM-software/scalpel) pushed_at:2018-11 This is a PyTorch implementation of the Scalpel. Node pruning for five benchmark networks and SIMD-aware weight pruning for LeNet-300-100 and LeNet-5 is included.
 - [ARM-software/trappy](https://github.com/ARM-software/trappy) pushed_at:2020-05 Trace Analysis And Plotting in PYthon
 - [ARM-software/tspfnbeats](https://github.com/ARM-software/tspfnbeats) pushed_at:2020-10 
-- [ARM-software/workload-automation](https://github.com/ARM-software/workload-automation) pushed_at:2020-12 A framework for automating workload execution and measurement collection on ARM devices.
+- [ARM-software/workload-automation](https://github.com/ARM-software/workload-automation) pushed_at:2021-01 A framework for automating workload execution and measurement collection on ARM devices.
 - [ARM-software/workload-automation-assets](https://github.com/ARM-software/workload-automation-assets) pushed_at:2018-06 Assets used by the workload-automation software
 
 ## Ruby

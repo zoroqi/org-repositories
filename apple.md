@@ -24,10 +24,10 @@
 ## C
 
 - [apple/ccs-pykerberos](https://github.com/apple/ccs-pykerberos) pushed_at:2021-01 Python Kerberos library used by CalendarServer
-- [apple/cups](https://github.com/apple/cups) pushed_at:2020-11 Official CUPS Sources
-- [apple/darwin-libplatform](https://github.com/apple/darwin-libplatform) pushed_at:2018-12 The Darwin Platform Library (mirror)
-- [apple/darwin-libpthread](https://github.com/apple/darwin-libpthread) pushed_at:2018-12 The Darwin PThread Library (mirror)
-- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) pushed_at:2020-12 The Darwin Kernel (mirror)
+- [apple/cups](https://github.com/apple/cups) pushed_at:2021-01 Official CUPS Sources
+- [apple/darwin-libplatform](https://github.com/apple/darwin-libplatform) pushed_at:2021-01 The Darwin Platform Library (mirror)
+- [apple/darwin-libpthread](https://github.com/apple/darwin-libpthread) pushed_at:2021-01 The Darwin PThread Library (mirror)
+- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) pushed_at:2021-01 The Darwin Kernel (mirror)
 - [apple/HomeKitADK](https://github.com/apple/HomeKitADK) pushed_at:2021-01 
 - [apple/swift-cmark](https://github.com/apple/swift-cmark) pushed_at:2021-01 CommonMark parsing and rendering library and program in C
 - [apple/swift-compiler-rt](https://github.com/apple/swift-compiler-rt) pushed_at:2019-10 
@@ -110,10 +110,10 @@
 - [apple/ml-multiple-futures-prediction](https://github.com/apple/ml-multiple-futures-prediction) pushed_at:2020-11 
 - [apple/ml-ncg](https://github.com/apple/ml-ncg) pushed_at:2019-05 
 - [apple/ml-qrecc](https://github.com/apple/ml-qrecc) pushed_at:2021-01 Open-Domain Question Answering Goes Conversational via Question Rewriting
-- [apple/ml-quant](https://github.com/apple/ml-quant) pushed_at:2020-06 Research publication code for "Least Squares Binary Quantization of Neural Networks"
+- [apple/ml-quant](https://github.com/apple/ml-quant) pushed_at:2021-01 Research publication code for "Least Squares Binary Quantization of Neural Networks"
 - [apple/ml-tree-dst](https://github.com/apple/ml-tree-dst) pushed_at:2020-10 
 - [apple/swift-integration-tests](https://github.com/apple/swift-integration-tests) pushed_at:2021-01 Automated tests for validating the generated Swift snapshots behave correctly
-- [apple/swift-source-compat-suite](https://github.com/apple/swift-source-compat-suite) pushed_at:2020-12 The infrastructure and project index comprising the Swift source compatibility suite.
+- [apple/swift-source-compat-suite](https://github.com/apple/swift-source-compat-suite) pushed_at:2021-01 The infrastructure and project index comprising the Swift source compatibility suite.
 
 ## Shell
 
@@ -144,23 +144,23 @@
 - [apple/swift-distributed-tracing-baggage-core](https://github.com/apple/swift-distributed-tracing-baggage-core) pushed_at:2020-12 Minimal context propagation container
 - [apple/swift-driver](https://github.com/apple/swift-driver) pushed_at:2021-01 Swift compiler driver reimplementation in Swift
 - [apple/swift-evolution-staging](https://github.com/apple/swift-evolution-staging) pushed_at:2020-12 
-- [apple/swift-format](https://github.com/apple/swift-format) pushed_at:2020-12 Formatting technology for Swift source code
-- [apple/swift-llbuild2](https://github.com/apple/swift-llbuild2) pushed_at:2020-12 A fresh take on a low-level build system API.
-- [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2020-12 A Logging API for Swift
+- [apple/swift-format](https://github.com/apple/swift-format) pushed_at:2021-01 Formatting technology for Swift source code
+- [apple/swift-llbuild2](https://github.com/apple/swift-llbuild2) pushed_at:2021-01 A fresh take on a low-level build system API.
+- [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2021-01 A Logging API for Swift
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) pushed_at:2020-11 A Metrics API for Swift
 - [apple/swift-metrics-extras](https://github.com/apple/swift-metrics-extras) pushed_at:2020-11 
 - [apple/swift-nio](https://github.com/apple/swift-nio) pushed_at:2021-01 Event-driven network application framework for high performance protocol servers & clients, non-blocking.
-- [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) pushed_at:2020-12 examples of how to use swift-nio
+- [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) pushed_at:2021-01 examples of how to use swift-nio
 - [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) pushed_at:2020-10 Useful code around SwiftNIO.
 - [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) pushed_at:2021-01 HTTP/2 support for SwiftNIO
 - [apple/swift-nio-nghttp2-support](https://github.com/apple/swift-nio-nghttp2-support) pushed_at:2020-12 
-- [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) pushed_at:2020-12 SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
+- [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) pushed_at:2021-01 SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
 - [apple/swift-nio-ssl](https://github.com/apple/swift-nio-ssl) pushed_at:2020-12 TLS Support for SwiftNIO, based on BoringSSL.
 - [apple/swift-nio-ssl-support](https://github.com/apple/swift-nio-ssl-support) pushed_at:2020-12 
 - [apple/swift-nio-transport-services](https://github.com/apple/swift-nio-transport-services) pushed_at:2020-11 Extensions for SwiftNIO to support Apple platforms as first-class citizens.
 - [apple/swift-nio-zlib-support](https://github.com/apple/swift-nio-zlib-support) pushed_at:2020-12 
 - [apple/swift-numerics](https://github.com/apple/swift-numerics) pushed_at:2020-12 Numerical APIs for Swift
-- [apple/swift-package-collection-generator](https://github.com/apple/swift-package-collection-generator) pushed_at:2020-12 A collection of packages and tooling for generating and consuming package feeds.
+- [apple/swift-package-collection-generator](https://github.com/apple/swift-package-collection-generator) pushed_at:2021-01 A collection of packages and tooling for generating and consuming package feeds.
 - [apple/swift-package-manager](https://github.com/apple/swift-package-manager) pushed_at:2021-01 The Package Manager for the Swift Programming Language
 - [apple/swift-protobuf](https://github.com/apple/swift-protobuf) pushed_at:2020-12 Plugin and runtime library for using protobuf with Swift
 - [apple/swift-se0270-range-set](https://github.com/apple/swift-se0270-range-set) pushed_at:2020-11 Swift Evolution preview package for SE-0270.

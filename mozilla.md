@@ -12,6 +12,7 @@
 - [Brightscript](#brightscript) (1)
 - [Bro](#bro) (1)
 - [C](#c) (24)
+- [C#](#c#) (1)
 - [C++](#c++) (37)
 - [CSS](#css) (92)
 - [Clojure](#clojure) (2)
@@ -26,10 +27,10 @@
 - [Go](#go) (25)
 - [Groovy](#groovy) (1)
 - [HCL](#hcl) (4)
-- [HTML](#html) (116)
+- [HTML](#html) (115)
 - [Handlebars](#handlebars) (3)
 - [Java](#java) (22)
-- [JavaScript](#javascript) (808)
+- [JavaScript](#javascript) (809)
 - [Jupyter Notebook](#jupyter-notebook) (14)
 - [Kotlin](#kotlin) (3)
 - [LookML](#lookml) (1)
@@ -42,7 +43,7 @@
 - [Perl](#perl) (6)
 - [PowerShell](#powershell) (1)
 - [Puppet](#puppet) (4)
-- [Python](#python) (540)
+- [Python](#python) (539)
 - [R](#r) (9)
 - [Ruby](#ruby) (26)
 - [Rust](#rust) (45)
@@ -102,6 +103,10 @@
 - [mozilla/stoneridge](https://github.com/mozilla/stoneridge) pushed_at:2020-05 Testing framework for Necko (Mozilla's networking stack)
 - [mozilla/tofino-ffmpeg](https://github.com/mozilla/tofino-ffmpeg) pushed_at:2019-03 
 - [mozilla/webrtcvad_js](https://github.com/mozilla/webrtcvad_js) pushed_at:2019-07 Javascript port of Webrtc VAD using emscripten 
+
+## C#
+
+- [mozilla/DeepSpeech-examples](https://github.com/mozilla/DeepSpeech-examples) pushed_at:2021-01 Examples of how to use or integrate DeepSpeech
 
 ## C++
 
@@ -256,7 +261,7 @@
 
 ## Dockerfile
 
-- [mozilla/addons-nginx](https://github.com/mozilla/addons-nginx) pushed_at:2020-05 
+- [mozilla/addons-nginx](https://github.com/mozilla/addons-nginx) pushed_at:2021-01 
 - [mozilla/apiaah](https://github.com/mozilla/apiaah) pushed_at:2020-06 R Based API Server Executed by Google Cloud Run
 - [mozilla/ci-docker-bases](https://github.com/mozilla/ci-docker-bases) pushed_at:2021-01 Docker images to use as base images in Circle CI tests for Mozilla projects
 - [mozilla/demo_docker](https://github.com/mozilla/demo_docker) pushed_at:2020-06 A test repo
@@ -312,7 +317,7 @@
 - [mozilla/OneCRL-Tools](https://github.com/mozilla/OneCRL-Tools) pushed_at:2020-11 Some tools for supporting OneCRL
 - [mozilla/patches](https://github.com/mozilla/patches) pushed_at:2019-01 A distributed patch management system
 - [mozilla/pd-cli](https://github.com/mozilla/pd-cli) pushed_at:2019-03 A Product Delivery CLI toolbox of awesomeness
-- [mozilla/protodash](https://github.com/mozilla/protodash) pushed_at:2020-12 
+- [mozilla/protodash](https://github.com/mozilla/protodash) pushed_at:2021-01 
 - [mozilla/push-proxy](https://github.com/mozilla/push-proxy) pushed_at:2016-02 
 - [mozilla/renard](https://github.com/mozilla/renard) pushed_at:2020-03 
 - [mozilla/scribe](https://github.com/mozilla/scribe) pushed_at:2019-03 Mozilla scribe host policy evaluator
@@ -367,7 +372,6 @@
 - [mozilla/geckoview](https://github.com/mozilla/geckoview) pushed_at:2021-01 GeckoView is a set of components for embedding Gecko in Android apps
 - [mozilla/gpg.mozilla.org](https://github.com/mozilla/gpg.mozilla.org) pushed_at:2020-09 Mozilla-hosted SKS keyserver service has ended
 - [mozilla/http-observatory-website](https://github.com/mozilla/http-observatory-website) pushed_at:2020-12 Mozilla Observatory (Website)
-- [mozilla/imo-placeholder](https://github.com/mozilla/imo-placeholder) pushed_at:2020-12 Placeholder page for ideas.mozilla.org
 - [mozilla/iris_firefox](https://github.com/mozilla/iris_firefox) pushed_at:2020-01 Test Suite for Firefox using Mozilla Iris
 - [mozilla/itisatrap](https://github.com/mozilla/itisatrap) pushed_at:2019-03 "It's a trap" and "It's an Attack" warning pages that showcase Firefox's phishing and malware protection feature
 - [mozilla/Java-WebSocket](https://github.com/mozilla/Java-WebSocket) pushed_at:2016-03 A barebones WebSocket client and server implementation written in 100% Java.
@@ -635,7 +639,7 @@
 - [mozilla/domtemplate](https://github.com/mozilla/domtemplate) pushed_at:2012-06 An Experimental DOM Template Engine
 - [mozilla/donate.mozilla.org](https://github.com/mozilla/donate.mozilla.org) pushed_at:2020-02 Mozilla donation platform
 - [mozilla/dryice](https://github.com/mozilla/dryice) pushed_at:2014-05 CommonJS/RequireJS build tool
-- [mozilla/ecosystem-platform](https://github.com/mozilla/ecosystem-platform) pushed_at:2020-12 WIP Documentation Hub for Accounts, Sync Client Integrations and More
+- [mozilla/ecosystem-platform](https://github.com/mozilla/ecosystem-platform) pushed_at:2021-01 WIP Documentation Hub for Accounts, Sync Client Integrations and More
 - [mozilla/elmo](https://github.com/mozilla/elmo) pushed_at:2020-08 Elmo ~ https://mozilla.github.io/elmo/
 - [mozilla/ember-cli-fxos](https://github.com/mozilla/ember-cli-fxos) pushed_at:2019-03 Ember-cli add-on for creating Firefox OS applications
 - [mozilla/energia](https://github.com/mozilla/energia) pushed_at:2019-03 Desktop Browser Power benchmarking Utility
@@ -895,7 +899,7 @@
 - [mozilla/moztrap-connect](https://github.com/mozilla/moztrap-connect) pushed_at:2019-03 Connector to help external tools interact with Case Conductor
 - [mozilla/mozwebqa-bot](https://github.com/mozilla/mozwebqa-bot) pushed_at:2015-09 IRC bot to help out in #mozwebqa on irc.mozilla.org
 - [mozilla/mozWhistle](https://github.com/mozilla/mozWhistle) pushed_at:2019-03 Welcome to June Work Week in Whistler! This is the schedule for work week.
-- [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) pushed_at:2020-12 Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
+- [mozilla/multi-account-containers](https://github.com/mozilla/multi-account-containers) pushed_at:2021-01 Firefox Multi-Account Containers lets you keep parts of your online life separated into color-coded tabs that preserve your privacy. Cookies are separated by container, allowing you to use the web with multiple identities or accounts simultaneously.
 - [mozilla/multipreffer](https://github.com/mozilla/multipreffer) pushed_at:2019-05 Flippa buncha prefs
 - [mozilla/murmur](https://github.com/mozilla/murmur) pushed_at:2019-05 A webapp for collecting speech samples for voice recognition testing and training
 - [mozilla/mysql-patcher](https://github.com/mozilla/mysql-patcher) pushed_at:2019-03 A package/program to help patch MySql databases
@@ -915,7 +919,7 @@
 - [mozilla/node-basket](https://github.com/mozilla/node-basket) pushed_at:2019-03 
 - [mozilla/node-cef](https://github.com/mozilla/node-cef) pushed_at:2012-07 CEF Logging Library
 - [mozilla/node-client-sessions](https://github.com/mozilla/node-client-sessions) pushed_at:2020-03 secure sessions stored in cookies
-- [mozilla/node-convict](https://github.com/mozilla/node-convict) pushed_at:2020-07 Featureful configuration management library for Node.js
+- [mozilla/node-convict](https://github.com/mozilla/node-convict) pushed_at:2021-01 Featureful configuration management library for Node.js
 - [mozilla/node-db-migrate](https://github.com/mozilla/node-db-migrate) pushed_at:2012-10 Database migration framework for node
 - [mozilla/node-firefox](https://github.com/mozilla/node-firefox) pushed_at:2017-12 node.js modules for interacting with Firefox via the DevTools remote protocol
 - [mozilla/node-firefox-build-tools](https://github.com/mozilla/node-firefox-build-tools) pushed_at:2019-03 Common build tasks and configuration files for the node-firefox project
@@ -936,6 +940,7 @@
 - [mozilla/node-firefox-reload-css](https://github.com/mozilla/node-firefox-reload-css) pushed_at:2019-03 Reload CSS on an app running on a Firefox runtime
 - [mozilla/node-firefox-start-simulator](https://github.com/mozilla/node-firefox-start-simulator) pushed_at:2019-03 Start a Firefox OS simulator
 - [mozilla/node-firefox-uninstall-app](https://github.com/mozilla/node-firefox-uninstall-app) pushed_at:2019-03 Uninstall an app from a Firefox runtime
+- [mozilla/node-fx-runner](https://github.com/mozilla/node-fx-runner) pushed_at:2021-01 Node API to control Firefox
 - [mozilla/node-hkdf](https://github.com/mozilla/node-hkdf) pushed_at:2013-11 the HKDF key-derivation function for node.js
 - [mozilla/node-hubble](https://github.com/mozilla/node-hubble) pushed_at:2015-06 Node Web API for discovering content types for URLs
 - [mozilla/node-janus](https://github.com/mozilla/node-janus) pushed_at:2019-10   https://wiki.mozilla.org/Mobile/Janus
@@ -953,7 +958,7 @@
 - [mozilla/npm-lockdown](https://github.com/mozilla/npm-lockdown) pushed_at:2020-07 Lock down your npm dependencies by shasum.
 - [mozilla/nsf-challenge](https://github.com/mozilla/nsf-challenge) pushed_at:2019-03 NSF Wireless Innovation Challenge
 - [mozilla/nss-taskcluster](https://github.com/mozilla/nss-taskcluster) pushed_at:2019-04 Notifications for NSS on Taskcluster
-- [mozilla/nunjucks](https://github.com/mozilla/nunjucks) pushed_at:2020-12 A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
+- [mozilla/nunjucks](https://github.com/mozilla/nunjucks) pushed_at:2021-01 A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [mozilla/oauthorizer](https://github.com/mozilla/oauthorizer) pushed_at:2019-10 Enable easy use of oauth for other addons
 - [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) pushed_at:2020-06 
 - [mozilla/oghliner](https://github.com/mozilla/oghliner) pushed_at:2018-05 template and tool for deploying Offline Web Apps to GitHub Pages
@@ -1472,7 +1477,7 @@
 - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) pushed_at:2021-01 Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: http://bit.ly/contribute-code
 - [mozilla/gecko-dev-webgl](https://github.com/mozilla/gecko-dev-webgl) pushed_at:2020-01 Temporary fork of mozilla/gecko for WebGL process remoting/sandboxing development
 - [mozilla/gecko-projects](https://github.com/mozilla/gecko-projects) pushed_at:2020-05 r/o mirror of hg.mozilla.org/projects/ -- 'master' never updated, check the branch you care about.
-- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) pushed_at:2020-11 WebDriver for Firefox
+- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) pushed_at:2021-01 WebDriver for Firefox
 - [mozilla/gene-test](https://github.com/mozilla/gene-test) pushed_at:2019-11 
 - [mozilla/geomodel](https://github.com/mozilla/geomodel) pushed_at:2019-07 
 - [mozilla/gigabit-website-redirects](https://github.com/mozilla/gigabit-website-redirects) pushed_at:2019-03 Server to redirect Gigabit websites to the Learning site
@@ -1714,7 +1719,7 @@
 - [mozilla/ad-library-download-tools](https://github.com/mozilla/ad-library-download-tools) pushed_at:2020-06 
 - [mozilla/ADBFuzz](https://github.com/mozilla/ADBFuzz) pushed_at:2019-03 Fuzzing Harness for Firefox Mobile on Android
 - [mozilla/addon-registration](https://github.com/mozilla/addon-registration) pushed_at:2019-03 Service to do non-AMO addon registration
-- [mozilla/addons-release-tests](https://github.com/mozilla/addons-release-tests) pushed_at:2021-01 WIP: a collection of automated tests destined to reduce manual testing for the weekly release
+- [mozilla/addons-release-tests](https://github.com/mozilla/addons-release-tests) pushed_at:2021-01 A collection of automated tests destined to reduce manual testing for the weekly release
 - [mozilla/addons-robot](https://github.com/mozilla/addons-robot) pushed_at:2019-04 Bots for building out everything add-ons.
 - [mozilla/addons-server](https://github.com/mozilla/addons-server) pushed_at:2021-01 🕶 addons.mozilla.org Django app and API 🎉
 - [mozilla/addons_daily](https://github.com/mozilla/addons_daily) pushed_at:2020-06 ETL code that produces the addons_daily derived dataset.
@@ -1750,7 +1755,7 @@
 - [mozilla/bespinserver](https://github.com/mozilla/bespinserver) pushed_at:2019-03 The Bespin project is building a web-based code editor using the emerging HTML5 standard. The editor is easily extensible with JavaScript and can be used in your own applications. (the mozilla/ mirror is READ ONLY, synchronized from mercurial)
 - [mozilla/betafarm](https://github.com/mozilla/betafarm) pushed_at:2015-11 DECOMMISSIONED: Home of innovation projects at Mozilla
 - [mozilla/bidpom](https://github.com/mozilla/bidpom) pushed_at:2016-12 Page object model for BrowserID
-- [mozilla/bigquery-backfill](https://github.com/mozilla/bigquery-backfill) pushed_at:2020-08 Scripts and historical records related to backfills in Mozilla's telemetry pipeline
+- [mozilla/bigquery-backfill](https://github.com/mozilla/bigquery-backfill) pushed_at:2021-01 Scripts and historical records related to backfills in Mozilla's telemetry pipeline
 - [mozilla/bigquery-etl](https://github.com/mozilla/bigquery-etl) pushed_at:2021-01 Bigquery ETL
 - [mozilla/bleach](https://github.com/mozilla/bleach) pushed_at:2021-01 Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes
 - [mozilla/bramble](https://github.com/mozilla/bramble) pushed_at:2019-03 [deprecated] a RelEng dashboard built on briar-patch
@@ -1817,7 +1822,6 @@
 - [mozilla/datadog_hp_health](https://github.com/mozilla/datadog_hp_health) pushed_at:2019-03 A DataDog plugin for reporting health of the HP servers
 - [mozilla/datazilla-metrics](https://github.com/mozilla/datazilla-metrics) pushed_at:2012-09 Metrics for datazilla
 - [mozilla/datazilla_client](https://github.com/mozilla/datazilla_client) pushed_at:2013-07 Client libraries to interact with the datazilla database.
-- [mozilla/DeepSpeech-examples](https://github.com/mozilla/DeepSpeech-examples) pushed_at:2021-01 Examples of how to use or integrate DeepSpeech
 - [mozilla/deepspeech-pkguploadworker](https://github.com/mozilla/deepspeech-pkguploadworker) pushed_at:2020-12 A scriptworker script to upload packages to PyPI and the NPM registry
 - [mozilla/deepspeech-pt-br-scripts](https://github.com/mozilla/deepspeech-pt-br-scripts) pushed_at:2019-10 Scripts and tools used to train pt-BR models for DeepSpeech
 - [mozilla/disk_key_encrypter](https://github.com/mozilla/disk_key_encrypter) pushed_at:2020-07 django webapp for gpg encryption of disk keys
@@ -1836,7 +1840,7 @@
 - [mozilla/django-session-csrf](https://github.com/mozilla/django-session-csrf) pushed_at:2019-03 CSRF protection for Django without cookies.
 - [mozilla/django-tidings](https://github.com/mozilla/django-tidings) pushed_at:2020-02 Library for watching and rolling up events and sending email notifications in response
 - [mozilla/django_appcache](https://github.com/mozilla/django_appcache) pushed_at:2012-11 helps you build and serve an appcache manifest from Django.
-- [mozilla/docere](https://github.com/mozilla/docere) pushed_at:2020-12 Knowledge management where the data scientist is in control
+- [mozilla/docere](https://github.com/mozilla/docere) pushed_at:2021-01 Knowledge management where the data scientist is in control
 - [mozilla/docker-etl](https://github.com/mozilla/docker-etl) pushed_at:2020-12 Collection of dockerized ETL jobs managed by data engineering.
 - [mozilla/docker-test-mozilla-django-oidc](https://github.com/mozilla/docker-test-mozilla-django-oidc) pushed_at:2020-10 Dockerized setup for ``mozilla-django-oidc`` local dev and testing
 - [mozilla/dockutil](https://github.com/mozilla/dockutil) pushed_at:2020-10 command line tool for managing dock items
@@ -1919,7 +1923,7 @@
 - [mozilla/identity-ops](https://github.com/mozilla/identity-ops) pushed_at:2015-04 Tools and Chef cookbooks used by Mozilla Services Operations to provision and manage Persona
 - [mozilla/inferno](https://github.com/mozilla/inferno) pushed_at:2018-01 A rule-based map-reduce scheduling framework
 - [mozilla/infernyx](https://github.com/mozilla/infernyx) pushed_at:2019-08 Inferno Rules and Schemas for Tiles project
-- [mozilla/infosec-risk-management-bugzilla](https://github.com/mozilla/infosec-risk-management-bugzilla) pushed_at:2020-12 Code to manage, assign, etc. bugzilla bugs for the risk management framework
+- [mozilla/infosec-risk-management-bugzilla](https://github.com/mozilla/infosec-risk-management-bugzilla) pushed_at:2021-01 Code to manage, assign, etc. bugzilla bugs for the risk management framework
 - [mozilla/input-lib](https://github.com/mozilla/input-lib) pushed_at:2019-03 All the pure python dependencies for the Firefox Input app
 - [mozilla/input.mozilla.org](https://github.com/mozilla/input.mozilla.org) pushed_at:2013-03 A web application to gather Firefox Beta feedback. Codebase for input.mozilla.org.
 - [mozilla/inv-tool](https://github.com/mozilla/inv-tool) pushed_at:2019-03 A command line interface to inventory
@@ -1973,10 +1977,10 @@
 - [mozilla/measure-noise](https://github.com/mozilla/measure-noise) pushed_at:2020-09 Measure how our data deviates from normal distribution
 - [mozilla/medlem](https://github.com/mozilla/medlem) pushed_at:2017-04 Project discontinued
 - [mozilla/mentoring](https://github.com/mozilla/mentoring) pushed_at:2021-01 random scripts
-- [mozilla/messaging-system-dashboards](https://github.com/mozilla/messaging-system-dashboards) pushed_at:2020-12 The Redash dashboard utilities for Firefox Messaging System 
+- [mozilla/messaging-system-dashboards](https://github.com/mozilla/messaging-system-dashboards) pushed_at:2021-01 The Redash dashboard utilities for Firefox Messaging System 
 - [mozilla/messaging-system-inflight-assets](https://github.com/mozilla/messaging-system-inflight-assets) pushed_at:2021-01 Remote Assets of Firefox Messaging System
 - [mozilla/messaging-system-personalization-experiment-1-numbermuncher](https://github.com/mozilla/messaging-system-personalization-experiment-1-numbermuncher) pushed_at:2020-05 
-- [mozilla/microannotate](https://github.com/mozilla/microannotate) pushed_at:2020-12 Generate and view word-level annotate data
+- [mozilla/microannotate](https://github.com/mozilla/microannotate) pushed_at:2021-01 Generate and view word-level annotate data
 - [mozilla/minion-backend](https://github.com/mozilla/minion-backend) pushed_at:2019-03 Minion Backend
 - [mozilla/minion-breach-plugin](https://github.com/mozilla/minion-breach-plugin) pushed_at:2019-03 This is a Minion plugin for determining whether a site is vulnerable to BREACH.
 - [mozilla/minion-core](https://github.com/mozilla/minion-core) pushed_at:2019-03 Minion Core
@@ -1991,7 +1995,7 @@
 - [mozilla/missioncontrol](https://github.com/mozilla/missioncontrol) pushed_at:2020-12 Real-time monitoring of Firefox release health
 - [mozilla/MoDataSubmission](https://github.com/mozilla/MoDataSubmission) pushed_at:2020-08 Simple server that records submitted data to S3
 - [mozilla/mofo-allhands-event-app-data-processor](https://github.com/mozilla/mofo-allhands-event-app-data-processor) pushed_at:2016-09 a Python script that fetches data from a Google spreadsheet, transforms to JSON, then commits a data file to a GitHub repo.
-- [mozilla/mofo-redirector](https://github.com/mozilla/mofo-redirector) pushed_at:2020-10 A Flask server for implementing temporary and permanent redirects of various MoFo hostnames.
+- [mozilla/mofo-redirector](https://github.com/mozilla/mofo-redirector) pushed_at:2021-01 A Flask server for implementing temporary and permanent redirects of various MoFo hostnames.
 - [mozilla/monolith-aggregator](https://github.com/mozilla/monolith-aggregator) pushed_at:2018-01 The script that feeds the Monolith Database No longer maintained
 - [mozilla/monolith-client](https://github.com/mozilla/monolith-client) pushed_at:2019-11 Python client lib for interacting with a Monolith server
 - [mozilla/moz-crash-rate-aggregates](https://github.com/mozilla/moz-crash-rate-aggregates) pushed_at:2019-03 The repository is no longer used for the crash rate aggregates. The new code can be found at https://github.com/mozilla/telemetry-batch-view/blob/master/docs/CrashAggregateView.md.
@@ -2029,7 +2033,7 @@
 - [mozilla/mozmill-automation](https://github.com/mozilla/mozmill-automation) pushed_at:2015-08 Deprecated project - Please check firefox-ui-tests
 - [mozilla/mozmill-ci](https://github.com/mozilla/mozmill-ci) pushed_at:2017-06 [OBSOLETE] Mozmill CI system driven by Mozilla Pulse and Jenkins
 - [mozilla/mozmill-environment](https://github.com/mozilla/mozmill-environment) pushed_at:2015-10 DEPRECATED project - Check firefox-ui-tests instead
-- [mozilla/mozmoderator](https://github.com/mozilla/mozmoderator) pushed_at:2020-12 Mozilla Moderator App
+- [mozilla/mozmoderator](https://github.com/mozilla/mozmoderator) pushed_at:2021-01 Mozilla Moderator App
 - [mozilla/mozpay-py](https://github.com/mozilla/mozpay-py) pushed_at:2019-03 A Python module to make web payments with Mozilla's navigator.mozPay()
 - [mozilla/mozplatformqa-jenkins](https://github.com/mozilla/mozplatformqa-jenkins) pushed_at:2019-03 Repository for Mozilla's Platform QA Jenkins instance utilities
 - [mozilla/mozplatformqa-jenkins-config](https://github.com/mozilla/mozplatformqa-jenkins-config) pushed_at:2016-04 Configuration files for jenkins configuration
@@ -2090,10 +2094,10 @@
 - [mozilla/push-to-bigquery](https://github.com/mozilla/push-to-bigquery) pushed_at:2020-03 Push JSON documents to BigQuery
 - [mozilla/pwmgr_etl](https://github.com/mozilla/pwmgr_etl) pushed_at:2019-03 etl job to wrangle pwmgr data
 - [mozilla/PyBrowserID](https://github.com/mozilla/PyBrowserID) pushed_at:2019-03 python client library for the BrowserID protocol 
-- [mozilla/PyFxA](https://github.com/mozilla/PyFxA) pushed_at:2020-07 Python library for interacting with the Firefox Accounts ecosystem
+- [mozilla/PyFxA](https://github.com/mozilla/PyFxA) pushed_at:2021-01 Python library for interacting with the Firefox Accounts ecosystem
 - [mozilla/PyHawk](https://github.com/mozilla/PyHawk) pushed_at:2019-11 **UNMAINTAINED** Python library for HAWK HTTP authentication
 - [mozilla/PyHive](https://github.com/mozilla/PyHive) pushed_at:2018-06 Python interface to Hive and Presto. 🐝
-- [mozilla/pyjexl](https://github.com/mozilla/pyjexl) pushed_at:2020-11 
+- [mozilla/pyjexl](https://github.com/mozilla/pyjexl) pushed_at:2021-01 
 - [mozilla/pymake](https://github.com/mozilla/pymake) pushed_at:2019-03 make implementation in Python
 - [mozilla/PyPOM](https://github.com/mozilla/PyPOM) pushed_at:2019-11 Python page object model for Selenium
 - [mozilla/pytest-fxa](https://github.com/mozilla/pytest-fxa) pushed_at:2019-09 pytest plugin for Firefox Accounts
@@ -2152,7 +2156,7 @@
 - [mozilla/solitude-auth](https://github.com/mozilla/solitude-auth) pushed_at:2015-07 Authentication for solitude so it can speak to payment providers
 - [mozilla/source](https://github.com/mozilla/source) pushed_at:2019-03 Code for source.mozillaopennews.org/
 - [mozilla/spark-lib](https://github.com/mozilla/spark-lib) pushed_at:2019-03 Vendor libraries for the Spark campaign.
-- [mozilla/sphinx-js](https://github.com/mozilla/sphinx-js) pushed_at:2020-12 Autodoc-style extraction into Sphinx for your JS project
+- [mozilla/sphinx-js](https://github.com/mozilla/sphinx-js) pushed_at:2021-01 Autodoc-style extraction into Sphinx for your JS project
 - [mozilla/spicedham](https://github.com/mozilla/spicedham) pushed_at:2019-03 
 - [mozilla/spikes](https://github.com/mozilla/spikes) pushed_at:2020-04 
 - [mozilla/splice](https://github.com/mozilla/splice) pushed_at:2019-04 Firefox Tiles Ingestion, Validation and Reporting tool
@@ -2240,7 +2244,7 @@
 - [mozilla/webtools-workermgmt-lib](https://github.com/mozilla/webtools-workermgmt-lib) pushed_at:2019-03 
 - [mozilla/wikimo_content](https://github.com/mozilla/wikimo_content) pushed_at:2019-03  WikiMo documentation (mainly the security space, but everyone's welcome to use this)
 - [mozilla/woodstock](https://github.com/mozilla/woodstock) pushed_at:2015-09 *Unmaintained, verify dependencies before using* Go big or go home...
-- [mozilla/wpt-api](https://github.com/mozilla/wpt-api) pushed_at:2020-12 
+- [mozilla/wpt-api](https://github.com/mozilla/wpt-api) pushed_at:2021-01 
 - [mozilla/wpt-sync](https://github.com/mozilla/wpt-sync) pushed_at:2021-01 Two-way repository sync between web-platform-tests and gecko
 - [mozilla/xpihub](https://github.com/mozilla/xpihub) pushed_at:2020-12 Cataloging and publishing service for Mozilla XPIs
 - [mozilla/xpisign.py](https://github.com/mozilla/xpisign.py) pushed_at:2012-10 XP-Install (xpi) code signing.
@@ -2254,7 +2258,7 @@
 - [mozilla/execCIProject](https://github.com/mozilla/execCIProject) pushed_at:2015-12 
 - [mozilla/fhr-r-rollups](https://github.com/mozilla/fhr-r-rollups) pushed_at:2019-03 R Scripts that Create Summaries from 1% Sample of the FHR Data
 - [mozilla/fhr-v2-v4-executive](https://github.com/mozilla/fhr-v2-v4-executive) pushed_at:2019-03 R code to produce data for exec syncups
-- [mozilla/fission-monitoring-nightly](https://github.com/mozilla/fission-monitoring-nightly) pushed_at:2020-12 
+- [mozilla/fission-monitoring-nightly](https://github.com/mozilla/fission-monitoring-nightly) pushed_at:2021-01 
 - [mozilla/glamvalid](https://github.com/mozilla/glamvalid) pushed_at:2020-11 Generates Some Plots for Validating Glam. 
 - [mozilla/missioncontrol-v2](https://github.com/mozilla/missioncontrol-v2) pushed_at:2020-05 An alternate view of crash and stability
 - [mozilla/rappor](https://github.com/mozilla/rappor) pushed_at:2017-09 RAPPOR: Privacy-Preserving Reporting Algorithms
@@ -2317,15 +2321,15 @@
 - [mozilla/janus-plugin-sfu](https://github.com/mozilla/janus-plugin-sfu) pushed_at:2020-04 Janus plugin to act as a kind of SFU for game networking data.
 - [mozilla/jexl-rs](https://github.com/mozilla/jexl-rs) pushed_at:2020-10 JEXL in Rust
 - [mozilla/jsonschema-transpiler](https://github.com/mozilla/jsonschema-transpiler) pushed_at:2020-10 Compile JSON Schema into Avro and BigQuery schemas
-- [mozilla/lmdb-rs](https://github.com/mozilla/lmdb-rs) pushed_at:2020-11 Safe Rust bindings for LMDB
+- [mozilla/lmdb-rs](https://github.com/mozilla/lmdb-rs) pushed_at:2021-01 Safe Rust bindings for LMDB
 - [mozilla/mentat](https://github.com/mozilla/mentat) pushed_at:2018-09 UNMAINTAINED A persistent, relational store inspired by Datomic and DataScript.
 - [mozilla/moz-cheddar](https://github.com/mozilla/moz-cheddar) pushed_at:2017-11 UNMAINTAINED: A Rust crate for automatically generating C header files from Rust source file. Fork of sean1708's rusty-cheddar.
-- [mozilla/mp4parse-rust](https://github.com/mozilla/mp4parse-rust) pushed_at:2020-12 Parser for ISO Base Media Format aka video/mp4 written in Rust.
+- [mozilla/mp4parse-rust](https://github.com/mozilla/mp4parse-rust) pushed_at:2021-01 Parser for ISO Base Media Format aka video/mp4 written in Rust.
 - [mozilla/mp4parse_fallible](https://github.com/mozilla/mp4parse_fallible) pushed_at:2020-03 Fallible variant of Vec optionally used in the mp4parse crate.
-- [mozilla/neqo](https://github.com/mozilla/neqo) pushed_at:2020-12 
+- [mozilla/neqo](https://github.com/mozilla/neqo) pushed_at:2021-01 
 - [mozilla/nimbus-sdk](https://github.com/mozilla/nimbus-sdk) pushed_at:2021-01 Cross Platform Rapid Experiments "Nimbus" SDK
 - [mozilla/pyo3-parsepatch](https://github.com/mozilla/pyo3-parsepatch) pushed_at:2020-11 Python wrapping for rust-parsepatch
-- [mozilla/rkv](https://github.com/mozilla/rkv) pushed_at:2020-12 A simple, humane, typed Rust interface to LMDB.
+- [mozilla/rkv](https://github.com/mozilla/rkv) pushed_at:2021-01 A simple, humane, typed Rust interface to LMDB.
 - [mozilla/rust-cascade](https://github.com/mozilla/rust-cascade) pushed_at:2020-04 A filter cascade implementation in rust
 - [mozilla/rust-ece](https://github.com/mozilla/rust-ece) pushed_at:2020-09 Encrypted Content-Encoding for HTTP (RFC 8188) Rust implementation
 - [mozilla/rust-parsepatch](https://github.com/mozilla/rust-parsepatch) pushed_at:2021-01 Git patch parser in Rust
@@ -2334,7 +2338,7 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) pushed_at:2021-01 sccache is ccache with cloud storage
 - [mozilla/tls-interop](https://github.com/mozilla/tls-interop) pushed_at:2020-08 
 - [mozilla/toodle](https://github.com/mozilla/toodle) pushed_at:2018-12 Example project showing a not-very-real-world app with Rust storage running on iOS, on Android, and in a WebExtension.  Please follow progress on Mozilla's next generation cross platform sync and storage solution at https://github.com/mozilla/mentat.
-- [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) pushed_at:2020-12 a multi-language bindings generator for rust
+- [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) pushed_at:2021-01 a multi-language bindings generator for rust
 - [mozilla/webdriver-rust](https://github.com/mozilla/webdriver-rust) pushed_at:2019-03 Library implementing the wire protocol for the W3C WebDriver standard.
 - [mozilla/webrtc-sdp](https://github.com/mozilla/webrtc-sdp) pushed_at:2021-01 Rust SDP parser for WebRTC
 
@@ -2425,11 +2429,11 @@
 ## TypeScript
 
 - [mozilla/addons-code-manager](https://github.com/mozilla/addons-code-manager) pushed_at:2021-01 A web application to manage add-on source code
-- [mozilla/addons-scanner-utils](https://github.com/mozilla/addons-scanner-utils) pushed_at:2020-12 🛠 Various addons related helpers to build CLIs.
+- [mozilla/addons-scanner-utils](https://github.com/mozilla/addons-scanner-utils) pushed_at:2021-01 🛠 Various addons related helpers to build CLIs.
 - [mozilla/common-voice](https://github.com/mozilla/common-voice) pushed_at:2021-01 Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 - [mozilla/glean.js](https://github.com/mozilla/glean.js) pushed_at:2021-01 An implementation of Glean, a modern cross-platform telemetry client, for Javascript environments.
 - [mozilla/jestr-pioneer-shield-study](https://github.com/mozilla/jestr-pioneer-shield-study) pushed_at:2020-05 JESTr Pioneer Shield Study Add-on
-- [mozilla/nimbus-shared](https://github.com/mozilla/nimbus-shared) pushed_at:2020-12 Shared data and schemas for Project Nimbus
+- [mozilla/nimbus-shared](https://github.com/mozilla/nimbus-shared) pushed_at:2021-01 Shared data and schemas for Project Nimbus
 - [mozilla/openwpm-webext-instrumentation](https://github.com/mozilla/openwpm-webext-instrumentation) pushed_at:2019-06 OpenWPM instrumentation library for WebExtensions. Merged into the main OpenWPM repository, thus archived
 - [mozilla/pioneer-utils](https://github.com/mozilla/pioneer-utils) pushed_at:2019-04 
 - [mozilla/shumway](https://github.com/mozilla/shumway) pushed_at:2019-04 Shumway is a Flash VM and runtime written in JavaScript

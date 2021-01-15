@@ -55,7 +55,7 @@
 - [pingcap/dead-mans-switch](https://github.com/pingcap/dead-mans-switch) pushed_at:2020-08 A bypass monitoring prober
 - [pingcap/dm](https://github.com/pingcap/dm) pushed_at:2021-01 Data Migration Platform
 - [pingcap/dt](https://github.com/pingcap/dt) pushed_at:2015-08 
-- [pingcap/dumpling](https://github.com/pingcap/dumpling) pushed_at:2020-12 Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud(S3, GCP...) in multifarious formats(SQL, CSV...).
+- [pingcap/dumpling](https://github.com/pingcap/dumpling) pushed_at:2021-01 Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud(S3, GCP...) in multifarious formats(SQL, CSV...).
 - [pingcap/errcode](https://github.com/pingcap/errcode) pushed_at:2020-07 
 - [pingcap/errors](https://github.com/pingcap/errors) pushed_at:2020-11 Simple error handling primitives
 - [pingcap/etcdv3-gateway](https://github.com/pingcap/etcdv3-gateway) pushed_at:2016-03 Gateway for etcdv3
@@ -131,7 +131,7 @@
 - [pingcap/docs-internals](https://github.com/pingcap/docs-internals) pushed_at:2020-06 
 - [pingcap/logo](https://github.com/pingcap/logo) pushed_at:2018-09 logo for PingCAP
 - [pingcap/meetup](https://github.com/pingcap/meetup) pushed_at:2020-08 
-- [pingcap/presentations](https://github.com/pingcap/presentations) pushed_at:2020-11 
+- [pingcap/presentations](https://github.com/pingcap/presentations) pushed_at:2021-01 
 - [pingcap/style-guide](https://github.com/pingcap/style-guide) pushed_at:2020-04 Style guide for PingCAP and TiKV code
 - [pingcap/ticdc-lib](https://github.com/pingcap/ticdc-lib) pushed_at:2020-09 
 - [pingcap/tidb-academy-labs](https://github.com/pingcap/tidb-academy-labs) pushed_at:2020-03 
@@ -146,7 +146,7 @@
 
 ## Python
 
-- [pingcap/dev-guide](https://github.com/pingcap/dev-guide) pushed_at:2020-12 
+- [pingcap/dev-guide](https://github.com/pingcap/dev-guide) pushed_at:2021-01 
 - [pingcap/docs](https://github.com/pingcap/docs) pushed_at:2021-01 TiDB/TiKV/PD documentation.
 - [pingcap/docs-cn](https://github.com/pingcap/docs-cn) pushed_at:2021-01 TiDB/TiKV/PD documentation in Chinese.
 - [pingcap/docs-dm](https://github.com/pingcap/docs-dm) pushed_at:2021-01 Documentation for the TiDB Data Migration (DM) tool in both English and Chinese.
@@ -168,7 +168,7 @@
 - [pingcap/grpc-rust](https://github.com/pingcap/grpc-rust) pushed_at:2017-05 Rust implementation of gRPC (not ready yet)
 - [pingcap/murmur3](https://github.com/pingcap/murmur3) pushed_at:2018-03 A rust implementation of murmur3
 - [pingcap/rust-protobuf](https://github.com/pingcap/rust-protobuf) pushed_at:2020-10 Rust implementation of Google protocol buffers
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) pushed_at:2020-12 open source training courses about distributed database and distributed systemes
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) pushed_at:2021-01 open source training courses about distributed database and distributed systemes
 
 ## Shell
 

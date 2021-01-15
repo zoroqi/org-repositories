@@ -56,7 +56,7 @@
 
 ## HCL
 
-- [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra) pushed_at:2020-12 Rust Infrastructure automation
+- [rust-lang/simpleinfra](https://github.com/rust-lang/simpleinfra) pushed_at:2021-01 Rust Infrastructure automation
 
 ## HTML
 
@@ -105,7 +105,7 @@
 - [rust-lang/project-inline-asm](https://github.com/rust-lang/project-inline-asm) pushed_at:2020-03 Home for the Inline Assembly project group
 - [rust-lang/project-portable-simd](https://github.com/rust-lang/project-portable-simd) pushed_at:2020-11 Portable SIMD project group
 - [rust-lang/project-rfc-2229](https://github.com/rust-lang/project-rfc-2229) pushed_at:2020-09 A repository tracking the planning for implementation and evaluation of RFC 2229.
-- [rust-lang/project-safe-transmute](https://github.com/rust-lang/project-safe-transmute) pushed_at:2020-09 Project group working on the "safe transmute" feature
+- [rust-lang/project-safe-transmute](https://github.com/rust-lang/project-safe-transmute) pushed_at:2021-01 Project group working on the "safe transmute" feature
 - [rust-lang/release-team](https://github.com/rust-lang/release-team) pushed_at:2020-02 
 - [rust-lang/rust-artwork](https://github.com/rust-lang/rust-artwork) pushed_at:2019-10 Official artwork for the Rust project.
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) pushed_at:2021-01 Learn Rust with examples (Live code editor included)
@@ -158,11 +158,11 @@
 - [rust-lang/ena](https://github.com/rust-lang/ena) pushed_at:2020-11 An implementation of union-find / congruence-closure in Rust. Extracted from rustc for independent experimentation.
 - [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) pushed_at:2021-01 Zero-cost asynchronous programming in Rust
 - [rust-lang/generate-manifest-list](https://github.com/rust-lang/generate-manifest-list) pushed_at:2019-09 Creates a list of manifests on static.rust-lang.org
-- [rust-lang/getopts](https://github.com/rust-lang/getopts) pushed_at:2020-12 
+- [rust-lang/getopts](https://github.com/rust-lang/getopts) pushed_at:2021-01 
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) pushed_at:2021-01 libgit2 bindings for Rust
 - [rust-lang/glacier](https://github.com/rust-lang/glacier) pushed_at:2021-01 A big 'ol pile of ICE.
 - [rust-lang/gll](https://github.com/rust-lang/gll) pushed_at:2020-09 GLL parsing framework.
-- [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) pushed_at:2020-12 Rust port of Google's SwissTable hash map
+- [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) pushed_at:2021-01 Rust port of Google's SwissTable hash map
 - [rust-lang/libc](https://github.com/rust-lang/libc) pushed_at:2021-01 Raw bindings to platform APIs for Rust
 - [rust-lang/libm](https://github.com/rust-lang/libm) pushed_at:2021-01 A port of MUSL's libm to Rust.
 - [rust-lang/libs-team](https://github.com/rust-lang/libs-team) pushed_at:2021-01 The home of the library team
@@ -172,15 +172,15 @@
 - [rust-lang/mailgun-mailmap](https://github.com/rust-lang/mailgun-mailmap) pushed_at:2019-02 Mail configuration for rust-lang domains
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) pushed_at:2021-01 Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust-lang/measureme](https://github.com/rust-lang/measureme) pushed_at:2020-12 Support crate for rustc's self-profiling feature
-- [rust-lang/miri](https://github.com/rust-lang/miri) pushed_at:2020-12 An interpreter for Rust's mid-level intermediate representation
-- [rust-lang/monitorbot](https://github.com/rust-lang/monitorbot) pushed_at:2020-12 Monitoring of external API services Rust infrastructure relies upon
+- [rust-lang/miri](https://github.com/rust-lang/miri) pushed_at:2021-01 An interpreter for Rust's mid-level intermediate representation
+- [rust-lang/monitorbot](https://github.com/rust-lang/monitorbot) pushed_at:2021-01 Monitoring of external API services Rust infrastructure relies upon
 - [rust-lang/packed_simd](https://github.com/rust-lang/packed_simd) pushed_at:2021-01 Portable Packed SIMD Vectors for Rust standard library
 - [rust-lang/pin-utils](https://github.com/rust-lang/pin-utils) pushed_at:2021-01 Utilities for pinning
 - [rust-lang/pkg-config-rs](https://github.com/rust-lang/pkg-config-rs) pushed_at:2020-10 Build library for invoking pkg-config for Rust
 - [rust-lang/polonius](https://github.com/rust-lang/polonius) pushed_at:2021-01 Defines the Rust borrow checker.
 - [rust-lang/promote-release](https://github.com/rust-lang/promote-release) pushed_at:2020-12 Tooling to publish Rust releases.
 - [rust-lang/reference](https://github.com/rust-lang/reference) pushed_at:2021-01 The Rust Reference
-- [rust-lang/regex](https://github.com/rust-lang/regex) pushed_at:2020-12 An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
+- [rust-lang/regex](https://github.com/rust-lang/regex) pushed_at:2021-01 An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
 - [rust-lang/relnotes](https://github.com/rust-lang/relnotes) pushed_at:2021-01 Generate release notes for "The Rust Programming Language"
 - [rust-lang/rfcbot-rs](https://github.com/rust-lang/rfcbot-rs) pushed_at:2020-08 Coordinates asynchronous decision making on Rust repositories. Status of tracked issues and PRs can be viewed at https://rfcbot.rs.
 - [rust-lang/rls](https://github.com/rust-lang/rls) pushed_at:2021-01 Repository for the Rust Language Server (aka RLS)
@@ -192,7 +192,7 @@
 - [rust-lang/rust-log-analyzer](https://github.com/rust-lang/rust-log-analyzer) pushed_at:2020-12 Analyzing Travis and Azure Pipelines logs to find encountered errors
 - [rust-lang/rust-playpen](https://github.com/rust-lang/rust-playpen) pushed_at:2017-10 A web interface for running Rust code
 - [rust-lang/rust-repos](https://github.com/rust-lang/rust-repos) pushed_at:2021-01 Dataset of Rust source code repositories
-- [rust-lang/rust-semverver](https://github.com/rust-lang/rust-semverver) pushed_at:2020-11 Automatic checking for semantic versioning in library crates
+- [rust-lang/rust-semverver](https://github.com/rust-lang/rust-semverver) pushed_at:2021-01 Automatic checking for semantic versioning in library crates
 - [rust-lang/rustc-hash](https://github.com/rust-lang/rustc-hash) pushed_at:2020-11 Custom hash algorithm used by rustc (plus hashmap/set aliases): fast, deterministic, not secure
 - [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf) pushed_at:2021-01 Website for graphing performance of rustc
 - [rust-lang/rustc-rayon](https://github.com/rust-lang/rustc-rayon) pushed_at:2020-03 Rayon: A data parallelism library for Rust
@@ -203,9 +203,9 @@
 - [rust-lang/rustup-components-history](https://github.com/rust-lang/rustup-components-history) pushed_at:2021-01 Rustup package status history
 - [rust-lang/rustwide](https://github.com/rust-lang/rustwide) pushed_at:2020-11 Execute your code on the Rust ecosystem.
 - [rust-lang/socket2](https://github.com/rust-lang/socket2) pushed_at:2021-01 Advanced configuration options for sockets.
-- [rust-lang/stacker](https://github.com/rust-lang/stacker) pushed_at:2020-11 Manual segmented stacks for Rust
+- [rust-lang/stacker](https://github.com/rust-lang/stacker) pushed_at:2021-01 Manual segmented stacks for Rust
 - [rust-lang/stdsimd](https://github.com/rust-lang/stdsimd) pushed_at:2021-01 The testing ground for the future of portable SIMD in Rust
-- [rust-lang/sync-team](https://github.com/rust-lang/sync-team) pushed_at:2020-06 Synchronize the team repository with the services we use
+- [rust-lang/sync-team](https://github.com/rust-lang/sync-team) pushed_at:2021-01 Synchronize the team repository with the services we use
 - [rust-lang/team](https://github.com/rust-lang/team) pushed_at:2021-01 Rust teams structure
 - [rust-lang/thanks](https://github.com/rust-lang/thanks) pushed_at:2021-01 Celebrate Rust contributors.
 - [rust-lang/triagebot](https://github.com/rust-lang/triagebot) pushed_at:2021-01 Triage Bot
@@ -225,7 +225,7 @@
 
 ## Vim script
 
-- [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) pushed_at:2020-12 Vim configuration for Rust.
+- [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) pushed_at:2021-01 Vim configuration for Rust.
 
 
 ## License

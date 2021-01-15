@@ -17,12 +17,12 @@
 - [golang/appengine](https://github.com/golang/appengine) pushed_at:2020-12 Go App Engine packages
 - [golang/arch](https://github.com/golang/arch) pushed_at:2021-01 [mirror] architecture code
 - [golang/benchmarks](https://github.com/golang/benchmarks) pushed_at:2019-11 Benchmarks for the perf dashboard
-- [golang/build](https://github.com/golang/build) pushed_at:2020-12 [mirror] Go's continuous build and release infrastructure (no stability promises)
+- [golang/build](https://github.com/golang/build) pushed_at:2021-01 [mirror] Go's continuous build and release infrastructure (no stability promises)
 - [golang/crypto](https://github.com/golang/crypto) pushed_at:2021-01 [mirror] Go supplementary cryptography libraries
 - [golang/debug](https://github.com/golang/debug) pushed_at:2020-12 [mirror] debugging tools
 - [golang/dep](https://github.com/golang/dep) pushed_at:2020-09 Go dependency management tool experiment (deprecated)
 - [golang/dl](https://github.com/golang/dl) pushed_at:2020-12 [mirror] go get golang.org/dl/go1.N
-- [golang/example](https://github.com/golang/example) pushed_at:2020-07 Go example projects
+- [golang/example](https://github.com/golang/example) pushed_at:2021-01 Go example projects
 - [golang/exp](https://github.com/golang/exp) pushed_at:2021-01 [mirror] Experimental and deprecated packages
 - [golang/freetype](https://github.com/golang/freetype) pushed_at:2020-12 The Freetype font rasterizer in the Go programming language.
 - [golang/gddo](https://github.com/golang/gddo) pushed_at:2020-12 Go Doc Dot Org
@@ -37,7 +37,7 @@
 - [golang/lint](https://github.com/golang/lint) pushed_at:2020-12 [mirror] This is a linter for Go source code.
 - [golang/mobile](https://github.com/golang/mobile) pushed_at:2021-01 [mirror] Go on Mobile
 - [golang/mock](https://github.com/golang/mock) pushed_at:2020-12 GoMock is a mocking framework for the Go programming language.
-- [golang/mod](https://github.com/golang/mod) pushed_at:2020-12 [mirror] Go module mechanics libraries
+- [golang/mod](https://github.com/golang/mod) pushed_at:2021-01 [mirror] Go module mechanics libraries
 - [golang/net](https://github.com/golang/net) pushed_at:2020-12 [mirror] Go supplementary network libraries
 - [golang/oauth2](https://github.com/golang/oauth2) pushed_at:2021-01 Go OAuth2
 - [golang/perf](https://github.com/golang/perf) pushed_at:2020-12 [mirror] Performance measurement, storage, and analysis.
@@ -52,7 +52,7 @@
 - [golang/sys](https://github.com/golang/sys) pushed_at:2021-01 [mirror] Go packages for low-level interaction with the operating system
 - [golang/talks](https://github.com/golang/talks) pushed_at:2020-11 Go talks
 - [golang/term](https://github.com/golang/term) pushed_at:2020-12 Go terminal and console support
-- [golang/text](https://github.com/golang/text) pushed_at:2020-12 [mirror] Go text processing support
+- [golang/text](https://github.com/golang/text) pushed_at:2021-01 [mirror] Go text processing support
 - [golang/time](https://github.com/golang/time) pushed_at:2020-12 [mirror] Go supplementary time packages
 - [golang/tools](https://github.com/golang/tools) pushed_at:2021-01 [mirror] Go Tools
 - [golang/tour](https://github.com/golang/tour) pushed_at:2020-12 [mirror] A Tour of Go

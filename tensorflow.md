@@ -12,10 +12,10 @@
 - [Haskell](#haskell) (1)
 - [Java](#java) (2)
 - [JavaScript](#javascript) (1)
-- [Jupyter Notebook](#jupyter-notebook) (13)
+- [Jupyter Notebook](#jupyter-notebook) (14)
 - [MLIR](#mlir) (1)
 - [Others](#others) (4)
-- [Python](#python) (39)
+- [Python](#python) (38)
 - [Rust](#rust) (1)
 - [Scala](#scala) (1)
 - [Shell](#shell) (1)
@@ -63,14 +63,15 @@
 
 - [tensorflow/adanet](https://github.com/tensorflow/adanet) pushed_at:2020-07 Fast and flexible AutoML with learning guarantees.
 - [tensorflow/docs](https://github.com/tensorflow/docs) pushed_at:2021-01 TensorFlow documentation
-- [tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) pushed_at:2020-12 Translations of TensorFlow documentation
+- [tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) pushed_at:2021-01 Translations of TensorFlow documentation
 - [tensorflow/examples](https://github.com/tensorflow/examples) pushed_at:2021-01 TensorFlow examples
+- [tensorflow/fairness-indicators](https://github.com/tensorflow/fairness-indicators) pushed_at:2021-01 Tensorflow's Fairness Evaluation and Visualization Toolkit
 - [tensorflow/gan](https://github.com/tensorflow/gan) pushed_at:2020-11 Tooling for GANs in TensorFlow
-- [tensorflow/lucid](https://github.com/tensorflow/lucid) pushed_at:2020-12 A collection of infrastructure and tools for research in neural network interpretability.
+- [tensorflow/lucid](https://github.com/tensorflow/lucid) pushed_at:2021-01 A collection of infrastructure and tools for research in neural network interpretability.
 - [tensorflow/probability](https://github.com/tensorflow/probability) pushed_at:2021-01 Probabilistic reasoning and statistical analysis in TensorFlow
 - [tensorflow/swift](https://github.com/tensorflow/swift) pushed_at:2021-01 Swift for TensorFlow
 - [tensorflow/swift-models](https://github.com/tensorflow/swift-models) pushed_at:2021-01 Models and examples built with Swift for TensorFlow
-- [tensorflow/tcav](https://github.com/tensorflow/tcav) pushed_at:2020-12 Code for the TCAV ML interpretability project
+- [tensorflow/tcav](https://github.com/tensorflow/tcav) pushed_at:2021-01 Code for the TCAV ML interpretability project
 - [tensorflow/tensorrt](https://github.com/tensorflow/tensorrt) pushed_at:2020-12 TensorFlow/TensorRT integration
 - [tensorflow/tpu](https://github.com/tensorflow/tpu) pushed_at:2021-01 Reference models and tools for Cloud TPUs.
 - [tensorflow/workshops](https://github.com/tensorflow/workshops) pushed_at:2020-11 A few exercises for use at events.
@@ -83,7 +84,7 @@
 
 - [tensorflow/community](https://github.com/tensorflow/community) pushed_at:2021-01 Stores documents used by the TensorFlow developer community
 - [tensorflow/mlir](https://github.com/tensorflow/mlir) pushed_at:2019-12 "Multi-Level Intermediate Representation" Compiler Infrastructure
-- [tensorflow/recommenders-addons](https://github.com/tensorflow/recommenders-addons) pushed_at:2020-12 Additional utils and helpers to extend TensorFlow when build recommendation systems, contributed and maintained by SIG Recommenders.
+- [tensorflow/recommenders-addons](https://github.com/tensorflow/recommenders-addons) pushed_at:2021-01 Additional utils and helpers to extend TensorFlow when build recommendation systems, contributed and maintained by SIG Recommenders.
 - [tensorflow/tfrc](https://github.com/tensorflow/tfrc) pushed_at:2019-07 
 
 ## Python
@@ -94,10 +95,9 @@
 - [tensorflow/benchmarks](https://github.com/tensorflow/benchmarks) pushed_at:2021-01  A benchmark framework for Tensorflow
 - [tensorflow/cloud](https://github.com/tensorflow/cloud) pushed_at:2021-01 The TensorFlow Cloud repository provides APIs that will allow to easily go from debugging and training your Keras and TensorFlow code in a local environment to distributed training in the cloud.
 - [tensorflow/compression](https://github.com/tensorflow/compression) pushed_at:2021-01 Data compression in TensorFlow
-- [tensorflow/data-validation](https://github.com/tensorflow/data-validation) pushed_at:2020-12 Library for exploring and validating machine learning data
+- [tensorflow/data-validation](https://github.com/tensorflow/data-validation) pushed_at:2021-01 Library for exploring and validating machine learning data
 - [tensorflow/datasets](https://github.com/tensorflow/datasets) pushed_at:2021-01 TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
 - [tensorflow/estimator](https://github.com/tensorflow/estimator) pushed_at:2021-01 TensorFlow Estimator
-- [tensorflow/fairness-indicators](https://github.com/tensorflow/fairness-indicators) pushed_at:2021-01 Tensorflow's Fairness Evaluation and Visualization Toolkit
 - [tensorflow/federated](https://github.com/tensorflow/federated) pushed_at:2021-01 A framework for implementing federated learning
 - [tensorflow/fold](https://github.com/tensorflow/fold) pushed_at:2020-12 Deep learning with dynamic computation graphs in TensorFlow
 - [tensorflow/graphics](https://github.com/tensorflow/graphics) pushed_at:2021-01 TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow
@@ -110,22 +110,22 @@
 - [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) pushed_at:2021-01 Model analysis tools for TensorFlow
 - [tensorflow/model-card-toolkit](https://github.com/tensorflow/model-card-toolkit) pushed_at:2021-01  a tool that leverages rich metadata and lineage information in MLMD to build a model card
 - [tensorflow/model-optimization](https://github.com/tensorflow/model-optimization) pushed_at:2021-01 A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning.
-- [tensorflow/model-remediation](https://github.com/tensorflow/model-remediation) pushed_at:2020-12 Model Remediation is a library that provides solutions for machine learning practitioners working to create and train models in a way that reduces or eliminates user harm resulting from underlying performance biases.
+- [tensorflow/model-remediation](https://github.com/tensorflow/model-remediation) pushed_at:2021-01 Model Remediation is a library that provides solutions for machine learning practitioners working to create and train models in a way that reduces or eliminates user harm resulting from underlying performance biases.
 - [tensorflow/models](https://github.com/tensorflow/models) pushed_at:2021-01 Models and examples built with TensorFlow
-- [tensorflow/moonlight](https://github.com/tensorflow/moonlight) pushed_at:2020-11 Optical music recognition in TensorFlow
+- [tensorflow/moonlight](https://github.com/tensorflow/moonlight) pushed_at:2021-01 Optical music recognition in TensorFlow
 - [tensorflow/neural-structured-learning](https://github.com/tensorflow/neural-structured-learning) pushed_at:2021-01 Training neural models with structured signals.
 - [tensorflow/nmt](https://github.com/tensorflow/nmt) pushed_at:2019-02 TensorFlow Neural Machine Translation Tutorial
 - [tensorflow/privacy](https://github.com/tensorflow/privacy) pushed_at:2021-01 Library for training machine learning models with privacy for training data
 - [tensorflow/quantum](https://github.com/tensorflow/quantum) pushed_at:2021-01 Hybrid Quantum-Classical Machine Learning in TensorFlow
 - [tensorflow/ranking](https://github.com/tensorflow/ranking) pushed_at:2020-08 Learning to Rank in TensorFlow
-- [tensorflow/recommenders](https://github.com/tensorflow/recommenders) pushed_at:2020-12 TensorFlow Recommenders is a library for building recommender system models using TensorFlow.
+- [tensorflow/recommenders](https://github.com/tensorflow/recommenders) pushed_at:2021-01 TensorFlow Recommenders is a library for building recommender system models using TensorFlow.
 - [tensorflow/skflow](https://github.com/tensorflow/skflow) pushed_at:2020-04 Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) pushed_at:2020-12 Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [tensorflow/tensorboard-plugin-example](https://github.com/tensorflow/tensorboard-plugin-example) pushed_at:2019-08 
 - [tensorflow/text](https://github.com/tensorflow/text) pushed_at:2021-01 Making text a first-class citizen in TensorFlow.
 - [tensorflow/tfhub.dev](https://github.com/tensorflow/tfhub.dev) pushed_at:2021-01 
 - [tensorflow/tfx](https://github.com/tensorflow/tfx) pushed_at:2021-01  TFX is an end-to-end platform for deploying production ML pipelines
-- [tensorflow/tfx-bsl](https://github.com/tensorflow/tfx-bsl) pushed_at:2020-12 Common code for TFX
+- [tensorflow/tfx-bsl](https://github.com/tensorflow/tfx-bsl) pushed_at:2021-01 Common code for TFX
 - [tensorflow/transform](https://github.com/tensorflow/transform) pushed_at:2021-01 Input pipeline framework
 
 ## Rust
@@ -138,7 +138,7 @@
 
 ## Shell
 
-- [tensorflow/build](https://github.com/tensorflow/build) pushed_at:2020-12 Build-related tools for TensorFlow
+- [tensorflow/build](https://github.com/tensorflow/build) pushed_at:2021-01 Build-related tools for TensorFlow
 
 ## Smarty
 
@@ -165,7 +165,7 @@
 - [tensorflow/tfjs-layers](https://github.com/tensorflow/tfjs-layers) pushed_at:2019-08 TensorFlow.js high-level layers API
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) pushed_at:2021-01 Pretrained models for TensorFlow.js
 - [tensorflow/tfjs-node](https://github.com/tensorflow/tfjs-node) pushed_at:2019-08 TensorFlow powered JavaScript library for training and deploying ML models on Node.js.
-- [tensorflow/tfjs-tsne](https://github.com/tensorflow/tfjs-tsne) pushed_at:2020-12 
+- [tensorflow/tfjs-tsne](https://github.com/tensorflow/tfjs-tsne) pushed_at:2021-01 
 - [tensorflow/tfjs-vis](https://github.com/tensorflow/tfjs-vis) pushed_at:2019-08 A set of utilities for in browser visualization with TensorFlow.js
 - [tensorflow/tfjs-wechat](https://github.com/tensorflow/tfjs-wechat) pushed_at:2020-12 WeChat Mini-program plugin for TensorFlow.js
 

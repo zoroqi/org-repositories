@@ -13,8 +13,8 @@
 - [Java](#java) (1)
 - [Julia](#julia) (1)
 - [Jupyter Notebook](#jupyter-notebook) (15)
-- [Others](#others) (6)
-- [Python](#python) (84)
+- [Others](#others) (4)
+- [Python](#python) (86)
 - [Shell](#shell) (1)
 - [Swift](#swift) (1)
 - [TeX](#tex) (1)
@@ -23,11 +23,11 @@
 ## C++
 
 - [google-research/math-opt-benchmark](https://github.com/google-research/math-opt-benchmark) pushed_at:2020-11 
-- [google-research/mozolm](https://github.com/google-research/mozolm) pushed_at:2020-12 MozoLM: A language model (LM) serving library
+- [google-research/mozolm](https://github.com/google-research/mozolm) pushed_at:2021-01 MozoLM: A language model (LM) serving library
 - [google-research/sputnik](https://github.com/google-research/sputnik) pushed_at:2020-11 A library of GPU kernels for sparse matrix operations.
 - [google-research/structured-additive-IR](https://github.com/google-research/structured-additive-IR) pushed_at:2021-01 
 - [google-research/tf-opt](https://github.com/google-research/tf-opt) pushed_at:2020-11 
-- [google-research/tiny-differentiable-simulator](https://github.com/google-research/tiny-differentiable-simulator) pushed_at:2020-12 Tiny Differentiable Simulator is a header-only C++ physics library with zero dependencies.
+- [google-research/tiny-differentiable-simulator](https://github.com/google-research/tiny-differentiable-simulator) pushed_at:2021-01 Tiny Differentiable Simulator is a header-only C++ physics library with zero dependencies.
 
 ## Dart
 
@@ -59,20 +59,18 @@
 - [google-research/evoflow](https://github.com/google-research/evoflow) pushed_at:2020-06 
 - [google-research/google-research](https://github.com/google-research/google-research) pushed_at:2021-01 Google Research
 - [google-research/graph-attribution](https://github.com/google-research/graph-attribution) pushed_at:2020-11 Codebase for Evaluating Attribution for Graph Neural Networks.
-- [google-research/kubric](https://github.com/google-research/kubric) pushed_at:2020-12 
+- [google-research/kubric](https://github.com/google-research/kubric) pushed_at:2021-01 
 - [google-research/mnist-c](https://github.com/google-research/mnist-c) pushed_at:2019-06 
 - [google-research/neural-structural-optimization](https://github.com/google-research/neural-structural-optimization) pushed_at:2020-05 Neural reparameterization improves structural optimization
 - [google-research/policy-learning-landscape](https://github.com/google-research/policy-learning-landscape) pushed_at:2019-01 Explore the optimization landscape for direct policy learning reinforcement learning.
-- [google-research/reverse-engineering-neural-networks](https://github.com/google-research/reverse-engineering-neural-networks) pushed_at:2020-12 A collection of tools for reverse engineering neural networks.
+- [google-research/reverse-engineering-neural-networks](https://github.com/google-research/reverse-engineering-neural-networks) pushed_at:2021-01 A collection of tools for reverse engineering neural networks.
 - [google-research/self-organising-systems](https://github.com/google-research/self-organising-systems) pushed_at:2020-09 
 - [google-research/simclr](https://github.com/google-research/simclr) pushed_at:2020-12 SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer) pushed_at:2020-12 
 
 ## Others
 
-- [google-research/brain-language](https://github.com/google-research/brain-language) pushed_at:2020-10 
 - [google-research/gestalt](https://github.com/google-research/gestalt) pushed_at:2019-08 
-- [google-research/perceptual-quality](https://github.com/google-research/perceptual-quality) pushed_at:2020-12 
 - [google-research/reassessed-imagenet](https://github.com/google-research/reassessed-imagenet) pushed_at:2020-08 Labels and other data for the paper "Are we done with ImageNet?"
 - [google-research/robel-scenes](https://github.com/google-research/robel-scenes) pushed_at:2020-07 Shared MuJoCo simulation scenes and assets for ROBEL environments.
 - [google-research/searcho](https://github.com/google-research/searcho) pushed_at:2020-02 
@@ -117,22 +115,24 @@
 - [google-research/mma](https://github.com/google-research/mma) pushed_at:2020-11 
 - [google-research/morph-net](https://github.com/google-research/morph-net) pushed_at:2020-11 Fast & Simple Resource-Constrained Learning of Deep Network Structure
 - [google-research/motion_imitation](https://github.com/google-research/motion_imitation) pushed_at:2020-12 Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
-- [google-research/multilingual-t5](https://github.com/google-research/multilingual-t5) pushed_at:2020-12 
+- [google-research/multilingual-t5](https://github.com/google-research/multilingual-t5) pushed_at:2021-01 
 - [google-research/nasbench](https://github.com/google-research/nasbench) pushed_at:2020-11 NASBench: A Neural Architecture Search Dataset and Benchmark
 - [google-research/nisaba](https://github.com/google-research/nisaba) pushed_at:2021-01 Finite-state script normalization and processing utilities
 - [google-research/noisy-fewshot-learning](https://github.com/google-research/noisy-fewshot-learning) pushed_at:2020-10 
 - [google-research/noisystudent](https://github.com/google-research/noisystudent) pushed_at:2020-11 Code for Noisy Student Training. https://arxiv.org/abs/1911.04252
-- [google-research/open-covid-19-data](https://github.com/google-research/open-covid-19-data) pushed_at:2020-12 Open source aggregation pipeline for public COVID-19 data, including hospitalization/ICU/ventilator numbers for many countries.
+- [google-research/open-covid-19-data](https://github.com/google-research/open-covid-19-data) pushed_at:2021-01 Open source aggregation pipeline for public COVID-19 data, including hospitalization/ICU/ventilator numbers for many countries.
 - [google-research/pddm](https://github.com/google-research/pddm) pushed_at:2020-01 
 - [google-research/pegasus](https://github.com/google-research/pegasus) pushed_at:2021-01 
+- [google-research/perceptual-quality](https://github.com/google-research/perceptual-quality) pushed_at:2021-01 Perceptual quality metrics for TensorFlow
 - [google-research/pisac](https://github.com/google-research/pisac) pushed_at:2020-11 Tensorflow source code for the PI-SAC agent from "Predictive Information Accelerates Learning in RL" (NeurIPS 2020)
 - [google-research/planet](https://github.com/google-research/planet) pushed_at:2020-11 Learning Latent Dynamics for Planning from Pixels
 - [google-research/privateFM](https://github.com/google-research/privateFM) pushed_at:2020-12 Code for differentially private Flajolet-Martin sketch.
 - [google-research/proteinfer](https://github.com/google-research/proteinfer) pushed_at:2020-10 
-- [google-research/ravens](https://github.com/google-research/ravens) pushed_at:2020-12 Train robotic agents to learn pick and place with deep learning for vision-based manipulation in PyBullet. Transporter Nets, CoRL 2020.
+- [google-research/ravens](https://github.com/google-research/ravens) pushed_at:2021-01 Train robotic agents to learn pick and place with deep learning for vision-based manipulation in PyBullet. Transporter Nets, CoRL 2020.
 - [google-research/realworldrl_suite](https://github.com/google-research/realworldrl_suite) pushed_at:2020-08 Real-World RL Benchmark Suite
 - [google-research/receptive_field](https://github.com/google-research/receptive_field) pushed_at:2019-12 Compute receptive fields of your favorite convnets
 - [google-research/recsim](https://github.com/google-research/recsim) pushed_at:2020-06  A Configurable Recommender Systems Simulation Platform
+- [google-research/recsim_ng](https://github.com/google-research/recsim_ng) pushed_at:2021-01 RecSim NG: Toward Principled Uncertainty Modeling for Recommender Ecosystems
 - [google-research/relay-policy-learning](https://github.com/google-research/relay-policy-learning) pushed_at:2020-05 
 - [google-research/remixmatch](https://github.com/google-research/remixmatch) pushed_at:2020-11 
 - [google-research/rigl](https://github.com/google-research/rigl) pushed_at:2020-12 End-to-end training of sparse deep neural networks with little-to-no performance loss. 
@@ -146,7 +146,7 @@
 - [google-research/seed_rl](https://github.com/google-research/seed_rl) pushed_at:2020-09 SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture.
 - [google-research/si-score](https://github.com/google-research/si-score) pushed_at:2020-10 
 - [google-research/soft-dtw-divergences](https://github.com/google-research/soft-dtw-divergences) pushed_at:2020-11 An implementation of soft-DTW divergences.
-- [google-research/sound-separation](https://github.com/google-research/sound-separation) pushed_at:2020-12 
+- [google-research/sound-separation](https://github.com/google-research/sound-separation) pushed_at:2021-01 
 - [google-research/ssl_detection](https://github.com/google-research/ssl_detection) pushed_at:2020-12 Semi-supervised learning for object detection
 - [google-research/tapas](https://github.com/google-research/tapas) pushed_at:2020-11 End-to-end neural table-text understanding models.
 - [google-research/task_adaptation](https://github.com/google-research/task_adaptation) pushed_at:2020-12 
@@ -160,13 +160,13 @@
 - [google-research/uda](https://github.com/google-research/uda) pushed_at:2020-04 Unsupervised Data Augmentation (UDA)
 - [google-research/understanding-transfer-learning](https://github.com/google-research/understanding-transfer-learning) pushed_at:2020-11 
 - [google-research/unique-randomizer](https://github.com/google-research/unique-randomizer) pushed_at:2020-08 
-- [google-research/valan](https://github.com/google-research/valan) pushed_at:2020-12 Vision and Language Agent Navigation 
+- [google-research/valan](https://github.com/google-research/valan) pushed_at:2021-01 Vision and Language Agent Navigation 
 - [google-research/weakly_supervised_control](https://github.com/google-research/weakly_supervised_control) pushed_at:2020-10 
 - [google-research/world_models](https://github.com/google-research/world_models) pushed_at:2020-12 
 
 ## Shell
 
-- [google-research/xtreme](https://github.com/google-research/xtreme) pushed_at:2020-11 XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks.
+- [google-research/xtreme](https://github.com/google-research/xtreme) pushed_at:2021-01 XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks.
 
 ## Swift
 

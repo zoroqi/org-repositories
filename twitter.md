@@ -62,13 +62,13 @@
 
 - [twitter/go-bindata](https://github.com/twitter/go-bindata) pushed_at:2019-10 
 - [twitter/groupcache](https://github.com/twitter/groupcache) pushed_at:2020-12 groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-- [twitter/scoot](https://github.com/twitter/scoot) pushed_at:2020-12 Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
+- [twitter/scoot](https://github.com/twitter/scoot) pushed_at:2021-01 Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
 
 ## HTML
 
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) pushed_at:2019-06 Twitter's Effective Scala Guide
-- [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2020-11 Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2020-12 Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-01 Lessons in the Fundamentals of Scala
+- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-01 Emoji for everyone. https://twemoji.twitter.com/
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2020-12 Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 
 ## Java
@@ -128,7 +128,7 @@
 - [twitter/second-control-probability-distributions](https://github.com/twitter/second-control-probability-distributions) pushed_at:2016-01 
 - [twitter/sekhmet](https://github.com/twitter/sekhmet) pushed_at:2018-06 foundational tools and building blocks for gaining insights and diagnosing system health in real-time
 - [twitter/sslconfig](https://github.com/twitter/sslconfig) pushed_at:2016-05 Twitter's OpenSSL Configuration
-- [twitter/template](https://github.com/twitter/template) pushed_at:2020-12 
+- [twitter/template](https://github.com/twitter/template) pushed_at:2021-01 
 
 ## PHP
 
@@ -178,19 +178,19 @@
 - [twitter/rsc](https://github.com/twitter/rsc) pushed_at:2019-11 Experimental Scala compiler focused on compilation speed
 - [twitter/scala-json](https://github.com/twitter/scala-json) pushed_at:2019-12 JSON in Scala (deprecated)
 - [twitter/scala_school2](https://github.com/twitter/scala_school2) pushed_at:2019-06 Scala School 2
-- [twitter/scalding](https://github.com/twitter/scalding) pushed_at:2020-12 A Scala API for Cascading
-- [twitter/scrooge](https://github.com/twitter/scrooge) pushed_at:2020-12 A Thrift parser/generator
+- [twitter/scalding](https://github.com/twitter/scalding) pushed_at:2021-01 A Scala API for Cascading
+- [twitter/scrooge](https://github.com/twitter/scrooge) pushed_at:2021-01 A Thrift parser/generator
 - [twitter/storehaus](https://github.com/twitter/storehaus) pushed_at:2020-07 Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) pushed_at:2020-11 Streaming MapReduce with Scalding and Storm
 - [twitter/tormenta](https://github.com/twitter/tormenta) pushed_at:2019-06 Scala extensions for Storm
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) pushed_at:2020-10 Korean tokenizer
-- [twitter/twitter-server](https://github.com/twitter/twitter-server) pushed_at:2020-12 Twitter-Server defines a template from which services at Twitter are built
+- [twitter/twitter-server](https://github.com/twitter/twitter-server) pushed_at:2021-01 Twitter-Server defines a template from which services at Twitter are built
 - [twitter/util](https://github.com/twitter/util) pushed_at:2021-01 Wonderful reusable code from Twitter
 
 ## Shell
 
 - [twitter/cache-trace](https://github.com/twitter/cache-trace) pushed_at:2020-11 
-- [twitter/dodo](https://github.com/twitter/dodo) pushed_at:2020-12 The Twitter OSS Project Builder
+- [twitter/dodo](https://github.com/twitter/dodo) pushed_at:2021-01 The Twitter OSS Project Builder
 - [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) pushed_at:2020-12 Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
 
 ## TypeScript

@@ -83,7 +83,7 @@
 - [openai/go-retryablehttp](https://github.com/openai/go-retryablehttp) pushed_at:2020-06 Retryable HTTP client in Go
 - [openai/gpt-3](https://github.com/openai/gpt-3) pushed_at:2020-09 GPT-3: Language Models are Few-Shot Learners
 - [openai/GPT-3-Encoder](https://github.com/openai/GPT-3-Encoder) pushed_at:2020-11 Javascript BPE Encoder Decoder for GPT-2 / GPT-3
-- [openai/jeffwu-dotfiles](https://github.com/openai/jeffwu-dotfiles) pushed_at:2020-09 my configuration files
+- [openai/jeffwu-dotfiles](https://github.com/openai/jeffwu-dotfiles) pushed_at:2021-01 my configuration files
 - [openai/kubernetes](https://github.com/openai/kubernetes) pushed_at:2020-07 Production-Grade Container Scheduling and Management
 - [openai/lustre](https://github.com/openai/lustre) pushed_at:2020-09 
 - [openai/monorepo-diff-buildkite-plugin](https://github.com/openai/monorepo-diff-buildkite-plugin) pushed_at:2019-05 Run separate pipelines for each folder in your monorepo
@@ -123,11 +123,11 @@
 - [openai/maddpg](https://github.com/openai/maddpg) pushed_at:2020-04 Code for the MADDPG algorithm from the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
 - [openai/ml-agents](https://github.com/openai/ml-agents) pushed_at:2020-03 Unity Machine Learning Agents Toolkit
 - [openai/mlsh](https://github.com/openai/mlsh) pushed_at:2019-07  Code for the paper "Meta-Learning Shared Hierarchies"
-- [openai/mujoco-py](https://github.com/openai/mujoco-py) pushed_at:2020-12 MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
+- [openai/mujoco-py](https://github.com/openai/mujoco-py) pushed_at:2021-01 MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
 - [openai/mujoco-worldgen](https://github.com/openai/mujoco-worldgen) pushed_at:2019-11 Automatic object XML generation for Mujoco
 - [openai/multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) pushed_at:2020-11 Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
 - [openai/multiagent-competition](https://github.com/openai/multiagent-competition) pushed_at:2019-10  Code for the paper "Emergent Complexity via Multi-agent Competition"
-- [openai/multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs) pushed_at:2020-12 Code for a multi-agent particle environment used in the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
+- [openai/multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs) pushed_at:2021-01 Code for a multi-agent particle environment used in the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
 - [openai/neural-gpu](https://github.com/openai/neural-gpu) pushed_at:2018-11 Code for the Neural GPU model originally described in "Neural GPUs Learn Algorithms"
 - [openai/neural-mmo](https://github.com/openai/neural-mmo) pushed_at:2020-03 Code for the paper "Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents"
 - [openai/openai-python](https://github.com/openai/openai-python) pushed_at:2020-10 
@@ -148,9 +148,9 @@
 - [openai/safety-starter-agents](https://github.com/openai/safety-starter-agents) pushed_at:2020-09 Basic constrained RL agents used in experiments for the "Benchmarking Safe Exploration in Deep Reinforcement Learning" paper.
 - [openai/sonic-on-ray](https://github.com/openai/sonic-on-ray) pushed_at:2018-11 Training Sonic with RLlib
 - [openai/sparse_attention](https://github.com/openai/sparse_attention) pushed_at:2020-08 Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers"
-- [openai/spinningup](https://github.com/openai/spinningup) pushed_at:2020-12 An educational resource to help anyone learn deep reinforcement learning.
+- [openai/spinningup](https://github.com/openai/spinningup) pushed_at:2021-01 An educational resource to help anyone learn deep reinforcement learning.
 - [openai/staged-recipes](https://github.com/openai/staged-recipes) pushed_at:2016-12 A place to submit conda recipes before they become fully fledged conda-forge feedstocks
-- [openai/summarize-from-feedback](https://github.com/openai/summarize-from-feedback) pushed_at:2020-10 Code for "Learning to summarize from human feedback"
+- [openai/summarize-from-feedback](https://github.com/openai/summarize-from-feedback) pushed_at:2021-01 Code for "Learning to summarize from human feedback"
 - [openai/train-procgen](https://github.com/openai/train-procgen) pushed_at:2020-06 Code for the paper "Leveraging Procedural Generation to Benchmark Reinforcement Learning"
 - [openai/understanding-rl-vision](https://github.com/openai/understanding-rl-vision) pushed_at:2020-11 Code for the paper "Understanding RL Vision"
 - [openai/universe](https://github.com/openai/universe) pushed_at:2018-04 Universe: a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.

@@ -8,7 +8,7 @@
 
 - [Apex](#apex) (1)
 - [C](#c) (5)
-- [C#](#c#) (7)
+- [C#](#c#) (6)
 - [C++](#c++) (2)
 - [CSS](#css) (2)
 - [Clojure](#clojure) (4)
@@ -37,7 +37,7 @@
 - [Scala](#scala) (2)
 - [Shell](#shell) (18)
 - [Swift](#swift) (1)
-- [TypeScript](#typescript) (19)
+- [TypeScript](#typescript) (20)
 - [Vue](#vue) (1)
 
 ## Apex
@@ -48,19 +48,18 @@
 
 - [elastic/ctags](https://github.com/elastic/ctags) pushed_at:2019-10 A maintained ctags implementation
 - [elastic/dcart](https://github.com/elastic/dcart) pushed_at:2019-12 DCART - Decoupled Components for Automated Ransomware Testing
-- [elastic/elasticsearch-sql-odbc](https://github.com/elastic/elasticsearch-sql-odbc) pushed_at:2020-12 ODBC driver for Elasticsearch SQL
+- [elastic/elasticsearch-sql-odbc](https://github.com/elastic/elasticsearch-sql-odbc) pushed_at:2021-01 ODBC driver for Elasticsearch SQL
 - [elastic/node-ctags](https://github.com/elastic/node-ctags) pushed_at:2019-07 Project no longer maintained.
 - [elastic/ujson4c](https://github.com/elastic/ujson4c) pushed_at:2018-07 Maintained UJSON4C fork
 
 ## C#
 
 - [elastic/apm-agent-dotnet](https://github.com/elastic/apm-agent-dotnet) pushed_at:2021-01 Elastic APM .NET Agent
-- [elastic/elastic-client-generator](https://github.com/elastic/elastic-client-generator) pushed_at:2020-12 A node command line tool that operates on client and dsl spec and can generate code
-- [elastic/elastic-stack-installers](https://github.com/elastic/elastic-stack-installers) pushed_at:2020-12 Windows MSI packages for Elastic stack
+- [elastic/elastic-stack-installers](https://github.com/elastic/elastic-stack-installers) pushed_at:2021-01 Windows MSI packages for Elastic stack
 - [elastic/elastic-transport-net](https://github.com/elastic/elastic-transport-net) pushed_at:2021-01 Transport classes and utilities shared among .NET Elastic client libraries
 - [elastic/elasticsearch-net](https://github.com/elastic/elasticsearch-net) pushed_at:2021-01 Elasticsearch.Net & NEST
-- [elastic/opbeans-dotnet](https://github.com/elastic/opbeans-dotnet) pushed_at:2020-12 .NET backend app for Opbeans, the Elastic APM demo app
-- [elastic/windows-installers](https://github.com/elastic/windows-installers) pushed_at:2020-12 Windows installers for the Elastic stack
+- [elastic/opbeans-dotnet](https://github.com/elastic/opbeans-dotnet) pushed_at:2021-01 .NET backend app for Opbeans, the Elastic APM demo app
+- [elastic/windows-installers](https://github.com/elastic/windows-installers) pushed_at:2021-01 Windows installers for the Elastic stack
 
 ## C++
 
@@ -85,7 +84,7 @@
 
 ## Go
 
-- [elastic/apm-agent-go](https://github.com/elastic/apm-agent-go) pushed_at:2020-12 Official Go agent for Elastic APM
+- [elastic/apm-agent-go](https://github.com/elastic/apm-agent-go) pushed_at:2021-01 Official Go agent for Elastic APM
 - [elastic/apm-server](https://github.com/elastic/apm-server) pushed_at:2021-01 APM Server
 - [elastic/apm-server-integration](https://github.com/elastic/apm-server-integration) pushed_at:2020-02 experimental / POC
 - [elastic/aws-ami-share](https://github.com/elastic/aws-ami-share) pushed_at:2020-04 Tool for sharing AWS AMIs across accounts
@@ -95,7 +94,7 @@
 - [elastic/crd-ref-docs](https://github.com/elastic/crd-ref-docs) pushed_at:2021-01 Generates Kubernetes CRD API reference documentation
 - [elastic/e2e-testing](https://github.com/elastic/e2e-testing) pushed_at:2021-01 Formal verification of Metricbeat module using BDD
 - [elastic/ecctl](https://github.com/elastic/ecctl) pushed_at:2021-01 Elastic Cloud Control, the official ESS and ECE command line interface
-- [elastic/ecs-logging-go-logrus](https://github.com/elastic/ecs-logging-go-logrus) pushed_at:2020-11 Elastic Common Schema (ECS) support for logrus
+- [elastic/ecs-logging-go-logrus](https://github.com/elastic/ecs-logging-go-logrus) pushed_at:2021-01 Elastic Common Schema (ECS) support for logrus
 - [elastic/ecs-logging-go-zap](https://github.com/elastic/ecs-logging-go-zap) pushed_at:2021-01 Logging encoder for ECS compatible logs using uber-go/zap
 - [elastic/elastic-agent-client](https://github.com/elastic/elastic-agent-client) pushed_at:2020-11 
 - [elastic/elastic-package](https://github.com/elastic/elastic-package) pushed_at:2021-01 elastic-package - Command line tool for developing Elastic Integrations
@@ -118,16 +117,16 @@
 - [elastic/go-proxyproto](https://github.com/elastic/go-proxyproto) pushed_at:2020-11 A Go library implementation of the PROXY protocol, versions 1 and 2.
 - [elastic/go-seccomp-bpf](https://github.com/elastic/go-seccomp-bpf) pushed_at:2020-05 Go library for installing a seccomp BPF system call filter.
 - [elastic/go-structform](https://github.com/elastic/go-structform) pushed_at:2020-12 Go Encoding, Decoding, Transcoding
-- [elastic/go-sysinfo](https://github.com/elastic/go-sysinfo) pushed_at:2020-12 go-sysinfo is a library for collecting system information.
+- [elastic/go-sysinfo](https://github.com/elastic/go-sysinfo) pushed_at:2021-01 go-sysinfo is a library for collecting system information.
 - [elastic/go-txfile](https://github.com/elastic/go-txfile) pushed_at:2020-12 
 - [elastic/go-ucfg](https://github.com/elastic/go-ucfg) pushed_at:2020-12 Golang universal configuration
 - [elastic/go-windows](https://github.com/elastic/go-windows) pushed_at:2020-12 go-windows provides Go wrappers for Windows APIs.
 - [elastic/gobench](https://github.com/elastic/gobench) pushed_at:2019-09 Index Go benchmark data into Elasticsearch with ease
 - [elastic/golang-crossbuild](https://github.com/elastic/golang-crossbuild) pushed_at:2021-01 
 - [elastic/gosigar](https://github.com/elastic/gosigar) pushed_at:2020-12 Gathers system and per process statistics
-- [elastic/harp](https://github.com/elastic/harp) pushed_at:2020-12 Secret management toolchain 
+- [elastic/harp](https://github.com/elastic/harp) pushed_at:2021-01 Secret management toolchain 
 - [elastic/hey](https://github.com/elastic/hey) pushed_at:2019-01 HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
-- [elastic/hey-apm](https://github.com/elastic/hey-apm) pushed_at:2020-12 Basic load generation for apm-server built on hey
+- [elastic/hey-apm](https://github.com/elastic/hey-apm) pushed_at:2021-01 Basic load generation for apm-server built on hey
 - [elastic/local-volume](https://github.com/elastic/local-volume) pushed_at:2019-12 Local volume operator for Kubernetes
 - [elastic/logstash-forwarder](https://github.com/elastic/logstash-forwarder) pushed_at:2016-10 An experiment to cut logs in preparation for processing elsewhere. Replaced by Filebeat: https://github.com/elastic/beats/tree/master/filebeat
 - [elastic/Machinebeat](https://github.com/elastic/Machinebeat) pushed_at:2020-12 This is a beat for collecting data of machines, sensors and PLCs. At the moment this is supporting OPC UA and MQTT. More to add.
@@ -136,7 +135,7 @@
 - [elastic/package-registry](https://github.com/elastic/package-registry) pushed_at:2021-01 Elastic Package Registry (EPR)
 - [elastic/package-spec](https://github.com/elastic/package-spec) pushed_at:2021-01 EPR package specifications
 - [elastic/procfs](https://github.com/elastic/procfs) pushed_at:2018-02 procfs provides functions to retrieve system, kernel and process metrics from the pseudo-filesystem proc.
-- [elastic/sarama](https://github.com/elastic/sarama) pushed_at:2020-07 Sarama is a Go library for Apache Kafka 0.8, and up.
+- [elastic/sarama](https://github.com/elastic/sarama) pushed_at:2021-01 Sarama is a Go library for Apache Kafka 0.8, and up.
 - [elastic/terraform-provider-ec](https://github.com/elastic/terraform-provider-ec) pushed_at:2021-01 Terraform provider for Elasticsearch Service and Elastic Cloud Enterprise
 - [elastic/uptd](https://github.com/elastic/uptd) pushed_at:2020-06 uptd is a software version checker against a remote artifact repository
 - [elastic/uptime-contrib](https://github.com/elastic/uptime-contrib) pushed_at:2020-06 Contrib repository for Elastic Uptime
@@ -155,7 +154,7 @@
 ## HTML
 
 - [elastic/beats-tester](https://github.com/elastic/beats-tester) pushed_at:2020-12 E2E tests for the Beats
-- [elastic/ecs-dotnet](https://github.com/elastic/ecs-dotnet) pushed_at:2020-12 .NET integrations that use the Elastic Common Schema (ECS)
+- [elastic/ecs-dotnet](https://github.com/elastic/ecs-dotnet) pushed_at:2021-01 .NET integrations that use the Elastic Common Schema (ECS)
 - [elastic/elasticsearch-definitive-guide](https://github.com/elastic/elasticsearch-definitive-guide) pushed_at:2020-07 The Definitive Guide to Elasticsearch
 - [elastic/google-sheets-add-on](https://github.com/elastic/google-sheets-add-on) pushed_at:2018-08 This repo will serve as a place to gather feedback for the Google Sheets "Send to Elasticsearch" add-on.
 - [elastic/logstash-triage](https://github.com/elastic/logstash-triage) pushed_at:2016-04 Triage logstash plugins via a handy web UI
@@ -214,11 +213,11 @@
 - [elastic/opbeans-java](https://github.com/elastic/opbeans-java) pushed_at:2020-10 This is an implementation of the Opbeans Demo app in Java
 - [elastic/openjdkMirror](https://github.com/elastic/openjdkMirror) pushed_at:2018-12 mirrors of https://github.com/unofficial-openjdk/openjdk, add maven config for code intelligence
 - [elastic/securemock](https://github.com/elastic/securemock) pushed_at:2016-06 Allows creating mocks in tests without having to grant dangerous permissions to all of your code.
-- [elastic/securesm](https://github.com/elastic/securesm) pushed_at:2018-01 SecurityManager implementation that works around design flaws in Java
+- [elastic/securesm](https://github.com/elastic/securesm) pushed_at:2021-01 SecurityManager implementation that works around design flaws in Java
 - [elastic/shield-custom-realm-example](https://github.com/elastic/shield-custom-realm-example) pushed_at:2018-07 
 - [elastic/spring-petclinic](https://github.com/elastic/spring-petclinic) pushed_at:2020-08 REST version of the Spring Petclinic sample application
 - [elastic/stack-docs](https://github.com/elastic/stack-docs) pushed_at:2021-01 Elastic Stack Documentation
-- [elastic/support-diagnostics](https://github.com/elastic/support-diagnostics) pushed_at:2020-12 Support diagnostics utility for elasticsearch and logstash
+- [elastic/support-diagnostics](https://github.com/elastic/support-diagnostics) pushed_at:2021-01 Support diagnostics utility for elasticsearch and logstash
 - [elastic/tealess](https://github.com/elastic/tealess) pushed_at:2018-03 WORK IN PROGRESS - An SSL/TLS troubleshooting tool aimed at providing actionable diagnostics for SSL/TLS configuration problems.
 
 ## JavaScript
@@ -232,7 +231,7 @@
 - [elastic/apm-nodejs-http-client](https://github.com/elastic/apm-nodejs-http-client) pushed_at:2021-01 A low-level Node.js HTTP client for communicating with the Elastic APM intake API
 - [elastic/app-search-javascript](https://github.com/elastic/app-search-javascript) pushed_at:2020-11 Elastic App Search Official JavaScript Client 
 - [elastic/app-search-kb-demo](https://github.com/elastic/app-search-kb-demo) pushed_at:2020-12 A beautiful, modern customer support/knowledge base search experience for App Search using Search UI.
-- [elastic/app-search-node](https://github.com/elastic/app-search-node) pushed_at:2020-12 Elastic App Search Official Node.js Client
+- [elastic/app-search-node](https://github.com/elastic/app-search-node) pushed_at:2021-01 Elastic App Search Official Node.js Client
 - [elastic/app-search-reference-ui-react](https://github.com/elastic/app-search-reference-ui-react) pushed_at:2021-01 A generic UI for use with any App Search Engine
 - [elastic/async-value](https://github.com/elastic/async-value) pushed_at:2018-03 Async value container
 - [elastic/async-value-promise](https://github.com/elastic/async-value-promise) pushed_at:2018-05 Creates a value/error pair to mimic promise behavior
@@ -241,7 +240,7 @@
 - [elastic/cloud-ui-interview-exercise](https://github.com/elastic/cloud-ui-interview-exercise) pushed_at:2020-12 
 - [elastic/datemath-js](https://github.com/elastic/datemath-js) pushed_at:2020-02 
 - [elastic/ecs-logging-js](https://github.com/elastic/ecs-logging-js) pushed_at:2021-01 Logging formatters for ECS
-- [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) pushed_at:2020-12 Official Elasticsearch client library for Node.js
+- [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) pushed_at:2021-01 Official Elasticsearch client library for Node.js
 - [elastic/elasticsearch-js-legacy](https://github.com/elastic/elasticsearch-js-legacy) pushed_at:2020-11 Legacy Elasticsearch client library for Node.js and the browser
 - [elastic/elasticsearch-js-mock](https://github.com/elastic/elasticsearch-js-mock) pushed_at:2020-07 Mock utility for the Elasticsearch's Node.js client
 - [elastic/elasticsearch-watcher-js](https://github.com/elastic/elasticsearch-watcher-js) pushed_at:2018-04 Elasticsearch Watcher plugin for the elasticsearch.js client
@@ -274,7 +273,7 @@
 - [elastic/lodash](https://github.com/elastic/lodash) pushed_at:2020-01 THIS FORK IS ONLY INTENDED TO BE USED IN KIBANA
 - [elastic/makelogs](https://github.com/elastic/makelogs) pushed_at:2020-04 Simple script that generates sample logs for testing kibana
 - [elastic/maki](https://github.com/elastic/maki) pushed_at:2020-04 POI Icon Set
-- [elastic/micro-jq](https://github.com/elastic/micro-jq) pushed_at:2020-07 A small implementation of JQ
+- [elastic/micro-jq](https://github.com/elastic/micro-jq) pushed_at:2021-01 A small implementation of JQ
 - [elastic/mocha](https://github.com/elastic/mocha) pushed_at:2018-05 ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 - [elastic/monitor-event-loop-delay](https://github.com/elastic/monitor-event-loop-delay) pushed_at:2019-05 Polyfill for perf_hooks.monitorEventLoopDelay(...)
 - [elastic/netsuite-code](https://github.com/elastic/netsuite-code) pushed_at:2017-10 NetSuite Code
@@ -285,7 +284,7 @@
 - [elastic/numeral-js](https://github.com/elastic/numeral-js) pushed_at:2020-06 A javascript library for formatting and manipulating numbers.
 - [elastic/object-filter-sequence](https://github.com/elastic/object-filter-sequence) pushed_at:2020-12 Apply a sequence of filter functions to an object
 - [elastic/opbeans-frontend](https://github.com/elastic/opbeans-frontend) pushed_at:2021-01 Frontend app for Opbeans, the Elastic APM demo app
-- [elastic/opbeans-node](https://github.com/elastic/opbeans-node) pushed_at:2020-12 The Opbeans inventory management system demo app for Node.js
+- [elastic/opbeans-node](https://github.com/elastic/opbeans-node) pushed_at:2021-01 The Opbeans inventory management system demo app for Node.js
 - [elastic/osm-bright-desaturated-gl-style](https://github.com/elastic/osm-bright-desaturated-gl-style) pushed_at:2019-06 OpenMapTiles OSM Bright GL Style with muted colors to replicate CSS transforms in Kibana
 - [elastic/phoenix](https://github.com/elastic/phoenix) pushed_at:2015-12 D3 Charting library
 - [elastic/rekcod](https://github.com/elastic/rekcod) pushed_at:2019-01 docker inspect :mag: → docker run :runner:
@@ -400,7 +399,7 @@
 - [elastic/app-search-magento](https://github.com/elastic/app-search-magento) pushed_at:2020-10 A first party module to integrate Elastic App Search in Magento 2.
 - [elastic/app-search-php](https://github.com/elastic/app-search-php) pushed_at:2021-01 Elastic App Search Official PHP Client
 - [elastic/ecs-logging-php](https://github.com/elastic/ecs-logging-php) pushed_at:2020-11 Logging formatters for ECS
-- [elastic/elasticsearch-php](https://github.com/elastic/elasticsearch-php) pushed_at:2020-12 Official PHP low-level client for Elasticsearch.
+- [elastic/elasticsearch-php](https://github.com/elastic/elasticsearch-php) pushed_at:2021-01 Official PHP low-level client for Elasticsearch.
 - [elastic/elasticsearch-x-pack-php](https://github.com/elastic/elasticsearch-x-pack-php) pushed_at:2020-06 Official X-Pack namespace module for the Elasticsearch-PHP client
 - [elastic/openapi-codegen-php](https://github.com/elastic/openapi-codegen-php) pushed_at:2020-02 Components shared across different PHP clients (Site Search, App Search, ...).
 - [elastic/site-search-php](https://github.com/elastic/site-search-php) pushed_at:2019-10 Elastic Site Search Official PHP Client
@@ -434,7 +433,7 @@
 - [elastic/awscli-keyring](https://github.com/elastic/awscli-keyring) pushed_at:2016-07 AWS CLI Keyring
 - [elastic/beats-docker](https://github.com/elastic/beats-docker) pushed_at:2019-06 Official Beats Docker images
 - [elastic/connector-plugin-sdk](https://github.com/elastic/connector-plugin-sdk) pushed_at:2019-01 SDK for Developing Tableau Connectors
-- [elastic/curator](https://github.com/elastic/curator) pushed_at:2020-12 Curator: Tending your Elasticsearch indices
+- [elastic/curator](https://github.com/elastic/curator) pushed_at:2021-01 Curator: Tending your Elasticsearch indices
 - [elastic/curator_api](https://github.com/elastic/curator_api) pushed_at:2018-12 Elasticsearch Curator API
 - [elastic/detection-rules](https://github.com/elastic/detection-rules) pushed_at:2021-01 Rules for Elastic Security's detection engine
 - [elastic/dorothy](https://github.com/elastic/dorothy) pushed_at:2021-01 Dorothy is a tool to test security monitoring and detection for Okta environments
@@ -466,7 +465,7 @@
 - [elastic/packerlicious](https://github.com/elastic/packerlicious) pushed_at:2020-08 use python to make hashicorp packer templates
 - [elastic/rally](https://github.com/elastic/rally) pushed_at:2021-01 Macrobenchmarking framework for Elasticsearch
 - [elastic/rally-eventdata-track](https://github.com/elastic/rally-eventdata-track) pushed_at:2020-12 Rally track for simulating event-based data use-cases
-- [elastic/rally-teams](https://github.com/elastic/rally-teams) pushed_at:2020-11 Default Elasticsearch configurations for the Elasticsearch benchmarking tool Rally
+- [elastic/rally-teams](https://github.com/elastic/rally-teams) pushed_at:2021-01 Default Elasticsearch configurations for the Elasticsearch benchmarking tool Rally
 - [elastic/rally-tracks](https://github.com/elastic/rally-tracks) pushed_at:2020-12 Track specifications for the Elasticsearch benchmarking tool Rally
 - [elastic/security-docs](https://github.com/elastic/security-docs) pushed_at:2021-01 Home for Elastic Endpoint Security Documentation
 - [elastic/Short-Text-Corpus-For-Humor-Detection](https://github.com/elastic/Short-Text-Corpus-For-Humor-Detection) pushed_at:2016-08 This corpus contains code and datasets that can be used for the automatic detection of humor in oneliners
@@ -488,7 +487,7 @@
 - [elastic/cookbook-elasticsearch](https://github.com/elastic/cookbook-elasticsearch) pushed_at:2020-12 Chef cookbook for Elasticsearch
 - [elastic/docs](https://github.com/elastic/docs) pushed_at:2021-01 
 - [elastic/docs-tools](https://github.com/elastic/docs-tools) pushed_at:2020-01 A place to put documentation tooling
-- [elastic/ecs-logging-ruby](https://github.com/elastic/ecs-logging-ruby) pushed_at:2020-12 Transform your application logs to structured logs that comply with the Elastic Common Schema (ECS)
+- [elastic/ecs-logging-ruby](https://github.com/elastic/ecs-logging-ruby) pushed_at:2021-01 Transform your application logs to structured logs that comply with the Elastic Common Schema (ECS)
 - [elastic/ecs-mapper](https://github.com/elastic/ecs-mapper) pushed_at:2020-10 Translate an ECS mapping CSV to starter pipelines for Beats, Elasticsearch or Logstash
 - [elastic/elasticsearch-rails](https://github.com/elastic/elasticsearch-rails) pushed_at:2021-01 Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
 - [elastic/elasticsearch-ruby](https://github.com/elastic/elasticsearch-ruby) pushed_at:2021-01 Ruby integrations for Elasticsearch
@@ -497,7 +496,7 @@
 - [elastic/heartbeat-benchmark-configs](https://github.com/elastic/heartbeat-benchmark-configs) pushed_at:2019-05 Configs for benchmarking heartbeat
 - [elastic/homebrew-ecctl](https://github.com/elastic/homebrew-ecctl) pushed_at:2019-12 Homebrew tap for the Elastic Cloud Control (ecctl)
 - [elastic/homebrew-harp](https://github.com/elastic/homebrew-harp) pushed_at:2020-12 Harp homebrew formula
-- [elastic/homebrew-tap](https://github.com/elastic/homebrew-tap) pushed_at:2020-12 Homebrew tap for the Elastic Stack
+- [elastic/homebrew-tap](https://github.com/elastic/homebrew-tap) pushed_at:2021-01 Homebrew tap for the Elastic Stack
 - [elastic/jarvis](https://github.com/elastic/jarvis) pushed_at:2020-06 Logstash's ChatOps bot, J.A.R.V.I.S.
 - [elastic/logstash](https://github.com/elastic/logstash) pushed_at:2021-01 Logstash - transport and process your logs, events, or other data
 - [elastic/logstash-benchmark-tools](https://github.com/elastic/logstash-benchmark-tools) pushed_at:2017-10 
@@ -521,7 +520,7 @@
 ## Rust
 
 - [elastic/elasticsearch-rs](https://github.com/elastic/elasticsearch-rs) pushed_at:2020-12 Official Elasticsearch Rust Client
-- [elastic/goko](https://github.com/elastic/goko) pushed_at:2020-12 A fast covertree implementation
+- [elastic/goko](https://github.com/elastic/goko) pushed_at:2021-01 A fast covertree implementation
 
 ## SCSS
 
@@ -539,7 +538,7 @@
 - [elastic/azure-marketplace](https://github.com/elastic/azure-marketplace) pushed_at:2021-01 Elasticsearch Azure Marketplace offering + ARM template
 - [elastic/beats-dashboards](https://github.com/elastic/beats-dashboards) pushed_at:2016-10 DEPRECATED. Moved to https://github.com/elastic/beats. Please use the new repository to add new issues.
 - [elastic/beats-packer](https://github.com/elastic/beats-packer) pushed_at:2016-10 DEPRECATED: Moved to https://github.com/elastic/beats/tree/master/dev-tools/packer
-- [elastic/dockerfiles](https://github.com/elastic/dockerfiles) pushed_at:2020-12 Dockerfiles for the official Elastic Stack images
+- [elastic/dockerfiles](https://github.com/elastic/dockerfiles) pushed_at:2021-01 Dockerfiles for the official Elastic Stack images
 - [elastic/ece-support-diagnostics](https://github.com/elastic/ece-support-diagnostics) pushed_at:2021-01 Support diagnostics utility for Elastic Cloud Enterprise (ECE)
 - [elastic/eck-support-diagnostics](https://github.com/elastic/eck-support-diagnostics) pushed_at:2020-04 Support diagnostics for Elastic Cloud on Kubernetes
 - [elastic/elastic-github-actions](https://github.com/elastic/elastic-github-actions) pushed_at:2020-09 This action spins up an Elasticsearch instance that can be accessed and used in your subsequent steps.
@@ -563,6 +562,7 @@
 - [elastic/code-examples_single-line](https://github.com/elastic/code-examples_single-line) pushed_at:2019-10 
 - [elastic/ctags-langserver](https://github.com/elastic/ctags-langserver) pushed_at:2019-10 Project no longer maintained.
 - [elastic/elastic-charts](https://github.com/elastic/elastic-charts) pushed_at:2021-01 :bar_chart: Elastic Charts library
+- [elastic/elastic-client-generator](https://github.com/elastic/elastic-client-generator) pushed_at:2021-01 A node command line tool that operates on client and dsl spec and can generate code
 - [elastic/elasticsearch-net-abstractions](https://github.com/elastic/elasticsearch-net-abstractions) pushed_at:2020-11 Auxiliary tooling for elastic/elasticsearch-net that does not benefit from the rigorous version branching of that repository
 - [elastic/ems-client](https://github.com/elastic/ems-client) pushed_at:2021-01 JavaScript Client library for Elastic Maps Service
 - [elastic/eui](https://github.com/elastic/eui) pushed_at:2021-01 Elastic UI Framework 🙌
