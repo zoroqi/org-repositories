@@ -21,11 +21,11 @@
 - [golang/crypto](https://github.com/golang/crypto) pushed_at:2021-01 [mirror] Go supplementary cryptography libraries
 - [golang/debug](https://github.com/golang/debug) pushed_at:2020-12 [mirror] debugging tools
 - [golang/dep](https://github.com/golang/dep) pushed_at:2020-09 Go dependency management tool experiment (deprecated)
-- [golang/dl](https://github.com/golang/dl) pushed_at:2020-12 [mirror] go get golang.org/dl/go1.N
+- [golang/dl](https://github.com/golang/dl) pushed_at:2021-01 [mirror] go get golang.org/dl/go1.N
 - [golang/example](https://github.com/golang/example) pushed_at:2021-01 Go example projects
 - [golang/exp](https://github.com/golang/exp) pushed_at:2021-01 [mirror] Experimental and deprecated packages
 - [golang/freetype](https://github.com/golang/freetype) pushed_at:2020-12 The Freetype font rasterizer in the Go programming language.
-- [golang/gddo](https://github.com/golang/gddo) pushed_at:2020-12 Go Doc Dot Org
+- [golang/gddo](https://github.com/golang/gddo) pushed_at:2021-01 Go Doc Dot Org
 - [golang/geo](https://github.com/golang/geo) pushed_at:2021-01 S2 geometry library in Go
 - [golang/glog](https://github.com/golang/glog) pushed_at:2020-12 Leveled execution logs for Go
 - [golang/go](https://github.com/golang/go) pushed_at:2021-01 The Go programming language
@@ -36,9 +36,9 @@
 - [golang/leveldb](https://github.com/golang/leveldb) pushed_at:2017-01 The LevelDB key-value database in the Go programming language.
 - [golang/lint](https://github.com/golang/lint) pushed_at:2020-12 [mirror] This is a linter for Go source code.
 - [golang/mobile](https://github.com/golang/mobile) pushed_at:2021-01 [mirror] Go on Mobile
-- [golang/mock](https://github.com/golang/mock) pushed_at:2020-12 GoMock is a mocking framework for the Go programming language.
+- [golang/mock](https://github.com/golang/mock) pushed_at:2021-01 GoMock is a mocking framework for the Go programming language.
 - [golang/mod](https://github.com/golang/mod) pushed_at:2021-01 [mirror] Go module mechanics libraries
-- [golang/net](https://github.com/golang/net) pushed_at:2020-12 [mirror] Go supplementary network libraries
+- [golang/net](https://github.com/golang/net) pushed_at:2021-01 [mirror] Go supplementary network libraries
 - [golang/oauth2](https://github.com/golang/oauth2) pushed_at:2021-01 Go OAuth2
 - [golang/perf](https://github.com/golang/perf) pushed_at:2020-12 [mirror] Performance measurement, storage, and analysis.
 - [golang/pkgsite](https://github.com/golang/pkgsite) pushed_at:2021-01 [mirror] Home of the pkg.go.dev website
@@ -50,7 +50,7 @@
 - [golang/snappy](https://github.com/golang/snappy) pushed_at:2020-11 The Snappy compression format in the Go programming language.
 - [golang/sync](https://github.com/golang/sync) pushed_at:2020-12 [mirror] concurrency primitives
 - [golang/sys](https://github.com/golang/sys) pushed_at:2021-01 [mirror] Go packages for low-level interaction with the operating system
-- [golang/talks](https://github.com/golang/talks) pushed_at:2020-11 Go talks
+- [golang/talks](https://github.com/golang/talks) pushed_at:2021-01 Go talks
 - [golang/term](https://github.com/golang/term) pushed_at:2020-12 Go terminal and console support
 - [golang/text](https://github.com/golang/text) pushed_at:2021-01 [mirror] Go text processing support
 - [golang/time](https://github.com/golang/time) pushed_at:2020-12 [mirror] Go supplementary time packages

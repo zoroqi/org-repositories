@@ -38,7 +38,7 @@
 - [openai/coinrun](https://github.com/openai/coinrun) pushed_at:2020-12 Code for the paper "Quantifying Transfer in Reinforcement Learning"
 - [openai/doom-py](https://github.com/openai/doom-py) pushed_at:2019-10 ViZDoom Python wrapper
 - [openai/nccl](https://github.com/openai/nccl) pushed_at:2019-04 Optimized primitives for collective multi-GPU communication
-- [openai/procgen](https://github.com/openai/procgen) pushed_at:2020-12 Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
+- [openai/procgen](https://github.com/openai/procgen) pushed_at:2021-01 Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
 - [openai/pytorch](https://github.com/openai/pytorch) pushed_at:2020-12 Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [openai/robot_controllers](https://github.com/openai/robot_controllers) pushed_at:2016-07 Robot control infrastructure
 

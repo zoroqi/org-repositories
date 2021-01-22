@@ -43,10 +43,10 @@
 - [NVIDIA/gdrcopy](https://github.com/NVIDIA/gdrcopy) pushed_at:2021-01 A fast GPU memory copy library based on NVIDIA GPUDirect RDMA technology
 - [NVIDIA/gds-nvidia-fs](https://github.com/NVIDIA/gds-nvidia-fs) pushed_at:2020-12 NVIDIA GPUDirect Storage Driver
 - [NVIDIA/go-nvml](https://github.com/NVIDIA/go-nvml) pushed_at:2021-01 Go Bindings for the NVIDIA Management Library (NVML)
-- [NVIDIA/gpu-monitoring-tools](https://github.com/NVIDIA/gpu-monitoring-tools) pushed_at:2020-12 Tools for monitoring NVIDIA GPUs on Linux 
+- [NVIDIA/gpu-monitoring-tools](https://github.com/NVIDIA/gpu-monitoring-tools) pushed_at:2021-01 Tools for monitoring NVIDIA GPUs on Linux 
 - [NVIDIA/gvdb-voxels](https://github.com/NVIDIA/gvdb-voxels) pushed_at:2020-12 Sparse volume compute and rendering on NVIDIA GPUs
 - [NVIDIA/libglvnd](https://github.com/NVIDIA/libglvnd) pushed_at:2020-11 The GL Vendor-Neutral Dispatch library
-- [NVIDIA/libnvidia-container](https://github.com/NVIDIA/libnvidia-container) pushed_at:2020-12 NVIDIA container runtime library
+- [NVIDIA/libnvidia-container](https://github.com/NVIDIA/libnvidia-container) pushed_at:2021-01 NVIDIA container runtime library
 - [NVIDIA/nsight-aftermath-samples](https://github.com/NVIDIA/nsight-aftermath-samples) pushed_at:2020-09 Samples for the Nsight Aftermath SDK.
 - [NVIDIA/nsight-training](https://github.com/NVIDIA/nsight-training) pushed_at:2020-11 Training material for Nsight developer tools
 - [NVIDIA/nvgpu](https://github.com/NVIDIA/nvgpu) pushed_at:2014-11 
@@ -58,7 +58,7 @@
 - [NVIDIA/nvidia-xconfig](https://github.com/NVIDIA/nvidia-xconfig) pushed_at:2021-01 NVIDIA xorg.conf configurator
 - [NVIDIA/NVIDIAOpticalFlowSDK](https://github.com/NVIDIA/NVIDIAOpticalFlowSDK) pushed_at:2020-07 Optical Flow SDK exposes the latest hardware capability of Turing GPUs dedicated to computing the relative motion of pixels between images. The hardware uses sophisticated algorithms to yield highly accurate flow vectors, with robust frame-to-frame intensity variations and tracks the true object motion faster and more accurately.
 - [NVIDIA/NVTX](https://github.com/NVIDIA/NVTX) pushed_at:2020-10 The NVIDIA® Tools Extension SDK (NVTX) is a C-based Application Programming Interface (API) for annotating events, code ranges, and resources in your applications.
-- [NVIDIA/open-gpu-doc](https://github.com/NVIDIA/open-gpu-doc) pushed_at:2020-12 Documentation of NVIDIA chip/hardware interfaces
+- [NVIDIA/open-gpu-doc](https://github.com/NVIDIA/open-gpu-doc) pushed_at:2021-01 Documentation of NVIDIA chip/hardware interfaces
 - [NVIDIA/pyxis](https://github.com/NVIDIA/pyxis) pushed_at:2021-01 Container plugin for Slurm Workload Manager
 - [NVIDIA/Q2RTX](https://github.com/NVIDIA/Q2RTX) pushed_at:2020-12 NVIDIA’s implementation of RTX ray-tracing in Quake II
 - [NVIDIA/tegrarcm](https://github.com/NVIDIA/tegrarcm) pushed_at:2018-06 Tegra ReCovery Mode tool; communicates with Tegra's boot ROM to download code over USB
@@ -104,7 +104,7 @@
 - [NVIDIA/PRBench](https://github.com/NVIDIA/PRBench) pushed_at:2017-01 A CUDA implementation of the PageRank Pipeline Benchmark
 - [NVIDIA/rtx_compute_samples](https://github.com/NVIDIA/rtx_compute_samples) pushed_at:2020-11 RTX compute samples
 - [NVIDIA/SKA-gpu-multiscale-clean](https://github.com/NVIDIA/SKA-gpu-multiscale-clean) pushed_at:2017-06 Multiscale CLEAN for the square kilometer array using GPUs
-- [NVIDIA/spark-xgboost](https://github.com/NVIDIA/spark-xgboost) pushed_at:2020-11 Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+- [NVIDIA/spark-xgboost](https://github.com/NVIDIA/spark-xgboost) pushed_at:2021-01 Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
 - [NVIDIA/speechsquad](https://github.com/NVIDIA/speechsquad) pushed_at:2021-01 Conversational AI Benchmark.
 - [NVIDIA/tensorflow](https://github.com/NVIDIA/tensorflow) pushed_at:2020-12 An Open Source Machine Learning Framework for Everyone 
 - [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT) pushed_at:2021-01 TensorRT is a C++ library for high performance inference on NVIDIA GPUs and deep learning accelerators.
@@ -128,7 +128,7 @@
 - [NVIDIA/kmeans](https://github.com/NVIDIA/kmeans) pushed_at:2020-07 kmeans clustering with multi-GPU capabilities
 - [NVIDIA/multi-gpu-programming-models](https://github.com/NVIDIA/multi-gpu-programming-models) pushed_at:2021-01 Examples demonstrating available options to program multiple GPUs in a single node or a cluster
 - [NVIDIA/nccl-tests](https://github.com/NVIDIA/nccl-tests) pushed_at:2021-01 NCCL Tests
-- [NVIDIA/nv-wavenet](https://github.com/NVIDIA/nv-wavenet) pushed_at:2019-11 Reference implementation of real-time autoregressive wavenet inference
+- [NVIDIA/nv-wavenet](https://github.com/NVIDIA/nv-wavenet) pushed_at:2021-01 Reference implementation of real-time autoregressive wavenet inference
 - [NVIDIA/NvPipe](https://github.com/NVIDIA/NvPipe) pushed_at:2020-06 NVIDIA-accelerated zero latency video compression library for interactive remoting applications
 - [NVIDIA/online-softmax](https://github.com/NVIDIA/online-softmax) pushed_at:2018-07 Benchmark code for the "Online normalizer calculation for softmax" paper
 - [NVIDIA/SKA-gpu-degrid](https://github.com/NVIDIA/SKA-gpu-degrid) pushed_at:2016-09 Degridding for the square kilometer array using GPUs
@@ -312,7 +312,7 @@
 
 - [NVIDIA/ais-k8s](https://github.com/NVIDIA/ais-k8s) pushed_at:2020-12 Helm charts and production scripts for large-scale AIStore deployments on Kubernetes
 - [NVIDIA/ansible-role-nvidia-docker](https://github.com/NVIDIA/ansible-role-nvidia-docker) pushed_at:2020-03 
-- [NVIDIA/data-science-stack](https://github.com/NVIDIA/data-science-stack) pushed_at:2020-12 NVIDIA Data Science stack tools
+- [NVIDIA/data-science-stack](https://github.com/NVIDIA/data-science-stack) pushed_at:2021-01 NVIDIA Data Science stack tools
 - [NVIDIA/doroce-linux](https://github.com/NVIDIA/doroce-linux) pushed_at:2020-12 A command line utility to manage the configuration of a system's high performance network interfaces for RoCE deployments
 - [NVIDIA/egx-platform](https://github.com/NVIDIA/egx-platform) pushed_at:2020-12 Bring AI to the EDGE
 - [NVIDIA/enroot](https://github.com/NVIDIA/enroot) pushed_at:2021-01 A simple yet powerful tool to turn traditional container/OS images into unprivileged sandboxes.

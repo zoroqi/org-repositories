@@ -6,7 +6,7 @@
 
 ## Contents(112)
 
-- [C](#c) (41)
+- [C](#c) (42)
 - [C++](#c++) (26)
 - [CSS](#css) (2)
 - [Dockerfile](#dockerfile) (1)
@@ -17,10 +17,10 @@
 - [Jupyter Notebook](#jupyter-notebook) (3)
 - [OCaml](#ocaml) (1)
 - [Objective-C](#objective-c) (2)
-- [Others](#others) (11)
+- [Others](#others) (9)
 - [Perl](#perl) (1)
 - [PostScript](#postscript) (1)
-- [Python](#python) (11)
+- [Python](#python) (12)
 - [Ruby](#ruby) (1)
 - [Shell](#shell) (6)
 - [SystemVerilog](#systemverilog) (1)
@@ -30,8 +30,9 @@
 - [ARM-software/AArch64cryptolib](https://github.com/ARM-software/AArch64cryptolib) pushed_at:2020-11 AArch64cryptolib is a from scratch implementation of cryptographic primitives aiming for optimal performance on Arm A-class cores
 - [ARM-software/arm-enterprise-acs](https://github.com/ARM-software/arm-enterprise-acs) pushed_at:2020-12 ARM Enterprise ACS
 - [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) pushed_at:2021-01 Read-only mirror of Trusted Firmware-A
+- [ARM-software/bento-linker](https://github.com/ARM-software/bento-linker) pushed_at:2021-01 A light-weight alternative to processes for microcontrollers.
 - [ARM-software/CMSIS](https://github.com/ARM-software/CMSIS) pushed_at:2018-10 Cortex Microcontroller Software Interface Standard
-- [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) pushed_at:2020-08 Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
+- [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) pushed_at:2021-01 Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
 - [ARM-software/CMSIS-Driver_Validation](https://github.com/ARM-software/CMSIS-Driver_Validation) pushed_at:2020-08 Repository containing validation components for microcontroller peripheral driver implementing the CMSIS-Driver API specification.
 - [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) pushed_at:2020-12 FreeRTOS adaptation for CMSIS-RTOS Version 2
 - [ARM-software/CMSIS-mbedTLS](https://github.com/ARM-software/CMSIS-mbedTLS) pushed_at:2020-04 CMSIS Pack for the mbedTLS software stack
@@ -142,8 +143,6 @@
 
 - [ARM-software/arm-systemready](https://github.com/ARM-software/arm-systemready) pushed_at:2020-10 Arm SystemReady
 - [ARM-software/bbr-acs](https://github.com/ARM-software/bbr-acs) pushed_at:2020-10 Arm SystemReady : BBR Compliance Suite
-- [ARM-software/bento-autobentifier](https://github.com/ARM-software/bento-autobentifier) pushed_at:2020-10 
-- [ARM-software/bento-linker](https://github.com/ARM-software/bento-linker) pushed_at:2020-10 
 - [ARM-software/bootwrapper](https://github.com/ARM-software/bootwrapper) pushed_at:2017-06 Linux kernel bootwrapper code
 - [ARM-software/bsa-acs](https://github.com/ARM-software/bsa-acs) pushed_at:2020-10 Arm SystemReady : BSA Architecture Compliance Suite
 - [ARM-software/data](https://github.com/ARM-software/data) pushed_at:2020-11 Machine-readable data describing Arm architecture and implementations. Includes JSON descriptions of implemented PMU events.
@@ -163,6 +162,7 @@
 ## Python
 
 - [ARM-software/bart](https://github.com/ARM-software/bart) pushed_at:2018-09 Behavioural Analysis and Regression Toolkit
+- [ARM-software/bento-autobentifier](https://github.com/ARM-software/bento-autobentifier) pushed_at:2021-01 Automatic partitioning of memory spaces for microcontroller binaries
 - [ARM-software/Cloud-IoT-Core-Kit-Examples](https://github.com/ARM-software/Cloud-IoT-Core-Kit-Examples) pushed_at:2018-07 Example projects and code are supplied to support the Arm-based IoT Kit for Cloud IoT Core
 - [ARM-software/core-benchmarks](https://github.com/ARM-software/core-benchmarks) pushed_at:2021-01 
 - [ARM-software/daq-server](https://github.com/ARM-software/daq-server) pushed_at:2019-11 Server for remote access to National Instruments DAQ devices
@@ -180,7 +180,7 @@
 
 ## Shell
 
-- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) pushed_at:2020-12 Application Binary Interface for the Arm® Architecture
+- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) pushed_at:2021-01 Application Binary Interface for the Arm® Architecture
 - [ARM-software/LLVM-embedded-toolchain-for-Arm](https://github.com/ARM-software/LLVM-embedded-toolchain-for-Arm) pushed_at:2020-11 A project dedicated to build LLVM toolchain for 32-bit Arm embedded targets.
 - [ARM-software/ML-zoo](https://github.com/ARM-software/ML-zoo) pushed_at:2020-12 
 - [ARM-software/ohpc-config](https://github.com/ARM-software/ohpc-config) pushed_at:2017-08 Scripts and config files for recreating an OpenHPC OBS instance.

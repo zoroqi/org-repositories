@@ -54,7 +54,7 @@
 - [deepmind/dsprites-dataset](https://github.com/deepmind/dsprites-dataset) pushed_at:2021-01 Dataset to assess the disentanglement properties of unsupervised learning methods
 - [deepmind/educational](https://github.com/deepmind/educational) pushed_at:2020-11 
 - [deepmind/mc_gradients](https://github.com/deepmind/mc_gradients) pushed_at:2020-11 
-- [deepmind/neural-processes](https://github.com/deepmind/neural-processes) pushed_at:2020-03 This repository contains notebook implementations of the following Neural Process variants: Conditional Neural Processes (CNPs), Neural Processes (NPs), Attentive Neural Processes (ANPs).
+- [deepmind/neural-processes](https://github.com/deepmind/neural-processes) pushed_at:2021-01 This repository contains notebook implementations of the following Neural Process variants: Conditional Neural Processes (CNPs), Neural Processes (NPs), Attentive Neural Processes (ANPs).
 - [deepmind/symplectic-gradient-adjustment](https://github.com/deepmind/symplectic-gradient-adjustment) pushed_at:2018-12 A colab that implements the Symplectic Gradient Adjustment optimizer from "The mechanics of n-player differentiable games"
 
 ## Lua
@@ -87,7 +87,7 @@
 - [deepmind/tcia-ct-scan-dataset](https://github.com/deepmind/tcia-ct-scan-dataset) pushed_at:2020-06 Dataset of head and neck CT scans and segmentations in NRRD format.
 - [deepmind/tvt](https://github.com/deepmind/tvt) pushed_at:2019-11 
 - [deepmind/unsup-queries-data](https://github.com/deepmind/unsup-queries-data) pushed_at:2016-11 Unsupervised Data Generated for GeoQuery and SAIL Datasets
-- [deepmind/xquad](https://github.com/deepmind/xquad) pushed_at:2020-03 
+- [deepmind/xquad](https://github.com/deepmind/xquad) pushed_at:2021-01 
 
 ## Python
 
@@ -115,7 +115,7 @@
 - [deepmind/interval-bound-propagation](https://github.com/deepmind/interval-bound-propagation) pushed_at:2019-12 This repository contains a simple implementation of Interval Bound Propagation (IBP) using TensorFlow: https://arxiv.org/abs/1810.12715
 - [deepmind/jax_verify](https://github.com/deepmind/jax_verify) pushed_at:2020-11 Neural network verification in JAX
 - [deepmind/jaxline](https://github.com/deepmind/jaxline) pushed_at:2020-12 
-- [deepmind/jraph](https://github.com/deepmind/jraph) pushed_at:2021-01 
+- [deepmind/jraph](https://github.com/deepmind/jraph) pushed_at:2021-01 A Graph Neural Network Library in Jax
 - [deepmind/kapitan](https://github.com/deepmind/kapitan) pushed_at:2021-01 Generic templated configuration management for Kubernetes, Terraform and other things
 - [deepmind/kinetics-i3d](https://github.com/deepmind/kinetics-i3d) pushed_at:2019-09 Convolutional neural network model for video classification trained on the Kinetics dataset.
 - [deepmind/lamb](https://github.com/deepmind/lamb) pushed_at:2020-04 LAnguage Modelling Benchmarks
@@ -134,9 +134,9 @@
 - [deepmind/sonnet](https://github.com/deepmind/sonnet) pushed_at:2020-11 TensorFlow-based neural network library
 - [deepmind/spectral_inference_networks](https://github.com/deepmind/spectral_inference_networks) pushed_at:2019-05 Implementation of Spectral Inference Networks, ICLR 2019
 - [deepmind/spriteworld](https://github.com/deepmind/spriteworld) pushed_at:2020-06 Spriteworld: a flexible, configurable python-based reinforcement learning environment
-- [deepmind/surface-distance](https://github.com/deepmind/surface-distance) pushed_at:2020-12 Library to compute surface distance based performance metrics for segmentation tasks.
+- [deepmind/surface-distance](https://github.com/deepmind/surface-distance) pushed_at:2021-01 Library to compute surface distance based performance metrics for segmentation tasks.
 - [deepmind/Temporal-3D-Pose-Kinetics](https://github.com/deepmind/Temporal-3D-Pose-Kinetics) pushed_at:2019-07 Exploiting temporal context for 3D human pose estimation in the wild: 3D poses for the Kinetics dataset
-- [deepmind/tensor_annotations](https://github.com/deepmind/tensor_annotations) pushed_at:2021-01 
+- [deepmind/tensor_annotations](https://github.com/deepmind/tensor_annotations) pushed_at:2021-01 Annotating tensor shapes using Python types
 - [deepmind/tree](https://github.com/deepmind/tree) pushed_at:2021-01 tree is a library for working with nested data structures
 - [deepmind/trfl](https://github.com/deepmind/trfl) pushed_at:2020-11 TensorFlow Reinforcement Learning
 - [deepmind/wasserstein_fairness](https://github.com/deepmind/wasserstein_fairness) pushed_at:2020-01 An implementation of Wasserstein Fair Classification, a conference paper submitted to UAI 2019.

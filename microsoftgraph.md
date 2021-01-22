@@ -56,8 +56,8 @@
 - [microsoftgraph/msgraph-permissions-scraper](https://github.com/microsoftgraph/msgraph-permissions-scraper) pushed_at:2020-09 
 - [microsoftgraph/msgraph-samples-dashboard](https://github.com/microsoftgraph/msgraph-samples-dashboard) pushed_at:2020-09 Dashboard for msgraph samples
 - [microsoftgraph/msgraph-sdk-dotnet](https://github.com/microsoftgraph/msgraph-sdk-dotnet) pushed_at:2021-01 Microsoft Graph Client Library for .NET!
-- [microsoftgraph/msgraph-sdk-dotnet-auth](https://github.com/microsoftgraph/msgraph-sdk-dotnet-auth) pushed_at:2020-12 Authentication Providers for Microsoft Graph .NET SDK
-- [microsoftgraph/msgraph-sdk-dotnet-contrib](https://github.com/microsoftgraph/msgraph-sdk-dotnet-contrib) pushed_at:2020-12 Community contributed extensions to the Microsoft Graph .NET SDK service library, to support APIs that have not yet made it into Microsoft Graph
+- [microsoftgraph/msgraph-sdk-dotnet-auth](https://github.com/microsoftgraph/msgraph-sdk-dotnet-auth) pushed_at:2021-01 Authentication Providers for Microsoft Graph .NET SDK
+- [microsoftgraph/msgraph-sdk-dotnet-contrib](https://github.com/microsoftgraph/msgraph-sdk-dotnet-contrib) pushed_at:2021-01 Community contributed extensions to the Microsoft Graph .NET SDK service library, to support APIs that have not yet made it into Microsoft Graph
 - [microsoftgraph/msgraph-sdk-dotnet-core](https://github.com/microsoftgraph/msgraph-sdk-dotnet-core) pushed_at:2021-01 The core Microsoft Graph client library for .Net. (Microsoft.Graph.Core)
 - [microsoftgraph/msgraph-sdk-raptor](https://github.com/microsoftgraph/msgraph-sdk-raptor) pushed_at:2021-01 End to end testing tool for verifying generated code snippets and testing against Graph APIs
 - [microsoftgraph/msgraph-search-connector-sample](https://github.com/microsoftgraph/msgraph-search-connector-sample) pushed_at:2020-05 This .NET Core application shows how to use the Microsoft Graph indexing API to create a connection to the Microsoft Search service and index custom items.
@@ -78,13 +78,13 @@
 
 ## CSS
 
-- [microsoftgraph/mgtLap-TryItOut](https://github.com/microsoftgraph/mgtLap-TryItOut) pushed_at:2020-12 
+- [microsoftgraph/mgtLap-TryItOut](https://github.com/microsoftgraph/mgtLap-TryItOut) pushed_at:2021-01 
 
 ## HTML
 
 - [microsoftgraph/javascript-officeuifabric-peoplepicker-sample](https://github.com/microsoftgraph/javascript-officeuifabric-peoplepicker-sample) pushed_at:2020-05 [ARCHIVED] This sample demonstrates how to populate an Office UI Fabric JS PeoplePicker component with data retrieved from Microsoft Graph.
 - [microsoftgraph/meetings-capture-sample](https://github.com/microsoftgraph/meetings-capture-sample) pushed_at:2020-12 A Microsoft Teams solution that helps teams capture meeting minute notes inside individual channels
-- [microsoftgraph/nodejs-security-sample](https://github.com/microsoftgraph/nodejs-security-sample) pushed_at:2020-08 This sample shows how to connect a Node.js app to a Microsoft work or school (Azure Active Directory) or personal (Microsoft) account using the Microsoft Graph API and the Graph JavaScript SDK to retrieve security Alerts, and Update an Alert.
+- [microsoftgraph/nodejs-security-sample](https://github.com/microsoftgraph/nodejs-security-sample) pushed_at:2021-01 This sample shows how to connect a Node.js app to a Microsoft work or school (Azure Active Directory) or personal (Microsoft) account using the Microsoft Graph API and the Graph JavaScript SDK to retrieve security Alerts, and Update an Alert.
 - [microsoftgraph/python-security-rest-sample](https://github.com/microsoftgraph/python-security-rest-sample) pushed_at:2020-03 This sample shows how to connect your Python web app to the Security API using Microsoft Graph. 
 
 ## Java
@@ -158,13 +158,13 @@
 - [microsoftgraph/msgraph-community-samples](https://github.com/microsoftgraph/msgraph-community-samples) pushed_at:2018-11 Repo for community contributed samples
 - [microsoftgraph/msgraph-sdk-serviceissues](https://github.com/microsoftgraph/msgraph-sdk-serviceissues) pushed_at:2020-09 Tracks service issues for follow up.
 - [microsoftgraph/msgraph-training-android](https://github.com/microsoftgraph/msgraph-training-android) pushed_at:2021-01 Microsoft Graph Training Module - Building Android Native Apps
-- [microsoftgraph/msgraph-training-android.de-DE](https://github.com/microsoftgraph/msgraph-training-android.de-DE) pushed_at:2019-12 
-- [microsoftgraph/msgraph-training-android.es-ES](https://github.com/microsoftgraph/msgraph-training-android.es-ES) pushed_at:2019-12 
-- [microsoftgraph/msgraph-training-android.fr-FR](https://github.com/microsoftgraph/msgraph-training-android.fr-FR) pushed_at:2019-12 
-- [microsoftgraph/msgraph-training-android.ja-JP](https://github.com/microsoftgraph/msgraph-training-android.ja-JP) pushed_at:2019-12 
-- [microsoftgraph/msgraph-training-android.pt-BR](https://github.com/microsoftgraph/msgraph-training-android.pt-BR) pushed_at:2019-12 
-- [microsoftgraph/msgraph-training-android.ru-RU](https://github.com/microsoftgraph/msgraph-training-android.ru-RU) pushed_at:2020-05 
-- [microsoftgraph/msgraph-training-android.zh-CN](https://github.com/microsoftgraph/msgraph-training-android.zh-CN) pushed_at:2019-12 
+- [microsoftgraph/msgraph-training-android.de-DE](https://github.com/microsoftgraph/msgraph-training-android.de-DE) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-android.es-ES](https://github.com/microsoftgraph/msgraph-training-android.es-ES) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-android.fr-FR](https://github.com/microsoftgraph/msgraph-training-android.fr-FR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-android.ja-JP](https://github.com/microsoftgraph/msgraph-training-android.ja-JP) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-android.pt-BR](https://github.com/microsoftgraph/msgraph-training-android.pt-BR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-android.ru-RU](https://github.com/microsoftgraph/msgraph-training-android.ru-RU) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-android.zh-CN](https://github.com/microsoftgraph/msgraph-training-android.zh-CN) pushed_at:2021-01 
 - [microsoftgraph/msgraph-training-angularspa.de-DE](https://github.com/microsoftgraph/msgraph-training-angularspa.de-DE) pushed_at:2020-11 
 - [microsoftgraph/msgraph-training-angularspa.es-ES](https://github.com/microsoftgraph/msgraph-training-angularspa.es-ES) pushed_at:2020-11 
 - [microsoftgraph/msgraph-training-angularspa.fr-FR](https://github.com/microsoftgraph/msgraph-training-angularspa.fr-FR) pushed_at:2020-11 
@@ -172,22 +172,22 @@
 - [microsoftgraph/msgraph-training-angularspa.pt-BR](https://github.com/microsoftgraph/msgraph-training-angularspa.pt-BR) pushed_at:2020-11 
 - [microsoftgraph/msgraph-training-angularspa.ru-RU](https://github.com/microsoftgraph/msgraph-training-angularspa.ru-RU) pushed_at:2020-11 
 - [microsoftgraph/msgraph-training-angularspa.zh-CN](https://github.com/microsoftgraph/msgraph-training-angularspa.zh-CN) pushed_at:2020-11 
-- [microsoftgraph/msgraph-training-aspnet-core](https://github.com/microsoftgraph/msgraph-training-aspnet-core) pushed_at:2020-10 Microsoft Graph Training Module - Build ASP.NET Core apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-aspnet-core.de-DE](https://github.com/microsoftgraph/msgraph-training-aspnet-core.de-DE) pushed_at:2020-11 
-- [microsoftgraph/msgraph-training-aspnet-core.es-ES](https://github.com/microsoftgraph/msgraph-training-aspnet-core.es-ES) pushed_at:2020-11 
-- [microsoftgraph/msgraph-training-aspnet-core.fr-FR](https://github.com/microsoftgraph/msgraph-training-aspnet-core.fr-FR) pushed_at:2020-11 
-- [microsoftgraph/msgraph-training-aspnet-core.ja-JP](https://github.com/microsoftgraph/msgraph-training-aspnet-core.ja-JP) pushed_at:2020-11 
-- [microsoftgraph/msgraph-training-aspnet-core.pt-BR](https://github.com/microsoftgraph/msgraph-training-aspnet-core.pt-BR) pushed_at:2020-11 
-- [microsoftgraph/msgraph-training-aspnet-core.ru-RU](https://github.com/microsoftgraph/msgraph-training-aspnet-core.ru-RU) pushed_at:2020-11 
-- [microsoftgraph/msgraph-training-aspnet-core.zh-CN](https://github.com/microsoftgraph/msgraph-training-aspnet-core.zh-CN) pushed_at:2020-11 
+- [microsoftgraph/msgraph-training-aspnet-core](https://github.com/microsoftgraph/msgraph-training-aspnet-core) pushed_at:2021-01 Microsoft Graph Training Module - Build ASP.NET Core apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-aspnet-core.de-DE](https://github.com/microsoftgraph/msgraph-training-aspnet-core.de-DE) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-aspnet-core.es-ES](https://github.com/microsoftgraph/msgraph-training-aspnet-core.es-ES) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-aspnet-core.fr-FR](https://github.com/microsoftgraph/msgraph-training-aspnet-core.fr-FR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-aspnet-core.ja-JP](https://github.com/microsoftgraph/msgraph-training-aspnet-core.ja-JP) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-aspnet-core.pt-BR](https://github.com/microsoftgraph/msgraph-training-aspnet-core.pt-BR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-aspnet-core.ru-RU](https://github.com/microsoftgraph/msgraph-training-aspnet-core.ru-RU) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-aspnet-core.zh-CN](https://github.com/microsoftgraph/msgraph-training-aspnet-core.zh-CN) pushed_at:2021-01 
 - [microsoftgraph/msgraph-training-aspnetmvcapp](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp) pushed_at:2021-01 Microsoft Graph Training Module - Build MVC apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-aspnetmvcapp.de-DE](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.de-DE) pushed_at:2019-12 
-- [microsoftgraph/msgraph-training-aspnetmvcapp.es-ES](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.es-ES) pushed_at:2019-12 
-- [microsoftgraph/msgraph-training-aspnetmvcapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.fr-FR) pushed_at:2019-12 
-- [microsoftgraph/msgraph-training-aspnetmvcapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.ja-JP) pushed_at:2019-12 
-- [microsoftgraph/msgraph-training-aspnetmvcapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.pt-BR) pushed_at:2019-12 
-- [microsoftgraph/msgraph-training-aspnetmvcapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.ru-RU) pushed_at:2020-05 
-- [microsoftgraph/msgraph-training-aspnetmvcapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.zh-CN) pushed_at:2019-12 
+- [microsoftgraph/msgraph-training-aspnetmvcapp.de-DE](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.de-DE) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-aspnetmvcapp.es-ES](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.es-ES) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-aspnetmvcapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.fr-FR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-aspnetmvcapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.ja-JP) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-aspnetmvcapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.pt-BR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-aspnetmvcapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.ru-RU) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-aspnetmvcapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.zh-CN) pushed_at:2021-01 
 - [microsoftgraph/msgraph-training-authentication](https://github.com/microsoftgraph/msgraph-training-authentication) pushed_at:2020-02 Microsoft Graph Training Module - Authentication
 - [microsoftgraph/msgraph-training-azurefunction-csharp](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp) pushed_at:2020-12 Microsoft Graph Training Module - Build Azure Function apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-azurefunction-csharp.de-DE](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp.de-DE) pushed_at:2020-12 
@@ -231,30 +231,30 @@
 - [microsoftgraph/msgraph-training-dotnet-core.pt-BR](https://github.com/microsoftgraph/msgraph-training-dotnet-core.pt-BR) pushed_at:2020-10 
 - [microsoftgraph/msgraph-training-dotnet-core.ru-RU](https://github.com/microsoftgraph/msgraph-training-dotnet-core.ru-RU) pushed_at:2020-10 
 - [microsoftgraph/msgraph-training-dotnet-core.zh-CN](https://github.com/microsoftgraph/msgraph-training-dotnet-core.zh-CN) pushed_at:2020-10 
-- [microsoftgraph/msgraph-training-ios-objectivec](https://github.com/microsoftgraph/msgraph-training-ios-objectivec) pushed_at:2020-04 Microsoft Graph Training Module - Building iOS Native Apps 
-- [microsoftgraph/msgraph-training-ios-objectivec.de-DE](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.de-DE) pushed_at:2020-04 
-- [microsoftgraph/msgraph-training-ios-objectivec.es-ES](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.es-ES) pushed_at:2020-04 
-- [microsoftgraph/msgraph-training-ios-objectivec.fr-FR](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.fr-FR) pushed_at:2020-04 
-- [microsoftgraph/msgraph-training-ios-objectivec.ja-JP](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.ja-JP) pushed_at:2020-04 
-- [microsoftgraph/msgraph-training-ios-objectivec.pt-BR](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.pt-BR) pushed_at:2020-04 
-- [microsoftgraph/msgraph-training-ios-objectivec.ru-RU](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.ru-RU) pushed_at:2020-05 
-- [microsoftgraph/msgraph-training-ios-objectivec.zh-CN](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.zh-CN) pushed_at:2020-04 
+- [microsoftgraph/msgraph-training-ios-objectivec](https://github.com/microsoftgraph/msgraph-training-ios-objectivec) pushed_at:2021-01 Microsoft Graph Training Module - Building iOS Native Apps 
+- [microsoftgraph/msgraph-training-ios-objectivec.de-DE](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.de-DE) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-ios-objectivec.es-ES](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.es-ES) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-ios-objectivec.fr-FR](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.fr-FR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-ios-objectivec.ja-JP](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.ja-JP) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-ios-objectivec.pt-BR](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.pt-BR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-ios-objectivec.ru-RU](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.ru-RU) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-ios-objectivec.zh-CN](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.zh-CN) pushed_at:2021-01 
 - [microsoftgraph/msgraph-training-ios-swift](https://github.com/microsoftgraph/msgraph-training-ios-swift) pushed_at:2021-01 Microsoft Graph Training Module - Build iOS Swift apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-ios-swift.de-DE](https://github.com/microsoftgraph/msgraph-training-ios-swift.de-DE) pushed_at:2020-04 
-- [microsoftgraph/msgraph-training-ios-swift.es-ES](https://github.com/microsoftgraph/msgraph-training-ios-swift.es-ES) pushed_at:2020-04 
-- [microsoftgraph/msgraph-training-ios-swift.fr-FR](https://github.com/microsoftgraph/msgraph-training-ios-swift.fr-FR) pushed_at:2020-04 
-- [microsoftgraph/msgraph-training-ios-swift.ja-JP](https://github.com/microsoftgraph/msgraph-training-ios-swift.ja-JP) pushed_at:2020-04 
-- [microsoftgraph/msgraph-training-ios-swift.pt-BR](https://github.com/microsoftgraph/msgraph-training-ios-swift.pt-BR) pushed_at:2020-04 
-- [microsoftgraph/msgraph-training-ios-swift.ru-RU](https://github.com/microsoftgraph/msgraph-training-ios-swift.ru-RU) pushed_at:2020-05 
-- [microsoftgraph/msgraph-training-ios-swift.zh-CN](https://github.com/microsoftgraph/msgraph-training-ios-swift.zh-CN) pushed_at:2020-04 
+- [microsoftgraph/msgraph-training-ios-swift.de-DE](https://github.com/microsoftgraph/msgraph-training-ios-swift.de-DE) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-ios-swift.es-ES](https://github.com/microsoftgraph/msgraph-training-ios-swift.es-ES) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-ios-swift.fr-FR](https://github.com/microsoftgraph/msgraph-training-ios-swift.fr-FR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-ios-swift.ja-JP](https://github.com/microsoftgraph/msgraph-training-ios-swift.ja-JP) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-ios-swift.pt-BR](https://github.com/microsoftgraph/msgraph-training-ios-swift.pt-BR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-ios-swift.ru-RU](https://github.com/microsoftgraph/msgraph-training-ios-swift.ru-RU) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-ios-swift.zh-CN](https://github.com/microsoftgraph/msgraph-training-ios-swift.zh-CN) pushed_at:2021-01 
 - [microsoftgraph/msgraph-training-java](https://github.com/microsoftgraph/msgraph-training-java) pushed_at:2021-01 Microsoft Graph Training Module - Build Java apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-java.de-DE](https://github.com/microsoftgraph/msgraph-training-java.de-DE) pushed_at:2020-12 
-- [microsoftgraph/msgraph-training-java.es-ES](https://github.com/microsoftgraph/msgraph-training-java.es-ES) pushed_at:2020-12 
-- [microsoftgraph/msgraph-training-java.fr-FR](https://github.com/microsoftgraph/msgraph-training-java.fr-FR) pushed_at:2020-12 
-- [microsoftgraph/msgraph-training-java.ja-JP](https://github.com/microsoftgraph/msgraph-training-java.ja-JP) pushed_at:2020-12 
-- [microsoftgraph/msgraph-training-java.pt-BR](https://github.com/microsoftgraph/msgraph-training-java.pt-BR) pushed_at:2020-12 
-- [microsoftgraph/msgraph-training-java.ru-RU](https://github.com/microsoftgraph/msgraph-training-java.ru-RU) pushed_at:2020-12 
-- [microsoftgraph/msgraph-training-java.zh-CN](https://github.com/microsoftgraph/msgraph-training-java.zh-CN) pushed_at:2020-12 
+- [microsoftgraph/msgraph-training-java.de-DE](https://github.com/microsoftgraph/msgraph-training-java.de-DE) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-java.es-ES](https://github.com/microsoftgraph/msgraph-training-java.es-ES) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-java.fr-FR](https://github.com/microsoftgraph/msgraph-training-java.fr-FR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-java.ja-JP](https://github.com/microsoftgraph/msgraph-training-java.ja-JP) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-java.pt-BR](https://github.com/microsoftgraph/msgraph-training-java.pt-BR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-java.ru-RU](https://github.com/microsoftgraph/msgraph-training-java.ru-RU) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-java.zh-CN](https://github.com/microsoftgraph/msgraph-training-java.zh-CN) pushed_at:2021-01 
 - [microsoftgraph/msgraph-training-javascriptspa](https://github.com/microsoftgraph/msgraph-training-javascriptspa) pushed_at:2020-10 Microsoft Graph Training Module - Build JavaScript single-page apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-javascriptspa.de-DE](https://github.com/microsoftgraph/msgraph-training-javascriptspa.de-DE) pushed_at:2020-11 
 - [microsoftgraph/msgraph-training-javascriptspa.es-ES](https://github.com/microsoftgraph/msgraph-training-javascriptspa.es-ES) pushed_at:2020-11 
@@ -271,13 +271,13 @@
 - [microsoftgraph/msgraph-training-microsoftflow.ru-RU](https://github.com/microsoftgraph/msgraph-training-microsoftflow.ru-RU) pushed_at:2020-09 
 - [microsoftgraph/msgraph-training-microsoftflow.zh-CN](https://github.com/microsoftgraph/msgraph-training-microsoftflow.zh-CN) pushed_at:2020-09 
 - [microsoftgraph/msgraph-training-nodeexpressapp](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp) pushed_at:2021-01 Microsoft Graph Training Module - Build Node.js web apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-nodeexpressapp.de-DE](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.de-DE) pushed_at:2020-11 
-- [microsoftgraph/msgraph-training-nodeexpressapp.es-ES](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.es-ES) pushed_at:2020-11 
-- [microsoftgraph/msgraph-training-nodeexpressapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.fr-FR) pushed_at:2020-11 
-- [microsoftgraph/msgraph-training-nodeexpressapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.ja-JP) pushed_at:2020-11 
-- [microsoftgraph/msgraph-training-nodeexpressapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.pt-BR) pushed_at:2020-11 
-- [microsoftgraph/msgraph-training-nodeexpressapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.ru-RU) pushed_at:2020-11 
-- [microsoftgraph/msgraph-training-nodeexpressapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.zh-CN) pushed_at:2020-11 
+- [microsoftgraph/msgraph-training-nodeexpressapp.de-DE](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.de-DE) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-nodeexpressapp.es-ES](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.es-ES) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-nodeexpressapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.fr-FR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-nodeexpressapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.ja-JP) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-nodeexpressapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.pt-BR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-nodeexpressapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.ru-RU) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-nodeexpressapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.zh-CN) pushed_at:2021-01 
 - [microsoftgraph/msgraph-training-office-addin](https://github.com/microsoftgraph/msgraph-training-office-addin) pushed_at:2020-12 Microsoft Graph Training Module - Build Office Add-ins with Microsoft Graph
 - [microsoftgraph/msgraph-training-office-addin.de-DE](https://github.com/microsoftgraph/msgraph-training-office-addin.de-DE) pushed_at:2020-12 
 - [microsoftgraph/msgraph-training-office-addin.es-ES](https://github.com/microsoftgraph/msgraph-training-office-addin.es-ES) pushed_at:2020-12 
@@ -289,13 +289,13 @@
 - [microsoftgraph/msgraph-training-optimize-data-usage](https://github.com/microsoftgraph/msgraph-training-optimize-data-usage) pushed_at:2020-12 
 - [microsoftgraph/msgraph-training-optimize-network-traffic](https://github.com/microsoftgraph/msgraph-training-optimize-network-traffic) pushed_at:2020-12 
 - [microsoftgraph/msgraph-training-phpapp](https://github.com/microsoftgraph/msgraph-training-phpapp) pushed_at:2021-01 Microsoft Graph Training Module - Build PHP apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-phpapp.de-DE](https://github.com/microsoftgraph/msgraph-training-phpapp.de-DE) pushed_at:2020-09 
-- [microsoftgraph/msgraph-training-phpapp.es-ES](https://github.com/microsoftgraph/msgraph-training-phpapp.es-ES) pushed_at:2020-09 
-- [microsoftgraph/msgraph-training-phpapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-phpapp.fr-FR) pushed_at:2020-09 
-- [microsoftgraph/msgraph-training-phpapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-phpapp.ja-JP) pushed_at:2020-09 
-- [microsoftgraph/msgraph-training-phpapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-phpapp.pt-BR) pushed_at:2020-09 
-- [microsoftgraph/msgraph-training-phpapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-phpapp.ru-RU) pushed_at:2020-09 
-- [microsoftgraph/msgraph-training-phpapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-phpapp.zh-CN) pushed_at:2020-09 
+- [microsoftgraph/msgraph-training-phpapp.de-DE](https://github.com/microsoftgraph/msgraph-training-phpapp.de-DE) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-phpapp.es-ES](https://github.com/microsoftgraph/msgraph-training-phpapp.es-ES) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-phpapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-phpapp.fr-FR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-phpapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-phpapp.ja-JP) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-phpapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-phpapp.pt-BR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-phpapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-phpapp.ru-RU) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-phpapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-phpapp.zh-CN) pushed_at:2021-01 
 - [microsoftgraph/msgraph-training-powerautomate](https://github.com/microsoftgraph/msgraph-training-powerautomate) pushed_at:2020-08 Microsoft Graph Training Module - Create a Microsoft Graph JSON Batch Custom Connector for Microsoft Power Automate & Azure Logic Apps
 - [microsoftgraph/msgraph-training-powerautomate.de-DE](https://github.com/microsoftgraph/msgraph-training-powerautomate.de-DE) pushed_at:2020-11 
 - [microsoftgraph/msgraph-training-powerautomate.es-ES](https://github.com/microsoftgraph/msgraph-training-powerautomate.es-ES) pushed_at:2020-11 
@@ -305,13 +305,13 @@
 - [microsoftgraph/msgraph-training-powerautomate.ru-RU](https://github.com/microsoftgraph/msgraph-training-powerautomate.ru-RU) pushed_at:2020-11 
 - [microsoftgraph/msgraph-training-powerautomate.zh-CN](https://github.com/microsoftgraph/msgraph-training-powerautomate.zh-CN) pushed_at:2020-11 
 - [microsoftgraph/msgraph-training-pythondjangoapp](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp) pushed_at:2021-01 Microsoft Graph Training Module - Build Python apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-pythondjangoapp.de-DE](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.de-DE) pushed_at:2020-12 
-- [microsoftgraph/msgraph-training-pythondjangoapp.es-ES](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.es-ES) pushed_at:2020-12 
-- [microsoftgraph/msgraph-training-pythondjangoapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.fr-FR) pushed_at:2020-12 
-- [microsoftgraph/msgraph-training-pythondjangoapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.ja-JP) pushed_at:2020-12 
-- [microsoftgraph/msgraph-training-pythondjangoapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.pt-BR) pushed_at:2020-12 
-- [microsoftgraph/msgraph-training-pythondjangoapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.ru-RU) pushed_at:2020-12 
-- [microsoftgraph/msgraph-training-pythondjangoapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.zh-CN) pushed_at:2020-12 
+- [microsoftgraph/msgraph-training-pythondjangoapp.de-DE](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.de-DE) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-pythondjangoapp.es-ES](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.es-ES) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-pythondjangoapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.fr-FR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-pythondjangoapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.ja-JP) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-pythondjangoapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.pt-BR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-pythondjangoapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.ru-RU) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-pythondjangoapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.zh-CN) pushed_at:2021-01 
 - [microsoftgraph/msgraph-training-react-native](https://github.com/microsoftgraph/msgraph-training-react-native) pushed_at:2020-11 Microsoft Graph Training Module - Build React Native apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-react-native.de-DE](https://github.com/microsoftgraph/msgraph-training-react-native.de-DE) pushed_at:2020-11 
 - [microsoftgraph/msgraph-training-react-native.es-ES](https://github.com/microsoftgraph/msgraph-training-react-native.es-ES) pushed_at:2020-11 
@@ -319,7 +319,7 @@
 - [microsoftgraph/msgraph-training-react-native.ja-JP](https://github.com/microsoftgraph/msgraph-training-react-native.ja-JP) pushed_at:2020-11 
 - [microsoftgraph/msgraph-training-react-native.ru-RU](https://github.com/microsoftgraph/msgraph-training-react-native.ru-RU) pushed_at:2020-11 
 - [microsoftgraph/msgraph-training-react-native.zh-CN](https://github.com/microsoftgraph/msgraph-training-react-native.zh-CN) pushed_at:2020-11 
-- [microsoftgraph/msgraph-training-reactspa](https://github.com/microsoftgraph/msgraph-training-reactspa) pushed_at:2020-12 Microsoft Graph Training Module - Build React single-page apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-reactspa](https://github.com/microsoftgraph/msgraph-training-reactspa) pushed_at:2021-01 Microsoft Graph Training Module - Build React single-page apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-reactspa.de-DE](https://github.com/microsoftgraph/msgraph-training-reactspa.de-DE) pushed_at:2020-10 
 - [microsoftgraph/msgraph-training-reactspa.es-ES](https://github.com/microsoftgraph/msgraph-training-reactspa.es-ES) pushed_at:2020-10 
 - [microsoftgraph/msgraph-training-reactspa.fr-FR](https://github.com/microsoftgraph/msgraph-training-reactspa.fr-FR) pushed_at:2020-10 
@@ -361,12 +361,12 @@
 - [microsoftgraph/msgraph-training-uwp.zh-CN](https://github.com/microsoftgraph/msgraph-training-uwp.zh-CN) pushed_at:2020-12 
 - [microsoftgraph/msgraph-training-webhooks-customdata-insights](https://github.com/microsoftgraph/msgraph-training-webhooks-customdata-insights) pushed_at:2020-07 [ARCHIVED] Microsoft Graph Training Module - Webhooks, Custom Data, Insights and Delta Query
 - [microsoftgraph/msgraph-training-xamarin](https://github.com/microsoftgraph/msgraph-training-xamarin) pushed_at:2021-01 Microsoft Graph Training Module - Build Xamarin apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-xamarin.de-DE](https://github.com/microsoftgraph/msgraph-training-xamarin.de-DE) pushed_at:2020-04 
-- [microsoftgraph/msgraph-training-xamarin.es-ES](https://github.com/microsoftgraph/msgraph-training-xamarin.es-ES) pushed_at:2020-04 
-- [microsoftgraph/msgraph-training-xamarin.fr-FR](https://github.com/microsoftgraph/msgraph-training-xamarin.fr-FR) pushed_at:2020-04 
-- [microsoftgraph/msgraph-training-xamarin.ja-JP](https://github.com/microsoftgraph/msgraph-training-xamarin.ja-JP) pushed_at:2020-04 
-- [microsoftgraph/msgraph-training-xamarin.ru-RU](https://github.com/microsoftgraph/msgraph-training-xamarin.ru-RU) pushed_at:2020-05 
-- [microsoftgraph/msgraph-training-xamarin.zh-CN](https://github.com/microsoftgraph/msgraph-training-xamarin.zh-CN) pushed_at:2020-04 
+- [microsoftgraph/msgraph-training-xamarin.de-DE](https://github.com/microsoftgraph/msgraph-training-xamarin.de-DE) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-xamarin.es-ES](https://github.com/microsoftgraph/msgraph-training-xamarin.es-ES) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-xamarin.fr-FR](https://github.com/microsoftgraph/msgraph-training-xamarin.fr-FR) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-xamarin.ja-JP](https://github.com/microsoftgraph/msgraph-training-xamarin.ja-JP) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-xamarin.ru-RU](https://github.com/microsoftgraph/msgraph-training-xamarin.ru-RU) pushed_at:2021-01 
+- [microsoftgraph/msgraph-training-xamarin.zh-CN](https://github.com/microsoftgraph/msgraph-training-xamarin.zh-CN) pushed_at:2021-01 
 
 ## PHP
 
@@ -405,7 +405,7 @@
 
 ## SCSS
 
-- [microsoftgraph/msgraph-sdk-design](https://github.com/microsoftgraph/msgraph-sdk-design) pushed_at:2020-10 Requirements and design documents for Microsoft Graph SDKs
+- [microsoftgraph/msgraph-sdk-design](https://github.com/microsoftgraph/msgraph-sdk-design) pushed_at:2021-01 Requirements and design documents for Microsoft Graph SDKs
 
 ## Swift
 

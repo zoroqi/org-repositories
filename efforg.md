@@ -124,7 +124,7 @@
 - [EFForg/badger-sett](https://github.com/EFForg/badger-sett) pushed_at:2021-01 Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
 - [EFForg/call-congress](https://github.com/EFForg/call-congress) pushed_at:2020-05 a simple server that connects calls between citizens and their congress person using the Twilio API
 - [EFForg/contact-congress](https://github.com/EFForg/contact-congress) pushed_at:2014-06 Sending electronic written messages to members of Congress by reverse engineering their contact forms.
-- [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) pushed_at:2020-10 Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
+- [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) pushed_at:2021-01 Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
 - [EFForg/cryptobot-email](https://github.com/EFForg/cryptobot-email) pushed_at:2014-05 
 - [EFForg/cryptolog](https://github.com/EFForg/cryptolog) pushed_at:2016-07 Cryptolog is a tool for anonymizing webserver logs.
 - [EFForg/https-everywhere-standalone](https://github.com/EFForg/https-everywhere-standalone) pushed_at:2020-12 Transparently redirect insecure HTTP to secure HTTPS using HTTPS Everywhere and `mitmproxy`

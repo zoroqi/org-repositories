@@ -14,8 +14,8 @@
 - [JavaScript](#javascript) (1)
 - [Jupyter Notebook](#jupyter-notebook) (14)
 - [MLIR](#mlir) (1)
-- [Others](#others) (4)
-- [Python](#python) (38)
+- [Others](#others) (3)
+- [Python](#python) (39)
 - [Rust](#rust) (1)
 - [Scala](#scala) (1)
 - [Shell](#shell) (1)
@@ -84,7 +84,6 @@
 
 - [tensorflow/community](https://github.com/tensorflow/community) pushed_at:2021-01 Stores documents used by the TensorFlow developer community
 - [tensorflow/mlir](https://github.com/tensorflow/mlir) pushed_at:2019-12 "Multi-Level Intermediate Representation" Compiler Infrastructure
-- [tensorflow/recommenders-addons](https://github.com/tensorflow/recommenders-addons) pushed_at:2021-01 Additional utils and helpers to extend TensorFlow when build recommendation systems, contributed and maintained by SIG Recommenders.
 - [tensorflow/tfrc](https://github.com/tensorflow/tfrc) pushed_at:2019-07 
 
 ## Python
@@ -106,7 +105,7 @@
 - [tensorflow/lattice](https://github.com/tensorflow/lattice) pushed_at:2020-12 Lattice methods in TensorFlow
 - [tensorflow/lingvo](https://github.com/tensorflow/lingvo) pushed_at:2021-01 Lingvo
 - [tensorflow/mesh](https://github.com/tensorflow/mesh) pushed_at:2021-01 Mesh TensorFlow: Model Parallelism Made Easier
-- [tensorflow/metadata](https://github.com/tensorflow/metadata) pushed_at:2020-12 Utilities for passing TensorFlow-related metadata between tools
+- [tensorflow/metadata](https://github.com/tensorflow/metadata) pushed_at:2021-01 Utilities for passing TensorFlow-related metadata between tools
 - [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) pushed_at:2021-01 Model analysis tools for TensorFlow
 - [tensorflow/model-card-toolkit](https://github.com/tensorflow/model-card-toolkit) pushed_at:2021-01  a tool that leverages rich metadata and lineage information in MLMD to build a model card
 - [tensorflow/model-optimization](https://github.com/tensorflow/model-optimization) pushed_at:2021-01 A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning.
@@ -117,8 +116,9 @@
 - [tensorflow/nmt](https://github.com/tensorflow/nmt) pushed_at:2019-02 TensorFlow Neural Machine Translation Tutorial
 - [tensorflow/privacy](https://github.com/tensorflow/privacy) pushed_at:2021-01 Library for training machine learning models with privacy for training data
 - [tensorflow/quantum](https://github.com/tensorflow/quantum) pushed_at:2021-01 Hybrid Quantum-Classical Machine Learning in TensorFlow
-- [tensorflow/ranking](https://github.com/tensorflow/ranking) pushed_at:2020-08 Learning to Rank in TensorFlow
+- [tensorflow/ranking](https://github.com/tensorflow/ranking) pushed_at:2021-01 Learning to Rank in TensorFlow
 - [tensorflow/recommenders](https://github.com/tensorflow/recommenders) pushed_at:2021-01 TensorFlow Recommenders is a library for building recommender system models using TensorFlow.
+- [tensorflow/recommenders-addons](https://github.com/tensorflow/recommenders-addons) pushed_at:2021-01 Additional utils and helpers to extend TensorFlow when build recommendation systems, contributed and maintained by SIG Recommenders.
 - [tensorflow/skflow](https://github.com/tensorflow/skflow) pushed_at:2020-04 Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) pushed_at:2020-12 Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [tensorflow/tensorboard-plugin-example](https://github.com/tensorflow/tensorboard-plugin-example) pushed_at:2019-08 
@@ -134,7 +134,7 @@
 
 ## Scala
 
-- [tensorflow/ecosystem](https://github.com/tensorflow/ecosystem) pushed_at:2020-12 Integration of TensorFlow with other open-source frameworks
+- [tensorflow/ecosystem](https://github.com/tensorflow/ecosystem) pushed_at:2021-01 Integration of TensorFlow with other open-source frameworks
 
 ## Shell
 

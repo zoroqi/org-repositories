@@ -362,7 +362,7 @@
 - [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) pushed_at:2021-01 The new Open Collective email service, powered by Eymail
 - [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) pushed_at:2021-01 Open Collective Frontend. A React app powered by Next.js.
 - [opencollective/opencollective-giftcards-generator](https://github.com/opencollective/opencollective-giftcards-generator) pushed_at:2020-04 Simple app to generate read-to-print Open Collective gift cards
-- [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) pushed_at:2020-12 The Open Collective Image Server (badges, banners, avatar, etc ...)
+- [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) pushed_at:2021-01 The Open Collective Image Server (badges, banners, avatar, etc ...)
 - [opencollective/opencollective-jobs](https://github.com/opencollective/opencollective-jobs) pushed_at:2018-05 
 - [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) pushed_at:2021-01 The Open Collective PDF Server
 - [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) pushed_at:2020-11 Prompt your users to donate to your collective after `npm install`

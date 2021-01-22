@@ -63,7 +63,7 @@
 
 ## Python
 
-- [ustclug/hackergame](https://github.com/ustclug/hackergame) pushed_at:2020-11 Hackergame platform for 2018 and beyond
+- [ustclug/hackergame](https://github.com/ustclug/hackergame) pushed_at:2021-01 Hackergame platform for 2018 and beyond
 - [ustclug/hackergame2017](https://github.com/ustclug/hackergame2017) pushed_at:2017-10 
 - [ustclug/library](https://github.com/ustclug/library) pushed_at:2017-11 LUG Library
 - [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) pushed_at:2021-01 LUG VPN 申请系统
