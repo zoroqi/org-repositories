@@ -39,3 +39,5 @@
 - [efforg](./efforg.md)
 - [facebookresearch](./facebookresearch.md)
 - [wikimedia](./wikimedia.md)
+- [awslabs](./awslabs.md)
+- [w3c](./w3c.md)

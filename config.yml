@@ -115,4 +115,10 @@
 - name: wikimedia
   userType: org
   file: wikimedia.md
+- name: awslabs
+  userType: org
+  file: awslabs.md
+- name: w3c
+  userType: org
+  file: w3c.md
 
