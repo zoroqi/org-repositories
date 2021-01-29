@@ -58,11 +58,11 @@
 - [facebook/SPARTA](https://github.com/facebook/SPARTA) pushed_at:2021-01 SPARTA is a library that provides the basic blocks for building high-performance static code analyzers based on Abstract Interpretation.
 - [facebook/squangle](https://github.com/facebook/squangle) pushed_at:2021-01 SQuangLe is a C++ API for accessing MySQL servers
 - [facebook/Surround360](https://github.com/facebook/Surround360) pushed_at:2019-08 Surround360 is Facebook's open source hardware and software for capturing stereoscopic 3D 360 video for VR. The repo contains hardware designs, as well as software for camera control and rendering.
-- [facebook/ThreatExchange](https://github.com/facebook/ThreatExchange) pushed_at:2020-12 Share threat information with vetted partners
+- [facebook/ThreatExchange](https://github.com/facebook/ThreatExchange) pushed_at:2021-01 Share threat information with vetted partners
 - [facebook/treadmill](https://github.com/facebook/treadmill) pushed_at:2020-12 An intelligent loadtester
 - [facebook/wangle](https://github.com/facebook/wangle) pushed_at:2021-01 Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
 - [facebook/watchman](https://github.com/facebook/watchman) pushed_at:2021-01 Watches files and records, or triggers actions, when they change. 
-- [facebook/wdt](https://github.com/facebook/wdt) pushed_at:2020-12 Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
+- [facebook/wdt](https://github.com/facebook/wdt) pushed_at:2021-01 Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
 - [facebook/yoga](https://github.com/facebook/yoga) pushed_at:2021-01 Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 
 ## Go
@@ -109,7 +109,7 @@
 - [facebook/fbjs](https://github.com/facebook/fbjs) pushed_at:2021-01 A collection of utility libraries used by other Facebook JS projects.
 - [facebook/fbt](https://github.com/facebook/fbt) pushed_at:2021-01 A JavaScript Internationalization Framework
 - [facebook/flux](https://github.com/facebook/flux) pushed_at:2021-01 Application Architecture for Building User Interfaces
-- [facebook/instant-articles-builder](https://github.com/facebook/instant-articles-builder) pushed_at:2020-12 Instant Articles Rules Editor
+- [facebook/instant-articles-builder](https://github.com/facebook/instant-articles-builder) pushed_at:2021-01 Instant Articles Rules Editor
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) pushed_at:2021-01 A JavaScript codemod toolkit.
 - [facebook/metro](https://github.com/facebook/metro) pushed_at:2021-01 🚇 The JavaScript bundler for React Native.
 - [facebook/planout](https://github.com/facebook/planout) pushed_at:2020-10 PlanOut is a library and interpreter for designing online experiments.
@@ -142,7 +142,7 @@
 - [facebook/FBMemoryProfiler](https://github.com/facebook/FBMemoryProfiler) pushed_at:2020-04 iOS tool that helps with profiling iOS Memory usage.
 - [facebook/FLAnimatedImage](https://github.com/facebook/FLAnimatedImage) pushed_at:2015-08 Performant animated GIF engine for iOS
 - [facebook/idb](https://github.com/facebook/idb) pushed_at:2021-01 idb is a flexible command line interface for automating iOS simulators and devices
-- [facebook/Shimmer](https://github.com/facebook/Shimmer) pushed_at:2020-01 An easy way to add a simple, shimmering effect to any view in an iOS app.
+- [facebook/Shimmer](https://github.com/facebook/Shimmer) pushed_at:2021-01 An easy way to add a simple, shimmering effect to any view in an iOS app.
 - [facebook/tac_plus](https://github.com/facebook/tac_plus) pushed_at:2019-11 A Tacacs+ Daemon tested on Linux (CentOS) to run AAA via TACACS+ Protocol via IPv4 and IPv6.
 - [facebook/xctool](https://github.com/facebook/xctool) pushed_at:2019-12 An extension for Apple's xcodebuild that makes it easier to test iOS and macOS apps.
 

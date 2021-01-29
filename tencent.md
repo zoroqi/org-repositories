@@ -70,7 +70,7 @@
 - [Tencent/plato](https://github.com/Tencent/plato) pushed_at:2021-01 腾讯高性能分布式图计算框架Plato
 - [Tencent/puerts](https://github.com/Tencent/puerts) pushed_at:2021-01 Write your game with TypeScript in the ue4 or unity
 - [Tencent/rapidjson](https://github.com/Tencent/rapidjson) pushed_at:2021-01 A fast JSON parser/generator for C++ with both SAX/DOM style API
-- [Tencent/sluaunreal](https://github.com/Tencent/sluaunreal) pushed_at:2020-12 lua dev plugin for unreal engine 4
+- [Tencent/sluaunreal](https://github.com/Tencent/sluaunreal) pushed_at:2021-01 lua dev plugin for unreal engine 4
 - [Tencent/Teaf](https://github.com/Tencent/Teaf) pushed_at:2019-02 Tencent Easy ACE Framework，基于ACE的高性能服务框架，有完善的监控统计，数据库访问等功能
 - [Tencent/TenDBCluster-Tdbctl](https://github.com/Tencent/TenDBCluster-Tdbctl) pushed_at:2020-12 Tdbctl is the control node of TenDB Cluster.
 - [Tencent/TenDBCluster-TenDB](https://github.com/Tencent/TenDBCluster-TenDB) pushed_at:2020-09 TenDB is the data node of TenDB Cluster.
@@ -111,7 +111,7 @@
 
 ## JavaScript
 
-- [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework) pushed_at:2021-01 ☁️ 云开发 🚀  云原生一体化部署工具 🏆 CloudBase Framework🏆   一键部署，不限框架语言，云端一体化开发，基于Serverless 架构。A front-end and back-end integrated deployment tool 🔥  One-click deploy to serverless architecture. https://docs.cloudbase.net/framework
+- [Tencent/cloudbase-framework](https://github.com/Tencent/cloudbase-framework) pushed_at:2021-01 腾讯 ☁️  云开发 🚀  云原生一体化部署工具 🏆 CloudBase Framework🏆   一键部署，不限框架语言，云端一体化开发，基于Serverless 架构。A front-end and back-end integrated deployment tool 🔥  One-click deploy to serverless architecture. https://docs.cloudbase.net/framework
 - [Tencent/Face2FaceTranslator](https://github.com/Tencent/Face2FaceTranslator) pushed_at:2019-11 面对面翻译小程序是微信团队针对面对面沟通的场景开发的流式语音翻译小程序，通过微信同声传译插件提供了语音识别，文本翻译等功能。
 - [Tencent/iHearing](https://github.com/Tencent/iHearing) pushed_at:2019-04 微信智聆口语测评小程序是针对口语练习场景开发的测评类小程序，通过智聆口语评测插件提供了句子和单词发音准确度等功能。
 - [Tencent/kbone](https://github.com/Tencent/kbone) pushed_at:2021-01 一个致力于微信小程序和 Web 端同构的解决方案
@@ -165,7 +165,7 @@
 
 - [Tencent/ActionDetection-DBG](https://github.com/Tencent/ActionDetection-DBG) pushed_at:2020-03 
 - [Tencent/bk-bcs-saas](https://github.com/Tencent/bk-bcs-saas) pushed_at:2021-01 蓝鲸智云容器管理平台SaaS（Blueking Container Service）
-- [Tencent/bk-PaaS](https://github.com/Tencent/bk-PaaS) pushed_at:2020-08 蓝鲸智云PaaS平台（BlueKing PaaS）
+- [Tencent/bk-PaaS](https://github.com/Tencent/bk-PaaS) pushed_at:2021-01 蓝鲸智云PaaS平台（BlueKing PaaS）
 - [Tencent/bk-sops](https://github.com/Tencent/bk-sops) pushed_at:2021-01 蓝鲸智云标准运维(SOPS)
 - [Tencent/DVQA](https://github.com/Tencent/DVQA) pushed_at:2020-04 Deep learning-based Video Quality Assessment
 - [Tencent/FaceDetection-DSFD](https://github.com/Tencent/FaceDetection-DSFD) pushed_at:2020-07 腾讯优图高精度双分支人脸检测器

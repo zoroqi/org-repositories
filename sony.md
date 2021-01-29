@@ -20,7 +20,7 @@
 
 ## C
 
-- [sony/nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) pushed_at:2020-12 Neural Network Libraries https://nnabla.org/ - C Runtime
+- [sony/nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) pushed_at:2021-01 Neural Network Libraries https://nnabla.org/ - C Runtime
 - [sony/openocd-nuttx](https://github.com/sony/openocd-nuttx) pushed_at:2019-01 Fork of OpenOCD with NuttX thread support.
 - [sony/pdaf-library](https://github.com/sony/pdaf-library) pushed_at:2016-03 
 

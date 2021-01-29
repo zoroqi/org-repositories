@@ -20,7 +20,7 @@
 ## C++
 
 - [openjdk/jfx](https://github.com/openjdk/jfx) pushed_at:2021-01 JavaFX mainline development
-- [openjdk/jfx11](https://github.com/openjdk/jfx11) pushed_at:2020-12 Read-only mirror of https://hg.openjdk.java.net/openjfx/11-dev/rt/
+- [openjdk/jfx11](https://github.com/openjdk/jfx11) pushed_at:2021-01 Read-only mirror of https://hg.openjdk.java.net/openjfx/11-dev/rt/
 - [openjdk/jfx12](https://github.com/openjdk/jfx12) pushed_at:2021-01 Read-only mirror of https://hg.openjdk.java.net/openjfx/12-dev/rt/
 - [openjdk/jfx13](https://github.com/openjdk/jfx13) pushed_at:2020-07 Read-only mirror of https://hg.openjdk.java.net/openjfx/13-dev/rt
 
@@ -65,7 +65,7 @@
 - [openjdk/jmh-jdk-microbenchmarks](https://github.com/openjdk/jmh-jdk-microbenchmarks) pushed_at:2021-01 https://openjdk.java.net/projects/code-tools/jmh-jdk-microbenchmarks/
 - [openjdk/jol](https://github.com/openjdk/jol) pushed_at:2020-10 https://openjdk.java.net/projects/code-tools/jol/
 - [openjdk/jtharness](https://github.com/openjdk/jtharness) pushed_at:2020-12 https://wiki.openjdk.java.net/display/CodeTools/JT+Harness
-- [openjdk/jtreg](https://github.com/openjdk/jtreg) pushed_at:2020-11 Read-only mirror of https://hg.openjdk.java.net/code-tools/jtreg/
+- [openjdk/jtreg](https://github.com/openjdk/jtreg) pushed_at:2021-01 Read-only mirror of https://hg.openjdk.java.net/code-tools/jtreg/
 - [openjdk/lanai](https://github.com/openjdk/lanai) pushed_at:2021-01 https://openjdk.java.net/projects/lanai/
 - [openjdk/loom](https://github.com/openjdk/loom) pushed_at:2021-01 https://openjdk.java.net/projects/loom/
 - [openjdk/metropolis](https://github.com/openjdk/metropolis) pushed_at:2020-10 http://openjdk.java.net/projects/metropolis/
@@ -77,7 +77,7 @@
 - [openjdk/portola](https://github.com/openjdk/portola) pushed_at:2021-01 https://openjdk.java.net/projects/portola/
 - [openjdk/shenandoah](https://github.com/openjdk/shenandoah) pushed_at:2021-01 https://openjdk.java.net/projects/shenandoah
 - [openjdk/shenandoah-visualizer](https://github.com/openjdk/shenandoah-visualizer) pushed_at:2020-11 
-- [openjdk/sigtest](https://github.com/openjdk/sigtest) pushed_at:2020-12 https://wiki.openjdk.java.net/display/CodeTools/sigtest
+- [openjdk/sigtest](https://github.com/openjdk/sigtest) pushed_at:2021-01 https://wiki.openjdk.java.net/display/CodeTools/sigtest
 - [openjdk/skara](https://github.com/openjdk/skara) pushed_at:2021-01 https://openjdk.java.net/projects/skara/
 - [openjdk/tsan](https://github.com/openjdk/tsan) pushed_at:2021-01 https://openjdk.java.net/projects/tsan
 - [openjdk/valhalla](https://github.com/openjdk/valhalla) pushed_at:2021-01 https://openjdk.java.net/projects/valhalla
@@ -89,7 +89,7 @@
 
 ## Makefile
 
-- [openjdk/guide](https://github.com/openjdk/guide) pushed_at:2020-12 Developer's Guide
+- [openjdk/guide](https://github.com/openjdk/guide) pushed_at:2021-01 Developer's Guide
 
 ## Mathematica
 

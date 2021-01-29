@@ -51,7 +51,7 @@
 
 ## Dockerfile
 
-- [apple/swift-docker](https://github.com/apple/swift-docker) pushed_at:2020-12 Docker Official Image packaging for Swift
+- [apple/swift-docker](https://github.com/apple/swift-docker) pushed_at:2021-01 Docker Official Image packaging for Swift
 
 ## HTML
 
@@ -134,38 +134,38 @@
 - [apple/swift-3-api-guidelines-review](https://github.com/apple/swift-3-api-guidelines-review) pushed_at:2018-11 
 - [apple/swift-algorithms](https://github.com/apple/swift-algorithms) pushed_at:2021-01 Swift Algorithms is an open-source package of sequence and collection algorithms, along with their related types.
 - [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) pushed_at:2021-01 Straightforward, type-safe argument parsing for Swift
-- [apple/swift-atomics](https://github.com/apple/swift-atomics) pushed_at:2020-11 This package implements an atomics library for Swift, providing atomic operations for a variety of Swift types, including integers and pointer values. The goal is to enable intrepid developers to start building synchronization constructs directly in Swift.
+- [apple/swift-atomics](https://github.com/apple/swift-atomics) pushed_at:2021-01 This package implements an atomics library for Swift, providing atomic operations for a variety of Swift types, including integers and pointer values. The goal is to enable intrepid developers to start building synchronization constructs directly in Swift.
 - [apple/swift-cluster-membership](https://github.com/apple/swift-cluster-membership) pushed_at:2020-11 Distributed Membership Protocol implementations in Swift
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) pushed_at:2021-01 The Foundation Project, providing core utilities, internationalization, and OS independence
 - [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) pushed_at:2021-01 The XCTest Project, A Swift core library for providing unit test support
 - [apple/swift-crypto](https://github.com/apple/swift-crypto) pushed_at:2021-01 Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
-- [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) pushed_at:2020-12 Instrumentation library for Swift server applications
-- [apple/swift-distributed-tracing-baggage](https://github.com/apple/swift-distributed-tracing-baggage) pushed_at:2020-12 Minimal context propagation container with Logging
-- [apple/swift-distributed-tracing-baggage-core](https://github.com/apple/swift-distributed-tracing-baggage-core) pushed_at:2020-12 Minimal context propagation container
+- [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) pushed_at:2021-01 Instrumentation library for Swift server applications
+- [apple/swift-distributed-tracing-baggage](https://github.com/apple/swift-distributed-tracing-baggage) pushed_at:2021-01 Minimal context propagation container with Logging
+- [apple/swift-distributed-tracing-baggage-core](https://github.com/apple/swift-distributed-tracing-baggage-core) pushed_at:2021-01 Minimal context propagation container
 - [apple/swift-driver](https://github.com/apple/swift-driver) pushed_at:2021-01 Swift compiler driver reimplementation in Swift
 - [apple/swift-evolution-staging](https://github.com/apple/swift-evolution-staging) pushed_at:2020-12 
 - [apple/swift-format](https://github.com/apple/swift-format) pushed_at:2021-01 Formatting technology for Swift source code
 - [apple/swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) pushed_at:2021-01 A Swift implementation of the HTTP Structured Header Field specification.
 - [apple/swift-llbuild2](https://github.com/apple/swift-llbuild2) pushed_at:2021-01 A fresh take on a low-level build system API.
 - [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2021-01 A Logging API for Swift
-- [apple/swift-metrics](https://github.com/apple/swift-metrics) pushed_at:2020-11 A Metrics API for Swift
+- [apple/swift-metrics](https://github.com/apple/swift-metrics) pushed_at:2021-01 A Metrics API for Swift
 - [apple/swift-metrics-extras](https://github.com/apple/swift-metrics-extras) pushed_at:2020-11 
 - [apple/swift-nio](https://github.com/apple/swift-nio) pushed_at:2021-01 Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 - [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) pushed_at:2021-01 examples of how to use swift-nio
-- [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) pushed_at:2020-10 Useful code around SwiftNIO.
+- [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) pushed_at:2021-01 Useful code around SwiftNIO.
 - [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) pushed_at:2021-01 HTTP/2 support for SwiftNIO
 - [apple/swift-nio-nghttp2-support](https://github.com/apple/swift-nio-nghttp2-support) pushed_at:2020-12 
 - [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) pushed_at:2021-01 SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
 - [apple/swift-nio-ssl](https://github.com/apple/swift-nio-ssl) pushed_at:2021-01 TLS Support for SwiftNIO, based on BoringSSL.
 - [apple/swift-nio-ssl-support](https://github.com/apple/swift-nio-ssl-support) pushed_at:2020-12 
-- [apple/swift-nio-transport-services](https://github.com/apple/swift-nio-transport-services) pushed_at:2020-11 Extensions for SwiftNIO to support Apple platforms as first-class citizens.
+- [apple/swift-nio-transport-services](https://github.com/apple/swift-nio-transport-services) pushed_at:2021-01 Extensions for SwiftNIO to support Apple platforms as first-class citizens.
 - [apple/swift-nio-zlib-support](https://github.com/apple/swift-nio-zlib-support) pushed_at:2020-12 
 - [apple/swift-numerics](https://github.com/apple/swift-numerics) pushed_at:2020-12 Numerical APIs for Swift
 - [apple/swift-package-collection-generator](https://github.com/apple/swift-package-collection-generator) pushed_at:2021-01 A collection of packages and tooling for generating and consuming package feeds.
 - [apple/swift-package-manager](https://github.com/apple/swift-package-manager) pushed_at:2021-01 The Package Manager for the Swift Programming Language
 - [apple/swift-protobuf](https://github.com/apple/swift-protobuf) pushed_at:2021-01 Plugin and runtime library for using protobuf with Swift
 - [apple/swift-se0270-range-set](https://github.com/apple/swift-se0270-range-set) pushed_at:2020-11 Swift Evolution preview package for SE-0270.
-- [apple/swift-service-discovery](https://github.com/apple/swift-service-discovery) pushed_at:2020-10 
+- [apple/swift-service-discovery](https://github.com/apple/swift-service-discovery) pushed_at:2021-01 
 - [apple/swift-standard-library-preview](https://github.com/apple/swift-standard-library-preview) pushed_at:2020-11 
 - [apple/swift-statsd-client](https://github.com/apple/swift-statsd-client) pushed_at:2020-10 metrics backend for swift-metrics that uses the statsd protocol
 - [apple/swift-stress-tester](https://github.com/apple/swift-stress-tester) pushed_at:2021-01 Stress testing utilities for Swift's tooling

@@ -481,7 +481,7 @@
 ## Others
 
 - [opencollective/.github](https://github.com/opencollective/.github) pushed_at:2019-10 
-- [opencollective/11ty-website](https://github.com/opencollective/11ty-website) pushed_at:2020-09 Documentation site for the Eleventy static site generator.
+- [opencollective/11ty-website](https://github.com/opencollective/11ty-website) pushed_at:2021-01 Documentation site for the Eleventy static site generator.
 - [opencollective/1password-teams-open-source](https://github.com/opencollective/1password-teams-open-source) pushed_at:2018-04 Get a free 1Password Teams membership for your open source project
 - [opencollective/Acid](https://github.com/opencollective/Acid) pushed_at:2019-09 A high speed C++17 Vulkan game engine
 - [opencollective/aero](https://github.com/opencollective/aero) pushed_at:2019-09 :bullettrain_side: High-performance web server for Go.
@@ -506,7 +506,7 @@
 - [opencollective/auth](https://github.com/opencollective/auth) pushed_at:2019-09 :atom: Social (OAuth1\OAuth2\OpenID\OpenIDConnect) sign with PHP :shipit:
 - [opencollective/authelia](https://github.com/opencollective/authelia) pushed_at:2020-04 The Cloud ready multi-factor authentication portal for your Apps
 - [opencollective/autopia](https://github.com/opencollective/autopia) pushed_at:2019-09 
-- [opencollective/AutoPiano](https://github.com/opencollective/AutoPiano) pushed_at:2020-04 自由钢琴 🎹 AutoPiano ( https://www.autopiano.cn )   Simple & Elegant Piano Online
+- [opencollective/AutoPiano](https://github.com/opencollective/AutoPiano) pushed_at:2021-01 自由钢琴 🎹 AutoPiano ( https://www.autopiano.cn )   Simple & Elegant Piano Online
 - [opencollective/awesome-AI-books](https://github.com/opencollective/awesome-AI-books) pushed_at:2019-12 Some awesome AI related books and pdfs for learning and downloading
 - [opencollective/Awesome-CV](https://github.com/opencollective/Awesome-CV) pushed_at:2019-09 :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
 - [opencollective/awesome-diarization](https://github.com/opencollective/awesome-diarization) pushed_at:2019-12 A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.
@@ -614,7 +614,7 @@
 - [opencollective/Gitako](https://github.com/opencollective/Gitako) pushed_at:2020-07 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
 - [opencollective/github-trending-api](https://github.com/opencollective/github-trending-api) pushed_at:2019-09 :octocat: The missing APIs for GitHub trending projects and developers 📈
 - [opencollective/gitnote](https://github.com/opencollective/gitnote) pushed_at:2020-01 A modern note taking app based on GIT that does not require a local GIT environment.
-- [opencollective/gitpay](https://github.com/opencollective/gitpay) pushed_at:2020-07 Bounties for issues on demand. Be rewarded by learning, using Git workflow and continuous integration
+- [opencollective/gitpay](https://github.com/opencollective/gitpay) pushed_at:2021-01 Bounties for issues on demand. Be rewarded by learning, using Git workflow and continuous integration
 - [opencollective/gitql](https://github.com/opencollective/gitql) pushed_at:2019-09 A git query language
 - [opencollective/go-harbor](https://github.com/opencollective/go-harbor) pushed_at:2020-04 A Harbor API client enabling Go programs to interact with Harbor in a simple and uniform way
 - [opencollective/Go-Mini-Social-Network](https://github.com/opencollective/Go-Mini-Social-Network) pushed_at:2020-01 A mini social-network created with the awesome Golang💖💖!!
@@ -648,7 +648,7 @@
 - [opencollective/Instagram-clone](https://github.com/opencollective/Instagram-clone) pushed_at:2020-01 An Instagram-clone with my own flavors and features. Own the project with 5 simple steps!! 📸💝☢️
 - [opencollective/iTorrent](https://github.com/opencollective/iTorrent) pushed_at:2019-11 Torrent client for iOS 9.3+
 - [opencollective/Jailer](https://github.com/opencollective/Jailer) pushed_at:2019-09 Database Subsetting and Relational Data Browsing Tool. Navigate bidirectionally through the database by following foreign-key-based or user-defined relationships. Exports consistent, referentially intact row-sets from relational databases. Removes data w/o violating integrity. Generates topologically sorted SQL-DML, hierarchically structured XML. and DbUnit datasets.
-- [opencollective/jest](https://github.com/opencollective/jest) pushed_at:2020-09 Delightful JavaScript Testing.
+- [opencollective/jest](https://github.com/opencollective/jest) pushed_at:2021-01 Delightful JavaScript Testing.
 - [opencollective/jira](https://github.com/opencollective/jira) pushed_at:2019-09 Python JIRA Library is the easiest way to automate JIRA.
 - [opencollective/jira-plugin](https://github.com/opencollective/jira-plugin) pushed_at:2019-12 Jira plugin for VsCode
 - [opencollective/jodd](https://github.com/opencollective/jodd) pushed_at:2019-09 Jodd! Lightweight. Java. Use what you like.
@@ -758,7 +758,7 @@
 - [opencollective/pwafire](https://github.com/opencollective/pwafire) pushed_at:2020-02 Build Scalable Progressive Web Apps / First Experiences ⚡
 - [opencollective/Python](https://github.com/opencollective/Python) pushed_at:2019-09 All Algorithms implemented in Python
 - [opencollective/pywebview](https://github.com/opencollective/pywebview) pushed_at:2019-09 Build GUI for your Python program with JavaScript, HTML, and CSS
-- [opencollective/QtScrcpy](https://github.com/opencollective/QtScrcpy) pushed_at:2020-04 Android real-time display control software
+- [opencollective/QtScrcpy](https://github.com/opencollective/QtScrcpy) pushed_at:2021-01 Android real-time display control software
 - [opencollective/radare2](https://github.com/opencollective/radare2) pushed_at:2019-10 unix-like reverse engineering framework and commandline tools
 - [opencollective/rails_db](https://github.com/opencollective/rails_db) pushed_at:2020-07 Rails Database Viewer and SQL Query Runner
 - [opencollective/railt](https://github.com/opencollective/railt) pushed_at:2019-09 ⚡️ A PHP GraphQL Framework
@@ -808,7 +808,7 @@
 - [opencollective/stripe](https://github.com/opencollective/stripe) pushed_at:2019-09 :moneybag: Stripe API
 - [opencollective/sustainer-resources](https://github.com/opencollective/sustainer-resources) pushed_at:2019-03 Useful resources for Open Source Sustainers
 - [opencollective/swiftui-notes](https://github.com/opencollective/swiftui-notes) pushed_at:2019-09 A collection of notes, project pieces, playgrounds and ideas on learning and using SwiftUI and Combine
-- [opencollective/synfig](https://github.com/opencollective/synfig) pushed_at:2020-04 This is the Official source code repository of the Synfig project
+- [opencollective/synfig](https://github.com/opencollective/synfig) pushed_at:2021-01 This is the Official source code repository of the Synfig project
 - [opencollective/Tamburetei](https://github.com/opencollective/Tamburetei) pushed_at:2019-12 Fazendo de tamburete as cadeiras de CC@UFCG.
 - [opencollective/technical-books](https://github.com/opencollective/technical-books) pushed_at:2019-09 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、...
 - [opencollective/Telegram.Bot](https://github.com/opencollective/Telegram.Bot) pushed_at:2020-04 .NET Client for Telegram Bot API
@@ -833,7 +833,7 @@
 - [opencollective/vm-bhyve](https://github.com/opencollective/vm-bhyve) pushed_at:2020-03 Shell based, minimal dependency bhyve manager
 - [opencollective/voukoder](https://github.com/opencollective/voukoder) pushed_at:2019-09 Use FFMpeg encoders directly in Adobe Premiere
 - [opencollective/vs-shell-format](https://github.com/opencollective/vs-shell-format) pushed_at:2020-01 the shellscript、Dockerfile、properties ...... format extension
-- [opencollective/vscode-leetcode](https://github.com/opencollective/vscode-leetcode) pushed_at:2019-09 Solve LeetCode problems in VS Code
+- [opencollective/vscode-leetcode](https://github.com/opencollective/vscode-leetcode) pushed_at:2021-01 Solve LeetCode problems in VS Code
 - [opencollective/vue-1](https://github.com/opencollective/vue-1) pushed_at:2019-12 Make Vue greater with RxTS.
 - [opencollective/vue-formulate](https://github.com/opencollective/vue-formulate) pushed_at:2020-04 The easiest way to build forms using Vue.
 - [opencollective/vue-functional-calendar](https://github.com/opencollective/vue-functional-calendar) pushed_at:2020-08 VueJS Functional Calendar | Component/Package

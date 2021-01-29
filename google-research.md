@@ -27,7 +27,7 @@
 - [google-research/mozolm](https://github.com/google-research/mozolm) pushed_at:2021-01 MozoLM: A language model (LM) serving library
 - [google-research/sputnik](https://github.com/google-research/sputnik) pushed_at:2020-11 A library of GPU kernels for sparse matrix operations.
 - [google-research/structured-additive-IR](https://github.com/google-research/structured-additive-IR) pushed_at:2021-01 
-- [google-research/tf-opt](https://github.com/google-research/tf-opt) pushed_at:2020-11 
+- [google-research/tf-opt](https://github.com/google-research/tf-opt) pushed_at:2021-01 
 - [google-research/tiny-differentiable-simulator](https://github.com/google-research/tiny-differentiable-simulator) pushed_at:2021-01 Tiny Differentiable Simulator is a header-only C++ physics library with zero dependencies.
 
 ## Dart
@@ -116,11 +116,11 @@
 - [google-research/lasertagger](https://github.com/google-research/lasertagger) pushed_at:2020-11 
 - [google-research/long-range-arena](https://github.com/google-research/long-range-arena) pushed_at:2020-12 Long Range Arena for Benchmarking Efficient Transformers
 - [google-research/lottery-ticket-hypothesis](https://github.com/google-research/lottery-ticket-hypothesis) pushed_at:2020-07 A reimplementation of "The Lottery Ticket Hypothesis" (Frankle and Carbin) on MNIST.
-- [google-research/meta-dataset](https://github.com/google-research/meta-dataset) pushed_at:2020-12 A dataset of datasets for learning to learn from few examples
+- [google-research/meta-dataset](https://github.com/google-research/meta-dataset) pushed_at:2021-01 A dataset of datasets for learning to learn from few examples
 - [google-research/mixmatch](https://github.com/google-research/mixmatch) pushed_at:2020-11 
 - [google-research/mma](https://github.com/google-research/mma) pushed_at:2020-11 
 - [google-research/morph-net](https://github.com/google-research/morph-net) pushed_at:2020-11 Fast & Simple Resource-Constrained Learning of Deep Network Structure
-- [google-research/motion_imitation](https://github.com/google-research/motion_imitation) pushed_at:2020-12 Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
+- [google-research/motion_imitation](https://github.com/google-research/motion_imitation) pushed_at:2021-01 Code accompanying the paper "Learning Agile Robotic Locomotion Skills by Imitating Animals"
 - [google-research/multilingual-t5](https://github.com/google-research/multilingual-t5) pushed_at:2021-01 
 - [google-research/nasbench](https://github.com/google-research/nasbench) pushed_at:2021-01 NASBench: A Neural Architecture Search Dataset and Benchmark
 - [google-research/nisaba](https://github.com/google-research/nisaba) pushed_at:2021-01 Finite-state script normalization and processing utilities
@@ -142,14 +142,14 @@
 - [google-research/relay-policy-learning](https://github.com/google-research/relay-policy-learning) pushed_at:2020-05 
 - [google-research/remixmatch](https://github.com/google-research/remixmatch) pushed_at:2020-11 
 - [google-research/rigl](https://github.com/google-research/rigl) pushed_at:2020-12 End-to-end training of sparse deep neural networks with little-to-no performance loss. 
-- [google-research/rl-reliability-metrics](https://github.com/google-research/rl-reliability-metrics) pushed_at:2020-08 The RL Reliability Metrics library provides a set of metrics for measuring the reliability of reinforcement learning (RL) algorithms, as well as statistical tools for comparing algorithms and for computing confidence intervals on these metrics.
+- [google-research/rl-reliability-metrics](https://github.com/google-research/rl-reliability-metrics) pushed_at:2021-01 The RL Reliability Metrics library provides a set of metrics for measuring the reliability of reinforcement learning (RL) algorithms, as well as statistical tools for comparing algorithms and for computing confidence intervals on these metrics.
 - [google-research/robel](https://github.com/google-research/robel) pushed_at:2020-11 ROBEL: Robotics Benchmarks for Learning with low-cost robots
 - [google-research/robustness_metrics](https://github.com/google-research/robustness_metrics) pushed_at:2020-12 
 - [google-research/ruse](https://github.com/google-research/ruse) pushed_at:2021-01 
 - [google-research/s4l](https://github.com/google-research/s4l) pushed_at:2019-11 Tensorflow implementation of S4L: Self-Supervised Semi-Supervised Learning
 - [google-research/sam](https://github.com/google-research/sam) pushed_at:2020-12 
 - [google-research/schema-guided-dialogue](https://github.com/google-research/schema-guided-dialogue) pushed_at:2020-12 
-- [google-research/seed_rl](https://github.com/google-research/seed_rl) pushed_at:2020-09 SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture.
+- [google-research/seed_rl](https://github.com/google-research/seed_rl) pushed_at:2021-01 SEED RL: Scalable and Efficient Deep-RL with Accelerated Central Inference. Implements IMPALA and R2D2 algorithms in TF2 with SEED's architecture.
 - [google-research/si-score](https://github.com/google-research/si-score) pushed_at:2020-10 
 - [google-research/soft-dtw-divergences](https://github.com/google-research/soft-dtw-divergences) pushed_at:2020-11 An implementation of soft-DTW divergences.
 - [google-research/sound-separation](https://github.com/google-research/sound-separation) pushed_at:2021-01 
@@ -160,7 +160,7 @@
 - [google-research/tensorflow-coder](https://github.com/google-research/tensorflow-coder) pushed_at:2021-01 
 - [google-research/tensorflow_constrained_optimization](https://github.com/google-research/tensorflow_constrained_optimization) pushed_at:2020-09 
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) pushed_at:2021-01 Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
-- [google-research/tf-slim](https://github.com/google-research/tf-slim) pushed_at:2020-05 
+- [google-research/tf-slim](https://github.com/google-research/tf-slim) pushed_at:2021-01 
 - [google-research/torchsde](https://github.com/google-research/torchsde) pushed_at:2021-01 Differentiable SDE solvers with GPU support and efficient sensitivity analysis. 
 - [google-research/turkish-morphology](https://github.com/google-research/turkish-morphology) pushed_at:2020-10 A two-level morphological analyzer for Turkish.
 - [google-research/uda](https://github.com/google-research/uda) pushed_at:2020-04 Unsupervised Data Augmentation (UDA)

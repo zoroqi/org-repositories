@@ -68,7 +68,7 @@
 - [ustclug/library](https://github.com/ustclug/library) pushed_at:2017-11 LUG Library
 - [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) pushed_at:2021-01 LUG VPN 申请系统
 - [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2021-01 Documents about how to use repos on mirrors.ustc.edu.cn.
-- [ustclug/website-static](https://github.com/ustclug/website-static) pushed_at:2020-08 Hosting static content (image/assets) for LUG website
+- [ustclug/website-static](https://github.com/ustclug/website-static) pushed_at:2021-01 Hosting static content (image/assets) for LUG website
 
 ## Rust
 
@@ -82,7 +82,7 @@
 - [ustclug/light-server](https://github.com/ustclug/light-server) pushed_at:2019-09 light accelerator daemon
 - [ustclug/light-socks5](https://github.com/ustclug/light-socks5) pushed_at:2018-01 light accelerator socks5 daemon
 - [ustclug/liimstrap](https://github.com/ustclug/liimstrap) pushed_at:2020-03 中国科大图书馆查询机生成脚本。
-- [ustclug/Linux101-docs](https://github.com/ustclug/Linux101-docs) pushed_at:2020-12 Linux 101 学生课程教材与讲义
+- [ustclug/Linux101-docs](https://github.com/ustclug/Linux101-docs) pushed_at:2021-01 Linux 101 学生课程教材与讲义
 - [ustclug/Linux101-USTC](https://github.com/ustclug/Linux101-USTC) pushed_at:2020-03 Linux 101 is a course organized by several members of LUG@USTC. It is designed to popularize Linux and open source culture in USTC. First brought up by Jin Zida.
 - [ustclug/lug-sites-sync](https://github.com/ustclug/lug-sites-sync) pushed_at:2015-08 💀Script to sync lug.ustc.edu.cn/sites pages (deprecated)
 - [ustclug/lugftp](https://github.com/ustclug/lugftp) pushed_at:2020-01 FTP site of USTC Linux User Group

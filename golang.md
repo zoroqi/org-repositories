@@ -53,12 +53,12 @@
 - [golang/talks](https://github.com/golang/talks) pushed_at:2021-01 Go talks
 - [golang/term](https://github.com/golang/term) pushed_at:2020-12 Go terminal and console support
 - [golang/text](https://github.com/golang/text) pushed_at:2021-01 [mirror] Go text processing support
-- [golang/time](https://github.com/golang/time) pushed_at:2020-12 [mirror] Go supplementary time packages
+- [golang/time](https://github.com/golang/time) pushed_at:2021-01 [mirror] Go supplementary time packages
 - [golang/tools](https://github.com/golang/tools) pushed_at:2021-01 [mirror] Go Tools
 - [golang/tour](https://github.com/golang/tour) pushed_at:2020-12 [mirror] A Tour of Go
 - [golang/vgo](https://github.com/golang/vgo) pushed_at:2019-08 [mirror] Versioned Go Prototype
 - [golang/winstrap](https://github.com/golang/winstrap) pushed_at:2017-11 Bootstrapping tools for windows builders
-- [golang/xerrors](https://github.com/golang/xerrors) pushed_at:2020-08 
+- [golang/xerrors](https://github.com/golang/xerrors) pushed_at:2021-01 
 
 ## HTML
 
