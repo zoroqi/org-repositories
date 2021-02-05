@@ -26,7 +26,7 @@
 ## C#
 
 - [microsoftgraph/30DaysMSGraph-TryItOut](https://github.com/microsoftgraph/30DaysMSGraph-TryItOut) pushed_at:2019-10 This repo contains the Try It Out samples from the 30 Days of Microsoft Graph blog series (https://aka.ms/30DaysMSGraph).
-- [microsoftgraph/apidoctor](https://github.com/microsoftgraph/apidoctor) pushed_at:2021-01 Application for validating API documentation and generating test cases
+- [microsoftgraph/apidoctor](https://github.com/microsoftgraph/apidoctor) pushed_at:2021-02 Application for validating API documentation and generating test cases
 - [microsoftgraph/aspnet-assettracking-sample](https://github.com/microsoftgraph/aspnet-assettracking-sample) pushed_at:2019-09 
 - [microsoftgraph/aspnet-connect-rest-sample](https://github.com/microsoftgraph/aspnet-connect-rest-sample) pushed_at:2018-10 [ARCHIVED] This ASP.NET MVC sample shows how to connect to Microsoft Graph and use the API to send an email.
 - [microsoftgraph/aspnet-connect-sample](https://github.com/microsoftgraph/aspnet-connect-sample) pushed_at:2018-10 [ARCHIVED] This walkthrough shows you how to use the Office 365 Connected Services in Visual Studio 2017.
@@ -47,20 +47,20 @@
 - [microsoftgraph/dotnet-aad-query-sample](https://github.com/microsoftgraph/dotnet-aad-query-sample) pushed_at:2021-01 This sample demonstrates a .NET 5.0 Desktop (WPF) application showcasing advanced Microsoft Graph Query Capabilities for Directory Objects with .NET Graph SDK.
 - [microsoftgraph/dotnetcore-console-sample](https://github.com/microsoftgraph/dotnetcore-console-sample) pushed_at:2021-01 .Net Core console application for calling Microsoft Graph.  Sample built from scratch.
 - [microsoftgraph/Graph-Security-API-Auth-Sample](https://github.com/microsoftgraph/Graph-Security-API-Auth-Sample) pushed_at:2020-05 [ARCHIVED] Provides sample to retrieve authentication token and send request to Microsoft Graph Security API
-- [microsoftgraph/group-membership-management](https://github.com/microsoftgraph/group-membership-management) pushed_at:2021-01 This is a .NET service that generates a parent group membership roster by regularly synchronizing it with memberships from specified Security or Microsoft 365 groups. Link to more information here:
+- [microsoftgraph/group-membership-management](https://github.com/microsoftgraph/group-membership-management) pushed_at:2021-02 This is a .NET service that generates a parent group membership roster by regularly synchronizing it with memberships from specified Security or Microsoft 365 groups. Link to more information here:
 - [microsoftgraph/Intune-PowerShell-SDK-Code-Generator](https://github.com/microsoftgraph/Intune-PowerShell-SDK-Code-Generator) pushed_at:2020-04 Custom ODCM Writer built atop Vipr to auto-generate PowerShell cmdlets corresponding to CRUD operations for Microsoft Intune Graph Api. 
-- [microsoftgraph/microsoft-graph-explorer-api](https://github.com/microsoftgraph/microsoft-graph-explorer-api) pushed_at:2021-01 Services API for Graph Explorer
-- [microsoftgraph/msgraph-beta-sdk-dotnet](https://github.com/microsoftgraph/msgraph-beta-sdk-dotnet) pushed_at:2021-01 The Microsoft Graph Client Beta Library for .NET supports the Microsoft Graph /beta endpoint. (preview)
+- [microsoftgraph/microsoft-graph-devx-api](https://github.com/microsoftgraph/microsoft-graph-devx-api) pushed_at:2021-02 Services API for Graph Explorer
+- [microsoftgraph/msgraph-beta-sdk-dotnet](https://github.com/microsoftgraph/msgraph-beta-sdk-dotnet) pushed_at:2021-02 The Microsoft Graph Client Beta Library for .NET supports the Microsoft Graph /beta endpoint. (preview)
 - [microsoftgraph/msgraph-cds-workrides-sample](https://github.com/microsoftgraph/msgraph-cds-workrides-sample) pushed_at:2020-05 
 - [microsoftgraph/msgraph-github-content-utility](https://github.com/microsoftgraph/msgraph-github-content-utility) pushed_at:2020-09 
 - [microsoftgraph/msgraph-openapi-introspection](https://github.com/microsoftgraph/msgraph-openapi-introspection) pushed_at:2019-12 An API for querying the OpenAPI description of Microsoft Graph
 - [microsoftgraph/msgraph-permissions-scraper](https://github.com/microsoftgraph/msgraph-permissions-scraper) pushed_at:2020-09 
 - [microsoftgraph/msgraph-samples-dashboard](https://github.com/microsoftgraph/msgraph-samples-dashboard) pushed_at:2020-09 Dashboard for msgraph samples
-- [microsoftgraph/msgraph-sdk-dotnet](https://github.com/microsoftgraph/msgraph-sdk-dotnet) pushed_at:2021-01 Microsoft Graph Client Library for .NET!
+- [microsoftgraph/msgraph-sdk-dotnet](https://github.com/microsoftgraph/msgraph-sdk-dotnet) pushed_at:2021-02 Microsoft Graph Client Library for .NET!
 - [microsoftgraph/msgraph-sdk-dotnet-auth](https://github.com/microsoftgraph/msgraph-sdk-dotnet-auth) pushed_at:2021-01 Authentication Providers for Microsoft Graph .NET SDK
 - [microsoftgraph/msgraph-sdk-dotnet-contrib](https://github.com/microsoftgraph/msgraph-sdk-dotnet-contrib) pushed_at:2021-01 Community contributed extensions to the Microsoft Graph .NET SDK service library, to support APIs that have not yet made it into Microsoft Graph
-- [microsoftgraph/msgraph-sdk-dotnet-core](https://github.com/microsoftgraph/msgraph-sdk-dotnet-core) pushed_at:2021-01 The core Microsoft Graph client library for .Net. (Microsoft.Graph.Core)
-- [microsoftgraph/msgraph-sdk-raptor](https://github.com/microsoftgraph/msgraph-sdk-raptor) pushed_at:2021-01 End to end testing tool for verifying generated code snippets and testing against Graph APIs
+- [microsoftgraph/msgraph-sdk-dotnet-core](https://github.com/microsoftgraph/msgraph-sdk-dotnet-core) pushed_at:2021-02 The core Microsoft Graph client library for .Net. (Microsoft.Graph.Core)
+- [microsoftgraph/msgraph-sdk-raptor](https://github.com/microsoftgraph/msgraph-sdk-raptor) pushed_at:2021-02 End to end testing tool for verifying generated code snippets and testing against Graph APIs
 - [microsoftgraph/msgraph-search-connector-sample](https://github.com/microsoftgraph/msgraph-search-connector-sample) pushed_at:2020-05 This .NET Core application shows how to use the Microsoft Graph indexing API to create a connection to the Microsoft Search service and index custom items.
 - [microsoftgraph/msgraph-training-restapi](https://github.com/microsoftgraph/msgraph-training-restapi) pushed_at:2020-07 [ARCHIVED] Microsoft Graph Training Module - REST API calls
 - [microsoftgraph/OpenAPI.NET.OData](https://github.com/microsoftgraph/OpenAPI.NET.OData) pushed_at:2020-11 Generates OpenAPI document from OData CSDL
@@ -96,15 +96,15 @@
 - [microsoftgraph/android-java-snippets-rest-sample](https://github.com/microsoftgraph/android-java-snippets-rest-sample) pushed_at:2020-03 Code snippets that use the Microsoft Graph to perform common tasks, such as sending email or managing groups, from within an Android app. This sample uses REST calls directly to the Microsoft Graph endpoint, and the Active Directory Authentication Library (ADAL) for authentication of users' work or school Office 365 accounts.
 - [microsoftgraph/android-java-snippets-sample](https://github.com/microsoftgraph/android-java-snippets-sample) pushed_at:2020-03 Code snippets that use the Microsoft Graph to perform common tasks, such as sending email or managing groups, from within an Android app. This sample uses the Microsoft Graph Client Library to work with the data, and the Microsoft Authentication Library (MSAL) for authentication of users' work or school Office 365 accounts and personal accounts.
 - [microsoftgraph/console-java-connect-sample](https://github.com/microsoftgraph/console-java-connect-sample) pushed_at:2020-03 Please see https://github.com/microsoftgraph/msgraph-training-java for a Java sample.
-- [microsoftgraph/java-spring-webhooks-sample](https://github.com/microsoftgraph/java-spring-webhooks-sample) pushed_at:2021-01 Receive change notifications with data with the Microsoft Graph
-- [microsoftgraph/msgraph-beta-sdk-java](https://github.com/microsoftgraph/msgraph-beta-sdk-java) pushed_at:2021-01 Beta Graph SDK Models and Request Builders 
+- [microsoftgraph/java-spring-webhooks-sample](https://github.com/microsoftgraph/java-spring-webhooks-sample) pushed_at:2021-02 Receive change notifications with data with the Microsoft Graph
+- [microsoftgraph/msgraph-beta-sdk-java](https://github.com/microsoftgraph/msgraph-beta-sdk-java) pushed_at:2021-02 Beta Graph SDK Models and Request Builders 
 - [microsoftgraph/msgraph-sdk-android](https://github.com/microsoftgraph/msgraph-sdk-android) pushed_at:2020-09 Microsoft Graph SDK for Android! https://graph.microsoft.io
 - [microsoftgraph/msgraph-sdk-android-auth](https://github.com/microsoftgraph/msgraph-sdk-android-auth) pushed_at:2019-09 MSAL Authentication Provider for Android
 - [microsoftgraph/msgraph-sdk-android-msa-auth-for-android-adapter](https://github.com/microsoftgraph/msgraph-sdk-android-msa-auth-for-android-adapter) pushed_at:2020-09 MSGraph SDK Android MSA Auth for Android Adapter
-- [microsoftgraph/MSGraph-SDK-Code-Generator](https://github.com/microsoftgraph/MSGraph-SDK-Code-Generator) pushed_at:2021-01 MSGraph SDK Code Generator
-- [microsoftgraph/msgraph-sdk-java](https://github.com/microsoftgraph/msgraph-sdk-java) pushed_at:2021-01 Microsoft Graph SDK for Java
+- [microsoftgraph/MSGraph-SDK-Code-Generator](https://github.com/microsoftgraph/MSGraph-SDK-Code-Generator) pushed_at:2021-02 MSGraph SDK Code Generator
+- [microsoftgraph/msgraph-sdk-java](https://github.com/microsoftgraph/msgraph-sdk-java) pushed_at:2021-02 Microsoft Graph SDK for Java
 - [microsoftgraph/msgraph-sdk-java-auth](https://github.com/microsoftgraph/msgraph-sdk-java-auth) pushed_at:2020-12 Authentication Providers for Microsoft Graph Java SDK
-- [microsoftgraph/msgraph-sdk-java-core](https://github.com/microsoftgraph/msgraph-sdk-java-core) pushed_at:2021-01 Microsoft Graph SDK for Java - Core Library
+- [microsoftgraph/msgraph-sdk-java-core](https://github.com/microsoftgraph/msgraph-sdk-java-core) pushed_at:2021-02 Microsoft Graph SDK for Java - Core Library
 - [microsoftgraph/onedrive-explorer-android](https://github.com/microsoftgraph/onedrive-explorer-android) pushed_at:2020-03 OneDrive Explorer for Phone and Tablets!
 
 ## JavaScript
@@ -119,11 +119,11 @@
 - [microsoftgraph/contoso-airlines-teams-sample](https://github.com/microsoftgraph/contoso-airlines-teams-sample) pushed_at:2020-03 
 - [microsoftgraph/csharp-teams-sample-graph](https://github.com/microsoftgraph/csharp-teams-sample-graph) pushed_at:2020-06 [ARCHIVED] Sample apps (C# and node) for accessing Microsoft Teams data via the Microsoft Graph
 - [microsoftgraph/graphql-demo](https://github.com/microsoftgraph/graphql-demo) pushed_at:2020-01 [ARCHIVED] GraphQL for Microsoft Graph
-- [microsoftgraph/microsoft-graph-devx-content](https://github.com/microsoftgraph/microsoft-graph-devx-content) pushed_at:2021-01 Content used by the DevX API to enhance clients and tooling.
+- [microsoftgraph/microsoft-graph-devx-content](https://github.com/microsoftgraph/microsoft-graph-devx-content) pushed_at:2021-02 Content used by the DevX API to enhance clients and tooling.
 - [microsoftgraph/nodejs-apponlytoken-rest-sample](https://github.com/microsoftgraph/nodejs-apponlytoken-rest-sample) pushed_at:2019-04 [ARCHIVED] This sample shows how to connect a service or daemon app (written in Node.js) to the Microsoft Graph API.
 - [microsoftgraph/nodejs-connect-rest-sample](https://github.com/microsoftgraph/nodejs-connect-rest-sample) pushed_at:2018-10 [ARCHIVED] Use Microsoft Graph to access a user’s Microsoft account data from within a Node.js web application. This sample sends REST calls directly to the Microsoft Graph endpoint, and authenticates with the Azure AD v2.0 endpoint to support Microsoft Accounts and work or school accounts.
 - [microsoftgraph/nodejs-connect-sample](https://github.com/microsoftgraph/nodejs-connect-sample) pushed_at:2018-10 [ARCHIVED] This sample shows how to connect a Node.js app to a Microsoft work or school (Azure Active Directory) or personal (Microsoft) account using the Microsoft Graph API and the Graph JavaScript SDK to send an email. In addition, the sample uses the Office Fabric UI for styling and formatting the user experience.
-- [microsoftgraph/nodejs-webhooks-rest-sample](https://github.com/microsoftgraph/nodejs-webhooks-rest-sample) pushed_at:2021-01 Create Microsoft Graph webhook subscriptions for a Node.js app, so that it can receive notifications of changes in a user’s Microsoft account data.
+- [microsoftgraph/nodejs-webhooks-rest-sample](https://github.com/microsoftgraph/nodejs-webhooks-rest-sample) pushed_at:2021-02 Create Microsoft Graph webhook subscriptions for a Node.js app, so that it can receive notifications of changes in a user’s Microsoft account data.
 - [microsoftgraph/react-excelstarter-sample](https://github.com/microsoftgraph/react-excelstarter-sample) pushed_at:2020-05 [ARCHIVED] This sample shows how to connect a React app to a Microsoft work or school (Azure Active Directory) using the Microsoft Graph API to get a user's name and address and upload that information to an Excel file stored in OneDrive. 
 - [microsoftgraph/react-officeuifabric-sample](https://github.com/microsoftgraph/react-officeuifabric-sample) pushed_at:2020-05 [ARCHIVED] This sample demonstrates how to populate Office UI Fabric React components with data retrieved from Microsoft Graph.
 
@@ -145,7 +145,7 @@
 - [microsoftgraph/msgraph-sdk-ios-nxoauth2-adapter](https://github.com/microsoftgraph/msgraph-sdk-ios-nxoauth2-adapter) pushed_at:2018-07 NXOAuth2 MSAuthenticationProvider implementation for MSGraph SDK
 - [microsoftgraph/msgraph-sdk-objc](https://github.com/microsoftgraph/msgraph-sdk-objc) pushed_at:2020-03 Microsoft Graph SDK for Objective-C
 - [microsoftgraph/msgraph-sdk-objc-auth](https://github.com/microsoftgraph/msgraph-sdk-objc-auth) pushed_at:2020-03 MSAL Authentication Provider for Objective C
-- [microsoftgraph/msgraph-sdk-objc-models](https://github.com/microsoftgraph/msgraph-sdk-objc-models) pushed_at:2021-01 Generated Models for Objective C SDK
+- [microsoftgraph/msgraph-sdk-objc-models](https://github.com/microsoftgraph/msgraph-sdk-objc-models) pushed_at:2021-02 Generated Models for Objective C SDK
 
 ## Others
 
@@ -223,7 +223,7 @@
 - [microsoftgraph/msgraph-training-changenotifications.pt-BR](https://github.com/microsoftgraph/msgraph-training-changenotifications.pt-BR) pushed_at:2019-06 
 - [microsoftgraph/msgraph-training-changenotifications.ru-RU](https://github.com/microsoftgraph/msgraph-training-changenotifications.ru-RU) pushed_at:2020-05 
 - [microsoftgraph/msgraph-training-changenotifications.zh-CN](https://github.com/microsoftgraph/msgraph-training-changenotifications.zh-CN) pushed_at:2019-06 
-- [microsoftgraph/msgraph-training-dataconnect](https://github.com/microsoftgraph/msgraph-training-dataconnect) pushed_at:2020-07 
+- [microsoftgraph/msgraph-training-dataconnect](https://github.com/microsoftgraph/msgraph-training-dataconnect) pushed_at:2021-02 
 - [microsoftgraph/msgraph-training-dotnet-core](https://github.com/microsoftgraph/msgraph-training-dotnet-core) pushed_at:2021-01 Microsoft Graph Training Module - Build .NET Core apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-dotnet-core.de-DE](https://github.com/microsoftgraph/msgraph-training-dotnet-core.de-DE) pushed_at:2021-01 
 - [microsoftgraph/msgraph-training-dotnet-core.es-ES](https://github.com/microsoftgraph/msgraph-training-dotnet-core.es-ES) pushed_at:2021-01 
@@ -289,7 +289,7 @@
 - [microsoftgraph/msgraph-training-office-addin.zh-CN](https://github.com/microsoftgraph/msgraph-training-office-addin.zh-CN) pushed_at:2020-12 
 - [microsoftgraph/msgraph-training-optimize-data-usage](https://github.com/microsoftgraph/msgraph-training-optimize-data-usage) pushed_at:2020-12 
 - [microsoftgraph/msgraph-training-optimize-network-traffic](https://github.com/microsoftgraph/msgraph-training-optimize-network-traffic) pushed_at:2020-12 
-- [microsoftgraph/msgraph-training-phpapp](https://github.com/microsoftgraph/msgraph-training-phpapp) pushed_at:2021-01 Microsoft Graph Training Module - Build PHP apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-phpapp](https://github.com/microsoftgraph/msgraph-training-phpapp) pushed_at:2021-02 Microsoft Graph Training Module - Build PHP apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-phpapp.de-DE](https://github.com/microsoftgraph/msgraph-training-phpapp.de-DE) pushed_at:2021-01 
 - [microsoftgraph/msgraph-training-phpapp.es-ES](https://github.com/microsoftgraph/msgraph-training-phpapp.es-ES) pushed_at:2021-01 
 - [microsoftgraph/msgraph-training-phpapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-phpapp.fr-FR) pushed_at:2021-01 
@@ -371,27 +371,27 @@
 
 ## PHP
 
-- [microsoftgraph/msgraph-sdk-php](https://github.com/microsoftgraph/msgraph-sdk-php) pushed_at:2021-01 Microsoft Graph Library for PHP.
+- [microsoftgraph/msgraph-sdk-php](https://github.com/microsoftgraph/msgraph-sdk-php) pushed_at:2021-02 Microsoft Graph Library for PHP.
 - [microsoftgraph/php-connect-rest-sample](https://github.com/microsoftgraph/php-connect-rest-sample) pushed_at:2018-10 [ARCHIVED] Use Microsoft Graph to access a user’s Microsoft account data from within a php web application. This sample gets OAuth tokens from the Azure AD v2.0 endpoint and uses REST calls directly to Microsoft Graph.
 - [microsoftgraph/php-connect-sample](https://github.com/microsoftgraph/php-connect-sample) pushed_at:2018-10 [ARCHIVED] Use Microsoft Graph to access a user’s Microsoft account data from within a PHP web application. This sample gets OAuth tokens from the Azure AD v2.0 endpoint and connects it to the Microsoft Graph SDK for PHP.
 
 ## PowerShell
 
 - [microsoftgraph/M365Insights](https://github.com/microsoftgraph/M365Insights) pushed_at:2020-07 Steps for admins to set up an automated Workplace Analytics query data export to Azure with PowerShell
-- [microsoftgraph/microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) pushed_at:2021-01 Documentation for the Microsoft Graph REST API
-- [microsoftgraph/microsoft-graph-docs.pt-BR](https://github.com/microsoftgraph/microsoft-graph-docs.pt-BR) pushed_at:2021-01 Documentation for the Microsoft Graph REST API for Portuguese
-- [microsoftgraph/microsoft-graph-docs.ru-RU](https://github.com/microsoftgraph/microsoft-graph-docs.ru-RU) pushed_at:2021-01 Documentation for the Microsoft Graph REST API for Russian
-- [microsoftgraph/microsoft-graph-docs.zh-CN](https://github.com/microsoftgraph/microsoft-graph-docs.zh-CN) pushed_at:2021-01 Documentation for the Microsoft Graph REST API for Chinese(Simplified)
+- [microsoftgraph/microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) pushed_at:2021-02 Documentation for the Microsoft Graph REST API
+- [microsoftgraph/microsoft-graph-docs.pt-BR](https://github.com/microsoftgraph/microsoft-graph-docs.pt-BR) pushed_at:2021-02 Documentation for the Microsoft Graph REST API for Portuguese
+- [microsoftgraph/microsoft-graph-docs.ru-RU](https://github.com/microsoftgraph/microsoft-graph-docs.ru-RU) pushed_at:2021-02 Documentation for the Microsoft Graph REST API for Russian
+- [microsoftgraph/microsoft-graph-docs.zh-CN](https://github.com/microsoftgraph/microsoft-graph-docs.zh-CN) pushed_at:2021-02 Documentation for the Microsoft Graph REST API for Chinese(Simplified)
 - [microsoftgraph/microsoft-graph-training](https://github.com/microsoftgraph/microsoft-graph-training) pushed_at:2021-01 
-- [microsoftgraph/msgraph-sdk-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) pushed_at:2021-01 Powershell SDK for Microsoft Graph
-- [microsoftgraph/msgraph-typescript-typings](https://github.com/microsoftgraph/msgraph-typescript-typings) pushed_at:2021-01 Microsoft Graph TypeScript Type Definitions
+- [microsoftgraph/msgraph-sdk-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) pushed_at:2021-02 Powershell SDK for Microsoft Graph
+- [microsoftgraph/msgraph-typescript-typings](https://github.com/microsoftgraph/msgraph-typescript-typings) pushed_at:2021-02 Microsoft Graph TypeScript Type Definitions
 - [microsoftgraph/powershell-aad-samples](https://github.com/microsoftgraph/powershell-aad-samples) pushed_at:2020-08 
 - [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) pushed_at:2020-12 This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
 
 ## Python
 
-- [microsoftgraph/msgraph-cli](https://github.com/microsoftgraph/msgraph-cli) pushed_at:2021-01 Python based command line tools for interacting with Microsoft Graph
-- [microsoftgraph/msgraph-sdk-python-core](https://github.com/microsoftgraph/msgraph-sdk-python-core) pushed_at:2021-01 Microsoft Graph client library for Python
+- [microsoftgraph/msgraph-cli](https://github.com/microsoftgraph/msgraph-cli) pushed_at:2021-02 Python based command line tools for interacting with Microsoft Graph
+- [microsoftgraph/msgraph-sdk-python-core](https://github.com/microsoftgraph/msgraph-sdk-python-core) pushed_at:2021-02 Microsoft Graph client library for Python
 - [microsoftgraph/python-sample-auth](https://github.com/microsoftgraph/python-sample-auth) pushed_at:2020-03 Please see https://github.com/microsoftgraph/msgraph-training-pythondjangoapp for a Python sample.
 - [microsoftgraph/python-sample-console-app](https://github.com/microsoftgraph/python-sample-console-app) pushed_at:2020-03 Please see https://github.com/microsoftgraph/msgraph-training-pythondjangoapp for a Python sample.
 - [microsoftgraph/python-sample-open-extensions](https://github.com/microsoftgraph/python-sample-open-extensions) pushed_at:2019-04 [ARCHIVED] How to work with Graph open extensions in Python
@@ -406,7 +406,7 @@
 
 ## SCSS
 
-- [microsoftgraph/msgraph-sdk-design](https://github.com/microsoftgraph/msgraph-sdk-design) pushed_at:2021-01 Requirements and design documents for Microsoft Graph SDKs
+- [microsoftgraph/msgraph-sdk-design](https://github.com/microsoftgraph/msgraph-sdk-design) pushed_at:2021-02 Requirements and design documents for Microsoft Graph SDKs
 
 ## Swift
 
@@ -425,17 +425,17 @@
 - [microsoftgraph/eol-blocker](https://github.com/microsoftgraph/eol-blocker) pushed_at:2020-08 This GitHub action blocks pull requests that contain improper line-endings
 - [microsoftgraph/meeting-moderator-sample](https://github.com/microsoftgraph/meeting-moderator-sample) pushed_at:2020-12 
 - [microsoftgraph/microsoft-graph-explorer](https://github.com/microsoftgraph/microsoft-graph-explorer) pushed_at:2020-05 We've moved! You can contribute to our new repository here
-- [microsoftgraph/microsoft-graph-explorer-v4](https://github.com/microsoftgraph/microsoft-graph-explorer-v4) pushed_at:2021-01 React/Redux version of Graph Explorer used to learn the Microsoft Graph Api
-- [microsoftgraph/microsoft-graph-toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) pushed_at:2021-01 Authentication Providers and UI components for Microsoft Graph 🦒
+- [microsoftgraph/microsoft-graph-explorer-v4](https://github.com/microsoftgraph/microsoft-graph-explorer-v4) pushed_at:2021-02 React/Redux version of Graph Explorer used to learn the Microsoft Graph Api
+- [microsoftgraph/microsoft-graph-toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) pushed_at:2021-02 Authentication Providers and UI components for Microsoft Graph 🦒
 - [microsoftgraph/msgraph-ifttt-sample](https://github.com/microsoftgraph/msgraph-ifttt-sample) pushed_at:2020-09 This sample is a demonstration of what a Microsoft Graph service on IFTTT could look like. The purpose is to spark exploration by third parties to integrate their products with the Microsoft Graph and leverage the IFTTT platform to utilize the rich set of data (ie. Teams, OneNote, Calendar, User data, analytics, etc…) available in typical M365 organizations.
-- [microsoftgraph/msgraph-sdk-javascript](https://github.com/microsoftgraph/msgraph-sdk-javascript) pushed_at:2021-01 Microsoft Graph client library for JavaScript
+- [microsoftgraph/msgraph-sdk-javascript](https://github.com/microsoftgraph/msgraph-sdk-javascript) pushed_at:2021-02 Microsoft Graph client library for JavaScript
 - [microsoftgraph/msgraph-training-angularspa](https://github.com/microsoftgraph/msgraph-training-angularspa) pushed_at:2020-10 Microsoft Graph Training Module - Build Angular single-page apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-smartui-components](https://github.com/microsoftgraph/msgraph-training-smartui-components) pushed_at:2020-09 Microsoft Graph Training Module - Smart UI with Microsoft Graph, Pickers and Cards 
 - [microsoftgraph/nodejs-sentiment-bot-sample](https://github.com/microsoftgraph/nodejs-sentiment-bot-sample) pushed_at:2020-05 [ARCHIVED] Use Microsoft Graph, Microsoft Cognitive Services, and the Microsoft Bot Framework to do sentiment analysis in a NodeJS web application.
 
 ## XSLT
 
-- [microsoftgraph/msgraph-metadata](https://github.com/microsoftgraph/msgraph-metadata) pushed_at:2021-01 Metadata captured and used for generating client library code files.
+- [microsoftgraph/msgraph-metadata](https://github.com/microsoftgraph/msgraph-metadata) pushed_at:2021-02 Metadata captured and used for generating client library code files.
 
 
 ## License

@@ -31,7 +31,7 @@
 
 - [ustclug/rsync-proxy](https://github.com/ustclug/rsync-proxy) pushed_at:2020-07 
 - [ustclug/TunnelMonitor](https://github.com/ustclug/TunnelMonitor) pushed_at:2016-09 monitoring iptables connection balance and switching automatically
-- [ustclug/Yuki](https://github.com/ustclug/Yuki) pushed_at:2020-12 A.K.A ustcmirror, sync local repos with remote.
+- [ustclug/Yuki](https://github.com/ustclug/Yuki) pushed_at:2021-02 Mirror management tool, developed and used in-house in USTC
 
 ## HTML
 
@@ -39,7 +39,7 @@
 - [ustclug/mirrors-index](https://github.com/ustclug/mirrors-index) pushed_at:2018-05 Go https://git.lug.ustc.edu.cn/mirrors/mirrors-index for latest version
 - [ustclug/news](https://github.com/ustclug/news) pushed_at:2020-08 USTC LUG 新闻站
 - [ustclug/qtguide](https://github.com/ustclug/qtguide) pushed_at:2019-12 Qt Programming Guide
-- [ustclug/website](https://github.com/ustclug/website) pushed_at:2021-01 The next-gen website of LUG@USTC.
+- [ustclug/website](https://github.com/ustclug/website) pushed_at:2021-02 The next-gen website of LUG@USTC.
 
 ## Hack
 
@@ -67,7 +67,7 @@
 - [ustclug/hackergame2017](https://github.com/ustclug/hackergame2017) pushed_at:2017-10 
 - [ustclug/library](https://github.com/ustclug/library) pushed_at:2017-11 LUG Library
 - [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) pushed_at:2021-01 LUG VPN 申请系统
-- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2021-01 Documents about how to use repos on mirrors.ustc.edu.cn.
+- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2021-02 Documents about how to use repos on mirrors.ustc.edu.cn.
 - [ustclug/website-static](https://github.com/ustclug/website-static) pushed_at:2021-01 Hosting static content (image/assets) for LUG website
 
 ## Rust
@@ -87,7 +87,7 @@
 - [ustclug/lug-sites-sync](https://github.com/ustclug/lug-sites-sync) pushed_at:2015-08 💀Script to sync lug.ustc.edu.cn/sites pages (deprecated)
 - [ustclug/lugftp](https://github.com/ustclug/lugftp) pushed_at:2020-01 FTP site of USTC Linux User Group
 - [ustclug/lugwiki](https://github.com/ustclug/lugwiki) pushed_at:2020-08 wiki site of USTC Linux User Group
-- [ustclug/mirrorimage](https://github.com/ustclug/mirrorimage) pushed_at:2020-12 Docker Distribution Images replaced with USTC Mirrors
+- [ustclug/mirrorimage](https://github.com/ustclug/mirrorimage) pushed_at:2021-01 Docker Distribution Images replaced with USTC Mirrors
 - [ustclug/monitor](https://github.com/ustclug/monitor) pushed_at:2018-06 tools used by USTC LUG monitor site
 - [ustclug/neatdns](https://github.com/ustclug/neatdns) pushed_at:2019-01 anti-pollution DNS server
 - [ustclug/pypi-mirror](https://github.com/ustclug/pypi-mirror) pushed_at:2017-02 💀 pypi mirror tool (deprecated)
@@ -95,7 +95,7 @@
 - [ustclug/rubygems-mirror](https://github.com/ustclug/rubygems-mirror) pushed_at:2017-02 💀 rubugems mirror tool (deprecated)
 - [ustclug/simple-pxe](https://github.com/ustclug/simple-pxe) pushed_at:2020-09 便宜，快速，品质尚可
 - [ustclug/telegram-web](https://github.com/ustclug/telegram-web) pushed_at:2017-11 💀Telegram Web Client (deprecated)
-- [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) pushed_at:2021-01 Docker images used by ustcmirror :rocket:
+- [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) pushed_at:2021-02 Docker images used by ustcmirror :rocket:
 
 
 ## License

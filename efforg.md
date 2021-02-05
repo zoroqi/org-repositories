@@ -60,7 +60,7 @@
 ## HTML
 
 - [EFForg/hugo-book](https://github.com/EFForg/hugo-book) pushed_at:2020-08 Hugo documentation theme as simple as plain book
-- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) pushed_at:2020-08 Test fixtures for Privacy Badger
+- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) pushed_at:2021-02 Test fixtures for Privacy Badger
 - [EFForg/privacybadger-test-fixtures-alt](https://github.com/EFForg/privacybadger-test-fixtures-alt) pushed_at:2020-05 Test fixtures for Privacy Badger
 - [EFForg/sas](https://github.com/EFForg/sas) pushed_at:2017-05 Stand Against Spying
 - [EFForg/stopwatchingus](https://github.com/EFForg/stopwatchingus) pushed_at:2016-02 StopWatching.us Site
@@ -75,21 +75,21 @@
 - [EFForg/actioncenter-mobile](https://github.com/EFForg/actioncenter-mobile) pushed_at:2018-02 2.0
 - [EFForg/congress-forms-test](https://github.com/EFForg/congress-forms-test) pushed_at:2016-03 Way for volunteers to test EFF's congress-forms repo
 - [EFForg/congress-forms.js](https://github.com/EFForg/congress-forms.js) pushed_at:2014-06 A javascript widget which can construct plain forms that submit to a contact-congress server.
-- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) pushed_at:2021-01 Is your browser safe against tracking?
+- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) pushed_at:2021-02 Is your browser safe against tracking?
 - [EFForg/cyberspying](https://github.com/EFForg/cyberspying) pushed_at:2015-12 cyberspying.eff.org twitter tool
 - [EFForg/fight215](https://github.com/EFForg/fight215) pushed_at:2015-06 
 - [EFForg/find-aa-domains](https://github.com/EFForg/find-aa-domains) pushed_at:2019-04 Create a script to find domains in the PB pre-block list which are mentioned in the Acceptable Ads list as well
-- [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) pushed_at:2021-01 A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
+- [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) pushed_at:2021-02 A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
 - [EFForg/https-everywhere-labeller](https://github.com/EFForg/https-everywhere-labeller) pushed_at:2020-06 Alexa Labeller for HTTPS Everywhere Repo
 - [EFForg/httpse-ruleset-tests](https://github.com/EFForg/httpse-ruleset-tests) pushed_at:2013-09 
 - [EFForg/ngw-website](https://github.com/EFForg/ngw-website) pushed_at:2017-01 
 - [EFForg/node-wethepeople](https://github.com/EFForg/node-wethepeople) pushed_at:2015-09 Node wrapper for the We the People API
 - [EFForg/OpenWireless](https://github.com/EFForg/OpenWireless) pushed_at:2016-12 The official home of the EFF OpenWireless Project
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) pushed_at:2021-01 Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) pushed_at:2021-02 Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [EFForg/privacybadgerfirefox-legacy](https://github.com/EFForg/privacybadgerfirefox-legacy) pushed_at:2016-12 LEGACY Privacy Badger for Firefox SEE README
 - [EFForg/psi-tumblr-crawler](https://github.com/EFForg/psi-tumblr-crawler) pushed_at:2015-08 
 - [EFForg/pushserver](https://github.com/EFForg/pushserver) pushed_at:2018-03 A server for sending push notifications to mobile apps
-- [EFForg/sec](https://github.com/EFForg/sec) pushed_at:2021-01 Security Education Companion
+- [EFForg/sec](https://github.com/EFForg/sec) pushed_at:2021-02 Security Education Companion
 - [EFForg/social-buttons-server](https://github.com/EFForg/social-buttons-server) pushed_at:2014-04 Host your own social counters servers while pulling live data from Facebook, Twitter and Google Plus
 - [EFForg/spot_the_surveillance](https://github.com/EFForg/spot_the_surveillance) pushed_at:2020-12 Spot the Surveillance is an open-source educational VR tool to help people identify street-level surveillance in their community. As each surveillance device is identified, the user is informed on how the device is used via text and narration. The experience is created with accessibility in mind, so is entirely gaze-based for people with mobility challenges. Audio is also used to assist low-vision users.
 - [EFForg/wetheusers-backend](https://github.com/EFForg/wetheusers-backend) pushed_at:2015-09 Backend services for the We The Users campaign
@@ -121,7 +121,7 @@
 
 ## Python
 
-- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) pushed_at:2021-01 Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
+- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) pushed_at:2021-02 Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
 - [EFForg/call-congress](https://github.com/EFForg/call-congress) pushed_at:2020-05 a simple server that connects calls between citizens and their congress person using the Twilio API
 - [EFForg/contact-congress](https://github.com/EFForg/contact-congress) pushed_at:2014-06 Sending electronic written messages to members of Congress by reverse engineering their contact forms.
 - [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) pushed_at:2021-01 Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
@@ -137,7 +137,7 @@
 
 ## Ruby
 
-- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) pushed_at:2021-01 The EFF Action Center Platform
+- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) pushed_at:2021-02 The EFF Action Center Platform
 - [EFForg/active_preview](https://github.com/EFForg/active_preview) pushed_at:2018-11 Rails plugin to make previews of active record objects
 - [EFForg/aws_one_click_staging](https://github.com/EFForg/aws_one_click_staging) pushed_at:2018-02 
 - [EFForg/check-your-reps](https://github.com/EFForg/check-your-reps) pushed_at:2018-11 
@@ -154,8 +154,8 @@
 
 ## Rust
 
-- [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) pushed_at:2021-01 Core Rust library for HTTPS Everywhere
-- [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) pushed_at:2020-03 A library for HTTPS Everywhere which compiles to WASM
+- [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) pushed_at:2021-02 Core Rust library for HTTPS Everywhere
+- [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) pushed_at:2021-02 A library for HTTPS Everywhere which compiles to WASM
 
 ## Shell
 
