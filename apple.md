@@ -28,14 +28,14 @@
 - [apple/darwin-libplatform](https://github.com/apple/darwin-libplatform) pushed_at:2021-02 The Darwin Platform Library (mirror)
 - [apple/darwin-libpthread](https://github.com/apple/darwin-libpthread) pushed_at:2021-02 The Darwin PThread Library (mirror)
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) pushed_at:2021-02 The Darwin Kernel (mirror)
-- [apple/HomeKitADK](https://github.com/apple/HomeKitADK) pushed_at:2021-01 
+- [apple/HomeKitADK](https://github.com/apple/HomeKitADK) pushed_at:2021-02 
 - [apple/swift-cmark](https://github.com/apple/swift-cmark) pushed_at:2021-02 CommonMark parsing and rendering library and program in C
 - [apple/swift-compiler-rt](https://github.com/apple/swift-compiler-rt) pushed_at:2019-10 
 - [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) pushed_at:2021-02 The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
 
 ## C++
 
-- [apple/apple-llvm-infrastructure-tools](https://github.com/apple/apple-llvm-infrastructure-tools) pushed_at:2020-11 
+- [apple/apple-llvm-infrastructure-tools](https://github.com/apple/apple-llvm-infrastructure-tools) pushed_at:2021-02 
 - [apple/ccs-pyopendirectory](https://github.com/apple/ccs-pyopendirectory) pushed_at:2018-11 Python OpenDirectory library used by CalendarServer
 - [apple/foundationdb](https://github.com/apple/foundationdb) pushed_at:2021-02 FoundationDB - the open source, distributed, transactional key-value store
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) pushed_at:2021-02 Index database library for use with sourcekit-lsp
@@ -113,7 +113,7 @@
 - [apple/ml-quant](https://github.com/apple/ml-quant) pushed_at:2021-01 Research publication code for "Least Squares Binary Quantization of Neural Networks"
 - [apple/ml-tree-dst](https://github.com/apple/ml-tree-dst) pushed_at:2020-10 
 - [apple/swift-integration-tests](https://github.com/apple/swift-integration-tests) pushed_at:2021-02 Automated tests for validating the generated Swift snapshots behave correctly
-- [apple/swift-source-compat-suite](https://github.com/apple/swift-source-compat-suite) pushed_at:2021-01 The infrastructure and project index comprising the Swift source compatibility suite.
+- [apple/swift-source-compat-suite](https://github.com/apple/swift-source-compat-suite) pushed_at:2021-02 The infrastructure and project index comprising the Swift source compatibility suite.
 
 ## Shell
 
@@ -133,7 +133,7 @@
 - [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) pushed_at:2021-02 Language Server Protocol implementation for Swift and C-based languages
 - [apple/swift-3-api-guidelines-review](https://github.com/apple/swift-3-api-guidelines-review) pushed_at:2018-11 
 - [apple/swift-algorithms](https://github.com/apple/swift-algorithms) pushed_at:2021-02 Swift Algorithms is an open-source package of sequence and collection algorithms, along with their related types.
-- [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) pushed_at:2021-01 Straightforward, type-safe argument parsing for Swift
+- [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) pushed_at:2021-02 Straightforward, type-safe argument parsing for Swift
 - [apple/swift-atomics](https://github.com/apple/swift-atomics) pushed_at:2021-01 This package implements an atomics library for Swift, providing atomic operations for a variety of Swift types, including integers and pointer values. The goal is to enable intrepid developers to start building synchronization constructs directly in Swift.
 - [apple/swift-cluster-membership](https://github.com/apple/swift-cluster-membership) pushed_at:2020-11 Distributed Membership Protocol implementations in Swift
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) pushed_at:2021-02 The Foundation Project, providing core utilities, internationalization, and OS independence
@@ -145,14 +145,14 @@
 - [apple/swift-driver](https://github.com/apple/swift-driver) pushed_at:2021-02 Swift compiler driver reimplementation in Swift
 - [apple/swift-evolution-staging](https://github.com/apple/swift-evolution-staging) pushed_at:2020-12 
 - [apple/swift-format](https://github.com/apple/swift-format) pushed_at:2021-02 Formatting technology for Swift source code
-- [apple/swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) pushed_at:2021-01 A Swift implementation of the HTTP Structured Header Field specification.
+- [apple/swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) pushed_at:2021-02 A Swift implementation of the HTTP Structured Header Field specification.
 - [apple/swift-llbuild2](https://github.com/apple/swift-llbuild2) pushed_at:2021-02 A fresh take on a low-level build system API.
-- [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2021-01 A Logging API for Swift
+- [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2021-02 A Logging API for Swift
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) pushed_at:2021-01 A Metrics API for Swift
 - [apple/swift-metrics-extras](https://github.com/apple/swift-metrics-extras) pushed_at:2020-11 
 - [apple/swift-nio](https://github.com/apple/swift-nio) pushed_at:2021-02 Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 - [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) pushed_at:2021-01 examples of how to use swift-nio
-- [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) pushed_at:2021-01 Useful code around SwiftNIO.
+- [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) pushed_at:2021-02 Useful code around SwiftNIO.
 - [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) pushed_at:2021-01 HTTP/2 support for SwiftNIO
 - [apple/swift-nio-nghttp2-support](https://github.com/apple/swift-nio-nghttp2-support) pushed_at:2020-12 
 - [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) pushed_at:2021-01 SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
@@ -161,17 +161,17 @@
 - [apple/swift-nio-transport-services](https://github.com/apple/swift-nio-transport-services) pushed_at:2021-01 Extensions for SwiftNIO to support Apple platforms as first-class citizens.
 - [apple/swift-nio-zlib-support](https://github.com/apple/swift-nio-zlib-support) pushed_at:2020-12 
 - [apple/swift-numerics](https://github.com/apple/swift-numerics) pushed_at:2020-12 Numerical APIs for Swift
-- [apple/swift-package-collection-generator](https://github.com/apple/swift-package-collection-generator) pushed_at:2021-01 A collection of packages and tooling for generating and consuming package feeds.
+- [apple/swift-package-collection-generator](https://github.com/apple/swift-package-collection-generator) pushed_at:2021-02 A collection of packages and tooling for generating and consuming package feeds.
 - [apple/swift-package-manager](https://github.com/apple/swift-package-manager) pushed_at:2021-02 The Package Manager for the Swift Programming Language
 - [apple/swift-protobuf](https://github.com/apple/swift-protobuf) pushed_at:2021-01 Plugin and runtime library for using protobuf with Swift
 - [apple/swift-se0270-range-set](https://github.com/apple/swift-se0270-range-set) pushed_at:2020-11 Swift Evolution preview package for SE-0270.
 - [apple/swift-service-discovery](https://github.com/apple/swift-service-discovery) pushed_at:2021-01 
 - [apple/swift-standard-library-preview](https://github.com/apple/swift-standard-library-preview) pushed_at:2020-11 
-- [apple/swift-statsd-client](https://github.com/apple/swift-statsd-client) pushed_at:2020-10 metrics backend for swift-metrics that uses the statsd protocol
+- [apple/swift-statsd-client](https://github.com/apple/swift-statsd-client) pushed_at:2021-02 metrics backend for swift-metrics that uses the statsd protocol
 - [apple/swift-stress-tester](https://github.com/apple/swift-stress-tester) pushed_at:2021-02 Stress testing utilities for Swift's tooling
 - [apple/swift-syntax](https://github.com/apple/swift-syntax) pushed_at:2021-02 SwiftPM package for SwiftSyntax library.
 - [apple/swift-system](https://github.com/apple/swift-system) pushed_at:2021-02 Swift System provides idiomatic interfaces to system calls and low-level currency types.
-- [apple/swift-tools-support-async](https://github.com/apple/swift-tools-support-async) pushed_at:2020-12 Common infrastructural helpers on top of NIO for llbuild2 and swiftpm-on-llbuild2 projects. This is NOT a general purpose package and is unlikely to ever become stable.
+- [apple/swift-tools-support-async](https://github.com/apple/swift-tools-support-async) pushed_at:2021-02 Common infrastructural helpers on top of NIO for llbuild2 and swiftpm-on-llbuild2 projects. This is NOT a general purpose package and is unlikely to ever become stable.
 - [apple/swift-tools-support-core](https://github.com/apple/swift-tools-support-core) pushed_at:2021-02 Contains common infrastructural code for both SwiftPM and llbuild.
 - [apple/swift-xcode-playground-support](https://github.com/apple/swift-xcode-playground-support) pushed_at:2021-02 Logging and communication to allow Swift toolchains to communicate with Xcode.
 - [apple/swiftpm-on-llbuild2](https://github.com/apple/swiftpm-on-llbuild2) pushed_at:2020-09 

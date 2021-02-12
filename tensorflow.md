@@ -48,7 +48,7 @@
 
 ## Haskell
 
-- [tensorflow/haskell](https://github.com/tensorflow/haskell) pushed_at:2021-01 Haskell bindings for TensorFlow
+- [tensorflow/haskell](https://github.com/tensorflow/haskell) pushed_at:2021-02 Haskell bindings for TensorFlow
 
 ## Java
 
@@ -57,7 +57,7 @@
 
 ## JavaScript
 
-- [tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples) pushed_at:2021-01 Examples built with TensorFlow.js
+- [tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples) pushed_at:2021-02 Examples built with TensorFlow.js
 
 ## Jupyter Notebook
 
@@ -65,14 +65,14 @@
 - [tensorflow/docs](https://github.com/tensorflow/docs) pushed_at:2021-02 TensorFlow documentation
 - [tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) pushed_at:2021-02 Translations of TensorFlow documentation
 - [tensorflow/examples](https://github.com/tensorflow/examples) pushed_at:2021-02 TensorFlow examples
-- [tensorflow/fairness-indicators](https://github.com/tensorflow/fairness-indicators) pushed_at:2021-01 Tensorflow's Fairness Evaluation and Visualization Toolkit
+- [tensorflow/fairness-indicators](https://github.com/tensorflow/fairness-indicators) pushed_at:2021-02 Tensorflow's Fairness Evaluation and Visualization Toolkit
 - [tensorflow/gan](https://github.com/tensorflow/gan) pushed_at:2020-11 Tooling for GANs in TensorFlow
 - [tensorflow/lucid](https://github.com/tensorflow/lucid) pushed_at:2021-01 A collection of infrastructure and tools for research in neural network interpretability.
 - [tensorflow/probability](https://github.com/tensorflow/probability) pushed_at:2021-02 Probabilistic reasoning and statistical analysis in TensorFlow
 - [tensorflow/swift](https://github.com/tensorflow/swift) pushed_at:2021-02 Swift for TensorFlow
 - [tensorflow/swift-models](https://github.com/tensorflow/swift-models) pushed_at:2021-02 Models and examples built with Swift for TensorFlow
 - [tensorflow/tcav](https://github.com/tensorflow/tcav) pushed_at:2021-01 Code for the TCAV ML interpretability project
-- [tensorflow/tensorrt](https://github.com/tensorflow/tensorrt) pushed_at:2020-12 TensorFlow/TensorRT integration
+- [tensorflow/tensorrt](https://github.com/tensorflow/tensorrt) pushed_at:2021-02 TensorFlow/TensorRT integration
 - [tensorflow/tpu](https://github.com/tensorflow/tpu) pushed_at:2021-02 Reference models and tools for Cloud TPUs.
 - [tensorflow/workshops](https://github.com/tensorflow/workshops) pushed_at:2020-11 A few exercises for use at events.
 
@@ -96,11 +96,11 @@
 - [tensorflow/compression](https://github.com/tensorflow/compression) pushed_at:2021-02 Data compression in TensorFlow
 - [tensorflow/data-validation](https://github.com/tensorflow/data-validation) pushed_at:2021-02 Library for exploring and validating machine learning data
 - [tensorflow/datasets](https://github.com/tensorflow/datasets) pushed_at:2021-02 TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
-- [tensorflow/estimator](https://github.com/tensorflow/estimator) pushed_at:2021-01 TensorFlow Estimator
+- [tensorflow/estimator](https://github.com/tensorflow/estimator) pushed_at:2021-02 TensorFlow Estimator
 - [tensorflow/federated](https://github.com/tensorflow/federated) pushed_at:2021-02 A framework for implementing federated learning
 - [tensorflow/fold](https://github.com/tensorflow/fold) pushed_at:2020-12 Deep learning with dynamic computation graphs in TensorFlow
 - [tensorflow/graphics](https://github.com/tensorflow/graphics) pushed_at:2021-02 TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow
-- [tensorflow/hub](https://github.com/tensorflow/hub) pushed_at:2021-01 A library for transfer learning by reusing parts of TensorFlow models.
+- [tensorflow/hub](https://github.com/tensorflow/hub) pushed_at:2021-02 A library for transfer learning by reusing parts of TensorFlow models.
 - [tensorflow/kfac](https://github.com/tensorflow/kfac) pushed_at:2020-09 An implementation of KFAC for TensorFlow
 - [tensorflow/lattice](https://github.com/tensorflow/lattice) pushed_at:2020-12 Lattice methods in TensorFlow
 - [tensorflow/lingvo](https://github.com/tensorflow/lingvo) pushed_at:2021-02 Lingvo
@@ -114,7 +114,7 @@
 - [tensorflow/moonlight](https://github.com/tensorflow/moonlight) pushed_at:2021-01 Optical music recognition in TensorFlow
 - [tensorflow/neural-structured-learning](https://github.com/tensorflow/neural-structured-learning) pushed_at:2021-02 Training neural models with structured signals.
 - [tensorflow/nmt](https://github.com/tensorflow/nmt) pushed_at:2019-02 TensorFlow Neural Machine Translation Tutorial
-- [tensorflow/privacy](https://github.com/tensorflow/privacy) pushed_at:2021-01 Library for training machine learning models with privacy for training data
+- [tensorflow/privacy](https://github.com/tensorflow/privacy) pushed_at:2021-02 Library for training machine learning models with privacy for training data
 - [tensorflow/quantum](https://github.com/tensorflow/quantum) pushed_at:2021-02 Hybrid Quantum-Classical Machine Learning in TensorFlow
 - [tensorflow/ranking](https://github.com/tensorflow/ranking) pushed_at:2021-02 Learning to Rank in TensorFlow
 - [tensorflow/recommenders](https://github.com/tensorflow/recommenders) pushed_at:2021-02 TensorFlow Recommenders is a library for building recommender system models using TensorFlow.
@@ -134,7 +134,7 @@
 
 ## Scala
 
-- [tensorflow/ecosystem](https://github.com/tensorflow/ecosystem) pushed_at:2021-01 Integration of TensorFlow with other open-source frameworks
+- [tensorflow/ecosystem](https://github.com/tensorflow/ecosystem) pushed_at:2021-02 Integration of TensorFlow with other open-source frameworks
 
 ## Shell
 
@@ -150,7 +150,7 @@
 
 ## Swift
 
-- [tensorflow/swift-apis](https://github.com/tensorflow/swift-apis) pushed_at:2021-01 Swift for TensorFlow Deep Learning Library
+- [tensorflow/swift-apis](https://github.com/tensorflow/swift-apis) pushed_at:2021-02 Swift for TensorFlow Deep Learning Library
 - [tensorflow/swift-bindings](https://github.com/tensorflow/swift-bindings) pushed_at:2020-12 
 
 ## TypeScript

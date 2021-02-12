@@ -7,7 +7,7 @@
 ## Contents(114)
 
 - [C](#c) (43)
-- [C++](#c++) (26)
+- [C++](#c++) (27)
 - [CSS](#css) (2)
 - [Dockerfile](#dockerfile) (1)
 - [FreeMarker](#freemarker) (1)
@@ -17,7 +17,7 @@
 - [Jupyter Notebook](#jupyter-notebook) (3)
 - [OCaml](#ocaml) (1)
 - [Objective-C](#objective-c) (2)
-- [Others](#others) (10)
+- [Others](#others) (9)
 - [Perl](#perl) (1)
 - [PostScript](#postscript) (1)
 - [Python](#python) (12)
@@ -82,12 +82,13 @@
 - [ARM-software/caiman](https://github.com/ARM-software/caiman) pushed_at:2020-11 Sources for Arm Streamline's caiman daemon
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) pushed_at:2020-11 The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [ARM-software/drm-hwcomposer](https://github.com/ARM-software/drm-hwcomposer) pushed_at:2020-09 Clone of the drm-hwcomposer from freedesktop.org plus patches from Mali DP team
-- [ARM-software/EndpointAI](https://github.com/ARM-software/EndpointAI) pushed_at:2021-01 
+- [ARM-software/EndpointAI](https://github.com/ARM-software/EndpointAI) pushed_at:2021-02 
 - [ARM-software/ethos-n-driver-stack](https://github.com/ARM-software/ethos-n-driver-stack) pushed_at:2020-11 Driver stack (including user space libraries, kernel module and firmware) for the Arm NPU
 - [ARM-software/gator](https://github.com/ARM-software/gator) pushed_at:2021-02 Sources for Arm Streamline's gator daemon
 - [ARM-software/HPCG_for_Arm](https://github.com/ARM-software/HPCG_for_Arm) pushed_at:2020-09 
 - [ARM-software/HWCPipe](https://github.com/ARM-software/HWCPipe) pushed_at:2020-11 Hardware counters interface
 - [ARM-software/ktx-creator](https://github.com/ARM-software/ktx-creator) pushed_at:2020-08 Use this to create ASTC KTX files
+- [ARM-software/libTLE](https://github.com/ARM-software/libTLE) pushed_at:2021-02 This is a library of simple C11 and C++11 mutex primitives that provides support for Transactional Lock Elision (TLE) on Intel 64 with TSX and AArch64 with TME platforms.
 - [ARM-software/malioc-ue4](https://github.com/ARM-software/malioc-ue4) pushed_at:2016-04 Mali Offline Compiler Plugin for Unreal Engine 4
 - [ARM-software/Methodology_for_ArmIE_SVE](https://github.com/ARM-software/Methodology_for_ArmIE_SVE) pushed_at:2019-11 
 - [ARM-software/ML-examples](https://github.com/ARM-software/ML-examples) pushed_at:2020-12 Arm Machine Learning tutorials and examples
@@ -95,7 +96,7 @@
 - [ARM-software/odp-example-sisu](https://github.com/ARM-software/odp-example-sisu) pushed_at:2016-09 SISU - Simple GTP-U/IPsec application using ODP (OpenDataPlane)
 - [ARM-software/patrace](https://github.com/ARM-software/patrace) pushed_at:2020-12 
 - [ARM-software/perfdoc](https://github.com/ARM-software/perfdoc) pushed_at:2019-10 A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
-- [ARM-software/sdc600-debugger](https://github.com/ARM-software/sdc600-debugger) pushed_at:2020-06 API, reference libraries and example application for Arm Secure Debug Channel (SDC-600)
+- [ARM-software/sdc600-debugger](https://github.com/ARM-software/sdc600-debugger) pushed_at:2021-02 API, reference libraries and example application for Arm Secure Debug Channel (SDC-600)
 - [ARM-software/vktrace-arm](https://github.com/ARM-software/vktrace-arm) pushed_at:2021-02 Vktrace arm fork
 - [ARM-software/Vulkan-ValidationLayers](https://github.com/ARM-software/Vulkan-ValidationLayers) pushed_at:2020-08 Vulkan Validation Layers
 - [ARM-software/vulkan_best_practice_for_mobile_developers](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers) pushed_at:2020-06 Vulkan best practice for mobile developers
@@ -115,7 +116,7 @@
 
 ## Go
 
-- [ARM-software/bob-build](https://github.com/ARM-software/bob-build) pushed_at:2021-01 Meta-build system using Blueprint and ninja
+- [ARM-software/bob-build](https://github.com/ARM-software/bob-build) pushed_at:2021-02 Meta-build system using Blueprint and ninja
 
 ## HTML
 
@@ -129,7 +130,7 @@
 
 - [ARM-software/developer](https://github.com/ARM-software/developer) pushed_at:2021-02 GTM related documentation
 - [ARM-software/lisa](https://github.com/ARM-software/lisa) pushed_at:2021-02 Linux Integrated System Analysis
-- [ARM-software/mango](https://github.com/ARM-software/mango) pushed_at:2020-12 Parallel Hyperparameter Optimization in Python
+- [ARM-software/mango](https://github.com/ARM-software/mango) pushed_at:2021-02 Parallel Hyperparameter Optimization in Python
 
 ## OCaml
 
@@ -147,7 +148,6 @@
 - [ARM-software/bootwrapper](https://github.com/ARM-software/bootwrapper) pushed_at:2017-06 Linux kernel bootwrapper code
 - [ARM-software/bsa-acs](https://github.com/ARM-software/bsa-acs) pushed_at:2020-10 Arm SystemReady : BSA Architecture Compliance Suite
 - [ARM-software/data](https://github.com/ARM-software/data) pushed_at:2020-11 Machine-readable data describing Arm architecture and implementations. Includes JSON descriptions of implemented PMU events.
-- [ARM-software/libTLE](https://github.com/ARM-software/libTLE) pushed_at:2021-02 
 - [ARM-software/NXP_iMX](https://github.com/ARM-software/NXP_iMX) pushed_at:2016-03 CMSIS Driver Implementations for the NXP i.MX Device Series with Cortex-M processor
 - [ARM-software/NXP_Kinetis](https://github.com/ARM-software/NXP_Kinetis) pushed_at:2016-03 CMSIS Driver Implementations for the NXP Kinetis Microcontroller Series
 - [ARM-software/tf-issues](https://github.com/ARM-software/tf-issues) pushed_at:2020-01 Issue tracking for the ARM Trusted Firmware project

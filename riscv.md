@@ -29,7 +29,7 @@
 
 ## BitBake
 
-- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) pushed_at:2021-01 OpenEmbedded/Yocto layer for RISC-V Architecture
+- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) pushed_at:2021-02 OpenEmbedded/Yocto layer for RISC-V Architecture
 
 ## C
 
@@ -37,11 +37,11 @@
 - [riscv/riscv-4th-workshop-tutorials](https://github.com/riscv/riscv-4th-workshop-tutorials) pushed_at:2016-07 4th RISC-V Workshop Tutorials
 - [riscv/riscv-binutils-gdb](https://github.com/riscv/riscv-binutils-gdb) pushed_at:2021-01 RISC-V backports for binutils-gdb.  Development is done upstream at the FSF.
 - [riscv/riscv-code-speed-optimization](https://github.com/riscv/riscv-code-speed-optimization) pushed_at:2021-01 
-- [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2020-12 RISC-V cryptography extensions standardisation work.
+- [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2021-02 RISC-V cryptography extensions standardisation work.
 - [riscv/riscv-edk2](https://github.com/riscv/riscv-edk2) pushed_at:2020-08 Port of EDK2 implementation of UEFI to RISC-V. See documentation at:
 - [riscv/riscv-edk2-platforms](https://github.com/riscv/riscv-edk2-platforms) pushed_at:2020-10 Port of EDK2 implementation of UEFI to RISC-V. See documentation at:
 - [riscv/riscv-fesvr](https://github.com/riscv/riscv-fesvr) pushed_at:2019-03 RISC-V Frontend Server
-- [riscv/riscv-gcc](https://github.com/riscv/riscv-gcc) pushed_at:2021-01 
+- [riscv/riscv-gcc](https://github.com/riscv/riscv-gcc) pushed_at:2021-02 
 - [riscv/riscv-glibc](https://github.com/riscv/riscv-glibc) pushed_at:2020-06 RISC-V port of GNU's libc
 - [riscv/riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain) pushed_at:2021-02 GNU toolchain for RISC-V, including GCC
 - [riscv/riscv-isa-sim](https://github.com/riscv/riscv-isa-sim) pushed_at:2021-02 Spike, a RISC-V ISA Simulator
@@ -49,7 +49,7 @@
 - [riscv/riscv-musl](https://github.com/riscv/riscv-musl) pushed_at:2019-06 musl libc for RISC-V
 - [riscv/riscv-newlib](https://github.com/riscv/riscv-newlib) pushed_at:2020-12 RISC-V port of newlib
 - [riscv/riscv-openocd](https://github.com/riscv/riscv-openocd) pushed_at:2021-02 Fork of OpenOCD that has RISC-V support
-- [riscv/riscv-pk](https://github.com/riscv/riscv-pk) pushed_at:2020-12 RISC-V Proxy Kernel
+- [riscv/riscv-pk](https://github.com/riscv/riscv-pk) pushed_at:2021-02 RISC-V Proxy Kernel
 - [riscv/riscv-qemu](https://github.com/riscv/riscv-qemu) pushed_at:2019-04 QEMU with RISC-V (RV64G, RV32G) Emulation Support
 - [riscv/riscv-strace](https://github.com/riscv/riscv-strace) pushed_at:2016-08 RISC-V strace port
 - [riscv/riscv-test-env](https://github.com/riscv/riscv-test-env) pushed_at:2020-11 
@@ -98,7 +98,7 @@
 - [riscv/riscv-c-api-doc](https://github.com/riscv/riscv-c-api-doc) pushed_at:2021-02 Documentation of the RISC-V C API
 - [riscv/riscv-clang](https://github.com/riscv/riscv-clang) pushed_at:2019-04 
 - [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) pushed_at:2021-02 
-- [riscv/riscv-cores-list](https://github.com/riscv/riscv-cores-list) pushed_at:2021-01 RISC-V Cores, SoC platforms and SoCs
+- [riscv/riscv-cores-list](https://github.com/riscv/riscv-cores-list) pushed_at:2021-02 RISC-V Cores, SoC platforms and SoCs
 - [riscv/riscv-eabi-spec](https://github.com/riscv/riscv-eabi-spec) pushed_at:2019-11 Proposal for new Embedded ABI (EABI) for use in embedded RISC-V systems.
 - [riscv/riscv-elf-psabi-doc](https://github.com/riscv/riscv-elf-psabi-doc) pushed_at:2021-02 A RISC-V ELF psABI Document
 - [riscv/riscv-embedded-sig](https://github.com/riscv/riscv-embedded-sig) pushed_at:2021-01 
@@ -114,16 +114,16 @@
 - [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) pushed_at:2020-12 PLIC Specification
 - [riscv/riscv-poky](https://github.com/riscv/riscv-poky) pushed_at:2019-01 Port of the Yocto Project to the RISC-V ISA
 - [riscv/riscv-smbios](https://github.com/riscv/riscv-smbios) pushed_at:2019-03 RISC-V SMBIOS Type 44 Spec
-- [riscv/riscv-software-list](https://github.com/riscv/riscv-software-list) pushed_at:2021-01 The RISC-V software tools list, as seen on riscv.org
+- [riscv/riscv-software-list](https://github.com/riscv/riscv-software-list) pushed_at:2021-02 The RISC-V software tools list, as seen on riscv.org
 - [riscv/riscv-srt](https://github.com/riscv/riscv-srt) pushed_at:2021-01 
 - [riscv/riscv-teach](https://github.com/riscv/riscv-teach) pushed_at:2017-07 Slides, figures, and other material for teaching RISC-V courses
 - [riscv/riscv-technology-hc](https://github.com/riscv/riscv-technology-hc) pushed_at:2021-01 
 - [riscv/riscv-toolchain-conventions](https://github.com/riscv/riscv-toolchain-conventions) pushed_at:2017-10 Documenting the expected behaviour and supported command-line switches for GNU and LLVM based RISC-V toolchains
-- [riscv/riscv-toolchains-runtimes](https://github.com/riscv/riscv-toolchains-runtimes) pushed_at:2021-01 
+- [riscv/riscv-toolchains-runtimes](https://github.com/riscv/riscv-toolchains-runtimes) pushed_at:2021-02 
 - [riscv/riscv-uefi-edk2-docs](https://github.com/riscv/riscv-uefi-edk2-docs) pushed_at:2021-01 Documentation and status of UEFI on RISC-V
 - [riscv/riscv-weekly](https://github.com/riscv/riscv-weekly) pushed_at:2017-03 RISC-V Weekly Community Update
 - [riscv/riscv-wiki](https://github.com/riscv/riscv-wiki) pushed_at:2016-11 
-- [riscv/riscv-zfinx](https://github.com/riscv/riscv-zfinx) pushed_at:2020-12 
+- [riscv/riscv-zfinx](https://github.com/riscv/riscv-zfinx) pushed_at:2021-02 
 - [riscv/trace-debug-docs](https://github.com/riscv/trace-debug-docs) pushed_at:2020-03 
 - [riscv/virtual-memory](https://github.com/riscv/virtual-memory) pushed_at:2021-02 
 
@@ -150,7 +150,7 @@
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) pushed_at:2021-02 Working Draft of the RISC-V Debug Specification Standard
 - [riscv/riscv-dejagnu](https://github.com/riscv/riscv-dejagnu) pushed_at:2018-01 DejaGnu RISC-V port
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2021-02 RISC-V Instruction Set Manual
-- [riscv/riscv-trace-spec](https://github.com/riscv/riscv-trace-spec) pushed_at:2021-01 Working Draft of the RISC-V Processor Trace Specification
+- [riscv/riscv-trace-spec](https://github.com/riscv/riscv-trace-spec) pushed_at:2021-02 Working Draft of the RISC-V Processor Trace Specification
 
 
 ## License

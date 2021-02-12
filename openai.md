@@ -71,7 +71,7 @@
 ## Jupyter Notebook
 
 - [openai/baselines-results](https://github.com/openai/baselines-results) pushed_at:2020-07 
-- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-01 Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-02 Contrastive Language-Image Pretraining
 - [openai/lucid](https://github.com/openai/lucid) pushed_at:2019-01 A collection of infrastructure and tools for research in neural network interpretability.
 - [openai/ot-gan](https://github.com/openai/ot-gan) pushed_at:2018-11  Code for the paper "Improving GANs Using Optimal Transport"
 
@@ -104,8 +104,8 @@
 - [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) pushed_at:2019-07 Code for "Learning to Generate Reviews and Discovering Sentiment"
 - [openai/glow](https://github.com/openai/glow) pushed_at:2021-02 Code for reproducing results in "Glow: Generative Flow with Invertible 1x1 Convolutions"
 - [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2021-01 Code for the paper "Language Models are Unsupervised Multitask Learners"
-- [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) pushed_at:2020-08 Dataset of GPT-2 outputs for research in detection, biases, and more
-- [openai/gym](https://github.com/openai/gym) pushed_at:2021-01 A toolkit for developing and comparing reinforcement learning algorithms.
+- [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) pushed_at:2021-02 Dataset of GPT-2 outputs for research in detection, biases, and more
+- [openai/gym](https://github.com/openai/gym) pushed_at:2021-02 A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/gym-http-api](https://github.com/openai/gym-http-api) pushed_at:2019-07 API to access OpenAI Gym from other languages via HTTP
 - [openai/gym-recording](https://github.com/openai/gym-recording) pushed_at:2020-10 Add-on package to gym, to record sequences of actions, observations, and rewards
 - [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2018-11 
@@ -119,7 +119,7 @@
 - [openai/jukebox](https://github.com/openai/jukebox) pushed_at:2021-02 Code for the paper "Jukebox: A Generative Model for Music"
 - [openai/kubernetes-ec2-autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler) pushed_at:2019-06 A batch-optimized scaling manager for Kubernetes
 - [openai/large-scale-curiosity](https://github.com/openai/large-scale-curiosity) pushed_at:2020-01 Code for the paper "Large-Scale Study of Curiosity-Driven Learning"
-- [openai/lm-human-preferences](https://github.com/openai/lm-human-preferences) pushed_at:2020-12 Code for the paper Fine-Tuning Language Models from Human Preferences
+- [openai/lm-human-preferences](https://github.com/openai/lm-human-preferences) pushed_at:2021-02 Code for the paper Fine-Tuning Language Models from Human Preferences
 - [openai/maddpg](https://github.com/openai/maddpg) pushed_at:2020-04 Code for the MADDPG algorithm from the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
 - [openai/ml-agents](https://github.com/openai/ml-agents) pushed_at:2020-03 Unity Machine Learning Agents Toolkit
 - [openai/mlsh](https://github.com/openai/mlsh) pushed_at:2019-07  Code for the paper "Meta-Learning Shared Hierarchies"

@@ -203,7 +203,7 @@
 
 ## Java
 
-- [opencollective/advanced-java](https://github.com/opencollective/advanced-java) pushed_at:2019-07 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
+- [opencollective/advanced-java](https://github.com/opencollective/advanced-java) pushed_at:2021-02 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
 - [opencollective/allure1](https://github.com/opencollective/allure1) pushed_at:2017-07 A flexible lightweight multi-language test report tool with the possibility to add steps, attachments, parameters and so on.
 - [opencollective/allure2](https://github.com/opencollective/allure2) pushed_at:2017-07 The next generation of Allure Report, a flexible lightweight multi-language test report tool with the possibility to add steps, attachments, parameters and so on.
 - [opencollective/AmazMod](https://github.com/opencollective/AmazMod) pushed_at:2018-12 
@@ -214,14 +214,14 @@
 - [opencollective/arthas](https://github.com/opencollective/arthas) pushed_at:2019-01 Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [opencollective/AsciidocFX](https://github.com/opencollective/AsciidocFX) pushed_at:2017-06 Asciidoc Editor and Toolchain written with JavaFX 8 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 - [opencollective/blade](https://github.com/opencollective/blade) pushed_at:2017-10 :rocket: a simple, elegant mvc framework! website →
-- [opencollective/CameraView](https://github.com/opencollective/CameraView) pushed_at:2018-03 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs.
+- [opencollective/CameraView](https://github.com/opencollective/CameraView) pushed_at:2021-02 A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs.
 - [opencollective/Easer](https://github.com/opencollective/Easer) pushed_at:2019-04 More than event-driven Android automation
 - [opencollective/fescar](https://github.com/opencollective/fescar) pushed_at:2019-02 :fire: Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.
 - [opencollective/ff4j](https://github.com/opencollective/ff4j) pushed_at:2017-10 Feature Flipping for Java made easy
 - [opencollective/graphql-java](https://github.com/opencollective/graphql-java) pushed_at:2019-04 GraphQL Java implementation
 - [opencollective/intellij-elixir](https://github.com/opencollective/intellij-elixir) pushed_at:2019-04 Elixir plugin for JetBrain's IntelliJ Platform (including Rubymine)
 - [opencollective/jbot](https://github.com/opencollective/jbot) pushed_at:2017-06 Make Slack, Facebook and Twitter Bots in Java in minutes.
-- [opencollective/joda-time](https://github.com/opencollective/joda-time) pushed_at:2019-07 Joda-Time is the widely used replacement for the Java date and time classes prior to Java SE 8.
+- [opencollective/joda-time](https://github.com/opencollective/joda-time) pushed_at:2021-02 Joda-Time is the widely used replacement for the Java date and time classes prior to Java SE 8.
 - [opencollective/leetcode-1](https://github.com/opencollective/leetcode-1) pushed_at:2019-01 😎 LeetCode solutions in any programming language
 - [opencollective/lifx-sdk-android](https://github.com/opencollective/lifx-sdk-android) pushed_at:2018-04 LIFX Android SDK
 - [opencollective/mastalab](https://github.com/opencollective/mastalab) pushed_at:2018-06 Mastalab - Mastodon client for Android devices
@@ -229,7 +229,7 @@
 - [opencollective/openapi-generator](https://github.com/opencollective/openapi-generator) pushed_at:2019-04 OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
 - [opencollective/Orchid](https://github.com/opencollective/Orchid) pushed_at:2019-04 A beautiful and truly unique documentation engine and static site generator.
 - [opencollective/react-native-camera](https://github.com/opencollective/react-native-camera) pushed_at:2017-05 A Camera component for React Native. Also supports barcode scanning!
-- [opencollective/restfb](https://github.com/opencollective/restfb) pushed_at:2019-06 RestFB is a simple and flexible Facebook Graph API client written in Java.
+- [opencollective/restfb](https://github.com/opencollective/restfb) pushed_at:2021-02 RestFB is a simple and flexible Facebook Graph API client written in Java.
 - [opencollective/Sentinel](https://github.com/opencollective/Sentinel) pushed_at:2019-12 A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)
 - [opencollective/SpringBootUnity](https://github.com/opencollective/SpringBootUnity) pushed_at:2017-09 rabbitmq、redis、scheduled、socket、mongodb、Swagger2、spring data jpa、Thymeleaf、freemarker、velocity等 (多模块spring boot项目)-http://api.xiaomo.info (使用spring boot 做底层构架，在不用的应用场景下搭配不同的技术构建项目。)
 - [opencollective/SVGAPlayer-Android](https://github.com/opencollective/SVGAPlayer-Android) pushed_at:2018-12 Similar to Lottie. Render After Effects / Animate CC (Flash) animations natively on Android and iOS, Web.  使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画。
@@ -248,7 +248,7 @@
 - [opencollective/atom](https://github.com/opencollective/atom) pushed_at:2018-07 Atom file-specific icons for improved visual grepping.
 - [opencollective/atom-latex](https://github.com/opencollective/atom-latex) pushed_at:2019-07 Compile LaTeX or knitr documents from within Atom
 - [opencollective/babel](https://github.com/opencollective/babel) pushed_at:2019-01 🐠 Babel is a compiler for writing next generation JavaScript.
-- [opencollective/babel-preset-opencollective](https://github.com/opencollective/babel-preset-opencollective) pushed_at:2018-05 
+- [opencollective/babel-preset-opencollective](https://github.com/opencollective/babel-preset-opencollective) pushed_at:2021-02 
 - [opencollective/badgen-service](https://github.com/opencollective/badgen-service) pushed_at:2019-02 Fast svg badge generating service
 - [opencollective/balance-manager](https://github.com/opencollective/balance-manager) pushed_at:2019-03 A tool to manage your wallets
 - [opencollective/beaker](https://github.com/opencollective/beaker) pushed_at:2017-07 A peer-to-peer Web browser
@@ -359,7 +359,7 @@
 - [opencollective/opencollective-changelog](https://github.com/opencollective/opencollective-changelog) pushed_at:2021-02 Tracking weekly changes
 - [opencollective/opencollective-cli](https://github.com/opencollective/opencollective-cli) pushed_at:2020-07 Command Line Interface for Open Collective
 - [opencollective/opencollective-email](https://github.com/opencollective/opencollective-email) pushed_at:2019-01 The email service for transparent and inclusive open collectives
-- [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) pushed_at:2021-01 The new Open Collective email service, powered by Eymail
+- [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) pushed_at:2021-02 The new Open Collective email service, powered by Eymail
 - [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) pushed_at:2021-02 Open Collective Frontend. A React app powered by Next.js.
 - [opencollective/opencollective-giftcards-generator](https://github.com/opencollective/opencollective-giftcards-generator) pushed_at:2020-04 Simple app to generate read-to-print Open Collective gift cards
 - [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) pushed_at:2021-02 The Open Collective Image Server (badges, banners, avatar, etc ...)
@@ -533,8 +533,8 @@
 - [opencollective/cabal-desktop](https://github.com/opencollective/cabal-desktop) pushed_at:2020-01 Desktop client for Cabal, the p2p/decentralized/local-first chat platform.
 - [opencollective/cadCAD](https://github.com/opencollective/cadCAD) pushed_at:2019-12 Design, test and validate complex systems through simulation in Python
 - [opencollective/camelot](https://github.com/opencollective/camelot) pushed_at:2019-11 A Python library to extract tabular data from PDFs
-- [opencollective/cas](https://github.com/opencollective/cas) pushed_at:2019-09 Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
-- [opencollective/cashify](https://github.com/opencollective/cashify) pushed_at:2019-09 💸 Lightweight currency conversion library, successor of money.js
+- [opencollective/cas](https://github.com/opencollective/cas) pushed_at:2021-02 Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
+- [opencollective/cashify](https://github.com/opencollective/cashify) pushed_at:2021-02 💸 Lightweight currency conversion library, successor of money.js
 - [opencollective/casl](https://github.com/opencollective/casl) pushed_at:2020-02 CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
 - [opencollective/Chrome-Charset](https://github.com/opencollective/Chrome-Charset) pushed_at:2019-12 A Google Chrome extension used to modify the page default encoding for Google Chrome 55+.
 - [opencollective/CircuitVerse](https://github.com/opencollective/CircuitVerse) pushed_at:2019-09 CircuitVerse Primary Code Base
@@ -580,14 +580,14 @@
 - [opencollective/documentation](https://github.com/opencollective/documentation) pushed_at:2021-01 All documentation for Open Collective
 - [opencollective/dotenv-linter](https://github.com/opencollective/dotenv-linter) pushed_at:2020-08 ✌️Linter for .env files. Written in Rust 🦀
 - [opencollective/dowww](https://github.com/opencollective/dowww) pushed_at:2019-01 💡 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
-- [opencollective/DragonProxy](https://github.com/opencollective/DragonProxy) pushed_at:2019-09 A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.
+- [opencollective/DragonProxy](https://github.com/opencollective/DragonProxy) pushed_at:2021-02 A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.
 - [opencollective/dreamtime](https://github.com/opencollective/dreamtime) pushed_at:2019-09 DreamTime allows you to transform photos to get private entertainment.
 - [opencollective/EffectiveModernCppChinese](https://github.com/opencollective/EffectiveModernCppChinese) pushed_at:2019-01 《Effective Modern C++》翻译 - 2018.5更新中
 - [opencollective/einsteinpy](https://github.com/opencollective/einsteinpy) pushed_at:2019-09 Repository for the EinsteinPy core package :rocket:
 - [opencollective/ElasticsearchDSL](https://github.com/opencollective/ElasticsearchDSL) pushed_at:2020-02 Query DSL library for Elasticsearch
 - [opencollective/emmet](https://github.com/opencollective/emmet) pushed_at:2019-09 The essential toolkit for web-developers
 - [opencollective/emmet-vim](https://github.com/opencollective/emmet-vim) pushed_at:2019-10 emmet for vim: http://emmet.io/
-- [opencollective/emojiscreen](https://github.com/opencollective/emojiscreen) pushed_at:2019-10 EmojiScreen is a listing of movies, TV shows and musicals depicted through emojis.
+- [opencollective/emojiscreen](https://github.com/opencollective/emojiscreen) pushed_at:2021-02 EmojiScreen is a listing of movies, TV shows and musicals depicted through emojis.
 - [opencollective/engine262](https://github.com/opencollective/engine262) pushed_at:2020-04 An implementation of ECMA-262 in JavaScript
 - [opencollective/enhanced-github](https://github.com/opencollective/enhanced-github) pushed_at:2019-12 :rocket: Chrome extension to display size of each file, download link and copy file contents directly to clipboard
 - [opencollective/enso](https://github.com/opencollective/enso) pushed_at:2020-04 Hybrid textual and visual functional programming.
@@ -625,7 +625,7 @@
 - [opencollective/gotgt](https://github.com/opencollective/gotgt) pushed_at:2019-12 Simple Golang SCSI Target framework
 - [opencollective/gotql](https://github.com/opencollective/gotql) pushed_at:2020-05 GraphQL query utility for serverside apps
 - [opencollective/graphql-flutter](https://github.com/opencollective/graphql-flutter) pushed_at:2019-10 A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package.
-- [opencollective/GriefPrevention](https://github.com/opencollective/GriefPrevention) pushed_at:2019-09 The official repository of the GriefPrevention Bukkit plugin, a self-managed claiming and permissions system
+- [opencollective/GriefPrevention](https://github.com/opencollective/GriefPrevention) pushed_at:2021-02 The official repository of the GriefPrevention Bukkit plugin, a self-managed claiming and permissions system
 - [opencollective/gtk](https://github.com/opencollective/gtk) pushed_at:2020-04 GTK+ 3.x bindings and wrappers for Rust
 - [opencollective/guide](https://github.com/opencollective/guide) pushed_at:2019-02  Kubernetes clusters for the hobbyist.
 - [opencollective/guiscrcpy](https://github.com/opencollective/guiscrcpy) pushed_at:2020-05 :mobile: A full fledged GUI integration for the most award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
@@ -647,11 +647,11 @@
 - [opencollective/hyperglass](https://github.com/opencollective/hyperglass) pushed_at:2020-01 hyperglass is a modern, customizable network looking glass written in Python 3.
 - [opencollective/Instagram-clone](https://github.com/opencollective/Instagram-clone) pushed_at:2020-01 An Instagram-clone with my own flavors and features. Own the project with 5 simple steps!! 📸💝☢️
 - [opencollective/iTorrent](https://github.com/opencollective/iTorrent) pushed_at:2019-11 Torrent client for iOS 9.3+
-- [opencollective/Jailer](https://github.com/opencollective/Jailer) pushed_at:2019-09 Database Subsetting and Relational Data Browsing Tool. Navigate bidirectionally through the database by following foreign-key-based or user-defined relationships. Exports consistent, referentially intact row-sets from relational databases. Removes data w/o violating integrity. Generates topologically sorted SQL-DML, hierarchically structured XML. and DbUnit datasets.
+- [opencollective/Jailer](https://github.com/opencollective/Jailer) pushed_at:2021-02 Database Subsetting and Relational Data Browsing Tool. Navigate bidirectionally through the database by following foreign-key-based or user-defined relationships. Exports consistent, referentially intact row-sets from relational databases. Removes data w/o violating integrity. Generates topologically sorted SQL-DML, hierarchically structured XML. and DbUnit datasets.
 - [opencollective/jest](https://github.com/opencollective/jest) pushed_at:2021-02 Delightful JavaScript Testing.
 - [opencollective/jira](https://github.com/opencollective/jira) pushed_at:2019-09 Python JIRA Library is the easiest way to automate JIRA.
 - [opencollective/jira-plugin](https://github.com/opencollective/jira-plugin) pushed_at:2019-12 Jira plugin for VsCode
-- [opencollective/jodd](https://github.com/opencollective/jodd) pushed_at:2019-09 Jodd! Lightweight. Java. Use what you like.
+- [opencollective/jodd](https://github.com/opencollective/jodd) pushed_at:2021-02 Jodd! Lightweight. Java. Use what you like.
 - [opencollective/jpress](https://github.com/opencollective/jpress) pushed_at:2020-04 JPress，一个使用 Java 开发的建站神器，目前已经有 10w+ 网站使用 JPress 进行驱动，其中包括多个政府机构，200+上市公司，中科院、红+字会等。
 - [opencollective/jrnl](https://github.com/opencollective/jrnl) pushed_at:2020-04 Collect your thoughts and notes without leaving the command line.
 - [opencollective/js-by-examples](https://github.com/opencollective/js-by-examples) pushed_at:2019-10 Learn JavaScript by examples
@@ -695,7 +695,7 @@
 - [opencollective/MiniValine](https://github.com/opencollective/MiniValine) pushed_at:2020-04 A simple and minimalist comment system based on Leancloud.
 - [opencollective/mirai](https://github.com/opencollective/mirai) pushed_at:2020-05 全开源 高效率 QQ机器人/Android QQ协议支持库 for JVM / Android
 - [opencollective/miso](https://github.com/opencollective/miso) pushed_at:2019-09 :ramen: A tasty Haskell front-end framework
-- [opencollective/mobile-ffmpeg](https://github.com/opencollective/mobile-ffmpeg) pushed_at:2019-11 FFmpeg for Android, iOS and tvOS
+- [opencollective/mobile-ffmpeg](https://github.com/opencollective/mobile-ffmpeg) pushed_at:2021-02 FFmpeg for Android, iOS and tvOS
 - [opencollective/mongoke](https://github.com/opencollective/mongoke) pushed_at:2020-04 Instant Graphql for MongoDb
 - [opencollective/monica](https://github.com/opencollective/monica) pushed_at:2020-01 Personal CRM. Remember everything about your friends and family.
 - [opencollective/monotorrent](https://github.com/opencollective/monotorrent) pushed_at:2020-02 The official repository for MonoTorrent, a bittorrent library for .NET
@@ -801,7 +801,7 @@
 - [opencollective/sinuous](https://github.com/opencollective/sinuous) pushed_at:2020-02 Small, fast, reactive UI library
 - [opencollective/software-development-kit](https://github.com/opencollective/software-development-kit) pushed_at:2020-08 FDA, HIPPA, and HL7 compliant Javascript/Node applications!
 - [opencollective/sourcecred](https://github.com/opencollective/sourcecred) pushed_at:2019-09 a reputation protocol for open collaboration
-- [opencollective/spring-cloud-alibaba](https://github.com/opencollective/spring-cloud-alibaba) pushed_at:2019-12 Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+- [opencollective/spring-cloud-alibaba](https://github.com/opencollective/spring-cloud-alibaba) pushed_at:2021-02 Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 - [opencollective/spruce](https://github.com/opencollective/spruce) pushed_at:2019-09 A social networking platform made using Node.js and MongoDB
 - [opencollective/spy-debugger](https://github.com/opencollective/spy-debugger) pushed_at:2019-12 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
 - [opencollective/statecraft](https://github.com/opencollective/statecraft) pushed_at:2019-12 Manage state with finesse

@@ -35,7 +35,7 @@
 - [microsoftgraph/aspnet-snippets-sample](https://github.com/microsoftgraph/aspnet-snippets-sample) pushed_at:2020-06 A repository of code snippets that use Microsoft Graph to perform common tasks such as sending email, managing groups, and other activities from an ASP.NET Core MVC app. This sample uses the Microsoft Graph .NET Client Library to work with data, and the Microsoft Identity Web Library for authentication on the Microsoft identity platform v2.0 endpoint.
 - [microsoftgraph/aspnet-todo-rest-sample](https://github.com/microsoftgraph/aspnet-todo-rest-sample) pushed_at:2020-03 This sample shows how to read and write into an Excel document stored in your OneDrive for Business account by using the Excel REST APIs.
 - [microsoftgraph/aspnetcore-connect-sample](https://github.com/microsoftgraph/aspnetcore-connect-sample) pushed_at:2020-12 This ASP.NET Core MVC sample shows how to connect to Microsoft Graph using delegated permissions and the Azure AD v2.0 (MSAL) endpoint.
-- [microsoftgraph/aspnetcore-webhooks-sample](https://github.com/microsoftgraph/aspnetcore-webhooks-sample) pushed_at:2021-01 This sample shows how to subscribe for Microsoft Graph webhooks using application (app-only) permissions and the Azure AD endpoint.
+- [microsoftgraph/aspnetcore-webhooks-sample](https://github.com/microsoftgraph/aspnetcore-webhooks-sample) pushed_at:2021-02 This sample shows how to subscribe for Microsoft Graph webhooks using application (app-only) permissions and the Azure AD endpoint.
 - [microsoftgraph/botframework-csharp-approvalbot-sample](https://github.com/microsoftgraph/botframework-csharp-approvalbot-sample) pushed_at:2020-03 A sample Bot that uses adaptive cards and the .NET Graph SDK to send actionable messages requesting approval to release files on OneDrive.
 - [microsoftgraph/botframework-csharp-excelbot-rest-sample](https://github.com/microsoftgraph/botframework-csharp-excelbot-rest-sample) pushed_at:2020-05 [ARCHIVED] Excel Bot is a bot built with the Microsoft Bot Framework that demonstrates how to use Excel with the Microsoft Graph API
 - [microsoftgraph/botframework-csharp-graph-explorer](https://github.com/microsoftgraph/botframework-csharp-graph-explorer) pushed_at:2020-04 The Microsoft Graph Bot is a bot built with the Microsoft Bot Framework that allows interactive exploration of the Microsoft Graph.
@@ -55,7 +55,7 @@
 - [microsoftgraph/msgraph-github-content-utility](https://github.com/microsoftgraph/msgraph-github-content-utility) pushed_at:2020-09 
 - [microsoftgraph/msgraph-openapi-introspection](https://github.com/microsoftgraph/msgraph-openapi-introspection) pushed_at:2019-12 An API for querying the OpenAPI description of Microsoft Graph
 - [microsoftgraph/msgraph-permissions-scraper](https://github.com/microsoftgraph/msgraph-permissions-scraper) pushed_at:2020-09 
-- [microsoftgraph/msgraph-samples-dashboard](https://github.com/microsoftgraph/msgraph-samples-dashboard) pushed_at:2020-09 Dashboard for msgraph samples
+- [microsoftgraph/msgraph-samples-dashboard](https://github.com/microsoftgraph/msgraph-samples-dashboard) pushed_at:2021-02 Dashboard for msgraph samples
 - [microsoftgraph/msgraph-sdk-dotnet](https://github.com/microsoftgraph/msgraph-sdk-dotnet) pushed_at:2021-02 Microsoft Graph Client Library for .NET!
 - [microsoftgraph/msgraph-sdk-dotnet-auth](https://github.com/microsoftgraph/msgraph-sdk-dotnet-auth) pushed_at:2021-01 Authentication Providers for Microsoft Graph .NET SDK
 - [microsoftgraph/msgraph-sdk-dotnet-contrib](https://github.com/microsoftgraph/msgraph-sdk-dotnet-contrib) pushed_at:2021-01 Community contributed extensions to the Microsoft Graph .NET SDK service library, to support APIs that have not yet made it into Microsoft Graph
@@ -99,11 +99,11 @@
 - [microsoftgraph/java-spring-webhooks-sample](https://github.com/microsoftgraph/java-spring-webhooks-sample) pushed_at:2021-02 Receive change notifications with data with the Microsoft Graph
 - [microsoftgraph/msgraph-beta-sdk-java](https://github.com/microsoftgraph/msgraph-beta-sdk-java) pushed_at:2021-02 Beta Graph SDK Models and Request Builders 
 - [microsoftgraph/msgraph-sdk-android](https://github.com/microsoftgraph/msgraph-sdk-android) pushed_at:2020-09 Microsoft Graph SDK for Android! https://graph.microsoft.io
-- [microsoftgraph/msgraph-sdk-android-auth](https://github.com/microsoftgraph/msgraph-sdk-android-auth) pushed_at:2019-09 MSAL Authentication Provider for Android
+- [microsoftgraph/msgraph-sdk-android-auth](https://github.com/microsoftgraph/msgraph-sdk-android-auth) pushed_at:2021-02 MSAL Authentication Provider for Android
 - [microsoftgraph/msgraph-sdk-android-msa-auth-for-android-adapter](https://github.com/microsoftgraph/msgraph-sdk-android-msa-auth-for-android-adapter) pushed_at:2020-09 MSGraph SDK Android MSA Auth for Android Adapter
 - [microsoftgraph/MSGraph-SDK-Code-Generator](https://github.com/microsoftgraph/MSGraph-SDK-Code-Generator) pushed_at:2021-02 MSGraph SDK Code Generator
 - [microsoftgraph/msgraph-sdk-java](https://github.com/microsoftgraph/msgraph-sdk-java) pushed_at:2021-02 Microsoft Graph SDK for Java
-- [microsoftgraph/msgraph-sdk-java-auth](https://github.com/microsoftgraph/msgraph-sdk-java-auth) pushed_at:2020-12 Authentication Providers for Microsoft Graph Java SDK
+- [microsoftgraph/msgraph-sdk-java-auth](https://github.com/microsoftgraph/msgraph-sdk-java-auth) pushed_at:2021-02 Authentication Providers for Microsoft Graph Java SDK
 - [microsoftgraph/msgraph-sdk-java-core](https://github.com/microsoftgraph/msgraph-sdk-java-core) pushed_at:2021-02 Microsoft Graph SDK for Java - Core Library
 - [microsoftgraph/onedrive-explorer-android](https://github.com/microsoftgraph/onedrive-explorer-android) pushed_at:2020-03 OneDrive Explorer for Phone and Tablets!
 
@@ -129,7 +129,7 @@
 
 ## Jupyter Notebook
 
-- [microsoftgraph/security-api-solutions](https://github.com/microsoftgraph/security-api-solutions) pushed_at:2020-12 Microsoft Graph Security API applications and services.
+- [microsoftgraph/security-api-solutions](https://github.com/microsoftgraph/security-api-solutions) pushed_at:2021-02 Microsoft Graph Security API applications and services.
 
 ## Objective-C
 
