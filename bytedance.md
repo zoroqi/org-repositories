@@ -51,7 +51,7 @@
 
 ## Cuda
 
-- [bytedance/lightseq](https://github.com/bytedance/lightseq) pushed_at:2020-12 LightSeq: A High Performance Inference Library for Sequence Processing and Generation
+- [bytedance/lightseq](https://github.com/bytedance/lightseq) pushed_at:2021-02 LightSeq: A High Performance Inference Library for Sequence Processing and Generation
 
 ## Dart
 
@@ -90,7 +90,7 @@
 - [bytedance/okhttp](https://github.com/bytedance/okhttp) pushed_at:2016-11 An HTTP+HTTP/2 client for Android and Java applications.
 - [bytedance/pangle-sdk-demo](https://github.com/bytedance/pangle-sdk-demo) pushed_at:2020-07 pangle-sdk-demo and doc 
 - [bytedance/scene](https://github.com/bytedance/scene) pushed_at:2021-02 Android Single Activity Applications framework without Fragment.
-- [bytedance/tiktok-business-android-sdk](https://github.com/bytedance/tiktok-business-android-sdk) pushed_at:2021-01 
+- [bytedance/tiktok-business-android-sdk](https://github.com/bytedance/tiktok-business-android-sdk) pushed_at:2021-02 
 
 ## JavaScript
 

@@ -82,7 +82,7 @@
 - [alibaba/dragonwell8_hotspot](https://github.com/alibaba/dragonwell8_hotspot) pushed_at:2021-02 
 - [alibaba/euler](https://github.com/alibaba/euler) pushed_at:2020-07 A distributed graph deep learning framework.
 - [alibaba/GPU-scheduler-for-deep-learning](https://github.com/alibaba/GPU-scheduler-for-deep-learning) pushed_at:2020-11 GPU-scheduler-for-deep-learning
-- [alibaba/graph-learn](https://github.com/alibaba/graph-learn) pushed_at:2021-01 An Industrial Graph Neural Network Framework
+- [alibaba/graph-learn](https://github.com/alibaba/graph-learn) pushed_at:2021-02 An Industrial Graph Neural Network Framework
 - [alibaba/hessian2-codec](https://github.com/alibaba/hessian2-codec) pushed_at:2021-02 hessian2-codec it is a complete C++ implementation of hessian2 spec
 - [alibaba/heterogeneity-aware-lowering-and-optimization](https://github.com/alibaba/heterogeneity-aware-lowering-and-optimization) pushed_at:2021-02 heterogeneity-aware-lowering-and-optimization
 - [alibaba/jsni](https://github.com/alibaba/jsni) pushed_at:2018-09 JavaScript Native Interface for JavaScript and C/C++
@@ -186,7 +186,7 @@
 - [alibaba/dragonwell8_jdk](https://github.com/alibaba/dragonwell8_jdk) pushed_at:2021-02 
 - [alibaba/dragonwell8_langtools](https://github.com/alibaba/dragonwell8_langtools) pushed_at:2021-02 see alibaba/dragonwell8 for more information
 - [alibaba/dragonwell8_nashorn](https://github.com/alibaba/dragonwell8_nashorn) pushed_at:2021-02 
-- [alibaba/druid](https://github.com/alibaba/druid) pushed_at:2021-01 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
+- [alibaba/druid](https://github.com/alibaba/druid) pushed_at:2021-02 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
 - [alibaba/druid-extension](https://github.com/alibaba/druid-extension) pushed_at:2012-12 druid-wrapper
 - [alibaba/druid-ha](https://github.com/alibaba/druid-ha) pushed_at:2013-08 在Druid连接池上提供HA支持
 - [alibaba/dubbo-spring-boot-starter](https://github.com/alibaba/dubbo-spring-boot-starter) pushed_at:2018-06 Dubbo Spring Boot Starter
@@ -268,7 +268,7 @@
 - [alibaba/badgeboard](https://github.com/alibaba/badgeboard) pushed_at:2014-09 alibaba Node.js modules badge board
 - [alibaba/beidou](https://github.com/alibaba/beidou) pushed_at:2021-01 :milky_way: Isomorphic framework for server-rendered React apps
 - [alibaba/bindingx](https://github.com/alibaba/bindingx) pushed_at:2020-09 :rocket: Bind actions to effects.
-- [alibaba/butterfly](https://github.com/alibaba/butterfly) pushed_at:2021-02 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field
+- [alibaba/butterfly](https://github.com/alibaba/butterfly) pushed_at:2021-02 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
 - [alibaba/camera-proxy](https://github.com/alibaba/camera-proxy) pushed_at:2021-02 Cross-platform 3D Camera Controller.
 - [alibaba/cloud-charts](https://github.com/alibaba/cloud-charts) pushed_at:2021-01 开箱即用的前端图表库，简单配置就能拥有漂亮的可视化图表
 - [alibaba/cordova-yunos](https://github.com/alibaba/cordova-yunos) pushed_at:2017-09 YunOS support for Apache Cordova

@@ -37,8 +37,8 @@
 
 ## Go
 
-- [sony/appsync-client-go](https://github.com/sony/appsync-client-go) pushed_at:2020-11 AWS AppSync golang client library
-- [sony/gobreaker](https://github.com/sony/gobreaker) pushed_at:2021-01 Circuit Breaker implemented in Go
+- [sony/appsync-client-go](https://github.com/sony/appsync-client-go) pushed_at:2021-02 AWS AppSync golang client library
+- [sony/gobreaker](https://github.com/sony/gobreaker) pushed_at:2021-02 Circuit Breaker implemented in Go
 - [sony/micro-notifier](https://github.com/sony/micro-notifier) pushed_at:2021-02 Simplified Pusher Clone
 - [sony/sonyflake](https://github.com/sony/sonyflake) pushed_at:2020-10 A distributed unique ID generator inspired by Twitter's Snowflake
 

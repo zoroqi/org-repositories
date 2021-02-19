@@ -61,7 +61,7 @@
 ## Go
 
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) pushed_at:2020-10 Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
-- [Netflix/go-env](https://github.com/Netflix/go-env) pushed_at:2021-01 a golang library to manage environment variables
+- [Netflix/go-env](https://github.com/Netflix/go-env) pushed_at:2021-02 a golang library to manage environment variables
 - [Netflix/go-expect](https://github.com/Netflix/go-expect) pushed_at:2020-11 an expect-like golang library to automate control of terminal or console based programs.
 - [Netflix/hal-9001](https://github.com/Netflix/hal-9001) pushed_at:2017-06 Hal-9001 is a Go library that offers a number of facilities for creating a bot and its plugins.
 - [Netflix/metrics-client-go](https://github.com/Netflix/metrics-client-go) pushed_at:2017-10 
@@ -207,7 +207,7 @@
 
 - [Netflix/dgs-codegen](https://github.com/Netflix/dgs-codegen) pushed_at:2021-02 
 - [Netflix/dgs-examples-kotlin](https://github.com/Netflix/dgs-examples-kotlin) pushed_at:2021-01 
-- [Netflix/dgs-federation-example](https://github.com/Netflix/dgs-federation-example) pushed_at:2021-01 
+- [Netflix/dgs-federation-example](https://github.com/Netflix/dgs-federation-example) pushed_at:2021-02 
 - [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) pushed_at:2021-02 
 
 ## Others

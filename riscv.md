@@ -23,7 +23,7 @@
 
 ## Assembly
 
-- [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) pushed_at:2021-01 Working draft of the proposed RISC-V Bitmanipulation extension
+- [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) pushed_at:2021-02 Working draft of the proposed RISC-V Bitmanipulation extension
 - [riscv/riscv-compliance](https://github.com/riscv/riscv-compliance) pushed_at:2021-01 
 - [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) pushed_at:2021-02 Working draft of the proposed RISC-V V vector extension
 
@@ -33,7 +33,7 @@
 
 ## C
 
-- [riscv/opensbi](https://github.com/riscv/opensbi) pushed_at:2021-01 RISC-V Open Source Supervisor Binary Interface
+- [riscv/opensbi](https://github.com/riscv/opensbi) pushed_at:2021-02 RISC-V Open Source Supervisor Binary Interface
 - [riscv/riscv-4th-workshop-tutorials](https://github.com/riscv/riscv-4th-workshop-tutorials) pushed_at:2016-07 4th RISC-V Workshop Tutorials
 - [riscv/riscv-binutils-gdb](https://github.com/riscv/riscv-binutils-gdb) pushed_at:2021-01 RISC-V backports for binutils-gdb.  Development is done upstream at the FSF.
 - [riscv/riscv-code-speed-optimization](https://github.com/riscv/riscv-code-speed-optimization) pushed_at:2021-01 
@@ -55,7 +55,7 @@
 - [riscv/riscv-test-env](https://github.com/riscv/riscv-test-env) pushed_at:2020-11 
 - [riscv/riscv-tests](https://github.com/riscv/riscv-tests) pushed_at:2021-02 
 - [riscv/rvv-intrinsic-doc](https://github.com/riscv/rvv-intrinsic-doc) pushed_at:2021-02 
-- [riscv/tg-nexus-trace](https://github.com/riscv/tg-nexus-trace) pushed_at:2020-12 RISC-V Nexus Trace TG documentation and reference code
+- [riscv/tg-nexus-trace](https://github.com/riscv/tg-nexus-trace) pushed_at:2021-02 RISC-V Nexus Trace TG documentation and reference code
 
 ## C++
 

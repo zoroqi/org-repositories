@@ -64,7 +64,7 @@
 
 - [twitter/go-bindata](https://github.com/twitter/go-bindata) pushed_at:2019-10 
 - [twitter/groupcache](https://github.com/twitter/groupcache) pushed_at:2020-12 groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-- [twitter/scoot](https://github.com/twitter/scoot) pushed_at:2021-01 Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
+- [twitter/scoot](https://github.com/twitter/scoot) pushed_at:2021-02 Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
 
 ## HTML
 

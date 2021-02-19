@@ -17,9 +17,9 @@
 - [Go](#go) (10)
 - [Groovy](#groovy) (3)
 - [HTML](#html) (31)
-- [Java](#java) (365)
+- [Java](#java) (367)
 - [JavaScript](#javascript) (18)
-- [Others](#others) (82)
+- [Others](#others) (80)
 - [PHP](#php) (16)
 - [PostScript](#postscript) (1)
 - [Python](#python) (6)
@@ -46,7 +46,7 @@
 - [eclipse/mosquitto](https://github.com/eclipse/mosquitto) pushed_at:2021-02 Eclipse Mosquitto - An open source MQTT broker
 - [eclipse/mosquitto.rsmb](https://github.com/eclipse/mosquitto.rsmb) pushed_at:2020-12 Mosquitto rsmb
 - [eclipse/mraa](https://github.com/eclipse/mraa) pushed_at:2021-02 Linux Library for low speed IO Communication in C with bindings for C++, Python, Node.js & Java. Supports generic io platforms, as well as Intel Edison, Intel Joule, Raspberry Pi and many more.
-- [eclipse/paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) pushed_at:2021-01 An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
+- [eclipse/paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) pushed_at:2021-02 An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
 - [eclipse/paho.mqtt.embedded-c](https://github.com/eclipse/paho.mqtt.embedded-c) pushed_at:2020-12 Paho MQTT C client library for embedded systems.  Paho is an Eclipse IoT project (https://iot.eclipse.org/)
 - [eclipse/tcf.agent](https://github.com/eclipse/tcf.agent) pushed_at:2018-11 Target Communication Framework project repository (tcf.agent)
 - [eclipse/tinydtls](https://github.com/eclipse/tinydtls) pushed_at:2021-01 Eclipse tinydtls
@@ -68,7 +68,7 @@
 - [eclipse/che-che4z-lsp-for-hlasm](https://github.com/eclipse/che-che4z-lsp-for-hlasm) pushed_at:2021-02 che-che4z-lsp-for-hlasm
 - [eclipse/cloe](https://github.com/eclipse/cloe) pushed_at:2021-02 Cloe
 - [eclipse/iottestware.mqtt](https://github.com/eclipse/iottestware.mqtt) pushed_at:2021-01 iottestware.mqtt
-- [eclipse/keyple-cpp](https://github.com/eclipse/keyple-cpp) pushed_at:2021-01 Keyple C++ source
+- [eclipse/keyple-cpp](https://github.com/eclipse/keyple-cpp) pushed_at:2021-01 Eclipse Keyple™ Project: all components of the C++ implementation until version 0.9.0
 - [eclipse/kuksa.apps](https://github.com/eclipse/kuksa.apps) pushed_at:2021-02 Kuksa Apps repo
 - [eclipse/kuksa.invehicle](https://github.com/eclipse/kuksa.invehicle) pushed_at:2020-02 Kuksa Invehicle repo
 - [eclipse/kuksa.val](https://github.com/eclipse/kuksa.val) pushed_at:2021-02 kuksa.val
@@ -163,8 +163,8 @@
 
 ## Groovy
 
-- [eclipse/capella-pipeline-library](https://github.com/eclipse/capella-pipeline-library) pushed_at:2021-01 capella-pipeline-library
-- [eclipse/keyple-ops](https://github.com/eclipse/keyple-ops) pushed_at:2020-12 
+- [eclipse/capella-pipeline-library](https://github.com/eclipse/capella-pipeline-library) pushed_at:2021-02 capella-pipeline-library
+- [eclipse/keyple-ops](https://github.com/eclipse/keyple-ops) pushed_at:2020-12 Eclipse Keyple™ Project: Ops settings
 - [eclipse/microprofile-parent](https://github.com/eclipse/microprofile-parent) pushed_at:2021-02 
 
 ## HTML
@@ -172,7 +172,7 @@
 - [eclipse/blueprint](https://github.com/eclipse/blueprint) pushed_at:2018-07 Eclipse Gemini Blueprint project website
 - [eclipse/capella-xmlpivot](https://github.com/eclipse/capella-xmlpivot) pushed_at:2020-07 
 - [eclipse/ceylon-lang.org](https://github.com/eclipse/ceylon-lang.org) pushed_at:2020-10 Awestruct built static website for ceylon-lang.org
-- [eclipse/che-website](https://github.com/eclipse/che-website) pushed_at:2020-12 Che Website
+- [eclipse/che-website](https://github.com/eclipse/che-website) pushed_at:2021-02 Che Website
 - [eclipse/deeplearning4j-docs](https://github.com/eclipse/deeplearning4j-docs) pushed_at:2020-11 Documentation for Deeplearning4j - Deep Learning for the JVM, Java & Scala
 - [eclipse/ebr](https://github.com/eclipse/ebr) pushed_at:2021-01 Eclipse bundle recipes
 - [eclipse/eclipse](https://github.com/eclipse/eclipse) pushed_at:2020-10 eclipse.platform project website
@@ -182,7 +182,7 @@
 - [eclipse/efbt](https://github.com/eclipse/efbt) pushed_at:2021-02 efbt
 - [eclipse/epp.packages](https://github.com/eclipse/epp.packages) pushed_at:2018-11 Eclipse Packaging Project project repository (epp.packages)
 - [eclipse/gemini.dbaccess](https://github.com/eclipse/gemini.dbaccess) pushed_at:2018-07 Gemini DBAccess project repository (gemini.dbaccess)
-- [eclipse/keyple-website](https://github.com/eclipse/keyple-website) pushed_at:2021-02 
+- [eclipse/keyple-website](https://github.com/eclipse/keyple-website) pushed_at:2021-02 Eclipse Keyple™ Project: https://keyple.org/ website
 - [eclipse/lyo.testsuite](https://github.com/eclipse/lyo.testsuite) pushed_at:2020-12 Lyo project repository (lyo.testsuite)
 - [eclipse/mosaic.website](https://github.com/eclipse/mosaic.website) pushed_at:2021-02 
 - [eclipse/n4js-tutorials](https://github.com/eclipse/n4js-tutorials) pushed_at:2020-07 n4js-tutorials
@@ -376,7 +376,9 @@
 - [eclipse/jubula.core](https://github.com/eclipse/jubula.core) pushed_at:2020-12 Jubula project repository (jubula.core)
 - [eclipse/kapua](https://github.com/eclipse/kapua) pushed_at:2021-02 
 - [eclipse/keti](https://github.com/eclipse/keti) pushed_at:2021-01 
-- [eclipse/keyple-java](https://github.com/eclipse/keyple-java) pushed_at:2021-01 Keyple Java source
+- [eclipse/keyple-java](https://github.com/eclipse/keyple-java) pushed_at:2021-01 Eclipse Keyple™ Project: all components of the Java implementation until version 1.0.0
+- [eclipse/keyple-java-commons-api](https://github.com/eclipse/keyple-java-commons-api) pushed_at:2021-02 Eclipse Keyple™ Project: common API for all modules
+- [eclipse/keyple-java-utils](https://github.com/eclipse/keyple-java-utils) pushed_at:2021-02 Eclipse Keyple™ Project: utility library for all users
 - [eclipse/kitalpha](https://github.com/eclipse/kitalpha) pushed_at:2021-02 
 - [eclipse/kitalpha-addons](https://github.com/eclipse/kitalpha-addons) pushed_at:2020-12 
 - [eclipse/kuksa.ide](https://github.com/eclipse/kuksa.ide) pushed_at:2020-01 Kuksa IDE repo
@@ -464,7 +466,7 @@
 - [eclipse/packagedrone](https://github.com/eclipse/packagedrone) pushed_at:2021-01 Eclipse Package Drone
 - [eclipse/packager](https://github.com/eclipse/packager) pushed_at:2020-03 Eclipse Packager project
 - [eclipse/paho.mqtt-spy](https://github.com/eclipse/paho.mqtt-spy) pushed_at:2020-10 mqtt-spy is an open source desktop & command line utility intended to help you with monitoring activity on MQTT topics
-- [eclipse/paho.mqtt.android](https://github.com/eclipse/paho.mqtt.android) pushed_at:2020-11 MQTT Android
+- [eclipse/paho.mqtt.android](https://github.com/eclipse/paho.mqtt.android) pushed_at:2021-02 MQTT Android
 - [eclipse/paho.mqtt.java](https://github.com/eclipse/paho.mqtt.java) pushed_at:2021-02 Eclipse Paho Java MQTT client library.  Paho is an Eclipse IoT project.
 - [eclipse/pdt](https://github.com/eclipse/pdt) pushed_at:2020-07 PHP Development Tools project (PDT)
 - [eclipse/photran](https://github.com/eclipse/photran) pushed_at:2018-11 Fortran Development Tools project repository (photran)
@@ -556,7 +558,7 @@
 - [eclipse/webtools.sourceediting.xsl](https://github.com/eclipse/webtools.sourceediting.xsl) pushed_at:2018-11 Eclipse Web Tools Platform Project project repository (webtools.sourceediting.xsl)
 - [eclipse/webtools.webservices](https://github.com/eclipse/webtools.webservices) pushed_at:2018-11 Web Services Tools project repository (webtools.webservices)
 - [eclipse/wildwebdeveloper](https://github.com/eclipse/wildwebdeveloper) pushed_at:2021-02 Simple and productive Web Development Tools in the Eclipse IDE
-- [eclipse/windowbuilder](https://github.com/eclipse/windowbuilder) pushed_at:2020-12 Windowbuilder
+- [eclipse/windowbuilder](https://github.com/eclipse/windowbuilder) pushed_at:2021-02 Windowbuilder
 - [eclipse/winery](https://github.com/eclipse/winery) pushed_at:2021-02 Eclipse Winery project
 - [eclipse/Xpect](https://github.com/eclipse/Xpect) pushed_at:2021-01 This repository has been rewritten to move to the Eclipse Foundation. Find the old history here: https://github.com/TypeFox/Xpect
 - [eclipse/xsemantics](https://github.com/eclipse/xsemantics) pushed_at:2020-10 Xsemantics is a DSL (implemented in Xtext itself) for writing type systems, reduction rules, interpreters (and in general relation rules) for languages implemented in Xtext. It then generates Java code that can be used in your language implemented in Xtext for scoping and validation (it can also generate a validator in Java).
@@ -620,22 +622,20 @@
 - [eclipse/jetty.parent](https://github.com/eclipse/jetty.parent) pushed_at:2016-06 Eclipse Jetty® - Servlet Engine and Http Server project repository (jetty.parent)
 - [eclipse/jnosql-parent](https://github.com/eclipse/jnosql-parent) pushed_at:2019-02 
 - [eclipse/keyple](https://github.com/eclipse/keyple) pushed_at:2020-12 keyple project
-- [eclipse/keyple-android-plugin-nfc](https://github.com/eclipse/keyple-android-plugin-nfc) pushed_at:2019-10 keyple-android-plugin-nfc
-- [eclipse/keyple-android-plugin-omapi](https://github.com/eclipse/keyple-android-plugin-omapi) pushed_at:2021-02 keyple-android-plugin-omapi
-- [eclipse/keyple-java-card-api](https://github.com/eclipse/keyple-java-card-api) pushed_at:2021-02 keyple-cpp-calypso
-- [eclipse/keyple-java-card-calypso](https://github.com/eclipse/keyple-java-card-calypso) pushed_at:2021-02 keyple-java-calypso
-- [eclipse/keyple-java-commons-api](https://github.com/eclipse/keyple-java-commons-api) pushed_at:2021-02 keyple-cpp-core
-- [eclipse/keyple-java-distributed-local](https://github.com/eclipse/keyple-java-distributed-local) pushed_at:2021-02 keyple-android-demo-control
-- [eclipse/keyple-java-distributed-local-api](https://github.com/eclipse/keyple-java-distributed-local-api) pushed_at:2021-02 keyple-cpp-plugin-stub
-- [eclipse/keyple-java-distributed-network](https://github.com/eclipse/keyple-java-distributed-network) pushed_at:2021-02 keyple-java-demo-remote
-- [eclipse/keyple-java-distributed-remote](https://github.com/eclipse/keyple-java-distributed-remote) pushed_at:2021-02 keyple-java-plugin-remotese
-- [eclipse/keyple-java-distributed-remote-api](https://github.com/eclipse/keyple-java-distributed-remote-api) pushed_at:2021-02 keyple-cpp-plugin-pcsc
-- [eclipse/keyple-java-example](https://github.com/eclipse/keyple-java-example) pushed_at:2021-02 keyple-java-example
-- [eclipse/keyple-java-plugin-api](https://github.com/eclipse/keyple-java-plugin-api) pushed_at:2021-02 keyple-cpp-example
-- [eclipse/keyple-java-plugin-pcsc](https://github.com/eclipse/keyple-java-plugin-pcsc) pushed_at:2021-02 keyple-java-plugin-pcsc
-- [eclipse/keyple-java-plugin-stub](https://github.com/eclipse/keyple-java-plugin-stub) pushed_at:2021-02 keyple-java-plugin-stub
-- [eclipse/keyple-java-service](https://github.com/eclipse/keyple-java-service) pushed_at:2021-02 keyple-java-core
-- [eclipse/keyple-java-utils](https://github.com/eclipse/keyple-java-utils) pushed_at:2021-02 keyple-android-demo-validation
+- [eclipse/keyple-java-card-api](https://github.com/eclipse/keyple-java-card-api) pushed_at:2021-02 Eclipse Keyple™ Project: API for card extension developers
+- [eclipse/keyple-java-card-calypso](https://github.com/eclipse/keyple-java-card-calypso) pushed_at:2021-02 Eclipse Keyple™ Project: Calypso card extension API for end users
+- [eclipse/keyple-java-distributed-local](https://github.com/eclipse/keyple-java-distributed-local) pushed_at:2021-02 Eclipse Keyple™ Project: distributed local service API for end users
+- [eclipse/keyple-java-distributed-local-api](https://github.com/eclipse/keyple-java-distributed-local-api) pushed_at:2021-02 Eclipse Keyple™ Project: API for distributed local service developers
+- [eclipse/keyple-java-distributed-network](https://github.com/eclipse/keyple-java-distributed-network) pushed_at:2021-02 Eclipse Keyple™ Project: distributed network API for end users
+- [eclipse/keyple-java-distributed-remote](https://github.com/eclipse/keyple-java-distributed-remote) pushed_at:2021-02 Eclipse Keyple™ Project: distributed remote plugin API for end users
+- [eclipse/keyple-java-distributed-remote-api](https://github.com/eclipse/keyple-java-distributed-remote-api) pushed_at:2021-02 Eclipse Keyple™ Project: API for distributed remote plugin developers
+- [eclipse/keyple-java-example](https://github.com/eclipse/keyple-java-example) pushed_at:2021-02 Eclipse Keyple™ Project: integration examples
+- [eclipse/keyple-java-plugin-android-nfc](https://github.com/eclipse/keyple-java-plugin-android-nfc) pushed_at:2021-02 keyple-android-plugin-nfc
+- [eclipse/keyple-java-plugin-android-omapi](https://github.com/eclipse/keyple-java-plugin-android-omapi) pushed_at:2021-02 Eclipse Keyple™ Project: Android OMAPI plugin API for end users
+- [eclipse/keyple-java-plugin-api](https://github.com/eclipse/keyple-java-plugin-api) pushed_at:2021-02 Eclipse Keyple™ Project: API for plugin developers
+- [eclipse/keyple-java-plugin-pcsc](https://github.com/eclipse/keyple-java-plugin-pcsc) pushed_at:2021-02 Eclipse Keyple™ Project: PC/SC plugin API for end users
+- [eclipse/keyple-java-plugin-stub](https://github.com/eclipse/keyple-java-plugin-stub) pushed_at:2021-02 Eclipse Keyple™ Project: stub plugin API for end users
+- [eclipse/keyple-java-service](https://github.com/eclipse/keyple-java-service) pushed_at:2021-02 Eclipse Keyple™ Project: main service API for end users
 - [eclipse/kura-apps](https://github.com/eclipse/kura-apps) pushed_at:2016-04 
 - [eclipse/microprofile-bom](https://github.com/eclipse/microprofile-bom) pushed_at:2018-10 
 - [eclipse/microprofile-evolution-process](https://github.com/eclipse/microprofile-evolution-process) pushed_at:2018-10 For the evolution of new ideas
@@ -728,7 +728,7 @@
 
 ## Shell
 
-- [eclipse/capella-releng-parent](https://github.com/eclipse/capella-releng-parent) pushed_at:2020-10 capella-releng-parent
+- [eclipse/capella-releng-parent](https://github.com/eclipse/capella-releng-parent) pushed_at:2021-02 capella-releng-parent
 - [eclipse/che-devfile-registry](https://github.com/eclipse/che-devfile-registry) pushed_at:2021-02 
 - [eclipse/che-editor-gwt-ide](https://github.com/eclipse/che-editor-gwt-ide) pushed_at:2019-01 
 - [eclipse/che-parent](https://github.com/eclipse/che-parent) pushed_at:2021-01 Che project repository

@@ -149,7 +149,7 @@
 
 ## Python
 
-- [pingcap/dev-guide](https://github.com/pingcap/dev-guide) pushed_at:2021-01 
+- [pingcap/dev-guide](https://github.com/pingcap/dev-guide) pushed_at:2021-02 
 - [pingcap/docs-cn](https://github.com/pingcap/docs-cn) pushed_at:2021-02 TiDB/TiKV/PD documentation in Chinese.
 - [pingcap/docs-dm](https://github.com/pingcap/docs-dm) pushed_at:2021-02 Documentation for the TiDB Data Migration (DM) tool in both English and Chinese.
 - [pingcap/docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator) pushed_at:2021-02 Documentation for TiDB in Kubernetes in both English and Chinese.

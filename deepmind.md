@@ -100,7 +100,7 @@
 - [deepmind/dm_alchemy](https://github.com/deepmind/dm_alchemy) pushed_at:2021-02 DeepMind Alchemy task environment: a meta-reinforcement learning benchmark
 - [deepmind/dm_construction](https://github.com/deepmind/dm_construction) pushed_at:2021-01 
 - [deepmind/dm_control](https://github.com/deepmind/dm_control) pushed_at:2021-02 DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
-- [deepmind/dm_env](https://github.com/deepmind/dm_env) pushed_at:2020-10 A Python interface for reinforcement learning environments
+- [deepmind/dm_env](https://github.com/deepmind/dm_env) pushed_at:2021-02 A Python interface for reinforcement learning environments
 - [deepmind/dm_env_rpc](https://github.com/deepmind/dm_env_rpc) pushed_at:2020-12 A networking protocol for agent-environment communication
 - [deepmind/dm_fast_mapping](https://github.com/deepmind/dm_fast_mapping) pushed_at:2021-01 
 - [deepmind/dm_hard_eight](https://github.com/deepmind/dm_hard_eight) pushed_at:2020-11 
@@ -110,7 +110,7 @@
 - [deepmind/dynamic-kanerva-machines](https://github.com/deepmind/dynamic-kanerva-machines) pushed_at:2019-01 This is a self-contained memory module for the Dynamic Kanerva Machine, as reported in the NIPS 2018 paper: Learning Attractor Dynamics for Generative Memory.
 - [deepmind/fancyflags](https://github.com/deepmind/fancyflags) pushed_at:2021-02 A Python library for defining flat or nested dictionary flags.
 - [deepmind/ferminet](https://github.com/deepmind/ferminet) pushed_at:2021-02 An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
-- [deepmind/gqn-datasets](https://github.com/deepmind/gqn-datasets) pushed_at:2019-10 Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper.
+- [deepmind/gqn-datasets](https://github.com/deepmind/gqn-datasets) pushed_at:2021-02 Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper.
 - [deepmind/graph_nets](https://github.com/deepmind/graph_nets) pushed_at:2020-12 Build Graph Nets in Tensorflow
 - [deepmind/grid-cells](https://github.com/deepmind/grid-cells) pushed_at:2020-10 Implementation of the supervised learning experiments in Vector-based navigation using grid-like representations in artificial agents, as published at https://www.nature.com/articles/s41586-018-0102-6
 - [deepmind/hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment) pushed_at:2021-01 hanabi_learning_environment is a research platform for Hanabi experiments.
@@ -138,7 +138,7 @@
 - [deepmind/surface-distance](https://github.com/deepmind/surface-distance) pushed_at:2021-01 Library to compute surface distance based performance metrics for segmentation tasks.
 - [deepmind/Temporal-3D-Pose-Kinetics](https://github.com/deepmind/Temporal-3D-Pose-Kinetics) pushed_at:2019-07 Exploiting temporal context for 3D human pose estimation in the wild: 3D poses for the Kinetics dataset
 - [deepmind/tensor_annotations](https://github.com/deepmind/tensor_annotations) pushed_at:2021-01 Annotating tensor shapes using Python types
-- [deepmind/tree](https://github.com/deepmind/tree) pushed_at:2021-01 tree is a library for working with nested data structures
+- [deepmind/tree](https://github.com/deepmind/tree) pushed_at:2021-02 tree is a library for working with nested data structures
 - [deepmind/trfl](https://github.com/deepmind/trfl) pushed_at:2020-11 TensorFlow Reinforcement Learning
 - [deepmind/wasserstein_fairness](https://github.com/deepmind/wasserstein_fairness) pushed_at:2020-01 An implementation of Wasserstein Fair Classification, a conference paper submitted to UAI 2019.
 
