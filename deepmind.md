@@ -19,132 +19,132 @@
 
 ## C
 
-- [deepmind/lab](https://github.com/deepmind/lab) pushed_at:2021-01 A customisable 3D platform for agent-based AI research
-- [deepmind/torch-cephes](https://github.com/deepmind/torch-cephes) pushed_at:2016-03 Cephes Mathematical Functions library wrapped for Torch
-- [deepmind/torch-oocairo](https://github.com/deepmind/torch-oocairo) pushed_at:2016-06 Cairo lua bindings with extensions for torch 
+- [deepmind/lab](https://github.com/deepmind/lab) pushed_at:2021-01 star:6.4k fork:1.3k A customisable 3D platform for agent-based AI research
+- [deepmind/torch-cephes](https://github.com/deepmind/torch-cephes) pushed_at:2016-03 star:0.0k fork:0.0k Cephes Mathematical Functions library wrapped for Torch
+- [deepmind/torch-oocairo](https://github.com/deepmind/torch-oocairo) pushed_at:2016-06 star:0.0k fork:0.0k Cairo lua bindings with extensions for torch 
 
 ## C++
 
-- [deepmind/lab2d](https://github.com/deepmind/lab2d) pushed_at:2021-01 A customisable 2D platform for agent-based AI research
-- [deepmind/labmaze](https://github.com/deepmind/labmaze) pushed_at:2020-08 A standalone release of DeepMind Lab's maze generator with Python bindings.
-- [deepmind/multidim-image-augmentation](https://github.com/deepmind/multidim-image-augmentation) pushed_at:2021-02 This package provides TensorFlow Ops for multidimensional volumetric image augmentation.
-- [deepmind/open_spiel](https://github.com/deepmind/open_spiel) pushed_at:2021-02 OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
-- [deepmind/reverb](https://github.com/deepmind/reverb) pushed_at:2021-02 Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research
-- [deepmind/spiral](https://github.com/deepmind/spiral) pushed_at:2019-10 We provide a pre-trained model for unconditional 19-step generation of CelebA-HQ images
-- [deepmind/streetlearn](https://github.com/deepmind/streetlearn) pushed_at:2020-07 A C++/Python implementation of the StreetLearn environment based on images from Street View, as well as a TensorFlow implementation of goal-driven navigation agents solving the task published in “Learning to Navigate in Cities Without a Map”, NeurIPS 2018
-- [deepmind/xitari](https://github.com/deepmind/xitari) pushed_at:2017-10 This is the 0.4 release of the Arcade Learning Environment (ALE), a platform designed for AI research. ALE is based on Stella, an Atari 2600 VCS emulator.
+- [deepmind/lab2d](https://github.com/deepmind/lab2d) pushed_at:2021-01 star:0.3k fork:0.0k A customisable 2D platform for agent-based AI research
+- [deepmind/labmaze](https://github.com/deepmind/labmaze) pushed_at:2020-08 star:0.0k fork:0.0k A standalone release of DeepMind Lab's maze generator with Python bindings.
+- [deepmind/multidim-image-augmentation](https://github.com/deepmind/multidim-image-augmentation) pushed_at:2021-02 star:0.1k fork:0.0k This package provides TensorFlow Ops for multidimensional volumetric image augmentation.
+- [deepmind/open_spiel](https://github.com/deepmind/open_spiel) pushed_at:2021-02 star:2.6k fork:0.5k OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+- [deepmind/reverb](https://github.com/deepmind/reverb) pushed_at:2021-02 star:0.4k fork:0.0k Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research
+- [deepmind/spiral](https://github.com/deepmind/spiral) pushed_at:2019-10 star:0.3k fork:0.0k We provide a pre-trained model for unconditional 19-step generation of CelebA-HQ images
+- [deepmind/streetlearn](https://github.com/deepmind/streetlearn) pushed_at:2020-07 star:0.2k fork:0.0k A C++/Python implementation of the StreetLearn environment based on images from Street View, as well as a TensorFlow implementation of goal-driven navigation agents solving the task published in “Learning to Navigate in Cities Without a Map”, NeurIPS 2018
+- [deepmind/xitari](https://github.com/deepmind/xitari) pushed_at:2017-10 star:0.2k fork:0.1k This is the 0.4 release of the Arcade Learning Environment (ALE), a platform designed for AI research. ALE is based on Stella, an Atari 2600 VCS emulator.
 
 ## Go
 
-- [deepmind/loopix-messaging](https://github.com/deepmind/loopix-messaging) pushed_at:2019-11 Anonymous messaging using mix networks
-- [deepmind/objecthash-proto](https://github.com/deepmind/objecthash-proto) pushed_at:2020-07 ObjectHash for protocol buffers
+- [deepmind/loopix-messaging](https://github.com/deepmind/loopix-messaging) pushed_at:2019-11 star:0.0k fork:0.0k Anonymous messaging using mix networks
+- [deepmind/objecthash-proto](https://github.com/deepmind/objecthash-proto) pushed_at:2020-07 star:0.1k fork:0.0k ObjectHash for protocol buffers
 
 ## HTML
 
-- [deepmind/deepmind.github.io](https://github.com/deepmind/deepmind.github.io) pushed_at:2020-11 DeepMind redirect to avoid potential subdomain takeover vulnerability
+- [deepmind/deepmind.github.io](https://github.com/deepmind/deepmind.github.io) pushed_at:2020-11 star:0.0k fork:0.0k DeepMind redirect to avoid potential subdomain takeover vulnerability
 
 ## Haskell
 
-- [deepmind/logical-entailment-dataset](https://github.com/deepmind/logical-entailment-dataset) pushed_at:2018-04 This repository contains an entailment dataset for propositional logic, and code for generating that dataset. It also contains code for parsing the dataset in python.
+- [deepmind/logical-entailment-dataset](https://github.com/deepmind/logical-entailment-dataset) pushed_at:2018-04 star:0.1k fork:0.0k This repository contains an entailment dataset for propositional logic, and code for generating that dataset. It also contains code for parsing the dataset in python.
 
 ## Jupyter Notebook
 
-- [deepmind/3d-shapes](https://github.com/deepmind/3d-shapes) pushed_at:2019-03 This repository contains the 3D shapes dataset, used in Kim, Hyunjik and Mnih, Andriy. "Disentangling by Factorising." In Proceedings of the 35th International Conference on Machine Learning (ICML). 2018. to assess the disentanglement properties of unsupervised learning methods.
-- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) pushed_at:2021-02 This repository contains implementations and illustrative code to accompany DeepMind publications
-- [deepmind/dsprites-dataset](https://github.com/deepmind/dsprites-dataset) pushed_at:2021-01 Dataset to assess the disentanglement properties of unsupervised learning methods
-- [deepmind/educational](https://github.com/deepmind/educational) pushed_at:2020-11 
-- [deepmind/mc_gradients](https://github.com/deepmind/mc_gradients) pushed_at:2020-11 
-- [deepmind/neural-processes](https://github.com/deepmind/neural-processes) pushed_at:2021-01 This repository contains notebook implementations of the following Neural Process variants: Conditional Neural Processes (CNPs), Neural Processes (NPs), Attentive Neural Processes (ANPs).
-- [deepmind/symplectic-gradient-adjustment](https://github.com/deepmind/symplectic-gradient-adjustment) pushed_at:2018-12 A colab that implements the Symplectic Gradient Adjustment optimizer from "The mechanics of n-player differentiable games"
+- [deepmind/3d-shapes](https://github.com/deepmind/3d-shapes) pushed_at:2019-03 star:0.1k fork:0.0k This repository contains the 3D shapes dataset, used in Kim, Hyunjik and Mnih, Andriy. "Disentangling by Factorising." In Proceedings of the 35th International Conference on Machine Learning (ICML). 2018. to assess the disentanglement properties of unsupervised learning methods.
+- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) pushed_at:2021-02 star:6.1k fork:1.1k This repository contains implementations and illustrative code to accompany DeepMind publications
+- [deepmind/dsprites-dataset](https://github.com/deepmind/dsprites-dataset) pushed_at:2021-01 star:0.3k fork:0.1k Dataset to assess the disentanglement properties of unsupervised learning methods
+- [deepmind/educational](https://github.com/deepmind/educational) pushed_at:2020-11 star:0.0k fork:0.0k 
+- [deepmind/mc_gradients](https://github.com/deepmind/mc_gradients) pushed_at:2020-11 star:0.1k fork:0.0k 
+- [deepmind/neural-processes](https://github.com/deepmind/neural-processes) pushed_at:2021-01 star:0.7k fork:0.1k This repository contains notebook implementations of the following Neural Process variants: Conditional Neural Processes (CNPs), Neural Processes (NPs), Attentive Neural Processes (ANPs).
+- [deepmind/symplectic-gradient-adjustment](https://github.com/deepmind/symplectic-gradient-adjustment) pushed_at:2018-12 star:0.1k fork:0.0k A colab that implements the Symplectic Gradient Adjustment optimizer from "The mechanics of n-player differentiable games"
 
 ## Lua
 
-- [deepmind/alewrap](https://github.com/deepmind/alewrap) pushed_at:2016-06 A lua wrapper for the Arcade Learning Environment/xitari.
-- [deepmind/classic](https://github.com/deepmind/classic) pushed_at:2016-09 A class system for Lua.
-- [deepmind/dqn](https://github.com/deepmind/dqn) pushed_at:2017-04 Lua/Torch implementation of DQN (Nature, 2015)
-- [deepmind/lua-pprint](https://github.com/deepmind/lua-pprint) pushed_at:2016-01 A pretty print library for torch and lua.
-- [deepmind/mnist-cluttered](https://github.com/deepmind/mnist-cluttered) pushed_at:2015-03 Cluttered MNIST Dataset
-- [deepmind/plplot-ffi](https://github.com/deepmind/plplot-ffi) pushed_at:2015-08 LuaJIT wrapper for PLplot
-- [deepmind/strict](https://github.com/deepmind/strict) pushed_at:2015-04 A Lua package to detect reading of undeclared variables and creating of global variables.
-- [deepmind/torch-distributions](https://github.com/deepmind/torch-distributions) pushed_at:2019-01 Probability distributions, wrapped for Torch.
-- [deepmind/torch-dokx](https://github.com/deepmind/torch-dokx) pushed_at:2017-01 Scripts to help with Torch package documentation
-- [deepmind/torch-hdf5](https://github.com/deepmind/torch-hdf5) pushed_at:2019-03 Torch interface to HDF5 library
-- [deepmind/torch-randomkit](https://github.com/deepmind/torch-randomkit) pushed_at:2019-04 Provides and wraps the Randomkit library, copied from Numpy.
-- [deepmind/torch-totem](https://github.com/deepmind/torch-totem) pushed_at:2016-03 Torch test module
+- [deepmind/alewrap](https://github.com/deepmind/alewrap) pushed_at:2016-06 star:0.0k fork:0.0k A lua wrapper for the Arcade Learning Environment/xitari.
+- [deepmind/classic](https://github.com/deepmind/classic) pushed_at:2016-09 star:0.1k fork:0.0k A class system for Lua.
+- [deepmind/dqn](https://github.com/deepmind/dqn) pushed_at:2017-04 star:0.4k fork:0.1k Lua/Torch implementation of DQN (Nature, 2015)
+- [deepmind/lua-pprint](https://github.com/deepmind/lua-pprint) pushed_at:2016-01 star:0.0k fork:0.0k A pretty print library for torch and lua.
+- [deepmind/mnist-cluttered](https://github.com/deepmind/mnist-cluttered) pushed_at:2015-03 star:0.0k fork:0.0k Cluttered MNIST Dataset
+- [deepmind/plplot-ffi](https://github.com/deepmind/plplot-ffi) pushed_at:2015-08 star:0.0k fork:0.0k LuaJIT wrapper for PLplot
+- [deepmind/strict](https://github.com/deepmind/strict) pushed_at:2015-04 star:0.0k fork:0.0k A Lua package to detect reading of undeclared variables and creating of global variables.
+- [deepmind/torch-distributions](https://github.com/deepmind/torch-distributions) pushed_at:2019-01 star:0.1k fork:0.0k Probability distributions, wrapped for Torch.
+- [deepmind/torch-dokx](https://github.com/deepmind/torch-dokx) pushed_at:2017-01 star:0.0k fork:0.0k Scripts to help with Torch package documentation
+- [deepmind/torch-hdf5](https://github.com/deepmind/torch-hdf5) pushed_at:2019-03 star:0.2k fork:0.1k Torch interface to HDF5 library
+- [deepmind/torch-randomkit](https://github.com/deepmind/torch-randomkit) pushed_at:2019-04 star:0.0k fork:0.0k Provides and wraps the Randomkit library, copied from Numpy.
+- [deepmind/torch-totem](https://github.com/deepmind/torch-totem) pushed_at:2016-03 star:0.0k fork:0.0k Torch test module
 
 ## Others
 
-- [deepmind/abstract-reasoning-matrices](https://github.com/deepmind/abstract-reasoning-matrices) pushed_at:2019-02 Progressive matrices dataset, as described in: Measuring abstract reasoning in neural networks (Barrett*, Hill*, Santoro*, Morcos, Lillicrap), ICML2018
-- [deepmind/AQuA](https://github.com/deepmind/AQuA) pushed_at:2017-11 A algebraic word problem dataset, with multiple choice questions annotated with rationales.
-- [deepmind/boxoban-levels](https://github.com/deepmind/boxoban-levels) pushed_at:2019-01 This repository contains levels for boxoban, a box-pushing puzzle game inspired by Sokoban.
-- [deepmind/card2code](https://github.com/deepmind/card2code) pushed_at:2017-12 A code generation dataset for generating the code that implements Hearthstone and Magic The Gathering card effects.
-- [deepmind/deep-compressed-sensing](https://github.com/deepmind/deep-compressed-sensing) pushed_at:2019-11 
-- [deepmind/jax](https://github.com/deepmind/jax) pushed_at:2020-12 
-- [deepmind/luastyle](https://github.com/deepmind/luastyle) pushed_at:2015-12 Style guide for Lua code.
-- [deepmind/multiself](https://github.com/deepmind/multiself) pushed_at:2017-11 A vision network trained via large-scale multi-task self-supervised learning
-- [deepmind/pg19](https://github.com/deepmind/pg19) pushed_at:2020-02 
-- [deepmind/spaceship_dataset](https://github.com/deepmind/spaceship_dataset) pushed_at:2017-03 Dataset for the spaceship task from "Metacontrol for Adaptive Imagination-Based Optimization"
-- [deepmind/tcia-ct-scan-dataset](https://github.com/deepmind/tcia-ct-scan-dataset) pushed_at:2020-06 Dataset of head and neck CT scans and segmentations in NRRD format.
-- [deepmind/tvt](https://github.com/deepmind/tvt) pushed_at:2019-11 
-- [deepmind/unsup-queries-data](https://github.com/deepmind/unsup-queries-data) pushed_at:2016-11 Unsupervised Data Generated for GeoQuery and SAIL Datasets
-- [deepmind/xquad](https://github.com/deepmind/xquad) pushed_at:2021-01 
+- [deepmind/abstract-reasoning-matrices](https://github.com/deepmind/abstract-reasoning-matrices) pushed_at:2019-02 star:0.1k fork:0.0k Progressive matrices dataset, as described in: Measuring abstract reasoning in neural networks (Barrett*, Hill*, Santoro*, Morcos, Lillicrap), ICML2018
+- [deepmind/AQuA](https://github.com/deepmind/AQuA) pushed_at:2017-11 star:0.2k fork:0.0k A algebraic word problem dataset, with multiple choice questions annotated with rationales.
+- [deepmind/boxoban-levels](https://github.com/deepmind/boxoban-levels) pushed_at:2019-01 star:0.0k fork:0.0k This repository contains levels for boxoban, a box-pushing puzzle game inspired by Sokoban.
+- [deepmind/card2code](https://github.com/deepmind/card2code) pushed_at:2017-12 star:0.2k fork:0.0k A code generation dataset for generating the code that implements Hearthstone and Magic The Gathering card effects.
+- [deepmind/deep-compressed-sensing](https://github.com/deepmind/deep-compressed-sensing) pushed_at:2019-11 star:0.0k fork:0.0k 
+- [deepmind/jax](https://github.com/deepmind/jax) pushed_at:2020-12 star:0.0k fork:0.0k 
+- [deepmind/luastyle](https://github.com/deepmind/luastyle) pushed_at:2015-12 star:0.0k fork:0.0k Style guide for Lua code.
+- [deepmind/multiself](https://github.com/deepmind/multiself) pushed_at:2017-11 star:0.1k fork:0.0k A vision network trained via large-scale multi-task self-supervised learning
+- [deepmind/pg19](https://github.com/deepmind/pg19) pushed_at:2020-02 star:0.1k fork:0.0k 
+- [deepmind/spaceship_dataset](https://github.com/deepmind/spaceship_dataset) pushed_at:2017-03 star:0.1k fork:0.0k Dataset for the spaceship task from "Metacontrol for Adaptive Imagination-Based Optimization"
+- [deepmind/tcia-ct-scan-dataset](https://github.com/deepmind/tcia-ct-scan-dataset) pushed_at:2020-06 star:0.1k fork:0.0k Dataset of head and neck CT scans and segmentations in NRRD format.
+- [deepmind/tvt](https://github.com/deepmind/tvt) pushed_at:2019-11 star:0.0k fork:0.0k 
+- [deepmind/unsup-queries-data](https://github.com/deepmind/unsup-queries-data) pushed_at:2016-11 star:0.0k fork:0.0k Unsupervised Data Generated for GeoQuery and SAIL Datasets
+- [deepmind/xquad](https://github.com/deepmind/xquad) pushed_at:2021-01 star:0.1k fork:0.0k 
 
 ## Python
 
-- [deepmind/acme](https://github.com/deepmind/acme) pushed_at:2021-02 A library of reinforcement learning components and agents
-- [deepmind/ai-safety-gridworlds](https://github.com/deepmind/ai-safety-gridworlds) pushed_at:2020-10 This is a suite of reinforcement learning environments illustrating various safety properties of intelligent agents.
-- [deepmind/bsuite](https://github.com/deepmind/bsuite) pushed_at:2021-02 bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
-- [deepmind/chex](https://github.com/deepmind/chex) pushed_at:2021-02 
-- [deepmind/deep-verify](https://github.com/deepmind/deep-verify) pushed_at:2019-11 
-- [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) pushed_at:2021-02 JAX-based neural network library
-- [deepmind/dm_alchemy](https://github.com/deepmind/dm_alchemy) pushed_at:2021-02 DeepMind Alchemy task environment: a meta-reinforcement learning benchmark
-- [deepmind/dm_construction](https://github.com/deepmind/dm_construction) pushed_at:2021-01 
-- [deepmind/dm_control](https://github.com/deepmind/dm_control) pushed_at:2021-02 DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
-- [deepmind/dm_env](https://github.com/deepmind/dm_env) pushed_at:2021-02 A Python interface for reinforcement learning environments
-- [deepmind/dm_env_rpc](https://github.com/deepmind/dm_env_rpc) pushed_at:2020-12 A networking protocol for agent-environment communication
-- [deepmind/dm_fast_mapping](https://github.com/deepmind/dm_fast_mapping) pushed_at:2021-01 
-- [deepmind/dm_hard_eight](https://github.com/deepmind/dm_hard_eight) pushed_at:2020-11 
-- [deepmind/dm_memorytasks](https://github.com/deepmind/dm_memorytasks) pushed_at:2021-02 A set of 13 diverse machine-learning tasks that require memory to solve.
-- [deepmind/dnc](https://github.com/deepmind/dnc) pushed_at:2019-04 A TensorFlow implementation of the Differentiable Neural Computer.
-- [deepmind/dqn_zoo](https://github.com/deepmind/dqn_zoo) pushed_at:2020-10 DQN Zoo is a collection of reference implementations of reinforcement learning agents developed at DeepMind based on the Deep Q-Network (DQN) agent.
-- [deepmind/dynamic-kanerva-machines](https://github.com/deepmind/dynamic-kanerva-machines) pushed_at:2019-01 This is a self-contained memory module for the Dynamic Kanerva Machine, as reported in the NIPS 2018 paper: Learning Attractor Dynamics for Generative Memory.
-- [deepmind/fancyflags](https://github.com/deepmind/fancyflags) pushed_at:2021-02 A Python library for defining flat or nested dictionary flags.
-- [deepmind/ferminet](https://github.com/deepmind/ferminet) pushed_at:2021-02 An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
-- [deepmind/gqn-datasets](https://github.com/deepmind/gqn-datasets) pushed_at:2021-02 Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper.
-- [deepmind/graph_nets](https://github.com/deepmind/graph_nets) pushed_at:2020-12 Build Graph Nets in Tensorflow
-- [deepmind/grid-cells](https://github.com/deepmind/grid-cells) pushed_at:2020-10 Implementation of the supervised learning experiments in Vector-based navigation using grid-like representations in artificial agents, as published at https://www.nature.com/articles/s41586-018-0102-6
-- [deepmind/hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment) pushed_at:2021-01 hanabi_learning_environment is a research platform for Hanabi experiments.
-- [deepmind/interval-bound-propagation](https://github.com/deepmind/interval-bound-propagation) pushed_at:2019-12 This repository contains a simple implementation of Interval Bound Propagation (IBP) using TensorFlow: https://arxiv.org/abs/1810.12715
-- [deepmind/jax_verify](https://github.com/deepmind/jax_verify) pushed_at:2020-11 Neural network verification in JAX
-- [deepmind/jaxline](https://github.com/deepmind/jaxline) pushed_at:2021-02 
-- [deepmind/jraph](https://github.com/deepmind/jraph) pushed_at:2021-01 A Graph Neural Network Library in Jax
-- [deepmind/kinetics-i3d](https://github.com/deepmind/kinetics-i3d) pushed_at:2019-09 Convolutional neural network model for video classification trained on the Kinetics dataset.
-- [deepmind/lamb](https://github.com/deepmind/lamb) pushed_at:2020-04 LAnguage Modelling Benchmarks
-- [deepmind/leaps-and-bounds](https://github.com/deepmind/leaps-and-bounds) pushed_at:2020-01 This is an implementation of LeapsAndBounds and Structured Procrastination for approximately optimal algorithm configuration.
-- [deepmind/learning-to-learn](https://github.com/deepmind/learning-to-learn) pushed_at:2020-01 Learning to Learn in TensorFlow
-- [deepmind/leo](https://github.com/deepmind/leo) pushed_at:2019-04 Implementation of Meta-Learning with Latent Embedding Optimization
-- [deepmind/mathematics_dataset](https://github.com/deepmind/mathematics_dataset) pushed_at:2020-07 This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
-- [deepmind/multi_object_datasets](https://github.com/deepmind/multi_object_datasets) pushed_at:2019-09 Multi-object image datasets with ground-truth segmentation masks and generative factors.
-- [deepmind/optax](https://github.com/deepmind/optax) pushed_at:2021-02 Optax is a gradient processing and optimization library for JAX.
-- [deepmind/pycolab](https://github.com/deepmind/pycolab) pushed_at:2019-09 A highly-customisable gridworld game engine with some batteries included. Make your own gridworld games to test reinforcement learning agents!
-- [deepmind/pysc2](https://github.com/deepmind/pysc2) pushed_at:2020-07 StarCraft II Learning Environment
-- [deepmind/rc-data](https://github.com/deepmind/rc-data) pushed_at:2017-04 Question answering dataset featured in "Teaching Machines to Read and Comprehend
-- [deepmind/rlax](https://github.com/deepmind/rlax) pushed_at:2021-02 
-- [deepmind/scalable_agent](https://github.com/deepmind/scalable_agent) pushed_at:2019-03 A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures.
-- [deepmind/slim-dataset](https://github.com/deepmind/slim-dataset) pushed_at:2018-07 Datasets used to train Spatial Language Integrating Model (SLIM) in the ‘Encoding Spatial Relations from Natural Language’ paper.
-- [deepmind/sonnet](https://github.com/deepmind/sonnet) pushed_at:2021-02 TensorFlow-based neural network library
-- [deepmind/spectral_inference_networks](https://github.com/deepmind/spectral_inference_networks) pushed_at:2019-05 Implementation of Spectral Inference Networks, ICLR 2019
-- [deepmind/spriteworld](https://github.com/deepmind/spriteworld) pushed_at:2020-06 Spriteworld: a flexible, configurable python-based reinforcement learning environment
-- [deepmind/surface-distance](https://github.com/deepmind/surface-distance) pushed_at:2021-01 Library to compute surface distance based performance metrics for segmentation tasks.
-- [deepmind/Temporal-3D-Pose-Kinetics](https://github.com/deepmind/Temporal-3D-Pose-Kinetics) pushed_at:2019-07 Exploiting temporal context for 3D human pose estimation in the wild: 3D poses for the Kinetics dataset
-- [deepmind/tensor_annotations](https://github.com/deepmind/tensor_annotations) pushed_at:2021-01 Annotating tensor shapes using Python types
-- [deepmind/tree](https://github.com/deepmind/tree) pushed_at:2021-02 tree is a library for working with nested data structures
-- [deepmind/trfl](https://github.com/deepmind/trfl) pushed_at:2020-11 TensorFlow Reinforcement Learning
-- [deepmind/wasserstein_fairness](https://github.com/deepmind/wasserstein_fairness) pushed_at:2020-01 An implementation of Wasserstein Fair Classification, a conference paper submitted to UAI 2019.
+- [deepmind/acme](https://github.com/deepmind/acme) pushed_at:2021-02 star:1.9k fork:0.2k A library of reinforcement learning components and agents
+- [deepmind/ai-safety-gridworlds](https://github.com/deepmind/ai-safety-gridworlds) pushed_at:2020-10 star:0.5k fork:0.1k This is a suite of reinforcement learning environments illustrating various safety properties of intelligent agents.
+- [deepmind/bsuite](https://github.com/deepmind/bsuite) pushed_at:2021-02 star:1.2k fork:0.1k bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
+- [deepmind/chex](https://github.com/deepmind/chex) pushed_at:2021-02 star:0.2k fork:0.0k 
+- [deepmind/deep-verify](https://github.com/deepmind/deep-verify) pushed_at:2019-11 star:0.0k fork:0.0k 
+- [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) pushed_at:2021-02 star:1.0k fork:0.1k JAX-based neural network library
+- [deepmind/dm_alchemy](https://github.com/deepmind/dm_alchemy) pushed_at:2021-02 star:0.1k fork:0.0k DeepMind Alchemy task environment: a meta-reinforcement learning benchmark
+- [deepmind/dm_construction](https://github.com/deepmind/dm_construction) pushed_at:2021-01 star:0.0k fork:0.0k 
+- [deepmind/dm_control](https://github.com/deepmind/dm_control) pushed_at:2021-02 star:2.2k fork:0.4k DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
+- [deepmind/dm_env](https://github.com/deepmind/dm_env) pushed_at:2021-02 star:0.1k fork:0.0k A Python interface for reinforcement learning environments
+- [deepmind/dm_env_rpc](https://github.com/deepmind/dm_env_rpc) pushed_at:2020-12 star:0.1k fork:0.0k A networking protocol for agent-environment communication
+- [deepmind/dm_fast_mapping](https://github.com/deepmind/dm_fast_mapping) pushed_at:2021-01 star:0.0k fork:0.0k 
+- [deepmind/dm_hard_eight](https://github.com/deepmind/dm_hard_eight) pushed_at:2020-11 star:0.1k fork:0.0k 
+- [deepmind/dm_memorytasks](https://github.com/deepmind/dm_memorytasks) pushed_at:2021-02 star:0.2k fork:0.0k A set of 13 diverse machine-learning tasks that require memory to solve.
+- [deepmind/dnc](https://github.com/deepmind/dnc) pushed_at:2019-04 star:2.4k fork:0.4k A TensorFlow implementation of the Differentiable Neural Computer.
+- [deepmind/dqn_zoo](https://github.com/deepmind/dqn_zoo) pushed_at:2020-10 star:0.2k fork:0.0k DQN Zoo is a collection of reference implementations of reinforcement learning agents developed at DeepMind based on the Deep Q-Network (DQN) agent.
+- [deepmind/dynamic-kanerva-machines](https://github.com/deepmind/dynamic-kanerva-machines) pushed_at:2019-01 star:0.0k fork:0.0k This is a self-contained memory module for the Dynamic Kanerva Machine, as reported in the NIPS 2018 paper: Learning Attractor Dynamics for Generative Memory.
+- [deepmind/fancyflags](https://github.com/deepmind/fancyflags) pushed_at:2021-02 star:0.0k fork:0.0k A Python library for defining flat or nested dictionary flags.
+- [deepmind/ferminet](https://github.com/deepmind/ferminet) pushed_at:2021-02 star:0.4k fork:0.1k An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
+- [deepmind/gqn-datasets](https://github.com/deepmind/gqn-datasets) pushed_at:2021-02 star:0.3k fork:0.0k Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper.
+- [deepmind/graph_nets](https://github.com/deepmind/graph_nets) pushed_at:2020-12 star:4.8k fork:0.7k Build Graph Nets in Tensorflow
+- [deepmind/grid-cells](https://github.com/deepmind/grid-cells) pushed_at:2020-10 star:0.2k fork:0.0k Implementation of the supervised learning experiments in Vector-based navigation using grid-like representations in artificial agents, as published at https://www.nature.com/articles/s41586-018-0102-6
+- [deepmind/hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment) pushed_at:2021-01 star:0.5k fork:0.1k hanabi_learning_environment is a research platform for Hanabi experiments.
+- [deepmind/interval-bound-propagation](https://github.com/deepmind/interval-bound-propagation) pushed_at:2019-12 star:0.1k fork:0.0k This repository contains a simple implementation of Interval Bound Propagation (IBP) using TensorFlow: https://arxiv.org/abs/1810.12715
+- [deepmind/jax_verify](https://github.com/deepmind/jax_verify) pushed_at:2020-11 star:0.1k fork:0.0k Neural network verification in JAX
+- [deepmind/jaxline](https://github.com/deepmind/jaxline) pushed_at:2021-02 star:0.0k fork:0.0k 
+- [deepmind/jraph](https://github.com/deepmind/jraph) pushed_at:2021-01 star:0.5k fork:0.0k A Graph Neural Network Library in Jax
+- [deepmind/kinetics-i3d](https://github.com/deepmind/kinetics-i3d) pushed_at:2019-09 star:1.4k fork:0.4k Convolutional neural network model for video classification trained on the Kinetics dataset.
+- [deepmind/lamb](https://github.com/deepmind/lamb) pushed_at:2020-04 star:0.1k fork:0.0k LAnguage Modelling Benchmarks
+- [deepmind/leaps-and-bounds](https://github.com/deepmind/leaps-and-bounds) pushed_at:2020-01 star:0.0k fork:0.0k This is an implementation of LeapsAndBounds and Structured Procrastination for approximately optimal algorithm configuration.
+- [deepmind/learning-to-learn](https://github.com/deepmind/learning-to-learn) pushed_at:2020-01 star:4.0k fork:0.6k Learning to Learn in TensorFlow
+- [deepmind/leo](https://github.com/deepmind/leo) pushed_at:2019-04 star:0.3k fork:0.1k Implementation of Meta-Learning with Latent Embedding Optimization
+- [deepmind/mathematics_dataset](https://github.com/deepmind/mathematics_dataset) pushed_at:2020-07 star:1.4k fork:0.2k This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
+- [deepmind/multi_object_datasets](https://github.com/deepmind/multi_object_datasets) pushed_at:2019-09 star:0.1k fork:0.0k Multi-object image datasets with ground-truth segmentation masks and generative factors.
+- [deepmind/optax](https://github.com/deepmind/optax) pushed_at:2021-02 star:0.3k fork:0.0k Optax is a gradient processing and optimization library for JAX.
+- [deepmind/pycolab](https://github.com/deepmind/pycolab) pushed_at:2019-09 star:0.6k fork:0.1k A highly-customisable gridworld game engine with some batteries included. Make your own gridworld games to test reinforcement learning agents!
+- [deepmind/pysc2](https://github.com/deepmind/pysc2) pushed_at:2020-07 star:7.2k fork:1.1k StarCraft II Learning Environment
+- [deepmind/rc-data](https://github.com/deepmind/rc-data) pushed_at:2017-04 star:1.2k fork:0.2k Question answering dataset featured in "Teaching Machines to Read and Comprehend
+- [deepmind/rlax](https://github.com/deepmind/rlax) pushed_at:2021-02 star:0.6k fork:0.0k 
+- [deepmind/scalable_agent](https://github.com/deepmind/scalable_agent) pushed_at:2019-03 star:0.8k fork:0.1k A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures.
+- [deepmind/slim-dataset](https://github.com/deepmind/slim-dataset) pushed_at:2018-07 star:0.0k fork:0.0k Datasets used to train Spatial Language Integrating Model (SLIM) in the ‘Encoding Spatial Relations from Natural Language’ paper.
+- [deepmind/sonnet](https://github.com/deepmind/sonnet) pushed_at:2021-02 star:8.8k fork:1.3k TensorFlow-based neural network library
+- [deepmind/spectral_inference_networks](https://github.com/deepmind/spectral_inference_networks) pushed_at:2019-05 star:0.2k fork:0.0k Implementation of Spectral Inference Networks, ICLR 2019
+- [deepmind/spriteworld](https://github.com/deepmind/spriteworld) pushed_at:2020-06 star:0.3k fork:0.0k Spriteworld: a flexible, configurable python-based reinforcement learning environment
+- [deepmind/surface-distance](https://github.com/deepmind/surface-distance) pushed_at:2021-01 star:0.2k fork:0.1k Library to compute surface distance based performance metrics for segmentation tasks.
+- [deepmind/Temporal-3D-Pose-Kinetics](https://github.com/deepmind/Temporal-3D-Pose-Kinetics) pushed_at:2019-07 star:0.2k fork:0.0k Exploiting temporal context for 3D human pose estimation in the wild: 3D poses for the Kinetics dataset
+- [deepmind/tensor_annotations](https://github.com/deepmind/tensor_annotations) pushed_at:2021-01 star:0.0k fork:0.0k Annotating tensor shapes using Python types
+- [deepmind/tree](https://github.com/deepmind/tree) pushed_at:2021-02 star:0.6k fork:0.0k tree is a library for working with nested data structures
+- [deepmind/trfl](https://github.com/deepmind/trfl) pushed_at:2020-11 star:3.1k fork:0.4k TensorFlow Reinforcement Learning
+- [deepmind/wasserstein_fairness](https://github.com/deepmind/wasserstein_fairness) pushed_at:2020-01 star:0.0k fork:0.0k An implementation of Wasserstein Fair Classification, a conference paper submitted to UAI 2019.
 
 ## Shell
 
-- [deepmind/narrativeqa](https://github.com/deepmind/narrativeqa) pushed_at:2020-04 This repository contains the NarrativeQA dataset. It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers.
+- [deepmind/narrativeqa](https://github.com/deepmind/narrativeqa) pushed_at:2020-04 star:0.4k fork:0.1k This repository contains the NarrativeQA dataset. It includes the list of documents with Wikipedia summaries, links to full stories, and questions and answers.
 
 
 ## License

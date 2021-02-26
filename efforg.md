@@ -25,145 +25,145 @@
 
 ## C
 
-- [EFForg/iqiq](https://github.com/EFForg/iqiq) pushed_at:2018-06 
+- [EFForg/iqiq](https://github.com/EFForg/iqiq) pushed_at:2018-06 star:0.0k fork:0.0k 
 
 ## C++
 
-- [EFForg/mozilla-central-httpse-tests](https://github.com/EFForg/mozilla-central-httpse-tests) pushed_at:2013-09 mozilla-central, modified for HTTPS Everywhere ruleset tests
-- [EFForg/sovereign-keys](https://github.com/EFForg/sovereign-keys) pushed_at:2018-06 
-- [EFForg/srsLTE](https://github.com/EFForg/srsLTE) pushed_at:2020-09 Open source SDR LTE software suite 
+- [EFForg/mozilla-central-httpse-tests](https://github.com/EFForg/mozilla-central-httpse-tests) pushed_at:2013-09 star:0.0k fork:0.0k mozilla-central, modified for HTTPS Everywhere ruleset tests
+- [EFForg/sovereign-keys](https://github.com/EFForg/sovereign-keys) pushed_at:2018-06 star:0.0k fork:0.0k 
+- [EFForg/srsLTE](https://github.com/EFForg/srsLTE) pushed_at:2020-09 star:0.0k fork:0.0k Open source SDR LTE software suite 
 
 ## CSS
 
-- [EFForg/dayofaction-banner](https://github.com/EFForg/dayofaction-banner) pushed_at:2017-12 User-installable banner for activism campaigns
-- [EFForg/https-everywhere-atlas](https://github.com/EFForg/https-everywhere-atlas) pushed_at:2021-01 Static site generator for the HTTPS-Everywhere atlas.
-- [EFForg/petition-widget](https://github.com/EFForg/petition-widget) pushed_at:2014-08 Boilerplate code for embedding petitions
-- [EFForg/projectsecretidentity](https://github.com/EFForg/projectsecretidentity) pushed_at:2015-08 
-- [EFForg/sphinx_rtd_theme](https://github.com/EFForg/sphinx_rtd_theme) pushed_at:2020-06 Sphinx theme for readthedocs.org
-- [EFForg/starttls-frontend](https://github.com/EFForg/starttls-frontend) pushed_at:2020-10 Static front end for the STARTTLS scanner
-- [EFForg/stop-sesta](https://github.com/EFForg/stop-sesta) pushed_at:2019-01 
+- [EFForg/dayofaction-banner](https://github.com/EFForg/dayofaction-banner) pushed_at:2017-12 star:0.0k fork:0.0k User-installable banner for activism campaigns
+- [EFForg/https-everywhere-atlas](https://github.com/EFForg/https-everywhere-atlas) pushed_at:2021-01 star:0.0k fork:0.0k Static site generator for the HTTPS-Everywhere atlas.
+- [EFForg/petition-widget](https://github.com/EFForg/petition-widget) pushed_at:2014-08 star:0.0k fork:0.0k Boilerplate code for embedding petitions
+- [EFForg/projectsecretidentity](https://github.com/EFForg/projectsecretidentity) pushed_at:2015-08 star:0.0k fork:0.0k 
+- [EFForg/sphinx_rtd_theme](https://github.com/EFForg/sphinx_rtd_theme) pushed_at:2020-06 star:0.0k fork:0.0k Sphinx theme for readthedocs.org
+- [EFForg/starttls-frontend](https://github.com/EFForg/starttls-frontend) pushed_at:2021-02 star:0.0k fork:0.0k Static front end for the STARTTLS scanner
+- [EFForg/stop-sesta](https://github.com/EFForg/stop-sesta) pushed_at:2019-01 star:0.0k fork:0.0k 
 
 ## D
 
-- [EFForg/trackerlab](https://github.com/EFForg/trackerlab) pushed_at:2013-08 EFF's Tracker Blocking Laboratory is an experimental project to test heuristic blocking of non-consensual online tracking. It's based on AdBlock Plus.
+- [EFForg/trackerlab](https://github.com/EFForg/trackerlab) pushed_at:2013-08 star:0.0k fork:0.0k EFF's Tracker Blocking Laboratory is an experimental project to test heuristic blocking of non-consensual online tracking. It's based on AdBlock Plus.
 
 ## Dockerfile
 
-- [EFForg/https-everywhere-docker-base](https://github.com/EFForg/https-everywhere-docker-base) pushed_at:2020-04 The Dockerfile for installing all the system-level requirements for HTTPS Everywhere
-- [EFForg/https-everywhere-full-fetch-test](https://github.com/EFForg/https-everywhere-full-fetch-test) pushed_at:2020-03 A docker wrapper to generate a patch after a full fetch test
+- [EFForg/https-everywhere-docker-base](https://github.com/EFForg/https-everywhere-docker-base) pushed_at:2020-04 star:0.0k fork:0.0k The Dockerfile for installing all the system-level requirements for HTTPS Everywhere
+- [EFForg/https-everywhere-full-fetch-test](https://github.com/EFForg/https-everywhere-full-fetch-test) pushed_at:2020-03 star:0.0k fork:0.0k A docker wrapper to generate a patch after a full fetch test
 
 ## Go
 
-- [EFForg/starttls-backend](https://github.com/EFForg/starttls-backend) pushed_at:2020-06 STARTTLS Everywhere web backend and checker
-- [EFForg/yaya](https://github.com/EFForg/yaya) pushed_at:2020-10 Yet Another Yara Automaton - Automatically curate open source yara rules and run scans
+- [EFForg/starttls-backend](https://github.com/EFForg/starttls-backend) pushed_at:2020-06 star:0.0k fork:0.0k STARTTLS Everywhere web backend and checker
+- [EFForg/yaya](https://github.com/EFForg/yaya) pushed_at:2020-10 star:0.2k fork:0.0k Yet Another Yara Automaton - Automatically curate open source yara rules and run scans
 
 ## HTML
 
-- [EFForg/hugo-book](https://github.com/EFForg/hugo-book) pushed_at:2020-08 Hugo documentation theme as simple as plain book
-- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) pushed_at:2021-02 Test fixtures for Privacy Badger
-- [EFForg/privacybadger-test-fixtures-alt](https://github.com/EFForg/privacybadger-test-fixtures-alt) pushed_at:2020-05 Test fixtures for Privacy Badger
-- [EFForg/sas](https://github.com/EFForg/sas) pushed_at:2017-05 Stand Against Spying
-- [EFForg/stopwatchingus](https://github.com/EFForg/stopwatchingus) pushed_at:2016-02 StopWatching.us Site
-- [EFForg/tosback2](https://github.com/EFForg/tosback2) pushed_at:2018-06 
+- [EFForg/hugo-book](https://github.com/EFForg/hugo-book) pushed_at:2020-08 star:0.0k fork:0.0k Hugo documentation theme as simple as plain book
+- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) pushed_at:2021-02 star:0.0k fork:0.0k Test fixtures for Privacy Badger
+- [EFForg/privacybadger-test-fixtures-alt](https://github.com/EFForg/privacybadger-test-fixtures-alt) pushed_at:2020-05 star:0.0k fork:0.0k Test fixtures for Privacy Badger
+- [EFForg/sas](https://github.com/EFForg/sas) pushed_at:2017-05 star:0.0k fork:0.0k Stand Against Spying
+- [EFForg/stopwatchingus](https://github.com/EFForg/stopwatchingus) pushed_at:2016-02 star:0.0k fork:0.0k StopWatching.us Site
+- [EFForg/tosback2](https://github.com/EFForg/tosback2) pushed_at:2018-06 star:0.0k fork:0.0k 
 
 ## Java
 
-- [EFForg/privacybadger-android](https://github.com/EFForg/privacybadger-android) pushed_at:2016-03 Privacy Badger for Android [EFF]
+- [EFForg/privacybadger-android](https://github.com/EFForg/privacybadger-android) pushed_at:2016-03 star:0.0k fork:0.0k Privacy Badger for Android [EFF]
 
 ## JavaScript
 
-- [EFForg/actioncenter-mobile](https://github.com/EFForg/actioncenter-mobile) pushed_at:2018-02 2.0
-- [EFForg/congress-forms-test](https://github.com/EFForg/congress-forms-test) pushed_at:2016-03 Way for volunteers to test EFF's congress-forms repo
-- [EFForg/congress-forms.js](https://github.com/EFForg/congress-forms.js) pushed_at:2014-06 A javascript widget which can construct plain forms that submit to a contact-congress server.
-- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) pushed_at:2021-02 Is your browser safe against tracking?
-- [EFForg/cyberspying](https://github.com/EFForg/cyberspying) pushed_at:2015-12 cyberspying.eff.org twitter tool
-- [EFForg/fight215](https://github.com/EFForg/fight215) pushed_at:2015-06 
-- [EFForg/find-aa-domains](https://github.com/EFForg/find-aa-domains) pushed_at:2019-04 Create a script to find domains in the PB pre-block list which are mentioned in the Acceptable Ads list as well
-- [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) pushed_at:2021-02 A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
-- [EFForg/https-everywhere-labeller](https://github.com/EFForg/https-everywhere-labeller) pushed_at:2020-06 Alexa Labeller for HTTPS Everywhere Repo
-- [EFForg/httpse-ruleset-tests](https://github.com/EFForg/httpse-ruleset-tests) pushed_at:2013-09 
-- [EFForg/ngw-website](https://github.com/EFForg/ngw-website) pushed_at:2017-01 
-- [EFForg/node-wethepeople](https://github.com/EFForg/node-wethepeople) pushed_at:2015-09 Node wrapper for the We the People API
-- [EFForg/OpenWireless](https://github.com/EFForg/OpenWireless) pushed_at:2016-12 The official home of the EFF OpenWireless Project
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) pushed_at:2021-02 Privacy Badger is a browser extension that automatically learns to block invisible trackers.
-- [EFForg/privacybadgerfirefox-legacy](https://github.com/EFForg/privacybadgerfirefox-legacy) pushed_at:2016-12 LEGACY Privacy Badger for Firefox SEE README
-- [EFForg/psi-tumblr-crawler](https://github.com/EFForg/psi-tumblr-crawler) pushed_at:2015-08 
-- [EFForg/pushserver](https://github.com/EFForg/pushserver) pushed_at:2018-03 A server for sending push notifications to mobile apps
-- [EFForg/sec](https://github.com/EFForg/sec) pushed_at:2021-02 Security Education Companion
-- [EFForg/social-buttons-server](https://github.com/EFForg/social-buttons-server) pushed_at:2014-04 Host your own social counters servers while pulling live data from Facebook, Twitter and Google Plus
-- [EFForg/spot_the_surveillance](https://github.com/EFForg/spot_the_surveillance) pushed_at:2020-12 Spot the Surveillance is an open-source educational VR tool to help people identify street-level surveillance in their community. As each surveillance device is identified, the user is informed on how the device is used via text and narration. The experience is created with accessibility in mind, so is entirely gaze-based for people with mobility challenges. Audio is also used to assist low-vision users.
-- [EFForg/wetheusers-backend](https://github.com/EFForg/wetheusers-backend) pushed_at:2015-09 Backend services for the We The Users campaign
+- [EFForg/actioncenter-mobile](https://github.com/EFForg/actioncenter-mobile) pushed_at:2018-02 star:0.1k fork:0.0k 2.0
+- [EFForg/congress-forms-test](https://github.com/EFForg/congress-forms-test) pushed_at:2016-03 star:0.0k fork:0.0k Way for volunteers to test EFF's congress-forms repo
+- [EFForg/congress-forms.js](https://github.com/EFForg/congress-forms.js) pushed_at:2014-06 star:0.0k fork:0.0k A javascript widget which can construct plain forms that submit to a contact-congress server.
+- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) pushed_at:2021-02 star:0.1k fork:0.0k Is your browser safe against tracking?
+- [EFForg/cyberspying](https://github.com/EFForg/cyberspying) pushed_at:2015-12 star:0.0k fork:0.0k cyberspying.eff.org twitter tool
+- [EFForg/fight215](https://github.com/EFForg/fight215) pushed_at:2015-06 star:0.0k fork:0.0k 
+- [EFForg/find-aa-domains](https://github.com/EFForg/find-aa-domains) pushed_at:2019-04 star:0.0k fork:0.0k Create a script to find domains in the PB pre-block list which are mentioned in the Acceptable Ads list as well
+- [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) pushed_at:2021-02 star:3.1k fork:1.2k A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
+- [EFForg/https-everywhere-labeller](https://github.com/EFForg/https-everywhere-labeller) pushed_at:2020-06 star:0.0k fork:0.0k Alexa Labeller for HTTPS Everywhere Repo
+- [EFForg/httpse-ruleset-tests](https://github.com/EFForg/httpse-ruleset-tests) pushed_at:2013-09 star:0.0k fork:0.0k 
+- [EFForg/ngw-website](https://github.com/EFForg/ngw-website) pushed_at:2017-01 star:0.0k fork:0.0k 
+- [EFForg/node-wethepeople](https://github.com/EFForg/node-wethepeople) pushed_at:2015-09 star:0.0k fork:0.0k Node wrapper for the We the People API
+- [EFForg/OpenWireless](https://github.com/EFForg/OpenWireless) pushed_at:2016-12 star:0.7k fork:0.1k The official home of the EFF OpenWireless Project
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) pushed_at:2021-02 star:2.1k fork:0.3k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadgerfirefox-legacy](https://github.com/EFForg/privacybadgerfirefox-legacy) pushed_at:2016-12 star:0.4k fork:0.1k LEGACY Privacy Badger for Firefox SEE README
+- [EFForg/psi-tumblr-crawler](https://github.com/EFForg/psi-tumblr-crawler) pushed_at:2015-08 star:0.0k fork:0.0k 
+- [EFForg/pushserver](https://github.com/EFForg/pushserver) pushed_at:2018-03 star:0.0k fork:0.0k A server for sending push notifications to mobile apps
+- [EFForg/sec](https://github.com/EFForg/sec) pushed_at:2021-02 star:0.0k fork:0.0k Security Education Companion
+- [EFForg/social-buttons-server](https://github.com/EFForg/social-buttons-server) pushed_at:2014-04 star:0.0k fork:0.0k Host your own social counters servers while pulling live data from Facebook, Twitter and Google Plus
+- [EFForg/spot_the_surveillance](https://github.com/EFForg/spot_the_surveillance) pushed_at:2020-12 star:0.0k fork:0.0k Spot the Surveillance is an open-source educational VR tool to help people identify street-level surveillance in their community. As each surveillance device is identified, the user is informed on how the device is used via text and narration. The experience is created with accessibility in mind, so is entirely gaze-based for people with mobility challenges. Audio is also used to assist low-vision users.
+- [EFForg/wetheusers-backend](https://github.com/EFForg/wetheusers-backend) pushed_at:2015-09 star:0.0k fork:0.0k Backend services for the We The Users campaign
 
 ## Others
 
-- [EFForg/actioncenter-feedback](https://github.com/EFForg/actioncenter-feedback) pushed_at:2014-06 Repo for getting feedback on the new actioncenter
-- [EFForg/battleforthenet-widget](https://github.com/EFForg/battleforthenet-widget) pushed_at:2014-09 Embed this widget on your site and help save net neutrality!
-- [EFForg/congress-pics](https://github.com/EFForg/congress-pics) pushed_at:2014-08 Generate dynamic images for members of congress
-- [EFForg/design](https://github.com/EFForg/design) pushed_at:2020-05 Open Source product design resources
-- [EFForg/digitalcitizen](https://github.com/EFForg/digitalcitizen) pushed_at:2017-02 
-- [EFForg/dnt-guide](https://github.com/EFForg/dnt-guide) pushed_at:2017-12 How to Implement DNT
-- [EFForg/dnt-policy](https://github.com/EFForg/dnt-policy) pushed_at:2020-07 dnt-policy
-- [EFForg/fingerprinting-list](https://github.com/EFForg/fingerprinting-list) pushed_at:2016-10 
-- [EFForg/https-docs](https://github.com/EFForg/https-docs) pushed_at:2018-01 
-- [EFForg/OpenWireless-WebUI](https://github.com/EFForg/OpenWireless-WebUI) pushed_at:2014-03 Open Wireless Web UI
-- [EFForg/ow-python](https://github.com/EFForg/ow-python) pushed_at:2014-07 stripped down implementation of python for openwireless
-- [EFForg/phantom-of-the-capitol](https://github.com/EFForg/phantom-of-the-capitol) pushed_at:2021-02 
-- [EFForg/psi-tumblr-uploader](https://github.com/EFForg/psi-tumblr-uploader) pushed_at:2014-08 
-- [EFForg/sentry](https://github.com/EFForg/sentry) pushed_at:2016-08 docker-compose setup for sentry exception manager
-- [EFForg/ssd-l10n](https://github.com/EFForg/ssd-l10n) pushed_at:2016-12 ssd-l10n
-- [EFForg/webrequest-tlsinfo-api](https://github.com/EFForg/webrequest-tlsinfo-api) pushed_at:2020-01 A proposed addition to the Web Extensions API for providing TLS and X.509 information to addons
-- [EFForg/www-l10n](https://github.com/EFForg/www-l10n) pushed_at:2018-10 
+- [EFForg/actioncenter-feedback](https://github.com/EFForg/actioncenter-feedback) pushed_at:2014-06 star:0.0k fork:0.0k Repo for getting feedback on the new actioncenter
+- [EFForg/battleforthenet-widget](https://github.com/EFForg/battleforthenet-widget) pushed_at:2014-09 star:0.0k fork:0.0k Embed this widget on your site and help save net neutrality!
+- [EFForg/congress-pics](https://github.com/EFForg/congress-pics) pushed_at:2014-08 star:0.0k fork:0.0k Generate dynamic images for members of congress
+- [EFForg/design](https://github.com/EFForg/design) pushed_at:2020-05 star:0.0k fork:0.0k Open Source product design resources
+- [EFForg/digitalcitizen](https://github.com/EFForg/digitalcitizen) pushed_at:2017-02 star:0.0k fork:0.0k 
+- [EFForg/dnt-guide](https://github.com/EFForg/dnt-guide) pushed_at:2017-12 star:0.1k fork:0.0k How to Implement DNT
+- [EFForg/dnt-policy](https://github.com/EFForg/dnt-policy) pushed_at:2020-07 star:0.0k fork:0.0k dnt-policy
+- [EFForg/fingerprinting-list](https://github.com/EFForg/fingerprinting-list) pushed_at:2016-10 star:0.0k fork:0.0k 
+- [EFForg/https-docs](https://github.com/EFForg/https-docs) pushed_at:2018-01 star:0.0k fork:0.0k 
+- [EFForg/OpenWireless-WebUI](https://github.com/EFForg/OpenWireless-WebUI) pushed_at:2014-03 star:0.0k fork:0.0k Open Wireless Web UI
+- [EFForg/ow-python](https://github.com/EFForg/ow-python) pushed_at:2014-07 star:0.0k fork:0.0k stripped down implementation of python for openwireless
+- [EFForg/phantom-of-the-capitol](https://github.com/EFForg/phantom-of-the-capitol) pushed_at:2021-02 star:0.2k fork:0.1k 
+- [EFForg/psi-tumblr-uploader](https://github.com/EFForg/psi-tumblr-uploader) pushed_at:2014-08 star:0.0k fork:0.0k 
+- [EFForg/sentry](https://github.com/EFForg/sentry) pushed_at:2016-08 star:0.0k fork:0.0k docker-compose setup for sentry exception manager
+- [EFForg/ssd-l10n](https://github.com/EFForg/ssd-l10n) pushed_at:2016-12 star:0.0k fork:0.0k ssd-l10n
+- [EFForg/webrequest-tlsinfo-api](https://github.com/EFForg/webrequest-tlsinfo-api) pushed_at:2020-01 star:0.0k fork:0.0k A proposed addition to the Web Extensions API for providing TLS and X.509 information to addons
+- [EFForg/www-l10n](https://github.com/EFForg/www-l10n) pushed_at:2018-10 star:0.0k fork:0.0k 
 
 ## PHP
 
-- [EFForg/lemonhrm](https://github.com/EFForg/lemonhrm) pushed_at:2015-09 Fork of orangehrm open source hr management tool. Adds e-mail notifications and additional fields to the recruitment module.
-- [EFForg/org.eff.optimizedautocomplete](https://github.com/EFForg/org.eff.optimizedautocomplete) pushed_at:2012-09 CiviCRM extension: Optimize the autocomplete search box mysql queries so they're more efficient on large databases
+- [EFForg/lemonhrm](https://github.com/EFForg/lemonhrm) pushed_at:2015-09 star:0.0k fork:0.0k Fork of orangehrm open source hr management tool. Adds e-mail notifications and additional fields to the recruitment module.
+- [EFForg/org.eff.optimizedautocomplete](https://github.com/EFForg/org.eff.optimizedautocomplete) pushed_at:2012-09 star:0.0k fork:0.0k CiviCRM extension: Optimize the autocomplete search box mysql queries so they're more efficient on large databases
 
 ## Python
 
-- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) pushed_at:2021-02 Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
-- [EFForg/call-congress](https://github.com/EFForg/call-congress) pushed_at:2021-02 a simple server that connects calls between citizens and their congress person using the Twilio API
-- [EFForg/contact-congress](https://github.com/EFForg/contact-congress) pushed_at:2014-06 Sending electronic written messages to members of Congress by reverse engineering their contact forms.
-- [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) pushed_at:2021-01 Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
-- [EFForg/cryptobot-email](https://github.com/EFForg/cryptobot-email) pushed_at:2014-05 
-- [EFForg/cryptolog](https://github.com/EFForg/cryptolog) pushed_at:2016-07 Cryptolog is a tool for anonymizing webserver logs.
-- [EFForg/https-everywhere-standalone](https://github.com/EFForg/https-everywhere-standalone) pushed_at:2020-12 Transparently redirect insecure HTTP to secure HTTPS using HTTPS Everywhere and `mitmproxy`
-- [EFForg/observatory](https://github.com/EFForg/observatory) pushed_at:2018-06 
-- [EFForg/onpremise](https://github.com/EFForg/onpremise) pushed_at:2016-09 Sentry On-Premise setup
-- [EFForg/smtp-tls-history](https://github.com/EFForg/smtp-tls-history) pushed_at:2014-03 Produce graphs of the historical (in)security of SMTP transmissions by parsing mailboxes
-- [EFForg/starttls-everywhere](https://github.com/EFForg/starttls-everywhere) pushed_at:2020-05 A system for ensuring & authenticating STARTTLS encryption between mail servers
-- [EFForg/starttls-policy-cli](https://github.com/EFForg/starttls-policy-cli) pushed_at:2019-06 
-- [EFForg/WelcomeBot](https://github.com/EFForg/WelcomeBot) pushed_at:2015-10 
+- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) pushed_at:2021-02 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
+- [EFForg/call-congress](https://github.com/EFForg/call-congress) pushed_at:2021-02 star:0.0k fork:0.0k a simple server that connects calls between citizens and their congress person using the Twilio API
+- [EFForg/contact-congress](https://github.com/EFForg/contact-congress) pushed_at:2014-06 star:0.0k fork:0.0k Sending electronic written messages to members of Congress by reverse engineering their contact forms.
+- [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) pushed_at:2021-01 star:0.3k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
+- [EFForg/cryptobot-email](https://github.com/EFForg/cryptobot-email) pushed_at:2014-05 star:0.1k fork:0.0k 
+- [EFForg/cryptolog](https://github.com/EFForg/cryptolog) pushed_at:2016-07 star:0.1k fork:0.0k Cryptolog is a tool for anonymizing webserver logs.
+- [EFForg/https-everywhere-standalone](https://github.com/EFForg/https-everywhere-standalone) pushed_at:2020-12 star:0.0k fork:0.0k Transparently redirect insecure HTTP to secure HTTPS using HTTPS Everywhere and `mitmproxy`
+- [EFForg/observatory](https://github.com/EFForg/observatory) pushed_at:2018-06 star:0.0k fork:0.0k 
+- [EFForg/onpremise](https://github.com/EFForg/onpremise) pushed_at:2016-09 star:0.0k fork:0.0k Sentry On-Premise setup
+- [EFForg/smtp-tls-history](https://github.com/EFForg/smtp-tls-history) pushed_at:2014-03 star:0.0k fork:0.0k Produce graphs of the historical (in)security of SMTP transmissions by parsing mailboxes
+- [EFForg/starttls-everywhere](https://github.com/EFForg/starttls-everywhere) pushed_at:2020-05 star:0.4k fork:0.0k A system for ensuring & authenticating STARTTLS encryption between mail servers
+- [EFForg/starttls-policy-cli](https://github.com/EFForg/starttls-policy-cli) pushed_at:2019-06 star:0.0k fork:0.0k 
+- [EFForg/WelcomeBot](https://github.com/EFForg/WelcomeBot) pushed_at:2015-10 star:0.0k fork:0.0k 
 
 ## Ruby
 
-- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) pushed_at:2021-02 The EFF Action Center Platform
-- [EFForg/active_preview](https://github.com/EFForg/active_preview) pushed_at:2018-11 Rails plugin to make previews of active record objects
-- [EFForg/aws_one_click_staging](https://github.com/EFForg/aws_one_click_staging) pushed_at:2018-02 
-- [EFForg/check-your-reps](https://github.com/EFForg/check-your-reps) pushed_at:2018-11 
-- [EFForg/congress_forms](https://github.com/EFForg/congress_forms) pushed_at:2019-07 
-- [EFForg/congress_forms_api](https://github.com/EFForg/congress_forms_api) pushed_at:2020-04 
-- [EFForg/dear_fcc](https://github.com/EFForg/dear_fcc) pushed_at:2018-08 Dear FCC
-- [EFForg/eff_diceware](https://github.com/EFForg/eff_diceware) pushed_at:2018-04 A ruby gem for creating secure passphrases using EFF's long wordlist.
-- [EFForg/eff_fab](https://github.com/EFForg/eff_fab) pushed_at:2021-01 
-- [EFForg/eff_matomo](https://github.com/EFForg/eff_matomo) pushed_at:2019-06 Matomo API in Ruby
-- [EFForg/onlinecensorship](https://github.com/EFForg/onlinecensorship) pushed_at:2021-01 
-- [EFForg/rails_response_headers](https://github.com/EFForg/rails_response_headers) pushed_at:2018-03 Configure ActionController response headers with YAML.
-- [EFForg/ROSCO](https://github.com/EFForg/ROSCO) pushed_at:2019-10 ROSCO is an interactive, ruby-based CLI interface for querying against an instance of Snipe-IT
-- [EFForg/ruby-civicrm](https://github.com/EFForg/ruby-civicrm) pushed_at:2020-02 Ruby client for CiviCRM REST interface
+- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) pushed_at:2021-02 star:0.3k fork:0.1k The EFF Action Center Platform
+- [EFForg/active_preview](https://github.com/EFForg/active_preview) pushed_at:2018-11 star:0.0k fork:0.0k Rails plugin to make previews of active record objects
+- [EFForg/aws_one_click_staging](https://github.com/EFForg/aws_one_click_staging) pushed_at:2018-02 star:0.0k fork:0.0k 
+- [EFForg/check-your-reps](https://github.com/EFForg/check-your-reps) pushed_at:2018-11 star:0.0k fork:0.0k 
+- [EFForg/congress_forms](https://github.com/EFForg/congress_forms) pushed_at:2019-07 star:0.0k fork:0.0k 
+- [EFForg/congress_forms_api](https://github.com/EFForg/congress_forms_api) pushed_at:2020-04 star:0.0k fork:0.0k 
+- [EFForg/dear_fcc](https://github.com/EFForg/dear_fcc) pushed_at:2018-08 star:0.0k fork:0.0k Dear FCC
+- [EFForg/eff_diceware](https://github.com/EFForg/eff_diceware) pushed_at:2018-04 star:0.0k fork:0.0k A ruby gem for creating secure passphrases using EFF's long wordlist.
+- [EFForg/eff_fab](https://github.com/EFForg/eff_fab) pushed_at:2021-01 star:0.0k fork:0.0k 
+- [EFForg/eff_matomo](https://github.com/EFForg/eff_matomo) pushed_at:2019-06 star:0.0k fork:0.0k Matomo API in Ruby
+- [EFForg/onlinecensorship](https://github.com/EFForg/onlinecensorship) pushed_at:2021-01 star:0.0k fork:0.0k 
+- [EFForg/rails_response_headers](https://github.com/EFForg/rails_response_headers) pushed_at:2021-02 star:0.0k fork:0.0k Configure ActionController response headers with YAML.
+- [EFForg/ROSCO](https://github.com/EFForg/ROSCO) pushed_at:2019-10 star:0.0k fork:0.0k ROSCO is an interactive, ruby-based CLI interface for querying against an instance of Snipe-IT
+- [EFForg/ruby-civicrm](https://github.com/EFForg/ruby-civicrm) pushed_at:2020-02 star:0.0k fork:0.0k Ruby client for CiviCRM REST interface
 
 ## Rust
 
-- [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) pushed_at:2021-02 Core Rust library for HTTPS Everywhere
-- [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) pushed_at:2021-02 A library for HTTPS Everywhere which compiles to WASM
+- [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) pushed_at:2021-02 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
+- [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 
 ## SCSS
 
-- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) pushed_at:2021-02 Code and content of https://privacybadger.org
+- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) pushed_at:2021-02 star:0.0k fork:0.0k Code and content of https://privacybadger.org
 
 ## Shell
 
-- [EFForg/duraconf](https://github.com/EFForg/duraconf) pushed_at:2020-06 duraconf - A collection of hardened configuration files for SSL/TLS services
+- [EFForg/duraconf](https://github.com/EFForg/duraconf) pushed_at:2020-06 star:0.0k fork:0.0k duraconf - A collection of hardened configuration files for SSL/TLS services
 
 
 ## License
