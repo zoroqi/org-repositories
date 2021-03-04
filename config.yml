@@ -121,4 +121,7 @@
 - name: w3c
   userType: org
   file: w3c.md
+- name: spring-projects
+  userType: org
+  file: spring-projects.md
 
