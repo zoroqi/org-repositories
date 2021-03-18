@@ -124,4 +124,7 @@
 - name: spring-projects
   userType: org
   file: spring-projects.md
+- name: uber
+  userType: org
+  file: uber.md
 
