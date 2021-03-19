@@ -41,7 +41,7 @@
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) pushed_at:2021-03 star:0.2k fork:0.0k Index database library for use with sourcekit-lsp
 - [apple/llvm-project-v5](https://github.com/apple/llvm-project-v5) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project-v5-split](https://github.com/apple/llvm-project-v5-split) pushed_at:2019-10 star:0.0k fork:0.0k 
-- [apple/swift](https://github.com/apple/swift) pushed_at:2021-03 star:55.3k fork:8.9k The Swift Programming Language
+- [apple/swift](https://github.com/apple/swift) pushed_at:2021-03 star:55.4k fork:8.9k The Swift Programming Language
 - [apple/swift-clang](https://github.com/apple/swift-clang) pushed_at:2019-11 star:0.7k fork:0.2k 
 - [apple/swift-clang-tools-extra](https://github.com/apple/swift-clang-tools-extra) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [apple/swift-libcxx](https://github.com/apple/swift-libcxx) pushed_at:2019-10 star:0.0k fork:0.0k 
@@ -77,7 +77,7 @@
 
 ## Markdown
 
-- [apple/swift-evolution](https://github.com/apple/swift-evolution) pushed_at:2021-03 star:11.9k fork:1.9k This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+- [apple/swift-evolution](https://github.com/apple/swift-evolution) pushed_at:2021-03 star:12.0k fork:1.9k This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
 ## Others
 
@@ -96,7 +96,7 @@
 - [apple/ccs-pyosxframeworks](https://github.com/apple/ccs-pyosxframeworks) pushed_at:2017-02 star:0.0k fork:0.0k Python Framework for macOS APIs used by CalendarServer
 - [apple/ccs-pysecuretransport](https://github.com/apple/ccs-pysecuretransport) pushed_at:2017-02 star:0.0k fork:0.0k Twisted SecureTransport library used by CalendarServer
 - [apple/ccs-twistedextensions](https://github.com/apple/ccs-twistedextensions) pushed_at:2019-05 star:0.0k fork:0.0k Extensions to Twisted used by CalendarServer
-- [apple/coremltools](https://github.com/apple/coremltools) pushed_at:2021-03 star:2.1k fork:0.3k Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
+- [apple/coremltools](https://github.com/apple/coremltools) pushed_at:2021-03 star:2.1k fork:0.4k Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [apple/ml-afv](https://github.com/apple/ml-afv) pushed_at:2019-12 star:0.0k fork:0.0k 
 - [apple/ml-all-pairs](https://github.com/apple/ml-all-pairs) pushed_at:2019-03 star:0.0k fork:0.0k A data generator for studying learning from weak supervision.
 - [apple/ml-capsules-inverted-attention-routing](https://github.com/apple/ml-capsules-inverted-attention-routing) pushed_at:2020-02 star:0.1k fork:0.0k 
@@ -122,7 +122,7 @@
 
 ## Starlark
 
-- [apple/apple_rules_lint](https://github.com/apple/apple_rules_lint) pushed_at:2020-10 star:0.1k fork:0.0k A framework for adding lint checks to Bazel projects
+- [apple/apple_rules_lint](https://github.com/apple/apple_rules_lint) pushed_at:2021-03 star:0.1k fork:0.0k A framework for adding lint checks to Bazel projects
 
 ## Swift
 
@@ -135,7 +135,7 @@
 - [apple/swift-3-api-guidelines-review](https://github.com/apple/swift-3-api-guidelines-review) pushed_at:2018-11 star:0.5k fork:0.1k 
 - [apple/swift-algorithms](https://github.com/apple/swift-algorithms) pushed_at:2021-03 star:2.5k fork:0.1k Swift Algorithms is an open-source package of sequence and collection algorithms, along with their related types.
 - [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) pushed_at:2021-03 star:2.0k fork:0.1k Straightforward, type-safe argument parsing for Swift
-- [apple/swift-atomics](https://github.com/apple/swift-atomics) pushed_at:2021-01 star:0.5k fork:0.0k This package implements an atomics library for Swift, providing atomic operations for a variety of Swift types, including integers and pointer values. The goal is to enable intrepid developers to start building synchronization constructs directly in Swift.
+- [apple/swift-atomics](https://github.com/apple/swift-atomics) pushed_at:2021-03 star:0.5k fork:0.0k This package implements an atomics library for Swift, providing atomic operations for a variety of Swift types, including integers and pointer values. The goal is to enable intrepid developers to start building synchronization constructs directly in Swift.
 - [apple/swift-cluster-membership](https://github.com/apple/swift-cluster-membership) pushed_at:2020-11 star:0.1k fork:0.0k Distributed Membership Protocol implementations in Swift
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) pushed_at:2021-03 star:4.2k fork:1.0k The Foundation Project, providing core utilities, internationalization, and OS independence
 - [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) pushed_at:2021-03 star:0.9k fork:0.2k The XCTest Project, A Swift core library for providing unit test support
@@ -145,7 +145,7 @@
 - [apple/swift-distributed-tracing-baggage-core](https://github.com/apple/swift-distributed-tracing-baggage-core) pushed_at:2021-01 star:0.0k fork:0.0k Minimal context propagation container
 - [apple/swift-driver](https://github.com/apple/swift-driver) pushed_at:2021-03 star:0.5k fork:0.1k Swift compiler driver reimplementation in Swift
 - [apple/swift-evolution-staging](https://github.com/apple/swift-evolution-staging) pushed_at:2021-03 star:0.0k fork:0.0k 
-- [apple/swift-format](https://github.com/apple/swift-format) pushed_at:2021-02 star:1.2k fork:0.1k Formatting technology for Swift source code
+- [apple/swift-format](https://github.com/apple/swift-format) pushed_at:2021-03 star:1.2k fork:0.1k Formatting technology for Swift source code
 - [apple/swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) pushed_at:2021-02 star:0.1k fork:0.0k A Swift implementation of the HTTP Structured Header Field specification.
 - [apple/swift-llbuild2](https://github.com/apple/swift-llbuild2) pushed_at:2021-03 star:0.2k fork:0.0k A fresh take on a low-level build system API.
 - [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2021-03 star:2.3k fork:0.2k A Logging API for Swift
@@ -171,7 +171,7 @@
 - [apple/swift-stress-tester](https://github.com/apple/swift-stress-tester) pushed_at:2021-03 star:0.1k fork:0.0k Stress testing utilities for Swift's tooling
 - [apple/swift-syntax](https://github.com/apple/swift-syntax) pushed_at:2021-03 star:1.5k fork:0.1k SwiftPM package for SwiftSyntax library.
 - [apple/swift-system](https://github.com/apple/swift-system) pushed_at:2021-03 star:0.8k fork:0.0k Swift System provides idiomatic interfaces to system calls and low-level currency types.
-- [apple/swift-tools-support-async](https://github.com/apple/swift-tools-support-async) pushed_at:2021-02 star:0.0k fork:0.0k Common infrastructural helpers on top of NIO for llbuild2 and swiftpm-on-llbuild2 projects. This is NOT a general purpose package and is unlikely to ever become stable.
+- [apple/swift-tools-support-async](https://github.com/apple/swift-tools-support-async) pushed_at:2021-03 star:0.0k fork:0.0k Common infrastructural helpers on top of NIO for llbuild2 and swiftpm-on-llbuild2 projects. This is NOT a general purpose package and is unlikely to ever become stable.
 - [apple/swift-tools-support-core](https://github.com/apple/swift-tools-support-core) pushed_at:2021-03 star:0.2k fork:0.1k Contains common infrastructural code for both SwiftPM and llbuild.
 - [apple/swift-xcode-playground-support](https://github.com/apple/swift-xcode-playground-support) pushed_at:2021-03 star:0.2k fork:0.1k Logging and communication to allow Swift toolchains to communicate with Xcode.
 - [apple/swiftpm-on-llbuild2](https://github.com/apple/swiftpm-on-llbuild2) pushed_at:2020-09 star:0.0k fork:0.0k 

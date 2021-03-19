@@ -78,7 +78,7 @@
 - [twitter/ambrose](https://github.com/twitter/ambrose) pushed_at:2020-01 star:1.2k fork:0.2k A platform for visualization and real-time monitoring of data workflows
 - [twitter/cloudhopper-commons](https://github.com/twitter/cloudhopper-commons) pushed_at:2020-10 star:0.0k fork:0.0k Cloudhopper Commons
 - [twitter/distributedlog](https://github.com/twitter/distributedlog) pushed_at:2020-02 star:2.3k fork:0.3k A high performance replicated log service. (The development is moved to Apache Incubator)
-- [twitter/elephant-bird](https://github.com/twitter/elephant-bird) pushed_at:2020-10 star:1.1k fork:0.4k Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
+- [twitter/elephant-bird](https://github.com/twitter/elephant-bird) pushed_at:2021-03 star:1.1k fork:0.4k Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
 - [twitter/GraphJet](https://github.com/twitter/GraphJet) pushed_at:2021-03 star:0.5k fork:0.1k GraphJet is a real-time graph processing library.
 - [twitter/hbc](https://github.com/twitter/hbc) pushed_at:2020-10 star:0.9k fork:0.3k A Java HTTP client for consuming Twitter's realtime Streaming API
 - [twitter/hpack](https://github.com/twitter/hpack) pushed_at:2020-10 star:0.2k fork:0.0k Header Compression for HTTP/2
@@ -98,7 +98,7 @@
 - [twitter/hogan.js](https://github.com/twitter/hogan.js) pushed_at:2020-09 star:5.1k fork:0.5k A compiler for the Mustache templating language
 - [twitter/labella.js](https://github.com/twitter/labella.js) pushed_at:2020-12 star:3.7k fork:0.1k Placing labels on a timeline without overlap.
 - [twitter/SentenTree](https://github.com/twitter/SentenTree) pushed_at:2021-03 star:0.2k fork:0.0k A novel text visualization technique
-- [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) pushed_at:2019-08 star:0.3k fork:0.0k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
+- [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) pushed_at:2021-03 star:0.3k fork:0.0k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
 - [twitter/twitter-cldr-npm](https://github.com/twitter/twitter-cldr-npm) pushed_at:2019-08 star:0.0k fork:0.0k TwitterCldr npm package
 - [twitter/typeahead.js](https://github.com/twitter/typeahead.js) pushed_at:2020-12 star:16.3k fork:3.3k typeahead.js is a fast and fully-featured autocomplete library
 
@@ -154,7 +154,7 @@
 
 - [twitter/activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) pushed_at:2016-01 star:1.3k fork:0.1k An Active Record Reputation System for Rails
 - [twitter/thrift_client](https://github.com/twitter/thrift_client) pushed_at:2019-06 star:0.2k fork:0.1k A Thrift client wrapper that encapsulates some common failover behavior
-- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) pushed_at:2020-11 star:0.6k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
+- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) pushed_at:2021-03 star:0.6k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 - [twitter/twurl](https://github.com/twitter/twurl) pushed_at:2021-02 star:1.5k fork:0.3k OAuth-enabled curl for the Twitter API
 
 ## Rust
@@ -192,7 +192,7 @@
 
 ## Shell
 
-- [twitter/cache-trace](https://github.com/twitter/cache-trace) pushed_at:2020-11 star:0.0k fork:0.0k 
+- [twitter/cache-trace](https://github.com/twitter/cache-trace) pushed_at:2020-11 star:0.1k fork:0.0k 
 - [twitter/dodo](https://github.com/twitter/dodo) pushed_at:2021-03 star:0.0k fork:0.0k The Twitter OSS Project Builder
 - [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) pushed_at:2021-03 star:0.5k fork:0.3k Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
 
