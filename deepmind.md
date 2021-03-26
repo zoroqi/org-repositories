@@ -26,9 +26,9 @@
 ## C++
 
 - [deepmind/lab2d](https://github.com/deepmind/lab2d) pushed_at:2021-03 star:0.3k fork:0.0k A customisable 2D platform for agent-based AI research
-- [deepmind/labmaze](https://github.com/deepmind/labmaze) pushed_at:2020-08 star:0.0k fork:0.0k A standalone release of DeepMind Lab's maze generator with Python bindings.
+- [deepmind/labmaze](https://github.com/deepmind/labmaze) pushed_at:2021-03 star:0.0k fork:0.0k A standalone release of DeepMind Lab's maze generator with Python bindings.
 - [deepmind/multidim-image-augmentation](https://github.com/deepmind/multidim-image-augmentation) pushed_at:2021-02 star:0.1k fork:0.0k This package provides TensorFlow Ops for multidimensional volumetric image augmentation.
-- [deepmind/open_spiel](https://github.com/deepmind/open_spiel) pushed_at:2021-03 star:2.6k fork:0.5k OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+- [deepmind/open_spiel](https://github.com/deepmind/open_spiel) pushed_at:2021-03 star:2.7k fork:0.5k OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 - [deepmind/reverb](https://github.com/deepmind/reverb) pushed_at:2021-03 star:0.4k fork:0.0k Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research
 - [deepmind/spiral](https://github.com/deepmind/spiral) pushed_at:2019-10 star:0.3k fork:0.0k We provide a pre-trained model for unconditional 19-step generation of CelebA-HQ images
 - [deepmind/streetlearn](https://github.com/deepmind/streetlearn) pushed_at:2020-07 star:0.2k fork:0.0k A C++/Python implementation of the StreetLearn environment based on images from Street View, as well as a TensorFlow implementation of goal-driven navigation agents solving the task published in “Learning to Navigate in Cities Without a Map”, NeurIPS 2018
@@ -105,7 +105,7 @@
 - [deepmind/dm_fast_mapping](https://github.com/deepmind/dm_fast_mapping) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [deepmind/dm_hard_eight](https://github.com/deepmind/dm_hard_eight) pushed_at:2020-11 star:0.1k fork:0.0k 
 - [deepmind/dm_memorytasks](https://github.com/deepmind/dm_memorytasks) pushed_at:2021-02 star:0.2k fork:0.0k A set of 13 diverse machine-learning tasks that require memory to solve.
-- [deepmind/dnc](https://github.com/deepmind/dnc) pushed_at:2019-04 star:2.4k fork:0.4k A TensorFlow implementation of the Differentiable Neural Computer.
+- [deepmind/dnc](https://github.com/deepmind/dnc) pushed_at:2019-04 star:2.4k fork:0.5k A TensorFlow implementation of the Differentiable Neural Computer.
 - [deepmind/dqn_zoo](https://github.com/deepmind/dqn_zoo) pushed_at:2021-03 star:0.2k fork:0.0k DQN Zoo is a collection of reference implementations of reinforcement learning agents developed at DeepMind based on the Deep Q-Network (DQN) agent.
 - [deepmind/dynamic-kanerva-machines](https://github.com/deepmind/dynamic-kanerva-machines) pushed_at:2019-01 star:0.0k fork:0.0k This is a self-contained memory module for the Dynamic Kanerva Machine, as reported in the NIPS 2018 paper: Learning Attractor Dynamics for Generative Memory.
 - [deepmind/fancyflags](https://github.com/deepmind/fancyflags) pushed_at:2021-03 star:0.0k fork:0.0k A Python library for defining flat or nested dictionary flags.
@@ -138,7 +138,7 @@
 - [deepmind/surface-distance](https://github.com/deepmind/surface-distance) pushed_at:2021-01 star:0.2k fork:0.1k Library to compute surface distance based performance metrics for segmentation tasks.
 - [deepmind/Temporal-3D-Pose-Kinetics](https://github.com/deepmind/Temporal-3D-Pose-Kinetics) pushed_at:2019-07 star:0.2k fork:0.0k Exploiting temporal context for 3D human pose estimation in the wild: 3D poses for the Kinetics dataset
 - [deepmind/tensor_annotations](https://github.com/deepmind/tensor_annotations) pushed_at:2021-02 star:0.1k fork:0.0k Annotating tensor shapes using Python types
-- [deepmind/tree](https://github.com/deepmind/tree) pushed_at:2021-02 star:0.6k fork:0.0k tree is a library for working with nested data structures
+- [deepmind/tree](https://github.com/deepmind/tree) pushed_at:2021-03 star:0.6k fork:0.0k tree is a library for working with nested data structures
 - [deepmind/trfl](https://github.com/deepmind/trfl) pushed_at:2020-11 star:3.1k fork:0.4k TensorFlow Reinforcement Learning
 - [deepmind/wasserstein_fairness](https://github.com/deepmind/wasserstein_fairness) pushed_at:2020-01 star:0.0k fork:0.0k An implementation of Wasserstein Fair Classification, a conference paper submitted to UAI 2019.
 

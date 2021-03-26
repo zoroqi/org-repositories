@@ -78,8 +78,8 @@
 - [spring-projects/spring-android-samples](https://github.com/spring-projects/spring-android-samples) pushed_at:2021-01 star:0.8k fork:0.5k Spring for Android Sample Applications
 - [spring-projects/spring-batch](https://github.com/spring-projects/spring-batch) pushed_at:2021-03 star:1.8k fork:1.8k Spring Batch is a framework for writing offline and batch applications using Spring and Java
 - [spring-projects/spring-batch-extensions](https://github.com/spring-projects/spring-batch-extensions) pushed_at:2021-03 star:0.1k fork:0.2k Spring Batch Extensions
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) pushed_at:2021-03 star:54.0k fork:33.1k Spring Boot
-- [spring-projects/spring-boot-data-geode](https://github.com/spring-projects/spring-boot-data-geode) pushed_at:2021-02 star:0.0k fork:0.0k Spring Boot support for Apache Geode and VMware Tanzu GemFire
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) pushed_at:2021-03 star:54.2k fork:33.2k Spring Boot
+- [spring-projects/spring-boot-data-geode](https://github.com/spring-projects/spring-boot-data-geode) pushed_at:2021-03 star:0.0k fork:0.0k Spring Boot support for Apache Geode and VMware Tanzu GemFire
 - [spring-projects/spring-bus](https://github.com/spring-projects/spring-bus) pushed_at:2019-03 star:0.0k fork:0.0k Support for distributed Spring Integration applications as Message-driven Microservices
 - [spring-projects/spring-credhub](https://github.com/spring-projects/spring-credhub) pushed_at:2021-03 star:0.0k fork:0.0k Spring abstractions for Cloud Foundry CredHub
 - [spring-projects/spring-data-book](https://github.com/spring-projects/spring-data-book) pushed_at:2020-11 star:1.2k fork:1.0k Spring Data - The Definitive Guide - Modern Data Access for Enterprise Java Developers
@@ -115,7 +115,7 @@
 - [spring-projects/spring-data-solr-examples](https://github.com/spring-projects/spring-data-solr-examples) pushed_at:2019-03 star:0.1k fork:0.1k Spring Data Solr - Examples
 - [spring-projects/spring-flex](https://github.com/spring-projects/spring-flex) pushed_at:2020-02 star:0.1k fork:0.1k Spring BlazeDS Integration
 - [spring-projects/spring-flex-roo](https://github.com/spring-projects/spring-flex-roo) pushed_at:2020-10 star:0.0k fork:0.0k Flex Addon for Spring Roo
-- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) pushed_at:2021-03 star:41.9k fork:29.1k Spring Framework
+- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) pushed_at:2021-03 star:42.0k fork:29.2k Spring Framework
 - [spring-projects/spring-framework-issues](https://github.com/spring-projects/spring-framework-issues) pushed_at:2019-04 star:0.1k fork:0.2k User-contributed projects reproducing issues logged against Spring Framework GitHub issues. Note: this is not the Spring Framework issue tracker -->
 - [spring-projects/spring-gemfire-examples](https://github.com/spring-projects/spring-gemfire-examples) pushed_at:2019-04 star:0.1k fork:0.1k Sample projects to get started with Spring Gemfire
 - [spring-projects/spring-guice](https://github.com/spring-projects/spring-guice) pushed_at:2021-02 star:0.1k fork:0.0k Tools for using Spring in Guice and Guice in Spring
@@ -128,7 +128,7 @@
 - [spring-projects/spring-ide](https://github.com/spring-projects/spring-ide) pushed_at:2021-03 star:0.3k fork:0.1k Spring Development Environment for Eclipse
 - [spring-projects/spring-insight-plugins](https://github.com/spring-projects/spring-insight-plugins) pushed_at:2019-03 star:0.1k fork:0.0k Public Repository of Plugins for Spring Insight
 - [spring-projects/spring-integration](https://github.com/spring-projects/spring-integration) pushed_at:2021-03 star:1.1k fork:0.9k Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
-- [spring-projects/spring-integration-aws](https://github.com/spring-projects/spring-integration-aws) pushed_at:2021-01 star:0.1k fork:0.1k 
+- [spring-projects/spring-integration-aws](https://github.com/spring-projects/spring-integration-aws) pushed_at:2021-03 star:0.1k fork:0.1k 
 - [spring-projects/spring-integration-extensions](https://github.com/spring-projects/spring-integration-extensions) pushed_at:2021-02 star:0.2k fork:0.3k The Spring Integration Extensions project provides extension components for Spring Integration
 - [spring-projects/spring-integration-flow](https://github.com/spring-projects/spring-integration-flow) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [spring-projects/Spring-Integration-in-Action](https://github.com/spring-projects/Spring-Integration-in-Action) pushed_at:2019-03 star:0.1k fork:0.1k Source code to accompany the book
@@ -152,7 +152,7 @@
 - [spring-projects/spring-roo](https://github.com/spring-projects/spring-roo) pushed_at:2020-10 star:0.7k fork:0.3k Spring Roo is a next-generation rapid application development tool for Java developers. It focuses on higher productivity, stock-standard Java APIs, high usability, avoiding engineering trade-offs and facilitating easy Roo removal.
 - [spring-projects/spring-roo-community-addons](https://github.com/spring-projects/spring-roo-community-addons) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [spring-projects/spring-roo-wrapping](https://github.com/spring-projects/spring-roo-wrapping) pushed_at:2019-03 star:0.0k fork:0.0k Used to hold Spring Roo’s wrapping modules. These have a different lifecycle from the remainder of Roo, so belong outside of the “roo” repository.
-- [spring-projects/spring-security](https://github.com/spring-projects/spring-security) pushed_at:2021-03 star:5.7k fork:4.5k Spring Security
+- [spring-projects/spring-security](https://github.com/spring-projects/spring-security) pushed_at:2021-03 star:5.8k fork:4.5k Spring Security
 - [spring-projects/spring-security-javaconfig](https://github.com/spring-projects/spring-security-javaconfig) pushed_at:2019-03 star:0.2k fork:0.1k Spring Security Java Configuration Support (to be merged with spring-security-config)
 - [spring-projects/spring-security-kerberos](https://github.com/spring-projects/spring-security-kerberos) pushed_at:2021-02 star:0.1k fork:0.2k 
 - [spring-projects/spring-security-migrate-3-to-4](https://github.com/spring-projects/spring-security-migrate-3-to-4) pushed_at:2019-03 star:0.0k fork:0.1k 
@@ -182,7 +182,7 @@
 - [spring-projects/spring-sync](https://github.com/spring-projects/spring-sync) pushed_at:2017-07 star:0.1k fork:0.0k Enables efficient communication and data synchronization between clients and Spring server applications.
 - [spring-projects/spring-sync-samples](https://github.com/spring-projects/spring-sync-samples) pushed_at:2014-11 star:0.0k fork:0.0k Samples demonstrating the use of Spring Sync
 - [spring-projects/spring-tenancy](https://github.com/spring-projects/spring-tenancy) pushed_at:2019-03 star:0.0k fork:0.0k Spring Tenancy
-- [spring-projects/spring-test-data-geode](https://github.com/spring-projects/spring-test-data-geode) pushed_at:2021-02 star:0.0k fork:0.0k A Spring-based Test Framework supporting Unit and Integration testing for Spring Boot applications using Spring Data with either Apache Geode or VMware Tanzu GemFire
+- [spring-projects/spring-test-data-geode](https://github.com/spring-projects/spring-test-data-geode) pushed_at:2021-03 star:0.0k fork:0.0k A Spring-based Test Framework supporting Unit and Integration testing for Spring Boot applications using Spring Data with either Apache Geode or VMware Tanzu GemFire
 - [spring-projects/spring-test-htmlunit](https://github.com/spring-projects/spring-test-htmlunit) pushed_at:2020-10 star:0.1k fork:0.1k Provides integration with Spring Test MVC and HtmlUnit
 - [spring-projects/spring-tuple](https://github.com/spring-projects/spring-tuple) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [spring-projects/spring-vault](https://github.com/spring-projects/spring-vault) pushed_at:2021-03 star:0.2k fork:0.1k Provides familiar Spring abstractions for HashiCorp Vault
