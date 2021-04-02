@@ -36,7 +36,7 @@
 ## CSS
 
 - [EFForg/dayofaction-banner](https://github.com/EFForg/dayofaction-banner) pushed_at:2017-12 star:0.0k fork:0.0k User-installable banner for activism campaigns
-- [EFForg/https-everywhere-atlas](https://github.com/EFForg/https-everywhere-atlas) pushed_at:2021-01 star:0.0k fork:0.0k Static site generator for the HTTPS-Everywhere atlas.
+- [EFForg/https-everywhere-atlas](https://github.com/EFForg/https-everywhere-atlas) pushed_at:2021-03 star:0.0k fork:0.0k Static site generator for the HTTPS-Everywhere atlas.
 - [EFForg/petition-widget](https://github.com/EFForg/petition-widget) pushed_at:2014-08 star:0.0k fork:0.0k Boilerplate code for embedding petitions
 - [EFForg/projectsecretidentity](https://github.com/EFForg/projectsecretidentity) pushed_at:2015-08 star:0.0k fork:0.0k 
 - [EFForg/sphinx_rtd_theme](https://github.com/EFForg/sphinx_rtd_theme) pushed_at:2020-06 star:0.0k fork:0.0k Sphinx theme for readthedocs.org
@@ -79,13 +79,13 @@
 - [EFForg/cyberspying](https://github.com/EFForg/cyberspying) pushed_at:2015-12 star:0.0k fork:0.0k cyberspying.eff.org twitter tool
 - [EFForg/fight215](https://github.com/EFForg/fight215) pushed_at:2015-06 star:0.0k fork:0.0k 
 - [EFForg/find-aa-domains](https://github.com/EFForg/find-aa-domains) pushed_at:2019-04 star:0.0k fork:0.0k Create a script to find domains in the PB pre-block list which are mentioned in the Acceptable Ads list as well
-- [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) pushed_at:2021-03 star:3.1k fork:1.2k A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
+- [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) pushed_at:2021-04 star:3.1k fork:1.2k A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
 - [EFForg/https-everywhere-labeller](https://github.com/EFForg/https-everywhere-labeller) pushed_at:2020-06 star:0.0k fork:0.0k Alexa Labeller for HTTPS Everywhere Repo
 - [EFForg/httpse-ruleset-tests](https://github.com/EFForg/httpse-ruleset-tests) pushed_at:2013-09 star:0.0k fork:0.0k 
 - [EFForg/ngw-website](https://github.com/EFForg/ngw-website) pushed_at:2017-01 star:0.0k fork:0.0k 
 - [EFForg/node-wethepeople](https://github.com/EFForg/node-wethepeople) pushed_at:2015-09 star:0.0k fork:0.0k Node wrapper for the We the People API
 - [EFForg/OpenWireless](https://github.com/EFForg/OpenWireless) pushed_at:2016-12 star:0.7k fork:0.1k The official home of the EFF OpenWireless Project
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) pushed_at:2021-03 star:2.1k fork:0.3k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) pushed_at:2021-04 star:2.1k fork:0.3k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [EFForg/privacybadgerfirefox-legacy](https://github.com/EFForg/privacybadgerfirefox-legacy) pushed_at:2016-12 star:0.4k fork:0.1k LEGACY Privacy Badger for Firefox SEE README
 - [EFForg/psi-tumblr-crawler](https://github.com/EFForg/psi-tumblr-crawler) pushed_at:2015-08 star:0.0k fork:0.0k 
 - [EFForg/pushserver](https://github.com/EFForg/pushserver) pushed_at:2018-03 star:0.0k fork:0.0k A server for sending push notifications to mobile apps
@@ -121,10 +121,10 @@
 
 ## Python
 
-- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) pushed_at:2021-03 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
+- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) pushed_at:2021-04 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
 - [EFForg/call-congress](https://github.com/EFForg/call-congress) pushed_at:2021-03 star:0.0k fork:0.0k a simple server that connects calls between citizens and their congress person using the Twilio API
 - [EFForg/contact-congress](https://github.com/EFForg/contact-congress) pushed_at:2014-06 star:0.0k fork:0.0k Sending electronic written messages to members of Congress by reverse engineering their contact forms.
-- [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) pushed_at:2021-03 star:0.3k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
+- [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) pushed_at:2021-04 star:0.3k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
 - [EFForg/cryptobot-email](https://github.com/EFForg/cryptobot-email) pushed_at:2014-05 star:0.1k fork:0.0k 
 - [EFForg/cryptolog](https://github.com/EFForg/cryptolog) pushed_at:2016-07 star:0.1k fork:0.0k Cryptolog is a tool for anonymizing webserver logs.
 - [EFForg/https-everywhere-standalone](https://github.com/EFForg/https-everywhere-standalone) pushed_at:2020-12 star:0.0k fork:0.0k Transparently redirect insecure HTTP to secure HTTPS using HTTPS Everywhere and `mitmproxy`
@@ -159,7 +159,7 @@
 
 ## SCSS
 
-- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) pushed_at:2021-02 star:0.0k fork:0.0k Code and content of https://privacybadger.org
+- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) pushed_at:2021-03 star:0.0k fork:0.0k Code and content of https://privacybadger.org
 
 ## Shell
 

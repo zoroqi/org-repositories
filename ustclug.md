@@ -39,7 +39,7 @@
 - [ustclug/mirrors-index](https://github.com/ustclug/mirrors-index) pushed_at:2018-05 star:0.0k fork:0.0k Go https://git.lug.ustc.edu.cn/mirrors/mirrors-index for latest version
 - [ustclug/news](https://github.com/ustclug/news) pushed_at:2020-08 star:0.0k fork:0.0k USTC LUG 新闻站
 - [ustclug/qtguide](https://github.com/ustclug/qtguide) pushed_at:2019-12 star:0.1k fork:0.0k Qt Programming Guide
-- [ustclug/website](https://github.com/ustclug/website) pushed_at:2021-03 star:0.0k fork:0.0k The next-gen website of LUG@USTC.
+- [ustclug/website](https://github.com/ustclug/website) pushed_at:2021-04 star:0.0k fork:0.0k The next-gen website of LUG@USTC.
 
 ## Hack
 
@@ -67,7 +67,7 @@
 - [ustclug/hackergame2017](https://github.com/ustclug/hackergame2017) pushed_at:2017-10 star:0.0k fork:0.0k 
 - [ustclug/library](https://github.com/ustclug/library) pushed_at:2017-11 star:0.0k fork:0.0k LUG Library
 - [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) pushed_at:2021-01 star:0.0k fork:0.0k LUG VPN 申请系统
-- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2021-02 star:0.3k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
+- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2021-03 star:0.3k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
 - [ustclug/website-static](https://github.com/ustclug/website-static) pushed_at:2021-01 star:0.0k fork:0.0k Hosting static content (image/assets) for LUG website
 
 ## Rust
@@ -85,7 +85,7 @@
 - [ustclug/Linux101-docs](https://github.com/ustclug/Linux101-docs) pushed_at:2021-03 star:0.1k fork:0.0k Linux 101 学生课程教材与讲义
 - [ustclug/Linux101-USTC](https://github.com/ustclug/Linux101-USTC) pushed_at:2020-03 star:0.0k fork:0.0k Linux 101 is a course organized by several members of LUG@USTC. It is designed to popularize Linux and open source culture in USTC. First brought up by Jin Zida.
 - [ustclug/lug-sites-sync](https://github.com/ustclug/lug-sites-sync) pushed_at:2015-08 star:0.0k fork:0.0k 💀Script to sync lug.ustc.edu.cn/sites pages (deprecated)
-- [ustclug/lugftp](https://github.com/ustclug/lugftp) pushed_at:2020-01 star:0.0k fork:0.0k FTP site of USTC Linux User Group
+- [ustclug/lugftp](https://github.com/ustclug/lugftp) pushed_at:2021-04 star:0.0k fork:0.0k FTP site of USTC Linux User Group
 - [ustclug/lugwiki](https://github.com/ustclug/lugwiki) pushed_at:2020-08 star:0.0k fork:0.0k wiki site of USTC Linux User Group
 - [ustclug/mirrorimage](https://github.com/ustclug/mirrorimage) pushed_at:2021-01 star:0.0k fork:0.0k Docker Distribution Images replaced with USTC Mirrors
 - [ustclug/monitor](https://github.com/ustclug/monitor) pushed_at:2018-06 star:0.0k fork:0.0k tools used by USTC LUG monitor site
