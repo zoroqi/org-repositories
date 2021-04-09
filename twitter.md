@@ -38,15 +38,15 @@
 - [twitter/fatcache](https://github.com/twitter/fatcache) pushed_at:2017-04 star:1.3k fork:0.2k Memcache on SSD
 - [twitter/ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) pushed_at:2020-10 star:1.8k fork:0.1k Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
-- [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2021-03 star:0.6k fork:0.1k Pelikan is Twitter's unified cache backend
+- [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2021-04 star:0.6k fork:0.1k Pelikan is Twitter's unified cache backend
 - [twitter/torch-ipc](https://github.com/twitter/torch-ipc) pushed_at:2017-06 star:0.1k fork:0.0k A set of primitives for parallel computation in Torch
 - [twitter/torch-thrift](https://github.com/twitter/torch-thrift) pushed_at:2016-03 star:0.0k fork:0.0k A Thrift codec for Torch
 - [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2019-08 star:0.9k fork:0.1k Twemcache is the Twitter Memcached
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-03 star:10.5k fork:1.9k A fast, light-weight proxy for memcached and redis
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-03 star:10.6k fork:1.9k A fast, light-weight proxy for memcached and redis
 
 ## C#
 
-- [twitter/periscope-live-engagement-unity-sdk](https://github.com/twitter/periscope-live-engagement-unity-sdk) pushed_at:2019-06 star:0.0k fork:0.0k Periscope Live Engagement Unity SDK
+- [twitter/periscope-live-engagement-unity-sdk](https://github.com/twitter/periscope-live-engagement-unity-sdk) pushed_at:2021-04 star:0.0k fork:0.0k Periscope Live Engagement Unity SDK
 
 ## C++
 
@@ -58,7 +58,7 @@
 - [twitter/birdwatch](https://github.com/twitter/birdwatch) pushed_at:2021-03 star:0.1k fork:0.0k 
 - [twitter/cdk](https://github.com/twitter/cdk) pushed_at:2019-06 star:0.1k fork:0.0k CDK is a tool to quickly generate single-file html slide presentations from AsciiDoc
 - [twitter/recess](https://github.com/twitter/recess) pushed_at:2016-04 star:2.2k fork:0.2k A simple and attractive code quality tool for CSS built on top of LESS
-- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-03 star:1.6k fork:0.5k A listing of open source efforts at Twitter on GitHub
+- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-04 star:1.6k fork:0.5k A listing of open source efforts at Twitter on GitHub
 
 ## Go
 
@@ -125,7 +125,7 @@
 - [twitter/curation-style-guide](https://github.com/twitter/curation-style-guide) pushed_at:2019-06 star:0.0k fork:0.0k Document Repository for Twitter's Curation Style Guide
 - [twitter/gpl-commitment](https://github.com/twitter/gpl-commitment) pushed_at:2018-10 star:0.0k fork:0.0k Twitter's GPL Cooperation Commitment
 - [twitter/innovators-patent-agreement](https://github.com/twitter/innovators-patent-agreement) pushed_at:2016-06 star:0.9k fork:0.1k Innovators Patent Agreement (IPA)
-- [twitter/metrics](https://github.com/twitter/metrics) pushed_at:2021-03 star:0.0k fork:0.0k 
+- [twitter/metrics](https://github.com/twitter/metrics) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [twitter/ossdecks](https://github.com/twitter/ossdecks) pushed_at:2019-04 star:0.0k fork:0.0k Repository for Twitter Open Source Decks
 - [twitter/second-control-probability-distributions](https://github.com/twitter/second-control-probability-distributions) pushed_at:2016-01 star:0.0k fork:0.0k 
 - [twitter/sekhmet](https://github.com/twitter/sekhmet) pushed_at:2018-06 star:0.0k fork:0.0k foundational tools and building blocks for gaining insights and diagnosing system health in real-time
@@ -198,7 +198,7 @@
 
 ## Swift
 
-- [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) pushed_at:2021-03 star:2.4k fork:0.1k A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
+- [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) pushed_at:2021-03 star:2.5k fork:0.1k A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
 
 ## TypeScript
 
