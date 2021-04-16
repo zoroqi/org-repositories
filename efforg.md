@@ -49,13 +49,13 @@
 
 ## Dockerfile
 
-- [EFForg/https-everywhere-docker-base](https://github.com/EFForg/https-everywhere-docker-base) pushed_at:2020-04 star:0.0k fork:0.0k The Dockerfile for installing all the system-level requirements for HTTPS Everywhere
+- [EFForg/https-everywhere-docker-base](https://github.com/EFForg/https-everywhere-docker-base) pushed_at:2021-04 star:0.0k fork:0.0k The Dockerfile for installing all the system-level requirements for HTTPS Everywhere
 - [EFForg/https-everywhere-full-fetch-test](https://github.com/EFForg/https-everywhere-full-fetch-test) pushed_at:2020-03 star:0.0k fork:0.0k A docker wrapper to generate a patch after a full fetch test
 
 ## Go
 
 - [EFForg/starttls-backend](https://github.com/EFForg/starttls-backend) pushed_at:2020-06 star:0.0k fork:0.0k STARTTLS Everywhere web backend and checker
-- [EFForg/yaya](https://github.com/EFForg/yaya) pushed_at:2020-10 star:0.2k fork:0.0k Yet Another Yara Automaton - Automatically curate open source yara rules and run scans
+- [EFForg/yaya](https://github.com/EFForg/yaya) pushed_at:2021-04 star:0.2k fork:0.0k Yet Another Yara Automaton - Automatically curate open source yara rules and run scans
 
 ## HTML
 

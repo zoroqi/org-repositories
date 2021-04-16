@@ -36,16 +36,16 @@
 - [riscv/opensbi](https://github.com/riscv/opensbi) pushed_at:2021-04 star:0.2k fork:0.1k RISC-V Open Source Supervisor Binary Interface
 - [riscv/riscv-binutils-gdb](https://github.com/riscv/riscv-binutils-gdb) pushed_at:2021-04 star:0.1k fork:0.2k RISC-V backports for binutils-gdb.  Development is done upstream at the FSF.
 - [riscv/riscv-code-speed-optimization](https://github.com/riscv/riscv-code-speed-optimization) pushed_at:2021-01 star:0.0k fork:0.0k 
-- [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2021-03 star:0.1k fork:0.0k RISC-V cryptography extensions standardisation work.
+- [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2021-04 star:0.1k fork:0.0k RISC-V cryptography extensions standardisation work.
 - [riscv/riscv-edk2](https://github.com/riscv/riscv-edk2) pushed_at:2021-03 star:0.0k fork:0.0k Port of EDK2 implementation of UEFI to RISC-V. See documentation at:
 - [riscv/riscv-edk2-platforms](https://github.com/riscv/riscv-edk2-platforms) pushed_at:2021-03 star:0.0k fork:0.0k Port of EDK2 implementation of UEFI to RISC-V. See documentation at:
 - [riscv/riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain) pushed_at:2021-04 star:1.0k fork:0.5k GNU toolchain for RISC-V, including GCC
-- [riscv/riscv-isa-sim](https://github.com/riscv/riscv-isa-sim) pushed_at:2021-04 star:0.9k fork:0.4k Spike, a RISC-V ISA Simulator
+- [riscv/riscv-isa-sim](https://github.com/riscv/riscv-isa-sim) pushed_at:2021-04 star:1.0k fork:0.4k Spike, a RISC-V ISA Simulator
 - [riscv/riscv-newlib](https://github.com/riscv/riscv-newlib) pushed_at:2021-02 star:0.1k fork:0.1k RISC-V port of newlib
 - [riscv/riscv-openocd](https://github.com/riscv/riscv-openocd) pushed_at:2021-04 star:0.2k fork:0.2k Fork of OpenOCD that has RISC-V support
 - [riscv/riscv-pk](https://github.com/riscv/riscv-pk) pushed_at:2021-04 star:0.3k fork:0.2k RISC-V Proxy Kernel
 - [riscv/riscv-test-env](https://github.com/riscv/riscv-test-env) pushed_at:2020-11 star:0.0k fork:0.1k 
-- [riscv/riscv-tests](https://github.com/riscv/riscv-tests) pushed_at:2021-04 star:0.2k fork:0.2k 
+- [riscv/riscv-tests](https://github.com/riscv/riscv-tests) pushed_at:2021-04 star:0.3k fork:0.2k 
 - [riscv/rvv-intrinsic-doc](https://github.com/riscv/rvv-intrinsic-doc) pushed_at:2021-04 star:0.1k fork:0.0k 
 - [riscv/tg-nexus-trace](https://github.com/riscv/tg-nexus-trace) pushed_at:2021-03 star:0.0k fork:0.0k RISC-V Nexus Trace TG documentation and reference code
 
@@ -73,7 +73,7 @@
 ## Makefile
 
 - [riscv/riscv-CMOs-discuss](https://github.com/riscv/riscv-CMOs-discuss) pushed_at:2020-11 star:0.0k fork:0.0k 
-- [riscv/riscv-elf-psabi-doc](https://github.com/riscv/riscv-elf-psabi-doc) pushed_at:2021-03 star:0.2k fork:0.1k A RISC-V ELF psABI Document
+- [riscv/riscv-elf-psabi-doc](https://github.com/riscv/riscv-elf-psabi-doc) pushed_at:2021-04 star:0.2k fork:0.1k A RISC-V ELF psABI Document
 - [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2021-03 star:0.0k fork:0.0k RISC-V Profiles and Platform Specification
 - [riscv/riscv-sbi-doc](https://github.com/riscv/riscv-sbi-doc) pushed_at:2021-03 star:0.1k fork:0.0k Documentation for the RISC-V Supervisor Binary Interface
 - [riscv/riscv-semihosting-spec](https://github.com/riscv/riscv-semihosting-spec) pushed_at:2020-04 star:0.0k fork:0.0k 

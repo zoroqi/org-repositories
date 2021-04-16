@@ -108,7 +108,7 @@
 - [apachecn/apachecn-c-cpp-zh](https://github.com/apachecn/apachecn-c-cpp-zh) pushed_at:2021-04 star:0.0k fork:0.0k :books: [译] ApacheCN C/C++ 译文集
 - [apachecn/apachecn-cs-zh](https://github.com/apachecn/apachecn-cs-zh) pushed_at:2021-03 star:0.0k fork:0.0k :books: [译] ApacheCN 计算机科学译文集
 - [apachecn/apachecn-cv-zh](https://github.com/apachecn/apachecn-cv-zh) pushed_at:2021-02 star:0.0k fork:0.0k :books: [译] ApacheCN CV 译文集
-- [apachecn/apachecn-dl-zh](https://github.com/apachecn/apachecn-dl-zh) pushed_at:2021-02 star:0.1k fork:0.0k ApacheCN 深度学习译文集
+- [apachecn/apachecn-dl-zh](https://github.com/apachecn/apachecn-dl-zh) pushed_at:2021-02 star:0.2k fork:0.0k ApacheCN 深度学习译文集
 - [apachecn/apachecn-ds-zh](https://github.com/apachecn/apachecn-ds-zh) pushed_at:2021-03 star:0.1k fork:0.0k :book: [译] ApacheCN 数据科学译文集
 - [apachecn/apachecn-java-zh](https://github.com/apachecn/apachecn-java-zh) pushed_at:2021-04 star:0.0k fork:0.0k :books: [译] ApacheCN Java 译文集
 - [apachecn/apachecn-js-zh](https://github.com/apachecn/apachecn-js-zh) pushed_at:2021-04 star:0.0k fork:0.0k 
@@ -131,7 +131,7 @@
 - [apachecn/fasttext-doc-zh](https://github.com/apachecn/fasttext-doc-zh) pushed_at:2020-11 star:0.1k fork:0.0k FastText 中文文档
 - [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) pushed_at:2020-12 star:2.2k fork:0.6k :book: [译] 面向机器学习的特征工程
 - [apachecn/financial](https://github.com/apachecn/financial) pushed_at:2021-04 star:0.0k fork:0.0k 投资理财 - 专注于智能算法投资
-- [apachecn/flink-doc-zh](https://github.com/apachecn/flink-doc-zh) pushed_at:2021-01 star:0.2k fork:0.1k Apache Flink 中文文档
+- [apachecn/flink-doc-zh](https://github.com/apachecn/flink-doc-zh) pushed_at:2021-04 star:0.3k fork:0.1k Apache Flink 中文文档
 - [apachecn/gensim-doc-zh](https://github.com/apachecn/gensim-doc-zh) pushed_at:2021-01 star:0.1k fork:0.0k gensim 中文文档
 - [apachecn/git-doc-zh](https://github.com/apachecn/git-doc-zh) pushed_at:2021-01 star:0.1k fork:0.0k 
 - [apachecn/gitbook-plugin-pagefooter-apachecn](https://github.com/apachecn/gitbook-plugin-pagefooter-apachecn) pushed_at:2019-06 star:0.0k fork:0.0k 
@@ -149,7 +149,7 @@
 - [apachecn/kibana-doc-zh](https://github.com/apachecn/kibana-doc-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] kibana 中文文档
 - [apachecn/kudu-doc-zh](https://github.com/apachecn/kudu-doc-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] kudu 中文文档
 - [apachecn/lightgbm-doc-zh](https://github.com/apachecn/lightgbm-doc-zh) pushed_at:2020-12 star:0.7k fork:0.2k LightGBM 中文文档
-- [apachecn/mit-18.06-linalg-notes](https://github.com/apachecn/mit-18.06-linalg-notes) pushed_at:2021-01 star:1.6k fork:0.6k MIT 18.06 线性代数笔记
+- [apachecn/mit-18.06-linalg-notes](https://github.com/apachecn/mit-18.06-linalg-notes) pushed_at:2021-01 star:1.7k fork:0.6k MIT 18.06 线性代数笔记
 - [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) pushed_at:2021-02 star:0.4k fork:0.1k :book: [译] MachineLearningMastery 博客文章
 - [apachecn/nlp-pytorch-zh](https://github.com/apachecn/nlp-pytorch-zh) pushed_at:2021-01 star:0.6k fork:0.2k 《Natural Language Processing with PyTorch》中文翻译
 - [apachecn/numba-doc-zh](https://github.com/apachecn/numba-doc-zh) pushed_at:2021-01 star:0.0k fork:0.0k Numba 0.44 中文文档
@@ -331,11 +331,11 @@
 
 ## Python
 
-- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-01 star:29.4k fork:9.9k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-01 star:29.5k fork:10.0k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [apachecn/awesome-data-comp-solution](https://github.com/apachecn/awesome-data-comp-solution) pushed_at:2020-09 star:0.4k fork:0.1k 数据科学/人工智能比赛解决方案汇总
 - [apachecn/BiliDriveEx](https://github.com/apachecn/BiliDriveEx) pushed_at:2020-03 star:0.1k fork:0.0k :cloud: 已停更，请访问 CDNDrive：
 - [apachecn/BookerTrans](https://github.com/apachecn/BookerTrans) pushed_at:2021-04 star:0.0k fork:0.0k 用于 iBooker/ApacheCN 翻译项目的 HTML 谷歌翻译工具
-- [apachecn/CDNDrive](https://github.com/apachecn/CDNDrive) pushed_at:2021-03 star:0.3k fork:0.0k :cloud: CDNDrive = BiliDrive + SuperBed，支持任意文件的全速上传与下载
+- [apachecn/CDNDrive](https://github.com/apachecn/CDNDrive) pushed_at:2021-04 star:0.3k fork:0.0k :cloud: CDNDrive = BiliDrive + SuperBed，支持任意文件的全速上传与下载
 - [apachecn/data](https://github.com/apachecn/data) pushed_at:2020-08 star:0.2k fork:0.2k 
 - [apachecn/fastapi-docs-cn](https://github.com/apachecn/fastapi-docs-cn) pushed_at:2020-03 star:0.0k fork:0.0k 官方文档已经有翻译的人在做了，
 - [apachecn/hudi-doc-zh](https://github.com/apachecn/hudi-doc-zh) pushed_at:2020-01 star:0.0k fork:0.0k hudi 中文文档

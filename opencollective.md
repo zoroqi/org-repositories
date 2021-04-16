@@ -368,7 +368,7 @@
 - [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) pushed_at:2021-04 star:0.0k fork:0.0k The Open Collective PDF Server
 - [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) pushed_at:2021-04 star:0.0k fork:0.0k Prompt your users to donate to your collective after `npm install`
 - [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) pushed_at:2021-04 star:0.0k fork:0.0k Open Collective REST API v1, and v2!
-- [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) pushed_at:2021-03 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
+- [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) pushed_at:2021-04 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
 - [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
 - [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) pushed_at:2020-12 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
 - [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) pushed_at:2018-07 star:0.1k fork:0.0k OpenCollective frontend
