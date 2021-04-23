@@ -35,7 +35,7 @@
 ## C
 
 - [twitter/ccommon](https://github.com/twitter/ccommon) pushed_at:2021-03 star:0.1k fork:0.0k Cache Commons
-- [twitter/fatcache](https://github.com/twitter/fatcache) pushed_at:2017-04 star:1.3k fork:0.2k Memcache on SSD
+- [twitter/fatcache](https://github.com/twitter/fatcache) pushed_at:2021-04 star:1.3k fork:0.2k Memcache on SSD
 - [twitter/ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) pushed_at:2020-10 star:1.8k fork:0.1k Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
 - [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2021-04 star:0.7k fork:0.1k Pelikan is Twitter's unified cache backend
@@ -70,7 +70,7 @@
 
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) pushed_at:2019-06 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-03 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-03 star:12.5k fork:1.4k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-03 star:12.6k fork:1.4k Emoji for everyone. https://twemoji.twitter.com/
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2021-01 star:2.5k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 
 ## Java
@@ -160,7 +160,7 @@
 ## Rust
 
 - [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2021-02 star:0.9k fork:0.1k Systems performance telemetry
-- [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2021-04 star:0.4k fork:0.1k A tool for benchmarking RPC services
+- [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2021-04 star:0.4k fork:0.0k A tool for benchmarking RPC services
 - [twitter/rustcommon](https://github.com/twitter/rustcommon) pushed_at:2021-03 star:0.0k fork:0.0k Common Twitter Rust lib
 
 ## Scala

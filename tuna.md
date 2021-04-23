@@ -64,10 +64,10 @@
 
 ## Others
 
-- [tuna/artwork](https://github.com/tuna/artwork) pushed_at:2021-02 star:0.0k fork:0.0k tuna artwork
+- [tuna/artwork](https://github.com/tuna/artwork) pushed_at:2021-04 star:0.0k fork:0.0k tuna artwork
 - [tuna/Books](https://github.com/tuna/Books) pushed_at:2020-11 star:0.0k fork:0.0k Tracking Books of TUNA Library
 - [tuna/Cash](https://github.com/tuna/Cash) pushed_at:2021-04 star:0.0k fork:0.0k 
-- [tuna/collection](https://github.com/tuna/collection) pushed_at:2015-12 star:0.1k fork:0.0k idea collections from TUNA
+- [tuna/collection](https://github.com/tuna/collection) pushed_at:2015-12 star:0.2k fork:0.0k idea collections from TUNA
 - [tuna/dataset-issues](https://github.com/tuna/dataset-issues) pushed_at:2018-04 star:0.0k fork:0.0k Issues about academic dataset mirrors
 - [tuna/docker-images](https://github.com/tuna/docker-images) pushed_at:2020-09 star:0.0k fork:0.0k Repo for various docker images
 - [tuna/isofusion](https://github.com/tuna/isofusion) pushed_at:2016-05 star:0.0k fork:0.0k scan and create iso filelist from mirrors

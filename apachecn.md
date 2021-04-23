@@ -30,7 +30,7 @@
 
 ## CSS
 
-- [apachecn/airflow-doc-zh](https://github.com/apachecn/airflow-doc-zh) pushed_at:2021-01 star:0.2k fork:0.0k :book: [译] Airflow 中文文档
+- [apachecn/airflow-doc-zh](https://github.com/apachecn/airflow-doc-zh) pushed_at:2021-04 star:0.2k fork:0.1k :book: [译] Airflow 中文文档
 - [apachecn/android-app-sec-guidebook-zh](https://github.com/apachecn/android-app-sec-guidebook-zh) pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/business-5min-notes](https://github.com/apachecn/business-5min-notes) pushed_at:2021-01 star:0.1k fork:0.0k :book: 5 分钟商学院精细笔记
 - [apachecn/django-doc-18-zh](https://github.com/apachecn/django-doc-18-zh) pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Django 中文文档 1.8
@@ -304,7 +304,7 @@
 - [apachecn/shouldiblockads.com](https://github.com/apachecn/shouldiblockads.com) pushed_at:2021-03 star:0.0k fork:0.0k Yes, you should use an ad blocker
 - [apachecn/solidity-doc-zh](https://github.com/apachecn/solidity-doc-zh) pushed_at:2018-03 star:0.0k fork:0.0k Solidity 中文文档
 - [apachecn/Spring-official-reference](https://github.com/apachecn/Spring-official-reference) pushed_at:2019-05 star:0.0k fork:0.0k 📖 [译] Spring 官方文档
-- [apachecn/statsmodels-doc-zh](https://github.com/apachecn/statsmodels-doc-zh) pushed_at:2020-09 star:0.1k fork:0.0k Statsmodels: Python中的统计建模与计量统计学类库，此为ApacheCN推出的中文版翻译。
+- [apachecn/statsmodels-doc-zh](https://github.com/apachecn/statsmodels-doc-zh) pushed_at:2021-04 star:0.1k fork:0.0k Statsmodels: Python中的统计建模与计量统计学类库，此为ApacheCN推出的中文版翻译。
 - [apachecn/studyFiles](https://github.com/apachecn/studyFiles) pushed_at:2019-02 star:0.0k fork:0.0k 一些经典且高质量的电子书分享
 - [apachecn/talib-document](https://github.com/apachecn/talib-document) pushed_at:2021-02 star:0.0k fork:0.0k talib学习 talib中文翻译 talib中文文档
 - [apachecn/tensorflow-doc-zh](https://github.com/apachecn/tensorflow-doc-zh) pushed_at:2019-07 star:0.0k fork:0.0k TensorFlow 中文文档
