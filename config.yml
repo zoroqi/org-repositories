@@ -133,4 +133,7 @@
 - name: opengenus
   userType: org
   file: opengenus.md
+- name: baidu 
+  userType: org
+  file: baidu.md
 
