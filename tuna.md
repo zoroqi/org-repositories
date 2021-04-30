@@ -71,7 +71,7 @@
 - [tuna/dataset-issues](https://github.com/tuna/dataset-issues) pushed_at:2018-04 star:0.0k fork:0.0k Issues about academic dataset mirrors
 - [tuna/docker-images](https://github.com/tuna/docker-images) pushed_at:2020-09 star:0.0k fork:0.0k Repo for various docker images
 - [tuna/isofusion](https://github.com/tuna/isofusion) pushed_at:2016-05 star:0.0k fork:0.0k scan and create iso filelist from mirrors
-- [tuna/issues](https://github.com/tuna/issues) pushed_at:2021-03 star:0.2k fork:0.0k Code Unrelated Issues 
+- [tuna/issues](https://github.com/tuna/issues) pushed_at:2021-03 star:0.3k fork:0.0k Code Unrelated Issues 
 - [tuna/ngx-fancyindex](https://github.com/tuna/ngx-fancyindex) pushed_at:2020-03 star:0.0k fork:0.0k Fancy indexes module for the Nginx web server
 - [tuna/opentuna-site](https://github.com/tuna/opentuna-site) pushed_at:2021-01 star:0.0k fork:0.0k 
 

@@ -155,7 +155,7 @@
 ## Rust
 
 - [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) pushed_at:2021-04 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
-- [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) pushed_at:2021-03 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
+- [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) pushed_at:2021-04 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 
 ## SCSS

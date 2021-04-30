@@ -8,15 +8,15 @@
 
 - [Assembly](#assembly) (4)
 - [BitBake](#bitbake) (1)
-- [C](#c) (15)
+- [C](#c) (16)
 - [C++](#c++) (2)
 - [CSS](#css) (1)
 - [Coq](#coq) (1)
 - [HTML](#html) (1)
-- [JavaScript](#javascript) (1)
+- [JavaScript](#javascript) (2)
 - [Makefile](#makefile) (5)
-- [Others](#others) (37)
-- [Python](#python) (6)
+- [Others](#others) (36)
+- [Python](#python) (5)
 - [Ruby](#ruby) (1)
 - [Shell](#shell) (1)
 - [TeX](#tex) (4)
@@ -24,7 +24,7 @@
 ## Assembly
 
 - [riscv/riscv-arch-test](https://github.com/riscv/riscv-arch-test) pushed_at:2021-04 star:0.2k fork:0.1k 
-- [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) pushed_at:2021-03 star:0.1k fork:0.0k Working draft of the proposed RISC-V Bitmanipulation extension
+- [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) pushed_at:2021-04 star:0.1k fork:0.0k Working draft of the proposed RISC-V Bitmanipulation extension
 - [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) pushed_at:2021-04 star:0.1k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
 - [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) pushed_at:2021-04 star:0.4k fork:0.1k Working draft of the proposed RISC-V V vector extension
 
@@ -34,12 +34,13 @@
 
 ## C
 
+- [riscv/configuration-structure](https://github.com/riscv/configuration-structure) pushed_at:2021-04 star:0.0k fork:0.0k RISC-V Configuration Structure
 - [riscv/opensbi](https://github.com/riscv/opensbi) pushed_at:2021-04 star:0.2k fork:0.1k RISC-V Open Source Supervisor Binary Interface
 - [riscv/riscv-binutils-gdb](https://github.com/riscv/riscv-binutils-gdb) pushed_at:2021-04 star:0.1k fork:0.2k RISC-V backports for binutils-gdb.  Development is done upstream at the FSF.
 - [riscv/riscv-code-speed-optimization](https://github.com/riscv/riscv-code-speed-optimization) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2021-04 star:0.1k fork:0.0k RISC-V cryptography extensions standardisation work.
 - [riscv/riscv-edk2](https://github.com/riscv/riscv-edk2) pushed_at:2021-03 star:0.0k fork:0.0k Port of EDK2 implementation of UEFI to RISC-V. See documentation at:
-- [riscv/riscv-edk2-platforms](https://github.com/riscv/riscv-edk2-platforms) pushed_at:2021-03 star:0.0k fork:0.0k Port of EDK2 implementation of UEFI to RISC-V. See documentation at:
+- [riscv/riscv-edk2-platforms](https://github.com/riscv/riscv-edk2-platforms) pushed_at:2021-04 star:0.0k fork:0.0k Port of EDK2 implementation of UEFI to RISC-V. See documentation at:
 - [riscv/riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain) pushed_at:2021-04 star:1.0k fork:0.5k GNU toolchain for RISC-V, including GCC
 - [riscv/riscv-isa-sim](https://github.com/riscv/riscv-isa-sim) pushed_at:2021-04 star:1.0k fork:0.4k Spike, a RISC-V ISA Simulator
 - [riscv/riscv-newlib](https://github.com/riscv/riscv-newlib) pushed_at:2021-02 star:0.1k fork:0.1k RISC-V port of newlib
@@ -69,6 +70,7 @@
 
 ## JavaScript
 
+- [riscv/docs-templates](https://github.com/riscv/docs-templates) pushed_at:2021-04 star:0.0k fork:0.0k Documentation templates and build tools
 - [riscv/riscv-angel](https://github.com/riscv/riscv-angel) pushed_at:2020-08 star:0.3k fork:0.1k JavaScript RISC-V ISA Simulator. Boots linux in a web-browser.
 
 ## Makefile
@@ -76,19 +78,18 @@
 - [riscv/riscv-CMOs-discuss](https://github.com/riscv/riscv-CMOs-discuss) pushed_at:2020-11 star:0.0k fork:0.0k 
 - [riscv/riscv-elf-psabi-doc](https://github.com/riscv/riscv-elf-psabi-doc) pushed_at:2021-04 star:0.2k fork:0.1k A RISC-V ELF psABI Document
 - [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2021-04 star:0.0k fork:0.0k RISC-V Profiles and Platform Specification
-- [riscv/riscv-sbi-doc](https://github.com/riscv/riscv-sbi-doc) pushed_at:2021-03 star:0.1k fork:0.0k Documentation for the RISC-V Supervisor Binary Interface
+- [riscv/riscv-sbi-doc](https://github.com/riscv/riscv-sbi-doc) pushed_at:2021-04 star:0.1k fork:0.0k Documentation for the RISC-V Supervisor Binary Interface
 - [riscv/riscv-semihosting-spec](https://github.com/riscv/riscv-semihosting-spec) pushed_at:2020-04 star:0.0k fork:0.0k 
 
 ## Others
 
 - [riscv/community](https://github.com/riscv/community) pushed_at:2021-03 star:0.0k fork:0.0k RISC-V Community materials
 - [riscv/debug-taskgroup](https://github.com/riscv/debug-taskgroup) pushed_at:2017-03 star:0.0k fork:0.0k Overview page for the RISC-V debug task group
-- [riscv/docs-templates](https://github.com/riscv/docs-templates) pushed_at:2021-04 star:0.0k fork:0.0k Documentation templates and build tools
-- [riscv/educational-materials](https://github.com/riscv/educational-materials) pushed_at:2021-03 star:0.1k fork:0.0k Educational materials for RISC-V
+- [riscv/educational-materials](https://github.com/riscv/educational-materials) pushed_at:2021-03 star:0.2k fork:0.0k Educational materials for RISC-V
 - [riscv/genz-on-riscv](https://github.com/riscv/genz-on-riscv) pushed_at:2019-04 star:0.0k fork:0.0k 
 - [riscv/governance](https://github.com/riscv/governance) pushed_at:2021-03 star:0.0k fork:0.0k RISC-V Governance
 - [riscv/groups](https://github.com/riscv/groups) pushed_at:2021-04 star:0.0k fork:0.0k RISC-V Technical Working Groups - charter, meeting minutes, planning documents
-- [riscv/marketing](https://github.com/riscv/marketing) pushed_at:2021-03 star:0.0k fork:0.0k RISC-V Marketing Materials
+- [riscv/marketing](https://github.com/riscv/marketing) pushed_at:2021-04 star:0.0k fork:0.0k RISC-V Marketing Materials
 - [riscv/riscv-aia](https://github.com/riscv/riscv-aia) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [riscv/riscv-alt-fp](https://github.com/riscv/riscv-alt-fp) pushed_at:2021-04 star:0.0k fork:0.0k RISC-V Alternate FP Format
 - [riscv/riscv-arch-test-reports](https://github.com/riscv/riscv-arch-test-reports) pushed_at:2021-02 star:0.0k fork:0.0k 
@@ -100,10 +101,10 @@
 - [riscv/riscv-embedded-sig](https://github.com/riscv/riscv-embedded-sig) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [riscv/riscv-gcc](https://github.com/riscv/riscv-gcc) pushed_at:2021-04 star:0.2k fork:0.2k 
 - [riscv/riscv-glibc](https://github.com/riscv/riscv-glibc) pushed_at:2021-03 star:0.1k fork:0.1k RISC-V port of GNU's libc
-- [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) pushed_at:2021-03 star:0.0k fork:0.0k Working Draft of the RISC-V J Extension Specification
+- [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) pushed_at:2021-04 star:0.0k fork:0.0k Working Draft of the RISC-V J Extension Specification
 - [riscv/riscv-overlay](https://github.com/riscv/riscv-overlay) pushed_at:2021-04 star:0.0k fork:0.0k The Software Overlay TG will specify the requirements for the software overlay feature, both from the FW manager  engine and from toolchain aspects, all which will be based on the current RISC-V ISA and extensions.
 - [riscv/riscv-ovpsim](https://github.com/riscv/riscv-ovpsim) pushed_at:2021-01 star:0.0k fork:0.0k 
-- [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) pushed_at:2021-03 star:0.0k fork:0.0k RISC-V Packed SIMD Extension
+- [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) pushed_at:2021-04 star:0.0k fork:0.0k RISC-V Packed SIMD Extension
 - [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) pushed_at:2020-12 star:0.0k fork:0.0k PLIC Specification
 - [riscv/riscv-rasd](https://github.com/riscv/riscv-rasd) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [riscv/riscv-smbios](https://github.com/riscv/riscv-smbios) pushed_at:2019-03 star:0.0k fork:0.0k RISC-V SMBIOS Type 44 Spec
@@ -114,14 +115,13 @@
 - [riscv/riscv-toolchain-conventions](https://github.com/riscv/riscv-toolchain-conventions) pushed_at:2021-04 star:0.0k fork:0.0k Documenting the expected behaviour and supported command-line switches for GNU and LLVM based RISC-V toolchains
 - [riscv/riscv-toolchains-runtimes](https://github.com/riscv/riscv-toolchains-runtimes) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [riscv/riscv-uefi-edk2-docs](https://github.com/riscv/riscv-uefi-edk2-docs) pushed_at:2021-01 star:0.0k fork:0.0k Documentation and status of UEFI on RISC-V
-- [riscv/riscv-zfinx](https://github.com/riscv/riscv-zfinx) pushed_at:2021-03 star:0.0k fork:0.0k 
+- [riscv/riscv-zfinx](https://github.com/riscv/riscv-zfinx) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [riscv/tee-spec](https://github.com/riscv/tee-spec) pushed_at:2019-07 star:0.0k fork:0.0k 
 - [riscv/trace-debug-docs](https://github.com/riscv/trace-debug-docs) pushed_at:2020-03 star:0.0k fork:0.0k 
-- [riscv/virtual-memory](https://github.com/riscv/virtual-memory) pushed_at:2021-03 star:0.0k fork:0.0k 
+- [riscv/virtual-memory](https://github.com/riscv/virtual-memory) pushed_at:2021-04 star:0.0k fork:0.0k 
 
 ## Python
 
-- [riscv/configuration-structure](https://github.com/riscv/configuration-structure) pushed_at:2021-04 star:0.0k fork:0.0k RISC-V Configuration Structure
 - [riscv/riscv-config](https://github.com/riscv/riscv-config) pushed_at:2021-03 star:0.0k fork:0.0k RISC-V Configuration Validator
 - [riscv/riscv-ctg](https://github.com/riscv/riscv-ctg) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [riscv/riscv-device-tree-doc](https://github.com/riscv/riscv-device-tree-doc) pushed_at:2018-07 star:0.0k fork:0.0k RISC-V Specific Device Tree Documentation
@@ -134,13 +134,13 @@
 
 ## Shell
 
-- [riscv/riscv-tools](https://github.com/riscv/riscv-tools) pushed_at:2020-08 star:0.8k fork:0.4k RISC-V Tools (ISA Simulator and Tests)
+- [riscv/riscv-tools](https://github.com/riscv/riscv-tools) pushed_at:2020-08 star:0.9k fork:0.4k RISC-V Tools (ISA Simulator and Tests)
 
 ## TeX
 
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) pushed_at:2021-04 star:0.2k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
 - [riscv/riscv-dejagnu](https://github.com/riscv/riscv-dejagnu) pushed_at:2018-01 star:0.0k fork:0.1k DejaGnu RISC-V port
-- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2021-04 star:1.2k fork:0.3k RISC-V Instruction Set Manual
+- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2021-04 star:1.3k fork:0.3k RISC-V Instruction Set Manual
 - [riscv/riscv-trace-spec](https://github.com/riscv/riscv-trace-spec) pushed_at:2021-04 star:0.1k fork:0.0k Working Draft of the RISC-V Processor Trace Specification
 
 
