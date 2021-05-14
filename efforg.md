@@ -39,7 +39,7 @@
 - [EFForg/https-everywhere-atlas](https://github.com/EFForg/https-everywhere-atlas) pushed_at:2021-03 star:0.0k fork:0.0k Static site generator for the HTTPS-Everywhere atlas.
 - [EFForg/petition-widget](https://github.com/EFForg/petition-widget) pushed_at:2014-08 star:0.0k fork:0.0k Boilerplate code for embedding petitions
 - [EFForg/projectsecretidentity](https://github.com/EFForg/projectsecretidentity) pushed_at:2015-08 star:0.0k fork:0.0k 
-- [EFForg/sphinx_rtd_theme](https://github.com/EFForg/sphinx_rtd_theme) pushed_at:2020-06 star:0.0k fork:0.0k Sphinx theme for readthedocs.org
+- [EFForg/sphinx_rtd_theme](https://github.com/EFForg/sphinx_rtd_theme) pushed_at:2021-05 star:0.0k fork:0.0k Sphinx theme for readthedocs.org
 - [EFForg/starttls-frontend](https://github.com/EFForg/starttls-frontend) pushed_at:2021-05 star:0.0k fork:0.0k Static front end for the STARTTLS scanner
 - [EFForg/stop-sesta](https://github.com/EFForg/stop-sesta) pushed_at:2019-01 star:0.0k fork:0.0k 
 
@@ -75,7 +75,7 @@
 - [EFForg/actioncenter-mobile](https://github.com/EFForg/actioncenter-mobile) pushed_at:2018-02 star:0.1k fork:0.0k 2.0
 - [EFForg/congress-forms-test](https://github.com/EFForg/congress-forms-test) pushed_at:2016-03 star:0.0k fork:0.0k Way for volunteers to test EFF's congress-forms repo
 - [EFForg/congress-forms.js](https://github.com/EFForg/congress-forms.js) pushed_at:2014-06 star:0.0k fork:0.0k A javascript widget which can construct plain forms that submit to a contact-congress server.
-- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) pushed_at:2021-04 star:0.1k fork:0.0k Is your browser safe against tracking?
+- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) pushed_at:2021-05 star:0.1k fork:0.0k Is your browser safe against tracking?
 - [EFForg/cyberspying](https://github.com/EFForg/cyberspying) pushed_at:2015-12 star:0.0k fork:0.0k cyberspying.eff.org twitter tool
 - [EFForg/fight215](https://github.com/EFForg/fight215) pushed_at:2015-06 star:0.0k fork:0.0k 
 - [EFForg/find-aa-domains](https://github.com/EFForg/find-aa-domains) pushed_at:2019-04 star:0.0k fork:0.0k Create a script to find domains in the PB pre-block list which are mentioned in the Acceptable Ads list as well
@@ -160,7 +160,7 @@
 
 ## SCSS
 
-- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) pushed_at:2021-03 star:0.0k fork:0.0k Code and content of https://privacybadger.org
+- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) pushed_at:2021-05 star:0.0k fork:0.0k Code and content of https://privacybadger.org
 
 ## Shell
 

@@ -42,7 +42,7 @@
 - [twitter/torch-ipc](https://github.com/twitter/torch-ipc) pushed_at:2017-06 star:0.1k fork:0.0k A set of primitives for parallel computation in Torch
 - [twitter/torch-thrift](https://github.com/twitter/torch-thrift) pushed_at:2016-03 star:0.0k fork:0.0k A Thrift codec for Torch
 - [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2019-08 star:0.9k fork:0.1k Twemcache is the Twitter Memcached
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-04 star:10.6k fork:1.9k A fast, light-weight proxy for memcached and redis
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-05 star:10.6k fork:1.9k A fast, light-weight proxy for memcached and redis
 
 ## C#
 
@@ -70,8 +70,8 @@
 
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) pushed_at:2019-06 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-03 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-03 star:12.6k fork:1.4k Emoji for everyone. https://twemoji.twitter.com/
-- [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2021-01 star:2.5k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
+- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-05 star:12.7k fork:1.5k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2021-05 star:2.5k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 
 ## Java
 
@@ -94,10 +94,10 @@
 
 - [twitter/check-my-repo](https://github.com/twitter/check-my-repo) pushed_at:2021-03 star:0.0k fork:0.0k Automatically check repositories health and quality and build reports that help us understand the current state of Sauce Labs repositories
 - [twitter/cli-guide.js](https://github.com/twitter/cli-guide.js) pushed_at:2020-09 star:0.0k fork:0.0k CLI Guide JQuery Plugin
-- [twitter/d3kit](https://github.com/twitter/d3kit) pushed_at:2021-03 star:0.4k fork:0.0k D3Kit is a set tools to speed D3 related project development
-- [twitter/hogan.js](https://github.com/twitter/hogan.js) pushed_at:2020-09 star:5.1k fork:0.4k A compiler for the Mustache templating language
-- [twitter/labella.js](https://github.com/twitter/labella.js) pushed_at:2021-03 star:3.8k fork:0.1k Placing labels on a timeline without overlap.
-- [twitter/SentenTree](https://github.com/twitter/SentenTree) pushed_at:2021-03 star:0.2k fork:0.0k A novel text visualization technique
+- [twitter/d3kit](https://github.com/twitter/d3kit) pushed_at:2021-05 star:0.4k fork:0.0k D3Kit is a set tools to speed D3 related project development
+- [twitter/hogan.js](https://github.com/twitter/hogan.js) pushed_at:2020-09 star:5.1k fork:0.5k A compiler for the Mustache templating language
+- [twitter/labella.js](https://github.com/twitter/labella.js) pushed_at:2021-05 star:3.8k fork:0.1k Placing labels on a timeline without overlap.
+- [twitter/SentenTree](https://github.com/twitter/SentenTree) pushed_at:2021-05 star:0.2k fork:0.0k A novel text visualization technique
 - [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) pushed_at:2021-03 star:0.3k fork:0.0k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
 - [twitter/twitter-cldr-npm](https://github.com/twitter/twitter-cldr-npm) pushed_at:2019-08 star:0.0k fork:0.0k TwitterCldr npm package
 - [twitter/typeahead.js](https://github.com/twitter/typeahead.js) pushed_at:2020-12 star:16.3k fork:3.3k typeahead.js is a fast and fully-featured autocomplete library
@@ -169,7 +169,7 @@
 - [twitter/bijection](https://github.com/twitter/bijection) pushed_at:2021-05 star:0.6k fork:0.1k Reversible conversions between types
 - [twitter/cassovary](https://github.com/twitter/cassovary) pushed_at:2019-06 star:1.0k fork:0.1k Cassovary is a simple big graph processing library for the JVM
 - [twitter/chill](https://github.com/twitter/chill) pushed_at:2021-05 star:0.6k fork:0.1k Scala extensions for the Kryo serialization library
-- [twitter/finagle](https://github.com/twitter/finagle) pushed_at:2021-05 star:7.9k fork:1.4k A fault tolerant, protocol-agnostic RPC system
+- [twitter/finagle](https://github.com/twitter/finagle) pushed_at:2021-05 star:8.0k fork:1.4k A fault tolerant, protocol-agnostic RPC system
 - [twitter/finatra](https://github.com/twitter/finatra) pushed_at:2021-05 star:2.1k fork:0.4k Fast, testable, Scala services built on TwitterServer and Finagle
 - [twitter/finatra-activator-http-seed](https://github.com/twitter/finatra-activator-http-seed) pushed_at:2017-10 star:0.0k fork:0.0k Typesafe activator template for constructing a Finatra HTTP server application:
 - [twitter/finatra-activator-thrift-seed](https://github.com/twitter/finatra-activator-thrift-seed) pushed_at:2017-10 star:0.0k fork:0.0k Typesafe activator template for constructing a Finatra Thrift server application: https://twitter.github.io/finatra/user-guide/ —
@@ -184,10 +184,10 @@
 - [twitter/storehaus](https://github.com/twitter/storehaus) pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) pushed_at:2020-11 star:2.1k fork:0.3k Streaming MapReduce with Scalding and Storm
 - [twitter/tormenta](https://github.com/twitter/tormenta) pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
-- [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) pushed_at:2021-03 star:0.1k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
+- [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) pushed_at:2021-05 star:0.1k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) pushed_at:2021-05 star:0.8k fork:0.2k Korean tokenizer
 - [twitter/twitter-server](https://github.com/twitter/twitter-server) pushed_at:2021-05 star:1.2k fork:0.2k Twitter-Server defines a template from which services at Twitter are built
-- [twitter/util](https://github.com/twitter/util) pushed_at:2021-04 star:2.4k fork:0.5k Wonderful reusable code from Twitter
+- [twitter/util](https://github.com/twitter/util) pushed_at:2021-05 star:2.4k fork:0.5k Wonderful reusable code from Twitter
 
 ## Shell
 
@@ -202,7 +202,7 @@
 ## TypeScript
 
 - [twitter/dodo-build](https://github.com/twitter/dodo-build) pushed_at:2021-02 star:0.0k fork:0.0k A Github Action for running Dodo: The Twitter OSS Project Builder
-- [twitter/sqrl](https://github.com/twitter/sqrl) pushed_at:2021-03 star:0.1k fork:0.0k A Safe, Stateful Rules Language for Event Streams
+- [twitter/sqrl](https://github.com/twitter/sqrl) pushed_at:2021-05 star:0.1k fork:0.0k A Safe, Stateful Rules Language for Event Streams
 
 
 ## License

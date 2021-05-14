@@ -9,9 +9,9 @@
 - [C](#c) (1)
 - [C++](#c++) (2)
 - [CSS](#css) (50)
-- [HTML](#html) (15)
+- [HTML](#html) (14)
 - [Java](#java) (5)
-- [JavaScript](#javascript) (78)
+- [JavaScript](#javascript) (79)
 - [Jinja](#jinja) (1)
 - [Jupyter Notebook](#jupyter-notebook) (2)
 - [Others](#others) (133)
@@ -37,11 +37,11 @@
 - [apachecn/business-5min-notes](https://github.com/apachecn/business-5min-notes) pushed_at:2021-01 star:0.1k fork:0.0k :book: 5 分钟商学院精细笔记
 - [apachecn/django-doc-18-zh](https://github.com/apachecn/django-doc-18-zh) pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Django 中文文档 1.8
 - [apachecn/ds-ai-tech-notes](https://github.com/apachecn/ds-ai-tech-notes) pushed_at:2021-01 star:0.1k fork:0.0k :book: [译] 数据科学和人工智能技术笔记
-- [apachecn/ds-ipynb-zh](https://github.com/apachecn/ds-ipynb-zh) pushed_at:2021-01 star:0.1k fork:0.0k :book:  [译] 数据科学 IPython 笔记本
+- [apachecn/ds-ipynb-zh](https://github.com/apachecn/ds-ipynb-zh) pushed_at:2021-05 star:0.1k fork:0.0k :book:  [译] 数据科学 IPython 笔记本
 - [apachecn/eloquent-js-3e-zh](https://github.com/apachecn/eloquent-js-3e-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] JavaScript 编程精解 中文第三版
 - [apachecn/fastai-num-linalg-v2-zh](https://github.com/apachecn/fastai-num-linalg-v2-zh) pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] fast.ai 数值线性代数讲义 v2
 - [apachecn/gainlo-interview-guide-zh](https://github.com/apachecn/gainlo-interview-guide-zh) pushed_at:2020-09 star:0.0k fork:0.0k :books: [译] Gainlo 面试指南
-- [apachecn/geeksforgeeks-zh](https://github.com/apachecn/geeksforgeeks-zh) pushed_at:2021-01 star:0.0k fork:0.0k :book: [译] GeeksForGeeks 翻译计划
+- [apachecn/geeksforgeeks-zh](https://github.com/apachecn/geeksforgeeks-zh) pushed_at:2021-05 star:0.0k fork:0.0k :book: [译] GeeksForGeeks 翻译计划
 - [apachecn/gen-epub](https://github.com/apachecn/gen-epub) pushed_at:2021-02 star:0.0k fork:0.0k 用于生成 EPUB 的小工具。
 - [apachecn/hands-on-ml-2e-zh](https://github.com/apachecn/hands-on-ml-2e-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] Sklearn 与 TensorFlow 机器学习实用指南第二版
 - [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) pushed_at:2019-04 star:3.5k fork:1.5k :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
@@ -55,7 +55,7 @@
 - [apachecn/learning-tf-zh](https://github.com/apachecn/learning-tf-zh) pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] TensorFlow 学习指南
 - [apachecn/llthw-zh](https://github.com/apachecn/llthw-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] 笨办法学 Linux 中文版
 - [apachecn/lmpythw-zh](https://github.com/apachecn/lmpythw-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] 笨办法学 Python · 续 中文版
-- [apachecn/lqcuq-zh](https://github.com/apachecn/lqcuq-zh) pushed_at:2021-02 star:0.0k fork:0.0k 使用Qiskit学习量子计算
+- [apachecn/lqcuq-zh](https://github.com/apachecn/lqcuq-zh) pushed_at:2021-05 star:0.0k fork:0.0k 使用Qiskit学习量子计算
 - [apachecn/LxxyxResume](https://github.com/apachecn/LxxyxResume) pushed_at:2019-06 star:0.0k fork:0.0k 前端简历生成器
 - [apachecn/matplotlib-doc-zh](https://github.com/apachecn/matplotlib-doc-zh) pushed_at:2020-12 star:0.2k fork:0.1k :book: [译] Matplotlib 用户指南
 - [apachecn/ml-for-humans-zh](https://github.com/apachecn/ml-for-humans-zh) pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] 写给人类的机器学习
@@ -66,7 +66,7 @@
 - [apachecn/pandas-cookbook-code-notes](https://github.com/apachecn/pandas-cookbook-code-notes) pushed_at:2021-01 star:0.1k fork:0.0k :book: Pandas Cookbook 带注释源码
 - [apachecn/principles-zh](https://github.com/apachecn/principles-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: 原则 · 中文版
 - [apachecn/pyda-2e-zh](https://github.com/apachecn/pyda-2e-zh) pushed_at:2021-01 star:0.9k fork:0.3k :book:  [译] 利用 Python 进行数据分析 · 第 2 版
-- [apachecn/quant-learning](https://github.com/apachecn/quant-learning) pushed_at:2021-01 star:0.1k fork:0.0k :books: Quant 教程整理
+- [apachecn/quant-learning](https://github.com/apachecn/quant-learning) pushed_at:2021-05 star:0.1k fork:0.0k :books: Quant 教程整理
 - [apachecn/scapy-docs-zh](https://github.com/apachecn/scapy-docs-zh) pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/scipycon-2018-sklearn-tut-zh](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh) pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] SciPyCon 2018 Sklearn 教程
 - [apachecn/sicp-py-zh](https://github.com/apachecn/sicp-py-zh) pushed_at:2021-01 star:0.0k fork:0.0k :book: [译] UCB CS61a SICP Python 描述 中文版
@@ -99,7 +99,6 @@
 - [apachecn/numpy-doc-zh](https://github.com/apachecn/numpy-doc-zh) pushed_at:2019-03 star:0.1k fork:0.0k :book: [译] NumPy 中文参考（待校对）
 - [apachecn/online-resume](https://github.com/apachecn/online-resume) pushed_at:2019-07 star:0.0k fork:0.0k 项目部署流程先从初始化Git库开始，编辑简历文件，将文件部署在Github Pages上，最后可以将其保存为pdf格式并打印出来。
 - [apachecn/pandas-doc-zh](https://github.com/apachecn/pandas-doc-zh) pushed_at:2019-03 star:0.2k fork:0.1k :book: [译] Pandas 中文文档（待校对）
-- [apachecn/tech-review](https://github.com/apachecn/tech-review) pushed_at:2020-12 star:0.0k fork:0.0k :books: ApacheCN 技术评论
 
 ## Java
 
@@ -111,28 +110,28 @@
 
 ## JavaScript
 
-- [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) pushed_at:2021-03 star:10.3k fork:2.2k ApacheCN 数据结构与算法译文集
-- [apachecn/apachecn-c-cpp-zh](https://github.com/apachecn/apachecn-c-cpp-zh) pushed_at:2021-04 star:0.0k fork:0.0k :books: [译] ApacheCN C/C++ 译文集
+- [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) pushed_at:2021-05 star:10.3k fork:2.2k ApacheCN 数据结构与算法译文集
+- [apachecn/apachecn-c-cpp-zh](https://github.com/apachecn/apachecn-c-cpp-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN C/C++ 译文集
 - [apachecn/apachecn-cs-zh](https://github.com/apachecn/apachecn-cs-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN 计算机科学译文集
-- [apachecn/apachecn-cv-zh](https://github.com/apachecn/apachecn-cv-zh) pushed_at:2021-02 star:0.0k fork:0.0k :books: [译] ApacheCN CV 译文集
+- [apachecn/apachecn-cv-zh](https://github.com/apachecn/apachecn-cv-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN CV 译文集
 - [apachecn/apachecn-dl-zh](https://github.com/apachecn/apachecn-dl-zh) pushed_at:2021-05 star:0.2k fork:0.0k ApacheCN 深度学习译文集
 - [apachecn/apachecn-ds-zh](https://github.com/apachecn/apachecn-ds-zh) pushed_at:2021-05 star:0.1k fork:0.0k :book: [译] ApacheCN 数据科学译文集
 - [apachecn/apachecn-java-zh](https://github.com/apachecn/apachecn-java-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN Java 译文集
 - [apachecn/apachecn-js-zh](https://github.com/apachecn/apachecn-js-zh) pushed_at:2021-05 star:0.0k fork:0.0k 
-- [apachecn/apachecn-linux-zh](https://github.com/apachecn/apachecn-linux-zh) pushed_at:2021-01 star:0.0k fork:0.0k :books: [译] ApacheCN Linux 译文集
+- [apachecn/apachecn-linux-zh](https://github.com/apachecn/apachecn-linux-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN Linux 译文集
 - [apachecn/apachecn-ml-zh](https://github.com/apachecn/apachecn-ml-zh) pushed_at:2021-05 star:0.0k fork:0.0k ApacheCN 机器学习译文集
-- [apachecn/apachecn-python-zh](https://github.com/apachecn/apachecn-python-zh) pushed_at:2021-01 star:0.0k fork:0.0k :books: ApacheCN Python 译文集
-- [apachecn/apachecn-ruby-zh](https://github.com/apachecn/apachecn-ruby-zh) pushed_at:2021-01 star:0.0k fork:0.0k :book: ApacheCN Ruby 译文集
+- [apachecn/apachecn-python-zh](https://github.com/apachecn/apachecn-python-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: ApacheCN Python 译文集
+- [apachecn/apachecn-ruby-zh](https://github.com/apachecn/apachecn-ruby-zh) pushed_at:2021-05 star:0.0k fork:0.0k :book: ApacheCN Ruby 译文集
 - [apachecn/apachecn-sec-zh](https://github.com/apachecn/apachecn-sec-zh) pushed_at:2021-05 star:0.0k fork:0.0k ApacheCN 网络安全译文集
-- [apachecn/beginnersbook-zh](https://github.com/apachecn/beginnersbook-zh) pushed_at:2021-01 star:0.1k fork:0.0k :books: [译] BeginnersBook 中文系列教程
-- [apachecn/bio-chem-env-mat-discourage](https://github.com/apachecn/bio-chem-env-mat-discourage) pushed_at:2021-04 star:0.0k fork:0.0k :book: 生化环材劝退文集
+- [apachecn/beginnersbook-zh](https://github.com/apachecn/beginnersbook-zh) pushed_at:2021-05 star:0.1k fork:0.0k :books: [译] BeginnersBook 中文系列教程
+- [apachecn/bio-chem-env-mat-discourage](https://github.com/apachecn/bio-chem-env-mat-discourage) pushed_at:2021-05 star:0.0k fork:0.0k :book: 生化环材劝退文集
 - [apachecn/calc4b-zh](https://github.com/apachecn/calc4b-zh) pushed_at:2021-01 star:0.1k fork:0.0k :book: [译] MIT 18.03 面向初学者的微积分
 - [apachecn/cython-doc-zh](https://github.com/apachecn/cython-doc-zh) pushed_at:2021-01 star:0.1k fork:0.0k Cython 3.0 中文文档
 - [apachecn/dataviz-zh](https://github.com/apachecn/dataviz-zh) pushed_at:2021-01 star:0.0k fork:0.0k :book: 【译】数据可视化的基础知识
-- [apachecn/doc-template](https://github.com/apachecn/doc-template) pushed_at:2021-01 star:0.0k fork:0.0k ApacheCN Docsify 文档项目模板
+- [apachecn/doc-template](https://github.com/apachecn/doc-template) pushed_at:2021-05 star:0.0k fork:0.0k ApacheCN Docsify 文档项目模板
 - [apachecn/doctool](https://github.com/apachecn/doctool) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [apachecn/ds100-textbook-zh](https://github.com/apachecn/ds100-textbook-zh) pushed_at:2021-01 star:0.1k fork:0.0k :book: [译] UCB DS100 数据科学的原理与技巧
-- [apachecn/dsai-wiki](https://github.com/apachecn/dsai-wiki) pushed_at:2020-12 star:0.0k fork:0.0k :books: ApacheCN 数据科学和人工智能知识库
+- [apachecn/dsai-wiki](https://github.com/apachecn/dsai-wiki) pushed_at:2021-05 star:0.0k fork:0.0k :books: ApacheCN 数据科学和人工智能知识库
 - [apachecn/elasticsearch-doc-zh](https://github.com/apachecn/elasticsearch-doc-zh) pushed_at:2020-12 star:0.1k fork:0.0k :book: [译] elasticsearch 中文文档
 - [apachecn/epub-crawler](https://github.com/apachecn/epub-crawler) pushed_at:2020-10 star:0.0k fork:0.0k 用于抓取网页内容并制作 EPUB 的小工具。
 - [apachecn/fasttext-doc-zh](https://github.com/apachecn/fasttext-doc-zh) pushed_at:2020-11 star:0.1k fork:0.0k FastText 中文文档
@@ -143,44 +142,45 @@
 - [apachecn/git-doc-zh](https://github.com/apachecn/git-doc-zh) pushed_at:2021-01 star:0.1k fork:0.0k 
 - [apachecn/gitbook-plugin-pagefooter-apachecn](https://github.com/apachecn/gitbook-plugin-pagefooter-apachecn) pushed_at:2019-06 star:0.0k fork:0.0k 
 - [apachecn/gitlab-doc-zh](https://github.com/apachecn/gitlab-doc-zh) pushed_at:2021-01 star:0.0k fork:0.0k :book: [译] Gitlab 中文文档
-- [apachecn/guru99-zh](https://github.com/apachecn/guru99-zh) pushed_at:2021-01 star:0.0k fork:0.0k 
+- [apachecn/guru99-zh](https://github.com/apachecn/guru99-zh) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [apachecn/hbase-doc-zh](https://github.com/apachecn/hbase-doc-zh) pushed_at:2021-01 star:0.2k fork:0.1k :book: HBase 中文参考指南
-- [apachecn/highscalability-examples-zh](https://github.com/apachecn/highscalability-examples-zh) pushed_at:2021-02 star:0.0k fork:0.0k :book: [译] HighScalability 中文示例
-- [apachecn/howtodoinjava-zh](https://github.com/apachecn/howtodoinjava-zh) pushed_at:2021-01 star:0.1k fork:0.0k :book: [译] HowToDoInJava 中文系列教程
-- [apachecn/ibooker-plain-dealer](https://github.com/apachecn/ibooker-plain-dealer) pushed_at:2020-12 star:0.0k fork:0.0k iBooker 老实人报
+- [apachecn/highscalability-examples-zh](https://github.com/apachecn/highscalability-examples-zh) pushed_at:2021-05 star:0.0k fork:0.0k :book: [译] HighScalability 中文示例
+- [apachecn/howtodoinjava-zh](https://github.com/apachecn/howtodoinjava-zh) pushed_at:2021-05 star:0.1k fork:0.0k :book: [译] HowToDoInJava 中文系列教程
+- [apachecn/ibooker-plain-dealer](https://github.com/apachecn/ibooker-plain-dealer) pushed_at:2021-05 star:0.0k fork:0.0k iBooker 老实人报
 - [apachecn/impatient-js-zh](https://github.com/apachecn/impatient-js-zh) pushed_at:2021-01 star:0.3k fork:0.0k :book: [译] 写给不耐烦程序员的 JavaScript
-- [apachecn/jbt-zh](https://github.com/apachecn/jbt-zh) pushed_at:2021-01 star:0.0k fork:0.0k :book: [译] JavaBeginnersTutorial 中文系列教程
+- [apachecn/jbt-zh](https://github.com/apachecn/jbt-zh) pushed_at:2021-05 star:0.0k fork:0.0k :book: [译] JavaBeginnersTutorial 中文系列教程
 - [apachecn/js-module-introduce-myself](https://github.com/apachecn/js-module-introduce-myself) pushed_at:2020-09 star:0.0k fork:0.0k JavaScript Modularization Journey
-- [apachecn/jtn-zh](https://github.com/apachecn/jtn-zh) pushed_at:2021-01 star:0.0k fork:0.0k :books: [译] JavaTutorialNetwork 中文系列教程
+- [apachecn/jtn-zh](https://github.com/apachecn/jtn-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] JavaTutorialNetwork 中文系列教程
 - [apachecn/kaggle-crawler](https://github.com/apachecn/kaggle-crawler) pushed_at:2019-08 star:0.0k fork:0.0k 
 - [apachecn/kibana-doc-zh](https://github.com/apachecn/kibana-doc-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] kibana 中文文档
 - [apachecn/kudu-doc-zh](https://github.com/apachecn/kudu-doc-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] kudu 中文文档
 - [apachecn/lightgbm-doc-zh](https://github.com/apachecn/lightgbm-doc-zh) pushed_at:2020-12 star:0.7k fork:0.2k LightGBM 中文文档
 - [apachecn/mit-18.06-linalg-notes](https://github.com/apachecn/mit-18.06-linalg-notes) pushed_at:2021-01 star:1.7k fork:0.6k MIT 18.06 线性代数笔记
-- [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) pushed_at:2021-02 star:0.4k fork:0.1k :book: [译] MachineLearningMastery 博客文章
+- [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) pushed_at:2021-05 star:0.4k fork:0.1k :book: [译] MachineLearningMastery 博客文章
 - [apachecn/nlp-pytorch-zh](https://github.com/apachecn/nlp-pytorch-zh) pushed_at:2021-01 star:0.6k fork:0.2k 《Natural Language Processing with PyTorch》中文翻译
 - [apachecn/numba-doc-zh](https://github.com/apachecn/numba-doc-zh) pushed_at:2021-01 star:0.0k fork:0.0k Numba 0.44 中文文档
 - [apachecn/opencv-doc-zh](https://github.com/apachecn/opencv-doc-zh) pushed_at:2021-01 star:0.3k fork:0.1k :book: [译] OpenCV 中文文档
 - [apachecn/prob140-textbook-zh](https://github.com/apachecn/prob140-textbook-zh) pushed_at:2020-09 star:0.5k fork:0.0k :book: [译] 面向数据科学的概率论
-- [apachecn/programiz-zh](https://github.com/apachecn/programiz-zh) pushed_at:2021-03 star:0.0k fork:0.0k :book: [译] Programiz 中文系列教程
+- [apachecn/programiz-zh](https://github.com/apachecn/programiz-zh) pushed_at:2021-05 star:0.0k fork:0.0k :book: [译] Programiz 中文系列教程
 - [apachecn/pyminer-dev-guide](https://github.com/apachecn/pyminer-dev-guide) pushed_at:2020-11 star:0.0k fork:0.0k PyMiner 开发者指南
 - [apachecn/pyqt4-doc-zh](https://github.com/apachecn/pyqt4-doc-zh) pushed_at:2021-01 star:0.0k fork:0.0k PyQt4 中文文档 
-- [apachecn/python-programming-net-zh](https://github.com/apachecn/python-programming-net-zh) pushed_at:2020-12 star:0.0k fork:0.0k PythonProgramming.net 系列教程
-- [apachecn/pythonbasics-zh](https://github.com/apachecn/pythonbasics-zh) pushed_at:2021-01 star:0.0k fork:0.0k :book: [译] PythonBasics 中文系列教程
-- [apachecn/pythonguru-zh](https://github.com/apachecn/pythonguru-zh) pushed_at:2021-01 star:0.0k fork:0.0k :book: [译] PythonGuru 中文系列教程
-- [apachecn/pythonspot-zh](https://github.com/apachecn/pythonspot-zh) pushed_at:2021-01 star:0.0k fork:0.0k :books: [译] PythonSpot 中文系列教程
-- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) pushed_at:2021-04 star:3.0k fork:0.9k Pytorch 中文文档
+- [apachecn/python-programming-net-zh](https://github.com/apachecn/python-programming-net-zh) pushed_at:2021-05 star:0.0k fork:0.0k PythonProgramming.net 系列教程
+- [apachecn/pythonbasics-zh](https://github.com/apachecn/pythonbasics-zh) pushed_at:2021-05 star:0.0k fork:0.0k :book: [译] PythonBasics 中文系列教程
+- [apachecn/pythonguru-zh](https://github.com/apachecn/pythonguru-zh) pushed_at:2021-05 star:0.0k fork:0.0k :book: [译] PythonGuru 中文系列教程
+- [apachecn/pythonspot-zh](https://github.com/apachecn/pythonspot-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] PythonSpot 中文系列教程
+- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) pushed_at:2021-05 star:3.0k fork:0.9k Pytorch 中文文档
 - [apachecn/scrapy-doc-zh](https://github.com/apachecn/scrapy-doc-zh) pushed_at:2021-01 star:0.0k fork:0.0k Scrapy 1.6 文档
 - [apachecn/seaborn-doc-zh](https://github.com/apachecn/seaborn-doc-zh) pushed_at:2021-01 star:0.1k fork:0.1k :book: [译] seaborn 0.9 中文文档
-- [apachecn/sec-wiki](https://github.com/apachecn/sec-wiki) pushed_at:2021-01 star:0.0k fork:0.0k ApacheCN 安全知识库
+- [apachecn/sec-wiki](https://github.com/apachecn/sec-wiki) pushed_at:2021-05 star:0.0k fork:0.0k ApacheCN 安全知识库
 - [apachecn/sicp-js-zh](https://github.com/apachecn/sicp-js-zh) pushed_at:2021-01 star:0.0k fork:0.0k :book: 【译】NUS CS1101s SICP JavaScript 描述
 - [apachecn/spark-doc-zh](https://github.com/apachecn/spark-doc-zh) pushed_at:2021-01 star:1.1k fork:0.3k Apache Spark 官方文档中文版
 - [apachecn/spring-boot-doc-zh](https://github.com/apachecn/spring-boot-doc-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] spring-boot 中文文档
-- [apachecn/stanford-cs183-notes](https://github.com/apachecn/stanford-cs183-notes) pushed_at:2021-01 star:0.1k fork:0.0k :books: [译] 斯坦福 CS183 系列中文笔记
+- [apachecn/stanford-cs183-notes](https://github.com/apachecn/stanford-cs183-notes) pushed_at:2021-05 star:0.1k fork:0.0k :books: [译] 斯坦福 CS183 系列中文笔记
 - [apachecn/stats-thinking-21-zh](https://github.com/apachecn/stats-thinking-21-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: 【译】斯坦福 Stats60 21 世纪的统计思维
 - [apachecn/storage_fee](https://github.com/apachecn/storage_fee) pushed_at:2021-02 star:0.0k fork:0.0k Cold Storage Fee
 - [apachecn/storm-doc-zh](https://github.com/apachecn/storm-doc-zh) pushed_at:2020-12 star:0.1k fork:0.1k Apache Storm 官方文档中文版
-- [apachecn/team-wiki](https://github.com/apachecn/team-wiki) pushed_at:2021-02 star:0.0k fork:0.0k iBooker 团队知识库
+- [apachecn/team-wiki](https://github.com/apachecn/team-wiki) pushed_at:2021-05 star:0.0k fork:0.0k iBooker 团队知识库
+- [apachecn/tech-review](https://github.com/apachecn/tech-review) pushed_at:2021-05 star:0.0k fork:0.0k :books: ApacheCN 技术评论
 - [apachecn/theme-apachecn](https://github.com/apachecn/theme-apachecn) pushed_at:2020-04 star:0.0k fork:0.0k 
 - [apachecn/think-py-2e-zh](https://github.com/apachecn/think-py-2e-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] Think Python 中文第二版
 - [apachecn/ucb-cs294-112-notes-zh](https://github.com/apachecn/ucb-cs294-112-notes-zh) pushed_at:2021-01 star:0.0k fork:0.0k UCB CS294-112 深度强化学习中文笔记
@@ -188,7 +188,7 @@
 - [apachecn/web-hacking-101-zh](https://github.com/apachecn/web-hacking-101-zh) pushed_at:2020-12 star:0.0k fork:0.0k 
 - [apachecn/xgboost-doc-zh](https://github.com/apachecn/xgboost-doc-zh) pushed_at:2021-01 star:0.5k fork:0.1k XGBoost 中文文档
 - [apachecn/zeppelin-doc-zh](https://github.com/apachecn/zeppelin-doc-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] zeppelin 中文文档
-- [apachecn/zetcode-zh](https://github.com/apachecn/zetcode-zh) pushed_at:2021-01 star:0.1k fork:0.0k :books: [译] Zetcode 中文系列教程
+- [apachecn/zetcode-zh](https://github.com/apachecn/zetcode-zh) pushed_at:2021-05 star:0.1k fork:0.0k :books: [译] Zetcode 中文系列教程
 
 ## Jinja
 
@@ -342,7 +342,7 @@
 
 ## Python
 
-- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-04 star:29.7k fork:10.0k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-05 star:29.7k fork:10.0k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [apachecn/awesome-data-comp-solution](https://github.com/apachecn/awesome-data-comp-solution) pushed_at:2020-09 star:0.5k fork:0.1k 数据科学/人工智能比赛解决方案汇总
 - [apachecn/BiliDriveEx](https://github.com/apachecn/BiliDriveEx) pushed_at:2020-03 star:0.1k fork:0.0k :cloud: 已停更，请访问 CDNDrive：
 - [apachecn/BookerTrans](https://github.com/apachecn/BookerTrans) pushed_at:2021-04 star:0.0k fork:0.0k 用于 iBooker/ApacheCN 翻译项目的 HTML 谷歌翻译工具

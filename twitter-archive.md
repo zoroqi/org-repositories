@@ -119,7 +119,7 @@
 - [twitter-archive/sbt-scrooge](https://github.com/twitter-archive/sbt-scrooge) pushed_at:2017-03 star:0.0k fork:0.0k An SBT plugin that adds a mixin for doing Thrift code auto-generation during your compile phase
 - [twitter-archive/scala-csp-config](https://github.com/twitter-archive/scala-csp-config) pushed_at:2015-10 star:0.0k fork:0.0k A Scala library for configuring Content Security Policy headers for HTTP responses.
 - [twitter-archive/scala-zookeeper-client](https://github.com/twitter-archive/scala-zookeeper-client) pushed_at:2013-11 star:0.1k fork:0.0k A Scala client library for ZooKeeper (DEPRECATED)
-- [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake) pushed_at:2020-07 star:6.5k fork:1.1k Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
+- [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake) pushed_at:2020-07 star:6.6k fork:1.1k Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 - [twitter-archive/standard-project](https://github.com/twitter-archive/standard-project) pushed_at:2013-05 star:0.1k fork:0.0k A slightly more standard sbt project plugin library 
 - [twitter-archive/twitterActors](https://github.com/twitter-archive/twitterActors) pushed_at:2010-10 star:0.0k fork:0.0k Improved Scala actors library; used internally at Twitter
 

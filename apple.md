@@ -43,13 +43,13 @@
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) pushed_at:2021-05 star:0.2k fork:0.0k Index database library for use with sourcekit-lsp
 - [apple/llvm-project-v5](https://github.com/apple/llvm-project-v5) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project-v5-split](https://github.com/apple/llvm-project-v5-split) pushed_at:2019-10 star:0.0k fork:0.0k 
-- [apple/swift](https://github.com/apple/swift) pushed_at:2021-05 star:55.9k fork:9.0k The Swift Programming Language
+- [apple/swift](https://github.com/apple/swift) pushed_at:2021-05 star:56.0k fork:9.0k The Swift Programming Language
 - [apple/swift-clang](https://github.com/apple/swift-clang) pushed_at:2019-11 star:0.7k fork:0.2k 
 - [apple/swift-clang-tools-extra](https://github.com/apple/swift-clang-tools-extra) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [apple/swift-libcxx](https://github.com/apple/swift-libcxx) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/swift-llbuild](https://github.com/apple/swift-llbuild) pushed_at:2021-05 star:0.9k fork:0.2k A low-level build system, used by Xcode and the Swift Package Manager
 - [apple/swift-lldb](https://github.com/apple/swift-lldb) pushed_at:2020-01 star:0.7k fork:0.2k This is the version of LLDB that supports the Swift programming language & REPL.
-- [apple/turicreate](https://github.com/apple/turicreate) pushed_at:2021-04 star:10.2k fork:1.1k Turi Create simplifies the development of custom machine learning models.
+- [apple/turicreate](https://github.com/apple/turicreate) pushed_at:2021-04 star:10.3k fork:1.1k Turi Create simplifies the development of custom machine learning models.
 
 ## Dockerfile
 
@@ -79,7 +79,7 @@
 
 ## Markdown
 
-- [apple/swift-evolution](https://github.com/apple/swift-evolution) pushed_at:2021-05 star:12.2k fork:2.0k This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+- [apple/swift-evolution](https://github.com/apple/swift-evolution) pushed_at:2021-05 star:12.3k fork:2.0k This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
 ## Others
 
@@ -111,7 +111,7 @@
 - [apple/ml-data-parameters](https://github.com/apple/ml-data-parameters) pushed_at:2019-12 star:0.1k fork:0.0k 
 - [apple/ml-hypersim](https://github.com/apple/ml-hypersim) pushed_at:2021-02 star:1.0k fork:0.1k Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding
 - [apple/ml-mkqa](https://github.com/apple/ml-mkqa) pushed_at:2020-08 star:0.1k fork:0.0k 
-- [apple/ml-multiple-futures-prediction](https://github.com/apple/ml-multiple-futures-prediction) pushed_at:2020-11 star:0.1k fork:0.0k 
+- [apple/ml-multiple-futures-prediction](https://github.com/apple/ml-multiple-futures-prediction) pushed_at:2021-05 star:0.1k fork:0.0k 
 - [apple/ml-ncg](https://github.com/apple/ml-ncg) pushed_at:2019-05 star:0.0k fork:0.0k 
 - [apple/ml-probabilistic-attention](https://github.com/apple/ml-probabilistic-attention) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [apple/ml-qrecc](https://github.com/apple/ml-qrecc) pushed_at:2021-04 star:0.0k fork:0.0k Open-Domain Question Answering Goes Conversational via Question Rewriting
@@ -160,7 +160,7 @@
 - [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2021-05 star:2.4k fork:0.2k A Logging API for Swift
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) pushed_at:2021-05 star:0.4k fork:0.0k A Metrics API for Swift
 - [apple/swift-nio](https://github.com/apple/swift-nio) pushed_at:2021-05 star:6.5k fork:0.5k Event-driven network application framework for high performance protocol servers & clients, non-blocking.
-- [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) pushed_at:2021-01 star:0.1k fork:0.0k examples of how to use swift-nio
+- [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) pushed_at:2021-01 star:0.2k fork:0.0k examples of how to use swift-nio
 - [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) pushed_at:2021-05 star:0.1k fork:0.1k Useful code around SwiftNIO.
 - [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) pushed_at:2021-05 star:0.3k fork:0.0k HTTP/2 support for SwiftNIO
 - [apple/swift-nio-nghttp2-support](https://github.com/apple/swift-nio-nghttp2-support) pushed_at:2020-12 star:0.0k fork:0.0k 
@@ -169,7 +169,7 @@
 - [apple/swift-nio-transport-services](https://github.com/apple/swift-nio-transport-services) pushed_at:2021-04 star:0.2k fork:0.0k Extensions for SwiftNIO to support Apple platforms as first-class citizens.
 - [apple/swift-nio-zlib-support](https://github.com/apple/swift-nio-zlib-support) pushed_at:2020-12 star:0.0k fork:0.0k 
 - [apple/swift-numerics](https://github.com/apple/swift-numerics) pushed_at:2021-04 star:1.2k fork:0.1k Numerical APIs for Swift
-- [apple/swift-package-collection-generator](https://github.com/apple/swift-package-collection-generator) pushed_at:2021-04 star:0.0k fork:0.0k A collection of packages and tooling for generating and consuming package feeds.
+- [apple/swift-package-collection-generator](https://github.com/apple/swift-package-collection-generator) pushed_at:2021-05 star:0.0k fork:0.0k A collection of packages and tooling for generating and consuming package feeds.
 - [apple/swift-package-manager](https://github.com/apple/swift-package-manager) pushed_at:2021-05 star:8.3k fork:1.0k The Package Manager for the Swift Programming Language
 - [apple/swift-protobuf](https://github.com/apple/swift-protobuf) pushed_at:2021-05 star:3.5k fork:0.3k Plugin and runtime library for using protobuf with Swift
 - [apple/swift-se0270-range-set](https://github.com/apple/swift-se0270-range-set) pushed_at:2020-11 star:0.0k fork:0.0k Swift Evolution preview package for SE-0270.
@@ -178,7 +178,7 @@
 - [apple/swift-statsd-client](https://github.com/apple/swift-statsd-client) pushed_at:2021-05 star:0.0k fork:0.0k metrics backend for swift-metrics that uses the statsd protocol
 - [apple/swift-stress-tester](https://github.com/apple/swift-stress-tester) pushed_at:2021-05 star:0.1k fork:0.0k Stress testing utilities for Swift's tooling
 - [apple/swift-syntax](https://github.com/apple/swift-syntax) pushed_at:2021-05 star:1.6k fork:0.1k SwiftPM package for SwiftSyntax library.
-- [apple/swift-system](https://github.com/apple/swift-system) pushed_at:2021-04 star:0.8k fork:0.0k Swift System provides idiomatic interfaces to system calls and low-level currency types.
+- [apple/swift-system](https://github.com/apple/swift-system) pushed_at:2021-05 star:0.8k fork:0.0k Swift System provides idiomatic interfaces to system calls and low-level currency types.
 - [apple/swift-tools-support-async](https://github.com/apple/swift-tools-support-async) pushed_at:2021-05 star:0.0k fork:0.0k Common infrastructural helpers on top of NIO for llbuild2 and swiftpm-on-llbuild2 projects. This is NOT a general purpose package and is unlikely to ever become stable.
 - [apple/swift-tools-support-core](https://github.com/apple/swift-tools-support-core) pushed_at:2021-05 star:0.2k fork:0.1k Contains common infrastructural code for both SwiftPM and llbuild.
 - [apple/swift-xcode-playground-support](https://github.com/apple/swift-xcode-playground-support) pushed_at:2021-05 star:0.2k fork:0.1k Logging and communication to allow Swift toolchains to communicate with Xcode.

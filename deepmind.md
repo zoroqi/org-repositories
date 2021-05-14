@@ -51,8 +51,8 @@
 ## Jupyter Notebook
 
 - [deepmind/3d-shapes](https://github.com/deepmind/3d-shapes) pushed_at:2019-03 star:0.1k fork:0.0k This repository contains the 3D shapes dataset, used in Kim, Hyunjik and Mnih, Andriy. "Disentangling by Factorising." In Proceedings of the 35th International Conference on Machine Learning (ICML). 2018. to assess the disentanglement properties of unsupervised learning methods.
-- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) pushed_at:2021-05 star:6.6k fork:1.2k This repository contains implementations and illustrative code to accompany DeepMind publications
-- [deepmind/dsprites-dataset](https://github.com/deepmind/dsprites-dataset) pushed_at:2021-01 star:0.3k fork:0.1k Dataset to assess the disentanglement properties of unsupervised learning methods
+- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) pushed_at:2021-05 star:6.7k fork:1.3k This repository contains implementations and illustrative code to accompany DeepMind publications
+- [deepmind/dsprites-dataset](https://github.com/deepmind/dsprites-dataset) pushed_at:2021-01 star:0.4k fork:0.1k Dataset to assess the disentanglement properties of unsupervised learning methods
 - [deepmind/educational](https://github.com/deepmind/educational) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [deepmind/mc_gradients](https://github.com/deepmind/mc_gradients) pushed_at:2020-11 star:0.1k fork:0.0k 
 - [deepmind/neural-processes](https://github.com/deepmind/neural-processes) pushed_at:2021-01 star:0.8k fork:0.1k This repository contains notebook implementations of the following Neural Process variants: Conditional Neural Processes (CNPs), Neural Processes (NPs), Attentive Neural Processes (ANPs).
@@ -101,14 +101,14 @@
 - [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) pushed_at:2021-05 star:1.1k fork:0.1k JAX-based neural network library
 - [deepmind/dm_alchemy](https://github.com/deepmind/dm_alchemy) pushed_at:2021-04 star:0.1k fork:0.0k DeepMind Alchemy task environment: a meta-reinforcement learning benchmark
 - [deepmind/dm_construction](https://github.com/deepmind/dm_construction) pushed_at:2021-01 star:0.0k fork:0.0k 
-- [deepmind/dm_control](https://github.com/deepmind/dm_control) pushed_at:2021-04 star:2.2k fork:0.4k DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
+- [deepmind/dm_control](https://github.com/deepmind/dm_control) pushed_at:2021-04 star:2.3k fork:0.4k DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
 - [deepmind/dm_env](https://github.com/deepmind/dm_env) pushed_at:2021-04 star:0.1k fork:0.0k A Python interface for reinforcement learning environments
 - [deepmind/dm_env_rpc](https://github.com/deepmind/dm_env_rpc) pushed_at:2021-05 star:0.1k fork:0.0k A networking protocol for agent-environment communication
 - [deepmind/dm_fast_mapping](https://github.com/deepmind/dm_fast_mapping) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [deepmind/dm_hard_eight](https://github.com/deepmind/dm_hard_eight) pushed_at:2020-11 star:0.1k fork:0.0k 
 - [deepmind/dm_memorytasks](https://github.com/deepmind/dm_memorytasks) pushed_at:2021-02 star:0.2k fork:0.0k A set of 13 diverse machine-learning tasks that require memory to solve.
 - [deepmind/dnc](https://github.com/deepmind/dnc) pushed_at:2019-04 star:2.4k fork:0.5k A TensorFlow implementation of the Differentiable Neural Computer.
-- [deepmind/dqn_zoo](https://github.com/deepmind/dqn_zoo) pushed_at:2021-03 star:0.2k fork:0.0k DQN Zoo is a collection of reference implementations of reinforcement learning agents developed at DeepMind based on the Deep Q-Network (DQN) agent.
+- [deepmind/dqn_zoo](https://github.com/deepmind/dqn_zoo) pushed_at:2021-05 star:0.2k fork:0.0k DQN Zoo is a collection of reference implementations of reinforcement learning agents developed at DeepMind based on the Deep Q-Network (DQN) agent.
 - [deepmind/dynamic-kanerva-machines](https://github.com/deepmind/dynamic-kanerva-machines) pushed_at:2019-01 star:0.0k fork:0.0k This is a self-contained memory module for the Dynamic Kanerva Machine, as reported in the NIPS 2018 paper: Learning Attractor Dynamics for Generative Memory.
 - [deepmind/fancyflags](https://github.com/deepmind/fancyflags) pushed_at:2021-03 star:0.0k fork:0.0k A Python library for defining flat or nested dictionary flags.
 - [deepmind/ferminet](https://github.com/deepmind/ferminet) pushed_at:2021-04 star:0.4k fork:0.1k An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
@@ -120,7 +120,7 @@
 - [deepmind/jax_verify](https://github.com/deepmind/jax_verify) pushed_at:2020-11 star:0.1k fork:0.0k Neural network verification in JAX
 - [deepmind/jaxline](https://github.com/deepmind/jaxline) pushed_at:2021-02 star:0.1k fork:0.0k 
 - [deepmind/jmp](https://github.com/deepmind/jmp) pushed_at:2021-04 star:0.0k fork:0.0k JMP is a Mixed Precision library for JAX.
-- [deepmind/jraph](https://github.com/deepmind/jraph) pushed_at:2021-03 star:0.6k fork:0.0k A Graph Neural Network Library in Jax
+- [deepmind/jraph](https://github.com/deepmind/jraph) pushed_at:2021-05 star:0.6k fork:0.0k A Graph Neural Network Library in Jax
 - [deepmind/kinetics-i3d](https://github.com/deepmind/kinetics-i3d) pushed_at:2019-09 star:1.4k fork:0.4k Convolutional neural network model for video classification trained on the Kinetics dataset.
 - [deepmind/lamb](https://github.com/deepmind/lamb) pushed_at:2020-04 star:0.1k fork:0.0k LAnguage Modelling Benchmarks
 - [deepmind/leaps-and-bounds](https://github.com/deepmind/leaps-and-bounds) pushed_at:2020-01 star:0.0k fork:0.0k This is an implementation of LeapsAndBounds and Structured Procrastination for approximately optimal algorithm configuration.
