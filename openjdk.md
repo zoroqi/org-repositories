@@ -42,22 +42,22 @@
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) pushed_at:2021-04 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/friday-stats/
 - [openjdk/jcov](https://github.com/openjdk/jcov) pushed_at:2021-04 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) pushed_at:2021-05 star:0.1k fork:0.0k https://openjdk.java.net/projects/code-tools/jcstress/
-- [openjdk/jdk](https://github.com/openjdk/jdk) pushed_at:2021-05 star:9.4k fork:2.3k JDK main-line development
+- [openjdk/jdk](https://github.com/openjdk/jdk) pushed_at:2021-05 star:9.5k fork:2.3k JDK main-line development
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) pushed_at:2021-05 star:0.0k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) pushed_at:2020-08 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk/jdk10
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) pushed_at:2021-05 star:0.0k fork:0.1k Read-only mirror of https://hg.openjdk.java.net/jdk-updates/jdk11u/
 - [openjdk/jdk11u-dev](https://github.com/openjdk/jdk11u-dev) pushed_at:2021-05 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk-updates/jdk11u-dev/
 - [openjdk/jdk12u](https://github.com/openjdk/jdk12u) pushed_at:2020-10 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk-updates/jdk12u/
 - [openjdk/jdk13](https://github.com/openjdk/jdk13) pushed_at:2020-07 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk/jdk13/
-- [openjdk/jdk13u](https://github.com/openjdk/jdk13u) pushed_at:2021-04 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/JDKUpdates/JDK+13u
+- [openjdk/jdk13u](https://github.com/openjdk/jdk13u) pushed_at:2021-05 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/JDKUpdates/JDK+13u
 - [openjdk/jdk13u-dev](https://github.com/openjdk/jdk13u-dev) pushed_at:2021-05 star:0.0k fork:0.0k https://openjdk.java.net/projects/jdk-updates/
 - [openjdk/jdk14](https://github.com/openjdk/jdk14) pushed_at:2020-03 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk/jdk14/
 - [openjdk/jdk14u](https://github.com/openjdk/jdk14u) pushed_at:2020-07 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk-updates/jdk14u/
 - [openjdk/jdk15](https://github.com/openjdk/jdk15) pushed_at:2020-09 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk/jdk15/
-- [openjdk/jdk15u](https://github.com/openjdk/jdk15u) pushed_at:2021-04 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/JDKUpdates/JDK+15u
+- [openjdk/jdk15u](https://github.com/openjdk/jdk15u) pushed_at:2021-05 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/JDKUpdates/JDK+15u
 - [openjdk/jdk15u-dev](https://github.com/openjdk/jdk15u-dev) pushed_at:2021-05 star:0.0k fork:0.0k https://openjdk.java.net/projects/jdk-updates/
 - [openjdk/jdk16](https://github.com/openjdk/jdk16) pushed_at:2021-03 star:0.0k fork:0.1k JDK 16 development
-- [openjdk/jdk16u](https://github.com/openjdk/jdk16u) pushed_at:2021-05 star:0.0k fork:0.0k https://openjdk.java.net/projects/jdk-updates/
+- [openjdk/jdk16u](https://github.com/openjdk/jdk16u) pushed_at:2021-05 star:0.0k fork:0.1k https://openjdk.java.net/projects/jdk-updates/
 - [openjdk/jdk6](https://github.com/openjdk/jdk6) pushed_at:2021-02 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk6
 - [openjdk/jdk7](https://github.com/openjdk/jdk7) pushed_at:2021-02 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk7
 - [openjdk/jdk7u](https://github.com/openjdk/jdk7u) pushed_at:2021-03 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk7u until tag jdk7u291-ga

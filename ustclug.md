@@ -55,7 +55,7 @@
 - [ustclug/discussions](https://github.com/ustclug/discussions) pushed_at:2020-11 star:0.0k fork:0.0k Issue Tracker for USTC LUG
 - [ustclug/hackergame2020-writeups](https://github.com/ustclug/hackergame2020-writeups) pushed_at:2020-11 star:0.0k fork:0.0k 
 - [ustclug/lug-stickers](https://github.com/ustclug/lug-stickers) pushed_at:2019-05 star:0.0k fork:0.0k 
-- [ustclug/mirrorrequest](https://github.com/ustclug/mirrorrequest) pushed_at:2020-11 star:0.3k fork:0.0k 通过 issue 为中国科大开源镜像站（mirrors.ustc.edu.cn）提交新的镜像申请~
+- [ustclug/mirrorrequest](https://github.com/ustclug/mirrorrequest) pushed_at:2021-05 star:0.3k fork:0.0k 通过 issue 为中国科大开源镜像站（mirrors.ustc.edu.cn）提交新的镜像申请~
 
 ## PHP
 

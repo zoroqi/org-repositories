@@ -83,7 +83,7 @@
 ## Python
 
 - [tuna/bandersnatch](https://github.com/tuna/bandersnatch) pushed_at:2020-02 star:0.0k fork:0.0k A PyPI mirror client according to PEP 381 http://www.python.org/dev/peps/pep-0381/
-- [tuna/blogroll](https://github.com/tuna/blogroll) pushed_at:2021-04 star:0.6k fork:0.1k 世界一流兼容并包TUNA协会收集的周围同学们的Blog
+- [tuna/blogroll](https://github.com/tuna/blogroll) pushed_at:2021-05 star:0.6k fork:0.1k 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [tuna/django-helpdesk](https://github.com/tuna/django-helpdesk) pushed_at:2014-12 star:0.0k fork:0.0k A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [tuna/feed_tuna](https://github.com/tuna/feed_tuna) pushed_at:2017-09 star:0.0k fork:0.0k Telegram shop/payment bot 金枪鱼喂食计划
 - [tuna/fishroom](https://github.com/tuna/fishroom) pushed_at:2021-02 star:0.3k fork:0.1k Message forwarding for multiple IM protocols
@@ -91,7 +91,7 @@
 - [tuna/gdanmaku-server](https://github.com/tuna/gdanmaku-server) pushed_at:2021-03 star:0.1k fork:0.0k Web-based danmaku server
 - [tuna/ldaptuna](https://github.com/tuna/ldaptuna) pushed_at:2014-10 star:0.0k fork:0.0k 
 - [tuna/loglyzer](https://github.com/tuna/loglyzer) pushed_at:2014-12 star:0.0k fork:0.0k log analyzer for tuna mirrors
-- [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) pushed_at:2020-12 star:0.4k fork:0.0k Keep calm and use TUNA mirrors.
+- [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) pushed_at:2020-12 star:0.4k fork:0.1k Keep calm and use TUNA mirrors.
 - [tuna/pdns-ldap](https://github.com/tuna/pdns-ldap) pushed_at:2016-04 star:0.0k fork:0.0k 
 - [tuna/playbooks](https://github.com/tuna/playbooks) pushed_at:2016-10 star:0.0k fork:0.0k 
 - [tuna/scripts](https://github.com/tuna/scripts) pushed_at:2018-01 star:0.0k fork:0.0k 

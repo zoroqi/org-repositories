@@ -11,14 +11,13 @@
 - [CSS](#css) (50)
 - [HTML](#html) (14)
 - [Java](#java) (5)
-- [JavaScript](#javascript) (79)
+- [JavaScript](#javascript) (80)
 - [Jinja](#jinja) (1)
 - [Jupyter Notebook](#jupyter-notebook) (2)
 - [Others](#others) (133)
 - [PHP](#php) (2)
 - [Python](#python) (13)
 - [Shell](#shell) (14)
-- [TypeScript](#typescript) (1)
 - [Vim script](#vim-script) (1)
 
 ## C
@@ -186,6 +185,7 @@
 - [apachecn/ucb-cs294-112-notes-zh](https://github.com/apachecn/ucb-cs294-112-notes-zh) pushed_at:2021-01 star:0.0k fork:0.0k UCB CS294-112 深度强化学习中文笔记
 - [apachecn/uiuc-cs241-notes-zh](https://github.com/apachecn/uiuc-cs241-notes-zh) pushed_at:2021-01 star:0.0k fork:0.0k :book: 【译】UIUC CS241 系统编程中文讲义
 - [apachecn/web-hacking-101-zh](https://github.com/apachecn/web-hacking-101-zh) pushed_at:2020-12 star:0.0k fork:0.0k 
+- [apachecn/wx-form](https://github.com/apachecn/wx-form) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [apachecn/xgboost-doc-zh](https://github.com/apachecn/xgboost-doc-zh) pushed_at:2021-01 star:0.5k fork:0.1k XGBoost 中文文档
 - [apachecn/zeppelin-doc-zh](https://github.com/apachecn/zeppelin-doc-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] zeppelin 中文文档
 - [apachecn/zetcode-zh](https://github.com/apachecn/zetcode-zh) pushed_at:2021-05 star:0.1k fork:0.0k :books: [译] Zetcode 中文系列教程
@@ -239,7 +239,7 @@
 - [apachecn/fiction_house](https://github.com/apachecn/fiction_house) pushed_at:2020-11 star:0.0k fork:0.0k 小说精品屋是一个多平台（web、安卓app、微信小程序）、功能完善的屏幕自适应小说漫画连载系统，包含精品小说专区、轻小说专区和漫画专区。包括小说/漫画分类、小说/漫画搜索、小说/漫画排行、完本小说/漫画、小说/漫画评分、小说/漫画在线阅读、小说/漫画书架、小说/漫画阅读记录、小说下载、小说弹幕、小说/漫画自动采集/更新/纠错、小说内容自动分享到微博、邮件自动推广、链接自动推送到百度搜索引擎等功能。
 - [apachecn/fm01](https://github.com/apachecn/fm01) pushed_at:2020-12 star:0.0k fork:0.0k 胖蚊子 1 号 (fat mosquito) 3 寸 4 旋翼小飞机.
 - [apachecn/GalaxyHook](https://github.com/apachecn/GalaxyHook) pushed_at:2019-08 star:0.0k fork:0.0k This project provide a  plan of Android App Hook.  It can do the hook work both in Java and NDK.
-- [apachecn/go-study-index](https://github.com/apachecn/go-study-index) pushed_at:2020-03 star:0.0k fork:0.0k Go 语言学习资料索引
+- [apachecn/go-study-index](https://github.com/apachecn/go-study-index) pushed_at:2021-05 star:0.0k fork:0.0k Go 语言学习资料索引
 - [apachecn/green-hat-zh](https://github.com/apachecn/green-hat-zh) pushed_at:2019-08 star:0.0k fork:0.0k 
 - [apachecn/GRU_to_predict_timeseries](https://github.com/apachecn/GRU_to_predict_timeseries) pushed_at:2018-03 star:0.0k fork:0.0k 使用pytorch搭建的循环神经网络在股票数据时间序列上的应用
 - [apachecn/hackcto-and-secbook](https://github.com/apachecn/hackcto-and-secbook) pushed_at:2019-06 star:0.0k fork:0.0k 
@@ -342,7 +342,7 @@
 
 ## Python
 
-- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-05 star:29.7k fork:10.0k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-05 star:29.8k fork:10.1k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [apachecn/awesome-data-comp-solution](https://github.com/apachecn/awesome-data-comp-solution) pushed_at:2020-09 star:0.5k fork:0.1k 数据科学/人工智能比赛解决方案汇总
 - [apachecn/BiliDriveEx](https://github.com/apachecn/BiliDriveEx) pushed_at:2020-03 star:0.1k fork:0.0k :cloud: 已停更，请访问 CDNDrive：
 - [apachecn/BookerTrans](https://github.com/apachecn/BookerTrans) pushed_at:2021-04 star:0.0k fork:0.0k 用于 iBooker/ApacheCN 翻译项目的 HTML 谷歌翻译工具
@@ -372,10 +372,6 @@
 - [apachecn/stanford-game-theory-notes-zh](https://github.com/apachecn/stanford-game-theory-notes-zh) pushed_at:2020-09 star:0.1k fork:0.0k 📖斯坦福博弈论中文笔记
 - [apachecn/succinctly-zh](https://github.com/apachecn/succinctly-zh) pushed_at:2020-09 star:0.0k fork:0.0k :books: [译] Succinctly 中文系列教程
 - [apachecn/vt-cs4624-pyml-zh](https://github.com/apachecn/vt-cs4624-pyml-zh) pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Python 机器学习在线指南
-
-## TypeScript
-
-- [apachecn/wx-form](https://github.com/apachecn/wx-form) pushed_at:2021-04 star:0.0k fork:0.0k 
 
 ## Vim script
 

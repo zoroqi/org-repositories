@@ -66,7 +66,7 @@
 - [google-research/deep_ope](https://github.com/google-research/deep_ope) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [google-research/episodic-curiosity](https://github.com/google-research/episodic-curiosity) pushed_at:2020-10 star:0.2k fork:0.0k Tensorflow/Keras code and trained models for Episodic Curiosity Through Reachability
 - [google-research/evoflow](https://github.com/google-research/evoflow) pushed_at:2020-06 star:0.0k fork:0.0k 
-- [google-research/google-research](https://github.com/google-research/google-research) pushed_at:2021-05 star:17.5k fork:3.8k Google Research
+- [google-research/google-research](https://github.com/google-research/google-research) pushed_at:2021-05 star:17.6k fork:3.8k Google Research
 - [google-research/graph-attribution](https://github.com/google-research/graph-attribution) pushed_at:2021-03 star:0.0k fork:0.0k Codebase for Evaluating Attribution for Graph Neural Networks.
 - [google-research/kubric](https://github.com/google-research/kubric) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [google-research/mnist-c](https://github.com/google-research/mnist-c) pushed_at:2019-06 star:0.0k fork:0.0k 
@@ -75,7 +75,7 @@
 - [google-research/policy-learning-landscape](https://github.com/google-research/policy-learning-landscape) pushed_at:2019-01 star:0.0k fork:0.0k Explore the optimization landscape for direct policy learning reinforcement learning.
 - [google-research/recsim_ng](https://github.com/google-research/recsim_ng) pushed_at:2021-03 star:0.1k fork:0.0k RecSim NG: Toward Principled Uncertainty Modeling for Recommender Ecosystems
 - [google-research/reverse-engineering-neural-networks](https://github.com/google-research/reverse-engineering-neural-networks) pushed_at:2021-02 star:0.1k fork:0.0k A collection of tools for reverse engineering neural networks.
-- [google-research/self-organising-systems](https://github.com/google-research/self-organising-systems) pushed_at:2021-04 star:0.1k fork:0.0k 
+- [google-research/self-organising-systems](https://github.com/google-research/self-organising-systems) pushed_at:2021-05 star:0.1k fork:0.0k 
 - [google-research/si-score](https://github.com/google-research/si-score) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [google-research/simclr](https://github.com/google-research/simclr) pushed_at:2021-04 star:2.2k fork:0.3k SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners
 - [google-research/socialgood](https://github.com/google-research/socialgood) pushed_at:2021-04 star:0.0k fork:0.0k 
@@ -98,10 +98,10 @@
 - [google-research/augmix](https://github.com/google-research/augmix) pushed_at:2020-10 star:0.7k fork:0.1k AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty
 - [google-research/autoconj](https://github.com/google-research/autoconj) pushed_at:2019-12 star:0.0k fork:0.0k Recognizing and exploiting conjugacy without a domain-specific language
 - [google-research/batch-ppo](https://github.com/google-research/batch-ppo) pushed_at:2019-01 star:0.9k fork:0.1k Efficient Batched Reinforcement Learning in TensorFlow
-- [google-research/batch_rl](https://github.com/google-research/batch_rl) pushed_at:2021-05 star:0.2k fork:0.0k Offline Reinforcement Learning (aka Batch Reinforcement Learning) on Atari 2600 games
-- [google-research/bert](https://github.com/google-research/bert) pushed_at:2021-04 star:27.9k fork:7.9k TensorFlow code and pre-trained models for BERT
+- [google-research/batch_rl](https://github.com/google-research/batch_rl) pushed_at:2021-05 star:0.3k fork:0.0k Offline Reinforcement Learning (aka Batch Reinforcement Learning) on Atari 2600 games
+- [google-research/bert](https://github.com/google-research/bert) pushed_at:2021-05 star:28.0k fork:8.0k TensorFlow code and pre-trained models for BERT
 - [google-research/big_transfer](https://github.com/google-research/big_transfer) pushed_at:2021-02 star:1.2k fork:0.1k Official repository for the "Big Transfer (BiT): General Visual Representation Learning" paper.
-- [google-research/bigbird](https://github.com/google-research/bigbird) pushed_at:2021-04 star:0.2k fork:0.0k Transformers for Longer Sequences
+- [google-research/bigbird](https://github.com/google-research/bigbird) pushed_at:2021-05 star:0.2k fork:0.0k Transformers for Longer Sequences
 - [google-research/bleurt](https://github.com/google-research/bleurt) pushed_at:2021-04 star:0.3k fork:0.0k BLEURT is a metric for Natural Language Generation based on transfer learning.
 - [google-research/citrus-nlp](https://github.com/google-research/citrus-nlp) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [google-research/clevr_robot_env](https://github.com/google-research/clevr_robot_env) pushed_at:2019-07 star:0.1k fork:0.0k CLEVR-Robot: a reinforcement learning environment combining vision, language and control.
@@ -112,7 +112,7 @@
 - [google-research/deadunits](https://github.com/google-research/deadunits) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [google-research/deep_representation_one_class](https://github.com/google-research/deep_representation_one_class) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [google-research/dice_rl](https://github.com/google-research/dice_rl) pushed_at:2021-05 star:0.1k fork:0.0k 
-- [google-research/disentanglement_lib](https://github.com/google-research/disentanglement_lib) pushed_at:2020-08 star:1.0k fork:0.1k disentanglement_lib is an open-source library for research on learning disentangled representations.
+- [google-research/disentanglement_lib](https://github.com/google-research/disentanglement_lib) pushed_at:2021-05 star:1.0k fork:0.1k disentanglement_lib is an open-source library for research on learning disentangled representations.
 - [google-research/DP-FTRL](https://github.com/google-research/DP-FTRL) pushed_at:2021-04 star:0.0k fork:0.0k DP-FTRL from "Practical and Private (Deep) Learning without Sampling or Shuffling" for centralized training.
 - [google-research/dreamer](https://github.com/google-research/dreamer) pushed_at:2020-07 star:0.5k fork:0.1k Dream to Control: Learning Behaviors by Latent Imagination
 - [google-research/electra](https://github.com/google-research/electra) pushed_at:2021-03 star:1.8k fork:0.3k ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
@@ -172,8 +172,8 @@
 - [google-research/soft-dtw-divergences](https://github.com/google-research/soft-dtw-divergences) pushed_at:2020-11 star:0.1k fork:0.0k An implementation of soft-DTW divergences.
 - [google-research/sound-separation](https://github.com/google-research/sound-separation) pushed_at:2021-04 star:0.3k fork:0.1k 
 - [google-research/ssl_detection](https://github.com/google-research/ssl_detection) pushed_at:2020-12 star:0.2k fork:0.0k Semi-supervised learning for object detection
-- [google-research/tapas](https://github.com/google-research/tapas) pushed_at:2021-03 star:0.6k fork:0.1k End-to-end neural table-text understanding models.
-- [google-research/task_adaptation](https://github.com/google-research/task_adaptation) pushed_at:2021-03 star:0.2k fork:0.0k 
+- [google-research/tapas](https://github.com/google-research/tapas) pushed_at:2021-05 star:0.6k fork:0.1k End-to-end neural table-text understanding models.
+- [google-research/task_adaptation](https://github.com/google-research/task_adaptation) pushed_at:2021-05 star:0.2k fork:0.0k 
 - [google-research/tensor2robot](https://github.com/google-research/tensor2robot) pushed_at:2021-04 star:0.4k fork:0.1k Distributed machine learning infrastructure for large-scale robotics research
 - [google-research/tensorflow-coder](https://github.com/google-research/tensorflow-coder) pushed_at:2021-04 star:0.2k fork:0.0k 
 - [google-research/tensorflow_constrained_optimization](https://github.com/google-research/tensorflow_constrained_optimization) pushed_at:2020-09 star:0.2k fork:0.0k 
