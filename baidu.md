@@ -39,14 +39,14 @@
 - [baidu/bigflow](https://github.com/baidu/bigflow) pushed_at:2020-10 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [baidu/boteye](https://github.com/baidu/boteye) pushed_at:2019-04 star:0.2k fork:0.1k 
 - [baidu/boteye_driver](https://github.com/baidu/boteye_driver) pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/braft](https://github.com/baidu/braft) pushed_at:2021-05 star:2.6k fork:0.6k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
+- [baidu/braft](https://github.com/baidu/braft) pushed_at:2021-05 star:2.7k fork:0.6k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
 - [baidu/common](https://github.com/baidu/common) pushed_at:2017-06 star:0.1k fork:0.1k Common library
 - [baidu/Familia](https://github.com/baidu/Familia) pushed_at:2020-07 star:2.4k fork:0.6k A Toolkit for Industrial Topic Modeling
 - [baidu/fast_rgf](https://github.com/baidu/fast_rgf) pushed_at:2018-07 star:0.5k fork:0.1k Multi-core implementation of Regularized Greedy Forest
 - [baidu/galaxy](https://github.com/baidu/galaxy) pushed_at:2017-08 star:0.3k fork:0.1k Galaxy is a cluster management system.
 - [baidu/ICE-BA](https://github.com/baidu/ICE-BA) pushed_at:2018-09 star:0.6k fork:0.2k 
 - [baidu/ins](https://github.com/baidu/ins) pushed_at:2020-10 star:0.2k fork:0.1k iNexus, coordinate large scale services
-- [baidu/lac](https://github.com/baidu/lac) pushed_at:2021-01 star:2.4k fork:0.4k 百度NLP：分词，词性标注，命名实体识别，词重要性
+- [baidu/lac](https://github.com/baidu/lac) pushed_at:2021-05 star:2.4k fork:0.4k 百度NLP：分词，词性标注，命名实体识别，词重要性
 - [baidu/openrasp](https://github.com/baidu/openrasp) pushed_at:2021-05 star:1.8k fork:0.4k 🔥Open source RASP solution
 - [baidu/shuttle](https://github.com/baidu/shuttle) pushed_at:2018-07 star:0.1k fork:0.0k A fast computing framework based on Galaxy
 - [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) pushed_at:2018-09 star:2.0k fork:0.7k A light-weight RPC implement of google protobuf RPC framework.
@@ -131,7 +131,7 @@
 
 - [baidu/ARK](https://github.com/baidu/ARK) pushed_at:2021-05 star:0.1k fork:0.0k Development framework of intelligent operation
 - [baidu/broc](https://github.com/baidu/broc) pushed_at:2017-12 star:0.1k fork:0.1k 
-- [baidu/CUP](https://github.com/baidu/CUP) pushed_at:2021-02 star:0.8k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu)
+- [baidu/CUP](https://github.com/baidu/CUP) pushed_at:2021-05 star:0.8k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
 - [baidu/DDParser](https://github.com/baidu/DDParser) pushed_at:2021-05 star:0.6k fork:0.1k 百度开源的依存句法分析系统
 - [baidu/Dialogue](https://github.com/baidu/Dialogue) pushed_at:2020-01 star:0.4k fork:0.1k 
 - [baidu/duedge-cli](https://github.com/baidu/duedge-cli) pushed_at:2020-03 star:0.0k fork:0.0k DuEdge Command Line

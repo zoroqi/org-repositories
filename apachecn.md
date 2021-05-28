@@ -113,7 +113,7 @@
 - [apachecn/apachecn-c-cpp-zh](https://github.com/apachecn/apachecn-c-cpp-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN C/C++ 译文集
 - [apachecn/apachecn-cs-zh](https://github.com/apachecn/apachecn-cs-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN 计算机科学译文集
 - [apachecn/apachecn-cv-zh](https://github.com/apachecn/apachecn-cv-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN CV 译文集
-- [apachecn/apachecn-dl-zh](https://github.com/apachecn/apachecn-dl-zh) pushed_at:2021-05 star:0.2k fork:0.0k ApacheCN 深度学习译文集
+- [apachecn/apachecn-dl-zh](https://github.com/apachecn/apachecn-dl-zh) pushed_at:2021-05 star:0.2k fork:0.1k ApacheCN 深度学习译文集
 - [apachecn/apachecn-ds-zh](https://github.com/apachecn/apachecn-ds-zh) pushed_at:2021-05 star:0.1k fork:0.0k :book: [译] ApacheCN 数据科学译文集
 - [apachecn/apachecn-java-zh](https://github.com/apachecn/apachecn-java-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN Java 译文集
 - [apachecn/apachecn-js-zh](https://github.com/apachecn/apachecn-js-zh) pushed_at:2021-05 star:0.0k fork:0.0k 
@@ -167,7 +167,7 @@
 - [apachecn/pythonbasics-zh](https://github.com/apachecn/pythonbasics-zh) pushed_at:2021-05 star:0.0k fork:0.0k :book: [译] PythonBasics 中文系列教程
 - [apachecn/pythonguru-zh](https://github.com/apachecn/pythonguru-zh) pushed_at:2021-05 star:0.0k fork:0.0k :book: [译] PythonGuru 中文系列教程
 - [apachecn/pythonspot-zh](https://github.com/apachecn/pythonspot-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] PythonSpot 中文系列教程
-- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) pushed_at:2021-05 star:3.0k fork:0.9k Pytorch 中文文档
+- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) pushed_at:2021-05 star:3.1k fork:0.9k Pytorch 中文文档
 - [apachecn/scrapy-doc-zh](https://github.com/apachecn/scrapy-doc-zh) pushed_at:2021-01 star:0.0k fork:0.0k Scrapy 1.6 文档
 - [apachecn/seaborn-doc-zh](https://github.com/apachecn/seaborn-doc-zh) pushed_at:2021-01 star:0.1k fork:0.1k :book: [译] seaborn 0.9 中文文档
 - [apachecn/sec-wiki](https://github.com/apachecn/sec-wiki) pushed_at:2021-05 star:0.0k fork:0.0k ApacheCN 安全知识库
@@ -196,7 +196,7 @@
 
 ## Jupyter Notebook
 
-- [apachecn/Interview](https://github.com/apachecn/Interview) pushed_at:2021-01 star:6.9k fork:2.0k Interview = 简历指南 + LeetCode + Kaggle
+- [apachecn/Interview](https://github.com/apachecn/Interview) pushed_at:2021-01 star:7.0k fork:2.0k Interview = 简历指南 + LeetCode + Kaggle
 - [apachecn/Multimodal-short-video-dataset-and-baseline-classification-model](https://github.com/apachecn/Multimodal-short-video-dataset-and-baseline-classification-model) pushed_at:2019-07 star:0.0k fork:0.0k multimodal short video datasets and  classification model(based on TensorFlow2.0 本资源含有50多万条多模态短视频数据集和对应的分类模型，旨在打造多模态分类框架。
 
 ## Others

@@ -49,7 +49,7 @@
 
 ## Cuda
 
-- [openai/blocksparse](https://github.com/openai/blocksparse) pushed_at:2020-12 star:0.8k fork:0.2k Efficient GPU kernels for block-sparse matrix multiplication and convolution
+- [openai/blocksparse](https://github.com/openai/blocksparse) pushed_at:2020-12 star:0.8k fork:0.1k Efficient GPU kernels for block-sparse matrix multiplication and convolution
 
 ## Go
 
@@ -87,7 +87,7 @@
 - [openai/bchess-personal](https://github.com/openai/bchess-personal) pushed_at:2020-07 star:0.0k fork:0.0k temporarily public for a bug report
 - [openai/consul-helm](https://github.com/openai/consul-helm) pushed_at:2020-10 star:0.0k fork:0.0k Helm chart to install Consul and other associated components.
 - [openai/go-retryablehttp](https://github.com/openai/go-retryablehttp) pushed_at:2020-06 star:0.0k fork:0.0k Retryable HTTP client in Go
-- [openai/gpt-3](https://github.com/openai/gpt-3) pushed_at:2020-09 star:10.2k fork:1.2k GPT-3: Language Models are Few-Shot Learners
+- [openai/gpt-3](https://github.com/openai/gpt-3) pushed_at:2020-09 star:10.3k fork:1.2k GPT-3: Language Models are Few-Shot Learners
 - [openai/GPT-3-Encoder](https://github.com/openai/GPT-3-Encoder) pushed_at:2020-11 star:0.0k fork:0.0k Javascript BPE Encoder Decoder for GPT-2 / GPT-3
 - [openai/jeffwu-dotfiles](https://github.com/openai/jeffwu-dotfiles) pushed_at:2021-02 star:0.0k fork:0.0k my configuration files
 - [openai/lustre](https://github.com/openai/lustre) pushed_at:2021-01 star:0.0k fork:0.0k 
@@ -112,8 +112,8 @@
 - [openai/glow](https://github.com/openai/glow) pushed_at:2021-02 star:2.8k fork:0.5k Code for reproducing results in "Glow: Generative Flow with Invertible 1x1 Convolutions"
 - [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2021-03 star:14.6k fork:3.7k Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) pushed_at:2021-02 star:1.1k fork:0.3k Dataset of GPT-2 outputs for research in detection, biases, and more
-- [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2021-05 star:0.4k fork:0.0k 
-- [openai/gym](https://github.com/openai/gym) pushed_at:2021-05 star:24.2k fork:7.0k A toolkit for developing and comparing reinforcement learning algorithms.
+- [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2021-05 star:0.5k fork:0.0k 
+- [openai/gym](https://github.com/openai/gym) pushed_at:2021-05 star:24.3k fork:7.0k A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/gym-http-api](https://github.com/openai/gym-http-api) pushed_at:2019-07 star:0.3k fork:0.1k API to access OpenAI Gym from other languages via HTTP
 - [openai/gym-recording](https://github.com/openai/gym-recording) pushed_at:2020-10 star:0.1k fork:0.0k Add-on package to gym, to record sequences of actions, observations, and rewards
 - [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2018-11 star:0.2k fork:0.2k 
@@ -131,10 +131,10 @@
 - [openai/lm-human-preferences](https://github.com/openai/lm-human-preferences) pushed_at:2021-04 star:0.2k fork:0.0k Code for the paper Fine-Tuning Language Models from Human Preferences
 - [openai/maddpg](https://github.com/openai/maddpg) pushed_at:2020-04 star:0.8k fork:0.3k Code for the MADDPG algorithm from the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
 - [openai/ml-agents](https://github.com/openai/ml-agents) pushed_at:2020-03 star:0.0k fork:0.0k Unity Machine Learning Agents Toolkit
-- [openai/mlsh](https://github.com/openai/mlsh) pushed_at:2019-07 star:0.5k fork:0.1k  Code for the paper "Meta-Learning Shared Hierarchies"
+- [openai/mlsh](https://github.com/openai/mlsh) pushed_at:2019-07 star:0.6k fork:0.1k  Code for the paper "Meta-Learning Shared Hierarchies"
 - [openai/mujoco-py](https://github.com/openai/mujoco-py) pushed_at:2021-04 star:1.6k fork:0.5k MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
 - [openai/mujoco-worldgen](https://github.com/openai/mujoco-worldgen) pushed_at:2019-11 star:0.4k fork:0.1k Automatic object XML generation for Mujoco
-- [openai/multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) pushed_at:2020-11 star:1.1k fork:0.2k Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
+- [openai/multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) pushed_at:2021-05 star:1.1k fork:0.2k Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
 - [openai/multiagent-competition](https://github.com/openai/multiagent-competition) pushed_at:2019-10 star:0.7k fork:0.1k  Code for the paper "Emergent Complexity via Multi-agent Competition"
 - [openai/multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs) pushed_at:2021-04 star:1.2k fork:0.5k Code for a multi-agent particle environment used in the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
 - [openai/neural-gpu](https://github.com/openai/neural-gpu) pushed_at:2018-11 star:0.1k fork:0.0k Code for the Neural GPU model originally described in "Neural GPUs Learn Algorithms"

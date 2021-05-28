@@ -27,7 +27,7 @@
 - [apple/cups](https://github.com/apple/cups) pushed_at:2021-05 star:1.3k fork:0.4k Apple CUPS Sources
 - [apple/darwin-libplatform](https://github.com/apple/darwin-libplatform) pushed_at:2021-02 star:0.1k fork:0.0k The Darwin Platform Library (mirror)
 - [apple/darwin-libpthread](https://github.com/apple/darwin-libpthread) pushed_at:2021-05 star:0.1k fork:0.0k The Darwin PThread Library (mirror)
-- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) pushed_at:2021-05 star:8.8k fork:1.4k The Darwin Kernel (mirror)
+- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) pushed_at:2021-05 star:8.9k fork:1.4k The Darwin Kernel (mirror)
 - [apple/HomeKitADK](https://github.com/apple/HomeKitADK) pushed_at:2021-05 star:2.1k fork:0.2k 
 - [apple/swift-cmark](https://github.com/apple/swift-cmark) pushed_at:2021-05 star:0.2k fork:0.0k CommonMark parsing and rendering library and program in C
 - [apple/swift-compiler-rt](https://github.com/apple/swift-compiler-rt) pushed_at:2019-10 star:0.1k fork:0.1k 
@@ -43,7 +43,7 @@
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) pushed_at:2021-05 star:0.2k fork:0.0k Index database library for use with sourcekit-lsp
 - [apple/llvm-project-v5](https://github.com/apple/llvm-project-v5) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project-v5-split](https://github.com/apple/llvm-project-v5-split) pushed_at:2019-10 star:0.0k fork:0.0k 
-- [apple/swift](https://github.com/apple/swift) pushed_at:2021-05 star:56.0k fork:9.0k The Swift Programming Language
+- [apple/swift](https://github.com/apple/swift) pushed_at:2021-05 star:56.1k fork:9.0k The Swift Programming Language
 - [apple/swift-clang](https://github.com/apple/swift-clang) pushed_at:2019-11 star:0.7k fork:0.2k 
 - [apple/swift-clang-tools-extra](https://github.com/apple/swift-clang-tools-extra) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [apple/swift-libcxx](https://github.com/apple/swift-libcxx) pushed_at:2019-10 star:0.0k fork:0.0k 
@@ -53,7 +53,7 @@
 
 ## Dockerfile
 
-- [apple/swift-docker](https://github.com/apple/swift-docker) pushed_at:2021-04 star:1.1k fork:0.1k Docker Official Image packaging for Swift
+- [apple/swift-docker](https://github.com/apple/swift-docker) pushed_at:2021-05 star:1.1k fork:0.1k Docker Official Image packaging for Swift
 
 ## HTML
 
@@ -107,10 +107,10 @@
 - [apple/ml-cifar-10-faster](https://github.com/apple/ml-cifar-10-faster) pushed_at:2019-12 star:0.0k fork:0.0k 
 - [apple/ml-collegial-ensembles](https://github.com/apple/ml-collegial-ensembles) pushed_at:2020-10 star:0.0k fork:0.0k 
 - [apple/ml-cread](https://github.com/apple/ml-cread) pushed_at:2021-05 star:0.0k fork:0.0k 
-- [apple/ml-cvpr2019-swd](https://github.com/apple/ml-cvpr2019-swd) pushed_at:2020-11 star:0.1k fork:0.0k Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation. In CVPR 2019.
+- [apple/ml-cvpr2019-swd](https://github.com/apple/ml-cvpr2019-swd) pushed_at:2021-05 star:0.1k fork:0.0k Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation. In CVPR 2019.
 - [apple/ml-dab](https://github.com/apple/ml-dab) pushed_at:2020-07 star:0.0k fork:0.0k 
 - [apple/ml-data-parameters](https://github.com/apple/ml-data-parameters) pushed_at:2019-12 star:0.1k fork:0.0k 
-- [apple/ml-hypersim](https://github.com/apple/ml-hypersim) pushed_at:2021-02 star:1.0k fork:0.1k Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding
+- [apple/ml-hypersim](https://github.com/apple/ml-hypersim) pushed_at:2021-05 star:1.0k fork:0.1k Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding
 - [apple/ml-mkqa](https://github.com/apple/ml-mkqa) pushed_at:2020-08 star:0.1k fork:0.0k 
 - [apple/ml-multiple-futures-prediction](https://github.com/apple/ml-multiple-futures-prediction) pushed_at:2021-05 star:0.1k fork:0.0k 
 - [apple/ml-ncg](https://github.com/apple/ml-ncg) pushed_at:2019-05 star:0.0k fork:0.0k 
@@ -135,10 +135,10 @@
 
 ## Swift
 
-- [apple/example-package-dealer](https://github.com/apple/example-package-dealer) pushed_at:2020-12 star:0.2k fork:0.1k Example package for use with the Swift Package Manager
-- [apple/example-package-deckofplayingcards](https://github.com/apple/example-package-deckofplayingcards) pushed_at:2020-12 star:0.1k fork:0.1k Example package for use with the Swift Package Manager
-- [apple/example-package-fisheryates](https://github.com/apple/example-package-fisheryates) pushed_at:2021-04 star:0.2k fork:0.1k Example package for use with the Swift Package Manager
-- [apple/example-package-playingcard](https://github.com/apple/example-package-playingcard) pushed_at:2020-12 star:0.2k fork:0.1k Example package for use with the Swift Package Manager
+- [apple/example-package-dealer](https://github.com/apple/example-package-dealer) pushed_at:2021-05 star:0.2k fork:0.1k Example package for use with the Swift Package Manager
+- [apple/example-package-deckofplayingcards](https://github.com/apple/example-package-deckofplayingcards) pushed_at:2021-05 star:0.1k fork:0.1k Example package for use with the Swift Package Manager
+- [apple/example-package-fisheryates](https://github.com/apple/example-package-fisheryates) pushed_at:2021-05 star:0.2k fork:0.1k Example package for use with the Swift Package Manager
+- [apple/example-package-playingcard](https://github.com/apple/example-package-playingcard) pushed_at:2021-05 star:0.2k fork:0.1k Example package for use with the Swift Package Manager
 - [apple/FHIRModels](https://github.com/apple/FHIRModels) pushed_at:2020-11 star:0.1k fork:0.0k Swift library for FHIR® resource data models
 - [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) pushed_at:2021-05 star:2.3k fork:0.2k Language Server Protocol implementation for Swift and C-based languages
 - [apple/swift-3-api-guidelines-review](https://github.com/apple/swift-3-api-guidelines-review) pushed_at:2018-11 star:0.5k fork:0.1k 
@@ -152,11 +152,11 @@
 - [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) pushed_at:2021-05 star:0.9k fork:0.2k The XCTest Project, A Swift core library for providing unit test support
 - [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) pushed_at:2021-04 star:0.0k fork:0.0k Instrumentation library for Swift server applications
 - [apple/swift-distributed-tracing-baggage](https://github.com/apple/swift-distributed-tracing-baggage) pushed_at:2021-04 star:0.0k fork:0.0k Minimal context propagation container with Logging
-- [apple/swift-distributed-tracing-baggage-core](https://github.com/apple/swift-distributed-tracing-baggage-core) pushed_at:2021-04 star:0.0k fork:0.0k Minimal context propagation container
+- [apple/swift-distributed-tracing-baggage-core](https://github.com/apple/swift-distributed-tracing-baggage-core) pushed_at:2021-05 star:0.0k fork:0.0k Minimal context propagation container
 - [apple/swift-driver](https://github.com/apple/swift-driver) pushed_at:2021-05 star:0.5k fork:0.1k Swift compiler driver reimplementation in Swift
 - [apple/swift-evolution-staging](https://github.com/apple/swift-evolution-staging) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [apple/swift-format](https://github.com/apple/swift-format) pushed_at:2021-05 star:1.2k fork:0.1k Formatting technology for Swift source code
-- [apple/swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) pushed_at:2021-02 star:0.1k fork:0.0k A Swift implementation of the HTTP Structured Header Field specification.
+- [apple/swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) pushed_at:2021-05 star:0.1k fork:0.0k A Swift implementation of the HTTP Structured Header Field specification.
 - [apple/swift-llbuild2](https://github.com/apple/swift-llbuild2) pushed_at:2021-04 star:0.2k fork:0.0k A fresh take on a low-level build system API.
 - [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2021-05 star:2.4k fork:0.2k A Logging API for Swift
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) pushed_at:2021-05 star:0.4k fork:0.0k A Metrics API for Swift
@@ -171,7 +171,7 @@
 - [apple/swift-nio-zlib-support](https://github.com/apple/swift-nio-zlib-support) pushed_at:2020-12 star:0.0k fork:0.0k 
 - [apple/swift-numerics](https://github.com/apple/swift-numerics) pushed_at:2021-04 star:1.2k fork:0.1k Numerical APIs for Swift
 - [apple/swift-package-collection-generator](https://github.com/apple/swift-package-collection-generator) pushed_at:2021-05 star:0.0k fork:0.0k A collection of packages and tooling for generating and consuming package feeds.
-- [apple/swift-package-manager](https://github.com/apple/swift-package-manager) pushed_at:2021-05 star:8.3k fork:1.0k The Package Manager for the Swift Programming Language
+- [apple/swift-package-manager](https://github.com/apple/swift-package-manager) pushed_at:2021-05 star:8.3k fork:1.1k The Package Manager for the Swift Programming Language
 - [apple/swift-protobuf](https://github.com/apple/swift-protobuf) pushed_at:2021-05 star:3.5k fork:0.3k Plugin and runtime library for using protobuf with Swift
 - [apple/swift-se0270-range-set](https://github.com/apple/swift-se0270-range-set) pushed_at:2020-11 star:0.0k fork:0.0k Swift Evolution preview package for SE-0270.
 - [apple/swift-service-discovery](https://github.com/apple/swift-service-discovery) pushed_at:2021-05 star:0.2k fork:0.0k A service discovery API for Swift.

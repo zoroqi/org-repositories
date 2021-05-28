@@ -39,7 +39,7 @@
 ## Go
 
 - [sony/appsync-client-go](https://github.com/sony/appsync-client-go) pushed_at:2021-05 star:0.0k fork:0.0k AWS AppSync golang client library
-- [sony/gobreaker](https://github.com/sony/gobreaker) pushed_at:2021-04 star:1.5k fork:0.1k Circuit Breaker implemented in Go
+- [sony/gobreaker](https://github.com/sony/gobreaker) pushed_at:2021-04 star:1.6k fork:0.1k Circuit Breaker implemented in Go
 - [sony/micro-notifier](https://github.com/sony/micro-notifier) pushed_at:2021-02 star:0.0k fork:0.0k Simplified Pusher Clone
 - [sony/sonyflake](https://github.com/sony/sonyflake) pushed_at:2020-10 star:2.1k fork:0.2k A distributed unique ID generator inspired by Twitter's Snowflake
 
@@ -76,7 +76,7 @@
 - [sony/lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [sony/nnabla](https://github.com/sony/nnabla) pushed_at:2021-05 star:2.5k fork:0.3k Neural Network Libraries
 - [sony/nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) pushed_at:2019-03 star:0.0k fork:0.0k 
-- [sony/nnabla-examples](https://github.com/sony/nnabla-examples) pushed_at:2021-05 star:0.1k fork:0.0k Neural Network Libraries https://nnabla.org/ - Examples
+- [sony/nnabla-examples](https://github.com/sony/nnabla-examples) pushed_at:2021-05 star:0.2k fork:0.0k Neural Network Libraries https://nnabla.org/ - Examples
 - [sony/nnabla-nas](https://github.com/sony/nnabla-nas) pushed_at:2021-02 star:0.0k fork:0.0k Neural Architecture Search for Neural Network Libraries
 
 ## TypeScript
