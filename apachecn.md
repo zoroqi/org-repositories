@@ -121,7 +121,7 @@
 - [apachecn/apachecn-ml-zh](https://github.com/apachecn/apachecn-ml-zh) pushed_at:2021-05 star:0.0k fork:0.0k ApacheCN 机器学习译文集
 - [apachecn/apachecn-python-zh](https://github.com/apachecn/apachecn-python-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: ApacheCN Python 译文集
 - [apachecn/apachecn-ruby-zh](https://github.com/apachecn/apachecn-ruby-zh) pushed_at:2021-05 star:0.0k fork:0.0k :book: ApacheCN Ruby 译文集
-- [apachecn/apachecn-sec-zh](https://github.com/apachecn/apachecn-sec-zh) pushed_at:2021-05 star:0.0k fork:0.0k ApacheCN 网络安全译文集
+- [apachecn/apachecn-sec-zh](https://github.com/apachecn/apachecn-sec-zh) pushed_at:2021-05 star:0.1k fork:0.0k ApacheCN 网络安全译文集
 - [apachecn/beginnersbook-zh](https://github.com/apachecn/beginnersbook-zh) pushed_at:2021-05 star:0.1k fork:0.0k :books: [译] BeginnersBook 中文系列教程
 - [apachecn/bio-chem-env-mat-discourage](https://github.com/apachecn/bio-chem-env-mat-discourage) pushed_at:2021-05 star:0.0k fork:0.0k :book: 生化环材劝退文集
 - [apachecn/calc4b-zh](https://github.com/apachecn/calc4b-zh) pushed_at:2021-01 star:0.1k fork:0.0k :book: [译] MIT 18.03 面向初学者的微积分
@@ -342,7 +342,7 @@
 
 ## Python
 
-- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-05 star:29.8k fork:10.1k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-05 star:29.9k fork:10.1k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [apachecn/awesome-data-comp-solution](https://github.com/apachecn/awesome-data-comp-solution) pushed_at:2020-09 star:0.5k fork:0.1k 数据科学/人工智能比赛解决方案汇总
 - [apachecn/BiliDriveEx](https://github.com/apachecn/BiliDriveEx) pushed_at:2020-03 star:0.1k fork:0.0k :cloud: 已停更，请访问 CDNDrive：
 - [apachecn/BookerTrans](https://github.com/apachecn/BookerTrans) pushed_at:2021-04 star:0.0k fork:0.0k 用于 iBooker/ApacheCN 翻译项目的 HTML 谷歌翻译工具
@@ -353,7 +353,7 @@
 - [apachecn/imgyaso](https://github.com/apachecn/imgyaso) pushed_at:2020-11 star:0.0k fork:0.0k 提供多种图像处理工具，包括自适应二值化，灰度网格仿色，扩散仿色，和颜色缩减。
 - [apachecn/Middleware](https://github.com/apachecn/Middleware) pushed_at:2020-03 star:0.0k fork:0.0k 中间件 - 日常小工具
 - [apachecn/python_data_analysis_and_mining_action](https://github.com/apachecn/python_data_analysis_and_mining_action) pushed_at:2020-08 star:1.1k fork:0.5k 《python数据分析与挖掘实战》的代码笔记
-- [apachecn/RecommenderSystems](https://github.com/apachecn/RecommenderSystems) pushed_at:2019-04 star:0.5k fork:0.2k 推荐系统
+- [apachecn/RecommenderSystems](https://github.com/apachecn/RecommenderSystems) pushed_at:2019-04 star:0.6k fork:0.2k 推荐系统
 - [apachecn/weibo-bot](https://github.com/apachecn/weibo-bot) pushed_at:2019-01 star:0.0k fork:0.0k 自用微博机器人
 
 ## Shell
