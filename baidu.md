@@ -33,13 +33,13 @@
 
 ## C++
 
-- [baidu/AnyQ](https://github.com/baidu/AnyQ) pushed_at:2020-11 star:2.2k fork:0.6k FAQ-based Question Answering System
-- [baidu/BaikalDB](https://github.com/baidu/BaikalDB) pushed_at:2021-05 star:0.7k fork:0.1k BaikalDB, A Distributed HTAP Database.
+- [baidu/AnyQ](https://github.com/baidu/AnyQ) pushed_at:2020-11 star:2.3k fork:0.6k FAQ-based Question Answering System
+- [baidu/BaikalDB](https://github.com/baidu/BaikalDB) pushed_at:2021-05 star:0.8k fork:0.1k BaikalDB, A Distributed HTAP Database.
 - [baidu/bfs](https://github.com/baidu/bfs) pushed_at:2018-12 star:2.7k fork:0.5k The Baidu File System.
 - [baidu/bigflow](https://github.com/baidu/bigflow) pushed_at:2020-10 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [baidu/boteye](https://github.com/baidu/boteye) pushed_at:2019-04 star:0.2k fork:0.1k 
 - [baidu/boteye_driver](https://github.com/baidu/boteye_driver) pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/braft](https://github.com/baidu/braft) pushed_at:2021-05 star:2.7k fork:0.6k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
+- [baidu/braft](https://github.com/baidu/braft) pushed_at:2021-06 star:2.7k fork:0.6k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
 - [baidu/common](https://github.com/baidu/common) pushed_at:2017-06 star:0.1k fork:0.1k Common library
 - [baidu/Familia](https://github.com/baidu/Familia) pushed_at:2020-07 star:2.4k fork:0.6k A Toolkit for Industrial Topic Modeling
 - [baidu/fast_rgf](https://github.com/baidu/fast_rgf) pushed_at:2018-07 star:0.5k fork:0.1k Multi-core implementation of Regularized Greedy Forest
@@ -62,7 +62,7 @@
 
 - [baidu/baiducloud-sdk-go](https://github.com/baidu/baiducloud-sdk-go) pushed_at:2019-10 star:0.0k fork:0.0k Go SDK for Baidu Cloud
 - [baidu/cluster-api-provider-baiducloud](https://github.com/baidu/cluster-api-provider-baiducloud) pushed_at:2018-12 star:0.0k fork:0.0k Kubernetes cluster-api for Baidu Cloud
-- [baidu/EasyFaaS](https://github.com/baidu/EasyFaaS) pushed_at:2021-04 star:0.4k fork:0.0k EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎
+- [baidu/EasyFaaS](https://github.com/baidu/EasyFaaS) pushed_at:2021-06 star:0.4k fork:0.0k EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎
 - [baidu/go-lib](https://github.com/baidu/go-lib) pushed_at:2021-05 star:0.1k fork:0.0k 
 - [baidu/ote-stack](https://github.com/baidu/ote-stack) pushed_at:2020-07 star:0.1k fork:0.0k OTE-Stack is an edge computing platform for 5G and AI
 - [baidu/paddle-on-k8s-operator](https://github.com/baidu/paddle-on-k8s-operator) pushed_at:2020-03 star:0.0k fork:0.0k Kubernetes operator for managing the lifecycle of PaddlePaddle job.
@@ -89,7 +89,7 @@
 - [baidu/terminator](https://github.com/baidu/terminator) pushed_at:2016-11 star:0.1k fork:0.0k Service Virtualization
 - [baidu/titan-dex](https://github.com/baidu/titan-dex) pushed_at:2020-02 star:0.1k fork:0.0k 
 - [baidu/titan-hotfix](https://github.com/baidu/titan-hotfix) pushed_at:2020-02 star:0.1k fork:0.0k 
-- [baidu/uid-generator](https://github.com/baidu/uid-generator) pushed_at:2021-04 star:4.1k fork:1.3k UniqueID generator
+- [baidu/uid-generator](https://github.com/baidu/uid-generator) pushed_at:2021-06 star:4.1k fork:1.3k UniqueID generator
 
 ## JavaScript
 
@@ -99,13 +99,13 @@
 - [baidu/grafana-tsdb-datasource](https://github.com/baidu/grafana-tsdb-datasource) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [baidu/grafana-tsdb-datasource-backend](https://github.com/baidu/grafana-tsdb-datasource-backend) pushed_at:2019-01 star:0.0k fork:0.0k 
 - [baidu/mapv](https://github.com/baidu/mapv) pushed_at:2016-09 star:0.0k fork:0.0k a library of geography visualization-地理信息可视化库
-- [baidu/mix-img](https://github.com/baidu/mix-img) pushed_at:2021-06 star:0.0k fork:0.0k A fast mix image javascript tool libary
+- [baidu/mix-img](https://github.com/baidu/mix-img) pushed_at:2021-06 star:0.1k fork:0.0k A fast mix image javascript tool libary
 - [baidu/NoahV](https://github.com/baidu/NoahV) pushed_at:2021-06 star:0.6k fork:0.1k An efficient front-end application framework based on vue.js
 - [baidu/san](https://github.com/baidu/san) pushed_at:2021-05 star:4.4k fork:0.5k A fast, portable, flexible JavaScript component framework
 - [baidu/san-factory](https://github.com/baidu/san-factory) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [baidu/san-router](https://github.com/baidu/san-router) pushed_at:2021-04 star:0.0k fork:0.0k Official Router for San
 - [baidu/san-store](https://github.com/baidu/san-store) pushed_at:2021-05 star:0.1k fork:0.0k Application States Management for San
-- [baidu/san-update](https://github.com/baidu/san-update) pushed_at:2021-05 star:0.1k fork:0.0k Object immutable update utility for san solution
+- [baidu/san-update](https://github.com/baidu/san-update) pushed_at:2021-06 star:0.1k fork:0.0k Object immutable update utility for san solution
 - [baidu/san-website](https://github.com/baidu/san-website) pushed_at:2021-05 star:0.0k fork:0.1k 
 - [baidu/signet](https://github.com/baidu/signet) pushed_at:2014-12 star:0.0k fork:0.0k 签章系统
 - [baidu/wx2](https://github.com/baidu/wx2) pushed_at:2021-04 star:0.1k fork:0.0k 小程序互转工具
@@ -133,7 +133,7 @@
 - [baidu/ARK](https://github.com/baidu/ARK) pushed_at:2021-05 star:0.1k fork:0.0k Development framework of intelligent operation
 - [baidu/broc](https://github.com/baidu/broc) pushed_at:2017-12 star:0.1k fork:0.1k 
 - [baidu/CUP](https://github.com/baidu/CUP) pushed_at:2021-05 star:0.8k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
-- [baidu/DDParser](https://github.com/baidu/DDParser) pushed_at:2021-05 star:0.6k fork:0.1k 百度开源的依存句法分析系统
+- [baidu/DDParser](https://github.com/baidu/DDParser) pushed_at:2021-06 star:0.6k fork:0.1k 百度开源的依存句法分析系统
 - [baidu/Dialogue](https://github.com/baidu/Dialogue) pushed_at:2020-01 star:0.4k fork:0.1k 
 - [baidu/duedge-cli](https://github.com/baidu/duedge-cli) pushed_at:2020-03 star:0.0k fork:0.0k DuEdge Command Line
 - [baidu/DuReader](https://github.com/baidu/DuReader) pushed_at:2019-07 star:0.8k fork:0.3k Baseline Systems of DuReader Dataset
@@ -150,8 +150,8 @@
 ## TypeScript
 
 - [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-06 star:7.1k fork:0.9k 前端低代码框架，通过 JSON 配置就能生成各种页面。
-- [baidu/san-devtools](https://github.com/baidu/san-devtools) pushed_at:2021-05 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
-- [baidu/san-ssr](https://github.com/baidu/san-ssr) pushed_at:2021-05 star:0.0k fork:0.0k San SSR framework and utils
+- [baidu/san-devtools](https://github.com/baidu/san-devtools) pushed_at:2021-06 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
+- [baidu/san-ssr](https://github.com/baidu/san-ssr) pushed_at:2021-06 star:0.0k fork:0.0k San SSR framework and utils
 
 ## VHDL
 

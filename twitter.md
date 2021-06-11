@@ -43,7 +43,7 @@
 - [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2021-06 star:0.7k fork:0.1k Pelikan is Twitter's unified cache backend
 - [twitter/torch-ipc](https://github.com/twitter/torch-ipc) pushed_at:2017-06 star:0.1k fork:0.0k A set of primitives for parallel computation in Torch
 - [twitter/torch-thrift](https://github.com/twitter/torch-thrift) pushed_at:2016-03 star:0.0k fork:0.0k A Thrift codec for Torch
-- [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2019-08 star:0.9k fork:0.1k Twemcache is the Twitter Memcached
+- [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2019-08 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-05 star:10.7k fork:1.9k A fast, light-weight proxy for memcached and redis
 
 ## C#
@@ -65,7 +65,7 @@
 
 - [twitter/go-bindata](https://github.com/twitter/go-bindata) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [twitter/groupcache](https://github.com/twitter/groupcache) pushed_at:2020-12 star:0.0k fork:0.0k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-- [twitter/scoot](https://github.com/twitter/scoot) pushed_at:2021-05 star:0.2k fork:0.0k Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
+- [twitter/scoot](https://github.com/twitter/scoot) pushed_at:2021-06 star:0.2k fork:0.0k Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
 
 ## HTML
 
@@ -77,11 +77,11 @@
 ## Java
 
 - [twitter/ambrose](https://github.com/twitter/ambrose) pushed_at:2020-01 star:1.2k fork:0.2k A platform for visualization and real-time monitoring of data workflows
-- [twitter/cloudhopper-commons](https://github.com/twitter/cloudhopper-commons) pushed_at:2021-04 star:0.0k fork:0.0k Cloudhopper Commons
+- [twitter/cloudhopper-commons](https://github.com/twitter/cloudhopper-commons) pushed_at:2021-06 star:0.0k fork:0.0k Cloudhopper Commons
 - [twitter/distributedlog](https://github.com/twitter/distributedlog) pushed_at:2020-02 star:2.3k fork:0.3k A high performance replicated log service. (The development is moved to Apache Incubator)
 - [twitter/elephant-bird](https://github.com/twitter/elephant-bird) pushed_at:2021-04 star:1.1k fork:0.4k Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
 - [twitter/GraphJet](https://github.com/twitter/GraphJet) pushed_at:2021-03 star:0.5k fork:0.1k GraphJet is a real-time graph processing library.
-- [twitter/hbc](https://github.com/twitter/hbc) pushed_at:2021-06 star:0.9k fork:0.3k A Java HTTP client for consuming Twitter's realtime Streaming API
+- [twitter/hbc](https://github.com/twitter/hbc) pushed_at:2021-06 star:0.9k fork:0.4k A Java HTTP client for consuming Twitter's realtime Streaming API
 - [twitter/hpack](https://github.com/twitter/hpack) pushed_at:2020-10 star:0.2k fork:0.0k Header Compression for HTTP/2
 - [twitter/hraven](https://github.com/twitter/hraven) pushed_at:2021-06 star:0.1k fork:0.1k hRaven collects run time data and statistics from MapReduce jobs in an easily queryable format
 - [twitter/joauth](https://github.com/twitter/joauth) pushed_at:2020-10 star:0.2k fork:0.1k A Java library for authenticating HTTP Requests using OAuth
@@ -113,7 +113,7 @@
 
 ## Objective-C
 
-- [twitter/CocoaSPDY](https://github.com/twitter/CocoaSPDY) pushed_at:2017-04 star:2.4k fork:0.3k SPDY for iOS and OS X
+- [twitter/CocoaSPDY](https://github.com/twitter/CocoaSPDY) pushed_at:2017-04 star:2.4k fork:0.2k SPDY for iOS and OS X
 - [twitter/ios-twitter-logging-service](https://github.com/twitter/ios-twitter-logging-service) pushed_at:2020-08 star:0.3k fork:0.0k Twitter Logging Service is a robust and performant logging framework for iOS clients
 - [twitter/ios-twitter-network-layer](https://github.com/twitter/ios-twitter-network-layer) pushed_at:2021-01 star:0.5k fork:0.0k Twitter Network Layer is a scalable and feature rich network layer built on top of NSURLSession for Apple platforms
 
@@ -125,7 +125,7 @@
 - [twitter/curation-style-guide](https://github.com/twitter/curation-style-guide) pushed_at:2019-06 star:0.0k fork:0.0k Document Repository for Twitter's Curation Style Guide
 - [twitter/gpl-commitment](https://github.com/twitter/gpl-commitment) pushed_at:2018-10 star:0.0k fork:0.0k Twitter's GPL Cooperation Commitment
 - [twitter/innovators-patent-agreement](https://github.com/twitter/innovators-patent-agreement) pushed_at:2016-06 star:0.9k fork:0.1k Innovators Patent Agreement (IPA)
-- [twitter/metrics](https://github.com/twitter/metrics) pushed_at:2021-05 star:0.0k fork:0.0k 
+- [twitter/metrics](https://github.com/twitter/metrics) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [twitter/ossdecks](https://github.com/twitter/ossdecks) pushed_at:2019-04 star:0.0k fork:0.0k Repository for Twitter Open Source Decks
 - [twitter/second-control-probability-distributions](https://github.com/twitter/second-control-probability-distributions) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [twitter/sekhmet](https://github.com/twitter/sekhmet) pushed_at:2018-06 star:0.0k fork:0.0k foundational tools and building blocks for gaining insights and diagnosing system health in real-time
@@ -147,7 +147,7 @@
 
 ## R
 
-- [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) pushed_at:2019-08 star:3.3k fork:0.7k Anomaly Detection with R
+- [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) pushed_at:2019-08 star:3.4k fork:0.7k Anomaly Detection with R
 
 ## Ruby
 
@@ -164,7 +164,7 @@
 
 ## SCSS
 
-- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-05 star:1.6k fork:0.5k A listing of open source efforts at Twitter on GitHub
+- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-06 star:1.6k fork:0.5k A listing of open source efforts at Twitter on GitHub
 
 ## Scala
 
@@ -184,7 +184,7 @@
 - [twitter/scala-json](https://github.com/twitter/scala-json) pushed_at:2019-12 star:0.0k fork:0.0k JSON in Scala (deprecated)
 - [twitter/scala_school2](https://github.com/twitter/scala_school2) pushed_at:2019-06 star:0.3k fork:0.1k Scala School 2
 - [twitter/scalding](https://github.com/twitter/scalding) pushed_at:2021-04 star:3.3k fork:0.7k A Scala API for Cascading
-- [twitter/scrooge](https://github.com/twitter/scrooge) pushed_at:2021-05 star:0.7k fork:0.2k A Thrift parser/generator
+- [twitter/scrooge](https://github.com/twitter/scrooge) pushed_at:2021-06 star:0.7k fork:0.2k A Thrift parser/generator
 - [twitter/storehaus](https://github.com/twitter/storehaus) pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) pushed_at:2020-11 star:2.1k fork:0.3k Streaming MapReduce with Scalding and Storm
 - [twitter/tormenta](https://github.com/twitter/tormenta) pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
@@ -196,7 +196,7 @@
 ## Shell
 
 - [twitter/cache-trace](https://github.com/twitter/cache-trace) pushed_at:2020-11 star:0.1k fork:0.0k 
-- [twitter/dodo](https://github.com/twitter/dodo) pushed_at:2021-05 star:0.0k fork:0.0k The Twitter OSS Project Builder
+- [twitter/dodo](https://github.com/twitter/dodo) pushed_at:2021-06 star:0.0k fork:0.0k The Twitter OSS Project Builder
 - [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) pushed_at:2021-03 star:0.5k fork:0.3k Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
 
 ## Swift

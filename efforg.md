@@ -55,7 +55,7 @@
 ## Go
 
 - [EFForg/starttls-backend](https://github.com/EFForg/starttls-backend) pushed_at:2020-06 star:0.0k fork:0.0k STARTTLS Everywhere web backend and checker
-- [EFForg/yaya](https://github.com/EFForg/yaya) pushed_at:2021-04 star:0.2k fork:0.0k Yet Another Yara Automaton - Automatically curate open source yara rules and run scans
+- [EFForg/yaya](https://github.com/EFForg/yaya) pushed_at:2021-06 star:0.2k fork:0.0k Yet Another Yara Automaton - Automatically curate open source yara rules and run scans
 
 ## HTML
 
@@ -127,7 +127,7 @@
 - [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) pushed_at:2021-04 star:0.4k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
 - [EFForg/cryptobot-email](https://github.com/EFForg/cryptobot-email) pushed_at:2014-05 star:0.1k fork:0.0k 
 - [EFForg/cryptolog](https://github.com/EFForg/cryptolog) pushed_at:2016-07 star:0.1k fork:0.0k Cryptolog is a tool for anonymizing webserver logs.
-- [EFForg/https-everywhere-standalone](https://github.com/EFForg/https-everywhere-standalone) pushed_at:2020-12 star:0.0k fork:0.0k Transparently redirect insecure HTTP to secure HTTPS using HTTPS Everywhere and `mitmproxy`
+- [EFForg/https-everywhere-standalone](https://github.com/EFForg/https-everywhere-standalone) pushed_at:2021-06 star:0.0k fork:0.0k Transparently redirect insecure HTTP to secure HTTPS using HTTPS Everywhere and `mitmproxy`
 - [EFForg/observatory](https://github.com/EFForg/observatory) pushed_at:2018-06 star:0.0k fork:0.0k 
 - [EFForg/onpremise](https://github.com/EFForg/onpremise) pushed_at:2016-09 star:0.0k fork:0.0k Sentry On-Premise setup
 - [EFForg/smtp-tls-history](https://github.com/EFForg/smtp-tls-history) pushed_at:2014-03 star:0.0k fork:0.0k Produce graphs of the historical (in)security of SMTP transmissions by parsing mailboxes
@@ -137,7 +137,7 @@
 
 ## Ruby
 
-- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) pushed_at:2021-05 star:0.3k fork:0.1k The EFF Action Center Platform
+- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) pushed_at:2021-06 star:0.3k fork:0.1k The EFF Action Center Platform
 - [EFForg/active_preview](https://github.com/EFForg/active_preview) pushed_at:2018-11 star:0.0k fork:0.0k Rails plugin to make previews of active record objects
 - [EFForg/aws_one_click_staging](https://github.com/EFForg/aws_one_click_staging) pushed_at:2018-02 star:0.0k fork:0.0k 
 - [EFForg/check-your-reps](https://github.com/EFForg/check-your-reps) pushed_at:2018-11 star:0.0k fork:0.0k 

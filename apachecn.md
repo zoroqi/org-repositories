@@ -44,7 +44,7 @@
 - [apachecn/gen-epub](https://github.com/apachecn/gen-epub) pushed_at:2021-02 star:0.0k fork:0.0k 用于生成 EPUB 的小工具。
 - [apachecn/hands-on-ml-2e-zh](https://github.com/apachecn/hands-on-ml-2e-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] Sklearn 与 TensorFlow 机器学习实用指南第二版
 - [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) pushed_at:2019-04 star:3.5k fork:1.5k :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
-- [apachecn/home](https://github.com/apachecn/home) pushed_at:2021-05 star:1.2k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
+- [apachecn/home](https://github.com/apachecn/home) pushed_at:2021-06 star:1.2k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [apachecn/kali-linux-cookbook-zh](https://github.com/apachecn/kali-linux-cookbook-zh) pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Kali Linux 秘籍 中文版
 - [apachecn/kali-linux-network-scanning-cookbook-zh](https://github.com/apachecn/kali-linux-network-scanning-cookbook-zh) pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Kali Linux 网络扫描秘籍 中文版
 - [apachecn/kali-linux-web-pentest-cookbook-zh](https://github.com/apachecn/kali-linux-web-pentest-cookbook-zh) pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Kali Linux Web 渗透测试秘籍 中文版
@@ -70,7 +70,7 @@
 - [apachecn/scipycon-2018-sklearn-tut-zh](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh) pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] SciPyCon 2018 Sklearn 教程
 - [apachecn/sicp-py-zh](https://github.com/apachecn/sicp-py-zh) pushed_at:2021-01 star:0.0k fork:0.0k :book: [译] UCB CS61a SICP Python 描述 中文版
 - [apachecn/sklearn-cookbook-zh](https://github.com/apachecn/sklearn-cookbook-zh) pushed_at:2019-09 star:0.0k fork:0.0k :book: [译] Scikit-learn 秘籍
-- [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) pushed_at:2021-04 star:4.2k fork:1.3k :book: [译] scikit-learn（sklearn） 中文文档
+- [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) pushed_at:2021-04 star:4.3k fork:1.4k :book: [译] scikit-learn（sklearn） 中文文档
 - [apachecn/SocialMediaMining-zh](https://github.com/apachecn/SocialMediaMining-zh) pushed_at:2020-11 star:0.0k fork:0.0k 社交媒体挖掘_翻译版
 - [apachecn/stanford-cs224n-notes-zh](https://github.com/apachecn/stanford-cs224n-notes-zh) pushed_at:2020-09 star:0.3k fork:0.0k :book: 斯坦福 CS224n 自然语言处理中文笔记
 - [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes) pushed_at:2020-12 star:0.1k fork:0.1k :book: 通往财富自由之路精细笔记
@@ -115,7 +115,7 @@
 - [apachecn/apachecn-cv-zh](https://github.com/apachecn/apachecn-cv-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN CV 译文集
 - [apachecn/apachecn-dl-zh](https://github.com/apachecn/apachecn-dl-zh) pushed_at:2021-05 star:0.2k fork:0.1k ApacheCN 深度学习译文集
 - [apachecn/apachecn-ds-zh](https://github.com/apachecn/apachecn-ds-zh) pushed_at:2021-05 star:0.1k fork:0.0k :book: [译] ApacheCN 数据科学译文集
-- [apachecn/apachecn-java-zh](https://github.com/apachecn/apachecn-java-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN Java 译文集
+- [apachecn/apachecn-java-zh](https://github.com/apachecn/apachecn-java-zh) pushed_at:2021-06 star:0.0k fork:0.0k :books: [译] ApacheCN Java 译文集
 - [apachecn/apachecn-js-zh](https://github.com/apachecn/apachecn-js-zh) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [apachecn/apachecn-linux-zh](https://github.com/apachecn/apachecn-linux-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN Linux 译文集
 - [apachecn/apachecn-ml-zh](https://github.com/apachecn/apachecn-ml-zh) pushed_at:2021-05 star:0.0k fork:0.0k ApacheCN 机器学习译文集
@@ -128,7 +128,7 @@
 - [apachecn/cython-doc-zh](https://github.com/apachecn/cython-doc-zh) pushed_at:2021-01 star:0.1k fork:0.0k Cython 3.0 中文文档
 - [apachecn/dataviz-zh](https://github.com/apachecn/dataviz-zh) pushed_at:2021-01 star:0.0k fork:0.0k :book: 【译】数据可视化的基础知识
 - [apachecn/doc-template](https://github.com/apachecn/doc-template) pushed_at:2021-05 star:0.0k fork:0.0k ApacheCN Docsify 文档项目模板
-- [apachecn/doctool](https://github.com/apachecn/doctool) pushed_at:2021-05 star:0.0k fork:0.0k 
+- [apachecn/doctool](https://github.com/apachecn/doctool) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [apachecn/ds100-textbook-zh](https://github.com/apachecn/ds100-textbook-zh) pushed_at:2021-01 star:0.1k fork:0.0k :book: [译] UCB DS100 数据科学的原理与技巧
 - [apachecn/dsai-wiki](https://github.com/apachecn/dsai-wiki) pushed_at:2021-05 star:0.0k fork:0.0k :books: ApacheCN 数据科学和人工智能知识库
 - [apachecn/elasticsearch-doc-zh](https://github.com/apachecn/elasticsearch-doc-zh) pushed_at:2020-12 star:0.1k fork:0.0k :book: [译] elasticsearch 中文文档
@@ -167,7 +167,7 @@
 - [apachecn/pythonbasics-zh](https://github.com/apachecn/pythonbasics-zh) pushed_at:2021-05 star:0.0k fork:0.0k :book: [译] PythonBasics 中文系列教程
 - [apachecn/pythonguru-zh](https://github.com/apachecn/pythonguru-zh) pushed_at:2021-05 star:0.0k fork:0.0k :book: [译] PythonGuru 中文系列教程
 - [apachecn/pythonspot-zh](https://github.com/apachecn/pythonspot-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] PythonSpot 中文系列教程
-- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) pushed_at:2021-05 star:3.1k fork:0.9k Pytorch 中文文档
+- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) pushed_at:2021-06 star:3.1k fork:0.9k Pytorch 中文文档
 - [apachecn/scrapy-doc-zh](https://github.com/apachecn/scrapy-doc-zh) pushed_at:2021-01 star:0.0k fork:0.0k Scrapy 1.6 文档
 - [apachecn/seaborn-doc-zh](https://github.com/apachecn/seaborn-doc-zh) pushed_at:2021-01 star:0.1k fork:0.1k :book: [译] seaborn 0.9 中文文档
 - [apachecn/sec-wiki](https://github.com/apachecn/sec-wiki) pushed_at:2021-05 star:0.0k fork:0.0k ApacheCN 安全知识库
@@ -342,7 +342,7 @@
 
 ## Python
 
-- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-05 star:29.9k fork:10.1k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-05 star:30.0k fork:10.1k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [apachecn/awesome-data-comp-solution](https://github.com/apachecn/awesome-data-comp-solution) pushed_at:2020-09 star:0.5k fork:0.1k 数据科学/人工智能比赛解决方案汇总
 - [apachecn/BiliDriveEx](https://github.com/apachecn/BiliDriveEx) pushed_at:2020-03 star:0.1k fork:0.0k :cloud: 已停更，请访问 CDNDrive：
 - [apachecn/BookerTrans](https://github.com/apachecn/BookerTrans) pushed_at:2021-04 star:0.0k fork:0.0k 用于 iBooker/ApacheCN 翻译项目的 HTML 谷歌翻译工具
