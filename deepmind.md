@@ -29,7 +29,7 @@
 - [deepmind/lab2d](https://github.com/deepmind/lab2d) pushed_at:2021-05 star:0.3k fork:0.0k A customisable 2D platform for agent-based AI research
 - [deepmind/labmaze](https://github.com/deepmind/labmaze) pushed_at:2021-03 star:0.0k fork:0.0k A standalone release of DeepMind Lab's maze generator with Python bindings.
 - [deepmind/multidim-image-augmentation](https://github.com/deepmind/multidim-image-augmentation) pushed_at:2021-02 star:0.1k fork:0.0k This package provides TensorFlow Ops for multidimensional volumetric image augmentation.
-- [deepmind/open_spiel](https://github.com/deepmind/open_spiel) pushed_at:2021-06 star:2.7k fork:0.6k OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
+- [deepmind/open_spiel](https://github.com/deepmind/open_spiel) pushed_at:2021-06 star:2.8k fork:0.6k OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 - [deepmind/reverb](https://github.com/deepmind/reverb) pushed_at:2021-06 star:0.4k fork:0.0k Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research
 - [deepmind/spiral](https://github.com/deepmind/spiral) pushed_at:2019-10 star:0.3k fork:0.0k We provide a pre-trained model for unconditional 19-step generation of CelebA-HQ images
 - [deepmind/streetlearn](https://github.com/deepmind/streetlearn) pushed_at:2020-07 star:0.2k fork:0.0k A C++/Python implementation of the StreetLearn environment based on images from Street View, as well as a TensorFlow implementation of goal-driven navigation agents solving the task published in “Learning to Navigate in Cities Without a Map”, NeurIPS 2018
@@ -51,7 +51,7 @@
 ## Jupyter Notebook
 
 - [deepmind/3d-shapes](https://github.com/deepmind/3d-shapes) pushed_at:2019-03 star:0.1k fork:0.0k This repository contains the 3D shapes dataset, used in Kim, Hyunjik and Mnih, Andriy. "Disentangling by Factorising." In Proceedings of the 35th International Conference on Machine Learning (ICML). 2018. to assess the disentanglement properties of unsupervised learning methods.
-- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) pushed_at:2021-06 star:6.8k fork:1.3k This repository contains implementations and illustrative code to accompany DeepMind publications
+- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) pushed_at:2021-06 star:6.9k fork:1.3k This repository contains implementations and illustrative code to accompany DeepMind publications
 - [deepmind/dsprites-dataset](https://github.com/deepmind/dsprites-dataset) pushed_at:2021-01 star:0.4k fork:0.1k Dataset to assess the disentanglement properties of unsupervised learning methods
 - [deepmind/educational](https://github.com/deepmind/educational) pushed_at:2021-04 star:0.1k fork:0.0k 
 - [deepmind/mc_gradients](https://github.com/deepmind/mc_gradients) pushed_at:2021-05 star:0.1k fork:0.0k 
@@ -94,8 +94,8 @@
 
 - [deepmind/acme](https://github.com/deepmind/acme) pushed_at:2021-06 star:2.1k fork:0.2k A library of reinforcement learning components and agents
 - [deepmind/ai-safety-gridworlds](https://github.com/deepmind/ai-safety-gridworlds) pushed_at:2020-10 star:0.5k fork:0.1k This is a suite of reinforcement learning environments illustrating various safety properties of intelligent agents.
-- [deepmind/android_env](https://github.com/deepmind/android_env) pushed_at:2021-06 star:0.6k fork:0.0k A library for doing RL research on Android devices.
-- [deepmind/bsuite](https://github.com/deepmind/bsuite) pushed_at:2021-05 star:1.2k fork:0.2k bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
+- [deepmind/android_env](https://github.com/deepmind/android_env) pushed_at:2021-06 star:0.7k fork:0.0k A library for doing RL research on Android devices.
+- [deepmind/bsuite](https://github.com/deepmind/bsuite) pushed_at:2021-06 star:1.2k fork:0.2k bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
 - [deepmind/chex](https://github.com/deepmind/chex) pushed_at:2021-06 star:0.3k fork:0.0k 
 - [deepmind/deep-verify](https://github.com/deepmind/deep-verify) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [deepmind/distrax](https://github.com/deepmind/distrax) pushed_at:2021-06 star:0.2k fork:0.0k 
@@ -140,7 +140,7 @@
 - [deepmind/sonnet](https://github.com/deepmind/sonnet) pushed_at:2021-06 star:8.9k fork:1.3k TensorFlow-based neural network library
 - [deepmind/spectral_inference_networks](https://github.com/deepmind/spectral_inference_networks) pushed_at:2019-05 star:0.2k fork:0.0k Implementation of Spectral Inference Networks, ICLR 2019
 - [deepmind/spriteworld](https://github.com/deepmind/spriteworld) pushed_at:2020-06 star:0.3k fork:0.0k Spriteworld: a flexible, configurable python-based reinforcement learning environment
-- [deepmind/surface-distance](https://github.com/deepmind/surface-distance) pushed_at:2021-04 star:0.2k fork:0.1k Library to compute surface distance based performance metrics for segmentation tasks.
+- [deepmind/surface-distance](https://github.com/deepmind/surface-distance) pushed_at:2021-06 star:0.2k fork:0.1k Library to compute surface distance based performance metrics for segmentation tasks.
 - [deepmind/Temporal-3D-Pose-Kinetics](https://github.com/deepmind/Temporal-3D-Pose-Kinetics) pushed_at:2019-07 star:0.2k fork:0.0k Exploiting temporal context for 3D human pose estimation in the wild: 3D poses for the Kinetics dataset
 - [deepmind/tensor_annotations](https://github.com/deepmind/tensor_annotations) pushed_at:2021-06 star:0.1k fork:0.0k Annotating tensor shapes using Python types
 - [deepmind/tree](https://github.com/deepmind/tree) pushed_at:2021-06 star:0.6k fork:0.0k tree is a library for working with nested data structures

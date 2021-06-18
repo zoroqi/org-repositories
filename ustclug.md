@@ -67,8 +67,8 @@
 - [ustclug/hackergame2017](https://github.com/ustclug/hackergame2017) pushed_at:2017-10 star:0.0k fork:0.0k 
 - [ustclug/library](https://github.com/ustclug/library) pushed_at:2017-11 star:0.0k fork:0.0k LUG Library
 - [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) pushed_at:2021-06 star:0.0k fork:0.0k LUG VPN 申请系统
-- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2021-05 star:0.3k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
-- [ustclug/website-static](https://github.com/ustclug/website-static) pushed_at:2021-01 star:0.0k fork:0.0k Hosting static content (image/assets) for LUG website
+- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2021-06 star:0.3k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
+- [ustclug/website-static](https://github.com/ustclug/website-static) pushed_at:2021-06 star:0.0k fork:0.0k Hosting static content (image/assets) for LUG website
 
 ## Rust
 

@@ -114,7 +114,7 @@
 - [apachecn/apachecn-cs-zh](https://github.com/apachecn/apachecn-cs-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN 计算机科学译文集
 - [apachecn/apachecn-cv-zh](https://github.com/apachecn/apachecn-cv-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN CV 译文集
 - [apachecn/apachecn-dl-zh](https://github.com/apachecn/apachecn-dl-zh) pushed_at:2021-05 star:0.2k fork:0.1k ApacheCN 深度学习译文集
-- [apachecn/apachecn-ds-zh](https://github.com/apachecn/apachecn-ds-zh) pushed_at:2021-05 star:0.1k fork:0.0k :book: [译] ApacheCN 数据科学译文集
+- [apachecn/apachecn-ds-zh](https://github.com/apachecn/apachecn-ds-zh) pushed_at:2021-05 star:0.2k fork:0.0k :book: [译] ApacheCN 数据科学译文集
 - [apachecn/apachecn-java-zh](https://github.com/apachecn/apachecn-java-zh) pushed_at:2021-06 star:0.0k fork:0.0k :books: [译] ApacheCN Java 译文集
 - [apachecn/apachecn-js-zh](https://github.com/apachecn/apachecn-js-zh) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [apachecn/apachecn-linux-zh](https://github.com/apachecn/apachecn-linux-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN Linux 译文集
@@ -346,7 +346,7 @@
 - [apachecn/awesome-data-comp-solution](https://github.com/apachecn/awesome-data-comp-solution) pushed_at:2020-09 star:0.5k fork:0.1k 数据科学/人工智能比赛解决方案汇总
 - [apachecn/BiliDriveEx](https://github.com/apachecn/BiliDriveEx) pushed_at:2020-03 star:0.1k fork:0.0k :cloud: 已停更，请访问 CDNDrive：
 - [apachecn/BookerTrans](https://github.com/apachecn/BookerTrans) pushed_at:2021-04 star:0.0k fork:0.0k 用于 iBooker/ApacheCN 翻译项目的 HTML 谷歌翻译工具
-- [apachecn/CDNDrive](https://github.com/apachecn/CDNDrive) pushed_at:2021-05 star:0.4k fork:0.0k :cloud: CDNDrive = BiliDrive + SuperBed，支持任意文件的全速上传与下载
+- [apachecn/CDNDrive](https://github.com/apachecn/CDNDrive) pushed_at:2021-05 star:0.4k fork:0.1k :cloud: CDNDrive = BiliDrive + SuperBed，支持任意文件的全速上传与下载
 - [apachecn/data](https://github.com/apachecn/data) pushed_at:2020-08 star:0.2k fork:0.2k 
 - [apachecn/fastapi-docs-cn](https://github.com/apachecn/fastapi-docs-cn) pushed_at:2020-03 star:0.0k fork:0.0k 官方文档已经有翻译的人在做了，
 - [apachecn/hudi-doc-zh](https://github.com/apachecn/hudi-doc-zh) pushed_at:2020-01 star:0.0k fork:0.0k hudi 中文文档
@@ -358,7 +358,7 @@
 
 ## Shell
 
-- [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) pushed_at:2021-01 star:1.8k fork:0.4k ApacheCN AI 路线图（知识树）
+- [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) pushed_at:2021-01 star:1.8k fork:0.5k ApacheCN AI 路线图（知识树）
 - [apachecn/awesome-article-recomm](https://github.com/apachecn/awesome-article-recomm) pushed_at:2020-09 star:0.1k fork:0.0k 优质博文推荐计划
 - [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh) pushed_at:2020-09 star:0.4k fork:0.1k 计算机公开课推荐
 - [apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh) pushed_at:2020-09 star:0.6k fork:0.1k 独立开发/自由职业/远程工作资源列表

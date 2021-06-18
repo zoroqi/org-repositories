@@ -44,7 +44,7 @@
 - [twitter/torch-ipc](https://github.com/twitter/torch-ipc) pushed_at:2017-06 star:0.1k fork:0.0k A set of primitives for parallel computation in Torch
 - [twitter/torch-thrift](https://github.com/twitter/torch-thrift) pushed_at:2016-03 star:0.0k fork:0.0k A Thrift codec for Torch
 - [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2019-08 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-05 star:10.7k fork:1.9k A fast, light-weight proxy for memcached and redis
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-06 star:10.7k fork:1.9k A fast, light-weight proxy for memcached and redis
 
 ## C#
 
@@ -72,7 +72,7 @@
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) pushed_at:2019-06 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-05 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
 - [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-06 star:12.8k fork:1.5k Emoji for everyone. https://twemoji.twitter.com/
-- [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2021-05 star:2.5k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
+- [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2021-06 star:2.5k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 
 ## Java
 
@@ -140,7 +140,7 @@
 - [twitter/caladrius](https://github.com/twitter/caladrius) pushed_at:2021-03 star:0.0k fork:0.0k Performance modelling system for Distributed Stream Processing Systems (DSPS) such as Apache Heron and Apache Storm
 - [twitter/dict_minimize](https://github.com/twitter/dict_minimize) pushed_at:2021-04 star:0.1k fork:0.0k Access scipy optimizers from your favorite deep learning framework.
 - [twitter/gatekeeper-service](https://github.com/twitter/gatekeeper-service) pushed_at:2018-09 star:0.0k fork:0.0k GateKeeper is a service built to automate the manual steps involved in onboarding, offboarding, and lost asset scenarios.
-- [twitter/pants](https://github.com/twitter/pants) pushed_at:2021-05 star:0.1k fork:0.0k Pants Build System
+- [twitter/pants](https://github.com/twitter/pants) pushed_at:2021-06 star:0.1k fork:0.0k Pants Build System
 - [twitter/pycascading](https://github.com/twitter/pycascading) pushed_at:2019-12 star:0.2k fork:0.0k A Python wrapper for Cascading
 - [twitter/repo-scaffolding](https://github.com/twitter/repo-scaffolding) pushed_at:2020-12 star:0.0k fork:0.0k Tools for creating repos based on open source standards and best practices
 - [twitter/zktraffic](https://github.com/twitter/zktraffic) pushed_at:2020-07 star:0.2k fork:0.0k ZooKeeper protocol analyzer and stats gathering daemon
@@ -158,7 +158,7 @@
 
 ## Rust
 
-- [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2021-06 star:0.9k fork:0.1k Systems performance telemetry
+- [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2021-06 star:1.0k fork:0.1k Systems performance telemetry
 - [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2021-06 star:0.4k fork:0.1k A tool for benchmarking RPC services
 - [twitter/rustcommon](https://github.com/twitter/rustcommon) pushed_at:2021-06 star:0.2k fork:0.0k Common Twitter Rust lib
 
