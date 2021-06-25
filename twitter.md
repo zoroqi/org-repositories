@@ -71,7 +71,7 @@
 
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) pushed_at:2019-06 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-05 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-06 star:12.8k fork:1.5k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-06 star:12.9k fork:1.5k Emoji for everyone. https://twemoji.twitter.com/
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2021-06 star:2.5k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 
 ## Java
@@ -80,7 +80,7 @@
 - [twitter/cloudhopper-commons](https://github.com/twitter/cloudhopper-commons) pushed_at:2021-06 star:0.0k fork:0.0k Cloudhopper Commons
 - [twitter/distributedlog](https://github.com/twitter/distributedlog) pushed_at:2020-02 star:2.3k fork:0.3k A high performance replicated log service. (The development is moved to Apache Incubator)
 - [twitter/elephant-bird](https://github.com/twitter/elephant-bird) pushed_at:2021-04 star:1.1k fork:0.4k Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
-- [twitter/GraphJet](https://github.com/twitter/GraphJet) pushed_at:2021-03 star:0.5k fork:0.1k GraphJet is a real-time graph processing library.
+- [twitter/GraphJet](https://github.com/twitter/GraphJet) pushed_at:2021-06 star:0.5k fork:0.1k GraphJet is a real-time graph processing library.
 - [twitter/hbc](https://github.com/twitter/hbc) pushed_at:2021-06 star:0.9k fork:0.4k A Java HTTP client for consuming Twitter's realtime Streaming API
 - [twitter/hpack](https://github.com/twitter/hpack) pushed_at:2020-10 star:0.2k fork:0.0k Header Compression for HTTP/2
 - [twitter/hraven](https://github.com/twitter/hraven) pushed_at:2021-06 star:0.1k fork:0.1k hRaven collects run time data and statistics from MapReduce jobs in an easily queryable format
@@ -95,7 +95,7 @@
 
 - [twitter/cli-guide.js](https://github.com/twitter/cli-guide.js) pushed_at:2020-09 star:0.0k fork:0.0k CLI Guide JQuery Plugin
 - [twitter/d3kit](https://github.com/twitter/d3kit) pushed_at:2021-05 star:0.4k fork:0.0k D3Kit is a set tools to speed D3 related project development
-- [twitter/hogan.js](https://github.com/twitter/hogan.js) pushed_at:2020-09 star:5.1k fork:0.5k A compiler for the Mustache templating language
+- [twitter/hogan.js](https://github.com/twitter/hogan.js) pushed_at:2020-09 star:5.1k fork:0.4k A compiler for the Mustache templating language
 - [twitter/labella.js](https://github.com/twitter/labella.js) pushed_at:2021-05 star:3.8k fork:0.1k Placing labels on a timeline without overlap.
 - [twitter/SentenTree](https://github.com/twitter/SentenTree) pushed_at:2021-05 star:0.2k fork:0.0k A novel text visualization technique
 - [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) pushed_at:2021-03 star:0.3k fork:0.0k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
@@ -164,7 +164,7 @@
 
 ## SCSS
 
-- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-06 star:1.6k fork:0.5k A listing of open source efforts at Twitter on GitHub
+- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-06 star:1.6k fork:0.6k A listing of open source efforts at Twitter on GitHub
 
 ## Scala
 
@@ -180,7 +180,7 @@
 - [twitter/finatra-misc](https://github.com/twitter/finatra-misc) pushed_at:2019-04 star:0.0k fork:0.0k Miscellaneous  libraries and utils used by Finatra
 - [twitter/iago2](https://github.com/twitter/iago2) pushed_at:2019-12 star:0.0k fork:0.0k A load generator, built for engineers
 - [twitter/ostrich](https://github.com/twitter/ostrich) pushed_at:2019-06 star:0.8k fork:0.1k A stats collector & reporter for Scala servers (deprecated)
-- [twitter/rsc](https://github.com/twitter/rsc) pushed_at:2019-11 star:1.3k fork:0.0k Experimental Scala compiler focused on compilation speed
+- [twitter/rsc](https://github.com/twitter/rsc) pushed_at:2019-11 star:1.2k fork:0.0k Experimental Scala compiler focused on compilation speed
 - [twitter/scala-json](https://github.com/twitter/scala-json) pushed_at:2019-12 star:0.0k fork:0.0k JSON in Scala (deprecated)
 - [twitter/scala_school2](https://github.com/twitter/scala_school2) pushed_at:2019-06 star:0.3k fork:0.1k Scala School 2
 - [twitter/scalding](https://github.com/twitter/scalding) pushed_at:2021-04 star:3.3k fork:0.7k A Scala API for Cascading

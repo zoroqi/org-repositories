@@ -8,11 +8,11 @@
 
 - [C](#c) (1)
 - [C++](#c++) (2)
-- [CSS](#css) (4)
+- [CSS](#css) (3)
 - [Dart](#dart) (1)
 - [Dockerfile](#dockerfile) (1)
 - [Go](#go) (4)
-- [HTML](#html) (3)
+- [HTML](#html) (4)
 - [JavaScript](#javascript) (5)
 - [Others](#others) (9)
 - [PHP](#php) (2)
@@ -35,7 +35,6 @@
 
 - [tuna/ipv6.tsinghua.edu.cn](https://github.com/tuna/ipv6.tsinghua.edu.cn) pushed_at:2020-12 star:0.4k fork:0.1k 
 - [tuna/live](https://github.com/tuna/live) pushed_at:2016-12 star:0.0k fork:0.0k 
-- [tuna/mirror-web](https://github.com/tuna/mirror-web) pushed_at:2021-06 star:0.6k fork:0.2k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
 - [tuna/podcast](https://github.com/tuna/podcast) pushed_at:2018-12 star:0.0k fork:0.0k Voice from TUNA
 
 ## Dart
@@ -55,6 +54,7 @@
 
 ## HTML
 
+- [tuna/mirror-web](https://github.com/tuna/mirror-web) pushed_at:2021-06 star:0.6k fork:0.2k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
 - [tuna/mirrorcon](https://github.com/tuna/mirrorcon) pushed_at:2017-09 star:0.0k fork:0.0k Website of MirrorCon 2017
 - [tuna/registr-lite](https://github.com/tuna/registr-lite) pushed_at:2020-09 star:0.0k fork:0.0k A lightweight registr with only a bare RESTful API.
 - [tuna/tuna.moe](https://github.com/tuna/tuna.moe) pushed_at:2021-06 star:0.1k fork:0.0k 

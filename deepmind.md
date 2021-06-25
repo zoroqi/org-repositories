@@ -51,7 +51,7 @@
 ## Jupyter Notebook
 
 - [deepmind/3d-shapes](https://github.com/deepmind/3d-shapes) pushed_at:2019-03 star:0.1k fork:0.0k This repository contains the 3D shapes dataset, used in Kim, Hyunjik and Mnih, Andriy. "Disentangling by Factorising." In Proceedings of the 35th International Conference on Machine Learning (ICML). 2018. to assess the disentanglement properties of unsupervised learning methods.
-- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) pushed_at:2021-06 star:6.9k fork:1.3k This repository contains implementations and illustrative code to accompany DeepMind publications
+- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) pushed_at:2021-06 star:7.0k fork:1.3k This repository contains implementations and illustrative code to accompany DeepMind publications
 - [deepmind/dsprites-dataset](https://github.com/deepmind/dsprites-dataset) pushed_at:2021-01 star:0.4k fork:0.1k Dataset to assess the disentanglement properties of unsupervised learning methods
 - [deepmind/educational](https://github.com/deepmind/educational) pushed_at:2021-04 star:0.1k fork:0.0k 
 - [deepmind/mc_gradients](https://github.com/deepmind/mc_gradients) pushed_at:2021-05 star:0.1k fork:0.0k 
@@ -99,7 +99,7 @@
 - [deepmind/chex](https://github.com/deepmind/chex) pushed_at:2021-06 star:0.3k fork:0.0k 
 - [deepmind/deep-verify](https://github.com/deepmind/deep-verify) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [deepmind/distrax](https://github.com/deepmind/distrax) pushed_at:2021-06 star:0.2k fork:0.0k 
-- [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) pushed_at:2021-06 star:1.1k fork:0.1k JAX-based neural network library
+- [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) pushed_at:2021-06 star:1.2k fork:0.1k JAX-based neural network library
 - [deepmind/dm_alchemy](https://github.com/deepmind/dm_alchemy) pushed_at:2021-04 star:0.1k fork:0.0k DeepMind Alchemy task environment: a meta-reinforcement learning benchmark
 - [deepmind/dm_construction](https://github.com/deepmind/dm_construction) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [deepmind/dm_control](https://github.com/deepmind/dm_control) pushed_at:2021-06 star:2.3k fork:0.4k DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
@@ -108,7 +108,7 @@
 - [deepmind/dm_fast_mapping](https://github.com/deepmind/dm_fast_mapping) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [deepmind/dm_hard_eight](https://github.com/deepmind/dm_hard_eight) pushed_at:2020-11 star:0.1k fork:0.0k 
 - [deepmind/dm_memorytasks](https://github.com/deepmind/dm_memorytasks) pushed_at:2021-02 star:0.2k fork:0.0k A set of 13 diverse machine-learning tasks that require memory to solve.
-- [deepmind/dnc](https://github.com/deepmind/dnc) pushed_at:2019-04 star:2.4k fork:0.5k A TensorFlow implementation of the Differentiable Neural Computer.
+- [deepmind/dnc](https://github.com/deepmind/dnc) pushed_at:2021-06 star:2.4k fork:0.5k A TensorFlow implementation of the Differentiable Neural Computer.
 - [deepmind/dqn_zoo](https://github.com/deepmind/dqn_zoo) pushed_at:2021-06 star:0.2k fork:0.0k DQN Zoo is a collection of reference implementations of reinforcement learning agents developed at DeepMind based on the Deep Q-Network (DQN) agent.
 - [deepmind/dynamic-kanerva-machines](https://github.com/deepmind/dynamic-kanerva-machines) pushed_at:2019-01 star:0.0k fork:0.0k This is a self-contained memory module for the Dynamic Kanerva Machine, as reported in the NIPS 2018 paper: Learning Attractor Dynamics for Generative Memory.
 - [deepmind/fancyflags](https://github.com/deepmind/fancyflags) pushed_at:2021-03 star:0.0k fork:0.0k A Python library for defining flat or nested dictionary flags.

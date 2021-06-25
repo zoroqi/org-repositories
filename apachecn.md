@@ -172,7 +172,7 @@
 - [apachecn/seaborn-doc-zh](https://github.com/apachecn/seaborn-doc-zh) pushed_at:2021-01 star:0.1k fork:0.1k :book: [译] seaborn 0.9 中文文档
 - [apachecn/sec-wiki](https://github.com/apachecn/sec-wiki) pushed_at:2021-05 star:0.0k fork:0.0k ApacheCN 安全知识库
 - [apachecn/sicp-js-zh](https://github.com/apachecn/sicp-js-zh) pushed_at:2021-01 star:0.0k fork:0.0k :book: 【译】NUS CS1101s SICP JavaScript 描述
-- [apachecn/spark-doc-zh](https://github.com/apachecn/spark-doc-zh) pushed_at:2021-01 star:1.1k fork:0.3k Apache Spark 官方文档中文版
+- [apachecn/spark-doc-zh](https://github.com/apachecn/spark-doc-zh) pushed_at:2021-01 star:1.2k fork:0.3k Apache Spark 官方文档中文版
 - [apachecn/spring-boot-doc-zh](https://github.com/apachecn/spring-boot-doc-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] spring-boot 中文文档
 - [apachecn/stanford-cs183-notes](https://github.com/apachecn/stanford-cs183-notes) pushed_at:2021-05 star:0.1k fork:0.0k :books: [译] 斯坦福 CS183 系列中文笔记
 - [apachecn/stats-thinking-21-zh](https://github.com/apachecn/stats-thinking-21-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: 【译】斯坦福 Stats60 21 世纪的统计思维
@@ -342,7 +342,7 @@
 
 ## Python
 
-- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-05 star:30.0k fork:10.1k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-05 star:30.1k fork:10.1k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [apachecn/awesome-data-comp-solution](https://github.com/apachecn/awesome-data-comp-solution) pushed_at:2020-09 star:0.5k fork:0.1k 数据科学/人工智能比赛解决方案汇总
 - [apachecn/BiliDriveEx](https://github.com/apachecn/BiliDriveEx) pushed_at:2020-03 star:0.1k fork:0.0k :cloud: 已停更，请访问 CDNDrive：
 - [apachecn/BookerTrans](https://github.com/apachecn/BookerTrans) pushed_at:2021-04 star:0.0k fork:0.0k 用于 iBooker/ApacheCN 翻译项目的 HTML 谷歌翻译工具
