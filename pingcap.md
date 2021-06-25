@@ -13,9 +13,9 @@
 - [Go](#go) (50)
 - [HTML](#html) (2)
 - [Java](#java) (7)
-- [JavaScript](#javascript) (7)
+- [JavaScript](#javascript) (6)
 - [OCaml](#ocaml) (1)
-- [Others](#others) (13)
+- [Others](#others) (14)
 - [Protocol Buffer](#protocol-buffer) (1)
 - [Python](#python) (9)
 - [Ruby](#ruby) (1)
@@ -75,7 +75,7 @@
 - [pingcap/goleveldb](https://github.com/pingcap/goleveldb) pushed_at:2019-12 star:0.0k fork:0.0k LevelDB key/value database in Go.
 - [pingcap/goyacc](https://github.com/pingcap/goyacc) pushed_at:2016-07 star:0.0k fork:0.0k Goyacc is a version of yacc generating Go parsers.
 - [pingcap/kops](https://github.com/pingcap/kops) pushed_at:2020-02 star:0.0k fork:0.0k A fork to kubernetes/kops
-- [pingcap/log](https://github.com/pingcap/log) pushed_at:2021-03 star:0.0k fork:0.0k 
+- [pingcap/log](https://github.com/pingcap/log) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [pingcap/lumberjack](https://github.com/pingcap/lumberjack) pushed_at:2019-06 star:0.0k fork:0.0k lumberjack is a log rolling package for Go
 - [pingcap/mp](https://github.com/pingcap/mp) pushed_at:2017-11 star:0.0k fork:0.0k MySQL protocol layer
 - [pingcap/mpdriver](https://github.com/pingcap/mpdriver) pushed_at:2016-03 star:0.0k fork:0.0k MySQL Protocol Driver, used to record MySQL query commands..
@@ -88,7 +88,7 @@
 - [pingcap/pkg](https://github.com/pingcap/pkg) pushed_at:2017-05 star:0.0k fork:0.0k 
 - [pingcap/sysutil](https://github.com/pingcap/sysutil) pushed_at:2021-03 star:0.0k fork:0.0k sysutil is a library which implementats the gRPC service Diagnostics and shares the diagnostics functions between TiDB and PD.
 - [pingcap/ticdc](https://github.com/pingcap/ticdc) pushed_at:2021-06 star:0.1k fork:0.1k Change data capture for TiDB
-- [pingcap/tidb](https://github.com/pingcap/tidb) pushed_at:2021-06 star:28.1k fork:4.4k TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
+- [pingcap/tidb](https://github.com/pingcap/tidb) pushed_at:2021-06 star:28.2k fork:4.4k TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
 - [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) pushed_at:2021-06 star:0.2k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
 - [pingcap/tidb-cloud-backup](https://github.com/pingcap/tidb-cloud-backup) pushed_at:2020-02 star:0.0k fork:0.0k 
 - [pingcap/tidb-ctl](https://github.com/pingcap/tidb-ctl) pushed_at:2020-12 star:0.0k fork:0.0k TiDB Controller
@@ -116,12 +116,11 @@
 - [pingcap/themis](https://github.com/pingcap/themis) pushed_at:2018-12 star:0.0k fork:0.0k Themis provides cross-row/cross-table transaction on HBase based on google's percolator.
 - [pingcap/tidb-datanucleus-adapter](https://github.com/pingcap/tidb-datanucleus-adapter) pushed_at:2019-04 star:0.0k fork:0.0k datanucleus, hive
 - [pingcap/tikv-client-lib-java](https://github.com/pingcap/tikv-client-lib-java) pushed_at:2017-12 star:0.0k fork:0.0k TiKV Java client library
-- [pingcap/tispark](https://github.com/pingcap/tispark) pushed_at:2021-05 star:0.7k fork:0.2k TiSpark is built for running Apache Spark on top of TiDB/TiKV
+- [pingcap/tispark](https://github.com/pingcap/tispark) pushed_at:2021-06 star:0.7k fork:0.2k TiSpark is built for running Apache Spark on top of TiDB/TiKV
 
 ## JavaScript
 
 - [pingcap/campaign](https://github.com/pingcap/campaign) pushed_at:2020-09 star:0.0k fork:0.0k 
-- [pingcap/community](https://github.com/pingcap/community) pushed_at:2021-06 star:0.2k fork:0.1k TiDB community content
 - [pingcap/community-website](https://github.com/pingcap/community-website) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [pingcap/tidb-vision](https://github.com/pingcap/tidb-vision) pushed_at:2021-05 star:0.0k fork:0.0k TiDB data visualization
 - [pingcap/tug-website](https://github.com/pingcap/tug-website) pushed_at:2021-06 star:0.0k fork:0.0k 
@@ -135,11 +134,12 @@
 ## Others
 
 - [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2021-06 star:3.1k fork:0.4k A list of learning materials to understand databases internals
+- [pingcap/community](https://github.com/pingcap/community) pushed_at:2021-06 star:0.2k fork:0.1k TiDB community content
 - [pingcap/docs-internals](https://github.com/pingcap/docs-internals) pushed_at:2020-06 star:0.0k fork:0.0k 
 - [pingcap/education](https://github.com/pingcap/education) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [pingcap/logo](https://github.com/pingcap/logo) pushed_at:2018-09 star:0.0k fork:0.0k logo for PingCAP
 - [pingcap/meetup](https://github.com/pingcap/meetup) pushed_at:2020-08 star:0.0k fork:0.0k 
-- [pingcap/presentations](https://github.com/pingcap/presentations) pushed_at:2021-06 star:0.2k fork:0.1k 
+- [pingcap/presentations](https://github.com/pingcap/presentations) pushed_at:2021-06 star:0.2k fork:0.0k 
 - [pingcap/style-guide](https://github.com/pingcap/style-guide) pushed_at:2021-02 star:0.1k fork:0.0k Style guide for PingCAP and TiKV code
 - [pingcap/tidb-academy-labs](https://github.com/pingcap/tidb-academy-labs) pushed_at:2020-03 star:0.0k fork:0.0k 
 - [pingcap/tidb-common](https://github.com/pingcap/tidb-common) pushed_at:2016-03 star:0.0k fork:0.0k Common library used by both TiDB and coprocessor.
@@ -160,7 +160,7 @@
 - [pingcap/oasis](https://github.com/pingcap/oasis) pushed_at:2018-05 star:0.0k fork:0.0k 
 - [pingcap/thirdparty-ops](https://github.com/pingcap/thirdparty-ops) pushed_at:2019-10 star:0.0k fork:0.0k This repo is used for the operation and maintenance of third party tools.
 - [pingcap/tidb-ansible](https://github.com/pingcap/tidb-ansible) pushed_at:2021-06 star:0.3k fork:0.3k 
-- [pingcap/tidb-docker-compose](https://github.com/pingcap/tidb-docker-compose) pushed_at:2020-04 star:0.2k fork:0.1k 
+- [pingcap/tidb-docker-compose](https://github.com/pingcap/tidb-docker-compose) pushed_at:2021-06 star:0.2k fork:0.1k 
 - [pingcap/tidb-insight](https://github.com/pingcap/tidb-insight) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [pingcap/tidb-inspect-tools](https://github.com/pingcap/tidb-inspect-tools) pushed_at:2020-09 star:0.0k fork:0.0k 
 
@@ -174,7 +174,7 @@
 - [pingcap/grpc-rust](https://github.com/pingcap/grpc-rust) pushed_at:2017-05 star:0.0k fork:0.0k Rust implementation of gRPC (not ready yet)
 - [pingcap/murmur3](https://github.com/pingcap/murmur3) pushed_at:2018-03 star:0.0k fork:0.0k A rust implementation of murmur3
 - [pingcap/rust-protobuf](https://github.com/pingcap/rust-protobuf) pushed_at:2021-05 star:0.0k fork:0.0k Rust implementation of Google protocol buffers
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) pushed_at:2021-06 star:6.2k fork:0.8k open source training courses about distributed database and distributed systemes
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) pushed_at:2021-06 star:6.3k fork:0.8k open source training courses about distributed database and distributed systemes
 
 ## Shell
 

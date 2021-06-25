@@ -55,7 +55,7 @@
 
 ## Cuda
 
-- [bytedance/lightseq](https://github.com/bytedance/lightseq) pushed_at:2021-06 star:0.7k fork:0.1k LightSeq: A High-Performance Inference Library for Sequence Processing and Generation
+- [bytedance/lightseq](https://github.com/bytedance/lightseq) pushed_at:2021-06 star:0.8k fork:0.1k LightSeq: A High Performance Library for Sequence Processing and Generation
 
 ## Dart
 
@@ -78,7 +78,7 @@
 - [bytedance/json](https://github.com/bytedance/json) pushed_at:2019-05 star:0.0k fork:0.0k JSON standard package extension library
 - [bytedance/msgp](https://github.com/bytedance/msgp) pushed_at:2019-10 star:0.0k fork:0.0k A Go code generator for MessagePack / msgpack.org[Go]
 - [bytedance/rcproxy](https://github.com/bytedance/rcproxy) pushed_at:2015-10 star:0.0k fork:0.0k 
-- [bytedance/sonic](https://github.com/bytedance/sonic) pushed_at:2021-06 star:0.1k fork:0.0k A blazingly fast JSON serializing & deserializing library
+- [bytedance/sonic](https://github.com/bytedance/sonic) pushed_at:2021-06 star:0.3k fork:0.0k A blazingly fast JSON serializing & deserializing library
 
 ## HTML
 
@@ -86,7 +86,7 @@
 
 ## Java
 
-- [bytedance/AabResGuard](https://github.com/bytedance/AabResGuard) pushed_at:2021-04 star:0.7k fork:0.1k The tool of obfuscated aab resources.(Android app bundle资源混淆工具)
+- [bytedance/AabResGuard](https://github.com/bytedance/AabResGuard) pushed_at:2021-06 star:0.7k fork:0.1k The tool of obfuscated aab resources.(Android app bundle资源混淆工具)
 - [bytedance/AlphaPlayer](https://github.com/bytedance/AlphaPlayer) pushed_at:2021-05 star:1.2k fork:0.2k AlphaPlayer is a video animation engine.
 - [bytedance/BoostMultiDex](https://github.com/bytedance/BoostMultiDex) pushed_at:2020-07 star:0.9k fork:0.1k BoostMultiDex is a solution for quickly loading multiple dex files on low Android version devices (4.X and below, SDK <21).
 - [bytedance/ByteX](https://github.com/bytedance/ByteX) pushed_at:2021-06 star:1.8k fork:0.2k ByteX is a bytecode plugin platform based on Android Gradle Transform API and ASM.  字节码插件开发平台
@@ -96,14 +96,14 @@
 - [bytedance/nnproxy](https://github.com/bytedance/nnproxy) pushed_at:2016-04 star:0.1k fork:0.0k Scalable NameNode RPC Proxy for HDFS Federation
 - [bytedance/okhttp](https://github.com/bytedance/okhttp) pushed_at:2016-11 star:0.0k fork:0.0k An HTTP+HTTP/2 client for Android and Java applications.
 - [bytedance/pangle-sdk-demo](https://github.com/bytedance/pangle-sdk-demo) pushed_at:2020-07 star:0.0k fork:0.0k pangle-sdk-demo and doc 
-- [bytedance/scene](https://github.com/bytedance/scene) pushed_at:2021-05 star:1.6k fork:0.2k Android Single Activity Applications framework without Fragment.
+- [bytedance/scene](https://github.com/bytedance/scene) pushed_at:2021-05 star:1.7k fork:0.2k Android Single Activity Applications framework without Fragment.
 - [bytedance/tiktok-business-android-sdk](https://github.com/bytedance/tiktok-business-android-sdk) pushed_at:2021-05 star:0.0k fork:0.0k 
 
 ## JavaScript
 
 - [bytedance/danmu.js](https://github.com/bytedance/danmu.js) pushed_at:2020-04 star:0.1k fork:0.0k HTML5 danmu (danmaku) plugin for any DOM element
 - [bytedance/diat](https://github.com/bytedance/diat) pushed_at:2021-05 star:0.1k fork:0.0k A CLI tool to help with diagnosing Node.js processes basing on inspector.
-- [bytedance/lottiefy](https://github.com/bytedance/lottiefy) pushed_at:2018-12 star:0.0k fork:0.0k Render Lottie to any engine
+- [bytedance/lottiefy](https://github.com/bytedance/lottiefy) pushed_at:2018-12 star:0.1k fork:0.0k Render Lottie to any engine
 - [bytedance/node-wifi-info](https://github.com/bytedance/node-wifi-info) pushed_at:2020-02 star:0.0k fork:0.0k node module to get information about the currently connected wifi
 - [bytedance/xgplayer](https://github.com/bytedance/xgplayer) pushed_at:2021-06 star:4.1k fork:0.5k A HTML5 video player with a parser that saves traffic
 - [bytedance/xgplayer-react](https://github.com/bytedance/xgplayer-react) pushed_at:2021-02 star:0.1k fork:0.0k React component for xgplayer, a HTML5 video player with a parser that saves traffic
@@ -172,12 +172,12 @@
 
 - [bytedance/byteinspire-js-sdk](https://github.com/bytedance/byteinspire-js-sdk) pushed_at:2021-06 star:0.0k fork:0.0k 轻服务 JS SDK
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) pushed_at:2021-05 star:1.1k fork:0.1k A hackable Markdown editor component built with Svelte
-- [bytedance/debugtron](https://github.com/bytedance/debugtron) pushed_at:2021-02 star:0.5k fork:0.0k Debug in-production Electron based app
+- [bytedance/debugtron](https://github.com/bytedance/debugtron) pushed_at:2021-02 star:0.6k fork:0.0k Debug in-production Electron based app
 - [bytedance/fe-foundation](https://github.com/bytedance/fe-foundation) pushed_at:2020-11 star:0.1k fork:0.0k UI Foundation for React Hooks and Vue Composition Api 
 - [bytedance/garfish](https://github.com/bytedance/garfish) pushed_at:2021-06 star:0.3k fork:0.0k A powerful micro front-end framework 🚚
 - [bytedance/graphyne](https://github.com/bytedance/graphyne) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [bytedance/guide](https://github.com/bytedance/guide) pushed_at:2021-06 star:0.4k fork:0.0k A new feature guide component by react 🧭
-- [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-06 star:3.8k fork:0.2k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+- [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-06 star:3.9k fork:0.2k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) pushed_at:2021-06 star:0.2k fork:0.0k Write components in any way, use them everywhere.😘
 - [bytedance/react-model](https://github.com/bytedance/react-model) pushed_at:2021-03 star:0.1k fork:0.0k The next generation state management library for React
 - [bytedance/TiktokBusinessPlugin](https://github.com/bytedance/TiktokBusinessPlugin) pushed_at:2021-06 star:0.0k fork:0.0k 

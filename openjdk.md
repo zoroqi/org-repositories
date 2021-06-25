@@ -42,7 +42,7 @@
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) pushed_at:2021-04 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/friday-stats/
 - [openjdk/jcov](https://github.com/openjdk/jcov) pushed_at:2021-04 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) pushed_at:2021-06 star:0.1k fork:0.0k https://openjdk.java.net/projects/code-tools/jcstress/
-- [openjdk/jdk](https://github.com/openjdk/jdk) pushed_at:2021-06 star:9.8k fork:2.4k JDK main-line development
+- [openjdk/jdk](https://github.com/openjdk/jdk) pushed_at:2021-06 star:9.9k fork:2.4k JDK main-line development
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) pushed_at:2021-06 star:0.0k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) pushed_at:2020-08 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk/jdk10
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) pushed_at:2021-06 star:0.0k fork:0.1k Read-only mirror of https://hg.openjdk.java.net/jdk-updates/jdk11u/
@@ -58,7 +58,7 @@
 - [openjdk/jdk15u-dev](https://github.com/openjdk/jdk15u-dev) pushed_at:2021-06 star:0.0k fork:0.0k https://openjdk.java.net/projects/jdk-updates/
 - [openjdk/jdk16](https://github.com/openjdk/jdk16) pushed_at:2021-03 star:0.0k fork:0.1k JDK 16 development
 - [openjdk/jdk16u](https://github.com/openjdk/jdk16u) pushed_at:2021-06 star:0.0k fork:0.1k https://openjdk.java.net/projects/jdk-updates/
-- [openjdk/jdk17](https://github.com/openjdk/jdk17) pushed_at:2021-06 star:0.0k fork:0.1k JDK 17 development
+- [openjdk/jdk17](https://github.com/openjdk/jdk17) pushed_at:2021-06 star:0.1k fork:0.1k JDK 17 development
 - [openjdk/jdk17u](https://github.com/openjdk/jdk17u) pushed_at:2021-06 star:0.0k fork:0.0k https://openjdk.java.net/projects/jdk-updates/
 - [openjdk/jdk6](https://github.com/openjdk/jdk6) pushed_at:2021-02 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk6
 - [openjdk/jdk7](https://github.com/openjdk/jdk7) pushed_at:2021-02 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk7
@@ -78,7 +78,7 @@
 - [openjdk/jtreg](https://github.com/openjdk/jtreg) pushed_at:2021-06 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/jtreg/
 - [openjdk/lanai](https://github.com/openjdk/lanai) pushed_at:2021-03 star:0.0k fork:0.0k https://openjdk.java.net/projects/lanai/
 - [openjdk/lilliput](https://github.com/openjdk/lilliput) pushed_at:2021-06 star:0.0k fork:0.0k https://openjdk.java.net/projects/lilliput/
-- [openjdk/loom](https://github.com/openjdk/loom) pushed_at:2021-06 star:1.0k fork:0.1k https://openjdk.java.net/projects/loom/
+- [openjdk/loom](https://github.com/openjdk/loom) pushed_at:2021-06 star:1.1k fork:0.1k https://openjdk.java.net/projects/loom/
 - [openjdk/metropolis](https://github.com/openjdk/metropolis) pushed_at:2020-10 star:0.0k fork:0.0k http://openjdk.java.net/projects/metropolis/
 - [openjdk/mobile](https://github.com/openjdk/mobile) pushed_at:2021-06 star:0.1k fork:0.0k http://openjdk.java.net/projects/mobile/
 - [openjdk/nashorn](https://github.com/openjdk/nashorn) pushed_at:2021-06 star:0.1k fork:0.0k http://openjdk.java.net/projects/nashorn/

@@ -54,7 +54,7 @@
 ## Go
 
 - [openai/go-vncdriver](https://github.com/openai/go-vncdriver) pushed_at:2020-04 star:0.1k fork:0.0k Fast VNC driver
-- [openai/kubernetes](https://github.com/openai/kubernetes) pushed_at:2021-04 star:0.0k fork:0.0k Production-Grade Container Scheduling and Management
+- [openai/kubernetes](https://github.com/openai/kubernetes) pushed_at:2021-06 star:0.0k fork:0.0k Production-Grade Container Scheduling and Management
 - [openai/oauth2_proxy](https://github.com/openai/oauth2_proxy) pushed_at:2020-01 star:0.0k fork:0.0k A reverse proxy that provides authentication with Google, Github or other provider
 - [openai/prometheus](https://github.com/openai/prometheus) pushed_at:2020-11 star:0.0k fork:0.0k The Prometheus monitoring system and time series database.
 
@@ -88,7 +88,7 @@
 - [openai/bchess-personal](https://github.com/openai/bchess-personal) pushed_at:2020-07 star:0.0k fork:0.0k temporarily public for a bug report
 - [openai/consul-helm](https://github.com/openai/consul-helm) pushed_at:2020-10 star:0.0k fork:0.0k Helm chart to install Consul and other associated components.
 - [openai/go-retryablehttp](https://github.com/openai/go-retryablehttp) pushed_at:2020-06 star:0.0k fork:0.0k Retryable HTTP client in Go
-- [openai/gpt-3](https://github.com/openai/gpt-3) pushed_at:2020-09 star:10.3k fork:1.2k GPT-3: Language Models are Few-Shot Learners
+- [openai/gpt-3](https://github.com/openai/gpt-3) pushed_at:2020-09 star:10.4k fork:1.2k GPT-3: Language Models are Few-Shot Learners
 - [openai/GPT-3-Encoder](https://github.com/openai/GPT-3-Encoder) pushed_at:2020-11 star:0.0k fork:0.0k Javascript BPE Encoder Decoder for GPT-2 / GPT-3
 - [openai/jeffwu-dotfiles](https://github.com/openai/jeffwu-dotfiles) pushed_at:2021-02 star:0.0k fork:0.0k my configuration files
 - [openai/lustre](https://github.com/openai/lustre) pushed_at:2021-01 star:0.0k fork:0.0k 
@@ -114,7 +114,7 @@
 - [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2021-03 star:14.7k fork:3.8k Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) pushed_at:2021-02 star:1.1k fork:0.3k Dataset of GPT-2 outputs for research in detection, biases, and more
 - [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2021-05 star:0.5k fork:0.0k 
-- [openai/gym](https://github.com/openai/gym) pushed_at:2021-06 star:24.4k fork:7.0k A toolkit for developing and comparing reinforcement learning algorithms.
+- [openai/gym](https://github.com/openai/gym) pushed_at:2021-06 star:24.5k fork:7.0k A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/gym-http-api](https://github.com/openai/gym-http-api) pushed_at:2019-07 star:0.3k fork:0.1k API to access OpenAI Gym from other languages via HTTP
 - [openai/gym-recording](https://github.com/openai/gym-recording) pushed_at:2020-10 star:0.1k fork:0.0k Add-on package to gym, to record sequences of actions, observations, and rewards
 - [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2018-11 star:0.2k fork:0.2k 
