@@ -136,4 +136,7 @@
 - name: baidu 
   userType: org
   file: baidu.md
+- name: WICG
+  userType: WICG
+  file: WICG.md
 
