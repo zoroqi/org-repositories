@@ -47,3 +47,4 @@
 - [opengenus](./opengenus.md)
 - [baidu](./baidu.md)
 - [WICG](./WICG.md)
+- [JetBrains](./JetBrains.md)

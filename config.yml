@@ -139,4 +139,7 @@
 - name: WICG
   userType: WICG
   file: WICG.md
+- name: JetBrains
+  userType: org
+  file: JetBrains.md
 
