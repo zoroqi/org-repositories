@@ -40,7 +40,7 @@
 - [openai/doom-py](https://github.com/openai/doom-py) pushed_at:2019-10 star:0.1k fork:0.0k ViZDoom Python wrapper
 - [openai/nccl](https://github.com/openai/nccl) pushed_at:2019-04 star:0.0k fork:0.0k Optimized primitives for collective multi-GPU communication
 - [openai/procgen](https://github.com/openai/procgen) pushed_at:2021-06 star:0.5k fork:0.1k Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
-- [openai/pytorch](https://github.com/openai/pytorch) pushed_at:2020-12 star:0.0k fork:0.0k Tensors and Dynamic neural networks in Python with strong GPU acceleration
+- [openai/pytorch](https://github.com/openai/pytorch) pushed_at:2021-06 star:0.0k fork:0.0k Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [openai/robot_controllers](https://github.com/openai/robot_controllers) pushed_at:2016-07 star:0.0k fork:0.0k Robot control infrastructure
 
 ## CSS
@@ -73,14 +73,14 @@
 ## Jupyter Notebook
 
 - [openai/baselines-results](https://github.com/openai/baselines-results) pushed_at:2020-07 star:0.1k fork:0.0k 
-- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-05 star:3.9k fork:0.4k Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-06 star:4.0k fork:0.4k Contrastive Language-Image Pretraining
 - [openai/lucid](https://github.com/openai/lucid) pushed_at:2019-01 star:0.0k fork:0.0k A collection of infrastructure and tools for research in neural network interpretability.
 - [openai/ot-gan](https://github.com/openai/ot-gan) pushed_at:2018-11 star:0.0k fork:0.0k  Code for the paper "Improving GANs Using Optimal Transport"
 
 ## Lean
 
 - [openai/lean-gym](https://github.com/openai/lean-gym) pushed_at:2021-06 star:0.0k fork:0.0k 
-- [openai/miniF2F](https://github.com/openai/miniF2F) pushed_at:2021-06 star:0.0k fork:0.0k Formal to Formal Mathematics Benchmark
+- [openai/miniF2F](https://github.com/openai/miniF2F) pushed_at:2021-06 star:0.1k fork:0.0k Formal to Formal Mathematics Benchmark
 
 ## Others
 
@@ -90,7 +90,7 @@
 - [openai/go-retryablehttp](https://github.com/openai/go-retryablehttp) pushed_at:2020-06 star:0.0k fork:0.0k Retryable HTTP client in Go
 - [openai/gpt-3](https://github.com/openai/gpt-3) pushed_at:2020-09 star:10.4k fork:1.2k GPT-3: Language Models are Few-Shot Learners
 - [openai/GPT-3-Encoder](https://github.com/openai/GPT-3-Encoder) pushed_at:2020-11 star:0.0k fork:0.0k Javascript BPE Encoder Decoder for GPT-2 / GPT-3
-- [openai/jeffwu-dotfiles](https://github.com/openai/jeffwu-dotfiles) pushed_at:2021-02 star:0.0k fork:0.0k my configuration files
+- [openai/jeffwu-dotfiles](https://github.com/openai/jeffwu-dotfiles) pushed_at:2021-06 star:0.0k fork:0.0k my configuration files
 - [openai/lustre](https://github.com/openai/lustre) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [openai/monorepo-diff-buildkite-plugin](https://github.com/openai/monorepo-diff-buildkite-plugin) pushed_at:2019-05 star:0.0k fork:0.0k Run separate pipelines for each folder in your monorepo
 - [openai/scheduler-plugins](https://github.com/openai/scheduler-plugins) pushed_at:2020-12 star:0.0k fork:0.0k Repository for out-of-tree scheduler plugins based on scheduler framework.
@@ -114,7 +114,7 @@
 - [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2021-03 star:14.7k fork:3.8k Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) pushed_at:2021-02 star:1.1k fork:0.3k Dataset of GPT-2 outputs for research in detection, biases, and more
 - [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2021-05 star:0.5k fork:0.0k 
-- [openai/gym](https://github.com/openai/gym) pushed_at:2021-06 star:24.5k fork:7.0k A toolkit for developing and comparing reinforcement learning algorithms.
+- [openai/gym](https://github.com/openai/gym) pushed_at:2021-07 star:24.5k fork:7.0k A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/gym-http-api](https://github.com/openai/gym-http-api) pushed_at:2019-07 star:0.3k fork:0.1k API to access OpenAI Gym from other languages via HTTP
 - [openai/gym-recording](https://github.com/openai/gym-recording) pushed_at:2020-10 star:0.1k fork:0.0k Add-on package to gym, to record sequences of actions, observations, and rewards
 - [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2018-11 star:0.2k fork:0.2k 
@@ -126,7 +126,7 @@
 - [openai/improved-diffusion](https://github.com/openai/improved-diffusion) pushed_at:2021-03 star:0.1k fork:0.0k Release for Improved Denoising Diffusion Probabilistic Models
 - [openai/improved-gan](https://github.com/openai/improved-gan) pushed_at:2018-11 star:2.1k fork:0.6k Code for the paper "Improved Techniques for Training GANs"
 - [openai/InfoGAN](https://github.com/openai/InfoGAN) pushed_at:2021-03 star:1.0k fork:0.3k Code for reproducing key results in the paper "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets"
-- [openai/jukebox](https://github.com/openai/jukebox) pushed_at:2021-06 star:4.4k fork:0.7k Code for the paper "Jukebox: A Generative Model for Music"
+- [openai/jukebox](https://github.com/openai/jukebox) pushed_at:2021-06 star:4.5k fork:0.7k Code for the paper "Jukebox: A Generative Model for Music"
 - [openai/kubernetes-ec2-autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler) pushed_at:2019-06 star:0.8k fork:0.1k A batch-optimized scaling manager for Kubernetes
 - [openai/large-scale-curiosity](https://github.com/openai/large-scale-curiosity) pushed_at:2020-01 star:0.7k fork:0.2k Code for the paper "Large-Scale Study of Curiosity-Driven Learning"
 - [openai/LHOPT](https://github.com/openai/LHOPT) pushed_at:2021-06 star:0.0k fork:0.0k Learned Hyperparameter Optimizers
@@ -143,7 +143,7 @@
 - [openai/neural-mmo](https://github.com/openai/neural-mmo) pushed_at:2021-04 star:1.3k fork:0.2k Code for the paper "Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents"
 - [openai/openai-python](https://github.com/openai/openai-python) pushed_at:2021-06 star:0.2k fork:0.0k 
 - [openai/phasic-policy-gradient](https://github.com/openai/phasic-policy-gradient) pushed_at:2020-12 star:0.1k fork:0.0k Code for the paper "Phasic Policy Gradient"
-- [openai/pixel-cnn](https://github.com/openai/pixel-cnn) pushed_at:2020-02 star:1.7k fork:0.4k Code for the paper "PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications"
+- [openai/pixel-cnn](https://github.com/openai/pixel-cnn) pushed_at:2020-02 star:1.8k fork:0.4k Code for the paper "PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications"
 - [openai/psaw](https://github.com/openai/psaw) pushed_at:2020-10 star:0.0k fork:0.0k Python Pushshift.io API Wrapper (for comment/submission search)
 - [openai/pyconfigatron](https://github.com/openai/pyconfigatron) pushed_at:2016-10 star:0.0k fork:0.0k a python3 compatible pyconfigatron
 - [openai/random-network-distillation](https://github.com/openai/random-network-distillation) pushed_at:2020-10 star:0.7k fork:0.1k Code for the paper "Exploration by Random Network Distillation"

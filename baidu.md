@@ -34,20 +34,20 @@
 ## C++
 
 - [baidu/AnyQ](https://github.com/baidu/AnyQ) pushed_at:2020-11 star:2.3k fork:0.6k FAQ-based Question Answering System
-- [baidu/BaikalDB](https://github.com/baidu/BaikalDB) pushed_at:2021-05 star:0.8k fork:0.1k BaikalDB, A Distributed HTAP Database.
+- [baidu/BaikalDB](https://github.com/baidu/BaikalDB) pushed_at:2021-07 star:0.8k fork:0.1k BaikalDB, A Distributed HTAP Database.
 - [baidu/bfs](https://github.com/baidu/bfs) pushed_at:2018-12 star:2.7k fork:0.5k The Baidu File System.
 - [baidu/bigflow](https://github.com/baidu/bigflow) pushed_at:2020-10 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [baidu/boteye](https://github.com/baidu/boteye) pushed_at:2019-04 star:0.2k fork:0.1k 
 - [baidu/boteye_driver](https://github.com/baidu/boteye_driver) pushed_at:2018-11 star:0.0k fork:0.0k 
 - [baidu/braft](https://github.com/baidu/braft) pushed_at:2021-06 star:2.7k fork:0.6k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
 - [baidu/common](https://github.com/baidu/common) pushed_at:2017-06 star:0.1k fork:0.1k Common library
-- [baidu/Familia](https://github.com/baidu/Familia) pushed_at:2020-07 star:2.4k fork:0.6k A Toolkit for Industrial Topic Modeling
+- [baidu/Familia](https://github.com/baidu/Familia) pushed_at:2021-07 star:2.4k fork:0.6k A Toolkit for Industrial Topic Modeling
 - [baidu/fast_rgf](https://github.com/baidu/fast_rgf) pushed_at:2018-07 star:0.5k fork:0.1k Multi-core implementation of Regularized Greedy Forest
 - [baidu/galaxy](https://github.com/baidu/galaxy) pushed_at:2017-08 star:0.3k fork:0.1k Galaxy is a cluster management system.
 - [baidu/ICE-BA](https://github.com/baidu/ICE-BA) pushed_at:2018-09 star:0.6k fork:0.2k 
 - [baidu/ins](https://github.com/baidu/ins) pushed_at:2020-10 star:0.2k fork:0.1k iNexus, coordinate large scale services
 - [baidu/lac](https://github.com/baidu/lac) pushed_at:2021-05 star:2.5k fork:0.4k 百度NLP：分词，词性标注，命名实体识别，词重要性
-- [baidu/openrasp](https://github.com/baidu/openrasp) pushed_at:2021-06 star:1.8k fork:0.4k 🔥Open source RASP solution
+- [baidu/openrasp](https://github.com/baidu/openrasp) pushed_at:2021-07 star:1.8k fork:0.4k 🔥Open source RASP solution
 - [baidu/shuttle](https://github.com/baidu/shuttle) pushed_at:2018-07 star:0.1k fork:0.0k A fast computing framework based on Galaxy
 - [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) pushed_at:2018-09 star:2.0k fork:0.7k A light-weight RPC implement of google protobuf RPC framework.
 - [baidu/tera](https://github.com/baidu/tera) pushed_at:2019-01 star:1.8k fork:0.4k An Internet-Scale Database.
@@ -70,11 +70,11 @@
 
 ## HTML
 
-- [baidu/QCompute](https://github.com/baidu/QCompute) pushed_at:2021-05 star:0.0k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
+- [baidu/QCompute](https://github.com/baidu/QCompute) pushed_at:2021-06 star:0.0k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
 
 ## Java
 
-- [baidu/brcc](https://github.com/baidu/brcc) pushed_at:2021-06 star:0.3k fork:0.0k BRCC（better remote config center）是一个分布式配置中心，用于统一管理应用服务的配置信息，避免各类资源散落在各个项目中，简化资源配置的维护成本。作为一种轻量级的解决方案，部署简单，同时支持多环境、多版本、多角色的资源管理，可以在不改变应用源码的情况下无缝切换和实时生效配置信息。
+- [baidu/brcc](https://github.com/baidu/brcc) pushed_at:2021-07 star:0.3k fork:0.0k BRCC（better remote config center）是一个分布式配置中心，用于统一管理应用服务的配置信息，避免各类资源散落在各个项目中，简化资源配置的维护成本。作为一种轻量级的解决方案，部署简单，同时支持多环境、多版本、多角色的资源管理，可以在不改变应用源码的情况下无缝切换和实时生效配置信息。
 - [baidu/brpc-java](https://github.com/baidu/brpc-java) pushed_at:2021-06 star:0.7k fork:0.2k Java implementation for Baidu RPC, multi-protocol & high performance RPC.
 - [baidu/Cafe](https://github.com/baidu/Cafe) pushed_at:2014-05 star:0.4k fork:0.2k A powerful test framework for Android
 - [baidu/dlock](https://github.com/baidu/dlock) pushed_at:2017-03 star:0.2k fork:0.1k An effective and reliable Distributed Lock
@@ -99,11 +99,11 @@
 - [baidu/grafana-tsdb-datasource](https://github.com/baidu/grafana-tsdb-datasource) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [baidu/grafana-tsdb-datasource-backend](https://github.com/baidu/grafana-tsdb-datasource-backend) pushed_at:2019-01 star:0.0k fork:0.0k 
 - [baidu/mapv](https://github.com/baidu/mapv) pushed_at:2016-09 star:0.0k fork:0.0k a library of geography visualization-地理信息可视化库
-- [baidu/mix-img](https://github.com/baidu/mix-img) pushed_at:2021-06 star:0.2k fork:0.0k A fast mix image javascript tool libary
+- [baidu/mix-img](https://github.com/baidu/mix-img) pushed_at:2021-06 star:0.3k fork:0.0k A fast mix image javascript tool libary
 - [baidu/NoahV](https://github.com/baidu/NoahV) pushed_at:2021-06 star:0.6k fork:0.1k An efficient front-end application framework based on vue.js
 - [baidu/san](https://github.com/baidu/san) pushed_at:2021-06 star:4.4k fork:0.5k A fast, portable, flexible JavaScript component framework
 - [baidu/san-factory](https://github.com/baidu/san-factory) pushed_at:2021-04 star:0.0k fork:0.0k 
-- [baidu/san-router](https://github.com/baidu/san-router) pushed_at:2021-06 star:0.0k fork:0.0k Official Router for San
+- [baidu/san-router](https://github.com/baidu/san-router) pushed_at:2021-07 star:0.0k fork:0.0k Official Router for San
 - [baidu/san-store](https://github.com/baidu/san-store) pushed_at:2021-05 star:0.1k fork:0.0k Application States Management for San
 - [baidu/san-update](https://github.com/baidu/san-update) pushed_at:2021-06 star:0.1k fork:0.0k Object immutable update utility for san solution
 - [baidu/san-website](https://github.com/baidu/san-website) pushed_at:2021-05 star:0.0k fork:0.1k 
@@ -112,11 +112,11 @@
 
 ## Jupyter Notebook
 
-- [baidu/Quanlse](https://github.com/baidu/Quanlse) pushed_at:2021-04 star:0.0k fork:0.0k 
+- [baidu/Quanlse](https://github.com/baidu/Quanlse) pushed_at:2021-07 star:0.0k fork:0.0k 
 
 ## Others
 
-- [baidu/bfe-book](https://github.com/baidu/bfe-book) pushed_at:2021-06 star:0.5k fork:0.1k 《深入理解BFE》（Book for opensource project BFE, in Chinese）
+- [baidu/bfe-book](https://github.com/baidu/bfe-book) pushed_at:2021-06 star:0.6k fork:0.1k 《深入理解BFE》（Book for opensource project BFE, in Chinese）
 - [baidu/cppcheck](https://github.com/baidu/cppcheck) pushed_at:2019-12 star:0.0k fork:0.0k static analysis of C/C++ code
 - [baidu/iot](https://github.com/baidu/iot) pushed_at:2016-09 star:0.0k fork:0.0k for all code about Internet of Things
 - [baidu/ITEST](https://github.com/baidu/ITEST) pushed_at:2013-11 star:0.1k fork:0.1k Web service interface test framework
@@ -149,8 +149,8 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-06 star:7.3k fork:0.9k 前端低代码框架，通过 JSON 配置就能生成各种页面。
-- [baidu/san-devtools](https://github.com/baidu/san-devtools) pushed_at:2021-06 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
+- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-07 star:7.3k fork:0.9k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/san-devtools](https://github.com/baidu/san-devtools) pushed_at:2021-07 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) pushed_at:2021-06 star:0.0k fork:0.0k San SSR framework and utils
 
 ## VHDL

@@ -79,13 +79,13 @@
 - [EFForg/cyberspying](https://github.com/EFForg/cyberspying) pushed_at:2015-12 star:0.0k fork:0.0k cyberspying.eff.org twitter tool
 - [EFForg/fight215](https://github.com/EFForg/fight215) pushed_at:2015-06 star:0.0k fork:0.0k 
 - [EFForg/find-aa-domains](https://github.com/EFForg/find-aa-domains) pushed_at:2019-04 star:0.0k fork:0.0k Create a script to find domains in the PB pre-block list which are mentioned in the Acceptable Ads list as well
-- [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) pushed_at:2021-06 star:3.2k fork:1.2k A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
+- [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) pushed_at:2021-07 star:3.2k fork:1.2k A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
 - [EFForg/https-everywhere-labeller](https://github.com/EFForg/https-everywhere-labeller) pushed_at:2020-06 star:0.0k fork:0.0k Alexa Labeller for HTTPS Everywhere Repo
 - [EFForg/httpse-ruleset-tests](https://github.com/EFForg/httpse-ruleset-tests) pushed_at:2013-09 star:0.0k fork:0.0k 
 - [EFForg/ngw-website](https://github.com/EFForg/ngw-website) pushed_at:2017-01 star:0.0k fork:0.0k 
 - [EFForg/node-wethepeople](https://github.com/EFForg/node-wethepeople) pushed_at:2015-09 star:0.0k fork:0.0k Node wrapper for the We the People API
 - [EFForg/OpenWireless](https://github.com/EFForg/OpenWireless) pushed_at:2016-12 star:0.7k fork:0.1k The official home of the EFF OpenWireless Project
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) pushed_at:2021-06 star:2.2k fork:0.3k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) pushed_at:2021-07 star:2.2k fork:0.3k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [EFForg/privacybadgerfirefox-legacy](https://github.com/EFForg/privacybadgerfirefox-legacy) pushed_at:2016-12 star:0.4k fork:0.1k LEGACY Privacy Badger for Firefox SEE README
 - [EFForg/psi-tumblr-crawler](https://github.com/EFForg/psi-tumblr-crawler) pushed_at:2015-08 star:0.0k fork:0.0k 
 - [EFForg/pushserver](https://github.com/EFForg/pushserver) pushed_at:2018-03 star:0.0k fork:0.0k A server for sending push notifications to mobile apps
