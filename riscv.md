@@ -15,8 +15,8 @@
 - [HTML](#html) (1)
 - [Java](#java) (1)
 - [JavaScript](#javascript) (1)
-- [Makefile](#makefile) (7)
-- [Others](#others) (38)
+- [Makefile](#makefile) (8)
+- [Others](#others) (37)
 - [Python](#python) (6)
 - [Ruby](#ruby) (1)
 - [Shell](#shell) (1)
@@ -25,8 +25,8 @@
 ## Assembly
 
 - [riscv/riscv-arch-test](https://github.com/riscv/riscv-arch-test) pushed_at:2021-06 star:0.2k fork:0.1k 
-- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) pushed_at:2021-06 star:0.1k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
-- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) pushed_at:2021-06 star:0.4k fork:0.1k Working draft of the proposed RISC-V V vector extension
+- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) pushed_at:2021-07 star:0.1k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
+- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) pushed_at:2021-07 star:0.4k fork:0.1k Working draft of the proposed RISC-V V vector extension
 
 ## BitBake
 
@@ -35,10 +35,10 @@
 ## C
 
 - [riscv/configuration-structure](https://github.com/riscv/configuration-structure) pushed_at:2021-06 star:0.0k fork:0.0k RISC-V Configuration Structure
-- [riscv/opensbi](https://github.com/riscv/opensbi) pushed_at:2021-06 star:0.3k fork:0.2k RISC-V Open Source Supervisor Binary Interface
+- [riscv/opensbi](https://github.com/riscv/opensbi) pushed_at:2021-07 star:0.3k fork:0.2k RISC-V Open Source Supervisor Binary Interface
 - [riscv/riscv-binutils-gdb](https://github.com/riscv/riscv-binutils-gdb) pushed_at:2021-07 star:0.1k fork:0.2k RISC-V backports for binutils-gdb.  Development is done upstream at the FSF.
 - [riscv/riscv-code-speed-optimization](https://github.com/riscv/riscv-code-speed-optimization) pushed_at:2021-01 star:0.0k fork:0.0k 
-- [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2021-06 star:0.1k fork:0.0k RISC-V cryptography extensions standardisation work.
+- [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2021-07 star:0.1k fork:0.0k RISC-V cryptography extensions standardisation work.
 - [riscv/riscv-edk2](https://github.com/riscv/riscv-edk2) pushed_at:2021-05 star:0.0k fork:0.0k Port of EDK2 implementation of UEFI to RISC-V. See documentation at:
 - [riscv/riscv-edk2-platforms](https://github.com/riscv/riscv-edk2-platforms) pushed_at:2021-07 star:0.0k fork:0.0k Port of EDK2 implementation of UEFI to RISC-V. See documentation at:
 - [riscv/riscv-gnu-toolchain](https://github.com/riscv/riscv-gnu-toolchain) pushed_at:2021-06 star:1.1k fork:0.5k GNU toolchain for RISC-V, including GCC
@@ -49,13 +49,13 @@
 - [riscv/riscv-pk](https://github.com/riscv/riscv-pk) pushed_at:2021-06 star:0.3k fork:0.2k RISC-V Proxy Kernel
 - [riscv/riscv-test-env](https://github.com/riscv/riscv-test-env) pushed_at:2021-06 star:0.0k fork:0.1k 
 - [riscv/riscv-tests](https://github.com/riscv/riscv-tests) pushed_at:2021-06 star:0.3k fork:0.2k 
-- [riscv/rvv-intrinsic-doc](https://github.com/riscv/rvv-intrinsic-doc) pushed_at:2021-06 star:0.1k fork:0.0k 
+- [riscv/rvv-intrinsic-doc](https://github.com/riscv/rvv-intrinsic-doc) pushed_at:2021-07 star:0.1k fork:0.0k 
 - [riscv/tg-nexus-trace](https://github.com/riscv/tg-nexus-trace) pushed_at:2021-06 star:0.0k fork:0.0k RISC-V Nexus Trace TG documentation and reference code
 
 ## C++
 
 - [riscv/riscv-lld](https://github.com/riscv/riscv-lld) pushed_at:2018-08 star:0.0k fork:0.0k RISC-V port of LLVM Linker
-- [riscv/v8](https://github.com/riscv/v8) pushed_at:2021-06 star:0.2k fork:0.0k Port of Google v8 engine to RISC-V.
+- [riscv/v8](https://github.com/riscv/v8) pushed_at:2021-07 star:0.2k fork:0.0k Port of Google v8 engine to RISC-V.
 
 ## CSS
 
@@ -67,7 +67,7 @@
 
 ## HTML
 
-- [riscv/riscv-CMOs](https://github.com/riscv/riscv-CMOs) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [riscv/riscv-CMOs](https://github.com/riscv/riscv-CMOs) pushed_at:2021-07 star:0.0k fork:0.0k 
 
 ## Java
 
@@ -79,19 +79,20 @@
 
 ## Makefile
 
-- [riscv/riscv-aclint](https://github.com/riscv/riscv-aclint) pushed_at:2021-06 star:0.0k fork:0.0k 
-- [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) pushed_at:2021-06 star:0.1k fork:0.0k Working draft of the proposed RISC-V Bitmanipulation extension
+- [riscv/riscv-aclint](https://github.com/riscv/riscv-aclint) pushed_at:2021-07 star:0.0k fork:0.0k 
+- [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) pushed_at:2021-07 star:0.1k fork:0.0k Working draft of the proposed RISC-V Bitmanipulation extension
 - [riscv/riscv-CMOs-discuss](https://github.com/riscv/riscv-CMOs-discuss) pushed_at:2020-11 star:0.0k fork:0.0k 
 - [riscv/riscv-elf-psabi-doc](https://github.com/riscv/riscv-elf-psabi-doc) pushed_at:2021-07 star:0.2k fork:0.1k A RISC-V ELF psABI Document
-- [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2021-06 star:0.0k fork:0.0k RISC-V Profiles and Platform Specification
-- [riscv/riscv-sbi-doc](https://github.com/riscv/riscv-sbi-doc) pushed_at:2021-06 star:0.1k fork:0.0k Documentation for the RISC-V Supervisor Binary Interface
+- [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2021-07 star:0.0k fork:0.0k RISC-V Profiles and Platform Specification
+- [riscv/riscv-sbi-doc](https://github.com/riscv/riscv-sbi-doc) pushed_at:2021-07 star:0.1k fork:0.0k Documentation for the RISC-V Supervisor Binary Interface
 - [riscv/riscv-semihosting-spec](https://github.com/riscv/riscv-semihosting-spec) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [riscv/riscv-tee](https://github.com/riscv/riscv-tee) pushed_at:2021-07 star:0.0k fork:0.0k 
 
 ## Others
 
 - [riscv/community](https://github.com/riscv/community) pushed_at:2021-03 star:0.0k fork:0.0k RISC-V Community materials
 - [riscv/debug-taskgroup](https://github.com/riscv/debug-taskgroup) pushed_at:2017-03 star:0.0k fork:0.0k Overview page for the RISC-V debug task group
-- [riscv/docs-templates](https://github.com/riscv/docs-templates) pushed_at:2021-06 star:0.0k fork:0.0k Documentation templates and build tools
+- [riscv/docs-templates](https://github.com/riscv/docs-templates) pushed_at:2021-07 star:0.0k fork:0.0k Documentation templates and build tools
 - [riscv/educational-materials](https://github.com/riscv/educational-materials) pushed_at:2021-03 star:0.2k fork:0.0k Educational materials for RISC-V
 - [riscv/genz-on-riscv](https://github.com/riscv/genz-on-riscv) pushed_at:2019-04 star:0.0k fork:0.0k 
 - [riscv/governance](https://github.com/riscv/governance) pushed_at:2021-03 star:0.0k fork:0.0k RISC-V Governance
@@ -111,8 +112,8 @@
 - [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) pushed_at:2021-05 star:0.0k fork:0.0k Working Draft of the RISC-V J Extension Specification
 - [riscv/riscv-ovpsim](https://github.com/riscv/riscv-ovpsim) pushed_at:2021-01 star:0.0k fork:0.0k 
-- [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) pushed_at:2021-06 star:0.0k fork:0.0k RISC-V Packed SIMD Extension
-- [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) pushed_at:2021-06 star:0.0k fork:0.0k PLIC Specification
+- [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) pushed_at:2021-07 star:0.0k fork:0.0k RISC-V Packed SIMD Extension
+- [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) pushed_at:2021-07 star:0.0k fork:0.0k PLIC Specification
 - [riscv/riscv-rasd](https://github.com/riscv/riscv-rasd) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [riscv/riscv-safety](https://github.com/riscv/riscv-safety) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [riscv/riscv-smbios](https://github.com/riscv/riscv-smbios) pushed_at:2021-06 star:0.0k fork:0.0k RISC-V SMBIOS Type 44 Spec
@@ -120,17 +121,16 @@
 - [riscv/riscv-srt](https://github.com/riscv/riscv-srt) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [riscv/riscv-teach](https://github.com/riscv/riscv-teach) pushed_at:2017-07 star:0.0k fork:0.0k Slides, figures, and other material for teaching RISC-V courses
 - [riscv/riscv-technology-hc](https://github.com/riscv/riscv-technology-hc) pushed_at:2021-01 star:0.0k fork:0.0k 
-- [riscv/riscv-tee](https://github.com/riscv/riscv-tee) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [riscv/riscv-toolchain-conventions](https://github.com/riscv/riscv-toolchain-conventions) pushed_at:2021-07 star:0.0k fork:0.0k Documenting the expected behaviour and supported command-line switches for GNU and LLVM based RISC-V toolchains
 - [riscv/riscv-toolchains-runtimes](https://github.com/riscv/riscv-toolchains-runtimes) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [riscv/riscv-uefi-edk2-docs](https://github.com/riscv/riscv-uefi-edk2-docs) pushed_at:2021-01 star:0.0k fork:0.0k Documentation and status of UEFI on RISC-V
 - [riscv/riscv-zfinx](https://github.com/riscv/riscv-zfinx) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [riscv/trace-debug-docs](https://github.com/riscv/trace-debug-docs) pushed_at:2020-03 star:0.0k fork:0.0k 
-- [riscv/virtual-memory](https://github.com/riscv/virtual-memory) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [riscv/virtual-memory](https://github.com/riscv/virtual-memory) pushed_at:2021-07 star:0.0k fork:0.0k 
 
 ## Python
 
-- [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) pushed_at:2021-07 star:0.1k fork:0.0k 
 - [riscv/riscv-config](https://github.com/riscv/riscv-config) pushed_at:2021-07 star:0.0k fork:0.0k RISC-V Configuration Validator
 - [riscv/riscv-ctg](https://github.com/riscv/riscv-ctg) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [riscv/riscv-device-tree-doc](https://github.com/riscv/riscv-device-tree-doc) pushed_at:2018-07 star:0.0k fork:0.0k RISC-V Specific Device Tree Documentation
@@ -139,7 +139,7 @@
 
 ## Ruby
 
-- [riscv/homebrew-riscv](https://github.com/riscv/homebrew-riscv) pushed_at:2021-05 star:0.1k fork:0.0k homebrew (macOS) packages for RISC-V toolchain
+- [riscv/homebrew-riscv](https://github.com/riscv/homebrew-riscv) pushed_at:2021-07 star:0.1k fork:0.0k homebrew (macOS) packages for RISC-V toolchain
 
 ## Shell
 

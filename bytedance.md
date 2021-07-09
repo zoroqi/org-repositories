@@ -30,11 +30,11 @@
 - [bytedance/kvm-utils](https://github.com/bytedance/kvm-utils) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [bytedance/libiscsi](https://github.com/bytedance/libiscsi) pushed_at:2020-11 star:0.0k fork:0.0k iscsi client library and utilities
 - [bytedance/libnvmf](https://github.com/bytedance/libnvmf) pushed_at:2021-06 star:0.0k fork:0.0k 
-- [bytedance/memory-leak-detector](https://github.com/bytedance/memory-leak-detector) pushed_at:2021-06 star:0.4k fork:0.1k 
+- [bytedance/memory-leak-detector](https://github.com/bytedance/memory-leak-detector) pushed_at:2021-07 star:0.5k fork:0.1k 
 - [bytedance/ovs-dpdk](https://github.com/bytedance/ovs-dpdk) pushed_at:2020-12 star:0.0k fork:0.0k This is a fork of Open vSwitch, we focus DPDK based Open vSwitch
 - [bytedance/qemu](https://github.com/bytedance/qemu) pushed_at:2021-06 star:0.0k fork:0.0k Official QEMU mirror. Please see http://wiki.qemu.org/Contribute/SubmitAPatch for how to submit changes to QEMU. Pull Requests are ignored. Please only use release tarballs from the QEMU website.
 - [bytedance/redis](https://github.com/bytedance/redis) pushed_at:2020-10 star:0.0k fork:0.0k Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.
-- [bytedance/tailor](https://github.com/bytedance/tailor) pushed_at:2021-06 star:0.5k fork:0.0k 
+- [bytedance/tailor](https://github.com/bytedance/tailor) pushed_at:2021-07 star:0.5k fork:0.0k 
 - [bytedance/trace-irqoff](https://github.com/bytedance/trace-irqoff) pushed_at:2021-01 star:0.1k fork:0.1k Interrupts-off or softirqs-off latency tracer
 - [bytedance/trace-noschedule](https://github.com/bytedance/trace-noschedule) pushed_at:2020-11 star:0.1k fork:0.0k Trace noschedule thread
 - [bytedance/trace-runqlat](https://github.com/bytedance/trace-runqlat) pushed_at:2020-11 star:0.0k fork:0.0k 
@@ -55,7 +55,7 @@
 
 ## Cuda
 
-- [bytedance/lightseq](https://github.com/bytedance/lightseq) pushed_at:2021-07 star:1.1k fork:0.1k LightSeq: A High Performance Library for Sequence Processing and Generation
+- [bytedance/lightseq](https://github.com/bytedance/lightseq) pushed_at:2021-07 star:1.3k fork:0.1k LightSeq: A High Performance Library for Sequence Processing and Generation
 
 ## Dart
 
@@ -70,10 +70,10 @@
 
 - [bytedance/bosun](https://github.com/bytedance/bosun) pushed_at:2015-08 star:0.0k fork:0.0k Time Series Alerting Framework
 - [bytedance/dbatman](https://github.com/bytedance/dbatman) pushed_at:2017-02 star:0.1k fork:0.0k 
-- [bytedance/Elkeid](https://github.com/bytedance/Elkeid) pushed_at:2021-06 star:0.6k fork:0.1k Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture.
+- [bytedance/Elkeid](https://github.com/bytedance/Elkeid) pushed_at:2021-07 star:0.6k fork:0.1k Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture.
 - [bytedance/go-querystring-parser](https://github.com/bytedance/go-querystring-parser) pushed_at:2020-10 star:0.0k fork:0.0k A golang querystring parser
 - [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) pushed_at:2021-06 star:0.9k fork:0.1k An interesting go struct tag expression syntax for field validation, etc.
-- [bytedance/gopkg](https://github.com/bytedance/gopkg) pushed_at:2021-06 star:0.1k fork:0.0k Universal Utilities for Go
+- [bytedance/gopkg](https://github.com/bytedance/gopkg) pushed_at:2021-07 star:0.1k fork:0.0k Universal Utilities for Go
 - [bytedance/ingress-nginx](https://github.com/bytedance/ingress-nginx) pushed_at:2020-10 star:0.0k fork:0.0k NGINX Ingress Controller for Kubernetes
 - [bytedance/json](https://github.com/bytedance/json) pushed_at:2019-05 star:0.0k fork:0.0k JSON standard package extension library
 - [bytedance/msgp](https://github.com/bytedance/msgp) pushed_at:2019-10 star:0.0k fork:0.0k A Go code generator for MessagePack / msgpack.org[Go]
@@ -87,7 +87,7 @@
 ## Java
 
 - [bytedance/AabResGuard](https://github.com/bytedance/AabResGuard) pushed_at:2021-06 star:0.7k fork:0.1k The tool of obfuscated aab resources.(Android app bundle资源混淆工具)
-- [bytedance/AlphaPlayer](https://github.com/bytedance/AlphaPlayer) pushed_at:2021-05 star:1.2k fork:0.2k AlphaPlayer is a video animation engine.
+- [bytedance/AlphaPlayer](https://github.com/bytedance/AlphaPlayer) pushed_at:2021-07 star:1.2k fork:0.2k AlphaPlayer is a video animation engine.
 - [bytedance/BoostMultiDex](https://github.com/bytedance/BoostMultiDex) pushed_at:2020-07 star:0.9k fork:0.1k BoostMultiDex is a solution for quickly loading multiple dex files on low Android version devices (4.X and below, SDK <21).
 - [bytedance/ByteX](https://github.com/bytedance/ByteX) pushed_at:2021-06 star:1.8k fork:0.2k ByteX is a bytecode plugin platform based on Android Gradle Transform API and ASM.  字节码插件开发平台
 - [bytedance/clickhouse_hadoop](https://github.com/bytedance/clickhouse_hadoop) pushed_at:2019-03 star:0.0k fork:0.0k Import data from clickhouse to hadoop with pure SQL
@@ -96,7 +96,7 @@
 - [bytedance/nnproxy](https://github.com/bytedance/nnproxy) pushed_at:2016-04 star:0.1k fork:0.0k Scalable NameNode RPC Proxy for HDFS Federation
 - [bytedance/okhttp](https://github.com/bytedance/okhttp) pushed_at:2016-11 star:0.0k fork:0.0k An HTTP+HTTP/2 client for Android and Java applications.
 - [bytedance/pangle-sdk-demo](https://github.com/bytedance/pangle-sdk-demo) pushed_at:2020-07 star:0.0k fork:0.0k pangle-sdk-demo and doc 
-- [bytedance/scene](https://github.com/bytedance/scene) pushed_at:2021-05 star:1.7k fork:0.2k Android Single Activity Applications framework without Fragment.
+- [bytedance/scene](https://github.com/bytedance/scene) pushed_at:2021-07 star:1.7k fork:0.2k Android Single Activity Applications framework without Fragment.
 - [bytedance/tiktok-business-android-sdk](https://github.com/bytedance/tiktok-business-android-sdk) pushed_at:2021-05 star:0.0k fork:0.0k 
 
 ## JavaScript
@@ -105,9 +105,9 @@
 - [bytedance/diat](https://github.com/bytedance/diat) pushed_at:2021-05 star:0.1k fork:0.0k A CLI tool to help with diagnosing Node.js processes basing on inspector.
 - [bytedance/lottiefy](https://github.com/bytedance/lottiefy) pushed_at:2018-12 star:0.1k fork:0.0k Render Lottie to any engine
 - [bytedance/node-wifi-info](https://github.com/bytedance/node-wifi-info) pushed_at:2020-02 star:0.0k fork:0.0k node module to get information about the currently connected wifi
-- [bytedance/xgplayer](https://github.com/bytedance/xgplayer) pushed_at:2021-06 star:4.1k fork:0.5k A HTML5 video player with a parser that saves traffic
+- [bytedance/xgplayer](https://github.com/bytedance/xgplayer) pushed_at:2021-06 star:4.2k fork:0.5k A HTML5 video player with a parser that saves traffic
 - [bytedance/xgplayer-react](https://github.com/bytedance/xgplayer-react) pushed_at:2021-02 star:0.1k fork:0.0k React component for xgplayer, a HTML5 video player with a parser that saves traffic
-- [bytedance/xgplayer-vue](https://github.com/bytedance/xgplayer-vue) pushed_at:2021-03 star:0.2k fork:0.0k Vue component for xgplayer, a HTML5 video player with a parser that saves traffic
+- [bytedance/xgplayer-vue](https://github.com/bytedance/xgplayer-vue) pushed_at:2021-07 star:0.2k fork:0.0k Vue component for xgplayer, a HTML5 video player with a parser that saves traffic
 
 ## Jupyter Notebook
 
@@ -153,11 +153,11 @@
 - [bytedance/mega-ai](https://github.com/bytedance/mega-ai) pushed_at:2021-03 star:0.0k fork:0.0k Encapsulate tensorflow and other deep frameworks, support feature evaluation and model evaluation methods
 - [bytedance/mega-spark](https://github.com/bytedance/mega-spark) pushed_at:2020-09 star:0.0k fork:0.0k Spark is encapsulated as a mega interface to call pandas methods
 - [bytedance/neurst](https://github.com/bytedance/neurst) pushed_at:2021-06 star:0.1k fork:0.0k Neural end-to-end Speech Translation Toolkit
-- [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) pushed_at:2021-05 star:0.6k fork:0.1k 
+- [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) pushed_at:2021-05 star:0.7k fork:0.1k 
 
 ## Ruby
 
-- [bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD) pushed_at:2021-06 star:0.1k fork:0.0k 
+- [bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD) pushed_at:2021-07 star:0.1k fork:0.0k 
 - [bytedance/cocoapods_sdk_source_repo](https://github.com/bytedance/cocoapods_sdk_source_repo) pushed_at:2021-04 star:0.0k fork:0.0k 
 
 ## Rust
@@ -170,17 +170,17 @@
 
 ## TypeScript
 
-- [bytedance/byteinspire-js-sdk](https://github.com/bytedance/byteinspire-js-sdk) pushed_at:2021-06 star:0.0k fork:0.0k 轻服务 JS SDK
+- [bytedance/byteinspire-js-sdk](https://github.com/bytedance/byteinspire-js-sdk) pushed_at:2021-07 star:0.0k fork:0.0k 轻服务 JavaScript SDK https://qingfuwu.cn
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) pushed_at:2021-07 star:1.1k fork:0.1k A hackable Markdown editor component built with Svelte
 - [bytedance/debugtron](https://github.com/bytedance/debugtron) pushed_at:2021-02 star:0.6k fork:0.0k Debug in-production Electron based app
 - [bytedance/fe-foundation](https://github.com/bytedance/fe-foundation) pushed_at:2021-06 star:0.1k fork:0.0k UI Foundation for React Hooks and Vue Composition Api 
-- [bytedance/garfish](https://github.com/bytedance/garfish) pushed_at:2021-07 star:0.3k fork:0.0k A powerful micro front-end framework 🚚
+- [bytedance/garfish](https://github.com/bytedance/garfish) pushed_at:2021-07 star:0.4k fork:0.0k A powerful micro front-end framework 🚚
 - [bytedance/graphyne](https://github.com/bytedance/graphyne) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [bytedance/guide](https://github.com/bytedance/guide) pushed_at:2021-06 star:0.4k fork:0.0k A new feature guide component by react 🧭
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-06 star:3.9k fork:0.2k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) pushed_at:2021-06 star:0.2k fork:0.0k Write components in any way, use them everywhere.😘
 - [bytedance/react-model](https://github.com/bytedance/react-model) pushed_at:2021-03 star:0.1k fork:0.0k The next generation state management library for React
-- [bytedance/TiktokBusinessPlugin](https://github.com/bytedance/TiktokBusinessPlugin) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [bytedance/TiktokBusinessPlugin](https://github.com/bytedance/TiktokBusinessPlugin) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [bytedance/vis-tree](https://github.com/bytedance/vis-tree) pushed_at:2021-05 star:0.0k fork:0.0k Visualization of tree data
 
 
