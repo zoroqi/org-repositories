@@ -48,3 +48,4 @@
 - [baidu](./baidu.md)
 - [WICG](./WICG.md)
 - [JetBrains](./JetBrains.md)
+- [Azure](./Azure.md)
