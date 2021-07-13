@@ -142,4 +142,7 @@
 - name: JetBrains
   userType: org
   file: JetBrains.md
+- name: Azure
+  userType: org
+  file: Azure.md
 
