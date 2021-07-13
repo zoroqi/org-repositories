@@ -89,7 +89,7 @@
 - [EFForg/privacybadgerfirefox-legacy](https://github.com/EFForg/privacybadgerfirefox-legacy) pushed_at:2016-12 star:0.4k fork:0.1k LEGACY Privacy Badger for Firefox SEE README
 - [EFForg/psi-tumblr-crawler](https://github.com/EFForg/psi-tumblr-crawler) pushed_at:2015-08 star:0.0k fork:0.0k 
 - [EFForg/pushserver](https://github.com/EFForg/pushserver) pushed_at:2018-03 star:0.0k fork:0.0k A server for sending push notifications to mobile apps
-- [EFForg/sec](https://github.com/EFForg/sec) pushed_at:2021-06 star:0.0k fork:0.0k Security Education Companion
+- [EFForg/sec](https://github.com/EFForg/sec) pushed_at:2021-07 star:0.0k fork:0.0k Security Education Companion
 - [EFForg/social-buttons-server](https://github.com/EFForg/social-buttons-server) pushed_at:2014-04 star:0.0k fork:0.0k Host your own social counters servers while pulling live data from Facebook, Twitter and Google Plus
 - [EFForg/spot_the_surveillance](https://github.com/EFForg/spot_the_surveillance) pushed_at:2020-12 star:0.0k fork:0.0k Spot the Surveillance is an open-source educational VR tool to help people identify street-level surveillance in their community. As each surveillance device is identified, the user is informed on how the device is used via text and narration. The experience is created with accessibility in mind, so is entirely gaze-based for people with mobility challenges. Audio is also used to assist low-vision users.
 - [EFForg/wetheusers-backend](https://github.com/EFForg/wetheusers-backend) pushed_at:2015-09 star:0.0k fork:0.0k Backend services for the We The Users campaign
@@ -137,7 +137,7 @@
 
 ## Ruby
 
-- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) pushed_at:2021-06 star:0.3k fork:0.1k The EFF Action Center Platform
+- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) pushed_at:2021-07 star:0.3k fork:0.1k The EFF Action Center Platform
 - [EFForg/active_preview](https://github.com/EFForg/active_preview) pushed_at:2018-11 star:0.0k fork:0.0k Rails plugin to make previews of active record objects
 - [EFForg/aws_one_click_staging](https://github.com/EFForg/aws_one_click_staging) pushed_at:2018-02 star:0.0k fork:0.0k 
 - [EFForg/check-your-reps](https://github.com/EFForg/check-your-reps) pushed_at:2018-11 star:0.0k fork:0.0k 
@@ -150,12 +150,12 @@
 - [EFForg/onlinecensorship](https://github.com/EFForg/onlinecensorship) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [EFForg/rails_response_headers](https://github.com/EFForg/rails_response_headers) pushed_at:2021-02 star:0.0k fork:0.0k Configure ActionController response headers with YAML.
 - [EFForg/ROSCO](https://github.com/EFForg/ROSCO) pushed_at:2019-10 star:0.0k fork:0.0k ROSCO is an interactive, ruby-based CLI interface for querying against an instance of Snipe-IT
-- [EFForg/ruby-civicrm](https://github.com/EFForg/ruby-civicrm) pushed_at:2020-02 star:0.0k fork:0.0k Ruby client for CiviCRM REST interface
+- [EFForg/ruby-civicrm](https://github.com/EFForg/ruby-civicrm) pushed_at:2021-07 star:0.0k fork:0.0k Ruby client for CiviCRM REST interface
 
 ## Rust
 
-- [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) pushed_at:2021-06 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
-- [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) pushed_at:2021-06 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
+- [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) pushed_at:2021-07 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
+- [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) pushed_at:2021-07 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 - [EFForg/https-everywhere-rust-test-implementation](https://github.com/EFForg/https-everywhere-rust-test-implementation) pushed_at:2020-04 star:0.0k fork:0.0k 
 

@@ -7,7 +7,7 @@
 ## Contents(553)
 
 - [Batchfile](#batchfile) (2)
-- [C](#c) (3)
+- [C](#c) (4)
 - [C#](#c#) (58)
 - [C++](#c++) (16)
 - [CMake](#cmake) (2)
@@ -26,7 +26,6 @@
 - [Kotlin](#kotlin) (98)
 - [Nemerle](#nemerle) (1)
 - [Nix](#nix) (1)
-- [Objective-C++](#objective-c++) (1)
 - [Others](#others) (49)
 - [PHP](#php) (7)
 - [PowerShell](#powershell) (4)
@@ -43,13 +42,14 @@
 
 ## Batchfile
 
-- [JetBrains/ExternalAnnotations](https://github.com/JetBrains/ExternalAnnotations) pushed_at:2021-06 star:0.1k fork:0.0k JetBrains ReSharper External Annotations
+- [JetBrains/ExternalAnnotations](https://github.com/JetBrains/ExternalAnnotations) pushed_at:2021-07 star:0.1k fork:0.0k JetBrains ReSharper External Annotations
 - [JetBrains/resharper-sample-patterns](https://github.com/JetBrains/resharper-sample-patterns) pushed_at:2017-09 star:0.0k fork:0.0k Sample Structural Search and Replace patterns for ReSharper
 
 ## C
 
 - [JetBrains/binutils-gdb](https://github.com/JetBrains/binutils-gdb) pushed_at:2019-07 star:0.0k fork:0.0k Fork of sourceware binutils-gdb repository with JetBrains patches.
 - [JetBrains/hackathon19_deskovery](https://github.com/JetBrains/hackathon19_deskovery) pushed_at:2019-10 star:0.0k fork:0.0k 
+- [JetBrains/JWM](https://github.com/JetBrains/JWM) pushed_at:2021-07 star:0.1k fork:0.0k Cross-platform window management and OS integration library for Java
 - [JetBrains/osx-cpu-temp](https://github.com/JetBrains/osx-cpu-temp) pushed_at:2019-05 star:0.0k fork:0.0k Outputs current CPU temperature for OSX
 
 ## C#
@@ -83,15 +83,15 @@
 - [JetBrains/passcore](https://github.com/JetBrains/passcore) pushed_at:2021-06 star:0.0k fork:0.0k A self-service password management tool for Active Directory
 - [JetBrains/profiler-api](https://github.com/JetBrains/profiler-api) pushed_at:2021-06 star:0.0k fork:0.0k The portable version of JetBrains profiler API for .NET Framework / .NET Core / .NET / .NET Standard / Mono
 - [JetBrains/profiler-self-api](https://github.com/JetBrains/profiler-self-api) pushed_at:2021-06 star:0.0k fork:0.0k The portable version of JetBrains profiler self API for .NET Framework / .NET Core / .NET / .NET Standard
-- [JetBrains/rd](https://github.com/JetBrains/rd) pushed_at:2021-06 star:0.3k fork:0.0k Reactive Distributed communication framework for .net, kotlin, js. Inspired by Rider IDE. 
+- [JetBrains/rd](https://github.com/JetBrains/rd) pushed_at:2021-07 star:0.3k fork:0.0k Reactive Distributed communication framework for .net, kotlin, js. Inspired by Rider IDE. 
 - [JetBrains/Refasmer](https://github.com/JetBrains/Refasmer) pushed_at:2021-03 star:0.0k fork:0.0k The tool to create reference assembly from common assembly.  
 - [JetBrains/resharper-cyclomatic-complexity](https://github.com/JetBrains/resharper-cyclomatic-complexity) pushed_at:2021-06 star:0.1k fork:0.0k ReSharper plugin to measure cyclomatic complexity as you type
 - [JetBrains/resharper-nuget](https://github.com/JetBrains/resharper-nuget) pushed_at:2017-08 star:0.1k fork:0.0k Plugin for ReSharper to support NuGet references correctly
 - [JetBrains/resharper-plugins](https://github.com/JetBrains/resharper-plugins) pushed_at:2017-08 star:0.0k fork:0.0k Various simple plugins for ReSharper
-- [JetBrains/resharper-presentation-assistant](https://github.com/JetBrains/resharper-presentation-assistant) pushed_at:2021-06 star:0.0k fork:0.0k ReSharper extension to show executing commands and keystrokes
+- [JetBrains/resharper-presentation-assistant](https://github.com/JetBrains/resharper-presentation-assistant) pushed_at:2021-07 star:0.0k fork:0.0k ReSharper extension to show executing commands and keystrokes
 - [JetBrains/resharper-rider-plugin](https://github.com/JetBrains/resharper-rider-plugin) pushed_at:2021-06 star:0.1k fork:0.0k https://www.jetbrains.com/help/resharper/sdk/
 - [JetBrains/resharper-rider-samples](https://github.com/JetBrains/resharper-rider-samples) pushed_at:2021-05 star:0.2k fork:0.1k Simple interactive exercises to help learn ReSharper and Rider
-- [JetBrains/resharper-ultimate-whatsnew](https://github.com/JetBrains/resharper-ultimate-whatsnew) pushed_at:2019-11 star:0.0k fork:0.0k Code samples to illustrate changes in new ReSharper Ultimate releases
+- [JetBrains/resharper-ultimate-whatsnew](https://github.com/JetBrains/resharper-ultimate-whatsnew) pushed_at:2021-07 star:0.0k fork:0.0k Code samples to illustrate changes in new ReSharper Ultimate releases
 - [JetBrains/resharper-unity](https://github.com/JetBrains/resharper-unity) pushed_at:2021-07 star:1.0k fork:0.1k Unity support for both ReSharper and Rider
 - [JetBrains/resharper-vsix](https://github.com/JetBrains/resharper-vsix) pushed_at:2017-09 star:0.0k fork:0.0k VSIX and ReSharper integration
 - [JetBrains/ReSharperGallery](https://github.com/JetBrains/ReSharperGallery) pushed_at:2017-08 star:0.0k fork:0.0k ReSharper Gallery
@@ -102,7 +102,7 @@
 - [JetBrains/sdk](https://github.com/JetBrains/sdk) pushed_at:2021-02 star:0.0k fork:0.0k Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI
 - [JetBrains/SharpGen.Runtime.COM](https://github.com/JetBrains/SharpGen.Runtime.COM) pushed_at:2020-06 star:0.0k fork:0.0k COM runtime support for SharpGen generated interop code.
 - [JetBrains/SharpZipLib](https://github.com/JetBrains/SharpZipLib) pushed_at:2020-05 star:0.0k fork:0.0k #ziplib is a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform.
-- [JetBrains/space-dotnet-sdk](https://github.com/JetBrains/space-dotnet-sdk) pushed_at:2021-06 star:0.0k fork:0.0k The .NET SDK for JetBrains Space is a .NET library to work with the JetBrains Space API.
+- [JetBrains/space-dotnet-sdk](https://github.com/JetBrains/space-dotnet-sdk) pushed_at:2021-07 star:0.0k fork:0.0k The .NET SDK for JetBrains Space is a .NET library to work with the JetBrains Space API.
 - [JetBrains/symbol_storage](https://github.com/JetBrains/symbol_storage) pushed_at:2021-04 star:0.0k fork:0.0k Tools for maintaining the company or private symbol storage for Windows / Linux / macOS
 - [JetBrains/teamcity-dotcover](https://github.com/JetBrains/teamcity-dotcover) pushed_at:2019-07 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-dotnet-samples](https://github.com/JetBrains/teamcity-dotnet-samples) pushed_at:2020-12 star:0.0k fork:0.0k 
@@ -111,7 +111,7 @@
 - [JetBrains/TeamCity.ServiceMessages](https://github.com/JetBrains/TeamCity.ServiceMessages) pushed_at:2020-05 star:0.0k fork:0.0k .NET library to deal with TeamCity Service messages
 - [JetBrains/TeamCity.VSTest.TestAdapter](https://github.com/JetBrains/TeamCity.VSTest.TestAdapter) pushed_at:2021-02 star:0.0k fork:0.0k 
 - [JetBrains/VSCodeDebugger](https://github.com/JetBrains/VSCodeDebugger) pushed_at:2017-02 star:0.0k fork:0.0k Xamarin Studio/MonoDevelop debugger AddIn for VSCode debugging protocol, currently with only CoreClr debugger adaptor.
-- [JetBrains/YouTrackSharp](https://github.com/JetBrains/YouTrackSharp) pushed_at:2021-03 star:0.1k fork:0.1k .NET Standard 2.0 Library to access YouTrack API.
+- [JetBrains/YouTrackSharp](https://github.com/JetBrains/YouTrackSharp) pushed_at:2021-07 star:0.1k fork:0.1k .NET Standard 2.0 Library to access YouTrack API.
 
 ## C++
 
@@ -150,7 +150,7 @@
 - [JetBrains/phpstorm-docker-images](https://github.com/JetBrains/phpstorm-docker-images) pushed_at:2021-05 star:0.1k fork:0.0k Pre-configured Docker images used by PhpStorm team
 - [JetBrains/rider-plugins-docker-image](https://github.com/JetBrains/rider-plugins-docker-image) pushed_at:2019-05 star:0.0k fork:0.0k A docker image for building JetBrains Rider plugins
 - [JetBrains/teamcity-docker-agent](https://github.com/JetBrains/teamcity-docker-agent) pushed_at:2020-07 star:0.1k fork:0.1k TeamCity agent docker image sources
-- [JetBrains/teamcity-docker-images](https://github.com/JetBrains/teamcity-docker-images) pushed_at:2021-06 star:0.0k fork:0.0k TeamCity docker images
+- [JetBrains/teamcity-docker-images](https://github.com/JetBrains/teamcity-docker-images) pushed_at:2021-07 star:0.0k fork:0.0k TeamCity docker images
 - [JetBrains/teamcity-docker-minimal-agent](https://github.com/JetBrains/teamcity-docker-minimal-agent) pushed_at:2020-10 star:0.0k fork:0.0k TeamCity minimal agent docker image sources
 - [JetBrains/teamcity-docker-server](https://github.com/JetBrains/teamcity-docker-server) pushed_at:2020-07 star:0.1k fork:0.1k TeamCity server docker image sources
 - [JetBrains/upsource-with-tools-docker](https://github.com/JetBrains/upsource-with-tools-docker) pushed_at:2021-03 star:0.0k fork:0.0k 
@@ -175,10 +175,10 @@
 
 - [JetBrains/docker-credential-space](https://github.com/JetBrains/docker-credential-space) pushed_at:2020-05 star:0.0k fork:0.0k Docker Credential Helper for JetBrains Space Container Registry
 - [JetBrains/golandtipsandtricks](https://github.com/JetBrains/golandtipsandtricks) pushed_at:2021-05 star:0.1k fork:0.0k This is an ever evolving repository for GoLand Tips&Tricks
-- [JetBrains/ij-perf-report-aggregator](https://github.com/JetBrains/ij-perf-report-aggregator) pushed_at:2021-05 star:0.0k fork:0.0k 
+- [JetBrains/ij-perf-report-aggregator](https://github.com/JetBrains/ij-perf-report-aggregator) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [JetBrains/packer-post-processor-teamcity](https://github.com/JetBrains/packer-post-processor-teamcity) pushed_at:2020-07 star:0.0k fork:0.0k Publish IDs of generated images as a build parameters
 - [JetBrains/telegraf](https://github.com/JetBrains/telegraf) pushed_at:2017-09 star:0.0k fork:0.0k The plugin-driven server agent for collecting & reporting metrics.
-- [JetBrains/whatsnewingoland](https://github.com/JetBrains/whatsnewingoland) pushed_at:2021-06 star:0.0k fork:0.0k What's New in GoLand
+- [JetBrains/whatsnewingoland](https://github.com/JetBrains/whatsnewingoland) pushed_at:2021-07 star:0.0k fork:0.0k What's New in GoLand
 
 ## Groovy
 
@@ -205,10 +205,10 @@
 - [JetBrains/android](https://github.com/JetBrains/android) pushed_at:2021-06 star:0.7k fork:0.2k Android Plugin for IntelliJ IDEA
 - [JetBrains/Android-Tuts-Samples](https://github.com/JetBrains/Android-Tuts-Samples) pushed_at:2013-10 star:0.0k fork:0.0k 
 - [JetBrains/androidx](https://github.com/JetBrains/androidx) pushed_at:2021-07 star:0.0k fork:0.0k Development environment for Android Jetpack extension libraries under the androidx namespace. Synchronized with Android Jetpack's primary development branch on AOSP.
-- [JetBrains/Arend](https://github.com/JetBrains/Arend) pushed_at:2021-06 star:0.5k fork:0.0k The Arend Proof Assistant
-- [JetBrains/arend-lib](https://github.com/JetBrains/arend-lib) pushed_at:2021-06 star:0.1k fork:0.0k 
+- [JetBrains/Arend](https://github.com/JetBrains/Arend) pushed_at:2021-07 star:0.5k fork:0.0k The Arend Proof Assistant
+- [JetBrains/arend-lib](https://github.com/JetBrains/arend-lib) pushed_at:2021-07 star:0.1k fork:0.0k 
 - [JetBrains/attachme](https://github.com/JetBrains/attachme) pushed_at:2020-02 star:0.0k fork:0.0k IntelliJ plugin for auto-attaching the debugger to JVM applications
-- [JetBrains/azure-tools-for-intellij](https://github.com/JetBrains/azure-tools-for-intellij) pushed_at:2021-06 star:0.0k fork:0.0k Azure Toolkit for JetBrains Rider.
+- [JetBrains/azure-tools-for-intellij](https://github.com/JetBrains/azure-tools-for-intellij) pushed_at:2021-07 star:0.0k fork:0.0k Azure Toolkit for JetBrains Rider.
 - [JetBrains/batik](https://github.com/JetBrains/batik) pushed_at:2021-02 star:0.0k fork:0.0k Mirror of Apache Batik
 - [JetBrains/bazel-bsp](https://github.com/JetBrains/bazel-bsp) pushed_at:2021-06 star:0.0k fork:0.0k An implementation of the Build Server Protocol for Bazel
 - [JetBrains/build-chain-export](https://github.com/JetBrains/build-chain-export) pushed_at:2021-04 star:0.0k fork:0.0k Exports TeamCity build chain graph in various formats (dot, gml, etc)
@@ -216,7 +216,7 @@
 - [JetBrains/clearcase](https://github.com/JetBrains/clearcase) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [JetBrains/clion-debugger-plugin-stub](https://github.com/JetBrains/clion-debugger-plugin-stub) pushed_at:2020-05 star:0.0k fork:0.0k Minimalistic plugin with custom debugger stub
 - [JetBrains/codereview4intellij](https://github.com/JetBrains/codereview4intellij) pushed_at:2013-05 star:0.0k fork:0.0k 
-- [JetBrains/commit-status-publisher](https://github.com/JetBrains/commit-status-publisher) pushed_at:2021-05 star:0.1k fork:0.1k TeamCity commit status publisher
+- [JetBrains/commit-status-publisher](https://github.com/JetBrains/commit-status-publisher) pushed_at:2021-07 star:0.1k fork:0.1k TeamCity commit status publisher
 - [JetBrains/coverage-report](https://github.com/JetBrains/coverage-report) pushed_at:2021-02 star:0.0k fork:0.0k 
 - [JetBrains/dekaf](https://github.com/JetBrains/dekaf) pushed_at:2020-11 star:0.0k fork:0.0k Java Database Access Layer
 - [JetBrains/doclava-mirror](https://github.com/JetBrains/doclava-mirror) pushed_at:2021-05 star:0.0k fork:0.0k 
@@ -236,7 +236,7 @@
 - [JetBrains/intellij-deps-HunspellJNA](https://github.com/JetBrains/intellij-deps-HunspellJNA) pushed_at:2019-07 star:0.0k fork:0.0k Hunspell library for Java based on JNA with patches needed for IntelliJ
 - [JetBrains/intellij-deps-ini4j](https://github.com/JetBrains/intellij-deps-ini4j) pushed_at:2020-10 star:0.0k fork:0.0k Fork of ini4j library with patches needed for IntelliJ IDEA
 - [JetBrains/intellij-deps-java-compatibility](https://github.com/JetBrains/intellij-deps-java-compatibility) pushed_at:2018-09 star:0.0k fork:0.0k Classes from JDK8 excluded from JDK9
-- [JetBrains/intellij-deps-jdi](https://github.com/JetBrains/intellij-deps-jdi) pushed_at:2021-06 star:0.0k fork:0.0k Fork of jdi used in IntelliJ Platform
+- [JetBrains/intellij-deps-jdi](https://github.com/JetBrains/intellij-deps-jdi) pushed_at:2021-07 star:0.0k fork:0.0k Fork of jdi used in IntelliJ Platform
 - [JetBrains/intellij-deps-jdom](https://github.com/JetBrains/intellij-deps-jdom) pushed_at:2018-09 star:0.0k fork:0.0k Patched version of JDOM library used in IntelliJ Platform
 - [JetBrains/intellij-deps-jflex](https://github.com/JetBrains/intellij-deps-jflex) pushed_at:2018-09 star:0.0k fork:0.0k Fork of JFlex (https://github.com/jflex-de/jflex) used in IntelliJ Platform
 - [JetBrains/intellij-deps-jna](https://github.com/JetBrains/intellij-deps-jna) pushed_at:2021-02 star:0.0k fork:0.0k Version of Java Native Access used in IntelliJ Platform
@@ -248,7 +248,7 @@
 - [JetBrains/intellij-obsolete-plugins](https://github.com/JetBrains/intellij-obsolete-plugins) pushed_at:2021-04 star:0.0k fork:0.0k Plugins which used to be bundled in IntelliJ IDEA but are no longer actively maintained
 - [JetBrains/intellij-plugins](https://github.com/JetBrains/intellij-plugins) pushed_at:2021-07 star:1.7k fork:0.9k Open-source plugins included in the distribution of IntelliJ IDEA Ultimate and other IDEs based on the IntelliJ Platform
 - [JetBrains/intellij-samples](https://github.com/JetBrains/intellij-samples) pushed_at:2021-07 star:0.1k fork:0.1k Code that demonstrates various IntelliJ IDEA features
-- [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) pushed_at:2021-06 star:0.3k fork:0.1k Mirror of the IntelliJ SDK Docs Code Samples
+- [JetBrains/intellij-sdk-code-samples](https://github.com/JetBrains/intellij-sdk-code-samples) pushed_at:2021-07 star:0.3k fork:0.1k Mirror of the IntelliJ SDK Docs Code Samples
 - [JetBrains/intellij-sdk-docs](https://github.com/JetBrains/intellij-sdk-docs) pushed_at:2021-07 star:1.0k fork:0.7k IntelliJ SDK Platform Documentation
 - [JetBrains/intellij-starteam-plugin](https://github.com/JetBrains/intellij-starteam-plugin) pushed_at:2011-08 star:0.0k fork:0.0k StarTeam plugin for IntelliJ IDEA (no longer maintained by JetBrains)
 - [JetBrains/ion-java](https://github.com/JetBrains/ion-java) pushed_at:2021-04 star:0.0k fork:0.0k  Java streaming parser/serializer for Ion. 
@@ -264,7 +264,7 @@
 - [JetBrains/jdk8u_langtools](https://github.com/JetBrains/jdk8u_langtools) pushed_at:2020-10 star:0.0k fork:0.0k 
 - [JetBrains/jdk8u_nashorn](https://github.com/JetBrains/jdk8u_nashorn) pushed_at:2020-10 star:0.0k fork:0.0k 
 - [JetBrains/jdk8u_tests](https://github.com/JetBrains/jdk8u_tests) pushed_at:2020-03 star:0.0k fork:0.0k Collection of test suites for JetBrains Runtime
-- [JetBrains/jediterm](https://github.com/JetBrains/jediterm) pushed_at:2021-07 star:0.4k fork:0.1k Pure Java Terminal Emulator. Works with SSH and PTY.
+- [JetBrains/jediterm](https://github.com/JetBrains/jediterm) pushed_at:2021-07 star:0.5k fork:0.1k Pure Java Terminal Emulator. Works with SSH and PTY.
 - [JetBrains/JetBrainsRuntime](https://github.com/JetBrains/JetBrainsRuntime) pushed_at:2021-07 star:0.2k fork:0.1k Runtime environment based on OpenJDK for running IntelliJ Platform-based products on Windows, macOS, and Linux
 - [JetBrains/jetCheck](https://github.com/JetBrains/jetCheck) pushed_at:2021-06 star:0.1k fork:0.0k Property-based test framework 
 - [JetBrains/jetpad-projectional-open-source](https://github.com/JetBrains/jetpad-projectional-open-source) pushed_at:2016-05 star:0.1k fork:0.0k jetpad-projectional
@@ -290,16 +290,16 @@
 - [JetBrains/sisu.inject](https://github.com/JetBrains/sisu.inject) pushed_at:2020-12 star:0.0k fork:0.0k Sisu project repository (sisu.inject)
 - [JetBrains/skija](https://github.com/JetBrains/skija) pushed_at:2021-06 star:2.0k fork:0.1k Skia bindings for Java
 - [JetBrains/spotbugs-intellij-plugin](https://github.com/JetBrains/spotbugs-intellij-plugin) pushed_at:2021-06 star:0.0k fork:0.0k The SpotBugs Plugin for IntelliJ IDEA
-- [JetBrains/tc-sbt-runner](https://github.com/JetBrains/tc-sbt-runner) pushed_at:2021-06 star:0.0k fork:0.0k TeamCity plugin makes SBT runner
+- [JetBrains/tc-sbt-runner](https://github.com/JetBrains/tc-sbt-runner) pushed_at:2021-07 star:0.0k fork:0.0k TeamCity plugin makes SBT runner
 - [JetBrains/tc-vso-rooms](https://github.com/JetBrains/tc-vso-rooms) pushed_at:2017-09 star:0.0k fork:0.0k TeamCity Visual Studio Online Team Rooms notifier
-- [JetBrains/team-explorer-everywhere](https://github.com/JetBrains/team-explorer-everywhere) pushed_at:2021-06 star:0.0k fork:0.0k Portable Team Foundation Version Control Client
+- [JetBrains/team-explorer-everywhere](https://github.com/JetBrains/team-explorer-everywhere) pushed_at:2021-07 star:0.0k fork:0.0k Portable Team Foundation Version Control Client
 - [JetBrains/teamcity-achievements](https://github.com/JetBrains/teamcity-achievements) pushed_at:2021-01 star:0.0k fork:0.0k TeamCity achievements plugin
-- [JetBrains/teamcity-agent-info](https://github.com/JetBrains/teamcity-agent-info) pushed_at:2021-06 star:0.0k fork:0.0k teamcity-agent-info
+- [JetBrains/teamcity-agent-info](https://github.com/JetBrains/teamcity-agent-info) pushed_at:2021-07 star:0.0k fork:0.0k teamcity-agent-info
 - [JetBrains/teamcity-agent-state-plugin](https://github.com/JetBrains/teamcity-agent-state-plugin) pushed_at:2020-08 star:0.0k fork:0.0k TeamCity plugin for replicating the current state of the agent to the file
 - [JetBrains/teamcity-aws-codebuild-plugin](https://github.com/JetBrains/teamcity-aws-codebuild-plugin) pushed_at:2021-01 star:0.0k fork:0.0k Build runner for building projects on AWS CodeBuild
 - [JetBrains/teamcity-aws-codedeploy-plugin](https://github.com/JetBrains/teamcity-aws-codedeploy-plugin) pushed_at:2021-06 star:0.0k fork:0.0k Build runner for deploying application to AWS EC2 and on-premise instances using AWS CodeDeploy
 - [JetBrains/teamcity-aws-codepipeline-plugin](https://github.com/JetBrains/teamcity-aws-codepipeline-plugin) pushed_at:2021-01 star:0.0k fork:0.0k 
-- [JetBrains/teamcity-aws-core-plugin](https://github.com/JetBrains/teamcity-aws-core-plugin) pushed_at:2021-06 star:0.0k fork:0.0k Core utilities common for TeamCity Amazon-related plugins. Before TeamCity 2019.2 was a part of teamcity-aws-codedeploy-plugin.
+- [JetBrains/teamcity-aws-core-plugin](https://github.com/JetBrains/teamcity-aws-core-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Core utilities common for TeamCity Amazon-related plugins. Before TeamCity 2019.2 was a part of teamcity-aws-codedeploy-plugin.
 - [JetBrains/teamcity-bitbucket-issues](https://github.com/JetBrains/teamcity-bitbucket-issues) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-build-agents-diff](https://github.com/JetBrains/teamcity-build-agents-diff) pushed_at:2019-04 star:0.0k fork:0.0k TeamCity server plugin which allows to compare build agent property sets
 - [JetBrains/teamcity-clearcase](https://github.com/JetBrains/teamcity-clearcase) pushed_at:2021-01 star:0.0k fork:0.0k 
@@ -309,7 +309,7 @@
 - [JetBrains/teamcity-dottrace](https://github.com/JetBrains/teamcity-dottrace) pushed_at:2021-01 star:0.0k fork:0.0k TeamCity plugin dotTrace
 - [JetBrains/teamcity-environment-fetcher](https://github.com/JetBrains/teamcity-environment-fetcher) pushed_at:2020-05 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-fxcop](https://github.com/JetBrains/teamcity-fxcop) pushed_at:2021-02 star:0.0k fork:0.0k 
-- [JetBrains/teamcity-git](https://github.com/JetBrains/teamcity-git) pushed_at:2021-06 star:0.0k fork:0.0k Git VCS Support for TeamCity
+- [JetBrains/teamcity-git](https://github.com/JetBrains/teamcity-git) pushed_at:2021-07 star:0.0k fork:0.0k Git VCS Support for TeamCity
 - [JetBrains/teamcity-github-auth](https://github.com/JetBrains/teamcity-github-auth) pushed_at:2020-04 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-github-issues](https://github.com/JetBrains/teamcity-github-issues) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-google-tag-manager-plugin](https://github.com/JetBrains/teamcity-google-tag-manager-plugin) pushed_at:2021-06 star:0.0k fork:0.0k Allows to add Google Tag Manager to TeamCity UI pages
@@ -318,19 +318,19 @@
 - [JetBrains/teamcity-helm-plugin](https://github.com/JetBrains/teamcity-helm-plugin) pushed_at:2020-05 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-investigations-auto-assigner](https://github.com/JetBrains/teamcity-investigations-auto-assigner) pushed_at:2021-06 star:0.0k fork:0.0k Assigns investigations of build failures automatically based on heuristics
 - [JetBrains/teamcity-invitations-plugin](https://github.com/JetBrains/teamcity-invitations-plugin) pushed_at:2021-01 star:0.0k fork:0.0k This plugin allows inviting users to create or join TeamCity projects.
-- [JetBrains/teamcity-kubernetes-plugin](https://github.com/JetBrains/teamcity-kubernetes-plugin) pushed_at:2021-06 star:0.1k fork:0.0k Run TeamCity cloud agents on Kubernetes cluster
+- [JetBrains/teamcity-kubernetes-plugin](https://github.com/JetBrains/teamcity-kubernetes-plugin) pushed_at:2021-07 star:0.1k fork:0.0k Run TeamCity cloud agents on Kubernetes cluster
 - [JetBrains/teamcity-local-cloud](https://github.com/JetBrains/teamcity-local-cloud) pushed_at:2020-06 star:0.0k fork:0.0k TeamCity plugin that creates a "cloud" on the server's machine using its local agents.
 - [JetBrains/teamcity-maven-archetypes](https://github.com/JetBrains/teamcity-maven-archetypes) pushed_at:2020-05 star:0.0k fork:0.0k Archetypes for Teamcity Plugins
-- [JetBrains/teamcity-nuget-support](https://github.com/JetBrains/teamcity-nuget-support) pushed_at:2021-06 star:0.0k fork:0.0k TeamCity NuGet support
+- [JetBrains/teamcity-nuget-support](https://github.com/JetBrains/teamcity-nuget-support) pushed_at:2021-07 star:0.0k fork:0.0k TeamCity NuGet support
 - [JetBrains/teamcity-powershell](https://github.com/JetBrains/teamcity-powershell) pushed_at:2021-01 star:0.0k fork:0.0k PowerShell support for TeamCity
 - [JetBrains/teamcity-priority-queue](https://github.com/JetBrains/teamcity-priority-queue) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-process-output-parsers](https://github.com/JetBrains/teamcity-process-output-parsers) pushed_at:2018-04 star:0.0k fork:0.0k TeamCity plugin with process output parsers
 - [JetBrains/teamcity-queue-pauser](https://github.com/JetBrains/teamcity-queue-pauser) pushed_at:2021-03 star:0.0k fork:0.0k Queue manager plugin for TeamCity
 - [JetBrains/teamcity-rake](https://github.com/JetBrains/teamcity-rake) pushed_at:2021-01 star:0.0k fork:0.0k 
-- [JetBrains/teamcity-rest](https://github.com/JetBrains/teamcity-rest) pushed_at:2021-06 star:0.0k fork:0.0k TeamCity REST API (bundled in TeamCity distribution)
+- [JetBrains/teamcity-rest](https://github.com/JetBrains/teamcity-rest) pushed_at:2021-07 star:0.0k fork:0.0k TeamCity REST API (bundled in TeamCity distribution)
 - [JetBrains/teamcity-rest-codegen](https://github.com/JetBrains/teamcity-rest-codegen) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-runas-plugin](https://github.com/JetBrains/teamcity-runas-plugin) pushed_at:2021-01 star:0.0k fork:0.0k The teamcity-runas plugin to run TeamCity build steps under a specified user account on Windows or Linux.
-- [JetBrains/teamcity-s3-artifact-storage-plugin](https://github.com/JetBrains/teamcity-s3-artifact-storage-plugin) pushed_at:2021-06 star:0.0k fork:0.0k TeamCity plugin which allows replacing the TeamCity built-in artifacts storage with AWS S3
+- [JetBrains/teamcity-s3-artifact-storage-plugin](https://github.com/JetBrains/teamcity-s3-artifact-storage-plugin) pushed_at:2021-07 star:0.0k fork:0.0k TeamCity plugin which allows replacing the TeamCity built-in artifacts storage with AWS S3
 - [JetBrains/teamcity-sakura-ui-plugins](https://github.com/JetBrains/teamcity-sakura-ui-plugins) pushed_at:2021-02 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-shared-resources](https://github.com/JetBrains/teamcity-shared-resources) pushed_at:2021-05 star:0.0k fork:0.0k Shared resources plugin for TeamCity
 - [JetBrains/teamcity-swabra](https://github.com/JetBrains/teamcity-swabra) pushed_at:2021-01 star:0.0k fork:0.0k 
@@ -342,7 +342,7 @@
 - [JetBrains/teamcity-usage-statistics](https://github.com/JetBrains/teamcity-usage-statistics) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-vault-vcs](https://github.com/JetBrains/teamcity-vault-vcs) pushed_at:2020-04 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-vmware-plugin](https://github.com/JetBrains/teamcity-vmware-plugin) pushed_at:2021-06 star:0.0k fork:0.0k Enables Teamcity cloud integration with vCenter and vSphere Hypervisor
-- [JetBrains/teamcity-webhooks](https://github.com/JetBrains/teamcity-webhooks) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [JetBrains/teamcity-webhooks](https://github.com/JetBrains/teamcity-webhooks) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-xml-tests-reporting](https://github.com/JetBrains/teamcity-xml-tests-reporting) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [JetBrains/TeamCity.SonarQubePlugin](https://github.com/JetBrains/TeamCity.SonarQubePlugin) pushed_at:2021-07 star:0.0k fork:0.0k A plugin for TeamCity server allowing you to configure and run SonarQube analysis from the CI
 - [JetBrains/TeamCity.StaticUIExtensions](https://github.com/JetBrains/TeamCity.StaticUIExtensions) pushed_at:2021-05 star:0.0k fork:0.0k Allows extending TeamCity pages with some extension texts
@@ -356,7 +356,7 @@
 - [JetBrains/xstream](https://github.com/JetBrains/xstream) pushed_at:2020-12 star:0.0k fork:0.0k Serialize Java objects to XML and back again.
 - [JetBrains/yavijava](https://github.com/JetBrains/yavijava) pushed_at:2020-12 star:0.0k fork:0.0k Yet Another vijava. A fork of vijava http://sourceforge.net/p/vijava/
 - [JetBrains/youtrack-confluence-plugin](https://github.com/JetBrains/youtrack-confluence-plugin) pushed_at:2018-12 star:0.0k fork:0.0k 
-- [JetBrains/youtrack.mylyn.connector](https://github.com/JetBrains/youtrack.mylyn.connector) pushed_at:2021-06 star:0.0k fork:0.0k Eclipse plugin connector for YouTrack bugtracker using Mylyn
+- [JetBrains/youtrack.mylyn.connector](https://github.com/JetBrains/youtrack.mylyn.connector) pushed_at:2021-07 star:0.0k fork:0.0k Eclipse plugin connector for YouTrack bugtracker using Mylyn
 - [JetBrains/zendesk-java-client](https://github.com/JetBrains/zendesk-java-client) pushed_at:2019-06 star:0.0k fork:0.0k A Java client library for interacting with Zendesk
 
 ## JavaScript
@@ -413,7 +413,7 @@
 - [JetBrains/webteam-test](https://github.com/JetBrains/webteam-test) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [JetBrains/youtrack-activities-widget](https://github.com/JetBrains/youtrack-activities-widget) pushed_at:2021-06 star:0.0k fork:0.0k YouTrack Dashboard widget that displays recent activities feed
 - [JetBrains/youtrack-board-status-widget](https://github.com/JetBrains/youtrack-board-status-widget) pushed_at:2021-06 star:0.0k fork:0.0k Hub dashboard widget to displays the progress indicator for columns from an agile board in YouTrack.
-- [JetBrains/youtrack-issue-distribution-report-widget](https://github.com/JetBrains/youtrack-issue-distribution-report-widget) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [JetBrains/youtrack-issue-distribution-report-widget](https://github.com/JetBrains/youtrack-issue-distribution-report-widget) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [JetBrains/youtrack-issues-list-widget](https://github.com/JetBrains/youtrack-issues-list-widget) pushed_at:2021-06 star:0.0k fork:0.0k Hub dashboard widget to display a list of YouTrack issues that match a search query
 - [JetBrains/youtrack-mobile](https://github.com/JetBrains/youtrack-mobile) pushed_at:2021-07 star:0.2k fork:0.1k A iOS and Android client for YouTrack
 - [JetBrains/youtrack-personal-timetracking-widget](https://github.com/JetBrains/youtrack-personal-timetracking-widget) pushed_at:2020-11 star:0.0k fork:0.0k Hub dashboard widget to display daily and cumulative totals for spent time that you have added to issues in YouTrack
@@ -431,7 +431,7 @@
 - [JetBrains/ap-validation](https://github.com/JetBrains/ap-validation) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [JetBrains/aws-toolkit-jetbrains](https://github.com/JetBrains/aws-toolkit-jetbrains) pushed_at:2021-06 star:0.0k fork:0.0k AWS Toolkit for JetBrains - a plugin for interacting with AWS from JetBrains IDEs
 - [JetBrains/bunches](https://github.com/JetBrains/bunches) pushed_at:2020-09 star:0.0k fork:0.0k Set of utils for supporting patchsets branches
-- [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) pushed_at:2021-07 star:4.8k fork:0.2k Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
+- [JetBrains/compose-jb](https://github.com/JetBrains/compose-jb) pushed_at:2021-07 star:4.9k fork:0.3k Jetpack Compose for Desktop and Web, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.
 - [JetBrains/dl-this](https://github.com/JetBrains/dl-this) pushed_at:2020-08 star:0.0k fork:0.0k A plugin for JetBrains IDEs to download files
 - [JetBrains/dotnet-project-model](https://github.com/JetBrains/dotnet-project-model) pushed_at:2019-08 star:0.0k fork:0.0k .NET project model parser
 - [JetBrains/educational-plugin](https://github.com/JetBrains/educational-plugin) pushed_at:2021-07 star:0.1k fork:0.0k Educational plugin to learn and teach programming languages such as Kotlin, Java, Python, JavaScript, and others right inside of JetBrains IntelliJ Platform based IDEs.
@@ -441,15 +441,15 @@
 - [JetBrains/exposed-intellij-plugin](https://github.com/JetBrains/exposed-intellij-plugin) pushed_at:2021-06 star:0.0k fork:0.0k Exposed Kotlin ORM framework gradle and intellij plugins
 - [JetBrains/EzArgs](https://github.com/JetBrains/EzArgs) pushed_at:2021-04 star:0.0k fork:0.0k Plugin for Rider for Unreal Engine to pass arguments to C++ run configurations in convenient matter
 - [JetBrains/godot-support](https://github.com/JetBrains/godot-support) pushed_at:2021-05 star:0.1k fork:0.0k 
-- [JetBrains/gradle-changelog-plugin](https://github.com/JetBrains/gradle-changelog-plugin) pushed_at:2021-06 star:0.1k fork:0.0k Plugin for parsing and managing the Changelog in a "keep a changelog" style.
+- [JetBrains/gradle-changelog-plugin](https://github.com/JetBrains/gradle-changelog-plugin) pushed_at:2021-07 star:0.1k fork:0.0k Plugin for parsing and managing the Changelog in a "keep a changelog" style.
 - [JetBrains/gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin) pushed_at:2021-07 star:1.0k fork:0.2k Gradle plugin for building plugins for IntelliJ-based IDEs
-- [JetBrains/gradle-jps-compiler-plugin](https://github.com/JetBrains/gradle-jps-compiler-plugin) pushed_at:2021-05 star:0.0k fork:0.0k 
+- [JetBrains/gradle-jps-compiler-plugin](https://github.com/JetBrains/gradle-jps-compiler-plugin) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [JetBrains/hub-pub](https://github.com/JetBrains/hub-pub) pushed_at:2019-01 star:0.0k fork:0.0k 
 - [JetBrains/idea-gitignore](https://github.com/JetBrains/idea-gitignore) pushed_at:2021-07 star:1.2k fork:0.2k .ignore support plugin for IntelliJ IDEA
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) pushed_at:2021-07 star:5.8k fork:0.6k Vim emulation plugin for IDEs based on the IntelliJ Platform
 - [JetBrains/ideolog](https://github.com/JetBrains/ideolog) pushed_at:2021-06 star:0.2k fork:0.0k Interactive viewer for '.log' files.
 - [JetBrains/inspection-plugin](https://github.com/JetBrains/inspection-plugin) pushed_at:2021-04 star:0.2k fork:0.0k Gradle plugin to launch IDEA inspections
-- [JetBrains/intellij-arend](https://github.com/JetBrains/intellij-arend) pushed_at:2021-06 star:0.1k fork:0.0k Arend plugin for IntelliJ IDEA
+- [JetBrains/intellij-arend](https://github.com/JetBrains/intellij-arend) pushed_at:2021-07 star:0.1k fork:0.0k Arend plugin for IntelliJ IDEA
 - [JetBrains/intellij-feature-suggester](https://github.com/JetBrains/intellij-feature-suggester) pushed_at:2021-07 star:0.0k fork:0.0k IDEA Feature Suggester is an IntelliJ Platform plugin that analyzes your actions while coding and suggests IDE actions to make you work more efficiently.
 - [JetBrains/intellij-kotlin](https://github.com/JetBrains/intellij-kotlin) pushed_at:2021-07 star:0.1k fork:0.0k IntelliJ IDEA plugin for the Kotlin programming language
 - [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) pushed_at:2021-07 star:0.9k fork:0.1k Template repository for creating plugins for IntelliJ Platform
@@ -469,16 +469,16 @@
 - [JetBrains/kotlin-netbeans](https://github.com/JetBrains/kotlin-netbeans) pushed_at:2021-04 star:0.1k fork:0.0k Kotlin Plugin for NetBeans https://kotlinlang.org
 - [JetBrains/kotlin-spark-api](https://github.com/JetBrains/kotlin-spark-api) pushed_at:2021-06 star:0.2k fork:0.0k This projects gives Kotlin bindings and several extensions for Apache Spark. We are looking to have this as a part of Apache Spark 3.x
 - [JetBrains/kotlin-web-demo](https://github.com/JetBrains/kotlin-web-demo) pushed_at:2021-05 star:0.2k fork:0.1k Online mini-IDE for Kotlin
-- [JetBrains/kotlin-wrappers](https://github.com/JetBrains/kotlin-wrappers) pushed_at:2021-06 star:0.8k fork:0.1k Kotlin wrappers for popular JavaScript libraries
+- [JetBrains/kotlin-wrappers](https://github.com/JetBrains/kotlin-wrappers) pushed_at:2021-07 star:0.8k fork:0.1k Kotlin wrappers for popular JavaScript libraries
 - [JetBrains/kotlinconf-app](https://github.com/JetBrains/kotlinconf-app) pushed_at:2019-12 star:2.6k fork:0.3k KotlinConf Schedule Application
-- [JetBrains/KotlinDL](https://github.com/JetBrains/KotlinDL) pushed_at:2021-06 star:0.5k fork:0.0k High-level Deep Learning Framework written in Kotlin and inspired by Keras
+- [JetBrains/KotlinDL](https://github.com/JetBrains/KotlinDL) pushed_at:2021-07 star:0.5k fork:0.0k High-level Deep Learning Framework written in Kotlin and inspired by Keras
 - [JetBrains/KotlinFinder](https://github.com/JetBrains/KotlinFinder) pushed_at:2019-12 star:0.0k fork:0.0k Kotlin Locator MPP application
 - [JetBrains/KotlinMultiplatformPlayground](https://github.com/JetBrains/KotlinMultiplatformPlayground) pushed_at:2019-06 star:0.1k fork:0.0k KotlinMultiplatformPlayground
 - [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) pushed_at:2021-07 star:0.6k fork:0.0k An open-source plotting library for statistical data.
 - [JetBrains/lets-plot-kotlin](https://github.com/JetBrains/lets-plot-kotlin) pushed_at:2021-06 star:0.2k fork:0.0k Kotlin API for Lets-Plot - an open-source plotting library for statistical data.
 - [JetBrains/markdown](https://github.com/JetBrains/markdown) pushed_at:2021-06 star:0.3k fork:0.0k Markdown parser written in kotlin
 - [JetBrains/marketplace-zip-signer](https://github.com/JetBrains/marketplace-zip-signer) pushed_at:2021-06 star:0.0k fork:0.0k Marketplace ZIP Signer tool handles signing and verification of the JetBrains plugins.
-- [JetBrains/mps-coderules](https://github.com/JetBrains/mps-coderules) pushed_at:2021-06 star:0.0k fork:0.0k Type checking and logical inference for JetBrains MPS
+- [JetBrains/mps-coderules](https://github.com/JetBrains/mps-coderules) pushed_at:2021-07 star:0.0k fork:0.0k Type checking and logical inference for JetBrains MPS
 - [JetBrains/MPS-extensions](https://github.com/JetBrains/MPS-extensions) pushed_at:2021-07 star:0.1k fork:0.0k 
 - [JetBrains/noria-kt](https://github.com/JetBrains/noria-kt) pushed_at:2018-01 star:0.0k fork:0.0k Abstract Reconciliation for Kotlin
 - [JetBrains/p2p-games](https://github.com/JetBrains/p2p-games) pushed_at:2017-09 star:0.0k fork:0.0k 
@@ -486,20 +486,20 @@
 - [JetBrains/plugin-repository-rest-client](https://github.com/JetBrains/plugin-repository-rest-client) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [JetBrains/projector-client](https://github.com/JetBrains/projector-client) pushed_at:2021-07 star:0.5k fork:0.0k Common and client-related code for running Swing applications remotely
 - [JetBrains/projector-demo](https://github.com/JetBrains/projector-demo) pushed_at:2020-06 star:0.0k fork:0.0k A simple sample application demonstrating running Swing applications remotely
-- [JetBrains/projector-server](https://github.com/JetBrains/projector-server) pushed_at:2021-06 star:0.8k fork:0.0k Server-side library for running Swing applications remotely
+- [JetBrains/projector-server](https://github.com/JetBrains/projector-server) pushed_at:2021-07 star:0.8k fork:0.0k Server-side library for running Swing applications remotely
 - [JetBrains/qodana-examples](https://github.com/JetBrains/qodana-examples) pushed_at:2021-01 star:0.0k fork:0.0k 
-- [JetBrains/qodana-gradle-plugin](https://github.com/JetBrains/qodana-gradle-plugin) pushed_at:2021-06 star:0.0k fork:0.0k Qodana Gradle plugin allows to run and configure Idea inspections for Gradle project
+- [JetBrains/qodana-gradle-plugin](https://github.com/JetBrains/qodana-gradle-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Qodana Gradle plugin allows to run and configure Idea inspections for Gradle project
 - [JetBrains/Rplugin](https://github.com/JetBrains/Rplugin) pushed_at:2021-07 star:0.0k fork:0.0k R Language support for IntelliJ-based IDEs
 - [JetBrains/rsynk](https://github.com/JetBrains/rsynk) pushed_at:2019-05 star:0.0k fork:0.0k rsync ssh server for JVM in Kotlin
 - [JetBrains/ruby-type-inference](https://github.com/JetBrains/ruby-type-inference) pushed_at:2020-01 star:0.1k fork:0.0k Dynamic definitions and types provider for ruby static analysis
-- [JetBrains/skiko](https://github.com/JetBrains/skiko) pushed_at:2021-06 star:0.4k fork:0.0k Kotlin MPP bindings to Skia
+- [JetBrains/skiko](https://github.com/JetBrains/skiko) pushed_at:2021-07 star:0.4k fork:0.0k Kotlin MPP bindings to Skia
 - [JetBrains/space-app-tutorials](https://github.com/JetBrains/space-app-tutorials) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [JetBrains/space-issues-import](https://github.com/JetBrains/space-issues-import) pushed_at:2021-06 star:0.0k fork:0.0k Import issues into JetBrains Space 🚀
 - [JetBrains/space-kotlin-sdk](https://github.com/JetBrains/space-kotlin-sdk) pushed_at:2021-06 star:0.0k fork:0.0k Kotlin client for JetBrains Space HTTP API
-- [JetBrains/swot](https://github.com/JetBrains/swot) pushed_at:2021-07 star:1.0k fork:10.3k Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+- [JetBrains/swot](https://github.com/JetBrains/swot) pushed_at:2021-07 star:1.0k fork:10.4k Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 - [JetBrains/teamcity-amazon-ecs-plugin](https://github.com/JetBrains/teamcity-amazon-ecs-plugin) pushed_at:2021-01 star:0.0k fork:0.0k TeamCity plugin which allows to run build agents on top of AWS ECS cluster.
 - [JetBrains/teamcity-azure-active-directory](https://github.com/JetBrains/teamcity-azure-active-directory) pushed_at:2021-03 star:0.0k fork:0.0k TeamCity plugin which supports authentication via Microsoft Azure Active Directory
-- [JetBrains/teamcity-azure-agent](https://github.com/JetBrains/teamcity-azure-agent) pushed_at:2021-05 star:0.0k fork:0.0k TeamCity support for Azure cloud build agents
+- [JetBrains/teamcity-azure-agent](https://github.com/JetBrains/teamcity-azure-agent) pushed_at:2021-07 star:0.0k fork:0.0k TeamCity support for Azure cloud build agents
 - [JetBrains/teamcity-azure-storage](https://github.com/JetBrains/teamcity-azure-storage) pushed_at:2021-05 star:0.0k fork:0.0k TeamCity Azure artifacts storage support plugin
 - [JetBrains/teamcity-bazel-plugin](https://github.com/JetBrains/teamcity-bazel-plugin) pushed_at:2021-03 star:0.0k fork:0.0k TeamCity plugin for Bazel build system
 - [JetBrains/teamcity-caches-cleanup-plugin](https://github.com/JetBrains/teamcity-caches-cleanup-plugin) pushed_at:2021-01 star:0.0k fork:0.0k Clean up Maven and Gradle caches to free TeamCity Agent disk space
@@ -508,17 +508,17 @@
 - [JetBrains/teamcity-dsl-params-pipeline-example](https://github.com/JetBrains/teamcity-dsl-params-pipeline-example) pushed_at:2019-12 star:0.0k fork:0.0k An example of parameterised TeamCity DSL for a simple build chain
 - [JetBrains/teamcity-google-agent](https://github.com/JetBrains/teamcity-google-agent) pushed_at:2021-05 star:0.0k fork:0.0k TeamCity support for Google cloud build agents
 - [JetBrains/teamcity-google-storage](https://github.com/JetBrains/teamcity-google-storage) pushed_at:2021-01 star:0.0k fork:0.0k TeamCity Google artifacts storage support plugin
-- [JetBrains/teamcity-kotlin-script-runner](https://github.com/JetBrains/teamcity-kotlin-script-runner) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [JetBrains/teamcity-kotlin-script-runner](https://github.com/JetBrains/teamcity-kotlin-script-runner) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-kotlin-trigger](https://github.com/JetBrains/teamcity-kotlin-trigger) pushed_at:2021-02 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-pipelines-dsl](https://github.com/JetBrains/teamcity-pipelines-dsl) pushed_at:2020-10 star:0.0k fork:0.0k Experimental Kotlin DSL library for TeamCity pipelines
 - [JetBrains/teamcity-plugin-pipelines-dsl](https://github.com/JetBrains/teamcity-plugin-pipelines-dsl) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-rest-auto-kotlin-client](https://github.com/JetBrains/teamcity-rest-auto-kotlin-client) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-rest-client](https://github.com/JetBrains/teamcity-rest-client) pushed_at:2021-06 star:0.1k fork:0.0k Client for TeamCity REST API written in Kotlin
-- [JetBrains/teamcity-rust-plugin](https://github.com/JetBrains/teamcity-rust-plugin) pushed_at:2021-02 star:0.0k fork:0.0k TeamCity Rust and Cargo plugin
+- [JetBrains/teamcity-rust-plugin](https://github.com/JetBrains/teamcity-rust-plugin) pushed_at:2021-07 star:0.0k fork:0.0k TeamCity Rust and Cargo plugin
 - [JetBrains/teamcity-sccache-plugin](https://github.com/JetBrains/teamcity-sccache-plugin) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-sdk-maven-plugin](https://github.com/JetBrains/teamcity-sdk-maven-plugin) pushed_at:2021-06 star:0.0k fork:0.0k TeamCity SDK for Maven
 - [JetBrains/teamcity-search-ql](https://github.com/JetBrains/teamcity-search-ql) pushed_at:2021-03 star:0.0k fork:0.0k 
-- [JetBrains/teamcity-slack-notifier](https://github.com/JetBrains/teamcity-slack-notifier) pushed_at:2021-05 star:0.0k fork:0.0k TeamCity Slack Notifier plugin
+- [JetBrains/teamcity-slack-notifier](https://github.com/JetBrains/teamcity-slack-notifier) pushed_at:2021-07 star:0.0k fork:0.0k TeamCity Slack Notifier plugin
 - [JetBrains/teamcity-test-metadata-demo](https://github.com/JetBrains/teamcity-test-metadata-demo) pushed_at:2020-03 star:0.0k fork:0.0k A sample project which shows how to report test metadata/attachments to TeamCity 2018.2+
 - [JetBrains/teamcity-unity-plugin](https://github.com/JetBrains/teamcity-unity-plugin) pushed_at:2021-07 star:0.0k fork:0.0k TeamCity plugin supports building Unity projects
 - [JetBrains/TeamCity.SESPlugin](https://github.com/JetBrains/TeamCity.SESPlugin) pushed_at:2021-01 star:0.0k fork:0.0k Amazon SES integration for TeamCity
@@ -534,10 +534,6 @@
 ## Nix
 
 - [JetBrains/nixpkgs](https://github.com/JetBrains/nixpkgs) pushed_at:2019-01 star:0.0k fork:0.0k Nix Packages collection
-
-## Objective-C++
-
-- [JetBrains/JWM](https://github.com/JetBrains/JWM) pushed_at:2021-07 star:0.1k fork:0.0k Cross-platform window management and OS integration library for Java
 
 ## Others
 
@@ -557,7 +553,7 @@
 - [JetBrains/JavaScript-timeline](https://github.com/JetBrains/JavaScript-timeline) pushed_at:2020-12 star:0.0k fork:0.0k Notable events of JavaScript history
 - [JetBrains/jetbrains-books-demos](https://github.com/JetBrains/jetbrains-books-demos) pushed_at:2017-09 star:0.0k fork:0.0k Public repository containing demo examples corresponding to JetBrains Books
 - [JetBrains/jitsi-meet](https://github.com/JetBrains/jitsi-meet) pushed_at:2021-03 star:0.0k fork:0.0k Jitsi Meet - Secure, Simple and Scalable Video Conferences that you use as a standalone app or embed in your web application.
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) pushed_at:2021-07 star:37.9k fork:4.6k The Kotlin Programming Language. 
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) pushed_at:2021-07 star:38.0k fork:4.6k The Kotlin Programming Language. 
 - [JetBrains/kotlin-dokka-stdlib](https://github.com/JetBrains/kotlin-dokka-stdlib) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [JetBrains/kotlin-fiddle](https://github.com/JetBrains/kotlin-fiddle) pushed_at:2017-09 star:0.0k fork:0.0k Kotlin Fiddle Site
 - [JetBrains/kotlin-grammar-generator](https://github.com/JetBrains/kotlin-grammar-generator) pushed_at:2019-02 star:0.0k fork:0.0k 
@@ -565,7 +561,7 @@
 - [JetBrains/Kotlin.TeamCity](https://github.com/JetBrains/Kotlin.TeamCity) pushed_at:2019-12 star:0.0k fork:0.0k Ant script to setup Kotlin build on TeamCity
 - [JetBrains/mps-maven-deployer](https://github.com/JetBrains/mps-maven-deployer) pushed_at:2019-12 star:0.0k fork:0.0k 
 - [JetBrains/netty-socketio](https://github.com/JetBrains/netty-socketio) pushed_at:2019-07 star:0.0k fork:0.0k Socket.IO server implemented on Java. Realtime java framework
-- [JetBrains/NuGet.Client](https://github.com/JetBrains/NuGet.Client) pushed_at:2021-05 star:0.0k fork:0.0k Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)
+- [JetBrains/NuGet.Client](https://github.com/JetBrains/NuGet.Client) pushed_at:2021-07 star:0.0k fork:0.0k Client Tools for NuGet - including Visual Studio extensions, command line tools, and msbuild support. (Open issues on https://github.com/nuget/home/issues)
 - [JetBrains/performance-comparisons](https://github.com/JetBrains/performance-comparisons) pushed_at:2019-07 star:0.0k fork:0.0k A set of synthetic projects used to benchmark Gradle against other build tools
 - [JetBrains/php-timeline](https://github.com/JetBrains/php-timeline) pushed_at:2021-06 star:0.2k fork:0.0k Notable events of PHP history
 - [JetBrains/Qodana](https://github.com/JetBrains/Qodana) pushed_at:2021-07 star:0.3k fork:0.0k Source repository of Qodana Help
@@ -582,7 +578,7 @@
 - [JetBrains/teamcity-documentation](https://github.com/JetBrains/teamcity-documentation) pushed_at:2021-07 star:0.0k fork:0.1k Source repository of TeamCity Help
 - [JetBrains/teamcity-minimal-dockerfile](https://github.com/JetBrains/teamcity-minimal-dockerfile) pushed_at:2016-10 star:0.0k fork:0.0k 
 - [JetBrains/teamcity-roadmap](https://github.com/JetBrains/teamcity-roadmap) pushed_at:2020-09 star:0.0k fork:0.0k 
-- [JetBrains/teamcity-sdk-docs](https://github.com/JetBrains/teamcity-sdk-docs) pushed_at:2021-06 star:0.0k fork:0.0k TeamCity SDK Documentation 
+- [JetBrains/teamcity-sdk-docs](https://github.com/JetBrains/teamcity-sdk-docs) pushed_at:2021-07 star:0.0k fork:0.0k TeamCity SDK Documentation 
 - [JetBrains/TeamCity.PluginTemplate](https://github.com/JetBrains/TeamCity.PluginTemplate) pushed_at:2019-12 star:0.0k fork:0.0k Template intellij IDEA project for creating plugins for TeamCity
 - [JetBrains/Unity3dRider](https://github.com/JetBrains/Unity3dRider) pushed_at:2018-06 star:0.4k fork:0.0k Unity JetBrains Rider integration
 - [JetBrains/upsource-psi-agent-with-tools-docker](https://github.com/JetBrains/upsource-psi-agent-with-tools-docker) pushed_at:2017-12 star:0.0k fork:0.0k 
@@ -613,12 +609,12 @@
 - [JetBrains/colorSchemeTool](https://github.com/JetBrains/colorSchemeTool) pushed_at:2020-04 star:0.3k fork:0.1k 
 - [JetBrains/hunspell-dictionaries](https://github.com/JetBrains/hunspell-dictionaries) pushed_at:2018-02 star:0.0k fork:0.0k 
 - [JetBrains/nlc2cmd](https://github.com/JetBrains/nlc2cmd) pushed_at:2020-12 star:0.0k fork:0.0k 
-- [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) pushed_at:2021-06 star:0.4k fork:0.0k Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
+- [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) pushed_at:2021-07 star:0.4k fork:0.0k Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
 - [JetBrains/python-skeletons](https://github.com/JetBrains/python-skeletons) pushed_at:2019-12 star:0.1k fork:0.1k The python-skeltons repo is deprecated: use PEP 484 and Typeshed instead
 - [JetBrains/qodana-clone-finder-action](https://github.com/JetBrains/qodana-clone-finder-action) pushed_at:2021-05 star:0.0k fork:0.0k Qodana Clone Finder is aimed to prevent problems rather than face them and, supporting integration into CI pipelines, allows to make finding clones a routine check and detect borrowed code as early as possible.
 - [JetBrains/rider-theme-pack](https://github.com/JetBrains/rider-theme-pack) pushed_at:2021-06 star:0.0k fork:0.0k JetBrains Rider theme pack.
 - [JetBrains/skia-build](https://github.com/JetBrains/skia-build) pushed_at:2021-06 star:0.0k fork:0.0k 
-- [JetBrains/skia-pack](https://github.com/JetBrains/skia-pack) pushed_at:2021-06 star:0.0k fork:0.0k Packing Skia builds 
+- [JetBrains/skia-pack](https://github.com/JetBrains/skia-pack) pushed_at:2021-07 star:0.0k fork:0.0k Packing Skia builds 
 - [JetBrains/teamcity-messages](https://github.com/JetBrains/teamcity-messages) pushed_at:2021-06 star:0.1k fork:0.1k Python Unit Test Reporting to TeamCity
 - [JetBrains/typeshed](https://github.com/JetBrains/typeshed) pushed_at:2021-05 star:0.0k fork:0.0k Collection of library stubs for Python, with static types
 - [JetBrains/youtrack-python-scripts](https://github.com/JetBrains/youtrack-python-scripts) pushed_at:2021-06 star:0.0k fork:0.0k YouTrack import and utility scripts
@@ -671,9 +667,9 @@
 ## Shell
 
 - [JetBrains/clion-wsl](https://github.com/JetBrains/clion-wsl) pushed_at:2021-05 star:0.1k fork:0.1k 
-- [JetBrains/datalore-configs](https://github.com/JetBrains/datalore-configs) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [JetBrains/datalore-configs](https://github.com/JetBrains/datalore-configs) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [JetBrains/jdk8u](https://github.com/JetBrains/jdk8u) pushed_at:2020-10 star:0.1k fork:0.0k 
-- [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) pushed_at:2021-06 star:5.5k fork:0.1k JetBrains Mono – the free and open-source typeface for developers
+- [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) pushed_at:2021-06 star:5.6k fork:0.1k JetBrains Mono – the free and open-source typeface for developers
 - [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) pushed_at:2021-07 star:1.5k fork:0.1k Run JetBrains IDEs remotely with Docker
 - [JetBrains/teamcity-docker-samples](https://github.com/JetBrains/teamcity-docker-samples) pushed_at:2021-05 star:0.1k fork:0.0k TeamCity docker compose samples
 - [JetBrains/teamcity-test-data](https://github.com/JetBrains/teamcity-test-data) pushed_at:2019-11 star:0.0k fork:0.0k A data repository with a sample configurations which may be required for various kind of testing and development.

@@ -44,7 +44,7 @@
 - [twitter/torch-ipc](https://github.com/twitter/torch-ipc) pushed_at:2017-06 star:0.1k fork:0.0k A set of primitives for parallel computation in Torch
 - [twitter/torch-thrift](https://github.com/twitter/torch-thrift) pushed_at:2016-03 star:0.0k fork:0.0k A Thrift codec for Torch
 - [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2019-08 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-07 star:10.7k fork:1.9k A fast, light-weight proxy for memcached and redis
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-07 star:10.8k fork:1.9k A fast, light-weight proxy for memcached and redis
 
 ## C#
 
@@ -71,7 +71,7 @@
 
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) pushed_at:2019-06 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-05 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-06 star:12.9k fork:1.5k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-07 star:12.9k fork:1.5k Emoji for everyone. https://twemoji.twitter.com/
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2021-06 star:2.5k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 
 ## Java
@@ -125,7 +125,7 @@
 - [twitter/curation-style-guide](https://github.com/twitter/curation-style-guide) pushed_at:2019-06 star:0.0k fork:0.0k Document Repository for Twitter's Curation Style Guide
 - [twitter/gpl-commitment](https://github.com/twitter/gpl-commitment) pushed_at:2018-10 star:0.0k fork:0.0k Twitter's GPL Cooperation Commitment
 - [twitter/innovators-patent-agreement](https://github.com/twitter/innovators-patent-agreement) pushed_at:2016-06 star:0.9k fork:0.1k Innovators Patent Agreement (IPA)
-- [twitter/metrics](https://github.com/twitter/metrics) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [twitter/metrics](https://github.com/twitter/metrics) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [twitter/ossdecks](https://github.com/twitter/ossdecks) pushed_at:2019-04 star:0.0k fork:0.0k Repository for Twitter Open Source Decks
 - [twitter/second-control-probability-distributions](https://github.com/twitter/second-control-probability-distributions) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [twitter/sekhmet](https://github.com/twitter/sekhmet) pushed_at:2018-06 star:0.0k fork:0.0k foundational tools and building blocks for gaining insights and diagnosing system health in real-time
@@ -153,18 +153,18 @@
 
 - [twitter/activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) pushed_at:2016-01 star:1.3k fork:0.1k An Active Record Reputation System for Rails
 - [twitter/thrift_client](https://github.com/twitter/thrift_client) pushed_at:2019-06 star:0.2k fork:0.1k A Thrift client wrapper that encapsulates some common failover behavior
-- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) pushed_at:2021-06 star:0.6k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
+- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) pushed_at:2021-07 star:0.6k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 - [twitter/twurl](https://github.com/twitter/twurl) pushed_at:2021-04 star:1.6k fork:0.3k OAuth-enabled curl for the Twitter API
 
 ## Rust
 
-- [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2021-06 star:1.0k fork:0.1k Systems performance telemetry
+- [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2021-07 star:1.0k fork:0.1k Systems performance telemetry
 - [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2021-07 star:0.4k fork:0.1k A tool for benchmarking RPC services
 - [twitter/rustcommon](https://github.com/twitter/rustcommon) pushed_at:2021-06 star:0.2k fork:0.0k Common Twitter Rust lib
 
 ## SCSS
 
-- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-06 star:1.6k fork:0.6k A listing of open source efforts at Twitter on GitHub
+- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-07 star:1.6k fork:0.5k A listing of open source efforts at Twitter on GitHub
 
 ## Scala
 
@@ -184,14 +184,14 @@
 - [twitter/scala-json](https://github.com/twitter/scala-json) pushed_at:2019-12 star:0.0k fork:0.0k JSON in Scala (deprecated)
 - [twitter/scala_school2](https://github.com/twitter/scala_school2) pushed_at:2019-06 star:0.3k fork:0.1k Scala School 2
 - [twitter/scalding](https://github.com/twitter/scalding) pushed_at:2021-07 star:3.3k fork:0.7k A Scala API for Cascading
-- [twitter/scrooge](https://github.com/twitter/scrooge) pushed_at:2021-06 star:0.7k fork:0.2k A Thrift parser/generator
+- [twitter/scrooge](https://github.com/twitter/scrooge) pushed_at:2021-07 star:0.7k fork:0.2k A Thrift parser/generator
 - [twitter/storehaus](https://github.com/twitter/storehaus) pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) pushed_at:2020-11 star:2.1k fork:0.3k Streaming MapReduce with Scalding and Storm
 - [twitter/tormenta](https://github.com/twitter/tormenta) pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) pushed_at:2021-05 star:0.1k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) pushed_at:2021-05 star:0.8k fork:0.2k Korean tokenizer
-- [twitter/twitter-server](https://github.com/twitter/twitter-server) pushed_at:2021-06 star:1.2k fork:0.2k Twitter-Server defines a template from which services at Twitter are built
-- [twitter/util](https://github.com/twitter/util) pushed_at:2021-06 star:2.5k fork:0.5k Wonderful reusable code from Twitter
+- [twitter/twitter-server](https://github.com/twitter/twitter-server) pushed_at:2021-07 star:1.2k fork:0.2k Twitter-Server defines a template from which services at Twitter are built
+- [twitter/util](https://github.com/twitter/util) pushed_at:2021-07 star:2.5k fork:0.5k Wonderful reusable code from Twitter
 
 ## Shell
 
