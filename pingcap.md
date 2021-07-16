@@ -28,7 +28,7 @@
 ## C
 
 - [pingcap/mydumper](https://github.com/pingcap/mydumper) pushed_at:2021-06 star:0.0k fork:0.0k PingCAP fork of mydumper, with enhancements for TiDB
-- [pingcap/poco](https://github.com/pingcap/poco) pushed_at:2021-06 star:0.0k fork:0.0k POCO C++ Libraries - Cross-platform C++ libraries with a network/internet focus.
+- [pingcap/poco](https://github.com/pingcap/poco) pushed_at:2021-07 star:0.0k fork:0.0k POCO C++ Libraries - Cross-platform C++ libraries with a network/internet focus.
 - [pingcap/sqllogictest](https://github.com/pingcap/sqllogictest) pushed_at:2014-07 star:0.0k fork:0.0k git mirror of sqllogictest
 - [pingcap/tidb-bench](https://github.com/pingcap/tidb-bench) pushed_at:2020-04 star:0.1k fork:0.1k A Simple Benchmark For TiDB
 - [pingcap/tispark-test](https://github.com/pingcap/tispark-test) pushed_at:2020-11 star:0.0k fork:0.0k 
@@ -88,7 +88,7 @@
 - [pingcap/pkg](https://github.com/pingcap/pkg) pushed_at:2017-05 star:0.0k fork:0.0k 
 - [pingcap/sysutil](https://github.com/pingcap/sysutil) pushed_at:2021-03 star:0.0k fork:0.0k sysutil is a library which implementats the gRPC service Diagnostics and shares the diagnostics functions between TiDB and PD.
 - [pingcap/ticdc](https://github.com/pingcap/ticdc) pushed_at:2021-07 star:0.1k fork:0.1k Change data capture for TiDB
-- [pingcap/tidb](https://github.com/pingcap/tidb) pushed_at:2021-07 star:28.3k fork:4.5k TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
+- [pingcap/tidb](https://github.com/pingcap/tidb) pushed_at:2021-07 star:28.4k fork:4.5k TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
 - [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) pushed_at:2021-07 star:0.2k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
 - [pingcap/tidb-cloud-backup](https://github.com/pingcap/tidb-cloud-backup) pushed_at:2020-02 star:0.0k fork:0.0k 
 - [pingcap/tidb-ctl](https://github.com/pingcap/tidb-ctl) pushed_at:2020-12 star:0.0k fork:0.0k TiDB Controller
@@ -133,13 +133,13 @@
 
 ## Others
 
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2021-06 star:3.2k fork:0.4k A list of learning materials to understand databases internals
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2021-07 star:3.2k fork:0.4k A list of learning materials to understand databases internals
 - [pingcap/community](https://github.com/pingcap/community) pushed_at:2021-07 star:0.2k fork:0.1k TiDB community content
 - [pingcap/docs-internals](https://github.com/pingcap/docs-internals) pushed_at:2020-06 star:0.0k fork:0.0k 
 - [pingcap/education](https://github.com/pingcap/education) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [pingcap/logo](https://github.com/pingcap/logo) pushed_at:2018-09 star:0.0k fork:0.0k logo for PingCAP
 - [pingcap/meetup](https://github.com/pingcap/meetup) pushed_at:2020-08 star:0.0k fork:0.0k 
-- [pingcap/presentations](https://github.com/pingcap/presentations) pushed_at:2021-06 star:0.2k fork:0.0k 
+- [pingcap/presentations](https://github.com/pingcap/presentations) pushed_at:2021-07 star:0.2k fork:0.1k 
 - [pingcap/style-guide](https://github.com/pingcap/style-guide) pushed_at:2021-02 star:0.1k fork:0.0k Style guide for PingCAP and TiKV code
 - [pingcap/tidb-academy-labs](https://github.com/pingcap/tidb-academy-labs) pushed_at:2020-03 star:0.0k fork:0.0k 
 - [pingcap/tidb-common](https://github.com/pingcap/tidb-common) pushed_at:2016-03 star:0.0k fork:0.0k Common library used by both TiDB and coprocessor.
@@ -175,7 +175,7 @@
 - [pingcap/grpc-rust](https://github.com/pingcap/grpc-rust) pushed_at:2017-05 star:0.0k fork:0.0k Rust implementation of gRPC (not ready yet)
 - [pingcap/murmur3](https://github.com/pingcap/murmur3) pushed_at:2018-03 star:0.0k fork:0.0k A rust implementation of murmur3
 - [pingcap/rust-protobuf](https://github.com/pingcap/rust-protobuf) pushed_at:2021-05 star:0.0k fork:0.0k Rust implementation of Google protocol buffers
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) pushed_at:2021-06 star:6.3k fork:0.8k open source training courses about distributed database and distributed systemes
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) pushed_at:2021-07 star:6.3k fork:0.8k open source training courses about distributed database and distributed systemes
 - [pingcap/tidb-engine-ext](https://github.com/pingcap/tidb-engine-ext) pushed_at:2021-07 star:0.0k fork:0.0k A TiKV based `c dynamic library` for extending storage system in TiDB cluster
 
 ## Shell

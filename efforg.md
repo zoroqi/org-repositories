@@ -60,7 +60,7 @@
 ## HTML
 
 - [EFForg/hugo-book](https://github.com/EFForg/hugo-book) pushed_at:2020-08 star:0.0k fork:0.0k Hugo documentation theme as simple as plain book
-- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) pushed_at:2021-02 star:0.0k fork:0.0k Test fixtures for Privacy Badger
+- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) pushed_at:2021-07 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/privacybadger-test-fixtures-alt](https://github.com/EFForg/privacybadger-test-fixtures-alt) pushed_at:2020-05 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/sas](https://github.com/EFForg/sas) pushed_at:2017-05 star:0.0k fork:0.0k Stand Against Spying
 - [EFForg/stopwatchingus](https://github.com/EFForg/stopwatchingus) pushed_at:2016-02 star:0.0k fork:0.0k StopWatching.us Site
@@ -85,7 +85,7 @@
 - [EFForg/ngw-website](https://github.com/EFForg/ngw-website) pushed_at:2017-01 star:0.0k fork:0.0k 
 - [EFForg/node-wethepeople](https://github.com/EFForg/node-wethepeople) pushed_at:2015-09 star:0.0k fork:0.0k Node wrapper for the We the People API
 - [EFForg/OpenWireless](https://github.com/EFForg/OpenWireless) pushed_at:2016-12 star:0.7k fork:0.1k The official home of the EFF OpenWireless Project
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) pushed_at:2021-07 star:2.2k fork:0.3k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) pushed_at:2021-07 star:2.2k fork:0.4k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [EFForg/privacybadgerfirefox-legacy](https://github.com/EFForg/privacybadgerfirefox-legacy) pushed_at:2016-12 star:0.4k fork:0.1k LEGACY Privacy Badger for Firefox SEE README
 - [EFForg/psi-tumblr-crawler](https://github.com/EFForg/psi-tumblr-crawler) pushed_at:2015-08 star:0.0k fork:0.0k 
 - [EFForg/pushserver](https://github.com/EFForg/pushserver) pushed_at:2018-03 star:0.0k fork:0.0k A server for sending push notifications to mobile apps
@@ -145,9 +145,9 @@
 - [EFForg/congress_forms_api](https://github.com/EFForg/congress_forms_api) pushed_at:2020-04 star:0.0k fork:0.0k 
 - [EFForg/dear_fcc](https://github.com/EFForg/dear_fcc) pushed_at:2018-08 star:0.0k fork:0.0k Dear FCC
 - [EFForg/eff_diceware](https://github.com/EFForg/eff_diceware) pushed_at:2018-04 star:0.0k fork:0.0k A ruby gem for creating secure passphrases using EFF's long wordlist.
-- [EFForg/eff_fab](https://github.com/EFForg/eff_fab) pushed_at:2021-05 star:0.0k fork:0.0k 
+- [EFForg/eff_fab](https://github.com/EFForg/eff_fab) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [EFForg/eff_matomo](https://github.com/EFForg/eff_matomo) pushed_at:2019-06 star:0.0k fork:0.0k Matomo API in Ruby
-- [EFForg/onlinecensorship](https://github.com/EFForg/onlinecensorship) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [EFForg/onlinecensorship](https://github.com/EFForg/onlinecensorship) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [EFForg/rails_response_headers](https://github.com/EFForg/rails_response_headers) pushed_at:2021-02 star:0.0k fork:0.0k Configure ActionController response headers with YAML.
 - [EFForg/ROSCO](https://github.com/EFForg/ROSCO) pushed_at:2019-10 star:0.0k fork:0.0k ROSCO is an interactive, ruby-based CLI interface for querying against an instance of Snipe-IT
 - [EFForg/ruby-civicrm](https://github.com/EFForg/ruby-civicrm) pushed_at:2021-07 star:0.0k fork:0.0k Ruby client for CiviCRM REST interface
