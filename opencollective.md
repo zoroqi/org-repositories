@@ -372,7 +372,7 @@
 - [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
 - [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) pushed_at:2021-06 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
 - [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) pushed_at:2018-07 star:0.1k fork:0.0k OpenCollective frontend
-- [opencollective/opencollective-workers](https://github.com/opencollective/opencollective-workers) pushed_at:2021-03 star:0.0k fork:0.0k Cloudflare workers at the frontline of Open Collective.
+- [opencollective/opencollective-workers](https://github.com/opencollective/opencollective-workers) pushed_at:2021-07 star:0.0k fork:0.0k Cloudflare workers at the frontline of Open Collective.
 - [opencollective/opencollective-zapier](https://github.com/opencollective/opencollective-zapier) pushed_at:2021-02 star:0.0k fork:0.0k ⚠️ DEPRECATED ⚠️ Open Collective legacy Zapier integration
 - [opencollective/OpenJSCAD.org](https://github.com/opencollective/OpenJSCAD.org) pushed_at:2017-09 star:0.0k fork:0.0k OpenSCAD + JavaScript = OpenJSCAD, edit locally or remote online, preview in browser direct via WebGL.
 - [opencollective/opus](https://github.com/opencollective/opus) pushed_at:2019-07 star:0.0k fork:0.0k Open source knowledge base application for Teams

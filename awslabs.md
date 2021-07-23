@@ -16,7 +16,7 @@
 - [HCL](#hcl) (3)
 - [HTML](#html) (6)
 - [Haskell](#haskell) (1)
-- [Java](#java) (75)
+- [Java](#java) (76)
 - [JavaScript](#javascript) (76)
 - [Jupyter Notebook](#jupyter-notebook) (22)
 - [Kotlin](#kotlin) (3)
@@ -27,7 +27,7 @@
 - [Others](#others) (23)
 - [PHP](#php) (4)
 - [PowerShell](#powershell) (10)
-- [Python](#python) (196)
+- [Python](#python) (195)
 - [Ruby](#ruby) (15)
 - [Rust](#rust) (10)
 - [Scala](#scala) (3)
@@ -40,15 +40,15 @@
 ## C
 
 - [awslabs/amazon-kinesis-video-streams-producer-c](https://github.com/awslabs/amazon-kinesis-video-streams-producer-c) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [awslabs/amazon-kinesis-video-streams-webrtc-sdk-c](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c) pushed_at:2021-07 star:0.6k fork:0.1k Amazon Kinesis Video Streams Webrtc SDK is for developers to install and customize realtime communication between devices and enable secure streaming of video, audio to Kinesis Video Streams.
+- [awslabs/amazon-kinesis-video-streams-webrtc-sdk-c](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-c) pushed_at:2021-07 star:0.6k fork:0.2k Amazon Kinesis Video Streams Webrtc SDK is for developers to install and customize realtime communication between devices and enable secure streaming of video, audio to Kinesis Video Streams.
 - [awslabs/aws-c-auth](https://github.com/awslabs/aws-c-auth) pushed_at:2021-06 star:0.0k fork:0.0k C99 library implementation of AWS client-side authentication: standard credentials providers and signing.
-- [awslabs/aws-c-cal](https://github.com/awslabs/aws-c-cal) pushed_at:2021-06 star:0.0k fork:0.0k Aws Crypto Abstraction Layer: Cross-Platform, C99 wrapper for cryptography primitives.
+- [awslabs/aws-c-cal](https://github.com/awslabs/aws-c-cal) pushed_at:2021-07 star:0.0k fork:0.0k Aws Crypto Abstraction Layer: Cross-Platform, C99 wrapper for cryptography primitives.
 - [awslabs/aws-c-common](https://github.com/awslabs/aws-c-common) pushed_at:2021-07 star:0.2k fork:0.1k Core c99 package for AWS SDK for C. Includes cross-platform primitives, configuration, data structures, and error handling.
 - [awslabs/aws-c-compression](https://github.com/awslabs/aws-c-compression) pushed_at:2021-07 star:0.0k fork:0.0k C99 implementation of huffman encoding/decoding
 - [awslabs/aws-c-event-stream](https://github.com/awslabs/aws-c-event-stream) pushed_at:2021-04 star:0.0k fork:0.0k C99 implementation of the vnd.amazon.eventstream content-type.
 - [awslabs/aws-c-http](https://github.com/awslabs/aws-c-http) pushed_at:2021-07 star:0.1k fork:0.0k C99 implementation of the HTTP/1.1 and HTTP/2 specifications
 - [awslabs/aws-c-io](https://github.com/awslabs/aws-c-io) pushed_at:2021-07 star:0.1k fork:0.0k This is a module for the AWS SDK for C. It handles all IO and TLS work for application protocols. 
-- [awslabs/aws-c-iot](https://github.com/awslabs/aws-c-iot) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [awslabs/aws-c-iot](https://github.com/awslabs/aws-c-iot) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [awslabs/aws-c-mqtt](https://github.com/awslabs/aws-c-mqtt) pushed_at:2021-06 star:0.1k fork:0.0k C99 implementation of the MQTT 3.1.1 specification.
 - [awslabs/aws-c-s3](https://github.com/awslabs/aws-c-s3) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [awslabs/aws-checksums](https://github.com/awslabs/aws-checksums) pushed_at:2021-06 star:0.0k fork:0.0k Cross-Platform HW accelerated CRC32c and CRC32 with fallback to efficient SW implementations. C interface with language bindings for each of our SDKs 
@@ -139,7 +139,7 @@
 - [awslabs/go-config-generator-for-fluentd-and-fluentbit](https://github.com/awslabs/go-config-generator-for-fluentd-and-fluentbit) pushed_at:2021-03 star:0.0k fork:0.0k A Go Library for programmatically generating Fluentd and Fluent Bit Configuration.
 - [awslabs/goformation](https://github.com/awslabs/goformation) pushed_at:2021-07 star:0.7k fork:0.2k GoFormation is a Go library for working with CloudFormation templates.
 - [awslabs/k8s-eniconfig-controller](https://github.com/awslabs/k8s-eniconfig-controller) pushed_at:2019-01 star:0.0k fork:0.0k The ENIConfig Controller will automatically annotate your Kubernetes nodes to allow them to use a secondary subnet for the pods.
-- [awslabs/karpenter](https://github.com/awslabs/karpenter) pushed_at:2021-07 star:0.6k fork:0.0k Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
+- [awslabs/karpenter](https://github.com/awslabs/karpenter) pushed_at:2021-07 star:0.6k fork:0.1k Kubernetes Node Autoscaling: built for flexibility, performance, and scalability.
 - [awslabs/kubernetes-iteration-toolkit](https://github.com/awslabs/kubernetes-iteration-toolkit) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [awslabs/oci-add-hooks](https://github.com/awslabs/oci-add-hooks) pushed_at:2020-12 star:0.0k fork:0.0k Add oci hooks to Docker
 - [awslabs/serverless-rules](https://github.com/awslabs/serverless-rules) pushed_at:2021-07 star:0.3k fork:0.0k Compilation of rules to validate infrastructure-as-code templates against recommended practices for serverless applications.
@@ -175,15 +175,15 @@
 - [awslabs/amazon-kinesis-aggregators](https://github.com/awslabs/amazon-kinesis-aggregators) pushed_at:2021-04 star:0.1k fork:0.0k Amazon Kinesis Aggregators provides a simple way to create real time aggregations of data on Amazon Kinesis.
 - [awslabs/amazon-kinesis-client](https://github.com/awslabs/amazon-kinesis-client) pushed_at:2021-07 star:0.6k fork:0.4k Client library for Amazon Kinesis
 - [awslabs/amazon-kinesis-connector-flink](https://github.com/awslabs/amazon-kinesis-connector-flink) pushed_at:2021-06 star:0.0k fork:0.0k This is a fork of the Apache Flink Kinesis connector adding Enhanced Fanout support for Flink 1.8/1.11 on KDA.
-- [awslabs/amazon-kinesis-scaling-utils](https://github.com/awslabs/amazon-kinesis-scaling-utils) pushed_at:2021-05 star:0.3k fork:0.1k The Kinesis Scaling Utility is designed to give you the ability to scale Amazon Kinesis Streams in the same way that you scale EC2 Auto Scaling groups – up or down by a count or as a percentage of the total fleet. You can also simply scale to an exact number of Shards. There is no requirement for you to manage the allocation of the keyspace to Shards when using this API, as it is done automatically.
-- [awslabs/amazon-kinesis-video-streams-producer-sdk-java](https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java) pushed_at:2021-04 star:0.1k fork:0.1k Allows developers to install and customize their connected camera and other devices to securely stream video, audio, and time-encoded data to Kinesis Video Streams
+- [awslabs/amazon-kinesis-scaling-utils](https://github.com/awslabs/amazon-kinesis-scaling-utils) pushed_at:2021-07 star:0.3k fork:0.1k The Kinesis Scaling Utility is designed to give you the ability to scale Amazon Kinesis Streams in the same way that you scale EC2 Auto Scaling groups – up or down by a count or as a percentage of the total fleet. You can also simply scale to an exact number of Shards. There is no requirement for you to manage the allocation of the keyspace to Shards when using this API, as it is done automatically.
+- [awslabs/amazon-kinesis-video-streams-producer-sdk-java](https://github.com/awslabs/amazon-kinesis-video-streams-producer-sdk-java) pushed_at:2021-07 star:0.1k fork:0.1k Allows developers to install and customize their connected camera and other devices to securely stream video, audio, and time-encoded data to Kinesis Video Streams
 - [awslabs/amazon-kinesis-video-streams-webrtc-sdk-android](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-android) pushed_at:2021-02 star:0.0k fork:0.0k Android SDK for interfacing with  Amazon Kinesis Video Streams Signaling Service.
 - [awslabs/amazon-neptune-tools](https://github.com/awslabs/amazon-neptune-tools) pushed_at:2021-07 star:0.2k fork:0.1k Tools and utilities to enable loading data and building graph applications with Amazon Neptune.
 - [awslabs/amazon-qldb-driver-java](https://github.com/awslabs/amazon-qldb-driver-java) pushed_at:2021-07 star:0.0k fork:0.0k A Java implementation of a driver for Amazon QLDB.
 - [awslabs/amazon-sns-java-extended-client-lib](https://github.com/awslabs/amazon-sns-java-extended-client-lib) pushed_at:2021-05 star:0.0k fork:0.0k This AWS SNS client library allows to publish messages to SNS that exceed the 256 KB message size limit.
 - [awslabs/amazon-sqs-java-extended-client-lib](https://github.com/awslabs/amazon-sqs-java-extended-client-lib) pushed_at:2021-06 star:0.1k fork:0.1k An extension to the Amazon SQS client that enables sending and receiving messages up to 2GB via Amazon S3. 
 - [awslabs/amazon-sqs-java-messaging-lib](https://github.com/awslabs/amazon-sqs-java-messaging-lib) pushed_at:2020-12 star:0.1k fork:0.1k This Amazon SQS Java Messaging Library holds the Java Message Service compatible classes, that are used for communicating with Amazon Simple Queue Service. 
-- [awslabs/amazon-sqs-java-temporary-queues-client](https://github.com/awslabs/amazon-sqs-java-temporary-queues-client) pushed_at:2021-02 star:0.1k fork:0.0k An Amazon SQS client that supports creating lightweight, automatically-deleted temporary queues, for use in common messaging patterns such as Request/Response. See http://aws.amazon.com/sqs.
+- [awslabs/amazon-sqs-java-temporary-queues-client](https://github.com/awslabs/amazon-sqs-java-temporary-queues-client) pushed_at:2021-07 star:0.1k fork:0.0k An Amazon SQS client that supports creating lightweight, automatically-deleted temporary queues, for use in common messaging patterns such as Request/Response. See http://aws.amazon.com/sqs.
 - [awslabs/amazon-timestream-driver-jdbc](https://github.com/awslabs/amazon-timestream-driver-jdbc) pushed_at:2021-02 star:0.0k fork:0.0k 
 - [awslabs/amazon-timestream-tools](https://github.com/awslabs/amazon-timestream-tools) pushed_at:2021-07 star:0.1k fork:0.1k 
 - [awslabs/analyzing-text-with-amazon-elasticsearch-service-and-amazon-comprehend](https://github.com/awslabs/analyzing-text-with-amazon-elasticsearch-service-and-amazon-comprehend) pushed_at:2021-04 star:0.0k fork:0.0k AWS solution: Analyzing Text with Amazon Elasticsearch Service and Amazon Comprehend
@@ -216,8 +216,8 @@
 - [awslabs/aws-postgresql-jdbc](https://github.com/awslabs/aws-postgresql-jdbc) pushed_at:2021-06 star:0.0k fork:0.0k The Amazon Web Services (AWS) JDBC Driver for PostgresSQL is a driver that enables applications to take full advantage of the features of clustered PostgreSQL databases.
 - [awslabs/aws-saas-boost](https://github.com/awslabs/aws-saas-boost) pushed_at:2021-07 star:0.6k fork:0.1k 
 - [awslabs/aws-sdk-android-samples](https://github.com/awslabs/aws-sdk-android-samples) pushed_at:2021-07 star:1.0k fork:1.0k This repository has samples that demonstrate various aspects of the AWS SDK for Android, you can get the SDK source on Github https://github.com/aws-amplify/aws-sdk-android/
-- [awslabs/aws-serverless-java-container](https://github.com/awslabs/aws-serverless-java-container) pushed_at:2021-06 star:1.1k fork:0.4k A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
-- [awslabs/aws-soter](https://github.com/awslabs/aws-soter) pushed_at:2021-02 star:0.0k fork:0.0k Model Checker for Java Programs
+- [awslabs/aws-serverless-java-container](https://github.com/awslabs/aws-serverless-java-container) pushed_at:2021-07 star:1.1k fork:0.4k A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda.
+- [awslabs/aws-soter](https://github.com/awslabs/aws-soter) pushed_at:2021-07 star:0.0k fork:0.0k Model Checker for Java Programs
 - [awslabs/aws-xray-sdk-with-opentelemetry](https://github.com/awslabs/aws-xray-sdk-with-opentelemetry) pushed_at:2020-03 star:0.0k fork:0.0k AWS X-Ray SDK with support for OpenTelemetry
 - [awslabs/data-classification-checker](https://github.com/awslabs/data-classification-checker) pushed_at:2020-04 star:0.0k fork:0.0k Type system to detect accidental logging and inappropriate use of critical data in Java applications.
 - [awslabs/disco](https://github.com/awslabs/disco) pushed_at:2021-04 star:0.0k fork:0.0k A suite of tools including a framework for creating Java Agents, for aspect-oriented tooling for distributed systems.
@@ -238,6 +238,7 @@
 - [awslabs/real-time-analytics-spark-streaming](https://github.com/awslabs/real-time-analytics-spark-streaming) pushed_at:2020-07 star:0.0k fork:0.0k A solution describing data-processing design pattern for streaming data through Kinesis and Spark Streaming at real-time.
 - [awslabs/results-iterator-for-aws-java-sdk](https://github.com/awslabs/results-iterator-for-aws-java-sdk) pushed_at:2021-07 star:0.0k fork:0.0k A library that handles iterating over results from the AWS Java SDK with minimal boilerplate
 - [awslabs/route53-infima](https://github.com/awslabs/route53-infima) pushed_at:2020-11 star:0.3k fork:0.0k Library for managing service-level fault isolation using Amazon Route 53.
+- [awslabs/schema-manager](https://github.com/awslabs/schema-manager) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [awslabs/smithy](https://github.com/awslabs/smithy) pushed_at:2021-07 star:0.7k fork:0.1k Smithy is a protocol-agnostic interface definition language and set of tools for generating clients, servers, and documentation for any programming language.
 - [awslabs/smithy-gradle-plugin](https://github.com/awslabs/smithy-gradle-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Smithy plugin for Gradle
 - [awslabs/smithy-intellij](https://github.com/awslabs/smithy-intellij) pushed_at:2021-05 star:0.0k fork:0.0k Smithy IntelliJ provides IDE integration for the Smithy IDL.
@@ -253,7 +254,7 @@
 - [awslabs/amazon-kinesis-data-generator](https://github.com/awslabs/amazon-kinesis-data-generator) pushed_at:2021-03 star:0.1k fork:0.1k A UI that simplifies testing with Amazon Kinesis Streams and Firehose. Create and save record templates, and easily send data to Amazon Kinesis.
 - [awslabs/amazon-personalize-optimizer-using-amazon-pinpoint-events](https://github.com/awslabs/amazon-personalize-optimizer-using-amazon-pinpoint-events) pushed_at:2020-06 star:0.0k fork:0.0k Enabling the automated process of using the events generated by their Pinpoint campaigns to rapidly train and optimize their Personalize campaigns.
 - [awslabs/amazon-pinpoint-preference-center](https://github.com/awslabs/amazon-pinpoint-preference-center) pushed_at:2021-01 star:0.0k fork:0.0k Configures and builds an Amazon Pinpoint Preference Center that allows Pinpoint Customers to collect end-user attributes and communication preferences.
-- [awslabs/amazon-quicksight-embedding-sdk](https://github.com/awslabs/amazon-quicksight-embedding-sdk) pushed_at:2021-05 star:0.1k fork:0.0k A SDK to help users embed QuickSight dashboards on other pages.
+- [awslabs/amazon-quicksight-embedding-sdk](https://github.com/awslabs/amazon-quicksight-embedding-sdk) pushed_at:2021-07 star:0.1k fork:0.0k A SDK to help users embed QuickSight dashboards on other pages.
 - [awslabs/amazon-s3-glacier-refreezer](https://github.com/awslabs/amazon-s3-glacier-refreezer) pushed_at:2021-06 star:0.0k fork:0.0k The Amazon S3 Glacier Re:Freezer is a serverless solution that automatically copies entire Amazon S3 Glacier vault archives to a defined destination Amazon Simple Storage Service (Amazon S3 bucket) and S3 storage class.
 - [awslabs/amplify-mobilehub-migrator](https://github.com/awslabs/amplify-mobilehub-migrator) pushed_at:2020-10 star:0.0k fork:0.0k A plugin to migrate existing AWS Mobile Hub projects to be used with the Amplify CLI
 - [awslabs/amplify-video](https://github.com/awslabs/amplify-video) pushed_at:2021-06 star:0.2k fork:0.0k An open source Category Plugin for the AWS Amplify-CLI that makes it easy to deploy live and file based streaming video services and integrate them into your Amplify applications.
@@ -289,7 +290,7 @@
 - [awslabs/cognito-at-edge](https://github.com/awslabs/cognito-at-edge) pushed_at:2021-06 star:0.0k fork:0.0k Serverless authentication solution to protect your website or Amplify application
 - [awslabs/cognito-user-profiles-export-reference-architecture](https://github.com/awslabs/cognito-user-profiles-export-reference-architecture) pushed_at:2021-05 star:0.0k fork:0.0k A reference architecture for exporting user profiles, group details, and group memberships from an Amazon Cognito User Pool to an Amazon DynamoDB global table using AWS Step Functions and AWS Lambda.
 - [awslabs/datawig](https://github.com/awslabs/datawig) pushed_at:2021-06 star:0.3k fork:0.0k Imputation of missing values in tables.
-- [awslabs/discovering-hot-topics-using-machine-learning](https://github.com/awslabs/discovering-hot-topics-using-machine-learning) pushed_at:2021-06 star:0.0k fork:0.0k The Discovering Hot Topics Using Machine Learning solution helps brand-conscious customers understand the most popular topics being actively discussed by ingesting digital assets and performing near real-time inferences and analytics
+- [awslabs/discovering-hot-topics-using-machine-learning](https://github.com/awslabs/discovering-hot-topics-using-machine-learning) pushed_at:2021-07 star:0.0k fork:0.0k The Discovering Hot Topics Using Machine Learning solution helps brand-conscious customers understand the most popular topics being actively discussed by ingesting digital assets and performing near real-time inferences and analytics
 - [awslabs/distributed-load-testing-on-aws](https://github.com/awslabs/distributed-load-testing-on-aws) pushed_at:2021-05 star:0.2k fork:0.1k 
 - [awslabs/document-understanding-solution](https://github.com/awslabs/document-understanding-solution) pushed_at:2021-06 star:0.1k fork:0.1k Example of integrating & using Amazon Textract, Amazon Comprehend, Amazon Comprehend Medical, Amazon Kendra to automate the processing of documents for use cases such as enterprise search and discovery, control and compliance, and general business process workflow.
 - [awslabs/ec2-classic-mirror](https://github.com/awslabs/ec2-classic-mirror) pushed_at:2020-01 star:0.0k fork:0.0k ClassicLink Mirror is an automation tool that assists with an in-progress migration of your EC2 resources from EC2-Classic to a VPC.
@@ -386,7 +387,7 @@
 - [awslabs/aws-security-analytics-bootstrap](https://github.com/awslabs/aws-security-analytics-bootstrap) pushed_at:2021-07 star:0.0k fork:0.0k AWS Security Analytics Bootstrap enables customers to perform security investigations on AWS service logs by providing an Amazon Athena analysis environment that's quick to deploy, ready to use, and easy to maintain.
 - [awslabs/aws-security-assessment-solution](https://github.com/awslabs/aws-security-assessment-solution) pushed_at:2021-01 star:0.1k fork:0.0k An AWS tool to help you create a point in time assessment of your AWS account using Prowler and Scout as well as optional AWS developed ransomware checks. 
 - [awslabs/aws-servicebroker-redshift](https://github.com/awslabs/aws-servicebroker-redshift) pushed_at:2018-05 star:0.0k fork:0.0k AWS Service Broker deployment module for Amazon Redshift
-- [awslabs/awscli-aliases](https://github.com/awslabs/awscli-aliases) pushed_at:2021-05 star:0.3k fork:0.1k Repository for AWS CLI aliases.
+- [awslabs/awscli-aliases](https://github.com/awslabs/awscli-aliases) pushed_at:2021-07 star:0.3k fork:0.1k Repository for AWS CLI aliases.
 - [awslabs/cloudformation-ldaps-haproxy-template](https://github.com/awslabs/cloudformation-ldaps-haproxy-template) pushed_at:2017-08 star:0.0k fork:0.0k Configure an LDAPS Endpoint for Simple AD
 - [awslabs/cloudformation-ldaps-nlb-template](https://github.com/awslabs/cloudformation-ldaps-nlb-template) pushed_at:2020-09 star:0.0k fork:0.0k Configure an LDAPS Endpoint for Simple AD
 - [awslabs/codedeploy-blue-green](https://github.com/awslabs/codedeploy-blue-green) pushed_at:2018-10 star:0.0k fork:0.1k These artifacts are associated with the blog post on Blue/Green Deployments with CodeDeploy.
@@ -436,7 +437,7 @@
 - [awslabs/amazon-qldb-shell](https://github.com/awslabs/amazon-qldb-shell) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [awslabs/amazon-redshift-monitoring](https://github.com/awslabs/amazon-redshift-monitoring) pushed_at:2021-05 star:0.2k fork:0.1k Amazon Redshift Advanced Monitoring
 - [awslabs/amazon-redshift-utils](https://github.com/awslabs/amazon-redshift-utils) pushed_at:2021-07 star:2.2k fork:1.0k Amazon Redshift Utils contains utilities, scripts and view which are useful in a Redshift environment
-- [awslabs/amazon-s3-find-and-forget](https://github.com/awslabs/amazon-s3-find-and-forget) pushed_at:2021-06 star:0.1k fork:0.0k Amazon S3 Find and Forget is a solution to handle data erasure requests from data lakes stored on Amazon S3, for example, pursuant to the European General Data Protection Regulation (GDPR)
+- [awslabs/amazon-s3-find-and-forget](https://github.com/awslabs/amazon-s3-find-and-forget) pushed_at:2021-07 star:0.1k fork:0.0k Amazon S3 Find and Forget is a solution to handle data erasure requests from data lakes stored on Amazon S3, for example, pursuant to the European General Data Protection Regulation (GDPR)
 - [awslabs/amazon-s3-step-functions-ingestion-orchestration](https://github.com/awslabs/amazon-s3-step-functions-ingestion-orchestration) pushed_at:2019-07 star:0.0k fork:0.0k Design pattern for orchestrating an incremental data ingestion pipeline using AWS Step Functions from an on premise location into an Amazon S3 datalake bucket
 - [awslabs/amazon-transcribe-streaming-sdk](https://github.com/awslabs/amazon-transcribe-streaming-sdk) pushed_at:2021-06 star:0.0k fork:0.0k The Amazon Transcribe Streaming SDK is an async Python SDK for converting audio into text via Amazon Transcribe.
 - [awslabs/assisted-log-enabler-for-aws](https://github.com/awslabs/assisted-log-enabler-for-aws) pushed_at:2021-07 star:0.1k fork:0.0k Assisted Log Enabler for AWS  - Find AWS resources that are not logging, and turn them on.
@@ -450,7 +451,7 @@
 - [awslabs/aws-build-accumulator](https://github.com/awslabs/aws-build-accumulator) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [awslabs/aws-cfn-control](https://github.com/awslabs/aws-cfn-control) pushed_at:2020-02 star:0.0k fork:0.0k aws-cfn-control is an interface that provides a way to quickly deploy and redeploy CloudFormation stacks from the command line. The cfnctl command provides the core functionality, with several other commands that will find AMI info, get stack status, build CloudFormation mappings, and many other features.
 - [awslabs/aws-cfn-template-flip](https://github.com/awslabs/aws-cfn-template-flip) pushed_at:2021-04 star:0.8k fork:0.1k Tool for converting AWS CloudFormation templates between JSON and YAML formats.
-- [awslabs/aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates) pushed_at:2021-07 star:3.1k fork:2.6k A collection of useful CloudFormation templates 
+- [awslabs/aws-cloudformation-templates](https://github.com/awslabs/aws-cloudformation-templates) pushed_at:2021-07 star:3.1k fork:2.7k A collection of useful CloudFormation templates 
 - [awslabs/aws-cloudfront-extensions](https://github.com/awslabs/aws-cloudfront-extensions) pushed_at:2021-07 star:0.1k fork:0.0k The CloudFront Extensions is a solution package as handy extension for using Amazon CloudFront. 
 - [awslabs/aws-codedeploy-new-instance-sync-lambda](https://github.com/awslabs/aws-codedeploy-new-instance-sync-lambda) pushed_at:2018-01 star:0.0k fork:0.0k Python script to automatically sync new instances via AWS CodeDeploy APIs
 - [awslabs/aws-codepipeline-governance](https://github.com/awslabs/aws-codepipeline-governance) pushed_at:2021-07 star:0.0k fork:0.0k 
@@ -470,7 +471,7 @@
 - [awslabs/aws-data-api-python-sdk](https://github.com/awslabs/aws-data-api-python-sdk) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [awslabs/aws-data-exchange-publisher-coordinator](https://github.com/awslabs/aws-data-exchange-publisher-coordinator) pushed_at:2021-06 star:0.0k fork:0.0k AWS Data Exchange Publisher Coordinator
 - [awslabs/aws-data-exchange-subscriber-coordinator](https://github.com/awslabs/aws-data-exchange-subscriber-coordinator) pushed_at:2020-12 star:0.0k fork:0.0k AWS Data Exchange Subscriber Coordinator
-- [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler) pushed_at:2021-07 star:1.9k fork:0.3k Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
+- [awslabs/aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler) pushed_at:2021-07 star:2.0k fork:0.3k Pandas on AWS - Easy integration with Athena, Glue, Redshift, Timestream, QuickSight, Chime, CloudWatchLogs, DynamoDB, EMR, SecretManager, PostgreSQL, MySQL, SQLServer and S3 (Parquet, CSV, JSON and EXCEL).
 - [awslabs/aws-dataset-ingestion-metrics-collection-framework](https://github.com/awslabs/aws-dataset-ingestion-metrics-collection-framework) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [awslabs/aws-deployment-framework](https://github.com/awslabs/aws-deployment-framework) pushed_at:2021-07 star:0.4k fork:0.1k The AWS Deployment Framework (ADF) is an extensive and flexible framework to manage and deploy resources across multiple AWS accounts and regions based on AWS Organizations.
 - [awslabs/aws-detailed-billing-parser](https://github.com/awslabs/aws-detailed-billing-parser) pushed_at:2019-03 star:0.1k fork:0.0k Python script to parse the Detailed Billing Reports to Elasticsearch or .json file.
@@ -490,7 +491,7 @@
 - [awslabs/aws-iot-core-accelerators](https://github.com/awslabs/aws-iot-core-accelerators) pushed_at:2020-03 star:0.0k fork:0.0k Deployable solutions for AWS IoT core for common design patterns, or to address specific use-cases.
 - [awslabs/aws-iot-greengrass-accelerators](https://github.com/awslabs/aws-iot-greengrass-accelerators) pushed_at:2021-07 star:0.0k fork:0.0k Deployable solutions for AWS IoT Greengrass for common design patterns, or to address specific use-cases.
 - [awslabs/aws-lambda-ecs-run-task](https://github.com/awslabs/aws-lambda-ecs-run-task) pushed_at:2021-06 star:0.0k fork:0.0k 
-- [awslabs/aws-lambda-powertools-python](https://github.com/awslabs/aws-lambda-powertools-python) pushed_at:2021-07 star:0.9k fork:0.1k A suite of utilities for AWS Lambda Functions that makes tracing with AWS X-Ray, structured logging and creating custom metrics asynchronously easier
+- [awslabs/aws-lambda-powertools-python](https://github.com/awslabs/aws-lambda-powertools-python) pushed_at:2021-07 star:1.0k fork:0.1k A suite of utilities for AWS Lambda Functions that makes tracing with AWS X-Ray, structured logging and creating custom metrics asynchronously easier
 - [awslabs/aws-lambda-python-aurora-version-check](https://github.com/awslabs/aws-lambda-python-aurora-version-check) pushed_at:2019-01 star:0.0k fork:0.0k Python SAM Lambda module for periodically checking Aurora Database Engine Updates documentation site for new version releases and notify via SES if updates are found.
 - [awslabs/aws-lambda-security-controls](https://github.com/awslabs/aws-lambda-security-controls) pushed_at:2018-10 star:0.0k fork:0.0k This is a collection of AWS CloudFormation templates which create Lambda functions triggered by CloudWatch Events rule to evaluate AWS API calls to trigger Amazon Simple Notification Service (Amazon SNS) for notifications.
 - [awslabs/aws-managed-services](https://github.com/awslabs/aws-managed-services) pushed_at:2021-07 star:0.0k fork:0.0k 
@@ -503,7 +504,6 @@
 - [awslabs/aws-s3snapshot](https://github.com/awslabs/aws-s3snapshot) pushed_at:2019-05 star:0.0k fork:0.0k S3 Snapshot script to run from command-line or scheduled in Lambda.
 - [awslabs/aws-sdlc-controltower-extension](https://github.com/awslabs/aws-sdlc-controltower-extension) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [awslabs/aws-security-automation](https://github.com/awslabs/aws-security-automation) pushed_at:2021-01 star:0.5k fork:0.2k Collection of scripts and resources for DevSecOps and Automated Incident Response Security
-- [awslabs/aws-security-benchmark](https://github.com/awslabs/aws-security-benchmark) pushed_at:2020-01 star:0.6k fork:0.3k Open source demos, concept and guidance related to the AWS CIS Foundation framework.
 - [awslabs/aws-security-hub-automated-response-and-remediation](https://github.com/awslabs/aws-security-hub-automated-response-and-remediation) pushed_at:2021-07 star:0.1k fork:0.0k AWS Security Hub Automated Response and Remediation is an add-on solution that works with AWS Security Hub to provide a ready-to-deploy architecture and a library of automated playbooks. The solution makes it easier for AWS Security Hub customers to resolve common security findings and to improve their security posture in AWS.
 - [awslabs/aws-securityhub-multiaccount-scripts](https://github.com/awslabs/aws-securityhub-multiaccount-scripts) pushed_at:2020-11 star:0.2k fork:0.1k This script automates the process of running the Security Hub multi-account workflow across a group of accounts that are in your control
 - [awslabs/aws-serverless-data-lake-framework](https://github.com/awslabs/aws-serverless-data-lake-framework) pushed_at:2021-07 star:0.2k fork:0.1k Enterprise-grade, production-hardened, serverless data lake on AWS
@@ -547,7 +547,7 @@
 - [awslabs/dgl-ke](https://github.com/awslabs/dgl-ke) pushed_at:2021-06 star:0.7k fork:0.1k High performance, easy-to-use, and scalable package for learning large-scale knowledge graph embeddings.
 - [awslabs/dgl-lifesci](https://github.com/awslabs/dgl-lifesci) pushed_at:2021-07 star:0.3k fork:0.1k Python package for graph neural networks in chemistry and biology
 - [awslabs/digital-user-engagement-events-database](https://github.com/awslabs/digital-user-engagement-events-database) pushed_at:2020-06 star:0.0k fork:0.0k Configures and builds a database for engagement events generated by Amazon Simple Email Service (SES) and Amazon Pinpoint engagements using Amazon Athena.
-- [awslabs/disaster-recovery-for-aws-iot](https://github.com/awslabs/disaster-recovery-for-aws-iot) pushed_at:2021-05 star:0.0k fork:0.0k This solution provides a failover strategy for your IoT devices. Customers with critical AWS IoT Core workloads can use this solution to store and process their data in a second AWS Region if the primary Region is not available.
+- [awslabs/disaster-recovery-for-aws-iot](https://github.com/awslabs/disaster-recovery-for-aws-iot) pushed_at:2021-07 star:0.0k fork:0.0k This solution provides a failover strategy for your IoT devices. Customers with critical AWS IoT Core workloads can use this solution to store and process their data in a second AWS Region if the primary Region is not available.
 - [awslabs/dynamic-training-with-apache-mxnet-on-aws](https://github.com/awslabs/dynamic-training-with-apache-mxnet-on-aws) pushed_at:2021-04 star:0.0k fork:0.0k Dynamic training with Apache MXNet reduces cost and time for training deep neural networks by leveraging AWS cloud elasticity and scale. The system reduces training cost and time by dynamically updating the training cluster size during training, with minimal impact on model training accuracy.
 - [awslabs/dynamodb-backup-scheduler](https://github.com/awslabs/dynamodb-backup-scheduler) pushed_at:2020-03 star:0.0k fork:0.0k A cloudFormation template - Since DynamoDb backup is ondemand feature - this CF template will help customer to trigger the Lambda code (Python code) in daily basis
 - [awslabs/dynamodb-continuous-backup](https://github.com/awslabs/dynamodb-continuous-backup) pushed_at:2019-05 star:0.2k fork:0.0k Continuous backup automation for Amazon DynamoDB
@@ -568,7 +568,7 @@
 - [awslabs/live-streaming-with-automated-multi-language-subtitling](https://github.com/awslabs/live-streaming-with-automated-multi-language-subtitling) pushed_at:2021-07 star:0.1k fork:0.1k Live Streaming with Automated Multi-Language Subtitling is a project to automatically generates multi-language subtitles for live streaming web video content. Adding subtitles to your live video content can help improve reach and access, exposing your content to a much larger audience.
 - [awslabs/machine-to-cloud-connectivity-framework](https://github.com/awslabs/machine-to-cloud-connectivity-framework) pushed_at:2021-06 star:0.0k fork:0.0k Machine to Cloud Connectivity Framework is a reference implementation that enables connectivity between equipment supporting Open Protocol Communication Data Access (OPC DA) and can be used to build connectors for other protocols within factories.
 - [awslabs/media-exchange-on-aws](https://github.com/awslabs/media-exchange-on-aws) pushed_at:2021-07 star:0.0k fork:0.0k MediaExchange On AWS
-- [awslabs/mlm-scoring](https://github.com/awslabs/mlm-scoring) pushed_at:2021-07 star:0.1k fork:0.0k Python library & examples for Masked Language Model Scoring (ACL 2020)
+- [awslabs/mlm-scoring](https://github.com/awslabs/mlm-scoring) pushed_at:2021-07 star:0.2k fork:0.0k Python library & examples for Masked Language Model Scoring (ACL 2020)
 - [awslabs/mxboard](https://github.com/awslabs/mxboard) pushed_at:2020-01 star:0.3k fork:0.1k Logging MXNet data for visualization in TensorBoard.
 - [awslabs/mxnet-lambda](https://github.com/awslabs/mxnet-lambda) pushed_at:2018-09 star:0.1k fork:0.0k Reference Lambda function that predicts image labels for a image using an MXNet-built deep learning model. The repo also has pre-built MXNet, OpenCV libraries for use with AWS Lambda.
 - [awslabs/neural-retrieval](https://github.com/awslabs/neural-retrieval) pushed_at:2020-10 star:0.0k fork:0.0k Python library containing BART query generation and BERT-based Siamese models for neural retrieval. 
@@ -606,7 +606,7 @@
 - [awslabs/sockeye](https://github.com/awslabs/sockeye) pushed_at:2021-07 star:1.0k fork:0.3k Sequence-to-sequence framework with a focus on Neural Machine Translation based on Apache MXNet
 - [awslabs/speech-representations](https://github.com/awslabs/speech-representations) pushed_at:2021-06 star:0.1k fork:0.0k Code for DeCoAR (ICASSP 2020) and BERTphone (Odyssey 2020)
 - [awslabs/speke-reference-server](https://github.com/awslabs/speke-reference-server) pushed_at:2021-06 star:0.1k fork:0.0k Secure Packager and Encoder Key Exchange (SPEKE) is part of the AWS Elemental content encryption protection strategy for media services customers. SPEKE defines the standard for communication between our media services and digital rights management (DRM) system key servers. This project provides the basic framework that partners can specialize and extend to support their specific method of Digital Rights Management while utilizing AWS' video streaming solutions.
-- [awslabs/spot-tagging-bot-for-digital-assets](https://github.com/awslabs/spot-tagging-bot-for-digital-assets) pushed_at:2021-01 star:0.0k fork:0.0k Spot Tagging Bot for Digital Assets
+- [awslabs/spot-tagging-bot-for-digital-assets](https://github.com/awslabs/spot-tagging-bot-for-digital-assets) pushed_at:2021-07 star:0.0k fork:0.0k Spot Tagging Bot for Digital Assets
 - [awslabs/sql-based-etl-with-apache-spark-on-amazon-eks](https://github.com/awslabs/sql-based-etl-with-apache-spark-on-amazon-eks) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [awslabs/tag-policy-setup](https://github.com/awslabs/tag-policy-setup) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [awslabs/tag-tamer](https://github.com/awslabs/tag-tamer) pushed_at:2021-06 star:0.0k fork:0.0k Solution to consistently tag AWS resources
@@ -637,7 +637,7 @@
 ## Rust
 
 - [awslabs/amazon-qldb-driver-rust](https://github.com/awslabs/amazon-qldb-driver-rust) pushed_at:2021-07 star:0.0k fork:0.0k A Rust implementation of a driver for Amazon QLDB. 
-- [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) pushed_at:2021-07 star:1.6k fork:0.2k A Rust runtime for AWS Lambda
+- [awslabs/aws-lambda-rust-runtime](https://github.com/awslabs/aws-lambda-rust-runtime) pushed_at:2021-07 star:1.7k fork:0.2k A Rust runtime for AWS Lambda
 - [awslabs/aws-nitro-enclaves-cose](https://github.com/awslabs/aws-nitro-enclaves-cose) pushed_at:2021-07 star:0.0k fork:0.0k Implements COSE primitives in safe Rust.
 - [awslabs/aws-sdk-rust](https://github.com/awslabs/aws-sdk-rust) pushed_at:2021-07 star:0.8k fork:0.0k 
 - [awslabs/coldsnap](https://github.com/awslabs/coldsnap) pushed_at:2021-07 star:0.1k fork:0.0k A command line interface for Amazon EBS snapshots
@@ -651,11 +651,11 @@
 
 - [awslabs/amazon-s3-tagging-spark-util](https://github.com/awslabs/amazon-s3-tagging-spark-util) pushed_at:2020-12 star:0.0k fork:0.0k 
 - [awslabs/aws-cloudwatch-metrics-custom-spark-listener](https://github.com/awslabs/aws-cloudwatch-metrics-custom-spark-listener) pushed_at:2021-06 star:0.0k fork:0.0k Example Spark streaming sample codes with Custom Listeners to push streaming metrics into Amazon CloudWatch metrics
-- [awslabs/deequ](https://github.com/awslabs/deequ) pushed_at:2021-06 star:1.8k fork:0.3k Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
+- [awslabs/deequ](https://github.com/awslabs/deequ) pushed_at:2021-07 star:1.8k fork:0.3k Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.
 
 ## Shell
 
-- [awslabs/amazon-ebs-autoscale](https://github.com/awslabs/amazon-ebs-autoscale) pushed_at:2021-06 star:0.0k fork:0.0k Don't run out of disk space on your EC2 instance when generating or working with large files. Automatically add EBS volumes to a filesystem mount point in response to disk utilization.
+- [awslabs/amazon-ebs-autoscale](https://github.com/awslabs/amazon-ebs-autoscale) pushed_at:2021-07 star:0.0k fork:0.0k Don't run out of disk space on your EC2 instance when generating or working with large files. Automatically add EBS volumes to a filesystem mount point in response to disk utilization.
 - [awslabs/amazon-ecs-nodejs-microservices](https://github.com/awslabs/amazon-ecs-nodejs-microservices) pushed_at:2020-03 star:0.5k fork:0.3k Reference architecture that shows how to take a Node.js application, containerize it, and deploy it as microservices on Amazon Elastic Container Service. 
 - [awslabs/amazon-eks-ami](https://github.com/awslabs/amazon-eks-ami) pushed_at:2021-07 star:1.5k fork:0.7k Packer configuration for building a custom EKS AMI
 - [awslabs/amazon-eks-serverless-drainer](https://github.com/awslabs/amazon-eks-serverless-drainer) pushed_at:2019-07 star:0.1k fork:0.0k Amazon EKS node drainer with AWS Lambda.
@@ -719,7 +719,7 @@
 - [awslabs/aws-sdk-v3-js-proxy](https://github.com/awslabs/aws-sdk-v3-js-proxy) pushed_at:2021-06 star:0.0k fork:0.0k A wrapper for adding proxy configurations to AWS SDK v3 clients.
 - [awslabs/aws-simple-cicd](https://github.com/awslabs/aws-simple-cicd) pushed_at:2021-04 star:0.1k fork:0.0k A prescriptive, serverless CI/CD platform leveraging native AWS services built using the AWS Cloud Development Kit (CDK).
 - [awslabs/aws-solutions-constructs](https://github.com/awslabs/aws-solutions-constructs) pushed_at:2021-07 star:0.5k fork:0.1k The AWS Solutions Constructs Library is an open-source extension of the AWS Cloud Development Kit (AWS CDK) that provides multi-service, well-architected patterns for quickly defining solutions
-- [awslabs/aws-streaming-data-solution-for-amazon-kinesis-and-amazon-msk](https://github.com/awslabs/aws-streaming-data-solution-for-amazon-kinesis-and-amazon-msk) pushed_at:2021-05 star:0.0k fork:0.0k A solutions that automatically configures the AWS services necessary to easily capture, store, process, and deliver streaming data. This solution helps you solve for real-time streaming use cases like capturing high volume application logs, analyzing clickstream data, continuously delivering to a data lake, and more.
+- [awslabs/aws-streaming-data-solution-for-amazon-kinesis-and-amazon-msk](https://github.com/awslabs/aws-streaming-data-solution-for-amazon-kinesis-and-amazon-msk) pushed_at:2021-07 star:0.0k fork:0.0k A solutions that automatically configures the AWS services necessary to easily capture, store, process, and deliver streaming data. This solution helps you solve for real-time streaming use cases like capturing high volume application logs, analyzing clickstream data, continuously delivering to a data lake, and more.
 - [awslabs/cdk-serverless-clamscan](https://github.com/awslabs/cdk-serverless-clamscan) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [awslabs/cfn-resources](https://github.com/awslabs/cfn-resources) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [awslabs/concise-constructs](https://github.com/awslabs/concise-constructs) pushed_at:2021-02 star:0.0k fork:0.0k A functional-feeling DX for the AWS CDK and other construct libraries
@@ -754,7 +754,7 @@
 
 ## Vue
 
-- [awslabs/aws-content-analysis](https://github.com/awslabs/aws-content-analysis) pushed_at:2021-06 star:0.0k fork:0.0k This project is a fully automated video search engine which uses AWS AI services for computer vision and speech recognition to catalog video archives.
+- [awslabs/aws-content-analysis](https://github.com/awslabs/aws-content-analysis) pushed_at:2021-07 star:0.0k fork:0.0k This project is a fully automated video search engine which uses AWS AI services for computer vision and speech recognition to catalog video archives.
 - [awslabs/aws-media-insights](https://github.com/awslabs/aws-media-insights) pushed_at:2021-06 star:0.0k fork:0.0k This is an application for analyzing the content of images and videos. It includes a GUI and back-end analytical workflows. It is the reference application for the Media Insights Engine.
 
 

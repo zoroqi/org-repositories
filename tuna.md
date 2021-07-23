@@ -95,7 +95,7 @@
 - [tuna/gdanmaku-server](https://github.com/tuna/gdanmaku-server) pushed_at:2021-03 star:0.1k fork:0.0k Web-based danmaku server
 - [tuna/ldaptuna](https://github.com/tuna/ldaptuna) pushed_at:2014-10 star:0.0k fork:0.0k 
 - [tuna/loglyzer](https://github.com/tuna/loglyzer) pushed_at:2014-12 star:0.0k fork:0.0k log analyzer for tuna mirrors
-- [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) pushed_at:2020-12 star:0.4k fork:0.1k Keep calm and use TUNA mirrors.
+- [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) pushed_at:2021-07 star:0.4k fork:0.1k Keep calm and use TUNA mirrors.
 - [tuna/pdns-ldap](https://github.com/tuna/pdns-ldap) pushed_at:2016-04 star:0.0k fork:0.0k 
 - [tuna/playbooks](https://github.com/tuna/playbooks) pushed_at:2016-10 star:0.0k fork:0.0k 
 - [tuna/scripts](https://github.com/tuna/scripts) pushed_at:2018-01 star:0.0k fork:0.0k 

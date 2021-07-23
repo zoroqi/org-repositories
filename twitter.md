@@ -164,7 +164,7 @@
 
 ## SCSS
 
-- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-07 star:1.6k fork:0.6k A listing of open source efforts at Twitter on GitHub
+- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-07 star:1.7k fork:0.6k A listing of open source efforts at Twitter on GitHub
 
 ## Scala
 
@@ -195,7 +195,7 @@
 
 ## Shell
 
-- [twitter/cache-trace](https://github.com/twitter/cache-trace) pushed_at:2020-11 star:0.1k fork:0.0k 
+- [twitter/cache-trace](https://github.com/twitter/cache-trace) pushed_at:2021-07 star:0.1k fork:0.0k 
 - [twitter/dodo](https://github.com/twitter/dodo) pushed_at:2021-06 star:0.0k fork:0.0k The Twitter OSS Project Builder
 - [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) pushed_at:2021-07 star:0.5k fork:0.3k Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
 
@@ -210,7 +210,7 @@
 
 ## Vue
 
-- [twitter/check-my-repo](https://github.com/twitter/check-my-repo) pushed_at:2021-06 star:0.0k fork:0.0k Automatically check repositories health and quality and build reports that help us understand the current state of Sauce Labs repositories
+- [twitter/check-my-repo](https://github.com/twitter/check-my-repo) pushed_at:2021-07 star:0.0k fork:0.0k Automatically check repositories health and quality and build reports that help us understand the current state of Sauce Labs repositories
 
 
 ## License

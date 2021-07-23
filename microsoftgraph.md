@@ -48,7 +48,7 @@
 - [microsoftgraph/dotnet-aad-query-sample](https://github.com/microsoftgraph/dotnet-aad-query-sample) pushed_at:2021-03 star:0.0k fork:0.0k This sample demonstrates a .NET 5.0 Desktop (WPF) application showcasing advanced Microsoft Graph Query Capabilities for Directory Objects with .NET Graph SDK.
 - [microsoftgraph/dotnetcore-console-sample](https://github.com/microsoftgraph/dotnetcore-console-sample) pushed_at:2021-06 star:0.1k fork:0.0k .Net Core console application for calling Microsoft Graph.  Sample built from scratch.
 - [microsoftgraph/Graph-Security-API-Auth-Sample](https://github.com/microsoftgraph/Graph-Security-API-Auth-Sample) pushed_at:2020-05 star:0.0k fork:0.0k [ARCHIVED] Provides sample to retrieve authentication token and send request to Microsoft Graph Security API
-- [microsoftgraph/group-membership-management](https://github.com/microsoftgraph/group-membership-management) pushed_at:2021-06 star:0.0k fork:0.0k .NET service that generates a parent group membership roster by regularly synchronizing it with memberships from specified Security or Microsoft 365 groups. Link to download is below. We would LOVE to hear back from you with any feedback you have. Feel free to join our discussion forum on this site or send us an email at GMMSupport@service.microsoft.com.
+- [microsoftgraph/group-membership-management](https://github.com/microsoftgraph/group-membership-management) pushed_at:2021-07 star:0.0k fork:0.0k .NET service that generates a parent group membership roster by regularly synchronizing it with memberships from specified Security or Microsoft 365 groups. Link to download is below. We would LOVE to hear back from you with any feedback you have. Feel free to join our discussion forum on this site or send us an email at GMMSupport@service.microsoft.com.
 - [microsoftgraph/Intune-PowerShell-SDK-Code-Generator](https://github.com/microsoftgraph/Intune-PowerShell-SDK-Code-Generator) pushed_at:2020-04 star:0.0k fork:0.0k Custom ODCM Writer built atop Vipr to auto-generate PowerShell cmdlets corresponding to CRUD operations for Microsoft Intune Graph Api. 
 - [microsoftgraph/microsoft-graph-devx-api](https://github.com/microsoftgraph/microsoft-graph-devx-api) pushed_at:2021-07 star:0.0k fork:0.0k Services API for Graph Explorer
 - [microsoftgraph/msgraph-beta-sdk-dotnet](https://github.com/microsoftgraph/msgraph-beta-sdk-dotnet) pushed_at:2021-07 star:0.1k fork:0.0k The Microsoft Graph Client Beta Library for .NET supports the Microsoft Graph /beta endpoint. (preview)
@@ -131,7 +131,7 @@
 
 ## Jupyter Notebook
 
-- [microsoftgraph/security-api-solutions](https://github.com/microsoftgraph/security-api-solutions) pushed_at:2021-06 star:0.1k fork:0.1k Microsoft Graph Security API applications and services.
+- [microsoftgraph/security-api-solutions](https://github.com/microsoftgraph/security-api-solutions) pushed_at:2021-06 star:0.2k fork:0.1k Microsoft Graph Security API applications and services.
 
 ## Objective-C
 

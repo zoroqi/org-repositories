@@ -29,7 +29,7 @@
 
 ## C
 
-- [uber/h3](https://github.com/uber/h3) pushed_at:2021-07 star:2.8k fork:0.3k Hexagonal hierarchical geospatial indexing system
+- [uber/h3](https://github.com/uber/h3) pushed_at:2021-07 star:2.9k fork:0.3k Hexagonal hierarchical geospatial indexing system
 - [uber/h3-go](https://github.com/uber/h3-go) pushed_at:2021-03 star:0.1k fork:0.0k Go bindings for H3, a hierarchical hexagonal geospatial indexing system
 
 ## C++
@@ -78,10 +78,10 @@
 - [uber/h3-java](https://github.com/uber/h3-java) pushed_at:2021-07 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/marmaray](https://github.com/uber/marmaray) pushed_at:2021-06 star:0.4k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
 - [uber/NullAway](https://github.com/uber/NullAway) pushed_at:2021-07 star:3.0k fork:0.2k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
-- [uber/okbuck](https://github.com/uber/okbuck) pushed_at:2021-04 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
+- [uber/okbuck](https://github.com/uber/okbuck) pushed_at:2021-07 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
 - [uber/phabricator-jenkins-plugin](https://github.com/uber/phabricator-jenkins-plugin) pushed_at:2021-01 star:0.4k fork:0.1k Jenkins plugin to integrate with Phabricator, Harbormaster, and Uberalls
-- [uber/piranha](https://github.com/uber/piranha) pushed_at:2021-06 star:1.8k fork:0.1k A tool for refactoring code related to feature flag APIs
-- [uber/RemoteShuffleService](https://github.com/uber/RemoteShuffleService) pushed_at:2021-06 star:0.1k fork:0.0k Remote shuffle service for Apache Spark to store shuffle data on remote servers. 
+- [uber/piranha](https://github.com/uber/piranha) pushed_at:2021-07 star:1.8k fork:0.1k A tool for refactoring code related to feature flag APIs
+- [uber/RemoteShuffleService](https://github.com/uber/RemoteShuffleService) pushed_at:2021-07 star:0.1k fork:0.0k Remote shuffle service for Apache Spark to store shuffle data on remote servers. 
 - [uber/RIBs](https://github.com/uber/RIBs) pushed_at:2021-07 star:6.4k fork:0.7k Uber's cross-platform mobile architecture framework.
 - [uber/rides-android-sdk](https://github.com/uber/rides-android-sdk) pushed_at:2021-07 star:0.3k fork:0.1k Uber Rides Android SDK (beta)
 - [uber/rides-java-sdk](https://github.com/uber/rides-java-sdk) pushed_at:2018-11 star:0.1k fork:0.1k Uber Rides Java SDK (beta)
@@ -101,7 +101,7 @@
 - [uber/build-changelog](https://github.com/uber/build-changelog) pushed_at:2014-11 star:0.0k fork:0.0k A CLI to auto-generate a deploy ready changelog
 - [uber/cache-dir](https://github.com/uber/cache-dir) pushed_at:2014-03 star:0.0k fork:0.0k An ES6 map-like cache with file-based backing
 - [uber/cadence-docs](https://github.com/uber/cadence-docs) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [uber/cadence-web](https://github.com/uber/cadence-web) pushed_at:2021-06 star:0.3k fork:0.1k Web UI for visualizing workflows on Cadence
+- [uber/cadence-web](https://github.com/uber/cadence-web) pushed_at:2021-07 star:0.3k fork:0.1k Web UI for visualizing workflows on Cadence
 - [uber/eight-track](https://github.com/uber/eight-track) pushed_at:2018-07 star:0.1k fork:0.0k Record and playback HTTP requests
 - [uber/geojson2h3](https://github.com/uber/geojson2h3) pushed_at:2021-05 star:0.1k fork:0.0k Conversion utilities between H3 indexes and GeoJSON
 - [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) pushed_at:2021-06 star:0.4k fork:0.1k grafana dash dash dash gen
@@ -203,7 +203,7 @@
 ## Swift
 
 - [uber/cyborg](https://github.com/uber/cyborg) pushed_at:2020-09 star:0.3k fork:0.0k Display Android Vectordrawables on iOS.
-- [uber/mockolo](https://github.com/uber/mockolo) pushed_at:2021-06 star:0.4k fork:0.0k Efficient Mock Generator for Swift
+- [uber/mockolo](https://github.com/uber/mockolo) pushed_at:2021-07 star:0.4k fork:0.0k Efficient Mock Generator for Swift
 - [uber/needle](https://github.com/uber/needle) pushed_at:2021-06 star:1.0k fork:0.1k Compile-time safe Swift dependency injection framework
 - [uber/rides-ios-sdk](https://github.com/uber/rides-ios-sdk) pushed_at:2019-11 star:0.3k fork:0.1k Uber Rides iOS SDK (beta)
 - [uber/RxCBCentral](https://github.com/uber/RxCBCentral) pushed_at:2021-06 star:0.0k fork:0.0k  A reactive, interface-driven central role Bluetooth LE library for iOS

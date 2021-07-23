@@ -14,10 +14,10 @@
 - [Go](#go) (1)
 - [HTML](#html) (1)
 - [Java](#java) (1)
-- [Jupyter Notebook](#jupyter-notebook) (3)
+- [Jupyter Notebook](#jupyter-notebook) (4)
 - [OCaml](#ocaml) (1)
 - [Objective-C](#objective-c) (1)
-- [Others](#others) (7)
+- [Others](#others) (6)
 - [Perl](#perl) (1)
 - [PostScript](#postscript) (1)
 - [Python](#python) (15)
@@ -67,7 +67,7 @@
 - [ARM-software/psa-arch-tests](https://github.com/ARM-software/psa-arch-tests) pushed_at:2021-07 star:0.0k fork:0.1k Tests for verifying implementations of TBSA-v8M and the PSA Developer APIs
 - [ARM-software/rasc-devkit](https://github.com/ARM-software/rasc-devkit) pushed_at:2020-06 star:0.0k fork:0.0k 
 - [ARM-software/revere-demo](https://github.com/ARM-software/revere-demo) pushed_at:2020-09 star:0.0k fork:0.0k Example program demonstrating the use of the Revere-AMU System Architecture from userspace, with VFIO
-- [ARM-software/sbsa-acs](https://github.com/ARM-software/sbsa-acs) pushed_at:2021-07 star:0.1k fork:0.0k ARM Enterprise: SBSA Architecture Compliance Suite
+- [ARM-software/sbsa-acs](https://github.com/ARM-software/sbsa-acs) pushed_at:2021-07 star:0.1k fork:0.1k ARM Enterprise: SBSA Architecture Compliance Suite
 - [ARM-software/scmi-tests](https://github.com/ARM-software/scmi-tests) pushed_at:2021-01 star:0.0k fork:0.0k Test suite for SCMI PDD
 - [ARM-software/SCP-firmware](https://github.com/ARM-software/SCP-firmware) pushed_at:2021-07 star:0.1k fork:0.1k System Control Processor (SCP) firmware
 - [ARM-software/server-data-plane](https://github.com/ARM-software/server-data-plane) pushed_at:2017-05 star:0.0k fork:0.0k Modified OpenDataPlane APIs for general purpose server applications with example applications.
@@ -89,7 +89,7 @@
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) pushed_at:2021-07 star:2.0k fork:0.6k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [ARM-software/developer](https://github.com/ARM-software/developer) pushed_at:2021-07 star:0.0k fork:0.0k GTM related documentation
 - [ARM-software/drm-hwcomposer](https://github.com/ARM-software/drm-hwcomposer) pushed_at:2021-03 star:0.0k fork:0.0k Clone of the drm-hwcomposer from freedesktop.org plus patches from Mali DP team
-- [ARM-software/ethos-n-driver-stack](https://github.com/ARM-software/ethos-n-driver-stack) pushed_at:2021-06 star:0.0k fork:0.0k Driver stack (including user space libraries, kernel module and firmware) for the Arm® Ethos™-N NPU
+- [ARM-software/ethos-n-driver-stack](https://github.com/ARM-software/ethos-n-driver-stack) pushed_at:2021-07 star:0.0k fork:0.0k Driver stack (including user space libraries, kernel module and firmware) for the Arm® Ethos™-N NPU
 - [ARM-software/gator](https://github.com/ARM-software/gator) pushed_at:2021-06 star:0.1k fork:0.1k Sources for Arm Streamline's gator daemon
 - [ARM-software/HPCG_for_Arm](https://github.com/ARM-software/HPCG_for_Arm) pushed_at:2020-09 star:0.0k fork:0.0k 
 - [ARM-software/HWCPipe](https://github.com/ARM-software/HWCPipe) pushed_at:2021-04 star:0.1k fork:0.0k Hardware counters interface
@@ -103,7 +103,7 @@
 - [ARM-software/patrace](https://github.com/ARM-software/patrace) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [ARM-software/perfdoc](https://github.com/ARM-software/perfdoc) pushed_at:2019-10 star:0.1k fork:0.0k A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
 - [ARM-software/sdc600-debugger](https://github.com/ARM-software/sdc600-debugger) pushed_at:2021-03 star:0.0k fork:0.0k API, reference libraries and example application for Arm Secure Debug Channel (SDC-600)
-- [ARM-software/tarmac-trace-utilities](https://github.com/ARM-software/tarmac-trace-utilities) pushed_at:2021-06 star:0.0k fork:0.0k Tools for analyzing and browsing Tarmac instruction traces.
+- [ARM-software/tarmac-trace-utilities](https://github.com/ARM-software/tarmac-trace-utilities) pushed_at:2021-07 star:0.0k fork:0.0k Tools for analyzing and browsing Tarmac instruction traces.
 - [ARM-software/Tool-Solutions](https://github.com/ARM-software/Tool-Solutions) pushed_at:2021-07 star:0.1k fork:0.1k Tutorials & examples for Arm software development tools.
 - [ARM-software/vktrace-arm](https://github.com/ARM-software/vktrace-arm) pushed_at:2021-05 star:0.0k fork:0.0k Vktrace arm fork
 - [ARM-software/Vulkan-ValidationLayers](https://github.com/ARM-software/Vulkan-ValidationLayers) pushed_at:2020-08 star:0.0k fork:0.0k Vulkan Validation Layers
@@ -136,6 +136,7 @@
 
 ## Jupyter Notebook
 
+- [ARM-software/fast-probabilistic-models](https://github.com/ARM-software/fast-probabilistic-models) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [ARM-software/keyword-transformer](https://github.com/ARM-software/keyword-transformer) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [ARM-software/lisa](https://github.com/ARM-software/lisa) pushed_at:2021-07 star:0.1k fork:0.1k Linux Integrated System Analysis
 - [ARM-software/mango](https://github.com/ARM-software/mango) pushed_at:2021-07 star:0.1k fork:0.0k Parallel Hyperparameter Tuning in Python
@@ -152,7 +153,6 @@
 
 - [ARM-software/bootwrapper](https://github.com/ARM-software/bootwrapper) pushed_at:2017-06 star:0.0k fork:0.0k Linux kernel bootwrapper code
 - [ARM-software/data](https://github.com/ARM-software/data) pushed_at:2021-04 star:0.0k fork:0.0k Machine-readable data describing Arm architecture and implementations. Includes JSON descriptions of implemented PMU events.
-- [ARM-software/fast-probabilistic-models](https://github.com/ARM-software/fast-probabilistic-models) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [ARM-software/NXP_iMX](https://github.com/ARM-software/NXP_iMX) pushed_at:2016-03 star:0.0k fork:0.0k CMSIS Driver Implementations for the NXP i.MX Device Series with Cortex-M processor
 - [ARM-software/NXP_Kinetis](https://github.com/ARM-software/NXP_Kinetis) pushed_at:2016-03 star:0.0k fork:0.0k CMSIS Driver Implementations for the NXP Kinetis Microcontroller Series
 - [ARM-software/tf-issues](https://github.com/ARM-software/tf-issues) pushed_at:2020-01 star:0.0k fork:0.0k Issue tracking for the ARM Trusted Firmware project
@@ -173,7 +173,7 @@
 - [ARM-software/bento-autobentifier](https://github.com/ARM-software/bento-autobentifier) pushed_at:2021-01 star:0.0k fork:0.0k Automatic partitioning of memory spaces for microcontroller binaries
 - [ARM-software/Cloud-IoT-Core-Kit-Examples](https://github.com/ARM-software/Cloud-IoT-Core-Kit-Examples) pushed_at:2018-07 star:0.1k fork:0.0k Example projects and code are supplied to support the Arm-based IoT Kit for Cloud IoT Core
 - [ARM-software/core-benchmarks](https://github.com/ARM-software/core-benchmarks) pushed_at:2021-01 star:0.0k fork:0.0k 
-- [ARM-software/daq-server](https://github.com/ARM-software/daq-server) pushed_at:2019-11 star:0.0k fork:0.0k Server for remote access to National Instruments DAQ devices
+- [ARM-software/daq-server](https://github.com/ARM-software/daq-server) pushed_at:2021-07 star:0.0k fork:0.0k Server for remote access to National Instruments DAQ devices
 - [ARM-software/devlib](https://github.com/ARM-software/devlib) pushed_at:2021-07 star:0.0k fork:0.1k Library for interaction with and instrumentation of remote devices.
 - [ARM-software/LLVM-embedded-toolchain-for-Arm](https://github.com/ARM-software/LLVM-embedded-toolchain-for-Arm) pushed_at:2021-07 star:0.0k fork:0.0k A project dedicated to build LLVM toolchain for 32-bit Arm embedded targets.
 - [ARM-software/mram_simulation_framework](https://github.com/ARM-software/mram_simulation_framework) pushed_at:2021-06 star:0.0k fork:0.0k MRAM magnetization simulation framework. s-LLGS python and verilog-a solvers for transients simulation and  Fokker-planck equation solver for stochastic analysis

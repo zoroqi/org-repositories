@@ -63,7 +63,7 @@
 - [oracle/qemu](https://github.com/oracle/qemu) pushed_at:2021-07 star:0.0k fork:0.0k QEMU git Oracle repository
 - [oracle/rdma-core](https://github.com/oracle/rdma-core) pushed_at:2020-11 star:0.0k fork:0.0k RDMA core userspace libraries and daemons
 - [oracle/rds-tools](https://github.com/oracle/rds-tools) pushed_at:2020-11 star:0.0k fork:0.0k Reliable Datagram Sockets Tools -  rds-ping, rds-info, rds-stress
-- [oracle/rwloadsim](https://github.com/oracle/rwloadsim) pushed_at:2021-06 star:0.0k fork:0.0k RWP*Load Simulator - your tool for scripting, simulation and much more. Like having a bit of bash and SQL, a nip of C or Java, a dash of awk, a grain of sed plus drops of secret sauce in one single tool.  See https://blogs.oracle.com/database/rwploadsim-oracle-db-performance-simluator for the announcement on the Oracle database blog.
+- [oracle/rwloadsim](https://github.com/oracle/rwloadsim) pushed_at:2021-07 star:0.0k fork:0.0k RWP*Load Simulator - your tool for scripting, simulation and much more. Like having a bit of bash and SQL, a nip of C or Java, a dash of awk, a grain of sed plus drops of secret sauce in one single tool.  See https://blogs.oracle.com/database/rwploadsim-oracle-db-performance-simluator for the announcement on the Oracle database blog.
 - [oracle/solaris-userland](https://github.com/oracle/solaris-userland) pushed_at:2021-07 star:0.1k fork:0.1k Open Source software in Solaris using gmake based build system to drive building various software components.
 - [oracle/solaris-xorg](https://github.com/oracle/solaris-xorg) pushed_at:2018-03 star:0.0k fork:0.0k Solaris X consolidation project
 
@@ -107,7 +107,7 @@
 - [oracle/mysql-operator](https://github.com/oracle/mysql-operator) pushed_at:2021-05 star:0.9k fork:0.2k Create, operate and scale self-healing MySQL clusters in Kubernetes
 - [oracle/navarkos](https://github.com/oracle/navarkos) pushed_at:2017-12 star:0.0k fork:0.0k Enables a Kubernetes federation to automatically manage multi-cluster infrastructure
 - [oracle/nosql-go-sdk](https://github.com/oracle/nosql-go-sdk) pushed_at:2021-07 star:0.0k fork:0.0k SDK for Go for Oracle NoSQL Database
-- [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) pushed_at:2021-02 star:0.1k fork:0.0k Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastucture
+- [oracle/oci-cloud-controller-manager](https://github.com/oracle/oci-cloud-controller-manager) pushed_at:2021-07 star:0.1k fork:0.0k Kubernetes Cloud Controller Manager implementation for Oracle Cloud Infrastucture
 - [oracle/oci-flexvolume-driver](https://github.com/oracle/oci-flexvolume-driver) pushed_at:2020-06 star:0.0k fork:0.0k A Kubernetes volume driver for Oracle Cloud Infrastructure
 - [oracle/oci-go-sdk](https://github.com/oracle/oci-go-sdk) pushed_at:2021-07 star:0.1k fork:0.1k Go SDK for Oracle Cloud Infrastructure 
 - [oracle/oci-manager](https://github.com/oracle/oci-manager) pushed_at:2018-12 star:0.0k fork:0.0k Collection of Kubernetes controllers for autonomous management of Oracle Cloud Infrastucture resources
@@ -164,7 +164,7 @@
 - [oracle/cloudnative](https://github.com/oracle/cloudnative) pushed_at:2019-05 star:0.0k fork:0.0k Oracle Cloud Native Labs produces technical content to enable end users get started on their cloud native journey.
 - [oracle/coherence](https://github.com/oracle/coherence) pushed_at:2021-07 star:0.3k fork:0.0k Oracle Coherence Community Edition
 - [oracle/coherence-eclipse-plugin](https://github.com/oracle/coherence-eclipse-plugin) pushed_at:2021-07 star:0.0k fork:0.0k The Coherence Eclipse Plugin provides various features to help developer productivity when working with Coherence.
-- [oracle/coherence-helidon-sockshop-sample](https://github.com/oracle/coherence-helidon-sockshop-sample) pushed_at:2021-05 star:0.0k fork:0.0k Coherence Helidon Sockshop Demo
+- [oracle/coherence-helidon-sockshop-sample](https://github.com/oracle/coherence-helidon-sockshop-sample) pushed_at:2021-07 star:0.0k fork:0.0k Coherence Helidon Sockshop Demo
 - [oracle/coherence-idea-plugin](https://github.com/oracle/coherence-idea-plugin) pushed_at:2021-02 star:0.0k fork:0.0k This plugin adds features to IntelliJ to assist in development of applications using Oracle Coherence.
 - [oracle/coherence-visualvm](https://github.com/oracle/coherence-visualvm) pushed_at:2021-07 star:0.0k fork:0.0k The Coherence-VisualVM Plugin provides management and monitoring of a single Coherence cluster using the VisualVM management utility.
 - [oracle/cordova-plugin-oracle-idm-auth](https://github.com/oracle/cordova-plugin-oracle-idm-auth) pushed_at:2020-10 star:0.0k fork:0.0k Cordova Plugin for Oracle IDM Auth
@@ -182,7 +182,7 @@
 - [oracle/oci-compute-classic-jenkins-plugin](https://github.com/oracle/oci-compute-classic-jenkins-plugin) pushed_at:2018-01 star:0.0k fork:0.0k Jenkins Plugin for Oracle Cloud Infrastructure (Compute Classic) 
 - [oracle/oci-compute-jenkins-plugin](https://github.com/oracle/oci-compute-jenkins-plugin) pushed_at:2021-06 star:0.0k fork:0.0k Jenkins Plugin for Oracle Cloud Infrastructure (Compute)
 - [oracle/oci-devops-jenkins-plugin](https://github.com/oracle/oci-devops-jenkins-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Jenkins Plugin for Oracle Cloud Infrastructure Devops
-- [oracle/oci-hdfs-connector](https://github.com/oracle/oci-hdfs-connector) pushed_at:2021-06 star:0.0k fork:0.0k HDFS Connector for Oracle Cloud Infrastructure
+- [oracle/oci-hdfs-connector](https://github.com/oracle/oci-hdfs-connector) pushed_at:2021-07 star:0.0k fork:0.0k HDFS Connector for Oracle Cloud Infrastructure
 - [oracle/oci-java-sdk](https://github.com/oracle/oci-java-sdk) pushed_at:2021-07 star:0.1k fork:0.1k Oracle Cloud Infrastructure SDK for Java
 - [oracle/oci-react-samples](https://github.com/oracle/oci-react-samples) pushed_at:2021-05 star:0.0k fork:0.0k A series of simple Cloud Native app using React JS frontend, various backends (Java, Python, DotNet) and the Autonomous database. 
 - [oracle/oci-service-broker](https://github.com/oracle/oci-service-broker) pushed_at:2021-06 star:0.0k fork:0.0k Oracle Cloud Infrastructure Service Broker is an open source implementation of Open service broker API Spec for OCI services. Customers can use this implementation to install Open Service Broker in Oracle Container Engine for Kubernetes or in other Kubernetes clusters.
@@ -190,7 +190,7 @@
 - [oracle/okafka](https://github.com/oracle/okafka) pushed_at:2020-04 star:0.0k fork:0.0k Kafka Java Client for Oracle Transactional Event Queues
 - [oracle/olcut](https://github.com/oracle/olcut) pushed_at:2021-07 star:0.0k fork:0.0k A Java configuration, shell, and general utility toolkit
 - [oracle/opengrok](https://github.com/oracle/opengrok) pushed_at:2021-07 star:3.3k fork:0.6k OpenGrok is a fast and usable source code search and cross reference engine, written in Java
-- [oracle/oracle-dataflow-samples](https://github.com/oracle/oracle-dataflow-samples) pushed_at:2021-06 star:0.0k fork:0.0k Sample examples Examples demonstrating how to use OCI  Data Flow
+- [oracle/oracle-dataflow-samples](https://github.com/oracle/oracle-dataflow-samples) pushed_at:2021-07 star:0.0k fork:0.0k Sample examples Examples demonstrating how to use OCI  Data Flow
 - [oracle/oracle-db-examples](https://github.com/oracle/oracle-db-examples) pushed_at:2021-07 star:0.9k fork:0.6k Examples of applications and tool usage for Oracle Database
 - [oracle/oracle-r2dbc](https://github.com/oracle/oracle-r2dbc) pushed_at:2021-07 star:0.1k fork:0.0k R2DBC Driver for Oracle Database
 - [oracle/osb-kafka-transport](https://github.com/oracle/osb-kafka-transport) pushed_at:2017-03 star:0.0k fork:0.0k OSB Transport for Apache Kafka provides inbound and outbound connectivity with Kafka Clusters.
@@ -280,7 +280,7 @@
 - [oracle/linux-blog-sample-code](https://github.com/oracle/linux-blog-sample-code) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [oracle/linux-uek](https://github.com/oracle/linux-uek) pushed_at:2021-07 star:0.2k fork:0.0k Oracle Linux UEK: Unbreakable Enterprise Kernel
 - [oracle/netsuite-commerce](https://github.com/oracle/netsuite-commerce) pushed_at:2021-03 star:0.0k fork:0.0k netsuite-commerce is a repository of code samples for NetSuite SuiteCommerce and SuiteCommerce Advanced.
-- [oracle/oracle-functions-samples](https://github.com/oracle/oracle-functions-samples) pushed_at:2021-07 star:0.0k fork:0.0k Examples demonstrating how to use Oracle Functions
+- [oracle/oracle-functions-samples](https://github.com/oracle/oracle-functions-samples) pushed_at:2021-07 star:0.1k fork:0.0k Examples demonstrating how to use Oracle Functions
 - [oracle/oraclejet](https://github.com/oracle/oraclejet) pushed_at:2021-07 star:0.4k fork:0.1k Oracle JET is a modular JavaScript Extension Toolkit for developers working on client-side applications.
 - [oracle/puppet-samples](https://github.com/oracle/puppet-samples) pushed_at:2016-11 star:0.0k fork:0.0k Index of Puppet Samples, Modules, and Providers for Oracle Products published on GitHub
 - [oracle/shim-review](https://github.com/oracle/shim-review) pushed_at:2021-03 star:0.0k fork:0.0k Reviews of shim
@@ -367,7 +367,7 @@
 - [oracle/docker-images](https://github.com/oracle/docker-images) pushed_at:2021-07 star:4.8k fork:4.5k Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
 - [oracle/docker-library-docs](https://github.com/oracle/docker-library-docs) pushed_at:2020-10 star:0.0k fork:0.0k Documentation for Docker Official Images in docker-library
 - [oracle/fmw-kubernetes](https://github.com/oracle/fmw-kubernetes) pushed_at:2021-07 star:0.0k fork:0.0k Kubernetes Deployment Scripts for Oracle Fusion Middleware products
-- [oracle/ktf](https://github.com/oracle/ktf) pushed_at:2021-03 star:0.1k fork:0.0k Kernel Test Framework - a unit test framework for the Linux kernel
+- [oracle/ktf](https://github.com/oracle/ktf) pushed_at:2021-07 star:0.1k fork:0.0k Kernel Test Framework - a unit test framework for the Linux kernel
 - [oracle/kubernetes-kubespray](https://github.com/oracle/kubernetes-kubespray) pushed_at:2019-07 star:0.0k fork:0.0k Setup a kubernetes cluster
 - [oracle/oracle-linux](https://github.com/oracle/oracle-linux) pushed_at:2021-06 star:0.0k fork:0.0k Scripts, examples, and tutorials to get started with Oracle Linux
 - [oracle/vagrant-projects](https://github.com/oracle/vagrant-projects) pushed_at:2021-06 star:0.7k fork:0.4k Vagrant projects for Oracle products and other examples
