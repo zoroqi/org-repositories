@@ -77,7 +77,7 @@
 - [apachecn/think-comp-2e-zh](https://github.com/apachecn/think-comp-2e-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] 复杂性思维 中文第二版
 - [apachecn/think-dast-zh](https://github.com/apachecn/think-dast-zh) pushed_at:2021-01 star:0.0k fork:0.0k :book: [译] 数据结构思维中文版
 - [apachecn/think-os-zh](https://github.com/apachecn/think-os-zh) pushed_at:2020-09 star:0.0k fork:0.0k 
-- [apachecn/thinking-in-java-zh](https://github.com/apachecn/thinking-in-java-zh) pushed_at:2021-04 star:0.4k fork:0.1k :book: Java 编程思想
+- [apachecn/thinking-in-java-zh](https://github.com/apachecn/thinking-in-java-zh) pushed_at:2021-04 star:0.4k fork:0.2k :book: Java 编程思想
 - [apachecn/ucsd-cogs108-notes](https://github.com/apachecn/ucsd-cogs108-notes) pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] UCSD COGS108 数据科学实战中文笔记
 - [apachecn/usf-msds501-notes-zh](https://github.com/apachecn/usf-msds501-notes-zh) pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] USF MSDS501 中文讲义
 - [apachecn/web-music](https://github.com/apachecn/web-music) pushed_at:2019-06 star:0.0k fork:0.0k 一个简单的音乐播放器，播放周杰伦的歌曲
@@ -114,7 +114,7 @@
 - [apachecn/apachecn-c-cpp-zh](https://github.com/apachecn/apachecn-c-cpp-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN C/C++ 译文集
 - [apachecn/apachecn-cs-zh](https://github.com/apachecn/apachecn-cs-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN 计算机科学译文集
 - [apachecn/apachecn-cv-zh](https://github.com/apachecn/apachecn-cv-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN CV 译文集
-- [apachecn/apachecn-dl-zh](https://github.com/apachecn/apachecn-dl-zh) pushed_at:2021-06 star:0.3k fork:0.1k ApacheCN 深度学习译文集
+- [apachecn/apachecn-dl-zh](https://github.com/apachecn/apachecn-dl-zh) pushed_at:2021-07 star:0.3k fork:0.1k ApacheCN 深度学习译文集
 - [apachecn/apachecn-ds-zh](https://github.com/apachecn/apachecn-ds-zh) pushed_at:2021-05 star:0.2k fork:0.0k :book: [译] ApacheCN 数据科学译文集
 - [apachecn/apachecn-java-zh](https://github.com/apachecn/apachecn-java-zh) pushed_at:2021-07 star:0.0k fork:0.0k :books: [译] ApacheCN Java 译文集
 - [apachecn/apachecn-js-zh](https://github.com/apachecn/apachecn-js-zh) pushed_at:2021-05 star:0.0k fork:0.0k 
@@ -349,7 +349,7 @@
 
 ## Python
 
-- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-05 star:30.5k fork:10.2k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-05 star:30.6k fork:10.2k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [apachecn/awesome-data-comp-solution](https://github.com/apachecn/awesome-data-comp-solution) pushed_at:2020-09 star:0.5k fork:0.1k 数据科学/人工智能比赛解决方案汇总
 - [apachecn/BiliDriveEx](https://github.com/apachecn/BiliDriveEx) pushed_at:2020-03 star:0.1k fork:0.0k :cloud: 已停更，请访问 CDNDrive：
 - [apachecn/BookerTrans](https://github.com/apachecn/BookerTrans) pushed_at:2021-04 star:0.0k fork:0.0k 用于 iBooker/ApacheCN 翻译项目的 HTML 谷歌翻译工具
@@ -359,13 +359,13 @@
 - [apachecn/hudi-doc-zh](https://github.com/apachecn/hudi-doc-zh) pushed_at:2020-01 star:0.0k fork:0.0k hudi 中文文档
 - [apachecn/imgyaso](https://github.com/apachecn/imgyaso) pushed_at:2021-07 star:0.0k fork:0.0k 提供多种图像处理工具，包括自适应二值化，灰度网格仿色，扩散仿色，和颜色缩减。
 - [apachecn/Middleware](https://github.com/apachecn/Middleware) pushed_at:2020-03 star:0.0k fork:0.0k 中间件 - 日常小工具
-- [apachecn/python_data_analysis_and_mining_action](https://github.com/apachecn/python_data_analysis_and_mining_action) pushed_at:2020-08 star:1.1k fork:0.5k 《python数据分析与挖掘实战》的代码笔记
+- [apachecn/python_data_analysis_and_mining_action](https://github.com/apachecn/python_data_analysis_and_mining_action) pushed_at:2020-08 star:1.1k fork:0.6k 《python数据分析与挖掘实战》的代码笔记
 - [apachecn/RecommenderSystems](https://github.com/apachecn/RecommenderSystems) pushed_at:2019-04 star:0.6k fork:0.2k 推荐系统
 - [apachecn/weibo-bot](https://github.com/apachecn/weibo-bot) pushed_at:2019-01 star:0.0k fork:0.0k 自用微博机器人
 
 ## Shell
 
-- [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) pushed_at:2021-01 star:1.8k fork:0.5k ApacheCN AI 路线图（知识树）
+- [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) pushed_at:2021-01 star:1.9k fork:0.5k ApacheCN AI 路线图（知识树）
 - [apachecn/awesome-article-recomm](https://github.com/apachecn/awesome-article-recomm) pushed_at:2020-09 star:0.1k fork:0.0k 优质博文推荐计划
 - [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh) pushed_at:2020-09 star:0.4k fork:0.1k 计算机公开课推荐
 - [apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh) pushed_at:2020-09 star:0.6k fork:0.1k 独立开发/自由职业/远程工作资源列表

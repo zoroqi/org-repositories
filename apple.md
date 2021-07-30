@@ -32,7 +32,7 @@
 - [apple/swift-cmark](https://github.com/apple/swift-cmark) pushed_at:2021-07 star:0.2k fork:0.0k CommonMark parsing and rendering library and program in C
 - [apple/swift-compiler-rt](https://github.com/apple/swift-compiler-rt) pushed_at:2019-10 star:0.1k fork:0.1k 
 - [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) pushed_at:2021-07 star:2.1k fork:0.4k The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
-- [apple/swift-crypto](https://github.com/apple/swift-crypto) pushed_at:2021-06 star:1.1k fork:0.1k Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
+- [apple/swift-crypto](https://github.com/apple/swift-crypto) pushed_at:2021-07 star:1.1k fork:0.1k Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
 - [apple/swift-nio-ssl](https://github.com/apple/swift-nio-ssl) pushed_at:2021-07 star:0.3k fork:0.1k TLS Support for SwiftNIO, based on BoringSSL.
 
 ## C++
@@ -44,13 +44,13 @@
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) pushed_at:2021-07 star:0.2k fork:0.0k Index database library for use with sourcekit-lsp
 - [apple/llvm-project-v5](https://github.com/apple/llvm-project-v5) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project-v5-split](https://github.com/apple/llvm-project-v5-split) pushed_at:2019-10 star:0.0k fork:0.0k 
-- [apple/swift](https://github.com/apple/swift) pushed_at:2021-07 star:56.6k fork:9.1k The Swift Programming Language
+- [apple/swift](https://github.com/apple/swift) pushed_at:2021-07 star:56.7k fork:9.1k The Swift Programming Language
 - [apple/swift-clang](https://github.com/apple/swift-clang) pushed_at:2019-11 star:0.7k fork:0.2k 
 - [apple/swift-clang-tools-extra](https://github.com/apple/swift-clang-tools-extra) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [apple/swift-libcxx](https://github.com/apple/swift-libcxx) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/swift-llbuild](https://github.com/apple/swift-llbuild) pushed_at:2021-07 star:0.9k fork:0.2k A low-level build system, used by Xcode and the Swift Package Manager
 - [apple/swift-lldb](https://github.com/apple/swift-lldb) pushed_at:2020-01 star:0.7k fork:0.2k This is the version of LLDB that supports the Swift programming language & REPL.
-- [apple/turicreate](https://github.com/apple/turicreate) pushed_at:2021-06 star:10.3k fork:1.1k Turi Create simplifies the development of custom machine learning models.
+- [apple/turicreate](https://github.com/apple/turicreate) pushed_at:2021-06 star:10.4k fork:1.1k Turi Create simplifies the development of custom machine learning models.
 
 ## Dockerfile
 
@@ -161,7 +161,7 @@
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) pushed_at:2021-07 star:4.3k fork:1.0k The Foundation Project, providing core utilities, internationalization, and OS independence
 - [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) pushed_at:2021-07 star:0.9k fork:0.2k The XCTest Project, A Swift core library for providing unit test support
 - [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) pushed_at:2021-04 star:0.1k fork:0.0k Instrumentation library for Swift server applications
-- [apple/swift-distributed-tracing-baggage](https://github.com/apple/swift-distributed-tracing-baggage) pushed_at:2021-04 star:0.0k fork:0.0k Minimal context propagation container with Logging
+- [apple/swift-distributed-tracing-baggage](https://github.com/apple/swift-distributed-tracing-baggage) pushed_at:2021-07 star:0.0k fork:0.0k Minimal context propagation container with Logging
 - [apple/swift-distributed-tracing-baggage-core](https://github.com/apple/swift-distributed-tracing-baggage-core) pushed_at:2021-05 star:0.0k fork:0.0k Minimal context propagation container
 - [apple/swift-driver](https://github.com/apple/swift-driver) pushed_at:2021-07 star:0.6k fork:0.1k Swift compiler driver reimplementation in Swift
 - [apple/swift-evolution-staging](https://github.com/apple/swift-evolution-staging) pushed_at:2021-05 star:0.0k fork:0.0k 
@@ -169,9 +169,9 @@
 - [apple/swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) pushed_at:2021-07 star:0.1k fork:0.0k A Swift implementation of the HTTP Structured Header Field specification.
 - [apple/swift-llbuild2](https://github.com/apple/swift-llbuild2) pushed_at:2021-07 star:0.2k fork:0.0k A fresh take on a low-level build system API.
 - [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2021-07 star:2.5k fork:0.2k A Logging API for Swift
-- [apple/swift-metrics](https://github.com/apple/swift-metrics) pushed_at:2021-06 star:0.5k fork:0.0k A Metrics API for Swift
+- [apple/swift-metrics](https://github.com/apple/swift-metrics) pushed_at:2021-07 star:0.5k fork:0.0k A Metrics API for Swift
 - [apple/swift-nio](https://github.com/apple/swift-nio) pushed_at:2021-07 star:6.6k fork:0.5k Event-driven network application framework for high performance protocol servers & clients, non-blocking.
-- [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) pushed_at:2021-01 star:0.2k fork:0.0k examples of how to use swift-nio
+- [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) pushed_at:2021-07 star:0.2k fork:0.0k examples of how to use swift-nio
 - [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) pushed_at:2021-06 star:0.1k fork:0.1k Useful code around SwiftNIO.
 - [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) pushed_at:2021-07 star:0.4k fork:0.0k HTTP/2 support for SwiftNIO
 - [apple/swift-nio-nghttp2-support](https://github.com/apple/swift-nio-nghttp2-support) pushed_at:2020-12 star:0.0k fork:0.0k 

@@ -17,13 +17,13 @@
 - [HCL](#hcl) (1)
 - [HTML](#html) (7)
 - [Java](#java) (3)
-- [JavaScript](#javascript) (83)
+- [JavaScript](#javascript) (84)
 - [Jupyter Notebook](#jupyter-notebook) (1)
 - [Kotlin](#kotlin) (1)
 - [Lua](#lua) (7)
 - [M4](#m4) (2)
 - [Makefile](#makefile) (3)
-- [Others](#others) (24)
+- [Others](#others) (23)
 - [PHP](#php) (8)
 - [Perl](#perl) (3)
 - [Protocol Buffer](#protocol-buffer) (1)
@@ -115,13 +115,13 @@
 - [cloudflare/cbpfc](https://github.com/cloudflare/cbpfc) pushed_at:2021-04 star:0.1k fork:0.0k cBPF to C or eBPF compiler
 - [cloudflare/certinel](https://github.com/cloudflare/certinel) pushed_at:2021-07 star:0.0k fork:0.0k A sentry for zero-hit TLS certificate changes in Go
 - [cloudflare/certmgr](https://github.com/cloudflare/certmgr) pushed_at:2020-07 star:0.2k fork:0.0k Automated certificate management using a CFSSL CA.
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) pushed_at:2021-07 star:0.3k fork:0.1k 
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) pushed_at:2021-07 star:0.4k fork:0.1k 
 - [cloudflare/cf-tls](https://github.com/cloudflare/cf-tls) pushed_at:2019-04 star:0.0k fork:0.0k A duplicate of Go's crypto/tls, with additional helper functions
-- [cloudflare/cf_benchmark](https://github.com/cloudflare/cf_benchmark) pushed_at:2020-08 star:0.0k fork:0.0k 
+- [cloudflare/cf_benchmark](https://github.com/cloudflare/cf_benchmark) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [cloudflare/cfdeploy](https://github.com/cloudflare/cfdeploy) pushed_at:2018-12 star:0.0k fork:0.0k Cloudflare Deployment Tool
 - [cloudflare/cfrpki](https://github.com/cloudflare/cfrpki) pushed_at:2021-05 star:0.1k fork:0.0k Cloudflare's RPKI Toolbox
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) pushed_at:2021-07 star:6.2k fork:0.9k CFSSL: Cloudflare's PKI and TLS toolkit
-- [cloudflare/cfssl_trust](https://github.com/cloudflare/cfssl_trust) pushed_at:2021-06 star:0.2k fork:0.0k CFSSL's CA trust store repository
+- [cloudflare/cfssl_trust](https://github.com/cloudflare/cfssl_trust) pushed_at:2021-07 star:0.2k fork:0.0k CFSSL's CA trust store repository
 - [cloudflare/circl](https://github.com/cloudflare/circl) pushed_at:2021-07 star:0.5k fork:0.0k CIRCL: Cloudflare Interoperable Reusable Cryptographic Library
 - [cloudflare/clair](https://github.com/cloudflare/clair) pushed_at:2016-06 star:0.0k fork:0.0k Vulnerability Static Analysis for Containers
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) pushed_at:2021-07 star:0.6k fork:0.3k Go library for the Cloudflare v4 API
@@ -134,7 +134,7 @@
 - [cloudflare/ct-log](https://github.com/cloudflare/ct-log) pushed_at:2019-07 star:0.0k fork:0.0k A low-cost Certificate Transparency log for deployment in the cloud.
 - [cloudflare/dns](https://github.com/cloudflare/dns) pushed_at:2018-01 star:0.1k fork:0.0k Clone of https://github.com/miekg/dns
 - [cloudflare/docker](https://github.com/cloudflare/docker) pushed_at:2016-08 star:0.0k fork:0.0k Docker - the open-source application container engine
-- [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) pushed_at:2021-07 star:0.9k fork:0.1k  Prometheus exporter for custom eBPF metrics
+- [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) pushed_at:2021-07 star:1.0k fork:0.1k  Prometheus exporter for custom eBPF metrics
 - [cloudflare/fgbgp](https://github.com/cloudflare/fgbgp) pushed_at:2020-12 star:0.0k fork:0.0k 
 - [cloudflare/flow-pipeline](https://github.com/cloudflare/flow-pipeline) pushed_at:2021-06 star:0.1k fork:0.0k A set of tools and examples to run a flow-pipeline (sFlow, NetFlow)
 - [cloudflare/fourq](https://github.com/cloudflare/fourq) pushed_at:2017-04 star:0.0k fork:0.0k Package fourq implements FourQ, a high-speed elliptic curve at the 128-bit security level.
@@ -229,7 +229,7 @@
 - [cloudflare/cloudflare-docs-engine](https://github.com/cloudflare/cloudflare-docs-engine) pushed_at:2021-07 star:0.2k fork:0.1k A documentation engine built on Gatsby, powering Cloudflare’s docs https://github.com/cloudflare/cloudflare-docs
 - [cloudflare/cloudflare-gcp](https://github.com/cloudflare/cloudflare-gcp) pushed_at:2021-07 star:0.1k fork:0.0k Google Cloud Function to push json files from GC Storage to Big Query
 - [cloudflare/cloudflare-grafana-app](https://github.com/cloudflare/cloudflare-grafana-app) pushed_at:2021-05 star:0.0k fork:0.0k Cloudflare Grafana App allows for the collection and graphing of Cloudflare analytics data over time.
-- [cloudflare/cloudflare-plugin-frontend](https://github.com/cloudflare/cloudflare-plugin-frontend) pushed_at:2021-05 star:0.0k fork:0.0k A React/Redux front-end for Cloudflare's WordPress, Magento2, and cPanel plugins.
+- [cloudflare/cloudflare-plugin-frontend](https://github.com/cloudflare/cloudflare-plugin-frontend) pushed_at:2021-07 star:0.0k fork:0.0k A React/Redux front-end for Cloudflare's WordPress, Magento2, and cPanel plugins.
 - [cloudflare/cloudflare.design](https://github.com/cloudflare/cloudflare.design) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [cloudflare/cobol-worker-template](https://github.com/cloudflare/cobol-worker-template) pushed_at:2021-04 star:0.0k fork:0.0k A Cloudflare worker that runs COBOL.
 - [cloudflare/collapsify](https://github.com/cloudflare/collapsify) pushed_at:2021-06 star:0.1k fork:0.0k Collapsify inlines all the resources of a page into a single document
@@ -261,7 +261,7 @@
 - [cloudflare/modules-webpack-commonjs](https://github.com/cloudflare/modules-webpack-commonjs) pushed_at:2021-07 star:0.0k fork:0.0k Template for modules, webpack, commonjs
 - [cloudflare/netjet](https://github.com/cloudflare/netjet) pushed_at:2021-05 star:0.1k fork:0.0k Express middleware to generate preload headers
 - [cloudflare/ng-showdown](https://github.com/cloudflare/ng-showdown) pushed_at:2017-06 star:0.0k fork:0.0k Angular integration for Showdown
-- [cloudflare/node-cloudflare](https://github.com/cloudflare/node-cloudflare) pushed_at:2021-05 star:0.2k fork:0.1k Node.js API for Client API
+- [cloudflare/node-cloudflare](https://github.com/cloudflare/node-cloudflare) pushed_at:2021-07 star:0.2k fork:0.1k Node.js API for Client API
 - [cloudflare/postgrest-worker-example](https://github.com/cloudflare/postgrest-worker-example) pushed_at:2021-06 star:0.0k fork:0.0k Example Workers function for interfacing with a PostgreSQL database, using PostgREST
 - [cloudflare/python-worker-hello-world](https://github.com/cloudflare/python-worker-hello-world) pushed_at:2021-01 star:0.1k fork:0.0k Python hello world for Cloudflare Workers
 - [cloudflare/random-employee-chat](https://github.com/cloudflare/random-employee-chat) pushed_at:2021-03 star:0.0k fork:0.0k 
@@ -270,6 +270,7 @@
 - [cloudflare/react-workers-template](https://github.com/cloudflare/react-workers-template) pushed_at:2019-09 star:0.0k fork:0.0k Example project showing how to deploy your React application to Cloudflare Workers Sites
 - [cloudflare/redox](https://github.com/cloudflare/redox) pushed_at:2014-10 star:0.0k fork:0.0k 
 - [cloudflare/redux-grim](https://github.com/cloudflare/redux-grim) pushed_at:2019-12 star:0.0k fork:0.0k 
+- [cloudflare/research.cloudflare.com](https://github.com/cloudflare/research.cloudflare.com) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [cloudflare/securitytxt-worker](https://github.com/cloudflare/securitytxt-worker) pushed_at:2020-04 star:0.0k fork:0.0k The worker that serves Cloudflare's security.txt!
 - [cloudflare/serverless-cloudflare-workers](https://github.com/cloudflare/serverless-cloudflare-workers) pushed_at:2021-06 star:0.1k fork:0.0k Serverless provider plugin for Cloudflare Workers
 - [cloudflare/service-worker-custom-build](https://github.com/cloudflare/service-worker-custom-build) pushed_at:2021-04 star:0.0k fork:0.0k Template for webpack-based custom build of a service worker
@@ -288,10 +289,10 @@
 - [cloudflare/worker-template-static](https://github.com/cloudflare/worker-template-static) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [cloudflare/workers-airtable-form](https://github.com/cloudflare/workers-airtable-form) pushed_at:2021-06 star:0.0k fork:0.0k Example codebase showing how to handle form data using Cloudflare Workers serverless functions - sending the data to Airtable
 - [cloudflare/workers-aws-template](https://github.com/cloudflare/workers-aws-template) pushed_at:2021-04 star:0.1k fork:0.0k Cloudflare Workers template for accessing AWS services such as DynamoDB and SQS
-- [cloudflare/workers-chat-demo](https://github.com/cloudflare/workers-chat-demo) pushed_at:2021-05 star:0.3k fork:0.0k 
+- [cloudflare/workers-chat-demo](https://github.com/cloudflare/workers-chat-demo) pushed_at:2021-05 star:0.3k fork:0.1k 
 - [cloudflare/workers-google-analytics](https://github.com/cloudflare/workers-google-analytics) pushed_at:2020-10 star:0.0k fork:0.0k Middleware for Google Analytics tracking in Workers
 - [cloudflare/workers-graphql-gateway-example](https://github.com/cloudflare/workers-graphql-gateway-example) pushed_at:2021-05 star:0.1k fork:0.0k GraphQL running on Cloudflare Workers
-- [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) pushed_at:2021-05 star:0.3k fork:0.1k 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
+- [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) pushed_at:2021-07 star:0.3k fork:0.1k 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
 - [cloudflare/workers-react-pwa-example](https://github.com/cloudflare/workers-react-pwa-example) pushed_at:2021-05 star:0.1k fork:0.0k 
 - [cloudflare/workers-webpack-example](https://github.com/cloudflare/workers-webpack-example) pushed_at:2018-08 star:0.0k fork:0.0k An example of building a Cloudflare Worker with Webpack
 - [cloudflare/workers.cloudflare.com](https://github.com/cloudflare/workers.cloudflare.com) pushed_at:2021-07 star:0.1k fork:0.0k The Cloudflare Workers website.
@@ -347,7 +348,6 @@
 - [cloudflare/odoh-proxy-worker](https://github.com/cloudflare/odoh-proxy-worker) pushed_at:2020-10 star:0.0k fork:0.0k 
 - [cloudflare/openssl-deprecate-rc4](https://github.com/cloudflare/openssl-deprecate-rc4) pushed_at:2014-01 star:0.0k fork:0.0k Small patch for OpenSSL that deprecates the use of RC4
 - [cloudflare/postgres-postgrest-cloudflared-example](https://github.com/cloudflare/postgres-postgrest-cloudflared-example) pushed_at:2021-06 star:0.0k fork:0.0k Create a PostgreSQL database with a REST API, exposed to the internet securely with Cloudflare Tunnel
-- [cloudflare/research.cloudflare.com](https://github.com/cloudflare/research.cloudflare.com) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [cloudflare/sslconfig](https://github.com/cloudflare/sslconfig) pushed_at:2021-04 star:1.2k fork:0.1k Cloudflare's Internet facing SSL configuration
 - [cloudflare/worker-examples](https://github.com/cloudflare/worker-examples) pushed_at:2020-03 star:0.6k fork:0.1k Examples of Javascript you can run on Cloudflare’s worldwide network
 - [cloudflare/workers-docs](https://github.com/cloudflare/workers-docs) pushed_at:2020-10 star:0.1k fork:0.2k 🌥👷‍♀️ The documentation site for Cloudflare Workers
@@ -410,7 +410,7 @@
 
 ## Rust
 
-- [cloudflare/boring](https://github.com/cloudflare/boring) pushed_at:2021-06 star:0.1k fork:0.0k BoringSSL bindings for the Rust programming language.
+- [cloudflare/boring](https://github.com/cloudflare/boring) pushed_at:2021-07 star:0.1k fork:0.0k BoringSSL bindings for the Rust programming language.
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) pushed_at:2021-07 star:3.4k fork:0.2k Userspace WireGuard® Implementation in Rust
 - [cloudflare/cfnts](https://github.com/cloudflare/cfnts) pushed_at:2020-06 star:0.1k fork:0.0k Cloudflare's implementation of the NTS protocol written in Rust
 - [cloudflare/chrome-devtools-rs](https://github.com/cloudflare/chrome-devtools-rs) pushed_at:2021-07 star:0.0k fork:0.0k Rust library for the Chrome Devtools Protocol
@@ -420,7 +420,7 @@
 - [cloudflare/lazyhtml](https://github.com/cloudflare/lazyhtml) pushed_at:2019-12 star:0.1k fork:0.0k HTML5-compliant parser and serializer than enables building transformation pipeline in a pluggable manner
 - [cloudflare/matched-data-cli](https://github.com/cloudflare/matched-data-cli) pushed_at:2021-05 star:0.0k fork:0.0k Tool to interact with the firewall matched data feature.
 - [cloudflare/odoh-client-rs](https://github.com/cloudflare/odoh-client-rs) pushed_at:2021-06 star:0.0k fork:0.0k Oblivious DoH client application written in Rust
-- [cloudflare/odoh-rs](https://github.com/cloudflare/odoh-rs) pushed_at:2021-06 star:0.1k fork:0.0k Oblivious DoH library in Rust
+- [cloudflare/odoh-rs](https://github.com/cloudflare/odoh-rs) pushed_at:2021-07 star:0.1k fork:0.0k Oblivious DoH library in Rust
 - [cloudflare/psi_exporter](https://github.com/cloudflare/psi_exporter) pushed_at:2021-01 star:0.0k fork:0.0k Prometheus exporter for Pressure Stall Information (PSI) from Linux kernel.
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) pushed_at:2021-07 star:5.0k fork:0.3k 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [cloudflare/rust-binary-install](https://github.com/cloudflare/rust-binary-install) pushed_at:2020-11 star:0.0k fork:0.0k 
@@ -454,7 +454,7 @@
 
 ## Svelte
 
-- [cloudflare/workerskv.gui](https://github.com/cloudflare/workerskv.gui) pushed_at:2021-06 star:0.0k fork:0.0k (WIP) A cross-platform Desktop application for exploring Workers KV Namespace data
+- [cloudflare/workerskv.gui](https://github.com/cloudflare/workerskv.gui) pushed_at:2021-07 star:0.1k fork:0.0k (WIP) A cross-platform Desktop application for exploring Workers KV Namespace data
 
 ## TypeScript
 

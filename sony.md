@@ -8,14 +8,14 @@
 
 - [BitBake](#bitbake) (1)
 - [C](#c) (3)
-- [C++](#c++) (5)
+- [C++](#c++) (6)
 - [Cuda](#cuda) (1)
 - [Dart](#dart) (1)
 - [Go](#go) (4)
 - [HTML](#html) (1)
 - [Java](#java) (2)
 - [JavaScript](#javascript) (7)
-- [Others](#others) (2)
+- [Others](#others) (1)
 - [PHP](#php) (1)
 - [Python](#python) (7)
 - [TypeScript](#typescript) (2)
@@ -33,6 +33,7 @@
 ## C++
 
 - [sony/easyhttpcpp](https://github.com/sony/easyhttpcpp) pushed_at:2020-11 star:0.1k fork:0.0k A cross-platform HTTP client library with a focus on usability and speed
+- [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) pushed_at:2021-07 star:0.0k fork:0.0k Flutter plugins for embedded Linux (eLinux)
 - [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) pushed_at:2021-07 star:0.5k fork:0.0k Embedded Linux embedding for Flutter
 - [sony/nmos-cpp](https://github.com/sony/nmos-cpp) pushed_at:2021-07 star:0.1k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
 - [sony/node-win-usbdev](https://github.com/sony/node-win-usbdev) pushed_at:2018-02 star:0.0k fork:0.0k 
@@ -74,7 +75,6 @@
 
 ## Others
 
-- [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) pushed_at:2021-07 star:0.0k fork:0.0k Flutter plugins for embedded Linux (eLinux)
 - [sony/nnabla-doc](https://github.com/sony/nnabla-doc) pushed_at:2021-06 star:0.0k fork:0.0k 
 
 ## PHP

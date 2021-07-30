@@ -48,7 +48,7 @@
 - [github/lua-nginx-module](https://github.com/github/lua-nginx-module) pushed_at:2015-12 star:0.0k fork:0.0k Embed the Power of Lua into NGINX HTTP servers
 - [github/msysgit](https://github.com/github/msysgit) pushed_at:2019-08 star:0.0k fork:0.0k The version of msysGit that ships with GitHub for Windows
 - [github/nagios-plugins-github](https://github.com/github/nagios-plugins-github) pushed_at:2014-03 star:0.0k fork:0.0k 
-- [github/putty](https://github.com/github/putty) pushed_at:2020-09 star:0.2k fork:0.1k mirror of git://git.tartarus.org/simon/putty.git, used for client testing
+- [github/putty](https://github.com/github/putty) pushed_at:2020-09 star:0.1k fork:0.1k mirror of git://git.tartarus.org/simon/putty.git, used for client testing
 - [github/ssziparchive](https://github.com/github/ssziparchive) pushed_at:2015-02 star:0.0k fork:0.0k Utility class for zipping and unzipping files on iOS and Mac
 - [github/synsanity](https://github.com/github/synsanity) pushed_at:2018-06 star:0.4k fork:0.0k netfilter (iptables) target for high performance lockless SYN cookies for SYN flood mitigation
 - [github/testrepo](https://github.com/github/testrepo) pushed_at:2021-03 star:0.0k fork:0.0k DON'T DELETE THIS. USED FOR MONITORING AND WHATNOT.
@@ -85,7 +85,7 @@
 
 ## CodeQL
 
-- [github/codeql](https://github.com/github/codeql) pushed_at:2021-07 star:3.0k fork:0.6k CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise
+- [github/codeql](https://github.com/github/codeql) pushed_at:2021-07 star:3.0k fork:0.7k CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security (code scanning), LGTM.com, and LGTM Enterprise
 - [github/codeql-go](https://github.com/github/codeql-go) pushed_at:2021-07 star:0.3k fork:0.1k The CodeQL extractor and libraries for Go.
 - [github/vscode-codeql-starter](https://github.com/github/vscode-codeql-starter) pushed_at:2021-07 star:0.2k fork:0.1k Starter workspace to use with the CodeQL extension for Visual Studio Code.
 
@@ -108,7 +108,7 @@
 - [github/emissary](https://github.com/github/emissary) pushed_at:2020-10 star:0.0k fork:0.0k Envoy External Authorization API Bridge To SPIFFE Workload API 
 - [github/etcd-operator](https://github.com/github/etcd-operator) pushed_at:2017-05 star:0.0k fork:0.0k etcd operator creates/configures/manages etcd clusters atop Kubernetes
 - [github/fakeca](https://github.com/github/fakeca) pushed_at:2020-08 star:0.0k fork:0.0k Certificate authority fixtures for Go tests
-- [github/fiber-fragments](https://github.com/github/fiber-fragments) pushed_at:2021-07 star:0.0k fork:0.0k Fragments middleware for fiber that allows to build microservice frontends.
+- [github/fiber-fragments](https://github.com/github/fiber-fragments) pushed_at:2021-07 star:0.0k fork:0.0k :framed_picture: Fragments middleware for fiber :rocket: that enables to build microservice frontends.
 - [github/freno](https://github.com/github/freno) pushed_at:2021-07 star:0.5k fork:0.0k freno: cooperative, highly available throttler service
 - [github/gh-mysql-tools](https://github.com/github/gh-mysql-tools) pushed_at:2020-02 star:0.1k fork:0.0k General purpose MySQL tools by GitHub Engineering
 - [github/gh-ost](https://github.com/github/gh-ost) pushed_at:2021-07 star:9.1k fork:1.0k GitHub's Online Schema Migrations for MySQL
@@ -139,7 +139,7 @@
 - [github/sdr-code-camp](https://github.com/github/sdr-code-camp) pushed_at:2020-12 star:0.0k fork:0.0k learn you some code!
 - [github/Spoon-Knife](https://github.com/github/Spoon-Knife) pushed_at:2021-07 star:0.0k fork:0.1k This repo is for demonstration purposes only.
 - [github/template](https://github.com/github/template) pushed_at:2017-11 star:0.0k fork:0.0k Minimal polyfill for <template>
-- [github/training-kit](https://github.com/github/training-kit) pushed_at:2021-07 star:3.3k fork:4.2k Open source cheat sheets for Git and GitHub
+- [github/training-kit](https://github.com/github/training-kit) pushed_at:2021-07 star:3.3k fork:4.2k Open source courseware for Git and GitHub
 - [github/webcomponentsjs](https://github.com/github/webcomponentsjs) pushed_at:2019-10 star:0.0k fork:0.0k A suite of polyfills supporting the HTML Web Components specs
 - [github/welcome-to-github](https://github.com/github/welcome-to-github) pushed_at:2021-03 star:0.1k fork:0.2k 
 - [github/welcome-to-github-and-desktop](https://github.com/github/welcome-to-github-and-desktop) pushed_at:2020-04 star:0.0k fork:0.1k 
@@ -152,7 +152,7 @@
 ## Haskell
 
 - [github/deli](https://github.com/github/deli) pushed_at:2020-12 star:0.2k fork:0.0k 
-- [github/semantic](https://github.com/github/semantic) pushed_at:2021-06 star:8.1k fork:0.5k Parsing, analyzing, and comparing source code across many languages
+- [github/semantic](https://github.com/github/semantic) pushed_at:2021-07 star:8.1k fork:0.5k Parsing, analyzing, and comparing source code across many languages
 
 ## Java
 
@@ -188,13 +188,13 @@
 - [github/debug-repo](https://github.com/github/debug-repo) pushed_at:2017-07 star:0.0k fork:0.0k This is a debug repo for github-debug.com
 - [github/details-dialog-element](https://github.com/github/details-dialog-element) pushed_at:2021-03 star:0.7k fork:0.1k A modal dialog that's opened with <details>.
 - [github/details-menu-element](https://github.com/github/details-menu-element) pushed_at:2021-07 star:0.5k fork:0.0k A menu opened with <details>.
-- [github/docs](https://github.com/github/docs) pushed_at:2021-07 star:5.4k fork:21.5k The open-source repo for docs.github.com
+- [github/docs](https://github.com/github/docs) pushed_at:2021-07 star:5.5k fork:22.0k The open-source repo for docs.github.com
 - [github/enable-security-alerts-sample](https://github.com/github/enable-security-alerts-sample) pushed_at:2021-06 star:0.1k fork:0.0k This repository contains a sample script which can be used to enable security vulnerability alerts in all of the repositories in a given organization. 
 - [github/eslint-plugin-custom-elements](https://github.com/github/eslint-plugin-custom-elements) pushed_at:2021-07 star:0.0k fork:0.0k A series of lint rules for best practices with Custom Elements
 - [github/eslint-plugin-github](https://github.com/github/eslint-plugin-github) pushed_at:2021-07 star:0.1k fork:0.0k An opinionated collection of ESLint rules used by GitHub.
 - [github/eventlistener-polyfill](https://github.com/github/eventlistener-polyfill) pushed_at:2020-08 star:0.0k fork:0.0k Polyfills EventListener behaviours from IE11 onward
 - [github/faceup](https://github.com/github/faceup) pushed_at:2013-03 star:0.0k fork:0.0k More than just mustaches.
-- [github/fetch](https://github.com/github/fetch) pushed_at:2021-07 star:24.8k fork:3.0k A window.fetch JavaScript polyfill.
+- [github/fetch](https://github.com/github/fetch) pushed_at:2021-07 star:24.9k fork:3.0k A window.fetch JavaScript polyfill.
 - [github/form-data-entries](https://github.com/github/form-data-entries) pushed_at:2020-08 star:0.0k fork:0.0k FormData.entries ponyfill
 - [github/g-emoji-element](https://github.com/github/g-emoji-element) pushed_at:2021-07 star:0.1k fork:0.0k Backports native emoji characters to browsers that don't support them by replacing the characters with fallback images.
 - [github/game-o](https://github.com/github/game-o) pushed_at:2014-02 star:0.0k fork:0.0k O! a Cut.js game
@@ -205,7 +205,7 @@
 - [github/github-graphql-relay-example](https://github.com/github/github-graphql-relay-example) pushed_at:2021-06 star:0.1k fork:0.0k Example Relay Modern app using GitHub's GraphQL API
 - [github/hotkey](https://github.com/github/hotkey) pushed_at:2021-03 star:2.2k fork:0.1k Trigger an action on an element with a keyboard shortcut.
 - [github/hubot-mysql-datastore](https://github.com/github/hubot-mysql-datastore) pushed_at:2019-01 star:0.0k fork:0.0k MySQL-backed datastore for use with Hubot
-- [github/include-fragment-element](https://github.com/github/include-fragment-element) pushed_at:2021-03 star:0.4k fork:0.0k A client-side includes tag.
+- [github/include-fragment-element](https://github.com/github/include-fragment-element) pushed_at:2021-07 star:0.4k fork:0.0k A client-side includes tag.
 - [github/invisible-recaptcha-validator](https://github.com/github/invisible-recaptcha-validator) pushed_at:2019-01 star:0.0k fork:0.0k Simple Express Server for invisible reCaptcha server-side validation
 - [github/issue-labeler](https://github.com/github/issue-labeler) pushed_at:2021-06 star:0.1k fork:0.0k An action for automatically labelling issues
 - [github/jquery-hotkeys](https://github.com/github/jquery-hotkeys) pushed_at:2015-02 star:0.1k fork:0.0k jQuery hotkeys plugin.
@@ -216,7 +216,7 @@
 - [github/mlops](https://github.com/github/mlops) pushed_at:2021-07 star:0.0k fork:0.0k Use GitHub to facilitate automation, collaboration and reproducibility in your machine learning workflows.
 - [github/multimap](https://github.com/github/multimap) pushed_at:2020-07 star:0.0k fork:0.0k A map in which more than one value may be stored under each key.
 - [github/node-statsd](https://github.com/github/node-statsd) pushed_at:2015-02 star:0.0k fork:0.0k node.js client for Etsy'd StatsD server
-- [github/opensource.guide](https://github.com/github/opensource.guide) pushed_at:2021-07 star:8.6k fork:11.0k 📚 Community guides for open source creators
+- [github/opensource.guide](https://github.com/github/opensource.guide) pushed_at:2021-07 star:8.7k fork:11.1k 📚 Community guides for open source creators
 - [github/ossar-action](https://github.com/github/ossar-action) pushed_at:2021-04 star:0.1k fork:0.0k Run multiple open source security static analysis tools without the added complexity with OSSAR (Open Source Static Analysis Runner).
 - [github/plax](https://github.com/github/plax) pushed_at:2017-11 star:0.0k fork:0.0k JQuery powered parallaxing
 - [github/prettier-config](https://github.com/github/prettier-config) pushed_at:2020-03 star:0.0k fork:0.0k Prettier config used at GitHub
@@ -269,13 +269,13 @@
 - [github/covid-19-repo-data](https://github.com/github/covid-19-repo-data) pushed_at:2021-06 star:0.3k fork:0.2k Data archive of identifiable COVID-19 related public projects on GitHub 
 - [github/cvelist](https://github.com/github/cvelist) pushed_at:2021-07 star:0.0k fork:0.0k Pilot program for CVE submission through GitHub
 - [github/developer-policy](https://github.com/github/developer-policy) pushed_at:2021-06 star:0.0k fork:0.0k The GitHub Policy Team created and maintains this repository as a place for developers to contribute to our policy work.
-- [github/feedback](https://github.com/github/feedback) pushed_at:2021-07 star:0.3k fork:0.1k Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and general product feedback.
+- [github/feedback](https://github.com/github/feedback) pushed_at:2021-07 star:0.4k fork:0.1k Public feedback discussions for: GitHub Mobile, GitHub Discussions, GitHub Codespaces, GitHub Sponsors, GitHub Issues and general product feedback.
 - [github/game-off-2012](https://github.com/github/game-off-2012) pushed_at:2016-09 star:0.2k fork:1.4k The GitHub Game Off 2012 is a game jam / hackathon / coding challenge to create an open source a web-based game
 - [github/game-off-2013](https://github.com/github/game-off-2013) pushed_at:2019-10 star:0.1k fork:0.6k 
 - [github/game-off-2016](https://github.com/github/game-off-2016) pushed_at:2017-08 star:0.2k fork:0.4k GitHub's month-long game jam :video_game: November 2016
 - [github/GITHUB-ENTERPRISE-LICENSE-AGREEMENT](https://github.com/github/GITHUB-ENTERPRISE-LICENSE-AGREEMENT) pushed_at:2018-07 star:0.0k fork:0.0k GITHUB LICENSE AGREEMENT: PLEASE SIGN IN ALL CAPS
 - [github/githubOCTO](https://github.com/github/githubOCTO) pushed_at:2020-08 star:0.0k fork:0.0k 
-- [github/gitignore](https://github.com/github/gitignore) pushed_at:2021-07 star:121.2k fork:67.1k A collection of useful .gitignore templates
+- [github/gitignore](https://github.com/github/gitignore) pushed_at:2021-07 star:121.4k fork:67.3k A collection of useful .gitignore templates
 - [github/gov-takedowns](https://github.com/github/gov-takedowns) pushed_at:2021-07 star:2.3k fork:0.2k Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
 - [github/grocer](https://github.com/github/grocer) pushed_at:2014-09 star:0.0k fork:0.0k Pushing your Apple notifications since 2012.
 - [github/hackathons](https://github.com/github/hackathons) pushed_at:2021-07 star:0.0k fork:0.0k Tips, Tricks, and Resources for your hackathons.
@@ -286,7 +286,7 @@
 - [github/maturity-model](https://github.com/github/maturity-model) pushed_at:2016-05 star:0.1k fork:0.0k A maturity model for adopting open source
 - [github/media](https://github.com/github/media) pushed_at:2015-02 star:0.3k fork:0.1k Media files for use in your GitHub integration projects
 - [github/mentorships](https://github.com/github/mentorships) pushed_at:2017-12 star:0.3k fork:0.1k GitHub Open Source Mentorships (deprecated)
-- [github/MVG](https://github.com/github/MVG) pushed_at:2021-07 star:0.0k fork:0.0k MVG = Minimum Viable Governance
+- [github/MVG](https://github.com/github/MVG) pushed_at:2021-07 star:0.1k fork:0.0k MVG = Minimum Viable Governance
 - [github/nagioseasier-module](https://github.com/github/nagioseasier-module) pushed_at:2014-07 star:0.0k fork:0.0k Make nagios easier to use, because you deserve it.
 - [github/objective-c-style-guide](https://github.com/github/objective-c-style-guide) pushed_at:2017-11 star:1.7k fork:0.3k **Archived** Style guide & coding conventions for Objective-C projects
 - [github/octo-recipes](https://github.com/github/octo-recipes) pushed_at:2015-09 star:0.0k fork:0.0k A GitHub repository used to collaborate on recipes
@@ -320,11 +320,11 @@
 ## Python
 
 - [github/argo-ml](https://github.com/github/argo-ml) pushed_at:2021-04 star:0.0k fork:0.0k Controllers, wrappers and miscaleus utils to make it easier for Argo to be used in ML scenarios
-- [github/codescanning-jira-integration](https://github.com/github/codescanning-jira-integration) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [github/codescanning-jira-integration](https://github.com/github/codescanning-jira-integration) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [github/collectd-elasticsearch](https://github.com/github/collectd-elasticsearch) pushed_at:2018-02 star:0.0k fork:0.0k CollectD ElasticSearch plugin
 - [github/django-floppyforms](https://github.com/github/django-floppyforms) pushed_at:2013-07 star:0.0k fork:0.0k Full control of form rendering in the templates.
 - [github/github-team-sync](https://github.com/github/github-team-sync) pushed_at:2021-06 star:0.1k fork:0.0k Sync GitHub teams to groups in Active Directory, LDAP, Okta, OneLogin or AzureAD when using any authentication method for GitHub. 
-- [github/incubator-airflow](https://github.com/github/incubator-airflow) pushed_at:2021-06 star:0.0k fork:0.0k Apache Airflow (Incubating)
+- [github/incubator-airflow](https://github.com/github/incubator-airflow) pushed_at:2021-07 star:0.0k fork:0.0k Apache Airflow (Incubating)
 - [github/octokit.py](https://github.com/github/octokit.py) pushed_at:2017-06 star:0.0k fork:0.0k GitHub API client for Python
 - [github/pycon2011](https://github.com/github/pycon2011) pushed_at:2011-02 star:0.4k fork:0.1k 
 - [github/snakebite](https://github.com/github/snakebite) pushed_at:2017-10 star:0.0k fork:0.0k A pure python HDFS client
@@ -362,7 +362,7 @@
 - [github/freno-client](https://github.com/github/freno-client) pushed_at:2020-06 star:0.0k fork:0.0k Ruby client and throttling library for freno, the throttler service
 - [github/garethr-docker](https://github.com/github/garethr-docker) pushed_at:2014-06 star:0.0k fork:0.0k Puppet module for managing docker
 - [github/gem-builder](https://github.com/github/gem-builder) pushed_at:2015-02 star:0.0k fork:0.0k The scripts used to build RubyGems on GitHub
-- [github/gemoji](https://github.com/github/gemoji) pushed_at:2021-05 star:3.8k fork:0.7k Emoji images and names.
+- [github/gemoji](https://github.com/github/gemoji) pushed_at:2021-07 star:3.8k fork:0.7k Emoji images and names.
 - [github/github-ds](https://github.com/github/github-ds) pushed_at:2021-06 star:0.6k fork:0.0k A collection of Ruby libraries for working with SQL on top of ActiveRecord's connection
 - [github/github-graphql-rails-example](https://github.com/github/github-graphql-rails-example) pushed_at:2019-01 star:0.3k fork:0.1k Example Rails app using GitHub's GraphQL API
 - [github/github-ldap](https://github.com/github/github-ldap) pushed_at:2021-06 star:0.1k fork:0.0k LDAP client for humans. Part of GitHub Enterprise.
@@ -385,9 +385,9 @@
 - [github/ledbetter](https://github.com/github/ledbetter) pushed_at:2015-01 star:0.0k fork:0.0k Script that scrapes alert statistics from Nagios and reports them to Graphite
 - [github/licensed](https://github.com/github/licensed) pushed_at:2021-07 star:0.8k fork:0.1k A Ruby gem to cache and verify the licenses of dependencies
 - [github/lightstep-tracer-ruby](https://github.com/github/lightstep-tracer-ruby) pushed_at:2021-05 star:0.0k fork:0.0k The LightStep distributed tracing library for Ruby
-- [github/linguist](https://github.com/github/linguist) pushed_at:2021-07 star:8.9k fork:3.2k Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github/linguist](https://github.com/github/linguist) pushed_at:2021-07 star:9.0k fork:3.2k Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [github/marginalia](https://github.com/github/marginalia) pushed_at:2013-10 star:0.0k fork:0.0k Attach comments to ActiveRecord's SQL queries
-- [github/markup](https://github.com/github/markup) pushed_at:2021-06 star:5.2k fork:3.6k Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [github/markup](https://github.com/github/markup) pushed_at:2021-07 star:5.2k fork:3.6k Determines which markup library to use to render a content file (e.g. README) on GitHub
 - [github/mime-types](https://github.com/github/mime-types) pushed_at:2016-05 star:0.0k fork:0.0k Ruby MIME::Types implementation
 - [github/nugget](https://github.com/github/nugget) pushed_at:2018-01 star:0.0k fork:0.0k http integration test service
 - [github/octobox](https://github.com/github/octobox) pushed_at:2021-07 star:0.0k fork:0.0k 📮Untangle your GitHub Notifications
@@ -493,7 +493,7 @@
 - [github/quote-selection](https://github.com/github/quote-selection) pushed_at:2020-08 star:0.0k fork:0.0k Install a shortcut to append selected text to a <textarea> as a Markdown quote.
 - [github/remote-form](https://github.com/github/remote-form) pushed_at:2020-09 star:0.0k fork:0.0k Submit forms via AJAX with ease
 - [github/stable-socket](https://github.com/github/stable-socket) pushed_at:2020-10 star:0.1k fork:0.0k A web socket that reconnects.
-- [github/task-lists-element](https://github.com/github/task-lists-element) pushed_at:2021-05 star:0.1k fork:0.0k Drag and drop task list items.
+- [github/task-lists-element](https://github.com/github/task-lists-element) pushed_at:2021-07 star:0.1k fork:0.0k Drag and drop task list items.
 - [github/time-elements](https://github.com/github/time-elements) pushed_at:2021-05 star:2.2k fork:0.1k Web component extensions to the standard <time> element.
 - [github/vscode-codeql](https://github.com/github/vscode-codeql) pushed_at:2021-07 star:0.2k fork:0.1k An extension for Visual Studio Code that adds rich language support for CodeQL
 - [github/vscode-kubernetes-tools](https://github.com/github/vscode-kubernetes-tools) pushed_at:2020-06 star:0.0k fork:0.0k Kubernetes extension for Visual Studio Code

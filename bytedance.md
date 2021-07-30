@@ -27,11 +27,11 @@
 
 ## Assembly
 
-- [bytedance/sonic](https://github.com/bytedance/sonic) pushed_at:2021-07 star:0.5k fork:0.0k A blazingly fast JSON serializing & deserializing library
+- [bytedance/sonic](https://github.com/bytedance/sonic) pushed_at:2021-07 star:0.6k fork:0.0k A blazingly fast JSON serializing & deserializing library
 
 ## C
 
-- [bytedance/atop](https://github.com/bytedance/atop) pushed_at:2021-06 star:0.0k fork:0.0k System and process monitor for Linux
+- [bytedance/atop](https://github.com/bytedance/atop) pushed_at:2021-07 star:0.0k fork:0.0k System and process monitor for Linux
 - [bytedance/kvm-utils](https://github.com/bytedance/kvm-utils) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [bytedance/libiscsi](https://github.com/bytedance/libiscsi) pushed_at:2020-11 star:0.0k fork:0.0k iscsi client library and utilities
 - [bytedance/libnvmf](https://github.com/bytedance/libnvmf) pushed_at:2021-06 star:0.0k fork:0.0k 
@@ -51,7 +51,7 @@
 - [bytedance/effective_transformer](https://github.com/bytedance/effective_transformer) pushed_at:2021-03 star:0.2k fork:0.0k Running BERT without Padding
 - [bytedance/incubator-mxnet](https://github.com/bytedance/incubator-mxnet) pushed_at:2019-11 star:0.0k fork:0.0k Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [bytedance/onnx-tensorrt](https://github.com/bytedance/onnx-tensorrt) pushed_at:2021-04 star:0.0k fork:0.0k ONNX-TensorRT: TensorRT backend for ONNX
-- [bytedance/ps-lite](https://github.com/bytedance/ps-lite) pushed_at:2021-07 star:0.0k fork:0.0k A lightweight parameter server interface
+- [bytedance/ps-lite](https://github.com/bytedance/ps-lite) pushed_at:2021-07 star:0.1k fork:0.0k A lightweight parameter server interface
 - [bytedance/pyskynet](https://github.com/bytedance/pyskynet) pushed_at:2021-07 star:0.0k fork:0.0k PySkynet is a library for using skynet in python.
 - [bytedance/tensorflow](https://github.com/bytedance/tensorflow) pushed_at:2021-02 star:0.0k fork:0.0k An Open Source Machine Learning Framework for Everyone
 - [bytedance/terark-zip](https://github.com/bytedance/terark-zip) pushed_at:2021-06 star:0.0k fork:0.0k A data structure and algorithm library built for TerarkDB
@@ -60,11 +60,11 @@
 
 ## Cuda
 
-- [bytedance/lightseq](https://github.com/bytedance/lightseq) pushed_at:2021-07 star:1.4k fork:0.1k LightSeq: A High Performance Library for Sequence Processing and Generation
+- [bytedance/lightseq](https://github.com/bytedance/lightseq) pushed_at:2021-07 star:1.5k fork:0.1k LightSeq: A High Performance Library for Sequence Processing and Generation
 
 ## Dart
 
-- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) pushed_at:2021-07 star:0.1k fork:0.0k UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
+- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) pushed_at:2021-07 star:0.8k fork:0.0k UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
 - [bytedance/flutterdoc](https://github.com/bytedance/flutterdoc) pushed_at:2019-11 star:0.0k fork:0.0k Generate gallery for your Flutter widgets with one command
 - [bytedance/marquee_text](https://github.com/bytedance/marquee_text) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [bytedance/pull_to_refresh](https://github.com/bytedance/pull_to_refresh) pushed_at:2020-05 star:0.1k fork:0.0k Flutter pull_to_refresh widget
@@ -94,7 +94,7 @@
 - [bytedance/AabResGuard](https://github.com/bytedance/AabResGuard) pushed_at:2021-06 star:0.7k fork:0.1k The tool of obfuscated aab resources.(Android app bundle资源混淆工具)
 - [bytedance/AlphaPlayer](https://github.com/bytedance/AlphaPlayer) pushed_at:2021-07 star:1.3k fork:0.2k AlphaPlayer is a video animation engine.
 - [bytedance/BoostMultiDex](https://github.com/bytedance/BoostMultiDex) pushed_at:2020-07 star:0.9k fork:0.1k BoostMultiDex is a solution for quickly loading multiple dex files on low Android version devices (4.X and below, SDK <21).
-- [bytedance/ByteX](https://github.com/bytedance/ByteX) pushed_at:2021-07 star:1.8k fork:0.2k ByteX is a bytecode plugin platform based on Android Gradle Transform API and ASM.  字节码插件开发平台
+- [bytedance/ByteX](https://github.com/bytedance/ByteX) pushed_at:2021-07 star:1.9k fork:0.2k ByteX is a bytecode plugin platform based on Android Gradle Transform API and ASM.  字节码插件开发平台
 - [bytedance/clickhouse_hadoop](https://github.com/bytedance/clickhouse_hadoop) pushed_at:2019-03 star:0.0k fork:0.0k Import data from clickhouse to hadoop with pure SQL
 - [bytedance/flutter_asset_literal_idea_plugin](https://github.com/bytedance/flutter_asset_literal_idea_plugin) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [bytedance/jenkins-plugin-lark](https://github.com/bytedance/jenkins-plugin-lark) pushed_at:2021-06 star:0.0k fork:0.0k This plugin allows sending jobs status notification to your work group with Lark, and help you understand the build result.
@@ -179,10 +179,10 @@
 - [bytedance/bytemd](https://github.com/bytedance/bytemd) pushed_at:2021-07 star:1.2k fork:0.1k A hackable Markdown editor component built with Svelte
 - [bytedance/debugtron](https://github.com/bytedance/debugtron) pushed_at:2021-02 star:0.6k fork:0.0k Debug in-production Electron based app
 - [bytedance/fe-foundation](https://github.com/bytedance/fe-foundation) pushed_at:2021-06 star:0.1k fork:0.0k UI Foundation for React Hooks and Vue Composition Api 
-- [bytedance/garfish](https://github.com/bytedance/garfish) pushed_at:2021-07 star:0.5k fork:0.0k A powerful micro front-end framework 🚚
+- [bytedance/garfish](https://github.com/bytedance/garfish) pushed_at:2021-07 star:0.6k fork:0.0k A powerful micro front-end framework 🚚
 - [bytedance/graphyne](https://github.com/bytedance/graphyne) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [bytedance/guide](https://github.com/bytedance/guide) pushed_at:2021-07 star:0.4k fork:0.0k A new feature guide component by react 🧭
-- [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-06 star:4.0k fork:0.2k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+- [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-06 star:4.1k fork:0.2k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) pushed_at:2021-06 star:0.3k fork:0.0k Write components in any way, use them everywhere.😘
 - [bytedance/magic-portal](https://github.com/bytedance/magic-portal) pushed_at:2021-07 star:0.1k fork:0.0k ⚡ A blazing fast micro-component and micro-frontend solution uses web-components under the hood.
 - [bytedance/react-model](https://github.com/bytedance/react-model) pushed_at:2021-03 star:0.1k fork:0.0k The next generation state management library for React

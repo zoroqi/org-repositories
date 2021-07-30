@@ -370,7 +370,7 @@
 - [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) pushed_at:2021-07 star:0.0k fork:0.0k Open Collective REST API v1, and v2!
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) pushed_at:2021-07 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
 - [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
-- [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) pushed_at:2021-06 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
+- [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) pushed_at:2021-07 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
 - [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) pushed_at:2018-07 star:0.1k fork:0.0k OpenCollective frontend
 - [opencollective/opencollective-workers](https://github.com/opencollective/opencollective-workers) pushed_at:2021-07 star:0.0k fork:0.0k Cloudflare workers at the frontline of Open Collective.
 - [opencollective/opencollective-zapier](https://github.com/opencollective/opencollective-zapier) pushed_at:2021-02 star:0.0k fork:0.0k ⚠️ DEPRECATED ⚠️ Open Collective legacy Zapier integration

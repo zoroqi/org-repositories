@@ -55,7 +55,7 @@
 - [uber/prototool](https://github.com/uber/prototool) pushed_at:2021-03 star:4.8k fork:0.3k Your Swiss Army Knife for Protocol Buffers
 - [uber/ringpop-go](https://github.com/uber/ringpop-go) pushed_at:2021-02 star:0.7k fork:0.1k Scalable, fault-tolerant application-layer sharding for Go applications
 - [uber/storagetapper](https://github.com/uber/storagetapper) pushed_at:2020-04 star:0.2k fork:0.1k StorageTapper is a scalable realtime MySQL change data streaming, logical backup and logical replication service
-- [uber/tchannel-go](https://github.com/uber/tchannel-go) pushed_at:2021-05 star:0.4k fork:0.1k Go implementation of a multiplexing and framing protocol for RPC calls
+- [uber/tchannel-go](https://github.com/uber/tchannel-go) pushed_at:2021-07 star:0.4k fork:0.1k Go implementation of a multiplexing and framing protocol for RPC calls
 - [uber/uberalls](https://github.com/uber/uberalls) pushed_at:2020-03 star:0.2k fork:0.0k Track code coverage metrics with Jenkins and Phabricator
 - [uber/zanzibar](https://github.com/uber/zanzibar) pushed_at:2021-07 star:0.3k fork:0.0k A build system & configuration system to generate versioned API gateways.
 
@@ -204,7 +204,7 @@
 
 - [uber/cyborg](https://github.com/uber/cyborg) pushed_at:2020-09 star:0.3k fork:0.0k Display Android Vectordrawables on iOS.
 - [uber/mockolo](https://github.com/uber/mockolo) pushed_at:2021-07 star:0.4k fork:0.0k Efficient Mock Generator for Swift
-- [uber/needle](https://github.com/uber/needle) pushed_at:2021-06 star:1.0k fork:0.1k Compile-time safe Swift dependency injection framework
+- [uber/needle](https://github.com/uber/needle) pushed_at:2021-07 star:1.0k fork:0.1k Compile-time safe Swift dependency injection framework
 - [uber/rides-ios-sdk](https://github.com/uber/rides-ios-sdk) pushed_at:2019-11 star:0.3k fork:0.1k Uber Rides iOS SDK (beta)
 - [uber/RxCBCentral](https://github.com/uber/RxCBCentral) pushed_at:2021-06 star:0.0k fork:0.0k  A reactive, interface-driven central role Bluetooth LE library for iOS
 - [uber/swift-abstract-class](https://github.com/uber/swift-abstract-class) pushed_at:2019-12 star:0.1k fork:0.0k Compile-time abstract class validation for Swift

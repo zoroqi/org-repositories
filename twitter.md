@@ -147,7 +147,7 @@
 
 ## R
 
-- [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) pushed_at:2019-08 star:3.4k fork:0.7k Anomaly Detection with R
+- [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) pushed_at:2019-08 star:3.4k fork:0.8k Anomaly Detection with R
 
 ## Ruby
 

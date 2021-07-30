@@ -16,7 +16,7 @@
 - [Dockerfile](#dockerfile) (10)
 - [EJS](#ejs) (1)
 - [Erlang](#erlang) (48)
-- [Go](#go) (48)
+- [Go](#go) (50)
 - [Groovy](#groovy) (21)
 - [HTML](#html) (167)
 - [Handlebars](#handlebars) (2)
@@ -30,12 +30,13 @@
 - [Mustache](#mustache) (1)
 - [Objective-C](#objective-c) (9)
 - [Objective-C++](#objective-c++) (1)
-- [Others](#others) (255)
+- [Others](#others) (252)
 - [PHP](#php) (8)
 - [Perl](#perl) (7)
 - [PowerShell](#powershell) (1)
 - [Puppet](#puppet) (4)
 - [Python](#python) (87)
+- [R](#r) (1)
 - [Ruby](#ruby) (11)
 - [Rust](#rust) (7)
 - [SCSS](#scss) (9)
@@ -73,7 +74,7 @@
 - [apache/axis-axis2-c-rampart](https://github.com/apache/axis-axis2-c-rampart) pushed_at:2020-04 star:0.0k fork:0.0k Apache Axis2-C Rampart
 - [apache/axis-axis2-c-sandesha](https://github.com/apache/axis-axis2-c-sandesha) pushed_at:2020-04 star:0.0k fork:0.0k Apache Axis2-C Sandesha
 - [apache/axis-axis2-c-savan](https://github.com/apache/axis-axis2-c-savan) pushed_at:2020-04 star:0.0k fork:0.0k Apache Axis2-C Savan
-- [apache/celix](https://github.com/apache/celix) pushed_at:2021-06 star:0.1k fork:0.1k Apache Celix
+- [apache/celix](https://github.com/apache/celix) pushed_at:2021-07 star:0.1k fork:0.1k Apache Celix
 - [apache/commons-daemon](https://github.com/apache/commons-daemon) pushed_at:2021-07 star:0.1k fork:0.0k Apache Commons Daemon
 - [apache/couchdb-b64url](https://github.com/apache/couchdb-b64url) pushed_at:2020-09 star:0.0k fork:0.0k Mirror of Apache CouchDB
 - [apache/couchdb-erlang-bcrypt](https://github.com/apache/couchdb-erlang-bcrypt) pushed_at:2018-02 star:0.0k fork:0.0k Mirror for https://github.com/erlangpack/bcrypt
@@ -81,7 +82,7 @@
 - [apache/couchdb-khash](https://github.com/apache/couchdb-khash) pushed_at:2020-09 star:0.0k fork:0.0k Mirror of Apache CouchDB
 - [apache/datasketches-postgresql](https://github.com/apache/datasketches-postgresql) pushed_at:2021-07 star:0.0k fork:0.0k PostgreSQL module with approximate algorithms based on DataSketches/sketches-core-cpp
 - [apache/duo_unix](https://github.com/apache/duo_unix) pushed_at:2021-06 star:0.0k fork:0.0k Duo two-factor authentication for Unix systems
-- [apache/guacamole-server](https://github.com/apache/guacamole-server) pushed_at:2021-06 star:1.7k fork:0.4k Mirror of Apache Guacamole Server
+- [apache/guacamole-server](https://github.com/apache/guacamole-server) pushed_at:2021-07 star:1.8k fork:0.4k Mirror of Apache Guacamole Server
 - [apache/hawq](https://github.com/apache/hawq) pushed_at:2021-03 star:0.6k fork:0.3k Apache HAWQ
 - [apache/httpd](https://github.com/apache/httpd) pushed_at:2021-07 star:2.7k fork:0.9k Mirror of Apache HTTP Server. Issues: http://issues.apache.org
 - [apache/httpd-flood](https://github.com/apache/httpd-flood) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Flood
@@ -134,7 +135,7 @@
 - [apache/geode-dotnet-core-client](https://github.com/apache/geode-dotnet-core-client) pushed_at:2021-07 star:0.0k fork:0.0k Apache Geode .NET Core Client
 - [apache/incubator-milagro-mfa-sdk-wp](https://github.com/apache/incubator-milagro-mfa-sdk-wp) pushed_at:2017-04 star:0.0k fork:0.0k [DEPRECATED] - Apache Milagro MFA SDK WP Incubator
 - [apache/logging-log4net](https://github.com/apache/logging-log4net) pushed_at:2021-05 star:0.6k fork:0.2k Mirror of This is the Apache log4net logging project git repository.
-- [apache/lucenenet](https://github.com/apache/lucenenet) pushed_at:2021-05 star:1.6k fork:0.6k Apache Lucene.NET
+- [apache/lucenenet](https://github.com/apache/lucenenet) pushed_at:2021-07 star:1.6k fork:0.6k Apache Lucene.NET
 - [apache/manifoldcf-integration-sharepoint-2007](https://github.com/apache/manifoldcf-integration-sharepoint-2007) pushed_at:2018-12 star:0.0k fork:0.0k Mirror of Apache ManifoldCF Sharepoint 2007 Integration
 - [apache/manifoldcf-integration-sharepoint-2010](https://github.com/apache/manifoldcf-integration-sharepoint-2010) pushed_at:2018-12 star:0.0k fork:0.0k Mirror of Apache ManifoldCF Sharepoint 2010 Integration
 - [apache/manifoldcf-integration-sharepoint-2013](https://github.com/apache/manifoldcf-integration-sharepoint-2013) pushed_at:2018-03 star:0.0k fork:0.0k Mirror of git.apache.org/manifoldcf-integration-sharepoint-2013.git
@@ -192,7 +193,7 @@
 - [apache/santuario-cpp](https://github.com/apache/santuario-cpp) pushed_at:2020-02 star:0.0k fork:0.0k Mirror of Apache Santuario C++
 - [apache/singa](https://github.com/apache/singa) pushed_at:2021-07 star:2.3k fork:0.7k a distributed deep learning platform
 - [apache/stdcxx](https://github.com/apache/stdcxx) pushed_at:2018-12 star:0.1k fork:0.0k Mirror of Apache C++ Standard Library
-- [apache/thrift](https://github.com/apache/thrift) pushed_at:2021-07 star:8.5k fork:3.6k Apache Thrift
+- [apache/thrift](https://github.com/apache/thrift) pushed_at:2021-07 star:8.5k fork:3.7k Apache Thrift
 - [apache/trafficserver](https://github.com/apache/trafficserver) pushed_at:2021-07 star:1.3k fork:0.7k Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server.
 - [apache/trafodion](https://github.com/apache/trafodion) pushed_at:2021-06 star:0.2k fork:0.2k Apache Trafodion
 - [apache/tuscany-sca-cpp](https://github.com/apache/tuscany-sca-cpp) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Tuscany SCA C++
@@ -228,9 +229,9 @@
 - [apache/log4j-component](https://github.com/apache/log4j-component) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache log4j component
 - [apache/log4j-receivers](https://github.com/apache/log4j-receivers) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache log4j receivers
 - [apache/lucene-site](https://github.com/apache/lucene-site) pushed_at:2021-06 star:0.0k fork:0.0k Apache Lucene and Solr web site
-- [apache/maven-default-skin](https://github.com/apache/maven-default-skin) pushed_at:2021-02 star:0.0k fork:0.0k Apache Maven Default Skin
+- [apache/maven-default-skin](https://github.com/apache/maven-default-skin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Default Skin
 - [apache/maven-doxia-site](https://github.com/apache/maven-doxia-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Doxia site
-- [apache/maven-fluido-skin](https://github.com/apache/maven-fluido-skin) pushed_at:2021-02 star:0.0k fork:0.0k Apache Maven Fluido Skin
+- [apache/maven-fluido-skin](https://github.com/apache/maven-fluido-skin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Fluido Skin
 - [apache/maven-site](https://github.com/apache/maven-site) pushed_at:2021-07 star:0.1k fork:0.2k Apache Maven site
 - [apache/maven-skins](https://github.com/apache/maven-skins) pushed_at:2018-01 star:0.0k fork:0.0k Mirror of Apache Maven skins
 - [apache/opennlp-site](https://github.com/apache/opennlp-site) pushed_at:2021-06 star:0.0k fork:0.0k Website sources for the Apache OpenNLP website
@@ -257,7 +258,7 @@
 - [apache/ozone-docker-builder](https://github.com/apache/ozone-docker-builder) pushed_at:2021-05 star:0.0k fork:0.0k Container image to provide build environment for developing and testing Apache Ozone
 - [apache/ozone-docker-runner](https://github.com/apache/ozone-docker-runner) pushed_at:2021-05 star:0.0k fork:0.0k Container image to provide runtime environment for developing and testing Apache Ozone
 - [apache/skywalking-docker](https://github.com/apache/skywalking-docker) pushed_at:2021-07 star:0.2k fork:0.1k SkyWalking Docker file archive for all official releases
-- [apache/sling-org-apache-sling-starter-docker](https://github.com/apache/sling-org-apache-sling-starter-docker) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Starter Docker Image
+- [apache/sling-org-apache-sling-starter-docker](https://github.com/apache/sling-org-apache-sling-starter-docker) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Starter Docker Image
 
 ## EJS
 
@@ -328,7 +329,9 @@
 - [apache/calcite-avatica-go](https://github.com/apache/calcite-avatica-go) pushed_at:2020-10 star:0.1k fork:0.0k Mirror of Apache Calcite - Avatica Go SQL Driver
 - [apache/camel-k](https://github.com/apache/camel-k) pushed_at:2021-07 star:0.6k fork:0.2k Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers
 - [apache/cloudstack-cloudmonkey](https://github.com/apache/cloudstack-cloudmonkey) pushed_at:2021-07 star:0.1k fork:0.0k Apache Cloudstack Cloudmonkey
+- [apache/cloudstack-go](https://github.com/apache/cloudstack-go) pushed_at:2021-07 star:0.0k fork:0.0k CloudStack Go SDK
 - [apache/cloudstack-kubernetes-provider](https://github.com/apache/cloudstack-kubernetes-provider) pushed_at:2021-06 star:0.0k fork:0.0k Apache Cloudstack Kubernetes Provider
+- [apache/cloudstack-terraform-provider](https://github.com/apache/cloudstack-terraform-provider) pushed_at:2021-07 star:0.0k fork:0.0k CloudStack Terraform Provider
 - [apache/dubbo-getty](https://github.com/apache/dubbo-getty) pushed_at:2021-07 star:0.1k fork:0.0k a netty like asynchronous network I/O library based on tcp/udp/websocket; a bidirectional RPC framework based on JSON/Protobuf; a microservice framework based on zookeeper/etcd
 - [apache/dubbo-go](https://github.com/apache/dubbo-go) pushed_at:2021-07 star:3.4k fork:0.6k Go Implementation For Apache Dubbo
 - [apache/dubbo-go-hessian2](https://github.com/apache/dubbo-go-hessian2) pushed_at:2021-07 star:0.2k fork:0.1k caucho hessian2 implementation in Go for [apache/dubbo-go](https://github.com/apache/dubbo-go) which is compatible with [dubbo-hessian-lite](https://github.com/apache/dubbo-hessian-lite)
@@ -338,7 +341,7 @@
 - [apache/incubator-yunikorn-core](https://github.com/apache/incubator-yunikorn-core) pushed_at:2021-07 star:0.4k fork:0.1k Apache YuniKorn Core
 - [apache/incubator-yunikorn-k8shim](https://github.com/apache/incubator-yunikorn-k8shim) pushed_at:2021-07 star:0.0k fork:0.0k Apache YuniKorn K8shim
 - [apache/iotdb-client-go](https://github.com/apache/iotdb-client-go) pushed_at:2021-07 star:0.0k fork:0.0k Apache IoTDB Client for GoLang
-- [apache/mynewt-artifact](https://github.com/apache/mynewt-artifact) pushed_at:2021-03 star:0.0k fork:0.0k Golang library for parsing, analyzing, and manipulating Mynewt files
+- [apache/mynewt-artifact](https://github.com/apache/mynewt-artifact) pushed_at:2021-07 star:0.0k fork:0.0k Golang library for parsing, analyzing, and manipulating Mynewt files
 - [apache/mynewt-imgmod](https://github.com/apache/mynewt-imgmod) pushed_at:2020-11 star:0.0k fork:0.0k Apache mynewt image modification tool
 - [apache/mynewt-mcumgr-cli](https://github.com/apache/mynewt-mcumgr-cli) pushed_at:2020-11 star:0.0k fork:0.0k MCU Manager CLI
 - [apache/mynewt-newt](https://github.com/apache/mynewt-newt) pushed_at:2021-07 star:0.1k fork:0.1k An OS to build, deploy and securely manage billions of devices
@@ -375,18 +378,18 @@
 - [apache/logging-pipelines](https://github.com/apache/logging-pipelines) pushed_at:2021-06 star:0.0k fork:0.0k Apache Logging Services Jenkins pipelines and shared libraries.
 - [apache/maven-jenkins-env](https://github.com/apache/maven-jenkins-env) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Jenkins Environment
 - [apache/maven-jenkins-lib](https://github.com/apache/maven-jenkins-lib) pushed_at:2021-05 star:0.0k fork:0.0k Apache Maven Jenkins Shared Libraries
-- [apache/maven-wrapper-plugin](https://github.com/apache/maven-wrapper-plugin) pushed_at:2021-04 star:0.0k fork:0.0k Apache Maven Wrapper Plugin
+- [apache/maven-wrapper-plugin](https://github.com/apache/maven-wrapper-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Wrapper Plugin
 - [apache/netbeans-jenkins-lib](https://github.com/apache/netbeans-jenkins-lib) pushed_at:2021-07 star:0.0k fork:0.0k Apache NetBeans Shared Jenkins Pipeline
 - [apache/netbeans-mavenutils-archetype-nbm-archetype](https://github.com/apache/netbeans-mavenutils-archetype-nbm-archetype) pushed_at:2021-02 star:0.0k fork:0.0k Apache NetBeans Maven Archetypes for Apache NetBeans Module
 - [apache/netbeans-mavenutils-archetype-nbm-suite-root](https://github.com/apache/netbeans-mavenutils-archetype-nbm-suite-root) pushed_at:2021-02 star:0.0k fork:0.0k Apache NetBeans Maven Archetypes for Apache NetBeans Module Suite 
 - [apache/netbeans-mavenutils-parent](https://github.com/apache/netbeans-mavenutils-parent) pushed_at:2021-02 star:0.0k fork:0.0k Apache NetBeans Maven Utils parent pom 
 - [apache/netbeans-parent](https://github.com/apache/netbeans-parent) pushed_at:2021-02 star:0.0k fork:0.0k Apache NetBeans parent pom
 - [apache/sling-aggregator](https://github.com/apache/sling-aggregator) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Aggregator
-- [apache/sling-initial-content-archetype](https://github.com/apache/sling-initial-content-archetype) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Initial Content Archetype
-- [apache/sling-launchpad-standalone-archetype](https://github.com/apache/sling-launchpad-standalone-archetype) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Launchpad Standalone Archetype
-- [apache/sling-launchpad-webapp-archetype](https://github.com/apache/sling-launchpad-webapp-archetype) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Launchpad Webapp Archetype
-- [apache/sling-slingstart-archetype](https://github.com/apache/sling-slingstart-archetype) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Slingstart Archetype
-- [apache/sling-tooling-jenkins](https://github.com/apache/sling-tooling-jenkins) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Jenkins Tooling
+- [apache/sling-initial-content-archetype](https://github.com/apache/sling-initial-content-archetype) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Initial Content Archetype
+- [apache/sling-launchpad-standalone-archetype](https://github.com/apache/sling-launchpad-standalone-archetype) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Standalone Archetype
+- [apache/sling-launchpad-webapp-archetype](https://github.com/apache/sling-launchpad-webapp-archetype) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Webapp Archetype
+- [apache/sling-slingstart-archetype](https://github.com/apache/sling-slingstart-archetype) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Slingstart Archetype
+- [apache/sling-tooling-jenkins](https://github.com/apache/sling-tooling-jenkins) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Jenkins Tooling
 - [apache/uima-build-jenkins-shared-library](https://github.com/apache/uima-build-jenkins-shared-library) pushed_at:2021-01 star:0.0k fork:0.0k Shared Jenkins Library for Apache UIMA builds
 
 ## HTML
@@ -395,14 +398,14 @@
 - [apache/activemq-web](https://github.com/apache/activemq-web) pushed_at:2021-04 star:0.0k fork:0.0k Mirror of Apache ActiveMQ
 - [apache/activemq-website](https://github.com/apache/activemq-website) pushed_at:2021-07 star:0.0k fork:0.0k Apache ActiveMQ Website
 - [apache/airavata-site](https://github.com/apache/airavata-site) pushed_at:2021-05 star:0.0k fork:0.0k Apache Airavata Website
-- [apache/airflow-site](https://github.com/apache/airflow-site) pushed_at:2021-07 star:0.0k fork:0.1k Apache Airflow Website
+- [apache/airflow-site](https://github.com/apache/airflow-site) pushed_at:2021-07 star:0.1k fork:0.1k Apache Airflow Website
 - [apache/any23](https://github.com/apache/any23) pushed_at:2021-05 star:0.1k fork:0.1k Apache Anything To Triples (Any23) is a library, a web service and a command line tool that extracts structured data in RDF format from a variety of Web documents.
 - [apache/apache.github.io](https://github.com/apache/apache.github.io) pushed_at:2019-11 star:0.0k fork:0.0k Top Level Github Pages for the Apache Software Foundation
 - [apache/archiva-web-content](https://github.com/apache/archiva-web-content) pushed_at:2021-03 star:0.0k fork:0.0k Apache Archiva web site content used with gitpubsub
-- [apache/aries-antora-site](https://github.com/apache/aries-antora-site) pushed_at:2021-05 star:0.0k fork:0.0k Apache aries Antora website main content
+- [apache/aries-antora-site](https://github.com/apache/aries-antora-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache aries Antora website main content
 - [apache/aries-antora-ui](https://github.com/apache/aries-antora-ui) pushed_at:2020-08 star:0.0k fork:0.0k Apache aries Antora website UI project
 - [apache/aries-site](https://github.com/apache/aries-site) pushed_at:2019-07 star:0.0k fork:0.0k Apache aries website
-- [apache/aries-site-pub](https://github.com/apache/aries-site-pub) pushed_at:2021-05 star:0.0k fork:0.0k Apache aries published website
+- [apache/aries-site-pub](https://github.com/apache/aries-site-pub) pushed_at:2021-07 star:0.0k fork:0.0k Apache aries published website
 - [apache/asterixdb-site](https://github.com/apache/asterixdb-site) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache Asterix Site
 - [apache/atlas-website](https://github.com/apache/atlas-website) pushed_at:2021-04 star:0.0k fork:0.0k Mirror of Apache Atlas Website
 - [apache/aurora-website](https://github.com/apache/aurora-website) pushed_at:2020-01 star:0.0k fork:0.0k Apache Aurora's website
@@ -411,7 +414,7 @@
 - [apache/bval-site](https://github.com/apache/bval-site) pushed_at:2021-06 star:0.0k fork:0.0k Apache Bval Website
 - [apache/calcite-site](https://github.com/apache/calcite-site) pushed_at:2021-06 star:0.0k fork:0.0k Apache Calcite Website
 - [apache/cassandra-website](https://github.com/apache/cassandra-website) pushed_at:2021-07 star:0.0k fork:0.0k Apache cassandra
-- [apache/cayenne-website](https://github.com/apache/cayenne-website) pushed_at:2021-06 star:0.0k fork:0.0k Mirror of Apache cayenne website
+- [apache/cayenne-website](https://github.com/apache/cayenne-website) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache cayenne website
 - [apache/chemistry-site](https://github.com/apache/chemistry-site) pushed_at:2021-06 star:0.0k fork:0.0k Apache Chemistry Website
 - [apache/cloudstack-docs](https://github.com/apache/cloudstack-docs) pushed_at:2018-08 star:0.0k fork:0.1k Apache Cloudstack Docs
 - [apache/cloudstack-docs-admin](https://github.com/apache/cloudstack-docs-admin) pushed_at:2018-12 star:0.0k fork:0.0k Apache Cloudstack
@@ -423,7 +426,7 @@
 - [apache/comdev-site](https://github.com/apache/comdev-site) pushed_at:2021-07 star:0.0k fork:0.0k Website sources for the Apache Community Development Website
 - [apache/cordova-plugin-test-framework](https://github.com/apache/cordova-plugin-test-framework) pushed_at:2020-09 star:0.1k fork:0.0k Apache Cordova
 - [apache/couchdb-www](https://github.com/apache/couchdb-www) pushed_at:2021-06 star:0.0k fork:0.0k Mirror of Apache CouchDB Web Site
-- [apache/creadur-site](https://github.com/apache/creadur-site) pushed_at:2021-05 star:0.0k fork:0.0k Mirror of Apache creadur Site
+- [apache/creadur-site](https://github.com/apache/creadur-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache Creadur website
 - [apache/ctakes-site](https://github.com/apache/ctakes-site) pushed_at:2021-06 star:0.0k fork:0.0k Apache CTakes Website
 - [apache/daffodil-site](https://github.com/apache/daffodil-site) pushed_at:2021-06 star:0.0k fork:0.0k Apache Daffodil Website
 - [apache/datasketches-website](https://github.com/apache/datasketches-website) pushed_at:2021-07 star:0.1k fork:0.0k Website for DataSketches.
@@ -467,7 +470,6 @@
 - [apache/incubator-nlpcraft-website](https://github.com/apache/incubator-nlpcraft-website) pushed_at:2021-07 star:0.0k fork:0.0k Apache NLPCraft - API to convert natural language into actions.
 - [apache/incubator-odftoolkit-site](https://github.com/apache/incubator-odftoolkit-site) pushed_at:2018-01 star:0.0k fork:0.0k Apache ODF Toolkit Site incubating - Project Retired
 - [apache/incubator-pegasus-website](https://github.com/apache/incubator-pegasus-website) pushed_at:2021-07 star:0.0k fork:0.0k Apache Pegasus Website
-- [apache/incubator-pinot-site](https://github.com/apache/incubator-pinot-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache Pinot website
 - [apache/incubator-ponymail-site](https://github.com/apache/incubator-ponymail-site) pushed_at:2021-06 star:0.0k fork:0.0k Mirror of Apache Pony Mail (Incubating) Site
 - [apache/incubator-retired-corinthia](https://github.com/apache/incubator-retired-corinthia) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Corinthia (Incubating)
 - [apache/incubator-retired-edgent-website](https://github.com/apache/incubator-retired-edgent-website) pushed_at:2019-04 star:0.0k fork:0.0k Mirror of Apache Edgent site (Incubating)
@@ -475,7 +477,7 @@
 - [apache/incubator-retired-quickstep-site](https://github.com/apache/incubator-retired-quickstep-site) pushed_at:2018-12 star:0.0k fork:0.0k Apache Quickstep Site Incubator - This project is retired.
 - [apache/incubator-retired-zipkin-website](https://github.com/apache/incubator-retired-zipkin-website) pushed_at:2019-11 star:0.0k fork:0.0k Apache Zipkin Website
 - [apache/incubator-taverna-site](https://github.com/apache/incubator-taverna-site) pushed_at:2019-06 star:0.0k fork:0.0k Mirror of Apache Taverna (Incubating) Web Site
-- [apache/incubator-tuweni-website](https://github.com/apache/incubator-tuweni-website) pushed_at:2021-06 star:0.0k fork:0.0k Apache tuweni website
+- [apache/incubator-tuweni-website](https://github.com/apache/incubator-tuweni-website) pushed_at:2021-07 star:0.0k fork:0.0k Apache tuweni website
 - [apache/incubator-wayang-website](https://github.com/apache/incubator-wayang-website) pushed_at:2021-04 star:0.0k fork:0.0k Apache Wayang is an Cross-Platform processing system
 - [apache/infrastructure-staging-test](https://github.com/apache/infrastructure-staging-test) pushed_at:2019-09 star:0.0k fork:0.0k Test repository for the .asf.yaml features
 - [apache/infrastructure-website](https://github.com/apache/infrastructure-website) pushed_at:2021-07 star:0.0k fork:0.1k Infrastructure Team Website Repository
@@ -490,10 +492,10 @@
 - [apache/kafka-site](https://github.com/apache/kafka-site) pushed_at:2021-07 star:0.0k fork:0.2k Mirror of Apache Kafka site
 - [apache/karaf-site](https://github.com/apache/karaf-site) pushed_at:2021-05 star:0.0k fork:0.0k Mirror of Apache karaf Site
 - [apache/kibble-website](https://github.com/apache/kibble-website) pushed_at:2021-05 star:0.0k fork:0.0k Apache Kibble Website
-- [apache/kudu-site](https://github.com/apache/kudu-site) pushed_at:2021-06 star:0.0k fork:0.0k Apache Kudu Site
+- [apache/kudu-site](https://github.com/apache/kudu-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache Kudu Site
 - [apache/logging-site](https://github.com/apache/logging-site) pushed_at:2020-12 star:0.0k fork:0.0k Apache logging web site
 - [apache/lucenenet-site](https://github.com/apache/lucenenet-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache Lucene.NET Website
-- [apache/maven-doxia-linkcheck](https://github.com/apache/maven-doxia-linkcheck) pushed_at:2021-06 star:0.0k fork:0.0k Apache Maven Doxia LinkCheck
+- [apache/maven-doxia-linkcheck](https://github.com/apache/maven-doxia-linkcheck) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Doxia LinkCheck
 - [apache/mesos-site](https://github.com/apache/mesos-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache Mesos Website
 - [apache/mina-site](https://github.com/apache/mina-site) pushed_at:2021-05 star:0.0k fork:0.0k Website sources for Apache MINA
 - [apache/myfaces-homepage](https://github.com/apache/myfaces-homepage) pushed_at:2021-07 star:0.0k fork:0.0k Apache MyFaces Homepage
@@ -514,11 +516,12 @@
 - [apache/orc](https://github.com/apache/orc) pushed_at:2021-07 star:0.4k fork:0.3k Apache ORC - the smallest, fastest columnar storage for Hadoop workloads
 - [apache/ozone-site](https://github.com/apache/ozone-site) pushed_at:2021-05 star:0.0k fork:0.0k Website for Apache Ozone
 - [apache/parquet-site](https://github.com/apache/parquet-site) pushed_at:2021-04 star:0.0k fork:0.0k Website for Apache Parquet
-- [apache/pdfbox-docs](https://github.com/apache/pdfbox-docs) pushed_at:2021-06 star:0.0k fork:0.0k Mirror of Apache PDFBox Docs
+- [apache/pdfbox-docs](https://github.com/apache/pdfbox-docs) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache PDFBox Docs
 - [apache/petri](https://github.com/apache/petri) pushed_at:2021-07 star:0.0k fork:0.0k Apache Petri
 - [apache/phoenix-omid-site](https://github.com/apache/phoenix-omid-site) pushed_at:2020-11 star:0.0k fork:0.0k Apache Omid Site (Incubating)
 - [apache/photark](https://github.com/apache/photark) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Photark (incubating)
-- [apache/plc4x-website](https://github.com/apache/plc4x-website) pushed_at:2021-06 star:0.0k fork:0.0k Apache PLC4X generated Website
+- [apache/pinot-site](https://github.com/apache/pinot-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache Pinot website
+- [apache/plc4x-website](https://github.com/apache/plc4x-website) pushed_at:2021-07 star:0.0k fork:0.0k Apache PLC4X generated Website
 - [apache/predictionio-site](https://github.com/apache/predictionio-site) pushed_at:2019-03 star:0.0k fork:0.0k Apache PredictionIO Site
 - [apache/puppet-postfix](https://github.com/apache/puppet-postfix) pushed_at:2020-07 star:0.0k fork:0.0k Puppet Postfix module
 - [apache/qpid-site](https://github.com/apache/qpid-site) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache Qpid Site
@@ -530,10 +533,10 @@
 - [apache/shiro-site](https://github.com/apache/shiro-site) pushed_at:2021-07 star:0.0k fork:0.2k Apache Shiro Website
 - [apache/singa-site](https://github.com/apache/singa-site) pushed_at:2021-05 star:0.0k fork:0.0k Apache singa site
 - [apache/sis-site](https://github.com/apache/sis-site) pushed_at:2021-06 star:0.0k fork:0.0k Website sources for the Apache SIS website
-- [apache/sling-content-package-archetype](https://github.com/apache/sling-content-package-archetype) pushed_at:2020-11 star:0.0k fork:0.0k Apache Sling Content Package Archetype
-- [apache/sling-org-apache-sling-hapi-samplecontent](https://github.com/apache/sling-org-apache-sling-hapi-samplecontent) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Hypermedia Api Sample Content
-- [apache/sling-org-apache-sling-scripting-sightly-testing-content](https://github.com/apache/sling-org-apache-sling-scripting-sightly-testing-content) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sling Scripting HTL Integration Tests Content
-- [apache/sling-org-apache-sling-starter-content](https://github.com/apache/sling-org-apache-sling-starter-content) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Starter Content
+- [apache/sling-content-package-archetype](https://github.com/apache/sling-content-package-archetype) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Content Package Archetype
+- [apache/sling-org-apache-sling-hapi-samplecontent](https://github.com/apache/sling-org-apache-sling-hapi-samplecontent) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Hypermedia Api Sample Content
+- [apache/sling-org-apache-sling-scripting-sightly-testing-content](https://github.com/apache/sling-org-apache-sling-scripting-sightly-testing-content) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting HTL Integration Tests Content
+- [apache/sling-org-apache-sling-starter-content](https://github.com/apache/sling-org-apache-sling-starter-content) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Starter Content
 - [apache/sling-site](https://github.com/apache/sling-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Website
 - [apache/solr-site](https://github.com/apache/solr-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache solr website
 - [apache/storm-site](https://github.com/apache/storm-site) pushed_at:2020-07 star:0.0k fork:0.0k Mirror of Apache storm website Git repo
@@ -547,13 +550,13 @@
 - [apache/tomee-site](https://github.com/apache/tomee-site) pushed_at:2019-07 star:0.0k fork:0.0k Mirror of Apache TomEE - Site
 - [apache/tomee-site-pub](https://github.com/apache/tomee-site-pub) pushed_at:2021-07 star:0.0k fork:0.0k Apache TomEE published website
 - [apache/trafficcontrol-website](https://github.com/apache/trafficcontrol-website) pushed_at:2021-06 star:0.0k fork:0.0k Apache Traffic Control Website
-- [apache/trafficserver-site](https://github.com/apache/trafficserver-site) pushed_at:2021-06 star:0.0k fork:0.0k Apache trafficserver web site repository
+- [apache/trafficserver-site](https://github.com/apache/trafficserver-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache trafficserver web site repository
 - [apache/trafodion-site](https://github.com/apache/trafodion-site) pushed_at:2020-05 star:0.0k fork:0.0k Apache Trafodion Site
 - [apache/treasurer-site](https://github.com/apache/treasurer-site) pushed_at:2021-06 star:0.0k fork:0.0k Apache Treasurer Website
 - [apache/unomi-site](https://github.com/apache/unomi-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache Unomi website
 - [apache/vcl-site](https://github.com/apache/vcl-site) pushed_at:2020-07 star:0.0k fork:0.0k Website sources for the Apache VCL website
 - [apache/velocity-site](https://github.com/apache/velocity-site) pushed_at:2021-04 star:0.0k fork:0.0k Apache Velocity Site
-- [apache/whimsy-whimsical-site](https://github.com/apache/whimsy-whimsical-site) pushed_at:2019-11 star:0.0k fork:0.0k Apache Whimsy Site
+- [apache/whimsy-whimsical-site](https://github.com/apache/whimsy-whimsical-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache Whimsy Site
 - [apache/wicket-site](https://github.com/apache/wicket-site) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache Wicket Web Site
 - [apache/wink-website](https://github.com/apache/wink-website) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Wink Website
 - [apache/www-site](https://github.com/apache/www-site) pushed_at:2021-07 star:0.0k fork:0.0k The ASF Website
@@ -629,14 +632,14 @@
 - [apache/aries-containers](https://github.com/apache/aries-containers) pushed_at:2017-09 star:0.0k fork:0.0k Apache Aries Container management subproject
 - [apache/aries-jax-rs-whiteboard](https://github.com/apache/aries-jax-rs-whiteboard) pushed_at:2021-07 star:0.0k fork:0.0k Apache Aries JAX RS Whiteboard
 - [apache/aries-journaled-events](https://github.com/apache/aries-journaled-events) pushed_at:2020-03 star:0.0k fork:0.0k Apache aries
-- [apache/aries-jpa](https://github.com/apache/aries-jpa) pushed_at:2021-06 star:0.0k fork:0.0k Apache Aries JPA
+- [apache/aries-jpa](https://github.com/apache/aries-jpa) pushed_at:2021-07 star:0.0k fork:0.0k Apache Aries JPA
 - [apache/aries-rsa](https://github.com/apache/aries-rsa) pushed_at:2021-03 star:0.0k fork:0.0k Apache Aries Remote Services Admin
 - [apache/aries-tx-control](https://github.com/apache/aries-tx-control) pushed_at:2019-02 star:0.0k fork:0.0k Apache Aries Transaction Control
 - [apache/aries-typedevent](https://github.com/apache/aries-typedevent) pushed_at:2021-06 star:0.0k fork:0.0k Apache aries
 - [apache/asterixdb](https://github.com/apache/asterixdb) pushed_at:2021-07 star:0.2k fork:0.1k Mirror of Apache AsterixDB
 - [apache/asterixdb-bad](https://github.com/apache/asterixdb-bad) pushed_at:2020-09 star:0.0k fork:0.0k Mirror of BAD project
 - [apache/asterixdb-hyracks](https://github.com/apache/asterixdb-hyracks) pushed_at:2020-02 star:0.0k fork:0.0k Apache AsterixDB Hyracks
-- [apache/atlas](https://github.com/apache/atlas) pushed_at:2021-07 star:0.9k fork:0.5k Apache Atlas
+- [apache/atlas](https://github.com/apache/atlas) pushed_at:2021-07 star:1.0k fork:0.5k Apache Atlas
 - [apache/aurora](https://github.com/apache/aurora) pushed_at:2020-02 star:0.6k fork:0.2k Apache Aurora - A Mesos framework for long-running services, cron jobs, and ad-hoc jobs
 - [apache/avro](https://github.com/apache/avro) pushed_at:2021-07 star:1.9k fork:1.2k Apache Avro is a data serialization system.
 - [apache/axis-axis1-java](https://github.com/apache/axis-axis1-java) pushed_at:2020-12 star:0.0k fork:0.0k Apache Axis1 Java
@@ -659,15 +662,15 @@
 - [apache/camel-k-runtime](https://github.com/apache/camel-k-runtime) pushed_at:2021-07 star:0.0k fork:0.0k Apache Camel K runtime
 - [apache/camel-kafka-connector](https://github.com/apache/camel-kafka-connector) pushed_at:2021-07 star:0.1k fork:0.1k Camel Kafka Connector allows you to use all Camel components as Kafka Connect connectors
 - [apache/camel-kafka-connector-examples](https://github.com/apache/camel-kafka-connector-examples) pushed_at:2021-06 star:0.0k fork:0.0k Apache Camel Kafka Connector Examples
-- [apache/camel-kameleon](https://github.com/apache/camel-kameleon) pushed_at:2021-07 star:0.0k fork:0.0k Kameleon - project scaffolding for Apache Camel
+- [apache/camel-kameleon](https://github.com/apache/camel-kameleon) pushed_at:2021-07 star:0.0k fork:0.0k Camel Kameleon is a project to scaffold new Camel project.
 - [apache/camel-kamelets](https://github.com/apache/camel-kamelets) pushed_at:2021-07 star:0.0k fork:0.0k Apache Camel Kamelet Repository
 - [apache/camel-karaf](https://github.com/apache/camel-karaf) pushed_at:2021-07 star:0.0k fork:0.0k Apache Camel Karaf support
 - [apache/camel-performance-tests](https://github.com/apache/camel-performance-tests) pushed_at:2021-07 star:0.0k fork:0.0k Apache camel performance tests 
 - [apache/camel-quarkus](https://github.com/apache/camel-quarkus) pushed_at:2021-07 star:0.1k fork:0.1k Apache Camel Quarkus support
 - [apache/camel-quarkus-examples](https://github.com/apache/camel-quarkus-examples) pushed_at:2021-07 star:0.0k fork:0.0k Apache Camel Quarkus Examples
 - [apache/camel-spring-boot](https://github.com/apache/camel-spring-boot) pushed_at:2021-07 star:0.1k fork:0.1k Apache Camel Spring Boot support
-- [apache/camel-spring-boot-examples](https://github.com/apache/camel-spring-boot-examples) pushed_at:2021-06 star:0.1k fork:0.1k Apache Camel Spring Boot Examples
-- [apache/cassandra](https://github.com/apache/cassandra) pushed_at:2021-07 star:6.7k fork:2.9k Mirror of Apache Cassandra
+- [apache/camel-spring-boot-examples](https://github.com/apache/camel-spring-boot-examples) pushed_at:2021-07 star:0.1k fork:0.1k Apache Camel Spring Boot Examples
+- [apache/cassandra](https://github.com/apache/cassandra) pushed_at:2021-07 star:6.8k fork:2.9k Mirror of Apache Cassandra
 - [apache/cassandra-diff](https://github.com/apache/cassandra-diff) pushed_at:2021-05 star:0.0k fork:0.0k Apache cassandra diff
 - [apache/cassandra-harry](https://github.com/apache/cassandra-harry) pushed_at:2021-07 star:0.0k fork:0.0k Apache Cassandra - Harry
 - [apache/cassandra-in-jvm-dtest-api](https://github.com/apache/cassandra-in-jvm-dtest-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Cassandra in-JVM DTest API
@@ -689,7 +692,7 @@
 - [apache/commons-beanutils](https://github.com/apache/commons-beanutils) pushed_at:2021-07 star:0.2k fork:0.1k Apache Commons Beanutils
 - [apache/commons-bsf](https://github.com/apache/commons-bsf) pushed_at:2021-07 star:0.0k fork:0.0k Apache Commons BSF
 - [apache/commons-chain](https://github.com/apache/commons-chain) pushed_at:2021-05 star:0.0k fork:0.0k Apache Commons Chain
-- [apache/commons-cli](https://github.com/apache/commons-cli) pushed_at:2021-06 star:0.2k fork:0.1k Apache Commons CLI
+- [apache/commons-cli](https://github.com/apache/commons-cli) pushed_at:2021-07 star:0.2k fork:0.1k Apache Commons CLI
 - [apache/commons-codec](https://github.com/apache/commons-codec) pushed_at:2021-07 star:0.3k fork:0.2k Apache Commons Codec
 - [apache/commons-collections](https://github.com/apache/commons-collections) pushed_at:2021-07 star:0.5k fork:0.3k Apache Commons Collections
 - [apache/commons-compress](https://github.com/apache/commons-compress) pushed_at:2021-07 star:0.2k fork:0.2k Mirror of Apache Commons Compress
@@ -758,7 +761,7 @@
 - [apache/db-jdo](https://github.com/apache/db-jdo) pushed_at:2021-07 star:0.0k fork:0.0k Apache JDO project
 - [apache/ddlutils](https://github.com/apache/ddlutils) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache DB DdlUtils
 - [apache/deltaspike](https://github.com/apache/deltaspike) pushed_at:2021-07 star:0.1k fork:0.1k Mirror of Apache Deltaspike
-- [apache/derby](https://github.com/apache/derby) pushed_at:2020-12 star:0.2k fork:0.1k Mirror of Apache Derby
+- [apache/derby](https://github.com/apache/derby) pushed_at:2020-12 star:0.3k fork:0.1k Mirror of Apache Derby
 - [apache/directmemory](https://github.com/apache/directmemory) pushed_at:2019-10 star:0.1k fork:0.0k Mirror of Apache DirectMemory
 - [apache/directmemory-lightning](https://github.com/apache/directmemory-lightning) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Directmemory - Lightning
 - [apache/directory-buildtools](https://github.com/apache/directory-buildtools) pushed_at:2021-06 star:0.0k fork:0.0k Apache Directory Build Tools
@@ -783,15 +786,15 @@
 - [apache/dubbo-async-processor](https://github.com/apache/dubbo-async-processor) pushed_at:2018-12 star:0.0k fork:0.0k Source processor Dubbo interface.
 - [apache/dubbo-benchmark](https://github.com/apache/dubbo-benchmark) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [apache/dubbo-feature-test](https://github.com/apache/dubbo-feature-test) pushed_at:2017-11 star:0.0k fork:0.0k Apache Dubbo feature test 
-- [apache/dubbo-hessian-lite](https://github.com/apache/dubbo-hessian-lite) pushed_at:2021-01 star:0.0k fork:0.0k Hessian Lite for Apache Dubbo
+- [apache/dubbo-hessian-lite](https://github.com/apache/dubbo-hessian-lite) pushed_at:2021-07 star:0.0k fork:0.0k Hessian Lite for Apache Dubbo
 - [apache/dubbo-kubernetes](https://github.com/apache/dubbo-kubernetes) pushed_at:2021-07 star:0.1k fork:0.0k Apache Dubbo integration with k8s
 - [apache/dubbo-proxy](https://github.com/apache/dubbo-proxy) pushed_at:2021-02 star:0.2k fork:0.1k Apache dubbo
 - [apache/dubbo-rpc-jsonrpc](https://github.com/apache/dubbo-rpc-jsonrpc) pushed_at:2018-09 star:0.2k fork:0.1k The Json rpc module of Apache Dubbo project
 - [apache/dubbo-samples](https://github.com/apache/dubbo-samples) pushed_at:2021-07 star:1.4k fork:1.1k samples for Apache Dubbo
 - [apache/dubbo-sentinel-support](https://github.com/apache/dubbo-sentinel-support) pushed_at:2019-10 star:0.1k fork:0.0k Sentinel integration for Apache Dubbo
 - [apache/dubbo-serialization-gson](https://github.com/apache/dubbo-serialization-gson) pushed_at:2018-11 star:0.0k fork:0.0k Dubbo gson serialization extension
-- [apache/dubbo-spi-extensions](https://github.com/apache/dubbo-spi-extensions) pushed_at:2021-06 star:0.0k fork:0.0k Apache Dubbo SPI Extensions
-- [apache/dubbo-spring-boot-project](https://github.com/apache/dubbo-spring-boot-project) pushed_at:2021-05 star:5.2k fork:1.8k Spring Boot Project for Apache Dubbo
+- [apache/dubbo-spi-extensions](https://github.com/apache/dubbo-spi-extensions) pushed_at:2021-07 star:0.0k fork:0.0k Apache Dubbo SPI Extensions
+- [apache/dubbo-spring-boot-project](https://github.com/apache/dubbo-spring-boot-project) pushed_at:2021-07 star:5.2k fork:1.8k Spring Boot Project for Apache Dubbo
 - [apache/eagle](https://github.com/apache/eagle) pushed_at:2020-08 star:0.4k fork:0.2k Mirror of Apache Eagle
 - [apache/empire-db](https://github.com/apache/empire-db) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache Empire-db
 - [apache/etch](https://github.com/apache/etch) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Etch
@@ -854,7 +857,7 @@
 - [apache/geode-examples](https://github.com/apache/geode-examples) pushed_at:2021-07 star:0.1k fork:0.1k Apache Geode Examples
 - [apache/geode-kafka-connector](https://github.com/apache/geode-kafka-connector) pushed_at:2021-01 star:0.0k fork:0.0k Kafka connector for Apache Geode
 - [apache/geronimo](https://github.com/apache/geronimo) pushed_at:2019-10 star:0.0k fork:0.0k Mirror of Apache Geronimo
-- [apache/geronimo-arthur](https://github.com/apache/geronimo-arthur) pushed_at:2021-04 star:0.0k fork:0.0k Apache Geronimo Arthur repository, a GraalVM helper layer
+- [apache/geronimo-arthur](https://github.com/apache/geronimo-arthur) pushed_at:2021-07 star:0.0k fork:0.0k Apache Geronimo Arthur repository, a GraalVM helper layer
 - [apache/geronimo-batchee](https://github.com/apache/geronimo-batchee) pushed_at:2021-04 star:0.0k fork:0.0k Apache Geronimo BatchEE JBatch implementation
 - [apache/geronimo-config](https://github.com/apache/geronimo-config) pushed_at:2021-02 star:0.0k fork:0.0k Apache Geronimo Config
 - [apache/geronimo-devtools](https://github.com/apache/geronimo-devtools) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Geronimo Devtools
@@ -893,7 +896,7 @@
 - [apache/hbase-thirdparty](https://github.com/apache/hbase-thirdparty) pushed_at:2021-06 star:0.0k fork:0.0k Mirror of Apache HBase Third Party Libs
 - [apache/hcatalog](https://github.com/apache/hcatalog) pushed_at:2018-12 star:0.1k fork:0.0k Mirror of Apache HCatalog
 - [apache/helix](https://github.com/apache/helix) pushed_at:2021-07 star:0.3k fork:0.2k Mirror of Apache Helix
-- [apache/hive](https://github.com/apache/hive) pushed_at:2021-07 star:3.8k fork:3.6k Apache Hive
+- [apache/hive](https://github.com/apache/hive) pushed_at:2021-07 star:3.8k fork:3.7k Apache Hive
 - [apache/httpasyncclient](https://github.com/apache/httpasyncclient) pushed_at:2019-08 star:0.1k fork:0.1k Mirror of Apache HttpComponents HttpAsyncClient
 - [apache/httpcomponents-client](https://github.com/apache/httpcomponents-client) pushed_at:2021-06 star:1.1k fork:0.8k Mirror of Apache HttpClient
 - [apache/httpcomponents-core](https://github.com/apache/httpcomponents-core) pushed_at:2021-07 star:0.2k fork:0.3k Mirror of Apache HttpCore
@@ -914,7 +917,7 @@
 - [apache/incubator-heron](https://github.com/apache/incubator-heron) pushed_at:2021-07 star:3.6k fork:0.6k Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter
 - [apache/incubator-hivemall](https://github.com/apache/incubator-hivemall) pushed_at:2021-07 star:0.3k fork:0.1k Mirror of Apache Hivemall (incubating)
 - [apache/incubator-hop](https://github.com/apache/incubator-hop) pushed_at:2021-07 star:0.1k fork:0.1k Hop Orchestration Platform
-- [apache/incubator-inlong](https://github.com/apache/incubator-inlong) pushed_at:2021-07 star:0.3k fork:0.1k Apache InLong
+- [apache/incubator-inlong](https://github.com/apache/incubator-inlong) pushed_at:2021-07 star:0.3k fork:0.1k Apache InLong - a one-stop data streaming platform
 - [apache/incubator-knox](https://github.com/apache/incubator-knox) pushed_at:2014-02 star:0.0k fork:0.0k Mirror of Apache Knox (Incubating)
 - [apache/incubator-milagro-java](https://github.com/apache/incubator-milagro-java) pushed_at:2018-11 star:0.0k fork:0.0k [DEPRECATED] - Apache Milagro
 - [apache/incubator-myriad](https://github.com/apache/incubator-myriad) pushed_at:2019-11 star:0.2k fork:0.1k Mirror of Apache Myriad (Incubating)
@@ -922,7 +925,6 @@
 - [apache/incubator-nlpcraft-java-client](https://github.com/apache/incubator-nlpcraft-java-client) pushed_at:2021-05 star:0.0k fork:0.0k Native Java Client for Apache NLPCraft.
 - [apache/incubator-optiq-csv](https://github.com/apache/incubator-optiq-csv) pushed_at:2020-02 star:0.0k fork:0.0k Mirror of Apache Optiq
 - [apache/incubator-optiq-linq4j](https://github.com/apache/incubator-optiq-linq4j) pushed_at:2020-02 star:0.0k fork:0.0k Mirror of Apache Optiq
-- [apache/incubator-pinot](https://github.com/apache/incubator-pinot) pushed_at:2021-07 star:3.2k fork:0.7k Apache Pinot (Incubating) - A realtime distributed OLAP datastore
 - [apache/incubator-retired-blur](https://github.com/apache/incubator-retired-blur) pushed_at:2018-12 star:0.0k fork:0.0k Mirror of Apache Blur
 - [apache/incubator-retired-edgent](https://github.com/apache/incubator-retired-edgent) pushed_at:2019-11 star:0.2k fork:0.1k Mirror of Apache Edgent (Incubating)
 - [apache/incubator-retired-edgent-samples](https://github.com/apache/incubator-retired-edgent-samples) pushed_at:2018-02 star:0.0k fork:0.0k Mirror of Apache Edgent (Incubating) Samples
@@ -967,7 +969,7 @@
 - [apache/incubator-wayang](https://github.com/apache/incubator-wayang) pushed_at:2021-06 star:0.0k fork:0.0k Apache Wayang
 - [apache/incubator-weex-playground](https://github.com/apache/incubator-weex-playground) pushed_at:2021-05 star:0.0k fork:0.0k Playground for Apache Weex, demo purpose only
 - [apache/infrastructure-jenkins](https://github.com/apache/infrastructure-jenkins) pushed_at:2021-07 star:0.0k fork:0.0k Apache infra
-- [apache/iotdb](https://github.com/apache/iotdb) pushed_at:2021-07 star:1.5k fork:0.4k Apache IoTDB
+- [apache/iotdb](https://github.com/apache/iotdb) pushed_at:2021-07 star:1.5k fork:0.5k Apache IoTDB
 - [apache/isis](https://github.com/apache/isis) pushed_at:2021-07 star:0.6k fork:0.3k Apache Isis™ software is a framework for rapidly developing domain-driven apps in Java. Write your business logic in entities, domain services or view models, and the framework dynamically generates a representation of that domain model as a webapp or as a RESTful API. For prototyping or production. 
 - [apache/isis-app-helloworld](https://github.com/apache/isis-app-helloworld) pushed_at:2021-07 star:0.0k fork:0.0k App to get you up and running quickly with Apache Isis
 - [apache/isis-app-simpleapp](https://github.com/apache/isis-app-simpleapp) pushed_at:2021-07 star:0.0k fork:0.0k App with some structure and example tests thats a good template on which to build a real-world Apache Isis app.
@@ -977,9 +979,9 @@
 - [apache/jackrabbit-oak](https://github.com/apache/jackrabbit-oak) pushed_at:2021-07 star:0.3k fork:0.3k Apache Jackrabbit Oak
 - [apache/jackrabbit-ocm](https://github.com/apache/jackrabbit-ocm) pushed_at:2019-10 star:0.0k fork:0.0k Mirror of Apache Jackrabbit OCM
 - [apache/james-hupa](https://github.com/apache/james-hupa) pushed_at:2020-07 star:0.0k fork:0.0k Apache James hupa
-- [apache/james-jdkim](https://github.com/apache/james-jdkim) pushed_at:2021-06 star:0.0k fork:0.0k Mirror of Apache James jdkim
-- [apache/james-jsieve](https://github.com/apache/james-jsieve) pushed_at:2021-06 star:0.0k fork:0.0k Mirror of Apache James jSieve
-- [apache/james-jspf](https://github.com/apache/james-jspf) pushed_at:2021-06 star:0.0k fork:0.0k Mirror of Apache James jSPF
+- [apache/james-jdkim](https://github.com/apache/james-jdkim) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache James jdkim
+- [apache/james-jsieve](https://github.com/apache/james-jsieve) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache James jSieve
+- [apache/james-jspf](https://github.com/apache/james-jspf) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache James jSPF
 - [apache/james-mime4j](https://github.com/apache/james-mime4j) pushed_at:2021-07 star:0.0k fork:0.1k Mirror of Apache James Mime4j
 - [apache/james-postage](https://github.com/apache/james-postage) pushed_at:2020-07 star:0.0k fork:0.0k Mirror of Apache James postage
 - [apache/james-project](https://github.com/apache/james-project) pushed_at:2021-07 star:0.5k fork:0.3k Emails at the heart of your business logic!
@@ -998,7 +1000,7 @@
 - [apache/juddi-scout](https://github.com/apache/juddi-scout) pushed_at:2019-01 star:0.0k fork:0.0k Mirror of Apache jUDDI
 - [apache/juneau](https://github.com/apache/juneau) pushed_at:2021-07 star:0.1k fork:0.0k Apache Juneau is a single cohesive framework
 - [apache/juneau-petstore](https://github.com/apache/juneau-petstore) pushed_at:2020-10 star:0.0k fork:0.0k Apache Juneau Petstore
-- [apache/kafka](https://github.com/apache/kafka) pushed_at:2021-07 star:19.4k fork:10.3k Mirror of Apache Kafka
+- [apache/kafka](https://github.com/apache/kafka) pushed_at:2021-07 star:19.5k fork:10.3k Mirror of Apache Kafka
 - [apache/kalumet](https://github.com/apache/kalumet) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Kalument (Incubating)
 - [apache/kandula](https://github.com/apache/kandula) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Kandula
 - [apache/karaf](https://github.com/apache/karaf) pushed_at:2021-07 star:0.5k fork:0.6k Mirror of Apache Karaf
@@ -1040,105 +1042,105 @@
 - [apache/marmotta](https://github.com/apache/marmotta) pushed_at:2020-03 star:0.0k fork:0.1k Mirror of Apache Marmotta
 - [apache/maven](https://github.com/apache/maven) pushed_at:2021-07 star:2.7k fork:2.0k Apache Maven core
 - [apache/maven-2](https://github.com/apache/maven-2) pushed_at:2020-02 star:0.0k fork:0.0k Mirror of Apache Maven 2
-- [apache/maven-acr-plugin](https://github.com/apache/maven-acr-plugin) pushed_at:2020-08 star:0.0k fork:0.0k Apache Maven ACR Plugin
+- [apache/maven-acr-plugin](https://github.com/apache/maven-acr-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven ACR Plugin
 - [apache/maven-ant-plugin](https://github.com/apache/maven-ant-plugin) pushed_at:2019-06 star:0.0k fork:0.0k Apache Maven Ant Plugin - retired
 - [apache/maven-ant-tasks](https://github.com/apache/maven-ant-tasks) pushed_at:2020-08 star:0.0k fork:0.0k Mirror of Apache Maven ant tasks
 - [apache/maven-antrun-plugin](https://github.com/apache/maven-antrun-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven AntRun Plugin
 - [apache/maven-app-engine](https://github.com/apache/maven-app-engine) pushed_at:2017-04 star:0.0k fork:0.0k [deprecated] Mirror of Apache Maven App Engine
 - [apache/maven-archetype](https://github.com/apache/maven-archetype) pushed_at:2021-07 star:0.1k fork:0.1k Apache Maven Archetype (Plugin)
-- [apache/maven-archetypes](https://github.com/apache/maven-archetypes) pushed_at:2021-03 star:0.0k fork:0.0k Apache Maven Archetype Bundles
-- [apache/maven-archiver](https://github.com/apache/maven-archiver) pushed_at:2021-05 star:0.0k fork:0.0k Apache Maven Archiver
+- [apache/maven-archetypes](https://github.com/apache/maven-archetypes) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Archetype Bundles
+- [apache/maven-archiver](https://github.com/apache/maven-archiver) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Archiver
 - [apache/maven-artifact](https://github.com/apache/maven-artifact) pushed_at:2018-12 star:0.0k fork:0.0k [deprecated] Mirror of Apache Maven artifact
 - [apache/maven-artifact-plugin](https://github.com/apache/maven-artifact-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Artifact Plugin
 - [apache/maven-artifact-resolver](https://github.com/apache/maven-artifact-resolver) pushed_at:2019-05 star:0.0k fork:0.0k Apache Maven Artifact Resolver -- Archived
 - [apache/maven-artifact-transfer](https://github.com/apache/maven-artifact-transfer) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Artifact Transfer
-- [apache/maven-assembly-plugin](https://github.com/apache/maven-assembly-plugin) pushed_at:2021-05 star:0.0k fork:0.0k Apache Maven Assembly Plugin
-- [apache/maven-changelog-plugin](https://github.com/apache/maven-changelog-plugin) pushed_at:2021-03 star:0.0k fork:0.0k Apache Maven Changelog Plugin
-- [apache/maven-changes-plugin](https://github.com/apache/maven-changes-plugin) pushed_at:2021-04 star:0.0k fork:0.0k Apache Maven Changes Plugin
+- [apache/maven-assembly-plugin](https://github.com/apache/maven-assembly-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Assembly Plugin
+- [apache/maven-changelog-plugin](https://github.com/apache/maven-changelog-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Changelog Plugin
+- [apache/maven-changes-plugin](https://github.com/apache/maven-changes-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Changes Plugin
 - [apache/maven-checkstyle-plugin](https://github.com/apache/maven-checkstyle-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Checkstyle Plugin
-- [apache/maven-clean-plugin](https://github.com/apache/maven-clean-plugin) pushed_at:2021-01 star:0.0k fork:0.0k Apache Maven Clean Plugin
-- [apache/maven-common-artifact-filters](https://github.com/apache/maven-common-artifact-filters) pushed_at:2021-05 star:0.0k fork:0.0k Apache Maven Common Artifact Filters
+- [apache/maven-clean-plugin](https://github.com/apache/maven-clean-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Clean Plugin
+- [apache/maven-common-artifact-filters](https://github.com/apache/maven-common-artifact-filters) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Common Artifact Filters
 - [apache/maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin) pushed_at:2021-07 star:0.1k fork:0.1k Apache Maven Compiler Plugin
 - [apache/maven-dependency-analyzer](https://github.com/apache/maven-dependency-analyzer) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Dependency Analyzer
 - [apache/maven-dependency-plugin](https://github.com/apache/maven-dependency-plugin) pushed_at:2021-07 star:0.1k fork:0.1k Apache Maven Dependency Plugin
 - [apache/maven-dependency-tree](https://github.com/apache/maven-dependency-tree) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Dependency Tree
-- [apache/maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) pushed_at:2021-05 star:0.0k fork:0.0k Apache Maven Deploy Plugin
-- [apache/maven-doap-plugin](https://github.com/apache/maven-doap-plugin) pushed_at:2020-08 star:0.0k fork:0.0k Apache Maven DOAP Plugin
-- [apache/maven-docck-plugin](https://github.com/apache/maven-docck-plugin) pushed_at:2021-05 star:0.0k fork:0.0k Apache Maven Documentation Checker Plugin
+- [apache/maven-deploy-plugin](https://github.com/apache/maven-deploy-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Deploy Plugin
+- [apache/maven-doap-plugin](https://github.com/apache/maven-doap-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven DOAP Plugin
+- [apache/maven-docck-plugin](https://github.com/apache/maven-docck-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Documentation Checker Plugin
 - [apache/maven-downloader](https://github.com/apache/maven-downloader) pushed_at:2019-06 star:0.0k fork:0.0k Apache Maven Downloader
 - [apache/maven-doxia](https://github.com/apache/maven-doxia) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Doxia base
-- [apache/maven-doxia-book-maven-plugin](https://github.com/apache/maven-doxia-book-maven-plugin) pushed_at:2020-08 star:0.0k fork:0.0k Apache Maven Doxia Book Maven Plugin
-- [apache/maven-doxia-book-renderer](https://github.com/apache/maven-doxia-book-renderer) pushed_at:2020-08 star:0.0k fork:0.0k Apache Maven Doxia Book Renderer
+- [apache/maven-doxia-book-maven-plugin](https://github.com/apache/maven-doxia-book-maven-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Doxia Book Maven Plugin
+- [apache/maven-doxia-book-renderer](https://github.com/apache/maven-doxia-book-renderer) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Doxia Book Renderer
 - [apache/maven-doxia-converter](https://github.com/apache/maven-doxia-converter) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Doxia Converter
 - [apache/maven-doxia-ide](https://github.com/apache/maven-doxia-ide) pushed_at:2018-01 star:0.0k fork:0.0k [deprecated] Mirror of Apache Maven Doxia IDE
-- [apache/maven-doxia-sitetools](https://github.com/apache/maven-doxia-sitetools) pushed_at:2021-06 star:0.0k fork:0.0k Apache Maven Doxia Sitetools
+- [apache/maven-doxia-sitetools](https://github.com/apache/maven-doxia-sitetools) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Doxia Sitetools
 - [apache/maven-doxia-tools](https://github.com/apache/maven-doxia-tools) pushed_at:2019-12 star:0.0k fork:0.0k [deprecated] Mirror of Apache Maven Doxia tools
-- [apache/maven-ear-plugin](https://github.com/apache/maven-ear-plugin) pushed_at:2021-02 star:0.0k fork:0.0k Apache Maven EAR Plugin
-- [apache/maven-ejb-plugin](https://github.com/apache/maven-ejb-plugin) pushed_at:2021-01 star:0.0k fork:0.0k Apache Maven EJB Plugin
+- [apache/maven-ear-plugin](https://github.com/apache/maven-ear-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven EAR Plugin
+- [apache/maven-ejb-plugin](https://github.com/apache/maven-ejb-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven EJB Plugin
 - [apache/maven-enforcer](https://github.com/apache/maven-enforcer) pushed_at:2021-07 star:0.1k fork:0.1k Apache Maven Enforcer (Plugin)
-- [apache/maven-file-management](https://github.com/apache/maven-file-management) pushed_at:2020-10 star:0.0k fork:0.0k Apache Maven File Management API
-- [apache/maven-filtering](https://github.com/apache/maven-filtering) pushed_at:2021-02 star:0.0k fork:0.0k Apache Maven Filtering
-- [apache/maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) pushed_at:2021-05 star:0.0k fork:0.0k Apache Maven GPG Plugin
-- [apache/maven-help-plugin](https://github.com/apache/maven-help-plugin) pushed_at:2021-06 star:0.0k fork:0.0k Apache Maven Help Plugin
+- [apache/maven-file-management](https://github.com/apache/maven-file-management) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven File Management API
+- [apache/maven-filtering](https://github.com/apache/maven-filtering) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Filtering
+- [apache/maven-gpg-plugin](https://github.com/apache/maven-gpg-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven GPG Plugin
+- [apache/maven-help-plugin](https://github.com/apache/maven-help-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Help Plugin
 - [apache/maven-indexer](https://github.com/apache/maven-indexer) pushed_at:2021-07 star:0.0k fork:0.1k Apache Maven Indexer
-- [apache/maven-install-plugin](https://github.com/apache/maven-install-plugin) pushed_at:2021-05 star:0.0k fork:0.0k Apache Maven Install Plugin
+- [apache/maven-install-plugin](https://github.com/apache/maven-install-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Install Plugin
 - [apache/maven-integration-testing](https://github.com/apache/maven-integration-testing) pushed_at:2021-07 star:0.0k fork:0.1k Apache Maven core ITs
-- [apache/maven-invoker](https://github.com/apache/maven-invoker) pushed_at:2021-05 star:0.0k fork:0.0k Apache Maven Invoker
+- [apache/maven-invoker](https://github.com/apache/maven-invoker) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Invoker
 - [apache/maven-invoker-plugin](https://github.com/apache/maven-invoker-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Invoker Plugin
-- [apache/maven-jar-plugin](https://github.com/apache/maven-jar-plugin) pushed_at:2021-04 star:0.0k fork:0.0k Apache Maven JAR Plugin
-- [apache/maven-jarsigner](https://github.com/apache/maven-jarsigner) pushed_at:2020-08 star:0.0k fork:0.0k Apache Maven Jarsigner
-- [apache/maven-jarsigner-plugin](https://github.com/apache/maven-jarsigner-plugin) pushed_at:2021-04 star:0.0k fork:0.0k Apache Maven Jarsigner Plugin
+- [apache/maven-jar-plugin](https://github.com/apache/maven-jar-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven JAR Plugin
+- [apache/maven-jarsigner](https://github.com/apache/maven-jarsigner) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Jarsigner
+- [apache/maven-jarsigner-plugin](https://github.com/apache/maven-jarsigner-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Jarsigner Plugin
 - [apache/maven-javadoc-plugin](https://github.com/apache/maven-javadoc-plugin) pushed_at:2021-07 star:0.0k fork:0.1k Apache Maven Javadoc Plugin
-- [apache/maven-jdeprscan-plugin](https://github.com/apache/maven-jdeprscan-plugin) pushed_at:2021-02 star:0.0k fork:0.0k Apache Maven JDeprscan Plugin
+- [apache/maven-jdeprscan-plugin](https://github.com/apache/maven-jdeprscan-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven JDeprscan Plugin
 - [apache/maven-jdeps-plugin](https://github.com/apache/maven-jdeps-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven JDeps Plugin
 - [apache/maven-jlink-plugin](https://github.com/apache/maven-jlink-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven JLink Plugin
 - [apache/maven-jmod-plugin](https://github.com/apache/maven-jmod-plugin) pushed_at:2020-08 star:0.0k fork:0.0k Apache Maven JMod Plugin
 - [apache/maven-jxr](https://github.com/apache/maven-jxr) pushed_at:2021-04 star:0.0k fork:0.0k Apache Maven JXR (Plugin)
-- [apache/maven-linkcheck-plugin](https://github.com/apache/maven-linkcheck-plugin) pushed_at:2020-08 star:0.0k fork:0.0k Apache Maven Linkcheck Plugin
-- [apache/maven-mapping](https://github.com/apache/maven-mapping) pushed_at:2020-09 star:0.0k fork:0.0k Apache Maven Mapping
+- [apache/maven-linkcheck-plugin](https://github.com/apache/maven-linkcheck-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Linkcheck Plugin
+- [apache/maven-mapping](https://github.com/apache/maven-mapping) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Mapping
 - [apache/maven-mercury](https://github.com/apache/maven-mercury) pushed_at:2017-04 star:0.0k fork:0.0k [deprecated] Mirror of Apache Maven mercury
 - [apache/maven-osgi](https://github.com/apache/maven-osgi) pushed_at:2019-08 star:0.0k fork:0.0k Apache Maven OSGi - This project is retired
 - [apache/maven-patch-plugin](https://github.com/apache/maven-patch-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Patch Plugin
 - [apache/maven-pdf-plugin](https://github.com/apache/maven-pdf-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven PDF Plugin
-- [apache/maven-plugin-testing](https://github.com/apache/maven-plugin-testing) pushed_at:2021-02 star:0.0k fork:0.0k Apache Maven Plugin Testing
-- [apache/maven-plugin-tools](https://github.com/apache/maven-plugin-tools) pushed_at:2021-06 star:0.0k fork:0.0k Apache Maven Plugin Tools
+- [apache/maven-plugin-testing](https://github.com/apache/maven-plugin-testing) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Plugin Testing
+- [apache/maven-plugin-tools](https://github.com/apache/maven-plugin-tools) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Plugin Tools
 - [apache/maven-plugins](https://github.com/apache/maven-plugins) pushed_at:2019-11 star:0.2k fork:0.3k [deprecated] Mirror of Apache Maven plugins
 - [apache/maven-pmd-plugin](https://github.com/apache/maven-pmd-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven PMD Plugin
-- [apache/maven-project-info-reports-plugin](https://github.com/apache/maven-project-info-reports-plugin) pushed_at:2021-04 star:0.0k fork:0.0k Apache Maven Project Info Reports Plugin
-- [apache/maven-project-utils](https://github.com/apache/maven-project-utils) pushed_at:2020-08 star:0.0k fork:0.0k Apache Maven Project Utils
-- [apache/maven-rar-plugin](https://github.com/apache/maven-rar-plugin) pushed_at:2021-04 star:0.0k fork:0.0k Apache Maven RAR Plugin
-- [apache/maven-release](https://github.com/apache/maven-release) pushed_at:2021-04 star:0.1k fork:0.1k Apache Maven Release (Plugin)
-- [apache/maven-remote-resources-plugin](https://github.com/apache/maven-remote-resources-plugin) pushed_at:2020-10 star:0.0k fork:0.0k Apache Maven Remote Resources Plugin
-- [apache/maven-reporting-api](https://github.com/apache/maven-reporting-api) pushed_at:2021-04 star:0.0k fork:0.0k Apache Maven Reporting API
-- [apache/maven-reporting-exec](https://github.com/apache/maven-reporting-exec) pushed_at:2021-02 star:0.0k fork:0.0k Apache Maven Reporting Executor
-- [apache/maven-reporting-impl](https://github.com/apache/maven-reporting-impl) pushed_at:2020-10 star:0.0k fork:0.0k Apache Maven Reporting Implementation
+- [apache/maven-project-info-reports-plugin](https://github.com/apache/maven-project-info-reports-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Project Info Reports Plugin
+- [apache/maven-project-utils](https://github.com/apache/maven-project-utils) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Project Utils
+- [apache/maven-rar-plugin](https://github.com/apache/maven-rar-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven RAR Plugin
+- [apache/maven-release](https://github.com/apache/maven-release) pushed_at:2021-07 star:0.1k fork:0.1k Apache Maven Release (Plugin)
+- [apache/maven-remote-resources-plugin](https://github.com/apache/maven-remote-resources-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Remote Resources Plugin
+- [apache/maven-reporting-api](https://github.com/apache/maven-reporting-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Reporting API
+- [apache/maven-reporting-exec](https://github.com/apache/maven-reporting-exec) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Reporting Executor
+- [apache/maven-reporting-impl](https://github.com/apache/maven-reporting-impl) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Reporting Implementation
 - [apache/maven-repository-builder-retired](https://github.com/apache/maven-repository-builder-retired) pushed_at:2019-08 star:0.0k fork:0.0k Apache Maven Repository Builder
 - [apache/maven-repository-plugin](https://github.com/apache/maven-repository-plugin) pushed_at:2019-05 star:0.0k fork:0.0k Apache Maven Repository Plugin
 - [apache/maven-resolver](https://github.com/apache/maven-resolver) pushed_at:2021-07 star:0.0k fork:0.1k Apache Maven Artifact Resolver
-- [apache/maven-resolver-ant-tasks](https://github.com/apache/maven-resolver-ant-tasks) pushed_at:2021-05 star:0.0k fork:0.0k Apache Maven Artifact Resolver Ant Tasks
+- [apache/maven-resolver-ant-tasks](https://github.com/apache/maven-resolver-ant-tasks) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Artifact Resolver Ant Tasks
 - [apache/maven-resources](https://github.com/apache/maven-resources) pushed_at:2019-02 star:0.0k fork:0.0k [deprecated] Mirror of Apache Maven resources
-- [apache/maven-resources-plugin](https://github.com/apache/maven-resources-plugin) pushed_at:2020-10 star:0.0k fork:0.0k Apache Maven Resources Plugin
+- [apache/maven-resources-plugin](https://github.com/apache/maven-resources-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Resources Plugin
 - [apache/maven-runtime](https://github.com/apache/maven-runtime) pushed_at:2019-05 star:0.0k fork:0.0k Apache Maven Runtime -- Archived
 - [apache/maven-sandbox](https://github.com/apache/maven-sandbox) pushed_at:2019-10 star:0.0k fork:0.0k [deprecated] Mirror of Apache Maven sandbox
-- [apache/maven-scm](https://github.com/apache/maven-scm) pushed_at:2021-05 star:0.1k fork:0.2k Apache Maven SCM (Plugin)
-- [apache/maven-scm-publish-plugin](https://github.com/apache/maven-scm-publish-plugin) pushed_at:2020-12 star:0.0k fork:0.0k Apache Maven SCM Publish Plugin
+- [apache/maven-scm](https://github.com/apache/maven-scm) pushed_at:2021-07 star:0.1k fork:0.2k Apache Maven SCM (Plugin)
+- [apache/maven-scm-publish-plugin](https://github.com/apache/maven-scm-publish-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven SCM Publish Plugin
 - [apache/maven-script-interpreter](https://github.com/apache/maven-script-interpreter) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Script Interpreter
-- [apache/maven-scripting-plugin](https://github.com/apache/maven-scripting-plugin) pushed_at:2021-05 star:0.0k fork:0.0k Apache Maven Scripting Plugin
+- [apache/maven-scripting-plugin](https://github.com/apache/maven-scripting-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Scripting Plugin
 - [apache/maven-shade-plugin](https://github.com/apache/maven-shade-plugin) pushed_at:2021-07 star:0.1k fork:0.1k Apache Maven Shade Plugin
 - [apache/maven-shared](https://github.com/apache/maven-shared) pushed_at:2019-06 star:0.0k fork:0.0k [deprecated] Mirror of Apache Maven shared
-- [apache/maven-shared-incremental](https://github.com/apache/maven-shared-incremental) pushed_at:2020-08 star:0.0k fork:0.0k Apache Maven Shared Incremental
-- [apache/maven-shared-io](https://github.com/apache/maven-shared-io) pushed_at:2021-04 star:0.0k fork:0.0k Apache Maven Shared IO
-- [apache/maven-shared-jar](https://github.com/apache/maven-shared-jar) pushed_at:2020-10 star:0.0k fork:0.0k Apache Maven JAR Utilities
+- [apache/maven-shared-incremental](https://github.com/apache/maven-shared-incremental) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Shared Incremental
+- [apache/maven-shared-io](https://github.com/apache/maven-shared-io) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Shared IO
+- [apache/maven-shared-jar](https://github.com/apache/maven-shared-jar) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven JAR Utilities
 - [apache/maven-shared-utils](https://github.com/apache/maven-shared-utils) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Shared Utils
 - [apache/maven-site-plugin](https://github.com/apache/maven-site-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Site Plugin
-- [apache/maven-source-plugin](https://github.com/apache/maven-source-plugin) pushed_at:2021-04 star:0.0k fork:0.0k Apache Maven Source Plugin
-- [apache/maven-stage-plugin](https://github.com/apache/maven-stage-plugin) pushed_at:2021-01 star:0.0k fork:0.0k Apache Maven Stage Plugin
+- [apache/maven-source-plugin](https://github.com/apache/maven-source-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Source Plugin
+- [apache/maven-stage-plugin](https://github.com/apache/maven-stage-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Stage Plugin
 - [apache/maven-surefire](https://github.com/apache/maven-surefire) pushed_at:2021-07 star:0.3k fork:0.4k Apache Maven Surefire
-- [apache/maven-toolchains-plugin](https://github.com/apache/maven-toolchains-plugin) pushed_at:2021-05 star:0.0k fork:0.0k Apache Maven Toolchains Plugin
-- [apache/maven-verifier](https://github.com/apache/maven-verifier) pushed_at:2020-10 star:0.0k fork:0.0k Apache Maven Verifier
-- [apache/maven-verifier-plugin](https://github.com/apache/maven-verifier-plugin) pushed_at:2020-10 star:0.0k fork:0.0k Apache Maven Verifier Plugin
-- [apache/maven-wagon](https://github.com/apache/maven-wagon) pushed_at:2021-02 star:0.0k fork:0.1k Apache Maven Wagon
-- [apache/maven-war-plugin](https://github.com/apache/maven-war-plugin) pushed_at:2021-05 star:0.0k fork:0.0k Apache Maven WAR Plugin
+- [apache/maven-toolchains-plugin](https://github.com/apache/maven-toolchains-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Toolchains Plugin
+- [apache/maven-verifier](https://github.com/apache/maven-verifier) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Verifier
+- [apache/maven-verifier-plugin](https://github.com/apache/maven-verifier-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Verifier Plugin
+- [apache/maven-wagon](https://github.com/apache/maven-wagon) pushed_at:2021-07 star:0.0k fork:0.1k Apache Maven Wagon
+- [apache/maven-war-plugin](https://github.com/apache/maven-war-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven WAR Plugin
 - [apache/metamodel](https://github.com/apache/metamodel) pushed_at:2021-06 star:0.1k fork:0.1k Mirror of Apache Metamodel
 - [apache/metamodel-membrane](https://github.com/apache/metamodel-membrane) pushed_at:2019-06 star:0.0k fork:0.0k Mirror of Apache MetaModel Membrane
 - [apache/metron](https://github.com/apache/metron) pushed_at:2020-08 star:0.8k fork:0.5k Apache Metron
@@ -1159,7 +1161,7 @@
 - [apache/myfaces-trinidad](https://github.com/apache/myfaces-trinidad) pushed_at:2021-02 star:0.0k fork:0.0k Apache MyFaces Trinidad
 - [apache/myfaces-trinidad-maven](https://github.com/apache/myfaces-trinidad-maven) pushed_at:2018-12 star:0.0k fork:0.0k Apache MyFaces Trinidad Maven Plugins
 - [apache/netbeans](https://github.com/apache/netbeans) pushed_at:2021-07 star:1.6k fork:0.6k Apache NetBeans
-- [apache/netbeans-html4j](https://github.com/apache/netbeans-html4j) pushed_at:2021-06 star:0.0k fork:0.0k Apache NetBeans HTML4J
+- [apache/netbeans-html4j](https://github.com/apache/netbeans-html4j) pushed_at:2021-07 star:0.0k fork:0.0k Apache NetBeans HTML4J
 - [apache/netbeans-jackpot30](https://github.com/apache/netbeans-jackpot30) pushed_at:2021-05 star:0.0k fork:0.0k Apache Netbeans Jackpot 30
 - [apache/netbeans-mavenutils-archetype-netbeans-platform-app-archetype](https://github.com/apache/netbeans-mavenutils-archetype-netbeans-platform-app-archetype) pushed_at:2021-02 star:0.0k fork:0.0k Apache NetBeans Maven Archetypes for Apache NetBeans Platform Application
 - [apache/netbeans-mavenutils-nb-repository-plugin](https://github.com/apache/netbeans-mavenutils-nb-repository-plugin) pushed_at:2021-02 star:0.0k fork:0.0k Apache NetBeans Maven Utils to populate repository with Apache NetBeans bits 
@@ -1207,9 +1209,10 @@
 - [apache/phoenix-omid](https://github.com/apache/phoenix-omid) pushed_at:2021-07 star:0.1k fork:0.0k Mirror of Apache Omid Incubator
 - [apache/phoenix-tephra](https://github.com/apache/phoenix-tephra) pushed_at:2021-05 star:0.0k fork:0.0k Mirror of Apache Tephra (Incubating)
 - [apache/pig](https://github.com/apache/pig) pushed_at:2020-11 star:0.6k fork:0.5k Mirror of Apache Pig
+- [apache/pinot](https://github.com/apache/pinot) pushed_at:2021-07 star:3.2k fork:0.7k Apache Pinot (Incubating) - A realtime distributed OLAP datastore
 - [apache/pivot](https://github.com/apache/pivot) pushed_at:2019-08 star:0.0k fork:0.0k Mirror of Apache Pivot
 - [apache/plc4x](https://github.com/apache/plc4x) pushed_at:2021-07 star:0.4k fork:0.2k PLC4X The Industrial IoT adapter
-- [apache/plc4x-build-tools](https://github.com/apache/plc4x-build-tools) pushed_at:2021-06 star:0.0k fork:0.0k Apache plc4x Build Tools
+- [apache/plc4x-build-tools](https://github.com/apache/plc4x-build-tools) pushed_at:2021-07 star:0.0k fork:0.0k Apache plc4x Build Tools
 - [apache/poi](https://github.com/apache/poi) pushed_at:2021-07 star:1.2k fork:0.5k Mirror of Apache POI
 - [apache/polygene-java](https://github.com/apache/polygene-java) pushed_at:2019-03 star:0.1k fork:0.0k Mirror of Apache Polygene java
 - [apache/polygene-sandbox](https://github.com/apache/polygene-sandbox) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Polygene sandbox
@@ -1234,9 +1237,9 @@
 - [apache/rave](https://github.com/apache/rave) pushed_at:2018-12 star:0.0k fork:0.0k Mirror of Apache Rave
 - [apache/reef](https://github.com/apache/reef) pushed_at:2021-05 star:0.1k fork:0.1k Mirror of Apache REEF
 - [apache/river-container](https://github.com/apache/river-container) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache River
-- [apache/rocketmq](https://github.com/apache/rocketmq) pushed_at:2021-07 star:14.9k fork:8.2k Mirror of Apache RocketMQ
+- [apache/rocketmq](https://github.com/apache/rocketmq) pushed_at:2021-07 star:14.9k fork:8.3k Mirror of Apache RocketMQ
 - [apache/rocketmq-exporter](https://github.com/apache/rocketmq-exporter) pushed_at:2021-07 star:0.1k fork:0.1k Apache RocketMQ Prometheus Exporter
-- [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) pushed_at:2021-07 star:3.7k fork:2.7k Mirror of Apache RocketMQ (Incubating)
+- [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) pushed_at:2021-07 star:3.7k fork:2.8k Mirror of Apache RocketMQ (Incubating)
 - [apache/rocketmq-ons](https://github.com/apache/rocketmq-ons) pushed_at:2019-12 star:0.0k fork:0.0k Apache RocketMQ lite client
 - [apache/rocketmq-remoting](https://github.com/apache/rocketmq-remoting) pushed_at:2019-11 star:0.0k fork:0.0k Apache RocketMQs  communication component
 - [apache/rocketmq-spring](https://github.com/apache/rocketmq-spring) pushed_at:2021-07 star:1.4k fork:0.6k Apache RocketMQ Spring Integration
@@ -1254,7 +1257,7 @@
 - [apache/sentry](https://github.com/apache/sentry) pushed_at:2020-07 star:0.1k fork:0.1k Mirror of Apache Sentry
 - [apache/servicecomb-fence](https://github.com/apache/servicecomb-fence) pushed_at:2020-05 star:0.4k fork:0.0k Apache servicecomb security module for java-chassis
 - [apache/servicecomb-java-chassis](https://github.com/apache/servicecomb-java-chassis) pushed_at:2021-07 star:1.7k fork:0.7k ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features
-- [apache/servicecomb-pack](https://github.com/apache/servicecomb-pack) pushed_at:2021-06 star:1.9k fork:0.4k Apache ServiceComb Pack is an eventually data consistency solution for micro-service applications. ServiceComb Pack currently provides TCC and Saga distributed transaction co-ordination solutions by using Alpha as a transaction coordinator and Omega as an transaction agent .
+- [apache/servicecomb-pack](https://github.com/apache/servicecomb-pack) pushed_at:2021-07 star:1.9k fork:0.4k Apache ServiceComb Pack is an eventually data consistency solution for micro-service applications. ServiceComb Pack currently provides TCC and Saga distributed transaction co-ordination solutions by using Alpha as a transaction coordinator and Omega as an transaction agent .
 - [apache/servicecomb-saga-actuator](https://github.com/apache/servicecomb-saga-actuator) pushed_at:2021-04 star:0.5k fork:0.0k Apache ServiceComb Saga Actuator
 - [apache/servicecomb-samples](https://github.com/apache/servicecomb-samples) pushed_at:2021-07 star:0.5k fork:0.1k Apache servicecomb
 - [apache/servicecomb-toolkit](https://github.com/apache/servicecomb-toolkit) pushed_at:2020-02 star:0.5k fork:0.0k Apache servicecomb
@@ -1271,10 +1274,10 @@
 - [apache/servicemix4-kernel](https://github.com/apache/servicemix4-kernel) pushed_at:2019-10 star:0.0k fork:0.0k Mirror of Apache Servicemix 4 kernel
 - [apache/servicemix4-nmr](https://github.com/apache/servicemix4-nmr) pushed_at:2019-10 star:0.0k fork:0.0k Mirror of Apache Servicemix 4 NMR
 - [apache/servicemix4-specs](https://github.com/apache/servicemix4-specs) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Servicemix 4 specs
-- [apache/shardingsphere](https://github.com/apache/shardingsphere) pushed_at:2021-07 star:14.2k fork:4.9k Distributed Database Ecosphere
+- [apache/shardingsphere](https://github.com/apache/shardingsphere) pushed_at:2021-07 star:14.3k fork:4.9k Distributed Database Ecosphere
 - [apache/shardingsphere-acceptance-test](https://github.com/apache/shardingsphere-acceptance-test) pushed_at:2020-08 star:0.0k fork:0.0k Apache ShardingSphere
 - [apache/shardingsphere-benchmark](https://github.com/apache/shardingsphere-benchmark) pushed_at:2021-06 star:0.0k fork:0.0k Distributed database middleware
-- [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) pushed_at:2021-07 star:7.2k fork:3.0k Distributed scheduled job framework
+- [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) pushed_at:2021-07 star:7.2k fork:3.1k Distributed scheduled job framework
 - [apache/shardingsphere-elasticjob-cloud](https://github.com/apache/shardingsphere-elasticjob-cloud) pushed_at:2020-07 star:0.2k fork:0.2k 
 - [apache/shardingsphere-elasticjob-example](https://github.com/apache/shardingsphere-elasticjob-example) pushed_at:2020-06 star:0.2k fork:0.2k Elastic-Job example
 - [apache/shardingsphere-elasticjob-ui](https://github.com/apache/shardingsphere-elasticjob-ui) pushed_at:2021-07 star:0.1k fork:0.0k Administrator console of ElasticJob
@@ -1283,282 +1286,282 @@
 - [apache/shindig](https://github.com/apache/shindig) pushed_at:2019-10 star:0.1k fork:0.1k Mirror of Apache Shindig (incubating)
 - [apache/shiro](https://github.com/apache/shiro) pushed_at:2021-07 star:3.6k fork:2.1k Apache Shiro
 - [apache/sis](https://github.com/apache/sis) pushed_at:2021-07 star:0.1k fork:0.0k Mirror of Apache SIS
-- [apache/skywalking](https://github.com/apache/skywalking) pushed_at:2021-07 star:17.3k fork:5.1k APM, Application Performance Monitoring System
+- [apache/skywalking](https://github.com/apache/skywalking) pushed_at:2021-07 star:17.4k fork:5.1k APM, Application Performance Monitoring System
 - [apache/skywalking-agent-test-tool](https://github.com/apache/skywalking-agent-test-tool) pushed_at:2021-07 star:0.0k fork:0.0k The integration test tool for Apache SkyWalking, including Mock OAP server and trace validator.
 - [apache/skywalking-kong](https://github.com/apache/skywalking-kong) pushed_at:2021-05 star:0.0k fork:0.0k Kong agent for Apache SkyWalking
 - [apache/skywalking-oal-tool](https://github.com/apache/skywalking-oal-tool) pushed_at:2018-12 star:0.0k fork:0.0k Apache skywalking
-- [apache/sling-adapter-annotations](https://github.com/apache/sling-adapter-annotations) pushed_at:2020-11 star:0.0k fork:0.0k Apache Sling Adapter Annotations
-- [apache/sling-bundle-archetype](https://github.com/apache/sling-bundle-archetype) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Bundle Archetype
-- [apache/sling-feature-converter-maven-plugin](https://github.com/apache/sling-feature-converter-maven-plugin) pushed_at:2021-04 star:0.0k fork:0.0k Apache Sling Feature Converter Maven Plugin
-- [apache/sling-feature-launcher-maven-plugin](https://github.com/apache/sling-feature-launcher-maven-plugin) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sling Feature Laucher Maven Plugin
-- [apache/sling-htl-maven-plugin](https://github.com/apache/sling-htl-maven-plugin) pushed_at:2020-09 star:0.0k fork:0.0k Apache Sling HTL Maven Plugin
-- [apache/sling-ide-tooling](https://github.com/apache/sling-ide-tooling) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling IDE Tools
-- [apache/sling-jcrinstall-bundle-archetype](https://github.com/apache/sling-jcrinstall-bundle-archetype) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JCRInstall Bundle Archetype
+- [apache/sling-adapter-annotations](https://github.com/apache/sling-adapter-annotations) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Adapter Annotations
+- [apache/sling-bundle-archetype](https://github.com/apache/sling-bundle-archetype) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Bundle Archetype
+- [apache/sling-feature-converter-maven-plugin](https://github.com/apache/sling-feature-converter-maven-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Converter Maven Plugin
+- [apache/sling-feature-launcher-maven-plugin](https://github.com/apache/sling-feature-launcher-maven-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Laucher Maven Plugin
+- [apache/sling-htl-maven-plugin](https://github.com/apache/sling-htl-maven-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling HTL Maven Plugin
+- [apache/sling-ide-tooling](https://github.com/apache/sling-ide-tooling) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling IDE Tools
+- [apache/sling-jcrinstall-bundle-archetype](https://github.com/apache/sling-jcrinstall-bundle-archetype) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCRInstall Bundle Archetype
 - [apache/sling-jspc-maven-plugin](https://github.com/apache/sling-jspc-maven-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Maven JSP Compiler Plugin
-- [apache/sling-kickstart-maven-plugin](https://github.com/apache/sling-kickstart-maven-plugin) pushed_at:2020-09 star:0.0k fork:0.0k Apache Sling Kickstart Maven Plugin
-- [apache/sling-launchpad-comparator](https://github.com/apache/sling-launchpad-comparator) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Launchpad Comparator
-- [apache/sling-maven-launchpad-plugin](https://github.com/apache/sling-maven-launchpad-plugin) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Maven Launchpad Plugin
-- [apache/sling-maven-plugin](https://github.com/apache/sling-maven-plugin) pushed_at:2021-04 star:0.0k fork:0.0k Apache Sling Maven Plugin
-- [apache/sling-org-apache-sling-adapter](https://github.com/apache/sling-org-apache-sling-adapter) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Adapter Manager Implementation
-- [apache/sling-org-apache-sling-adapter-annotations](https://github.com/apache/sling-org-apache-sling-adapter-annotations) pushed_at:2020-11 star:0.0k fork:0.0k Apache Sling Adapter Annotations
+- [apache/sling-kickstart-maven-plugin](https://github.com/apache/sling-kickstart-maven-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Kickstart Maven Plugin
+- [apache/sling-launchpad-comparator](https://github.com/apache/sling-launchpad-comparator) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Comparator
+- [apache/sling-maven-launchpad-plugin](https://github.com/apache/sling-maven-launchpad-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Maven Launchpad Plugin
+- [apache/sling-maven-plugin](https://github.com/apache/sling-maven-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Maven Plugin
+- [apache/sling-org-apache-sling-adapter](https://github.com/apache/sling-org-apache-sling-adapter) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Adapter Manager Implementation
+- [apache/sling-org-apache-sling-adapter-annotations](https://github.com/apache/sling-org-apache-sling-adapter-annotations) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Adapter Annotations
 - [apache/sling-org-apache-sling-api](https://github.com/apache/sling-org-apache-sling-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling API
 - [apache/sling-org-apache-sling-app-cms](https://github.com/apache/sling-org-apache-sling-app-cms) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling - CMS Reference App
 - [apache/sling-org-apache-sling-auth-core](https://github.com/apache/sling-org-apache-sling-auth-core) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Authentication Service
-- [apache/sling-org-apache-sling-auth-form](https://github.com/apache/sling-org-apache-sling-auth-form) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Form Based Authentication Handler
+- [apache/sling-org-apache-sling-auth-form](https://github.com/apache/sling-org-apache-sling-auth-form) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Form Based Authentication Handler
 - [apache/sling-org-apache-sling-auth-saml2](https://github.com/apache/sling-org-apache-sling-auth-saml2) pushed_at:2021-07 star:0.0k fork:0.0k An OSGi bundle that provides a SAML2 Web Profile Service Provider Authentication for Apache Sling
-- [apache/sling-org-apache-sling-auth-xing-api](https://github.com/apache/sling-org-apache-sling-auth-xing-api) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Authentication XING API
-- [apache/sling-org-apache-sling-auth-xing-login](https://github.com/apache/sling-org-apache-sling-auth-xing-login) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Authentication XING Login
-- [apache/sling-org-apache-sling-auth-xing-oauth](https://github.com/apache/sling-org-apache-sling-auth-xing-oauth) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Authentication XING OAuth
+- [apache/sling-org-apache-sling-auth-xing-api](https://github.com/apache/sling-org-apache-sling-auth-xing-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Authentication XING API
+- [apache/sling-org-apache-sling-auth-xing-login](https://github.com/apache/sling-org-apache-sling-auth-xing-login) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Authentication XING Login
+- [apache/sling-org-apache-sling-auth-xing-oauth](https://github.com/apache/sling-org-apache-sling-auth-xing-oauth) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Authentication XING OAuth
 - [apache/sling-org-apache-sling-bnd-models](https://github.com/apache/sling-org-apache-sling-bnd-models) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Models bnd Plugin
-- [apache/sling-org-apache-sling-bnd-plugin-headers-parameters-remove](https://github.com/apache/sling-org-apache-sling-bnd-plugin-headers-parameters-remove) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling bnd Remove Parameters from OSGi Headers Plugin
+- [apache/sling-org-apache-sling-bnd-plugin-headers-parameters-remove](https://github.com/apache/sling-org-apache-sling-bnd-plugin-headers-parameters-remove) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling bnd Remove Parameters from OSGi Headers Plugin
 - [apache/sling-org-apache-sling-bnd-plugins](https://github.com/apache/sling-org-apache-sling-bnd-plugins) pushed_at:2019-01 star:0.0k fork:0.0k [Archived] Apache Sling bnd Plugins
-- [apache/sling-org-apache-sling-bundleresource-impl](https://github.com/apache/sling-org-apache-sling-bundleresource-impl) pushed_at:2021-04 star:0.0k fork:0.0k Apache Sling Bundle Resource Provider
-- [apache/sling-org-apache-sling-caconfig-api](https://github.com/apache/sling-org-apache-sling-caconfig-api) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Context-Aware Configuration API
-- [apache/sling-org-apache-sling-caconfig-bnd-plugin](https://github.com/apache/sling-org-apache-sling-caconfig-bnd-plugin) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Context-Aware Configuration bnd Plugin
-- [apache/sling-org-apache-sling-caconfig-impl](https://github.com/apache/sling-org-apache-sling-caconfig-impl) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Context-Aware Configuration Implementation
-- [apache/sling-org-apache-sling-caconfig-integration-tests](https://github.com/apache/sling-org-apache-sling-caconfig-integration-tests) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Context-Aware Configuration Integration Tests
-- [apache/sling-org-apache-sling-caconfig-spi](https://github.com/apache/sling-org-apache-sling-caconfig-spi) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Context-Aware Configuration SPI
-- [apache/sling-org-apache-sling-capabilities](https://github.com/apache/sling-org-apache-sling-capabilities) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Capabilities
-- [apache/sling-org-apache-sling-capabilities-jcr](https://github.com/apache/sling-org-apache-sling-capabilities-jcr) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JCR Capabilities
-- [apache/sling-org-apache-sling-cassandra](https://github.com/apache/sling-org-apache-sling-cassandra) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Cassandra Resource Provider
-- [apache/sling-org-apache-sling-clam](https://github.com/apache/sling-org-apache-sling-clam) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Clam
-- [apache/sling-org-apache-sling-committer-cli](https://github.com/apache/sling-org-apache-sling-committer-cli) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sling Commiter CLI
-- [apache/sling-org-apache-sling-commons-cache-container-test](https://github.com/apache/sling-org-apache-sling-commons-cache-container-test) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling OSGi PAX Exam support library
-- [apache/sling-org-apache-sling-commons-clam](https://github.com/apache/sling-org-apache-sling-commons-clam) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Commons Clam
-- [apache/sling-org-apache-sling-commons-classloader](https://github.com/apache/sling-org-apache-sling-commons-classloader) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Dynamic Class Loader Support
-- [apache/sling-org-apache-sling-commons-compiler](https://github.com/apache/sling-org-apache-sling-commons-compiler) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Commons Java Compiler
+- [apache/sling-org-apache-sling-bundleresource-impl](https://github.com/apache/sling-org-apache-sling-bundleresource-impl) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Bundle Resource Provider
+- [apache/sling-org-apache-sling-caconfig-api](https://github.com/apache/sling-org-apache-sling-caconfig-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Context-Aware Configuration API
+- [apache/sling-org-apache-sling-caconfig-bnd-plugin](https://github.com/apache/sling-org-apache-sling-caconfig-bnd-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Context-Aware Configuration bnd Plugin
+- [apache/sling-org-apache-sling-caconfig-impl](https://github.com/apache/sling-org-apache-sling-caconfig-impl) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Context-Aware Configuration Implementation
+- [apache/sling-org-apache-sling-caconfig-integration-tests](https://github.com/apache/sling-org-apache-sling-caconfig-integration-tests) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Context-Aware Configuration Integration Tests
+- [apache/sling-org-apache-sling-caconfig-spi](https://github.com/apache/sling-org-apache-sling-caconfig-spi) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Context-Aware Configuration SPI
+- [apache/sling-org-apache-sling-capabilities](https://github.com/apache/sling-org-apache-sling-capabilities) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Capabilities
+- [apache/sling-org-apache-sling-capabilities-jcr](https://github.com/apache/sling-org-apache-sling-capabilities-jcr) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR Capabilities
+- [apache/sling-org-apache-sling-cassandra](https://github.com/apache/sling-org-apache-sling-cassandra) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Cassandra Resource Provider
+- [apache/sling-org-apache-sling-clam](https://github.com/apache/sling-org-apache-sling-clam) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Clam
+- [apache/sling-org-apache-sling-committer-cli](https://github.com/apache/sling-org-apache-sling-committer-cli) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commiter CLI
+- [apache/sling-org-apache-sling-commons-cache-container-test](https://github.com/apache/sling-org-apache-sling-commons-cache-container-test) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling OSGi PAX Exam support library
+- [apache/sling-org-apache-sling-commons-clam](https://github.com/apache/sling-org-apache-sling-commons-clam) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons Clam
+- [apache/sling-org-apache-sling-commons-classloader](https://github.com/apache/sling-org-apache-sling-commons-classloader) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Dynamic Class Loader Support
+- [apache/sling-org-apache-sling-commons-compiler](https://github.com/apache/sling-org-apache-sling-commons-compiler) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons Java Compiler
 - [apache/sling-org-apache-sling-commons-content-analyzing](https://github.com/apache/sling-org-apache-sling-commons-content-analyzing) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons Content Analyzing
 - [apache/sling-org-apache-sling-commons-content-processing](https://github.com/apache/sling-org-apache-sling-commons-content-processing) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons Content Processing
-- [apache/sling-org-apache-sling-commons-contentdetection](https://github.com/apache/sling-org-apache-sling-commons-contentdetection) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Content Detection Support
+- [apache/sling-org-apache-sling-commons-contentdetection](https://github.com/apache/sling-org-apache-sling-commons-contentdetection) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Content Detection Support
 - [apache/sling-org-apache-sling-commons-crypto](https://github.com/apache/sling-org-apache-sling-commons-crypto) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons Crypto
-- [apache/sling-org-apache-sling-commons-fsclassloader](https://github.com/apache/sling-org-apache-sling-commons-fsclassloader) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Commons FileSystem ClassLoader
-- [apache/sling-org-apache-sling-commons-html](https://github.com/apache/sling-org-apache-sling-commons-html) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Commons HTML Utilities
-- [apache/sling-org-apache-sling-commons-jcr-file](https://github.com/apache/sling-org-apache-sling-commons-jcr-file) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Commons JCR File
-- [apache/sling-org-apache-sling-commons-johnzon](https://github.com/apache/sling-org-apache-sling-commons-johnzon) pushed_at:2020-10 star:0.0k fork:0.0k Apache Sling Commons Johnzon Wrapper Library
-- [apache/sling-org-apache-sling-commons-log](https://github.com/apache/sling-org-apache-sling-commons-log) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Commons Log
-- [apache/sling-org-apache-sling-commons-log-webconsole](https://github.com/apache/sling-org-apache-sling-commons-log-webconsole) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Log WebConsole
-- [apache/sling-org-apache-sling-commons-logservice](https://github.com/apache/sling-org-apache-sling-commons-logservice) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling OSGi LogService Implementation
+- [apache/sling-org-apache-sling-commons-fsclassloader](https://github.com/apache/sling-org-apache-sling-commons-fsclassloader) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons FileSystem ClassLoader
+- [apache/sling-org-apache-sling-commons-html](https://github.com/apache/sling-org-apache-sling-commons-html) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons HTML Utilities
+- [apache/sling-org-apache-sling-commons-jcr-file](https://github.com/apache/sling-org-apache-sling-commons-jcr-file) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons JCR File
+- [apache/sling-org-apache-sling-commons-johnzon](https://github.com/apache/sling-org-apache-sling-commons-johnzon) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons Johnzon Wrapper Library
+- [apache/sling-org-apache-sling-commons-log](https://github.com/apache/sling-org-apache-sling-commons-log) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons Log
+- [apache/sling-org-apache-sling-commons-log-webconsole](https://github.com/apache/sling-org-apache-sling-commons-log-webconsole) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Log WebConsole
+- [apache/sling-org-apache-sling-commons-logservice](https://github.com/apache/sling-org-apache-sling-commons-logservice) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling OSGi LogService Implementation
 - [apache/sling-org-apache-sling-commons-messaging](https://github.com/apache/sling-org-apache-sling-commons-messaging) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons Messaging
 - [apache/sling-org-apache-sling-commons-messaging-mail](https://github.com/apache/sling-org-apache-sling-commons-messaging-mail) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons Messaging Mail
-- [apache/sling-org-apache-sling-commons-metrics](https://github.com/apache/sling-org-apache-sling-commons-metrics) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Metrics
-- [apache/sling-org-apache-sling-commons-metrics-rrd4j](https://github.com/apache/sling-org-apache-sling-commons-metrics-rrd4j) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling RRD4J metrics reporter
-- [apache/sling-org-apache-sling-commons-mime](https://github.com/apache/sling-org-apache-sling-commons-mime) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Commons MIME type mapping support
-- [apache/sling-org-apache-sling-commons-osgi](https://github.com/apache/sling-org-apache-sling-commons-osgi) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Commons OSGi support
-- [apache/sling-org-apache-sling-commons-scheduler](https://github.com/apache/sling-org-apache-sling-commons-scheduler) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sling Commons Scheduler Support
-- [apache/sling-org-apache-sling-commons-testing](https://github.com/apache/sling-org-apache-sling-commons-testing) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Testing Utilities
-- [apache/sling-org-apache-sling-commons-threaddump](https://github.com/apache/sling-org-apache-sling-commons-threaddump) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Thread Dumper
-- [apache/sling-org-apache-sling-commons-threads](https://github.com/apache/sling-org-apache-sling-commons-threads) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Thread Support
-- [apache/sling-org-apache-sling-connection-timeout-agent](https://github.com/apache/sling-org-apache-sling-connection-timeout-agent) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Connection Timeout Agent
-- [apache/sling-org-apache-sling-contentparser-api](https://github.com/apache/sling-org-apache-sling-contentparser-api) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Content Parser API
-- [apache/sling-org-apache-sling-contentparser-json](https://github.com/apache/sling-org-apache-sling-contentparser-json) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Content Parser for JSON
-- [apache/sling-org-apache-sling-contentparser-testutils](https://github.com/apache/sling-org-apache-sling-contentparser-testutils) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Content Parser Test Utilities
-- [apache/sling-org-apache-sling-contentparser-xml](https://github.com/apache/sling-org-apache-sling-contentparser-xml) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Content Parser for XML
-- [apache/sling-org-apache-sling-contentparser-xml-jcr](https://github.com/apache/sling-org-apache-sling-contentparser-xml-jcr) pushed_at:2021-04 star:0.0k fork:0.0k Apache Sling Content Parser for JackRabbit FileVault XML
-- [apache/sling-org-apache-sling-datasource](https://github.com/apache/sling-org-apache-sling-datasource) pushed_at:2020-09 star:0.0k fork:0.0k Apache Sling DataSource Provider
-- [apache/sling-org-apache-sling-discovery-api](https://github.com/apache/sling-org-apache-sling-discovery-api) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Discovery API
-- [apache/sling-org-apache-sling-discovery-base](https://github.com/apache/sling-org-apache-sling-discovery-base) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Discovery Base
+- [apache/sling-org-apache-sling-commons-metrics](https://github.com/apache/sling-org-apache-sling-commons-metrics) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Metrics
+- [apache/sling-org-apache-sling-commons-metrics-rrd4j](https://github.com/apache/sling-org-apache-sling-commons-metrics-rrd4j) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling RRD4J metrics reporter
+- [apache/sling-org-apache-sling-commons-mime](https://github.com/apache/sling-org-apache-sling-commons-mime) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons MIME type mapping support
+- [apache/sling-org-apache-sling-commons-osgi](https://github.com/apache/sling-org-apache-sling-commons-osgi) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons OSGi support
+- [apache/sling-org-apache-sling-commons-scheduler](https://github.com/apache/sling-org-apache-sling-commons-scheduler) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons Scheduler Support
+- [apache/sling-org-apache-sling-commons-testing](https://github.com/apache/sling-org-apache-sling-commons-testing) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Testing Utilities
+- [apache/sling-org-apache-sling-commons-threaddump](https://github.com/apache/sling-org-apache-sling-commons-threaddump) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Thread Dumper
+- [apache/sling-org-apache-sling-commons-threads](https://github.com/apache/sling-org-apache-sling-commons-threads) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Thread Support
+- [apache/sling-org-apache-sling-connection-timeout-agent](https://github.com/apache/sling-org-apache-sling-connection-timeout-agent) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Connection Timeout Agent
+- [apache/sling-org-apache-sling-contentparser-api](https://github.com/apache/sling-org-apache-sling-contentparser-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Content Parser API
+- [apache/sling-org-apache-sling-contentparser-json](https://github.com/apache/sling-org-apache-sling-contentparser-json) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Content Parser for JSON
+- [apache/sling-org-apache-sling-contentparser-testutils](https://github.com/apache/sling-org-apache-sling-contentparser-testutils) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Content Parser Test Utilities
+- [apache/sling-org-apache-sling-contentparser-xml](https://github.com/apache/sling-org-apache-sling-contentparser-xml) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Content Parser for XML
+- [apache/sling-org-apache-sling-contentparser-xml-jcr](https://github.com/apache/sling-org-apache-sling-contentparser-xml-jcr) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Content Parser for JackRabbit FileVault XML
+- [apache/sling-org-apache-sling-datasource](https://github.com/apache/sling-org-apache-sling-datasource) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling DataSource Provider
+- [apache/sling-org-apache-sling-discovery-api](https://github.com/apache/sling-org-apache-sling-discovery-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Discovery API
+- [apache/sling-org-apache-sling-discovery-base](https://github.com/apache/sling-org-apache-sling-discovery-base) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Discovery Base
 - [apache/sling-org-apache-sling-discovery-commons](https://github.com/apache/sling-org-apache-sling-discovery-commons) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Discovery Commons
-- [apache/sling-org-apache-sling-discovery-impl](https://github.com/apache/sling-org-apache-sling-discovery-impl) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Resource-Based Discovery Service
-- [apache/sling-org-apache-sling-discovery-oak](https://github.com/apache/sling-org-apache-sling-discovery-oak) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Oak-Based Discovery Service
-- [apache/sling-org-apache-sling-discovery-standalone](https://github.com/apache/sling-org-apache-sling-discovery-standalone) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Discovery Standalone Implementation
-- [apache/sling-org-apache-sling-discovery-support](https://github.com/apache/sling-org-apache-sling-discovery-support) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Discovery Support Bundle
-- [apache/sling-org-apache-sling-distribution-api](https://github.com/apache/sling-org-apache-sling-distribution-api) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Distribution API
-- [apache/sling-org-apache-sling-distribution-avro-serializer](https://github.com/apache/sling-org-apache-sling-distribution-avro-serializer) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Distribution Avro Serializer
-- [apache/sling-org-apache-sling-distribution-core](https://github.com/apache/sling-org-apache-sling-distribution-core) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Distribution Core
-- [apache/sling-org-apache-sling-distribution-it](https://github.com/apache/sling-org-apache-sling-distribution-it) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Distribution Integration Tests
+- [apache/sling-org-apache-sling-discovery-impl](https://github.com/apache/sling-org-apache-sling-discovery-impl) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Resource-Based Discovery Service
+- [apache/sling-org-apache-sling-discovery-oak](https://github.com/apache/sling-org-apache-sling-discovery-oak) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Oak-Based Discovery Service
+- [apache/sling-org-apache-sling-discovery-standalone](https://github.com/apache/sling-org-apache-sling-discovery-standalone) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Discovery Standalone Implementation
+- [apache/sling-org-apache-sling-discovery-support](https://github.com/apache/sling-org-apache-sling-discovery-support) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Discovery Support Bundle
+- [apache/sling-org-apache-sling-distribution-api](https://github.com/apache/sling-org-apache-sling-distribution-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Distribution API
+- [apache/sling-org-apache-sling-distribution-avro-serializer](https://github.com/apache/sling-org-apache-sling-distribution-avro-serializer) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Distribution Avro Serializer
+- [apache/sling-org-apache-sling-distribution-core](https://github.com/apache/sling-org-apache-sling-distribution-core) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Distribution Core
+- [apache/sling-org-apache-sling-distribution-it](https://github.com/apache/sling-org-apache-sling-distribution-it) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Distribution Integration Tests
 - [apache/sling-org-apache-sling-distribution-journal](https://github.com/apache/sling-org-apache-sling-distribution-journal) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Journal based Content Distribution - Core
 - [apache/sling-org-apache-sling-distribution-journal-it](https://github.com/apache/sling-org-apache-sling-distribution-journal-it) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Distribution Journal - ITs
 - [apache/sling-org-apache-sling-distribution-journal-kafka](https://github.com/apache/sling-org-apache-sling-distribution-journal-kafka) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Journal Messaging based on Apache Kafka
-- [apache/sling-org-apache-sling-distribution-journal-messages](https://github.com/apache/sling-org-apache-sling-distribution-journal-messages) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Journal based Content Distribution - Messages
-- [apache/sling-org-apache-sling-distribution-kryo-serializer](https://github.com/apache/sling-org-apache-sling-distribution-kryo-serializer) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Distribution Kryo Serializer
-- [apache/sling-org-apache-sling-distribution-sample](https://github.com/apache/sling-org-apache-sling-distribution-sample) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Distribution Sample
-- [apache/sling-org-apache-sling-dynamic-include](https://github.com/apache/sling-org-apache-sling-dynamic-include) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Dynamic Include
+- [apache/sling-org-apache-sling-distribution-journal-messages](https://github.com/apache/sling-org-apache-sling-distribution-journal-messages) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Journal based Content Distribution - Messages
+- [apache/sling-org-apache-sling-distribution-kryo-serializer](https://github.com/apache/sling-org-apache-sling-distribution-kryo-serializer) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Distribution Kryo Serializer
+- [apache/sling-org-apache-sling-distribution-sample](https://github.com/apache/sling-org-apache-sling-distribution-sample) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Distribution Sample
+- [apache/sling-org-apache-sling-dynamic-include](https://github.com/apache/sling-org-apache-sling-dynamic-include) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Dynamic Include
 - [apache/sling-org-apache-sling-engine](https://github.com/apache/sling-org-apache-sling-engine) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Engine Implementation
-- [apache/sling-org-apache-sling-event](https://github.com/apache/sling-org-apache-sling-event) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Event Support
-- [apache/sling-org-apache-sling-event-api](https://github.com/apache/sling-org-apache-sling-event-api) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Event API
-- [apache/sling-org-apache-sling-event-dea](https://github.com/apache/sling-org-apache-sling-event-dea) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Distributed Event Admin
-- [apache/sling-org-apache-sling-extensions-classloader-leak-detector](https://github.com/apache/sling-org-apache-sling-extensions-classloader-leak-detector) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling ClassLoader Leak Detector
-- [apache/sling-org-apache-sling-extensions-slf4j-mdc](https://github.com/apache/sling-org-apache-sling-extensions-slf4j-mdc) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling SLF4J MDC Filter
-- [apache/sling-org-apache-sling-extensions-webconsolesecurityprovider](https://github.com/apache/sling-org-apache-sling-extensions-webconsolesecurityprovider) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Web Console Security Provider
+- [apache/sling-org-apache-sling-event](https://github.com/apache/sling-org-apache-sling-event) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Event Support
+- [apache/sling-org-apache-sling-event-api](https://github.com/apache/sling-org-apache-sling-event-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Event API
+- [apache/sling-org-apache-sling-event-dea](https://github.com/apache/sling-org-apache-sling-event-dea) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Distributed Event Admin
+- [apache/sling-org-apache-sling-extensions-classloader-leak-detector](https://github.com/apache/sling-org-apache-sling-extensions-classloader-leak-detector) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling ClassLoader Leak Detector
+- [apache/sling-org-apache-sling-extensions-slf4j-mdc](https://github.com/apache/sling-org-apache-sling-extensions-slf4j-mdc) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling SLF4J MDC Filter
+- [apache/sling-org-apache-sling-extensions-webconsolesecurityprovider](https://github.com/apache/sling-org-apache-sling-extensions-webconsolesecurityprovider) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Web Console Security Provider
 - [apache/sling-org-apache-sling-feature](https://github.com/apache/sling-org-apache-sling-feature) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling OSGi Feature Model
-- [apache/sling-org-apache-sling-feature-analyser](https://github.com/apache/sling-org-apache-sling-feature-analyser) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Feature Model Analyser
-- [apache/sling-org-apache-sling-feature-apiregions](https://github.com/apache/sling-org-apache-sling-feature-apiregions) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Feature API Regions Runtime
-- [apache/sling-org-apache-sling-feature-apiregions-model](https://github.com/apache/sling-org-apache-sling-feature-apiregions-model) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Feature Model API Regions
+- [apache/sling-org-apache-sling-feature-analyser](https://github.com/apache/sling-org-apache-sling-feature-analyser) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Model Analyser
+- [apache/sling-org-apache-sling-feature-apiregions](https://github.com/apache/sling-org-apache-sling-feature-apiregions) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature API Regions Runtime
+- [apache/sling-org-apache-sling-feature-apiregions-model](https://github.com/apache/sling-org-apache-sling-feature-apiregions-model) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Model API Regions
 - [apache/sling-org-apache-sling-feature-applicationbuilder](https://github.com/apache/sling-org-apache-sling-feature-applicationbuilder) pushed_at:2019-01 star:0.0k fork:0.0k Apache Sling Feature Model Application Builder
 - [apache/sling-org-apache-sling-feature-cpconverter](https://github.com/apache/sling-org-apache-sling-feature-cpconverter) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Content Package to Feature Model Converter
-- [apache/sling-org-apache-sling-feature-diff](https://github.com/apache/sling-org-apache-sling-feature-diff) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Feature Model Diff Tool
+- [apache/sling-org-apache-sling-feature-diff](https://github.com/apache/sling-org-apache-sling-feature-diff) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Model Diff Tool
 - [apache/sling-org-apache-sling-feature-extension-apiregions](https://github.com/apache/sling-org-apache-sling-feature-extension-apiregions) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Model API Regions Extension
-- [apache/sling-org-apache-sling-feature-extension-content](https://github.com/apache/sling-org-apache-sling-feature-extension-content) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Feature Model - Content Deployment Extension
-- [apache/sling-org-apache-sling-feature-extension-unpack](https://github.com/apache/sling-org-apache-sling-feature-extension-unpack) pushed_at:2021-02 star:0.0k fork:0.0k Apache Sling Feature Model - Unpack Extension
-- [apache/sling-org-apache-sling-feature-inventoryprinter](https://github.com/apache/sling-org-apache-sling-feature-inventoryprinter) pushed_at:2021-03 star:0.0k fork:0.0k Apache Sling Feature Model - Inventory Printer
-- [apache/sling-org-apache-sling-feature-karaf](https://github.com/apache/sling-org-apache-sling-feature-karaf) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Feature Karaf
-- [apache/sling-org-apache-sling-feature-launcher](https://github.com/apache/sling-org-apache-sling-feature-launcher) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Feature Launcher
-- [apache/sling-org-apache-sling-feature-modelconverter](https://github.com/apache/sling-org-apache-sling-feature-modelconverter) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Feature Model Converter
-- [apache/sling-org-apache-sling-feature-r2f](https://github.com/apache/sling-org-apache-sling-feature-r2f) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Feature Model Runtime Creator
-- [apache/sling-org-apache-sling-feature-resolver](https://github.com/apache/sling-org-apache-sling-feature-resolver) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Feature Resolver
-- [apache/sling-org-apache-sling-featureflags](https://github.com/apache/sling-org-apache-sling-featureflags) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Feature Flags
-- [apache/sling-org-apache-sling-file-optimization](https://github.com/apache/sling-org-apache-sling-file-optimization) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling File Optimization
-- [apache/sling-org-apache-sling-fsresource](https://github.com/apache/sling-org-apache-sling-fsresource) pushed_at:2020-09 star:0.0k fork:0.0k Apache Sling File System Resource Provider
+- [apache/sling-org-apache-sling-feature-extension-content](https://github.com/apache/sling-org-apache-sling-feature-extension-content) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Model - Content Deployment Extension
+- [apache/sling-org-apache-sling-feature-extension-unpack](https://github.com/apache/sling-org-apache-sling-feature-extension-unpack) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Model - Unpack Extension
+- [apache/sling-org-apache-sling-feature-inventoryprinter](https://github.com/apache/sling-org-apache-sling-feature-inventoryprinter) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Model - Inventory Printer
+- [apache/sling-org-apache-sling-feature-karaf](https://github.com/apache/sling-org-apache-sling-feature-karaf) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Karaf
+- [apache/sling-org-apache-sling-feature-launcher](https://github.com/apache/sling-org-apache-sling-feature-launcher) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Launcher
+- [apache/sling-org-apache-sling-feature-modelconverter](https://github.com/apache/sling-org-apache-sling-feature-modelconverter) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Model Converter
+- [apache/sling-org-apache-sling-feature-r2f](https://github.com/apache/sling-org-apache-sling-feature-r2f) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Model Runtime Creator
+- [apache/sling-org-apache-sling-feature-resolver](https://github.com/apache/sling-org-apache-sling-feature-resolver) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Resolver
+- [apache/sling-org-apache-sling-featureflags](https://github.com/apache/sling-org-apache-sling-featureflags) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Flags
+- [apache/sling-org-apache-sling-file-optimization](https://github.com/apache/sling-org-apache-sling-file-optimization) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling File Optimization
+- [apache/sling-org-apache-sling-fsresource](https://github.com/apache/sling-org-apache-sling-fsresource) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling File System Resource Provider
 - [apache/sling-org-apache-sling-graphql-core](https://github.com/apache/sling-org-apache-sling-graphql-core) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling GraphQL Core
 - [apache/sling-org-apache-sling-graphql-schema-aggregator](https://github.com/apache/sling-org-apache-sling-graphql-schema-aggregator) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling GraphQL Schema Aggregator
-- [apache/sling-org-apache-sling-hapi](https://github.com/apache/sling-org-apache-sling-hapi) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Hypermedia API tools
-- [apache/sling-org-apache-sling-hapi-client](https://github.com/apache/sling-org-apache-sling-hapi-client) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Hypermedia API client-side tools
-- [apache/sling-org-apache-sling-hc-api](https://github.com/apache/sling-org-apache-sling-hc-api) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Health Check API
-- [apache/sling-org-apache-sling-hc-it](https://github.com/apache/sling-org-apache-sling-hc-it) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Health Check Integration Tests
-- [apache/sling-org-apache-sling-hc-junit-bridge](https://github.com/apache/sling-org-apache-sling-hc-junit-bridge) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Health Check JUnit Bridge
-- [apache/sling-org-apache-sling-hc-samples](https://github.com/apache/sling-org-apache-sling-hc-samples) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Health Check Samples
-- [apache/sling-org-apache-sling-hc-support](https://github.com/apache/sling-org-apache-sling-hc-support) pushed_at:2020-10 star:0.0k fork:0.0k Apache Sling Health Check Support Components
-- [apache/sling-org-apache-sling-i18n](https://github.com/apache/sling-org-apache-sling-i18n) pushed_at:2021-04 star:0.0k fork:0.0k Apache Sling I18N Support
-- [apache/sling-org-apache-sling-installer-console](https://github.com/apache/sling-org-apache-sling-installer-console) pushed_at:2020-11 star:0.0k fork:0.0k Apache Sling Installer WebConsole Plugin
-- [apache/sling-org-apache-sling-installer-core](https://github.com/apache/sling-org-apache-sling-installer-core) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Installer
-- [apache/sling-org-apache-sling-installer-factory-configuration](https://github.com/apache/sling-org-apache-sling-installer-factory-configuration) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Installer Configuration Admin Support
-- [apache/sling-org-apache-sling-installer-factory-deploymentpackage](https://github.com/apache/sling-org-apache-sling-installer-factory-deploymentpackage) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Deployment Package Installer
+- [apache/sling-org-apache-sling-hapi](https://github.com/apache/sling-org-apache-sling-hapi) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Hypermedia API tools
+- [apache/sling-org-apache-sling-hapi-client](https://github.com/apache/sling-org-apache-sling-hapi-client) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Hypermedia API client-side tools
+- [apache/sling-org-apache-sling-hc-api](https://github.com/apache/sling-org-apache-sling-hc-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Health Check API
+- [apache/sling-org-apache-sling-hc-it](https://github.com/apache/sling-org-apache-sling-hc-it) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Health Check Integration Tests
+- [apache/sling-org-apache-sling-hc-junit-bridge](https://github.com/apache/sling-org-apache-sling-hc-junit-bridge) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Health Check JUnit Bridge
+- [apache/sling-org-apache-sling-hc-samples](https://github.com/apache/sling-org-apache-sling-hc-samples) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Health Check Samples
+- [apache/sling-org-apache-sling-hc-support](https://github.com/apache/sling-org-apache-sling-hc-support) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Health Check Support Components
+- [apache/sling-org-apache-sling-i18n](https://github.com/apache/sling-org-apache-sling-i18n) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling I18N Support
+- [apache/sling-org-apache-sling-installer-console](https://github.com/apache/sling-org-apache-sling-installer-console) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Installer WebConsole Plugin
+- [apache/sling-org-apache-sling-installer-core](https://github.com/apache/sling-org-apache-sling-installer-core) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Installer
+- [apache/sling-org-apache-sling-installer-factory-configuration](https://github.com/apache/sling-org-apache-sling-installer-factory-configuration) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Installer Configuration Admin Support
+- [apache/sling-org-apache-sling-installer-factory-deploymentpackage](https://github.com/apache/sling-org-apache-sling-installer-factory-deploymentpackage) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Deployment Package Installer
 - [apache/sling-org-apache-sling-installer-factory-feature](https://github.com/apache/sling-org-apache-sling-installer-factory-feature) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Installer Feature Model Support
-- [apache/sling-org-apache-sling-installer-factory-model](https://github.com/apache/sling-org-apache-sling-installer-factory-model) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Installer Provisioning Model Support
-- [apache/sling-org-apache-sling-installer-factory-packages](https://github.com/apache/sling-org-apache-sling-installer-factory-packages) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Installer Content Package Support
-- [apache/sling-org-apache-sling-installer-factory-subsystems-base](https://github.com/apache/sling-org-apache-sling-installer-factory-subsystems-base) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Subsystems Base Installer
-- [apache/sling-org-apache-sling-installer-hc](https://github.com/apache/sling-org-apache-sling-installer-hc) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Installer Health Checks
-- [apache/sling-org-apache-sling-installer-it](https://github.com/apache/sling-org-apache-sling-installer-it) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Installer Integration Tests
-- [apache/sling-org-apache-sling-installer-provider-file](https://github.com/apache/sling-org-apache-sling-installer-provider-file) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sling File Installer
-- [apache/sling-org-apache-sling-installer-provider-installhook](https://github.com/apache/sling-org-apache-sling-installer-provider-installhook) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JCR Installer Install Hook
-- [apache/sling-org-apache-sling-installer-provider-jcr](https://github.com/apache/sling-org-apache-sling-installer-provider-jcr) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JCR Installer
-- [apache/sling-org-apache-sling-javax-activation](https://github.com/apache/sling-org-apache-sling-javax-activation) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling javax.activation bundle
-- [apache/sling-org-apache-sling-jcr-api](https://github.com/apache/sling-org-apache-sling-jcr-api) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JCR API
+- [apache/sling-org-apache-sling-installer-factory-model](https://github.com/apache/sling-org-apache-sling-installer-factory-model) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Installer Provisioning Model Support
+- [apache/sling-org-apache-sling-installer-factory-packages](https://github.com/apache/sling-org-apache-sling-installer-factory-packages) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Installer Content Package Support
+- [apache/sling-org-apache-sling-installer-factory-subsystems-base](https://github.com/apache/sling-org-apache-sling-installer-factory-subsystems-base) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Subsystems Base Installer
+- [apache/sling-org-apache-sling-installer-hc](https://github.com/apache/sling-org-apache-sling-installer-hc) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Installer Health Checks
+- [apache/sling-org-apache-sling-installer-it](https://github.com/apache/sling-org-apache-sling-installer-it) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Installer Integration Tests
+- [apache/sling-org-apache-sling-installer-provider-file](https://github.com/apache/sling-org-apache-sling-installer-provider-file) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling File Installer
+- [apache/sling-org-apache-sling-installer-provider-installhook](https://github.com/apache/sling-org-apache-sling-installer-provider-installhook) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR Installer Install Hook
+- [apache/sling-org-apache-sling-installer-provider-jcr](https://github.com/apache/sling-org-apache-sling-installer-provider-jcr) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR Installer
+- [apache/sling-org-apache-sling-javax-activation](https://github.com/apache/sling-org-apache-sling-javax-activation) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling javax.activation bundle
+- [apache/sling-org-apache-sling-jcr-api](https://github.com/apache/sling-org-apache-sling-jcr-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR API
 - [apache/sling-org-apache-sling-jcr-base](https://github.com/apache/sling-org-apache-sling-jcr-base) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR Base Bundle
-- [apache/sling-org-apache-sling-jcr-classloader](https://github.com/apache/sling-org-apache-sling-jcr-classloader) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JCR ClassLoader
-- [apache/sling-org-apache-sling-jcr-contentloader](https://github.com/apache/sling-org-apache-sling-jcr-contentloader) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sling Initial Content Loader
-- [apache/sling-org-apache-sling-jcr-contentparser](https://github.com/apache/sling-org-apache-sling-jcr-contentparser) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JCR Content Parser
-- [apache/sling-org-apache-sling-jcr-davex](https://github.com/apache/sling-org-apache-sling-jcr-davex) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JCR DavEx
-- [apache/sling-org-apache-sling-jcr-filetransfer](https://github.com/apache/sling-org-apache-sling-jcr-filetransfer) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JCR File Transfer
-- [apache/sling-org-apache-sling-jcr-jackrabbit-accessmanager](https://github.com/apache/sling-org-apache-sling-jcr-jackrabbit-accessmanager) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Jackrabbit JSR-283 Access Control Manager Support
-- [apache/sling-org-apache-sling-jcr-jackrabbit-base](https://github.com/apache/sling-org-apache-sling-jcr-jackrabbit-base) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JCR Jackrabbit Base
-- [apache/sling-org-apache-sling-jcr-jackrabbit-usermanager](https://github.com/apache/sling-org-apache-sling-jcr-jackrabbit-usermanager) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Jackrabbit UserManager Support
-- [apache/sling-org-apache-sling-jcr-js-nodetypes](https://github.com/apache/sling-org-apache-sling-jcr-js-nodetypes) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JCR JS NodeTypes
-- [apache/sling-org-apache-sling-jcr-maintenance](https://github.com/apache/sling-org-apache-sling-jcr-maintenance) pushed_at:2021-04 star:0.0k fork:0.0k Apache Sling JCR Maintenance
-- [apache/sling-org-apache-sling-jcr-oak-server](https://github.com/apache/sling-org-apache-sling-jcr-oak-server) pushed_at:2021-04 star:0.0k fork:0.0k Apache Sling JCR Oak Repository Server
-- [apache/sling-org-apache-sling-jcr-packageinit](https://github.com/apache/sling-org-apache-sling-jcr-packageinit) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling JCR Package Initializer Module
-- [apache/sling-org-apache-sling-jcr-presence](https://github.com/apache/sling-org-apache-sling-jcr-presence) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling JCR Presence
-- [apache/sling-org-apache-sling-jcr-registration](https://github.com/apache/sling-org-apache-sling-jcr-registration) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JCR Repository Registration
-- [apache/sling-org-apache-sling-jcr-repoinit](https://github.com/apache/sling-org-apache-sling-jcr-repoinit) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling JCR RepoInit module
-- [apache/sling-org-apache-sling-jcr-repository-it-resource-versioning](https://github.com/apache/sling-org-apache-sling-jcr-repository-it-resource-versioning) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Versioning Integration Tests
+- [apache/sling-org-apache-sling-jcr-classloader](https://github.com/apache/sling-org-apache-sling-jcr-classloader) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR ClassLoader
+- [apache/sling-org-apache-sling-jcr-contentloader](https://github.com/apache/sling-org-apache-sling-jcr-contentloader) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Initial Content Loader
+- [apache/sling-org-apache-sling-jcr-contentparser](https://github.com/apache/sling-org-apache-sling-jcr-contentparser) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR Content Parser
+- [apache/sling-org-apache-sling-jcr-davex](https://github.com/apache/sling-org-apache-sling-jcr-davex) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR DavEx
+- [apache/sling-org-apache-sling-jcr-filetransfer](https://github.com/apache/sling-org-apache-sling-jcr-filetransfer) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR File Transfer
+- [apache/sling-org-apache-sling-jcr-jackrabbit-accessmanager](https://github.com/apache/sling-org-apache-sling-jcr-jackrabbit-accessmanager) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Jackrabbit JSR-283 Access Control Manager Support
+- [apache/sling-org-apache-sling-jcr-jackrabbit-base](https://github.com/apache/sling-org-apache-sling-jcr-jackrabbit-base) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR Jackrabbit Base
+- [apache/sling-org-apache-sling-jcr-jackrabbit-usermanager](https://github.com/apache/sling-org-apache-sling-jcr-jackrabbit-usermanager) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Jackrabbit UserManager Support
+- [apache/sling-org-apache-sling-jcr-js-nodetypes](https://github.com/apache/sling-org-apache-sling-jcr-js-nodetypes) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR JS NodeTypes
+- [apache/sling-org-apache-sling-jcr-maintenance](https://github.com/apache/sling-org-apache-sling-jcr-maintenance) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR Maintenance
+- [apache/sling-org-apache-sling-jcr-oak-server](https://github.com/apache/sling-org-apache-sling-jcr-oak-server) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR Oak Repository Server
+- [apache/sling-org-apache-sling-jcr-packageinit](https://github.com/apache/sling-org-apache-sling-jcr-packageinit) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR Package Initializer Module
+- [apache/sling-org-apache-sling-jcr-presence](https://github.com/apache/sling-org-apache-sling-jcr-presence) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR Presence
+- [apache/sling-org-apache-sling-jcr-registration](https://github.com/apache/sling-org-apache-sling-jcr-registration) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR Repository Registration
+- [apache/sling-org-apache-sling-jcr-repoinit](https://github.com/apache/sling-org-apache-sling-jcr-repoinit) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR RepoInit module
+- [apache/sling-org-apache-sling-jcr-repository-it-resource-versioning](https://github.com/apache/sling-org-apache-sling-jcr-repository-it-resource-versioning) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Versioning Integration Tests
 - [apache/sling-org-apache-sling-jcr-resource](https://github.com/apache/sling-org-apache-sling-jcr-resource) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR Resource Resolver
-- [apache/sling-org-apache-sling-jcr-resourcesecurity](https://github.com/apache/sling-org-apache-sling-jcr-resourcesecurity) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JCR Resource Security
-- [apache/sling-org-apache-sling-jcr-webconsole](https://github.com/apache/sling-org-apache-sling-jcr-webconsole) pushed_at:2021-04 star:0.0k fork:0.0k Apache Sling JCR WebConsole Bundle
-- [apache/sling-org-apache-sling-jcr-webdav](https://github.com/apache/sling-org-apache-sling-jcr-webdav) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JCR WebDAV
-- [apache/sling-org-apache-sling-jms](https://github.com/apache/sling-org-apache-sling-jms) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling MoM Implementation using JMS with AMQ
-- [apache/sling-org-apache-sling-jmx-provider](https://github.com/apache/sling-org-apache-sling-jmx-provider) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JMX Resource Provider
-- [apache/sling-org-apache-sling-jobs](https://github.com/apache/sling-org-apache-sling-jobs) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Jobs Support
-- [apache/sling-org-apache-sling-jobs-it](https://github.com/apache/sling-org-apache-sling-jobs-it) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Jobs Integration Tests
-- [apache/sling-org-apache-sling-jobs-it-services](https://github.com/apache/sling-org-apache-sling-jobs-it-services) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Jobs Service Integration Tests Bundle
-- [apache/sling-org-apache-sling-junit-core](https://github.com/apache/sling-org-apache-sling-junit-core) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling JUnit Core
-- [apache/sling-org-apache-sling-junit-healthcheck](https://github.com/apache/sling-org-apache-sling-junit-healthcheck) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JUnit Health Checks
-- [apache/sling-org-apache-sling-junit-performance](https://github.com/apache/sling-org-apache-sling-junit-performance) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JUnit Performance
-- [apache/sling-org-apache-sling-junit-remote](https://github.com/apache/sling-org-apache-sling-junit-remote) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JUnit Remote Tests Runners
-- [apache/sling-org-apache-sling-junit-scriptable](https://github.com/apache/sling-org-apache-sling-junit-scriptable) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JUnit Scriptable Tests Provider
-- [apache/sling-org-apache-sling-junit-teleporter](https://github.com/apache/sling-org-apache-sling-junit-teleporter) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JUnit Tests Teleporter
-- [apache/sling-org-apache-sling-karaf-integration-tests](https://github.com/apache/sling-org-apache-sling-karaf-integration-tests) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling - Karaf Integration Tests
-- [apache/sling-org-apache-sling-karaf-launchpad-oak-tar-integration-tests](https://github.com/apache/sling-org-apache-sling-karaf-launchpad-oak-tar-integration-tests) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sling - Karaf Launchpad Integration Tests Oak Tar
-- [apache/sling-org-apache-sling-kickstart](https://github.com/apache/sling-org-apache-sling-kickstart) pushed_at:2020-10 star:0.0k fork:0.0k Apache Sling Kickstart Launcher
-- [apache/sling-org-apache-sling-launchpad-api](https://github.com/apache/sling-org-apache-sling-launchpad-api) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Launchpad API
+- [apache/sling-org-apache-sling-jcr-resourcesecurity](https://github.com/apache/sling-org-apache-sling-jcr-resourcesecurity) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR Resource Security
+- [apache/sling-org-apache-sling-jcr-webconsole](https://github.com/apache/sling-org-apache-sling-jcr-webconsole) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR WebConsole Bundle
+- [apache/sling-org-apache-sling-jcr-webdav](https://github.com/apache/sling-org-apache-sling-jcr-webdav) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JCR WebDAV
+- [apache/sling-org-apache-sling-jms](https://github.com/apache/sling-org-apache-sling-jms) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling MoM Implementation using JMS with AMQ
+- [apache/sling-org-apache-sling-jmx-provider](https://github.com/apache/sling-org-apache-sling-jmx-provider) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JMX Resource Provider
+- [apache/sling-org-apache-sling-jobs](https://github.com/apache/sling-org-apache-sling-jobs) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Jobs Support
+- [apache/sling-org-apache-sling-jobs-it](https://github.com/apache/sling-org-apache-sling-jobs-it) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Jobs Integration Tests
+- [apache/sling-org-apache-sling-jobs-it-services](https://github.com/apache/sling-org-apache-sling-jobs-it-services) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Jobs Service Integration Tests Bundle
+- [apache/sling-org-apache-sling-junit-core](https://github.com/apache/sling-org-apache-sling-junit-core) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JUnit Core
+- [apache/sling-org-apache-sling-junit-healthcheck](https://github.com/apache/sling-org-apache-sling-junit-healthcheck) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JUnit Health Checks
+- [apache/sling-org-apache-sling-junit-performance](https://github.com/apache/sling-org-apache-sling-junit-performance) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JUnit Performance
+- [apache/sling-org-apache-sling-junit-remote](https://github.com/apache/sling-org-apache-sling-junit-remote) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JUnit Remote Tests Runners
+- [apache/sling-org-apache-sling-junit-scriptable](https://github.com/apache/sling-org-apache-sling-junit-scriptable) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JUnit Scriptable Tests Provider
+- [apache/sling-org-apache-sling-junit-teleporter](https://github.com/apache/sling-org-apache-sling-junit-teleporter) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JUnit Tests Teleporter
+- [apache/sling-org-apache-sling-karaf-integration-tests](https://github.com/apache/sling-org-apache-sling-karaf-integration-tests) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling - Karaf Integration Tests
+- [apache/sling-org-apache-sling-karaf-launchpad-oak-tar-integration-tests](https://github.com/apache/sling-org-apache-sling-karaf-launchpad-oak-tar-integration-tests) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling - Karaf Launchpad Integration Tests Oak Tar
+- [apache/sling-org-apache-sling-kickstart](https://github.com/apache/sling-org-apache-sling-kickstart) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Kickstart Launcher
+- [apache/sling-org-apache-sling-launchpad-api](https://github.com/apache/sling-org-apache-sling-launchpad-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad API
 - [apache/sling-org-apache-sling-launchpad-base](https://github.com/apache/sling-org-apache-sling-launchpad-base) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Base
-- [apache/sling-org-apache-sling-launchpad-contrib-testing](https://github.com/apache/sling-org-apache-sling-launchpad-contrib-testing) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Launchpad Contrib Testing
-- [apache/sling-org-apache-sling-launchpad-installer](https://github.com/apache/sling-org-apache-sling-launchpad-installer) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Launchpad Installer
-- [apache/sling-org-apache-sling-launchpad-integration-tests](https://github.com/apache/sling-org-apache-sling-launchpad-integration-tests) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Launchpad Integration Tests
-- [apache/sling-org-apache-sling-launchpad-startupmanager](https://github.com/apache/sling-org-apache-sling-launchpad-startupmanager) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Launchpad Startup Manager
-- [apache/sling-org-apache-sling-launchpad-test-fragment](https://github.com/apache/sling-org-apache-sling-launchpad-test-fragment) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Launchpad Testing Fragment Bundle
-- [apache/sling-org-apache-sling-launchpad-test-services](https://github.com/apache/sling-org-apache-sling-launchpad-test-services) pushed_at:2021-01 star:0.0k fork:0.0k Apache Sling Launchpad Testing Services
-- [apache/sling-org-apache-sling-models-api](https://github.com/apache/sling-org-apache-sling-models-api) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Models API
-- [apache/sling-org-apache-sling-models-caconfig](https://github.com/apache/sling-org-apache-sling-models-caconfig) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Models Context-Aware Configuration
-- [apache/sling-org-apache-sling-models-impl](https://github.com/apache/sling-org-apache-sling-models-impl) pushed_at:2021-04 star:0.0k fork:0.0k Apache Sling Models Implementation
-- [apache/sling-org-apache-sling-models-integration-tests](https://github.com/apache/sling-org-apache-sling-models-integration-tests) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Models Integration Tests
-- [apache/sling-org-apache-sling-models-jacksonexporter](https://github.com/apache/sling-org-apache-sling-models-jacksonexporter) pushed_at:2020-10 star:0.0k fork:0.0k Apache Sling Models Jackson Exporter
-- [apache/sling-org-apache-sling-models-validation-impl](https://github.com/apache/sling-org-apache-sling-models-validation-impl) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Models Validation Implementation
-- [apache/sling-org-apache-sling-mom](https://github.com/apache/sling-org-apache-sling-mom) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Message oriented Middleware API
-- [apache/sling-org-apache-sling-mongodb](https://github.com/apache/sling-org-apache-sling-mongodb) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling MongoDB Resource Provider
-- [apache/sling-org-apache-sling-nosql-couchbase-client](https://github.com/apache/sling-org-apache-sling-nosql-couchbase-client) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling NoSQL Couchbase Client
-- [apache/sling-org-apache-sling-nosql-couchbase-resourceprovider](https://github.com/apache/sling-org-apache-sling-nosql-couchbase-resourceprovider) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling NoSQL Couchbase Resource Provider
-- [apache/sling-org-apache-sling-nosql-generic](https://github.com/apache/sling-org-apache-sling-nosql-generic) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling NoSQL Generic Resource Provider
-- [apache/sling-org-apache-sling-nosql-mongodb-resourceprovider](https://github.com/apache/sling-org-apache-sling-nosql-mongodb-resourceprovider) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling NoSQL MongoDB Resource Provider
-- [apache/sling-org-apache-sling-oak-restrictions](https://github.com/apache/sling-org-apache-sling-oak-restrictions) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Oak Restrictions
-- [apache/sling-org-apache-sling-paxexam-util](https://github.com/apache/sling-org-apache-sling-paxexam-util) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Pax Exam Utilities
-- [apache/sling-org-apache-sling-performance](https://github.com/apache/sling-org-apache-sling-performance) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Performance Test Tools Reactor
-- [apache/sling-org-apache-sling-pipes](https://github.com/apache/sling-org-apache-sling-pipes) pushed_at:2021-03 star:0.0k fork:0.0k Apache Sling Pipes
-- [apache/sling-org-apache-sling-provisioning-model](https://github.com/apache/sling-org-apache-sling-provisioning-model) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Provisioning Model
-- [apache/sling-org-apache-sling-query](https://github.com/apache/sling-org-apache-sling-query) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Query
-- [apache/sling-org-apache-sling-repoinit-parser](https://github.com/apache/sling-org-apache-sling-repoinit-parser) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling RepoInit Parser
-- [apache/sling-org-apache-sling-reqanalyzer](https://github.com/apache/sling-org-apache-sling-reqanalyzer) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Request Processing Analyzer
-- [apache/sling-org-apache-sling-resource-filter](https://github.com/apache/sling-org-apache-sling-resource-filter) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Resource Filter
-- [apache/sling-org-apache-sling-resource-inventory](https://github.com/apache/sling-org-apache-sling-resource-inventory) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Inventory Printer Based on Resources
-- [apache/sling-org-apache-sling-resource-presence](https://github.com/apache/sling-org-apache-sling-resource-presence) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Resource Presence
-- [apache/sling-org-apache-sling-resourceaccesssecurity](https://github.com/apache/sling-org-apache-sling-resourceaccesssecurity) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Resource Access Security
-- [apache/sling-org-apache-sling-resourceaccesssecurity-it](https://github.com/apache/sling-org-apache-sling-resourceaccesssecurity-it) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Resource Access Security Integration Tests
-- [apache/sling-org-apache-sling-resourcebuilder](https://github.com/apache/sling-org-apache-sling-resourcebuilder) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Resource Builder
-- [apache/sling-org-apache-sling-resourcecollection](https://github.com/apache/sling-org-apache-sling-resourcecollection) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Resource Collection API
-- [apache/sling-org-apache-sling-resourcemerger](https://github.com/apache/sling-org-apache-sling-resourcemerger) pushed_at:2021-03 star:0.0k fork:0.0k Apache Sling Resource Merger
+- [apache/sling-org-apache-sling-launchpad-contrib-testing](https://github.com/apache/sling-org-apache-sling-launchpad-contrib-testing) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Contrib Testing
+- [apache/sling-org-apache-sling-launchpad-installer](https://github.com/apache/sling-org-apache-sling-launchpad-installer) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Installer
+- [apache/sling-org-apache-sling-launchpad-integration-tests](https://github.com/apache/sling-org-apache-sling-launchpad-integration-tests) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Integration Tests
+- [apache/sling-org-apache-sling-launchpad-startupmanager](https://github.com/apache/sling-org-apache-sling-launchpad-startupmanager) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Startup Manager
+- [apache/sling-org-apache-sling-launchpad-test-fragment](https://github.com/apache/sling-org-apache-sling-launchpad-test-fragment) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Testing Fragment Bundle
+- [apache/sling-org-apache-sling-launchpad-test-services](https://github.com/apache/sling-org-apache-sling-launchpad-test-services) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Testing Services
+- [apache/sling-org-apache-sling-models-api](https://github.com/apache/sling-org-apache-sling-models-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Models API
+- [apache/sling-org-apache-sling-models-caconfig](https://github.com/apache/sling-org-apache-sling-models-caconfig) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Models Context-Aware Configuration
+- [apache/sling-org-apache-sling-models-impl](https://github.com/apache/sling-org-apache-sling-models-impl) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Models Implementation
+- [apache/sling-org-apache-sling-models-integration-tests](https://github.com/apache/sling-org-apache-sling-models-integration-tests) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Models Integration Tests
+- [apache/sling-org-apache-sling-models-jacksonexporter](https://github.com/apache/sling-org-apache-sling-models-jacksonexporter) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Models Jackson Exporter
+- [apache/sling-org-apache-sling-models-validation-impl](https://github.com/apache/sling-org-apache-sling-models-validation-impl) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Models Validation Implementation
+- [apache/sling-org-apache-sling-mom](https://github.com/apache/sling-org-apache-sling-mom) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Message oriented Middleware API
+- [apache/sling-org-apache-sling-mongodb](https://github.com/apache/sling-org-apache-sling-mongodb) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling MongoDB Resource Provider
+- [apache/sling-org-apache-sling-nosql-couchbase-client](https://github.com/apache/sling-org-apache-sling-nosql-couchbase-client) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling NoSQL Couchbase Client
+- [apache/sling-org-apache-sling-nosql-couchbase-resourceprovider](https://github.com/apache/sling-org-apache-sling-nosql-couchbase-resourceprovider) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling NoSQL Couchbase Resource Provider
+- [apache/sling-org-apache-sling-nosql-generic](https://github.com/apache/sling-org-apache-sling-nosql-generic) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling NoSQL Generic Resource Provider
+- [apache/sling-org-apache-sling-nosql-mongodb-resourceprovider](https://github.com/apache/sling-org-apache-sling-nosql-mongodb-resourceprovider) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling NoSQL MongoDB Resource Provider
+- [apache/sling-org-apache-sling-oak-restrictions](https://github.com/apache/sling-org-apache-sling-oak-restrictions) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Oak Restrictions
+- [apache/sling-org-apache-sling-paxexam-util](https://github.com/apache/sling-org-apache-sling-paxexam-util) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Pax Exam Utilities
+- [apache/sling-org-apache-sling-performance](https://github.com/apache/sling-org-apache-sling-performance) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Performance Test Tools Reactor
+- [apache/sling-org-apache-sling-pipes](https://github.com/apache/sling-org-apache-sling-pipes) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Pipes
+- [apache/sling-org-apache-sling-provisioning-model](https://github.com/apache/sling-org-apache-sling-provisioning-model) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Provisioning Model
+- [apache/sling-org-apache-sling-query](https://github.com/apache/sling-org-apache-sling-query) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Query
+- [apache/sling-org-apache-sling-repoinit-parser](https://github.com/apache/sling-org-apache-sling-repoinit-parser) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling RepoInit Parser
+- [apache/sling-org-apache-sling-reqanalyzer](https://github.com/apache/sling-org-apache-sling-reqanalyzer) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Request Processing Analyzer
+- [apache/sling-org-apache-sling-resource-filter](https://github.com/apache/sling-org-apache-sling-resource-filter) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Resource Filter
+- [apache/sling-org-apache-sling-resource-inventory](https://github.com/apache/sling-org-apache-sling-resource-inventory) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Inventory Printer Based on Resources
+- [apache/sling-org-apache-sling-resource-presence](https://github.com/apache/sling-org-apache-sling-resource-presence) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Resource Presence
+- [apache/sling-org-apache-sling-resourceaccesssecurity](https://github.com/apache/sling-org-apache-sling-resourceaccesssecurity) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Resource Access Security
+- [apache/sling-org-apache-sling-resourceaccesssecurity-it](https://github.com/apache/sling-org-apache-sling-resourceaccesssecurity-it) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Resource Access Security Integration Tests
+- [apache/sling-org-apache-sling-resourcebuilder](https://github.com/apache/sling-org-apache-sling-resourcebuilder) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Resource Builder
+- [apache/sling-org-apache-sling-resourcecollection](https://github.com/apache/sling-org-apache-sling-resourcecollection) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Resource Collection API
+- [apache/sling-org-apache-sling-resourcemerger](https://github.com/apache/sling-org-apache-sling-resourcemerger) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Resource Merger
 - [apache/sling-org-apache-sling-resourceresolver](https://github.com/apache/sling-org-apache-sling-resourceresolver) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Resource Resolver
-- [apache/sling-org-apache-sling-rewriter](https://github.com/apache/sling-org-apache-sling-rewriter) pushed_at:2021-02 star:0.0k fork:0.0k Apache Sling Rewriter
-- [apache/sling-org-apache-sling-scripting-api](https://github.com/apache/sling-org-apache-sling-scripting-api) pushed_at:2021-01 star:0.0k fork:0.0k Apache Sling Scripting API
+- [apache/sling-org-apache-sling-rewriter](https://github.com/apache/sling-org-apache-sling-rewriter) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Rewriter
+- [apache/sling-org-apache-sling-scripting-api](https://github.com/apache/sling-org-apache-sling-scripting-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting API
 - [apache/sling-org-apache-sling-scripting-bundle-tracker-it](https://github.com/apache/sling-org-apache-sling-scripting-bundle-tracker-it) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting Bundle Tracker Integration Tests
-- [apache/sling-org-apache-sling-scripting-console](https://github.com/apache/sling-org-apache-sling-scripting-console) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Script Console
+- [apache/sling-org-apache-sling-scripting-console](https://github.com/apache/sling-org-apache-sling-scripting-console) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Script Console
 - [apache/sling-org-apache-sling-scripting-core](https://github.com/apache/sling-org-apache-sling-scripting-core) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting Core implementation
-- [apache/sling-org-apache-sling-scripting-freemarker](https://github.com/apache/sling-org-apache-sling-scripting-freemarker) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Scripting FreeMarker
-- [apache/sling-org-apache-sling-scripting-groovy](https://github.com/apache/sling-org-apache-sling-scripting-groovy) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Scripting Groovy Support
-- [apache/sling-org-apache-sling-scripting-java](https://github.com/apache/sling-org-apache-sling-scripting-java) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Scripting Java Support
-- [apache/sling-org-apache-sling-scripting-javascript](https://github.com/apache/sling-org-apache-sling-scripting-javascript) pushed_at:2021-04 star:0.0k fork:0.0k Apache Sling Scripting JavaScript Support
+- [apache/sling-org-apache-sling-scripting-freemarker](https://github.com/apache/sling-org-apache-sling-scripting-freemarker) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting FreeMarker
+- [apache/sling-org-apache-sling-scripting-groovy](https://github.com/apache/sling-org-apache-sling-scripting-groovy) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting Groovy Support
+- [apache/sling-org-apache-sling-scripting-java](https://github.com/apache/sling-org-apache-sling-scripting-java) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting Java Support
+- [apache/sling-org-apache-sling-scripting-javascript](https://github.com/apache/sling-org-apache-sling-scripting-javascript) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting JavaScript Support
 - [apache/sling-org-apache-sling-scripting-jsp](https://github.com/apache/sling-org-apache-sling-scripting-jsp) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting JSP Support
-- [apache/sling-org-apache-sling-scripting-jsp-taglib](https://github.com/apache/sling-org-apache-sling-scripting-jsp-taglib) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Scripting JSP Tag Library
-- [apache/sling-org-apache-sling-scripting-jsp-taglib-compat](https://github.com/apache/sling-org-apache-sling-scripting-jsp-taglib-compat) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Scripting JSP Support Compat
+- [apache/sling-org-apache-sling-scripting-jsp-taglib](https://github.com/apache/sling-org-apache-sling-scripting-jsp-taglib) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting JSP Tag Library
+- [apache/sling-org-apache-sling-scripting-jsp-taglib-compat](https://github.com/apache/sling-org-apache-sling-scripting-jsp-taglib-compat) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting JSP Support Compat
 - [apache/sling-org-apache-sling-scripting-sightly](https://github.com/apache/sling-org-apache-sling-scripting-sightly) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting HTL Engine
-- [apache/sling-org-apache-sling-scripting-sightly-compiler](https://github.com/apache/sling-org-apache-sling-scripting-sightly-compiler) pushed_at:2020-10 star:0.0k fork:0.0k Apache Sling Scripting HTL Compiler
-- [apache/sling-org-apache-sling-scripting-sightly-compiler-java](https://github.com/apache/sling-org-apache-sling-scripting-sightly-compiler-java) pushed_at:2020-09 star:0.0k fork:0.0k Apache Sling Scripting HTL Java Compiler
-- [apache/sling-org-apache-sling-scripting-sightly-js-provider](https://github.com/apache/sling-org-apache-sling-scripting-sightly-js-provider) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Scripting HTL JavaScript Use Provider
+- [apache/sling-org-apache-sling-scripting-sightly-compiler](https://github.com/apache/sling-org-apache-sling-scripting-sightly-compiler) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting HTL Compiler
+- [apache/sling-org-apache-sling-scripting-sightly-compiler-java](https://github.com/apache/sling-org-apache-sling-scripting-sightly-compiler-java) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting HTL Java Compiler
+- [apache/sling-org-apache-sling-scripting-sightly-js-provider](https://github.com/apache/sling-org-apache-sling-scripting-sightly-js-provider) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting HTL JavaScript Use Provider
 - [apache/sling-org-apache-sling-scripting-sightly-runtime](https://github.com/apache/sling-org-apache-sling-scripting-sightly-runtime) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting HTL Runtime
-- [apache/sling-org-apache-sling-scripting-sightly-testing](https://github.com/apache/sling-org-apache-sling-scripting-sightly-testing) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sling Scripting HTL Integration Tests
+- [apache/sling-org-apache-sling-scripting-sightly-testing](https://github.com/apache/sling-org-apache-sling-scripting-sightly-testing) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting HTL Integration Tests
 - [apache/sling-org-apache-sling-scripting-spi](https://github.com/apache/sling-org-apache-sling-scripting-spi) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Servlets Resolver API
-- [apache/sling-org-apache-sling-scripting-thymeleaf](https://github.com/apache/sling-org-apache-sling-scripting-thymeleaf) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Scripting Thymeleaf
-- [apache/sling-org-apache-sling-scripting-xproc](https://github.com/apache/sling-org-apache-sling-scripting-xproc) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Scripting W3C XML Processing Support
-- [apache/sling-org-apache-sling-security](https://github.com/apache/sling-org-apache-sling-security) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Security
-- [apache/sling-org-apache-sling-serviceuser-webconsole](https://github.com/apache/sling-org-apache-sling-serviceuser-webconsole) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Service User Web Console
-- [apache/sling-org-apache-sling-serviceusermapper](https://github.com/apache/sling-org-apache-sling-serviceusermapper) pushed_at:2021-04 star:0.0k fork:0.0k Apache Sling Service User Mapper
-- [apache/sling-org-apache-sling-servlet-helpers](https://github.com/apache/sling-org-apache-sling-servlet-helpers) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Servlet Helpers
-- [apache/sling-org-apache-sling-servlets-annotations](https://github.com/apache/sling-org-apache-sling-servlets-annotations) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Servlet Annotations
-- [apache/sling-org-apache-sling-servlets-get](https://github.com/apache/sling-org-apache-sling-servlets-get) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sling Default GET Servlets
+- [apache/sling-org-apache-sling-scripting-thymeleaf](https://github.com/apache/sling-org-apache-sling-scripting-thymeleaf) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting Thymeleaf
+- [apache/sling-org-apache-sling-scripting-xproc](https://github.com/apache/sling-org-apache-sling-scripting-xproc) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting W3C XML Processing Support
+- [apache/sling-org-apache-sling-security](https://github.com/apache/sling-org-apache-sling-security) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Security
+- [apache/sling-org-apache-sling-serviceuser-webconsole](https://github.com/apache/sling-org-apache-sling-serviceuser-webconsole) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Service User Web Console
+- [apache/sling-org-apache-sling-serviceusermapper](https://github.com/apache/sling-org-apache-sling-serviceusermapper) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Service User Mapper
+- [apache/sling-org-apache-sling-servlet-helpers](https://github.com/apache/sling-org-apache-sling-servlet-helpers) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Servlet Helpers
+- [apache/sling-org-apache-sling-servlets-annotations](https://github.com/apache/sling-org-apache-sling-servlets-annotations) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Servlet Annotations
+- [apache/sling-org-apache-sling-servlets-get](https://github.com/apache/sling-org-apache-sling-servlets-get) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Default GET Servlets
 - [apache/sling-org-apache-sling-servlets-post](https://github.com/apache/sling-org-apache-sling-servlets-post) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Default POST Servlets
 - [apache/sling-org-apache-sling-servlets-resolver](https://github.com/apache/sling-org-apache-sling-servlets-resolver) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Servlets Resolver
-- [apache/sling-org-apache-sling-settings](https://github.com/apache/sling-org-apache-sling-settings) pushed_at:2020-11 star:0.0k fork:0.0k Apache Sling Settings
+- [apache/sling-org-apache-sling-settings](https://github.com/apache/sling-org-apache-sling-settings) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Settings
 - [apache/sling-org-apache-sling-sitemap](https://github.com/apache/sling-org-apache-sling-sitemap) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Sitemap
 - [apache/sling-org-apache-sling-starter](https://github.com/apache/sling-org-apache-sling-starter) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Starter Application
-- [apache/sling-org-apache-sling-superimposing](https://github.com/apache/sling-org-apache-sling-superimposing) pushed_at:2021-04 star:0.0k fork:0.0k Apache Sling Superimposing Resource Provider
-- [apache/sling-org-apache-sling-tail](https://github.com/apache/sling-org-apache-sling-tail) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Log Tail Implementation
-- [apache/sling-org-apache-sling-tenant](https://github.com/apache/sling-org-apache-sling-tenant) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Tenant
-- [apache/sling-org-apache-sling-testing-caconfig-mock-plugin](https://github.com/apache/sling-org-apache-sling-testing-caconfig-mock-plugin) pushed_at:2021-03 star:0.0k fork:0.0k Apache Sling Context-Aware Configuration Mock Plugin
+- [apache/sling-org-apache-sling-superimposing](https://github.com/apache/sling-org-apache-sling-superimposing) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Superimposing Resource Provider
+- [apache/sling-org-apache-sling-tail](https://github.com/apache/sling-org-apache-sling-tail) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Log Tail Implementation
+- [apache/sling-org-apache-sling-tenant](https://github.com/apache/sling-org-apache-sling-tenant) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Tenant
+- [apache/sling-org-apache-sling-testing-caconfig-mock-plugin](https://github.com/apache/sling-org-apache-sling-testing-caconfig-mock-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Context-Aware Configuration Mock Plugin
 - [apache/sling-org-apache-sling-testing-clients](https://github.com/apache/sling-org-apache-sling-testing-clients) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Testing Clients
-- [apache/sling-org-apache-sling-testing-email](https://github.com/apache/sling-org-apache-sling-testing-email) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Testing Email Support
-- [apache/sling-org-apache-sling-testing-hamcrest](https://github.com/apache/sling-org-apache-sling-testing-hamcrest) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Testing Hamcrest
-- [apache/sling-org-apache-sling-testing-jcr-mock](https://github.com/apache/sling-org-apache-sling-testing-jcr-mock) pushed_at:2021-03 star:0.0k fork:0.0k Apache Sling Testing JCR Mock
+- [apache/sling-org-apache-sling-testing-email](https://github.com/apache/sling-org-apache-sling-testing-email) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Testing Email Support
+- [apache/sling-org-apache-sling-testing-hamcrest](https://github.com/apache/sling-org-apache-sling-testing-hamcrest) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Testing Hamcrest
+- [apache/sling-org-apache-sling-testing-jcr-mock](https://github.com/apache/sling-org-apache-sling-testing-jcr-mock) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Testing JCR Mock
 - [apache/sling-org-apache-sling-testing-osgi-mock](https://github.com/apache/sling-org-apache-sling-testing-osgi-mock) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Testing OSGi Mock
-- [apache/sling-org-apache-sling-testing-paxexam](https://github.com/apache/sling-org-apache-sling-testing-paxexam) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Testing PaxExam
-- [apache/sling-org-apache-sling-testing-resourceresolver-mock](https://github.com/apache/sling-org-apache-sling-testing-resourceresolver-mock) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Testing Resource Resolver Mock
-- [apache/sling-org-apache-sling-testing-rules](https://github.com/apache/sling-org-apache-sling-testing-rules) pushed_at:2020-10 star:0.0k fork:0.0k Apache Sling Testing Rules
-- [apache/sling-org-apache-sling-testing-serversetup](https://github.com/apache/sling-org-apache-sling-testing-serversetup) pushed_at:2020-10 star:0.0k fork:0.0k Apache Sling Server Setup Tools
-- [apache/sling-org-apache-sling-testing-sling-mock](https://github.com/apache/sling-org-apache-sling-testing-sling-mock) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling Testing Sling Mock
-- [apache/sling-org-apache-sling-testing-sling-mock-oak](https://github.com/apache/sling-org-apache-sling-testing-sling-mock-oak) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sling Testing Sling Mock Jackrabbit Oak-based Resource Resolver
-- [apache/sling-org-apache-sling-tooling-support-install](https://github.com/apache/sling-org-apache-sling-tooling-support-install) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Tooling Support Install
-- [apache/sling-org-apache-sling-tooling-support-source](https://github.com/apache/sling-org-apache-sling-tooling-support-source) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Tooling Support Source
-- [apache/sling-org-apache-sling-tracer](https://github.com/apache/sling-org-apache-sling-tracer) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Log Tracer
-- [apache/sling-org-apache-sling-urlrewriter](https://github.com/apache/sling-org-apache-sling-urlrewriter) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling URL Rewriter
-- [apache/sling-org-apache-sling-validation-api](https://github.com/apache/sling-org-apache-sling-validation-api) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Validation Framework API
-- [apache/sling-org-apache-sling-validation-core](https://github.com/apache/sling-org-apache-sling-validation-core) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Validation Framework Core Implementation
-- [apache/sling-org-apache-sling-validation-examples](https://github.com/apache/sling-org-apache-sling-validation-examples) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Validation Framework Examples
-- [apache/sling-org-apache-sling-validation-test-services](https://github.com/apache/sling-org-apache-sling-validation-test-services) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Validation Framework Testing Services
-- [apache/sling-org-apache-sling-xss](https://github.com/apache/sling-org-apache-sling-xss) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sling XSS Protection
+- [apache/sling-org-apache-sling-testing-paxexam](https://github.com/apache/sling-org-apache-sling-testing-paxexam) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Testing PaxExam
+- [apache/sling-org-apache-sling-testing-resourceresolver-mock](https://github.com/apache/sling-org-apache-sling-testing-resourceresolver-mock) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Testing Resource Resolver Mock
+- [apache/sling-org-apache-sling-testing-rules](https://github.com/apache/sling-org-apache-sling-testing-rules) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Testing Rules
+- [apache/sling-org-apache-sling-testing-serversetup](https://github.com/apache/sling-org-apache-sling-testing-serversetup) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Server Setup Tools
+- [apache/sling-org-apache-sling-testing-sling-mock](https://github.com/apache/sling-org-apache-sling-testing-sling-mock) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Testing Sling Mock
+- [apache/sling-org-apache-sling-testing-sling-mock-oak](https://github.com/apache/sling-org-apache-sling-testing-sling-mock-oak) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Testing Sling Mock Jackrabbit Oak-based Resource Resolver
+- [apache/sling-org-apache-sling-tooling-support-install](https://github.com/apache/sling-org-apache-sling-tooling-support-install) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Tooling Support Install
+- [apache/sling-org-apache-sling-tooling-support-source](https://github.com/apache/sling-org-apache-sling-tooling-support-source) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Tooling Support Source
+- [apache/sling-org-apache-sling-tracer](https://github.com/apache/sling-org-apache-sling-tracer) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Log Tracer
+- [apache/sling-org-apache-sling-urlrewriter](https://github.com/apache/sling-org-apache-sling-urlrewriter) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling URL Rewriter
+- [apache/sling-org-apache-sling-validation-api](https://github.com/apache/sling-org-apache-sling-validation-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Validation Framework API
+- [apache/sling-org-apache-sling-validation-core](https://github.com/apache/sling-org-apache-sling-validation-core) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Validation Framework Core Implementation
+- [apache/sling-org-apache-sling-validation-examples](https://github.com/apache/sling-org-apache-sling-validation-examples) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Validation Framework Examples
+- [apache/sling-org-apache-sling-validation-test-services](https://github.com/apache/sling-org-apache-sling-validation-test-services) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Validation Framework Testing Services
+- [apache/sling-org-apache-sling-xss](https://github.com/apache/sling-org-apache-sling-xss) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling XSS Protection
 - [apache/sling-project-archetype](https://github.com/apache/sling-project-archetype) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Project Archetype
 - [apache/sling-samples](https://github.com/apache/sling-samples) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Samples
-- [apache/sling-scriptingbundle-maven-plugin](https://github.com/apache/sling-scriptingbundle-maven-plugin) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sling Scripting Bundle Maven Plugin
-- [apache/sling-servlet-archetype](https://github.com/apache/sling-servlet-archetype) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Servlets Archetype
+- [apache/sling-scriptingbundle-maven-plugin](https://github.com/apache/sling-scriptingbundle-maven-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting Bundle Maven Plugin
+- [apache/sling-servlet-archetype](https://github.com/apache/sling-servlet-archetype) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Servlets Archetype
 - [apache/sling-slingfeature-maven-plugin](https://github.com/apache/sling-slingfeature-maven-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling OSGi Feature Maven Plugin
-- [apache/sling-slingstart-maven-plugin](https://github.com/apache/sling-slingstart-maven-plugin) pushed_at:2021-02 star:0.0k fork:0.0k Apache Sling SlingStart Maven Plugin
-- [apache/sling-taglib-archetype](https://github.com/apache/sling-taglib-archetype) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Taglib Archetype
+- [apache/sling-slingstart-maven-plugin](https://github.com/apache/sling-slingstart-maven-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling SlingStart Maven Plugin
+- [apache/sling-taglib-archetype](https://github.com/apache/sling-taglib-archetype) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Taglib Archetype
 - [apache/sling-whiteboard](https://github.com/apache/sling-whiteboard) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Whiteboard - testing ground for new ideas
 - [apache/solr](https://github.com/apache/solr) pushed_at:2021-07 star:0.1k fork:0.1k Apache Solr open-source search software
 - [apache/sqoop](https://github.com/apache/sqoop) pushed_at:2021-04 star:0.8k fork:0.5k Mirror of Apache Sqoop
@@ -1588,7 +1591,7 @@
 - [apache/tiles-autotag](https://github.com/apache/tiles-autotag) pushed_at:2019-11 star:0.0k fork:0.0k Mirror of Apache Tiles Autotag
 - [apache/tiles-request](https://github.com/apache/tiles-request) pushed_at:2017-11 star:0.0k fork:0.0k Mirror of Apache Tiles Request
 - [apache/tinkerpop](https://github.com/apache/tinkerpop) pushed_at:2021-07 star:1.4k fork:0.7k Apache TinkerPop - a graph computing framework
-- [apache/tomcat](https://github.com/apache/tomcat) pushed_at:2021-07 star:5.5k fork:3.7k Apache Tomcat
+- [apache/tomcat](https://github.com/apache/tomcat) pushed_at:2021-07 star:5.5k fork:3.8k Apache Tomcat
 - [apache/tomcat-jakartaee-migration](https://github.com/apache/tomcat-jakartaee-migration) pushed_at:2021-05 star:0.0k fork:0.0k Apache Tomcat migration tool for Jakarta EE
 - [apache/tomcat-maven-plugin](https://github.com/apache/tomcat-maven-plugin) pushed_at:2021-07 star:0.1k fork:0.1k Apache Tomcat Maven plugin
 - [apache/tomcat-taglibs-rdc](https://github.com/apache/tomcat-taglibs-rdc) pushed_at:2021-05 star:0.0k fork:0.0k Apache tomcat
@@ -1659,8 +1662,8 @@
 - [apache/ant-xooki](https://github.com/apache/ant-xooki) pushed_at:2017-06 star:0.0k fork:0.0k Mirror of Apache Ant xooki
 - [apache/apisix-website](https://github.com/apache/apisix-website) pushed_at:2021-07 star:0.0k fork:0.1k Apache APISIX Website
 - [apache/brooklyn-docs](https://github.com/apache/brooklyn-docs) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache Brooklyn docs
-- [apache/brooklyn-ui](https://github.com/apache/brooklyn-ui) pushed_at:2021-07 star:0.0k fork:0.1k Apache Brooklyn UI
-- [apache/celix-site](https://github.com/apache/celix-site) pushed_at:2021-05 star:0.0k fork:0.0k Website sources for the Apache Celix website
+- [apache/brooklyn-ui](https://github.com/apache/brooklyn-ui) pushed_at:2021-07 star:0.0k fork:0.0k Apache Brooklyn UI
+- [apache/celix-site](https://github.com/apache/celix-site) pushed_at:2021-07 star:0.0k fork:0.0k Website sources for the Apache Celix website
 - [apache/commons-skin](https://github.com/apache/commons-skin) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [apache/cordova-android](https://github.com/apache/cordova-android) pushed_at:2021-07 star:3.2k fork:1.5k Apache Cordova Android
 - [apache/cordova-app-harness](https://github.com/apache/cordova-app-harness) pushed_at:2019-04 star:0.0k fork:0.1k [DEPRECATED] Apache Cordova app harness
@@ -1691,7 +1694,7 @@
 - [apache/cordova-plugin-device-orientation](https://github.com/apache/cordova-plugin-device-orientation) pushed_at:2020-08 star:0.1k fork:0.1k Apache Cordova Plugin device-orientation
 - [apache/cordova-plugin-dialogs](https://github.com/apache/cordova-plugin-dialogs) pushed_at:2020-12 star:0.3k fork:0.3k Apache Cordova Plugin dialogs
 - [apache/cordova-plugin-file](https://github.com/apache/cordova-plugin-file) pushed_at:2021-07 star:0.7k fork:0.6k Apache Cordova Plugin file
-- [apache/cordova-plugin-file-transfer](https://github.com/apache/cordova-plugin-file-transfer) pushed_at:2021-02 star:0.5k fork:0.7k Apache Cordova Plugin file-transfer
+- [apache/cordova-plugin-file-transfer](https://github.com/apache/cordova-plugin-file-transfer) pushed_at:2021-07 star:0.5k fork:0.7k Apache Cordova Plugin file-transfer
 - [apache/cordova-plugin-geolocation](https://github.com/apache/cordova-plugin-geolocation) pushed_at:2021-07 star:0.6k fork:0.6k Apache Cordova Plugin geolocation
 - [apache/cordova-plugin-globalization](https://github.com/apache/cordova-plugin-globalization) pushed_at:2021-07 star:0.1k fork:0.1k Apache Cordova Plugin globalization
 - [apache/cordova-plugin-media](https://github.com/apache/cordova-plugin-media) pushed_at:2021-07 star:0.3k fork:0.7k Apache Cordova Plugin media
@@ -1725,8 +1728,8 @@
 - [apache/echarts-website](https://github.com/apache/echarts-website) pushed_at:2021-07 star:0.0k fork:0.1k Apache ECharts Website
 - [apache/echarts-www](https://github.com/apache/echarts-www) pushed_at:2021-07 star:0.0k fork:0.0k Source of echarts website
 - [apache/fineract-cn-fims-e2e](https://github.com/apache/fineract-cn-fims-e2e) pushed_at:2018-04 star:0.0k fork:0.1k Apache fineract web client automated tests
-- [apache/geode-site](https://github.com/apache/geode-site) pushed_at:2021-06 star:0.0k fork:0.0k Apache Geode website content
-- [apache/guacamole-website](https://github.com/apache/guacamole-website) pushed_at:2021-05 star:0.2k fork:0.1k Mirror of Apache Guacamole Website
+- [apache/geode-site](https://github.com/apache/geode-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache Geode website content
+- [apache/guacamole-website](https://github.com/apache/guacamole-website) pushed_at:2021-07 star:0.2k fork:0.1k Mirror of Apache Guacamole Website
 - [apache/iampoc](https://github.com/apache/iampoc) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of IAM PoC
 - [apache/ignite-web-console](https://github.com/apache/ignite-web-console) pushed_at:2020-07 star:0.0k fork:0.0k Apache Ignite Web Console Discontinued
 - [apache/incubator-annotator-website](https://github.com/apache/incubator-annotator-website) pushed_at:2021-07 star:0.0k fork:0.0k Apache Annotator (Incubating) Website
@@ -1777,13 +1780,13 @@
 - [apache/singa-doc](https://github.com/apache/singa-doc) pushed_at:2021-05 star:0.0k fork:0.0k Apache singa
 - [apache/sirona](https://github.com/apache/sirona) pushed_at:2017-07 star:0.1k fork:0.1k Mirror of Apache Sirona (Incubating)
 - [apache/skywalking-ui](https://github.com/apache/skywalking-ui) pushed_at:2019-04 star:0.3k fork:0.1k [ARCHIVED] The web UI for skywalking APM
-- [apache/sling-org-apache-sling-resource-editor](https://github.com/apache/sling-org-apache-sling-resource-editor) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Resource Editor
-- [apache/sling-org-apache-sling-scripting-esx](https://github.com/apache/sling-org-apache-sling-scripting-esx) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Scripting ESX
-- [apache/sling-org-apache-sling-scripting-sightly-repl](https://github.com/apache/sling-org-apache-sling-scripting-sightly-repl) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Scripting HTL Read-Eval-Print Loop Environment
-- [apache/sling-slingpackager](https://github.com/apache/sling-slingpackager) pushed_at:2021-06 star:0.0k fork:0.0k A tool for working with Apache Sling content packages
+- [apache/sling-org-apache-sling-resource-editor](https://github.com/apache/sling-org-apache-sling-resource-editor) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Resource Editor
+- [apache/sling-org-apache-sling-scripting-esx](https://github.com/apache/sling-org-apache-sling-scripting-esx) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting ESX
+- [apache/sling-org-apache-sling-scripting-sightly-repl](https://github.com/apache/sling-org-apache-sling-scripting-sightly-repl) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting HTL Read-Eval-Print Loop Environment
+- [apache/sling-slingpackager](https://github.com/apache/sling-slingpackager) pushed_at:2021-07 star:0.0k fork:0.0k A tool for working with Apache Sling content packages
 - [apache/tomcat-training](https://github.com/apache/tomcat-training) pushed_at:2021-05 star:0.0k fork:0.0k Apache Tomcat Training Material
 - [apache/tomee-site-ng](https://github.com/apache/tomee-site-ng) pushed_at:2018-12 star:0.0k fork:0.0k Mirror of Apache TomEE Site-NG
-- [apache/tvm-site](https://github.com/apache/tvm-site) pushed_at:2021-06 star:0.0k fork:0.0k repo for tvm
+- [apache/tvm-site](https://github.com/apache/tvm-site) pushed_at:2021-07 star:0.0k fork:0.0k repo for tvm
 - [apache/usergrid-javascript](https://github.com/apache/usergrid-javascript) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache usergrid JavaScript SDK
 - [apache/usergrid-nodejs](https://github.com/apache/usergrid-nodejs) pushed_at:2019-02 star:0.0k fork:0.0k Mirror of Apache usergrid NodeJS SDK
 
@@ -1801,9 +1804,9 @@
 
 ## Lua
 
-- [apache/apisix](https://github.com/apache/apisix) pushed_at:2021-07 star:5.7k fork:1.1k The Cloud-Native API Gateway
+- [apache/apisix](https://github.com/apache/apisix) pushed_at:2021-07 star:5.8k fork:1.1k The Cloud-Native API Gateway
 - [apache/openwhisk-apigateway](https://github.com/apache/openwhisk-apigateway) pushed_at:2021-06 star:0.1k fork:0.0k Apache OpenWhisk API Gateway service for exposing actions as REST interfaces.
-- [apache/skywalking-nginx-lua](https://github.com/apache/skywalking-nginx-lua) pushed_at:2021-06 star:0.1k fork:0.0k The Nginx Lua agent for Apache SkyWalking
+- [apache/skywalking-nginx-lua](https://github.com/apache/skywalking-nginx-lua) pushed_at:2021-07 star:0.1k fork:0.0k The Nginx Lua agent for Apache SkyWalking
 
 ## Makefile
 
@@ -1851,7 +1854,6 @@
 - [apache/archiva-redback-components-spring-quartz](https://github.com/apache/archiva-redback-components-spring-quartz) pushed_at:2019-11 star:0.0k fork:0.0k Apache archiva
 - [apache/archiva-redback-components-spring-registry](https://github.com/apache/archiva-redback-components-spring-registry) pushed_at:2019-11 star:0.0k fork:0.0k Apache archiva
 - [apache/archiva-redback-components-spring-taskqueue](https://github.com/apache/archiva-redback-components-spring-taskqueue) pushed_at:2019-11 star:0.0k fork:0.0k Apache archiva
-- [apache/arrow-cookbook](https://github.com/apache/arrow-cookbook) pushed_at:2021-07 star:0.0k fork:0.0k Apache Arrow Cookbook
 - [apache/arrow-experimental-rs-arrow2](https://github.com/apache/arrow-experimental-rs-arrow2) pushed_at:2021-07 star:0.0k fork:0.0k Experimental Rust implementation of Apache Arrow
 - [apache/arrow-experimental-rs-parquet2](https://github.com/apache/arrow-experimental-rs-parquet2) pushed_at:2021-07 star:0.0k fork:0.0k Experimental Rust implementation of Apache Arrow Parquet
 - [apache/asf-infra-transfer-test](https://github.com/apache/asf-infra-transfer-test) pushed_at:2019-05 star:0.0k fork:0.0k 
@@ -1860,8 +1862,6 @@
 - [apache/camel-install-jdk](https://github.com/apache/camel-install-jdk) pushed_at:2020-12 star:0.0k fork:0.0k Apache camel adoptopenjdk install-jdk Github action fork
 - [apache/camel-karaf-examples](https://github.com/apache/camel-karaf-examples) pushed_at:2021-06 star:0.0k fork:0.0k Apache Camel Karaf Examples
 - [apache/carbondata-site](https://github.com/apache/carbondata-site) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache CarbonData Site
-- [apache/cloudstack-go](https://github.com/apache/cloudstack-go) pushed_at:2021-06 star:0.0k fork:0.0k Apache CloudStack Go API SDK
-- [apache/cloudstack-terraform-provider](https://github.com/apache/cloudstack-terraform-provider) pushed_at:2021-04 star:0.0k fork:0.0k Apache Cloudstack Terraform Provider
 - [apache/comdev-fosdem-static](https://github.com/apache/comdev-fosdem-static) pushed_at:2021-02 star:0.0k fork:0.0k Apache Comdev FOSDEM Booth Static Content
 - [apache/commons-build-plugin](https://github.com/apache/commons-build-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache Commons Build Plugin
 - [apache/commons-el](https://github.com/apache/commons-el) pushed_at:2016-10 star:0.0k fork:0.0k Mirror of Apache Commons EL
@@ -1928,8 +1928,6 @@
 - [apache/incubator-parquet-cpp](https://github.com/apache/incubator-parquet-cpp) pushed_at:2015-04 star:0.0k fork:0.0k Mirror of Apache Parquet
 - [apache/incubator-parquet-format](https://github.com/apache/incubator-parquet-format) pushed_at:2015-04 star:0.0k fork:0.0k Mirror of Apache Parquet
 - [apache/incubator-parquet-mr](https://github.com/apache/incubator-parquet-mr) pushed_at:2015-04 star:0.0k fork:0.0k Mirror of Apache Parquet
-- [apache/incubator-pinot-docs](https://github.com/apache/incubator-pinot-docs) pushed_at:2020-03 star:0.0k fork:0.0k Apache pinot docs
-- [apache/incubator-pinot-private](https://github.com/apache/incubator-pinot-private) pushed_at:2018-11 star:0.0k fork:0.0k Apache pinot
 - [apache/incubator-sdap-doms](https://github.com/apache/incubator-sdap-doms) pushed_at:2017-10 star:0.0k fork:0.0k Mirror of Apache sdap (Incubating)
 - [apache/incubator-sedona-website](https://github.com/apache/incubator-sedona-website) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sedona Website
 - [apache/incubator-streams](https://github.com/apache/incubator-streams) pushed_at:2017-08 star:0.0k fork:0.0k Mirror of Apache Streams
@@ -1958,7 +1956,7 @@
 - [apache/infrastructure-reftest](https://github.com/apache/infrastructure-reftest) pushed_at:2020-12 star:0.0k fork:0.0k Apache infra reftest
 - [apache/infrastructure-relaytest](https://github.com/apache/infrastructure-relaytest) pushed_at:2019-05 star:0.0k fork:0.0k Infrastructure Relay Test Repo
 - [apache/infrastructure-site-build-test](https://github.com/apache/infrastructure-site-build-test) pushed_at:2020-10 star:0.0k fork:0.0k Apache Infra Website Build Test
-- [apache/infrastructure-test](https://github.com/apache/infrastructure-test) pushed_at:2021-05 star:0.0k fork:0.0k Repository for creating tests for Jenkins and Buildbot build Infra
+- [apache/infrastructure-test](https://github.com/apache/infrastructure-test) pushed_at:2021-07 star:0.0k fork:0.0k Repository for creating tests for Jenkins and Buildbot build Infra
 - [apache/infratest](https://github.com/apache/infratest) pushed_at:2019-05 star:0.0k fork:0.0k 
 - [apache/iotdb-bin-resources](https://github.com/apache/iotdb-bin-resources) pushed_at:2021-07 star:0.0k fork:0.0k binary files that Apache IoTDBs website and documents use
 - [apache/isis-app-demo](https://github.com/apache/isis-app-demo) pushed_at:2019-07 star:0.0k fork:0.0k App that demonstrates the Apache Isis programming model.
@@ -1984,8 +1982,8 @@
 - [apache/matt-test](https://github.com/apache/matt-test) pushed_at:2016-04 star:0.0k fork:0.0k MATT test
 - [apache/maven-dist-tool](https://github.com/apache/maven-dist-tool) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Distribution Tools
 - [apache/maven-metric-extension](https://github.com/apache/maven-metric-extension) pushed_at:2020-05 star:0.0k fork:0.0k Apache Maven Metric Extension
-- [apache/maven-sources](https://github.com/apache/maven-sources) pushed_at:2021-06 star:0.0k fork:0.0k Apache Maven Sources
-- [apache/maven-studies](https://github.com/apache/maven-studies) pushed_at:2021-06 star:0.0k fork:0.0k Apache Maven Studies
+- [apache/maven-sources](https://github.com/apache/maven-sources) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Sources
+- [apache/maven-studies](https://github.com/apache/maven-studies) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Studies
 - [apache/myfaces-extval](https://github.com/apache/myfaces-extval) pushed_at:2020-02 star:0.0k fork:0.0k Apache MyFaces ExtVal
 - [apache/myfaces-master-pom](https://github.com/apache/myfaces-master-pom) pushed_at:2021-07 star:0.0k fork:0.0k Apache MyFaces Master POM
 - [apache/mynewt-lorawan](https://github.com/apache/mynewt-lorawan) pushed_at:2018-08 star:0.0k fork:0.0k Apache mynewt
@@ -2004,6 +2002,8 @@
 - [apache/parquet-testing](https://github.com/apache/parquet-testing) pushed_at:2021-07 star:0.0k fork:0.0k Auxiliary files for compatibility and integration tests for Apache Parquet
 - [apache/pdfbox-testfiles](https://github.com/apache/pdfbox-testfiles) pushed_at:2017-12 star:0.0k fork:0.0k Mirror of Apache PDFBox Testfiles
 - [apache/phoenix-thirdparty](https://github.com/apache/phoenix-thirdparty) pushed_at:2021-02 star:0.0k fork:0.0k Apache phoenix Third Party Libs
+- [apache/pinot-docs](https://github.com/apache/pinot-docs) pushed_at:2020-03 star:0.0k fork:0.0k Apache pinot docs
+- [apache/pinot-private](https://github.com/apache/pinot-private) pushed_at:2018-11 star:0.0k fork:0.0k Apache pinot
 - [apache/pluto](https://github.com/apache/pluto) pushed_at:2019-10 star:0.0k fork:0.0k Mirror of Apache Pluto
 - [apache/poi-site](https://github.com/apache/poi-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache POI Website
 - [apache/poi-xmlbeans-site](https://github.com/apache/poi-xmlbeans-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache XMLBeans Website
@@ -2023,53 +2023,53 @@
 - [apache/servicemix4-legal](https://github.com/apache/servicemix4-legal) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Servicemix 4 legal
 - [apache/shardingsphere-externals](https://github.com/apache/shardingsphere-externals) pushed_at:2020-11 star:0.0k fork:0.0k Distributed database middleware
 - [apache/skywalking-query-protocol](https://github.com/apache/skywalking-query-protocol) pushed_at:2021-07 star:0.0k fork:0.0k Apache skywalking
-- [apache/sling-apache-sling-jar-resource-bundle](https://github.com/apache/sling-apache-sling-jar-resource-bundle) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling JAR Resource Bundle
+- [apache/sling-apache-sling-jar-resource-bundle](https://github.com/apache/sling-apache-sling-jar-resource-bundle) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling JAR Resource Bundle
 - [apache/sling-archetype-parent](https://github.com/apache/sling-archetype-parent) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Archetype Parent
-- [apache/sling-maven-jcrocm-plugin](https://github.com/apache/sling-maven-jcrocm-plugin) pushed_at:2021-01 star:0.0k fork:0.0k Apache Sling Maven JCROCM Plugin (deprecated)
+- [apache/sling-maven-jcrocm-plugin](https://github.com/apache/sling-maven-jcrocm-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Maven JCROCM Plugin (deprecated)
 - [apache/sling-old-svn-mirror](https://github.com/apache/sling-old-svn-mirror) pushed_at:2018-06 star:0.2k fork:0.3k Mirror of Apache Sling
-- [apache/sling-org-apache-sling-adapter-annotations-it](https://github.com/apache/sling-org-apache-sling-adapter-annotations-it) pushed_at:2020-11 star:0.0k fork:0.0k Apache Sling Adapter Annotations Integration Tests (deprecated)
-- [apache/sling-org-apache-sling-commons-cache-api](https://github.com/apache/sling-org-apache-sling-commons-cache-api) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Commons Cache API
-- [apache/sling-org-apache-sling-commons-cache-ehcache](https://github.com/apache/sling-org-apache-sling-commons-cache-ehcache) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Cache API EhCache implementation
-- [apache/sling-org-apache-sling-commons-cache-impl](https://github.com/apache/sling-org-apache-sling-commons-cache-impl) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Cache API Implementation support library
-- [apache/sling-org-apache-sling-commons-cache-portal](https://github.com/apache/sling-org-apache-sling-commons-cache-portal) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Cache Portal Cache
-- [apache/sling-org-apache-sling-crankstart-launcher](https://github.com/apache/sling-org-apache-sling-crankstart-launcher) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Crankstart Launcher (deprecated)
-- [apache/sling-org-apache-sling-crankstart-test-model](https://github.com/apache/sling-org-apache-sling-crankstart-test-model) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Crankstart Test Provisioning Model (deprecated)
-- [apache/sling-org-apache-sling-crankstart-test-services](https://github.com/apache/sling-org-apache-sling-crankstart-test-services) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Crankstart Test Services (deprecated)
-- [apache/sling-org-apache-sling-extensions-logback-groovy-fragment](https://github.com/apache/sling-org-apache-sling-extensions-logback-groovy-fragment) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Logback Groovy Fragment
-- [apache/sling-org-apache-sling-extensions-webconsolebranding](https://github.com/apache/sling-org-apache-sling-extensions-webconsolebranding) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Web Console Branding
-- [apache/sling-org-apache-sling-feature-io](https://github.com/apache/sling-org-apache-sling-feature-io) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Feature Model IO
-- [apache/sling-org-apache-sling-fragment-activation](https://github.com/apache/sling-org-apache-sling-fragment-activation) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling System Bundle Extension Activation API
-- [apache/sling-org-apache-sling-fragment-nashorn](https://github.com/apache/sling-org-apache-sling-fragment-nashorn) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling System Bundle Extension Nashorn Scripting API
-- [apache/sling-org-apache-sling-fragment-transaction](https://github.com/apache/sling-org-apache-sling-fragment-transaction) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling System Bundle Extension Java Transaction API
-- [apache/sling-org-apache-sling-fragment-ws](https://github.com/apache/sling-org-apache-sling-fragment-ws) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling System Bundle Extension WS APIs
-- [apache/sling-org-apache-sling-fragment-xml](https://github.com/apache/sling-org-apache-sling-fragment-xml) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling System Bundle Extension XML APIs
-- [apache/sling-org-apache-sling-hc-annotations](https://github.com/apache/sling-org-apache-sling-hc-annotations) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Health Check Annotations
-- [apache/sling-org-apache-sling-hc-core](https://github.com/apache/sling-org-apache-sling-hc-core) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Health Check Core
-- [apache/sling-org-apache-sling-hc-webconsole](https://github.com/apache/sling-org-apache-sling-hc-webconsole) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Health Check Webconsole Plugin
-- [apache/sling-org-apache-sling-installer-factory-subsystems](https://github.com/apache/sling-org-apache-sling-installer-factory-subsystems) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Subsystems Installer  (deprecated)
-- [apache/sling-org-apache-sling-jcr-jcr-wrapper](https://github.com/apache/sling-org-apache-sling-jcr-jcr-wrapper) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Wrapper Bundle for the JCR API
-- [apache/sling-org-apache-sling-karaf-configs](https://github.com/apache/sling-org-apache-sling-karaf-configs) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sling - Karaf Configs
-- [apache/sling-org-apache-sling-karaf-distribution](https://github.com/apache/sling-org-apache-sling-karaf-distribution) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling - Karaf Distribution
-- [apache/sling-org-apache-sling-karaf-features](https://github.com/apache/sling-org-apache-sling-karaf-features) pushed_at:2021-06 star:0.0k fork:0.0k Apache Sling - Karaf Features
-- [apache/sling-org-apache-sling-launchpad-test-bundles](https://github.com/apache/sling-org-apache-sling-launchpad-test-bundles) pushed_at:2020-10 star:0.0k fork:0.0k Apache Sling Launchpad Test Bundles (deprecated)
-- [apache/sling-org-apache-sling-launchpad-test-services-war](https://github.com/apache/sling-org-apache-sling-launchpad-test-services-war) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Launchpad Testing Services WAR
-- [apache/sling-org-apache-sling-launchpad-testing](https://github.com/apache/sling-org-apache-sling-launchpad-testing) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sling Launchpad Testing
-- [apache/sling-org-apache-sling-launchpad-testing-war](https://github.com/apache/sling-org-apache-sling-launchpad-testing-war) pushed_at:2020-10 star:0.0k fork:0.0k Apache Sling Launchpd Testing WAR (deprecated)
-- [apache/sling-org-apache-sling-nosql-launchpad](https://github.com/apache/sling-org-apache-sling-nosql-launchpad) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling NoSQL Launchpad
-- [apache/sling-org-apache-sling-repoinit-it](https://github.com/apache/sling-org-apache-sling-repoinit-it) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling RepoInit Integration Tests(deprecated)
-- [apache/sling-org-apache-sling-scripting-bundle-tracker](https://github.com/apache/sling-org-apache-sling-scripting-bundle-tracker) pushed_at:2020-09 star:0.0k fork:0.0k Apache Sling Scripting Bundle Tracker (deprecated)
-- [apache/sling-org-apache-sling-scripting-el-api](https://github.com/apache/sling-org-apache-sling-scripting-el-api) pushed_at:2020-11 star:0.0k fork:0.0k Apache Sling Wrapper Bundle for Apache Tomcat EL API
-- [apache/sling-org-apache-sling-scripting-jsp-api](https://github.com/apache/sling-org-apache-sling-scripting-jsp-api) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Wrapper Bundle for Apache Tomcat JSP API
-- [apache/sling-org-apache-sling-scripting-jsp-jstl](https://github.com/apache/sling-org-apache-sling-scripting-jsp-jstl) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Scripting JSP Standard Tag Library
-- [apache/sling-org-apache-sling-scripting-sightly-models-provider](https://github.com/apache/sling-org-apache-sling-scripting-sightly-models-provider) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Scripting HTL Sling Models Use Provider (deprecated)
-- [apache/sling-org-apache-sling-servlets-annotations-it](https://github.com/apache/sling-org-apache-sling-servlets-annotations-it) pushed_at:2020-11 star:0.0k fork:0.0k Apache Sling Servlet Annotations Integration Tests (deprecated)
-- [apache/sling-org-apache-sling-starter-startup](https://github.com/apache/sling-org-apache-sling-starter-startup) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Starter Startup Module (deprecated)
-- [apache/sling-org-apache-sling-startupfilter](https://github.com/apache/sling-org-apache-sling-startupfilter) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Startup Filter
-- [apache/sling-org-apache-sling-startupfilter-disabler](https://github.com/apache/sling-org-apache-sling-startupfilter-disabler) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Startup Filter Disabler
-- [apache/sling-org-apache-sling-testing-logging-mock](https://github.com/apache/sling-org-apache-sling-testing-logging-mock) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Testing Mock Log Configuration
+- [apache/sling-org-apache-sling-adapter-annotations-it](https://github.com/apache/sling-org-apache-sling-adapter-annotations-it) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Adapter Annotations Integration Tests (deprecated)
+- [apache/sling-org-apache-sling-commons-cache-api](https://github.com/apache/sling-org-apache-sling-commons-cache-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Commons Cache API
+- [apache/sling-org-apache-sling-commons-cache-ehcache](https://github.com/apache/sling-org-apache-sling-commons-cache-ehcache) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Cache API EhCache implementation
+- [apache/sling-org-apache-sling-commons-cache-impl](https://github.com/apache/sling-org-apache-sling-commons-cache-impl) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Cache API Implementation support library
+- [apache/sling-org-apache-sling-commons-cache-portal](https://github.com/apache/sling-org-apache-sling-commons-cache-portal) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Cache Portal Cache
+- [apache/sling-org-apache-sling-crankstart-launcher](https://github.com/apache/sling-org-apache-sling-crankstart-launcher) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Crankstart Launcher (deprecated)
+- [apache/sling-org-apache-sling-crankstart-test-model](https://github.com/apache/sling-org-apache-sling-crankstart-test-model) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Crankstart Test Provisioning Model (deprecated)
+- [apache/sling-org-apache-sling-crankstart-test-services](https://github.com/apache/sling-org-apache-sling-crankstart-test-services) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Crankstart Test Services (deprecated)
+- [apache/sling-org-apache-sling-extensions-logback-groovy-fragment](https://github.com/apache/sling-org-apache-sling-extensions-logback-groovy-fragment) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Logback Groovy Fragment
+- [apache/sling-org-apache-sling-extensions-webconsolebranding](https://github.com/apache/sling-org-apache-sling-extensions-webconsolebranding) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Web Console Branding
+- [apache/sling-org-apache-sling-feature-io](https://github.com/apache/sling-org-apache-sling-feature-io) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Model IO
+- [apache/sling-org-apache-sling-fragment-activation](https://github.com/apache/sling-org-apache-sling-fragment-activation) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling System Bundle Extension Activation API
+- [apache/sling-org-apache-sling-fragment-nashorn](https://github.com/apache/sling-org-apache-sling-fragment-nashorn) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling System Bundle Extension Nashorn Scripting API
+- [apache/sling-org-apache-sling-fragment-transaction](https://github.com/apache/sling-org-apache-sling-fragment-transaction) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling System Bundle Extension Java Transaction API
+- [apache/sling-org-apache-sling-fragment-ws](https://github.com/apache/sling-org-apache-sling-fragment-ws) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling System Bundle Extension WS APIs
+- [apache/sling-org-apache-sling-fragment-xml](https://github.com/apache/sling-org-apache-sling-fragment-xml) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling System Bundle Extension XML APIs
+- [apache/sling-org-apache-sling-hc-annotations](https://github.com/apache/sling-org-apache-sling-hc-annotations) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Health Check Annotations
+- [apache/sling-org-apache-sling-hc-core](https://github.com/apache/sling-org-apache-sling-hc-core) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Health Check Core
+- [apache/sling-org-apache-sling-hc-webconsole](https://github.com/apache/sling-org-apache-sling-hc-webconsole) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Health Check Webconsole Plugin
+- [apache/sling-org-apache-sling-installer-factory-subsystems](https://github.com/apache/sling-org-apache-sling-installer-factory-subsystems) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Subsystems Installer  (deprecated)
+- [apache/sling-org-apache-sling-jcr-jcr-wrapper](https://github.com/apache/sling-org-apache-sling-jcr-jcr-wrapper) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Wrapper Bundle for the JCR API
+- [apache/sling-org-apache-sling-karaf-configs](https://github.com/apache/sling-org-apache-sling-karaf-configs) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling - Karaf Configs
+- [apache/sling-org-apache-sling-karaf-distribution](https://github.com/apache/sling-org-apache-sling-karaf-distribution) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling - Karaf Distribution
+- [apache/sling-org-apache-sling-karaf-features](https://github.com/apache/sling-org-apache-sling-karaf-features) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling - Karaf Features
+- [apache/sling-org-apache-sling-launchpad-test-bundles](https://github.com/apache/sling-org-apache-sling-launchpad-test-bundles) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Test Bundles (deprecated)
+- [apache/sling-org-apache-sling-launchpad-test-services-war](https://github.com/apache/sling-org-apache-sling-launchpad-test-services-war) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Testing Services WAR
+- [apache/sling-org-apache-sling-launchpad-testing](https://github.com/apache/sling-org-apache-sling-launchpad-testing) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Testing
+- [apache/sling-org-apache-sling-launchpad-testing-war](https://github.com/apache/sling-org-apache-sling-launchpad-testing-war) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpd Testing WAR (deprecated)
+- [apache/sling-org-apache-sling-nosql-launchpad](https://github.com/apache/sling-org-apache-sling-nosql-launchpad) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling NoSQL Launchpad
+- [apache/sling-org-apache-sling-repoinit-it](https://github.com/apache/sling-org-apache-sling-repoinit-it) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling RepoInit Integration Tests(deprecated)
+- [apache/sling-org-apache-sling-scripting-bundle-tracker](https://github.com/apache/sling-org-apache-sling-scripting-bundle-tracker) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting Bundle Tracker (deprecated)
+- [apache/sling-org-apache-sling-scripting-el-api](https://github.com/apache/sling-org-apache-sling-scripting-el-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Wrapper Bundle for Apache Tomcat EL API
+- [apache/sling-org-apache-sling-scripting-jsp-api](https://github.com/apache/sling-org-apache-sling-scripting-jsp-api) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Wrapper Bundle for Apache Tomcat JSP API
+- [apache/sling-org-apache-sling-scripting-jsp-jstl](https://github.com/apache/sling-org-apache-sling-scripting-jsp-jstl) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting JSP Standard Tag Library
+- [apache/sling-org-apache-sling-scripting-sightly-models-provider](https://github.com/apache/sling-org-apache-sling-scripting-sightly-models-provider) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Scripting HTL Sling Models Use Provider (deprecated)
+- [apache/sling-org-apache-sling-servlets-annotations-it](https://github.com/apache/sling-org-apache-sling-servlets-annotations-it) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Servlet Annotations Integration Tests (deprecated)
+- [apache/sling-org-apache-sling-starter-startup](https://github.com/apache/sling-org-apache-sling-starter-startup) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Starter Startup Module (deprecated)
+- [apache/sling-org-apache-sling-startupfilter](https://github.com/apache/sling-org-apache-sling-startupfilter) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Startup Filter
+- [apache/sling-org-apache-sling-startupfilter-disabler](https://github.com/apache/sling-org-apache-sling-startupfilter-disabler) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Startup Filter Disabler
+- [apache/sling-org-apache-sling-testing-logging-mock](https://github.com/apache/sling-org-apache-sling-testing-logging-mock) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Testing Mock Log Configuration
 - [apache/sling-parent](https://github.com/apache/sling-parent) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Parent
 - [apache/solr-sandbox](https://github.com/apache/solr-sandbox) pushed_at:2021-07 star:0.0k fork:0.0k Apache Solr open-source search software plugin modules sandbox
-- [apache/spark-website](https://github.com/apache/spark-website) pushed_at:2021-06 star:0.1k fork:0.2k Apache Spark Website
+- [apache/spark-website](https://github.com/apache/spark-website) pushed_at:2021-07 star:0.1k fork:0.2k Apache Spark Website
 - [apache/struts-master](https://github.com/apache/struts-master) pushed_at:2020-01 star:0.0k fork:0.0k Mirror of Apache Struts
 - [apache/struts-maven](https://github.com/apache/struts-maven) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Struts Maven
 - [apache/tajo-site](https://github.com/apache/tajo-site) pushed_at:2018-03 star:0.0k fork:0.0k Apache Tajo Website
@@ -2125,8 +2125,8 @@
 - [apache/airavata-django-portal](https://github.com/apache/airavata-django-portal) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache Airavata Django Portal
 - [apache/airavata-django-portal-sdk](https://github.com/apache/airavata-django-portal-sdk) pushed_at:2021-07 star:0.0k fork:0.0k Apache Airavata Django Portal SDK
 - [apache/airavata-mft-portal](https://github.com/apache/airavata-mft-portal) pushed_at:2020-08 star:0.0k fork:0.0k Portal for Apache Airavata Managed File Transfer Services
-- [apache/airflow](https://github.com/apache/airflow) pushed_at:2021-07 star:22.5k fork:8.9k Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
-- [apache/airflow-ci-infra](https://github.com/apache/airflow-ci-infra) pushed_at:2021-06 star:0.0k fork:0.0k Automation around CI infrastructure for Apache Airflow
+- [apache/airflow](https://github.com/apache/airflow) pushed_at:2021-07 star:22.6k fork:8.9k Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [apache/airflow-ci-infra](https://github.com/apache/airflow-ci-infra) pushed_at:2021-07 star:0.0k fork:0.0k Automation around CI infrastructure for Apache Airflow
 - [apache/airflow-client-python](https://github.com/apache/airflow-client-python) pushed_at:2021-06 star:0.0k fork:0.0k Apache Airflow - OpenApi Client for Python
 - [apache/allura](https://github.com/apache/allura) pushed_at:2021-07 star:0.1k fork:0.0k Mirror of Apache Allura
 - [apache/arrow-site](https://github.com/apache/arrow-site) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache Arrow site
@@ -2148,7 +2148,7 @@
 - [apache/dubbo-python2](https://github.com/apache/dubbo-python2) pushed_at:2021-02 star:0.0k fork:0.0k Python Dubbo Client
 - [apache/flink-jira-bot](https://github.com/apache/flink-jira-bot) pushed_at:2021-07 star:0.0k fork:0.0k Apache Flink Jira Bot
 - [apache/fluo-muchos](https://github.com/apache/fluo-muchos) pushed_at:2021-06 star:0.0k fork:0.0k Apache Fluo Muchos
-- [apache/guacamole-manual](https://github.com/apache/guacamole-manual) pushed_at:2021-06 star:0.0k fork:0.0k Mirror of Apache Guacamole Manual
+- [apache/guacamole-manual](https://github.com/apache/guacamole-manual) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache Guacamole Manual
 - [apache/ignite-python-thin-client](https://github.com/apache/ignite-python-thin-client) pushed_at:2021-07 star:0.0k fork:0.0k Apache Ignite Python Thin Client
 - [apache/incubator-ariatosca](https://github.com/apache/incubator-ariatosca) pushed_at:2018-07 star:0.0k fork:0.0k Mirror of Apache incubator
 - [apache/incubator-bluemarlin](https://github.com/apache/incubator-bluemarlin) pushed_at:2021-07 star:0.0k fork:0.0k Apache BlueMarlin
@@ -2164,7 +2164,7 @@
 - [apache/incubator-sdap-edge](https://github.com/apache/incubator-sdap-edge) pushed_at:2019-12 star:0.0k fork:0.0k Mirror of Apache sdap (Incubating)
 - [apache/incubator-sdap-ingester](https://github.com/apache/incubator-sdap-ingester) pushed_at:2021-07 star:0.0k fork:0.0k Software for ingesting data into SDAP NEXUS
 - [apache/incubator-sdap-nexus](https://github.com/apache/incubator-sdap-nexus) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache sdap (Incubating)
-- [apache/incubator-sdap-nexusproto](https://github.com/apache/incubator-sdap-nexusproto) pushed_at:2021-05 star:0.0k fork:0.0k Mirror of Google Protobuf definition of a SDAP NEXUS Tile with bindings to both Java and Python.
+- [apache/incubator-sdap-nexusproto](https://github.com/apache/incubator-sdap-nexusproto) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Google Protobuf definition of a SDAP NEXUS Tile with bindings to both Java and Python.
 - [apache/incubator-sdap-ningesterpy](https://github.com/apache/incubator-sdap-ningesterpy) pushed_at:2020-03 star:0.0k fork:0.0k Mirror of Python module exposing an HTTP interface that can be used to transform SDAP NEXUS tiles during ingestion.
 - [apache/incubator-spot](https://github.com/apache/incubator-spot) pushed_at:2020-09 star:0.3k fork:0.2k Mirror of Apache Spot
 - [apache/incubator-warble-node](https://github.com/apache/incubator-warble-node) pushed_at:2018-06 star:0.0k fork:0.0k Apache Warble (incubating) Monitoring Node Package
@@ -2188,7 +2188,7 @@
 - [apache/kibble](https://github.com/apache/kibble) pushed_at:2021-06 star:0.0k fork:0.0k Apache Kibble - a tool to collect, aggregate and visualize data about any software project
 - [apache/kibble-1](https://github.com/apache/kibble-1) pushed_at:2021-03 star:0.1k fork:0.0k Apache Kibble - a tool to collect, aggregate and visualize data about any software project
 - [apache/kibble-scanners](https://github.com/apache/kibble-scanners) pushed_at:2021-06 star:0.0k fork:0.0k Apache Kibble Scanners
-- [apache/libcloud](https://github.com/apache/libcloud) pushed_at:2021-06 star:1.8k fork:0.9k Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API
+- [apache/libcloud](https://github.com/apache/libcloud) pushed_at:2021-07 star:1.8k fork:0.9k Apache Libcloud is a Python library which hides differences between different cloud provider APIs and allows you to manage different cloud resources through a unified and easy to use API
 - [apache/openjpa-site](https://github.com/apache/openjpa-site) pushed_at:2021-07 star:0.0k fork:0.0k Apache Openjpa Website
 - [apache/openwhisk-composer-python](https://github.com/apache/openwhisk-composer-python) pushed_at:2021-03 star:0.0k fork:0.0k Apache OpenWhisk Composer Python provides a high-level programming model in Python for composing serverless functions
 - [apache/openwhisk-deploy-mesos](https://github.com/apache/openwhisk-deploy-mesos) pushed_at:2018-04 star:0.0k fork:0.0k Apache OpenWhisk deployment scripts and configuration files for running under Apache Mesos.
@@ -2204,11 +2204,15 @@
 - [apache/servicecomb-docs](https://github.com/apache/servicecomb-docs) pushed_at:2021-07 star:0.5k fork:0.1k Apache servicecomb user documents
 - [apache/skywalking-python](https://github.com/apache/skywalking-python) pushed_at:2021-07 star:0.1k fork:0.0k The Python agent for Apache SkyWalking
 - [apache/steve](https://github.com/apache/steve) pushed_at:2021-03 star:0.0k fork:0.0k Mirror of Apache STeVe
-- [apache/superset](https://github.com/apache/superset) pushed_at:2021-07 star:39.6k fork:7.6k Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) pushed_at:2021-07 star:39.7k fork:7.7k Apache Superset is a Data Visualization and Data Exploration Platform
 - [apache/tashi](https://github.com/apache/tashi) pushed_at:2018-12 star:0.0k fork:0.0k Mirror of Apache Tashi
 - [apache/trafficserver-qa](https://github.com/apache/trafficserver-qa) pushed_at:2017-11 star:0.0k fork:0.0k Mirror of Apache TrafficServer QA
-- [apache/tvm](https://github.com/apache/tvm) pushed_at:2021-07 star:6.9k fork:2.1k Open deep learning compiler stack for cpu, gpu and specialized accelerators
+- [apache/tvm](https://github.com/apache/tvm) pushed_at:2021-07 star:7.0k fork:2.1k Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [apache/usergrid-python](https://github.com/apache/usergrid-python) pushed_at:2017-08 star:0.0k fork:0.0k Mirror of Apache usergrid Python SDK
+
+## R
+
+- [apache/arrow-cookbook](https://github.com/apache/arrow-cookbook) pushed_at:2021-07 star:0.0k fork:0.0k Apache Arrow Cookbook
 
 ## Ruby
 
@@ -2227,7 +2231,7 @@
 ## Rust
 
 - [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) pushed_at:2021-07 star:0.7k fork:0.1k Apache Arrow DataFusion and Ballista query engines
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) pushed_at:2021-07 star:0.4k fork:0.1k Official Rust implementation of Apache Arrow
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) pushed_at:2021-07 star:0.5k fork:0.1k Official Rust implementation of Apache Arrow
 - [apache/incubator-milagro-crypto-rust](https://github.com/apache/incubator-milagro-crypto-rust) pushed_at:2020-11 star:0.0k fork:0.0k Apache Milagro Crypto Library - Rust Version
 - [apache/incubator-teaclave](https://github.com/apache/incubator-teaclave) pushed_at:2021-07 star:0.5k fork:0.1k Apache Teaclave (incubating) is an open source universal secure computing platform, making computation on privacy-sensitive data safe and simple.
 - [apache/incubator-teaclave-sgx-sdk](https://github.com/apache/incubator-teaclave-sgx-sdk) pushed_at:2021-07 star:0.9k fork:0.2k Rust SGX SDK provides the ability to write Intel SGX applications in Rust Programming Language.
@@ -2241,7 +2245,7 @@
 - [apache/incubator-shenyu-website](https://github.com/apache/incubator-shenyu-website) pushed_at:2021-07 star:0.0k fork:0.0k Apache ShenYu Website
 - [apache/incubator-weex-site](https://github.com/apache/incubator-weex-site) pushed_at:2021-06 star:0.1k fork:0.4k Apache Weex (Incubating)
 - [apache/mnemonic-site](https://github.com/apache/mnemonic-site) pushed_at:2021-06 star:0.0k fork:0.0k Apache Mnemonic Site
-- [apache/netbeans-website](https://github.com/apache/netbeans-website) pushed_at:2021-07 star:0.1k fork:0.1k Apache NetBeans Website
+- [apache/netbeans-website](https://github.com/apache/netbeans-website) pushed_at:2021-07 star:0.2k fork:0.1k Apache NetBeans Website
 - [apache/privacy-website](https://github.com/apache/privacy-website) pushed_at:2021-07 star:0.0k fork:0.0k Web site for Apache Data Privacy
 - [apache/rocketmq-site](https://github.com/apache/rocketmq-site) pushed_at:2021-06 star:0.0k fork:0.1k Mirror of RocketMQ site
 - [apache/rya-site](https://github.com/apache/rya-site) pushed_at:2021-01 star:0.0k fork:0.0k Apache Rya Website
@@ -2253,7 +2257,7 @@
 ## Scala
 
 - [apache/bahir](https://github.com/apache/bahir) pushed_at:2021-01 star:0.3k fork:0.2k Mirror of Apache Bahir
-- [apache/carbondata](https://github.com/apache/carbondata) pushed_at:2021-07 star:1.2k fork:0.6k High performance data store solution
+- [apache/carbondata](https://github.com/apache/carbondata) pushed_at:2021-07 star:1.2k fork:0.7k High performance data store solution
 - [apache/daffodil](https://github.com/apache/daffodil) pushed_at:2021-07 star:0.1k fork:0.1k Apache Daffodil
 - [apache/daffodil-schema.g8](https://github.com/apache/daffodil-schema.g8) pushed_at:2021-02 star:0.0k fork:0.0k Apache Daffodil DFDL Schema Template
 - [apache/esme](https://github.com/apache/esme) pushed_at:2018-12 star:0.0k fork:0.0k Mirror of Apache ESME (incubating)
@@ -2267,7 +2271,7 @@
 - [apache/incubator-s2graph](https://github.com/apache/incubator-s2graph) pushed_at:2020-05 star:0.3k fork:0.1k Mirror of Apache S2Graph (Incubating)
 - [apache/incubator-toree](https://github.com/apache/incubator-toree) pushed_at:2021-06 star:0.7k fork:0.2k Mirror of Apache Toree (Incubating)
 - [apache/logging-log4j-scala](https://github.com/apache/logging-log4j-scala) pushed_at:2020-11 star:0.0k fork:0.0k Mirror of Apache Log4j Scala support
-- [apache/openwhisk](https://github.com/apache/openwhisk) pushed_at:2021-07 star:5.3k fork:1.0k Apache OpenWhisk is an open source serverless cloud platform
+- [apache/openwhisk](https://github.com/apache/openwhisk) pushed_at:2021-07 star:5.4k fork:1.0k Apache OpenWhisk is an open source serverless cloud platform
 - [apache/openwhisk-package-cloudant](https://github.com/apache/openwhisk-package-cloudant) pushed_at:2021-06 star:0.0k fork:0.0k The Apache OpenWhisk cloudant package enables you to work with a Cloudant/CouchDB database
 - [apache/openwhisk-package-deploy](https://github.com/apache/openwhisk-package-deploy) pushed_at:2021-03 star:0.0k fork:0.0k Apache openwhisk
 - [apache/openwhisk-package-template](https://github.com/apache/openwhisk-package-template) pushed_at:2017-08 star:0.0k fork:0.0k [DEPRECATED] - This is a template to be use when creating new packages for OpenWhisk
@@ -2281,7 +2285,7 @@
 - [apache/predictionio-template-similar-product](https://github.com/apache/predictionio-template-similar-product) pushed_at:2019-05 star:0.1k fork:0.1k PredictionIO Similar Product Engine Template (Scala-based parallelized engine)
 - [apache/predictionio-template-skeleton](https://github.com/apache/predictionio-template-skeleton) pushed_at:2019-05 star:0.0k fork:0.0k PredictionIO vanilla engine template (Scala-based parallelized engine) 
 - [apache/predictionio-template-text-classifier](https://github.com/apache/predictionio-template-text-classifier) pushed_at:2019-06 star:0.0k fork:0.0k Text Classification Engine
-- [apache/spark](https://github.com/apache/spark) pushed_at:2021-07 star:30.4k fork:24.2k Apache Spark - A unified analytics engine for large-scale data processing
+- [apache/spark](https://github.com/apache/spark) pushed_at:2021-07 star:30.5k fork:24.3k Apache Spark - A unified analytics engine for large-scale data processing
 - [apache/tvm-vta](https://github.com/apache/tvm-vta) pushed_at:2021-06 star:0.1k fork:0.0k Open, Modular, Deep Learning Accelerator
 
 ## Shell
@@ -2304,7 +2308,7 @@
 - [apache/couchdb-pkg](https://github.com/apache/couchdb-pkg) pushed_at:2021-05 star:0.0k fork:0.0k Apache CouchDB Packaging support files
 - [apache/directory-project](https://github.com/apache/directory-project) pushed_at:2021-05 star:0.0k fork:0.0k Apache Directory Project
 - [apache/fineract-cn-docker-compose](https://github.com/apache/fineract-cn-docker-compose) pushed_at:2019-12 star:0.0k fork:0.0k Apache Fineract CN Docker Compose for Development
-- [apache/flink-docker](https://github.com/apache/flink-docker) pushed_at:2021-06 star:0.1k fork:0.1k Docker packaging for Apache Flink
+- [apache/flink-docker](https://github.com/apache/flink-docker) pushed_at:2021-07 star:0.1k fork:0.1k Docker packaging for Apache Flink
 - [apache/flink-shaded](https://github.com/apache/flink-shaded) pushed_at:2021-07 star:0.1k fork:0.1k Apache Flink shaded artifacts repository
 - [apache/flink-statefun-docker](https://github.com/apache/flink-statefun-docker) pushed_at:2021-04 star:0.0k fork:0.0k Docker packaging for Apache Flink Stateful Functions
 - [apache/fluo-uno](https://github.com/apache/fluo-uno) pushed_at:2021-04 star:0.0k fork:0.0k Apache Fluo Uno
@@ -2318,7 +2322,7 @@
 - [apache/maven-apache-parent](https://github.com/apache/maven-apache-parent) pushed_at:2021-07 star:0.0k fork:0.0k Apache Software Foundation Parent POM
 - [apache/maven-parent](https://github.com/apache/maven-parent) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Project Parent POMs
 - [apache/maven-pom-retired](https://github.com/apache/maven-pom-retired) pushed_at:2019-01 star:0.0k fork:0.0k Mirror of Apache Maven pom. Repo retired, see  https://github.com/apache/maven-parent and  https://github.com/apache/maven-apache-parent
-- [apache/maven-shared-resources](https://github.com/apache/maven-shared-resources) pushed_at:2021-06 star:0.0k fork:0.0k Apache Maven Shared Resources
+- [apache/maven-shared-resources](https://github.com/apache/maven-shared-resources) pushed_at:2021-07 star:0.0k fork:0.0k Apache Maven Shared Resources
 - [apache/metron-bro-plugin-kafka](https://github.com/apache/metron-bro-plugin-kafka) pushed_at:2020-10 star:0.1k fork:0.0k Apache Metron 
 - [apache/openwhisk-deploy-kube](https://github.com/apache/openwhisk-deploy-kube) pushed_at:2021-07 star:0.2k fork:0.2k The Apache OpenWhisk Kubernetes Deployment repository supports deploying the Apache OpenWhisk system on Kubernetes and OpenShift clusters.
 - [apache/openwhisk-deploy-openshift](https://github.com/apache/openwhisk-deploy-openshift) pushed_at:2019-05 star:0.0k fork:0.0k [DEPRECATED] - This project can be used to deploy Apache OpenWhisk to the OpenShift platform
@@ -2326,14 +2330,14 @@
 - [apache/openwhisk-release](https://github.com/apache/openwhisk-release) pushed_at:2021-07 star:0.0k fork:0.0k Tools and documentation for Apache OpenWhisk Release Managers
 - [apache/openwhisk-runtime-deno](https://github.com/apache/openwhisk-runtime-deno) pushed_at:2021-03 star:0.0k fork:0.0k Apache OpenWhisk Runtime Deno supports Apache OpenWhisk functions written in Deno
 - [apache/ozone-docker](https://github.com/apache/ozone-docker) pushed_at:2021-06 star:0.0k fork:0.0k Repository for building Apache Hadoop Ozone Docker images
-- [apache/ozone-docker-testkrb5](https://github.com/apache/ozone-docker-testkrb5) pushed_at:2021-05 star:0.0k fork:0.0k Container image to provide MIT krb5 server for developing and testing Apache Ozone
+- [apache/ozone-docker-testkrb5](https://github.com/apache/ozone-docker-testkrb5) pushed_at:2021-07 star:0.0k fork:0.0k Container image to provide MIT krb5 server for developing and testing Apache Ozone
 - [apache/pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart) pushed_at:2021-07 star:0.1k fork:0.1k Official Apache Pulsar Helm Chart
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) pushed_at:2021-06 star:0.0k fork:0.0k Third-party dependencies for Apache Ratis
 - [apache/rocketmq-docker](https://github.com/apache/rocketmq-docker) pushed_at:2021-05 star:0.3k fork:0.1k Apache RocketMQ Docker
 - [apache/skywalking-goapi](https://github.com/apache/skywalking-goapi) pushed_at:2021-07 star:0.0k fork:0.0k Apache SkyWalking API in Golang.
-- [apache/sling-launchpad-debian](https://github.com/apache/sling-launchpad-debian) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling Launchpad Debian Package Builder
-- [apache/sling-tooling-release](https://github.com/apache/sling-tooling-release) pushed_at:2021-05 star:0.0k fork:0.0k Apache Sling Release Tooling
-- [apache/sling-tooling-scm](https://github.com/apache/sling-tooling-scm) pushed_at:2020-08 star:0.0k fork:0.0k Apache Sling SCM Tooling
+- [apache/sling-launchpad-debian](https://github.com/apache/sling-launchpad-debian) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Debian Package Builder
+- [apache/sling-tooling-release](https://github.com/apache/sling-tooling-release) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Release Tooling
+- [apache/sling-tooling-scm](https://github.com/apache/sling-tooling-scm) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling SCM Tooling
 - [apache/tika-docker](https://github.com/apache/tika-docker) pushed_at:2021-07 star:0.0k fork:0.0k Convenience Docker images for Apache Tika Server
 - [apache/toolchain](https://github.com/apache/toolchain) pushed_at:2016-02 star:0.0k fork:0.0k Ansible
 - [apache/trafficserver-ci](https://github.com/apache/trafficserver-ci) pushed_at:2021-07 star:0.0k fork:0.0k Apache Trafficserver CI
@@ -2368,7 +2372,7 @@
 - [apache/airflow-label-when-approved](https://github.com/apache/airflow-label-when-approved) pushed_at:2020-12 star:0.0k fork:0.0k Fork of TobKedlabel-when-approved-action action 
 - [apache/couchdb-esprima](https://github.com/apache/couchdb-esprima) pushed_at:2020-09 star:0.0k fork:0.0k Mirror for Apache CouchDB
 - [apache/dubbo-js](https://github.com/apache/dubbo-js) pushed_at:2021-07 star:0.6k fork:0.1k Node.js native Apache Dubbo client on hessian
-- [apache/echarts](https://github.com/apache/echarts) pushed_at:2021-07 star:47.2k fork:17.7k Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [apache/echarts](https://github.com/apache/echarts) pushed_at:2021-07 star:47.3k fork:17.8k Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [apache/fineract-cn-fims-web-app](https://github.com/apache/fineract-cn-fims-web-app) pushed_at:2020-02 star:0.0k fork:0.1k Apache Fineract AngularJS web application
 - [apache/fineract-cn-group-finance](https://github.com/apache/fineract-cn-group-finance) pushed_at:2018-10 star:0.0k fork:0.1k Fineract CN UI that supports group lending
 - [apache/ignite-nodejs-thin-client](https://github.com/apache/ignite-nodejs-thin-client) pushed_at:2021-04 star:0.0k fork:0.0k Apache Ignite Node.js Thin Client
