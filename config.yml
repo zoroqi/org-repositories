@@ -139,4 +139,7 @@
 - name: JetBrains
   userType: org
   file: JetBrains.md
+- name: hashicorp
+  userType: org
+  file: hashicorp.md
 

@@ -47,3 +47,4 @@
 - [opengenus](./opengenus.md)
 - [baidu](./baidu.md)
 - [JetBrains](./JetBrains.md)
+- [hashicorp](./hashicorp.md)
