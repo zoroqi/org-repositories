@@ -40,11 +40,11 @@
 - [twitter/fatcache](https://github.com/twitter/fatcache) pushed_at:2021-04 star:1.3k fork:0.2k Memcache on SSD
 - [twitter/ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) pushed_at:2020-10 star:1.8k fork:0.1k Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
-- [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2021-06 star:0.7k fork:0.1k Pelikan is Twitter's unified cache backend
+- [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2021-07 star:0.7k fork:0.1k Pelikan is Twitter's unified cache backend
 - [twitter/torch-ipc](https://github.com/twitter/torch-ipc) pushed_at:2017-06 star:0.1k fork:0.0k A set of primitives for parallel computation in Torch
 - [twitter/torch-thrift](https://github.com/twitter/torch-thrift) pushed_at:2016-03 star:0.0k fork:0.0k A Thrift codec for Torch
 - [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2019-08 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-06 star:10.7k fork:1.9k A fast, light-weight proxy for memcached and redis
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-07 star:10.8k fork:1.9k A fast, light-weight proxy for memcached and redis
 
 ## C#
 
@@ -65,14 +65,14 @@
 
 - [twitter/go-bindata](https://github.com/twitter/go-bindata) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [twitter/groupcache](https://github.com/twitter/groupcache) pushed_at:2020-12 star:0.0k fork:0.0k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-- [twitter/scoot](https://github.com/twitter/scoot) pushed_at:2021-06 star:0.2k fork:0.0k Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
+- [twitter/scoot](https://github.com/twitter/scoot) pushed_at:2021-07 star:0.2k fork:0.0k Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
 
 ## HTML
 
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) pushed_at:2019-06 star:2.2k fork:0.6k Twitter's Effective Scala Guide
-- [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-05 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-06 star:12.9k fork:1.5k Emoji for everyone. https://twemoji.twitter.com/
-- [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2021-06 star:2.5k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
+- [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-07 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
+- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-07 star:13.0k fork:1.5k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2021-07 star:2.5k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 
 ## Java
 
@@ -95,7 +95,7 @@
 
 - [twitter/cli-guide.js](https://github.com/twitter/cli-guide.js) pushed_at:2020-09 star:0.0k fork:0.0k CLI Guide JQuery Plugin
 - [twitter/d3kit](https://github.com/twitter/d3kit) pushed_at:2021-05 star:0.4k fork:0.0k D3Kit is a set tools to speed D3 related project development
-- [twitter/hogan.js](https://github.com/twitter/hogan.js) pushed_at:2020-09 star:5.1k fork:0.4k A compiler for the Mustache templating language
+- [twitter/hogan.js](https://github.com/twitter/hogan.js) pushed_at:2020-09 star:5.1k fork:0.5k A compiler for the Mustache templating language
 - [twitter/labella.js](https://github.com/twitter/labella.js) pushed_at:2021-05 star:3.8k fork:0.1k Placing labels on a timeline without overlap.
 - [twitter/SentenTree](https://github.com/twitter/SentenTree) pushed_at:2021-05 star:0.2k fork:0.0k A novel text visualization technique
 - [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) pushed_at:2021-03 star:0.3k fork:0.0k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
@@ -123,9 +123,9 @@
 - [twitter/analytics-infra-governance](https://github.com/twitter/analytics-infra-governance) pushed_at:2017-10 star:0.0k fork:0.0k Description of the process for how to commit, review, and release code to the Scalding OSS family (Scalding, Summingbird, Algebird, Bijection, Storehaus, etc)
 - [twitter/code-of-conduct](https://github.com/twitter/code-of-conduct) pushed_at:2018-03 star:0.1k fork:0.1k Open Source Code of Conduct at Twitter
 - [twitter/curation-style-guide](https://github.com/twitter/curation-style-guide) pushed_at:2019-06 star:0.0k fork:0.0k Document Repository for Twitter's Curation Style Guide
-- [twitter/gpl-commitment](https://github.com/twitter/gpl-commitment) pushed_at:2018-10 star:0.0k fork:0.0k Twitter's GPL Cooperation Commitment
+- [twitter/gpl-commitment](https://github.com/twitter/gpl-commitment) pushed_at:2021-07 star:0.0k fork:0.0k Twitter's GPL Cooperation Commitment
 - [twitter/innovators-patent-agreement](https://github.com/twitter/innovators-patent-agreement) pushed_at:2016-06 star:0.9k fork:0.1k Innovators Patent Agreement (IPA)
-- [twitter/metrics](https://github.com/twitter/metrics) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [twitter/metrics](https://github.com/twitter/metrics) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [twitter/ossdecks](https://github.com/twitter/ossdecks) pushed_at:2019-04 star:0.0k fork:0.0k Repository for Twitter Open Source Decks
 - [twitter/second-control-probability-distributions](https://github.com/twitter/second-control-probability-distributions) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [twitter/sekhmet](https://github.com/twitter/sekhmet) pushed_at:2018-06 star:0.0k fork:0.0k foundational tools and building blocks for gaining insights and diagnosing system health in real-time
@@ -147,34 +147,34 @@
 
 ## R
 
-- [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) pushed_at:2019-08 star:3.4k fork:0.7k Anomaly Detection with R
+- [twitter/AnomalyDetection](https://github.com/twitter/AnomalyDetection) pushed_at:2019-08 star:3.4k fork:0.8k Anomaly Detection with R
 
 ## Ruby
 
 - [twitter/activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) pushed_at:2016-01 star:1.3k fork:0.1k An Active Record Reputation System for Rails
 - [twitter/thrift_client](https://github.com/twitter/thrift_client) pushed_at:2019-06 star:0.2k fork:0.1k A Thrift client wrapper that encapsulates some common failover behavior
-- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) pushed_at:2021-03 star:0.6k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
+- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) pushed_at:2021-07 star:0.6k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 - [twitter/twurl](https://github.com/twitter/twurl) pushed_at:2021-04 star:1.6k fork:0.3k OAuth-enabled curl for the Twitter API
 
 ## Rust
 
-- [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2021-06 star:1.0k fork:0.1k Systems performance telemetry
-- [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2021-06 star:0.4k fork:0.1k A tool for benchmarking RPC services
+- [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2021-07 star:1.0k fork:0.1k Systems performance telemetry
+- [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2021-07 star:0.4k fork:0.1k A tool for benchmarking RPC services
 - [twitter/rustcommon](https://github.com/twitter/rustcommon) pushed_at:2021-06 star:0.2k fork:0.0k Common Twitter Rust lib
 
 ## SCSS
 
-- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-06 star:1.6k fork:0.6k A listing of open source efforts at Twitter on GitHub
+- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-07 star:1.7k fork:0.6k A listing of open source efforts at Twitter on GitHub
 
 ## Scala
 
-- [twitter/algebird](https://github.com/twitter/algebird) pushed_at:2021-06 star:2.1k fork:0.3k Abstract Algebra for Scala
+- [twitter/algebird](https://github.com/twitter/algebird) pushed_at:2021-07 star:2.1k fork:0.3k Abstract Algebra for Scala
 - [twitter/bazel-multiversion](https://github.com/twitter/bazel-multiversion) pushed_at:2021-06 star:0.0k fork:0.0k Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier. 
-- [twitter/bijection](https://github.com/twitter/bijection) pushed_at:2021-06 star:0.6k fork:0.1k Reversible conversions between types
+- [twitter/bijection](https://github.com/twitter/bijection) pushed_at:2021-07 star:0.6k fork:0.1k Reversible conversions between types
 - [twitter/cassovary](https://github.com/twitter/cassovary) pushed_at:2019-06 star:1.0k fork:0.1k Cassovary is a simple big graph processing library for the JVM
-- [twitter/chill](https://github.com/twitter/chill) pushed_at:2021-06 star:0.6k fork:0.1k Scala extensions for the Kryo serialization library
-- [twitter/finagle](https://github.com/twitter/finagle) pushed_at:2021-06 star:8.0k fork:1.4k A fault tolerant, protocol-agnostic RPC system
-- [twitter/finatra](https://github.com/twitter/finatra) pushed_at:2021-06 star:2.1k fork:0.4k Fast, testable, Scala services built on TwitterServer and Finagle
+- [twitter/chill](https://github.com/twitter/chill) pushed_at:2021-07 star:0.6k fork:0.1k Scala extensions for the Kryo serialization library
+- [twitter/finagle](https://github.com/twitter/finagle) pushed_at:2021-07 star:8.0k fork:1.4k A fault tolerant, protocol-agnostic RPC system
+- [twitter/finatra](https://github.com/twitter/finatra) pushed_at:2021-07 star:2.1k fork:0.4k Fast, testable, Scala services built on TwitterServer and Finagle
 - [twitter/finatra-activator-http-seed](https://github.com/twitter/finatra-activator-http-seed) pushed_at:2017-10 star:0.0k fork:0.0k Typesafe activator template for constructing a Finatra HTTP server application:
 - [twitter/finatra-activator-thrift-seed](https://github.com/twitter/finatra-activator-thrift-seed) pushed_at:2017-10 star:0.0k fork:0.0k Typesafe activator template for constructing a Finatra Thrift server application: https://twitter.github.io/finatra/user-guide/ —
 - [twitter/finatra-misc](https://github.com/twitter/finatra-misc) pushed_at:2019-04 star:0.0k fork:0.0k Miscellaneous  libraries and utils used by Finatra
@@ -183,25 +183,25 @@
 - [twitter/rsc](https://github.com/twitter/rsc) pushed_at:2019-11 star:1.2k fork:0.0k Experimental Scala compiler focused on compilation speed
 - [twitter/scala-json](https://github.com/twitter/scala-json) pushed_at:2019-12 star:0.0k fork:0.0k JSON in Scala (deprecated)
 - [twitter/scala_school2](https://github.com/twitter/scala_school2) pushed_at:2019-06 star:0.3k fork:0.1k Scala School 2
-- [twitter/scalding](https://github.com/twitter/scalding) pushed_at:2021-04 star:3.3k fork:0.7k A Scala API for Cascading
-- [twitter/scrooge](https://github.com/twitter/scrooge) pushed_at:2021-06 star:0.7k fork:0.2k A Thrift parser/generator
+- [twitter/scalding](https://github.com/twitter/scalding) pushed_at:2021-07 star:3.3k fork:0.7k A Scala API for Cascading
+- [twitter/scrooge](https://github.com/twitter/scrooge) pushed_at:2021-07 star:0.7k fork:0.2k A Thrift parser/generator
 - [twitter/storehaus](https://github.com/twitter/storehaus) pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) pushed_at:2020-11 star:2.1k fork:0.3k Streaming MapReduce with Scalding and Storm
 - [twitter/tormenta](https://github.com/twitter/tormenta) pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) pushed_at:2021-05 star:0.1k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) pushed_at:2021-05 star:0.8k fork:0.2k Korean tokenizer
-- [twitter/twitter-server](https://github.com/twitter/twitter-server) pushed_at:2021-06 star:1.2k fork:0.2k Twitter-Server defines a template from which services at Twitter are built
-- [twitter/util](https://github.com/twitter/util) pushed_at:2021-06 star:2.5k fork:0.5k Wonderful reusable code from Twitter
+- [twitter/twitter-server](https://github.com/twitter/twitter-server) pushed_at:2021-07 star:1.2k fork:0.2k Twitter-Server defines a template from which services at Twitter are built
+- [twitter/util](https://github.com/twitter/util) pushed_at:2021-07 star:2.5k fork:0.5k Wonderful reusable code from Twitter
 
 ## Shell
 
-- [twitter/cache-trace](https://github.com/twitter/cache-trace) pushed_at:2020-11 star:0.1k fork:0.0k 
+- [twitter/cache-trace](https://github.com/twitter/cache-trace) pushed_at:2021-07 star:0.1k fork:0.0k 
 - [twitter/dodo](https://github.com/twitter/dodo) pushed_at:2021-06 star:0.0k fork:0.0k The Twitter OSS Project Builder
-- [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) pushed_at:2021-03 star:0.5k fork:0.3k Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
+- [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) pushed_at:2021-07 star:0.5k fork:0.3k Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
 
 ## Swift
 
-- [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) pushed_at:2021-06 star:2.5k fork:0.1k A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
+- [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) pushed_at:2021-07 star:2.5k fork:0.1k A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
 
 ## TypeScript
 
@@ -210,7 +210,7 @@
 
 ## Vue
 
-- [twitter/check-my-repo](https://github.com/twitter/check-my-repo) pushed_at:2021-05 star:0.0k fork:0.0k Automatically check repositories health and quality and build reports that help us understand the current state of Sauce Labs repositories
+- [twitter/check-my-repo](https://github.com/twitter/check-my-repo) pushed_at:2021-07 star:0.0k fork:0.0k Automatically check repositories health and quality and build reports that help us understand the current state of Sauce Labs repositories
 
 
 ## License

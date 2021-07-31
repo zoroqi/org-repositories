@@ -136,10 +136,16 @@
 - name: baidu 
   userType: org
   file: baidu.md
+- name: WICG
+  userType: WICG
+  file: WICG.md
 - name: JetBrains
   userType: org
   file: JetBrains.md
 - name: hashicorp
   userType: org
   file: hashicorp.md
+- name: Azure
+  userType: org
+  file: Azure.md
 

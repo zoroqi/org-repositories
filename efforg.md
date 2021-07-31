@@ -60,7 +60,7 @@
 ## HTML
 
 - [EFForg/hugo-book](https://github.com/EFForg/hugo-book) pushed_at:2020-08 star:0.0k fork:0.0k Hugo documentation theme as simple as plain book
-- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) pushed_at:2021-02 star:0.0k fork:0.0k Test fixtures for Privacy Badger
+- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) pushed_at:2021-07 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/privacybadger-test-fixtures-alt](https://github.com/EFForg/privacybadger-test-fixtures-alt) pushed_at:2020-05 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/sas](https://github.com/EFForg/sas) pushed_at:2017-05 star:0.0k fork:0.0k Stand Against Spying
 - [EFForg/stopwatchingus](https://github.com/EFForg/stopwatchingus) pushed_at:2016-02 star:0.0k fork:0.0k StopWatching.us Site
@@ -79,17 +79,17 @@
 - [EFForg/cyberspying](https://github.com/EFForg/cyberspying) pushed_at:2015-12 star:0.0k fork:0.0k cyberspying.eff.org twitter tool
 - [EFForg/fight215](https://github.com/EFForg/fight215) pushed_at:2015-06 star:0.0k fork:0.0k 
 - [EFForg/find-aa-domains](https://github.com/EFForg/find-aa-domains) pushed_at:2019-04 star:0.0k fork:0.0k Create a script to find domains in the PB pre-block list which are mentioned in the Acceptable Ads list as well
-- [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) pushed_at:2021-06 star:3.2k fork:1.2k A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
+- [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) pushed_at:2021-07 star:3.2k fork:1.2k A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
 - [EFForg/https-everywhere-labeller](https://github.com/EFForg/https-everywhere-labeller) pushed_at:2020-06 star:0.0k fork:0.0k Alexa Labeller for HTTPS Everywhere Repo
 - [EFForg/httpse-ruleset-tests](https://github.com/EFForg/httpse-ruleset-tests) pushed_at:2013-09 star:0.0k fork:0.0k 
 - [EFForg/ngw-website](https://github.com/EFForg/ngw-website) pushed_at:2017-01 star:0.0k fork:0.0k 
 - [EFForg/node-wethepeople](https://github.com/EFForg/node-wethepeople) pushed_at:2015-09 star:0.0k fork:0.0k Node wrapper for the We the People API
 - [EFForg/OpenWireless](https://github.com/EFForg/OpenWireless) pushed_at:2016-12 star:0.7k fork:0.1k The official home of the EFF OpenWireless Project
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) pushed_at:2021-06 star:2.2k fork:0.3k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) pushed_at:2021-07 star:2.2k fork:0.4k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [EFForg/privacybadgerfirefox-legacy](https://github.com/EFForg/privacybadgerfirefox-legacy) pushed_at:2016-12 star:0.4k fork:0.1k LEGACY Privacy Badger for Firefox SEE README
 - [EFForg/psi-tumblr-crawler](https://github.com/EFForg/psi-tumblr-crawler) pushed_at:2015-08 star:0.0k fork:0.0k 
 - [EFForg/pushserver](https://github.com/EFForg/pushserver) pushed_at:2018-03 star:0.0k fork:0.0k A server for sending push notifications to mobile apps
-- [EFForg/sec](https://github.com/EFForg/sec) pushed_at:2021-06 star:0.0k fork:0.0k Security Education Companion
+- [EFForg/sec](https://github.com/EFForg/sec) pushed_at:2021-07 star:0.0k fork:0.0k Security Education Companion
 - [EFForg/social-buttons-server](https://github.com/EFForg/social-buttons-server) pushed_at:2014-04 star:0.0k fork:0.0k Host your own social counters servers while pulling live data from Facebook, Twitter and Google Plus
 - [EFForg/spot_the_surveillance](https://github.com/EFForg/spot_the_surveillance) pushed_at:2020-12 star:0.0k fork:0.0k Spot the Surveillance is an open-source educational VR tool to help people identify street-level surveillance in their community. As each surveillance device is identified, the user is informed on how the device is used via text and narration. The experience is created with accessibility in mind, so is entirely gaze-based for people with mobility challenges. Audio is also used to assist low-vision users.
 - [EFForg/wetheusers-backend](https://github.com/EFForg/wetheusers-backend) pushed_at:2015-09 star:0.0k fork:0.0k Backend services for the We The Users campaign
@@ -121,7 +121,7 @@
 
 ## Python
 
-- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) pushed_at:2021-06 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
+- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) pushed_at:2021-07 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
 - [EFForg/call-congress](https://github.com/EFForg/call-congress) pushed_at:2021-04 star:0.0k fork:0.0k a simple server that connects calls between citizens and their congress person using the Twilio API
 - [EFForg/contact-congress](https://github.com/EFForg/contact-congress) pushed_at:2014-06 star:0.0k fork:0.0k Sending electronic written messages to members of Congress by reverse engineering their contact forms.
 - [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) pushed_at:2021-04 star:0.4k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
@@ -137,7 +137,7 @@
 
 ## Ruby
 
-- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) pushed_at:2021-06 star:0.3k fork:0.1k The EFF Action Center Platform
+- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) pushed_at:2021-07 star:0.3k fork:0.1k The EFF Action Center Platform
 - [EFForg/active_preview](https://github.com/EFForg/active_preview) pushed_at:2018-11 star:0.0k fork:0.0k Rails plugin to make previews of active record objects
 - [EFForg/aws_one_click_staging](https://github.com/EFForg/aws_one_click_staging) pushed_at:2018-02 star:0.0k fork:0.0k 
 - [EFForg/check-your-reps](https://github.com/EFForg/check-your-reps) pushed_at:2018-11 star:0.0k fork:0.0k 
@@ -145,17 +145,17 @@
 - [EFForg/congress_forms_api](https://github.com/EFForg/congress_forms_api) pushed_at:2020-04 star:0.0k fork:0.0k 
 - [EFForg/dear_fcc](https://github.com/EFForg/dear_fcc) pushed_at:2018-08 star:0.0k fork:0.0k Dear FCC
 - [EFForg/eff_diceware](https://github.com/EFForg/eff_diceware) pushed_at:2018-04 star:0.0k fork:0.0k A ruby gem for creating secure passphrases using EFF's long wordlist.
-- [EFForg/eff_fab](https://github.com/EFForg/eff_fab) pushed_at:2021-05 star:0.0k fork:0.0k 
+- [EFForg/eff_fab](https://github.com/EFForg/eff_fab) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [EFForg/eff_matomo](https://github.com/EFForg/eff_matomo) pushed_at:2019-06 star:0.0k fork:0.0k Matomo API in Ruby
-- [EFForg/onlinecensorship](https://github.com/EFForg/onlinecensorship) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [EFForg/onlinecensorship](https://github.com/EFForg/onlinecensorship) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [EFForg/rails_response_headers](https://github.com/EFForg/rails_response_headers) pushed_at:2021-02 star:0.0k fork:0.0k Configure ActionController response headers with YAML.
 - [EFForg/ROSCO](https://github.com/EFForg/ROSCO) pushed_at:2019-10 star:0.0k fork:0.0k ROSCO is an interactive, ruby-based CLI interface for querying against an instance of Snipe-IT
-- [EFForg/ruby-civicrm](https://github.com/EFForg/ruby-civicrm) pushed_at:2020-02 star:0.0k fork:0.0k Ruby client for CiviCRM REST interface
+- [EFForg/ruby-civicrm](https://github.com/EFForg/ruby-civicrm) pushed_at:2021-07 star:0.0k fork:0.0k Ruby client for CiviCRM REST interface
 
 ## Rust
 
-- [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) pushed_at:2021-06 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
-- [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) pushed_at:2021-06 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
+- [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) pushed_at:2021-07 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
+- [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) pushed_at:2021-07 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 - [EFForg/https-everywhere-rust-test-implementation](https://github.com/EFForg/https-everywhere-rust-test-implementation) pushed_at:2020-04 star:0.0k fork:0.0k 
 

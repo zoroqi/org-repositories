@@ -49,21 +49,21 @@
 
 - [tuna/freedns-go](https://github.com/tuna/freedns-go) pushed_at:2021-03 star:0.1k fork:0.0k Optimized DNS Server for Chinese users.
 - [tuna/mirrorhub](https://github.com/tuna/mirrorhub) pushed_at:2016-09 star:0.0k fork:0.0k Redirects the user to a nearby mirror site.
-- [tuna/tunaccount](https://github.com/tuna/tunaccount) pushed_at:2021-05 star:0.0k fork:0.0k 
-- [tuna/tunasync](https://github.com/tuna/tunasync) pushed_at:2021-06 star:1.0k fork:0.2k Mirror job management tool. 
+- [tuna/tunaccount](https://github.com/tuna/tunaccount) pushed_at:2021-07 star:0.0k fork:0.0k 
+- [tuna/tunasync](https://github.com/tuna/tunasync) pushed_at:2021-07 star:1.0k fork:0.2k Mirror job management tool. 
 
 ## HTML
 
-- [tuna/mirror-web](https://github.com/tuna/mirror-web) pushed_at:2021-06 star:0.6k fork:0.2k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
+- [tuna/mirror-web](https://github.com/tuna/mirror-web) pushed_at:2021-07 star:0.6k fork:0.2k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
 - [tuna/mirrorcon](https://github.com/tuna/mirrorcon) pushed_at:2017-09 star:0.0k fork:0.0k Website of MirrorCon 2017
 - [tuna/registr-lite](https://github.com/tuna/registr-lite) pushed_at:2020-09 star:0.0k fork:0.0k A lightweight registr with only a bare RESTful API.
-- [tuna/tuna.moe](https://github.com/tuna/tuna.moe) pushed_at:2021-06 star:0.1k fork:0.0k 
+- [tuna/tuna.moe](https://github.com/tuna/tuna.moe) pushed_at:2021-07 star:0.1k fork:0.0k 
 
 ## JavaScript
 
 - [tuna/fakeTunet](https://github.com/tuna/fakeTunet) pushed_at:2016-05 star:0.0k fork:0.0k a fake net.tsinghua.edu.cn
 - [tuna/Logbot](https://github.com/tuna/Logbot) pushed_at:2014-11 star:0.0k fork:0.0k Simple IRC logger with realtime web-based viewer
-- [tuna/mirrorz](https://github.com/tuna/mirrorz) pushed_at:2021-06 star:0.1k fork:0.0k Your next MirrorS is not MirrorS, nor MirrorSes, it's MirrorZ.
+- [tuna/mirrorz](https://github.com/tuna/mirrorz) pushed_at:2021-07 star:0.1k fork:0.0k Your next MirrorS is not MirrorS, nor MirrorSes, it's MirrorZ.
 - [tuna/registr](https://github.com/tuna/registr) pushed_at:2020-09 star:0.0k fork:0.0k 
 - [tuna/tunasay](https://github.com/tuna/tunasay) pushed_at:2017-06 star:0.0k fork:0.0k tunasay is a configurable talking tuna
 
@@ -71,7 +71,7 @@
 
 - [tuna/artwork](https://github.com/tuna/artwork) pushed_at:2021-06 star:0.0k fork:0.0k tuna artwork
 - [tuna/Books](https://github.com/tuna/Books) pushed_at:2020-11 star:0.0k fork:0.0k Tracking Books of TUNA Library
-- [tuna/Cash](https://github.com/tuna/Cash) pushed_at:2021-04 star:0.0k fork:0.0k 
+- [tuna/Cash](https://github.com/tuna/Cash) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [tuna/collection](https://github.com/tuna/collection) pushed_at:2015-12 star:0.2k fork:0.0k idea collections from TUNA
 - [tuna/dataset-issues](https://github.com/tuna/dataset-issues) pushed_at:2018-04 star:0.0k fork:0.0k Issues about academic dataset mirrors
 - [tuna/isofusion](https://github.com/tuna/isofusion) pushed_at:2016-05 star:0.0k fork:0.0k scan and create iso filelist from mirrors
@@ -87,7 +87,7 @@
 ## Python
 
 - [tuna/bandersnatch](https://github.com/tuna/bandersnatch) pushed_at:2020-02 star:0.0k fork:0.0k A PyPI mirror client according to PEP 381 http://www.python.org/dev/peps/pep-0381/
-- [tuna/blogroll](https://github.com/tuna/blogroll) pushed_at:2021-05 star:0.6k fork:0.1k 世界一流兼容并包TUNA协会收集的周围同学们的Blog
+- [tuna/blogroll](https://github.com/tuna/blogroll) pushed_at:2021-07 star:0.6k fork:0.1k 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [tuna/django-helpdesk](https://github.com/tuna/django-helpdesk) pushed_at:2014-12 star:0.0k fork:0.0k A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [tuna/feed_tuna](https://github.com/tuna/feed_tuna) pushed_at:2017-09 star:0.0k fork:0.0k Telegram shop/payment bot 金枪鱼喂食计划
 - [tuna/fishroom](https://github.com/tuna/fishroom) pushed_at:2021-02 star:0.3k fork:0.1k Message forwarding for multiple IM protocols
@@ -95,13 +95,13 @@
 - [tuna/gdanmaku-server](https://github.com/tuna/gdanmaku-server) pushed_at:2021-03 star:0.1k fork:0.0k Web-based danmaku server
 - [tuna/ldaptuna](https://github.com/tuna/ldaptuna) pushed_at:2014-10 star:0.0k fork:0.0k 
 - [tuna/loglyzer](https://github.com/tuna/loglyzer) pushed_at:2014-12 star:0.0k fork:0.0k log analyzer for tuna mirrors
-- [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) pushed_at:2020-12 star:0.4k fork:0.1k Keep calm and use TUNA mirrors.
+- [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) pushed_at:2021-07 star:0.4k fork:0.1k Keep calm and use TUNA mirrors.
 - [tuna/pdns-ldap](https://github.com/tuna/pdns-ldap) pushed_at:2016-04 star:0.0k fork:0.0k 
 - [tuna/playbooks](https://github.com/tuna/playbooks) pushed_at:2016-10 star:0.0k fork:0.0k 
 - [tuna/scripts](https://github.com/tuna/scripts) pushed_at:2018-01 star:0.0k fork:0.0k 
 - [tuna/telegram2irc](https://github.com/tuna/telegram2irc) pushed_at:2015-06 star:0.0k fork:0.0k A bot connect IRC and Telegram. Multiple binding is supported.
 - [tuna/thuroutes](https://github.com/tuna/thuroutes) pushed_at:2016-05 star:0.0k fork:0.0k Forked from https://chnroutes.googlecode.com/
-- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) pushed_at:2021-06 star:0.3k fork:0.1k Custom scripts for mirror jobs
+- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) pushed_at:2021-07 star:0.3k fork:0.1k Custom scripts for mirror jobs
 
 ## Ruby
 
@@ -114,7 +114,7 @@
 ## TeX
 
 - [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) pushed_at:2021-04 star:0.3k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
-- [tuna/thuthesis](https://github.com/tuna/thuthesis) pushed_at:2021-06 star:3.1k fork:0.9k LaTeX Thesis Template for Tsinghua University
+- [tuna/thuthesis](https://github.com/tuna/thuthesis) pushed_at:2021-07 star:3.1k fork:0.9k LaTeX Thesis Template for Tsinghua University
 
 ## TypeScript
 

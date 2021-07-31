@@ -21,7 +21,7 @@
 
 ## C++
 
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) pushed_at:2021-06 star:12.6k fork:3.2k World's largest Contributor driven code dataset | Join our Internship and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) pushed_at:2021-06 star:12.7k fork:3.2k World's largest Contributor driven code dataset | Join our Internship and enjoy 🌱 | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) pushed_at:2020-10 star:0.6k fork:0.1k Stay happy while offline | World's first offline search engine. 
 
 ## CSS
