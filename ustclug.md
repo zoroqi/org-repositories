@@ -27,7 +27,7 @@
 ## Dockerfile
 
 - [ustclug/docker-openresty](https://github.com/ustclug/docker-openresty) pushed_at:2021-06 star:0.0k fork:0.0k Docker tooling for OpenResty
-- [ustclug/documentations](https://github.com/ustclug/documentations) pushed_at:2021-07 star:0.0k fork:0.0k LUG @ USTC General Documentation
+- [ustclug/documentations](https://github.com/ustclug/documentations) pushed_at:2021-08 star:0.0k fork:0.0k LUG @ USTC General Documentation
 
 ## Go
 
@@ -72,8 +72,8 @@
 - [ustclug/hackergame](https://github.com/ustclug/hackergame) pushed_at:2021-06 star:0.0k fork:0.0k Hackergame platform for 2018 and beyond
 - [ustclug/hackergame2017](https://github.com/ustclug/hackergame2017) pushed_at:2017-10 star:0.0k fork:0.0k 
 - [ustclug/library](https://github.com/ustclug/library) pushed_at:2017-11 star:0.0k fork:0.0k LUG Library
-- [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) pushed_at:2021-07 star:0.0k fork:0.0k LUG VPN 申请系统
-- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2021-07 star:0.3k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
+- [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) pushed_at:2021-08 star:0.0k fork:0.0k LUG VPN 申请系统
+- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2021-08 star:0.3k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
 - [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) pushed_at:2021-07 star:0.0k fork:0.0k Docker images used by ustcmirror :rocket:
 - [ustclug/website-static](https://github.com/ustclug/website-static) pushed_at:2021-06 star:0.0k fork:0.0k Hosting static content (image/assets) for LUG website
 

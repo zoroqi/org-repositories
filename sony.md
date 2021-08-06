@@ -33,26 +33,26 @@
 ## C++
 
 - [sony/easyhttpcpp](https://github.com/sony/easyhttpcpp) pushed_at:2020-11 star:0.1k fork:0.0k A cross-platform HTTP client library with a focus on usability and speed
-- [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) pushed_at:2021-07 star:0.0k fork:0.0k Flutter plugins for embedded Linux (eLinux)
-- [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) pushed_at:2021-07 star:0.5k fork:0.0k Embedded Linux embedding for Flutter
-- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) pushed_at:2021-07 star:0.1k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
+- [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) pushed_at:2021-08 star:0.0k fork:0.0k Flutter plugins for embedded Linux (eLinux)
+- [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) pushed_at:2021-08 star:0.5k fork:0.0k Embedded Linux embedding for Flutter
+- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) pushed_at:2021-08 star:0.1k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
 - [sony/node-win-usbdev](https://github.com/sony/node-win-usbdev) pushed_at:2018-02 star:0.0k fork:0.0k 
 - [sony/v8eval](https://github.com/sony/v8eval) pushed_at:2020-12 star:0.3k fork:0.0k Multi-language bindings to JavaScript engine V8
 
 ## Cuda
 
-- [sony/nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) pushed_at:2021-07 star:0.1k fork:0.0k A CUDA Extension of Neural Network Libraries
+- [sony/nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) pushed_at:2021-08 star:0.1k fork:0.0k A CUDA Extension of Neural Network Libraries
 
 ## Dart
 
-- [sony/flutter-elinux](https://github.com/sony/flutter-elinux) pushed_at:2021-07 star:0.0k fork:0.0k Flutter tools for embedded Linux (eLinux)
+- [sony/flutter-elinux](https://github.com/sony/flutter-elinux) pushed_at:2021-08 star:0.0k fork:0.0k Flutter tools for embedded Linux (eLinux)
 
 ## Go
 
 - [sony/appsync-client-go](https://github.com/sony/appsync-client-go) pushed_at:2021-05 star:0.0k fork:0.0k AWS AppSync golang client library
 - [sony/gobreaker](https://github.com/sony/gobreaker) pushed_at:2021-04 star:1.6k fork:0.1k Circuit Breaker implemented in Go
 - [sony/micro-notifier](https://github.com/sony/micro-notifier) pushed_at:2021-02 star:0.0k fork:0.0k Simplified Pusher Clone
-- [sony/sonyflake](https://github.com/sony/sonyflake) pushed_at:2020-10 star:2.2k fork:0.2k A distributed unique ID generator inspired by Twitter's Snowflake
+- [sony/sonyflake](https://github.com/sony/sonyflake) pushed_at:2021-08 star:2.2k fork:0.2k A distributed unique ID generator inspired by Twitter's Snowflake
 
 ## HTML
 
@@ -70,8 +70,8 @@
 - [sony/generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) pushed_at:2016-05 star:0.0k fork:0.0k 
 - [sony/huis-ui-creator](https://github.com/sony/huis-ui-creator) pushed_at:2018-10 star:0.0k fork:0.0k 
 - [sony/isren](https://github.com/sony/isren) pushed_at:2021-05 star:0.0k fork:0.0k 
-- [sony/mapray-js](https://github.com/sony/mapray-js) pushed_at:2021-07 star:0.1k fork:0.0k JavaScript library for Interactive high quality 3D globes and maps in the browser
-- [sony/nmos-js](https://github.com/sony/nmos-js) pushed_at:2021-06 star:0.0k fork:0.0k An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
+- [sony/mapray-js](https://github.com/sony/mapray-js) pushed_at:2021-08 star:0.1k fork:0.0k JavaScript library for Interactive high quality 3D globes and maps in the browser
+- [sony/nmos-js](https://github.com/sony/nmos-js) pushed_at:2021-08 star:0.0k fork:0.0k An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
 
 ## Others
 
@@ -83,13 +83,13 @@
 
 ## Python
 
-- [sony/ai-research-code](https://github.com/sony/ai-research-code) pushed_at:2021-07 star:0.1k fork:0.0k 
+- [sony/ai-research-code](https://github.com/sony/ai-research-code) pushed_at:2021-08 star:0.1k fork:0.0k 
 - [sony/lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) pushed_at:2021-05 star:0.0k fork:0.0k 
-- [sony/nnabla](https://github.com/sony/nnabla) pushed_at:2021-07 star:2.5k fork:0.3k Neural Network Libraries
+- [sony/nnabla](https://github.com/sony/nnabla) pushed_at:2021-08 star:2.5k fork:0.3k Neural Network Libraries
 - [sony/nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) pushed_at:2019-03 star:0.0k fork:0.0k 
-- [sony/nnabla-examples](https://github.com/sony/nnabla-examples) pushed_at:2021-07 star:0.2k fork:0.0k Neural Network Libraries https://nnabla.org/ - Examples
+- [sony/nnabla-examples](https://github.com/sony/nnabla-examples) pushed_at:2021-08 star:0.2k fork:0.0k Neural Network Libraries https://nnabla.org/ - Examples
 - [sony/nnabla-nas](https://github.com/sony/nnabla-nas) pushed_at:2021-07 star:0.0k fork:0.0k Neural Architecture Search for Neural Network Libraries
-- [sony/nnabla-rl](https://github.com/sony/nnabla-rl) pushed_at:2021-07 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
+- [sony/nnabla-rl](https://github.com/sony/nnabla-rl) pushed_at:2021-08 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
 
 ## TypeScript
 

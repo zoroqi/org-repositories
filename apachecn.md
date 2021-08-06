@@ -44,7 +44,7 @@
 - [apachecn/gen-epub](https://github.com/apachecn/gen-epub) pushed_at:2021-02 star:0.0k fork:0.0k 用于生成 EPUB 的小工具。
 - [apachecn/hands-on-ml-2e-zh](https://github.com/apachecn/hands-on-ml-2e-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] Sklearn 与 TensorFlow 机器学习实用指南第二版
 - [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) pushed_at:2019-04 star:3.5k fork:1.5k :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
-- [apachecn/home](https://github.com/apachecn/home) pushed_at:2021-07 star:1.2k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
+- [apachecn/home](https://github.com/apachecn/home) pushed_at:2021-07 star:1.3k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [apachecn/kali-linux-cookbook-zh](https://github.com/apachecn/kali-linux-cookbook-zh) pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Kali Linux 秘籍 中文版
 - [apachecn/kali-linux-network-scanning-cookbook-zh](https://github.com/apachecn/kali-linux-network-scanning-cookbook-zh) pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Kali Linux 网络扫描秘籍 中文版
 - [apachecn/kali-linux-web-pentest-cookbook-zh](https://github.com/apachecn/kali-linux-web-pentest-cookbook-zh) pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Kali Linux Web 渗透测试秘籍 中文版
@@ -116,7 +116,7 @@
 - [apachecn/apachecn-cv-zh](https://github.com/apachecn/apachecn-cv-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN CV 译文集
 - [apachecn/apachecn-dl-zh](https://github.com/apachecn/apachecn-dl-zh) pushed_at:2021-07 star:0.3k fork:0.1k ApacheCN 深度学习译文集
 - [apachecn/apachecn-ds-zh](https://github.com/apachecn/apachecn-ds-zh) pushed_at:2021-05 star:0.2k fork:0.0k :book: [译] ApacheCN 数据科学译文集
-- [apachecn/apachecn-java-zh](https://github.com/apachecn/apachecn-java-zh) pushed_at:2021-07 star:0.0k fork:0.0k :books: [译] ApacheCN Java 译文集
+- [apachecn/apachecn-java-zh](https://github.com/apachecn/apachecn-java-zh) pushed_at:2021-08 star:0.0k fork:0.0k :books: [译] ApacheCN Java 译文集
 - [apachecn/apachecn-js-zh](https://github.com/apachecn/apachecn-js-zh) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [apachecn/apachecn-linux-zh](https://github.com/apachecn/apachecn-linux-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] ApacheCN Linux 译文集
 - [apachecn/apachecn-ml-zh](https://github.com/apachecn/apachecn-ml-zh) pushed_at:2021-05 star:0.0k fork:0.0k ApacheCN 机器学习译文集
@@ -156,7 +156,7 @@
 - [apachecn/kudu-doc-zh](https://github.com/apachecn/kudu-doc-zh) pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] kudu 中文文档
 - [apachecn/lightgbm-doc-zh](https://github.com/apachecn/lightgbm-doc-zh) pushed_at:2020-12 star:0.7k fork:0.2k LightGBM 中文文档
 - [apachecn/mit-18.06-linalg-notes](https://github.com/apachecn/mit-18.06-linalg-notes) pushed_at:2021-01 star:1.7k fork:0.6k MIT 18.06 线性代数笔记
-- [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) pushed_at:2021-07 star:0.4k fork:0.1k :book: [译] MachineLearningMastery 博客文章
+- [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) pushed_at:2021-08 star:0.4k fork:0.1k :book: [译] MachineLearningMastery 博客文章
 - [apachecn/nlp-pytorch-zh](https://github.com/apachecn/nlp-pytorch-zh) pushed_at:2021-01 star:0.6k fork:0.2k 《Natural Language Processing with PyTorch》中文翻译
 - [apachecn/numba-doc-zh](https://github.com/apachecn/numba-doc-zh) pushed_at:2021-01 star:0.0k fork:0.0k Numba 0.44 中文文档
 - [apachecn/opencv-doc-zh](https://github.com/apachecn/opencv-doc-zh) pushed_at:2021-01 star:0.3k fork:0.1k :book: [译] OpenCV 中文文档
@@ -168,7 +168,7 @@
 - [apachecn/pythonbasics-zh](https://github.com/apachecn/pythonbasics-zh) pushed_at:2021-05 star:0.0k fork:0.0k :book: [译] PythonBasics 中文系列教程
 - [apachecn/pythonguru-zh](https://github.com/apachecn/pythonguru-zh) pushed_at:2021-05 star:0.0k fork:0.0k :book: [译] PythonGuru 中文系列教程
 - [apachecn/pythonspot-zh](https://github.com/apachecn/pythonspot-zh) pushed_at:2021-05 star:0.0k fork:0.0k :books: [译] PythonSpot 中文系列教程
-- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) pushed_at:2021-07 star:3.1k fork:0.9k Pytorch 中文文档
+- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) pushed_at:2021-07 star:3.2k fork:0.9k Pytorch 中文文档
 - [apachecn/scrapy-doc-zh](https://github.com/apachecn/scrapy-doc-zh) pushed_at:2021-01 star:0.0k fork:0.0k Scrapy 1.6 文档
 - [apachecn/seaborn-doc-zh](https://github.com/apachecn/seaborn-doc-zh) pushed_at:2021-01 star:0.1k fork:0.1k :book: [译] seaborn 0.9 中文文档
 - [apachecn/sec-wiki](https://github.com/apachecn/sec-wiki) pushed_at:2021-05 star:0.0k fork:0.0k ApacheCN 安全知识库
@@ -197,7 +197,7 @@
 
 ## Jupyter Notebook
 
-- [apachecn/Interview](https://github.com/apachecn/Interview) pushed_at:2021-01 star:7.0k fork:2.0k Interview = 简历指南 + LeetCode + Kaggle
+- [apachecn/Interview](https://github.com/apachecn/Interview) pushed_at:2021-01 star:7.1k fork:2.0k Interview = 简历指南 + LeetCode + Kaggle
 - [apachecn/Multimodal-short-video-dataset-and-baseline-classification-model](https://github.com/apachecn/Multimodal-short-video-dataset-and-baseline-classification-model) pushed_at:2019-07 star:0.0k fork:0.0k multimodal short video datasets and  classification model(based on TensorFlow2.0 本资源含有50多万条多模态短视频数据集和对应的分类模型，旨在打造多模态分类框架。
 
 ## Others
@@ -349,11 +349,11 @@
 
 ## Python
 
-- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-05 star:30.6k fork:10.2k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
+- [apachecn/AiLearning](https://github.com/apachecn/AiLearning) pushed_at:2021-05 star:30.6k fork:10.3k AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP
 - [apachecn/awesome-data-comp-solution](https://github.com/apachecn/awesome-data-comp-solution) pushed_at:2020-09 star:0.5k fork:0.1k 数据科学/人工智能比赛解决方案汇总
 - [apachecn/BiliDriveEx](https://github.com/apachecn/BiliDriveEx) pushed_at:2020-03 star:0.1k fork:0.0k :cloud: 已停更，请访问 CDNDrive：
 - [apachecn/BookerTrans](https://github.com/apachecn/BookerTrans) pushed_at:2021-04 star:0.0k fork:0.0k 用于 iBooker/ApacheCN 翻译项目的 HTML 谷歌翻译工具
-- [apachecn/CDNDrive](https://github.com/apachecn/CDNDrive) pushed_at:2021-07 star:0.4k fork:0.1k :cloud: CDNDrive = BiliDrive + SuperBed，支持任意文件的全速上传与下载
+- [apachecn/CDNDrive](https://github.com/apachecn/CDNDrive) pushed_at:2021-07 star:0.5k fork:0.1k :cloud: CDNDrive = BiliDrive + SuperBed，支持任意文件的全速上传与下载
 - [apachecn/data](https://github.com/apachecn/data) pushed_at:2020-08 star:0.2k fork:0.2k 
 - [apachecn/fastapi-docs-cn](https://github.com/apachecn/fastapi-docs-cn) pushed_at:2020-03 star:0.0k fork:0.0k 官方文档已经有翻译的人在做了，
 - [apachecn/hudi-doc-zh](https://github.com/apachecn/hudi-doc-zh) pushed_at:2020-01 star:0.0k fork:0.0k hudi 中文文档
