@@ -71,7 +71,7 @@
 
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) pushed_at:2019-06 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-08 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-07 star:13.0k fork:1.5k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-08 star:13.1k fork:1.5k Emoji for everyone. https://twemoji.twitter.com/
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2021-08 star:2.5k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-08 star:0.0k fork:0.0k 
 
@@ -191,13 +191,13 @@
 - [twitter/tormenta](https://github.com/twitter/tormenta) pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) pushed_at:2021-08 star:0.1k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) pushed_at:2021-05 star:0.8k fork:0.2k Korean tokenizer
-- [twitter/twitter-server](https://github.com/twitter/twitter-server) pushed_at:2021-07 star:1.2k fork:0.2k Twitter-Server defines a template from which services at Twitter are built
+- [twitter/twitter-server](https://github.com/twitter/twitter-server) pushed_at:2021-08 star:1.2k fork:0.2k Twitter-Server defines a template from which services at Twitter are built
 - [twitter/util](https://github.com/twitter/util) pushed_at:2021-08 star:2.5k fork:0.5k Wonderful reusable code from Twitter
 
 ## Shell
 
 - [twitter/cache-trace](https://github.com/twitter/cache-trace) pushed_at:2021-07 star:0.1k fork:0.0k 
-- [twitter/dodo](https://github.com/twitter/dodo) pushed_at:2021-07 star:0.0k fork:0.0k The Twitter OSS Project Builder
+- [twitter/dodo](https://github.com/twitter/dodo) pushed_at:2021-08 star:0.0k fork:0.0k The Twitter OSS Project Builder
 - [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) pushed_at:2021-08 star:0.5k fork:0.3k Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
 
 ## Swift

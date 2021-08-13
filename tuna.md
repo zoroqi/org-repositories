@@ -70,7 +70,7 @@
 
 - [tuna/artwork](https://github.com/tuna/artwork) pushed_at:2021-06 star:0.0k fork:0.0k tuna artwork
 - [tuna/Books](https://github.com/tuna/Books) pushed_at:2020-11 star:0.0k fork:0.0k Tracking Books of TUNA Library
-- [tuna/Cash](https://github.com/tuna/Cash) pushed_at:2021-07 star:0.0k fork:0.0k 
+- [tuna/Cash](https://github.com/tuna/Cash) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [tuna/collection](https://github.com/tuna/collection) pushed_at:2015-12 star:0.2k fork:0.0k idea collections from TUNA
 - [tuna/dataset-issues](https://github.com/tuna/dataset-issues) pushed_at:2018-04 star:0.0k fork:0.0k Issues about academic dataset mirrors
 - [tuna/isofusion](https://github.com/tuna/isofusion) pushed_at:2016-05 star:0.0k fork:0.0k scan and create iso filelist from mirrors
@@ -100,7 +100,7 @@
 - [tuna/scripts](https://github.com/tuna/scripts) pushed_at:2018-01 star:0.0k fork:0.0k 
 - [tuna/telegram2irc](https://github.com/tuna/telegram2irc) pushed_at:2015-06 star:0.0k fork:0.0k A bot connect IRC and Telegram. Multiple binding is supported.
 - [tuna/thuroutes](https://github.com/tuna/thuroutes) pushed_at:2016-05 star:0.0k fork:0.0k Forked from https://chnroutes.googlecode.com/
-- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) pushed_at:2021-07 star:0.3k fork:0.1k Custom scripts for mirror jobs
+- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) pushed_at:2021-08 star:0.3k fork:0.1k Custom scripts for mirror jobs
 
 ## Ruby
 

@@ -370,7 +370,7 @@
 - [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) pushed_at:2021-08 star:0.0k fork:0.0k Open Collective REST API v1, and v2!
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
 - [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
-- [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) pushed_at:2021-07 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
+- [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) pushed_at:2021-08 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
 - [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) pushed_at:2018-07 star:0.1k fork:0.0k OpenCollective frontend
 - [opencollective/opencollective-workers](https://github.com/opencollective/opencollective-workers) pushed_at:2021-07 star:0.0k fork:0.0k Cloudflare workers at the frontline of Open Collective.
 - [opencollective/opencollective-zapier](https://github.com/opencollective/opencollective-zapier) pushed_at:2021-02 star:0.0k fork:0.0k ⚠️ DEPRECATED ⚠️ Open Collective legacy Zapier integration
@@ -1032,8 +1032,8 @@
 - [opencollective/OMSCentral](https://github.com/opencollective/OMSCentral) pushed_at:2018-05 star:0.0k fork:0.0k Code for OMSCentral.com
 - [opencollective/oni](https://github.com/opencollective/oni) pushed_at:2019-06 star:0.0k fork:0.0k Oni: An IDE powered by Neovim
 - [opencollective/opencollective-bot](https://github.com/opencollective/opencollective-bot) pushed_at:2021-08 star:0.1k fork:0.0k 🤖 A perfect companion for your Open Collective
-- [opencollective/opencollective-github-helpers](https://github.com/opencollective/opencollective-github-helpers) pushed_at:2021-05 star:0.0k fork:0.0k An app to help with the maintainance and development tasks of Open Collective internal repositories
-- [opencollective/opencollective-taxes](https://github.com/opencollective/opencollective-taxes) pushed_at:2021-07 star:0.0k fork:0.0k Shared code to calculate taxes for events, products and services (VAT)
+- [opencollective/opencollective-github-helpers](https://github.com/opencollective/opencollective-github-helpers) pushed_at:2021-08 star:0.0k fork:0.0k An app to help with the maintainance and development tasks of Open Collective internal repositories
+- [opencollective/opencollective-taxes](https://github.com/opencollective/opencollective-taxes) pushed_at:2021-08 star:0.0k fork:0.0k Shared code to calculate taxes for events, products and services (VAT)
 - [opencollective/perfume.js](https://github.com/opencollective/perfume.js) pushed_at:2019-03 star:0.0k fork:0.0k A flexible JavaScript library for measuring First Contentful Paint (FP/FCP), First Input Delay (FID) and components lifecycle performance (eg. Angular, React). Report real user measurements to Google Analytics or your ideal tracking tool.
 - [opencollective/react-unity-webgl](https://github.com/opencollective/react-unity-webgl) pushed_at:2019-07 star:0.0k fork:0.0k React Unity WebGL provides an easy solution for embedding Unity WebGL builds in your React application, with two-way communication between your React and Unity application with advanced API's.
 - [opencollective/searchkit](https://github.com/opencollective/searchkit) pushed_at:2018-05 star:0.0k fork:0.0k React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.

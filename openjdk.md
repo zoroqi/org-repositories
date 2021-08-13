@@ -19,7 +19,7 @@
 ## C++
 
 - [openjdk/jfx](https://github.com/openjdk/jfx) pushed_at:2021-08 star:1.3k fork:0.2k JavaFX mainline development
-- [openjdk/jfx11u](https://github.com/openjdk/jfx11u) pushed_at:2021-07 star:0.0k fork:0.0k JavaFX 11 updates development
+- [openjdk/jfx11u](https://github.com/openjdk/jfx11u) pushed_at:2021-08 star:0.0k fork:0.0k JavaFX 11 updates development
 - [openjdk/jfx12](https://github.com/openjdk/jfx12) pushed_at:2021-01 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/openjfx/12-dev/rt/
 - [openjdk/jfx13](https://github.com/openjdk/jfx13) pushed_at:2020-07 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/openjfx/13-dev/rt
 
@@ -40,9 +40,9 @@
 - [openjdk/client](https://github.com/openjdk/client) pushed_at:2020-10 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk/client/
 - [openjdk/doccheck](https://github.com/openjdk/doccheck) pushed_at:2020-12 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/doccheck/
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) pushed_at:2021-04 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/friday-stats/
-- [openjdk/jcov](https://github.com/openjdk/jcov) pushed_at:2021-07 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/jcov
+- [openjdk/jcov](https://github.com/openjdk/jcov) pushed_at:2021-08 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) pushed_at:2021-07 star:0.1k fork:0.0k https://openjdk.java.net/projects/code-tools/jcstress/
-- [openjdk/jdk](https://github.com/openjdk/jdk) pushed_at:2021-08 star:10.5k fork:2.6k JDK main-line development
+- [openjdk/jdk](https://github.com/openjdk/jdk) pushed_at:2021-08 star:10.6k fork:2.6k JDK main-line development
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) pushed_at:2021-08 star:0.0k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) pushed_at:2020-08 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk/jdk10
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) pushed_at:2021-08 star:0.1k fork:0.1k https://openjdk.java.net/projects/jdk-updates/
@@ -73,7 +73,7 @@
 - [openjdk/jmc7](https://github.com/openjdk/jmc7) pushed_at:2021-03 star:0.0k fork:0.0k https://openjdk.java.net/projects/jmc/
 - [openjdk/jmh](https://github.com/openjdk/jmh) pushed_at:2021-08 star:0.5k fork:0.1k https://openjdk.java.net/projects/code-tools/jmh/
 - [openjdk/jmh-jdk-microbenchmarks](https://github.com/openjdk/jmh-jdk-microbenchmarks) pushed_at:2021-06 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/jmh-jdk-microbenchmarks/
-- [openjdk/jol](https://github.com/openjdk/jol) pushed_at:2021-05 star:0.2k fork:0.0k https://openjdk.java.net/projects/code-tools/jol/
+- [openjdk/jol](https://github.com/openjdk/jol) pushed_at:2021-05 star:0.3k fork:0.0k https://openjdk.java.net/projects/code-tools/jol/
 - [openjdk/jtharness](https://github.com/openjdk/jtharness) pushed_at:2021-07 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/JT+Harness
 - [openjdk/jtreg](https://github.com/openjdk/jtreg) pushed_at:2021-08 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/jtreg/
 - [openjdk/lanai](https://github.com/openjdk/lanai) pushed_at:2021-03 star:0.0k fork:0.0k https://openjdk.java.net/projects/lanai/
@@ -89,14 +89,14 @@
 - [openjdk/shenandoah](https://github.com/openjdk/shenandoah) pushed_at:2021-08 star:0.0k fork:0.0k https://openjdk.java.net/projects/shenandoah
 - [openjdk/shenandoah-visualizer](https://github.com/openjdk/shenandoah-visualizer) pushed_at:2020-11 star:0.1k fork:0.0k 
 - [openjdk/sigtest](https://github.com/openjdk/sigtest) pushed_at:2021-07 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/sigtest
-- [openjdk/skara](https://github.com/openjdk/skara) pushed_at:2021-07 star:0.2k fork:0.0k https://openjdk.java.net/projects/skara/
+- [openjdk/skara](https://github.com/openjdk/skara) pushed_at:2021-08 star:0.2k fork:0.1k https://openjdk.java.net/projects/skara/
 - [openjdk/tsan](https://github.com/openjdk/tsan) pushed_at:2021-08 star:0.0k fork:0.0k https://openjdk.java.net/projects/tsan
 - [openjdk/valhalla](https://github.com/openjdk/valhalla) pushed_at:2021-08 star:0.2k fork:0.0k https://openjdk.java.net/projects/valhalla
 - [openjdk/zgc](https://github.com/openjdk/zgc) pushed_at:2021-06 star:0.1k fork:0.0k The Z Garbage Collector https://wiki.openjdk.java.net/display/zgc/
 
 ## Makefile
 
-- [openjdk/guide](https://github.com/openjdk/guide) pushed_at:2021-07 star:0.0k fork:0.0k Developer's Guide
+- [openjdk/guide](https://github.com/openjdk/guide) pushed_at:2021-08 star:0.0k fork:0.0k Developer's Guide
 
 ## Mathematica
 
