@@ -36,7 +36,7 @@
 
 - [uber/libphutil](https://github.com/uber/libphutil) pushed_at:2021-01 star:0.0k fork:0.0k A collection of PHP utility classes
 - [uber/nanoscope-art](https://github.com/uber/nanoscope-art) pushed_at:2019-09 star:0.0k fork:0.0k 
-- [uber/neuropod](https://github.com/uber/neuropod) pushed_at:2021-06 star:0.9k fork:0.1k A uniform interface to run deep learning models from multiple frameworks
+- [uber/neuropod](https://github.com/uber/neuropod) pushed_at:2021-08 star:0.9k fork:0.1k A uniform interface to run deep learning models from multiple frameworks
 - [uber/percona-server](https://github.com/uber/percona-server) pushed_at:2017-06 star:0.0k fork:0.0k Percona Server
 
 ## Go
@@ -49,8 +49,8 @@
 - [uber/cadence](https://github.com/uber/cadence) pushed_at:2021-08 star:5.2k fork:0.5k Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [uber/cadvisor](https://github.com/uber/cadvisor) pushed_at:2021-08 star:0.0k fork:0.0k Analyzes resource usage and performance characteristics of running containers.
 - [uber/gonduit](https://github.com/uber/gonduit) pushed_at:2021-06 star:0.0k fork:0.0k A Go package for connecting to Phabricator via the Conduit API.
-- [uber/kraken](https://github.com/uber/kraken) pushed_at:2021-06 star:4.6k fork:0.3k P2P Docker registry capable of distributing TBs of data in seconds
-- [uber/pam-ussh](https://github.com/uber/pam-ussh) pushed_at:2021-06 star:0.7k fork:0.1k uber's ssh certificate pam module
+- [uber/kraken](https://github.com/uber/kraken) pushed_at:2021-06 star:4.7k fork:0.3k P2P Docker registry capable of distributing TBs of data in seconds
+- [uber/pam-ussh](https://github.com/uber/pam-ussh) pushed_at:2021-08 star:0.7k fork:0.1k uber's ssh certificate pam module
 - [uber/peloton](https://github.com/uber/peloton) pushed_at:2021-03 star:0.6k fork:0.1k Unified Resource Scheduler to co-schedule mixed types of workloads such as batch, stateless and stateful jobs in a single cluster for better resource utilization.
 - [uber/prototool](https://github.com/uber/prototool) pushed_at:2021-03 star:4.8k fork:0.3k Your Swiss Army Knife for Protocol Buffers
 - [uber/ringpop-go](https://github.com/uber/ringpop-go) pushed_at:2021-02 star:0.7k fork:0.1k Scalable, fault-tolerant application-layer sharding for Go applications
@@ -75,14 +75,14 @@
 - [uber/cadence-java-samples](https://github.com/uber/cadence-java-samples) pushed_at:2021-08 star:0.1k fork:0.0k 
 - [uber/concurrency-loadbalancer](https://github.com/uber/concurrency-loadbalancer) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [uber/dynamodb-cross-region-library](https://github.com/uber/dynamodb-cross-region-library) pushed_at:2017-10 star:0.0k fork:0.0k A library to facilitate cross-region replication with Amazon DynamoDB Streams.
-- [uber/h3-java](https://github.com/uber/h3-java) pushed_at:2021-07 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
+- [uber/h3-java](https://github.com/uber/h3-java) pushed_at:2021-08 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/marmaray](https://github.com/uber/marmaray) pushed_at:2021-06 star:0.4k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
 - [uber/NullAway](https://github.com/uber/NullAway) pushed_at:2021-08 star:3.0k fork:0.2k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [uber/okbuck](https://github.com/uber/okbuck) pushed_at:2021-07 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
 - [uber/phabricator-jenkins-plugin](https://github.com/uber/phabricator-jenkins-plugin) pushed_at:2021-01 star:0.4k fork:0.1k Jenkins plugin to integrate with Phabricator, Harbormaster, and Uberalls
 - [uber/piranha](https://github.com/uber/piranha) pushed_at:2021-08 star:1.8k fork:0.1k A tool for refactoring code related to feature flag APIs
 - [uber/RemoteShuffleService](https://github.com/uber/RemoteShuffleService) pushed_at:2021-07 star:0.1k fork:0.0k Remote shuffle service for Apache Spark to store shuffle data on remote servers. 
-- [uber/RIBs](https://github.com/uber/RIBs) pushed_at:2021-08 star:6.4k fork:0.7k Uber's cross-platform mobile architecture framework.
+- [uber/RIBs](https://github.com/uber/RIBs) pushed_at:2021-08 star:6.4k fork:0.8k Uber's cross-platform mobile architecture framework.
 - [uber/rides-android-sdk](https://github.com/uber/rides-android-sdk) pushed_at:2021-08 star:0.3k fork:0.1k Uber Rides Android SDK (beta)
 - [uber/rides-java-sdk](https://github.com/uber/rides-java-sdk) pushed_at:2018-11 star:0.1k fork:0.1k Uber Rides Java SDK (beta)
 - [uber/RxCentralBle](https://github.com/uber/RxCentralBle) pushed_at:2021-06 star:0.2k fork:0.0k A reactive, interface-driven central role Bluetooth LE library for Android
@@ -113,7 +113,7 @@
 - [uber/manifold](https://github.com/uber/manifold) pushed_at:2021-08 star:1.5k fork:0.1k A model-agnostic visual debugging tool for machine learning
 - [uber/react-digraph](https://github.com/uber/react-digraph) pushed_at:2021-06 star:2.2k fork:0.2k A library for creating directed graph editors
 - [uber/react-global-hooks](https://github.com/uber/react-global-hooks) pushed_at:2020-09 star:0.0k fork:0.0k 
-- [uber/react-vis](https://github.com/uber/react-vis) pushed_at:2021-08 star:7.9k fork:0.8k Data Visualization Components
+- [uber/react-vis](https://github.com/uber/react-vis) pushed_at:2021-08 star:8.0k fork:0.8k Data Visualization Components
 - [uber/react-vis-force](https://github.com/uber/react-vis-force) pushed_at:2020-06 star:0.4k fork:0.1k d3-force graphs as React Components.
 - [uber/ringpop-ui](https://github.com/uber/ringpop-ui) pushed_at:2015-09 star:0.0k fork:0.0k A visualization tool for Ringpop
 - [uber/sentry-logger](https://github.com/uber/sentry-logger) pushed_at:2018-12 star:0.1k fork:0.0k A Sentry transport for Winston
@@ -147,7 +147,7 @@
 
 ## Objective-C
 
-- [uber/ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) pushed_at:2021-07 star:1.4k fork:0.2k Snapshot view unit tests for iOS
+- [uber/ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) pushed_at:2021-07 star:1.5k fork:0.2k Snapshot view unit tests for iOS
 - [uber/signals-ios](https://github.com/uber/signals-ios) pushed_at:2019-01 star:0.5k fork:0.1k Typeful eventing
 - [uber/startup-reason-reporter](https://github.com/uber/startup-reason-reporter) pushed_at:2018-07 star:0.1k fork:0.0k Reports the reason why an iOS App started.
 - [uber/UberSignature](https://github.com/uber/UberSignature) pushed_at:2020-09 star:1.2k fork:0.2k Provides an iOS view controller allowing a user to draw their signature with their finger in a realistic style.
@@ -203,7 +203,7 @@
 
 - [uber/cyborg](https://github.com/uber/cyborg) pushed_at:2020-09 star:0.3k fork:0.0k Display Android Vectordrawables on iOS.
 - [uber/mockolo](https://github.com/uber/mockolo) pushed_at:2021-08 star:0.4k fork:0.0k Efficient Mock Generator for Swift
-- [uber/needle](https://github.com/uber/needle) pushed_at:2021-07 star:1.0k fork:0.1k Compile-time safe Swift dependency injection framework
+- [uber/needle](https://github.com/uber/needle) pushed_at:2021-08 star:1.0k fork:0.1k Compile-time safe Swift dependency injection framework
 - [uber/rides-ios-sdk](https://github.com/uber/rides-ios-sdk) pushed_at:2019-11 star:0.3k fork:0.1k Uber Rides iOS SDK (beta)
 - [uber/RxCBCentral](https://github.com/uber/RxCBCentral) pushed_at:2021-06 star:0.0k fork:0.0k  A reactive, interface-driven central role Bluetooth LE library for iOS
 - [uber/swift-abstract-class](https://github.com/uber/swift-abstract-class) pushed_at:2019-12 star:0.1k fork:0.0k Compile-time abstract class validation for Swift

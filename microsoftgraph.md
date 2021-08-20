@@ -27,7 +27,7 @@
 ## C#
 
 - [microsoftgraph/30DaysMSGraph-TryItOut](https://github.com/microsoftgraph/30DaysMSGraph-TryItOut) pushed_at:2019-10 star:0.1k fork:0.0k This repo contains the Try It Out samples from the 30 Days of Microsoft Graph blog series (https://aka.ms/30DaysMSGraph).
-- [microsoftgraph/apidoctor](https://github.com/microsoftgraph/apidoctor) pushed_at:2021-06 star:0.0k fork:0.0k Application for validating API documentation and generating test cases
+- [microsoftgraph/apidoctor](https://github.com/microsoftgraph/apidoctor) pushed_at:2021-08 star:0.0k fork:0.0k Application for validating API documentation and generating test cases
 - [microsoftgraph/aspnet-assettracking-sample](https://github.com/microsoftgraph/aspnet-assettracking-sample) pushed_at:2019-09 star:0.0k fork:0.0k 
 - [microsoftgraph/aspnet-connect-rest-sample](https://github.com/microsoftgraph/aspnet-connect-rest-sample) pushed_at:2018-10 star:0.1k fork:0.1k [ARCHIVED] This ASP.NET MVC sample shows how to connect to Microsoft Graph and use the API to send an email.
 - [microsoftgraph/aspnet-connect-sample](https://github.com/microsoftgraph/aspnet-connect-sample) pushed_at:2018-10 star:0.1k fork:0.0k [ARCHIVED] This walkthrough shows you how to use the Office 365 Connected Services in Visual Studio 2017.
@@ -384,7 +384,7 @@
 
 ## PowerShell
 
-- [microsoftgraph/M365Insights](https://github.com/microsoftgraph/M365Insights) pushed_at:2020-07 star:0.0k fork:0.0k Steps for admins to set up an automated Workplace Analytics query data export to Azure with PowerShell
+- [microsoftgraph/M365Insights](https://github.com/microsoftgraph/M365Insights) pushed_at:2021-08 star:0.0k fork:0.0k Steps for admins to set up an automated Workplace Analytics query data export to Azure with PowerShell
 - [microsoftgraph/microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) pushed_at:2021-08 star:0.8k fork:1.3k Documentation for the Microsoft Graph REST API
 - [microsoftgraph/microsoft-graph-docs.pt-BR](https://github.com/microsoftgraph/microsoft-graph-docs.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k Documentation for the Microsoft Graph REST API for Portuguese
 - [microsoftgraph/microsoft-graph-docs.ru-RU](https://github.com/microsoftgraph/microsoft-graph-docs.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k Documentation for the Microsoft Graph REST API for Russian
@@ -440,7 +440,7 @@
 - [microsoftgraph/mgt-react-codetour](https://github.com/microsoftgraph/mgt-react-codetour) pushed_at:2021-06 star:0.0k fork:0.0k Interactive tour to help you build your first React app using Microsoft Graph Toolkit
 - [microsoftgraph/microsoft-graph-explorer](https://github.com/microsoftgraph/microsoft-graph-explorer) pushed_at:2020-05 star:0.1k fork:0.1k We've moved! You can contribute to our new repository here
 - [microsoftgraph/microsoft-graph-explorer-v4](https://github.com/microsoftgraph/microsoft-graph-explorer-v4) pushed_at:2021-08 star:0.1k fork:0.1k React/Redux version of Graph Explorer used to learn the Microsoft Graph Api
-- [microsoftgraph/microsoft-graph-toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) pushed_at:2021-08 star:0.6k fork:0.1k Authentication Providers and UI components for Microsoft Graph 🦒
+- [microsoftgraph/microsoft-graph-toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) pushed_at:2021-08 star:0.6k fork:0.2k Authentication Providers and UI components for Microsoft Graph 🦒
 - [microsoftgraph/msgraph-beta-typescript-typings](https://github.com/microsoftgraph/msgraph-beta-typescript-typings) pushed_at:2021-08 star:0.0k fork:0.0k Microsoft Graph Beta TypeScript Type Definitions
 - [microsoftgraph/msgraph-ifttt-sample](https://github.com/microsoftgraph/msgraph-ifttt-sample) pushed_at:2021-04 star:0.0k fork:0.0k This sample is a demonstration of what a Microsoft Graph service on IFTTT could look like. The purpose is to spark exploration by third parties to integrate their products with the Microsoft Graph and leverage the IFTTT platform to utilize the rich set of data (ie. Teams, OneNote, Calendar, User data, analytics, etc…) available in typical M365 organizations.
 - [microsoftgraph/msgraph-sdk-javascript](https://github.com/microsoftgraph/msgraph-sdk-javascript) pushed_at:2021-08 star:0.5k fork:0.2k Microsoft Graph client library for JavaScript

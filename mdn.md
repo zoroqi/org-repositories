@@ -37,9 +37,9 @@
 - [mdn/beginner-html-site-scripted](https://github.com/mdn/beginner-html-site-scripted) pushed_at:2021-04 star:0.2k fork:0.2k A simple one page website created to help complete beginners learn HTML basics, which in this repo has also had some script added to help beginners learn JavaScript basics. The scripting is explained over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics. 
 - [mdn/beginner-html-site-styled](https://github.com/mdn/beginner-html-site-styled) pushed_at:2021-07 star:0.1k fork:0.4k A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics.
 - [mdn/beginning-programming-content-kit](https://github.com/mdn/beginning-programming-content-kit) pushed_at:2019-03 star:0.0k fork:0.0k This is a Content Kit for people who want to teach programming to beginners.
-- [mdn/content](https://github.com/mdn/content) pushed_at:2021-08 star:3.1k fork:2.4k The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) pushed_at:2021-08 star:3.1k fork:2.5k The content behind MDN Web Docs
 - [mdn/content-kit-template](https://github.com/mdn/content-kit-template) pushed_at:2016-05 star:0.0k fork:0.0k This is the repo to fork or clone when creating a new MDN Content Kit.
-- [mdn/css-examples](https://github.com/mdn/css-examples) pushed_at:2021-08 star:0.2k fork:0.3k Code examples that accompany the MDN CSS documentation
+- [mdn/css-examples](https://github.com/mdn/css-examples) pushed_at:2021-08 star:0.3k fork:0.3k Code examples that accompany the MDN CSS documentation
 - [mdn/devtools-examples](https://github.com/mdn/devtools-examples) pushed_at:2019-04 star:0.0k fork:0.0k Code examples that accompany the MDN Firefox Developer Tools documentation
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) pushed_at:2021-06 star:1.1k fork:0.8k Code examples that accompany various MDN DOM and Web API documentation pages
 - [mdn/fetch-examples](https://github.com/mdn/fetch-examples) pushed_at:2021-03 star:0.4k fork:0.2k A repository of Fetch examples. See https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API for the corresponding documentation.
@@ -50,7 +50,7 @@
 - [mdn/insights](https://github.com/mdn/insights) pushed_at:2021-08 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) pushed_at:2021-08 star:0.4k fork:0.4k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
-- [mdn/learning-area](https://github.com/mdn/learning-area) pushed_at:2021-08 star:4.1k fork:14.5k Github repo for the MDN Learning Area. 
+- [mdn/learning-area](https://github.com/mdn/learning-area) pushed_at:2021-08 star:4.1k fork:14.6k Github repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) pushed_at:2019-03 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
 - [mdn/learning-area-pt-br](https://github.com/mdn/learning-area-pt-br) pushed_at:2021-03 star:0.0k fork:0.1k The MDN Learning Area code examples translated into Brazilian Portuguese.
 - [mdn/machine-translation-testing-content](https://github.com/mdn/machine-translation-testing-content) pushed_at:2020-11 star:0.0k fork:0.0k This is a repository for testing machine translations of English content.
@@ -61,7 +61,7 @@
 - [mdn/simple-shared-worker](https://github.com/mdn/simple-shared-worker) pushed_at:2019-04 star:0.2k fork:0.1k A simple demo to show shared worker basics.
 - [mdn/sphinx-theme](https://github.com/mdn/sphinx-theme) pushed_at:2017-10 star:0.0k fork:0.0k  (Deprecated) Make Sphinx docs look like MDN
 - [mdn/todo-react-build](https://github.com/mdn/todo-react-build) pushed_at:2020-05 star:0.0k fork:0.0k Live version of our sample todo app built with the React/ReactDOM framework.
-- [mdn/translated-content](https://github.com/mdn/translated-content) pushed_at:2021-08 star:0.3k fork:0.7k All translated MDN content in raw form
+- [mdn/translated-content](https://github.com/mdn/translated-content) pushed_at:2021-08 star:0.3k fork:0.8k All translated MDN content in raw form
 - [mdn/translated-content-rendered](https://github.com/mdn/translated-content-rendered) pushed_at:2021-02 star:0.0k fork:0.0k All translated (non-archived) MDN content in fully rendered form
 - [mdn/viewsourceconf](https://github.com/mdn/viewsourceconf) pushed_at:2019-03 star:0.0k fork:0.0k Repo for View Source Conference site
 - [mdn/web-tech-games](https://github.com/mdn/web-tech-games) pushed_at:2021-04 star:0.0k fork:0.0k Interactive diagram showing what parts of the web technology stack can used for different purposes when creating games. Includes links to more information about each.
@@ -122,7 +122,7 @@
 
 - [mdn/browsercompat-data](https://github.com/mdn/browsercompat-data) pushed_at:2017-04 star:0.0k fork:0.0k Browser Compatability Data
 - [mdn/crossbrowser-testing-lab](https://github.com/mdn/crossbrowser-testing-lab) pushed_at:2019-04 star:0.0k fork:0.0k Mozilla's Cross-Browser Testing Lab
-- [mdn/mdn](https://github.com/mdn/mdn) pushed_at:2021-07 star:1.1k fork:0.2k Meta repository that governs the MDN GitHub organization
+- [mdn/mdn](https://github.com/mdn/mdn) pushed_at:2021-08 star:1.1k fork:0.2k Meta repository that governs the MDN GitHub organization
 - [mdn/mdn-dinocons](https://github.com/mdn/mdn-dinocons) pushed_at:2021-08 star:0.0k fork:0.0k A scalable set of icons for use across Mozilla Developer websites
 - [mdn/performance-scenarios](https://github.com/mdn/performance-scenarios) pushed_at:2017-05 star:0.0k fork:0.0k 
 - [mdn/sprints](https://github.com/mdn/sprints) pushed_at:2020-10 star:0.1k fork:0.1k MDN Web Docs content issue management

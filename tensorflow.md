@@ -34,7 +34,7 @@
 - [tensorflow/ngraph-bridge](https://github.com/tensorflow/ngraph-bridge) pushed_at:2021-02 star:0.1k fork:0.1k TensorFlow-nGraph bridge
 - [tensorflow/runtime](https://github.com/tensorflow/runtime) pushed_at:2021-08 star:0.6k fork:0.1k A performant and modular runtime for TensorFlow
 - [tensorflow/serving](https://github.com/tensorflow/serving) pushed_at:2021-08 star:5.2k fork:2.0k A flexible, high-performance serving system for machine learning models
-- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) pushed_at:2021-08 star:158.2k fork:85.3k An Open Source Machine Learning Framework for Everyone
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) pushed_at:2021-08 star:158.5k fork:85.4k An Open Source Machine Learning Framework for Everyone
 - [tensorflow/tensorstore](https://github.com/tensorflow/tensorstore) pushed_at:2019-04 star:0.0k fork:0.0k 
 - [tensorflow/tflite-micro](https://github.com/tensorflow/tflite-micro) pushed_at:2021-08 star:0.2k fork:0.1k TensorFlow Lite for Microcontrollers
 - [tensorflow/tflite-micro-arduino-examples](https://github.com/tensorflow/tflite-micro-arduino-examples) pushed_at:2021-08 star:0.0k fork:0.0k 
@@ -65,7 +65,7 @@
 
 ## JavaScript
 
-- [tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples) pushed_at:2021-08 star:5.3k fork:1.8k Examples built with TensorFlow.js
+- [tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples) pushed_at:2021-08 star:5.3k fork:1.9k Examples built with TensorFlow.js
 
 ## Jupyter Notebook
 
@@ -92,7 +92,7 @@
 
 ## Python
 
-- [tensorflow/addons](https://github.com/tensorflow/addons) pushed_at:2021-08 star:1.3k fork:0.5k Useful extra functionality for TensorFlow 2.x maintained by SIG-addons
+- [tensorflow/addons](https://github.com/tensorflow/addons) pushed_at:2021-08 star:1.4k fork:0.5k Useful extra functionality for TensorFlow 2.x maintained by SIG-addons
 - [tensorflow/agents](https://github.com/tensorflow/agents) pushed_at:2021-08 star:2.0k fork:0.5k TF-Agents: A reliable, scalable and easy to use TensorFlow library for Contextual Bandits and Reinforcement Learning.
 - [tensorflow/autograph](https://github.com/tensorflow/autograph) pushed_at:2020-05 star:0.0k fork:0.0k 
 - [tensorflow/benchmarks](https://github.com/tensorflow/benchmarks) pushed_at:2021-07 star:1.0k fork:0.6k  A benchmark framework for Tensorflow
@@ -116,7 +116,7 @@
 - [tensorflow/model-card-toolkit](https://github.com/tensorflow/model-card-toolkit) pushed_at:2021-08 star:0.2k fork:0.0k  a tool that leverages rich metadata and lineage information in MLMD to build a model card
 - [tensorflow/model-optimization](https://github.com/tensorflow/model-optimization) pushed_at:2021-08 star:1.1k fork:0.2k A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning.
 - [tensorflow/model-remediation](https://github.com/tensorflow/model-remediation) pushed_at:2021-07 star:0.0k fork:0.0k Model Remediation is a library that provides solutions for machine learning practitioners working to create and train models in a way that reduces or eliminates user harm resulting from underlying performance biases.
-- [tensorflow/models](https://github.com/tensorflow/models) pushed_at:2021-08 star:70.9k fork:44.7k Models and examples built with TensorFlow
+- [tensorflow/models](https://github.com/tensorflow/models) pushed_at:2021-08 star:71.0k fork:44.7k Models and examples built with TensorFlow
 - [tensorflow/moonlight](https://github.com/tensorflow/moonlight) pushed_at:2021-06 star:0.3k fork:0.1k Optical music recognition in TensorFlow
 - [tensorflow/neural-structured-learning](https://github.com/tensorflow/neural-structured-learning) pushed_at:2021-08 star:0.8k fork:0.2k Training neural models with structured signals.
 - [tensorflow/nmt](https://github.com/tensorflow/nmt) pushed_at:2021-04 star:5.9k fork:1.9k TensorFlow Neural Machine Translation Tutorial
@@ -125,7 +125,7 @@
 - [tensorflow/ranking](https://github.com/tensorflow/ranking) pushed_at:2021-07 star:2.2k fork:0.4k Learning to Rank in TensorFlow
 - [tensorflow/recommenders](https://github.com/tensorflow/recommenders) pushed_at:2021-08 star:1.0k fork:0.1k TensorFlow Recommenders is a library for building recommender system models using TensorFlow.
 - [tensorflow/skflow](https://github.com/tensorflow/skflow) pushed_at:2020-04 star:3.2k fork:0.5k Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
-- [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) pushed_at:2021-06 star:11.5k fork:2.9k Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
+- [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) pushed_at:2021-08 star:11.5k fork:2.9k Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [tensorflow/tensorboard-plugin-example](https://github.com/tensorflow/tensorboard-plugin-example) pushed_at:2019-08 star:0.1k fork:0.1k 
 - [tensorflow/text](https://github.com/tensorflow/text) pushed_at:2021-08 star:0.8k fork:0.1k Making text a first-class citizen in TensorFlow.
 - [tensorflow/tfhub.dev](https://github.com/tensorflow/tfhub.dev) pushed_at:2021-08 star:0.0k fork:0.0k 
@@ -139,7 +139,7 @@
 
 ## Scala
 
-- [tensorflow/ecosystem](https://github.com/tensorflow/ecosystem) pushed_at:2021-06 star:1.2k fork:0.4k Integration of TensorFlow with other open-source frameworks
+- [tensorflow/ecosystem](https://github.com/tensorflow/ecosystem) pushed_at:2021-08 star:1.2k fork:0.4k Integration of TensorFlow with other open-source frameworks
 
 ## Shell
 
@@ -151,7 +151,7 @@
 
 ## Starlark
 
-- [tensorflow/toolchains](https://github.com/tensorflow/toolchains) pushed_at:2021-07 star:0.0k fork:0.0k Bazel toolchain configurations used across TensorFlow ecosystem
+- [tensorflow/toolchains](https://github.com/tensorflow/toolchains) pushed_at:2021-08 star:0.0k fork:0.0k Bazel toolchain configurations used across TensorFlow ecosystem
 
 ## Swift
 
@@ -160,7 +160,7 @@
 
 ## TypeScript
 
-- [tensorflow/playground](https://github.com/tensorflow/playground) pushed_at:2021-08 star:9.9k fork:2.2k Play with neural networks!
+- [tensorflow/playground](https://github.com/tensorflow/playground) pushed_at:2021-08 star:10.0k fork:2.2k Play with neural networks!
 - [tensorflow/profiler](https://github.com/tensorflow/profiler) pushed_at:2021-08 star:0.2k fork:0.0k A profiling and performance analysis tool for TensorFlow
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) pushed_at:2021-08 star:5.6k fork:1.4k TensorFlow's Visualization Toolkit
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) pushed_at:2021-08 star:15.4k fork:1.6k A WebGL accelerated JavaScript library for training and deploying ML models.
@@ -168,7 +168,7 @@
 - [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) pushed_at:2019-08 star:8.5k fork:1.0k WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
 - [tensorflow/tfjs-data](https://github.com/tensorflow/tfjs-data) pushed_at:2019-08 star:0.1k fork:0.0k Simple APIs to load and prepare data for use in machine learning models
 - [tensorflow/tfjs-layers](https://github.com/tensorflow/tfjs-layers) pushed_at:2019-08 star:0.3k fork:0.1k TensorFlow.js high-level layers API
-- [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) pushed_at:2021-08 star:9.6k fork:3.0k Pretrained models for TensorFlow.js
+- [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) pushed_at:2021-08 star:9.7k fork:3.0k Pretrained models for TensorFlow.js
 - [tensorflow/tfjs-node](https://github.com/tensorflow/tfjs-node) pushed_at:2019-08 star:1.0k fork:0.1k TensorFlow powered JavaScript library for training and deploying ML models on Node.js.
 - [tensorflow/tfjs-tsne](https://github.com/tensorflow/tfjs-tsne) pushed_at:2021-02 star:0.3k fork:0.1k 
 - [tensorflow/tfjs-vis](https://github.com/tensorflow/tfjs-vis) pushed_at:2019-08 star:0.3k fork:0.1k A set of utilities for in browser visualization with TensorFlow.js

@@ -65,7 +65,7 @@
 - [facebook/wangle](https://github.com/facebook/wangle) pushed_at:2021-08 star:2.7k fork:0.5k Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
 - [facebook/watchman](https://github.com/facebook/watchman) pushed_at:2021-08 star:10.2k fork:0.8k Watches files and records, or triggers actions, when they change. 
 - [facebook/wdt](https://github.com/facebook/wdt) pushed_at:2021-08 star:2.6k fork:0.4k Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
-- [facebook/yoga](https://github.com/facebook/yoga) pushed_at:2021-08 star:14.5k fork:1.2k Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
+- [facebook/yoga](https://github.com/facebook/yoga) pushed_at:2021-08 star:14.6k fork:1.2k Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 
 ## Go
 
@@ -73,7 +73,7 @@
 
 ## HTML
 
-- [facebook/facebook360_dep](https://github.com/facebook/facebook360_dep) pushed_at:2021-05 star:0.2k fork:0.0k Facebook360 Depth Estimation Pipeline - https://facebook.github.io/facebook360_dep
+- [facebook/facebook360_dep](https://github.com/facebook/facebook360_dep) pushed_at:2021-08 star:0.2k fork:0.0k Facebook360 Depth Estimation Pipeline - https://facebook.github.io/facebook360_dep
 - [facebook/fbhaddock](https://github.com/facebook/fbhaddock) pushed_at:2020-11 star:0.0k fork:0.0k Haskell Documentation Tool
 
 ## Hack
@@ -90,20 +90,20 @@
 
 - [facebook/buck](https://github.com/facebook/buck) pushed_at:2021-08 star:8.0k fork:1.2k A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 - [facebook/DelegatedRecoveryReferenceImplementation](https://github.com/facebook/DelegatedRecoveryReferenceImplementation) pushed_at:2019-01 star:0.0k fork:0.0k The reference implementation of the Delegated Recovery specification found at https://github.com/facebook/DelegatedRecoverySpecification
-- [facebook/facebook-java-business-sdk](https://github.com/facebook/facebook-java-business-sdk) pushed_at:2021-07 star:0.3k fork:0.3k Java SDK for Facebook Ads APIs
-- [facebook/fresco](https://github.com/facebook/fresco) pushed_at:2021-07 star:16.6k fork:3.8k An Android library for managing images and the memory they use.
+- [facebook/facebook-java-business-sdk](https://github.com/facebook/facebook-java-business-sdk) pushed_at:2021-08 star:0.3k fork:0.3k Java SDK for Facebook Ads APIs
+- [facebook/fresco](https://github.com/facebook/fresco) pushed_at:2021-08 star:16.6k fork:3.8k An Android library for managing images and the memory they use.
 - [facebook/litho](https://github.com/facebook/litho) pushed_at:2021-08 star:7.2k fork:0.7k A declarative framework for building efficient UIs on Android.
 - [facebook/nailgun](https://github.com/facebook/nailgun) pushed_at:2021-08 star:0.7k fork:0.1k Nailgun is a client, protocol, and server for running Java programs from the command line without incurring the JVM startup overhead.
 - [facebook/robolectric](https://github.com/facebook/robolectric) pushed_at:2019-03 star:0.1k fork:0.0k Android Unit Testing Framework
 - [facebook/screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android) pushed_at:2021-08 star:1.6k fork:0.2k Generate fast deterministic screenshots during Android instrumentation tests
-- [facebook/shimmer-android](https://github.com/facebook/shimmer-android) pushed_at:2021-08 star:4.6k fork:0.6k An easy, flexible way to add a shimmering effect to any view in an Android app.
+- [facebook/shimmer-android](https://github.com/facebook/shimmer-android) pushed_at:2021-08 star:4.7k fork:0.6k An easy, flexible way to add a shimmering effect to any view in an Android app.
 - [facebook/SoLoader](https://github.com/facebook/SoLoader) pushed_at:2021-08 star:1.0k fork:0.1k Native code loader for Android
 - [facebook/stetho](https://github.com/facebook/stetho) pushed_at:2021-07 star:12.3k fork:1.1k Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 - [facebook/TextLayoutBuilder](https://github.com/facebook/TextLayoutBuilder) pushed_at:2021-01 star:1.4k fork:0.1k An Android library that allows you to build text layouts more easily.
 
 ## JavaScript
 
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) pushed_at:2021-08 star:89.6k fork:22.5k Set up a modern web app by running one command.
+- [facebook/create-react-app](https://github.com/facebook/create-react-app) pushed_at:2021-08 star:89.7k fork:22.6k Set up a modern web app by running one command.
 - [facebook/draft-js](https://github.com/facebook/draft-js) pushed_at:2021-08 star:20.7k fork:2.4k A React framework for building text editors.
 - [facebook/facebook-nodejs-business-sdk](https://github.com/facebook/facebook-nodejs-business-sdk) pushed_at:2021-08 star:0.3k fork:0.1k Facebook Ads API using Node.js
 - [facebook/fbjs](https://github.com/facebook/fbjs) pushed_at:2021-08 star:1.8k fork:0.3k A collection of utility libraries used by other Facebook JS projects.
@@ -114,8 +114,8 @@
 - [facebook/metro](https://github.com/facebook/metro) pushed_at:2021-08 star:4.1k fork:0.5k 🚇 The JavaScript bundler for React Native.
 - [facebook/prepack](https://github.com/facebook/prepack) pushed_at:2021-08 star:14.3k fork:0.5k A JavaScript bundle optimizer.
 - [facebook/prop-types](https://github.com/facebook/prop-types) pushed_at:2021-08 star:4.0k fork:0.3k Runtime type checking for React props and similar objects
-- [facebook/react](https://github.com/facebook/react) pushed_at:2021-08 star:172.8k fork:34.7k A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [facebook/react-native](https://github.com/facebook/react-native) pushed_at:2021-08 star:97.2k fork:21.1k A framework for building native apps with React.
+- [facebook/react](https://github.com/facebook/react) pushed_at:2021-08 star:173.2k fork:34.8k A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react-native](https://github.com/facebook/react-native) pushed_at:2021-08 star:97.3k fork:21.2k A framework for building native apps with React.
 - [facebook/react-native-website](https://github.com/facebook/react-native-website) pushed_at:2021-08 star:1.4k fork:3.6k The site and docs for React Native
 - [facebook/regenerator](https://github.com/facebook/regenerator) pushed_at:2021-08 star:3.6k fork:1.2k Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
 - [facebook/relay](https://github.com/facebook/relay) pushed_at:2021-08 star:15.9k fork:1.6k Relay is a JavaScript framework for building data-driven React applications.
@@ -159,19 +159,19 @@
 
 - [facebook/facebook-business-sdk-codegen](https://github.com/facebook/facebook-business-sdk-codegen) pushed_at:2021-08 star:0.0k fork:0.0k Codegen project for our business SDKs
 - [facebook/facebook-instant-articles-sdk-php](https://github.com/facebook/facebook-instant-articles-sdk-php) pushed_at:2021-05 star:0.2k fork:0.1k The Facebook Instant Articles SDK for PHP provides a native interface for creating and publishing Instant Articles.
-- [facebook/facebook-php-business-sdk](https://github.com/facebook/facebook-php-business-sdk) pushed_at:2021-07 star:0.6k fork:0.4k An SDK built to facilitate application development for Facebook Ads API.
+- [facebook/facebook-php-business-sdk](https://github.com/facebook/facebook-php-business-sdk) pushed_at:2021-08 star:0.6k fork:0.4k An SDK built to facilitate application development for Facebook Ads API.
 
 ## Python
 
 - [facebook/chisel](https://github.com/facebook/chisel) pushed_at:2021-04 star:8.6k fork:0.8k Chisel is a collection of LLDB commands to assist debugging iOS apps.
-- [facebook/facebook-python-business-sdk](https://github.com/facebook/facebook-python-business-sdk) pushed_at:2021-07 star:0.9k fork:0.6k An SDK built to facilitate application development for Facebook Ads API.
+- [facebook/facebook-python-business-sdk](https://github.com/facebook/facebook-python-business-sdk) pushed_at:2021-08 star:0.9k fork:0.6k An SDK built to facilitate application development for Facebook Ads API.
 - [facebook/FAI-PEP](https://github.com/facebook/FAI-PEP) pushed_at:2021-08 star:0.3k fork:0.1k Facebook AI Performance Evaluation Platform
 - [facebook/fbkutils](https://github.com/facebook/fbkutils) pushed_at:2021-07 star:0.3k fork:0.1k A variety of utilities built and maintained by Facebook's Linux Kernel Team that we wish to share with the community.
-- [facebook/fbtftp](https://github.com/facebook/fbtftp) pushed_at:2021-07 star:0.4k fork:0.1k fbtftp is Facebook's implementation of a dynamic TFTP server framework.
+- [facebook/fbtftp](https://github.com/facebook/fbtftp) pushed_at:2021-08 star:0.4k fork:0.1k fbtftp is Facebook's implementation of a dynamic TFTP server framework.
 - [facebook/fbzmq](https://github.com/facebook/fbzmq) pushed_at:2021-08 star:0.3k fork:0.1k Facebook ZeroMQ wrappers.
 - [facebook/mysqlclient-python](https://github.com/facebook/mysqlclient-python) pushed_at:2019-03 star:0.0k fork:0.0k MySQL database connector for Python (with Python 3 support)
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) pushed_at:2021-07 star:4.6k fork:0.3k PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
-- [facebook/pcicrawler](https://github.com/facebook/pcicrawler) pushed_at:2021-03 star:0.1k fork:0.0k pcicrawler is a Python based command line interface tool which can be used to display, filter and export information about PCI (Peripheral Component Interconnect) or PCIe buses and devices, as well as PCI topology.
+- [facebook/pcicrawler](https://github.com/facebook/pcicrawler) pushed_at:2021-08 star:0.1k fork:0.0k pcicrawler is a Python based command line interface tool which can be used to display, filter and export information about PCI (Peripheral Component Interconnect) or PCIe buses and devices, as well as PCI topology.
 - [facebook/prophet](https://github.com/facebook/prophet) pushed_at:2021-08 star:13.2k fork:3.8k Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [facebook/pyaib](https://github.com/facebook/pyaib) pushed_at:2020-02 star:0.3k fork:0.1k An easy to use Python Framework (that uses gevent) for writing IRC Bots.
 - [facebook/Recipes-for-AutoPkg](https://github.com/facebook/Recipes-for-AutoPkg) pushed_at:2021-08 star:0.1k fork:0.0k Collection of AutoPkg recipes authored at Facebook.
@@ -192,7 +192,7 @@
 
 ## TypeScript
 
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) pushed_at:2021-08 star:25.8k fork:3.4k Easy to maintain open source documentation websites.
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) pushed_at:2021-08 star:26.0k fork:3.4k Easy to maintain open source documentation websites.
 - [facebook/flipper](https://github.com/facebook/flipper) pushed_at:2021-08 star:8.8k fork:0.6k A desktop debugging platform for mobile developers.
 - [facebook/jest](https://github.com/facebook/jest) pushed_at:2021-08 star:36.1k fork:5.3k Delightful JavaScript Testing.
 - [facebook/remodel](https://github.com/facebook/remodel) pushed_at:2021-08 star:0.6k fork:0.1k Remodel is a tool that helps iOS and OS X developers avoid repetitive code by generating Objective-C models that support coding, value comparison, and immutability.

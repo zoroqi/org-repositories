@@ -49,7 +49,7 @@
 
 ## C
 
-- [elastic/ctags](https://github.com/elastic/ctags) pushed_at:2019-10 star:0.0k fork:0.0k A maintained ctags implementation
+- [elastic/ctags](https://github.com/elastic/ctags) pushed_at:2021-08 star:0.0k fork:0.0k A maintained ctags implementation
 - [elastic/dcart](https://github.com/elastic/dcart) pushed_at:2019-12 star:0.0k fork:0.0k DCART - Decoupled Components for Automated Ransomware Testing
 - [elastic/elasticsearch-sql-odbc](https://github.com/elastic/elasticsearch-sql-odbc) pushed_at:2021-08 star:0.0k fork:0.0k ODBC driver for Elasticsearch SQL
 - [elastic/node-ctags](https://github.com/elastic/node-ctags) pushed_at:2019-07 star:0.0k fork:0.0k Project no longer maintained.
@@ -62,7 +62,7 @@
 - [elastic/elastic-stack-installers](https://github.com/elastic/elastic-stack-installers) pushed_at:2021-08 star:0.0k fork:0.0k Windows MSI packages for Elastic stack
 - [elastic/elastic-transport-net](https://github.com/elastic/elastic-transport-net) pushed_at:2021-07 star:0.0k fork:0.0k Transport classes and utilities shared among .NET Elastic client libraries
 - [elastic/elasticsearch-net](https://github.com/elastic/elasticsearch-net) pushed_at:2021-08 star:3.1k fork:1.1k Elasticsearch.Net & NEST
-- [elastic/opbeans-dotnet](https://github.com/elastic/opbeans-dotnet) pushed_at:2021-07 star:0.0k fork:0.0k .NET backend app for Opbeans, the Elastic APM demo app
+- [elastic/opbeans-dotnet](https://github.com/elastic/opbeans-dotnet) pushed_at:2021-08 star:0.0k fork:0.0k .NET backend app for Opbeans, the Elastic APM demo app
 - [elastic/windows-installers](https://github.com/elastic/windows-installers) pushed_at:2021-08 star:0.1k fork:0.0k Windows installers for the Elastic stack
 
 ## C++
@@ -97,12 +97,12 @@
 - [elastic/apm-server](https://github.com/elastic/apm-server) pushed_at:2021-08 star:0.9k fork:0.3k APM Server
 - [elastic/apm-server-integration](https://github.com/elastic/apm-server-integration) pushed_at:2020-02 star:0.0k fork:0.0k experimental / POC
 - [elastic/aws-ami-share](https://github.com/elastic/aws-ami-share) pushed_at:2020-04 star:0.0k fork:0.0k Tool for sharing AWS AMIs across accounts
-- [elastic/beats](https://github.com/elastic/beats) pushed_at:2021-08 star:10.2k fork:4.0k :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
+- [elastic/beats](https://github.com/elastic/beats) pushed_at:2021-08 star:10.2k fork:4.1k :tropical_fish: Beats - Lightweight shippers for Elasticsearch & Logstash 
 - [elastic/cloud-on-k8s](https://github.com/elastic/cloud-on-k8s) pushed_at:2021-08 star:1.6k fork:0.4k Elastic Cloud on Kubernetes
 - [elastic/cloud-sdk-go](https://github.com/elastic/cloud-sdk-go) pushed_at:2021-08 star:0.0k fork:0.0k Go client library for Elastic Cloud and Elastic Cloud Enterprise (ECE)
 - [elastic/crd-ref-docs](https://github.com/elastic/crd-ref-docs) pushed_at:2021-03 star:0.0k fork:0.0k Generates Kubernetes CRD API reference documentation
 - [elastic/e2e-testing](https://github.com/elastic/e2e-testing) pushed_at:2021-08 star:0.0k fork:0.0k Formal verification of Metricbeat, Elastic-Agent and more using BDD
-- [elastic/ecctl](https://github.com/elastic/ecctl) pushed_at:2021-06 star:0.0k fork:0.0k Elastic Cloud Control, the official ESS and ECE command line interface
+- [elastic/ecctl](https://github.com/elastic/ecctl) pushed_at:2021-08 star:0.0k fork:0.0k Elastic Cloud Control, the official ESS and ECE command line interface
 - [elastic/ecs-logging-go-logrus](https://github.com/elastic/ecs-logging-go-logrus) pushed_at:2021-07 star:0.0k fork:0.0k Elastic Common Schema (ECS) support for logrus
 - [elastic/ecs-logging-go-zap](https://github.com/elastic/ecs-logging-go-zap) pushed_at:2021-07 star:0.0k fork:0.0k Logging encoder for ECS compatible logs using uber-go/zap
 - [elastic/ecs-logging-go-zerolog](https://github.com/elastic/ecs-logging-go-zerolog) pushed_at:2021-07 star:0.0k fork:0.0k Elastic Common Schema (ECS) support for zerolog.
@@ -111,9 +111,9 @@
 - [elastic/fleet-server](https://github.com/elastic/fleet-server) pushed_at:2021-08 star:0.0k fork:0.0k The Fleet server allows managing a fleet of Elastic Agents.
 - [elastic/fsevents](https://github.com/elastic/fsevents) pushed_at:2018-10 star:0.0k fork:0.0k macOS file system notifications for Go.
 - [elastic/gen-crd-api-reference-docs](https://github.com/elastic/gen-crd-api-reference-docs) pushed_at:2019-11 star:0.0k fork:0.0k API Reference Docs generator for Kubernetes CRDs, used by Knative, Kubeflow and others
-- [elastic/gmux](https://github.com/elastic/gmux) pushed_at:2021-03 star:0.0k fork:0.0k gmux supports serving net/http and grpc requests on a single port
+- [elastic/gmux](https://github.com/elastic/gmux) pushed_at:2021-08 star:0.0k fork:0.0k gmux supports serving net/http and grpc requests on a single port
 - [elastic/go-concert](https://github.com/elastic/go-concert) pushed_at:2021-07 star:0.0k fork:0.0k go-concert a is a library of  synchronization patterns when dealing with go-routines
-- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) pushed_at:2021-08 star:3.5k fork:0.4k The official Go client for Elasticsearch
+- [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) pushed_at:2021-08 star:3.6k fork:0.4k The official Go client for Elasticsearch
 - [elastic/go-fastjson](https://github.com/elastic/go-fastjson) pushed_at:2020-12 star:0.0k fork:0.0k Package fastjson provides a Go library and code generator for fast JSON encoding.
 - [elastic/go-hdrhistogram](https://github.com/elastic/go-hdrhistogram) pushed_at:2020-04 star:0.0k fork:0.0k A pure Go implementation of Gil Tene's HDR Histogram.
 - [elastic/go-langserver](https://github.com/elastic/go-langserver) pushed_at:2019-10 star:0.0k fork:0.0k [mirror] Go Tools
@@ -140,7 +140,7 @@
 - [elastic/hey-apm](https://github.com/elastic/hey-apm) pushed_at:2021-07 star:0.0k fork:0.0k Basic load generation for apm-server built on hey
 - [elastic/local-volume](https://github.com/elastic/local-volume) pushed_at:2019-12 star:0.0k fork:0.0k Local volume operator for Kubernetes
 - [elastic/logstash-forwarder](https://github.com/elastic/logstash-forwarder) pushed_at:2016-10 star:1.8k fork:0.4k An experiment to cut logs in preparation for processing elsewhere. Replaced by Filebeat: https://github.com/elastic/beats/tree/master/filebeat
-- [elastic/Machinebeat](https://github.com/elastic/Machinebeat) pushed_at:2021-06 star:0.0k fork:0.0k This is a beat for collecting data of machines, sensors and PLCs. At the moment this is supporting OPC UA and MQTT. More to add.
+- [elastic/Machinebeat](https://github.com/elastic/Machinebeat) pushed_at:2021-06 star:0.1k fork:0.0k This is a beat for collecting data of machines, sensors and PLCs. At the moment this is supporting OPC UA and MQTT. More to add.
 - [elastic/migrate-management-beats](https://github.com/elastic/migrate-management-beats) pushed_at:2019-04 star:0.0k fork:0.0k Migrate between Beats Central Management 6.6 and 6.7
 - [elastic/opbeans-go](https://github.com/elastic/opbeans-go) pushed_at:2021-08 star:0.0k fork:0.0k Opbeans Demo application for the Elastic APM Go agent
 - [elastic/package-registry](https://github.com/elastic/package-registry) pushed_at:2021-08 star:0.0k fork:0.0k Elastic Package Registry (EPR)
@@ -196,7 +196,7 @@
 - [elastic/code_examples_java-single-file](https://github.com/elastic/code_examples_java-single-file) pushed_at:2019-05 star:0.0k fork:0.0k 
 - [elastic/die-with-dignity-plugin](https://github.com/elastic/die-with-dignity-plugin) pushed_at:2021-03 star:0.0k fork:0.0k Elasticsearch plugin for causing cluster to die with dignity
 - [elastic/ecs-logging-java](https://github.com/elastic/ecs-logging-java) pushed_at:2021-07 star:0.1k fork:0.0k Centralized logging for Java applications with the Elastic stack made easy
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) pushed_at:2021-08 star:56.0k fork:20.4k Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) pushed_at:2021-08 star:56.1k fork:20.4k Free and Open, Distributed, RESTful Search Engine
 - [elastic/elasticsearch-eland-docs](https://github.com/elastic/elasticsearch-eland-docs) pushed_at:2020-10 star:0.0k fork:0.0k Elasticsearch Python client to analyse, explore and manipulate data
 - [elastic/elasticsearch-hadoop](https://github.com/elastic/elasticsearch-hadoop) pushed_at:2021-08 star:1.8k fork:0.9k  :elephant: Elasticsearch real-time search and analytics natively integrated with Hadoop
 - [elastic/elasticsearch-hdfs](https://github.com/elastic/elasticsearch-hdfs) pushed_at:2020-02 star:0.1k fork:0.0k Hadoop Plugin for ElasticSearch
@@ -273,7 +273,7 @@
 - [elastic/good](https://github.com/elastic/good) pushed_at:2020-12 star:0.0k fork:0.0k THIS FORK IS ONLY INTENDED TO BE USED IN KIBANA
 - [elastic/grunt-esvm](https://github.com/elastic/grunt-esvm) pushed_at:2018-01 star:0.0k fork:0.0k Create elasticsearch clusters from grunt.
 - [elastic/httpolyglot](https://github.com/elastic/httpolyglot) pushed_at:2017-02 star:0.0k fork:0.0k Serve http and https connections over the same port with node.js
-- [elastic/issue-crawler](https://github.com/elastic/issue-crawler) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [elastic/issue-crawler](https://github.com/elastic/issue-crawler) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [elastic/jasper](https://github.com/elastic/jasper) pushed_at:2016-10 star:0.0k fork:0.0k Jasper is a robot to automate common workflows at Elastic.
 - [elastic/kibana-code-analysis](https://github.com/elastic/kibana-code-analysis) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [elastic/kibana-executor-service](https://github.com/elastic/kibana-executor-service) pushed_at:2016-02 star:0.0k fork:0.0k A periodical executor service for Kibana
@@ -303,7 +303,7 @@
 - [elastic/phoenix](https://github.com/elastic/phoenix) pushed_at:2015-12 star:0.0k fork:0.0k D3 Charting library
 - [elastic/rekcod](https://github.com/elastic/rekcod) pushed_at:2019-01 star:0.0k fork:0.0k docker inspect :mag: → docker run :runner:
 - [elastic/require-in-the-middle](https://github.com/elastic/require-in-the-middle) pushed_at:2020-12 star:0.1k fork:0.0k Module to hook into the Node.js require function
-- [elastic/search-ui](https://github.com/elastic/search-ui) pushed_at:2021-07 star:1.4k fork:0.2k Search UI. Libraries for the fast development of modern, engaging search experiences.
+- [elastic/search-ui](https://github.com/elastic/search-ui) pushed_at:2021-08 star:1.4k fork:0.2k Search UI. Libraries for the fast development of modern, engaging search experiences.
 - [elastic/sense](https://github.com/elastic/sense) pushed_at:2019-01 star:0.4k fork:0.1k A JSON aware developer's interface to Elasticsearch. Comes with handy machinery such as syntax highlighting, autocomplete, formatting and code folding.
 - [elastic/set-cookie-serde](https://github.com/elastic/set-cookie-serde) pushed_at:2018-08 star:0.0k fork:0.0k Serialize and deserialize set-cookie headers
 - [elastic/simple-git](https://github.com/elastic/simple-git) pushed_at:2019-10 star:0.0k fork:0.0k Project no longer maintained.
@@ -338,7 +338,7 @@
 ## Jupyter Notebook
 
 - [elastic/ember](https://github.com/elastic/ember) pushed_at:2021-08 star:0.6k fork:0.2k 
-- [elastic/examples](https://github.com/elastic/examples) pushed_at:2021-07 star:2.4k fork:1.1k Home for Elasticsearch examples available to everyone. It's a great way to get started.
+- [elastic/examples](https://github.com/elastic/examples) pushed_at:2021-08 star:2.4k fork:1.1k Home for Elasticsearch examples available to everyone. It's a great way to get started.
 
 ## Makefile
 
@@ -408,7 +408,6 @@
 - [elastic/logstash-ruby-scripts](https://github.com/elastic/logstash-ruby-scripts) pushed_at:2020-11 star:0.0k fork:0.0k Collection of ruby scripts for Logstash's Ruby filter plugin
 - [elastic/metrics](https://github.com/elastic/metrics) pushed_at:2020-02 star:0.0k fork:0.0k This project includes resources and general issue tracking for Elastic Infrastructure Monitoring
 - [elastic/natural-earth-vector](https://github.com/elastic/natural-earth-vector) pushed_at:2020-10 star:0.0k fork:0.0k A global, public domain map dataset available at three scales and featuring tightly integrated vector and raster data.
-- [elastic/observability-design](https://github.com/elastic/observability-design) pushed_at:2021-08 star:0.0k fork:0.0k This repository manages the work of the observability design team
 - [elastic/observability-docs](https://github.com/elastic/observability-docs) pushed_at:2021-08 star:0.0k fork:0.1k Elastic Observability Documentation
 - [elastic/opentelemetry-swift](https://github.com/elastic/opentelemetry-swift) pushed_at:2021-06 star:0.0k fork:0.0k OpenTelemetry API for Swift
 - [elastic/osm-bright-gl-style](https://github.com/elastic/osm-bright-gl-style) pushed_at:2021-03 star:0.0k fork:0.0k OSM Bright GL Style using OpenMapTiles
@@ -419,6 +418,7 @@
 - [elastic/sublime-elastic](https://github.com/elastic/sublime-elastic) pushed_at:2018-08 star:0.0k fork:0.0k Sublime Text 3 snippets, syntax, completions for Elastic product text files.
 - [elastic/test-d](https://github.com/elastic/test-d) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [elastic/uptime](https://github.com/elastic/uptime) pushed_at:2020-02 star:0.0k fork:0.0k This project includes resources and general issue tracking for the Elastic Uptime solution
+- [elastic/workplace-search-sharepoint16-connector](https://github.com/elastic/workplace-search-sharepoint16-connector) pushed_at:2021-08 star:0.0k fork:0.0k Workplace Search SharePoint Server 2016 Connector
 - [elastic/wrk](https://github.com/elastic/wrk) pushed_at:2021-04 star:0.0k fork:0.0k Modern HTTP benchmarking tool
 - [elastic/zenhub-demo](https://github.com/elastic/zenhub-demo) pushed_at:2018-05 star:0.0k fork:0.0k A repo for demo-ing zenhub
 
@@ -486,7 +486,7 @@
 - [elastic/ent-search-examples](https://github.com/elastic/ent-search-examples) pushed_at:2021-06 star:0.0k fork:0.0k Enterprise Search Datasets
 - [elastic/enterprise-search-python](https://github.com/elastic/enterprise-search-python) pushed_at:2021-08 star:0.0k fork:0.0k Official Python client for Elastic Enterprise Search, App Search, and Workplace Search
 - [elastic/Example-Watches](https://github.com/elastic/Example-Watches) pushed_at:2016-11 star:0.0k fork:0.0k 
-- [elastic/filebeat-anomali-integrator-sdk](https://github.com/elastic/filebeat-anomali-integrator-sdk) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [elastic/filebeat-anomali-integrator-sdk](https://github.com/elastic/filebeat-anomali-integrator-sdk) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [elastic/helm-charts](https://github.com/elastic/helm-charts) pushed_at:2021-08 star:1.3k fork:1.2k You know, for Kubernetes
 - [elastic/kibana-docker](https://github.com/elastic/kibana-docker) pushed_at:2019-06 star:0.2k fork:0.1k Official Kibana Docker image
 - [elastic/kibana-ubuntu-base](https://github.com/elastic/kibana-ubuntu-base) pushed_at:2019-07 star:0.0k fork:0.0k Base Ubuntu Linux image used by Kibana docker images
@@ -497,7 +497,7 @@
 - [elastic/opbeans-flask](https://github.com/elastic/opbeans-flask) pushed_at:2020-07 star:0.0k fork:0.0k A flask implementation of the Opbeans test app for Elastic APM
 - [elastic/opbeans-loadgen](https://github.com/elastic/opbeans-loadgen) pushed_at:2021-02 star:0.0k fork:0.0k Load generator for Opbeans demo apps
 - [elastic/opbeans-python](https://github.com/elastic/opbeans-python) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [elastic/packerlicious](https://github.com/elastic/packerlicious) pushed_at:2021-01 star:0.0k fork:0.0k use python to make hashicorp packer templates
+- [elastic/packerlicious](https://github.com/elastic/packerlicious) pushed_at:2021-08 star:0.0k fork:0.0k use python to make hashicorp packer templates
 - [elastic/painless-data-science-examples](https://github.com/elastic/painless-data-science-examples) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [elastic/pycon-2021-workshop-app-search](https://github.com/elastic/pycon-2021-workshop-app-search) pushed_at:2021-05 star:0.0k fork:0.0k Searchable Django Applications with Elastic App Search
 - [elastic/rally](https://github.com/elastic/rally) pushed_at:2021-08 star:1.4k fork:0.2k Macrobenchmarking framework for Elasticsearch
@@ -543,7 +543,7 @@
 - [elastic/opbeans-ruby](https://github.com/elastic/opbeans-ruby) pushed_at:2021-08 star:0.0k fork:0.0k A demo project using the Ruby APM agent
 - [elastic/puppet-beats](https://github.com/elastic/puppet-beats) pushed_at:2020-09 star:0.0k fork:0.0k Project no longer maintained.
 - [elastic/puppet-elastic-stack](https://github.com/elastic/puppet-elastic-stack) pushed_at:2021-02 star:0.0k fork:0.0k 
-- [elastic/puppet-elasticsearch](https://github.com/elastic/puppet-elasticsearch) pushed_at:2021-06 star:0.4k fork:0.5k Elasticsearch Puppet module
+- [elastic/puppet-elasticsearch](https://github.com/elastic/puppet-elasticsearch) pushed_at:2021-08 star:0.4k fork:0.5k Elasticsearch Puppet module
 - [elastic/puppet-kibana](https://github.com/elastic/puppet-kibana) pushed_at:2021-06 star:0.0k fork:0.0k Kibana Puppet module by Elastic.
 - [elastic/puppet-logstash](https://github.com/elastic/puppet-logstash) pushed_at:2021-07 star:0.2k fork:0.3k Puppet module to manage Logstash
 - [elastic/puppet-logstash-reporter](https://github.com/elastic/puppet-logstash-reporter) pushed_at:2018-10 star:0.1k fork:0.0k Reports logs and metrics from Puppet to Logstash
@@ -562,7 +562,7 @@
 
 ## SCSS
 
-- [elastic/seattle-indies-expo-search](https://github.com/elastic/seattle-indies-expo-search) pushed_at:2020-09 star:0.0k fork:0.0k An experimental demo in implementing Swiftype's Search UI and App Search for an indie video game festival.
+- [elastic/seattle-indies-expo-search](https://github.com/elastic/seattle-indies-expo-search) pushed_at:2021-08 star:0.0k fork:0.0k An experimental demo in implementing Swiftype's Search UI and App Search for an indie video game festival.
 
 ## Scala
 
