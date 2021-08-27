@@ -34,7 +34,7 @@
 
 - [baidu/AnyQ](https://github.com/baidu/AnyQ) pushed_at:2020-11 star:2.3k fork:0.6k FAQ-based Question Answering System
 - [baidu/BaikalDB](https://github.com/baidu/BaikalDB) pushed_at:2021-07 star:0.8k fork:0.1k BaikalDB, A Distributed HTAP Database.
-- [baidu/bfs](https://github.com/baidu/bfs) pushed_at:2018-12 star:2.7k fork:0.6k The Baidu File System.
+- [baidu/bfs](https://github.com/baidu/bfs) pushed_at:2018-12 star:2.8k fork:0.6k The Baidu File System.
 - [baidu/bigflow](https://github.com/baidu/bigflow) pushed_at:2020-10 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [baidu/boteye](https://github.com/baidu/boteye) pushed_at:2019-04 star:0.2k fork:0.1k 
 - [baidu/boteye_driver](https://github.com/baidu/boteye_driver) pushed_at:2018-11 star:0.0k fork:0.0k 
@@ -111,7 +111,7 @@
 
 ## Others
 
-- [baidu/bfe-book](https://github.com/baidu/bfe-book) pushed_at:2021-07 star:0.7k fork:0.1k 《深入理解BFE》（Book for opensource project BFE, in Chinese）
+- [baidu/bfe-book](https://github.com/baidu/bfe-book) pushed_at:2021-07 star:0.8k fork:0.1k 《深入理解BFE》（Book for opensource project BFE, in Chinese）
 - [baidu/cppcheck](https://github.com/baidu/cppcheck) pushed_at:2019-12 star:0.0k fork:0.0k static analysis of C/C++ code
 - [baidu/iot](https://github.com/baidu/iot) pushed_at:2016-09 star:0.0k fork:0.0k for all code about Internet of Things
 - [baidu/ITEST](https://github.com/baidu/ITEST) pushed_at:2013-11 star:0.1k fork:0.1k Web service interface test framework
@@ -129,7 +129,7 @@
 - [baidu/ARK](https://github.com/baidu/ARK) pushed_at:2021-05 star:0.1k fork:0.0k Development framework of intelligent operation
 - [baidu/broc](https://github.com/baidu/broc) pushed_at:2017-12 star:0.1k fork:0.1k 
 - [baidu/CUP](https://github.com/baidu/CUP) pushed_at:2021-07 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
-- [baidu/DDParser](https://github.com/baidu/DDParser) pushed_at:2021-07 star:0.6k fork:0.1k 百度开源的依存句法分析系统
+- [baidu/DDParser](https://github.com/baidu/DDParser) pushed_at:2021-07 star:0.7k fork:0.1k 百度开源的依存句法分析系统
 - [baidu/Dialogue](https://github.com/baidu/Dialogue) pushed_at:2020-01 star:0.4k fork:0.1k 
 - [baidu/duedge-cli](https://github.com/baidu/duedge-cli) pushed_at:2020-03 star:0.0k fork:0.0k DuEdge Command Line
 - [baidu/DuReader](https://github.com/baidu/DuReader) pushed_at:2021-08 star:0.8k fork:0.3k Baseline Systems of DuReader Dataset
@@ -146,7 +146,7 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-08 star:7.7k fork:1.0k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-08 star:7.8k fork:1.0k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) pushed_at:2021-07 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) pushed_at:2021-08 star:0.0k fork:0.0k San SSR framework and utils
 

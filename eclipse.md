@@ -17,11 +17,11 @@
 - [Go](#go) (8)
 - [Groovy](#groovy) (2)
 - [HTML](#html) (14)
-- [Java](#java) (218)
+- [Java](#java) (219)
 - [JavaScript](#javascript) (17)
 - [Kotlin](#kotlin) (4)
 - [Makefile](#makefile) (1)
-- [Others](#others) (64)
+- [Others](#others) (63)
 - [PHP](#php) (2)
 - [PostScript](#postscript) (1)
 - [Python](#python) (7)
@@ -44,9 +44,9 @@
 
 - [eclipse/mosquitto](https://github.com/eclipse/mosquitto) pushed_at:2021-08 star:5.0k fork:1.7k Eclipse Mosquitto - An open source MQTT broker
 - [eclipse/mosquitto.rsmb](https://github.com/eclipse/mosquitto.rsmb) pushed_at:2021-05 star:0.1k fork:0.0k Mosquitto rsmb
-- [eclipse/mraa](https://github.com/eclipse/mraa) pushed_at:2021-07 star:1.2k fork:0.6k Linux Library for low speed IO Communication in C with bindings for C++, Python, Node.js & Java. Supports generic io platforms, as well as Intel Edison, Intel Joule, Raspberry Pi and many more.
+- [eclipse/mraa](https://github.com/eclipse/mraa) pushed_at:2021-08 star:1.2k fork:0.6k Linux Library for low speed IO Communication in C with bindings for C++, Python, Node.js & Java. Supports generic io platforms, as well as Intel Edison, Intel Joule, Raspberry Pi and many more.
 - [eclipse/paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) pushed_at:2021-08 star:1.2k fork:0.8k An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
-- [eclipse/paho.mqtt.embedded-c](https://github.com/eclipse/paho.mqtt.embedded-c) pushed_at:2021-07 star:0.9k fork:0.6k Paho MQTT C client library for embedded systems.  Paho is an Eclipse IoT project (https://iot.eclipse.org/)
+- [eclipse/paho.mqtt.embedded-c](https://github.com/eclipse/paho.mqtt.embedded-c) pushed_at:2021-08 star:1.0k fork:0.6k Paho MQTT C client library for embedded systems.  Paho is an Eclipse IoT project (https://iot.eclipse.org/)
 - [eclipse/tinydtls](https://github.com/eclipse/tinydtls) pushed_at:2021-08 star:0.0k fork:0.0k Eclipse tinydtls
 - [eclipse/titan.ProtocolModules.HTTP2.0](https://github.com/eclipse/titan.ProtocolModules.HTTP2.0) pushed_at:2021-04 star:0.0k fork:0.0k Titan ProtocolModules HTTP2.0
 - [eclipse/titan.ProtocolModules.ICAP](https://github.com/eclipse/titan.ProtocolModules.ICAP) pushed_at:2021-04 star:0.0k fork:0.0k Titan ProtocolModules ICAP
@@ -54,7 +54,7 @@
 - [eclipse/titan.ProtocolModules.MSRP](https://github.com/eclipse/titan.ProtocolModules.MSRP) pushed_at:2021-04 star:0.0k fork:0.0k Titan ProtocolModules MSRP
 - [eclipse/titan.TestPorts.SIPmsg](https://github.com/eclipse/titan.TestPorts.SIPmsg) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [eclipse/titan.TestPorts.SQLasp](https://github.com/eclipse/titan.TestPorts.SQLasp) pushed_at:2021-04 star:0.0k fork:0.0k 
-- [eclipse/wakaama](https://github.com/eclipse/wakaama) pushed_at:2021-07 star:0.4k fork:0.3k Eclipse Wakaama is a C implementation of the Open Mobile Alliance's LightWeight M2M protocol (LWM2M).
+- [eclipse/wakaama](https://github.com/eclipse/wakaama) pushed_at:2021-08 star:0.4k fork:0.3k Eclipse Wakaama is a C implementation of the Open Mobile Alliance's LightWeight M2M protocol (LWM2M).
 
 ## C#
 
@@ -222,8 +222,8 @@
 - [eclipse/dartboard](https://github.com/eclipse/dartboard) pushed_at:2020-11 star:0.1k fork:0.0k Dart Plugin for Eclipse
 - [eclipse/dash-licenses](https://github.com/eclipse/dash-licenses) pushed_at:2021-08 star:0.0k fork:0.0k Extract license information from content.
 - [eclipse/dawnsci](https://github.com/eclipse/dawnsci) pushed_at:2019-11 star:0.0k fork:0.0k Eclipse DAWNSci™ project
-- [eclipse/deeplearning4j](https://github.com/eclipse/deeplearning4j) pushed_at:2021-08 star:12.1k fork:4.9k Model import deployment framework for retraining models (pytorch, tensorflow,keras) deploying in JVM Micro service environments, mobile devices, iot, and Apache Spark
-- [eclipse/deeplearning4j-examples](https://github.com/eclipse/deeplearning4j-examples) pushed_at:2021-07 star:2.2k fork:1.8k Deeplearning4j Examples (DL4J, DL4J Spark, DataVec)
+- [eclipse/deeplearning4j](https://github.com/eclipse/deeplearning4j) pushed_at:2021-08 star:12.2k fork:4.9k Model import deployment framework for retraining models (pytorch, tensorflow,keras) deploying in JVM Micro service environments, mobile devices, iot, and Apache Spark
+- [eclipse/deeplearning4j-examples](https://github.com/eclipse/deeplearning4j-examples) pushed_at:2021-08 star:2.2k fork:1.8k Deeplearning4j Examples (DL4J, DL4J Spark, DataVec)
 - [eclipse/ditto](https://github.com/eclipse/ditto) pushed_at:2021-08 star:0.3k fork:0.1k Eclipse Ditto™ Project
 - [eclipse/ditto-clients](https://github.com/eclipse/ditto-clients) pushed_at:2021-08 star:0.0k fork:0.0k Client SDKs for the Eclipse Ditto Project https://eclipse.org/ditto/
 - [eclipse/ditto-examples](https://github.com/eclipse/ditto-examples) pushed_at:2021-07 star:0.0k fork:0.0k Ditto Examples
@@ -280,6 +280,7 @@
 - [eclipse/keyple-distributed-remote-java-lib](https://github.com/eclipse/keyple-distributed-remote-java-lib) pushed_at:2021-08 star:0.0k fork:0.0k Eclipse Keyple™ Project: distributed remote plugin API for end users
 - [eclipse/keyple-integration-java-test](https://github.com/eclipse/keyple-integration-java-test) pushed_at:2021-08 star:0.0k fork:0.0k keyple-integration-java-test
 - [eclipse/keyple-java](https://github.com/eclipse/keyple-java) pushed_at:2021-01 star:0.0k fork:0.0k Eclipse Keyple™ Project: all components of the Java implementation until version 1.0.0
+- [eclipse/keyple-java-example](https://github.com/eclipse/keyple-java-example) pushed_at:2021-08 star:0.0k fork:0.0k keyple-java-example
 - [eclipse/keyple-plugin-java-api](https://github.com/eclipse/keyple-plugin-java-api) pushed_at:2021-08 star:0.0k fork:0.0k Eclipse Keyple™ Project: API for plugin developers
 - [eclipse/keyple-plugin-pcsc-java-lib](https://github.com/eclipse/keyple-plugin-pcsc-java-lib) pushed_at:2021-08 star:0.0k fork:0.0k Eclipse Keyple™ Project: PC/SC plugin API for end users
 - [eclipse/keyple-plugin-stub-java-lib](https://github.com/eclipse/keyple-plugin-stub-java-lib) pushed_at:2021-08 star:0.0k fork:0.0k Eclipse Keyple™ Project: stub plugin API for end users
@@ -307,24 +308,24 @@
 - [eclipse/lyo.domains](https://github.com/eclipse/lyo.domains) pushed_at:2020-12 star:0.0k fork:0.0k POJOs that implement resources in OSLC domains
 - [eclipse/lyo.ldp](https://github.com/eclipse/lyo.ldp) pushed_at:2021-06 star:0.0k fork:0.0k lyo.ldp
 - [eclipse/lyo.rio](https://github.com/eclipse/lyo.rio) pushed_at:2021-08 star:0.0k fork:0.0k Lyo project repository (lyo.rio)
-- [eclipse/lyo.server](https://github.com/eclipse/lyo.server) pushed_at:2021-06 star:0.0k fork:0.0k Lyo project repository (lyo.server)
+- [eclipse/lyo.server](https://github.com/eclipse/lyo.server) pushed_at:2021-08 star:0.0k fork:0.0k Lyo project repository (lyo.server)
 - [eclipse/lyo.store](https://github.com/eclipse/lyo.store) pushed_at:2021-06 star:0.0k fork:0.0k lyo-store
-- [eclipse/lyo.trs-client](https://github.com/eclipse/lyo.trs-client) pushed_at:2021-06 star:0.0k fork:0.0k 
-- [eclipse/lyo.trs-server](https://github.com/eclipse/lyo.trs-server) pushed_at:2021-03 star:0.0k fork:0.0k 
+- [eclipse/lyo.trs-client](https://github.com/eclipse/lyo.trs-client) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [eclipse/lyo.trs-server](https://github.com/eclipse/lyo.trs-server) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [eclipse/lyo.validation](https://github.com/eclipse/lyo.validation) pushed_at:2020-12 star:0.0k fork:0.0k lyo validation
 - [eclipse/microprofile](https://github.com/eclipse/microprofile) pushed_at:2021-07 star:0.5k fork:0.1k Repository for important documentation - the index to the project / community
 - [eclipse/microprofile-conference](https://github.com/eclipse/microprofile-conference) pushed_at:2021-06 star:0.1k fork:0.1k Microprofile.io Demo Code - Web Services Conference Application
 - [eclipse/microprofile-config](https://github.com/eclipse/microprofile-config) pushed_at:2021-08 star:0.2k fork:0.1k MicroProfile Configuration Feature
 - [eclipse/microprofile-context-propagation](https://github.com/eclipse/microprofile-context-propagation) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [eclipse/microprofile-fault-tolerance](https://github.com/eclipse/microprofile-fault-tolerance) pushed_at:2021-07 star:0.1k fork:0.1k microprofile fault tolerance
+- [eclipse/microprofile-fault-tolerance](https://github.com/eclipse/microprofile-fault-tolerance) pushed_at:2021-08 star:0.1k fork:0.1k microprofile fault tolerance
 - [eclipse/microprofile-graphql](https://github.com/eclipse/microprofile-graphql) pushed_at:2021-08 star:0.1k fork:0.0k microprofile-graphql
-- [eclipse/microprofile-health](https://github.com/eclipse/microprofile-health) pushed_at:2021-07 star:0.1k fork:0.1k microprofile-health
+- [eclipse/microprofile-health](https://github.com/eclipse/microprofile-health) pushed_at:2021-08 star:0.1k fork:0.1k microprofile-health
 - [eclipse/microprofile-jwt-auth](https://github.com/eclipse/microprofile-jwt-auth) pushed_at:2021-08 star:0.1k fork:0.1k 
 - [eclipse/microprofile-lra](https://github.com/eclipse/microprofile-lra) pushed_at:2021-04 star:0.1k fork:0.0k microprofile-lra
 - [eclipse/microprofile-metrics](https://github.com/eclipse/microprofile-metrics) pushed_at:2021-08 star:0.1k fork:0.1k microprofile-metrics
 - [eclipse/microprofile-open-api](https://github.com/eclipse/microprofile-open-api) pushed_at:2021-08 star:0.1k fork:0.1k Microprofile open api
 - [eclipse/microprofile-opentracing](https://github.com/eclipse/microprofile-opentracing) pushed_at:2021-08 star:0.1k fork:0.0k microprofile-opentracing
-- [eclipse/microprofile-reactive-messaging](https://github.com/eclipse/microprofile-reactive-messaging) pushed_at:2021-07 star:0.0k fork:0.0k 
+- [eclipse/microprofile-reactive-messaging](https://github.com/eclipse/microprofile-reactive-messaging) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [eclipse/microprofile-reactive-streams-operators](https://github.com/eclipse/microprofile-reactive-streams-operators) pushed_at:2021-06 star:0.1k fork:0.0k Microprofile project
 - [eclipse/microprofile-rest-client](https://github.com/eclipse/microprofile-rest-client) pushed_at:2021-08 star:0.1k fork:0.1k MicroProfile Rest Client
 - [eclipse/microprofile-samples](https://github.com/eclipse/microprofile-samples) pushed_at:2018-08 star:0.1k fork:0.1k Micro Profile Samples
@@ -332,7 +333,7 @@
 - [eclipse/microprofile-service-mesh-service-a](https://github.com/eclipse/microprofile-service-mesh-service-a) pushed_at:2020-10 star:0.0k fork:0.0k microprofile-service-mesh-service-a
 - [eclipse/microprofile-service-mesh-service-b](https://github.com/eclipse/microprofile-service-mesh-service-b) pushed_at:2020-10 star:0.0k fork:0.0k microprofile-service-mesh-service-b
 - [eclipse/microprofile-starter](https://github.com/eclipse/microprofile-starter) pushed_at:2021-08 star:0.1k fork:0.0k MicroProfile project generator source code
-- [eclipse/milo](https://github.com/eclipse/milo) pushed_at:2021-08 star:0.6k fork:0.3k  Eclipse Milo™ - an open source implementation of OPC UA (IEC 62541).
+- [eclipse/milo](https://github.com/eclipse/milo) pushed_at:2021-08 star:0.7k fork:0.3k  Eclipse Milo™ - an open source implementation of OPC UA (IEC 62541).
 - [eclipse/mosaic](https://github.com/eclipse/mosaic) pushed_at:2021-08 star:0.0k fork:0.0k Eclipse MOSAIC is a Multi-Domain and Multi-Scale Simulation Framework for Automated and Connected Mobility Scenarios.
 - [eclipse/mwe](https://github.com/eclipse/mwe) pushed_at:2021-08 star:0.0k fork:0.0k Modeling Workflow Engine project repository (mwe)
 - [eclipse/n4js](https://github.com/eclipse/n4js) pushed_at:2021-08 star:0.0k fork:0.0k 
@@ -352,9 +353,9 @@
 - [eclipse/org.eclipse.riena.toolbox](https://github.com/eclipse/org.eclipse.riena.toolbox) pushed_at:2018-05 star:0.0k fork:0.0k org.eclipse.riena.toolbox
 - [eclipse/orion.server](https://github.com/eclipse/orion.server) pushed_at:2020-03 star:0.0k fork:0.0k The Orion Java Server, "Your IDE in the Cloud" 
 - [eclipse/packager](https://github.com/eclipse/packager) pushed_at:2021-08 star:0.0k fork:0.0k Eclipse Packager project
-- [eclipse/paho.mqtt-spy](https://github.com/eclipse/paho.mqtt-spy) pushed_at:2021-08 star:0.5k fork:0.1k mqtt-spy is an open source desktop & command line utility intended to help you with monitoring activity on MQTT topics
+- [eclipse/paho.mqtt-spy](https://github.com/eclipse/paho.mqtt-spy) pushed_at:2021-08 star:0.6k fork:0.1k mqtt-spy is an open source desktop & command line utility intended to help you with monitoring activity on MQTT topics
 - [eclipse/paho.mqtt.android](https://github.com/eclipse/paho.mqtt.android) pushed_at:2021-06 star:2.3k fork:0.7k MQTT Android
-- [eclipse/paho.mqtt.java](https://github.com/eclipse/paho.mqtt.java) pushed_at:2021-07 star:1.6k fork:0.7k Eclipse Paho Java MQTT client library.  Paho is an Eclipse IoT project.
+- [eclipse/paho.mqtt.java](https://github.com/eclipse/paho.mqtt.java) pushed_at:2021-08 star:1.6k fork:0.7k Eclipse Paho Java MQTT client library.  Paho is an Eclipse IoT project.
 - [eclipse/rdf4j](https://github.com/eclipse/rdf4j) pushed_at:2021-08 star:0.3k fork:0.1k Eclipse RDF4J: scalable RDF for Java
 - [eclipse/rdf4j-storage](https://github.com/eclipse/rdf4j-storage) pushed_at:2020-02 star:0.0k fork:0.0k RDF4J Storage Library
 - [eclipse/rdf4j-testsuite](https://github.com/eclipse/rdf4j-testsuite) pushed_at:2019-10 star:0.0k fork:0.0k RDF4J Testsuites and Benchmarks
@@ -378,7 +379,7 @@
 - [eclipse/tiaki-java](https://github.com/eclipse/tiaki-java) pushed_at:2015-12 star:0.0k fork:0.0k Tiaki Java projects
 - [eclipse/titan.EclipsePlug-ins](https://github.com/eclipse/titan.EclipsePlug-ins) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [eclipse/tm4e](https://github.com/eclipse/tm4e) pushed_at:2021-02 star:0.0k fork:0.0k TextMate support in Eclipse IDE
-- [eclipse/tractusx](https://github.com/eclipse/tractusx) pushed_at:2021-07 star:0.0k fork:0.0k PoC for Catena-X
+- [eclipse/tractusx](https://github.com/eclipse/tractusx) pushed_at:2021-08 star:0.0k fork:0.0k PoC for Catena-X
 - [eclipse/transformer](https://github.com/eclipse/transformer) pushed_at:2021-08 star:0.0k fork:0.0k Eclipse Transformer provides tools and runtime components that transform Java binaries, such as individual class files and complete JARs and WARs, mapping changes to Java packages, type names, and related resource names.
 - [eclipse/triquetrum](https://github.com/eclipse/triquetrum) pushed_at:2020-11 star:0.0k fork:0.0k Triquetrum project
 - [eclipse/tycho](https://github.com/eclipse/tycho) pushed_at:2021-08 star:0.1k fork:0.1k Tycho project repository (tycho)
@@ -457,7 +458,6 @@
 - [eclipse/jetty.parent](https://github.com/eclipse/jetty.parent) pushed_at:2016-06 star:0.0k fork:0.0k Eclipse Jetty® - Servlet Engine and Http Server project repository (jetty.parent)
 - [eclipse/jnosql-parent](https://github.com/eclipse/jnosql-parent) pushed_at:2019-02 star:0.0k fork:0.0k 
 - [eclipse/keyple](https://github.com/eclipse/keyple) pushed_at:2021-06 star:0.0k fork:0.0k keyple project
-- [eclipse/keyple-java-example](https://github.com/eclipse/keyple-java-example) pushed_at:2021-08 star:0.0k fork:0.0k keyple-java-example
 - [eclipse/kuksa.hardware](https://github.com/eclipse/kuksa.hardware) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [eclipse/kura-apps](https://github.com/eclipse/kura-apps) pushed_at:2016-04 star:0.0k fork:0.0k 
 - [eclipse/microprofile-bom](https://github.com/eclipse/microprofile-bom) pushed_at:2018-10 star:0.0k fork:0.0k 
@@ -571,7 +571,7 @@
 - [eclipse/codewind-node-profiler](https://github.com/eclipse/codewind-node-profiler) pushed_at:2020-07 star:0.0k fork:0.0k Provides automatic code highlighting of 'hot' node.js methods
 - [eclipse/codewind-openapi-vscode](https://github.com/eclipse/codewind-openapi-vscode) pushed_at:2021-08 star:0.0k fork:0.0k Extension for using OpenAPI Tools in VS Code
 - [eclipse/codewind-vscode](https://github.com/eclipse/codewind-vscode) pushed_at:2021-08 star:0.0k fork:0.0k Extension for developing cloud-native, containerized applications from VS Code
-- [eclipse/lyo.oslc-ui](https://github.com/eclipse/lyo.oslc-ui) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [eclipse/lyo.oslc-ui](https://github.com/eclipse/lyo.oslc-ui) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [eclipse/sprotty](https://github.com/eclipse/sprotty) pushed_at:2021-08 star:0.3k fork:0.1k A diagramming framework for the web
 - [eclipse/sprotty-layout](https://github.com/eclipse/sprotty-layout) pushed_at:2021-08 star:0.0k fork:0.0k Client-side automatic layout for the Sprotty diagramming framework
 - [eclipse/sprotty-theia](https://github.com/eclipse/sprotty-theia) pushed_at:2021-08 star:0.0k fork:0.0k Integration of Sprotty diagrams into Theia IDE
@@ -588,7 +588,7 @@
 
 ## Xtend
 
-- [eclipse/mita](https://github.com/eclipse/mita) pushed_at:2021-06 star:0.1k fork:0.0k mita
+- [eclipse/mita](https://github.com/eclipse/mita) pushed_at:2021-08 star:0.1k fork:0.0k mita
 - [eclipse/sprotty-server](https://github.com/eclipse/sprotty-server) pushed_at:2020-08 star:0.0k fork:0.0k Server implementation for the Sprotty diagramming framework
 
 

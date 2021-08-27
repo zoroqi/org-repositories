@@ -76,10 +76,10 @@
 - [spring-projects/spring-analytics](https://github.com/spring-projects/spring-analytics) pushed_at:2020-02 star:0.0k fork:0.0k Common libraries for adding 'nosql' style analytics to your application
 - [spring-projects/spring-android](https://github.com/spring-projects/spring-android) pushed_at:2021-04 star:0.7k fork:0.3k Support for Spring's RestTemplate within native Android applications
 - [spring-projects/spring-android-samples](https://github.com/spring-projects/spring-android-samples) pushed_at:2021-01 star:0.8k fork:0.5k Spring for Android Sample Applications
-- [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) pushed_at:2021-08 star:2.4k fork:0.4k A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community
+- [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) pushed_at:2021-08 star:2.5k fork:0.5k The Spring Authorization Server project is focused on delivering OAuth 2.1 Authorization Server support to the Spring community.
 - [spring-projects/spring-batch](https://github.com/spring-projects/spring-batch) pushed_at:2021-08 star:1.9k fork:1.9k Spring Batch is a framework for writing offline and batch applications using Spring and Java
-- [spring-projects/spring-batch-extensions](https://github.com/spring-projects/spring-batch-extensions) pushed_at:2021-06 star:0.2k fork:0.2k Spring Batch Extensions
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) pushed_at:2021-08 star:56.7k fork:34.4k Spring Boot
+- [spring-projects/spring-batch-extensions](https://github.com/spring-projects/spring-batch-extensions) pushed_at:2021-06 star:0.1k fork:0.2k Spring Batch Extensions
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) pushed_at:2021-08 star:56.9k fork:34.4k Spring Boot
 - [spring-projects/spring-boot-data-geode](https://github.com/spring-projects/spring-boot-data-geode) pushed_at:2021-08 star:0.0k fork:0.0k Spring Boot support for Apache Geode and VMware Tanzu GemFire
 - [spring-projects/spring-bus](https://github.com/spring-projects/spring-bus) pushed_at:2019-03 star:0.0k fork:0.0k Support for distributed Spring Integration applications as Message-driven Microservices
 - [spring-projects/spring-credhub](https://github.com/spring-projects/spring-credhub) pushed_at:2021-05 star:0.0k fork:0.0k Spring abstractions for Cloud Foundry CredHub
@@ -116,7 +116,7 @@
 - [spring-projects/spring-data-solr-examples](https://github.com/spring-projects/spring-data-solr-examples) pushed_at:2019-03 star:0.1k fork:0.1k Spring Data Solr - Examples
 - [spring-projects/spring-flex](https://github.com/spring-projects/spring-flex) pushed_at:2020-02 star:0.1k fork:0.1k Spring BlazeDS Integration
 - [spring-projects/spring-flex-roo](https://github.com/spring-projects/spring-flex-roo) pushed_at:2020-10 star:0.0k fork:0.0k Flex Addon for Spring Roo
-- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) pushed_at:2021-08 star:44.0k fork:30.8k Spring Framework
+- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) pushed_at:2021-08 star:44.1k fork:30.9k Spring Framework
 - [spring-projects/spring-framework-issues](https://github.com/spring-projects/spring-framework-issues) pushed_at:2019-04 star:0.1k fork:0.2k User-contributed projects reproducing issues logged against Spring Framework GitHub issues. Note: this is not the Spring Framework issue tracker -->
 - [spring-projects/spring-gemfire-examples](https://github.com/spring-projects/spring-gemfire-examples) pushed_at:2021-04 star:0.1k fork:0.1k Sample projects to get started with Spring Gemfire
 - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) pushed_at:2021-08 star:0.7k fork:0.1k Spring integration for GraphQL 
@@ -148,14 +148,14 @@
 - [spring-projects/spring-mvc-showcase](https://github.com/spring-projects/spring-mvc-showcase) pushed_at:2021-07 star:4.9k fork:3.8k Demonstrates the features of the Spring MVC web framework
 - [spring-projects/spring-net-threading](https://github.com/spring-projects/spring-net-threading) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [spring-projects/spring-observability](https://github.com/spring-projects/spring-observability) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) pushed_at:2021-08 star:5.0k fork:13.2k A sample Spring-based application
+- [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) pushed_at:2021-08 star:5.0k fork:13.3k A sample Spring-based application
 - [spring-projects/spring-plugin](https://github.com/spring-projects/spring-plugin) pushed_at:2020-10 star:0.3k fork:0.1k 
-- [spring-projects/spring-restdocs](https://github.com/spring-projects/spring-restdocs) pushed_at:2021-07 star:1.0k fork:0.7k Test-driven documentation for RESTful services
+- [spring-projects/spring-restdocs](https://github.com/spring-projects/spring-restdocs) pushed_at:2021-08 star:1.0k fork:0.7k Test-driven documentation for RESTful services
 - [spring-projects/spring-retry](https://github.com/spring-projects/spring-retry) pushed_at:2021-06 star:1.5k fork:0.4k 
 - [spring-projects/spring-roo](https://github.com/spring-projects/spring-roo) pushed_at:2021-04 star:0.7k fork:0.3k Spring Roo is a next-generation rapid application development tool for Java developers. It focuses on higher productivity, stock-standard Java APIs, high usability, avoiding engineering trade-offs and facilitating easy Roo removal.
 - [spring-projects/spring-roo-community-addons](https://github.com/spring-projects/spring-roo-community-addons) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [spring-projects/spring-roo-wrapping](https://github.com/spring-projects/spring-roo-wrapping) pushed_at:2019-03 star:0.0k fork:0.0k Used to hold Spring Roo’s wrapping modules. These have a different lifecycle from the remainder of Roo, so belong outside of the “roo” repository.
-- [spring-projects/spring-security](https://github.com/spring-projects/spring-security) pushed_at:2021-08 star:6.1k fork:4.7k Spring Security
+- [spring-projects/spring-security](https://github.com/spring-projects/spring-security) pushed_at:2021-08 star:6.2k fork:4.7k Spring Security
 - [spring-projects/spring-security-javaconfig](https://github.com/spring-projects/spring-security-javaconfig) pushed_at:2019-03 star:0.2k fork:0.1k Spring Security Java Configuration Support (to be merged with spring-security-config)
 - [spring-projects/spring-security-kerberos](https://github.com/spring-projects/spring-security-kerberos) pushed_at:2021-04 star:0.1k fork:0.2k 
 - [spring-projects/spring-security-migrate-3-to-4](https://github.com/spring-projects/spring-security-migrate-3-to-4) pushed_at:2019-03 star:0.0k fork:0.1k 

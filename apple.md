@@ -25,7 +25,7 @@
 ## C
 
 - [apple/ccs-pykerberos](https://github.com/apple/ccs-pykerberos) pushed_at:2021-03 star:0.1k fork:0.0k Python Kerberos library used by CalendarServer
-- [apple/cups](https://github.com/apple/cups) pushed_at:2021-07 star:1.3k fork:0.4k Apple CUPS Sources
+- [apple/cups](https://github.com/apple/cups) pushed_at:2021-08 star:1.3k fork:0.4k Apple CUPS Sources
 - [apple/darwin-libplatform](https://github.com/apple/darwin-libplatform) pushed_at:2021-02 star:0.1k fork:0.0k The Darwin Platform Library (mirror)
 - [apple/darwin-libpthread](https://github.com/apple/darwin-libpthread) pushed_at:2021-07 star:0.1k fork:0.1k The Darwin PThread Library (mirror)
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) pushed_at:2021-07 star:9.2k fork:1.4k The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-reporting/
@@ -45,7 +45,7 @@
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) pushed_at:2021-08 star:0.2k fork:0.0k Index database library for use with sourcekit-lsp
 - [apple/llvm-project-v5](https://github.com/apple/llvm-project-v5) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project-v5-split](https://github.com/apple/llvm-project-v5-split) pushed_at:2019-10 star:0.0k fork:0.0k 
-- [apple/swift](https://github.com/apple/swift) pushed_at:2021-08 star:57.0k fork:9.1k The Swift Programming Language
+- [apple/swift](https://github.com/apple/swift) pushed_at:2021-08 star:57.0k fork:9.2k The Swift Programming Language
 - [apple/swift-clang](https://github.com/apple/swift-clang) pushed_at:2019-11 star:0.7k fork:0.2k 
 - [apple/swift-clang-tools-extra](https://github.com/apple/swift-clang-tools-extra) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) pushed_at:2021-08 star:0.0k fork:0.0k 
@@ -110,7 +110,7 @@
 - [apple/ml-cifar-10-faster](https://github.com/apple/ml-cifar-10-faster) pushed_at:2019-12 star:0.0k fork:0.0k 
 - [apple/ml-collegial-ensembles](https://github.com/apple/ml-collegial-ensembles) pushed_at:2020-10 star:0.0k fork:0.0k 
 - [apple/ml-cread](https://github.com/apple/ml-cread) pushed_at:2021-05 star:0.0k fork:0.0k 
-- [apple/ml-cvpr2019-swd](https://github.com/apple/ml-cvpr2019-swd) pushed_at:2021-05 star:0.1k fork:0.0k Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation. In CVPR 2019.
+- [apple/ml-cvpr2019-swd](https://github.com/apple/ml-cvpr2019-swd) pushed_at:2021-08 star:0.1k fork:0.0k Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation. In CVPR 2019.
 - [apple/ml-dab](https://github.com/apple/ml-dab) pushed_at:2020-07 star:0.0k fork:0.0k 
 - [apple/ml-data-parameters](https://github.com/apple/ml-data-parameters) pushed_at:2019-12 star:0.1k fork:0.0k 
 - [apple/ml-envmapnet](https://github.com/apple/ml-envmapnet) pushed_at:2021-06 star:0.0k fork:0.0k This software project contains implementations of metrics used in the paper, HDR Environment Map Estimation for Real-Time Augmented Reality, Gowri Somanath, Daniel Kurz, Proc IEEE & CVF CVPR 2021
@@ -159,9 +159,9 @@
 - [apple/swift-3-api-guidelines-review](https://github.com/apple/swift-3-api-guidelines-review) pushed_at:2018-11 star:0.5k fork:0.1k 
 - [apple/swift-algorithms](https://github.com/apple/swift-algorithms) pushed_at:2021-08 star:3.5k fork:0.2k Commonly used sequence and collection algorithms for Swift
 - [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) pushed_at:2021-08 star:2.3k fork:0.2k Straightforward, type-safe argument parsing for Swift
-- [apple/swift-atomics](https://github.com/apple/swift-atomics) pushed_at:2021-08 star:0.5k fork:0.0k Low-level atomic operations for Swift
+- [apple/swift-atomics](https://github.com/apple/swift-atomics) pushed_at:2021-08 star:0.6k fork:0.0k Low-level atomic operations for Swift
 - [apple/swift-cluster-membership](https://github.com/apple/swift-cluster-membership) pushed_at:2020-11 star:0.2k fork:0.0k Distributed Membership Protocol implementations in Swift
-- [apple/swift-collections](https://github.com/apple/swift-collections) pushed_at:2021-08 star:1.6k fork:0.1k Commonly used data structures for Swift
+- [apple/swift-collections](https://github.com/apple/swift-collections) pushed_at:2021-08 star:1.7k fork:0.1k Commonly used data structures for Swift
 - [apple/swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark) pushed_at:2021-07 star:0.2k fork:0.0k A benchmarking tool for Swift Collection algorithms
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) pushed_at:2021-08 star:4.4k fork:1.0k The Foundation Project, providing core utilities, internationalization, and OS independence
 - [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) pushed_at:2021-08 star:0.9k fork:0.2k The XCTest Project, A Swift core library for providing unit test support
@@ -180,7 +180,7 @@
 - [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) pushed_at:2021-06 star:0.1k fork:0.1k Useful code around SwiftNIO.
 - [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) pushed_at:2021-08 star:0.4k fork:0.1k HTTP/2 support for SwiftNIO
 - [apple/swift-nio-nghttp2-support](https://github.com/apple/swift-nio-nghttp2-support) pushed_at:2020-12 star:0.0k fork:0.0k 
-- [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) pushed_at:2021-06 star:0.2k fork:0.0k SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
+- [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) pushed_at:2021-08 star:0.2k fork:0.0k SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
 - [apple/swift-nio-ssl-support](https://github.com/apple/swift-nio-ssl-support) pushed_at:2020-12 star:0.0k fork:0.0k 
 - [apple/swift-nio-transport-services](https://github.com/apple/swift-nio-transport-services) pushed_at:2021-08 star:0.2k fork:0.0k Extensions for SwiftNIO to support Apple platforms as first-class citizens.
 - [apple/swift-nio-zlib-support](https://github.com/apple/swift-nio-zlib-support) pushed_at:2021-07 star:0.0k fork:0.0k 

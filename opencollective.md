@@ -359,7 +359,7 @@
 - [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) pushed_at:2021-08 star:0.3k fork:0.2k Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
 - [opencollective/opencollective-app](https://github.com/opencollective/opencollective-app) pushed_at:2018-05 star:0.0k fork:0.0k OpenCollective App - used to manage budgets and approve expenses
 - [opencollective/opencollective-changelog](https://github.com/opencollective/opencollective-changelog) pushed_at:2021-08 star:0.0k fork:0.0k Tracking weekly changes
-- [opencollective/opencollective-cli](https://github.com/opencollective/opencollective-cli) pushed_at:2020-07 star:0.0k fork:0.0k Command Line Interface for Open Collective
+- [opencollective/opencollective-cli](https://github.com/opencollective/opencollective-cli) pushed_at:2021-08 star:0.0k fork:0.0k Command Line Interface for Open Collective
 - [opencollective/opencollective-email](https://github.com/opencollective/opencollective-email) pushed_at:2019-01 star:0.0k fork:0.0k The email service for transparent and inclusive open collectives
 - [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) pushed_at:2021-08 star:0.0k fork:0.0k The new Open Collective email service, powered by Eymail
 - [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) pushed_at:2021-08 star:0.5k fork:0.3k Open Collective Frontend. A React app powered by Next.js.
@@ -367,7 +367,7 @@
 - [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) pushed_at:2021-08 star:0.0k fork:0.0k The Open Collective Image Server (badges, banners, avatar, etc ...)
 - [opencollective/opencollective-jobs](https://github.com/opencollective/opencollective-jobs) pushed_at:2018-05 star:0.0k fork:0.0k 
 - [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) pushed_at:2021-08 star:0.0k fork:0.0k The Open Collective PDF Server
-- [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) pushed_at:2021-07 star:0.0k fork:0.0k Prompt your users to donate to your collective after `npm install`
+- [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) pushed_at:2021-08 star:0.0k fork:0.0k Prompt your users to donate to your collective after `npm install`
 - [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) pushed_at:2021-08 star:0.0k fork:0.0k Open Collective REST API v1, and v2!
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
 - [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
@@ -829,7 +829,7 @@
 - [opencollective/typescript-eslint](https://github.com/opencollective/typescript-eslint) pushed_at:2019-09 star:0.0k fork:0.0k :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
 - [opencollective/Unigram](https://github.com/opencollective/Unigram) pushed_at:2020-05 star:0.0k fork:0.0k A Telegram desktop app made for Windows 10
 - [opencollective/uniqid](https://github.com/opencollective/uniqid) pushed_at:2019-12 star:0.0k fork:0.0k Unique ID Generator
-- [opencollective/UriTemplate](https://github.com/opencollective/UriTemplate) pushed_at:2019-09 star:0.0k fork:0.0k PHP URI Template (RFC 6570) supports both URI expansion & extraction
+- [opencollective/UriTemplate](https://github.com/opencollective/UriTemplate) pushed_at:2021-08 star:0.0k fork:0.0k PHP URI Template (RFC 6570) supports both URI expansion & extraction
 - [opencollective/vale](https://github.com/opencollective/vale) pushed_at:2020-05 star:0.0k fork:0.0k :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
 - [opencollective/veloren](https://github.com/opencollective/veloren) pushed_at:2019-09 star:0.0k fork:0.0k [Mirror] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World
 - [opencollective/video-to-ascii](https://github.com/opencollective/video-to-ascii) pushed_at:2019-09 star:0.0k fork:0.0k It is a simple python package to play videos in the terminal using characters as pixels

@@ -48,7 +48,7 @@
 
 ## Clojure
 
-- [pingcap/jepsen](https://github.com/pingcap/jepsen) pushed_at:2021-07 star:0.0k fork:0.0k A framework for distributed systems verification, with fault injection
+- [pingcap/jepsen](https://github.com/pingcap/jepsen) pushed_at:2021-08 star:0.0k fork:0.0k A framework for distributed systems verification, with fault injection
 
 ## Go
 
@@ -60,7 +60,7 @@
 - [pingcap/dead-mans-switch](https://github.com/pingcap/dead-mans-switch) pushed_at:2021-06 star:0.0k fork:0.0k A bypass monitoring prober
 - [pingcap/dm](https://github.com/pingcap/dm) pushed_at:2021-08 star:0.4k fork:0.2k Data Migration Platform
 - [pingcap/dumpling](https://github.com/pingcap/dumpling) pushed_at:2021-08 star:0.2k fork:0.1k Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud(S3, GCP...) in multifarious formats(SQL, CSV...).
-- [pingcap/errcode](https://github.com/pingcap/errcode) pushed_at:2020-07 star:0.0k fork:0.0k 
+- [pingcap/errcode](https://github.com/pingcap/errcode) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [pingcap/errors](https://github.com/pingcap/errors) pushed_at:2021-05 star:0.0k fork:0.0k Simple error handling primitives
 - [pingcap/etcdv3-gateway](https://github.com/pingcap/etcdv3-gateway) pushed_at:2016-03 star:0.0k fork:0.0k Gateway for etcdv3
 - [pingcap/failpoint](https://github.com/pingcap/failpoint) pushed_at:2021-08 star:0.6k fork:0.1k An implementation of failpoints for Golang.
@@ -110,7 +110,7 @@
 
 ## Java
 
-- [pingcap/benchmarksql](https://github.com/pingcap/benchmarksql) pushed_at:2021-03 star:0.0k fork:0.0k mirror of benchmarksql on github
+- [pingcap/benchmarksql](https://github.com/pingcap/benchmarksql) pushed_at:2021-08 star:0.0k fork:0.0k mirror of benchmarksql on github
 - [pingcap/education](https://github.com/pingcap/education) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [pingcap/mybatis-3](https://github.com/pingcap/mybatis-3) pushed_at:2018-12 star:0.0k fork:0.0k MyBatis data mapper framework
 - [pingcap/mysql-connector-j](https://github.com/pingcap/mysql-connector-j) pushed_at:2021-05 star:0.0k fork:0.0k MySQL Connector/J
@@ -134,7 +134,7 @@
 
 ## Others
 
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2021-08 star:3.4k fork:0.4k A list of learning materials to understand databases internals
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2021-08 star:3.5k fork:0.4k A list of learning materials to understand databases internals
 - [pingcap/community](https://github.com/pingcap/community) pushed_at:2021-08 star:0.2k fork:0.1k TiDB community content
 - [pingcap/hibernate-tidb](https://github.com/pingcap/hibernate-tidb) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [pingcap/logo](https://github.com/pingcap/logo) pushed_at:2018-09 star:0.0k fork:0.0k logo for PingCAP
@@ -182,13 +182,13 @@
 - [pingcap/grpc-rust](https://github.com/pingcap/grpc-rust) pushed_at:2017-05 star:0.0k fork:0.0k Rust implementation of gRPC (not ready yet)
 - [pingcap/murmur3](https://github.com/pingcap/murmur3) pushed_at:2018-03 star:0.0k fork:0.0k A rust implementation of murmur3
 - [pingcap/rust-protobuf](https://github.com/pingcap/rust-protobuf) pushed_at:2021-05 star:0.0k fork:0.0k Rust implementation of Google protocol buffers
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) pushed_at:2021-07 star:6.5k fork:0.8k open source training courses about distributed database and distributed systemes
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) pushed_at:2021-08 star:6.5k fork:0.8k open source training courses about distributed database and distributed systemes
 - [pingcap/tidb-engine-ext](https://github.com/pingcap/tidb-engine-ext) pushed_at:2021-08 star:0.0k fork:0.0k A TiKV based `c dynamic library` for extending storage system in TiDB cluster
 
 ## Shell
 
 - [pingcap/blog-cn](https://github.com/pingcap/blog-cn) pushed_at:2021-08 star:0.1k fork:0.1k 
-- [pingcap/discourse_docker](https://github.com/pingcap/discourse_docker) pushed_at:2019-12 star:0.0k fork:0.0k A Docker image for Discourse
+- [pingcap/discourse_docker](https://github.com/pingcap/discourse_docker) pushed_at:2021-08 star:0.0k fork:0.0k A Docker image for Discourse
 - [pingcap/docs](https://github.com/pingcap/docs) pushed_at:2021-08 star:0.5k fork:0.5k TiDB/TiKV/PD documentation.
 - [pingcap/docs-cn](https://github.com/pingcap/docs-cn) pushed_at:2021-08 star:1.6k fork:1.0k TiDB/TiKV/PD documentation in Chinese.
 - [pingcap/k8s-fluent-bit-stackdriver](https://github.com/pingcap/k8s-fluent-bit-stackdriver) pushed_at:2019-08 star:0.0k fork:0.0k 

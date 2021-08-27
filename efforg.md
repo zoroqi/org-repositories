@@ -124,7 +124,7 @@
 - [EFForg/badger-sett](https://github.com/EFForg/badger-sett) pushed_at:2021-08 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
 - [EFForg/call-congress](https://github.com/EFForg/call-congress) pushed_at:2021-04 star:0.0k fork:0.0k a simple server that connects calls between citizens and their congress person using the Twilio API
 - [EFForg/contact-congress](https://github.com/EFForg/contact-congress) pushed_at:2014-06 star:0.0k fork:0.0k Sending electronic written messages to members of Congress by reverse engineering their contact forms.
-- [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) pushed_at:2021-04 star:0.5k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
+- [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) pushed_at:2021-08 star:0.5k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
 - [EFForg/cryptobot-email](https://github.com/EFForg/cryptobot-email) pushed_at:2014-05 star:0.1k fork:0.0k 
 - [EFForg/cryptolog](https://github.com/EFForg/cryptolog) pushed_at:2016-07 star:0.1k fork:0.0k Cryptolog is a tool for anonymizing webserver logs.
 - [EFForg/https-everywhere-standalone](https://github.com/EFForg/https-everywhere-standalone) pushed_at:2021-06 star:0.0k fork:0.0k Transparently redirect insecure HTTP to secure HTTPS using HTTPS Everywhere and `mitmproxy`
@@ -154,7 +154,7 @@
 
 ## Rust
 
-- [EFForg/apk-dl](https://github.com/EFForg/apk-dl) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [EFForg/apkeep](https://github.com/EFForg/apkeep) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) pushed_at:2021-08 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
 - [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) pushed_at:2021-08 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM

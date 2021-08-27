@@ -138,7 +138,7 @@
 - [uber/artist](https://github.com/uber/artist) pushed_at:2021-08 star:0.2k fork:0.0k An artist creates views. Artist is a Gradle plugin that codegens a base set of Android Views.
 - [uber/crumb](https://github.com/uber/crumb) pushed_at:2020-08 star:0.1k fork:0.0k An annotation processor for breadcrumbing metadata across compilation boundaries.
 - [uber/lint-checks](https://github.com/uber/lint-checks) pushed_at:2020-11 star:0.0k fork:0.0k A set of opinionated and useful lint checks
-- [uber/motif](https://github.com/uber/motif) pushed_at:2021-07 star:0.5k fork:0.0k A simple DI API for Android / Java
+- [uber/motif](https://github.com/uber/motif) pushed_at:2021-08 star:0.5k fork:0.0k A simple DI API for Android / Java
 - [uber/stylist](https://github.com/uber/stylist) pushed_at:2021-05 star:0.4k fork:0.0k A stylist creates cool styles. Stylist is a Gradle plugin that codegens a base set of Android XML themes.
 
 ## OCaml
@@ -147,7 +147,7 @@
 
 ## Objective-C
 
-- [uber/ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) pushed_at:2021-07 star:1.5k fork:0.2k Snapshot view unit tests for iOS
+- [uber/ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) pushed_at:2021-08 star:1.5k fork:0.2k Snapshot view unit tests for iOS
 - [uber/signals-ios](https://github.com/uber/signals-ios) pushed_at:2019-01 star:0.5k fork:0.1k Typeful eventing
 - [uber/startup-reason-reporter](https://github.com/uber/startup-reason-reporter) pushed_at:2018-07 star:0.1k fork:0.0k Reports the reason why an iOS App started.
 - [uber/UberSignature](https://github.com/uber/UberSignature) pushed_at:2020-09 star:1.2k fork:0.2k Provides an iOS view controller allowing a user to draw their signature with their finger in a realistic style.
@@ -182,7 +182,7 @@
 - [uber/Python-Sample-Application](https://github.com/uber/Python-Sample-Application) pushed_at:2021-03 star:0.3k fork:0.4k 
 - [uber/rides-python-sdk](https://github.com/uber/rides-python-sdk) pushed_at:2021-06 star:0.1k fork:0.1k Uber Rides Python SDK (beta)
 - [uber/sublime-phabricator](https://github.com/uber/sublime-phabricator) pushed_at:2020-05 star:0.0k fork:0.0k Open files in Phabricator via Sublime Text
-- [uber/tchannel-python](https://github.com/uber/tchannel-python) pushed_at:2021-03 star:0.1k fork:0.0k Python implementation of the TChannel protocol.
+- [uber/tchannel-python](https://github.com/uber/tchannel-python) pushed_at:2021-08 star:0.1k fork:0.0k Python implementation of the TChannel protocol.
 - [uber/uber-poet](https://github.com/uber/uber-poet) pushed_at:2021-06 star:0.1k fork:0.0k A mock swift project generator & build runner to help benchmark various module dependency graphs.
 
 ## Ruby
