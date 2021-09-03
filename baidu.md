@@ -33,7 +33,7 @@
 ## C++
 
 - [baidu/AnyQ](https://github.com/baidu/AnyQ) pushed_at:2020-11 star:2.3k fork:0.6k FAQ-based Question Answering System
-- [baidu/BaikalDB](https://github.com/baidu/BaikalDB) pushed_at:2021-07 star:0.8k fork:0.1k BaikalDB, A Distributed HTAP Database.
+- [baidu/BaikalDB](https://github.com/baidu/BaikalDB) pushed_at:2021-08 star:0.8k fork:0.1k BaikalDB, A Distributed HTAP Database.
 - [baidu/bfs](https://github.com/baidu/bfs) pushed_at:2018-12 star:2.8k fork:0.6k The Baidu File System.
 - [baidu/bigflow](https://github.com/baidu/bigflow) pushed_at:2020-10 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [baidu/boteye](https://github.com/baidu/boteye) pushed_at:2019-04 star:0.2k fork:0.1k 
@@ -46,7 +46,7 @@
 - [baidu/ICE-BA](https://github.com/baidu/ICE-BA) pushed_at:2018-09 star:0.6k fork:0.2k 
 - [baidu/ins](https://github.com/baidu/ins) pushed_at:2020-10 star:0.2k fork:0.1k iNexus, coordinate large scale services
 - [baidu/lac](https://github.com/baidu/lac) pushed_at:2021-05 star:2.6k fork:0.5k 百度NLP：分词，词性标注，命名实体识别，词重要性
-- [baidu/openrasp](https://github.com/baidu/openrasp) pushed_at:2021-08 star:1.9k fork:0.5k 🔥Open source RASP solution
+- [baidu/openrasp](https://github.com/baidu/openrasp) pushed_at:2021-09 star:1.9k fork:0.5k 🔥Open source RASP solution
 - [baidu/shuttle](https://github.com/baidu/shuttle) pushed_at:2018-07 star:0.1k fork:0.0k A fast computing framework based on Galaxy
 - [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) pushed_at:2018-09 star:2.0k fork:0.7k A light-weight RPC implement of google protobuf RPC framework.
 - [baidu/tera](https://github.com/baidu/tera) pushed_at:2019-01 star:1.8k fork:0.4k An Internet-Scale Database.
@@ -61,15 +61,15 @@
 
 - [baidu/baiducloud-sdk-go](https://github.com/baidu/baiducloud-sdk-go) pushed_at:2019-10 star:0.0k fork:0.0k Go SDK for Baidu Cloud
 - [baidu/cluster-api-provider-baiducloud](https://github.com/baidu/cluster-api-provider-baiducloud) pushed_at:2018-12 star:0.0k fork:0.0k Kubernetes cluster-api for Baidu Cloud
-- [baidu/EasyFaaS](https://github.com/baidu/EasyFaaS) pushed_at:2021-07 star:0.5k fork:0.0k EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎
-- [baidu/go-lib](https://github.com/baidu/go-lib) pushed_at:2021-08 star:0.1k fork:0.0k 
+- [baidu/EasyFaaS](https://github.com/baidu/EasyFaaS) pushed_at:2021-09 star:0.5k fork:0.0k EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎
+- [baidu/go-lib](https://github.com/baidu/go-lib) pushed_at:2021-09 star:0.1k fork:0.0k 
 - [baidu/ote-stack](https://github.com/baidu/ote-stack) pushed_at:2020-07 star:0.1k fork:0.0k OTE-Stack is an edge computing platform for 5G and AI
 - [baidu/paddle-on-k8s-operator](https://github.com/baidu/paddle-on-k8s-operator) pushed_at:2020-03 star:0.0k fork:0.0k Kubernetes operator for managing the lifecycle of PaddlePaddle job.
 - [baidu/runc](https://github.com/baidu/runc) pushed_at:2019-06 star:0.0k fork:0.0k CLI tool for spawning and running containers according to the OCI specification
 
 ## Java
 
-- [baidu/brcc](https://github.com/baidu/brcc) pushed_at:2021-08 star:0.3k fork:0.1k BRCC（better remote config center）是一个分布式配置中心，用于统一管理应用服务的配置信息，避免各类资源散落在各个项目中，简化资源配置的维护成本。作为一种轻量级的解决方案，部署简单，同时支持多环境、多版本、多角色的资源管理，可以在不改变应用源码的情况下无缝切换和实时生效配置信息。
+- [baidu/brcc](https://github.com/baidu/brcc) pushed_at:2021-09 star:0.3k fork:0.1k BRCC（better remote config center）是一个分布式配置中心，用于统一管理应用服务的配置信息，避免各类资源散落在各个项目中，简化资源配置的维护成本。作为一种轻量级的解决方案，部署简单，同时支持多环境、多版本、多角色的资源管理，可以在不改变应用源码的情况下无缝切换和实时生效配置信息。
 - [baidu/brpc-java](https://github.com/baidu/brpc-java) pushed_at:2021-06 star:0.7k fork:0.2k Java implementation for Baidu RPC, multi-protocol & high performance RPC.
 - [baidu/Cafe](https://github.com/baidu/Cafe) pushed_at:2014-05 star:0.4k fork:0.2k A powerful test framework for Android
 - [baidu/dlock](https://github.com/baidu/dlock) pushed_at:2017-03 star:0.2k fork:0.1k An effective and reliable Distributed Lock
@@ -128,7 +128,7 @@
 
 - [baidu/ARK](https://github.com/baidu/ARK) pushed_at:2021-05 star:0.1k fork:0.0k Development framework of intelligent operation
 - [baidu/broc](https://github.com/baidu/broc) pushed_at:2017-12 star:0.1k fork:0.1k 
-- [baidu/CUP](https://github.com/baidu/CUP) pushed_at:2021-07 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
+- [baidu/CUP](https://github.com/baidu/CUP) pushed_at:2021-08 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
 - [baidu/DDParser](https://github.com/baidu/DDParser) pushed_at:2021-07 star:0.7k fork:0.1k 百度开源的依存句法分析系统
 - [baidu/Dialogue](https://github.com/baidu/Dialogue) pushed_at:2020-01 star:0.4k fork:0.1k 
 - [baidu/duedge-cli](https://github.com/baidu/duedge-cli) pushed_at:2020-03 star:0.0k fork:0.0k DuEdge Command Line
@@ -137,7 +137,7 @@
 - [baidu/knowledge-driven-dialogue](https://github.com/baidu/knowledge-driven-dialogue) pushed_at:2019-06 star:0.3k fork:0.1k baseline system of knowledge driven dialogue competition
 - [baidu/logcover](https://github.com/baidu/logcover) pushed_at:2017-02 star:0.0k fork:0.0k 轻量级异常日志测试覆盖率度量工具
 - [baidu/QCompute](https://github.com/baidu/QCompute) pushed_at:2021-07 star:0.0k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
-- [baidu/Senta](https://github.com/baidu/Senta) pushed_at:2021-06 star:1.3k fork:0.3k Baidu's open-source Sentiment Analysis System.
+- [baidu/Senta](https://github.com/baidu/Senta) pushed_at:2021-06 star:1.4k fork:0.3k Baidu's open-source Sentiment Analysis System.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
 
 ## Ruby
@@ -146,9 +146,9 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-08 star:7.8k fork:1.0k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-09 star:7.9k fork:1.0k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) pushed_at:2021-07 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
-- [baidu/san-ssr](https://github.com/baidu/san-ssr) pushed_at:2021-08 star:0.0k fork:0.0k San SSR framework and utils
+- [baidu/san-ssr](https://github.com/baidu/san-ssr) pushed_at:2021-09 star:0.0k fork:0.0k San SSR framework and utils
 
 ## VHDL
 

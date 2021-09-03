@@ -49,7 +49,7 @@
 - [tuna/freedns-go](https://github.com/tuna/freedns-go) pushed_at:2021-03 star:0.1k fork:0.0k Optimized DNS Server for Chinese users.
 - [tuna/mirrorhub](https://github.com/tuna/mirrorhub) pushed_at:2016-09 star:0.0k fork:0.0k Redirects the user to a nearby mirror site.
 - [tuna/tunaccount](https://github.com/tuna/tunaccount) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [tuna/tunasync](https://github.com/tuna/tunasync) pushed_at:2021-08 star:1.0k fork:0.2k Mirror job management tool. 
+- [tuna/tunasync](https://github.com/tuna/tunasync) pushed_at:2021-09 star:1.0k fork:0.2k Mirror job management tool. 
 
 ## HTML
 
@@ -70,7 +70,7 @@
 
 - [tuna/artwork](https://github.com/tuna/artwork) pushed_at:2021-06 star:0.0k fork:0.0k tuna artwork
 - [tuna/Books](https://github.com/tuna/Books) pushed_at:2020-11 star:0.0k fork:0.0k Tracking Books of TUNA Library
-- [tuna/Cash](https://github.com/tuna/Cash) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [tuna/Cash](https://github.com/tuna/Cash) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [tuna/collection](https://github.com/tuna/collection) pushed_at:2015-12 star:0.2k fork:0.0k idea collections from TUNA
 - [tuna/dataset-issues](https://github.com/tuna/dataset-issues) pushed_at:2018-04 star:0.0k fork:0.0k Issues about academic dataset mirrors
 - [tuna/isofusion](https://github.com/tuna/isofusion) pushed_at:2016-05 star:0.0k fork:0.0k scan and create iso filelist from mirrors
@@ -86,7 +86,7 @@
 ## Python
 
 - [tuna/bandersnatch](https://github.com/tuna/bandersnatch) pushed_at:2020-02 star:0.0k fork:0.0k A PyPI mirror client according to PEP 381 http://www.python.org/dev/peps/pep-0381/
-- [tuna/blogroll](https://github.com/tuna/blogroll) pushed_at:2021-08 star:0.6k fork:0.1k 世界一流兼容并包TUNA协会收集的周围同学们的Blog
+- [tuna/blogroll](https://github.com/tuna/blogroll) pushed_at:2021-08 star:0.7k fork:0.1k 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [tuna/django-helpdesk](https://github.com/tuna/django-helpdesk) pushed_at:2014-12 star:0.0k fork:0.0k A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [tuna/feed_tuna](https://github.com/tuna/feed_tuna) pushed_at:2017-09 star:0.0k fork:0.0k Telegram shop/payment bot 金枪鱼喂食计划
 - [tuna/fishroom](https://github.com/tuna/fishroom) pushed_at:2021-02 star:0.3k fork:0.1k Message forwarding for multiple IM protocols
