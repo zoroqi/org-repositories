@@ -43,7 +43,7 @@
 - [openai/procgen](https://github.com/openai/procgen) pushed_at:2021-06 star:0.5k fork:0.1k Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
 - [openai/pytorch](https://github.com/openai/pytorch) pushed_at:2021-09 star:0.0k fork:0.0k Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [openai/robot_controllers](https://github.com/openai/robot_controllers) pushed_at:2016-07 star:0.0k fork:0.0k Robot control infrastructure
-- [openai/triton](https://github.com/openai/triton) pushed_at:2021-09 star:3.1k fork:0.2k Development repository for the Triton language and compiler
+- [openai/triton](https://github.com/openai/triton) pushed_at:2021-09 star:3.2k fork:0.2k Development repository for the Triton language and compiler
 
 ## CSS
 
@@ -76,13 +76,13 @@
 ## Jupyter Notebook
 
 - [openai/baselines-results](https://github.com/openai/baselines-results) pushed_at:2020-07 star:0.1k fork:0.0k 
-- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-08 star:4.6k fork:0.5k Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-08 star:4.7k fork:0.5k Contrastive Language-Image Pretraining
 - [openai/lucid](https://github.com/openai/lucid) pushed_at:2019-01 star:0.0k fork:0.0k A collection of infrastructure and tools for research in neural network interpretability.
 - [openai/ot-gan](https://github.com/openai/ot-gan) pushed_at:2018-11 star:0.0k fork:0.0k  Code for the paper "Improving GANs Using Optimal Transport"
 
 ## Lean
 
-- [openai/lean-gym](https://github.com/openai/lean-gym) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [openai/lean-gym](https://github.com/openai/lean-gym) pushed_at:2021-09 star:0.0k fork:0.0k 
 
 ## Objective-C++
 
@@ -119,8 +119,8 @@
 - [openai/glow](https://github.com/openai/glow) pushed_at:2021-02 star:2.8k fork:0.5k Code for reproducing results in "Glow: Generative Flow with Invertible 1x1 Convolutions"
 - [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2021-03 star:14.9k fork:3.8k Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) pushed_at:2021-02 star:1.2k fork:0.3k Dataset of GPT-2 outputs for research in detection, biases, and more
-- [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2021-07 star:0.7k fork:0.0k 
-- [openai/gym](https://github.com/openai/gym) pushed_at:2021-09 star:25.1k fork:7.2k A toolkit for developing and comparing reinforcement learning algorithms.
+- [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2021-07 star:0.7k fork:0.1k 
+- [openai/gym](https://github.com/openai/gym) pushed_at:2021-09 star:25.2k fork:7.2k A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/gym-http-api](https://github.com/openai/gym-http-api) pushed_at:2019-07 star:0.3k fork:0.1k API to access OpenAI Gym from other languages via HTTP
 - [openai/gym-recording](https://github.com/openai/gym-recording) pushed_at:2020-10 star:0.1k fork:0.0k Add-on package to gym, to record sequences of actions, observations, and rewards
 - [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2018-11 star:0.2k fork:0.2k 
@@ -128,7 +128,7 @@
 - [openai/gym3](https://github.com/openai/gym3) pushed_at:2021-01 star:0.1k fork:0.0k Vectorized interface for reinforcement learning environments
 - [openai/human-eval](https://github.com/openai/human-eval) pushed_at:2021-07 star:0.2k fork:0.0k Code for the paper "Evaluating Large Language Models Trained on Code"
 - [openai/iaf](https://github.com/openai/iaf) pushed_at:2018-11 star:0.5k fork:0.1k Code for reproducing key results in the paper "Improving Variational Inference with Inverse Autoregressive Flow"
-- [openai/image-gpt](https://github.com/openai/image-gpt) pushed_at:2020-12 star:1.4k fork:0.2k 
+- [openai/image-gpt](https://github.com/openai/image-gpt) pushed_at:2020-12 star:1.5k fork:0.2k 
 - [openai/imitation](https://github.com/openai/imitation) pushed_at:2018-11 star:0.6k fork:0.2k  Code for the paper "Generative Adversarial Imitation Learning"
 - [openai/improved-diffusion](https://github.com/openai/improved-diffusion) pushed_at:2021-03 star:0.2k fork:0.0k Release for Improved Denoising Diffusion Probabilistic Models
 - [openai/improved-gan](https://github.com/openai/improved-gan) pushed_at:2018-11 star:2.1k fork:0.6k Code for the paper "Improved Techniques for Training GANs"
@@ -143,12 +143,12 @@
 - [openai/mlsh](https://github.com/openai/mlsh) pushed_at:2019-07 star:0.6k fork:0.1k  Code for the paper "Meta-Learning Shared Hierarchies"
 - [openai/mujoco-py](https://github.com/openai/mujoco-py) pushed_at:2021-04 star:1.7k fork:0.5k MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
 - [openai/mujoco-worldgen](https://github.com/openai/mujoco-worldgen) pushed_at:2019-11 star:0.4k fork:0.1k Automatic object XML generation for Mujoco
-- [openai/multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) pushed_at:2021-08 star:1.1k fork:0.2k Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
+- [openai/multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) pushed_at:2021-08 star:1.2k fork:0.2k Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
 - [openai/multiagent-competition](https://github.com/openai/multiagent-competition) pushed_at:2019-10 star:0.7k fork:0.1k  Code for the paper "Emergent Complexity via Multi-agent Competition"
 - [openai/multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs) pushed_at:2021-08 star:1.3k fork:0.5k Code for a multi-agent particle environment used in the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
 - [openai/neural-gpu](https://github.com/openai/neural-gpu) pushed_at:2018-11 star:0.1k fork:0.0k Code for the Neural GPU model originally described in "Neural GPUs Learn Algorithms"
 - [openai/neural-mmo](https://github.com/openai/neural-mmo) pushed_at:2021-04 star:1.3k fork:0.2k Code for the paper "Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents"
-- [openai/openai-python](https://github.com/openai/openai-python) pushed_at:2021-08 star:0.2k fork:0.1k 
+- [openai/openai-python](https://github.com/openai/openai-python) pushed_at:2021-09 star:0.2k fork:0.1k 
 - [openai/phasic-policy-gradient](https://github.com/openai/phasic-policy-gradient) pushed_at:2020-12 star:0.2k fork:0.0k Code for the paper "Phasic Policy Gradient"
 - [openai/pixel-cnn](https://github.com/openai/pixel-cnn) pushed_at:2020-02 star:1.8k fork:0.4k Code for the paper "PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications"
 - [openai/psaw](https://github.com/openai/psaw) pushed_at:2020-10 star:0.0k fork:0.0k Python Pushshift.io API Wrapper (for comment/submission search)
@@ -185,7 +185,7 @@
 - [openai/ceph-chef](https://github.com/openai/ceph-chef) pushed_at:2018-02 star:0.0k fork:0.0k Chef cookbooks for managing a Ceph cluster
 - [openai/chef-logdna_agent](https://github.com/openai/chef-logdna_agent) pushed_at:2018-02 star:0.0k fork:0.0k Installs the LogDNA host agent. Currently only supports apt systems.
 - [openai/etcd](https://github.com/openai/etcd) pushed_at:2021-05 star:0.0k fork:0.0k Development repository for the etcd cookbook
-- [openai/fluent-plugin-kubernetes_metadata_filter](https://github.com/openai/fluent-plugin-kubernetes_metadata_filter) pushed_at:2020-04 star:0.0k fork:0.0k Enrich your fluentd events with Kubernetes metadata
+- [openai/fluent-plugin-kubernetes_metadata_filter](https://github.com/openai/fluent-plugin-kubernetes_metadata_filter) pushed_at:2021-09 star:0.0k fork:0.0k Enrich your fluentd events with Kubernetes metadata
 - [openai/junit-annotate-buildkite-plugin](https://github.com/openai/junit-annotate-buildkite-plugin) pushed_at:2018-04 star:0.0k fork:0.0k 📈 Summarise your test failures as a build annotation
 
 ## Shell

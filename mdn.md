@@ -38,7 +38,7 @@
 - [mdn/beginner-html-site-scripted](https://github.com/mdn/beginner-html-site-scripted) pushed_at:2021-04 star:0.2k fork:0.2k A simple one page website created to help complete beginners learn HTML basics, which in this repo has also had some script added to help beginners learn JavaScript basics. The scripting is explained over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics. 
 - [mdn/beginner-html-site-styled](https://github.com/mdn/beginner-html-site-styled) pushed_at:2021-07 star:0.1k fork:0.4k A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics.
 - [mdn/beginning-programming-content-kit](https://github.com/mdn/beginning-programming-content-kit) pushed_at:2019-03 star:0.0k fork:0.0k This is a Content Kit for people who want to teach programming to beginners.
-- [mdn/content](https://github.com/mdn/content) pushed_at:2021-09 star:3.2k fork:2.8k The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) pushed_at:2021-09 star:3.3k fork:3.0k The content behind MDN Web Docs
 - [mdn/content-kit-template](https://github.com/mdn/content-kit-template) pushed_at:2016-05 star:0.0k fork:0.0k This is the repo to fork or clone when creating a new MDN Content Kit.
 - [mdn/css-examples](https://github.com/mdn/css-examples) pushed_at:2021-09 star:0.3k fork:0.4k Code examples that accompany the MDN CSS documentation
 - [mdn/devtools-examples](https://github.com/mdn/devtools-examples) pushed_at:2019-04 star:0.0k fork:0.0k Code examples that accompany the MDN Firefox Developer Tools documentation
@@ -75,7 +75,7 @@
 - [mdn/advanced-js-fundamentals-ck](https://github.com/mdn/advanced-js-fundamentals-ck) pushed_at:2019-03 star:0.1k fork:0.1k This content kit provides learning material to allow intermediate web developers to level up their skills, learning real world techniques to take them past rudimentary syntax towards a solid foundation of skills than can be utilized to create modern web applications. It'll be visual; you'll have fun along the way.
 - [mdn/audio-channels-demo](https://github.com/mdn/audio-channels-demo) pushed_at:2019-04 star:0.0k fork:0.0k A demo to show how the AudioChannels API works, at a basic level
 - [mdn/battery-quickstart-finished-example](https://github.com/mdn/battery-quickstart-finished-example) pushed_at:2017-07 star:0.0k fork:0.0k [UNMAINTAINED] The finished version of the example built up in the "Your first app" tutorial found in the Mozilla Developer Network open web app Quickstart article.
-- [mdn/bob](https://github.com/mdn/bob) pushed_at:2021-08 star:0.0k fork:0.0k Builder of Bits aka The MDN Web Docs interactive examples, example builder
+- [mdn/bob](https://github.com/mdn/bob) pushed_at:2021-09 star:0.0k fork:0.0k Builder of Bits aka The MDN Web Docs interactive examples, example builder
 - [mdn/browser-api-demo](https://github.com/mdn/browser-api-demo) pushed_at:2019-03 star:0.0k fork:0.0k A simple demo to show usage of the Mozilla Browser API. See https://developer.mozilla.org/en-US/docs/Web/API/Using_the_Browser_API for more details.
 - [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) pushed_at:2021-09 star:3.6k fork:1.6k This repository contains compatibility data for Web technologies as displayed on MDN
 - [mdn/browser-compat-toolkit](https://github.com/mdn/browser-compat-toolkit) pushed_at:2019-04 star:0.0k fork:0.0k Toolkit for visualizing and editing MDN's browser compatibility data
@@ -101,7 +101,7 @@
 - [mdn/simple-web-worker](https://github.com/mdn/simple-web-worker) pushed_at:2021-04 star:0.6k fork:0.3k A simple web worker test.
 - [mdn/stumptown-content](https://github.com/mdn/stumptown-content) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [mdn/sw-test](https://github.com/mdn/sw-test) pushed_at:2019-07 star:0.7k fork:0.2k Service Worker test repository. This is a very simple demo to show basic service worker features in action.
-- [mdn/to-do-notifications](https://github.com/mdn/to-do-notifications) pushed_at:2021-04 star:0.3k fork:0.1k Enhanced version of the to-do app, which stores to-do items via IndexedDB, and then also aims to provide notifications when to-do item deadlines are up, via the Notification and Vibration APIs.
+- [mdn/to-do-notifications](https://github.com/mdn/to-do-notifications) pushed_at:2021-09 star:0.3k fork:0.1k Enhanced version of the to-do app, which stores to-do items via IndexedDB, and then also aims to provide notifications when to-do item deadlines are up, via the Notification and Vibration APIs.
 - [mdn/todo-react](https://github.com/mdn/todo-react) pushed_at:2021-09 star:0.1k fork:0.1k Sample todo app built with the React/ReactDOM framework.
 - [mdn/violent-theremin](https://github.com/mdn/violent-theremin) pushed_at:2021-01 star:0.2k fork:0.1k Violent theremin uses the Web Audio API to generate sound, and HTML5 canvas for a bit of pretty visualization. The colours generated depend on the pitch and gain of the current note, which are themselves dependant on the mouse pointer position.
 - [mdn/voice-change-o-matic](https://github.com/mdn/voice-change-o-matic) pushed_at:2020-04 star:0.6k fork:0.2k Web Audio API-powered voice changer and visualizer
@@ -109,7 +109,7 @@
 - [mdn/web-components-examples](https://github.com/mdn/web-components-examples) pushed_at:2021-06 star:1.8k fork:0.5k A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 - [mdn/web-dictaphone](https://github.com/mdn/web-dictaphone) pushed_at:2021-08 star:0.4k fork:0.2k A sample MDN app that uses getUserMedia and MediaRecorder API for recording audio snippets, and The Web Audio API for visualizations.
 - [mdn/web-speech-api](https://github.com/mdn/web-speech-api) pushed_at:2020-05 star:1.2k fork:0.7k A repository for demos illustrating features of the Web Speech API. See https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API for more details.
-- [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) pushed_at:2021-08 star:2.9k fork:2.2k Example Firefox add-ons created using the WebExtensions API
+- [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) pushed_at:2021-09 star:2.9k fork:2.2k Example Firefox add-ons created using the WebExtensions API
 - [mdn/webgl-examples](https://github.com/mdn/webgl-examples) pushed_at:2021-07 star:1.0k fork:1.0k Code examples that accompany the MDN WebGL documentation
 - [mdn/webvr-tests](https://github.com/mdn/webvr-tests) pushed_at:2019-03 star:0.1k fork:0.0k A set of simple tests for testing WebVR functionality. See https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API for the latest on the documentation.
 - [mdn/world-clock](https://github.com/mdn/world-clock) pushed_at:2019-04 star:0.0k fork:0.0k An Ember-based app, built as a sample to demonstrate Ember/Ember CLI and modern web architecture. This goes along with the article series found at https://developer.mozilla.org/en-US/Apps/Build/Modern_web_app_architecture.
@@ -124,7 +124,7 @@
 - [mdn/browsercompat-data](https://github.com/mdn/browsercompat-data) pushed_at:2017-04 star:0.0k fork:0.0k Browser Compatability Data
 - [mdn/crossbrowser-testing-lab](https://github.com/mdn/crossbrowser-testing-lab) pushed_at:2019-04 star:0.0k fork:0.0k Mozilla's Cross-Browser Testing Lab
 - [mdn/mdn](https://github.com/mdn/mdn) pushed_at:2021-08 star:1.1k fork:0.2k Meta repository that governs the MDN GitHub organization
-- [mdn/mdn-dinocons](https://github.com/mdn/mdn-dinocons) pushed_at:2021-08 star:0.0k fork:0.0k A scalable set of icons for use across Mozilla Developer websites
+- [mdn/mdn-dinocons](https://github.com/mdn/mdn-dinocons) pushed_at:2021-09 star:0.0k fork:0.0k A scalable set of icons for use across Mozilla Developer websites
 - [mdn/performance-scenarios](https://github.com/mdn/performance-scenarios) pushed_at:2017-05 star:0.0k fork:0.0k 
 - [mdn/sprints](https://github.com/mdn/sprints) pushed_at:2020-10 star:0.1k fork:0.1k MDN Web Docs content issue management
 - [mdn/wiki-revision-history](https://github.com/mdn/wiki-revision-history) pushed_at:2021-01 star:0.0k fork:0.0k An accurate CSV record of who made what revisions to MDN Web Docs when it was a Wiki platform

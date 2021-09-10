@@ -53,7 +53,7 @@
 ## C++
 
 - [twitter/BreakoutDetection](https://github.com/twitter/BreakoutDetection) pushed_at:2017-08 star:0.7k fork:0.2k Breakout Detection via Robust E-Statistics
-- [twitter/vireo](https://github.com/twitter/vireo) pushed_at:2019-06 star:0.8k fork:0.1k Vireo is a lightweight and versatile video processing library written in C++11
+- [twitter/vireo](https://github.com/twitter/vireo) pushed_at:2021-09 star:0.8k fork:0.1k Vireo is a lightweight and versatile video processing library written in C++11
 
 ## CSS
 
@@ -126,7 +126,7 @@
 - [twitter/curation-style-guide](https://github.com/twitter/curation-style-guide) pushed_at:2019-06 star:0.0k fork:0.0k Document Repository for Twitter's Curation Style Guide
 - [twitter/gpl-commitment](https://github.com/twitter/gpl-commitment) pushed_at:2021-07 star:0.0k fork:0.0k Twitter's GPL Cooperation Commitment
 - [twitter/innovators-patent-agreement](https://github.com/twitter/innovators-patent-agreement) pushed_at:2016-06 star:0.9k fork:0.1k Innovators Patent Agreement (IPA)
-- [twitter/metrics](https://github.com/twitter/metrics) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [twitter/metrics](https://github.com/twitter/metrics) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [twitter/ossdecks](https://github.com/twitter/ossdecks) pushed_at:2019-04 star:0.0k fork:0.0k Repository for Twitter Open Source Decks
 - [twitter/repo-scaffolding](https://github.com/twitter/repo-scaffolding) pushed_at:2021-08 star:0.0k fork:0.0k Tools for creating repos based on open source standards and best practices
 - [twitter/second-control-probability-distributions](https://github.com/twitter/second-control-probability-distributions) pushed_at:2021-05 star:0.0k fork:0.0k 
@@ -159,21 +159,21 @@
 
 ## Rust
 
-- [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2021-08 star:1.0k fork:0.1k Systems performance telemetry
-- [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2021-08 star:0.4k fork:0.1k A tool for benchmarking RPC services
+- [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2021-09 star:1.0k fork:0.1k Systems performance telemetry
+- [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2021-09 star:0.4k fork:0.1k A tool for benchmarking RPC services
 - [twitter/rustcommon](https://github.com/twitter/rustcommon) pushed_at:2021-09 star:0.2k fork:0.0k Common Twitter Rust lib
 
 ## SCSS
 
-- [twitter/opensource-website](https://github.com/twitter/opensource-website) pushed_at:2021-08 star:1.7k fork:0.6k A listing of open source efforts at Twitter on GitHub
+- [twitter/opensource-website](https://github.com/twitter/opensource-website) pushed_at:2021-09 star:1.7k fork:0.6k A listing of open source efforts at Twitter on GitHub
 
 ## Scala
 
-- [twitter/algebird](https://github.com/twitter/algebird) pushed_at:2021-08 star:2.1k fork:0.3k Abstract Algebra for Scala
+- [twitter/algebird](https://github.com/twitter/algebird) pushed_at:2021-09 star:2.1k fork:0.3k Abstract Algebra for Scala
 - [twitter/bazel-multiversion](https://github.com/twitter/bazel-multiversion) pushed_at:2021-06 star:0.0k fork:0.0k Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier. 
 - [twitter/bijection](https://github.com/twitter/bijection) pushed_at:2021-09 star:0.6k fork:0.1k Reversible conversions between types
 - [twitter/cassovary](https://github.com/twitter/cassovary) pushed_at:2019-06 star:1.0k fork:0.1k Cassovary is a simple big graph processing library for the JVM
-- [twitter/chill](https://github.com/twitter/chill) pushed_at:2021-08 star:0.6k fork:0.1k Scala extensions for the Kryo serialization library
+- [twitter/chill](https://github.com/twitter/chill) pushed_at:2021-09 star:0.6k fork:0.1k Scala extensions for the Kryo serialization library
 - [twitter/finagle](https://github.com/twitter/finagle) pushed_at:2021-09 star:8.0k fork:1.4k A fault tolerant, protocol-agnostic RPC system
 - [twitter/finatra](https://github.com/twitter/finatra) pushed_at:2021-09 star:2.1k fork:0.4k Fast, testable, Scala services built on TwitterServer and Finagle
 - [twitter/finatra-activator-http-seed](https://github.com/twitter/finatra-activator-http-seed) pushed_at:2017-10 star:0.0k fork:0.0k Typesafe activator template for constructing a Finatra HTTP server application:

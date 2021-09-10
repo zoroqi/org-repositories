@@ -73,7 +73,7 @@
 - [ustclug/hackergame2017](https://github.com/ustclug/hackergame2017) pushed_at:2017-10 star:0.0k fork:0.0k 
 - [ustclug/library](https://github.com/ustclug/library) pushed_at:2017-11 star:0.0k fork:0.0k LUG Library
 - [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) pushed_at:2021-08 star:0.0k fork:0.0k LUG VPN 申请系统
-- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2021-08 star:0.3k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
+- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2021-09 star:0.3k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
 - [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) pushed_at:2021-08 star:0.0k fork:0.0k Docker images used by ustcmirror :rocket:
 - [ustclug/website-static](https://github.com/ustclug/website-static) pushed_at:2021-06 star:0.0k fork:0.0k Hosting static content (image/assets) for LUG website
 
@@ -100,7 +100,7 @@
 - [ustclug/pypi-mirror](https://github.com/ustclug/pypi-mirror) pushed_at:2017-02 star:0.0k fork:0.0k 💀 pypi mirror tool (deprecated)
 - [ustclug/rb-backup](https://github.com/ustclug/rb-backup) pushed_at:2018-03 star:0.0k fork:0.0k 基于 rsync 和 ssh 的远程备份脚本，利用 btrfs snapshot 实现增量备份……
 - [ustclug/rubygems-mirror](https://github.com/ustclug/rubygems-mirror) pushed_at:2017-02 star:0.0k fork:0.0k 💀 rubugems mirror tool (deprecated)
-- [ustclug/simple-pxe](https://github.com/ustclug/simple-pxe) pushed_at:2021-06 star:0.0k fork:0.0k 便宜，快速，品质尚可
+- [ustclug/simple-pxe](https://github.com/ustclug/simple-pxe) pushed_at:2021-09 star:0.0k fork:0.0k 便宜，快速，品质尚可
 - [ustclug/telegram-web](https://github.com/ustclug/telegram-web) pushed_at:2017-11 star:0.0k fork:0.0k 💀Telegram Web Client (deprecated)
 
 

@@ -29,7 +29,7 @@
 - [facebook/fishhook](https://github.com/facebook/fishhook) pushed_at:2021-08 star:4.5k fork:0.8k A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
 - [facebook/OpenBIC](https://github.com/facebook/OpenBIC) pushed_at:2021-08 star:0.0k fork:0.0k BICs (Bridge IC) are standalone devices deployed within a Data Center that enable monitoring a multi-host system using a single BMC device.
 - [facebook/openbmc](https://github.com/facebook/openbmc) pushed_at:2021-09 star:0.5k fork:0.2k OpenBMC is an open software framework to build a complete Linux image for a Board Management Controller (BMC).
-- [facebook/openbmc-linux](https://github.com/facebook/openbmc-linux) pushed_at:2021-08 star:0.0k fork:0.0k Linux kernel consumed by OpenBMC
+- [facebook/openbmc-linux](https://github.com/facebook/openbmc-linux) pushed_at:2021-09 star:0.0k fork:0.0k Linux kernel consumed by OpenBMC
 - [facebook/openbmc-uboot](https://github.com/facebook/openbmc-uboot) pushed_at:2021-08 star:0.0k fork:0.0k Tracking Denx Das u-boot with various trusted computing add-ons.
 - [facebook/tac_plus](https://github.com/facebook/tac_plus) pushed_at:2021-08 star:0.1k fork:0.1k A Tacacs+ Daemon tested on Linux (CentOS) to run AAA via TACACS+ Protocol via IPv4 and IPv6.
 - [facebook/transform360](https://github.com/facebook/transform360) pushed_at:2021-08 star:0.9k fork:0.2k Transform360 is an equirectangular to cubemap transform for 360 video.
@@ -38,15 +38,15 @@
 ## C++
 
 - [facebook/bistro](https://github.com/facebook/bistro) pushed_at:2021-09 star:1.0k fork:0.1k Bistro is a flexible distributed scheduler, a high-performance framework supporting multiple paradigms while retaining ease of configuration, management, and monitoring.
-- [facebook/CacheLib](https://github.com/facebook/CacheLib) pushed_at:2021-09 star:0.1k fork:0.0k Pluggable in-process caching engine to build and scale high performance services
+- [facebook/CacheLib](https://github.com/facebook/CacheLib) pushed_at:2021-09 star:0.3k fork:0.0k Pluggable in-process caching engine to build and scale high performance services
 - [facebook/facebook-sdk-for-unity](https://github.com/facebook/facebook-sdk-for-unity) pushed_at:2021-09 star:0.3k fork:0.2k The facebook sdk for unity.
-- [facebook/fatal](https://github.com/facebook/fatal) pushed_at:2021-08 star:0.9k fork:0.1k Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood.
+- [facebook/fatal](https://github.com/facebook/fatal) pushed_at:2021-09 star:0.9k fork:0.1k Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood.
 - [facebook/fb303](https://github.com/facebook/fb303) pushed_at:2021-09 star:0.0k fork:0.0k fb303 is a core set of thrift functions that provide a common mechanism for querying stats and other information from a service.
 - [facebook/fboss](https://github.com/facebook/fboss) pushed_at:2021-09 star:0.7k fork:0.2k Facebook Open Switching System  Software for controlling network switches.
 - [facebook/fbthrift](https://github.com/facebook/fbthrift) pushed_at:2021-09 star:2.2k fork:0.5k Facebook's branch of Apache Thrift, including a new C++ server.
 - [facebook/folly](https://github.com/facebook/folly) pushed_at:2021-09 star:19.7k fork:4.3k An open-source C++ library developed and used at Facebook.
-- [facebook/hermes](https://github.com/facebook/hermes) pushed_at:2021-09 star:6.6k fork:0.4k A JavaScript engine optimized for running React Native.
-- [facebook/hhvm](https://github.com/facebook/hhvm) pushed_at:2021-09 star:17.0k fork:3.0k A virtual machine for executing programs written in Hack.
+- [facebook/hermes](https://github.com/facebook/hermes) pushed_at:2021-09 star:6.7k fork:0.4k A JavaScript engine optimized for running React Native.
+- [facebook/hhvm](https://github.com/facebook/hhvm) pushed_at:2021-09 star:17.1k fork:3.0k A virtual machine for executing programs written in Hack.
 - [facebook/kuduraft](https://github.com/facebook/kuduraft) pushed_at:2021-09 star:0.0k fork:0.0k A Raft Library in C++ based on the Raft implementation in Apache Kudu
 - [facebook/mariana-trench](https://github.com/facebook/mariana-trench) pushed_at:2021-09 star:0.0k fork:0.0k Our security focused static analysis tool for Android and Java applications.
 - [facebook/mcrouter](https://github.com/facebook/mcrouter) pushed_at:2021-09 star:2.9k fork:0.5k Mcrouter is a memcached protocol router for scaling memcached deployments.
@@ -58,7 +58,7 @@
 - [facebook/redex](https://github.com/facebook/redex) pushed_at:2021-09 star:5.4k fork:0.6k A bytecode optimizer for Android apps
 - [facebook/rocksdb](https://github.com/facebook/rocksdb) pushed_at:2021-09 star:20.7k fork:4.6k A library that provides an embeddable, persistent key-value store for fast storage.
 - [facebook/SPARTA](https://github.com/facebook/SPARTA) pushed_at:2021-09 star:0.5k fork:0.0k SPARTA is a library that provides the basic blocks for building high-performance static code analyzers based on Abstract Interpretation.
-- [facebook/squangle](https://github.com/facebook/squangle) pushed_at:2021-08 star:0.1k fork:0.0k SQuangLe is a C++ API for accessing MySQL servers
+- [facebook/squangle](https://github.com/facebook/squangle) pushed_at:2021-09 star:0.1k fork:0.0k SQuangLe is a C++ API for accessing MySQL servers
 - [facebook/ThreatExchange](https://github.com/facebook/ThreatExchange) pushed_at:2021-09 star:0.8k fork:0.2k Share threat information with vetted partners
 - [facebook/treadmill](https://github.com/facebook/treadmill) pushed_at:2021-08 star:0.1k fork:0.0k An intelligent loadtester
 - [facebook/wangle](https://github.com/facebook/wangle) pushed_at:2021-09 star:2.8k fork:0.5k Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
@@ -73,7 +73,7 @@
 
 ## Hack
 
-- [facebook/fbshipit](https://github.com/facebook/fbshipit) pushed_at:2021-08 star:0.3k fork:0.1k Copy commits between repositories · git → git, git → hg, hg → hg, or hg → git
+- [facebook/fbshipit](https://github.com/facebook/fbshipit) pushed_at:2021-09 star:0.3k fork:0.1k Copy commits between repositories · git → git, git → hg, hg → hg, or hg → git
 
 ## Haskell
 
@@ -85,33 +85,33 @@
 
 - [facebook/buck](https://github.com/facebook/buck) pushed_at:2021-09 star:8.0k fork:1.2k A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 - [facebook/facebook-java-business-sdk](https://github.com/facebook/facebook-java-business-sdk) pushed_at:2021-08 star:0.3k fork:0.3k Java SDK for Facebook Ads APIs
-- [facebook/fresco](https://github.com/facebook/fresco) pushed_at:2021-08 star:16.6k fork:3.8k An Android library for managing images and the memory they use.
+- [facebook/fresco](https://github.com/facebook/fresco) pushed_at:2021-09 star:16.7k fork:3.8k An Android library for managing images and the memory they use.
 - [facebook/litho](https://github.com/facebook/litho) pushed_at:2021-09 star:7.3k fork:0.7k A declarative framework for building efficient UIs on Android.
 - [facebook/nailgun](https://github.com/facebook/nailgun) pushed_at:2021-08 star:0.7k fork:0.1k Nailgun is a client, protocol, and server for running Java programs from the command line without incurring the JVM startup overhead.
 - [facebook/robolectric](https://github.com/facebook/robolectric) pushed_at:2019-03 star:0.1k fork:0.0k Android Unit Testing Framework
 - [facebook/screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android) pushed_at:2021-09 star:1.6k fork:0.2k Generate fast deterministic screenshots during Android instrumentation tests
 - [facebook/shimmer-android](https://github.com/facebook/shimmer-android) pushed_at:2021-08 star:4.7k fork:0.6k An easy, flexible way to add a shimmering effect to any view in an Android app.
 - [facebook/SoLoader](https://github.com/facebook/SoLoader) pushed_at:2021-08 star:1.0k fork:0.1k Native code loader for Android
-- [facebook/stetho](https://github.com/facebook/stetho) pushed_at:2021-08 star:12.3k fork:1.1k Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
+- [facebook/stetho](https://github.com/facebook/stetho) pushed_at:2021-08 star:12.4k fork:1.1k Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
 - [facebook/TextLayoutBuilder](https://github.com/facebook/TextLayoutBuilder) pushed_at:2021-01 star:1.4k fork:0.1k An Android library that allows you to build text layouts more easily.
 
 ## JavaScript
 
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) pushed_at:2021-09 star:90.0k fork:22.7k Set up a modern web app by running one command.
-- [facebook/draft-js](https://github.com/facebook/draft-js) pushed_at:2021-09 star:20.7k fork:2.4k A React framework for building text editors.
+- [facebook/create-react-app](https://github.com/facebook/create-react-app) pushed_at:2021-09 star:90.1k fork:22.7k Set up a modern web app by running one command.
+- [facebook/draft-js](https://github.com/facebook/draft-js) pushed_at:2021-09 star:20.8k fork:2.4k A React framework for building text editors.
 - [facebook/facebook-nodejs-business-sdk](https://github.com/facebook/facebook-nodejs-business-sdk) pushed_at:2021-08 star:0.3k fork:0.1k Facebook Ads API using Node.js
 - [facebook/fbjs](https://github.com/facebook/fbjs) pushed_at:2021-09 star:1.8k fork:0.3k A collection of utility libraries used by other Facebook JS projects.
 - [facebook/fbt](https://github.com/facebook/fbt) pushed_at:2021-09 star:3.6k fork:0.2k A JavaScript Internationalization Framework
-- [facebook/flux](https://github.com/facebook/flux) pushed_at:2021-09 star:17.1k fork:3.6k Application Architecture for Building User Interfaces
+- [facebook/flux](https://github.com/facebook/flux) pushed_at:2021-09 star:17.2k fork:3.6k Application Architecture for Building User Interfaces
 - [facebook/instant-articles-builder](https://github.com/facebook/instant-articles-builder) pushed_at:2021-08 star:0.1k fork:0.0k Instant Articles Rules Editor
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) pushed_at:2021-09 star:6.7k fork:0.4k A JavaScript codemod toolkit.
-- [facebook/metro](https://github.com/facebook/metro) pushed_at:2021-09 star:4.1k fork:0.5k 🚇 The JavaScript bundler for React Native.
+- [facebook/metro](https://github.com/facebook/metro) pushed_at:2021-09 star:4.2k fork:0.5k 🚇 The JavaScript bundler for React Native.
 - [facebook/prepack](https://github.com/facebook/prepack) pushed_at:2021-08 star:14.3k fork:0.5k A JavaScript bundle optimizer.
 - [facebook/prop-types](https://github.com/facebook/prop-types) pushed_at:2021-09 star:4.0k fork:0.3k Runtime type checking for React props and similar objects
-- [facebook/react](https://github.com/facebook/react) pushed_at:2021-09 star:174.0k fork:35.1k A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [facebook/react-native](https://github.com/facebook/react-native) pushed_at:2021-09 star:97.6k fork:21.2k A framework for building native applications using React
+- [facebook/react](https://github.com/facebook/react) pushed_at:2021-09 star:174.4k fork:35.2k A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react-native](https://github.com/facebook/react-native) pushed_at:2021-09 star:97.7k fork:21.2k A framework for building native applications using React
 - [facebook/react-native-website](https://github.com/facebook/react-native-website) pushed_at:2021-09 star:1.4k fork:3.6k Configuration and documentation powering the React Native website.
-- [facebook/regenerator](https://github.com/facebook/regenerator) pushed_at:2021-08 star:3.6k fork:1.2k Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
+- [facebook/regenerator](https://github.com/facebook/regenerator) pushed_at:2021-09 star:3.6k fork:1.2k Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
 - [facebook/relay](https://github.com/facebook/relay) pushed_at:2021-09 star:15.9k fork:1.6k Relay is a JavaScript framework for building data-driven React applications.
 
 ## Jupyter Notebook
@@ -125,8 +125,8 @@
 ## OCaml
 
 - [facebook/flow](https://github.com/facebook/flow) pushed_at:2021-09 star:21.4k fork:1.8k Adds static typing to JavaScript to improve developer productivity and code quality.
-- [facebook/infer](https://github.com/facebook/infer) pushed_at:2021-09 star:12.5k fork:1.7k A static analyzer for Java, C, C++, and Objective-C
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) pushed_at:2021-09 star:5.5k fork:0.3k Performant type-checking for python.
+- [facebook/infer](https://github.com/facebook/infer) pushed_at:2021-09 star:12.6k fork:1.7k A static analyzer for Java, C, C++, and Objective-C
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) pushed_at:2021-09 star:5.6k fork:0.4k Performant type-checking for python.
 
 ## Objective-C
 
@@ -136,7 +136,7 @@
 
 ## Objective-C++
 
-- [facebook/componentkit](https://github.com/facebook/componentkit) pushed_at:2021-06 star:5.6k fork:0.6k A React-inspired view framework for iOS.
+- [facebook/componentkit](https://github.com/facebook/componentkit) pushed_at:2021-09 star:5.6k fork:0.6k A React-inspired view framework for iOS.
 - [facebook/FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) pushed_at:2020-12 star:3.9k fork:0.5k iOS library to help detecting retain cycles in runtime.
 
 ## Others
@@ -157,31 +157,31 @@
 - [facebook/facebook-python-business-sdk](https://github.com/facebook/facebook-python-business-sdk) pushed_at:2021-08 star:0.9k fork:0.6k An SDK built to facilitate application development for Facebook Ads API.
 - [facebook/FAI-PEP](https://github.com/facebook/FAI-PEP) pushed_at:2021-09 star:0.3k fork:0.1k Facebook AI Performance Evaluation Platform
 - [facebook/fbkutils](https://github.com/facebook/fbkutils) pushed_at:2021-07 star:0.3k fork:0.1k A variety of utilities built and maintained by Facebook's Linux Kernel Team that we wish to share with the community.
-- [facebook/fbtftp](https://github.com/facebook/fbtftp) pushed_at:2021-08 star:0.4k fork:0.1k fbtftp is Facebook's implementation of a dynamic TFTP server framework.
+- [facebook/fbtftp](https://github.com/facebook/fbtftp) pushed_at:2021-09 star:0.4k fork:0.1k fbtftp is Facebook's implementation of a dynamic TFTP server framework.
 - [facebook/fbzmq](https://github.com/facebook/fbzmq) pushed_at:2021-09 star:0.3k fork:0.1k Facebook ZeroMQ wrappers.
 - [facebook/mysqlclient-python](https://github.com/facebook/mysqlclient-python) pushed_at:2019-03 star:0.0k fork:0.0k MySQL database connector for Python (with Python 3 support)
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) pushed_at:2021-08 star:4.6k fork:0.3k PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 - [facebook/pcicrawler](https://github.com/facebook/pcicrawler) pushed_at:2021-09 star:0.1k fork:0.0k pcicrawler is a Python based command line interface tool which can be used to display, filter and export information about PCI (Peripheral Component Interconnect) or PCIe buses and devices, as well as PCI topology.
-- [facebook/prophet](https://github.com/facebook/prophet) pushed_at:2021-08 star:13.3k fork:3.8k Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
-- [facebook/Recipes-for-AutoPkg](https://github.com/facebook/Recipes-for-AutoPkg) pushed_at:2021-08 star:0.1k fork:0.0k Collection of AutoPkg recipes authored at Facebook.
+- [facebook/prophet](https://github.com/facebook/prophet) pushed_at:2021-09 star:13.3k fork:3.8k Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+- [facebook/Recipes-for-AutoPkg](https://github.com/facebook/Recipes-for-AutoPkg) pushed_at:2021-09 star:0.1k fork:0.0k Collection of AutoPkg recipes authored at Facebook.
 - [facebook/sapp](https://github.com/facebook/sapp) pushed_at:2021-09 star:0.0k fork:0.0k Post Processor for Facebook Static Analysis Tools.
 - [facebook/TestSlide](https://github.com/facebook/TestSlide) pushed_at:2021-08 star:0.1k fork:0.0k A Python test framework
 
 ## Ruby
 
-- [facebook/between-meals](https://github.com/facebook/between-meals) pushed_at:2021-08 star:0.1k fork:0.0k A library to provide calculations between Chef diffs.
-- [facebook/chef-cookbooks](https://github.com/facebook/chef-cookbooks) pushed_at:2021-08 star:0.5k fork:0.1k Open source chef cookbooks.
+- [facebook/between-meals](https://github.com/facebook/between-meals) pushed_at:2021-09 star:0.1k fork:0.0k A library to provide calculations between Chef diffs.
+- [facebook/chef-cookbooks](https://github.com/facebook/chef-cookbooks) pushed_at:2021-09 star:0.5k fork:0.1k Open source chef cookbooks.
 - [facebook/chef-utils](https://github.com/facebook/chef-utils) pushed_at:2021-04 star:0.3k fork:0.1k Utilities related to Chef
 - [facebook/facebook-ruby-business-sdk](https://github.com/facebook/facebook-ruby-business-sdk) pushed_at:2021-08 star:0.2k fork:0.1k An SDK built to facilitate application development for Facebook Ads API using Ruby.
 - [facebook/grocery-delivery](https://github.com/facebook/grocery-delivery) pushed_at:2021-08 star:0.1k fork:0.1k The Grocery Delivery utility for managing cookbook uploads to distributed Chef backends.
-- [facebook/homebrew-fb](https://github.com/facebook/homebrew-fb) pushed_at:2021-08 star:0.1k fork:0.2k OS X Homebrew formulas to install Facebook open source software
+- [facebook/homebrew-fb](https://github.com/facebook/homebrew-fb) pushed_at:2021-09 star:0.1k fork:0.2k OS X Homebrew formulas to install Facebook open source software
 - [facebook/IT-CPE](https://github.com/facebook/IT-CPE) pushed_at:2021-08 star:0.5k fork:0.1k Facebook's IT - Client Platform Engineering tools. Some of the tools we have written to help manage our fleet of client systems. 
 - [facebook/Specs](https://github.com/facebook/Specs) pushed_at:2019-01 star:0.0k fork:0.0k A repository of CocoaPods (cocoapods.org) specifications.
 - [facebook/taste-tester](https://github.com/facebook/taste-tester) pushed_at:2021-08 star:0.1k fork:0.1k Software to manage a chef-zero instance and use it to test changes on production servers.
 
 ## TypeScript
 
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) pushed_at:2021-09 star:26.4k fork:3.4k Easy to maintain open source documentation websites.
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) pushed_at:2021-09 star:26.6k fork:3.5k Easy to maintain open source documentation websites.
 - [facebook/flipper](https://github.com/facebook/flipper) pushed_at:2021-09 star:8.9k fork:0.7k A desktop debugging platform for mobile developers.
 - [facebook/jest](https://github.com/facebook/jest) pushed_at:2021-09 star:36.3k fork:5.3k Delightful JavaScript Testing.
 - [facebook/remodel](https://github.com/facebook/remodel) pushed_at:2021-08 star:0.6k fork:0.1k Remodel is a tool that helps iOS and OS X developers avoid repetitive code by generating Objective-C models that support coding, value comparison, and immutability.
