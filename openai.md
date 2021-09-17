@@ -35,12 +35,12 @@
 
 ## C++
 
-- [openai/atari-py](https://github.com/openai/atari-py) pushed_at:2021-08 star:0.3k fork:0.2k A packaged and slightly-modified version of https://github.com/bbitmaster/ale_python_interface
+- [openai/atari-py](https://github.com/openai/atari-py) pushed_at:2021-09 star:0.3k fork:0.2k A packaged and slightly-modified version of https://github.com/bbitmaster/ale_python_interface
 - [openai/box2d-py](https://github.com/openai/box2d-py) pushed_at:2020-12 star:0.0k fork:0.0k 
 - [openai/coinrun](https://github.com/openai/coinrun) pushed_at:2020-12 star:0.3k fork:0.1k Code for the paper "Quantifying Transfer in Reinforcement Learning"
 - [openai/doom-py](https://github.com/openai/doom-py) pushed_at:2019-10 star:0.1k fork:0.0k ViZDoom Python wrapper
 - [openai/nccl](https://github.com/openai/nccl) pushed_at:2019-04 star:0.0k fork:0.0k Optimized primitives for collective multi-GPU communication
-- [openai/procgen](https://github.com/openai/procgen) pushed_at:2021-06 star:0.5k fork:0.1k Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
+- [openai/procgen](https://github.com/openai/procgen) pushed_at:2021-06 star:0.6k fork:0.1k Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
 - [openai/pytorch](https://github.com/openai/pytorch) pushed_at:2021-09 star:0.0k fork:0.0k Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [openai/robot_controllers](https://github.com/openai/robot_controllers) pushed_at:2016-07 star:0.0k fork:0.0k Robot control infrastructure
 - [openai/triton](https://github.com/openai/triton) pushed_at:2021-09 star:3.2k fork:0.2k Development repository for the Triton language and compiler
@@ -76,7 +76,7 @@
 ## Jupyter Notebook
 
 - [openai/baselines-results](https://github.com/openai/baselines-results) pushed_at:2020-07 star:0.1k fork:0.0k 
-- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-08 star:4.7k fork:0.5k Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-09 star:4.7k fork:0.6k Contrastive Language-Image Pretraining
 - [openai/lucid](https://github.com/openai/lucid) pushed_at:2019-01 star:0.0k fork:0.0k A collection of infrastructure and tools for research in neural network interpretability.
 - [openai/ot-gan](https://github.com/openai/ot-gan) pushed_at:2018-11 star:0.0k fork:0.0k  Code for the paper "Improving GANs Using Optimal Transport"
 
@@ -94,7 +94,7 @@
 - [openai/bchess-personal](https://github.com/openai/bchess-personal) pushed_at:2020-07 star:0.0k fork:0.0k temporarily public for a bug report
 - [openai/consul-helm](https://github.com/openai/consul-helm) pushed_at:2020-10 star:0.0k fork:0.0k Helm chart to install Consul and other associated components.
 - [openai/go-retryablehttp](https://github.com/openai/go-retryablehttp) pushed_at:2020-06 star:0.0k fork:0.0k Retryable HTTP client in Go
-- [openai/gpt-3](https://github.com/openai/gpt-3) pushed_at:2020-09 star:10.6k fork:1.3k GPT-3: Language Models are Few-Shot Learners
+- [openai/gpt-3](https://github.com/openai/gpt-3) pushed_at:2020-09 star:10.7k fork:1.3k GPT-3: Language Models are Few-Shot Learners
 - [openai/GPT-3-Encoder](https://github.com/openai/GPT-3-Encoder) pushed_at:2020-11 star:0.0k fork:0.0k Javascript BPE Encoder Decoder for GPT-2 / GPT-3
 - [openai/jeffwu-dotfiles](https://github.com/openai/jeffwu-dotfiles) pushed_at:2021-09 star:0.0k fork:0.0k my configuration files
 - [openai/lustre](https://github.com/openai/lustre) pushed_at:2021-01 star:0.0k fork:0.0k 
@@ -133,7 +133,7 @@
 - [openai/improved-diffusion](https://github.com/openai/improved-diffusion) pushed_at:2021-03 star:0.2k fork:0.0k Release for Improved Denoising Diffusion Probabilistic Models
 - [openai/improved-gan](https://github.com/openai/improved-gan) pushed_at:2018-11 star:2.1k fork:0.6k Code for the paper "Improved Techniques for Training GANs"
 - [openai/InfoGAN](https://github.com/openai/InfoGAN) pushed_at:2021-03 star:1.0k fork:0.3k Code for reproducing key results in the paper "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets"
-- [openai/jukebox](https://github.com/openai/jukebox) pushed_at:2021-08 star:4.6k fork:0.7k Code for the paper "Jukebox: A Generative Model for Music"
+- [openai/jukebox](https://github.com/openai/jukebox) pushed_at:2021-09 star:4.6k fork:0.7k Code for the paper "Jukebox: A Generative Model for Music"
 - [openai/kubernetes-ec2-autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler) pushed_at:2019-06 star:0.8k fork:0.1k A batch-optimized scaling manager for Kubernetes
 - [openai/large-scale-curiosity](https://github.com/openai/large-scale-curiosity) pushed_at:2021-08 star:0.7k fork:0.2k Code for the paper "Large-Scale Study of Curiosity-Driven Learning"
 - [openai/LHOPT](https://github.com/openai/LHOPT) pushed_at:2021-06 star:0.0k fork:0.0k Learned Hyperparameter Optimizers

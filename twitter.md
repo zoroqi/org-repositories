@@ -40,11 +40,11 @@
 - [twitter/fatcache](https://github.com/twitter/fatcache) pushed_at:2021-04 star:1.3k fork:0.2k Memcache on SSD
 - [twitter/ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) pushed_at:2020-10 star:1.8k fork:0.1k Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
-- [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2021-09 star:0.7k fork:0.1k Pelikan is Twitter's unified cache backend
+- [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2021-09 star:0.8k fork:0.1k Pelikan is Twitter's unified cache backend
 - [twitter/torch-ipc](https://github.com/twitter/torch-ipc) pushed_at:2017-06 star:0.1k fork:0.0k A set of primitives for parallel computation in Torch
 - [twitter/torch-thrift](https://github.com/twitter/torch-thrift) pushed_at:2016-03 star:0.0k fork:0.0k A Thrift codec for Torch
 - [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2019-08 star:0.9k fork:0.1k Twemcache is the Twitter Memcached
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-08 star:10.9k fork:1.9k A fast, light-weight proxy for memcached and redis
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-09 star:10.9k fork:1.9k A fast, light-weight proxy for memcached and redis
 
 ## C#
 
@@ -71,7 +71,7 @@
 
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) pushed_at:2019-06 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-08 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-09 star:13.2k fork:1.5k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-09 star:13.3k fork:1.5k Emoji for everyone. https://twemoji.twitter.com/
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2021-09 star:2.6k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-08 star:0.0k fork:0.0k 
 
@@ -101,7 +101,7 @@
 - [twitter/SentenTree](https://github.com/twitter/SentenTree) pushed_at:2021-08 star:0.2k fork:0.0k A novel text visualization technique
 - [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) pushed_at:2021-03 star:0.3k fork:0.0k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
 - [twitter/twitter-cldr-npm](https://github.com/twitter/twitter-cldr-npm) pushed_at:2019-08 star:0.0k fork:0.0k TwitterCldr npm package
-- [twitter/typeahead.js](https://github.com/twitter/typeahead.js) pushed_at:2021-08 star:16.3k fork:3.3k typeahead.js is a fast and fully-featured autocomplete library
+- [twitter/typeahead.js](https://github.com/twitter/typeahead.js) pushed_at:2021-09 star:16.3k fork:3.3k typeahead.js is a fast and fully-featured autocomplete library
 
 ## Lua
 
@@ -120,7 +120,7 @@
 
 ## Others
 
-- [twitter/.github](https://github.com/twitter/.github) pushed_at:2021-05 star:0.0k fork:0.0k Twitter GitHub Organization-wide files
+- [twitter/.github](https://github.com/twitter/.github) pushed_at:2021-09 star:0.0k fork:0.0k Twitter GitHub Organization-wide files
 - [twitter/analytics-infra-governance](https://github.com/twitter/analytics-infra-governance) pushed_at:2017-10 star:0.0k fork:0.0k Description of the process for how to commit, review, and release code to the Scalding OSS family (Scalding, Summingbird, Algebird, Bijection, Storehaus, etc)
 - [twitter/code-of-conduct](https://github.com/twitter/code-of-conduct) pushed_at:2021-08 star:0.1k fork:0.1k Open Source Code of Conduct at Twitter
 - [twitter/curation-style-guide](https://github.com/twitter/curation-style-guide) pushed_at:2019-06 star:0.0k fork:0.0k Document Repository for Twitter's Curation Style Guide

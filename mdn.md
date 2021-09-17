@@ -32,18 +32,18 @@
 ## HTML
 
 - [mdn/_test_content_dont_use](https://github.com/mdn/_test_content_dont_use) pushed_at:2020-08 star:0.0k fork:0.0k 
-- [mdn/archived-content](https://github.com/mdn/archived-content) pushed_at:2021-06 star:0.0k fork:0.1k Archived MDN Web Docs content that is not actively maintained or frequently built
+- [mdn/archived-content](https://github.com/mdn/archived-content) pushed_at:2021-09 star:0.0k fork:0.1k Archived MDN Web Docs content that is not actively maintained or frequently built
 - [mdn/archived_kumascript](https://github.com/mdn/archived_kumascript) pushed_at:2017-01 star:0.0k fork:0.0k Archive of KumaScript Templates / macros, 2005-2016
-- [mdn/beginner-html-site](https://github.com/mdn/beginner-html-site) pushed_at:2021-08 star:0.2k fork:0.3k A simple one page website created to help complete beginners learn HTML basics. This example is built up over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/HTML_basics
+- [mdn/beginner-html-site](https://github.com/mdn/beginner-html-site) pushed_at:2021-09 star:0.2k fork:0.3k A simple one page website created to help complete beginners learn HTML basics. This example is built up over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/HTML_basics
 - [mdn/beginner-html-site-scripted](https://github.com/mdn/beginner-html-site-scripted) pushed_at:2021-04 star:0.2k fork:0.2k A simple one page website created to help complete beginners learn HTML basics, which in this repo has also had some script added to help beginners learn JavaScript basics. The scripting is explained over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics. 
 - [mdn/beginner-html-site-styled](https://github.com/mdn/beginner-html-site-styled) pushed_at:2021-07 star:0.1k fork:0.4k A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics.
 - [mdn/beginning-programming-content-kit](https://github.com/mdn/beginning-programming-content-kit) pushed_at:2019-03 star:0.0k fork:0.0k This is a Content Kit for people who want to teach programming to beginners.
-- [mdn/content](https://github.com/mdn/content) pushed_at:2021-09 star:3.3k fork:3.0k The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) pushed_at:2021-09 star:3.3k fork:3.1k The content behind MDN Web Docs
 - [mdn/content-kit-template](https://github.com/mdn/content-kit-template) pushed_at:2016-05 star:0.0k fork:0.0k This is the repo to fork or clone when creating a new MDN Content Kit.
 - [mdn/css-examples](https://github.com/mdn/css-examples) pushed_at:2021-09 star:0.3k fork:0.4k Code examples that accompany the MDN CSS documentation
 - [mdn/devtools-examples](https://github.com/mdn/devtools-examples) pushed_at:2019-04 star:0.0k fork:0.0k Code examples that accompany the MDN Firefox Developer Tools documentation
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) pushed_at:2021-06 star:1.2k fork:0.8k Code examples that accompany various MDN DOM and Web API documentation pages
-- [mdn/fetch-examples](https://github.com/mdn/fetch-examples) pushed_at:2021-03 star:0.4k fork:0.2k A repository of Fetch examples. See https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API for the corresponding documentation.
+- [mdn/fetch-examples](https://github.com/mdn/fetch-examples) pushed_at:2021-03 star:0.5k fork:0.2k A repository of Fetch examples. See https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API for the corresponding documentation.
 - [mdn/fibonacci-worker](https://github.com/mdn/fibonacci-worker) pushed_at:2019-04 star:0.0k fork:0.0k A web worker that calculates fibonacci numbers.
 - [mdn/houdini-examples](https://github.com/mdn/houdini-examples) pushed_at:2021-01 star:0.0k fork:0.0k CSS Houdini examples relating to MDN content.
 - [mdn/html-examples](https://github.com/mdn/html-examples) pushed_at:2020-11 star:0.1k fork:0.1k Code examples that accompany the MDN HTML documentation: https://developer.mozilla.org/en-US/docs/Web/HTML
@@ -51,7 +51,7 @@
 - [mdn/insights](https://github.com/mdn/insights) pushed_at:2021-09 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) pushed_at:2021-09 star:0.4k fork:0.4k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
-- [mdn/learning-area](https://github.com/mdn/learning-area) pushed_at:2021-09 star:4.2k fork:14.8k Github repo for the MDN Learning Area. 
+- [mdn/learning-area](https://github.com/mdn/learning-area) pushed_at:2021-09 star:4.2k fork:14.9k Github repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) pushed_at:2019-03 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
 - [mdn/learning-area-pt-br](https://github.com/mdn/learning-area-pt-br) pushed_at:2021-03 star:0.0k fork:0.1k The MDN Learning Area code examples translated into Brazilian Portuguese.
 - [mdn/machine-translation-testing-content](https://github.com/mdn/machine-translation-testing-content) pushed_at:2020-11 star:0.0k fork:0.0k This is a repository for testing machine translations of English content.
@@ -62,7 +62,7 @@
 - [mdn/simple-shared-worker](https://github.com/mdn/simple-shared-worker) pushed_at:2019-04 star:0.2k fork:0.1k A simple demo to show shared worker basics.
 - [mdn/sphinx-theme](https://github.com/mdn/sphinx-theme) pushed_at:2017-10 star:0.0k fork:0.0k  (Deprecated) Make Sphinx docs look like MDN
 - [mdn/todo-react-build](https://github.com/mdn/todo-react-build) pushed_at:2020-05 star:0.0k fork:0.0k Live version of our sample todo app built with the React/ReactDOM framework.
-- [mdn/translated-content](https://github.com/mdn/translated-content) pushed_at:2021-09 star:0.3k fork:0.9k All translated MDN content in raw form
+- [mdn/translated-content](https://github.com/mdn/translated-content) pushed_at:2021-09 star:0.3k fork:1.0k All translated MDN content in raw form
 - [mdn/translated-content-rendered](https://github.com/mdn/translated-content-rendered) pushed_at:2021-02 star:0.0k fork:0.0k All translated (non-archived) MDN content in fully rendered form
 - [mdn/viewsourceconf](https://github.com/mdn/viewsourceconf) pushed_at:2019-03 star:0.0k fork:0.0k Repo for View Source Conference site
 - [mdn/web-tech-games](https://github.com/mdn/web-tech-games) pushed_at:2021-04 star:0.0k fork:0.0k Interactive diagram showing what parts of the web technology stack can used for different purposes when creating games. Includes links to more information about each.
@@ -109,7 +109,7 @@
 - [mdn/web-components-examples](https://github.com/mdn/web-components-examples) pushed_at:2021-06 star:1.8k fork:0.5k A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 - [mdn/web-dictaphone](https://github.com/mdn/web-dictaphone) pushed_at:2021-08 star:0.4k fork:0.2k A sample MDN app that uses getUserMedia and MediaRecorder API for recording audio snippets, and The Web Audio API for visualizations.
 - [mdn/web-speech-api](https://github.com/mdn/web-speech-api) pushed_at:2020-05 star:1.2k fork:0.7k A repository for demos illustrating features of the Web Speech API. See https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API for more details.
-- [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) pushed_at:2021-09 star:2.9k fork:2.2k Example Firefox add-ons created using the WebExtensions API
+- [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) pushed_at:2021-09 star:3.0k fork:2.2k Example Firefox add-ons created using the WebExtensions API
 - [mdn/webgl-examples](https://github.com/mdn/webgl-examples) pushed_at:2021-07 star:1.0k fork:1.0k Code examples that accompany the MDN WebGL documentation
 - [mdn/webvr-tests](https://github.com/mdn/webvr-tests) pushed_at:2019-03 star:0.1k fork:0.0k A set of simple tests for testing WebVR functionality. See https://developer.mozilla.org/en-US/docs/Web/API/WebVR_API for the latest on the documentation.
 - [mdn/world-clock](https://github.com/mdn/world-clock) pushed_at:2019-04 star:0.0k fork:0.0k An Ember-based app, built as a sample to demonstrate Ember/Ember CLI and modern web architecture. This goes along with the article series found at https://developer.mozilla.org/en-US/Apps/Build/Modern_web_app_architecture.
@@ -117,7 +117,7 @@
 
 ## Jinja
 
-- [mdn/ansible-jenkins](https://github.com/mdn/ansible-jenkins) pushed_at:2021-08 star:0.0k fork:0.0k Jenkins ansible playbook
+- [mdn/ansible-jenkins](https://github.com/mdn/ansible-jenkins) pushed_at:2021-09 star:0.0k fork:0.0k Jenkins ansible playbook
 
 ## Others
 

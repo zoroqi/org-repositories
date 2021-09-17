@@ -34,7 +34,7 @@
 - [tensorflow/ngraph-bridge](https://github.com/tensorflow/ngraph-bridge) pushed_at:2021-02 star:0.1k fork:0.1k TensorFlow-nGraph bridge
 - [tensorflow/runtime](https://github.com/tensorflow/runtime) pushed_at:2021-09 star:0.6k fork:0.1k A performant and modular runtime for TensorFlow
 - [tensorflow/serving](https://github.com/tensorflow/serving) pushed_at:2021-09 star:5.2k fork:2.0k A flexible, high-performance serving system for machine learning models
-- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) pushed_at:2021-09 star:159.0k fork:85.5k An Open Source Machine Learning Framework for Everyone
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) pushed_at:2021-09 star:159.1k fork:85.5k An Open Source Machine Learning Framework for Everyone
 - [tensorflow/tensorstore](https://github.com/tensorflow/tensorstore) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [tensorflow/tflite-micro](https://github.com/tensorflow/tflite-micro) pushed_at:2021-09 star:0.2k fork:0.1k TensorFlow Lite for Microcontrollers
 - [tensorflow/tflite-micro-arduino-examples](https://github.com/tensorflow/tflite-micro-arduino-examples) pushed_at:2021-09 star:0.0k fork:0.0k 
@@ -73,7 +73,7 @@
 - [tensorflow/docs](https://github.com/tensorflow/docs) pushed_at:2021-09 star:4.8k fork:4.6k TensorFlow documentation
 - [tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) pushed_at:2021-09 star:0.4k fork:0.5k Translations of TensorFlow documentation
 - [tensorflow/examples](https://github.com/tensorflow/examples) pushed_at:2021-09 star:5.3k fork:5.5k TensorFlow examples
-- [tensorflow/fairness-indicators](https://github.com/tensorflow/fairness-indicators) pushed_at:2021-08 star:0.2k fork:0.1k Tensorflow's Fairness Evaluation and Visualization Toolkit
+- [tensorflow/fairness-indicators](https://github.com/tensorflow/fairness-indicators) pushed_at:2021-09 star:0.2k fork:0.1k Tensorflow's Fairness Evaluation and Visualization Toolkit
 - [tensorflow/gan](https://github.com/tensorflow/gan) pushed_at:2021-09 star:0.6k fork:0.2k Tooling for GANs in TensorFlow
 - [tensorflow/lucid](https://github.com/tensorflow/lucid) pushed_at:2021-07 star:4.3k fork:0.6k A collection of infrastructure and tools for research in neural network interpretability.
 - [tensorflow/probability](https://github.com/tensorflow/probability) pushed_at:2021-09 star:3.5k fork:0.9k Probabilistic reasoning and statistical analysis in TensorFlow
@@ -112,12 +112,12 @@
 - [tensorflow/lattice](https://github.com/tensorflow/lattice) pushed_at:2021-04 star:0.5k fork:0.1k Lattice methods in TensorFlow
 - [tensorflow/lingvo](https://github.com/tensorflow/lingvo) pushed_at:2021-09 star:2.3k fork:0.4k Lingvo
 - [tensorflow/mesh](https://github.com/tensorflow/mesh) pushed_at:2021-09 star:1.1k fork:0.2k Mesh TensorFlow: Model Parallelism Made Easier
-- [tensorflow/metadata](https://github.com/tensorflow/metadata) pushed_at:2021-07 star:0.1k fork:0.0k Utilities for passing TensorFlow-related metadata between tools
+- [tensorflow/metadata](https://github.com/tensorflow/metadata) pushed_at:2021-09 star:0.1k fork:0.0k Utilities for passing TensorFlow-related metadata between tools
 - [tensorflow/model-analysis](https://github.com/tensorflow/model-analysis) pushed_at:2021-09 star:1.1k fork:0.2k Model analysis tools for TensorFlow
 - [tensorflow/model-card-toolkit](https://github.com/tensorflow/model-card-toolkit) pushed_at:2021-09 star:0.2k fork:0.0k  a tool that leverages rich metadata and lineage information in MLMD to build a model card
 - [tensorflow/model-optimization](https://github.com/tensorflow/model-optimization) pushed_at:2021-09 star:1.1k fork:0.3k A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning.
 - [tensorflow/model-remediation](https://github.com/tensorflow/model-remediation) pushed_at:2021-07 star:0.0k fork:0.0k Model Remediation is a library that provides solutions for machine learning practitioners working to create and train models in a way that reduces or eliminates user harm resulting from underlying performance biases.
-- [tensorflow/models](https://github.com/tensorflow/models) pushed_at:2021-09 star:71.2k fork:44.8k Models and examples built with TensorFlow
+- [tensorflow/models](https://github.com/tensorflow/models) pushed_at:2021-09 star:71.3k fork:44.8k Models and examples built with TensorFlow
 - [tensorflow/moonlight](https://github.com/tensorflow/moonlight) pushed_at:2021-08 star:0.3k fork:0.1k Optical music recognition in TensorFlow
 - [tensorflow/neural-structured-learning](https://github.com/tensorflow/neural-structured-learning) pushed_at:2021-09 star:0.9k fork:0.2k Training neural models with structured signals.
 - [tensorflow/nmt](https://github.com/tensorflow/nmt) pushed_at:2021-04 star:5.9k fork:1.9k TensorFlow Neural Machine Translation Tutorial
@@ -125,9 +125,9 @@
 - [tensorflow/quantum](https://github.com/tensorflow/quantum) pushed_at:2021-09 star:1.3k fork:0.3k Hybrid Quantum-Classical Machine Learning in TensorFlow
 - [tensorflow/ranking](https://github.com/tensorflow/ranking) pushed_at:2021-07 star:2.3k fork:0.4k Learning to Rank in TensorFlow
 - [tensorflow/recommenders](https://github.com/tensorflow/recommenders) pushed_at:2021-09 star:1.0k fork:0.1k TensorFlow Recommenders is a library for building recommender system models using TensorFlow.
-- [tensorflow/similarity](https://github.com/tensorflow/similarity) pushed_at:2021-09 star:0.0k fork:0.0k TensorFlow Similarity is a python package focused on making similarity learning quick and easy.
+- [tensorflow/similarity](https://github.com/tensorflow/similarity) pushed_at:2021-09 star:0.4k fork:0.0k TensorFlow Similarity is a python package focused on making similarity learning quick and easy.
 - [tensorflow/skflow](https://github.com/tensorflow/skflow) pushed_at:2021-08 star:3.2k fork:0.5k Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
-- [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) pushed_at:2021-08 star:11.5k fork:2.9k Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
+- [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) pushed_at:2021-08 star:11.6k fork:2.9k Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [tensorflow/tensorboard-plugin-example](https://github.com/tensorflow/tensorboard-plugin-example) pushed_at:2019-08 star:0.1k fork:0.1k 
 - [tensorflow/text](https://github.com/tensorflow/text) pushed_at:2021-09 star:0.8k fork:0.1k Making text a first-class citizen in TensorFlow.
 - [tensorflow/tfhub.dev](https://github.com/tensorflow/tfhub.dev) pushed_at:2021-09 star:0.0k fork:0.0k 
@@ -137,7 +137,7 @@
 
 ## Rust
 
-- [tensorflow/rust](https://github.com/tensorflow/rust) pushed_at:2021-09 star:3.2k fork:0.3k Rust language bindings for TensorFlow
+- [tensorflow/rust](https://github.com/tensorflow/rust) pushed_at:2021-09 star:3.3k fork:0.3k Rust language bindings for TensorFlow
 
 ## Scala
 
@@ -153,7 +153,7 @@
 
 ## Starlark
 
-- [tensorflow/toolchains](https://github.com/tensorflow/toolchains) pushed_at:2021-08 star:0.0k fork:0.0k Bazel toolchain configurations used across TensorFlow ecosystem
+- [tensorflow/toolchains](https://github.com/tensorflow/toolchains) pushed_at:2021-09 star:0.0k fork:0.0k Bazel toolchain configurations used across TensorFlow ecosystem
 
 ## Swift
 

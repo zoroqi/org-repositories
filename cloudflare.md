@@ -44,7 +44,7 @@
 
 - [cloudflare/brotli-go](https://github.com/cloudflare/brotli-go) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [cloudflare/cf-nocompress](https://github.com/cloudflare/cf-nocompress) pushed_at:2019-04 star:0.0k fork:0.0k An nginx module to prevent generic compression oracles
-- [cloudflare/cloudflare-blog](https://github.com/cloudflare/cloudflare-blog) pushed_at:2021-05 star:0.8k fork:0.2k Cloudflare Blog code samples
+- [cloudflare/cloudflare-blog](https://github.com/cloudflare/cloudflare-blog) pushed_at:2021-09 star:0.8k fork:0.2k Cloudflare Blog code samples
 - [cloudflare/cloudflare-workers-wasm-demo](https://github.com/cloudflare/cloudflare-workers-wasm-demo) pushed_at:2019-08 star:0.1k fork:0.0k 
 - [cloudflare/doom-wasm](https://github.com/cloudflare/doom-wasm) pushed_at:2021-05 star:0.1k fork:0.0k Chocolate Doom WebAssembly port with WebSockets support
 - [cloudflare/golz4](https://github.com/cloudflare/golz4) pushed_at:2019-11 star:0.1k fork:0.0k Golang interface to LZ4 compression
@@ -167,7 +167,7 @@
 - [cloudflare/oauth2](https://github.com/cloudflare/oauth2) pushed_at:2018-01 star:0.0k fork:0.0k Go OAuth2
 - [cloudflare/odoh-client-go](https://github.com/cloudflare/odoh-client-go) pushed_at:2021-08 star:0.1k fork:0.0k Oblivious DoH client
 - [cloudflare/odoh-go](https://github.com/cloudflare/odoh-go) pushed_at:2021-06 star:0.1k fork:0.0k Oblivious DoH library in Go
-- [cloudflare/odoh-server-go](https://github.com/cloudflare/odoh-server-go) pushed_at:2021-08 star:0.0k fork:0.0k Oblivious DoH server in Go
+- [cloudflare/odoh-server-go](https://github.com/cloudflare/odoh-server-go) pushed_at:2021-09 star:0.0k fork:0.0k Oblivious DoH server in Go
 - [cloudflare/opaque-core](https://github.com/cloudflare/opaque-core) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [cloudflare/opaque-ea](https://github.com/cloudflare/opaque-ea) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [cloudflare/opentsdb_exporter](https://github.com/cloudflare/opentsdb_exporter) pushed_at:2018-05 star:0.0k fork:0.0k Prometheus exporter for OpenTSDB
@@ -193,7 +193,7 @@
 
 ## HCL
 
-- [cloudflare/argo-tunnel-examples](https://github.com/cloudflare/argo-tunnel-examples) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [cloudflare/argo-tunnel-examples](https://github.com/cloudflare/argo-tunnel-examples) pushed_at:2021-06 star:0.1k fork:0.0k 
 
 ## HTML
 
@@ -263,7 +263,7 @@
 - [cloudflare/modules-webpack-commonjs](https://github.com/cloudflare/modules-webpack-commonjs) pushed_at:2021-07 star:0.0k fork:0.0k Template for modules, webpack, commonjs
 - [cloudflare/netjet](https://github.com/cloudflare/netjet) pushed_at:2021-08 star:0.1k fork:0.0k Express middleware to generate preload headers
 - [cloudflare/ng-showdown](https://github.com/cloudflare/ng-showdown) pushed_at:2017-06 star:0.0k fork:0.0k Angular integration for Showdown
-- [cloudflare/node-cloudflare](https://github.com/cloudflare/node-cloudflare) pushed_at:2021-08 star:0.2k fork:0.1k Node.js API for Client API
+- [cloudflare/node-cloudflare](https://github.com/cloudflare/node-cloudflare) pushed_at:2021-09 star:0.2k fork:0.1k Node.js API for Client API
 - [cloudflare/postgrest-worker-example](https://github.com/cloudflare/postgrest-worker-example) pushed_at:2021-06 star:0.0k fork:0.0k Example Workers function for interfacing with a PostgreSQL database, using PostgREST
 - [cloudflare/python-worker-hello-world](https://github.com/cloudflare/python-worker-hello-world) pushed_at:2021-01 star:0.1k fork:0.0k Python hello world for Cloudflare Workers
 - [cloudflare/random-employee-chat](https://github.com/cloudflare/random-employee-chat) pushed_at:2021-03 star:0.0k fork:0.0k 
@@ -420,7 +420,7 @@
 - [cloudflare/boringtun](https://github.com/cloudflare/boringtun) pushed_at:2021-09 star:3.5k fork:0.2k Userspace WireGuard® Implementation in Rust
 - [cloudflare/cfnts](https://github.com/cloudflare/cfnts) pushed_at:2020-06 star:0.2k fork:0.0k Cloudflare's implementation of the NTS protocol written in Rust
 - [cloudflare/chrome-devtools-rs](https://github.com/cloudflare/chrome-devtools-rs) pushed_at:2021-07 star:0.0k fork:0.0k Rust library for the Chrome Devtools Protocol
-- [cloudflare/cloudflare-rs](https://github.com/cloudflare/cloudflare-rs) pushed_at:2021-08 star:0.2k fork:0.0k Rust library for the Cloudflare v4 API
+- [cloudflare/cloudflare-rs](https://github.com/cloudflare/cloudflare-rs) pushed_at:2021-09 star:0.2k fork:0.0k Rust library for the Cloudflare v4 API
 - [cloudflare/daemonize](https://github.com/cloudflare/daemonize) pushed_at:2019-03 star:0.0k fork:0.0k Library for writing system daemons
 - [cloudflare/hyper](https://github.com/cloudflare/hyper) pushed_at:2021-04 star:0.0k fork:0.0k An HTTP library for Rust
 - [cloudflare/lazyhtml](https://github.com/cloudflare/lazyhtml) pushed_at:2019-12 star:0.1k fork:0.0k HTML5-compliant parser and serializer than enables building transformation pipeline in a pluggable manner
@@ -431,11 +431,11 @@
 - [cloudflare/quiche](https://github.com/cloudflare/quiche) pushed_at:2021-09 star:5.1k fork:0.3k 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [cloudflare/rust-binary-install](https://github.com/cloudflare/rust-binary-install) pushed_at:2020-11 star:0.0k fork:0.0k 
 - [cloudflare/rustwasm-worker-template](https://github.com/cloudflare/rustwasm-worker-template) pushed_at:2021-09 star:0.2k fork:0.0k A template for kick starting a Cloudflare Worker project using workers-rs. Write your Cloudflare Worker entirely in Rust!
-- [cloudflare/saffron](https://github.com/cloudflare/saffron) pushed_at:2021-08 star:0.2k fork:0.0k The cron parser powering Cron Triggers on Cloudflare Workers
+- [cloudflare/saffron](https://github.com/cloudflare/saffron) pushed_at:2021-09 star:0.2k fork:0.0k The cron parser powering Cron Triggers on Cloudflare Workers
 - [cloudflare/serde-wasm-bindgen](https://github.com/cloudflare/serde-wasm-bindgen) pushed_at:2021-08 star:0.2k fork:0.0k Native integration of Serde with wasm-bindgen
 - [cloudflare/sliceslice-rs](https://github.com/cloudflare/sliceslice-rs) pushed_at:2021-09 star:0.0k fork:0.0k A fast implementation of single-pattern substring search using SIMD acceleration.
 - [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) pushed_at:2021-08 star:0.7k fork:0.1k An execution engine for Wireshark-like filters
-- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) pushed_at:2021-09 star:0.2k fork:0.0k Write Cloudflare Workers in 100% Rust via WebAssembly
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) pushed_at:2021-09 star:0.4k fork:0.0k Write Cloudflare Workers in 100% Rust via WebAssembly
 - [cloudflare/wrangler](https://github.com/cloudflare/wrangler) pushed_at:2021-09 star:2.4k fork:0.3k 🤠   wrangle your cloudflare workers
 
 ## Scala
@@ -472,7 +472,7 @@
 - [cloudflare/stream-angular](https://github.com/cloudflare/stream-angular) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [cloudflare/stream-react](https://github.com/cloudflare/stream-react) pushed_at:2021-07 star:0.1k fork:0.0k 
 - [cloudflare/template-registry](https://github.com/cloudflare/template-registry) pushed_at:2021-06 star:0.0k fork:0.0k  A simple API via a Worker that serves all the template content
-- [cloudflare/worker-typescript-template](https://github.com/cloudflare/worker-typescript-template) pushed_at:2021-07 star:0.2k fork:0.0k ʕ •́؈•̀) TypeScript template for Cloudflare Workers
+- [cloudflare/worker-typescript-template](https://github.com/cloudflare/worker-typescript-template) pushed_at:2021-09 star:0.2k fork:0.0k ʕ •́؈•̀) TypeScript template for Cloudflare Workers
 - [cloudflare/workers-honeycomb-logger](https://github.com/cloudflare/workers-honeycomb-logger) pushed_at:2021-08 star:0.0k fork:0.0k A library to easily send request events and traces to https://honeycomb.io
 - [cloudflare/workers-types](https://github.com/cloudflare/workers-types) pushed_at:2021-09 star:0.1k fork:0.0k TypeScript type definitions for authoring Cloudflare Workers.
 - [cloudflare/zkp-ecdsa](https://github.com/cloudflare/zkp-ecdsa) pushed_at:2021-08 star:0.1k fork:0.0k Proves knowledge of a ECDSA-P256 signature under one of many public keys that are stored in a list.

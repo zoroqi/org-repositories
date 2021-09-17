@@ -111,7 +111,7 @@
 - [oracle/oci-flexvolume-driver](https://github.com/oracle/oci-flexvolume-driver) pushed_at:2020-06 star:0.0k fork:0.0k A Kubernetes volume driver for Oracle Cloud Infrastructure
 - [oracle/oci-go-sdk](https://github.com/oracle/oci-go-sdk) pushed_at:2021-09 star:0.1k fork:0.1k Go SDK for Oracle Cloud Infrastructure 
 - [oracle/oci-manager](https://github.com/oracle/oci-manager) pushed_at:2018-12 star:0.0k fork:0.0k Collection of Kubernetes controllers for autonomous management of Oracle Cloud Infrastucture resources
-- [oracle/oci-service-operator](https://github.com/oracle/oci-service-operator) pushed_at:2021-08 star:0.0k fork:0.0k The OCI Service Operator for Kubernetes (OSOK) makes it easy to connect and manage OCI services from a cloud native application running in a Kubernetes environment.
+- [oracle/oci-service-operator](https://github.com/oracle/oci-service-operator) pushed_at:2021-09 star:0.0k fork:0.0k The OCI Service Operator for Kubernetes (OSOK) makes it easy to connect and manage OCI services from a cloud native application running in a Kubernetes environment.
 - [oracle/oci-volume-provisioner](https://github.com/oracle/oci-volume-provisioner) pushed_at:2020-06 star:0.0k fork:0.0k The OCI Volume Provisioner enables dynamic provisioning of storage resources when running Kubernetes on Oracle Cloud Infrastructure
 - [oracle/smith](https://github.com/oracle/smith) pushed_at:2019-12 star:0.6k fork:0.0k Smith: A microcontainer builder
 - [oracle/speedle](https://github.com/oracle/speedle) pushed_at:2020-06 star:0.2k fork:0.0k Speedle is an open source project for access control.
@@ -192,7 +192,7 @@
 - [oracle/oci-toolkit-eclipse](https://github.com/oracle/oci-toolkit-eclipse) pushed_at:2021-09 star:0.0k fork:0.0k Oracle Cloud Infrastructure Toolkit for Eclipse
 - [oracle/okafka](https://github.com/oracle/okafka) pushed_at:2020-04 star:0.0k fork:0.0k Kafka Java Client for Oracle Transactional Event Queues
 - [oracle/olcut](https://github.com/oracle/olcut) pushed_at:2021-09 star:0.0k fork:0.0k A Java configuration, shell, and general utility toolkit
-- [oracle/opengrok](https://github.com/oracle/opengrok) pushed_at:2021-08 star:3.4k fork:0.6k OpenGrok is a fast and usable source code search and cross reference engine, written in Java
+- [oracle/opengrok](https://github.com/oracle/opengrok) pushed_at:2021-09 star:3.4k fork:0.6k OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 - [oracle/oracle-db-examples](https://github.com/oracle/oracle-db-examples) pushed_at:2021-09 star:0.9k fork:0.6k Examples of applications and tool usage for Oracle Database
 - [oracle/oracle-r2dbc](https://github.com/oracle/oracle-r2dbc) pushed_at:2021-09 star:0.1k fork:0.0k R2DBC Driver for Oracle Database
 - [oracle/osb-kafka-transport](https://github.com/oracle/osb-kafka-transport) pushed_at:2017-03 star:0.0k fork:0.0k OSB Transport for Apache Kafka provides inbound and outbound connectivity with Kafka Clusters.
@@ -204,7 +204,7 @@
 - [oracle/spacewalk](https://github.com/oracle/spacewalk) pushed_at:2021-09 star:0.0k fork:0.0k The master repository for Oracle Linux Manager, based on the Spacewalk Project.
 - [oracle/tribuo](https://github.com/oracle/tribuo) pushed_at:2021-09 star:1.0k fork:0.1k Tribuo - A Java machine learning library
 - [oracle/trufflex86](https://github.com/oracle/trufflex86) pushed_at:2019-10 star:0.0k fork:0.0k x86 interpreter based on GraalVM/Truffle
-- [oracle/visualvm](https://github.com/oracle/visualvm) pushed_at:2021-08 star:2.0k fork:0.2k VisualVM is an All-in-One Java Troubleshooting Tool
+- [oracle/visualvm](https://github.com/oracle/visualvm) pushed_at:2021-09 star:2.0k fork:0.2k VisualVM is an All-in-One Java Troubleshooting Tool
 - [oracle/weblogic-image-tool](https://github.com/oracle/weblogic-image-tool) pushed_at:2021-09 star:0.0k fork:0.0k Oracle WebLogic Image Tool
 - [oracle/weblogic-kubernetes-operator](https://github.com/oracle/weblogic-kubernetes-operator) pushed_at:2021-09 star:0.2k fork:0.2k Oracle Weblogic Server Kubernetes Operator
 - [oracle/weblogic-logging-exporter](https://github.com/oracle/weblogic-logging-exporter) pushed_at:2021-08 star:0.0k fork:0.0k Export server logs from WebLogic Server in JSON format to Elasticsearch. 
@@ -218,9 +218,9 @@
 - [oracle/cloud-asset-oda-agent-handover](https://github.com/oracle/cloud-asset-oda-agent-handover) pushed_at:2021-05 star:0.0k fork:0.0k Integrating Oracle Digital Assistant (ODA) with an Agent System
 - [oracle/cloud-asset-oda-recruitmentbot](https://github.com/oracle/cloud-asset-oda-recruitmentbot) pushed_at:2020-01 star:0.0k fork:0.0k Sample Recruitment Bot for Oracle Digital Assistant
 - [oracle/cloud-native-devops-workshop](https://github.com/oracle/cloud-native-devops-workshop) pushed_at:2018-04 star:0.1k fork:0.2k Oracle's Cloud Native and DevOps Workshop on Oracle Cloud
-- [oracle/cloudtestdrive](https://github.com/oracle/cloudtestdrive) pushed_at:2021-08 star:0.1k fork:0.1k 
+- [oracle/cloudtestdrive](https://github.com/oracle/cloudtestdrive) pushed_at:2021-09 star:0.1k fork:0.1k 
 - [oracle/content-and-experience-toolkit](https://github.com/oracle/content-and-experience-toolkit) pushed_at:2021-08 star:0.0k fork:0.0k The Oracle Content Management Toolkit and SDKs help you develop custom applications that consume content that is managed in the OCM repository. These applications can be developed in the Content Management Cloud or using 3rd party tools.
-- [oracle/content-management-sdk](https://github.com/oracle/content-management-sdk) pushed_at:2021-06 star:0.0k fork:0.0k JavaScript package to make it easier to use content (digital assets, structured content) from Oracle Content Management
+- [oracle/content-management-sdk](https://github.com/oracle/content-management-sdk) pushed_at:2021-09 star:0.0k fork:0.0k JavaScript package to make it easier to use content (digital assets, structured content) from Oracle Content Management
 - [oracle/content-sdk-for-browser](https://github.com/oracle/content-sdk-for-browser) pushed_at:2020-09 star:0.0k fork:0.0k Oracle Content and Experience Cloud SDK for Browsers
 - [oracle/content-sdk-for-nodejs](https://github.com/oracle/content-sdk-for-nodejs) pushed_at:2020-09 star:0.0k fork:0.0k Oracle Content and Experience Cloud SDK for Node.js
 - [oracle/cordova-plugin-emm-app-config](https://github.com/oracle/cordova-plugin-emm-app-config) pushed_at:2018-08 star:0.0k fork:0.0k Cordova Plugin for EMM App Config
@@ -252,13 +252,13 @@
 - [oracle/offline-persistence-toolkit](https://github.com/oracle/offline-persistence-toolkit) pushed_at:2021-05 star:0.0k fork:0.0k Offline Persistence Toolkit for Javascript Applications
 - [oracle/ojet-cli](https://github.com/oracle/ojet-cli) pushed_at:2021-07 star:0.0k fork:0.0k Oracle JET Command Line Interface
 - [oracle/opa-oda-chat](https://github.com/oracle/opa-oda-chat) pushed_at:2021-02 star:0.0k fork:0.0k Custom component linking ODA to OPA Chat API
-- [oracle/oracle-db-tools](https://github.com/oracle/oracle-db-tools) pushed_at:2021-08 star:0.2k fork:0.1k This project is a repository of sample code that will demonstrate various concepts to assist developers in building applications around Oracle Database technologies. SDKs and scripts will be available to integrate with SQL Developer, Data Modeler, Oracle REST Data Services and DBaaS.  
+- [oracle/oracle-db-tools](https://github.com/oracle/oracle-db-tools) pushed_at:2021-09 star:0.2k fork:0.1k This project is a repository of sample code that will demonstrate various concepts to assist developers in building applications around Oracle Database technologies. SDKs and scripts will be available to integrate with SQL Developer, Data Modeler, Oracle REST Data Services and DBaaS.  
 - [oracle/oraclejet-tooling](https://github.com/oracle/oraclejet-tooling) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [oracle/pgx-client-js](https://github.com/oracle/pgx-client-js) pushed_at:2020-06 star:0.0k fork:0.0k A JavaScript client for the Parallel Graph AnalytiX (PGX) engine from Oracle Labs
 
 ## Jupyter Notebook
 
-- [oracle/macest](https://github.com/oracle/macest) pushed_at:2021-08 star:0.0k fork:0.0k Model Agnostic Confidence Estimator (MACEST) - A Python library for calibrating Machine Learning models' confidence scores
+- [oracle/macest](https://github.com/oracle/macest) pushed_at:2021-09 star:0.0k fork:0.0k Model Agnostic Confidence Estimator (MACEST) - A Python library for calibrating Machine Learning models' confidence scores
 - [oracle/oci-data-science-ai-samples](https://github.com/oracle/oci-data-science-ai-samples) pushed_at:2021-09 star:0.0k fork:0.0k This repo contains a series of tutorials and code examples highlighting different features of the OCI Data Science and AI services, along with a release vehicle for experimental programs.
 - [oracle/oraclesolaris-contrib](https://github.com/oracle/oraclesolaris-contrib) pushed_at:2021-08 star:0.0k fork:0.0k oraclesolaris-contrib is a repository focussed on the Oracle Solaris 11.4 StatsStore, using methodologies like REST to connect to Oracle Solaris 11.4 and the new features being introduced in Oracle Solaris 11.4 OS.
 

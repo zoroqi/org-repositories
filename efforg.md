@@ -99,7 +99,7 @@
 - [EFForg/actioncenter-feedback](https://github.com/EFForg/actioncenter-feedback) pushed_at:2014-06 star:0.0k fork:0.0k Repo for getting feedback on the new actioncenter
 - [EFForg/battleforthenet-widget](https://github.com/EFForg/battleforthenet-widget) pushed_at:2014-09 star:0.0k fork:0.0k Embed this widget on your site and help save net neutrality!
 - [EFForg/congress-pics](https://github.com/EFForg/congress-pics) pushed_at:2014-08 star:0.0k fork:0.0k Generate dynamic images for members of congress
-- [EFForg/design](https://github.com/EFForg/design) pushed_at:2020-05 star:0.0k fork:0.0k Open Source product design resources
+- [EFForg/design](https://github.com/EFForg/design) pushed_at:2021-09 star:0.0k fork:0.0k Open Source product design resources
 - [EFForg/digitalcitizen](https://github.com/EFForg/digitalcitizen) pushed_at:2017-02 star:0.0k fork:0.0k 
 - [EFForg/dnt-guide](https://github.com/EFForg/dnt-guide) pushed_at:2017-12 star:0.1k fork:0.0k How to Implement DNT
 - [EFForg/dnt-policy](https://github.com/EFForg/dnt-policy) pushed_at:2020-07 star:0.0k fork:0.0k dnt-policy
@@ -154,12 +154,12 @@
 
 ## Rust
 
-- [EFForg/apkeep](https://github.com/EFForg/apkeep) pushed_at:2021-09 star:0.2k fork:0.0k 
+- [EFForg/apkeep](https://github.com/EFForg/apkeep) pushed_at:2021-09 star:0.3k fork:0.0k 
 - [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) pushed_at:2021-09 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
 - [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) pushed_at:2021-08 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 - [EFForg/https-everywhere-rust-test-implementation](https://github.com/EFForg/https-everywhere-rust-test-implementation) pushed_at:2020-04 star:0.0k fork:0.0k 
-- [EFForg/rs-google-play](https://github.com/EFForg/rs-google-play) pushed_at:2021-08 star:0.0k fork:0.0k Google Play API for Rust
+- [EFForg/rs-google-play](https://github.com/EFForg/rs-google-play) pushed_at:2021-09 star:0.0k fork:0.0k Google Play API for Rust
 - [EFForg/tokio-dl-stream-to-disk](https://github.com/EFForg/tokio-dl-stream-to-disk) pushed_at:2021-08 star:0.0k fork:0.0k A micro-library for downloading from a URL and streaming it directly to the disk
 
 ## SCSS

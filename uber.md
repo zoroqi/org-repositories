@@ -29,7 +29,7 @@
 
 ## C
 
-- [uber/h3](https://github.com/uber/h3) pushed_at:2021-09 star:2.9k fork:0.3k Hexagonal hierarchical geospatial indexing system
+- [uber/h3](https://github.com/uber/h3) pushed_at:2021-09 star:3.0k fork:0.3k Hexagonal hierarchical geospatial indexing system
 - [uber/h3-go](https://github.com/uber/h3-go) pushed_at:2021-07 star:0.1k fork:0.0k Go bindings for H3, a hierarchical hexagonal geospatial indexing system
 
 ## C++
@@ -46,7 +46,7 @@
 - [uber/assume-role-cli](https://github.com/uber/assume-role-cli) pushed_at:2020-07 star:0.0k fork:0.0k CLI for AssumeRole is a tool for running programs with temporary credentials from AWS's AssumeRole API.
 - [uber/astro](https://github.com/uber/astro) pushed_at:2020-01 star:0.4k fork:0.0k Astro is a tool for managing multiple Terraform executions as a single command
 - [uber/athenadriver](https://github.com/uber/athenadriver) pushed_at:2021-09 star:0.1k fork:0.0k A fully-featured AWS Athena database driver (+ athenareader https://github.com/uber/athenadriver/tree/master/athenareader)
-- [uber/cadence](https://github.com/uber/cadence) pushed_at:2021-09 star:5.2k fork:0.5k Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [uber/cadence](https://github.com/uber/cadence) pushed_at:2021-09 star:5.3k fork:0.5k Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [uber/cadvisor](https://github.com/uber/cadvisor) pushed_at:2021-08 star:0.0k fork:0.0k Analyzes resource usage and performance characteristics of running containers.
 - [uber/gonduit](https://github.com/uber/gonduit) pushed_at:2021-06 star:0.0k fork:0.0k A Go package for connecting to Phabricator via the Conduit API.
 - [uber/kraken](https://github.com/uber/kraken) pushed_at:2021-06 star:4.7k fork:0.3k P2P Docker registry capable of distributing TBs of data in seconds
@@ -78,7 +78,7 @@
 - [uber/h3-java](https://github.com/uber/h3-java) pushed_at:2021-08 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/marmaray](https://github.com/uber/marmaray) pushed_at:2021-06 star:0.4k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
 - [uber/NullAway](https://github.com/uber/NullAway) pushed_at:2021-09 star:3.0k fork:0.2k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
-- [uber/okbuck](https://github.com/uber/okbuck) pushed_at:2021-07 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
+- [uber/okbuck](https://github.com/uber/okbuck) pushed_at:2021-09 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
 - [uber/phabricator-jenkins-plugin](https://github.com/uber/phabricator-jenkins-plugin) pushed_at:2021-01 star:0.4k fork:0.1k Jenkins plugin to integrate with Phabricator, Harbormaster, and Uberalls
 - [uber/piranha](https://github.com/uber/piranha) pushed_at:2021-09 star:1.8k fork:0.1k A tool for refactoring code related to feature flag APIs
 - [uber/RemoteShuffleService](https://github.com/uber/RemoteShuffleService) pushed_at:2021-07 star:0.1k fork:0.0k Remote shuffle service for Apache Spark to store shuffle data on remote servers. 
@@ -165,7 +165,7 @@
 
 - [uber/bayesmark](https://github.com/uber/bayesmark) pushed_at:2021-06 star:0.1k fork:0.0k Benchmark framework to easily compare Bayesian optimization methods on real machine learning tasks
 - [uber/cassette](https://github.com/uber/cassette) pushed_at:2020-10 star:0.1k fork:0.0k Store and replay HTTP requests made in your Python app
-- [uber/causalml](https://github.com/uber/causalml) pushed_at:2021-09 star:2.2k fork:0.3k Uplift modeling and causal inference with machine learning algorithms
+- [uber/causalml](https://github.com/uber/causalml) pushed_at:2021-09 star:2.3k fork:0.3k Uplift modeling and causal inference with machine learning algorithms
 - [uber/charlatan](https://github.com/uber/charlatan) pushed_at:2019-09 star:0.1k fork:0.0k A Python library to efficiently manage and install database fixtures
 - [uber/clay](https://github.com/uber/clay) pushed_at:2019-06 star:0.4k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [uber/doubles](https://github.com/uber/doubles) pushed_at:2018-10 star:0.2k fork:0.0k Test doubles for Python.
@@ -179,7 +179,7 @@
 - [uber/py-find-injection](https://github.com/uber/py-find-injection) pushed_at:2019-03 star:0.1k fork:0.0k Look for SQL injection attacks in python source code
 - [uber/py-look-for-timeouts](https://github.com/uber/py-look-for-timeouts) pushed_at:2020-03 star:0.0k fork:0.0k Scan for missing timeout calls in python source files
 - [uber/pymegacli](https://github.com/uber/pymegacli) pushed_at:2019-03 star:0.0k fork:0.0k Python API wrapper around MegaCli64
-- [uber/Python-Sample-Application](https://github.com/uber/Python-Sample-Application) pushed_at:2021-03 star:0.3k fork:0.4k 
+- [uber/Python-Sample-Application](https://github.com/uber/Python-Sample-Application) pushed_at:2021-09 star:0.3k fork:0.5k 
 - [uber/rides-python-sdk](https://github.com/uber/rides-python-sdk) pushed_at:2021-06 star:0.1k fork:0.1k Uber Rides Python SDK (beta)
 - [uber/sublime-phabricator](https://github.com/uber/sublime-phabricator) pushed_at:2020-05 star:0.0k fork:0.0k Open files in Phabricator via Sublime Text
 - [uber/tchannel-python](https://github.com/uber/tchannel-python) pushed_at:2021-08 star:0.1k fork:0.0k Python implementation of the TChannel protocol.
@@ -203,7 +203,7 @@
 
 - [uber/cyborg](https://github.com/uber/cyborg) pushed_at:2020-09 star:0.3k fork:0.0k Display Android Vectordrawables on iOS.
 - [uber/mockolo](https://github.com/uber/mockolo) pushed_at:2021-09 star:0.4k fork:0.0k Efficient Mock Generator for Swift
-- [uber/needle](https://github.com/uber/needle) pushed_at:2021-09 star:1.0k fork:0.1k Compile-time safe Swift dependency injection framework
+- [uber/needle](https://github.com/uber/needle) pushed_at:2021-09 star:1.1k fork:0.1k Compile-time safe Swift dependency injection framework
 - [uber/rides-ios-sdk](https://github.com/uber/rides-ios-sdk) pushed_at:2019-11 star:0.3k fork:0.1k Uber Rides iOS SDK (beta)
 - [uber/RxCBCentral](https://github.com/uber/RxCBCentral) pushed_at:2021-06 star:0.0k fork:0.0k  A reactive, interface-driven central role Bluetooth LE library for iOS
 - [uber/swift-abstract-class](https://github.com/uber/swift-abstract-class) pushed_at:2019-12 star:0.1k fork:0.0k Compile-time abstract class validation for Swift
