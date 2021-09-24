@@ -27,7 +27,7 @@
 
 - [openai/openai-gemm](https://github.com/openai/openai-gemm) pushed_at:2018-11 star:0.3k fork:0.1k Open single and half precision gemm implementations 
 - [openai/pachi-py](https://github.com/openai/pachi-py) pushed_at:2018-11 star:0.0k fork:0.0k Python wrappers for Pachi. Contains a modified version of the bleeding-edge Pachi source code.
-- [openai/retro](https://github.com/openai/retro) pushed_at:2021-06 star:2.5k fork:0.4k Retro Games in Gym
+- [openai/retro](https://github.com/openai/retro) pushed_at:2021-09 star:2.5k fork:0.4k Retro Games in Gym
 
 ## C#
 
@@ -56,7 +56,7 @@
 ## Go
 
 - [openai/go-vncdriver](https://github.com/openai/go-vncdriver) pushed_at:2020-04 star:0.1k fork:0.0k Fast VNC driver
-- [openai/kubernetes](https://github.com/openai/kubernetes) pushed_at:2021-07 star:0.0k fork:0.0k Production-Grade Container Scheduling and Management
+- [openai/kubernetes](https://github.com/openai/kubernetes) pushed_at:2021-09 star:0.0k fork:0.0k Production-Grade Container Scheduling and Management
 - [openai/oauth2_proxy](https://github.com/openai/oauth2_proxy) pushed_at:2020-01 star:0.0k fork:0.0k A reverse proxy that provides authentication with Google, Github or other provider
 - [openai/prometheus](https://github.com/openai/prometheus) pushed_at:2020-11 star:0.0k fork:0.0k The Prometheus monitoring system and time series database.
 - [openai/scheduler-plugins](https://github.com/openai/scheduler-plugins) pushed_at:2021-08 star:0.0k fork:0.0k Repository for out-of-tree scheduler plugins based on scheduler framework.
@@ -76,7 +76,7 @@
 ## Jupyter Notebook
 
 - [openai/baselines-results](https://github.com/openai/baselines-results) pushed_at:2020-07 star:0.1k fork:0.0k 
-- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-09 star:4.7k fork:0.6k Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-09 star:4.8k fork:0.6k Contrastive Language-Image Pretraining
 - [openai/lucid](https://github.com/openai/lucid) pushed_at:2019-01 star:0.0k fork:0.0k A collection of infrastructure and tools for research in neural network interpretability.
 - [openai/ot-gan](https://github.com/openai/ot-gan) pushed_at:2018-11 star:0.0k fork:0.0k  Code for the paper "Improving GANs Using Optimal Transport"
 
@@ -104,7 +104,7 @@
 
 - [openai/atari-demo](https://github.com/openai/atari-demo) pushed_at:2018-11 star:0.0k fork:0.0k Code for the blog post "Learning Montezuma’s Revenge from a Single Demonstration"
 - [openai/atari-reset](https://github.com/openai/atari-reset) pushed_at:2018-11 star:0.2k fork:0.0k Code for the blog post "Learning Montezuma’s Revenge from a Single Demonstration"
-- [openai/baselines](https://github.com/openai/baselines) pushed_at:2021-06 star:11.8k fork:4.1k OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
+- [openai/baselines](https://github.com/openai/baselines) pushed_at:2021-09 star:11.9k fork:4.1k OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [openai/CLIP-featurevis](https://github.com/openai/CLIP-featurevis) pushed_at:2021-03 star:0.2k fork:0.0k code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
 - [openai/code-align-evals-data](https://github.com/openai/code-align-evals-data) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [openai/DALL-E](https://github.com/openai/DALL-E) pushed_at:2021-04 star:3.3k fork:0.5k PyTorch package for the discrete VAE used for DALL·E.
@@ -117,13 +117,13 @@
 - [openai/finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm) pushed_at:2019-01 star:1.6k fork:0.4k Code and model for the paper "Improving Language Understanding by Generative Pre-Training"
 - [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) pushed_at:2019-07 star:1.4k fork:0.4k Code for "Learning to Generate Reviews and Discovering Sentiment"
 - [openai/glow](https://github.com/openai/glow) pushed_at:2021-02 star:2.8k fork:0.5k Code for reproducing results in "Glow: Generative Flow with Invertible 1x1 Convolutions"
-- [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2021-03 star:14.9k fork:3.8k Code for the paper "Language Models are Unsupervised Multitask Learners"
+- [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2021-03 star:15.0k fork:3.8k Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) pushed_at:2021-02 star:1.2k fork:0.3k Dataset of GPT-2 outputs for research in detection, biases, and more
-- [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2021-07 star:0.7k fork:0.1k 
-- [openai/gym](https://github.com/openai/gym) pushed_at:2021-09 star:25.2k fork:7.2k A toolkit for developing and comparing reinforcement learning algorithms.
+- [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2021-07 star:0.8k fork:0.1k 
+- [openai/gym](https://github.com/openai/gym) pushed_at:2021-09 star:25.3k fork:7.2k A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/gym-http-api](https://github.com/openai/gym-http-api) pushed_at:2019-07 star:0.3k fork:0.1k API to access OpenAI Gym from other languages via HTTP
 - [openai/gym-recording](https://github.com/openai/gym-recording) pushed_at:2020-10 star:0.1k fork:0.0k Add-on package to gym, to record sequences of actions, observations, and rewards
-- [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2018-11 star:0.2k fork:0.2k 
+- [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2018-11 star:0.3k fork:0.2k 
 - [openai/gym-wikinav](https://github.com/openai/gym-wikinav) pushed_at:2018-11 star:0.0k fork:0.0k Wikipedia navigation environment for OpenAI Gym
 - [openai/gym3](https://github.com/openai/gym3) pushed_at:2021-01 star:0.1k fork:0.0k Vectorized interface for reinforcement learning environments
 - [openai/human-eval](https://github.com/openai/human-eval) pushed_at:2021-07 star:0.2k fork:0.0k Code for the paper "Evaluating Large Language Models Trained on Code"
@@ -133,7 +133,7 @@
 - [openai/improved-diffusion](https://github.com/openai/improved-diffusion) pushed_at:2021-03 star:0.2k fork:0.0k Release for Improved Denoising Diffusion Probabilistic Models
 - [openai/improved-gan](https://github.com/openai/improved-gan) pushed_at:2018-11 star:2.1k fork:0.6k Code for the paper "Improved Techniques for Training GANs"
 - [openai/InfoGAN](https://github.com/openai/InfoGAN) pushed_at:2021-03 star:1.0k fork:0.3k Code for reproducing key results in the paper "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets"
-- [openai/jukebox](https://github.com/openai/jukebox) pushed_at:2021-09 star:4.6k fork:0.7k Code for the paper "Jukebox: A Generative Model for Music"
+- [openai/jukebox](https://github.com/openai/jukebox) pushed_at:2021-09 star:4.7k fork:0.7k Code for the paper "Jukebox: A Generative Model for Music"
 - [openai/kubernetes-ec2-autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler) pushed_at:2019-06 star:0.8k fork:0.1k A batch-optimized scaling manager for Kubernetes
 - [openai/large-scale-curiosity](https://github.com/openai/large-scale-curiosity) pushed_at:2021-08 star:0.7k fork:0.2k Code for the paper "Large-Scale Study of Curiosity-Driven Learning"
 - [openai/LHOPT](https://github.com/openai/LHOPT) pushed_at:2021-06 star:0.0k fork:0.0k Learned Hyperparameter Optimizers

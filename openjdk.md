@@ -27,7 +27,7 @@
 
 ## CSS
 
-- [openjdk/valhalla-docs](https://github.com/openjdk/valhalla-docs) pushed_at:2021-05 star:0.0k fork:0.0k https://openjdk.java.net/projects/valhalla
+- [openjdk/valhalla-docs](https://github.com/openjdk/valhalla-docs) pushed_at:2021-05 star:0.1k fork:0.0k https://openjdk.java.net/projects/valhalla
 
 ## HTML
 
@@ -45,19 +45,19 @@
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) pushed_at:2021-04 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/friday-stats/
 - [openjdk/jcov](https://github.com/openjdk/jcov) pushed_at:2021-08 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) pushed_at:2021-09 star:0.1k fork:0.0k https://openjdk.java.net/projects/code-tools/jcstress/
-- [openjdk/jdk](https://github.com/openjdk/jdk) pushed_at:2021-09 star:11.0k fork:2.7k JDK main-line development
+- [openjdk/jdk](https://github.com/openjdk/jdk) pushed_at:2021-09 star:11.1k fork:2.7k JDK main-line development
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) pushed_at:2021-09 star:0.0k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) pushed_at:2020-08 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk/jdk10
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) pushed_at:2021-09 star:0.1k fork:0.1k https://openjdk.java.net/projects/jdk-updates/
 - [openjdk/jdk11u-dev](https://github.com/openjdk/jdk11u-dev) pushed_at:2021-09 star:0.0k fork:0.1k https://openjdk.java.net/projects/jdk-updates/
 - [openjdk/jdk12u](https://github.com/openjdk/jdk12u) pushed_at:2020-10 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk-updates/jdk12u/
 - [openjdk/jdk13](https://github.com/openjdk/jdk13) pushed_at:2020-07 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk/jdk13/
-- [openjdk/jdk13u](https://github.com/openjdk/jdk13u) pushed_at:2021-08 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/JDKUpdates/JDK+13u
+- [openjdk/jdk13u](https://github.com/openjdk/jdk13u) pushed_at:2021-09 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/JDKUpdates/JDK+13u
 - [openjdk/jdk13u-dev](https://github.com/openjdk/jdk13u-dev) pushed_at:2021-09 star:0.0k fork:0.0k https://openjdk.java.net/projects/jdk-updates/
 - [openjdk/jdk14](https://github.com/openjdk/jdk14) pushed_at:2020-03 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk/jdk14/
 - [openjdk/jdk14u](https://github.com/openjdk/jdk14u) pushed_at:2020-07 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk-updates/jdk14u/
 - [openjdk/jdk15](https://github.com/openjdk/jdk15) pushed_at:2020-09 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk/jdk15/
-- [openjdk/jdk15u](https://github.com/openjdk/jdk15u) pushed_at:2021-08 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/JDKUpdates/JDK+15u
+- [openjdk/jdk15u](https://github.com/openjdk/jdk15u) pushed_at:2021-09 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/JDKUpdates/JDK+15u
 - [openjdk/jdk15u-dev](https://github.com/openjdk/jdk15u-dev) pushed_at:2021-09 star:0.0k fork:0.0k https://openjdk.java.net/projects/jdk-updates/
 - [openjdk/jdk16](https://github.com/openjdk/jdk16) pushed_at:2021-03 star:0.1k fork:0.1k JDK 16 development
 - [openjdk/jdk16u](https://github.com/openjdk/jdk16u) pushed_at:2021-08 star:0.0k fork:0.1k https://openjdk.java.net/projects/jdk-updates/
@@ -77,19 +77,19 @@
 - [openjdk/jmh](https://github.com/openjdk/jmh) pushed_at:2021-09 star:0.6k fork:0.1k https://openjdk.java.net/projects/code-tools/jmh/
 - [openjdk/jmh-jdk-microbenchmarks](https://github.com/openjdk/jmh-jdk-microbenchmarks) pushed_at:2021-06 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/jmh-jdk-microbenchmarks/
 - [openjdk/jol](https://github.com/openjdk/jol) pushed_at:2021-05 star:0.3k fork:0.0k https://openjdk.java.net/projects/code-tools/jol/
-- [openjdk/jtharness](https://github.com/openjdk/jtharness) pushed_at:2021-08 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/JT+Harness
+- [openjdk/jtharness](https://github.com/openjdk/jtharness) pushed_at:2021-09 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/JT+Harness
 - [openjdk/jtreg](https://github.com/openjdk/jtreg) pushed_at:2021-09 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/jtreg/
 - [openjdk/lanai](https://github.com/openjdk/lanai) pushed_at:2021-03 star:0.0k fork:0.0k https://openjdk.java.net/projects/lanai/
 - [openjdk/lilliput](https://github.com/openjdk/lilliput) pushed_at:2021-09 star:0.0k fork:0.0k https://openjdk.java.net/projects/lilliput/
-- [openjdk/loom](https://github.com/openjdk/loom) pushed_at:2021-09 star:1.1k fork:0.1k https://openjdk.java.net/projects/loom/
+- [openjdk/loom](https://github.com/openjdk/loom) pushed_at:2021-09 star:1.2k fork:0.1k https://openjdk.java.net/projects/loom/
 - [openjdk/metropolis](https://github.com/openjdk/metropolis) pushed_at:2020-10 star:0.0k fork:0.0k http://openjdk.java.net/projects/metropolis/
 - [openjdk/mobile](https://github.com/openjdk/mobile) pushed_at:2021-09 star:0.1k fork:0.0k http://openjdk.java.net/projects/mobile/
 - [openjdk/nashorn](https://github.com/openjdk/nashorn) pushed_at:2021-07 star:0.1k fork:0.0k http://openjdk.java.net/projects/nashorn/
 - [openjdk/panama-foreign](https://github.com/openjdk/panama-foreign) pushed_at:2021-09 star:0.1k fork:0.0k https://openjdk.java.net/projects/panama
 - [openjdk/panama-vector](https://github.com/openjdk/panama-vector) pushed_at:2021-09 star:0.0k fork:0.0k Panama vector
-- [openjdk/playground](https://github.com/openjdk/playground) pushed_at:2021-08 star:0.0k fork:0.0k Repository for experimenting. May be synced and/or reset at any time without notice.
+- [openjdk/playground](https://github.com/openjdk/playground) pushed_at:2021-09 star:0.0k fork:0.0k Repository for experimenting. May be synced and/or reset at any time without notice.
 - [openjdk/portola](https://github.com/openjdk/portola) pushed_at:2021-08 star:0.0k fork:0.0k https://openjdk.java.net/projects/portola/
-- [openjdk/shenandoah](https://github.com/openjdk/shenandoah) pushed_at:2021-09 star:0.0k fork:0.0k https://openjdk.java.net/projects/shenandoah
+- [openjdk/shenandoah](https://github.com/openjdk/shenandoah) pushed_at:2021-09 star:0.1k fork:0.0k https://openjdk.java.net/projects/shenandoah
 - [openjdk/shenandoah-visualizer](https://github.com/openjdk/shenandoah-visualizer) pushed_at:2020-11 star:0.1k fork:0.0k 
 - [openjdk/sigtest](https://github.com/openjdk/sigtest) pushed_at:2021-07 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/sigtest
 - [openjdk/skara](https://github.com/openjdk/skara) pushed_at:2021-09 star:0.2k fork:0.1k https://openjdk.java.net/projects/skara/

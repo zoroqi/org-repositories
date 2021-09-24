@@ -52,7 +52,7 @@
 ## Jupyter Notebook
 
 - [deepmind/3d-shapes](https://github.com/deepmind/3d-shapes) pushed_at:2019-03 star:0.1k fork:0.0k This repository contains the 3D shapes dataset, used in Kim, Hyunjik and Mnih, Andriy. "Disentangling by Factorising." In Proceedings of the 35th International Conference on Machine Learning (ICML). 2018. to assess the disentanglement properties of unsupervised learning methods.
-- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) pushed_at:2021-09 star:8.1k fork:1.5k This repository contains implementations and illustrative code to accompany DeepMind publications
+- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) pushed_at:2021-09 star:8.1k fork:1.6k This repository contains implementations and illustrative code to accompany DeepMind publications
 - [deepmind/dsprites-dataset](https://github.com/deepmind/dsprites-dataset) pushed_at:2021-01 star:0.4k fork:0.1k Dataset to assess the disentanglement properties of unsupervised learning methods
 - [deepmind/educational](https://github.com/deepmind/educational) pushed_at:2021-08 star:0.1k fork:0.0k 
 - [deepmind/mc_gradients](https://github.com/deepmind/mc_gradients) pushed_at:2021-08 star:0.1k fork:0.0k 

@@ -52,7 +52,7 @@
 - [apple/swift-libcxx](https://github.com/apple/swift-libcxx) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/swift-llbuild](https://github.com/apple/swift-llbuild) pushed_at:2021-09 star:0.9k fork:0.2k A low-level build system, used by Xcode and the Swift Package Manager
 - [apple/swift-lldb](https://github.com/apple/swift-lldb) pushed_at:2020-01 star:0.7k fork:0.2k This is the version of LLDB that supports the Swift programming language & REPL.
-- [apple/turicreate](https://github.com/apple/turicreate) pushed_at:2021-08 star:10.4k fork:1.1k Turi Create simplifies the development of custom machine learning models.
+- [apple/turicreate](https://github.com/apple/turicreate) pushed_at:2021-09 star:10.4k fork:1.1k Turi Create simplifies the development of custom machine learning models.
 
 ## Dockerfile
 
@@ -88,7 +88,7 @@
 
 - [apple/llvm-monorepo-root](https://github.com/apple/llvm-monorepo-root) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project](https://github.com/apple/llvm-project) pushed_at:2021-09 star:0.4k fork:0.2k The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Apple’s stable releases of Clang as well as support the Swift project.
-- [apple/ml-gsn](https://github.com/apple/ml-gsn) pushed_at:2021-09 star:0.1k fork:0.0k 
+- [apple/ml-gsn](https://github.com/apple/ml-gsn) pushed_at:2021-09 star:0.2k fork:0.0k 
 - [apple/ml-transcript-translation-consistency-ratings](https://github.com/apple/ml-transcript-translation-consistency-ratings) pushed_at:2020-08 star:0.0k fork:0.0k 
 - [apple/swift-community-hosted-continuous-integration](https://github.com/apple/swift-community-hosted-continuous-integration) pushed_at:2021-09 star:0.1k fork:0.0k Swift Community-Hosted Continuous Integration
 - [apple/swift-protobuf-plugin](https://github.com/apple/swift-protobuf-plugin) pushed_at:2017-06 star:0.8k fork:0.0k Moved to apple/swift-protobuf
@@ -96,7 +96,7 @@
 
 ## Python
 
-- [apple/ccs-caldavtester](https://github.com/apple/ccs-caldavtester) pushed_at:2021-08 star:0.0k fork:0.0k CalDAV/CardDAV Testing Framework used by CalendarServer
+- [apple/ccs-caldavtester](https://github.com/apple/ccs-caldavtester) pushed_at:2021-09 star:0.0k fork:0.0k CalDAV/CardDAV Testing Framework used by CalendarServer
 - [apple/ccs-calendarserver](https://github.com/apple/ccs-calendarserver) pushed_at:2020-02 star:0.4k fork:0.1k The Calendar and Contacts Server.
 - [apple/ccs-pycalendar](https://github.com/apple/ccs-pycalendar) pushed_at:2021-03 star:0.1k fork:0.0k Python iCalendar library used by CalendarServer
 - [apple/ccs-pyosxframeworks](https://github.com/apple/ccs-pyosxframeworks) pushed_at:2017-02 star:0.0k fork:0.0k Python Framework for macOS APIs used by CalendarServer
@@ -115,7 +115,7 @@
 - [apple/ml-data-parameters](https://github.com/apple/ml-data-parameters) pushed_at:2019-12 star:0.1k fork:0.0k 
 - [apple/ml-envmapnet](https://github.com/apple/ml-envmapnet) pushed_at:2021-06 star:0.0k fork:0.0k This software project contains implementations of metrics used in the paper, HDR Environment Map Estimation for Real-Time Augmented Reality, Gowri Somanath, Daniel Kurz, Proc IEEE & CVF CVPR 2021
 - [apple/ml-hypersim](https://github.com/apple/ml-hypersim) pushed_at:2021-08 star:1.1k fork:0.1k Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding
-- [apple/ml-knowledge-conflicts](https://github.com/apple/ml-knowledge-conflicts) pushed_at:2021-09 star:0.0k fork:0.0k 
+- [apple/ml-knowledge-conflicts](https://github.com/apple/ml-knowledge-conflicts) pushed_at:2021-09 star:0.0k fork:0.0k Entity-Based Knowledge Conflicts in Question Answering. Code repo for EMNLP2021 paper: https://arxiv.org/abs/2109.05052
 - [apple/ml-mkqa](https://github.com/apple/ml-mkqa) pushed_at:2020-08 star:0.1k fork:0.0k We introduce MKQA, an open-domain question answering evaluation set comprising 10k question-answer pairs aligned across 26 typologically diverse languages (260k question-answer pairs in total). The goal of this dataset is to provide a challenging benchmark for question answering quality across a wide set of languages. Please refer to our paper for details, MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering
 - [apple/ml-multiple-futures-prediction](https://github.com/apple/ml-multiple-futures-prediction) pushed_at:2021-05 star:0.1k fork:0.0k 
 - [apple/ml-ncg](https://github.com/apple/ml-ncg) pushed_at:2019-05 star:0.0k fork:0.0k 
@@ -172,16 +172,16 @@
 - [apple/swift-driver](https://github.com/apple/swift-driver) pushed_at:2021-09 star:0.6k fork:0.1k Swift compiler driver reimplementation in Swift
 - [apple/swift-evolution-staging](https://github.com/apple/swift-evolution-staging) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [apple/swift-format](https://github.com/apple/swift-format) pushed_at:2021-09 star:1.3k fork:0.1k Formatting technology for Swift source code
-- [apple/swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) pushed_at:2021-07 star:0.1k fork:0.0k A Swift implementation of the HTTP Structured Header Field specification.
+- [apple/swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) pushed_at:2021-09 star:0.1k fork:0.0k A Swift implementation of the HTTP Structured Header Field specification.
 - [apple/swift-llbuild2](https://github.com/apple/swift-llbuild2) pushed_at:2021-09 star:0.2k fork:0.0k A fresh take on a low-level build system API.
-- [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2021-08 star:2.5k fork:0.2k A Logging API for Swift
+- [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2021-09 star:2.5k fork:0.2k A Logging API for Swift
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) pushed_at:2021-08 star:0.5k fork:0.0k A Metrics API for Swift
 - [apple/swift-nio](https://github.com/apple/swift-nio) pushed_at:2021-09 star:6.7k fork:0.5k Event-driven network application framework for high performance protocol servers & clients, non-blocking.
-- [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) pushed_at:2021-07 star:0.2k fork:0.0k examples of how to use swift-nio
+- [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) pushed_at:2021-09 star:0.2k fork:0.0k examples of how to use swift-nio
 - [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) pushed_at:2021-09 star:0.1k fork:0.1k Useful code around SwiftNIO.
 - [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) pushed_at:2021-09 star:0.4k fork:0.1k HTTP/2 support for SwiftNIO
 - [apple/swift-nio-nghttp2-support](https://github.com/apple/swift-nio-nghttp2-support) pushed_at:2020-12 star:0.0k fork:0.0k 
-- [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) pushed_at:2021-08 star:0.2k fork:0.0k SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
+- [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) pushed_at:2021-09 star:0.2k fork:0.0k SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
 - [apple/swift-nio-ssl-support](https://github.com/apple/swift-nio-ssl-support) pushed_at:2020-12 star:0.0k fork:0.0k 
 - [apple/swift-nio-transport-services](https://github.com/apple/swift-nio-transport-services) pushed_at:2021-09 star:0.2k fork:0.0k Extensions for SwiftNIO to support Apple platforms as first-class citizens.
 - [apple/swift-nio-zlib-support](https://github.com/apple/swift-nio-zlib-support) pushed_at:2021-07 star:0.0k fork:0.0k 

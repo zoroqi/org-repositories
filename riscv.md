@@ -19,7 +19,7 @@
 ## Assembly
 
 - [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) pushed_at:2021-09 star:0.1k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
-- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) pushed_at:2021-09 star:0.4k fork:0.2k Working draft of the proposed RISC-V V vector extension
+- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) pushed_at:2021-09 star:0.5k fork:0.2k Working draft of the proposed RISC-V V vector extension
 
 ## BitBake
 
@@ -53,7 +53,7 @@
 - [riscv/genz-on-riscv](https://github.com/riscv/genz-on-riscv) pushed_at:2019-04 star:0.0k fork:0.0k 
 - [riscv/riscv-aia](https://github.com/riscv/riscv-aia) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [riscv/riscv-alt-fp](https://github.com/riscv/riscv-alt-fp) pushed_at:2021-05 star:0.0k fork:0.0k RISC-V Alternate FP Format
-- [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) pushed_at:2021-07 star:0.0k fork:0.0k Working Draft of the RISC-V J Extension Specification
 - [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) pushed_at:2021-09 star:0.0k fork:0.0k RISC-V Packed SIMD Extension
 - [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) pushed_at:2021-09 star:0.0k fork:0.0k PLIC Specification

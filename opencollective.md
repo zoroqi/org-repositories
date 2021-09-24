@@ -361,7 +361,7 @@
 - [opencollective/opencollective-changelog](https://github.com/opencollective/opencollective-changelog) pushed_at:2021-09 star:0.0k fork:0.0k Tracking weekly changes
 - [opencollective/opencollective-cli](https://github.com/opencollective/opencollective-cli) pushed_at:2021-08 star:0.0k fork:0.0k Command Line Interface for Open Collective
 - [opencollective/opencollective-email](https://github.com/opencollective/opencollective-email) pushed_at:2019-01 star:0.0k fork:0.0k The email service for transparent and inclusive open collectives
-- [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) pushed_at:2021-08 star:0.0k fork:0.0k The new Open Collective email service, powered by Eymail
+- [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) pushed_at:2021-09 star:0.0k fork:0.0k The new Open Collective email service, powered by Eymail
 - [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) pushed_at:2021-09 star:0.5k fork:0.3k Open Collective Frontend. A React app powered by Next.js.
 - [opencollective/opencollective-giftcards-generator](https://github.com/opencollective/opencollective-giftcards-generator) pushed_at:2020-04 star:0.0k fork:0.0k Simple app to generate read-to-print Open Collective gift cards
 - [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) pushed_at:2021-09 star:0.0k fork:0.0k The Open Collective Image Server (badges, banners, avatar, etc ...)

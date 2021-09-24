@@ -29,7 +29,7 @@
 ## C
 
 - [ARM-software/AArch64cryptolib](https://github.com/ARM-software/AArch64cryptolib) pushed_at:2020-11 star:0.0k fork:0.0k AArch64cryptolib is a from scratch implementation of cryptographic primitives aiming for optimal performance on Arm A-class cores
-- [ARM-software/arm-enterprise-acs](https://github.com/ARM-software/arm-enterprise-acs) pushed_at:2021-07 star:0.0k fork:0.0k ARM Enterprise ACS
+- [ARM-software/arm-enterprise-acs](https://github.com/ARM-software/arm-enterprise-acs) pushed_at:2021-09 star:0.0k fork:0.0k ARM Enterprise ACS
 - [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) pushed_at:2021-09 star:1.2k fork:1.0k Read-only mirror of Trusted Firmware-A
 - [ARM-software/bbr-acs](https://github.com/ARM-software/bbr-acs) pushed_at:2021-09 star:0.0k fork:0.0k Arm SystemReady : BBR Compliance Suite
 - [ARM-software/bento-linker](https://github.com/ARM-software/bento-linker) pushed_at:2021-01 star:0.0k fork:0.0k A light-weight alternative to processes for microcontrollers.
@@ -48,7 +48,7 @@
 - [ARM-software/Cryptocell-703-TEE-Lib](https://github.com/ARM-software/Cryptocell-703-TEE-Lib) pushed_at:2020-09 star:0.0k fork:0.0k Cryptocell 713/703 TEE Lib
 - [ARM-software/Cryptocell-713-TEE-Lib](https://github.com/ARM-software/Cryptocell-713-TEE-Lib) pushed_at:2020-09 star:0.0k fork:0.0k 
 - [ARM-software/CSAL](https://github.com/ARM-software/CSAL) pushed_at:2021-08 star:0.0k fork:0.0k Coresight Access Library
-- [ARM-software/EndpointAI](https://github.com/ARM-software/EndpointAI) pushed_at:2021-09 star:0.1k fork:0.1k 
+- [ARM-software/EndpointAI](https://github.com/ARM-software/EndpointAI) pushed_at:2021-09 star:0.2k fork:0.1k 
 - [ARM-software/ff-a-acs](https://github.com/ARM-software/ff-a-acs) pushed_at:2021-08 star:0.0k fork:0.0k Firmware Framework for A Architecture Compliance Suite
 - [ARM-software/fluent-bit-modbus-plugin](https://github.com/ARM-software/fluent-bit-modbus-plugin) pushed_at:2020-04 star:0.0k fork:0.0k   A dynamic Modbus plugin for Fluent Bit
 - [ARM-software/iot-platform-sw](https://github.com/ARM-software/iot-platform-sw) pushed_at:2016-07 star:0.0k fork:0.0k ARM Platform SDK code
@@ -62,7 +62,7 @@
 - [ARM-software/mobile-studio-integration-for-unity](https://github.com/ARM-software/mobile-studio-integration-for-unity) pushed_at:2021-06 star:0.1k fork:0.0k Mobile Studio tool integration with C# scripting for the Unity game engine.
 - [ARM-software/NXP_LPC](https://github.com/ARM-software/NXP_LPC) pushed_at:2016-03 star:0.0k fork:0.0k CMSIS Driver Implementations for the NXP LPC Microcontroller Series
 - [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) pushed_at:2021-03 star:0.2k fork:0.1k Optimized implementations of various library functions for ARM architecture processors
-- [ARM-software/perf-libs-tools](https://github.com/ARM-software/perf-libs-tools) pushed_at:2021-04 star:0.0k fork:0.0k 
+- [ARM-software/perf-libs-tools](https://github.com/ARM-software/perf-libs-tools) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [ARM-software/progress64](https://github.com/ARM-software/progress64) pushed_at:2021-04 star:0.0k fork:0.0k PROGRESS64 is a C library of scalable functions for concurrent programs, primarily focused on networking applications.
 - [ARM-software/psa-arch-tests](https://github.com/ARM-software/psa-arch-tests) pushed_at:2021-09 star:0.0k fork:0.1k Tests for verifying implementations of TBSA-v8M and the PSA Developer APIs
 - [ARM-software/rasc-devkit](https://github.com/ARM-software/rasc-devkit) pushed_at:2020-06 star:0.0k fork:0.0k 
@@ -135,7 +135,7 @@
 
 ## Java
 
-- [ARM-software/cmsis-pack-eclipse](https://github.com/ARM-software/cmsis-pack-eclipse) pushed_at:2020-09 star:0.0k fork:0.0k CMSIS-Pack Eclipse Plug-ins
+- [ARM-software/cmsis-pack-eclipse](https://github.com/ARM-software/cmsis-pack-eclipse) pushed_at:2020-09 star:0.1k fork:0.0k CMSIS-Pack Eclipse Plug-ins
 
 ## JavaScript
 
@@ -179,14 +179,14 @@
 - [ARM-software/core-benchmarks](https://github.com/ARM-software/core-benchmarks) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [ARM-software/daq-server](https://github.com/ARM-software/daq-server) pushed_at:2021-07 star:0.0k fork:0.0k Server for remote access to National Instruments DAQ devices
 - [ARM-software/devlib](https://github.com/ARM-software/devlib) pushed_at:2021-09 star:0.0k fork:0.1k Library for interaction with and instrumentation of remote devices.
-- [ARM-software/LLVM-embedded-toolchain-for-Arm](https://github.com/ARM-software/LLVM-embedded-toolchain-for-Arm) pushed_at:2021-08 star:0.0k fork:0.0k A project dedicated to build LLVM toolchain for 32-bit Arm embedded targets.
-- [ARM-software/ML-zoo](https://github.com/ARM-software/ML-zoo) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [ARM-software/LLVM-embedded-toolchain-for-Arm](https://github.com/ARM-software/LLVM-embedded-toolchain-for-Arm) pushed_at:2021-09 star:0.1k fork:0.0k A project dedicated to build LLVM toolchain for 32-bit Arm embedded targets.
+- [ARM-software/ML-zoo](https://github.com/ARM-software/ML-zoo) pushed_at:2021-08 star:0.1k fork:0.0k 
 - [ARM-software/mram_simulation_framework](https://github.com/ARM-software/mram_simulation_framework) pushed_at:2021-07 star:0.0k fork:0.0k MRAM magnetization simulation framework. s-LLGS python and verilog-a solvers for transients simulation and  Fokker-planck equation solver for stochastic analysis
 - [ARM-software/SCALE-Sim](https://github.com/ARM-software/SCALE-Sim) pushed_at:2021-04 star:0.2k fork:0.1k 
 - [ARM-software/scalpel](https://github.com/ARM-software/scalpel) pushed_at:2018-11 star:0.0k fork:0.0k This is a PyTorch implementation of the Scalpel. Node pruning for five benchmark networks and SIMD-aware weight pruning for LeNet-300-100 and LeNet-5 is included.
 - [ARM-software/trappy](https://github.com/ARM-software/trappy) pushed_at:2021-03 star:0.1k fork:0.0k Trace Analysis And Plotting in PYthon
 - [ARM-software/tspfnbeats](https://github.com/ARM-software/tspfnbeats) pushed_at:2020-10 star:0.0k fork:0.0k 
-- [ARM-software/workload-automation](https://github.com/ARM-software/workload-automation) pushed_at:2021-08 star:0.1k fork:0.1k A framework for automating workload execution and measurement collection on ARM devices.
+- [ARM-software/workload-automation](https://github.com/ARM-software/workload-automation) pushed_at:2021-09 star:0.1k fork:0.1k A framework for automating workload execution and measurement collection on ARM devices.
 - [ARM-software/workload-automation-assets](https://github.com/ARM-software/workload-automation-assets) pushed_at:2018-06 star:0.0k fork:0.0k Assets used by the workload-automation software
 
 ## Ruby

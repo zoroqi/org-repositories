@@ -39,7 +39,7 @@
 - [baidu/bigflow](https://github.com/baidu/bigflow) pushed_at:2020-10 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [baidu/boteye](https://github.com/baidu/boteye) pushed_at:2019-04 star:0.2k fork:0.1k 
 - [baidu/boteye_driver](https://github.com/baidu/boteye_driver) pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/braft](https://github.com/baidu/braft) pushed_at:2021-08 star:2.8k fork:0.7k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
+- [baidu/braft](https://github.com/baidu/braft) pushed_at:2021-08 star:2.9k fork:0.7k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
 - [baidu/common](https://github.com/baidu/common) pushed_at:2017-06 star:0.1k fork:0.1k Common library
 - [baidu/Familia](https://github.com/baidu/Familia) pushed_at:2021-07 star:2.5k fork:0.6k A Toolkit for Industrial Topic Modeling
 - [baidu/fast_rgf](https://github.com/baidu/fast_rgf) pushed_at:2018-07 star:0.5k fork:0.1k Multi-core implementation of Regularized Greedy Forest
@@ -102,7 +102,7 @@
 - [baidu/san-factory](https://github.com/baidu/san-factory) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [baidu/san-router](https://github.com/baidu/san-router) pushed_at:2021-07 star:0.0k fork:0.0k Official Router for San
 - [baidu/san-store](https://github.com/baidu/san-store) pushed_at:2021-09 star:0.1k fork:0.0k Application States Management for San
-- [baidu/san-update](https://github.com/baidu/san-update) pushed_at:2021-08 star:0.1k fork:0.0k Object immutable update utility for san solution
+- [baidu/san-update](https://github.com/baidu/san-update) pushed_at:2021-09 star:0.1k fork:0.0k Object immutable update utility for san solution
 - [baidu/san-website](https://github.com/baidu/san-website) pushed_at:2021-08 star:0.0k fork:0.1k 
 - [baidu/signet](https://github.com/baidu/signet) pushed_at:2014-12 star:0.0k fork:0.0k 签章系统
 - [baidu/wx2](https://github.com/baidu/wx2) pushed_at:2021-04 star:0.1k fork:0.0k 小程序互转工具
@@ -148,7 +148,7 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-09 star:8.0k fork:1.0k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-09 star:8.1k fork:1.1k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) pushed_at:2021-09 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) pushed_at:2021-09 star:0.0k fork:0.0k San SSR framework and utils
 

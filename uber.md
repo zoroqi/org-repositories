@@ -96,7 +96,7 @@
 ## JavaScript
 
 - [uber/airlock](https://github.com/uber/airlock) pushed_at:2020-05 star:0.0k fork:0.0k A prober to probe HTTP based backends for health
-- [uber/baseweb](https://github.com/uber/baseweb) pushed_at:2021-09 star:6.8k fork:0.6k A React Component library implementing the Base design language
+- [uber/baseweb](https://github.com/uber/baseweb) pushed_at:2021-09 star:6.9k fork:0.6k A React Component library implementing the Base design language
 - [uber/bufrw](https://github.com/uber/bufrw) pushed_at:2020-11 star:0.0k fork:0.0k Buffer Reading and Writing
 - [uber/build-changelog](https://github.com/uber/build-changelog) pushed_at:2014-11 star:0.0k fork:0.0k A CLI to auto-generate a deploy ready changelog
 - [uber/cache-dir](https://github.com/uber/cache-dir) pushed_at:2014-03 star:0.0k fork:0.0k An ES6 map-like cache with file-based backing
@@ -111,7 +111,7 @@
 - [uber/kafka-logger](https://github.com/uber/kafka-logger) pushed_at:2018-10 star:0.0k fork:0.0k A kafka logger for winston
 - [uber/logtron](https://github.com/uber/logtron) pushed_at:2018-10 star:0.2k fork:0.0k A logging MACHINE
 - [uber/manifold](https://github.com/uber/manifold) pushed_at:2021-09 star:1.5k fork:0.1k A model-agnostic visual debugging tool for machine learning
-- [uber/react-digraph](https://github.com/uber/react-digraph) pushed_at:2021-06 star:2.2k fork:0.2k A library for creating directed graph editors
+- [uber/react-digraph](https://github.com/uber/react-digraph) pushed_at:2021-09 star:2.2k fork:0.2k A library for creating directed graph editors
 - [uber/react-global-hooks](https://github.com/uber/react-global-hooks) pushed_at:2020-09 star:0.0k fork:0.0k 
 - [uber/react-vis](https://github.com/uber/react-vis) pushed_at:2021-09 star:8.0k fork:0.8k Data Visualization Components
 - [uber/react-vis-force](https://github.com/uber/react-vis-force) pushed_at:2020-06 star:0.4k fork:0.1k d3-force graphs as React Components.
@@ -127,7 +127,7 @@
 - [uber/uber-ngen](https://github.com/uber/uber-ngen) pushed_at:2016-05 star:0.0k fork:0.0k uber-ngen is a tool that will generate a new nodejs project for you.
 - [uber/uber-pay-reference-app](https://github.com/uber/uber-pay-reference-app) pushed_at:2019-11 star:0.0k fork:0.0k Uber Pay reference integration
 - [uber/uncaught-exception](https://github.com/uber/uncaught-exception) pushed_at:2019-07 star:0.1k fork:0.0k Handle uncaught exceptions.
-- [uber/xviz](https://github.com/uber/xviz) pushed_at:2021-08 star:0.7k fork:0.2k A protocol for real-time transfer and visualization of autonomy data
+- [uber/xviz](https://github.com/uber/xviz) pushed_at:2021-08 star:0.8k fork:0.2k A protocol for real-time transfer and visualization of autonomy data
 
 ## Jupyter Notebook
 
@@ -205,7 +205,7 @@
 - [uber/mockolo](https://github.com/uber/mockolo) pushed_at:2021-09 star:0.4k fork:0.0k Efficient Mock Generator for Swift
 - [uber/needle](https://github.com/uber/needle) pushed_at:2021-09 star:1.1k fork:0.1k Compile-time safe Swift dependency injection framework
 - [uber/rides-ios-sdk](https://github.com/uber/rides-ios-sdk) pushed_at:2019-11 star:0.3k fork:0.1k Uber Rides iOS SDK (beta)
-- [uber/RxCBCentral](https://github.com/uber/RxCBCentral) pushed_at:2021-06 star:0.0k fork:0.0k  A reactive, interface-driven central role Bluetooth LE library for iOS
+- [uber/RxCBCentral](https://github.com/uber/RxCBCentral) pushed_at:2021-09 star:0.0k fork:0.0k  A reactive, interface-driven central role Bluetooth LE library for iOS
 - [uber/swift-abstract-class](https://github.com/uber/swift-abstract-class) pushed_at:2019-12 star:0.1k fork:0.0k Compile-time abstract class validation for Swift
 - [uber/swift-common](https://github.com/uber/swift-common) pushed_at:2020-11 star:0.1k fork:0.0k Common code used by various Uber open source projects
 - [uber/swift-concurrency](https://github.com/uber/swift-concurrency) pushed_at:2020-05 star:0.3k fork:0.0k Concurrency utilities for Swift
