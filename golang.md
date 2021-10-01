@@ -28,7 +28,7 @@
 - [golang/gddo](https://github.com/golang/gddo) pushed_at:2021-01 star:1.1k fork:0.3k Go Doc Dot Org
 - [golang/geo](https://github.com/golang/geo) pushed_at:2021-09 star:1.3k fork:0.1k S2 geometry library in Go
 - [golang/glog](https://github.com/golang/glog) pushed_at:2021-08 star:3.0k fork:0.8k Leveled execution logs for Go
-- [golang/go](https://github.com/golang/go) pushed_at:2021-09 star:90.1k fork:13.3k The Go programming language
+- [golang/go](https://github.com/golang/go) pushed_at:2021-09 star:90.4k fork:13.3k The Go programming language
 - [golang/go-get-issue-15410](https://github.com/golang/go-get-issue-15410) pushed_at:2020-08 star:0.0k fork:0.0k go-get-issue-15410
 - [golang/gofrontend](https://github.com/golang/gofrontend) pushed_at:2021-09 star:0.6k fork:0.1k Go compiler frontend (gccgo)
 - [golang/groupcache](https://github.com/golang/groupcache) pushed_at:2021-05 star:10.7k fork:1.2k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
@@ -39,12 +39,12 @@
 - [golang/mock](https://github.com/golang/mock) pushed_at:2021-09 star:6.2k fork:0.5k GoMock is a mocking framework for the Go programming language.
 - [golang/mod](https://github.com/golang/mod) pushed_at:2021-09 star:0.1k fork:0.0k [mirror] Go module mechanics libraries
 - [golang/net](https://github.com/golang/net) pushed_at:2021-09 star:2.4k fork:1.0k [mirror] Go supplementary network libraries
-- [golang/oauth2](https://github.com/golang/oauth2) pushed_at:2021-09 star:3.8k fork:0.8k Go OAuth2
+- [golang/oauth2](https://github.com/golang/oauth2) pushed_at:2021-09 star:3.9k fork:0.8k Go OAuth2
 - [golang/perf](https://github.com/golang/perf) pushed_at:2021-02 star:0.3k fork:0.0k [mirror] Performance measurement, storage, and analysis.
 - [golang/pkgsite](https://github.com/golang/pkgsite) pushed_at:2021-09 star:0.8k fork:0.1k [mirror] Home of the pkg.go.dev website
 - [golang/playground](https://github.com/golang/playground) pushed_at:2021-08 star:0.5k fork:0.2k [mirror] The Go Playground
 - [golang/proposal](https://github.com/golang/proposal) pushed_at:2021-09 star:2.6k fork:0.3k Go Project Design Documents
-- [golang/protobuf](https://github.com/golang/protobuf) pushed_at:2021-09 star:7.9k fork:1.4k Go support for Google's protocol buffers
+- [golang/protobuf](https://github.com/golang/protobuf) pushed_at:2021-09 star:8.0k fork:1.4k Go support for Google's protocol buffers
 - [golang/review](https://github.com/golang/review) pushed_at:2021-09 star:0.1k fork:0.0k [mirror] Tool for working with Gerrit code reviews
 - [golang/scratch](https://github.com/golang/scratch) pushed_at:2021-09 star:0.0k fork:0.0k [mirror] repository used for testing
 - [golang/snappy](https://github.com/golang/snappy) pushed_at:2021-07 star:1.2k fork:0.1k The Snappy compression format in the Go programming language.
@@ -77,7 +77,7 @@
 
 ## TypeScript
 
-- [golang/vscode-go](https://github.com/golang/vscode-go) pushed_at:2021-09 star:2.1k fork:0.3k Go extension for VS Code
+- [golang/vscode-go](https://github.com/golang/vscode-go) pushed_at:2021-09 star:2.1k fork:0.4k Go extension for VS Code
 
 
 ## License

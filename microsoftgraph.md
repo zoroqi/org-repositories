@@ -385,7 +385,7 @@
 ## PowerShell
 
 - [microsoftgraph/M365Insights](https://github.com/microsoftgraph/M365Insights) pushed_at:2021-08 star:0.0k fork:0.0k Steps for admins to set up an automated Workplace Analytics query data export to Azure with PowerShell
-- [microsoftgraph/microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) pushed_at:2021-09 star:0.8k fork:1.4k Documentation for the Microsoft Graph REST API
+- [microsoftgraph/microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) pushed_at:2021-10 star:0.8k fork:1.4k Documentation for the Microsoft Graph REST API
 - [microsoftgraph/microsoft-graph-docs.pt-BR](https://github.com/microsoftgraph/microsoft-graph-docs.pt-BR) pushed_at:2021-09 star:0.0k fork:0.0k Documentation for the Microsoft Graph REST API for Portuguese
 - [microsoftgraph/microsoft-graph-docs.ru-RU](https://github.com/microsoftgraph/microsoft-graph-docs.ru-RU) pushed_at:2021-09 star:0.0k fork:0.0k Documentation for the Microsoft Graph REST API for Russian
 - [microsoftgraph/microsoft-graph-docs.zh-CN](https://github.com/microsoftgraph/microsoft-graph-docs.zh-CN) pushed_at:2021-09 star:0.0k fork:0.0k Documentation for the Microsoft Graph REST API for Chinese(Simplified)
@@ -418,7 +418,7 @@
 
 ## Scala
 
-- [microsoftgraph/dataconnect-solutions](https://github.com/microsoftgraph/dataconnect-solutions) pushed_at:2021-09 star:0.0k fork:0.0k Microsoft Graph Data Connect enables scaled access to Microsoft 365 data with fine grained consent model, integrated with compliance and governance, to enable analytics and big data applications on the largest productivity platform.  
+- [microsoftgraph/dataconnect-solutions](https://github.com/microsoftgraph/dataconnect-solutions) pushed_at:2021-10 star:0.0k fork:0.0k Microsoft Graph Data Connect enables scaled access to Microsoft 365 data with fine grained consent model, integrated with compliance and governance, to enable analytics and big data applications on the largest productivity platform.  
 
 ## Swift
 

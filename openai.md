@@ -43,7 +43,7 @@
 - [openai/procgen](https://github.com/openai/procgen) pushed_at:2021-06 star:0.6k fork:0.1k Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
 - [openai/pytorch](https://github.com/openai/pytorch) pushed_at:2021-09 star:0.0k fork:0.0k Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [openai/robot_controllers](https://github.com/openai/robot_controllers) pushed_at:2016-07 star:0.0k fork:0.0k Robot control infrastructure
-- [openai/triton](https://github.com/openai/triton) pushed_at:2021-09 star:3.2k fork:0.2k Development repository for the Triton language and compiler
+- [openai/triton](https://github.com/openai/triton) pushed_at:2021-10 star:3.2k fork:0.2k Development repository for the Triton language and compiler
 
 ## CSS
 
@@ -76,7 +76,7 @@
 ## Jupyter Notebook
 
 - [openai/baselines-results](https://github.com/openai/baselines-results) pushed_at:2020-07 star:0.1k fork:0.0k 
-- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-09 star:4.8k fork:0.6k Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-09 star:4.9k fork:0.6k Contrastive Language-Image Pretraining
 - [openai/lucid](https://github.com/openai/lucid) pushed_at:2019-01 star:0.0k fork:0.0k A collection of infrastructure and tools for research in neural network interpretability.
 - [openai/ot-gan](https://github.com/openai/ot-gan) pushed_at:2018-11 star:0.0k fork:0.0k  Code for the paper "Improving GANs Using Optimal Transport"
 
@@ -107,7 +107,7 @@
 - [openai/baselines](https://github.com/openai/baselines) pushed_at:2021-09 star:11.9k fork:4.1k OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [openai/CLIP-featurevis](https://github.com/openai/CLIP-featurevis) pushed_at:2021-03 star:0.2k fork:0.0k code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
 - [openai/code-align-evals-data](https://github.com/openai/code-align-evals-data) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [openai/DALL-E](https://github.com/openai/DALL-E) pushed_at:2021-04 star:3.3k fork:0.5k PyTorch package for the discrete VAE used for DALL·E.
+- [openai/DALL-E](https://github.com/openai/DALL-E) pushed_at:2021-04 star:3.4k fork:0.5k PyTorch package for the discrete VAE used for DALL·E.
 - [openai/deeptype](https://github.com/openai/deeptype) pushed_at:2019-03 star:0.6k fork:0.1k  Code for the paper "DeepType: Multilingual Entity Linking by Neural Type System Evolution"
 - [openai/distribution_augmentation](https://github.com/openai/distribution_augmentation) pushed_at:2020-11 star:0.1k fork:0.0k Code for the paper, "Distribution Augmentation for Generative Modeling", ICML 2020.
 - [openai/ebm_code_release](https://github.com/openai/ebm_code_release) pushed_at:2019-04 star:0.3k fork:0.0k Code for Implicit Generation and Generalization with Energy Based Models
@@ -120,7 +120,7 @@
 - [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2021-03 star:15.0k fork:3.8k Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) pushed_at:2021-02 star:1.2k fork:0.3k Dataset of GPT-2 outputs for research in detection, biases, and more
 - [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2021-07 star:0.8k fork:0.1k 
-- [openai/gym](https://github.com/openai/gym) pushed_at:2021-09 star:25.3k fork:7.2k A toolkit for developing and comparing reinforcement learning algorithms.
+- [openai/gym](https://github.com/openai/gym) pushed_at:2021-09 star:25.3k fork:7.3k A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/gym-http-api](https://github.com/openai/gym-http-api) pushed_at:2019-07 star:0.3k fork:0.1k API to access OpenAI Gym from other languages via HTTP
 - [openai/gym-recording](https://github.com/openai/gym-recording) pushed_at:2020-10 star:0.1k fork:0.0k Add-on package to gym, to record sequences of actions, observations, and rewards
 - [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2018-11 star:0.3k fork:0.2k 
@@ -141,7 +141,7 @@
 - [openai/maddpg](https://github.com/openai/maddpg) pushed_at:2021-05 star:0.9k fork:0.3k Code for the MADDPG algorithm from the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
 - [openai/ml-agents](https://github.com/openai/ml-agents) pushed_at:2020-03 star:0.1k fork:0.0k Unity Machine Learning Agents Toolkit
 - [openai/mlsh](https://github.com/openai/mlsh) pushed_at:2019-07 star:0.6k fork:0.1k  Code for the paper "Meta-Learning Shared Hierarchies"
-- [openai/mujoco-py](https://github.com/openai/mujoco-py) pushed_at:2021-04 star:1.7k fork:0.5k MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
+- [openai/mujoco-py](https://github.com/openai/mujoco-py) pushed_at:2021-04 star:1.7k fork:0.6k MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
 - [openai/mujoco-worldgen](https://github.com/openai/mujoco-worldgen) pushed_at:2019-11 star:0.4k fork:0.1k Automatic object XML generation for Mujoco
 - [openai/multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) pushed_at:2021-08 star:1.2k fork:0.2k Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
 - [openai/multiagent-competition](https://github.com/openai/multiagent-competition) pushed_at:2019-10 star:0.7k fork:0.1k  Code for the paper "Emergent Complexity via Multi-agent Competition"

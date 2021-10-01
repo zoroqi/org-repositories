@@ -27,7 +27,7 @@
 
 ## Assembly
 
-- [bytedance/sonic](https://github.com/bytedance/sonic) pushed_at:2021-09 star:0.7k fork:0.0k A blazingly fast JSON serializing & deserializing library
+- [bytedance/sonic](https://github.com/bytedance/sonic) pushed_at:2021-09 star:0.8k fork:0.0k A blazingly fast JSON serializing & deserializing library
 
 ## C
 
@@ -104,12 +104,12 @@
 - [bytedance/ByteX](https://github.com/bytedance/ByteX) pushed_at:2021-07 star:2.0k fork:0.3k ByteX is a bytecode plugin platform based on Android Gradle Transform API and ASM.  字节码插件开发平台
 - [bytedance/clickhouse_hadoop](https://github.com/bytedance/clickhouse_hadoop) pushed_at:2019-03 star:0.0k fork:0.0k Import data from clickhouse to hadoop with pure SQL
 - [bytedance/CodeLocator](https://github.com/bytedance/CodeLocator) pushed_at:2021-08 star:0.4k fork:0.0k 
-- [bytedance/flutter_asset_literal_idea_plugin](https://github.com/bytedance/flutter_asset_literal_idea_plugin) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [bytedance/flutter_asset_literal_idea_plugin](https://github.com/bytedance/flutter_asset_literal_idea_plugin) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [bytedance/jenkins-plugin-lark](https://github.com/bytedance/jenkins-plugin-lark) pushed_at:2021-06 star:0.0k fork:0.0k This plugin allows sending jobs status notification to your work group with Lark, and help you understand the build result.
 - [bytedance/nnproxy](https://github.com/bytedance/nnproxy) pushed_at:2016-04 star:0.1k fork:0.0k Scalable NameNode RPC Proxy for HDFS Federation
 - [bytedance/okhttp](https://github.com/bytedance/okhttp) pushed_at:2016-11 star:0.0k fork:0.0k An HTTP+HTTP/2 client for Android and Java applications.
 - [bytedance/pangle-sdk-demo](https://github.com/bytedance/pangle-sdk-demo) pushed_at:2020-07 star:0.0k fork:0.0k pangle-sdk-demo and doc 
-- [bytedance/scene](https://github.com/bytedance/scene) pushed_at:2021-07 star:1.7k fork:0.2k Android Single Activity Applications framework without Fragment.
+- [bytedance/scene](https://github.com/bytedance/scene) pushed_at:2021-07 star:1.8k fork:0.2k Android Single Activity Applications framework without Fragment.
 - [bytedance/tiktok-business-android-sdk](https://github.com/bytedance/tiktok-business-android-sdk) pushed_at:2021-05 star:0.0k fork:0.0k 
 
 ## JavaScript
@@ -166,7 +166,7 @@
 - [bytedance/GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) pushed_at:2020-10 star:0.9k fork:0.1k 
 - [bytedance/mega-ai](https://github.com/bytedance/mega-ai) pushed_at:2021-03 star:0.0k fork:0.0k Encapsulate tensorflow and other deep frameworks, support feature evaluation and model evaluation methods
 - [bytedance/mega-spark](https://github.com/bytedance/mega-spark) pushed_at:2020-09 star:0.0k fork:0.0k Spark is encapsulated as a mega interface to call pandas methods
-- [bytedance/music_source_separation](https://github.com/bytedance/music_source_separation) pushed_at:2021-09 star:0.4k fork:0.0k 
+- [bytedance/music_source_separation](https://github.com/bytedance/music_source_separation) pushed_at:2021-09 star:0.5k fork:0.1k 
 - [bytedance/neurst](https://github.com/bytedance/neurst) pushed_at:2021-09 star:0.2k fork:0.0k Neural end-to-end Speech Translation Toolkit
 - [bytedance/OMGD](https://github.com/bytedance/OMGD) pushed_at:2021-09 star:0.2k fork:0.0k Online Multi-Granularity Distillation for GAN Compression (ICCV2021)
 - [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) pushed_at:2021-05 star:0.7k fork:0.1k 
@@ -195,8 +195,8 @@
 - [bytedance/fe-foundation](https://github.com/bytedance/fe-foundation) pushed_at:2021-06 star:0.1k fork:0.0k UI Foundation for React Hooks and Vue Composition Api 
 - [bytedance/graphyne](https://github.com/bytedance/graphyne) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [bytedance/guide](https://github.com/bytedance/guide) pushed_at:2021-08 star:0.4k fork:0.0k A new feature guide component by react 🧭
-- [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-08 star:4.5k fork:0.2k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
-- [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) pushed_at:2021-06 star:0.3k fork:0.0k Write components in any way, use them everywhere.😘
+- [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-08 star:4.6k fork:0.2k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+- [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) pushed_at:2021-06 star:0.4k fork:0.0k Write components in any way, use them everywhere.😘
 - [bytedance/magic-portal](https://github.com/bytedance/magic-portal) pushed_at:2021-07 star:0.1k fork:0.0k ⚡ A blazing fast micro-component and micro-frontend solution uses web-components under the hood.
 - [bytedance/react-model](https://github.com/bytedance/react-model) pushed_at:2021-03 star:0.1k fork:0.0k The next generation state management library for React
 - [bytedance/syllepsis](https://github.com/bytedance/syllepsis) pushed_at:2021-09 star:0.1k fork:0.0k Syllepsis is an out-of-the-box rich text editor.

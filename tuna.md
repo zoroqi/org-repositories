@@ -49,14 +49,14 @@
 - [tuna/freedns-go](https://github.com/tuna/freedns-go) pushed_at:2021-03 star:0.1k fork:0.0k Optimized DNS Server for Chinese users.
 - [tuna/mirrorhub](https://github.com/tuna/mirrorhub) pushed_at:2016-09 star:0.0k fork:0.0k Redirects the user to a nearby mirror site.
 - [tuna/tunaccount](https://github.com/tuna/tunaccount) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [tuna/tunasync](https://github.com/tuna/tunasync) pushed_at:2021-09 star:1.0k fork:0.2k Mirror job management tool. 
+- [tuna/tunasync](https://github.com/tuna/tunasync) pushed_at:2021-09 star:1.1k fork:0.2k Mirror job management tool. 
 
 ## HTML
 
 - [tuna/mirror-web](https://github.com/tuna/mirror-web) pushed_at:2021-09 star:0.6k fork:0.2k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
 - [tuna/mirrorcon](https://github.com/tuna/mirrorcon) pushed_at:2017-09 star:0.0k fork:0.0k Website of MirrorCon 2017
 - [tuna/registr-lite](https://github.com/tuna/registr-lite) pushed_at:2020-09 star:0.0k fork:0.0k A lightweight registr with only a bare RESTful API.
-- [tuna/tuna.moe](https://github.com/tuna/tuna.moe) pushed_at:2021-08 star:0.1k fork:0.0k 
+- [tuna/tuna.moe](https://github.com/tuna/tuna.moe) pushed_at:2021-09 star:0.1k fork:0.0k 
 
 ## JavaScript
 

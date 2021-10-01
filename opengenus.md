@@ -13,9 +13,9 @@
 - [JavaScript](#javascript) (13)
 - [Jupyter Notebook](#jupyter-notebook) (3)
 - [OpenEdge ABL](#openedge-abl) (1)
-- [Others](#others) (34)
+- [Others](#others) (33)
 - [Processing](#processing) (1)
-- [Python](#python) (24)
+- [Python](#python) (25)
 - [Shell](#shell) (1)
 - [Swift](#swift) (1)
 
@@ -99,7 +99,6 @@
 - [OpenGenus/data-store](https://github.com/OpenGenus/data-store) pushed_at:2018-01 star:0.0k fork:0.0k Serving data to other OpenGenus services
 - [OpenGenus/discuss](https://github.com/OpenGenus/discuss) pushed_at:2019-10 star:0.0k fork:0.0k Find users to discuss anything and find a new friend
 - [OpenGenus/django_demo](https://github.com/OpenGenus/django_demo) pushed_at:2019-07 star:0.0k fork:0.0k 
-- [OpenGenus/face](https://github.com/OpenGenus/face) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [OpenGenus/Feedback](https://github.com/OpenGenus/Feedback) pushed_at:2017-09 star:0.0k fork:0.0k Places to get valuable feedback for your every awesome work
 - [OpenGenus/Find.the.Lost](https://github.com/OpenGenus/Find.the.Lost) pushed_at:2016-10 star:0.0k fork:0.0k [ 🚧 Coming to the open soon 🚧 ] We aim to integrate all web services 🍶 and interconnect 3️⃣  all devices 📱on the web to gather all relevant information and process it to track a lost person 🙎 . Stay tuned 📻 for updates. 
 - [OpenGenus/Find.Your.Purpose](https://github.com/OpenGenus/Find.Your.Purpose) pushed_at:2018-10 star:0.1k fork:0.0k An exhaustive list of products with a purpose of making our World a better place to live in and to help you find your mission. 
@@ -131,6 +130,7 @@
 - [OpenGenus/audio_feature](https://github.com/OpenGenus/audio_feature) pushed_at:2019-09 star:0.0k fork:0.0k extracting feature from audio
 - [OpenGenus/code-submission](https://github.com/OpenGenus/code-submission) pushed_at:2020-11 star:0.0k fork:0.0k 
 - [OpenGenus/course](https://github.com/OpenGenus/course) pushed_at:2018-08 star:0.0k fork:0.0k 
+- [OpenGenus/face](https://github.com/OpenGenus/face) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [OpenGenus/face_aging](https://github.com/OpenGenus/face_aging) pushed_at:2019-08 star:0.0k fork:0.0k 
 - [OpenGenus/face_print](https://github.com/OpenGenus/face_print) pushed_at:2018-08 star:0.0k fork:0.0k 
 - [OpenGenus/flask_demo](https://github.com/OpenGenus/flask_demo) pushed_at:2019-07 star:0.0k fork:0.0k Flask demos

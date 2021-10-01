@@ -13,10 +13,10 @@
 - [Dockerfile](#dockerfile) (1)
 - [Go](#go) (41)
 - [Groovy](#groovy) (1)
-- [HTML](#html) (49)
+- [HTML](#html) (48)
 - [HiveQL](#hiveql) (2)
 - [Java](#java) (38)
-- [JavaScript](#javascript) (328)
+- [JavaScript](#javascript) (329)
 - [Jinja](#jinja) (3)
 - [Jupyter Notebook](#jupyter-notebook) (5)
 - [Kotlin](#kotlin) (2)
@@ -26,11 +26,11 @@
 - [Makefile](#makefile) (38)
 - [Mathematica](#mathematica) (1)
 - [Objective-C](#objective-c) (8)
-- [Others](#others) (369)
-- [PHP](#php) (892)
+- [Others](#others) (367)
+- [PHP](#php) (891)
 - [Perl](#perl) (10)
 - [Puppet](#puppet) (10)
-- [Python](#python) (317)
+- [Python](#python) (319)
 - [R](#r) (29)
 - [Ruby](#ruby) (12)
 - [Rust](#rust) (4)
@@ -44,7 +44,7 @@
 - [Tcl](#tcl) (1)
 - [TeX](#tex) (3)
 - [TypeScript](#typescript) (10)
-- [Vue](#vue) (1)
+- [Vue](#vue) (2)
 - [XSLT](#xslt) (7)
 
 ## C
@@ -157,7 +157,7 @@
 
 ## Dockerfile
 
-- [wikimedia/mediawiki-docker](https://github.com/wikimedia/mediawiki-docker) pushed_at:2021-08 star:0.2k fork:0.1k Docker container for MediaWiki
+- [wikimedia/mediawiki-docker](https://github.com/wikimedia/mediawiki-docker) pushed_at:2021-09 star:0.2k fork:0.1k Docker container for MediaWiki
 
 ## Go
 
@@ -212,13 +212,12 @@
 - [wikimedia/analytics-wmde-WD-WikidataAnalytics](https://github.com/wikimedia/analytics-wmde-WD-WikidataAnalytics) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "analytics/wmde/WD/WikidataAnalytics" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/analytics-wmde-WDCM-ShinyServerFrontPage](https://github.com/wikimedia/analytics-wmde-WDCM-ShinyServerFrontPage) pushed_at:2018-02 star:0.0k fork:0.0k Github mirror of "analytics/wmde/WDCM-ShinyServerFrontPage" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/design-blog](https://github.com/wikimedia/design-blog) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "design/blog" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
-- [wikimedia/design-strategy](https://github.com/wikimedia/design-strategy) pushed_at:2021-08 star:0.0k fork:0.0k Github mirror of "design/strategy" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
+- [wikimedia/design-strategy](https://github.com/wikimedia/design-strategy) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "design/strategy" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/labs-icinga2](https://github.com/wikimedia/labs-icinga2) pushed_at:2019-11 star:0.0k fork:0.0k Github mirror of "labs/icinga2" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/labs-striker-deploy](https://github.com/wikimedia/labs-striker-deploy) pushed_at:2021-02 star:0.0k fork:0.0k Github mirror of "labs/striker/deploy" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/labs-tools-awmd-stats](https://github.com/wikimedia/labs-tools-awmd-stats) pushed_at:2020-05 star:0.0k fork:0.0k Github mirror of "labs/tools/awmd-stats" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
-- [wikimedia/labs-tools-commons-recon-service](https://github.com/wikimedia/labs-tools-commons-recon-service) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "labs/tools/commons-recon-service" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/labs-tools-indic-ocr](https://github.com/wikimedia/labs-tools-indic-ocr) pushed_at:2018-11 star:0.0k fork:0.0k Github mirror of "labs/tools/indic-ocr" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
-- [wikimedia/labs-tools-indic-wscontest](https://github.com/wikimedia/labs-tools-indic-wscontest) pushed_at:2020-11 star:0.0k fork:0.0k Github mirror of "labs/tools/indic-wscontest" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
+- [wikimedia/labs-tools-indic-wscontest](https://github.com/wikimedia/labs-tools-indic-wscontest) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "labs/tools/indic-wscontest" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/labs-tools-ZppixBot](https://github.com/wikimedia/labs-tools-ZppixBot) pushed_at:2020-07 star:0.0k fork:0.0k Github mirror of "labs/tools/ZppixBot" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/Leaflet.Sleep](https://github.com/wikimedia/Leaflet.Sleep) pushed_at:2018-07 star:0.0k fork:0.0k Prevent unwanted scroll capturing; let you map sleep
 - [wikimedia/limn](https://github.com/wikimedia/limn) pushed_at:2015-11 star:0.1k fork:0.0k A GUI Visualization Toolkit
@@ -256,13 +255,13 @@
 - [wikimedia/wikimedia-meet-accountmanager](https://github.com/wikimedia/wikimedia-meet-accountmanager) pushed_at:2021-01 star:0.0k fork:0.0k Github mirror of "wikimedia/meet-accountmanager" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/wikimedia-TransparencyReport](https://github.com/wikimedia/wikimedia-TransparencyReport) pushed_at:2020-05 star:0.0k fork:0.0k Mirror from https://gerrit.wikimedia.org/g/wikimedia/TransparencyReport. See https://www.mediawiki.org/wiki/Developer_access for contributing.
 - [wikimedia/wikimedia.github.io](https://github.com/wikimedia/wikimedia.github.io) pushed_at:2020-08 star:0.0k fork:0.0k 
-- [wikimedia/WikimediaUI-Style-Guide](https://github.com/wikimedia/WikimediaUI-Style-Guide) pushed_at:2021-08 star:0.1k fork:0.1k Wikimedia Design Style Guide with user interface focus, authored by Wikimedia Foundation Design team. 
+- [wikimedia/WikimediaUI-Style-Guide](https://github.com/wikimedia/WikimediaUI-Style-Guide) pushed_at:2021-09 star:0.1k fork:0.1k Wikimedia Design Style Guide with user interface focus, authored by Wikimedia Foundation Design team. 
 - [wikimedia/www.wikipedia.org](https://github.com/wikimedia/www.wikipedia.org) pushed_at:2015-06 star:0.0k fork:0.0k A fork of www.wikipedia.org
 
 ## HiveQL
 
 - [wikimedia/analytics-refinery](https://github.com/wikimedia/analytics-refinery) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "analytics/refinery" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
-- [wikimedia/analytics-wmf-product-jobs](https://github.com/wikimedia/analytics-wmf-product-jobs) pushed_at:2021-02 star:0.0k fork:0.0k Github mirror of "analytics/wmf-product/jobs" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
+- [wikimedia/analytics-wmf-product-jobs](https://github.com/wikimedia/analytics-wmf-product-jobs) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "analytics/wmf-product/jobs" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 
 ## Java
 
@@ -331,7 +330,7 @@
 - [wikimedia/cassandra-codec](https://github.com/wikimedia/cassandra-codec) pushed_at:2015-01 star:0.0k fork:0.0k Cassandra data encoding / decoding, in particular Java BigInteger varints and Decimals
 - [wikimedia/change-propagation](https://github.com/wikimedia/change-propagation) pushed_at:2021-08 star:0.0k fork:0.0k Mirror of https://gerrit.wikimedia.org/g/mediawiki/services/change-propagation. See https://www.mediawiki.org/wiki/Developer_access for contributing.
 - [wikimedia/changeprop-archive](https://github.com/wikimedia/changeprop-archive) pushed_at:2020-11 star:0.0k fork:0.0k Moved to Gerrit. https://gerrit.wikimedia.org/g/mediawiki/services/change-propagation
-- [wikimedia/citoid](https://github.com/wikimedia/citoid) pushed_at:2021-08 star:0.0k fork:0.0k Mirror of mediawiki/services/citoid.git (see https://www.mediawiki.org/wiki/Developer_access for contributing)
+- [wikimedia/citoid](https://github.com/wikimedia/citoid) pushed_at:2021-09 star:0.0k fork:0.0k Mirror of mediawiki/services/citoid.git (see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/content-type](https://github.com/wikimedia/content-type) pushed_at:2015-11 star:0.0k fork:0.0k Create and parse HTTP Content-Type header
 - [wikimedia/data-values-value-view](https://github.com/wikimedia/data-values-value-view) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "data-values/value-view" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/debmonitor](https://github.com/wikimedia/debmonitor) pushed_at:2021-06 star:0.0k fork:0.0k A Debian package tracker — This is a mirror, to contribute see:
@@ -407,6 +406,7 @@
 - [wikimedia/mediawiki-extensions-ArticleIndex](https://github.com/wikimedia/mediawiki-extensions-ArticleIndex) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension ArticleIndex - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-extensions-BlueSpiceBookshelfUI](https://github.com/wikimedia/mediawiki-extensions-BlueSpiceBookshelfUI) pushed_at:2021-03 star:0.0k fork:0.0k GitHub mirror. Development happens at https://gerrit.wikimedia.org. Please see https://www.mediawiki.org/wiki/Developer_account if you wish to contribute.
 - [wikimedia/mediawiki-extensions-BlueSpiceCategoryCheck](https://github.com/wikimedia/mediawiki-extensions-BlueSpiceCategoryCheck) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension BlueSpiceCategoryCheck - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
+- [wikimedia/mediawiki-extensions-BlueSpiceCategoryManager](https://github.com/wikimedia/mediawiki-extensions-BlueSpiceCategoryManager) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension BlueSpiceCategoryManager - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-extensions-BlueSpiceConfigManager](https://github.com/wikimedia/mediawiki-extensions-BlueSpiceConfigManager) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension BlueSpiceConfigManager - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-extensions-BlueSpiceExportTables](https://github.com/wikimedia/mediawiki-extensions-BlueSpiceExportTables) pushed_at:2021-09 star:0.0k fork:0.0k GitHub mirror. Development happens at https://gerrit.wikimedia.org. Please see https://www.mediawiki.org/wiki/Developer_account if you wish to contribute.
 - [wikimedia/mediawiki-extensions-BlueSpiceFilterableTables](https://github.com/wikimedia/mediawiki-extensions-BlueSpiceFilterableTables) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension BlueSpiceFilterableTables - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
@@ -639,7 +639,7 @@
 ## Jinja
 
 - [wikimedia/mediawiki-services-restbase-deploy](https://github.com/wikimedia/mediawiki-services-restbase-deploy) pushed_at:2021-08 star:0.0k fork:0.0k Github mirror of "mediawiki/services/restbase/deploy" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
-- [wikimedia/operations-docker-images-toollabs-images](https://github.com/wikimedia/operations-docker-images-toollabs-images) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [wikimedia/operations-docker-images-toollabs-images](https://github.com/wikimedia/operations-docker-images-toollabs-images) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [wikimedia/operations-gitlab-ansible](https://github.com/wikimedia/operations-gitlab-ansible) pushed_at:2021-09 star:0.0k fork:0.0k 
 
 ## Jupyter Notebook
@@ -652,7 +652,7 @@
 
 ## Kotlin
 
-- [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) pushed_at:2021-09 star:1.5k fork:0.5k  📱The official Wikipedia app for Android!
+- [wikimedia/apps-android-wikipedia](https://github.com/wikimedia/apps-android-wikipedia) pushed_at:2021-10 star:1.5k fork:0.5k  📱The official Wikipedia app for Android!
 - [wikimedia/wikipedia-android-lite](https://github.com/wikimedia/wikipedia-android-lite) pushed_at:2019-12 star:0.0k fork:0.0k 
 
 ## Less
@@ -808,8 +808,6 @@
 - [wikimedia/labs-tools-rust-hello-world](https://github.com/wikimedia/labs-tools-rust-hello-world) pushed_at:2020-06 star:0.0k fork:0.0k Github mirror of "labs/tools/rust-hello-world" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/labs-tools-ScrotBot](https://github.com/wikimedia/labs-tools-ScrotBot) pushed_at:2018-06 star:0.0k fork:0.0k Github mirror of "labs/tools/ScrotBot" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/labs-tools-vuln-checker](https://github.com/wikimedia/labs-tools-vuln-checker) pushed_at:2018-09 star:0.0k fork:0.0k Github mirror of "labs/tools/vuln-checker" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
-- [wikimedia/labs-tools-wikicontest](https://github.com/wikimedia/labs-tools-wikicontest) pushed_at:2020-03 star:0.0k fork:0.0k Github mirror of "labs/tools/wikicontest" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
-- [wikimedia/labs-tools-wikicontest-backend](https://github.com/wikimedia/labs-tools-wikicontest-backend) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "labs/tools/wikicontest-backend" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/labs-tools-wikidata-slicer](https://github.com/wikimedia/labs-tools-wikidata-slicer) pushed_at:2015-09 star:0.0k fork:0.0k Github mirror of "labs/tools/wikidata-slicer" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/labs-tools-Wikimedia-Emoji-Bot](https://github.com/wikimedia/labs-tools-Wikimedia-Emoji-Bot) pushed_at:2017-08 star:0.0k fork:0.0k Github mirror of "labs/tools/Wikimedia-Emoji-Bot" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/limn-debugging-data](https://github.com/wikimedia/limn-debugging-data) pushed_at:2015-08 star:0.0k fork:0.0k limn graphs and dashboards used to troubleshoot various analyses
@@ -1121,7 +1119,7 @@
 - [wikimedia/common-passwords](https://github.com/wikimedia/common-passwords) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [wikimedia/composer-merge-plugin](https://github.com/wikimedia/composer-merge-plugin) pushed_at:2021-08 star:0.8k fork:0.1k Merge one or more additional composer.json files at Composer runtime
 - [wikimedia/CopyPatrol](https://github.com/wikimedia/CopyPatrol) pushed_at:2021-09 star:0.0k fork:0.0k The web interface for Plagiabot (authored by @Eranroz)
-- [wikimedia/css-sanitizer](https://github.com/wikimedia/css-sanitizer) pushed_at:2021-07 star:0.0k fork:0.0k Github mirror of "css-sanitizer" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
+- [wikimedia/css-sanitizer](https://github.com/wikimedia/css-sanitizer) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "css-sanitizer" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/DeadlinkChecker](https://github.com/wikimedia/DeadlinkChecker) pushed_at:2020-12 star:0.0k fork:0.0k Code to determine if a link on the web is dead or alive
 - [wikimedia/diff-blog](https://github.com/wikimedia/diff-blog) pushed_at:2021-04 star:0.0k fork:0.0k GitHub mirror of the code used by https://diff.wikimedia.org
 - [wikimedia/Equivset](https://github.com/wikimedia/Equivset) pushed_at:2021-08 star:0.0k fork:0.0k Github mirror - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
@@ -1143,8 +1141,9 @@
 - [wikimedia/language-data](https://github.com/wikimedia/language-data) pushed_at:2021-09 star:0.0k fork:0.0k Language data and utilities
 - [wikimedia/logstash-report](https://github.com/wikimedia/logstash-report) pushed_at:2017-10 star:0.0k fork:0.0k 
 - [wikimedia/lucene-explain-parser](https://github.com/wikimedia/lucene-explain-parser) pushed_at:2021-07 star:0.0k fork:0.0k Github mirror of "wikimedia/lucene-explain-parser" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
-- [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) pushed_at:2021-09 star:2.6k fork:1.1k 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
+- [wikimedia/mediawiki](https://github.com/wikimedia/mediawiki) pushed_at:2021-10 star:2.6k fork:1.1k 🌻 The collaborative editing software that runs Wikipedia. Mirror from https://gerrit.wikimedia.org/g/mediawiki/core. See https://mediawiki.org/wiki/Developer_access for contributing.
 - [wikimedia/mediawiki-core-vendor](https://github.com/wikimedia/mediawiki-core-vendor) pushed_at:2014-10 star:0.0k fork:0.0k Github mirror of "mediawiki/core/vendor" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
+- [wikimedia/mediawiki-developer-utils](https://github.com/wikimedia/mediawiki-developer-utils) pushed_at:2020-08 star:0.0k fork:0.0k Mirror from https://gerrit.wikimedia.org/g/mediawiki/tools/code-utils. See https://www.mediawiki.org/wiki/Developer_access for contributing.
 - [wikimedia/mediawiki-extensions-AbsenteeLandlord](https://github.com/wikimedia/mediawiki-extensions-AbsenteeLandlord) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension AbsenteeLandlord - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-extensions-AbuseFilter](https://github.com/wikimedia/mediawiki-extensions-AbuseFilter) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension AbuseFilter - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-extensions-AbuseFilterBypass](https://github.com/wikimedia/mediawiki-extensions-AbuseFilterBypass) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension AbuseFilterBypass - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
@@ -1199,7 +1198,6 @@
 - [wikimedia/mediawiki-extensions-BlueSpiceAuthors](https://github.com/wikimedia/mediawiki-extensions-BlueSpiceAuthors) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension BlueSpiceAuthors - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-extensions-BlueSpiceAvatars](https://github.com/wikimedia/mediawiki-extensions-BlueSpiceAvatars) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension BlueSpiceAvatars - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-extensions-BlueSpiceBookshelf](https://github.com/wikimedia/mediawiki-extensions-BlueSpiceBookshelf) pushed_at:2021-09 star:0.0k fork:0.0k GitHub mirror. Development happens at https://gerrit.wikimedia.org. Please see https://www.mediawiki.org/wiki/Developer_account if you wish to contribute.
-- [wikimedia/mediawiki-extensions-BlueSpiceCategoryManager](https://github.com/wikimedia/mediawiki-extensions-BlueSpiceCategoryManager) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension BlueSpiceCategoryManager - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-extensions-BlueSpiceChecklist](https://github.com/wikimedia/mediawiki-extensions-BlueSpiceChecklist) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension BlueSpiceChecklist - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-extensions-BlueSpiceContextMenu](https://github.com/wikimedia/mediawiki-extensions-BlueSpiceContextMenu) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension BlueSpiceContextMenu - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-extensions-BlueSpiceCountThings](https://github.com/wikimedia/mediawiki-extensions-BlueSpiceCountThings) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension BlueSpiceCountThings - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
@@ -1480,7 +1478,7 @@
 - [wikimedia/mediawiki-extensions-InteractiveBlockMessage](https://github.com/wikimedia/mediawiki-extensions-InteractiveBlockMessage) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension InteractiveBlockMessage - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-extensions-Interlanguage](https://github.com/wikimedia/mediawiki-extensions-Interlanguage) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension Interlanguage - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-extensions-intersection](https://github.com/wikimedia/mediawiki-extensions-intersection) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension intersection - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
-- [wikimedia/mediawiki-extensions-Interwiki](https://github.com/wikimedia/mediawiki-extensions-Interwiki) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension Interwiki - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
+- [wikimedia/mediawiki-extensions-Interwiki](https://github.com/wikimedia/mediawiki-extensions-Interwiki) pushed_at:2021-10 star:0.0k fork:0.0k Github mirror of MediaWiki extension Interwiki - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-extensions-InterwikiExtracts](https://github.com/wikimedia/mediawiki-extensions-InterwikiExtracts) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension InterwikiExtracts - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-extensions-InterwikiSorting](https://github.com/wikimedia/mediawiki-extensions-InterwikiSorting) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension InterwikiSorting - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-extensions-InviteSignup](https://github.com/wikimedia/mediawiki-extensions-InviteSignup) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki extension InviteSignup - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
@@ -1887,8 +1885,8 @@
 - [wikimedia/mediawiki-oauthclient-php](https://github.com/wikimedia/mediawiki-oauthclient-php) pushed_at:2021-07 star:0.0k fork:0.0k Mirror from https://gerrit.wikimedia.org/g/mediawiki/oauthclient-php. See https://www.mediawiki.org/wiki/Developer_access for contributing.
 - [wikimedia/mediawiki-packages-WPI](https://github.com/wikimedia/mediawiki-packages-WPI) pushed_at:2015-06 star:0.0k fork:0.0k Github mirror of Windows package of MediaWiki - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-phan-config](https://github.com/wikimedia/mediawiki-phan-config) pushed_at:2021-09 star:0.0k fork:0.0k Standard MediaWiki phan configuration. Mirror from https://gerrit.wikimedia.org/g/mediawiki/tools/phan - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
-- [wikimedia/mediawiki-php-wikidiff2](https://github.com/wikimedia/mediawiki-php-wikidiff2) pushed_at:2021-08 star:0.0k fork:0.0k Github mirror of PHP extension wikidiff2 - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
-- [wikimedia/mediawiki-services-apple-search](https://github.com/wikimedia/mediawiki-services-apple-search) pushed_at:2021-08 star:0.0k fork:0.0k Github mirror of "mediawiki/services/apple-search" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
+- [wikimedia/mediawiki-php-wikidiff2](https://github.com/wikimedia/mediawiki-php-wikidiff2) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of PHP extension wikidiff2 - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
+- [wikimedia/mediawiki-services-apple-search](https://github.com/wikimedia/mediawiki-services-apple-search) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "mediawiki/services/apple-search" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-services-jobrunner](https://github.com/wikimedia/mediawiki-services-jobrunner) pushed_at:2017-10 star:0.0k fork:0.0k Github mirror of "mediawiki/services/jobrunner" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/mediawiki-skins-Anisa](https://github.com/wikimedia/mediawiki-skins-Anisa) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki skin Anisa - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-skins-BlueSky](https://github.com/wikimedia/mediawiki-skins-BlueSky) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "mediawiki/skins/BlueSky" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
@@ -1906,7 +1904,6 @@
 - [wikimedia/mediawiki-skins-WMAU](https://github.com/wikimedia/mediawiki-skins-WMAU) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "mediawiki/skins/WMAU" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-skins-WoOgLeShades](https://github.com/wikimedia/mediawiki-skins-WoOgLeShades) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "mediawiki/skins/WoOgLeShades" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/mediawiki-tools-ansible-wikifarm](https://github.com/wikimedia/mediawiki-tools-ansible-wikifarm) pushed_at:2017-07 star:0.0k fork:0.0k Github mirror of "mediawiki/tools/ansible-wikifarm" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
-- [wikimedia/mediawiki-tools-code-utils](https://github.com/wikimedia/mediawiki-tools-code-utils) pushed_at:2020-08 star:0.0k fork:0.0k Mirror from https://gerrit.wikimedia.org/g/mediawiki/tools/code-utils. See https://www.mediawiki.org/wiki/Developer_access for contributing.
 - [wikimedia/mediawiki-tools-codesniffer](https://github.com/wikimedia/mediawiki-tools-codesniffer) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of MediaWiki tool codesniffer - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-tools-commonshelper2](https://github.com/wikimedia/mediawiki-tools-commonshelper2) pushed_at:2013-09 star:0.0k fork:0.0k Github mirror of MediaWiki tool commonshelper2 - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-tools-dippybird](https://github.com/wikimedia/mediawiki-tools-dippybird) pushed_at:2013-04 star:0.0k fork:0.0k Github mirror of mediawiki/tools/dippybird - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
@@ -1931,7 +1928,7 @@
 - [wikimedia/operations-wikitech-static](https://github.com/wikimedia/operations-wikitech-static) pushed_at:2019-10 star:0.0k fork:0.0k Github mirror of https://gerrit.wikimedia.org/g/operations/wikitech-static/ - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/parsoid](https://github.com/wikimedia/parsoid) pushed_at:2021-09 star:0.1k fork:0.0k This is a mirror from https://gerrit.wikimedia.org/g/mediawiki/services/parsoid/. See https://www.mediawiki.org/wiki/Developer_access for contributing.
 - [wikimedia/password-blacklist](https://github.com/wikimedia/password-blacklist) pushed_at:2020-06 star:0.0k fork:0.0k Replaced by https://packagist.org/packages/wikimedia/common-passwords
-- [wikimedia/phabricator](https://github.com/wikimedia/phabricator) pushed_at:2021-07 star:0.0k fork:0.0k Github mirror of "phabricator" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
+- [wikimedia/phabricator](https://github.com/wikimedia/phabricator) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "phabricator" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/phabricator-antivandalism](https://github.com/wikimedia/phabricator-antivandalism) pushed_at:2021-08 star:0.0k fork:0.0k Phabricator extension to combat spam and destructive edits to Maniphest tasks in a public Phabricator instance.
 - [wikimedia/phabricator-extensions](https://github.com/wikimedia/phabricator-extensions) pushed_at:2021-07 star:0.0k fork:0.0k Github mirror of "phabricator/extensions" - our actual code is hosted in phabricator
 - [wikimedia/phabricator-extensions-security](https://github.com/wikimedia/phabricator-extensions-security) pushed_at:2020-06 star:0.0k fork:0.0k Github mirror of "phabricator/extensions/security" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
@@ -1964,20 +1961,20 @@
 - [wikimedia/Vector](https://github.com/wikimedia/Vector) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "mediawiki/skins/Vector" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/wait-condition-loop](https://github.com/wikimedia/wait-condition-loop) pushed_at:2021-09 star:0.0k fork:0.0k Wait loop for reaching a condition. This is a mirror from gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.
 - [wikimedia/webpagetest](https://github.com/wikimedia/webpagetest) pushed_at:2017-09 star:0.0k fork:0.0k Official repository for WebPagetest
-- [wikimedia/Wikibase](https://github.com/wikimedia/Wikibase) pushed_at:2021-09 star:0.1k fork:0.1k 🌐 The knowledge base software that drives Wikidata.org. Mirror from https://gerrit.wikimedia.org/g/mediawiki/extensions/Wikibase. See https://www.mediawiki.org/wiki/Developer_access for contributing.
+- [wikimedia/Wikibase](https://github.com/wikimedia/Wikibase) pushed_at:2021-10 star:0.1k fork:0.1k 🌐 The knowledge base software that drives Wikidata.org. Mirror from https://gerrit.wikimedia.org/g/mediawiki/extensions/Wikibase. See https://www.mediawiki.org/wiki/Developer_access for contributing.
 - [wikimedia/wikibase-changes](https://github.com/wikimedia/wikibase-changes) pushed_at:2021-09 star:0.0k fork:0.0k Read-only repository containing a library handling Wikibase Entity Changes
 - [wikimedia/wikimedia-ch-wmch-cronos-form](https://github.com/wikimedia/wikimedia-ch-wmch-cronos-form) pushed_at:2021-03 star:0.0k fork:0.0k Github mirror of "wikimedia-ch/wmch-cronos-form" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/wikimedia-ch-wmch-infrastructure](https://github.com/wikimedia/wikimedia-ch-wmch-infrastructure) pushed_at:2021-03 star:0.0k fork:0.0k Github mirror of "wikimedia-ch/wmch-infrastructure" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/wikimedia-communications-WMBlog](https://github.com/wikimedia/wikimedia-communications-WMBlog) pushed_at:2014-06 star:0.0k fork:0.0k Github mirror of wikimedia/communications/WMBlog - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/wikimedia-cz-blog](https://github.com/wikimedia/wikimedia-cz-blog) pushed_at:2020-11 star:0.0k fork:0.0k Github mirror of "wikimedia-cz/blog" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
-- [wikimedia/wikimedia-cz-mediawiki-config](https://github.com/wikimedia/wikimedia-cz-mediawiki-config) pushed_at:2021-04 star:0.0k fork:0.0k Github mirror of "wikimedia-cz/mediawiki-config" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
+- [wikimedia/wikimedia-cz-mediawiki-config](https://github.com/wikimedia/wikimedia-cz-mediawiki-config) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "wikimedia-cz/mediawiki-config" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/wikimedia-cz-web-plugin](https://github.com/wikimedia/wikimedia-cz-web-plugin) pushed_at:2021-08 star:0.0k fork:0.0k Github mirror of "wikimedia-cz/web-plugin" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/wikimedia-cz-web-theme](https://github.com/wikimedia/wikimedia-cz-web-theme) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "wikimedia-cz/web-theme" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/wikimedia-discovery-discernatron](https://github.com/wikimedia/wikimedia-discovery-discernatron) pushed_at:2019-09 star:0.0k fork:0.0k Github mirror of wikimedia/discovery/discernatron - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing) https://gerrit.wikimedia.org
 - [wikimedia/wikimedia-fundraising-civicrm-buildkit-vendor-totten-amp](https://github.com/wikimedia/wikimedia-fundraising-civicrm-buildkit-vendor-totten-amp) pushed_at:2016-01 star:0.0k fork:0.0k Github mirror of "wikimedia/fundraising/civicrm-buildkit/vendor/totten/amp" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/wikimedia-fundraising-civicrm-joomla](https://github.com/wikimedia/wikimedia-fundraising-civicrm-joomla) pushed_at:2017-04 star:0.0k fork:0.0k Github mirror of "wikimedia/fundraising/civicrm-joomla" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/wikimedia-fundraising-civicrm-wordpress](https://github.com/wikimedia/wikimedia-fundraising-civicrm-wordpress) pushed_at:2017-04 star:0.0k fork:0.0k Github mirror of "wikimedia/fundraising/civicrm-wordpress" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
-- [wikimedia/wikimedia-fundraising-crm](https://github.com/wikimedia/wikimedia-fundraising-crm) pushed_at:2021-09 star:0.0k fork:0.0k This is a mirror from https://gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.
+- [wikimedia/wikimedia-fundraising-crm](https://github.com/wikimedia/wikimedia-fundraising-crm) pushed_at:2021-10 star:0.0k fork:0.0k This is a mirror from https://gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.
 - [wikimedia/wikimedia-fundraising-crm-civicrm](https://github.com/wikimedia/wikimedia-fundraising-crm-civicrm) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "wikimedia/fundraising/crm/civicrm" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/wikimedia-fundraising-crm-civiproxy](https://github.com/wikimedia/wikimedia-fundraising-crm-civiproxy) pushed_at:2021-07 star:0.0k fork:0.0k Github mirror of "wikimedia/fundraising/crm/civiproxy" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/wikimedia-fundraising-crm-drupal](https://github.com/wikimedia/wikimedia-fundraising-crm-drupal) pushed_at:2021-02 star:0.0k fork:0.0k Github mirror of "wikimedia/fundraising/crm/drupal" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
@@ -2048,7 +2045,7 @@
 - [wikimedia/analytics-reportcard](https://github.com/wikimedia/analytics-reportcard) pushed_at:2013-02 star:0.0k fork:0.0k Github mirror of analytics/reportcard - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/analytics-reportcard-data](https://github.com/wikimedia/analytics-reportcard-data) pushed_at:2016-09 star:0.0k fork:0.0k Github mirror of analytics/reportcard/data - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/analytics-reportupdater](https://github.com/wikimedia/analytics-reportupdater) pushed_at:2021-04 star:0.0k fork:0.0k This is a mirror from https://gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.
-- [wikimedia/analytics-statsv](https://github.com/wikimedia/analytics-statsv) pushed_at:2020-11 star:0.0k fork:0.0k Github mirror of "analytics/statsv" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
+- [wikimedia/analytics-statsv](https://github.com/wikimedia/analytics-statsv) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "analytics/statsv" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/analytics-user-metrics](https://github.com/wikimedia/analytics-user-metrics) pushed_at:2013-09 star:0.0k fork:0.0k Github mirror of "analytics/user-metrics" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/analytics-wikihadoop](https://github.com/wikimedia/analytics-wikihadoop) pushed_at:2018-09 star:0.0k fork:0.0k Github mirror of "analytics/wikihadoop" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/analytics-wikimetrics](https://github.com/wikimedia/analytics-wikimetrics) pushed_at:2020-05 star:0.0k fork:0.0k Github mirror of "analytics/wikimetrics" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
@@ -2069,13 +2066,13 @@
 - [wikimedia/cloud-toolforge-jobs-framework-cli](https://github.com/wikimedia/cloud-toolforge-jobs-framework-cli) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "cloud/toolforge/jobs-framework-cli" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/cloud-toolforge-jobs-framework-emailer](https://github.com/wikimedia/cloud-toolforge-jobs-framework-emailer) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "cloud/toolforge/jobs-framework-emailer" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/cloud-wmcs-ansible](https://github.com/wikimedia/cloud-wmcs-ansible) pushed_at:2021-01 star:0.0k fork:0.0k Github mirror of "cloud/wmcs-ansible" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
-- [wikimedia/coal](https://github.com/wikimedia/coal) pushed_at:2021-01 star:0.0k fork:0.0k Github mirror of https://gerrit.wikimedia.org/g/performance/coal/ - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
-- [wikimedia/CommonsNotifier](https://github.com/wikimedia/CommonsNotifier) pushed_at:2021-08 star:0.0k fork:0.0k Bot that notifies Wikimedia communities of pending deletion of Commons images they're using
+- [wikimedia/coal](https://github.com/wikimedia/coal) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of https://gerrit.wikimedia.org/g/performance/coal/ - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
+- [wikimedia/CommonsNotifier](https://github.com/wikimedia/CommonsNotifier) pushed_at:2021-09 star:0.0k fork:0.0k Bot that notifies Wikimedia communities of pending deletion of Commons images they're using
 - [wikimedia/cumin](https://github.com/wikimedia/cumin) pushed_at:2021-09 star:0.0k fork:0.0k An automation and orchestration framework — This is a mirror, to contribute see:
 - [wikimedia/database-reports](https://github.com/wikimedia/database-reports) pushed_at:2021-03 star:0.0k fork:0.0k Generating specific reports from the English Wikipedia 
 - [wikimedia/draftquality](https://github.com/wikimedia/draftquality) pushed_at:2021-05 star:0.0k fork:0.0k Library for building and maintaining draft quality prediction models for Wikipedia.
 - [wikimedia/drafttopic](https://github.com/wikimedia/drafttopic) pushed_at:2021-05 star:0.0k fork:0.0k Predicting topics to new drafts based on Wikiprojects on English Wikipedia
-- [wikimedia/editquality](https://github.com/wikimedia/editquality) pushed_at:2021-05 star:0.0k fork:0.0k Supervised learning approach to determining the quality of edits in Wikipedia
+- [wikimedia/editquality](https://github.com/wikimedia/editquality) pushed_at:2021-09 star:0.0k fork:0.0k Supervised learning approach to determining the quality of edits in Wikipedia
 - [wikimedia/edx-platform](https://github.com/wikimedia/edx-platform) pushed_at:2021-09 star:0.0k fork:0.0k The Open edX platform, the software that powers edX!
 - [wikimedia/eventlogging](https://github.com/wikimedia/eventlogging) pushed_at:2019-10 star:0.0k fork:0.0k This is a mirror from https://gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.
 - [wikimedia/git-fat](https://github.com/wikimedia/git-fat) pushed_at:2014-04 star:0.0k fork:0.0k Simple way to handle fat files without committing them to git, supports synchronization using rsync
@@ -2094,10 +2091,11 @@
 - [wikimedia/labs-migration-assistant](https://github.com/wikimedia/labs-migration-assistant) pushed_at:2015-09 star:0.0k fork:0.0k Github mirror of "labs/migration-assistant" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/labs-nagios-builder](https://github.com/wikimedia/labs-nagios-builder) pushed_at:2014-05 star:0.0k fork:0.0k Github mirror of labs/nagios/builder - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/labs-striker](https://github.com/wikimedia/labs-striker) pushed_at:2021-03 star:0.0k fork:0.0k Github mirror of "labs/striker" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
-- [wikimedia/labs-toollabs](https://github.com/wikimedia/labs-toollabs) pushed_at:2021-07 star:0.0k fork:0.0k This is a mirror from https://gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.
+- [wikimedia/labs-toollabs](https://github.com/wikimedia/labs-toollabs) pushed_at:2021-09 star:0.0k fork:0.0k This is a mirror from https://gerrit.wikimedia.org. See https://www.mediawiki.org/wiki/Developer_access for contributing.
 - [wikimedia/labs-tools-articles-needing-links](https://github.com/wikimedia/labs-tools-articles-needing-links) pushed_at:2020-05 star:0.0k fork:0.0k Github mirror of "labs/tools/articles-needing-links" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/labs-tools-bodh-backend](https://github.com/wikimedia/labs-tools-bodh-backend) pushed_at:2021-07 star:0.0k fork:0.0k Github mirror of "labs/tools/bodh-backend" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/labs-tools-cdnjs-index](https://github.com/wikimedia/labs-tools-cdnjs-index) pushed_at:2020-04 star:0.0k fork:0.0k Github mirror of "labs/tools/cdnjs-index" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
+- [wikimedia/labs-tools-commons-recon-service](https://github.com/wikimedia/labs-tools-commons-recon-service) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "labs/tools/commons-recon-service" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/labs-tools-editorinteract](https://github.com/wikimedia/labs-tools-editorinteract) pushed_at:2017-07 star:0.0k fork:0.0k Editor Interaction Analyser
 - [wikimedia/labs-tools-extdist](https://github.com/wikimedia/labs-tools-extdist) pushed_at:2020-05 star:0.0k fork:0.0k Github mirror of "labs/tools/extdist" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/labs-tools-extreg-wos](https://github.com/wikimedia/labs-tools-extreg-wos) pushed_at:2021-03 star:0.0k fork:0.0k Github mirror of "labs/tools/extreg-wos" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
@@ -2133,11 +2131,12 @@
 - [wikimedia/labs-tools-wiki2email](https://github.com/wikimedia/labs-tools-wiki2email) pushed_at:2019-12 star:0.0k fork:0.0k Github mirror of "labs/tools/wiki2email" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/labs-tools-wikibugs2](https://github.com/wikimedia/labs-tools-wikibugs2) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "labs/tools/wikibugs2" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/labs-tools-wikicaptcha](https://github.com/wikimedia/labs-tools-wikicaptcha) pushed_at:2015-03 star:0.0k fork:0.0k Github mirror of "labs/tools/wikicaptcha" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
+- [wikimedia/labs-tools-wikicontest-backend](https://github.com/wikimedia/labs-tools-wikicontest-backend) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "labs/tools/wikicontest-backend" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/limn-data](https://github.com/wikimedia/limn-data) pushed_at:2014-04 star:0.0k fork:0.0k Example datafiles, datasources, and graphs that Limn can work with
 - [wikimedia/limn-deploy](https://github.com/wikimedia/limn-deploy) pushed_at:2015-10 star:0.0k fork:0.0k 
 - [wikimedia/limnpy](https://github.com/wikimedia/limnpy) pushed_at:2013-07 star:0.0k fork:0.0k A library for creating Limn-compatible datasources and datafiles. See https://github.com/wikimedia/limn
 - [wikimedia/machinelearning-liftwing-inference-services](https://github.com/wikimedia/machinelearning-liftwing-inference-services) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "machinelearning/liftwing/inference-services" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
-- [wikimedia/mediawiki-extensions](https://github.com/wikimedia/mediawiki-extensions) pushed_at:2021-09 star:0.0k fork:0.0k GitHub mirror of the mediawiki/extensions repository. Development happens at https://gerrit.wikimedia.org. Please see https://www.mediawiki.org/wiki/Developer_account if you wish to contribute.
+- [wikimedia/mediawiki-extensions](https://github.com/wikimedia/mediawiki-extensions) pushed_at:2021-10 star:0.0k fork:0.0k GitHub mirror of the mediawiki/extensions repository. Development happens at https://gerrit.wikimedia.org. Please see https://www.mediawiki.org/wiki/Developer_account if you wish to contribute.
 - [wikimedia/mediawiki-rcsub](https://github.com/wikimedia/mediawiki-rcsub) pushed_at:2013-03 star:0.0k fork:0.0k Github mirror of "mediawiki/rcsub" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/mediawiki-services-kafka-watcher](https://github.com/wikimedia/mediawiki-services-kafka-watcher) pushed_at:2016-05 star:0.0k fork:0.0k Github mirror of "mediawiki/services/kafka-watcher" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/mediawiki-services-open-nsfw](https://github.com/wikimedia/mediawiki-services-open-nsfw) pushed_at:2020-05 star:0.0k fork:0.0k Github mirror of "mediawiki/services/open-nsfw" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
@@ -2319,7 +2318,7 @@
 - [wikimedia/WikiApiary-wikibees](https://github.com/wikimedia/WikiApiary-wikibees) pushed_at:2016-11 star:0.0k fork:0.0k Github mirror of "WikiApiary/wikibees" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/wikibase-property-suggester-scripts](https://github.com/wikimedia/wikibase-property-suggester-scripts) pushed_at:2019-08 star:0.0k fork:0.0k Github mirror of  wikibase/property-suggester-scripts - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing) 
 - [wikimedia/wikidata-query-deploy](https://github.com/wikimedia/wikidata-query-deploy) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "wikidata/query/deploy" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
-- [wikimedia/wikilabels-wmflabs-deploy](https://github.com/wikimedia/wikilabels-wmflabs-deploy) pushed_at:2021-08 star:0.0k fork:0.0k Configuration for labels.wmflabs.org
+- [wikimedia/wikilabels-wmflabs-deploy](https://github.com/wikimedia/wikilabels-wmflabs-deploy) pushed_at:2021-09 star:0.0k fork:0.0k Configuration for labels.wmflabs.org
 - [wikimedia/wikimedia-bots-jouncebot](https://github.com/wikimedia/wikimedia-bots-jouncebot) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "wikimedia/bots/jouncebot" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
 - [wikimedia/wikimedia-cz-events](https://github.com/wikimedia/wikimedia-cz-events) pushed_at:2019-11 star:0.0k fork:0.0k Github mirror of "wikimedia-cz/events" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/wikimedia-cz-statistics-api](https://github.com/wikimedia/wikimedia-cz-statistics-api) pushed_at:2019-03 star:0.0k fork:0.0k Github mirror of "wikimedia-cz/statistics/api" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
@@ -2427,7 +2426,7 @@
 - [wikimedia/arc-lamp](https://github.com/wikimedia/arc-lamp) pushed_at:2021-08 star:0.0k fork:0.0k 🔥 Flame graphs and trace logs for PHP 7 in production.      Mirror from https://gerrit.wikimedia.org/g/performance/arc-lamp. See https://mediawiki.org/wiki/Developer_access for contributing.
 - [wikimedia/cloud-toolforge-buildpacks](https://github.com/wikimedia/cloud-toolforge-buildpacks) pushed_at:2020-10 star:0.0k fork:0.0k Github mirror of "cloud/toolforge/buildpacks" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/community-tech-tools](https://github.com/wikimedia/community-tech-tools) pushed_at:2016-05 star:0.0k fork:0.0k Random scripts and tools used internally by the Community Tech team
-- [wikimedia/fresh](https://github.com/wikimedia/fresh) pushed_at:2021-08 star:0.0k fork:0.0k 🌱 Fresh environments.      Mirror of https://gerrit.wikimedia.org/g/fresh. See https://www.mediawiki.org/wiki/Developer_access for contributing.
+- [wikimedia/fresh](https://github.com/wikimedia/fresh) pushed_at:2021-09 star:0.0k fork:0.0k 🌱 Fresh environments.      Mirror of https://gerrit.wikimedia.org/g/fresh. See https://www.mediawiki.org/wiki/Developer_access for contributing.
 - [wikimedia/kartodock](https://github.com/wikimedia/kartodock) pushed_at:2021-09 star:0.0k fork:0.0k Docker Compose setup for Kartotherian ecosystem
 - [wikimedia/labs-maps](https://github.com/wikimedia/labs-maps) pushed_at:2013-02 star:0.0k fork:0.0k Github mirror of labs/maps - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
 - [wikimedia/labs-tools-maintgraph](https://github.com/wikimedia/labs-tools-maintgraph) pushed_at:2019-06 star:0.0k fork:0.0k Github mirror of "labs/tools/maintgraph" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing
@@ -2482,7 +2481,7 @@
 
 ## Swift
 
-- [wikimedia/wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) pushed_at:2021-09 star:2.3k fork:0.6k  📱The official Wikipedia iOS app.
+- [wikimedia/wikipedia-ios](https://github.com/wikimedia/wikipedia-ios) pushed_at:2021-10 star:2.3k fork:0.6k  📱The official Wikipedia iOS app.
 - [wikimedia/wikipedia-ios-lite](https://github.com/wikimedia/wikipedia-ios-lite) pushed_at:2019-12 star:0.0k fork:0.0k 
 - [wikimedia/wikipedia-ios-liter](https://github.com/wikimedia/wikipedia-ios-liter) pushed_at:2020-06 star:0.0k fork:0.0k Visual testing for the Page Content Service
 
@@ -2515,7 +2514,8 @@
 
 ## Vue
 
-- [wikimedia/wikistories-prototype](https://github.com/wikimedia/wikistories-prototype) pushed_at:2021-09 star:0.0k fork:0.0k 
+- [wikimedia/labs-tools-wikicontest](https://github.com/wikimedia/labs-tools-wikicontest) pushed_at:2021-09 star:0.0k fork:0.0k Github mirror of "labs/tools/wikicontest" - our actual code is hosted with Gerrit (please see https://www.mediawiki.org/wiki/Developer_access for contributing)
+- [wikimedia/wikistories-prototype](https://github.com/wikimedia/wikistories-prototype) pushed_at:2021-10 star:0.0k fork:0.0k 
 
 ## XSLT
 
