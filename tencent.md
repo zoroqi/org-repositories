@@ -34,7 +34,7 @@
 ## C
 
 - [Tencent/loli_profiler](https://github.com/Tencent/loli_profiler) pushed_at:2021-06 star:0.3k fork:0.0k Memory instrumentation tool for android app&game developers.
-- [Tencent/ncnn](https://github.com/Tencent/ncnn) pushed_at:2021-09 star:12.8k fork:3.1k ncnn is a high-performance neural network inference framework optimized for the mobile platform
+- [Tencent/ncnn](https://github.com/Tencent/ncnn) pushed_at:2021-10 star:12.8k fork:3.1k ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [Tencent/puerts](https://github.com/Tencent/puerts) pushed_at:2021-09 star:1.9k fork:0.3k Write your game with TypeScript in UE4 or Unity. Puerts can be pronounced as pu-erh TS（普洱TS）
 - [Tencent/sqlcipher](https://github.com/Tencent/sqlcipher) pushed_at:2019-10 star:0.1k fork:0.0k SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files.
 - [Tencent/TBase](https://github.com/Tencent/TBase) pushed_at:2021-08 star:1.2k fork:0.2k TBase is an enterprise-level distributed HTAP database. Through a single database cluster to provide users with highly consistent distributed database services and high-performance data warehouse services, a set of integrated enterprise-level solutions is formed.
@@ -58,7 +58,7 @@
 - [Tencent/Forward](https://github.com/Tencent/Forward) pushed_at:2021-09 star:0.4k fork:0.0k A library for high performance deep learning inference on NVIDIA GPUs. 
 - [Tencent/GameAISDK](https://github.com/Tencent/GameAISDK) pushed_at:2021-05 star:0.9k fork:0.2k 基于图像的游戏AI自动化框架
 - [Tencent/Hardcoder](https://github.com/Tencent/Hardcoder) pushed_at:2021-08 star:1.9k fork:0.2k Hardcoder is a solution which allows Android APP and Android System to communicate with each other directly, solving the problem that Android APP could only use system standard API rather than the hardware resource of system.
-- [Tencent/Hippy](https://github.com/Tencent/Hippy) pushed_at:2021-09 star:6.1k fork:0.7k Hippy is designed for Web developer to easily build cross-platform and high-performance awesome apps. 👏
+- [Tencent/Hippy](https://github.com/Tencent/Hippy) pushed_at:2021-10 star:6.1k fork:0.7k Hippy is designed for Web developer to easily build cross-platform and high-performance awesome apps. 👏
 - [Tencent/KNVProtoEngine](https://github.com/Tencent/KNVProtoEngine) pushed_at:2019-10 star:0.1k fork:0.1k KNV(Key-N-Value) is a very fast protocol engine for manipulating protocol data without knowing the detail of its contents.  KNV serves for 3 main purposes:  1, As a fast protocol engine, supporting 1M+ processes per second;  2, As a schema-free protocol inspecter/modifier for general-purpose network server;  3, As a protocol and data storage engine for general data storage server.
 - [Tencent/libco](https://github.com/Tencent/libco) pushed_at:2021-09 star:6.6k fork:1.8k libco is a coroutine library which is widely used in wechat  back-end service. It has been running on tens of thousands of machines since 2013.
 - [Tencent/libwxfreq](https://github.com/Tencent/libwxfreq) pushed_at:2019-04 star:0.2k fork:0.0k libwxfreq is a generic high performance frequency limitation library
@@ -74,7 +74,7 @@
 - [Tencent/phxrpc](https://github.com/Tencent/phxrpc) pushed_at:2019-10 star:1.7k fork:0.5k A simple C++ based RPC framework.
 - [Tencent/phxsql](https://github.com/Tencent/phxsql) pushed_at:2018-12 star:2.4k fork:0.6k A high availability MySQL cluster that guarantees data consistency between a master and slaves.
 - [Tencent/plato](https://github.com/Tencent/plato) pushed_at:2021-08 star:1.7k fork:0.3k 腾讯高性能分布式图计算框架Plato
-- [Tencent/rapidjson](https://github.com/Tencent/rapidjson) pushed_at:2021-09 star:11.3k fork:3.0k A fast JSON parser/generator for C++ with both SAX/DOM style API
+- [Tencent/rapidjson](https://github.com/Tencent/rapidjson) pushed_at:2021-10 star:11.3k fork:3.0k A fast JSON parser/generator for C++ with both SAX/DOM style API
 - [Tencent/ScriptX](https://github.com/Tencent/ScriptX) pushed_at:2021-09 star:0.3k fork:0.0k A versatile script engine abstraction layer.
 - [Tencent/sluaunreal](https://github.com/Tencent/sluaunreal) pushed_at:2021-08 star:1.3k fork:0.4k lua dev plugin for unreal engine 4
 - [Tencent/Taitank](https://github.com/Tencent/Taitank) pushed_at:2021-07 star:0.4k fork:0.0k Taitank is a cross platform lightweight flex layout engine implemented in C++.
@@ -102,14 +102,14 @@
 
 ## Go
 
-- [Tencent/bk-bcs](https://github.com/Tencent/bk-bcs) pushed_at:2021-09 star:0.5k fork:0.1k 蓝鲸智云容器管理平台(BlueKing Container Service)
+- [Tencent/bk-bcs](https://github.com/Tencent/bk-bcs) pushed_at:2021-09 star:0.5k fork:0.2k 蓝鲸智云容器管理平台(BlueKing Container Service)
 - [Tencent/bk-cmdb](https://github.com/Tencent/bk-cmdb) pushed_at:2021-09 star:4.2k fork:1.3k 蓝鲸智云配置平台(BlueKing CMDB)
 - [Tencent/tke-kms-plugin](https://github.com/Tencent/tke-kms-plugin) pushed_at:2020-05 star:0.0k fork:0.0k Kubernetes KMS provider plugin, backed by Tencent Cloud KMS service
 
 ## Java
 
 - [Tencent/APIJSON](https://github.com/Tencent/APIJSON) pushed_at:2021-09 star:11.8k fork:1.5k 🚀 零代码、热更新、全自动 ORM 库，后端接口和文档零代码，前端(客户端) 定制返回 JSON 的数据和结构。 🚀 A JSON Transmission Protocol and an ORM Library for automatically providing APIs and Docs.
-- [Tencent/bk-job](https://github.com/Tencent/bk-job) pushed_at:2021-09 star:0.5k fork:0.1k 蓝鲸作业平台（Job）是一套运维基础操作管理系统，具备海量任务并发处理能力。除了支持脚本执行、文件分发、定时任务等一系列基础运维场景以外，还支持通过流程调度能力将零碎的单个任务组装成一个自动化作业流程；而每个作业都可做为一个原子节点，提供给上层或周边系统/平台使用，实现调度自动化。
+- [Tencent/bk-job](https://github.com/Tencent/bk-job) pushed_at:2021-10 star:0.5k fork:0.1k 蓝鲸作业平台（Job）是一套运维基础操作管理系统，具备海量任务并发处理能力。除了支持脚本执行、文件分发、定时任务等一系列基础运维场景以外，还支持通过流程调度能力将零碎的单个任务组装成一个自动化作业流程；而每个作业都可做为一个原子节点，提供给上层或周边系统/平台使用，实现调度自动化。
 - [Tencent/GT](https://github.com/Tencent/GT) pushed_at:2019-03 star:4.2k fork:1.0k GT (Great Tit) is a portable debugging tool for bug hunting and performance tuning on smartphones anytime and anywhere just as listening music with Walkman. GT can act as the Integrated Debug Environment by directly running on smartphones.
 - [Tencent/MSEC](https://github.com/Tencent/MSEC) pushed_at:2019-10 star:2.8k fork:0.8k Mass Service Engine in Cluster(MSEC) is opened source by QQ team from Tencent. It is a backend DEV &OPS engine, including RPC,name finding,load balance,monitoring,release and capacity management.  
 - [Tencent/QMUI_Android](https://github.com/Tencent/QMUI_Android) pushed_at:2021-09 star:13.2k fork:2.5k 提高 Android UI 开发效率的 UI 库
@@ -142,7 +142,7 @@
 
 ## Kotlin
 
-- [Tencent/bk-ci](https://github.com/Tencent/bk-ci) pushed_at:2021-09 star:1.7k fork:0.3k 蓝鲸CI平台(BlueKing CI) 
+- [Tencent/bk-ci](https://github.com/Tencent/bk-ci) pushed_at:2021-10 star:1.7k fork:0.3k 蓝鲸CI平台(BlueKing CI) 
 
 ## Less
 
@@ -170,7 +170,7 @@
 
 - [Tencent/gnes-backup](https://github.com/Tencent/gnes-backup) pushed_at:2019-10 star:0.0k fork:0.0k GNES is Generic Neural Elastic Search, a cloud-native semantic search system based on deep neural network. 
 - [Tencent/OpenSourceTalent](https://github.com/Tencent/OpenSourceTalent) pushed_at:2021-05 star:0.0k fork:0.0k 
-- [Tencent/secguide](https://github.com/Tencent/secguide) pushed_at:2021-09 star:8.5k fork:1.1k 面向开发人员梳理的代码安全指南
+- [Tencent/secguide](https://github.com/Tencent/secguide) pushed_at:2021-10 star:8.6k fork:1.1k 面向开发人员梳理的代码安全指南
 - [Tencent/TStarBots](https://github.com/Tencent/TStarBots) pushed_at:2018-12 star:0.1k fork:0.0k 
 
 ## PHP
@@ -183,7 +183,7 @@
 - [Tencent/ActionDetection-DBG](https://github.com/Tencent/ActionDetection-DBG) pushed_at:2020-03 star:0.3k fork:0.1k 
 - [Tencent/bk-base](https://github.com/Tencent/bk-base) pushed_at:2021-06 star:0.1k fork:0.0k 蓝鲸基础计算平台（bk-base）
 - [Tencent/bk-bcs-saas](https://github.com/Tencent/bk-bcs-saas) pushed_at:2021-09 star:0.2k fork:0.1k 蓝鲸智云容器管理平台SaaS（Blueking Container Service）
-- [Tencent/bk-PaaS](https://github.com/Tencent/bk-PaaS) pushed_at:2021-09 star:0.6k fork:0.3k 蓝鲸智云PaaS平台（BlueKing PaaS）
+- [Tencent/bk-PaaS](https://github.com/Tencent/bk-PaaS) pushed_at:2021-10 star:0.6k fork:0.3k 蓝鲸智云PaaS平台（BlueKing PaaS）
 - [Tencent/bk-sops](https://github.com/Tencent/bk-sops) pushed_at:2021-09 star:0.7k fork:0.3k 蓝鲸智云标准运维(SOPS)
 - [Tencent/DVQA](https://github.com/Tencent/DVQA) pushed_at:2021-06 star:0.4k fork:0.1k Deep learning-based Video Quality Assessment
 - [Tencent/FaceDetection-DSFD](https://github.com/Tencent/FaceDetection-DSFD) pushed_at:2020-07 star:2.6k fork:0.7k 腾讯优图高精度双分支人脸检测器
@@ -199,7 +199,7 @@
 - [Tencent/QT4C](https://github.com/Tencent/QT4C) pushed_at:2020-09 star:0.0k fork:0.0k qta automation framework for pc client
 - [Tencent/QT4i](https://github.com/Tencent/QT4i) pushed_at:2020-07 star:0.2k fork:0.1k QTA driver for iOS app
 - [Tencent/QT4W](https://github.com/Tencent/QT4W) pushed_at:2021-04 star:0.1k fork:0.0k Web driver for QTA
-- [Tencent/QTAF](https://github.com/Tencent/QTAF) pushed_at:2021-09 star:0.4k fork:0.1k QTA test framework
+- [Tencent/QTAF](https://github.com/Tencent/QTAF) pushed_at:2021-10 star:0.4k fork:0.1k QTA test framework
 - [Tencent/Real-SR](https://github.com/Tencent/Real-SR) pushed_at:2020-08 star:0.4k fork:0.1k Real-World Super-Resolution via Kernel Estimation and Noise Injection
 - [Tencent/tencent-ml-images](https://github.com/Tencent/tencent-ml-images) pushed_at:2021-08 star:2.9k fork:0.5k Largest multi-label image database; ResNet-101 model; 80.73% top-1 acc on ImageNet
 - [Tencent/TFace](https://github.com/Tencent/TFace) pushed_at:2021-07 star:0.6k fork:0.1k A trusty face recognition research platform developed by Tencent Youtu Lab
