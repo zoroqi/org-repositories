@@ -62,7 +62,7 @@
 - [openjdk/jdk16](https://github.com/openjdk/jdk16) pushed_at:2021-03 star:0.1k fork:0.1k JDK 16 development
 - [openjdk/jdk16u](https://github.com/openjdk/jdk16u) pushed_at:2021-08 star:0.0k fork:0.1k https://openjdk.java.net/projects/jdk-updates/
 - [openjdk/jdk17](https://github.com/openjdk/jdk17) pushed_at:2021-09 star:0.1k fork:0.1k JDK 17 development
-- [openjdk/jdk17u](https://github.com/openjdk/jdk17u) pushed_at:2021-10 star:0.0k fork:0.0k https://openjdk.java.net/projects/jdk-updates/
+- [openjdk/jdk17u](https://github.com/openjdk/jdk17u) pushed_at:2021-10 star:0.0k fork:0.1k https://openjdk.java.net/projects/jdk-updates/
 - [openjdk/jdk6](https://github.com/openjdk/jdk6) pushed_at:2021-02 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk6
 - [openjdk/jdk7](https://github.com/openjdk/jdk7) pushed_at:2021-02 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk7
 - [openjdk/jdk7u](https://github.com/openjdk/jdk7u) pushed_at:2021-09 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk7u/consol-proto
@@ -77,7 +77,7 @@
 - [openjdk/jmh](https://github.com/openjdk/jmh) pushed_at:2021-10 star:0.6k fork:0.1k https://openjdk.java.net/projects/code-tools/jmh/
 - [openjdk/jmh-jdk-microbenchmarks](https://github.com/openjdk/jmh-jdk-microbenchmarks) pushed_at:2021-06 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/jmh-jdk-microbenchmarks/
 - [openjdk/jol](https://github.com/openjdk/jol) pushed_at:2021-10 star:0.3k fork:0.0k https://openjdk.java.net/projects/code-tools/jol/
-- [openjdk/jtharness](https://github.com/openjdk/jtharness) pushed_at:2021-09 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/JT+Harness
+- [openjdk/jtharness](https://github.com/openjdk/jtharness) pushed_at:2021-10 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/JT+Harness
 - [openjdk/jtreg](https://github.com/openjdk/jtreg) pushed_at:2021-09 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/jtreg/
 - [openjdk/lanai](https://github.com/openjdk/lanai) pushed_at:2021-03 star:0.0k fork:0.0k https://openjdk.java.net/projects/lanai/
 - [openjdk/lilliput](https://github.com/openjdk/lilliput) pushed_at:2021-10 star:0.0k fork:0.0k https://openjdk.java.net/projects/lilliput/

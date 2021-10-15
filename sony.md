@@ -70,7 +70,7 @@
 - [sony/generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) pushed_at:2016-05 star:0.0k fork:0.0k 
 - [sony/huis-ui-creator](https://github.com/sony/huis-ui-creator) pushed_at:2018-10 star:0.0k fork:0.0k 
 - [sony/isren](https://github.com/sony/isren) pushed_at:2021-05 star:0.0k fork:0.0k 
-- [sony/mapray-js](https://github.com/sony/mapray-js) pushed_at:2021-09 star:0.1k fork:0.0k JavaScript library for Interactive high quality 3D globes and maps in the browser
+- [sony/mapray-js](https://github.com/sony/mapray-js) pushed_at:2021-10 star:0.1k fork:0.0k JavaScript library for Interactive high quality 3D globes and maps in the browser
 - [sony/nmos-js](https://github.com/sony/nmos-js) pushed_at:2021-10 star:0.0k fork:0.0k An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
 
 ## Others

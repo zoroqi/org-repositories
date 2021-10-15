@@ -35,20 +35,20 @@
 
 ## C
 
-- [twitter/ccommon](https://github.com/twitter/ccommon) pushed_at:2021-03 star:0.1k fork:0.0k Cache Commons
+- [twitter/ccommon](https://github.com/twitter/ccommon) pushed_at:2021-10 star:0.1k fork:0.0k Cache Commons
 - [twitter/fatcache](https://github.com/twitter/fatcache) pushed_at:2021-04 star:1.3k fork:0.2k Memcache on SSD
-- [twitter/ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) pushed_at:2020-10 star:1.8k fork:0.1k Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients
+- [twitter/ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) pushed_at:2021-10 star:1.8k fork:0.1k Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
-- [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2021-10 star:0.8k fork:0.1k Pelikan is Twitter's unified cache backend
-- [twitter/torch-ipc](https://github.com/twitter/torch-ipc) pushed_at:2017-06 star:0.1k fork:0.0k A set of primitives for parallel computation in Torch
-- [twitter/torch-thrift](https://github.com/twitter/torch-thrift) pushed_at:2016-03 star:0.0k fork:0.0k A Thrift codec for Torch
+- [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2021-10 star:0.9k fork:0.1k Pelikan is Twitter's unified cache backend
+- [twitter/torch-ipc](https://github.com/twitter/torch-ipc) pushed_at:2021-10 star:0.1k fork:0.0k A set of primitives for parallel computation in Torch
+- [twitter/torch-thrift](https://github.com/twitter/torch-thrift) pushed_at:2021-10 star:0.0k fork:0.0k A Thrift codec for Torch
 - [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2019-08 star:0.9k fork:0.1k Twemcache is the Twitter Memcached
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-10 star:11.0k fork:1.9k A fast, light-weight proxy for memcached and redis
 
 ## C++
 
 - [twitter/BreakoutDetection](https://github.com/twitter/BreakoutDetection) pushed_at:2017-08 star:0.7k fork:0.2k Breakout Detection via Robust E-Statistics
-- [twitter/vireo](https://github.com/twitter/vireo) pushed_at:2021-09 star:0.8k fork:0.1k Vireo is a lightweight and versatile video processing library written in C++11
+- [twitter/vireo](https://github.com/twitter/vireo) pushed_at:2021-10 star:0.8k fork:0.1k Vireo is a lightweight and versatile video processing library written in C++11
 
 ## CSS
 
@@ -56,17 +56,17 @@
 
 ## Go
 
-- [twitter/go-bindata](https://github.com/twitter/go-bindata) pushed_at:2019-10 star:0.0k fork:0.0k 
+- [twitter/go-bindata](https://github.com/twitter/go-bindata) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [twitter/groupcache](https://github.com/twitter/groupcache) pushed_at:2020-12 star:0.0k fork:0.0k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [twitter/scoot](https://github.com/twitter/scoot) pushed_at:2021-10 star:0.2k fork:0.0k Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
 
 ## HTML
 
-- [twitter/effectivescala](https://github.com/twitter/effectivescala) pushed_at:2019-06 star:2.2k fork:0.6k Twitter's Effective Scala Guide
-- [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-08 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-09 star:13.4k fork:1.5k Emoji for everyone. https://twemoji.twitter.com/
-- [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2021-09 star:2.6k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
-- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [twitter/effectivescala](https://github.com/twitter/effectivescala) pushed_at:2021-10 star:2.2k fork:0.6k Twitter's Effective Scala Guide
+- [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-10 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
+- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2021-10 star:13.4k fork:1.5k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2021-10 star:2.6k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
+- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-10 star:0.0k fork:0.0k 
 
 ## Java
 
@@ -78,7 +78,7 @@
 - [twitter/hraven](https://github.com/twitter/hraven) pushed_at:2021-06 star:0.1k fork:0.1k hRaven collects run time data and statistics from MapReduce jobs in an easily queryable format
 - [twitter/joauth](https://github.com/twitter/joauth) pushed_at:2021-08 star:0.2k fork:0.1k A Java library for authenticating HTTP Requests using OAuth
 - [twitter/netty-http2](https://github.com/twitter/netty-http2) pushed_at:2021-02 star:0.1k fork:0.0k HTTP/2 for Netty
-- [twitter/nodes](https://github.com/twitter/nodes) pushed_at:2020-12 star:0.2k fork:0.0k  A library to implement asynchronous dependency graphs for services in Java
+- [twitter/nodes](https://github.com/twitter/nodes) pushed_at:2021-10 star:0.2k fork:0.0k  A library to implement asynchronous dependency graphs for services in Java
 - [twitter/sbf](https://github.com/twitter/sbf) pushed_at:2020-10 star:0.0k fork:0.0k 
 - [twitter/Serial](https://github.com/twitter/Serial) pushed_at:2020-12 star:0.8k fork:0.1k Light-weight, fast framework for object serialization in Java, with Android support.
 - [twitter/whiskey](https://github.com/twitter/whiskey) pushed_at:2020-10 star:0.1k fork:0.0k HTTP library for Android (beta)
@@ -88,8 +88,8 @@
 - [twitter/cli-guide.js](https://github.com/twitter/cli-guide.js) pushed_at:2020-09 star:0.0k fork:0.0k CLI Guide JQuery Plugin
 - [twitter/d3kit](https://github.com/twitter/d3kit) pushed_at:2021-08 star:0.4k fork:0.0k D3Kit is a set tools to speed D3 related project development
 - [twitter/hogan.js](https://github.com/twitter/hogan.js) pushed_at:2020-09 star:5.1k fork:0.5k A compiler for the Mustache templating language
-- [twitter/labella.js](https://github.com/twitter/labella.js) pushed_at:2021-08 star:3.8k fork:0.1k Placing labels on a timeline without overlap.
-- [twitter/SentenTree](https://github.com/twitter/SentenTree) pushed_at:2021-08 star:0.2k fork:0.0k A novel text visualization technique
+- [twitter/labella.js](https://github.com/twitter/labella.js) pushed_at:2021-10 star:3.8k fork:0.1k Placing labels on a timeline without overlap.
+- [twitter/SentenTree](https://github.com/twitter/SentenTree) pushed_at:2021-10 star:0.2k fork:0.0k A novel text visualization technique
 - [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) pushed_at:2021-03 star:0.3k fork:0.0k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
 - [twitter/twitter-cldr-npm](https://github.com/twitter/twitter-cldr-npm) pushed_at:2019-08 star:0.0k fork:0.0k TwitterCldr npm package
 - [twitter/typeahead.js](https://github.com/twitter/typeahead.js) pushed_at:2021-09 star:16.3k fork:3.3k typeahead.js is a fast and fully-featured autocomplete library
@@ -97,17 +97,17 @@
 ## Lua
 
 - [twitter/meta-learning-lstm](https://github.com/twitter/meta-learning-lstm) pushed_at:2017-02 star:0.3k fork:0.1k This repo contains the source code accompanying a scientific paper with the same name.
-- [twitter/torch-autograd](https://github.com/twitter/torch-autograd) pushed_at:2019-08 star:0.5k fork:0.1k Autograd automatically differentiates native Torch code
-- [twitter/torch-dataset](https://github.com/twitter/torch-dataset) pushed_at:2019-06 star:0.1k fork:0.0k An extensible and high performance method of reading, sampling and processing data for Torch
+- [twitter/torch-autograd](https://github.com/twitter/torch-autograd) pushed_at:2021-10 star:0.5k fork:0.1k Autograd automatically differentiates native Torch code
+- [twitter/torch-dataset](https://github.com/twitter/torch-dataset) pushed_at:2021-10 star:0.1k fork:0.0k An extensible and high performance method of reading, sampling and processing data for Torch
 - [twitter/torch-decisiontree](https://github.com/twitter/torch-decisiontree) pushed_at:2018-05 star:0.1k fork:0.0k This project implements random forests and gradient boosted decision trees (GBDT). The latter uses gradient tree boosting. Both use ensemble learning to produce ensembles of decision trees (that is, forests).
-- [twitter/torch-distlearn](https://github.com/twitter/torch-distlearn) pushed_at:2019-06 star:0.1k fork:0.0k A set of distributed learning algorithms for Torch
+- [twitter/torch-distlearn](https://github.com/twitter/torch-distlearn) pushed_at:2021-10 star:0.1k fork:0.0k A set of distributed learning algorithms for Torch
 - [twitter/torch-twrl](https://github.com/twitter/torch-twrl) pushed_at:2017-05 star:0.3k fork:0.0k Torch-twrl is a package that enables reinforcement learning in Torch.
 
 ## Objective-C
 
 - [twitter/CocoaSPDY](https://github.com/twitter/CocoaSPDY) pushed_at:2017-04 star:2.4k fork:0.2k SPDY for iOS and OS X
-- [twitter/ios-twitter-logging-service](https://github.com/twitter/ios-twitter-logging-service) pushed_at:2020-08 star:0.3k fork:0.0k Twitter Logging Service is a robust and performant logging framework for iOS clients
-- [twitter/ios-twitter-network-layer](https://github.com/twitter/ios-twitter-network-layer) pushed_at:2021-01 star:0.5k fork:0.0k Twitter Network Layer is a scalable and feature rich network layer built on top of NSURLSession for Apple platforms
+- [twitter/ios-twitter-logging-service](https://github.com/twitter/ios-twitter-logging-service) pushed_at:2021-10 star:0.3k fork:0.0k Twitter Logging Service is a robust and performant logging framework for iOS clients
+- [twitter/ios-twitter-network-layer](https://github.com/twitter/ios-twitter-network-layer) pushed_at:2021-10 star:0.5k fork:0.0k Twitter Network Layer is a scalable and feature rich network layer built on top of NSURLSession for Apple platforms
 
 ## Others
 
@@ -120,7 +120,7 @@
 - [twitter/ossdecks](https://github.com/twitter/ossdecks) pushed_at:2019-04 star:0.0k fork:0.0k Repository for Twitter Open Source Decks
 - [twitter/repo-scaffolding](https://github.com/twitter/repo-scaffolding) pushed_at:2021-08 star:0.0k fork:0.0k Tools for creating repos based on open source standards and best practices
 - [twitter/second-control-probability-distributions](https://github.com/twitter/second-control-probability-distributions) pushed_at:2021-05 star:0.0k fork:0.0k 
-- [twitter/sslconfig](https://github.com/twitter/sslconfig) pushed_at:2016-05 star:0.0k fork:0.0k Twitter's OpenSSL Configuration
+- [twitter/sslconfig](https://github.com/twitter/sslconfig) pushed_at:2021-10 star:0.0k fork:0.0k Twitter's OpenSSL Configuration
 
 ## PHP
 
@@ -128,7 +128,7 @@
 
 ## Python
 
-- [twitter/caladrius](https://github.com/twitter/caladrius) pushed_at:2021-03 star:0.0k fork:0.0k Performance modelling system for Distributed Stream Processing Systems (DSPS) such as Apache Heron and Apache Storm
+- [twitter/caladrius](https://github.com/twitter/caladrius) pushed_at:2021-10 star:0.0k fork:0.0k Performance modelling system for Distributed Stream Processing Systems (DSPS) such as Apache Heron and Apache Storm
 - [twitter/dict_minimize](https://github.com/twitter/dict_minimize) pushed_at:2021-09 star:0.1k fork:0.0k Access scipy optimizers from your favorite deep learning framework.
 - [twitter/gatekeeper-service](https://github.com/twitter/gatekeeper-service) pushed_at:2018-09 star:0.0k fork:0.0k GateKeeper is a service built to automate the manual steps involved in onboarding, offboarding, and lost asset scenarios.
 - [twitter/pants](https://github.com/twitter/pants) pushed_at:2021-08 star:0.1k fork:0.0k Pants Build System
@@ -147,8 +147,8 @@
 
 ## Rust
 
-- [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2021-09 star:1.0k fork:0.1k Systems performance telemetry
-- [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2021-09 star:0.4k fork:0.1k A tool for benchmarking RPC services
+- [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2021-10 star:1.0k fork:0.1k Systems performance telemetry
+- [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2021-10 star:0.4k fork:0.1k A tool for benchmarking RPC services
 - [twitter/rustcommon](https://github.com/twitter/rustcommon) pushed_at:2021-10 star:0.2k fork:0.0k Common Twitter Rust lib
 
 ## SCSS
@@ -160,13 +160,13 @@
 - [twitter/algebird](https://github.com/twitter/algebird) pushed_at:2021-10 star:2.1k fork:0.3k Abstract Algebra for Scala
 - [twitter/bazel-multiversion](https://github.com/twitter/bazel-multiversion) pushed_at:2021-10 star:0.0k fork:0.0k Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier. 
 - [twitter/bijection](https://github.com/twitter/bijection) pushed_at:2021-10 star:0.6k fork:0.1k Reversible conversions between types
-- [twitter/cassovary](https://github.com/twitter/cassovary) pushed_at:2019-06 star:1.0k fork:0.1k Cassovary is a simple big graph processing library for the JVM
+- [twitter/cassovary](https://github.com/twitter/cassovary) pushed_at:2021-10 star:1.0k fork:0.1k Cassovary is a simple big graph processing library for the JVM
 - [twitter/chill](https://github.com/twitter/chill) pushed_at:2021-10 star:0.6k fork:0.1k Scala extensions for the Kryo serialization library
 - [twitter/finagle](https://github.com/twitter/finagle) pushed_at:2021-10 star:8.1k fork:1.4k A fault tolerant, protocol-agnostic RPC system
 - [twitter/finatra](https://github.com/twitter/finatra) pushed_at:2021-10 star:2.1k fork:0.4k Fast, testable, Scala services built on TwitterServer and Finagle
 - [twitter/iago2](https://github.com/twitter/iago2) pushed_at:2019-12 star:0.0k fork:0.0k A load generator, built for engineers
-- [twitter/rsc](https://github.com/twitter/rsc) pushed_at:2019-11 star:1.2k fork:0.0k Experimental Scala compiler focused on compilation speed
-- [twitter/scala_school2](https://github.com/twitter/scala_school2) pushed_at:2019-06 star:0.3k fork:0.1k Scala School 2
+- [twitter/rsc](https://github.com/twitter/rsc) pushed_at:2021-10 star:1.2k fork:0.0k Experimental Scala compiler focused on compilation speed
+- [twitter/scala_school2](https://github.com/twitter/scala_school2) pushed_at:2021-10 star:0.3k fork:0.1k Scala School 2
 - [twitter/scalding](https://github.com/twitter/scalding) pushed_at:2021-09 star:3.3k fork:0.7k A Scala API for Cascading
 - [twitter/scrooge](https://github.com/twitter/scrooge) pushed_at:2021-10 star:0.7k fork:0.2k A Thrift parser/generator
 - [twitter/storehaus](https://github.com/twitter/storehaus) pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
@@ -174,7 +174,7 @@
 - [twitter/tormenta](https://github.com/twitter/tormenta) pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) pushed_at:2021-09 star:0.1k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) pushed_at:2021-08 star:0.8k fork:0.2k Korean tokenizer
-- [twitter/twitter-server](https://github.com/twitter/twitter-server) pushed_at:2021-10 star:1.2k fork:0.2k Twitter-Server defines a template from which services at Twitter are built
+- [twitter/twitter-server](https://github.com/twitter/twitter-server) pushed_at:2021-10 star:1.3k fork:0.2k Twitter-Server defines a template from which services at Twitter are built
 - [twitter/util](https://github.com/twitter/util) pushed_at:2021-10 star:2.5k fork:0.5k Wonderful reusable code from Twitter
 
 ## Shell
@@ -190,7 +190,7 @@
 ## TypeScript
 
 - [twitter/dodo-build](https://github.com/twitter/dodo-build) pushed_at:2021-02 star:0.0k fork:0.0k A Github Action for running Dodo: The Twitter OSS Project Builder
-- [twitter/sqrl](https://github.com/twitter/sqrl) pushed_at:2021-05 star:0.1k fork:0.0k A Safe, Stateful Rules Language for Event Streams
+- [twitter/sqrl](https://github.com/twitter/sqrl) pushed_at:2021-10 star:0.1k fork:0.0k A Safe, Stateful Rules Language for Event Streams
 
 ## Vue
 

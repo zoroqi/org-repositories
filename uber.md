@@ -66,7 +66,7 @@
 
 ## Haskell
 
-- [uber/queryparser](https://github.com/uber/queryparser) pushed_at:2020-01 star:0.9k fork:0.1k Parsing and analysis of Vertica, Hive, and Presto SQL.
+- [uber/queryparser](https://github.com/uber/queryparser) pushed_at:2020-01 star:1.0k fork:0.1k Parsing and analysis of Vertica, Hive, and Presto SQL.
 
 ## Java
 
@@ -78,7 +78,7 @@
 - [uber/dynamodb-cross-region-library](https://github.com/uber/dynamodb-cross-region-library) pushed_at:2017-10 star:0.0k fork:0.0k A library to facilitate cross-region replication with Amazon DynamoDB Streams.
 - [uber/h3-java](https://github.com/uber/h3-java) pushed_at:2021-08 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/marmaray](https://github.com/uber/marmaray) pushed_at:2021-06 star:0.4k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
-- [uber/NullAway](https://github.com/uber/NullAway) pushed_at:2021-09 star:3.0k fork:0.2k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
+- [uber/NullAway](https://github.com/uber/NullAway) pushed_at:2021-10 star:3.0k fork:0.2k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [uber/okbuck](https://github.com/uber/okbuck) pushed_at:2021-09 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
 - [uber/phabricator-jenkins-plugin](https://github.com/uber/phabricator-jenkins-plugin) pushed_at:2021-01 star:0.4k fork:0.1k Jenkins plugin to integrate with Phabricator, Harbormaster, and Uberalls
 - [uber/piranha](https://github.com/uber/piranha) pushed_at:2021-09 star:1.8k fork:0.1k A tool for refactoring code related to feature flag APIs
@@ -97,11 +97,11 @@
 ## JavaScript
 
 - [uber/airlock](https://github.com/uber/airlock) pushed_at:2020-05 star:0.0k fork:0.0k A prober to probe HTTP based backends for health
-- [uber/baseweb](https://github.com/uber/baseweb) pushed_at:2021-10 star:6.9k fork:0.6k A React Component library implementing the Base design language
+- [uber/baseweb](https://github.com/uber/baseweb) pushed_at:2021-10 star:7.0k fork:0.6k A React Component library implementing the Base design language
 - [uber/bufrw](https://github.com/uber/bufrw) pushed_at:2020-11 star:0.0k fork:0.0k Buffer Reading and Writing
 - [uber/build-changelog](https://github.com/uber/build-changelog) pushed_at:2014-11 star:0.0k fork:0.0k A CLI to auto-generate a deploy ready changelog
 - [uber/cache-dir](https://github.com/uber/cache-dir) pushed_at:2014-03 star:0.0k fork:0.0k An ES6 map-like cache with file-based backing
-- [uber/cadence-web](https://github.com/uber/cadence-web) pushed_at:2021-09 star:0.3k fork:0.1k Web UI for visualizing workflows on Cadence
+- [uber/cadence-web](https://github.com/uber/cadence-web) pushed_at:2021-10 star:0.3k fork:0.1k Web UI for visualizing workflows on Cadence
 - [uber/eight-track](https://github.com/uber/eight-track) pushed_at:2018-07 star:0.1k fork:0.0k Record and playback HTTP requests
 - [uber/geojson2h3](https://github.com/uber/geojson2h3) pushed_at:2021-09 star:0.1k fork:0.0k Conversion utilities between H3 indexes and GeoJSON
 - [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) pushed_at:2021-08 star:0.4k fork:0.1k grafana dash dash dash gen
@@ -111,7 +111,7 @@
 - [uber/kafka-logger](https://github.com/uber/kafka-logger) pushed_at:2018-10 star:0.0k fork:0.0k A kafka logger for winston
 - [uber/logtron](https://github.com/uber/logtron) pushed_at:2018-10 star:0.2k fork:0.0k A logging MACHINE
 - [uber/manifold](https://github.com/uber/manifold) pushed_at:2021-10 star:1.5k fork:0.1k A model-agnostic visual debugging tool for machine learning
-- [uber/react-digraph](https://github.com/uber/react-digraph) pushed_at:2021-09 star:2.2k fork:0.2k A library for creating directed graph editors
+- [uber/react-digraph](https://github.com/uber/react-digraph) pushed_at:2021-09 star:2.2k fork:0.3k A library for creating directed graph editors
 - [uber/react-global-hooks](https://github.com/uber/react-global-hooks) pushed_at:2020-09 star:0.0k fork:0.0k 
 - [uber/react-vis](https://github.com/uber/react-vis) pushed_at:2021-09 star:8.0k fork:0.8k Data Visualization Components
 - [uber/react-vis-force](https://github.com/uber/react-vis-force) pushed_at:2020-06 star:0.4k fork:0.1k d3-force graphs as React Components.
@@ -147,7 +147,7 @@
 
 ## Objective-C
 
-- [uber/ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) pushed_at:2021-09 star:1.5k fork:0.2k Snapshot view unit tests for iOS
+- [uber/ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) pushed_at:2021-10 star:1.5k fork:0.2k Snapshot view unit tests for iOS
 - [uber/signals-ios](https://github.com/uber/signals-ios) pushed_at:2019-01 star:0.5k fork:0.1k Typeful eventing
 - [uber/startup-reason-reporter](https://github.com/uber/startup-reason-reporter) pushed_at:2018-07 star:0.1k fork:0.0k Reports the reason why an iOS App started.
 - [uber/UberSignature](https://github.com/uber/UberSignature) pushed_at:2020-09 star:1.2k fork:0.2k Provides an iOS view controller allowing a user to draw their signature with their finger in a realistic style.
@@ -159,13 +159,13 @@
 
 ## PHP
 
-- [uber/arcanist](https://github.com/uber/arcanist) pushed_at:2021-08 star:0.0k fork:0.0k Command line interface for Phabricator
+- [uber/arcanist](https://github.com/uber/arcanist) pushed_at:2021-10 star:0.0k fork:0.0k Command line interface for Phabricator
 
 ## Python
 
 - [uber/bayesmark](https://github.com/uber/bayesmark) pushed_at:2021-06 star:0.1k fork:0.0k Benchmark framework to easily compare Bayesian optimization methods on real machine learning tasks
 - [uber/cassette](https://github.com/uber/cassette) pushed_at:2020-10 star:0.1k fork:0.0k Store and replay HTTP requests made in your Python app
-- [uber/causalml](https://github.com/uber/causalml) pushed_at:2021-09 star:2.3k fork:0.3k Uplift modeling and causal inference with machine learning algorithms
+- [uber/causalml](https://github.com/uber/causalml) pushed_at:2021-10 star:2.3k fork:0.4k Uplift modeling and causal inference with machine learning algorithms
 - [uber/charlatan](https://github.com/uber/charlatan) pushed_at:2019-09 star:0.1k fork:0.0k A Python library to efficiently manage and install database fixtures
 - [uber/clay](https://github.com/uber/clay) pushed_at:2019-06 star:0.4k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [uber/doubles](https://github.com/uber/doubles) pushed_at:2018-10 star:0.2k fork:0.0k Test doubles for Python.

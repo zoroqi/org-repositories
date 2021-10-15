@@ -12,12 +12,12 @@
 - [Clojure](#clojure) (2)
 - [D](#d) (1)
 - [Dockerfile](#dockerfile) (1)
-- [Go](#go) (16)
+- [Go](#go) (17)
 - [Groovy](#groovy) (4)
 - [HCL](#hcl) (1)
 - [HTML](#html) (7)
 - [Java](#java) (66)
-- [JavaScript](#javascript) (39)
+- [JavaScript](#javascript) (38)
 - [Kotlin](#kotlin) (4)
 - [Makefile](#makefile) (1)
 - [Others](#others) (13)
@@ -62,6 +62,7 @@
 
 ## Go
 
+- [Netflix/bettertls](https://github.com/Netflix/bettertls) pushed_at:2021-10 star:0.1k fork:0.0k BetterTLS:  A Name Constraints test suite for HTTPS clients.
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) pushed_at:2021-06 star:11.3k fork:0.8k Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [Netflix/go-env](https://github.com/Netflix/go-env) pushed_at:2021-04 star:0.3k fork:0.0k a golang library to manage environment variables
 - [Netflix/go-expect](https://github.com/Netflix/go-expect) pushed_at:2021-10 star:0.3k fork:0.0k an expect-like golang library to automate control of terminal or console based programs.
@@ -77,12 +78,12 @@
 - [Netflix/titus-executor](https://github.com/Netflix/titus-executor) pushed_at:2021-10 star:0.2k fork:0.0k Titus Executor is the container runtime/executor implementation for Titus
 - [Netflix/titus-kube-common](https://github.com/Netflix/titus-kube-common) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [Netflix/titus-resource-pool](https://github.com/Netflix/titus-resource-pool) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [Netflix/weep](https://github.com/Netflix/weep) pushed_at:2021-10 star:0.2k fork:0.0k The ConsoleMe CLI utility
+- [Netflix/weep](https://github.com/Netflix/weep) pushed_at:2021-10 star:0.3k fork:0.0k The ConsoleMe CLI utility
 
 ## Groovy
 
 - [Netflix/asgard](https://github.com/Netflix/asgard) pushed_at:2017-08 star:2.2k fork:0.4k [Asgard is deprecated at Netflix. We use Spinnaker ( www.spinnaker.io ).] Web interface for application deployments and cloud management in Amazon Web Services (AWS). Binary download: http://github.com/Netflix/asgard/releases
-- [Netflix/AWSObjectMapper](https://github.com/Netflix/AWSObjectMapper) pushed_at:2021-08 star:0.0k fork:0.0k Serializing / deserializing library for AWS objects
+- [Netflix/AWSObjectMapper](https://github.com/Netflix/AWSObjectMapper) pushed_at:2021-10 star:0.0k fork:0.0k Serializing / deserializing library for AWS objects
 - [Netflix/glisten](https://github.com/Netflix/glisten) pushed_at:2016-09 star:0.1k fork:0.0k Ease of use Groovy library for building JVM applications with Amazon Simple Workflow (SWF)
 - [Netflix/mantis-gradle-plugin](https://github.com/Netflix/mantis-gradle-plugin) pushed_at:2021-03 star:0.0k fork:0.0k Gradle plugin for producing a deployable Mantis Job artifact from a JVM-based project
 
@@ -124,7 +125,7 @@
 - [Netflix/fabricator](https://github.com/Netflix/fabricator) pushed_at:2016-10 star:0.0k fork:0.0k 
 - [Netflix/Fenzo](https://github.com/Netflix/Fenzo) pushed_at:2021-08 star:0.7k fork:0.1k Extensible Scheduler for Mesos Frameworks
 - [Netflix/frigga](https://github.com/Netflix/frigga) pushed_at:2021-08 star:0.0k fork:0.0k Utilities for working with Asgard named objects
-- [Netflix/genie](https://github.com/Netflix/genie) pushed_at:2021-09 star:1.5k fork:0.3k Distributed Big Data Orchestration Service
+- [Netflix/genie](https://github.com/Netflix/genie) pushed_at:2021-10 star:1.5k fork:0.3k Distributed Big Data Orchestration Service
 - [Netflix/governator](https://github.com/Netflix/governator) pushed_at:2021-09 star:0.8k fork:0.2k Governator is a library of extensions and utilities that enhance Google Guice to provide: classpath scanning and automatic binding, lifecycle management, configuration to field mapping, field validation and parallelized object warmup.
 - [Netflix/gradle-template](https://github.com/Netflix/gradle-template) pushed_at:2020-05 star:0.2k fork:0.1k 
 - [Netflix/hollow](https://github.com/Netflix/hollow) pushed_at:2021-10 star:1.0k fork:0.2k Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access.
@@ -141,7 +142,7 @@
 - [Netflix/mantis-publish](https://github.com/Netflix/mantis-publish) pushed_at:2020-10 star:0.0k fork:0.0k Java library for publishing events into Mantis
 - [Netflix/mantis-rxcontrol](https://github.com/Netflix/mantis-rxcontrol) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [Netflix/mantis-source-jobs](https://github.com/Netflix/mantis-source-jobs) pushed_at:2020-10 star:0.0k fork:0.0k 
-- [Netflix/metacat](https://github.com/Netflix/metacat) pushed_at:2021-09 star:1.1k fork:0.2k 
+- [Netflix/metacat](https://github.com/Netflix/metacat) pushed_at:2021-10 star:1.1k fork:0.2k 
 - [Netflix/netflix-commons](https://github.com/Netflix/netflix-commons) pushed_at:2019-08 star:0.2k fork:0.1k Common utilities for Netflix OSS projects
 - [Netflix/netflix-graph](https://github.com/Netflix/netflix-graph) pushed_at:2021-08 star:0.5k fork:0.1k Compact in-memory representation of directed graph data
 - [Netflix/Nicobar](https://github.com/Netflix/Nicobar) pushed_at:2021-08 star:0.2k fork:0.0k 
@@ -167,11 +168,10 @@
 - [Netflix/titus-control-plane](https://github.com/Netflix/titus-control-plane) pushed_at:2021-10 star:0.3k fork:0.1k Titus is the Netflix Container Management Platform that manages containers and provides integrations to the infrastructure ecosystem.
 - [Netflix/Turbine](https://github.com/Netflix/Turbine) pushed_at:2018-06 star:0.8k fork:0.3k SSE Stream Aggregator
 - [Netflix/zeno](https://github.com/Netflix/zeno) pushed_at:2017-06 star:0.2k fork:0.1k Netflix's In-Memory Data Propagation Framework
-- [Netflix/zuul](https://github.com/Netflix/zuul) pushed_at:2021-09 star:11.4k fork:2.1k Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+- [Netflix/zuul](https://github.com/Netflix/zuul) pushed_at:2021-10 star:11.4k fork:2.1k Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 
 ## JavaScript
 
-- [Netflix/bettertls](https://github.com/Netflix/bettertls) pushed_at:2021-10 star:0.1k fork:0.0k BetterTLS:  A Name Constraints test suite for HTTPS clients.
 - [Netflix/blesk](https://github.com/Netflix/blesk) pushed_at:2015-12 star:0.1k fork:0.0k Netflix blesk is a lightweight client for pushing notifications to web based applications/sites.
 - [Netflix/element-server](https://github.com/Netflix/element-server) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [Netflix/ember-batch-request](https://github.com/Netflix/ember-batch-request) pushed_at:2019-03 star:0.0k fork:0.0k Ember Addon to make Batch Requests to Rails Application
@@ -195,10 +195,10 @@
 - [Netflix/inviso](https://github.com/Netflix/inviso) pushed_at:2021-06 star:0.2k fork:0.1k 
 - [Netflix/Lipstick](https://github.com/Netflix/Lipstick) pushed_at:2018-01 star:0.5k fork:0.1k Pig Visualization framework
 - [Netflix/mantis-cli](https://github.com/Netflix/mantis-cli) pushed_at:2021-08 star:0.0k fork:0.0k CLI for managing Mantis clusters from the command line
-- [Netflix/nerror](https://github.com/Netflix/nerror) pushed_at:2020-11 star:0.1k fork:0.0k nerror: rich JavaScript errors
+- [Netflix/nerror](https://github.com/Netflix/nerror) pushed_at:2021-10 star:0.1k fork:0.0k nerror: rich JavaScript errors
 - [Netflix/pollyjs](https://github.com/Netflix/pollyjs) pushed_at:2021-10 star:9.1k fork:0.3k Record, Replay, and Stub HTTP Interactions.
 - [Netflix/pytheas](https://github.com/Netflix/pytheas) pushed_at:2016-11 star:0.2k fork:0.1k Web Resources and UI Framework
-- [Netflix/spectator-js](https://github.com/Netflix/spectator-js) pushed_at:2021-05 star:0.0k fork:0.0k Library for instrumenting Node.js applications using a dimensional data model
+- [Netflix/spectator-js](https://github.com/Netflix/spectator-js) pushed_at:2021-10 star:0.0k fork:0.0k Library for instrumenting Node.js applications using a dimensional data model
 - [Netflix/tslint-config-netflix](https://github.com/Netflix/tslint-config-netflix) pushed_at:2018-08 star:0.0k fork:0.0k 
 - [Netflix/unleash](https://github.com/Netflix/unleash) pushed_at:2020-11 star:0.6k fork:0.0k Professionally publish your JavaScript modules in one keystroke
 - [Netflix/vector](https://github.com/Netflix/vector) pushed_at:2021-08 star:3.6k fork:0.3k Vector is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser.
@@ -220,7 +220,7 @@
 
 ## Makefile
 
-- [Netflix/titus-api-definitions](https://github.com/Netflix/titus-api-definitions) pushed_at:2021-09 star:0.1k fork:0.0k 
+- [Netflix/titus-api-definitions](https://github.com/Netflix/titus-api-definitions) pushed_at:2021-10 star:0.1k fork:0.0k 
 
 ## Others
 
@@ -252,14 +252,14 @@
 - [Netflix/image_compression_comparison](https://github.com/Netflix/image_compression_comparison) pushed_at:2021-08 star:0.2k fork:0.0k Image Compression Comparison Framework
 - [Netflix/lemur](https://github.com/Netflix/lemur) pushed_at:2021-10 star:1.5k fork:0.3k Repository for the Lemur Certificate Manager
 - [Netflix/lemur-docker](https://github.com/Netflix/lemur-docker) pushed_at:2021-07 star:0.2k fork:0.1k Docker files for the Lemur certificate orchestration tool
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) pushed_at:2021-10 star:4.7k fork:0.4k :rocket: Build and manage real-life data science projects with ease 
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) pushed_at:2021-10 star:4.8k fork:0.4k :rocket: Build and manage real-life data science projects with ease 
 - [Netflix/metaflow-service](https://github.com/Netflix/metaflow-service) pushed_at:2021-10 star:0.1k fork:0.0k 
 - [Netflix/nflxprofile](https://github.com/Netflix/nflxprofile) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [Netflix/pygenie](https://github.com/Netflix/pygenie) pushed_at:2020-10 star:0.1k fork:0.0k 
 - [Netflix/repokid](https://github.com/Netflix/repokid) pushed_at:2021-08 star:0.9k fork:0.1k AWS Least Privilege for Distributed, High-Velocity Deployment
 - [Netflix/security_monkey](https://github.com/Netflix/security_monkey) pushed_at:2021-02 star:4.2k fork:0.8k Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 - [Netflix/spectator-py](https://github.com/Netflix/spectator-py) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [Netflix/sureal](https://github.com/Netflix/sureal) pushed_at:2021-09 star:0.1k fork:0.0k Subjective quality scores recovery from noisy measurements.
+- [Netflix/sureal](https://github.com/Netflix/sureal) pushed_at:2021-10 star:0.1k fork:0.0k Subjective quality scores recovery from noisy measurements.
 - [Netflix/vmaf](https://github.com/Netflix/vmaf) pushed_at:2021-10 star:2.5k fork:0.5k Perceptual video quality assessment based on multi-method fusion.
 
 ## R

@@ -31,7 +31,7 @@
 
 ## C#
 
-- [openai/orrb](https://github.com/openai/orrb) pushed_at:2019-07 star:0.2k fork:0.0k Code for the paper "OpenAI Remote Rendering Backend"
+- [openai/orrb](https://github.com/openai/orrb) pushed_at:2021-10 star:0.2k fork:0.0k Code for the paper "OpenAI Remote Rendering Backend"
 
 ## C++
 
@@ -76,7 +76,7 @@
 ## Jupyter Notebook
 
 - [openai/baselines-results](https://github.com/openai/baselines-results) pushed_at:2020-07 star:0.1k fork:0.0k 
-- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-09 star:4.9k fork:0.6k Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-09 star:5.0k fork:0.6k Contrastive Language-Image Pretraining
 - [openai/lucid](https://github.com/openai/lucid) pushed_at:2019-01 star:0.0k fork:0.0k A collection of infrastructure and tools for research in neural network interpretability.
 - [openai/ot-gan](https://github.com/openai/ot-gan) pushed_at:2018-11 star:0.0k fork:0.0k  Code for the paper "Improving GANs Using Optimal Transport"
 - [openai/ppo-ewma](https://github.com/openai/ppo-ewma) pushed_at:2021-10 star:0.0k fork:0.0k Code for the paper "Batch size invariance for policy optimization"
@@ -105,7 +105,7 @@
 
 - [openai/atari-demo](https://github.com/openai/atari-demo) pushed_at:2018-11 star:0.0k fork:0.0k Code for the blog post "Learning Montezuma’s Revenge from a Single Demonstration"
 - [openai/atari-reset](https://github.com/openai/atari-reset) pushed_at:2018-11 star:0.2k fork:0.0k Code for the blog post "Learning Montezuma’s Revenge from a Single Demonstration"
-- [openai/baselines](https://github.com/openai/baselines) pushed_at:2021-09 star:11.9k fork:4.1k OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
+- [openai/baselines](https://github.com/openai/baselines) pushed_at:2021-10 star:11.9k fork:4.1k OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [openai/CLIP-featurevis](https://github.com/openai/CLIP-featurevis) pushed_at:2021-03 star:0.2k fork:0.0k code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
 - [openai/code-align-evals-data](https://github.com/openai/code-align-evals-data) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [openai/DALL-E](https://github.com/openai/DALL-E) pushed_at:2021-04 star:3.4k fork:0.5k PyTorch package for the discrete VAE used for DALL·E.
@@ -120,14 +120,14 @@
 - [openai/glow](https://github.com/openai/glow) pushed_at:2021-02 star:2.8k fork:0.5k Code for reproducing results in "Glow: Generative Flow with Invertible 1x1 Convolutions"
 - [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2021-03 star:15.0k fork:3.8k Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) pushed_at:2021-02 star:1.2k fork:0.3k Dataset of GPT-2 outputs for research in detection, biases, and more
-- [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2021-07 star:0.8k fork:0.1k 
+- [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2021-10 star:0.8k fork:0.1k 
 - [openai/gym](https://github.com/openai/gym) pushed_at:2021-10 star:25.4k fork:7.3k A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/gym-http-api](https://github.com/openai/gym-http-api) pushed_at:2019-07 star:0.3k fork:0.1k API to access OpenAI Gym from other languages via HTTP
 - [openai/gym-recording](https://github.com/openai/gym-recording) pushed_at:2020-10 star:0.1k fork:0.0k Add-on package to gym, to record sequences of actions, observations, and rewards
-- [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2018-11 star:0.3k fork:0.2k 
+- [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2021-10 star:0.3k fork:0.2k 
 - [openai/gym-wikinav](https://github.com/openai/gym-wikinav) pushed_at:2018-11 star:0.0k fork:0.0k Wikipedia navigation environment for OpenAI Gym
 - [openai/gym3](https://github.com/openai/gym3) pushed_at:2021-01 star:0.1k fork:0.0k Vectorized interface for reinforcement learning environments
-- [openai/human-eval](https://github.com/openai/human-eval) pushed_at:2021-07 star:0.2k fork:0.0k Code for the paper "Evaluating Large Language Models Trained on Code"
+- [openai/human-eval](https://github.com/openai/human-eval) pushed_at:2021-10 star:0.2k fork:0.0k Code for the paper "Evaluating Large Language Models Trained on Code"
 - [openai/iaf](https://github.com/openai/iaf) pushed_at:2018-11 star:0.5k fork:0.1k Code for reproducing key results in the paper "Improving Variational Inference with Inverse Autoregressive Flow"
 - [openai/image-gpt](https://github.com/openai/image-gpt) pushed_at:2020-12 star:1.5k fork:0.2k 
 - [openai/imitation](https://github.com/openai/imitation) pushed_at:2018-11 star:0.6k fork:0.2k  Code for the paper "Generative Adversarial Imitation Learning"
@@ -159,7 +159,7 @@
 - [openai/retro-baselines](https://github.com/openai/retro-baselines) pushed_at:2018-11 star:0.1k fork:0.1k Publicly releasable baselines for the Retro contest
 - [openai/retro-contest](https://github.com/openai/retro-contest) pushed_at:2018-11 star:0.1k fork:0.0k OpenAI Retro Contest
 - [openai/retro-movies](https://github.com/openai/retro-movies) pushed_at:2018-11 star:0.0k fork:0.0k 
-- [openai/robogym](https://github.com/openai/robogym) pushed_at:2021-01 star:0.2k fork:0.0k Robotics Gym Environments
+- [openai/robogym](https://github.com/openai/robogym) pushed_at:2021-01 star:0.3k fork:0.0k Robotics Gym Environments
 - [openai/roboschool](https://github.com/openai/roboschool) pushed_at:2019-10 star:2.0k fork:0.5k DEPRECATED: Open-source software for robot simulation, integrated with OpenAI Gym.
 - [openai/robosumo](https://github.com/openai/robosumo) pushed_at:2019-02 star:0.2k fork:0.1k  Code for the paper "Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments"
 - [openai/rosbridge](https://github.com/openai/rosbridge) pushed_at:2018-11 star:0.1k fork:0.0k [deprecated] Bridge from Gym to ROS robots

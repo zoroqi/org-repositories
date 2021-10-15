@@ -11,7 +11,7 @@
 - [Bison](#bison) (1)
 - [C](#c) (87)
 - [C#](#c#) (9)
-- [C++](#c++) (273)
+- [C++](#c++) (272)
 - [CMake](#cmake) (2)
 - [CSS](#css) (6)
 - [Clojure](#clojure) (1)
@@ -34,12 +34,12 @@
 - [HTML](#html) (58)
 - [Haskell](#haskell) (23)
 - [Idris](#idris) (1)
-- [Java](#java) (214)
-- [JavaScript](#javascript) (212)
+- [Java](#java) (213)
+- [JavaScript](#javascript) (213)
 - [Jsonnet](#jsonnet) (1)
 - [Jupyter Notebook](#jupyter-notebook) (50)
 - [KiCad](#kicad) (1)
-- [Kotlin](#kotlin) (24)
+- [Kotlin](#kotlin) (25)
 - [LLVM](#llvm) (1)
 - [Lasso](#lasso) (1)
 - [Lean](#lean) (2)
@@ -50,7 +50,7 @@
 - [Objective-C](#objective-c) (34)
 - [OpenEdge ABL](#openedge-abl) (1)
 - [OpenSCAD](#openscad) (1)
-- [Others](#others) (142)
+- [Others](#others) (141)
 - [PHP](#php) (10)
 - [Perl](#perl) (4)
 - [PowerShell](#powershell) (2)
@@ -71,7 +71,7 @@
 - [TeX](#tex) (2)
 - [TypeScript](#typescript) (68)
 - [VBScript](#vbscript) (1)
-- [Verilog](#verilog) (9)
+- [Verilog](#verilog) (10)
 - [Vim script](#vim-script) (11)
 - [VimL](#viml) (1)
 - [Vue](#vue) (4)
@@ -99,7 +99,7 @@
 - [google/audit-normalmap](https://github.com/google/audit-normalmap) pushed_at:2017-03 star:0.0k fork:0.0k 
 - [google/bluesky-watchface](https://github.com/google/bluesky-watchface) pushed_at:2016-07 star:0.0k fork:0.0k 
 - [google/boringssl](https://github.com/google/boringssl) pushed_at:2021-10 star:1.1k fork:0.5k Mirror of BoringSSL
-- [google/brotli](https://github.com/google/brotli) pushed_at:2021-09 star:10.5k fork:1.0k Brotli compression format
+- [google/brotli](https://github.com/google/brotli) pushed_at:2021-10 star:10.5k fork:1.0k Brotli compression format
 - [google/bzip2-rpc](https://github.com/google/bzip2-rpc) pushed_at:2016-08 star:0.0k fork:0.0k Experiments in converting bzip2 API to be RPC-based
 - [google/capsicum-linux](https://github.com/google/capsicum-linux) pushed_at:2020-06 star:0.2k fork:0.0k Linux kernel with Capsicum support
 - [google/clspv](https://github.com/google/clspv) pushed_at:2021-10 star:0.4k fork:0.1k Clspv is a prototype compiler for a subset of OpenCL C to Vulkan compute shaders
@@ -109,17 +109,17 @@
 - [google/dtask](https://github.com/google/dtask) pushed_at:2018-10 star:0.0k fork:0.0k DTask is a scheduler for statically dependent tasks.
 - [google/early-bringup-tool](https://github.com/google/early-bringup-tool) pushed_at:2021-09 star:0.0k fork:0.0k UART based shell for embedded systems. Implements a bare minimal shell for the RISC-V/ARMv8 based QEMU virt boards. Uses just the UART and RAM base address. Allows writing individual functions to be exported as shell commands.
 - [google/eddystone](https://github.com/google/eddystone) pushed_at:2019-12 star:3.0k fork:0.8k Specification for Eddystone, an open beacon format from Google
-- [google/emoji-segmenter](https://github.com/google/emoji-segmenter) pushed_at:2019-01 star:0.0k fork:0.0k Emoji Segmenter
+- [google/emoji-segmenter](https://github.com/google/emoji-segmenter) pushed_at:2021-10 star:0.0k fork:0.0k Emoji Segmenter
 - [google/file-system-stress-testing](https://github.com/google/file-system-stress-testing) pushed_at:2016-03 star:0.1k fork:0.0k A tool that can be used to stress test POSIX filesystems.
 - [google/fpc](https://github.com/google/fpc) pushed_at:2017-02 star:0.0k fork:0.0k FPC calculates information to be used in fixed-point integer calculations
 - [google/fscryptctl](https://github.com/google/fscryptctl) pushed_at:2021-08 star:0.1k fork:0.0k Small C tool for Linux filesystem encryption
 - [google/fuzzer-test-suite](https://github.com/google/fuzzer-test-suite) pushed_at:2021-08 star:1.2k fork:0.3k Set of tests for fuzzing engines
 - [google/gasket-driver](https://github.com/google/gasket-driver) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [google/ghost-kernel](https://github.com/google/ghost-kernel) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [google/ghost-kernel](https://github.com/google/ghost-kernel) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/ghost-userspace](https://github.com/google/ghost-userspace) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [google/glome](https://github.com/google/glome) pushed_at:2021-10 star:0.0k fork:0.0k Generic Low Overhead Message Exchange (GLOME) is a protocol providing secure authentication and authorization for low dependency environments.
 - [google/go-tpm-tools](https://github.com/google/go-tpm-tools) pushed_at:2021-09 star:0.1k fork:0.0k Go packages built on go-tpm providing a high-level API for using TPMs
-- [google/google-authenticator-libpam](https://github.com/google/google-authenticator-libpam) pushed_at:2021-02 star:1.2k fork:0.2k 
+- [google/google-authenticator-libpam](https://github.com/google/google-authenticator-libpam) pushed_at:2021-02 star:1.3k fork:0.2k 
 - [google/google-drive-dokany](https://github.com/google/google-drive-dokany) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [google/hammer-kit](https://github.com/google/hammer-kit) pushed_at:2021-05 star:0.1k fork:0.0k 
 - [google/hiba](https://github.com/google/hiba) pushed_at:2021-09 star:0.3k fork:0.0k HIBA is a system built on top of regular OpenSSH certificate-based authentication that allows to manage flexible authorization of principals on pools of target hosts without the need to push customized authorized_users files periodically.
@@ -127,12 +127,12 @@
 - [google/iconvg](https://github.com/google/iconvg) pushed_at:2021-08 star:0.5k fork:0.0k IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji.
 - [google/ios-webkit-debug-proxy](https://github.com/google/ios-webkit-debug-proxy) pushed_at:2021-08 star:5.4k fork:0.4k A DevTools proxy (Chrome Remote Debugging Protocol) for iOS devices (Safari Remote Web Inspector).
 - [google/jalic](https://github.com/google/jalic) pushed_at:2016-04 star:0.0k fork:0.0k 
-- [google/kafel](https://github.com/google/kafel) pushed_at:2021-08 star:0.2k fork:0.0k A language and library for specifying syscall filtering policies.
+- [google/kafel](https://github.com/google/kafel) pushed_at:2021-10 star:0.2k fork:0.1k A language and library for specifying syscall filtering policies.
 - [google/kleaver](https://github.com/google/kleaver) pushed_at:2019-08 star:0.0k fork:0.0k Kleaver is an experimental tool for managing out-of-tree kernel modules.
 - [google/kmsan](https://github.com/google/kmsan) pushed_at:2021-10 star:0.3k fork:0.1k KernelMemorySanitizer, a detector of uses of uninitialized memory in the Linux kernel
 - [google/ktsan](https://github.com/google/ktsan) pushed_at:2021-06 star:0.6k fork:0.1k KernelThreadSanitizer, a fast data race detector for the Linux kernel
 - [google/kv-s3105c](https://github.com/google/kv-s3105c) pushed_at:2018-06 star:0.0k fork:0.0k 
-- [google/latency-benchmark](https://github.com/google/latency-benchmark) pushed_at:2017-12 star:0.4k fork:0.0k Tests web browser input latency and jank
+- [google/latency-benchmark](https://github.com/google/latency-benchmark) pushed_at:2017-12 star:0.5k fork:0.0k Tests web browser input latency and jank
 - [google/libnss-cache](https://github.com/google/libnss-cache) pushed_at:2021-02 star:0.0k fork:0.0k a NSS module for reading directory service information for Linux hosts from an indexed, local disk cache
 - [google/libpam-policycache](https://github.com/google/libpam-policycache) pushed_at:2021-06 star:0.0k fork:0.0k Password caching module with advanced policies for PAM.
 - [google/libsxg](https://github.com/google/libsxg) pushed_at:2021-07 star:0.0k fork:0.0k Signed HTTP Exchange library
@@ -174,7 +174,7 @@
 - [google/x-amber](https://github.com/google/x-amber) pushed_at:2020-08 star:0.1k fork:0.0k 
 - [google/xdelta3-decoder-js](https://github.com/google/xdelta3-decoder-js) pushed_at:2017-01 star:0.0k fork:0.0k 
 - [google/XNNPACK](https://github.com/google/XNNPACK) pushed_at:2021-10 star:1.0k fork:0.2k High-efficiency floating-point neural network inference operators for mobile, server, and Web
-- [google/xsecurelock](https://github.com/google/xsecurelock) pushed_at:2021-09 star:0.7k fork:0.1k X11 screen lock utility with security in mind
+- [google/xsecurelock](https://github.com/google/xsecurelock) pushed_at:2021-10 star:0.7k fork:0.1k X11 screen lock utility with security in mind
 - [google/xssxss](https://github.com/google/xssxss) pushed_at:2020-11 star:0.0k fork:0.0k deprecated – use https://github.com/google/xscreensaver-dbus
 - [google/yara-procdump-python](https://github.com/google/yara-procdump-python) pushed_at:2017-11 star:0.0k fork:0.0k A Python extension to wrap the Yara process memory access API.
 - [google/zimu](https://github.com/google/zimu) pushed_at:2013-10 star:0.0k fork:0.0k 
@@ -197,7 +197,7 @@
 - [google/aegis_cipher](https://github.com/google/aegis_cipher) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [google/aistreamer](https://github.com/google/aistreamer) pushed_at:2021-05 star:0.1k fork:0.0k Google AIStreamer
 - [google/aistreams](https://github.com/google/aistreams) pushed_at:2021-01 star:0.0k fork:0.0k 
-- [google/amber](https://github.com/google/amber) pushed_at:2021-09 star:0.1k fork:0.0k Amber is a multi-API shader test framework
+- [google/amber](https://github.com/google/amber) pushed_at:2021-09 star:0.1k fork:0.1k Amber is a multi-API shader test framework
 - [google/angle](https://github.com/google/angle) pushed_at:2021-08 star:2.3k fork:0.4k A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android.
 - [google/astc-codec](https://github.com/google/astc-codec) pushed_at:2019-06 star:0.0k fork:0.0k A software ASTC decoder implementation which supports the ASTC LDR profile
 - [google/asylo](https://github.com/google/asylo) pushed_at:2021-10 star:0.9k fork:0.1k An open and flexible framework for developing enclave applications
@@ -212,8 +212,8 @@
 - [google/bloaty](https://github.com/google/bloaty) pushed_at:2021-09 star:3.4k fork:0.2k Bloaty McBloatface: a size profiler for binaries
 - [google/bookbot-navigation](https://github.com/google/bookbot-navigation) pushed_at:2019-05 star:0.0k fork:0.0k 
 - [google/breadboard](https://github.com/google/breadboard) pushed_at:2020-11 star:0.1k fork:0.0k C++ graph based event system
-- [google/breakpad](https://github.com/google/breakpad) pushed_at:2021-08 star:1.8k fork:0.6k Mirror of Google Breakpad project
-- [google/brunsli](https://github.com/google/brunsli) pushed_at:2021-09 star:0.7k fork:0.0k Practical JPEG Repacker
+- [google/breakpad](https://github.com/google/breakpad) pushed_at:2021-10 star:1.8k fork:0.6k Mirror of Google Breakpad project
+- [google/brunsli](https://github.com/google/brunsli) pushed_at:2021-10 star:0.7k fork:0.0k Practical JPEG Repacker
 - [google/bsynth](https://github.com/google/bsynth) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [google/butteraugli](https://github.com/google/butteraugli) pushed_at:2021-05 star:1.8k fork:0.1k butteraugli estimates the psychovisual difference between two images
 - [google/capsicum-test](https://github.com/google/capsicum-test) pushed_at:2021-04 star:0.0k fork:0.0k Test suite for Capsicum
@@ -222,8 +222,7 @@
 - [google/ced](https://github.com/google/ced) pushed_at:2018-12 star:0.1k fork:0.0k 
 - [google/cel-cpp](https://github.com/google/cel-cpp) pushed_at:2021-10 star:0.1k fork:0.0k Fast, portable, non-Turing complete expression evaluation (C++)
 - [google/certificate-transparency](https://github.com/google/certificate-transparency) pushed_at:2020-06 star:0.8k fork:0.3k Auditing for TLS certificates.
-- [google/CFU-Playground](https://github.com/google/CFU-Playground) pushed_at:2021-10 star:0.1k fork:0.0k Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).
-- [google/cld3](https://github.com/google/cld3) pushed_at:2021-10 star:0.4k fork:0.1k 
+- [google/cld3](https://github.com/google/cld3) pushed_at:2021-10 star:0.5k fork:0.1k 
 - [google/clerk](https://github.com/google/clerk) pushed_at:2018-05 star:0.0k fork:0.0k Clerk is an open-source IPFIX generator using https://github.com/google/testimony for packet sniffing
 - [google/cncmicroscope-code](https://github.com/google/cncmicroscope-code) pushed_at:2015-06 star:0.0k fork:0.0k 
 - [google/compact_enc_det](https://github.com/google/compact_enc_det) pushed_at:2021-07 star:0.1k fork:0.1k compact_enc_det - Compact Encoding Detection
@@ -251,7 +250,7 @@
 - [google/distbench](https://github.com/google/distbench) pushed_at:2021-10 star:0.0k fork:0.0k The Distbench benchmark is made to evaluate Remote Procedure Calls (RPCs) stacks, as RPCs represent an important amount of data communication in the data center.
 - [google/distributed_point_functions](https://github.com/google/distributed_point_functions) pushed_at:2021-10 star:0.0k fork:0.0k An Implementation of Incremental Distributed Point Functions in C++
 - [google/double-conversion](https://github.com/google/double-conversion) pushed_at:2021-10 star:0.9k fork:0.2k Efficient binary-decimal and decimal-binary conversion routines for IEEE doubles.
-- [google/draco](https://github.com/google/draco) pushed_at:2021-09 star:4.4k fork:0.7k Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
+- [google/draco](https://github.com/google/draco) pushed_at:2021-10 star:4.5k fork:0.7k Draco is a library for compressing and decompressing 3D geometric meshes and point clouds. It is intended to improve the storage and transmission of 3D graphics.
 - [google/earthenterprise](https://github.com/google/earthenterprise) pushed_at:2021-07 star:2.4k fork:0.8k Google Earth Enterprise - Open Source
 - [google/ecclesia-machine-management](https://github.com/google/ecclesia-machine-management) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/effcee](https://github.com/google/effcee) pushed_at:2021-10 star:0.1k fork:0.0k Effcee is a C++ library for stateful pattern matching of strings, inspired by LLVM's FileCheck
@@ -261,12 +260,12 @@
 - [google/emre](https://github.com/google/emre) pushed_at:2017-03 star:0.0k fork:0.0k 
 - [google/etc2comp](https://github.com/google/etc2comp) pushed_at:2020-10 star:0.3k fork:0.1k 
 - [google/EXEgesis](https://github.com/google/EXEgesis) pushed_at:2020-10 star:0.3k fork:0.0k 
-- [google/farmhash](https://github.com/google/farmhash) pushed_at:2020-09 star:0.5k fork:0.1k Automatically exported from code.google.com/p/farmhash
+- [google/farmhash](https://github.com/google/farmhash) pushed_at:2021-10 star:0.5k fork:0.1k Automatically exported from code.google.com/p/farmhash
 - [google/fast-simple-lcsk](https://github.com/google/fast-simple-lcsk) pushed_at:2018-05 star:0.0k fork:0.0k Fast and simple algorithms for computing both LCSk and LCSk+
 - [google/fhir](https://github.com/google/fhir) pushed_at:2021-09 star:0.6k fork:0.1k FHIR Protocol Buffers
 - [google/fhir-examples](https://github.com/google/fhir-examples) pushed_at:2021-07 star:0.0k fork:0.0k Usage Examples for github.com/google/fhir
 - [google/fidi](https://github.com/google/fidi) pushed_at:2021-05 star:0.0k fork:0.0k 
-- [google/filament](https://github.com/google/filament) pushed_at:2021-10 star:11.9k fork:1.1k Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
+- [google/filament](https://github.com/google/filament) pushed_at:2021-10 star:12.0k fork:1.1k Filament is a real-time physically based rendering engine for Android, iOS, Windows, Linux, macOS, and WebGL2
 - [google/file-based-test-driver](https://github.com/google/file-based-test-driver) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [google/filesystem-proposal](https://github.com/google/filesystem-proposal) pushed_at:2018-12 star:0.0k fork:0.0k Boost Filesystem Library with modifications for the C++ standards committee proposal
 - [google/flatbuffers](https://github.com/google/flatbuffers) pushed_at:2021-10 star:16.9k fork:2.6k FlatBuffers: Memory Efficient Serialization Library
@@ -309,10 +308,10 @@
 - [google/iree-llvm-sandbox](https://github.com/google/iree-llvm-sandbox) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/jni-bind](https://github.com/google/jni-bind) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [google/jwt_verify_lib](https://github.com/google/jwt_verify_lib) pushed_at:2021-03 star:0.0k fork:0.0k 
-- [google/kati](https://github.com/google/kati) pushed_at:2021-09 star:0.7k fork:0.1k An experimental GNU make clone
+- [google/kati](https://github.com/google/kati) pushed_at:2021-10 star:0.7k fork:0.1k An experimental GNU make clone
 - [google/knusperli](https://github.com/google/knusperli) pushed_at:2021-10 star:0.4k fork:0.0k A deblocking JPEG decoder
 - [google/language-resources](https://github.com/google/language-resources) pushed_at:2021-09 star:0.3k fork:0.1k Datasets and tools for basic natural language processing.
-- [google/leveldb](https://github.com/google/leveldb) pushed_at:2021-09 star:26.6k fork:5.9k LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
+- [google/leveldb](https://github.com/google/leveldb) pushed_at:2021-10 star:26.7k fork:5.9k LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [google/libaddressinput](https://github.com/google/libaddressinput) pushed_at:2021-07 star:0.5k fork:0.1k Google’s postal address library, powering Android and Chromium
 - [google/libcppbor](https://github.com/google/libcppbor) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [google/libcxx](https://github.com/google/libcxx) pushed_at:2019-06 star:0.2k fork:0.1k libc++; cloned from http://llvm.org/git/libcxx.git
@@ -321,7 +320,7 @@
 - [google/libnop](https://github.com/google/libnop) pushed_at:2020-11 star:0.5k fork:0.0k libnop: C++ Native Object Protocols
 - [google/libphonenumber](https://github.com/google/libphonenumber) pushed_at:2021-10 star:12.8k fork:1.7k Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
 - [google/libprio-cc](https://github.com/google/libprio-cc) pushed_at:2020-11 star:0.0k fork:0.0k 
-- [google/libprotobuf-mutator](https://github.com/google/libprotobuf-mutator) pushed_at:2021-08 star:0.3k fork:0.1k Library for structured fuzzing with protobuffers
+- [google/libprotobuf-mutator](https://github.com/google/libprotobuf-mutator) pushed_at:2021-08 star:0.4k fork:0.1k Library for structured fuzzing with protobuffers
 - [google/libprotobuf-mutator-asn1](https://github.com/google/libprotobuf-mutator-asn1) pushed_at:2020-10 star:0.0k fork:0.0k Library for structured fuzzing of ASN.1 DER/BER
 - [google/libtrusttoken](https://github.com/google/libtrusttoken) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [google/liquidfun](https://github.com/google/liquidfun) pushed_at:2021-09 star:4.3k fork:0.6k 2D physics engine for games
@@ -336,8 +335,8 @@
 - [google/mako](https://github.com/google/mako) pushed_at:2021-01 star:0.1k fork:0.0k Mako - A performance testing library and service
 - [google/maldoca](https://github.com/google/maldoca) pushed_at:2021-10 star:0.0k fork:0.0k Malicious Microsoft Office document analyzer
 - [google/marl](https://github.com/google/marl) pushed_at:2021-08 star:1.2k fork:0.1k A hybrid thread / fiber task scheduler written in C++ 11
-- [google/mathfu](https://github.com/google/mathfu) pushed_at:2021-08 star:1.1k fork:0.2k C++ math library developed primarily for games focused on simplicity and efficiency.
-- [google/mediapipe](https://github.com/google/mediapipe) pushed_at:2021-10 star:14.1k fork:2.9k Cross-platform, customizable ML solutions for live and streaming media.
+- [google/mathfu](https://github.com/google/mathfu) pushed_at:2021-10 star:1.1k fork:0.2k C++ math library developed primarily for games focused on simplicity and efficiency.
+- [google/mediapipe](https://github.com/google/mediapipe) pushed_at:2021-10 star:14.2k fork:2.9k Cross-platform, customizable ML solutions for live and streaming media.
 - [google/memcpy-gemm](https://github.com/google/memcpy-gemm) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [google/merror](https://github.com/google/merror) pushed_at:2021-04 star:0.0k fork:0.0k MError is a library for error handling in C++ without exceptions. It requires C++17 and only works for gcc or clang compilers.
 - [google/metrosvg](https://github.com/google/metrosvg) pushed_at:2016-01 star:0.0k fork:0.0k 
@@ -346,7 +345,7 @@
 - [google/monster-mash](https://github.com/google/monster-mash) pushed_at:2021-06 star:1.0k fork:0.1k 
 - [google/morphie](https://github.com/google/morphie) pushed_at:2016-12 star:0.0k fork:0.0k A tool for data analysis with graphs.
 - [google/motive](https://github.com/google/motive) pushed_at:2019-05 star:0.2k fork:0.0k A cross-platform, memory efficient, and performant animation system written in C++
-- [google/mozc](https://github.com/google/mozc) pushed_at:2021-10 star:0.9k fork:0.2k Mozc - a Japanese Input Method Editor designed for multi-platform
+- [google/mozc](https://github.com/google/mozc) pushed_at:2021-10 star:1.0k fork:0.2k Mozc - a Japanese Input Method Editor designed for multi-platform
 - [google/mt](https://github.com/google/mt) pushed_at:2017-12 star:0.0k fork:0.0k Modern, minimalist, minty-fresh terminal
 - [google/multichannel-audio-tools](https://github.com/google/multichannel-audio-tools) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [google/mysql](https://github.com/google/mysql) pushed_at:2018-12 star:0.0k fork:0.1k Automatically exported from code.google.com/p/google-mysql
@@ -355,15 +354,15 @@
 - [google/nccl-fastsocket](https://github.com/google/nccl-fastsocket) pushed_at:2021-08 star:0.0k fork:0.0k NCCL Fast Socket is a transport layer plugin to improve NCCL collective communication performance on Google Cloud.
 - [google/ndash](https://github.com/google/ndash) pushed_at:2017-10 star:0.0k fork:0.0k 
 - [google/ndprbrd](https://github.com/google/ndprbrd) pushed_at:2017-08 star:0.0k fork:0.0k NDP Routing Bridge Daemon
-- [google/nearby-connections](https://github.com/google/nearby-connections) pushed_at:2021-10 star:0.1k fork:0.0k 
+- [google/nearby](https://github.com/google/nearby) pushed_at:2021-10 star:0.1k fork:0.0k 
 - [google/nips_assignments](https://github.com/google/nips_assignments) pushed_at:2018-06 star:0.0k fork:0.0k C++ code to help assign papers to reviewers, area chairs, etc in conferences like NIPS.
 - [google/node-gles](https://github.com/google/node-gles) pushed_at:2021-08 star:0.3k fork:0.0k 
-- [google/nsjail](https://github.com/google/nsjail) pushed_at:2021-09 star:1.9k fork:0.2k A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
+- [google/nsjail](https://github.com/google/nsjail) pushed_at:2021-10 star:1.9k fork:0.2k A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language)
 - [google/nucleus](https://github.com/google/nucleus) pushed_at:2021-09 star:0.7k fork:0.1k Python and C++ code for reading and writing genomics data.
 - [google/nvidia_libs_test](https://github.com/google/nvidia_libs_test) pushed_at:2020-11 star:0.0k fork:0.0k Tests and benchmarks for cudnn (and in the future, other nvidia libraries)
 - [google/oboe](https://github.com/google/oboe) pushed_at:2021-10 star:2.8k fork:0.4k Oboe is a C++ library that makes it easy to build high-performance audio apps on Android.
 - [google/ohmu](https://github.com/google/ohmu) pushed_at:2018-12 star:0.1k fork:0.0k Compiler intermediate language for static analysis.
-- [google/omaha](https://github.com/google/omaha) pushed_at:2021-09 star:1.4k fork:0.6k Google Update for Windows
+- [google/omaha](https://github.com/google/omaha) pushed_at:2021-10 star:1.4k fork:0.6k Google Update for Windows
 - [google/open-vcdiff](https://github.com/google/open-vcdiff) pushed_at:2019-06 star:0.1k fork:0.1k An encoder/decoder for the VCDIFF (RFC3284) format
 - [google/opuscpp](https://github.com/google/opuscpp) pushed_at:2018-12 star:0.0k fork:0.0k c++ wrapper around libopus
 - [google/or-tools](https://github.com/google/or-tools) pushed_at:2021-10 star:7.4k fork:1.6k Google's Operations Research tools:
@@ -378,9 +377,9 @@
 - [google/pienoon](https://github.com/google/pienoon) pushed_at:2016-01 star:0.4k fork:0.1k Multiplayer party game where you can throw pies at your friends.
 - [google/piex](https://github.com/google/piex) pushed_at:2020-11 star:0.0k fork:0.0k Preview Image Extractor (PIEX)
 - [google/pigweed](https://github.com/google/pigweed) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [google/pik](https://github.com/google/pik) pushed_at:2019-05 star:0.8k fork:0.0k A new lossy/lossless image format for photos and the internet
+- [google/pik](https://github.com/google/pik) pushed_at:2019-05 star:0.8k fork:0.1k A new lossy/lossless image format for photos and the internet
 - [google/pindrop](https://github.com/google/pindrop) pushed_at:2017-02 star:0.1k fork:0.0k C++ cross-platform game audio library
-- [google/pkcs11test](https://github.com/google/pkcs11test) pushed_at:2021-07 star:0.1k fork:0.1k PKCS#11 Test Suite
+- [google/pkcs11test](https://github.com/google/pkcs11test) pushed_at:2021-10 star:0.1k fork:0.1k PKCS#11 Test Suite
 - [google/plusfish](https://github.com/google/plusfish) pushed_at:2021-03 star:0.0k fork:0.0k Plusfish is a classic web application vulnerability scanner/fuzzer and aimed at security professionals
 - [google/powered-caster-vehicle](https://github.com/google/powered-caster-vehicle) pushed_at:2020-04 star:0.0k fork:0.0k 
 - [google/private-join-and-compute](https://github.com/google/private-join-and-compute) pushed_at:2021-09 star:0.6k fork:0.1k 
@@ -394,7 +393,7 @@
 - [google/randen](https://github.com/google/randen) pushed_at:2018-10 star:0.3k fork:0.0k Fast backtracking-resistant random generator: https://arxiv.org/abs/1810.02227
 - [google/rct-automation](https://github.com/google/rct-automation) pushed_at:2014-08 star:0.0k fork:0.0k Radio automation software (not an official google product)
 - [google/rdma-unit-test](https://github.com/google/rdma-unit-test) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [google/re2](https://github.com/google/re2) pushed_at:2021-09 star:6.1k fork:0.9k RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+- [google/re2](https://github.com/google/re2) pushed_at:2021-10 star:6.1k fork:0.9k RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [google/REAPER](https://github.com/google/REAPER) pushed_at:2019-12 star:0.3k fork:0.1k 
 - [google/redgrep](https://github.com/google/redgrep) pushed_at:2021-09 star:0.1k fork:0.0k ♥ Janusz Brzozowski
 - [google/refr](https://github.com/google/refr) pushed_at:2015-04 star:0.0k fork:0.0k A framework for building reranking models.
@@ -405,10 +404,10 @@
 - [google/ruy](https://github.com/google/ruy) pushed_at:2021-09 star:0.1k fork:0.0k 
 - [google/rxcppuniq](https://github.com/google/rxcppuniq) pushed_at:2019-09 star:0.0k fork:0.0k 
 - [google/s2a-core](https://github.com/google/s2a-core) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [google/s2geometry](https://github.com/google/s2geometry) pushed_at:2021-09 star:1.5k fork:0.2k Computational geometry and spatial indexing on the sphere
+- [google/s2geometry](https://github.com/google/s2geometry) pushed_at:2021-10 star:1.5k fork:0.2k Computational geometry and spatial indexing on the sphere
 - [google/safeside](https://github.com/google/safeside) pushed_at:2021-01 star:0.5k fork:0.0k Understand and mitigate software-observable side-channels
 - [google/sandboxed-api](https://github.com/google/sandboxed-api) pushed_at:2021-10 star:1.3k fork:0.1k Generates sandboxes for C/C++ libraries automatically
-- [google/sanitizers](https://github.com/google/sanitizers) pushed_at:2021-08 star:7.2k fork:0.7k AddressSanitizer, ThreadSanitizer, MemorySanitizer
+- [google/sanitizers](https://github.com/google/sanitizers) pushed_at:2021-08 star:7.3k fork:0.7k AddressSanitizer, ThreadSanitizer, MemorySanitizer
 - [google/sawbuck](https://github.com/google/sawbuck) pushed_at:2018-12 star:0.1k fork:0.0k Automatically exported from code.google.com/p/sawbuck
 - [google/scene_lab](https://github.com/google/scene_lab) pushed_at:2017-02 star:0.1k fork:0.0k Embedded World Editor Library for Game Developers
 - [google/securemessage](https://github.com/google/securemessage) pushed_at:2021-09 star:0.1k fork:0.0k 
@@ -416,9 +415,9 @@
 - [google/segy-stack](https://github.com/google/segy-stack) pushed_at:2021-10 star:0.0k fork:0.0k A library with C++ and Python API to read 3D Post-stack seismic data in SEG-Y format.
 - [google/sensei](https://github.com/google/sensei) pushed_at:2015-05 star:0.1k fork:0.0k Logistic regression engine for medium-sized data
 - [google/sentencepiece](https://github.com/google/sentencepiece) pushed_at:2021-10 star:5.4k fork:0.7k Unsupervised text tokenizer for Neural Network-based text generation.
-- [google/shaderc](https://github.com/google/shaderc) pushed_at:2021-09 star:1.2k fork:0.2k A collection of tools, libraries, and tests for Vulkan shader compilation.
+- [google/shaderc](https://github.com/google/shaderc) pushed_at:2021-10 star:1.2k fork:0.2k A collection of tools, libraries, and tests for Vulkan shader compilation.
 - [google/shadertrap](https://github.com/google/shadertrap) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [google/shaka-packager](https://github.com/google/shaka-packager) pushed_at:2021-09 star:1.2k fork:0.3k A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
+- [google/shaka-packager](https://github.com/google/shaka-packager) pushed_at:2021-10 star:1.2k fork:0.3k A media packaging and development framework for VOD and Live DASH and HLS applications, supporting Common Encryption for Widevine and other DRM Systems.
 - [google/shaka-player-embedded](https://github.com/google/shaka-player-embedded) pushed_at:2020-12 star:0.2k fork:0.0k Shaka Player in a C++ Framework
 - [google/shell-encryption](https://github.com/google/shell-encryption) pushed_at:2021-09 star:0.1k fork:0.0k 
 - [google/skia](https://github.com/google/skia) pushed_at:2021-09 star:5.5k fork:1.0k Skia is a complete 2D graphic library for drawing Text, Geometries, and Images.
@@ -431,13 +430,13 @@
 - [google/swift-clang](https://github.com/google/swift-clang) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [google/swift-llbuild](https://github.com/google/swift-llbuild) pushed_at:2018-06 star:0.0k fork:0.0k A low-level build system, used by Xcode 9 and the Swift Package Manager
 - [google/swift-lldb](https://github.com/google/swift-lldb) pushed_at:2019-10 star:0.0k fork:0.0k This is the version of LLDB that supports the Swift programming language & REPL.
-- [google/swiftshader](https://github.com/google/swiftshader) pushed_at:2020-08 star:1.3k fork:0.2k SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is to provide hardware independence for advanced 3D graphics.
+- [google/swiftshader](https://github.com/google/swiftshader) pushed_at:2020-08 star:1.4k fork:0.2k SwiftShader is a high-performance CPU-based implementation of the Vulkan graphics API. Its goal is to provide hardware independence for advanced 3D graphics.
 - [google/synthmark](https://github.com/google/synthmark) pushed_at:2021-09 star:0.0k fork:0.0k Audio performance benchmark for jitter, theoretical latency, etc.
 - [google/syzygy](https://github.com/google/syzygy) pushed_at:2018-12 star:0.3k fork:0.1k Syzygy Transformation Toolchain
 - [google/szl](https://github.com/google/szl) pushed_at:2019-11 star:0.1k fork:0.0k A compiler and runtime for the Sawzall language
 - [google/tcmalloc](https://github.com/google/tcmalloc) pushed_at:2021-10 star:2.3k fork:0.2k 
 - [google/tensorstore](https://github.com/google/tensorstore) pushed_at:2021-08 star:0.1k fork:0.0k Library for reading and writing large multi-dimensional arrays.
-- [google/tink](https://github.com/google/tink) pushed_at:2021-10 star:11.6k fork:1.0k Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
+- [google/tink](https://github.com/google/tink) pushed_at:2021-10 star:11.7k fork:1.0k Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse.
 - [google/topdown-btg-preordering](https://github.com/google/topdown-btg-preordering) pushed_at:2016-01 star:0.0k fork:0.0k Top-Down BTG-based Preordering
 - [google/tpm-js](https://github.com/google/tpm-js) pushed_at:2020-06 star:0.1k fork:0.0k Learn how to use your Trusted Platform Module (TPM)
 - [google/trusted-key-value-server](https://github.com/google/trusted-key-value-server) pushed_at:2021-07 star:0.0k fork:0.0k 
@@ -454,7 +453,7 @@
 - [google/vpn-libraries](https://github.com/google/vpn-libraries) pushed_at:2021-07 star:0.1k fork:0.0k The VPN client libraries provide a reference implementation for a secure, encrypted tunnel for connected devices. Full Public report: https://research.nccgroup.com/2021/04/08/public-report-vpn-by-google-one-technical-security-privacy-assessment/
 - [google/vulkan-cpp-library](https://github.com/google/vulkan-cpp-library) pushed_at:2017-11 star:0.2k fork:0.0k 
 - [google/vulkan-pre-rotation-demo](https://github.com/google/vulkan-pre-rotation-demo) pushed_at:2021-08 star:0.0k fork:0.0k Handle Vulkan pre-rotation properly on Android
-- [google/vulkan_test_applications](https://github.com/google/vulkan_test_applications) pushed_at:2021-09 star:0.0k fork:0.0k 
+- [google/vulkan_test_applications](https://github.com/google/vulkan_test_applications) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/vxsig](https://github.com/google/vxsig) pushed_at:2021-07 star:0.2k fork:0.0k Automatically generate AV byte signatures from sets of similar binaries.
 - [google/woff2](https://github.com/google/woff2) pushed_at:2020-10 star:0.9k fork:0.1k 
 - [google/xls](https://github.com/google/xls) pushed_at:2021-10 star:0.6k fork:0.1k XLS: Accelerated HW Synthesis
@@ -462,7 +461,7 @@
 - [google/xpaf](https://github.com/google/xpaf) pushed_at:2016-05 star:0.1k fork:0.1k 
 - [google/xrtl](https://github.com/google/xrtl) pushed_at:2018-07 star:0.1k fork:0.0k Cross-platform Real-Time Rendering Library
 - [google/yggdrasil-decision-forests](https://github.com/google/yggdrasil-decision-forests) pushed_at:2021-09 star:0.1k fork:0.0k A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models.
-- [google/zetasql](https://github.com/google/zetasql) pushed_at:2021-09 star:1.5k fork:0.1k ZetaSQL - Analyzer Framework for SQL
+- [google/zetasql](https://github.com/google/zetasql) pushed_at:2021-09 star:1.6k fork:0.1k ZetaSQL - Analyzer Framework for SQL
 - [google/zooshi](https://github.com/google/zooshi) pushed_at:2018-06 star:0.3k fork:0.1k Multi-platform game where you feed well dressed animals with sushi
 - [google/zopfli](https://github.com/google/zopfli) pushed_at:2021-08 star:3.0k fork:0.3k Zopfli Compression Algorithm is a compression library programmed in C to perform very good, but slow, deflate or zlib compression.
 - [google/zuckerli](https://github.com/google/zuckerli) pushed_at:2021-01 star:0.0k fork:0.0k 
@@ -487,7 +486,7 @@
 
 ## Common Lisp
 
-- [google/lisp-koans](https://github.com/google/lisp-koans) pushed_at:2021-01 star:2.8k fork:0.5k Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific features.  Structured as ordered groups of broken unit tests, the project guides the learner progressively through many Common Lisp language features. 
+- [google/lisp-koans](https://github.com/google/lisp-koans) pushed_at:2021-01 star:2.9k fork:0.5k Common Lisp Koans is a language learning exercise in the same vein as the ruby koans, python koans and others.   It is a port of the prior koans with some modifications to highlight lisp-specific features.  Structured as ordered groups of broken unit tests, the project guides the learner progressively through many Common Lisp language features. 
 
 ## Coq
 
@@ -509,12 +508,12 @@
 - [google/apps_script_tools](https://github.com/google/apps_script_tools) pushed_at:2019-12 star:0.0k fork:0.0k Tools for writing Apps Scripts in the Dart programming language
 - [google/arrow-logo](https://github.com/google/arrow-logo) pushed_at:2021-02 star:0.0k fork:0.0k 
 - [google/box2d.dart](https://github.com/google/box2d.dart) pushed_at:2020-09 star:0.1k fork:0.0k A Dart port of Java's Box2D libraries.
-- [google/built_collection.dart](https://github.com/google/built_collection.dart) pushed_at:2021-09 star:0.2k fork:0.0k Immutable Dart collections via the builder pattern.
-- [google/built_value.dart](https://github.com/google/built_value.dart) pushed_at:2021-08 star:0.8k fork:0.1k Immutable value types, enum classes, and serialization.
+- [google/built_collection.dart](https://github.com/google/built_collection.dart) pushed_at:2021-09 star:0.2k fork:0.1k Immutable Dart collections via the builder pattern.
+- [google/built_value.dart](https://github.com/google/built_value.dart) pushed_at:2021-10 star:0.8k fork:0.2k Immutable value types, enum classes, and serialization.
 - [google/cassowary.dart](https://github.com/google/cassowary.dart) pushed_at:2021-08 star:0.0k fork:0.0k Cassowary constraint solving algorithm in Dart
 - [google/charted](https://github.com/google/charted) pushed_at:2019-09 star:0.2k fork:0.1k Visualization toolkit for Dart language
 - [google/chartjs.dart](https://github.com/google/chartjs.dart) pushed_at:2021-09 star:0.1k fork:0.1k Dart API for Chart.js
-- [google/charts](https://github.com/google/charts) pushed_at:2021-09 star:2.4k fork:0.7k 
+- [google/charts](https://github.com/google/charts) pushed_at:2021-10 star:2.4k fork:0.7k 
 - [google/codemirror.dart](https://github.com/google/codemirror.dart) pushed_at:2021-10 star:0.1k fork:0.0k A Dart wrapper around the CodeMirror text editor.
 - [google/comid](https://github.com/google/comid) pushed_at:2015-05 star:0.0k fork:0.0k CodeMirror in Dart
 - [google/crclib.dart](https://github.com/google/crclib.dart) pushed_at:2021-01 star:0.0k fork:0.0k 
@@ -542,7 +541,7 @@
 - [google/flutter-provide](https://github.com/google/flutter-provide) pushed_at:2021-06 star:0.8k fork:0.1k A simple framework for state management in Flutter.
 - [google/flutter.plugins](https://github.com/google/flutter.plugins) pushed_at:2021-09 star:0.1k fork:0.0k 
 - [google/flutter.widgets](https://github.com/google/flutter.widgets) pushed_at:2021-10 star:0.8k fork:0.2k 
-- [google/flutter_flux](https://github.com/google/flutter_flux) pushed_at:2020-09 star:0.4k fork:0.0k Implementation of the Flux framework for Flutter
+- [google/flutter_flux](https://github.com/google/flutter_flux) pushed_at:2021-10 star:0.4k fork:0.0k Implementation of the Flux framework for Flutter
 - [google/flutter_minimal_store](https://github.com/google/flutter_minimal_store) pushed_at:2019-09 star:0.0k fork:0.0k 
 - [google/gae-channel-api.dart](https://github.com/google/gae-channel-api.dart) pushed_at:2013-11 star:0.0k fork:0.0k App Engine Channel API for Dart
 - [google/github-issue-mover](https://github.com/google/github-issue-mover) pushed_at:2019-05 star:0.6k fork:0.1k Making it easy to migrate issues between repos.
@@ -552,7 +551,7 @@
 - [google/json_serializable.dart](https://github.com/google/json_serializable.dart) pushed_at:2021-10 star:1.1k fork:0.3k Generates utilities to aid in serializing to/from JSON.
 - [google/librato.dart](https://github.com/google/librato.dart) pushed_at:2021-08 star:0.0k fork:0.0k A Dart library to upload metrics data to librato.com.
 - [google/mockable_filesystem.dart](https://github.com/google/mockable_filesystem.dart) pushed_at:2017-07 star:0.0k fork:0.0k Utility library that can be used to write code that can in turn be tested with mocked files and directories.
-- [google/mono_repo.dart](https://github.com/google/mono_repo.dart) pushed_at:2021-07 star:0.1k fork:0.0k Allows easy management of repositories with multiple Dart packages
+- [google/mono_repo.dart](https://github.com/google/mono_repo.dart) pushed_at:2021-10 star:0.1k fork:0.0k Allows easy management of repositories with multiple Dart packages
 - [google/observable](https://github.com/google/observable) pushed_at:2021-05 star:0.0k fork:0.0k Support for marking objects as observable, and getting notifications when those objects are mutated.
 - [google/pageloader](https://github.com/google/pageloader) pushed_at:2021-06 star:0.0k fork:0.1k A framework for creating page objects for in-browser or WebDriver tests.
 - [google/pedantic](https://github.com/google/pedantic) pushed_at:2021-06 star:0.3k fork:0.1k How to get the most value from Dart static analysis
@@ -562,9 +561,9 @@
 - [google/polymer-dart-log-controller](https://github.com/google/polymer-dart-log-controller) pushed_at:2014-09 star:0.0k fork:0.0k A small polymer element which lets you control the global logging configuration, and can optionally log all statements to the console.
 - [google/process.dart](https://github.com/google/process.dart) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/process_runner](https://github.com/google/process_runner) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [google/protobuf.dart](https://github.com/google/protobuf.dart) pushed_at:2021-09 star:0.3k fork:0.1k Runtime library for Dart protobufs
+- [google/protobuf.dart](https://github.com/google/protobuf.dart) pushed_at:2021-10 star:0.3k fork:0.1k Runtime library for Dart protobufs
 - [google/pub_cache](https://github.com/google/pub_cache) pushed_at:2021-05 star:0.0k fork:0.0k A library to reflect on the local pub cache.
-- [google/quiver-dart](https://github.com/google/quiver-dart) pushed_at:2021-09 star:0.8k fork:0.1k A set of utility libraries for Dart
+- [google/quiver-dart](https://github.com/google/quiver-dart) pushed_at:2021-10 star:0.8k fork:0.1k A set of utility libraries for Dart
 - [google/quiver-log](https://github.com/google/quiver-log) pushed_at:2021-02 star:0.0k fork:0.0k Logging utility for Dart
 - [google/reflectable.dart](https://github.com/google/reflectable.dart) pushed_at:2021-08 star:0.3k fork:0.1k Reflectable is a Dart library that allows programmers to eliminate certain usages of dynamic reflection by specialization of reflective code to an equivalent implementation using only static techniques. The use of dynamic reflection is constrained in order to ensure that the specialized code can be generated and will have a reasonable size.
 - [google/serialization.dart](https://github.com/google/serialization.dart) pushed_at:2016-02 star:0.0k fork:0.0k A serialization library for Dart.
@@ -580,7 +579,7 @@
 - [google/vector_math.dart](https://github.com/google/vector_math.dart) pushed_at:2021-09 star:0.2k fork:0.1k A vector math package for 2D and 3D applications
 - [google/web_notifications.dart](https://github.com/google/web_notifications.dart) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [google/webcrypto.dart](https://github.com/google/webcrypto.dart) pushed_at:2021-03 star:0.0k fork:0.0k Cross-platform implementation of Web Cryptography APIs
-- [google/webdriver.dart](https://github.com/google/webdriver.dart) pushed_at:2021-06 star:0.1k fork:0.1k Dart WebDriver client
+- [google/webdriver.dart](https://github.com/google/webdriver.dart) pushed_at:2021-10 star:0.1k fork:0.1k Dart WebDriver client
 - [google/webkit_inspection_protocol.dart](https://github.com/google/webkit_inspection_protocol.dart) pushed_at:2021-09 star:0.0k fork:0.0k A client for the Webkit Inspection Protocol (WIP).
 
 ## Dockerfile
@@ -656,7 +655,7 @@
 - [google/election-au-2016](https://github.com/google/election-au-2016) pushed_at:2018-11 star:0.1k fork:0.0k Source code for the Australian Election 2016 visualisation
 - [google/emitto](https://github.com/google/emitto) pushed_at:2019-07 star:0.0k fork:0.0k 
 - [google/emu-control](https://github.com/google/emu-control) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [google/ent](https://github.com/google/ent) pushed_at:2021-07 star:0.0k fork:0.0k 
+- [google/ent](https://github.com/google/ent) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/exposure-notifications-server](https://github.com/google/exposure-notifications-server) pushed_at:2021-10 star:2.1k fork:0.3k Exposure Notification Reference Server | Covid-19 Exposure Notifications
 - [google/exposure-notifications-verification-server](https://github.com/google/exposure-notifications-verification-server) pushed_at:2021-10 star:0.2k fork:0.1k Verification component for COVID-19 Exposure Notifications.
 - [google/fchan-go](https://github.com/google/fchan-go) pushed_at:2017-01 star:0.3k fork:0.0k Experimental channel implementation
@@ -668,31 +667,31 @@
 - [google/fury](https://github.com/google/fury) pushed_at:2017-06 star:0.0k fork:0.0k 
 - [google/gapid](https://github.com/google/gapid) pushed_at:2021-02 star:1.9k fork:0.3k Graphics API Debugger
 - [google/gerrit-linter](https://github.com/google/gerrit-linter) pushed_at:2020-02 star:0.0k fork:0.0k 
-- [google/git-appraise](https://github.com/google/git-appraise) pushed_at:2021-05 star:4.2k fork:0.1k Distributed code review system for Git repos
+- [google/git-appraise](https://github.com/google/git-appraise) pushed_at:2021-05 star:4.3k fork:0.1k Distributed code review system for Git repos
 - [google/git-phabricator-mirror](https://github.com/google/git-phabricator-mirror) pushed_at:2019-05 star:0.0k fork:0.0k Mirror source code metadata between git-notes and Phabricator
 - [google/git-pull-request-mirror](https://github.com/google/git-pull-request-mirror) pushed_at:2020-05 star:0.1k fork:0.0k Mirror pull requests into git-appraise
 - [google/gitprotocolio](https://github.com/google/gitprotocolio) pushed_at:2021-07 star:0.4k fork:0.0k A Git protocol parser written in Go.
-- [google/gnostic](https://github.com/google/gnostic) pushed_at:2021-10 star:1.0k fork:0.1k A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
+- [google/gnostic](https://github.com/google/gnostic) pushed_at:2021-10 star:1.1k fork:0.1k A compiler for APIs described by the OpenAPI Specification with plugins for code generation and other API support tasks.
 - [google/gnostic-go-generator](https://github.com/google/gnostic-go-generator) pushed_at:2020-10 star:0.0k fork:0.0k A gnostic plugin that generates Go clients and servers for REST APIs
 - [google/gnostic-grpc](https://github.com/google/gnostic-grpc) pushed_at:2021-10 star:0.1k fork:0.0k A gnostic plugin that converts an OpenAPI  API description into a description of a gRPC service that can be used to implement that API using gRPC-JSON Transcoding.
 - [google/gnxi](https://github.com/google/gnxi) pushed_at:2021-09 star:0.2k fork:0.1k gNXI Tools - gRPC Network Management/Operations Interface Tools
 - [google/go-attestation](https://github.com/google/go-attestation) pushed_at:2021-09 star:0.2k fork:0.0k 
 - [google/go-cabfile](https://github.com/google/go-cabfile) pushed_at:2019-02 star:0.0k fork:0.0k 
 - [google/go-circuits](https://github.com/google/go-circuits) pushed_at:2016-08 star:0.0k fork:0.0k 
-- [google/go-cloud](https://github.com/google/go-cloud) pushed_at:2021-09 star:8.0k fork:0.7k The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
+- [google/go-cloud](https://github.com/google/go-cloud) pushed_at:2021-10 star:8.0k fork:0.7k The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [google/go-cmdtest](https://github.com/google/go-cmdtest) pushed_at:2020-12 star:0.1k fork:0.0k This package simplifies testing of command-line interfaces.
-- [google/go-cmp](https://github.com/google/go-cmp) pushed_at:2021-09 star:2.5k fork:0.2k Package for comparing Go values in tests
+- [google/go-cmp](https://github.com/google/go-cmp) pushed_at:2021-10 star:2.5k fork:0.2k Package for comparing Go values in tests
 - [google/go-containerregistry](https://github.com/google/go-containerregistry) pushed_at:2021-10 star:1.3k fork:0.3k Go library and CLIs for working with container registries
 - [google/go-dap](https://github.com/google/go-dap) pushed_at:2021-09 star:0.1k fork:0.0k Go implementation of the Debug Adapter Protocol
 - [google/go-flow-levee](https://github.com/google/go-flow-levee) pushed_at:2021-07 star:0.1k fork:0.0k 
-- [google/go-github](https://github.com/google/go-github) pushed_at:2021-10 star:7.8k fork:1.6k Go library for accessing the GitHub API
+- [google/go-github](https://github.com/google/go-github) pushed_at:2021-10 star:7.9k fork:1.6k Go library for accessing the GitHub API
 - [google/go-intervals](https://github.com/google/go-intervals) pushed_at:2021-03 star:0.1k fork:0.0k A golang library for set operations on intervals, such as time ranges.
 - [google/go-jsonnet](https://github.com/google/go-jsonnet) pushed_at:2021-09 star:1.0k fork:0.1k 
 - [google/go-licenses](https://github.com/google/go-licenses) pushed_at:2021-10 star:0.4k fork:0.1k Reports on the licenses used by a Go package and its dependencies.
 - [google/go-metrics-stackdriver](https://github.com/google/go-metrics-stackdriver) pushed_at:2021-09 star:0.0k fork:0.0k This library provides a stackdriver sink for applications instrumented with the go-metrics library
 - [google/go-microservice-helpers](https://github.com/google/go-microservice-helpers) pushed_at:2019-02 star:0.4k fork:0.0k A collection of handy snippets that simplify creation of GRPC servers and clients
 - [google/go-patchutils](https://github.com/google/go-patchutils) pushed_at:2021-08 star:0.0k fork:0.0k go-patchutils is a library written in Go to show differences in source and diff files.
-- [google/go-pbmoney](https://github.com/google/go-pbmoney) pushed_at:2021-07 star:0.0k fork:0.0k Go utilities for google/type/money.proto
+- [google/go-pbmoney](https://github.com/google/go-pbmoney) pushed_at:2021-10 star:0.0k fork:0.0k Go utilities for google/type/money.proto
 - [google/go-pcie-screamer](https://github.com/google/go-pcie-screamer) pushed_at:2021-03 star:0.0k fork:0.0k Provides io.ReadWriter interface for a PCIe screamer device
 - [google/go-pcie-tlp](https://github.com/google/go-pcie-tlp) pushed_at:2021-03 star:0.0k fork:0.0k Builds and parses PCIe Transport Layer Packets (TLPs)
 - [google/go-querystring](https://github.com/google/go-querystring) pushed_at:2021-09 star:1.4k fork:0.1k go-querystring is Go library for encoding structs into URL query strings.
@@ -721,14 +720,14 @@
 - [google/google-ctf](https://github.com/google/google-ctf) pushed_at:2021-07 star:2.5k fork:0.4k Google CTF
 - [google/googlesource-auth-tools](https://github.com/google/googlesource-auth-tools) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [google/gopacket](https://github.com/google/gopacket) pushed_at:2021-09 star:4.4k fork:0.9k Provides packet processing capabilities for Go
-- [google/gops](https://github.com/google/gops) pushed_at:2021-09 star:5.3k fork:0.3k A tool to list and diagnose Go processes currently running on your system
+- [google/gops](https://github.com/google/gops) pushed_at:2021-10 star:5.3k fork:0.3k A tool to list and diagnose Go processes currently running on your system
 - [google/goterm](https://github.com/google/goterm) pushed_at:2020-09 star:0.2k fork:0.0k Go Terminal library with PTY support and colors
 - [google/gousb](https://github.com/google/gousb) pushed_at:2021-04 star:0.6k fork:0.1k gousb provides low-level interface for accessing USB devices
 - [google/gps_data_solutions](https://github.com/google/gps_data_solutions) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [google/grr_go_api_client](https://github.com/google/grr_go_api_client) pushed_at:2017-06 star:0.0k fork:0.0k 
 - [google/grr_go_client](https://github.com/google/grr_go_client) pushed_at:2017-06 star:0.0k fork:0.0k 
 - [google/grumpy](https://github.com/google/grumpy) pushed_at:2020-03 star:10.4k fork:0.7k Grumpy is a Python to Go source code transcompiler and runtime.
-- [google/gvisor](https://github.com/google/gvisor) pushed_at:2021-10 star:11.7k fork:1.0k Application Kernel for Containers
+- [google/gvisor](https://github.com/google/gvisor) pushed_at:2021-10 star:11.8k fork:1.0k Application Kernel for Containers
 - [google/gvisor-containerd-shim](https://github.com/google/gvisor-containerd-shim) pushed_at:2020-07 star:0.1k fork:0.0k containerd shim for gVisor
 - [google/gxui](https://github.com/google/gxui) pushed_at:2020-11 star:4.4k fork:0.3k An experimental Go cross platform UI library.
 - [google/helm-broker](https://github.com/google/helm-broker) pushed_at:2017-10 star:0.0k fork:0.0k 
@@ -742,14 +741,14 @@
 - [google/instrumentsToPprof](https://github.com/google/instrumentsToPprof) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [google/inverting-proxy](https://github.com/google/inverting-proxy) pushed_at:2021-09 star:0.2k fork:0.1k Reverse proxy that inverts the direction of traffic
 - [google/jsonapi](https://github.com/google/jsonapi) pushed_at:2021-04 star:1.2k fork:0.2k jsonapi.org style payload serializer and deserializer
-- [google/k8s-digester](https://github.com/google/k8s-digester) pushed_at:2021-07 star:0.0k fork:0.0k Add digests to container and init container images in Kubernetes pod and pod template specs. Use either as a mutating admission webhook, or as a client-side KRM function with kpt or kustomize.
+- [google/k8s-digester](https://github.com/google/k8s-digester) pushed_at:2021-10 star:0.0k fork:0.0k Add digests to container and init container images in Kubernetes pod and pod template specs. Use either as a mutating admission webhook, or as a client-side KRM function with kpt or kustomize.
 - [google/kctf](https://github.com/google/kctf) pushed_at:2021-09 star:0.4k fork:0.0k kCTF is a Kubernetes-based infrastructure for CTF competitions. For documentation, see
 - [google/keps](https://github.com/google/keps) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [google/keytransparency](https://github.com/google/keytransparency) pushed_at:2021-07 star:1.6k fork:0.2k A transparent and secure way to look up public keys.
 - [google/kilt](https://github.com/google/kilt) pushed_at:2020-11 star:0.0k fork:0.0k An experimental patchset management tool.
 - [google/knative-gcp](https://github.com/google/knative-gcp) pushed_at:2021-10 star:0.1k fork:0.1k GCP event implementations to use with Knative Eventing.
 - [google/kne](https://github.com/google/kne) pushed_at:2021-10 star:0.1k fork:0.0k 
-- [google/ko](https://github.com/google/ko) pushed_at:2021-10 star:3.2k fork:0.2k Build and deploy Go applications on Kubernetes
+- [google/ko](https://github.com/google/ko) pushed_at:2021-10 star:3.3k fork:0.2k Build and deploy Go applications on Kubernetes
 - [google/licensecheck](https://github.com/google/licensecheck) pushed_at:2021-04 star:0.3k fork:0.1k The licensecheck package classifies license files and heuristically determines how well they correspond to known open source licenses.
 - [google/licenseclassifier](https://github.com/google/licenseclassifier) pushed_at:2021-08 star:0.2k fork:0.1k A License Classifier
 - [google/link022](https://github.com/google/link022) pushed_at:2018-12 star:0.1k fork:0.0k Link022 - an open WiFi access point
@@ -805,7 +804,7 @@
 - [google/squidwarden](https://github.com/google/squidwarden) pushed_at:2016-11 star:0.1k fork:0.0k Frontend to squid to manage ACLs
 - [google/sredocs](https://github.com/google/sredocs) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [google/sshkey-audit](https://github.com/google/sshkey-audit) pushed_at:2019-01 star:0.1k fork:0.0k Automate SSH key management
-- [google/starlark-go](https://github.com/google/starlark-go) pushed_at:2021-09 star:1.4k fork:0.1k Starlark in Go: the Starlark configuration language, implemented in Go
+- [google/starlark-go](https://github.com/google/starlark-go) pushed_at:2021-10 star:1.4k fork:0.1k Starlark in Go: the Starlark configuration language, implemented in Go
 - [google/stenographer](https://github.com/google/stenographer) pushed_at:2021-07 star:1.6k fork:0.2k Stenographer is a packet capture solution which aims to quickly spool all packets to disk, then provide simple, fast access to subsets of those packets.  Discussion/announcements at stenographer@googlegroups.com
 - [google/streaming_hdp](https://github.com/google/streaming_hdp) pushed_at:2017-11 star:0.0k fork:0.0k 
 - [google/subcommands](https://github.com/google/subcommands) pushed_at:2021-09 star:0.6k fork:0.0k Go subcommand library.
@@ -816,14 +815,14 @@
 - [google/tiff](https://github.com/google/tiff) pushed_at:2019-11 star:0.0k fork:0.0k Go package for working with the file structure of a TIFF.
 - [google/todo-tracks](https://github.com/google/todo-tracks) pushed_at:2020-05 star:0.2k fork:0.0k Web dashboard for tracking the TODOs in a Git repo
 - [google/traceout](https://github.com/google/traceout) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [google/triage-party](https://github.com/google/triage-party) pushed_at:2021-08 star:0.4k fork:0.1k 🎉 Triage Party: massively multi-player GitHub triage 🎉
+- [google/triage-party](https://github.com/google/triage-party) pushed_at:2021-10 star:0.4k fork:0.1k 🎉 Triage Party: massively multi-player GitHub triage 🎉
 - [google/triemap](https://github.com/google/triemap) pushed_at:2020-06 star:0.0k fork:0.0k 
 - [google/trillian](https://github.com/google/trillian) pushed_at:2021-10 star:2.8k fork:0.3k A transparent, highly scalable and cryptographically verifiable data store.
-- [google/trillian-examples](https://github.com/google/trillian-examples) pushed_at:2021-10 star:0.1k fork:0.0k A place to store some examples which use Trillian APIs to build things.
+- [google/trillian-examples](https://github.com/google/trillian-examples) pushed_at:2021-10 star:0.1k fork:0.1k A place to store some examples which use Trillian APIs to build things.
 - [google/truestreet](https://github.com/google/truestreet) pushed_at:2020-09 star:0.0k fork:0.0k Prometheus adapter for Google Cloud Spanner 
 - [google/ts-bridge](https://github.com/google/ts-bridge) pushed_at:2021-10 star:0.0k fork:0.0k Time Series Bridge: a tool to import metrics from one monitoring system to another
 - [google/ubntools](https://github.com/google/ubntools) pushed_at:2020-12 star:0.0k fork:0.0k Tools to do fun things with ubiquity gear
-- [google/uuid](https://github.com/google/uuid) pushed_at:2021-08 star:3.1k fork:0.3k Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
+- [google/uuid](https://github.com/google/uuid) pushed_at:2021-10 star:3.1k fork:0.3k Go package for UUIDs based on RFC 4122 and DCE 1.1: Authentication and Security Services.
 - [google/vectorio](https://github.com/google/vectorio) pushed_at:2019-06 star:0.1k fork:0.0k Library for Go (golang) to implement writev system call (not an official Google product)
 - [google/vmregistry](https://github.com/google/vmregistry) pushed_at:2020-05 star:0.0k fork:0.0k VM Registry — manage and provision your VMs
 - [google/weasel](https://github.com/google/weasel) pushed_at:2021-10 star:0.1k fork:0.0k A simple frontend (App Engine app) that serves content from a Google Cloud Storage (GCS) bucket
@@ -832,7 +831,7 @@
 - [google/webpackager](https://github.com/google/webpackager) pushed_at:2021-10 star:0.1k fork:0.0k 
 - [google/webrisk](https://github.com/google/webrisk) pushed_at:2021-02 star:0.0k fork:0.0k 
 - [google/winops](https://github.com/google/winops) pushed_at:2021-10 star:0.1k fork:0.0k Small scripts and libraries for managing Windows in a corporate environment.
-- [google/wire](https://github.com/google/wire) pushed_at:2021-10 star:6.6k fork:0.3k Compile-time Dependency Injection for Go
+- [google/wire](https://github.com/google/wire) pushed_at:2021-10 star:6.7k fork:0.3k Compile-time Dependency Injection for Go
 - [google/xtoproto](https://github.com/google/xtoproto) pushed_at:2021-10 star:0.0k fork:0.0k Automatically generate a Protocol Buffer definition and csv-to-proto converter from an example CSV file. See website for interactive playground
 - [google/zoekt](https://github.com/google/zoekt) pushed_at:2021-09 star:1.4k fork:0.1k Fast trigram based code search  
 
@@ -902,7 +901,7 @@
 - [google/speaker-id](https://github.com/google/speaker-id) pushed_at:2021-10 star:0.1k fork:0.0k This repository contains audio samples and supplementary materials accompanying publications related to the speaker-id team at Google.
 - [google/speech_style_transfer](https://github.com/google/speech_style_transfer) pushed_at:2017-12 star:0.0k fork:0.0k 
 - [google/StrawNet](https://github.com/google/StrawNet) pushed_at:2021-01 star:0.0k fork:0.0k Audio samples accompanying StrawNet publication
-- [google/styleguide](https://github.com/google/styleguide) pushed_at:2021-09 star:28.9k fork:11.3k Style guides for Google-originated open-source projects
+- [google/styleguide](https://github.com/google/styleguide) pushed_at:2021-10 star:28.9k fork:11.3k Style guides for Google-originated open-source projects
 - [google/tacotron](https://github.com/google/tacotron) pushed_at:2021-09 star:0.5k fork:0.1k Audio samples accompanying publications related to Tacotron, an end-to-end speech synthesis model.
 - [google/trillian-website](https://github.com/google/trillian-website) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [google/typedoc-neo-theme](https://github.com/google/typedoc-neo-theme) pushed_at:2021-09 star:0.1k fork:0.0k 
@@ -918,24 +917,24 @@
 - [google/btls](https://github.com/google/btls) pushed_at:2018-12 star:0.0k fork:0.0k BoringSSL-backed TLS and cryptography library for Haskell
 - [google/clang-lens](https://github.com/google/clang-lens) pushed_at:2015-10 star:0.0k fork:0.0k 
 - [google/codeworld](https://github.com/google/codeworld) pushed_at:2021-09 star:1.2k fork:0.2k Educational computer programming environment using Haskell
-- [google/ghc-source-gen](https://github.com/google/ghc-source-gen) pushed_at:2021-08 star:0.1k fork:0.0k Library for generating Haskell source files and code fragments.
+- [google/ghc-source-gen](https://github.com/google/ghc-source-gen) pushed_at:2021-10 star:0.1k fork:0.0k Library for generating Haskell source files and code fragments.
 - [google/haskell-indexer](https://github.com/google/haskell-indexer) pushed_at:2020-06 star:0.1k fork:0.0k Emits code crossreference data for Haskell sources.
 - [google/haskell-trainings](https://github.com/google/haskell-trainings) pushed_at:2020-07 star:1.2k fork:0.1k Haskell 101 and 102: slides and codelabs
 - [google/hrepl](https://github.com/google/hrepl) pushed_at:2021-07 star:0.0k fork:0.0k Interactive development for Bazel/Haskell rules
-- [google/hs-attenuation](https://github.com/google/hs-attenuation) pushed_at:2021-09 star:0.0k fork:0.0k 
+- [google/hs-attenuation](https://github.com/google/hs-attenuation) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/hs-batching](https://github.com/google/hs-batching) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [google/hs-collate](https://github.com/google/hs-collate) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [google/hs-dependent-literals](https://github.com/google/hs-dependent-literals) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [google/hs-fin-vec](https://github.com/google/hs-fin-vec) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [google/hs-niche-containers](https://github.com/google/hs-niche-containers) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [google/hs-numeric-logarithms](https://github.com/google/hs-numeric-logarithms) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [google/hs-portray](https://github.com/google/hs-portray) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [google/hs-ten](https://github.com/google/hs-ten) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [google/hs-wrapped](https://github.com/google/hs-wrapped) pushed_at:2021-09 star:0.0k fork:0.0k 
+- [google/hs-dependent-literals](https://github.com/google/hs-dependent-literals) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [google/hs-fin-vec](https://github.com/google/hs-fin-vec) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [google/hs-niche-containers](https://github.com/google/hs-niche-containers) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [google/hs-numeric-logarithms](https://github.com/google/hs-numeric-logarithms) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [google/hs-portray](https://github.com/google/hs-portray) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [google/hs-ten](https://github.com/google/hs-ten) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [google/hs-wrapped](https://github.com/google/hs-wrapped) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/mlir-hs](https://github.com/google/mlir-hs) pushed_at:2021-10 star:0.0k fork:0.0k Haskell bindings for MLIR
 - [google/ormolu](https://github.com/google/ormolu) pushed_at:2021-02 star:0.0k fork:0.0k This is a fork of https://github.com/tweag/ormolu.
 - [google/orthotope](https://github.com/google/orthotope) pushed_at:2020-09 star:0.0k fork:0.0k 
-- [google/proto-lens](https://github.com/google/proto-lens) pushed_at:2021-09 star:0.4k fork:0.1k API for protocol buffers using modern Haskell language and library patterns.
+- [google/proto-lens](https://github.com/google/proto-lens) pushed_at:2021-10 star:0.4k fork:0.1k API for protocol buffers using modern Haskell language and library patterns.
 - [google/pull-request-mailer](https://github.com/google/pull-request-mailer) pushed_at:2014-12 star:0.0k fork:0.0k Sends a GitHub pull request as a patch series via email
 - [google/xscreensaver-dbus](https://github.com/google/xscreensaver-dbus) pushed_at:2020-12 star:0.0k fork:0.0k D-Bus interface for xscreensaver
 
@@ -959,7 +958,7 @@
 - [google/android-uiconductor](https://github.com/google/android-uiconductor) pushed_at:2021-10 star:0.1k fork:0.0k 
 - [google/AndroidForegroundCompat](https://github.com/google/AndroidForegroundCompat) pushed_at:2021-06 star:0.1k fork:0.0k Backported view foreground support for Android 5.0+
 - [google/AppUpdateTrackerLib](https://github.com/google/AppUpdateTrackerLib) pushed_at:2016-10 star:0.0k fork:0.0k 
-- [google/archive-patcher](https://github.com/google/archive-patcher) pushed_at:2021-09 star:0.4k fork:0.1k Automatically exported from code.google.com/p/archive-patcher
+- [google/archive-patcher](https://github.com/google/archive-patcher) pushed_at:2021-09 star:0.5k fork:0.1k Automatically exported from code.google.com/p/archive-patcher
 - [google/auto](https://github.com/google/auto) pushed_at:2021-10 star:9.4k fork:1.1k A collection of source code generators for Java.
 - [google/bamboo-soy](https://github.com/google/bamboo-soy) pushed_at:2021-09 star:0.0k fork:0.0k An intellij plugin supporting Closure Template language (Soy)
 - [google/binnavi](https://github.com/google/binnavi) pushed_at:2020-10 star:2.8k fork:0.5k BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code.
@@ -987,12 +986,12 @@
 - [google/codeu_project_2018](https://github.com/google/codeu_project_2018) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [google/compile-testing](https://github.com/google/compile-testing) pushed_at:2021-10 star:0.6k fork:0.1k Testing tools for javac and annotation processors
 - [google/connectedappssdk](https://github.com/google/connectedappssdk) pushed_at:2021-04 star:0.0k fork:0.0k 
-- [google/conscrypt](https://github.com/google/conscrypt) pushed_at:2021-09 star:0.9k fork:0.2k Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.
+- [google/conscrypt](https://github.com/google/conscrypt) pushed_at:2021-09 star:1.0k fork:0.2k Conscrypt is a Java Security Provider that implements parts of the Java Cryptography Extension and Java Secure Socket Extension.
 - [google/copybara](https://github.com/google/copybara) pushed_at:2021-10 star:1.2k fork:0.2k Copybara: A tool for transforming and moving code between repositories.
 - [google/cordova-plugin-browsertab](https://github.com/google/cordova-plugin-browsertab) pushed_at:2019-02 star:0.1k fork:0.1k A Cordova plugin that provides an interface to in-app browser tabs that exist on some mobile platforms, such as SFSafariViewController on iOS and CustomTabs on Android.
 - [google/creatine-ads-inspector](https://github.com/google/creatine-ads-inspector) pushed_at:2020-06 star:0.0k fork:0.0k Creatine is an open-source and scalable solution that runs on Google Cloud Platform, that can be used to store daily snapshots of a Google Ads account hierarchy and eventually monitor Ads disapproval over time.
 - [google/dagger](https://github.com/google/dagger) pushed_at:2021-10 star:16.3k fork:1.9k A fast dependency injector for Android and Java.
-- [google/dart2java](https://github.com/google/dart2java) pushed_at:2016-10 star:0.0k fork:0.0k 
+- [google/dart2java](https://github.com/google/dart2java) pushed_at:2016-10 star:0.1k fork:0.0k 
 - [google/data-transfer-project](https://github.com/google/data-transfer-project) pushed_at:2021-10 star:3.2k fork:0.3k The Data Transfer Project makes it easy for people to transfer their data between online service providers. We are establishing a common framework, including data models and protocols, to enable direct transfer of data both into and out of participating online service providers.
 - [google/depan](https://github.com/google/depan) pushed_at:2021-08 star:0.1k fork:0.0k DepAn is a direct manipulation tool for visualization, analysis, and refactoring of dependencies in large applications.
 - [google/desugar_jdk_libs](https://github.com/google/desugar_jdk_libs) pushed_at:2021-10 star:0.1k fork:0.0k 
@@ -1007,7 +1006,7 @@
 - [google/error-prone](https://github.com/google/error-prone) pushed_at:2021-10 star:5.7k fork:0.6k Catch common Java mistakes as compile-time errors
 - [google/error-prone-javac](https://github.com/google/error-prone-javac) pushed_at:2019-04 star:0.0k fork:0.0k A mirror of the OpenJDK langtools repository
 - [google/escapevelocity](https://github.com/google/escapevelocity) pushed_at:2021-09 star:0.0k fork:0.0k A subset reimplementation of Apache Velocity with a much simpler API.
-- [google/ExoPlayer](https://github.com/google/ExoPlayer) pushed_at:2021-10 star:18.3k fork:5.4k An extensible media player for Android
+- [google/ExoPlayer](https://github.com/google/ExoPlayer) pushed_at:2021-10 star:18.4k fork:5.4k An extensible media player for Android
 - [google/experience-accessibility](https://github.com/google/experience-accessibility) pushed_at:2021-05 star:0.0k fork:0.0k Experience accessibility from the perspective of users with diverse accessibility needs.
 - [google/exposure-notifications-android](https://github.com/google/exposure-notifications-android) pushed_at:2021-09 star:0.5k fork:0.1k Exposure Notifications Android Reference Design
 - [google/exposure-notifications-internals](https://github.com/google/exposure-notifications-internals) pushed_at:2021-09 star:0.1k fork:0.0k This repository contains snippets of code that show how the Exposure Notifications API works inside the Google Play services layer.
@@ -1027,17 +1026,17 @@
 - [google/google-api-java-client-samples](https://github.com/google/google-api-java-client-samples) pushed_at:2020-11 star:0.7k fork:1.1k 
 - [google/google-authenticator](https://github.com/google/google-authenticator) pushed_at:2020-09 star:4.7k fork:0.9k Open source version of Google Authenticator (except the Android app)
 - [google/google-authenticator-android](https://github.com/google/google-authenticator-android) pushed_at:2020-06 star:1.4k fork:0.4k Open source fork of the Google Authenticator Android app
-- [google/google-java-format](https://github.com/google/google-java-format) pushed_at:2021-09 star:4.1k fork:0.7k Reformats Java source code to comply with Google Java Style.
+- [google/google-java-format](https://github.com/google/google-java-format) pushed_at:2021-09 star:4.2k fork:0.7k Reformats Java source code to comply with Google Java Style.
 - [google/google-my-business-samples](https://github.com/google/google-my-business-samples) pushed_at:2021-05 star:0.1k fork:0.1k Code samples in various languages for the Google My Business API.
 - [google/google-visualization-java](https://github.com/google/google-visualization-java) pushed_at:2018-07 star:0.0k fork:0.0k Automatically exported from code.google.com/p/google-visualization-java
 - [google/googletv-android-samples](https://github.com/google/googletv-android-samples) pushed_at:2019-01 star:0.2k fork:0.1k Source for many GoogleTV Example applications.
 - [google/gps-measurement-tools](https://github.com/google/gps-measurement-tools) pushed_at:2021-09 star:0.5k fork:0.3k 
-- [google/grafika](https://github.com/google/grafika) pushed_at:2020-05 star:5.3k fork:1.3k Grafika test app
+- [google/grafika](https://github.com/google/grafika) pushed_at:2020-05 star:5.4k fork:1.3k Grafika test app
 - [google/graphicsfuzz](https://github.com/google/graphicsfuzz) pushed_at:2021-10 star:0.5k fork:0.1k A testing framework for automatically finding and simplifying bugs in graphics shader compilers.
 - [google/ground-android](https://github.com/google/ground-android) pushed_at:2021-10 star:0.1k fork:0.1k Ground mobile data collection app for Android
 - [google/grpc-java-bazel-minimal](https://github.com/google/grpc-java-bazel-minimal) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [google/gson](https://github.com/google/gson) pushed_at:2021-10 star:20.1k fork:3.9k A Java serialization/deserialization library to convert Java Objects into JSON and back
-- [google/guava](https://github.com/google/guava) pushed_at:2021-10 star:42.5k fork:9.4k Google core libraries for Java
+- [google/guava](https://github.com/google/guava) pushed_at:2021-10 star:42.6k fork:9.4k Google core libraries for Java
 - [google/guava-beta-checker](https://github.com/google/guava-beta-checker) pushed_at:2021-04 star:0.1k fork:0.0k 
 - [google/guice](https://github.com/google/guice) pushed_at:2021-10 star:10.5k fork:1.5k Guice (pronounced 'juice') is a lightweight dependency injection framework for Java 6 and above, brought to you by Google.
 - [google/guice-aqueduct](https://github.com/google/guice-aqueduct) pushed_at:2021-06 star:0.0k fork:0.0k Guice binder to configure Chained instances to form a pipeline
@@ -1056,14 +1055,13 @@
 - [google/intellij-protocol-buffer-editor](https://github.com/google/intellij-protocol-buffer-editor) pushed_at:2019-08 star:0.0k fork:0.0k Protocol Buffers support for IntelliJ
 - [google/ios-device-control](https://github.com/google/ios-device-control) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [google/j2cl](https://github.com/google/j2cl) pushed_at:2021-10 star:0.8k fork:0.1k Java to Closure JavaScript transpiler
-- [google/j2cl-protobuf](https://github.com/google/j2cl-protobuf) pushed_at:2021-09 star:0.0k fork:0.0k Protocol Buffers implementation for J2CL
 - [google/j2objc](https://github.com/google/j2objc) pushed_at:2021-10 star:5.8k fork:0.9k A Java to iOS Objective-C translation tool and runtime.
 - [google/jarjar](https://github.com/google/jarjar) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [google/java-monitoring-client-library](https://github.com/google/java-monitoring-client-library) pushed_at:2021-04 star:0.1k fork:0.0k A java idiomatic monitoring client for collecting metrics 
 - [google/java-photoslibrary](https://github.com/google/java-photoslibrary) pushed_at:2021-09 star:0.1k fork:0.1k Java client library for the Google Photos Library API
 - [google/java-sourcetools](https://github.com/google/java-sourcetools) pushed_at:2021-06 star:0.0k fork:0.0k Automatically exported from code.google.com/p/java-sourcetools
 - [google/java-thread-sanitizer](https://github.com/google/java-thread-sanitizer) pushed_at:2014-09 star:0.1k fork:0.0k 
-- [google/jimfs](https://github.com/google/jimfs) pushed_at:2021-09 star:2.0k fork:0.2k An in-memory file system for Java 7+
+- [google/jimfs](https://github.com/google/jimfs) pushed_at:2021-09 star:2.1k fork:0.2k An in-memory file system for Java 7+
 - [google/jse4conf](https://github.com/google/jse4conf) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [google/jsinterop-annotations](https://github.com/google/jsinterop-annotations) pushed_at:2021-02 star:0.0k fork:0.0k JsInterop java annotations for J2CL and GWT
 - [google/jsinterop-base](https://github.com/google/jsinterop-base) pushed_at:2021-09 star:0.1k fork:0.0k Utilities for GWT and J2CL to interact with JavaScript beyond JsInterop
@@ -1071,7 +1069,7 @@
 - [google/jsontoken](https://github.com/google/jsontoken) pushed_at:2021-05 star:0.0k fork:0.0k Automatically exported from code.google.com/p/jsontoken
 - [google/keytransparency-java](https://github.com/google/keytransparency-java) pushed_at:2017-08 star:0.0k fork:0.0k The Java Client for Key Transparency
 - [google/kiwi-solver](https://github.com/google/kiwi-solver) pushed_at:2019-06 star:0.0k fork:0.0k Kiwi is a minimalist and extendable Constraint Programming (CP) solver.
-- [google/LiquidFunPaint](https://github.com/google/LiquidFunPaint) pushed_at:2016-08 star:0.1k fork:0.1k 
+- [google/LiquidFunPaint](https://github.com/google/LiquidFunPaint) pushed_at:2016-08 star:0.2k fork:0.1k 
 - [google/live-transcribe-speech-engine](https://github.com/google/live-transcribe-speech-engine) pushed_at:2021-04 star:1.2k fork:0.2k Live Transcribe is an Android application that provides real-time captioning for people who are deaf or hard of hearing. This repository contains the Android client libraries for communicating with Google's Cloud Speech API that are used in Live Transcribe.
 - [google/mail-importer](https://github.com/google/mail-importer) pushed_at:2020-11 star:0.2k fork:0.1k Mail Importer for Gmail will upload the contents of a Thunderbird mail archive to Gmail and do its best to preserve the read state, flagged state, and folders of the messages.
 - [google/martian-java](https://github.com/google/martian-java) pushed_at:2021-06 star:0.0k fork:0.0k Configure a Martian Proxy from Java
@@ -1085,7 +1083,7 @@
 - [google/nel-reporter-java](https://github.com/google/nel-reporter-java) pushed_at:2021-06 star:0.0k fork:0.0k Network Error Logging (NEL) Java Reporter
 - [google/nfc-smart-tag](https://github.com/google/nfc-smart-tag) pushed_at:2015-03 star:0.0k fork:0.0k Automatically exported from code.google.com/p/nfc-smart-tag
 - [google/nomulus](https://github.com/google/nomulus) pushed_at:2021-10 star:1.5k fork:0.2k Top-level domain name registry service on Google App Engine
-- [google/open-location-code](https://github.com/google/open-location-code) pushed_at:2021-07 star:3.5k fork:0.4k Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
+- [google/open-location-code](https://github.com/google/open-location-code) pushed_at:2021-10 star:3.5k fork:0.4k Open Location Code is a library to generate short codes, called "plus codes", that can be used as digital addresses where street addresses don't exist.
 - [google/openjdk-kerberos](https://github.com/google/openjdk-kerberos) pushed_at:2019-06 star:0.0k fork:0.0k 
 - [google/openrtb](https://github.com/google/openrtb) pushed_at:2021-07 star:0.4k fork:0.2k OpenRTB model for Java and other languages via protobuf; Helper OpenRTB libraries for Java including JSON serialization
 - [google/openrtb-doubleclick](https://github.com/google/openrtb-doubleclick) pushed_at:2021-07 star:0.2k fork:0.1k Utilities for DoubleClick Ad Exchange, including OpenRTB mapping, DoubleClick cryptography, metadata and validation
@@ -1104,7 +1102,7 @@
 - [google/polymorphicDSL](https://github.com/google/polymorphicDSL) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/protobuf-dt](https://github.com/google/protobuf-dt) pushed_at:2018-12 star:0.0k fork:0.0k 
 - [google/rally](https://github.com/google/rally) pushed_at:2018-05 star:0.0k fork:0.0k 
-- [google/re2j](https://github.com/google/re2j) pushed_at:2021-07 star:1.0k fork:0.1k linear time regular expression matching in Java
+- [google/re2j](https://github.com/google/re2j) pushed_at:2021-10 star:1.0k fork:0.1k linear time regular expression matching in Java
 - [google/reagera](https://github.com/google/reagera) pushed_at:2016-05 star:0.0k fork:0.0k Minimal implementation of predictable state in Java, inspired by Elm and Redux.
 - [google/Refaster](https://github.com/google/Refaster) pushed_at:2015-12 star:0.1k fork:0.0k 
 - [google/rejoiner](https://github.com/google/rejoiner) pushed_at:2021-06 star:3.4k fork:0.1k Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources
@@ -1238,7 +1236,7 @@
 - [google/device-access-sample-web-app](https://github.com/google/device-access-sample-web-app) pushed_at:2020-12 star:0.0k fork:0.0k 
 - [google/devtoolsExtended](https://github.com/google/devtoolsExtended) pushed_at:2013-10 star:0.1k fork:0.0k devtoolsExtended: Extended Chrome Devtools in a Chrome Extension
 - [google/dicomParser](https://github.com/google/dicomParser) pushed_at:2017-12 star:0.0k fork:0.0k JavaScript parser for DICOM Part 10 data
-- [google/docsy](https://github.com/google/docsy) pushed_at:2021-10 star:1.3k fork:0.5k A set of Hugo doc templates for launching open source content.
+- [google/docsy](https://github.com/google/docsy) pushed_at:2021-10 star:1.4k fork:0.5k A set of Hugo doc templates for launching open source content.
 - [google/dorusu-js](https://github.com/google/dorusu-js) pushed_at:2016-09 star:0.0k fork:0.0k This repository is no longer maintained. Please see https://github.com/grpc/grpc-node which is now aims to provide a pure js gRPC library as well.
 - [google/ds-trix-addon](https://github.com/google/ds-trix-addon) pushed_at:2018-04 star:0.0k fork:0.0k 
 - [google/dualhttp](https://github.com/google/dualhttp) pushed_at:2016-09 star:0.0k fork:0.0k Render your page with cached data, then fetch up-to-date data from server and update the page.
@@ -1250,7 +1248,7 @@
 - [google/dv360_feature_adoption](https://github.com/google/dv360_feature_adoption) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [google/earthengine-api](https://github.com/google/earthengine-api) pushed_at:2021-10 star:1.6k fork:0.7k Python and JavaScript bindings for calling the Earth Engine API.
 - [google/easy-grid](https://github.com/google/easy-grid) pushed_at:2019-03 star:0.0k fork:0.0k easy-grid is a React component factory that provides a declarative layout mechanism for utilizing CSS grid layouts.
-- [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) pushed_at:2021-09 star:3.4k fork:0.2k A high performance blog template for the 11ty static site generator.
+- [google/eleventy-high-performance-blog](https://github.com/google/eleventy-high-performance-blog) pushed_at:2021-10 star:3.4k fork:0.2k A high performance blog template for the 11ty static site generator.
 - [google/eme-encryption-scheme-polyfill](https://github.com/google/eme-encryption-scheme-polyfill) pushed_at:2021-05 star:0.0k fork:0.0k A polyfill to add support for EncryptionScheme queries in EME and MediaCapabilities.
 - [google/eme_logger](https://github.com/google/eme_logger) pushed_at:2018-10 star:0.0k fork:0.0k 
 - [google/end-to-end](https://github.com/google/end-to-end) pushed_at:2020-05 star:4.0k fork:0.3k End-To-End is a crypto library to encrypt, decrypt, digital sign, and verify signed messages (implementing OpenPGP)
@@ -1287,6 +1285,7 @@
 - [google/inspectorspacetime](https://github.com/google/inspectorspacetime) pushed_at:2021-09 star:0.1k fork:0.0k Inject motion specs into reference video to become an engineer's best friend
 - [google/instant-hangouts](https://github.com/google/instant-hangouts) pushed_at:2016-08 star:0.2k fork:0.1k Easily add Google+ Hangouts to any web page.
 - [google/ioweb2015](https://github.com/google/ioweb2015) pushed_at:2018-10 star:0.7k fork:0.1k I/O Web App 2015
+- [google/j2cl-protobuf](https://github.com/google/j2cl-protobuf) pushed_at:2021-10 star:0.0k fork:0.0k Protocol Buffers implementation for J2CL
 - [google/jsaction](https://github.com/google/jsaction) pushed_at:2021-04 star:1.0k fork:0.1k JsAction is a small event delegation library that decouples event binding from the code that can handle the event.
 - [google/jscin](https://github.com/google/jscin) pushed_at:2017-08 star:0.0k fork:0.0k Automatically exported from code.google.com/p/jscin
 - [google/karma-webkit-launcher](https://github.com/google/karma-webkit-launcher) pushed_at:2021-09 star:0.0k fork:0.0k 
@@ -1299,7 +1298,7 @@
 - [google/lipsync](https://github.com/google/lipsync) pushed_at:2020-07 star:0.1k fork:0.0k 
 - [google/lovefield](https://github.com/google/lovefield) pushed_at:2021-08 star:6.7k fork:0.4k Lovefield is a relational database for web apps. Written in JavaScript, works cross-browser. Provides SQL-like APIs that are fast, safe, and easy to use.
 - [google/marzipano](https://github.com/google/marzipano) pushed_at:2021-09 star:1.5k fork:0.8k A 360° media viewer for the modern web.
-- [google/mathsteps](https://github.com/google/mathsteps) pushed_at:2021-08 star:1.8k fork:0.2k Step by step math solutions for everyone
+- [google/mathsteps](https://github.com/google/mathsteps) pushed_at:2021-08 star:1.8k fork:0.3k Step by step math solutions for everyone
 - [google/meet-on-fhir](https://github.com/google/meet-on-fhir) pushed_at:2020-09 star:0.0k fork:0.0k Google Meet SMART on FHIR reference implementation
 - [google/module-server](https://github.com/google/module-server) pushed_at:2015-08 star:0.6k fork:0.1k module-server
 - [google/mweb-analysis-tools](https://github.com/google/mweb-analysis-tools) pushed_at:2021-06 star:0.0k fork:0.0k 
@@ -1319,7 +1318,7 @@
 - [google/payjs](https://github.com/google/payjs) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [google/pepper.js](https://github.com/google/pepper.js) pushed_at:2016-08 star:0.3k fork:0.1k Pepper applications as Native Client or JavaScript
 - [google/percy-node](https://github.com/google/percy-node) pushed_at:2021-09 star:0.0k fork:0.0k Utilities for visual regression testing in node based testing setups (like Protractor) for use with percy.io
-- [google/pprof-nodejs](https://github.com/google/pprof-nodejs) pushed_at:2021-09 star:0.1k fork:0.0k pprof support for Node.js
+- [google/pprof-nodejs](https://github.com/google/pprof-nodejs) pushed_at:2021-10 star:0.1k fork:0.0k pprof support for Node.js
 - [google/prerender-test](https://github.com/google/prerender-test) pushed_at:2017-03 star:0.0k fork:0.0k 
 - [google/processingjs-ide](https://github.com/google/processingjs-ide) pushed_at:2020-09 star:0.0k fork:0.0k A lightweight browser-based IDE for Processing.js with Japanese translation
 - [google/pulito](https://github.com/google/pulito) pushed_at:2019-09 star:0.0k fork:0.0k Conventions and structure for a Vanilla JS application with a supporting webpack config.
@@ -1336,7 +1335,7 @@
 - [google/schemarama](https://github.com/google/schemarama) pushed_at:2021-06 star:0.1k fork:0.0k 
 - [google/semantic-locators](https://github.com/google/semantic-locators) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/service-worker-detector](https://github.com/google/service-worker-detector) pushed_at:2021-09 star:0.1k fork:0.0k This extension detects if a website registers a Service Worker.
-- [google/shaka-player](https://github.com/google/shaka-player) pushed_at:2021-10 star:5.2k fork:1.0k JavaScript player library / DASH & HLS client / MSE-EME player
+- [google/shaka-player](https://github.com/google/shaka-player) pushed_at:2021-10 star:5.3k fork:1.1k JavaScript player library / DASH & HLS client / MSE-EME player
 - [google/shenzhen-go](https://github.com/google/shenzhen-go) pushed_at:2021-06 star:0.5k fork:0.0k Experimental visual Go environment
 - [google/site-kit-wp](https://github.com/google/site-kit-wp) pushed_at:2021-10 star:1.1k fork:0.2k Site Kit is a one-stop solution for WordPress users to use everything Google has to offer to make them successful on the web.
 - [google/sketch2ae](https://github.com/google/sketch2ae) pushed_at:2021-08 star:0.4k fork:0.0k Editable After Effects layers from Sketch artboards
@@ -1356,7 +1355,7 @@
 - [google/tsviewdb](https://github.com/google/tsviewdb) pushed_at:2013-09 star:0.1k fork:0.0k High-performance storage and graphing web service for time-series of time-series.
 - [google/turing-doodle](https://github.com/google/turing-doodle) pushed_at:2014-09 star:0.2k fork:0.1k 
 - [google/tweakr](https://github.com/google/tweakr) pushed_at:2021-06 star:0.0k fork:0.0k A Library for Remote Debugging, Autogenerating Settings/Preference UIs, and Wizard-of-Ozing
-- [google/u2f-ref-code](https://github.com/google/u2f-ref-code) pushed_at:2021-08 star:0.5k fork:0.2k U2F reference implementations
+- [google/u2f-ref-code](https://github.com/google/u2f-ref-code) pushed_at:2021-08 star:0.6k fork:0.2k U2F reference implementations
 - [google/vapso](https://github.com/google/vapso) pushed_at:2019-01 star:0.0k fork:0.0k 
 - [google/virtual-authenticators-tab](https://github.com/google/virtual-authenticators-tab) pushed_at:2021-04 star:0.1k fork:0.0k Debug webauthn with a chrome extension that adds a virtual authenticators tab to devtools
 - [google/virtualdesktops-extension](https://github.com/google/virtualdesktops-extension) pushed_at:2018-06 star:0.0k fork:0.0k 
@@ -1367,7 +1366,7 @@
 - [google/vsaq](https://github.com/google/vsaq) pushed_at:2021-01 star:0.7k fork:0.2k VSAQ is an interactive questionnaire application to assess the security programs of third parties.
 - [google/wayback-machine-button](https://github.com/google/wayback-machine-button) pushed_at:2020-03 star:0.0k fork:0.0k Chrome extension to reopen the current page in the Wayback Machine
 - [google/web-activities](https://github.com/google/web-activities) pushed_at:2019-05 star:0.0k fork:0.0k 
-- [google/web-hv](https://github.com/google/web-hv) pushed_at:2021-06 star:0.0k fork:0.0k A web based tool for inspecting UI of an in-development android app
+- [google/web-hv](https://github.com/google/web-hv) pushed_at:2021-10 star:0.0k fork:0.0k A web based tool for inspecting UI of an in-development android app
 - [google/web-stories-wp](https://github.com/google/web-stories-wp) pushed_at:2021-10 star:0.6k fork:0.2k Web Stories for WordPress
 - [google/wicked-good-xpath](https://github.com/google/wicked-good-xpath) pushed_at:2020-09 star:0.3k fork:0.1k Pure JS implementation of the DOM Level 3 XPath specification
 - [google/wikiloop-wikidata-game](https://github.com/google/wikiloop-wikidata-game) pushed_at:2019-11 star:0.0k fork:0.0k 
@@ -1383,7 +1382,7 @@
 
 - [google/android-management-api-samples](https://github.com/google/android-management-api-samples) pushed_at:2020-06 star:0.0k fork:0.0k 
 - [google/applied-machine-learning-intensive](https://github.com/google/applied-machine-learning-intensive) pushed_at:2021-04 star:0.1k fork:0.1k Applied Machine Learning Intensive
-- [google/automl](https://github.com/google/automl) pushed_at:2021-09 star:4.7k fork:1.2k Google Brain AutoML
+- [google/automl](https://github.com/google/automl) pushed_at:2021-10 star:4.7k fork:1.2k Google Brain AutoML
 - [google/brax](https://github.com/google/brax) pushed_at:2021-10 star:0.9k fork:0.1k Massively parallel rigidbody physics simulation on accelerator hardware.
 - [google/carfac](https://github.com/google/carfac) pushed_at:2021-06 star:0.1k fork:0.0k Cascade of Asymmetric Resonators with Fast-Acting Compression cochlear model.
 - [google/CommonLoopUtils](https://github.com/google/CommonLoopUtils) pushed_at:2021-09 star:0.1k fork:0.0k CLU lets you write beautiful training loops in JAX.
@@ -1403,13 +1402,13 @@
 - [google/hashtable-benchmarks](https://github.com/google/hashtable-benchmarks) pushed_at:2021-06 star:0.1k fork:0.0k 
 - [google/intelligent_annotation_dialogs](https://github.com/google/intelligent_annotation_dialogs) pushed_at:2018-02 star:0.0k fork:0.0k 
 - [google/jax-cfd](https://github.com/google/jax-cfd) pushed_at:2021-10 star:0.1k fork:0.0k Computational Fluid Dynamics in JAX
-- [google/jax-md](https://github.com/google/jax-md) pushed_at:2021-09 star:0.5k fork:0.1k Differentiable, Hardware Accelerated, Molecular Dynamics
+- [google/jax-md](https://github.com/google/jax-md) pushed_at:2021-10 star:0.5k fork:0.1k Differentiable, Hardware Accelerated, Molecular Dynamics
 - [google/lecam-gan](https://github.com/google/lecam-gan) pushed_at:2021-04 star:0.1k fork:0.0k Regularizing Generative Adversarial Networks under Limited Data (CVPR 2021)
 - [google/lifetime_value](https://github.com/google/lifetime_value) pushed_at:2020-11 star:0.1k fork:0.0k 
 - [google/maddpg-replication](https://github.com/google/maddpg-replication) pushed_at:2018-06 star:0.0k fork:0.0k 
 - [google/making_with_ml](https://github.com/google/making_with_ml) pushed_at:2021-10 star:0.2k fork:0.1k 
 - [google/mediapy](https://github.com/google/mediapy) pushed_at:2021-07 star:0.3k fork:0.0k This Python library makes it easy to display images and videos in a notebook.
-- [google/meterstick](https://github.com/google/meterstick) pushed_at:2021-09 star:0.1k fork:0.0k A concise syntax to describe and execute routine data analysis tasks
+- [google/meterstick](https://github.com/google/meterstick) pushed_at:2021-10 star:0.1k fork:0.0k A concise syntax to describe and execute routine data analysis tasks
 - [google/modem](https://github.com/google/modem) pushed_at:2020-10 star:0.0k fork:0.0k 
 - [google/music-synthesizer-for-android](https://github.com/google/music-synthesizer-for-android) pushed_at:2018-11 star:0.3k fork:0.1k Automatically exported from code.google.com/p/music-synthesizer-for-android
 - [google/neural-tangents](https://github.com/google/neural-tangents) pushed_at:2021-10 star:1.6k fork:0.2k Fast and Easy Infinite Neural Networks in Python
@@ -1438,7 +1437,8 @@
 
 ## Kotlin
 
-- [google/accompanist](https://github.com/google/accompanist) pushed_at:2021-10 star:3.2k fork:0.2k A collection of extension libraries for Jetpack Compose
+- [google/accompanist](https://github.com/google/accompanist) pushed_at:2021-10 star:3.3k fork:0.2k A collection of extension libraries for Jetpack Compose
+- [google/android-auto-companion-android](https://github.com/google/android-auto-companion-android) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/android-fhir](https://github.com/google/android-fhir) pushed_at:2021-10 star:0.1k fork:0.1k The Android FHIR SDK is a Kotlin library for building offline-capable, mobile-first healthcare applications using FHIR resources on Android.
 - [google/basicbokeh](https://github.com/google/basicbokeh) pushed_at:2019-02 star:0.0k fork:0.0k 
 - [google/chromeosnavigationdemo](https://github.com/google/chromeosnavigationdemo) pushed_at:2019-05 star:0.0k fork:0.0k 
@@ -1446,7 +1446,7 @@
 - [google/errorprone-rest-plugin](https://github.com/google/errorprone-rest-plugin) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [google/evergreen-checker](https://github.com/google/evergreen-checker) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/fastboot-mobile](https://github.com/google/fastboot-mobile) pushed_at:2018-06 star:0.0k fork:0.0k Android library for sending fastboot commands from an Android device to a device running fastboot.
-- [google/flexbox-layout](https://github.com/google/flexbox-layout) pushed_at:2021-10 star:17.0k fork:1.8k Flexbox for Android 
+- [google/flexbox-layout](https://github.com/google/flexbox-layout) pushed_at:2021-10 star:17.1k fork:1.8k Flexbox for Android 
 - [google/grpc-kapt](https://github.com/google/grpc-kapt) pushed_at:2019-08 star:0.0k fork:0.0k Annotation driven gRPC clients & servers in Kotlin
 - [google/ide-perf](https://github.com/google/ide-perf) pushed_at:2021-09 star:0.0k fork:0.0k An IntelliJ plugin for analyzing the performance of the IDE itself
 - [google/intellij-gn-plugin](https://github.com/google/intellij-gn-plugin) pushed_at:2021-09 star:0.0k fork:0.0k 
@@ -1458,7 +1458,7 @@
 - [google/peg-typed](https://github.com/google/peg-typed) pushed_at:2020-07 star:0.0k fork:0.0k 
 - [google/playhvz](https://github.com/google/playhvz) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [google/prefab](https://github.com/google/prefab) pushed_at:2021-08 star:0.1k fork:0.0k Prefab is a tool for generating build system integrations for prebuilt C/C++ libraries.
-- [google/secrets-gradle-plugin](https://github.com/google/secrets-gradle-plugin) pushed_at:2021-09 star:0.2k fork:0.0k A Gradle plugin for providing your secrets to your Android project.
+- [google/secrets-gradle-plugin](https://github.com/google/secrets-gradle-plugin) pushed_at:2021-09 star:0.3k fork:0.0k A Gradle plugin for providing your secrets to your Android project.
 - [google/ui-exp-dg](https://github.com/google/ui-exp-dg) pushed_at:2021-07 star:0.0k fork:0.0k Dumping ground for some experiments with UI technologies, Swift, Kotlin, Dart, iOS, Web, etc
 - [google/where-am-i](https://github.com/google/where-am-i) pushed_at:2021-09 star:0.0k fork:0.0k Wear OS Complication to tell you your current GPS location
 - [google/zsldemo](https://github.com/google/zsldemo) pushed_at:2019-03 star:0.0k fork:0.0k 
@@ -1484,7 +1484,7 @@
 
 - [google/bband-adaband](https://github.com/google/bband-adaband) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [google/context-expression-nature-study](https://github.com/google/context-expression-nature-study) pushed_at:2020-10 star:0.0k fork:0.0k 
-- [google/ffcc](https://github.com/google/ffcc) pushed_at:2021-04 star:0.1k fork:0.1k Fast Fourier Color Constancy: an auto white balance solution with machine learning in Fourier space
+- [google/ffcc](https://github.com/google/ffcc) pushed_at:2021-04 star:0.2k fork:0.1k Fast Fourier Color Constancy: an auto white balance solution with machine learning in Fourier space
 - [google/RED](https://github.com/google/RED) pushed_at:2021-10 star:0.1k fork:0.0k RED - Regularization by Denoising
 
 ## Makefile
@@ -1506,11 +1506,11 @@
 - [google/eDistantObject](https://github.com/google/eDistantObject) pushed_at:2021-08 star:0.1k fork:0.0k  eDistantObject (eDO) - Remote invocation library for iOS
 - [google/functional-objc](https://github.com/google/functional-objc) pushed_at:2018-07 star:0.3k fork:0.0k Functional operators for Objective-C
 - [google/gdata-objectivec-client](https://github.com/google/gdata-objectivec-client) pushed_at:2018-09 star:0.2k fork:0.1k Google Data APIs Objective-C Client Library
-- [google/google-api-objectivec-client-for-rest](https://github.com/google/google-api-objectivec-client-for-rest) pushed_at:2021-09 star:0.6k fork:0.3k Google APIs Client Library for Objective-C for REST
+- [google/google-api-objectivec-client-for-rest](https://github.com/google/google-api-objectivec-client-for-rest) pushed_at:2021-10 star:0.6k fork:0.3k Google APIs Client Library for Objective-C for REST
 - [google/google-toolbox-for-mac](https://github.com/google/google-toolbox-for-mac) pushed_at:2021-08 star:1.0k fork:0.3k Google Toolbox for Mac
 - [google/GoogleDataTransport](https://github.com/google/GoogleDataTransport) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/GoogleSignIn-iOS](https://github.com/google/GoogleSignIn-iOS) pushed_at:2021-10 star:0.1k fork:0.0k Enables iOS apps to sign in with Google.
-- [google/GoogleUtilities](https://github.com/google/GoogleUtilities) pushed_at:2021-09 star:0.0k fork:0.0k 
+- [google/GoogleUtilities](https://github.com/google/GoogleUtilities) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/GSCXScanner](https://github.com/google/GSCXScanner) pushed_at:2021-02 star:0.1k fork:0.0k iOS Accessibility Scanner
 - [google/gtm-http-fetcher](https://github.com/google/gtm-http-fetcher) pushed_at:2020-09 star:0.1k fork:0.0k Google Toolbox for Mac - HTTP Fetcher
 - [google/gtm-oauth](https://github.com/google/gtm-oauth) pushed_at:2016-12 star:0.0k fork:0.0k Google Toolbox for Mac - OAuth Controllers
@@ -1530,7 +1530,7 @@
 - [google/macops-planb](https://github.com/google/macops-planb) pushed_at:2021-02 star:0.1k fork:0.0k Plan B is a remediation program for managed Macs
 - [google/paco](https://github.com/google/paco) pushed_at:2020-06 star:0.3k fork:0.1k The Paco behavioral science mobile research platform
 - [google/pods-helper](https://github.com/google/pods-helper) pushed_at:2015-10 star:0.0k fork:0.0k 
-- [google/promises](https://github.com/google/promises) pushed_at:2021-05 star:3.5k fork:0.2k Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
+- [google/promises](https://github.com/google/promises) pushed_at:2021-05 star:3.5k fork:0.3k Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.
 - [google/restor](https://github.com/google/restor) pushed_at:2020-01 star:0.2k fork:0.0k Restor is a user-friendly application to (mass) image macOS computers from a single source
 - [google/santa](https://github.com/google/santa) pushed_at:2021-10 star:3.5k fork:0.3k A binary authorization system for macOS
 - [google/templatekit](https://github.com/google/templatekit) pushed_at:2016-01 star:0.0k fork:0.0k 
@@ -1555,7 +1555,7 @@
 - [google/auto-common](https://github.com/google/auto-common) pushed_at:2016-08 star:0.0k fork:0.0k 
 - [google/auto-factory](https://github.com/google/auto-factory) pushed_at:2016-08 star:0.0k fork:0.0k 
 - [google/auto-service](https://github.com/google/auto-service) pushed_at:2016-08 star:0.0k fork:0.0k 
-- [google/bbr](https://github.com/google/bbr) pushed_at:2021-09 star:4.8k fork:0.6k 
+- [google/bbr](https://github.com/google/bbr) pushed_at:2021-09 star:4.9k fork:0.6k 
 - [google/beacon-platform](https://github.com/google/beacon-platform) pushed_at:2018-05 star:0.4k fork:0.3k Code samples for Google's beacon platform
 - [google/BEGIN-dataset](https://github.com/google/BEGIN-dataset) pushed_at:2021-06 star:0.0k fork:0.0k A benchmark dataset for evaluating dialog system and natural language generation metrics.
 - [google/beta-binomial-fitting](https://github.com/google/beta-binomial-fitting) pushed_at:2013-09 star:0.0k fork:0.0k 
@@ -1569,7 +1569,6 @@
 - [google/cloud-network-reachabilty](https://github.com/google/cloud-network-reachabilty) pushed_at:2020-06 star:0.0k fork:0.0k 
 - [google/clusterfuzzlite](https://github.com/google/clusterfuzzlite) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/container-rfc](https://github.com/google/container-rfc) pushed_at:2013-11 star:0.0k fork:0.0k An RFC for a standard container format
-- [google/conversion-audit](https://github.com/google/conversion-audit) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/course-builder](https://github.com/google/course-builder) pushed_at:2014-02 star:0.0k fork:0.0k 
 - [google/coursebuilder-learning-analytics](https://github.com/google/coursebuilder-learning-analytics) pushed_at:2014-07 star:0.0k fork:0.0k 
 - [google/coursebuilder-releases](https://github.com/google/coursebuilder-releases) pushed_at:2018-07 star:0.0k fork:0.0k 
@@ -1626,7 +1625,7 @@
 - [google/language-jsonnet](https://github.com/google/language-jsonnet) pushed_at:2021-03 star:0.0k fork:0.0k Jsonnet language support for the Atom text editor
 - [google/llvm-project](https://github.com/google/llvm-project) pushed_at:2020-09 star:0.0k fork:0.0k The LLVM Project is a collection of modular and reusable compiler and toolchain technologies. Note: the repository does not accept github pull requests at this moment. Please submit your patches at http://reviews.llvm.org.
 - [google/maps-for-work-samples](https://github.com/google/maps-for-work-samples) pushed_at:2021-06 star:0.1k fork:0.2k 
-- [google/material-design-icons](https://github.com/google/material-design-icons) pushed_at:2021-10 star:44.0k fork:8.9k Material Design icons by Google
+- [google/material-design-icons](https://github.com/google/material-design-icons) pushed_at:2021-10 star:44.1k fork:8.9k Material Design icons by Google
 - [google/mcic-coco](https://github.com/google/mcic-coco) pushed_at:2016-12 star:0.0k fork:0.0k 
 - [google/minijail](https://github.com/google/minijail) pushed_at:2020-10 star:0.1k fork:0.0k sandboxing and containment tool used in Chrome OS and Android
 - [google/mlir-npcomp](https://github.com/google/mlir-npcomp) pushed_at:2020-07 star:0.0k fork:0.0k npcomp - An aspirational MLIR based numpy compiler
@@ -1683,7 +1682,7 @@
 - [google/where-is-my-watch](https://github.com/google/where-is-my-watch) pushed_at:2020-06 star:0.0k fork:0.0k 
 - [google/wiberg-minimization](https://github.com/google/wiberg-minimization) pushed_at:2013-09 star:0.0k fork:0.0k 
 - [google/wikiloop-datasets](https://github.com/google/wikiloop-datasets) pushed_at:2019-03 star:0.0k fork:0.0k 
-- [google/WikipediaHomographData](https://github.com/google/WikipediaHomographData) pushed_at:2021-09 star:0.0k fork:0.0k Labeled data for homograph disambiguation
+- [google/WikipediaHomographData](https://github.com/google/WikipediaHomographData) pushed_at:2021-10 star:0.0k fork:0.0k Labeled data for homograph disambiguation
 - [google/wmt-mqm-human-evaluation](https://github.com/google/wmt-mqm-human-evaluation) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [google/wmt19-paraphrased-references](https://github.com/google/wmt19-paraphrased-references) pushed_at:2020-11 star:0.0k fork:0.0k 
 - [google/x](https://github.com/google/x) pushed_at:2020-09 star:0.0k fork:0.0k 
@@ -1742,13 +1741,13 @@
 - [google/ai-weather-climate](https://github.com/google/ai-weather-climate) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/airdialogue](https://github.com/google/airdialogue) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [google/airdialogue_model](https://github.com/google/airdialogue_model) pushed_at:2020-07 star:0.0k fork:0.0k 
-- [google/aistplusplus_api](https://github.com/google/aistplusplus_api) pushed_at:2021-09 star:0.2k fork:0.0k API to support AIST++ Dataset: https://google.github.io/aistplusplus_dataset
-- [google/aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) pushed_at:2021-06 star:1.5k fork:0.7k  API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
+- [google/aistplusplus_api](https://github.com/google/aistplusplus_api) pushed_at:2021-10 star:0.2k fork:0.0k API to support AIST++ Dataset: https://google.github.io/aistplusplus_dataset
+- [google/aiyprojects-raspbian](https://github.com/google/aiyprojects-raspbian) pushed_at:2021-10 star:1.5k fork:0.7k  API libraries, samples, and system images for AIY Projects (Voice Kit and Vision Kit)
 - [google/aiyprojects-raspbian-tools](https://github.com/google/aiyprojects-raspbian-tools) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [google/alligator2](https://github.com/google/alligator2) pushed_at:2021-08 star:0.0k fork:0.0k A sample integration between the Google My Business API and the Cloud Natural Language API
 - [google/amt-forensics](https://github.com/google/amt-forensics) pushed_at:2017-10 star:0.0k fork:0.0k Retrieve Intel AMT's Audit Log from a Linux machine without knowing the admin user's password.
 - [google/android-cuttlefish-authentication](https://github.com/google/android-cuttlefish-authentication) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [google/android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) pushed_at:2021-08 star:1.2k fork:0.2k 
+- [google/android-emulator-container-scripts](https://github.com/google/android-emulator-container-scripts) pushed_at:2021-10 star:1.2k fork:0.2k 
 - [google/android-wear-stitch-script](https://github.com/google/android-wear-stitch-script) pushed_at:2019-05 star:0.0k fork:0.0k 
 - [google/anvil-build](https://github.com/google/anvil-build) pushed_at:2017-08 star:0.1k fork:0.0k A parallel build system and content pipeline
 - [google/aperture_supervision](https://github.com/google/aperture_supervision) pushed_at:2018-04 star:0.0k fork:0.0k 
@@ -1762,7 +1761,7 @@
 - [google/ashier](https://github.com/google/ashier) pushed_at:2014-10 star:0.0k fork:0.0k Automating Terminal Interactions with Templates
 - [google/assortment-quality-for-google-shopping](https://github.com/google/assortment-quality-for-google-shopping) pushed_at:2021-10 star:0.0k fork:0.0k Assortment Quality is an open-source solution that gives you an overview of the product and brand coverage of your Google Merchant center account.
 - [google/asymproj_edge_dnn](https://github.com/google/asymproj_edge_dnn) pushed_at:2018-10 star:0.0k fork:0.0k 
-- [google/atheris](https://github.com/google/atheris) pushed_at:2021-08 star:0.8k fork:0.1k 
+- [google/atheris](https://github.com/google/atheris) pushed_at:2021-10 star:0.8k fork:0.1k 
 - [google/atlassian-addons-audit-sheet](https://github.com/google/atlassian-addons-audit-sheet) pushed_at:2019-06 star:0.0k fork:0.0k This tool will synchronize the list of Enabled User-Installed plugins in JIRA, Confluence, and Bitbucket with a Google Sheet for documentation and auditing.
 - [google/audio-sync-kit](https://github.com/google/audio-sync-kit) pushed_at:2018-10 star:0.1k fork:0.0k 
 - [google/autobidding-readiness-monitor](https://github.com/google/autobidding-readiness-monitor) pushed_at:2021-04 star:0.0k fork:0.0k 
@@ -1780,7 +1779,7 @@
 - [google/blockbuster](https://github.com/google/blockbuster) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [google/bocado](https://github.com/google/bocado) pushed_at:2017-08 star:0.0k fork:0.0k 
 - [google/bowling-compliance-ads-remover](https://github.com/google/bowling-compliance-ads-remover) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [google/brain-tokyo-workshop](https://github.com/google/brain-tokyo-workshop) pushed_at:2021-10 star:0.9k fork:0.3k 🧠🗼
+- [google/brain-tokyo-workshop](https://github.com/google/brain-tokyo-workshop) pushed_at:2021-10 star:1.0k fork:0.3k 🧠🗼
 - [google/budou](https://github.com/google/budou) pushed_at:2021-08 star:1.0k fork:0.1k Budou is an automatic organizer tool for beautiful line breaking in CJK (Chinese, Japanese, and Korean).
 - [google/burst-denoising](https://github.com/google/burst-denoising) pushed_at:2018-01 star:0.2k fork:0.0k 
 - [google/byterun](https://github.com/google/byterun) pushed_at:2019-07 star:0.0k fork:0.0k A Python implementation of a Python bytecode runner
@@ -1833,11 +1832,11 @@
 - [google/dcm-video-uploader](https://github.com/google/dcm-video-uploader) pushed_at:2018-05 star:0.0k fork:0.0k Python script to upload video creatives to DCM. The script creates the necessary structure under a provided DCM placement to target each video to a different geo location. One use case is creating dynamic video campaigns 
 - [google/decoupled_gaussian_process](https://github.com/google/decoupled_gaussian_process) pushed_at:2018-03 star:0.0k fork:0.0k 
 - [google/deepconsensus](https://github.com/google/deepconsensus) pushed_at:2021-09 star:0.1k fork:0.0k DeepConsensus uses gap-aware sequence transformers to correct errors in Pacific Biosciences (PacBio) Circular Consensus Sequencing (CCS) data.
-- [google/deepvariant](https://github.com/google/deepvariant) pushed_at:2021-10 star:2.3k fork:0.6k DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
+- [google/deepvariant](https://github.com/google/deepvariant) pushed_at:2021-10 star:2.4k fork:0.6k DeepVariant is an analysis pipeline that uses a deep neural network to call genetic variants from next-generation DNA sequencing data.
 - [google/deluca](https://github.com/google/deluca) pushed_at:2021-09 star:0.1k fork:0.0k Performant, differentiable reinforcement learning
 - [google/deluca-lung](https://github.com/google/deluca-lung) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [google/deputy-api-python-client](https://github.com/google/deputy-api-python-client) pushed_at:2019-12 star:0.0k fork:0.0k 
-- [google/dfdewey](https://github.com/google/dfdewey) pushed_at:2021-09 star:0.0k fork:0.0k 
+- [google/dfdewey](https://github.com/google/dfdewey) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/diff-match-patch](https://github.com/google/diff-match-patch) pushed_at:2021-07 star:4.7k fork:0.8k Diff Match Patch is a high-performance library in multiple languages that manipulates plain text.
 - [google/differentiable-atomistic-potentials](https://github.com/google/differentiable-atomistic-potentials) pushed_at:2018-07 star:0.1k fork:0.0k Automatically differentiable atomistic potentials for molecular simulations
 - [google/digitalbuildings](https://github.com/google/digitalbuildings) pushed_at:2021-10 star:0.2k fork:0.1k Digital Buildings (ontology and SDK) currently being used by Google internally to manage our own buildings.
@@ -1851,13 +1850,13 @@
 - [google/dspl](https://github.com/google/dspl) pushed_at:2021-03 star:0.0k fork:0.1k Schema and utilities for Google Dataset Publishing Language
 - [google/duet](https://github.com/google/duet) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [google/dynamic-video-depth](https://github.com/google/dynamic-video-depth) pushed_at:2021-08 star:0.1k fork:0.0k Code for the SIGGRAPH 2021 paper "Consistent Depth of Moving Objects in Video".
-- [google/e3d_lstm](https://github.com/google/e3d_lstm) pushed_at:2020-07 star:0.1k fork:0.0k e3d-lstm; Eidetic 3D LSTM A Model for Video Prediction and Beyond
+- [google/e3d_lstm](https://github.com/google/e3d_lstm) pushed_at:2020-07 star:0.1k fork:0.1k e3d-lstm; Eidetic 3D LSTM A Model for Video Prediction and Beyond
 - [google/ebola-tools](https://github.com/google/ebola-tools) pushed_at:2014-09 star:0.0k fork:0.0k 
 - [google/eclipse2017](https://github.com/google/eclipse2017) pushed_at:2021-06 star:0.0k fork:0.0k Source code for North American Eclipse 2017 Megamovie project
 - [google/ehr-predictions](https://github.com/google/ehr-predictions) pushed_at:2021-08 star:0.1k fork:0.0k 
 - [google/embedding-tests](https://github.com/google/embedding-tests) pushed_at:2019-12 star:0.0k fork:0.0k 
-- [google/emboss](https://github.com/google/emboss) pushed_at:2021-09 star:0.0k fork:0.0k Emboss is a tool for generating code that reads and writes binary data structures.
-- [google/emoji4unicode](https://github.com/google/emoji4unicode) pushed_at:2018-12 star:0.0k fork:0.0k Automatically exported from code.google.com/p/emoji4unicode
+- [google/emboss](https://github.com/google/emboss) pushed_at:2021-10 star:0.0k fork:0.0k Emboss is a tool for generating code that reads and writes binary data structures.
+- [google/emoji4unicode](https://github.com/google/emoji4unicode) pushed_at:2018-12 star:0.1k fork:0.0k Automatically exported from code.google.com/p/emoji4unicode
 - [google/encrypted-bigquery-client](https://github.com/google/encrypted-bigquery-client) pushed_at:2018-02 star:0.2k fork:0.0k An experimental version of the BQ client which adds client-side encryption
 - [google/enjarify](https://github.com/google/enjarify) pushed_at:2019-11 star:2.6k fork:0.5k 
 - [google/example_extrapolation](https://github.com/google/example_extrapolation) pushed_at:2021-03 star:0.0k fork:0.0k 
@@ -1892,7 +1891,7 @@
 - [google/gmail-oauth2-tools](https://github.com/google/gmail-oauth2-tools) pushed_at:2021-10 star:0.3k fork:0.2k Tools and sample code for authenticating to Gmail with OAuth2
 - [google/google-apputils](https://github.com/google/google-apputils) pushed_at:2020-09 star:0.0k fork:0.0k Please use https://github.com/abseil/abseil-py instead. This was auto-exported from code.google.com/p/google-apputils-python
 - [google/google-reauth-python](https://github.com/google/google-reauth-python) pushed_at:2020-12 star:0.0k fork:0.0k 
-- [google/google-visualization-python](https://github.com/google/google-visualization-python) pushed_at:2019-02 star:0.1k fork:0.1k Automatically exported from code.google.com/p/google-visualization-python
+- [google/google-visualization-python](https://github.com/google/google-visualization-python) pushed_at:2021-10 star:0.1k fork:0.1k Automatically exported from code.google.com/p/google-visualization-python
 - [google/googleapps-message-recall](https://github.com/google/googleapps-message-recall) pushed_at:2016-10 star:0.0k fork:0.0k 
 - [google/gov-meetings-made-searchable](https://github.com/google/gov-meetings-made-searchable) pushed_at:2021-09 star:0.0k fork:0.0k Make the contents of public meetings searchable and discoverable.
 - [google/gps-babel-tower](https://github.com/google/gps-babel-tower) pushed_at:2021-08 star:0.0k fork:0.0k 
@@ -1920,18 +1919,18 @@
 - [google/ipaddr-py](https://github.com/google/ipaddr-py) pushed_at:2021-08 star:0.2k fork:0.1k Google's Python IP address manipulation library
 - [google/iree-samples](https://github.com/google/iree-samples) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/it-cert-automation](https://github.com/google/it-cert-automation) pushed_at:2020-10 star:0.0k fork:0.0k Code shown in the videos for the Google IT Automation with Python Professional Certificate
-- [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice) pushed_at:2021-10 star:0.4k fork:20.5k Google IT Automation with Python Professional Certificate - Practice files
+- [google/it-cert-automation-practice](https://github.com/google/it-cert-automation-practice) pushed_at:2021-10 star:0.4k fork:20.7k Google IT Automation with Python Professional Certificate - Practice files
 - [google/it-cert-automation-project](https://github.com/google/it-cert-automation-project) pushed_at:2020-09 star:0.0k fork:0.0k Files used in the final project of the Google IT Automation with Python Professional Certificate
 - [google/jacs](https://github.com/google/jacs) pushed_at:2020-02 star:0.0k fork:0.0k 
 - [google/jarvan](https://github.com/google/jarvan) pushed_at:2019-11 star:0.0k fork:0.0k 
-- [google/jax](https://github.com/google/jax) pushed_at:2021-10 star:14.4k fork:1.3k Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+- [google/jax](https://github.com/google/jax) pushed_at:2021-10 star:14.4k fork:1.4k Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [google/jaxopt](https://github.com/google/jaxopt) pushed_at:2021-10 star:0.3k fork:0.0k Hardware accelerated, batchable and differentiable optimizers in JAX.
 - [google/jws](https://github.com/google/jws) pushed_at:2020-09 star:0.1k fork:0.0k JSON Web Signature (JWS)
 - [google/kasan](https://github.com/google/kasan) pushed_at:2021-09 star:0.3k fork:0.1k KernelAddressSanitizer, a fast memory error detector for the Linux kernel
 - [google/kasane](https://github.com/google/kasane) pushed_at:2021-08 star:0.2k fork:0.0k A simple kubernetes deployment manager
 - [google/kf](https://github.com/google/kf) pushed_at:2020-12 star:0.3k fork:0.1k Feels like Cloud Foundry. Runs on Kubernetes.
 - [google/lab_device_proxy](https://github.com/google/lab_device_proxy) pushed_at:2014-04 star:0.0k fork:0.0k Executes adb and idevice commands on a remote host.
-- [google/lasr](https://github.com/google/lasr) pushed_at:2021-08 star:0.1k fork:0.0k Code for "LASR: Learning Articulated Shape Reconstruction from a Monocular Video". CVPR 2021.
+- [google/lasr](https://github.com/google/lasr) pushed_at:2021-10 star:0.1k fork:0.0k Code for "LASR: Learning Articulated Shape Reconstruction from a Monocular Video". CVPR 2021.
 - [google/latexify_py](https://github.com/google/latexify_py) pushed_at:2020-12 star:1.8k fork:0.1k Generates LaTeX math description from Python functions.
 - [google/layered-scene-inference](https://github.com/google/layered-scene-inference) pushed_at:2018-08 star:0.1k fork:0.0k Code accompanying the paper "Layer-structured 3D Scene Inference  via View Synthesis", ECCV 2018
 - [google/ldif](https://github.com/google/ldif) pushed_at:2021-09 star:0.2k fork:0.0k 3D Shape Representation with Local Deep Implicit Functions.
@@ -1953,7 +1952,7 @@
 - [google/mannequinchallenge](https://github.com/google/mannequinchallenge) pushed_at:2021-01 star:0.4k fork:0.1k Inference code and trained models for "Learning the Depths of Moving People by Watching Frozen People."
 - [google/matched_markets](https://github.com/google/matched_markets) pushed_at:2021-05 star:0.0k fork:0.0k Matched Markets is a Python library for design and analysis of Geo experiments using Matched Markets and Time Based Regression.
 - [google/mcafp](https://github.com/google/mcafp) pushed_at:2016-12 star:0.0k fork:0.0k 
-- [google/megalista](https://github.com/google/megalista) pushed_at:2021-09 star:0.0k fork:0.0k First Party data integration solution built for marketing teams to enable audience and conversion onboarding into Google Marketing products (Google Ads, Campaign Manager, Google Analytics).
+- [google/megalista](https://github.com/google/megalista) pushed_at:2021-10 star:0.0k fork:0.0k First Party data integration solution built for marketing teams to enable audience and conversion onboarding into Google Marketing products (Google Ads, Campaign Manager, Google Analytics).
 - [google/memcache-collections](https://github.com/google/memcache-collections) pushed_at:2014-02 star:0.1k fork:0.0k Concurrent, distributed data structures on top of memcache
 - [google/mentornet](https://github.com/google/mentornet) pushed_at:2021-08 star:0.3k fork:0.1k Code for MentorNet: Learning Data-Driven Curriculum for Very Deep Neural Networks
 - [google/merge_pyi](https://github.com/google/merge_pyi) pushed_at:2016-07 star:0.0k fork:0.0k 
@@ -1991,7 +1990,7 @@
 - [google/openhtf](https://github.com/google/openhtf) pushed_at:2021-09 star:0.3k fork:0.2k The open-source hardware testing framework.
 - [google/orchestra](https://github.com/google/orchestra) pushed_at:2020-09 star:0.0k fork:0.0k Advertising Data Lakes and Workflow Automation
 - [google/oss-fuzz-vulns](https://github.com/google/oss-fuzz-vulns) pushed_at:2021-10 star:0.0k fork:0.0k OSS-Fuzz vulnerabilities for OSV.
-- [google/osv](https://github.com/google/osv) pushed_at:2021-09 star:0.4k fork:0.1k Open source vulnerability DB and triage service.
+- [google/osv](https://github.com/google/osv) pushed_at:2021-10 star:0.4k fork:0.1k Open source vulnerability DB and triage service.
 - [google/ota-generator](https://github.com/google/ota-generator) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [google/packet-queue](https://github.com/google/packet-queue) pushed_at:2017-05 star:0.0k fork:0.0k 
 - [google/parallel-chunks](https://github.com/google/parallel-chunks) pushed_at:2020-06 star:0.0k fork:0.0k 
@@ -2021,7 +2020,7 @@
 - [google/python-atfork](https://github.com/google/python-atfork) pushed_at:2020-06 star:0.0k fork:0.0k 
 - [google/python-cloud-utils](https://github.com/google/python-cloud-utils) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [google/python-dimond](https://github.com/google/python-dimond) pushed_at:2018-12 star:0.0k fork:0.0k Python implementation of Telink Bluetooth mesh protocol
-- [google/python-fire](https://github.com/google/python-fire) pushed_at:2021-09 star:20.2k fork:1.2k Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
+- [google/python-fire](https://github.com/google/python-fire) pushed_at:2021-09 star:20.3k fork:1.2k Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [google/python-gflags](https://github.com/google/python-gflags) pushed_at:2020-07 star:0.2k fork:0.1k Python implementation of the Google commandline flags module.
 - [google/python-lakeside](https://github.com/google/python-lakeside) pushed_at:2020-12 star:0.0k fork:0.0k 
 - [google/python-laurel](https://github.com/google/python-laurel) pushed_at:2020-11 star:0.0k fork:0.0k Python control of C by GE Bluetooth lightbulbs
@@ -2051,7 +2050,7 @@
 - [google/retriever_parsing](https://github.com/google/retriever_parsing) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [google/revisiting-self-supervised](https://github.com/google/revisiting-self-supervised) pushed_at:2020-02 star:0.3k fork:0.0k 
 - [google/rfmt](https://github.com/google/rfmt) pushed_at:2016-06 star:0.1k fork:0.0k R source code formatter
-- [google/riscv-dv](https://github.com/google/riscv-dv) pushed_at:2021-09 star:0.5k fork:0.2k Random instruction generator for RISC-V processor verification
+- [google/riscv-dv](https://github.com/google/riscv-dv) pushed_at:2021-10 star:0.5k fork:0.2k Random instruction generator for RISC-V processor verification
 - [google/rtc-video-quality](https://github.com/google/rtc-video-quality) pushed_at:2020-07 star:0.1k fork:0.0k Compare (Real-Time) Video Codec Performance
 - [google/rttcp](https://github.com/google/rttcp) pushed_at:2017-06 star:0.0k fork:0.0k 
 - [google/sa360-bigquery-bootstrapper](https://github.com/google/sa360-bigquery-bootstrapper) pushed_at:2021-03 star:0.0k fork:0.0k 
@@ -2068,7 +2067,7 @@
 - [google/simple-reinforcement-learning](https://github.com/google/simple-reinforcement-learning) pushed_at:2017-03 star:0.1k fork:0.0k 
 - [google/skywater-pdk](https://github.com/google/skywater-pdk) pushed_at:2021-09 star:1.7k fork:0.2k Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.
 - [google/skywater-pdk-actions](https://github.com/google/skywater-pdk-actions) pushed_at:2021-06 star:0.0k fork:0.0k GitHub Actions for usage with Google's 130nm manufacturable PDK for SkyWater Technology found @ https://github.com/google/skywater-pdk
-- [google/slo-generator](https://github.com/google/slo-generator) pushed_at:2021-09 star:0.2k fork:0.0k SLO Generator is a tool to compute SLIs, SLOs, Error Budgets and Burn rate and export an SLO report to supported exporters.
+- [google/slo-generator](https://github.com/google/slo-generator) pushed_at:2021-10 star:0.2k fork:0.0k SLO Generator is a tool to compute SLIs, SLOs, Error Budgets and Burn rate and export an SLO report to supported exporters.
 - [google/smbios-validation-tool](https://github.com/google/smbios-validation-tool) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [google/smilesparser](https://github.com/google/smilesparser) pushed_at:2016-12 star:0.0k fork:0.0k 
 - [google/spatial-media](https://github.com/google/spatial-media) pushed_at:2021-10 star:1.3k fork:0.3k Specifications and tools for 360º video and spatial audio.
@@ -2082,7 +2081,7 @@
 - [google/starthinker](https://github.com/google/starthinker) pushed_at:2021-10 star:0.1k fork:0.0k Framework for building data workflows provided by Google.
 - [google/stereo-magnification](https://github.com/google/stereo-magnification) pushed_at:2019-07 star:0.3k fork:0.1k Code accompanying the SIGGRAPH 2018 paper "Stereo Magnification: Learning View Synthesis using Multiplane Images"
 - [google/stress_transfer](https://github.com/google/stress_transfer) pushed_at:2021-06 star:0.0k fork:0.0k 
-- [google/struct2tensor](https://github.com/google/struct2tensor) pushed_at:2021-09 star:0.0k fork:0.0k struct2tensor is a library for parsing and manipulating structured data inside of tensorflow.
+- [google/struct2tensor](https://github.com/google/struct2tensor) pushed_at:2021-10 star:0.0k fork:0.0k struct2tensor is a library for parsing and manipulating structured data inside of tensorflow.
 - [google/stumblybot](https://github.com/google/stumblybot) pushed_at:2017-12 star:0.0k fork:0.0k Simple robot that executes voice commands through Google Assistant.
 - [google/subpar](https://github.com/google/subpar) pushed_at:2021-09 star:0.5k fork:0.1k Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.
 - [google/support-tools](https://github.com/google/support-tools) pushed_at:2019-03 star:0.0k fork:0.0k Automatically exported from code.google.com/p/support-tools
@@ -2100,7 +2099,7 @@
 - [google/terminal-app-function-keys](https://github.com/google/terminal-app-function-keys) pushed_at:2017-11 star:0.1k fork:0.0k Terminal.app configuration handling Fn keys right
 - [google/terminal-py](https://github.com/google/terminal-py) pushed_at:2015-07 star:0.0k fork:0.0k Automatically exported from code.google.com/p/terminal-py
 - [google/text2text](https://github.com/google/text2text) pushed_at:2017-11 star:0.1k fork:0.0k 
-- [google/textfsm](https://github.com/google/textfsm) pushed_at:2021-06 star:0.8k fork:0.1k Python module for parsing semi-structured text into python tables.
+- [google/textfsm](https://github.com/google/textfsm) pushed_at:2021-06 star:0.9k fork:0.1k Python module for parsing semi-structured text into python tables.
 - [google/tf-quant-finance](https://github.com/google/tf-quant-finance) pushed_at:2021-10 star:2.8k fork:0.4k High-performance TensorFlow library for quantitative finance.
 - [google/tf_mesh_renderer](https://github.com/google/tf_mesh_renderer) pushed_at:2021-08 star:0.4k fork:0.1k A differentiable, 3D mesh renderer using TensorFlow.
 - [google/tim-gan](https://github.com/google/tim-gan) pushed_at:2020-12 star:0.0k fork:0.0k 
@@ -2121,7 +2120,7 @@
 - [google/url_diff](https://github.com/google/url_diff) pushed_at:2018-12 star:0.1k fork:0.0k 
 - [google/usbinfo](https://github.com/google/usbinfo) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [google/uv-metrics](https://github.com/google/uv-metrics) pushed_at:2021-02 star:0.0k fork:0.0k Composable metric reporters in Python.
-- [google/vae-seq](https://github.com/google/vae-seq) pushed_at:2018-03 star:0.1k fork:0.0k Variational Auto-Encoders in a Sequential Setting.
+- [google/vae-seq](https://github.com/google/vae-seq) pushed_at:2018-03 star:0.2k fork:0.0k Variational Auto-Encoders in a Sequential Setting.
 - [google/vimdoc](https://github.com/google/vimdoc) pushed_at:2021-05 star:0.2k fork:0.0k Helpfile generation for vim 
 - [google/VRD](https://github.com/google/VRD) pushed_at:2017-10 star:0.0k fork:0.0k 
 - [google/vroom](https://github.com/google/vroom) pushed_at:2021-09 star:0.3k fork:0.0k Launch vim tests
@@ -2132,8 +2131,8 @@
 - [google/wheelbarrow](https://github.com/google/wheelbarrow) pushed_at:2014-05 star:0.0k fork:0.0k 
 - [google/wikiloop-analysis](https://github.com/google/wikiloop-analysis) pushed_at:2020-06 star:0.0k fork:0.0k 
 - [google/x509test](https://github.com/google/x509test) pushed_at:2021-09 star:0.0k fork:0.0k X.509 certificate test suite
-- [google/xarray-beam](https://github.com/google/xarray-beam) pushed_at:2021-09 star:0.0k fork:0.0k Distributed Xarray with Apache Beam
-- [google/xctestrunner](https://github.com/google/xctestrunner) pushed_at:2021-06 star:0.1k fork:0.0k A executable binary to run prebuilt iOS tests on iOS simulator/real device.
+- [google/xarray-beam](https://github.com/google/xarray-beam) pushed_at:2021-10 star:0.0k fork:0.0k Distributed Xarray with Apache Beam
+- [google/xctestrunner](https://github.com/google/xctestrunner) pushed_at:2021-10 star:0.1k fork:0.0k A executable binary to run prebuilt iOS tests on iOS simulator/real device.
 - [google/yapf](https://github.com/google/yapf) pushed_at:2021-10 star:12.1k fork:0.8k A formatter for Python files
 - [google/youtube-8m](https://github.com/google/youtube-8m) pushed_at:2021-03 star:2.1k fork:0.8k Starter code for working with the YouTube-8M dataset.
 - [google/Zhi](https://github.com/google/Zhi) pushed_at:2017-04 star:0.0k fork:0.0k Interactive LaTeX Paper Writing in Google Drive
@@ -2186,7 +2185,7 @@
 - [google/fleetspeak-rs](https://github.com/google/fleetspeak-rs) pushed_at:2021-07 star:0.0k fork:0.0k A Fleetspeak connector library for the Rust programming language.
 - [google/git-tree](https://github.com/google/git-tree) pushed_at:2020-07 star:0.0k fork:0.0k A tool for visualizing the state of a git repository, particularly ongoing work.
 - [google/hat-backup](https://github.com/google/hat-backup) pushed_at:2018-03 star:0.2k fork:0.0k Backend-agnostic snapshotting backup system
-- [google/json5format](https://github.com/google/json5format) pushed_at:2021-04 star:0.0k fork:0.0k JSON5 (a.k.a., "JSON for Humans") formatter that preserves contextual comments
+- [google/json5format](https://github.com/google/json5format) pushed_at:2021-04 star:0.1k fork:0.0k JSON5 (a.k.a., "JSON for Humans") formatter that preserves contextual comments
 - [google/minetest_pnr](https://github.com/google/minetest_pnr) pushed_at:2019-09 star:0.0k fork:0.0k Place & Router for Minetest
 - [google/mosaic](https://github.com/google/mosaic) pushed_at:2021-05 star:0.0k fork:0.0k A C++ bindings generator for Rust.
 - [google/moveit](https://github.com/google/moveit) pushed_at:2021-06 star:0.1k fork:0.0k 
@@ -2198,16 +2197,16 @@
 - [google/rust-async-coap](https://github.com/google/rust-async-coap) pushed_at:2021-06 star:0.0k fork:0.0k A flexible, asynchronous library for using and serving CoAP resources in Rust.
 - [google/rust-multihash](https://github.com/google/rust-multihash) pushed_at:2015-09 star:0.1k fork:0.0k 
 - [google/rust-shell](https://github.com/google/rust-shell) pushed_at:2019-06 star:0.2k fork:0.0k Helper library for std::process::Command to write shell script like tasks in rust
-- [google/rust_icu](https://github.com/google/rust_icu) pushed_at:2021-09 star:0.1k fork:0.0k rust_icu: rust bindings for ICU (International Components for Unicode) library
+- [google/rust_icu](https://github.com/google/rust_icu) pushed_at:2021-10 star:0.1k fork:0.0k rust_icu: rust bindings for ICU (International Components for Unicode) library
 - [google/rustcxx](https://github.com/google/rustcxx) pushed_at:2016-09 star:0.5k fork:0.0k rustcxx: Using C++ from Rust made easy
 - [google/shaderc-rs](https://github.com/google/shaderc-rs) pushed_at:2021-08 star:0.2k fork:0.0k Rust bindings for the shaderc library.
 - [google/sxg-rs](https://github.com/google/sxg-rs) pushed_at:2021-10 star:0.0k fork:0.0k A set of tools for generating signed exchanges at serve time.
 - [google/synthesizer-io](https://github.com/google/synthesizer-io) pushed_at:2019-12 star:0.0k fork:0.0k 
-- [google/tarpc](https://github.com/google/tarpc) pushed_at:2021-09 star:1.9k fork:0.1k An RPC framework for Rust with a focus on ease of use.
+- [google/tarpc](https://github.com/google/tarpc) pushed_at:2021-10 star:1.9k fork:0.1k An RPC framework for Rust with a focus on ease of use.
 - [google/tock](https://github.com/google/tock) pushed_at:2020-06 star:0.0k fork:0.0k A secure embedded operating system for microcontrollers
 - [google/tock-on-titan](https://github.com/google/tock-on-titan) pushed_at:2021-05 star:0.0k fork:0.0k Ports of Tock OS to Titan chips.
 - [google/vimscript-language-server](https://github.com/google/vimscript-language-server) pushed_at:2021-06 star:0.4k fork:0.0k 
-- [google/webbundle](https://github.com/google/webbundle) pushed_at:2021-02 star:0.0k fork:0.0k WebBundle library for packing web sites
+- [google/webbundle](https://github.com/google/webbundle) pushed_at:2021-10 star:0.0k fork:0.0k WebBundle library for packing web sites
 - [google/xsecurelock-saver-rs](https://github.com/google/xsecurelock-saver-rs) pushed_at:2021-09 star:0.0k fork:0.0k Rust + SFML Screensavers for XSecureLock
 
 ## Scala
@@ -2228,7 +2227,7 @@
 - [google/appengine-phabricator](https://github.com/google/appengine-phabricator) pushed_at:2017-01 star:0.0k fork:0.0k Image for running Phabricator on App Engine
 - [google/asr-recipes](https://github.com/google/asr-recipes) pushed_at:2018-07 star:0.0k fork:0.0k 
 - [google/blockly-tools](https://github.com/google/blockly-tools) pushed_at:2020-04 star:0.0k fork:0.0k tools for developing Blockly
-- [google/bms-toolkit](https://github.com/google/bms-toolkit) pushed_at:2021-09 star:0.0k fork:0.0k Toolkit for installing and creating an initial database on Bare Metal Solution
+- [google/bms-toolkit](https://github.com/google/bms-toolkit) pushed_at:2021-10 star:0.0k fork:0.0k Toolkit for installing and creating an initial database on Bare Metal Solution
 - [google/build-debian-cloud](https://github.com/google/build-debian-cloud) pushed_at:2014-06 star:0.0k fork:0.0k Script to create Debian Squeeze & Wheezy Amazon Machine Images (AMIs) and Google Compute Engine images
 - [google/cityhash](https://github.com/google/cityhash) pushed_at:2017-11 star:0.8k fork:0.2k Automatically exported from code.google.com/p/cityhash
 - [google/cmockery](https://github.com/google/cmockery) pushed_at:2020-05 star:0.8k fork:0.3k A lightweight library to simplify and generalize the process of writing unit tests for C applications.
@@ -2274,10 +2273,10 @@
 
 ## Swift
 
-- [google/android-auto-companion](https://github.com/google/android-auto-companion) pushed_at:2021-09 star:0.0k fork:0.0k 
+- [google/android-auto-companion-ios](https://github.com/google/android-auto-companion-ios) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/blockly-ios](https://github.com/google/blockly-ios) pushed_at:2021-01 star:0.4k fork:0.1k Blockly for iOS
-- [google/GoogleAppMeasurement](https://github.com/google/GoogleAppMeasurement) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [google/iosched-ios](https://github.com/google/iosched-ios) pushed_at:2020-08 star:0.2k fork:0.0k The Google I/O iOS app
+- [google/GoogleAppMeasurement](https://github.com/google/GoogleAppMeasurement) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [google/iosched-ios](https://github.com/google/iosched-ios) pushed_at:2020-08 star:0.2k fork:0.1k The Google I/O iOS app
 - [google/JacquardSDKiOS](https://github.com/google/JacquardSDKiOS) pushed_at:2021-09 star:0.0k fork:0.0k Jacquard™ by Google weaves new digital experiences into the things you love, wear, and use every day to give you the power to do more and be more. Jacquard SDK is a way to connect Jacquard interactions within your apps. Create an app and bring it to life with gestures, lights and haptics through the Jacquard SDK.
 - [google/open-location-code-swift](https://github.com/google/open-location-code-swift) pushed_at:2021-02 star:0.0k fork:0.0k Swift implementation of Open Location Code (Plus Codes). Supports Swift and Objective-C for iOS, macOS, tvOS and watchOS, and Swift for Linux.
 - [google/swift-benchmark](https://github.com/google/swift-benchmark) pushed_at:2021-10 star:0.7k fork:0.0k A swift library to benchmark code snippets.
@@ -2303,7 +2302,7 @@
 - [google/angular-a11y-workshop](https://github.com/google/angular-a11y-workshop) pushed_at:2020-10 star:0.0k fork:0.0k 
 - [google/angular-directed-graph](https://github.com/google/angular-directed-graph) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [google/angular-sticky-element](https://github.com/google/angular-sticky-element) pushed_at:2018-03 star:0.0k fork:0.0k 
-- [google/assetMG](https://github.com/google/assetMG) pushed_at:2021-09 star:0.0k fork:0.0k 
+- [google/assetMG](https://github.com/google/assetMG) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google/bulkan](https://github.com/google/bulkan) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [google/centaur](https://github.com/google/centaur) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [google/chained-promise](https://github.com/google/chained-promise) pushed_at:2018-02 star:0.1k fork:0.0k Functional programming tools for recurring promises
@@ -2322,7 +2321,7 @@
 - [google/fusion-tables-archive-visualizer](https://github.com/google/fusion-tables-archive-visualizer) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [google/fusion-tables-drive-export](https://github.com/google/fusion-tables-drive-export) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [google/grassland](https://github.com/google/grassland) pushed_at:2021-09 star:0.0k fork:0.0k Node middleware that exposes a Git to a CDN
-- [google/ground-platform](https://github.com/google/ground-platform) pushed_at:2021-09 star:0.1k fork:0.1k Ground hosted components: Web console, Cloud Functions, db config
+- [google/ground-platform](https://github.com/google/ground-platform) pushed_at:2021-10 star:0.1k fork:0.1k Ground hosted components: Web console, Cloud Functions, db config
 - [google/gts](https://github.com/google/gts) pushed_at:2021-08 star:3.6k fork:0.2k ☂️ TypeScript style guide, formatter, and linter.  
 - [google/incremental-dom](https://github.com/google/incremental-dom) pushed_at:2021-09 star:3.4k fork:0.2k An in-place DOM diffing library
 - [google/intermock](https://github.com/google/intermock) pushed_at:2021-08 star:0.8k fork:0.0k Mocking library to create mock objects with fake data for TypeScript interfaces
@@ -2330,7 +2329,7 @@
 - [google/libhidtelephony](https://github.com/google/libhidtelephony) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [google/link-diver](https://github.com/google/link-diver) pushed_at:2021-10 star:0.0k fork:0.0k A feature-rich chrome extension that extracts all of the links on a page. Filter links by a regex, highlight them on the original page, and more!
 - [google/mirror-branch-action](https://github.com/google/mirror-branch-action) pushed_at:2021-06 star:0.0k fork:0.0k A Github Action to mirror one branch to another within the same repository
-- [google/model-viewer](https://github.com/google/model-viewer) pushed_at:2021-10 star:3.4k fork:0.4k Easily display interactive 3D models on the web and in AR! 
+- [google/model-viewer](https://github.com/google/model-viewer) pushed_at:2021-10 star:3.5k fork:0.4k Easily display interactive 3D models on the web and in AR! 
 - [google/mysteryofthreebots](https://github.com/google/mysteryofthreebots) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [google/neuroglancer](https://github.com/google/neuroglancer) pushed_at:2021-10 star:0.7k fork:0.2k WebGL-based viewer for volumetric data
 - [google/ngrx-visualizer](https://github.com/google/ngrx-visualizer) pushed_at:2021-08 star:0.0k fork:0.0k 
@@ -2373,6 +2372,7 @@
 ## Verilog
 
 - [google/bbcpu](https://github.com/google/bbcpu) pushed_at:2017-11 star:0.0k fork:0.0k 
+- [google/CFU-Playground](https://github.com/google/CFU-Playground) pushed_at:2021-10 star:0.1k fork:0.0k Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM).
 - [google/skywater-pdk-libs-sky130_fd_sc_hd](https://github.com/google/skywater-pdk-libs-sky130_fd_sc_hd) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [google/skywater-pdk-libs-sky130_fd_sc_hdll](https://github.com/google/skywater-pdk-libs-sky130_fd_sc_hdll) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [google/skywater-pdk-libs-sky130_fd_sc_hs](https://github.com/google/skywater-pdk-libs-sky130_fd_sc_hs) pushed_at:2021-04 star:0.0k fork:0.0k 
@@ -2384,11 +2384,11 @@
 
 ## Vim script
 
-- [google/vim-codefmt](https://github.com/google/vim-codefmt) pushed_at:2021-04 star:0.9k fork:0.1k 
+- [google/vim-codefmt](https://github.com/google/vim-codefmt) pushed_at:2021-10 star:0.9k fork:0.1k 
 - [google/vim-codereview](https://github.com/google/vim-codereview) pushed_at:2019-08 star:0.1k fork:0.0k 
 - [google/vim-colorscheme-primary](https://github.com/google/vim-colorscheme-primary) pushed_at:2021-09 star:0.3k fork:0.0k Primary, a Vim color scheme based on Google's colors
 - [google/vim-coverage](https://github.com/google/vim-coverage) pushed_at:2021-07 star:0.1k fork:0.0k 
-- [google/vim-ft-go](https://github.com/google/vim-ft-go) pushed_at:2021-09 star:0.1k fork:0.0k 
+- [google/vim-ft-go](https://github.com/google/vim-ft-go) pushed_at:2021-10 star:0.1k fork:0.0k 
 - [google/vim-glaive](https://github.com/google/vim-glaive) pushed_at:2020-08 star:0.1k fork:0.0k 
 - [google/vim-jsonnet](https://github.com/google/vim-jsonnet) pushed_at:2021-05 star:0.1k fork:0.0k Jsonnet filetype plugin for Vim.
 - [google/vim-maktaba](https://github.com/google/vim-maktaba) pushed_at:2021-08 star:0.6k fork:0.1k Consistent Vimscript

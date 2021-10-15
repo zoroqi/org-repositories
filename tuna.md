@@ -119,7 +119,7 @@
 ## TypeScript
 
 - [tuna/aws-ecr-proxy](https://github.com/tuna/aws-ecr-proxy) pushed_at:2020-10 star:0.0k fork:0.0k Public endpoint for AWS Elastic Container Registry
-- [tuna/opentuna](https://github.com/tuna/opentuna) pushed_at:2021-08 star:0.1k fork:0.0k TUNA on AWS
+- [tuna/opentuna](https://github.com/tuna/opentuna) pushed_at:2021-10 star:0.1k fork:0.0k TUNA on AWS
 
 
 ## License
