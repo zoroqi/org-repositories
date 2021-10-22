@@ -34,7 +34,7 @@
 ## C++
 
 - [baidu/AnyQ](https://github.com/baidu/AnyQ) pushed_at:2020-11 star:2.3k fork:0.6k FAQ-based Question Answering System
-- [baidu/BaikalDB](https://github.com/baidu/BaikalDB) pushed_at:2021-10 star:0.8k fork:0.1k BaikalDB, A Distributed HTAP Database.
+- [baidu/BaikalDB](https://github.com/baidu/BaikalDB) pushed_at:2021-10 star:0.9k fork:0.1k BaikalDB, A Distributed HTAP Database.
 - [baidu/bfs](https://github.com/baidu/bfs) pushed_at:2018-12 star:2.8k fork:0.6k The Baidu File System.
 - [baidu/bigflow](https://github.com/baidu/bigflow) pushed_at:2020-10 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [baidu/boteye](https://github.com/baidu/boteye) pushed_at:2019-04 star:0.2k fork:0.1k 
@@ -47,7 +47,7 @@
 - [baidu/ICE-BA](https://github.com/baidu/ICE-BA) pushed_at:2018-09 star:0.6k fork:0.2k 
 - [baidu/ins](https://github.com/baidu/ins) pushed_at:2020-10 star:0.2k fork:0.1k iNexus, coordinate large scale services
 - [baidu/lac](https://github.com/baidu/lac) pushed_at:2021-05 star:2.7k fork:0.5k 百度NLP：分词，词性标注，命名实体识别，词重要性
-- [baidu/openrasp](https://github.com/baidu/openrasp) pushed_at:2021-09 star:1.9k fork:0.5k 🔥Open source RASP solution
+- [baidu/openrasp](https://github.com/baidu/openrasp) pushed_at:2021-09 star:2.0k fork:0.5k 🔥Open source RASP solution
 - [baidu/shuttle](https://github.com/baidu/shuttle) pushed_at:2018-07 star:0.1k fork:0.0k A fast computing framework based on Galaxy
 - [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) pushed_at:2018-09 star:2.0k fork:0.7k A light-weight RPC implement of google protobuf RPC framework.
 - [baidu/tera](https://github.com/baidu/tera) pushed_at:2019-01 star:1.8k fork:0.4k An Internet-Scale Database.
@@ -63,8 +63,8 @@
 - [baidu/baiducloud-sdk-go](https://github.com/baidu/baiducloud-sdk-go) pushed_at:2019-10 star:0.0k fork:0.0k Go SDK for Baidu Cloud
 - [baidu/brcc-go-sdk](https://github.com/baidu/brcc-go-sdk) pushed_at:2021-09 star:0.0k fork:0.0k golang sdk for BRCC (https://github.com/baidu/brcc)
 - [baidu/cluster-api-provider-baiducloud](https://github.com/baidu/cluster-api-provider-baiducloud) pushed_at:2018-12 star:0.0k fork:0.0k Kubernetes cluster-api for Baidu Cloud
-- [baidu/EasyFaaS](https://github.com/baidu/EasyFaaS) pushed_at:2021-09 star:0.5k fork:0.0k EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎
-- [baidu/go-lib](https://github.com/baidu/go-lib) pushed_at:2021-09 star:0.1k fork:0.0k 
+- [baidu/EasyFaaS](https://github.com/baidu/EasyFaaS) pushed_at:2021-10 star:0.5k fork:0.0k EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎
+- [baidu/go-lib](https://github.com/baidu/go-lib) pushed_at:2021-10 star:0.1k fork:0.0k 
 - [baidu/ote-stack](https://github.com/baidu/ote-stack) pushed_at:2020-07 star:0.1k fork:0.0k OTE-Stack is an edge computing platform for 5G and AI
 - [baidu/paddle-on-k8s-operator](https://github.com/baidu/paddle-on-k8s-operator) pushed_at:2020-03 star:0.0k fork:0.0k Kubernetes operator for managing the lifecycle of PaddlePaddle job.
 - [baidu/runc](https://github.com/baidu/runc) pushed_at:2019-06 star:0.0k fork:0.0k CLI tool for spawning and running containers according to the OCI specification
@@ -97,7 +97,7 @@
 - [baidu/grafana-tsdb-datasource-backend](https://github.com/baidu/grafana-tsdb-datasource-backend) pushed_at:2019-01 star:0.0k fork:0.0k 
 - [baidu/mapv](https://github.com/baidu/mapv) pushed_at:2016-09 star:0.1k fork:0.0k a library of geography visualization-地理信息可视化库
 - [baidu/mix-img](https://github.com/baidu/mix-img) pushed_at:2021-07 star:0.3k fork:0.0k A fast mix image javascript tool libary
-- [baidu/NoahV](https://github.com/baidu/NoahV) pushed_at:2021-09 star:0.6k fork:0.1k An efficient front-end application framework based on vue.js
+- [baidu/NoahV](https://github.com/baidu/NoahV) pushed_at:2021-10 star:0.6k fork:0.1k An efficient front-end application framework based on vue.js
 - [baidu/san](https://github.com/baidu/san) pushed_at:2021-10 star:4.5k fork:0.5k A fast, portable, flexible JavaScript component framework
 - [baidu/san-composition](https://github.com/baidu/san-composition) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [baidu/san-factory](https://github.com/baidu/san-factory) pushed_at:2021-04 star:0.0k fork:0.0k 
@@ -114,7 +114,7 @@
 
 ## Others
 
-- [baidu/bfe-book](https://github.com/baidu/bfe-book) pushed_at:2021-07 star:0.9k fork:0.1k 《深入理解BFE》（Book for opensource project BFE, in Chinese）
+- [baidu/bfe-book](https://github.com/baidu/bfe-book) pushed_at:2021-10 star:0.9k fork:0.1k 《深入理解BFE》（Book for opensource project BFE, in Chinese）
 - [baidu/cppcheck](https://github.com/baidu/cppcheck) pushed_at:2019-12 star:0.0k fork:0.0k static analysis of C/C++ code
 - [baidu/iot](https://github.com/baidu/iot) pushed_at:2016-09 star:0.0k fork:0.0k for all code about Internet of Things
 - [baidu/ITEST](https://github.com/baidu/ITEST) pushed_at:2013-11 star:0.1k fork:0.1k Web service interface test framework

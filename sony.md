@@ -26,7 +26,7 @@
 
 ## C
 
-- [sony/nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) pushed_at:2021-09 star:0.0k fork:0.0k Neural Network Libraries https://nnabla.org/ - C Runtime
+- [sony/nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) pushed_at:2021-10 star:0.0k fork:0.0k Neural Network Libraries https://nnabla.org/ - C Runtime
 - [sony/openocd-nuttx](https://github.com/sony/openocd-nuttx) pushed_at:2019-01 star:0.0k fork:0.0k Fork of OpenOCD with NuttX thread support.
 - [sony/pdaf-library](https://github.com/sony/pdaf-library) pushed_at:2016-03 star:0.0k fork:0.0k 
 
@@ -50,7 +50,7 @@
 ## Go
 
 - [sony/appsync-client-go](https://github.com/sony/appsync-client-go) pushed_at:2021-05 star:0.0k fork:0.0k AWS AppSync golang client library
-- [sony/gobreaker](https://github.com/sony/gobreaker) pushed_at:2021-04 star:1.8k fork:0.1k Circuit Breaker implemented in Go
+- [sony/gobreaker](https://github.com/sony/gobreaker) pushed_at:2021-10 star:1.8k fork:0.1k Circuit Breaker implemented in Go
 - [sony/micro-notifier](https://github.com/sony/micro-notifier) pushed_at:2021-02 star:0.0k fork:0.0k Simplified Pusher Clone
 - [sony/sonyflake](https://github.com/sony/sonyflake) pushed_at:2021-08 star:2.3k fork:0.2k A distributed unique ID generator inspired by Twitter's Snowflake
 
@@ -75,7 +75,7 @@
 
 ## Others
 
-- [sony/nnabla-doc](https://github.com/sony/nnabla-doc) pushed_at:2021-09 star:0.0k fork:0.0k 
+- [sony/nnabla-doc](https://github.com/sony/nnabla-doc) pushed_at:2021-10 star:0.0k fork:0.0k 
 
 ## PHP
 
@@ -89,7 +89,7 @@
 - [sony/nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [sony/nnabla-examples](https://github.com/sony/nnabla-examples) pushed_at:2021-10 star:0.2k fork:0.0k Neural Network Libraries https://nnabla.org/ - Examples
 - [sony/nnabla-nas](https://github.com/sony/nnabla-nas) pushed_at:2021-09 star:0.0k fork:0.0k Neural Architecture Search for Neural Network Libraries
-- [sony/nnabla-rl](https://github.com/sony/nnabla-rl) pushed_at:2021-09 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
+- [sony/nnabla-rl](https://github.com/sony/nnabla-rl) pushed_at:2021-10 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
 - [sony/nnc-plugin](https://github.com/sony/nnc-plugin) pushed_at:2021-10 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
 - [sony/pyIEOE](https://github.com/sony/pyIEOE) pushed_at:2021-09 star:0.0k fork:0.0k 
 

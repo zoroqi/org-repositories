@@ -32,8 +32,8 @@
 ## C
 
 - [bytedance/atop](https://github.com/bytedance/atop) pushed_at:2021-10 star:0.0k fork:0.0k System and process monitor for Linux
-- [bytedance/bhook](https://github.com/bytedance/bhook) pushed_at:2021-09 star:0.7k fork:0.1k 🔥 ByteHook(aka bhook) is a PLT hook framework for Android app.
-- [bytedance/kvm-utils](https://github.com/bytedance/kvm-utils) pushed_at:2021-04 star:0.0k fork:0.0k 
+- [bytedance/bhook](https://github.com/bytedance/bhook) pushed_at:2021-10 star:0.7k fork:0.1k 🔥 ByteHook(aka bhook) is a PLT hook framework for Android app.
+- [bytedance/kvm-utils](https://github.com/bytedance/kvm-utils) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [bytedance/libiscsi](https://github.com/bytedance/libiscsi) pushed_at:2020-11 star:0.0k fork:0.0k iscsi client library and utilities
 - [bytedance/libnvmf](https://github.com/bytedance/libnvmf) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [bytedance/memory-leak-detector](https://github.com/bytedance/memory-leak-detector) pushed_at:2021-10 star:0.6k fork:0.1k 
@@ -82,14 +82,14 @@
 - [bytedance/bosun](https://github.com/bytedance/bosun) pushed_at:2015-08 star:0.0k fork:0.0k Time Series Alerting Framework
 - [bytedance/csi-driver-nvmf](https://github.com/bytedance/csi-driver-nvmf) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [bytedance/dbatman](https://github.com/bytedance/dbatman) pushed_at:2017-02 star:0.1k fork:0.0k 
-- [bytedance/Elkeid](https://github.com/bytedance/Elkeid) pushed_at:2021-10 star:0.8k fork:0.2k Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture.
+- [bytedance/Elkeid](https://github.com/bytedance/Elkeid) pushed_at:2021-10 star:0.9k fork:0.2k Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture.
 - [bytedance/go-querystring-parser](https://github.com/bytedance/go-querystring-parser) pushed_at:2020-10 star:0.0k fork:0.0k A golang querystring parser
 - [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) pushed_at:2021-10 star:1.0k fork:0.1k An interesting go struct tag expression syntax for field validation, etc.
-- [bytedance/gopkg](https://github.com/bytedance/gopkg) pushed_at:2021-10 star:0.3k fork:0.0k Universal Utilities for Go
+- [bytedance/gopkg](https://github.com/bytedance/gopkg) pushed_at:2021-10 star:0.4k fork:0.0k Universal Utilities for Go
 - [bytedance/ingress-nginx](https://github.com/bytedance/ingress-nginx) pushed_at:2020-10 star:0.0k fork:0.0k NGINX Ingress Controller for Kubernetes
 - [bytedance/json](https://github.com/bytedance/json) pushed_at:2019-05 star:0.0k fork:0.0k JSON standard package extension library
 - [bytedance/msgp](https://github.com/bytedance/msgp) pushed_at:2019-10 star:0.0k fork:0.0k A Go code generator for MessagePack / msgpack.org[Go]
-- [bytedance/ns-x](https://github.com/bytedance/ns-x) pushed_at:2021-09 star:0.1k fork:0.0k An easy-to-use, flexible network simulator library in Go.
+- [bytedance/ns-x](https://github.com/bytedance/ns-x) pushed_at:2021-10 star:0.1k fork:0.0k An easy-to-use, flexible network simulator library in Go.
 - [bytedance/rcproxy](https://github.com/bytedance/rcproxy) pushed_at:2015-10 star:0.0k fork:0.0k 
 
 ## HTML
@@ -119,7 +119,7 @@
 - [bytedance/lottiefy](https://github.com/bytedance/lottiefy) pushed_at:2018-12 star:0.1k fork:0.0k Render Lottie to any engine
 - [bytedance/mp4.js](https://github.com/bytedance/mp4.js) pushed_at:2021-09 star:0.0k fork:0.0k converter from mp4 to fmp4
 - [bytedance/node-wifi-info](https://github.com/bytedance/node-wifi-info) pushed_at:2021-09 star:0.0k fork:0.0k node module to get information about the currently connected wifi
-- [bytedance/xgplayer](https://github.com/bytedance/xgplayer) pushed_at:2021-09 star:4.5k fork:0.5k A HTML5 video player with a parser that saves traffic
+- [bytedance/xgplayer](https://github.com/bytedance/xgplayer) pushed_at:2021-09 star:4.6k fork:0.5k A HTML5 video player with a parser that saves traffic
 - [bytedance/xgplayer-react](https://github.com/bytedance/xgplayer-react) pushed_at:2021-02 star:0.1k fork:0.0k React component for xgplayer, a HTML5 video player with a parser that saves traffic
 - [bytedance/xgplayer-vue](https://github.com/bytedance/xgplayer-vue) pushed_at:2021-07 star:0.2k fork:0.0k Vue component for xgplayer, a HTML5 video player with a parser that saves traffic
 
@@ -137,7 +137,7 @@
 ## Others
 
 - [bytedance/Android-Pangle-Manuel-Quick-Start](https://github.com/bytedance/Android-Pangle-Manuel-Quick-Start) pushed_at:2020-12 star:0.0k fork:0.0k This is a manual for integrating Pangle Android SDK to your app.
-- [bytedance/bcc](https://github.com/bytedance/bcc) pushed_at:2021-08 star:0.0k fork:0.0k BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
+- [bytedance/bcc](https://github.com/bytedance/bcc) pushed_at:2021-10 star:0.0k fork:0.0k BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [bytedance/bifrost](https://github.com/bytedance/bifrost) pushed_at:2020-12 star:0.0k fork:0.0k 
 - [bytedance/cloud-hypervisor](https://github.com/bytedance/cloud-hypervisor) pushed_at:2021-06 star:0.0k fork:0.0k A rust-vmm based cloud hypervisor
 - [bytedance/Fastbot_Android](https://github.com/bytedance/Fastbot_Android) pushed_at:2021-10 star:0.4k fork:0.1k Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems
@@ -167,8 +167,8 @@
 - [bytedance/GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) pushed_at:2020-10 star:1.0k fork:0.1k 
 - [bytedance/mega-ai](https://github.com/bytedance/mega-ai) pushed_at:2021-03 star:0.0k fork:0.0k Encapsulate tensorflow and other deep frameworks, support feature evaluation and model evaluation methods
 - [bytedance/mega-spark](https://github.com/bytedance/mega-spark) pushed_at:2020-09 star:0.0k fork:0.0k Spark is encapsulated as a mega interface to call pandas methods
-- [bytedance/music_source_separation](https://github.com/bytedance/music_source_separation) pushed_at:2021-09 star:0.6k fork:0.1k 
-- [bytedance/neurst](https://github.com/bytedance/neurst) pushed_at:2021-09 star:0.2k fork:0.0k Neural end-to-end Speech Translation Toolkit
+- [bytedance/music_source_separation](https://github.com/bytedance/music_source_separation) pushed_at:2021-10 star:0.6k fork:0.1k 
+- [bytedance/neurst](https://github.com/bytedance/neurst) pushed_at:2021-10 star:0.2k fork:0.0k Neural end-to-end Speech Translation Toolkit
 - [bytedance/OMGD](https://github.com/bytedance/OMGD) pushed_at:2021-09 star:0.2k fork:0.0k Online Multi-Granularity Distillation for GAN Compression (ICCV2021)
 - [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) pushed_at:2021-05 star:0.7k fork:0.1k 
 - [bytedance/raylink](https://github.com/bytedance/raylink) pushed_at:2021-10 star:0.0k fork:0.0k Framework to build and train RL algorithms

@@ -18,9 +18,9 @@
 - [Jupyter Notebook](#jupyter-notebook) (4)
 - [OCaml](#ocaml) (1)
 - [Objective-C](#objective-c) (1)
-- [Others](#others) (8)
+- [Others](#others) (7)
 - [PostScript](#postscript) (1)
-- [Python](#python) (18)
+- [Python](#python) (19)
 - [Ruby](#ruby) (1)
 - [Rust](#rust) (1)
 - [Shell](#shell) (5)
@@ -29,7 +29,7 @@
 ## C
 
 - [ARM-software/AArch64cryptolib](https://github.com/ARM-software/AArch64cryptolib) pushed_at:2020-11 star:0.0k fork:0.0k AArch64cryptolib is a from scratch implementation of cryptographic primitives aiming for optimal performance on Arm A-class cores
-- [ARM-software/arm-enterprise-acs](https://github.com/ARM-software/arm-enterprise-acs) pushed_at:2021-09 star:0.0k fork:0.0k ARM Enterprise ACS
+- [ARM-software/arm-enterprise-acs](https://github.com/ARM-software/arm-enterprise-acs) pushed_at:2021-10 star:0.0k fork:0.0k ARM Enterprise ACS
 - [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) pushed_at:2021-10 star:1.3k fork:1.0k Read-only mirror of Trusted Firmware-A
 - [ARM-software/ATS-Keyword](https://github.com/ARM-software/ATS-Keyword) pushed_at:2021-10 star:0.0k fork:0.0k Smart Home Total Solution - Keyword Recognition
 - [ARM-software/bbr-acs](https://github.com/ARM-software/bbr-acs) pushed_at:2021-10 star:0.0k fork:0.0k Arm SystemReady : BBR Compliance Suite
@@ -43,7 +43,7 @@
 - [ARM-software/CMSIS-Musca-S1](https://github.com/ARM-software/CMSIS-Musca-S1) pushed_at:2021-10 star:0.0k fork:0.0k Repository of CMSIS Software Pack for Musca-S1 test-chip and board.
 - [ARM-software/CMSIS-TFM](https://github.com/ARM-software/CMSIS-TFM) pushed_at:2020-06 star:0.0k fork:0.0k Downstream Repository of CMSIS Software Packs for Trusted Firmware-M (TF-M).
 - [ARM-software/CMSIS-View](https://github.com/ARM-software/CMSIS-View) pushed_at:2021-01 star:0.0k fork:0.0k Repository of CMSIS Software Pack for software event generation and input/output handling.
-- [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) pushed_at:2021-10 star:0.2k fork:0.8k CMSIS Version 5 Development Repository
+- [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) pushed_at:2021-10 star:0.3k fork:0.8k CMSIS Version 5 Development Repository
 - [ARM-software/CPA](https://github.com/ARM-software/CPA) pushed_at:2017-11 star:0.0k fork:0.0k Contiguous page allocator project
 - [ARM-software/cryptocell-312-runtime](https://github.com/ARM-software/cryptocell-312-runtime) pushed_at:2021-02 star:0.0k fork:0.0k CryptoCell 312 runtime code
 - [ARM-software/Cryptocell-703-TEE-Lib](https://github.com/ARM-software/Cryptocell-703-TEE-Lib) pushed_at:2020-09 star:0.0k fork:0.0k Cryptocell 713/703 TEE Lib
@@ -165,13 +165,12 @@
 - [ARM-software/data](https://github.com/ARM-software/data) pushed_at:2021-10 star:0.0k fork:0.0k Machine-readable data describing Arm architecture and implementations. Includes JSON descriptions of implemented PMU events.
 - [ARM-software/NXP_iMX](https://github.com/ARM-software/NXP_iMX) pushed_at:2016-03 star:0.0k fork:0.0k CMSIS Driver Implementations for the NXP i.MX Device Series with Cortex-M processor
 - [ARM-software/NXP_Kinetis](https://github.com/ARM-software/NXP_Kinetis) pushed_at:2016-03 star:0.0k fork:0.0k CMSIS Driver Implementations for the NXP Kinetis Microcontroller Series
-- [ARM-software/perfsage](https://github.com/ARM-software/perfsage) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [ARM-software/tf-issues](https://github.com/ARM-software/tf-issues) pushed_at:2020-01 star:0.0k fork:0.0k Issue tracking for the ARM Trusted Firmware project
 - [ARM-software/third-party-source](https://github.com/ARM-software/third-party-source) pushed_at:2019-10 star:0.0k fork:0.0k Source code snapshots of third party OSS
 
 ## PostScript
 
-- [ARM-software/ebbr](https://github.com/ARM-software/ebbr) pushed_at:2021-08 star:0.1k fork:0.0k Embedded Base Boot Requirements Specification
+- [ARM-software/ebbr](https://github.com/ARM-software/ebbr) pushed_at:2021-10 star:0.1k fork:0.0k Embedded Base Boot Requirements Specification
 
 ## Python
 
@@ -183,8 +182,9 @@
 - [ARM-software/daq-server](https://github.com/ARM-software/daq-server) pushed_at:2021-07 star:0.0k fork:0.0k Server for remote access to National Instruments DAQ devices
 - [ARM-software/devlib](https://github.com/ARM-software/devlib) pushed_at:2021-10 star:0.0k fork:0.1k Library for interaction with and instrumentation of remote devices.
 - [ARM-software/LLVM-embedded-toolchain-for-Arm](https://github.com/ARM-software/LLVM-embedded-toolchain-for-Arm) pushed_at:2021-10 star:0.1k fork:0.0k A project dedicated to build LLVM toolchain for 32-bit Arm embedded targets.
-- [ARM-software/ML-zoo](https://github.com/ARM-software/ML-zoo) pushed_at:2021-08 star:0.1k fork:0.0k 
+- [ARM-software/ML-zoo](https://github.com/ARM-software/ML-zoo) pushed_at:2021-10 star:0.1k fork:0.0k 
 - [ARM-software/mram_simulation_framework](https://github.com/ARM-software/mram_simulation_framework) pushed_at:2021-10 star:0.0k fork:0.0k MRAM magnetization simulation framework. s-LLGS python and verilog-a solvers for transients simulation and  Fokker-planck equation solver for stochastic analysis
+- [ARM-software/perfsage](https://github.com/ARM-software/perfsage) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [ARM-software/SCALE-Sim](https://github.com/ARM-software/SCALE-Sim) pushed_at:2021-04 star:0.2k fork:0.1k 
 - [ARM-software/scalpel](https://github.com/ARM-software/scalpel) pushed_at:2018-11 star:0.0k fork:0.0k This is a PyTorch implementation of the Scalpel. Node pruning for five benchmark networks and SIMD-aware weight pruning for LeNet-300-100 and LeNet-5 is included.
 - [ARM-software/sesr](https://github.com/ARM-software/sesr) pushed_at:2021-09 star:0.0k fork:0.0k Super-Efficient Super Resolution
@@ -204,7 +204,7 @@
 
 ## Shell
 
-- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) pushed_at:2021-10 star:0.2k fork:0.1k Application Binary Interface for the Arm® Architecture
+- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) pushed_at:2021-10 star:0.3k fork:0.1k Application Binary Interface for the Arm® Architecture
 - [ARM-software/arm-systemready](https://github.com/ARM-software/arm-systemready) pushed_at:2021-10 star:0.0k fork:0.0k Arm SystemReady
 - [ARM-software/ohpc-config](https://github.com/ARM-software/ohpc-config) pushed_at:2017-08 star:0.0k fork:0.0k Scripts and config files for recreating an OpenHPC OBS instance.
 - [ARM-software/toolchain](https://github.com/ARM-software/toolchain) pushed_at:2020-02 star:0.0k fork:0.0k An master project to en route toolchain build requests into corresponding sub-projects with appropriate tags

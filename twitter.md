@@ -80,7 +80,7 @@
 - [twitter/netty-http2](https://github.com/twitter/netty-http2) pushed_at:2021-02 star:0.1k fork:0.0k HTTP/2 for Netty
 - [twitter/nodes](https://github.com/twitter/nodes) pushed_at:2021-10 star:0.2k fork:0.0k  A library to implement asynchronous dependency graphs for services in Java
 - [twitter/sbf](https://github.com/twitter/sbf) pushed_at:2020-10 star:0.0k fork:0.0k 
-- [twitter/Serial](https://github.com/twitter/Serial) pushed_at:2020-12 star:0.8k fork:0.1k Light-weight, fast framework for object serialization in Java, with Android support.
+- [twitter/Serial](https://github.com/twitter/Serial) pushed_at:2020-12 star:0.9k fork:0.1k Light-weight, fast framework for object serialization in Java, with Android support.
 - [twitter/whiskey](https://github.com/twitter/whiskey) pushed_at:2020-10 star:0.1k fork:0.0k HTTP library for Android (beta)
 
 ## JavaScript

@@ -28,10 +28,10 @@
 - [golang/gddo](https://github.com/golang/gddo) pushed_at:2021-01 star:1.1k fork:0.3k Go Doc Dot Org
 - [golang/geo](https://github.com/golang/geo) pushed_at:2021-09 star:1.3k fork:0.1k S2 geometry library in Go
 - [golang/glog](https://github.com/golang/glog) pushed_at:2021-08 star:3.0k fork:0.8k Leveled execution logs for Go
-- [golang/go](https://github.com/golang/go) pushed_at:2021-10 star:91.2k fork:13.4k The Go programming language
+- [golang/go](https://github.com/golang/go) pushed_at:2021-10 star:91.5k fork:13.5k The Go programming language
 - [golang/go-get-issue-15410](https://github.com/golang/go-get-issue-15410) pushed_at:2020-08 star:0.0k fork:0.0k go-get-issue-15410
 - [golang/gofrontend](https://github.com/golang/gofrontend) pushed_at:2021-10 star:0.6k fork:0.1k Go compiler frontend (gccgo)
-- [golang/groupcache](https://github.com/golang/groupcache) pushed_at:2021-05 star:10.7k fork:1.2k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
+- [golang/groupcache](https://github.com/golang/groupcache) pushed_at:2021-05 star:10.8k fork:1.2k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [golang/image](https://github.com/golang/image) pushed_at:2021-07 star:0.4k fork:0.1k [mirror] Go supplementary image libraries
 - [golang/leveldb](https://github.com/golang/leveldb) pushed_at:2017-01 star:1.0k fork:0.1k The LevelDB key-value database in the Go programming language.
 - [golang/lint](https://github.com/golang/lint) pushed_at:2021-05 star:3.9k fork:0.5k [mirror] This is a linter for Go source code. (deprecated)
