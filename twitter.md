@@ -42,7 +42,7 @@
 - [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2021-10 star:0.9k fork:0.1k Pelikan is Twitter's unified cache backend
 - [twitter/torch-ipc](https://github.com/twitter/torch-ipc) pushed_at:2021-10 star:0.1k fork:0.0k A set of primitives for parallel computation in Torch
 - [twitter/torch-thrift](https://github.com/twitter/torch-thrift) pushed_at:2021-10 star:0.0k fork:0.0k A Thrift codec for Torch
-- [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2019-08 star:0.9k fork:0.1k Twemcache is the Twitter Memcached
+- [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2019-08 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-10 star:11.0k fork:1.9k A fast, light-weight proxy for memcached and redis
 
 ## C++
@@ -73,7 +73,7 @@
 - [twitter/cloudhopper-commons](https://github.com/twitter/cloudhopper-commons) pushed_at:2021-06 star:0.0k fork:0.0k Cloudhopper Commons
 - [twitter/elephant-bird](https://github.com/twitter/elephant-bird) pushed_at:2021-08 star:1.1k fork:0.4k Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
 - [twitter/GraphJet](https://github.com/twitter/GraphJet) pushed_at:2021-06 star:0.5k fork:0.1k GraphJet is a real-time graph processing library.
-- [twitter/hbc](https://github.com/twitter/hbc) pushed_at:2021-06 star:0.9k fork:0.4k A Java HTTP client for consuming Twitter's realtime Streaming API
+- [twitter/hbc](https://github.com/twitter/hbc) pushed_at:2021-10 star:0.9k fork:0.4k A Java HTTP client for consuming Twitter's realtime Streaming API
 - [twitter/hpack](https://github.com/twitter/hpack) pushed_at:2020-10 star:0.2k fork:0.0k Header Compression for HTTP/2
 - [twitter/hraven](https://github.com/twitter/hraven) pushed_at:2021-06 star:0.1k fork:0.1k hRaven collects run time data and statistics from MapReduce jobs in an easily queryable format
 - [twitter/joauth](https://github.com/twitter/joauth) pushed_at:2021-08 star:0.2k fork:0.1k A Java library for authenticating HTTP Requests using OAuth
@@ -153,7 +153,7 @@
 
 ## SCSS
 
-- [twitter/opensource-website](https://github.com/twitter/opensource-website) pushed_at:2021-10 star:1.7k fork:0.6k A listing of open source efforts at Twitter on GitHub
+- [twitter/opensource-website](https://github.com/twitter/opensource-website) pushed_at:2021-10 star:1.7k fork:0.6k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 
 ## Scala
 
@@ -194,7 +194,7 @@
 
 ## Vue
 
-- [twitter/check-my-repo](https://github.com/twitter/check-my-repo) pushed_at:2021-09 star:0.0k fork:0.0k Automatically check repositories health and quality and build reports that help us understand the current state of Sauce Labs repositories
+- [twitter/check-my-repo](https://github.com/twitter/check-my-repo) pushed_at:2021-10 star:0.0k fork:0.0k Automatically check repositories health and quality and build reports that help us understand the current state of Sauce Labs repositories
 
 
 ## License

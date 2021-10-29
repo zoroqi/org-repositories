@@ -76,7 +76,7 @@
 - [uber/cadence-java-samples](https://github.com/uber/cadence-java-samples) pushed_at:2021-10 star:0.1k fork:0.0k 
 - [uber/concurrency-loadbalancer](https://github.com/uber/concurrency-loadbalancer) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [uber/dynamodb-cross-region-library](https://github.com/uber/dynamodb-cross-region-library) pushed_at:2017-10 star:0.0k fork:0.0k A library to facilitate cross-region replication with Amazon DynamoDB Streams.
-- [uber/h3-java](https://github.com/uber/h3-java) pushed_at:2021-08 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
+- [uber/h3-java](https://github.com/uber/h3-java) pushed_at:2021-10 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/marmaray](https://github.com/uber/marmaray) pushed_at:2021-06 star:0.4k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
 - [uber/NullAway](https://github.com/uber/NullAway) pushed_at:2021-10 star:3.0k fork:0.2k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [uber/okbuck](https://github.com/uber/okbuck) pushed_at:2021-09 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
@@ -165,7 +165,7 @@
 
 - [uber/bayesmark](https://github.com/uber/bayesmark) pushed_at:2021-06 star:0.1k fork:0.0k Benchmark framework to easily compare Bayesian optimization methods on real machine learning tasks
 - [uber/cassette](https://github.com/uber/cassette) pushed_at:2020-10 star:0.1k fork:0.0k Store and replay HTTP requests made in your Python app
-- [uber/causalml](https://github.com/uber/causalml) pushed_at:2021-10 star:2.3k fork:0.4k Uplift modeling and causal inference with machine learning algorithms
+- [uber/causalml](https://github.com/uber/causalml) pushed_at:2021-10 star:2.4k fork:0.4k Uplift modeling and causal inference with machine learning algorithms
 - [uber/charlatan](https://github.com/uber/charlatan) pushed_at:2019-09 star:0.1k fork:0.0k A Python library to efficiently manage and install database fixtures
 - [uber/clay](https://github.com/uber/clay) pushed_at:2019-06 star:0.4k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [uber/doubles](https://github.com/uber/doubles) pushed_at:2018-10 star:0.2k fork:0.0k Test doubles for Python.
@@ -175,7 +175,7 @@
 - [uber/multidimensional_urlencode](https://github.com/uber/multidimensional_urlencode) pushed_at:2019-07 star:0.1k fork:0.0k Python library to urlencode a multidimensional dict
 - [uber/mutornadomon](https://github.com/uber/mutornadomon) pushed_at:2019-10 star:0.0k fork:0.0k Easy-to-install monitor endpoint for Tornado applications
 - [uber/orbit](https://github.com/uber/orbit) pushed_at:2021-10 star:0.7k fork:0.1k A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
-- [uber/petastorm](https://github.com/uber/petastorm) pushed_at:2021-09 star:1.3k fork:0.2k Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
+- [uber/petastorm](https://github.com/uber/petastorm) pushed_at:2021-10 star:1.3k fork:0.2k Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
 - [uber/py-find-injection](https://github.com/uber/py-find-injection) pushed_at:2019-03 star:0.1k fork:0.0k Look for SQL injection attacks in python source code
 - [uber/py-look-for-timeouts](https://github.com/uber/py-look-for-timeouts) pushed_at:2020-03 star:0.0k fork:0.0k Scan for missing timeout calls in python source files
 - [uber/pymegacli](https://github.com/uber/pymegacli) pushed_at:2019-03 star:0.0k fork:0.0k Python API wrapper around MegaCli64
@@ -187,7 +187,7 @@
 
 ## Ruby
 
-- [uber/client-platform-engineering](https://github.com/uber/client-platform-engineering) pushed_at:2021-10 star:0.0k fork:0.0k A collection of cookbooks, scripts and binaries used to manage our macOS, Ubuntu and Windows endpoints
+- [uber/client-platform-engineering](https://github.com/uber/client-platform-engineering) pushed_at:2021-10 star:0.1k fork:0.0k A collection of cookbooks, scripts and binaries used to manage our macOS, Ubuntu and Windows endpoints
 - [uber/homebrew-nanoscope](https://github.com/uber/homebrew-nanoscope) pushed_at:2020-05 star:0.0k fork:0.0k 
 
 ## Shell

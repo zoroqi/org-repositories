@@ -132,13 +132,13 @@
 - [baidu/ARK](https://github.com/baidu/ARK) pushed_at:2021-05 star:0.1k fork:0.0k Development framework of intelligent operation
 - [baidu/broc](https://github.com/baidu/broc) pushed_at:2017-12 star:0.1k fork:0.1k 
 - [baidu/CUP](https://github.com/baidu/CUP) pushed_at:2021-08 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
-- [baidu/DDParser](https://github.com/baidu/DDParser) pushed_at:2021-07 star:0.7k fork:0.1k 百度开源的依存句法分析系统
+- [baidu/DDParser](https://github.com/baidu/DDParser) pushed_at:2021-10 star:0.7k fork:0.1k 百度开源的依存句法分析系统
 - [baidu/Dialogue](https://github.com/baidu/Dialogue) pushed_at:2020-01 star:0.4k fork:0.1k 
 - [baidu/duedge-cli](https://github.com/baidu/duedge-cli) pushed_at:2020-03 star:0.0k fork:0.0k DuEdge Command Line
 - [baidu/DuReader](https://github.com/baidu/DuReader) pushed_at:2021-10 star:0.9k fork:0.3k Baseline Systems of DuReader Dataset
 - [baidu/information-extraction](https://github.com/baidu/information-extraction) pushed_at:2019-05 star:0.3k fork:0.1k 
 - [baidu/knowledge-driven-dialogue](https://github.com/baidu/knowledge-driven-dialogue) pushed_at:2019-06 star:0.3k fork:0.1k baseline system of knowledge driven dialogue competition
-- [baidu/logcover](https://github.com/baidu/logcover) pushed_at:2017-02 star:0.0k fork:0.0k 轻量级异常日志测试覆盖率度量工具
+- [baidu/logcover](https://github.com/baidu/logcover) pushed_at:2017-02 star:0.1k fork:0.0k 轻量级异常日志测试覆盖率度量工具
 - [baidu/QCompute](https://github.com/baidu/QCompute) pushed_at:2021-07 star:0.0k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
 - [baidu/Senta](https://github.com/baidu/Senta) pushed_at:2021-06 star:1.4k fork:0.3k Baidu's open-source Sentiment Analysis System.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
@@ -149,7 +149,7 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-10 star:8.3k fork:1.1k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-10 star:8.4k fork:1.1k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) pushed_at:2021-09 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) pushed_at:2021-09 star:0.0k fork:0.0k San SSR framework and utils
 

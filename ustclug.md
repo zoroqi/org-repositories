@@ -49,7 +49,7 @@
 
 ## Jupyter Notebook
 
-- [ustclug/hackergame2018-writeups](https://github.com/ustclug/hackergame2018-writeups) pushed_at:2020-11 star:0.2k fork:0.0k Write-ups for hackergame 2018
+- [ustclug/hackergame2018-writeups](https://github.com/ustclug/hackergame2018-writeups) pushed_at:2020-11 star:0.3k fork:0.0k Write-ups for hackergame 2018
 
 ## Lua
 

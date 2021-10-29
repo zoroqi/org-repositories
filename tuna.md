@@ -70,7 +70,7 @@
 
 - [tuna/artwork](https://github.com/tuna/artwork) pushed_at:2021-10 star:0.0k fork:0.0k tuna artwork
 - [tuna/Books](https://github.com/tuna/Books) pushed_at:2020-11 star:0.0k fork:0.0k Tracking Books of TUNA Library
-- [tuna/Cash](https://github.com/tuna/Cash) pushed_at:2021-09 star:0.0k fork:0.0k 
+- [tuna/Cash](https://github.com/tuna/Cash) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [tuna/collection](https://github.com/tuna/collection) pushed_at:2015-12 star:0.2k fork:0.0k idea collections from TUNA
 - [tuna/dataset-issues](https://github.com/tuna/dataset-issues) pushed_at:2018-04 star:0.0k fork:0.0k Issues about academic dataset mirrors
 - [tuna/isofusion](https://github.com/tuna/isofusion) pushed_at:2016-05 star:0.0k fork:0.0k scan and create iso filelist from mirrors
@@ -112,7 +112,7 @@
 
 ## TeX
 
-- [tuna/THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme) pushed_at:2020-12 star:0.1k fork:0.0k A LaTeX beamer theme template for Tsinghua students.
+- [tuna/THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme) pushed_at:2020-12 star:0.2k fork:0.0k A LaTeX beamer theme template for Tsinghua students.
 - [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) pushed_at:2021-04 star:0.3k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
 - [tuna/thuthesis](https://github.com/tuna/thuthesis) pushed_at:2021-07 star:3.2k fork:0.9k LaTeX Thesis Template for Tsinghua University
 

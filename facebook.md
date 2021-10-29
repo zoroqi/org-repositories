@@ -29,13 +29,13 @@
 - [facebook/fishhook](https://github.com/facebook/fishhook) pushed_at:2021-10 star:4.6k fork:0.8k A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
 - [facebook/netconsd](https://github.com/facebook/netconsd) pushed_at:2021-10 star:0.0k fork:0.0k Receive and process logs from the Linux kernel.
 - [facebook/OpenBIC](https://github.com/facebook/OpenBIC) pushed_at:2021-10 star:0.0k fork:0.0k BICs (Bridge IC) are standalone devices deployed within a Data Center that enable monitoring a multi-host system using a single BMC device.
-- [facebook/openbmc](https://github.com/facebook/openbmc) pushed_at:2021-10 star:0.5k fork:0.2k OpenBMC is an open software framework to build a complete Linux image for a Board Management Controller (BMC).
+- [facebook/openbmc](https://github.com/facebook/openbmc) pushed_at:2021-10 star:0.5k fork:0.3k OpenBMC is an open software framework to build a complete Linux image for a Board Management Controller (BMC).
 - [facebook/openbmc-linux](https://github.com/facebook/openbmc-linux) pushed_at:2021-10 star:0.0k fork:0.0k Linux kernel consumed by OpenBMC
 - [facebook/openbmc-qemu](https://github.com/facebook/openbmc-qemu) pushed_at:2021-10 star:0.0k fork:0.0k Fork of QEMU for Facebook OpenBMC machines, closely tracking upstream.
 - [facebook/openbmc-uboot](https://github.com/facebook/openbmc-uboot) pushed_at:2021-10 star:0.0k fork:0.0k Tracking Denx Das u-boot with various trusted computing add-ons.
 - [facebook/tac_plus](https://github.com/facebook/tac_plus) pushed_at:2021-08 star:0.1k fork:0.1k A Tacacs+ Daemon tested on Linux (CentOS) to run AAA via TACACS+ Protocol via IPv4 and IPv6.
 - [facebook/transform360](https://github.com/facebook/transform360) pushed_at:2021-08 star:0.9k fork:0.2k Transform360 is an equirectangular to cubemap transform for 360 video.
-- [facebook/zstd](https://github.com/facebook/zstd) pushed_at:2021-10 star:15.6k fork:1.5k Zstandard - Fast real-time compression algorithm
+- [facebook/zstd](https://github.com/facebook/zstd) pushed_at:2021-10 star:15.7k fork:1.5k Zstandard - Fast real-time compression algorithm
 
 ## C++
 
@@ -78,9 +78,9 @@
 
 ## Haskell
 
-- [facebook/duckling](https://github.com/facebook/duckling) pushed_at:2021-09 star:3.4k fork:0.6k Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
+- [facebook/duckling](https://github.com/facebook/duckling) pushed_at:2021-10 star:3.4k fork:0.7k Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.
 - [facebook/fbghc](https://github.com/facebook/fbghc) pushed_at:2021-10 star:0.0k fork:0.0k Mirror of the Glasgow Haskell Compiler. Patches are best submitted to GHC's Phabricator (https://phabricator.haskell.org/), bugs and feature-requests are best filed to GHC's Trac (https://ghc.haskell.org/trac/ghc), or sent to the mailing list (ghc-devs@haskell.org).     First time contributors are encouraged to get started by just sending a Pull Request.
-- [facebook/Haxl](https://github.com/facebook/Haxl) pushed_at:2021-09 star:4.0k fork:0.3k A Haskell library that simplifies access to remote data, such as databases or web-based services. 
+- [facebook/Haxl](https://github.com/facebook/Haxl) pushed_at:2021-10 star:4.0k fork:0.3k A Haskell library that simplifies access to remote data, such as databases or web-based services. 
 
 ## Java
 
@@ -98,10 +98,10 @@
 
 ## JavaScript
 
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) pushed_at:2021-10 star:91.0k fork:23.0k Set up a modern web app by running one command.
-- [facebook/draft-js](https://github.com/facebook/draft-js) pushed_at:2021-10 star:20.9k fork:2.5k A React framework for building text editors.
+- [facebook/create-react-app](https://github.com/facebook/create-react-app) pushed_at:2021-10 star:91.1k fork:23.1k Set up a modern web app by running one command.
+- [facebook/draft-js](https://github.com/facebook/draft-js) pushed_at:2021-10 star:21.0k fork:2.5k A React framework for building text editors.
 - [facebook/facebook-nodejs-business-sdk](https://github.com/facebook/facebook-nodejs-business-sdk) pushed_at:2021-10 star:0.4k fork:0.2k Facebook Ads API using Node.js
-- [facebook/fbjs](https://github.com/facebook/fbjs) pushed_at:2021-09 star:1.8k fork:0.3k A collection of utility libraries used by other Facebook JS projects.
+- [facebook/fbjs](https://github.com/facebook/fbjs) pushed_at:2021-10 star:1.8k fork:0.3k A collection of utility libraries used by other Facebook JS projects.
 - [facebook/fbt](https://github.com/facebook/fbt) pushed_at:2021-10 star:3.6k fork:0.2k A JavaScript Internationalization Framework
 - [facebook/flux](https://github.com/facebook/flux) pushed_at:2021-09 star:17.2k fork:3.6k Application Architecture for Building User Interfaces
 - [facebook/instant-articles-builder](https://github.com/facebook/instant-articles-builder) pushed_at:2021-10 star:0.1k fork:0.1k Instant Articles Rules Editor
@@ -109,8 +109,8 @@
 - [facebook/metro](https://github.com/facebook/metro) pushed_at:2021-10 star:4.2k fork:0.5k 🚇 The JavaScript bundler for React Native.
 - [facebook/prepack](https://github.com/facebook/prepack) pushed_at:2021-09 star:14.4k fork:0.5k A JavaScript bundle optimizer.
 - [facebook/prop-types](https://github.com/facebook/prop-types) pushed_at:2021-10 star:4.0k fork:0.4k Runtime type checking for React props and similar objects
-- [facebook/react](https://github.com/facebook/react) pushed_at:2021-10 star:176.5k fork:35.7k A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [facebook/react-native](https://github.com/facebook/react-native) pushed_at:2021-10 star:98.8k fork:21.4k A framework for building native applications using React
+- [facebook/react](https://github.com/facebook/react) pushed_at:2021-10 star:176.9k fork:35.8k A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react-native](https://github.com/facebook/react-native) pushed_at:2021-10 star:99.0k fork:21.4k A framework for building native applications using React
 - [facebook/react-native-website](https://github.com/facebook/react-native-website) pushed_at:2021-10 star:1.5k fork:3.7k Configuration and documentation powering the React Native website.
 - [facebook/regenerator](https://github.com/facebook/regenerator) pushed_at:2021-10 star:3.6k fork:1.2k Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
 - [facebook/relay](https://github.com/facebook/relay) pushed_at:2021-10 star:16.0k fork:1.6k Relay is a JavaScript framework for building data-driven React applications.
@@ -121,7 +121,7 @@
 
 ## Kotlin
 
-- [facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) pushed_at:2021-10 star:5.5k fork:3.5k Used to integrate Android apps with Facebook Platform.
+- [facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) pushed_at:2021-10 star:5.5k fork:3.6k Used to integrate Android apps with Facebook Platform.
 
 ## OCaml
 
@@ -142,13 +142,13 @@
 
 ## Others
 
-- [facebook/.github](https://github.com/facebook/.github) pushed_at:2021-08 star:0.0k fork:0.0k Default Community health files for Facebook projects
+- [facebook/.github](https://github.com/facebook/.github) pushed_at:2021-10 star:0.0k fork:0.0k Default Community health files for Facebook projects
 - [facebook/jsx](https://github.com/facebook/jsx) pushed_at:2021-10 star:1.7k fork:0.1k The JSX specification is a XML-like syntax extension to ECMAScript.
 - [facebook/react-devtools](https://github.com/facebook/react-devtools) pushed_at:2019-09 star:11.0k fork:1.8k An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
 
 ## PHP
 
-- [facebook/facebook-business-sdk-codegen](https://github.com/facebook/facebook-business-sdk-codegen) pushed_at:2021-09 star:0.1k fork:0.0k Codegen project for our business SDKs
+- [facebook/facebook-business-sdk-codegen](https://github.com/facebook/facebook-business-sdk-codegen) pushed_at:2021-10 star:0.1k fork:0.0k Codegen project for our business SDKs
 - [facebook/facebook-instant-articles-sdk-php](https://github.com/facebook/facebook-instant-articles-sdk-php) pushed_at:2021-10 star:0.2k fork:0.1k The Facebook Instant Articles SDK for PHP provides a native interface for creating and publishing Instant Articles.
 - [facebook/facebook-php-business-sdk](https://github.com/facebook/facebook-php-business-sdk) pushed_at:2021-10 star:0.6k fork:0.4k An SDK built to facilitate application development for Facebook Ads API.
 
@@ -181,8 +181,8 @@
 
 ## TypeScript
 
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) pushed_at:2021-10 star:27.5k fork:3.7k Easy to maintain open source documentation websites.
-- [facebook/flipper](https://github.com/facebook/flipper) pushed_at:2021-10 star:10.0k fork:0.7k A desktop debugging platform for mobile developers.
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) pushed_at:2021-10 star:27.7k fork:3.7k Easy to maintain open source documentation websites.
+- [facebook/flipper](https://github.com/facebook/flipper) pushed_at:2021-10 star:10.1k fork:0.7k A desktop debugging platform for mobile developers.
 - [facebook/jest](https://github.com/facebook/jest) pushed_at:2021-10 star:36.9k fork:5.4k Delightful JavaScript Testing.
 - [facebook/remodel](https://github.com/facebook/remodel) pushed_at:2021-09 star:0.6k fork:0.1k Remodel is a tool that helps iOS and OS X developers avoid repetitive code by generating Objective-C models that support coding, value comparison, and immutability.
 
