@@ -21,8 +21,8 @@
 
 ## C++
 
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) pushed_at:2021-10 star:12.9k fork:3.4k Hacktoberfest 2021 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
-- [OpenGenus/quark](https://github.com/OpenGenus/quark) pushed_at:2020-10 star:0.6k fork:0.1k Stay happy while offline | World's first offline search engine. 
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) pushed_at:2021-11 star:12.9k fork:3.4k Hacktoberfest 2021 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
+- [OpenGenus/quark](https://github.com/OpenGenus/quark) pushed_at:2021-10 star:0.6k fork:0.1k Stay happy while offline | World's first offline search engine. 
 
 ## CSS
 

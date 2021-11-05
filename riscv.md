@@ -23,28 +23,28 @@
 
 ## BitBake
 
-- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) pushed_at:2021-10 star:0.2k fork:0.1k OpenEmbedded/Yocto layer for RISC-V Architecture
+- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) pushed_at:2021-11 star:0.2k fork:0.1k OpenEmbedded/Yocto layer for RISC-V Architecture
 
 ## C
 
-- [riscv/configuration-structure](https://github.com/riscv/configuration-structure) pushed_at:2021-10 star:0.0k fork:0.0k RISC-V Configuration Structure
-- [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2021-10 star:0.2k fork:0.0k RISC-V cryptography extensions standardisation work.
-- [riscv/riscv-openocd](https://github.com/riscv/riscv-openocd) pushed_at:2021-10 star:0.2k fork:0.2k Fork of OpenOCD that has RISC-V support
+- [riscv/configuration-structure](https://github.com/riscv/configuration-structure) pushed_at:2021-11 star:0.0k fork:0.0k RISC-V Configuration Structure
+- [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2021-11 star:0.2k fork:0.0k RISC-V cryptography extensions standardisation work.
+- [riscv/riscv-openocd](https://github.com/riscv/riscv-openocd) pushed_at:2021-11 star:0.2k fork:0.2k Fork of OpenOCD that has RISC-V support
 - [riscv/riscv-test-env](https://github.com/riscv/riscv-test-env) pushed_at:2021-09 star:0.0k fork:0.1k 
 
 ## Coq
 
-- [riscv/sail-riscv](https://github.com/riscv/sail-riscv) pushed_at:2021-10 star:0.1k fork:0.0k Sail RISC-V model
+- [riscv/sail-riscv](https://github.com/riscv/sail-riscv) pushed_at:2021-11 star:0.2k fork:0.0k Sail RISC-V model
 
 ## HTML
 
-- [riscv/riscv-CMOs](https://github.com/riscv/riscv-CMOs) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [riscv/riscv-CMOs](https://github.com/riscv/riscv-CMOs) pushed_at:2021-11 star:0.0k fork:0.0k 
 
 ## Makefile
 
 - [riscv/riscv-aclint](https://github.com/riscv/riscv-aclint) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) pushed_at:2021-10 star:0.1k fork:0.0k Working draft of the proposed RISC-V Bitmanipulation extension
-- [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2021-10 star:0.1k fork:0.0k RISC-V Profiles and Platform Specification
+- [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2021-11 star:0.1k fork:0.0k RISC-V Profiles and Platform Specification
 - [riscv/riscv-semihosting-spec](https://github.com/riscv/riscv-semihosting-spec) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [riscv/riscv-tee](https://github.com/riscv/riscv-tee) pushed_at:2021-10 star:0.0k fork:0.0k 
 
@@ -64,15 +64,15 @@
 
 ## Python
 
-- [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) pushed_at:2021-10 star:0.1k fork:0.0k 
-- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) pushed_at:2021-09 star:0.3k fork:0.1k RISC-V Opcodes
+- [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) pushed_at:2021-11 star:0.1k fork:0.0k 
+- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) pushed_at:2021-11 star:0.3k fork:0.1k RISC-V Opcodes
 
 ## TeX
 
 - [riscv/docs-templates](https://github.com/riscv/docs-templates) pushed_at:2021-10 star:0.0k fork:0.0k Documentation templates and build tools
 - [riscv/riscv-count-overflow](https://github.com/riscv/riscv-count-overflow) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) pushed_at:2021-10 star:0.2k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
-- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2021-10 star:1.6k fork:0.3k RISC-V Instruction Set Manual
+- [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) pushed_at:2021-11 star:0.2k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
+- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2021-11 star:1.6k fork:0.3k RISC-V Instruction Set Manual
 - [riscv/riscv-state-enable](https://github.com/riscv/riscv-state-enable) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [riscv/riscv-time-compare](https://github.com/riscv/riscv-time-compare) pushed_at:2021-10 star:0.0k fork:0.0k 
 

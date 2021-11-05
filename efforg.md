@@ -85,7 +85,7 @@
 - [EFForg/ngw-website](https://github.com/EFForg/ngw-website) pushed_at:2017-01 star:0.0k fork:0.0k 
 - [EFForg/node-wethepeople](https://github.com/EFForg/node-wethepeople) pushed_at:2015-09 star:0.0k fork:0.0k Node wrapper for the We the People API
 - [EFForg/OpenWireless](https://github.com/EFForg/OpenWireless) pushed_at:2016-12 star:0.7k fork:0.1k The official home of the EFF OpenWireless Project
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) pushed_at:2021-10 star:2.3k fork:0.4k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) pushed_at:2021-11 star:2.3k fork:0.4k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [EFForg/privacybadgerfirefox-legacy](https://github.com/EFForg/privacybadgerfirefox-legacy) pushed_at:2016-12 star:0.4k fork:0.1k LEGACY Privacy Badger for Firefox SEE README
 - [EFForg/psi-tumblr-crawler](https://github.com/EFForg/psi-tumblr-crawler) pushed_at:2015-08 star:0.0k fork:0.0k 
 - [EFForg/pushserver](https://github.com/EFForg/pushserver) pushed_at:2018-03 star:0.0k fork:0.0k A server for sending push notifications to mobile apps
@@ -121,7 +121,7 @@
 
 ## Python
 
-- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) pushed_at:2021-10 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
+- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) pushed_at:2021-11 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
 - [EFForg/call-congress](https://github.com/EFForg/call-congress) pushed_at:2021-10 star:0.0k fork:0.0k a simple server that connects calls between citizens and their congress person using the Twilio API
 - [EFForg/contact-congress](https://github.com/EFForg/contact-congress) pushed_at:2014-06 star:0.0k fork:0.0k Sending electronic written messages to members of Congress by reverse engineering their contact forms.
 - [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) pushed_at:2021-08 star:0.5k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
@@ -154,8 +154,8 @@
 
 ## Rust
 
-- [EFForg/apkeep](https://github.com/EFForg/apkeep) pushed_at:2021-10 star:0.4k fork:0.0k 
-- [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) pushed_at:2021-10 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
+- [EFForg/apkeep](https://github.com/EFForg/apkeep) pushed_at:2021-11 star:0.4k fork:0.0k 
+- [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) pushed_at:2021-11 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
 - [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) pushed_at:2021-10 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 - [EFForg/https-everywhere-rust-test-implementation](https://github.com/EFForg/https-everywhere-rust-test-implementation) pushed_at:2020-04 star:0.0k fork:0.0k 
