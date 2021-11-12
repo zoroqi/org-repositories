@@ -41,7 +41,7 @@
 - [openai/coinrun](https://github.com/openai/coinrun) pushed_at:2020-12 star:0.3k fork:0.1k Code for the paper "Quantifying Transfer in Reinforcement Learning"
 - [openai/doom-py](https://github.com/openai/doom-py) pushed_at:2019-10 star:0.1k fork:0.0k ViZDoom Python wrapper
 - [openai/nccl](https://github.com/openai/nccl) pushed_at:2019-04 star:0.0k fork:0.0k Optimized primitives for collective multi-GPU communication
-- [openai/procgen](https://github.com/openai/procgen) pushed_at:2021-06 star:0.6k fork:0.1k Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
+- [openai/procgen](https://github.com/openai/procgen) pushed_at:2021-11 star:0.6k fork:0.1k Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
 - [openai/pytorch](https://github.com/openai/pytorch) pushed_at:2021-10 star:0.0k fork:0.0k Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [openai/robot_controllers](https://github.com/openai/robot_controllers) pushed_at:2016-07 star:0.0k fork:0.0k Robot control infrastructure
 - [openai/triton](https://github.com/openai/triton) pushed_at:2021-11 star:3.3k fork:0.2k Development repository for the Triton language and compiler
@@ -110,7 +110,7 @@
 
 - [openai/atari-demo](https://github.com/openai/atari-demo) pushed_at:2018-11 star:0.0k fork:0.0k Code for the blog post "Learning Montezuma’s Revenge from a Single Demonstration"
 - [openai/atari-reset](https://github.com/openai/atari-reset) pushed_at:2018-11 star:0.2k fork:0.0k Code for the blog post "Learning Montezuma’s Revenge from a Single Demonstration"
-- [openai/baselines](https://github.com/openai/baselines) pushed_at:2021-10 star:12.0k fork:4.1k OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
+- [openai/baselines](https://github.com/openai/baselines) pushed_at:2021-10 star:12.0k fork:4.2k OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [openai/CLIP-featurevis](https://github.com/openai/CLIP-featurevis) pushed_at:2021-03 star:0.2k fork:0.0k code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
 - [openai/code-align-evals-data](https://github.com/openai/code-align-evals-data) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [openai/DALL-E](https://github.com/openai/DALL-E) pushed_at:2021-04 star:3.5k fork:0.5k PyTorch package for the discrete VAE used for DALL·E.
@@ -123,12 +123,12 @@
 - [openai/finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm) pushed_at:2019-01 star:1.6k fork:0.4k Code and model for the paper "Improving Language Understanding by Generative Pre-Training"
 - [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) pushed_at:2019-07 star:1.4k fork:0.4k Code for "Learning to Generate Reviews and Discovering Sentiment"
 - [openai/glow](https://github.com/openai/glow) pushed_at:2021-02 star:2.8k fork:0.5k Code for reproducing results in "Glow: Generative Flow with Invertible 1x1 Convolutions"
-- [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2021-03 star:15.0k fork:3.9k Code for the paper "Language Models are Unsupervised Multitask Learners"
+- [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2021-03 star:15.1k fork:3.9k Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) pushed_at:2021-02 star:1.2k fork:0.3k Dataset of GPT-2 outputs for research in detection, biases, and more
 - [openai/grade-school-math](https://github.com/openai/grade-school-math) pushed_at:2021-11 star:0.1k fork:0.0k 
 - [openai/grok](https://github.com/openai/grok) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2021-10 star:0.8k fork:0.1k 
-- [openai/gym](https://github.com/openai/gym) pushed_at:2021-11 star:25.6k fork:7.3k A toolkit for developing and comparing reinforcement learning algorithms.
+- [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2021-11 star:0.8k fork:0.1k 
+- [openai/gym](https://github.com/openai/gym) pushed_at:2021-11 star:25.7k fork:7.3k A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/gym-http-api](https://github.com/openai/gym-http-api) pushed_at:2019-07 star:0.3k fork:0.1k API to access OpenAI Gym from other languages via HTTP
 - [openai/gym-recording](https://github.com/openai/gym-recording) pushed_at:2020-10 star:0.1k fork:0.0k Add-on package to gym, to record sequences of actions, observations, and rewards
 - [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2021-10 star:0.3k fork:0.2k 
@@ -155,7 +155,7 @@
 - [openai/multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs) pushed_at:2021-08 star:1.3k fork:0.6k Code for a multi-agent particle environment used in the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
 - [openai/neural-gpu](https://github.com/openai/neural-gpu) pushed_at:2018-11 star:0.1k fork:0.0k Code for the Neural GPU model originally described in "Neural GPUs Learn Algorithms"
 - [openai/neural-mmo](https://github.com/openai/neural-mmo) pushed_at:2021-04 star:1.3k fork:0.2k Code for the paper "Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents"
-- [openai/openai-python](https://github.com/openai/openai-python) pushed_at:2021-10 star:0.3k fork:0.1k 
+- [openai/openai-python](https://github.com/openai/openai-python) pushed_at:2021-11 star:0.3k fork:0.1k 
 - [openai/phasic-policy-gradient](https://github.com/openai/phasic-policy-gradient) pushed_at:2020-12 star:0.2k fork:0.0k Code for the paper "Phasic Policy Gradient"
 - [openai/pixel-cnn](https://github.com/openai/pixel-cnn) pushed_at:2020-02 star:1.8k fork:0.4k Code for the paper "PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications"
 - [openai/psaw](https://github.com/openai/psaw) pushed_at:2020-10 star:0.0k fork:0.0k Python Pushshift.io API Wrapper (for comment/submission search)
@@ -165,7 +165,7 @@
 - [openai/retro-baselines](https://github.com/openai/retro-baselines) pushed_at:2018-11 star:0.1k fork:0.1k Publicly releasable baselines for the Retro contest
 - [openai/retro-contest](https://github.com/openai/retro-contest) pushed_at:2018-11 star:0.1k fork:0.0k OpenAI Retro Contest
 - [openai/retro-movies](https://github.com/openai/retro-movies) pushed_at:2018-11 star:0.0k fork:0.0k 
-- [openai/robogym](https://github.com/openai/robogym) pushed_at:2021-01 star:0.3k fork:0.0k Robotics Gym Environments
+- [openai/robogym](https://github.com/openai/robogym) pushed_at:2021-01 star:0.2k fork:0.0k Robotics Gym Environments
 - [openai/roboschool](https://github.com/openai/roboschool) pushed_at:2019-10 star:2.0k fork:0.5k DEPRECATED: Open-source software for robot simulation, integrated with OpenAI Gym.
 - [openai/robosumo](https://github.com/openai/robosumo) pushed_at:2019-02 star:0.2k fork:0.1k  Code for the paper "Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments"
 - [openai/rosbridge](https://github.com/openai/rosbridge) pushed_at:2018-11 star:0.1k fork:0.0k [deprecated] Bridge from Gym to ROS robots
@@ -173,7 +173,7 @@
 - [openai/safety-starter-agents](https://github.com/openai/safety-starter-agents) pushed_at:2020-09 star:0.2k fork:0.1k Basic constrained RL agents used in experiments for the "Benchmarking Safe Exploration in Deep Reinforcement Learning" paper.
 - [openai/sonic-on-ray](https://github.com/openai/sonic-on-ray) pushed_at:2018-11 star:0.0k fork:0.0k Training Sonic with RLlib
 - [openai/sparse_attention](https://github.com/openai/sparse_attention) pushed_at:2020-08 star:1.2k fork:0.1k Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers"
-- [openai/spinningup](https://github.com/openai/spinningup) pushed_at:2021-10 star:6.4k fork:1.5k An educational resource to help anyone learn deep reinforcement learning.
+- [openai/spinningup](https://github.com/openai/spinningup) pushed_at:2021-11 star:6.4k fork:1.5k An educational resource to help anyone learn deep reinforcement learning.
 - [openai/staged-recipes](https://github.com/openai/staged-recipes) pushed_at:2016-12 star:0.0k fork:0.0k A place to submit conda recipes before they become fully fledged conda-forge feedstocks
 - [openai/summarize-from-feedback](https://github.com/openai/summarize-from-feedback) pushed_at:2021-01 star:0.3k fork:0.1k Code for "Learning to summarize from human feedback"
 - [openai/train-procgen](https://github.com/openai/train-procgen) pushed_at:2021-04 star:0.1k fork:0.0k Code for the paper "Leveraging Procedural Generation to Benchmark Reinforcement Learning"

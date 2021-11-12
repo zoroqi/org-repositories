@@ -8,9 +8,9 @@
 
 - [C++](#c++) (2)
 - [CSS](#css) (4)
-- [HTML](#html) (18)
+- [HTML](#html) (17)
 - [Java](#java) (5)
-- [JavaScript](#javascript) (13)
+- [JavaScript](#javascript) (14)
 - [Jupyter Notebook](#jupyter-notebook) (3)
 - [OpenEdge ABL](#openedge-abl) (1)
 - [Others](#others) (33)
@@ -33,7 +33,6 @@
 
 ## HTML
 
-- [OpenGenus/CINT](https://github.com/OpenGenus/CINT) pushed_at:2021-10 star:0.0k fork:0.0k "Coding Interview New Tab" extension 😎
 - [OpenGenus/clipboard_html](https://github.com/OpenGenus/clipboard_html) pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/collaboration](https://github.com/OpenGenus/collaboration) pushed_at:2018-06 star:0.0k fork:0.0k 
 - [OpenGenus/cookies](https://github.com/OpenGenus/cookies) pushed_at:2019-07 star:0.0k fork:0.0k 
@@ -62,6 +61,7 @@
 
 ## JavaScript
 
+- [OpenGenus/CINT](https://github.com/OpenGenus/CINT) pushed_at:2021-11 star:0.0k fork:0.0k "Coding Interview New Tab" extension 😎
 - [OpenGenus/coin](https://github.com/OpenGenus/coin) pushed_at:2019-09 star:0.0k fork:0.0k You do not need to donate 💰 to feed millions of children. Your actions can.
 - [OpenGenus/curriculum](https://github.com/OpenGenus/curriculum) pushed_at:2018-07 star:0.0k fork:0.0k The freeCodeCamp curriculum and lesson editor
 - [OpenGenus/minesweeper-js](https://github.com/OpenGenus/minesweeper-js) pushed_at:2020-07 star:0.0k fork:0.0k 
@@ -90,7 +90,7 @@
 
 - [OpenGenus/android-iq](https://github.com/OpenGenus/android-iq) pushed_at:2018-06 star:0.0k fork:0.0k 
 - [OpenGenus/api_libraries](https://github.com/OpenGenus/api_libraries) pushed_at:2020-09 star:0.0k fork:0.0k 
-- [OpenGenus/Best-student-discount-services](https://github.com/OpenGenus/Best-student-discount-services) pushed_at:2020-11 star:0.3k fork:0.0k Best student discount services one should definitely try out! Contributions and translations are highly encouraged. 
+- [OpenGenus/Best-student-discount-services](https://github.com/OpenGenus/Best-student-discount-services) pushed_at:2020-11 star:0.4k fork:0.0k Best student discount services one should definitely try out! Contributions and translations are highly encouraged. 
 - [OpenGenus/candle](https://github.com/OpenGenus/candle) pushed_at:2019-02 star:0.0k fork:0.0k 
 - [OpenGenus/chatbot](https://github.com/OpenGenus/chatbot) pushed_at:2020-08 star:0.0k fork:0.0k Developing a basic chatbot using AIML (developed by OpenGenus Intern, Priyanshi Sharma)
 - [OpenGenus/cosmos-engine](https://github.com/OpenGenus/cosmos-engine) pushed_at:2017-12 star:0.0k fork:0.0k The online compiler and debugging tool [WIP]

@@ -30,7 +30,7 @@
 ## C#
 
 - [spring-projects/spring-gemfire-net](https://github.com/spring-projects/spring-gemfire-net) pushed_at:2019-03 star:0.0k fork:0.0k Spring GemFire Integration for .NET
-- [spring-projects/spring-net](https://github.com/spring-projects/spring-net) pushed_at:2021-08 star:0.7k fork:0.4k Spring Framework for .NET
+- [spring-projects/spring-net](https://github.com/spring-projects/spring-net) pushed_at:2021-11 star:0.7k fork:0.4k Spring Framework for .NET
 - [spring-projects/spring-net-amqp](https://github.com/spring-projects/spring-net-amqp) pushed_at:2019-03 star:0.0k fork:0.0k Spring AMQP for .NET
 - [spring-projects/spring-net-amqp-samples](https://github.com/spring-projects/spring-net-amqp-samples) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [spring-projects/spring-net-codeconfig](https://github.com/spring-projects/spring-net-codeconfig) pushed_at:2019-03 star:0.0k fork:0.0k Provides the ability to configure a Spring container using standard .NET code instead of or in addition to XML.   configuration
@@ -79,14 +79,14 @@
 - [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) pushed_at:2021-11 star:2.9k fork:0.5k The Spring Authorization Server project is focused on delivering OAuth 2.1 Authorization Server support to the Spring community.
 - [spring-projects/spring-batch](https://github.com/spring-projects/spring-batch) pushed_at:2021-11 star:2.0k fork:1.9k Spring Batch is a framework for writing offline and batch applications using Spring and Java
 - [spring-projects/spring-batch-extensions](https://github.com/spring-projects/spring-batch-extensions) pushed_at:2021-10 star:0.2k fork:0.2k Spring Batch Extensions
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) pushed_at:2021-11 star:57.9k fork:34.9k Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) pushed_at:2021-11 star:58.0k fork:34.9k Spring Boot
 - [spring-projects/spring-boot-data-geode](https://github.com/spring-projects/spring-boot-data-geode) pushed_at:2021-10 star:0.0k fork:0.0k Spring Boot support for Apache Geode and VMware Tanzu GemFire
 - [spring-projects/spring-bus](https://github.com/spring-projects/spring-bus) pushed_at:2019-03 star:0.0k fork:0.0k Support for distributed Spring Integration applications as Message-driven Microservices
 - [spring-projects/spring-credhub](https://github.com/spring-projects/spring-credhub) pushed_at:2021-10 star:0.0k fork:0.0k Spring abstractions for Cloud Foundry CredHub
 - [spring-projects/spring-data-book](https://github.com/spring-projects/spring-data-book) pushed_at:2021-10 star:1.2k fork:1.1k Spring Data - The Definitive Guide - Modern Data Access for Enterprise Java Developers
 - [spring-projects/spring-data-cassandra](https://github.com/spring-projects/spring-data-cassandra) pushed_at:2021-11 star:0.3k fork:0.3k Provides support to increase developer productivity in Java when using Apache Cassandra.  Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
-- [spring-projects/spring-data-commons](https://github.com/spring-projects/spring-data-commons) pushed_at:2021-10 star:0.6k fork:0.6k Spring Data Commons. Interfaces and code shared between the various datastore specific implementations.
-- [spring-projects/spring-data-couchbase](https://github.com/spring-projects/spring-data-couchbase) pushed_at:2021-10 star:0.2k fork:0.2k Spring Data Couchbase
+- [spring-projects/spring-data-commons](https://github.com/spring-projects/spring-data-commons) pushed_at:2021-11 star:0.6k fork:0.6k Spring Data Commons. Interfaces and code shared between the various datastore specific implementations.
+- [spring-projects/spring-data-couchbase](https://github.com/spring-projects/spring-data-couchbase) pushed_at:2021-11 star:0.2k fork:0.2k Spring Data Couchbase
 - [spring-projects/spring-data-couchdb](https://github.com/spring-projects/spring-data-couchdb) pushed_at:2021-06 star:0.0k fork:0.0k Provide support to increase developer productivity in Java when using CouchDB.
 - [spring-projects/spring-data-dev-tools](https://github.com/spring-projects/spring-data-dev-tools) pushed_at:2021-10 star:0.0k fork:0.0k A collection of tools to support Spring Data development.
 - [spring-projects/spring-data-document-examples](https://github.com/spring-projects/spring-data-document-examples) pushed_at:2019-03 star:0.1k fork:0.1k Examples using Spring Data Document features
@@ -103,10 +103,10 @@
 - [spring-projects/spring-data-jpa](https://github.com/spring-projects/spring-data-jpa) pushed_at:2021-11 star:2.2k fork:1.1k Simplifies the development of creating a JPA-based data access layer. 
 - [spring-projects/spring-data-keyvalue](https://github.com/spring-projects/spring-data-keyvalue) pushed_at:2021-10 star:0.1k fork:0.1k Project to provide infrastructure to implement Spring Data repositories on top of key-value-based, in-memory data stores.
 - [spring-projects/spring-data-ldap](https://github.com/spring-projects/spring-data-ldap) pushed_at:2021-10 star:0.1k fork:0.0k Repository abstraction for Spring LDAP
-- [spring-projects/spring-data-mongodb](https://github.com/spring-projects/spring-data-mongodb) pushed_at:2021-10 star:1.3k fork:0.9k Provide support to increase developer productivity in Java when using MongoDB. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
+- [spring-projects/spring-data-mongodb](https://github.com/spring-projects/spring-data-mongodb) pushed_at:2021-11 star:1.3k fork:0.9k Provide support to increase developer productivity in Java when using MongoDB. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 - [spring-projects/spring-data-multistore-test](https://github.com/spring-projects/spring-data-multistore-test) pushed_at:2019-03 star:0.0k fork:0.0k Test project for multi-store projects
 - [spring-projects/spring-data-neo4j](https://github.com/spring-projects/spring-data-neo4j) pushed_at:2021-11 star:0.7k fork:0.6k Provide support to increase developer productivity in Java when using Neo4j. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
-- [spring-projects/spring-data-r2dbc](https://github.com/spring-projects/spring-data-r2dbc) pushed_at:2021-10 star:0.6k fork:0.1k Provide support to increase developer productivity in Java when using Reactive Relational Database Connectivity. Uses familiar Spring concepts such as a DatabaseClient for core API usage and lightweight repository style data access.
+- [spring-projects/spring-data-r2dbc](https://github.com/spring-projects/spring-data-r2dbc) pushed_at:2021-11 star:0.6k fork:0.1k Provide support to increase developer productivity in Java when using Reactive Relational Database Connectivity. Uses familiar Spring concepts such as a DatabaseClient for core API usage and lightweight repository style data access.
 - [spring-projects/spring-data-redis](https://github.com/spring-projects/spring-data-redis) pushed_at:2021-11 star:1.4k fork:0.9k Provides support to increase developer productivity in Java when using Redis, a key-value store. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 - [spring-projects/spring-data-rest](https://github.com/spring-projects/spring-data-rest) pushed_at:2021-10 star:0.8k fork:0.5k Simplifies building hypermedia-driven REST web services on top of Spring Data repositories
 - [spring-projects/spring-data-rest-tck](https://github.com/spring-projects/spring-data-rest-tck) pushed_at:2019-03 star:0.0k fork:0.0k Spring Data REST TCK Test Suite
@@ -116,11 +116,11 @@
 - [spring-projects/spring-data-solr-examples](https://github.com/spring-projects/spring-data-solr-examples) pushed_at:2019-03 star:0.1k fork:0.1k Spring Data Solr - Examples
 - [spring-projects/spring-flex](https://github.com/spring-projects/spring-flex) pushed_at:2020-02 star:0.1k fork:0.1k Spring BlazeDS Integration
 - [spring-projects/spring-flex-roo](https://github.com/spring-projects/spring-flex-roo) pushed_at:2020-10 star:0.0k fork:0.0k Flex Addon for Spring Roo
-- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) pushed_at:2021-11 star:44.9k fork:31.6k Spring Framework
+- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) pushed_at:2021-11 star:45.0k fork:31.6k Spring Framework
 - [spring-projects/spring-framework-issues](https://github.com/spring-projects/spring-framework-issues) pushed_at:2019-04 star:0.1k fork:0.2k User-contributed projects reproducing issues logged against Spring Framework GitHub issues. Note: this is not the Spring Framework issue tracker -->
 - [spring-projects/spring-gemfire-examples](https://github.com/spring-projects/spring-gemfire-examples) pushed_at:2021-04 star:0.1k fork:0.1k Sample projects to get started with Spring Gemfire
 - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) pushed_at:2021-11 star:0.9k fork:0.1k Spring integration for GraphQL 
-- [spring-projects/spring-guice](https://github.com/spring-projects/spring-guice) pushed_at:2021-10 star:0.1k fork:0.0k Tools for using Spring in Guice and Guice in Spring
+- [spring-projects/spring-guice](https://github.com/spring-projects/spring-guice) pushed_at:2021-11 star:0.1k fork:0.0k Tools for using Spring in Guice and Guice in Spring
 - [spring-projects/spring-hadoop](https://github.com/spring-projects/spring-hadoop) pushed_at:2019-04 star:0.6k fork:0.4k Spring for Apache Hadoop is a framework for application developers to take advantage of the features of both Hadoop and Spring.
 - [spring-projects/spring-hadoop-admin](https://github.com/spring-projects/spring-hadoop-admin) pushed_at:2021-10 star:0.0k fork:0.0k Web application and API for managing and monitoring Spring Hadoop
 - [spring-projects/spring-hadoop-samples](https://github.com/spring-projects/spring-hadoop-samples) pushed_at:2019-03 star:0.5k fork:0.5k Spring Hadoop Samples
@@ -192,7 +192,7 @@
 - [spring-projects/spring-webflow-issues](https://github.com/spring-projects/spring-webflow-issues) pushed_at:2021-08 star:0.0k fork:0.0k User-contributed projects reproducing issues logged in Spring Web Flow's issue tracker.
 - [spring-projects/spring-ws](https://github.com/spring-projects/spring-ws) pushed_at:2021-11 star:0.2k fork:0.3k Spring Web Services
 - [spring-projects/spring-ws-samples](https://github.com/spring-projects/spring-ws-samples) pushed_at:2021-04 star:0.1k fork:0.1k 
-- [spring-projects/spring-xd](https://github.com/spring-projects/spring-xd) pushed_at:2021-08 star:0.5k fork:0.3k Spring XD makes it easy to solve common big data problems such as data ingestion and export, real-time analytics, and batch workflow orchestration
+- [spring-projects/spring-xd](https://github.com/spring-projects/spring-xd) pushed_at:2021-11 star:0.5k fork:0.3k Spring XD makes it easy to solve common big data problems such as data ingestion and export, real-time analytics, and batch workflow orchestration
 - [spring-projects/spring-xd-ec2](https://github.com/spring-projects/spring-xd-ec2) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [spring-projects/spring-xd-modules](https://github.com/spring-projects/spring-xd-modules) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [spring-projects/spring-xd-samples](https://github.com/spring-projects/spring-xd-samples) pushed_at:2019-03 star:0.2k fork:0.2k Sample starter applications and code for use with the Spring XD project
@@ -226,7 +226,7 @@
 - [spring-projects/spring-cloud](https://github.com/spring-projects/spring-cloud) pushed_at:2020-11 star:0.8k fork:0.2k Umbrella project for Spring Cloud
 - [spring-projects/spring-data](https://github.com/spring-projects/spring-data) pushed_at:2018-10 star:0.1k fork:0.1k Spring Data
 - [spring-projects/spring-data-aerospike](https://github.com/spring-projects/spring-data-aerospike) pushed_at:2020-01 star:0.0k fork:0.1k Spring Data Aerospike
-- [spring-projects/spring-data-bom](https://github.com/spring-projects/spring-data-bom) pushed_at:2021-10 star:0.0k fork:0.0k Spring Data Bill of Materials
+- [spring-projects/spring-data-bom](https://github.com/spring-projects/spring-data-bom) pushed_at:2021-11 star:0.0k fork:0.0k Spring Data Bill of Materials
 - [spring-projects/spring-data-ci](https://github.com/spring-projects/spring-data-ci) pushed_at:2018-11 star:0.0k fork:0.0k 
 - [spring-projects/spring-data-riak](https://github.com/spring-projects/spring-data-riak) pushed_at: star:0.0k fork:0.0k Spring Data Riak Project
 - [spring-projects/spring-integration-pattern-catalog](https://github.com/spring-projects/spring-integration-pattern-catalog) pushed_at:2019-03 star:0.0k fork:0.0k Provides an overview of Enterprise Integration Patterns and describes, how they are implemented using Spring Integration

@@ -79,7 +79,7 @@
 - [baidu/GPT](https://github.com/baidu/GPT) pushed_at:2020-04 star:0.1k fork:0.0k 
 - [baidu/iotcore-sdk-java](https://github.com/baidu/iotcore-sdk-java) pushed_at:2021-06 star:0.0k fork:0.0k Java SDK  for baidu IoT Core service 
 - [baidu/ipipe-agent](https://github.com/baidu/ipipe-agent) pushed_at:2020-10 star:0.0k fork:0.0k 
-- [baidu/Jprotobuf-rpc-socket](https://github.com/baidu/Jprotobuf-rpc-socket) pushed_at:2021-09 star:0.5k fork:0.2k Protobuf RPC是一种基于TCP协议的二进制RPC通信协议的Java实现
+- [baidu/Jprotobuf-rpc-socket](https://github.com/baidu/Jprotobuf-rpc-socket) pushed_at:2021-11 star:0.5k fork:0.2k Protobuf RPC是一种基于TCP协议的二进制RPC通信协议的Java实现
 - [baidu/OASP](https://github.com/baidu/OASP) pushed_at:2017-11 star:0.0k fork:0.0k OASP (Online App Status Protocol)
 - [baidu/speech-samples](https://github.com/baidu/speech-samples) pushed_at:2018-02 star:0.0k fork:0.0k 百度语音示例
 - [baidu/spring-cloud-formula](https://github.com/baidu/spring-cloud-formula) pushed_at:2021-06 star:0.1k fork:0.0k 
@@ -97,7 +97,7 @@
 - [baidu/grafana-tsdb-datasource-backend](https://github.com/baidu/grafana-tsdb-datasource-backend) pushed_at:2019-01 star:0.0k fork:0.0k 
 - [baidu/mapv](https://github.com/baidu/mapv) pushed_at:2016-09 star:0.1k fork:0.0k a library of geography visualization-地理信息可视化库
 - [baidu/mix-img](https://github.com/baidu/mix-img) pushed_at:2021-07 star:0.3k fork:0.0k A fast mix image javascript tool libary
-- [baidu/NoahV](https://github.com/baidu/NoahV) pushed_at:2021-10 star:0.6k fork:0.1k An efficient front-end application framework based on vue.js
+- [baidu/NoahV](https://github.com/baidu/NoahV) pushed_at:2021-11 star:0.6k fork:0.1k An efficient front-end application framework based on vue.js
 - [baidu/san](https://github.com/baidu/san) pushed_at:2021-11 star:4.5k fork:0.5k A fast, portable, flexible JavaScript component framework
 - [baidu/san-composition](https://github.com/baidu/san-composition) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [baidu/san-factory](https://github.com/baidu/san-factory) pushed_at:2021-04 star:0.0k fork:0.0k 
@@ -149,7 +149,7 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-11 star:8.4k fork:1.1k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-11 star:8.5k fork:1.1k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) pushed_at:2021-09 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) pushed_at:2021-09 star:0.0k fork:0.0k San SSR framework and utils
 

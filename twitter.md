@@ -35,7 +35,7 @@
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
 - [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2021-11 star:0.9k fork:0.1k Pelikan is Twitter's unified cache backend
 - [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2021-11 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-10 star:11.1k fork:1.9k A fast, light-weight proxy for memcached and redis
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-11 star:11.1k fork:1.9k A fast, light-weight proxy for memcached and redis
 
 ## C++
 
@@ -112,7 +112,7 @@
 
 - [twitter/caladrius](https://github.com/twitter/caladrius) pushed_at:2021-10 star:0.0k fork:0.0k Performance modelling system for Distributed Stream Processing Systems (DSPS) such as Apache Heron and Apache Storm
 - [twitter/dict_minimize](https://github.com/twitter/dict_minimize) pushed_at:2021-09 star:0.1k fork:0.0k Access scipy optimizers from your favorite deep learning framework.
-- [twitter/gatekeeper-service](https://github.com/twitter/gatekeeper-service) pushed_at:2018-09 star:0.0k fork:0.0k GateKeeper is a service built to automate the manual steps involved in onboarding, offboarding, and lost asset scenarios.
+- [twitter/gatekeeper-service](https://github.com/twitter/gatekeeper-service) pushed_at:2021-11 star:0.0k fork:0.0k GateKeeper is a service built to automate the manual steps involved in onboarding, offboarding, and lost asset scenarios.
 - [twitter/pants](https://github.com/twitter/pants) pushed_at:2021-08 star:0.1k fork:0.0k Pants Build System
 - [twitter/zktraffic](https://github.com/twitter/zktraffic) pushed_at:2020-07 star:0.2k fork:0.0k ZooKeeper protocol analyzer and stats gathering daemon
 
@@ -124,13 +124,13 @@
 
 - [twitter/activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) pushed_at:2016-01 star:1.3k fork:0.1k An Active Record Reputation System for Rails
 - [twitter/thrift_client](https://github.com/twitter/thrift_client) pushed_at:2019-06 star:0.2k fork:0.1k A Thrift client wrapper that encapsulates some common failover behavior
-- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) pushed_at:2021-07 star:0.6k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
+- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) pushed_at:2021-11 star:0.6k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 - [twitter/twurl](https://github.com/twitter/twurl) pushed_at:2021-04 star:1.6k fork:0.3k OAuth-enabled curl for the Twitter API
 
 ## Rust
 
 - [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2021-11 star:1.0k fork:0.1k Systems performance telemetry
-- [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2021-10 star:0.4k fork:0.1k A tool for benchmarking RPC services
+- [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2021-11 star:0.4k fork:0.1k A tool for benchmarking RPC services
 - [twitter/rustcommon](https://github.com/twitter/rustcommon) pushed_at:2021-10 star:0.2k fork:0.0k Common Twitter Rust lib
 
 ## SCSS
