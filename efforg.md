@@ -160,7 +160,7 @@
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 - [EFForg/https-everywhere-rust-test-implementation](https://github.com/EFForg/https-everywhere-rust-test-implementation) pushed_at:2020-04 star:0.0k fork:0.0k 
 - [EFForg/rs-google-play](https://github.com/EFForg/rs-google-play) pushed_at:2021-11 star:0.0k fork:0.0k Google Play API for Rust
-- [EFForg/tokio-dl-stream-to-disk](https://github.com/EFForg/tokio-dl-stream-to-disk) pushed_at:2021-09 star:0.0k fork:0.0k A micro-library for downloading from a URL and streaming it directly to the disk
+- [EFForg/tokio-dl-stream-to-disk](https://github.com/EFForg/tokio-dl-stream-to-disk) pushed_at:2021-11 star:0.0k fork:0.0k A micro-library for downloading from a URL and streaming it directly to the disk
 
 ## SCSS
 

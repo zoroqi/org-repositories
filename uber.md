@@ -53,12 +53,12 @@
 - [uber/kraken](https://github.com/uber/kraken) pushed_at:2021-10 star:4.8k fork:0.3k P2P Docker registry capable of distributing TBs of data in seconds
 - [uber/pam-ussh](https://github.com/uber/pam-ussh) pushed_at:2021-08 star:0.7k fork:0.1k uber's ssh certificate pam module
 - [uber/peloton](https://github.com/uber/peloton) pushed_at:2021-03 star:0.6k fork:0.1k Unified Resource Scheduler to co-schedule mixed types of workloads such as batch, stateless and stateful jobs in a single cluster for better resource utilization.
-- [uber/prototool](https://github.com/uber/prototool) pushed_at:2021-08 star:4.9k fork:0.3k Your Swiss Army Knife for Protocol Buffers
+- [uber/prototool](https://github.com/uber/prototool) pushed_at:2021-11 star:4.9k fork:0.3k Your Swiss Army Knife for Protocol Buffers
 - [uber/ringpop-go](https://github.com/uber/ringpop-go) pushed_at:2021-02 star:0.7k fork:0.1k Scalable, fault-tolerant application-layer sharding for Go applications
-- [uber/storagetapper](https://github.com/uber/storagetapper) pushed_at:2020-04 star:0.3k fork:0.1k StorageTapper is a scalable realtime MySQL change data streaming, logical backup and logical replication service
+- [uber/storagetapper](https://github.com/uber/storagetapper) pushed_at:2021-11 star:0.3k fork:0.1k StorageTapper is a scalable realtime MySQL change data streaming, logical backup and logical replication service
 - [uber/tchannel-go](https://github.com/uber/tchannel-go) pushed_at:2021-11 star:0.4k fork:0.1k Go implementation of a multiplexing and framing protocol for RPC calls
 - [uber/uberalls](https://github.com/uber/uberalls) pushed_at:2020-03 star:0.2k fork:0.0k Track code coverage metrics with Jenkins and Phabricator
-- [uber/zanzibar](https://github.com/uber/zanzibar) pushed_at:2021-10 star:0.3k fork:0.0k A build system & configuration system to generate versioned API gateways.
+- [uber/zanzibar](https://github.com/uber/zanzibar) pushed_at:2021-11 star:0.3k fork:0.0k A build system & configuration system to generate versioned API gateways.
 
 ## HTML
 
@@ -73,13 +73,13 @@
 - [uber/android-template](https://github.com/uber/android-template) pushed_at:2021-05 star:0.1k fork:0.1k This template provides a starting point for open source Android projects at Uber.
 - [uber/AutoDispose](https://github.com/uber/AutoDispose) pushed_at:2021-09 star:3.2k fork:0.2k Automatic binding+disposal of RxJava streams.
 - [uber/cadence-java-client](https://github.com/uber/cadence-java-client) pushed_at:2021-11 star:0.1k fork:0.1k Java framework for Cadence Workflow Service
-- [uber/cadence-java-samples](https://github.com/uber/cadence-java-samples) pushed_at:2021-10 star:0.1k fork:0.0k 
+- [uber/cadence-java-samples](https://github.com/uber/cadence-java-samples) pushed_at:2021-11 star:0.1k fork:0.0k 
 - [uber/concurrency-loadbalancer](https://github.com/uber/concurrency-loadbalancer) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [uber/dynamodb-cross-region-library](https://github.com/uber/dynamodb-cross-region-library) pushed_at:2017-10 star:0.0k fork:0.0k A library to facilitate cross-region replication with Amazon DynamoDB Streams.
 - [uber/h3-java](https://github.com/uber/h3-java) pushed_at:2021-10 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/marmaray](https://github.com/uber/marmaray) pushed_at:2021-06 star:0.4k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
 - [uber/NullAway](https://github.com/uber/NullAway) pushed_at:2021-11 star:3.0k fork:0.2k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
-- [uber/okbuck](https://github.com/uber/okbuck) pushed_at:2021-09 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
+- [uber/okbuck](https://github.com/uber/okbuck) pushed_at:2021-11 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
 - [uber/phabricator-jenkins-plugin](https://github.com/uber/phabricator-jenkins-plugin) pushed_at:2021-01 star:0.4k fork:0.1k Jenkins plugin to integrate with Phabricator, Harbormaster, and Uberalls
 - [uber/piranha](https://github.com/uber/piranha) pushed_at:2021-11 star:1.8k fork:0.1k A tool for refactoring code related to feature flag APIs
 - [uber/RemoteShuffleService](https://github.com/uber/RemoteShuffleService) pushed_at:2021-07 star:0.1k fork:0.0k Remote shuffle service for Apache Spark to store shuffle data on remote servers. 
@@ -97,7 +97,7 @@
 ## JavaScript
 
 - [uber/airlock](https://github.com/uber/airlock) pushed_at:2020-05 star:0.0k fork:0.0k A prober to probe HTTP based backends for health
-- [uber/baseweb](https://github.com/uber/baseweb) pushed_at:2021-11 star:7.1k fork:0.6k A React Component library implementing the Base design language
+- [uber/baseweb](https://github.com/uber/baseweb) pushed_at:2021-11 star:7.1k fork:0.7k A React Component library implementing the Base design language
 - [uber/bufrw](https://github.com/uber/bufrw) pushed_at:2020-11 star:0.0k fork:0.0k Buffer Reading and Writing
 - [uber/build-changelog](https://github.com/uber/build-changelog) pushed_at:2014-11 star:0.0k fork:0.0k A CLI to auto-generate a deploy ready changelog
 - [uber/cache-dir](https://github.com/uber/cache-dir) pushed_at:2014-03 star:0.0k fork:0.0k An ES6 map-like cache with file-based backing
@@ -111,7 +111,7 @@
 - [uber/kafka-logger](https://github.com/uber/kafka-logger) pushed_at:2018-10 star:0.0k fork:0.0k A kafka logger for winston
 - [uber/logtron](https://github.com/uber/logtron) pushed_at:2018-10 star:0.2k fork:0.0k A logging MACHINE
 - [uber/manifold](https://github.com/uber/manifold) pushed_at:2021-10 star:1.5k fork:0.1k A model-agnostic visual debugging tool for machine learning
-- [uber/react-digraph](https://github.com/uber/react-digraph) pushed_at:2021-09 star:2.2k fork:0.2k A library for creating directed graph editors
+- [uber/react-digraph](https://github.com/uber/react-digraph) pushed_at:2021-09 star:2.2k fork:0.3k A library for creating directed graph editors
 - [uber/react-global-hooks](https://github.com/uber/react-global-hooks) pushed_at:2020-09 star:0.0k fork:0.0k 
 - [uber/react-vis](https://github.com/uber/react-vis) pushed_at:2021-09 star:8.1k fork:0.8k Data Visualization Components
 - [uber/react-vis-force](https://github.com/uber/react-vis-force) pushed_at:2020-06 star:0.4k fork:0.1k d3-force graphs as React Components.
@@ -187,7 +187,7 @@
 
 ## Ruby
 
-- [uber/client-platform-engineering](https://github.com/uber/client-platform-engineering) pushed_at:2021-10 star:0.1k fork:0.0k A collection of cookbooks, scripts and binaries used to manage our macOS, Ubuntu and Windows endpoints
+- [uber/client-platform-engineering](https://github.com/uber/client-platform-engineering) pushed_at:2021-11 star:0.1k fork:0.0k A collection of cookbooks, scripts and binaries used to manage our macOS, Ubuntu and Windows endpoints
 - [uber/homebrew-nanoscope](https://github.com/uber/homebrew-nanoscope) pushed_at:2020-05 star:0.0k fork:0.0k 
 
 ## Shell

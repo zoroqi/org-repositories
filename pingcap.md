@@ -55,7 +55,7 @@
 
 - [pingcap/advanced-statefulset](https://github.com/pingcap/advanced-statefulset) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [pingcap/badger](https://github.com/pingcap/badger) pushed_at:2021-09 star:0.0k fork:0.0k Fast key-value DB in Go.
-- [pingcap/br](https://github.com/pingcap/br) pushed_at:2021-09 star:0.1k fork:0.1k A command-line tool for distributed backup and restoration of the TiDB cluster data
+- [pingcap/br](https://github.com/pingcap/br) pushed_at:2021-11 star:0.1k fork:0.1k A command-line tool for distributed backup and restoration of the TiDB cluster data
 - [pingcap/chaos](https://github.com/pingcap/chaos) pushed_at:2019-07 star:0.2k fork:0.0k A test framework for linearizability check with Go
 - [pingcap/check](https://github.com/pingcap/check) pushed_at:2021-10 star:0.0k fork:0.0k Rich testing for the Go language
 - [pingcap/dead-mans-switch](https://github.com/pingcap/dead-mans-switch) pushed_at:2021-09 star:0.0k fork:0.0k A bypass monitoring prober
@@ -78,7 +78,7 @@
 - [pingcap/log](https://github.com/pingcap/log) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [pingcap/mp](https://github.com/pingcap/mp) pushed_at:2017-11 star:0.0k fork:0.0k MySQL protocol layer
 - [pingcap/mpdriver](https://github.com/pingcap/mpdriver) pushed_at:2016-03 star:0.0k fork:0.0k MySQL Protocol Driver, used to record MySQL query commands..
-- [pingcap/mysql-tester](https://github.com/pingcap/mysql-tester) pushed_at:2021-10 star:0.0k fork:0.0k A Golang implementation of MySQL Test Framework
+- [pingcap/mysql-tester](https://github.com/pingcap/mysql-tester) pushed_at:2021-11 star:0.0k fork:0.0k A Golang implementation of MySQL Test Framework
 - [pingcap/mysqlrelay](https://github.com/pingcap/mysqlrelay) pushed_at:2015-12 star:0.0k fork:0.0k 
 - [pingcap/mysqlx-driver](https://github.com/pingcap/mysqlx-driver) pushed_at:2017-12 star:0.0k fork:0.0k A MySQL X protocol driver for Go's database/sql package
 - [pingcap/ng-monitoring](https://github.com/pingcap/ng-monitoring) pushed_at:2021-11 star:0.0k fork:0.0k 
@@ -87,7 +87,7 @@
 - [pingcap/parser](https://github.com/pingcap/parser) pushed_at:2021-10 star:1.1k fork:0.4k A MySQL Compatible SQL Parser
 - [pingcap/sysutil](https://github.com/pingcap/sysutil) pushed_at:2021-11 star:0.0k fork:0.0k sysutil is a library which implementats the gRPC service Diagnostics and shares the diagnostics functions between TiDB and PD.
 - [pingcap/ticdc](https://github.com/pingcap/ticdc) pushed_at:2021-11 star:0.2k fork:0.1k Change data capture for TiDB
-- [pingcap/tidb](https://github.com/pingcap/tidb) pushed_at:2021-11 star:29.5k fork:4.7k TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
+- [pingcap/tidb](https://github.com/pingcap/tidb) pushed_at:2021-11 star:29.6k fork:4.8k TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
 - [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) pushed_at:2021-11 star:0.2k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
 - [pingcap/tidb-cloud-backup](https://github.com/pingcap/tidb-cloud-backup) pushed_at:2020-02 star:0.0k fork:0.0k 
 - [pingcap/tidb-ctl](https://github.com/pingcap/tidb-ctl) pushed_at:2020-12 star:0.0k fork:0.0k TiDB Controller
@@ -104,7 +104,7 @@
 
 ## HTML
 
-- [pingcap/discourse-theme-asktug](https://github.com/pingcap/discourse-theme-asktug) pushed_at:2021-03 star:0.0k fork:0.0k A discourse theme used in AskTUG.
+- [pingcap/discourse-theme-asktug](https://github.com/pingcap/discourse-theme-asktug) pushed_at:2021-11 star:0.0k fork:0.0k A discourse theme used in AskTUG.
 - [pingcap/sqlgram](https://github.com/pingcap/sqlgram) pushed_at:2020-05 star:0.0k fork:0.0k TiDB SQL
 
 ## Java
@@ -133,7 +133,7 @@
 
 ## Others
 
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2021-09 star:3.8k fork:0.5k A list of learning materials to understand databases internals
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2021-09 star:3.9k fork:0.5k A list of learning materials to understand databases internals
 - [pingcap/blog-jp](https://github.com/pingcap/blog-jp) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [pingcap/community](https://github.com/pingcap/community) pushed_at:2021-11 star:0.2k fork:0.1k TiDB community content
 - [pingcap/hibernate-tidb](https://github.com/pingcap/hibernate-tidb) pushed_at:2021-08 star:0.0k fork:0.0k 
@@ -180,7 +180,7 @@
 - [pingcap/discourse-assign](https://github.com/pingcap/discourse-assign) pushed_at:2021-06 star:0.0k fork:0.0k Plugin for assigning users to a topic
 - [pingcap/discourse-chat-integration](https://github.com/pingcap/discourse-chat-integration) pushed_at:2019-12 star:0.0k fork:0.0k 
 - [pingcap/discourse-topic-enhancement](https://github.com/pingcap/discourse-topic-enhancement) pushed_at:2021-06 star:0.0k fork:0.0k 
-- [pingcap/homebrew-brew](https://github.com/pingcap/homebrew-brew) pushed_at:2020-03 star:0.0k fork:0.0k Homebrew taps for TiDB
+- [pingcap/homebrew-brew](https://github.com/pingcap/homebrew-brew) pushed_at:2021-11 star:0.0k fork:0.0k Homebrew taps for TiDB
 - [pingcap/rails](https://github.com/pingcap/rails) pushed_at:2021-09 star:0.0k fork:0.0k ActiveRecord  and TiDB compatibility test
 
 ## Rust

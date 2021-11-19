@@ -31,14 +31,14 @@
 - [ARM-software/AArch64cryptolib](https://github.com/ARM-software/AArch64cryptolib) pushed_at:2020-11 star:0.0k fork:0.0k AArch64cryptolib is a from scratch implementation of cryptographic primitives aiming for optimal performance on Arm A-class cores
 - [ARM-software/arm-enterprise-acs](https://github.com/ARM-software/arm-enterprise-acs) pushed_at:2021-10 star:0.0k fork:0.0k ARM Enterprise ACS
 - [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) pushed_at:2021-11 star:1.3k fork:1.0k Read-only mirror of Trusted Firmware-A
-- [ARM-software/ATS-Keyword](https://github.com/ARM-software/ATS-Keyword) pushed_at:2021-10 star:0.0k fork:0.0k Smart Home Total Solution - Keyword Recognition
+- [ARM-software/ATS-Keyword](https://github.com/ARM-software/ATS-Keyword) pushed_at:2021-11 star:0.0k fork:0.0k Smart Home Total Solution - Keyword Recognition
 - [ARM-software/bbr-acs](https://github.com/ARM-software/bbr-acs) pushed_at:2021-10 star:0.0k fork:0.0k Arm SystemReady : BBR Compliance Suite
 - [ARM-software/bento-linker](https://github.com/ARM-software/bento-linker) pushed_at:2021-01 star:0.0k fork:0.0k A light-weight alternative to processes for microcontrollers.
 - [ARM-software/bsa-acs](https://github.com/ARM-software/bsa-acs) pushed_at:2021-11 star:0.0k fork:0.0k Arm SystemReady : BSA Architecture Compliance Suite
 - [ARM-software/CMSIS](https://github.com/ARM-software/CMSIS) pushed_at:2018-10 star:0.3k fork:0.3k Cortex Microcontroller Software Interface Standard
 - [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) pushed_at:2021-10 star:0.1k fork:0.0k Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
 - [ARM-software/CMSIS-Driver_Validation](https://github.com/ARM-software/CMSIS-Driver_Validation) pushed_at:2021-08 star:0.0k fork:0.0k Repository containing validation components for microcontroller peripheral driver implementing the CMSIS-Driver API specification.
-- [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) pushed_at:2021-10 star:0.3k fork:0.1k FreeRTOS adaptation for CMSIS-RTOS Version 2
+- [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) pushed_at:2021-11 star:0.3k fork:0.1k FreeRTOS adaptation for CMSIS-RTOS Version 2
 - [ARM-software/CMSIS-mbedTLS](https://github.com/ARM-software/CMSIS-mbedTLS) pushed_at:2021-02 star:0.0k fork:0.0k CMSIS Pack for the mbedTLS software stack
 - [ARM-software/CMSIS-Musca-S1](https://github.com/ARM-software/CMSIS-Musca-S1) pushed_at:2021-10 star:0.0k fork:0.0k Repository of CMSIS Software Pack for Musca-S1 test-chip and board.
 - [ARM-software/CMSIS-TFM](https://github.com/ARM-software/CMSIS-TFM) pushed_at:2020-06 star:0.0k fork:0.0k Downstream Repository of CMSIS Software Packs for Trusted Firmware-M (TF-M).
@@ -49,7 +49,7 @@
 - [ARM-software/Cryptocell-703-TEE-Lib](https://github.com/ARM-software/Cryptocell-703-TEE-Lib) pushed_at:2020-09 star:0.0k fork:0.0k Cryptocell 713/703 TEE Lib
 - [ARM-software/Cryptocell-713-TEE-Lib](https://github.com/ARM-software/Cryptocell-713-TEE-Lib) pushed_at:2020-09 star:0.0k fork:0.0k 
 - [ARM-software/CSAL](https://github.com/ARM-software/CSAL) pushed_at:2021-10 star:0.0k fork:0.0k Coresight Access Library
-- [ARM-software/EndpointAI](https://github.com/ARM-software/EndpointAI) pushed_at:2021-10 star:0.2k fork:0.1k 
+- [ARM-software/EndpointAI](https://github.com/ARM-software/EndpointAI) pushed_at:2021-11 star:0.2k fork:0.1k 
 - [ARM-software/ff-a-acs](https://github.com/ARM-software/ff-a-acs) pushed_at:2021-08 star:0.0k fork:0.0k Firmware Framework for A Architecture Compliance Suite
 - [ARM-software/fluent-bit-modbus-plugin](https://github.com/ARM-software/fluent-bit-modbus-plugin) pushed_at:2020-04 star:0.0k fork:0.0k   A dynamic Modbus plugin for Fluent Bit
 - [ARM-software/iot-platform-sw](https://github.com/ARM-software/iot-platform-sw) pushed_at:2016-07 star:0.0k fork:0.0k ARM Platform SDK code
@@ -73,7 +73,7 @@
 - [ARM-software/SCP-firmware](https://github.com/ARM-software/SCP-firmware) pushed_at:2021-11 star:0.1k fork:0.1k System Control Processor (SCP) firmware
 - [ARM-software/server-data-plane](https://github.com/ARM-software/server-data-plane) pushed_at:2017-05 star:0.0k fork:0.0k Modified OpenDataPlane APIs for general purpose server applications with example applications.
 - [ARM-software/Shackleton-Framework](https://github.com/ARM-software/Shackleton-Framework) pushed_at:2021-09 star:0.0k fork:0.0k A generic genetic programming framework that aims to make genetic programming easier for a myriad of uses. Currently, the main target is to use the framework for code optimization in tandem with the LLVM framework.
-- [ARM-software/synchronization-benchmarks](https://github.com/ARM-software/synchronization-benchmarks) pushed_at:2021-10 star:0.0k fork:0.0k Collection of synchronization micro-benchmarks and traces from infrastructure applications
+- [ARM-software/synchronization-benchmarks](https://github.com/ARM-software/synchronization-benchmarks) pushed_at:2021-11 star:0.0k fork:0.0k Collection of synchronization micro-benchmarks and traces from infrastructure applications
 - [ARM-software/Tool-Solutions](https://github.com/ARM-software/Tool-Solutions) pushed_at:2021-11 star:0.1k fork:0.1k Tutorials & examples for Arm software development tools.
 - [ARM-software/TZ-TRNG](https://github.com/ARM-software/TZ-TRNG) pushed_at:2020-10 star:0.0k fork:0.0k TrustZone True Number Generator
 - [ARM-software/u-boot](https://github.com/ARM-software/u-boot) pushed_at:2020-06 star:0.1k fork:0.1k Clone of upstream U-Boot repo with patches for Arm development boards
@@ -92,11 +92,11 @@
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) pushed_at:2021-08 star:2.1k fork:0.6k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [ARM-software/developer](https://github.com/ARM-software/developer) pushed_at:2021-10 star:0.0k fork:0.0k GTM related documentation
 - [ARM-software/devtools](https://github.com/ARM-software/devtools) pushed_at:2021-11 star:0.0k fork:0.0k Open-CMSIS-Pack development tools - C++ 
-- [ARM-software/drm-hwcomposer](https://github.com/ARM-software/drm-hwcomposer) pushed_at:2021-03 star:0.0k fork:0.0k Clone of the drm-hwcomposer from freedesktop.org plus patches from Mali DP team
+- [ARM-software/drm-hwcomposer](https://github.com/ARM-software/drm-hwcomposer) pushed_at:2021-11 star:0.0k fork:0.0k Clone of the drm-hwcomposer from freedesktop.org plus patches from Mali DP team
 - [ARM-software/ethos-n-driver-stack](https://github.com/ARM-software/ethos-n-driver-stack) pushed_at:2021-10 star:0.0k fork:0.0k Driver stack (including user space libraries, kernel module and firmware) for the Arm® Ethos™-N NPU
 - [ARM-software/gator](https://github.com/ARM-software/gator) pushed_at:2021-09 star:0.1k fork:0.1k Sources for Arm Streamline's gator daemon
 - [ARM-software/HPCG_for_Arm](https://github.com/ARM-software/HPCG_for_Arm) pushed_at:2020-09 star:0.0k fork:0.0k 
-- [ARM-software/HWCPipe](https://github.com/ARM-software/HWCPipe) pushed_at:2021-04 star:0.1k fork:0.0k Hardware counters interface
+- [ARM-software/HWCPipe](https://github.com/ARM-software/HWCPipe) pushed_at:2021-11 star:0.1k fork:0.0k Hardware counters interface
 - [ARM-software/ktx-creator](https://github.com/ARM-software/ktx-creator) pushed_at:2020-08 star:0.0k fork:0.0k Use this to create ASTC KTX files
 - [ARM-software/libcollector](https://github.com/ARM-software/libcollector) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [ARM-software/libTLE](https://github.com/ARM-software/libTLE) pushed_at:2021-04 star:0.0k fork:0.0k This is a library of simple C11 and C++11 mutex primitives that provides support for Transactional Lock Elision (TLE) on Intel 64 with TSX and AArch64 with TME platforms.
@@ -170,7 +170,7 @@
 
 ## PostScript
 
-- [ARM-software/ebbr](https://github.com/ARM-software/ebbr) pushed_at:2021-10 star:0.1k fork:0.0k Embedded Base Boot Requirements Specification
+- [ARM-software/ebbr](https://github.com/ARM-software/ebbr) pushed_at:2021-11 star:0.1k fork:0.0k Embedded Base Boot Requirements Specification
 
 ## Python
 

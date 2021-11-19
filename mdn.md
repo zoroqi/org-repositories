@@ -38,7 +38,7 @@
 - [mdn/beginner-html-site-scripted](https://github.com/mdn/beginner-html-site-scripted) pushed_at:2021-04 star:0.2k fork:0.2k A simple one page website created to help complete beginners learn HTML basics, which in this repo has also had some script added to help beginners learn JavaScript basics. The scripting is explained over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics. 
 - [mdn/beginner-html-site-styled](https://github.com/mdn/beginner-html-site-styled) pushed_at:2021-07 star:0.1k fork:0.4k A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics.
 - [mdn/beginning-programming-content-kit](https://github.com/mdn/beginning-programming-content-kit) pushed_at:2019-03 star:0.0k fork:0.0k This is a Content Kit for people who want to teach programming to beginners.
-- [mdn/content](https://github.com/mdn/content) pushed_at:2021-11 star:3.7k fork:4.3k The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) pushed_at:2021-11 star:3.7k fork:4.4k The content behind MDN Web Docs
 - [mdn/content-kit-template](https://github.com/mdn/content-kit-template) pushed_at:2016-05 star:0.0k fork:0.0k This is the repo to fork or clone when creating a new MDN Content Kit.
 - [mdn/css-examples](https://github.com/mdn/css-examples) pushed_at:2021-10 star:0.3k fork:0.4k Code examples that accompany the MDN CSS documentation
 - [mdn/devtools-examples](https://github.com/mdn/devtools-examples) pushed_at:2019-04 star:0.0k fork:0.0k Code examples that accompany the MDN Firefox Developer Tools documentation
@@ -51,7 +51,7 @@
 - [mdn/insights](https://github.com/mdn/insights) pushed_at:2021-10 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) pushed_at:2021-11 star:0.5k fork:0.4k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
-- [mdn/learning-area](https://github.com/mdn/learning-area) pushed_at:2021-11 star:4.3k fork:15.6k Github repo for the MDN Learning Area. 
+- [mdn/learning-area](https://github.com/mdn/learning-area) pushed_at:2021-11 star:4.4k fork:15.7k Github repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) pushed_at:2019-03 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
 - [mdn/learning-area-pt-br](https://github.com/mdn/learning-area-pt-br) pushed_at:2021-03 star:0.0k fork:0.1k The MDN Learning Area code examples translated into Brazilian Portuguese.
 - [mdn/machine-translation-testing-content](https://github.com/mdn/machine-translation-testing-content) pushed_at:2020-11 star:0.0k fork:0.0k This is a repository for testing machine translations of English content.
@@ -66,7 +66,7 @@
 - [mdn/translated-content-rendered](https://github.com/mdn/translated-content-rendered) pushed_at:2021-02 star:0.0k fork:0.0k All translated (non-archived) MDN content in fully rendered form
 - [mdn/viewsourceconf](https://github.com/mdn/viewsourceconf) pushed_at:2019-03 star:0.0k fork:0.0k Repo for View Source Conference site
 - [mdn/web-tech-games](https://github.com/mdn/web-tech-games) pushed_at:2021-04 star:0.0k fork:0.0k Interactive diagram showing what parts of the web technology stack can used for different purposes when creating games. Includes links to more information about each.
-- [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) pushed_at:2021-08 star:0.7k fork:0.3k Code examples that accompany the MDN Web Audio documentation 
+- [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) pushed_at:2021-11 star:0.7k fork:0.3k Code examples that accompany the MDN Web Audio documentation 
 - [mdn/whitestorm-demo](https://github.com/mdn/whitestorm-demo) pushed_at:2019-04 star:0.0k fork:0.0k A simple demo showing usage of the Whitestorm.js 3D web library.
 
 ## JavaScript
@@ -85,7 +85,7 @@
 - [mdn/doc-linter-rules](https://github.com/mdn/doc-linter-rules) pushed_at:2019-04 star:0.0k fork:0.0k Linting rules used to lint MDN Web Documents
 - [mdn/doc-linter-webextension](https://github.com/mdn/doc-linter-webextension) pushed_at:2019-08 star:0.0k fork:0.0k Webextension to lint MDN documents
 - [mdn/e10s-example-addons](https://github.com/mdn/e10s-example-addons) pushed_at:2019-04 star:0.0k fork:0.0k Examples showing how to port add-ons to be e10s-compatible
-- [mdn/express-locallibrary-tutorial](https://github.com/mdn/express-locallibrary-tutorial) pushed_at:2021-10 star:0.9k fork:0.5k Local Library website written in NodeJS/Express; example for the MDN server-side development NodeJS module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs.
+- [mdn/express-locallibrary-tutorial](https://github.com/mdn/express-locallibrary-tutorial) pushed_at:2021-11 star:0.9k fork:0.5k Local Library website written in NodeJS/Express; example for the MDN server-side development NodeJS module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs.
 - [mdn/headless-examples](https://github.com/mdn/headless-examples) pushed_at:2019-08 star:0.1k fork:0.0k Examples to support the MDN resource covering Firefox headless mode — see https://developer.mozilla.org/en-US/Firefox/Headless_mode
 - [mdn/indexeddb-examples](https://github.com/mdn/indexeddb-examples) pushed_at:2019-04 star:0.0k fork:0.0k Code examples that accompany the MDN IndexedDB documentation
 - [mdn/js-examples](https://github.com/mdn/js-examples) pushed_at:2021-02 star:0.6k fork:0.4k Code examples that accompany the MDN JavaScript/ECMAScript documentation
@@ -146,7 +146,7 @@
 
 ## Rust
 
-- [mdn/differy](https://github.com/mdn/differy) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [mdn/differy](https://github.com/mdn/differy) pushed_at:2021-11 star:0.0k fork:0.0k 
 
 ## SCSS
 

@@ -46,10 +46,10 @@
 
 ## Go
 
-- [tuna/freedns-go](https://github.com/tuna/freedns-go) pushed_at:2021-03 star:0.1k fork:0.0k Optimized DNS Server for Chinese users.
+- [tuna/freedns-go](https://github.com/tuna/freedns-go) pushed_at:2021-03 star:0.2k fork:0.0k Optimized DNS Server for Chinese users.
 - [tuna/mirrorhub](https://github.com/tuna/mirrorhub) pushed_at:2016-09 star:0.0k fork:0.0k Redirects the user to a nearby mirror site.
 - [tuna/tunaccount](https://github.com/tuna/tunaccount) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [tuna/tunasync](https://github.com/tuna/tunasync) pushed_at:2021-09 star:1.1k fork:0.2k Mirror job management tool. 
+- [tuna/tunasync](https://github.com/tuna/tunasync) pushed_at:2021-11 star:1.1k fork:0.2k Mirror job management tool. 
 
 ## HTML
 
@@ -113,7 +113,7 @@
 ## TeX
 
 - [tuna/THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme) pushed_at:2020-12 star:0.2k fork:0.0k A LaTeX beamer theme template for Tsinghua students.
-- [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) pushed_at:2021-04 star:0.3k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
+- [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) pushed_at:2021-11 star:0.3k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
 - [tuna/thuthesis](https://github.com/tuna/thuthesis) pushed_at:2021-11 star:3.2k fork:0.9k LaTeX Thesis Template for Tsinghua University
 
 ## TypeScript

@@ -16,9 +16,9 @@
 - [Others](#others) (55)
 - [PowerShell](#powershell) (1)
 - [Puppet](#puppet) (7)
-- [Python](#python) (526)
-- [Ruby](#ruby) (51)
-- [Shell](#shell) (34)
+- [Python](#python) (528)
+- [Ruby](#ruby) (50)
+- [Shell](#shell) (33)
 
 ## C
 
@@ -43,8 +43,8 @@
 ## HTML
 
 - [openstack/nose-html-output](https://github.com/openstack/nose-html-output) pushed_at:2021-07 star:0.0k fork:0.0k Nose plugin for generating HTML output. Mirror of code maintained at opendev.org.
-- [openstack/openstack-ansible-ops](https://github.com/openstack/openstack-ansible-ops) pushed_at:2021-08 star:0.1k fork:0.1k Operations-related content for OpenStack-Ansible. Mirror of code maintained at opendev.org.
-- [openstack/openstack-manuals](https://github.com/openstack/openstack-manuals) pushed_at:2021-10 star:0.4k fork:0.3k OpenStack Manuals. Mirror of code maintained at opendev.org.
+- [openstack/openstack-ansible-ops](https://github.com/openstack/openstack-ansible-ops) pushed_at:2021-11 star:0.1k fork:0.1k Operations-related content for OpenStack-Ansible. Mirror of code maintained at opendev.org.
+- [openstack/openstack-manuals](https://github.com/openstack/openstack-manuals) pushed_at:2021-11 star:0.4k fork:0.3k OpenStack Manuals. Mirror of code maintained at opendev.org.
 - [openstack/openstackdocstheme](https://github.com/openstack/openstackdocstheme) pushed_at:2021-09 star:0.0k fork:0.0k Sphinx theme for RST-sourced documentation published to docs.openstack.org. Mirror of code maintained at opendev.org.
 - [openstack/performance-docs](https://github.com/openstack/performance-docs) pushed_at:2021-09 star:0.0k fork:0.0k OpenStack performance testing plans, results, investigations and accompanying pieces of testing scripts and Rally scenarios. Mirror of code maintained at opendev.org.
 - [openstack/tripleo-ipsec](https://github.com/openstack/tripleo-ipsec) pushed_at:2021-03 star:0.0k fork:0.0k Ansible role to configure IPSEC tunnels for TripleO. Mirror of code maintained at opendev.org.
@@ -69,7 +69,7 @@
 - [openstack/magnum-ui](https://github.com/openstack/magnum-ui) pushed_at:2021-10 star:0.0k fork:0.0k The UI component for Magnum. Mirror of code maintained at opendev.org.
 - [openstack/monasca-grafana-datasource](https://github.com/openstack/monasca-grafana-datasource) pushed_at:2021-03 star:0.0k fork:0.0k Monasca Grafana Datasource. Mirror of code maintained at opendev.org.
 - [openstack/monasca-kibana-plugin](https://github.com/openstack/monasca-kibana-plugin) pushed_at:2020-06 star:0.0k fork:0.0k Monasca Kibana plugin for Keystone authentication. Mirror of code maintained at opendev.org.
-- [openstack/octavia-dashboard](https://github.com/openstack/octavia-dashboard) pushed_at:2021-10 star:0.0k fork:0.0k Horizon UI support for Octavia. Mirror of code maintained at opendev.org.
+- [openstack/octavia-dashboard](https://github.com/openstack/octavia-dashboard) pushed_at:2021-11 star:0.0k fork:0.0k Horizon UI support for Octavia. Mirror of code maintained at opendev.org.
 - [openstack/openstack-health](https://github.com/openstack/openstack-health) pushed_at:2021-11 star:0.0k fork:0.0k OpenStack Health Dashboard. Mirror of code maintained at opendev.org.
 - [openstack/ptgbot](https://github.com/openstack/ptgbot) pushed_at:2021-10 star:0.0k fork:0.0k Source code for the PTG event scheduling bot. Mirror of code maintained at opendev.org.
 - [openstack/senlin-dashboard](https://github.com/openstack/senlin-dashboard) pushed_at:2021-10 star:0.0k fork:0.0k The UI component for Senlin. Mirror of code maintained at opendev.org.
@@ -138,7 +138,6 @@
 - [openstack/charm-ops-interface-ceph-iscsi-admin-access](https://github.com/openstack/charm-ops-interface-ceph-iscsi-admin-access) pushed_at:2021-09 star:0.0k fork:0.0k Charm Interface - Ceph ISCSI admin access. Mirror of code maintained at opendev.org.
 - [openstack/charm-ops-interface-openstack-loadbalancer](https://github.com/openstack/charm-ops-interface-openstack-loadbalancer) pushed_at:2021-09 star:0.0k fork:0.0k Charm Interface - OpenStack Loadbalancer. Mirror of code maintained at opendev.org.
 - [openstack/charm-trove](https://github.com/openstack/charm-trove) pushed_at:2020-04 star:0.0k fork:0.0k Juju Charm - Trove Database as a Service. Mirror of code maintained at opendev.org.
-- [openstack/ci-log-processing](https://github.com/openstack/ci-log-processing) pushed_at:2021-10 star:0.0k fork:0.0k OpenStack CI log processing tool. Mirror of code maintained at opendev.org.
 - [openstack/instack-undercloud](https://github.com/openstack/instack-undercloud) pushed_at:2021-02 star:0.0k fork:0.0k DEPRECATED, A utility to run diskimage-builder undercloud elements on a running host. Mirror of code maintained at opendev.org.
 - [openstack/logstash-filters](https://github.com/openstack/logstash-filters) pushed_at:2020-04 star:0.0k fork:0.0k Logstash filters for OpenStack. Mirror of code maintained at opendev.org.
 - [openstack/monasca-ceilometer](https://github.com/openstack/monasca-ceilometer) pushed_at:2021-07 star:0.1k fork:0.0k DEPRECATED, Integration between Monasca and Ceilometer. Mirror of code maintained at opendev.org.
@@ -165,9 +164,10 @@
 - [openstack/paunch](https://github.com/openstack/paunch) pushed_at:2021-11 star:0.0k fork:0.0k DEPRECATED, Utility to launch and manage containers using YAML based configuration data. Mirror of code maintained at opendev.org.
 - [openstack/puppet-openstack-specs](https://github.com/openstack/puppet-openstack-specs) pushed_at:2021-06 star:0.0k fork:0.0k RETIRED, Puppet for OpenStack Design Specifications. Mirror of code maintained at opendev.org.
 - [openstack/puppet-panko](https://github.com/openstack/puppet-panko) pushed_at:2021-06 star:0.0k fork:0.0k DEPRECATED, OpenStack Panko Puppet Module. Mirror of code maintained at opendev.org.
+- [openstack/puppet-senlin](https://github.com/openstack/puppet-senlin) pushed_at:2021-11 star:0.0k fork:0.0k OpenStack Senlin Puppet Module. Mirror of code maintained at opendev.org.
 - [openstack/python-pankoclient](https://github.com/openstack/python-pankoclient) pushed_at:2021-06 star:0.0k fork:0.0k DEPRECATED, Client library for Panko API. Mirror of code maintained at opendev.org.
 - [openstack/python-venusclient](https://github.com/openstack/python-venusclient) pushed_at:2021-10 star:0.0k fork:0.0k A log management client component (CLI). Mirror of code maintained at opendev.org.
-- [openstack/venus](https://github.com/openstack/venus) pushed_at:2021-10 star:0.0k fork:0.0k A log management component for OpenStack. Mirror of code maintained at opendev.org.
+- [openstack/training-labs](https://github.com/openstack/training-labs) pushed_at:2021-11 star:0.1k fork:0.0k RETIRED, Deploy multi node OpenStack on Virtual Machines. Mirror of code maintained at opendev.org.
 - [openstack/venus-dashboard](https://github.com/openstack/venus-dashboard) pushed_at:2021-10 star:0.0k fork:0.0k Venus module to manage dashboard. Mirror of code maintained at opendev.org.
 - [openstack/venus-specs](https://github.com/openstack/venus-specs) pushed_at:2021-10 star:0.0k fork:0.0k A log management component specifications. Mirror of code maintained at opendev.org.
 - [openstack/venus-tempest-plugin](https://github.com/openstack/venus-tempest-plugin) pushed_at:2021-10 star:0.0k fork:0.0k Tempest plugin for the venus project. Mirror of code maintained at opendev.org.
@@ -204,7 +204,7 @@
 - [openstack/ansible-role-pki](https://github.com/openstack/ansible-role-pki) pushed_at:2021-11 star:0.0k fork:0.0k Ansible role to manage SSL certificate creation and distribution. Mirror of code maintained at opendev.org.
 - [openstack/ansible-role-python_venv_build](https://github.com/openstack/ansible-role-python_venv_build) pushed_at:2021-11 star:0.0k fork:0.0k Ansible role to manage the building of python venvs. Mirror of code maintained at opendev.org.
 - [openstack/ansible-role-qdrouterd](https://github.com/openstack/ansible-role-qdrouterd) pushed_at:2021-07 star:0.0k fork:0.0k Ansible role to deploy qpid dispatch router. Mirror of code maintained at opendev.org.
-- [openstack/ansible-role-redhat-subscription](https://github.com/openstack/ansible-role-redhat-subscription) pushed_at:2021-06 star:0.0k fork:0.0k Ansible role to configure Red Hat Subscription Management. Mirror of code maintained at opendev.org.
+- [openstack/ansible-role-redhat-subscription](https://github.com/openstack/ansible-role-redhat-subscription) pushed_at:2021-11 star:0.0k fork:0.0k Ansible role to configure Red Hat Subscription Management. Mirror of code maintained at opendev.org.
 - [openstack/ansible-role-systemd_mount](https://github.com/openstack/ansible-role-systemd_mount) pushed_at:2021-07 star:0.0k fork:0.0k Ansible role to manage systemd mount points. Mirror of code maintained at opendev.org.
 - [openstack/ansible-role-systemd_networkd](https://github.com/openstack/ansible-role-systemd_networkd) pushed_at:2021-07 star:0.0k fork:0.0k Ansible role to manage systemd networkd. Mirror of code maintained at opendev.org.
 - [openstack/ansible-role-systemd_service](https://github.com/openstack/ansible-role-systemd_service) pushed_at:2021-11 star:0.0k fork:0.0k Ansible role to manage systemd services. Mirror of code maintained at opendev.org.
@@ -225,23 +225,23 @@
 - [openstack/blazar-specs](https://github.com/openstack/blazar-specs) pushed_at:2021-10 star:0.0k fork:0.0k OpenStack Reservation (Blazar) Specifications. Mirror of code maintained at opendev.org.
 - [openstack/blazar-tempest-plugin](https://github.com/openstack/blazar-tempest-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Tempest Plugin for Blazar project. Mirror of code maintained at opendev.org.
 - [openstack/castellan](https://github.com/openstack/castellan) pushed_at:2021-10 star:0.0k fork:0.0k Generic Key Manager interface for OpenStack. Mirror of code maintained at opendev.org.
-- [openstack/ceilometer](https://github.com/openstack/ceilometer) pushed_at:2021-10 star:0.3k fork:0.3k OpenStack Telemetry (Ceilometer). Mirror of code maintained at opendev.org.
+- [openstack/ceilometer](https://github.com/openstack/ceilometer) pushed_at:2021-11 star:0.3k fork:0.3k OpenStack Telemetry (Ceilometer). Mirror of code maintained at opendev.org.
 - [openstack/ceilometer-powervm](https://github.com/openstack/ceilometer-powervm) pushed_at:2020-05 star:0.0k fork:0.0k PowerVM compute agent plugins for OpenStack Ceilometer. Mirror of code maintained at opendev.org.
 - [openstack/ceilometermiddleware](https://github.com/openstack/ceilometermiddleware) pushed_at:2021-10 star:0.0k fork:0.0k OpenStack Telemetry (Ceilometer) Middleware. Mirror of code maintained at opendev.org.
-- [openstack/charm-aodh](https://github.com/openstack/charm-aodh) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Aodh. Mirror of code maintained at opendev.org.
-- [openstack/charm-barbican](https://github.com/openstack/charm-barbican) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Barbican. Mirror of code maintained at opendev.org.
+- [openstack/charm-aodh](https://github.com/openstack/charm-aodh) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Aodh. Mirror of code maintained at opendev.org.
+- [openstack/charm-barbican](https://github.com/openstack/charm-barbican) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Barbican. Mirror of code maintained at opendev.org.
 - [openstack/charm-barbican-softhsm](https://github.com/openstack/charm-barbican-softhsm) pushed_at:2021-07 star:0.0k fork:0.0k Juju Charm - SoftHSM2 plugin for Barbican. Mirror of code maintained at opendev.org.
-- [openstack/charm-barbican-vault](https://github.com/openstack/charm-barbican-vault) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Vault plugin for Barbican. Mirror of code maintained at opendev.org.
+- [openstack/charm-barbican-vault](https://github.com/openstack/charm-barbican-vault) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Vault plugin for Barbican. Mirror of code maintained at opendev.org.
 - [openstack/charm-ceilometer](https://github.com/openstack/charm-ceilometer) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Ceilometer. Mirror of code maintained at opendev.org.
-- [openstack/charm-ceilometer-agent](https://github.com/openstack/charm-ceilometer-agent) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Ceilometer agent. Mirror of code maintained at opendev.org.
+- [openstack/charm-ceilometer-agent](https://github.com/openstack/charm-ceilometer-agent) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Ceilometer agent. Mirror of code maintained at opendev.org.
 - [openstack/charm-ceph-dashboard](https://github.com/openstack/charm-ceph-dashboard) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Ceph Dashboard. Mirror of code maintained at opendev.org.
 - [openstack/charm-ceph-fs](https://github.com/openstack/charm-ceph-fs) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Ceph FS. Mirror of code maintained at opendev.org.
 - [openstack/charm-ceph-iscsi](https://github.com/openstack/charm-ceph-iscsi) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Ceph iSCSI. Mirror of code maintained at opendev.org.
-- [openstack/charm-ceph-mon](https://github.com/openstack/charm-ceph-mon) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Ceph MON. Mirror of code maintained at opendev.org.
-- [openstack/charm-ceph-osd](https://github.com/openstack/charm-ceph-osd) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Ceph OSD. Mirror of code maintained at opendev.org.
+- [openstack/charm-ceph-mon](https://github.com/openstack/charm-ceph-mon) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Ceph MON. Mirror of code maintained at opendev.org.
+- [openstack/charm-ceph-osd](https://github.com/openstack/charm-ceph-osd) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Ceph OSD. Mirror of code maintained at opendev.org.
 - [openstack/charm-ceph-proxy](https://github.com/openstack/charm-ceph-proxy) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Ceph Proxy. Mirror of code maintained at opendev.org.
 - [openstack/charm-ceph-radosgw](https://github.com/openstack/charm-ceph-radosgw) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Ceph RADOS Gateway. Mirror of code maintained at opendev.org.
-- [openstack/charm-ceph-rbd-mirror](https://github.com/openstack/charm-ceph-rbd-mirror) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Ceph RBD Mirroring. Mirror of code maintained at opendev.org.
+- [openstack/charm-ceph-rbd-mirror](https://github.com/openstack/charm-ceph-rbd-mirror) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Ceph RBD Mirroring. Mirror of code maintained at opendev.org.
 - [openstack/charm-cinder](https://github.com/openstack/charm-cinder) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Cinder. Mirror of code maintained at opendev.org.
 - [openstack/charm-cinder-backup](https://github.com/openstack/charm-cinder-backup) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Cinder backup. Mirror of code maintained at opendev.org.
 - [openstack/charm-cinder-backup-swift-proxy](https://github.com/openstack/charm-cinder-backup-swift-proxy) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Cinder backup swift proxy. Mirror of code maintained at opendev.org.
@@ -295,27 +295,27 @@
 - [openstack/charm-ironic-conductor](https://github.com/openstack/charm-ironic-conductor) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Ironic Conductor. Mirror of code maintained at opendev.org.
 - [openstack/charm-keystone](https://github.com/openstack/charm-keystone) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Keystone. Mirror of code maintained at opendev.org.
 - [openstack/charm-keystone-kerberos](https://github.com/openstack/charm-keystone-kerberos) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Keystone Kerberos backend. Mirror of code maintained at opendev.org.
-- [openstack/charm-keystone-ldap](https://github.com/openstack/charm-keystone-ldap) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Keystone LDAP backend. Mirror of code maintained at opendev.org.
+- [openstack/charm-keystone-ldap](https://github.com/openstack/charm-keystone-ldap) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Keystone LDAP backend. Mirror of code maintained at opendev.org.
 - [openstack/charm-keystone-saml-mellon](https://github.com/openstack/charm-keystone-saml-mellon) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Keystone SAML Mellon. Mirror of code maintained at opendev.org.
 - [openstack/charm-layer-ceph-base](https://github.com/openstack/charm-layer-ceph-base) pushed_at:2020-04 star:0.0k fork:0.0k Charm Layer - Ceph base layer. Mirror of code maintained at opendev.org.
 - [openstack/charm-layer-openstack](https://github.com/openstack/charm-layer-openstack) pushed_at:2021-10 star:0.0k fork:0.0k Charm Layer - OpenStack base layer. Mirror of code maintained at opendev.org.
 - [openstack/charm-layer-openstack-api](https://github.com/openstack/charm-layer-openstack-api) pushed_at:2021-03 star:0.0k fork:0.0k Charm Layer - OpenStack API layer. Mirror of code maintained at opendev.org.
 - [openstack/charm-layer-openstack-principle](https://github.com/openstack/charm-layer-openstack-principle) pushed_at:2020-12 star:0.0k fork:0.0k Charm Layer - OpenStack principle charm layer. Mirror of code maintained at opendev.org.
 - [openstack/charm-magnum](https://github.com/openstack/charm-magnum) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Magnum. Mirror of code maintained at opendev.org.
-- [openstack/charm-magnum-dashboard](https://github.com/openstack/charm-magnum-dashboard) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Magnum Dashboard. Mirror of code maintained at opendev.org.
-- [openstack/charm-magpie](https://github.com/openstack/charm-magpie) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Magpie infra testing. Mirror of code maintained at opendev.org.
+- [openstack/charm-magnum-dashboard](https://github.com/openstack/charm-magnum-dashboard) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Magnum Dashboard. Mirror of code maintained at opendev.org.
+- [openstack/charm-magpie](https://github.com/openstack/charm-magpie) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Magpie infra testing. Mirror of code maintained at opendev.org.
 - [openstack/charm-manila](https://github.com/openstack/charm-manila) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Manila fileshare service. Mirror of code maintained at opendev.org.
-- [openstack/charm-manila-dashboard](https://github.com/openstack/charm-manila-dashboard) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Manila Dashboard. Mirror of code maintained at opendev.org.
+- [openstack/charm-manila-dashboard](https://github.com/openstack/charm-manila-dashboard) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Manila Dashboard. Mirror of code maintained at opendev.org.
 - [openstack/charm-manila-ganesha](https://github.com/openstack/charm-manila-ganesha) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Manila-Ganesha Backend. Mirror of code maintained at opendev.org.
 - [openstack/charm-manila-generic](https://github.com/openstack/charm-manila-generic) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Manila fileshare generic backend plugin. Mirror of code maintained at opendev.org.
 - [openstack/charm-manila-netapp](https://github.com/openstack/charm-manila-netapp) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Manila-NetApp Backend. Mirror of code maintained at opendev.org.
 - [openstack/charm-masakari](https://github.com/openstack/charm-masakari) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Masakari Instances High Availability Service. Mirror of code maintained at opendev.org.
 - [openstack/charm-masakari-monitors](https://github.com/openstack/charm-masakari-monitors) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Masakari Monitors. Mirror of code maintained at opendev.org.
 - [openstack/charm-mistral](https://github.com/openstack/charm-mistral) pushed_at:2020-04 star:0.0k fork:0.0k Juju Charm - Mistral workflow service. Mirror of code maintained at opendev.org.
-- [openstack/charm-mysql-innodb-cluster](https://github.com/openstack/charm-mysql-innodb-cluster) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Mysql InnoDB Cluster. Mirror of code maintained at opendev.org.
+- [openstack/charm-mysql-innodb-cluster](https://github.com/openstack/charm-mysql-innodb-cluster) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Mysql InnoDB Cluster. Mirror of code maintained at opendev.org.
 - [openstack/charm-mysql-router](https://github.com/openstack/charm-mysql-router) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Mysql Router. Mirror of code maintained at opendev.org.
 - [openstack/charm-neutron-api](https://github.com/openstack/charm-neutron-api) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Neutron API. Mirror of code maintained at opendev.org.
-- [openstack/charm-neutron-api-plugin-arista](https://github.com/openstack/charm-neutron-api-plugin-arista) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Neutron API - plugin for Arista CVX. Mirror of code maintained at opendev.org.
+- [openstack/charm-neutron-api-plugin-arista](https://github.com/openstack/charm-neutron-api-plugin-arista) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Neutron API - plugin for Arista CVX. Mirror of code maintained at opendev.org.
 - [openstack/charm-neutron-api-plugin-ironic](https://github.com/openstack/charm-neutron-api-plugin-ironic) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Neutron API Plugin Ironic. Mirror of code maintained at opendev.org.
 - [openstack/charm-neutron-api-plugin-ovn](https://github.com/openstack/charm-neutron-api-plugin-ovn) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Neutron API - plugin for Open Virtual Network. Mirror of code maintained at opendev.org.
 - [openstack/charm-neutron-dynamic-routing](https://github.com/openstack/charm-neutron-dynamic-routing) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Neutron Dynamic Routing. Mirror of code maintained at opendev.org.
@@ -323,10 +323,10 @@
 - [openstack/charm-neutron-openvswitch](https://github.com/openstack/charm-neutron-openvswitch) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Neutron Open vSwitch. Mirror of code maintained at opendev.org.
 - [openstack/charm-nova-cell-controller](https://github.com/openstack/charm-nova-cell-controller) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Nova Cell Controller. Mirror of code maintained at opendev.org.
 - [openstack/charm-nova-cloud-controller](https://github.com/openstack/charm-nova-cloud-controller) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Nova Cloud Controller. Mirror of code maintained at opendev.org.
-- [openstack/charm-nova-compute](https://github.com/openstack/charm-nova-compute) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Nova Compute. Mirror of code maintained at opendev.org.
+- [openstack/charm-nova-compute](https://github.com/openstack/charm-nova-compute) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Nova Compute. Mirror of code maintained at opendev.org.
 - [openstack/charm-nova-lxd](https://github.com/openstack/charm-nova-lxd) pushed_at:2020-04 star:0.0k fork:0.0k Juju Charm - LXD. Mirror of code maintained at opendev.org.
 - [openstack/charm-octavia](https://github.com/openstack/charm-octavia) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Octavia. Mirror of code maintained at opendev.org.
-- [openstack/charm-octavia-dashboard](https://github.com/openstack/charm-octavia-dashboard) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Octavia Dashboard. Mirror of code maintained at opendev.org.
+- [openstack/charm-octavia-dashboard](https://github.com/openstack/charm-octavia-dashboard) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Octavia Dashboard. Mirror of code maintained at opendev.org.
 - [openstack/charm-octavia-diskimage-retrofit](https://github.com/openstack/charm-octavia-diskimage-retrofit) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Octavia Diskimage Retrofit. Mirror of code maintained at opendev.org.
 - [openstack/charm-openstack-dashboard](https://github.com/openstack/charm-openstack-dashboard) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - OpenStack dashboard. Mirror of code maintained at opendev.org.
 - [openstack/charm-ops-interface-ceph-client](https://github.com/openstack/charm-ops-interface-ceph-client) pushed_at:2021-10 star:0.0k fork:0.0k Charm Interface - Ceph Client Ops Interface. Mirror of code maintained at opendev.org.
@@ -335,7 +335,7 @@
 - [openstack/charm-pacemaker-remote](https://github.com/openstack/charm-pacemaker-remote) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Pacemaker Remote. Mirror of code maintained at opendev.org.
 - [openstack/charm-panko](https://github.com/openstack/charm-panko) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Panko. Mirror of code maintained at opendev.org.
 - [openstack/charm-percona-cluster](https://github.com/openstack/charm-percona-cluster) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Percona XtraDB Cluster. Mirror of code maintained at opendev.org.
-- [openstack/charm-placement](https://github.com/openstack/charm-placement) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Placement. Mirror of code maintained at opendev.org.
+- [openstack/charm-placement](https://github.com/openstack/charm-placement) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Placement. Mirror of code maintained at opendev.org.
 - [openstack/charm-rabbitmq-server](https://github.com/openstack/charm-rabbitmq-server) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - RabbitMQ. Mirror of code maintained at opendev.org.
 - [openstack/charm-specs](https://github.com/openstack/charm-specs) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charms for OpenStack - Specifications. Mirror of code maintained at opendev.org.
 - [openstack/charm-swift-proxy](https://github.com/openstack/charm-swift-proxy) pushed_at:2021-10 star:0.0k fork:0.0k Juju Charm - Swift proxy. Mirror of code maintained at opendev.org.
@@ -348,11 +348,12 @@
 - [openstack/charm-vault](https://github.com/openstack/charm-vault) pushed_at:2021-11 star:0.0k fork:0.0k Juju Charm - Vault secrets managment. Mirror of code maintained at opendev.org.
 - [openstack/charm-watcher](https://github.com/openstack/charm-watcher) pushed_at:2021-08 star:0.0k fork:0.0k Juju Charm - Watcher. Mirror of code maintained at opendev.org.
 - [openstack/charm-watcher-dashboard](https://github.com/openstack/charm-watcher-dashboard) pushed_at:2021-07 star:0.0k fork:0.0k Juju Charm - Watcher Dashboard. Mirror of code maintained at opendev.org.
-- [openstack/charms.ceph](https://github.com/openstack/charms.ceph) pushed_at:2021-10 star:0.0k fork:0.0k Helpers for writing Ceph OpenStack Charms. Mirror of code maintained at opendev.org.
+- [openstack/charms.ceph](https://github.com/openstack/charms.ceph) pushed_at:2021-11 star:0.0k fork:0.0k Helpers for writing Ceph OpenStack Charms. Mirror of code maintained at opendev.org.
 - [openstack/charms.openstack](https://github.com/openstack/charms.openstack) pushed_at:2021-10 star:0.0k fork:0.0k Helpers for writing layered+reactive OpenStack Charms. Mirror of code maintained at opendev.org.
+- [openstack/ci-log-processing](https://github.com/openstack/ci-log-processing) pushed_at:2021-11 star:0.0k fork:0.0k OpenStack CI log processing tool. Mirror of code maintained at opendev.org.
 - [openstack/cinder](https://github.com/openstack/cinder) pushed_at:2021-11 star:0.6k fork:0.9k OpenStack Block Storage (Cinder). Mirror of code maintained at opendev.org.
 - [openstack/cinder-specs](https://github.com/openstack/cinder-specs) pushed_at:2021-09 star:0.0k fork:0.0k OpenStack Block Storage (Cinder) Specifications. Mirror of code maintained at opendev.org.
-- [openstack/cinder-tempest-plugin](https://github.com/openstack/cinder-tempest-plugin) pushed_at:2021-08 star:0.0k fork:0.0k Tempest plugin for Cinder project. Mirror of code maintained at opendev.org.
+- [openstack/cinder-tempest-plugin](https://github.com/openstack/cinder-tempest-plugin) pushed_at:2021-11 star:0.0k fork:0.0k Tempest plugin for Cinder project. Mirror of code maintained at opendev.org.
 - [openstack/cinderlib](https://github.com/openstack/cinderlib) pushed_at:2021-09 star:0.0k fork:0.0k Direct usage of Cinder Block Storage drivers without the services. Mirror of code maintained at opendev.org.
 - [openstack/cliff](https://github.com/openstack/cliff) pushed_at:2021-09 star:0.2k fork:0.0k Command Line Interface Formulation Framework. Mirror of code maintained at opendev.org.
 - [openstack/cloudkitty](https://github.com/openstack/cloudkitty) pushed_at:2021-10 star:0.1k fork:0.0k Rating service for OpenStack. Mirror of code maintained at opendev.org.
@@ -364,10 +365,10 @@
 - [openstack/contributor-guide](https://github.com/openstack/contributor-guide) pushed_at:2021-06 star:0.0k fork:0.0k The general guide to contributing to OpenStack. Mirror of code maintained at opendev.org.
 - [openstack/cookiecutter](https://github.com/openstack/cookiecutter) pushed_at:2020-08 star:0.1k fork:0.0k Cookiecutter Template for new OpenStack projects. Mirror of code maintained at opendev.org.
 - [openstack/coverage2sql](https://github.com/openstack/coverage2sql) pushed_at:2021-11 star:0.0k fork:0.0k Tooling for converting coverage data into a SQL DB. Mirror of code maintained at opendev.org.
-- [openstack/cyborg](https://github.com/openstack/cyborg) pushed_at:2021-10 star:0.0k fork:0.0k Acceleration Management. Mirror of code maintained at opendev.org.
+- [openstack/cyborg](https://github.com/openstack/cyborg) pushed_at:2021-11 star:0.0k fork:0.0k Acceleration Management. Mirror of code maintained at opendev.org.
 - [openstack/cyborg-specs](https://github.com/openstack/cyborg-specs) pushed_at:2021-11 star:0.0k fork:0.0k Acceleration Management(cyborg) Specifications. Mirror of code maintained at opendev.org.
 - [openstack/cyborg-tempest-plugin](https://github.com/openstack/cyborg-tempest-plugin) pushed_at:2021-10 star:0.0k fork:0.0k Acceleration Management(cyborg) Functional Tests. Mirror of code maintained at opendev.org.
-- [openstack/debtcollector](https://github.com/openstack/debtcollector) pushed_at:2021-10 star:0.0k fork:0.0k A collection of python patterns that help you collect your technical debt in a non-destructive manner. Mirror of code maintained at opendev.org.
+- [openstack/debtcollector](https://github.com/openstack/debtcollector) pushed_at:2021-11 star:0.0k fork:0.0k A collection of python patterns that help you collect your technical debt in a non-destructive manner. Mirror of code maintained at opendev.org.
 - [openstack/designate](https://github.com/openstack/designate) pushed_at:2021-11 star:0.1k fork:0.1k OpenStack DNS As A Service (Designate). Mirror of code maintained at opendev.org.
 - [openstack/designate-specs](https://github.com/openstack/designate-specs) pushed_at:2021-03 star:0.0k fork:0.0k OpenStack DNS As A Service (Designate) Specifications. Mirror of code maintained at opendev.org.
 - [openstack/designate-tempest-plugin](https://github.com/openstack/designate-tempest-plugin) pushed_at:2021-11 star:0.0k fork:0.0k OpenStack DNS As A Service (Designate) Functional Tests. Mirror of code maintained at opendev.org.
@@ -382,10 +383,10 @@
 - [openstack/freezer-tempest-plugin](https://github.com/openstack/freezer-tempest-plugin) pushed_at:2021-11 star:0.0k fork:0.0k Tempest plugin for the freezer project. Mirror of code maintained at opendev.org.
 - [openstack/freezer-web-ui](https://github.com/openstack/freezer-web-ui) pushed_at:2021-11 star:0.0k fork:0.0k Horizon Web interface for Freezer backup, restore and disaster recovery platform. Mirror of code maintained at opendev.org.
 - [openstack/futurist](https://github.com/openstack/futurist) pushed_at:2021-09 star:0.0k fork:0.0k A collection of async functionality and additions from the future. Mirror of code maintained at opendev.org.
-- [openstack/glance](https://github.com/openstack/glance) pushed_at:2021-10 star:0.5k fork:0.5k OpenStack Image Management (Glance). Mirror of code maintained at opendev.org.
+- [openstack/glance](https://github.com/openstack/glance) pushed_at:2021-11 star:0.5k fork:0.5k OpenStack Image Management (Glance). Mirror of code maintained at opendev.org.
 - [openstack/glance-specs](https://github.com/openstack/glance-specs) pushed_at:2021-09 star:0.0k fork:0.0k OpenStack Image Management (Glance) Specifications. Mirror of code maintained at opendev.org.
 - [openstack/glance-tempest-plugin](https://github.com/openstack/glance-tempest-plugin) pushed_at:2021-10 star:0.0k fork:0.0k Tempest plugin for Glance project. Mirror of code maintained at opendev.org.
-- [openstack/glance_store](https://github.com/openstack/glance_store) pushed_at:2021-09 star:0.1k fork:0.1k Glance stores library. Mirror of code maintained at opendev.org.
+- [openstack/glance_store](https://github.com/openstack/glance_store) pushed_at:2021-11 star:0.1k fork:0.1k Glance stores library. Mirror of code maintained at opendev.org.
 - [openstack/goal-tools](https://github.com/openstack/goal-tools) pushed_at:2020-05 star:0.0k fork:0.0k Tools for managing community goals. Mirror of code maintained at opendev.org.
 - [openstack/governance](https://github.com/openstack/governance) pushed_at:2021-11 star:0.1k fork:0.0k OpenStack Technical Committee Decisions. Mirror of code maintained at opendev.org.
 - [openstack/governance-sigs](https://github.com/openstack/governance-sigs) pushed_at:2021-10 star:0.0k fork:0.0k Content about SIGs on governance.o.o. Mirror of code maintained at opendev.org.
@@ -405,7 +406,7 @@
 - [openstack/ironic](https://github.com/openstack/ironic) pushed_at:2021-11 star:0.4k fork:0.3k A service for managing and provisioning Bare Metal servers. Mirror of code maintained at opendev.org.
 - [openstack/ironic-inspector](https://github.com/openstack/ironic-inspector) pushed_at:2021-10 star:0.0k fork:0.0k Hardware introspection daemon for OpenStack Ironic. Mirror of code maintained at opendev.org.
 - [openstack/ironic-inspector-specs](https://github.com/openstack/ironic-inspector-specs) pushed_at:2021-06 star:0.0k fork:0.0k Specs for ironic-inspector. Mirror of code maintained at opendev.org.
-- [openstack/ironic-lib](https://github.com/openstack/ironic-lib) pushed_at:2021-10 star:0.0k fork:0.0k A python library of common ironic utilities. Mirror of code maintained at opendev.org.
+- [openstack/ironic-lib](https://github.com/openstack/ironic-lib) pushed_at:2021-11 star:0.0k fork:0.0k A python library of common ironic utilities. Mirror of code maintained at opendev.org.
 - [openstack/ironic-prometheus-exporter](https://github.com/openstack/ironic-prometheus-exporter) pushed_at:2021-10 star:0.0k fork:0.0k Application capable to export hardware sensor data from Ironic nodes to a Prometheus Server. Mirror of code maintained at opendev.org.
 - [openstack/ironic-python-agent](https://github.com/openstack/ironic-python-agent) pushed_at:2021-11 star:0.1k fork:0.1k A Python agent for provisioning and deprovisioning Bare Metal servers. Mirror of code maintained at opendev.org.
 - [openstack/ironic-specs](https://github.com/openstack/ironic-specs) pushed_at:2021-08 star:0.0k fork:0.0k OpenStack Baremetal (Ironic) Specifications. Mirror of code maintained at opendev.org.
@@ -541,14 +542,14 @@
 - [openstack/oslo.concurrency](https://github.com/openstack/oslo.concurrency) pushed_at:2021-10 star:0.1k fork:0.0k OpenStack library for all concurrency-related code. Mirror of code maintained at opendev.org.
 - [openstack/oslo.config](https://github.com/openstack/oslo.config) pushed_at:2021-09 star:0.1k fork:0.1k OpenStack library for config. Mirror of code maintained at opendev.org.
 - [openstack/oslo.context](https://github.com/openstack/oslo.context) pushed_at:2021-11 star:0.0k fork:0.0k OpenStack Context library. Mirror of code maintained at opendev.org.
-- [openstack/oslo.db](https://github.com/openstack/oslo.db) pushed_at:2021-09 star:0.1k fork:0.1k OpenStack Common DB Code. Mirror of code maintained at opendev.org.
+- [openstack/oslo.db](https://github.com/openstack/oslo.db) pushed_at:2021-11 star:0.1k fork:0.1k OpenStack Common DB Code. Mirror of code maintained at opendev.org.
 - [openstack/oslo.i18n](https://github.com/openstack/oslo.i18n) pushed_at:2021-09 star:0.0k fork:0.0k Internationalization and translation library. Mirror of code maintained at opendev.org.
 - [openstack/oslo.limit](https://github.com/openstack/oslo.limit) pushed_at:2021-10 star:0.0k fork:0.0k Limit enforcement library to assist with quota calculation. Mirror of code maintained at opendev.org.
 - [openstack/oslo.log](https://github.com/openstack/oslo.log) pushed_at:2021-10 star:0.1k fork:0.0k Logging library. Mirror of code maintained at opendev.org.
 - [openstack/oslo.messaging](https://github.com/openstack/oslo.messaging) pushed_at:2021-11 star:0.1k fork:0.1k OpenStack library for messaging. Mirror of code maintained at opendev.org.
 - [openstack/oslo.metrics](https://github.com/openstack/oslo.metrics) pushed_at:2021-10 star:0.0k fork:0.0k OpenStack library for collecting metrics from Oslo libraries. Mirror of code maintained at opendev.org.
-- [openstack/oslo.middleware](https://github.com/openstack/oslo.middleware) pushed_at:2021-10 star:0.0k fork:0.0k OpenStack middleware library. Mirror of code maintained at opendev.org.
-- [openstack/oslo.policy](https://github.com/openstack/oslo.policy) pushed_at:2021-10 star:0.0k fork:0.0k Rules engine to enforce access control policy. Mirror of code maintained at opendev.org.
+- [openstack/oslo.middleware](https://github.com/openstack/oslo.middleware) pushed_at:2021-11 star:0.0k fork:0.0k OpenStack middleware library. Mirror of code maintained at opendev.org.
+- [openstack/oslo.policy](https://github.com/openstack/oslo.policy) pushed_at:2021-11 star:0.0k fork:0.0k Rules engine to enforce access control policy. Mirror of code maintained at opendev.org.
 - [openstack/oslo.privsep](https://github.com/openstack/oslo.privsep) pushed_at:2021-09 star:0.0k fork:0.0k OpenStack library for privilege separation. Mirror of code maintained at opendev.org.
 - [openstack/oslo.reports](https://github.com/openstack/oslo.reports) pushed_at:2021-08 star:0.0k fork:0.0k OpenStack library for creating Guru Meditation Reports and other reports. Mirror of code maintained at opendev.org.
 - [openstack/oslo.rootwrap](https://github.com/openstack/oslo.rootwrap) pushed_at:2021-08 star:0.0k fork:0.0k OpenStack library for rootwrap. Mirror of code maintained at opendev.org.
@@ -560,12 +561,12 @@
 - [openstack/oslo.versionedobjects](https://github.com/openstack/oslo.versionedobjects) pushed_at:2021-09 star:0.0k fork:0.0k OpenStack versioned objects library. Mirror of code maintained at opendev.org.
 - [openstack/oslo.vmware](https://github.com/openstack/oslo.vmware) pushed_at:2021-10 star:0.1k fork:0.0k Oslo VMware library for OpenStack projects. Mirror of code maintained at opendev.org.
 - [openstack/oslotest](https://github.com/openstack/oslotest) pushed_at:2021-09 star:0.0k fork:0.0k OpenStack test classes. Mirror of code maintained at opendev.org.
-- [openstack/osops](https://github.com/openstack/osops) pushed_at:2021-07 star:0.0k fork:0.0k OpenStack Operator Tools and Scripts. Mirror of code maintained at opendev.org.
+- [openstack/osops](https://github.com/openstack/osops) pushed_at:2021-11 star:0.0k fork:0.0k OpenStack Operator Tools and Scripts. Mirror of code maintained at opendev.org.
 - [openstack/osprofiler](https://github.com/openstack/osprofiler) pushed_at:2021-10 star:0.1k fork:0.0k OpenStack cross service/project profiler. Mirror of code maintained at opendev.org.
 - [openstack/ossa](https://github.com/openstack/ossa) pushed_at:2021-09 star:0.0k fork:0.0k OpenStack Security Advisories. Mirror of code maintained at opendev.org.
 - [openstack/oswin-tempest-plugin](https://github.com/openstack/oswin-tempest-plugin) pushed_at:2021-07 star:0.0k fork:0.0k Tempest plugin for os-win project. Mirror of code maintained at opendev.org.
 - [openstack/ovn-octavia-provider](https://github.com/openstack/ovn-octavia-provider) pushed_at:2021-11 star:0.0k fork:0.0k OVN Octavia provider driver. Mirror of code maintained at opendev.org.
-- [openstack/ovsdbapp](https://github.com/openstack/ovsdbapp) pushed_at:2021-10 star:0.0k fork:0.0k OVSDB application library. Mirror of code maintained at opendev.org.
+- [openstack/ovsdbapp](https://github.com/openstack/ovsdbapp) pushed_at:2021-11 star:0.0k fork:0.0k OVSDB application library. Mirror of code maintained at opendev.org.
 - [openstack/patrole](https://github.com/openstack/patrole) pushed_at:2021-10 star:0.0k fork:0.0k Tempest plugin for testing and verifying RBAC policy enforcement. Mirror of code maintained at opendev.org.
 - [openstack/pbr](https://github.com/openstack/pbr) pushed_at:2021-11 star:0.2k fork:0.1k Python Build Reasonableness. Mirror of code maintained at opendev.org.
 - [openstack/placement](https://github.com/openstack/placement) pushed_at:2021-11 star:0.0k fork:0.0k OpenStack resource provider inventory allocation service. Mirror of code maintained at opendev.org.
@@ -583,7 +584,7 @@
 - [openstack/python-blazarclient](https://github.com/openstack/python-blazarclient) pushed_at:2021-10 star:0.0k fork:0.0k Client for OpenStack Blazar. Mirror of code maintained at opendev.org.
 - [openstack/python-brick-cinderclient-ext](https://github.com/openstack/python-brick-cinderclient-ext) pushed_at:2021-09 star:0.0k fork:0.0k python-cinderclient extension for local storage management. Mirror of code maintained at opendev.org.
 - [openstack/python-cinderclient](https://github.com/openstack/python-cinderclient) pushed_at:2021-11 star:0.1k fork:0.2k OpenStack Block Storage (Cinder) Client. Mirror of code maintained at opendev.org.
-- [openstack/python-cloudkittyclient](https://github.com/openstack/python-cloudkittyclient) pushed_at:2021-09 star:0.0k fork:0.0k Python client library for CloudKitty API. Mirror of code maintained at opendev.org.
+- [openstack/python-cloudkittyclient](https://github.com/openstack/python-cloudkittyclient) pushed_at:2021-11 star:0.0k fork:0.0k Python client library for CloudKitty API. Mirror of code maintained at opendev.org.
 - [openstack/python-cyborgclient](https://github.com/openstack/python-cyborgclient) pushed_at:2021-11 star:0.0k fork:0.0k Client library for Cyborg API. Mirror of code maintained at opendev.org.
 - [openstack/python-designateclient](https://github.com/openstack/python-designateclient) pushed_at:2021-09 star:0.0k fork:0.0k OpenStack DNS As A Service (Designate) Client. Mirror of code maintained at opendev.org.
 - [openstack/python-dracclient](https://github.com/openstack/python-dracclient) pushed_at:2020-05 star:0.1k fork:0.0k Library for managing machines with Dell iDRAC cards. Mirror of code maintained at opendev.org.
@@ -600,7 +601,7 @@
 - [openstack/python-monascaclient](https://github.com/openstack/python-monascaclient) pushed_at:2021-10 star:0.0k fork:0.0k Python client for Monasca REST API. Mirror of code maintained at opendev.org.
 - [openstack/python-muranoclient](https://github.com/openstack/python-muranoclient) pushed_at:2021-10 star:0.0k fork:0.0k Client library for Murano API. Mirror of code maintained at opendev.org.
 - [openstack/python-neutronclient](https://github.com/openstack/python-neutronclient) pushed_at:2021-09 star:0.2k fork:0.2k OpenStack Networking (Neutron) Client. Mirror of code maintained at opendev.org.
-- [openstack/python-novaclient](https://github.com/openstack/python-novaclient) pushed_at:2021-09 star:0.4k fork:0.4k OpenStack Compute (Nova) Client. Mirror of code maintained at opendev.org.
+- [openstack/python-novaclient](https://github.com/openstack/python-novaclient) pushed_at:2021-11 star:0.4k fork:0.4k OpenStack Compute (Nova) Client. Mirror of code maintained at opendev.org.
 - [openstack/python-octaviaclient](https://github.com/openstack/python-octaviaclient) pushed_at:2021-10 star:0.0k fork:0.0k Client components for Octavia. Mirror of code maintained at opendev.org.
 - [openstack/python-openstackclient](https://github.com/openstack/python-openstackclient) pushed_at:2021-11 star:0.3k fork:0.2k Client for OpenStack services. Mirror of code maintained at opendev.org.
 - [openstack/python-saharaclient](https://github.com/openstack/python-saharaclient) pushed_at:2021-10 star:0.0k fork:0.0k Python bindings and CLI for Sahara. Mirror of code maintained at opendev.org.
@@ -615,8 +616,8 @@
 - [openstack/python-zaqarclient](https://github.com/openstack/python-zaqarclient) pushed_at:2021-09 star:0.0k fork:0.0k OpenStack Messaging (Zaqar) Client. Mirror of code maintained at opendev.org.
 - [openstack/python-zunclient](https://github.com/openstack/python-zunclient) pushed_at:2021-09 star:0.0k fork:0.0k Containers Service (Zun) Client. Mirror of code maintained at opendev.org.
 - [openstack/qa-specs](https://github.com/openstack/qa-specs) pushed_at:2020-10 star:0.0k fork:0.0k OpenStack QA Specifications. Mirror of code maintained at opendev.org.
-- [openstack/rally](https://github.com/openstack/rally) pushed_at:2021-08 star:0.3k fork:0.3k Rally provides a framework for performance analysis and benchmarking of individual OpenStack components as well as full production OpenStack cloud deployments. Mirror of code maintained at opendev.org.
-- [openstack/rally-openstack](https://github.com/openstack/rally-openstack) pushed_at:2021-10 star:0.0k fork:0.0k A collection of plugins for Rally framework designed for the OpenStack platform. Mirror of code maintained at opendev.org.
+- [openstack/rally](https://github.com/openstack/rally) pushed_at:2021-11 star:0.3k fork:0.3k Rally provides a framework for performance analysis and benchmarking of individual OpenStack components as well as full production OpenStack cloud deployments. Mirror of code maintained at opendev.org.
+- [openstack/rally-openstack](https://github.com/openstack/rally-openstack) pushed_at:2021-11 star:0.0k fork:0.0k A collection of plugins for Rally framework designed for the OpenStack platform. Mirror of code maintained at opendev.org.
 - [openstack/rbd-iscsi-client](https://github.com/openstack/rbd-iscsi-client) pushed_at:2021-09 star:0.0k fork:0.0k REST client that talks to ceph-iscsi's rbd-target-api to export rbd images/volumes to an iSCSI initiator. Mirror of code maintained at opendev.org.
 - [openstack/release-test](https://github.com/openstack/release-test) pushed_at:2021-05 star:0.0k fork:0.0k Package for testing OpenStack release tools. Mirror of code maintained at opendev.org.
 - [openstack/releases](https://github.com/openstack/releases) pushed_at:2021-11 star:0.0k fork:0.0k Release requests and history tracking. Mirror of code maintained at opendev.org.
@@ -655,10 +656,10 @@
 - [openstack/storlets](https://github.com/openstack/storlets) pushed_at:2021-10 star:0.0k fork:0.0k Middleware and Compute Engine for an OpenStack Swift compute framework that runs compute within a Swift cluster. Mirror of code maintained at opendev.org.
 - [openstack/sushy](https://github.com/openstack/sushy) pushed_at:2021-11 star:0.0k fork:0.0k Sushy is a small Python library to communicate with Redfish based systems. Mirror of code maintained at opendev.org.
 - [openstack/sushy-tools](https://github.com/openstack/sushy-tools) pushed_at:2021-11 star:0.0k fork:0.0k A set of tools to support the development and test of the Sushy library. Mirror of code maintained at opendev.org.
-- [openstack/swift](https://github.com/openstack/swift) pushed_at:2021-11 star:2.2k fork:1.0k OpenStack Storage (Swift). Mirror of code maintained at opendev.org.
+- [openstack/swift](https://github.com/openstack/swift) pushed_at:2021-11 star:2.3k fork:1.0k OpenStack Storage (Swift). Mirror of code maintained at opendev.org.
 - [openstack/swift-bench](https://github.com/openstack/swift-bench) pushed_at:2021-10 star:0.1k fork:0.0k Benchmarking tool for OpenStack Swift. Mirror of code maintained at opendev.org.
 - [openstack/tacker](https://github.com/openstack/tacker) pushed_at:2021-10 star:0.1k fork:0.1k Tacker: ETSI MANO NFV Orchestrator / VNF Manager. See https://wiki.openstack.org/wiki/Tacker. Mirror of code maintained at opendev.org.
-- [openstack/tacker-horizon](https://github.com/openstack/tacker-horizon) pushed_at:2021-10 star:0.0k fork:0.0k Horizon UI for NFV Orchestration (Tacker). Mirror of code maintained at opendev.org.
+- [openstack/tacker-horizon](https://github.com/openstack/tacker-horizon) pushed_at:2021-11 star:0.0k fork:0.0k Horizon UI for NFV Orchestration (Tacker). Mirror of code maintained at opendev.org.
 - [openstack/tacker-specs](https://github.com/openstack/tacker-specs) pushed_at:2021-11 star:0.0k fork:0.0k NFV Orchestration (Tacker) Specifications. Mirror of code maintained at opendev.org.
 - [openstack/tap-as-a-service](https://github.com/openstack/tap-as-a-service) pushed_at:2021-10 star:0.0k fork:0.0k Tap-as-a-Service is a project to introduce the functionality of port mirroring in OpenStack Neutron provisioned networks. Mirror of code maintained at opendev.org.
 - [openstack/taskflow](https://github.com/openstack/taskflow) pushed_at:2021-10 star:0.3k fork:0.1k A library to complete workflows/tasks in HA manner. Mirror of code maintained at opendev.org.
@@ -687,6 +688,7 @@
 - [openstack/trove-tempest-plugin](https://github.com/openstack/trove-tempest-plugin) pushed_at:2021-10 star:0.0k fork:0.0k Tempest Plugin for Trove project. Mirror of code maintained at opendev.org.
 - [openstack/validations-common](https://github.com/openstack/validations-common) pushed_at:2021-11 star:0.0k fork:0.0k A collection of generic ansible playbooks for the Validation Framework. Mirror of code maintained at opendev.org.
 - [openstack/validations-libs](https://github.com/openstack/validations-libs) pushed_at:2021-11 star:0.0k fork:0.0k A collection of python libraries for the Validation Framework. Mirror of code maintained at opendev.org.
+- [openstack/venus](https://github.com/openstack/venus) pushed_at:2021-11 star:0.0k fork:0.0k A log management component for OpenStack. Mirror of code maintained at opendev.org.
 - [openstack/virtualbmc](https://github.com/openstack/virtualbmc) pushed_at:2021-11 star:0.1k fork:0.0k A virtual BMC for controlling virtual machines using IPMI commands. Mirror of code maintained at opendev.org.
 - [openstack/vitrage](https://github.com/openstack/vitrage) pushed_at:2021-09 star:0.1k fork:0.0k OpenStack RCA (Root Cause Analysis) Engine. Mirror of code maintained at opendev.org.
 - [openstack/vitrage-specs](https://github.com/openstack/vitrage-specs) pushed_at:2021-09 star:0.0k fork:0.0k Vitrage Design Specifications. Mirror of code maintained at opendev.org.
@@ -712,7 +714,7 @@
 - [openstack/xstatic-spin](https://github.com/openstack/xstatic-spin) pushed_at:2020-04 star:0.0k fork:0.0k Spin JavaScript library packaged as XStatic. Mirror of code maintained at opendev.org.
 - [openstack/yaql](https://github.com/openstack/yaql) pushed_at:2021-08 star:0.1k fork:0.0k Yet another query language. Mirror of code maintained at opendev.org.
 - [openstack/zaqar](https://github.com/openstack/zaqar) pushed_at:2021-11 star:0.1k fork:0.1k OpenStack Messaging (Zaqar). Mirror of code maintained at opendev.org.
-- [openstack/zaqar-specs](https://github.com/openstack/zaqar-specs) pushed_at:2021-01 star:0.0k fork:0.0k OpenStack Messaging (Zaqar) Specifications. Mirror of code maintained at opendev.org.
+- [openstack/zaqar-specs](https://github.com/openstack/zaqar-specs) pushed_at:2021-11 star:0.0k fork:0.0k OpenStack Messaging (Zaqar) Specifications. Mirror of code maintained at opendev.org.
 - [openstack/zaqar-tempest-plugin](https://github.com/openstack/zaqar-tempest-plugin) pushed_at:2021-09 star:0.0k fork:0.0k Tempest plugin for the Zaqar project. Mirror of code maintained at opendev.org.
 - [openstack/zun](https://github.com/openstack/zun) pushed_at:2021-10 star:0.1k fork:0.0k Containers Service for OpenStack. Mirror of code maintained at opendev.org.
 - [openstack/zun-tempest-plugin](https://github.com/openstack/zun-tempest-plugin) pushed_at:2021-09 star:0.0k fork:0.0k Tempest plugin for the Zun project. Mirror of code maintained at opendev.org.
@@ -762,7 +764,6 @@
 - [openstack/puppet-qdr](https://github.com/openstack/puppet-qdr) pushed_at:2021-10 star:0.0k fork:0.0k Puppet Qpid Dispatch Router Module. Mirror of code maintained at opendev.org.
 - [openstack/puppet-rally](https://github.com/openstack/puppet-rally) pushed_at:2021-11 star:0.0k fork:0.0k OpenStack Rally Puppet Module. Mirror of code maintained at opendev.org.
 - [openstack/puppet-sahara](https://github.com/openstack/puppet-sahara) pushed_at:2021-11 star:0.0k fork:0.0k OpenStack Sahara Puppet Module. Mirror of code maintained at opendev.org.
-- [openstack/puppet-senlin](https://github.com/openstack/puppet-senlin) pushed_at:2021-11 star:0.0k fork:0.0k OpenStack Senlin Puppet Module. Mirror of code maintained at opendev.org.
 - [openstack/puppet-swift](https://github.com/openstack/puppet-swift) pushed_at:2021-11 star:0.1k fork:0.0k OpenStack Swift Puppet Module. Mirror of code maintained at opendev.org.
 - [openstack/puppet-tacker](https://github.com/openstack/puppet-tacker) pushed_at:2021-11 star:0.0k fork:0.0k OpenStack Tacker Puppet Module. Mirror of code maintained at opendev.org.
 - [openstack/puppet-tempest](https://github.com/openstack/puppet-tempest) pushed_at:2021-11 star:0.0k fork:0.0k OpenStack Tempest Puppet Module. Mirror of code maintained at opendev.org.
@@ -801,8 +802,7 @@
 - [openstack/openstack-zuul-jobs](https://github.com/openstack/openstack-zuul-jobs) pushed_at:2021-10 star:0.0k fork:0.0k Ansible job definitions for OpenStack projects CI systems. Mirror of code maintained at opendev.org.
 - [openstack/oslo-specs](https://github.com/openstack/oslo-specs) pushed_at:2021-07 star:0.0k fork:0.0k OpenStack Oslo Specifications. Mirror of code maintained at opendev.org.
 - [openstack/sahara-image-elements](https://github.com/openstack/sahara-image-elements) pushed_at:2021-10 star:0.1k fork:0.0k Disk image elements for Sahara. Mirror of code maintained at opendev.org.
-- [openstack/training-guides](https://github.com/openstack/training-guides) pushed_at:2021-07 star:0.1k fork:0.0k Community created, open source training guides for OpenStack. Mirror of code maintained at opendev.org.
-- [openstack/training-labs](https://github.com/openstack/training-labs) pushed_at:2020-05 star:0.1k fork:0.0k Deploy multi node OpenStack on Virtual Machines. Mirror of code maintained at opendev.org.
+- [openstack/training-guides](https://github.com/openstack/training-guides) pushed_at:2021-11 star:0.1k fork:0.0k Community created, open source training guides for OpenStack. Mirror of code maintained at opendev.org.
 - [openstack/tripleo-image-elements](https://github.com/openstack/tripleo-image-elements) pushed_at:2021-11 star:0.1k fork:0.0k Disk image elements for deployment images of OpenStack. Mirror of code maintained at opendev.org.
 - [openstack/tripleo-quickstart](https://github.com/openstack/tripleo-quickstart) pushed_at:2021-11 star:0.1k fork:0.1k Ansible based project for setting up TripleO virtual environments. Mirror of code maintained at opendev.org.
 - [openstack/tripleo-upgrade](https://github.com/openstack/tripleo-upgrade) pushed_at:2021-11 star:0.0k fork:0.0k A set of tools for Upgrading a TripleO environment. Mirror of code maintained at opendev.org.

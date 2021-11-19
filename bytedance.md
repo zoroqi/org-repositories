@@ -48,7 +48,7 @@
 - [bytedance/trace-runqlat](https://github.com/bytedance/trace-runqlat) pushed_at:2020-11 star:0.0k fork:0.0k 
 - [bytedance/twemproxy](https://github.com/bytedance/twemproxy) pushed_at:2015-10 star:0.0k fork:0.0k A fork of twitter's twemproxy, please refer to README.bytedance.md
 - [bytedance/unscd](https://github.com/bytedance/unscd) pushed_at:2016-11 star:0.0k fork:0.0k 
-- [bytedance/uoa](https://github.com/bytedance/uoa) pushed_at:2021-09 star:0.0k fork:0.0k 
+- [bytedance/uoa](https://github.com/bytedance/uoa) pushed_at:2021-11 star:0.0k fork:0.0k 
 
 ## C++
 
@@ -59,7 +59,7 @@
 - [bytedance/pyskynet](https://github.com/bytedance/pyskynet) pushed_at:2021-11 star:0.0k fork:0.0k PySkynet is a library for using skynet in python.
 - [bytedance/tensorflow](https://github.com/bytedance/tensorflow) pushed_at:2021-02 star:0.0k fork:0.0k An Open Source Machine Learning Framework for Everyone
 - [bytedance/terark-zip](https://github.com/bytedance/terark-zip) pushed_at:2021-10 star:0.0k fork:0.0k A data structure and algorithm library built for TerarkDB
-- [bytedance/terarkdb](https://github.com/bytedance/terarkdb) pushed_at:2021-11 star:1.4k fork:0.1k A RocksDB compatible KV storage engine with better performance
+- [bytedance/terarkdb](https://github.com/bytedance/terarkdb) pushed_at:2021-11 star:1.5k fork:0.1k A RocksDB compatible KV storage engine with better performance
 - [bytedance/xoa_set_ip_option](https://github.com/bytedance/xoa_set_ip_option) pushed_at:2021-09 star:0.0k fork:0.0k 
 
 ## Cuda
@@ -74,7 +74,7 @@
 - [bytedance/pull_to_refresh](https://github.com/bytedance/pull_to_refresh) pushed_at:2020-05 star:0.1k fork:0.0k Flutter pull_to_refresh widget
 - [bytedance/rangers_applog_flutter_plugin](https://github.com/bytedance/rangers_applog_flutter_plugin) pushed_at:2021-10 star:0.0k fork:0.0k flutter plugin for RangersAppLog.
 - [bytedance/RealRichText](https://github.com/bytedance/RealRichText) pushed_at:2019-07 star:0.6k fork:0.1k  A Tricky Solution for Implementing Inline-Image-In-Text Feature in Flutter.
-- [bytedance/unpub](https://github.com/bytedance/unpub) pushed_at:2021-10 star:0.2k fork:0.1k Self-hosted private Dart Pub server for Enterprise
+- [bytedance/unpub](https://github.com/bytedance/unpub) pushed_at:2021-11 star:0.2k fork:0.1k Self-hosted private Dart Pub server for Enterprise
 
 ## Go
 
@@ -84,7 +84,7 @@
 - [bytedance/go-querystring-parser](https://github.com/bytedance/go-querystring-parser) pushed_at:2020-10 star:0.0k fork:0.0k A golang querystring parser
 - [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) pushed_at:2021-10 star:1.0k fork:0.1k An interesting go struct tag expression syntax for field validation, etc.
 - [bytedance/godlp](https://github.com/bytedance/godlp) pushed_at:2021-11 star:0.0k fork:0.0k sensitive information protection toolkit
-- [bytedance/gopkg](https://github.com/bytedance/gopkg) pushed_at:2021-11 star:0.4k fork:0.0k Universal Utilities for Go
+- [bytedance/gopkg](https://github.com/bytedance/gopkg) pushed_at:2021-11 star:0.4k fork:0.1k Universal Utilities for Go
 - [bytedance/ingress-nginx](https://github.com/bytedance/ingress-nginx) pushed_at:2020-10 star:0.0k fork:0.0k NGINX Ingress Controller for Kubernetes
 - [bytedance/json](https://github.com/bytedance/json) pushed_at:2019-05 star:0.0k fork:0.0k JSON standard package extension library
 - [bytedance/msgp](https://github.com/bytedance/msgp) pushed_at:2019-10 star:0.0k fork:0.0k A Go code generator for MessagePack / msgpack.org[Go]
@@ -118,7 +118,7 @@
 - [bytedance/lottiefy](https://github.com/bytedance/lottiefy) pushed_at:2018-12 star:0.1k fork:0.0k Render Lottie to any engine
 - [bytedance/mp4.js](https://github.com/bytedance/mp4.js) pushed_at:2021-09 star:0.0k fork:0.0k converter from mp4 to fmp4
 - [bytedance/node-wifi-info](https://github.com/bytedance/node-wifi-info) pushed_at:2021-09 star:0.0k fork:0.0k node module to get information about the currently connected wifi
-- [bytedance/xgplayer](https://github.com/bytedance/xgplayer) pushed_at:2021-11 star:4.6k fork:0.5k A HTML5 video player with a parser that saves traffic
+- [bytedance/xgplayer](https://github.com/bytedance/xgplayer) pushed_at:2021-11 star:4.7k fork:0.5k A HTML5 video player with a parser that saves traffic
 - [bytedance/xgplayer-react](https://github.com/bytedance/xgplayer-react) pushed_at:2021-02 star:0.1k fork:0.0k React component for xgplayer, a HTML5 video player with a parser that saves traffic
 - [bytedance/xgplayer-vue](https://github.com/bytedance/xgplayer-vue) pushed_at:2021-07 star:0.2k fork:0.0k Vue component for xgplayer, a HTML5 video player with a parser that saves traffic
 
@@ -131,7 +131,7 @@
 - [bytedance/AWERTL](https://github.com/bytedance/AWERTL) pushed_at:2019-10 star:0.1k fork:0.0k An non-invasive iOS framework for quickly adapting Right-To-Left style UI
 - [bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS) pushed_at:2021-09 star:0.2k fork:0.0k About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems
 - [bytedance/RangersAppLog](https://github.com/bytedance/RangersAppLog) pushed_at:2021-08 star:0.0k fork:0.0k Bytedance AppLog SDK
-- [bytedance/tiktok-business-ios-sdk](https://github.com/bytedance/tiktok-business-ios-sdk) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [bytedance/tiktok-business-ios-sdk](https://github.com/bytedance/tiktok-business-ios-sdk) pushed_at:2021-11 star:0.0k fork:0.0k 
 
 ## Others
 
@@ -191,14 +191,14 @@
 
 ## TypeScript
 
-- [bytedance/byteinspire-js-sdk](https://github.com/bytedance/byteinspire-js-sdk) pushed_at:2021-10 star:0.0k fork:0.0k 轻服务 JavaScript SDK https://qingfuwu.cn
-- [bytedance/bytemd](https://github.com/bytedance/bytemd) pushed_at:2021-09 star:1.5k fork:0.1k A hackable Markdown editor component built with Svelte
+- [bytedance/byteinspire-js-sdk](https://github.com/bytedance/byteinspire-js-sdk) pushed_at:2021-11 star:0.0k fork:0.0k 轻服务 JavaScript SDK https://qingfuwu.cn
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) pushed_at:2021-09 star:1.6k fork:0.1k A hackable Markdown editor component built with Svelte
 - [bytedance/debugtron](https://github.com/bytedance/debugtron) pushed_at:2021-02 star:0.6k fork:0.0k Debug in-production Electron based app
 - [bytedance/fe-foundation](https://github.com/bytedance/fe-foundation) pushed_at:2021-06 star:0.1k fork:0.0k UI Foundation for React Hooks and Vue Composition Api 
 - [bytedance/flow-builder](https://github.com/bytedance/flow-builder) pushed_at:2021-11 star:0.1k fork:0.0k A highly customizable streaming flow builder.
 - [bytedance/graphyne](https://github.com/bytedance/graphyne) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [bytedance/guide](https://github.com/bytedance/guide) pushed_at:2021-08 star:0.4k fork:0.0k A new feature guide component by react 🧭
-- [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-08 star:4.8k fork:0.3k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+- [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-11 star:4.8k fork:0.3k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) pushed_at:2021-10 star:0.4k fork:0.0k Write components in any way, use them everywhere.😘
 - [bytedance/magic-portal](https://github.com/bytedance/magic-portal) pushed_at:2021-07 star:0.1k fork:0.0k ⚡ A blazing fast micro-component and micro-frontend solution uses web-components under the hood.
 - [bytedance/mona](https://github.com/bytedance/mona) pushed_at:2021-11 star:0.0k fork:0.0k mona is for developing merchant's app and plugin
