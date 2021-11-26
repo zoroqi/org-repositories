@@ -12,7 +12,7 @@
 - [Hack](#hack) (1)
 - [Haskell](#haskell) (3)
 - [Java](#java) (11)
-- [JavaScript](#javascript) (16)
+- [JavaScript](#javascript) (15)
 - [Jupyter Notebook](#jupyter-notebook) (1)
 - [Kotlin](#kotlin) (1)
 - [OCaml](#ocaml) (3)
@@ -22,6 +22,7 @@
 - [PHP](#php) (3)
 - [Python](#python) (12)
 - [Ruby](#ruby) (9)
+- [Rust](#rust) (1)
 - [TypeScript](#typescript) (4)
 
 ## C
@@ -49,7 +50,7 @@
 - [facebook/folly](https://github.com/facebook/folly) pushed_at:2021-11 star:20.4k fork:4.4k An open-source C++ library developed and used at Facebook.
 - [facebook/hermes](https://github.com/facebook/hermes) pushed_at:2021-11 star:6.9k fork:0.4k A JavaScript engine optimized for running React Native.
 - [facebook/hhvm](https://github.com/facebook/hhvm) pushed_at:2021-11 star:17.1k fork:3.0k A virtual machine for executing programs written in Hack.
-- [facebook/kuduraft](https://github.com/facebook/kuduraft) pushed_at:2021-10 star:0.0k fork:0.0k A Raft Library in C++ based on the Raft implementation in Apache Kudu
+- [facebook/kuduraft](https://github.com/facebook/kuduraft) pushed_at:2021-11 star:0.0k fork:0.0k A Raft Library in C++ based on the Raft implementation in Apache Kudu
 - [facebook/mariana-trench](https://github.com/facebook/mariana-trench) pushed_at:2021-11 star:0.7k fork:0.1k Our security focused static analysis tool for Android and Java applications.
 - [facebook/mcrouter](https://github.com/facebook/mcrouter) pushed_at:2021-11 star:2.9k fork:0.5k Mcrouter is a memcached protocol router for scaling memcached deployments.
 - [facebook/mysql-5.6](https://github.com/facebook/mysql-5.6) pushed_at:2021-11 star:2.1k fork:0.7k Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks.
@@ -58,7 +59,7 @@
 - [facebook/proxygen](https://github.com/facebook/proxygen) pushed_at:2021-11 star:7.3k fork:1.4k A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [facebook/pyre2](https://github.com/facebook/pyre2) pushed_at:2021-09 star:0.6k fork:0.2k Python wrapper for RE2
 - [facebook/redex](https://github.com/facebook/redex) pushed_at:2021-11 star:5.5k fork:0.6k A bytecode optimizer for Android apps
-- [facebook/rocksdb](https://github.com/facebook/rocksdb) pushed_at:2021-11 star:21.2k fork:4.8k A library that provides an embeddable, persistent key-value store for fast storage.
+- [facebook/rocksdb](https://github.com/facebook/rocksdb) pushed_at:2021-11 star:21.3k fork:4.8k A library that provides an embeddable, persistent key-value store for fast storage.
 - [facebook/SPARTA](https://github.com/facebook/SPARTA) pushed_at:2021-09 star:0.5k fork:0.0k SPARTA is a library that provides the basic blocks for building high-performance static code analyzers based on Abstract Interpretation.
 - [facebook/squangle](https://github.com/facebook/squangle) pushed_at:2021-11 star:0.1k fork:0.1k SQuangLe is a C++ API for accessing MySQL servers
 - [facebook/ThreatExchange](https://github.com/facebook/ThreatExchange) pushed_at:2021-11 star:0.9k fork:0.2k Share threat information with vetted partners
@@ -98,8 +99,8 @@
 
 ## JavaScript
 
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) pushed_at:2021-11 star:91.5k fork:23.2k Set up a modern web app by running one command.
-- [facebook/draft-js](https://github.com/facebook/draft-js) pushed_at:2021-11 star:21.0k fork:2.5k A React framework for building text editors.
+- [facebook/create-react-app](https://github.com/facebook/create-react-app) pushed_at:2021-11 star:91.6k fork:23.2k Set up a modern web app by running one command.
+- [facebook/draft-js](https://github.com/facebook/draft-js) pushed_at:2021-11 star:21.1k fork:2.5k A React framework for building text editors.
 - [facebook/facebook-nodejs-business-sdk](https://github.com/facebook/facebook-nodejs-business-sdk) pushed_at:2021-11 star:0.4k fork:0.2k Facebook Ads API using Node.js
 - [facebook/fbjs](https://github.com/facebook/fbjs) pushed_at:2021-10 star:1.8k fork:0.3k A collection of utility libraries used by other Facebook JS projects.
 - [facebook/fbt](https://github.com/facebook/fbt) pushed_at:2021-11 star:3.7k fork:0.2k A JavaScript Internationalization Framework
@@ -109,11 +110,10 @@
 - [facebook/metro](https://github.com/facebook/metro) pushed_at:2021-11 star:4.3k fork:0.5k 🚇 The JavaScript bundler for React Native.
 - [facebook/prepack](https://github.com/facebook/prepack) pushed_at:2021-09 star:14.4k fork:0.5k A JavaScript bundle optimizer.
 - [facebook/prop-types](https://github.com/facebook/prop-types) pushed_at:2021-11 star:4.0k fork:0.4k Runtime type checking for React props and similar objects
-- [facebook/react](https://github.com/facebook/react) pushed_at:2021-11 star:177.9k fork:36.0k A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [facebook/react-native](https://github.com/facebook/react-native) pushed_at:2021-11 star:99.4k fork:21.4k A framework for building native applications using React
+- [facebook/react](https://github.com/facebook/react) pushed_at:2021-11 star:178.2k fork:36.1k A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react-native](https://github.com/facebook/react-native) pushed_at:2021-11 star:99.5k fork:21.5k A framework for building native applications using React
 - [facebook/react-native-website](https://github.com/facebook/react-native-website) pushed_at:2021-11 star:1.5k fork:3.7k Configuration and documentation powering the React Native website.
 - [facebook/regenerator](https://github.com/facebook/regenerator) pushed_at:2021-11 star:3.6k fork:1.2k Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
-- [facebook/relay](https://github.com/facebook/relay) pushed_at:2021-11 star:16.1k fork:1.6k Relay is a JavaScript framework for building data-driven React applications.
 
 ## Jupyter Notebook
 
@@ -126,7 +126,7 @@
 ## OCaml
 
 - [facebook/flow](https://github.com/facebook/flow) pushed_at:2021-11 star:21.5k fork:1.8k Adds static typing to JavaScript to improve developer productivity and code quality.
-- [facebook/infer](https://github.com/facebook/infer) pushed_at:2021-11 star:12.7k fork:1.7k A static analyzer for Java, C, C++, and Objective-C
+- [facebook/infer](https://github.com/facebook/infer) pushed_at:2021-11 star:12.8k fork:1.7k A static analyzer for Java, C, C++, and Objective-C
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) pushed_at:2021-11 star:5.7k fork:0.4k Performant type-checking for python.
 
 ## Objective-C
@@ -172,18 +172,22 @@
 - [facebook/between-meals](https://github.com/facebook/between-meals) pushed_at:2021-10 star:0.1k fork:0.0k A library to provide calculations between Chef diffs.
 - [facebook/chef-cookbooks](https://github.com/facebook/chef-cookbooks) pushed_at:2021-11 star:0.5k fork:0.1k Open source chef cookbooks.
 - [facebook/chef-utils](https://github.com/facebook/chef-utils) pushed_at:2021-10 star:0.3k fork:0.1k Utilities related to Chef
-- [facebook/facebook-ruby-business-sdk](https://github.com/facebook/facebook-ruby-business-sdk) pushed_at:2021-10 star:0.2k fork:0.1k An SDK built to facilitate application development for Facebook Ads API using Ruby.
+- [facebook/facebook-ruby-business-sdk](https://github.com/facebook/facebook-ruby-business-sdk) pushed_at:2021-11 star:0.2k fork:0.1k An SDK built to facilitate application development for Facebook Ads API using Ruby.
 - [facebook/grocery-delivery](https://github.com/facebook/grocery-delivery) pushed_at:2021-10 star:0.1k fork:0.1k The Grocery Delivery utility for managing cookbook uploads to distributed Chef backends.
 - [facebook/homebrew-fb](https://github.com/facebook/homebrew-fb) pushed_at:2021-11 star:0.1k fork:0.2k OS X Homebrew formulas to install Facebook open source software
 - [facebook/IT-CPE](https://github.com/facebook/IT-CPE) pushed_at:2021-11 star:0.5k fork:0.1k Facebook's IT - Client Platform Engineering tools. Some of the tools we have written to help manage our fleet of client systems. 
 - [facebook/Specs](https://github.com/facebook/Specs) pushed_at:2019-01 star:0.0k fork:0.0k A repository of CocoaPods (cocoapods.org) specifications.
 - [facebook/taste-tester](https://github.com/facebook/taste-tester) pushed_at:2021-10 star:0.1k fork:0.1k Software to manage a chef-zero instance and use it to test changes on production servers.
 
+## Rust
+
+- [facebook/relay](https://github.com/facebook/relay) pushed_at:2021-11 star:16.1k fork:1.6k Relay is a JavaScript framework for building data-driven React applications.
+
 ## TypeScript
 
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) pushed_at:2021-11 star:28.2k fork:3.8k Easy to maintain open source documentation websites.
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) pushed_at:2021-11 star:28.4k fork:3.8k Easy to maintain open source documentation websites.
 - [facebook/flipper](https://github.com/facebook/flipper) pushed_at:2021-11 star:10.2k fork:0.7k A desktop debugging platform for mobile developers.
-- [facebook/jest](https://github.com/facebook/jest) pushed_at:2021-11 star:37.1k fork:5.5k Delightful JavaScript Testing.
+- [facebook/jest](https://github.com/facebook/jest) pushed_at:2021-11 star:37.2k fork:5.5k Delightful JavaScript Testing.
 - [facebook/remodel](https://github.com/facebook/remodel) pushed_at:2021-11 star:0.6k fork:0.1k Remodel is a tool that helps iOS and OS X developers avoid repetitive code by generating Objective-C models that support coding, value comparison, and immutability.
 
 

@@ -47,7 +47,7 @@
 - [uber/assume-role-cli](https://github.com/uber/assume-role-cli) pushed_at:2020-07 star:0.0k fork:0.0k CLI for AssumeRole is a tool for running programs with temporary credentials from AWS's AssumeRole API.
 - [uber/astro](https://github.com/uber/astro) pushed_at:2020-01 star:0.4k fork:0.0k Astro is a tool for managing multiple Terraform executions as a single command
 - [uber/athenadriver](https://github.com/uber/athenadriver) pushed_at:2021-09 star:0.1k fork:0.0k A fully-featured AWS Athena database driver (+ athenareader https://github.com/uber/athenadriver/tree/master/athenareader)
-- [uber/cadence](https://github.com/uber/cadence) pushed_at:2021-11 star:5.4k fork:0.5k Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [uber/cadence](https://github.com/uber/cadence) pushed_at:2021-11 star:5.5k fork:0.5k Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [uber/cadvisor](https://github.com/uber/cadvisor) pushed_at:2021-08 star:0.0k fork:0.0k Analyzes resource usage and performance characteristics of running containers.
 - [uber/gonduit](https://github.com/uber/gonduit) pushed_at:2021-06 star:0.0k fork:0.0k A Go package for connecting to Phabricator via the Conduit API.
 - [uber/kraken](https://github.com/uber/kraken) pushed_at:2021-10 star:4.8k fork:0.3k P2P Docker registry capable of distributing TBs of data in seconds
@@ -137,7 +137,7 @@
 
 - [uber/artist](https://github.com/uber/artist) pushed_at:2021-08 star:0.2k fork:0.0k An artist creates views. Artist is a Gradle plugin that codegens a base set of Android Views.
 - [uber/crumb](https://github.com/uber/crumb) pushed_at:2020-08 star:0.1k fork:0.0k An annotation processor for breadcrumbing metadata across compilation boundaries.
-- [uber/lint-checks](https://github.com/uber/lint-checks) pushed_at:2020-11 star:0.0k fork:0.0k A set of opinionated and useful lint checks
+- [uber/lint-checks](https://github.com/uber/lint-checks) pushed_at:2020-11 star:0.1k fork:0.0k A set of opinionated and useful lint checks
 - [uber/motif](https://github.com/uber/motif) pushed_at:2021-09 star:0.5k fork:0.0k A simple DI API for Android / Java
 - [uber/stylist](https://github.com/uber/stylist) pushed_at:2021-05 star:0.4k fork:0.0k A stylist creates cool styles. Stylist is a Gradle plugin that codegens a base set of Android XML themes.
 
@@ -165,7 +165,7 @@
 
 - [uber/bayesmark](https://github.com/uber/bayesmark) pushed_at:2021-06 star:0.1k fork:0.0k Benchmark framework to easily compare Bayesian optimization methods on real machine learning tasks
 - [uber/cassette](https://github.com/uber/cassette) pushed_at:2020-10 star:0.1k fork:0.0k Store and replay HTTP requests made in your Python app
-- [uber/causalml](https://github.com/uber/causalml) pushed_at:2021-11 star:2.4k fork:0.4k Uplift modeling and causal inference with machine learning algorithms
+- [uber/causalml](https://github.com/uber/causalml) pushed_at:2021-11 star:2.5k fork:0.4k Uplift modeling and causal inference with machine learning algorithms
 - [uber/charlatan](https://github.com/uber/charlatan) pushed_at:2019-09 star:0.1k fork:0.0k A Python library to efficiently manage and install database fixtures
 - [uber/clay](https://github.com/uber/clay) pushed_at:2019-06 star:0.4k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [uber/doubles](https://github.com/uber/doubles) pushed_at:2018-10 star:0.2k fork:0.0k Test doubles for Python.
@@ -174,7 +174,7 @@
 - [uber/hypothesis-gufunc](https://github.com/uber/hypothesis-gufunc) pushed_at:2021-03 star:0.0k fork:0.0k Extension to hypothesis for testing numpy general universal functions
 - [uber/multidimensional_urlencode](https://github.com/uber/multidimensional_urlencode) pushed_at:2019-07 star:0.1k fork:0.0k Python library to urlencode a multidimensional dict
 - [uber/mutornadomon](https://github.com/uber/mutornadomon) pushed_at:2019-10 star:0.0k fork:0.0k Easy-to-install monitor endpoint for Tornado applications
-- [uber/orbit](https://github.com/uber/orbit) pushed_at:2021-11 star:0.7k fork:0.1k A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
+- [uber/orbit](https://github.com/uber/orbit) pushed_at:2021-11 star:0.8k fork:0.1k A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
 - [uber/petastorm](https://github.com/uber/petastorm) pushed_at:2021-10 star:1.3k fork:0.2k Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
 - [uber/py-find-injection](https://github.com/uber/py-find-injection) pushed_at:2019-03 star:0.1k fork:0.0k Look for SQL injection attacks in python source code
 - [uber/py-look-for-timeouts](https://github.com/uber/py-look-for-timeouts) pushed_at:2020-03 star:0.0k fork:0.0k Scan for missing timeout calls in python source files
@@ -188,7 +188,7 @@
 ## Ruby
 
 - [uber/client-platform-engineering](https://github.com/uber/client-platform-engineering) pushed_at:2021-11 star:0.1k fork:0.0k A collection of cookbooks, scripts and binaries used to manage our macOS, Ubuntu and Windows endpoints
-- [uber/homebrew-nanoscope](https://github.com/uber/homebrew-nanoscope) pushed_at:2020-05 star:0.0k fork:0.0k 
+- [uber/homebrew-nanoscope](https://github.com/uber/homebrew-nanoscope) pushed_at:2021-11 star:0.0k fork:0.0k 
 
 ## Shell
 

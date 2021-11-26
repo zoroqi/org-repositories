@@ -11,14 +11,14 @@
 - [C](#c) (18)
 - [C#](#c#) (6)
 - [C++](#c++) (5)
-- [CSS](#css) (6)
+- [CSS](#css) (5)
 - [Go](#go) (23)
 - [Groovy](#groovy) (3)
 - [HCL](#hcl) (7)
 - [HTML](#html) (8)
 - [Hack](#hack) (1)
 - [Java](#java) (62)
-- [JavaScript](#javascript) (47)
+- [JavaScript](#javascript) (48)
 - [Jupyter Notebook](#jupyter-notebook) (4)
 - [Makefile](#makefile) (1)
 - [Objective-C](#objective-c) (2)
@@ -91,7 +91,6 @@
 - [oracle/microservices-datadriven](https://github.com/oracle/microservices-datadriven) pushed_at:2021-11 star:0.0k fork:0.0k Sample code of application examples to build microservices with converged Oracle database and multi-cloud / hybrid cloud services
 - [oracle/OracleMobileChat](https://github.com/oracle/OracleMobileChat) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [oracle/weblogic-innovation-seminars](https://github.com/oracle/weblogic-innovation-seminars) pushed_at:2016-10 star:0.0k fork:0.0k 
-- [oracle/weblogic-remote-console](https://github.com/oracle/weblogic-remote-console) pushed_at:2021-11 star:0.0k fork:0.0k A WebLogic Console that connects remotely using the WebLogic Management REST API
 
 ## Go
 
@@ -211,15 +210,15 @@
 - [oracle/visualvm](https://github.com/oracle/visualvm) pushed_at:2021-11 star:2.1k fork:0.2k VisualVM is an All-in-One Java Troubleshooting Tool
 - [oracle/weblogic-image-tool](https://github.com/oracle/weblogic-image-tool) pushed_at:2021-11 star:0.0k fork:0.0k Oracle WebLogic Image Tool
 - [oracle/weblogic-kubernetes-operator](https://github.com/oracle/weblogic-kubernetes-operator) pushed_at:2021-11 star:0.2k fork:0.2k Oracle Weblogic Server Kubernetes Operator
-- [oracle/weblogic-logging-exporter](https://github.com/oracle/weblogic-logging-exporter) pushed_at:2021-09 star:0.0k fork:0.0k Export server logs from WebLogic Server in JSON format to Elasticsearch. 
-- [oracle/weblogic-monitoring-exporter](https://github.com/oracle/weblogic-monitoring-exporter) pushed_at:2021-09 star:0.1k fork:0.1k WebLogic Monitoring Exporter exposes metrics and monitoring data through REST APIs for consumption by other tools (e.g. Prometheus)
+- [oracle/weblogic-logging-exporter](https://github.com/oracle/weblogic-logging-exporter) pushed_at:2021-11 star:0.0k fork:0.0k Export server logs from WebLogic Server in JSON format to Elasticsearch. 
+- [oracle/weblogic-monitoring-exporter](https://github.com/oracle/weblogic-monitoring-exporter) pushed_at:2021-11 star:0.1k fork:0.1k WebLogic Monitoring Exporter exposes metrics and monitoring data through REST APIs for consumption by other tools (e.g. Prometheus)
 - [oracle/xstream](https://github.com/oracle/xstream) pushed_at:2021-03 star:0.0k fork:0.0k Serialize Java objects to XML and back again.
 
 ## JavaScript
 
 - [oracle/bots-node-sdk](https://github.com/oracle/bots-node-sdk) pushed_at:2021-08 star:0.0k fork:0.1k Oracle Bots Node.js SDK
 - [oracle/cloud-asset-digital-assistant-smalltalk-bot](https://github.com/oracle/cloud-asset-digital-assistant-smalltalk-bot) pushed_at:2021-05 star:0.0k fork:0.0k Oracle Digital Assistant Smalltalk Bot and Dialog Flow Custom Component.
-- [oracle/cloud-asset-oda-agent-handover](https://github.com/oracle/cloud-asset-oda-agent-handover) pushed_at:2021-05 star:0.0k fork:0.0k Integrating Oracle Digital Assistant (ODA) with an Agent System
+- [oracle/cloud-asset-oda-agent-handover](https://github.com/oracle/cloud-asset-oda-agent-handover) pushed_at:2021-11 star:0.0k fork:0.0k Integrating Oracle Digital Assistant (ODA) with an Agent System
 - [oracle/cloud-asset-oda-recruitmentbot](https://github.com/oracle/cloud-asset-oda-recruitmentbot) pushed_at:2020-01 star:0.0k fork:0.0k Sample Recruitment Bot for Oracle Digital Assistant
 - [oracle/cloud-native-devops-workshop](https://github.com/oracle/cloud-native-devops-workshop) pushed_at:2018-04 star:0.1k fork:0.2k Oracle's Cloud Native and DevOps Workshop on Oracle Cloud
 - [oracle/cloudtestdrive](https://github.com/oracle/cloudtestdrive) pushed_at:2021-11 star:0.1k fork:0.1k 
@@ -263,6 +262,7 @@
 - [oracle/oraclejet-tooling](https://github.com/oracle/oraclejet-tooling) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [oracle/pgx-client-js](https://github.com/oracle/pgx-client-js) pushed_at:2020-06 star:0.0k fork:0.0k A JavaScript client for the Parallel Graph AnalytiX (PGX) engine from Oracle Labs
 - [oracle/tax-reporting-framework-cli](https://github.com/oracle/tax-reporting-framework-cli) pushed_at:2021-11 star:0.0k fork:0.0k Tax Reporting Framework CLI is a tool for generating boilerplate codes to quickly setup and deploy your reports using Tax Reporting Framework SuiteApp in NetSuite.
+- [oracle/weblogic-remote-console](https://github.com/oracle/weblogic-remote-console) pushed_at:2021-11 star:0.0k fork:0.0k A WebLogic Console that connects remotely using the WebLogic Management REST API
 - [oracle/weblogic-toolkit-ui](https://github.com/oracle/weblogic-toolkit-ui) pushed_at:2021-11 star:0.0k fork:0.0k WebLogic Kubernetes Toolkit UI
 
 ## Jupyter Notebook
@@ -298,7 +298,7 @@
 - [oracle/linux-uek](https://github.com/oracle/linux-uek) pushed_at:2021-11 star:0.2k fork:0.1k Oracle Linux UEK: Unbreakable Enterprise Kernel
 - [oracle/netsuite-commerce](https://github.com/oracle/netsuite-commerce) pushed_at:2021-03 star:0.0k fork:0.0k netsuite-commerce is a repository of code samples for NetSuite SuiteCommerce and SuiteCommerce Advanced.
 - [oracle/oracle-for-research](https://github.com/oracle/oracle-for-research) pushed_at:2021-10 star:0.0k fork:0.0k Repository of technology how-to’s and instructional content for Researchers
-- [oracle/oracle-functions-samples](https://github.com/oracle/oracle-functions-samples) pushed_at:2021-10 star:0.1k fork:0.1k Examples demonstrating how to use Oracle Functions
+- [oracle/oracle-functions-samples](https://github.com/oracle/oracle-functions-samples) pushed_at:2021-11 star:0.1k fork:0.1k Examples demonstrating how to use Oracle Functions
 - [oracle/oraclejet](https://github.com/oracle/oraclejet) pushed_at:2021-10 star:0.4k fork:0.1k Oracle JET is a modular JavaScript Extension Toolkit for developers working on client-side applications.
 - [oracle/puppet-samples](https://github.com/oracle/puppet-samples) pushed_at:2016-11 star:0.0k fork:0.0k Index of Puppet Samples, Modules, and Providers for Oracle Products published on GitHub
 - [oracle/shim-review](https://github.com/oracle/shim-review) pushed_at:2021-03 star:0.0k fork:0.0k Reviews of shim
@@ -334,7 +334,7 @@
 - [oracle/sample-scim-migration-util](https://github.com/oracle/sample-scim-migration-util) pushed_at:2021-02 star:0.0k fork:0.0k This repository contains sample source code for synchronizing user information from Oracle Fusion to Oracle Identity Cloud Service.
 - [oracle/sample-serverless-saas-erp-dataload](https://github.com/oracle/sample-serverless-saas-erp-dataload) pushed_at:2021-03 star:0.0k fork:0.0k Sample code demonstrating how you can use Oracle Cloud Infrastructure serverless components to load data into Oracle Fusion ERP
 - [oracle/Skater](https://github.com/oracle/Skater) pushed_at:2020-06 star:1.0k fork:0.2k Python Library for Model Interpretation/Explanations
-- [oracle/solaris-ips](https://github.com/oracle/solaris-ips) pushed_at:2021-06 star:0.0k fork:0.0k Solaris IPS: Image Packaging System
+- [oracle/solaris-ips](https://github.com/oracle/solaris-ips) pushed_at:2021-11 star:0.0k fork:0.0k Solaris IPS: Image Packaging System
 - [oracle/solaris-openstack-utils](https://github.com/oracle/solaris-openstack-utils) pushed_at:2016-11 star:0.0k fork:0.0k Solaris Openstack Utilities and Tools Project
 - [oracle/weblogic-deploy-tooling](https://github.com/oracle/weblogic-deploy-tooling) pushed_at:2021-11 star:0.1k fork:0.1k Oracle WebLogic Server Deploy Tooling
 
@@ -386,7 +386,7 @@
 - [oracle/ktf](https://github.com/oracle/ktf) pushed_at:2021-10 star:0.1k fork:0.0k Kernel Test Framework - a unit test framework for the Linux kernel
 - [oracle/kubernetes-kubespray](https://github.com/oracle/kubernetes-kubespray) pushed_at:2021-09 star:0.0k fork:0.0k Setup a kubernetes cluster
 - [oracle/oci-react-samples](https://github.com/oracle/oci-react-samples) pushed_at:2021-10 star:0.0k fork:0.0k A series of simple Cloud Native app using React JS frontend, various backends (Java, Python, DotNet) and the Autonomous database. 
-- [oracle/oracle-linux](https://github.com/oracle/oracle-linux) pushed_at:2021-08 star:0.1k fork:0.0k Scripts, examples, and tutorials to get started with Oracle Linux
+- [oracle/oracle-linux](https://github.com/oracle/oracle-linux) pushed_at:2021-11 star:0.1k fork:0.0k Scripts, examples, and tutorials to get started with Oracle Linux
 - [oracle/vagrant-projects](https://github.com/oracle/vagrant-projects) pushed_at:2021-11 star:0.7k fork:0.4k Vagrant projects for Oracle products and other examples
 - [oracle/weblogic-azure](https://github.com/oracle/weblogic-azure) pushed_at:2021-11 star:0.0k fork:0.0k This project offers support for running Oracle WebLogic Server in the Azure Virtual Machines and Azure Kubernetes Service (AKS)
 - [oracle/wookiee-cache](https://github.com/oracle/wookiee-cache) pushed_at:2021-05 star:0.0k fork:0.0k Wookiee Component - Cache

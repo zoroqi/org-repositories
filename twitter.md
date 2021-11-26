@@ -35,7 +35,7 @@
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
 - [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2021-11 star:0.9k fork:0.1k Pelikan is Twitter's unified cache backend
 - [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2021-11 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-11 star:11.1k fork:1.9k A fast, light-weight proxy for memcached and redis
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-11 star:11.1k fork:2.0k A fast, light-weight proxy for memcached and redis
 
 ## C++
 
@@ -162,7 +162,7 @@
 ## Shell
 
 - [twitter/cache-trace](https://github.com/twitter/cache-trace) pushed_at:2021-07 star:0.1k fork:0.0k A collection of Twitter's anonymized production cache traces.
-- [twitter/dodo](https://github.com/twitter/dodo) pushed_at:2021-10 star:0.0k fork:0.0k The Twitter OSS Project Builder
+- [twitter/dodo](https://github.com/twitter/dodo) pushed_at:2021-11 star:0.0k fork:0.0k The Twitter OSS Project Builder
 - [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) pushed_at:2021-08 star:0.5k fork:0.3k Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
 
 ## Swift

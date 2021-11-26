@@ -61,7 +61,7 @@
 ## Go
 
 - [baidu/baiducloud-sdk-go](https://github.com/baidu/baiducloud-sdk-go) pushed_at:2019-10 star:0.0k fork:0.0k Go SDK for Baidu Cloud
-- [baidu/brcc-go-sdk](https://github.com/baidu/brcc-go-sdk) pushed_at:2021-09 star:0.0k fork:0.0k golang sdk for BRCC (https://github.com/baidu/brcc)
+- [baidu/brcc-go-sdk](https://github.com/baidu/brcc-go-sdk) pushed_at:2021-11 star:0.0k fork:0.0k golang sdk for BRCC (https://github.com/baidu/brcc)
 - [baidu/cluster-api-provider-baiducloud](https://github.com/baidu/cluster-api-provider-baiducloud) pushed_at:2018-12 star:0.0k fork:0.0k Kubernetes cluster-api for Baidu Cloud
 - [baidu/EasyFaaS](https://github.com/baidu/EasyFaaS) pushed_at:2021-10 star:0.5k fork:0.0k EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎
 - [baidu/go-lib](https://github.com/baidu/go-lib) pushed_at:2021-10 star:0.1k fork:0.0k 
@@ -149,9 +149,9 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-11 star:8.6k fork:1.1k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-11 star:8.6k fork:1.2k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) pushed_at:2021-09 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
-- [baidu/san-ssr](https://github.com/baidu/san-ssr) pushed_at:2021-09 star:0.0k fork:0.0k San SSR framework and utils
+- [baidu/san-ssr](https://github.com/baidu/san-ssr) pushed_at:2021-11 star:0.0k fork:0.0k San SSR framework and utils
 
 ## VHDL
 

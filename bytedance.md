@@ -27,7 +27,7 @@
 
 ## Assembly
 
-- [bytedance/sonic](https://github.com/bytedance/sonic) pushed_at:2021-11 star:0.8k fork:0.0k A blazingly fast JSON serializing & deserializing library
+- [bytedance/sonic](https://github.com/bytedance/sonic) pushed_at:2021-11 star:1.4k fork:0.0k A blazingly fast JSON serializing & deserializing library
 
 ## C
 
@@ -97,7 +97,7 @@
 
 ## Java
 
-- [bytedance/AabResGuard](https://github.com/bytedance/AabResGuard) pushed_at:2021-10 star:0.8k fork:0.1k The tool of obfuscated aab resources.(Android app bundle资源混淆工具)
+- [bytedance/AabResGuard](https://github.com/bytedance/AabResGuard) pushed_at:2021-11 star:0.8k fork:0.1k The tool of obfuscated aab resources.(Android app bundle资源混淆工具)
 - [bytedance/AlphaPlayer](https://github.com/bytedance/AlphaPlayer) pushed_at:2021-10 star:1.5k fork:0.2k AlphaPlayer is a video animation engine.
 - [bytedance/BoostMultiDex](https://github.com/bytedance/BoostMultiDex) pushed_at:2020-07 star:0.9k fork:0.1k BoostMultiDex is a solution for quickly loading multiple dex files on low Android version devices (4.X and below, SDK <21).
 - [bytedance/ByteX](https://github.com/bytedance/ByteX) pushed_at:2021-07 star:2.1k fork:0.3k ByteX is a bytecode plugin platform based on Android Gradle Transform API and ASM.  字节码插件开发平台
@@ -129,7 +129,7 @@
 ## Objective-C
 
 - [bytedance/AWERTL](https://github.com/bytedance/AWERTL) pushed_at:2019-10 star:0.1k fork:0.0k An non-invasive iOS framework for quickly adapting Right-To-Left style UI
-- [bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS) pushed_at:2021-09 star:0.2k fork:0.0k About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems
+- [bytedance/Fastbot_iOS](https://github.com/bytedance/Fastbot_iOS) pushed_at:2021-09 star:0.3k fork:0.0k About Fastbot(2.0) is a model-based testing tool for modeling GUI transitions to discover app stability problems
 - [bytedance/RangersAppLog](https://github.com/bytedance/RangersAppLog) pushed_at:2021-08 star:0.0k fork:0.0k Bytedance AppLog SDK
 - [bytedance/tiktok-business-ios-sdk](https://github.com/bytedance/tiktok-business-ios-sdk) pushed_at:2021-11 star:0.0k fork:0.0k 
 
@@ -166,7 +166,7 @@
 - [bytedance/GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) pushed_at:2021-11 star:1.0k fork:0.1k 
 - [bytedance/mega-ai](https://github.com/bytedance/mega-ai) pushed_at:2021-03 star:0.0k fork:0.0k Encapsulate tensorflow and other deep frameworks, support feature evaluation and model evaluation methods
 - [bytedance/mega-spark](https://github.com/bytedance/mega-spark) pushed_at:2020-09 star:0.0k fork:0.0k Spark is encapsulated as a mega interface to call pandas methods
-- [bytedance/music_source_separation](https://github.com/bytedance/music_source_separation) pushed_at:2021-10 star:0.6k fork:0.1k 
+- [bytedance/music_source_separation](https://github.com/bytedance/music_source_separation) pushed_at:2021-10 star:0.7k fork:0.1k 
 - [bytedance/neurst](https://github.com/bytedance/neurst) pushed_at:2021-11 star:0.2k fork:0.0k Neural end-to-end Speech Translation Toolkit
 - [bytedance/OMGD](https://github.com/bytedance/OMGD) pushed_at:2021-09 star:0.2k fork:0.0k Online Multi-Granularity Distillation for GAN Compression (ICCV2021)
 - [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) pushed_at:2021-11 star:0.8k fork:0.1k 
@@ -192,18 +192,18 @@
 ## TypeScript
 
 - [bytedance/byteinspire-js-sdk](https://github.com/bytedance/byteinspire-js-sdk) pushed_at:2021-11 star:0.0k fork:0.0k 轻服务 JavaScript SDK https://qingfuwu.cn
-- [bytedance/bytemd](https://github.com/bytedance/bytemd) pushed_at:2021-09 star:1.6k fork:0.1k A hackable Markdown editor component built with Svelte
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) pushed_at:2021-11 star:1.6k fork:0.1k A hackable Markdown editor component built with Svelte
 - [bytedance/debugtron](https://github.com/bytedance/debugtron) pushed_at:2021-02 star:0.6k fork:0.0k Debug in-production Electron based app
 - [bytedance/fe-foundation](https://github.com/bytedance/fe-foundation) pushed_at:2021-06 star:0.1k fork:0.0k UI Foundation for React Hooks and Vue Composition Api 
 - [bytedance/flow-builder](https://github.com/bytedance/flow-builder) pushed_at:2021-11 star:0.1k fork:0.0k A highly customizable streaming flow builder.
 - [bytedance/graphyne](https://github.com/bytedance/graphyne) pushed_at:2019-03 star:0.0k fork:0.0k 
-- [bytedance/guide](https://github.com/bytedance/guide) pushed_at:2021-08 star:0.4k fork:0.0k A new feature guide component by react 🧭
+- [bytedance/guide](https://github.com/bytedance/guide) pushed_at:2021-08 star:0.5k fork:0.0k A new feature guide component by react 🧭
 - [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-11 star:4.8k fork:0.3k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) pushed_at:2021-10 star:0.4k fork:0.0k Write components in any way, use them everywhere.😘
 - [bytedance/magic-portal](https://github.com/bytedance/magic-portal) pushed_at:2021-07 star:0.1k fork:0.0k ⚡ A blazing fast micro-component and micro-frontend solution uses web-components under the hood.
 - [bytedance/mona](https://github.com/bytedance/mona) pushed_at:2021-11 star:0.0k fork:0.0k mona is for developing merchant's app and plugin
 - [bytedance/mona-templates](https://github.com/bytedance/mona-templates) pushed_at:2021-11 star:0.0k fork:0.0k template's repo for mona-cli-init
-- [bytedance/react-model](https://github.com/bytedance/react-model) pushed_at:2021-03 star:0.1k fork:0.0k The next generation state management library for React
+- [bytedance/react-model](https://github.com/bytedance/react-model) pushed_at:2021-03 star:0.2k fork:0.0k The next generation state management library for React
 - [bytedance/syllepsis](https://github.com/bytedance/syllepsis) pushed_at:2021-11 star:0.1k fork:0.0k Syllepsis is an out-of-the-box rich text editor.
 - [bytedance/TiktokBusinessPlugin](https://github.com/bytedance/TiktokBusinessPlugin) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [bytedance/vis-tree](https://github.com/bytedance/vis-tree) pushed_at:2021-05 star:0.0k fork:0.0k Visualization of tree data

@@ -60,7 +60,7 @@
 
 ## Fluent
 
-- [rust-lang/www.rust-lang.org](https://github.com/rust-lang/www.rust-lang.org) pushed_at:2021-10 star:0.3k fork:0.2k The home of the Rust website
+- [rust-lang/www.rust-lang.org](https://github.com/rust-lang/www.rust-lang.org) pushed_at:2021-11 star:0.3k fork:0.2k The home of the Rust website
 
 ## HCL
 
@@ -145,7 +145,7 @@
 
 - [rust-lang/core-team](https://github.com/rust-lang/core-team) pushed_at:2020-12 star:0.0k fork:0.0k A place to house minutes and other documents related to the core team.
 - [rust-lang/gha-self-hosted](https://github.com/rust-lang/gha-self-hosted) pushed_at:2021-11 star:0.0k fork:0.0k GitHub Actions self-hosted runners infrastructure
-- [rust-lang/highfive](https://github.com/rust-lang/highfive) pushed_at:2021-09 star:0.2k fork:0.1k Github hooks to provide an encouraging atmosphere for new contributors
+- [rust-lang/highfive](https://github.com/rust-lang/highfive) pushed_at:2021-11 star:0.2k fork:0.1k Github hooks to provide an encouraging atmosphere for new contributors
 - [rust-lang/homu](https://github.com/rust-lang/homu) pushed_at:2021-11 star:0.1k fork:0.0k A bot that integrates with GitHub and your favorite continuous integration service
 - [rust-lang/pontoon](https://github.com/rust-lang/pontoon) pushed_at:2020-03 star:0.0k fork:0.0k Localization platform used by Rust
 - [rust-lang/rust-enhanced](https://github.com/rust-lang/rust-enhanced) pushed_at:2021-11 star:0.7k fork:0.1k The official Sublime Text 3 package for the Rust Programming Language
@@ -169,7 +169,7 @@
 - [rust-lang/discord-mods-bot](https://github.com/rust-lang/discord-mods-bot) pushed_at:2021-11 star:0.0k fork:0.0k discord moderation bot
 - [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) pushed_at:2021-11 star:0.7k fork:0.1k crates.io documentation generator
 - [rust-lang/ena](https://github.com/rust-lang/ena) pushed_at:2021-10 star:0.1k fork:0.0k An implementation of union-find / congruence-closure in Rust. Extracted from rustc for independent experimentation.
-- [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) pushed_at:2021-11 star:4.0k fork:0.5k Zero-cost asynchronous programming in Rust
+- [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) pushed_at:2021-11 star:4.1k fork:0.5k Zero-cost asynchronous programming in Rust
 - [rust-lang/generate-manifest-list](https://github.com/rust-lang/generate-manifest-list) pushed_at:2021-08 star:0.0k fork:0.0k Creates a list of manifests on static.rust-lang.org
 - [rust-lang/getopts](https://github.com/rust-lang/getopts) pushed_at:2021-09 star:0.2k fork:0.1k 
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) pushed_at:2021-11 star:0.9k fork:0.3k libgit2 bindings for Rust
@@ -180,7 +180,7 @@
 - [rust-lang/libm](https://github.com/rust-lang/libm) pushed_at:2021-07 star:0.3k fork:0.1k A port of MUSL's libm to Rust.
 - [rust-lang/libs-team](https://github.com/rust-lang/libs-team) pushed_at:2021-10 star:0.0k fork:0.0k The home of the library team
 - [rust-lang/libtest](https://github.com/rust-lang/libtest) pushed_at:2021-08 star:0.1k fork:0.0k Rust's built-in testing and benchmarking framework
-- [rust-lang/libz-sys](https://github.com/rust-lang/libz-sys) pushed_at:2021-08 star:0.1k fork:0.0k Rust crate package to link to a system libz (zlib)
+- [rust-lang/libz-sys](https://github.com/rust-lang/libz-sys) pushed_at:2021-11 star:0.1k fork:0.0k Rust crate package to link to a system libz (zlib)
 - [rust-lang/log](https://github.com/rust-lang/log) pushed_at:2021-11 star:1.2k fork:0.2k Logging implementation for Rust
 - [rust-lang/mailgun-mailmap](https://github.com/rust-lang/mailgun-mailmap) pushed_at:2019-02 star:0.0k fork:0.0k Mail configuration for rust-lang domains
 - [rust-lang/mdBook](https://github.com/rust-lang/mdBook) pushed_at:2021-11 star:8.0k fork:0.9k Create book from markdown files. Like Gitbook but implemented in Rust
@@ -199,7 +199,7 @@
 - [rust-lang/relnotes](https://github.com/rust-lang/relnotes) pushed_at:2021-11 star:0.0k fork:0.0k Generate release notes for "The Rust Programming Language"
 - [rust-lang/rfcbot-rs](https://github.com/rust-lang/rfcbot-rs) pushed_at:2021-11 star:0.1k fork:0.1k Coordinates asynchronous decision making on Rust repositories. Status of tracked issues and PRs can be viewed at https://rfcbot.rs.
 - [rust-lang/rls](https://github.com/rust-lang/rls) pushed_at:2021-11 star:3.4k fork:0.3k Repository for the Rust Language Server (aka RLS)
-- [rust-lang/rust](https://github.com/rust-lang/rust) pushed_at:2021-11 star:60.5k fork:8.5k Empowering everyone to build reliable and efficient software.
+- [rust-lang/rust](https://github.com/rust-lang/rust) pushed_at:2021-11 star:60.7k fork:8.5k Empowering everyone to build reliable and efficient software.
 - [rust-lang/rust-central-station](https://github.com/rust-lang/rust-central-station) pushed_at:2020-11 star:0.1k fork:0.1k Old home of some infra pieces
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) pushed_at:2021-11 star:6.6k fork:0.9k A bunch of lints to catch common mistakes and improve your Rust code
 - [rust-lang/rust-dbg-ext](https://github.com/rust-lang/rust-dbg-ext) pushed_at:2021-11 star:0.0k fork:0.0k 
@@ -216,15 +216,15 @@
 - [rust-lang/rustc_codegen_gcc](https://github.com/rust-lang/rustc_codegen_gcc) pushed_at:2021-11 star:0.6k fork:0.0k libgccjit AOT codegen for rustc
 - [rust-lang/rustfix](https://github.com/rust-lang/rustfix) pushed_at:2021-10 star:0.7k fork:0.0k Automatically apply the suggestions made by rustc
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) pushed_at:2021-11 star:4.0k fork:0.6k Format Rust code
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) pushed_at:2021-11 star:20.1k fork:2.9k :crab: Small exercises to get you used to reading and writing Rust code!
-- [rust-lang/rustup](https://github.com/rust-lang/rustup) pushed_at:2021-11 star:4.3k fork:0.7k The Rust toolchain installer
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) pushed_at:2021-11 star:20.2k fork:3.0k :crab: Small exercises to get you used to reading and writing Rust code!
+- [rust-lang/rustup](https://github.com/rust-lang/rustup) pushed_at:2021-11 star:4.4k fork:0.7k The Rust toolchain installer
 - [rust-lang/rustup-components-history](https://github.com/rust-lang/rustup-components-history) pushed_at:2021-11 star:0.1k fork:0.0k Rustup package status history
 - [rust-lang/rustwide](https://github.com/rust-lang/rustwide) pushed_at:2021-11 star:0.1k fork:0.0k Execute your code on the Rust ecosystem.
 - [rust-lang/socket2](https://github.com/rust-lang/socket2) pushed_at:2021-11 star:0.3k fork:0.1k Advanced configuration options for sockets.
 - [rust-lang/stacker](https://github.com/rust-lang/stacker) pushed_at:2021-08 star:0.1k fork:0.0k Manual segmented stacks for Rust
 - [rust-lang/surveys](https://github.com/rust-lang/surveys) pushed_at:2021-11 star:0.0k fork:0.0k Repo for coordinating the creation, distribution, collection, and analysis of surveys for the Rust project. 
 - [rust-lang/sync-team](https://github.com/rust-lang/sync-team) pushed_at:2021-05 star:0.0k fork:0.0k Synchronize the team repository with the services we use
-- [rust-lang/team](https://github.com/rust-lang/team) pushed_at:2021-11 star:0.1k fork:0.2k Rust teams structure
+- [rust-lang/team](https://github.com/rust-lang/team) pushed_at:2021-11 star:0.2k fork:0.2k Rust teams structure
 - [rust-lang/thanks](https://github.com/rust-lang/thanks) pushed_at:2021-11 star:0.1k fork:0.0k Celebrate Rust contributors.
 - [rust-lang/triagebot](https://github.com/rust-lang/triagebot) pushed_at:2021-11 star:0.1k fork:0.0k Triage Bot
 - [rust-lang/wg-async-foundations](https://github.com/rust-lang/wg-async-foundations) pushed_at:2021-11 star:0.2k fork:0.1k Working group dedicated to improving the foundations of Async I/O in Rust
@@ -246,7 +246,7 @@
 
 ## Vim script
 
-- [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) pushed_at:2021-11 star:2.8k fork:0.3k Vim configuration for Rust.
+- [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) pushed_at:2021-11 star:2.9k fork:0.3k Vim configuration for Rust.
 
 
 ## License

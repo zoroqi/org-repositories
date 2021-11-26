@@ -27,7 +27,7 @@
 
 - [google-research/automemcpy](https://github.com/google-research/automemcpy) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [google-research/math-opt-benchmark](https://github.com/google-research/math-opt-benchmark) pushed_at:2021-02 star:0.0k fork:0.0k 
-- [google-research/mozolm](https://github.com/google-research/mozolm) pushed_at:2021-10 star:0.0k fork:0.0k MozoLM: A language model (LM) serving library
+- [google-research/mozolm](https://github.com/google-research/mozolm) pushed_at:2021-11 star:0.0k fork:0.0k MozoLM: A language model (LM) serving library
 - [google-research/raksha](https://github.com/google-research/raksha) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [google-research/sputnik](https://github.com/google-research/sputnik) pushed_at:2020-11 star:0.1k fork:0.0k A library of GPU kernels for sparse matrix operations.
 - [google-research/structured-additive-IR](https://github.com/google-research/structured-additive-IR) pushed_at:2021-11 star:0.0k fork:0.0k 
@@ -67,11 +67,11 @@
 
 - [google-research/agent-based-epidemic-sim](https://github.com/google-research/agent-based-epidemic-sim) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [google-research/computation-thru-dynamics](https://github.com/google-research/computation-thru-dynamics) pushed_at:2021-05 star:0.3k fork:0.1k Understanding computation in artificial and biological recurrent networks through the lens of dynamical systems.
-- [google-research/data-driven-advection](https://github.com/google-research/data-driven-advection) pushed_at:2021-05 star:0.2k fork:0.0k 
+- [google-research/data-driven-advection](https://github.com/google-research/data-driven-advection) pushed_at:2021-05 star:0.2k fork:0.1k 
 - [google-research/deep_ope](https://github.com/google-research/deep_ope) pushed_at:2021-06 star:0.1k fork:0.0k 
 - [google-research/episodic-curiosity](https://github.com/google-research/episodic-curiosity) pushed_at:2020-10 star:0.2k fork:0.0k Tensorflow/Keras code and trained models for Episodic Curiosity Through Reachability
 - [google-research/evoflow](https://github.com/google-research/evoflow) pushed_at:2020-06 star:0.0k fork:0.0k 
-- [google-research/google-research](https://github.com/google-research/google-research) pushed_at:2021-11 star:20.4k fork:4.7k Google Research
+- [google-research/google-research](https://github.com/google-research/google-research) pushed_at:2021-11 star:20.6k fork:4.7k Google Research
 - [google-research/graph-attribution](https://github.com/google-research/graph-attribution) pushed_at:2021-03 star:0.0k fork:0.0k Codebase for Evaluating Attribution for Graph Neural Networks.
 - [google-research/mnist-c](https://github.com/google-research/mnist-c) pushed_at:2019-06 star:0.0k fork:0.0k 
 - [google-research/nested-transformer](https://github.com/google-research/nested-transformer) pushed_at:2021-07 star:0.1k fork:0.0k Aggregating Nested Transformer https://arxiv.org/pdf/2105.12723.pdf
@@ -86,7 +86,7 @@
 - [google-research/robustness_metrics](https://github.com/google-research/robustness_metrics) pushed_at:2021-09 star:0.4k fork:0.0k 
 - [google-research/self-organising-systems](https://github.com/google-research/self-organising-systems) pushed_at:2021-10 star:0.1k fork:0.0k 
 - [google-research/si-score](https://github.com/google-research/si-score) pushed_at:2021-04 star:0.0k fork:0.0k 
-- [google-research/simclr](https://github.com/google-research/simclr) pushed_at:2021-11 star:2.6k fork:0.4k SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners
+- [google-research/simclr](https://github.com/google-research/simclr) pushed_at:2021-11 star:2.7k fork:0.4k SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners
 - [google-research/socialgood](https://github.com/google-research/socialgood) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer) pushed_at:2021-10 star:4.0k fork:0.5k 
 
@@ -110,7 +110,7 @@
 - [google-research/autoconj](https://github.com/google-research/autoconj) pushed_at:2019-12 star:0.0k fork:0.0k Recognizing and exploiting conjugacy without a domain-specific language
 - [google-research/batch-ppo](https://github.com/google-research/batch-ppo) pushed_at:2019-01 star:0.9k fork:0.2k Efficient Batched Reinforcement Learning in TensorFlow
 - [google-research/batch_rl](https://github.com/google-research/batch_rl) pushed_at:2021-09 star:0.3k fork:0.1k Offline Reinforcement Learning (aka Batch Reinforcement Learning) on Atari 2600 games
-- [google-research/bert](https://github.com/google-research/bert) pushed_at:2021-09 star:29.7k fork:8.4k TensorFlow code and pre-trained models for BERT
+- [google-research/bert](https://github.com/google-research/bert) pushed_at:2021-09 star:29.8k fork:8.4k TensorFlow code and pre-trained models for BERT
 - [google-research/big_transfer](https://github.com/google-research/big_transfer) pushed_at:2021-08 star:1.3k fork:0.1k Official repository for the "Big Transfer (BiT): General Visual Representation Learning" paper.
 - [google-research/bigbird](https://github.com/google-research/bigbird) pushed_at:2021-11 star:0.3k fork:0.1k Transformers for Longer Sequences
 - [google-research/bleurt](https://github.com/google-research/bleurt) pushed_at:2021-10 star:0.4k fork:0.0k BLEURT is a metric for Natural Language Generation based on transfer learning.
@@ -135,7 +135,7 @@
 - [google-research/electra](https://github.com/google-research/electra) pushed_at:2021-03 star:1.9k fork:0.3k ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators
 - [google-research/exoplanet-ml](https://github.com/google-research/exoplanet-ml) pushed_at:2020-02 star:0.3k fork:0.1k Machine learning models and utilities for exoplanet science.
 - [google-research/falken](https://github.com/google-research/falken) pushed_at:2021-11 star:0.2k fork:0.0k Falken provides developers with a service that allows them to train AI that can play their games
-- [google-research/fast-soft-sort](https://github.com/google-research/fast-soft-sort) pushed_at:2020-07 star:0.3k fork:0.0k Fast Differentiable Sorting and Ranking
+- [google-research/fast-soft-sort](https://github.com/google-research/fast-soft-sort) pushed_at:2020-07 star:0.4k fork:0.0k Fast Differentiable Sorting and Ranking
 - [google-research/federated](https://github.com/google-research/federated) pushed_at:2021-11 star:0.2k fork:0.1k A collection of Google research projects related to Federated Learning and Federated Analytics.
 - [google-research/fitvid](https://github.com/google-research/fitvid) pushed_at:2021-06 star:0.1k fork:0.0k 
 - [google-research/fixmatch](https://github.com/google-research/fixmatch) pushed_at:2021-10 star:0.8k fork:0.1k A simple method to perform semi-supervised learning with limited data.
@@ -143,7 +143,7 @@
 - [google-research/fnc](https://github.com/google-research/fnc) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google-research/football](https://github.com/google-research/football) pushed_at:2021-11 star:2.8k fork:1.1k Check out the new game server:
 - [google-research/group_testing](https://github.com/google-research/group_testing) pushed_at:2020-12 star:0.0k fork:0.0k 
-- [google-research/heatnet](https://github.com/google-research/heatnet) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [google-research/heatnet](https://github.com/google-research/heatnet) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [google-research/heldout-influence-estimation](https://github.com/google-research/heldout-influence-estimation) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [google-research/ibc](https://github.com/google-research/ibc) pushed_at:2021-11 star:0.1k fork:0.0k Official implementation of Implicit Behavioral Cloning, as described in our CoRL 2021 paper, see more at https://implicitbc.github.io/
 - [google-research/jumping-task](https://github.com/google-research/jumping-task) pushed_at:2021-06 star:0.0k fork:0.0k 
@@ -205,7 +205,7 @@
 - [google-research/ssl_detection](https://github.com/google-research/ssl_detection) pushed_at:2021-08 star:0.3k fork:0.1k Semi-supervised learning for object detection
 - [google-research/sunds](https://github.com/google-research/sunds) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [google-research/t5x](https://github.com/google-research/t5x) pushed_at:2021-11 star:0.2k fork:0.0k 
-- [google-research/tapas](https://github.com/google-research/tapas) pushed_at:2021-09 star:0.7k fork:0.1k End-to-end neural table-text understanding models.
+- [google-research/tapas](https://github.com/google-research/tapas) pushed_at:2021-11 star:0.7k fork:0.1k End-to-end neural table-text understanding models.
 - [google-research/task_adaptation](https://github.com/google-research/task_adaptation) pushed_at:2021-09 star:0.2k fork:0.0k 
 - [google-research/tensor2robot](https://github.com/google-research/tensor2robot) pushed_at:2021-10 star:0.4k fork:0.1k Distributed machine learning infrastructure for large-scale robotics research
 - [google-research/tensorflow-coder](https://github.com/google-research/tensorflow-coder) pushed_at:2021-08 star:0.2k fork:0.0k 
@@ -224,7 +224,7 @@
 - [google-research/weakly_supervised_control](https://github.com/google-research/weakly_supervised_control) pushed_at:2020-10 star:0.0k fork:0.0k Weakly-Supervised RL for Controllable Behavior (NeurIPS 2020)
 - [google-research/wide-sparse-nets](https://github.com/google-research/wide-sparse-nets) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [google-research/world_models](https://github.com/google-research/world_models) pushed_at:2020-12 star:0.1k fork:0.0k 
-- [google-research/xmcgan_image_generation](https://github.com/google-research/xmcgan_image_generation) pushed_at:2021-06 star:0.0k fork:0.0k 
+- [google-research/xmcgan_image_generation](https://github.com/google-research/xmcgan_image_generation) pushed_at:2021-06 star:0.1k fork:0.0k 
 
 ## Rust
 
@@ -232,7 +232,7 @@
 
 ## Shell
 
-- [google-research/xtreme](https://github.com/google-research/xtreme) pushed_at:2021-10 star:0.5k fork:0.1k XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks.
+- [google-research/xtreme](https://github.com/google-research/xtreme) pushed_at:2021-11 star:0.5k fork:0.1k XTREME is a benchmark for the evaluation of the cross-lingual generalization ability of pre-trained multilingual models that covers 40 typologically diverse languages and includes nine tasks.
 
 ## Svelte
 

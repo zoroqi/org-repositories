@@ -791,7 +791,7 @@
 - [opencollective/school-api](https://github.com/opencollective/school-api) pushed_at:2020-05 star:0.0k fork:0.0k 🌱 校园教务系统接口，正方教务系统 SDK for Python
 - [opencollective/score](https://github.com/opencollective/score) pushed_at:2020-02 star:0.0k fork:0.0k ossia score, an interactive sequencer for the intermedia arts.
 - [opencollective/searchstone](https://github.com/opencollective/searchstone) pushed_at:2019-09 star:0.0k fork:0.0k :black_joker: Hearthstone's cards search engine built with algolia instantsearch.
-- [opencollective/selfdefined](https://github.com/opencollective/selfdefined) pushed_at:2021-10 star:0.0k fork:0.0k Dictionary database with future API and bot integrations
+- [opencollective/selfdefined](https://github.com/opencollective/selfdefined) pushed_at:2021-11 star:0.0k fork:0.0k Dictionary database with future API and bot integrations
 - [opencollective/seotopper](https://github.com/opencollective/seotopper) pushed_at:2019-09 star:0.0k fork:0.0k Complete SEO generator with all meta-tags including JSON-LD, build your Seo in seconds.
 - [opencollective/serverless-dotenv-plugin](https://github.com/opencollective/serverless-dotenv-plugin) pushed_at:2020-04 star:0.0k fork:0.0k Preload Environment Variables with Dotenv into Serverless
 - [opencollective/service-bus](https://github.com/opencollective/service-bus) pushed_at:2019-09 star:0.0k fork:0.0k PHP Service Bus (publish-subscribe pattern) implementation

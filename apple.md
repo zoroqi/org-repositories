@@ -45,7 +45,7 @@
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) pushed_at:2021-11 star:0.2k fork:0.0k Index database library for use with sourcekit-lsp
 - [apple/llvm-project-v5](https://github.com/apple/llvm-project-v5) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project-v5-split](https://github.com/apple/llvm-project-v5-split) pushed_at:2019-10 star:0.0k fork:0.0k 
-- [apple/swift](https://github.com/apple/swift) pushed_at:2021-11 star:57.8k fork:9.3k The Swift Programming Language
+- [apple/swift](https://github.com/apple/swift) pushed_at:2021-11 star:58.0k fork:9.3k The Swift Programming Language
 - [apple/swift-clang](https://github.com/apple/swift-clang) pushed_at:2019-11 star:0.7k fork:0.2k 
 - [apple/swift-clang-tools-extra](https://github.com/apple/swift-clang-tools-extra) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) pushed_at:2021-11 star:0.0k fork:0.0k 
@@ -56,7 +56,7 @@
 
 ## Dockerfile
 
-- [apple/swift-docker](https://github.com/apple/swift-docker) pushed_at:2021-10 star:1.2k fork:0.1k Docker Official Image packaging for Swift
+- [apple/swift-docker](https://github.com/apple/swift-docker) pushed_at:2021-11 star:1.2k fork:0.1k Docker Official Image packaging for Swift
 
 ## HTML
 
@@ -105,7 +105,7 @@
 - [apple/ccs-pyosxframeworks](https://github.com/apple/ccs-pyosxframeworks) pushed_at:2017-02 star:0.0k fork:0.0k Python Framework for macOS APIs used by CalendarServer
 - [apple/ccs-pysecuretransport](https://github.com/apple/ccs-pysecuretransport) pushed_at:2017-02 star:0.0k fork:0.0k Twisted SecureTransport library used by CalendarServer
 - [apple/ccs-twistedextensions](https://github.com/apple/ccs-twistedextensions) pushed_at:2019-05 star:0.0k fork:0.0k Extensions to Twisted used by CalendarServer
-- [apple/coremltools](https://github.com/apple/coremltools) pushed_at:2021-11 star:2.4k fork:0.4k Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
+- [apple/coremltools](https://github.com/apple/coremltools) pushed_at:2021-11 star:2.5k fork:0.4k Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [apple/learning-compressible-subspaces](https://github.com/apple/learning-compressible-subspaces) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [apple/learning-subspaces](https://github.com/apple/learning-subspaces) pushed_at:2021-03 star:0.1k fork:0.0k 
 - [apple/ml-afv](https://github.com/apple/ml-afv) pushed_at:2019-12 star:0.0k fork:0.0k 
@@ -133,7 +133,7 @@
 - [apple/ml-tree-dst](https://github.com/apple/ml-tree-dst) pushed_at:2020-10 star:0.0k fork:0.0k 
 - [apple/ml-uwac](https://github.com/apple/ml-uwac) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [apple/swift-integration-tests](https://github.com/apple/swift-integration-tests) pushed_at:2021-11 star:0.1k fork:0.1k Automated tests for validating the generated Swift snapshots behave correctly
-- [apple/swift-source-compat-suite](https://github.com/apple/swift-source-compat-suite) pushed_at:2021-11 star:0.2k fork:0.1k The infrastructure and project index comprising the Swift source compatibility suite.
+- [apple/swift-source-compat-suite](https://github.com/apple/swift-source-compat-suite) pushed_at:2021-11 star:0.3k fork:0.1k The infrastructure and project index comprising the Swift source compatibility suite.
 - [apple/vqg-multimodal-assistant](https://github.com/apple/vqg-multimodal-assistant) pushed_at:2021-04 star:0.0k fork:0.0k 
 
 ## R
@@ -187,10 +187,10 @@
 - [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2021-10 star:2.6k fork:0.2k A Logging API for Swift
 - [apple/swift-markdown](https://github.com/apple/swift-markdown) pushed_at:2021-11 star:1.5k fork:0.0k A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) pushed_at:2021-08 star:0.5k fork:0.0k A Metrics API for Swift
-- [apple/swift-nio](https://github.com/apple/swift-nio) pushed_at:2021-11 star:6.7k fork:0.5k Event-driven network application framework for high performance protocol servers & clients, non-blocking.
+- [apple/swift-nio](https://github.com/apple/swift-nio) pushed_at:2021-11 star:6.8k fork:0.5k Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 - [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) pushed_at:2021-10 star:0.2k fork:0.0k examples of how to use swift-nio
 - [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) pushed_at:2021-09 star:0.1k fork:0.1k Useful code around SwiftNIO.
-- [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) pushed_at:2021-09 star:0.4k fork:0.1k HTTP/2 support for SwiftNIO
+- [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) pushed_at:2021-11 star:0.4k fork:0.1k HTTP/2 support for SwiftNIO
 - [apple/swift-nio-nghttp2-support](https://github.com/apple/swift-nio-nghttp2-support) pushed_at:2020-12 star:0.0k fork:0.0k 
 - [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) pushed_at:2021-11 star:0.2k fork:0.0k SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
 - [apple/swift-nio-ssl-support](https://github.com/apple/swift-nio-ssl-support) pushed_at:2020-12 star:0.0k fork:0.0k 

@@ -75,7 +75,7 @@
 - [pingcap/goleveldb](https://github.com/pingcap/goleveldb) pushed_at:2019-12 star:0.0k fork:0.0k LevelDB key/value database in Go.
 - [pingcap/goyacc](https://github.com/pingcap/goyacc) pushed_at:2016-07 star:0.0k fork:0.0k Goyacc is a version of yacc generating Go parsers.
 - [pingcap/kops](https://github.com/pingcap/kops) pushed_at:2020-02 star:0.0k fork:0.0k A fork to kubernetes/kops
-- [pingcap/log](https://github.com/pingcap/log) pushed_at:2021-09 star:0.0k fork:0.0k 
+- [pingcap/log](https://github.com/pingcap/log) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [pingcap/mp](https://github.com/pingcap/mp) pushed_at:2017-11 star:0.0k fork:0.0k MySQL protocol layer
 - [pingcap/mpdriver](https://github.com/pingcap/mpdriver) pushed_at:2016-03 star:0.0k fork:0.0k MySQL Protocol Driver, used to record MySQL query commands..
 - [pingcap/mysql-tester](https://github.com/pingcap/mysql-tester) pushed_at:2021-11 star:0.0k fork:0.0k A Golang implementation of MySQL Test Framework
@@ -87,8 +87,8 @@
 - [pingcap/parser](https://github.com/pingcap/parser) pushed_at:2021-10 star:1.1k fork:0.4k A MySQL Compatible SQL Parser
 - [pingcap/sysutil](https://github.com/pingcap/sysutil) pushed_at:2021-11 star:0.0k fork:0.0k sysutil is a library which implementats the gRPC service Diagnostics and shares the diagnostics functions between TiDB and PD.
 - [pingcap/ticdc](https://github.com/pingcap/ticdc) pushed_at:2021-11 star:0.2k fork:0.1k Change data capture for TiDB
-- [pingcap/tidb](https://github.com/pingcap/tidb) pushed_at:2021-11 star:29.6k fork:4.8k TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
-- [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) pushed_at:2021-11 star:0.2k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
+- [pingcap/tidb](https://github.com/pingcap/tidb) pushed_at:2021-11 star:29.7k fork:4.8k TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
+- [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) pushed_at:2021-11 star:0.3k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
 - [pingcap/tidb-cloud-backup](https://github.com/pingcap/tidb-cloud-backup) pushed_at:2020-02 star:0.0k fork:0.0k 
 - [pingcap/tidb-ctl](https://github.com/pingcap/tidb-ctl) pushed_at:2020-12 star:0.0k fork:0.0k TiDB Controller
 - [pingcap/tidb-dashboard](https://github.com/pingcap/tidb-dashboard) pushed_at:2021-11 star:0.1k fork:0.1k A Web UI for monitoring, diagnosing and managing the TiDB cluster.
@@ -188,12 +188,12 @@
 - [pingcap/grpc-rust](https://github.com/pingcap/grpc-rust) pushed_at:2017-05 star:0.0k fork:0.0k Rust implementation of gRPC (not ready yet)
 - [pingcap/murmur3](https://github.com/pingcap/murmur3) pushed_at:2018-03 star:0.0k fork:0.0k A rust implementation of murmur3
 - [pingcap/rust-protobuf](https://github.com/pingcap/rust-protobuf) pushed_at:2021-09 star:0.0k fork:0.0k Rust implementation of Google protocol buffers
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) pushed_at:2021-11 star:6.8k fork:0.9k open source training courses about distributed database and distributed systemes
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) pushed_at:2021-11 star:6.9k fork:0.9k open source training courses about distributed database and distributed systemes
 - [pingcap/tidb-engine-ext](https://github.com/pingcap/tidb-engine-ext) pushed_at:2021-11 star:0.0k fork:0.0k A TiKV based `c dynamic library` for extending storage system in TiDB cluster
 
 ## Shell
 
-- [pingcap/blog-cn](https://github.com/pingcap/blog-cn) pushed_at:2021-09 star:0.1k fork:0.1k 
+- [pingcap/blog-cn](https://github.com/pingcap/blog-cn) pushed_at:2021-11 star:0.1k fork:0.1k 
 - [pingcap/discourse_docker](https://github.com/pingcap/discourse_docker) pushed_at:2021-08 star:0.0k fork:0.0k A Docker image for Discourse
 - [pingcap/docs-cn](https://github.com/pingcap/docs-cn) pushed_at:2021-11 star:1.6k fork:1.0k TiDB/TiKV/PD documentation in Chinese.
 - [pingcap/k8s-fluent-bit-stackdriver](https://github.com/pingcap/k8s-fluent-bit-stackdriver) pushed_at:2019-08 star:0.0k fork:0.0k 
