@@ -27,14 +27,14 @@
 
 ## C
 
-- [riscv/configuration-structure](https://github.com/riscv/configuration-structure) pushed_at:2021-11 star:0.0k fork:0.0k RISC-V Configuration Structure
+- [riscv/configuration-structure](https://github.com/riscv/configuration-structure) pushed_at:2021-12 star:0.0k fork:0.0k RISC-V Configuration Structure
 - [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2021-11 star:0.2k fork:0.0k RISC-V cryptography extensions standardisation work.
-- [riscv/riscv-openocd](https://github.com/riscv/riscv-openocd) pushed_at:2021-11 star:0.2k fork:0.2k Fork of OpenOCD that has RISC-V support
+- [riscv/riscv-openocd](https://github.com/riscv/riscv-openocd) pushed_at:2021-12 star:0.2k fork:0.2k Fork of OpenOCD that has RISC-V support
 - [riscv/riscv-test-env](https://github.com/riscv/riscv-test-env) pushed_at:2021-09 star:0.0k fork:0.1k 
 
 ## Coq
 
-- [riscv/sail-riscv](https://github.com/riscv/sail-riscv) pushed_at:2021-11 star:0.2k fork:0.0k Sail RISC-V model
+- [riscv/sail-riscv](https://github.com/riscv/sail-riscv) pushed_at:2021-11 star:0.2k fork:0.1k Sail RISC-V model
 
 ## HTML
 
@@ -51,13 +51,13 @@
 ## Others
 
 - [riscv/genz-on-riscv](https://github.com/riscv/genz-on-riscv) pushed_at:2019-04 star:0.0k fork:0.0k 
-- [riscv/riscv-aia](https://github.com/riscv/riscv-aia) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [riscv/riscv-aia](https://github.com/riscv/riscv-aia) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [riscv/riscv-alt-fp](https://github.com/riscv/riscv-alt-fp) pushed_at:2021-11 star:0.0k fork:0.0k RISC-V Alternate FP Format
 - [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) pushed_at:2021-07 star:0.0k fork:0.0k Working Draft of the RISC-V J Extension Specification
 - [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) pushed_at:2021-11 star:0.0k fork:0.0k RISC-V Packed SIMD Extension
 - [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) pushed_at:2021-11 star:0.0k fork:0.0k PLIC Specification
-- [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) pushed_at:2021-10 star:0.0k fork:0.0k RISC-V Architecture Profiles
+- [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) pushed_at:2021-12 star:0.0k fork:0.0k RISC-V Architecture Profiles
 - [riscv/riscv-smbios](https://github.com/riscv/riscv-smbios) pushed_at:2021-09 star:0.0k fork:0.0k RISC-V SMBIOS Type 44 Spec
 - [riscv/riscv-zfinx](https://github.com/riscv/riscv-zfinx) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [riscv/virtual-memory](https://github.com/riscv/virtual-memory) pushed_at:2021-09 star:0.0k fork:0.0k 
@@ -65,14 +65,14 @@
 ## Python
 
 - [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) pushed_at:2021-11 star:0.1k fork:0.0k 
-- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) pushed_at:2021-11 star:0.3k fork:0.2k RISC-V Opcodes
+- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) pushed_at:2021-11 star:0.3k fork:0.1k RISC-V Opcodes
 
 ## TeX
 
-- [riscv/docs-templates](https://github.com/riscv/docs-templates) pushed_at:2021-11 star:0.0k fork:0.0k Documentation templates and build tools
+- [riscv/docs-templates](https://github.com/riscv/docs-templates) pushed_at:2021-12 star:0.0k fork:0.0k Documentation templates and build tools
 - [riscv/riscv-count-overflow](https://github.com/riscv/riscv-count-overflow) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) pushed_at:2021-11 star:0.2k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
-- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2021-11 star:1.7k fork:0.3k RISC-V Instruction Set Manual
+- [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) pushed_at:2021-11 star:0.3k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
+- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2021-12 star:1.7k fork:0.3k RISC-V Instruction Set Manual
 - [riscv/riscv-state-enable](https://github.com/riscv/riscv-state-enable) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [riscv/riscv-time-compare](https://github.com/riscv/riscv-time-compare) pushed_at:2021-10 star:0.0k fork:0.0k 
 

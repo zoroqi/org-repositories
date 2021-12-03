@@ -73,7 +73,7 @@
 - [OpenGenus/rikimaru](https://github.com/OpenGenus/rikimaru) pushed_at:2017-11 star:0.0k fork:0.0k A VS-Code extension to bring implementation of any algorithm and data-structure in your favorite language
 - [OpenGenus/third-party-cookies](https://github.com/OpenGenus/third-party-cookies) pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/typing-speed-js](https://github.com/OpenGenus/typing-speed-js) pushed_at:2020-06 star:0.0k fork:0.0k 
-- [OpenGenus/visual](https://github.com/OpenGenus/visual) pushed_at:2021-11 star:0.0k fork:0.0k 
+- [OpenGenus/visual](https://github.com/OpenGenus/visual) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [OpenGenus/web_api_nodejs](https://github.com/OpenGenus/web_api_nodejs) pushed_at:2019-08 star:0.0k fork:0.0k A basic guide on building a Web API in NodeJS
 - [OpenGenus/word-to-pdf](https://github.com/OpenGenus/word-to-pdf) pushed_at:2020-08 star:0.0k fork:0.0k Node.JS web application to convert an uploaded Word document to a PDF file (available as download for the user) (developed by OpenGenus Intern, Prateek Sharma)
 
@@ -132,7 +132,7 @@
 - [OpenGenus/audio_feature](https://github.com/OpenGenus/audio_feature) pushed_at:2019-09 star:0.0k fork:0.0k extracting feature from audio
 - [OpenGenus/code-submission](https://github.com/OpenGenus/code-submission) pushed_at:2020-11 star:0.0k fork:0.0k 
 - [OpenGenus/course](https://github.com/OpenGenus/course) pushed_at:2018-08 star:0.0k fork:0.0k 
-- [OpenGenus/face](https://github.com/OpenGenus/face) pushed_at:2021-09 star:0.0k fork:0.0k 
+- [OpenGenus/face](https://github.com/OpenGenus/face) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [OpenGenus/face_aging](https://github.com/OpenGenus/face_aging) pushed_at:2019-08 star:0.0k fork:0.0k 
 - [OpenGenus/face_print](https://github.com/OpenGenus/face_print) pushed_at:2018-08 star:0.0k fork:0.0k 
 - [OpenGenus/flask_demo](https://github.com/OpenGenus/flask_demo) pushed_at:2019-07 star:0.0k fork:0.0k Flask demos

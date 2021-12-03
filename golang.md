@@ -17,19 +17,19 @@
 
 - [golang/appengine](https://github.com/golang/appengine) pushed_at:2021-11 star:0.6k fork:0.2k Go App Engine packages
 - [golang/arch](https://github.com/golang/arch) pushed_at:2021-09 star:0.1k fork:0.0k [mirror] architecture code
-- [golang/benchmarks](https://github.com/golang/benchmarks) pushed_at:2021-11 star:0.1k fork:0.0k Benchmarks for the perf dashboard
-- [golang/build](https://github.com/golang/build) pushed_at:2021-11 star:0.5k fork:0.1k [mirror] Go's continuous build and release infrastructure (no stability promises)
-- [golang/crypto](https://github.com/golang/crypto) pushed_at:2021-11 star:2.3k fork:1.3k [mirror] Go supplementary cryptography libraries
+- [golang/benchmarks](https://github.com/golang/benchmarks) pushed_at:2021-12 star:0.1k fork:0.0k Benchmarks for the perf dashboard
+- [golang/build](https://github.com/golang/build) pushed_at:2021-12 star:0.5k fork:0.1k [mirror] Go's continuous build and release infrastructure (no stability promises)
+- [golang/crypto](https://github.com/golang/crypto) pushed_at:2021-12 star:2.3k fork:1.3k [mirror] Go supplementary cryptography libraries
 - [golang/debug](https://github.com/golang/debug) pushed_at:2021-11 star:0.2k fork:0.0k [mirror] debugging tools
 - [golang/dep](https://github.com/golang/dep) pushed_at:2020-09 star:13.1k fork:1.1k Go dependency management tool experiment (deprecated)
-- [golang/dl](https://github.com/golang/dl) pushed_at:2021-11 star:0.1k fork:0.0k [mirror] go install golang.org/dl/go1.N@latest
+- [golang/dl](https://github.com/golang/dl) pushed_at:2021-12 star:0.1k fork:0.0k [mirror] go install golang.org/dl/go1.N@latest
 - [golang/example](https://github.com/golang/example) pushed_at:2021-08 star:2.1k fork:0.7k Go example projects
 - [golang/exp](https://github.com/golang/exp) pushed_at:2021-11 star:0.6k fork:0.1k [mirror] Experimental and deprecated packages
-- [golang/freetype](https://github.com/golang/freetype) pushed_at:2021-11 star:0.6k fork:0.1k The Freetype font rasterizer in the Go programming language.
+- [golang/freetype](https://github.com/golang/freetype) pushed_at:2021-11 star:0.6k fork:0.2k The Freetype font rasterizer in the Go programming language.
 - [golang/gddo](https://github.com/golang/gddo) pushed_at:2021-01 star:1.1k fork:0.3k Go Doc Dot Org
 - [golang/geo](https://github.com/golang/geo) pushed_at:2021-11 star:1.3k fork:0.1k S2 geometry library in Go
-- [golang/glog](https://github.com/golang/glog) pushed_at:2021-08 star:3.0k fork:0.8k Leveled execution logs for Go
-- [golang/go](https://github.com/golang/go) pushed_at:2021-11 star:92.6k fork:13.7k The Go programming language
+- [golang/glog](https://github.com/golang/glog) pushed_at:2021-08 star:3.1k fork:0.8k Leveled execution logs for Go
+- [golang/go](https://github.com/golang/go) pushed_at:2021-12 star:92.8k fork:13.8k The Go programming language
 - [golang/go-get-issue-15410](https://github.com/golang/go-get-issue-15410) pushed_at:2020-08 star:0.0k fork:0.0k go-get-issue-15410
 - [golang/gofrontend](https://github.com/golang/gofrontend) pushed_at:2021-11 star:0.6k fork:0.1k Go compiler frontend (gccgo)
 - [golang/groupcache](https://github.com/golang/groupcache) pushed_at:2021-05 star:10.9k fork:1.2k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
@@ -37,13 +37,13 @@
 - [golang/leveldb](https://github.com/golang/leveldb) pushed_at:2017-01 star:1.0k fork:0.1k The LevelDB key-value database in the Go programming language.
 - [golang/lint](https://github.com/golang/lint) pushed_at:2021-05 star:3.9k fork:0.5k [mirror] This is a linter for Go source code. (deprecated)
 - [golang/mobile](https://github.com/golang/mobile) pushed_at:2021-11 star:4.8k fork:0.6k [mirror] Go on Mobile
-- [golang/mock](https://github.com/golang/mock) pushed_at:2021-11 star:6.4k fork:0.5k GoMock is a mocking framework for the Go programming language.
+- [golang/mock](https://github.com/golang/mock) pushed_at:2021-12 star:6.5k fork:0.5k GoMock is a mocking framework for the Go programming language.
 - [golang/mod](https://github.com/golang/mod) pushed_at:2021-11 star:0.1k fork:0.0k [mirror] Go module mechanics libraries
-- [golang/net](https://github.com/golang/net) pushed_at:2021-11 star:2.5k fork:1.0k [mirror] Go supplementary network libraries
+- [golang/net](https://github.com/golang/net) pushed_at:2021-12 star:2.5k fork:1.0k [mirror] Go supplementary network libraries
 - [golang/oauth2](https://github.com/golang/oauth2) pushed_at:2021-11 star:3.9k fork:0.8k Go OAuth2
 - [golang/perf](https://github.com/golang/perf) pushed_at:2021-10 star:0.3k fork:0.0k [mirror] Performance measurement, storage, and analysis.
-- [golang/pkgsite](https://github.com/golang/pkgsite) pushed_at:2021-11 star:0.8k fork:0.1k [mirror] Home of the pkg.go.dev website
-- [golang/playground](https://github.com/golang/playground) pushed_at:2021-11 star:0.6k fork:0.2k [mirror] The Go Playground
+- [golang/pkgsite](https://github.com/golang/pkgsite) pushed_at:2021-12 star:0.8k fork:0.1k [mirror] Home of the pkg.go.dev website
+- [golang/playground](https://github.com/golang/playground) pushed_at:2021-12 star:0.6k fork:0.2k [mirror] The Go Playground
 - [golang/proposal](https://github.com/golang/proposal) pushed_at:2021-11 star:2.7k fork:0.4k Go Project Design Documents
 - [golang/protobuf](https://github.com/golang/protobuf) pushed_at:2021-09 star:8.1k fork:1.5k Go support for Google's protocol buffers
 - [golang/review](https://github.com/golang/review) pushed_at:2021-09 star:0.1k fork:0.0k [mirror] Tool for working with Gerrit code reviews
@@ -53,18 +53,18 @@
 - [golang/sys](https://github.com/golang/sys) pushed_at:2021-11 star:0.9k fork:0.5k [mirror] Go packages for low-level interaction with the operating system
 - [golang/talks](https://github.com/golang/talks) pushed_at:2021-02 star:0.7k fork:0.1k Go talks
 - [golang/term](https://github.com/golang/term) pushed_at:2021-10 star:0.2k fork:0.0k Go terminal and console support
-- [golang/text](https://github.com/golang/text) pushed_at:2021-11 star:0.6k fork:0.3k [mirror] Go text processing support
+- [golang/text](https://github.com/golang/text) pushed_at:2021-12 star:0.6k fork:0.3k [mirror] Go text processing support
 - [golang/time](https://github.com/golang/time) pushed_at:2021-11 star:0.3k fork:0.1k [mirror] Go supplementary time packages
-- [golang/tools](https://github.com/golang/tools) pushed_at:2021-11 star:5.7k fork:1.9k [mirror] Go Tools
+- [golang/tools](https://github.com/golang/tools) pushed_at:2021-12 star:5.7k fork:1.9k [mirror] Go Tools
 - [golang/tour](https://github.com/golang/tour) pushed_at:2021-06 star:1.4k fork:0.5k [mirror] A Tour of Go
 - [golang/vgo](https://github.com/golang/vgo) pushed_at:2019-08 star:1.5k fork:0.1k [mirror] Versioned Go Prototype
-- [golang/vuln](https://github.com/golang/vuln) pushed_at:2021-11 star:0.0k fork:0.0k [mirror] the database client and tools for the Go vulnerability database
+- [golang/vuln](https://github.com/golang/vuln) pushed_at:2021-12 star:0.0k fork:0.0k [mirror] the database client and tools for the Go vulnerability database
 - [golang/winstrap](https://github.com/golang/winstrap) pushed_at:2017-11 star:0.0k fork:0.0k Bootstrapping tools for windows builders
 - [golang/xerrors](https://github.com/golang/xerrors) pushed_at:2021-07 star:0.2k fork:0.0k 
 
 ## HTML
 
-- [golang/website](https://github.com/golang/website) pushed_at:2021-11 star:0.2k fork:0.2k Home of the golang.org and go.dev websites
+- [golang/website](https://github.com/golang/website) pushed_at:2021-12 star:0.2k fork:0.2k Home of the golang.org and go.dev websites
 
 ## Others
 
@@ -82,7 +82,7 @@
 
 ## TypeScript
 
-- [golang/vscode-go](https://github.com/golang/vscode-go) pushed_at:2021-11 star:2.2k fork:0.4k Go extension for VS Code
+- [golang/vscode-go](https://github.com/golang/vscode-go) pushed_at:2021-12 star:2.2k fork:0.4k Go extension for VS Code
 
 
 ## License

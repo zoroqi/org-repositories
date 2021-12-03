@@ -27,7 +27,7 @@
 
 ## Assembly
 
-- [bytedance/sonic](https://github.com/bytedance/sonic) pushed_at:2021-11 star:1.4k fork:0.0k A blazingly fast JSON serializing & deserializing library
+- [bytedance/sonic](https://github.com/bytedance/sonic) pushed_at:2021-12 star:1.7k fork:0.1k A blazingly fast JSON serializing & deserializing library
 
 ## C
 
@@ -59,12 +59,12 @@
 - [bytedance/pyskynet](https://github.com/bytedance/pyskynet) pushed_at:2021-11 star:0.0k fork:0.0k PySkynet is a library for using skynet in python.
 - [bytedance/tensorflow](https://github.com/bytedance/tensorflow) pushed_at:2021-02 star:0.0k fork:0.0k An Open Source Machine Learning Framework for Everyone
 - [bytedance/terark-zip](https://github.com/bytedance/terark-zip) pushed_at:2021-10 star:0.0k fork:0.0k A data structure and algorithm library built for TerarkDB
-- [bytedance/terarkdb](https://github.com/bytedance/terarkdb) pushed_at:2021-11 star:1.5k fork:0.1k A RocksDB compatible KV storage engine with better performance
+- [bytedance/terarkdb](https://github.com/bytedance/terarkdb) pushed_at:2021-12 star:1.5k fork:0.1k A RocksDB compatible KV storage engine with better performance
 - [bytedance/xoa_set_ip_option](https://github.com/bytedance/xoa_set_ip_option) pushed_at:2021-09 star:0.0k fork:0.0k 
 
 ## Cuda
 
-- [bytedance/lightseq](https://github.com/bytedance/lightseq) pushed_at:2021-11 star:1.8k fork:0.2k LightSeq: A High Performance Library for Sequence Processing and Generation
+- [bytedance/lightseq](https://github.com/bytedance/lightseq) pushed_at:2021-12 star:1.8k fork:0.2k LightSeq: A High Performance Library for Sequence Processing and Generation
 
 ## Dart
 
@@ -74,13 +74,13 @@
 - [bytedance/pull_to_refresh](https://github.com/bytedance/pull_to_refresh) pushed_at:2020-05 star:0.1k fork:0.0k Flutter pull_to_refresh widget
 - [bytedance/rangers_applog_flutter_plugin](https://github.com/bytedance/rangers_applog_flutter_plugin) pushed_at:2021-10 star:0.0k fork:0.0k flutter plugin for RangersAppLog.
 - [bytedance/RealRichText](https://github.com/bytedance/RealRichText) pushed_at:2019-07 star:0.6k fork:0.1k  A Tricky Solution for Implementing Inline-Image-In-Text Feature in Flutter.
-- [bytedance/unpub](https://github.com/bytedance/unpub) pushed_at:2021-11 star:0.2k fork:0.1k Self-hosted private Dart Pub server for Enterprise
+- [bytedance/unpub](https://github.com/bytedance/unpub) pushed_at:2021-12 star:0.2k fork:0.1k Self-hosted private Dart Pub server for Enterprise
 
 ## Go
 
 - [bytedance/bosun](https://github.com/bytedance/bosun) pushed_at:2015-08 star:0.0k fork:0.0k Time Series Alerting Framework
 - [bytedance/dbatman](https://github.com/bytedance/dbatman) pushed_at:2017-02 star:0.1k fork:0.0k 
-- [bytedance/Elkeid](https://github.com/bytedance/Elkeid) pushed_at:2021-11 star:0.9k fork:0.2k Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture.
+- [bytedance/Elkeid](https://github.com/bytedance/Elkeid) pushed_at:2021-12 star:0.9k fork:0.2k Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture.
 - [bytedance/go-querystring-parser](https://github.com/bytedance/go-querystring-parser) pushed_at:2020-10 star:0.0k fork:0.0k A golang querystring parser
 - [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) pushed_at:2021-10 star:1.0k fork:0.1k An interesting go struct tag expression syntax for field validation, etc.
 - [bytedance/godlp](https://github.com/bytedance/godlp) pushed_at:2021-11 star:0.0k fork:0.0k sensitive information protection toolkit
@@ -109,7 +109,7 @@
 - [bytedance/okhttp](https://github.com/bytedance/okhttp) pushed_at:2016-11 star:0.0k fork:0.0k An HTTP+HTTP/2 client for Android and Java applications.
 - [bytedance/pangle-sdk-demo](https://github.com/bytedance/pangle-sdk-demo) pushed_at:2020-07 star:0.0k fork:0.0k pangle-sdk-demo and doc 
 - [bytedance/scene](https://github.com/bytedance/scene) pushed_at:2021-10 star:1.8k fork:0.2k Android Single Activity Applications framework without Fragment.
-- [bytedance/tiktok-business-android-sdk](https://github.com/bytedance/tiktok-business-android-sdk) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [bytedance/tiktok-business-android-sdk](https://github.com/bytedance/tiktok-business-android-sdk) pushed_at:2021-12 star:0.0k fork:0.0k 
 
 ## JavaScript
 
@@ -162,7 +162,7 @@
 - [bytedance/byteps](https://github.com/bytedance/byteps) pushed_at:2021-10 star:3.0k fork:0.4k A high performance and generic framework for distributed DNN training
 - [bytedance/estimator](https://github.com/bytedance/estimator) pushed_at:2019-07 star:0.0k fork:0.0k TensorFlow Estimator
 - [bytedance/fairseq](https://github.com/bytedance/fairseq) pushed_at:2019-06 star:0.0k fork:0.0k Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
-- [bytedance/fedlearner](https://github.com/bytedance/fedlearner) pushed_at:2021-11 star:0.7k fork:0.1k A multi-party collaborative machine learning framework
+- [bytedance/fedlearner](https://github.com/bytedance/fedlearner) pushed_at:2021-12 star:0.7k fork:0.1k A multi-party collaborative machine learning framework
 - [bytedance/GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) pushed_at:2021-11 star:1.0k fork:0.1k 
 - [bytedance/mega-ai](https://github.com/bytedance/mega-ai) pushed_at:2021-03 star:0.0k fork:0.0k Encapsulate tensorflow and other deep frameworks, support feature evaluation and model evaluation methods
 - [bytedance/mega-spark](https://github.com/bytedance/mega-spark) pushed_at:2020-09 star:0.0k fork:0.0k Spark is encapsulated as a mega interface to call pandas methods
@@ -182,7 +182,7 @@
 ## Rust
 
 - [bytedance/flexi_logger](https://github.com/bytedance/flexi_logger) pushed_at:2020-12 star:0.0k fork:0.0k A flexible logger for rust programs that can write to stderr or to log files
-- [bytedance/keyhouse](https://github.com/bytedance/keyhouse) pushed_at:2021-11 star:0.0k fork:0.0k Keyhouse is a skeleton of general-purpose Key Management System written in Rust.
+- [bytedance/keyhouse](https://github.com/bytedance/keyhouse) pushed_at:2021-12 star:0.0k fork:0.0k Keyhouse is a skeleton of general-purpose Key Management System written in Rust.
 - [bytedance/spire-workload-rs](https://github.com/bytedance/spire-workload-rs) pushed_at:2021-11 star:0.0k fork:0.0k APIs to help Rust programs use Spire workload API
 
 ## Swift
@@ -198,13 +198,13 @@
 - [bytedance/flow-builder](https://github.com/bytedance/flow-builder) pushed_at:2021-11 star:0.1k fork:0.0k A highly customizable streaming flow builder.
 - [bytedance/graphyne](https://github.com/bytedance/graphyne) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [bytedance/guide](https://github.com/bytedance/guide) pushed_at:2021-08 star:0.5k fork:0.0k A new feature guide component by react 🧭
-- [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-11 star:4.8k fork:0.3k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+- [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-11 star:4.9k fork:0.3k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) pushed_at:2021-10 star:0.4k fork:0.0k Write components in any way, use them everywhere.😘
 - [bytedance/magic-portal](https://github.com/bytedance/magic-portal) pushed_at:2021-07 star:0.1k fork:0.0k ⚡ A blazing fast micro-component and micro-frontend solution uses web-components under the hood.
-- [bytedance/mona](https://github.com/bytedance/mona) pushed_at:2021-11 star:0.0k fork:0.0k mona is for developing merchant's app and plugin
+- [bytedance/mona](https://github.com/bytedance/mona) pushed_at:2021-12 star:0.0k fork:0.0k mona is for developing merchant's app and plugin
 - [bytedance/mona-templates](https://github.com/bytedance/mona-templates) pushed_at:2021-11 star:0.0k fork:0.0k template's repo for mona-cli-init
 - [bytedance/react-model](https://github.com/bytedance/react-model) pushed_at:2021-03 star:0.2k fork:0.0k The next generation state management library for React
-- [bytedance/syllepsis](https://github.com/bytedance/syllepsis) pushed_at:2021-11 star:0.1k fork:0.0k Syllepsis is an out-of-the-box rich text editor.
+- [bytedance/syllepsis](https://github.com/bytedance/syllepsis) pushed_at:2021-12 star:0.1k fork:0.0k Syllepsis is an out-of-the-box rich text editor.
 - [bytedance/TiktokBusinessPlugin](https://github.com/bytedance/TiktokBusinessPlugin) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [bytedance/vis-tree](https://github.com/bytedance/vis-tree) pushed_at:2021-05 star:0.0k fork:0.0k Visualization of tree data
 

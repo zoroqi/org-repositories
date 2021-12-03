@@ -46,8 +46,8 @@
 - [baidu/galaxy](https://github.com/baidu/galaxy) pushed_at:2017-08 star:0.3k fork:0.1k Galaxy is a cluster management system.
 - [baidu/ICE-BA](https://github.com/baidu/ICE-BA) pushed_at:2018-09 star:0.6k fork:0.2k 
 - [baidu/ins](https://github.com/baidu/ins) pushed_at:2020-10 star:0.2k fork:0.1k iNexus, coordinate large scale services
-- [baidu/lac](https://github.com/baidu/lac) pushed_at:2021-05 star:2.7k fork:0.5k 百度NLP：分词，词性标注，命名实体识别，词重要性
-- [baidu/openrasp](https://github.com/baidu/openrasp) pushed_at:2021-11 star:2.0k fork:0.5k 🔥Open source RASP solution
+- [baidu/lac](https://github.com/baidu/lac) pushed_at:2021-05 star:2.8k fork:0.5k 百度NLP：分词，词性标注，命名实体识别，词重要性
+- [baidu/openrasp](https://github.com/baidu/openrasp) pushed_at:2021-12 star:2.0k fork:0.5k 🔥Open source RASP solution
 - [baidu/shuttle](https://github.com/baidu/shuttle) pushed_at:2018-07 star:0.1k fork:0.0k A fast computing framework based on Galaxy
 - [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) pushed_at:2018-09 star:2.0k fork:0.7k A light-weight RPC implement of google protobuf RPC framework.
 - [baidu/tera](https://github.com/baidu/tera) pushed_at:2019-01 star:1.8k fork:0.4k An Internet-Scale Database.
@@ -132,7 +132,7 @@
 - [baidu/ARK](https://github.com/baidu/ARK) pushed_at:2021-05 star:0.1k fork:0.0k Development framework of intelligent operation
 - [baidu/broc](https://github.com/baidu/broc) pushed_at:2017-12 star:0.1k fork:0.1k 
 - [baidu/CUP](https://github.com/baidu/CUP) pushed_at:2021-08 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
-- [baidu/DDParser](https://github.com/baidu/DDParser) pushed_at:2021-10 star:0.7k fork:0.1k 百度开源的依存句法分析系统
+- [baidu/DDParser](https://github.com/baidu/DDParser) pushed_at:2021-11 star:0.7k fork:0.1k 百度开源的依存句法分析系统
 - [baidu/Dialogue](https://github.com/baidu/Dialogue) pushed_at:2020-01 star:0.4k fork:0.1k 
 - [baidu/duedge-cli](https://github.com/baidu/duedge-cli) pushed_at:2020-03 star:0.0k fork:0.0k DuEdge Command Line
 - [baidu/DuReader](https://github.com/baidu/DuReader) pushed_at:2021-10 star:0.9k fork:0.3k Baseline Systems of DuReader Dataset
@@ -149,7 +149,7 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-11 star:8.6k fork:1.2k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-12 star:8.7k fork:1.2k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) pushed_at:2021-09 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) pushed_at:2021-11 star:0.0k fork:0.0k San SSR framework and utils
 
