@@ -8,9 +8,9 @@
 
 - [C++](#c++) (2)
 - [CSS](#css) (4)
-- [HTML](#html) (17)
+- [HTML](#html) (18)
 - [Java](#java) (5)
-- [JavaScript](#javascript) (15)
+- [JavaScript](#javascript) (14)
 - [Jupyter Notebook](#jupyter-notebook) (3)
 - [OpenEdge ABL](#openedge-abl) (1)
 - [Others](#others) (33)
@@ -49,6 +49,7 @@
 - [OpenGenus/radio-air](https://github.com/OpenGenus/radio-air) pushed_at:2018-12 star:0.0k fork:0.0k 
 - [OpenGenus/session_storage](https://github.com/OpenGenus/session_storage) pushed_at:2019-08 star:0.0k fork:0.0k 
 - [OpenGenus/tool](https://github.com/OpenGenus/tool) pushed_at:2021-09 star:0.0k fork:0.0k 
+- [OpenGenus/visual](https://github.com/OpenGenus/visual) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [OpenGenus/web](https://github.com/OpenGenus/web) pushed_at:2018-07 star:0.0k fork:0.0k 
 
 ## Java
@@ -73,7 +74,6 @@
 - [OpenGenus/rikimaru](https://github.com/OpenGenus/rikimaru) pushed_at:2017-11 star:0.0k fork:0.0k A VS-Code extension to bring implementation of any algorithm and data-structure in your favorite language
 - [OpenGenus/third-party-cookies](https://github.com/OpenGenus/third-party-cookies) pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/typing-speed-js](https://github.com/OpenGenus/typing-speed-js) pushed_at:2020-06 star:0.0k fork:0.0k 
-- [OpenGenus/visual](https://github.com/OpenGenus/visual) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [OpenGenus/web_api_nodejs](https://github.com/OpenGenus/web_api_nodejs) pushed_at:2019-08 star:0.0k fork:0.0k A basic guide on building a Web API in NodeJS
 - [OpenGenus/word-to-pdf](https://github.com/OpenGenus/word-to-pdf) pushed_at:2020-08 star:0.0k fork:0.0k Node.JS web application to convert an uploaded Word document to a PDF file (available as download for the user) (developed by OpenGenus Intern, Prateek Sharma)
 

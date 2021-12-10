@@ -30,12 +30,12 @@
 
 ## C
 
-- [uber/h3](https://github.com/uber/h3) pushed_at:2021-12 star:3.1k fork:0.3k Hexagonal hierarchical geospatial indexing system
+- [uber/h3](https://github.com/uber/h3) pushed_at:2021-12 star:3.2k fork:0.3k Hexagonal hierarchical geospatial indexing system
 - [uber/h3-go](https://github.com/uber/h3-go) pushed_at:2021-12 star:0.1k fork:0.0k Go bindings for H3, a hierarchical hexagonal geospatial indexing system
 
 ## C++
 
-- [uber/libphutil](https://github.com/uber/libphutil) pushed_at:2021-01 star:0.0k fork:0.0k A collection of PHP utility classes
+- [uber/libphutil](https://github.com/uber/libphutil) pushed_at:2021-12 star:0.0k fork:0.0k A collection of PHP utility classes
 - [uber/nanoscope-art](https://github.com/uber/nanoscope-art) pushed_at:2019-09 star:0.0k fork:0.0k 
 - [uber/neuropod](https://github.com/uber/neuropod) pushed_at:2021-11 star:0.9k fork:0.1k A uniform interface to run deep learning models from multiple frameworks
 - [uber/percona-server](https://github.com/uber/percona-server) pushed_at:2017-06 star:0.0k fork:0.0k Percona Server
@@ -58,7 +58,7 @@
 - [uber/storagetapper](https://github.com/uber/storagetapper) pushed_at:2021-11 star:0.3k fork:0.1k StorageTapper is a scalable realtime MySQL change data streaming, logical backup and logical replication service
 - [uber/tchannel-go](https://github.com/uber/tchannel-go) pushed_at:2021-11 star:0.4k fork:0.1k Go implementation of a multiplexing and framing protocol for RPC calls
 - [uber/uberalls](https://github.com/uber/uberalls) pushed_at:2020-03 star:0.2k fork:0.0k Track code coverage metrics with Jenkins and Phabricator
-- [uber/zanzibar](https://github.com/uber/zanzibar) pushed_at:2021-12 star:0.3k fork:0.0k A build system & configuration system to generate versioned API gateways.
+- [uber/zanzibar](https://github.com/uber/zanzibar) pushed_at:2021-12 star:0.3k fork:0.1k A build system & configuration system to generate versioned API gateways.
 
 ## HTML
 
@@ -66,7 +66,7 @@
 
 ## Haskell
 
-- [uber/queryparser](https://github.com/uber/queryparser) pushed_at:2021-11 star:1.0k fork:0.1k Parsing and analysis of Vertica, Hive, and Presto SQL.
+- [uber/queryparser](https://github.com/uber/queryparser) pushed_at:2021-12 star:1.0k fork:0.1k Parsing and analysis of Vertica, Hive, and Presto SQL.
 
 ## Java
 
@@ -97,7 +97,7 @@
 ## JavaScript
 
 - [uber/airlock](https://github.com/uber/airlock) pushed_at:2020-05 star:0.0k fork:0.0k A prober to probe HTTP based backends for health
-- [uber/baseweb](https://github.com/uber/baseweb) pushed_at:2021-12 star:7.1k fork:0.7k A React Component library implementing the Base design language
+- [uber/baseweb](https://github.com/uber/baseweb) pushed_at:2021-12 star:7.2k fork:0.7k A React Component library implementing the Base design language
 - [uber/bufrw](https://github.com/uber/bufrw) pushed_at:2020-11 star:0.0k fork:0.0k Buffer Reading and Writing
 - [uber/build-changelog](https://github.com/uber/build-changelog) pushed_at:2014-11 star:0.0k fork:0.0k A CLI to auto-generate a deploy ready changelog
 - [uber/cache-dir](https://github.com/uber/cache-dir) pushed_at:2014-03 star:0.0k fork:0.0k An ES6 map-like cache with file-based backing
@@ -147,7 +147,7 @@
 
 ## Objective-C
 
-- [uber/ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) pushed_at:2021-11 star:1.5k fork:0.2k Snapshot view unit tests for iOS
+- [uber/ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) pushed_at:2021-12 star:1.5k fork:0.2k Snapshot view unit tests for iOS
 - [uber/signals-ios](https://github.com/uber/signals-ios) pushed_at:2019-01 star:0.5k fork:0.1k Typeful eventing
 - [uber/startup-reason-reporter](https://github.com/uber/startup-reason-reporter) pushed_at:2018-07 star:0.1k fork:0.0k Reports the reason why an iOS App started.
 - [uber/UberSignature](https://github.com/uber/UberSignature) pushed_at:2020-09 star:1.2k fork:0.2k Provides an iOS view controller allowing a user to draw their signature with their finger in a realistic style.
@@ -159,7 +159,7 @@
 
 ## PHP
 
-- [uber/arcanist](https://github.com/uber/arcanist) pushed_at:2021-11 star:0.0k fork:0.0k Command line interface for Phabricator
+- [uber/arcanist](https://github.com/uber/arcanist) pushed_at:2021-12 star:0.0k fork:0.0k Command line interface for Phabricator
 
 ## Python
 
@@ -170,7 +170,7 @@
 - [uber/clay](https://github.com/uber/clay) pushed_at:2019-06 star:0.4k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [uber/doubles](https://github.com/uber/doubles) pushed_at:2018-10 star:0.2k fork:0.0k Test doubles for Python.
 - [uber/fiber](https://github.com/uber/fiber) pushed_at:2021-06 star:0.9k fork:0.1k Distributed Computing for AI Made Simple
-- [uber/h3-py](https://github.com/uber/h3-py) pushed_at:2021-11 star:0.4k fork:0.1k Python bindings for H3, a hierarchical hexagonal geospatial indexing system
+- [uber/h3-py](https://github.com/uber/h3-py) pushed_at:2021-11 star:0.5k fork:0.1k Python bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/hypothesis-gufunc](https://github.com/uber/hypothesis-gufunc) pushed_at:2021-03 star:0.0k fork:0.0k Extension to hypothesis for testing numpy general universal functions
 - [uber/multidimensional_urlencode](https://github.com/uber/multidimensional_urlencode) pushed_at:2019-07 star:0.1k fork:0.0k Python library to urlencode a multidimensional dict
 - [uber/mutornadomon](https://github.com/uber/mutornadomon) pushed_at:2019-10 star:0.0k fork:0.0k Easy-to-install monitor endpoint for Tornado applications
@@ -202,7 +202,7 @@
 ## Swift
 
 - [uber/cyborg](https://github.com/uber/cyborg) pushed_at:2020-09 star:0.3k fork:0.0k Display Android Vectordrawables on iOS.
-- [uber/mockolo](https://github.com/uber/mockolo) pushed_at:2021-11 star:0.5k fork:0.0k Efficient Mock Generator for Swift
+- [uber/mockolo](https://github.com/uber/mockolo) pushed_at:2021-12 star:0.5k fork:0.0k Efficient Mock Generator for Swift
 - [uber/needle](https://github.com/uber/needle) pushed_at:2021-11 star:1.1k fork:0.1k Compile-time safe Swift dependency injection framework
 - [uber/rides-ios-sdk](https://github.com/uber/rides-ios-sdk) pushed_at:2019-11 star:0.3k fork:0.1k Uber Rides iOS SDK (beta)
 - [uber/RxCBCentral](https://github.com/uber/RxCBCentral) pushed_at:2021-09 star:0.0k fork:0.0k  A reactive, interface-driven central role Bluetooth LE library for iOS
@@ -220,8 +220,8 @@
 
 ## TypeScript
 
-- [uber/base-design-docs](https://github.com/uber/base-design-docs) pushed_at:2021-11 star:0.0k fork:0.0k A documentation site for the Base design system.
-- [uber/nebula.gl](https://github.com/uber/nebula.gl) pushed_at:2021-11 star:0.4k fork:0.1k A suite of 3D-enabled data editing overlays, suitable for deck.gl
+- [uber/base-design-docs](https://github.com/uber/base-design-docs) pushed_at:2021-12 star:0.0k fork:0.0k A documentation site for the Base design system.
+- [uber/nebula.gl](https://github.com/uber/nebula.gl) pushed_at:2021-12 star:0.5k fork:0.1k A suite of 3D-enabled data editing overlays, suitable for deck.gl
 - [uber/react-view](https://github.com/uber/react-view) pushed_at:2021-09 star:0.6k fork:0.0k React View is an interactive playground, documentation and code generator for your components.
 
 ## Vue

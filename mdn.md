@@ -27,7 +27,7 @@
 
 ## HCL
 
-- [mdn/infra](https://github.com/mdn/infra) pushed_at:2021-11 star:0.0k fork:0.0k MDN Web Docs Infrastructure scripts and configuration
+- [mdn/infra](https://github.com/mdn/infra) pushed_at:2021-12 star:0.0k fork:0.0k MDN Web Docs Infrastructure scripts and configuration
 
 ## HTML
 
@@ -38,20 +38,20 @@
 - [mdn/beginner-html-site-scripted](https://github.com/mdn/beginner-html-site-scripted) pushed_at:2021-04 star:0.2k fork:0.2k A simple one page website created to help complete beginners learn HTML basics, which in this repo has also had some script added to help beginners learn JavaScript basics. The scripting is explained over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics. 
 - [mdn/beginner-html-site-styled](https://github.com/mdn/beginner-html-site-styled) pushed_at:2021-07 star:0.1k fork:0.4k A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics.
 - [mdn/beginning-programming-content-kit](https://github.com/mdn/beginning-programming-content-kit) pushed_at:2019-03 star:0.0k fork:0.0k This is a Content Kit for people who want to teach programming to beginners.
-- [mdn/content](https://github.com/mdn/content) pushed_at:2021-12 star:3.8k fork:4.7k The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) pushed_at:2021-12 star:3.8k fork:4.9k The content behind MDN Web Docs
 - [mdn/content-kit-template](https://github.com/mdn/content-kit-template) pushed_at:2016-05 star:0.0k fork:0.0k This is the repo to fork or clone when creating a new MDN Content Kit.
 - [mdn/css-examples](https://github.com/mdn/css-examples) pushed_at:2021-12 star:0.3k fork:0.4k Code examples that accompany the MDN CSS documentation
 - [mdn/devtools-examples](https://github.com/mdn/devtools-examples) pushed_at:2019-04 star:0.0k fork:0.0k Code examples that accompany the MDN Firefox Developer Tools documentation
-- [mdn/dom-examples](https://github.com/mdn/dom-examples) pushed_at:2021-12 star:1.2k fork:0.8k Code examples that accompany various MDN DOM and Web API documentation pages
+- [mdn/dom-examples](https://github.com/mdn/dom-examples) pushed_at:2021-12 star:1.2k fork:0.9k Code examples that accompany various MDN DOM and Web API documentation pages
 - [mdn/fetch-examples](https://github.com/mdn/fetch-examples) pushed_at:2021-03 star:0.5k fork:0.2k A repository of Fetch examples. See https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API for the corresponding documentation.
 - [mdn/fibonacci-worker](https://github.com/mdn/fibonacci-worker) pushed_at:2019-04 star:0.0k fork:0.0k A web worker that calculates fibonacci numbers.
 - [mdn/houdini-examples](https://github.com/mdn/houdini-examples) pushed_at:2021-01 star:0.0k fork:0.0k CSS Houdini examples relating to MDN content.
 - [mdn/html-examples](https://github.com/mdn/html-examples) pushed_at:2020-11 star:0.1k fork:0.1k Code examples that accompany the MDN HTML documentation: https://developer.mozilla.org/en-US/docs/Web/HTML
 - [mdn/imsc](https://github.com/mdn/imsc) pushed_at:2019-04 star:0.0k fork:0.0k Repository for examples to go along with MDN IMSC documentation.
-- [mdn/insights](https://github.com/mdn/insights) pushed_at:2021-11 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
+- [mdn/insights](https://github.com/mdn/insights) pushed_at:2021-12 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) pushed_at:2021-12 star:0.5k fork:0.4k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
-- [mdn/learning-area](https://github.com/mdn/learning-area) pushed_at:2021-12 star:4.4k fork:15.9k Github repo for the MDN Learning Area. 
+- [mdn/learning-area](https://github.com/mdn/learning-area) pushed_at:2021-12 star:4.4k fork:16.0k Github repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) pushed_at:2019-03 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
 - [mdn/learning-area-pt-br](https://github.com/mdn/learning-area-pt-br) pushed_at:2021-03 star:0.0k fork:0.1k The MDN Learning Area code examples translated into Brazilian Portuguese.
 - [mdn/machine-translation-testing-content](https://github.com/mdn/machine-translation-testing-content) pushed_at:2020-11 star:0.0k fork:0.0k This is a repository for testing machine translations of English content.
@@ -62,7 +62,7 @@
 - [mdn/simple-shared-worker](https://github.com/mdn/simple-shared-worker) pushed_at:2019-04 star:0.2k fork:0.1k A simple demo to show shared worker basics.
 - [mdn/sphinx-theme](https://github.com/mdn/sphinx-theme) pushed_at:2017-10 star:0.0k fork:0.0k  (Deprecated) Make Sphinx docs look like MDN
 - [mdn/todo-react-build](https://github.com/mdn/todo-react-build) pushed_at:2020-05 star:0.0k fork:0.0k Live version of our sample todo app built with the React/ReactDOM framework.
-- [mdn/translated-content](https://github.com/mdn/translated-content) pushed_at:2021-12 star:0.4k fork:1.5k All translated MDN content in raw form
+- [mdn/translated-content](https://github.com/mdn/translated-content) pushed_at:2021-12 star:0.5k fork:1.5k All translated MDN content in raw form
 - [mdn/translated-content-rendered](https://github.com/mdn/translated-content-rendered) pushed_at:2021-02 star:0.0k fork:0.0k All translated (non-archived) MDN content in fully rendered form
 - [mdn/viewsourceconf](https://github.com/mdn/viewsourceconf) pushed_at:2019-03 star:0.0k fork:0.0k Repo for View Source Conference site
 - [mdn/web-tech-games](https://github.com/mdn/web-tech-games) pushed_at:2021-04 star:0.0k fork:0.0k Interactive diagram showing what parts of the web technology stack can used for different purposes when creating games. Includes links to more information about each.
@@ -88,7 +88,7 @@
 - [mdn/express-locallibrary-tutorial](https://github.com/mdn/express-locallibrary-tutorial) pushed_at:2021-11 star:0.9k fork:0.5k Local Library website written in NodeJS/Express; example for the MDN server-side development NodeJS module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs.
 - [mdn/headless-examples](https://github.com/mdn/headless-examples) pushed_at:2019-08 star:0.1k fork:0.0k Examples to support the MDN resource covering Firefox headless mode — see https://developer.mozilla.org/en-US/Firefox/Headless_mode
 - [mdn/indexeddb-examples](https://github.com/mdn/indexeddb-examples) pushed_at:2019-04 star:0.0k fork:0.0k Code examples that accompany the MDN IndexedDB documentation
-- [mdn/js-examples](https://github.com/mdn/js-examples) pushed_at:2021-02 star:0.6k fork:0.4k Code examples that accompany the MDN JavaScript/ECMAScript documentation
+- [mdn/js-examples](https://github.com/mdn/js-examples) pushed_at:2021-02 star:0.6k fork:0.5k Code examples that accompany the MDN JavaScript/ECMAScript documentation
 - [mdn/mdn-fiori](https://github.com/mdn/mdn-fiori) pushed_at:2020-09 star:0.0k fork:0.0k MDN Web Docs Front-End style guide
 - [mdn/mdn-storybook](https://github.com/mdn/mdn-storybook) pushed_at:2021-10 star:0.0k fork:0.0k UI components for MDN Web Docs
 - [mdn/mdn.dev](https://github.com/mdn/mdn.dev) pushed_at:2020-09 star:0.0k fork:0.0k Content for https://mdn.dev
@@ -106,7 +106,7 @@
 - [mdn/violent-theremin](https://github.com/mdn/violent-theremin) pushed_at:2021-01 star:0.2k fork:0.1k Violent theremin uses the Web Audio API to generate sound, and HTML5 canvas for a bit of pretty visualization. The colours generated depend on the pitch and gain of the current note, which are themselves dependant on the mouse pointer position.
 - [mdn/voice-change-o-matic](https://github.com/mdn/voice-change-o-matic) pushed_at:2020-04 star:0.6k fork:0.2k Web Audio API-powered voice changer and visualizer
 - [mdn/voice-change-o-matic-float-data](https://github.com/mdn/voice-change-o-matic-float-data) pushed_at:2019-04 star:0.0k fork:0.0k Web Audio API-powered voice changer and visualizer - this is exactly the same as https://github.com/mdn/voice-change-o-matic, except that it uses float32Array data in the visualizations, not Uint8Array (unsigned byte) data.
-- [mdn/web-components-examples](https://github.com/mdn/web-components-examples) pushed_at:2021-11 star:1.9k fork:0.6k A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
+- [mdn/web-components-examples](https://github.com/mdn/web-components-examples) pushed_at:2021-12 star:1.9k fork:0.6k A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 - [mdn/web-dictaphone](https://github.com/mdn/web-dictaphone) pushed_at:2021-08 star:0.4k fork:0.2k A sample MDN app that uses getUserMedia and MediaRecorder API for recording audio snippets, and The Web Audio API for visualizations.
 - [mdn/web-speech-api](https://github.com/mdn/web-speech-api) pushed_at:2020-05 star:1.3k fork:0.7k A repository for demos illustrating features of the Web Speech API. See https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API for more details.
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) pushed_at:2021-11 star:3.0k fork:2.3k Example Firefox add-ons created using the WebExtensions API
@@ -117,7 +117,7 @@
 
 ## Jinja
 
-- [mdn/ansible-jenkins](https://github.com/mdn/ansible-jenkins) pushed_at:2021-09 star:0.0k fork:0.0k Jenkins ansible playbook
+- [mdn/ansible-jenkins](https://github.com/mdn/ansible-jenkins) pushed_at:2021-12 star:0.0k fork:0.0k Jenkins ansible playbook
 
 ## Others
 
@@ -128,7 +128,7 @@
 - [mdn/performance-scenarios](https://github.com/mdn/performance-scenarios) pushed_at:2017-05 star:0.0k fork:0.0k 
 - [mdn/sprints](https://github.com/mdn/sprints) pushed_at:2020-10 star:0.1k fork:0.1k MDN Web Docs content issue management
 - [mdn/wiki-revision-history](https://github.com/mdn/wiki-revision-history) pushed_at:2021-01 star:0.0k fork:0.0k An accurate CSV record of who made what revisions to MDN Web Docs when it was a Wiki platform
-- [mdn/workflows](https://github.com/mdn/workflows) pushed_at:2021-11 star:0.0k fork:0.0k Reusable GitHub Actions workflows
+- [mdn/workflows](https://github.com/mdn/workflows) pushed_at:2021-12 star:0.0k fork:0.0k Reusable GitHub Actions workflows
 
 ## PHP
 
@@ -137,10 +137,10 @@
 ## Python
 
 - [mdn/browsercompat](https://github.com/mdn/browsercompat) pushed_at:2017-04 star:0.0k fork:0.0k API for browser compatibility data on developer.mozilla.org
-- [mdn/developer-portal](https://github.com/mdn/developer-portal) pushed_at:2021-09 star:0.1k fork:0.0k The code that generates the MDN Web Docs Developer Portal.
+- [mdn/developer-portal](https://github.com/mdn/developer-portal) pushed_at:2021-12 star:0.1k fork:0.0k The code that generates the MDN Web Docs Developer Portal.
 - [mdn/django-diy-blog](https://github.com/mdn/django-diy-blog) pushed_at:2021-05 star:0.2k fork:0.1k Basic blog site written in Django (part of MDN Django module assessment).
 - [mdn/django-locallibrary-tutorial](https://github.com/mdn/django-locallibrary-tutorial) pushed_at:2021-11 star:1.1k fork:0.7k Local Library website written in Django; example for the MDN server-side development Django module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django.
-- [mdn/kuma](https://github.com/mdn/kuma) pushed_at:2021-11 star:1.9k fork:0.7k The project that powers MDN.
+- [mdn/kuma](https://github.com/mdn/kuma) pushed_at:2021-12 star:1.9k fork:0.7k The project that powers MDN.
 - [mdn/kuma-deployer](https://github.com/mdn/kuma-deployer) pushed_at:2019-09 star:0.0k fork:0.0k Automate the heck outta MDN Kuma deployment process
 - [mdn/stumptown-deployer](https://github.com/mdn/stumptown-deployer) pushed_at:2020-01 star:0.0k fork:0.0k 🚢 those static Stumptown sites
 - [mdn/webalyzer](https://github.com/mdn/webalyzer) pushed_at:2015-07 star:0.0k fork:0.0k [UNMAINTAINED] Collects web code for analysis and reporting.

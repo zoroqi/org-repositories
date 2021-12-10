@@ -68,7 +68,7 @@
 
 ## HTML
 
-- [openai/requests-for-research](https://github.com/openai/requests-for-research) pushed_at:2021-06 star:1.6k fork:0.6k A living collection of deep learning problems
+- [openai/requests-for-research](https://github.com/openai/requests-for-research) pushed_at:2021-06 star:1.5k fork:0.6k A living collection of deep learning problems
 
 ## JavaScript
 
@@ -81,7 +81,7 @@
 ## Jupyter Notebook
 
 - [openai/baselines-results](https://github.com/openai/baselines-results) pushed_at:2020-07 star:0.1k fork:0.0k 
-- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-12 star:5.4k fork:0.7k Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2021-12 star:5.5k fork:0.7k Contrastive Language-Image Pretraining
 - [openai/lucid](https://github.com/openai/lucid) pushed_at:2019-01 star:0.0k fork:0.0k A collection of infrastructure and tools for research in neural network interpretability.
 - [openai/ot-gan](https://github.com/openai/ot-gan) pushed_at:2018-11 star:0.0k fork:0.0k  Code for the paper "Improving GANs Using Optimal Transport"
 - [openai/ppo-ewma](https://github.com/openai/ppo-ewma) pushed_at:2021-10 star:0.0k fork:0.0k Code for the paper "Batch size invariance for policy optimization"
@@ -97,7 +97,7 @@
 ## Others
 
 - [openai/ai-and-efficiency](https://github.com/openai/ai-and-efficiency) pushed_at:2020-06 star:0.0k fork:0.0k Submissions for AI and Efficiency SOTA's
-- [openai/bchess-personal](https://github.com/openai/bchess-personal) pushed_at:2020-07 star:0.0k fork:0.0k temporarily public for a bug report
+- [openai/bchess-personal](https://github.com/openai/bchess-personal) pushed_at:2021-12 star:0.0k fork:0.0k temporarily public for a bug report
 - [openai/consul-helm](https://github.com/openai/consul-helm) pushed_at:2020-10 star:0.0k fork:0.0k Helm chart to install Consul and other associated components.
 - [openai/go-retryablehttp](https://github.com/openai/go-retryablehttp) pushed_at:2020-06 star:0.0k fork:0.0k Retryable HTTP client in Go
 - [openai/gpt-3](https://github.com/openai/gpt-3) pushed_at:2020-09 star:10.9k fork:1.3k GPT-3: Language Models are Few-Shot Learners
@@ -110,7 +110,7 @@
 
 - [openai/atari-demo](https://github.com/openai/atari-demo) pushed_at:2018-11 star:0.0k fork:0.0k Code for the blog post "Learning Montezuma’s Revenge from a Single Demonstration"
 - [openai/atari-reset](https://github.com/openai/atari-reset) pushed_at:2018-11 star:0.2k fork:0.0k Code for the blog post "Learning Montezuma’s Revenge from a Single Demonstration"
-- [openai/baselines](https://github.com/openai/baselines) pushed_at:2021-10 star:12.1k fork:4.2k OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
+- [openai/baselines](https://github.com/openai/baselines) pushed_at:2021-12 star:12.1k fork:4.2k OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [openai/CLIP-featurevis](https://github.com/openai/CLIP-featurevis) pushed_at:2021-03 star:0.2k fork:0.0k code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
 - [openai/code-align-evals-data](https://github.com/openai/code-align-evals-data) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [openai/DALL-E](https://github.com/openai/DALL-E) pushed_at:2021-04 star:3.7k fork:0.6k PyTorch package for the discrete VAE used for DALL·E.
@@ -128,10 +128,10 @@
 - [openai/grade-school-math](https://github.com/openai/grade-school-math) pushed_at:2021-11 star:0.1k fork:0.0k 
 - [openai/grok](https://github.com/openai/grok) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2021-11 star:0.9k fork:0.1k 
-- [openai/gym](https://github.com/openai/gym) pushed_at:2021-12 star:25.8k fork:7.4k A toolkit for developing and comparing reinforcement learning algorithms.
+- [openai/gym](https://github.com/openai/gym) pushed_at:2021-12 star:25.9k fork:7.4k A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/gym-http-api](https://github.com/openai/gym-http-api) pushed_at:2019-07 star:0.3k fork:0.1k API to access OpenAI Gym from other languages via HTTP
 - [openai/gym-recording](https://github.com/openai/gym-recording) pushed_at:2020-10 star:0.1k fork:0.0k Add-on package to gym, to record sequences of actions, observations, and rewards
-- [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2021-10 star:0.3k fork:0.2k 
+- [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2021-12 star:0.3k fork:0.2k 
 - [openai/gym-wikinav](https://github.com/openai/gym-wikinav) pushed_at:2018-11 star:0.0k fork:0.0k Wikipedia navigation environment for OpenAI Gym
 - [openai/gym3](https://github.com/openai/gym3) pushed_at:2021-01 star:0.1k fork:0.0k Vectorized interface for reinforcement learning environments
 - [openai/human-eval](https://github.com/openai/human-eval) pushed_at:2021-11 star:0.2k fork:0.0k Code for the paper "Evaluating Large Language Models Trained on Code"
