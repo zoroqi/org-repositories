@@ -362,7 +362,7 @@
 - [opencollective/opencollective-cli](https://github.com/opencollective/opencollective-cli) pushed_at:2021-08 star:0.0k fork:0.0k Command Line Interface for Open Collective
 - [opencollective/opencollective-email](https://github.com/opencollective/opencollective-email) pushed_at:2019-01 star:0.0k fork:0.0k The email service for transparent and inclusive open collectives
 - [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) pushed_at:2021-09 star:0.0k fork:0.0k The new Open Collective email service, powered by Eymail
-- [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) pushed_at:2021-12 star:0.5k fork:0.3k Open Collective Frontend. A React app powered by Next.js.
+- [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) pushed_at:2021-12 star:0.6k fork:0.3k Open Collective Frontend. A React app powered by Next.js.
 - [opencollective/opencollective-giftcards-generator](https://github.com/opencollective/opencollective-giftcards-generator) pushed_at:2020-04 star:0.0k fork:0.0k Simple app to generate read-to-print Open Collective gift cards
 - [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) pushed_at:2021-11 star:0.0k fork:0.0k The Open Collective Image Server (badges, banners, avatar, etc ...)
 - [opencollective/opencollective-jobs](https://github.com/opencollective/opencollective-jobs) pushed_at:2018-05 star:0.0k fork:0.0k 
@@ -578,7 +578,7 @@
 - [opencollective/django-extensions](https://github.com/opencollective/django-extensions) pushed_at:2020-08 star:0.0k fork:0.0k This is a repository for collecting global custom management extensions for the Django Framework. 
 - [opencollective/docker-slim](https://github.com/opencollective/docker-slim) pushed_at:2020-01 star:0.0k fork:0.0k DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [opencollective/docs](https://github.com/opencollective/docs) pushed_at:2019-03 star:0.0k fork:0.0k Onboarding Resources for contributors, members and chapter organizers of Open source community Africa (O.S.C.A)
-- [opencollective/documentation](https://github.com/opencollective/documentation) pushed_at:2021-11 star:0.1k fork:0.1k All documentation for Open Collective
+- [opencollective/documentation](https://github.com/opencollective/documentation) pushed_at:2021-12 star:0.1k fork:0.1k All documentation for Open Collective
 - [opencollective/dotenv-linter](https://github.com/opencollective/dotenv-linter) pushed_at:2020-08 star:0.0k fork:0.0k ✌️Linter for .env files. Written in Rust 🦀
 - [opencollective/dowww](https://github.com/opencollective/dowww) pushed_at:2019-01 star:0.0k fork:0.0k 💡 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
 - [opencollective/DragonProxy](https://github.com/opencollective/DragonProxy) pushed_at:2021-02 star:0.0k fork:0.0k A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.

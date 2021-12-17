@@ -22,7 +22,7 @@
 
 ## BitBake
 
-- [sony/meta-flutter](https://github.com/sony/meta-flutter) pushed_at:2021-10 star:0.0k fork:0.0k Yocto recipes for Flutter Engine and custom embedders
+- [sony/meta-flutter](https://github.com/sony/meta-flutter) pushed_at:2021-12 star:0.0k fork:0.0k Yocto recipes for Flutter Engine and custom embedders
 
 ## C
 
@@ -45,14 +45,14 @@
 
 ## Dart
 
-- [sony/flutter-elinux](https://github.com/sony/flutter-elinux) pushed_at:2021-10 star:0.1k fork:0.0k Flutter tools for embedded Linux (eLinux)
+- [sony/flutter-elinux](https://github.com/sony/flutter-elinux) pushed_at:2021-12 star:0.1k fork:0.0k Flutter tools for embedded Linux (eLinux)
 
 ## Go
 
 - [sony/appsync-client-go](https://github.com/sony/appsync-client-go) pushed_at:2021-05 star:0.0k fork:0.0k AWS AppSync golang client library
 - [sony/gobreaker](https://github.com/sony/gobreaker) pushed_at:2021-11 star:1.9k fork:0.1k Circuit Breaker implemented in Go
 - [sony/micro-notifier](https://github.com/sony/micro-notifier) pushed_at:2021-02 star:0.0k fork:0.0k Simplified Pusher Clone
-- [sony/sonyflake](https://github.com/sony/sonyflake) pushed_at:2021-08 star:2.3k fork:0.2k A distributed unique ID generator inspired by Twitter's Snowflake
+- [sony/sonyflake](https://github.com/sony/sonyflake) pushed_at:2021-08 star:2.4k fork:0.2k A distributed unique ID generator inspired by Twitter's Snowflake
 
 ## HTML
 

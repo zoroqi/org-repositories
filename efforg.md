@@ -37,7 +37,7 @@
 ## CSS
 
 - [EFForg/dayofaction-banner](https://github.com/EFForg/dayofaction-banner) pushed_at:2017-12 star:0.0k fork:0.0k User-installable banner for activism campaigns
-- [EFForg/https-everywhere-atlas](https://github.com/EFForg/https-everywhere-atlas) pushed_at:2021-03 star:0.0k fork:0.0k Static site generator for the HTTPS-Everywhere atlas.
+- [EFForg/https-everywhere-atlas](https://github.com/EFForg/https-everywhere-atlas) pushed_at:2021-12 star:0.0k fork:0.0k Static site generator for the HTTPS-Everywhere atlas.
 - [EFForg/petition-widget](https://github.com/EFForg/petition-widget) pushed_at:2014-08 star:0.0k fork:0.0k Boilerplate code for embedding petitions
 - [EFForg/projectsecretidentity](https://github.com/EFForg/projectsecretidentity) pushed_at:2015-08 star:0.0k fork:0.0k 
 - [EFForg/starttls-frontend](https://github.com/EFForg/starttls-frontend) pushed_at:2021-05 star:0.0k fork:0.0k Static front end for the STARTTLS scanner
@@ -160,11 +160,11 @@
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 - [EFForg/https-everywhere-rust-test-implementation](https://github.com/EFForg/https-everywhere-rust-test-implementation) pushed_at:2020-04 star:0.0k fork:0.0k 
 - [EFForg/rs-google-play](https://github.com/EFForg/rs-google-play) pushed_at:2021-11 star:0.0k fork:0.0k Google Play API for Rust
-- [EFForg/tokio-dl-stream-to-disk](https://github.com/EFForg/tokio-dl-stream-to-disk) pushed_at:2021-11 star:0.0k fork:0.0k A micro-library for downloading from a URL and streaming it directly to the disk
+- [EFForg/tokio-dl-stream-to-disk](https://github.com/EFForg/tokio-dl-stream-to-disk) pushed_at:2021-12 star:0.0k fork:0.0k A micro-library for downloading from a URL and streaming it directly to the disk
 
 ## SCSS
 
-- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) pushed_at:2021-08 star:0.0k fork:0.0k Code and content of https://privacybadger.org
+- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) pushed_at:2021-12 star:0.0k fork:0.0k Code and content of https://privacybadger.org
 
 ## Sass
 

@@ -84,10 +84,10 @@
 - [pingcap/ng-monitoring](https://github.com/pingcap/ng-monitoring) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [pingcap/octopus](https://github.com/pingcap/octopus) pushed_at:2019-06 star:0.0k fork:0.0k A toolkit including many powerful distributed test tools
 - [pingcap/os-ubuntu-tikv](https://github.com/pingcap/os-ubuntu-tikv) pushed_at:2020-06 star:0.0k fork:0.0k 
-- [pingcap/parser](https://github.com/pingcap/parser) pushed_at:2021-11 star:1.1k fork:0.4k A MySQL Compatible SQL Parser
+- [pingcap/parser](https://github.com/pingcap/parser) pushed_at:2021-12 star:1.1k fork:0.4k A MySQL Compatible SQL Parser
 - [pingcap/sysutil](https://github.com/pingcap/sysutil) pushed_at:2021-12 star:0.0k fork:0.0k sysutil is a library which implementats the gRPC service Diagnostics and shares the diagnostics functions between TiDB and PD.
 - [pingcap/ticdc](https://github.com/pingcap/ticdc) pushed_at:2021-12 star:0.2k fork:0.1k Change data capture for TiDB
-- [pingcap/tidb](https://github.com/pingcap/tidb) pushed_at:2021-12 star:29.8k fork:4.8k TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
+- [pingcap/tidb](https://github.com/pingcap/tidb) pushed_at:2021-12 star:29.9k fork:4.8k TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
 - [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) pushed_at:2021-12 star:0.3k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
 - [pingcap/tidb-cloud-backup](https://github.com/pingcap/tidb-cloud-backup) pushed_at:2020-02 star:0.0k fork:0.0k 
 - [pingcap/tidb-ctl](https://github.com/pingcap/tidb-ctl) pushed_at:2020-12 star:0.0k fork:0.0k TiDB Controller
@@ -162,7 +162,7 @@
 - [pingcap/blog](https://github.com/pingcap/blog) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [pingcap/django-tidb](https://github.com/pingcap/django-tidb) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [pingcap/docs](https://github.com/pingcap/docs) pushed_at:2021-12 star:0.5k fork:0.5k TiDB/TiKV/PD documentation.
-- [pingcap/docs-appdev](https://github.com/pingcap/docs-appdev) pushed_at:2021-11 star:0.0k fork:0.0k 
+- [pingcap/docs-appdev](https://github.com/pingcap/docs-appdev) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [pingcap/docs-dm](https://github.com/pingcap/docs-dm) pushed_at:2021-12 star:0.0k fork:0.1k Documentation for the TiDB Data Migration (DM) tool in both English and Chinese.
 - [pingcap/docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator) pushed_at:2021-12 star:0.0k fork:0.1k Documentation for TiDB in Kubernetes in both English and Chinese.
 - [pingcap/oasis](https://github.com/pingcap/oasis) pushed_at:2018-05 star:0.0k fork:0.0k 
@@ -175,7 +175,7 @@
 
 ## Ruby
 
-- [pingcap/activerecord-tidb-adapter](https://github.com/pingcap/activerecord-tidb-adapter) pushed_at:2021-09 star:0.0k fork:0.0k TiDB adapter for ActiveRecord, allows the use of TiDB as a backend for ActiveRecord and Rails apps.
+- [pingcap/activerecord-tidb-adapter](https://github.com/pingcap/activerecord-tidb-adapter) pushed_at:2021-12 star:0.0k fork:0.0k TiDB adapter for ActiveRecord, allows the use of TiDB as a backend for ActiveRecord and Rails apps.
 - [pingcap/discourse](https://github.com/pingcap/discourse) pushed_at:2021-12 star:0.0k fork:0.0k A platform for community discussion. Free, open, simple.
 - [pingcap/discourse-assign](https://github.com/pingcap/discourse-assign) pushed_at:2021-06 star:0.0k fork:0.0k Plugin for assigning users to a topic
 - [pingcap/discourse-chat-integration](https://github.com/pingcap/discourse-chat-integration) pushed_at:2019-12 star:0.0k fork:0.0k 
@@ -188,8 +188,8 @@
 - [pingcap/grpc-rust](https://github.com/pingcap/grpc-rust) pushed_at:2017-05 star:0.0k fork:0.0k Rust implementation of gRPC (not ready yet)
 - [pingcap/murmur3](https://github.com/pingcap/murmur3) pushed_at:2018-03 star:0.0k fork:0.0k A rust implementation of murmur3
 - [pingcap/rust-protobuf](https://github.com/pingcap/rust-protobuf) pushed_at:2021-09 star:0.0k fork:0.0k Rust implementation of Google protocol buffers
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) pushed_at:2021-11 star:6.9k fork:0.9k open source training courses about distributed database and distributed systemes
-- [pingcap/tidb-engine-ext](https://github.com/pingcap/tidb-engine-ext) pushed_at:2021-11 star:0.0k fork:0.0k A TiKV based `c dynamic library` for extending storage system in TiDB cluster
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) pushed_at:2021-11 star:7.0k fork:0.9k open source training courses about distributed database and distributed systemes
+- [pingcap/tidb-engine-ext](https://github.com/pingcap/tidb-engine-ext) pushed_at:2021-12 star:0.0k fork:0.0k A TiKV based `c dynamic library` for extending storage system in TiDB cluster
 
 ## Shell
 

@@ -43,7 +43,7 @@
 - [ARM-software/CMSIS-Musca-S1](https://github.com/ARM-software/CMSIS-Musca-S1) pushed_at:2021-10 star:0.0k fork:0.0k Repository of CMSIS Software Pack for Musca-S1 test-chip and board.
 - [ARM-software/CMSIS-TFM](https://github.com/ARM-software/CMSIS-TFM) pushed_at:2020-06 star:0.0k fork:0.0k Downstream Repository of CMSIS Software Packs for Trusted Firmware-M (TF-M).
 - [ARM-software/CMSIS-View](https://github.com/ARM-software/CMSIS-View) pushed_at:2021-01 star:0.0k fork:0.0k Repository of CMSIS Software Pack for software event generation and input/output handling.
-- [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) pushed_at:2021-12 star:0.3k fork:0.8k CMSIS Version 5 Development Repository
+- [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) pushed_at:2021-12 star:0.3k fork:0.9k CMSIS Version 5 Development Repository
 - [ARM-software/CPA](https://github.com/ARM-software/CPA) pushed_at:2017-11 star:0.0k fork:0.0k Contiguous page allocator project
 - [ARM-software/cryptocell-312-runtime](https://github.com/ARM-software/cryptocell-312-runtime) pushed_at:2021-02 star:0.0k fork:0.0k CryptoCell 312 runtime code
 - [ARM-software/Cryptocell-703-TEE-Lib](https://github.com/ARM-software/Cryptocell-703-TEE-Lib) pushed_at:2020-09 star:0.0k fork:0.0k Cryptocell 713/703 TEE Lib
@@ -83,7 +83,7 @@
 
 ## C++
 
-- [ARM-software/android-nn-driver](https://github.com/ARM-software/android-nn-driver) pushed_at:2021-11 star:0.1k fork:0.0k 
+- [ARM-software/android-nn-driver](https://github.com/ARM-software/android-nn-driver) pushed_at:2021-11 star:0.1k fork:0.1k 
 - [ARM-software/armnn](https://github.com/ARM-software/armnn) pushed_at:2021-12 star:0.8k fork:0.2k Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
 - [ARM-software/armnn-mlperf](https://github.com/ARM-software/armnn-mlperf) pushed_at:2021-02 star:0.0k fork:0.0k Arm mlperf.org benchmark port
 - [ARM-software/astc-encoder](https://github.com/ARM-software/astc-encoder) pushed_at:2021-12 star:0.6k fork:0.1k This is the official repository for the Arm ASTC Encoder, a texture compressor for the Adaptive Scalable Texture Compression data format.
@@ -163,7 +163,7 @@
 
 - [ARM-software/bm-plotter](https://github.com/ARM-software/bm-plotter) pushed_at:2021-08 star:0.0k fork:0.0k Moved to gitlab.arm.com.
 - [ARM-software/bootwrapper](https://github.com/ARM-software/bootwrapper) pushed_at:2017-06 star:0.0k fork:0.0k Linux kernel bootwrapper code
-- [ARM-software/data](https://github.com/ARM-software/data) pushed_at:2021-10 star:0.0k fork:0.0k Machine-readable data describing Arm architecture and implementations. Includes JSON descriptions of implemented PMU events.
+- [ARM-software/data](https://github.com/ARM-software/data) pushed_at:2021-12 star:0.0k fork:0.0k Machine-readable data describing Arm architecture and implementations. Includes JSON descriptions of implemented PMU events.
 - [ARM-software/NXP_iMX](https://github.com/ARM-software/NXP_iMX) pushed_at:2016-03 star:0.0k fork:0.0k CMSIS Driver Implementations for the NXP i.MX Device Series with Cortex-M processor
 - [ARM-software/NXP_Kinetis](https://github.com/ARM-software/NXP_Kinetis) pushed_at:2016-03 star:0.0k fork:0.0k CMSIS Driver Implementations for the NXP Kinetis Microcontroller Series
 - [ARM-software/tf-issues](https://github.com/ARM-software/tf-issues) pushed_at:2020-01 star:0.0k fork:0.0k Issue tracking for the ARM Trusted Firmware project
@@ -185,7 +185,7 @@
 - [ARM-software/ML-zoo](https://github.com/ARM-software/ML-zoo) pushed_at:2021-11 star:0.1k fork:0.0k 
 - [ARM-software/mram_simulation_framework](https://github.com/ARM-software/mram_simulation_framework) pushed_at:2021-10 star:0.0k fork:0.0k MRAM magnetization simulation framework. s-LLGS python and verilog-a solvers for transients simulation and  Fokker-planck equation solver for stochastic analysis
 - [ARM-software/perfsage](https://github.com/ARM-software/perfsage) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [ARM-software/SCALE-Sim](https://github.com/ARM-software/SCALE-Sim) pushed_at:2021-04 star:0.2k fork:0.1k 
+- [ARM-software/SCALE-Sim](https://github.com/ARM-software/SCALE-Sim) pushed_at:2021-12 star:0.2k fork:0.1k 
 - [ARM-software/scalpel](https://github.com/ARM-software/scalpel) pushed_at:2018-11 star:0.0k fork:0.0k This is a PyTorch implementation of the Scalpel. Node pruning for five benchmark networks and SIMD-aware weight pruning for LeNet-300-100 and LeNet-5 is included.
 - [ARM-software/sesr](https://github.com/ARM-software/sesr) pushed_at:2021-09 star:0.0k fork:0.0k Super-Efficient Super Resolution
 - [ARM-software/trappy](https://github.com/ARM-software/trappy) pushed_at:2021-11 star:0.1k fork:0.0k This repository has moved to https://gitlab.arm.com/tooling/trappy

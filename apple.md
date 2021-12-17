@@ -45,7 +45,7 @@
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) pushed_at:2021-12 star:0.2k fork:0.0k Index database library for use with sourcekit-lsp
 - [apple/llvm-project-v5](https://github.com/apple/llvm-project-v5) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project-v5-split](https://github.com/apple/llvm-project-v5-split) pushed_at:2019-10 star:0.0k fork:0.0k 
-- [apple/swift](https://github.com/apple/swift) pushed_at:2021-12 star:58.1k fork:9.3k The Swift Programming Language
+- [apple/swift](https://github.com/apple/swift) pushed_at:2021-12 star:58.2k fork:9.3k The Swift Programming Language
 - [apple/swift-clang](https://github.com/apple/swift-clang) pushed_at:2019-11 star:0.7k fork:0.2k 
 - [apple/swift-clang-tools-extra](https://github.com/apple/swift-clang-tools-extra) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) pushed_at:2021-12 star:0.0k fork:0.0k 
@@ -56,7 +56,7 @@
 
 ## Dockerfile
 
-- [apple/swift-docker](https://github.com/apple/swift-docker) pushed_at:2021-11 star:1.2k fork:0.2k Docker Official Image packaging for Swift
+- [apple/swift-docker](https://github.com/apple/swift-docker) pushed_at:2021-12 star:1.2k fork:0.2k Docker Official Image packaging for Swift
 
 ## HTML
 
@@ -84,7 +84,7 @@
 
 ## Markdown
 
-- [apple/swift-evolution](https://github.com/apple/swift-evolution) pushed_at:2021-12 star:12.9k fork:2.1k This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+- [apple/swift-evolution](https://github.com/apple/swift-evolution) pushed_at:2021-12 star:12.9k fork:2.2k This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
 ## Others
 
@@ -164,13 +164,13 @@
 - [apple/example-package-fisheryates](https://github.com/apple/example-package-fisheryates) pushed_at:2021-10 star:0.2k fork:0.1k Example package for use with the Swift Package Manager
 - [apple/example-package-playingcard](https://github.com/apple/example-package-playingcard) pushed_at:2021-08 star:0.2k fork:0.1k Example package for use with the Swift Package Manager
 - [apple/FHIRModels](https://github.com/apple/FHIRModels) pushed_at:2021-12 star:0.1k fork:0.0k Swift library for FHIR® resource data models
-- [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) pushed_at:2021-12 star:2.4k fork:0.2k Language Server Protocol implementation for Swift and C-based languages
+- [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) pushed_at:2021-12 star:2.5k fork:0.2k Language Server Protocol implementation for Swift and C-based languages
 - [apple/swift-3-api-guidelines-review](https://github.com/apple/swift-3-api-guidelines-review) pushed_at:2018-11 star:0.5k fork:0.1k 
 - [apple/swift-algorithms](https://github.com/apple/swift-algorithms) pushed_at:2021-12 star:3.9k fork:0.3k Commonly used sequence and collection algorithms for Swift
 - [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) pushed_at:2021-12 star:2.4k fork:0.2k Straightforward, type-safe argument parsing for Swift
 - [apple/swift-atomics](https://github.com/apple/swift-atomics) pushed_at:2021-11 star:0.7k fork:0.0k Low-level atomic operations for Swift
 - [apple/swift-cluster-membership](https://github.com/apple/swift-cluster-membership) pushed_at:2020-11 star:0.2k fork:0.0k Distributed Membership Protocol implementations in Swift
-- [apple/swift-collections](https://github.com/apple/swift-collections) pushed_at:2021-12 star:1.9k fork:0.1k Commonly used data structures for Swift
+- [apple/swift-collections](https://github.com/apple/swift-collections) pushed_at:2021-12 star:2.0k fork:0.1k Commonly used data structures for Swift
 - [apple/swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark) pushed_at:2021-11 star:0.2k fork:0.0k A benchmarking tool for Swift Collection algorithms
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) pushed_at:2021-12 star:4.5k fork:1.0k The Foundation Project, providing core utilities, internationalization, and OS independence
 - [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) pushed_at:2021-12 star:0.9k fork:0.2k The XCTest Project, A Swift core library for providing unit test support
@@ -186,7 +186,7 @@
 - [apple/swift-format](https://github.com/apple/swift-format) pushed_at:2021-12 star:1.4k fork:0.1k Formatting technology for Swift source code
 - [apple/swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) pushed_at:2021-09 star:0.1k fork:0.0k A Swift implementation of the HTTP Structured Header Field specification.
 - [apple/swift-llbuild2](https://github.com/apple/swift-llbuild2) pushed_at:2021-12 star:0.2k fork:0.0k A fresh take on a low-level build system API.
-- [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2021-10 star:2.6k fork:0.2k A Logging API for Swift
+- [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2021-12 star:2.6k fork:0.2k A Logging API for Swift
 - [apple/swift-markdown](https://github.com/apple/swift-markdown) pushed_at:2021-12 star:1.5k fork:0.1k A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) pushed_at:2021-12 star:0.5k fork:0.0k A Metrics API for Swift
 - [apple/swift-nio](https://github.com/apple/swift-nio) pushed_at:2021-12 star:6.8k fork:0.5k Event-driven network application framework for high performance protocol servers & clients, non-blocking.

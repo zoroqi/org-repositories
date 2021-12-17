@@ -37,7 +37,7 @@
 
 - [uber/libphutil](https://github.com/uber/libphutil) pushed_at:2021-12 star:0.0k fork:0.0k A collection of PHP utility classes
 - [uber/nanoscope-art](https://github.com/uber/nanoscope-art) pushed_at:2019-09 star:0.0k fork:0.0k 
-- [uber/neuropod](https://github.com/uber/neuropod) pushed_at:2021-11 star:0.9k fork:0.1k A uniform interface to run deep learning models from multiple frameworks
+- [uber/neuropod](https://github.com/uber/neuropod) pushed_at:2021-12 star:0.9k fork:0.1k A uniform interface to run deep learning models from multiple frameworks
 - [uber/percona-server](https://github.com/uber/percona-server) pushed_at:2017-06 star:0.0k fork:0.0k Percona Server
 
 ## Go
@@ -47,7 +47,7 @@
 - [uber/assume-role-cli](https://github.com/uber/assume-role-cli) pushed_at:2020-07 star:0.0k fork:0.0k CLI for AssumeRole is a tool for running programs with temporary credentials from AWS's AssumeRole API.
 - [uber/astro](https://github.com/uber/astro) pushed_at:2020-01 star:0.4k fork:0.0k Astro is a tool for managing multiple Terraform executions as a single command
 - [uber/athenadriver](https://github.com/uber/athenadriver) pushed_at:2021-09 star:0.1k fork:0.0k A fully-featured AWS Athena database driver (+ athenareader https://github.com/uber/athenadriver/tree/master/athenareader)
-- [uber/cadence](https://github.com/uber/cadence) pushed_at:2021-12 star:5.5k fork:0.5k Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [uber/cadence](https://github.com/uber/cadence) pushed_at:2021-12 star:5.5k fork:0.6k Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [uber/cadvisor](https://github.com/uber/cadvisor) pushed_at:2021-08 star:0.0k fork:0.0k Analyzes resource usage and performance characteristics of running containers.
 - [uber/gonduit](https://github.com/uber/gonduit) pushed_at:2021-06 star:0.0k fork:0.0k A Go package for connecting to Phabricator via the Conduit API.
 - [uber/kraken](https://github.com/uber/kraken) pushed_at:2021-10 star:4.8k fork:0.3k P2P Docker registry capable of distributing TBs of data in seconds
@@ -56,7 +56,7 @@
 - [uber/prototool](https://github.com/uber/prototool) pushed_at:2021-11 star:4.9k fork:0.3k Your Swiss Army Knife for Protocol Buffers
 - [uber/ringpop-go](https://github.com/uber/ringpop-go) pushed_at:2021-02 star:0.7k fork:0.1k Scalable, fault-tolerant application-layer sharding for Go applications
 - [uber/storagetapper](https://github.com/uber/storagetapper) pushed_at:2021-11 star:0.3k fork:0.1k StorageTapper is a scalable realtime MySQL change data streaming, logical backup and logical replication service
-- [uber/tchannel-go](https://github.com/uber/tchannel-go) pushed_at:2021-11 star:0.4k fork:0.1k Go implementation of a multiplexing and framing protocol for RPC calls
+- [uber/tchannel-go](https://github.com/uber/tchannel-go) pushed_at:2021-12 star:0.4k fork:0.1k Go implementation of a multiplexing and framing protocol for RPC calls
 - [uber/uberalls](https://github.com/uber/uberalls) pushed_at:2020-03 star:0.2k fork:0.0k Track code coverage metrics with Jenkins and Phabricator
 - [uber/zanzibar](https://github.com/uber/zanzibar) pushed_at:2021-12 star:0.3k fork:0.1k A build system & configuration system to generate versioned API gateways.
 
@@ -119,7 +119,7 @@
 - [uber/sentry-logger](https://github.com/uber/sentry-logger) pushed_at:2018-12 star:0.1k fork:0.0k A Sentry transport for Winston
 - [uber/sevnup](https://github.com/uber/sevnup) pushed_at:2020-07 star:0.0k fork:0.0k Reliably carry on work for a hashring node that owns a keyspace
 - [uber/standard](https://github.com/uber/standard) pushed_at:2017-04 star:0.1k fork:0.0k JavaScript Standard Style — One Style to Rule Them All
-- [uber/streetscape.gl](https://github.com/uber/streetscape.gl) pushed_at:2021-11 star:0.7k fork:0.2k Visualization framework for autonomy and robotics data encoded in XVIZ
+- [uber/streetscape.gl](https://github.com/uber/streetscape.gl) pushed_at:2021-12 star:0.7k fork:0.2k Visualization framework for autonomy and robotics data encoded in XVIZ
 - [uber/tcap](https://github.com/uber/tcap) pushed_at:2016-09 star:0.0k fork:0.0k Uses pcap to inspect tchannel traffic over a network interface
 - [uber/tchannel-node](https://github.com/uber/tchannel-node) pushed_at:2021-08 star:0.2k fork:0.0k 
 - [uber/typed-request-client](https://github.com/uber/typed-request-client) pushed_at:2017-05 star:0.0k fork:0.0k Make HTTP requests using TypedRequest and TypedResponse objects.
@@ -179,7 +179,7 @@
 - [uber/py-find-injection](https://github.com/uber/py-find-injection) pushed_at:2019-03 star:0.1k fork:0.0k Look for SQL injection attacks in python source code
 - [uber/py-look-for-timeouts](https://github.com/uber/py-look-for-timeouts) pushed_at:2020-03 star:0.0k fork:0.0k Scan for missing timeout calls in python source files
 - [uber/pymegacli](https://github.com/uber/pymegacli) pushed_at:2019-03 star:0.0k fork:0.0k Python API wrapper around MegaCli64
-- [uber/Python-Sample-Application](https://github.com/uber/Python-Sample-Application) pushed_at:2021-09 star:0.3k fork:0.5k 
+- [uber/Python-Sample-Application](https://github.com/uber/Python-Sample-Application) pushed_at:2021-09 star:0.4k fork:0.5k 
 - [uber/rides-python-sdk](https://github.com/uber/rides-python-sdk) pushed_at:2021-06 star:0.1k fork:0.1k Uber Rides Python SDK (beta)
 - [uber/sublime-phabricator](https://github.com/uber/sublime-phabricator) pushed_at:2020-05 star:0.0k fork:0.0k Open files in Phabricator via Sublime Text
 - [uber/tchannel-python](https://github.com/uber/tchannel-python) pushed_at:2021-10 star:0.1k fork:0.0k Python implementation of the TChannel protocol.
@@ -187,7 +187,7 @@
 
 ## Ruby
 
-- [uber/client-platform-engineering](https://github.com/uber/client-platform-engineering) pushed_at:2021-11 star:0.1k fork:0.0k A collection of cookbooks, scripts and binaries used to manage our macOS, Ubuntu and Windows endpoints
+- [uber/client-platform-engineering](https://github.com/uber/client-platform-engineering) pushed_at:2021-12 star:0.1k fork:0.0k A collection of cookbooks, scripts and binaries used to manage our macOS, Ubuntu and Windows endpoints
 - [uber/homebrew-nanoscope](https://github.com/uber/homebrew-nanoscope) pushed_at:2021-11 star:0.0k fork:0.0k 
 
 ## Shell

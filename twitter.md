@@ -66,7 +66,7 @@
 - [twitter/cloudhopper-commons](https://github.com/twitter/cloudhopper-commons) pushed_at:2021-06 star:0.0k fork:0.0k Cloudhopper Commons
 - [twitter/elephant-bird](https://github.com/twitter/elephant-bird) pushed_at:2021-08 star:1.1k fork:0.4k Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
 - [twitter/GraphJet](https://github.com/twitter/GraphJet) pushed_at:2021-06 star:0.5k fork:0.1k GraphJet is a real-time graph processing library.
-- [twitter/hbc](https://github.com/twitter/hbc) pushed_at:2021-10 star:0.9k fork:0.4k A Java HTTP client for consuming Twitter's realtime Streaming API
+- [twitter/hbc](https://github.com/twitter/hbc) pushed_at:2021-12 star:0.9k fork:0.4k A Java HTTP client for consuming Twitter's realtime Streaming API
 - [twitter/hpack](https://github.com/twitter/hpack) pushed_at:2020-10 star:0.2k fork:0.0k Header Compression for HTTP/2
 - [twitter/hraven](https://github.com/twitter/hraven) pushed_at:2021-06 star:0.1k fork:0.1k hRaven collects run time data and statistics from MapReduce jobs in an easily queryable format
 - [twitter/joauth](https://github.com/twitter/joauth) pushed_at:2021-08 star:0.2k fork:0.1k A Java library for authenticating HTTP Requests using OAuth
@@ -79,7 +79,7 @@
 ## JavaScript
 
 - [twitter/d3kit](https://github.com/twitter/d3kit) pushed_at:2021-11 star:0.4k fork:0.0k D3Kit is a set tools to speed D3 related project development
-- [twitter/hogan.js](https://github.com/twitter/hogan.js) pushed_at:2020-09 star:5.1k fork:0.5k A compiler for the Mustache templating language
+- [twitter/hogan.js](https://github.com/twitter/hogan.js) pushed_at:2021-12 star:5.1k fork:0.4k A compiler for the Mustache templating language
 - [twitter/labella.js](https://github.com/twitter/labella.js) pushed_at:2021-10 star:3.8k fork:0.1k Placing labels on a timeline without overlap.
 - [twitter/SentenTree](https://github.com/twitter/SentenTree) pushed_at:2021-10 star:0.2k fork:0.0k A novel text visualization technique
 - [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) pushed_at:2021-03 star:0.3k fork:0.0k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
@@ -131,7 +131,7 @@
 
 - [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2021-12 star:1.0k fork:0.1k Systems performance telemetry
 - [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2021-12 star:0.4k fork:0.1k A tool for benchmarking RPC services
-- [twitter/rustcommon](https://github.com/twitter/rustcommon) pushed_at:2021-12 star:0.2k fork:0.0k Common Twitter Rust lib
+- [twitter/rustcommon](https://github.com/twitter/rustcommon) pushed_at:2021-12 star:0.3k fork:0.0k Common Twitter Rust lib
 
 ## SCSS
 
@@ -149,7 +149,7 @@
 - [twitter/iago2](https://github.com/twitter/iago2) pushed_at:2019-12 star:0.0k fork:0.0k A load generator, built for engineers
 - [twitter/rsc](https://github.com/twitter/rsc) pushed_at:2021-10 star:1.2k fork:0.0k Experimental Scala compiler focused on compilation speed
 - [twitter/scala_school2](https://github.com/twitter/scala_school2) pushed_at:2021-10 star:0.3k fork:0.1k Scala School 2
-- [twitter/scalding](https://github.com/twitter/scalding) pushed_at:2021-09 star:3.3k fork:0.7k A Scala API for Cascading
+- [twitter/scalding](https://github.com/twitter/scalding) pushed_at:2021-12 star:3.3k fork:0.7k A Scala API for Cascading
 - [twitter/scrooge](https://github.com/twitter/scrooge) pushed_at:2021-12 star:0.7k fork:0.2k A Thrift parser/generator
 - [twitter/storehaus](https://github.com/twitter/storehaus) pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) pushed_at:2020-11 star:2.1k fork:0.3k Streaming MapReduce with Scalding and Storm
@@ -161,7 +161,7 @@
 
 ## Shell
 
-- [twitter/cache-trace](https://github.com/twitter/cache-trace) pushed_at:2021-07 star:0.1k fork:0.0k A collection of Twitter's anonymized production cache traces.
+- [twitter/cache-trace](https://github.com/twitter/cache-trace) pushed_at:2021-12 star:0.1k fork:0.0k A collection of Twitter's anonymized production cache traces.
 - [twitter/dodo](https://github.com/twitter/dodo) pushed_at:2021-12 star:0.0k fork:0.0k The Twitter OSS Project Builder
 - [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) pushed_at:2021-08 star:0.5k fork:0.3k Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
 
