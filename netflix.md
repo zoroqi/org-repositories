@@ -66,7 +66,7 @@
 ## Go
 
 - [Netflix/bettertls](https://github.com/Netflix/bettertls) pushed_at:2021-10 star:0.1k fork:0.0k BetterTLS:  A Name Constraints test suite for HTTPS clients.
-- [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) pushed_at:2021-06 star:11.7k fork:0.8k Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
+- [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) pushed_at:2021-06 star:11.7k fork:0.9k Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [Netflix/go-env](https://github.com/Netflix/go-env) pushed_at:2021-04 star:0.4k fork:0.0k a golang library to manage environment variables
 - [Netflix/go-expect](https://github.com/Netflix/go-expect) pushed_at:2021-10 star:0.3k fork:0.0k an expect-like golang library to automate control of terminal or console based programs.
 - [Netflix/hal-9001](https://github.com/Netflix/hal-9001) pushed_at:2017-06 star:0.2k fork:0.0k Hal-9001 is a Go library that offers a number of facilities for creating a bot and its plugins.
@@ -92,7 +92,7 @@
 
 ## HCL
 
-- [Netflix/metaflow-tools](https://github.com/Netflix/metaflow-tools) pushed_at:2021-11 star:0.0k fork:0.0k :rocket: Deployment tools/scripts for Metaflow!
+- [Netflix/metaflow-tools](https://github.com/Netflix/metaflow-tools) pushed_at:2021-12 star:0.0k fork:0.0k :rocket: Deployment tools/scripts for Metaflow!
 
 ## HTML
 
@@ -111,7 +111,7 @@
 - [Netflix/astyanax](https://github.com/Netflix/astyanax) pushed_at:2021-08 star:1.0k fork:0.4k Cassandra Java Client
 - [Netflix/blitz4j](https://github.com/Netflix/blitz4j) pushed_at:2018-12 star:0.6k fork:0.1k Logging framework for fast asynchronous logging
 - [Netflix/CassJMeter](https://github.com/Netflix/CassJMeter) pushed_at:2015-12 star:0.2k fork:0.1k JMeter plugin to run cassandra tests.
-- [Netflix/concurrency-limits](https://github.com/Netflix/concurrency-limits) pushed_at:2021-08 star:2.4k fork:0.2k 
+- [Netflix/concurrency-limits](https://github.com/Netflix/concurrency-limits) pushed_at:2021-12 star:2.5k fork:0.2k 
 - [Netflix/conductor](https://github.com/Netflix/conductor) pushed_at:2021-12 star:3.8k fork:1.2k Conductor is a microservices orchestration engine.
 - [Netflix/curator](https://github.com/Netflix/curator) pushed_at:2018-05 star:2.1k fork:0.4k ZooKeeper client wrapper and rich ZooKeeper framework
 - [Netflix/denominator](https://github.com/Netflix/denominator) pushed_at:2021-11 star:0.6k fork:0.1k Portably control DNS clouds using java or bash
@@ -250,7 +250,7 @@
 - [Netflix/brutal](https://github.com/Netflix/brutal) pushed_at:2019-10 star:0.2k fork:0.0k A multi-network asynchronous chat bot framework using twisted
 - [Netflix/codec_compare](https://github.com/Netflix/codec_compare) pushed_at:2018-03 star:0.0k fork:0.0k https://jpeg.org/downloads/jpegxl/jpegxl-draft_cfp_2.pdf
 - [Netflix/consoleme](https://github.com/Netflix/consoleme) pushed_at:2021-12 star:2.6k fork:0.2k A Central Control Plane for AWS Permissions and Access
-- [Netflix/dispatch](https://github.com/Netflix/dispatch) pushed_at:2021-12 star:3.1k fork:0.3k All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
+- [Netflix/dispatch](https://github.com/Netflix/dispatch) pushed_at:2021-12 star:3.2k fork:0.3k All of the ad-hoc things you're doing to manage incidents today, done for you, and much more!
 - [Netflix/flamescope](https://github.com/Netflix/flamescope) pushed_at:2021-10 star:2.6k fork:0.2k FlameScope is a visualization tool for exploring different time ranges as Flame Graphs.
 - [Netflix/hubcommander](https://github.com/Netflix/hubcommander) pushed_at:2021-12 star:1.2k fork:0.2k A Slack bot for GitHub organization management -- and other things too
 - [Netflix/image_compression_comparison](https://github.com/Netflix/image_compression_comparison) pushed_at:2021-08 star:0.2k fork:0.0k Image Compression Comparison Framework
@@ -265,7 +265,7 @@
 - [Netflix/security_monkey](https://github.com/Netflix/security_monkey) pushed_at:2021-02 star:4.2k fork:0.8k Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 - [Netflix/spectator-py](https://github.com/Netflix/spectator-py) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [Netflix/sureal](https://github.com/Netflix/sureal) pushed_at:2021-10 star:0.1k fork:0.0k Subjective quality scores recovery from noisy measurements.
-- [Netflix/vmaf](https://github.com/Netflix/vmaf) pushed_at:2021-12 star:2.6k fork:0.6k Perceptual video quality assessment based on multi-method fusion.
+- [Netflix/vmaf](https://github.com/Netflix/vmaf) pushed_at:2021-12 star:2.7k fork:0.6k Perceptual video quality assessment based on multi-method fusion.
 
 ## R
 

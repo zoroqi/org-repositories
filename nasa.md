@@ -80,7 +80,7 @@
 - [nasa/gen_sch_tbl](https://github.com/nasa/gen_sch_tbl) pushed_at:2019-07 star:0.0k fork:0.0k The Core Flight System (cFS) Generate Schedule Table Tool (gen_sch_tbl)
 - [nasa/HK](https://github.com/nasa/HK) pushed_at:2020-10 star:0.0k fork:0.0k The Core Flight System (cFS) Housekeeping (HK) application.
 - [nasa/HS](https://github.com/nasa/HS) pushed_at:2020-10 star:0.0k fork:0.0k The Core Flight System (cFS) Health and Safety (HS) application.
-- [nasa/icarous](https://github.com/nasa/icarous) pushed_at:2021-10 star:0.1k fork:0.1k ICAROUS  is a software architecture for the development of UAS applications
+- [nasa/icarous](https://github.com/nasa/icarous) pushed_at:2021-12 star:0.1k fork:0.1k ICAROUS  is a software architecture for the development of UAS applications
 - [nasa/kepler-pipeline](https://github.com/nasa/kepler-pipeline) pushed_at:2020-05 star:0.1k fork:0.0k Kepler Science Data Processing Pipeline
 - [nasa/knife](https://github.com/nasa/knife) pushed_at:2017-09 star:0.0k fork:0.0k 
 - [nasa/LC](https://github.com/nasa/LC) pushed_at:2020-11 star:0.0k fork:0.0k The Core Flight System (cFS) Limit Checker (LC) application.
@@ -124,7 +124,7 @@
 - [nasa/EADINLite](https://github.com/nasa/EADINLite) pushed_at:2018-03 star:0.0k fork:0.0k EADIN_Lite Network Protocol
 - [nasa/EMTG](https://github.com/nasa/EMTG) pushed_at:2021-01 star:0.0k fork:0.0k NASA Goddard's Evolutionary Mission Trajectory Generator (EMTG)
 - [nasa/europa](https://github.com/nasa/europa) pushed_at:2021-05 star:0.2k fork:0.1k 
-- [nasa/fprime](https://github.com/nasa/fprime) pushed_at:2021-12 star:8.6k fork:1.1k F' - A flight software and embedded systems framework
+- [nasa/fprime](https://github.com/nasa/fprime) pushed_at:2021-12 star:8.7k fork:1.1k F' - A flight software and embedded systems framework
 - [nasa/GMSEC_API](https://github.com/nasa/GMSEC_API) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [nasa/GSAP](https://github.com/nasa/GSAP) pushed_at:2021-03 star:0.0k fork:0.0k Generic Software Architecture for Prognostics (GSAP)
 - [nasa/gunns](https://github.com/nasa/gunns) pushed_at:2021-12 star:0.0k fork:0.0k The NASA General-Use Nodal Network Solver (GUNNS) software
@@ -145,7 +145,7 @@
 - [nasa/PanNDE](https://github.com/nasa/PanNDE) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [nasa/PointCloudsVR](https://github.com/nasa/PointCloudsVR) pushed_at:2019-12 star:0.1k fork:0.0k 
 - [nasa/polyfit](https://github.com/nasa/polyfit) pushed_at:2020-10 star:0.0k fork:0.0k 
-- [nasa/puma](https://github.com/nasa/puma) pushed_at:2021-11 star:0.0k fork:0.0k 
+- [nasa/puma](https://github.com/nasa/puma) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [nasa/RtRetrievalFramework](https://github.com/nasa/RtRetrievalFramework) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [nasa/RVLib](https://github.com/nasa/RVLib) pushed_at:2017-11 star:0.0k fork:0.0k Random Variable Library
 - [nasa/SAFE-DART](https://github.com/nasa/SAFE-DART) pushed_at:2017-12 star:0.0k fork:0.0k 
@@ -291,7 +291,7 @@
 ## Jupyter Notebook
 
 - [nasa/1d-pinn-reconstruction](https://github.com/nasa/1d-pinn-reconstruction) pushed_at:2021-10 star:0.0k fork:0.0k This is the code for "Neural Network Reconstruction of Plasma Space-Time" by C.Bard and J.Dorelli (DOI: 10.3389/fspas.2021.732275). It is a Physics-Informed Transformer Neural Network which was used to reconstruct one-dimensional (M)HD shocktubes from partial samples. Includes source code, data, and jupyter notebooks for scientific reproduction
-- [nasa/dorado-sensitivity](https://github.com/nasa/dorado-sensitivity) pushed_at:2021-07 star:0.0k fork:0.0k Dorado sensitivity and exposure time calculator
+- [nasa/dorado-sensitivity](https://github.com/nasa/dorado-sensitivity) pushed_at:2021-12 star:0.0k fork:0.0k Dorado sensitivity and exposure time calculator
 - [nasa/DualPol](https://github.com/nasa/DualPol) pushed_at:2019-03 star:0.0k fork:0.0k Python Interface to Dual-Pol Radar Algorithms (DualPol)
 - [nasa/exoscene](https://github.com/nasa/exoscene) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [nasa/harmony-regression-tests](https://github.com/nasa/harmony-regression-tests) pushed_at:2021-12 star:0.0k fork:0.0k 
@@ -373,7 +373,7 @@
 - [nasa/fe3](https://github.com/nasa/fe3) pushed_at:2020-07 star:0.0k fork:0.0k 
 - [nasa/Field-Data-Collector](https://github.com/nasa/Field-Data-Collector) pushed_at:2020-05 star:0.0k fork:0.0k 
 - [nasa/fs_lib](https://github.com/nasa/fs_lib) pushed_at:2019-11 star:0.0k fork:0.0k The Core Flight System (cFS) File Servies Library (fs_lib)
-- [nasa/GeneLab-sampleProcessing](https://github.com/nasa/GeneLab-sampleProcessing) pushed_at:2021-11 star:0.0k fork:0.0k 
+- [nasa/GeneLab-sampleProcessing](https://github.com/nasa/GeneLab-sampleProcessing) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [nasa/grc-atf-meza-config](https://github.com/nasa/grc-atf-meza-config) pushed_at:2021-06 star:0.0k fork:0.0k 
 - [nasa/isce3-test](https://github.com/nasa/isce3-test) pushed_at:2021-10 star:0.0k fork:0.0k Test CI integration & GitHub Pages domain hosting before migrating the isce3 repository.
 - [nasa/maestro](https://github.com/nasa/maestro) pushed_at:2021-11 star:0.0k fork:0.0k Procedure authoring tool
@@ -500,7 +500,7 @@
 - [nasa/prog_models](https://github.com/nasa/prog_models) pushed_at:2021-12 star:0.0k fork:0.0k The NASA Prognostic Model Package is a Python framework focused on defining and building models for prognostics (computation of remaining useful life) of engineering systems, and provides a set of prognostics models for select components developed within this framework, suitable for use in prognostics applications for these components.
 - [nasa/pyCMR](https://github.com/nasa/pyCMR) pushed_at:2018-11 star:0.0k fork:0.0k Client for CMR APIs
 - [nasa/pymdptoolbox](https://github.com/nasa/pymdptoolbox) pushed_at:2015-05 star:0.0k fork:0.0k Markov Decision Process (MDP) Toolbox for Python
-- [nasa/PyMKAD](https://github.com/nasa/PyMKAD) pushed_at:2020-10 star:0.0k fork:0.0k 
+- [nasa/PyMKAD](https://github.com/nasa/PyMKAD) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [nasa/python_cmr](https://github.com/nasa/python_cmr) pushed_at:2021-11 star:0.0k fork:0.0k Python library for querying the common metadata repository.
 - [nasa/radbelt](https://github.com/nasa/radbelt) pushed_at:2021-06 star:0.0k fork:0.0k radbelt: An Astropy-friendly wrapper for the AE-8/AP-8 Van Allen belt model
 - [nasa/Rapid-Model-Import-Tool](https://github.com/nasa/Rapid-Model-Import-Tool) pushed_at:2021-08 star:0.0k fork:0.0k 
@@ -511,7 +511,7 @@
 - [nasa/scrub](https://github.com/nasa/scrub) pushed_at:2021-12 star:0.0k fork:0.0k SCRUB is a platform for orchestration and aggregation of static code analysis tools.
 - [nasa/simplegrid](https://github.com/nasa/simplegrid) pushed_at:2020-07 star:0.0k fork:0.0k 
 - [nasa/simupy-flight](https://github.com/nasa/simupy-flight) pushed_at:2021-06 star:0.0k fork:0.0k 
-- [nasa/SMCPy](https://github.com/nasa/SMCPy) pushed_at:2021-12 star:0.0k fork:0.0k Python module for uncertainty quantification using a parallel sequential Monte Carlo sampler
+- [nasa/SMCPy](https://github.com/nasa/SMCPy) pushed_at:2021-12 star:0.1k fork:0.0k Python module for uncertainty quantification using a parallel sequential Monte Carlo sampler
 - [nasa/SROMPy](https://github.com/nasa/SROMPy) pushed_at:2021-06 star:0.0k fork:0.0k Python module to generate stochastic reduced order models (SROMs)
 - [nasa/System_Monitor_for_Radiation_Testing](https://github.com/nasa/System_Monitor_for_Radiation_Testing) pushed_at:2021-01 star:0.0k fork:0.0k Single Board Computer System Monitoring Python Software for Radiation Testing
 - [nasa/UQ-Kernel-Mini-App](https://github.com/nasa/UQ-Kernel-Mini-App) pushed_at:2019-10 star:0.0k fork:0.0k 
@@ -543,7 +543,7 @@
 - [nasa/cash](https://github.com/nasa/cash) pushed_at:2013-12 star:0.0k fork:0.0k Cassini Structured Homepages uses LDAP authorization to provide a security layer to webpage content
 - [nasa/cumulus-circleci-image](https://github.com/nasa/cumulus-circleci-image) pushed_at:2018-08 star:0.0k fork:0.0k 
 - [nasa/Reinforcement-Learning-Benchmarking](https://github.com/nasa/Reinforcement-Learning-Benchmarking) pushed_at:2019-09 star:0.0k fork:0.0k Scripts for running several OpenAI Baselines algorithms on all MuJoCo or Roboschool gym environments to compare performance.
-- [nasa/uam-apis](https://github.com/nasa/uam-apis) pushed_at:2021-11 star:0.0k fork:0.0k 
+- [nasa/uam-apis](https://github.com/nasa/uam-apis) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [nasa/utm-docs](https://github.com/nasa/utm-docs) pushed_at:2021-12 star:0.0k fork:0.0k 
 
 ## TeX
@@ -554,7 +554,7 @@
 
 - [nasa/daa-displays](https://github.com/nasa/daa-displays) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [nasa/harmony](https://github.com/nasa/harmony) pushed_at:2021-12 star:0.0k fork:0.0k Application for providing services for Earth observation data in the cloud using standards-based APIs
-- [nasa/vscode-pvs](https://github.com/nasa/vscode-pvs) pushed_at:2021-10 star:0.0k fork:0.0k LAR-19642-1: Visual Studio Code Extension for PVS
+- [nasa/vscode-pvs](https://github.com/nasa/vscode-pvs) pushed_at:2021-12 star:0.0k fork:0.0k LAR-19642-1: Visual Studio Code Extension for PVS
 
 
 ## License

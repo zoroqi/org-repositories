@@ -362,7 +362,7 @@
 - [opencollective/opencollective-cli](https://github.com/opencollective/opencollective-cli) pushed_at:2021-08 star:0.0k fork:0.0k Command Line Interface for Open Collective
 - [opencollective/opencollective-email](https://github.com/opencollective/opencollective-email) pushed_at:2019-01 star:0.0k fork:0.0k The email service for transparent and inclusive open collectives
 - [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) pushed_at:2021-09 star:0.0k fork:0.0k The new Open Collective email service, powered by Eymail
-- [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) pushed_at:2021-12 star:0.6k fork:0.3k Open Collective Frontend. A React app powered by Next.js.
+- [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) pushed_at:2021-12 star:0.5k fork:0.3k Open Collective Frontend. A React app powered by Next.js.
 - [opencollective/opencollective-giftcards-generator](https://github.com/opencollective/opencollective-giftcards-generator) pushed_at:2020-04 star:0.0k fork:0.0k Simple app to generate read-to-print Open Collective gift cards
 - [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) pushed_at:2021-11 star:0.0k fork:0.0k The Open Collective Image Server (badges, banners, avatar, etc ...)
 - [opencollective/opencollective-jobs](https://github.com/opencollective/opencollective-jobs) pushed_at:2018-05 star:0.0k fork:0.0k 
@@ -730,7 +730,7 @@
 - [opencollective/open-zwave](https://github.com/opencollective/open-zwave) pushed_at:2019-09 star:0.0k fork:0.0k a C++ library to control Z-Wave Networks via a USB Z-Wave Controller. 
 - [opencollective/openaddresses](https://github.com/opencollective/openaddresses) pushed_at:2020-01 star:0.0k fork:0.0k A repository of global open address data.
 - [opencollective/openboxes](https://github.com/opencollective/openboxes) pushed_at:2020-02 star:0.0k fork:0.0k OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
-- [opencollective/opencollective](https://github.com/opencollective/opencollective) pushed_at:2021-11 star:1.4k fork:0.3k Collect and spend money transparently. Please report issues or bugs on this repository. Feature requests and ideas welcome!
+- [opencollective/opencollective](https://github.com/opencollective/opencollective) pushed_at:2021-12 star:1.4k fork:0.3k Collect and spend money transparently. Please report issues or bugs on this repository. Feature requests and ideas welcome!
 - [opencollective/opencollective-lib](https://github.com/opencollective/opencollective-lib) pushed_at:2016-06 star:0.0k fork:0.0k Libraries in common in our repos
 - [opencollective/openmptcprouter](https://github.com/opencollective/openmptcprouter) pushed_at:2020-03 star:0.0k fork:0.0k OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [opencollective/opensource](https://github.com/opencollective/opensource) pushed_at:2016-07 star:0.0k fork:0.0k This is the Open Source Collective repo. Submit here issues related on how to spend the money and projects/ideas to get funded. 

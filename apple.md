@@ -18,13 +18,13 @@
 - [Others](#others) (8)
 - [Python](#python) (38)
 - [R](#r) (1)
-- [Shell](#shell) (2)
+- [Shell](#shell) (1)
 - [Starlark](#starlark) (1)
-- [Swift](#swift) (63)
+- [Swift](#swift) (64)
 
 ## C
 
-- [apple/ccs-pykerberos](https://github.com/apple/ccs-pykerberos) pushed_at:2021-10 star:0.1k fork:0.0k Python Kerberos library used by CalendarServer
+- [apple/ccs-pykerberos](https://github.com/apple/ccs-pykerberos) pushed_at:2021-10 star:0.1k fork:0.1k Python Kerberos library used by CalendarServer
 - [apple/cups](https://github.com/apple/cups) pushed_at:2021-12 star:1.4k fork:0.4k Apple CUPS Sources
 - [apple/darwin-libplatform](https://github.com/apple/darwin-libplatform) pushed_at:2021-02 star:0.1k fork:0.0k The Darwin Platform Library (mirror)
 - [apple/darwin-libpthread](https://github.com/apple/darwin-libpthread) pushed_at:2021-07 star:0.1k fork:0.1k The Darwin PThread Library (mirror)
@@ -45,7 +45,7 @@
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) pushed_at:2021-12 star:0.2k fork:0.0k Index database library for use with sourcekit-lsp
 - [apple/llvm-project-v5](https://github.com/apple/llvm-project-v5) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project-v5-split](https://github.com/apple/llvm-project-v5-split) pushed_at:2019-10 star:0.0k fork:0.0k 
-- [apple/swift](https://github.com/apple/swift) pushed_at:2021-12 star:58.2k fork:9.3k The Swift Programming Language
+- [apple/swift](https://github.com/apple/swift) pushed_at:2021-12 star:58.3k fork:9.3k The Swift Programming Language
 - [apple/swift-clang](https://github.com/apple/swift-clang) pushed_at:2019-11 star:0.7k fork:0.2k 
 - [apple/swift-clang-tools-extra](https://github.com/apple/swift-clang-tools-extra) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) pushed_at:2021-12 star:0.0k fork:0.0k 
@@ -84,7 +84,7 @@
 
 ## Markdown
 
-- [apple/swift-evolution](https://github.com/apple/swift-evolution) pushed_at:2021-12 star:12.9k fork:2.2k This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+- [apple/swift-evolution](https://github.com/apple/swift-evolution) pushed_at:2021-12 star:13.0k fork:2.2k This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
 ## Others
 
@@ -99,7 +99,7 @@
 
 ## Python
 
-- [apple/ARKitScenes](https://github.com/apple/ARKitScenes) pushed_at:2021-12 star:0.0k fork:0.0k 
+- [apple/ARKitScenes](https://github.com/apple/ARKitScenes) pushed_at:2021-12 star:0.1k fork:0.0k 
 - [apple/ccs-caldavtester](https://github.com/apple/ccs-caldavtester) pushed_at:2021-09 star:0.0k fork:0.0k CalDAV/CardDAV Testing Framework used by CalendarServer
 - [apple/ccs-calendarserver](https://github.com/apple/ccs-calendarserver) pushed_at:2020-02 star:0.4k fork:0.1k The Calendar and Contacts Server.
 - [apple/ccs-pycalendar](https://github.com/apple/ccs-pycalendar) pushed_at:2021-03 star:0.1k fork:0.0k Python iCalendar library used by CalendarServer
@@ -144,7 +144,6 @@
 
 ## Shell
 
-- [apple/swift-metrics-extras](https://github.com/apple/swift-metrics-extras) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) pushed_at:2021-10 star:3.3k fork:0.3k TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework. 
 
 ## Starlark
@@ -189,6 +188,7 @@
 - [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2021-12 star:2.6k fork:0.2k A Logging API for Swift
 - [apple/swift-markdown](https://github.com/apple/swift-markdown) pushed_at:2021-12 star:1.5k fork:0.1k A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) pushed_at:2021-12 star:0.5k fork:0.0k A Metrics API for Swift
+- [apple/swift-metrics-extras](https://github.com/apple/swift-metrics-extras) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [apple/swift-nio](https://github.com/apple/swift-nio) pushed_at:2021-12 star:6.8k fork:0.5k Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 - [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) pushed_at:2021-10 star:0.2k fork:0.0k examples of how to use swift-nio
 - [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) pushed_at:2021-12 star:0.1k fork:0.1k Useful code around SwiftNIO.
@@ -199,7 +199,7 @@
 - [apple/swift-nio-transport-services](https://github.com/apple/swift-nio-transport-services) pushed_at:2021-12 star:0.2k fork:0.0k Extensions for SwiftNIO to support Apple platforms as first-class citizens.
 - [apple/swift-nio-zlib-support](https://github.com/apple/swift-nio-zlib-support) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [apple/swift-numerics](https://github.com/apple/swift-numerics) pushed_at:2021-12 star:1.3k fork:0.1k Advanced mathematical types and functions for Swift
-- [apple/swift-package-collection-generator](https://github.com/apple/swift-package-collection-generator) pushed_at:2021-11 star:0.1k fork:0.0k A collection of packages and tooling for generating and consuming package feeds.
+- [apple/swift-package-collection-generator](https://github.com/apple/swift-package-collection-generator) pushed_at:2021-12 star:0.1k fork:0.0k A collection of packages and tooling for generating and consuming package feeds.
 - [apple/swift-package-manager](https://github.com/apple/swift-package-manager) pushed_at:2021-12 star:8.6k fork:1.1k The Package Manager for the Swift Programming Language
 - [apple/swift-package-registry-compatibility-test-suite](https://github.com/apple/swift-package-registry-compatibility-test-suite) pushed_at:2021-12 star:0.0k fork:0.0k Tools for building and testing Swift package registry server that implements SE-0292 and SE-0321
 - [apple/swift-protobuf](https://github.com/apple/swift-protobuf) pushed_at:2021-11 star:3.7k fork:0.3k Plugin and runtime library for using protobuf with Swift

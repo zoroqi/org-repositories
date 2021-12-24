@@ -35,7 +35,7 @@
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
 - [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2021-12 star:0.9k fork:0.1k Pelikan is Twitter's unified cache backend
 - [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2021-11 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-12 star:11.1k fork:2.0k A fast, light-weight proxy for memcached and redis
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-12 star:11.2k fork:2.0k A fast, light-weight proxy for memcached and redis
 
 ## C++
 
@@ -135,7 +135,7 @@
 
 ## SCSS
 
-- [twitter/opensource-website](https://github.com/twitter/opensource-website) pushed_at:2021-12 star:1.7k fork:0.6k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
+- [twitter/opensource-website](https://github.com/twitter/opensource-website) pushed_at:2021-12 star:1.8k fork:0.6k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 
 ## Scala
 
@@ -167,7 +167,7 @@
 
 ## Swift
 
-- [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) pushed_at:2021-08 star:2.6k fork:0.1k A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
+- [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) pushed_at:2021-12 star:2.6k fork:0.1k A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
 
 ## TypeScript
 

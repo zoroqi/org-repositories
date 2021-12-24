@@ -50,7 +50,7 @@
 - [uber/cadence](https://github.com/uber/cadence) pushed_at:2021-12 star:5.5k fork:0.6k Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [uber/cadvisor](https://github.com/uber/cadvisor) pushed_at:2021-08 star:0.0k fork:0.0k Analyzes resource usage and performance characteristics of running containers.
 - [uber/gonduit](https://github.com/uber/gonduit) pushed_at:2021-06 star:0.0k fork:0.0k A Go package for connecting to Phabricator via the Conduit API.
-- [uber/kraken](https://github.com/uber/kraken) pushed_at:2021-10 star:4.8k fork:0.3k P2P Docker registry capable of distributing TBs of data in seconds
+- [uber/kraken](https://github.com/uber/kraken) pushed_at:2021-10 star:4.9k fork:0.3k P2P Docker registry capable of distributing TBs of data in seconds
 - [uber/pam-ussh](https://github.com/uber/pam-ussh) pushed_at:2021-08 star:0.7k fork:0.1k uber's ssh certificate pam module
 - [uber/peloton](https://github.com/uber/peloton) pushed_at:2021-03 star:0.6k fork:0.1k Unified Resource Scheduler to co-schedule mixed types of workloads such as batch, stateless and stateful jobs in a single cluster for better resource utilization.
 - [uber/prototool](https://github.com/uber/prototool) pushed_at:2021-11 star:4.9k fork:0.3k Your Swiss Army Knife for Protocol Buffers

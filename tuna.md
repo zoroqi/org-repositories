@@ -28,7 +28,7 @@
 
 ## C++
 
-- [tuna/QSerial](https://github.com/tuna/QSerial) pushed_at:2021-03 star:0.0k fork:0.0k An advanced cross-platform serial port utility
+- [tuna/QSerial](https://github.com/tuna/QSerial) pushed_at:2021-12 star:0.0k fork:0.0k An advanced cross-platform serial port utility
 
 ## CSS
 
