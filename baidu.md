@@ -24,7 +24,7 @@
 
 - [baidu/baidu-iot-samples](https://github.com/baidu/baidu-iot-samples) pushed_at:2019-10 star:0.1k fork:0.1k 
 - [baidu/boteye_sensor](https://github.com/baidu/boteye_sensor) pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/dperf](https://github.com/baidu/dperf) pushed_at:2021-12 star:0.1k fork:0.0k Dperf is a DPDK based high performance network load tester.
+- [baidu/dperf](https://github.com/baidu/dperf) pushed_at:2021-12 star:0.1k fork:0.0k dperf is a network load tester for cloud.
 - [baidu/du1906_esp](https://github.com/baidu/du1906_esp) pushed_at:2021-12 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
 - [baidu/iot-edge-sdk-for-iot-parser](https://github.com/baidu/iot-edge-sdk-for-iot-parser) pushed_at:2019-02 star:0.1k fork:0.1k 
 - [baidu/iot-sdk-c](https://github.com/baidu/iot-sdk-c) pushed_at:2021-07 star:0.1k fork:0.1k device sdk for baidu IoT Core service, in c. Including MQTT client
@@ -48,7 +48,7 @@
 - [baidu/ICE-BA](https://github.com/baidu/ICE-BA) pushed_at:2018-09 star:0.6k fork:0.2k 
 - [baidu/ins](https://github.com/baidu/ins) pushed_at:2020-10 star:0.2k fork:0.1k iNexus, coordinate large scale services
 - [baidu/lac](https://github.com/baidu/lac) pushed_at:2021-05 star:2.8k fork:0.5k 百度NLP：分词，词性标注，命名实体识别，词重要性
-- [baidu/openrasp](https://github.com/baidu/openrasp) pushed_at:2021-12 star:2.0k fork:0.5k 🔥Open source RASP solution
+- [baidu/openrasp](https://github.com/baidu/openrasp) pushed_at:2021-12 star:2.1k fork:0.5k 🔥Open source RASP solution
 - [baidu/shuttle](https://github.com/baidu/shuttle) pushed_at:2018-07 star:0.1k fork:0.0k A fast computing framework based on Galaxy
 - [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) pushed_at:2018-09 star:2.0k fork:0.7k A light-weight RPC implement of google protobuf RPC framework.
 - [baidu/tera](https://github.com/baidu/tera) pushed_at:2019-01 star:1.8k fork:0.4k An Internet-Scale Database.
@@ -136,12 +136,12 @@
 - [baidu/DDParser](https://github.com/baidu/DDParser) pushed_at:2021-11 star:0.7k fork:0.1k 百度开源的依存句法分析系统
 - [baidu/Dialogue](https://github.com/baidu/Dialogue) pushed_at:2020-01 star:0.4k fork:0.1k 
 - [baidu/duedge-cli](https://github.com/baidu/duedge-cli) pushed_at:2020-03 star:0.0k fork:0.0k DuEdge Command Line
-- [baidu/DuReader](https://github.com/baidu/DuReader) pushed_at:2021-10 star:0.9k fork:0.3k Baseline Systems of DuReader Dataset
+- [baidu/DuReader](https://github.com/baidu/DuReader) pushed_at:2021-12 star:0.9k fork:0.3k Baseline Systems of DuReader Dataset
 - [baidu/information-extraction](https://github.com/baidu/information-extraction) pushed_at:2019-05 star:0.3k fork:0.1k 
 - [baidu/knowledge-driven-dialogue](https://github.com/baidu/knowledge-driven-dialogue) pushed_at:2019-06 star:0.3k fork:0.1k baseline system of knowledge driven dialogue competition
 - [baidu/logcover](https://github.com/baidu/logcover) pushed_at:2017-02 star:0.1k fork:0.0k 轻量级异常日志测试覆盖率度量工具
 - [baidu/QCompute](https://github.com/baidu/QCompute) pushed_at:2021-12 star:0.0k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
-- [baidu/Senta](https://github.com/baidu/Senta) pushed_at:2021-06 star:1.4k fork:0.3k Baidu's open-source Sentiment Analysis System.
+- [baidu/Senta](https://github.com/baidu/Senta) pushed_at:2021-06 star:1.5k fork:0.3k Baidu's open-source Sentiment Analysis System.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
 
 ## Ruby
@@ -150,7 +150,7 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-12 star:9.0k fork:1.2k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) pushed_at:2021-12 star:9.1k fork:1.2k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) pushed_at:2021-09 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) pushed_at:2021-12 star:0.0k fork:0.0k San SSR framework and utils
 

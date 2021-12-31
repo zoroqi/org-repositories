@@ -320,7 +320,7 @@
 - [mozilla/push-proxy](https://github.com/mozilla/push-proxy) pushed_at:2016-02 star:0.0k fork:0.0k 
 - [mozilla/renard](https://github.com/mozilla/renard) pushed_at:2020-03 star:0.0k fork:0.0k 
 - [mozilla/scribe](https://github.com/mozilla/scribe) pushed_at:2019-03 star:0.0k fork:0.0k Mozilla scribe host policy evaluator
-- [mozilla/sops](https://github.com/mozilla/sops) pushed_at:2021-12 star:8.8k fork:0.5k Simple and flexible tool for managing secrets
+- [mozilla/sops](https://github.com/mozilla/sops) pushed_at:2021-12 star:8.9k fork:0.5k Simple and flexible tool for managing secrets
 - [mozilla/sotp](https://github.com/mozilla/sotp) pushed_at:2020-08 star:0.0k fork:0.0k Get TOTP from the command line using TOTP secrets in Sops encrypted files.
 - [mozilla/tls-observatory](https://github.com/mozilla/tls-observatory) pushed_at:2021-08 star:0.5k fork:0.1k An observatory for TLS configurations, X509 certificates, and more.
 
@@ -929,7 +929,7 @@
 - [mozilla/nimble.webmaker.org](https://github.com/mozilla/nimble.webmaker.org) pushed_at:2017-05 star:0.0k fork:0.0k A Webmaker-configured version of the mozilla/nimble project. -- An in-browser version of Brackets.
 - [mozilla/node-basket](https://github.com/mozilla/node-basket) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [mozilla/node-cef](https://github.com/mozilla/node-cef) pushed_at:2012-07 star:0.0k fork:0.0k CEF Logging Library
-- [mozilla/node-client-sessions](https://github.com/mozilla/node-client-sessions) pushed_at:2020-03 star:0.7k fork:0.1k secure sessions stored in cookies
+- [mozilla/node-client-sessions](https://github.com/mozilla/node-client-sessions) pushed_at:2021-12 star:0.7k fork:0.1k secure sessions stored in cookies
 - [mozilla/node-convict](https://github.com/mozilla/node-convict) pushed_at:2021-10 star:1.9k fork:0.2k Featureful configuration management library for Node.js
 - [mozilla/node-db-migrate](https://github.com/mozilla/node-db-migrate) pushed_at:2012-10 star:0.0k fork:0.0k Database migration framework for node
 - [mozilla/node-firefox](https://github.com/mozilla/node-firefox) pushed_at:2017-12 star:0.3k fork:0.0k node.js modules for interacting with Firefox via the DevTools remote protocol
@@ -1015,7 +1015,7 @@
 - [mozilla/payments-client](https://github.com/mozilla/payments-client) pushed_at:2016-11 star:0.0k fork:0.0k JavaScript Client for mozilla/payments-ui
 - [mozilla/payments-saucelabs-browsers](https://github.com/mozilla/payments-saucelabs-browsers) pushed_at:2021-09 star:0.0k fork:0.0k Browser configuration + versions for cross-browser testing.
 - [mozilla/payments-ui](https://github.com/mozilla/payments-ui) pushed_at:2016-11 star:0.1k fork:0.0k **DEPRECATED & UNMAINTAINED** The payments frontend interface
-- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) pushed_at:2021-12 star:37.0k fork:8.6k PDF Reader in JavaScript
+- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) pushed_at:2021-12 star:37.1k fork:8.6k PDF Reader in JavaScript
 - [mozilla/pdf.js-bot](https://github.com/mozilla/pdf.js-bot) pushed_at:2019-03 star:0.0k fork:0.0k Cloud test scripts for the pdf.js project
 - [mozilla/pdfjs-dist](https://github.com/mozilla/pdfjs-dist) pushed_at:2021-12 star:0.6k fork:0.4k Generic build of PDF.js library. 
 - [mozilla/peekaboo](https://github.com/mozilla/peekaboo) pushed_at:2015-12 star:0.0k fork:0.0k Peek-a-boo! Who's visiting a Mozilla office?
@@ -1507,7 +1507,7 @@
 - [mozilla/gcp-infra](https://github.com/mozilla/gcp-infra) pushed_at:2019-06 star:0.0k fork:0.0k Google Cloud Infrastructure for Mozilla
 - [mozilla/gecko-dev](https://github.com/mozilla/gecko-dev) pushed_at:2021-12 star:2.3k fork:1.7k Read-only Git mirror of the Mercurial gecko repositories at https://hg.mozilla.org. How to contribute: http://bit.ly/contribute-code
 - [mozilla/gecko-projects](https://github.com/mozilla/gecko-projects) pushed_at:2020-05 star:0.1k fork:0.0k r/o mirror of hg.mozilla.org/projects/ -- 'master' never updated, check the branch you care about.
-- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) pushed_at:2021-12 star:5.6k fork:1.4k WebDriver for Firefox
+- [mozilla/geckodriver](https://github.com/mozilla/geckodriver) pushed_at:2021-12 star:5.7k fork:1.4k WebDriver for Firefox
 - [mozilla/gene-test](https://github.com/mozilla/gene-test) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [mozilla/geomodel](https://github.com/mozilla/geomodel) pushed_at:2019-07 star:0.0k fork:0.0k 
 - [mozilla/gha-matrixify](https://github.com/mozilla/gha-matrixify) pushed_at:2021-11 star:0.0k fork:0.0k  Mozilla Changed Directories Iteration Composite Action for Github Actions 
@@ -2356,7 +2356,7 @@
 
 - [mozilla/application-services](https://github.com/mozilla/application-services) pushed_at:2021-12 star:0.4k fork:0.2k Firefox Application Services
 - [mozilla/audio-mixer](https://github.com/mozilla/audio-mixer) pushed_at:2021-09 star:0.0k fork:0.0k An audio mixer in Rust, used in Firefox browser
-- [mozilla/audioipc-2](https://github.com/mozilla/audioipc-2) pushed_at:2021-12 star:0.0k fork:0.0k Cubeb Audio Remoting For Gecko
+- [mozilla/audioipc](https://github.com/mozilla/audioipc) pushed_at:2021-12 star:0.0k fork:0.0k Cubeb Audio Remoting For Gecko
 - [mozilla/authenticator-rs](https://github.com/mozilla/authenticator-rs) pushed_at:2021-12 star:0.1k fork:0.0k Rust library to interact with Security Keys, used by Firefox
 - [mozilla/bug-status](https://github.com/mozilla/bug-status) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [mozilla/classify-client](https://github.com/mozilla/classify-client) pushed_at:2021-05 star:0.0k fork:0.0k An optimized version of the classify client endpoint in Normandy
@@ -2392,7 +2392,7 @@
 - [mozilla/pyo3-parsepatch](https://github.com/mozilla/pyo3-parsepatch) pushed_at:2021-11 star:0.0k fork:0.0k Python wrapping for rust-parsepatch
 - [mozilla/rkv](https://github.com/mozilla/rkv) pushed_at:2021-01 star:0.2k fork:0.0k A simple, humane, typed Rust interface to LMDB.
 - [mozilla/rust-cascade](https://github.com/mozilla/rust-cascade) pushed_at:2020-04 star:0.0k fork:0.0k A filter cascade implementation in rust
-- [mozilla/rust-ece](https://github.com/mozilla/rust-ece) pushed_at:2021-08 star:0.0k fork:0.0k Encrypted Content-Encoding for HTTP (RFC 8188) Rust implementation
+- [mozilla/rust-ece](https://github.com/mozilla/rust-ece) pushed_at:2021-12 star:0.0k fork:0.0k Encrypted Content-Encoding for HTTP (RFC 8188) Rust implementation
 - [mozilla/rust-parsepatch](https://github.com/mozilla/rust-parsepatch) pushed_at:2021-12 star:0.0k fork:0.0k Git patch parser in Rust
 - [mozilla/rust-size](https://github.com/mozilla/rust-size) pushed_at:2019-04 star:0.0k fork:0.0k 
 - [mozilla/sample-tc-github-project](https://github.com/mozilla/sample-tc-github-project) pushed_at:2019-03 star:0.0k fork:0.0k Sample taskcluster-github-enabled project to demo .taskcluster.yml configuration

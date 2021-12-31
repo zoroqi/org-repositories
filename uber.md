@@ -47,18 +47,18 @@
 - [uber/assume-role-cli](https://github.com/uber/assume-role-cli) pushed_at:2020-07 star:0.0k fork:0.0k CLI for AssumeRole is a tool for running programs with temporary credentials from AWS's AssumeRole API.
 - [uber/astro](https://github.com/uber/astro) pushed_at:2020-01 star:0.4k fork:0.0k Astro is a tool for managing multiple Terraform executions as a single command
 - [uber/athenadriver](https://github.com/uber/athenadriver) pushed_at:2021-09 star:0.1k fork:0.0k A fully-featured AWS Athena database driver (+ athenareader https://github.com/uber/athenadriver/tree/master/athenareader)
-- [uber/cadence](https://github.com/uber/cadence) pushed_at:2021-12 star:5.5k fork:0.6k Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [uber/cadence](https://github.com/uber/cadence) pushed_at:2021-12 star:5.6k fork:0.6k Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [uber/cadvisor](https://github.com/uber/cadvisor) pushed_at:2021-08 star:0.0k fork:0.0k Analyzes resource usage and performance characteristics of running containers.
 - [uber/gonduit](https://github.com/uber/gonduit) pushed_at:2021-06 star:0.0k fork:0.0k A Go package for connecting to Phabricator via the Conduit API.
-- [uber/kraken](https://github.com/uber/kraken) pushed_at:2021-10 star:4.9k fork:0.3k P2P Docker registry capable of distributing TBs of data in seconds
-- [uber/pam-ussh](https://github.com/uber/pam-ussh) pushed_at:2021-08 star:0.7k fork:0.1k uber's ssh certificate pam module
+- [uber/kraken](https://github.com/uber/kraken) pushed_at:2021-12 star:4.9k fork:0.3k P2P Docker registry capable of distributing TBs of data in seconds
+- [uber/pam-ussh](https://github.com/uber/pam-ussh) pushed_at:2021-12 star:0.7k fork:0.1k uber's ssh certificate pam module
 - [uber/peloton](https://github.com/uber/peloton) pushed_at:2021-03 star:0.6k fork:0.1k Unified Resource Scheduler to co-schedule mixed types of workloads such as batch, stateless and stateful jobs in a single cluster for better resource utilization.
 - [uber/prototool](https://github.com/uber/prototool) pushed_at:2021-11 star:4.9k fork:0.3k Your Swiss Army Knife for Protocol Buffers
 - [uber/ringpop-go](https://github.com/uber/ringpop-go) pushed_at:2021-02 star:0.7k fork:0.1k Scalable, fault-tolerant application-layer sharding for Go applications
 - [uber/storagetapper](https://github.com/uber/storagetapper) pushed_at:2021-11 star:0.3k fork:0.1k StorageTapper is a scalable realtime MySQL change data streaming, logical backup and logical replication service
 - [uber/tchannel-go](https://github.com/uber/tchannel-go) pushed_at:2021-12 star:0.4k fork:0.1k Go implementation of a multiplexing and framing protocol for RPC calls
 - [uber/uberalls](https://github.com/uber/uberalls) pushed_at:2020-03 star:0.2k fork:0.0k Track code coverage metrics with Jenkins and Phabricator
-- [uber/zanzibar](https://github.com/uber/zanzibar) pushed_at:2021-12 star:0.3k fork:0.1k A build system & configuration system to generate versioned API gateways.
+- [uber/zanzibar](https://github.com/uber/zanzibar) pushed_at:2021-12 star:0.4k fork:0.1k A build system & configuration system to generate versioned API gateways.
 
 ## HTML
 
@@ -71,7 +71,7 @@
 ## Java
 
 - [uber/android-template](https://github.com/uber/android-template) pushed_at:2021-05 star:0.1k fork:0.1k This template provides a starting point for open source Android projects at Uber.
-- [uber/AutoDispose](https://github.com/uber/AutoDispose) pushed_at:2021-09 star:3.2k fork:0.2k Automatic binding+disposal of RxJava streams.
+- [uber/AutoDispose](https://github.com/uber/AutoDispose) pushed_at:2021-12 star:3.2k fork:0.2k Automatic binding+disposal of RxJava streams.
 - [uber/cadence-java-client](https://github.com/uber/cadence-java-client) pushed_at:2021-11 star:0.1k fork:0.1k Java framework for Cadence Workflow Service
 - [uber/cadence-java-samples](https://github.com/uber/cadence-java-samples) pushed_at:2021-11 star:0.1k fork:0.0k 
 - [uber/concurrency-loadbalancer](https://github.com/uber/concurrency-loadbalancer) pushed_at:2021-05 star:0.0k fork:0.0k 
@@ -79,11 +79,11 @@
 - [uber/h3-java](https://github.com/uber/h3-java) pushed_at:2021-12 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/marmaray](https://github.com/uber/marmaray) pushed_at:2021-06 star:0.4k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
 - [uber/NullAway](https://github.com/uber/NullAway) pushed_at:2021-12 star:3.0k fork:0.2k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
-- [uber/okbuck](https://github.com/uber/okbuck) pushed_at:2021-11 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
+- [uber/okbuck](https://github.com/uber/okbuck) pushed_at:2021-12 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
 - [uber/phabricator-jenkins-plugin](https://github.com/uber/phabricator-jenkins-plugin) pushed_at:2021-01 star:0.4k fork:0.1k Jenkins plugin to integrate with Phabricator, Harbormaster, and Uberalls
 - [uber/piranha](https://github.com/uber/piranha) pushed_at:2021-12 star:1.8k fork:0.1k A tool for refactoring code related to feature flag APIs
 - [uber/RemoteShuffleService](https://github.com/uber/RemoteShuffleService) pushed_at:2021-07 star:0.1k fork:0.1k Remote shuffle service for Apache Spark to store shuffle data on remote servers. 
-- [uber/RIBs](https://github.com/uber/RIBs) pushed_at:2021-11 star:6.6k fork:0.8k Uber's cross-platform mobile architecture framework.
+- [uber/RIBs](https://github.com/uber/RIBs) pushed_at:2021-12 star:6.7k fork:0.8k Uber's cross-platform mobile architecture framework.
 - [uber/rides-android-sdk](https://github.com/uber/rides-android-sdk) pushed_at:2021-08 star:0.3k fork:0.1k Uber Rides Android SDK (beta)
 - [uber/rides-java-sdk](https://github.com/uber/rides-java-sdk) pushed_at:2018-11 star:0.1k fork:0.1k Uber Rides Java SDK (beta)
 - [uber/RxCentralBle](https://github.com/uber/RxCentralBle) pushed_at:2021-06 star:0.2k fork:0.0k A reactive, interface-driven central role Bluetooth LE library for Android
@@ -209,7 +209,7 @@
 - [uber/swift-abstract-class](https://github.com/uber/swift-abstract-class) pushed_at:2019-12 star:0.1k fork:0.0k Compile-time abstract class validation for Swift
 - [uber/swift-common](https://github.com/uber/swift-common) pushed_at:2020-11 star:0.0k fork:0.0k Common code used by various Uber open source projects
 - [uber/swift-concurrency](https://github.com/uber/swift-concurrency) pushed_at:2020-05 star:0.3k fork:0.0k Concurrency utilities for Swift
-- [uber/SwiftCodeSan](https://github.com/uber/SwiftCodeSan) pushed_at:2021-05 star:0.1k fork:0.0k SwiftCodeSan is a tool that "sanitizes" code written in Swift.
+- [uber/SwiftCodeSan](https://github.com/uber/SwiftCodeSan) pushed_at:2021-12 star:0.1k fork:0.0k SwiftCodeSan is a tool that "sanitizes" code written in Swift.
 - [uber/UBTokenBar](https://github.com/uber/UBTokenBar) pushed_at:2017-03 star:0.1k fork:0.0k Flexible and extensible UICollectionView based TokenBar written in Swift
 
 ## Thrift

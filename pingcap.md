@@ -69,7 +69,7 @@
 - [pingcap/gardener-extension-os-ubuntu-tidb](https://github.com/pingcap/gardener-extension-os-ubuntu-tidb) pushed_at:2020-04 star:0.0k fork:0.0k 
 - [pingcap/go-randgen](https://github.com/pingcap/go-randgen) pushed_at:2021-08 star:0.1k fork:0.0k a QA tool to random generate sql by bnf pattern
 - [pingcap/go-themis](https://github.com/pingcap/go-themis) pushed_at:2018-12 star:0.0k fork:0.0k themis-client go implementation
-- [pingcap/go-tpc](https://github.com/pingcap/go-tpc) pushed_at:2021-12 star:0.1k fork:0.0k A toolbox to benchmark TPC workloads in Go 
+- [pingcap/go-tpc](https://github.com/pingcap/go-tpc) pushed_at:2021-12 star:0.1k fork:0.1k A toolbox to benchmark TPC workloads in Go 
 - [pingcap/go-ycsb](https://github.com/pingcap/go-ycsb) pushed_at:2021-12 star:0.4k fork:0.1k A Go port of Yahoo! Cloud Serving Benchmark (YCSB) 
 - [pingcap/gofail](https://github.com/pingcap/gofail) pushed_at:2018-12 star:0.0k fork:0.0k failpoints for go
 - [pingcap/goleveldb](https://github.com/pingcap/goleveldb) pushed_at:2019-12 star:0.0k fork:0.0k LevelDB key/value database in Go.
@@ -84,9 +84,9 @@
 - [pingcap/ng-monitoring](https://github.com/pingcap/ng-monitoring) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [pingcap/octopus](https://github.com/pingcap/octopus) pushed_at:2019-06 star:0.0k fork:0.0k A toolkit including many powerful distributed test tools
 - [pingcap/os-ubuntu-tikv](https://github.com/pingcap/os-ubuntu-tikv) pushed_at:2020-06 star:0.0k fork:0.0k 
-- [pingcap/parser](https://github.com/pingcap/parser) pushed_at:2021-12 star:1.1k fork:0.4k A MySQL Compatible SQL Parser
+- [pingcap/parser](https://github.com/pingcap/parser) pushed_at:2021-12 star:1.1k fork:0.5k A MySQL Compatible SQL Parser
 - [pingcap/sysutil](https://github.com/pingcap/sysutil) pushed_at:2021-12 star:0.0k fork:0.0k sysutil is a library which implementats the gRPC service Diagnostics and shares the diagnostics functions between TiDB and PD.
-- [pingcap/tidb](https://github.com/pingcap/tidb) pushed_at:2021-12 star:29.9k fork:4.8k TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
+- [pingcap/tidb](https://github.com/pingcap/tidb) pushed_at:2021-12 star:30.0k fork:4.8k TiDB is an open source distributed HTAP database compatible with the MySQL protocol 
 - [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) pushed_at:2021-12 star:0.3k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
 - [pingcap/tidb-cloud-backup](https://github.com/pingcap/tidb-cloud-backup) pushed_at:2020-02 star:0.0k fork:0.0k 
 - [pingcap/tidb-ctl](https://github.com/pingcap/tidb-ctl) pushed_at:2020-12 star:0.0k fork:0.0k TiDB Controller
@@ -133,7 +133,7 @@
 
 ## Others
 
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2021-09 star:4.0k fork:0.5k A list of learning materials to understand databases internals
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2021-09 star:4.1k fork:0.5k A list of learning materials to understand databases internals
 - [pingcap/blog-jp](https://github.com/pingcap/blog-jp) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [pingcap/community](https://github.com/pingcap/community) pushed_at:2021-12 star:0.2k fork:0.1k TiDB community content
 - [pingcap/hibernate-tidb](https://github.com/pingcap/hibernate-tidb) pushed_at:2021-08 star:0.0k fork:0.0k 

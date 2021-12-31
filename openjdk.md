@@ -46,7 +46,7 @@
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) pushed_at:2021-04 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/friday-stats/
 - [openjdk/jcov](https://github.com/openjdk/jcov) pushed_at:2021-08 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) pushed_at:2021-12 star:0.2k fork:0.0k https://openjdk.java.net/projects/code-tools/jcstress/
-- [openjdk/jdk](https://github.com/openjdk/jdk) pushed_at:2021-12 star:11.8k fork:3.0k JDK main-line development
+- [openjdk/jdk](https://github.com/openjdk/jdk) pushed_at:2021-12 star:11.9k fork:3.1k JDK main-line development
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) pushed_at:2021-12 star:0.0k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) pushed_at:2020-08 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk/jdk10
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) pushed_at:2021-12 star:0.1k fork:0.1k https://openjdk.java.net/projects/jdk-updates/
@@ -81,7 +81,7 @@
 - [openjdk/jmc7](https://github.com/openjdk/jmc7) pushed_at:2021-03 star:0.0k fork:0.0k https://openjdk.java.net/projects/jmc/
 - [openjdk/jmh](https://github.com/openjdk/jmh) pushed_at:2021-12 star:0.7k fork:0.1k https://openjdk.java.net/projects/code-tools/jmh/
 - [openjdk/jmh-jdk-microbenchmarks](https://github.com/openjdk/jmh-jdk-microbenchmarks) pushed_at:2021-06 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/jmh-jdk-microbenchmarks/
-- [openjdk/jol](https://github.com/openjdk/jol) pushed_at:2021-12 star:0.3k fork:0.0k https://openjdk.java.net/projects/code-tools/jol/
+- [openjdk/jol](https://github.com/openjdk/jol) pushed_at:2021-12 star:0.4k fork:0.0k https://openjdk.java.net/projects/code-tools/jol/
 - [openjdk/jtharness](https://github.com/openjdk/jtharness) pushed_at:2021-12 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/JT+Harness
 - [openjdk/jtreg](https://github.com/openjdk/jtreg) pushed_at:2021-12 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/jtreg/
 - [openjdk/lanai](https://github.com/openjdk/lanai) pushed_at:2021-03 star:0.0k fork:0.0k https://openjdk.java.net/projects/lanai/

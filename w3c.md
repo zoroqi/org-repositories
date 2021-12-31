@@ -126,7 +126,7 @@
 - [w3c/did-core](https://github.com/w3c/did-core) pushed_at:2021-12 star:0.2k fork:0.1k W3C Decentralized Identifier Specification v1.0
 - [w3c/did-imp-guide](https://github.com/w3c/did-imp-guide) pushed_at:2021-12 star:0.0k fork:0.0k DID Implementation Guide (Note)
 - [w3c/did-rubric](https://github.com/w3c/did-rubric) pushed_at:2021-12 star:0.0k fork:0.0k W3C Decentralized Characteristics Rubric v1.0
-- [w3c/did-spec-registries](https://github.com/w3c/did-spec-registries) pushed_at:2021-12 star:0.0k fork:0.1k DID Spec Registry (Note)
+- [w3c/did-spec-registries](https://github.com/w3c/did-spec-registries) pushed_at:2021-12 star:0.1k fork:0.1k DID Spec Registry (Note)
 - [w3c/did-test-suite](https://github.com/w3c/did-test-suite) pushed_at:2021-11 star:0.0k fork:0.0k W3C DID Test Suite and Implementation Report
 - [w3c/did-use-cases](https://github.com/w3c/did-use-cases) pushed_at:2021-06 star:0.0k fork:0.0k Decentralized Identifier Use Cases and Requirements v1.0
 - [w3c/did-wg](https://github.com/w3c/did-wg) pushed_at:2021-12 star:0.0k fork:0.0k Home page of the Decentralized Identifier Working Group
@@ -179,7 +179,7 @@
 - [w3c/findtext](https://github.com/w3c/findtext) pushed_at:2019-03 star:0.0k fork:0.0k An API spec to define how to find text in a Web document, using basic information, and return DOM ranges 
 - [w3c/fingerprinting-guidance](https://github.com/w3c/fingerprinting-guidance) pushed_at:2021-09 star:0.0k fork:0.0k What is browser fingerprinting and how should specification authors address it.
 - [w3c/fxtf-drafts](https://github.com/w3c/fxtf-drafts) pushed_at:2021-12 star:0.0k fork:0.0k Mirror of https://hg.fxtf.org/drafts
-- [w3c/gamepad](https://github.com/w3c/gamepad) pushed_at:2021-11 star:0.1k fork:0.0k Gamepad
+- [w3c/gamepad](https://github.com/w3c/gamepad) pushed_at:2021-12 star:0.1k fork:0.0k Gamepad
 - [w3c/games-workshop](https://github.com/w3c/games-workshop) pushed_at:2021-01 star:0.0k fork:0.0k Website of W3C workshop on Web games, June 27-28 2019
 - [w3c/gargantua](https://github.com/w3c/gargantua) pushed_at:2021-12 star:0.0k fork:0.0k API to gather W3C information
 - [w3c/geekweek2020](https://github.com/w3c/geekweek2020) pushed_at:2020-09 star:0.0k fork:0.0k The most fun you can have.....
@@ -641,7 +641,7 @@
 - [w3c/apiary](https://github.com/w3c/apiary) pushed_at:2020-08 star:0.0k fork:0.0k Simple JS library to use the W3C API in a declarative way
 - [w3c/aria-at-app](https://github.com/w3c/aria-at-app) pushed_at:2021-12 star:0.0k fork:0.0k Test runner and results reporter for ARIA-AT
 - [w3c/aria-common](https://github.com/w3c/aria-common) pushed_at:2021-12 star:0.0k fork:0.0k Shared files for the ARIA repositories
-- [w3c/aria-practices](https://github.com/w3c/aria-practices) pushed_at:2021-12 star:0.7k fork:0.1k WAI-ARIA Authoring Practices
+- [w3c/aria-practices](https://github.com/w3c/aria-practices) pushed_at:2021-12 star:0.8k fork:0.1k WAI-ARIA Authoring Practices
 - [w3c/ash-nazg](https://github.com/w3c/ash-nazg) pushed_at:2021-10 star:0.0k fork:0.0k One interface to find all group contributors and in IPR bind them
 - [w3c/browser-compat-data](https://github.com/w3c/browser-compat-data) pushed_at:2021-12 star:0.0k fork:0.0k Fork of MDN browser-compat-data that removes mdn_url 404s
 - [w3c/browser-specs](https://github.com/w3c/browser-specs) pushed_at:2021-12 star:0.1k fork:0.0k A machine-readable list of specifications used to build Web browsers
@@ -991,7 +991,7 @@
 - [w3c/musicxml](https://github.com/w3c/musicxml) pushed_at:2021-08 star:0.4k fork:0.1k MusicXML specification
 - [w3c/ttml2](https://github.com/w3c/ttml2) pushed_at:2021-08 star:0.0k fork:0.0k Timed Text Markup Language 2 (TTML2)
 - [w3c/ttml3](https://github.com/w3c/ttml3) pushed_at:2021-08 star:0.0k fork:0.0k Timed Text Markup Language 3 (TTML3)
-- [w3c/xslt30-test](https://github.com/w3c/xslt30-test) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [w3c/xslt30-test](https://github.com/w3c/xslt30-test) pushed_at:2021-12 star:0.0k fork:0.0k 
 
 
 ## License

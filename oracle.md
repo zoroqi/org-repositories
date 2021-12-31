@@ -71,7 +71,7 @@
 
 - [oracle/accelerators](https://github.com/oracle/accelerators) pushed_at:2019-10 star:0.0k fork:0.1k Open Source Accelerator samples and tools for the Oracle Service Cloud (OSvC) development community
 - [oracle/coherence-dotnet-extend-client](https://github.com/oracle/coherence-dotnet-extend-client) pushed_at:2021-12 star:0.0k fork:0.0k Coherence .NET client library
-- [oracle/dotnet-db-samples](https://github.com/oracle/dotnet-db-samples) pushed_at:2021-10 star:0.3k fork:0.2k .NET code samples for Oracle database developers
+- [oracle/dotnet-db-samples](https://github.com/oracle/dotnet-db-samples) pushed_at:2021-12 star:0.3k fork:0.2k .NET code samples for Oracle database developers
 - [oracle/nosql-dotnet-sdk](https://github.com/oracle/nosql-dotnet-sdk) pushed_at:2021-11 star:0.0k fork:0.0k A .NET SDK for Oracle NoSQL Database
 - [oracle/oci-dotnet-sdk](https://github.com/oracle/oci-dotnet-sdk) pushed_at:2021-12 star:0.0k fork:0.0k Oracle Cloud Infrastructure SDK for .NET
 - [oracle/oci-powershell-modules](https://github.com/oracle/oci-powershell-modules) pushed_at:2021-12 star:0.0k fork:0.0k Oracle Cloud Infrastructure Modules for PowerShell
@@ -203,7 +203,7 @@
 - [oracle/osb-kafka-transport](https://github.com/oracle/osb-kafka-transport) pushed_at:2017-03 star:0.0k fork:0.0k OSB Transport for Apache Kafka provides inbound and outbound connectivity with Kafka Clusters.
 - [oracle/pgql-lang](https://github.com/oracle/pgql-lang) pushed_at:2021-12 star:0.1k fork:0.0k PGQL is an SQL-based query language for the Property Graph data model
 - [oracle/pushiomanager-cordova-plugin](https://github.com/oracle/pushiomanager-cordova-plugin) pushed_at:2021-05 star:0.0k fork:0.0k Cordova Plugin for Oracle Responsys Mobile SDK
-- [oracle/pushiomanager-react-native](https://github.com/oracle/pushiomanager-react-native) pushed_at:2021-11 star:0.0k fork:0.0k React Native Module for Responsys SDK
+- [oracle/pushiomanager-react-native](https://github.com/oracle/pushiomanager-react-native) pushed_at:2021-12 star:0.0k fork:0.0k React Native Module for Responsys SDK
 - [oracle/sales-cloud-with-paas-samples](https://github.com/oracle/sales-cloud-with-paas-samples) pushed_at:2018-08 star:0.0k fork:0.0k Official Oracle samples created to support developers using Oracle PaaS to integrate with and extend the capabilities of Oracle Sales Cloud. Security is a primary focus for most of these samples.
 - [oracle/soda-for-java](https://github.com/oracle/soda-for-java) pushed_at:2021-04 star:0.1k fork:0.0k SODA (Simple Oracle Document Access) for Java is an Oracle library for writing Java apps that work with JSON (and not only JSON!) in the Oracle Database. SODA allows your Java app to use the Oracle Database as a NoSQL document store.
 - [oracle/spacewalk](https://github.com/oracle/spacewalk) pushed_at:2021-09 star:0.0k fork:0.0k The master repository for Oracle Linux Manager, based on the Spacewalk Project.
@@ -332,7 +332,7 @@
 - [oracle/nosql-python-sdk](https://github.com/oracle/nosql-python-sdk) pushed_at:2021-12 star:0.0k fork:0.0k Python SDK for Oracle NoSQL Database
 - [oracle/oci-ansible-collection](https://github.com/oracle/oci-ansible-collection) pushed_at:2021-12 star:0.1k fork:0.0k Oracle Cloud Infrastructure Ansible Collection provides an easy way to provision and manage resources in Oracle Cloud using Ansible.
 - [oracle/oci-ansible-modules](https://github.com/oracle/oci-ansible-modules) pushed_at:2021-05 star:0.1k fork:0.1k DEPRECATED - Please migrate to the new OCI Ansible collection (https://github.com/oracle/oci-ansible-collection).
-- [oracle/oci-cli](https://github.com/oracle/oci-cli) pushed_at:2021-12 star:0.2k fork:0.1k Command Line Interface for Oracle Cloud Infrastructure
+- [oracle/oci-cli](https://github.com/oracle/oci-cli) pushed_at:2021-12 star:0.3k fork:0.1k Command Line Interface for Oracle Cloud Infrastructure
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) pushed_at:2021-12 star:0.2k fork:0.2k Oracle Cloud Infrastructure SDK for Python
 - [oracle/oci-utils](https://github.com/oracle/oci-utils) pushed_at:2021-09 star:0.0k fork:0.0k   Oracle Cloud Infrastructure utilities
 - [oracle/oracle-dataflow-samples](https://github.com/oracle/oracle-dataflow-samples) pushed_at:2021-10 star:0.0k fork:0.0k Sample examples Examples demonstrating how to use OCI  Data Flow
@@ -383,7 +383,7 @@
 
 ## Shell
 
-- [oracle/centos2ol](https://github.com/oracle/centos2ol) pushed_at:2021-10 star:0.2k fork:0.1k Script and documentation to switch CentOS Linux to Oracle Linux
+- [oracle/centos2ol](https://github.com/oracle/centos2ol) pushed_at:2021-10 star:0.3k fork:0.1k Script and documentation to switch CentOS Linux to Oracle Linux
 - [oracle/cloud-asset-ics-agentkeystore-scripts](https://github.com/oracle/cloud-asset-ics-agentkeystore-scripts) pushed_at:2018-11 star:0.0k fork:0.0k 
 - [oracle/db-appdev-vm](https://github.com/oracle/db-appdev-vm) pushed_at:2018-12 star:0.1k fork:0.0k Database Application Development Virtual Machine
 - [oracle/docker-images](https://github.com/oracle/docker-images) pushed_at:2021-12 star:5.1k fork:4.7k Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects

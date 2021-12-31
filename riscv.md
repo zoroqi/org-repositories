@@ -43,7 +43,7 @@
 ## Makefile
 
 - [riscv/riscv-aclint](https://github.com/riscv/riscv-aclint) pushed_at:2021-12 star:0.0k fork:0.0k 
-- [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) pushed_at:2021-12 star:0.2k fork:0.0k Working draft of the proposed RISC-V Bitmanipulation extension
+- [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) pushed_at:2021-12 star:0.2k fork:0.1k Working draft of the proposed RISC-V Bitmanipulation extension
 - [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2021-12 star:0.1k fork:0.0k RISC-V Profiles and Platform Specification
 - [riscv/riscv-semihosting-spec](https://github.com/riscv/riscv-semihosting-spec) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [riscv/riscv-tee](https://github.com/riscv/riscv-tee) pushed_at:2021-11 star:0.0k fork:0.0k 
@@ -72,7 +72,7 @@
 - [riscv/docs-templates](https://github.com/riscv/docs-templates) pushed_at:2021-12 star:0.0k fork:0.0k Documentation templates and build tools
 - [riscv/riscv-count-overflow](https://github.com/riscv/riscv-count-overflow) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) pushed_at:2021-12 star:0.3k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
-- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2021-12 star:1.7k fork:0.4k RISC-V Instruction Set Manual
+- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2021-12 star:1.8k fork:0.4k RISC-V Instruction Set Manual
 - [riscv/riscv-state-enable](https://github.com/riscv/riscv-state-enable) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [riscv/riscv-time-compare](https://github.com/riscv/riscv-time-compare) pushed_at:2021-10 star:0.0k fork:0.0k 
 

@@ -65,7 +65,7 @@
 
 ## Go
 
-- [Netflix/bettertls](https://github.com/Netflix/bettertls) pushed_at:2021-10 star:0.1k fork:0.0k BetterTLS:  A Name Constraints test suite for HTTPS clients.
+- [Netflix/bettertls](https://github.com/Netflix/bettertls) pushed_at:2021-12 star:0.1k fork:0.0k BetterTLS:  A Name Constraints test suite for HTTPS clients.
 - [Netflix/chaosmonkey](https://github.com/Netflix/chaosmonkey) pushed_at:2021-06 star:11.7k fork:0.9k Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.
 - [Netflix/go-env](https://github.com/Netflix/go-env) pushed_at:2021-04 star:0.4k fork:0.0k a golang library to manage environment variables
 - [Netflix/go-expect](https://github.com/Netflix/go-expect) pushed_at:2021-10 star:0.3k fork:0.0k an expect-like golang library to automate control of terminal or console based programs.
@@ -124,7 +124,7 @@
 - [Netflix/dynomite-manager](https://github.com/Netflix/dynomite-manager) pushed_at:2021-11 star:0.1k fork:0.1k A sidecar to manage Dynomite clusters
 - [Netflix/eclipse-jifa](https://github.com/Netflix/eclipse-jifa) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [Netflix/edda-client](https://github.com/Netflix/edda-client) pushed_at:2017-04 star:0.0k fork:0.0k 
-- [Netflix/eureka](https://github.com/Netflix/eureka) pushed_at:2021-11 star:10.9k fork:3.4k AWS Service registry for resilient mid-tier load balancing and failover.
+- [Netflix/eureka](https://github.com/Netflix/eureka) pushed_at:2021-11 star:11.0k fork:3.4k AWS Service registry for resilient mid-tier load balancing and failover.
 - [Netflix/EVCache](https://github.com/Netflix/EVCache) pushed_at:2021-11 star:1.7k fork:0.2k A distributed in-memory data store for the cloud
 - [Netflix/fabricator](https://github.com/Netflix/fabricator) pushed_at:2016-10 star:0.0k fork:0.0k 
 - [Netflix/Fenzo](https://github.com/Netflix/Fenzo) pushed_at:2021-08 star:0.7k fork:0.1k Extensible Scheduler for Mesos Frameworks
@@ -134,7 +134,7 @@
 - [Netflix/gradle-template](https://github.com/Netflix/gradle-template) pushed_at:2020-05 star:0.2k fork:0.1k 
 - [Netflix/hollow](https://github.com/Netflix/hollow) pushed_at:2021-12 star:1.0k fork:0.2k Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access.
 - [Netflix/hollow-reference-implementation](https://github.com/Netflix/hollow-reference-implementation) pushed_at:2021-09 star:0.0k fork:0.0k A reference implementation of Hollow -- designed to get you up and running in minutes.
-- [Netflix/Hystrix](https://github.com/Netflix/Hystrix) pushed_at:2021-12 star:22.2k fork:4.5k Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+- [Netflix/Hystrix](https://github.com/Netflix/Hystrix) pushed_at:2021-12 star:22.3k fork:4.5k Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [Netflix/iceberg](https://github.com/Netflix/iceberg) pushed_at:2021-11 star:0.4k fork:0.1k Iceberg is a table format for large, slow-moving tabular data
 - [Netflix/iep](https://github.com/Netflix/iep) pushed_at:2021-12 star:0.1k fork:0.0k Insight Engineering Platform Components
 - [Netflix/karyon](https://github.com/Netflix/karyon) pushed_at:2021-11 star:0.5k fork:0.2k The nucleus or the base container for Applications and Services built using the NetflixOSS ecosystem
@@ -200,7 +200,7 @@
 - [Netflix/Lipstick](https://github.com/Netflix/Lipstick) pushed_at:2018-01 star:0.5k fork:0.1k Pig Visualization framework
 - [Netflix/mantis-cli](https://github.com/Netflix/mantis-cli) pushed_at:2021-11 star:0.0k fork:0.0k CLI for managing Mantis clusters from the command line
 - [Netflix/nerror](https://github.com/Netflix/nerror) pushed_at:2021-10 star:0.1k fork:0.0k nerror: rich JavaScript errors
-- [Netflix/pollyjs](https://github.com/Netflix/pollyjs) pushed_at:2021-12 star:9.5k fork:0.4k Record, Replay, and Stub HTTP Interactions.
+- [Netflix/pollyjs](https://github.com/Netflix/pollyjs) pushed_at:2021-12 star:9.6k fork:0.4k Record, Replay, and Stub HTTP Interactions.
 - [Netflix/pytheas](https://github.com/Netflix/pytheas) pushed_at:2016-11 star:0.2k fork:0.1k Web Resources and UI Framework
 - [Netflix/spectator-js](https://github.com/Netflix/spectator-js) pushed_at:2021-10 star:0.0k fork:0.0k Library for instrumenting Node.js applications using a dimensional data model
 - [Netflix/tslint-config-netflix](https://github.com/Netflix/tslint-config-netflix) pushed_at:2018-08 star:0.0k fork:0.0k 
@@ -220,7 +220,7 @@
 - [Netflix/dgs-codegen](https://github.com/Netflix/dgs-codegen) pushed_at:2021-12 star:0.1k fork:0.0k 
 - [Netflix/dgs-examples-kotlin](https://github.com/Netflix/dgs-examples-kotlin) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [Netflix/dgs-federation-example](https://github.com/Netflix/dgs-federation-example) pushed_at:2021-12 star:0.0k fork:0.0k 
-- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) pushed_at:2021-12 star:2.0k fork:0.1k GraphQL for Java with Spring Boot made easy.
+- [Netflix/dgs-framework](https://github.com/Netflix/dgs-framework) pushed_at:2021-12 star:2.1k fork:0.2k GraphQL for Java with Spring Boot made easy.
 - [Netflix/dgs-intellij-plugin](https://github.com/Netflix/dgs-intellij-plugin) pushed_at:2021-12 star:0.0k fork:0.0k 
 
 ## Makefile
@@ -264,7 +264,7 @@
 - [Netflix/repokid](https://github.com/Netflix/repokid) pushed_at:2021-08 star:1.0k fork:0.1k AWS Least Privilege for Distributed, High-Velocity Deployment
 - [Netflix/security_monkey](https://github.com/Netflix/security_monkey) pushed_at:2021-02 star:4.2k fork:0.8k Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 - [Netflix/spectator-py](https://github.com/Netflix/spectator-py) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [Netflix/sureal](https://github.com/Netflix/sureal) pushed_at:2021-10 star:0.1k fork:0.0k Subjective quality scores recovery from noisy measurements.
+- [Netflix/sureal](https://github.com/Netflix/sureal) pushed_at:2021-12 star:0.1k fork:0.0k Subjective quality scores recovery from noisy measurements.
 - [Netflix/vmaf](https://github.com/Netflix/vmaf) pushed_at:2021-12 star:2.7k fork:0.6k Perceptual video quality assessment based on multi-method fusion.
 
 ## R

@@ -55,10 +55,10 @@
 - [deepmind/3d-shapes](https://github.com/deepmind/3d-shapes) pushed_at:2019-03 star:0.1k fork:0.0k This repository contains the 3D shapes dataset, used in Kim, Hyunjik and Mnih, Andriy. "Disentangling by Factorising." In Proceedings of the 35th International Conference on Machine Learning (ICML). 2018. to assess the disentanglement properties of unsupervised learning methods.
 - [deepmind/arnheim](https://github.com/deepmind/arnheim) pushed_at:2021-12 star:0.2k fork:0.0k 
 - [deepmind/dd_two_player_games](https://github.com/deepmind/dd_two_player_games) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) pushed_at:2021-12 star:9.2k fork:1.9k This repository contains implementations and illustrative code to accompany DeepMind publications
+- [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) pushed_at:2021-12 star:9.3k fork:1.9k This repository contains implementations and illustrative code to accompany DeepMind publications
 - [deepmind/dsprites-dataset](https://github.com/deepmind/dsprites-dataset) pushed_at:2021-01 star:0.4k fork:0.1k Dataset to assess the disentanglement properties of unsupervised learning methods
 - [deepmind/EDDICT](https://github.com/deepmind/EDDICT) pushed_at:2021-12 star:0.0k fork:0.0k 
-- [deepmind/educational](https://github.com/deepmind/educational) pushed_at:2021-12 star:0.2k fork:0.0k 
+- [deepmind/educational](https://github.com/deepmind/educational) pushed_at:2021-12 star:0.3k fork:0.0k 
 - [deepmind/mathematics_conjectures](https://github.com/deepmind/mathematics_conjectures) pushed_at:2021-12 star:0.2k fork:0.0k 
 - [deepmind/mc_gradients](https://github.com/deepmind/mc_gradients) pushed_at:2021-08 star:0.1k fork:0.0k 
 - [deepmind/neural-processes](https://github.com/deepmind/neural-processes) pushed_at:2021-01 star:0.8k fork:0.1k This repository contains notebook implementations of the following Neural Process variants: Conditional Neural Processes (CNPs), Neural Processes (NPs), Attentive Neural Processes (ANPs).
@@ -99,7 +99,7 @@
 
 ## Python
 
-- [deepmind/acme](https://github.com/deepmind/acme) pushed_at:2021-12 star:2.4k fork:0.3k A library of reinforcement learning components and agents
+- [deepmind/acme](https://github.com/deepmind/acme) pushed_at:2021-12 star:2.5k fork:0.3k A library of reinforcement learning components and agents
 - [deepmind/active_ops](https://github.com/deepmind/active_ops) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [deepmind/affordances_option_models](https://github.com/deepmind/affordances_option_models) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [deepmind/ai-safety-gridworlds](https://github.com/deepmind/ai-safety-gridworlds) pushed_at:2020-10 star:0.5k fork:0.1k This is a suite of reinforcement learning environments illustrating various safety properties of intelligent agents.
@@ -109,7 +109,7 @@
 - [deepmind/brave](https://github.com/deepmind/brave) pushed_at:2021-10 star:0.0k fork:0.0k A JAX implementation of Broaden Your Views for Self-Supervised Video Learning, or BraVe for short.
 - [deepmind/bsuite](https://github.com/deepmind/bsuite) pushed_at:2021-12 star:1.3k fork:0.2k bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
 - [deepmind/chex](https://github.com/deepmind/chex) pushed_at:2021-12 star:0.4k fork:0.0k 
-- [deepmind/clrs](https://github.com/deepmind/clrs) pushed_at:2021-11 star:0.1k fork:0.0k 
+- [deepmind/clrs](https://github.com/deepmind/clrs) pushed_at:2021-12 star:0.1k fork:0.0k 
 - [deepmind/deep-verify](https://github.com/deepmind/deep-verify) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [deepmind/detcon](https://github.com/deepmind/detcon) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [deepmind/diplomacy](https://github.com/deepmind/diplomacy) pushed_at:2021-12 star:0.0k fork:0.0k 
@@ -136,14 +136,14 @@
 - [deepmind/fancyflags](https://github.com/deepmind/fancyflags) pushed_at:2021-12 star:0.0k fork:0.0k A Python library for defining flat or nested dictionary flags.
 - [deepmind/ferminet](https://github.com/deepmind/ferminet) pushed_at:2021-12 star:0.4k fork:0.1k An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
 - [deepmind/gqn-datasets](https://github.com/deepmind/gqn-datasets) pushed_at:2021-02 star:0.3k fork:0.0k Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper.
-- [deepmind/graph_nets](https://github.com/deepmind/graph_nets) pushed_at:2020-12 star:5.0k fork:0.8k Build Graph Nets in Tensorflow
+- [deepmind/graph_nets](https://github.com/deepmind/graph_nets) pushed_at:2020-12 star:5.1k fork:0.8k Build Graph Nets in Tensorflow
 - [deepmind/grid-cells](https://github.com/deepmind/grid-cells) pushed_at:2020-10 star:0.2k fork:0.1k Implementation of the supervised learning experiments in Vector-based navigation using grid-like representations in artificial agents, as published at https://www.nature.com/articles/s41586-018-0102-6
 - [deepmind/hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment) pushed_at:2021-08 star:0.6k fork:0.1k hanabi_learning_environment is a research platform for Hanabi experiments.
 - [deepmind/interval-bound-propagation](https://github.com/deepmind/interval-bound-propagation) pushed_at:2019-12 star:0.1k fork:0.0k This repository contains a simple implementation of Interval Bound Propagation (IBP) using TensorFlow: https://arxiv.org/abs/1810.12715
 - [deepmind/jax_verify](https://github.com/deepmind/jax_verify) pushed_at:2021-12 star:0.1k fork:0.0k Neural network verification in JAX
 - [deepmind/jaxline](https://github.com/deepmind/jaxline) pushed_at:2021-11 star:0.1k fork:0.0k 
 - [deepmind/jmp](https://github.com/deepmind/jmp) pushed_at:2021-10 star:0.1k fork:0.0k JMP is a Mixed Precision library for JAX.
-- [deepmind/jraph](https://github.com/deepmind/jraph) pushed_at:2021-11 star:0.8k fork:0.0k A Graph Neural Network Library in Jax
+- [deepmind/jraph](https://github.com/deepmind/jraph) pushed_at:2021-12 star:0.8k fork:0.0k A Graph Neural Network Library in Jax
 - [deepmind/kinetics-i3d](https://github.com/deepmind/kinetics-i3d) pushed_at:2019-09 star:1.5k fork:0.4k Convolutional neural network model for video classification trained on the Kinetics dataset.
 - [deepmind/lamb](https://github.com/deepmind/lamb) pushed_at:2020-04 star:0.1k fork:0.0k LAnguage Modelling Benchmarks
 - [deepmind/launchpad](https://github.com/deepmind/launchpad) pushed_at:2021-12 star:0.2k fork:0.0k 

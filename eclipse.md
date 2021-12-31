@@ -319,7 +319,7 @@
 - [eclipse/lyo.trs-client](https://github.com/eclipse/lyo.trs-client) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [eclipse/lyo.trs-server](https://github.com/eclipse/lyo.trs-server) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [eclipse/lyo.validation](https://github.com/eclipse/lyo.validation) pushed_at:2021-09 star:0.0k fork:0.0k lyo validation
-- [eclipse/microprofile](https://github.com/eclipse/microprofile) pushed_at:2021-12 star:0.5k fork:0.1k Repository for important documentation - the index to the project / community
+- [eclipse/microprofile](https://github.com/eclipse/microprofile) pushed_at:2021-12 star:0.6k fork:0.1k Repository for important documentation - the index to the project / community
 - [eclipse/microprofile-conference](https://github.com/eclipse/microprofile-conference) pushed_at:2021-12 star:0.1k fork:0.1k Microprofile.io Demo Code - Web Services Conference Application
 - [eclipse/microprofile-config](https://github.com/eclipse/microprofile-config) pushed_at:2021-11 star:0.2k fork:0.1k MicroProfile Configuration Feature
 - [eclipse/microprofile-context-propagation](https://github.com/eclipse/microprofile-context-propagation) pushed_at:2021-11 star:0.0k fork:0.0k 
@@ -374,9 +374,9 @@
 - [eclipse/scanning](https://github.com/eclipse/scanning) pushed_at:2021-02 star:0.0k fork:0.0k Scanning is an open source project for moving scientific instruments and writing NeXus (http://www.nexusformat.org/) compliant files. It is designed to be control system neutral, EPICS, TANGO etc. may be used. See https://projects.eclipse.org/proposals/scanning and https://github.com/eclipse/scanning/blob/master/GETTINGSTARTED.pdf
 - [eclipse/sequoyah](https://github.com/eclipse/sequoyah) pushed_at:2012-09 star:0.0k fork:0.0k Sequoyah project repository (sequoyah)
 - [eclipse/shellwax](https://github.com/eclipse/shellwax) pushed_at:2021-11 star:0.0k fork:0.0k 
-- [eclipse/sisu.inject](https://github.com/eclipse/sisu.inject) pushed_at:2021-11 star:0.0k fork:0.0k Sisu Inject
+- [eclipse/sisu.inject](https://github.com/eclipse/sisu.inject) pushed_at:2021-12 star:0.0k fork:0.0k Sisu Inject
 - [eclipse/sisu.mojos](https://github.com/eclipse/sisu.mojos) pushed_at:2021-12 star:0.0k fork:0.0k Sisu Mojos
-- [eclipse/sisu.plexus](https://github.com/eclipse/sisu.plexus) pushed_at:2021-10 star:0.0k fork:0.0k Sisu Plexus
+- [eclipse/sisu.plexus](https://github.com/eclipse/sisu.plexus) pushed_at:2021-12 star:0.0k fork:0.0k Sisu Plexus
 - [eclipse/smartmdsd](https://github.com/eclipse/smartmdsd) pushed_at:2021-12 star:0.0k fork:0.0k Smartmdsd project
 - [eclipse/steady](https://github.com/eclipse/steady) pushed_at:2021-12 star:0.5k fork:0.1k Analyses your Java and Python applications for open-source dependencies with known vulnerabilities, using both static analysis and testing to determine code context and usage for greater accuracy.  https://eclipse.github.io/steady/
 - [eclipse/sw360](https://github.com/eclipse/sw360) pushed_at:2021-12 star:0.1k fork:0.1k SW360 project

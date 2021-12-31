@@ -8,9 +8,9 @@
 
 - [C](#c) (41)
 - [C#](#c#) (1)
-- [C++](#c++) (46)
+- [C++](#c++) (45)
 - [CMake](#cmake) (2)
-- [Cuda](#cuda) (18)
+- [Cuda](#cuda) (19)
 - [Cython](#cython) (1)
 - [Dockerfile](#dockerfile) (3)
 - [Fortran](#fortran) (1)
@@ -57,7 +57,7 @@
 - [NVIDIA/nsight-training](https://github.com/NVIDIA/nsight-training) pushed_at:2021-05 star:0.0k fork:0.0k Training material for Nsight developer tools
 - [NVIDIA/nvgpu](https://github.com/NVIDIA/nvgpu) pushed_at:2014-11 star:0.0k fork:0.0k 
 - [NVIDIA/nvidia-installer](https://github.com/NVIDIA/nvidia-installer) pushed_at:2021-12 star:0.1k fork:0.0k NVIDIA driver installer
-- [NVIDIA/nvidia-modprobe](https://github.com/NVIDIA/nvidia-modprobe) pushed_at:2021-12 star:0.0k fork:0.0k Load the NVIDIA kernel module and create NVIDIA character device files
+- [NVIDIA/nvidia-modprobe](https://github.com/NVIDIA/nvidia-modprobe) pushed_at:2021-12 star:0.1k fork:0.0k Load the NVIDIA kernel module and create NVIDIA character device files
 - [NVIDIA/nvidia-persistenced](https://github.com/NVIDIA/nvidia-persistenced) pushed_at:2021-12 star:0.0k fork:0.0k NVIDIA driver persistence daemon
 - [NVIDIA/nvidia-query-resource-opengl](https://github.com/NVIDIA/nvidia-query-resource-opengl) pushed_at:2017-09 star:0.0k fork:0.0k A tool for querying OpenGL resource usage of applications using the NVIDIA OpenGL driver
 - [NVIDIA/nvidia-settings](https://github.com/NVIDIA/nvidia-settings) pushed_at:2021-12 star:0.2k fork:0.1k NVIDIA driver control panel
@@ -89,10 +89,9 @@
 - [NVIDIA/CloudXR](https://github.com/NVIDIA/CloudXR) pushed_at:2021-11 star:0.0k fork:0.0k CloudXR sample applications for streaming AR/VR/MR content from the cloud
 - [NVIDIA/cnmem](https://github.com/NVIDIA/cnmem) pushed_at:2018-11 star:0.3k fork:0.1k A simple memory manager for CUDA designed to help Deep Learning frameworks manage memory
 - [NVIDIA/cuCollections](https://github.com/NVIDIA/cuCollections) pushed_at:2021-12 star:0.1k fork:0.0k 
-- [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) pushed_at:2021-12 star:0.3k fork:0.1k CUDA Library Samples
 - [NVIDIA/cudnn-frontend](https://github.com/NVIDIA/cudnn-frontend) pushed_at:2021-11 star:0.1k fork:0.0k cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it
-- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) pushed_at:2021-12 star:1.4k fork:0.3k CUDA Templates for Linear Algebra Subroutines
-- [NVIDIA/DALI](https://github.com/NVIDIA/DALI) pushed_at:2021-12 star:3.6k fork:0.5k A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
+- [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) pushed_at:2021-12 star:1.5k fork:0.3k CUDA Templates for Linear Algebra Subroutines
+- [NVIDIA/DALI](https://github.com/NVIDIA/DALI) pushed_at:2021-12 star:3.7k fork:0.5k A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
 - [NVIDIA/Dataset_Synthesizer](https://github.com/NVIDIA/Dataset_Synthesizer) pushed_at:2020-10 star:0.5k fork:0.1k NVIDIA Deep learning Dataset Synthesizer (NDDS)
 - [NVIDIA/DCGM](https://github.com/NVIDIA/DCGM) pushed_at:2021-12 star:0.1k fork:0.0k NVIDIA Data Center GPU Manager (DCGM) is a project for gathering telemetry and measuring the health of NVIDIA GPUs
 - [NVIDIA/DL4AGX](https://github.com/NVIDIA/DL4AGX) pushed_at:2020-07 star:0.1k fork:0.0k Deep Learning tools and applications for NVIDIA AGX platforms.
@@ -109,7 +108,7 @@
 - [NVIDIA/l2fwd-nv](https://github.com/NVIDIA/l2fwd-nv) pushed_at:2021-12 star:0.0k fork:0.0k l2fwd-nv provides an example of how to leverage your DPDK network application with the NVIDIA GPUDirect RDMA techonology.
 - [NVIDIA/libcudacxx](https://github.com/NVIDIA/libcudacxx) pushed_at:2021-12 star:1.9k fork:0.1k The C++ Standard Library for your entire system.
 - [NVIDIA/MagnumIO](https://github.com/NVIDIA/MagnumIO) pushed_at:2021-10 star:0.0k fork:0.0k Magnum IO community repo
-- [NVIDIA/MatX](https://github.com/NVIDIA/MatX) pushed_at:2021-12 star:0.2k fork:0.0k An efficient C++17 GPU numerical computing library with Python-like syntax
+- [NVIDIA/MatX](https://github.com/NVIDIA/MatX) pushed_at:2021-12 star:0.3k fork:0.0k An efficient C++17 GPU numerical computing library with Python-like syntax
 - [NVIDIA/mcmc-bnn-example](https://github.com/NVIDIA/mcmc-bnn-example) pushed_at:2021-05 star:0.0k fork:0.0k Reference CUDA implementation of training a small Bayesian neural network (BNN) using MCMC
 - [NVIDIA/MDL-SDK](https://github.com/NVIDIA/MDL-SDK) pushed_at:2021-12 star:0.3k fork:0.1k NVIDIA Material Definition Language SDK
 - [NVIDIA/nccl](https://github.com/NVIDIA/nccl) pushed_at:2021-12 star:1.7k fork:0.5k Optimized primitives for collective multi-GPU communication
@@ -140,6 +139,7 @@
 - [NVIDIA/AMGX](https://github.com/NVIDIA/AMGX) pushed_at:2021-12 star:0.3k fork:0.1k Distributed multigrid linear solver library on GPU
 - [NVIDIA/compute-sanitizer-samples](https://github.com/NVIDIA/compute-sanitizer-samples) pushed_at:2021-12 star:0.0k fork:0.0k Samples demonstrating how to use the Compute Sanitizer Tools and Public API
 - [NVIDIA/cub](https://github.com/NVIDIA/cub) pushed_at:2021-12 star:1.1k fork:0.3k Cooperative primitives for CUDA C++.
+- [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) pushed_at:2021-12 star:0.3k fork:0.1k CUDA Library Samples
 - [NVIDIA/df-nvshmem-prototype](https://github.com/NVIDIA/df-nvshmem-prototype) pushed_at:2018-04 star:0.0k fork:0.0k Prototype of OpenSHMEM for NVIDIA GPUs, developed as part of DoE Design Forward 
 - [NVIDIA/ising-gpu](https://github.com/NVIDIA/ising-gpu) pushed_at:2020-08 star:0.0k fork:0.0k GPU-accelerated Monte Carlo simulations of 2D Ising Model
 - [NVIDIA/kmeans](https://github.com/NVIDIA/kmeans) pushed_at:2020-07 star:0.1k fork:0.0k kmeans clustering with multi-GPU capabilities
@@ -244,7 +244,7 @@
 - [NVIDIA/rapidAligner](https://github.com/NVIDIA/rapidAligner) pushed_at:2021-04 star:0.0k fork:0.0k Windowed alignment of time series at the speed of light
 - [NVIDIA/spark-xgboost-examples](https://github.com/NVIDIA/spark-xgboost-examples) pushed_at:2021-09 star:0.0k fork:0.0k XGBoost GPU accelerated on Spark example applications
 - [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2) pushed_at:2021-11 star:3.3k fork:1.0k Tacotron 2 - PyTorch implementation with faster-than-realtime inference
-- [NVIDIA/Torch-TensorRT](https://github.com/NVIDIA/Torch-TensorRT) pushed_at:2021-12 star:1.1k fork:0.1k PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
+- [NVIDIA/Torch-TensorRT](https://github.com/NVIDIA/Torch-TensorRT) pushed_at:2021-12 star:1.2k fork:0.1k PyTorch/TorchScript compiler for NVIDIA GPUs using TensorRT
 
 ## Lua
 
@@ -325,7 +325,7 @@
 - [NVIDIA/jetson-gpio](https://github.com/NVIDIA/jetson-gpio) pushed_at:2021-06 star:0.5k fork:0.2k A Python library that enables the use of Jetson's GPIOs
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) pushed_at:2021-12 star:2.6k fork:0.5k Ongoing research training transformer language models at scale, including: BERT & GPT-2
 - [NVIDIA/Milano](https://github.com/NVIDIA/Milano) pushed_at:2018-11 star:0.1k fork:0.0k Milano is a tool for automating hyper-parameters search for your models on a backend of your choice.
-- [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) pushed_at:2021-11 star:1.4k fork:0.2k Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
+- [NVIDIA/MinkowskiEngine](https://github.com/NVIDIA/MinkowskiEngine) pushed_at:2021-11 star:1.5k fork:0.2k Minkowski Engine is an auto-diff neural network library for high-dimensional sparse tensors
 - [NVIDIA/mxnet_to_onnx](https://github.com/NVIDIA/mxnet_to_onnx) pushed_at:2018-07 star:0.1k fork:0.0k MxNet to ONNX Exporter
 - [NVIDIA/ngc-container-replicator](https://github.com/NVIDIA/ngc-container-replicator) pushed_at:2021-11 star:0.0k fork:0.0k NGC Container Replicator
 - [NVIDIA/ngc-examples](https://github.com/NVIDIA/ngc-examples) pushed_at:2018-10 star:0.0k fork:0.0k NGC VMI Example Scripts

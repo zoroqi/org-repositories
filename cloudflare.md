@@ -188,7 +188,7 @@
 - [cloudflare/Stout](https://github.com/cloudflare/Stout) pushed_at:2019-04 star:0.7k fork:0.0k A reliable static website deploy tool
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) pushed_at:2021-10 star:2.0k fork:0.1k Graceful process restarts in Go
 - [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) pushed_at:2021-12 star:0.3k fork:0.3k Cloudflare Terraform Provider
-- [cloudflare/tls-tris](https://github.com/cloudflare/tls-tris) pushed_at:2020-07 star:0.3k fork:0.0k crypto/tls, now with 100% more 1.3. THE API IS NOT STABLE AND DOCUMENTATION IS NOT GUARANTEED.
+- [cloudflare/tls-tris](https://github.com/cloudflare/tls-tris) pushed_at:2020-07 star:0.3k fork:0.1k crypto/tls, now with 100% more 1.3. THE API IS NOT STABLE AND DOCUMENTATION IS NOT GUARANTEED.
 - [cloudflare/tusd](https://github.com/cloudflare/tusd) pushed_at:2017-09 star:0.0k fork:0.0k The official server implementation of the tus resumable upload protocol.
 - [cloudflare/unbound](https://github.com/cloudflare/unbound) pushed_at:2021-01 star:0.0k fork:0.0k CoreDNS plugin that performs recursive queries using libunbound
 - [cloudflare/unsee](https://github.com/cloudflare/unsee) pushed_at:2020-04 star:0.7k fork:0.0k Alert dashboard for Prometheus Alertmanager
@@ -450,7 +450,7 @@
 - [cloudflare/sliceslice-rs](https://github.com/cloudflare/sliceslice-rs) pushed_at:2021-12 star:0.1k fork:0.0k A fast implementation of single-pattern substring search using SIMD acceleration.
 - [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) pushed_at:2021-12 star:0.8k fork:0.1k An execution engine for Wireshark-like filters
 - [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) pushed_at:2021-12 star:0.6k fork:0.0k Write Cloudflare Workers in 100% Rust via WebAssembly
-- [cloudflare/wrangler](https://github.com/cloudflare/wrangler) pushed_at:2021-12 star:2.6k fork:0.3k 🤠   wrangle your Cloudflare Workers
+- [cloudflare/wrangler](https://github.com/cloudflare/wrangler) pushed_at:2021-12 star:2.7k fork:0.3k 🤠   wrangle your Cloudflare Workers
 
 ## Scala
 
@@ -485,7 +485,7 @@
 - [cloudflare/durable-objects-typescript-rollup-esm](https://github.com/cloudflare/durable-objects-typescript-rollup-esm) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [cloudflare/images.pages.dev](https://github.com/cloudflare/images.pages.dev) pushed_at:2021-11 star:0.1k fork:0.0k 
 - [cloudflare/kv-asset-handler](https://github.com/cloudflare/kv-asset-handler) pushed_at:2021-12 star:0.2k fork:0.0k Routes requests to KV assets
-- [cloudflare/miniflare](https://github.com/cloudflare/miniflare) pushed_at:2021-12 star:2.2k fork:0.1k 🔥 Fully-local simulator for Cloudflare Workers
+- [cloudflare/miniflare](https://github.com/cloudflare/miniflare) pushed_at:2021-12 star:2.3k fork:0.1k 🔥 Fully-local simulator for Cloudflare Workers
 - [cloudflare/production-saas](https://github.com/cloudflare/production-saas) pushed_at:2021-11 star:0.9k fork:0.0k (WIP) Example SaaS application built in public on the Cloudflare stack!
 - [cloudflare/stream-angular](https://github.com/cloudflare/stream-angular) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [cloudflare/stream-react](https://github.com/cloudflare/stream-react) pushed_at:2021-12 star:0.1k fork:0.0k 

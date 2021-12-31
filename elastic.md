@@ -207,9 +207,9 @@
 - [elastic/die-with-dignity-plugin](https://github.com/elastic/die-with-dignity-plugin) pushed_at:2021-11 star:0.0k fork:0.0k Elasticsearch plugin for causing cluster to die with dignity
 - [elastic/ecs-logging-java](https://github.com/elastic/ecs-logging-java) pushed_at:2021-12 star:0.1k fork:0.1k Centralized logging for Java applications with the Elastic stack made easy
 - [elastic/elastic-stack-testing](https://github.com/elastic/elastic-stack-testing) pushed_at:2021-12 star:0.0k fork:0.0k Elastic Stack Testing Framework (ESTF) :robot:
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) pushed_at:2021-12 star:57.9k fork:21.0k Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) pushed_at:2021-12 star:58.0k fork:21.1k Free and Open, Distributed, RESTful Search Engine
 - [elastic/elasticsearch-eland-docs](https://github.com/elastic/elasticsearch-eland-docs) pushed_at:2020-10 star:0.0k fork:0.0k Elasticsearch Python client to analyse, explore and manipulate data
-- [elastic/elasticsearch-hadoop](https://github.com/elastic/elasticsearch-hadoop) pushed_at:2021-12 star:1.8k fork:1.0k  :elephant: Elasticsearch real-time search and analytics natively integrated with Hadoop
+- [elastic/elasticsearch-hadoop](https://github.com/elastic/elasticsearch-hadoop) pushed_at:2021-12 star:1.8k fork:0.9k  :elephant: Elasticsearch real-time search and analytics natively integrated with Hadoop
 - [elastic/elasticsearch-hdfs](https://github.com/elastic/elasticsearch-hdfs) pushed_at:2020-02 star:0.1k fork:0.0k Hadoop Plugin for ElasticSearch
 - [elastic/elasticsearch-java](https://github.com/elastic/elasticsearch-java) pushed_at:2021-12 star:0.1k fork:0.0k Official Elasticsearch Java Client
 - [elastic/elasticsearch-lang-groovy](https://github.com/elastic/elasticsearch-lang-groovy) pushed_at:2015-09 star:0.0k fork:0.0k Groovy language Plugin for elasticsearch (STOPPED)
@@ -499,7 +499,7 @@
 - [elastic/elastic-transport-python](https://github.com/elastic/elastic-transport-python) pushed_at:2021-12 star:0.0k fork:0.0k Transport classes and utilities shared among Python Elastic client libraries
 - [elastic/elasticboard](https://github.com/elastic/elasticboard) pushed_at:2017-04 star:0.0k fork:0.0k Pingboard adapter for Elasticsearch
 - [elastic/elasticsearch-docker](https://github.com/elastic/elasticsearch-docker) pushed_at:2019-06 star:0.8k fork:0.2k Official Elasticsearch Docker image
-- [elastic/elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) pushed_at:2021-10 star:3.4k fork:0.7k High level Python client for Elasticsearch
+- [elastic/elasticsearch-dsl-py](https://github.com/elastic/elasticsearch-dsl-py) pushed_at:2021-12 star:3.4k fork:0.7k High level Python client for Elasticsearch
 - [elastic/elasticsearch-parent](https://github.com/elastic/elasticsearch-parent) pushed_at:2019-01 star:0.0k fork:0.0k Elasticsearch Parent POM
 - [elastic/elasticsearch-plugins-script](https://github.com/elastic/elasticsearch-plugins-script) pushed_at:2015-10 star:0.0k fork:0.0k Contain utility scripts for releasing elasticsearch official plugins
 - [elastic/elasticsearch-py](https://github.com/elastic/elasticsearch-py) pushed_at:2021-12 star:3.5k fork:1.1k Official Elasticsearch client library for Python
@@ -508,6 +508,7 @@
 - [elastic/endpoint-package](https://github.com/elastic/endpoint-package) pushed_at:2021-12 star:0.0k fork:0.0k Repo for developing the endpoint package
 - [elastic/ent-search-examples](https://github.com/elastic/ent-search-examples) pushed_at:2021-06 star:0.0k fork:0.0k Enterprise Search Datasets
 - [elastic/enterprise-search-python](https://github.com/elastic/enterprise-search-python) pushed_at:2021-12 star:0.0k fork:0.0k Official Python client for Elastic Enterprise Search, App Search, and Workplace Search
+- [elastic/enterprise-search-sharepoint-server-2016-connector](https://github.com/elastic/enterprise-search-sharepoint-server-2016-connector) pushed_at:2021-12 star:0.0k fork:0.0k Workplace Search SharePoint Server 2016 Connector
 - [elastic/Example-Watches](https://github.com/elastic/Example-Watches) pushed_at:2016-11 star:0.0k fork:0.0k 
 - [elastic/helm-charts](https://github.com/elastic/helm-charts) pushed_at:2021-12 star:1.4k fork:1.4k You know, for Kubernetes
 - [elastic/kibana-docker](https://github.com/elastic/kibana-docker) pushed_at:2019-06 star:0.2k fork:0.1k Official Kibana Docker image
@@ -533,7 +534,6 @@
 - [elastic/solit](https://github.com/elastic/solit) pushed_at:2018-02 star:0.0k fork:0.0k Software Optimized Logstash Integration Tests
 - [elastic/tedi](https://github.com/elastic/tedi) pushed_at:2018-11 star:0.0k fork:0.0k Template Engine for Docker Images
 - [elastic/workplace-search-python](https://github.com/elastic/workplace-search-python) pushed_at:2020-11 star:0.0k fork:0.0k Elastic Workplace Search Official Python Client
-- [elastic/workplace-search-sharepoint16-connector](https://github.com/elastic/workplace-search-sharepoint16-connector) pushed_at:2021-12 star:0.0k fork:0.0k Workplace Search SharePoint Server 2016 Connector
 - [elastic/zktraffic](https://github.com/elastic/zktraffic) pushed_at:2019-03 star:0.0k fork:0.0k ZooKeeper protocol analyzer and stats gathering daemon
 
 ## Ruby
@@ -549,9 +549,9 @@
 - [elastic/docs-tools](https://github.com/elastic/docs-tools) pushed_at:2021-11 star:0.0k fork:0.0k A place to put documentation tooling
 - [elastic/ecs-logging-ruby](https://github.com/elastic/ecs-logging-ruby) pushed_at:2021-12 star:0.0k fork:0.0k Transform your application logs to structured logs that comply with the Elastic Common Schema (ECS)
 - [elastic/ecs-mapper](https://github.com/elastic/ecs-mapper) pushed_at:2021-10 star:0.0k fork:0.0k Translate an ECS mapping CSV to starter pipelines for Beats, Elasticsearch or Logstash
-- [elastic/elastic-transport-ruby](https://github.com/elastic/elastic-transport-ruby) pushed_at:2021-10 star:0.0k fork:0.0k Transport classes and utilities shared among Ruby Elastic client libraries 
+- [elastic/elastic-transport-ruby](https://github.com/elastic/elastic-transport-ruby) pushed_at:2021-12 star:0.0k fork:0.0k Transport classes and utilities shared among Ruby Elastic client libraries 
 - [elastic/elasticsearch-rails](https://github.com/elastic/elasticsearch-rails) pushed_at:2021-12 star:2.9k fork:0.7k Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
-- [elastic/elasticsearch-ruby](https://github.com/elastic/elasticsearch-ruby) pushed_at:2021-12 star:1.8k fork:0.6k Ruby integrations for Elasticsearch
+- [elastic/elasticsearch-ruby](https://github.com/elastic/elasticsearch-ruby) pushed_at:2021-12 star:1.9k fork:0.6k Ruby integrations for Elasticsearch
 - [elastic/enterprise-search-ruby](https://github.com/elastic/enterprise-search-ruby) pushed_at:2021-12 star:0.0k fork:0.0k Ruby client for Elastic Enterprise Search, App Search, and Workplace Search
 - [elastic/fake-s3-fork](https://github.com/elastic/fake-s3-fork) pushed_at:2016-09 star:0.0k fork:0.0k A fork of fake-s3 to make it work with Elasticsearch
 - [elastic/heartbeat-benchmark-configs](https://github.com/elastic/heartbeat-benchmark-configs) pushed_at:2019-05 star:0.0k fork:0.0k Configs for benchmarking heartbeat
@@ -628,21 +628,21 @@
 - [elastic/elastic-charts](https://github.com/elastic/elastic-charts) pushed_at:2021-12 star:0.2k fork:0.1k :bar_chart: Elastic Charts library
 - [elastic/elastic-transport-js](https://github.com/elastic/elastic-transport-js) pushed_at:2021-12 star:0.0k fork:0.0k Transport classes and utilities shared among Node.js Elastic client libraries
 - [elastic/elasticsearch-js](https://github.com/elastic/elasticsearch-js) pushed_at:2021-12 star:4.8k fork:0.7k Official Elasticsearch client library for Node.js
-- [elastic/elasticsearch-net-abstractions](https://github.com/elastic/elasticsearch-net-abstractions) pushed_at:2021-09 star:0.0k fork:0.0k Auxiliary tooling for elastic/elasticsearch-net that does not benefit from the rigorous version branching of that repository
+- [elastic/elasticsearch-net-abstractions](https://github.com/elastic/elasticsearch-net-abstractions) pushed_at:2021-12 star:0.0k fork:0.0k Auxiliary tooling for elastic/elasticsearch-net that does not benefit from the rigorous version branching of that repository
 - [elastic/elasticsearch-specification](https://github.com/elastic/elasticsearch-specification) pushed_at:2021-12 star:0.0k fork:0.0k Elasticsearch full specification
 - [elastic/ems-client](https://github.com/elastic/ems-client) pushed_at:2021-12 star:0.0k fork:0.0k JavaScript Client library for Elastic Maps Service
 - [elastic/eui](https://github.com/elastic/eui) pushed_at:2021-12 star:3.3k fork:0.6k Elastic UI Framework 🙌
 - [elastic/gatsby-eui-starter](https://github.com/elastic/gatsby-eui-starter) pushed_at:2021-12 star:0.0k fork:0.0k Start building Kibana protoypes quickly with the Gatsby EUI Starter
 - [elastic/javascript-typescript-langserver](https://github.com/elastic/javascript-typescript-langserver) pushed_at:2019-10 star:0.0k fork:0.0k Project no longer maintained.
 - [elastic/javascript-typescript-langserver-old](https://github.com/elastic/javascript-typescript-langserver-old) pushed_at:2019-09 star:0.0k fork:0.0k An extended javascript-typescript-langserver
-- [elastic/kibana](https://github.com/elastic/kibana) pushed_at:2021-12 star:16.8k fork:7.0k Your window into the Elastic Stack
+- [elastic/kibana](https://github.com/elastic/kibana) pushed_at:2021-12 star:16.9k fork:7.0k Your window into the Elastic Stack
 - [elastic/kibana-buildkite-library](https://github.com/elastic/kibana-buildkite-library) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [elastic/kibana-github-actions](https://github.com/elastic/kibana-github-actions) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [elastic/kibana-release-notes](https://github.com/elastic/kibana-release-notes) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [elastic/kibunny](https://github.com/elastic/kibunny) pushed_at:2021-10 star:0.0k fork:0.0k bunny1/lol in JS, to deploy to GH Pages
 - [elastic/next-eui-starter](https://github.com/elastic/next-eui-starter) pushed_at:2021-12 star:0.1k fork:0.0k Start building Kibana protoypes quickly with the Next.js EUI Starter 
 - [elastic/node-crypto](https://github.com/elastic/node-crypto) pushed_at:2021-09 star:0.0k fork:0.0k Easy (yet strong) encryption and decryption facilities for Node.js
-- [elastic/request-crypto](https://github.com/elastic/request-crypto) pushed_at:2021-03 star:0.0k fork:0.0k Encrypt/Decrypt request payload
+- [elastic/request-crypto](https://github.com/elastic/request-crypto) pushed_at:2021-12 star:0.0k fork:0.0k Encrypt/Decrypt request payload
 - [elastic/slingshot](https://github.com/elastic/slingshot) pushed_at:2021-12 star:0.0k fork:0.0k Elastic data generator and loader
 - [elastic/synthetics](https://github.com/elastic/synthetics) pushed_at:2021-12 star:0.0k fork:0.0k Synthetic Monitoring with Real Browsers
 - [elastic/synthetics-recorder](https://github.com/elastic/synthetics-recorder) pushed_at:2021-12 star:0.0k fork:0.0k Record synthetic user journeys 
