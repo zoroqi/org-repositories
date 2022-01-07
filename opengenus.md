@@ -50,7 +50,7 @@
 - [OpenGenus/random](https://github.com/OpenGenus/random) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [OpenGenus/session_storage](https://github.com/OpenGenus/session_storage) pushed_at:2019-08 star:0.0k fork:0.0k 
 - [OpenGenus/tool](https://github.com/OpenGenus/tool) pushed_at:2021-12 star:0.0k fork:0.0k 
-- [OpenGenus/visual](https://github.com/OpenGenus/visual) pushed_at:2021-12 star:0.0k fork:0.0k 
+- [OpenGenus/visual](https://github.com/OpenGenus/visual) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [OpenGenus/web](https://github.com/OpenGenus/web) pushed_at:2018-07 star:0.0k fork:0.0k 
 
 ## Java
