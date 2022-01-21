@@ -7,7 +7,7 @@
 ## Contents(1658)
 
 - [Batchfile](#batchfile) (3)
-- [Bicep](#bicep) (27)
+- [Bicep](#bicep) (26)
 - [BitBake](#bitbake) (1)
 - [C](#c) (57)
 - [C#](#c#) (212)
@@ -17,7 +17,7 @@
 - [CoffeeScript](#coffeescript) (1)
 - [Dockerfile](#dockerfile) (11)
 - [F#](#f#) (4)
-- [Go](#go) (104)
+- [Go](#go) (105)
 - [HCL](#hcl) (57)
 - [HTML](#html) (27)
 - [Java](#java) (52)
@@ -30,12 +30,12 @@
 - [Mustache](#mustache) (1)
 - [Objective-C](#objective-c) (6)
 - [Open Policy Agent](#open-policy-agent) (2)
-- [Others](#others) (322)
+- [Others](#others) (325)
 - [PHP](#php) (11)
 - [Perl](#perl) (2)
-- [PowerShell](#powershell) (106)
+- [PowerShell](#powershell) (105)
 - [Pug](#pug) (1)
-- [Python](#python) (158)
+- [Python](#python) (157)
 - [R](#r) (28)
 - [Rich Text Format](#rich-text-format) (1)
 - [Roff](#roff) (1)
@@ -44,12 +44,12 @@
 - [SCSS](#scss) (2)
 - [SaltStack](#saltstack) (1)
 - [Scala](#scala) (10)
-- [Shell](#shell) (72)
+- [Shell](#shell) (73)
 - [Smarty](#smarty) (3)
 - [Swift](#swift) (10)
 - [TLA](#tla) (1)
 - [TSQL](#tsql) (3)
-- [TypeScript](#typescript) (117)
+- [TypeScript](#typescript) (115)
 - [VBA](#vba) (1)
 - [XSLT](#xslt) (1)
 
@@ -63,7 +63,7 @@
 
 - [Azure/ADAW](https://github.com/Azure/ADAW) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [Azure/avdaccelerator](https://github.com/Azure/avdaccelerator) pushed_at:2022-01 star:0.0k fork:0.0k Deployment templates to simplify the setup of AVD
-- [Azure/azure-docs-bicep-samples](https://github.com/Azure/azure-docs-bicep-samples) pushed_at:2021-12 star:0.0k fork:0.0k 
+- [Azure/azure-docs-bicep-samples](https://github.com/Azure/azure-docs-bicep-samples) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [Azure/azure-synapse-analytics-end2end](https://github.com/Azure/azure-synapse-analytics-end2end) pushed_at:2022-01 star:0.1k fork:0.0k Azure Analytics End to End with Azure Synapse - Deployment Accelerator
 - [Azure/bicep](https://github.com/Azure/bicep) pushed_at:2022-01 star:2.1k fork:0.5k Bicep is a declarative language for describing and deploying Azure resources
 - [Azure/CanadaPubSecALZ](https://github.com/Azure/CanadaPubSecALZ) pushed_at:2022-01 star:0.0k fork:0.0k This reference implementation is based on Cloud Adoption Framework for Azure and provides an opinionated implementation that enables ITSG-33 regulatory compliance by using NIST SP 800-53 Rev. 4 and Canada Federal PBMM Regulatory Compliance Policy Sets.
@@ -82,7 +82,6 @@
 - [Azure/mock-spacestation](https://github.com/Azure/mock-spacestation) pushed_at:2022-01 star:0.0k fork:0.0k A template for deploying a Mock Spacestation and Mock Groundstation to Azure
 - [Azure/one-click-databricks](https://github.com/Azure/one-click-databricks) pushed_at:2021-08 star:0.0k fork:0.0k Secure Databricks cluster with Data exfiltration Protection and other services using Bicep
 - [Azure/PSRule.Rules.Azure-quickstart](https://github.com/Azure/PSRule.Rules.Azure-quickstart) pushed_at:2022-01 star:0.0k fork:0.0k Validate Azure resources and Infrastructure as Code (IaC) using PSRule.
-- [Azure/reddog-aks](https://github.com/Azure/reddog-aks) pushed_at:2022-01 star:0.0k fork:0.0k GBB Reddog on AKS
 - [Azure/reddog-containerapps](https://github.com/Azure/reddog-containerapps) pushed_at:2021-12 star:0.0k fork:0.0k Azure Container App implementation of the reddog demo, brought to you by the Cloud Native Global Black Belt Team.
 - [Azure/reddog-hybrid-arc](https://github.com/Azure/reddog-hybrid-arc) pushed_at:2022-01 star:0.0k fork:0.0k Red Dog Hybrid/Arc Demo. Brought to you by the Cloud Native GBB Team!
 - [Azure/ResourceModules](https://github.com/Azure/ResourceModules) pushed_at:2022-01 star:0.1k fork:0.1k This repository includes a CI platform for and collection of mature and curated Bicep modules. The platform supports both ARM and Bicep and can be leveraged using GitHub actions as well as Azure DevOps pipelines.
@@ -110,10 +109,10 @@
 - [Azure/azure-iot-pal-esp32](https://github.com/Azure/azure-iot-pal-esp32) pushed_at:2021-06 star:0.0k fork:0.0k Adaptation layer for the Azure IoT Hub SDK for ESP32
 - [Azure/azure-iot-sdk-c](https://github.com/Azure/azure-iot-sdk-c) pushed_at:2022-01 star:0.5k fork:0.7k A C99 SDK for connecting devices to Microsoft Azure IoT services
 - [Azure/Azure-IoT-Security-Agent-C](https://github.com/Azure/Azure-IoT-Security-Agent-C) pushed_at:2020-04 star:0.0k fork:0.0k Secure Azure IoT solutions end to end
-- [Azure/azure-kusto-avro-conv](https://github.com/Azure/azure-kusto-avro-conv) pushed_at:2021-12 star:0.0k fork:0.0k Avro to JSON converter
+- [Azure/azure-kusto-avro-conv](https://github.com/Azure/azure-kusto-avro-conv) pushed_at:2022-01 star:0.0k fork:0.0k Avro to JSON converter
 - [Azure/azure-kusto-demos](https://github.com/Azure/azure-kusto-demos) pushed_at:2021-08 star:0.0k fork:0.0k Azure Data Explorer (ADX) demo utilities
 - [Azure/azure-sdk-for-c](https://github.com/Azure/azure-sdk-for-c) pushed_at:2022-01 star:0.1k fork:0.1k This repository is for active development of the Azure SDK for Embedded C. For consumers of the SDK we recommend visiting our versioned developer docs at https://azure.github.io/azure-sdk-for-c. 
-- [Azure/azure-sdk-for-c-arduino](https://github.com/Azure/azure-sdk-for-c-arduino) pushed_at:2021-12 star:0.0k fork:0.0k Azure SDK for Embedded C for Arduino
+- [Azure/azure-sdk-for-c-arduino](https://github.com/Azure/azure-sdk-for-c-arduino) pushed_at:2022-01 star:0.0k fork:0.0k Azure SDK for Embedded C for Arduino
 - [Azure/azure-sphere-gallery](https://github.com/Azure/azure-sphere-gallery) pushed_at:2022-01 star:0.0k fork:0.0k A collection of inspirational, unmaintained Azure Sphere software and hardware designs ready to be reused. 
 - [Azure/azure-sphere-samples](https://github.com/Azure/azure-sphere-samples) pushed_at:2022-01 star:0.2k fork:0.2k Samples for Azure Sphere
 - [Azure/azure-sphere-wpa-supplicant](https://github.com/Azure/azure-sphere-wpa-supplicant) pushed_at:2020-06 star:0.0k fork:0.0k Microsoft Azure Sphere WPA Supplicant modifications.
@@ -121,7 +120,7 @@
 - [Azure/azure-uamqp-c](https://github.com/Azure/azure-uamqp-c) pushed_at:2021-12 star:0.1k fork:0.1k AMQP library for C
 - [Azure/azure-uhttp-c](https://github.com/Azure/azure-uhttp-c) pushed_at:2021-12 star:0.0k fork:0.0k HTTP Library written in C
 - [Azure/azure-ulib-c](https://github.com/Azure/azure-ulib-c) pushed_at:2021-11 star:0.0k fork:0.0k THIS REPO IS CURRENTLY IN PREVIEW. THE APIs ARE NOT FINAL AND ARE SUBJECT TO CHANGE WITHOUT NOTICE. Azure utility library used in embedded and constrained devices.
-- [Azure/azure-umqtt-c](https://github.com/Azure/azure-umqtt-c) pushed_at:2021-12 star:0.0k fork:0.0k General purpose library for communication over the mqtt protocol
+- [Azure/azure-umqtt-c](https://github.com/Azure/azure-umqtt-c) pushed_at:2021-12 star:0.0k fork:0.1k General purpose library for communication over the mqtt protocol
 - [Azure/azure-utpm-c](https://github.com/Azure/azure-utpm-c) pushed_at:2021-12 star:0.0k fork:0.0k TPM C library for use with Azure IoT SDKs
 - [Azure/c-logging](https://github.com/Azure/c-logging) pushed_at:2022-01 star:0.0k fork:0.0k Logging utilities for C code
 - [Azure/c-pal](https://github.com/Azure/c-pal) pushed_at:2022-01 star:0.0k fork:0.0k Azure C PAL used in Messaging services
@@ -165,7 +164,7 @@
 - [Azure/aml-function](https://github.com/Azure/aml-function) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [Azure/aml-real-time-ai](https://github.com/Azure/aml-real-time-ai) pushed_at:2019-05 star:0.1k fork:0.0k Easily deploy models to FPGAs for ultra-low latency with Azure Machine Learning powered by Project Brainwave
 - [Azure/amqpnetlite](https://github.com/Azure/amqpnetlite) pushed_at:2022-01 star:0.3k fork:0.1k AMQP 1.0 .NET Library
-- [Azure/apiops](https://github.com/Azure/apiops) pushed_at:2021-12 star:0.0k fork:0.0k 
+- [Azure/apiops](https://github.com/Azure/apiops) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [Azure/AppConfiguration-DotnetProvider](https://github.com/Azure/AppConfiguration-DotnetProvider) pushed_at:2022-01 star:0.0k fork:0.0k The .NET Standard configuration provider for Azure App Configuration
 - [Azure/aspnet-redis-providers](https://github.com/Azure/aspnet-redis-providers) pushed_at:2021-04 star:0.2k fork:0.2k ASP.NET Redis Providers
 - [Azure/autorest.azure-functions-csharp](https://github.com/Azure/autorest.azure-functions-csharp) pushed_at:2021-08 star:0.0k fork:0.0k C# Azure Functions code generator using autorest
@@ -189,7 +188,7 @@
 - [Azure/azure-batch-rendering](https://github.com/Azure/azure-batch-rendering) pushed_at:2020-10 star:0.0k fork:0.0k Azure Batch Rendering Samples, Plugins and Utilities
 - [Azure/azure-batch-rscripts-manager](https://github.com/Azure/azure-batch-rscripts-manager) pushed_at:2016-10 star:0.0k fork:0.0k VS project to execute R scripts processing data on Azure Batch
 - [Azure/azure-cef](https://github.com/Azure/azure-cef) pushed_at:2021-04 star:0.0k fork:0.0k Azure Customer Engagement Fabric (CEF) provides unified API and SDK to enable companies to easily interact with their customers. It includes the services of notification (SMS, Email) and authentication (social login, OTP). 
-- [Azure/azure-cosmos-dotnet-templates](https://github.com/Azure/azure-cosmos-dotnet-templates) pushed_at:2021-07 star:0.0k fork:0.0k 
+- [Azure/azure-cosmos-dotnet-templates](https://github.com/Azure/azure-cosmos-dotnet-templates) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [Azure/azure-cosmos-dotnet-v3](https://github.com/Azure/azure-cosmos-dotnet-v3) pushed_at:2022-01 star:0.5k fork:0.3k .NET SDK for Azure Cosmos DB for the core SQL API
 - [Azure/azure-cosmosdb-bulkexecutor-dotnet-getting-started](https://github.com/Azure/azure-cosmosdb-bulkexecutor-dotnet-getting-started) pushed_at:2021-02 star:0.1k fork:0.0k Bulk Executor Utility for Azure Cosmos DB .NET SQL API 
 - [Azure/azure-custom-providers](https://github.com/Azure/azure-custom-providers) pushed_at:2020-10 star:0.0k fork:0.0k Collection of Azure Resource Manager (ARM) templates and resources to get started with developing custom resource providers
@@ -247,24 +246,24 @@
 - [Azure/azure-kusto-bcdr-boilerplate](https://github.com/Azure/azure-kusto-bcdr-boilerplate) pushed_at:2020-03 star:0.0k fork:0.0k A project which is intended to demonstrate the necessary steps for an active/active kusto environment.
 - [Azure/azure-kusto-samples-dotnet](https://github.com/Azure/azure-kusto-samples-dotnet) pushed_at:2021-08 star:0.0k fork:0.0k Azure Data Explorer (ADX) sample code
 - [Azure/azure-kusto-timedingest](https://github.com/Azure/azure-kusto-timedingest) pushed_at:2019-10 star:0.0k fork:0.0k A small function to enable defining the creation date using an Azure function.
-- [Azure/azure-libraries-for-net](https://github.com/Azure/azure-libraries-for-net) pushed_at:2021-12 star:0.3k fork:0.2k Azure libraries for .Net
+- [Azure/azure-libraries-for-net](https://github.com/Azure/azure-libraries-for-net) pushed_at:2022-01 star:0.3k fork:0.2k Azure libraries for .Net
 - [Azure/Azure-Media-Services-Explorer](https://github.com/Azure/Azure-Media-Services-Explorer) pushed_at:2022-01 star:0.2k fork:0.1k Azure Media Services Explorer Tool
 - [Azure/azure-mobile-apps](https://github.com/Azure/azure-mobile-apps) pushed_at:2022-01 star:0.1k fork:0.0k Build better mobile applications using Azure Mobile Apps
 - [Azure/azure-mobile-apps-net-client](https://github.com/Azure/azure-mobile-apps-net-client) pushed_at:2021-12 star:0.1k fork:0.1k Managed Client SDK for Azure Mobile Apps
 - [Azure/azure-mobile-apps-net-server](https://github.com/Azure/azure-mobile-apps-net-server) pushed_at:2019-11 star:0.1k fork:0.1k The .NET server SDK for Azure Mobile Apps.
 - [Azure/azure-mobile-engagement-app-windows](https://github.com/Azure/azure-mobile-engagement-app-windows) pushed_at:2018-03 star:0.0k fork:0.0k Contains the source code for the Azure Mobile Engagement Windows App
-- [Azure/azure-notificationhubs-dotnet](https://github.com/Azure/azure-notificationhubs-dotnet) pushed_at:2021-12 star:0.0k fork:0.1k .NET SDK for Azure Notification Hubs
+- [Azure/azure-notificationhubs-dotnet](https://github.com/Azure/azure-notificationhubs-dotnet) pushed_at:2022-01 star:0.1k fork:0.1k .NET SDK for Azure Notification Hubs
 - [Azure/azure-notificationhubs-xamarin](https://github.com/Azure/azure-notificationhubs-xamarin) pushed_at:2022-01 star:0.0k fork:0.0k Azure Notification Hubs Sample for Xamarin Forms
 - [Azure/azure-openapi-arm-validator](https://github.com/Azure/azure-openapi-arm-validator) pushed_at:2018-05 star:0.0k fork:0.0k This project is a plugin which performs linter validation on swagger Open API documents and lists the ARM violations. 
 - [Azure/azure-openapi-validator](https://github.com/Azure/azure-openapi-validator) pushed_at:2022-01 star:0.0k fork:0.0k Azure Open API Validator 
 - [Azure/azure-pixel-tracker](https://github.com/Azure/azure-pixel-tracker) pushed_at:2018-01 star:0.0k fork:0.0k PREVIEW: Main repository for related customizable Azure Pixel Tracker projects and resources.
-- [Azure/azure-powershell](https://github.com/Azure/azure-powershell) pushed_at:2022-01 star:2.9k fork:2.8k Microsoft Azure PowerShell
+- [Azure/azure-powershell](https://github.com/Azure/azure-powershell) pushed_at:2022-01 star:2.9k fork:2.9k Microsoft Azure PowerShell
 - [Azure/azure-powershell-common](https://github.com/Azure/azure-powershell-common) pushed_at:2022-01 star:0.0k fork:0.0k Microsoft Azure PowerShell common components
 - [Azure/azure-relay-aspnetserver](https://github.com/Azure/azure-relay-aspnetserver) pushed_at:2021-05 star:0.0k fork:0.0k ASP.NET Core Hosting for Azure Relay
 - [Azure/azure-relay-bridge](https://github.com/Azure/azure-relay-bridge) pushed_at:2021-05 star:0.1k fork:0.0k Azure Relay Bridge - A cross-platform command line tool to create VPN-less TCP tunnels from and to anywhere
 - [Azure/azure-relay-dotnet](https://github.com/Azure/azure-relay-dotnet) pushed_at:2021-11 star:0.0k fork:0.0k ☁️ .NET Standard client library for Azure Relay Hybrid Connections
 - [Azure/azure-render-hub](https://github.com/Azure/azure-render-hub) pushed_at:2020-12 star:0.0k fork:0.0k Easily create a hybrid render farm in Azure connected to your Deadline or Qube! environment.
-- [Azure/azure-saas](https://github.com/Azure/azure-saas) pushed_at:2021-12 star:0.1k fork:0.0k The Azure SaaS Development Kit (ASDK) provides a reference architecture, deployable reference implementation and tools to help developers, startups, ISVs and Enterprises deliver their applications as a SaaS service. A platform for platform creators.
+- [Azure/azure-saas](https://github.com/Azure/azure-saas) pushed_at:2022-01 star:0.1k fork:0.0k The Azure SaaS Development Kit (ASDK) provides a reference architecture, deployable reference implementation and tools to help developers, startups, ISVs and Enterprises deliver their applications as a SaaS service. A platform for platform creators.
 - [Azure/azure-sdk-for-dotnet-samples](https://github.com/Azure/azure-sdk-for-dotnet-samples) pushed_at:2019-09 star:0.0k fork:0.0k Code samples for articles on azure.microsoft.com
 - [Azure/azure-sdk-for-media-services](https://github.com/Azure/azure-sdk-for-media-services) pushed_at:2021-04 star:0.1k fork:0.1k Azure SDK for Media Services
 - [Azure/azure-sdk-for-media-services-extensions](https://github.com/Azure/azure-sdk-for-media-services-extensions) pushed_at:2021-03 star:0.0k fork:0.0k Extension library to azure-sdk-for-media-services
@@ -276,7 +275,7 @@
 - [Azure/azure-signalr-bench](https://github.com/Azure/azure-signalr-bench) pushed_at:2021-12 star:0.0k fork:0.0k Benchmark to evaluate performance of AzureSignalR Service
 - [Azure/azure-spatial-anchors-samples](https://github.com/Azure/azure-spatial-anchors-samples) pushed_at:2021-11 star:0.2k fork:0.1k Azure Spatial Anchors sample code
 - [Azure/azure-storage-av-automation](https://github.com/Azure/azure-storage-av-automation) pushed_at:2021-12 star:0.0k fork:0.0k 
-- [Azure/azure-storage-net](https://github.com/Azure/azure-storage-net) pushed_at:2021-06 star:0.4k fork:0.4k Microsoft Azure Storage Libraries for .NET
+- [Azure/azure-storage-net](https://github.com/Azure/azure-storage-net) pushed_at:2022-01 star:0.4k fork:0.4k Microsoft Azure Storage Libraries for .NET
 - [Azure/azure-storage-net-data-movement](https://github.com/Azure/azure-storage-net-data-movement) pushed_at:2021-12 star:0.3k fork:0.1k Azure Storage Data Movement Library for .Net
 - [Azure/azure-stream-analytics](https://github.com/Azure/azure-stream-analytics) pushed_at:2021-11 star:0.2k fork:0.9k Azure Stream Analytics
 - [Azure/azure-webjobs-quickstart](https://github.com/Azure/azure-webjobs-quickstart) pushed_at:2016-03 star:0.0k fork:0.0k Azure WebJobs sample for the in portal Get Started experience
@@ -309,14 +308,14 @@
 - [Azure/diagnostics-eventflow](https://github.com/Azure/diagnostics-eventflow) pushed_at:2021-12 star:0.3k fork:0.1k Microsoft Diagnostics EventFlow
 - [Azure/dotnet-template-azure-iot-edge-function](https://github.com/Azure/dotnet-template-azure-iot-edge-function) pushed_at:2022-01 star:0.0k fork:0.0k Scaffolding tool for Azure IoT Edge Azure Functions (C#) module
 - [Azure/dotnet-template-azure-iot-edge-module](https://github.com/Azure/dotnet-template-azure-iot-edge-module) pushed_at:2022-01 star:0.0k fork:0.0k Scaffolding tool for Azure IoT Edge C# module
-- [Azure/DotNetty](https://github.com/Azure/DotNetty) pushed_at:2022-01 star:3.4k fork:0.9k DotNetty project – a port of netty, event-driven asynchronous network application framework
+- [Azure/DotNetty](https://github.com/Azure/DotNetty) pushed_at:2022-01 star:3.5k fork:0.9k DotNetty project – a port of netty, event-driven asynchronous network application framework
 - [Azure/durabletask](https://github.com/Azure/durabletask) pushed_at:2022-01 star:1.0k fork:0.2k Durable Task Framework allows users to write long running persistent workflows in C# using the async/await capabilities.
 - [Azure/elastic-db-tools](https://github.com/Azure/elastic-db-tools) pushed_at:2021-07 star:0.1k fork:0.1k Elastic database tools client library allows ADO.NET developers to create applications that implement and use the pattern known as database sharding in Azure SQL Database.
 - [Azure/etlorchestration-cortana-intelligence-preconfigured-solution](https://github.com/Azure/etlorchestration-cortana-intelligence-preconfigured-solution) pushed_at:2017-04 star:0.0k fork:0.0k Uses the Adventure Works OLTP dataset to demonstrate an extract-load-transform pipeline leveraging SQL DB, Hive, SQL Data Warehouse and Polybase on Azure.
 - [Azure/event-grid-iot-edge](https://github.com/Azure/event-grid-iot-edge) pushed_at:2021-04 star:0.0k fork:0.0k Azure Event Grid on Azure IoT Edge
 - [Azure/ForresterDemo](https://github.com/Azure/ForresterDemo) pushed_at:2021-07 star:0.0k fork:0.0k Code and Solutions Demonstrations
 - [Azure/fta-customerfacingapps](https://github.com/Azure/fta-customerfacingapps) pushed_at:2020-06 star:0.0k fork:0.1k Fast Track for Azure - Customer Facing Apps solution
-- [Azure/fta-live-iac](https://github.com/Azure/fta-live-iac) pushed_at:2021-08 star:0.0k fork:0.0k FTA Live Infrastructure as Code
+- [Azure/fta-live-iac](https://github.com/Azure/fta-live-iac) pushed_at:2022-01 star:0.0k fork:0.0k FTA Live Infrastructure as Code
 - [Azure/group_concat_sql_server](https://github.com/Azure/group_concat_sql_server) pushed_at:2016-12 star:0.0k fork:0.0k 
 - [Azure/hdinsight-phoenix-sharp](https://github.com/Azure/hdinsight-phoenix-sharp) pushed_at:2020-05 star:0.0k fork:0.0k .NET driver for Apache Phoenix and Phoenix Query Server
 - [Azure/hpcpack-acm](https://github.com/Azure/hpcpack-acm) pushed_at:2020-10 star:0.0k fork:0.0k HPC Azure Cluster Management
@@ -327,7 +326,7 @@
 - [Azure/iot-edge-opc-publisher-v1](https://github.com/Azure/iot-edge-opc-publisher-v1) pushed_at:2021-07 star:0.2k fork:0.1k Microsoft OPC Publisher
 - [Azure/iot-edge-virtual-kubelet-provider](https://github.com/Azure/iot-edge-virtual-kubelet-provider) pushed_at:2021-08 star:0.1k fork:0.0k Kubernetes virtual kubelet provider for managing Azure IoT Edge deployments 
 - [Azure/IoT-Pi-Day](https://github.com/Azure/IoT-Pi-Day) pushed_at:2020-09 star:0.0k fork:0.0k Workshop to build out a real-life IoT scenario by capturing IoT data and ingesting it into the Azure Cloud.
-- [Azure/iot-plugandplay-models-tools](https://github.com/Azure/iot-plugandplay-models-tools) pushed_at:2021-11 star:0.0k fork:0.0k Tools to manage the device-models repo
+- [Azure/iot-plugandplay-models-tools](https://github.com/Azure/iot-plugandplay-models-tools) pushed_at:2022-01 star:0.0k fork:0.0k Tools to manage the device-models repo
 - [Azure/iotedge](https://github.com/Azure/iotedge) pushed_at:2022-01 star:1.3k fork:0.4k The IoT Edge OSS project
 - [Azure/iotedge-lorawan-starterkit](https://github.com/Azure/iotedge-lorawan-starterkit) pushed_at:2022-01 star:0.1k fork:0.1k Experimental sample implementation of LoRaWAN components to connect LoRaWAN antenna gateway running IoT Edge directly with Azure IoT.
 - [Azure/kusto-copy](https://github.com/Azure/kusto-copy) pushed_at:2022-01 star:0.0k fork:0.0k Tool enabling Azure Data Explorer / Kusto cluster replication
@@ -373,7 +372,7 @@
 - [Azure/azure-batch-software-entitlement](https://github.com/Azure/azure-batch-software-entitlement) pushed_at:2020-12 star:0.0k fork:0.0k SDK and samples for ISVs integrating with the Batch Software Entitlement Service
 - [Azure/azure-iot-arduino-socket-esp32-wifi](https://github.com/Azure/azure-iot-arduino-socket-esp32-wifi) pushed_at:2021-05 star:0.0k fork:0.0k Azure IoT ESP32 Wifi library for Arduino
 - [Azure/azure-iot-experimental](https://github.com/Azure/azure-iot-experimental) pushed_at:2018-08 star:0.0k fork:0.0k This is a repository for hosting experimental code for Azure IoT.
-- [Azure/azure-kusto-orc-conv](https://github.com/Azure/azure-kusto-orc-conv) pushed_at:2020-12 star:0.0k fork:0.0k ORC to JSON converter utility
+- [Azure/azure-kusto-orc-conv](https://github.com/Azure/azure-kusto-orc-conv) pushed_at:2022-01 star:0.0k fork:0.0k ORC to JSON converter utility
 - [Azure/azure-linux-utils](https://github.com/Azure/azure-linux-utils) pushed_at:2020-04 star:0.0k fork:0.0k Utilities for Linux virtual machines running on Azure
 - [Azure/azure-object-anchors](https://github.com/Azure/azure-object-anchors) pushed_at:2021-12 star:0.0k fork:0.0k Azure Object Anchors releases and samples
 - [Azure/azure-osconfig](https://github.com/Azure/azure-osconfig) pushed_at:2022-01 star:0.0k fork:0.0k A modular services stack that facilitates remote Linux IoT device management over Azure
@@ -419,7 +418,7 @@
 - [Azure/azure-cli-docker](https://github.com/Azure/azure-cli-docker) pushed_at:2020-11 star:0.0k fork:0.0k Azure CLI Docker image
 - [Azure/azure-functions-docker](https://github.com/Azure/azure-functions-docker) pushed_at:2022-01 star:0.2k fork:0.1k This repo contains the base Docker images for working with azure functions
 - [Azure/azure-iot-device-ecosystem](https://github.com/Azure/azure-iot-device-ecosystem) pushed_at:2021-12 star:0.1k fork:0.2k Documentation for Azure IoT Device Ecosystem
-- [Azure/AzureML-Containers](https://github.com/Azure/AzureML-Containers) pushed_at:2021-12 star:0.1k fork:0.1k Docker containers for running training scripts on AzureML
+- [Azure/AzureML-Containers](https://github.com/Azure/AzureML-Containers) pushed_at:2022-01 star:0.1k fork:0.1k Docker containers for running training scripts on AzureML
 - [Azure/spring-boot-container-quickstart](https://github.com/Azure/spring-boot-container-quickstart) pushed_at:2020-04 star:0.0k fork:0.0k Quick starts for creating Spring Boot container images -- using supported versions of Java and and customizing the images 
 - [Azure/static-web-apps-deploy](https://github.com/Azure/static-web-apps-deploy) pushed_at:2021-08 star:0.1k fork:0.0k Enable GitHub developers to deploy to Azure Static Web Apps using GitHub Actions
 - [Azure/tomcat-container-quickstart](https://github.com/Azure/tomcat-container-quickstart) pushed_at:2021-02 star:0.0k fork:0.0k Quick starts for creating Tomcat app server container images -- using supported versions of Java and and customizing the images
@@ -437,7 +436,7 @@
 
 - [Azure/aad-pod-identity](https://github.com/Azure/aad-pod-identity) pushed_at:2022-01 star:0.5k fork:0.2k Assign Azure Active Directory Identities to Kubernetes applications. 
 - [Azure/acr-builder](https://github.com/Azure/acr-builder) pushed_at:2022-01 star:0.0k fork:0.0k Azure Container Registry Build Runner
-- [Azure/acr-cli](https://github.com/Azure/acr-cli) pushed_at:2021-09 star:0.0k fork:0.0k Command Line Tool for interacting with Azure Container Registry Images
+- [Azure/acr-cli](https://github.com/Azure/acr-cli) pushed_at:2022-01 star:0.0k fork:0.0k Command Line Tool for interacting with Azure Container Registry Images
 - [Azure/acr-docker-credential-helper](https://github.com/Azure/acr-docker-credential-helper) pushed_at:2020-10 star:0.0k fork:0.0k This is a wrapper for Docker Credential helpers created by Azure Container Registry (ACR) team. This tool allows Azure Active Directory (AAD) based login
 - [Azure/acs-engine](https://github.com/Azure/acs-engine) pushed_at:2019-03 star:1.0k fork:0.6k WE HAVE MOVED: Please join us at Azure/aks-engine!
 - [Azure/adx-automation-agent](https://github.com/Azure/adx-automation-agent) pushed_at:2018-11 star:0.0k fork:0.0k The agent program loaded in the test docker container for ADX team's automation system
@@ -497,7 +496,7 @@
 - [Azure/go-autorest](https://github.com/Azure/go-autorest) pushed_at:2022-01 star:0.2k fork:0.2k This package implements an HTTP request pipeline suitable for use across multiple go-routines and provides the shared routines relied on by AutoRest generated Go code.
 - [Azure/go-ntlmssp](https://github.com/Azure/go-ntlmssp) pushed_at:2021-12 star:0.1k fork:0.1k NTLM/Negotiate authentication over HTTP
 - [Azure/go-pkcs12](https://github.com/Azure/go-pkcs12) pushed_at:2016-06 star:0.0k fork:0.0k PCKS#12 implementation for Go
-- [Azure/go-shuttle](https://github.com/Azure/go-shuttle) pushed_at:2021-11 star:0.0k fork:0.0k go-shuttle is a light wrapper around the azure servicebus sdk for go. It is aimed at providing an api more in line with service implementation in a pub-sub context
+- [Azure/go-shuttle](https://github.com/Azure/go-shuttle) pushed_at:2022-01 star:0.0k fork:0.0k go-shuttle is a light wrapper around the azure servicebus sdk for go. It is aimed at providing an api more in line with service implementation in a pub-sub context
 - [Azure/golua](https://github.com/Azure/golua) pushed_at:2020-10 star:1.8k fork:0.1k A Lua 5.3 engine implemented in Go
 - [Azure/guest-agent-test-extension](https://github.com/Azure/guest-agent-test-extension) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [Azure/Guest-Configuration-Extension](https://github.com/Azure/Guest-Configuration-Extension) pushed_at:2021-12 star:0.0k fork:0.0k Azure Guest Configuration Virtual Machine Extension for Linux
@@ -508,7 +507,7 @@
 - [Azure/k8s-infra](https://github.com/Azure/k8s-infra) pushed_at:2021-05 star:0.0k fork:0.0k Kubernetes-native infrastructure provider for Azure at scale
 - [Azure/keptn-workflow-executor](https://github.com/Azure/keptn-workflow-executor) pushed_at:2021-08 star:0.0k fork:0.0k Keptn executor for Azure Orkestra workflows
 - [Azure/keyvaultcertdownloader](https://github.com/Azure/keyvaultcertdownloader) pushed_at:2020-04 star:0.0k fork:0.0k Tool that downloads Azure KeyVault managed certificates as PEM file
-- [Azure/knarly](https://github.com/Azure/knarly) pushed_at:2021-11 star:0.0k fork:0.0k Kubernetes workload scale and performance testing
+- [Azure/knarly](https://github.com/Azure/knarly) pushed_at:2022-01 star:0.0k fork:0.0k Kubernetes workload scale and performance testing
 - [Azure/kube-advisor](https://github.com/Azure/kube-advisor) pushed_at:2019-05 star:0.1k fork:0.0k Check if containers are using resource and request limits and other useful things.
 - [Azure/kubelogin](https://github.com/Azure/kubelogin) pushed_at:2021-10 star:0.2k fork:0.0k A Kubernetes credential (exec) plugin implementing azure authentication
 - [Azure/kubernetes](https://github.com/Azure/kubernetes) pushed_at:2020-07 star:0.0k fork:0.0k Production-Grade Container Scheduling and Management
@@ -525,6 +524,7 @@
 - [Azure/orkestra](https://github.com/Azure/orkestra) pushed_at:2021-11 star:0.1k fork:0.0k Orkestra is a cloud-native release orchestration and lifecycle management (LCM) platform for the fine-grained orchestration of inter-dependent helm charts and their dependencies
 - [Azure/orkestra-workflow-executor-template](https://github.com/Azure/orkestra-workflow-executor-template) pushed_at:2021-10 star:0.0k fork:0.0k Template repo for generating your own workflow executor for Azure Orkestra
 - [Azure/packer-azure](https://github.com/Azure/packer-azure) pushed_at:2017-01 star:0.1k fork:0.1k Packer for Azure
+- [Azure/placement-policy-scheduler-plugins](https://github.com/Azure/placement-policy-scheduler-plugins) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [Azure/rg-cleanup](https://github.com/Azure/rg-cleanup) pushed_at:2021-11 star:0.0k fork:0.0k Clean up stale Azure resource groups based on resource group tag.
 - [Azure/run-command-extension-linux](https://github.com/Azure/run-command-extension-linux) pushed_at:2021-11 star:0.0k fork:0.0k RunCommand extension runs scripts on VMs send by the RunCommand operation to a Linux VM.
 - [Azure/run-command-handler-linux](https://github.com/Azure/run-command-handler-linux) pushed_at:2021-11 star:0.0k fork:0.0k RunCommand extension handler runs scripts within VMs sent by PUT RunCommand resource to a Linux VM.
@@ -548,7 +548,7 @@
 - [Azure/aztack](https://github.com/Azure/aztack) pushed_at:2018-06 star:0.0k fork:0.0k Terraform module for creating Kubernetes clusters running on Azure 
 - [Azure/azure-spring-cloud-reference-architecture](https://github.com/Azure/azure-spring-cloud-reference-architecture) pushed_at:2021-11 star:0.0k fork:0.0k Quickstarts for deploying Azure Spring Cloud Reference Architecture - using Terraform, ARM Template, Bicep or Azure CLI
 - [Azure/caf-terraform-landingzones](https://github.com/Azure/caf-terraform-landingzones) pushed_at:2022-01 star:0.5k fork:0.4k Cloud Adoption Framework for Azure - Terraform landing zones
-- [Azure/caf-terraform-landingzones-starter](https://github.com/Azure/caf-terraform-landingzones-starter) pushed_at:2021-12 star:0.1k fork:0.2k Starter project for Cloud Adoption Framework for Azure landing zones on Terraform
+- [Azure/caf-terraform-landingzones-starter](https://github.com/Azure/caf-terraform-landingzones-starter) pushed_at:2022-01 star:0.1k fork:0.2k Starter project for Cloud Adoption Framework for Azure landing zones on Terraform
 - [Azure/devops-governance](https://github.com/Azure/devops-governance) pushed_at:2022-01 star:0.1k fork:0.0k Example end-to-end Governance Model from CI/CD to Azure Resource Manager. Use this project to deploy example AAD, ARM and Azure DevOps resources to learn about e2e RBAC.
 - [Azure/Enterprise-Scale-for-AKS](https://github.com/Azure/Enterprise-Scale-for-AKS) pushed_at:2022-01 star:0.0k fork:0.0k Enterprise Scale for AKS Reference Implementation Repo
 - [Azure/eu-digital-covid-certificates-reference-architecture](https://github.com/Azure/eu-digital-covid-certificates-reference-architecture) pushed_at:2022-01 star:0.0k fork:0.0k Reference Architecture for deploying the EU Digital COVID Certificates project on Azure
@@ -560,7 +560,7 @@
 - [Azure/terraform](https://github.com/Azure/terraform) pushed_at:2022-01 star:0.2k fork:0.3k Source code for the Azure Marketplace Terraform development VM package.
 - [Azure/terraform-azurerm-aci](https://github.com/Azure/terraform-azurerm-aci) pushed_at:2020-10 star:0.0k fork:0.0k Azure Container Instances Module
 - [Azure/terraform-azurerm-aci-devops-agent](https://github.com/Azure/terraform-azurerm-aci-devops-agent) pushed_at:2021-06 star:0.1k fork:0.0k Terraform Module to deploy a Azure DevOps self-hosted agents on Azure Container Instance
-- [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) pushed_at:2021-12 star:0.1k fork:0.2k Terraform Module for deploying an AKS cluster
+- [Azure/terraform-azurerm-aks](https://github.com/Azure/terraform-azurerm-aks) pushed_at:2022-01 star:0.1k fork:0.2k Terraform Module for deploying an AKS cluster
 - [Azure/terraform-azurerm-appgw-ingress-k8s-cluster](https://github.com/Azure/terraform-azurerm-appgw-ingress-k8s-cluster) pushed_at:2020-03 star:0.0k fork:0.0k The Application Gateway Ingress Controller allows the Azure Application Gateway to be used as the ingress for an Azure Kubernetes Service aka AKS cluster. As shown in the figure below, the ingress controller runs as a pod within the AKS cluster. It consumes Kubernetes Ingress Resources and converts them to an Azure Application Gateway configuration which allows the gateway to load-balance traffic to Kubernetes pods.
 - [Azure/terraform-azurerm-caf-enterprise-scale](https://github.com/Azure/terraform-azurerm-caf-enterprise-scale) pushed_at:2022-01 star:0.2k fork:0.1k Terraform Module for Cloud Adoption Framework Enterprise-scale
 - [Azure/terraform-azurerm-compute](https://github.com/Azure/terraform-azurerm-compute) pushed_at:2021-10 star:0.1k fork:0.3k Terraform Azure RM Compute Module
@@ -611,7 +611,7 @@
 - [Azure/azure-functions-nodejs-worker](https://github.com/Azure/azure-functions-nodejs-worker) pushed_at:2022-01 star:0.1k fork:0.0k The Node.js worker for the Azure Functions runtime - https://functions.azure.com
 - [Azure/Azure-MachineLearning-ClientLibrary-R](https://github.com/Azure/Azure-MachineLearning-ClientLibrary-R) pushed_at:2015-11 star:0.0k fork:0.0k 
 - [Azure/azure-mobile-services](https://github.com/Azure/azure-mobile-services) pushed_at:2020-02 star:0.5k fork:0.3k Mobile Services is deprecated - Use Mobile Apps instead
-- [Azure/azure-remote-rendering](https://github.com/Azure/azure-remote-rendering) pushed_at:2021-12 star:0.1k fork:0.0k SDK and samples for Azure Remote Rendering
+- [Azure/azure-remote-rendering](https://github.com/Azure/azure-remote-rendering) pushed_at:2022-01 star:0.1k fork:0.0k SDK and samples for Azure Remote Rendering
 - [Azure/azure-sphere-hardware-designs](https://github.com/Azure/azure-sphere-hardware-designs) pushed_at:2021-09 star:0.0k fork:0.0k Hardware reference designs for Azure Sphere chips created and maintained by the Azure Sphere team at Microsoft
 - [Azure/Azure-TDSP-Utilities](https://github.com/Azure/Azure-TDSP-Utilities) pushed_at:2018-11 star:0.4k fork:0.3k Utilities and scripts  developed as part of Microsoft's Team Data Science Process for productive data science 
 - [Azure/azure-triggers-acr](https://github.com/Azure/azure-triggers-acr) pushed_at:2020-09 star:0.0k fork:0.0k 
@@ -646,7 +646,7 @@
 - [Azure/azure-documentdb-changefeedprocessor-java](https://github.com/Azure/azure-documentdb-changefeedprocessor-java) pushed_at:2020-10 star:0.0k fork:0.0k The Java source code for CosmosDB Core Change Feed Processor
 - [Azure/azure-documentdb-hadoop](https://github.com/Azure/azure-documentdb-hadoop) pushed_at:2017-04 star:0.0k fork:0.0k 
 - [Azure/azure-documentdb-java](https://github.com/Azure/azure-documentdb-java) pushed_at:2021-07 star:0.0k fork:0.0k Java Sync SDK for SQL API of Azure Cosmos DB
-- [Azure/azure-event-hubs-for-kafka](https://github.com/Azure/azure-event-hubs-for-kafka) pushed_at:2022-01 star:0.1k fork:0.1k Azure Event Hubs for Apache Kafka Ecosystems
+- [Azure/azure-event-hubs-for-kafka](https://github.com/Azure/azure-event-hubs-for-kafka) pushed_at:2022-01 star:0.1k fork:0.2k Azure Event Hubs for Apache Kafka Ecosystems
 - [Azure/azure-event-hubs-java](https://github.com/Azure/azure-event-hubs-java) pushed_at:2022-01 star:0.0k fork:0.1k ☁️ Java client library for Azure Event Hubs
 - [Azure/azure-functions-java-core-library](https://github.com/Azure/azure-functions-java-core-library) pushed_at:2022-01 star:0.0k fork:0.0k Azure Functions Java Worker Core Library
 - [Azure/azure-functions-java-library](https://github.com/Azure/azure-functions-java-library) pushed_at:2022-01 star:0.0k fork:0.0k Contains annotations for writing Azure Functions in Java
@@ -704,7 +704,7 @@
 - [Azure/AzSwaggerSpecsTestClone](https://github.com/Azure/AzSwaggerSpecsTestClone) pushed_at:2019-09 star:0.0k fork:0.0k This is a clone of azure-rest-api-spec repo. This repo will be used to test automated tooling for swagger to SDK
 - [Azure/azure-api-style-guide](https://github.com/Azure/azure-api-style-guide) pushed_at:2022-01 star:0.0k fork:0.0k Spectral rules to check conformance to Azure API Guidelines
 - [Azure/azure-arm-validator](https://github.com/Azure/azure-arm-validator) pushed_at:2019-02 star:0.0k fork:0.0k A tiny server which will validate Azure Resource Manager templates
-- [Azure/azure-cosmosdb-js-server](https://github.com/Azure/azure-cosmosdb-js-server) pushed_at:2020-12 star:0.1k fork:0.1k The JavaScript SDK for server-side programming in Azure Cosmos DB
+- [Azure/azure-cosmosdb-js-server](https://github.com/Azure/azure-cosmosdb-js-server) pushed_at:2022-01 star:0.1k fork:0.1k The JavaScript SDK for server-side programming in Azure Cosmos DB
 - [Azure/azure-cosmosdb-node](https://github.com/Azure/azure-cosmosdb-node) pushed_at:2020-01 star:0.1k fork:0.1k We recently announced deprecation of JS v1 SDK and this repo. Starting September 2020 Microsoft will not provide support for this library. Existing applications using library will continue to work as-is. We strongly recommend upgrading to @azure/cosmos library.
 - [Azure/azure-digital-twins-graph-viewer](https://github.com/Azure/azure-digital-twins-graph-viewer) pushed_at:2020-07 star:0.0k fork:0.0k The Azure Digital Twins Graph Viewer can be used and customized to visualize the spaces, devices, and sensors in your Azure Digital Twins spatial graph.
 - [Azure/azure-documentdb-node-q](https://github.com/Azure/azure-documentdb-node-q) pushed_at:2016-12 star:0.0k fork:0.0k q promises wrapper for the Azure DocumentDB Node.js driver
@@ -745,7 +745,7 @@
 - [Azure/dps-certgen](https://github.com/Azure/dps-certgen) pushed_at:2019-05 star:0.0k fork:0.0k Azure IoT x509 Certificate Helper Tool
 - [Azure/dpush](https://github.com/Azure/dpush) pushed_at:2012-12 star:0.0k fork:0.0k Send push notifications to Android devices using GCM
 - [Azure/envconf](https://github.com/Azure/envconf) pushed_at:2014-05 star:0.0k fork:0.0k A module to implement express-style configuration for multiple environments for any library or application.
-- [Azure/fta-identity](https://github.com/Azure/fta-identity) pushed_at:2021-11 star:0.0k fork:0.0k FastTrack for Azure - Identity
+- [Azure/fta-identity](https://github.com/Azure/fta-identity) pushed_at:2022-01 star:0.0k fork:0.0k FastTrack for Azure - Identity
 - [Azure/fta-internalbusinessapps](https://github.com/Azure/fta-internalbusinessapps) pushed_at:2021-08 star:0.0k fork:0.0k FastTrack for Azure - Internal Business Apps solution
 - [Azure/functions-container-action](https://github.com/Azure/functions-container-action) pushed_at:2021-09 star:0.0k fork:0.0k Enable GitHub developers to deploy to Azure Function Apps Containers using GitHub Actions
 - [Azure/generator-az-iot-gw-module](https://github.com/Azure/generator-az-iot-gw-module) pushed_at:2017-08 star:0.0k fork:0.0k Yeoman generator for JS module development on Azure IoT Edge v1 Module.  **Note: As IoT Edge v1 is no longer under active development, this tool is not supported.
@@ -779,7 +779,7 @@
 - [Azure/policy-compliance-scan](https://github.com/Azure/policy-compliance-scan) pushed_at:2021-09 star:0.0k fork:0.0k A GitHub action that scans the Azure resources for policy violations.
 - [Azure/postgresql](https://github.com/Azure/postgresql) pushed_at:2021-09 star:0.0k fork:0.0k  Deploy to an Azure PostgreSQL database using PLSQL scripts.
 - [Azure/publish-security-assessments](https://github.com/Azure/publish-security-assessments) pushed_at:2021-10 star:0.0k fork:0.0k This action can be used to publish security scans done as part of CI/CD on Github to Azure Security Center.
-- [Azure/ServerlessLibrary](https://github.com/Azure/ServerlessLibrary) pushed_at:2021-10 star:0.1k fork:0.0k Source code for the Azure Serverless Community Library
+- [Azure/ServerlessLibrary](https://github.com/Azure/ServerlessLibrary) pushed_at:2022-01 star:0.1k fork:0.0k Source code for the Azure Serverless Community Library
 - [Azure/setup-kubectl](https://github.com/Azure/setup-kubectl) pushed_at:2022-01 star:0.0k fork:0.0k Enable GitHub developers to deploy to Kubernetes service using GitHub Actions
 - [Azure/Sia-EventUI](https://github.com/Azure/Sia-EventUI) pushed_at:2018-12 star:0.0k fork:0.0k User interface for SIA event timeline
 - [Azure/smarthotels360-azure](https://github.com/Azure/smarthotels360-azure) pushed_at:2017-11 star:0.0k fork:0.0k Source code from the Connect(); 2017 conference general session: Application modernization with Microsoft Azure.
@@ -793,7 +793,7 @@
 - [Azure/template-building-blocks](https://github.com/Azure/template-building-blocks) pushed_at:2017-08 star:0.0k fork:0.0k a library of composable templates for common resource deployment scenarios
 - [Azure/Unreal-Pixel-Streaming](https://github.com/Azure/Unreal-Pixel-Streaming) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [Azure/Verified-Telemetry-Solution-Sample](https://github.com/Azure/Verified-Telemetry-Solution-Sample) pushed_at:2021-06 star:0.0k fork:0.0k A solution sample demonstrating how to visualize and interact with a device using the verified telemetry SDK.
-- [Azure/webapps-deploy](https://github.com/Azure/webapps-deploy) pushed_at:2021-10 star:0.1k fork:0.1k Enable GitHub developers to deploy to Azure WebApps using GitHub Actions
+- [Azure/webapps-deploy](https://github.com/Azure/webapps-deploy) pushed_at:2022-01 star:0.1k fork:0.1k Enable GitHub developers to deploy to Azure WebApps using GitHub Actions
 - [Azure/wns](https://github.com/Azure/wns) pushed_at:2012-10 star:0.0k fork:0.0k Send push notifications to Windows 8 devices using WNS
 
 ## Jupyter Notebook
@@ -871,7 +871,7 @@
 
 ## Mustache
 
-- [Azure/api-management-self-hosted-gateway](https://github.com/Azure/api-management-self-hosted-gateway) pushed_at:2021-12 star:0.0k fork:0.0k Samples and other artifacts related to the Azure API Management Self-Hosted Gateway
+- [Azure/api-management-self-hosted-gateway](https://github.com/Azure/api-management-self-hosted-gateway) pushed_at:2022-01 star:0.0k fork:0.0k Samples and other artifacts related to the Azure API Management Self-Hosted Gateway
 
 ## Objective-C
 
@@ -911,7 +911,7 @@
 - [Azure/api-management-policy-snippets](https://github.com/Azure/api-management-policy-snippets) pushed_at:2022-01 star:0.2k fork:0.1k Re-usable examples of Azure API Management policies
 - [Azure/app-service-announcements](https://github.com/Azure/app-service-announcements) pushed_at:2021-03 star:0.4k fork:0.0k Subscribe to this repo to be notified about major changes in App Service
 - [Azure/app-service-announcements-discussions](https://github.com/Azure/app-service-announcements-discussions) pushed_at:2017-08 star:0.0k fork:0.0k Discussions for announcements from https://github.com/Azure/app-service-announcements/
-- [Azure/app-service-linux-docs](https://github.com/Azure/app-service-linux-docs) pushed_at:2021-12 star:0.1k fork:0.0k Azure App Service: Frequently Asked Questions on Linux App Service
+- [Azure/app-service-linux-docs](https://github.com/Azure/app-service-linux-docs) pushed_at:2022-01 star:0.1k fork:0.0k Azure App Service: Frequently Asked Questions on Linux App Service
 - [Azure/AppConfiguration](https://github.com/Azure/AppConfiguration) pushed_at:2022-01 star:0.1k fork:0.0k Questions, feedback and samples for Azure App Configuration service
 - [Azure/AppConfiguration-Announcements](https://github.com/Azure/AppConfiguration-Announcements) pushed_at:2020-09 star:0.0k fork:0.0k News about Azure App Configuration
 - [Azure/appservice-landing-zone-accelerator](https://github.com/Azure/appservice-landing-zone-accelerator) pushed_at:2022-01 star:0.0k fork:0.0k Landing Zone Accelerator for App Service
@@ -986,7 +986,7 @@
 - [Azure/azure-event-hubs](https://github.com/Azure/azure-event-hubs) pushed_at:2022-01 star:0.3k fork:0.5k ☁️ Cloud-scale telemetry ingestion from any stream of data with Azure Event Hubs
 - [Azure/Azure-Functions](https://github.com/Azure/Azure-Functions) pushed_at:2021-10 star:0.9k fork:0.2k 
 - [Azure/azure-functions-availability-monitoring-extension](https://github.com/Azure/azure-functions-availability-monitoring-extension) pushed_at:2021-10 star:0.0k fork:0.0k Azure Monitor Coded Availability Tests powered by Azure Functions.
-- [Azure/azure-functions-language-worker-protobuf](https://github.com/Azure/azure-functions-language-worker-protobuf) pushed_at:2021-12 star:0.0k fork:0.0k Protobuf definitions for the gRPC connections between the script host and the language workers
+- [Azure/azure-functions-language-worker-protobuf](https://github.com/Azure/azure-functions-language-worker-protobuf) pushed_at:2022-01 star:0.0k fork:0.0k Protobuf definitions for the gRPC connections between the script host and the language workers
 - [Azure/azure-functions-overwatch](https://github.com/Azure/azure-functions-overwatch) pushed_at:2021-01 star:0.0k fork:0.0k Overwatch Workflows repo.
 - [Azure/azure-functions-premium-plan](https://github.com/Azure/azure-functions-premium-plan) pushed_at:2018-10 star:0.0k fork:0.0k Information, issue tracking, and documentation around the Azure Functions premium plan
 - [Azure/azure-fusion-controls](https://github.com/Azure/azure-fusion-controls) pushed_at:2021-08 star:0.0k fork:0.0k 
@@ -1001,7 +1001,7 @@
 - [Azure/Azure-Migration-Guidance](https://github.com/Azure/Azure-Migration-Guidance) pushed_at:2020-03 star:0.0k fork:0.0k Documentation for migration of Azure resources from one Azure region to another.
 - [Azure/Azure-ML-Interpretability_2020](https://github.com/Azure/Azure-ML-Interpretability_2020) pushed_at:2020-05 star:0.0k fork:0.0k 
 - [Azure/Azure-Purview-Starter-Kit](https://github.com/Azure/Azure-Purview-Starter-Kit) pushed_at:2021-11 star:0.0k fork:0.0k 
-- [Azure/azure-relay](https://github.com/Azure/azure-relay) pushed_at:2021-11 star:0.1k fork:0.1k ☁️ Azure Relay service issue tracking and samples
+- [Azure/azure-relay](https://github.com/Azure/azure-relay) pushed_at:2022-01 star:0.1k fork:0.1k ☁️ Azure Relay service issue tracking and samples
 - [Azure/azure-resource-login-action](https://github.com/Azure/azure-resource-login-action) pushed_at:2021-09 star:0.0k fork:0.0k A GitHub Action for getting an Access Token for an specific Azure resource
 - [Azure/azure-resource-manager-rpc](https://github.com/Azure/azure-resource-manager-rpc) pushed_at:2022-01 star:0.1k fork:0.1k Azure Resource Manager Resource Provider Contract
 - [Azure/azure-resource-provider-sdk](https://github.com/Azure/azure-resource-provider-sdk) pushed_at:2020-03 star:0.0k fork:0.0k 
@@ -1052,7 +1052,7 @@
 - [Azure/coco-framework](https://github.com/Azure/coco-framework) pushed_at:2019-05 star:0.8k fork:0.1k The Confidential Consortium Blockchain Framework is an open-source system that enables high-scale, confidential blockchain networks that meet all key enterprise requirements—providing a means to accelerate production enterprise adoption of blockchain technology.
 - [Azure/Cognitive-RecommendationsAPI-DynamicsAX2012R3-Samples](https://github.com/Azure/Cognitive-RecommendationsAPI-DynamicsAX2012R3-Samples) pushed_at:2016-12 star:0.0k fork:0.0k Sample code  to integrate Microsoft Cognitive Services Recommendations API in Microsoft Dynamics AX 2012R3 Call Center module
 - [Azure/cognitiveservices-aci](https://github.com/Azure/cognitiveservices-aci) pushed_at:2019-05 star:0.0k fork:0.0k Deploying Cognitive Services to Azure Container Instances
-- [Azure/commercial-marketplace-data-offer-accelerator](https://github.com/Azure/commercial-marketplace-data-offer-accelerator) pushed_at:2021-11 star:0.0k fork:0.0k This is a repository for a solution that underpins the sharing of data in the Azure Marketplace.
+- [Azure/commercial-marketplace-data-offer-accelerator](https://github.com/Azure/commercial-marketplace-data-offer-accelerator) pushed_at:2022-01 star:0.0k fork:0.0k This is a repository for a solution that underpins the sharing of data in the Azure Marketplace.
 - [Azure/Communication](https://github.com/Azure/Communication) pushed_at:2022-01 star:0.2k fork:0.1k Azure Communication Services - Samples and Tools
 - [Azure/compute-hub](https://github.com/Azure/compute-hub) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [Azure/container-compute-upstream](https://github.com/Azure/container-compute-upstream) pushed_at:2021-07 star:0.0k fork:0.0k This project captures asks, work in progress, and completed work for the Microsoft Container Compute Upstream team in the form of issues and a project board
@@ -1079,6 +1079,7 @@
 - [Azure/developer](https://github.com/Azure/developer) pushed_at:2021-02 star:0.0k fork:0.0k Developer community for Azure
 - [Azure/digital-twin-model-identifier](https://github.com/Azure/digital-twin-model-identifier) pushed_at:2020-04 star:0.0k fork:0.0k Digital Twin Model Identifier
 - [Azure/DigitalTwins-Helper-Library](https://github.com/Azure/DigitalTwins-Helper-Library) pushed_at:2018-10 star:0.0k fork:0.0k Wrapper around DigitalTwins API
+- [Azure/eKreta2SDS](https://github.com/Azure/eKreta2SDS) pushed_at:2021-09 star:0.0k fork:0.0k Tool to convert eKréta or mozaNapló student, teacher and class informations into Microsoft School Data Sync format to expedite Office 365 for Education adoption. További információk használatról, kérdésekről, problémákról az "Issues" lapon.
 - [Azure/federated-search-preview](https://github.com/Azure/federated-search-preview) pushed_at:2021-11 star:0.0k fork:0.0k Private preview for Federated Search.
 - [Azure/finance-analytics](https://github.com/Azure/finance-analytics) pushed_at:2016-02 star:0.0k fork:0.0k A collection of content (collateral bundle) for the banking, financial services and insurance industries.
 - [Azure/Fleet-PRSE](https://github.com/Azure/Fleet-PRSE) pushed_at:2020-12 star:0.0k fork:0.0k Documentation and presentations
@@ -1107,10 +1108,11 @@
 - [Azure/fta-japan](https://github.com/Azure/fta-japan) pushed_at:2021-12 star:0.0k fork:0.0k FastTrack for Azure Japan
 - [Azure/fta-liftandshift-dcmigration](https://github.com/Azure/fta-liftandshift-dcmigration) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [Azure/fta-live-asm-to-arm](https://github.com/Azure/fta-live-asm-to-arm) pushed_at:2021-11 star:0.0k fork:0.0k Azure Service Manager (Classic) migration to Azure Resource Manager, options, recommendations and guidelines.
-- [Azure/fta-marketplace-tech](https://github.com/Azure/fta-marketplace-tech) pushed_at:2021-10 star:0.0k fork:0.0k Content for the FTA Live: Marketplace Tech session
+- [Azure/fta-marketplace-tech](https://github.com/Azure/fta-marketplace-tech) pushed_at:2022-01 star:0.0k fork:0.0k Content for the FTA Live: Marketplace Tech session
 - [Azure/fta-ModernServiceManagement](https://github.com/Azure/fta-ModernServiceManagement) pushed_at:2021-06 star:0.0k fork:0.0k Content for MSM FTA 1:Many Session
-- [Azure/fta-monitoring](https://github.com/Azure/fta-monitoring) pushed_at:2021-11 star:0.0k fork:0.0k 
+- [Azure/fta-monitoring](https://github.com/Azure/fta-monitoring) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [Azure/fta-windowsvirtualdesktop](https://github.com/Azure/fta-windowsvirtualdesktop) pushed_at:2021-11 star:0.0k fork:0.0k FastTrack for Azure - Windows Virtual Desktop
+- [Azure/FTALive-Sessions](https://github.com/Azure/FTALive-Sessions) pushed_at:2022-01 star:0.0k fork:0.0k This repository is a public-facing source of information for FastTrack for Azure Live sessions.
 - [Azure/fulmar](https://github.com/Azure/fulmar) pushed_at:2020-09 star:0.0k fork:0.0k 
 - [Azure/functionschallenge](https://github.com/Azure/functionschallenge) pushed_at:2016-11 star:0.0k fork:0.0k This is github repository to report issues and give feedback on https://functionschallenge.azure.com
 - [Azure/FXT](https://github.com/Azure/FXT) pushed_at:2019-06 star:0.0k fork:0.0k Documentation for the Azure FXT 6000 hardware (Avere).
@@ -1123,7 +1125,7 @@
 - [Azure/hdinsight-script-actions](https://github.com/Azure/hdinsight-script-actions) pushed_at:2020-04 star:0.0k fork:0.0k 
 - [Azure/hpc-cache](https://github.com/Azure/hpc-cache) pushed_at:2021-10 star:0.0k fork:0.0k Azure HPC Cache notes and resources
 - [Azure/hpcpack](https://github.com/Azure/hpcpack) pushed_at:2021-12 star:0.0k fork:0.0k The repo to track public issues for Microsoft HPC Pack product.
-- [Azure/hpcpack-template-2016](https://github.com/Azure/hpcpack-template-2016) pushed_at:2021-06 star:0.0k fork:0.0k Deploy an HPC Pack 2016 cluster in Azure
+- [Azure/hpcpack-template-2016](https://github.com/Azure/hpcpack-template-2016) pushed_at:2022-01 star:0.0k fork:0.0k Deploy an HPC Pack 2016 cluster in Azure
 - [Azure/ImageClassificationUsingCntk](https://github.com/Azure/ImageClassificationUsingCntk) pushed_at:2017-11 star:0.0k fork:0.0k Deep-learning based Image Classification
 - [Azure/iot](https://github.com/Azure/iot) pushed_at:2021-10 star:0.1k fork:0.0k Resources for Azure IoT developers
 - [Azure/iot-edge-opc-proxy-api-csharp](https://github.com/Azure/iot-edge-opc-proxy-api-csharp) pushed_at:2020-09 star:0.0k fork:0.0k OPC Proxy API
@@ -1134,7 +1136,7 @@
 - [Azure/itanomalyinsights-cortana-intelligence-preconfigured-solution](https://github.com/Azure/itanomalyinsights-cortana-intelligence-preconfigured-solution) pushed_at:2017-08 star:0.0k fork:0.0k IT Anomaly Insights Solution
 - [Azure/k8s-best-practices](https://github.com/Azure/k8s-best-practices) pushed_at:2020-01 star:0.2k fork:0.1k A collection of best practices for running Kubernetes on Azure with AKS or ACS-Engine from the Intelligent Cloud Global Blackbelt team
 - [Azure/Keyvault-Rotation-Template-Powershell](https://github.com/Azure/Keyvault-Rotation-Template-Powershell) pushed_at:2020-12 star:0.0k fork:0.0k 
-- [Azure/kubectl-az](https://github.com/Azure/kubectl-az) pushed_at:2021-11 star:0.0k fork:0.0k 
+- [Azure/kubectl-az](https://github.com/Azure/kubectl-az) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [Azure/Liftnshiftplus](https://github.com/Azure/Liftnshiftplus) pushed_at:2017-11 star:0.0k fork:0.0k Repo for Lift and Shift using Opensource technologies
 - [Azure/logicapps-update-docs](https://github.com/Azure/logicapps-update-docs) pushed_at:2020-08 star:0.0k fork:0.0k Release updates for the Azure Logic Apps service
 - [Azure/machine-learning-at-scale](https://github.com/Azure/machine-learning-at-scale) pushed_at:2021-11 star:0.0k fork:0.0k machine learning at scale on Azure Machine Learning
@@ -1158,16 +1160,16 @@
 - [Azure/OpenShift](https://github.com/Azure/OpenShift) pushed_at:2021-02 star:0.1k fork:0.0k Azure Red Hat OpenShift
 - [Azure/pack8capture](https://github.com/Azure/pack8capture) pushed_at:2021-09 star:0.0k fork:0.0k Distributed packet capture utility for Kubernetes. pack8capture is a cloud-native solution for simultaneously capturing network traffic across all pods in a replica set 
 - [Azure/paho.mqtt.java](https://github.com/Azure/paho.mqtt.java) pushed_at:2019-07 star:0.0k fork:0.0k A fork of the Eclipse Paho repository
+- [Azure/PartnerResources](https://github.com/Azure/PartnerResources) pushed_at:2022-01 star:0.0k fork:0.0k Created by OCP Scale Enablement to house partner-ready resources
 - [Azure/pcf-on-azure-dotnet](https://github.com/Azure/pcf-on-azure-dotnet) pushed_at:2018-02 star:0.0k fork:0.0k Pivotal Cloud Foundry on Azure Workshop - dotnet
 - [Azure/pcf-on-azure-java](https://github.com/Azure/pcf-on-azure-java) pushed_at:2018-02 star:0.0k fork:0.0k Pivotal Cloud Foundry on Azure Workshop - java
 - [Azure/Project-Cerberus-manifest](https://github.com/Azure/Project-Cerberus-manifest) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [Azure/project-x-templates](https://github.com/Azure/project-x-templates) pushed_at:2020-07 star:0.0k fork:0.0k 
-- [Azure/PSCodebase](https://github.com/Azure/PSCodebase) pushed_at:2022-01 star:0.0k fork:0.0k Public Sector Code Base
 - [Azure/Remote-Desktop-Services-Protocol-Sample](https://github.com/Azure/Remote-Desktop-Services-Protocol-Sample) pushed_at:2021-12 star:0.0k fork:0.0k This is a sample on how to implement the RDS Protocol interface for developing your own Remote Protocol to interface with Windows.
 - [Azure/retro-arcade](https://github.com/Azure/retro-arcade) pushed_at:2021-01 star:0.0k fork:0.0k Azure Application Services on Arc
 - [Azure/run-sqlpackage-action](https://github.com/Azure/run-sqlpackage-action) pushed_at:2021-09 star:0.0k fork:0.0k A GitHub Action to run the SqlPackage command line utility on any Azure Synapse, Azure SQL Database or Azure SQL Managed Instance
 - [Azure/SaaS-Private-Connectivity](https://github.com/Azure/SaaS-Private-Connectivity) pushed_at:2021-11 star:0.0k fork:0.0k Private connectivity patterns for SaaS providers on Azure
-- [Azure/saibcm-modules](https://github.com/Azure/saibcm-modules) pushed_at:2021-12 star:0.0k fork:0.0k This repository contains the SDK GPL module from broadcom.
+- [Azure/saibcm-modules](https://github.com/Azure/saibcm-modules) pushed_at:2022-01 star:0.0k fork:0.0k This repository contains the SDK GPL module from broadcom.
 - [Azure/SampleRRAMTest](https://github.com/Azure/SampleRRAMTest) pushed_at:2019-03 star:0.0k fork:0.0k SampleRRAMTest
 - [Azure/SampleVisionApi](https://github.com/Azure/SampleVisionApi) pushed_at:2019-03 star:0.0k fork:0.0k SampleVisionApi
 - [Azure/SAPonAzure-CAF-SolutionFactory](https://github.com/Azure/SAPonAzure-CAF-SolutionFactory) pushed_at:2020-10 star:0.0k fork:0.0k The SAP on Azure CAF Solution Factory has contents to guide SAP Workload Migration to Azure in alignment to Cloud Adoption Framework.
@@ -1186,6 +1188,7 @@
 - [Azure/SQL_CAF_SolutionFactory](https://github.com/Azure/SQL_CAF_SolutionFactory) pushed_at:2020-08 star:0.0k fork:0.0k The SQL CAF Solution Factory has Technical and Sales enablement contents for migrating SQL to Azure. The sale content contains powerpoint decks for SQL and CAF. The technical enablement contains eBook that describes what needs to happen during a SQL migration aligned to Cloud Adoption Framework, DevOps Project TaskList that can help Microsoft customers and partners to deploy and manage Azure SQL in alignment to Cloud Adoption Framework (CAF).
 - [Azure/sqlserver-2017-python-image-matching](https://github.com/Azure/sqlserver-2017-python-image-matching) pushed_at:2017-05 star:0.0k fork:0.0k Using Python Stored Procedures in SQL Server 2017 to do image matching.
 - [Azure/static-web-apps](https://github.com/Azure/static-web-apps) pushed_at:2021-06 star:0.2k fork:0.0k Azure Static Apps
+- [Azure/SupportArticles-docs](https://github.com/Azure/SupportArticles-docs) pushed_at:2022-01 star:0.0k fork:0.0k A public version to sync with SupportArticles-docs-pr
 - [Azure/SwiftPM-AzureTemplate](https://github.com/Azure/SwiftPM-AzureTemplate) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [Azure/Synapse-Success-By-Design](https://github.com/Azure/Synapse-Success-By-Design) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [Azure/tank-level-forecasting-guide](https://github.com/Azure/tank-level-forecasting-guide) pushed_at:2017-03 star:0.0k fork:0.0k Cortana Intelligence solution Oil and Gas Tank Level Forecasting
@@ -1198,7 +1201,7 @@
 - [Azure/terraform-azurerm-vm-extension-msi](https://github.com/Azure/terraform-azurerm-vm-extension-msi) pushed_at:2018-10 star:0.0k fork:0.0k Terraform Module for configuring an MSI extension for a VM
 - [Azure/terraform-azurerm-vmss](https://github.com/Azure/terraform-azurerm-vmss) pushed_at:2020-09 star:0.0k fork:0.0k Terraform module for provisioning Azure Virtual Machine Scale Sets
 - [Azure/terraform-provider-avere](https://github.com/Azure/terraform-provider-avere) pushed_at:2020-08 star:0.0k fork:0.0k Terraform provider that manages an Avere vFXT for Azure cluster.
-- [Azure/Test-Drive-Azure-Synapse-with-a-1-click-POC](https://github.com/Azure/Test-Drive-Azure-Synapse-with-a-1-click-POC) pushed_at:2021-12 star:0.0k fork:0.3k 
+- [Azure/Test-Drive-Azure-Synapse-with-a-1-click-POC](https://github.com/Azure/Test-Drive-Azure-Synapse-with-a-1-click-POC) pushed_at:2022-01 star:0.0k fork:0.3k 
 - [Azure/Test-Drive-Synapse-Link-For-DataVerse](https://github.com/Azure/Test-Drive-Synapse-Link-For-DataVerse) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [Azure/testing-sample-101](https://github.com/Azure/testing-sample-101) pushed_at:2019-02 star:0.0k fork:0.0k Testing web solution with 101 tips
 - [Azure/toketi-iot-tools](https://github.com/Azure/toketi-iot-tools) pushed_at:2016-12 star:0.0k fork:0.0k A collection of tools to work with and test Azure IoT services and artifacts. e.g. Device-to-Cloud and Cloud-to-Device tools.
@@ -1207,7 +1210,7 @@
 - [Azure/Vision-AI-DevKit-Pages](https://github.com/Azure/Vision-AI-DevKit-Pages) pushed_at:2021-09 star:0.0k fork:0.0k Peabody landing page
 - [Azure/vote-flux](https://github.com/Azure/vote-flux) pushed_at:2020-06 star:0.0k fork:0.0k 
 - [Azure/whatifnoise](https://github.com/Azure/whatifnoise) pushed_at:2020-07 star:0.0k fork:0.0k ARM Template What-If noise suppression summary.
-- [Azure/WindowsVMAgent](https://github.com/Azure/WindowsVMAgent) pushed_at:2021-11 star:0.0k fork:0.0k 
+- [Azure/WindowsVMAgent](https://github.com/Azure/WindowsVMAgent) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [Azure/WinGuestAnalyzer](https://github.com/Azure/WinGuestAnalyzer) pushed_at:2019-03 star:0.0k fork:0.0k WinGuestAnalyzer Rule based
 - [Azure/WordPress](https://github.com/Azure/WordPress) pushed_at:2020-08 star:0.0k fork:0.0k Deploy and manage a scalable WordPress stack on Azure
 - [Azure/WVD_CAF_SolutionFactory](https://github.com/Azure/WVD_CAF_SolutionFactory) pushed_at:2020-08 star:0.0k fork:0.0k 
@@ -1233,7 +1236,7 @@
 
 ## PowerShell
 
-- [Azure/aks-hci](https://github.com/Azure/aks-hci) pushed_at:2021-12 star:0.1k fork:0.0k # Welcome to the Azure Kubernetes Service on Azure Stack HCI repo This is where the AKS-HCI team will track features and issues with AKS-HCI. We will monitor this repo in order to engage with our community and discuss questions, customer scenarios, or feature requests.  Checkout our projects tab to see the roadmap for AKS-HCI!
+- [Azure/aks-hci](https://github.com/Azure/aks-hci) pushed_at:2022-01 star:0.1k fork:0.0k # Welcome to the Azure Kubernetes Service on Azure Stack HCI repo This is where the AKS-HCI team will track features and issues with AKS-HCI. We will monitor this repo in order to engage with our community and discuss questions, customer scenarios, or feature requests.  Checkout our projects tab to see the roadmap for AKS-HCI!
 - [Azure/AksHcionAzureVM](https://github.com/Azure/AksHcionAzureVM) pushed_at:2021-02 star:0.0k fork:0.0k 
 - [Azure/AliyunMigration](https://github.com/Azure/AliyunMigration) pushed_at:2017-07 star:0.0k fork:0.0k This project explain the methodology how to migrate from Aliyun to Azure.
 - [Azure/ArchiveFeatureSupport](https://github.com/Azure/ArchiveFeatureSupport) pushed_at:2021-11 star:0.0k fork:0.0k This repository will contain the scripts for Archive feature support
@@ -1244,7 +1247,6 @@
 - [Azure/AVDBlueprint](https://github.com/Azure/AVDBlueprint) pushed_at:2022-01 star:0.0k fork:0.0k This solution deploys a complete Azure Virtual Desktop environment (including dependencies)
 - [Azure/az-ps-module-versions](https://github.com/Azure/az-ps-module-versions) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [Azure/AzOps](https://github.com/Azure/AzOps) pushed_at:2022-01 star:0.2k fork:0.1k AzOps is a PowerShell module which deploys (Push) Resource Templates & Bicep files at all Azure scope levels and exports (Pull) ARM resource hierarchy.
-- [Azure/azure-accessplatform-windows-gpu](https://github.com/Azure/azure-accessplatform-windows-gpu) pushed_at:2017-04 star:0.0k fork:0.0k Teradici Access Platform with NV M60 GPU Skus
 - [Azure/azure-arch-enterprise-bi-and-reporting](https://github.com/Azure/azure-arch-enterprise-bi-and-reporting) pushed_at:2018-02 star:0.1k fork:0.0k A reference implementation of an end to end Azure infrastructure for scalable enterprise BI and Reporting
 - [Azure/azure-blueprints](https://github.com/Azure/azure-blueprints) pushed_at:2021-07 star:0.2k fork:0.1k A library of sample Blueprints that can be easily imported via API or PowerShell
 - [Azure/azure-cli-devtestlab-test](https://github.com/Azure/azure-cli-devtestlab-test) pushed_at:2018-04 star:0.0k fork:0.0k The test repository used in the DevTest Lab commands' automation of Azure CLI
@@ -1303,7 +1305,7 @@
 - [Azure/ha-nva-fo](https://github.com/Azure/ha-nva-fo) pushed_at:2021-11 star:0.0k fork:0.0k Azure HA NVA Failover via an Azure function app 
 - [Azure/Health-Data-and-AI-Blueprint](https://github.com/Azure/Health-Data-and-AI-Blueprint) pushed_at:2019-11 star:0.1k fork:0.0k Azure Security and Compliance Blueprint - HIPAA/HITRUST Health Data and AI - deployment, and demo that  Predicts the Length of Stay in Hospitals
 - [Azure/hpcpack-acm-ps](https://github.com/Azure/hpcpack-acm-ps) pushed_at:2019-03 star:0.0k fork:0.0k PowerShell Module for HPC Pack ACM Setup and Test
-- [Azure/hpcpack-template](https://github.com/Azure/hpcpack-template) pushed_at:2021-11 star:0.0k fork:0.0k The ARM templates to deploy Microsoft HPC Pack cluster in Azure
+- [Azure/hpcpack-template](https://github.com/Azure/hpcpack-template) pushed_at:2022-01 star:0.0k fork:0.0k The ARM templates to deploy Microsoft HPC Pack cluster in Azure
 - [Azure/hpcpack-template-2012r2](https://github.com/Azure/hpcpack-template-2012r2) pushed_at:2020-06 star:0.0k fork:0.0k Deploy an HPC cluster in Azure with Microsoft HPC Pack 2012 R2 Update 3
 - [Azure/iotedge-eflow](https://github.com/Azure/iotedge-eflow) pushed_at:2022-01 star:0.0k fork:0.0k Azure IoT Edge for Linux on Windows
 - [Azure/KeyVault-Secrets-Rotation-CosmosDB-PowerShell](https://github.com/Azure/KeyVault-Secrets-Rotation-CosmosDB-PowerShell) pushed_at:2021-02 star:0.0k fork:0.0k Azure function for rotation of Cosmos DB keys with Key Vault
@@ -1326,14 +1328,14 @@
 - [Azure/PSRule.Rules.Azure](https://github.com/Azure/PSRule.Rules.Azure) pushed_at:2022-01 star:0.1k fork:0.0k Rules to validate Azure resources and infrastructure as code (IaC) using PSRule.
 - [Azure/Purview-Samples](https://github.com/Azure/Purview-Samples) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [Azure/RDS-Templates](https://github.com/Azure/RDS-Templates) pushed_at:2022-01 star:0.3k fork:0.5k ARM Templates for Remote Desktop Services deployments
-- [Azure/RGCOPY](https://github.com/Azure/RGCOPY) pushed_at:2021-12 star:0.0k fork:0.0k script for copying an Azure Resource Group
+- [Azure/RGCOPY](https://github.com/Azure/RGCOPY) pushed_at:2022-01 star:0.0k fork:0.0k script for copying an Azure Resource Group
 - [Azure/SAP-on-Azure-Scripts-and-Utilities](https://github.com/Azure/SAP-on-Azure-Scripts-and-Utilities) pushed_at:2022-01 star:0.1k fork:0.1k This repository hosts scripts and utilities that can be used to streamline deployment and operations for SAP on Azure customers
 - [Azure/securedworkstation](https://github.com/Azure/securedworkstation) pushed_at:2022-01 star:0.1k fork:0.0k Intune managed Secured workstation
-- [Azure/Service-Fabric-Troubleshooting-Guides](https://github.com/Azure/Service-Fabric-Troubleshooting-Guides) pushed_at:2021-12 star:0.1k fork:0.1k Service Fabric Trouble Shooting Guides used by Azure Customer Support Services and Product Group Site Reliability Engineers.
+- [Azure/Service-Fabric-Troubleshooting-Guides](https://github.com/Azure/Service-Fabric-Troubleshooting-Guides) pushed_at:2022-01 star:0.1k fork:0.1k Service Fabric Trouble Shooting Guides used by Azure Customer Support Services and Product Group Site Reliability Engineers.
 - [Azure/SFNuGet](https://github.com/Azure/SFNuGet) pushed_at:2018-08 star:0.0k fork:0.0k Package and share your Microsoft Azure Service Fabric services as NuGet packages
 - [Azure/SimuLand](https://github.com/Azure/SimuLand) pushed_at:2021-11 star:0.6k fork:0.1k Understand adversary tradecraft and improve detection strategies
 - [Azure/Template-Runbook-Using-Managed-Identity-to-access-AZureAD](https://github.com/Azure/Template-Runbook-Using-Managed-Identity-to-access-AZureAD) pushed_at:2021-12 star:0.0k fork:0.0k Holds example code to be published in the gallery for Azure to show admins how to associate managed identities with runbooks.
-- [Azure/trusted-internet-connection](https://github.com/Azure/trusted-internet-connection) pushed_at:2022-01 star:0.0k fork:0.0k Trusted Internet Connection 3.0 solutions for Azure
+- [Azure/trusted-internet-connection](https://github.com/Azure/trusted-internet-connection) pushed_at:2022-01 star:0.0k fork:0.0k Trusted Internet Connection 3.0 solutions for organizations hosting applications and services in Azure.
 - [Azure/uk-official-three-tier-webapp](https://github.com/Azure/uk-official-three-tier-webapp) pushed_at:2019-11 star:0.0k fork:0.0k Azure Blueprint Automation: Three Tier Web Applications for UK-OFFICIAL
 - [Azure/vdc](https://github.com/Azure/vdc) pushed_at:2020-08 star:0.1k fork:0.1k Toolkit to accelerate Azure adoption for enterprise customers
 - [Azure/vm-scale-sets](https://github.com/Azure/vm-scale-sets) pushed_at:2021-05 star:0.0k fork:0.0k A repo for managed Azure VM scale sets, including preview programs and  reporting issues.
@@ -1387,7 +1389,7 @@
 - [Azure/azure-cosmos-python](https://github.com/Azure/azure-cosmos-python) pushed_at:2021-09 star:0.1k fork:0.1k 🚨🚨🚨This SDK is now maintained at https://github.com/Azure/azure-sdk-for-python 🚨🚨🚨
 - [Azure/azure-cosmos-table-python](https://github.com/Azure/azure-cosmos-table-python) pushed_at:2021-09 star:0.0k fork:0.0k Python SDK for Azure CosmosDB
 - [Azure/azure-data-lake-store-python](https://github.com/Azure/azure-data-lake-store-python) pushed_at:2021-04 star:0.1k fork:0.1k Microsoft Azure Data Lake Store Filesystem Library for Python
-- [Azure/azure-devops-cli-extension](https://github.com/Azure/azure-devops-cli-extension) pushed_at:2021-12 star:0.5k fork:0.2k Azure DevOps Extension for Azure CLI
+- [Azure/azure-devops-cli-extension](https://github.com/Azure/azure-devops-cli-extension) pushed_at:2022-01 star:0.5k fork:0.2k Azure DevOps Extension for Azure CLI
 - [Azure/azure-diskinspect-service](https://github.com/Azure/azure-diskinspect-service) pushed_at:2022-01 star:0.0k fork:0.0k Inspect Azure IaaS Disks for Windows and Linux
 - [Azure/azure-event-hubs-python](https://github.com/Azure/azure-event-hubs-python) pushed_at:2020-04 star:0.1k fork:0.1k Python client library for Azure Event Hubs 
 - [Azure/azure-functions-devops-build](https://github.com/Azure/azure-functions-devops-build) pushed_at:2021-08 star:0.0k fork:0.0k A python library for setting up and managing Azure DevOps builds for Azure Functions projects
@@ -1401,7 +1403,6 @@
 - [Azure/azure-iot-sdk-python-preview](https://github.com/Azure/azure-iot-sdk-python-preview) pushed_at:2019-09 star:0.0k fork:0.0k Azure IoT SDK for Python - v2.0.0 Preview
 - [Azure/azure-key-vault-secret-as-a-service](https://github.com/Azure/azure-key-vault-secret-as-a-service) pushed_at:2017-07 star:0.0k fork:0.0k 
 - [Azure/azure-keyvault-cli-extension](https://github.com/Azure/azure-keyvault-cli-extension) pushed_at:2020-12 star:0.0k fork:0.0k Key Vault extension cli commands for Azure cli v2
-- [Azure/azure-kusto-ingestion-tools](https://github.com/Azure/azure-kusto-ingestion-tools) pushed_at:2021-06 star:0.0k fork:0.0k Ingestion utilities for Azure Data Explorer
 - [Azure/azure-kusto-python](https://github.com/Azure/azure-kusto-python) pushed_at:2022-01 star:0.1k fork:0.1k Kusto client libraries for Python
 - [Azure/azure-linux-extensions](https://github.com/Azure/azure-linux-extensions) pushed_at:2022-01 star:0.2k fork:0.2k Linux Virtual Machine Extensions for Azure
 - [Azure/Azure-Machine-Learning-Adoption-Framework](https://github.com/Azure/Azure-Machine-Learning-Adoption-Framework) pushed_at:2021-08 star:0.0k fork:0.0k this repo provides best practice guidance, plan template, solution assessment tool etc. to help Machine Learning Studio(classic) customer adopt Azure Machine Learning.
@@ -1436,13 +1437,13 @@
 - [Azure/cortana-intelligence-price-optimization](https://github.com/Azure/cortana-intelligence-price-optimization) pushed_at:2017-09 star:0.1k fork:0.1k Retail industry solutions for product price optimization using the Cortana Intelligence Suite with end-to-end walkthrough
 - [Azure/cortana-intelligence-product-detection-from-images](https://github.com/Azure/cortana-intelligence-product-detection-from-images) pushed_at:2019-07 star:0.0k fork:0.0k This repo demonstrates how to develop an end-to-end solution for product detection from images using CNTK and Azure platform.
 - [Azure/cosmos-tls-scanner](https://github.com/Azure/cosmos-tls-scanner) pushed_at:2020-10 star:0.0k fork:0.0k Tool to check the supported TLS versions for a given CosmosDB account
-- [Azure/counterfit](https://github.com/Azure/counterfit) pushed_at:2021-12 star:0.5k fork:0.1k a CLI that provides a generic automation layer for assessing the security of ML models
+- [Azure/counterfit](https://github.com/Azure/counterfit) pushed_at:2022-01 star:0.5k fork:0.1k a CLI that provides a generic automation layer for assessing the security of ML models
 - [Azure/cyclecloud-gridengine](https://github.com/Azure/cyclecloud-gridengine) pushed_at:2021-09 star:0.0k fork:0.0k Example Azure CycleCloud Gridengine cluster template
 - [Azure/cyclecloud-htcondor](https://github.com/Azure/cyclecloud-htcondor) pushed_at:2020-11 star:0.0k fork:0.0k Example Azure CycleCloud HTCondor cluster type
 - [Azure/cyclecloud-nodeqa](https://github.com/Azure/cyclecloud-nodeqa) pushed_at:2021-11 star:0.0k fork:0.0k Detecting unexpected device behavior
-- [Azure/cyclecloud-pbspro](https://github.com/Azure/cyclecloud-pbspro) pushed_at:2021-12 star:0.0k fork:0.0k Example Azure CycleCloud PBSpro cluster type
+- [Azure/cyclecloud-pbspro](https://github.com/Azure/cyclecloud-pbspro) pushed_at:2022-01 star:0.0k fork:0.0k Example Azure CycleCloud PBSpro cluster type
 - [Azure/cyclecloud-scalelib](https://github.com/Azure/cyclecloud-scalelib) pushed_at:2021-11 star:0.0k fork:0.0k Demand Calculator and Node Manager Library
-- [Azure/cyclecloud-slurm](https://github.com/Azure/cyclecloud-slurm) pushed_at:2021-12 star:0.0k fork:0.0k Azure CycleCloud project to enable users to create, configure, and use Slurm HPC clusters.
+- [Azure/cyclecloud-slurm](https://github.com/Azure/cyclecloud-slurm) pushed_at:2022-01 star:0.0k fork:0.0k Azure CycleCloud project to enable users to create, configure, and use Slurm HPC clusters.
 - [Azure/cyclecloud-symphony](https://github.com/Azure/cyclecloud-symphony) pushed_at:2022-01 star:0.0k fork:0.0k CycleCloud project to enable use of Spectrum Symphony job scheduler in Azure CycleCloud HPC clusters.
 - [Azure/DAICE_DatabricksSparkDevOps](https://github.com/Azure/DAICE_DatabricksSparkDevOps) pushed_at:2020-06 star:0.0k fork:0.0k A set of example build and release pipelines for deploying Python and Scala to Azure Databricks and HDInsight
 - [Azure/databox-adls-loader](https://github.com/Azure/databox-adls-loader) pushed_at:2019-09 star:0.0k fork:0.0k Tools and scripts to load data from Hadoop clusters to Azure Data Lake Storage using Data Box
@@ -1471,7 +1472,7 @@
 - [Azure/LinuxPatchExtension](https://github.com/Azure/LinuxPatchExtension) pushed_at:2022-01 star:0.0k fork:0.0k Microsoft Azure VM Guest Linux Patch Extension
 - [Azure/LunaAIProjectTemplate](https://github.com/Azure/LunaAIProjectTemplate) pushed_at:2020-10 star:0.0k fork:0.0k The ML project template for Luna.AI
 - [Azure/MachineLearningSamples-NotebookTemplate](https://github.com/Azure/MachineLearningSamples-NotebookTemplate) pushed_at:2018-01 star:0.0k fork:0.0k Project Template for Jupyter Notebooks in Azure Machine Learning Workbench
-- [Azure/microsoft-flux-conformance](https://github.com/Azure/microsoft-flux-conformance) pushed_at:2022-01 star:0.0k fork:0.0k 
+- [Azure/microsoft-flux-conformance](https://github.com/Azure/microsoft-flux-conformance) pushed_at:2022-01 star:0.0k fork:0.0k Conformance Testing for the Microsoft.Flux extension for cluster deployments of Flux in Azure
 - [Azure/MLOps-TDSP-Template](https://github.com/Azure/MLOps-TDSP-Template) pushed_at:2020-03 star:0.0k fork:0.0k Quickstart template as a fork on TDSP (https://github.com/Azure/Azure-TDSP-ProjectTemplate), extending the template with a suggested structure for operationalization using Azure. Includes ARM templates as IaC for resource deployment, template build and release pipelines to enable model CI/CD, template code for working with Azure ML.
 - [Azure/msrest-for-python](https://github.com/Azure/msrest-for-python) pushed_at:2022-01 star:0.0k fork:0.1k The runtime library "msrest" for AutoRest generated Python clients.
 - [Azure/msrestazure-for-python](https://github.com/Azure/msrestazure-for-python) pushed_at:2021-11 star:0.0k fork:0.0k The runtime library "msrestazure" for AutoRest generated Python clients.
@@ -1485,7 +1486,7 @@
 - [Azure/sonic-build-tools](https://github.com/Azure/sonic-build-tools) pushed_at:2022-01 star:0.0k fork:0.1k Tools, scripts and documentation to help build the SONiC project
 - [Azure/sonic-dbsyncd](https://github.com/Azure/sonic-dbsyncd) pushed_at:2022-01 star:0.0k fork:0.0k Python library for sonic/redis database syncing
 - [Azure/sonic-mgmt](https://github.com/Azure/sonic-mgmt) pushed_at:2022-01 star:0.1k fork:0.4k Configuration management examples for SONiC
-- [Azure/sonic-mgmt-framework](https://github.com/Azure/sonic-mgmt-framework) pushed_at:2021-11 star:0.0k fork:0.1k 
+- [Azure/sonic-mgmt-framework](https://github.com/Azure/sonic-mgmt-framework) pushed_at:2022-01 star:0.0k fork:0.1k 
 - [Azure/sonic-platform-common](https://github.com/Azure/sonic-platform-common) pushed_at:2022-01 star:0.0k fork:0.1k Python packages which provide a common interface to platform-specific hardware peripherals in SONiC
 - [Azure/sonic-platform-daemons](https://github.com/Azure/sonic-platform-daemons) pushed_at:2022-01 star:0.0k fork:0.1k Platform module daemons for SONiC
 - [Azure/sonic-platform-pdk-pde](https://github.com/Azure/sonic-platform-pdk-pde) pushed_at:2020-07 star:0.0k fork:0.0k 
@@ -1495,7 +1496,7 @@
 - [Azure/sonic-utilities](https://github.com/Azure/sonic-utilities) pushed_at:2022-01 star:0.1k fork:0.4k Command line utilities for the SONiC project
 - [Azure/sonic-ztp](https://github.com/Azure/sonic-ztp) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [Azure/sql_python_deep_learning](https://github.com/Azure/sql_python_deep_learning) pushed_at:2018-06 star:0.0k fork:0.0k Deep learning project made in SQL Server with python
-- [Azure/Stormspotter](https://github.com/Azure/Stormspotter) pushed_at:2021-12 star:1.0k fork:0.1k Azure Red Team tool for graphing Azure and Azure Active Directory objects
+- [Azure/Stormspotter](https://github.com/Azure/Stormspotter) pushed_at:2022-01 star:1.0k fork:0.1k Azure Red Team tool for graphing Azure and Azure Active Directory objects
 - [Azure/swagger-to-sdk](https://github.com/Azure/swagger-to-sdk) pushed_at:2019-07 star:0.0k fork:0.0k Automation system to build SDK from Swagger specification [Microsoft specific]
 - [Azure/updatemanagement](https://github.com/Azure/updatemanagement) pushed_at:2021-12 star:0.0k fork:0.0k Contains troubleshooting tools & scripts of azure update management. Available as public.
 - [Azure/video-analyzer](https://github.com/Azure/video-analyzer) pushed_at:2022-01 star:0.0k fork:0.0k GitHub repo for Azure Video Analyzer
@@ -1519,7 +1520,7 @@
 - [Azure/azureml-sdk-for-r](https://github.com/Azure/azureml-sdk-for-r) pushed_at:2021-12 star:0.1k fork:0.0k Azure Machine Learning SDK for R
 - [Azure/AzureQstor](https://github.com/Azure/AzureQstor) pushed_at:2021-01 star:0.0k fork:0.0k R interface to Azure queue storage
 - [Azure/AzureRMR](https://github.com/Azure/AzureRMR) pushed_at:2021-10 star:0.0k fork:0.0k R package for interacting with Azure Resource Manager
-- [Azure/AzureStor](https://github.com/Azure/AzureStor) pushed_at:2021-12 star:0.0k fork:0.0k R interface to Azure storage accounts
+- [Azure/AzureStor](https://github.com/Azure/AzureStor) pushed_at:2022-01 star:0.0k fork:0.0k R interface to Azure storage accounts
 - [Azure/AzureTableStor](https://github.com/Azure/AzureTableStor) pushed_at:2021-01 star:0.0k fork:0.0k R package for interfacing with Azure table storage
 - [Azure/AzureVision](https://github.com/Azure/AzureVision) pushed_at:2021-01 star:0.0k fork:0.0k R interface to the Computer Vision API
 - [Azure/AzureVM](https://github.com/Azure/AzureVM) pushed_at:2021-01 star:0.0k fork:0.0k R package for managing virtual machines in Azure
@@ -1573,7 +1574,7 @@
 - [Azure/fluent-plugin-process-ucs-syslog](https://github.com/Azure/fluent-plugin-process-ucs-syslog) pushed_at:2020-12 star:0.0k fork:0.0k Filter plugin for appending various field in the record from UCS syslog
 - [Azure/fluent-plugin-servicebus-queue](https://github.com/Azure/fluent-plugin-servicebus-queue) pushed_at:2021-10 star:0.0k fork:0.0k Output plugin for sending records to an Azure Service Bus Queue for Fluentd
 - [Azure/fluent-plugin-snmptrapalert](https://github.com/Azure/fluent-plugin-snmptrapalert) pushed_at:2021-06 star:0.0k fork:0.0k fluentd plugin that listens to SNMP Traps from Azure VLI and Alerts
-- [Azure/homebrew-aks-engine](https://github.com/Azure/homebrew-aks-engine) pushed_at:2021-12 star:0.0k fork:0.0k Homebrew tap for AKS Engine
+- [Azure/homebrew-aks-engine](https://github.com/Azure/homebrew-aks-engine) pushed_at:2022-01 star:0.0k fork:0.0k Homebrew tap for AKS Engine
 - [Azure/homebrew-azure-workload-identity](https://github.com/Azure/homebrew-azure-workload-identity) pushed_at:2022-01 star:0.0k fork:0.0k Homebrew Tap for Azure Workload Identity CLI
 - [Azure/homebrew-bicep](https://github.com/Azure/homebrew-bicep) pushed_at:2021-12 star:0.0k fork:0.0k Homebrew formula for bicep
 - [Azure/homebrew-draft](https://github.com/Azure/homebrew-draft) pushed_at:2019-02 star:0.0k fork:0.0k Homebrew tap for Draft.
@@ -1586,12 +1587,12 @@
 
 ## Rust
 
-- [Azure/azure-kusto-parquet-conv](https://github.com/Azure/azure-kusto-parquet-conv) pushed_at:2021-07 star:0.0k fork:0.0k azure-kusto-parquet-conv
+- [Azure/azure-kusto-parquet-conv](https://github.com/Azure/azure-kusto-parquet-conv) pushed_at:2022-01 star:0.0k fork:0.0k azure-kusto-parquet-conv
 - [Azure/azure-sdk-for-rust](https://github.com/Azure/azure-sdk-for-rust) pushed_at:2022-01 star:0.2k fork:0.1k This repository is for active development of the *unofficial* Azure SDK for Rust. This repository is *not* supported by the Azure SDK team.
 - [Azure/hyperlocal-windows](https://github.com/Azure/hyperlocal-windows) pushed_at:2018-11 star:0.0k fork:0.0k 🔌 ✨rustlang hyper bindings for local unix domain sockets...on Windows!
 - [Azure/iot-identity-service](https://github.com/Azure/iot-identity-service) pushed_at:2022-01 star:0.0k fork:0.0k Source of the Azure IoT Identity Service and related services.
 - [Azure/mio-uds-windows](https://github.com/Azure/mio-uds-windows) pushed_at:2019-07 star:0.0k fork:0.0k Unix Domain Sockets for mio...on Windows!
-- [Azure/repair-script-library](https://github.com/Azure/repair-script-library) pushed_at:2021-12 star:0.0k fork:0.0k Organize and archive known repair scripts to enable anyone to easily fix their machines. The scripts are made primarily to repair VMs on the cloud.
+- [Azure/repair-script-library](https://github.com/Azure/repair-script-library) pushed_at:2022-01 star:0.0k fork:0.0k Organize and archive known repair scripts to enable anyone to easily fix their machines. The scripts are made primarily to repair VMs on the cloud.
 - [Azure/throttled](https://github.com/Azure/throttled) pushed_at:2020-10 star:0.0k fork:0.0k A daemon to discover and monitor against per-device and VM-level IOPS/throughput limits.
 - [Azure/tokio-uds-windows](https://github.com/Azure/tokio-uds-windows) pushed_at:2018-11 star:0.0k fork:0.0k Unix domain sockets for Tokio...on Windows!
 
@@ -1649,7 +1650,7 @@
 - [Azure/azure-mariadb](https://github.com/Azure/azure-mariadb) pushed_at:2020-03 star:0.0k fork:0.0k Azure Database for MariaDB (fully managed service for MariaDB in Azure)
 - [Azure/azure-oam-solution](https://github.com/Azure/azure-oam-solution) pushed_at:2020-07 star:0.0k fork:0.0k Azure + OAM
 - [Azure/azure-postgresql](https://github.com/Azure/azure-postgresql) pushed_at:2021-10 star:0.1k fork:0.1k Azure Database for PostgreSQL (fully managed service for PostgreSQL in Azure)
-- [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) pushed_at:2022-01 star:11.3k fork:13.9k Azure Quickstart Templates
+- [Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates) pushed_at:2022-01 star:11.3k fork:14.0k Azure Quickstart Templates
 - [Azure/azure-storage-mirror](https://github.com/Azure/azure-storage-mirror) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [Azure/azurehpc](https://github.com/Azure/azurehpc) pushed_at:2022-01 star:0.1k fork:0.0k This repository provides easy automation scripts for building a HPC environment in Azure. It also includes examples to build e2e environment and run some of the key HPC benchmarks and applications.
 - [Azure/AzureML-fastai](https://github.com/Azure/AzureML-fastai) pushed_at:2020-11 star:0.0k fork:0.0k Example code showing how to run FastAI examples on Azure ML
@@ -1684,6 +1685,7 @@
 - [Azure/oms-agent-for-linux-boshrelease](https://github.com/Azure/oms-agent-for-linux-boshrelease) pushed_at:2020-01 star:0.0k fork:0.0k Bosh release of OMS Agent
 - [Azure/osm-azure](https://github.com/Azure/osm-azure) pushed_at:2022-01 star:0.0k fork:0.0k Open Service Mesh (OSM) on Azure
 - [Azure/privateresolver](https://github.com/Azure/privateresolver) pushed_at:2021-11 star:0.0k fork:0.0k 
+- [Azure/reddog-aks](https://github.com/Azure/reddog-aks) pushed_at:2022-01 star:0.0k fork:0.0k GBB Reddog on AKS
 - [Azure/rhel-jboss-templates](https://github.com/Azure/rhel-jboss-templates) pushed_at:2021-12 star:0.0k fork:0.0k This repository will contain solution templates for deploying JBoss on RHEL images
 - [Azure/sap-hana-tools](https://github.com/Azure/sap-hana-tools) pushed_at:2021-06 star:0.0k fork:0.0k Tools used for SAP HANA BareMetal customers
 - [Azure/splunk-enterprise](https://github.com/Azure/splunk-enterprise) pushed_at:2021-07 star:0.0k fork:0.0k Guidance on deploying Splunk Enterprise on Azure with automated reference implementation
@@ -1725,7 +1727,7 @@
 
 - [Azure/aci-deploy](https://github.com/Azure/aci-deploy) pushed_at:2022-01 star:0.0k fork:0.0k Enable GitHub developers to deploy to Azure Container Instances using GitHub Actions
 - [Azure/acr-web-manager](https://github.com/Azure/acr-web-manager) pushed_at:2021-10 star:0.0k fork:0.0k Azure Container Registry Web Management Portal
-- [Azure/actions-toolkit](https://github.com/Azure/actions-toolkit) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [Azure/actions-toolkit](https://github.com/Azure/actions-toolkit) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [Azure/aks-set-context](https://github.com/Azure/aks-set-context) pushed_at:2022-01 star:0.0k fork:0.0k GitHub Action for setting context before deploying to Kubernetes clusters
 - [Azure/amqp-common-js](https://github.com/Azure/amqp-common-js) pushed_at:2019-06 star:0.0k fork:0.0k Azure AMQP abstractions for javascript/typescript that contains common types and interfaces for use in Service Bus and Event Hubs.
 - [Azure/api-management-developer-portal](https://github.com/Azure/api-management-developer-portal) pushed_at:2022-01 star:0.3k fork:0.2k Developer portal provided by the Azure API Management service.
@@ -1757,7 +1759,7 @@
 - [Azure/azure-iot-library](https://github.com/Azure/azure-iot-library) pushed_at:2018-07 star:0.0k fork:0.0k Library of projects each with an npm package used across Azure IoT microservice repos.
 - [Azure/azure-kusto-node](https://github.com/Azure/azure-kusto-node) pushed_at:2022-01 star:0.0k fork:0.0k NodeJS SDK for the Kusto service
 - [Azure/azure-resource-manager-schemas](https://github.com/Azure/azure-resource-manager-schemas) pushed_at:2022-01 star:0.5k fork:0.5k Schemas used to author and validate Resource Manager Templates
-- [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) pushed_at:2022-01 star:1.3k fork:3.3k The source for REST API specifications for Microsoft Azure.
+- [Azure/azure-rest-api-specs](https://github.com/Azure/azure-rest-api-specs) pushed_at:2022-01 star:1.3k fork:3.4k The source for REST API specifications for Microsoft Azure.
 - [Azure/azure-sdk-for-js](https://github.com/Azure/azure-sdk-for-js) pushed_at:2022-01 star:1.1k fork:0.7k This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js. 
 - [Azure/azure-service-bus-node](https://github.com/Azure/azure-service-bus-node) pushed_at:2019-05 star:0.0k fork:0.0k 
 - [Azure/azure-storage-js](https://github.com/Azure/azure-storage-js) pushed_at:2022-01 star:0.1k fork:0.0k Microsoft Azure Storage Library for JavaScript (This repo has been moved to https://github.com/Azure/azure-sdk-for-js/tree/master/sdk/storage on Apr18, 2019. This Repo will be deprecated.)
@@ -1772,14 +1774,14 @@
 - [Azure/communication-ui-library](https://github.com/Azure/communication-ui-library) pushed_at:2022-01 star:0.0k fork:0.0k UI Library for Azure Communication Services helps developers build communication applications with ease. From turn-key composites to UI components that can be composited together. 
 - [Azure/container-scan](https://github.com/Azure/container-scan) pushed_at:2022-01 star:0.2k fork:0.0k A GitHub action to help you scan your docker image for vulnerabilities
 - [Azure/cosmos-explorer](https://github.com/Azure/cosmos-explorer) pushed_at:2022-01 star:0.1k fork:0.0k UI for Azure Cosmos DB. Powers the Azure Portal, https://cosmos.azure.com/, and the Cosmos DB Emulator
-- [Azure/cosmos-sdk-diagnostic](https://github.com/Azure/cosmos-sdk-diagnostic) pushed_at:2021-10 star:0.0k fork:0.0k A self-serve tool that helps you diagnostic your SDK errors and recommends ways to solve the issues
+- [Azure/cosmos-sdk-diagnostic](https://github.com/Azure/cosmos-sdk-diagnostic) pushed_at:2022-01 star:0.0k fork:0.0k A self-serve tool that helps you diagnostic your SDK errors and recommends ways to solve the issues
 - [Azure/cosmos-sign](https://github.com/Azure/cosmos-sign) pushed_at:2019-01 star:0.0k fork:0.0k Utility library for signing Azure Cosmos tokens and generating headers
 - [Azure/CosmosDB-GBB-Hackathon](https://github.com/Azure/CosmosDB-GBB-Hackathon) pushed_at:2019-01 star:0.0k fork:0.0k CosmosDB 1 day hackathon 
 - [Azure/docker-login](https://github.com/Azure/docker-login) pushed_at:2021-06 star:0.1k fork:0.0k GitHub action to log in to Azure Container Registry (ACR) or any private container registry
 - [Azure/fabric-react-jsonschema-form](https://github.com/Azure/fabric-react-jsonschema-form) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source) pushed_at:2021-08 star:0.1k fork:0.0k A better API for making Event Source requests, with all the features of fetch()
 - [Azure/functions-action](https://github.com/Azure/functions-action) pushed_at:2021-12 star:0.1k fork:0.0k Enable GitHub developers to deploy to Azure Function Apps using GitHub Actions
-- [Azure/get-keyvault-secrets](https://github.com/Azure/get-keyvault-secrets) pushed_at:2021-09 star:0.0k fork:0.0k Automate your GitHub workflows using Azure Action for Key Vault
+- [Azure/get-keyvault-secrets](https://github.com/Azure/get-keyvault-secrets) pushed_at:2022-01 star:0.0k fork:0.0k Automate your GitHub workflows using Azure Action for Key Vault
 - [Azure/get-proxy-settings](https://github.com/Azure/get-proxy-settings) pushed_at:2021-02 star:0.0k fork:0.0k Retrieve proxy settings specified by the system
 - [Azure/git-rest-api](https://github.com/Azure/git-rest-api) pushed_at:2022-01 star:0.0k fork:0.0k Service that adds a rest api on top a git repository
 - [Azure/github-nginx-cache](https://github.com/Azure/github-nginx-cache) pushed_at:2021-09 star:0.0k fork:0.0k Caching layer for the github API using nginx
@@ -1787,7 +1789,7 @@
 - [Azure/hpcpack-acm-portal](https://github.com/Azure/hpcpack-acm-portal) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [Azure/hpcpack-rest-api-angular-client](https://github.com/Azure/hpcpack-rest-api-angular-client) pushed_at:2020-04 star:0.0k fork:0.0k 
 - [Azure/hpcpack-web-portal](https://github.com/Azure/hpcpack-web-portal) pushed_at:2022-01 star:0.0k fork:0.0k Web Portal for HPC Pack 2019
-- [Azure/Hyperledger-Fabric-on-Azure-Kubernetes-Service](https://github.com/Azure/Hyperledger-Fabric-on-Azure-Kubernetes-Service) pushed_at:2021-08 star:0.0k fork:0.0k We are excited to support Hyperledger Fabric(HLF) Blockchain version 1.4.4 on Azure Kubernetes Service through a solution template that helps to deploy and configure blockchain network of your choice with minimal Azure and HLF knowledge.    With a handful of user inputs and a simple single-click deployment through the Azure portal, you can provision a fully configured HLF Ordering and Peer nodes for your Org in minutes, using Microsoft Azure Kubernetes Service. Rather than spending hours building out and configuring the infrastructure, we have automated these time-consuming pieces to allow you to focus on building out your scenarios and applications. You can configure the node number and size of your choice through the input parameters provided to the template. You are only charged for the underlying infrastructure resources consumed, such as AKS cluster, storage, and networking.
+- [Azure/Hyperledger-Fabric-on-Azure-Kubernetes-Service](https://github.com/Azure/Hyperledger-Fabric-on-Azure-Kubernetes-Service) pushed_at:2022-01 star:0.0k fork:0.0k We are excited to support Hyperledger Fabric(HLF) Blockchain version 1.4.4 on Azure Kubernetes Service through a solution template that helps to deploy and configure blockchain network of your choice with minimal Azure and HLF knowledge.    With a handful of user inputs and a simple single-click deployment through the Azure portal, you can provision a fully configured HLF Ordering and Peer nodes for your Org in minutes, using Microsoft Azure Kubernetes Service. Rather than spending hours building out and configuring the infrastructure, we have automated these time-consuming pieces to allow you to focus on building out your scenarios and applications. You can configure the node number and size of your choice through the input parameters provided to the template. You are only charged for the underlying infrastructure resources consumed, such as AKS cluster, storage, and networking.
 - [Azure/ibex-dashboard](https://github.com/Azure/ibex-dashboard) pushed_at:2020-12 star:0.2k fork:0.2k Custom Analytics Dashboard for Microsoft Bot Framework and other applications as well
 - [Azure/iot-central-file-upload-device](https://github.com/Azure/iot-central-file-upload-device) pushed_at:2021-10 star:0.0k fork:0.0k IoT Central File Upload Device sample
 - [Azure/iot-central-mobile](https://github.com/Azure/iot-central-mobile) pushed_at:2022-01 star:0.0k fork:0.0k iot-central-mobile
@@ -1808,7 +1810,7 @@
 - [Azure/ms-rest-browserauth](https://github.com/Azure/ms-rest-browserauth) pushed_at:2021-05 star:0.0k fork:0.0k browser based authentication library for Azure
 - [Azure/ms-rest-js](https://github.com/Azure/ms-rest-js) pushed_at:2021-08 star:0.1k fork:0.1k Runtime for isomorphic javascript libraries generated by Autorest
 - [Azure/ms-rest-nodeauth](https://github.com/Azure/ms-rest-nodeauth) pushed_at:2021-12 star:0.0k fork:0.0k node.js based authentication library for Azure with type definitions
-- [Azure/mysql](https://github.com/Azure/mysql) pushed_at:2021-09 star:0.0k fork:0.0k Automate your GitHub workflows using Azure Action for MySQL
+- [Azure/mysql](https://github.com/Azure/mysql) pushed_at:2022-01 star:0.0k fork:0.0k Automate your GitHub workflows using Azure Action for MySQL
 - [Azure/ng-deploy-azure](https://github.com/Azure/ng-deploy-azure) pushed_at:2020-10 star:0.1k fork:0.0k Deploy Angular apps to Azure using the Angular CLI
 - [Azure/oav](https://github.com/Azure/oav) pushed_at:2022-01 star:0.1k fork:0.0k Tools for validating OpenAPI (Swagger) files.
 - [Azure/openapi-markdown](https://github.com/Azure/openapi-markdown) pushed_at:2021-09 star:0.0k fork:0.0k Azure OpenAPI MarkDown
@@ -1837,8 +1839,6 @@
 - [Azure/vm-scheduled-events](https://github.com/Azure/vm-scheduled-events) pushed_at:2021-07 star:0.0k fork:0.0k Azure Metadata Service: Scheduled Events for Virtual Machines
 - [Azure/vscode-aks-tools](https://github.com/Azure/vscode-aks-tools) pushed_at:2022-01 star:0.0k fork:0.0k Visual Studio Code extension for Azure Kubernetes Service
 - [Azure/vscode-azure-batch-tools](https://github.com/Azure/vscode-azure-batch-tools) pushed_at:2017-07 star:0.0k fork:0.0k Azure Batch extension for Visual Studio Code
-- [Azure/vscode-kubernetes-tools-api](https://github.com/Azure/vscode-kubernetes-tools-api) pushed_at:2021-10 star:0.0k fork:0.0k A NPM package for building Kubernetes extensions for Visual Studio Code
-- [Azure/vscode-kubernetes-tools-api-samples](https://github.com/Azure/vscode-kubernetes-tools-api-samples) pushed_at:2021-10 star:0.0k fork:0.0k Samples for building Visual Studio Code extensions for Kubernetes
 - [Azure/webapps-container-deploy](https://github.com/Azure/webapps-container-deploy) pushed_at:2020-09 star:0.0k fork:0.0k Enable GitHub developers to deploy to Azure WebApp for containers using GitHub Actions
 
 ## VBA

@@ -14,13 +14,12 @@
 - [Go](#go) (2)
 - [HTML](#html) (1)
 - [Java](#java) (1)
-- [JavaScript](#javascript) (1)
 - [Jupyter Notebook](#jupyter-notebook) (4)
 - [OCaml](#ocaml) (1)
 - [Objective-C](#objective-c) (1)
 - [Others](#others) (6)
 - [PostScript](#postscript) (1)
-- [Python](#python) (19)
+- [Python](#python) (20)
 - [Ruby](#ruby) (1)
 - [Rust](#rust) (1)
 - [Shell](#shell) (5)
@@ -90,7 +89,7 @@
 - [ARM-software/ATP-Engine](https://github.com/ARM-software/ATP-Engine) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [ARM-software/BarrierPoint](https://github.com/ARM-software/BarrierPoint) pushed_at:2020-05 star:0.0k fork:0.0k 
 - [ARM-software/caiman](https://github.com/ARM-software/caiman) pushed_at:2022-01 star:0.0k fork:0.0k Sources for Arm Streamline's caiman daemon
-- [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) pushed_at:2021-11 star:2.1k fork:0.6k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
+- [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) pushed_at:2021-11 star:2.1k fork:0.7k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [ARM-software/developer](https://github.com/ARM-software/developer) pushed_at:2021-10 star:0.0k fork:0.0k GTM related documentation
 - [ARM-software/devtools](https://github.com/ARM-software/devtools) pushed_at:2022-01 star:0.0k fork:0.0k Open-CMSIS-Pack development tools - C++ 
 - [ARM-software/drm-hwcomposer](https://github.com/ARM-software/drm-hwcomposer) pushed_at:2021-11 star:0.0k fork:0.0k Clone of the drm-hwcomposer from freedesktop.org plus patches from Mali DP team
@@ -107,7 +106,7 @@
 - [ARM-software/nomali-model](https://github.com/ARM-software/nomali-model) pushed_at:2016-01 star:0.0k fork:0.0k A simple Mali 6xx/7xx register interface model that doesn't do any rendering.
 - [ARM-software/odp-example-sisu](https://github.com/ARM-software/odp-example-sisu) pushed_at:2016-09 star:0.0k fork:0.0k SISU - Simple GTP-U/IPsec application using ODP (OpenDataPlane)
 - [ARM-software/patrace](https://github.com/ARM-software/patrace) pushed_at:2021-11 star:0.0k fork:0.0k 
-- [ARM-software/perfdoc](https://github.com/ARM-software/perfdoc) pushed_at:2019-10 star:0.1k fork:0.0k A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
+- [ARM-software/perfdoc](https://github.com/ARM-software/perfdoc) pushed_at:2022-01 star:0.1k fork:0.0k A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
 - [ARM-software/sdc600-debugger](https://github.com/ARM-software/sdc600-debugger) pushed_at:2021-03 star:0.0k fork:0.0k API, reference libraries and example application for Arm Secure Debug Channel (SDC-600)
 - [ARM-software/tarmac-trace-utilities](https://github.com/ARM-software/tarmac-trace-utilities) pushed_at:2022-01 star:0.0k fork:0.0k Tools for analyzing and browsing Tarmac instruction traces.
 - [ARM-software/vktrace-arm](https://github.com/ARM-software/vktrace-arm) pushed_at:2021-10 star:0.0k fork:0.0k Vktrace arm fork
@@ -140,10 +139,6 @@
 
 - [ARM-software/cmsis-pack-eclipse](https://github.com/ARM-software/cmsis-pack-eclipse) pushed_at:2021-11 star:0.1k fork:0.0k CMSIS-Pack Eclipse Plug-ins
 
-## JavaScript
-
-- [ARM-software/VHT-AMI](https://github.com/ARM-software/VHT-AMI) pushed_at:2022-01 star:0.0k fork:0.0k 
-
 ## Jupyter Notebook
 
 - [ARM-software/fast-probabilistic-models](https://github.com/ARM-software/fast-probabilistic-models) pushed_at:2021-10 star:0.0k fork:0.0k 
@@ -170,7 +165,7 @@
 
 ## PostScript
 
-- [ARM-software/ebbr](https://github.com/ARM-software/ebbr) pushed_at:2021-11 star:0.1k fork:0.0k Embedded Base Boot Requirements Specification
+- [ARM-software/ebbr](https://github.com/ARM-software/ebbr) pushed_at:2022-01 star:0.1k fork:0.0k Embedded Base Boot Requirements Specification
 
 ## Python
 
@@ -191,6 +186,7 @@
 - [ARM-software/trappy](https://github.com/ARM-software/trappy) pushed_at:2021-11 star:0.1k fork:0.0k This repository has moved to https://gitlab.arm.com/tooling/trappy
 - [ARM-software/tspfnbeats](https://github.com/ARM-software/tspfnbeats) pushed_at:2020-10 star:0.0k fork:0.0k 
 - [ARM-software/VHT](https://github.com/ARM-software/VHT) pushed_at:2022-01 star:0.0k fork:0.0k 
+- [ARM-software/VHT-AMI](https://github.com/ARM-software/VHT-AMI) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [ARM-software/workload-automation](https://github.com/ARM-software/workload-automation) pushed_at:2021-10 star:0.1k fork:0.1k A framework for automating workload execution and measurement collection on ARM devices.
 - [ARM-software/workload-automation-assets](https://github.com/ARM-software/workload-automation-assets) pushed_at:2018-06 star:0.0k fork:0.0k Assets used by the workload-automation software
 

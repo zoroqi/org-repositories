@@ -43,7 +43,7 @@
 ## Makefile
 
 - [riscv/riscv-aclint](https://github.com/riscv/riscv-aclint) pushed_at:2022-01 star:0.0k fork:0.0k 
-- [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) pushed_at:2021-12 star:0.2k fork:0.1k Working draft of the proposed RISC-V Bitmanipulation extension
+- [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) pushed_at:2022-01 star:0.2k fork:0.1k Working draft of the proposed RISC-V Bitmanipulation extension
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) pushed_at:2022-01 star:0.0k fork:0.0k Working Draft of the RISC-V J Extension Specification
 - [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2022-01 star:0.1k fork:0.0k RISC-V Profiles and Platform Specification
 - [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) pushed_at:2022-01 star:0.0k fork:0.0k RISC-V Architecture Profiles
@@ -65,8 +65,8 @@
 
 ## Python
 
-- [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) pushed_at:2021-12 star:0.1k fork:0.0k 
-- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) pushed_at:2021-12 star:0.3k fork:0.2k RISC-V Opcodes
+- [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) pushed_at:2022-01 star:0.1k fork:0.0k 
+- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) pushed_at:2022-01 star:0.3k fork:0.2k RISC-V Opcodes
 
 ## TeX
 

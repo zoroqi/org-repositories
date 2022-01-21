@@ -90,7 +90,7 @@
 - [sony/nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [sony/nnabla-examples](https://github.com/sony/nnabla-examples) pushed_at:2022-01 star:0.2k fork:0.1k Neural Network Libraries https://nnabla.org/ - Examples
 - [sony/nnabla-nas](https://github.com/sony/nnabla-nas) pushed_at:2022-01 star:0.0k fork:0.0k Neural Architecture Search for Neural Network Libraries
-- [sony/nnabla-rl](https://github.com/sony/nnabla-rl) pushed_at:2021-12 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
+- [sony/nnabla-rl](https://github.com/sony/nnabla-rl) pushed_at:2022-01 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
 - [sony/nnc-plugin](https://github.com/sony/nnc-plugin) pushed_at:2022-01 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
 - [sony/pyIEOE](https://github.com/sony/pyIEOE) pushed_at:2021-09 star:0.0k fork:0.0k 
 
