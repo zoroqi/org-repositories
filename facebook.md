@@ -37,7 +37,7 @@
 - [facebook/openbmc-uboot](https://github.com/facebook/openbmc-uboot) pushed_at:2022-01 star:0.0k fork:0.0k Tracking Denx Das u-boot with various trusted computing add-ons.
 - [facebook/tac_plus](https://github.com/facebook/tac_plus) pushed_at:2021-12 star:0.1k fork:0.1k A Tacacs+ Daemon tested on Linux (CentOS) to run AAA via TACACS+ Protocol via IPv4 and IPv6.
 - [facebook/transform360](https://github.com/facebook/transform360) pushed_at:2021-08 star:0.9k fork:0.2k Transform360 is an equirectangular to cubemap transform for 360 video.
-- [facebook/zstd](https://github.com/facebook/zstd) pushed_at:2022-01 star:16.2k fork:1.6k Zstandard - Fast real-time compression algorithm
+- [facebook/zstd](https://github.com/facebook/zstd) pushed_at:2022-01 star:16.3k fork:1.6k Zstandard - Fast real-time compression algorithm
 
 ## C++
 
@@ -51,9 +51,9 @@
 - [facebook/folly](https://github.com/facebook/folly) pushed_at:2022-01 star:21.1k fork:4.5k An open-source C++ library developed and used at Facebook.
 - [facebook/hermes](https://github.com/facebook/hermes) pushed_at:2022-01 star:7.0k fork:0.4k A JavaScript engine optimized for running React Native.
 - [facebook/hhvm](https://github.com/facebook/hhvm) pushed_at:2022-01 star:17.2k fork:3.0k A virtual machine for executing programs written in Hack.
-- [facebook/kuduraft](https://github.com/facebook/kuduraft) pushed_at:2021-12 star:0.0k fork:0.0k A Raft Library in C++ based on the Raft implementation in Apache Kudu
+- [facebook/kuduraft](https://github.com/facebook/kuduraft) pushed_at:2022-01 star:0.0k fork:0.0k A Raft Library in C++ based on the Raft implementation in Apache Kudu
 - [facebook/mariana-trench](https://github.com/facebook/mariana-trench) pushed_at:2022-01 star:0.8k fork:0.1k Our security focused static analysis tool for Android and Java applications.
-- [facebook/mcrouter](https://github.com/facebook/mcrouter) pushed_at:2022-01 star:2.9k fork:0.5k Mcrouter is a memcached protocol router for scaling memcached deployments.
+- [facebook/mcrouter](https://github.com/facebook/mcrouter) pushed_at:2022-01 star:3.0k fork:0.5k Mcrouter is a memcached protocol router for scaling memcached deployments.
 - [facebook/mysql-5.6](https://github.com/facebook/mysql-5.6) pushed_at:2022-01 star:2.2k fork:0.7k Facebook's branch of the Oracle MySQL v5.6 database. This includes MyRocks.
 - [facebook/mysql-8.0](https://github.com/facebook/mysql-8.0) pushed_at:2022-01 star:0.1k fork:0.0k MySQL Server, the world's most popular open source database, and MySQL Cluster, a real-time, open source transactional database.
 - [facebook/openr](https://github.com/facebook/openr) pushed_at:2022-01 star:0.8k fork:0.2k Distributed platform for building autonomic network functions.
@@ -66,7 +66,7 @@
 - [facebook/ThreatExchange](https://github.com/facebook/ThreatExchange) pushed_at:2022-01 star:0.9k fork:0.2k Share threat information with vetted partners
 - [facebook/wangle](https://github.com/facebook/wangle) pushed_at:2022-01 star:2.8k fork:0.5k Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
 - [facebook/watchman](https://github.com/facebook/watchman) pushed_at:2022-01 star:10.6k fork:0.9k Watches files and records, or triggers actions, when they change. 
-- [facebook/yoga](https://github.com/facebook/yoga) pushed_at:2022-01 star:14.9k fork:1.3k Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
+- [facebook/yoga](https://github.com/facebook/yoga) pushed_at:2022-01 star:15.0k fork:1.3k Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 
 ## Go
 
@@ -103,10 +103,10 @@
 
 ## JavaScript
 
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) pushed_at:2022-01 star:93.0k fork:23.7k Set up a modern web app by running one command.
+- [facebook/create-react-app](https://github.com/facebook/create-react-app) pushed_at:2022-01 star:93.1k fork:23.7k Set up a modern web app by running one command.
 - [facebook/draft-js](https://github.com/facebook/draft-js) pushed_at:2022-01 star:21.3k fork:2.5k A React framework for building text editors.
 - [facebook/facebook-nodejs-business-sdk](https://github.com/facebook/facebook-nodejs-business-sdk) pushed_at:2022-01 star:0.4k fork:0.2k Facebook Ads API using Node.js
-- [facebook/fbjs](https://github.com/facebook/fbjs) pushed_at:2021-12 star:1.8k fork:0.3k A collection of utility libraries used by other Facebook JS projects.
+- [facebook/fbjs](https://github.com/facebook/fbjs) pushed_at:2022-01 star:1.8k fork:0.3k A collection of utility libraries used by other Facebook JS projects.
 - [facebook/fbt](https://github.com/facebook/fbt) pushed_at:2022-01 star:3.7k fork:0.2k A JavaScript Internationalization Framework
 - [facebook/flux](https://github.com/facebook/flux) pushed_at:2022-01 star:17.2k fork:3.6k Application Architecture for Building User Interfaces
 - [facebook/idx](https://github.com/facebook/idx) pushed_at:2021-09 star:1.7k fork:0.1k Library for accessing arbitrarily nested, possibly nullable properties on a JavaScript object.
@@ -114,9 +114,9 @@
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) pushed_at:2022-01 star:7.0k fork:0.4k A JavaScript codemod toolkit.
 - [facebook/metro](https://github.com/facebook/metro) pushed_at:2022-01 star:4.3k fork:0.5k 🚇 The JavaScript bundler for React Native.
 - [facebook/prepack](https://github.com/facebook/prepack) pushed_at:2021-09 star:14.4k fork:0.5k A JavaScript bundle optimizer.
-- [facebook/prop-types](https://github.com/facebook/prop-types) pushed_at:2022-01 star:4.0k fork:0.4k Runtime type checking for React props and similar objects
-- [facebook/react](https://github.com/facebook/react) pushed_at:2022-01 star:181.1k fork:36.8k A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [facebook/react-native](https://github.com/facebook/react-native) pushed_at:2022-01 star:100.6k fork:21.7k A framework for building native applications using React
+- [facebook/prop-types](https://github.com/facebook/prop-types) pushed_at:2022-01 star:4.1k fork:0.4k Runtime type checking for React props and similar objects
+- [facebook/react](https://github.com/facebook/react) pushed_at:2022-01 star:181.5k fork:36.9k A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react-native](https://github.com/facebook/react-native) pushed_at:2022-01 star:100.7k fork:21.7k A framework for building native applications using React
 - [facebook/react-native-deprecated-modules](https://github.com/facebook/react-native-deprecated-modules) pushed_at:2022-01 star:0.0k fork:0.0k Deprecated modules that were formerly part of React Native.
 - [facebook/react-native-website](https://github.com/facebook/react-native-website) pushed_at:2022-01 star:1.5k fork:3.8k Configuration and documentation powering the React Native website.
 - [facebook/regenerator](https://github.com/facebook/regenerator) pushed_at:2022-01 star:3.6k fork:1.2k Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
@@ -191,9 +191,9 @@
 
 ## TypeScript
 
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) pushed_at:2022-01 star:30.0k fork:4.1k Easy to maintain open source documentation websites.
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) pushed_at:2022-01 star:30.2k fork:4.1k Easy to maintain open source documentation websites.
 - [facebook/flipper](https://github.com/facebook/flipper) pushed_at:2022-01 star:10.5k fork:0.8k A desktop debugging platform for mobile developers.
-- [facebook/jest](https://github.com/facebook/jest) pushed_at:2022-01 star:37.7k fork:5.6k Delightful JavaScript Testing.
+- [facebook/jest](https://github.com/facebook/jest) pushed_at:2022-01 star:37.8k fork:5.6k Delightful JavaScript Testing.
 - [facebook/remodel](https://github.com/facebook/remodel) pushed_at:2021-12 star:0.6k fork:0.1k Remodel is a tool that helps iOS and OS X developers avoid repetitive code by generating Objective-C models that support coding, value comparison, and immutability.
 
 

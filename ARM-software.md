@@ -77,12 +77,12 @@
 - [ARM-software/TZ-TRNG](https://github.com/ARM-software/TZ-TRNG) pushed_at:2020-10 star:0.0k fork:0.0k TrustZone True Number Generator
 - [ARM-software/u-boot](https://github.com/ARM-software/u-boot) pushed_at:2020-06 star:0.1k fork:0.1k Clone of upstream U-Boot repo with patches for Arm development boards
 - [ARM-software/VHT-GetStarted](https://github.com/ARM-software/VHT-GetStarted) pushed_at:2022-01 star:0.0k fork:0.0k 
-- [ARM-software/VHT-TFLmicrospeech](https://github.com/ARM-software/VHT-TFLmicrospeech) pushed_at:2021-12 star:0.0k fork:0.0k Example: Micro speech for TensorFlow Lite
+- [ARM-software/VHT-TFLmicrospeech](https://github.com/ARM-software/VHT-TFLmicrospeech) pushed_at:2022-01 star:0.0k fork:0.0k Example: Micro speech for TensorFlow Lite
 - [ARM-software/vulkan-sdk](https://github.com/ARM-software/vulkan-sdk) pushed_at:2021-04 star:0.2k fork:0.0k Github repository for the Vulkan SDK
 
 ## C++
 
-- [ARM-software/android-nn-driver](https://github.com/ARM-software/android-nn-driver) pushed_at:2021-12 star:0.1k fork:0.1k 
+- [ARM-software/android-nn-driver](https://github.com/ARM-software/android-nn-driver) pushed_at:2022-01 star:0.1k fork:0.1k 
 - [ARM-software/armnn](https://github.com/ARM-software/armnn) pushed_at:2022-01 star:0.8k fork:0.3k Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
 - [ARM-software/armnn-mlperf](https://github.com/ARM-software/armnn-mlperf) pushed_at:2022-01 star:0.0k fork:0.0k Arm mlperf.org benchmark port
 - [ARM-software/astc-encoder](https://github.com/ARM-software/astc-encoder) pushed_at:2022-01 star:0.6k fork:0.1k This is the official repository for the Arm ASTC Encoder, a texture compressor for the Adaptive Scalable Texture Compression data format.
@@ -175,7 +175,7 @@
 - [ARM-software/Cloud-IoT-Core-Kit-Examples](https://github.com/ARM-software/Cloud-IoT-Core-Kit-Examples) pushed_at:2018-07 star:0.1k fork:0.0k Example projects and code are supplied to support the Arm-based IoT Kit for Cloud IoT Core
 - [ARM-software/core-benchmarks](https://github.com/ARM-software/core-benchmarks) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [ARM-software/daq-server](https://github.com/ARM-software/daq-server) pushed_at:2021-10 star:0.0k fork:0.0k Server for remote access to National Instruments DAQ devices
-- [ARM-software/devlib](https://github.com/ARM-software/devlib) pushed_at:2021-11 star:0.0k fork:0.1k Library for interaction with and instrumentation of remote devices.
+- [ARM-software/devlib](https://github.com/ARM-software/devlib) pushed_at:2022-01 star:0.0k fork:0.1k Library for interaction with and instrumentation of remote devices.
 - [ARM-software/LLVM-embedded-toolchain-for-Arm](https://github.com/ARM-software/LLVM-embedded-toolchain-for-Arm) pushed_at:2021-12 star:0.1k fork:0.0k A project dedicated to build LLVM toolchain for 32-bit Arm embedded targets.
 - [ARM-software/ML-zoo](https://github.com/ARM-software/ML-zoo) pushed_at:2022-01 star:0.1k fork:0.0k 
 - [ARM-software/mram_simulation_framework](https://github.com/ARM-software/mram_simulation_framework) pushed_at:2021-10 star:0.0k fork:0.0k MRAM magnetization simulation framework. s-LLGS python and verilog-a solvers for transients simulation and  Fokker-planck equation solver for stochastic analysis

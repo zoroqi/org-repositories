@@ -93,7 +93,7 @@
 
 ## Others
 
-- [twitter/.github](https://github.com/twitter/.github) pushed_at:2021-10 star:0.0k fork:0.0k Twitter GitHub Organization-wide files
+- [twitter/.github](https://github.com/twitter/.github) pushed_at:2022-01 star:0.0k fork:0.0k Twitter GitHub Organization-wide files
 - [twitter/analytics-infra-governance](https://github.com/twitter/analytics-infra-governance) pushed_at:2017-10 star:0.0k fork:0.0k Description of the process for how to commit, review, and release code to the Scalding OSS family (Scalding, Summingbird, Algebird, Bijection, Storehaus, etc)
 - [twitter/curation-style-guide](https://github.com/twitter/curation-style-guide) pushed_at:2019-06 star:0.0k fork:0.0k Document Repository for Twitter's Curation Style Guide
 - [twitter/gpl-commitment](https://github.com/twitter/gpl-commitment) pushed_at:2021-07 star:0.0k fork:0.0k Twitter's GPL Cooperation Commitment
@@ -135,7 +135,7 @@
 
 ## SCSS
 
-- [twitter/opensource-website](https://github.com/twitter/opensource-website) pushed_at:2022-01 star:1.7k fork:0.6k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
+- [twitter/opensource-website](https://github.com/twitter/opensource-website) pushed_at:2022-01 star:1.8k fork:0.6k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 
 ## Scala
 
@@ -149,12 +149,12 @@
 - [twitter/iago2](https://github.com/twitter/iago2) pushed_at:2019-12 star:0.0k fork:0.0k A load generator, built for engineers
 - [twitter/rsc](https://github.com/twitter/rsc) pushed_at:2021-10 star:1.2k fork:0.0k Experimental Scala compiler focused on compilation speed
 - [twitter/scala_school2](https://github.com/twitter/scala_school2) pushed_at:2021-10 star:0.3k fork:0.1k Scala School 2
-- [twitter/scalding](https://github.com/twitter/scalding) pushed_at:2021-12 star:3.3k fork:0.7k A Scala API for Cascading
+- [twitter/scalding](https://github.com/twitter/scalding) pushed_at:2022-01 star:3.3k fork:0.7k A Scala API for Cascading
 - [twitter/scrooge](https://github.com/twitter/scrooge) pushed_at:2022-01 star:0.7k fork:0.2k A Thrift parser/generator
 - [twitter/storehaus](https://github.com/twitter/storehaus) pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) pushed_at:2022-01 star:2.1k fork:0.3k Streaming MapReduce with Scalding and Storm
 - [twitter/tormenta](https://github.com/twitter/tormenta) pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
-- [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) pushed_at:2021-09 star:0.1k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
+- [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) pushed_at:2022-01 star:0.1k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) pushed_at:2021-08 star:0.8k fork:0.2k Korean tokenizer
 - [twitter/twitter-server](https://github.com/twitter/twitter-server) pushed_at:2022-01 star:1.3k fork:0.2k Twitter-Server defines a template from which services at Twitter are built
 - [twitter/util](https://github.com/twitter/util) pushed_at:2022-01 star:2.5k fork:0.5k Wonderful reusable code from Twitter

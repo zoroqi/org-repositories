@@ -165,7 +165,7 @@
 
 ## SCSS
 
-- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) pushed_at:2021-12 star:0.0k fork:0.0k Code and content of https://privacybadger.org
+- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) pushed_at:2022-01 star:0.0k fork:0.0k Code and content of https://privacybadger.org
 
 ## Sass
 

@@ -31,7 +31,7 @@
 
 ## CSS
 
-- [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) pushed_at:2022-01 star:5.3k fork:14.6k A sample Spring-based application
+- [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) pushed_at:2022-01 star:5.3k fork:14.7k A sample Spring-based application
 - [spring-projects/spring-webflow-samples](https://github.com/spring-projects/spring-webflow-samples) pushed_at:2021-05 star:0.4k fork:0.6k 
 
 ## Groovy
@@ -67,7 +67,7 @@
 - [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) pushed_at:2022-01 star:3.1k fork:0.6k The Spring Authorization Server project is focused on delivering OAuth 2.1 Authorization Server support to the Spring community.
 - [spring-projects/spring-batch](https://github.com/spring-projects/spring-batch) pushed_at:2022-01 star:2.0k fork:1.9k Spring Batch is a framework for writing offline and batch applications using Spring and Java
 - [spring-projects/spring-batch-extensions](https://github.com/spring-projects/spring-batch-extensions) pushed_at:2022-01 star:0.2k fork:0.2k Spring Batch Extensions
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) pushed_at:2022-01 star:59.2k fork:35.5k Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) pushed_at:2022-01 star:59.4k fork:35.5k Spring Boot
 - [spring-projects/spring-boot-data-geode](https://github.com/spring-projects/spring-boot-data-geode) pushed_at:2022-01 star:0.0k fork:0.0k Spring Boot support for Apache Geode and VMware Tanzu GemFire
 - [spring-projects/spring-bus](https://github.com/spring-projects/spring-bus) pushed_at:2019-03 star:0.0k fork:0.0k Support for distributed Spring Integration applications as Message-driven Microservices
 - [spring-projects/spring-credhub](https://github.com/spring-projects/spring-credhub) pushed_at:2021-12 star:0.0k fork:0.0k Spring abstractions for Cloud Foundry CredHub
@@ -98,7 +98,7 @@
 - [spring-projects/spring-data-solr](https://github.com/spring-projects/spring-data-solr) pushed_at:2021-11 star:0.4k fork:0.2k Spring Data - Apache Solr integration
 - [spring-projects/spring-data-solr-examples](https://github.com/spring-projects/spring-data-solr-examples) pushed_at:2019-03 star:0.1k fork:0.1k Spring Data Solr - Examples
 - [spring-projects/spring-flex](https://github.com/spring-projects/spring-flex) pushed_at:2020-02 star:0.1k fork:0.1k Spring BlazeDS Integration
-- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) pushed_at:2022-01 star:45.9k fork:32.4k Spring Framework
+- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) pushed_at:2022-01 star:46.0k fork:32.5k Spring Framework
 - [spring-projects/spring-framework-issues](https://github.com/spring-projects/spring-framework-issues) pushed_at:2019-04 star:0.1k fork:0.2k User-contributed projects reproducing issues logged against Spring Framework GitHub issues. Note: this is not the Spring Framework issue tracker -->
 - [spring-projects/spring-gemfire-examples](https://github.com/spring-projects/spring-gemfire-examples) pushed_at:2021-04 star:0.1k fork:0.1k Sample projects to get started with Spring Gemfire
 - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) pushed_at:2022-01 star:1.0k fork:0.1k Spring Integration for GraphQL 
@@ -115,7 +115,7 @@
 - [spring-projects/spring-integration-extensions](https://github.com/spring-projects/spring-integration-extensions) pushed_at:2022-01 star:0.3k fork:0.3k The Spring Integration Extensions project provides extension components for Spring Integration
 - [spring-projects/spring-integration-flow](https://github.com/spring-projects/spring-integration-flow) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [spring-projects/Spring-Integration-in-Action](https://github.com/spring-projects/Spring-Integration-in-Action) pushed_at:2019-03 star:0.1k fork:0.1k Source code to accompany the book
-- [spring-projects/spring-integration-java-dsl](https://github.com/spring-projects/spring-integration-java-dsl) pushed_at:2019-08 star:0.2k fork:0.1k 
+- [spring-projects/spring-integration-java-dsl](https://github.com/spring-projects/spring-integration-java-dsl) pushed_at:2022-01 star:0.2k fork:0.1k 
 - [spring-projects/spring-integration-kafka](https://github.com/spring-projects/spring-integration-kafka) pushed_at:2022-01 star:0.3k fork:0.2k 
 - [spring-projects/spring-integration-samples](https://github.com/spring-projects/spring-integration-samples) pushed_at:2022-01 star:2.0k fork:2.5k You are looking for examples, code snippets, sample applications for Spring Integration? This is the place.
 - [spring-projects/spring-integration-splunk](https://github.com/spring-projects/spring-integration-splunk) pushed_at:2019-03 star:0.0k fork:0.0k 
@@ -148,7 +148,7 @@
 - [spring-projects/spring-social-samples](https://github.com/spring-projects/spring-social-samples) pushed_at:2022-01 star:0.5k fork:0.8k Samples of using Spring Social
 - [spring-projects/spring-social-twitter](https://github.com/spring-projects/spring-social-twitter) pushed_at:2021-11 star:0.1k fork:0.1k Twitter API binding and connect support.
 - [spring-projects/spring-sqlfire-samples](https://github.com/spring-projects/spring-sqlfire-samples) pushed_at:2019-03 star:0.0k fork:0.0k Sample application using Spring and SQLFire
-- [spring-projects/spring-statemachine](https://github.com/spring-projects/spring-statemachine) pushed_at:2021-12 star:1.2k fork:0.5k Spring Statemachine is a framework for application developers to use state machine concepts with Spring.
+- [spring-projects/spring-statemachine](https://github.com/spring-projects/spring-statemachine) pushed_at:2022-01 star:1.2k fork:0.5k Spring Statemachine is a framework for application developers to use state machine concepts with Spring.
 - [spring-projects/spring-tenancy](https://github.com/spring-projects/spring-tenancy) pushed_at:2019-03 star:0.0k fork:0.0k Spring Tenancy
 - [spring-projects/spring-test-data-geode](https://github.com/spring-projects/spring-test-data-geode) pushed_at:2022-01 star:0.0k fork:0.0k A Spring-based Test Framework supporting Unit and Integration testing for Spring Boot applications using Spring Data with either Apache Geode or VMware Tanzu GemFire
 - [spring-projects/spring-tuple](https://github.com/spring-projects/spring-tuple) pushed_at:2019-03 star:0.0k fork:0.0k 

@@ -42,7 +42,7 @@
 - [apple/AudioUnitSDK](https://github.com/apple/AudioUnitSDK) pushed_at:2021-07 star:0.1k fork:0.0k AudioUnit SDK
 - [apple/ccs-pyopendirectory](https://github.com/apple/ccs-pyopendirectory) pushed_at:2018-11 star:0.0k fork:0.0k Python OpenDirectory library used by CalendarServer
 - [apple/foundationdb](https://github.com/apple/foundationdb) pushed_at:2022-01 star:11.0k fork:1.0k FoundationDB - the open source, distributed, transactional key-value store
-- [apple/indexstore-db](https://github.com/apple/indexstore-db) pushed_at:2022-01 star:0.2k fork:0.0k Index database library for use with sourcekit-lsp
+- [apple/indexstore-db](https://github.com/apple/indexstore-db) pushed_at:2022-01 star:0.2k fork:0.1k Index database library for use with sourcekit-lsp
 - [apple/llvm-project-v5](https://github.com/apple/llvm-project-v5) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project-v5-split](https://github.com/apple/llvm-project-v5-split) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/swift](https://github.com/apple/swift) pushed_at:2022-01 star:58.5k fork:9.4k The Swift Programming Language
@@ -70,7 +70,7 @@
 
 ## JavaScript
 
-- [apple/password-manager-resources](https://github.com/apple/password-manager-resources) pushed_at:2022-01 star:3.4k fork:0.3k A place for creators and users of password managers to collaborate on resources to make password management better.
+- [apple/password-manager-resources](https://github.com/apple/password-manager-resources) pushed_at:2022-01 star:3.5k fork:0.4k A place for creators and users of password managers to collaborate on resources to make password management better.
 - [apple/swift-docc-render](https://github.com/apple/swift-docc-render) pushed_at:2022-01 star:0.1k fork:0.0k Web renderer for Swift-DocC documentation.
 
 ## Jupyter Notebook
@@ -182,10 +182,10 @@
 - [apple/swift-docc-symbolkit](https://github.com/apple/swift-docc-symbolkit) pushed_at:2022-01 star:0.1k fork:0.0k A Swift package for encoding and decoding Swift Symbol Graph files.
 - [apple/swift-driver](https://github.com/apple/swift-driver) pushed_at:2022-01 star:0.6k fork:0.1k Swift compiler driver reimplementation in Swift
 - [apple/swift-evolution-staging](https://github.com/apple/swift-evolution-staging) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [apple/swift-experimental-string-processing](https://github.com/apple/swift-experimental-string-processing) pushed_at:2022-01 star:0.1k fork:0.0k An early experimental general-purpose pattern matching engine for Swift.
+- [apple/swift-experimental-string-processing](https://github.com/apple/swift-experimental-string-processing) pushed_at:2022-01 star:0.2k fork:0.0k An early experimental general-purpose pattern matching engine for Swift.
 - [apple/swift-format](https://github.com/apple/swift-format) pushed_at:2022-01 star:1.4k fork:0.1k Formatting technology for Swift source code
 - [apple/swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) pushed_at:2022-01 star:0.1k fork:0.0k A Swift implementation of the HTTP Structured Header Field specification.
-- [apple/swift-llbuild2](https://github.com/apple/swift-llbuild2) pushed_at:2021-12 star:0.2k fork:0.0k A fresh take on a low-level build system API.
+- [apple/swift-llbuild2](https://github.com/apple/swift-llbuild2) pushed_at:2022-01 star:0.2k fork:0.0k A fresh take on a low-level build system API.
 - [apple/swift-log](https://github.com/apple/swift-log) pushed_at:2022-01 star:2.6k fork:0.2k A Logging API for Swift
 - [apple/swift-markdown](https://github.com/apple/swift-markdown) pushed_at:2022-01 star:1.6k fork:0.1k A Swift package for parsing, building, editing, and analyzing Markdown documents.
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) pushed_at:2022-01 star:0.5k fork:0.0k A Metrics API for Swift
@@ -203,7 +203,7 @@
 - [apple/swift-package-collection-generator](https://github.com/apple/swift-package-collection-generator) pushed_at:2022-01 star:0.1k fork:0.0k A collection of packages and tooling for generating and consuming package feeds.
 - [apple/swift-package-manager](https://github.com/apple/swift-package-manager) pushed_at:2022-01 star:8.6k fork:1.1k The Package Manager for the Swift Programming Language
 - [apple/swift-package-registry-compatibility-test-suite](https://github.com/apple/swift-package-registry-compatibility-test-suite) pushed_at:2021-12 star:0.0k fork:0.0k Tools for building and testing Swift package registry server that implements SE-0292 and SE-0321
-- [apple/swift-protobuf](https://github.com/apple/swift-protobuf) pushed_at:2021-11 star:3.7k fork:0.3k Plugin and runtime library for using protobuf with Swift
+- [apple/swift-protobuf](https://github.com/apple/swift-protobuf) pushed_at:2022-01 star:3.7k fork:0.3k Plugin and runtime library for using protobuf with Swift
 - [apple/swift-sample-distributed-actors-transport](https://github.com/apple/swift-sample-distributed-actors-transport) pushed_at:2021-12 star:0.0k fork:0.0k Distributed actors transport example, for feature review
 - [apple/swift-se0270-range-set](https://github.com/apple/swift-se0270-range-set) pushed_at:2021-12 star:0.0k fork:0.0k Swift Evolution preview package for SE-0270.
 - [apple/swift-se0288-is-power](https://github.com/apple/swift-se0288-is-power) pushed_at:2021-12 star:0.0k fork:0.0k Preview package for Swift Evolution proposal SE-0288

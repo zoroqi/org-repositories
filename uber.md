@@ -31,7 +31,7 @@
 ## C
 
 - [uber/h3](https://github.com/uber/h3) pushed_at:2022-01 star:3.2k fork:0.3k Hexagonal hierarchical geospatial indexing system
-- [uber/h3-go](https://github.com/uber/h3-go) pushed_at:2021-12 star:0.1k fork:0.0k Go bindings for H3, a hierarchical hexagonal geospatial indexing system
+- [uber/h3-go](https://github.com/uber/h3-go) pushed_at:2021-12 star:0.2k fork:0.0k Go bindings for H3, a hierarchical hexagonal geospatial indexing system
 
 ## C++
 
@@ -56,7 +56,7 @@
 - [uber/prototool](https://github.com/uber/prototool) pushed_at:2022-01 star:5.0k fork:0.3k Your Swiss Army Knife for Protocol Buffers
 - [uber/ringpop-go](https://github.com/uber/ringpop-go) pushed_at:2021-02 star:0.7k fork:0.1k Scalable, fault-tolerant application-layer sharding for Go applications
 - [uber/storagetapper](https://github.com/uber/storagetapper) pushed_at:2022-01 star:0.3k fork:0.1k StorageTapper is a scalable realtime MySQL change data streaming, logical backup and logical replication service
-- [uber/tchannel-go](https://github.com/uber/tchannel-go) pushed_at:2021-12 star:0.4k fork:0.1k Go implementation of a multiplexing and framing protocol for RPC calls
+- [uber/tchannel-go](https://github.com/uber/tchannel-go) pushed_at:2022-01 star:0.4k fork:0.1k Go implementation of a multiplexing and framing protocol for RPC calls
 - [uber/uberalls](https://github.com/uber/uberalls) pushed_at:2020-03 star:0.2k fork:0.0k Track code coverage metrics with Jenkins and Phabricator
 - [uber/zanzibar](https://github.com/uber/zanzibar) pushed_at:2022-01 star:0.4k fork:0.1k A build system & configuration system to generate versioned API gateways.
 
@@ -73,10 +73,10 @@
 - [uber/android-template](https://github.com/uber/android-template) pushed_at:2021-05 star:0.1k fork:0.1k This template provides a starting point for open source Android projects at Uber.
 - [uber/AutoDispose](https://github.com/uber/AutoDispose) pushed_at:2021-12 star:3.2k fork:0.2k Automatic binding+disposal of RxJava streams.
 - [uber/cadence-java-client](https://github.com/uber/cadence-java-client) pushed_at:2022-01 star:0.1k fork:0.1k Java framework for Cadence Workflow Service
-- [uber/cadence-java-samples](https://github.com/uber/cadence-java-samples) pushed_at:2022-01 star:0.1k fork:0.0k 
+- [uber/cadence-java-samples](https://github.com/uber/cadence-java-samples) pushed_at:2022-01 star:0.1k fork:0.1k 
 - [uber/concurrency-loadbalancer](https://github.com/uber/concurrency-loadbalancer) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [uber/dynamodb-cross-region-library](https://github.com/uber/dynamodb-cross-region-library) pushed_at:2017-10 star:0.0k fork:0.0k A library to facilitate cross-region replication with Amazon DynamoDB Streams.
-- [uber/h3-java](https://github.com/uber/h3-java) pushed_at:2021-12 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
+- [uber/h3-java](https://github.com/uber/h3-java) pushed_at:2022-01 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/marmaray](https://github.com/uber/marmaray) pushed_at:2021-06 star:0.4k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
 - [uber/NullAway](https://github.com/uber/NullAway) pushed_at:2022-01 star:3.1k fork:0.2k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [uber/okbuck](https://github.com/uber/okbuck) pushed_at:2021-12 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
@@ -106,7 +106,7 @@
 - [uber/geojson2h3](https://github.com/uber/geojson2h3) pushed_at:2021-09 star:0.1k fork:0.0k Conversion utilities between H3 indexes and GeoJSON
 - [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) pushed_at:2021-08 star:0.4k fork:0.1k grafana dash dash dash gen
 - [uber/graph.gl](https://github.com/uber/graph.gl) pushed_at:2021-02 star:0.0k fork:0.0k WebGL2-Powered Visualization Components for Graph Visualization
-- [uber/h3-js](https://github.com/uber/h3-js) pushed_at:2021-08 star:0.5k fork:0.1k h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
+- [uber/h3-js](https://github.com/uber/h3-js) pushed_at:2022-01 star:0.5k fork:0.1k h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
 - [uber/json-schema-filter](https://github.com/uber/json-schema-filter) pushed_at:2020-10 star:0.0k fork:0.0k Filters (removes) objects from document based on passed json-schema
 - [uber/kafka-logger](https://github.com/uber/kafka-logger) pushed_at:2018-10 star:0.0k fork:0.0k A kafka logger for winston
 - [uber/logtron](https://github.com/uber/logtron) pushed_at:2018-10 star:0.2k fork:0.0k A logging MACHINE
@@ -201,7 +201,7 @@
 
 - [uber/cyborg](https://github.com/uber/cyborg) pushed_at:2020-09 star:0.3k fork:0.0k Display Android Vectordrawables on iOS.
 - [uber/mockolo](https://github.com/uber/mockolo) pushed_at:2022-01 star:0.5k fork:0.0k Efficient Mock Generator for Swift
-- [uber/needle](https://github.com/uber/needle) pushed_at:2021-11 star:1.1k fork:0.1k Compile-time safe Swift dependency injection framework
+- [uber/needle](https://github.com/uber/needle) pushed_at:2022-01 star:1.1k fork:0.1k Compile-time safe Swift dependency injection framework
 - [uber/rides-ios-sdk](https://github.com/uber/rides-ios-sdk) pushed_at:2019-11 star:0.3k fork:0.1k Uber Rides iOS SDK (beta)
 - [uber/RxCBCentral](https://github.com/uber/RxCBCentral) pushed_at:2021-09 star:0.0k fork:0.0k  A reactive, interface-driven central role Bluetooth LE library for iOS
 - [uber/swift-abstract-class](https://github.com/uber/swift-abstract-class) pushed_at:2019-12 star:0.1k fork:0.0k Compile-time abstract class validation for Swift
@@ -212,7 +212,7 @@
 
 ## Thrift
 
-- [uber/cadence-idl](https://github.com/uber/cadence-idl) pushed_at:2021-12 star:0.0k fork:0.0k Cadence IDL repo, shared by server / clients
+- [uber/cadence-idl](https://github.com/uber/cadence-idl) pushed_at:2022-01 star:0.0k fork:0.0k Cadence IDL repo, shared by server / clients
 - [uber/dosa-idl](https://github.com/uber/dosa-idl) pushed_at:2020-05 star:0.0k fork:0.0k 
 - [uber/tchannel](https://github.com/uber/tchannel) pushed_at:2021-12 star:1.1k fork:0.1k network multiplexing and framing protocol for RPC
 

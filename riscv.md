@@ -29,7 +29,7 @@
 
 - [riscv/configuration-structure](https://github.com/riscv/configuration-structure) pushed_at:2022-01 star:0.0k fork:0.0k RISC-V Configuration Structure
 - [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2022-01 star:0.2k fork:0.0k RISC-V cryptography extensions standardisation work.
-- [riscv/riscv-openocd](https://github.com/riscv/riscv-openocd) pushed_at:2021-12 star:0.2k fork:0.2k Fork of OpenOCD that has RISC-V support
+- [riscv/riscv-openocd](https://github.com/riscv/riscv-openocd) pushed_at:2022-01 star:0.2k fork:0.2k Fork of OpenOCD that has RISC-V support
 - [riscv/riscv-test-env](https://github.com/riscv/riscv-test-env) pushed_at:2022-01 star:0.0k fork:0.1k 
 
 ## Coq
