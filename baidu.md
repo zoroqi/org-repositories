@@ -52,7 +52,7 @@
 - [baidu/openrasp](https://github.com/baidu/openrasp) pushed_at:2022-01 star:2.1k fork:0.5k 🔥Open source RASP solution
 - [baidu/shuttle](https://github.com/baidu/shuttle) pushed_at:2018-07 star:0.1k fork:0.0k A fast computing framework based on Galaxy
 - [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) pushed_at:2022-01 star:2.0k fork:0.7k A light-weight RPC implement of google protobuf RPC framework.
-- [baidu/tera](https://github.com/baidu/tera) pushed_at:2019-01 star:1.8k fork:0.4k An Internet-Scale Database.
+- [baidu/tera](https://github.com/baidu/tera) pushed_at:2019-01 star:1.9k fork:0.4k An Internet-Scale Database.
 - [baidu/unit-dmkit](https://github.com/baidu/unit-dmkit) pushed_at:2019-08 star:0.3k fork:0.1k 
 - [baidu/unit-uskit](https://github.com/baidu/unit-uskit) pushed_at:2021-06 star:0.2k fork:0.1k unit-uskit
 
@@ -63,7 +63,7 @@
 ## Go
 
 - [baidu/baiducloud-sdk-go](https://github.com/baidu/baiducloud-sdk-go) pushed_at:2019-10 star:0.0k fork:0.0k Go SDK for Baidu Cloud
-- [baidu/brcc-go-sdk](https://github.com/baidu/brcc-go-sdk) pushed_at:2021-12 star:0.0k fork:0.0k golang sdk for BRCC (https://github.com/baidu/brcc)
+- [baidu/brcc-go-sdk](https://github.com/baidu/brcc-go-sdk) pushed_at:2022-01 star:0.0k fork:0.0k golang sdk for BRCC (https://github.com/baidu/brcc)
 - [baidu/cluster-api-provider-baiducloud](https://github.com/baidu/cluster-api-provider-baiducloud) pushed_at:2018-12 star:0.0k fork:0.0k Kubernetes cluster-api for Baidu Cloud
 - [baidu/EasyFaaS](https://github.com/baidu/EasyFaaS) pushed_at:2021-10 star:0.5k fork:0.0k EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎
 - [baidu/go-lib](https://github.com/baidu/go-lib) pushed_at:2021-10 star:0.1k fork:0.0k 
