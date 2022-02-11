@@ -61,7 +61,7 @@
 - [ARM-software/ML-KWS-for-MCU](https://github.com/ARM-software/ML-KWS-for-MCU) pushed_at:2019-04 star:0.9k fork:0.4k Keyword spotting on Arm Cortex-M Microcontrollers
 - [ARM-software/mobile-studio-integration-for-unity](https://github.com/ARM-software/mobile-studio-integration-for-unity) pushed_at:2021-06 star:0.1k fork:0.0k Mobile Studio tool integration with C# scripting for the Unity game engine.
 - [ARM-software/NXP_LPC](https://github.com/ARM-software/NXP_LPC) pushed_at:2021-12 star:0.0k fork:0.0k CMSIS Driver Implementations for the NXP LPC Microcontroller Series
-- [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) pushed_at:2021-12 star:0.3k fork:0.1k Optimized implementations of various library functions for ARM architecture processors
+- [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) pushed_at:2022-02 star:0.3k fork:0.1k Optimized implementations of various library functions for ARM architecture processors
 - [ARM-software/perf-libs-tools](https://github.com/ARM-software/perf-libs-tools) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [ARM-software/progress64](https://github.com/ARM-software/progress64) pushed_at:2021-04 star:0.0k fork:0.0k PROGRESS64 is a C library of scalable functions for concurrent programs, primarily focused on networking applications.
 - [ARM-software/psa-arch-tests](https://github.com/ARM-software/psa-arch-tests) pushed_at:2022-01 star:0.0k fork:0.1k Tests for verifying implementations of TBSA-v8M and the PSA Developer APIs
@@ -89,7 +89,7 @@
 - [ARM-software/ATP-Engine](https://github.com/ARM-software/ATP-Engine) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [ARM-software/BarrierPoint](https://github.com/ARM-software/BarrierPoint) pushed_at:2020-05 star:0.0k fork:0.0k 
 - [ARM-software/caiman](https://github.com/ARM-software/caiman) pushed_at:2022-01 star:0.0k fork:0.0k Sources for Arm Streamline's caiman daemon
-- [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) pushed_at:2021-11 star:2.1k fork:0.7k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
+- [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) pushed_at:2021-11 star:2.2k fork:0.7k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [ARM-software/developer](https://github.com/ARM-software/developer) pushed_at:2021-10 star:0.0k fork:0.0k GTM related documentation
 - [ARM-software/devtools](https://github.com/ARM-software/devtools) pushed_at:2022-02 star:0.0k fork:0.0k Open-CMSIS-Pack development tools - C++ 
 - [ARM-software/drm-hwcomposer](https://github.com/ARM-software/drm-hwcomposer) pushed_at:2021-11 star:0.0k fork:0.0k Clone of the drm-hwcomposer from freedesktop.org plus patches from Mali DP team
@@ -102,7 +102,7 @@
 - [ARM-software/libTLE](https://github.com/ARM-software/libTLE) pushed_at:2021-04 star:0.0k fork:0.0k This is a library of simple C11 and C++11 mutex primitives that provides support for Transactional Lock Elision (TLE) on Intel 64 with TSX and AArch64 with TME platforms.
 - [ARM-software/malioc-ue4](https://github.com/ARM-software/malioc-ue4) pushed_at:2016-04 star:0.0k fork:0.0k Mali Offline Compiler Plugin for Unreal Engine 4
 - [ARM-software/Methodology_for_ArmIE_SVE](https://github.com/ARM-software/Methodology_for_ArmIE_SVE) pushed_at:2019-11 star:0.0k fork:0.0k 
-- [ARM-software/ML-examples](https://github.com/ARM-software/ML-examples) pushed_at:2022-01 star:0.3k fork:0.1k Arm Machine Learning tutorials and examples
+- [ARM-software/ML-examples](https://github.com/ARM-software/ML-examples) pushed_at:2022-02 star:0.3k fork:0.1k Arm Machine Learning tutorials and examples
 - [ARM-software/nomali-model](https://github.com/ARM-software/nomali-model) pushed_at:2016-01 star:0.0k fork:0.0k A simple Mali 6xx/7xx register interface model that doesn't do any rendering.
 - [ARM-software/odp-example-sisu](https://github.com/ARM-software/odp-example-sisu) pushed_at:2016-09 star:0.0k fork:0.0k SISU - Simple GTP-U/IPsec application using ODP (OpenDataPlane)
 - [ARM-software/patrace](https://github.com/ARM-software/patrace) pushed_at:2021-11 star:0.0k fork:0.0k 
@@ -128,7 +128,7 @@
 
 ## Go
 
-- [ARM-software/bob-build](https://github.com/ARM-software/bob-build) pushed_at:2022-01 star:0.0k fork:0.0k Meta-build system using Blueprint and ninja
+- [ARM-software/bob-build](https://github.com/ARM-software/bob-build) pushed_at:2022-02 star:0.0k fork:0.0k Meta-build system using Blueprint and ninja
 - [ARM-software/golang-utils](https://github.com/ARM-software/golang-utils) pushed_at:2022-02 star:0.0k fork:0.0k Helpers and utilities for Golang in order to do actions not available in the standard library.
 
 ## HTML
@@ -200,7 +200,7 @@
 
 ## Shell
 
-- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) pushed_at:2022-01 star:0.3k fork:0.1k Application Binary Interface for the Arm® Architecture
+- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) pushed_at:2022-02 star:0.3k fork:0.1k Application Binary Interface for the Arm® Architecture
 - [ARM-software/arm-systemready](https://github.com/ARM-software/arm-systemready) pushed_at:2021-11 star:0.0k fork:0.0k Arm SystemReady
 - [ARM-software/ohpc-config](https://github.com/ARM-software/ohpc-config) pushed_at:2017-08 star:0.0k fork:0.0k Scripts and config files for recreating an OpenHPC OBS instance.
 - [ARM-software/toolchain](https://github.com/ARM-software/toolchain) pushed_at:2020-02 star:0.0k fork:0.0k An master project to en route toolchain build requests into corresponding sub-projects with appropriate tags

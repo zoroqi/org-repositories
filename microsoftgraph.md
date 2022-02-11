@@ -47,7 +47,7 @@
 - [microsoftgraph/consoleApp-deltaQuery-dotNet-sample](https://github.com/microsoftgraph/consoleApp-deltaQuery-dotNet-sample) pushed_at:2020-05 star:0.0k fork:0.0k This console application demonstrates how to make Delta Query calls to the Graph API, allowing applications to request only changed data from Microsoft Graph tenants.
 - [microsoftgraph/contoso-airlines-azure-functions-sample](https://github.com/microsoftgraph/contoso-airlines-azure-functions-sample) pushed_at:2021-04 star:0.0k fork:0.0k [ARCHIVED]
 - [microsoftgraph/dotnet-aad-query-sample](https://github.com/microsoftgraph/dotnet-aad-query-sample) pushed_at:2021-07 star:0.0k fork:0.0k This sample demonstrates a .NET 5.0 Desktop (WPF) application showcasing advanced Microsoft Graph Query Capabilities for Directory Objects with .NET Graph SDK.
-- [microsoftgraph/dotnetcore-console-sample](https://github.com/microsoftgraph/dotnetcore-console-sample) pushed_at:2021-12 star:0.1k fork:0.0k .Net Core console application for calling Microsoft Graph.  Sample built from scratch.
+- [microsoftgraph/dotnetcore-console-sample](https://github.com/microsoftgraph/dotnetcore-console-sample) pushed_at:2022-02 star:0.1k fork:0.0k .Net Core console application for calling Microsoft Graph.  Sample built from scratch.
 - [microsoftgraph/Graph-Security-API-Auth-Sample](https://github.com/microsoftgraph/Graph-Security-API-Auth-Sample) pushed_at:2020-05 star:0.0k fork:0.0k [ARCHIVED] Provides sample to retrieve authentication token and send request to Microsoft Graph Security API
 - [microsoftgraph/group-membership-management](https://github.com/microsoftgraph/group-membership-management) pushed_at:2022-02 star:0.0k fork:0.0k .NET service that generates a parent group membership roster by regularly synchronizing it with memberships from specified Security or Microsoft 365 groups. Link to download is below. We would LOVE to hear back from you with any feedback you have. Feel free to join our discussion forum on this site or send us an email at GMMSupport@service.microsoft.com.
 - [microsoftgraph/Intune-PowerShell-SDK-Code-Generator](https://github.com/microsoftgraph/Intune-PowerShell-SDK-Code-Generator) pushed_at:2020-04 star:0.0k fork:0.0k Custom ODCM Writer built atop Vipr to auto-generate PowerShell cmdlets corresponding to CRUD operations for Microsoft Intune Graph Api. 
@@ -64,7 +64,7 @@
 - [microsoftgraph/msgraph-sdk-dotnet](https://github.com/microsoftgraph/msgraph-sdk-dotnet) pushed_at:2022-02 star:0.4k fork:0.2k Microsoft Graph Client Library for .NET!
 - [microsoftgraph/msgraph-sdk-dotnet-auth](https://github.com/microsoftgraph/msgraph-sdk-dotnet-auth) pushed_at:2021-08 star:0.1k fork:0.0k Archived - use the TokenCredential classes provided by Azure.Identity. https://docs.microsoft.com/en-us/dotnet/api/overview/azure/identity-readme
 - [microsoftgraph/msgraph-sdk-dotnet-contrib](https://github.com/microsoftgraph/msgraph-sdk-dotnet-contrib) pushed_at:2022-01 star:0.0k fork:0.0k Community contributed extensions to the Microsoft Graph .NET SDK service library, to support APIs that have not yet made it into Microsoft Graph
-- [microsoftgraph/msgraph-sdk-dotnet-core](https://github.com/microsoftgraph/msgraph-sdk-dotnet-core) pushed_at:2022-01 star:0.1k fork:0.0k The core Microsoft Graph client library for .Net. (Microsoft.Graph.Core)
+- [microsoftgraph/msgraph-sdk-dotnet-core](https://github.com/microsoftgraph/msgraph-sdk-dotnet-core) pushed_at:2022-02 star:0.1k fork:0.0k The core Microsoft Graph client library for .Net. (Microsoft.Graph.Core)
 - [microsoftgraph/msgraph-sdk-raptor](https://github.com/microsoftgraph/msgraph-sdk-raptor) pushed_at:2022-02 star:0.0k fork:0.0k End to end testing tool for verifying generated code snippets and testing against Graph APIs
 - [microsoftgraph/msgraph-search-connector-sample](https://github.com/microsoftgraph/msgraph-search-connector-sample) pushed_at:2021-10 star:0.0k fork:0.0k This .NET Core application shows how to use the Microsoft Graph indexing API to create a connection to the Microsoft Search service and index custom items.
 - [microsoftgraph/msgraph-training-restapi](https://github.com/microsoftgraph/msgraph-training-restapi) pushed_at:2020-07 star:0.0k fork:0.0k [ARCHIVED] Microsoft Graph Training Module - REST API calls
@@ -172,30 +172,30 @@
 - [microsoftgraph/msgraph-beta-cli](https://github.com/microsoftgraph/msgraph-beta-cli) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-community-samples](https://github.com/microsoftgraph/msgraph-community-samples) pushed_at:2018-11 star:0.1k fork:0.0k Repo for community contributed samples
 - [microsoftgraph/msgraph-sdk-serviceissues](https://github.com/microsoftgraph/msgraph-sdk-serviceissues) pushed_at:2020-09 star:0.0k fork:0.0k Tracks service issues for follow up.
-- [microsoftgraph/msgraph-training-android](https://github.com/microsoftgraph/msgraph-training-android) pushed_at:2021-08 star:0.0k fork:0.0k Microsoft Graph Training Module - Building Android Native Apps
-- [microsoftgraph/msgraph-training-android.de-DE](https://github.com/microsoftgraph/msgraph-training-android.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-android.es-ES](https://github.com/microsoftgraph/msgraph-training-android.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-android.fr-FR](https://github.com/microsoftgraph/msgraph-training-android.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-android.ja-JP](https://github.com/microsoftgraph/msgraph-training-android.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-android.pt-BR](https://github.com/microsoftgraph/msgraph-training-android.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-android.ru-RU](https://github.com/microsoftgraph/msgraph-training-android.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-android.zh-CN](https://github.com/microsoftgraph/msgraph-training-android.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-angularspa](https://github.com/microsoftgraph/msgraph-training-angularspa) pushed_at:2021-08 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Angular single-page apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-angularspa.de-DE](https://github.com/microsoftgraph/msgraph-training-angularspa.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-angularspa.es-ES](https://github.com/microsoftgraph/msgraph-training-angularspa.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-angularspa.fr-FR](https://github.com/microsoftgraph/msgraph-training-angularspa.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-angularspa.ja-JP](https://github.com/microsoftgraph/msgraph-training-angularspa.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-angularspa.pt-BR](https://github.com/microsoftgraph/msgraph-training-angularspa.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-angularspa.ru-RU](https://github.com/microsoftgraph/msgraph-training-angularspa.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-angularspa.zh-CN](https://github.com/microsoftgraph/msgraph-training-angularspa.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-aspnet-core](https://github.com/microsoftgraph/msgraph-training-aspnet-core) pushed_at:2021-08 star:0.0k fork:0.0k Microsoft Graph Training Module - Build ASP.NET Core apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-aspnet-core.de-DE](https://github.com/microsoftgraph/msgraph-training-aspnet-core.de-DE) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-aspnet-core.es-ES](https://github.com/microsoftgraph/msgraph-training-aspnet-core.es-ES) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-aspnet-core.fr-FR](https://github.com/microsoftgraph/msgraph-training-aspnet-core.fr-FR) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-aspnet-core.ja-JP](https://github.com/microsoftgraph/msgraph-training-aspnet-core.ja-JP) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-aspnet-core.pt-BR](https://github.com/microsoftgraph/msgraph-training-aspnet-core.pt-BR) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-aspnet-core.ru-RU](https://github.com/microsoftgraph/msgraph-training-aspnet-core.ru-RU) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-aspnet-core.zh-CN](https://github.com/microsoftgraph/msgraph-training-aspnet-core.zh-CN) pushed_at:2021-07 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-android](https://github.com/microsoftgraph/msgraph-training-android) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Building Android Native Apps
+- [microsoftgraph/msgraph-training-android.de-DE](https://github.com/microsoftgraph/msgraph-training-android.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-android.es-ES](https://github.com/microsoftgraph/msgraph-training-android.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-android.fr-FR](https://github.com/microsoftgraph/msgraph-training-android.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-android.ja-JP](https://github.com/microsoftgraph/msgraph-training-android.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-android.pt-BR](https://github.com/microsoftgraph/msgraph-training-android.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-android.ru-RU](https://github.com/microsoftgraph/msgraph-training-android.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-android.zh-CN](https://github.com/microsoftgraph/msgraph-training-android.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-angularspa](https://github.com/microsoftgraph/msgraph-training-angularspa) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Angular single-page apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-angularspa.de-DE](https://github.com/microsoftgraph/msgraph-training-angularspa.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-angularspa.es-ES](https://github.com/microsoftgraph/msgraph-training-angularspa.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-angularspa.fr-FR](https://github.com/microsoftgraph/msgraph-training-angularspa.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-angularspa.ja-JP](https://github.com/microsoftgraph/msgraph-training-angularspa.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-angularspa.pt-BR](https://github.com/microsoftgraph/msgraph-training-angularspa.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-angularspa.ru-RU](https://github.com/microsoftgraph/msgraph-training-angularspa.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-angularspa.zh-CN](https://github.com/microsoftgraph/msgraph-training-angularspa.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-aspnet-core](https://github.com/microsoftgraph/msgraph-training-aspnet-core) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Build ASP.NET Core apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-aspnet-core.de-DE](https://github.com/microsoftgraph/msgraph-training-aspnet-core.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-aspnet-core.es-ES](https://github.com/microsoftgraph/msgraph-training-aspnet-core.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-aspnet-core.fr-FR](https://github.com/microsoftgraph/msgraph-training-aspnet-core.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-aspnet-core.ja-JP](https://github.com/microsoftgraph/msgraph-training-aspnet-core.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-aspnet-core.pt-BR](https://github.com/microsoftgraph/msgraph-training-aspnet-core.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-aspnet-core.ru-RU](https://github.com/microsoftgraph/msgraph-training-aspnet-core.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-aspnet-core.zh-CN](https://github.com/microsoftgraph/msgraph-training-aspnet-core.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-aspnetmvcapp](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp) pushed_at:2021-12 star:0.1k fork:0.1k Microsoft Graph Training Module - Build MVC apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-aspnetmvcapp.de-DE](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.de-DE) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-aspnetmvcapp.es-ES](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.es-ES) pushed_at:2021-07 star:0.0k fork:0.0k 
@@ -205,30 +205,30 @@
 - [microsoftgraph/msgraph-training-aspnetmvcapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.ru-RU) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-aspnetmvcapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp.zh-CN) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-authentication](https://github.com/microsoftgraph/msgraph-training-authentication) pushed_at:2021-04 star:0.0k fork:0.0k [ARCHIVED] Microsoft Graph Training Module - Authentication
-- [microsoftgraph/msgraph-training-azurefunction-csharp](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp) pushed_at:2021-08 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Azure Function apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-azurefunction-csharp.de-DE](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-azurefunction-csharp.es-ES](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-azurefunction-csharp.fr-FR](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-azurefunction-csharp.ja-JP](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-azurefunction-csharp.pt-BR](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-azurefunction-csharp.ru-RU](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-azurefunction-csharp.zh-CN](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-blazor-clientside](https://github.com/microsoftgraph/msgraph-training-blazor-clientside) pushed_at:2021-09 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Blazor WebAssembly apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-blazor-clientside.de-DE](https://github.com/microsoftgraph/msgraph-training-blazor-clientside.de-DE) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-blazor-clientside.es-ES](https://github.com/microsoftgraph/msgraph-training-blazor-clientside.es-ES) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-blazor-clientside.fr-FR](https://github.com/microsoftgraph/msgraph-training-blazor-clientside.fr-FR) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-blazor-clientside.ja-JP](https://github.com/microsoftgraph/msgraph-training-blazor-clientside.ja-JP) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-blazor-clientside.pt-BR](https://github.com/microsoftgraph/msgraph-training-blazor-clientside.pt-BR) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-blazor-clientside.ru-RU](https://github.com/microsoftgraph/msgraph-training-blazor-clientside.ru-RU) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-blazor-clientside.zh-CN](https://github.com/microsoftgraph/msgraph-training-blazor-clientside.zh-CN) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-botframework](https://github.com/microsoftgraph/msgraph-training-botframework) pushed_at:2021-08 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Bot Framework bots with Microsoft Graph
-- [microsoftgraph/msgraph-training-botframework.de-DE](https://github.com/microsoftgraph/msgraph-training-botframework.de-DE) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-botframework.es-ES](https://github.com/microsoftgraph/msgraph-training-botframework.es-ES) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-botframework.fr-FR](https://github.com/microsoftgraph/msgraph-training-botframework.fr-FR) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-botframework.ja-JP](https://github.com/microsoftgraph/msgraph-training-botframework.ja-JP) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-botframework.pt-BR](https://github.com/microsoftgraph/msgraph-training-botframework.pt-BR) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-botframework.ru-RU](https://github.com/microsoftgraph/msgraph-training-botframework.ru-RU) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-botframework.zh-CN](https://github.com/microsoftgraph/msgraph-training-botframework.zh-CN) pushed_at:2021-07 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-azurefunction-csharp](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Azure Function apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-azurefunction-csharp.de-DE](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-azurefunction-csharp.es-ES](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-azurefunction-csharp.fr-FR](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-azurefunction-csharp.ja-JP](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-azurefunction-csharp.pt-BR](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-azurefunction-csharp.ru-RU](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-azurefunction-csharp.zh-CN](https://github.com/microsoftgraph/msgraph-training-azurefunction-csharp.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-blazor-clientside](https://github.com/microsoftgraph/msgraph-training-blazor-clientside) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Blazor WebAssembly apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-blazor-clientside.de-DE](https://github.com/microsoftgraph/msgraph-training-blazor-clientside.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-blazor-clientside.es-ES](https://github.com/microsoftgraph/msgraph-training-blazor-clientside.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-blazor-clientside.fr-FR](https://github.com/microsoftgraph/msgraph-training-blazor-clientside.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-blazor-clientside.ja-JP](https://github.com/microsoftgraph/msgraph-training-blazor-clientside.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-blazor-clientside.pt-BR](https://github.com/microsoftgraph/msgraph-training-blazor-clientside.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-blazor-clientside.ru-RU](https://github.com/microsoftgraph/msgraph-training-blazor-clientside.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-blazor-clientside.zh-CN](https://github.com/microsoftgraph/msgraph-training-blazor-clientside.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-botframework](https://github.com/microsoftgraph/msgraph-training-botframework) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Bot Framework bots with Microsoft Graph
+- [microsoftgraph/msgraph-training-botframework.de-DE](https://github.com/microsoftgraph/msgraph-training-botframework.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-botframework.es-ES](https://github.com/microsoftgraph/msgraph-training-botframework.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-botframework.fr-FR](https://github.com/microsoftgraph/msgraph-training-botframework.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-botframework.ja-JP](https://github.com/microsoftgraph/msgraph-training-botframework.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-botframework.pt-BR](https://github.com/microsoftgraph/msgraph-training-botframework.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-botframework.ru-RU](https://github.com/microsoftgraph/msgraph-training-botframework.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-botframework.zh-CN](https://github.com/microsoftgraph/msgraph-training-botframework.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-building-apps](https://github.com/microsoftgraph/msgraph-training-building-apps) pushed_at:2020-07 star:0.0k fork:0.0k [ARCHIVED] Microsoft Graph Training Module - Building Apps
 - [microsoftgraph/msgraph-training-changenotifications](https://github.com/microsoftgraph/msgraph-training-changenotifications) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-changenotifications.de-DE](https://github.com/microsoftgraph/msgraph-training-changenotifications.de-DE) pushed_at:2021-07 star:0.0k fork:0.0k 
@@ -239,126 +239,126 @@
 - [microsoftgraph/msgraph-training-changenotifications.ru-RU](https://github.com/microsoftgraph/msgraph-training-changenotifications.ru-RU) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-changenotifications.zh-CN](https://github.com/microsoftgraph/msgraph-training-changenotifications.zh-CN) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-dataconnect](https://github.com/microsoftgraph/msgraph-training-dataconnect) pushed_at:2021-05 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-dotnet-core](https://github.com/microsoftgraph/msgraph-training-dotnet-core) pushed_at:2021-11 star:0.0k fork:0.0k Microsoft Graph Training Module - Build .NET Core apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-dotnet-core.de-DE](https://github.com/microsoftgraph/msgraph-training-dotnet-core.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-dotnet-core.es-ES](https://github.com/microsoftgraph/msgraph-training-dotnet-core.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-dotnet-core.fr-FR](https://github.com/microsoftgraph/msgraph-training-dotnet-core.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-dotnet-core.ja-JP](https://github.com/microsoftgraph/msgraph-training-dotnet-core.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-dotnet-core.pt-BR](https://github.com/microsoftgraph/msgraph-training-dotnet-core.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-dotnet-core.ru-RU](https://github.com/microsoftgraph/msgraph-training-dotnet-core.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-dotnet-core.zh-CN](https://github.com/microsoftgraph/msgraph-training-dotnet-core.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-ios-objectivec](https://github.com/microsoftgraph/msgraph-training-ios-objectivec) pushed_at:2021-08 star:0.0k fork:0.0k Microsoft Graph Training Module - Building iOS Native Apps 
-- [microsoftgraph/msgraph-training-ios-objectivec.de-DE](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-ios-objectivec.es-ES](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-ios-objectivec.fr-FR](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-ios-objectivec.ja-JP](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-ios-objectivec.pt-BR](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-ios-objectivec.ru-RU](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-ios-objectivec.zh-CN](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-ios-swift](https://github.com/microsoftgraph/msgraph-training-ios-swift) pushed_at:2021-08 star:0.0k fork:0.0k Microsoft Graph Training Module - Build iOS Swift apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-ios-swift.de-DE](https://github.com/microsoftgraph/msgraph-training-ios-swift.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-ios-swift.es-ES](https://github.com/microsoftgraph/msgraph-training-ios-swift.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-ios-swift.fr-FR](https://github.com/microsoftgraph/msgraph-training-ios-swift.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-ios-swift.ja-JP](https://github.com/microsoftgraph/msgraph-training-ios-swift.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-ios-swift.pt-BR](https://github.com/microsoftgraph/msgraph-training-ios-swift.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-ios-swift.ru-RU](https://github.com/microsoftgraph/msgraph-training-ios-swift.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-ios-swift.zh-CN](https://github.com/microsoftgraph/msgraph-training-ios-swift.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-java](https://github.com/microsoftgraph/msgraph-training-java) pushed_at:2022-01 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Java apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-java.de-DE](https://github.com/microsoftgraph/msgraph-training-java.de-DE) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-java.es-ES](https://github.com/microsoftgraph/msgraph-training-java.es-ES) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-java.fr-FR](https://github.com/microsoftgraph/msgraph-training-java.fr-FR) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-java.ja-JP](https://github.com/microsoftgraph/msgraph-training-java.ja-JP) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-java.pt-BR](https://github.com/microsoftgraph/msgraph-training-java.pt-BR) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-java.ru-RU](https://github.com/microsoftgraph/msgraph-training-java.ru-RU) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-java.zh-CN](https://github.com/microsoftgraph/msgraph-training-java.zh-CN) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-javascriptspa](https://github.com/microsoftgraph/msgraph-training-javascriptspa) pushed_at:2021-11 star:0.0k fork:0.0k Microsoft Graph Training Module - Build JavaScript single-page apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-javascriptspa.de-DE](https://github.com/microsoftgraph/msgraph-training-javascriptspa.de-DE) pushed_at:2021-11 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-javascriptspa.es-ES](https://github.com/microsoftgraph/msgraph-training-javascriptspa.es-ES) pushed_at:2021-11 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-javascriptspa.fr-FR](https://github.com/microsoftgraph/msgraph-training-javascriptspa.fr-FR) pushed_at:2021-11 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-javascriptspa.ja-JP](https://github.com/microsoftgraph/msgraph-training-javascriptspa.ja-JP) pushed_at:2021-11 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-javascriptspa.pt-BR](https://github.com/microsoftgraph/msgraph-training-javascriptspa.pt-BR) pushed_at:2021-11 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-javascriptspa.ru-RU](https://github.com/microsoftgraph/msgraph-training-javascriptspa.ru-RU) pushed_at:2021-11 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-javascriptspa.zh-CN](https://github.com/microsoftgraph/msgraph-training-javascriptspa.zh-CN) pushed_at:2021-11 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-microsoftflow.de-DE](https://github.com/microsoftgraph/msgraph-training-microsoftflow.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-microsoftflow.es-ES](https://github.com/microsoftgraph/msgraph-training-microsoftflow.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-microsoftflow.fr-FR](https://github.com/microsoftgraph/msgraph-training-microsoftflow.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-microsoftflow.ja-JP](https://github.com/microsoftgraph/msgraph-training-microsoftflow.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-microsoftflow.pt-BR](https://github.com/microsoftgraph/msgraph-training-microsoftflow.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-microsoftflow.ru-RU](https://github.com/microsoftgraph/msgraph-training-microsoftflow.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-microsoftflow.zh-CN](https://github.com/microsoftgraph/msgraph-training-microsoftflow.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-nodeexpressapp](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp) pushed_at:2022-01 star:0.1k fork:0.1k Microsoft Graph Training Module - Build Node.js web apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-nodeexpressapp.de-DE](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-nodeexpressapp.es-ES](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-nodeexpressapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-nodeexpressapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-nodeexpressapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-nodeexpressapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-nodeexpressapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-office-addin](https://github.com/microsoftgraph/msgraph-training-office-addin) pushed_at:2021-08 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Office Add-ins with Microsoft Graph
-- [microsoftgraph/msgraph-training-office-addin.de-DE](https://github.com/microsoftgraph/msgraph-training-office-addin.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-office-addin.es-ES](https://github.com/microsoftgraph/msgraph-training-office-addin.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-office-addin.fr-FR](https://github.com/microsoftgraph/msgraph-training-office-addin.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-office-addin.ja-JP](https://github.com/microsoftgraph/msgraph-training-office-addin.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-office-addin.pt-BR](https://github.com/microsoftgraph/msgraph-training-office-addin.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-office-addin.ru-RU](https://github.com/microsoftgraph/msgraph-training-office-addin.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-office-addin.zh-CN](https://github.com/microsoftgraph/msgraph-training-office-addin.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-dotnet-core](https://github.com/microsoftgraph/msgraph-training-dotnet-core) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Build .NET Core apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-dotnet-core.de-DE](https://github.com/microsoftgraph/msgraph-training-dotnet-core.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-dotnet-core.es-ES](https://github.com/microsoftgraph/msgraph-training-dotnet-core.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-dotnet-core.fr-FR](https://github.com/microsoftgraph/msgraph-training-dotnet-core.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-dotnet-core.ja-JP](https://github.com/microsoftgraph/msgraph-training-dotnet-core.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-dotnet-core.pt-BR](https://github.com/microsoftgraph/msgraph-training-dotnet-core.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-dotnet-core.ru-RU](https://github.com/microsoftgraph/msgraph-training-dotnet-core.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-dotnet-core.zh-CN](https://github.com/microsoftgraph/msgraph-training-dotnet-core.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-ios-objectivec](https://github.com/microsoftgraph/msgraph-training-ios-objectivec) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Building iOS Native Apps 
+- [microsoftgraph/msgraph-training-ios-objectivec.de-DE](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-ios-objectivec.es-ES](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-ios-objectivec.fr-FR](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-ios-objectivec.ja-JP](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-ios-objectivec.pt-BR](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-ios-objectivec.ru-RU](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-ios-objectivec.zh-CN](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-ios-swift](https://github.com/microsoftgraph/msgraph-training-ios-swift) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Build iOS Swift apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-ios-swift.de-DE](https://github.com/microsoftgraph/msgraph-training-ios-swift.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-ios-swift.es-ES](https://github.com/microsoftgraph/msgraph-training-ios-swift.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-ios-swift.fr-FR](https://github.com/microsoftgraph/msgraph-training-ios-swift.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-ios-swift.ja-JP](https://github.com/microsoftgraph/msgraph-training-ios-swift.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-ios-swift.pt-BR](https://github.com/microsoftgraph/msgraph-training-ios-swift.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-ios-swift.ru-RU](https://github.com/microsoftgraph/msgraph-training-ios-swift.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-ios-swift.zh-CN](https://github.com/microsoftgraph/msgraph-training-ios-swift.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-java](https://github.com/microsoftgraph/msgraph-training-java) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Java apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-java.de-DE](https://github.com/microsoftgraph/msgraph-training-java.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-java.es-ES](https://github.com/microsoftgraph/msgraph-training-java.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-java.fr-FR](https://github.com/microsoftgraph/msgraph-training-java.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-java.ja-JP](https://github.com/microsoftgraph/msgraph-training-java.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-java.pt-BR](https://github.com/microsoftgraph/msgraph-training-java.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-java.ru-RU](https://github.com/microsoftgraph/msgraph-training-java.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-java.zh-CN](https://github.com/microsoftgraph/msgraph-training-java.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-javascriptspa](https://github.com/microsoftgraph/msgraph-training-javascriptspa) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Build JavaScript single-page apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-javascriptspa.de-DE](https://github.com/microsoftgraph/msgraph-training-javascriptspa.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-javascriptspa.es-ES](https://github.com/microsoftgraph/msgraph-training-javascriptspa.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-javascriptspa.fr-FR](https://github.com/microsoftgraph/msgraph-training-javascriptspa.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-javascriptspa.ja-JP](https://github.com/microsoftgraph/msgraph-training-javascriptspa.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-javascriptspa.pt-BR](https://github.com/microsoftgraph/msgraph-training-javascriptspa.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-javascriptspa.ru-RU](https://github.com/microsoftgraph/msgraph-training-javascriptspa.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-javascriptspa.zh-CN](https://github.com/microsoftgraph/msgraph-training-javascriptspa.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-microsoftflow.de-DE](https://github.com/microsoftgraph/msgraph-training-microsoftflow.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-microsoftflow.es-ES](https://github.com/microsoftgraph/msgraph-training-microsoftflow.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-microsoftflow.fr-FR](https://github.com/microsoftgraph/msgraph-training-microsoftflow.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-microsoftflow.ja-JP](https://github.com/microsoftgraph/msgraph-training-microsoftflow.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-microsoftflow.pt-BR](https://github.com/microsoftgraph/msgraph-training-microsoftflow.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-microsoftflow.ru-RU](https://github.com/microsoftgraph/msgraph-training-microsoftflow.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-microsoftflow.zh-CN](https://github.com/microsoftgraph/msgraph-training-microsoftflow.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-nodeexpressapp](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp) pushed_at:2022-02 star:0.1k fork:0.1k Microsoft Graph Training Module - Build Node.js web apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-nodeexpressapp.de-DE](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-nodeexpressapp.es-ES](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-nodeexpressapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-nodeexpressapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-nodeexpressapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-nodeexpressapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-nodeexpressapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-office-addin](https://github.com/microsoftgraph/msgraph-training-office-addin) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Office Add-ins with Microsoft Graph
+- [microsoftgraph/msgraph-training-office-addin.de-DE](https://github.com/microsoftgraph/msgraph-training-office-addin.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-office-addin.es-ES](https://github.com/microsoftgraph/msgraph-training-office-addin.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-office-addin.fr-FR](https://github.com/microsoftgraph/msgraph-training-office-addin.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-office-addin.ja-JP](https://github.com/microsoftgraph/msgraph-training-office-addin.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-office-addin.pt-BR](https://github.com/microsoftgraph/msgraph-training-office-addin.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-office-addin.ru-RU](https://github.com/microsoftgraph/msgraph-training-office-addin.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-office-addin.zh-CN](https://github.com/microsoftgraph/msgraph-training-office-addin.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-optimize-data-usage](https://github.com/microsoftgraph/msgraph-training-optimize-data-usage) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-optimize-network-traffic](https://github.com/microsoftgraph/msgraph-training-optimize-network-traffic) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-phpapp](https://github.com/microsoftgraph/msgraph-training-phpapp) pushed_at:2022-02 star:0.1k fork:0.0k Microsoft Graph Training Module - Build PHP apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-phpapp.de-DE](https://github.com/microsoftgraph/msgraph-training-phpapp.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-phpapp.es-ES](https://github.com/microsoftgraph/msgraph-training-phpapp.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-phpapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-phpapp.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-phpapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-phpapp.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-phpapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-phpapp.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-phpapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-phpapp.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-phpapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-phpapp.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-powerautomate](https://github.com/microsoftgraph/msgraph-training-powerautomate) pushed_at:2021-08 star:0.0k fork:0.0k Microsoft Graph Training Module - Create a Microsoft Graph JSON Batch Custom Connector for Microsoft Power Automate & Azure Logic Apps
-- [microsoftgraph/msgraph-training-powerautomate.de-DE](https://github.com/microsoftgraph/msgraph-training-powerautomate.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-powerautomate.es-ES](https://github.com/microsoftgraph/msgraph-training-powerautomate.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-powerautomate.fr-FR](https://github.com/microsoftgraph/msgraph-training-powerautomate.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-powerautomate.ja-JP](https://github.com/microsoftgraph/msgraph-training-powerautomate.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-powerautomate.pt-BR](https://github.com/microsoftgraph/msgraph-training-powerautomate.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-powerautomate.ru-RU](https://github.com/microsoftgraph/msgraph-training-powerautomate.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-powerautomate.zh-CN](https://github.com/microsoftgraph/msgraph-training-powerautomate.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-phpapp.de-DE](https://github.com/microsoftgraph/msgraph-training-phpapp.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-phpapp.es-ES](https://github.com/microsoftgraph/msgraph-training-phpapp.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-phpapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-phpapp.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-phpapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-phpapp.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-phpapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-phpapp.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-phpapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-phpapp.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-phpapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-phpapp.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-powerautomate](https://github.com/microsoftgraph/msgraph-training-powerautomate) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Create a Microsoft Graph JSON Batch Custom Connector for Microsoft Power Automate & Azure Logic Apps
+- [microsoftgraph/msgraph-training-powerautomate.de-DE](https://github.com/microsoftgraph/msgraph-training-powerautomate.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-powerautomate.es-ES](https://github.com/microsoftgraph/msgraph-training-powerautomate.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-powerautomate.fr-FR](https://github.com/microsoftgraph/msgraph-training-powerautomate.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-powerautomate.ja-JP](https://github.com/microsoftgraph/msgraph-training-powerautomate.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-powerautomate.pt-BR](https://github.com/microsoftgraph/msgraph-training-powerautomate.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-powerautomate.ru-RU](https://github.com/microsoftgraph/msgraph-training-powerautomate.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-powerautomate.zh-CN](https://github.com/microsoftgraph/msgraph-training-powerautomate.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-pythondjangoapp](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp) pushed_at:2022-02 star:0.1k fork:0.0k Microsoft Graph Training Module - Build Python apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-pythondjangoapp.de-DE](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.de-DE) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-pythondjangoapp.es-ES](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.es-ES) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-pythondjangoapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.fr-FR) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-pythondjangoapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.ja-JP) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-pythondjangoapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.pt-BR) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-pythondjangoapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.ru-RU) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-pythondjangoapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.zh-CN) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-react-native](https://github.com/microsoftgraph/msgraph-training-react-native) pushed_at:2021-08 star:0.0k fork:0.0k Microsoft Graph Training Module - Build React Native apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-react-native.de-DE](https://github.com/microsoftgraph/msgraph-training-react-native.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-react-native.es-ES](https://github.com/microsoftgraph/msgraph-training-react-native.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-react-native.fr-FR](https://github.com/microsoftgraph/msgraph-training-react-native.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-react-native.ja-JP](https://github.com/microsoftgraph/msgraph-training-react-native.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-react-native.ru-RU](https://github.com/microsoftgraph/msgraph-training-react-native.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-react-native.zh-CN](https://github.com/microsoftgraph/msgraph-training-react-native.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-reactspa](https://github.com/microsoftgraph/msgraph-training-reactspa) pushed_at:2022-01 star:0.1k fork:0.1k Microsoft Graph Training Module - Build React single-page apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-reactspa.de-DE](https://github.com/microsoftgraph/msgraph-training-reactspa.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-reactspa.es-ES](https://github.com/microsoftgraph/msgraph-training-reactspa.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-reactspa.fr-FR](https://github.com/microsoftgraph/msgraph-training-reactspa.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-reactspa.ja-JP](https://github.com/microsoftgraph/msgraph-training-reactspa.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-reactspa.pt-BR](https://github.com/microsoftgraph/msgraph-training-reactspa.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-reactspa.ru-RU](https://github.com/microsoftgraph/msgraph-training-reactspa.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-reactspa.zh-CN](https://github.com/microsoftgraph/msgraph-training-reactspa.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-rubyrailsapp](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp) pushed_at:2021-08 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Ruby on Rails apps with Microsoft Graph 
-- [microsoftgraph/msgraph-training-rubyrailsapp.de-DE](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-rubyrailsapp.es-ES](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-rubyrailsapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-rubyrailsapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-rubyrailsapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-rubyrailsapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-rubyrailsapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-spfx](https://github.com/microsoftgraph/msgraph-training-spfx) pushed_at:2022-01 star:0.0k fork:0.0k Microsoft Graph Training Module - Leveraging the Microsoft Graph API from the SharePoint Framework with the MSGraphClient 
-- [microsoftgraph/msgraph-training-spfx.de-DE](https://github.com/microsoftgraph/msgraph-training-spfx.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-spfx.es-ES](https://github.com/microsoftgraph/msgraph-training-spfx.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-spfx.fr-FR](https://github.com/microsoftgraph/msgraph-training-spfx.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-spfx.ja-JP](https://github.com/microsoftgraph/msgraph-training-spfx.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-spfx.pt-BR](https://github.com/microsoftgraph/msgraph-training-spfx.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-spfx.ru-RU](https://github.com/microsoftgraph/msgraph-training-spfx.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-spfx.zh-CN](https://github.com/microsoftgraph/msgraph-training-spfx.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-pythondjangoapp.de-DE](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-pythondjangoapp.es-ES](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-pythondjangoapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-pythondjangoapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-pythondjangoapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-pythondjangoapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-pythondjangoapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-react-native](https://github.com/microsoftgraph/msgraph-training-react-native) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Build React Native apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-react-native.de-DE](https://github.com/microsoftgraph/msgraph-training-react-native.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-react-native.es-ES](https://github.com/microsoftgraph/msgraph-training-react-native.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-react-native.fr-FR](https://github.com/microsoftgraph/msgraph-training-react-native.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-react-native.ja-JP](https://github.com/microsoftgraph/msgraph-training-react-native.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-react-native.ru-RU](https://github.com/microsoftgraph/msgraph-training-react-native.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-react-native.zh-CN](https://github.com/microsoftgraph/msgraph-training-react-native.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-reactspa](https://github.com/microsoftgraph/msgraph-training-reactspa) pushed_at:2022-02 star:0.1k fork:0.1k Microsoft Graph Training Module - Build React single-page apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-reactspa.de-DE](https://github.com/microsoftgraph/msgraph-training-reactspa.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-reactspa.es-ES](https://github.com/microsoftgraph/msgraph-training-reactspa.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-reactspa.fr-FR](https://github.com/microsoftgraph/msgraph-training-reactspa.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-reactspa.ja-JP](https://github.com/microsoftgraph/msgraph-training-reactspa.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-reactspa.pt-BR](https://github.com/microsoftgraph/msgraph-training-reactspa.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-reactspa.ru-RU](https://github.com/microsoftgraph/msgraph-training-reactspa.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-reactspa.zh-CN](https://github.com/microsoftgraph/msgraph-training-reactspa.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-rubyrailsapp](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Ruby on Rails apps with Microsoft Graph 
+- [microsoftgraph/msgraph-training-rubyrailsapp.de-DE](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-rubyrailsapp.es-ES](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-rubyrailsapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-rubyrailsapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-rubyrailsapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-rubyrailsapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-rubyrailsapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-rubyrailsapp.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-spfx](https://github.com/microsoftgraph/msgraph-training-spfx) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Leveraging the Microsoft Graph API from the SharePoint Framework with the MSGraphClient 
+- [microsoftgraph/msgraph-training-spfx.de-DE](https://github.com/microsoftgraph/msgraph-training-spfx.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-spfx.es-ES](https://github.com/microsoftgraph/msgraph-training-spfx.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-spfx.fr-FR](https://github.com/microsoftgraph/msgraph-training-spfx.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-spfx.ja-JP](https://github.com/microsoftgraph/msgraph-training-spfx.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-spfx.pt-BR](https://github.com/microsoftgraph/msgraph-training-spfx.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-spfx.ru-RU](https://github.com/microsoftgraph/msgraph-training-spfx.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-spfx.zh-CN](https://github.com/microsoftgraph/msgraph-training-spfx.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-teamsapp-dotnet](https://github.com/microsoftgraph/msgraph-training-teamsapp-dotnet) pushed_at:2021-08 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Teams apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-teamsapp-dotnet.de-DE](https://github.com/microsoftgraph/msgraph-training-teamsapp-dotnet.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-teamsapp-dotnet.es-ES](https://github.com/microsoftgraph/msgraph-training-teamsapp-dotnet.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
@@ -367,27 +367,27 @@
 - [microsoftgraph/msgraph-training-teamsapp-dotnet.pt-BR](https://github.com/microsoftgraph/msgraph-training-teamsapp-dotnet.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-teamsapp-dotnet.ru-RU](https://github.com/microsoftgraph/msgraph-training-teamsapp-dotnet.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-teamsapp-dotnet.zh-CN](https://github.com/microsoftgraph/msgraph-training-teamsapp-dotnet.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-uwp](https://github.com/microsoftgraph/msgraph-training-uwp) pushed_at:2021-08 star:0.0k fork:0.0k Microsoft Graph Training Module - Building UWP Native Apps
-- [microsoftgraph/msgraph-training-uwp.de-DE](https://github.com/microsoftgraph/msgraph-training-uwp.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-uwp.es-ES](https://github.com/microsoftgraph/msgraph-training-uwp.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-uwp.fr-FR](https://github.com/microsoftgraph/msgraph-training-uwp.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-uwp.ja-JP](https://github.com/microsoftgraph/msgraph-training-uwp.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-uwp.pt-BR](https://github.com/microsoftgraph/msgraph-training-uwp.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-uwp.ru-RU](https://github.com/microsoftgraph/msgraph-training-uwp.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-uwp.zh-CN](https://github.com/microsoftgraph/msgraph-training-uwp.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-uwp](https://github.com/microsoftgraph/msgraph-training-uwp) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Building UWP Native Apps
+- [microsoftgraph/msgraph-training-uwp.de-DE](https://github.com/microsoftgraph/msgraph-training-uwp.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-uwp.es-ES](https://github.com/microsoftgraph/msgraph-training-uwp.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-uwp.fr-FR](https://github.com/microsoftgraph/msgraph-training-uwp.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-uwp.ja-JP](https://github.com/microsoftgraph/msgraph-training-uwp.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-uwp.pt-BR](https://github.com/microsoftgraph/msgraph-training-uwp.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-uwp.ru-RU](https://github.com/microsoftgraph/msgraph-training-uwp.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-uwp.zh-CN](https://github.com/microsoftgraph/msgraph-training-uwp.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-webhooks-customdata-insights](https://github.com/microsoftgraph/msgraph-training-webhooks-customdata-insights) pushed_at:2020-07 star:0.0k fork:0.0k [ARCHIVED] Microsoft Graph Training Module - Webhooks, Custom Data, Insights and Delta Query
-- [microsoftgraph/msgraph-training-xamarin](https://github.com/microsoftgraph/msgraph-training-xamarin) pushed_at:2021-08 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Xamarin apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-xamarin.de-DE](https://github.com/microsoftgraph/msgraph-training-xamarin.de-DE) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-xamarin.es-ES](https://github.com/microsoftgraph/msgraph-training-xamarin.es-ES) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-xamarin.fr-FR](https://github.com/microsoftgraph/msgraph-training-xamarin.fr-FR) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-xamarin.ja-JP](https://github.com/microsoftgraph/msgraph-training-xamarin.ja-JP) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-xamarin.ru-RU](https://github.com/microsoftgraph/msgraph-training-xamarin.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-xamarin.zh-CN](https://github.com/microsoftgraph/msgraph-training-xamarin.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-xamarin](https://github.com/microsoftgraph/msgraph-training-xamarin) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Build Xamarin apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-xamarin.de-DE](https://github.com/microsoftgraph/msgraph-training-xamarin.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-xamarin.es-ES](https://github.com/microsoftgraph/msgraph-training-xamarin.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-xamarin.fr-FR](https://github.com/microsoftgraph/msgraph-training-xamarin.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-xamarin.ja-JP](https://github.com/microsoftgraph/msgraph-training-xamarin.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-xamarin.ru-RU](https://github.com/microsoftgraph/msgraph-training-xamarin.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-xamarin.zh-CN](https://github.com/microsoftgraph/msgraph-training-xamarin.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
 
 ## PHP
 
 - [microsoftgraph/msgraph-beta-sdk-php](https://github.com/microsoftgraph/msgraph-beta-sdk-php) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph beta model library for PHP (preview).
-- [microsoftgraph/msgraph-sdk-php](https://github.com/microsoftgraph/msgraph-sdk-php) pushed_at:2022-02 star:0.3k fork:0.1k Microsoft Graph Library for PHP.
+- [microsoftgraph/msgraph-sdk-php](https://github.com/microsoftgraph/msgraph-sdk-php) pushed_at:2022-02 star:0.4k fork:0.1k Microsoft Graph Library for PHP.
 - [microsoftgraph/msgraph-sdk-php-core](https://github.com/microsoftgraph/msgraph-sdk-php-core) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [microsoftgraph/php-connect-rest-sample](https://github.com/microsoftgraph/php-connect-rest-sample) pushed_at:2018-10 star:0.1k fork:0.0k [ARCHIVED] Use Microsoft Graph to access a user’s Microsoft account data from within a php web application. This sample gets OAuth tokens from the Azure AD v2.0 endpoint and uses REST calls directly to Microsoft Graph.
 - [microsoftgraph/php-connect-sample](https://github.com/microsoftgraph/php-connect-sample) pushed_at:2018-10 star:0.0k fork:0.0k [ARCHIVED] Use Microsoft Graph to access a user’s Microsoft account data from within a PHP web application. This sample gets OAuth tokens from the Azure AD v2.0 endpoint and connects it to the Microsoft Graph SDK for PHP.
@@ -443,11 +443,11 @@
 - [microsoftgraph/angular2-connect-rest-sample](https://github.com/microsoftgraph/angular2-connect-rest-sample) pushed_at:2018-10 star:0.0k fork:0.0k [ARCHIVED] To see a current sample that demonstrates the concepts explained here, visit https://github.com/microsoftgraph/angular4-connect-sample
 - [microsoftgraph/angular4-connect-sample](https://github.com/microsoftgraph/angular4-connect-sample) pushed_at:2019-01 star:0.0k fork:0.0k [ARCHIVED] This sample shows how to connect and Angular 4 app to a Microsoft work of school account (Azure Active Directory) or personal (Microsoft) account using the Microsoft Graph API with the Microsoft Graph SDK to send an email. In addition, the sample uses the Office Fabric UI for styling and formatting the user experience.
 - [microsoftgraph/aspnetcore-search-sample](https://github.com/microsoftgraph/aspnetcore-search-sample) pushed_at:2021-06 star:0.0k fork:0.0k 
-- [microsoftgraph/assign-to-author](https://github.com/microsoftgraph/assign-to-author) pushed_at:2022-01 star:0.0k fork:0.0k This GitHub action assigns issues in the microsoft-graph-docs repository to the author of the referenced page
+- [microsoftgraph/assign-to-author](https://github.com/microsoftgraph/assign-to-author) pushed_at:2022-02 star:0.0k fork:0.0k This GitHub action assigns issues in the microsoft-graph-docs repository to the author of the referenced page
 - [microsoftgraph/contoso-airlines-spfx-sample](https://github.com/microsoftgraph/contoso-airlines-spfx-sample) pushed_at:2021-04 star:0.0k fork:0.0k [ARCHIVED]
-- [microsoftgraph/contoso-foods](https://github.com/microsoftgraph/contoso-foods) pushed_at:2022-01 star:0.0k fork:0.0k A sample grocery shopping experience powered by the Microsoft Graph Toolkit
+- [microsoftgraph/contoso-foods](https://github.com/microsoftgraph/contoso-foods) pushed_at:2022-02 star:0.0k fork:0.0k A sample grocery shopping experience powered by the Microsoft Graph Toolkit
 - [microsoftgraph/eol-blocker](https://github.com/microsoftgraph/eol-blocker) pushed_at:2022-01 star:0.0k fork:0.0k This GitHub action blocks pull requests that contain improper line-endings
-- [microsoftgraph/get-app-token](https://github.com/microsoftgraph/get-app-token) pushed_at:2022-01 star:0.0k fork:0.0k This GitHub Action retrieves a GitHub App installation token for use in workflows
+- [microsoftgraph/get-app-token](https://github.com/microsoftgraph/get-app-token) pushed_at:2022-02 star:0.0k fork:0.0k This GitHub Action retrieves a GitHub App installation token for use in workflows
 - [microsoftgraph/meeting-moderator-sample](https://github.com/microsoftgraph/meeting-moderator-sample) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [microsoftgraph/mgt-react-codetour](https://github.com/microsoftgraph/mgt-react-codetour) pushed_at:2021-06 star:0.0k fork:0.0k Interactive tour to help you build your first React app using Microsoft Graph Toolkit
 - [microsoftgraph/microsoft-graph-explorer](https://github.com/microsoftgraph/microsoft-graph-explorer) pushed_at:2020-05 star:0.1k fork:0.1k We've moved! You can contribute to our new repository here
