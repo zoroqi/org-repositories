@@ -32,7 +32,7 @@
 
 ## C
 
-- [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) pushed_at:2022-03 star:0.5k fork:0.1k 🔥 An inline hook library for Android apps. (thumb + arm32 + arm64)
+- [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) pushed_at:2022-03 star:0.5k fork:0.1k :pushpin: ShadowHook is an android inline hook library that supports thumb, arm32 and arm64 instruction sets.
 - [bytedance/atop](https://github.com/bytedance/atop) pushed_at:2022-03 star:0.1k fork:0.0k System and process monitor for Linux
 - [bytedance/bcc](https://github.com/bytedance/bcc) pushed_at:2021-12 star:0.0k fork:0.0k BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [bytedance/bhook](https://github.com/bytedance/bhook) pushed_at:2022-03 star:1.1k fork:0.1k 🔥 ByteHook(aka bhook) is a PLT hook framework for Android app.
@@ -57,11 +57,11 @@
 
 ## C++
 
-- [bytedance/effective_transformer](https://github.com/bytedance/effective_transformer) pushed_at:2021-03 star:0.3k fork:0.0k Running BERT without Padding
+- [bytedance/effective_transformer](https://github.com/bytedance/effective_transformer) pushed_at:2022-03 star:0.3k fork:0.0k Running BERT without Padding
 - [bytedance/incubator-mxnet](https://github.com/bytedance/incubator-mxnet) pushed_at:2019-11 star:0.0k fork:0.0k Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [bytedance/onnx-tensorrt](https://github.com/bytedance/onnx-tensorrt) pushed_at:2021-04 star:0.0k fork:0.0k ONNX-TensorRT: TensorRT backend for ONNX
 - [bytedance/ps-lite](https://github.com/bytedance/ps-lite) pushed_at:2022-02 star:0.1k fork:0.0k A lightweight parameter server interface
-- [bytedance/pyskynet](https://github.com/bytedance/pyskynet) pushed_at:2022-01 star:0.0k fork:0.0k PySkynet is a library for using skynet in python.
+- [bytedance/pyskynet](https://github.com/bytedance/pyskynet) pushed_at:2022-03 star:0.0k fork:0.0k PySkynet is a library for using skynet in python.
 - [bytedance/tensorflow](https://github.com/bytedance/tensorflow) pushed_at:2021-02 star:0.0k fork:0.0k An Open Source Machine Learning Framework for Everyone
 - [bytedance/terark-zip](https://github.com/bytedance/terark-zip) pushed_at:2021-12 star:0.0k fork:0.0k A data structure and algorithm library built for TerarkDB
 - [bytedance/terarkdb](https://github.com/bytedance/terarkdb) pushed_at:2022-03 star:1.6k fork:0.1k A RocksDB compatible KV storage engine with better performance
@@ -69,7 +69,7 @@
 
 ## Cuda
 
-- [bytedance/lightseq](https://github.com/bytedance/lightseq) pushed_at:2022-03 star:2.0k fork:0.2k LightSeq: A High Performance Library for Sequence Processing and Generation
+- [bytedance/lightseq](https://github.com/bytedance/lightseq) pushed_at:2022-03 star:2.1k fork:0.2k LightSeq: A High Performance Library for Sequence Processing and Generation
 
 ## Dart
 
@@ -87,8 +87,8 @@
 - [bytedance/dbatman](https://github.com/bytedance/dbatman) pushed_at:2017-02 star:0.1k fork:0.0k 
 - [bytedance/go-querystring-parser](https://github.com/bytedance/go-querystring-parser) pushed_at:2020-10 star:0.0k fork:0.0k A golang querystring parser
 - [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) pushed_at:2022-03 star:1.1k fork:0.1k An interesting go struct tag expression syntax for field validation, etc.
-- [bytedance/godlp](https://github.com/bytedance/godlp) pushed_at:2022-03 star:0.3k fork:0.1k sensitive information protection toolkit
-- [bytedance/gopkg](https://github.com/bytedance/gopkg) pushed_at:2022-01 star:0.5k fork:0.1k Universal Utilities for Go
+- [bytedance/godlp](https://github.com/bytedance/godlp) pushed_at:2022-03 star:0.4k fork:0.1k sensitive information protection toolkit
+- [bytedance/gopkg](https://github.com/bytedance/gopkg) pushed_at:2022-01 star:0.6k fork:0.1k Universal Utilities for Go
 - [bytedance/ingress-nginx](https://github.com/bytedance/ingress-nginx) pushed_at:2020-10 star:0.0k fork:0.0k NGINX Ingress Controller for Kubernetes
 - [bytedance/json](https://github.com/bytedance/json) pushed_at:2019-05 star:0.0k fork:0.0k JSON standard package extension library
 - [bytedance/kldx-common](https://github.com/bytedance/kldx-common) pushed_at:2022-02 star:0.0k fork:0.0k 
@@ -108,9 +108,9 @@
 - [bytedance/AabResGuard](https://github.com/bytedance/AabResGuard) pushed_at:2021-11 star:0.8k fork:0.1k The tool of obfuscated aab resources.(Android app bundle资源混淆工具)
 - [bytedance/AlphaPlayer](https://github.com/bytedance/AlphaPlayer) pushed_at:2022-03 star:1.6k fork:0.2k AlphaPlayer is a video animation engine.
 - [bytedance/BoostMultiDex](https://github.com/bytedance/BoostMultiDex) pushed_at:2020-07 star:1.0k fork:0.1k BoostMultiDex is a solution for quickly loading multiple dex files on low Android version devices (4.X and below, SDK <21).
-- [bytedance/ByteX](https://github.com/bytedance/ByteX) pushed_at:2021-07 star:2.3k fork:0.3k ByteX is a bytecode plugin platform based on Android Gradle Transform API and ASM.  字节码插件开发平台
+- [bytedance/ByteX](https://github.com/bytedance/ByteX) pushed_at:2022-03 star:2.4k fork:0.3k ByteX is a bytecode plugin platform based on Android Gradle Transform API and ASM.  字节码插件开发平台
 - [bytedance/clickhouse_hadoop](https://github.com/bytedance/clickhouse_hadoop) pushed_at:2019-03 star:0.0k fork:0.0k Import data from clickhouse to hadoop with pure SQL
-- [bytedance/CodeLocator](https://github.com/bytedance/CodeLocator) pushed_at:2022-02 star:0.6k fork:0.0k 
+- [bytedance/CodeLocator](https://github.com/bytedance/CodeLocator) pushed_at:2022-03 star:0.6k fork:0.0k 
 - [bytedance/flutter_asset_literal_idea_plugin](https://github.com/bytedance/flutter_asset_literal_idea_plugin) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [bytedance/jenkins-plugin-lark](https://github.com/bytedance/jenkins-plugin-lark) pushed_at:2021-06 star:0.0k fork:0.0k This plugin allows sending jobs status notification to your work group with Lark, and help you understand the build result.
 - [bytedance/nnproxy](https://github.com/bytedance/nnproxy) pushed_at:2016-04 star:0.1k fork:0.0k Scalable NameNode RPC Proxy for HDFS Federation
@@ -195,7 +195,7 @@
 
 - [bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD) pushed_at:2022-03 star:0.1k fork:0.0k 
 - [bytedance/cocoapods_sdk_source_repo](https://github.com/bytedance/cocoapods_sdk_source_repo) pushed_at:2021-04 star:0.0k fork:0.0k 
-- [bytedance/panglead-specs](https://github.com/bytedance/panglead-specs) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [bytedance/panglead-specs](https://github.com/bytedance/panglead-specs) pushed_at:2022-03 star:0.0k fork:0.0k 
 
 ## Rust
 

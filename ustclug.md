@@ -32,11 +32,11 @@
 
 - [ustclug/rsync-proxy](https://github.com/ustclug/rsync-proxy) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [ustclug/TunnelMonitor](https://github.com/ustclug/TunnelMonitor) pushed_at:2021-08 star:0.0k fork:0.0k monitoring iptables connection balance and switching automatically
-- [ustclug/Yuki](https://github.com/ustclug/Yuki) pushed_at:2021-05 star:0.0k fork:0.0k Mirror management tool, developed and used in-house in USTC
+- [ustclug/Yuki](https://github.com/ustclug/Yuki) pushed_at:2022-03 star:0.0k fork:0.0k Mirror management tool, developed and used in-house in USTC
 
 ## HTML
 
-- [ustclug/hackergame2019-writeups](https://github.com/ustclug/hackergame2019-writeups) pushed_at:2020-07 star:0.3k fork:0.1k Write-ups for hackergame 2019
+- [ustclug/hackergame2019-writeups](https://github.com/ustclug/hackergame2019-writeups) pushed_at:2020-07 star:0.3k fork:0.0k Write-ups for hackergame 2019
 - [ustclug/mirrors-index](https://github.com/ustclug/mirrors-index) pushed_at:2018-05 star:0.0k fork:0.0k Go https://git.lug.ustc.edu.cn/mirrors/mirrors-index for latest version
 - [ustclug/news](https://github.com/ustclug/news) pushed_at:2020-08 star:0.0k fork:0.0k USTC LUG 新闻站
 - [ustclug/qtguide](https://github.com/ustclug/qtguide) pushed_at:2022-03 star:0.1k fork:0.0k Qt Programming Guide
