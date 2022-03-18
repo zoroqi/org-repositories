@@ -22,7 +22,7 @@
 ## C++
 
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) pushed_at:2022-03 star:13.0k fork:3.4k Hacktoberfest 2021 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
-- [OpenGenus/quark](https://github.com/OpenGenus/quark) pushed_at:2021-10 star:0.6k fork:0.1k Stay happy while offline | World's first offline search engine. 
+- [OpenGenus/quark](https://github.com/OpenGenus/quark) pushed_at:2022-03 star:0.6k fork:0.1k Stay happy while offline | World's first offline search engine. 
 
 ## CSS
 
@@ -49,7 +49,7 @@
 - [OpenGenus/radio-air](https://github.com/OpenGenus/radio-air) pushed_at:2018-12 star:0.0k fork:0.0k 
 - [OpenGenus/random](https://github.com/OpenGenus/random) pushed_at:2022-01 star:0.0k fork:0.0k Randomly redirects to an OpenGenus article
 - [OpenGenus/session_storage](https://github.com/OpenGenus/session_storage) pushed_at:2019-08 star:0.0k fork:0.0k 
-- [OpenGenus/tool](https://github.com/OpenGenus/tool) pushed_at:2022-01 star:0.0k fork:0.0k 
+- [OpenGenus/tool](https://github.com/OpenGenus/tool) pushed_at:2022-03 star:0.0k fork:0.0k 
 - [OpenGenus/visual](https://github.com/OpenGenus/visual) pushed_at:2022-02 star:0.0k fork:0.0k "OpenGenus Visual" project
 - [OpenGenus/web](https://github.com/OpenGenus/web) pushed_at:2018-07 star:0.0k fork:0.0k 
 
@@ -155,7 +155,7 @@
 - [OpenGenus/QRcode](https://github.com/OpenGenus/QRcode) pushed_at:2018-11 star:0.0k fork:0.0k 
 - [OpenGenus/saturn](https://github.com/OpenGenus/saturn) pushed_at:2019-02 star:0.0k fork:0.0k 
 - [OpenGenus/SIFT-Scale-Invariant-Feature-Transform](https://github.com/OpenGenus/SIFT-Scale-Invariant-Feature-Transform) pushed_at:2019-08 star:0.0k fork:0.0k SIFT (Scale Invariant Feature Transform)
-- [OpenGenus/vidsum](https://github.com/OpenGenus/vidsum) pushed_at:2022-01 star:0.2k fork:0.1k Generate summary of any video :tv: anywhere and anytime
+- [OpenGenus/vidsum](https://github.com/OpenGenus/vidsum) pushed_at:2022-03 star:0.2k fork:0.1k Generate summary of any video :tv: anywhere and anytime
 - [OpenGenus/web_text](https://github.com/OpenGenus/web_text) pushed_at:2019-09 star:0.0k fork:0.0k 
 
 ## Shell

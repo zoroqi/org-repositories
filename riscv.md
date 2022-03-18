@@ -43,7 +43,7 @@
 
 - [riscv/riscv-aclint](https://github.com/riscv/riscv-aclint) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) pushed_at:2022-01 star:0.2k fork:0.1k Working draft of the proposed RISC-V Bitmanipulation extension
-- [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) pushed_at:2022-01 star:0.0k fork:0.0k Working Draft of the RISC-V J Extension Specification
+- [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) pushed_at:2022-01 star:0.1k fork:0.0k Working Draft of the RISC-V J Extension Specification
 - [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2022-03 star:0.1k fork:0.0k RISC-V Profiles and Platform Specification
 - [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) pushed_at:2022-03 star:0.0k fork:0.0k RISC-V Architecture Profiles
 - [riscv/riscv-semihosting-spec](https://github.com/riscv/riscv-semihosting-spec) pushed_at:2021-10 star:0.0k fork:0.0k 
@@ -58,7 +58,7 @@
 - [riscv/riscv-alt-fp](https://github.com/riscv/riscv-alt-fp) pushed_at:2022-02 star:0.0k fork:0.0k RISC-V Alternate FP Format
 - [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) pushed_at:2022-02 star:0.1k fork:0.0k RISC-V Packed SIMD Extension
-- [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) pushed_at:2021-11 star:0.0k fork:0.0k PLIC Specification
+- [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) pushed_at:2021-11 star:0.1k fork:0.0k PLIC Specification
 - [riscv/riscv-smbios](https://github.com/riscv/riscv-smbios) pushed_at:2021-12 star:0.0k fork:0.0k RISC-V SMBIOS Type 44 Spec
 - [riscv/riscv-zfinx](https://github.com/riscv/riscv-zfinx) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [riscv/virtual-memory](https://github.com/riscv/virtual-memory) pushed_at:2021-09 star:0.0k fork:0.0k 
