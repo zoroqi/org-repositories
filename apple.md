@@ -29,7 +29,7 @@
 - [apple/cups](https://github.com/apple/cups) pushed_at:2022-02 star:1.5k fork:0.4k Apple CUPS Sources
 - [apple/darwin-libplatform](https://github.com/apple/darwin-libplatform) pushed_at:2021-02 star:0.1k fork:0.0k The Darwin Platform Library (mirror)
 - [apple/darwin-libpthread](https://github.com/apple/darwin-libpthread) pushed_at:2021-07 star:0.1k fork:0.1k The Darwin PThread Library (mirror)
-- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) pushed_at:2022-01 star:9.7k fork:1.5k The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-reporting/
+- [apple/darwin-xnu](https://github.com/apple/darwin-xnu) pushed_at:2022-01 star:9.8k fork:1.5k The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-reporting/
 - [apple/HomeKitADK](https://github.com/apple/HomeKitADK) pushed_at:2021-11 star:2.3k fork:0.2k 
 - [apple/swift-cmark](https://github.com/apple/swift-cmark) pushed_at:2022-03 star:0.2k fork:0.1k CommonMark parsing and rendering library and program in C
 - [apple/swift-compiler-rt](https://github.com/apple/swift-compiler-rt) pushed_at:2019-10 star:0.1k fork:0.1k 
@@ -42,11 +42,11 @@
 - [apple/apple-llvm-infrastructure-tools](https://github.com/apple/apple-llvm-infrastructure-tools) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [apple/AudioUnitSDK](https://github.com/apple/AudioUnitSDK) pushed_at:2021-07 star:0.1k fork:0.0k AudioUnit SDK
 - [apple/ccs-pyopendirectory](https://github.com/apple/ccs-pyopendirectory) pushed_at:2018-11 star:0.0k fork:0.0k Python OpenDirectory library used by CalendarServer
-- [apple/foundationdb](https://github.com/apple/foundationdb) pushed_at:2022-03 star:11.1k fork:1.1k FoundationDB - the open source, distributed, transactional key-value store
+- [apple/foundationdb](https://github.com/apple/foundationdb) pushed_at:2022-03 star:11.2k fork:1.1k FoundationDB - the open source, distributed, transactional key-value store
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) pushed_at:2022-03 star:0.2k fork:0.1k Index database library for use with sourcekit-lsp
 - [apple/llvm-project-v5](https://github.com/apple/llvm-project-v5) pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project-v5-split](https://github.com/apple/llvm-project-v5-split) pushed_at:2019-10 star:0.0k fork:0.0k 
-- [apple/swift](https://github.com/apple/swift) pushed_at:2022-03 star:59.0k fork:9.5k The Swift Programming Language
+- [apple/swift](https://github.com/apple/swift) pushed_at:2022-03 star:59.1k fork:9.5k The Swift Programming Language
 - [apple/swift-clang](https://github.com/apple/swift-clang) pushed_at:2019-11 star:0.7k fork:0.2k 
 - [apple/swift-clang-tools-extra](https://github.com/apple/swift-clang-tools-extra) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) pushed_at:2022-03 star:0.0k fork:0.0k 
@@ -85,7 +85,7 @@
 
 ## Markdown
 
-- [apple/swift-evolution](https://github.com/apple/swift-evolution) pushed_at:2022-03 star:13.1k fork:2.2k This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+- [apple/swift-evolution](https://github.com/apple/swift-evolution) pushed_at:2022-03 star:13.2k fork:2.2k This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
 ## Others
 
@@ -149,7 +149,7 @@
 
 ## Shell
 
-- [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) pushed_at:2021-10 star:3.4k fork:0.3k TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework. 
+- [apple/tensorflow_macos](https://github.com/apple/tensorflow_macos) pushed_at:2021-10 star:3.5k fork:0.3k TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework. 
 
 ## Starlark
 
@@ -172,11 +172,11 @@
 - [apple/swift-3-api-guidelines-review](https://github.com/apple/swift-3-api-guidelines-review) pushed_at:2018-11 star:0.5k fork:0.1k 
 - [apple/swift-algorithms](https://github.com/apple/swift-algorithms) pushed_at:2022-03 star:4.2k fork:0.3k Commonly used sequence and collection algorithms for Swift
 - [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) pushed_at:2022-03 star:2.6k fork:0.2k Straightforward, type-safe argument parsing for Swift
-- [apple/swift-atomics](https://github.com/apple/swift-atomics) pushed_at:2022-02 star:0.7k fork:0.0k Low-level atomic operations for Swift
+- [apple/swift-atomics](https://github.com/apple/swift-atomics) pushed_at:2022-03 star:0.7k fork:0.0k Low-level atomic operations for Swift
 - [apple/swift-cluster-membership](https://github.com/apple/swift-cluster-membership) pushed_at:2022-03 star:0.2k fork:0.0k Distributed Membership Protocol implementations in Swift
 - [apple/swift-collections](https://github.com/apple/swift-collections) pushed_at:2022-02 star:2.1k fork:0.2k Commonly used data structures for Swift
 - [apple/swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark) pushed_at:2022-02 star:0.2k fork:0.0k A benchmarking tool for Swift Collection algorithms
-- [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) pushed_at:2022-03 star:4.5k fork:1.0k The Foundation Project, providing core utilities, internationalization, and OS independence
+- [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) pushed_at:2022-03 star:4.6k fork:1.0k The Foundation Project, providing core utilities, internationalization, and OS independence
 - [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) pushed_at:2022-03 star:1.0k fork:0.3k The XCTest Project, A Swift core library for providing unit test support
 - [apple/swift-distributed-actors](https://github.com/apple/swift-distributed-actors) pushed_at:2022-03 star:0.3k fork:0.0k Peer-to-peer cluster implementation for Swift Distributed Actors
 - [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) pushed_at:2022-01 star:0.1k fork:0.0k Instrumentation library for Swift server applications

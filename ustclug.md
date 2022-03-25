@@ -15,9 +15,9 @@
 - [Lua](#lua) (1)
 - [Others](#others) (7)
 - [PHP](#php) (1)
-- [Python](#python) (7)
+- [Python](#python) (6)
 - [Rust](#rust) (1)
-- [Shell](#shell) (19)
+- [Shell](#shell) (20)
 
 ## C
 
@@ -36,7 +36,7 @@
 
 ## HTML
 
-- [ustclug/hackergame2019-writeups](https://github.com/ustclug/hackergame2019-writeups) pushed_at:2020-07 star:0.3k fork:0.0k Write-ups for hackergame 2019
+- [ustclug/hackergame2019-writeups](https://github.com/ustclug/hackergame2019-writeups) pushed_at:2020-07 star:0.3k fork:0.1k Write-ups for hackergame 2019
 - [ustclug/mirrors-index](https://github.com/ustclug/mirrors-index) pushed_at:2018-05 star:0.0k fork:0.0k Go https://git.lug.ustc.edu.cn/mirrors/mirrors-index for latest version
 - [ustclug/news](https://github.com/ustclug/news) pushed_at:2020-08 star:0.0k fork:0.0k USTC LUG 新闻站
 - [ustclug/qtguide](https://github.com/ustclug/qtguide) pushed_at:2022-03 star:0.1k fork:0.0k Qt Programming Guide
@@ -44,7 +44,7 @@
 
 ## Hack
 
-- [ustclug/opensuse-guide](https://github.com/ustclug/opensuse-guide) pushed_at:2022-01 star:0.0k fork:0.0k opensuse-guide in Chinese
+- [ustclug/opensuse-guide](https://github.com/ustclug/opensuse-guide) pushed_at:2022-03 star:0.0k fork:0.0k opensuse-guide in Chinese
 
 ## Jupyter Notebook
 
@@ -75,7 +75,6 @@
 - [ustclug/library](https://github.com/ustclug/library) pushed_at:2017-11 star:0.0k fork:0.0k LUG Library
 - [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) pushed_at:2021-12 star:0.0k fork:0.0k LUG VPN 申请系统
 - [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2022-03 star:0.3k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
-- [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) pushed_at:2022-03 star:0.0k fork:0.0k Docker images used by ustcmirror :rocket:
 - [ustclug/website-static](https://github.com/ustclug/website-static) pushed_at:2021-06 star:0.0k fork:0.0k Hosting static content (image/assets) for LUG website
 
 ## Rust
@@ -103,6 +102,7 @@
 - [ustclug/rubygems-mirror](https://github.com/ustclug/rubygems-mirror) pushed_at:2017-02 star:0.0k fork:0.0k 💀 rubugems mirror tool (deprecated)
 - [ustclug/simple-pxe](https://github.com/ustclug/simple-pxe) pushed_at:2022-03 star:0.0k fork:0.0k 便宜，快速，品质尚可
 - [ustclug/telegram-web](https://github.com/ustclug/telegram-web) pushed_at:2017-11 star:0.0k fork:0.0k 💀Telegram Web Client (deprecated)
+- [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) pushed_at:2022-03 star:0.0k fork:0.0k Docker images used by ustcmirror :rocket:
 
 
 ## License

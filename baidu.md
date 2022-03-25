@@ -26,7 +26,7 @@
 
 - [baidu/baidu-iot-samples](https://github.com/baidu/baidu-iot-samples) pushed_at:2019-10 star:0.1k fork:0.1k 
 - [baidu/boteye_sensor](https://github.com/baidu/boteye_sensor) pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/dperf](https://github.com/baidu/dperf) pushed_at:2022-03 star:0.5k fork:0.1k dperf is a DPDK based 100Gbps network performance and load testing software.
+- [baidu/dperf](https://github.com/baidu/dperf) pushed_at:2022-03 star:0.6k fork:0.1k dperf is a DPDK based 100Gbps network performance and load testing software.
 - [baidu/du1906_esp](https://github.com/baidu/du1906_esp) pushed_at:2021-12 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
 - [baidu/iot-edge-sdk-for-iot-parser](https://github.com/baidu/iot-edge-sdk-for-iot-parser) pushed_at:2019-02 star:0.1k fork:0.1k 
 - [baidu/iot-sdk-c](https://github.com/baidu/iot-sdk-c) pushed_at:2021-07 star:0.1k fork:0.1k device sdk for baidu IoT Core service, in c. Including MQTT client
@@ -80,7 +80,7 @@
 ## Java
 
 - [baidu/brcc](https://github.com/baidu/brcc) pushed_at:2022-03 star:0.3k fork:0.1k BRCC（better remote config center）是一个分布式配置中心，用于统一管理应用服务的配置信息，避免各类资源散落在各个项目中，简化资源配置的维护成本。作为一种轻量级的解决方案，部署简单，同时支持多环境、多版本、多角色的资源管理，可以在不改变应用源码的情况下无缝切换和实时生效配置信息。
-- [baidu/brpc-java](https://github.com/baidu/brpc-java) pushed_at:2022-01 star:0.7k fork:0.2k Java implementation for Baidu RPC, multi-protocol & high performance RPC.
+- [baidu/brpc-java](https://github.com/baidu/brpc-java) pushed_at:2022-03 star:0.7k fork:0.2k Java implementation for Baidu RPC, multi-protocol & high performance RPC.
 - [baidu/Cafe](https://github.com/baidu/Cafe) pushed_at:2014-05 star:0.4k fork:0.2k A powerful test framework for Android
 - [baidu/dlock](https://github.com/baidu/dlock) pushed_at:2017-03 star:0.2k fork:0.1k An effective and reliable Distributed Lock
 - [baidu/Elasticsearch](https://github.com/baidu/Elasticsearch) pushed_at:2018-07 star:0.4k fork:0.1k Baidu Elasticsearch
@@ -128,14 +128,14 @@
 - [baidu/iot](https://github.com/baidu/iot) pushed_at:2016-09 star:0.0k fork:0.0k for all code about Internet of Things
 - [baidu/ITEST](https://github.com/baidu/ITEST) pushed_at:2013-11 star:0.1k fork:0.1k Web service interface test framework
 - [baidu/minions](https://github.com/baidu/minions) pushed_at:2017-09 star:0.0k fork:0.0k Baidu 100G Chasiss Switch hardware spec
-- [baidu/palo](https://github.com/baidu/palo) pushed_at:2021-11 star:0.0k fork:0.0k A fast MPP database for all modern analytics on big data. Powered by Apache Doris(Incubating)
+- [baidu/palo](https://github.com/baidu/palo) pushed_at:2022-03 star:0.0k fork:0.0k A fast MPP database for all modern analytics on big data. Powered by Apache Doris(Incubating)
 - [baidu/pylint](https://github.com/baidu/pylint) pushed_at:2019-12 star:0.0k fork:0.0k It's not just a linter that annoys you!
 - [baidu/redis](https://github.com/baidu/redis) pushed_at:2017-05 star:0.1k fork:0.0k Baidu Ksarch Redis - a production solution of redis cluster
 
 ## PHP
 
 - [baidu/dm-kit-php](https://github.com/baidu/dm-kit-php) pushed_at:2019-02 star:0.0k fork:0.0k 
-- [baidu/smartapp-openapi-php](https://github.com/baidu/smartapp-openapi-php) pushed_at:2022-02 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for php，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
+- [baidu/smartapp-openapi-php](https://github.com/baidu/smartapp-openapi-php) pushed_at:2022-03 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for php，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
 
 ## Python
 
@@ -143,10 +143,10 @@
 - [baidu/baiduads-sdk](https://github.com/baidu/baiduads-sdk) pushed_at:2022-03 star:0.0k fork:0.0k Baidu Ads API SDK
 - [baidu/broc](https://github.com/baidu/broc) pushed_at:2017-12 star:0.1k fork:0.1k 
 - [baidu/CUP](https://github.com/baidu/CUP) pushed_at:2022-02 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
-- [baidu/DDParser](https://github.com/baidu/DDParser) pushed_at:2021-11 star:0.7k fork:0.1k 百度开源的依存句法分析系统
+- [baidu/DDParser](https://github.com/baidu/DDParser) pushed_at:2021-11 star:0.8k fork:0.1k 百度开源的依存句法分析系统
 - [baidu/Dialogue](https://github.com/baidu/Dialogue) pushed_at:2020-01 star:0.4k fork:0.1k 
 - [baidu/duedge-cli](https://github.com/baidu/duedge-cli) pushed_at:2020-03 star:0.0k fork:0.0k DuEdge Command Line
-- [baidu/DuReader](https://github.com/baidu/DuReader) pushed_at:2021-12 star:0.9k fork:0.3k Baseline Systems of DuReader Dataset
+- [baidu/DuReader](https://github.com/baidu/DuReader) pushed_at:2022-03 star:0.9k fork:0.3k Baseline Systems of DuReader Dataset
 - [baidu/information-extraction](https://github.com/baidu/information-extraction) pushed_at:2019-05 star:0.3k fork:0.1k 
 - [baidu/knowledge-driven-dialogue](https://github.com/baidu/knowledge-driven-dialogue) pushed_at:2019-06 star:0.3k fork:0.1k baseline system of knowledge driven dialogue competition
 - [baidu/logcover](https://github.com/baidu/logcover) pushed_at:2017-02 star:0.1k fork:0.0k 轻量级异常日志测试覆盖率度量工具
