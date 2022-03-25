@@ -100,7 +100,7 @@
 - [tuna/scripts](https://github.com/tuna/scripts) pushed_at:2018-01 star:0.0k fork:0.0k 
 - [tuna/telegram2irc](https://github.com/tuna/telegram2irc) pushed_at:2015-06 star:0.0k fork:0.0k A bot connect IRC and Telegram. Multiple binding is supported.
 - [tuna/thuroutes](https://github.com/tuna/thuroutes) pushed_at:2016-05 star:0.0k fork:0.0k Forked from https://chnroutes.googlecode.com/
-- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) pushed_at:2022-02 star:0.3k fork:0.1k Custom scripts for mirror jobs
+- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) pushed_at:2022-03 star:0.3k fork:0.1k Custom scripts for mirror jobs
 
 ## Ruby
 

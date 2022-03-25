@@ -33,7 +33,7 @@
 - [twitter/fatcache](https://github.com/twitter/fatcache) pushed_at:2021-11 star:1.3k fork:0.2k Memcache on SSD
 - [twitter/ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) pushed_at:2021-10 star:1.8k fork:0.1k Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
-- [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2022-03 star:1.0k fork:0.1k Pelikan is Twitter's unified cache backend
+- [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2022-03 star:1.1k fork:0.1k Pelikan is Twitter's unified cache backend
 - [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2021-11 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2021-12 star:11.3k fork:2.0k A fast, light-weight proxy for memcached and redis
 
@@ -65,7 +65,7 @@
 
 - [twitter/cloudhopper-commons](https://github.com/twitter/cloudhopper-commons) pushed_at:2021-06 star:0.0k fork:0.0k Cloudhopper Commons
 - [twitter/elephant-bird](https://github.com/twitter/elephant-bird) pushed_at:2022-01 star:1.1k fork:0.4k Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
-- [twitter/GraphJet](https://github.com/twitter/GraphJet) pushed_at:2021-06 star:0.5k fork:0.1k GraphJet is a real-time graph processing library.
+- [twitter/GraphJet](https://github.com/twitter/GraphJet) pushed_at:2022-03 star:0.5k fork:0.1k GraphJet is a real-time graph processing library.
 - [twitter/hbc](https://github.com/twitter/hbc) pushed_at:2022-02 star:0.9k fork:0.4k A Java HTTP client for consuming Twitter's realtime Streaming API
 - [twitter/hpack](https://github.com/twitter/hpack) pushed_at:2022-01 star:0.2k fork:0.0k Header Compression for HTTP/2
 - [twitter/hraven](https://github.com/twitter/hraven) pushed_at:2022-01 star:0.1k fork:0.1k hRaven collects run time data and statistics from MapReduce jobs in an easily queryable format
@@ -79,7 +79,7 @@
 ## JavaScript
 
 - [twitter/d3kit](https://github.com/twitter/d3kit) pushed_at:2021-11 star:0.4k fork:0.0k D3Kit is a set tools to speed D3 related project development
-- [twitter/hogan.js](https://github.com/twitter/hogan.js) pushed_at:2021-12 star:5.1k fork:0.5k A compiler for the Mustache templating language
+- [twitter/hogan.js](https://github.com/twitter/hogan.js) pushed_at:2022-03 star:5.1k fork:0.5k A compiler for the Mustache templating language
 - [twitter/labella.js](https://github.com/twitter/labella.js) pushed_at:2022-03 star:3.8k fork:0.1k Placing labels on a timeline without overlap.
 - [twitter/SentenTree](https://github.com/twitter/SentenTree) pushed_at:2022-03 star:0.2k fork:0.0k A novel text visualization technique
 - [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) pushed_at:2021-03 star:0.3k fork:0.0k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
