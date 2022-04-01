@@ -30,7 +30,7 @@
 
 ## Go
 
-- [ustclug/rsync-proxy](https://github.com/ustclug/rsync-proxy) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [ustclug/rsync-proxy](https://github.com/ustclug/rsync-proxy) pushed_at:2022-03 star:0.0k fork:0.0k 
 - [ustclug/TunnelMonitor](https://github.com/ustclug/TunnelMonitor) pushed_at:2021-08 star:0.0k fork:0.0k monitoring iptables connection balance and switching automatically
 - [ustclug/Yuki](https://github.com/ustclug/Yuki) pushed_at:2022-03 star:0.0k fork:0.0k Mirror management tool, developed and used in-house in USTC
 
@@ -58,7 +58,7 @@
 
 - [ustclug/blogs](https://github.com/ustclug/blogs) pushed_at:2021-01 star:0.0k fork:0.0k USTCLUG 同学们的博客列表
 - [ustclug/discussions](https://github.com/ustclug/discussions) pushed_at:2020-11 star:0.0k fork:0.0k Issue Tracker for USTC LUG
-- [ustclug/documentations](https://github.com/ustclug/documentations) pushed_at:2022-03 star:0.0k fork:0.0k LUG @ USTC General Documentation
+- [ustclug/documentations](https://github.com/ustclug/documentations) pushed_at:2022-04 star:0.0k fork:0.0k LUG @ USTC General Documentation
 - [ustclug/hackergame2020-writeups](https://github.com/ustclug/hackergame2020-writeups) pushed_at:2020-11 star:0.0k fork:0.0k 
 - [ustclug/lug-stickers](https://github.com/ustclug/lug-stickers) pushed_at:2019-05 star:0.0k fork:0.0k 
 - [ustclug/mirrorrequest](https://github.com/ustclug/mirrorrequest) pushed_at:2022-02 star:0.4k fork:0.0k 通过 issue 为中国科大开源镜像站（mirrors.ustc.edu.cn）提交新的镜像申请~
@@ -88,7 +88,7 @@
 - [ustclug/light-list](https://github.com/ustclug/light-list) pushed_at:2022-03 star:0.0k fork:0.0k accelerate list of light service
 - [ustclug/light-server](https://github.com/ustclug/light-server) pushed_at:2022-03 star:0.0k fork:0.0k light accelerator daemon
 - [ustclug/light-socks5](https://github.com/ustclug/light-socks5) pushed_at:2018-01 star:0.0k fork:0.0k light accelerator socks5 daemon
-- [ustclug/liimstrap](https://github.com/ustclug/liimstrap) pushed_at:2022-02 star:0.0k fork:0.0k 中国科大图书馆查询机生成脚本。
+- [ustclug/liimstrap](https://github.com/ustclug/liimstrap) pushed_at:2022-03 star:0.0k fork:0.0k 中国科大图书馆查询机生成脚本。
 - [ustclug/Linux101-docs](https://github.com/ustclug/Linux101-docs) pushed_at:2022-03 star:0.2k fork:0.0k Linux 101 学生课程教材与讲义
 - [ustclug/Linux101-USTC](https://github.com/ustclug/Linux101-USTC) pushed_at:2020-03 star:0.0k fork:0.0k Linux 101 is a course organized by several members of LUG@USTC. It is designed to popularize Linux and open source culture in USTC. First brought up by Jin Zida.
 - [ustclug/lug-sites-sync](https://github.com/ustclug/lug-sites-sync) pushed_at:2015-08 star:0.0k fork:0.0k 💀Script to sync lug.ustc.edu.cn/sites pages (deprecated)
