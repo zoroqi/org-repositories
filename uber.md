@@ -30,7 +30,7 @@
 
 ## C
 
-- [uber/h3](https://github.com/uber/h3) pushed_at:2022-03 star:3.4k fork:0.3k Hexagonal hierarchical geospatial indexing system
+- [uber/h3](https://github.com/uber/h3) pushed_at:2022-04 star:3.4k fork:0.3k Hexagonal hierarchical geospatial indexing system
 - [uber/h3-go](https://github.com/uber/h3-go) pushed_at:2021-12 star:0.2k fork:0.0k Go bindings for H3, a hierarchical hexagonal geospatial indexing system
 
 ## C++
@@ -43,7 +43,7 @@
 ## Go
 
 - [uber/arachne](https://github.com/uber/arachne) pushed_at:2019-06 star:0.4k fork:0.0k An always-on framework that performs end-to-end functional network testing for reachability, latency, and packet loss
-- [uber/aresdb](https://github.com/uber/aresdb) pushed_at:2021-06 star:2.8k fork:0.2k A GPU-powered real-time analytics storage and query engine. 
+- [uber/aresdb](https://github.com/uber/aresdb) pushed_at:2021-06 star:2.9k fork:0.2k A GPU-powered real-time analytics storage and query engine. 
 - [uber/assume-role-cli](https://github.com/uber/assume-role-cli) pushed_at:2020-07 star:0.0k fork:0.0k CLI for AssumeRole is a tool for running programs with temporary credentials from AWS's AssumeRole API.
 - [uber/astro](https://github.com/uber/astro) pushed_at:2020-01 star:0.4k fork:0.0k Astro is a tool for managing multiple Terraform executions as a single command
 - [uber/athenadriver](https://github.com/uber/athenadriver) pushed_at:2022-02 star:0.1k fork:0.0k A fully-featured AWS Athena database driver (+ athenareader https://github.com/uber/athenadriver/tree/master/athenareader)
@@ -58,7 +58,7 @@
 - [uber/storagetapper](https://github.com/uber/storagetapper) pushed_at:2022-01 star:0.3k fork:0.1k StorageTapper is a scalable realtime MySQL change data streaming, logical backup and logical replication service
 - [uber/tchannel-go](https://github.com/uber/tchannel-go) pushed_at:2022-04 star:0.5k fork:0.1k Go implementation of a multiplexing and framing protocol for RPC calls
 - [uber/uberalls](https://github.com/uber/uberalls) pushed_at:2020-03 star:0.2k fork:0.0k Track code coverage metrics with Jenkins and Phabricator
-- [uber/zanzibar](https://github.com/uber/zanzibar) pushed_at:2022-03 star:0.4k fork:0.1k A build system & configuration system to generate versioned API gateways.
+- [uber/zanzibar](https://github.com/uber/zanzibar) pushed_at:2022-04 star:0.4k fork:0.1k A build system & configuration system to generate versioned API gateways.
 
 ## HTML
 
@@ -77,7 +77,7 @@
 - [uber/concurrency-loadbalancer](https://github.com/uber/concurrency-loadbalancer) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [uber/dynamodb-cross-region-library](https://github.com/uber/dynamodb-cross-region-library) pushed_at:2017-10 star:0.0k fork:0.0k A library to facilitate cross-region replication with Amazon DynamoDB Streams.
 - [uber/h3-java](https://github.com/uber/h3-java) pushed_at:2022-03 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
-- [uber/marmaray](https://github.com/uber/marmaray) pushed_at:2022-02 star:0.4k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
+- [uber/marmaray](https://github.com/uber/marmaray) pushed_at:2022-04 star:0.4k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
 - [uber/NullAway](https://github.com/uber/NullAway) pushed_at:2022-04 star:3.1k fork:0.2k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [uber/okbuck](https://github.com/uber/okbuck) pushed_at:2022-04 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
 - [uber/phabricator-jenkins-plugin](https://github.com/uber/phabricator-jenkins-plugin) pushed_at:2021-01 star:0.4k fork:0.1k Jenkins plugin to integrate with Phabricator, Harbormaster, and Uberalls
@@ -92,7 +92,7 @@
 - [uber/tchannel-java](https://github.com/uber/tchannel-java) pushed_at:2021-03 star:0.1k fork:0.1k A Java implementation of the TChannel protocol.
 - [uber/uber-graph-benchmark](https://github.com/uber/uber-graph-benchmark) pushed_at:2019-01 star:0.0k fork:0.0k A framework to benchmark different graph databases, based on generated data from customizable schema, distribution, and size.
 - [uber/uberscriptquery](https://github.com/uber/uberscriptquery) pushed_at:2019-03 star:0.1k fork:0.0k UberScriptQuery, a SQL-like DSL to make writing Spark jobs super easy
-- [uber/uReplicator](https://github.com/uber/uReplicator) pushed_at:2021-10 star:0.8k fork:0.2k Improvement of Apache Kafka Mirrormaker
+- [uber/uReplicator](https://github.com/uber/uReplicator) pushed_at:2022-04 star:0.8k fork:0.2k Improvement of Apache Kafka Mirrormaker
 
 ## JavaScript
 
@@ -101,7 +101,7 @@
 - [uber/bufrw](https://github.com/uber/bufrw) pushed_at:2020-11 star:0.0k fork:0.0k Buffer Reading and Writing
 - [uber/build-changelog](https://github.com/uber/build-changelog) pushed_at:2014-11 star:0.0k fork:0.0k A CLI to auto-generate a deploy ready changelog
 - [uber/cache-dir](https://github.com/uber/cache-dir) pushed_at:2014-03 star:0.0k fork:0.0k An ES6 map-like cache with file-based backing
-- [uber/cadence-web](https://github.com/uber/cadence-web) pushed_at:2022-03 star:0.3k fork:0.1k Web UI for visualizing workflows on Cadence
+- [uber/cadence-web](https://github.com/uber/cadence-web) pushed_at:2022-04 star:0.3k fork:0.1k Web UI for visualizing workflows on Cadence
 - [uber/eight-track](https://github.com/uber/eight-track) pushed_at:2018-07 star:0.1k fork:0.0k Record and playback HTTP requests
 - [uber/geojson2h3](https://github.com/uber/geojson2h3) pushed_at:2021-09 star:0.1k fork:0.0k Conversion utilities between H3 indexes and GeoJSON
 - [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) pushed_at:2022-04 star:0.4k fork:0.1k grafana dash dash dash gen
@@ -110,17 +110,17 @@
 - [uber/json-schema-filter](https://github.com/uber/json-schema-filter) pushed_at:2020-10 star:0.0k fork:0.0k Filters (removes) objects from document based on passed json-schema
 - [uber/kafka-logger](https://github.com/uber/kafka-logger) pushed_at:2018-10 star:0.0k fork:0.0k A kafka logger for winston
 - [uber/logtron](https://github.com/uber/logtron) pushed_at:2018-10 star:0.2k fork:0.0k A logging MACHINE
-- [uber/manifold](https://github.com/uber/manifold) pushed_at:2022-02 star:1.6k fork:0.1k A model-agnostic visual debugging tool for machine learning
+- [uber/manifold](https://github.com/uber/manifold) pushed_at:2022-04 star:1.6k fork:0.1k A model-agnostic visual debugging tool for machine learning
 - [uber/react-digraph](https://github.com/uber/react-digraph) pushed_at:2022-01 star:2.3k fork:0.3k A library for creating directed graph editors
 - [uber/react-global-hooks](https://github.com/uber/react-global-hooks) pushed_at:2020-09 star:0.0k fork:0.0k 
-- [uber/react-vis](https://github.com/uber/react-vis) pushed_at:2022-03 star:8.2k fork:0.8k Data Visualization Components
+- [uber/react-vis](https://github.com/uber/react-vis) pushed_at:2022-04 star:8.2k fork:0.8k Data Visualization Components
 - [uber/react-vis-force](https://github.com/uber/react-vis-force) pushed_at:2020-06 star:0.4k fork:0.1k d3-force graphs as React Components.
 - [uber/ringpop-ui](https://github.com/uber/ringpop-ui) pushed_at:2015-09 star:0.0k fork:0.0k A visualization tool for Ringpop
 - [uber/sentry-logger](https://github.com/uber/sentry-logger) pushed_at:2018-12 star:0.1k fork:0.0k A Sentry transport for Winston
 - [uber/sevnup](https://github.com/uber/sevnup) pushed_at:2020-07 star:0.0k fork:0.0k Reliably carry on work for a hashring node that owns a keyspace
 - [uber/standard](https://github.com/uber/standard) pushed_at:2017-04 star:0.1k fork:0.0k JavaScript Standard Style — One Style to Rule Them All
 - [uber/tcap](https://github.com/uber/tcap) pushed_at:2016-09 star:0.0k fork:0.0k Uses pcap to inspect tchannel traffic over a network interface
-- [uber/tchannel-node](https://github.com/uber/tchannel-node) pushed_at:2022-03 star:0.2k fork:0.0k 
+- [uber/tchannel-node](https://github.com/uber/tchannel-node) pushed_at:2022-04 star:0.2k fork:0.0k 
 - [uber/typed-request-client](https://github.com/uber/typed-request-client) pushed_at:2017-05 star:0.0k fork:0.0k Make HTTP requests using TypedRequest and TypedResponse objects.
 - [uber/uber-licence](https://github.com/uber/uber-licence) pushed_at:2019-10 star:0.0k fork:0.0k Utility to deal with Uber OSS licences
 - [uber/uber-ngen](https://github.com/uber/uber-ngen) pushed_at:2016-05 star:0.0k fork:0.0k uber-ngen is a tool that will generate a new nodejs project for you.
@@ -157,13 +157,13 @@
 
 ## PHP
 
-- [uber/arcanist](https://github.com/uber/arcanist) pushed_at:2022-03 star:0.0k fork:0.0k Command line interface for Phabricator
+- [uber/arcanist](https://github.com/uber/arcanist) pushed_at:2022-04 star:0.0k fork:0.0k Command line interface for Phabricator
 
 ## Python
 
 - [uber/bayesmark](https://github.com/uber/bayesmark) pushed_at:2021-06 star:0.1k fork:0.0k Benchmark framework to easily compare Bayesian optimization methods on real machine learning tasks
 - [uber/cassette](https://github.com/uber/cassette) pushed_at:2020-10 star:0.1k fork:0.0k Store and replay HTTP requests made in your Python app
-- [uber/causalml](https://github.com/uber/causalml) pushed_at:2022-03 star:2.9k fork:0.5k Uplift modeling and causal inference with machine learning algorithms
+- [uber/causalml](https://github.com/uber/causalml) pushed_at:2022-04 star:2.9k fork:0.5k Uplift modeling and causal inference with machine learning algorithms
 - [uber/charlatan](https://github.com/uber/charlatan) pushed_at:2019-09 star:0.1k fork:0.0k A Python library to efficiently manage and install database fixtures
 - [uber/clay](https://github.com/uber/clay) pushed_at:2022-01 star:0.4k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [uber/doubles](https://github.com/uber/doubles) pushed_at:2018-10 star:0.2k fork:0.0k Test doubles for Python.
@@ -212,9 +212,9 @@
 
 ## Thrift
 
-- [uber/cadence-idl](https://github.com/uber/cadence-idl) pushed_at:2022-03 star:0.0k fork:0.0k Cadence IDL repo, shared by server / clients
+- [uber/cadence-idl](https://github.com/uber/cadence-idl) pushed_at:2022-04 star:0.0k fork:0.0k Cadence IDL repo, shared by server / clients
 - [uber/dosa-idl](https://github.com/uber/dosa-idl) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [uber/tchannel](https://github.com/uber/tchannel) pushed_at:2021-12 star:1.1k fork:0.1k network multiplexing and framing protocol for RPC
+- [uber/tchannel](https://github.com/uber/tchannel) pushed_at:2021-12 star:1.2k fork:0.1k network multiplexing and framing protocol for RPC
 
 ## TypeScript
 

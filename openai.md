@@ -50,7 +50,7 @@
 
 ## CSS
 
-- [openai/openai-quickstart-python](https://github.com/openai/openai-quickstart-python) pushed_at:2022-03 star:0.0k fork:0.0k Python example app from the OpenAI API quickstart tutorial
+- [openai/openai-quickstart-python](https://github.com/openai/openai-quickstart-python) pushed_at:2022-04 star:0.0k fork:0.0k Python example app from the OpenAI API quickstart tutorial
 - [openai/signup-forms](https://github.com/openai/signup-forms) pushed_at:2018-11 star:0.0k fork:0.0k Code for the paper "World of Bits: An Open-Domain Platform for Web-Based Agents"
 
 ## Cuda
@@ -85,14 +85,14 @@
 ## Jupyter Notebook
 
 - [openai/baselines-results](https://github.com/openai/baselines-results) pushed_at:2020-07 star:0.1k fork:0.0k 
-- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2022-04 star:6.9k fork:1.0k Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2022-04 star:7.1k fork:1.0k Contrastive Language-Image Pretraining
 - [openai/lucid](https://github.com/openai/lucid) pushed_at:2019-01 star:0.0k fork:0.0k A collection of infrastructure and tools for research in neural network interpretability.
 - [openai/ot-gan](https://github.com/openai/ot-gan) pushed_at:2018-11 star:0.1k fork:0.0k  Code for the paper "Improving GANs Using Optimal Transport"
 - [openai/ppo-ewma](https://github.com/openai/ppo-ewma) pushed_at:2021-10 star:0.0k fork:0.0k Code for the paper "Batch size invariance for policy optimization"
 
 ## Lean
 
-- [openai/lean-gym](https://github.com/openai/lean-gym) pushed_at:2022-02 star:0.1k fork:0.0k 
+- [openai/lean-gym](https://github.com/openai/lean-gym) pushed_at:2022-04 star:0.1k fork:0.0k 
 
 ## Mustache
 
@@ -107,7 +107,7 @@
 - [openai/ai-and-efficiency](https://github.com/openai/ai-and-efficiency) pushed_at:2020-06 star:0.0k fork:0.0k Submissions for AI and Efficiency SOTA's
 - [openai/bchess-personal](https://github.com/openai/bchess-personal) pushed_at:2021-12 star:0.0k fork:0.0k temporarily public for a bug report
 - [openai/consul-helm](https://github.com/openai/consul-helm) pushed_at:2020-10 star:0.0k fork:0.0k Helm chart to install Consul and other associated components.
-- [openai/dalle-2-preview](https://github.com/openai/dalle-2-preview) pushed_at:2022-04 star:0.3k fork:0.0k 
+- [openai/dalle-2-preview](https://github.com/openai/dalle-2-preview) pushed_at:2022-04 star:0.5k fork:0.0k 
 - [openai/following-instructions-human-feedback](https://github.com/openai/following-instructions-human-feedback) pushed_at:2022-01 star:0.1k fork:0.0k 
 - [openai/go-retryablehttp](https://github.com/openai/go-retryablehttp) pushed_at:2020-06 star:0.0k fork:0.0k Retryable HTTP client in Go
 - [openai/gpt-3](https://github.com/openai/gpt-3) pushed_at:2020-09 star:11.2k fork:1.4k GPT-3: Language Models are Few-Shot Learners
@@ -123,7 +123,7 @@
 - [openai/baselines](https://github.com/openai/baselines) pushed_at:2021-12 star:12.5k fork:4.3k OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [openai/CLIP-featurevis](https://github.com/openai/CLIP-featurevis) pushed_at:2021-03 star:0.2k fork:0.0k code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
 - [openai/code-align-evals-data](https://github.com/openai/code-align-evals-data) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [openai/DALL-E](https://github.com/openai/DALL-E) pushed_at:2021-12 star:4.4k fork:0.7k PyTorch package for the discrete VAE used for DALL·E.
+- [openai/DALL-E](https://github.com/openai/DALL-E) pushed_at:2021-12 star:4.8k fork:0.8k PyTorch package for the discrete VAE used for DALL·E.
 - [openai/deeptype](https://github.com/openai/deeptype) pushed_at:2019-03 star:0.6k fork:0.1k  Code for the paper "DeepType: Multilingual Entity Linking by Neural Type System Evolution"
 - [openai/distribution_augmentation](https://github.com/openai/distribution_augmentation) pushed_at:2021-12 star:0.1k fork:0.0k Code for the paper, "Distribution Augmentation for Generative Modeling", ICML 2020.
 - [openai/ebm_code_release](https://github.com/openai/ebm_code_release) pushed_at:2019-04 star:0.3k fork:0.0k Code for Implicit Generation and Generalization with Energy Based Models
@@ -132,14 +132,14 @@
 - [openai/fetch_robots](https://github.com/openai/fetch_robots) pushed_at:2016-07 star:0.0k fork:0.0k Bringup for fetch & freight
 - [openai/finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm) pushed_at:2019-01 star:1.6k fork:0.4k Code and model for the paper "Improving Language Understanding by Generative Pre-Training"
 - [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) pushed_at:2019-07 star:1.4k fork:0.4k Code for "Learning to Generate Reviews and Discovering Sentiment"
-- [openai/glide-text2im](https://github.com/openai/glide-text2im) pushed_at:2022-03 star:2.2k fork:0.3k GLIDE: a diffusion-based text-conditional image synthesis model
+- [openai/glide-text2im](https://github.com/openai/glide-text2im) pushed_at:2022-03 star:2.3k fork:0.3k GLIDE: a diffusion-based text-conditional image synthesis model
 - [openai/glow](https://github.com/openai/glow) pushed_at:2021-02 star:2.9k fork:0.5k Code for reproducing results in "Glow: Generative Flow with Invertible 1x1 Convolutions"
 - [openai/gpt-2](https://github.com/openai/gpt-2) pushed_at:2021-12 star:15.3k fork:3.9k Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) pushed_at:2021-02 star:1.2k fork:0.3k Dataset of GPT-2 outputs for research in detection, biases, and more
 - [openai/grade-school-math](https://github.com/openai/grade-school-math) pushed_at:2021-11 star:0.2k fork:0.0k 
 - [openai/grok](https://github.com/openai/grok) pushed_at:2022-01 star:0.1k fork:0.0k 
-- [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2022-01 star:1.3k fork:0.2k 
-- [openai/gym](https://github.com/openai/gym) pushed_at:2022-04 star:27.1k fork:7.7k A toolkit for developing and comparing reinforcement learning algorithms.
+- [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2022-04 star:1.3k fork:0.2k 
+- [openai/gym](https://github.com/openai/gym) pushed_at:2022-04 star:27.2k fork:7.8k A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/gym-http-api](https://github.com/openai/gym-http-api) pushed_at:2019-07 star:0.3k fork:0.1k API to access OpenAI Gym from other languages via HTTP
 - [openai/gym-recording](https://github.com/openai/gym-recording) pushed_at:2020-10 star:0.1k fork:0.0k Add-on package to gym, to record sequences of actions, observations, and rewards
 - [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2021-12 star:0.3k fork:0.2k 
@@ -149,7 +149,7 @@
 - [openai/iaf](https://github.com/openai/iaf) pushed_at:2018-11 star:0.5k fork:0.1k Code for reproducing key results in the paper "Improving Variational Inference with Inverse Autoregressive Flow"
 - [openai/image-gpt](https://github.com/openai/image-gpt) pushed_at:2021-11 star:1.6k fork:0.2k 
 - [openai/imitation](https://github.com/openai/imitation) pushed_at:2018-11 star:0.6k fork:0.2k  Code for the paper "Generative Adversarial Imitation Learning"
-- [openai/improved-diffusion](https://github.com/openai/improved-diffusion) pushed_at:2022-03 star:0.3k fork:0.1k Release for Improved Denoising Diffusion Probabilistic Models
+- [openai/improved-diffusion](https://github.com/openai/improved-diffusion) pushed_at:2022-03 star:0.4k fork:0.1k Release for Improved Denoising Diffusion Probabilistic Models
 - [openai/improved-gan](https://github.com/openai/improved-gan) pushed_at:2018-11 star:2.1k fork:0.6k Code for the paper "Improved Techniques for Training GANs"
 - [openai/InfoGAN](https://github.com/openai/InfoGAN) pushed_at:2021-03 star:1.0k fork:0.3k Code for reproducing key results in the paper "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets"
 - [openai/jukebox](https://github.com/openai/jukebox) pushed_at:2021-09 star:5.1k fork:0.8k Code for the paper "Jukebox: A Generative Model for Music"
@@ -219,7 +219,7 @@
 
 ## TypeScript
 
-- [openai/openai-node](https://github.com/openai/openai-node) pushed_at:2022-03 star:0.0k fork:0.0k Node.js library for the OpenAI API
+- [openai/openai-node](https://github.com/openai/openai-node) pushed_at:2022-03 star:0.1k fork:0.0k Node.js library for the OpenAI API
 
 
 ## License

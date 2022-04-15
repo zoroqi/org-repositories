@@ -18,17 +18,17 @@
 
 ## Assembly
 
-- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) pushed_at:2022-03 star:0.1k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
-- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) pushed_at:2022-04 star:0.5k fork:0.2k Working draft of the proposed RISC-V V vector extension
+- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) pushed_at:2022-04 star:0.1k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
+- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) pushed_at:2022-04 star:0.6k fork:0.2k Working draft of the proposed RISC-V V vector extension
 
 ## BitBake
 
-- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) pushed_at:2022-03 star:0.2k fork:0.1k OpenEmbedded/Yocto layer for RISC-V Architecture
+- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) pushed_at:2022-04 star:0.2k fork:0.1k OpenEmbedded/Yocto layer for RISC-V Architecture
 
 ## C
 
 - [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2022-04 star:0.2k fork:0.0k RISC-V cryptography extensions standardisation work.
-- [riscv/riscv-openocd](https://github.com/riscv/riscv-openocd) pushed_at:2022-03 star:0.3k fork:0.2k Fork of OpenOCD that has RISC-V support
+- [riscv/riscv-openocd](https://github.com/riscv/riscv-openocd) pushed_at:2022-04 star:0.3k fork:0.2k Fork of OpenOCD that has RISC-V support
 - [riscv/riscv-test-env](https://github.com/riscv/riscv-test-env) pushed_at:2022-03 star:0.0k fork:0.1k 
 
 ## Coq

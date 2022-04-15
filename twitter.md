@@ -57,8 +57,8 @@
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) pushed_at:2021-10 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/interactive](https://github.com/twitter/interactive) pushed_at:2021-11 star:0.2k fork:0.1k Twitter interactive visualization
 - [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-10 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2022-03 star:14.0k fork:1.6k Emoji for everyone. https://twemoji.twitter.com/
-- [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2022-02 star:2.7k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
+- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2022-03 star:14.1k fork:1.6k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2022-04 star:2.7k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-10 star:0.0k fork:0.0k 
 
 ## Java
@@ -70,7 +70,7 @@
 - [twitter/hpack](https://github.com/twitter/hpack) pushed_at:2022-01 star:0.2k fork:0.0k Header Compression for HTTP/2
 - [twitter/hraven](https://github.com/twitter/hraven) pushed_at:2022-01 star:0.1k fork:0.1k hRaven collects run time data and statistics from MapReduce jobs in an easily queryable format
 - [twitter/joauth](https://github.com/twitter/joauth) pushed_at:2021-08 star:0.2k fork:0.1k A Java library for authenticating HTTP Requests using OAuth
-- [twitter/netty-http2](https://github.com/twitter/netty-http2) pushed_at:2021-12 star:0.1k fork:0.0k HTTP/2 for Netty
+- [twitter/netty-http2](https://github.com/twitter/netty-http2) pushed_at:2021-12 star:0.1k fork:0.1k HTTP/2 for Netty
 - [twitter/nodes](https://github.com/twitter/nodes) pushed_at:2021-10 star:0.2k fork:0.0k  A library to implement asynchronous dependency graphs for services in Java
 - [twitter/sbf](https://github.com/twitter/sbf) pushed_at:2020-10 star:0.0k fork:0.0k 
 - [twitter/Serial](https://github.com/twitter/Serial) pushed_at:2020-12 star:0.9k fork:0.1k Light-weight, fast framework for object serialization in Java, with Android support.
@@ -125,7 +125,7 @@
 - [twitter/activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) pushed_at:2016-01 star:1.3k fork:0.1k An Active Record Reputation System for Rails
 - [twitter/thrift_client](https://github.com/twitter/thrift_client) pushed_at:2019-06 star:0.2k fork:0.1k A Thrift client wrapper that encapsulates some common failover behavior
 - [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) pushed_at:2022-02 star:0.6k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
-- [twitter/twurl](https://github.com/twitter/twurl) pushed_at:2021-12 star:1.7k fork:0.3k OAuth-enabled curl for the Twitter API
+- [twitter/twurl](https://github.com/twitter/twurl) pushed_at:2022-04 star:1.7k fork:0.3k OAuth-enabled curl for the Twitter API
 
 ## Rust
 
@@ -145,7 +145,7 @@
 - [twitter/cassovary](https://github.com/twitter/cassovary) pushed_at:2021-10 star:1.0k fork:0.1k Cassovary is a simple big graph processing library for the JVM
 - [twitter/chill](https://github.com/twitter/chill) pushed_at:2022-04 star:0.6k fork:0.1k Scala extensions for the Kryo serialization library
 - [twitter/finagle](https://github.com/twitter/finagle) pushed_at:2022-04 star:8.2k fork:1.4k A fault tolerant, protocol-agnostic RPC system
-- [twitter/finatra](https://github.com/twitter/finatra) pushed_at:2022-03 star:2.1k fork:0.4k Fast, testable, Scala services built on TwitterServer and Finagle
+- [twitter/finatra](https://github.com/twitter/finatra) pushed_at:2022-04 star:2.2k fork:0.4k Fast, testable, Scala services built on TwitterServer and Finagle
 - [twitter/iago2](https://github.com/twitter/iago2) pushed_at:2019-12 star:0.0k fork:0.0k A load generator, built for engineers
 - [twitter/rsc](https://github.com/twitter/rsc) pushed_at:2021-10 star:1.2k fork:0.0k Experimental Scala compiler focused on compilation speed
 - [twitter/scala_school2](https://github.com/twitter/scala_school2) pushed_at:2021-10 star:0.3k fork:0.1k Scala School 2
@@ -163,7 +163,7 @@
 
 - [twitter/cache-trace](https://github.com/twitter/cache-trace) pushed_at:2021-12 star:0.1k fork:0.0k A collection of Twitter's anonymized production cache traces.
 - [twitter/dodo](https://github.com/twitter/dodo) pushed_at:2022-04 star:0.0k fork:0.0k The Twitter OSS Project Builder
-- [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) pushed_at:2022-03 star:0.5k fork:0.3k Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
+- [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) pushed_at:2022-04 star:0.5k fork:0.3k Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
 
 ## Swift
 

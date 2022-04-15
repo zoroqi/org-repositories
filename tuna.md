@@ -49,7 +49,7 @@
 - [tuna/freedns-go](https://github.com/tuna/freedns-go) pushed_at:2021-11 star:0.2k fork:0.0k Optimized DNS Server for Chinese users.
 - [tuna/mirrorhub](https://github.com/tuna/mirrorhub) pushed_at:2016-09 star:0.0k fork:0.0k Redirects the user to a nearby mirror site.
 - [tuna/tunaccount](https://github.com/tuna/tunaccount) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [tuna/tunasync](https://github.com/tuna/tunasync) pushed_at:2022-04 star:1.1k fork:0.2k Mirror job management tool. 
+- [tuna/tunasync](https://github.com/tuna/tunasync) pushed_at:2022-04 star:1.2k fork:0.2k Mirror job management tool. 
 
 ## HTML
 
@@ -86,7 +86,7 @@
 ## Python
 
 - [tuna/bandersnatch](https://github.com/tuna/bandersnatch) pushed_at:2020-02 star:0.0k fork:0.0k A PyPI mirror client according to PEP 381 http://www.python.org/dev/peps/pep-0381/
-- [tuna/blogroll](https://github.com/tuna/blogroll) pushed_at:2022-03 star:0.7k fork:0.1k 世界一流兼容并包TUNA协会收集的周围同学们的Blog
+- [tuna/blogroll](https://github.com/tuna/blogroll) pushed_at:2022-04 star:0.7k fork:0.1k 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [tuna/django-helpdesk](https://github.com/tuna/django-helpdesk) pushed_at:2014-12 star:0.0k fork:0.0k A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [tuna/feed_tuna](https://github.com/tuna/feed_tuna) pushed_at:2017-09 star:0.0k fork:0.0k Telegram shop/payment bot 金枪鱼喂食计划
 - [tuna/fishroom](https://github.com/tuna/fishroom) pushed_at:2021-02 star:0.3k fork:0.1k Message forwarding for multiple IM protocols
@@ -113,13 +113,13 @@
 ## TeX
 
 - [tuna/THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme) pushed_at:2020-12 star:0.2k fork:0.0k A LaTeX beamer theme template for Tsinghua students.
-- [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) pushed_at:2021-11 star:0.3k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
-- [tuna/thuthesis](https://github.com/tuna/thuthesis) pushed_at:2022-03 star:3.4k fork:1.0k LaTeX Thesis Template for Tsinghua University
+- [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) pushed_at:2022-04 star:0.3k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
+- [tuna/thuthesis](https://github.com/tuna/thuthesis) pushed_at:2022-04 star:3.4k fork:1.0k LaTeX Thesis Template for Tsinghua University
 
 ## TypeScript
 
 - [tuna/aws-ecr-proxy](https://github.com/tuna/aws-ecr-proxy) pushed_at:2020-10 star:0.0k fork:0.0k Public endpoint for AWS Elastic Container Registry
-- [tuna/opentuna](https://github.com/tuna/opentuna) pushed_at:2022-03 star:0.1k fork:0.0k TUNA on AWS
+- [tuna/opentuna](https://github.com/tuna/opentuna) pushed_at:2022-04 star:0.1k fork:0.0k TUNA on AWS
 
 
 ## License
