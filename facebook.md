@@ -61,7 +61,7 @@
 - [facebook/proxygen](https://github.com/facebook/proxygen) pushed_at:2022-04 star:7.5k fork:1.4k A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [facebook/pyre2](https://github.com/facebook/pyre2) pushed_at:2021-09 star:0.6k fork:0.2k Python wrapper for RE2
 - [facebook/redex](https://github.com/facebook/redex) pushed_at:2022-04 star:5.6k fork:0.6k A bytecode optimizer for Android apps
-- [facebook/rocksdb](https://github.com/facebook/rocksdb) pushed_at:2022-04 star:22.3k fork:5.1k A library that provides an embeddable, persistent key-value store for fast storage.
+- [facebook/rocksdb](https://github.com/facebook/rocksdb) pushed_at:2022-04 star:22.4k fork:5.1k A library that provides an embeddable, persistent key-value store for fast storage.
 - [facebook/SPARTA](https://github.com/facebook/SPARTA) pushed_at:2022-04 star:0.5k fork:0.0k SPARTA is a library that provides the basic blocks for building high-performance static code analyzers based on Abstract Interpretation.
 - [facebook/squangle](https://github.com/facebook/squangle) pushed_at:2022-04 star:0.1k fork:0.1k SQuangLe is a C++ API for accessing MySQL servers
 - [facebook/ThreatExchange](https://github.com/facebook/ThreatExchange) pushed_at:2022-04 star:0.9k fork:0.3k Share threat information with vetted partners
@@ -76,7 +76,7 @@
 
 ## HTML
 
-- [facebook/facebook360_dep](https://github.com/facebook/facebook360_dep) pushed_at:2022-03 star:0.2k fork:0.0k Facebook360 Depth Estimation Pipeline - https://facebook.github.io/facebook360_dep
+- [facebook/facebook360_dep](https://github.com/facebook/facebook360_dep) pushed_at:2022-04 star:0.2k fork:0.0k Facebook360 Depth Estimation Pipeline - https://facebook.github.io/facebook360_dep
 - [facebook/fbhaddock](https://github.com/facebook/fbhaddock) pushed_at:2020-11 star:0.0k fork:0.0k Haskell Documentation Tool
 - [facebook/jsx](https://github.com/facebook/jsx) pushed_at:2022-04 star:1.8k fork:0.1k The JSX specification is a XML-like syntax extension to ECMAScript.
 
@@ -92,7 +92,7 @@
 
 ## Java
 
-- [facebook/buck](https://github.com/facebook/buck) pushed_at:2022-04 star:8.2k fork:1.2k A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
+- [facebook/buck](https://github.com/facebook/buck) pushed_at:2022-04 star:8.3k fork:1.2k A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 - [facebook/facebook-java-business-sdk](https://github.com/facebook/facebook-java-business-sdk) pushed_at:2022-04 star:0.3k fork:0.3k Java SDK for Facebook Ads APIs
 - [facebook/fresco](https://github.com/facebook/fresco) pushed_at:2022-04 star:16.8k fork:3.8k An Android library for managing images and the memory they use.
 - [facebook/litho](https://github.com/facebook/litho) pushed_at:2022-04 star:7.4k fork:0.7k A declarative framework for building efficient UIs on Android.
@@ -101,12 +101,12 @@
 - [facebook/screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android) pushed_at:2022-03 star:1.6k fork:0.2k Generate fast deterministic screenshots during Android instrumentation tests
 - [facebook/shimmer-android](https://github.com/facebook/shimmer-android) pushed_at:2022-03 star:4.9k fork:0.7k An easy, flexible way to add a shimmering effect to any view in an Android app.
 - [facebook/SoLoader](https://github.com/facebook/SoLoader) pushed_at:2022-04 star:1.1k fork:0.2k Native code loader for Android
-- [facebook/stetho](https://github.com/facebook/stetho) pushed_at:2022-03 star:12.5k fork:1.1k Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
-- [facebook/TextLayoutBuilder](https://github.com/facebook/TextLayoutBuilder) pushed_at:2022-03 star:1.4k fork:0.1k An Android library that allows you to build text layouts more easily.
+- [facebook/stetho](https://github.com/facebook/stetho) pushed_at:2022-04 star:12.5k fork:1.1k Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
+- [facebook/TextLayoutBuilder](https://github.com/facebook/TextLayoutBuilder) pushed_at:2022-03 star:1.5k fork:0.1k An Android library that allows you to build text layouts more easily.
 
 ## JavaScript
 
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) pushed_at:2022-04 star:94.5k fork:24.3k Set up a modern web app by running one command.
+- [facebook/create-react-app](https://github.com/facebook/create-react-app) pushed_at:2022-04 star:94.6k fork:24.4k Set up a modern web app by running one command.
 - [facebook/draft-js](https://github.com/facebook/draft-js) pushed_at:2022-04 star:21.6k fork:2.6k A React framework for building text editors.
 - [facebook/facebook-nodejs-business-sdk](https://github.com/facebook/facebook-nodejs-business-sdk) pushed_at:2022-04 star:0.4k fork:0.2k Facebook Ads API using Node.js
 - [facebook/fbjs](https://github.com/facebook/fbjs) pushed_at:2022-04 star:1.9k fork:0.3k A collection of utility libraries used by other Facebook JS projects.
@@ -115,11 +115,11 @@
 - [facebook/idx](https://github.com/facebook/idx) pushed_at:2022-04 star:1.7k fork:0.1k Library for accessing arbitrarily nested, possibly nullable properties on a JavaScript object.
 - [facebook/instant-articles-builder](https://github.com/facebook/instant-articles-builder) pushed_at:2022-04 star:0.1k fork:0.1k Instant Articles Rules Editor
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) pushed_at:2022-04 star:7.3k fork:0.4k A JavaScript codemod toolkit.
-- [facebook/lexical](https://github.com/facebook/lexical) pushed_at:2022-04 star:4.2k fork:0.1k Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [facebook/lexical](https://github.com/facebook/lexical) pushed_at:2022-04 star:7.7k fork:0.2k Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [facebook/metro](https://github.com/facebook/metro) pushed_at:2022-04 star:4.4k fork:0.6k 🚇 The JavaScript bundler for React Native.
 - [facebook/prop-types](https://github.com/facebook/prop-types) pushed_at:2022-04 star:4.1k fork:0.4k Runtime type checking for React props and similar objects
-- [facebook/react](https://github.com/facebook/react) pushed_at:2022-04 star:186.3k fork:38.3k A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [facebook/react-native](https://github.com/facebook/react-native) pushed_at:2022-04 star:102.1k fork:22.0k A framework for building native applications using React
+- [facebook/react](https://github.com/facebook/react) pushed_at:2022-04 star:186.8k fork:38.4k A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react-native](https://github.com/facebook/react-native) pushed_at:2022-04 star:102.2k fork:22.0k A framework for building native applications using React
 - [facebook/react-native-deprecated-modules](https://github.com/facebook/react-native-deprecated-modules) pushed_at:2022-01 star:0.0k fork:0.0k Deprecated modules that were formerly part of React Native.
 - [facebook/react-native-website](https://github.com/facebook/react-native-website) pushed_at:2022-04 star:1.6k fork:3.9k Configuration and documentation powering the React Native website.
 - [facebook/regenerator](https://github.com/facebook/regenerator) pushed_at:2022-04 star:3.6k fork:1.2k Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
@@ -136,17 +136,17 @@
 
 - [facebook/flow](https://github.com/facebook/flow) pushed_at:2022-04 star:21.7k fork:1.8k Adds static typing to JavaScript to improve developer productivity and code quality.
 - [facebook/infer](https://github.com/facebook/infer) pushed_at:2022-04 star:13.2k fork:1.8k A static analyzer for Java, C, C++, and Objective-C
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) pushed_at:2022-04 star:5.8k fork:0.4k Performant type-checking for python.
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) pushed_at:2022-04 star:5.9k fork:0.4k Performant type-checking for python.
 
 ## Objective-C
 
 - [facebook/FLAnimatedImage](https://github.com/facebook/FLAnimatedImage) pushed_at:2015-08 star:0.2k fork:0.0k Performant animated GIF engine for iOS
-- [facebook/idb](https://github.com/facebook/idb) pushed_at:2022-04 star:3.7k fork:0.4k idb is a flexible command line interface for automating iOS simulators and devices
+- [facebook/idb](https://github.com/facebook/idb) pushed_at:2022-04 star:3.8k fork:0.4k idb is a flexible command line interface for automating iOS simulators and devices
 
 ## Objective-C++
 
 - [facebook/componentkit](https://github.com/facebook/componentkit) pushed_at:2022-03 star:5.6k fork:0.6k A React-inspired view framework for iOS.
-- [facebook/FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) pushed_at:2022-03 star:4.0k fork:0.5k iOS library to help detecting retain cycles in runtime.
+- [facebook/FBRetainCycleDetector](https://github.com/facebook/FBRetainCycleDetector) pushed_at:2022-03 star:4.1k fork:0.5k iOS library to help detecting retain cycles in runtime.
 
 ## Others
 
@@ -173,7 +173,7 @@
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) pushed_at:2022-03 star:4.7k fork:0.3k PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 - [facebook/pcicrawler](https://github.com/facebook/pcicrawler) pushed_at:2021-09 star:0.1k fork:0.0k pcicrawler is a Python based command line interface tool which can be used to display, filter and export information about PCI (Peripheral Component Interconnect) or PCIe buses and devices, as well as PCI topology.
 - [facebook/prophet](https://github.com/facebook/prophet) pushed_at:2022-04 star:14.3k fork:4.1k Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
-- [facebook/Recipes-for-AutoPkg](https://github.com/facebook/Recipes-for-AutoPkg) pushed_at:2021-12 star:0.1k fork:0.0k Collection of AutoPkg recipes authored at Facebook.
+- [facebook/Recipes-for-AutoPkg](https://github.com/facebook/Recipes-for-AutoPkg) pushed_at:2022-04 star:0.1k fork:0.0k Collection of AutoPkg recipes authored at Facebook.
 - [facebook/sapp](https://github.com/facebook/sapp) pushed_at:2022-04 star:0.1k fork:0.0k Post Processor for Facebook Static Analysis Tools.
 - [facebook/TestSlide](https://github.com/facebook/TestSlide) pushed_at:2022-04 star:0.1k fork:0.1k A Python test framework
 
@@ -191,7 +191,7 @@
 
 ## Rust
 
-- [facebook/relay](https://github.com/facebook/relay) pushed_at:2022-04 star:16.8k fork:1.7k Relay is a JavaScript framework for building data-driven React applications.
+- [facebook/relay](https://github.com/facebook/relay) pushed_at:2022-04 star:16.9k fork:1.7k Relay is a JavaScript framework for building data-driven React applications.
 
 ## Swift
 
@@ -199,9 +199,9 @@
 
 ## TypeScript
 
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) pushed_at:2022-04 star:32.3k fork:4.6k Easy to maintain open source documentation websites.
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) pushed_at:2022-04 star:32.5k fork:4.7k Easy to maintain open source documentation websites.
 - [facebook/flipper](https://github.com/facebook/flipper) pushed_at:2022-04 star:10.8k fork:0.8k A desktop debugging platform for mobile developers.
-- [facebook/jest](https://github.com/facebook/jest) pushed_at:2022-04 star:38.6k fork:5.8k Delightful JavaScript Testing.
+- [facebook/jest](https://github.com/facebook/jest) pushed_at:2022-04 star:38.7k fork:5.8k Delightful JavaScript Testing.
 - [facebook/remodel](https://github.com/facebook/remodel) pushed_at:2022-04 star:0.6k fork:0.1k Remodel is a tool that helps iOS and OS X developers avoid repetitive code by generating Objective-C models that support coding, value comparison, and immutability.
 
 

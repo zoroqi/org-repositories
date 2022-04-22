@@ -44,8 +44,8 @@
 - [riscv/riscv-aclint](https://github.com/riscv/riscv-aclint) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) pushed_at:2022-04 star:0.2k fork:0.1k Working draft of the proposed RISC-V Bitmanipulation extension
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) pushed_at:2022-01 star:0.1k fork:0.0k Working Draft of the RISC-V J Extension Specification
-- [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2022-03 star:0.1k fork:0.0k RISC-V Profiles and Platform Specification
-- [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) pushed_at:2022-03 star:0.0k fork:0.0k RISC-V Architecture Profiles
+- [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2022-04 star:0.1k fork:0.0k RISC-V Profiles and Platform Specification
+- [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) pushed_at:2022-04 star:0.0k fork:0.0k RISC-V Architecture Profiles
 - [riscv/riscv-semihosting-spec](https://github.com/riscv/riscv-semihosting-spec) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [riscv/riscv-tee](https://github.com/riscv/riscv-tee) pushed_at:2022-03 star:0.0k fork:0.0k 
 
@@ -65,14 +65,14 @@
 
 ## Python
 
-- [riscv/configuration-structure](https://github.com/riscv/configuration-structure) pushed_at:2022-03 star:0.0k fork:0.0k RISC-V Configuration Structure
+- [riscv/configuration-structure](https://github.com/riscv/configuration-structure) pushed_at:2022-04 star:0.0k fork:0.0k RISC-V Configuration Structure
 - [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) pushed_at:2022-04 star:0.1k fork:0.0k 
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) pushed_at:2022-04 star:0.3k fork:0.2k RISC-V Opcodes
 
 ## TeX
 
 - [riscv/docs-dev-guide](https://github.com/riscv/docs-dev-guide) pushed_at:2022-01 star:0.0k fork:0.0k Documentation developer guide
-- [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) pushed_at:2022-03 star:0.0k fork:0.0k 
+- [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) pushed_at:2022-04 star:0.0k fork:0.0k 
 - [riscv/riscv-count-overflow](https://github.com/riscv/riscv-count-overflow) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) pushed_at:2022-04 star:0.3k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2022-04 star:1.9k fork:0.4k RISC-V Instruction Set Manual

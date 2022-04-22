@@ -349,7 +349,7 @@
 - [microsoftgraph/msgraph-training-powerautomate.pt-BR](https://github.com/microsoftgraph/msgraph-training-powerautomate.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-powerautomate.ru-RU](https://github.com/microsoftgraph/msgraph-training-powerautomate.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-powerautomate.zh-CN](https://github.com/microsoftgraph/msgraph-training-powerautomate.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-pythondjangoapp](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp) pushed_at:2022-03 star:0.1k fork:0.1k Microsoft Graph Training Module - Build Python apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-pythondjangoapp](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp) pushed_at:2022-04 star:0.1k fork:0.1k Microsoft Graph Training Module - Build Python apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-pythondjangoapp.de-DE](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.de-DE) pushed_at:2022-04 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-pythondjangoapp.es-ES](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.es-ES) pushed_at:2022-04 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-pythondjangoapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.fr-FR) pushed_at:2022-04 star:0.0k fork:0.0k 
@@ -457,7 +457,7 @@
 
 ## Scala
 
-- [microsoftgraph/dataconnect-solutions](https://github.com/microsoftgraph/dataconnect-solutions) pushed_at:2022-03 star:0.0k fork:0.0k Microsoft Graph Data Connect enables scaled access to Microsoft 365 data with fine grained consent model, integrated with compliance and governance, to enable analytics and big data applications on the largest productivity platform.  
+- [microsoftgraph/dataconnect-solutions](https://github.com/microsoftgraph/dataconnect-solutions) pushed_at:2022-04 star:0.0k fork:0.0k Microsoft Graph Data Connect enables scaled access to Microsoft 365 data with fine grained consent model, integrated with compliance and governance, to enable analytics and big data applications on the largest productivity platform.  
 
 ## Swift
 

@@ -57,7 +57,7 @@
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) pushed_at:2021-10 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/interactive](https://github.com/twitter/interactive) pushed_at:2021-11 star:0.2k fork:0.1k Twitter interactive visualization
 - [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-10 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2022-03 star:14.1k fork:1.6k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2022-04 star:14.1k fork:1.6k Emoji for everyone. https://twemoji.twitter.com/
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2022-04 star:2.7k fork:0.4k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-10 star:0.0k fork:0.0k 
 
@@ -67,7 +67,7 @@
 - [twitter/elephant-bird](https://github.com/twitter/elephant-bird) pushed_at:2022-01 star:1.1k fork:0.4k Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
 - [twitter/GraphJet](https://github.com/twitter/GraphJet) pushed_at:2022-03 star:0.5k fork:0.1k GraphJet is a real-time graph processing library.
 - [twitter/hbc](https://github.com/twitter/hbc) pushed_at:2022-04 star:0.9k fork:0.4k A Java HTTP client for consuming Twitter's realtime Streaming API
-- [twitter/hpack](https://github.com/twitter/hpack) pushed_at:2022-01 star:0.2k fork:0.0k Header Compression for HTTP/2
+- [twitter/hpack](https://github.com/twitter/hpack) pushed_at:2022-01 star:0.2k fork:0.1k Header Compression for HTTP/2
 - [twitter/hraven](https://github.com/twitter/hraven) pushed_at:2022-01 star:0.1k fork:0.1k hRaven collects run time data and statistics from MapReduce jobs in an easily queryable format
 - [twitter/joauth](https://github.com/twitter/joauth) pushed_at:2021-08 star:0.2k fork:0.1k A Java library for authenticating HTTP Requests using OAuth
 - [twitter/netty-http2](https://github.com/twitter/netty-http2) pushed_at:2021-12 star:0.1k fork:0.1k HTTP/2 for Netty
@@ -124,14 +124,14 @@
 
 - [twitter/activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) pushed_at:2016-01 star:1.3k fork:0.1k An Active Record Reputation System for Rails
 - [twitter/thrift_client](https://github.com/twitter/thrift_client) pushed_at:2019-06 star:0.2k fork:0.1k A Thrift client wrapper that encapsulates some common failover behavior
-- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) pushed_at:2022-02 star:0.6k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
+- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) pushed_at:2022-04 star:0.6k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 - [twitter/twurl](https://github.com/twitter/twurl) pushed_at:2022-04 star:1.7k fork:0.3k OAuth-enabled curl for the Twitter API
 
 ## Rust
 
 - [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2022-03 star:1.1k fork:0.1k Systems performance telemetry
 - [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2022-02 star:0.4k fork:0.1k A tool for benchmarking RPC services
-- [twitter/rustcommon](https://github.com/twitter/rustcommon) pushed_at:2022-01 star:0.3k fork:0.0k Common Twitter Rust lib
+- [twitter/rustcommon](https://github.com/twitter/rustcommon) pushed_at:2022-04 star:0.3k fork:0.0k Common Twitter Rust lib
 
 ## SCSS
 
