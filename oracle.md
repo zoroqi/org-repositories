@@ -25,11 +25,11 @@
 - [Others](#others) (19)
 - [PHP](#php) (1)
 - [PLSQL](#plsql) (2)
-- [Python](#python) (23)
+- [Python](#python) (24)
 - [Ruby](#ruby) (8)
 - [Rust](#rust) (2)
 - [Scala](#scala) (15)
-- [Shell](#shell) (12)
+- [Shell](#shell) (11)
 - [Swift](#swift) (1)
 - [TSQL](#tsql) (1)
 - [TypeScript](#typescript) (3)
@@ -56,9 +56,9 @@
 - [oracle/libdtrace-ctf](https://github.com/oracle/libdtrace-ctf) pushed_at:2021-02 star:0.0k fork:0.0k libdtrace-ctf is the Compact Type Format library used by DTrace on Linux
 - [oracle/mod_owa](https://github.com/oracle/mod_owa) pushed_at:2022-03 star:0.0k fork:0.0k 
 - [oracle/nvm-direct](https://github.com/oracle/nvm-direct) pushed_at:2019-04 star:0.1k fork:0.0k A C library to support applications that map Non-Volatile Memory into their address space for load/store access.
-- [oracle/odpi](https://github.com/oracle/odpi) pushed_at:2022-03 star:0.2k fork:0.1k ODPI-C: Oracle Database Programming Interface for Drivers and Applications
+- [oracle/odpi](https://github.com/oracle/odpi) pushed_at:2022-04 star:0.2k fork:0.1k ODPI-C: Oracle Database Programming Interface for Drivers and Applications
 - [oracle/oracle-nosql-drivers](https://github.com/oracle/oracle-nosql-drivers) pushed_at:2016-04 star:0.0k fork:0.0k Connection drivers for Oracle NoSQL Database
-- [oracle/python-cx_Oracle](https://github.com/oracle/python-cx_Oracle) pushed_at:2022-03 star:0.8k fork:0.3k Python interface to Oracle Database conforming to the Python DB API 2.0 specification.
+- [oracle/python-cx_Oracle](https://github.com/oracle/python-cx_Oracle) pushed_at:2022-04 star:0.8k fork:0.3k Python interface to Oracle Database conforming to the Python DB API 2.0 specification.
 - [oracle/qemu](https://github.com/oracle/qemu) pushed_at:2022-04 star:0.0k fork:0.0k QEMU git Oracle repository
 - [oracle/rdma-core](https://github.com/oracle/rdma-core) pushed_at:2022-04 star:0.0k fork:0.0k RDMA core userspace libraries and daemons
 - [oracle/rds-tools](https://github.com/oracle/rds-tools) pushed_at:2021-12 star:0.0k fork:0.0k Reliable Datagram Sockets Tools -  rds-ping, rds-info, rds-stress
@@ -71,13 +71,13 @@
 - [oracle/accelerators](https://github.com/oracle/accelerators) pushed_at:2019-10 star:0.0k fork:0.1k Open Source Accelerator samples and tools for the Oracle Service Cloud (OSvC) development community
 - [oracle/coherence-dotnet-extend-client](https://github.com/oracle/coherence-dotnet-extend-client) pushed_at:2022-03 star:0.0k fork:0.0k Coherence .NET client library
 - [oracle/dotnet-db-samples](https://github.com/oracle/dotnet-db-samples) pushed_at:2022-03 star:0.3k fork:0.2k .NET code samples for Oracle database developers
-- [oracle/nosql-dotnet-sdk](https://github.com/oracle/nosql-dotnet-sdk) pushed_at:2022-03 star:0.0k fork:0.0k A .NET SDK for Oracle NoSQL Database
+- [oracle/nosql-dotnet-sdk](https://github.com/oracle/nosql-dotnet-sdk) pushed_at:2022-04 star:0.0k fork:0.0k A .NET SDK for Oracle NoSQL Database
 - [oracle/oci-dotnet-sdk](https://github.com/oracle/oci-dotnet-sdk) pushed_at:2022-04 star:0.0k fork:0.0k Oracle Cloud Infrastructure SDK for .NET
 - [oracle/oci-powershell-modules](https://github.com/oracle/oci-powershell-modules) pushed_at:2022-04 star:0.0k fork:0.0k Oracle Cloud Infrastructure Modules for PowerShell
 
 ## C++
 
-- [oracle/coherence-cpp-extend-client](https://github.com/oracle/coherence-cpp-extend-client) pushed_at:2022-01 star:0.0k fork:0.0k Coherence C++ client library
+- [oracle/coherence-cpp-extend-client](https://github.com/oracle/coherence-cpp-extend-client) pushed_at:2022-04 star:0.0k fork:0.0k Coherence C++ client library
 - [oracle/graaljs](https://github.com/oracle/graaljs) pushed_at:2022-04 star:1.2k fork:0.1k A ECMAScript 2021 compliant JavaScript implementation built on GraalVM. With polyglot language interoperability support. Running Node.js applications!
 - [oracle/graphpipe-tf-py](https://github.com/oracle/graphpipe-tf-py) pushed_at:2018-11 star:0.0k fork:0.0k GraphPipe helpers for TensorFlow
 - [oracle/infinity-cutycapt](https://github.com/oracle/infinity-cutycapt) pushed_at:2017-09 star:0.0k fork:0.0k A Qt WebKit Web Page Rendering Capture Utility
@@ -166,7 +166,7 @@
 - [oracle/cloud-asset-hcm-dataloading-using-java-samples](https://github.com/oracle/cloud-asset-hcm-dataloading-using-java-samples) pushed_at:2019-02 star:0.0k fork:0.0k HCM Data Loading Sample using JAVA
 - [oracle/cloud-asset-taleo-icstoebsintegration-samples](https://github.com/oracle/cloud-asset-taleo-icstoebsintegration-samples) pushed_at:2018-07 star:0.0k fork:0.0k This solution demonstrates integrating Taleo Enterprise Edition and EBS using Integration Cloud Service (ICS). 
 - [oracle/coherence](https://github.com/oracle/coherence) pushed_at:2022-04 star:0.4k fork:0.1k Oracle Coherence Community Edition
-- [oracle/coherence-eclipse-plugin](https://github.com/oracle/coherence-eclipse-plugin) pushed_at:2022-01 star:0.0k fork:0.0k The Coherence Eclipse Plugin provides various features to help developer productivity when working with Coherence.
+- [oracle/coherence-eclipse-plugin](https://github.com/oracle/coherence-eclipse-plugin) pushed_at:2022-04 star:0.0k fork:0.0k The Coherence Eclipse Plugin provides various features to help developer productivity when working with Coherence.
 - [oracle/coherence-helidon-sockshop-sample](https://github.com/oracle/coherence-helidon-sockshop-sample) pushed_at:2022-04 star:0.0k fork:0.0k Coherence Helidon Sockshop Demo
 - [oracle/coherence-idea-plugin](https://github.com/oracle/coherence-idea-plugin) pushed_at:2021-12 star:0.0k fork:0.0k This plugin adds features to IntelliJ to assist in development of applications using Oracle Coherence.
 - [oracle/coherence-kafka](https://github.com/oracle/coherence-kafka) pushed_at:2022-03 star:0.0k fork:0.0k Coherence Kafka Integration
@@ -211,7 +211,7 @@
 - [oracle/weblogic-image-tool](https://github.com/oracle/weblogic-image-tool) pushed_at:2022-04 star:0.0k fork:0.0k WebLogic Image Tool
 - [oracle/weblogic-kubernetes-operator](https://github.com/oracle/weblogic-kubernetes-operator) pushed_at:2022-04 star:0.2k fork:0.2k WebLogic Kubernetes Operator
 - [oracle/weblogic-logging-exporter](https://github.com/oracle/weblogic-logging-exporter) pushed_at:2022-03 star:0.0k fork:0.0k Export server logs from WebLogic Server in JSON format to Elasticsearch. 
-- [oracle/weblogic-monitoring-exporter](https://github.com/oracle/weblogic-monitoring-exporter) pushed_at:2022-03 star:0.1k fork:0.1k WebLogic Monitoring Exporter exposes metrics and monitoring data through REST APIs for consumption by other tools (e.g. Prometheus)
+- [oracle/weblogic-monitoring-exporter](https://github.com/oracle/weblogic-monitoring-exporter) pushed_at:2022-04 star:0.1k fork:0.1k WebLogic Monitoring Exporter exposes metrics and monitoring data through REST APIs for consumption by other tools (e.g. Prometheus)
 - [oracle/xstream](https://github.com/oracle/xstream) pushed_at:2021-03 star:0.0k fork:0.0k Serialize Java objects to XML and back again.
 
 ## JavaScript
@@ -236,8 +236,8 @@
 - [oracle/infinity-interview-app-shell](https://github.com/oracle/infinity-interview-app-shell) pushed_at:2016-08 star:0.0k fork:0.0k Basic Express based app for serving up a React based application
 - [oracle/ka-oda-sample](https://github.com/oracle/ka-oda-sample) pushed_at:2022-02 star:0.0k fork:0.0k Sample code to integrate Knowledge Advanced with Oracle Digital Assistant
 - [oracle/netsuite-suitecloud-sdk](https://github.com/oracle/netsuite-suitecloud-sdk) pushed_at:2022-04 star:0.1k fork:0.0k SuiteCloud Software Development Kit (SuiteCloud SDK) are the set of tools that allow you to customize accounts and create SuiteApps through SuiteCloud Development Framework (SDF).
-- [oracle/node-oracledb](https://github.com/oracle/node-oracledb) pushed_at:2022-03 star:2.0k fork:1.0k Oracle Database driver for Node.js maintained by Oracle Corp.
-- [oracle/nosql-node-sdk](https://github.com/oracle/nosql-node-sdk) pushed_at:2022-03 star:0.0k fork:0.0k Node.js SDK for Oracle NoSQL Database
+- [oracle/node-oracledb](https://github.com/oracle/node-oracledb) pushed_at:2022-04 star:2.1k fork:1.0k Oracle Database driver for Node.js maintained by Oracle Corp.
+- [oracle/nosql-node-sdk](https://github.com/oracle/nosql-node-sdk) pushed_at:2022-04 star:0.0k fork:0.0k Node.js SDK for Oracle NoSQL Database
 - [oracle/oci-designer-toolkit](https://github.com/oracle/oci-designer-toolkit) pushed_at:2022-04 star:0.2k fork:0.1k OCI designer toolKIT (OKIT) is a set of tools for enabling design, deploy and visualise OCI environments through a graphical web based interface.
 - [oracle/oci-grafana-logs](https://github.com/oracle/oci-grafana-logs) pushed_at:2022-03 star:0.0k fork:0.0k Grafana datasource plugin for OCI logs
 - [oracle/oci-grafana-metrics](https://github.com/oracle/oci-grafana-metrics) pushed_at:2022-03 star:0.1k fork:0.0k Grafana datasource plugin for OCI metrics
@@ -305,11 +305,12 @@
 - [oracle/cloud-asset-oci-msfailovercluster](https://github.com/oracle/cloud-asset-oci-msfailovercluster) pushed_at:2020-07 star:0.0k fork:0.0k Windows Failover Server Clustering on OCI
 - [oracle/compute-cloud-service-demos](https://github.com/oracle/compute-cloud-service-demos) pushed_at:2016-07 star:0.0k fork:0.0k Chef cookbooks, recipes, and scripts for deploying various application software stacks on Oracle Compute Cloud Service.
 - [oracle/db-sharding](https://github.com/oracle/db-sharding) pushed_at:2021-10 star:0.0k fork:0.0k Oracle Sharded database deployment automation and tools for use in client applications.
+- [oracle/dbt-oracle](https://github.com/oracle/dbt-oracle) pushed_at:2022-04 star:0.0k fork:0.0k dbt (data build tool) adapter for Oracle Autonomous Database
 - [oracle/graalpython](https://github.com/oracle/graalpython) pushed_at:2022-04 star:0.9k fork:0.1k A Python 3 implementation built on GraalVM
 - [oracle/graphpipe-py](https://github.com/oracle/graphpipe-py) pushed_at:2018-10 star:0.0k fork:0.0k GraphPipe for python
 - [oracle/helm-charts](https://github.com/oracle/helm-charts) pushed_at:2021-07 star:0.0k fork:0.0k Helm charts for Oracle commercial products
 - [oracle/nosql-python-sdk](https://github.com/oracle/nosql-python-sdk) pushed_at:2022-04 star:0.0k fork:0.0k Python SDK for Oracle NoSQL Database
-- [oracle/oci-ansible-collection](https://github.com/oracle/oci-ansible-collection) pushed_at:2022-04 star:0.1k fork:0.0k Oracle Cloud Infrastructure Ansible Collection provides an easy way to provision and manage resources in Oracle Cloud using Ansible.
+- [oracle/oci-ansible-collection](https://github.com/oracle/oci-ansible-collection) pushed_at:2022-04 star:0.1k fork:0.1k Oracle Cloud Infrastructure Ansible Collection provides an easy way to provision and manage resources in Oracle Cloud using Ansible.
 - [oracle/oci-ansible-modules](https://github.com/oracle/oci-ansible-modules) pushed_at:2021-05 star:0.1k fork:0.1k DEPRECATED - Please migrate to the new OCI Ansible collection (https://github.com/oracle/oci-ansible-collection).
 - [oracle/oci-cli](https://github.com/oracle/oci-cli) pushed_at:2022-04 star:0.3k fork:0.1k Command Line Interface for Oracle Cloud Infrastructure
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) pushed_at:2022-04 star:0.2k fork:0.2k Oracle Cloud Infrastructure SDK for Python
@@ -360,7 +361,6 @@
 
 - [oracle/centos2ol](https://github.com/oracle/centos2ol) pushed_at:2022-02 star:0.3k fork:0.1k Script and documentation to switch CentOS Linux to Oracle Linux
 - [oracle/cloud-asset-ics-agentkeystore-scripts](https://github.com/oracle/cloud-asset-ics-agentkeystore-scripts) pushed_at:2018-11 star:0.0k fork:0.0k 
-- [oracle/db-appdev-vm](https://github.com/oracle/db-appdev-vm) pushed_at:2018-12 star:0.1k fork:0.0k Database Application Development Virtual Machine
 - [oracle/docker-images](https://github.com/oracle/docker-images) pushed_at:2022-04 star:5.3k fork:4.9k Official source for Docker configurations, images, and examples of Dockerfiles for Oracle products and projects
 - [oracle/fmw-kubernetes](https://github.com/oracle/fmw-kubernetes) pushed_at:2022-04 star:0.0k fork:0.0k Kubernetes Deployment Scripts for Oracle Fusion Middleware products
 - [oracle/ktf](https://github.com/oracle/ktf) pushed_at:2021-10 star:0.1k fork:0.0k Kernel Test Framework - a unit test framework for the Linux kernel

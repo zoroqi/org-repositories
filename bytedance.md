@@ -32,13 +32,13 @@
 
 ## C
 
-- [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) pushed_at:2022-04 star:0.5k fork:0.1k :pushpin: shadowhook is an android inline hook library which supports thumb, arm32 and arm64.
+- [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) pushed_at:2022-04 star:0.5k fork:0.1k :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
 - [bytedance/atop](https://github.com/bytedance/atop) pushed_at:2022-03 star:0.1k fork:0.0k System and process monitor for Linux
 - [bytedance/bcc](https://github.com/bytedance/bcc) pushed_at:2021-12 star:0.0k fork:0.0k BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
-- [bytedance/bhook](https://github.com/bytedance/bhook) pushed_at:2022-03 star:1.1k fork:0.2k :pushpin: ByteHook is an android PLT hook library that supports armeabi-v7a, arm64-v8a, x86 and x86_64.
+- [bytedance/bhook](https://github.com/bytedance/bhook) pushed_at:2022-04 star:1.1k fork:0.2k :fire: ByteHook is an Android PLT hook library which supports armeabi-v7a, arm64-v8a, x86 and x86_64.
 - [bytedance/FFFramework](https://github.com/bytedance/FFFramework) pushed_at:2022-03 star:0.0k fork:0.0k Some ffmpeg-based functions
 - [bytedance/FFmpeg](https://github.com/bytedance/FFmpeg) pushed_at:2022-04 star:0.0k fork:0.0k Mirror of https://git.ffmpeg.org/ffmpeg.git
-- [bytedance/kernel](https://github.com/bytedance/kernel) pushed_at:2022-03 star:0.0k fork:0.0k ByteDance kernel for use on cloud.
+- [bytedance/kernel](https://github.com/bytedance/kernel) pushed_at:2022-04 star:0.0k fork:0.0k ByteDance kernel for use on cloud.
 - [bytedance/kvm-utils](https://github.com/bytedance/kvm-utils) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [bytedance/libiscsi](https://github.com/bytedance/libiscsi) pushed_at:2020-11 star:0.0k fork:0.0k iscsi client library and utilities
 - [bytedance/libnvmf](https://github.com/bytedance/libnvmf) pushed_at:2022-03 star:0.0k fork:0.0k NVMe over Fabrics user space initiator library.
@@ -75,13 +75,13 @@
 
 ## Dart
 
-- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) pushed_at:2022-03 star:1.5k fork:0.1k UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
+- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) pushed_at:2022-04 star:1.5k fork:0.1k UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
 - [bytedance/flutterdoc](https://github.com/bytedance/flutterdoc) pushed_at:2022-03 star:0.0k fork:0.0k Generate gallery for your Flutter widgets with one command
 - [bytedance/marquee_text](https://github.com/bytedance/marquee_text) pushed_at:2019-11 star:0.0k fork:0.0k 
 - [bytedance/pull_to_refresh](https://github.com/bytedance/pull_to_refresh) pushed_at:2020-05 star:0.1k fork:0.0k Flutter pull_to_refresh widget
 - [bytedance/rangers_applog_flutter_plugin](https://github.com/bytedance/rangers_applog_flutter_plugin) pushed_at:2022-01 star:0.0k fork:0.0k flutter plugin for RangersAppLog.
 - [bytedance/RealRichText](https://github.com/bytedance/RealRichText) pushed_at:2019-07 star:0.6k fork:0.1k  A Tricky Solution for Implementing Inline-Image-In-Text Feature in Flutter.
-- [bytedance/unpub](https://github.com/bytedance/unpub) pushed_at:2022-03 star:0.3k fork:0.1k Self-hosted private Dart Pub server for Enterprise
+- [bytedance/unpub](https://github.com/bytedance/unpub) pushed_at:2022-04 star:0.3k fork:0.1k Self-hosted private Dart Pub server for Enterprise
 
 ## Go
 
@@ -118,7 +118,7 @@
 - [bytedance/nnproxy](https://github.com/bytedance/nnproxy) pushed_at:2016-04 star:0.1k fork:0.0k Scalable NameNode RPC Proxy for HDFS Federation
 - [bytedance/okhttp](https://github.com/bytedance/okhttp) pushed_at:2016-11 star:0.0k fork:0.0k An HTTP+HTTP/2 client for Android and Java applications.
 - [bytedance/pangle-sdk-demo](https://github.com/bytedance/pangle-sdk-demo) pushed_at:2020-07 star:0.0k fork:0.0k pangle-sdk-demo and doc 
-- [bytedance/scene](https://github.com/bytedance/scene) pushed_at:2022-04 star:1.8k fork:0.2k Android Single Activity Applications framework without Fragment.
+- [bytedance/scene](https://github.com/bytedance/scene) pushed_at:2022-04 star:1.9k fork:0.2k Android Single Activity Applications framework without Fragment.
 - [bytedance/tiktok-business-android-sdk](https://github.com/bytedance/tiktok-business-android-sdk) pushed_at:2022-01 star:0.0k fork:0.0k 
 
 ## JavaScript
@@ -128,7 +128,7 @@
 - [bytedance/lottiefy](https://github.com/bytedance/lottiefy) pushed_at:2018-12 star:0.1k fork:0.0k Render Lottie to any engine
 - [bytedance/mp4.js](https://github.com/bytedance/mp4.js) pushed_at:2021-09 star:0.0k fork:0.0k converter from mp4 to fmp4
 - [bytedance/node-wifi-info](https://github.com/bytedance/node-wifi-info) pushed_at:2022-02 star:0.0k fork:0.0k node module to get information about the currently connected wifi
-- [bytedance/xgplayer](https://github.com/bytedance/xgplayer) pushed_at:2022-03 star:5.2k fork:0.6k A HTML5 video player with a parser that saves traffic
+- [bytedance/xgplayer](https://github.com/bytedance/xgplayer) pushed_at:2022-04 star:5.2k fork:0.6k A HTML5 video player with a parser that saves traffic
 - [bytedance/xgplayer-react](https://github.com/bytedance/xgplayer-react) pushed_at:2021-02 star:0.1k fork:0.0k React component for xgplayer, a HTML5 video player with a parser that saves traffic
 - [bytedance/xgplayer-vue](https://github.com/bytedance/xgplayer-vue) pushed_at:2021-07 star:0.2k fork:0.0k Vue component for xgplayer, a HTML5 video player with a parser that saves traffic
 
@@ -173,14 +173,14 @@
 
 ## Python
 
-- [bytedance/byteps](https://github.com/bytedance/byteps) pushed_at:2022-04 star:3.1k fork:0.4k A high performance and generic framework for distributed DNN training
+- [bytedance/byteps](https://github.com/bytedance/byteps) pushed_at:2022-04 star:3.1k fork:0.5k A high performance and generic framework for distributed DNN training
 - [bytedance/Collie](https://github.com/bytedance/Collie) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [bytedance/Elkeid-HUB](https://github.com/bytedance/Elkeid-HUB) pushed_at:2022-01 star:0.0k fork:0.0k Elkeid HUB is a rule/event processing engine maintained by the Elkeid Team that supports streaming/offline (not yet supported by the community edition) data processing. The original intention is to solve complex data/event processing and external system linkage requirements through standardized rules.
 - [bytedance/estimator](https://github.com/bytedance/estimator) pushed_at:2019-07 star:0.0k fork:0.0k TensorFlow Estimator
 - [bytedance/fairseq](https://github.com/bytedance/fairseq) pushed_at:2019-06 star:0.0k fork:0.0k Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [bytedance/fedlearner](https://github.com/bytedance/fedlearner) pushed_at:2022-04 star:0.8k fork:0.2k A multi-party collaborative machine learning framework
 - [bytedance/FermiNet_with_ECP](https://github.com/bytedance/FermiNet_with_ECP) pushed_at:2021-12 star:0.0k fork:0.0k An implementation combining FermiNet with effective core potential (ecp). For paper, see  https://arxiv.org/abs/2108.11661.
-- [bytedance/GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) pushed_at:2022-01 star:1.1k fork:0.1k 
+- [bytedance/GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) pushed_at:2022-04 star:1.2k fork:0.1k 
 - [bytedance/Hammer](https://github.com/bytedance/Hammer) pushed_at:2022-04 star:0.1k fork:0.0k An efficient toolkit for training deep models.
 - [bytedance/markov-molecular-sampling](https://github.com/bytedance/markov-molecular-sampling) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [bytedance/mega-ai](https://github.com/bytedance/mega-ai) pushed_at:2021-03 star:0.0k fork:0.0k Encapsulate tensorflow and other deep frameworks, support feature evaluation and model evaluation methods
@@ -201,15 +201,15 @@
 
 ## Rust
 
-- [bytedance/Elkeid](https://github.com/bytedance/Elkeid) pushed_at:2022-04 star:1.1k fork:0.3k Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture. 
+- [bytedance/Elkeid](https://github.com/bytedance/Elkeid) pushed_at:2022-04 star:1.2k fork:0.3k Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture. 
 - [bytedance/flexi_logger](https://github.com/bytedance/flexi_logger) pushed_at:2020-12 star:0.0k fork:0.0k A flexible logger for rust programs that can write to stderr or to log files
 - [bytedance/keyhouse](https://github.com/bytedance/keyhouse) pushed_at:2022-04 star:0.1k fork:0.0k Keyhouse is a skeleton of general-purpose Key Management System written in Rust.
 - [bytedance/monoio](https://github.com/bytedance/monoio) pushed_at:2022-04 star:1.9k fork:0.1k Rust async runtime based on io-uring.
-- [bytedance/spire-workload-rs](https://github.com/bytedance/spire-workload-rs) pushed_at:2022-03 star:0.0k fork:0.0k APIs to help Rust programs use Spire workload API
+- [bytedance/spire-workload-rs](https://github.com/bytedance/spire-workload-rs) pushed_at:2022-04 star:0.0k fork:0.0k APIs to help Rust programs use Spire workload API
 
 ## Swift
 
-- [bytedance/DCFrame](https://github.com/bytedance/DCFrame) pushed_at:2021-12 star:0.1k fork:0.0k DCFrame is a swift language UI combination frame, which can easily assemble complex UI.
+- [bytedance/DCFrame](https://github.com/bytedance/DCFrame) pushed_at:2022-04 star:0.1k fork:0.0k DCFrame is a powerful UI collection framework, which can easily create complex UI.
 
 ## TypeScript
 
@@ -220,13 +220,13 @@
 - [bytedance/flow-builder](https://github.com/bytedance/flow-builder) pushed_at:2022-02 star:0.1k fork:0.0k A highly customizable streaming flow builder.
 - [bytedance/graphyne](https://github.com/bytedance/graphyne) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [bytedance/guide](https://github.com/bytedance/guide) pushed_at:2022-02 star:0.5k fork:0.0k A new feature guide component by react 🧭
-- [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-12 star:5.4k fork:0.3k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+- [bytedance/IconPark](https://github.com/bytedance/IconPark) pushed_at:2021-12 star:5.5k fork:0.3k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) pushed_at:2021-10 star:0.5k fork:0.0k Make Web Components easier and powerful!😘
 - [bytedance/magic-portal](https://github.com/bytedance/magic-portal) pushed_at:2021-07 star:0.1k fork:0.0k ⚡ A blazing fast micro-component and micro-frontend solution uses web-components under the hood.
 - [bytedance/mona](https://github.com/bytedance/mona) pushed_at:2022-04 star:0.0k fork:0.0k mona is for developing merchant's app
 - [bytedance/mona-templates](https://github.com/bytedance/mona-templates) pushed_at:2022-03 star:0.0k fork:0.0k template's repo for mona-cli-init
 - [bytedance/react-model](https://github.com/bytedance/react-model) pushed_at:2021-03 star:0.2k fork:0.0k The next generation state management library for React
-- [bytedance/syllepsis](https://github.com/bytedance/syllepsis) pushed_at:2022-03 star:0.1k fork:0.0k Syllepsis is an out-of-the-box rich text editor.
+- [bytedance/syllepsis](https://github.com/bytedance/syllepsis) pushed_at:2022-04 star:0.1k fork:0.0k Syllepsis is an out-of-the-box rich text editor.
 - [bytedance/TiktokBusinessPlugin](https://github.com/bytedance/TiktokBusinessPlugin) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [bytedance/vis-tree](https://github.com/bytedance/vis-tree) pushed_at:2022-01 star:0.0k fork:0.0k Visualization of tree data
 

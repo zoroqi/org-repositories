@@ -10,14 +10,14 @@
 - [C#](#c#) (1)
 - [Dockerfile](#dockerfile) (4)
 - [Go](#go) (327)
-- [HCL](#hcl) (225)
+- [HCL](#hcl) (228)
 - [HTML](#html) (13)
 - [Hack](#hack) (1)
 - [Java](#java) (3)
 - [JavaScript](#javascript) (40)
 - [Jinja](#jinja) (2)
 - [Makefile](#makefile) (5)
-- [Others](#others) (152)
+- [Others](#others) (149)
 - [PHP](#php) (2)
 - [PLpgSQL](#plpgsql) (1)
 - [Puppet](#puppet) (2)
@@ -55,7 +55,7 @@
 - [hashicorp/aws-sdk-go-base](https://github.com/hashicorp/aws-sdk-go-base) pushed_at:2022-04 star:0.0k fork:0.0k AWS Go SDK Base Client and Helper Function Library
 - [hashicorp/awspolicyequivalence](https://github.com/hashicorp/awspolicyequivalence) pushed_at:2022-03 star:0.0k fork:0.0k A Go library for determining the equivalence of AWS IAM policies written in JSON.
 - [hashicorp/azure-sdk-for-go](https://github.com/hashicorp/azure-sdk-for-go) pushed_at:2021-02 star:0.0k fork:0.0k Microsoft Azure SDK for Go
-- [hashicorp/boundary](https://github.com/hashicorp/boundary) pushed_at:2022-04 star:3.2k fork:0.2k Boundary enables identity-based access management for dynamic infrastructure. 
+- [hashicorp/boundary](https://github.com/hashicorp/boundary) pushed_at:2022-04 star:3.3k fork:0.2k Boundary enables identity-based access management for dynamic infrastructure. 
 - [hashicorp/boundary-plugin-host-aws](https://github.com/hashicorp/boundary-plugin-host-aws) pushed_at:2022-03 star:0.0k fork:0.0k Boundary Host Plugin (AWS)
 - [hashicorp/boundary-plugin-host-azure](https://github.com/hashicorp/boundary-plugin-host-azure) pushed_at:2022-03 star:0.0k fork:0.0k Azure host catalog plugin
 - [hashicorp/broken-link-checker](https://github.com/hashicorp/broken-link-checker) pushed_at:2020-11 star:0.0k fork:0.0k 
@@ -106,7 +106,7 @@
 - [hashicorp/go-getter](https://github.com/hashicorp/go-getter) pushed_at:2022-04 star:1.3k fork:0.2k Package for downloading things from a string URL using a variety of protocols.
 - [hashicorp/go-gin-gorm-opencensus](https://github.com/hashicorp/go-gin-gorm-opencensus) pushed_at:2021-11 star:0.0k fork:0.0k OpenCensus instrumentation for Gin and Gorm
 - [hashicorp/go-grpc-net-conn](https://github.com/hashicorp/go-grpc-net-conn) pushed_at:2022-03 star:0.0k fork:0.0k Turn any gRPC stream into a Go `net.Conn` implementation.
-- [hashicorp/go-hclog](https://github.com/hashicorp/go-hclog) pushed_at:2022-03 star:0.2k fork:0.0k A common logging package for HashiCorp tools
+- [hashicorp/go-hclog](https://github.com/hashicorp/go-hclog) pushed_at:2022-04 star:0.2k fork:0.0k A common logging package for HashiCorp tools
 - [hashicorp/go-hmac-drbg](https://github.com/hashicorp/go-hmac-drbg) pushed_at:2021-09 star:0.0k fork:0.0k Deterministic random bit generator using hmac/sha256 as per NIST 800-90A
 - [hashicorp/go-immutable-radix](https://github.com/hashicorp/go-immutable-radix) pushed_at:2021-12 star:0.8k fork:0.1k An immutable radix tree implementation in Golang
 - [hashicorp/go-kms-wrapping](https://github.com/hashicorp/go-kms-wrapping) pushed_at:2022-04 star:0.0k fork:0.0k KMS wrapping libraries split out from Vault
@@ -121,7 +121,7 @@
 - [hashicorp/go-rootcerts](https://github.com/hashicorp/go-rootcerts) pushed_at:2019-12 star:0.1k fork:0.0k Functions for loading root certificates for TLS connections.
 - [hashicorp/go-safetemp](https://github.com/hashicorp/go-safetemp) pushed_at:2018-08 star:0.0k fork:0.0k Functions for working safely with temporary files and directories.
 - [hashicorp/go-secure-stdlib](https://github.com/hashicorp/go-secure-stdlib) pushed_at:2022-04 star:0.0k fork:0.0k 
-- [hashicorp/go-slug](https://github.com/hashicorp/go-slug) pushed_at:2022-03 star:0.0k fork:0.0k The slug package provides functions to create slug archives
+- [hashicorp/go-slug](https://github.com/hashicorp/go-slug) pushed_at:2022-04 star:0.0k fork:0.0k The slug package provides functions to create slug archives
 - [hashicorp/go-sockaddr](https://github.com/hashicorp/go-sockaddr) pushed_at:2022-03 star:0.2k fork:0.0k IP Address/UNIX Socket convenience functions for Go
 - [hashicorp/go-syslog](https://github.com/hashicorp/go-syslog) pushed_at:2019-01 star:0.1k fork:0.0k Golang syslog wrapper, cross-compile friendly
 - [hashicorp/go-terraform-address](https://github.com/hashicorp/go-terraform-address) pushed_at:2021-05 star:0.0k fork:0.0k Library for parsing tf addresses
@@ -180,7 +180,7 @@
 - [hashicorp/packer-plugin-alicloud](https://github.com/hashicorp/packer-plugin-alicloud) pushed_at:2022-03 star:0.0k fork:0.0k Packer plugin for Alicloud Image Builder
 - [hashicorp/packer-plugin-amazon](https://github.com/hashicorp/packer-plugin-amazon) pushed_at:2022-04 star:0.0k fork:0.0k Packer plugin for Amazon AMI Builder
 - [hashicorp/packer-plugin-ansible](https://github.com/hashicorp/packer-plugin-ansible) pushed_at:2022-03 star:0.0k fork:0.0k Packer plugin for Ansible Provisioner
-- [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure) pushed_at:2022-03 star:0.0k fork:0.0k Packer plugin for Azure Virtual Machine Image Builders
+- [hashicorp/packer-plugin-azure](https://github.com/hashicorp/packer-plugin-azure) pushed_at:2022-04 star:0.0k fork:0.0k Packer plugin for Azure Virtual Machine Image Builders
 - [hashicorp/packer-plugin-chef](https://github.com/hashicorp/packer-plugin-chef) pushed_at:2021-11 star:0.0k fork:0.0k This Packer provisioner is no longer being maintained and has been archived. Users are encouraged to use the shell or shell-local provisioner to run the provisioning tools made available by this plugin. If interested in maintaining this plugin please reach out to us at packer@hashicorp.com. 
 - [hashicorp/packer-plugin-cloudstack](https://github.com/hashicorp/packer-plugin-cloudstack) pushed_at:2022-03 star:0.0k fork:0.0k packer plugin for CloudStack Builder
 - [hashicorp/packer-plugin-converge](https://github.com/hashicorp/packer-plugin-converge) pushed_at:2021-11 star:0.0k fork:0.0k This Packer provisioner has been archived due to it no longer being maintained. Users are encouraged to use the shell or shell-local provisioner to run the provisioning tools made available by this plugin. If interested in maintaining this plugin please reach out to us at packer@hashicorp.com. 
@@ -189,7 +189,7 @@
 - [hashicorp/packer-plugin-googlecompute](https://github.com/hashicorp/packer-plugin-googlecompute) pushed_at:2022-03 star:0.0k fork:0.0k Packer plugin for Google Compute Builder
 - [hashicorp/packer-plugin-hashicups](https://github.com/hashicorp/packer-plugin-hashicups) pushed_at:2022-02 star:0.0k fork:0.0k Packer plugin for Hashicups demo app
 - [hashicorp/packer-plugin-hcloud](https://github.com/hashicorp/packer-plugin-hcloud) pushed_at:2022-03 star:0.0k fork:0.0k Packer plugin for Hetzner Cloud Builder
-- [hashicorp/packer-plugin-hyperone](https://github.com/hashicorp/packer-plugin-hyperone) pushed_at:2022-03 star:0.0k fork:0.0k Packer plugin for HyperOne Builder
+- [hashicorp/packer-plugin-hyperone](https://github.com/hashicorp/packer-plugin-hyperone) pushed_at:2022-04 star:0.0k fork:0.0k Packer plugin for HyperOne Builder
 - [hashicorp/packer-plugin-hyperv](https://github.com/hashicorp/packer-plugin-hyperv) pushed_at:2022-03 star:0.0k fork:0.0k Packer plugin for Hyperv Builder
 - [hashicorp/packer-plugin-inspec](https://github.com/hashicorp/packer-plugin-inspec) pushed_at:2021-11 star:0.0k fork:0.0k This Packer provisioner has been archived due to it no longer being maintained. Users are encouraged to use the shell or shell-local provisioner to run the provisioning tools made available by this plugin. If interested in maintaining this plugin please reach out to us at packer@hashicorp.com. 
 - [hashicorp/packer-plugin-jdcloud](https://github.com/hashicorp/packer-plugin-jdcloud) pushed_at:2022-03 star:0.0k fork:0.0k Packer plugin for JDCloud Image Builder
@@ -207,7 +207,7 @@
 - [hashicorp/packer-plugin-qemu](https://github.com/hashicorp/packer-plugin-qemu) pushed_at:2022-04 star:0.0k fork:0.0k Packer plugin for QEMU Builder
 - [hashicorp/packer-plugin-salt](https://github.com/hashicorp/packer-plugin-salt) pushed_at:2021-11 star:0.0k fork:0.0k This Packer provisioner has been archived due to it no longer being maintained. Users are encouraged to use the shell or shell-local provisioner to run the provisioning tools made available by this plugin. If interested in maintaining this plugin please reach out to us at packer@hashicorp.com. 
 - [hashicorp/packer-plugin-scaffolding](https://github.com/hashicorp/packer-plugin-scaffolding) pushed_at:2022-03 star:0.0k fork:0.0k Quick start repository for creating a Packer plugin.
-- [hashicorp/packer-plugin-sdk](https://github.com/hashicorp/packer-plugin-sdk) pushed_at:2022-03 star:0.0k fork:0.0k  Packer Plugin SDK enables building Packer plugins (builders, provisioners, or post-processors) to manage any service providers or custom in-house solutions 
+- [hashicorp/packer-plugin-sdk](https://github.com/hashicorp/packer-plugin-sdk) pushed_at:2022-04 star:0.0k fork:0.0k  Packer Plugin SDK enables building Packer plugins (builders, provisioners, or post-processors) to manage any service providers or custom in-house solutions 
 - [hashicorp/packer-plugin-tencentcloud](https://github.com/hashicorp/packer-plugin-tencentcloud) pushed_at:2022-03 star:0.0k fork:0.0k Packer plugin for TencentCloud Image Builder
 - [hashicorp/packer-plugin-triton](https://github.com/hashicorp/packer-plugin-triton) pushed_at:2022-03 star:0.0k fork:0.0k Packer plugin for Triton Builder
 - [hashicorp/packer-plugin-ucloud](https://github.com/hashicorp/packer-plugin-ucloud) pushed_at:2022-03 star:0.0k fork:0.0k Packer plugin for UCloud Image Builder
@@ -230,9 +230,9 @@
 - [hashicorp/schedbench](https://github.com/hashicorp/schedbench) pushed_at:2016-03 star:0.0k fork:0.0k A scheduler performance benchmarking framework
 - [hashicorp/sentinel-sdk](https://github.com/hashicorp/sentinel-sdk) pushed_at:2022-03 star:0.0k fork:0.0k This SDK allows developers to extend Sentinel to source external information for use in their policies.
 - [hashicorp/serf](https://github.com/hashicorp/serf) pushed_at:2022-04 star:5.4k fork:0.6k Service orchestration and management tool.
-- [hashicorp/terraform](https://github.com/hashicorp/terraform) pushed_at:2022-04 star:32.1k fork:7.5k Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
+- [hashicorp/terraform](https://github.com/hashicorp/terraform) pushed_at:2022-04 star:32.2k fork:7.5k Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 - [hashicorp/terraform-cdk-go](https://github.com/hashicorp/terraform-cdk-go) pushed_at:2022-04 star:0.0k fork:0.0k CDK for Terraform bindings for Go
-- [hashicorp/terraform-config-inspect](https://github.com/hashicorp/terraform-config-inspect) pushed_at:2022-03 star:0.2k fork:0.0k A helper library for shallow inspection of Terraform configurations
+- [hashicorp/terraform-config-inspect](https://github.com/hashicorp/terraform-config-inspect) pushed_at:2022-04 star:0.2k fork:0.0k A helper library for shallow inspection of Terraform configurations
 - [hashicorp/terraform-exec](https://github.com/hashicorp/terraform-exec) pushed_at:2022-04 star:0.3k fork:0.1k Terraform CLI commands via Go.
 - [hashicorp/terraform-json](https://github.com/hashicorp/terraform-json) pushed_at:2022-03 star:0.1k fork:0.0k Helper types for the Terraform external data representation
 - [hashicorp/terraform-k8s](https://github.com/hashicorp/terraform-k8s) pushed_at:2022-04 star:0.3k fork:0.0k Terraform Cloud Operator for Kubernetes
@@ -250,10 +250,10 @@
 - [hashicorp/terraform-provider-archive](https://github.com/hashicorp/terraform-provider-archive) pushed_at:2022-04 star:0.1k fork:0.0k Terraform archive provider
 - [hashicorp/terraform-provider-arukas](https://github.com/hashicorp/terraform-provider-arukas) pushed_at:2020-12 star:0.0k fork:0.0k This Terraform provider is archived per our provider archiving process: https://terraform.io/docs/internals/archiving.html
 - [hashicorp/terraform-provider-auth0](https://github.com/hashicorp/terraform-provider-auth0) pushed_at:2020-08 star:0.0k fork:0.0k Please see https://github.com/alexkappa/terraform-provider-auth0
-- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) pushed_at:2022-04 star:7.1k fork:6.5k Terraform AWS provider
+- [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) pushed_at:2022-04 star:7.2k fork:6.5k Terraform AWS provider
 - [hashicorp/terraform-provider-azure-classic](https://github.com/hashicorp/terraform-provider-azure-classic) pushed_at:2018-10 star:0.0k fork:0.0k Terraform Azure Classic (Service Management) provider
 - [hashicorp/terraform-provider-azuread](https://github.com/hashicorp/terraform-provider-azuread) pushed_at:2022-04 star:0.3k fork:0.2k Terraform provider for Azure Active Directory
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) pushed_at:2022-04 star:3.3k fork:3.2k Terraform provider for Azure Resource Manager
+- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) pushed_at:2022-04 star:3.3k fork:3.3k Terraform provider for Azure Resource Manager
 - [hashicorp/terraform-provider-azurestack](https://github.com/hashicorp/terraform-provider-azurestack) pushed_at:2022-04 star:0.0k fork:0.0k Terraform provider for Azure Stack
 - [hashicorp/terraform-provider-bitbucket](https://github.com/hashicorp/terraform-provider-bitbucket) pushed_at:2020-12 star:0.0k fork:0.1k This Terraform provider is archived per our provider archiving process: https://terraform.io/docs/internals/archiving.html
 - [hashicorp/terraform-provider-boundary](https://github.com/hashicorp/terraform-provider-boundary) pushed_at:2022-04 star:0.1k fork:0.0k Manage Boundary's identity-based access controls for resources provisioned with Terraform. This provider is maintained internally by the HashiCorp Boundary team.
@@ -274,7 +274,7 @@
 - [hashicorp/terraform-provider-external](https://github.com/hashicorp/terraform-provider-external) pushed_at:2022-04 star:0.1k fork:0.0k A special provider that exists to provide an interface between Terraform and external programs – useful for integrating Terraform with a system for which a first-class provider does not exist.
 - [hashicorp/terraform-provider-fakewebservices](https://github.com/hashicorp/terraform-provider-fakewebservices) pushed_at:2022-04 star:0.0k fork:0.0k 
 - [hashicorp/terraform-provider-gitlab](https://github.com/hashicorp/terraform-provider-gitlab) pushed_at:2020-08 star:0.0k fork:0.0k This has moved to https://github.com/gitlabhq/terraform-provider-gitlab
-- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) pushed_at:2022-04 star:1.6k fork:1.3k Terraform Google Cloud Platform provider
+- [hashicorp/terraform-provider-google](https://github.com/hashicorp/terraform-provider-google) pushed_at:2022-04 star:1.7k fork:1.3k Terraform Google Cloud Platform provider
 - [hashicorp/terraform-provider-google-beta](https://github.com/hashicorp/terraform-provider-google-beta) pushed_at:2022-04 star:0.2k fork:0.2k Terraform Google Cloud Platform Beta provider
 - [hashicorp/terraform-provider-googleworkspace](https://github.com/hashicorp/terraform-provider-googleworkspace) pushed_at:2022-04 star:0.1k fork:0.0k Terraform Provider for Google Workspace
 - [hashicorp/terraform-provider-hashicups](https://github.com/hashicorp/terraform-provider-hashicups) pushed_at:2022-04 star:0.1k fork:0.1k Terraform provider for Hashicups demo app
@@ -290,7 +290,7 @@
 - [hashicorp/terraform-provider-infoblox](https://github.com/hashicorp/terraform-provider-infoblox) pushed_at:2020-12 star:0.0k fork:0.0k This provider has moved to https://github.com/infobloxopen/terraform-provider-infoblox
 - [hashicorp/terraform-provider-jdcloud](https://github.com/hashicorp/terraform-provider-jdcloud) pushed_at:2020-12 star:0.0k fork:0.0k Terraform JDcloud provider. Please note: This Terraform provider is archived per our provider archiving process: https://terraform.io/docs/internals/archiving.html
 - [hashicorp/terraform-provider-ksyun](https://github.com/hashicorp/terraform-provider-ksyun) pushed_at:2020-12 star:0.0k fork:0.0k This provider has moved to https://github.com/kingsoftcloud/terraform-provider-ksyun
-- [hashicorp/terraform-provider-kubernetes](https://github.com/hashicorp/terraform-provider-kubernetes) pushed_at:2022-04 star:1.2k fork:0.7k Terraform Kubernetes provider
+- [hashicorp/terraform-provider-kubernetes](https://github.com/hashicorp/terraform-provider-kubernetes) pushed_at:2022-04 star:1.2k fork:0.8k Terraform Kubernetes provider
 - [hashicorp/terraform-provider-kubernetes-alpha](https://github.com/hashicorp/terraform-provider-kubernetes-alpha) pushed_at:2021-08 star:0.5k fork:0.1k A Terraform provider for Kubernetes that uses dynamic resource types and server-side apply. Supports all Kubernetes resources.
 - [hashicorp/terraform-provider-lacework](https://github.com/hashicorp/terraform-provider-lacework) pushed_at:2020-09 star:0.0k fork:0.0k Moved to https://github.com/lacework/terraform-provider-lacework
 - [hashicorp/terraform-provider-librato](https://github.com/hashicorp/terraform-provider-librato) pushed_at:2020-12 star:0.0k fork:0.0k Terraform Librato provider. Please note: This Terraform provider is archived per our provider archiving process: https://terraform.io/docs/internals/archiving.html
@@ -328,14 +328,14 @@
 - [hashicorp/terraform-provider-vault](https://github.com/hashicorp/terraform-provider-vault) pushed_at:2022-04 star:0.3k fork:0.4k Terraform Vault provider
 - [hashicorp/terraform-provider-vsphere](https://github.com/hashicorp/terraform-provider-vsphere) pushed_at:2022-04 star:0.5k fork:0.4k Terraform VMware vSphere provider
 - [hashicorp/terraform-provider-vthunder](https://github.com/hashicorp/terraform-provider-vthunder) pushed_at:2020-09 star:0.0k fork:0.0k This has moved to https://github.com/a10networks/terraform-provider-vthunder
-- [hashicorp/terraform-registry-address](https://github.com/hashicorp/terraform-registry-address) pushed_at:2022-01 star:0.0k fork:0.0k Library to represent, compare and parse Terraform Registry address
+- [hashicorp/terraform-registry-address](https://github.com/hashicorp/terraform-registry-address) pushed_at:2022-04 star:0.0k fork:0.0k Library to represent, compare and parse Terraform Registry address
 - [hashicorp/terraform-schema](https://github.com/hashicorp/terraform-schema) pushed_at:2022-04 star:0.0k fork:0.0k This library helps assembling a complete schema for decoding Terraform config
 - [hashicorp/terraform-svchost](https://github.com/hashicorp/terraform-svchost) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [hashicorp/tf-sdk-migrator](https://github.com/hashicorp/tf-sdk-migrator) pushed_at:2022-03 star:0.0k fork:0.0k CLI tool to migrate Terraform providers to the new plugin SDK
 - [hashicorp/tfc-policy-sets-migration](https://github.com/hashicorp/tfc-policy-sets-migration) pushed_at:2019-07 star:0.0k fork:0.0k Policy set migration utility for Terraform Cloud
 - [hashicorp/uuid](https://github.com/hashicorp/uuid) pushed_at:2020-10 star:0.0k fork:0.0k Deprecated, please use github.com/hashicorp/go-uuid instead
 - [hashicorp/vagrant-vmware-desktop](https://github.com/hashicorp/vagrant-vmware-desktop) pushed_at:2021-11 star:0.2k fork:0.0k Official provider for VMware desktop products: Fusion, Player, and Workstation.
-- [hashicorp/vault](https://github.com/hashicorp/vault) pushed_at:2022-04 star:23.9k fork:3.3k A tool for secrets management, encryption as a service, and privileged access management
+- [hashicorp/vault](https://github.com/hashicorp/vault) pushed_at:2022-04 star:24.0k fork:3.3k A tool for secrets management, encryption as a service, and privileged access management
 - [hashicorp/vault-csi-provider](https://github.com/hashicorp/vault-csi-provider) pushed_at:2022-03 star:0.2k fork:0.0k HashiCorp Vault Provider for Secret Store CSI Driver
 - [hashicorp/vault-demo-server](https://github.com/hashicorp/vault-demo-server) pushed_at:2018-12 star:0.0k fork:0.0k The server for the Vault demo that servers vaultproject.io
 - [hashicorp/vault-k8s](https://github.com/hashicorp/vault-k8s) pushed_at:2022-04 star:0.6k fork:0.1k First-class support for Vault and Kubernetes.
@@ -345,12 +345,12 @@
 - [hashicorp/vault-plugin-auth-centrify](https://github.com/hashicorp/vault-plugin-auth-centrify) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [hashicorp/vault-plugin-auth-cf](https://github.com/hashicorp/vault-plugin-auth-cf) pushed_at:2022-02 star:0.0k fork:0.0k A Vault plugin for authenticating using Cloud Foundry's identity certificates.
 - [hashicorp/vault-plugin-auth-gcp](https://github.com/hashicorp/vault-plugin-auth-gcp) pushed_at:2022-04 star:0.0k fork:0.0k GCP Authentication Plugin for Vault
-- [hashicorp/vault-plugin-auth-jwt](https://github.com/hashicorp/vault-plugin-auth-jwt) pushed_at:2022-03 star:0.1k fork:0.0k A Vault plugin to allow authentication via JWT (and OIDC) tokens
-- [hashicorp/vault-plugin-auth-kerberos](https://github.com/hashicorp/vault-plugin-auth-kerberos) pushed_at:2022-02 star:0.0k fork:0.0k A plugin for HashiCorp Vault enabling Kerberos authentication.
+- [hashicorp/vault-plugin-auth-jwt](https://github.com/hashicorp/vault-plugin-auth-jwt) pushed_at:2022-04 star:0.1k fork:0.0k A Vault plugin to allow authentication via JWT (and OIDC) tokens
+- [hashicorp/vault-plugin-auth-kerberos](https://github.com/hashicorp/vault-plugin-auth-kerberos) pushed_at:2022-04 star:0.0k fork:0.0k A plugin for HashiCorp Vault enabling Kerberos authentication.
 - [hashicorp/vault-plugin-auth-kubernetes](https://github.com/hashicorp/vault-plugin-auth-kubernetes) pushed_at:2022-04 star:0.2k fork:0.0k Vault authentication plugin for Kubernetes Service Accounts
 - [hashicorp/vault-plugin-auth-oci](https://github.com/hashicorp/vault-plugin-auth-oci) pushed_at:2022-02 star:0.0k fork:0.0k OCI auth plugin for Vault
 - [hashicorp/vault-plugin-database-couchbase](https://github.com/hashicorp/vault-plugin-database-couchbase) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [hashicorp/vault-plugin-database-elasticsearch](https://github.com/hashicorp/vault-plugin-database-elasticsearch) pushed_at:2022-02 star:0.0k fork:0.0k Provides short-lived credentials for Elasticsearch that are unique to each user or application.
+- [hashicorp/vault-plugin-database-elasticsearch](https://github.com/hashicorp/vault-plugin-database-elasticsearch) pushed_at:2022-04 star:0.0k fork:0.0k Provides short-lived credentials for Elasticsearch that are unique to each user or application.
 - [hashicorp/vault-plugin-database-mongodbatlas](https://github.com/hashicorp/vault-plugin-database-mongodbatlas) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [hashicorp/vault-plugin-database-oracle](https://github.com/hashicorp/vault-plugin-database-oracle) pushed_at:2022-03 star:0.0k fork:0.0k 
 - [hashicorp/vault-plugin-database-snowflake](https://github.com/hashicorp/vault-plugin-database-snowflake) pushed_at:2022-04 star:0.0k fork:0.0k 
@@ -358,7 +358,7 @@
 - [hashicorp/vault-plugin-secrets-ad](https://github.com/hashicorp/vault-plugin-secrets-ad) pushed_at:2022-04 star:0.0k fork:0.0k Active Directory (AD) Secrets Plugin for Vault 
 - [hashicorp/vault-plugin-secrets-alicloud](https://github.com/hashicorp/vault-plugin-secrets-alicloud) pushed_at:2022-02 star:0.0k fork:0.0k Dynamic secrets for Alibaba Cloud.
 - [hashicorp/vault-plugin-secrets-azure](https://github.com/hashicorp/vault-plugin-secrets-azure) pushed_at:2022-04 star:0.0k fork:0.0k Vault Azure Secrets plugin
-- [hashicorp/vault-plugin-secrets-gcp](https://github.com/hashicorp/vault-plugin-secrets-gcp) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [hashicorp/vault-plugin-secrets-gcp](https://github.com/hashicorp/vault-plugin-secrets-gcp) pushed_at:2022-04 star:0.0k fork:0.0k 
 - [hashicorp/vault-plugin-secrets-gcpkms](https://github.com/hashicorp/vault-plugin-secrets-gcpkms) pushed_at:2022-02 star:0.0k fork:0.0k Manage, encrypt, decrypt, sign, and verify data with @GoogleCloudPlatform KMS and @HashiCorp Vault
 - [hashicorp/vault-plugin-secrets-kv](https://github.com/hashicorp/vault-plugin-secrets-kv) pushed_at:2022-04 star:0.0k fork:0.0k 
 - [hashicorp/vault-plugin-secrets-mongodbatlas](https://github.com/hashicorp/vault-plugin-secrets-mongodbatlas) pushed_at:2022-02 star:0.0k fork:0.0k 
@@ -381,7 +381,7 @@
 - [hashicorp/aviatrix-terraform-consul-webinar](https://github.com/hashicorp/aviatrix-terraform-consul-webinar) pushed_at:2020-09 star:0.0k fork:0.0k 
 - [hashicorp/azure-consul](https://github.com/hashicorp/azure-consul) pushed_at:2019-10 star:0.0k fork:0.0k Single and Multi-Region Deployment of Consul Clusters on Azure
 - [hashicorp/best-practices](https://github.com/hashicorp/best-practices) pushed_at:2018-12 star:1.5k fork:0.4k 
-- [hashicorp/boundary-reference-architecture](https://github.com/hashicorp/boundary-reference-architecture) pushed_at:2022-04 star:0.1k fork:0.1k Example reference architecture for a high availability Boundary deployment on AWS.
+- [hashicorp/boundary-reference-architecture](https://github.com/hashicorp/boundary-reference-architecture) pushed_at:2022-04 star:0.2k fork:0.1k Example reference architecture for a high availability Boundary deployment on AWS.
 - [hashicorp/c1m](https://github.com/hashicorp/c1m) pushed_at:2018-12 star:0.2k fork:0.0k Nomad, Terraform, and Packer configurations for the Million Container Challenge (C1M)
 - [hashicorp/c2m](https://github.com/hashicorp/c2m) pushed_at:2020-12 star:0.0k fork:0.0k Nomad, Terraform, and Packer configurations for the 2 Million Container Challenge (C2M)
 - [hashicorp/consul-demo-tracing](https://github.com/hashicorp/consul-demo-tracing) pushed_at:2019-10 star:0.0k fork:0.0k Examples using Distributed tracing with Datadog and Jaeger for Consul Service Mesh
@@ -409,8 +409,8 @@
 - [hashicorp/fse-tf-boundary-config](https://github.com/hashicorp/fse-tf-boundary-config) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [hashicorp/fse-tf-boundary-infra](https://github.com/hashicorp/fse-tf-boundary-infra) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [hashicorp/getting-started-terraform-consul-provider](https://github.com/hashicorp/getting-started-terraform-consul-provider) pushed_at:2022-02 star:0.0k fork:0.0k Getting started with Terraform Consul Provider (bootstrapping workspace with consul dc, main.tf)
-- [hashicorp/hashicat-aws](https://github.com/hashicorp/hashicat-aws) pushed_at:2022-03 star:0.0k fork:0.9k 
-- [hashicorp/hashicat-azure](https://github.com/hashicorp/hashicat-azure) pushed_at:2022-04 star:0.1k fork:1.3k Sample app for Terraform workshops
+- [hashicorp/hashicat-aws](https://github.com/hashicorp/hashicat-aws) pushed_at:2022-04 star:0.0k fork:1.0k 
+- [hashicorp/hashicat-azure](https://github.com/hashicorp/hashicat-azure) pushed_at:2022-04 star:0.1k fork:1.4k Sample app for Terraform workshops
 - [hashicorp/hashicat-gcp](https://github.com/hashicorp/hashicat-gcp) pushed_at:2022-04 star:0.0k fork:0.8k HashiCat Meow World Terraform code for GCP
 - [hashicorp/hcdiag-ext](https://github.com/hashicorp/hcdiag-ext) pushed_at:2022-02 star:0.0k fork:0.0k Extensions for hcdiag
 - [hashicorp/is-tfe-logging](https://github.com/hashicorp/is-tfe-logging) pushed_at:2020-07 star:0.0k fork:0.0k Elasticsearch and Kibana demo for consuming and parsing TFE logs. NOTE: This is NOT for production use!
@@ -419,6 +419,7 @@
 - [hashicorp/learn-boundary-azure-sql-database](https://github.com/hashicorp/learn-boundary-azure-sql-database) pushed_at:2022-03 star:0.0k fork:0.0k Lab environment to accompany the Boundary with Azure SQL Database Learn tutorial.
 - [hashicorp/learn-boundary-cloud-host-catalogs](https://github.com/hashicorp/learn-boundary-cloud-host-catalogs) pushed_at:2022-01 star:0.0k fork:0.0k Lab environment to accompany the Boundary Dynamic Host Catalogs Learn tutorial.
 - [hashicorp/learn-boundary-event-logging](https://github.com/hashicorp/learn-boundary-event-logging) pushed_at:2021-10 star:0.0k fork:0.0k Lab environment to accompany Boundary event logging Learn tutorial.
+- [hashicorp/learn-boundary-prometheus-metrics](https://github.com/hashicorp/learn-boundary-prometheus-metrics) pushed_at:2022-04 star:0.0k fork:0.0k Lab environment to accompany Boundary prometheus metrics Learn tutorial.
 - [hashicorp/learn-boundary-target-aware-workers](https://github.com/hashicorp/learn-boundary-target-aware-workers) pushed_at:2022-03 star:0.0k fork:0.0k Lab environment to accompany Boundary target-aware workers Learn tutorial.
 - [hashicorp/learn-boundary-upgrade](https://github.com/hashicorp/learn-boundary-upgrade) pushed_at:2021-03 star:0.0k fork:0.0k 
 - [hashicorp/learn-consul-hcs-on-azure](https://github.com/hashicorp/learn-consul-hcs-on-azure) pushed_at:2020-09 star:0.0k fork:0.0k Take home lab for the Managed Consul digital workshop
@@ -427,6 +428,7 @@
 - [hashicorp/learn-hcp-consul](https://github.com/hashicorp/learn-hcp-consul) pushed_at:2022-03 star:0.0k fork:0.0k 
 - [hashicorp/learn-hcp-packer-get-started](https://github.com/hashicorp/learn-hcp-packer-get-started) pushed_at:2022-04 star:0.0k fork:0.0k 
 - [hashicorp/learn-hcp-packer-run-tasks](https://github.com/hashicorp/learn-hcp-packer-run-tasks) pushed_at:2022-03 star:0.0k fork:0.0k 
+- [hashicorp/learn-hcp-vault-replication-terraform](https://github.com/hashicorp/learn-hcp-vault-replication-terraform) pushed_at:2022-04 star:0.0k fork:0.0k Vault tutorial assets used to for the Deploy HCP Vault Performance Replication with Terraform tutorial.
 - [hashicorp/learn-nomad-external-alb](https://github.com/hashicorp/learn-nomad-external-alb) pushed_at:2022-03 star:0.0k fork:0.0k Companion repo for the HashiCorp Learn guide: Manage External Traffic with Application Load Balancing
 - [hashicorp/learn-nomad-jobspec](https://github.com/hashicorp/learn-nomad-jobspec) pushed_at:2021-05 star:0.0k fork:0.0k Content to support the Nomad Job Specification tutorial collection
 - [hashicorp/learn-nomad-migrate-java](https://github.com/hashicorp/learn-nomad-migrate-java) pushed_at:2021-04 star:0.0k fork:0.0k This is a companion repository containing resources used in the Migrate a Java Application HashiCorp Learn tutorial.
@@ -434,7 +436,7 @@
 - [hashicorp/learn-packer-getting-started](https://github.com/hashicorp/learn-packer-getting-started) pushed_at:2021-04 star:0.0k fork:0.0k Code for the Packer build tutorial at https://learn.hashicorp.com/packer
 - [hashicorp/learn-packer-hcp-golden-image](https://github.com/hashicorp/learn-packer-hcp-golden-image) pushed_at:2022-02 star:0.0k fork:0.0k Companion repo for the HashiCorp Learn guide: Build a Golden Image Pipeline with HCP Packer.
 - [hashicorp/learn-private-module-random-pet](https://github.com/hashicorp/learn-private-module-random-pet) pushed_at:2020-04 star:0.0k fork:0.0k The example module to import for the private module registry guide.
-- [hashicorp/learn-private-module-root](https://github.com/hashicorp/learn-private-module-root) pushed_at:2022-03 star:0.0k fork:0.4k 
+- [hashicorp/learn-private-module-root](https://github.com/hashicorp/learn-private-module-root) pushed_at:2022-03 star:0.0k fork:0.5k 
 - [hashicorp/learn-sentinel-policies](https://github.com/hashicorp/learn-sentinel-policies) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [hashicorp/learn-sentinel-policy-upload](https://github.com/hashicorp/learn-sentinel-policy-upload) pushed_at:2021-06 star:0.0k fork:0.1k 
 - [hashicorp/learn-sentinel-tfc](https://github.com/hashicorp/learn-sentinel-tfc) pushed_at:2021-10 star:0.0k fork:0.2k 
@@ -455,7 +457,7 @@
 - [hashicorp/learn-terraform-cloud](https://github.com/hashicorp/learn-terraform-cloud) pushed_at:2022-03 star:0.0k fork:0.0k 
 - [hashicorp/learn-terraform-cloud-agents](https://github.com/hashicorp/learn-terraform-cloud-agents) pushed_at:2021-02 star:0.0k fork:0.0k 
 - [hashicorp/learn-terraform-cloud-variable-sets](https://github.com/hashicorp/learn-terraform-cloud-variable-sets) pushed_at:2021-12 star:0.0k fork:0.0k 
-- [hashicorp/learn-terraform-console](https://github.com/hashicorp/learn-terraform-console) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [hashicorp/learn-terraform-console](https://github.com/hashicorp/learn-terraform-console) pushed_at:2022-04 star:0.0k fork:0.0k 
 - [hashicorp/learn-terraform-cost-estimation](https://github.com/hashicorp/learn-terraform-cost-estimation) pushed_at:2021-09 star:0.0k fork:0.1k 
 - [hashicorp/learn-terraform-count-foreach](https://github.com/hashicorp/learn-terraform-count-foreach) pushed_at:2021-12 star:0.0k fork:0.1k 
 - [hashicorp/learn-terraform-data-sources-app](https://github.com/hashicorp/learn-terraform-data-sources-app) pushed_at:2021-01 star:0.0k fork:0.0k 
@@ -467,7 +469,7 @@
 - [hashicorp/learn-terraform-enforce-policies](https://github.com/hashicorp/learn-terraform-enforce-policies) pushed_at:2022-03 star:0.0k fork:0.4k 
 - [hashicorp/learn-terraform-expressions](https://github.com/hashicorp/learn-terraform-expressions) pushed_at:2022-03 star:0.0k fork:0.0k 
 - [hashicorp/learn-terraform-functions](https://github.com/hashicorp/learn-terraform-functions) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [hashicorp/learn-terraform-github-actions](https://github.com/hashicorp/learn-terraform-github-actions) pushed_at:2022-04 star:0.1k fork:0.9k 
+- [hashicorp/learn-terraform-github-actions](https://github.com/hashicorp/learn-terraform-github-actions) pushed_at:2022-04 star:0.1k fork:1.0k 
 - [hashicorp/learn-terraform-github-user-teams](https://github.com/hashicorp/learn-terraform-github-user-teams) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [hashicorp/learn-terraform-helm](https://github.com/hashicorp/learn-terraform-helm) pushed_at:2021-02 star:0.0k fork:0.0k 
 - [hashicorp/learn-terraform-heroku](https://github.com/hashicorp/learn-terraform-heroku) pushed_at:2021-12 star:0.0k fork:0.0k Learn Terraform Heroku tutorial configuraiton
@@ -479,7 +481,7 @@
 - [hashicorp/learn-terraform-kubernetes-operator](https://github.com/hashicorp/learn-terraform-kubernetes-operator) pushed_at:2021-02 star:0.0k fork:0.0k 
 - [hashicorp/learn-terraform-lambda-api-gateway](https://github.com/hashicorp/learn-terraform-lambda-api-gateway) pushed_at:2022-03 star:0.0k fork:0.0k 
 - [hashicorp/learn-terraform-lifecycle-management](https://github.com/hashicorp/learn-terraform-lifecycle-management) pushed_at:2022-03 star:0.0k fork:0.0k 
-- [hashicorp/learn-terraform-locals](https://github.com/hashicorp/learn-terraform-locals) pushed_at:2021-05 star:0.0k fork:0.0k 
+- [hashicorp/learn-terraform-locals](https://github.com/hashicorp/learn-terraform-locals) pushed_at:2022-04 star:0.0k fork:0.0k 
 - [hashicorp/learn-terraform-microsoft-caf-enterprise-scale](https://github.com/hashicorp/learn-terraform-microsoft-caf-enterprise-scale) pushed_at:2021-12 star:0.0k fork:0.0k 
 - [hashicorp/learn-terraform-migrate-s3-tfc](https://github.com/hashicorp/learn-terraform-migrate-s3-tfc) pushed_at:2021-11 star:0.0k fork:0.0k Companion repository for "Migrate from Remote S3 Backend to Terraform Cloud" Learn tutorial
 - [hashicorp/learn-terraform-modules](https://github.com/hashicorp/learn-terraform-modules) pushed_at:2021-12 star:0.0k fork:0.1k Companion module to the Advanced Modules track on learn.hashicorp.com
@@ -540,7 +542,7 @@
 - [hashicorp/ptfe-migration-terraform](https://github.com/hashicorp/ptfe-migration-terraform) pushed_at:2019-10 star:0.0k fork:0.0k Terraform modules to be used for upgrading from the AMI to Installer
 - [hashicorp/rtmo-terraform](https://github.com/hashicorp/rtmo-terraform) pushed_at:2015-09 star:0.0k fork:0.0k terraform config for deploying let's chat to AWS
 - [hashicorp/sami-tf](https://github.com/hashicorp/sami-tf) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [hashicorp/sentinel-training-solution](https://github.com/hashicorp/sentinel-training-solution) pushed_at:2022-01 star:0.0k fork:0.0k Solutions for the Sentinel for Terraform workshop
+- [hashicorp/sentinel-training-solution](https://github.com/hashicorp/sentinel-training-solution) pushed_at:2022-04 star:0.0k fork:0.0k Solutions for the Sentinel for Terraform workshop
 - [hashicorp/syntax](https://github.com/hashicorp/syntax) pushed_at:2022-03 star:0.0k fork:0.0k TextMate grammars for highlighting HCL, HCL-based languages and Sentinel.
 - [hashicorp/tectonic-installer](https://github.com/hashicorp/tectonic-installer) pushed_at:2018-12 star:0.0k fork:0.0k Install a Kubernetes cluster the CoreOS Tectonic Way: HA, self-hosted, RBAC, etcd Operator, and more
 - [hashicorp/terraform-actions-demo](https://github.com/hashicorp/terraform-actions-demo) pushed_at:2019-09 star:0.0k fork:0.0k Example Terraform code to be used for the GitHub Actions demo
@@ -550,13 +552,14 @@
 - [hashicorp/terraform-aws-consul-ecs](https://github.com/hashicorp/terraform-aws-consul-ecs) pushed_at:2022-04 star:0.0k fork:0.0k Consul Service Mesh on AWS ECS (Elastic Container Service)
 - [hashicorp/terraform-aws-consul-ent-starter](https://github.com/hashicorp/terraform-aws-consul-ent-starter) pushed_at:2021-10 star:0.0k fork:0.0k A Terraform Module for provisioning an Enterprise Consul cluster in AWS as described by HashiCorp reference architecture.
 - [hashicorp/terraform-aws-consul-starter](https://github.com/hashicorp/terraform-aws-consul-starter) pushed_at:2020-11 star:0.0k fork:0.0k A Terraform module for creating an OSS Consul cluster as described by the HashiCorp reference architecture.
+- [hashicorp/terraform-aws-hashicorp-vault-eks-addon](https://github.com/hashicorp/terraform-aws-hashicorp-vault-eks-addon) pushed_at:2022-04 star:0.0k fork:0.0k HashiCorp Vault Add-on for AWS EKS
 - [hashicorp/terraform-aws-hcp-consul](https://github.com/hashicorp/terraform-aws-hcp-consul) pushed_at:2022-04 star:0.0k fork:0.0k Terraform module for HCP Consul on AWS
 - [hashicorp/terraform-aws-module-installer-acctest](https://github.com/hashicorp/terraform-aws-module-installer-acctest) pushed_at:2018-02 star:0.0k fork:0.0k A placeholder Terraform module for acceptance tests of Terraform's module installer
 - [hashicorp/terraform-aws-nomad](https://github.com/hashicorp/terraform-aws-nomad) pushed_at:2022-03 star:0.2k fork:0.2k A Terraform Module for how to run Nomad on AWS using Terraform and Packer
 - [hashicorp/terraform-aws-nomad-starter](https://github.com/hashicorp/terraform-aws-nomad-starter) pushed_at:2021-03 star:0.0k fork:0.0k Terraform Module for Provisioning Nomad on AWS
 - [hashicorp/terraform-aws-terraform-enterprise](https://github.com/hashicorp/terraform-aws-terraform-enterprise) pushed_at:2022-04 star:0.0k fork:0.1k A Terraform module for deploying Terraform Enterprise on AWS.
 - [hashicorp/terraform-aws-vault](https://github.com/hashicorp/terraform-aws-vault) pushed_at:2022-03 star:0.6k fork:0.4k A Terraform Module for how to run Vault on AWS using Terraform and Packer
-- [hashicorp/terraform-aws-vault-ent-starter](https://github.com/hashicorp/terraform-aws-vault-ent-starter) pushed_at:2021-11 star:0.0k fork:0.0k A Terraform Module for provisioning an Enterprise Vault cluster (using integrated storage) in AWS as described by HashiCorp reference architecture.
+- [hashicorp/terraform-aws-vault-ent-starter](https://github.com/hashicorp/terraform-aws-vault-ent-starter) pushed_at:2022-04 star:0.0k fork:0.0k A Terraform Module for provisioning an Enterprise Vault cluster (using integrated storage) in AWS as described by HashiCorp reference architecture.
 - [hashicorp/terraform-aws-vault-starter](https://github.com/hashicorp/terraform-aws-vault-starter) pushed_at:2022-04 star:0.1k fork:0.0k A Terraform Module for provisioning an OSS Vault cluster (using integrated storage) as described by HashiCorp reference architecture.
 - [hashicorp/terraform-aws-webapp-networking](https://github.com/hashicorp/terraform-aws-webapp-networking) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [hashicorp/terraform-azure-consul-ent-starter](https://github.com/hashicorp/terraform-azure-consul-ent-starter) pushed_at:2022-01 star:0.0k fork:0.0k A Terraform Module for provisioning an Enterprise Consul cluster in Azure as described by HashiCorp reference architecture.
@@ -592,7 +595,7 @@
 - [hashicorp/terraform-template-dir](https://github.com/hashicorp/terraform-template-dir) pushed_at:2020-07 star:0.0k fork:0.0k A template module for preparing static files and templates under a particular directory
 - [hashicorp/test-policy-set](https://github.com/hashicorp/test-policy-set) pushed_at:2021-06 star:0.0k fork:0.0k A test Sentinel policy set for use in CI pipelines
 - [hashicorp/tf-cloud-webinar](https://github.com/hashicorp/tf-cloud-webinar) pushed_at:2020-04 star:0.0k fork:0.0k Terraform Cloud Preview Webinar - August 28, 2019
-- [hashicorp/tfc-guide-example](https://github.com/hashicorp/tfc-guide-example) pushed_at:2022-03 star:0.1k fork:3.7k Example Terraform configuration
+- [hashicorp/tfc-guide-example](https://github.com/hashicorp/tfc-guide-example) pushed_at:2022-04 star:0.1k fork:3.7k Example Terraform configuration
 - [hashicorp/tfc-workshops-sentinel](https://github.com/hashicorp/tfc-workshops-sentinel) pushed_at:2022-01 star:0.0k fork:3.4k Sentinel policies for use in pre-sales workshops: https://hashicorp.github.io/workshops
 - [hashicorp/tfe-policies-example](https://github.com/hashicorp/tfe-policies-example) pushed_at:2019-07 star:0.0k fork:0.0k An example of using Sentinel policies in VCS in Terraform Enterprise
 - [hashicorp/tfe-ux-core-practitioner](https://github.com/hashicorp/tfe-ux-core-practitioner) pushed_at:2018-12 star:0.0k fork:0.0k 
@@ -608,7 +611,7 @@
 - [hashicorp/learn-go-webapp-demo](https://github.com/hashicorp/learn-go-webapp-demo) pushed_at:2020-07 star:0.0k fork:0.0k 
 - [hashicorp/learn-private-module-aws-s3](https://github.com/hashicorp/learn-private-module-aws-s3) pushed_at:2020-04 star:0.0k fork:0.0k 
 - [hashicorp/learn-private-module-aws-s3-webapp](https://github.com/hashicorp/learn-private-module-aws-s3-webapp) pushed_at:2022-03 star:0.0k fork:0.7k 
-- [hashicorp/learn-terraform-circleci](https://github.com/hashicorp/learn-terraform-circleci) pushed_at:2022-02 star:0.0k fork:0.4k Supplemental repository for Learn content on CircleCI
+- [hashicorp/learn-terraform-circleci](https://github.com/hashicorp/learn-terraform-circleci) pushed_at:2022-04 star:0.0k fork:0.4k Supplemental repository for Learn content on CircleCI
 - [hashicorp/learn-terraform-cloudflare-static-website](https://github.com/hashicorp/learn-terraform-cloudflare-static-website) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [hashicorp/learn-terraform-code-organization](https://github.com/hashicorp/learn-terraform-code-organization) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [hashicorp/learn-terraform-organize-configuration](https://github.com/hashicorp/learn-terraform-organize-configuration) pushed_at:2021-12 star:0.0k fork:0.0k Source files for a workshop about Terraform source file organization
@@ -646,7 +649,7 @@
 - [hashicorp/js-bexpr](https://github.com/hashicorp/js-bexpr) pushed_at:2021-10 star:0.0k fork:0.0k Generic boolean expression evaluation in JavaScript
 - [hashicorp/learn-consul-service-mesh](https://github.com/hashicorp/learn-consul-service-mesh) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [hashicorp/learn-terraform-cdktf-applications](https://github.com/hashicorp/learn-terraform-cdktf-applications) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [hashicorp/learn-terraform-preview-environment](https://github.com/hashicorp/learn-terraform-preview-environment) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [hashicorp/learn-terraform-preview-environment](https://github.com/hashicorp/learn-terraform-preview-environment) pushed_at:2022-04 star:0.0k fork:0.0k 
 - [hashicorp/lets-chat](https://github.com/hashicorp/lets-chat) pushed_at:2020-07 star:0.0k fork:0.0k Let's Chat repo for the Road to Modern Ops curriculum
 - [hashicorp/middleman-hashicorp](https://github.com/hashicorp/middleman-hashicorp) pushed_at:2021-11 star:0.0k fork:0.0k HashiCorp's custom middleman extensions and common bundles
 - [hashicorp/mktg-webdev-challenge](https://github.com/hashicorp/mktg-webdev-challenge) pushed_at:2022-04 star:0.0k fork:0.0k A takehome assignment for the HashiCorp Digital Marketing team. 
@@ -664,7 +667,7 @@
 - [hashicorp/setup-terraform](https://github.com/hashicorp/setup-terraform) pushed_at:2022-04 star:0.7k fork:0.1k Sets up Terraform CLI in your GitHub Actions workflow.
 - [hashicorp/structure](https://github.com/hashicorp/structure) pushed_at:2022-02 star:0.0k fork:0.0k Design system assets for building apps using Structure, HashiCorp's product design system (PDS).
 - [hashicorp/structure-icons](https://github.com/hashicorp/structure-icons) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [hashicorp/swingset](https://github.com/hashicorp/swingset) pushed_at:2022-03 star:0.1k fork:0.0k drop-in component library for next.js
+- [hashicorp/swingset](https://github.com/hashicorp/swingset) pushed_at:2022-04 star:0.1k fork:0.0k drop-in component library for next.js
 - [hashicorp/terraform-quake-azure](https://github.com/hashicorp/terraform-quake-azure) pushed_at:2021-06 star:0.0k fork:0.0k Example repo to run a Quake client and server on Azure and Azure Container Service with Terraform
 - [hashicorp/terraform-website](https://github.com/hashicorp/terraform-website) pushed_at:2022-04 star:0.1k fork:0.4k Build configuration and partial content for terraform.io
 - [hashicorp/torii](https://github.com/hashicorp/torii) pushed_at:2020-05 star:0.0k fork:0.0k A set of clean abstractions for authentication in Ember.js
@@ -699,7 +702,6 @@
 - [hashicorp/consul-foundations-metrics-1.9](https://github.com/hashicorp/consul-foundations-metrics-1.9) pushed_at:2020-07 star:0.0k fork:0.0k Just want a place to add issues
 - [hashicorp/consul-k8s-l7-obs-guide](https://github.com/hashicorp/consul-k8s-l7-obs-guide) pushed_at:2019-05 star:0.0k fork:0.0k This repo contains application and dashboard definitions for the Consul Layer 7 observability with Kubernetes guide located at learn.hashicorp.com
 - [hashicorp/consul-k8s-prometheus-grafana-hashicups-demoapp](https://github.com/hashicorp/consul-k8s-prometheus-grafana-hashicups-demoapp) pushed_at:2020-09 star:0.0k fork:0.0k This repo contains application and dashboard definitions for the Consul Layer 7 observability with Kubernetes guide located at learn.hashicorp.com
-- [hashicorp/consul-k8s-wan-fed-vault-backend](https://github.com/hashicorp/consul-k8s-wan-fed-vault-backend) pushed_at:2022-04 star:0.0k fork:0.0k This repo show how to configure Vault as the backend for two Consul-K8s deployed in a WAN Federation topology. 
 - [hashicorp/cvelist](https://github.com/hashicorp/cvelist) pushed_at:2020-12 star:0.0k fork:0.0k Forked from https://github.com/CVEProject/cvelist for the administration CVEs associated with the (pending) HashiCorp CNA.  Please see https://cve.mitre.org/cve/cna.html for more information about the CNA program and https://hashicorp.com/security for more information about HashiCorp security.
 - [hashicorp/demos](https://github.com/hashicorp/demos) pushed_at:2020-02 star:0.0k fork:0.0k 
 - [hashicorp/docker-docs](https://github.com/hashicorp/docker-docs) pushed_at:2021-11 star:0.0k fork:0.0k Documentation for Docker Official Images in docker-library
@@ -723,7 +725,6 @@
 - [hashicorp/ivy-codemirror](https://github.com/hashicorp/ivy-codemirror) pushed_at:2020-10 star:0.0k fork:0.0k An Ember component for the excellent CodeMirror editor.
 - [hashicorp/jsii-srcmak](https://github.com/hashicorp/jsii-srcmak) pushed_at:2021-10 star:0.0k fork:0.0k Generate multi-language object-oriented source code from typescript
 - [hashicorp/learn-consul-k8s-hashicups](https://github.com/hashicorp/learn-consul-k8s-hashicups) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [hashicorp/learn-hcp-vault-replication-terraform](https://github.com/hashicorp/learn-hcp-vault-replication-terraform) pushed_at:2022-04 star:0.0k fork:0.0k Vault tutorial assets used to for the Deploy HCP Vault Performance Replication with Terraform tutorial.
 - [hashicorp/learn-packer-upgrade-json-template](https://github.com/hashicorp/learn-packer-upgrade-json-template) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [hashicorp/learn-terraform-hashicups-provider](https://github.com/hashicorp/learn-terraform-hashicups-provider) pushed_at:2021-12 star:0.0k fork:0.0k Companion repo to HashiCups Learn Guide
 - [hashicorp/learn-terramino-digitalocean](https://github.com/hashicorp/learn-terramino-digitalocean) pushed_at:2021-07 star:0.0k fork:0.0k 
@@ -753,7 +754,6 @@
 - [hashicorp/setup-signore-package](https://github.com/hashicorp/setup-signore-package) pushed_at:2022-03 star:0.0k fork:0.0k testing the next iteration of setup-signore
 - [hashicorp/setup-tflint](https://github.com/hashicorp/setup-tflint) pushed_at:2021-08 star:0.0k fork:0.0k A GitHub action that installs Terraform linter TFLint
 - [hashicorp/structure-design-system](https://github.com/hashicorp/structure-design-system) pushed_at:2019-03 star:0.0k fork:0.0k Design System for HashiCorp products
-- [hashicorp/terraform-aws-hashicorp-vault-eks-addon](https://github.com/hashicorp/terraform-aws-hashicorp-vault-eks-addon) pushed_at:2022-04 star:0.0k fork:0.0k HashiCorp Vault Add-on for AWS EKS
 - [hashicorp/terraform-aws-security-group](https://github.com/hashicorp/terraform-aws-security-group) pushed_at:2020-08 star:0.0k fork:0.0k Terraform module which creates EC2-VPC security groups on AWS
 - [hashicorp/terraform-aws-vpc](https://github.com/hashicorp/terraform-aws-vpc) pushed_at:2020-10 star:0.0k fork:0.0k Terraform module which creates VPC resources on AWS
 - [hashicorp/terraform-enterprise-release-notes](https://github.com/hashicorp/terraform-enterprise-release-notes) pushed_at:2022-04 star:0.1k fork:0.0k Terraform Enterprise Release Notes
@@ -882,12 +882,12 @@
 - [hashicorp/se-terraform-vault-workshop](https://github.com/hashicorp/se-terraform-vault-workshop) pushed_at:2019-10 star:0.0k fork:0.0k Training slides, Terraform code, and instructions for trainers
 - [hashicorp/seal](https://github.com/hashicorp/seal) pushed_at:2018-06 star:0.0k fork:0.0k This is a Slack bot that publishes a team's pull requests to their Slack Channel, once provided the organisation name, the team members' github names, and a list of repos to follow. It is my first 20% project at GDS.
 - [hashicorp/slack-notifier](https://github.com/hashicorp/slack-notifier) pushed_at:2019-08 star:0.0k fork:0.0k A simple wrapper for posting to slack channels
-- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) pushed_at:2022-04 star:23.6k fork:4.2k Vagrant is a tool for building and distributing development environments.
+- [hashicorp/vagrant](https://github.com/hashicorp/vagrant) pushed_at:2022-04 star:23.7k fork:4.2k Vagrant is a tool for building and distributing development environments.
 - [hashicorp/vagrant-share](https://github.com/hashicorp/vagrant-share) pushed_at:2021-06 star:0.0k fork:0.0k Vagrant Share allows you to share your Vagrant environment with anyone in the world
-- [hashicorp/vagrant-spec](https://github.com/hashicorp/vagrant-spec) pushed_at:2022-03 star:0.1k fork:0.0k Tool and library for testing Vagrant plugins.
+- [hashicorp/vagrant-spec](https://github.com/hashicorp/vagrant-spec) pushed_at:2022-04 star:0.1k fork:0.0k Tool and library for testing Vagrant plugins.
 - [hashicorp/vagrant_cloud](https://github.com/hashicorp/vagrant_cloud) pushed_at:2022-01 star:0.0k fork:0.0k Vagrant Cloud API wrapper for Ruby
 - [hashicorp/vault-rails](https://github.com/hashicorp/vault-rails) pushed_at:2022-01 star:0.3k fork:0.1k A Rails plugin for easily integrating Vault secrets
-- [hashicorp/vault-ruby](https://github.com/hashicorp/vault-ruby) pushed_at:2022-02 star:0.3k fork:0.1k The official Ruby client for HashiCorp's Vault
+- [hashicorp/vault-ruby](https://github.com/hashicorp/vault-ruby) pushed_at:2022-04 star:0.3k fork:0.1k The official Ruby client for HashiCorp's Vault
 
 ## Scala
 
@@ -903,6 +903,7 @@
 - [hashicorp/atlas-packer-vagrant-tutorial](https://github.com/hashicorp/atlas-packer-vagrant-tutorial) pushed_at:2018-01 star:0.0k fork:0.1k Packer configuration for the Atlas Packer Vagrant Tutorial
 - [hashicorp/consul-aws](https://github.com/hashicorp/consul-aws) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [hashicorp/consul-helm](https://github.com/hashicorp/consul-helm) pushed_at:2021-08 star:0.4k fork:0.4k Helm chart to install Consul and other associated components.
+- [hashicorp/consul-k8s-wan-fed-vault-backend](https://github.com/hashicorp/consul-k8s-wan-fed-vault-backend) pushed_at:2022-04 star:0.0k fork:0.0k This repo show how to configure Vault as the backend for two Consul-K8s deployed in a WAN Federation topology. 
 - [hashicorp/da-connect-demo](https://github.com/hashicorp/da-connect-demo) pushed_at:2019-01 star:0.0k fork:0.0k Some simple demos for Consul Connect
 - [hashicorp/da-instruqt-security](https://github.com/hashicorp/da-instruqt-security) pushed_at:2019-04 star:0.0k fork:0.0k Consul Connect security track for Instruqt
 - [hashicorp/da-instruqt-tracks](https://github.com/hashicorp/da-instruqt-tracks) pushed_at:2019-09 star:0.0k fork:0.0k 
@@ -930,7 +931,6 @@
 - [hashicorp/hands-on-with-vault-on-kubernetes](https://github.com/hashicorp/hands-on-with-vault-on-kubernetes) pushed_at:2019-08 star:0.1k fork:0.0k Hands-on with Vault on Kubernetes Tutorial
 - [hashicorp/heroku-buildpack-middleman](https://github.com/hashicorp/heroku-buildpack-middleman) pushed_at:2014-10 star:0.0k fork:0.0k The simplest, cleanest Middleman buildpack for Heroku out there.
 - [hashicorp/heroku-buildpack-rubygem-server](https://github.com/hashicorp/heroku-buildpack-rubygem-server) pushed_at:2013-02 star:0.1k fork:0.0k Heroku buildpack to run a RubyGems server.
-- [hashicorp/Jamf-Interaction-Toolkit](https://github.com/hashicorp/Jamf-Interaction-Toolkit) pushed_at:2022-01 star:0.0k fork:0.0k Standardized UEX Toolkit to display dialog and support postponing running policies.
 - [hashicorp/katakoda](https://github.com/hashicorp/katakoda) pushed_at:2021-09 star:0.1k fork:0.0k Katakoda tutorial to learn the features of HashiCorp products interactively
 - [hashicorp/kolide-quickstart](https://github.com/hashicorp/kolide-quickstart) pushed_at:2018-05 star:0.0k fork:0.0k [DEPRECATED] A quickstart demo for Kolide tools
 - [hashicorp/learn-consul-vms](https://github.com/hashicorp/learn-consul-vms) pushed_at:2022-02 star:0.0k fork:0.0k 

@@ -39,7 +39,7 @@
 - [ustclug/hackergame2019-writeups](https://github.com/ustclug/hackergame2019-writeups) pushed_at:2020-07 star:0.3k fork:0.1k Write-ups for hackergame 2019
 - [ustclug/mirrors-index](https://github.com/ustclug/mirrors-index) pushed_at:2018-05 star:0.0k fork:0.0k Go https://git.lug.ustc.edu.cn/mirrors/mirrors-index for latest version
 - [ustclug/news](https://github.com/ustclug/news) pushed_at:2020-08 star:0.0k fork:0.0k USTC LUG 新闻站
-- [ustclug/qtguide](https://github.com/ustclug/qtguide) pushed_at:2022-03 star:0.1k fork:0.0k Qt Programming Guide
+- [ustclug/qtguide](https://github.com/ustclug/qtguide) pushed_at:2022-04 star:0.1k fork:0.0k Qt Programming Guide
 - [ustclug/website](https://github.com/ustclug/website) pushed_at:2022-04 star:0.0k fork:0.0k The next-gen website of LUG@USTC.
 
 ## Hack
@@ -86,7 +86,7 @@
 - [ustclug/docker-gitlab](https://github.com/ustclug/docker-gitlab) pushed_at:2017-04 star:0.0k fork:0.0k Dockerized GitLab
 - [ustclug/docker-image](https://github.com/ustclug/docker-image) pushed_at:2017-01 star:0.0k fork:0.0k 💀docker image used by USTC LUG (deprecated)
 - [ustclug/light-list](https://github.com/ustclug/light-list) pushed_at:2022-03 star:0.0k fork:0.0k accelerate list of light service
-- [ustclug/light-server](https://github.com/ustclug/light-server) pushed_at:2022-03 star:0.0k fork:0.0k light accelerator daemon
+- [ustclug/light-server](https://github.com/ustclug/light-server) pushed_at:2022-04 star:0.0k fork:0.0k light accelerator daemon
 - [ustclug/light-socks5](https://github.com/ustclug/light-socks5) pushed_at:2018-01 star:0.0k fork:0.0k light accelerator socks5 daemon
 - [ustclug/liimstrap](https://github.com/ustclug/liimstrap) pushed_at:2022-03 star:0.0k fork:0.0k 中国科大图书馆查询机生成脚本。
 - [ustclug/Linux101-docs](https://github.com/ustclug/Linux101-docs) pushed_at:2022-03 star:0.2k fork:0.0k Linux 101 学生课程教材与讲义
