@@ -36,7 +36,7 @@
 
 ## Java
 
-- [openjdk/aarch32-port-jdk8u](https://github.com/openjdk/aarch32-port-jdk8u) pushed_at:2022-04 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/aarch32-port/monojdk8u
+- [openjdk/aarch32-port-jdk8u](https://github.com/openjdk/aarch32-port-jdk8u) pushed_at:2022-04 star:0.0k fork:0.0k https://openjdk.java.net/projects/aarch32-port/
 - [openjdk/aarch64-port](https://github.com/openjdk/aarch64-port) pushed_at:2022-04 star:0.1k fork:0.0k Port: AArch64 Project
 - [openjdk/amber](https://github.com/openjdk/amber) pushed_at:2022-04 star:0.1k fork:0.0k https://openjdk.java.net/projects/amber
 - [openjdk/asmtools](https://github.com/openjdk/asmtools) pushed_at:2021-06 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/asmtools
@@ -44,9 +44,9 @@
 - [openjdk/crac](https://github.com/openjdk/crac) pushed_at:2022-04 star:0.0k fork:0.0k https://openjdk.java.net/projects/crac
 - [openjdk/doccheck](https://github.com/openjdk/doccheck) pushed_at:2022-03 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/doccheck/
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) pushed_at:2021-04 star:0.0k fork:0.0k https://openjdk.java.net/projects/code-tools/friday-stats/
-- [openjdk/jcov](https://github.com/openjdk/jcov) pushed_at:2021-08 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/jcov
+- [openjdk/jcov](https://github.com/openjdk/jcov) pushed_at:2022-04 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) pushed_at:2022-04 star:0.2k fork:0.0k https://openjdk.java.net/projects/code-tools/jcstress/
-- [openjdk/jdk](https://github.com/openjdk/jdk) pushed_at:2022-04 star:12.8k fork:3.4k JDK main-line development
+- [openjdk/jdk](https://github.com/openjdk/jdk) pushed_at:2022-04 star:12.9k fork:3.5k JDK main-line development
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) pushed_at:2022-04 star:0.0k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) pushed_at:2020-08 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk/jdk10
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) pushed_at:2022-04 star:0.1k fork:0.1k https://openjdk.java.net/projects/jdk-updates/
@@ -71,7 +71,7 @@
 - [openjdk/jdk7](https://github.com/openjdk/jdk7) pushed_at:2021-02 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk7
 - [openjdk/jdk7u](https://github.com/openjdk/jdk7u) pushed_at:2022-04 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/jdk7u
 - [openjdk/jdk8](https://github.com/openjdk/jdk8) pushed_at:2021-02 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk8
-- [openjdk/jdk8u](https://github.com/openjdk/jdk8u) pushed_at:2022-04 star:0.1k fork:0.1k READ-ONLY mirror of https://hg.openjdk.java.net/jdk8u/monojdk8u/
+- [openjdk/jdk8u](https://github.com/openjdk/jdk8u) pushed_at:2022-04 star:0.1k fork:0.1k https://wiki.openjdk.java.net/display/jdk8u
 - [openjdk/jdk8u-dev](https://github.com/openjdk/jdk8u-dev) pushed_at:2022-04 star:0.0k fork:0.0k https://wiki.openjdk.java.net/display/jdk8u
 - [openjdk/jdk8u-ri](https://github.com/openjdk/jdk8u-ri) pushed_at:2022-04 star:0.0k fork:0.0k JSR 337 Reference Implementation (Java SE 8) [not for production use]
 - [openjdk/jdk9](https://github.com/openjdk/jdk9) pushed_at:2021-02 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/jdk9
@@ -94,7 +94,7 @@
 - [openjdk/nashorn](https://github.com/openjdk/nashorn) pushed_at:2022-04 star:0.2k fork:0.0k http://openjdk.java.net/projects/nashorn/
 - [openjdk/panama-foreign](https://github.com/openjdk/panama-foreign) pushed_at:2022-04 star:0.2k fork:0.0k https://openjdk.java.net/projects/panama
 - [openjdk/panama-vector](https://github.com/openjdk/panama-vector) pushed_at:2022-04 star:0.0k fork:0.0k Panama vector
-- [openjdk/playground](https://github.com/openjdk/playground) pushed_at:2021-12 star:0.0k fork:0.0k Repository for experimenting. May be synced and/or reset at any time without notice.
+- [openjdk/playground](https://github.com/openjdk/playground) pushed_at:2022-04 star:0.0k fork:0.0k Repository for experimenting. May be synced and/or reset at any time without notice.
 - [openjdk/portola](https://github.com/openjdk/portola) pushed_at:2022-03 star:0.0k fork:0.0k https://openjdk.java.net/projects/portola/
 - [openjdk/riscv-port](https://github.com/openjdk/riscv-port) pushed_at:2022-04 star:0.0k fork:0.0k https://openjdk.java.net/projects/riscv-port
 - [openjdk/shenandoah](https://github.com/openjdk/shenandoah) pushed_at:2022-04 star:0.1k fork:0.0k https://openjdk.java.net/projects/shenandoah

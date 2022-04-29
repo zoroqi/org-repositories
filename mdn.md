@@ -52,7 +52,7 @@
 - [mdn/insights](https://github.com/mdn/insights) pushed_at:2022-04 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) pushed_at:2022-04 star:0.6k fork:0.4k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
-- [mdn/learning-area](https://github.com/mdn/learning-area) pushed_at:2022-04 star:4.8k fork:18.5k Github repo for the MDN Learning Area. 
+- [mdn/learning-area](https://github.com/mdn/learning-area) pushed_at:2022-04 star:4.8k fork:18.6k Github repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) pushed_at:2022-04 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
 - [mdn/learning-area-pt-br](https://github.com/mdn/learning-area-pt-br) pushed_at:2021-03 star:0.0k fork:0.1k The MDN Learning Area code examples translated into Brazilian Portuguese.
 - [mdn/machine-translation-testing-content](https://github.com/mdn/machine-translation-testing-content) pushed_at:2020-11 star:0.0k fork:0.0k This is a repository for testing machine translations of English content.
@@ -63,7 +63,7 @@
 - [mdn/simple-shared-worker](https://github.com/mdn/simple-shared-worker) pushed_at:2019-04 star:0.2k fork:0.1k A simple demo to show shared worker basics.
 - [mdn/sphinx-theme](https://github.com/mdn/sphinx-theme) pushed_at:2017-10 star:0.0k fork:0.0k  (Deprecated) Make Sphinx docs look like MDN
 - [mdn/todo-react-build](https://github.com/mdn/todo-react-build) pushed_at:2020-05 star:0.0k fork:0.0k Live version of our sample todo app built with the React/ReactDOM framework.
-- [mdn/translated-content](https://github.com/mdn/translated-content) pushed_at:2022-04 star:0.7k fork:2.9k All translated MDN content in raw form
+- [mdn/translated-content](https://github.com/mdn/translated-content) pushed_at:2022-04 star:0.7k fork:3.0k All translated MDN content in raw form
 - [mdn/translated-content-rendered](https://github.com/mdn/translated-content-rendered) pushed_at:2021-02 star:0.0k fork:0.0k All translated (non-archived) MDN content in fully rendered form
 - [mdn/viewsourceconf](https://github.com/mdn/viewsourceconf) pushed_at:2019-03 star:0.0k fork:0.0k Repo for View Source Conference site
 - [mdn/web-tech-games](https://github.com/mdn/web-tech-games) pushed_at:2021-04 star:0.0k fork:0.0k Interactive diagram showing what parts of the web technology stack can used for different purposes when creating games. Includes links to more information about each.
@@ -92,8 +92,8 @@
 - [mdn/express-locallibrary-tutorial](https://github.com/mdn/express-locallibrary-tutorial) pushed_at:2022-03 star:0.9k fork:0.5k Local Library website written in NodeJS/Express; example for the MDN server-side development NodeJS module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs.
 - [mdn/headless-examples](https://github.com/mdn/headless-examples) pushed_at:2019-08 star:0.1k fork:0.0k Examples to support the MDN resource covering Firefox headless mode — see https://developer.mozilla.org/en-US/Firefox/Headless_mode
 - [mdn/indexeddb-examples](https://github.com/mdn/indexeddb-examples) pushed_at:2019-04 star:0.0k fork:0.0k Code examples that accompany the MDN IndexedDB documentation
-- [mdn/js-examples](https://github.com/mdn/js-examples) pushed_at:2022-02 star:0.7k fork:0.5k Code examples that accompany the MDN JavaScript/ECMAScript documentation
-- [mdn/markdown](https://github.com/mdn/markdown) pushed_at:2022-04 star:0.0k fork:0.0k MDN Web Docs tool to covert HTML to Markdown and vice versa
+- [mdn/js-examples](https://github.com/mdn/js-examples) pushed_at:2022-02 star:0.7k fork:0.6k Code examples that accompany the MDN JavaScript/ECMAScript documentation
+- [mdn/markdown](https://github.com/mdn/markdown) pushed_at:2022-04 star:0.0k fork:0.0k MDN Web Docs tool to covert HTML to Markdown
 - [mdn/mdn-fiori](https://github.com/mdn/mdn-fiori) pushed_at:2020-09 star:0.0k fork:0.0k MDN Web Docs Front-End style guide
 - [mdn/mdn-storybook](https://github.com/mdn/mdn-storybook) pushed_at:2022-04 star:0.0k fork:0.0k UI components for MDN Web Docs
 - [mdn/mdn.dev](https://github.com/mdn/mdn.dev) pushed_at:2022-02 star:0.0k fork:0.0k Content for https://mdn.dev
@@ -127,7 +127,7 @@
 
 ## Markdown
 
-- [mdn/content](https://github.com/mdn/content) pushed_at:2022-04 star:5.2k fork:8.3k The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) pushed_at:2022-04 star:5.3k fork:8.4k The content behind MDN Web Docs
 
 ## Others
 
@@ -135,9 +135,9 @@
 - [mdn/content-team-projects](https://github.com/mdn/content-team-projects) pushed_at:2022-04 star:0.0k fork:0.0k Repo for organising MDN Web Docs team projects & subsequent work
 - [mdn/crossbrowser-testing-lab](https://github.com/mdn/crossbrowser-testing-lab) pushed_at:2019-04 star:0.0k fork:0.0k Mozilla's Cross-Browser Testing Lab
 - [mdn/mdn](https://github.com/mdn/mdn) pushed_at:2022-02 star:1.1k fork:0.2k Meta repository that governs the MDN GitHub organization
+- [mdn/mdn-community](https://github.com/mdn/mdn-community) pushed_at:2022-04 star:0.0k fork:0.0k A place to provide feedback and suggestions for MDN Web Docs
 - [mdn/mdn-contributor-spotlight](https://github.com/mdn/mdn-contributor-spotlight) pushed_at:2022-03 star:0.0k fork:0.0k Content for the contributor spotlight on MDN Web Docs
 - [mdn/mdn-dinocons](https://github.com/mdn/mdn-dinocons) pushed_at:2022-03 star:0.0k fork:0.0k A scalable set of icons for use across Mozilla Developer websites
-- [mdn/MDN-feedback](https://github.com/mdn/MDN-feedback) pushed_at:2022-03 star:0.0k fork:0.0k A place to collate all the feedback for MDN Web Docs' new design. 
 - [mdn/performance-scenarios](https://github.com/mdn/performance-scenarios) pushed_at:2017-05 star:0.0k fork:0.0k 
 - [mdn/sprints](https://github.com/mdn/sprints) pushed_at:2022-03 star:0.1k fork:0.2k MDN Web Docs content issue management
 - [mdn/wiki-revision-history](https://github.com/mdn/wiki-revision-history) pushed_at:2021-01 star:0.0k fork:0.0k An accurate CSV record of who made what revisions to MDN Web Docs when it was a Wiki platform
