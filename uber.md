@@ -11,10 +11,10 @@
 - [Go](#go) (17)
 - [HTML](#html) (1)
 - [Haskell](#haskell) (1)
-- [Java](#java) (23)
+- [Java](#java) (22)
 - [JavaScript](#javascript) (30)
 - [Jupyter Notebook](#jupyter-notebook) (1)
-- [Kotlin](#kotlin) (5)
+- [Kotlin](#kotlin) (6)
 - [OCaml](#ocaml) (1)
 - [Objective-C](#objective-c) (4)
 - [Others](#others) (2)
@@ -76,14 +76,13 @@
 - [uber/cadence-java-samples](https://github.com/uber/cadence-java-samples) pushed_at:2022-02 star:0.1k fork:0.1k 
 - [uber/concurrency-loadbalancer](https://github.com/uber/concurrency-loadbalancer) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [uber/dynamodb-cross-region-library](https://github.com/uber/dynamodb-cross-region-library) pushed_at:2017-10 star:0.0k fork:0.0k A library to facilitate cross-region replication with Amazon DynamoDB Streams.
-- [uber/h3-java](https://github.com/uber/h3-java) pushed_at:2022-03 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
+- [uber/h3-java](https://github.com/uber/h3-java) pushed_at:2022-04 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/marmaray](https://github.com/uber/marmaray) pushed_at:2022-04 star:0.5k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
 - [uber/NullAway](https://github.com/uber/NullAway) pushed_at:2022-04 star:3.1k fork:0.2k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [uber/okbuck](https://github.com/uber/okbuck) pushed_at:2022-04 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
 - [uber/phabricator-jenkins-plugin](https://github.com/uber/phabricator-jenkins-plugin) pushed_at:2021-01 star:0.4k fork:0.1k Jenkins plugin to integrate with Phabricator, Harbormaster, and Uberalls
 - [uber/piranha](https://github.com/uber/piranha) pushed_at:2022-04 star:1.9k fork:0.1k A tool for refactoring code related to feature flag APIs
 - [uber/RemoteShuffleService](https://github.com/uber/RemoteShuffleService) pushed_at:2021-07 star:0.2k fork:0.1k Remote shuffle service for Apache Spark to store shuffle data on remote servers. 
-- [uber/RIBs](https://github.com/uber/RIBs) pushed_at:2022-04 star:6.8k fork:0.8k Uber's cross-platform mobile architecture framework.
 - [uber/rides-android-sdk](https://github.com/uber/rides-android-sdk) pushed_at:2021-08 star:0.3k fork:0.1k Uber Rides Android SDK (beta)
 - [uber/rides-java-sdk](https://github.com/uber/rides-java-sdk) pushed_at:2018-11 star:0.1k fork:0.1k Uber Rides Java SDK (beta)
 - [uber/RxCentralBle](https://github.com/uber/RxCentralBle) pushed_at:2022-02 star:0.2k fork:0.0k A reactive, interface-driven central role Bluetooth LE library for Android
@@ -137,6 +136,7 @@
 - [uber/crumb](https://github.com/uber/crumb) pushed_at:2021-12 star:0.1k fork:0.0k An annotation processor for breadcrumbing metadata across compilation boundaries.
 - [uber/lint-checks](https://github.com/uber/lint-checks) pushed_at:2020-11 star:0.1k fork:0.0k A set of opinionated and useful lint checks
 - [uber/motif](https://github.com/uber/motif) pushed_at:2022-03 star:0.5k fork:0.0k A simple DI API for Android / Java
+- [uber/RIBs](https://github.com/uber/RIBs) pushed_at:2022-04 star:6.9k fork:0.8k Uber's cross-platform mobile architecture framework.
 - [uber/stylist](https://github.com/uber/stylist) pushed_at:2021-05 star:0.4k fork:0.0k A stylist creates cool styles. Stylist is a Gradle plugin that codegens a base set of Android XML themes.
 
 ## OCaml
@@ -163,7 +163,7 @@
 
 - [uber/bayesmark](https://github.com/uber/bayesmark) pushed_at:2021-06 star:0.1k fork:0.0k Benchmark framework to easily compare Bayesian optimization methods on real machine learning tasks
 - [uber/cassette](https://github.com/uber/cassette) pushed_at:2020-10 star:0.1k fork:0.0k Store and replay HTTP requests made in your Python app
-- [uber/causalml](https://github.com/uber/causalml) pushed_at:2022-04 star:2.9k fork:0.5k Uplift modeling and causal inference with machine learning algorithms
+- [uber/causalml](https://github.com/uber/causalml) pushed_at:2022-04 star:3.0k fork:0.5k Uplift modeling and causal inference with machine learning algorithms
 - [uber/charlatan](https://github.com/uber/charlatan) pushed_at:2019-09 star:0.1k fork:0.0k A Python library to efficiently manage and install database fixtures
 - [uber/clay](https://github.com/uber/clay) pushed_at:2022-01 star:0.4k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [uber/doubles](https://github.com/uber/doubles) pushed_at:2018-10 star:0.2k fork:0.0k Test doubles for Python.
@@ -172,7 +172,7 @@
 - [uber/hypothesis-gufunc](https://github.com/uber/hypothesis-gufunc) pushed_at:2021-03 star:0.0k fork:0.0k Extension to hypothesis for testing numpy general universal functions
 - [uber/multidimensional_urlencode](https://github.com/uber/multidimensional_urlencode) pushed_at:2019-07 star:0.1k fork:0.0k Python library to urlencode a multidimensional dict
 - [uber/mutornadomon](https://github.com/uber/mutornadomon) pushed_at:2019-10 star:0.0k fork:0.0k Easy-to-install monitor endpoint for Tornado applications
-- [uber/orbit](https://github.com/uber/orbit) pushed_at:2022-04 star:1.3k fork:0.1k A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
+- [uber/orbit](https://github.com/uber/orbit) pushed_at:2022-04 star:1.4k fork:0.1k A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
 - [uber/petastorm](https://github.com/uber/petastorm) pushed_at:2022-04 star:1.4k fork:0.2k Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
 - [uber/py-find-injection](https://github.com/uber/py-find-injection) pushed_at:2019-03 star:0.1k fork:0.0k Look for SQL injection attacks in python source code
 - [uber/py-look-for-timeouts](https://github.com/uber/py-look-for-timeouts) pushed_at:2020-03 star:0.0k fork:0.0k Scan for missing timeout calls in python source files

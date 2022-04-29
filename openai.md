@@ -59,7 +59,7 @@
 
 ## Cython
 
-- [openai/mujoco-py](https://github.com/openai/mujoco-py) pushed_at:2022-02 star:2.0k fork:0.7k MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
+- [openai/mujoco-py](https://github.com/openai/mujoco-py) pushed_at:2022-02 star:2.1k fork:0.7k MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
 
 ## Go
 
@@ -77,7 +77,7 @@
 
 - [openai/go-alias](https://github.com/openai/go-alias) pushed_at:2018-11 star:0.0k fork:0.0k Service for quickly aliasing and redirecting to long URLs
 - [openai/mitmproxy](https://github.com/openai/mitmproxy) pushed_at:2016-11 star:0.0k fork:0.0k An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
-- [openai/openai-quickstart-node](https://github.com/openai/openai-quickstart-node) pushed_at:2022-04 star:0.0k fork:0.0k Node.js example app from the OpenAI API quickstart tutorial
+- [openai/openai-quickstart-node](https://github.com/openai/openai-quickstart-node) pushed_at:2022-04 star:0.0k fork:0.1k Node.js example app from the OpenAI API quickstart tutorial
 - [openai/pixel](https://github.com/openai/pixel) pushed_at:2022-02 star:0.0k fork:0.0k Code for the single pixel debate game from the paper "AI safety via debate" (https://arxiv.org/abs/1805.00899)
 - [openai/supervised-reptile](https://github.com/openai/supervised-reptile) pushed_at:2020-08 star:0.9k fork:0.2k Code for the paper "On First-Order Meta-Learning Algorithms"
 - [openai/tabulate](https://github.com/openai/tabulate) pushed_at:2020-12 star:0.0k fork:0.0k public release of Excel / OpenAI API integration
@@ -85,7 +85,7 @@
 ## Jupyter Notebook
 
 - [openai/baselines-results](https://github.com/openai/baselines-results) pushed_at:2020-07 star:0.1k fork:0.0k 
-- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2022-04 star:7.2k fork:1.0k Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2022-04 star:7.6k fork:1.0k Contrastive Language-Image Pretraining
 - [openai/lucid](https://github.com/openai/lucid) pushed_at:2019-01 star:0.0k fork:0.0k A collection of infrastructure and tools for research in neural network interpretability.
 - [openai/ot-gan](https://github.com/openai/ot-gan) pushed_at:2018-11 star:0.1k fork:0.0k  Code for the paper "Improving GANs Using Optimal Transport"
 - [openai/ppo-ewma](https://github.com/openai/ppo-ewma) pushed_at:2021-10 star:0.0k fork:0.0k Code for the paper "Batch size invariance for policy optimization"
@@ -123,7 +123,7 @@
 - [openai/baselines](https://github.com/openai/baselines) pushed_at:2021-12 star:12.5k fork:4.3k OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [openai/CLIP-featurevis](https://github.com/openai/CLIP-featurevis) pushed_at:2021-03 star:0.2k fork:0.0k code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
 - [openai/code-align-evals-data](https://github.com/openai/code-align-evals-data) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [openai/DALL-E](https://github.com/openai/DALL-E) pushed_at:2021-12 star:5.0k fork:0.8k PyTorch package for the discrete VAE used for DALL·E.
+- [openai/DALL-E](https://github.com/openai/DALL-E) pushed_at:2021-12 star:5.2k fork:0.8k PyTorch package for the discrete VAE used for DALL·E.
 - [openai/deeptype](https://github.com/openai/deeptype) pushed_at:2019-03 star:0.6k fork:0.1k  Code for the paper "DeepType: Multilingual Entity Linking by Neural Type System Evolution"
 - [openai/distribution_augmentation](https://github.com/openai/distribution_augmentation) pushed_at:2021-12 star:0.1k fork:0.0k Code for the paper, "Distribution Augmentation for Generative Modeling", ICML 2020.
 - [openai/ebm_code_release](https://github.com/openai/ebm_code_release) pushed_at:2019-04 star:0.3k fork:0.0k Code for Implicit Generation and Generalization with Energy Based Models
@@ -147,7 +147,7 @@
 - [openai/gym3](https://github.com/openai/gym3) pushed_at:2021-01 star:0.1k fork:0.0k Vectorized interface for reinforcement learning environments
 - [openai/human-eval](https://github.com/openai/human-eval) pushed_at:2021-11 star:0.3k fork:0.0k Code for the paper "Evaluating Large Language Models Trained on Code"
 - [openai/iaf](https://github.com/openai/iaf) pushed_at:2018-11 star:0.5k fork:0.1k Code for reproducing key results in the paper "Improving Variational Inference with Inverse Autoregressive Flow"
-- [openai/image-gpt](https://github.com/openai/image-gpt) pushed_at:2021-11 star:1.6k fork:0.2k 
+- [openai/image-gpt](https://github.com/openai/image-gpt) pushed_at:2022-04 star:1.6k fork:0.3k 
 - [openai/imitation](https://github.com/openai/imitation) pushed_at:2018-11 star:0.6k fork:0.2k  Code for the paper "Generative Adversarial Imitation Learning"
 - [openai/improved-diffusion](https://github.com/openai/improved-diffusion) pushed_at:2022-03 star:0.4k fork:0.1k Release for Improved Denoising Diffusion Probabilistic Models
 - [openai/improved-gan](https://github.com/openai/improved-gan) pushed_at:2018-11 star:2.1k fork:0.6k Code for the paper "Improved Techniques for Training GANs"
@@ -184,7 +184,7 @@
 - [openai/safety-starter-agents](https://github.com/openai/safety-starter-agents) pushed_at:2020-09 star:0.2k fork:0.1k Basic constrained RL agents used in experiments for the "Benchmarking Safe Exploration in Deep Reinforcement Learning" paper.
 - [openai/sonic-on-ray](https://github.com/openai/sonic-on-ray) pushed_at:2018-11 star:0.0k fork:0.0k Training Sonic with RLlib
 - [openai/sparse_attention](https://github.com/openai/sparse_attention) pushed_at:2020-08 star:1.2k fork:0.2k Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers"
-- [openai/spinningup](https://github.com/openai/spinningup) pushed_at:2022-03 star:6.8k fork:1.6k An educational resource to help anyone learn deep reinforcement learning.
+- [openai/spinningup](https://github.com/openai/spinningup) pushed_at:2022-03 star:6.9k fork:1.6k An educational resource to help anyone learn deep reinforcement learning.
 - [openai/staged-recipes](https://github.com/openai/staged-recipes) pushed_at:2016-12 star:0.0k fork:0.0k A place to submit conda recipes before they become fully fledged conda-forge feedstocks
 - [openai/summarize-from-feedback](https://github.com/openai/summarize-from-feedback) pushed_at:2021-12 star:0.4k fork:0.1k Code for "Learning to summarize from human feedback"
 - [openai/train-procgen](https://github.com/openai/train-procgen) pushed_at:2022-03 star:0.1k fork:0.0k Code for the paper "Leveraging Procedural Generation to Benchmark Reinforcement Learning"

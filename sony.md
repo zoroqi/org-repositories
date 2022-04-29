@@ -71,7 +71,7 @@
 - [sony/huis-ui-creator](https://github.com/sony/huis-ui-creator) pushed_at:2018-10 star:0.0k fork:0.0k 
 - [sony/isren](https://github.com/sony/isren) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [sony/mapray-js](https://github.com/sony/mapray-js) pushed_at:2022-02 star:0.1k fork:0.0k JavaScript library for Interactive high quality 3D globes and maps in the browser
-- [sony/nmos-js](https://github.com/sony/nmos-js) pushed_at:2022-03 star:0.0k fork:0.0k An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
+- [sony/nmos-js](https://github.com/sony/nmos-js) pushed_at:2022-04 star:0.0k fork:0.0k An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
 
 ## Others
 
