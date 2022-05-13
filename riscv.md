@@ -37,7 +37,7 @@
 
 ## HTML
 
-- [riscv/riscv-CMOs](https://github.com/riscv/riscv-CMOs) pushed_at:2022-03 star:0.0k fork:0.0k 
+- [riscv/riscv-CMOs](https://github.com/riscv/riscv-CMOs) pushed_at:2022-05 star:0.0k fork:0.0k 
 
 ## Makefile
 
@@ -71,11 +71,11 @@
 
 ## TeX
 
-- [riscv/docs-dev-guide](https://github.com/riscv/docs-dev-guide) pushed_at:2022-01 star:0.0k fork:0.0k Documentation developer guide
-- [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) pushed_at:2022-04 star:0.0k fork:0.0k 
+- [riscv/docs-dev-guide](https://github.com/riscv/docs-dev-guide) pushed_at:2022-05 star:0.0k fork:0.0k Documentation developer guide
+- [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [riscv/riscv-bfloat16](https://github.com/riscv/riscv-bfloat16) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [riscv/riscv-count-overflow](https://github.com/riscv/riscv-count-overflow) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) pushed_at:2022-04 star:0.3k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
+- [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) pushed_at:2022-05 star:0.3k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2022-05 star:2.0k fork:0.4k RISC-V Instruction Set Manual
 - [riscv/riscv-state-enable](https://github.com/riscv/riscv-state-enable) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [riscv/riscv-time-compare](https://github.com/riscv/riscv-time-compare) pushed_at:2022-02 star:0.0k fork:0.0k 
