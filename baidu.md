@@ -36,7 +36,7 @@
 
 ## C#
 
-- [baidu/smartapp-openapi-csharp](https://github.com/baidu/smartapp-openapi-csharp) pushed_at:2022-02 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for csharp，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
+- [baidu/smartapp-openapi-csharp](https://github.com/baidu/smartapp-openapi-csharp) pushed_at:2022-05 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for csharp，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
 
 ## C++
 
@@ -46,7 +46,7 @@
 - [baidu/bigflow](https://github.com/baidu/bigflow) pushed_at:2022-01 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [baidu/boteye](https://github.com/baidu/boteye) pushed_at:2019-04 star:0.2k fork:0.1k 
 - [baidu/boteye_driver](https://github.com/baidu/boteye_driver) pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/braft](https://github.com/baidu/braft) pushed_at:2022-02 star:3.2k fork:0.7k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
+- [baidu/braft](https://github.com/baidu/braft) pushed_at:2022-05 star:3.2k fork:0.7k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
 - [baidu/common](https://github.com/baidu/common) pushed_at:2017-06 star:0.1k fork:0.1k Common library
 - [baidu/Familia](https://github.com/baidu/Familia) pushed_at:2021-07 star:2.5k fork:0.6k A Toolkit for Industrial Topic Modeling
 - [baidu/fast_rgf](https://github.com/baidu/fast_rgf) pushed_at:2018-07 star:0.5k fork:0.1k Multi-core implementation of Regularized Greedy Forest
@@ -57,7 +57,7 @@
 - [baidu/openrasp](https://github.com/baidu/openrasp) pushed_at:2022-05 star:2.2k fork:0.5k 🔥Open source RASP solution
 - [baidu/shuttle](https://github.com/baidu/shuttle) pushed_at:2018-07 star:0.1k fork:0.0k A fast computing framework based on Galaxy
 - [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) pushed_at:2022-02 star:2.1k fork:0.7k A light-weight RPC implement of google protobuf RPC framework.
-- [baidu/tera](https://github.com/baidu/tera) pushed_at:2019-01 star:1.9k fork:0.4k An Internet-Scale Database.
+- [baidu/tera](https://github.com/baidu/tera) pushed_at:2019-01 star:1.8k fork:0.4k An Internet-Scale Database.
 - [baidu/unit-dmkit](https://github.com/baidu/unit-dmkit) pushed_at:2019-08 star:0.3k fork:0.1k 
 - [baidu/unit-uskit](https://github.com/baidu/unit-uskit) pushed_at:2021-06 star:0.2k fork:0.1k unit-uskit
 
@@ -75,7 +75,7 @@
 - [baidu/ote-stack](https://github.com/baidu/ote-stack) pushed_at:2020-07 star:0.1k fork:0.0k OTE-Stack is an edge computing platform for 5G and AI
 - [baidu/paddle-on-k8s-operator](https://github.com/baidu/paddle-on-k8s-operator) pushed_at:2020-03 star:0.0k fork:0.0k Kubernetes operator for managing the lifecycle of PaddlePaddle job.
 - [baidu/runc](https://github.com/baidu/runc) pushed_at:2019-06 star:0.0k fork:0.0k CLI tool for spawning and running containers according to the OCI specification
-- [baidu/smartapp-openapi-go](https://github.com/baidu/smartapp-openapi-go) pushed_at:2022-04 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for go，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
+- [baidu/smartapp-openapi-go](https://github.com/baidu/smartapp-openapi-go) pushed_at:2022-05 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for go，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
 
 ## Java
 
@@ -89,12 +89,12 @@
 - [baidu/ipipe-agent](https://github.com/baidu/ipipe-agent) pushed_at:2020-10 star:0.0k fork:0.0k 
 - [baidu/Jprotobuf-rpc-socket](https://github.com/baidu/Jprotobuf-rpc-socket) pushed_at:2022-05 star:0.5k fork:0.2k Protobuf RPC是一种基于TCP协议的二进制RPC通信协议的Java实现
 - [baidu/OASP](https://github.com/baidu/OASP) pushed_at:2017-11 star:0.0k fork:0.0k OASP (Online App Status Protocol)
-- [baidu/smartapp-openapi-java](https://github.com/baidu/smartapp-openapi-java) pushed_at:2022-04 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for java，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
+- [baidu/smartapp-openapi-java](https://github.com/baidu/smartapp-openapi-java) pushed_at:2022-05 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for java，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
 - [baidu/speech-samples](https://github.com/baidu/speech-samples) pushed_at:2018-02 star:0.0k fork:0.0k 百度语音示例
 - [baidu/spring-cloud-formula](https://github.com/baidu/spring-cloud-formula) pushed_at:2021-06 star:0.1k fork:0.0k 
 - [baidu/terminator](https://github.com/baidu/terminator) pushed_at:2016-11 star:0.1k fork:0.0k Service Virtualization
-- [baidu/titan-dex](https://github.com/baidu/titan-dex) pushed_at:2021-08 star:0.2k fork:0.0k 
-- [baidu/titan-hotfix](https://github.com/baidu/titan-hotfix) pushed_at:2020-02 star:0.1k fork:0.0k 
+- [baidu/titan-dex](https://github.com/baidu/titan-dex) pushed_at:2022-05 star:0.2k fork:0.0k 
+- [baidu/titan-hotfix](https://github.com/baidu/titan-hotfix) pushed_at:2022-05 star:0.1k fork:0.0k 
 - [baidu/uid-generator](https://github.com/baidu/uid-generator) pushed_at:2022-04 star:4.6k fork:1.4k UniqueID generator
 
 ## JavaScript
@@ -111,9 +111,9 @@
 - [baidu/san-composition](https://github.com/baidu/san-composition) pushed_at:2022-03 star:0.0k fork:0.0k 
 - [baidu/san-factory](https://github.com/baidu/san-factory) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [baidu/san-router](https://github.com/baidu/san-router) pushed_at:2022-05 star:0.0k fork:0.0k Official Router for San
-- [baidu/san-store](https://github.com/baidu/san-store) pushed_at:2022-04 star:0.1k fork:0.0k Application States Management for San
+- [baidu/san-store](https://github.com/baidu/san-store) pushed_at:2022-05 star:0.1k fork:0.0k Application States Management for San
 - [baidu/san-update](https://github.com/baidu/san-update) pushed_at:2021-09 star:0.1k fork:0.0k Object immutable update utility for san solution
-- [baidu/san-website](https://github.com/baidu/san-website) pushed_at:2022-04 star:0.0k fork:0.1k 
+- [baidu/san-website](https://github.com/baidu/san-website) pushed_at:2022-05 star:0.0k fork:0.1k 
 - [baidu/signet](https://github.com/baidu/signet) pushed_at:2014-12 star:0.0k fork:0.0k 签章系统
 - [baidu/wx2](https://github.com/baidu/wx2) pushed_at:2021-04 star:0.1k fork:0.0k 小程序互转工具
 
@@ -135,7 +135,7 @@
 ## PHP
 
 - [baidu/dm-kit-php](https://github.com/baidu/dm-kit-php) pushed_at:2019-02 star:0.0k fork:0.0k 
-- [baidu/smartapp-openapi-php](https://github.com/baidu/smartapp-openapi-php) pushed_at:2022-04 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for php，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
+- [baidu/smartapp-openapi-php](https://github.com/baidu/smartapp-openapi-php) pushed_at:2022-05 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for php，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
 
 ## Python
 
@@ -150,7 +150,7 @@
 - [baidu/information-extraction](https://github.com/baidu/information-extraction) pushed_at:2019-05 star:0.3k fork:0.1k 
 - [baidu/knowledge-driven-dialogue](https://github.com/baidu/knowledge-driven-dialogue) pushed_at:2019-06 star:0.3k fork:0.1k baseline system of knowledge driven dialogue competition
 - [baidu/logcover](https://github.com/baidu/logcover) pushed_at:2017-02 star:0.1k fork:0.0k 轻量级异常日志测试覆盖率度量工具
-- [baidu/QCompute](https://github.com/baidu/QCompute) pushed_at:2022-05 star:0.0k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
+- [baidu/QCompute](https://github.com/baidu/QCompute) pushed_at:2022-05 star:0.1k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
 - [baidu/Senta](https://github.com/baidu/Senta) pushed_at:2021-06 star:1.5k fork:0.3k Baidu's open-source Sentiment Analysis System.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
 
@@ -160,11 +160,11 @@
 
 ## Swift
 
-- [baidu/CarbonGraph](https://github.com/baidu/CarbonGraph) pushed_at:2022-05 star:0.1k fork:0.0k A Swift dependency injection / lookup framework for iOS
+- [baidu/CarbonGraph](https://github.com/baidu/CarbonGraph) pushed_at:2022-05 star:0.2k fork:0.0k A Swift dependency injection / lookup framework for iOS
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) pushed_at:2022-05 star:10.8k fork:1.5k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) pushed_at:2022-05 star:10.9k fork:1.5k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) pushed_at:2021-09 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) pushed_at:2022-05 star:0.0k fork:0.0k San SSR framework and utils
 

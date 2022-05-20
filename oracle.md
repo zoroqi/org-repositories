@@ -110,7 +110,7 @@
 - [oracle/oci-flexvolume-driver](https://github.com/oracle/oci-flexvolume-driver) pushed_at:2020-06 star:0.0k fork:0.0k A Kubernetes volume driver for Oracle Cloud Infrastructure
 - [oracle/oci-go-sdk](https://github.com/oracle/oci-go-sdk) pushed_at:2022-05 star:0.1k fork:0.1k Go SDK for Oracle Cloud Infrastructure 
 - [oracle/oci-manager](https://github.com/oracle/oci-manager) pushed_at:2018-12 star:0.0k fork:0.0k Collection of Kubernetes controllers for autonomous management of Oracle Cloud Infrastucture resources
-- [oracle/oci-service-operator](https://github.com/oracle/oci-service-operator) pushed_at:2022-04 star:0.0k fork:0.0k The OCI Service Operator for Kubernetes (OSOK) makes it easy to connect and manage OCI services from a cloud native application running in a Kubernetes environment.
+- [oracle/oci-service-operator](https://github.com/oracle/oci-service-operator) pushed_at:2022-05 star:0.0k fork:0.0k The OCI Service Operator for Kubernetes (OSOK) makes it easy to connect and manage OCI services from a cloud native application running in a Kubernetes environment.
 - [oracle/oci-volume-provisioner](https://github.com/oracle/oci-volume-provisioner) pushed_at:2020-06 star:0.0k fork:0.0k The OCI Volume Provisioner enables dynamic provisioning of storage resources when running Kubernetes on Oracle Cloud Infrastructure
 - [oracle/oracle-database-operator](https://github.com/oracle/oracle-database-operator) pushed_at:2022-02 star:0.1k fork:0.0k The Oracle Database Operator for Kubernetes (a.k.a. OraOperator) helps developers, DBAs, DevOps and GitOps teams reduce the time and complexity of deploying and managing Oracle Databases. It eliminates the dependency on a human operator or administrator for the majority of database operations.
 - [oracle/oracle-db-appdev-monitoring](https://github.com/oracle/oracle-db-appdev-monitoring) pushed_at:2022-03 star:0.0k fork:0.0k Scripts and code for unified observability for data-centric app dev and microservices
@@ -195,7 +195,7 @@
 - [oracle/okafka](https://github.com/oracle/okafka) pushed_at:2022-03 star:0.0k fork:0.0k Kafka Java Client for Oracle Transactional Event Queues
 - [oracle/olcut](https://github.com/oracle/olcut) pushed_at:2022-04 star:0.0k fork:0.0k A Java configuration, shell, and general utility toolkit
 - [oracle/opengrok](https://github.com/oracle/opengrok) pushed_at:2022-05 star:3.6k fork:0.7k OpenGrok is a fast and usable source code search and cross reference engine, written in Java
-- [oracle/oracle-r2dbc](https://github.com/oracle/oracle-r2dbc) pushed_at:2021-12 star:0.1k fork:0.0k R2DBC Driver for Oracle Database
+- [oracle/oracle-r2dbc](https://github.com/oracle/oracle-r2dbc) pushed_at:2022-05 star:0.1k fork:0.0k R2DBC Driver for Oracle Database
 - [oracle/osb-kafka-transport](https://github.com/oracle/osb-kafka-transport) pushed_at:2017-03 star:0.0k fork:0.0k OSB Transport for Apache Kafka provides inbound and outbound connectivity with Kafka Clusters.
 - [oracle/pgql-lang](https://github.com/oracle/pgql-lang) pushed_at:2022-05 star:0.1k fork:0.0k PGQL is an SQL-based query language for the Property Graph data model
 - [oracle/pushiomanager-cordova-plugin](https://github.com/oracle/pushiomanager-cordova-plugin) pushed_at:2021-05 star:0.0k fork:0.0k Cordova Plugin for Oracle Responsys Mobile SDK
@@ -203,7 +203,7 @@
 - [oracle/sales-cloud-with-paas-samples](https://github.com/oracle/sales-cloud-with-paas-samples) pushed_at:2018-08 star:0.0k fork:0.0k Official Oracle samples created to support developers using Oracle PaaS to integrate with and extend the capabilities of Oracle Sales Cloud. Security is a primary focus for most of these samples.
 - [oracle/soda-for-java](https://github.com/oracle/soda-for-java) pushed_at:2022-04 star:0.1k fork:0.0k SODA (Simple Oracle Document Access) for Java is an Oracle library for writing Java apps that work with JSON (and not only JSON!) in the Oracle Database. SODA allows your Java app to use the Oracle Database as a NoSQL document store.
 - [oracle/spacewalk](https://github.com/oracle/spacewalk) pushed_at:2022-04 star:0.0k fork:0.0k The master repository for Oracle Linux Manager, based on the Spacewalk Project.
-- [oracle/tribuo](https://github.com/oracle/tribuo) pushed_at:2022-05 star:1.0k fork:0.1k Tribuo - A Java machine learning library
+- [oracle/tribuo](https://github.com/oracle/tribuo) pushed_at:2022-05 star:1.0k fork:0.2k Tribuo - A Java machine learning library
 - [oracle/trufflex86](https://github.com/oracle/trufflex86) pushed_at:2019-10 star:0.0k fork:0.0k x86 interpreter based on GraalVM/Truffle
 - [oracle/visualvm](https://github.com/oracle/visualvm) pushed_at:2022-05 star:2.2k fork:0.3k VisualVM is an All-in-One Java Troubleshooting Tool
 - [oracle/weblogic-image-tool](https://github.com/oracle/weblogic-image-tool) pushed_at:2022-05 star:0.0k fork:0.0k WebLogic Image Tool
@@ -219,7 +219,7 @@
 - [oracle/cloud-asset-oda-agent-handover](https://github.com/oracle/cloud-asset-oda-agent-handover) pushed_at:2021-11 star:0.0k fork:0.0k Integrating Oracle Digital Assistant (ODA) with an Agent System
 - [oracle/cloud-asset-oda-recruitmentbot](https://github.com/oracle/cloud-asset-oda-recruitmentbot) pushed_at:2020-01 star:0.0k fork:0.0k Sample Recruitment Bot for Oracle Digital Assistant
 - [oracle/cloud-native-devops-workshop](https://github.com/oracle/cloud-native-devops-workshop) pushed_at:2018-04 star:0.1k fork:0.2k Oracle's Cloud Native and DevOps Workshop on Oracle Cloud
-- [oracle/content-and-experience-toolkit](https://github.com/oracle/content-and-experience-toolkit) pushed_at:2022-04 star:0.0k fork:0.0k The Oracle Content Management Toolkit and SDKs help you develop custom applications that consume content that is managed in the OCM repository. These applications can be developed in the Content Management Cloud or using 3rd party tools.
+- [oracle/content-and-experience-toolkit](https://github.com/oracle/content-and-experience-toolkit) pushed_at:2022-05 star:0.0k fork:0.0k The Oracle Content Management Toolkit and SDKs help you develop custom applications that consume content that is managed in the OCM repository. These applications can be developed in the Content Management Cloud or using 3rd party tools.
 - [oracle/content-management-sdk](https://github.com/oracle/content-management-sdk) pushed_at:2022-04 star:0.0k fork:0.0k JavaScript package to make it easier to use content (digital assets, structured content) from Oracle Content Management
 - [oracle/content-sdk-for-browser](https://github.com/oracle/content-sdk-for-browser) pushed_at:2022-04 star:0.0k fork:0.0k Oracle Content and Experience Cloud SDK for Browsers
 - [oracle/content-sdk-for-nodejs](https://github.com/oracle/content-sdk-for-nodejs) pushed_at:2022-04 star:0.0k fork:0.0k Oracle Content and Experience Cloud SDK for Node.js
@@ -233,8 +233,8 @@
 - [oracle/infinity-interview-app-shell](https://github.com/oracle/infinity-interview-app-shell) pushed_at:2016-08 star:0.0k fork:0.0k Basic Express based app for serving up a React based application
 - [oracle/ka-oda-sample](https://github.com/oracle/ka-oda-sample) pushed_at:2022-02 star:0.0k fork:0.0k Sample code to integrate Knowledge Advanced with Oracle Digital Assistant
 - [oracle/netsuite-suitecloud-sdk](https://github.com/oracle/netsuite-suitecloud-sdk) pushed_at:2022-05 star:0.1k fork:0.0k SuiteCloud Software Development Kit (SuiteCloud SDK) are the set of tools that allow you to customize accounts and create SuiteApps through SuiteCloud Development Framework (SDF).
-- [oracle/node-oracledb](https://github.com/oracle/node-oracledb) pushed_at:2022-04 star:2.1k fork:1.0k Oracle Database driver for Node.js maintained by Oracle Corp.
-- [oracle/nosql-node-sdk](https://github.com/oracle/nosql-node-sdk) pushed_at:2022-04 star:0.0k fork:0.0k Node.js SDK for Oracle NoSQL Database
+- [oracle/node-oracledb](https://github.com/oracle/node-oracledb) pushed_at:2022-05 star:2.1k fork:1.0k Oracle Database driver for Node.js maintained by Oracle Corp.
+- [oracle/nosql-node-sdk](https://github.com/oracle/nosql-node-sdk) pushed_at:2022-05 star:0.0k fork:0.0k Node.js SDK for Oracle NoSQL Database
 - [oracle/oci-designer-toolkit](https://github.com/oracle/oci-designer-toolkit) pushed_at:2022-05 star:0.2k fork:0.1k OCI designer toolKIT (OKIT) is a set of tools for enabling design, deploy and visualise OCI environments through a graphical web based interface.
 - [oracle/oci-grafana-logs](https://github.com/oracle/oci-grafana-logs) pushed_at:2022-04 star:0.0k fork:0.0k Grafana datasource plugin for OCI logs
 - [oracle/oci-grafana-metrics](https://github.com/oracle/oci-grafana-metrics) pushed_at:2022-04 star:0.1k fork:0.0k Grafana datasource plugin for OCI metrics
@@ -325,7 +325,7 @@
 - [oracle/fluent-plugin-oci-logging](https://github.com/oracle/fluent-plugin-oci-logging) pushed_at:2022-05 star:0.0k fork:0.0k This is the official fluentD output plugin for the Oracle Cloud Infrastructure (OCI) Logging service.
 - [oracle/fmw-chef-cookbook](https://github.com/oracle/fmw-chef-cookbook) pushed_at:2019-03 star:0.0k fork:0.1k Official repository of samples that show how to use Chef to provision Oracle Fusion Middleware (FMW) products.
 - [oracle/knife-oci](https://github.com/oracle/knife-oci) pushed_at:2019-01 star:0.0k fork:0.0k Chef Knife Plugin for Oracle Cloud Infrastructure
-- [oracle/oci-ruby-sdk](https://github.com/oracle/oci-ruby-sdk) pushed_at:2022-03 star:0.0k fork:0.0k Ruby SDK for Oracle Cloud Infrastructure
+- [oracle/oci-ruby-sdk](https://github.com/oracle/oci-ruby-sdk) pushed_at:2022-05 star:0.0k fork:0.0k Ruby SDK for Oracle Cloud Infrastructure
 - [oracle/puppet-solaris_providers](https://github.com/oracle/puppet-solaris_providers) pushed_at:2021-06 star:0.0k fork:0.0k Oracle Solaris Puppet Module
 - [oracle/solaris-chef-cookbook](https://github.com/oracle/solaris-chef-cookbook) pushed_at:2017-10 star:0.0k fork:0.0k Chef Cookbook for Oracle Solaris
 - [oracle/truffleruby](https://github.com/oracle/truffleruby) pushed_at:2022-05 star:2.7k fork:0.2k A high performance implementation of the Ruby programming language, built on GraalVM.
@@ -360,9 +360,9 @@
 - [oracle/fmw-kubernetes](https://github.com/oracle/fmw-kubernetes) pushed_at:2022-05 star:0.0k fork:0.0k Kubernetes Deployment Scripts for Oracle Fusion Middleware products
 - [oracle/ktf](https://github.com/oracle/ktf) pushed_at:2022-04 star:0.1k fork:0.0k Kernel Test Framework - a unit test framework for the Linux kernel
 - [oracle/kubernetes-kubespray](https://github.com/oracle/kubernetes-kubespray) pushed_at:2021-09 star:0.0k fork:0.0k Setup a kubernetes cluster
-- [oracle/oci-react-samples](https://github.com/oracle/oci-react-samples) pushed_at:2022-04 star:0.0k fork:0.0k A series of simple Cloud Native app using React JS frontend, various backends (Java, Python, DotNet) and the Autonomous database. 
+- [oracle/oci-react-samples](https://github.com/oracle/oci-react-samples) pushed_at:2022-05 star:0.0k fork:0.0k A series of simple Cloud Native app using React JS frontend, various backends (Java, Python, DotNet) and the Autonomous database. 
 - [oracle/oracle-linux](https://github.com/oracle/oracle-linux) pushed_at:2022-05 star:0.1k fork:0.0k Scripts, examples, and tutorials to get started with Oracle Linux
-- [oracle/vagrant-projects](https://github.com/oracle/vagrant-projects) pushed_at:2022-04 star:0.8k fork:0.4k Vagrant projects for Oracle products and other examples
+- [oracle/vagrant-projects](https://github.com/oracle/vagrant-projects) pushed_at:2022-05 star:0.8k fork:0.4k Vagrant projects for Oracle products and other examples
 - [oracle/weblogic-azure](https://github.com/oracle/weblogic-azure) pushed_at:2022-05 star:0.0k fork:0.0k This project offers support for running Oracle WebLogic Server in the Azure Virtual Machines and Azure Kubernetes Service (AKS)
 - [oracle/wookiee-cache](https://github.com/oracle/wookiee-cache) pushed_at:2021-05 star:0.0k fork:0.0k Wookiee Component - Cache
 

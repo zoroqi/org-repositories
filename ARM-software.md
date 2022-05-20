@@ -17,9 +17,9 @@
 - [Jupyter Notebook](#jupyter-notebook) (5)
 - [OCaml](#ocaml) (1)
 - [Objective-C](#objective-c) (1)
-- [Others](#others) (8)
+- [Others](#others) (9)
 - [PostScript](#postscript) (1)
-- [Python](#python) (20)
+- [Python](#python) (19)
 - [Ruby](#ruby) (1)
 - [Rust](#rust) (1)
 - [Shell](#shell) (5)
@@ -114,7 +114,7 @@
 - [ARM-software/perfdoc](https://github.com/ARM-software/perfdoc) pushed_at:2022-01 star:0.1k fork:0.0k A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
 - [ARM-software/sdc600-debugger](https://github.com/ARM-software/sdc600-debugger) pushed_at:2021-03 star:0.0k fork:0.0k API, reference libraries and example application for Arm Secure Debug Channel (SDC-600)
 - [ARM-software/tarmac-trace-utilities](https://github.com/ARM-software/tarmac-trace-utilities) pushed_at:2022-03 star:0.0k fork:0.0k Tools for analyzing and browsing Tarmac instruction traces.
-- [ARM-software/tracetooltests](https://github.com/ARM-software/tracetooltests) pushed_at:2022-04 star:0.0k fork:0.0k 
+- [ARM-software/tracetooltests](https://github.com/ARM-software/tracetooltests) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [ARM-software/vktrace-arm](https://github.com/ARM-software/vktrace-arm) pushed_at:2022-04 star:0.0k fork:0.0k Vktrace arm fork
 - [ARM-software/Vulkan-ValidationLayers](https://github.com/ARM-software/Vulkan-ValidationLayers) pushed_at:2020-08 star:0.0k fork:0.0k Vulkan Validation Layers
 - [ARM-software/vulkan_best_practice_for_mobile_developers](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers) pushed_at:2021-04 star:0.5k fork:0.0k Vulkan best practice for mobile developers
@@ -149,7 +149,7 @@
 
 - [ARM-software/fast-probabilistic-models](https://github.com/ARM-software/fast-probabilistic-models) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [ARM-software/keyword-transformer](https://github.com/ARM-software/keyword-transformer) pushed_at:2022-04 star:0.1k fork:0.0k 
-- [ARM-software/lisa](https://github.com/ARM-software/lisa) pushed_at:2022-04 star:0.2k fork:0.1k Linux Integrated System Analysis
+- [ARM-software/lisa](https://github.com/ARM-software/lisa) pushed_at:2022-05 star:0.2k fork:0.1k Linux Integrated System Analysis
 - [ARM-software/mango](https://github.com/ARM-software/mango) pushed_at:2022-03 star:0.1k fork:0.0k Parallel Hyperparameter Tuning in Python
 - [ARM-software/ML-zoo](https://github.com/ARM-software/ML-zoo) pushed_at:2022-03 star:0.1k fork:0.0k 
 
@@ -170,6 +170,7 @@
 - [ARM-software/NXP_iMX](https://github.com/ARM-software/NXP_iMX) pushed_at:2016-03 star:0.0k fork:0.0k CMSIS Driver Implementations for the NXP i.MX Device Series with Cortex-M processor
 - [ARM-software/NXP_Kinetis](https://github.com/ARM-software/NXP_Kinetis) pushed_at:2016-03 star:0.0k fork:0.0k CMSIS Driver Implementations for the NXP Kinetis Microcontroller Series
 - [ARM-software/open-iot-sdk](https://github.com/ARM-software/open-iot-sdk) pushed_at:2022-05 star:0.0k fork:0.0k Open-IoT-SDK - Home of the Total Solution applications.
+- [ARM-software/psa-firmware-update-spec](https://github.com/ARM-software/psa-firmware-update-spec) pushed_at:2022-05 star:0.0k fork:0.0k The PSA Firmware Update API specification, and discussion of future versions of this API.
 - [ARM-software/tf-issues](https://github.com/ARM-software/tf-issues) pushed_at:2020-01 star:0.0k fork:0.0k Issue tracking for the ARM Trusted Firmware project
 
 ## PostScript
@@ -186,7 +187,7 @@
 - [ARM-software/Cloud-IoT-Core-Kit-Examples](https://github.com/ARM-software/Cloud-IoT-Core-Kit-Examples) pushed_at:2018-07 star:0.1k fork:0.0k Example projects and code are supplied to support the Arm-based IoT Kit for Cloud IoT Core
 - [ARM-software/core-benchmarks](https://github.com/ARM-software/core-benchmarks) pushed_at:2021-01 star:0.0k fork:0.0k 
 - [ARM-software/daq-server](https://github.com/ARM-software/daq-server) pushed_at:2021-10 star:0.0k fork:0.0k Server for remote access to National Instruments DAQ devices
-- [ARM-software/devlib](https://github.com/ARM-software/devlib) pushed_at:2022-04 star:0.0k fork:0.1k Library for interaction with and instrumentation of remote devices.
+- [ARM-software/devlib](https://github.com/ARM-software/devlib) pushed_at:2022-05 star:0.0k fork:0.1k Library for interaction with and instrumentation of remote devices.
 - [ARM-software/LLVM-embedded-toolchain-for-Arm](https://github.com/ARM-software/LLVM-embedded-toolchain-for-Arm) pushed_at:2022-04 star:0.1k fork:0.0k A project dedicated to build LLVM toolchain for 32-bit Arm embedded targets.
 - [ARM-software/mram_simulation_framework](https://github.com/ARM-software/mram_simulation_framework) pushed_at:2021-10 star:0.0k fork:0.0k MRAM magnetization simulation framework. s-LLGS python and verilog-a solvers for transients simulation and  Fokker-planck equation solver for stochastic analysis
 - [ARM-software/perfsage](https://github.com/ARM-software/perfsage) pushed_at:2021-10 star:0.0k fork:0.0k 
@@ -195,7 +196,6 @@
 - [ARM-software/sesr](https://github.com/ARM-software/sesr) pushed_at:2022-03 star:0.0k fork:0.0k Super-Efficient Super Resolution
 - [ARM-software/trappy](https://github.com/ARM-software/trappy) pushed_at:2021-11 star:0.1k fork:0.0k This repository has moved to https://gitlab.arm.com/tooling/trappy
 - [ARM-software/tspfnbeats](https://github.com/ARM-software/tspfnbeats) pushed_at:2020-10 star:0.0k fork:0.0k 
-- [ARM-software/VHT-AMI](https://github.com/ARM-software/VHT-AMI) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [ARM-software/workload-automation](https://github.com/ARM-software/workload-automation) pushed_at:2022-04 star:0.1k fork:0.1k A framework for automating workload execution and measurement collection on ARM devices.
 - [ARM-software/workload-automation-assets](https://github.com/ARM-software/workload-automation-assets) pushed_at:2018-06 star:0.0k fork:0.0k Assets used by the workload-automation software
 
@@ -210,7 +210,7 @@
 ## Shell
 
 - [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) pushed_at:2022-05 star:0.4k fork:0.1k Application Binary Interface for the Arm® Architecture
-- [ARM-software/arm-systemready](https://github.com/ARM-software/arm-systemready) pushed_at:2022-04 star:0.0k fork:0.0k Arm SystemReady
+- [ARM-software/arm-systemready](https://github.com/ARM-software/arm-systemready) pushed_at:2022-05 star:0.0k fork:0.0k Arm SystemReady
 - [ARM-software/ohpc-config](https://github.com/ARM-software/ohpc-config) pushed_at:2017-08 star:0.0k fork:0.0k Scripts and config files for recreating an OpenHPC OBS instance.
 - [ARM-software/toolchain](https://github.com/ARM-software/toolchain) pushed_at:2020-02 star:0.0k fork:0.0k An master project to en route toolchain build requests into corresponding sub-projects with appropriate tags
 - [ARM-software/toolchain-gnu-bare-metal](https://github.com/ARM-software/toolchain-gnu-bare-metal) pushed_at:2020-03 star:0.0k fork:0.0k A toolchain sub-project dedicated to build GNU toolchain for 32-bit bare-metal targets
