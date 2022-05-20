@@ -68,7 +68,7 @@
 
 ## Others
 
-- [tuna/artwork](https://github.com/tuna/artwork) pushed_at:2021-10 star:0.0k fork:0.0k tuna artwork
+- [tuna/artwork](https://github.com/tuna/artwork) pushed_at:2022-05 star:0.0k fork:0.0k tuna artwork
 - [tuna/Books](https://github.com/tuna/Books) pushed_at:2020-11 star:0.0k fork:0.0k Tracking Books of TUNA Library
 - [tuna/Cash](https://github.com/tuna/Cash) pushed_at:2022-03 star:0.0k fork:0.0k 
 - [tuna/collection](https://github.com/tuna/collection) pushed_at:2022-04 star:0.2k fork:0.0k idea collections from TUNA
@@ -86,7 +86,7 @@
 ## Python
 
 - [tuna/bandersnatch](https://github.com/tuna/bandersnatch) pushed_at:2020-02 star:0.0k fork:0.0k A PyPI mirror client according to PEP 381 http://www.python.org/dev/peps/pep-0381/
-- [tuna/blogroll](https://github.com/tuna/blogroll) pushed_at:2022-04 star:0.8k fork:0.1k 世界一流兼容并包TUNA协会收集的周围同学们的Blog
+- [tuna/blogroll](https://github.com/tuna/blogroll) pushed_at:2022-05 star:0.8k fork:0.1k 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [tuna/django-helpdesk](https://github.com/tuna/django-helpdesk) pushed_at:2014-12 star:0.0k fork:0.0k A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [tuna/feed_tuna](https://github.com/tuna/feed_tuna) pushed_at:2017-09 star:0.0k fork:0.0k Telegram shop/payment bot 金枪鱼喂食计划
 - [tuna/fishroom](https://github.com/tuna/fishroom) pushed_at:2021-02 star:0.3k fork:0.1k Message forwarding for multiple IM protocols
@@ -112,7 +112,7 @@
 
 ## TeX
 
-- [tuna/THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme) pushed_at:2020-12 star:0.2k fork:0.0k A LaTeX beamer theme template for Tsinghua students.
+- [tuna/THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme) pushed_at:2020-12 star:0.2k fork:0.1k A LaTeX beamer theme template for Tsinghua students.
 - [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) pushed_at:2022-04 star:0.3k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
 - [tuna/thuthesis](https://github.com/tuna/thuthesis) pushed_at:2022-05 star:3.5k fork:1.0k LaTeX Thesis Template for Tsinghua University
 

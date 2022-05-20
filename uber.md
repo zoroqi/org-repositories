@@ -15,13 +15,14 @@
 - [JavaScript](#javascript) (30)
 - [Jupyter Notebook](#jupyter-notebook) (1)
 - [Kotlin](#kotlin) (6)
+- [Makefile](#makefile) (1)
 - [OCaml](#ocaml) (1)
 - [Objective-C](#objective-c) (4)
 - [Others](#others) (2)
 - [PHP](#php) (1)
 - [Python](#python) (21)
 - [Ruby](#ruby) (2)
-- [Shell](#shell) (2)
+- [Shell](#shell) (1)
 - [Stata](#stata) (1)
 - [Swift](#swift) (10)
 - [Thrift](#thrift) (3)
@@ -91,7 +92,7 @@
 - [uber/tchannel-java](https://github.com/uber/tchannel-java) pushed_at:2021-03 star:0.1k fork:0.1k A Java implementation of the TChannel protocol.
 - [uber/uber-graph-benchmark](https://github.com/uber/uber-graph-benchmark) pushed_at:2019-01 star:0.0k fork:0.0k A framework to benchmark different graph databases, based on generated data from customizable schema, distribution, and size.
 - [uber/uberscriptquery](https://github.com/uber/uberscriptquery) pushed_at:2019-03 star:0.1k fork:0.0k UberScriptQuery, a SQL-like DSL to make writing Spark jobs super easy
-- [uber/uReplicator](https://github.com/uber/uReplicator) pushed_at:2022-04 star:0.8k fork:0.2k Improvement of Apache Kafka Mirrormaker
+- [uber/uReplicator](https://github.com/uber/uReplicator) pushed_at:2022-05 star:0.8k fork:0.2k Improvement of Apache Kafka Mirrormaker
 
 ## JavaScript
 
@@ -105,7 +106,7 @@
 - [uber/geojson2h3](https://github.com/uber/geojson2h3) pushed_at:2021-09 star:0.1k fork:0.0k Conversion utilities between H3 indexes and GeoJSON
 - [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) pushed_at:2022-05 star:0.4k fork:0.1k grafana dash dash dash gen
 - [uber/graph.gl](https://github.com/uber/graph.gl) pushed_at:2021-02 star:0.0k fork:0.0k WebGL2-Powered Visualization Components for Graph Visualization
-- [uber/h3-js](https://github.com/uber/h3-js) pushed_at:2022-04 star:0.5k fork:0.1k h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
+- [uber/h3-js](https://github.com/uber/h3-js) pushed_at:2022-04 star:0.6k fork:0.1k h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
 - [uber/json-schema-filter](https://github.com/uber/json-schema-filter) pushed_at:2020-10 star:0.0k fork:0.0k Filters (removes) objects from document based on passed json-schema
 - [uber/kafka-logger](https://github.com/uber/kafka-logger) pushed_at:2018-10 star:0.0k fork:0.0k A kafka logger for winston
 - [uber/logtron](https://github.com/uber/logtron) pushed_at:2018-10 star:0.2k fork:0.0k A logging MACHINE
@@ -136,8 +137,12 @@
 - [uber/crumb](https://github.com/uber/crumb) pushed_at:2021-12 star:0.1k fork:0.0k An annotation processor for breadcrumbing metadata across compilation boundaries.
 - [uber/lint-checks](https://github.com/uber/lint-checks) pushed_at:2020-11 star:0.1k fork:0.0k A set of opinionated and useful lint checks
 - [uber/motif](https://github.com/uber/motif) pushed_at:2022-05 star:0.5k fork:0.0k A simple DI API for Android / Java
-- [uber/RIBs](https://github.com/uber/RIBs) pushed_at:2022-04 star:6.9k fork:0.8k Uber's cross-platform mobile architecture framework.
+- [uber/RIBs](https://github.com/uber/RIBs) pushed_at:2022-05 star:6.9k fork:0.8k Uber's cross-platform mobile architecture framework.
 - [uber/stylist](https://github.com/uber/stylist) pushed_at:2021-05 star:0.4k fork:0.0k A stylist creates cool styles. Stylist is a Gradle plugin that codegens a base set of Android XML themes.
+
+## Makefile
+
+- [uber/go.uber.org](https://github.com/uber/go.uber.org) pushed_at:2022-05 star:0.0k fork:0.0k Golang https://go.uber.org custom import path
 
 ## OCaml
 
@@ -191,7 +196,6 @@
 ## Shell
 
 - [uber/denial-by-dns](https://github.com/uber/denial-by-dns) pushed_at:2021-02 star:0.0k fork:0.0k Testing local DOS due to getaddrinfo() exhaustion
-- [uber/go.uber.org](https://github.com/uber/go.uber.org) pushed_at:2020-03 star:0.0k fork:0.0k Golang https://go.uber.org custom import path
 
 ## Stata
 

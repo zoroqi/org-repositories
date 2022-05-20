@@ -66,8 +66,8 @@
 ## Python
 
 - [riscv/configuration-structure](https://github.com/riscv/configuration-structure) pushed_at:2022-05 star:0.0k fork:0.0k RISC-V Configuration Structure
-- [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) pushed_at:2022-04 star:0.1k fork:0.0k 
-- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) pushed_at:2022-05 star:0.3k fork:0.2k RISC-V Opcodes
+- [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) pushed_at:2022-05 star:0.1k fork:0.0k 
+- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) pushed_at:2022-05 star:0.4k fork:0.2k RISC-V Opcodes
 
 ## TeX
 
@@ -77,7 +77,7 @@
 - [riscv/riscv-count-overflow](https://github.com/riscv/riscv-count-overflow) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) pushed_at:2022-05 star:0.3k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2022-05 star:2.0k fork:0.4k RISC-V Instruction Set Manual
-- [riscv/riscv-state-enable](https://github.com/riscv/riscv-state-enable) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [riscv/riscv-state-enable](https://github.com/riscv/riscv-state-enable) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [riscv/riscv-time-compare](https://github.com/riscv/riscv-time-compare) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [riscv/riscv-zawrs](https://github.com/riscv/riscv-zawrs) pushed_at:2022-05 star:0.0k fork:0.0k The repo will be used to hold the draft Zawrs (fast-track) extension and to make releases for reviews. The Zawrs extension defines a single instruction to be used in polling loops that allows a core to enter a low-power state and wait on either a write to a memory location or other asynchronous system events. It addresses common use-cases in operating systems when waiting for contended locks or for completion events signaled by external I/O agents, accelerators, and other peripherals.
 
