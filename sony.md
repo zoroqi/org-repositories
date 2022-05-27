@@ -50,7 +50,7 @@
 ## Go
 
 - [sony/appsync-client-go](https://github.com/sony/appsync-client-go) pushed_at:2021-05 star:0.0k fork:0.0k AWS AppSync golang client library
-- [sony/gobreaker](https://github.com/sony/gobreaker) pushed_at:2022-04 star:2.0k fork:0.1k Circuit Breaker implemented in Go
+- [sony/gobreaker](https://github.com/sony/gobreaker) pushed_at:2022-04 star:2.0k fork:0.2k Circuit Breaker implemented in Go
 - [sony/micro-notifier](https://github.com/sony/micro-notifier) pushed_at:2021-02 star:0.0k fork:0.0k Simplified Pusher Clone
 - [sony/sonyflake](https://github.com/sony/sonyflake) pushed_at:2022-02 star:2.6k fork:0.2k A distributed unique ID generator inspired by Twitter's Snowflake
 
@@ -82,7 +82,7 @@
 
 ## Python
 
-- [sony/ai-research-code](https://github.com/sony/ai-research-code) pushed_at:2022-03 star:0.2k fork:0.0k 
+- [sony/ai-research-code](https://github.com/sony/ai-research-code) pushed_at:2022-05 star:0.2k fork:0.0k 
 - [sony/dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) pushed_at:2022-03 star:0.0k fork:0.0k 
 - [sony/lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [sony/model_optimization](https://github.com/sony/model_optimization) pushed_at:2022-05 star:0.0k fork:0.0k Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks.
@@ -98,7 +98,7 @@
 
 - [sony/cdp-js](https://github.com/sony/cdp-js) pushed_at:2018-05 star:0.0k fork:0.0k Libraries/SDK modules for multi-platform application development
 - [sony/mapray-js](https://github.com/sony/mapray-js) pushed_at:2022-05 star:0.1k fork:0.0k JavaScript library for Interactive high quality 3D globes and maps in the browser
-- [sony/nnabla-browser](https://github.com/sony/nnabla-browser) pushed_at:2022-04 star:0.0k fork:0.0k Visualization toolkit for Neural Network Libraries
+- [sony/nnabla-browser](https://github.com/sony/nnabla-browser) pushed_at:2022-05 star:0.0k fork:0.0k Visualization toolkit for Neural Network Libraries
 - [sony/typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) pushed_at:2020-01 star:0.0k fork:0.0k Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa.
 
 

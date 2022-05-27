@@ -31,14 +31,14 @@
 
 ## C
 
-- [uber/h3](https://github.com/uber/h3) pushed_at:2022-04 star:3.4k fork:0.3k Hexagonal hierarchical geospatial indexing system
+- [uber/h3](https://github.com/uber/h3) pushed_at:2022-05 star:3.5k fork:0.3k Hexagonal hierarchical geospatial indexing system
 - [uber/h3-go](https://github.com/uber/h3-go) pushed_at:2021-12 star:0.2k fork:0.0k Go bindings for H3, a hierarchical hexagonal geospatial indexing system
 
 ## C++
 
 - [uber/libphutil](https://github.com/uber/libphutil) pushed_at:2021-12 star:0.0k fork:0.0k A collection of PHP utility classes
 - [uber/nanoscope-art](https://github.com/uber/nanoscope-art) pushed_at:2019-09 star:0.0k fork:0.0k 
-- [uber/neuropod](https://github.com/uber/neuropod) pushed_at:2022-04 star:0.9k fork:0.1k A uniform interface to run deep learning models from multiple frameworks
+- [uber/neuropod](https://github.com/uber/neuropod) pushed_at:2022-05 star:0.9k fork:0.1k A uniform interface to run deep learning models from multiple frameworks
 - [uber/percona-server](https://github.com/uber/percona-server) pushed_at:2017-06 star:0.0k fork:0.0k Percona Server
 
 ## Go
@@ -89,7 +89,7 @@
 - [uber/RxCentralBle](https://github.com/uber/RxCentralBle) pushed_at:2022-02 star:0.2k fork:0.0k A reactive, interface-driven central role Bluetooth LE library for Android
 - [uber/RxDogTag](https://github.com/uber/RxDogTag) pushed_at:2021-04 star:0.6k fork:0.0k Automatic tagging of RxJava 2+ originating subscribe points for onError() investigation.
 - [uber/simple-store](https://github.com/uber/simple-store) pushed_at:2022-05 star:0.1k fork:0.0k Simple yet performant asynchronous file storage for Android
-- [uber/tchannel-java](https://github.com/uber/tchannel-java) pushed_at:2021-03 star:0.1k fork:0.1k A Java implementation of the TChannel protocol.
+- [uber/tchannel-java](https://github.com/uber/tchannel-java) pushed_at:2022-05 star:0.1k fork:0.1k A Java implementation of the TChannel protocol.
 - [uber/uber-graph-benchmark](https://github.com/uber/uber-graph-benchmark) pushed_at:2019-01 star:0.0k fork:0.0k A framework to benchmark different graph databases, based on generated data from customizable schema, distribution, and size.
 - [uber/uberscriptquery](https://github.com/uber/uberscriptquery) pushed_at:2019-03 star:0.1k fork:0.0k UberScriptQuery, a SQL-like DSL to make writing Spark jobs super easy
 - [uber/uReplicator](https://github.com/uber/uReplicator) pushed_at:2022-05 star:0.8k fork:0.2k Improvement of Apache Kafka Mirrormaker

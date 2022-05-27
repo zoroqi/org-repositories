@@ -49,7 +49,7 @@
 
 ## Clojure
 
-- [pingcap/jepsen](https://github.com/pingcap/jepsen) pushed_at:2021-09 star:0.0k fork:0.0k A framework for distributed systems verification, with fault injection
+- [pingcap/jepsen](https://github.com/pingcap/jepsen) pushed_at:2022-05 star:0.0k fork:0.0k A framework for distributed systems verification, with fault injection
 
 ## Go
 
@@ -87,7 +87,7 @@
 - [pingcap/parser](https://github.com/pingcap/parser) pushed_at:2022-04 star:1.2k fork:0.5k A MySQL Compatible SQL Parser
 - [pingcap/public_bi_benchmark](https://github.com/pingcap/public_bi_benchmark) pushed_at:2022-04 star:0.0k fork:0.0k BI benchmark with user generated data and queries
 - [pingcap/sysutil](https://github.com/pingcap/sysutil) pushed_at:2022-05 star:0.0k fork:0.0k sysutil is a library which implementats the gRPC service Diagnostics and shares the diagnostics functions between TiDB and PD.
-- [pingcap/tidb](https://github.com/pingcap/tidb) pushed_at:2022-05 star:31.3k fork:5.1k TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/signup
+- [pingcap/tidb](https://github.com/pingcap/tidb) pushed_at:2022-05 star:31.4k fork:5.1k TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/signup
 - [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) pushed_at:2022-05 star:0.3k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
 - [pingcap/tidb-cloud-backup](https://github.com/pingcap/tidb-cloud-backup) pushed_at:2020-02 star:0.0k fork:0.0k 
 - [pingcap/tidb-ctl](https://github.com/pingcap/tidb-ctl) pushed_at:2022-03 star:0.0k fork:0.0k TiDB Controller
@@ -133,7 +133,7 @@
 
 ## Others
 
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2022-03 star:4.7k fork:0.6k A list of learning materials to understand databases internals
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) pushed_at:2022-03 star:4.8k fork:0.6k A list of learning materials to understand databases internals
 - [pingcap/blog-jp](https://github.com/pingcap/blog-jp) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [pingcap/community](https://github.com/pingcap/community) pushed_at:2022-05 star:0.2k fork:0.1k TiDB community content
 - [pingcap/hibernate-tidb](https://github.com/pingcap/hibernate-tidb) pushed_at:2021-08 star:0.0k fork:0.0k 
@@ -164,7 +164,7 @@
 - [pingcap/django-tidb](https://github.com/pingcap/django-tidb) pushed_at:2022-04 star:0.0k fork:0.0k 
 - [pingcap/docs](https://github.com/pingcap/docs) pushed_at:2022-05 star:0.5k fork:0.5k TiDB database documentation.
 - [pingcap/docs-appdev](https://github.com/pingcap/docs-appdev) pushed_at:2022-05 star:0.0k fork:0.0k 
-- [pingcap/docs-dm](https://github.com/pingcap/docs-dm) pushed_at:2022-04 star:0.0k fork:0.1k Documentation for the TiDB Data Migration (DM) tool in both English and Chinese.
+- [pingcap/docs-dm](https://github.com/pingcap/docs-dm) pushed_at:2022-05 star:0.0k fork:0.1k Documentation for the TiDB Data Migration (DM) tool in both English and Chinese.
 - [pingcap/docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator) pushed_at:2022-05 star:0.0k fork:0.1k Documentation for TiDB in Kubernetes in both English and Chinese.
 - [pingcap/education](https://github.com/pingcap/education) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [pingcap/oasis](https://github.com/pingcap/oasis) pushed_at:2018-05 star:0.0k fork:0.0k 

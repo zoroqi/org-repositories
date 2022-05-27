@@ -67,7 +67,7 @@
 - [twitter/elephant-bird](https://github.com/twitter/elephant-bird) pushed_at:2022-01 star:1.1k fork:0.4k Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
 - [twitter/GraphJet](https://github.com/twitter/GraphJet) pushed_at:2022-03 star:0.5k fork:0.1k GraphJet is a real-time graph processing library.
 - [twitter/hbc](https://github.com/twitter/hbc) pushed_at:2022-04 star:0.9k fork:0.4k A Java HTTP client for consuming Twitter's realtime Streaming API
-- [twitter/hpack](https://github.com/twitter/hpack) pushed_at:2022-01 star:0.2k fork:0.1k Header Compression for HTTP/2
+- [twitter/hpack](https://github.com/twitter/hpack) pushed_at:2022-05 star:0.2k fork:0.1k Header Compression for HTTP/2
 - [twitter/hraven](https://github.com/twitter/hraven) pushed_at:2022-01 star:0.1k fork:0.1k hRaven collects run time data and statistics from MapReduce jobs in an easily queryable format
 - [twitter/joauth](https://github.com/twitter/joauth) pushed_at:2021-08 star:0.2k fork:0.1k A Java library for authenticating HTTP Requests using OAuth
 - [twitter/netty-http2](https://github.com/twitter/netty-http2) pushed_at:2021-12 star:0.1k fork:0.1k HTTP/2 for Netty
