@@ -32,7 +32,7 @@
 - [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) pushed_at:2022-05 star:1.4k fork:1.1k Read-only mirror of Trusted Firmware-A
 - [ARM-software/astc-encoder](https://github.com/ARM-software/astc-encoder) pushed_at:2022-05 star:0.6k fork:0.2k This is the official repository for the Arm ASTC Encoder, a texture compressor for the Adaptive Scalable Texture Compression data format.
 - [ARM-software/avh-api](https://github.com/ARM-software/avh-api) pushed_at:2022-04 star:0.0k fork:0.0k 
-- [ARM-software/AVH-AWS_MQTT_Demo](https://github.com/ARM-software/AVH-AWS_MQTT_Demo) pushed_at:2022-04 star:0.0k fork:0.0k Repository of software tests for validating CMSIS-RTOS2 compliant RTOS implementations.
+- [ARM-software/AVH-AWS_MQTT_Demo](https://github.com/ARM-software/AVH-AWS_MQTT_Demo) pushed_at:2022-04 star:0.0k fork:0.0k Implements an IoT application that connects to AWS cloud services, and with Continuous Integration (CI) tests performed on Arm Virtual Hardware.
 - [ARM-software/AVH-GetStarted](https://github.com/ARM-software/AVH-GetStarted) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [ARM-software/AVH-SystemModeling](https://github.com/ARM-software/AVH-SystemModeling) pushed_at:2022-02 star:0.0k fork:0.0k Example Software Applications using Virtual Hardware (AVH).
 - [ARM-software/AVH-TFLmicrospeech](https://github.com/ARM-software/AVH-TFLmicrospeech) pushed_at:2022-05 star:0.0k fork:0.0k Example: Micro speech for TensorFlow Lite
@@ -40,9 +40,9 @@
 - [ARM-software/bento-linker](https://github.com/ARM-software/bento-linker) pushed_at:2021-01 star:0.0k fork:0.0k A light-weight alternative to processes for microcontrollers.
 - [ARM-software/bsa-acs](https://github.com/ARM-software/bsa-acs) pushed_at:2022-05 star:0.0k fork:0.0k Arm SystemReady : BSA Architecture Compliance Suite
 - [ARM-software/CMSIS](https://github.com/ARM-software/CMSIS) pushed_at:2018-10 star:0.4k fork:0.4k Cortex Microcontroller Software Interface Standard
-- [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) pushed_at:2022-04 star:0.1k fork:0.0k Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
+- [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) pushed_at:2022-05 star:0.1k fork:0.0k Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
 - [ARM-software/CMSIS-Driver_Validation](https://github.com/ARM-software/CMSIS-Driver_Validation) pushed_at:2022-05 star:0.0k fork:0.0k Repository containing validation components for microcontroller peripheral driver implementing the CMSIS-Driver API specification.
-- [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) pushed_at:2022-04 star:0.4k fork:0.1k FreeRTOS adaptation for CMSIS-RTOS Version 2
+- [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) pushed_at:2022-05 star:0.4k fork:0.1k FreeRTOS adaptation for CMSIS-RTOS Version 2
 - [ARM-software/CMSIS-mbedTLS](https://github.com/ARM-software/CMSIS-mbedTLS) pushed_at:2022-02 star:0.0k fork:0.0k CMSIS Pack for the mbedTLS software stack
 - [ARM-software/CMSIS-Musca-S1](https://github.com/ARM-software/CMSIS-Musca-S1) pushed_at:2021-10 star:0.0k fork:0.0k Repository of CMSIS Software Pack for Musca-S1 test-chip and board.
 - [ARM-software/CMSIS-RTOS2_Validation](https://github.com/ARM-software/CMSIS-RTOS2_Validation) pushed_at:2022-05 star:0.0k fork:0.0k Validation test suite for CMSIS-RTOS2 API implementations using Arm Virtual Hardware (AVH).
@@ -67,7 +67,7 @@
 - [ARM-software/ML-KWS-for-MCU](https://github.com/ARM-software/ML-KWS-for-MCU) pushed_at:2019-04 star:1.0k fork:0.4k Keyword spotting on Arm Cortex-M Microcontrollers
 - [ARM-software/mobile-studio-integration-for-unity](https://github.com/ARM-software/mobile-studio-integration-for-unity) pushed_at:2022-04 star:0.1k fork:0.0k Mobile Studio tool integration with C# scripting for the Unity game engine.
 - [ARM-software/NXP_LPC](https://github.com/ARM-software/NXP_LPC) pushed_at:2021-12 star:0.0k fork:0.0k CMSIS Driver Implementations for the NXP LPC Microcontroller Series
-- [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) pushed_at:2022-04 star:0.3k fork:0.1k Optimized implementations of various library functions for ARM architecture processors
+- [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) pushed_at:2022-05 star:0.3k fork:0.1k Optimized implementations of various library functions for ARM architecture processors
 - [ARM-software/perf-libs-tools](https://github.com/ARM-software/perf-libs-tools) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [ARM-software/progress64](https://github.com/ARM-software/progress64) pushed_at:2022-03 star:0.0k fork:0.0k PROGRESS64 is a C library of scalable functions for concurrent programs, primarily focused on networking applications.
 - [ARM-software/psa-arch-tests](https://github.com/ARM-software/psa-arch-tests) pushed_at:2022-05 star:0.0k fork:0.1k Tests for verifying implementations of TBSA-v8M and the PSA Developer APIs
@@ -92,11 +92,11 @@
 - [ARM-software/ATP-Engine](https://github.com/ARM-software/ATP-Engine) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [ARM-software/BarrierPoint](https://github.com/ARM-software/BarrierPoint) pushed_at:2020-05 star:0.0k fork:0.0k 
 - [ARM-software/caiman](https://github.com/ARM-software/caiman) pushed_at:2022-01 star:0.0k fork:0.0k Sources for Arm Streamline's caiman daemon
-- [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) pushed_at:2022-03 star:2.2k fork:0.7k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
+- [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) pushed_at:2022-05 star:2.2k fork:0.7k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [ARM-software/developer](https://github.com/ARM-software/developer) pushed_at:2021-10 star:0.0k fork:0.0k GTM related documentation
 - [ARM-software/devtools](https://github.com/ARM-software/devtools) pushed_at:2022-05 star:0.0k fork:0.0k Open-CMSIS-Pack development tools - C++ 
 - [ARM-software/drm-hwcomposer](https://github.com/ARM-software/drm-hwcomposer) pushed_at:2021-11 star:0.0k fork:0.0k Clone of the drm-hwcomposer from freedesktop.org plus patches from Mali DP team
-- [ARM-software/ethos-n-driver-stack](https://github.com/ARM-software/ethos-n-driver-stack) pushed_at:2022-03 star:0.0k fork:0.0k Driver stack (including user space libraries, kernel module and firmware) for the Arm® Ethos™-N NPU
+- [ARM-software/ethos-n-driver-stack](https://github.com/ARM-software/ethos-n-driver-stack) pushed_at:2022-05 star:0.0k fork:0.0k Driver stack (including user space libraries, kernel module and firmware) for the Arm® Ethos™-N NPU
 - [ARM-software/gator](https://github.com/ARM-software/gator) pushed_at:2022-02 star:0.1k fork:0.1k Sources for Arm Streamline's gator daemon
 - [ARM-software/HPCG_for_Arm](https://github.com/ARM-software/HPCG_for_Arm) pushed_at:2020-09 star:0.0k fork:0.0k 
 - [ARM-software/HWCPipe](https://github.com/ARM-software/HWCPipe) pushed_at:2022-04 star:0.1k fork:0.0k Hardware counters interface
@@ -105,7 +105,7 @@
 - [ARM-software/libTLE](https://github.com/ARM-software/libTLE) pushed_at:2021-04 star:0.0k fork:0.0k This is a library of simple C11 and C++11 mutex primitives that provides support for Transactional Lock Elision (TLE) on Intel 64 with TSX and AArch64 with TME platforms.
 - [ARM-software/malioc-ue4](https://github.com/ARM-software/malioc-ue4) pushed_at:2016-04 star:0.0k fork:0.0k Mali Offline Compiler Plugin for Unreal Engine 4
 - [ARM-software/Methodology_for_ArmIE_SVE](https://github.com/ARM-software/Methodology_for_ArmIE_SVE) pushed_at:2019-11 star:0.0k fork:0.0k 
-- [ARM-software/ML-examples](https://github.com/ARM-software/ML-examples) pushed_at:2022-03 star:0.3k fork:0.2k Arm Machine Learning tutorials and examples
+- [ARM-software/ML-examples](https://github.com/ARM-software/ML-examples) pushed_at:2022-05 star:0.3k fork:0.2k Arm Machine Learning tutorials and examples
 - [ARM-software/ml_style_transfer_post_processing_on_mobile](https://github.com/ARM-software/ml_style_transfer_post_processing_on_mobile) pushed_at:2022-03 star:0.0k fork:0.0k Demo of using Vulkan and Arm Compute Library for real time ML-based graphics post processing
 - [ARM-software/nomali-model](https://github.com/ARM-software/nomali-model) pushed_at:2016-01 star:0.0k fork:0.0k A simple Mali 6xx/7xx register interface model that doesn't do any rendering.
 - [ARM-software/odp-example-sisu](https://github.com/ARM-software/odp-example-sisu) pushed_at:2016-09 star:0.0k fork:0.0k SISU - Simple GTP-U/IPsec application using ODP (OpenDataPlane)
@@ -126,7 +126,7 @@
 
 ## Dockerfile
 
-- [ARM-software/arm-hpc-tools](https://github.com/ARM-software/arm-hpc-tools) pushed_at:2019-03 star:0.0k fork:0.0k This repository is home to a dockerfile for an aarch64 ubuntu image containing Arm Compiler for HPC.
+- [ARM-software/arm-hpc-tools](https://github.com/ARM-software/arm-hpc-tools) pushed_at:2022-05 star:0.0k fork:0.0k This repository is home to a dockerfile for an aarch64 ubuntu image containing Arm Compiler for HPC.
 
 ## FreeMarker
 
@@ -150,8 +150,8 @@
 - [ARM-software/fast-probabilistic-models](https://github.com/ARM-software/fast-probabilistic-models) pushed_at:2021-10 star:0.0k fork:0.0k 
 - [ARM-software/keyword-transformer](https://github.com/ARM-software/keyword-transformer) pushed_at:2022-04 star:0.1k fork:0.0k 
 - [ARM-software/lisa](https://github.com/ARM-software/lisa) pushed_at:2022-05 star:0.2k fork:0.1k Linux Integrated System Analysis
-- [ARM-software/mango](https://github.com/ARM-software/mango) pushed_at:2022-03 star:0.1k fork:0.0k Parallel Hyperparameter Tuning in Python
-- [ARM-software/ML-zoo](https://github.com/ARM-software/ML-zoo) pushed_at:2022-03 star:0.1k fork:0.0k 
+- [ARM-software/mango](https://github.com/ARM-software/mango) pushed_at:2022-05 star:0.1k fork:0.0k Parallel Hyperparameter Tuning in Python
+- [ARM-software/ML-zoo](https://github.com/ARM-software/ML-zoo) pushed_at:2022-05 star:0.1k fork:0.0k 
 
 ## OCaml
 

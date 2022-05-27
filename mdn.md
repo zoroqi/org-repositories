@@ -52,7 +52,7 @@
 - [mdn/insights](https://github.com/mdn/insights) pushed_at:2022-04 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) pushed_at:2022-05 star:0.6k fork:0.4k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
-- [mdn/learning-area](https://github.com/mdn/learning-area) pushed_at:2022-05 star:4.9k fork:19.0k Github repo for the MDN Learning Area. 
+- [mdn/learning-area](https://github.com/mdn/learning-area) pushed_at:2022-05 star:4.9k fork:19.2k Github repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) pushed_at:2022-04 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
 - [mdn/learning-area-pt-br](https://github.com/mdn/learning-area-pt-br) pushed_at:2021-03 star:0.0k fork:0.1k The MDN Learning Area code examples translated into Brazilian Portuguese.
 - [mdn/machine-translation-testing-content](https://github.com/mdn/machine-translation-testing-content) pushed_at:2020-11 star:0.0k fork:0.0k This is a repository for testing machine translations of English content.
@@ -60,10 +60,10 @@
 - [mdn/pab](https://github.com/mdn/pab) pushed_at:2021-03 star:0.0k fork:0.0k MDN Web Docs Product Advisory Board
 - [mdn/retired-archived-content](https://github.com/mdn/retired-archived-content) pushed_at:2021-06 star:0.0k fork:0.0k Retired Archived MDN Content
 - [mdn/retired-content](https://github.com/mdn/retired-content) pushed_at:2021-04 star:0.0k fork:0.0k Content previously, but no longer displayed on MDN Web Docs.
-- [mdn/simple-shared-worker](https://github.com/mdn/simple-shared-worker) pushed_at:2019-04 star:0.2k fork:0.1k A simple demo to show shared worker basics.
+- [mdn/simple-shared-worker](https://github.com/mdn/simple-shared-worker) pushed_at:2022-05 star:0.2k fork:0.1k A simple demo to show shared worker basics.
 - [mdn/sphinx-theme](https://github.com/mdn/sphinx-theme) pushed_at:2017-10 star:0.0k fork:0.0k  (Deprecated) Make Sphinx docs look like MDN
 - [mdn/todo-react-build](https://github.com/mdn/todo-react-build) pushed_at:2020-05 star:0.0k fork:0.0k Live version of our sample todo app built with the React/ReactDOM framework.
-- [mdn/translated-content](https://github.com/mdn/translated-content) pushed_at:2022-05 star:0.8k fork:3.1k All translated MDN content in raw form
+- [mdn/translated-content](https://github.com/mdn/translated-content) pushed_at:2022-05 star:0.8k fork:3.2k All translated MDN content in raw form
 - [mdn/translated-content-rendered](https://github.com/mdn/translated-content-rendered) pushed_at:2021-02 star:0.0k fork:0.0k All translated (non-archived) MDN content in fully rendered form
 - [mdn/viewsourceconf](https://github.com/mdn/viewsourceconf) pushed_at:2019-03 star:0.0k fork:0.0k Repo for View Source Conference site
 - [mdn/web-tech-games](https://github.com/mdn/web-tech-games) pushed_at:2021-04 star:0.0k fork:0.0k Interactive diagram showing what parts of the web technology stack can used for different purposes when creating games. Includes links to more information about each.
@@ -72,7 +72,7 @@
 
 ## JSON
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) pushed_at:2022-05 star:4.0k fork:1.8k This repository contains compatibility data for Web technologies as displayed on MDN
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) pushed_at:2022-05 star:4.1k fork:1.9k This repository contains compatibility data for Web technologies as displayed on MDN
 
 ## JavaScript
 
@@ -85,7 +85,7 @@
 - [mdn/browser-compat-toolkit](https://github.com/mdn/browser-compat-toolkit) pushed_at:2019-04 star:0.0k fork:0.0k Toolkit for visualizing and editing MDN's browser compatibility data
 - [mdn/browsercompat-cm](https://github.com/mdn/browsercompat-cm) pushed_at:2017-05 star:0.0k fork:0.0k Browsercompat - Contribution & Moderation UI
 - [mdn/canvas-raycaster](https://github.com/mdn/canvas-raycaster) pushed_at:2022-03 star:0.1k fork:0.0k Using the <canvas> element to do software rendering of a 3D environment with ray-casting
-- [mdn/data](https://github.com/mdn/data) pushed_at:2022-04 star:0.6k fork:0.2k This repository contains general data for Web technologies
+- [mdn/data](https://github.com/mdn/data) pushed_at:2022-05 star:0.6k fork:0.2k This repository contains general data for Web technologies
 - [mdn/doc-linter-rules](https://github.com/mdn/doc-linter-rules) pushed_at:2019-04 star:0.0k fork:0.0k Linting rules used to lint MDN Web Documents
 - [mdn/doc-linter-webextension](https://github.com/mdn/doc-linter-webextension) pushed_at:2019-08 star:0.0k fork:0.0k Webextension to lint MDN documents
 - [mdn/e10s-example-addons](https://github.com/mdn/e10s-example-addons) pushed_at:2019-04 star:0.0k fork:0.0k Examples showing how to port add-ons to be e10s-compatible
@@ -108,11 +108,11 @@
 - [mdn/stumptown-content](https://github.com/mdn/stumptown-content) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [mdn/sw-test](https://github.com/mdn/sw-test) pushed_at:2022-03 star:0.7k fork:0.2k Service Worker test repository. This is a very simple demo to show basic service worker features in action.
 - [mdn/to-do-notifications](https://github.com/mdn/to-do-notifications) pushed_at:2022-03 star:0.4k fork:0.1k Enhanced version of the to-do app, which stores to-do items via IndexedDB, and then also aims to provide notifications when to-do item deadlines are up, via the Notification and Vibration APIs.
-- [mdn/todo-react](https://github.com/mdn/todo-react) pushed_at:2022-05 star:0.1k fork:0.1k Sample todo app built with the React/ReactDOM framework.
+- [mdn/todo-react](https://github.com/mdn/todo-react) pushed_at:2022-05 star:0.1k fork:0.2k Sample todo app built with the React/ReactDOM framework.
 - [mdn/violent-theremin](https://github.com/mdn/violent-theremin) pushed_at:2022-04 star:0.2k fork:0.1k Violent theremin uses the Web Audio API to generate sound, and HTML5 canvas for a bit of pretty visualization. The colours generated depend on the pitch and gain of the current note, which are themselves dependant on the mouse pointer position.
 - [mdn/voice-change-o-matic](https://github.com/mdn/voice-change-o-matic) pushed_at:2020-04 star:0.6k fork:0.2k Web Audio API-powered voice changer and visualizer
 - [mdn/voice-change-o-matic-float-data](https://github.com/mdn/voice-change-o-matic-float-data) pushed_at:2022-03 star:0.0k fork:0.0k Web Audio API-powered voice changer and visualizer - this is exactly the same as https://github.com/mdn/voice-change-o-matic, except that it uses float32Array data in the visualizations, not Uint8Array (unsigned byte) data.
-- [mdn/web-components-examples](https://github.com/mdn/web-components-examples) pushed_at:2022-04 star:2.2k fork:0.6k A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
+- [mdn/web-components-examples](https://github.com/mdn/web-components-examples) pushed_at:2022-05 star:2.2k fork:0.6k A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 - [mdn/web-dictaphone](https://github.com/mdn/web-dictaphone) pushed_at:2021-08 star:0.5k fork:0.2k A sample MDN app that uses getUserMedia and MediaRecorder API for recording audio snippets, and The Web Audio API for visualizations.
 - [mdn/web-speech-api](https://github.com/mdn/web-speech-api) pushed_at:2022-03 star:1.4k fork:0.7k A repository for demos illustrating features of the Web Speech API. See https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API for more details.
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) pushed_at:2022-05 star:3.2k fork:2.4k Example Firefox add-ons created using the WebExtensions API
@@ -127,7 +127,7 @@
 
 ## Markdown
 
-- [mdn/content](https://github.com/mdn/content) pushed_at:2022-05 star:5.5k fork:8.9k The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) pushed_at:2022-05 star:5.5k fork:9.1k The content behind MDN Web Docs
 
 ## Others
 
