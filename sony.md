@@ -35,13 +35,13 @@
 - [sony/easyhttpcpp](https://github.com/sony/easyhttpcpp) pushed_at:2022-01 star:0.1k fork:0.0k A cross-platform HTTP client library with a focus on usability and speed
 - [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) pushed_at:2022-05 star:0.0k fork:0.0k Flutter plugins for embedded Linux (eLinux)
 - [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) pushed_at:2022-05 star:0.8k fork:0.1k Embedded Linux embedding for Flutter
-- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) pushed_at:2022-05 star:0.1k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
+- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) pushed_at:2022-06 star:0.1k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
 - [sony/node-win-usbdev](https://github.com/sony/node-win-usbdev) pushed_at:2018-02 star:0.0k fork:0.0k 
 - [sony/v8eval](https://github.com/sony/v8eval) pushed_at:2020-12 star:0.4k fork:0.0k Multi-language bindings to JavaScript engine V8
 
 ## Cuda
 
-- [sony/nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) pushed_at:2022-05 star:0.1k fork:0.0k A CUDA Extension of Neural Network Libraries
+- [sony/nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) pushed_at:2022-06 star:0.1k fork:0.0k A CUDA Extension of Neural Network Libraries
 
 ## Dart
 
@@ -70,7 +70,7 @@
 - [sony/generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) pushed_at:2016-05 star:0.0k fork:0.0k 
 - [sony/huis-ui-creator](https://github.com/sony/huis-ui-creator) pushed_at:2018-10 star:0.0k fork:0.0k 
 - [sony/isren](https://github.com/sony/isren) pushed_at:2021-05 star:0.0k fork:0.0k 
-- [sony/nmos-js](https://github.com/sony/nmos-js) pushed_at:2022-04 star:0.0k fork:0.0k An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
+- [sony/nmos-js](https://github.com/sony/nmos-js) pushed_at:2022-06 star:0.0k fork:0.0k An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
 
 ## Others
 
@@ -85,13 +85,13 @@
 - [sony/ai-research-code](https://github.com/sony/ai-research-code) pushed_at:2022-05 star:0.2k fork:0.0k 
 - [sony/dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) pushed_at:2022-03 star:0.0k fork:0.0k 
 - [sony/lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) pushed_at:2021-05 star:0.0k fork:0.0k 
-- [sony/model_optimization](https://github.com/sony/model_optimization) pushed_at:2022-05 star:0.0k fork:0.0k Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks.
-- [sony/nnabla](https://github.com/sony/nnabla) pushed_at:2022-05 star:2.5k fork:0.3k Neural Network Libraries
+- [sony/model_optimization](https://github.com/sony/model_optimization) pushed_at:2022-06 star:0.0k fork:0.0k Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks.
+- [sony/nnabla](https://github.com/sony/nnabla) pushed_at:2022-06 star:2.5k fork:0.3k Neural Network Libraries
 - [sony/nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) pushed_at:2019-03 star:0.0k fork:0.0k 
-- [sony/nnabla-examples](https://github.com/sony/nnabla-examples) pushed_at:2022-05 star:0.2k fork:0.1k Neural Network Libraries https://nnabla.org/ - Examples
+- [sony/nnabla-examples](https://github.com/sony/nnabla-examples) pushed_at:2022-06 star:0.2k fork:0.1k Neural Network Libraries https://nnabla.org/ - Examples
 - [sony/nnabla-nas](https://github.com/sony/nnabla-nas) pushed_at:2022-05 star:0.0k fork:0.0k Neural Architecture Search for Neural Network Libraries
-- [sony/nnabla-rl](https://github.com/sony/nnabla-rl) pushed_at:2022-05 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
-- [sony/nnc-plugin](https://github.com/sony/nnc-plugin) pushed_at:2022-05 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
+- [sony/nnabla-rl](https://github.com/sony/nnabla-rl) pushed_at:2022-06 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
+- [sony/nnc-plugin](https://github.com/sony/nnc-plugin) pushed_at:2022-06 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
 - [sony/pyIEOE](https://github.com/sony/pyIEOE) pushed_at:2021-09 star:0.0k fork:0.0k 
 
 ## TypeScript
