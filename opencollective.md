@@ -269,7 +269,7 @@
 - [opencollective/code-surfer](https://github.com/opencollective/code-surfer) pushed_at:2019-09 star:0.0k fork:0.0k Rad code slides <🏄/>
 - [opencollective/codecrumbs](https://github.com/opencollective/codecrumbs) pushed_at:2019-03 star:0.0k fork:0.0k Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.
 - [opencollective/coderplanets_web](https://github.com/opencollective/coderplanets_web) pushed_at:2019-07 star:0.0k fork:0.0k the most sexiest community for developers,  build with React, Mobx/MST, GraphQL, Styled-Components,  Rxjs, Ramda ... and ❤️
-- [opencollective/contributors-svg](https://github.com/opencollective/contributors-svg) pushed_at:2022-05 star:0.0k fork:0.0k 
+- [opencollective/contributors-svg](https://github.com/opencollective/contributors-svg) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [opencollective/core](https://github.com/opencollective/core) pushed_at:2017-07 star:0.0k fork:0.0k Agnostic Virtual Assistant
 - [opencollective/core-js](https://github.com/opencollective/core-js) pushed_at:2019-04 star:0.0k fork:0.0k Standard Library
 - [opencollective/country-currency-emoji-flags](https://github.com/opencollective/country-currency-emoji-flags) pushed_at:2022-06 star:0.0k fork:0.0k Returns Country Flag Emojis Given the Country or Currency Codes
@@ -367,7 +367,7 @@
 - [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) pushed_at:2022-06 star:0.0k fork:0.0k Open Collective's Image Server. For badges, banners, avatar, etc ...
 - [opencollective/opencollective-jobs](https://github.com/opencollective/opencollective-jobs) pushed_at:2018-05 star:0.0k fork:0.0k 
 - [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) pushed_at:2022-06 star:0.0k fork:0.0k Open Collective's PDF Server
-- [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) pushed_at:2022-05 star:0.0k fork:0.0k Prompt your users to donate to your collective after `npm install`
+- [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) pushed_at:2022-06 star:0.0k fork:0.0k Prompt your users to donate to your collective after `npm install`
 - [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) pushed_at:2022-05 star:0.0k fork:0.0k Open Collective's REST API legacy, v1, and v2!
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
 - [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
@@ -733,7 +733,7 @@
 - [opencollective/open-zwave](https://github.com/opencollective/open-zwave) pushed_at:2019-09 star:0.0k fork:0.0k a C++ library to control Z-Wave Networks via a USB Z-Wave Controller. 
 - [opencollective/openaddresses](https://github.com/opencollective/openaddresses) pushed_at:2020-01 star:0.0k fork:0.0k A repository of global open address data.
 - [opencollective/openboxes](https://github.com/opencollective/openboxes) pushed_at:2020-02 star:0.0k fork:0.0k OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
-- [opencollective/opencollective](https://github.com/opencollective/opencollective) pushed_at:2022-05 star:1.6k fork:0.4k We're tracking all our Issues, RFCs and a few other documents in this repository.
+- [opencollective/opencollective](https://github.com/opencollective/opencollective) pushed_at:2022-06 star:1.6k fork:0.4k We're tracking all our Issues, RFCs and a few other documents in this repository.
 - [opencollective/opencollective-lib](https://github.com/opencollective/opencollective-lib) pushed_at:2016-06 star:0.0k fork:0.0k Libraries in common in our repos
 - [opencollective/openmptcprouter](https://github.com/opencollective/openmptcprouter) pushed_at:2020-03 star:0.0k fork:0.0k OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [opencollective/opensource](https://github.com/opencollective/opensource) pushed_at:2016-07 star:0.0k fork:0.0k This is the Open Source Collective repo. Submit here issues related on how to spend the money and projects/ideas to get funded. 
@@ -1013,7 +1013,7 @@
 - [opencollective/angular-datepicker](https://github.com/opencollective/angular-datepicker) pushed_at:2017-11 star:0.0k fork:0.0k Highly configurable date picker built for Angular applications
 - [opencollective/angular-tree-component](https://github.com/opencollective/angular-tree-component) pushed_at:2019-12 star:0.0k fork:0.0k A simple yet powerful tree component for Angular (>=2)
 - [opencollective/ant-design-mobile-rn](https://github.com/opencollective/ant-design-mobile-rn) pushed_at:2019-03 star:0.0k fork:0.0k Ant Design for React Native
-- [opencollective/auth-simple-oauth-app.js](https://github.com/opencollective/auth-simple-oauth-app.js) pushed_at:2020-03 star:0.0k fork:0.0k 
+- [opencollective/auth-simple-oauth-app.js](https://github.com/opencollective/auth-simple-oauth-app.js) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [opencollective/caprover](https://github.com/opencollective/caprover) pushed_at:2019-02 star:0.0k fork:0.0k [previously known as CaptainDuckDuck] Automated Scalable Webserver Package (automated Docker+nginx) - Heroku on Steroids
 - [opencollective/checkout](https://github.com/opencollective/checkout) pushed_at:2020-08 star:0.0k fork:0.0k 
 - [opencollective/community.angular.jp](https://github.com/opencollective/community.angular.jp) pushed_at:2019-02 star:0.0k fork:0.0k 

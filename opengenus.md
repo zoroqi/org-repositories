@@ -117,7 +117,7 @@
 - [OpenGenus/kojiki](https://github.com/OpenGenus/kojiki) pushed_at:2019-01 star:0.0k fork:0.0k 
 - [OpenGenus/localmedia](https://github.com/OpenGenus/localmedia) pushed_at:2018-04 star:0.0k fork:0.0k In regard to discussion based on https://github.com/orgs/OpenGenus/teams/contributors/discussions/1
 - [OpenGenus/ml_flow](https://github.com/OpenGenus/ml_flow) pushed_at:2019-05 star:0.0k fork:0.0k 
-- [OpenGenus/new_notif](https://github.com/OpenGenus/new_notif) pushed_at:2022-05 star:0.0k fork:0.0k 
+- [OpenGenus/new_notif](https://github.com/OpenGenus/new_notif) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [OpenGenus/node_module](https://github.com/OpenGenus/node_module) pushed_at:2020-02 star:0.0k fork:0.0k 
 - [OpenGenus/OpenGenus-Slack](https://github.com/OpenGenus/OpenGenus-Slack) pushed_at:2017-11 star:0.0k fork:0.0k Email us or Open an issue to join us at Slack 
 - [OpenGenus/ProjectBot](https://github.com/OpenGenus/ProjectBot) pushed_at:2016-07 star:0.0k fork:0.0k 

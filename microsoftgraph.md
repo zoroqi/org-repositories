@@ -64,8 +64,8 @@
 - [microsoftgraph/MSGraph-SDK-Code-Generator](https://github.com/microsoftgraph/MSGraph-SDK-Code-Generator) pushed_at:2022-06 star:0.1k fork:0.1k MSGraph SDK Code Generator
 - [microsoftgraph/msgraph-sdk-dotnet](https://github.com/microsoftgraph/msgraph-sdk-dotnet) pushed_at:2022-06 star:0.5k fork:0.2k Microsoft Graph Client Library for .NET!
 - [microsoftgraph/msgraph-sdk-dotnet-auth](https://github.com/microsoftgraph/msgraph-sdk-dotnet-auth) pushed_at:2021-08 star:0.1k fork:0.0k Archived - use the TokenCredential classes provided by Azure.Identity. https://docs.microsoft.com/en-us/dotnet/api/overview/azure/identity-readme
-- [microsoftgraph/msgraph-sdk-dotnet-contrib](https://github.com/microsoftgraph/msgraph-sdk-dotnet-contrib) pushed_at:2022-05 star:0.0k fork:0.0k Community contributed extensions to the Microsoft Graph .NET SDK service library, to support APIs that have not yet made it into Microsoft Graph
-- [microsoftgraph/msgraph-sdk-dotnet-core](https://github.com/microsoftgraph/msgraph-sdk-dotnet-core) pushed_at:2022-05 star:0.1k fork:0.0k The core Microsoft Graph client library for .Net. (Microsoft.Graph.Core)
+- [microsoftgraph/msgraph-sdk-dotnet-contrib](https://github.com/microsoftgraph/msgraph-sdk-dotnet-contrib) pushed_at:2022-06 star:0.0k fork:0.0k Community contributed extensions to the Microsoft Graph .NET SDK service library, to support APIs that have not yet made it into Microsoft Graph
+- [microsoftgraph/msgraph-sdk-dotnet-core](https://github.com/microsoftgraph/msgraph-sdk-dotnet-core) pushed_at:2022-06 star:0.1k fork:0.0k The core Microsoft Graph client library for .Net. (Microsoft.Graph.Core)
 - [microsoftgraph/msgraph-sdk-raptor](https://github.com/microsoftgraph/msgraph-sdk-raptor) pushed_at:2022-06 star:0.0k fork:0.0k End to end testing tool for verifying generated code snippets and testing against Graph APIs
 - [microsoftgraph/msgraph-search-connector-sample](https://github.com/microsoftgraph/msgraph-search-connector-sample) pushed_at:2021-10 star:0.0k fork:0.0k This .NET Core application shows how to use the Microsoft Graph indexing API to create a connection to the Microsoft Search service and index custom items.
 - [microsoftgraph/msgraph-training-restapi](https://github.com/microsoftgraph/msgraph-training-restapi) pushed_at:2020-07 star:0.0k fork:0.0k [ARCHIVED] Microsoft Graph Training Module - REST API calls
@@ -90,9 +90,9 @@
 
 ## Go
 
-- [microsoftgraph/msgraph-beta-sdk-go](https://github.com/microsoftgraph/msgraph-beta-sdk-go) pushed_at:2022-05 star:0.0k fork:0.0k Microsoft Graph Beta Go SDK
-- [microsoftgraph/msgraph-sdk-go](https://github.com/microsoftgraph/msgraph-sdk-go) pushed_at:2022-05 star:0.1k fork:0.0k Microsoft Graph SDK for Go
-- [microsoftgraph/msgraph-sdk-go-core](https://github.com/microsoftgraph/msgraph-sdk-go-core) pushed_at:2022-05 star:0.0k fork:0.0k Microsoft Graph SDK for Go - Core Library
+- [microsoftgraph/msgraph-beta-sdk-go](https://github.com/microsoftgraph/msgraph-beta-sdk-go) pushed_at:2022-06 star:0.0k fork:0.0k Microsoft Graph Beta Go SDK
+- [microsoftgraph/msgraph-sdk-go](https://github.com/microsoftgraph/msgraph-sdk-go) pushed_at:2022-06 star:0.1k fork:0.0k Microsoft Graph SDK for Go
+- [microsoftgraph/msgraph-sdk-go-core](https://github.com/microsoftgraph/msgraph-sdk-go-core) pushed_at:2022-06 star:0.0k fork:0.0k Microsoft Graph SDK for Go - Core Library
 
 ## HTML
 
@@ -109,7 +109,7 @@
 - [microsoftgraph/android-java-snippets-rest-sample](https://github.com/microsoftgraph/android-java-snippets-rest-sample) pushed_at:2020-03 star:0.0k fork:0.0k Code snippets that use the Microsoft Graph to perform common tasks, such as sending email or managing groups, from within an Android app. This sample uses REST calls directly to the Microsoft Graph endpoint, and the Active Directory Authentication Library (ADAL) for authentication of users' work or school Office 365 accounts.
 - [microsoftgraph/android-java-snippets-sample](https://github.com/microsoftgraph/android-java-snippets-sample) pushed_at:2020-03 star:0.0k fork:0.0k Code snippets that use the Microsoft Graph to perform common tasks, such as sending email or managing groups, from within an Android app. This sample uses the Microsoft Graph Client Library to work with the data, and the Microsoft Authentication Library (MSAL) for authentication of users' work or school Office 365 accounts and personal accounts.
 - [microsoftgraph/console-java-connect-sample](https://github.com/microsoftgraph/console-java-connect-sample) pushed_at:2020-03 star:0.0k fork:0.0k Please see https://github.com/microsoftgraph/msgraph-training-java for a Java sample.
-- [microsoftgraph/java-spring-webhooks-sample](https://github.com/microsoftgraph/java-spring-webhooks-sample) pushed_at:2022-05 star:0.0k fork:0.0k Receive change notifications with data with the Microsoft Graph
+- [microsoftgraph/java-spring-webhooks-sample](https://github.com/microsoftgraph/java-spring-webhooks-sample) pushed_at:2022-06 star:0.0k fork:0.0k Receive change notifications with data with the Microsoft Graph
 - [microsoftgraph/msgraph-beta-sdk-java](https://github.com/microsoftgraph/msgraph-beta-sdk-java) pushed_at:2022-06 star:0.0k fork:0.0k Microsoft Graph Beta Java SDK
 - [microsoftgraph/msgraph-sdk-android](https://github.com/microsoftgraph/msgraph-sdk-android) pushed_at:2020-09 star:0.1k fork:0.0k Microsoft Graph SDK for Android! https://graph.microsoft.io
 - [microsoftgraph/msgraph-sdk-android-auth](https://github.com/microsoftgraph/msgraph-sdk-android-auth) pushed_at:2021-02 star:0.0k fork:0.0k MSAL Authentication Provider for Android
@@ -134,7 +134,7 @@
 - [microsoftgraph/nodejs-apponlytoken-rest-sample](https://github.com/microsoftgraph/nodejs-apponlytoken-rest-sample) pushed_at:2019-04 star:0.0k fork:0.0k [ARCHIVED] This sample shows how to connect a service or daemon app (written in Node.js) to the Microsoft Graph API.
 - [microsoftgraph/nodejs-connect-rest-sample](https://github.com/microsoftgraph/nodejs-connect-rest-sample) pushed_at:2018-10 star:0.1k fork:0.1k [ARCHIVED] Use Microsoft Graph to access a user’s Microsoft account data from within a Node.js web application. This sample sends REST calls directly to the Microsoft Graph endpoint, and authenticates with the Azure AD v2.0 endpoint to support Microsoft Accounts and work or school accounts.
 - [microsoftgraph/nodejs-connect-sample](https://github.com/microsoftgraph/nodejs-connect-sample) pushed_at:2018-10 star:0.0k fork:0.0k [ARCHIVED] This sample shows how to connect a Node.js app to a Microsoft work or school (Azure Active Directory) or personal (Microsoft) account using the Microsoft Graph API and the Graph JavaScript SDK to send an email. In addition, the sample uses the Office Fabric UI for styling and formatting the user experience.
-- [microsoftgraph/nodejs-webhooks-sample](https://github.com/microsoftgraph/nodejs-webhooks-sample) pushed_at:2022-05 star:0.1k fork:0.1k Create Microsoft Graph webhook subscriptions for a Node.js app, so that it can receive notifications of changes in a user’s Microsoft account data.
+- [microsoftgraph/nodejs-webhooks-sample](https://github.com/microsoftgraph/nodejs-webhooks-sample) pushed_at:2022-06 star:0.1k fork:0.1k Create Microsoft Graph webhook subscriptions for a Node.js app, so that it can receive notifications of changes in a user’s Microsoft account data.
 - [microsoftgraph/react-excelstarter-sample](https://github.com/microsoftgraph/react-excelstarter-sample) pushed_at:2020-05 star:0.0k fork:0.0k [ARCHIVED] This sample shows how to connect a React app to a Microsoft work or school (Azure Active Directory) using the Microsoft Graph API to get a user's name and address and upload that information to an Excel file stored in OneDrive. 
 - [microsoftgraph/react-officeuifabric-sample](https://github.com/microsoftgraph/react-officeuifabric-sample) pushed_at:2020-05 star:0.0k fork:0.0k [ARCHIVED] This sample demonstrates how to populate Office UI Fabric React components with data retrieved from Microsoft Graph.
 - [microsoftgraph/windowsupdates-teamsbot-sample](https://github.com/microsoftgraph/windowsupdates-teamsbot-sample) pushed_at:2021-08 star:0.0k fork:0.0k 
@@ -247,7 +247,7 @@
 - [microsoftgraph/msgraph-training-dotnet-core.pt-BR](https://github.com/microsoftgraph/msgraph-training-dotnet-core.pt-BR) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-dotnet-core.ru-RU](https://github.com/microsoftgraph/msgraph-training-dotnet-core.ru-RU) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-dotnet-core.zh-CN](https://github.com/microsoftgraph/msgraph-training-dotnet-core.zh-CN) pushed_at:2022-06 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-go](https://github.com/microsoftgraph/msgraph-training-go) pushed_at:2022-05 star:0.0k fork:0.0k Completed project for Build Go apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-go](https://github.com/microsoftgraph/msgraph-training-go) pushed_at:2022-06 star:0.0k fork:0.0k Completed project for Build Go apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-ios-objectivec](https://github.com/microsoftgraph/msgraph-training-ios-objectivec) pushed_at:2022-06 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph Objective-C SDK to access data in Office 365 from native mobile iOS applications.
 - [microsoftgraph/msgraph-training-ios-objectivec.de-DE](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-ios-objectivec.es-ES](https://github.com/microsoftgraph/msgraph-training-ios-objectivec.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
@@ -272,7 +272,7 @@
 - [microsoftgraph/msgraph-training-java.pt-BR](https://github.com/microsoftgraph/msgraph-training-java.pt-BR) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-java.ru-RU](https://github.com/microsoftgraph/msgraph-training-java.ru-RU) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-java.zh-CN](https://github.com/microsoftgraph/msgraph-training-java.zh-CN) pushed_at:2022-05 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-javascript](https://github.com/microsoftgraph/msgraph-training-javascript) pushed_at:2022-05 star:0.0k fork:0.0k About Completed project for Build JavaScript apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-javascript](https://github.com/microsoftgraph/msgraph-training-javascript) pushed_at:2022-06 star:0.0k fork:0.0k About Completed project for Build JavaScript apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-javascriptspa](https://github.com/microsoftgraph/msgraph-training-javascriptspa) pushed_at:2022-06 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from JavaScript browser apps.
 - [microsoftgraph/msgraph-training-javascriptspa.ar-SA](https://github.com/microsoftgraph/msgraph-training-javascriptspa.ar-SA) pushed_at:2022-04 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-javascriptspa.bg-BG](https://github.com/microsoftgraph/msgraph-training-javascriptspa.bg-BG) pushed_at:2022-04 star:0.0k fork:0.0k 
@@ -310,13 +310,13 @@
 - [microsoftgraph/msgraph-training-javascriptspa.vi-VN](https://github.com/microsoftgraph/msgraph-training-javascriptspa.vi-VN) pushed_at:2022-04 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-javascriptspa.zh-CN](https://github.com/microsoftgraph/msgraph-training-javascriptspa.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-javascriptspa.zh-TW](https://github.com/microsoftgraph/msgraph-training-javascriptspa.zh-TW) pushed_at:2022-04 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-microsoftflow.de-DE](https://github.com/microsoftgraph/msgraph-training-microsoftflow.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-microsoftflow.es-ES](https://github.com/microsoftgraph/msgraph-training-microsoftflow.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-microsoftflow.fr-FR](https://github.com/microsoftgraph/msgraph-training-microsoftflow.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-microsoftflow.ja-JP](https://github.com/microsoftgraph/msgraph-training-microsoftflow.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-microsoftflow.pt-BR](https://github.com/microsoftgraph/msgraph-training-microsoftflow.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-microsoftflow.ru-RU](https://github.com/microsoftgraph/msgraph-training-microsoftflow.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-microsoftflow.zh-CN](https://github.com/microsoftgraph/msgraph-training-microsoftflow.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-microsoftflow.de-DE](https://github.com/microsoftgraph/msgraph-training-microsoftflow.de-DE) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-microsoftflow.es-ES](https://github.com/microsoftgraph/msgraph-training-microsoftflow.es-ES) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-microsoftflow.fr-FR](https://github.com/microsoftgraph/msgraph-training-microsoftflow.fr-FR) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-microsoftflow.ja-JP](https://github.com/microsoftgraph/msgraph-training-microsoftflow.ja-JP) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-microsoftflow.pt-BR](https://github.com/microsoftgraph/msgraph-training-microsoftflow.pt-BR) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-microsoftflow.ru-RU](https://github.com/microsoftgraph/msgraph-training-microsoftflow.ru-RU) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-microsoftflow.zh-CN](https://github.com/microsoftgraph/msgraph-training-microsoftflow.zh-CN) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-nodeexpressapp](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp) pushed_at:2022-06 star:0.1k fork:0.1k This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from Node.js Express apps.
 - [microsoftgraph/msgraph-training-nodeexpressapp.de-DE](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-nodeexpressapp.es-ES](https://github.com/microsoftgraph/msgraph-training-nodeexpressapp.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
@@ -335,26 +335,26 @@
 - [microsoftgraph/msgraph-training-office-addin.zh-CN](https://github.com/microsoftgraph/msgraph-training-office-addin.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-optimize-data-usage](https://github.com/microsoftgraph/msgraph-training-optimize-data-usage) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-optimize-network-traffic](https://github.com/microsoftgraph/msgraph-training-optimize-network-traffic) pushed_at:2022-05 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-php](https://github.com/microsoftgraph/msgraph-training-php) pushed_at:2022-05 star:0.0k fork:0.0k Completed project for Build PHP apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-php](https://github.com/microsoftgraph/msgraph-training-php) pushed_at:2022-06 star:0.0k fork:0.0k Completed project for Build PHP apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-phpapp](https://github.com/microsoftgraph/msgraph-training-phpapp) pushed_at:2022-06 star:0.1k fork:0.0k Microsoft Graph Training Module - Build PHP apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-phpapp.de-DE](https://github.com/microsoftgraph/msgraph-training-phpapp.de-DE) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-phpapp.es-ES](https://github.com/microsoftgraph/msgraph-training-phpapp.es-ES) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-phpapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-phpapp.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-phpapp.ja-JP](https://github.com/microsoftgraph/msgraph-training-phpapp.ja-JP) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-phpapp.pt-BR](https://github.com/microsoftgraph/msgraph-training-phpapp.pt-BR) pushed_at:2022-06 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-phpapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-phpapp.ru-RU) pushed_at:2022-05 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-phpapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-phpapp.zh-CN) pushed_at:2022-05 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-powerautomate](https://github.com/microsoftgraph/msgraph-training-powerautomate) pushed_at:2022-02 star:0.0k fork:0.0k Microsoft Graph Training Module - Create a Microsoft Graph JSON Batch Custom Connector for Microsoft Power Automate & Azure Logic Apps
-- [microsoftgraph/msgraph-training-powerautomate.de-DE](https://github.com/microsoftgraph/msgraph-training-powerautomate.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-powerautomate.es-ES](https://github.com/microsoftgraph/msgraph-training-powerautomate.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-powerautomate.fr-FR](https://github.com/microsoftgraph/msgraph-training-powerautomate.fr-FR) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-powerautomate.ja-JP](https://github.com/microsoftgraph/msgraph-training-powerautomate.ja-JP) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-powerautomate.pt-BR](https://github.com/microsoftgraph/msgraph-training-powerautomate.pt-BR) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-powerautomate.ru-RU](https://github.com/microsoftgraph/msgraph-training-powerautomate.ru-RU) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-powerautomate.zh-CN](https://github.com/microsoftgraph/msgraph-training-powerautomate.zh-CN) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-phpapp.ru-RU](https://github.com/microsoftgraph/msgraph-training-phpapp.ru-RU) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-phpapp.zh-CN](https://github.com/microsoftgraph/msgraph-training-phpapp.zh-CN) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-powerautomate](https://github.com/microsoftgraph/msgraph-training-powerautomate) pushed_at:2022-06 star:0.0k fork:0.0k Microsoft Graph Training Module - Create a Microsoft Graph JSON Batch Custom Connector for Microsoft Power Automate & Azure Logic Apps
+- [microsoftgraph/msgraph-training-powerautomate.de-DE](https://github.com/microsoftgraph/msgraph-training-powerautomate.de-DE) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-powerautomate.es-ES](https://github.com/microsoftgraph/msgraph-training-powerautomate.es-ES) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-powerautomate.fr-FR](https://github.com/microsoftgraph/msgraph-training-powerautomate.fr-FR) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-powerautomate.ja-JP](https://github.com/microsoftgraph/msgraph-training-powerautomate.ja-JP) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-powerautomate.pt-BR](https://github.com/microsoftgraph/msgraph-training-powerautomate.pt-BR) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-powerautomate.ru-RU](https://github.com/microsoftgraph/msgraph-training-powerautomate.ru-RU) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-powerautomate.zh-CN](https://github.com/microsoftgraph/msgraph-training-powerautomate.zh-CN) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-powershell](https://github.com/microsoftgraph/msgraph-training-powershell) pushed_at:2022-05 star:0.0k fork:0.0k Completed project for Build PowerShell apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-python](https://github.com/microsoftgraph/msgraph-training-python) pushed_at:2022-05 star:0.0k fork:0.0k Completed project for Build Python apps with Microsoft Graph
-- [microsoftgraph/msgraph-training-pythondjangoapp](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp) pushed_at:2022-05 star:0.1k fork:0.1k Microsoft Graph Training Module - Build Python apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-python](https://github.com/microsoftgraph/msgraph-training-python) pushed_at:2022-06 star:0.0k fork:0.0k Completed project for Build Python apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-pythondjangoapp](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp) pushed_at:2022-06 star:0.1k fork:0.1k Microsoft Graph Training Module - Build Python apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-pythondjangoapp.de-DE](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.de-DE) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-pythondjangoapp.es-ES](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.es-ES) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-pythondjangoapp.fr-FR](https://github.com/microsoftgraph/msgraph-training-pythondjangoapp.fr-FR) pushed_at:2022-06 star:0.0k fork:0.0k 
@@ -401,7 +401,7 @@
 - [microsoftgraph/msgraph-training-teamsapp-dotnet.pt-BR](https://github.com/microsoftgraph/msgraph-training-teamsapp-dotnet.pt-BR) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-teamsapp-dotnet.ru-RU](https://github.com/microsoftgraph/msgraph-training-teamsapp-dotnet.ru-RU) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-teamsapp-dotnet.zh-CN](https://github.com/microsoftgraph/msgraph-training-teamsapp-dotnet.zh-CN) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-typescript](https://github.com/microsoftgraph/msgraph-training-typescript) pushed_at:2022-05 star:0.0k fork:0.0k Completed project for Build TypeScript apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-typescript](https://github.com/microsoftgraph/msgraph-training-typescript) pushed_at:2022-06 star:0.0k fork:0.0k Completed project for Build TypeScript apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-uwp](https://github.com/microsoftgraph/msgraph-training-uwp) pushed_at:2022-06 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from UWP apps.
 - [microsoftgraph/msgraph-training-uwp.de-DE](https://github.com/microsoftgraph/msgraph-training-uwp.de-DE) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-uwp.es-ES](https://github.com/microsoftgraph/msgraph-training-uwp.es-ES) pushed_at:2022-02 star:0.0k fork:0.0k 
@@ -421,7 +421,7 @@
 
 ## PHP
 
-- [microsoftgraph/msgraph-beta-sdk-php](https://github.com/microsoftgraph/msgraph-beta-sdk-php) pushed_at:2022-05 star:0.0k fork:0.0k Microsoft Graph beta model library for PHP (preview).
+- [microsoftgraph/msgraph-beta-sdk-php](https://github.com/microsoftgraph/msgraph-beta-sdk-php) pushed_at:2022-06 star:0.0k fork:0.0k Microsoft Graph beta model library for PHP (preview).
 - [microsoftgraph/msgraph-sdk-php](https://github.com/microsoftgraph/msgraph-sdk-php) pushed_at:2022-06 star:0.4k fork:0.1k Microsoft Graph Library for PHP.
 - [microsoftgraph/msgraph-sdk-php-core](https://github.com/microsoftgraph/msgraph-sdk-php-core) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [microsoftgraph/php-connect-rest-sample](https://github.com/microsoftgraph/php-connect-rest-sample) pushed_at:2018-10 star:0.1k fork:0.0k [ARCHIVED] Use Microsoft Graph to access a user’s Microsoft account data from within a php web application. This sample gets OAuth tokens from the Azure AD v2.0 endpoint and uses REST calls directly to Microsoft Graph.
@@ -436,7 +436,7 @@
 - [microsoftgraph/microsoft-graph-docs.zh-CN](https://github.com/microsoftgraph/microsoft-graph-docs.zh-CN) pushed_at:2022-06 star:0.0k fork:0.0k Documentation for the Microsoft Graph REST API for Chinese(Simplified)
 - [microsoftgraph/microsoft-graph-training](https://github.com/microsoftgraph/microsoft-graph-training) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-sdk-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) pushed_at:2022-06 star:0.4k fork:0.1k Powershell SDK for Microsoft Graph
-- [microsoftgraph/msgraph-typescript-typings](https://github.com/microsoftgraph/msgraph-typescript-typings) pushed_at:2022-05 star:0.1k fork:0.0k Microsoft Graph TypeScript Type Definitions
+- [microsoftgraph/msgraph-typescript-typings](https://github.com/microsoftgraph/msgraph-typescript-typings) pushed_at:2022-06 star:0.1k fork:0.0k Microsoft Graph TypeScript Type Definitions
 - [microsoftgraph/powershell-aad-samples](https://github.com/microsoftgraph/powershell-aad-samples) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) pushed_at:2022-04 star:0.8k fork:0.5k This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
 
@@ -478,11 +478,11 @@
 - [microsoftgraph/angular2-connect-rest-sample](https://github.com/microsoftgraph/angular2-connect-rest-sample) pushed_at:2018-10 star:0.0k fork:0.0k [ARCHIVED] To see a current sample that demonstrates the concepts explained here, visit https://github.com/microsoftgraph/angular4-connect-sample
 - [microsoftgraph/angular4-connect-sample](https://github.com/microsoftgraph/angular4-connect-sample) pushed_at:2019-01 star:0.0k fork:0.0k [ARCHIVED] This sample shows how to connect and Angular 4 app to a Microsoft work of school account (Azure Active Directory) or personal (Microsoft) account using the Microsoft Graph API with the Microsoft Graph SDK to send an email. In addition, the sample uses the Office Fabric UI for styling and formatting the user experience.
 - [microsoftgraph/aspnetcore-search-sample](https://github.com/microsoftgraph/aspnetcore-search-sample) pushed_at:2021-06 star:0.0k fork:0.0k 
-- [microsoftgraph/assign-to-author](https://github.com/microsoftgraph/assign-to-author) pushed_at:2022-05 star:0.0k fork:0.0k This GitHub action assigns issues in the microsoft-graph-docs repository to the author of the referenced page
+- [microsoftgraph/assign-to-author](https://github.com/microsoftgraph/assign-to-author) pushed_at:2022-06 star:0.0k fork:0.0k This GitHub action assigns issues in the microsoft-graph-docs repository to the author of the referenced page
 - [microsoftgraph/contoso-airlines-spfx-sample](https://github.com/microsoftgraph/contoso-airlines-spfx-sample) pushed_at:2021-04 star:0.0k fork:0.0k [ARCHIVED]
 - [microsoftgraph/contoso-foods](https://github.com/microsoftgraph/contoso-foods) pushed_at:2022-06 star:0.0k fork:0.0k A sample grocery shopping experience powered by the Microsoft Graph Toolkit
 - [microsoftgraph/eol-blocker](https://github.com/microsoftgraph/eol-blocker) pushed_at:2022-03 star:0.0k fork:0.0k This GitHub action blocks pull requests that contain improper line-endings
-- [microsoftgraph/get-app-token](https://github.com/microsoftgraph/get-app-token) pushed_at:2022-05 star:0.0k fork:0.0k This GitHub Action retrieves a GitHub App installation token for use in workflows
+- [microsoftgraph/get-app-token](https://github.com/microsoftgraph/get-app-token) pushed_at:2022-06 star:0.0k fork:0.0k This GitHub Action retrieves a GitHub App installation token for use in workflows
 - [microsoftgraph/meeting-moderator-sample](https://github.com/microsoftgraph/meeting-moderator-sample) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [microsoftgraph/mgt-react-codetour](https://github.com/microsoftgraph/mgt-react-codetour) pushed_at:2021-06 star:0.0k fork:0.0k Interactive tour to help you build your first React app using Microsoft Graph Toolkit
 - [microsoftgraph/microsoft-graph-explorer](https://github.com/microsoftgraph/microsoft-graph-explorer) pushed_at:2020-05 star:0.1k fork:0.1k We've moved! You can contribute to our new repository here
@@ -490,7 +490,7 @@
 - [microsoftgraph/microsoft-graph-toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) pushed_at:2022-06 star:0.7k fork:0.2k Authentication Providers and UI components for Microsoft Graph 🦒
 - [microsoftgraph/msgraph-beta-typescript-typings](https://github.com/microsoftgraph/msgraph-beta-typescript-typings) pushed_at:2022-05 star:0.0k fork:0.0k Microsoft Graph Beta TypeScript Type Definitions
 - [microsoftgraph/msgraph-ifttt-sample](https://github.com/microsoftgraph/msgraph-ifttt-sample) pushed_at:2022-01 star:0.0k fork:0.0k This sample is a demonstration of what a Microsoft Graph service on IFTTT could look like. The purpose is to spark exploration by third parties to integrate their products with the Microsoft Graph and leverage the IFTTT platform to utilize the rich set of data (ie. Teams, OneNote, Calendar, User data, analytics, etc…) available in typical M365 organizations.
-- [microsoftgraph/msgraph-sdk-javascript](https://github.com/microsoftgraph/msgraph-sdk-javascript) pushed_at:2022-05 star:0.5k fork:0.2k Microsoft Graph client library for JavaScript
+- [microsoftgraph/msgraph-sdk-javascript](https://github.com/microsoftgraph/msgraph-sdk-javascript) pushed_at:2022-06 star:0.5k fork:0.2k Microsoft Graph client library for JavaScript
 - [microsoftgraph/msgraph-sdk-typescript](https://github.com/microsoftgraph/msgraph-sdk-typescript) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-smartui-components](https://github.com/microsoftgraph/msgraph-training-smartui-components) pushed_at:2021-04 star:0.0k fork:0.0k [ARCHIVED]
 - [microsoftgraph/nodejs-sentiment-bot-sample](https://github.com/microsoftgraph/nodejs-sentiment-bot-sample) pushed_at:2020-05 star:0.0k fork:0.0k [ARCHIVED] Use Microsoft Graph, Microsoft Cognitive Services, and the Microsoft Bot Framework to do sentiment analysis in a NodeJS web application.

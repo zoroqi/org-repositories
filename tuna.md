@@ -28,7 +28,7 @@
 
 ## C++
 
-- [tuna/QSerial](https://github.com/tuna/QSerial) pushed_at:2022-03 star:0.0k fork:0.0k An advanced cross-platform serial port utility
+- [tuna/QSerial](https://github.com/tuna/QSerial) pushed_at:2022-06 star:0.0k fork:0.0k An advanced cross-platform serial port utility
 
 ## CSS
 
@@ -108,12 +108,12 @@
 
 ## Rust
 
-- [tuna/tunasync-monitor](https://github.com/tuna/tunasync-monitor) pushed_at:2020-09 star:0.0k fork:0.0k 
+- [tuna/tunasync-monitor](https://github.com/tuna/tunasync-monitor) pushed_at:2022-06 star:0.0k fork:0.0k 
 
 ## TeX
 
 - [tuna/THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme) pushed_at:2020-12 star:0.2k fork:0.1k A LaTeX beamer theme template for Tsinghua students.
-- [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) pushed_at:2022-04 star:0.3k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
+- [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) pushed_at:2022-04 star:0.4k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
 - [tuna/thuthesis](https://github.com/tuna/thuthesis) pushed_at:2022-05 star:3.5k fork:1.0k LaTeX Thesis Template for Tsinghua University
 
 ## TypeScript
