@@ -22,7 +22,7 @@
 
 ## BitBake
 
-- [sony/meta-flutter](https://github.com/sony/meta-flutter) pushed_at:2022-05 star:0.0k fork:0.0k Yocto recipes for Flutter Engine and custom embedders
+- [sony/meta-flutter](https://github.com/sony/meta-flutter) pushed_at:2022-06 star:0.0k fork:0.0k Yocto recipes for Flutter Engine and custom embedders
 
 ## C
 
@@ -34,7 +34,7 @@
 
 - [sony/easyhttpcpp](https://github.com/sony/easyhttpcpp) pushed_at:2022-01 star:0.1k fork:0.0k A cross-platform HTTP client library with a focus on usability and speed
 - [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) pushed_at:2022-05 star:0.0k fork:0.0k Flutter plugins for embedded Linux (eLinux)
-- [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) pushed_at:2022-05 star:0.8k fork:0.1k Embedded Linux embedding for Flutter
+- [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) pushed_at:2022-06 star:0.8k fork:0.1k Embedded Linux embedding for Flutter
 - [sony/nmos-cpp](https://github.com/sony/nmos-cpp) pushed_at:2022-06 star:0.1k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
 - [sony/node-win-usbdev](https://github.com/sony/node-win-usbdev) pushed_at:2018-02 star:0.0k fork:0.0k 
 - [sony/v8eval](https://github.com/sony/v8eval) pushed_at:2020-12 star:0.4k fork:0.0k Multi-language bindings to JavaScript engine V8
@@ -45,7 +45,7 @@
 
 ## Dart
 
-- [sony/flutter-elinux](https://github.com/sony/flutter-elinux) pushed_at:2022-05 star:0.1k fork:0.0k Flutter tools for embedded Linux (eLinux)
+- [sony/flutter-elinux](https://github.com/sony/flutter-elinux) pushed_at:2022-06 star:0.1k fork:0.0k Flutter tools for embedded Linux (eLinux)
 
 ## Go
 

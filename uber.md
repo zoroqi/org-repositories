@@ -62,7 +62,7 @@
 
 ## HTML
 
-- [uber/nanoscope](https://github.com/uber/nanoscope) pushed_at:2020-05 star:1.1k fork:0.1k  An extremely accurate Android method tracing tool.
+- [uber/nanoscope](https://github.com/uber/nanoscope) pushed_at:2020-05 star:1.2k fork:0.1k  An extremely accurate Android method tracing tool.
 
 ## Haskell
 
@@ -72,7 +72,7 @@
 
 - [uber/android-template](https://github.com/uber/android-template) pushed_at:2021-05 star:0.1k fork:0.1k This template provides a starting point for open source Android projects at Uber.
 - [uber/AutoDispose](https://github.com/uber/AutoDispose) pushed_at:2022-05 star:3.3k fork:0.2k Automatic binding+disposal of RxJava streams.
-- [uber/cadence-java-client](https://github.com/uber/cadence-java-client) pushed_at:2022-05 star:0.1k fork:0.1k Java framework for Cadence Workflow Service
+- [uber/cadence-java-client](https://github.com/uber/cadence-java-client) pushed_at:2022-06 star:0.1k fork:0.1k Java framework for Cadence Workflow Service
 - [uber/cadence-java-samples](https://github.com/uber/cadence-java-samples) pushed_at:2022-02 star:0.1k fork:0.1k 
 - [uber/concurrency-loadbalancer](https://github.com/uber/concurrency-loadbalancer) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [uber/dynamodb-cross-region-library](https://github.com/uber/dynamodb-cross-region-library) pushed_at:2017-10 star:0.0k fork:0.0k A library to facilitate cross-region replication with Amazon DynamoDB Streams.
@@ -91,12 +91,12 @@
 - [uber/tchannel-java](https://github.com/uber/tchannel-java) pushed_at:2022-05 star:0.1k fork:0.1k A Java implementation of the TChannel protocol.
 - [uber/uber-graph-benchmark](https://github.com/uber/uber-graph-benchmark) pushed_at:2019-01 star:0.0k fork:0.0k A framework to benchmark different graph databases, based on generated data from customizable schema, distribution, and size.
 - [uber/uberscriptquery](https://github.com/uber/uberscriptquery) pushed_at:2019-03 star:0.1k fork:0.0k UberScriptQuery, a SQL-like DSL to make writing Spark jobs super easy
-- [uber/uReplicator](https://github.com/uber/uReplicator) pushed_at:2022-05 star:0.8k fork:0.2k Improvement of Apache Kafka Mirrormaker
+- [uber/uReplicator](https://github.com/uber/uReplicator) pushed_at:2022-06 star:0.8k fork:0.2k Improvement of Apache Kafka Mirrormaker
 
 ## JavaScript
 
 - [uber/airlock](https://github.com/uber/airlock) pushed_at:2020-05 star:0.0k fork:0.0k A prober to probe HTTP based backends for health
-- [uber/baseweb](https://github.com/uber/baseweb) pushed_at:2022-06 star:7.7k fork:0.7k A React Component library implementing the Base design language
+- [uber/baseweb](https://github.com/uber/baseweb) pushed_at:2022-06 star:7.8k fork:0.7k A React Component library implementing the Base design language
 - [uber/bufrw](https://github.com/uber/bufrw) pushed_at:2020-11 star:0.0k fork:0.0k Buffer Reading and Writing
 - [uber/build-changelog](https://github.com/uber/build-changelog) pushed_at:2014-11 star:0.0k fork:0.0k A CLI to auto-generate a deploy ready changelog
 - [uber/cache-dir](https://github.com/uber/cache-dir) pushed_at:2014-03 star:0.0k fork:0.0k An ES6 map-like cache with file-based backing
@@ -157,13 +157,13 @@
 
 ## PHP
 
-- [uber/arcanist](https://github.com/uber/arcanist) pushed_at:2022-04 star:0.0k fork:0.0k Command line interface for Phabricator
+- [uber/arcanist](https://github.com/uber/arcanist) pushed_at:2022-06 star:0.0k fork:0.0k Command line interface for Phabricator
 
 ## Python
 
 - [uber/bayesmark](https://github.com/uber/bayesmark) pushed_at:2021-06 star:0.1k fork:0.0k Benchmark framework to easily compare Bayesian optimization methods on real machine learning tasks
 - [uber/cassette](https://github.com/uber/cassette) pushed_at:2020-10 star:0.1k fork:0.0k Store and replay HTTP requests made in your Python app
-- [uber/causalml](https://github.com/uber/causalml) pushed_at:2022-05 star:3.1k fork:0.5k Uplift modeling and causal inference with machine learning algorithms
+- [uber/causalml](https://github.com/uber/causalml) pushed_at:2022-06 star:3.1k fork:0.5k Uplift modeling and causal inference with machine learning algorithms
 - [uber/charlatan](https://github.com/uber/charlatan) pushed_at:2019-09 star:0.1k fork:0.0k A Python library to efficiently manage and install database fixtures
 - [uber/clay](https://github.com/uber/clay) pushed_at:2022-01 star:0.4k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [uber/doubles](https://github.com/uber/doubles) pushed_at:2018-10 star:0.2k fork:0.0k Test doubles for Python.
