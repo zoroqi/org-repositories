@@ -369,7 +369,7 @@
 - [opencollective/opencollective-jobs](https://github.com/opencollective/opencollective-jobs) pushed_at:2018-05 star:0.0k fork:0.0k 
 - [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) pushed_at:2022-06 star:0.0k fork:0.0k Open Collective's PDF Server
 - [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) pushed_at:2022-06 star:0.0k fork:0.0k Prompt your users to donate to your collective after `npm install`
-- [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) pushed_at:2022-05 star:0.0k fork:0.0k Open Collective's REST API legacy, v1, and v2!
+- [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) pushed_at:2022-06 star:0.0k fork:0.0k Open Collective's REST API legacy, v1, and v2!
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
 - [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
 - [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) pushed_at:2022-05 star:0.0k fork:0.0k 

@@ -30,8 +30,8 @@
 - [pingcap/mydumper](https://github.com/pingcap/mydumper) pushed_at:2021-09 star:0.0k fork:0.0k PingCAP fork of mydumper, with enhancements for TiDB
 - [pingcap/poco](https://github.com/pingcap/poco) pushed_at:2022-02 star:0.0k fork:0.0k POCO C++ Libraries - Cross-platform C++ libraries with a network/internet focus.
 - [pingcap/sqllogictest](https://github.com/pingcap/sqllogictest) pushed_at:2014-07 star:0.0k fork:0.0k git mirror of sqllogictest
-- [pingcap/tidb-bench](https://github.com/pingcap/tidb-bench) pushed_at:2021-09 star:0.1k fork:0.1k A Simple Benchmark For TiDB
-- [pingcap/tispark-test](https://github.com/pingcap/tispark-test) pushed_at:2021-08 star:0.0k fork:0.0k 
+- [pingcap/tidb-bench](https://github.com/pingcap/tidb-bench) pushed_at:2022-06 star:0.1k fork:0.1k A Simple Benchmark For TiDB
+- [pingcap/tispark-test](https://github.com/pingcap/tispark-test) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [pingcap/tpcc-mysql](https://github.com/pingcap/tpcc-mysql) pushed_at:2018-12 star:0.0k fork:0.0k forked from https://code.launchpad.net/~percona-dev/perconatools/tpcc-mysql
 
 ## C++
@@ -62,7 +62,7 @@
 - [pingcap/dm](https://github.com/pingcap/dm) pushed_at:2022-05 star:0.5k fork:0.2k Data Migration Platform
 - [pingcap/dumpling](https://github.com/pingcap/dumpling) pushed_at:2022-04 star:0.3k fork:0.1k Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud(S3, GCP...) in multifarious formats(SQL, CSV...).
 - [pingcap/errcode](https://github.com/pingcap/errcode) pushed_at:2021-08 star:0.0k fork:0.0k 
-- [pingcap/errors](https://github.com/pingcap/errors) pushed_at:2022-03 star:0.0k fork:0.0k Simple error handling primitives
+- [pingcap/errors](https://github.com/pingcap/errors) pushed_at:2022-06 star:0.0k fork:0.0k Simple error handling primitives
 - [pingcap/etcdv3-gateway](https://github.com/pingcap/etcdv3-gateway) pushed_at:2016-03 star:0.0k fork:0.0k Gateway for etcdv3
 - [pingcap/failpoint](https://github.com/pingcap/failpoint) pushed_at:2022-05 star:0.7k fork:0.1k An implementation of failpoints for Golang.
 - [pingcap/fn](https://github.com/pingcap/fn) pushed_at:2022-05 star:0.0k fork:0.0k 
@@ -84,7 +84,7 @@
 - [pingcap/ng-monitoring](https://github.com/pingcap/ng-monitoring) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [pingcap/octopus](https://github.com/pingcap/octopus) pushed_at:2019-06 star:0.0k fork:0.0k A toolkit including many powerful distributed test tools
 - [pingcap/os-ubuntu-tikv](https://github.com/pingcap/os-ubuntu-tikv) pushed_at:2020-06 star:0.0k fork:0.0k 
-- [pingcap/parser](https://github.com/pingcap/parser) pushed_at:2022-04 star:1.3k fork:0.5k A MySQL Compatible SQL Parser
+- [pingcap/parser](https://github.com/pingcap/parser) pushed_at:2022-06 star:1.3k fork:0.5k A MySQL Compatible SQL Parser
 - [pingcap/public_bi_benchmark](https://github.com/pingcap/public_bi_benchmark) pushed_at:2022-04 star:0.0k fork:0.0k BI benchmark with user generated data and queries
 - [pingcap/sysutil](https://github.com/pingcap/sysutil) pushed_at:2022-05 star:0.0k fork:0.0k sysutil is a library which implementats the gRPC service Diagnostics and shares the diagnostics functions between TiDB and PD.
 - [pingcap/tidb](https://github.com/pingcap/tidb) pushed_at:2022-06 star:31.6k fork:5.1k TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
@@ -143,7 +143,7 @@
 - [pingcap/presentations](https://github.com/pingcap/presentations) pushed_at:2021-10 star:0.3k fork:0.1k 
 - [pingcap/style-guide](https://github.com/pingcap/style-guide) pushed_at:2021-02 star:0.1k fork:0.0k Style guide for PingCAP and TiKV code
 - [pingcap/tidb-academy-labs](https://github.com/pingcap/tidb-academy-labs) pushed_at:2020-03 star:0.0k fork:0.0k 
-- [pingcap/tidb-dev-guide](https://github.com/pingcap/tidb-dev-guide) pushed_at:2022-04 star:0.1k fork:0.0k A comprehensive development guide to help you be more and more familiar with the TiDB community and become an expert finally.
+- [pingcap/tidb-dev-guide](https://github.com/pingcap/tidb-dev-guide) pushed_at:2022-06 star:0.1k fork:0.0k A comprehensive development guide to help you be more and more familiar with the TiDB community and become an expert finally.
 - [pingcap/tidb-map](https://github.com/pingcap/tidb-map) pushed_at:2021-09 star:0.1k fork:0.0k A series of maps to help users and contributors
 - [pingcap/tispark-test-data](https://github.com/pingcap/tispark-test-data) pushed_at:2020-11 star:0.0k fork:0.0k Test data for TiSpark
 - [pingcap/vldb-boss-2018](https://github.com/pingcap/vldb-boss-2018) pushed_at:2018-08 star:0.0k fork:0.0k Slides and links for VLDB BOSS 2018
@@ -160,7 +160,7 @@
 
 ## Python
 
-- [pingcap/blog](https://github.com/pingcap/blog) pushed_at:2022-05 star:0.0k fork:0.0k 
+- [pingcap/blog](https://github.com/pingcap/blog) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [pingcap/dbt-tidb](https://github.com/pingcap/dbt-tidb) pushed_at:2022-04 star:0.0k fork:0.0k A dbt adapter for TiDB
 - [pingcap/django-tidb](https://github.com/pingcap/django-tidb) pushed_at:2022-04 star:0.0k fork:0.0k TiDB dialect for Django
 - [pingcap/docs](https://github.com/pingcap/docs) pushed_at:2022-06 star:0.5k fork:0.5k TiDB database documentation.
@@ -212,7 +212,7 @@
 ## TypeScript
 
 - [pingcap/gdocwiki](https://github.com/pingcap/gdocwiki) pushed_at:2022-05 star:0.1k fork:0.0k A wiki based on Google Doc / Drive
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) pushed_at:2022-06 star:0.2k fork:0.0k Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) pushed_at:2022-06 star:0.2k fork:0.0k Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software. Follow us: https://twitter.com/ossinsight
 - [pingcap/tiunimanager-ui](https://github.com/pingcap/tiunimanager-ui) pushed_at:2022-06 star:0.0k fork:0.0k A web UI for TiUniManager
 - [pingcap/website-docs](https://github.com/pingcap/website-docs) pushed_at:2022-06 star:0.0k fork:0.0k The next generation of PingCAP Docs. Powered by Gatsby ⚛️.
 

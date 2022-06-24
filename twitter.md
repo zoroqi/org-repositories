@@ -40,7 +40,7 @@
 ## C++
 
 - [twitter/BreakoutDetection](https://github.com/twitter/BreakoutDetection) pushed_at:2017-08 star:0.7k fork:0.2k Breakout Detection via Robust E-Statistics
-- [twitter/vireo](https://github.com/twitter/vireo) pushed_at:2021-10 star:0.8k fork:0.1k Vireo is a lightweight and versatile video processing library written in C++11
+- [twitter/vireo](https://github.com/twitter/vireo) pushed_at:2021-10 star:0.9k fork:0.1k Vireo is a lightweight and versatile video processing library written in C++11
 
 ## CSS
 
@@ -50,14 +50,14 @@
 
 - [twitter/go-bindata](https://github.com/twitter/go-bindata) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [twitter/groupcache](https://github.com/twitter/groupcache) pushed_at:2020-12 star:0.0k fork:0.0k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-- [twitter/scoot](https://github.com/twitter/scoot) pushed_at:2022-03 star:0.2k fork:0.0k Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
+- [twitter/scoot](https://github.com/twitter/scoot) pushed_at:2022-06 star:0.2k fork:0.0k Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
 
 ## HTML
 
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) pushed_at:2021-10 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/interactive](https://github.com/twitter/interactive) pushed_at:2021-11 star:0.2k fork:0.1k Twitter interactive visualization
 - [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-10 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2022-06 star:14.3k fork:1.7k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2022-06 star:14.4k fork:1.7k Emoji for everyone. https://twemoji.twitter.com/
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2022-06 star:2.8k fork:0.5k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-10 star:0.0k fork:0.0k 
 

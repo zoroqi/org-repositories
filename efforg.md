@@ -89,7 +89,7 @@
 - [EFForg/privacybadgerfirefox-legacy](https://github.com/EFForg/privacybadgerfirefox-legacy) pushed_at:2016-12 star:0.4k fork:0.1k LEGACY Privacy Badger for Firefox SEE README
 - [EFForg/psi-tumblr-crawler](https://github.com/EFForg/psi-tumblr-crawler) pushed_at:2015-08 star:0.0k fork:0.0k 
 - [EFForg/pushserver](https://github.com/EFForg/pushserver) pushed_at:2018-03 star:0.0k fork:0.0k A server for sending push notifications to mobile apps
-- [EFForg/sec](https://github.com/EFForg/sec) pushed_at:2022-05 star:0.0k fork:0.0k Security Education Companion
+- [EFForg/sec](https://github.com/EFForg/sec) pushed_at:2022-06 star:0.0k fork:0.0k Security Education Companion
 - [EFForg/social-buttons-server](https://github.com/EFForg/social-buttons-server) pushed_at:2014-04 star:0.0k fork:0.0k Host your own social counters servers while pulling live data from Facebook, Twitter and Google Plus
 - [EFForg/spot_the_surveillance](https://github.com/EFForg/spot_the_surveillance) pushed_at:2020-12 star:0.0k fork:0.0k Spot the Surveillance is an open-source educational VR tool to help people identify street-level surveillance in their community. As each surveillance device is identified, the user is informed on how the device is used via text and narration. The experience is created with accessibility in mind, so is entirely gaze-based for people with mobility challenges. Audio is also used to assist low-vision users.
 - [EFForg/wetheusers-backend](https://github.com/EFForg/wetheusers-backend) pushed_at:2015-09 star:0.0k fork:0.0k Backend services for the We The Users campaign

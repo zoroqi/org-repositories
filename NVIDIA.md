@@ -58,7 +58,7 @@
 - [NVIDIA/MAXINE-AFX-SDK](https://github.com/NVIDIA/MAXINE-AFX-SDK) pushed_at:2022-04 star:0.1k fork:0.0k NVIDIA Audio Effects SDK is used to apply effects to audio stream. It provides audio denoising for broadcast use cases with real-time audio processing.
 - [NVIDIA/MAXINE-AR-SDK](https://github.com/NVIDIA/MAXINE-AR-SDK) pushed_at:2021-09 star:0.1k fork:0.0k NVIDIA AR SDK - API headers and sample applications
 - [NVIDIA/MAXINE-VFX-SDK](https://github.com/NVIDIA/MAXINE-VFX-SDK) pushed_at:2021-09 star:0.1k fork:0.0k NVIDIA Video Effects SDK - API headers and sample applications
-- [NVIDIA/nsight-aftermath-samples](https://github.com/NVIDIA/nsight-aftermath-samples) pushed_at:2022-04 star:0.0k fork:0.0k Samples for the Nsight Aftermath SDK.
+- [NVIDIA/nsight-aftermath-samples](https://github.com/NVIDIA/nsight-aftermath-samples) pushed_at:2022-06 star:0.0k fork:0.0k Samples for the Nsight Aftermath SDK.
 - [NVIDIA/nsight-training](https://github.com/NVIDIA/nsight-training) pushed_at:2022-01 star:0.0k fork:0.0k Training material for Nsight developer tools
 - [NVIDIA/nvgpu](https://github.com/NVIDIA/nvgpu) pushed_at:2014-11 star:0.0k fork:0.0k 
 - [NVIDIA/nvidia-installer](https://github.com/NVIDIA/nvidia-installer) pushed_at:2022-05 star:0.1k fork:0.0k NVIDIA driver installer
@@ -84,7 +84,7 @@
 
 ## C#
 
-- [NVIDIA/clara-dicom-adapter](https://github.com/NVIDIA/clara-dicom-adapter) pushed_at:2021-09 star:0.0k fork:0.0k DICOM Adapter is a component of the Clara Deploy SDK which facilitates integration with DICOM compliant systems, enables ingestion of imaging data, helps triggering of jobs with configurable rules and offers pushing the output of jobs to PACS  systems.
+- [NVIDIA/clara-dicom-adapter](https://github.com/NVIDIA/clara-dicom-adapter) pushed_at:2022-06 star:0.0k fork:0.0k DICOM Adapter is a component of the Clara Deploy SDK which facilitates integration with DICOM compliant systems, enables ingestion of imaging data, helps triggering of jobs with configurable rules and offers pushing the output of jobs to PACS  systems.
 
 ## C++
 
@@ -95,7 +95,7 @@
 - [NVIDIA/clara-holoscan-perf-tools](https://github.com/NVIDIA/clara-holoscan-perf-tools) pushed_at:2022-05 star:0.0k fork:0.0k Clara Holoscan performance tools
 - [NVIDIA/CloudXR](https://github.com/NVIDIA/CloudXR) pushed_at:2022-05 star:0.0k fork:0.0k CloudXR sample applications for streaming AR/VR/MR content from the cloud
 - [NVIDIA/cnmem](https://github.com/NVIDIA/cnmem) pushed_at:2018-11 star:0.3k fork:0.1k A simple memory manager for CUDA designed to help Deep Learning frameworks manage memory
-- [NVIDIA/cuCollections](https://github.com/NVIDIA/cuCollections) pushed_at:2022-06 star:0.1k fork:0.0k 
+- [NVIDIA/cuCollections](https://github.com/NVIDIA/cuCollections) pushed_at:2022-06 star:0.2k fork:0.0k 
 - [NVIDIA/cudnn-frontend](https://github.com/NVIDIA/cudnn-frontend) pushed_at:2022-04 star:0.1k fork:0.0k cudnn_frontend provides a c++ wrapper for the cudnn backend API and samples on how to use it
 - [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass) pushed_at:2022-06 star:1.9k fork:0.3k CUDA Templates for Linear Algebra Subroutines
 - [NVIDIA/DALI](https://github.com/NVIDIA/DALI) pushed_at:2022-06 star:3.9k fork:0.5k A GPU-accelerated library containing highly optimized building blocks and an execution engine for data processing to accelerate deep learning training and inference applications.
@@ -107,7 +107,7 @@
 - [NVIDIA/Forma](https://github.com/NVIDIA/Forma) pushed_at:2016-08 star:0.0k fork:0.0k DSL for stencils and image processing
 - [NVIDIA/gdrcopy](https://github.com/NVIDIA/gdrcopy) pushed_at:2022-04 star:0.5k fork:0.1k A fast GPU memory copy library based on NVIDIA GPUDirect RDMA technology
 - [NVIDIA/gpu-rest-engine](https://github.com/NVIDIA/gpu-rest-engine) pushed_at:2018-07 star:0.4k fork:0.1k A REST API for Caffe using Docker and Go
-- [NVIDIA/GPUStressTest](https://github.com/NVIDIA/GPUStressTest) pushed_at:2022-05 star:0.0k fork:0.0k GPU Stress Test is a tool to stress the compute engine of NVIDIA Tesla GPU’s by running a BLAS matrix multiply using different data types. It can be compiled and run on both Linux and Windows.
+- [NVIDIA/GPUStressTest](https://github.com/NVIDIA/GPUStressTest) pushed_at:2022-06 star:0.0k fork:0.0k GPU Stress Test is a tool to stress the compute engine of NVIDIA Tesla GPU’s by running a BLAS matrix multiply using different data types. It can be compiled and run on both Linux and Windows.
 - [NVIDIA/GraphQSat](https://github.com/NVIDIA/GraphQSat) pushed_at:2020-10 star:0.0k fork:0.0k Using GNN and DQN to find a baetter branching heuristic for a CDCL Solver
 - [NVIDIA/jitify](https://github.com/NVIDIA/jitify) pushed_at:2022-06 star:0.4k fork:0.1k A single-header C++ library for simplifying the use of CUDA Runtime Compilation (NVRTC).
 - [NVIDIA/kokkos](https://github.com/NVIDIA/kokkos) pushed_at:2017-10 star:0.0k fork:0.0k Core repository for Kokkos software
@@ -117,7 +117,7 @@
 - [NVIDIA/MagnumIO](https://github.com/NVIDIA/MagnumIO) pushed_at:2022-06 star:0.0k fork:0.0k Magnum IO community repo
 - [NVIDIA/MatX](https://github.com/NVIDIA/MatX) pushed_at:2022-06 star:0.5k fork:0.0k An efficient C++17 GPU numerical computing library with Python-like syntax
 - [NVIDIA/mcmc-bnn-example](https://github.com/NVIDIA/mcmc-bnn-example) pushed_at:2021-05 star:0.0k fork:0.0k Reference CUDA implementation of training a small Bayesian neural network (BNN) using MCMC
-- [NVIDIA/MDL-SDK](https://github.com/NVIDIA/MDL-SDK) pushed_at:2022-05 star:0.3k fork:0.1k NVIDIA Material Definition Language SDK
+- [NVIDIA/MDL-SDK](https://github.com/NVIDIA/MDL-SDK) pushed_at:2022-06 star:0.3k fork:0.1k NVIDIA Material Definition Language SDK
 - [NVIDIA/nccl](https://github.com/NVIDIA/nccl) pushed_at:2022-06 star:1.8k fork:0.5k Optimized primitives for collective multi-GPU communication
 - [NVIDIA/nvbandwidth](https://github.com/NVIDIA/nvbandwidth) pushed_at:2022-05 star:0.0k fork:0.0k A tool for bandwidth measurements on NVIDIA GPUs.
 - [NVIDIA/nvcomp](https://github.com/NVIDIA/nvcomp) pushed_at:2022-05 star:0.3k fork:0.1k A library for fast lossless compression/decompression on the GPU
@@ -136,7 +136,7 @@
 - [NVIDIA/thrust](https://github.com/NVIDIA/thrust) pushed_at:2022-06 star:4.0k fork:0.7k The C++ parallel algorithms library.
 - [NVIDIA/video-sdk-samples](https://github.com/NVIDIA/video-sdk-samples) pushed_at:2019-08 star:0.2k fork:0.1k Samples demonstrating how to use various APIs of NVIDIA Video Codec SDK
 - [NVIDIA/VideoProcessingFramework](https://github.com/NVIDIA/VideoProcessingFramework) pushed_at:2022-06 star:0.8k fork:0.2k Set of Python bindings to C++ libraries which provides full HW acceleration for video decoding, encoding and GPU-accelerated color space and pixel format conversions
-- [NVIDIA/VisRTX](https://github.com/NVIDIA/VisRTX) pushed_at:2022-05 star:0.2k fork:0.0k NVIDIA RTX based implementation of ANARI
+- [NVIDIA/VisRTX](https://github.com/NVIDIA/VisRTX) pushed_at:2022-06 star:0.2k fork:0.0k NVIDIA RTX based implementation of ANARI
 
 ## CMake
 
@@ -148,7 +148,7 @@
 - [NVIDIA/AMGX](https://github.com/NVIDIA/AMGX) pushed_at:2022-06 star:0.3k fork:0.1k Distributed multigrid linear solver library on GPU
 - [NVIDIA/compute-sanitizer-samples](https://github.com/NVIDIA/compute-sanitizer-samples) pushed_at:2022-05 star:0.0k fork:0.0k Samples demonstrating how to use the Compute Sanitizer Tools and Public API
 - [NVIDIA/cub](https://github.com/NVIDIA/cub) pushed_at:2022-06 star:1.2k fork:0.4k Cooperative primitives for CUDA C++.
-- [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) pushed_at:2022-05 star:0.4k fork:0.1k CUDA Library Samples
+- [NVIDIA/CUDALibrarySamples](https://github.com/NVIDIA/CUDALibrarySamples) pushed_at:2022-06 star:0.4k fork:0.1k CUDA Library Samples
 - [NVIDIA/df-nvshmem-prototype](https://github.com/NVIDIA/df-nvshmem-prototype) pushed_at:2018-04 star:0.0k fork:0.0k Prototype of OpenSHMEM for NVIDIA GPUs, developed as part of DoE Design Forward 
 - [NVIDIA/GPUPowerTest](https://github.com/NVIDIA/GPUPowerTest) pushed_at:2022-06 star:0.0k fork:0.0k A utility for stressing GPUs by driving utilization (and thus power consumption) up and down in user-defined cycle intervals. It will also randomly drop power consumption down to idle and spike it back up
 - [NVIDIA/ising-gpu](https://github.com/NVIDIA/ising-gpu) pushed_at:2020-08 star:0.0k fork:0.0k GPU-accelerated Monte Carlo simulations of 2D Ising Model
@@ -198,7 +198,7 @@
 - [NVIDIA/go-tfdata](https://github.com/NVIDIA/go-tfdata) pushed_at:2020-07 star:0.0k fork:0.0k Go library that provides easy-to-use interfaces and tools for TensorFlow users, in particular allowing to train existing TF models on .tar and .tgz datasets
 - [NVIDIA/gpu-feature-discovery](https://github.com/NVIDIA/gpu-feature-discovery) pushed_at:2022-06 star:0.1k fork:0.0k GPU plugin to the node feature discovery for Kubernetes
 - [NVIDIA/gpu-operator](https://github.com/NVIDIA/gpu-operator) pushed_at:2022-06 star:0.6k fork:0.1k NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes
-- [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) pushed_at:2022-06 star:1.4k fork:0.4k NVIDIA device plugin for Kubernetes
+- [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) pushed_at:2022-06 star:1.4k fork:0.5k NVIDIA device plugin for Kubernetes
 - [NVIDIA/kubevirt-gpu-device-plugin](https://github.com/NVIDIA/kubevirt-gpu-device-plugin) pushed_at:2022-06 star:0.1k fork:0.0k NVIDIA k8s device plugin for Kubevirt
 - [NVIDIA/mig-parted](https://github.com/NVIDIA/mig-parted) pushed_at:2022-06 star:0.1k fork:0.0k MIG Partition Editor for NVIDIA GPUs
 - [NVIDIA/nvidia-container-toolkit](https://github.com/NVIDIA/nvidia-container-toolkit) pushed_at:2022-06 star:0.1k fork:0.0k Build and run containers leveraging NVIDIA GPUs
@@ -211,12 +211,12 @@
 ## HCL
 
 - [NVIDIA/nephele](https://github.com/NVIDIA/nephele) pushed_at:2022-02 star:0.0k fork:0.0k Tools to deploy GPU clusters in the Cloud
-- [NVIDIA/nvindex-cloud](https://github.com/NVIDIA/nvindex-cloud) pushed_at:2021-03 star:0.0k fork:0.0k NVIDIA IndeX cloud utilities
+- [NVIDIA/nvindex-cloud](https://github.com/NVIDIA/nvindex-cloud) pushed_at:2022-06 star:0.0k fork:0.0k NVIDIA IndeX cloud utilities
 
 ## HTML
 
 - [NVIDIA/clara-train-examples](https://github.com/NVIDIA/clara-train-examples) pushed_at:2022-05 star:0.1k fork:0.1k Example notebooks demonstrating how to use Clara Train to build Medical Imaging Deep Learning models
-- [NVIDIA/DALI_extra](https://github.com/NVIDIA/DALI_extra) pushed_at:2022-05 star:0.0k fork:0.0k Test data for DALI project
+- [NVIDIA/DALI_extra](https://github.com/NVIDIA/DALI_extra) pushed_at:2022-06 star:0.0k fork:0.0k Test data for DALI project
 - [NVIDIA/DIGITS](https://github.com/NVIDIA/DIGITS) pushed_at:2022-06 star:4.1k fork:1.4k Deep Learning GPU Training System
 
 ## Java
@@ -249,14 +249,14 @@
 - [NVIDIA/ContrastiveLosses4VRD](https://github.com/NVIDIA/ContrastiveLosses4VRD) pushed_at:2020-04 star:0.2k fork:0.0k Implementation for the CVPR2019 paper "Graphical Contrastive Losses for Scene Graph Generation"
 - [NVIDIA/dlinput-tf](https://github.com/NVIDIA/dlinput-tf) pushed_at:2019-06 star:0.0k fork:0.0k Optimized data input pipeline for deep learning frameworks
 - [NVIDIA/energy-sdk](https://github.com/NVIDIA/energy-sdk) pushed_at:2022-06 star:0.0k fork:0.0k GPU Accelerated Building Blocks integrating HPC+AI for Energy Customers
-- [NVIDIA/flowtron](https://github.com/NVIDIA/flowtron) pushed_at:2021-10 star:0.7k fork:0.1k Flowtron is an auto-regressive flow-based generative network for text to speech synthesis with control over speech variation and style transfer
+- [NVIDIA/flowtron](https://github.com/NVIDIA/flowtron) pushed_at:2022-06 star:0.7k fork:0.1k Flowtron is an auto-regressive flow-based generative network for text to speech synthesis with control over speech variation and style transfer
 - [NVIDIA/fsi-samples](https://github.com/NVIDIA/fsi-samples) pushed_at:2022-04 star:0.2k fork:0.1k A collection of open-source GPU accelerated Python tools and examples for quantitative analyst tasks and leverages RAPIDS AI project, Numba, cuDF, and Dask.
 - [NVIDIA/healthcare-on-tap-TRT-TRITON-demo](https://github.com/NVIDIA/healthcare-on-tap-TRT-TRITON-demo) pushed_at:2021-02 star:0.0k fork:0.0k Demonstration of the use of TensorRT and TRITON
 - [NVIDIA/ipyparaview](https://github.com/NVIDIA/ipyparaview) pushed_at:2021-05 star:0.1k fork:0.0k iPython widget for server-side ParaView rendering in Jupyter.
 - [NVIDIA/mellotron](https://github.com/NVIDIA/mellotron) pushed_at:2022-05 star:0.7k fork:0.2k Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data
-- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) pushed_at:2022-06 star:4.3k fork:1.0k NeMo: a toolkit for conversational AI
+- [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) pushed_at:2022-06 star:4.4k fork:1.1k NeMo: a toolkit for conversational AI
 - [NVIDIA/rapidAligner](https://github.com/NVIDIA/rapidAligner) pushed_at:2021-04 star:0.0k fork:0.0k Windowed alignment of time series at the speed of light
-- [NVIDIA/spark-xgboost-examples](https://github.com/NVIDIA/spark-xgboost-examples) pushed_at:2021-09 star:0.0k fork:0.0k XGBoost GPU accelerated on Spark example applications
+- [NVIDIA/spark-xgboost-examples](https://github.com/NVIDIA/spark-xgboost-examples) pushed_at:2021-09 star:0.1k fork:0.0k XGBoost GPU accelerated on Spark example applications
 - [NVIDIA/tacotron2](https://github.com/NVIDIA/tacotron2) pushed_at:2022-06 star:3.6k fork:1.1k Tacotron 2 - PyTorch implementation with faster-than-realtime inference
 
 ## Lua
@@ -271,11 +271,11 @@
 - [NVIDIA/dgx-selinux](https://github.com/NVIDIA/dgx-selinux) pushed_at:2022-02 star:0.0k fork:0.0k DGX RHEL SELinux Policies
 - [NVIDIA/nephele-packages](https://github.com/NVIDIA/nephele-packages) pushed_at:2022-05 star:0.0k fork:0.0k OS packages for the Nephele project
 - [NVIDIA/nvidia-container-runtime](https://github.com/NVIDIA/nvidia-container-runtime) pushed_at:2022-06 star:0.9k fork:0.2k NVIDIA container runtime
-- [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) pushed_at:2022-06 star:14.7k fork:1.9k Build and run Docker containers leveraging NVIDIA GPUs
+- [NVIDIA/nvidia-docker](https://github.com/NVIDIA/nvidia-docker) pushed_at:2022-06 star:14.8k fork:1.9k Build and run Docker containers leveraging NVIDIA GPUs
 
 ## Markdown
 
-- [NVIDIA/cloud-native-core](https://github.com/NVIDIA/cloud-native-core) pushed_at:2022-06 star:0.0k fork:0.0k Run cloud native workloads on NVIDIA GPUs
+- [NVIDIA/cloud-native-core](https://github.com/NVIDIA/cloud-native-core) pushed_at:2022-06 star:0.1k fork:0.0k Run cloud native workloads on NVIDIA GPUs
 
 ## NASL
 
@@ -317,7 +317,7 @@
 
 - [NVIDIA/ansible-collection-dpu-ops](https://github.com/NVIDIA/ansible-collection-dpu-ops) pushed_at:2022-04 star:0.0k fork:0.0k NVIDIA DPU OPs collection
 - [NVIDIA/apex](https://github.com/NVIDIA/apex) pushed_at:2022-06 star:6.4k fork:1.0k A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
-- [NVIDIA/Bobber](https://github.com/NVIDIA/Bobber) pushed_at:2022-03 star:0.0k fork:0.0k Containerized testing of system components that impact AI workload performance
+- [NVIDIA/Bobber](https://github.com/NVIDIA/Bobber) pushed_at:2022-06 star:0.0k fork:0.0k Containerized testing of system components that impact AI workload performance
 - [NVIDIA/build-system-archive-import-examples](https://github.com/NVIDIA/build-system-archive-import-examples) pushed_at:2021-09 star:0.0k fork:0.0k Examples for importing precompiled binary tarball and zip archives into various build and packaging systems
 - [NVIDIA/clara-pipeline-operator-sizing-tool](https://github.com/NVIDIA/clara-pipeline-operator-sizing-tool) pushed_at:2021-09 star:0.0k fork:0.0k CPOST is a CLI tool to assist with the proper sizing of Clara Deploy pipelines
 - [NVIDIA/clara-platform-python-client](https://github.com/NVIDIA/clara-platform-python-client) pushed_at:2021-10 star:0.0k fork:0.0k An intuitive Python 3 package to develop applications with NVIDIA Clara Deploy
@@ -335,7 +335,7 @@
 - [NVIDIA/framework-determinism](https://github.com/NVIDIA/framework-determinism) pushed_at:2022-05 star:0.4k fork:0.0k Providing determinism in deep learning frameworks
 - [NVIDIA/gbm-bench](https://github.com/NVIDIA/gbm-bench) pushed_at:2022-03 star:0.0k fork:0.0k A benchmark to measure performance of popular Gradient boosting algorithms against popular ML datasets.
 - [NVIDIA/hpc-container-maker](https://github.com/NVIDIA/hpc-container-maker) pushed_at:2022-05 star:0.4k fork:0.1k HPC Container Maker
-- [NVIDIA/Imageinary](https://github.com/NVIDIA/Imageinary) pushed_at:2022-03 star:0.0k fork:0.0k Imageinary is a reproducible mechanism which is used to generate large image datasets at various resolutions. The tool supports multiple image types, including JPEGs, PNGs, BMPs, RecordIO, and TFRecord files
+- [NVIDIA/Imageinary](https://github.com/NVIDIA/Imageinary) pushed_at:2022-06 star:0.0k fork:0.0k Imageinary is a reproducible mechanism which is used to generate large image datasets at various resolutions. The tool supports multiple image types, including JPEGs, PNGs, BMPs, RecordIO, and TFRecord files
 - [NVIDIA/jetson-gpio](https://github.com/NVIDIA/jetson-gpio) pushed_at:2022-06 star:0.6k fork:0.2k A Python library that enables the use of Jetson's GPIOs
 - [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM) pushed_at:2022-06 star:3.0k fork:0.6k Ongoing research training transformer models at scale
 - [NVIDIA/Milano](https://github.com/NVIDIA/Milano) pushed_at:2018-11 star:0.1k fork:0.0k Milano is a tool for automating hyper-parameters search for your models on a backend of your choice.
@@ -373,7 +373,7 @@
 - [NVIDIA/unsupervised-video-interpolation](https://github.com/NVIDIA/unsupervised-video-interpolation) pushed_at:2020-01 star:0.1k fork:0.0k Unsupervised Video Interpolation using Cycle Consistency 
 - [NVIDIA/UnsupervisedLandmarkLearning](https://github.com/NVIDIA/UnsupervisedLandmarkLearning) pushed_at:2020-02 star:0.0k fork:0.0k Implementation for the unsupervised latent landmark learning work from NVIDIA Applied Deep Learning Research
 - [NVIDIA/vid2vid](https://github.com/NVIDIA/vid2vid) pushed_at:2022-05 star:8.0k fork:1.2k Pytorch implementation of our method for high-resolution (e.g. 2048x1024) photorealistic video-to-video translation.
-- [NVIDIA/waveglow](https://github.com/NVIDIA/waveglow) pushed_at:2020-09 star:2.0k fork:0.5k A Flow-based Generative Network for Speech Synthesis
+- [NVIDIA/waveglow](https://github.com/NVIDIA/waveglow) pushed_at:2022-06 star:2.0k fork:0.5k A Flow-based Generative Network for Speech Synthesis
 - [NVIDIA/yum-packaging-nvidia-plugin](https://github.com/NVIDIA/yum-packaging-nvidia-plugin) pushed_at:2022-04 star:0.0k fork:0.0k NVIDIA yum and dnf plugins for RHEL driver packages
 - [NVIDIA/yum-packaging-precompiled-kmod](https://github.com/NVIDIA/yum-packaging-precompiled-kmod) pushed_at:2022-05 star:0.0k fork:0.0k NVIDIA precompiled kernel module packaging for RHEL
 

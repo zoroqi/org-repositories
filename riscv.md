@@ -19,7 +19,7 @@
 ## Assembly
 
 - [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) pushed_at:2022-06 star:0.1k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
-- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) pushed_at:2022-05 star:0.6k fork:0.2k Working draft of the proposed RISC-V V vector extension
+- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) pushed_at:2022-06 star:0.6k fork:0.2k Working draft of the proposed RISC-V V vector extension
 
 ## BitBake
 
@@ -71,7 +71,7 @@
 ## TeX
 
 - [riscv/docs-dev-guide](https://github.com/riscv/docs-dev-guide) pushed_at:2022-05 star:0.0k fork:0.0k Documentation developer guide
-- [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) pushed_at:2022-05 star:0.0k fork:0.0k 
+- [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [riscv/riscv-bfloat16](https://github.com/riscv/riscv-bfloat16) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [riscv/riscv-cfi](https://github.com/riscv/riscv-cfi) pushed_at:2022-06 star:0.0k fork:0.0k This repo holds the work area and revisions of the RISC-V CFI (Shadow Stack and Landing Pads) specifications. CFI defines the privileged and unprivileged ISA extensions that can be used by privileged and unprivileged programs to protect the integrity of their control-flow.
 - [riscv/riscv-count-overflow](https://github.com/riscv/riscv-count-overflow) pushed_at:2022-02 star:0.0k fork:0.0k 
