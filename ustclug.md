@@ -56,7 +56,7 @@
 
 ## Others
 
-- [ustclug/blogs](https://github.com/ustclug/blogs) pushed_at:2021-01 star:0.0k fork:0.0k USTCLUG 同学们的博客列表
+- [ustclug/blogs](https://github.com/ustclug/blogs) pushed_at:2022-06 star:0.0k fork:0.0k USTCLUG 同学们的博客列表
 - [ustclug/discussions](https://github.com/ustclug/discussions) pushed_at:2020-11 star:0.0k fork:0.0k Issue Tracker for USTC LUG
 - [ustclug/documentations](https://github.com/ustclug/documentations) pushed_at:2022-05 star:0.0k fork:0.0k LUG @ USTC General Documentation
 - [ustclug/hackergame2020-writeups](https://github.com/ustclug/hackergame2020-writeups) pushed_at:2020-11 star:0.0k fork:0.0k 

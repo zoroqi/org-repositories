@@ -50,7 +50,7 @@
 - [ARM-software/CMSIS-RTOS2_Validation](https://github.com/ARM-software/CMSIS-RTOS2_Validation) pushed_at:2022-05 star:0.0k fork:0.0k Validation test suite for CMSIS-RTOS2 API implementations using Arm Virtual Hardware (AVH).
 - [ARM-software/CMSIS-TFM](https://github.com/ARM-software/CMSIS-TFM) pushed_at:2020-06 star:0.0k fork:0.0k Downstream Repository of CMSIS Software Packs for Trusted Firmware-M (TF-M).
 - [ARM-software/CMSIS-View](https://github.com/ARM-software/CMSIS-View) pushed_at:2022-03 star:0.0k fork:0.0k Repository of CMSIS Software Pack for software event generation and input/output handling.
-- [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) pushed_at:2022-06 star:0.6k fork:0.9k CMSIS Version 5 Development Repository
+- [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) pushed_at:2022-06 star:0.6k fork:1.0k CMSIS Version 5 Development Repository
 - [ARM-software/CPA](https://github.com/ARM-software/CPA) pushed_at:2017-11 star:0.0k fork:0.0k Contiguous page allocator project
 - [ARM-software/cryptocell-312-runtime](https://github.com/ARM-software/cryptocell-312-runtime) pushed_at:2021-02 star:0.0k fork:0.0k CryptoCell 312 runtime code
 - [ARM-software/Cryptocell-703-TEE-Lib](https://github.com/ARM-software/Cryptocell-703-TEE-Lib) pushed_at:2020-09 star:0.0k fork:0.0k Cryptocell 713/703 TEE Lib
@@ -67,7 +67,7 @@
 - [ARM-software/MCU-demo-for-AVS](https://github.com/ARM-software/MCU-demo-for-AVS) pushed_at:2021-02 star:0.0k fork:0.0k Example implementation of the Alexa Voice Service Integration for AWS IoT Core for Arm Cortex-M series processors.
 - [ARM-software/meabo](https://github.com/ARM-software/meabo) pushed_at:2018-04 star:0.0k fork:0.0k Multi-purpose multi-phase micro-benchmark
 - [ARM-software/ML-KWS-for-MCU](https://github.com/ARM-software/ML-KWS-for-MCU) pushed_at:2019-04 star:1.0k fork:0.4k Keyword spotting on Arm Cortex-M Microcontrollers
-- [ARM-software/mobile-studio-integration-for-unity](https://github.com/ARM-software/mobile-studio-integration-for-unity) pushed_at:2022-04 star:0.1k fork:0.0k Mobile Studio tool integration with C# scripting for the Unity game engine.
+- [ARM-software/mobile-studio-integration-for-unity](https://github.com/ARM-software/mobile-studio-integration-for-unity) pushed_at:2022-06 star:0.1k fork:0.0k Mobile Studio tool integration with C# scripting for the Unity game engine.
 - [ARM-software/NXP_LPC](https://github.com/ARM-software/NXP_LPC) pushed_at:2021-12 star:0.0k fork:0.0k CMSIS Driver Implementations for the NXP LPC Microcontroller Series
 - [ARM-software/optimized-routines](https://github.com/ARM-software/optimized-routines) pushed_at:2022-06 star:0.3k fork:0.1k Optimized implementations of various library functions for ARM architecture processors
 - [ARM-software/perf-libs-tools](https://github.com/ARM-software/perf-libs-tools) pushed_at:2021-09 star:0.0k fork:0.0k 
@@ -89,7 +89,7 @@
 ## C++
 
 - [ARM-software/android-nn-driver](https://github.com/ARM-software/android-nn-driver) pushed_at:2022-06 star:0.1k fork:0.1k 
-- [ARM-software/armnn](https://github.com/ARM-software/armnn) pushed_at:2022-06 star:0.8k fork:0.3k Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
+- [ARM-software/armnn](https://github.com/ARM-software/armnn) pushed_at:2022-06 star:0.9k fork:0.3k Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
 - [ARM-software/armnn-mlperf](https://github.com/ARM-software/armnn-mlperf) pushed_at:2022-01 star:0.0k fork:0.0k Arm mlperf.org benchmark port
 - [ARM-software/ATP-Engine](https://github.com/ARM-software/ATP-Engine) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [ARM-software/BarrierPoint](https://github.com/ARM-software/BarrierPoint) pushed_at:2020-05 star:0.0k fork:0.0k 
@@ -111,7 +111,7 @@
 - [ARM-software/ml_style_transfer_post_processing_on_mobile](https://github.com/ARM-software/ml_style_transfer_post_processing_on_mobile) pushed_at:2022-03 star:0.0k fork:0.0k Demo of using Vulkan and Arm Compute Library for real time ML-based graphics post processing
 - [ARM-software/nomali-model](https://github.com/ARM-software/nomali-model) pushed_at:2016-01 star:0.0k fork:0.0k A simple Mali 6xx/7xx register interface model that doesn't do any rendering.
 - [ARM-software/odp-example-sisu](https://github.com/ARM-software/odp-example-sisu) pushed_at:2016-09 star:0.0k fork:0.0k SISU - Simple GTP-U/IPsec application using ODP (OpenDataPlane)
-- [ARM-software/PAF](https://github.com/ARM-software/PAF) pushed_at:2022-04 star:0.0k fork:0.0k PAF (the Physical Attack Framework) is a framework for analyzing physical attacks: fault injection and side channels
+- [ARM-software/PAF](https://github.com/ARM-software/PAF) pushed_at:2022-06 star:0.0k fork:0.0k PAF (the Physical Attack Framework) is a framework for analyzing physical attacks: fault injection and side channels
 - [ARM-software/patrace](https://github.com/ARM-software/patrace) pushed_at:2022-03 star:0.0k fork:0.0k 
 - [ARM-software/perfdoc](https://github.com/ARM-software/perfdoc) pushed_at:2022-01 star:0.1k fork:0.0k A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
 - [ARM-software/sdc600-debugger](https://github.com/ARM-software/sdc600-debugger) pushed_at:2021-03 star:0.0k fork:0.0k API, reference libraries and example application for Arm Secure Debug Channel (SDC-600)
@@ -183,7 +183,7 @@
 
 - [ARM-software/acle](https://github.com/ARM-software/acle) pushed_at:2022-06 star:0.0k fork:0.0k Arm C Language Extensions (ACLE)
 - [ARM-software/AVH](https://github.com/ARM-software/AVH) pushed_at:2022-06 star:0.0k fork:0.0k Arm Virtual Hardware - Developer Resources
-- [ARM-software/avhclient](https://github.com/ARM-software/avhclient) pushed_at:2022-05 star:0.0k fork:0.0k Arm Virtual Hardware Client
+- [ARM-software/avhclient](https://github.com/ARM-software/avhclient) pushed_at:2022-06 star:0.0k fork:0.0k Arm Virtual Hardware Client
 - [ARM-software/bart](https://github.com/ARM-software/bart) pushed_at:2021-10 star:0.0k fork:0.0k Behavioural Analysis and Regression Toolkit
 - [ARM-software/bento-autobentifier](https://github.com/ARM-software/bento-autobentifier) pushed_at:2021-01 star:0.0k fork:0.0k Automatic partitioning of memory spaces for microcontroller binaries
 - [ARM-software/Cloud-IoT-Core-Kit-Examples](https://github.com/ARM-software/Cloud-IoT-Core-Kit-Examples) pushed_at:2018-07 star:0.1k fork:0.0k Example projects and code are supplied to support the Arm-based IoT Kit for Cloud IoT Core

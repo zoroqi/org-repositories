@@ -59,7 +59,7 @@
 - [deepmind/disdain](https://github.com/deepmind/disdain) pushed_at:2022-06 star:0.0k fork:0.0k A self-contained JAX implementation of DIScriminator DisAgreement INtrinsic Reward (DISDAIN).
 - [deepmind/dsprites-dataset](https://github.com/deepmind/dsprites-dataset) pushed_at:2021-01 star:0.4k fork:0.1k Dataset to assess the disentanglement properties of unsupervised learning methods
 - [deepmind/EDDICT](https://github.com/deepmind/EDDICT) pushed_at:2021-12 star:0.0k fork:0.0k 
-- [deepmind/educational](https://github.com/deepmind/educational) pushed_at:2022-06 star:0.4k fork:0.1k 
+- [deepmind/educational](https://github.com/deepmind/educational) pushed_at:2022-06 star:0.5k fork:0.1k 
 - [deepmind/HAI_selective_prediction](https://github.com/deepmind/HAI_selective_prediction) pushed_at:2022-04 star:0.0k fork:0.0k 
 - [deepmind/hcmd_dai](https://github.com/deepmind/hcmd_dai) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [deepmind/informed_adversary_mnist_reconstruction](https://github.com/deepmind/informed_adversary_mnist_reconstruction) pushed_at:2022-06 star:0.0k fork:0.0k 
@@ -132,7 +132,7 @@
 - [deepmind/dm_aux](https://github.com/deepmind/dm_aux) pushed_at:2022-04 star:0.1k fork:0.0k 
 - [deepmind/dm_c19_modelling](https://github.com/deepmind/dm_c19_modelling) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [deepmind/dm_construction](https://github.com/deepmind/dm_construction) pushed_at:2021-01 star:0.0k fork:0.0k 
-- [deepmind/dm_control](https://github.com/deepmind/dm_control) pushed_at:2022-06 star:2.8k fork:0.5k DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
+- [deepmind/dm_control](https://github.com/deepmind/dm_control) pushed_at:2022-06 star:2.9k fork:0.5k DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
 - [deepmind/dm_env](https://github.com/deepmind/dm_env) pushed_at:2022-06 star:0.2k fork:0.0k A Python interface for reinforcement learning environments
 - [deepmind/dm_env_rpc](https://github.com/deepmind/dm_env_rpc) pushed_at:2022-05 star:0.1k fork:0.0k A networking protocol for agent-environment communication
 - [deepmind/dm_fast_mapping](https://github.com/deepmind/dm_fast_mapping) pushed_at:2021-10 star:0.0k fork:0.0k 
@@ -151,7 +151,7 @@
 - [deepmind/enn_acme](https://github.com/deepmind/enn_acme) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [deepmind/envlogger](https://github.com/deepmind/envlogger) pushed_at:2022-06 star:0.1k fork:0.0k A tool for recording RL trajectories.
 - [deepmind/fancyflags](https://github.com/deepmind/fancyflags) pushed_at:2021-12 star:0.0k fork:0.0k A Python library for defining flat or nested dictionary flags.
-- [deepmind/ferminet](https://github.com/deepmind/ferminet) pushed_at:2022-05 star:0.5k fork:0.1k An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
+- [deepmind/ferminet](https://github.com/deepmind/ferminet) pushed_at:2022-06 star:0.5k fork:0.1k An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
 - [deepmind/flows_for_atomic_solids](https://github.com/deepmind/flows_for_atomic_solids) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [deepmind/gqn-datasets](https://github.com/deepmind/gqn-datasets) pushed_at:2022-02 star:0.3k fork:0.0k Datasets used to train Generative Query Networks (GQNs) in the ‘Neural Scene Representation and Rendering’ paper.
 - [deepmind/graph_nets](https://github.com/deepmind/graph_nets) pushed_at:2020-12 star:5.1k fork:0.8k Build Graph Nets in Tensorflow
@@ -162,7 +162,7 @@
 - [deepmind/jax_verify](https://github.com/deepmind/jax_verify) pushed_at:2022-03 star:0.1k fork:0.0k Neural network verification in JAX
 - [deepmind/jaxline](https://github.com/deepmind/jaxline) pushed_at:2021-11 star:0.1k fork:0.0k 
 - [deepmind/jmp](https://github.com/deepmind/jmp) pushed_at:2022-06 star:0.1k fork:0.0k JMP is a Mixed Precision library for JAX.
-- [deepmind/jraph](https://github.com/deepmind/jraph) pushed_at:2022-06 star:0.9k fork:0.1k A Graph Neural Network Library in Jax
+- [deepmind/jraph](https://github.com/deepmind/jraph) pushed_at:2022-06 star:1.0k fork:0.1k A Graph Neural Network Library in Jax
 - [deepmind/kfac-jax](https://github.com/deepmind/kfac-jax) pushed_at:2022-06 star:0.1k fork:0.0k Second Order Optimization and Curvature Estimation with K-FAC in JAX.
 - [deepmind/kinetics-i3d](https://github.com/deepmind/kinetics-i3d) pushed_at:2019-09 star:1.5k fork:0.5k Convolutional neural network model for video classification trained on the Kinetics dataset.
 - [deepmind/lamb](https://github.com/deepmind/lamb) pushed_at:2020-04 star:0.1k fork:0.0k LAnguage Modelling Benchmarks
@@ -195,7 +195,7 @@
 - [deepmind/Temporal-3D-Pose-Kinetics](https://github.com/deepmind/Temporal-3D-Pose-Kinetics) pushed_at:2022-06 star:0.2k fork:0.0k Exploiting temporal context for 3D human pose estimation in the wild: 3D poses for the Kinetics dataset
 - [deepmind/tensor_annotations](https://github.com/deepmind/tensor_annotations) pushed_at:2021-10 star:0.1k fork:0.0k Annotating tensor shapes using Python types
 - [deepmind/tf2jax](https://github.com/deepmind/tf2jax) pushed_at:2022-06 star:0.0k fork:0.0k 
-- [deepmind/tree](https://github.com/deepmind/tree) pushed_at:2022-05 star:0.8k fork:0.0k tree is a library for working with nested data structures
+- [deepmind/tree](https://github.com/deepmind/tree) pushed_at:2022-06 star:0.8k fork:0.0k tree is a library for working with nested data structures
 - [deepmind/trfl](https://github.com/deepmind/trfl) pushed_at:2021-08 star:3.1k fork:0.4k TensorFlow Reinforcement Learning
 - [deepmind/wasserstein_fairness](https://github.com/deepmind/wasserstein_fairness) pushed_at:2020-01 star:0.0k fork:0.0k An implementation of Wasserstein Fair Classification, a conference paper submitted to UAI 2019.
 - [deepmind/xmanager](https://github.com/deepmind/xmanager) pushed_at:2022-06 star:0.6k fork:0.0k A platform for managing machine learning experiments
