@@ -47,7 +47,7 @@
 - [uber/assume-role-cli](https://github.com/uber/assume-role-cli) pushed_at:2020-07 star:0.0k fork:0.0k CLI for AssumeRole is a tool for running programs with temporary credentials from AWS's AssumeRole API.
 - [uber/astro](https://github.com/uber/astro) pushed_at:2020-01 star:0.4k fork:0.0k Astro is a tool for managing multiple Terraform executions as a single command
 - [uber/athenadriver](https://github.com/uber/athenadriver) pushed_at:2022-02 star:0.1k fork:0.0k A fully-featured AWS Athena database driver (+ athenareader https://github.com/uber/athenadriver/tree/master/athenareader)
-- [uber/cadence](https://github.com/uber/cadence) pushed_at:2022-06 star:6.1k fork:0.6k Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [uber/cadence](https://github.com/uber/cadence) pushed_at:2022-07 star:6.1k fork:0.6k Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [uber/cadvisor](https://github.com/uber/cadvisor) pushed_at:2021-08 star:0.0k fork:0.0k Analyzes resource usage and performance characteristics of running containers.
 - [uber/gonduit](https://github.com/uber/gonduit) pushed_at:2021-06 star:0.0k fork:0.0k A Go package for connecting to Phabricator via the Conduit API.
 - [uber/kraken](https://github.com/uber/kraken) pushed_at:2022-06 star:5.1k fork:0.3k P2P Docker registry capable of distributing TBs of data in seconds
@@ -128,14 +128,14 @@
 
 ## Jupyter Notebook
 
-- [uber/h3-py-notebooks](https://github.com/uber/h3-py-notebooks) pushed_at:2021-11 star:0.1k fork:0.1k Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
+- [uber/h3-py-notebooks](https://github.com/uber/h3-py-notebooks) pushed_at:2021-11 star:0.2k fork:0.1k Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
 
 ## Kotlin
 
 - [uber/artist](https://github.com/uber/artist) pushed_at:2022-06 star:0.2k fork:0.0k An artist creates views. Artist is a Gradle plugin that codegens a base set of Android Views.
 - [uber/crumb](https://github.com/uber/crumb) pushed_at:2021-12 star:0.1k fork:0.0k An annotation processor for breadcrumbing metadata across compilation boundaries.
 - [uber/lint-checks](https://github.com/uber/lint-checks) pushed_at:2020-11 star:0.1k fork:0.0k A set of opinionated and useful lint checks
-- [uber/motif](https://github.com/uber/motif) pushed_at:2022-05 star:0.5k fork:0.0k A simple DI API for Android / Java
+- [uber/motif](https://github.com/uber/motif) pushed_at:2022-06 star:0.5k fork:0.0k A simple DI API for Android / Java
 - [uber/RIBs](https://github.com/uber/RIBs) pushed_at:2022-06 star:7.0k fork:0.8k Uber's cross-platform mobile architecture framework.
 - [uber/stylist](https://github.com/uber/stylist) pushed_at:2021-05 star:0.4k fork:0.0k A stylist creates cool styles. Stylist is a Gradle plugin that codegens a base set of Android XML themes.
 
@@ -168,7 +168,7 @@
 - [uber/clay](https://github.com/uber/clay) pushed_at:2022-01 star:0.4k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [uber/doubles](https://github.com/uber/doubles) pushed_at:2018-10 star:0.2k fork:0.0k Test doubles for Python.
 - [uber/fiber](https://github.com/uber/fiber) pushed_at:2022-06 star:1.0k fork:0.1k Distributed Computing for AI Made Simple
-- [uber/h3-py](https://github.com/uber/h3-py) pushed_at:2022-06 star:0.5k fork:0.1k Python bindings for H3, a hierarchical hexagonal geospatial indexing system
+- [uber/h3-py](https://github.com/uber/h3-py) pushed_at:2022-07 star:0.5k fork:0.1k Python bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/hypothesis-gufunc](https://github.com/uber/hypothesis-gufunc) pushed_at:2021-03 star:0.0k fork:0.0k Extension to hypothesis for testing numpy general universal functions
 - [uber/multidimensional_urlencode](https://github.com/uber/multidimensional_urlencode) pushed_at:2019-07 star:0.1k fork:0.0k Python library to urlencode a multidimensional dict
 - [uber/mutornadomon](https://github.com/uber/mutornadomon) pushed_at:2019-10 star:0.0k fork:0.0k Easy-to-install monitor endpoint for Tornado applications
@@ -200,13 +200,13 @@
 
 - [uber/cyborg](https://github.com/uber/cyborg) pushed_at:2020-09 star:0.3k fork:0.0k Display Android Vectordrawables on iOS.
 - [uber/mockolo](https://github.com/uber/mockolo) pushed_at:2022-06 star:0.5k fork:0.0k Efficient Mock Generator for Swift
-- [uber/needle](https://github.com/uber/needle) pushed_at:2022-06 star:1.3k fork:0.1k Compile-time safe Swift dependency injection framework
+- [uber/needle](https://github.com/uber/needle) pushed_at:2022-07 star:1.3k fork:0.1k Compile-time safe Swift dependency injection framework
 - [uber/rides-ios-sdk](https://github.com/uber/rides-ios-sdk) pushed_at:2019-11 star:0.3k fork:0.1k Uber Rides iOS SDK (beta)
 - [uber/RxCBCentral](https://github.com/uber/RxCBCentral) pushed_at:2021-09 star:0.0k fork:0.0k  A reactive, interface-driven central role Bluetooth LE library for iOS
 - [uber/swift-abstract-class](https://github.com/uber/swift-abstract-class) pushed_at:2019-12 star:0.1k fork:0.0k Compile-time abstract class validation for Swift
 - [uber/swift-common](https://github.com/uber/swift-common) pushed_at:2020-11 star:0.1k fork:0.0k Common code used by various Uber open source projects
 - [uber/swift-concurrency](https://github.com/uber/swift-concurrency) pushed_at:2020-05 star:0.3k fork:0.0k Concurrency utilities for Swift
-- [uber/SwiftCodeSan](https://github.com/uber/SwiftCodeSan) pushed_at:2022-06 star:0.1k fork:0.0k SwiftCodeSan is a tool that "sanitizes" code written in Swift.
+- [uber/SwiftCodeSan](https://github.com/uber/SwiftCodeSan) pushed_at:2022-06 star:0.2k fork:0.0k SwiftCodeSan is a tool that "sanitizes" code written in Swift.
 - [uber/UBTokenBar](https://github.com/uber/UBTokenBar) pushed_at:2017-03 star:0.1k fork:0.0k Flexible and extensible UICollectionView based TokenBar written in Swift
 
 ## Thrift

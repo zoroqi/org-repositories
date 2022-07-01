@@ -359,7 +359,7 @@
 - [opencollective/officegen](https://github.com/opencollective/officegen) pushed_at:2019-04 star:0.0k fork:0.0k Standalone Office Open XML files (Microsoft Office 2007 and later) generator for Word (docx), PowerPoint (pptx) and Excell (xlsx) in javascript. The output is a stream.
 - [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) pushed_at:2022-06 star:0.3k fork:0.2k Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
 - [opencollective/opencollective-app](https://github.com/opencollective/opencollective-app) pushed_at:2018-05 star:0.0k fork:0.0k OpenCollective App - used to manage budgets and approve expenses
-- [opencollective/opencollective-changelog](https://github.com/opencollective/opencollective-changelog) pushed_at:2022-06 star:0.0k fork:0.0k Tracking weekly changes
+- [opencollective/opencollective-changelog](https://github.com/opencollective/opencollective-changelog) pushed_at:2022-07 star:0.0k fork:0.0k Tracking weekly changes
 - [opencollective/opencollective-cli](https://github.com/opencollective/opencollective-cli) pushed_at:2021-08 star:0.0k fork:0.0k Command Line Interface for Open Collective
 - [opencollective/opencollective-email](https://github.com/opencollective/opencollective-email) pushed_at:2019-01 star:0.0k fork:0.0k The email service for transparent and inclusive open collectives
 - [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) pushed_at:2022-04 star:0.0k fork:0.0k The new Open Collective email service, powered by Eymail
@@ -907,7 +907,7 @@
 - [opencollective/rector](https://github.com/opencollective/rector) pushed_at:2019-07 star:0.0k fork:0.0k Instant Upgrades and Instant Refactoring of any PHP 5.3+ code
 - [opencollective/SMProxy](https://github.com/opencollective/SMProxy) pushed_at:2019-01 star:0.0k fork:0.0k Swoole MySQL Proxy 一个基于 MySQL 协议，Swoole 开发的MySQL数据库连接池。 A MySQL database connection pool based on MySQL protocol and Swoole.
 - [opencollective/SuiteCRM](https://github.com/opencollective/SuiteCRM) pushed_at:2019-07 star:0.0k fork:0.0k SuiteCRM - Open source CRM for the world
-- [opencollective/sysPass](https://github.com/opencollective/sysPass) pushed_at:2019-06 star:0.0k fork:0.0k Systems Password Manager
+- [opencollective/sysPass](https://github.com/opencollective/sysPass) pushed_at:2022-06 star:0.0k fork:0.0k Systems Password Manager
 - [opencollective/TastyIgniter](https://github.com/opencollective/TastyIgniter) pushed_at:2019-02 star:0.0k fork:0.0k :fire: Powerful, yet easy to use, open source online food ordering, table reservation and restaurant management system
 - [opencollective/wallabag](https://github.com/opencollective/wallabag) pushed_at:2017-11 star:0.0k fork:0.0k wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
 - [opencollective/WikiToLearn](https://github.com/opencollective/WikiToLearn) pushed_at:2017-06 star:0.0k fork:0.0k WikiToLearn main codebase
