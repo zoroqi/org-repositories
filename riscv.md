@@ -18,22 +18,22 @@
 
 ## Assembly
 
-- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) pushed_at:2022-06 star:0.1k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
-- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) pushed_at:2022-06 star:0.6k fork:0.2k Working draft of the proposed RISC-V V vector extension
+- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) pushed_at:2022-07 star:0.1k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
+- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) pushed_at:2022-07 star:0.6k fork:0.2k Working draft of the proposed RISC-V V vector extension
 
 ## BitBake
 
-- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) pushed_at:2022-06 star:0.2k fork:0.1k OpenEmbedded/Yocto layer for RISC-V Architecture
+- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) pushed_at:2022-07 star:0.2k fork:0.1k OpenEmbedded/Yocto layer for RISC-V Architecture
 
 ## C
 
-- [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2022-04 star:0.2k fork:0.0k RISC-V cryptography extensions standardisation work.
-- [riscv/riscv-openocd](https://github.com/riscv/riscv-openocd) pushed_at:2022-06 star:0.3k fork:0.2k Fork of OpenOCD that has RISC-V support
+- [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2022-07 star:0.2k fork:0.0k RISC-V cryptography extensions standardisation work.
+- [riscv/riscv-openocd](https://github.com/riscv/riscv-openocd) pushed_at:2022-07 star:0.3k fork:0.2k Fork of OpenOCD that has RISC-V support
 - [riscv/riscv-test-env](https://github.com/riscv/riscv-test-env) pushed_at:2022-03 star:0.0k fork:0.1k 
 
 ## Coq
 
-- [riscv/sail-riscv](https://github.com/riscv/sail-riscv) pushed_at:2022-06 star:0.2k fork:0.1k Sail RISC-V model
+- [riscv/sail-riscv](https://github.com/riscv/sail-riscv) pushed_at:2022-07 star:0.2k fork:0.1k Sail RISC-V model
 
 ## HTML
 
@@ -66,7 +66,7 @@
 
 - [riscv/configuration-structure](https://github.com/riscv/configuration-structure) pushed_at:2022-05 star:0.0k fork:0.0k RISC-V Configuration Structure
 - [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) pushed_at:2022-06 star:0.1k fork:0.0k 
-- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) pushed_at:2022-06 star:0.4k fork:0.2k RISC-V Opcodes
+- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) pushed_at:2022-07 star:0.4k fork:0.2k RISC-V Opcodes
 
 ## TeX
 
@@ -76,7 +76,7 @@
 - [riscv/riscv-cfi](https://github.com/riscv/riscv-cfi) pushed_at:2022-06 star:0.0k fork:0.0k This repo holds the work area and revisions of the RISC-V CFI (Shadow Stack and Landing Pads) specifications. CFI defines the privileged and unprivileged ISA extensions that can be used by privileged and unprivileged programs to protect the integrity of their control-flow.
 - [riscv/riscv-count-overflow](https://github.com/riscv/riscv-count-overflow) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) pushed_at:2022-06 star:0.3k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
-- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2022-06 star:2.0k fork:0.4k RISC-V Instruction Set Manual
+- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2022-07 star:2.1k fork:0.4k RISC-V Instruction Set Manual
 - [riscv/riscv-ras-eri](https://github.com/riscv/riscv-ras-eri) pushed_at:2022-06 star:0.0k fork:0.0k The (RAS Error-record Register Interface) RERI provides a specification to augment RAS features in RISC-V SOC hardware to standardize reporting and logging of errors by means of a memory-mapped register interface to enable error detection, provide the facility to log the detected errors (including their severity, nature, and location), and configuring means to report the error to a handler component.
 - [riscv/riscv-ras-terms-defs](https://github.com/riscv/riscv-ras-terms-defs) pushed_at:2022-06 star:0.0k fork:0.0k The RAS Terms & Definitions specification define the terms and definitions for physical mechanisms starting from common ones from research and development to adapting the terms as needed.
 - [riscv/riscv-smbios](https://github.com/riscv/riscv-smbios) pushed_at:2022-06 star:0.0k fork:0.0k RISC-V SMBIOS Type 44 Spec

@@ -59,13 +59,13 @@
 - [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-10 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
 - [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2022-06 star:14.4k fork:1.7k Emoji for everyone. https://twemoji.twitter.com/
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2022-06 star:2.8k fork:0.5k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
-- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-10 star:0.0k fork:0.0k 
+- [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-10 star:0.1k fork:0.0k 
 
 ## Java
 
-- [twitter/cloudhopper-commons](https://github.com/twitter/cloudhopper-commons) pushed_at:2021-06 star:0.0k fork:0.0k Cloudhopper Commons
+- [twitter/cloudhopper-commons](https://github.com/twitter/cloudhopper-commons) pushed_at:2022-07 star:0.0k fork:0.0k Cloudhopper Commons
 - [twitter/elephant-bird](https://github.com/twitter/elephant-bird) pushed_at:2022-01 star:1.1k fork:0.4k Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
-- [twitter/GraphJet](https://github.com/twitter/GraphJet) pushed_at:2022-03 star:0.5k fork:0.1k GraphJet is a real-time graph processing library.
+- [twitter/GraphJet](https://github.com/twitter/GraphJet) pushed_at:2022-07 star:0.5k fork:0.1k GraphJet is a real-time graph processing library.
 - [twitter/hbc](https://github.com/twitter/hbc) pushed_at:2022-04 star:0.9k fork:0.4k A Java HTTP client for consuming Twitter's realtime Streaming API
 - [twitter/hpack](https://github.com/twitter/hpack) pushed_at:2022-05 star:0.2k fork:0.1k Header Compression for HTTP/2
 - [twitter/hraven](https://github.com/twitter/hraven) pushed_at:2022-01 star:0.1k fork:0.1k hRaven collects run time data and statistics from MapReduce jobs in an easily queryable format
@@ -98,7 +98,7 @@
 - [twitter/curation-style-guide](https://github.com/twitter/curation-style-guide) pushed_at:2019-06 star:0.0k fork:0.0k Document Repository for Twitter's Curation Style Guide
 - [twitter/gpl-commitment](https://github.com/twitter/gpl-commitment) pushed_at:2021-07 star:0.0k fork:0.0k Twitter's GPL Cooperation Commitment
 - [twitter/innovators-patent-agreement](https://github.com/twitter/innovators-patent-agreement) pushed_at:2016-06 star:0.9k fork:0.1k Innovators Patent Agreement (IPA)
-- [twitter/metrics](https://github.com/twitter/metrics) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [twitter/metrics](https://github.com/twitter/metrics) pushed_at:2022-07 star:0.0k fork:0.0k 
 - [twitter/ossdecks](https://github.com/twitter/ossdecks) pushed_at:2019-04 star:0.0k fork:0.0k Repository for Twitter Open Source Decks
 - [twitter/repo-scaffolding](https://github.com/twitter/repo-scaffolding) pushed_at:2021-08 star:0.0k fork:0.0k Tools for creating repos based on open source standards and best practices
 - [twitter/second-control-probability-distributions](https://github.com/twitter/second-control-probability-distributions) pushed_at:2021-05 star:0.0k fork:0.0k 
@@ -129,21 +129,21 @@
 
 ## Rust
 
-- [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2022-06 star:1.2k fork:0.1k Systems performance telemetry
+- [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2022-07 star:1.2k fork:0.1k Systems performance telemetry
 - [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2022-06 star:0.4k fork:0.1k A tool for benchmarking RPC services
 - [twitter/rustcommon](https://github.com/twitter/rustcommon) pushed_at:2022-06 star:0.3k fork:0.0k Common Twitter Rust lib
 
 ## SCSS
 
-- [twitter/opensource-website](https://github.com/twitter/opensource-website) pushed_at:2022-06 star:1.9k fork:0.6k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
+- [twitter/opensource-website](https://github.com/twitter/opensource-website) pushed_at:2022-07 star:1.9k fork:0.6k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 
 ## Scala
 
-- [twitter/algebird](https://github.com/twitter/algebird) pushed_at:2022-05 star:2.1k fork:0.3k Abstract Algebra for Scala
+- [twitter/algebird](https://github.com/twitter/algebird) pushed_at:2022-07 star:2.1k fork:0.3k Abstract Algebra for Scala
 - [twitter/bazel-multiversion](https://github.com/twitter/bazel-multiversion) pushed_at:2021-12 star:0.0k fork:0.0k Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier. 
-- [twitter/bijection](https://github.com/twitter/bijection) pushed_at:2022-05 star:0.6k fork:0.1k Reversible conversions between types
+- [twitter/bijection](https://github.com/twitter/bijection) pushed_at:2022-07 star:0.6k fork:0.1k Reversible conversions between types
 - [twitter/cassovary](https://github.com/twitter/cassovary) pushed_at:2021-10 star:1.0k fork:0.1k Cassovary is a simple big graph processing library for the JVM
-- [twitter/chill](https://github.com/twitter/chill) pushed_at:2022-05 star:0.6k fork:0.1k Scala extensions for the Kryo serialization library
+- [twitter/chill](https://github.com/twitter/chill) pushed_at:2022-07 star:0.6k fork:0.1k Scala extensions for the Kryo serialization library
 - [twitter/finagle](https://github.com/twitter/finagle) pushed_at:2022-07 star:8.3k fork:1.4k A fault tolerant, protocol-agnostic RPC system
 - [twitter/finatra](https://github.com/twitter/finatra) pushed_at:2022-07 star:2.2k fork:0.4k Fast, testable, Scala services built on TwitterServer and Finagle
 - [twitter/iago2](https://github.com/twitter/iago2) pushed_at:2019-12 star:0.0k fork:0.0k A load generator, built for engineers
