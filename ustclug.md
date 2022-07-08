@@ -56,7 +56,7 @@
 
 ## Others
 
-- [ustclug/blogs](https://github.com/ustclug/blogs) pushed_at:2022-06 star:0.0k fork:0.0k USTCLUG 同学们的博客列表
+- [ustclug/blogs](https://github.com/ustclug/blogs) pushed_at:2022-07 star:0.0k fork:0.0k USTCLUG 同学们的博客列表
 - [ustclug/discussions](https://github.com/ustclug/discussions) pushed_at:2020-11 star:0.0k fork:0.0k Issue Tracker for USTC LUG
 - [ustclug/documentations](https://github.com/ustclug/documentations) pushed_at:2022-05 star:0.0k fork:0.0k LUG @ USTC General Documentation
 - [ustclug/hackergame2020-writeups](https://github.com/ustclug/hackergame2020-writeups) pushed_at:2020-11 star:0.0k fork:0.0k 
@@ -70,11 +70,11 @@
 
 ## Python
 
-- [ustclug/hackergame](https://github.com/ustclug/hackergame) pushed_at:2022-05 star:0.0k fork:0.0k Hackergame platform for 2018 and beyond
+- [ustclug/hackergame](https://github.com/ustclug/hackergame) pushed_at:2022-07 star:0.0k fork:0.0k Hackergame platform for 2018 and beyond
 - [ustclug/hackergame2017](https://github.com/ustclug/hackergame2017) pushed_at:2017-10 star:0.0k fork:0.0k 
 - [ustclug/library](https://github.com/ustclug/library) pushed_at:2017-11 star:0.0k fork:0.0k LUG Library
 - [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) pushed_at:2021-12 star:0.0k fork:0.0k LUG VPN 申请系统
-- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2022-06 star:0.3k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
+- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2022-07 star:0.3k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
 - [ustclug/website-static](https://github.com/ustclug/website-static) pushed_at:2021-06 star:0.0k fork:0.0k Hosting static content (image/assets) for LUG website
 
 ## Rust
@@ -86,7 +86,7 @@
 - [ustclug/docker-gitlab](https://github.com/ustclug/docker-gitlab) pushed_at:2017-04 star:0.0k fork:0.0k Dockerized GitLab
 - [ustclug/docker-image](https://github.com/ustclug/docker-image) pushed_at:2017-01 star:0.0k fork:0.0k 💀docker image used by USTC LUG (deprecated)
 - [ustclug/light-list](https://github.com/ustclug/light-list) pushed_at:2022-03 star:0.0k fork:0.0k accelerate list of light service
-- [ustclug/light-server](https://github.com/ustclug/light-server) pushed_at:2022-05 star:0.0k fork:0.0k light accelerator daemon
+- [ustclug/light-server](https://github.com/ustclug/light-server) pushed_at:2022-07 star:0.0k fork:0.0k light accelerator daemon
 - [ustclug/light-socks5](https://github.com/ustclug/light-socks5) pushed_at:2018-01 star:0.0k fork:0.0k light accelerator socks5 daemon
 - [ustclug/liimstrap](https://github.com/ustclug/liimstrap) pushed_at:2022-05 star:0.0k fork:0.0k 中国科大图书馆查询机生成脚本。
 - [ustclug/Linux101-docs](https://github.com/ustclug/Linux101-docs) pushed_at:2022-04 star:0.2k fork:0.0k Linux 101 学生课程教材与讲义
