@@ -138,7 +138,7 @@
 
 ## Ruby
 
-- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) pushed_at:2022-07 star:0.3k fork:0.1k The EFF Action Center Platform
+- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) pushed_at:2022-07 star:0.4k fork:0.1k The EFF Action Center Platform
 - [EFForg/active_preview](https://github.com/EFForg/active_preview) pushed_at:2018-11 star:0.0k fork:0.0k Rails plugin to make previews of active record objects
 - [EFForg/aws_one_click_staging](https://github.com/EFForg/aws_one_click_staging) pushed_at:2018-02 star:0.0k fork:0.0k 
 - [EFForg/check-your-reps](https://github.com/EFForg/check-your-reps) pushed_at:2018-11 star:0.0k fork:0.0k 

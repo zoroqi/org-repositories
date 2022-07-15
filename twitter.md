@@ -44,7 +44,7 @@
 
 ## CSS
 
-- [twitter/birdwatch](https://github.com/twitter/birdwatch) pushed_at:2022-05 star:0.1k fork:0.0k 
+- [twitter/birdwatch](https://github.com/twitter/birdwatch) pushed_at:2022-07 star:0.1k fork:0.0k 
 
 ## Go
 
@@ -124,7 +124,7 @@
 
 - [twitter/activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) pushed_at:2016-01 star:1.3k fork:0.1k An Active Record Reputation System for Rails
 - [twitter/thrift_client](https://github.com/twitter/thrift_client) pushed_at:2019-06 star:0.2k fork:0.1k A Thrift client wrapper that encapsulates some common failover behavior
-- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) pushed_at:2022-04 star:0.7k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
+- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) pushed_at:2022-04 star:0.6k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 - [twitter/twurl](https://github.com/twitter/twurl) pushed_at:2022-04 star:1.7k fork:0.3k OAuth-enabled curl for the Twitter API
 
 ## Rust
@@ -163,7 +163,7 @@
 
 - [twitter/cache-trace](https://github.com/twitter/cache-trace) pushed_at:2021-12 star:0.1k fork:0.0k A collection of Twitter's anonymized production cache traces.
 - [twitter/dodo](https://github.com/twitter/dodo) pushed_at:2022-05 star:0.0k fork:0.0k The Twitter OSS Project Builder
-- [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) pushed_at:2022-06 star:0.5k fork:0.3k Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
+- [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) pushed_at:2022-07 star:0.5k fork:0.3k Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
 
 ## Swift
 
