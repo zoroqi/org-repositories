@@ -43,7 +43,7 @@
 - [ARM-software/bsa-acs](https://github.com/ARM-software/bsa-acs) pushed_at:2022-07 star:0.0k fork:0.0k Arm SystemReady : BSA Architecture Compliance Suite
 - [ARM-software/CMSIS](https://github.com/ARM-software/CMSIS) pushed_at:2018-10 star:0.4k fork:0.4k Cortex Microcontroller Software Interface Standard
 - [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) pushed_at:2022-06 star:0.1k fork:0.1k Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
-- [ARM-software/CMSIS-Driver_Validation](https://github.com/ARM-software/CMSIS-Driver_Validation) pushed_at:2022-05 star:0.0k fork:0.0k Repository containing validation components for microcontroller peripheral driver implementing the CMSIS-Driver API specification.
+- [ARM-software/CMSIS-Driver_Validation](https://github.com/ARM-software/CMSIS-Driver_Validation) pushed_at:2022-07 star:0.0k fork:0.0k Repository containing validation components for microcontroller peripheral driver implementing the CMSIS-Driver API specification.
 - [ARM-software/CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) pushed_at:2022-07 star:0.0k fork:0.0k CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
 - [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) pushed_at:2022-05 star:0.4k fork:0.1k FreeRTOS adaptation for CMSIS-RTOS Version 2
 - [ARM-software/CMSIS-mbedTLS](https://github.com/ARM-software/CMSIS-mbedTLS) pushed_at:2022-02 star:0.0k fork:0.0k CMSIS Pack for the mbedTLS software stack
@@ -56,7 +56,7 @@
 - [ARM-software/cryptocell-312-runtime](https://github.com/ARM-software/cryptocell-312-runtime) pushed_at:2021-02 star:0.0k fork:0.0k CryptoCell 312 runtime code
 - [ARM-software/Cryptocell-703-TEE-Lib](https://github.com/ARM-software/Cryptocell-703-TEE-Lib) pushed_at:2020-09 star:0.0k fork:0.0k Cryptocell 713/703 TEE Lib
 - [ARM-software/Cryptocell-713-TEE-Lib](https://github.com/ARM-software/Cryptocell-713-TEE-Lib) pushed_at:2020-09 star:0.0k fork:0.0k 
-- [ARM-software/CSAL](https://github.com/ARM-software/CSAL) pushed_at:2022-06 star:0.1k fork:0.0k Coresight Access Library
+- [ARM-software/CSAL](https://github.com/ARM-software/CSAL) pushed_at:2022-07 star:0.1k fork:0.0k Coresight Access Library
 - [ARM-software/EndpointAI](https://github.com/ARM-software/EndpointAI) pushed_at:2022-07 star:0.2k fork:0.1k 
 - [ARM-software/ff-a-acs](https://github.com/ARM-software/ff-a-acs) pushed_at:2021-08 star:0.0k fork:0.0k Firmware Framework for A Architecture Compliance Suite
 - [ARM-software/fluent-bit-modbus-plugin](https://github.com/ARM-software/fluent-bit-modbus-plugin) pushed_at:2020-04 star:0.0k fork:0.0k   A dynamic Modbus plugin for Fluent Bit
@@ -95,7 +95,7 @@
 - [ARM-software/ATP-Engine](https://github.com/ARM-software/ATP-Engine) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [ARM-software/BarrierPoint](https://github.com/ARM-software/BarrierPoint) pushed_at:2020-05 star:0.0k fork:0.0k 
 - [ARM-software/caiman](https://github.com/ARM-software/caiman) pushed_at:2022-06 star:0.0k fork:0.0k Sources for Arm Streamline's caiman daemon
-- [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) pushed_at:2022-05 star:2.2k fork:0.7k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
+- [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) pushed_at:2022-05 star:2.3k fork:0.7k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [ARM-software/developer](https://github.com/ARM-software/developer) pushed_at:2021-10 star:0.0k fork:0.0k GTM related documentation
 - [ARM-software/devtools](https://github.com/ARM-software/devtools) pushed_at:2022-07 star:0.0k fork:0.0k Open-CMSIS-Pack development tools - C++ 
 - [ARM-software/drm-hwcomposer](https://github.com/ARM-software/drm-hwcomposer) pushed_at:2021-11 star:0.0k fork:0.0k Clone of the drm-hwcomposer from freedesktop.org plus patches from Mali DP team
@@ -137,7 +137,7 @@
 
 ## Go
 
-- [ARM-software/bob-build](https://github.com/ARM-software/bob-build) pushed_at:2022-05 star:0.0k fork:0.0k Meta-build system using Blueprint and ninja
+- [ARM-software/bob-build](https://github.com/ARM-software/bob-build) pushed_at:2022-07 star:0.0k fork:0.0k Meta-build system using Blueprint and ninja
 - [ARM-software/golang-utils](https://github.com/ARM-software/golang-utils) pushed_at:2022-07 star:0.0k fork:0.0k Helpers and utilities for Golang in order to do actions not available in the standard library.
 
 ## HTML
@@ -172,8 +172,8 @@
 - [ARM-software/data](https://github.com/ARM-software/data) pushed_at:2022-03 star:0.0k fork:0.0k Machine-readable data describing Arm architecture and implementations. Includes JSON descriptions of implemented PMU events.
 - [ARM-software/NXP_iMX](https://github.com/ARM-software/NXP_iMX) pushed_at:2016-03 star:0.0k fork:0.0k CMSIS Driver Implementations for the NXP i.MX Device Series with Cortex-M processor
 - [ARM-software/NXP_Kinetis](https://github.com/ARM-software/NXP_Kinetis) pushed_at:2016-03 star:0.0k fork:0.0k CMSIS Driver Implementations for the NXP Kinetis Microcontroller Series
-- [ARM-software/open-iot-sdk](https://github.com/ARM-software/open-iot-sdk) pushed_at:2022-06 star:0.0k fork:0.0k Open-IoT-SDK - Home of the Total Solution applications.
-- [ARM-software/psa-firmware-update-spec](https://github.com/ARM-software/psa-firmware-update-spec) pushed_at:2022-06 star:0.0k fork:0.0k The PSA Firmware Update API specification, and discussion of future versions of this API.
+- [ARM-software/open-iot-sdk](https://github.com/ARM-software/open-iot-sdk) pushed_at:2022-07 star:0.0k fork:0.0k Open-IoT-SDK - Home of the Total Solution applications.
+- [ARM-software/psa-firmware-update-spec](https://github.com/ARM-software/psa-firmware-update-spec) pushed_at:2022-07 star:0.0k fork:0.0k The PSA Firmware Update API specification, and discussion of future versions of this API.
 - [ARM-software/tf-issues](https://github.com/ARM-software/tf-issues) pushed_at:2020-01 star:0.0k fork:0.0k Issue tracking for the ARM Trusted Firmware project
 - [ARM-software/vscode-device-manager](https://github.com/ARM-software/vscode-device-manager) pushed_at:2022-07 star:0.0k fork:0.0k Extension support for VS Code USB Device Extension
 

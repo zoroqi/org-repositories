@@ -40,7 +40,7 @@
 - [ustclug/mirrors-index](https://github.com/ustclug/mirrors-index) pushed_at:2018-05 star:0.0k fork:0.0k Go https://git.lug.ustc.edu.cn/mirrors/mirrors-index for latest version
 - [ustclug/news](https://github.com/ustclug/news) pushed_at:2020-08 star:0.0k fork:0.0k USTC LUG 新闻站
 - [ustclug/qtguide](https://github.com/ustclug/qtguide) pushed_at:2022-05 star:0.1k fork:0.0k Qt Programming Guide
-- [ustclug/website](https://github.com/ustclug/website) pushed_at:2022-06 star:0.0k fork:0.0k The next-gen website of LUG@USTC.
+- [ustclug/website](https://github.com/ustclug/website) pushed_at:2022-07 star:0.0k fork:0.0k The next-gen website of LUG@USTC.
 
 ## Hack
 
@@ -74,7 +74,7 @@
 - [ustclug/hackergame2017](https://github.com/ustclug/hackergame2017) pushed_at:2017-10 star:0.0k fork:0.0k 
 - [ustclug/library](https://github.com/ustclug/library) pushed_at:2017-11 star:0.0k fork:0.0k LUG Library
 - [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) pushed_at:2021-12 star:0.0k fork:0.0k LUG VPN 申请系统
-- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2022-07 star:0.3k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
+- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2022-07 star:0.4k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
 - [ustclug/website-static](https://github.com/ustclug/website-static) pushed_at:2021-06 star:0.0k fork:0.0k Hosting static content (image/assets) for LUG website
 
 ## Rust
