@@ -58,7 +58,7 @@
 
 ## Cython
 
-- [openai/mujoco-py](https://github.com/openai/mujoco-py) pushed_at:2022-02 star:2.1k fork:0.7k MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
+- [openai/mujoco-py](https://github.com/openai/mujoco-py) pushed_at:2022-07 star:2.1k fork:0.7k MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
 
 ## Go
 
@@ -84,7 +84,7 @@
 ## Jupyter Notebook
 
 - [openai/baselines-results](https://github.com/openai/baselines-results) pushed_at:2020-07 star:0.1k fork:0.0k 
-- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2022-07 star:8.6k fork:1.3k Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) pushed_at:2022-07 star:8.7k fork:1.3k Contrastive Language-Image Pretraining
 - [openai/lucid](https://github.com/openai/lucid) pushed_at:2019-01 star:0.0k fork:0.0k A collection of infrastructure and tools for research in neural network interpretability.
 - [openai/ot-gan](https://github.com/openai/ot-gan) pushed_at:2018-11 star:0.1k fork:0.0k  Code for the paper "Improving GANs Using Optimal Transport"
 - [openai/ppo-ewma](https://github.com/openai/ppo-ewma) pushed_at:2021-10 star:0.0k fork:0.0k Code for the paper "Batch size invariance for policy optimization"
@@ -106,7 +106,7 @@
 - [openai/ai-and-efficiency](https://github.com/openai/ai-and-efficiency) pushed_at:2020-06 star:0.0k fork:0.0k Submissions for AI and Efficiency SOTA's
 - [openai/bchess-personal](https://github.com/openai/bchess-personal) pushed_at:2021-12 star:0.0k fork:0.0k temporarily public for a bug report
 - [openai/consul-helm](https://github.com/openai/consul-helm) pushed_at:2020-10 star:0.0k fork:0.0k Helm chart to install Consul and other associated components.
-- [openai/dalle-2-preview](https://github.com/openai/dalle-2-preview) pushed_at:2022-05 star:0.8k fork:0.1k 
+- [openai/dalle-2-preview](https://github.com/openai/dalle-2-preview) pushed_at:2022-07 star:0.9k fork:0.1k 
 - [openai/following-instructions-human-feedback](https://github.com/openai/following-instructions-human-feedback) pushed_at:2022-01 star:0.2k fork:0.0k 
 - [openai/go-retryablehttp](https://github.com/openai/go-retryablehttp) pushed_at:2020-06 star:0.0k fork:0.0k Retryable HTTP client in Go
 - [openai/gpt-3](https://github.com/openai/gpt-3) pushed_at:2020-09 star:11.4k fork:1.4k GPT-3: Language Models are Few-Shot Learners
@@ -121,12 +121,12 @@
 - [openai/baselines](https://github.com/openai/baselines) pushed_at:2022-06 star:12.8k fork:4.4k OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [openai/CLIP-featurevis](https://github.com/openai/CLIP-featurevis) pushed_at:2021-03 star:0.2k fork:0.0k code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
 - [openai/code-align-evals-data](https://github.com/openai/code-align-evals-data) pushed_at:2021-07 star:0.0k fork:0.0k 
-- [openai/DALL-E](https://github.com/openai/DALL-E) pushed_at:2022-06 star:7.8k fork:1.4k PyTorch package for the discrete VAE used for DALL·E.
+- [openai/DALL-E](https://github.com/openai/DALL-E) pushed_at:2022-06 star:7.9k fork:1.4k PyTorch package for the discrete VAE used for DALL·E.
 - [openai/deeptype](https://github.com/openai/deeptype) pushed_at:2019-03 star:0.6k fork:0.1k  Code for the paper "DeepType: Multilingual Entity Linking by Neural Type System Evolution"
 - [openai/distribution_augmentation](https://github.com/openai/distribution_augmentation) pushed_at:2021-12 star:0.1k fork:0.0k Code for the paper, "Distribution Augmentation for Generative Modeling", ICML 2020.
 - [openai/ebm_code_release](https://github.com/openai/ebm_code_release) pushed_at:2019-04 star:0.3k fork:0.0k Code for Implicit Generation and Generalization with Energy Based Models
 - [openai/EPG](https://github.com/openai/EPG) pushed_at:2018-11 star:0.2k fork:0.0k Code for the paper "Evolved Policy Gradients"
-- [openai/evolution-strategies-starter](https://github.com/openai/evolution-strategies-starter) pushed_at:2019-10 star:1.4k fork:0.3k Code for the paper "Evolution Strategies as a Scalable Alternative to Reinforcement Learning"
+- [openai/evolution-strategies-starter](https://github.com/openai/evolution-strategies-starter) pushed_at:2019-10 star:1.5k fork:0.3k Code for the paper "Evolution Strategies as a Scalable Alternative to Reinforcement Learning"
 - [openai/fetch_robots](https://github.com/openai/fetch_robots) pushed_at:2016-07 star:0.0k fork:0.0k Bringup for fetch & freight
 - [openai/finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm) pushed_at:2019-01 star:1.6k fork:0.4k Code and model for the paper "Improving Language Understanding by Generative Pre-Training"
 - [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) pushed_at:2019-07 star:1.4k fork:0.4k Code for "Learning to Generate Reviews and Discovering Sentiment"
@@ -137,7 +137,7 @@
 - [openai/grade-school-math](https://github.com/openai/grade-school-math) pushed_at:2021-11 star:0.2k fork:0.0k 
 - [openai/grok](https://github.com/openai/grok) pushed_at:2022-01 star:0.1k fork:0.0k 
 - [openai/guided-diffusion](https://github.com/openai/guided-diffusion) pushed_at:2022-07 star:1.8k fork:0.3k 
-- [openai/gym](https://github.com/openai/gym) pushed_at:2022-07 star:28.0k fork:7.9k A toolkit for developing and comparing reinforcement learning algorithms.
+- [openai/gym](https://github.com/openai/gym) pushed_at:2022-07 star:28.1k fork:7.9k A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/gym-http-api](https://github.com/openai/gym-http-api) pushed_at:2019-07 star:0.3k fork:0.1k API to access OpenAI Gym from other languages via HTTP
 - [openai/gym-recording](https://github.com/openai/gym-recording) pushed_at:2020-10 star:0.1k fork:0.0k Add-on package to gym, to record sequences of actions, observations, and rewards
 - [openai/gym-soccer](https://github.com/openai/gym-soccer) pushed_at:2021-12 star:0.3k fork:0.2k 

@@ -33,9 +33,9 @@
 - [twitter/fatcache](https://github.com/twitter/fatcache) pushed_at:2021-11 star:1.3k fork:0.2k Memcache on SSD
 - [twitter/ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) pushed_at:2022-03 star:1.8k fork:0.1k Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
-- [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2022-07 star:1.1k fork:0.1k Pelikan is Twitter's unified cache backend
+- [twitter/pelikan](https://github.com/twitter/pelikan) pushed_at:2022-07 star:1.2k fork:0.1k Pelikan is Twitter's unified cache backend
 - [twitter/twemcache](https://github.com/twitter/twemcache) pushed_at:2021-11 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2022-05 star:11.4k fork:2.0k A fast, light-weight proxy for memcached and redis
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) pushed_at:2022-05 star:11.5k fork:2.0k A fast, light-weight proxy for memcached and redis
 
 ## C++
 
@@ -58,7 +58,7 @@
 - [twitter/interactive](https://github.com/twitter/interactive) pushed_at:2021-11 star:0.2k fork:0.1k Twitter interactive visualization
 - [twitter/scala_school](https://github.com/twitter/scala_school) pushed_at:2021-10 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
 - [twitter/twemoji](https://github.com/twitter/twemoji) pushed_at:2022-06 star:14.4k fork:1.7k Emoji for everyone. https://twemoji.twitter.com/
-- [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2022-06 star:2.8k fork:0.5k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
+- [twitter/twitter-text](https://github.com/twitter/twitter-text) pushed_at:2022-07 star:2.8k fork:0.5k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) pushed_at:2021-10 star:0.1k fork:0.0k 
 
 ## Java
@@ -124,13 +124,13 @@
 
 - [twitter/activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) pushed_at:2016-01 star:1.3k fork:0.1k An Active Record Reputation System for Rails
 - [twitter/thrift_client](https://github.com/twitter/thrift_client) pushed_at:2019-06 star:0.2k fork:0.1k A Thrift client wrapper that encapsulates some common failover behavior
-- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) pushed_at:2022-04 star:0.6k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
+- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) pushed_at:2022-04 star:0.7k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 - [twitter/twurl](https://github.com/twitter/twurl) pushed_at:2022-04 star:1.7k fork:0.3k OAuth-enabled curl for the Twitter API
 
 ## Rust
 
 - [twitter/rezolus](https://github.com/twitter/rezolus) pushed_at:2022-07 star:1.2k fork:0.1k Systems performance telemetry
-- [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2022-06 star:0.4k fork:0.1k A tool for benchmarking RPC services
+- [twitter/rpc-perf](https://github.com/twitter/rpc-perf) pushed_at:2022-07 star:0.4k fork:0.1k A tool for benchmarking RPC services
 - [twitter/rustcommon](https://github.com/twitter/rustcommon) pushed_at:2022-06 star:0.3k fork:0.0k Common Twitter Rust lib
 
 ## SCSS

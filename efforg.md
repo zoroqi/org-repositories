@@ -108,7 +108,7 @@
 - [EFForg/https-docs](https://github.com/EFForg/https-docs) pushed_at:2018-01 star:0.0k fork:0.0k 
 - [EFForg/OpenWireless-WebUI](https://github.com/EFForg/OpenWireless-WebUI) pushed_at:2014-03 star:0.0k fork:0.0k Open Wireless Web UI
 - [EFForg/ow-python](https://github.com/EFForg/ow-python) pushed_at:2014-07 star:0.0k fork:0.0k stripped down implementation of python for openwireless
-- [EFForg/phantom-of-the-capitol](https://github.com/EFForg/phantom-of-the-capitol) pushed_at:2022-05 star:0.2k fork:0.1k 
+- [EFForg/phantom-of-the-capitol](https://github.com/EFForg/phantom-of-the-capitol) pushed_at:2022-07 star:0.2k fork:0.1k 
 - [EFForg/psi-tumblr-uploader](https://github.com/EFForg/psi-tumblr-uploader) pushed_at:2014-08 star:0.0k fork:0.0k 
 - [EFForg/sentry](https://github.com/EFForg/sentry) pushed_at:2016-08 star:0.0k fork:0.0k docker-compose setup for sentry exception manager
 - [EFForg/ssd-l10n](https://github.com/EFForg/ssd-l10n) pushed_at:2016-12 star:0.0k fork:0.0k ssd-l10n
@@ -151,7 +151,7 @@
 - [EFForg/onlinecensorship](https://github.com/EFForg/onlinecensorship) pushed_at:2021-07 star:0.0k fork:0.0k 
 - [EFForg/rails_response_headers](https://github.com/EFForg/rails_response_headers) pushed_at:2021-02 star:0.0k fork:0.0k Configure ActionController response headers with YAML.
 - [EFForg/ROSCO](https://github.com/EFForg/ROSCO) pushed_at:2019-10 star:0.0k fork:0.0k ROSCO is an interactive, ruby-based CLI interface for querying against an instance of Snipe-IT
-- [EFForg/ruby-civicrm](https://github.com/EFForg/ruby-civicrm) pushed_at:2022-04 star:0.0k fork:0.0k Ruby client for CiviCRM REST interface
+- [EFForg/ruby-civicrm](https://github.com/EFForg/ruby-civicrm) pushed_at:2022-07 star:0.0k fork:0.0k Ruby client for CiviCRM REST interface
 
 ## Rust
 
