@@ -58,7 +58,7 @@
 
 - [ustclug/blogs](https://github.com/ustclug/blogs) pushed_at:2022-07 star:0.0k fork:0.0k USTCLUG 同学们的博客列表
 - [ustclug/discussions](https://github.com/ustclug/discussions) pushed_at:2020-11 star:0.0k fork:0.0k Issue Tracker for USTC LUG
-- [ustclug/documentations](https://github.com/ustclug/documentations) pushed_at:2022-05 star:0.0k fork:0.0k LUG @ USTC General Documentation
+- [ustclug/documentations](https://github.com/ustclug/documentations) pushed_at:2022-07 star:0.0k fork:0.0k LUG @ USTC General Documentation
 - [ustclug/hackergame2020-writeups](https://github.com/ustclug/hackergame2020-writeups) pushed_at:2020-11 star:0.0k fork:0.0k 
 - [ustclug/lug-stickers](https://github.com/ustclug/lug-stickers) pushed_at:2019-05 star:0.0k fork:0.0k 
 - [ustclug/mirrorrequest](https://github.com/ustclug/mirrorrequest) pushed_at:2022-02 star:0.4k fork:0.0k 通过 issue 为中国科大开源镜像站（mirrors.ustc.edu.cn）提交新的镜像申请~
@@ -102,7 +102,7 @@
 - [ustclug/rubygems-mirror](https://github.com/ustclug/rubygems-mirror) pushed_at:2017-02 star:0.0k fork:0.0k 💀 rubugems mirror tool (deprecated)
 - [ustclug/simple-pxe](https://github.com/ustclug/simple-pxe) pushed_at:2022-03 star:0.0k fork:0.0k 便宜，快速，品质尚可
 - [ustclug/telegram-web](https://github.com/ustclug/telegram-web) pushed_at:2017-11 star:0.0k fork:0.0k 💀Telegram Web Client (deprecated)
-- [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) pushed_at:2022-06 star:0.0k fork:0.0k Docker images used by ustcmirror :rocket:
+- [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) pushed_at:2022-07 star:0.0k fork:0.0k Docker images used by ustcmirror :rocket:
 
 
 ## License

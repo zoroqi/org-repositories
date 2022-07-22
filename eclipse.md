@@ -9,7 +9,7 @@
 - [Awk](#awk) (2)
 - [C](#c) (15)
 - [C#](#c#) (1)
-- [C++](#c++) (66)
+- [C++](#c++) (65)
 - [CMake](#cmake) (2)
 - [COBOL](#cobol) (1)
 - [CSS](#css) (6)
@@ -19,9 +19,9 @@
 - [Groovy](#groovy) (2)
 - [HTML](#html) (17)
 - [Java](#java) (219)
-- [JavaScript](#javascript) (17)
+- [JavaScript](#javascript) (16)
 - [Kotlin](#kotlin) (4)
-- [Makefile](#makefile) (1)
+- [Makefile](#makefile) (2)
 - [Others](#others) (59)
 - [PHP](#php) (2)
 - [PostScript](#postscript) (1)
@@ -29,7 +29,7 @@
 - [Ruby](#ruby) (1)
 - [Rust](#rust) (1)
 - [Shell](#shell) (8)
-- [Smarty](#smarty) (1)
+- [Smarty](#smarty) (2)
 - [TypeScript](#typescript) (29)
 - [Vue](#vue) (1)
 - [Xtend](#xtend) (2)
@@ -47,7 +47,7 @@
 - [eclipse/mraa](https://github.com/eclipse/mraa) pushed_at:2022-07 star:1.3k fork:0.6k Linux Library for low speed IO Communication in C with bindings for C++, Python, Node.js & Java. Supports generic io platforms, as well as Intel Edison, Intel Joule, Raspberry Pi and many more.
 - [eclipse/openmcx](https://github.com/eclipse/openmcx) pushed_at:2022-02 star:0.0k fork:0.0k openmcx
 - [eclipse/paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) pushed_at:2022-07 star:1.4k fork:0.9k An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
-- [eclipse/paho.mqtt.embedded-c](https://github.com/eclipse/paho.mqtt.embedded-c) pushed_at:2022-01 star:1.1k fork:0.7k Paho MQTT C client library for embedded systems.  Paho is an Eclipse IoT project (https://iot.eclipse.org/)
+- [eclipse/paho.mqtt.embedded-c](https://github.com/eclipse/paho.mqtt.embedded-c) pushed_at:2022-07 star:1.1k fork:0.7k Paho MQTT C client library for embedded systems.  Paho is an Eclipse IoT project (https://iot.eclipse.org/)
 - [eclipse/tinydtls](https://github.com/eclipse/tinydtls) pushed_at:2022-07 star:0.1k fork:0.0k Eclipse tinydtls
 - [eclipse/titan.ProtocolModules.HTTP2.0](https://github.com/eclipse/titan.ProtocolModules.HTTP2.0) pushed_at:2021-04 star:0.0k fork:0.0k Titan ProtocolModules HTTP2.0
 - [eclipse/titan.ProtocolModules.ICAP](https://github.com/eclipse/titan.ProtocolModules.ICAP) pushed_at:2021-04 star:0.0k fork:0.0k Titan ProtocolModules ICAP
@@ -63,7 +63,6 @@
 
 ## C++
 
-- [eclipse/adore](https://github.com/eclipse/adore) pushed_at:2021-07 star:0.0k fork:0.0k Adore project
 - [eclipse/che-che4z-lsp-for-hlasm](https://github.com/eclipse/che-che4z-lsp-for-hlasm) pushed_at:2022-06 star:0.0k fork:0.0k LSP server that adds support for the High Level Assembler (HLASM) language to IDEs
 - [eclipse/cloe](https://github.com/eclipse/cloe) pushed_at:2022-07 star:0.0k fork:0.0k Cloe
 - [eclipse/iottestware.mqtt](https://github.com/eclipse/iottestware.mqtt) pushed_at:2021-01 star:0.0k fork:0.0k iottestware.mqtt
@@ -128,7 +127,7 @@
 - [eclipse/titan.TestPorts.UDPasp](https://github.com/eclipse/titan.TestPorts.UDPasp) pushed_at:2021-04 star:0.0k fork:0.0k 
 - [eclipse/titan.TestPorts.UNIX_DOMAIN_SOCKETasp](https://github.com/eclipse/titan.TestPorts.UNIX_DOMAIN_SOCKETasp) pushed_at:2021-04 star:0.0k fork:0.0k Titan TestPorts UNIX_DOMAIN_SOCKETasp
 - [eclipse/upm](https://github.com/eclipse/upm) pushed_at:2021-07 star:0.6k fork:0.4k UPM is a high level repository that provides software drivers for a wide variety of commonly used sensors and actuators. These software drivers interact with the underlying hardware platform through calls to MRAA APIs.
-- [eclipse/xacc](https://github.com/eclipse/xacc) pushed_at:2022-06 star:0.1k fork:0.1k XACC - eXtreme-scale Accelerator programming framework
+- [eclipse/xacc](https://github.com/eclipse/xacc) pushed_at:2022-07 star:0.1k fork:0.1k XACC - eXtreme-scale Accelerator programming framework
 
 ## CMake
 
@@ -185,7 +184,7 @@
 - [eclipse/kuksa.hardware](https://github.com/eclipse/kuksa.hardware) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [eclipse/lyo.testsuite](https://github.com/eclipse/lyo.testsuite) pushed_at:2022-02 star:0.0k fork:0.0k Lyo project repository (lyo.testsuite)
 - [eclipse/mosaic.website](https://github.com/eclipse/mosaic.website) pushed_at:2022-05 star:0.0k fork:0.0k 
-- [eclipse/n4js-tutorials](https://github.com/eclipse/n4js-tutorials) pushed_at:2022-06 star:0.0k fork:0.0k n4js-tutorials
+- [eclipse/n4js-tutorials](https://github.com/eclipse/n4js-tutorials) pushed_at:2022-07 star:0.0k fork:0.0k n4js-tutorials
 - [eclipse/orion](https://github.com/eclipse/orion) pushed_at:2019-10 star:0.0k fork:0.0k The Eclipse Orion Website, "Your IDE in the Cloud"
 - [eclipse/rdf4j-doc](https://github.com/eclipse/rdf4j-doc) pushed_at:2020-07 star:0.0k fork:0.0k RDF4J Documentation
 - [eclipse/sumo.website](https://github.com/eclipse/sumo.website) pushed_at:2022-07 star:0.0k fork:0.0k 
@@ -197,7 +196,7 @@
 - [eclipse/aCute](https://github.com/eclipse/aCute) pushed_at:2021-05 star:0.1k fork:0.0k Eclipse aCute - C# edition in Eclipse IDE
 - [eclipse/agileuml](https://github.com/eclipse/agileuml) pushed_at:2022-07 star:0.0k fork:0.0k AgileUML tools for MDE using UML
 - [eclipse/ajdt](https://github.com/eclipse/ajdt) pushed_at:2022-07 star:0.0k fork:0.0k 
-- [eclipse/amalgam](https://github.com/eclipse/amalgam) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [eclipse/amalgam](https://github.com/eclipse/amalgam) pushed_at:2022-07 star:0.0k fork:0.0k 
 - [eclipse/andmore](https://github.com/eclipse/andmore) pushed_at:2018-03 star:0.1k fork:0.0k Andmore - Eclipse Android Tooling
 - [eclipse/aspectj.eclipse.jdt.core](https://github.com/eclipse/aspectj.eclipse.jdt.core) pushed_at:2022-07 star:0.0k fork:0.0k Aspectj JDT Core
 - [eclipse/birt](https://github.com/eclipse/birt) pushed_at:2022-07 star:0.3k fork:0.3k Eclipse BIRT™ The open source reporting and data visualization project. 
@@ -206,13 +205,13 @@
 - [eclipse/californium.actinium](https://github.com/eclipse/californium.actinium) pushed_at:2022-07 star:0.0k fork:0.0k Californium project
 - [eclipse/californium.tools](https://github.com/eclipse/californium.tools) pushed_at:2022-07 star:0.1k fork:0.1k Californium project
 - [eclipse/capella](https://github.com/eclipse/capella) pushed_at:2022-07 star:0.1k fork:0.1k Open Source Solution for Model-Based Systems Engineering
-- [eclipse/capella-basic-vp](https://github.com/eclipse/capella-basic-vp) pushed_at:2022-03 star:0.0k fork:0.0k 
+- [eclipse/capella-basic-vp](https://github.com/eclipse/capella-basic-vp) pushed_at:2022-07 star:0.0k fork:0.0k 
 - [eclipse/capella-cybersecurity](https://github.com/eclipse/capella-cybersecurity) pushed_at:2021-07 star:0.0k fork:0.0k inactive project
-- [eclipse/capella-deferred-merge](https://github.com/eclipse/capella-deferred-merge) pushed_at:2021-06 star:0.0k fork:0.0k Capella addon allowing to create patchset of model comparisons
+- [eclipse/capella-deferred-merge](https://github.com/eclipse/capella-deferred-merge) pushed_at:2022-07 star:0.0k fork:0.0k Capella addon allowing to create patchset of model comparisons
 - [eclipse/capella-filtering](https://github.com/eclipse/capella-filtering) pushed_at:2022-06 star:0.0k fork:0.0k Filtering is an addon to filter capella models
 - [eclipse/capella-requirements-vp](https://github.com/eclipse/capella-requirements-vp) pushed_at:2022-07 star:0.0k fork:0.0k This add-on allows importing a set of requirements from a ReqIF file
 - [eclipse/capella-sss-transition](https://github.com/eclipse/capella-sss-transition) pushed_at:2022-07 star:0.0k fork:0.0k System to Sub System transition add-on enables automated and iterative transition between system and subsystems. 
-- [eclipse/capella-studio](https://github.com/eclipse/capella-studio) pushed_at:2022-05 star:0.0k fork:0.0k Open source SDK to develop Capella add-ons
+- [eclipse/capella-studio](https://github.com/eclipse/capella-studio) pushed_at:2022-07 star:0.0k fork:0.0k Open source SDK to develop Capella add-ons
 - [eclipse/capella-textual-editor](https://github.com/eclipse/capella-textual-editor) pushed_at:2021-06 star:0.0k fork:0.0k This addon allows to edit Capella Scenario within a textual editor
 - [eclipse/capella-tools](https://github.com/eclipse/capella-tools) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [eclipse/capella-vpms](https://github.com/eclipse/capella-vpms) pushed_at:2021-11 star:0.0k fork:0.0k Enrich the capabilities regarding the definition of Capella Modes & States and analyze their consistency
@@ -230,11 +229,11 @@
 - [eclipse/concierge](https://github.com/eclipse/concierge) pushed_at:2020-07 star:0.0k fork:0.0k Eclipse Concierge™ project
 - [eclipse/ConfigJSR](https://github.com/eclipse/ConfigJSR) pushed_at:2021-12 star:0.0k fork:0.0k JSR382
 - [eclipse/corrosion](https://github.com/eclipse/corrosion) pushed_at:2022-07 star:0.2k fork:0.0k Eclipse Corrosion - Rust edition in Eclipse IDE
-- [eclipse/dartboard](https://github.com/eclipse/dartboard) pushed_at:2020-11 star:0.0k fork:0.0k Dart Plugin for Eclipse
-- [eclipse/dash-licenses](https://github.com/eclipse/dash-licenses) pushed_at:2022-06 star:0.0k fork:0.0k Extract license information from content.
+- [eclipse/dartboard](https://github.com/eclipse/dartboard) pushed_at:2020-11 star:0.1k fork:0.0k Dart Plugin for Eclipse
+- [eclipse/dash-licenses](https://github.com/eclipse/dash-licenses) pushed_at:2022-07 star:0.0k fork:0.0k Extract license information from content.
 - [eclipse/dawnsci](https://github.com/eclipse/dawnsci) pushed_at:2019-11 star:0.0k fork:0.0k Eclipse DAWNSci™ project
 - [eclipse/deeplearning4j](https://github.com/eclipse/deeplearning4j) pushed_at:2022-07 star:12.5k fork:4.9k Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation.
-- [eclipse/deeplearning4j-examples](https://github.com/eclipse/deeplearning4j-examples) pushed_at:2022-03 star:2.3k fork:1.8k Deeplearning4j Examples (DL4J, DL4J Spark, DataVec)
+- [eclipse/deeplearning4j-examples](https://github.com/eclipse/deeplearning4j-examples) pushed_at:2022-07 star:2.3k fork:1.8k Deeplearning4j Examples (DL4J, DL4J Spark, DataVec)
 - [eclipse/ditto](https://github.com/eclipse/ditto) pushed_at:2022-07 star:0.4k fork:0.1k Eclipse Ditto™: Digital Twin framework of Eclipse IoT. Some may alternatively name it digital shadow instead.
 - [eclipse/ditto-clients](https://github.com/eclipse/ditto-clients) pushed_at:2022-06 star:0.0k fork:0.0k Eclipse Ditto™: Digital Twin framework - Client SDKs for Java and JavaScript
 - [eclipse/ditto-examples](https://github.com/eclipse/ditto-examples) pushed_at:2022-06 star:0.1k fork:0.0k Eclipse Ditto™: Digital Twin framework - Examples
@@ -246,11 +245,11 @@
 - [eclipse/eclipse.jdt.ls](https://github.com/eclipse/eclipse.jdt.ls) pushed_at:2022-07 star:1.2k fork:0.3k Java language server
 - [eclipse/edje](https://github.com/eclipse/edje) pushed_at:2018-11 star:0.0k fork:0.0k Edje project (ARCHIVED)
 - [eclipse/elk](https://github.com/eclipse/elk) pushed_at:2022-07 star:0.2k fork:0.1k Eclipse Layout Kernel - Automatic layout for Java applications.
-- [eclipse/emf-query](https://github.com/eclipse/emf-query) pushed_at:2021-04 star:0.0k fork:0.0k 
+- [eclipse/emf-query](https://github.com/eclipse/emf-query) pushed_at:2022-07 star:0.0k fork:0.0k 
 - [eclipse/emf-transaction](https://github.com/eclipse/emf-transaction) pushed_at:2021-12 star:0.0k fork:0.0k EMF Transaction provides transactional semantics for (local) EMF model changes
-- [eclipse/emf-validation](https://github.com/eclipse/emf-validation) pushed_at:2022-05 star:0.0k fork:0.0k EMF Validation extends the core validation support of EMF itself with constraint definitions, customizable model traversal algorithms, constraint parsing for languages, configurable application-specific validation contexts, and validation listeners.
+- [eclipse/emf-validation](https://github.com/eclipse/emf-validation) pushed_at:2022-07 star:0.0k fork:0.0k EMF Validation extends the core validation support of EMF itself with constraint definitions, customizable model traversal algorithms, constraint parsing for languages, configurable application-specific validation contexts, and validation listeners.
 - [eclipse/emf.egf](https://github.com/eclipse/emf.egf) pushed_at:2021-10 star:0.0k fork:0.0k 
-- [eclipse/gef](https://github.com/eclipse/gef) pushed_at:2022-06 star:0.1k fork:0.1k Eclipse GEF™
+- [eclipse/gef](https://github.com/eclipse/gef) pushed_at:2022-07 star:0.1k fork:0.1k Eclipse GEF™
 - [eclipse/gef-classic](https://github.com/eclipse/gef-classic) pushed_at:2022-07 star:0.0k fork:0.0k Eclipse GEF(tm) Classic code
 - [eclipse/gemini.blueprint](https://github.com/eclipse/gemini.blueprint) pushed_at:2018-08 star:0.0k fork:0.0k 
 - [eclipse/gemoc-studio-execution-ale](https://github.com/eclipse/gemoc-studio-execution-ale) pushed_at:2022-07 star:0.0k fork:0.0k Gemoc studio execution ale
@@ -274,7 +273,7 @@
 - [eclipse/jetty.alpn.api](https://github.com/eclipse/jetty.alpn.api) pushed_at:2016-07 star:0.0k fork:0.0k Eclipse Jetty® ALPN API - See https://github.com/jetty-project/jetty-alpn for the implementation
 - [eclipse/jetty.project](https://github.com/eclipse/jetty.project) pushed_at:2022-07 star:3.4k fork:1.8k Eclipse Jetty® - Web Container & Clients - supports HTTP/2, HTTP/1.1, HTTP/1.0, websocket, servlets, and more
 - [eclipse/jetty.toolchain](https://github.com/eclipse/jetty.toolchain) pushed_at:2022-07 star:0.0k fork:0.0k Eclipse Jetty® - Servlet Engine and Http Server project repository (jetty.toolchain)
-- [eclipse/jifa](https://github.com/eclipse/jifa) pushed_at:2022-06 star:0.3k fork:0.0k Eclipse Jifa
+- [eclipse/jifa](https://github.com/eclipse/jifa) pushed_at:2022-07 star:0.3k fork:0.0k Eclipse Jifa
 - [eclipse/jkube](https://github.com/eclipse/jkube) pushed_at:2022-07 star:0.4k fork:0.2k Successor of the deprecated Fabric8 Maven Plugin
 - [eclipse/jnosql](https://github.com/eclipse/jnosql) pushed_at:2022-07 star:0.2k fork:0.0k Eclipse JNoSQL is a framework which has the goal to help Java developers to create Jakarta EE applications with NoSQL.
 - [eclipse/jnosql-aphrodite](https://github.com/eclipse/jnosql-aphrodite) pushed_at:2019-02 star:0.0k fork:0.0k Eclipse JNoSQL Aphrodite is the project that contains the syntax query to JNoSQL API.
@@ -311,7 +310,7 @@
 - [eclipse/lsp4j](https://github.com/eclipse/lsp4j) pushed_at:2022-07 star:0.4k fork:0.1k A Java implementation of the language server protocol intended to be consumed by tools and language servers implemented in Java.
 - [eclipse/lsp4jakarta](https://github.com/eclipse/lsp4jakarta) pushed_at:2022-05 star:0.0k fork:0.0k Language Server for Jakarta EE
 - [eclipse/lsp4mp](https://github.com/eclipse/lsp4mp) pushed_at:2022-07 star:0.0k fork:0.0k Technology lsp4mp
-- [eclipse/lyo](https://github.com/eclipse/lyo) pushed_at:2022-06 star:0.0k fork:0.0k Lyo Project
+- [eclipse/lyo](https://github.com/eclipse/lyo) pushed_at:2022-07 star:0.0k fork:0.0k Lyo Project
 - [eclipse/lyo.adapter-magicdraw](https://github.com/eclipse/lyo.adapter-magicdraw) pushed_at:2018-05 star:0.0k fork:0.0k lyo.adapter-magicdraw
 - [eclipse/lyo.adapter-simulink](https://github.com/eclipse/lyo.adapter-simulink) pushed_at:2018-05 star:0.0k fork:0.0k lyo.adapter-simulink
 - [eclipse/lyo.client](https://github.com/eclipse/lyo.client) pushed_at:2021-05 star:0.0k fork:0.0k Lyo project repository (lyo.client)
@@ -327,7 +326,7 @@
 - [eclipse/lyo.trs-server](https://github.com/eclipse/lyo.trs-server) pushed_at:2021-08 star:0.0k fork:0.0k 
 - [eclipse/lyo.validation](https://github.com/eclipse/lyo.validation) pushed_at:2021-09 star:0.0k fork:0.0k lyo validation
 - [eclipse/microprofile](https://github.com/eclipse/microprofile) pushed_at:2022-06 star:0.6k fork:0.1k Repository for important documentation - the index to the project / community
-- [eclipse/microprofile-conference](https://github.com/eclipse/microprofile-conference) pushed_at:2022-06 star:0.1k fork:0.1k Microprofile.io Demo Code - Web Services Conference Application
+- [eclipse/microprofile-conference](https://github.com/eclipse/microprofile-conference) pushed_at:2022-07 star:0.1k fork:0.1k Microprofile.io Demo Code - Web Services Conference Application
 - [eclipse/microprofile-config](https://github.com/eclipse/microprofile-config) pushed_at:2022-06 star:0.2k fork:0.1k MicroProfile Configuration Feature
 - [eclipse/microprofile-context-propagation](https://github.com/eclipse/microprofile-context-propagation) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [eclipse/microprofile-fault-tolerance](https://github.com/eclipse/microprofile-fault-tolerance) pushed_at:2021-12 star:0.1k fork:0.1k microprofile fault tolerance
@@ -356,7 +355,7 @@
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) pushed_at:2022-07 star:0.7k fork:0.1k An open-source registry for VS Code extensions
 - [eclipse/org.aspectj](https://github.com/eclipse/org.aspectj) pushed_at:2022-07 star:0.1k fork:0.1k 
 - [eclipse/org.eclipse.emf.diffmerge.coevolution](https://github.com/eclipse/org.eclipse.emf.diffmerge.coevolution) pushed_at:2022-05 star:0.0k fork:0.0k 
-- [eclipse/org.eclipse.emf.diffmerge.core](https://github.com/eclipse/org.eclipse.emf.diffmerge.core) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [eclipse/org.eclipse.emf.diffmerge.core](https://github.com/eclipse/org.eclipse.emf.diffmerge.core) pushed_at:2022-07 star:0.0k fork:0.0k 
 - [eclipse/org.eclipse.emf.diffmerge.patch](https://github.com/eclipse/org.eclipse.emf.diffmerge.patch) pushed_at:2021-08 star:0.0k fork:0.0k DEPRECATED/ARCHIVED
 - [eclipse/org.eclipse.emf.diffmerge.patterns](https://github.com/eclipse/org.eclipse.emf.diffmerge.patterns) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [eclipse/org.eclipse.rap.incubator.e4.compatibility.workbench](https://github.com/eclipse/org.eclipse.rap.incubator.e4.compatibility.workbench) pushed_at:2021-06 star:0.0k fork:0.0k rap incubator e4 compatibility workbench
@@ -429,7 +428,6 @@
 - [eclipse/org.eclipse.sensinact.studio](https://github.com/eclipse/org.eclipse.sensinact.studio) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [eclipse/org.eclipse.sensinact.studioweb](https://github.com/eclipse/org.eclipse.sensinact.studioweb) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [eclipse/orion.client](https://github.com/eclipse/orion.client) pushed_at:2022-07 star:0.2k fork:0.1k The Orion Client, "Your IDE in the Cloud"
-- [eclipse/packages](https://github.com/eclipse/packages) pushed_at:2022-07 star:0.0k fork:0.0k IoT Packages project
 - [eclipse/paho.mqtt.javascript](https://github.com/eclipse/paho.mqtt.javascript) pushed_at:2020-09 star:1.0k fork:0.5k paho.mqtt.javascript
 - [eclipse/ponte](https://github.com/eclipse/ponte) pushed_at:2018-09 star:0.4k fork:0.1k Ponte Project
 - [eclipse/streamsheets](https://github.com/eclipse/streamsheets) pushed_at:2022-01 star:0.4k fork:0.1k An open-source tool for processing stream data using a spreadsheet-like interface.
@@ -443,6 +441,7 @@
 
 ## Makefile
 
+- [eclipse/adore](https://github.com/eclipse/adore) pushed_at:2022-07 star:0.0k fork:0.0k Adore project
 - [eclipse/titan.misc](https://github.com/eclipse/titan.misc) pushed_at:2021-04 star:0.0k fork:0.0k Titan project
 
 ## Others
@@ -456,7 +455,7 @@
 - [eclipse/capella-gitadapter](https://github.com/eclipse/capella-gitadapter) pushed_at:2020-01 star:0.0k fork:0.0k 
 - [eclipse/chariott](https://github.com/eclipse/chariott) pushed_at:2022-06 star:0.0k fork:0.0k chariott
 - [eclipse/che-theia-emacs-plugin](https://github.com/eclipse/che-theia-emacs-plugin) pushed_at:2018-09 star:0.0k fork:0.0k 
-- [eclipse/che-theia-samples](https://github.com/eclipse/che-theia-samples) pushed_at:2022-04 star:0.0k fork:0.0k 
+- [eclipse/che-theia-samples](https://github.com/eclipse/che-theia-samples) pushed_at:2022-07 star:0.0k fork:0.0k 
 - [eclipse/che-theia-ssh-plugin](https://github.com/eclipse/che-theia-ssh-plugin) pushed_at:2019-02 star:0.0k fork:0.0k che-theia-ssh-plugin
 - [eclipse/che-theia-vi-plugin](https://github.com/eclipse/che-theia-vi-plugin) pushed_at:2018-09 star:0.0k fork:0.0k 
 - [eclipse/che4z](https://github.com/eclipse/che4z) pushed_at:2019-07 star:0.0k fork:0.0k Che che4z
@@ -503,7 +502,7 @@
 - [eclipse/titan.TestPorts.SUNRPCasp-](https://github.com/eclipse/titan.TestPorts.SUNRPCasp-) pushed_at:2015-07 star:0.0k fork:0.0k Titan TestPorts SUNRPCasp 
 - [eclipse/tm](https://github.com/eclipse/tm) pushed_at:2013-03 star:0.0k fork:0.0k Target Management
 - [eclipse/www.eclipse.org-collections](https://github.com/eclipse/www.eclipse.org-collections) pushed_at:2016-01 star:0.0k fork:0.0k Collections project Website
-- [eclipse/xtext](https://github.com/eclipse/xtext) pushed_at:2022-05 star:0.6k fork:0.3k Eclipse Xtext™ is a language development framework 
+- [eclipse/xtext](https://github.com/eclipse/xtext) pushed_at:2022-07 star:0.6k fork:0.3k Eclipse Xtext™ is a language development framework 
 - [eclipse/xtext-gradle](https://github.com/eclipse/xtext-gradle) pushed_at:2016-05 star:0.0k fork:0.0k xtext-gradle
 - [eclipse/xtext-idea](https://github.com/eclipse/xtext-idea) pushed_at:2019-05 star:0.0k fork:0.0k xtext-idea
 
@@ -524,7 +523,7 @@
 - [eclipse/iottestware.fuzzing](https://github.com/eclipse/iottestware.fuzzing) pushed_at:2022-03 star:0.0k fork:0.0k 
 - [eclipse/kiso-testing](https://github.com/eclipse/kiso-testing) pushed_at:2022-07 star:0.0k fork:0.0k 
 - [eclipse/kiso-testing-python-uds](https://github.com/eclipse/kiso-testing-python-uds) pushed_at:2022-06 star:0.0k fork:0.0k kiso-testing-python-uds
-- [eclipse/kuksa.val.feeders](https://github.com/eclipse/kuksa.val.feeders) pushed_at:2022-06 star:0.0k fork:0.0k kuksa.val.feeders
+- [eclipse/kuksa.val.feeders](https://github.com/eclipse/kuksa.val.feeders) pushed_at:2022-07 star:0.0k fork:0.0k kuksa.val.feeders
 - [eclipse/paho.mqtt.python](https://github.com/eclipse/paho.mqtt.python) pushed_at:2022-06 star:1.7k fork:0.6k paho.mqtt.python
 - [eclipse/paho.mqtt.testing](https://github.com/eclipse/paho.mqtt.testing) pushed_at:2022-02 star:0.1k fork:0.1k An Eclipse Paho project - a Python broker for testing
 - [eclipse/unide.python](https://github.com/eclipse/unide.python) pushed_at:2018-05 star:0.0k fork:0.0k 
@@ -535,7 +534,7 @@
 
 ## Rust
 
-- [eclipse/paho.mqtt.rust](https://github.com/eclipse/paho.mqtt.rust) pushed_at:2022-06 star:0.3k fork:0.1k paho.mqtt.rust
+- [eclipse/paho.mqtt.rust](https://github.com/eclipse/paho.mqtt.rust) pushed_at:2022-06 star:0.4k fork:0.1k paho.mqtt.rust
 
 ## Shell
 
@@ -545,19 +544,20 @@
 - [eclipse/codewind-docs](https://github.com/eclipse/codewind-docs) pushed_at:2021-07 star:0.0k fork:0.0k Codewind project documentation
 - [eclipse/codewind-odo-extension](https://github.com/eclipse/codewind-odo-extension) pushed_at:2020-08 star:0.0k fork:0.0k Extension to Codewind providing support for OpenShift projects
 - [eclipse/codewind-wiki](https://github.com/eclipse/codewind-wiki) pushed_at:2020-01 star:0.0k fork:0.0k Codewind wiki
-- [eclipse/jetty.docker](https://github.com/eclipse/jetty.docker) pushed_at:2022-06 star:0.0k fork:0.0k jetty docker
+- [eclipse/jetty.docker](https://github.com/eclipse/jetty.docker) pushed_at:2022-07 star:0.0k fork:0.0k jetty docker
 - [eclipse/xtext-umbrella](https://github.com/eclipse/xtext-umbrella) pushed_at:2022-07 star:0.0k fork:0.0k 
 
 ## Smarty
 
+- [eclipse/packages](https://github.com/eclipse/packages) pushed_at:2022-07 star:0.0k fork:0.0k IoT Packages project
 - [eclipse/titan.ProtocolModules.DIAMETER_ProtocolModule_Generator](https://github.com/eclipse/titan.ProtocolModules.DIAMETER_ProtocolModule_Generator) pushed_at:2021-04 star:0.0k fork:0.0k 
 
 ## TypeScript
 
 - [eclipse/che](https://github.com/eclipse/che) pushed_at:2022-07 star:6.7k fork:1.2k The Kubernetes-Native IDE for Developer Teams
 - [eclipse/che-che4z](https://github.com/eclipse/che-che4z) pushed_at:2022-06 star:0.0k fork:0.0k Che Che4z
-- [eclipse/che-che4z-explorer-for-endevor](https://github.com/eclipse/che-che4z-explorer-for-endevor) pushed_at:2022-05 star:0.0k fork:0.0k 
-- [eclipse/che-che4z-zos-resource-explorer](https://github.com/eclipse/che-che4z-zos-resource-explorer) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [eclipse/che-che4z-explorer-for-endevor](https://github.com/eclipse/che-che4z-explorer-for-endevor) pushed_at:2022-07 star:0.0k fork:0.0k 
+- [eclipse/che-che4z-zos-resource-explorer](https://github.com/eclipse/che-che4z-zos-resource-explorer) pushed_at:2022-07 star:0.0k fork:0.0k 
 - [eclipse/che-theia-activity-tracker](https://github.com/eclipse/che-theia-activity-tracker) pushed_at:2019-03 star:0.0k fork:0.0k che-theia-activity-tracker
 - [eclipse/che-theia-dashboard-extension](https://github.com/eclipse/che-theia-dashboard-extension) pushed_at:2019-03 star:0.0k fork:0.0k 
 - [eclipse/che-theia-env-variables-plugin](https://github.com/eclipse/che-theia-env-variables-plugin) pushed_at:2018-05 star:0.0k fork:0.0k 
@@ -571,13 +571,13 @@
 - [eclipse/codewind-filewatchers](https://github.com/eclipse/codewind-filewatchers) pushed_at:2022-06 star:0.0k fork:0.0k File change notification clients that recursively monitor project directories and notify the Codewind server of file changes
 - [eclipse/codewind-node-profiler](https://github.com/eclipse/codewind-node-profiler) pushed_at:2020-07 star:0.0k fork:0.0k Provides automatic code highlighting of 'hot' node.js methods
 - [eclipse/codewind-openapi-vscode](https://github.com/eclipse/codewind-openapi-vscode) pushed_at:2022-05 star:0.0k fork:0.0k Extension for using OpenAPI Tools in VS Code
-- [eclipse/codewind-vscode](https://github.com/eclipse/codewind-vscode) pushed_at:2022-06 star:0.0k fork:0.0k Extension for developing cloud-native, containerized applications from VS Code
+- [eclipse/codewind-vscode](https://github.com/eclipse/codewind-vscode) pushed_at:2022-07 star:0.0k fork:0.0k Extension for developing cloud-native, containerized applications from VS Code
 - [eclipse/kiso-testing-vscode](https://github.com/eclipse/kiso-testing-vscode) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [eclipse/lyo.oslc-ui](https://github.com/eclipse/lyo.oslc-ui) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [eclipse/sprotty](https://github.com/eclipse/sprotty) pushed_at:2022-07 star:0.4k fork:0.1k A diagramming framework for the web
 - [eclipse/sprotty-layout](https://github.com/eclipse/sprotty-layout) pushed_at:2021-11 star:0.0k fork:0.0k Client-side automatic layout for the Sprotty diagramming framework
 - [eclipse/sprotty-theia](https://github.com/eclipse/sprotty-theia) pushed_at:2022-06 star:0.0k fork:0.0k Integration of Sprotty diagrams into Theia IDE
-- [eclipse/sprotty-vscode](https://github.com/eclipse/sprotty-vscode) pushed_at:2022-06 star:0.0k fork:0.0k sprotty-vscode
+- [eclipse/sprotty-vscode](https://github.com/eclipse/sprotty-vscode) pushed_at:2022-07 star:0.0k fork:0.0k sprotty-vscode
 - [eclipse/theia-generator-plugin](https://github.com/eclipse/theia-generator-plugin) pushed_at:2022-04 star:0.0k fork:0.0k 
 - [eclipse/theia-plugin-packager](https://github.com/eclipse/theia-plugin-packager) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [eclipse/theia-yeoman-plugin](https://github.com/eclipse/theia-yeoman-plugin) pushed_at:2022-04 star:0.0k fork:0.0k 
@@ -586,7 +586,7 @@
 
 ## Vue
 
-- [eclipse/unide](https://github.com/eclipse/unide) pushed_at:2022-02 star:0.0k fork:0.0k 
+- [eclipse/unide](https://github.com/eclipse/unide) pushed_at:2022-07 star:0.0k fork:0.0k 
 
 ## Xtend
 
