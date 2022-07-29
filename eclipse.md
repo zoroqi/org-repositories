@@ -63,7 +63,7 @@
 
 ## C++
 
-- [eclipse/che-che4z-lsp-for-hlasm](https://github.com/eclipse/che-che4z-lsp-for-hlasm) pushed_at:2022-06 star:0.0k fork:0.0k LSP server that adds support for the High Level Assembler (HLASM) language to IDEs
+- [eclipse/che-che4z-lsp-for-hlasm](https://github.com/eclipse/che-che4z-lsp-for-hlasm) pushed_at:2022-07 star:0.0k fork:0.0k LSP server that adds support for the High Level Assembler (HLASM) language to IDEs
 - [eclipse/cloe](https://github.com/eclipse/cloe) pushed_at:2022-07 star:0.0k fork:0.0k Cloe
 - [eclipse/iottestware.mqtt](https://github.com/eclipse/iottestware.mqtt) pushed_at:2021-01 star:0.0k fork:0.0k iottestware.mqtt
 - [eclipse/keyple-card-calypso-cpp-lib](https://github.com/eclipse/keyple-card-calypso-cpp-lib) pushed_at:2022-07 star:0.0k fork:0.0k keyple-card-calypso-cpp-lib
@@ -163,7 +163,7 @@
 - [eclipse/codewind-installer](https://github.com/eclipse/codewind-installer) pushed_at:2021-11 star:0.0k fork:0.0k The installation package for installing Codewind into an editor
 - [eclipse/codewind-operator](https://github.com/eclipse/codewind-operator) pushed_at:2020-08 star:0.0k fork:0.0k Codewind operator
 - [eclipse/ditto-clients-golang](https://github.com/eclipse/ditto-clients-golang) pushed_at:2022-04 star:0.0k fork:0.0k Eclipse Ditto™: Digital Twin framework - Client SDK for Golang
-- [eclipse/paho.golang](https://github.com/eclipse/paho.golang) pushed_at:2022-06 star:0.2k fork:0.0k Go libraries
+- [eclipse/paho.golang](https://github.com/eclipse/paho.golang) pushed_at:2022-07 star:0.2k fork:0.0k Go libraries
 - [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) pushed_at:2022-06 star:2.0k fork:0.5k 
 
 ## Groovy
@@ -183,7 +183,7 @@
 - [eclipse/keyple-website](https://github.com/eclipse/keyple-website) pushed_at:2022-07 star:0.0k fork:0.0k Eclipse Keyple™ Project: https://keyple.org/ website
 - [eclipse/kuksa.hardware](https://github.com/eclipse/kuksa.hardware) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [eclipse/lyo.testsuite](https://github.com/eclipse/lyo.testsuite) pushed_at:2022-02 star:0.0k fork:0.0k Lyo project repository (lyo.testsuite)
-- [eclipse/mosaic.website](https://github.com/eclipse/mosaic.website) pushed_at:2022-05 star:0.0k fork:0.0k 
+- [eclipse/mosaic.website](https://github.com/eclipse/mosaic.website) pushed_at:2022-07 star:0.0k fork:0.0k 
 - [eclipse/n4js-tutorials](https://github.com/eclipse/n4js-tutorials) pushed_at:2022-07 star:0.0k fork:0.0k n4js-tutorials
 - [eclipse/orion](https://github.com/eclipse/orion) pushed_at:2019-10 star:0.0k fork:0.0k The Eclipse Orion Website, "Your IDE in the Cloud"
 - [eclipse/rdf4j-doc](https://github.com/eclipse/rdf4j-doc) pushed_at:2020-07 star:0.0k fork:0.0k RDF4J Documentation
@@ -212,7 +212,7 @@
 - [eclipse/capella-requirements-vp](https://github.com/eclipse/capella-requirements-vp) pushed_at:2022-07 star:0.0k fork:0.0k This add-on allows importing a set of requirements from a ReqIF file
 - [eclipse/capella-sss-transition](https://github.com/eclipse/capella-sss-transition) pushed_at:2022-07 star:0.0k fork:0.0k System to Sub System transition add-on enables automated and iterative transition between system and subsystems. 
 - [eclipse/capella-studio](https://github.com/eclipse/capella-studio) pushed_at:2022-07 star:0.0k fork:0.0k Open source SDK to develop Capella add-ons
-- [eclipse/capella-textual-editor](https://github.com/eclipse/capella-textual-editor) pushed_at:2021-06 star:0.0k fork:0.0k This addon allows to edit Capella Scenario within a textual editor
+- [eclipse/capella-textual-editor](https://github.com/eclipse/capella-textual-editor) pushed_at:2022-07 star:0.0k fork:0.0k This addon allows to edit Capella Scenario within a textual editor
 - [eclipse/capella-tools](https://github.com/eclipse/capella-tools) pushed_at:2021-11 star:0.0k fork:0.0k 
 - [eclipse/capella-vpms](https://github.com/eclipse/capella-vpms) pushed_at:2021-11 star:0.0k fork:0.0k Enrich the capabilities regarding the definition of Capella Modes & States and analyze their consistency
 - [eclipse/capella-xhtml-docgen](https://github.com/eclipse/capella-xhtml-docgen) pushed_at:2022-07 star:0.0k fork:0.0k 
@@ -232,10 +232,10 @@
 - [eclipse/dartboard](https://github.com/eclipse/dartboard) pushed_at:2020-11 star:0.1k fork:0.0k Dart Plugin for Eclipse
 - [eclipse/dash-licenses](https://github.com/eclipse/dash-licenses) pushed_at:2022-07 star:0.0k fork:0.0k Extract license information from content.
 - [eclipse/dawnsci](https://github.com/eclipse/dawnsci) pushed_at:2019-11 star:0.0k fork:0.0k Eclipse DAWNSci™ project
-- [eclipse/deeplearning4j](https://github.com/eclipse/deeplearning4j) pushed_at:2022-07 star:12.5k fork:4.9k Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation.
+- [eclipse/deeplearning4j](https://github.com/eclipse/deeplearning4j) pushed_at:2022-07 star:12.6k fork:4.9k Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learning using automatic differentiation.
 - [eclipse/deeplearning4j-examples](https://github.com/eclipse/deeplearning4j-examples) pushed_at:2022-07 star:2.3k fork:1.8k Deeplearning4j Examples (DL4J, DL4J Spark, DataVec)
 - [eclipse/ditto](https://github.com/eclipse/ditto) pushed_at:2022-07 star:0.4k fork:0.1k Eclipse Ditto™: Digital Twin framework of Eclipse IoT. Some may alternatively name it digital shadow instead.
-- [eclipse/ditto-clients](https://github.com/eclipse/ditto-clients) pushed_at:2022-06 star:0.0k fork:0.0k Eclipse Ditto™: Digital Twin framework - Client SDKs for Java and JavaScript
+- [eclipse/ditto-clients](https://github.com/eclipse/ditto-clients) pushed_at:2022-07 star:0.0k fork:0.0k Eclipse Ditto™: Digital Twin framework - Client SDKs for Java and JavaScript
 - [eclipse/ditto-examples](https://github.com/eclipse/ditto-examples) pushed_at:2022-06 star:0.1k fork:0.0k Eclipse Ditto™: Digital Twin framework - Examples
 - [eclipse/eavp](https://github.com/eclipse/eavp) pushed_at:2019-03 star:0.0k fork:0.0k Eclipse advanced visualization project
 - [eclipse/ecf](https://github.com/eclipse/ecf) pushed_at:2022-05 star:0.0k fork:0.0k ECF project repository
@@ -282,7 +282,7 @@
 - [eclipse/jnosql-mapping-extension](https://github.com/eclipse/jnosql-mapping-extension) pushed_at:2022-07 star:0.0k fork:0.0k This project contains all specialization to Eclipse JNoSQL Artemis. The specific behavior in a NoSQL database matters, that's why there are Eclipse JNoSQL Artemis specializations.
 - [eclipse/kapua](https://github.com/eclipse/kapua) pushed_at:2022-07 star:0.2k fork:0.2k 
 - [eclipse/keti](https://github.com/eclipse/keti) pushed_at:2022-06 star:0.0k fork:0.0k Eclipse Keti is a service that was designed to protect RESTfuls API using Attribute Based Access Control (ABAC).
-- [eclipse/keyple-card-calypso-java-lib](https://github.com/eclipse/keyple-card-calypso-java-lib) pushed_at:2022-05 star:0.0k fork:0.0k Eclipse Keyple™ Project: Calypso card extension API for end users
+- [eclipse/keyple-card-calypso-java-lib](https://github.com/eclipse/keyple-card-calypso-java-lib) pushed_at:2022-07 star:0.0k fork:0.0k Eclipse Keyple™ Project: Calypso card extension API for end users
 - [eclipse/keyple-card-generic-java-lib](https://github.com/eclipse/keyple-card-generic-java-lib) pushed_at:2022-05 star:0.0k fork:0.0k Eclipse Keyple™ Project: add-on library to operate generic smartcard solution (based on the Calypso Terminal Card API) / for end users
 - [eclipse/keyple-common-java-api](https://github.com/eclipse/keyple-common-java-api) pushed_at:2022-01 star:0.0k fork:0.0k Eclipse Keyple™ Project: common API for all modules
 - [eclipse/keyple-distributed-local-java-api](https://github.com/eclipse/keyple-distributed-local-java-api) pushed_at:2021-10 star:0.0k fork:0.0k Eclipse Keyple™ Project: API for distributed local service developers
@@ -290,17 +290,17 @@
 - [eclipse/keyple-distributed-network-java-lib](https://github.com/eclipse/keyple-distributed-network-java-lib) pushed_at:2021-10 star:0.0k fork:0.0k Eclipse Keyple™ Project: distributed network API for end users
 - [eclipse/keyple-distributed-remote-java-api](https://github.com/eclipse/keyple-distributed-remote-java-api) pushed_at:2022-05 star:0.0k fork:0.0k Eclipse Keyple™ Project: API for distributed remote plugin developers
 - [eclipse/keyple-distributed-remote-java-lib](https://github.com/eclipse/keyple-distributed-remote-java-lib) pushed_at:2021-10 star:0.0k fork:0.0k Eclipse Keyple™ Project: distributed remote plugin API for end users
-- [eclipse/keyple-integration-java-test](https://github.com/eclipse/keyple-integration-java-test) pushed_at:2022-05 star:0.0k fork:0.0k Eclipse Keyple™ Project: java integration tests / internal to the project
+- [eclipse/keyple-integration-java-test](https://github.com/eclipse/keyple-integration-java-test) pushed_at:2022-07 star:0.0k fork:0.0k Eclipse Keyple™ Project: java integration tests / internal to the project
 - [eclipse/keyple-java](https://github.com/eclipse/keyple-java) pushed_at:2021-01 star:0.0k fork:0.0k 'DEPRECATED' Eclipse Keyple™ Project: deprecated repository embedding all components of the Java implementation until version 1.0.0
 - [eclipse/keyple-java-example](https://github.com/eclipse/keyple-java-example) pushed_at:2022-07 star:0.0k fork:0.0k Eclipse Keyple™ Project: use case examples of the Keyple Java components for end users
 - [eclipse/keyple-plugin-java-api](https://github.com/eclipse/keyple-plugin-java-api) pushed_at:2022-05 star:0.0k fork:0.0k Eclipse Keyple™ Project - Java implementation: API for plugin developers
-- [eclipse/keyple-plugin-pcsc-java-lib](https://github.com/eclipse/keyple-plugin-pcsc-java-lib) pushed_at:2022-05 star:0.0k fork:0.0k Eclipse Keyple™ Project: PC/SC plugin API for end users
+- [eclipse/keyple-plugin-pcsc-java-lib](https://github.com/eclipse/keyple-plugin-pcsc-java-lib) pushed_at:2022-07 star:0.0k fork:0.0k Eclipse Keyple™ Project: PC/SC plugin API for end users
 - [eclipse/keyple-plugin-stub-java-lib](https://github.com/eclipse/keyple-plugin-stub-java-lib) pushed_at:2022-06 star:0.0k fork:0.0k Eclipse Keyple™ Project: stub plugin API for end users
 - [eclipse/keyple-service-java-lib](https://github.com/eclipse/keyple-service-java-lib) pushed_at:2022-07 star:0.0k fork:0.0k Eclipse Keyple™ Project - Java implementation: main service API for end users
-- [eclipse/keyple-service-resource-java-lib](https://github.com/eclipse/keyple-service-resource-java-lib) pushed_at:2022-06 star:0.0k fork:0.0k Eclipse Keyple™ Project: add-on library to define a profile-based card resource allocation mechanism
+- [eclipse/keyple-service-resource-java-lib](https://github.com/eclipse/keyple-service-resource-java-lib) pushed_at:2022-07 star:0.0k fork:0.0k Eclipse Keyple™ Project: add-on library to define a profile-based card resource allocation mechanism
 - [eclipse/keyple-util-java-lib](https://github.com/eclipse/keyple-util-java-lib) pushed_at:2022-05 star:0.0k fork:0.0k Eclipse Keyple™ Project: utility library for all users
 - [eclipse/kitalpha](https://github.com/eclipse/kitalpha) pushed_at:2022-07 star:0.0k fork:0.0k 
-- [eclipse/kitalpha-addons](https://github.com/eclipse/kitalpha-addons) pushed_at:2022-03 star:0.0k fork:0.0k 
+- [eclipse/kitalpha-addons](https://github.com/eclipse/kitalpha-addons) pushed_at:2022-07 star:0.0k fork:0.0k 
 - [eclipse/kuksa.ide](https://github.com/eclipse/kuksa.ide) pushed_at:2020-01 star:0.0k fork:0.0k Kuksa IDE repo
 - [eclipse/kura](https://github.com/eclipse/kura) pushed_at:2022-07 star:0.4k fork:0.3k Eclipse Kura™ project - http://eclipse.org/kura
 - [eclipse/lemminx](https://github.com/eclipse/lemminx) pushed_at:2022-07 star:0.2k fork:0.1k XML Language Server
@@ -403,7 +403,7 @@
 - [eclipse/wildwebdeveloper](https://github.com/eclipse/wildwebdeveloper) pushed_at:2022-07 star:0.2k fork:0.1k Simple and productive Web Development Tools in the Eclipse IDE
 - [eclipse/windowbuilder](https://github.com/eclipse/windowbuilder) pushed_at:2022-07 star:0.0k fork:0.0k Windowbuilder
 - [eclipse/winery](https://github.com/eclipse/winery) pushed_at:2022-07 star:0.0k fork:0.1k Eclipse Winery project
-- [eclipse/Xpect](https://github.com/eclipse/Xpect) pushed_at:2022-04 star:0.0k fork:0.0k This repository has been rewritten to move to the Eclipse Foundation. Find the old history here: https://github.com/TypeFox/Xpect
+- [eclipse/Xpect](https://github.com/eclipse/Xpect) pushed_at:2022-07 star:0.0k fork:0.0k This repository has been rewritten to move to the Eclipse Foundation. Find the old history here: https://github.com/TypeFox/Xpect
 - [eclipse/xsemantics](https://github.com/eclipse/xsemantics) pushed_at:2022-06 star:0.0k fork:0.0k Xsemantics is a DSL (implemented in Xtext itself) for writing type systems, reduction rules, interpreters (and in general relation rules) for languages implemented in Xtext. It then generates Java code that can be used in your language implemented in Xtext for scoping and validation (it can also generate a validator in Java).
 - [eclipse/xtext-core](https://github.com/eclipse/xtext-core) pushed_at:2022-07 star:0.1k fork:0.1k xtext-core
 - [eclipse/xtext-eclipse](https://github.com/eclipse/xtext-eclipse) pushed_at:2022-07 star:0.0k fork:0.1k xtext-eclipse
@@ -502,7 +502,7 @@
 - [eclipse/titan.TestPorts.SUNRPCasp-](https://github.com/eclipse/titan.TestPorts.SUNRPCasp-) pushed_at:2015-07 star:0.0k fork:0.0k Titan TestPorts SUNRPCasp 
 - [eclipse/tm](https://github.com/eclipse/tm) pushed_at:2013-03 star:0.0k fork:0.0k Target Management
 - [eclipse/www.eclipse.org-collections](https://github.com/eclipse/www.eclipse.org-collections) pushed_at:2016-01 star:0.0k fork:0.0k Collections project Website
-- [eclipse/xtext](https://github.com/eclipse/xtext) pushed_at:2022-07 star:0.6k fork:0.3k Eclipse Xtext™ is a language development framework 
+- [eclipse/xtext](https://github.com/eclipse/xtext) pushed_at:2022-07 star:0.7k fork:0.3k Eclipse Xtext™ is a language development framework 
 - [eclipse/xtext-gradle](https://github.com/eclipse/xtext-gradle) pushed_at:2016-05 star:0.0k fork:0.0k xtext-gradle
 - [eclipse/xtext-idea](https://github.com/eclipse/xtext-idea) pushed_at:2019-05 star:0.0k fork:0.0k xtext-idea
 

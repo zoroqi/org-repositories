@@ -32,12 +32,12 @@
 - [Makefile](#makefile) (3)
 - [Objective-C](#objective-c) (9)
 - [Objective-C++](#objective-c++) (1)
-- [Others](#others) (278)
+- [Others](#others) (279)
 - [PHP](#php) (8)
 - [Perl](#perl) (7)
 - [PowerShell](#powershell) (1)
 - [Puppet](#puppet) (4)
-- [Python](#python) (107)
+- [Python](#python) (106)
 - [Ruby](#ruby) (11)
 - [Rust](#rust) (11)
 - [SCSS](#scss) (8)
@@ -71,7 +71,7 @@
 - [apache/apr](https://github.com/apache/apr) pushed_at:2022-07 star:0.4k fork:0.2k Mirror of Apache Portable Runtime
 - [apache/apr-iconv](https://github.com/apache/apr-iconv) pushed_at:2019-01 star:0.0k fork:0.0k Mirror of Apache Portable Runtime iconv
 - [apache/apreq](https://github.com/apache/apreq) pushed_at:2018-12 star:0.0k fork:0.0k Mirror of Apache HTTP Request Library
-- [apache/arrow-nanoarrow](https://github.com/apache/arrow-nanoarrow) pushed_at:2022-07 star:0.0k fork:0.0k Apache arrow
+- [apache/arrow-nanoarrow](https://github.com/apache/arrow-nanoarrow) pushed_at:2022-07 star:0.0k fork:0.0k Helpers for Arrow C Data & Arrow C Stream interfaces
 - [apache/axis-axis2-c-core](https://github.com/apache/axis-axis2-c-core) pushed_at:2020-09 star:0.0k fork:0.0k Apache Axis2-C
 - [apache/axis-axis2-c-rampart](https://github.com/apache/axis-axis2-c-rampart) pushed_at:2020-04 star:0.0k fork:0.0k Apache Axis2-C Rampart
 - [apache/axis-axis2-c-sandesha](https://github.com/apache/axis-axis2-c-sandesha) pushed_at:2020-04 star:0.0k fork:0.0k Apache Axis2-C Sandesha
@@ -121,7 +121,7 @@
 
 ## C#
 
-- [apache/activemq-nms-amqp](https://github.com/apache/activemq-nms-amqp) pushed_at:2022-04 star:0.0k fork:0.0k Mirror of Apache ActiveMQ NMS.AMQP Client
+- [apache/activemq-nms-amqp](https://github.com/apache/activemq-nms-amqp) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache ActiveMQ NMS.AMQP Client
 - [apache/activemq-nms-api](https://github.com/apache/activemq-nms-api) pushed_at:2022-05 star:0.0k fork:0.0k Mirror of Apache ActiveMQ NMS API
 - [apache/activemq-nms-ems](https://github.com/apache/activemq-nms-ems) pushed_at:2021-04 star:0.0k fork:0.0k Mirror of Apache ActiveMQ NMS.EMS Client Library
 - [apache/activemq-nms-msmq](https://github.com/apache/activemq-nms-msmq) pushed_at:2021-04 star:0.0k fork:0.0k Mirror of Apache ActiveMQ NMS.MSMQ Client Library
@@ -134,7 +134,7 @@
 - [apache/cordova-wp8](https://github.com/apache/cordova-wp8) pushed_at:2019-04 star:0.1k fork:0.1k [DEPRECATED] Apache Cordova WP8
 - [apache/geode-dotnet-core-client](https://github.com/apache/geode-dotnet-core-client) pushed_at:2021-07 star:0.0k fork:0.0k Apache Geode .NET Core Client
 - [apache/incubator-milagro-mfa-sdk-wp](https://github.com/apache/incubator-milagro-mfa-sdk-wp) pushed_at:2017-04 star:0.0k fork:0.0k [DEPRECATED] - Apache Milagro MFA SDK WP Incubator
-- [apache/logging-log4net](https://github.com/apache/logging-log4net) pushed_at:2022-06 star:0.7k fork:0.3k Mirror of This is the Apache log4net logging project git repository.
+- [apache/logging-log4net](https://github.com/apache/logging-log4net) pushed_at:2022-07 star:0.7k fork:0.3k Mirror of This is the Apache log4net logging project git repository.
 - [apache/lucenenet](https://github.com/apache/lucenenet) pushed_at:2022-06 star:1.8k fork:0.6k Apache Lucene.NET
 - [apache/manifoldcf-integration-sharepoint-2007](https://github.com/apache/manifoldcf-integration-sharepoint-2007) pushed_at:2018-12 star:0.0k fork:0.0k Mirror of Apache ManifoldCF Sharepoint 2007 Integration
 - [apache/manifoldcf-integration-sharepoint-2010](https://github.com/apache/manifoldcf-integration-sharepoint-2010) pushed_at:2018-12 star:0.0k fork:0.0k Mirror of Apache ManifoldCF Sharepoint 2010 Integration
@@ -142,7 +142,7 @@
 - [apache/manifoldcf-integration-sharepoint-2016](https://github.com/apache/manifoldcf-integration-sharepoint-2016) pushed_at:2018-03 star:0.0k fork:0.0k Mirror of git.apache.org/manifoldcf-integration-sharepoint-2016.git
 - [apache/npanday](https://github.com/apache/npanday) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache NPanday
 - [apache/npanday-its](https://github.com/apache/npanday-its) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache NPanday ITs
-- [apache/openwhisk-runtime-dotnet](https://github.com/apache/openwhisk-runtime-dotnet) pushed_at:2022-06 star:0.0k fork:0.0k Apache OpenWhisk Runtime .Net supports Apache OpenWhisk functions written in .Net languages
+- [apache/openwhisk-runtime-dotnet](https://github.com/apache/openwhisk-runtime-dotnet) pushed_at:2022-07 star:0.0k fork:0.0k Apache OpenWhisk Runtime .Net supports Apache OpenWhisk functions written in .Net languages
 - [apache/pulsar-dotpulsar](https://github.com/apache/pulsar-dotpulsar) pushed_at:2022-07 star:0.2k fork:0.0k The official .NET client library for Apache Pulsar
 - [apache/qpid-proton-dotnet](https://github.com/apache/qpid-proton-dotnet) pushed_at:2022-07 star:0.0k fork:0.0k Apache qpid
 - [apache/rocketmq-client-csharp](https://github.com/apache/rocketmq-client-csharp) pushed_at:2022-06 star:0.0k fork:0.0k Apache rocketmq
@@ -162,7 +162,7 @@
 - [apache/couchdb-jiffy](https://github.com/apache/couchdb-jiffy) pushed_at:2022-05 star:0.0k fork:0.0k Mirror of Apache CouchDB
 - [apache/couchdb-snappy](https://github.com/apache/couchdb-snappy) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache CouchDB
 - [apache/datasketches-cpp](https://github.com/apache/datasketches-cpp) pushed_at:2022-07 star:0.1k fork:0.1k Core C++ Sketch Library
-- [apache/doris](https://github.com/apache/doris) pushed_at:2022-07 star:4.9k fork:1.5k Apache Doris is an MPP-based interactive SQL data warehousing for reporting and analysis.
+- [apache/doris](https://github.com/apache/doris) pushed_at:2022-07 star:5.0k fork:1.6k Apache Doris is an MPP-based interactive SQL data warehousing for reporting and analysis.
 - [apache/geode-native](https://github.com/apache/geode-native) pushed_at:2022-07 star:0.0k fork:0.1k Apache Geode Native
 - [apache/harmony-drlvm](https://github.com/apache/harmony-drlvm) pushed_at:2010-03 star:0.0k fork:0.0k Mirror of Apache Harmony DRLVM
 - [apache/hbase-native-client](https://github.com/apache/hbase-native-client) pushed_at:2022-02 star:0.0k fork:0.0k Apache HBase Native Client
@@ -178,7 +178,7 @@
 - [apache/incubator-pagespeed-icu](https://github.com/apache/incubator-pagespeed-icu) pushed_at:2017-05 star:0.0k fork:0.0k ICU modified to work with PageSpeed
 - [apache/incubator-pagespeed-mod](https://github.com/apache/incubator-pagespeed-mod) pushed_at:2021-11 star:0.7k fork:0.2k Apache module for rewriting web pages to reduce latency and bandwidth.
 - [apache/incubator-pagespeed-ngx](https://github.com/apache/incubator-pagespeed-ngx) pushed_at:2022-06 star:4.4k fork:0.4k Automatic PageSpeed optimization module for Nginx
-- [apache/incubator-pegasus](https://github.com/apache/incubator-pegasus) pushed_at:2022-07 star:1.5k fork:0.3k Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store
+- [apache/incubator-pegasus](https://github.com/apache/incubator-pegasus) pushed_at:2022-07 star:1.6k fork:0.3k Apache Pegasus - A horizontally scalable, strongly consistent and high-performance key-value store
 - [apache/incubator-retired-concerted](https://github.com/apache/incubator-retired-concerted) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Concerted (Incubating)
 - [apache/incubator-retired-quickstep](https://github.com/apache/incubator-retired-quickstep) pushed_at:2018-12 star:0.1k fork:0.1k Apache Quickstep Incubator - This project is retired
 - [apache/incubator-weex](https://github.com/apache/incubator-weex) pushed_at:2021-05 star:13.9k fork:1.9k Apache Weex (Incubating)
@@ -199,7 +199,7 @@
 - [apache/santuario-cpp](https://github.com/apache/santuario-cpp) pushed_at:2022-01 star:0.0k fork:0.0k Mirror of Apache Santuario C++
 - [apache/singa](https://github.com/apache/singa) pushed_at:2022-06 star:2.6k fork:0.8k a distributed deep learning platform
 - [apache/stdcxx](https://github.com/apache/stdcxx) pushed_at:2018-12 star:0.1k fork:0.0k Mirror of Apache C++ Standard Library
-- [apache/thrift](https://github.com/apache/thrift) pushed_at:2022-07 star:9.2k fork:3.9k Apache Thrift
+- [apache/thrift](https://github.com/apache/thrift) pushed_at:2022-07 star:9.3k fork:3.9k Apache Thrift
 - [apache/trafficserver](https://github.com/apache/trafficserver) pushed_at:2022-07 star:1.5k fork:0.7k Apache Traffic Server™ is a fast, scalable and extensible HTTP/1.1 and HTTP/2 compliant caching proxy server.
 - [apache/trafodion](https://github.com/apache/trafodion) pushed_at:2021-06 star:0.2k fork:0.2k Apache Trafodion
 - [apache/tuscany-sca-cpp](https://github.com/apache/tuscany-sca-cpp) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Tuscany SCA C++
@@ -238,11 +238,11 @@
 - [apache/log4j-receivers](https://github.com/apache/log4j-receivers) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache log4j receivers
 - [apache/lucene-site](https://github.com/apache/lucene-site) pushed_at:2022-07 star:0.0k fork:0.0k Apache Lucene and Solr web site
 - [apache/maven-default-skin](https://github.com/apache/maven-default-skin) pushed_at:2022-02 star:0.0k fork:0.0k Apache Maven Default Skin
-- [apache/maven-doxia-site](https://github.com/apache/maven-doxia-site) pushed_at:2022-04 star:0.0k fork:0.0k Apache Maven Doxia site
+- [apache/maven-doxia-site](https://github.com/apache/maven-doxia-site) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Doxia site
 - [apache/maven-fluido-skin](https://github.com/apache/maven-fluido-skin) pushed_at:2022-06 star:0.0k fork:0.0k Apache Maven Fluido Skin
 - [apache/maven-site](https://github.com/apache/maven-site) pushed_at:2022-07 star:0.1k fork:0.2k Apache Maven site
 - [apache/maven-skins](https://github.com/apache/maven-skins) pushed_at:2018-01 star:0.0k fork:0.0k Mirror of Apache Maven skins
-- [apache/opennlp-site](https://github.com/apache/opennlp-site) pushed_at:2022-06 star:0.0k fork:0.0k Website sources for the Apache OpenNLP website
+- [apache/opennlp-site](https://github.com/apache/opennlp-site) pushed_at:2022-07 star:0.0k fork:0.0k Website sources for the Apache OpenNLP website
 - [apache/openoffice-mwiki](https://github.com/apache/openoffice-mwiki) pushed_at:2021-02 star:0.0k fork:0.0k Apache OpenOffice MediaWiki
 - [apache/servicemix-website](https://github.com/apache/servicemix-website) pushed_at:2020-09 star:0.0k fork:0.0k Mirror of Apache ServiceMix website
 - [apache/servicemix5](https://github.com/apache/servicemix5) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache ServiceMix 5
@@ -256,7 +256,7 @@
 
 ## Dockerfile
 
-- [apache/accumulo-docker](https://github.com/apache/accumulo-docker) pushed_at:2021-06 star:0.0k fork:0.0k Apache Accumulo Docker
+- [apache/accumulo-docker](https://github.com/apache/accumulo-docker) pushed_at:2022-07 star:0.0k fork:0.0k Apache Accumulo Docker
 - [apache/airflow-ci](https://github.com/apache/airflow-ci) pushed_at:2019-06 star:0.0k fork:0.0k Apache Airflow CI pipeline
 - [apache/apisix-docker](https://github.com/apache/apisix-docker) pushed_at:2022-07 star:0.4k fork:0.3k the docker for Apache APISIX
 - [apache/apisix-ingress-docker](https://github.com/apache/apisix-ingress-docker) pushed_at:2022-01 star:0.0k fork:0.0k the docker for Apache APISIX ingress controller
@@ -339,14 +339,14 @@
 - [apache/airflow-pgbouncer-exporter](https://github.com/apache/airflow-pgbouncer-exporter) pushed_at:2021-09 star:0.0k fork:0.0k Apache airflow
 - [apache/apisix-control-plane](https://github.com/apache/apisix-control-plane) pushed_at:2021-04 star:0.0k fork:0.0k The Control-Plane for APISIX
 - [apache/apisix-dashboard](https://github.com/apache/apisix-dashboard) pushed_at:2022-07 star:0.6k fork:0.3k Dashboard for Apache APISIX
-- [apache/apisix-go-plugin-runner](https://github.com/apache/apisix-go-plugin-runner) pushed_at:2022-06 star:0.1k fork:0.0k Go Plugin Runner for APISIX
+- [apache/apisix-go-plugin-runner](https://github.com/apache/apisix-go-plugin-runner) pushed_at:2022-07 star:0.1k fork:0.0k Go Plugin Runner for APISIX
 - [apache/apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller) pushed_at:2022-07 star:0.5k fork:0.2k APISIX Ingress Controller for Kubernetes
 - [apache/beam-starter-go](https://github.com/apache/beam-starter-go) pushed_at:2022-07 star:0.0k fork:0.0k Apache Beam starter repo for Go
 - [apache/brooklyn-client](https://github.com/apache/brooklyn-client) pushed_at:2022-04 star:0.0k fork:0.0k Apache Brooklyn Client
 - [apache/calcite-avatica-go](https://github.com/apache/calcite-avatica-go) pushed_at:2022-05 star:0.1k fork:0.0k Mirror of Apache Calcite - Avatica Go SQL Driver
 - [apache/camel-k](https://github.com/apache/camel-k) pushed_at:2022-07 star:0.7k fork:0.3k Apache Camel K is a lightweight integration platform, born on Kubernetes, with serverless superpowers
 - [apache/cloudstack-cloudmonkey](https://github.com/apache/cloudstack-cloudmonkey) pushed_at:2022-05 star:0.1k fork:0.1k Apache Cloudstack Cloudmonkey
-- [apache/cloudstack-go](https://github.com/apache/cloudstack-go) pushed_at:2022-06 star:0.0k fork:0.0k CloudStack Go SDK
+- [apache/cloudstack-go](https://github.com/apache/cloudstack-go) pushed_at:2022-07 star:0.0k fork:0.0k CloudStack Go SDK
 - [apache/cloudstack-kubernetes-provider](https://github.com/apache/cloudstack-kubernetes-provider) pushed_at:2022-07 star:0.0k fork:0.0k Apache Cloudstack Kubernetes Provider
 - [apache/cloudstack-terraform-provider](https://github.com/apache/cloudstack-terraform-provider) pushed_at:2022-07 star:0.0k fork:0.0k CloudStack Terraform Provider
 - [apache/dolphinscheduler-operator](https://github.com/apache/dolphinscheduler-operator) pushed_at:2022-07 star:0.0k fork:0.0k Apache dolphinscheduler
@@ -371,7 +371,7 @@
 - [apache/pulsar-client-go](https://github.com/apache/pulsar-client-go) pushed_at:2022-07 star:0.5k fork:0.2k Apache Pulsar Go Client Library
 - [apache/rocketmq-client-go](https://github.com/apache/rocketmq-client-go) pushed_at:2022-07 star:0.9k fork:0.3k Apache RocketMQ go client
 - [apache/rocketmq-operator](https://github.com/apache/rocketmq-operator) pushed_at:2022-07 star:0.2k fork:0.1k Apache RocketMQ Operator
-- [apache/servicecomb-kie](https://github.com/apache/servicecomb-kie) pushed_at:2022-05 star:0.5k fork:0.1k Apache ServiceComb MetaConfig
+- [apache/servicecomb-kie](https://github.com/apache/servicecomb-kie) pushed_at:2022-07 star:0.5k fork:0.1k Apache ServiceComb MetaConfig
 - [apache/servicecomb-mesher](https://github.com/apache/servicecomb-mesher) pushed_at:2022-06 star:0.7k fork:0.1k A high performance service mesh implementation written in go
 - [apache/servicecomb-service-center](https://github.com/apache/servicecomb-service-center) pushed_at:2022-07 star:1.3k fork:0.3k A standalone service center to allow services to register their instance information and to discover providers of a given service
 - [apache/shenyu-client-golang](https://github.com/apache/shenyu-client-golang) pushed_at:2022-07 star:0.0k fork:0.0k Apache ShenYu Client SDK for golang.
@@ -380,13 +380,13 @@
 - [apache/skywalking-eyes](https://github.com/apache/skywalking-eyes) pushed_at:2022-07 star:0.1k fork:0.0k A full-featured license tool to check and fix license headers and resolve dependencies' licenses.
 - [apache/skywalking-infra-e2e](https://github.com/apache/skywalking-infra-e2e) pushed_at:2022-07 star:0.0k fork:0.0k Apache SkyWalking Infra E2E
 - [apache/skywalking-kubernetes-event-exporter](https://github.com/apache/skywalking-kubernetes-event-exporter) pushed_at:2022-07 star:0.0k fork:0.0k Export Kubernetes events to Apache SkyWalking OAP.
-- [apache/skywalking-rover](https://github.com/apache/skywalking-rover) pushed_at:2022-07 star:0.0k fork:0.0k Metrics collector and ebpf-based profiler for C, C++, Golang, and Rust
+- [apache/skywalking-rover](https://github.com/apache/skywalking-rover) pushed_at:2022-07 star:0.1k fork:0.0k Metrics collector and ebpf-based profiler for C, C++, Golang, and Rust
 - [apache/skywalking-satellite](https://github.com/apache/skywalking-satellite) pushed_at:2022-07 star:0.1k fork:0.0k The Sidecar Project of Apache SkyWalking
 - [apache/skywalking-swck](https://github.com/apache/skywalking-swck) pushed_at:2022-07 star:0.1k fork:0.0k Apache SkyWalking Cloud on Kubernetes
 - [apache/solr-operator](https://github.com/apache/solr-operator) pushed_at:2022-07 star:0.2k fork:0.1k Kubernetes Operator for Apache Solr
 - [apache/trafficcontrol](https://github.com/apache/trafficcontrol) pushed_at:2022-07 star:0.8k fork:0.3k Apache Traffic Control is an Open Source implementation of a Content Delivery Network
 - [apache/trafficserver-ingress-controller](https://github.com/apache/trafficserver-ingress-controller) pushed_at:2022-07 star:0.0k fork:0.0k Apache Traffic Server Ingress Controller for Kubernetes
-- [apache/yunikorn-core](https://github.com/apache/yunikorn-core) pushed_at:2022-07 star:0.5k fork:0.1k Apache YuniKorn Core
+- [apache/yunikorn-core](https://github.com/apache/yunikorn-core) pushed_at:2022-07 star:0.6k fork:0.1k Apache YuniKorn Core
 - [apache/yunikorn-k8shim](https://github.com/apache/yunikorn-k8shim) pushed_at:2022-07 star:0.1k fork:0.1k Apache YuniKorn K8shim
 - [apache/yunikorn-release](https://github.com/apache/yunikorn-release) pushed_at:2022-07 star:0.0k fork:0.0k Apache yunikorn
 
@@ -397,7 +397,7 @@
 - [apache/groovy-examples](https://github.com/apache/groovy-examples) pushed_at:2021-01 star:0.0k fork:0.0k Apache Groovy Examples
 - [apache/groovy-release](https://github.com/apache/groovy-release) pushed_at:2022-06 star:0.0k fork:0.0k Apache Groovy release process scripts
 - [apache/groovy-user-site](https://github.com/apache/groovy-user-site) pushed_at:2019-09 star:0.0k fork:0.0k Apache Groovy user documentation
-- [apache/groovy-website](https://github.com/apache/groovy-website) pushed_at:2022-06 star:0.0k fork:0.1k Apache Groovy content to generate sites
+- [apache/groovy-website](https://github.com/apache/groovy-website) pushed_at:2022-07 star:0.0k fork:0.1k Apache Groovy content to generate sites
 - [apache/jackrabbit-filevault-jenkins-lib](https://github.com/apache/jackrabbit-filevault-jenkins-lib) pushed_at:2022-07 star:0.0k fork:0.0k Apache Jackrabbit FileVault Jenkins Shared LIbrary
 - [apache/logging-pipelines](https://github.com/apache/logging-pipelines) pushed_at:2022-05 star:0.0k fork:0.0k Apache Logging Services Jenkins pipelines and shared libraries.
 - [apache/maven-jenkins-env](https://github.com/apache/maven-jenkins-env) pushed_at:2022-04 star:0.0k fork:0.0k Apache Maven Jenkins Environment
@@ -423,7 +423,7 @@
 - [apache/airavata-site](https://github.com/apache/airavata-site) pushed_at:2022-04 star:0.0k fork:0.0k Apache Airavata Website
 - [apache/any23](https://github.com/apache/any23) pushed_at:2022-06 star:0.1k fork:0.1k Apache Anything To Triples (Any23) is a library, a web service and a command line tool that extracts structured data in RDF format from a variety of Web documents.
 - [apache/apache.github.io](https://github.com/apache/apache.github.io) pushed_at:2019-11 star:0.0k fork:0.0k Top Level Github Pages for the Apache Software Foundation
-- [apache/archiva-web-content](https://github.com/apache/archiva-web-content) pushed_at:2022-05 star:0.0k fork:0.0k Apache Archiva web site content used with gitpubsub
+- [apache/archiva-web-content](https://github.com/apache/archiva-web-content) pushed_at:2022-07 star:0.0k fork:0.0k Apache Archiva web site content used with gitpubsub
 - [apache/aries-antora-site](https://github.com/apache/aries-antora-site) pushed_at:2022-04 star:0.0k fork:0.0k Apache aries Antora website main content
 - [apache/aries-antora-ui](https://github.com/apache/aries-antora-ui) pushed_at:2020-08 star:0.0k fork:0.0k Apache aries Antora website UI project
 - [apache/aries-site](https://github.com/apache/aries-site) pushed_at:2019-07 star:0.0k fork:0.0k Apache aries website
@@ -448,7 +448,7 @@
 - [apache/comdev-projects](https://github.com/apache/comdev-projects) pushed_at:2019-08 star:0.0k fork:0.0k Apache Comdev - Projects
 - [apache/comdev-site](https://github.com/apache/comdev-site) pushed_at:2022-06 star:0.1k fork:0.1k Website sources for the Apache Community Development Website
 - [apache/cordova-plugin-test-framework](https://github.com/apache/cordova-plugin-test-framework) pushed_at:2022-07 star:0.1k fork:0.0k Apache Cordova
-- [apache/couchdb-www](https://github.com/apache/couchdb-www) pushed_at:2022-05 star:0.0k fork:0.0k Mirror of Apache CouchDB Web Site
+- [apache/couchdb-www](https://github.com/apache/couchdb-www) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache CouchDB Web Site
 - [apache/creadur-site](https://github.com/apache/creadur-site) pushed_at:2022-06 star:0.0k fork:0.0k Apache Creadur website
 - [apache/ctakes-site](https://github.com/apache/ctakes-site) pushed_at:2021-06 star:0.0k fork:0.0k Apache CTakes Website
 - [apache/daffodil-site](https://github.com/apache/daffodil-site) pushed_at:2022-06 star:0.0k fork:0.0k Apache Daffodil Website
@@ -474,7 +474,7 @@
 - [apache/geronimo-website](https://github.com/apache/geronimo-website) pushed_at:2021-03 star:0.0k fork:0.0k Mirror of Apache Geronimo Website
 - [apache/gobblin-site](https://github.com/apache/gobblin-site) pushed_at:2022-02 star:0.0k fork:0.0k Apache Gobblin (Incubating)
 - [apache/gora-site](https://github.com/apache/gora-site) pushed_at:2021-06 star:0.0k fork:0.0k Apache Gora Website
-- [apache/groovy-dev-site](https://github.com/apache/groovy-dev-site) pushed_at:2022-06 star:0.0k fork:0.0k Apache Groovy developer documentation and project site
+- [apache/groovy-dev-site](https://github.com/apache/groovy-dev-site) pushed_at:2022-07 star:0.0k fork:0.0k Apache Groovy developer documentation and project site
 - [apache/hawq-docs](https://github.com/apache/hawq-docs) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache HAWQ Documentation
 - [apache/httpd-site](https://github.com/apache/httpd-site) pushed_at:2022-06 star:0.0k fork:0.0k Apache httpd Website
 - [apache/incubator-crail-website](https://github.com/apache/incubator-crail-website) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache crail website (Incubating)
@@ -533,7 +533,7 @@
 - [apache/olingo-site](https://github.com/apache/olingo-site) pushed_at:2022-06 star:0.0k fork:0.0k Apache Olingo Website
 - [apache/openmeetings-site](https://github.com/apache/openmeetings-site) pushed_at:2022-05 star:0.0k fork:0.0k Mirror of Apache openmeetings
 - [apache/openoffice-org](https://github.com/apache/openoffice-org) pushed_at:2022-07 star:0.0k fork:0.0k OpenOffice.org Website
-- [apache/openoffice-project](https://github.com/apache/openoffice-project) pushed_at:2022-05 star:0.0k fork:0.0k Apache OpenOffice Project Website
+- [apache/openoffice-project](https://github.com/apache/openoffice-project) pushed_at:2022-07 star:0.0k fork:0.0k Apache OpenOffice Project Website
 - [apache/openwebbeans-site](https://github.com/apache/openwebbeans-site) pushed_at:2022-02 star:0.0k fork:0.0k Apache Openwebbeans Website
 - [apache/openwhisk-selfserve-test](https://github.com/apache/openwhisk-selfserve-test) pushed_at:2017-06 star:0.0k fork:0.0k [DEPRECATED] - Apache openwhisk
 - [apache/openwhisk-slackinvite](https://github.com/apache/openwhisk-slackinvite) pushed_at:2021-05 star:0.0k fork:0.0k Invite for Apache OpenWhisk Team on Slack
@@ -541,7 +541,7 @@
 - [apache/orc](https://github.com/apache/orc) pushed_at:2022-07 star:0.5k fork:0.4k Apache ORC - the smallest, fastest columnar storage for Hadoop workloads
 - [apache/ozone-site](https://github.com/apache/ozone-site) pushed_at:2022-06 star:0.0k fork:0.0k Website for Apache Ozone
 - [apache/parquet-site](https://github.com/apache/parquet-site) pushed_at:2022-07 star:0.0k fork:0.0k Website for Apache Parquet
-- [apache/pdfbox-docs](https://github.com/apache/pdfbox-docs) pushed_at:2022-06 star:0.0k fork:0.0k Mirror of Apache PDFBox Docs
+- [apache/pdfbox-docs](https://github.com/apache/pdfbox-docs) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache PDFBox Docs
 - [apache/petri](https://github.com/apache/petri) pushed_at:2022-04 star:0.0k fork:0.0k Apache Petri
 - [apache/phoenix-omid-site](https://github.com/apache/phoenix-omid-site) pushed_at:2020-11 star:0.0k fork:0.0k Apache Omid Site (Incubating)
 - [apache/photark](https://github.com/apache/photark) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache Photark (incubating)
@@ -699,9 +699,9 @@
 - [apache/camel-quarkus](https://github.com/apache/camel-quarkus) pushed_at:2022-07 star:0.2k fork:0.1k Apache Camel Quarkus support
 - [apache/camel-quarkus-examples](https://github.com/apache/camel-quarkus-examples) pushed_at:2022-07 star:0.0k fork:0.1k Apache Camel Quarkus Examples
 - [apache/camel-spring-boot](https://github.com/apache/camel-spring-boot) pushed_at:2022-07 star:0.1k fork:0.1k Apache Camel Spring Boot support
-- [apache/camel-spring-boot-examples](https://github.com/apache/camel-spring-boot-examples) pushed_at:2022-07 star:0.1k fork:0.2k Apache Camel Spring Boot Examples
+- [apache/camel-spring-boot-examples](https://github.com/apache/camel-spring-boot-examples) pushed_at:2022-07 star:0.2k fork:0.2k Apache Camel Spring Boot Examples
 - [apache/cassandra](https://github.com/apache/cassandra) pushed_at:2022-07 star:7.4k fork:3.2k Mirror of Apache Cassandra
-- [apache/cassandra-accord](https://github.com/apache/cassandra-accord) pushed_at:2022-06 star:0.0k fork:0.0k Accord Distributed Consensus Protocol for Apache Cassandra
+- [apache/cassandra-accord](https://github.com/apache/cassandra-accord) pushed_at:2022-07 star:0.0k fork:0.0k Accord Distributed Consensus Protocol for Apache Cassandra
 - [apache/cassandra-diff](https://github.com/apache/cassandra-diff) pushed_at:2022-07 star:0.0k fork:0.0k Apache cassandra diff
 - [apache/cassandra-harry](https://github.com/apache/cassandra-harry) pushed_at:2022-05 star:0.0k fork:0.0k Apache Cassandra - Harry
 - [apache/cassandra-in-jvm-dtest-api](https://github.com/apache/cassandra-in-jvm-dtest-api) pushed_at:2022-04 star:0.0k fork:0.0k Apache Cassandra in-JVM DTest API
@@ -803,11 +803,11 @@
 - [apache/directory-fortress-enmasse](https://github.com/apache/directory-fortress-enmasse) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache Directory Fortress Enmasse
 - [apache/directory-fortress-realm](https://github.com/apache/directory-fortress-realm) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache Directory Fortress Realm
 - [apache/directory-kerby](https://github.com/apache/directory-kerby) pushed_at:2022-06 star:0.1k fork:0.1k Mirror of Apache Directory Kerby
-- [apache/directory-ldap-api](https://github.com/apache/directory-ldap-api) pushed_at:2022-06 star:0.0k fork:0.0k Apache Directory LDAP API
+- [apache/directory-ldap-api](https://github.com/apache/directory-ldap-api) pushed_at:2022-07 star:0.0k fork:0.0k Apache Directory LDAP API
 - [apache/directory-mavibot](https://github.com/apache/directory-mavibot) pushed_at:2021-08 star:0.0k fork:0.0k Apache Directory Mavibot
 - [apache/directory-samples](https://github.com/apache/directory-samples) pushed_at:2017-11 star:0.0k fork:0.0k Apache Directory Samples
 - [apache/directory-scimple](https://github.com/apache/directory-scimple) pushed_at:2022-07 star:0.0k fork:0.0k Apache Directory - SCIMple
-- [apache/directory-server](https://github.com/apache/directory-server) pushed_at:2022-06 star:0.1k fork:0.1k Apache Directory Server
+- [apache/directory-server](https://github.com/apache/directory-server) pushed_at:2022-07 star:0.1k fork:0.1k Apache Directory Server
 - [apache/directory-studio](https://github.com/apache/directory-studio) pushed_at:2022-07 star:0.1k fork:0.0k Apache Directory Studio
 - [apache/distributedlog](https://github.com/apache/distributedlog) pushed_at:2022-07 star:0.2k fork:0.1k Apache DistributedLog
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) pushed_at:2022-07 star:8.3k fork:3.2k Apache DolphinScheduler is a distributed and extensible workflow scheduler platform with powerful DAG visual interfaces, dedicated to solving complex job dependencies in the data pipeline and providing various types of jobs available out of box.
@@ -817,7 +817,7 @@
 - [apache/doris-spark-connector](https://github.com/apache/doris-spark-connector) pushed_at:2022-07 star:0.0k fork:0.0k Spark Connector for Apache Doris
 - [apache/drill](https://github.com/apache/drill) pushed_at:2022-07 star:1.7k fork:0.9k Apache Drill is a distributed MPP query layer for self describing data
 - [apache/druid](https://github.com/apache/druid) pushed_at:2022-07 star:11.9k fork:3.3k Apache Druid: a high performance real-time analytics database.
-- [apache/dubbo](https://github.com/apache/dubbo) pushed_at:2022-07 star:37.6k fork:25.2k Apache Dubbo is a high-performance, java based, open source RPC framework.
+- [apache/dubbo](https://github.com/apache/dubbo) pushed_at:2022-07 star:37.7k fork:25.2k Apache Dubbo is a high-performance, java based, open source RPC framework.
 - [apache/dubbo-admin](https://github.com/apache/dubbo-admin) pushed_at:2022-07 star:3.6k fork:2.0k The ops and reference implementation for Apache Dubbo
 - [apache/dubbo-async-processor](https://github.com/apache/dubbo-async-processor) pushed_at:2018-12 star:0.0k fork:0.0k Source processor Dubbo interface.
 - [apache/dubbo-benchmark](https://github.com/apache/dubbo-benchmark) pushed_at:2022-06 star:0.0k fork:0.0k 
@@ -826,10 +826,10 @@
 - [apache/dubbo-kubernetes](https://github.com/apache/dubbo-kubernetes) pushed_at:2022-06 star:0.1k fork:0.0k Apache Dubbo integration with k8s
 - [apache/dubbo-proxy](https://github.com/apache/dubbo-proxy) pushed_at:2021-02 star:0.3k fork:0.1k Apache dubbo
 - [apache/dubbo-rpc-jsonrpc](https://github.com/apache/dubbo-rpc-jsonrpc) pushed_at:2022-07 star:0.2k fork:0.1k The Json rpc module of Apache Dubbo project
-- [apache/dubbo-samples](https://github.com/apache/dubbo-samples) pushed_at:2022-07 star:1.7k fork:1.3k samples for Apache Dubbo
+- [apache/dubbo-samples](https://github.com/apache/dubbo-samples) pushed_at:2022-07 star:1.7k fork:1.4k samples for Apache Dubbo
 - [apache/dubbo-sentinel-support](https://github.com/apache/dubbo-sentinel-support) pushed_at:2022-06 star:0.1k fork:0.0k Sentinel integration for Apache Dubbo
 - [apache/dubbo-serialization-gson](https://github.com/apache/dubbo-serialization-gson) pushed_at:2022-05 star:0.0k fork:0.0k Dubbo gson serialization extension
-- [apache/dubbo-spi-extensions](https://github.com/apache/dubbo-spi-extensions) pushed_at:2022-07 star:0.1k fork:0.0k Apache Dubbo SPI Extensions
+- [apache/dubbo-spi-extensions](https://github.com/apache/dubbo-spi-extensions) pushed_at:2022-07 star:0.1k fork:0.1k Apache Dubbo SPI Extensions
 - [apache/dubbo-spring-boot-project](https://github.com/apache/dubbo-spring-boot-project) pushed_at:2021-08 star:5.3k fork:1.9k Spring Boot Project for Apache Dubbo
 - [apache/eagle](https://github.com/apache/eagle) pushed_at:2020-08 star:0.4k fork:0.2k Mirror of Apache Eagle
 - [apache/empire-db](https://github.com/apache/empire-db) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache Empire-db
@@ -877,7 +877,7 @@
 - [apache/flink-benchmarks](https://github.com/apache/flink-benchmarks) pushed_at:2022-07 star:0.1k fork:0.0k Benchmarks for Apache Flink
 - [apache/flink-connector-elasticsearch](https://github.com/apache/flink-connector-elasticsearch) pushed_at:2022-07 star:0.0k fork:0.0k Apache Flink connector for ElasticSearch
 - [apache/flink-kubernetes-operator](https://github.com/apache/flink-kubernetes-operator) pushed_at:2022-07 star:0.2k fork:0.1k Apache Flink Kubernetes Operator
-- [apache/flink-ml](https://github.com/apache/flink-ml) pushed_at:2022-07 star:0.1k fork:0.0k Machine learning library of Apache Flink
+- [apache/flink-ml](https://github.com/apache/flink-ml) pushed_at:2022-07 star:0.2k fork:0.1k Machine learning library of Apache Flink
 - [apache/flink-playgrounds](https://github.com/apache/flink-playgrounds) pushed_at:2022-05 star:0.3k fork:0.2k Apache Flink Playgrounds
 - [apache/flink-statefun](https://github.com/apache/flink-statefun) pushed_at:2022-07 star:0.4k fork:0.2k Apache Flink Stateful Functions
 - [apache/flink-statefun-playground](https://github.com/apache/flink-statefun-playground) pushed_at:2022-07 star:0.1k fork:0.0k Apache Flink Stateful Functions Playground
@@ -898,7 +898,7 @@
 - [apache/geode-examples](https://github.com/apache/geode-examples) pushed_at:2022-06 star:0.1k fork:0.1k Apache Geode Examples
 - [apache/geode-kafka-connector](https://github.com/apache/geode-kafka-connector) pushed_at:2022-07 star:0.0k fork:0.0k Kafka connector for Apache Geode
 - [apache/geronimo](https://github.com/apache/geronimo) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache Geronimo
-- [apache/geronimo-arthur](https://github.com/apache/geronimo-arthur) pushed_at:2022-06 star:0.0k fork:0.0k Apache Geronimo Arthur repository, a GraalVM helper layer
+- [apache/geronimo-arthur](https://github.com/apache/geronimo-arthur) pushed_at:2022-07 star:0.0k fork:0.0k Apache Geronimo Arthur repository, a GraalVM helper layer
 - [apache/geronimo-batchee](https://github.com/apache/geronimo-batchee) pushed_at:2022-07 star:0.0k fork:0.0k Apache Geronimo BatchEE JBatch implementation
 - [apache/geronimo-config](https://github.com/apache/geronimo-config) pushed_at:2022-02 star:0.0k fork:0.0k Apache Geronimo Config
 - [apache/geronimo-devtools](https://github.com/apache/geronimo-devtools) pushed_at:2022-06 star:0.0k fork:0.0k Mirror of Apache Geronimo Devtools
@@ -921,7 +921,7 @@
 - [apache/giraph](https://github.com/apache/giraph) pushed_at:2022-06 star:0.6k fork:0.3k Mirror of Apache Giraph
 - [apache/gobblin](https://github.com/apache/gobblin) pushed_at:2022-07 star:2.1k fork:0.7k A distributed data integration framework that simplifies common aspects of big data integration such as data ingestion, replication, organization and lifecycle management for both streaming and batch data ecosystems.
 - [apache/gora](https://github.com/apache/gora) pushed_at:2022-07 star:0.1k fork:0.1k The Apache Gora open source framework provides an in-memory data model and persistence for big data.
-- [apache/groovy](https://github.com/apache/groovy) pushed_at:2022-07 star:4.6k fork:1.7k Apache Groovy: A powerful multi-faceted programming language for the JVM platform
+- [apache/groovy](https://github.com/apache/groovy) pushed_at:2022-07 star:4.6k fork:1.8k Apache Groovy: A powerful multi-faceted programming language for the JVM platform
 - [apache/guacamole-client](https://github.com/apache/guacamole-client) pushed_at:2022-07 star:1.0k fork:0.5k Mirror of Apache Guacamole Client
 - [apache/hadoop](https://github.com/apache/hadoop) pushed_at:2022-07 star:12.8k fork:7.9k Apache Hadoop
 - [apache/hadoop-common](https://github.com/apache/hadoop-common) pushed_at:2020-03 star:0.2k fork:0.2k Mirror of Apache Hadoop common
@@ -943,7 +943,7 @@
 - [apache/httpcomponents-client](https://github.com/apache/httpcomponents-client) pushed_at:2022-07 star:1.2k fork:0.8k Mirror of Apache HttpClient
 - [apache/httpcomponents-core](https://github.com/apache/httpcomponents-core) pushed_at:2022-07 star:0.3k fork:0.3k Mirror of Apache HttpCore
 - [apache/hudi](https://github.com/apache/hudi) pushed_at:2022-07 star:3.4k fork:1.5k Upserts, Deletes And Incremental Processing on Big Data.
-- [apache/iceberg](https://github.com/apache/iceberg) pushed_at:2022-07 star:3.0k fork:1.2k Apache Iceberg
+- [apache/iceberg](https://github.com/apache/iceberg) pushed_at:2022-07 star:3.1k fork:1.2k Apache Iceberg
 - [apache/ignite](https://github.com/apache/ignite) pushed_at:2022-07 star:4.2k fork:1.8k Apache Ignite
 - [apache/ignite-3](https://github.com/apache/ignite-3) pushed_at:2022-07 star:0.1k fork:0.0k Apache Ignite 3
 - [apache/ignite-abbrev-plugin](https://github.com/apache/ignite-abbrev-plugin) pushed_at:2018-12 star:0.0k fork:0.0k Apache Ignite Abbreviations Plugin
@@ -955,7 +955,7 @@
 - [apache/incubator-brooklyn](https://github.com/apache/incubator-brooklyn) pushed_at:2022-07 star:0.1k fork:0.1k Mirror of Apache Brooklyn
 - [apache/incubator-crail](https://github.com/apache/incubator-crail) pushed_at:2022-07 star:0.1k fork:0.0k Mirror of Apache crail (Incubating)
 - [apache/incubator-datalab](https://github.com/apache/incubator-datalab) pushed_at:2022-07 star:0.1k fork:0.1k Apache DataLab (incubating)
-- [apache/incubator-eventmesh](https://github.com/apache/incubator-eventmesh) pushed_at:2022-07 star:1.0k fork:0.2k EventMesh is a dynamic event-driven application runtime used to decouple the application and backend middleware layer, which supports a wide range of use cases that encompass complex multi-cloud, widely distributed topologies using diverse technology stacks.
+- [apache/incubator-eventmesh](https://github.com/apache/incubator-eventmesh) pushed_at:2022-07 star:1.0k fork:0.3k EventMesh is a dynamic event-driven application runtime used to decouple the application and backend middleware layer, which supports a wide range of use cases that encompass complex multi-cloud, widely distributed topologies using diverse technology stacks.
 - [apache/incubator-heron](https://github.com/apache/incubator-heron) pushed_at:2022-07 star:3.6k fork:0.6k Apache Heron (Incubating) is a realtime, distributed, fault-tolerant stream processing engine from Twitter
 - [apache/incubator-hivemall](https://github.com/apache/incubator-hivemall) pushed_at:2022-04 star:0.3k fork:0.1k Mirror of Apache Hivemall (incubating)
 - [apache/incubator-hugegraph](https://github.com/apache/incubator-hugegraph) pushed_at:2022-07 star:2.0k fork:0.4k A graph database that supports more than 100+ billion data, high performance and scalability (Include OLTP Engine & REST-API & Backends)
@@ -1035,7 +1035,7 @@
 - [apache/james-mime4j](https://github.com/apache/james-mime4j) pushed_at:2022-06 star:0.0k fork:0.1k Mirror of Apache James Mime4j
 - [apache/james-postage](https://github.com/apache/james-postage) pushed_at:2021-07 star:0.0k fork:0.0k Mirror of Apache James postage
 - [apache/james-project](https://github.com/apache/james-project) pushed_at:2022-07 star:0.6k fork:0.4k Emails at the heart of your business logic!
-- [apache/jclouds](https://github.com/apache/jclouds) pushed_at:2022-06 star:0.1k fork:0.1k Mirror of Apache jclouds
+- [apache/jclouds](https://github.com/apache/jclouds) pushed_at:2022-07 star:0.1k fork:0.1k Mirror of Apache jclouds
 - [apache/jclouds-examples](https://github.com/apache/jclouds-examples) pushed_at:2022-06 star:0.0k fork:0.0k Apache jClouds Examples
 - [apache/jclouds-labs](https://github.com/apache/jclouds-labs) pushed_at:2022-03 star:0.0k fork:0.0k Apache jClouds Labs
 - [apache/jclouds-labs-aws](https://github.com/apache/jclouds-labs-aws) pushed_at:2022-03 star:0.0k fork:0.0k Apache jClouds Labs AWS
@@ -1047,10 +1047,10 @@
 - [apache/jsecurity](https://github.com/apache/jsecurity) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache JSecurity (incubating)
 - [apache/jspwiki](https://github.com/apache/jspwiki) pushed_at:2022-07 star:0.1k fork:0.1k Apache JSPWiki is a leading open source WikiWiki engine, feature-rich and built around standard JEE components (Java, servlets, JSP)
 - [apache/juddi](https://github.com/apache/juddi) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache jUDDI
-- [apache/juddi-scout](https://github.com/apache/juddi-scout) pushed_at:2019-01 star:0.0k fork:0.0k Mirror of Apache jUDDI
+- [apache/juddi-scout](https://github.com/apache/juddi-scout) pushed_at:2022-07 star:0.0k fork:0.0k Apache Juddi Scout
 - [apache/juneau](https://github.com/apache/juneau) pushed_at:2022-07 star:0.1k fork:0.0k Apache Juneau
 - [apache/juneau-petstore](https://github.com/apache/juneau-petstore) pushed_at:2022-06 star:0.0k fork:0.0k Apache Juneau
-- [apache/kafka](https://github.com/apache/kafka) pushed_at:2022-07 star:22.5k fork:11.7k Mirror of Apache Kafka
+- [apache/kafka](https://github.com/apache/kafka) pushed_at:2022-07 star:22.6k fork:11.7k Mirror of Apache Kafka
 - [apache/kalumet](https://github.com/apache/kalumet) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache Kalument (Incubating)
 - [apache/kandula](https://github.com/apache/kandula) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Kandula
 - [apache/karaf](https://github.com/apache/karaf) pushed_at:2022-07 star:0.6k fork:0.6k Mirror of Apache Karaf
@@ -1065,7 +1065,7 @@
 - [apache/karaf-webconsole](https://github.com/apache/karaf-webconsole) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache Karaf WebConsole
 - [apache/karaf-winegrower](https://github.com/apache/karaf-winegrower) pushed_at:2020-11 star:0.0k fork:0.0k Apache Winegrower
 - [apache/knox](https://github.com/apache/knox) pushed_at:2022-07 star:0.1k fork:0.2k Mirror of Apache Knox
-- [apache/kylin](https://github.com/apache/kylin) pushed_at:2022-07 star:3.3k fork:1.5k Apache Kylin
+- [apache/kylin](https://github.com/apache/kylin) pushed_at:2022-07 star:3.4k fork:1.5k Apache Kylin
 - [apache/lens](https://github.com/apache/lens) pushed_at:2019-11 star:0.1k fork:0.1k Mirror of Apache Lens
 - [apache/lenya](https://github.com/apache/lenya) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache Lenya
 - [apache/log4j-extras](https://github.com/apache/log4j-extras) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache log4j extras
@@ -1103,13 +1103,13 @@
 - [apache/maven-artifact](https://github.com/apache/maven-artifact) pushed_at:2018-12 star:0.0k fork:0.0k [deprecated] Mirror of Apache Maven artifact
 - [apache/maven-artifact-plugin](https://github.com/apache/maven-artifact-plugin) pushed_at:2022-04 star:0.0k fork:0.0k Apache Maven Artifact Plugin
 - [apache/maven-artifact-resolver](https://github.com/apache/maven-artifact-resolver) pushed_at:2019-05 star:0.0k fork:0.0k Apache Maven Artifact Resolver -- Archived
-- [apache/maven-artifact-transfer](https://github.com/apache/maven-artifact-transfer) pushed_at:2022-06 star:0.0k fork:0.0k Apache Maven Artifact Transfer
+- [apache/maven-artifact-transfer](https://github.com/apache/maven-artifact-transfer) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Artifact Transfer
 - [apache/maven-assembly-plugin](https://github.com/apache/maven-assembly-plugin) pushed_at:2022-07 star:0.1k fork:0.1k Apache Maven Assembly Plugin
 - [apache/maven-build-cache-extension](https://github.com/apache/maven-build-cache-extension) pushed_at:2022-06 star:0.0k fork:0.0k Apache Maven Build Cache Extension
 - [apache/maven-changelog-plugin](https://github.com/apache/maven-changelog-plugin) pushed_at:2022-04 star:0.0k fork:0.0k Apache Maven Changelog Plugin
 - [apache/maven-changes-plugin](https://github.com/apache/maven-changes-plugin) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Changes Plugin
 - [apache/maven-checkstyle-plugin](https://github.com/apache/maven-checkstyle-plugin) pushed_at:2022-07 star:0.1k fork:0.0k Apache Maven Checkstyle Plugin
-- [apache/maven-clean-plugin](https://github.com/apache/maven-clean-plugin) pushed_at:2022-06 star:0.0k fork:0.0k Apache Maven Clean Plugin
+- [apache/maven-clean-plugin](https://github.com/apache/maven-clean-plugin) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Clean Plugin
 - [apache/maven-common-artifact-filters](https://github.com/apache/maven-common-artifact-filters) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Common Artifact Filters
 - [apache/maven-compiler-plugin](https://github.com/apache/maven-compiler-plugin) pushed_at:2022-07 star:0.1k fork:0.1k Apache Maven Compiler Plugin
 - [apache/maven-dependency-analyzer](https://github.com/apache/maven-dependency-analyzer) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Dependency Analyzer
@@ -1124,7 +1124,7 @@
 - [apache/maven-doxia-book-renderer](https://github.com/apache/maven-doxia-book-renderer) pushed_at:2022-01 star:0.0k fork:0.0k Apache Maven Doxia Book Renderer
 - [apache/maven-doxia-converter](https://github.com/apache/maven-doxia-converter) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Doxia Converter
 - [apache/maven-doxia-ide](https://github.com/apache/maven-doxia-ide) pushed_at:2018-01 star:0.0k fork:0.0k [deprecated] Mirror of Apache Maven Doxia IDE
-- [apache/maven-doxia-sitetools](https://github.com/apache/maven-doxia-sitetools) pushed_at:2022-06 star:0.0k fork:0.0k Apache Maven Doxia Sitetools
+- [apache/maven-doxia-sitetools](https://github.com/apache/maven-doxia-sitetools) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Doxia Sitetools
 - [apache/maven-doxia-tools](https://github.com/apache/maven-doxia-tools) pushed_at:2019-12 star:0.0k fork:0.0k [deprecated] Mirror of Apache Maven Doxia tools
 - [apache/maven-ear-plugin](https://github.com/apache/maven-ear-plugin) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven EAR Plugin
 - [apache/maven-ejb-plugin](https://github.com/apache/maven-ejb-plugin) pushed_at:2022-04 star:0.0k fork:0.0k Apache Maven EJB Plugin
@@ -1136,7 +1136,7 @@
 - [apache/maven-indexer](https://github.com/apache/maven-indexer) pushed_at:2022-07 star:0.1k fork:0.1k Apache Maven Indexer
 - [apache/maven-install-plugin](https://github.com/apache/maven-install-plugin) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Install Plugin
 - [apache/maven-integration-testing](https://github.com/apache/maven-integration-testing) pushed_at:2022-07 star:0.0k fork:0.1k Apache Maven core ITs
-- [apache/maven-invoker](https://github.com/apache/maven-invoker) pushed_at:2022-06 star:0.0k fork:0.0k Apache Maven Invoker
+- [apache/maven-invoker](https://github.com/apache/maven-invoker) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Invoker
 - [apache/maven-invoker-plugin](https://github.com/apache/maven-invoker-plugin) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Invoker Plugin
 - [apache/maven-jar-plugin](https://github.com/apache/maven-jar-plugin) pushed_at:2022-07 star:0.0k fork:0.1k Apache Maven JAR Plugin
 - [apache/maven-jarsigner](https://github.com/apache/maven-jarsigner) pushed_at:2022-05 star:0.0k fork:0.0k Apache Maven Jarsigner
@@ -1146,14 +1146,14 @@
 - [apache/maven-jdeps-plugin](https://github.com/apache/maven-jdeps-plugin) pushed_at:2022-04 star:0.0k fork:0.0k Apache Maven JDeps Plugin
 - [apache/maven-jlink-plugin](https://github.com/apache/maven-jlink-plugin) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven JLink Plugin
 - [apache/maven-jmod-plugin](https://github.com/apache/maven-jmod-plugin) pushed_at:2022-05 star:0.0k fork:0.0k Apache Maven JMod Plugin
-- [apache/maven-jxr](https://github.com/apache/maven-jxr) pushed_at:2022-06 star:0.0k fork:0.0k Apache Maven JXR (Plugin)
+- [apache/maven-jxr](https://github.com/apache/maven-jxr) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven JXR (Plugin)
 - [apache/maven-linkcheck-plugin](https://github.com/apache/maven-linkcheck-plugin) pushed_at:2022-04 star:0.0k fork:0.0k Apache Maven Linkcheck Plugin
 - [apache/maven-mapping](https://github.com/apache/maven-mapping) pushed_at:2022-01 star:0.0k fork:0.0k Apache Maven Mapping
 - [apache/maven-mercury](https://github.com/apache/maven-mercury) pushed_at:2017-04 star:0.0k fork:0.0k [deprecated] Mirror of Apache Maven mercury
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) pushed_at:2022-07 star:2.0k fork:0.1k Apache Maven Daemon
 - [apache/maven-osgi](https://github.com/apache/maven-osgi) pushed_at:2019-08 star:0.0k fork:0.0k Apache Maven OSGi - This project is retired
 - [apache/maven-patch-plugin](https://github.com/apache/maven-patch-plugin) pushed_at:2022-04 star:0.0k fork:0.0k Apache Maven Patch Plugin
-- [apache/maven-pdf-plugin](https://github.com/apache/maven-pdf-plugin) pushed_at:2022-06 star:0.0k fork:0.0k Apache Maven PDF Plugin
+- [apache/maven-pdf-plugin](https://github.com/apache/maven-pdf-plugin) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven PDF Plugin
 - [apache/maven-plugin-testing](https://github.com/apache/maven-plugin-testing) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Plugin Testing
 - [apache/maven-plugin-tools](https://github.com/apache/maven-plugin-tools) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Plugin Tools
 - [apache/maven-plugins](https://github.com/apache/maven-plugins) pushed_at:2019-11 star:0.2k fork:0.3k [deprecated] Mirror of Apache Maven plugins
@@ -1176,7 +1176,7 @@
 - [apache/maven-sandbox](https://github.com/apache/maven-sandbox) pushed_at:2019-10 star:0.0k fork:0.0k [deprecated] Mirror of Apache Maven sandbox
 - [apache/maven-scm](https://github.com/apache/maven-scm) pushed_at:2022-07 star:0.1k fork:0.2k Apache Maven SCM (Plugin)
 - [apache/maven-scm-publish-plugin](https://github.com/apache/maven-scm-publish-plugin) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven SCM Publish Plugin
-- [apache/maven-script-interpreter](https://github.com/apache/maven-script-interpreter) pushed_at:2022-06 star:0.0k fork:0.0k Apache Maven Script Interpreter
+- [apache/maven-script-interpreter](https://github.com/apache/maven-script-interpreter) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Script Interpreter
 - [apache/maven-scripting-plugin](https://github.com/apache/maven-scripting-plugin) pushed_at:2022-05 star:0.0k fork:0.0k Apache Maven Scripting Plugin
 - [apache/maven-shade-plugin](https://github.com/apache/maven-shade-plugin) pushed_at:2022-07 star:0.1k fork:0.1k Apache Maven Shade Plugin
 - [apache/maven-shared](https://github.com/apache/maven-shared) pushed_at:2019-06 star:0.0k fork:0.0k [deprecated] Mirror of Apache Maven shared
@@ -1189,7 +1189,7 @@
 - [apache/maven-stage-plugin](https://github.com/apache/maven-stage-plugin) pushed_at:2022-04 star:0.0k fork:0.0k Apache Maven Stage Plugin
 - [apache/maven-surefire](https://github.com/apache/maven-surefire) pushed_at:2022-07 star:0.4k fork:0.5k Apache Maven Surefire
 - [apache/maven-toolchains-plugin](https://github.com/apache/maven-toolchains-plugin) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Toolchains Plugin
-- [apache/maven-verifier](https://github.com/apache/maven-verifier) pushed_at:2022-06 star:0.0k fork:0.0k Apache Maven Verifier
+- [apache/maven-verifier](https://github.com/apache/maven-verifier) pushed_at:2022-07 star:0.0k fork:0.0k Apache Maven Verifier
 - [apache/maven-verifier-plugin](https://github.com/apache/maven-verifier-plugin) pushed_at:2022-04 star:0.0k fork:0.0k Apache Maven Verifier Plugin
 - [apache/maven-wagon](https://github.com/apache/maven-wagon) pushed_at:2022-06 star:0.0k fork:0.1k Apache Maven Wagon
 - [apache/maven-war-plugin](https://github.com/apache/maven-war-plugin) pushed_at:2022-07 star:0.0k fork:0.1k Apache Maven WAR Plugin
@@ -1258,9 +1258,9 @@
 - [apache/pdfbox-jbig2](https://github.com/apache/pdfbox-jbig2) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache PDFBox
 - [apache/phoenix](https://github.com/apache/phoenix) pushed_at:2022-07 star:0.9k fork:1.0k Mirror of Apache Phoenix
 - [apache/phoenix-connectors](https://github.com/apache/phoenix-connectors) pushed_at:2022-06 star:0.0k fork:0.0k Apache Phoenix Connectors
-- [apache/phoenix-omid](https://github.com/apache/phoenix-omid) pushed_at:2022-06 star:0.1k fork:0.0k Mirror of Apache Omid Incubator
+- [apache/phoenix-omid](https://github.com/apache/phoenix-omid) pushed_at:2022-07 star:0.1k fork:0.0k Mirror of Apache Omid Incubator
 - [apache/phoenix-tephra](https://github.com/apache/phoenix-tephra) pushed_at:2022-06 star:0.0k fork:0.1k Mirror of Apache Tephra (Incubating)
-- [apache/pig](https://github.com/apache/pig) pushed_at:2022-05 star:0.6k fork:0.5k Mirror of Apache Pig
+- [apache/pig](https://github.com/apache/pig) pushed_at:2022-05 star:0.7k fork:0.5k Mirror of Apache Pig
 - [apache/pinot](https://github.com/apache/pinot) pushed_at:2022-07 star:4.1k fork:0.9k Apache Pinot - A realtime distributed OLAP datastore
 - [apache/pivot](https://github.com/apache/pivot) pushed_at:2019-08 star:0.0k fork:0.0k Mirror of Apache Pivot
 - [apache/plc4x](https://github.com/apache/plc4x) pushed_at:2022-07 star:0.7k fork:0.3k PLC4X The Industrial IoT adapter
@@ -1271,7 +1271,7 @@
 - [apache/portals-pluto](https://github.com/apache/portals-pluto) pushed_at:2022-05 star:0.0k fork:0.0k Mirror of Apache Pluto
 - [apache/predictionio-sdk-java](https://github.com/apache/predictionio-sdk-java) pushed_at:2018-09 star:0.1k fork:0.1k PredictionIO Java SDK
 - [apache/predictionio-template-java-ecom-recommender](https://github.com/apache/predictionio-template-java-ecom-recommender) pushed_at:2019-03 star:0.0k fork:0.0k PredictionIO E-Commerce Recommendation Engine Template (Java-based parallelized engine) 
-- [apache/pulsar](https://github.com/apache/pulsar) pushed_at:2022-07 star:11.2k fork:3.0k Apache Pulsar - distributed pub-sub messaging system
+- [apache/pulsar](https://github.com/apache/pulsar) pushed_at:2022-07 star:11.3k fork:3.0k Apache Pulsar - distributed pub-sub messaging system
 - [apache/pulsar-adapters](https://github.com/apache/pulsar-adapters) pushed_at:2022-07 star:0.0k fork:0.0k Apache Pulsar Adapters
 - [apache/pulsar-connectors](https://github.com/apache/pulsar-connectors) pushed_at:2022-06 star:0.0k fork:0.0k Apache Pulsar Connectors
 - [apache/pulsar-presto](https://github.com/apache/pulsar-presto) pushed_at:2020-11 star:0.0k fork:0.0k Apache Pulsar Presto Connector
@@ -1289,7 +1289,7 @@
 - [apache/rave](https://github.com/apache/rave) pushed_at:2018-12 star:0.0k fork:0.0k Mirror of Apache Rave
 - [apache/reef](https://github.com/apache/reef) pushed_at:2022-07 star:0.1k fork:0.1k Mirror of Apache REEF
 - [apache/river-container](https://github.com/apache/river-container) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache River
-- [apache/rocketmq](https://github.com/apache/rocketmq) pushed_at:2022-07 star:17.7k fork:9.9k Mirror of Apache RocketMQ
+- [apache/rocketmq](https://github.com/apache/rocketmq) pushed_at:2022-07 star:17.7k fork:10.0k Mirror of Apache RocketMQ
 - [apache/rocketmq-clients](https://github.com/apache/rocketmq-clients) pushed_at:2022-07 star:0.0k fork:0.0k RocketMQ Clients - Collection of Polyglot Clients for Apache RocketMQ
 - [apache/rocketmq-cloudevents](https://github.com/apache/rocketmq-cloudevents) pushed_at:2021-11 star:0.0k fork:0.0k Apache RocketMQ CloudEvents Client
 - [apache/rocketmq-connect](https://github.com/apache/rocketmq-connect) pushed_at:2022-07 star:0.0k fork:0.0k Apache rocketmq
@@ -1318,7 +1318,7 @@
 - [apache/sentry](https://github.com/apache/sentry) pushed_at:2020-07 star:0.1k fork:0.1k Mirror of Apache Sentry
 - [apache/servicecomb-fence](https://github.com/apache/servicecomb-fence) pushed_at:2020-05 star:0.4k fork:0.0k Apache servicecomb security module for java-chassis
 - [apache/servicecomb-java-chassis](https://github.com/apache/servicecomb-java-chassis) pushed_at:2022-07 star:1.8k fork:0.8k ServiceComb Java Chassis is a Software Development Kit (SDK) for rapid development of microservices in Java, providing service registration, service discovery, dynamic routing, and service management features
-- [apache/servicecomb-pack](https://github.com/apache/servicecomb-pack) pushed_at:2022-05 star:1.9k fork:0.5k Apache ServiceComb Pack is an eventually data consistency solution for micro-service applications. ServiceComb Pack currently provides TCC and Saga distributed transaction co-ordination solutions by using Alpha as a transaction coordinator and Omega as an transaction agent .
+- [apache/servicecomb-pack](https://github.com/apache/servicecomb-pack) pushed_at:2022-07 star:1.9k fork:0.5k Apache ServiceComb Pack is an eventually data consistency solution for micro-service applications. ServiceComb Pack currently provides TCC and Saga distributed transaction co-ordination solutions by using Alpha as a transaction coordinator and Omega as an transaction agent .
 - [apache/servicecomb-saga-actuator](https://github.com/apache/servicecomb-saga-actuator) pushed_at:2022-05 star:0.5k fork:0.0k Apache ServiceComb Saga Actuator
 - [apache/servicecomb-samples](https://github.com/apache/servicecomb-samples) pushed_at:2022-06 star:0.5k fork:0.1k Apache servicecomb
 - [apache/servicecomb-toolkit](https://github.com/apache/servicecomb-toolkit) pushed_at:2021-08 star:0.4k fork:0.0k Apache servicecomb
@@ -1335,7 +1335,7 @@
 - [apache/servicemix4-kernel](https://github.com/apache/servicemix4-kernel) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache Servicemix 4 kernel
 - [apache/servicemix4-nmr](https://github.com/apache/servicemix4-nmr) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache Servicemix 4 NMR
 - [apache/servicemix4-specs](https://github.com/apache/servicemix4-specs) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Servicemix 4 specs
-- [apache/shardingsphere](https://github.com/apache/shardingsphere) pushed_at:2022-07 star:16.6k fork:5.8k Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more
+- [apache/shardingsphere](https://github.com/apache/shardingsphere) pushed_at:2022-07 star:16.8k fork:5.8k Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more
 - [apache/shardingsphere-acceptance-test](https://github.com/apache/shardingsphere-acceptance-test) pushed_at:2020-08 star:0.0k fork:0.0k Apache ShardingSphere
 - [apache/shardingsphere-benchmark](https://github.com/apache/shardingsphere-benchmark) pushed_at:2022-06 star:0.0k fork:0.0k Distributed database middleware
 - [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) pushed_at:2022-07 star:7.6k fork:3.2k Distributed scheduled job framework
@@ -1348,7 +1348,7 @@
 - [apache/shindig](https://github.com/apache/shindig) pushed_at:2022-06 star:0.1k fork:0.1k Mirror of Apache Shindig (incubating)
 - [apache/shiro](https://github.com/apache/shiro) pushed_at:2022-07 star:3.9k fork:2.2k Apache Shiro
 - [apache/sis](https://github.com/apache/sis) pushed_at:2022-07 star:0.1k fork:0.0k Mirror of Apache SIS
-- [apache/skywalking](https://github.com/apache/skywalking) pushed_at:2022-07 star:19.8k fork:5.8k APM, Application Performance Monitoring System
+- [apache/skywalking](https://github.com/apache/skywalking) pushed_at:2022-07 star:19.9k fork:5.8k APM, Application Performance Monitoring System
 - [apache/skywalking-agent-test-tool](https://github.com/apache/skywalking-agent-test-tool) pushed_at:2022-04 star:0.0k fork:0.0k The integration test tool for Apache SkyWalking, including Mock OAP server and trace validator.
 - [apache/skywalking-banyandb-java-client](https://github.com/apache/skywalking-banyandb-java-client) pushed_at:2022-05 star:0.0k fork:0.0k The client implementation for SkyWalking BanyanDB in Java
 - [apache/skywalking-java](https://github.com/apache/skywalking-java) pushed_at:2022-07 star:0.3k fork:0.2k The Java agent for Apache SkyWalking
@@ -1425,7 +1425,7 @@
 - [apache/sling-org-apache-sling-datasource](https://github.com/apache/sling-org-apache-sling-datasource) pushed_at:2022-06 star:0.0k fork:0.0k Apache Sling DataSource Provider
 - [apache/sling-org-apache-sling-discovery-api](https://github.com/apache/sling-org-apache-sling-discovery-api) pushed_at:2022-06 star:0.0k fork:0.0k Apache Sling Discovery API
 - [apache/sling-org-apache-sling-discovery-base](https://github.com/apache/sling-org-apache-sling-discovery-base) pushed_at:2022-07 star:0.0k fork:0.0k Apache Sling Discovery Base
-- [apache/sling-org-apache-sling-discovery-commons](https://github.com/apache/sling-org-apache-sling-discovery-commons) pushed_at:2022-06 star:0.0k fork:0.0k Apache Sling Discovery Commons
+- [apache/sling-org-apache-sling-discovery-commons](https://github.com/apache/sling-org-apache-sling-discovery-commons) pushed_at:2022-07 star:0.0k fork:0.0k Apache Sling Discovery Commons
 - [apache/sling-org-apache-sling-discovery-impl](https://github.com/apache/sling-org-apache-sling-discovery-impl) pushed_at:2022-06 star:0.0k fork:0.0k Apache Sling Resource-Based Discovery Service
 - [apache/sling-org-apache-sling-discovery-oak](https://github.com/apache/sling-org-apache-sling-discovery-oak) pushed_at:2022-07 star:0.0k fork:0.0k Apache Sling Oak-Based Discovery Service
 - [apache/sling-org-apache-sling-discovery-standalone](https://github.com/apache/sling-org-apache-sling-discovery-standalone) pushed_at:2022-01 star:0.0k fork:0.0k Apache Sling Discovery Standalone Implementation
@@ -1455,7 +1455,7 @@
 - [apache/sling-org-apache-sling-feature-diff](https://github.com/apache/sling-org-apache-sling-feature-diff) pushed_at:2022-04 star:0.0k fork:0.0k Apache Sling Feature Model Diff Tool
 - [apache/sling-org-apache-sling-feature-extension-apiregions](https://github.com/apache/sling-org-apache-sling-feature-extension-apiregions) pushed_at:2022-07 star:0.0k fork:0.0k Apache Sling Feature Model API Regions Extension
 - [apache/sling-org-apache-sling-feature-extension-content](https://github.com/apache/sling-org-apache-sling-feature-extension-content) pushed_at:2022-05 star:0.0k fork:0.0k Apache Sling Feature Model - Content Deployment Extension
-- [apache/sling-org-apache-sling-feature-extension-unpack](https://github.com/apache/sling-org-apache-sling-feature-extension-unpack) pushed_at:2022-05 star:0.0k fork:0.0k Apache Sling Feature Model - Unpack Extension
+- [apache/sling-org-apache-sling-feature-extension-unpack](https://github.com/apache/sling-org-apache-sling-feature-extension-unpack) pushed_at:2022-07 star:0.0k fork:0.0k Apache Sling Feature Model - Unpack Extension
 - [apache/sling-org-apache-sling-feature-inventoryprinter](https://github.com/apache/sling-org-apache-sling-feature-inventoryprinter) pushed_at:2022-01 star:0.0k fork:0.0k Apache Sling Feature Model - Inventory Printer
 - [apache/sling-org-apache-sling-feature-karaf](https://github.com/apache/sling-org-apache-sling-feature-karaf) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Feature Karaf
 - [apache/sling-org-apache-sling-feature-launcher](https://github.com/apache/sling-org-apache-sling-feature-launcher) pushed_at:2022-07 star:0.0k fork:0.0k Apache Sling Feature Launcher
@@ -1522,8 +1522,8 @@
 - [apache/sling-org-apache-sling-junit-remote](https://github.com/apache/sling-org-apache-sling-junit-remote) pushed_at:2022-01 star:0.0k fork:0.0k Apache Sling JUnit Remote Tests Runners
 - [apache/sling-org-apache-sling-junit-scriptable](https://github.com/apache/sling-org-apache-sling-junit-scriptable) pushed_at:2022-01 star:0.0k fork:0.0k Apache Sling JUnit Scriptable Tests Provider
 - [apache/sling-org-apache-sling-junit-teleporter](https://github.com/apache/sling-org-apache-sling-junit-teleporter) pushed_at:2022-01 star:0.0k fork:0.0k Apache Sling JUnit Tests Teleporter
-- [apache/sling-org-apache-sling-karaf-integration-tests](https://github.com/apache/sling-org-apache-sling-karaf-integration-tests) pushed_at:2022-04 star:0.0k fork:0.0k Apache Sling - Karaf Integration Tests
-- [apache/sling-org-apache-sling-karaf-launchpad-oak-tar-integration-tests](https://github.com/apache/sling-org-apache-sling-karaf-launchpad-oak-tar-integration-tests) pushed_at:2022-04 star:0.0k fork:0.0k Apache Sling - Karaf Launchpad Integration Tests Oak Tar
+- [apache/sling-org-apache-sling-karaf-integration-tests](https://github.com/apache/sling-org-apache-sling-karaf-integration-tests) pushed_at:2022-07 star:0.0k fork:0.0k Apache Sling - Karaf Integration Tests
+- [apache/sling-org-apache-sling-karaf-launchpad-oak-tar-integration-tests](https://github.com/apache/sling-org-apache-sling-karaf-launchpad-oak-tar-integration-tests) pushed_at:2022-07 star:0.0k fork:0.0k Apache Sling - Karaf Launchpad Integration Tests Oak Tar
 - [apache/sling-org-apache-sling-kickstart](https://github.com/apache/sling-org-apache-sling-kickstart) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Kickstart Launcher
 - [apache/sling-org-apache-sling-launchpad-api](https://github.com/apache/sling-org-apache-sling-launchpad-api) pushed_at:2022-01 star:0.0k fork:0.0k Apache Sling Launchpad API
 - [apache/sling-org-apache-sling-launchpad-base](https://github.com/apache/sling-org-apache-sling-launchpad-base) pushed_at:2022-01 star:0.0k fork:0.0k Apache Sling Launchpad Base
@@ -1548,7 +1548,7 @@
 - [apache/sling-org-apache-sling-oak-restrictions](https://github.com/apache/sling-org-apache-sling-oak-restrictions) pushed_at:2022-05 star:0.0k fork:0.0k Apache Sling Oak Restrictions
 - [apache/sling-org-apache-sling-paxexam-util](https://github.com/apache/sling-org-apache-sling-paxexam-util) pushed_at:2022-01 star:0.0k fork:0.0k Apache Sling Pax Exam Utilities
 - [apache/sling-org-apache-sling-performance](https://github.com/apache/sling-org-apache-sling-performance) pushed_at:2022-07 star:0.0k fork:0.0k Apache Sling Performance Test Tools Reactor
-- [apache/sling-org-apache-sling-pipes](https://github.com/apache/sling-org-apache-sling-pipes) pushed_at:2022-05 star:0.0k fork:0.0k Apache Sling Pipes
+- [apache/sling-org-apache-sling-pipes](https://github.com/apache/sling-org-apache-sling-pipes) pushed_at:2022-07 star:0.0k fork:0.0k Apache Sling Pipes
 - [apache/sling-org-apache-sling-provisioning-model](https://github.com/apache/sling-org-apache-sling-provisioning-model) pushed_at:2022-01 star:0.0k fork:0.0k Apache Sling Provisioning Model
 - [apache/sling-org-apache-sling-query](https://github.com/apache/sling-org-apache-sling-query) pushed_at:2022-07 star:0.0k fork:0.0k Apache Sling Query
 - [apache/sling-org-apache-sling-repoinit-parser](https://github.com/apache/sling-org-apache-sling-repoinit-parser) pushed_at:2022-07 star:0.0k fork:0.0k Apache Sling RepoInit Parser
@@ -1694,9 +1694,9 @@
 - [apache/uima-as_old](https://github.com/apache/uima-as_old) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache UIMA uima-as
 - [apache/uima-async-scaleout](https://github.com/apache/uima-async-scaleout) pushed_at:2022-06 star:0.0k fork:0.0k Apache UIMA UIMA Asynchronous Scaleout (UIMA-AS)
 - [apache/uima-ducc](https://github.com/apache/uima-ducc) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache UIMA uima-ducc
-- [apache/uima-ruta](https://github.com/apache/uima-ruta) pushed_at:2022-06 star:0.0k fork:0.0k Apache UIMA Ruta
+- [apache/uima-ruta](https://github.com/apache/uima-ruta) pushed_at:2022-07 star:0.0k fork:0.0k Apache UIMA Ruta
 - [apache/uima-sandbox](https://github.com/apache/uima-sandbox) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache UIMA sandbox
-- [apache/uima-uimafit](https://github.com/apache/uima-uimafit) pushed_at:2022-06 star:0.0k fork:0.0k Apache UIMA uimaFIT
+- [apache/uima-uimafit](https://github.com/apache/uima-uimafit) pushed_at:2022-07 star:0.0k fork:0.0k Apache UIMA uimaFIT
 - [apache/uima-uimaj](https://github.com/apache/uima-uimaj) pushed_at:2022-07 star:0.0k fork:0.0k Apache UIMA Java SDK
 - [apache/uima-uimaj-io-jsoncas](https://github.com/apache/uima-uimaj-io-jsoncas) pushed_at:2022-07 star:0.0k fork:0.0k Apache UIMA Java SDK JSON CAS Support
 - [apache/universal-wiki-converter](https://github.com/apache/universal-wiki-converter) pushed_at:2019-03 star:0.0k fork:0.0k Universal Wiki Converter (UWC) is a Java tool used to convert various wikis into Confluence format. No need to fork it, ask for access!
@@ -1705,8 +1705,8 @@
 - [apache/usergrid-android](https://github.com/apache/usergrid-android) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache usergrid Android SDK
 - [apache/usergrid-java](https://github.com/apache/usergrid-java) pushed_at:2018-09 star:0.0k fork:0.0k Mirror of Apache usergrid Java SDK
 - [apache/usergrid-qakka](https://github.com/apache/usergrid-qakka) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Usergrid - Qakka Queue System 
-- [apache/velocity-engine](https://github.com/apache/velocity-engine) pushed_at:2022-06 star:0.3k fork:0.1k Mirror of Apache Velocity Engine
-- [apache/velocity-tools](https://github.com/apache/velocity-tools) pushed_at:2021-12 star:0.0k fork:0.0k Mirror of Apache Velocity Tools
+- [apache/velocity-engine](https://github.com/apache/velocity-engine) pushed_at:2022-07 star:0.3k fork:0.1k Mirror of Apache Velocity Engine
+- [apache/velocity-tools](https://github.com/apache/velocity-tools) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache Velocity Tools
 - [apache/vxquery](https://github.com/apache/vxquery) pushed_at:2019-01 star:0.0k fork:0.0k Mirror of Apache VXQuery
 - [apache/webservices-commons-xmlschema](https://github.com/apache/webservices-commons-xmlschema) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache Web Services Commons XMLSchema
 - [apache/whirr](https://github.com/apache/whirr) pushed_at:2017-04 star:0.1k fork:0.1k Mirror of Apache Whirr
@@ -1717,8 +1717,8 @@
 - [apache/ws-neethi](https://github.com/apache/ws-neethi) pushed_at:2021-12 star:0.0k fork:0.0k Apache WebService - Neethi
 - [apache/ws-wss4j](https://github.com/apache/ws-wss4j) pushed_at:2022-07 star:0.0k fork:0.0k Apache WebServices - WSS4J
 - [apache/ws-xmlschema](https://github.com/apache/ws-xmlschema) pushed_at:2022-07 star:0.0k fork:0.0k Apache Web Services - XmlSchema
-- [apache/xalan-j](https://github.com/apache/xalan-j) pushed_at:2019-05 star:0.0k fork:0.1k Mirror of Apache Xalan Java
-- [apache/xalan-java](https://github.com/apache/xalan-java) pushed_at:2022-05 star:0.0k fork:0.0k Apache Xalan-Java
+- [apache/xalan-j](https://github.com/apache/xalan-j) pushed_at:2022-07 star:0.0k fork:0.1k Mirror of Apache Xalan Java
+- [apache/xalan-java](https://github.com/apache/xalan-java) pushed_at:2022-07 star:0.0k fork:0.0k Apache Xalan-Java
 - [apache/xerces2-j](https://github.com/apache/xerces2-j) pushed_at:2021-10 star:0.0k fork:0.1k Mirror of Apache Xerces2 Java
 - [apache/xmlbeans](https://github.com/apache/xmlbeans) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache XMLBeans
 - [apache/xmlgraphics-batik](https://github.com/apache/xmlgraphics-batik) pushed_at:2022-07 star:0.1k fork:0.1k Mirror of Apache Batik
@@ -1726,7 +1726,7 @@
 - [apache/xmlgraphics-fop](https://github.com/apache/xmlgraphics-fop) pushed_at:2022-07 star:0.1k fork:0.1k Mirror of Apache FOP
 - [apache/xmlgraphics-fop-pdf-images](https://github.com/apache/xmlgraphics-fop-pdf-images) pushed_at:2022-06 star:0.0k fork:0.0k Mirror of Apache FOP PDF Images
 - [apache/zeppelin](https://github.com/apache/zeppelin) pushed_at:2022-07 star:5.8k fork:2.7k Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.
-- [apache/zookeeper](https://github.com/apache/zookeeper) pushed_at:2022-07 star:10.6k fork:6.7k Apache ZooKeeper
+- [apache/zookeeper](https://github.com/apache/zookeeper) pushed_at:2022-07 star:10.7k fork:6.7k Apache ZooKeeper
 
 ## JavaScript
 
@@ -1889,7 +1889,7 @@
 
 ## Lua
 
-- [apache/apisix](https://github.com/apache/apisix) pushed_at:2022-07 star:9.7k fork:1.8k The Cloud-Native API Gateway
+- [apache/apisix](https://github.com/apache/apisix) pushed_at:2022-07 star:9.8k fork:1.8k The Cloud-Native API Gateway
 - [apache/openwhisk-apigateway](https://github.com/apache/openwhisk-apigateway) pushed_at:2021-10 star:0.1k fork:0.0k Apache OpenWhisk API Gateway service for exposing actions as REST interfaces.
 - [apache/shenyu-nginx](https://github.com/apache/shenyu-nginx) pushed_at:2022-07 star:0.0k fork:0.0k Apache ShenYu Nginx.
 - [apache/skywalking-nginx-lua](https://github.com/apache/skywalking-nginx-lua) pushed_at:2022-07 star:0.1k fork:0.1k The Nginx Lua agent for Apache SkyWalking
@@ -1948,7 +1948,7 @@
 - [apache/arrow-experiments](https://github.com/apache/arrow-experiments) pushed_at:2021-12 star:0.0k fork:0.0k Arrow Arrow development experiments
 - [apache/asf-infra-transfer-test](https://github.com/apache/asf-infra-transfer-test) pushed_at:2019-05 star:0.0k fork:0.0k 
 - [apache/axis-axis1-site-src](https://github.com/apache/axis-axis1-site-src) pushed_at:2020-05 star:0.0k fork:0.0k Apache axis
-- [apache/beam-starter-kotlin](https://github.com/apache/beam-starter-kotlin) pushed_at:2022-03 star:0.0k fork:0.0k Apache Beam starter repo for Kotlin
+- [apache/beam-starter-kotlin](https://github.com/apache/beam-starter-kotlin) pushed_at:2022-07 star:0.0k fork:0.0k Apache Beam starter repo for Kotlin
 - [apache/beam-starter-scala](https://github.com/apache/beam-starter-scala) pushed_at:2022-03 star:0.0k fork:0.0k Apache Beam starter repo for Scala
 - [apache/camel-examples](https://github.com/apache/camel-examples) pushed_at:2022-07 star:0.3k fork:0.3k Apache Camel Examples
 - [apache/camel-install-jdk](https://github.com/apache/camel-install-jdk) pushed_at:2020-12 star:0.0k fork:0.0k Apache camel adoptopenjdk install-jdk Github action fork
@@ -1987,6 +1987,7 @@
 - [apache/flex-tourjs](https://github.com/apache/flex-tourjs) pushed_at:2017-09 star:0.0k fork:0.0k Mirror of Apache FlexJS 'Tour de FlexJS'
 - [apache/flex-typedefs](https://github.com/apache/flex-typedefs) pushed_at:2017-09 star:0.0k fork:0.0k Mirror of Apache Flex TypeDefs
 - [apache/flex-whiteboard](https://github.com/apache/flex-whiteboard) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Flex - Whiteboard (Incubating)
+- [apache/flink-connector-dynamodb](https://github.com/apache/flink-connector-dynamodb) pushed_at:2022-07 star:0.0k fork:0.0k Apache flink
 - [apache/flink-connector-rabbitmq](https://github.com/apache/flink-connector-rabbitmq) pushed_at:2022-06 star:0.0k fork:0.0k Apache flink
 - [apache/flink-connector-redis](https://github.com/apache/flink-connector-redis) pushed_at:2022-05 star:0.0k fork:0.0k Apache flink
 - [apache/fluo-bytes](https://github.com/apache/fluo-bytes) pushed_at:2020-10 star:0.0k fork:0.0k Apache Fluo Bytes
@@ -1995,7 +1996,7 @@
 - [apache/geronimo-schema-5](https://github.com/apache/geronimo-schema-5) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Geronimo Schema Java EE 5
 - [apache/geronimo-schema-6](https://github.com/apache/geronimo-schema-6) pushed_at:2017-04 star:0.0k fork:0.0k Mirror of Apache Geronimo Schema Java EE 6
 - [apache/hadoop-downstream-tests](https://github.com/apache/hadoop-downstream-tests) pushed_at:2017-09 star:0.0k fork:0.0k Mirror of Apache Hadoop Downstream Tests
-- [apache/hadoop-site](https://github.com/apache/hadoop-site) pushed_at:2022-06 star:0.0k fork:0.0k Apache Hadoop Site
+- [apache/hadoop-site](https://github.com/apache/hadoop-site) pushed_at:2022-07 star:0.0k fork:0.0k Apache Hadoop Site
 - [apache/hbase-site](https://github.com/apache/hbase-site) pushed_at:2022-07 star:0.0k fork:0.0k Apache HBase Site
 - [apache/httpcomponents-parent](https://github.com/apache/httpcomponents-parent) pushed_at:2021-11 star:0.0k fork:0.0k Mirror of Apache HttpComponents Parent Project
 - [apache/httpcomponents-stylecheck](https://github.com/apache/httpcomponents-stylecheck) pushed_at:2020-01 star:0.0k fork:0.0k Mirror of Apache HttpComponents Style Check Resources
@@ -2060,7 +2061,7 @@
 - [apache/logging-log4j-audit-site](https://github.com/apache/logging-log4j-audit-site) pushed_at:2020-09 star:0.0k fork:0.0k Apache log4j-audit web site
 - [apache/logging-log4j-plugins](https://github.com/apache/logging-log4j-plugins) pushed_at:2018-01 star:0.0k fork:0.0k Mirror of Apache Log4j Extra Plugins
 - [apache/logging-log4j-site](https://github.com/apache/logging-log4j-site) pushed_at:2022-07 star:0.0k fork:0.0k Apache log4j web site
-- [apache/logging-log4net-site](https://github.com/apache/logging-log4net-site) pushed_at:2021-12 star:0.0k fork:0.0k Apache log4net web site
+- [apache/logging-log4net-site](https://github.com/apache/logging-log4net-site) pushed_at:2022-07 star:0.0k fork:0.0k Apache log4net web site
 - [apache/logging-log4php-site](https://github.com/apache/logging-log4php-site) pushed_at:2020-12 star:0.0k fork:0.0k Apache log4php web site
 - [apache/logging-parent](https://github.com/apache/logging-parent) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache Logging Services Parent POM
 - [apache/lucene-solr](https://github.com/apache/lucene-solr) pushed_at:2022-07 star:4.3k fork:2.7k Apache Lucene and Solr open-source search software
@@ -2145,8 +2146,8 @@
 - [apache/sling-org-apache-sling-installer-factory-subsystems](https://github.com/apache/sling-org-apache-sling-installer-factory-subsystems) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Subsystems Installer  (deprecated)
 - [apache/sling-org-apache-sling-jcr-jcr-wrapper](https://github.com/apache/sling-org-apache-sling-jcr-jcr-wrapper) pushed_at:2022-01 star:0.0k fork:0.0k Apache Sling Wrapper Bundle for the JCR API
 - [apache/sling-org-apache-sling-karaf-configs](https://github.com/apache/sling-org-apache-sling-karaf-configs) pushed_at:2022-03 star:0.0k fork:0.0k Apache Sling - Karaf Configs
-- [apache/sling-org-apache-sling-karaf-distribution](https://github.com/apache/sling-org-apache-sling-karaf-distribution) pushed_at:2022-04 star:0.0k fork:0.0k Apache Sling - Karaf Distribution
-- [apache/sling-org-apache-sling-karaf-features](https://github.com/apache/sling-org-apache-sling-karaf-features) pushed_at:2022-04 star:0.0k fork:0.0k Apache Sling - Karaf Features
+- [apache/sling-org-apache-sling-karaf-distribution](https://github.com/apache/sling-org-apache-sling-karaf-distribution) pushed_at:2022-07 star:0.0k fork:0.0k Apache Sling - Karaf Distribution
+- [apache/sling-org-apache-sling-karaf-features](https://github.com/apache/sling-org-apache-sling-karaf-features) pushed_at:2022-07 star:0.0k fork:0.0k Apache Sling - Karaf Features
 - [apache/sling-org-apache-sling-launchpad-test-bundles](https://github.com/apache/sling-org-apache-sling-launchpad-test-bundles) pushed_at:2022-01 star:0.0k fork:0.0k Apache Sling Launchpad Test Bundles (deprecated)
 - [apache/sling-org-apache-sling-launchpad-test-services-war](https://github.com/apache/sling-org-apache-sling-launchpad-test-services-war) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Testing Services WAR
 - [apache/sling-org-apache-sling-launchpad-testing](https://github.com/apache/sling-org-apache-sling-launchpad-testing) pushed_at:2022-05 star:0.0k fork:0.0k Apache Sling Launchpad Testing (deprecated)
@@ -2186,7 +2187,7 @@
 - [apache/turbine-site](https://github.com/apache/turbine-site) pushed_at:2021-12 star:0.0k fork:0.0k  Main website sources for the Apache Turbine Project
 - [apache/tuscany-js](https://github.com/apache/tuscany-js) pushed_at:2019-01 star:0.0k fork:0.0k Apache Tuscani (retired) JS
 - [apache/tvm-rfcs](https://github.com/apache/tvm-rfcs) pushed_at:2022-07 star:0.1k fork:0.1k A home for the final text of all TVM RFCs.
-- [apache/uima-parent-pom](https://github.com/apache/uima-parent-pom) pushed_at:2022-06 star:0.0k fork:0.0k Apache UIMA Parent POM
+- [apache/uima-parent-pom](https://github.com/apache/uima-parent-pom) pushed_at:2022-07 star:0.0k fork:0.0k Apache UIMA Parent POM
 - [apache/uima-site](https://github.com/apache/uima-site) pushed_at:2022-03 star:0.0k fork:0.0k Website sources for the Apache UIMA website
 - [apache/velocity-master](https://github.com/apache/velocity-master) pushed_at:2021-02 star:0.0k fork:0.0k Apache Velocity
 - [apache/whimsy-test](https://github.com/apache/whimsy-test) pushed_at:2015-12 star:0.0k fork:0.0k whimsy test
@@ -2235,9 +2236,9 @@
 - [apache/airavata-django-portal](https://github.com/apache/airavata-django-portal) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache Airavata Django Portal
 - [apache/airavata-django-portal-sdk](https://github.com/apache/airavata-django-portal-sdk) pushed_at:2022-07 star:0.0k fork:0.0k Apache Airavata Django Portal SDK
 - [apache/airavata-mft-portal](https://github.com/apache/airavata-mft-portal) pushed_at:2022-07 star:0.0k fork:0.0k Portal for Apache Airavata Managed File Transfer Services
-- [apache/airflow](https://github.com/apache/airflow) pushed_at:2022-07 star:26.8k fork:10.9k Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
+- [apache/airflow](https://github.com/apache/airflow) pushed_at:2022-07 star:26.8k fork:11.0k Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [apache/airflow-ci-infra](https://github.com/apache/airflow-ci-infra) pushed_at:2022-07 star:0.0k fork:0.0k Automation around CI infrastructure for Apache Airflow
-- [apache/airflow-client-python](https://github.com/apache/airflow-client-python) pushed_at:2022-01 star:0.1k fork:0.0k Apache Airflow - OpenApi Client for Python
+- [apache/airflow-client-python](https://github.com/apache/airflow-client-python) pushed_at:2022-07 star:0.1k fork:0.0k Apache Airflow - OpenApi Client for Python
 - [apache/airflow-flask-openid-fork](https://github.com/apache/airflow-flask-openid-fork) pushed_at:2021-09 star:0.0k fork:0.0k Flask OpenID fork with setuptools fix
 - [apache/allura](https://github.com/apache/allura) pushed_at:2022-07 star:0.1k fork:0.0k Apache Allura - a software forge to manage source code repositories, bug reports, discussions, wiki pages, blogs, and more
 - [apache/apachecon-acasia](https://github.com/apache/apachecon-acasia) pushed_at:2022-07 star:0.0k fork:0.1k Draft page for acah2021 conference
@@ -2266,7 +2267,7 @@
 - [apache/dubbo-python2](https://github.com/apache/dubbo-python2) pushed_at:2021-02 star:0.0k fork:0.0k Python Dubbo Client
 - [apache/flink-jira-bot](https://github.com/apache/flink-jira-bot) pushed_at:2021-07 star:0.0k fork:0.0k Apache Flink Jira Bot
 - [apache/fluo-muchos](https://github.com/apache/fluo-muchos) pushed_at:2022-01 star:0.0k fork:0.0k Apache Fluo Muchos
-- [apache/guacamole-manual](https://github.com/apache/guacamole-manual) pushed_at:2022-03 star:0.0k fork:0.0k Mirror of Apache Guacamole Manual
+- [apache/guacamole-manual](https://github.com/apache/guacamole-manual) pushed_at:2022-07 star:0.0k fork:0.0k Mirror of Apache Guacamole Manual
 - [apache/ignite-python-thin-client](https://github.com/apache/ignite-python-thin-client) pushed_at:2022-06 star:0.0k fork:0.0k Apache Ignite Python Thin Client
 - [apache/incubator-ariatosca](https://github.com/apache/incubator-ariatosca) pushed_at:2018-07 star:0.0k fork:0.0k Mirror of Apache incubator
 - [apache/incubator-bluemarlin](https://github.com/apache/incubator-bluemarlin) pushed_at:2022-02 star:0.0k fork:0.0k Blue Marlin is a critical web infrastructure for advertising based monetization. It is a cloud platform that adds intelligence to a plain Ad System.
@@ -2307,7 +2308,6 @@
 - [apache/infrastructure-puppet](https://github.com/apache/infrastructure-puppet) pushed_at:2022-05 star:0.1k fork:0.1k Apache Infrastructure Puppet
 - [apache/infrastructure-pypubsub](https://github.com/apache/infrastructure-pypubsub) pushed_at:2021-08 star:0.0k fork:0.0k PyPubSub - An asynchronous pubsub protocol written in Python 3
 - [apache/infrastructure-pypubsub-ldap](https://github.com/apache/infrastructure-pypubsub-ldap) pushed_at:2022-06 star:0.0k fork:0.0k Apache Infrastructure PyPubSub LDAP Activity Extension
-- [apache/infrastructure-qbot](https://github.com/apache/infrastructure-qbot) pushed_at:2022-07 star:0.0k fork:0.0k ASF Infrastructure Slack Bot (GnomeBot/Gnomey)
 - [apache/infrastructure-roundtrip](https://github.com/apache/infrastructure-roundtrip) pushed_at:2021-02 star:0.0k fork:0.0k ASF Infra Email Round Trip Tests
 - [apache/infrastructure-svnauthz](https://github.com/apache/infrastructure-svnauthz) pushed_at:2021-11 star:0.0k fork:0.0k Daemon for maintaining svn authz files
 - [apache/infrastructure-testapp](https://github.com/apache/infrastructure-testapp) pushed_at:2020-06 star:0.0k fork:0.0k Test application for p6 pipservice installer
@@ -2321,8 +2321,8 @@
 - [apache/openwhisk-composer-python](https://github.com/apache/openwhisk-composer-python) pushed_at:2021-03 star:0.0k fork:0.0k Apache OpenWhisk Composer Python provides a high-level programming model in Python for composing serverless functions
 - [apache/openwhisk-deploy-mesos](https://github.com/apache/openwhisk-deploy-mesos) pushed_at:2018-04 star:0.0k fork:0.0k Apache OpenWhisk deployment scripts and configuration files for running under Apache Mesos.
 - [apache/openwhisk-package-kafka](https://github.com/apache/openwhisk-package-kafka) pushed_at:2022-05 star:0.0k fork:0.0k Apache OpenWhisk package for communicating with Kafka or Message Hub
-- [apache/openwhisk-runtime-docker](https://github.com/apache/openwhisk-runtime-docker) pushed_at:2021-09 star:0.0k fork:0.0k Apache OpenWhisk SDK for building Docker "blackbox" runtimes
-- [apache/openwhisk-runtime-rust](https://github.com/apache/openwhisk-runtime-rust) pushed_at:2022-06 star:0.0k fork:0.0k Apache OpenWhisk Runtime Rust supports Apache OpenWhisk functions written in Rust
+- [apache/openwhisk-runtime-docker](https://github.com/apache/openwhisk-runtime-docker) pushed_at:2022-07 star:0.0k fork:0.0k Apache OpenWhisk SDK for building Docker "blackbox" runtimes
+- [apache/openwhisk-runtime-rust](https://github.com/apache/openwhisk-runtime-rust) pushed_at:2022-07 star:0.0k fork:0.0k Apache OpenWhisk Runtime Rust supports Apache OpenWhisk functions written in Rust
 - [apache/openwhisk-utilities](https://github.com/apache/openwhisk-utilities) pushed_at:2021-10 star:0.0k fork:0.0k Shared utilities used across Apache OpenWhisk project repositories.
 - [apache/phoenix-queryserver](https://github.com/apache/phoenix-queryserver) pushed_at:2022-07 star:0.0k fork:0.0k Apache Phoenix Query Server
 - [apache/predictionio-sdk-python](https://github.com/apache/predictionio-sdk-python) pushed_at:2018-05 star:0.2k fork:0.1k PredictionIO Python SDK
@@ -2336,7 +2336,7 @@
 - [apache/steve](https://github.com/apache/steve) pushed_at:2022-06 star:0.0k fork:0.0k Apache STeVe -- a set of voting tools
 - [apache/tashi](https://github.com/apache/tashi) pushed_at:2018-12 star:0.0k fork:0.0k Mirror of Apache Tashi
 - [apache/trafficserver-qa](https://github.com/apache/trafficserver-qa) pushed_at:2017-11 star:0.0k fork:0.0k Mirror of Apache TrafficServer QA
-- [apache/tvm](https://github.com/apache/tvm) pushed_at:2022-07 star:8.3k fork:2.6k Open deep learning compiler stack for cpu, gpu and specialized accelerators
+- [apache/tvm](https://github.com/apache/tvm) pushed_at:2022-07 star:8.4k fork:2.6k Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [apache/usergrid-python](https://github.com/apache/usergrid-python) pushed_at:2017-08 star:0.0k fork:0.0k Mirror of Apache usergrid Python SDK
 
 ## Ruby
@@ -2347,7 +2347,7 @@
 - [apache/incubator-taverna-databundle-viewer](https://github.com/apache/incubator-taverna-databundle-viewer) pushed_at:2020-03 star:0.0k fork:0.0k Mirror of Apache Taverna Databundle Viewer (Incubating)
 - [apache/infrastructure-puppet-kitchen](https://github.com/apache/infrastructure-puppet-kitchen) pushed_at:2019-04 star:0.0k fork:0.0k Mirror of Apache Infrastructure Puppet Kitchen
 - [apache/openwhisk-podspecs](https://github.com/apache/openwhisk-podspecs) pushed_at:2017-07 star:0.0k fork:0.0k [DEPRECATED] - CocoaPods Podspecs repo for openwhisk-client-swift
-- [apache/openwhisk-runtime-ruby](https://github.com/apache/openwhisk-runtime-ruby) pushed_at:2022-06 star:0.0k fork:0.0k Apache OpenWhisk Runtime Ruby supports Apache OpenWhisk functions written in Ruby
+- [apache/openwhisk-runtime-ruby](https://github.com/apache/openwhisk-runtime-ruby) pushed_at:2022-07 star:0.0k fork:0.0k Apache OpenWhisk Runtime Ruby supports Apache OpenWhisk functions written in Ruby
 - [apache/predictionio-sdk-ruby](https://github.com/apache/predictionio-sdk-ruby) pushed_at:2018-09 star:0.2k fork:0.0k PredictionIO Ruby SDK
 - [apache/puppet-datadog-agent](https://github.com/apache/puppet-datadog-agent) pushed_at:2019-01 star:0.0k fork:0.0k Puppet module to install the Datadog agent
 - [apache/puppet-module-ssh](https://github.com/apache/puppet-module-ssh) pushed_at:2020-04 star:0.0k fork:0.0k Puppet module to manage SSH
@@ -2356,7 +2356,7 @@
 ## Rust
 
 - [apache/arrow-ballista](https://github.com/apache/arrow-ballista) pushed_at:2022-07 star:0.2k fork:0.0k Apache Arrow Ballista Distributed Query Engine
-- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) pushed_at:2022-07 star:2.2k fork:0.4k Apache Arrow DataFusion SQL Query Engine
+- [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) pushed_at:2022-07 star:2.3k fork:0.4k Apache Arrow DataFusion SQL Query Engine
 - [apache/arrow-datafusion-python](https://github.com/apache/arrow-datafusion-python) pushed_at:2022-07 star:0.0k fork:0.0k Apache Arrow DataFusion Python Bindings
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) pushed_at:2022-07 star:1.0k fork:0.2k Official Rust implementation of Apache Arrow
 - [apache/dubbo-rust](https://github.com/apache/dubbo-rust) pushed_at:2022-07 star:0.0k fork:0.0k Apache Dubbo Rust implementation
@@ -2403,8 +2403,8 @@
 - [apache/openwhisk-package-cloudant](https://github.com/apache/openwhisk-package-cloudant) pushed_at:2021-10 star:0.0k fork:0.0k The Apache OpenWhisk cloudant package enables you to work with a Cloudant/CouchDB database
 - [apache/openwhisk-package-deploy](https://github.com/apache/openwhisk-package-deploy) pushed_at:2021-03 star:0.0k fork:0.0k Apache openwhisk
 - [apache/openwhisk-package-template](https://github.com/apache/openwhisk-package-template) pushed_at:2017-08 star:0.0k fork:0.0k [DEPRECATED] - This is a template to be use when creating new packages for OpenWhisk
-- [apache/openwhisk-runtime-java](https://github.com/apache/openwhisk-runtime-java) pushed_at:2022-06 star:0.0k fork:0.1k Apache OpenWhisk Runtime Java supports Apache OpenWhisk functions written in Java and other JVM-hosted languages
-- [apache/openwhisk-runtime-php](https://github.com/apache/openwhisk-runtime-php) pushed_at:2022-06 star:0.0k fork:0.0k Apache OpenWhisk Runtime PHP supports Apache OpenWhisk functions written in PHP
+- [apache/openwhisk-runtime-java](https://github.com/apache/openwhisk-runtime-java) pushed_at:2022-07 star:0.0k fork:0.1k Apache OpenWhisk Runtime Java supports Apache OpenWhisk functions written in Java and other JVM-hosted languages
+- [apache/openwhisk-runtime-php](https://github.com/apache/openwhisk-runtime-php) pushed_at:2022-07 star:0.0k fork:0.0k Apache OpenWhisk Runtime PHP supports Apache OpenWhisk functions written in PHP
 - [apache/openwhisk-sample-slackbot](https://github.com/apache/openwhisk-sample-slackbot) pushed_at:2017-01 star:0.0k fork:0.0k [DEPRECATED] - A proof-of-concept Slackbot to invoke OpenWhisk actions.
 - [apache/predictionio](https://github.com/apache/predictionio) pushed_at:2021-01 star:12.5k fork:2.0k PredictionIO, a machine learning server for developers and ML engineers.
 - [apache/predictionio-template-attribute-based-classifier](https://github.com/apache/predictionio-template-attribute-based-classifier) pushed_at:2019-05 star:0.0k fork:0.1k PredictionIO Classification Engine Template (Scala-based parallelized engine)
@@ -2434,7 +2434,7 @@
 - [apache/couchdb-docker](https://github.com/apache/couchdb-docker) pushed_at:2022-07 star:0.2k fork:0.1k Semi-official Apache CouchDB Docker images
 - [apache/couchdb-helm](https://github.com/apache/couchdb-helm) pushed_at:2022-06 star:0.0k fork:0.0k Apache CouchDB Helm Chart
 - [apache/couchdb-pkg](https://github.com/apache/couchdb-pkg) pushed_at:2022-07 star:0.0k fork:0.0k Apache CouchDB Packaging support files
-- [apache/directory-project](https://github.com/apache/directory-project) pushed_at:2022-04 star:0.0k fork:0.0k Apache Directory Project
+- [apache/directory-project](https://github.com/apache/directory-project) pushed_at:2022-07 star:0.0k fork:0.0k Apache Directory Project
 - [apache/fineract-cn-docker-compose](https://github.com/apache/fineract-cn-docker-compose) pushed_at:2022-06 star:0.0k fork:0.1k Apache Fineract CN Docker Compose for Development
 - [apache/flink-docker](https://github.com/apache/flink-docker) pushed_at:2022-07 star:0.2k fork:0.1k Docker packaging for Apache Flink
 - [apache/flink-shaded](https://github.com/apache/flink-shaded) pushed_at:2022-04 star:0.1k fork:0.1k Apache Flink shaded artifacts repository
@@ -2457,12 +2457,12 @@
 - [apache/openwhisk-deploy-openshift](https://github.com/apache/openwhisk-deploy-openshift) pushed_at:2019-05 star:0.0k fork:0.0k [DEPRECATED] - This project can be used to deploy Apache OpenWhisk to the OpenShift platform
 - [apache/openwhisk-package-jira](https://github.com/apache/openwhisk-package-jira) pushed_at:2017-07 star:0.0k fork:0.0k [DEPRECATED] - Interact with JIRA software software development tool used for issue tracking, and project management functions
 - [apache/openwhisk-release](https://github.com/apache/openwhisk-release) pushed_at:2022-05 star:0.0k fork:0.0k Tools and documentation for Apache OpenWhisk Release Managers
-- [apache/openwhisk-runtime-deno](https://github.com/apache/openwhisk-runtime-deno) pushed_at:2021-10 star:0.0k fork:0.0k Apache OpenWhisk Runtime Deno supports Apache OpenWhisk functions written in Deno
+- [apache/openwhisk-runtime-deno](https://github.com/apache/openwhisk-runtime-deno) pushed_at:2022-07 star:0.0k fork:0.0k Apache OpenWhisk Runtime Deno supports Apache OpenWhisk functions written in Deno
 - [apache/ozone-docker](https://github.com/apache/ozone-docker) pushed_at:2022-01 star:0.0k fork:0.0k Repository for building Apache Hadoop Ozone Docker images
 - [apache/ozone-docker-testkrb5](https://github.com/apache/ozone-docker-testkrb5) pushed_at:2021-11 star:0.0k fork:0.0k Container image to provide MIT krb5 server for developing and testing Apache Ozone
 - [apache/pulsar-helm-chart](https://github.com/apache/pulsar-helm-chart) pushed_at:2022-07 star:0.1k fork:0.1k Official Apache Pulsar Helm Chart
 - [apache/ratis-thirdparty](https://github.com/apache/ratis-thirdparty) pushed_at:2022-07 star:0.0k fork:0.0k Third-party dependencies for Apache Ratis
-- [apache/rocketmq-docker](https://github.com/apache/rocketmq-docker) pushed_at:2022-03 star:0.5k fork:0.2k Apache RocketMQ Docker
+- [apache/rocketmq-docker](https://github.com/apache/rocketmq-docker) pushed_at:2022-07 star:0.5k fork:0.2k Apache RocketMQ Docker
 - [apache/skywalking-goapi](https://github.com/apache/skywalking-goapi) pushed_at:2022-07 star:0.0k fork:0.0k Apache SkyWalking API in Golang.
 - [apache/skywalking-kubernetes](https://github.com/apache/skywalking-kubernetes) pushed_at:2022-06 star:0.3k fork:0.2k Apache SkyWalking Kubernetes Deployment Helm Chart
 - [apache/sling-launchpad-debian](https://github.com/apache/sling-launchpad-debian) pushed_at:2021-07 star:0.0k fork:0.0k Apache Sling Launchpad Debian Package Builder
@@ -2489,7 +2489,7 @@
 ## Swift
 
 - [apache/openwhisk-client-swift](https://github.com/apache/openwhisk-client-swift) pushed_at:2018-05 star:0.0k fork:0.0k [DEPRECATED] - openwhisk-client-swift is a Swift client SDK for OpenWhisk with support for iOS, WatchOS2, and Darwin CLI apps
-- [apache/openwhisk-runtime-swift](https://github.com/apache/openwhisk-runtime-swift) pushed_at:2022-06 star:0.0k fork:0.0k Apache OpenWhisk Runtime Swift supports Apache OpenWhisk functions written in Swift
+- [apache/openwhisk-runtime-swift](https://github.com/apache/openwhisk-runtime-swift) pushed_at:2022-07 star:0.0k fork:0.0k Apache OpenWhisk Runtime Swift supports Apache OpenWhisk functions written in Swift
 - [apache/predictionio-sdk-swift](https://github.com/apache/predictionio-sdk-swift) pushed_at:2015-08 star:0.0k fork:0.0k PredictionIO iOS / OS X SDK
 - [apache/usergrid-swift](https://github.com/apache/usergrid-swift) pushed_at:2018-01 star:0.0k fork:0.0k Mirror of Apache usergrid Swift SDK
 
@@ -2506,7 +2506,7 @@
 - [apache/daffodil-vscode](https://github.com/apache/daffodil-vscode) pushed_at:2022-07 star:0.0k fork:0.0k VS Code extension for Apache Daffodil
 - [apache/doris-website](https://github.com/apache/doris-website) pushed_at:2022-07 star:0.0k fork:0.0k Apache Doris Website
 - [apache/dubbo-js](https://github.com/apache/dubbo-js) pushed_at:2022-06 star:0.7k fork:0.1k Node.js native Apache Dubbo client on hessian
-- [apache/echarts](https://github.com/apache/echarts) pushed_at:2022-07 star:51.8k fork:19.1k Apache ECharts is a powerful, interactive charting and data visualization library for browser
+- [apache/echarts](https://github.com/apache/echarts) pushed_at:2022-07 star:51.9k fork:19.1k Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [apache/echarts-bar-racing](https://github.com/apache/echarts-bar-racing) pushed_at:2022-02 star:0.0k fork:0.0k A bar-racing tool for Apache ECharts
 - [apache/echarts-examples](https://github.com/apache/echarts-examples) pushed_at:2022-07 star:0.3k fork:0.2k Examples of ECharts
 - [apache/fineract-cn-fims-web-app](https://github.com/apache/fineract-cn-fims-web-app) pushed_at:2022-06 star:0.0k fork:0.1k Apache Fineract AngularJS web application
@@ -2519,18 +2519,18 @@
 - [apache/pulsar-test-infra](https://github.com/apache/pulsar-test-infra) pushed_at:2022-07 star:0.0k fork:0.0k Testing infrastructure for Apache Pulsar
 - [apache/skywalking-client-js](https://github.com/apache/skywalking-client-js) pushed_at:2022-07 star:0.2k fork:0.1k Client-side JavaScript exception and tracing library for Apache SkyWalking APM.
 - [apache/skywalking-nodejs](https://github.com/apache/skywalking-nodejs) pushed_at:2022-07 star:0.1k fork:0.1k The NodeJS agent for Apache SkyWalking
-- [apache/superset](https://github.com/apache/superset) pushed_at:2022-07 star:47.1k fork:9.3k Apache Superset is a Data Visualization and Data Exploration Platform
+- [apache/superset](https://github.com/apache/superset) pushed_at:2022-07 star:47.3k fork:9.3k Apache Superset is a Data Visualization and Data Exploration Platform
 - [apache/yunikorn-web](https://github.com/apache/yunikorn-web) pushed_at:2022-07 star:0.0k fork:0.0k Apache YuniKorn Web UI - Incubating
 
 ## Vue
 
 - [apache/airavata-custos-portal](https://github.com/apache/airavata-custos-portal) pushed_at:2022-07 star:0.0k fork:0.0k Portal Interface for Apache Airavata Custos Security
 - [apache/cloudstack-primate](https://github.com/apache/cloudstack-primate) pushed_at:2021-01 star:0.0k fork:0.0k Primate - modern role-base progressive UI for Apache CloudStack
-- [apache/echarts-handbook](https://github.com/apache/echarts-handbook) pushed_at:2022-07 star:0.0k fork:0.1k Apache ECharts Handbook
+- [apache/echarts-handbook](https://github.com/apache/echarts-handbook) pushed_at:2022-07 star:0.1k fork:0.1k Apache ECharts Handbook
 - [apache/echarts-wordcloud-generator](https://github.com/apache/echarts-wordcloud-generator) pushed_at:2022-02 star:0.0k fork:0.0k Apache ECharts WordCloud Generator
 - [apache/incubator-teaclave-website](https://github.com/apache/incubator-teaclave-website) pushed_at:2022-07 star:0.0k fork:0.0k Apache Teaclave Website
 - [apache/incubator-weex-ui](https://github.com/apache/incubator-weex-ui) pushed_at:2021-05 star:4.8k fork:0.9k 🏄  A rich interaction, lightweight, high performance UI library based on Weex.
-- [apache/pulsar-manager](https://github.com/apache/pulsar-manager) pushed_at:2022-06 star:0.4k fork:0.2k Apache Pulsar Manager
+- [apache/pulsar-manager](https://github.com/apache/pulsar-manager) pushed_at:2022-07 star:0.4k fork:0.2k Apache Pulsar Manager
 - [apache/skywalking-booster-ui](https://github.com/apache/skywalking-booster-ui) pushed_at:2022-07 star:0.1k fork:0.0k Apache SkyWalking 3rd generation UI
 - [apache/skywalking-rocketbot-ui](https://github.com/apache/skywalking-rocketbot-ui) pushed_at:2022-06 star:0.8k fork:0.4k SkyWalking RocketBot UI
 

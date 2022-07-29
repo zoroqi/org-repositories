@@ -48,7 +48,7 @@
 ## C
 
 - [oracle/adaptivemm](https://github.com/oracle/adaptivemm) pushed_at:2022-06 star:0.0k fork:0.0k adaptivemm - A userspace daemon for proactive free memory management
-- [oracle/dtrace-linux-kernel](https://github.com/oracle/dtrace-linux-kernel) pushed_at:2022-06 star:0.0k fork:0.0k Additional kernel tracing features merged with recent Linux kernel releases. DTrace makes use of these additional features.
+- [oracle/dtrace-linux-kernel](https://github.com/oracle/dtrace-linux-kernel) pushed_at:2022-07 star:0.0k fork:0.0k Additional kernel tracing features merged with recent Linux kernel releases. DTrace makes use of these additional features.
 - [oracle/dtrace-utils](https://github.com/oracle/dtrace-utils) pushed_at:2022-07 star:0.1k fork:0.0k DTrace-utils contains the DTrace port to Linux
 - [oracle/fdr](https://github.com/oracle/fdr) pushed_at:2021-06 star:0.0k fork:0.0k Flight Data Recorder to enable "always on" diagnosability & observability
 - [oracle/ktls-utils](https://github.com/oracle/ktls-utils) pushed_at:2022-07 star:0.0k fork:0.0k TLS handshake utilities for in-kernel TLS consumers
@@ -174,7 +174,7 @@
 - [oracle/cordova-plugin-oracle-idm-auth](https://github.com/oracle/cordova-plugin-oracle-idm-auth) pushed_at:2022-03 star:0.0k fork:0.0k Cordova Plugin for Oracle IDM Auth
 - [oracle/cpq-cloud-with-paas-samples](https://github.com/oracle/cpq-cloud-with-paas-samples) pushed_at:2016-08 star:0.0k fork:0.0k Official Oracle samples created to support developers using Oracle PaaS to integrate with and extend the capabilities of Oracle CPQ Cloud.
 - [oracle/fastr](https://github.com/oracle/fastr) pushed_at:2022-07 star:0.5k fork:0.1k A high-performance implementation of the R programming language, built on GraalVM.
-- [oracle/graal](https://github.com/oracle/graal) pushed_at:2022-07 star:17.2k fork:1.4k GraalVM: Run Programs Faster Anywhere :rocket:
+- [oracle/graal](https://github.com/oracle/graal) pushed_at:2022-07 star:17.3k fork:1.4k GraalVM: Run Programs Faster Anywhere :rocket:
 - [oracle/graalvm-reachability-metadata](https://github.com/oracle/graalvm-reachability-metadata) pushed_at:2022-07 star:0.0k fork:0.0k Repository which contains community-driven collection of GraalVM reachability metadata for open-source libraries.
 - [oracle/heatwave](https://github.com/oracle/heatwave) pushed_at:2022-03 star:0.0k fork:0.0k SQL scripts, instructions for MySQL HeatWave benchmarking
 - [oracle/helidon](https://github.com/oracle/helidon) pushed_at:2022-07 star:2.7k fork:0.5k Java libraries for writing microservices
@@ -194,7 +194,7 @@
 - [oracle/oci-toolkit-intellij](https://github.com/oracle/oci-toolkit-intellij) pushed_at:2021-10 star:0.0k fork:0.0k Oracle Cloud Infrastructure Toolkit for IntelliJ
 - [oracle/okafka](https://github.com/oracle/okafka) pushed_at:2022-03 star:0.0k fork:0.0k Kafka Java Client for Oracle Transactional Event Queues
 - [oracle/olcut](https://github.com/oracle/olcut) pushed_at:2022-06 star:0.0k fork:0.0k A Java configuration, shell, and general utility toolkit
-- [oracle/opengrok](https://github.com/oracle/opengrok) pushed_at:2022-07 star:3.6k fork:0.7k OpenGrok is a fast and usable source code search and cross reference engine, written in Java
+- [oracle/opengrok](https://github.com/oracle/opengrok) pushed_at:2022-07 star:3.7k fork:0.7k OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 - [oracle/oracle-db-appdev-monitoring](https://github.com/oracle/oracle-db-appdev-monitoring) pushed_at:2022-07 star:0.0k fork:0.0k Scripts and code for unified observability for data-centric app dev and microservices
 - [oracle/oracle-r2dbc](https://github.com/oracle/oracle-r2dbc) pushed_at:2022-07 star:0.1k fork:0.0k R2DBC Driver for Oracle Database
 - [oracle/osb-kafka-transport](https://github.com/oracle/osb-kafka-transport) pushed_at:2017-03 star:0.0k fork:0.0k OSB Transport for Apache Kafka provides inbound and outbound connectivity with Kafka Clusters.
@@ -203,11 +203,11 @@
 - [oracle/pushiomanager-react-native](https://github.com/oracle/pushiomanager-react-native) pushed_at:2022-07 star:0.0k fork:0.0k React Native Module for Responsys SDK
 - [oracle/sales-cloud-with-paas-samples](https://github.com/oracle/sales-cloud-with-paas-samples) pushed_at:2018-08 star:0.0k fork:0.0k Official Oracle samples created to support developers using Oracle PaaS to integrate with and extend the capabilities of Oracle Sales Cloud. Security is a primary focus for most of these samples.
 - [oracle/soda-for-java](https://github.com/oracle/soda-for-java) pushed_at:2022-04 star:0.1k fork:0.0k SODA (Simple Oracle Document Access) for Java is an Oracle library for writing Java apps that work with JSON (and not only JSON!) in the Oracle Database. SODA allows your Java app to use the Oracle Database as a NoSQL document store.
-- [oracle/spacewalk](https://github.com/oracle/spacewalk) pushed_at:2022-04 star:0.0k fork:0.0k The master repository for Oracle Linux Manager, based on the Spacewalk Project.
+- [oracle/spacewalk](https://github.com/oracle/spacewalk) pushed_at:2022-07 star:0.0k fork:0.0k The master repository for Oracle Linux Manager, based on the Spacewalk Project.
 - [oracle/tribuo](https://github.com/oracle/tribuo) pushed_at:2022-07 star:1.1k fork:0.2k Tribuo - A Java machine learning library
 - [oracle/trufflex86](https://github.com/oracle/trufflex86) pushed_at:2019-10 star:0.0k fork:0.0k x86 interpreter based on GraalVM/Truffle
 - [oracle/visualvm](https://github.com/oracle/visualvm) pushed_at:2022-07 star:2.3k fork:0.3k VisualVM is an All-in-One Java Troubleshooting Tool
-- [oracle/weblogic-image-tool](https://github.com/oracle/weblogic-image-tool) pushed_at:2022-06 star:0.0k fork:0.0k WebLogic Image Tool
+- [oracle/weblogic-image-tool](https://github.com/oracle/weblogic-image-tool) pushed_at:2022-07 star:0.1k fork:0.0k WebLogic Image Tool
 - [oracle/weblogic-kubernetes-operator](https://github.com/oracle/weblogic-kubernetes-operator) pushed_at:2022-07 star:0.2k fork:0.2k WebLogic Kubernetes Operator
 - [oracle/weblogic-logging-exporter](https://github.com/oracle/weblogic-logging-exporter) pushed_at:2022-03 star:0.0k fork:0.0k Export server logs from WebLogic Server in JSON format to Elasticsearch. 
 - [oracle/weblogic-monitoring-exporter](https://github.com/oracle/weblogic-monitoring-exporter) pushed_at:2022-06 star:0.1k fork:0.1k WebLogic Monitoring Exporter exposes metrics and monitoring data through REST APIs for consumption by other tools (e.g. Prometheus)
@@ -235,7 +235,7 @@
 - [oracle/ka-oda-sample](https://github.com/oracle/ka-oda-sample) pushed_at:2022-02 star:0.0k fork:0.0k Sample code to integrate Knowledge Advanced with Oracle Digital Assistant
 - [oracle/netsuite-suitecloud-sdk](https://github.com/oracle/netsuite-suitecloud-sdk) pushed_at:2022-07 star:0.1k fork:0.0k SuiteCloud Software Development Kit (SuiteCloud SDK) are the set of tools that allow you to customize accounts and create SuiteApps through SuiteCloud Development Framework (SDF).
 - [oracle/node-oracledb](https://github.com/oracle/node-oracledb) pushed_at:2022-07 star:2.1k fork:1.1k Oracle Database driver for Node.js maintained by Oracle Corp.
-- [oracle/nosql-node-sdk](https://github.com/oracle/nosql-node-sdk) pushed_at:2022-06 star:0.0k fork:0.0k Node.js SDK for Oracle NoSQL Database
+- [oracle/nosql-node-sdk](https://github.com/oracle/nosql-node-sdk) pushed_at:2022-07 star:0.0k fork:0.0k Node.js SDK for Oracle NoSQL Database
 - [oracle/oci-designer-toolkit](https://github.com/oracle/oci-designer-toolkit) pushed_at:2022-07 star:0.2k fork:0.1k OCI designer toolKIT (OKIT) is a set of tools for enabling design, deploy and visualise OCI environments through a graphical web based interface.
 - [oracle/oci-grafana-metrics](https://github.com/oracle/oci-grafana-metrics) pushed_at:2022-07 star:0.1k fork:0.0k Grafana datasource plugin for OCI metrics
 - [oracle/offline-persistence-toolkit](https://github.com/oracle/offline-persistence-toolkit) pushed_at:2022-05 star:0.0k fork:0.0k Offline Persistence Toolkit for Javascript Applications
@@ -264,7 +264,7 @@
 
 ## Others
 
-- [oracle/.github](https://github.com/oracle/.github) pushed_at:2022-06 star:0.0k fork:0.0k Default community health files for the Oracle GitHub Organisation (OGHO)
+- [oracle/.github](https://github.com/oracle/.github) pushed_at:2022-07 star:0.0k fork:0.0k Default community health files for the Oracle GitHub Organisation (OGHO)
 - [oracle/apex](https://github.com/oracle/apex) pushed_at:2022-06 star:0.2k fork:0.1k Official Oracle APEX repo for sample code, starter apps, plug-ins, and more! #orclapex
 - [oracle/binutils-gdb](https://github.com/oracle/binutils-gdb) pushed_at:2022-07 star:0.0k fork:0.0k Unofficial mirror of http://sourceware.org/git/binutils-gdb.git
 - [oracle/chef-samples](https://github.com/oracle/chef-samples) pushed_at:2016-11 star:0.0k fork:0.0k Index of Chef Samples and Cookbooks for Oracle Products published on GitHub
@@ -285,7 +285,7 @@
 
 ## PHP
 
-- [oracle/magento-extension-cx-apps](https://github.com/oracle/magento-extension-cx-apps) pushed_at:2022-05 star:0.0k fork:0.0k Magento extension project for Oracle CX Apps integration with Magento Platform.
+- [oracle/magento-extension-cx-apps](https://github.com/oracle/magento-extension-cx-apps) pushed_at:2022-07 star:0.0k fork:0.0k Magento extension project for Oracle CX Apps integration with Magento Platform.
 
 ## PLSQL
 
