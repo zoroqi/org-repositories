@@ -83,7 +83,7 @@
 
 ## Python
 
-- [sony/ai-research-code](https://github.com/sony/ai-research-code) pushed_at:2022-05 star:0.2k fork:0.0k 
+- [sony/ai-research-code](https://github.com/sony/ai-research-code) pushed_at:2022-07 star:0.2k fork:0.0k 
 - [sony/dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) pushed_at:2022-07 star:0.0k fork:0.0k 
 - [sony/lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) pushed_at:2021-05 star:0.0k fork:0.0k 
 - [sony/model_optimization](https://github.com/sony/model_optimization) pushed_at:2022-07 star:0.1k fork:0.0k Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks.

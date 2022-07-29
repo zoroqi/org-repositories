@@ -23,10 +23,10 @@
 - [HTML](#html) (5)
 - [Java](#java) (163)
 - [JavaScript](#javascript) (61)
-- [JetBrains MPS](#jetbrains-mps) (3)
+- [JetBrains MPS](#jetbrains-mps) (4)
 - [Jinja](#jinja) (1)
 - [Jupyter Notebook](#jupyter-notebook) (1)
-- [Kotlin](#kotlin) (106)
+- [Kotlin](#kotlin) (105)
 - [Nemerle](#nemerle) (1)
 - [Nix](#nix) (1)
 - [Others](#others) (53)
@@ -308,7 +308,7 @@
 - [JetBrains/ReSharperKeymap4IntelliJ](https://github.com/JetBrains/ReSharperKeymap4IntelliJ) pushed_at:2019-09 star:0.0k fork:0.0k ReSharper keymap for IntelliJ-based IDEs
 - [JetBrains/scenebuilder](https://github.com/JetBrains/scenebuilder) pushed_at:2021-03 star:0.0k fork:0.0k Scene Builder is a visual, drag n drop, layout tool for designing JavaFX application user interfaces.
 - [JetBrains/sisu.inject](https://github.com/JetBrains/sisu.inject) pushed_at:2020-12 star:0.0k fork:0.0k Sisu project repository (sisu.inject)
-- [JetBrains/skija](https://github.com/JetBrains/skija) pushed_at:2022-01 star:2.4k fork:0.1k Java bindings for Skia
+- [JetBrains/skija](https://github.com/JetBrains/skija) pushed_at:2022-07 star:2.4k fork:0.1k Java bindings for Skia
 - [JetBrains/spotbugs-intellij-plugin](https://github.com/JetBrains/spotbugs-intellij-plugin) pushed_at:2022-05 star:0.0k fork:0.0k The SpotBugs Plugin for IntelliJ IDEA
 - [JetBrains/tc-sbt-runner](https://github.com/JetBrains/tc-sbt-runner) pushed_at:2022-07 star:0.0k fork:0.0k TeamCity plugin makes SBT runner
 - [JetBrains/tc-vso-rooms](https://github.com/JetBrains/tc-vso-rooms) pushed_at:2017-09 star:0.0k fork:0.0k TeamCity Visual Studio Online Team Rooms notifier
@@ -446,6 +446,7 @@
 
 ## JetBrains MPS
 
+- [JetBrains/fbme](https://github.com/JetBrains/fbme) pushed_at:2022-07 star:0.0k fork:0.0k IDE for IEC 61499 built on top of JetBrains MPS
 - [JetBrains/MPS](https://github.com/JetBrains/MPS) pushed_at:2022-07 star:1.3k fork:0.3k JetBrains Meta programming System
 - [JetBrains/mps-coderules](https://github.com/JetBrains/mps-coderules) pushed_at:2022-07 star:0.0k fork:0.0k Type checking and logical inference for JetBrains MPS
 - [JetBrains/MPS-extensions](https://github.com/JetBrains/MPS-extensions) pushed_at:2022-07 star:0.1k fork:0.0k The MPS extensions aim to ease language development within MPS.
@@ -456,7 +457,7 @@
 
 ## Jupyter Notebook
 
-- [JetBrains/lets-plot-docs](https://github.com/JetBrains/lets-plot-docs) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [JetBrains/lets-plot-docs](https://github.com/JetBrains/lets-plot-docs) pushed_at:2022-07 star:0.0k fork:0.0k 
 
 ## Kotlin
 
@@ -476,7 +477,6 @@
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) pushed_at:2022-07 star:6.4k fork:0.5k Kotlin SQL Framework
 - [JetBrains/exposed-intellij-plugin](https://github.com/JetBrains/exposed-intellij-plugin) pushed_at:2022-02 star:0.0k fork:0.0k Exposed Kotlin ORM framework gradle and intellij plugins
 - [JetBrains/EzArgs](https://github.com/JetBrains/EzArgs) pushed_at:2022-07 star:0.0k fork:0.0k Plugin for Rider for Unreal Engine to pass arguments to C++ run configurations in convenient matter
-- [JetBrains/fbme](https://github.com/JetBrains/fbme) pushed_at:2022-07 star:0.0k fork:0.0k IDE for IEC 61499 built on top of JetBrains MPS
 - [JetBrains/gradle-changelog-plugin](https://github.com/JetBrains/gradle-changelog-plugin) pushed_at:2022-07 star:0.2k fork:0.0k Plugin for parsing and managing the Changelog in a "keep a changelog" style.
 - [JetBrains/gradle-grammar-kit-plugin](https://github.com/JetBrains/gradle-grammar-kit-plugin) pushed_at:2022-07 star:0.1k fork:0.0k Gradle plugin for generating lexers (with JFlex) and BNF parsers (with Grammar-Kit) for IntelliJ language plugins
 - [JetBrains/gradle-intellij-plugin](https://github.com/JetBrains/gradle-intellij-plugin) pushed_at:2022-07 star:1.2k fork:0.3k Gradle plugin for building plugins for IntelliJ-based IDEs
@@ -500,7 +500,7 @@
 - [JetBrains/kannotator](https://github.com/JetBrains/kannotator) pushed_at:2017-08 star:0.0k fork:0.0k This project has been retired
 - [JetBrains/kara](https://github.com/JetBrains/kara) pushed_at:2019-03 star:0.1k fork:0.0k A web development framework written Kotlin
 - [JetBrains/kotless](https://github.com/JetBrains/kotless) pushed_at:2022-06 star:1.0k fork:0.1k Kotlin Serverless Framework
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) pushed_at:2022-07 star:42.1k fork:5.2k The Kotlin Programming Language. 
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) pushed_at:2022-07 star:42.2k fork:5.2k The Kotlin Programming Language. 
 - [JetBrains/kotlin-build-jps](https://github.com/JetBrains/kotlin-build-jps) pushed_at:2022-06 star:0.0k fork:0.0k Kotlin JPS build configuration
 - [JetBrains/kotlin-eclipse](https://github.com/JetBrains/kotlin-eclipse) pushed_at:2022-07 star:0.2k fork:0.1k Kotlin Plugin for Eclipse
 - [JetBrains/kotlin-js-demo-1.3.50](https://github.com/JetBrains/kotlin-js-demo-1.3.50) pushed_at:2019-12 star:0.0k fork:0.0k Kotlin/JS with dukat and Type Script
@@ -531,7 +531,7 @@
 - [JetBrains/rsynk](https://github.com/JetBrains/rsynk) pushed_at:2019-05 star:0.0k fork:0.0k rsync ssh server for JVM in Kotlin
 - [JetBrains/ruby-type-inference](https://github.com/JetBrains/ruby-type-inference) pushed_at:2020-01 star:0.1k fork:0.0k Dynamic definitions and types provider for ruby static analysis
 - [JetBrains/skiko](https://github.com/JetBrains/skiko) pushed_at:2022-07 star:0.9k fork:0.1k Kotlin MPP bindings to Skia
-- [JetBrains/space-app-tutorials](https://github.com/JetBrains/space-app-tutorials) pushed_at:2022-05 star:0.0k fork:0.0k 
+- [JetBrains/space-app-tutorials](https://github.com/JetBrains/space-app-tutorials) pushed_at:2022-07 star:0.0k fork:0.0k 
 - [JetBrains/space-issues-import](https://github.com/JetBrains/space-issues-import) pushed_at:2021-11 star:0.0k fork:0.0k Import issues into JetBrains Space 🚀
 - [JetBrains/space-kotlin-sdk](https://github.com/JetBrains/space-kotlin-sdk) pushed_at:2022-07 star:0.0k fork:0.0k Kotlin client for JetBrains Space HTTP API
 - [JetBrains/space-slack-channel-sync](https://github.com/JetBrains/space-slack-channel-sync) pushed_at:2022-07 star:0.0k fork:0.0k 
@@ -607,7 +607,7 @@
 - [JetBrains/php-timeline](https://github.com/JetBrains/php-timeline) pushed_at:2021-06 star:0.2k fork:0.0k Notable events of PHP history
 - [JetBrains/Qodana](https://github.com/JetBrains/Qodana) pushed_at:2022-07 star:0.4k fork:0.0k 📝 Source repository of Qodana Help
 - [JetBrains/qodana-license-audit-action](https://github.com/JetBrains/qodana-license-audit-action) pushed_at:2022-04 star:0.0k fork:0.0k Qodana License Audit is a tool that's designed to help software projects avoid problems with incompatible third-party license
-- [JetBrains/qodana-profiles](https://github.com/JetBrains/qodana-profiles) pushed_at:2022-06 star:0.0k fork:0.0k 🧰 Code inspection profiles used in Qodana linters
+- [JetBrains/qodana-profiles](https://github.com/JetBrains/qodana-profiles) pushed_at:2022-07 star:0.0k fork:0.0k 🧰 Code inspection profiles used in Qodana linters
 - [JetBrains/reading-club](https://github.com/JetBrains/reading-club) pushed_at:2022-03 star:0.0k fork:0.0k Open paper reading club @ JetBrains
 - [JetBrains/resharper-devguide](https://github.com/JetBrains/resharper-devguide) pushed_at:2022-07 star:0.1k fork:0.0k Developer guide for the ReSharper Platform
 - [JetBrains/resharper-phantomjs](https://github.com/JetBrains/resharper-phantomjs) pushed_at:2017-08 star:0.0k fork:0.0k ReSharper extension to automatically configure PhantomJS
@@ -660,7 +660,7 @@
 - [JetBrains/qodana-clone-finder-action](https://github.com/JetBrains/qodana-clone-finder-action) pushed_at:2021-05 star:0.0k fork:0.0k Qodana Clone Finder is aimed to prevent problems rather than face them and, supporting integration into CI pipelines, allows to make finding clones a routine check and detect borrowed code as early as possible.
 - [JetBrains/rider-theme-pack](https://github.com/JetBrains/rider-theme-pack) pushed_at:2022-07 star:0.0k fork:0.0k JetBrains Rider theme pack.
 - [JetBrains/skia-build](https://github.com/JetBrains/skia-build) pushed_at:2022-03 star:0.0k fork:0.0k 
-- [JetBrains/skia-pack](https://github.com/JetBrains/skia-pack) pushed_at:2022-04 star:0.0k fork:0.0k Packing Skia builds 
+- [JetBrains/skia-pack](https://github.com/JetBrains/skia-pack) pushed_at:2022-07 star:0.0k fork:0.0k Packing Skia builds 
 - [JetBrains/teamcity-messages](https://github.com/JetBrains/teamcity-messages) pushed_at:2022-02 star:0.1k fork:0.1k Python Unit Test Reporting to TeamCity
 - [JetBrains/typeshed](https://github.com/JetBrains/typeshed) pushed_at:2022-03 star:0.0k fork:0.0k Collection of library stubs for Python, with static types
 - [JetBrains/youtrack-python-scripts](https://github.com/JetBrains/youtrack-python-scripts) pushed_at:2021-06 star:0.0k fork:0.0k YouTrack import and utility scripts
@@ -676,7 +676,7 @@
 - [JetBrains/homebrew-utils](https://github.com/JetBrains/homebrew-utils) pushed_at:2022-06 star:0.0k fork:0.0k 
 - [JetBrains/ide-features-trainer](https://github.com/JetBrains/ide-features-trainer) pushed_at:2020-06 star:0.0k fork:0.0k This IntelliJ IDEA plugin helps use IDE effectively
 - [JetBrains/intellij-coffee-script-debugger](https://github.com/JetBrains/intellij-coffee-script-debugger) pushed_at:2017-11 star:0.0k fork:0.0k 
-- [JetBrains/sample_rails_app](https://github.com/JetBrains/sample_rails_app) pushed_at:2022-01 star:0.0k fork:0.1k The main sample app for the Ruby on Rails Tutorial, 6th Edition
+- [JetBrains/sample_rails_app](https://github.com/JetBrains/sample_rails_app) pushed_at:2022-07 star:0.0k fork:0.1k The main sample app for the Ruby on Rails Tutorial, 6th Edition
 - [JetBrains/sdkdocs-template](https://github.com/JetBrains/sdkdocs-template) pushed_at:2020-05 star:0.0k fork:0.0k Template to make it easy to set up and maintain SDK documentation sites
 - [JetBrains/youtrack-rest-ruby-library](https://github.com/JetBrains/youtrack-rest-ruby-library) pushed_at:2017-10 star:0.0k fork:0.0k Ruby wrapper around YouTrack REST api 
 - [JetBrains/youtrack-vcs-hooks](https://github.com/JetBrains/youtrack-vcs-hooks) pushed_at:2017-10 star:0.0k fork:0.0k version control hooks to use with YouTrack bug tracker

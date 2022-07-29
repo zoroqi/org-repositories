@@ -258,7 +258,7 @@
 - [microsoftgraph/msgraph-sdk-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) pushed_at:2022-07 star:0.4k fork:0.1k Powershell SDK for Microsoft Graph
 - [microsoftgraph/msgraph-typescript-typings](https://github.com/microsoftgraph/msgraph-typescript-typings) pushed_at:2022-07 star:0.1k fork:0.0k Microsoft Graph TypeScript Type Definitions
 - [microsoftgraph/powershell-aad-samples](https://github.com/microsoftgraph/powershell-aad-samples) pushed_at:2021-04 star:0.0k fork:0.0k 
-- [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) pushed_at:2022-07 star:0.8k fork:0.5k This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
+- [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) pushed_at:2022-07 star:0.9k fork:0.5k This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
 
 ## Python
 
@@ -283,7 +283,7 @@
 
 ## Scala
 
-- [microsoftgraph/dataconnect-solutions](https://github.com/microsoftgraph/dataconnect-solutions) pushed_at:2022-05 star:0.0k fork:0.0k Microsoft Graph Data Connect enables scaled access to Microsoft 365 data with fine grained consent model, integrated with compliance and governance, to enable analytics and big data applications on the largest productivity platform.  
+- [microsoftgraph/dataconnect-solutions](https://github.com/microsoftgraph/dataconnect-solutions) pushed_at:2022-07 star:0.0k fork:0.0k Microsoft Graph Data Connect enables scaled access to Microsoft 365 data with fine grained consent model, integrated with compliance and governance, to enable analytics and big data applications on the largest productivity platform.  
 
 ## Swift
 

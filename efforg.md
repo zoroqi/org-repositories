@@ -60,7 +60,7 @@
 ## HTML
 
 - [EFForg/hugo-book](https://github.com/EFForg/hugo-book) pushed_at:2020-08 star:0.0k fork:0.0k Hugo documentation theme as simple as plain book
-- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) pushed_at:2021-11 star:0.0k fork:0.0k Test fixtures for Privacy Badger
+- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) pushed_at:2022-07 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/privacybadger-test-fixtures-alt](https://github.com/EFForg/privacybadger-test-fixtures-alt) pushed_at:2022-05 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/sas](https://github.com/EFForg/sas) pushed_at:2017-05 star:0.0k fork:0.0k Stand Against Spying
 - [EFForg/stopwatchingus](https://github.com/EFForg/stopwatchingus) pushed_at:2016-02 star:0.0k fork:0.0k StopWatching.us Site

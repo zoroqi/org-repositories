@@ -45,7 +45,7 @@
 - [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) pushed_at:2022-07 star:0.2k fork:0.1k Working draft of the proposed RISC-V Bitmanipulation extension
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) pushed_at:2022-01 star:0.1k fork:0.0k Working Draft of the RISC-V J Extension Specification
 - [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2022-04 star:0.1k fork:0.0k RISC-V Profiles and Platform Specification
-- [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) pushed_at:2022-06 star:0.0k fork:0.0k RISC-V Architecture Profiles
+- [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) pushed_at:2022-07 star:0.0k fork:0.0k RISC-V Architecture Profiles
 - [riscv/riscv-semihosting-spec](https://github.com/riscv/riscv-semihosting-spec) pushed_at:2022-07 star:0.0k fork:0.0k 
 - [riscv/riscv-tee](https://github.com/riscv/riscv-tee) pushed_at:2022-06 star:0.0k fork:0.0k 
 
@@ -70,9 +70,9 @@
 
 ## TeX
 
-- [riscv/docs-dev-guide](https://github.com/riscv/docs-dev-guide) pushed_at:2022-05 star:0.0k fork:0.0k Documentation developer guide
+- [riscv/docs-dev-guide](https://github.com/riscv/docs-dev-guide) pushed_at:2022-07 star:0.0k fork:0.0k Documentation developer guide
 - [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) pushed_at:2022-06 star:0.0k fork:0.0k 
-- [riscv/riscv-bfloat16](https://github.com/riscv/riscv-bfloat16) pushed_at:2022-05 star:0.0k fork:0.0k 
+- [riscv/riscv-bfloat16](https://github.com/riscv/riscv-bfloat16) pushed_at:2022-07 star:0.0k fork:0.0k 
 - [riscv/riscv-cfi](https://github.com/riscv/riscv-cfi) pushed_at:2022-06 star:0.0k fork:0.0k This repo holds the work area and revisions of the RISC-V CFI (Shadow Stack and Landing Pads) specifications. CFI defines the privileged and unprivileged ISA extensions that can be used by privileged and unprivileged programs to protect the integrity of their control-flow.
 - [riscv/riscv-count-overflow](https://github.com/riscv/riscv-count-overflow) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) pushed_at:2022-07 star:0.3k fork:0.1k Working Draft of the RISC-V Debug Specification Standard

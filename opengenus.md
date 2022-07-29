@@ -21,7 +21,7 @@
 
 ## C++
 
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) pushed_at:2022-05 star:13.0k fork:3.4k Hacktoberfest 2021 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) pushed_at:2022-05 star:13.1k fork:3.4k Hacktoberfest 2021 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) pushed_at:2022-06 star:0.6k fork:0.1k Stay happy while offline | World's first offline search engine. 
 
 ## CSS
@@ -94,7 +94,7 @@
 - [OpenGenus/android-iq](https://github.com/OpenGenus/android-iq) pushed_at:2018-06 star:0.0k fork:0.0k 
 - [OpenGenus/api_libraries](https://github.com/OpenGenus/api_libraries) pushed_at:2020-09 star:0.0k fork:0.0k 
 - [OpenGenus/article-of-day](https://github.com/OpenGenus/article-of-day) pushed_at:2021-12 star:0.0k fork:0.0k 
-- [OpenGenus/Best-student-discount-services](https://github.com/OpenGenus/Best-student-discount-services) pushed_at:2020-11 star:0.4k fork:0.0k Best student discount services one should definitely try out! Contributions and translations are highly encouraged. 
+- [OpenGenus/Best-student-discount-services](https://github.com/OpenGenus/Best-student-discount-services) pushed_at:2022-07 star:0.4k fork:0.0k Best student discount services one should definitely try out! Contributions and translations are highly encouraged. 
 - [OpenGenus/candle](https://github.com/OpenGenus/candle) pushed_at:2019-02 star:0.0k fork:0.0k 
 - [OpenGenus/chatbot](https://github.com/OpenGenus/chatbot) pushed_at:2020-08 star:0.0k fork:0.0k Developing a basic chatbot using AIML (developed by OpenGenus Intern, Priyanshi Sharma)
 - [OpenGenus/cosmos-engine](https://github.com/OpenGenus/cosmos-engine) pushed_at:2017-12 star:0.0k fork:0.0k The online compiler and debugging tool [WIP]
