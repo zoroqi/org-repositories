@@ -27,7 +27,7 @@
 
 - [baidu/baidu-iot-samples](https://github.com/baidu/baidu-iot-samples) pushed_at:2019-10 star:0.1k fork:0.1k 
 - [baidu/boteye_sensor](https://github.com/baidu/boteye_sensor) pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/dperf](https://github.com/baidu/dperf) pushed_at:2022-07 star:0.9k fork:0.1k dperf is a DPDK based 100Gbps network performance and load testing software.
+- [baidu/dperf](https://github.com/baidu/dperf) pushed_at:2022-07 star:1.0k fork:0.1k dperf is a DPDK based 100Gbps network performance and load testing software.
 - [baidu/du1906_esp](https://github.com/baidu/du1906_esp) pushed_at:2022-06 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
 - [baidu/iot-edge-sdk-for-iot-parser](https://github.com/baidu/iot-edge-sdk-for-iot-parser) pushed_at:2019-02 star:0.1k fork:0.1k 
 - [baidu/iot-sdk-c](https://github.com/baidu/iot-sdk-c) pushed_at:2022-04 star:0.1k fork:0.1k device sdk for baidu IoT Core service, in c. Including MQTT client
@@ -42,7 +42,7 @@
 ## C++
 
 - [baidu/AnyQ](https://github.com/baidu/AnyQ) pushed_at:2020-11 star:2.4k fork:0.6k FAQ-based Question Answering System
-- [baidu/BaikalDB](https://github.com/baidu/BaikalDB) pushed_at:2022-07 star:1.0k fork:0.1k BaikalDB, A Distributed HTAP Database.
+- [baidu/BaikalDB](https://github.com/baidu/BaikalDB) pushed_at:2022-08 star:1.0k fork:0.1k BaikalDB, A Distributed HTAP Database.
 - [baidu/bfs](https://github.com/baidu/bfs) pushed_at:2018-12 star:2.8k fork:0.6k The Baidu File System.
 - [baidu/bigflow](https://github.com/baidu/bigflow) pushed_at:2022-01 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [baidu/boteye](https://github.com/baidu/boteye) pushed_at:2019-04 star:0.2k fork:0.1k 
@@ -124,7 +124,7 @@
 
 ## Kotlin
 
-- [baidu/Rubik](https://github.com/baidu/Rubik) pushed_at:2022-06 star:0.0k fork:0.0k An Android platform component management tool chain, based on Kotlin language.
+- [baidu/Rubik](https://github.com/baidu/Rubik) pushed_at:2022-08 star:0.0k fork:0.0k An Android platform component management tool chain, based on Kotlin language.
 
 ## Others
 
@@ -161,7 +161,7 @@
 
 ## Ruby
 
-- [baidu/m-git](https://github.com/baidu/m-git) pushed_at:2021-08 star:0.1k fork:0.0k MGit 是一款基于 Git 的多仓库管理工具，可以安全的、高效的管理多个 Git 仓库； 适合于在多个仓库中进行关联开发的项目，实现批量的版本管理功能，提高 Git 操作的效率，避免逐个执行 Git 命令带来的误操作风险。
+- [baidu/m-git](https://github.com/baidu/m-git) pushed_at:2021-08 star:0.2k fork:0.0k MGit 是一款基于 Git 的多仓库管理工具，可以安全的、高效的管理多个 Git 仓库； 适合于在多个仓库中进行关联开发的项目，实现批量的版本管理功能，提高 Git 操作的效率，避免逐个执行 Git 命令带来的误操作风险。
 
 ## Swift
 
@@ -169,7 +169,7 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) pushed_at:2022-07 star:11.5k fork:1.6k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) pushed_at:2022-08 star:11.5k fork:1.6k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) pushed_at:2021-09 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) pushed_at:2022-06 star:0.0k fork:0.0k San SSR framework and utils
 
