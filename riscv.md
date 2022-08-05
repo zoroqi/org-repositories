@@ -18,7 +18,7 @@
 
 ## Assembly
 
-- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) pushed_at:2022-07 star:0.1k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
+- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) pushed_at:2022-08 star:0.1k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
 - [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) pushed_at:2022-07 star:0.6k fork:0.2k Working draft of the proposed RISC-V V vector extension
 
 ## BitBake
@@ -27,8 +27,8 @@
 
 ## C
 
-- [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2022-07 star:0.2k fork:0.0k RISC-V cryptography extensions standardisation work.
-- [riscv/riscv-openocd](https://github.com/riscv/riscv-openocd) pushed_at:2022-07 star:0.3k fork:0.2k Fork of OpenOCD that has RISC-V support
+- [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) pushed_at:2022-08 star:0.2k fork:0.0k RISC-V cryptography extensions standardisation work.
+- [riscv/riscv-openocd](https://github.com/riscv/riscv-openocd) pushed_at:2022-08 star:0.3k fork:0.2k Fork of OpenOCD that has RISC-V support
 - [riscv/riscv-test-env](https://github.com/riscv/riscv-test-env) pushed_at:2022-03 star:0.0k fork:0.1k 
 
 ## Coq
@@ -58,7 +58,7 @@
 - [riscv/riscv-alt-fp](https://github.com/riscv/riscv-alt-fp) pushed_at:2022-04 star:0.0k fork:0.0k RISC-V Alternate FP Format
 - [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) pushed_at:2022-03 star:0.1k fork:0.0k RISC-V Packed SIMD Extension
-- [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) pushed_at:2022-07 star:0.1k fork:0.0k PLIC Specification
+- [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) pushed_at:2022-08 star:0.1k fork:0.0k PLIC Specification
 - [riscv/riscv-zfinx](https://github.com/riscv/riscv-zfinx) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [riscv/virtual-memory](https://github.com/riscv/virtual-memory) pushed_at:2021-09 star:0.0k fork:0.0k 
 
@@ -66,7 +66,7 @@
 
 - [riscv/configuration-structure](https://github.com/riscv/configuration-structure) pushed_at:2022-05 star:0.0k fork:0.0k RISC-V Configuration Structure
 - [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) pushed_at:2022-07 star:0.1k fork:0.0k 
-- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) pushed_at:2022-07 star:0.4k fork:0.2k RISC-V Opcodes
+- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) pushed_at:2022-08 star:0.4k fork:0.2k RISC-V Opcodes
 
 ## TeX
 
@@ -83,7 +83,7 @@
 - [riscv/riscv-smbios](https://github.com/riscv/riscv-smbios) pushed_at:2022-06 star:0.0k fork:0.0k RISC-V SMBIOS Type 44 Spec
 - [riscv/riscv-state-enable](https://github.com/riscv/riscv-state-enable) pushed_at:2022-05 star:0.0k fork:0.0k 
 - [riscv/riscv-time-compare](https://github.com/riscv/riscv-time-compare) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [riscv/riscv-zawrs](https://github.com/riscv/riscv-zawrs) pushed_at:2022-06 star:0.0k fork:0.0k The repo will be used to hold the draft Zawrs (fast-track) extension and to make releases for reviews. The Zawrs extension defines a single instruction to be used in polling loops that allows a core to enter a low-power state and wait on either a write to a memory location or other asynchronous system events. It addresses common use-cases in operating systems when waiting for contended locks or for completion events signaled by external I/O agents, accelerators, and other peripherals.
+- [riscv/riscv-zawrs](https://github.com/riscv/riscv-zawrs) pushed_at:2022-08 star:0.0k fork:0.0k The repo will be used to hold the draft Zawrs (fast-track) extension and to make releases for reviews. 
 
 
 ## License
