@@ -45,7 +45,7 @@
 
 ## Dart
 
-- [sony/flutter-elinux](https://github.com/sony/flutter-elinux) pushed_at:2022-07 star:0.1k fork:0.0k Flutter tools for embedded Linux (eLinux)
+- [sony/flutter-elinux](https://github.com/sony/flutter-elinux) pushed_at:2022-08 star:0.1k fork:0.0k Flutter tools for embedded Linux (eLinux)
 
 ## Go
 
@@ -92,7 +92,7 @@
 - [sony/nnabla-examples](https://github.com/sony/nnabla-examples) pushed_at:2022-08 star:0.2k fork:0.1k Neural Network Libraries https://nnabla.org/ - Examples
 - [sony/nnabla-nas](https://github.com/sony/nnabla-nas) pushed_at:2022-08 star:0.0k fork:0.0k Neural Architecture Search for Neural Network Libraries
 - [sony/nnabla-rl](https://github.com/sony/nnabla-rl) pushed_at:2022-07 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
-- [sony/nnc-plugin](https://github.com/sony/nnc-plugin) pushed_at:2022-06 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
+- [sony/nnc-plugin](https://github.com/sony/nnc-plugin) pushed_at:2022-08 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
 - [sony/pyIEOE](https://github.com/sony/pyIEOE) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [sony/sqvae](https://github.com/sony/sqvae) pushed_at:2022-07 star:0.1k fork:0.0k Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE)
 

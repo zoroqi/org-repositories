@@ -174,8 +174,8 @@
 - [uber/hypothesis-gufunc](https://github.com/uber/hypothesis-gufunc) pushed_at:2021-03 star:0.0k fork:0.0k Extension to hypothesis for testing numpy general universal functions
 - [uber/multidimensional_urlencode](https://github.com/uber/multidimensional_urlencode) pushed_at:2019-07 star:0.1k fork:0.0k Python library to urlencode a multidimensional dict
 - [uber/mutornadomon](https://github.com/uber/mutornadomon) pushed_at:2019-10 star:0.0k fork:0.0k Easy-to-install monitor endpoint for Tornado applications
-- [uber/orbit](https://github.com/uber/orbit) pushed_at:2022-07 star:1.4k fork:0.1k A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
-- [uber/petastorm](https://github.com/uber/petastorm) pushed_at:2022-07 star:1.5k fork:0.3k Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
+- [uber/orbit](https://github.com/uber/orbit) pushed_at:2022-08 star:1.5k fork:0.1k A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
+- [uber/petastorm](https://github.com/uber/petastorm) pushed_at:2022-08 star:1.5k fork:0.3k Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
 - [uber/py-find-injection](https://github.com/uber/py-find-injection) pushed_at:2019-03 star:0.1k fork:0.0k Look for SQL injection attacks in python source code
 - [uber/py-look-for-timeouts](https://github.com/uber/py-look-for-timeouts) pushed_at:2020-03 star:0.0k fork:0.0k Scan for missing timeout calls in python source files
 - [uber/pymegacli](https://github.com/uber/pymegacli) pushed_at:2019-03 star:0.0k fork:0.0k Python API wrapper around MegaCli64
@@ -220,8 +220,8 @@
 ## TypeScript
 
 - [uber/base-design-docs](https://github.com/uber/base-design-docs) pushed_at:2022-07 star:0.0k fork:0.0k A documentation site for the Base design system.
-- [uber/baseweb](https://github.com/uber/baseweb) pushed_at:2022-08 star:7.9k fork:0.7k A React Component library implementing the Base design language
-- [uber/nebula.gl](https://github.com/uber/nebula.gl) pushed_at:2022-07 star:0.5k fork:0.1k A suite of 3D-enabled data editing overlays, suitable for deck.gl
+- [uber/baseweb](https://github.com/uber/baseweb) pushed_at:2022-08 star:7.9k fork:0.8k A React Component library implementing the Base design language
+- [uber/nebula.gl](https://github.com/uber/nebula.gl) pushed_at:2022-08 star:0.5k fork:0.1k A suite of 3D-enabled data editing overlays, suitable for deck.gl
 - [uber/react-view](https://github.com/uber/react-view) pushed_at:2022-07 star:0.6k fork:0.0k React View is an interactive playground, documentation and code generator for your components.
 
 ## Vue

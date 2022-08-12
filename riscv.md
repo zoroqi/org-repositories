@@ -19,11 +19,11 @@
 ## Assembly
 
 - [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) pushed_at:2022-08 star:0.1k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
-- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) pushed_at:2022-07 star:0.6k fork:0.2k Working draft of the proposed RISC-V V vector extension
+- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) pushed_at:2022-08 star:0.6k fork:0.2k Working draft of the proposed RISC-V V vector extension
 
 ## BitBake
 
-- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) pushed_at:2022-07 star:0.2k fork:0.1k OpenEmbedded/Yocto layer for RISC-V Architecture
+- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) pushed_at:2022-08 star:0.2k fork:0.1k OpenEmbedded/Yocto layer for RISC-V Architecture
 
 ## C
 
@@ -33,7 +33,7 @@
 
 ## Coq
 
-- [riscv/sail-riscv](https://github.com/riscv/sail-riscv) pushed_at:2022-07 star:0.2k fork:0.1k Sail RISC-V model
+- [riscv/sail-riscv](https://github.com/riscv/sail-riscv) pushed_at:2022-08 star:0.2k fork:0.1k Sail RISC-V model
 
 ## HTML
 
@@ -47,14 +47,14 @@
 - [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) pushed_at:2022-04 star:0.1k fork:0.0k RISC-V Profiles and Platform Specification
 - [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) pushed_at:2022-07 star:0.0k fork:0.0k RISC-V Architecture Profiles
 - [riscv/riscv-semihosting-spec](https://github.com/riscv/riscv-semihosting-spec) pushed_at:2022-07 star:0.0k fork:0.0k 
-- [riscv/riscv-tee](https://github.com/riscv/riscv-tee) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [riscv/riscv-tee](https://github.com/riscv/riscv-tee) pushed_at:2022-08 star:0.0k fork:0.0k 
 
 ## Others
 
 - [riscv/.github](https://github.com/riscv/.github) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [riscv/docs-resources](https://github.com/riscv/docs-resources) pushed_at:2022-01 star:0.0k fork:0.0k 
 - [riscv/genz-on-riscv](https://github.com/riscv/genz-on-riscv) pushed_at:2019-04 star:0.0k fork:0.0k 
-- [riscv/riscv-aia](https://github.com/riscv/riscv-aia) pushed_at:2022-06 star:0.0k fork:0.0k 
+- [riscv/riscv-aia](https://github.com/riscv/riscv-aia) pushed_at:2022-08 star:0.0k fork:0.0k 
 - [riscv/riscv-alt-fp](https://github.com/riscv/riscv-alt-fp) pushed_at:2022-04 star:0.0k fork:0.0k RISC-V Alternate FP Format
 - [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) pushed_at:2021-09 star:0.0k fork:0.0k 
 - [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) pushed_at:2022-03 star:0.1k fork:0.0k RISC-V Packed SIMD Extension
@@ -76,7 +76,7 @@
 - [riscv/riscv-cfi](https://github.com/riscv/riscv-cfi) pushed_at:2022-06 star:0.0k fork:0.0k This repo holds the work area and revisions of the RISC-V CFI (Shadow Stack and Landing Pads) specifications. CFI defines the privileged and unprivileged ISA extensions that can be used by privileged and unprivileged programs to protect the integrity of their control-flow.
 - [riscv/riscv-count-overflow](https://github.com/riscv/riscv-count-overflow) pushed_at:2022-02 star:0.0k fork:0.0k 
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) pushed_at:2022-07 star:0.3k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
-- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2022-07 star:2.1k fork:0.4k RISC-V Instruction Set Manual
+- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) pushed_at:2022-08 star:2.1k fork:0.4k RISC-V Instruction Set Manual
 - [riscv/riscv-qosid](https://github.com/riscv/riscv-qosid) pushed_at:2022-07 star:0.0k fork:0.0k This repo will hold the specification for the proposed QoS ID extension being pursued on the fast-track process.
 - [riscv/riscv-ras-eri](https://github.com/riscv/riscv-ras-eri) pushed_at:2022-06 star:0.0k fork:0.0k The (RAS Error-record Register Interface) RERI provides a specification to augment RAS features in RISC-V SOC hardware to standardize reporting and logging of errors by means of a memory-mapped register interface to enable error detection, provide the facility to log the detected errors (including their severity, nature, and location), and configuring means to report the error to a handler component.
 - [riscv/riscv-ras-terms-defs](https://github.com/riscv/riscv-ras-terms-defs) pushed_at:2022-06 star:0.0k fork:0.0k The RAS Terms & Definitions specification define the terms and definitions for physical mechanisms starting from common ones from research and development to adapting the terms as needed.
