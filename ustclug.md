@@ -36,7 +36,7 @@
 
 ## HTML
 
-- [ustclug/hackergame2019-writeups](https://github.com/ustclug/hackergame2019-writeups) pushed_at:2020-07 star:0.3k fork:0.1k Write-ups for hackergame 2019
+- [ustclug/hackergame2019-writeups](https://github.com/ustclug/hackergame2019-writeups) pushed_at:2020-07 star:0.3k fork:0.0k Write-ups for hackergame 2019
 - [ustclug/mirrors-index](https://github.com/ustclug/mirrors-index) pushed_at:2018-05 star:0.0k fork:0.0k Go https://git.lug.ustc.edu.cn/mirrors/mirrors-index for latest version
 - [ustclug/news](https://github.com/ustclug/news) pushed_at:2020-08 star:0.0k fork:0.0k USTC LUG 新闻站
 - [ustclug/qtguide](https://github.com/ustclug/qtguide) pushed_at:2022-05 star:0.1k fork:0.0k Qt Programming Guide
@@ -58,7 +58,7 @@
 
 - [ustclug/blogs](https://github.com/ustclug/blogs) pushed_at:2022-07 star:0.0k fork:0.0k USTCLUG 同学们的博客列表
 - [ustclug/discussions](https://github.com/ustclug/discussions) pushed_at:2020-11 star:0.0k fork:0.0k Issue Tracker for USTC LUG
-- [ustclug/documentations](https://github.com/ustclug/documentations) pushed_at:2022-07 star:0.0k fork:0.0k LUG @ USTC General Documentation
+- [ustclug/documentations](https://github.com/ustclug/documentations) pushed_at:2022-08 star:0.0k fork:0.0k LUG @ USTC General Documentation
 - [ustclug/hackergame2020-writeups](https://github.com/ustclug/hackergame2020-writeups) pushed_at:2020-11 star:0.0k fork:0.0k 
 - [ustclug/lug-stickers](https://github.com/ustclug/lug-stickers) pushed_at:2019-05 star:0.0k fork:0.0k 
 - [ustclug/mirrorrequest](https://github.com/ustclug/mirrorrequest) pushed_at:2022-02 star:0.4k fork:0.0k 通过 issue 为中国科大开源镜像站（mirrors.ustc.edu.cn）提交新的镜像申请~
@@ -70,11 +70,11 @@
 
 ## Python
 
-- [ustclug/hackergame](https://github.com/ustclug/hackergame) pushed_at:2022-07 star:0.0k fork:0.0k Hackergame platform for 2018 and beyond
+- [ustclug/hackergame](https://github.com/ustclug/hackergame) pushed_at:2022-08 star:0.0k fork:0.0k Hackergame platform for 2018 and beyond
 - [ustclug/hackergame2017](https://github.com/ustclug/hackergame2017) pushed_at:2017-10 star:0.0k fork:0.0k 
 - [ustclug/library](https://github.com/ustclug/library) pushed_at:2017-11 star:0.0k fork:0.0k LUG Library
 - [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) pushed_at:2021-12 star:0.0k fork:0.0k LUG VPN 申请系统
-- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2022-07 star:0.4k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
+- [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) pushed_at:2022-08 star:0.4k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
 - [ustclug/website-static](https://github.com/ustclug/website-static) pushed_at:2021-06 star:0.0k fork:0.0k Hosting static content (image/assets) for LUG website
 
 ## Rust
