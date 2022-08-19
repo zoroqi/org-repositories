@@ -46,1018 +46,1018 @@
 
 ## Batchfile
 
-- [opencollective/Python-Guide-CN](https://github.com/opencollective/Python-Guide-CN) pushed_at:2018-09 star:0.0k fork:0.0k Python最佳实践指南
+- [opencollective/Python-Guide-CN](https://github.com/opencollective/Python-Guide-CN) topic: pushed_at:2018-09 star:0.0k fork:0.0k Python最佳实践指南
 
 ## C
 
-- [opencollective/kcp](https://github.com/opencollective/kcp) pushed_at:2019-02 star:0.0k fork:0.0k KCP - A Fast and Reliable ARQ Protocol
-- [opencollective/libplacebo](https://github.com/opencollective/libplacebo) pushed_at:2019-02 star:0.0k fork:0.0k Official mirror of libplacebo
-- [opencollective/pure-ftpd](https://github.com/opencollective/pure-ftpd) pushed_at:2019-07 star:0.0k fork:0.0k Pure FTP server
-- [opencollective/xmake](https://github.com/opencollective/xmake) pushed_at:2017-07 star:0.0k fork:0.0k :beer: A make-like build utility based on Lua
-- [opencollective/xpadneo](https://github.com/opencollective/xpadneo) pushed_at:2019-01 star:0.0k fork:0.0k Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)
+- [opencollective/kcp](https://github.com/opencollective/kcp) topic: pushed_at:2019-02 star:0.0k fork:0.0k KCP - A Fast and Reliable ARQ Protocol
+- [opencollective/libplacebo](https://github.com/opencollective/libplacebo) topic: pushed_at:2019-02 star:0.0k fork:0.0k Official mirror of libplacebo
+- [opencollective/pure-ftpd](https://github.com/opencollective/pure-ftpd) topic: pushed_at:2019-07 star:0.0k fork:0.0k Pure FTP server
+- [opencollective/xmake](https://github.com/opencollective/xmake) topic: pushed_at:2017-07 star:0.0k fork:0.0k :beer: A make-like build utility based on Lua
+- [opencollective/xpadneo](https://github.com/opencollective/xpadneo) topic: pushed_at:2019-01 star:0.0k fork:0.0k Advanced Linux Driver for Xbox One Wireless Controller (shipped with Xbox One S)
 
 ## C#
 
-- [opencollective/ApprovalTests.Net](https://github.com/opencollective/ApprovalTests.Net) pushed_at:2019-02 star:0.0k fork:0.0k ApprovalTest verification library for .Net
-- [opencollective/Audit.NET](https://github.com/opencollective/Audit.NET) pushed_at:2018-01 star:0.0k fork:0.0k An extensible framework to audit executing operations in .NET and .NET Core.
-- [opencollective/Awesome-CMS-Core](https://github.com/opencollective/Awesome-CMS-Core) pushed_at:2019-04 star:0.0k fork:0.0k Awesome CMS Core is an open source CMS built using ASP.Net Core & ReactJS with module seperation concern in mind and provide lastest trend of technology like .Net Core, React, Webpack, SASS, Background Job, Message Queue.
-- [opencollective/BreadPlayer](https://github.com/opencollective/BreadPlayer) pushed_at:2017-10 star:0.0k fork:0.0k Bread Player, a free and open source music player powered by UWP and C#/.NET with a sleek and polished design built for, and by, the people seeking a better alternative to Groove and Windows Media Player by Microsoft.
-- [opencollective/CsvHelper](https://github.com/opencollective/CsvHelper) pushed_at:2018-12 star:0.0k fork:0.0k Library to help reading and writing CSV files
-- [opencollective/duplicati](https://github.com/opencollective/duplicati) pushed_at:2017-09 star:0.0k fork:0.0k Store securely encrypted backups in the cloud!
-- [opencollective/GeoJSON.Net](https://github.com/opencollective/GeoJSON.Net) pushed_at:2019-04 star:0.0k fork:0.0k .Net library for GeoJSON types & corresponding Json.Net (de)serializers
-- [opencollective/graphql-dotnet](https://github.com/opencollective/graphql-dotnet) pushed_at:2020-10 star:0.0k fork:0.0k GraphQL for .NET
-- [opencollective/GraphQL.EntityFramework](https://github.com/opencollective/GraphQL.EntityFramework) pushed_at:2019-04 star:0.0k fork:0.0k Adds EntityFramework Core IQueryable support to GraphQL
-- [opencollective/greenshot](https://github.com/opencollective/greenshot) pushed_at:2019-04 star:0.0k fork:0.0k Greenshot repository, use our JIRA for none development / source related bugs: https://greenshot.atlassian.net or look for information on:
-- [opencollective/ImageGlass](https://github.com/opencollective/ImageGlass) pushed_at:2017-12 star:0.0k fork:0.0k A lightweight, versatile image viewer
-- [opencollective/jellyfin](https://github.com/opencollective/jellyfin) pushed_at:2018-12 star:0.0k fork:0.0k The Free Software Media Browser
-- [opencollective/MahApps.Metro](https://github.com/opencollective/MahApps.Metro) pushed_at:2019-01 star:0.0k fork:0.0k A framework that allows developers to cobble together a Metro or Modern UI for their own WPF applications with minimal effort.
-- [opencollective/MailChimp.Net](https://github.com/opencollective/MailChimp.Net) pushed_at:2019-04 star:0.0k fork:0.0k Mail Chimp 3.0 Wrapper
-- [opencollective/MaterialDesignInXamlToolkit](https://github.com/opencollective/MaterialDesignInXamlToolkit) pushed_at:2019-06 star:0.0k fork:0.0k Google's Material Design in XAML & WPF, for C# & VB.Net. 
-- [opencollective/NSwag](https://github.com/opencollective/NSwag) pushed_at:2018-12 star:0.0k fork:0.0k The Swagger/OpenAPI toolchain for .NET, Web API and TypeScript. 
-- [opencollective/Orchestra](https://github.com/opencollective/Orchestra) pushed_at:2019-07 star:0.0k fork:0.0k Orchestra is a composable shell and WPF framework built on top of Catel
-- [opencollective/peachpie](https://github.com/opencollective/peachpie) pushed_at:2019-07 star:0.0k fork:0.0k PeachPie - the PHP compiler and runtime for .NET and .NET Core
-- [opencollective/zipstorer](https://github.com/opencollective/zipstorer) pushed_at:2019-07 star:0.0k fork:0.0k A Pure C# Class to Store Files in Zip
+- [opencollective/ApprovalTests.Net](https://github.com/opencollective/ApprovalTests.Net) topic: pushed_at:2019-02 star:0.0k fork:0.0k ApprovalTest verification library for .Net
+- [opencollective/Audit.NET](https://github.com/opencollective/Audit.NET) topic: pushed_at:2018-01 star:0.0k fork:0.0k An extensible framework to audit executing operations in .NET and .NET Core.
+- [opencollective/Awesome-CMS-Core](https://github.com/opencollective/Awesome-CMS-Core) topic: pushed_at:2019-04 star:0.0k fork:0.0k Awesome CMS Core is an open source CMS built using ASP.Net Core & ReactJS with module seperation concern in mind and provide lastest trend of technology like .Net Core, React, Webpack, SASS, Background Job, Message Queue.
+- [opencollective/BreadPlayer](https://github.com/opencollective/BreadPlayer) topic: pushed_at:2017-10 star:0.0k fork:0.0k Bread Player, a free and open source music player powered by UWP and C#/.NET with a sleek and polished design built for, and by, the people seeking a better alternative to Groove and Windows Media Player by Microsoft.
+- [opencollective/CsvHelper](https://github.com/opencollective/CsvHelper) topic: pushed_at:2018-12 star:0.0k fork:0.0k Library to help reading and writing CSV files
+- [opencollective/duplicati](https://github.com/opencollective/duplicati) topic: pushed_at:2017-09 star:0.0k fork:0.0k Store securely encrypted backups in the cloud!
+- [opencollective/GeoJSON.Net](https://github.com/opencollective/GeoJSON.Net) topic: pushed_at:2019-04 star:0.0k fork:0.0k .Net library for GeoJSON types & corresponding Json.Net (de)serializers
+- [opencollective/graphql-dotnet](https://github.com/opencollective/graphql-dotnet) topic: pushed_at:2020-10 star:0.0k fork:0.0k GraphQL for .NET
+- [opencollective/GraphQL.EntityFramework](https://github.com/opencollective/GraphQL.EntityFramework) topic: pushed_at:2019-04 star:0.0k fork:0.0k Adds EntityFramework Core IQueryable support to GraphQL
+- [opencollective/greenshot](https://github.com/opencollective/greenshot) topic: pushed_at:2019-04 star:0.0k fork:0.0k Greenshot repository, use our JIRA for none development / source related bugs: https://greenshot.atlassian.net or look for information on:
+- [opencollective/ImageGlass](https://github.com/opencollective/ImageGlass) topic: pushed_at:2017-12 star:0.0k fork:0.0k A lightweight, versatile image viewer
+- [opencollective/jellyfin](https://github.com/opencollective/jellyfin) topic: pushed_at:2018-12 star:0.0k fork:0.0k The Free Software Media Browser
+- [opencollective/MahApps.Metro](https://github.com/opencollective/MahApps.Metro) topic: pushed_at:2019-01 star:0.0k fork:0.0k A framework that allows developers to cobble together a Metro or Modern UI for their own WPF applications with minimal effort.
+- [opencollective/MailChimp.Net](https://github.com/opencollective/MailChimp.Net) topic: pushed_at:2019-04 star:0.0k fork:0.0k Mail Chimp 3.0 Wrapper
+- [opencollective/MaterialDesignInXamlToolkit](https://github.com/opencollective/MaterialDesignInXamlToolkit) topic: pushed_at:2019-06 star:0.0k fork:0.0k Google's Material Design in XAML & WPF, for C# & VB.Net. 
+- [opencollective/NSwag](https://github.com/opencollective/NSwag) topic: pushed_at:2018-12 star:0.0k fork:0.0k The Swagger/OpenAPI toolchain for .NET, Web API and TypeScript. 
+- [opencollective/Orchestra](https://github.com/opencollective/Orchestra) topic: pushed_at:2019-07 star:0.0k fork:0.0k Orchestra is a composable shell and WPF framework built on top of Catel
+- [opencollective/peachpie](https://github.com/opencollective/peachpie) topic: pushed_at:2019-07 star:0.0k fork:0.0k PeachPie - the PHP compiler and runtime for .NET and .NET Core
+- [opencollective/zipstorer](https://github.com/opencollective/zipstorer) topic: pushed_at:2019-07 star:0.0k fork:0.0k A Pure C# Class to Store Files in Zip
 
 ## C++
 
-- [opencollective/azerothcore-wotlk](https://github.com/opencollective/azerothcore-wotlk) pushed_at:2019-04 star:0.0k fork:0.0k AzerothCore - MMORPG Server. Based on MaNGOS -> TrinityCore -> SunwellCore
-- [opencollective/CameraKit-Android](https://github.com/opencollective/CameraKit-Android) pushed_at:2017-11 star:0.0k fork:0.0k One of the hardest Android APIs made into a high level and easy to use library that solves all of your problems.
-- [opencollective/easy_profiler](https://github.com/opencollective/easy_profiler) pushed_at:2021-09 star:0.0k fork:0.0k Lightweight profiler library for c++
-- [opencollective/fluffos](https://github.com/opencollective/fluffos) pushed_at:2019-01 star:0.0k fork:0.0k Actively maintained MudOS descendant driver (LPC interpreter, LPMUD game driver)
-- [opencollective/projectm](https://github.com/opencollective/projectm) pushed_at:2018-12 star:0.0k fork:0.0k projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
-- [opencollective/stellarium](https://github.com/opencollective/stellarium) pushed_at:2019-03 star:0.0k fork:0.0k Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
-- [opencollective/vsc-material-theme](https://github.com/opencollective/vsc-material-theme) pushed_at:2017-11 star:0.0k fork:0.0k Material Theme, the most epic theme for Visual Studio Code
-- [opencollective/xgboost](https://github.com/opencollective/xgboost) pushed_at:2019-03 star:0.0k fork:0.0k Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
+- [opencollective/azerothcore-wotlk](https://github.com/opencollective/azerothcore-wotlk) topic: pushed_at:2019-04 star:0.0k fork:0.0k AzerothCore - MMORPG Server. Based on MaNGOS -> TrinityCore -> SunwellCore
+- [opencollective/CameraKit-Android](https://github.com/opencollective/CameraKit-Android) topic: pushed_at:2017-11 star:0.0k fork:0.0k One of the hardest Android APIs made into a high level and easy to use library that solves all of your problems.
+- [opencollective/easy_profiler](https://github.com/opencollective/easy_profiler) topic: pushed_at:2021-09 star:0.0k fork:0.0k Lightweight profiler library for c++
+- [opencollective/fluffos](https://github.com/opencollective/fluffos) topic: pushed_at:2019-01 star:0.0k fork:0.0k Actively maintained MudOS descendant driver (LPC interpreter, LPMUD game driver)
+- [opencollective/projectm](https://github.com/opencollective/projectm) topic: pushed_at:2018-12 star:0.0k fork:0.0k projectM - cross-platform music visualization. Open-source and Milkdrop-compatible
+- [opencollective/stellarium](https://github.com/opencollective/stellarium) topic: pushed_at:2019-03 star:0.0k fork:0.0k Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and MacOSX. With Stellarium, you really see what you can see with your eyes, binoculars or a small telescope.
+- [opencollective/vsc-material-theme](https://github.com/opencollective/vsc-material-theme) topic: pushed_at:2017-11 star:0.0k fork:0.0k Material Theme, the most epic theme for Visual Studio Code
+- [opencollective/xgboost](https://github.com/opencollective/xgboost) topic: pushed_at:2019-03 star:0.0k fork:0.0k Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library,  for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Flink and DataFlow
 
 ## CSS
 
-- [opencollective/AlgoWiki](https://github.com/opencollective/AlgoWiki) pushed_at:2020-06 star:0.0k fork:0.0k Repository which contains links and resources on different topics of Computer Science.
-- [opencollective/AllSeeingEye](https://github.com/opencollective/AllSeeingEye) pushed_at:2017-12 star:0.0k fork:0.0k Google Chrome Extension. Record All Browsing in Screenshots & Full Text. Search For Anything At Any Time. Never Forget Where You Read Something. Saves Everything To Your Machine, Not the Cloud, So Your Web History Stays With You.
-- [opencollective/bootstrap](https://github.com/opencollective/bootstrap) pushed_at:2018-12 star:0.0k fork:0.0k The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
-- [opencollective/butterCake](https://github.com/opencollective/butterCake) pushed_at:2019-01 star:0.0k fork:0.0k Butter Cake is a Lightweight modern modular CSS Framework, for developing responsive, mobile first websites.
-- [opencollective/cssnano](https://github.com/opencollective/cssnano) pushed_at:2019-05 star:0.0k fork:0.0k A modular minifier, built on top of the PostCSS ecosystem.
-- [opencollective/emoji-awesome](https://github.com/opencollective/emoji-awesome) pushed_at:2019-07 star:0.0k fork:0.0k Cross platform, easy to use, no-javascript solution for the emoji awesomeness
-- [opencollective/fractures](https://github.com/opencollective/fractures) pushed_at:2019-01 star:0.0k fork:0.0k Baseline atomic CSS toolkit.
-- [opencollective/gulpjs.github.io](https://github.com/opencollective/gulpjs.github.io) pushed_at:2019-07 star:0.0k fork:0.0k The gulp website
-- [opencollective/hubpress.io](https://github.com/opencollective/hubpress.io) pushed_at:2018-05 star:0.0k fork:0.0k A web application to build your blog on GitHub
-- [opencollective/larecipe](https://github.com/opencollective/larecipe) pushed_at:2019-02 star:0.0k fork:0.0k 🍪 Write gorgeous documentations for your products using Markdown inside your Laravel app.
-- [opencollective/open-stocks](https://github.com/opencollective/open-stocks) pushed_at:2021-09 star:0.0k fork:0.0k 
-- [opencollective/ownhealthrecord](https://github.com/opencollective/ownhealthrecord) pushed_at:2018-12 star:0.0k fork:0.0k This repository is about the OwnHealthRecord Application Web App
-- [opencollective/rodal](https://github.com/opencollective/rodal) pushed_at:2019-01 star:0.0k fork:0.0k A React modal with animations.
-- [opencollective/sierra](https://github.com/opencollective/sierra) pushed_at:2017-05 star:0.0k fork:0.0k Sierra SCSS micro library
-- [opencollective/stepper](https://github.com/opencollective/stepper) pushed_at:2019-07 star:0.0k fork:0.0k Animated numeric stepper component which can be used to increment or decrement a value by clicking arrows.
-- [opencollective/style-guide](https://github.com/opencollective/style-guide) pushed_at:2016-01 star:0.0k fork:0.0k A repository with the style guide for OpenCollective
-- [opencollective/t-scroll](https://github.com/opencollective/t-scroll) pushed_at:2017-06 star:0.0k fork:0.0k A modern reveal-on-scroll library with useful options and animations. (Animate Elements On Reveal)
-- [opencollective/tp-admin](https://github.com/opencollective/tp-admin) pushed_at:2019-04 star:0.0k fork:0.0k 🍺🍺🍺🍺基于ThinkPHP5拿来即用高性能后台管理系统
-- [opencollective/ungrid](https://github.com/opencollective/ungrid) pushed_at:2019-07 star:0.0k fork:0.0k ungrid - the simplest responsive css grid
-- [opencollective/website-static](https://github.com/opencollective/website-static) pushed_at:2018-05 star:0.0k fork:0.0k 
-- [opencollective/wiki](https://github.com/opencollective/wiki) pushed_at:2017-09 star:0.0k fork:0.0k Wiki.js | A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
-- [opencollective/yii2-mpdf](https://github.com/opencollective/yii2-mpdf) pushed_at:2019-09 star:0.0k fork:0.0k A Yii2 wrapper component for the mPDF library which generates PDF files from UTF-8 encoded HTML.
-- [opencollective/You-need-to-know-css](https://github.com/opencollective/You-need-to-know-css) pushed_at:2018-12 star:0.0k fork:0.0k 🖖CSS tricks web developers need to know~
+- [opencollective/AlgoWiki](https://github.com/opencollective/AlgoWiki) topic: pushed_at:2020-06 star:0.0k fork:0.0k Repository which contains links and resources on different topics of Computer Science.
+- [opencollective/AllSeeingEye](https://github.com/opencollective/AllSeeingEye) topic: pushed_at:2017-12 star:0.0k fork:0.0k Google Chrome Extension. Record All Browsing in Screenshots & Full Text. Search For Anything At Any Time. Never Forget Where You Read Something. Saves Everything To Your Machine, Not the Cloud, So Your Web History Stays With You.
+- [opencollective/bootstrap](https://github.com/opencollective/bootstrap) topic: pushed_at:2018-12 star:0.0k fork:0.0k The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.
+- [opencollective/butterCake](https://github.com/opencollective/butterCake) topic: pushed_at:2019-01 star:0.0k fork:0.0k Butter Cake is a Lightweight modern modular CSS Framework, for developing responsive, mobile first websites.
+- [opencollective/cssnano](https://github.com/opencollective/cssnano) topic: pushed_at:2019-05 star:0.0k fork:0.0k A modular minifier, built on top of the PostCSS ecosystem.
+- [opencollective/emoji-awesome](https://github.com/opencollective/emoji-awesome) topic: pushed_at:2019-07 star:0.0k fork:0.0k Cross platform, easy to use, no-javascript solution for the emoji awesomeness
+- [opencollective/fractures](https://github.com/opencollective/fractures) topic: pushed_at:2019-01 star:0.0k fork:0.0k Baseline atomic CSS toolkit.
+- [opencollective/gulpjs.github.io](https://github.com/opencollective/gulpjs.github.io) topic: pushed_at:2019-07 star:0.0k fork:0.0k The gulp website
+- [opencollective/hubpress.io](https://github.com/opencollective/hubpress.io) topic: pushed_at:2018-05 star:0.0k fork:0.0k A web application to build your blog on GitHub
+- [opencollective/larecipe](https://github.com/opencollective/larecipe) topic: pushed_at:2019-02 star:0.0k fork:0.0k 🍪 Write gorgeous documentations for your products using Markdown inside your Laravel app.
+- [opencollective/open-stocks](https://github.com/opencollective/open-stocks) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
+- [opencollective/ownhealthrecord](https://github.com/opencollective/ownhealthrecord) topic: pushed_at:2018-12 star:0.0k fork:0.0k This repository is about the OwnHealthRecord Application Web App
+- [opencollective/rodal](https://github.com/opencollective/rodal) topic: pushed_at:2019-01 star:0.0k fork:0.0k A React modal with animations.
+- [opencollective/sierra](https://github.com/opencollective/sierra) topic: pushed_at:2017-05 star:0.0k fork:0.0k Sierra SCSS micro library
+- [opencollective/stepper](https://github.com/opencollective/stepper) topic: pushed_at:2019-07 star:0.0k fork:0.0k Animated numeric stepper component which can be used to increment or decrement a value by clicking arrows.
+- [opencollective/style-guide](https://github.com/opencollective/style-guide) topic: pushed_at:2016-01 star:0.0k fork:0.0k A repository with the style guide for OpenCollective
+- [opencollective/t-scroll](https://github.com/opencollective/t-scroll) topic: pushed_at:2017-06 star:0.0k fork:0.0k A modern reveal-on-scroll library with useful options and animations. (Animate Elements On Reveal)
+- [opencollective/tp-admin](https://github.com/opencollective/tp-admin) topic: pushed_at:2019-04 star:0.0k fork:0.0k 🍺🍺🍺🍺基于ThinkPHP5拿来即用高性能后台管理系统
+- [opencollective/ungrid](https://github.com/opencollective/ungrid) topic: pushed_at:2019-07 star:0.0k fork:0.0k ungrid - the simplest responsive css grid
+- [opencollective/website-static](https://github.com/opencollective/website-static) topic: pushed_at:2018-05 star:0.0k fork:0.0k 
+- [opencollective/wiki](https://github.com/opencollective/wiki) topic: pushed_at:2017-09 star:0.0k fork:0.0k Wiki.js | A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
+- [opencollective/yii2-mpdf](https://github.com/opencollective/yii2-mpdf) topic: pushed_at:2019-09 star:0.0k fork:0.0k A Yii2 wrapper component for the mPDF library which generates PDF files from UTF-8 encoded HTML.
+- [opencollective/You-need-to-know-css](https://github.com/opencollective/You-need-to-know-css) topic: pushed_at:2018-12 star:0.0k fork:0.0k 🖖CSS tricks web developers need to know~
 
 ## Clojure
 
-- [opencollective/boot](https://github.com/opencollective/boot) pushed_at:2019-01 star:0.0k fork:0.0k Build tooling for Clojure.
-- [opencollective/clj-kondo](https://github.com/opencollective/clj-kondo) pushed_at:2019-07 star:0.0k fork:0.0k A linter for Clojure code that sparks joy.
-- [opencollective/hoplon](https://github.com/opencollective/hoplon) pushed_at:2019-01 star:0.0k fork:0.0k Hoplon web development tools and libraries.
-- [opencollective/lumo](https://github.com/opencollective/lumo) pushed_at:2017-05 star:0.0k fork:0.0k Fast, cross-platform, standalone ClojureScript environment
-- [opencollective/meta-1](https://github.com/opencollective/meta-1) pushed_at:2018-03 star:0.0k fork:0.0k A stack. A framework. A conversation.
-- [opencollective/nrepl](https://github.com/opencollective/nrepl) pushed_at:2019-01 star:0.0k fork:0.0k A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.
-- [opencollective/postagga](https://github.com/opencollective/postagga) pushed_at:2017-09 star:0.0k fork:0.0k A Library to parse natural language in pure Clojure and ClojureScript
+- [opencollective/boot](https://github.com/opencollective/boot) topic: pushed_at:2019-01 star:0.0k fork:0.0k Build tooling for Clojure.
+- [opencollective/clj-kondo](https://github.com/opencollective/clj-kondo) topic: pushed_at:2019-07 star:0.0k fork:0.0k A linter for Clojure code that sparks joy.
+- [opencollective/hoplon](https://github.com/opencollective/hoplon) topic: pushed_at:2019-01 star:0.0k fork:0.0k Hoplon web development tools and libraries.
+- [opencollective/lumo](https://github.com/opencollective/lumo) topic: pushed_at:2017-05 star:0.0k fork:0.0k Fast, cross-platform, standalone ClojureScript environment
+- [opencollective/meta-1](https://github.com/opencollective/meta-1) topic: pushed_at:2018-03 star:0.0k fork:0.0k A stack. A framework. A conversation.
+- [opencollective/nrepl](https://github.com/opencollective/nrepl) topic: pushed_at:2019-01 star:0.0k fork:0.0k A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.
+- [opencollective/postagga](https://github.com/opencollective/postagga) topic: pushed_at:2017-09 star:0.0k fork:0.0k A Library to parse natural language in pure Clojure and ClojureScript
 
 ## CoffeeScript
 
-- [opencollective/jquery-jsonview](https://github.com/opencollective/jquery-jsonview) pushed_at:2017-09 star:0.0k fork:0.0k [MAINTENANCE ONLY]View JSON in a more readable format 
+- [opencollective/jquery-jsonview](https://github.com/opencollective/jquery-jsonview) topic: pushed_at:2017-09 star:0.0k fork:0.0k [MAINTENANCE ONLY]View JSON in a more readable format 
 
 ## Common Lisp
 
-- [opencollective/lem](https://github.com/opencollective/lem) pushed_at:2017-10 star:0.0k fork:0.0k Lem Editor Modules
+- [opencollective/lem](https://github.com/opencollective/lem) topic: pushed_at:2017-10 star:0.0k fork:0.0k Lem Editor Modules
 
 ## Crystal
 
-- [opencollective/crystal](https://github.com/opencollective/crystal) pushed_at:2018-12 star:0.0k fork:0.0k The Crystal Programming Language
+- [opencollective/crystal](https://github.com/opencollective/crystal) topic: pushed_at:2018-12 star:0.0k fork:0.0k The Crystal Programming Language
 
 ## Dart
 
-- [opencollective/flutter_html](https://github.com/opencollective/flutter_html) pushed_at:2019-12 star:0.0k fork:0.0k A Flutter widget for rendering static html as Flutter widgets (Will render over 70 different html tags!)
+- [opencollective/flutter_html](https://github.com/opencollective/flutter_html) topic: pushed_at:2019-12 star:0.0k fork:0.0k A Flutter widget for rendering static html as Flutter widgets (Will render over 70 different html tags!)
 
 ## Elixir
 
-- [opencollective/nerves](https://github.com/opencollective/nerves) pushed_at:2017-08 star:0.0k fork:0.0k Craft and deploy bulletproof embedded software in Elixir
+- [opencollective/nerves](https://github.com/opencollective/nerves) topic: pushed_at:2017-08 star:0.0k fork:0.0k Craft and deploy bulletproof embedded software in Elixir
 
 ## Gherkin
 
-- [opencollective/sdkman-cli](https://github.com/opencollective/sdkman-cli) pushed_at:2019-04 star:0.0k fork:0.0k The SDKMAN! Command Line Interface
+- [opencollective/sdkman-cli](https://github.com/opencollective/sdkman-cli) topic: pushed_at:2019-04 star:0.0k fork:0.0k The SDKMAN! Command Line Interface
 
 ## Go
 
-- [opencollective/casbin](https://github.com/opencollective/casbin) pushed_at:2019-06 star:0.0k fork:0.0k An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
-- [opencollective/collection](https://github.com/opencollective/collection) pushed_at:2019-06 star:0.0k fork:0.0k go collection package for fasting coding
-- [opencollective/colly](https://github.com/opencollective/colly) pushed_at:2017-11 star:0.0k fork:0.0k Fast and Elegant Scraping Framework for Golang
-- [opencollective/docker-debug](https://github.com/opencollective/docker-debug) pushed_at:2019-07 star:0.0k fork:0.0k use new container attach on already container go on debug
-- [opencollective/excelize](https://github.com/opencollective/excelize) pushed_at:2017-10 star:0.0k fork:0.0k Golang library for reading and writing Microsoft Excel™ (XLSX) files.
-- [opencollective/falcon-log-agent](https://github.com/opencollective/falcon-log-agent) pushed_at:2019-04 star:0.0k fork:0.0k 用于监控系统的日志采集agent，可无缝对接open-falcon
-- [opencollective/filestash](https://github.com/opencollective/filestash) pushed_at:2019-07 star:0.0k fork:0.0k 🦄 A web client for FTP, SFTP, WebDAV, Git, S3, Minio, LDAP, Caldav, Carddav, Mysql, Backblaze
-- [opencollective/goby](https://github.com/opencollective/goby) pushed_at:2017-05 star:0.0k fork:0.0k Goby (Rooby) is a new object oriented language written in Go aim at developing microservice efficiently.
-- [opencollective/goreleaser](https://github.com/opencollective/goreleaser) pushed_at:2018-01 star:0.0k fork:0.0k Deliver Go binaries as fast and easily as possible
-- [opencollective/hep](https://github.com/opencollective/hep) pushed_at:2019-03 star:0.0k fork:0.0k hep is the mono repository holding all of go-hep.org/x/hep packages and tools
-- [opencollective/ipfs-search](https://github.com/opencollective/ipfs-search) pushed_at:2019-01 star:0.0k fork:0.0k Search engine for the Interplanetary Filesystem.
-- [opencollective/iris](https://github.com/opencollective/iris) pushed_at:2017-11 star:0.0k fork:0.0k The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready to GO. MVC when you need it. https://docs.iris-go.com
-- [opencollective/kcptun](https://github.com/opencollective/kcptun) pushed_at:2019-05 star:0.0k fork:0.0k A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
-- [opencollective/perkeep](https://github.com/opencollective/perkeep) pushed_at:2018-02 star:0.0k fork:0.0k Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
-- [opencollective/Platypus](https://github.com/opencollective/Platypus) pushed_at:2019-04 star:0.0k fork:0.0k :hammer: A modern multiple reverse shell sessions manager written in go
-- [opencollective/pongo2](https://github.com/opencollective/pongo2) pushed_at:2019-04 star:0.0k fork:0.0k Django-syntax like template-engine for Go
-- [opencollective/sshpiper](https://github.com/opencollective/sshpiper) pushed_at:2019-01 star:0.0k fork:0.0k The missing reverse proxy for ssh scp
-- [opencollective/swag](https://github.com/opencollective/swag) pushed_at:2019-03 star:0.0k fork:0.0k Automatically generate RESTful API documentation with Swagger 2.0 for Go.
-- [opencollective/up](https://github.com/opencollective/up) pushed_at:2017-08 star:0.0k fork:0.0k Deploy infinitely scalable serverless apps, apis, and sites in seconds.
-- [opencollective/webhook](https://github.com/opencollective/webhook) pushed_at:2017-09 star:0.0k fork:0.0k webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands.
+- [opencollective/casbin](https://github.com/opencollective/casbin) topic: pushed_at:2019-06 star:0.0k fork:0.0k An authorization library that supports access control models like ACL, RBAC, ABAC in Golang
+- [opencollective/collection](https://github.com/opencollective/collection) topic: pushed_at:2019-06 star:0.0k fork:0.0k go collection package for fasting coding
+- [opencollective/colly](https://github.com/opencollective/colly) topic: pushed_at:2017-11 star:0.0k fork:0.0k Fast and Elegant Scraping Framework for Golang
+- [opencollective/docker-debug](https://github.com/opencollective/docker-debug) topic: pushed_at:2019-07 star:0.0k fork:0.0k use new container attach on already container go on debug
+- [opencollective/excelize](https://github.com/opencollective/excelize) topic: pushed_at:2017-10 star:0.0k fork:0.0k Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+- [opencollective/falcon-log-agent](https://github.com/opencollective/falcon-log-agent) topic: pushed_at:2019-04 star:0.0k fork:0.0k 用于监控系统的日志采集agent，可无缝对接open-falcon
+- [opencollective/filestash](https://github.com/opencollective/filestash) topic: pushed_at:2019-07 star:0.0k fork:0.0k 🦄 A web client for FTP, SFTP, WebDAV, Git, S3, Minio, LDAP, Caldav, Carddav, Mysql, Backblaze
+- [opencollective/goby](https://github.com/opencollective/goby) topic: pushed_at:2017-05 star:0.0k fork:0.0k Goby (Rooby) is a new object oriented language written in Go aim at developing microservice efficiently.
+- [opencollective/goreleaser](https://github.com/opencollective/goreleaser) topic: pushed_at:2018-01 star:0.0k fork:0.0k Deliver Go binaries as fast and easily as possible
+- [opencollective/hep](https://github.com/opencollective/hep) topic: pushed_at:2019-03 star:0.0k fork:0.0k hep is the mono repository holding all of go-hep.org/x/hep packages and tools
+- [opencollective/ipfs-search](https://github.com/opencollective/ipfs-search) topic: pushed_at:2019-01 star:0.0k fork:0.0k Search engine for the Interplanetary Filesystem.
+- [opencollective/iris](https://github.com/opencollective/iris) topic: pushed_at:2017-11 star:0.0k fork:0.0k The fastest web framework for Go in (THIS) Earth. HTTP/2 Ready to GO. MVC when you need it. https://docs.iris-go.com
+- [opencollective/kcptun](https://github.com/opencollective/kcptun) topic: pushed_at:2019-05 star:0.0k fork:0.0k A Stable & Secure Tunnel Based On KCP with N:M Multiplexing
+- [opencollective/perkeep](https://github.com/opencollective/perkeep) topic: pushed_at:2018-02 star:0.0k fork:0.0k Perkeep (née Camlistore) is your personal storage system for life: a way of storing, syncing, sharing, modelling and backing up content.
+- [opencollective/Platypus](https://github.com/opencollective/Platypus) topic: pushed_at:2019-04 star:0.0k fork:0.0k :hammer: A modern multiple reverse shell sessions manager written in go
+- [opencollective/pongo2](https://github.com/opencollective/pongo2) topic: pushed_at:2019-04 star:0.0k fork:0.0k Django-syntax like template-engine for Go
+- [opencollective/sshpiper](https://github.com/opencollective/sshpiper) topic: pushed_at:2019-01 star:0.0k fork:0.0k The missing reverse proxy for ssh scp
+- [opencollective/swag](https://github.com/opencollective/swag) topic: pushed_at:2019-03 star:0.0k fork:0.0k Automatically generate RESTful API documentation with Swagger 2.0 for Go.
+- [opencollective/up](https://github.com/opencollective/up) topic: pushed_at:2017-08 star:0.0k fork:0.0k Deploy infinitely scalable serverless apps, apis, and sites in seconds.
+- [opencollective/webhook](https://github.com/opencollective/webhook) topic: pushed_at:2017-09 star:0.0k fork:0.0k webhook is a lightweight configurable tool written in Go, that allows you to easily create HTTP endpoints (hooks) on your server, which you can use to execute configured commands.
 
 ## Groovy
 
-- [opencollective/docToolchain](https://github.com/opencollective/docToolchain) pushed_at:2018-10 star:0.0k fork:0.0k a Gradle based AsciiDoc Toolchain for Software Architecture Documentation
+- [opencollective/docToolchain](https://github.com/opencollective/docToolchain) topic: pushed_at:2018-10 star:0.0k fork:0.0k a Gradle based AsciiDoc Toolchain for Software Architecture Documentation
 
 ## HTML
 
-- [opencollective/android-arsenal.com](https://github.com/opencollective/android-arsenal.com) pushed_at:2017-12 star:0.0k fork:0.0k Source to android-arsenal.herokuapp.com
-- [opencollective/censusreporter](https://github.com/opencollective/censusreporter) pushed_at:2019-04 star:0.0k fork:0.0k Census Reporter is a Knight News Challenge-funded project to make it easier for journalists to write stories using information from the U.S. Census bureau.
-- [opencollective/Django-CRM](https://github.com/opencollective/Django-CRM) pushed_at:2019-02 star:0.0k fork:0.0k Open Source Python CRM based on Django
-- [opencollective/fotorama](https://github.com/opencollective/fotorama) pushed_at:2019-02 star:0.0k fork:0.0k A simple, stunning, powerful jQuery gallery.
-- [opencollective/foundation-website-2020](https://github.com/opencollective/foundation-website-2020) pushed_at:2022-06 star:0.0k fork:0.0k 
-- [opencollective/graphql-docs-v2](https://github.com/opencollective/graphql-docs-v2) pushed_at:2022-02 star:0.0k fork:0.0k 
-- [opencollective/Hyphenopoly](https://github.com/opencollective/Hyphenopoly) pushed_at:2019-03 star:0.0k fork:0.0k Hyphenation for node and Polyfill for client-side hyphenation.
-- [opencollective/mobileapp-design](https://github.com/opencollective/mobileapp-design) pushed_at:2016-01 star:0.0k fork:0.0k All the screens and flows for the openCollective mobile app
-- [opencollective/modular-admin-html](https://github.com/opencollective/modular-admin-html) pushed_at:2017-05 star:0.0k fork:0.0k Modular Admin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version
-- [opencollective/openfoodfacts-server](https://github.com/opencollective/openfoodfacts-server) pushed_at:2019-02 star:0.0k fork:0.0k Open Food Facts database and web interface - 🐪🦋 Perl and JS coders welcome 😊
-- [opencollective/prism-break](https://github.com/opencollective/prism-break) pushed_at:2019-01 star:0.0k fork:0.0k  This is a mirror, please open issues and merge requests on GitLab
-- [opencollective/ratyrate](https://github.com/opencollective/ratyrate) pushed_at:2019-01 star:0.0k fork:0.0k :star: A Ruby Gem that wraps the functionality of jQuery Raty library, and provides optional IMDB style rating.
-- [opencollective/SiaNet](https://github.com/opencollective/SiaNet) pushed_at:2017-12 star:0.0k fork:0.0k A C# deep learning wrapper with CNTK backend
-- [opencollective/social-manager-tools](https://github.com/opencollective/social-manager-tools) pushed_at:2019-03 star:0.0k fork:0.0k :robot: :ghost: Desktop application for Instagram Bot, Twitter Bot and Facebook Bot
-- [opencollective/Spina](https://github.com/opencollective/Spina) pushed_at:2017-09 star:0.0k fork:0.0k Spina CMS
-- [opencollective/tosdr-build](https://github.com/opencollective/tosdr-build) pushed_at:2017-10 star:0.0k fork:0.0k System to generate ToS;DR projects
-- [opencollective/ui-avatars](https://github.com/opencollective/ui-avatars) pushed_at:2019-05 star:0.0k fork:0.0k 
-- [opencollective/w3develops](https://github.com/opencollective/w3develops) pushed_at:2019-03 star:0.0k fork:0.0k The w3develops.org open source codebase - Learn, build, and meetup with other developers on  DISCORD https://discord.gg/ckQ52gA and YOUTUBE http://bit.ly/w3dyt
-- [opencollective/wedding-website](https://github.com/opencollective/wedding-website) pushed_at:2019-02 star:0.0k fork:0.0k Our Wedding Website 👫
+- [opencollective/android-arsenal.com](https://github.com/opencollective/android-arsenal.com) topic: pushed_at:2017-12 star:0.0k fork:0.0k Source to android-arsenal.herokuapp.com
+- [opencollective/censusreporter](https://github.com/opencollective/censusreporter) topic: pushed_at:2019-04 star:0.0k fork:0.0k Census Reporter is a Knight News Challenge-funded project to make it easier for journalists to write stories using information from the U.S. Census bureau.
+- [opencollective/Django-CRM](https://github.com/opencollective/Django-CRM) topic: pushed_at:2019-02 star:0.0k fork:0.0k Open Source Python CRM based on Django
+- [opencollective/fotorama](https://github.com/opencollective/fotorama) topic: pushed_at:2019-02 star:0.0k fork:0.0k A simple, stunning, powerful jQuery gallery.
+- [opencollective/foundation-website-2020](https://github.com/opencollective/foundation-website-2020) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
+- [opencollective/graphql-docs-v2](https://github.com/opencollective/graphql-docs-v2) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
+- [opencollective/Hyphenopoly](https://github.com/opencollective/Hyphenopoly) topic: pushed_at:2019-03 star:0.0k fork:0.0k Hyphenation for node and Polyfill for client-side hyphenation.
+- [opencollective/mobileapp-design](https://github.com/opencollective/mobileapp-design) topic: pushed_at:2016-01 star:0.0k fork:0.0k All the screens and flows for the openCollective mobile app
+- [opencollective/modular-admin-html](https://github.com/opencollective/modular-admin-html) topic: pushed_at:2017-05 star:0.0k fork:0.0k Modular Admin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version
+- [opencollective/openfoodfacts-server](https://github.com/opencollective/openfoodfacts-server) topic: pushed_at:2019-02 star:0.0k fork:0.0k Open Food Facts database and web interface - 🐪🦋 Perl and JS coders welcome 😊
+- [opencollective/prism-break](https://github.com/opencollective/prism-break) topic: pushed_at:2019-01 star:0.0k fork:0.0k  This is a mirror, please open issues and merge requests on GitLab
+- [opencollective/ratyrate](https://github.com/opencollective/ratyrate) topic: pushed_at:2019-01 star:0.0k fork:0.0k :star: A Ruby Gem that wraps the functionality of jQuery Raty library, and provides optional IMDB style rating.
+- [opencollective/SiaNet](https://github.com/opencollective/SiaNet) topic: pushed_at:2017-12 star:0.0k fork:0.0k A C# deep learning wrapper with CNTK backend
+- [opencollective/social-manager-tools](https://github.com/opencollective/social-manager-tools) topic: pushed_at:2019-03 star:0.0k fork:0.0k :robot: :ghost: Desktop application for Instagram Bot, Twitter Bot and Facebook Bot
+- [opencollective/Spina](https://github.com/opencollective/Spina) topic: pushed_at:2017-09 star:0.0k fork:0.0k Spina CMS
+- [opencollective/tosdr-build](https://github.com/opencollective/tosdr-build) topic: pushed_at:2017-10 star:0.0k fork:0.0k System to generate ToS;DR projects
+- [opencollective/ui-avatars](https://github.com/opencollective/ui-avatars) topic: pushed_at:2019-05 star:0.0k fork:0.0k 
+- [opencollective/w3develops](https://github.com/opencollective/w3develops) topic: pushed_at:2019-03 star:0.0k fork:0.0k The w3develops.org open source codebase - Learn, build, and meetup with other developers on  DISCORD https://discord.gg/ckQ52gA and YOUTUBE http://bit.ly/w3dyt
+- [opencollective/wedding-website](https://github.com/opencollective/wedding-website) topic: pushed_at:2019-02 star:0.0k fork:0.0k Our Wedding Website 👫
 
 ## Haxe
 
-- [opencollective/haxe-continuation](https://github.com/opencollective/haxe-continuation) pushed_at:2019-07 star:0.0k fork:0.0k Asynchronous programming in a natural multi-thread-like syntax, escaping from the callback hell.
-- [opencollective/openfl](https://github.com/opencollective/openfl) pushed_at:2017-11 star:0.0k fork:0.0k The "Open Flash Library" for fast 2D development
+- [opencollective/haxe-continuation](https://github.com/opencollective/haxe-continuation) topic: pushed_at:2019-07 star:0.0k fork:0.0k Asynchronous programming in a natural multi-thread-like syntax, escaping from the callback hell.
+- [opencollective/openfl](https://github.com/opencollective/openfl) topic: pushed_at:2017-11 star:0.0k fork:0.0k The "Open Flash Library" for fast 2D development
 
 ## Java
 
-- [opencollective/advanced-java](https://github.com/opencollective/advanced-java) pushed_at:2021-02 star:0.0k fork:0.0k 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
-- [opencollective/allure1](https://github.com/opencollective/allure1) pushed_at:2017-07 star:0.0k fork:0.0k A flexible lightweight multi-language test report tool with the possibility to add steps, attachments, parameters and so on.
-- [opencollective/allure2](https://github.com/opencollective/allure2) pushed_at:2017-07 star:0.0k fork:0.0k The next generation of Allure Report, a flexible lightweight multi-language test report tool with the possibility to add steps, attachments, parameters and so on.
-- [opencollective/AmazMod](https://github.com/opencollective/AmazMod) pushed_at:2018-12 star:0.0k fork:0.0k 
-- [opencollective/android-otpview-pinview](https://github.com/opencollective/android-otpview-pinview) pushed_at:2019-04 star:0.0k fork:0.0k A custom view to enter otp of different sizes used usually in cases of authentication.
-- [opencollective/android-starter](https://github.com/opencollective/android-starter) pushed_at:2017-07 star:0.0k fork:0.0k [Android Architecture] Android starter based on MVP/Dagger2/RxJava2/Robolectric/Espresso/Mockito. It provides a generator to fast create a Android template project.
-- [opencollective/android-testing-guide](https://github.com/opencollective/android-testing-guide) pushed_at:2017-07 star:0.0k fork:0.0k [Examples] Complete reference for Android Testing with examples.
-- [opencollective/AnimatedPieView](https://github.com/opencollective/AnimatedPieView) pushed_at:2018-12 star:0.0k fork:0.0k // 一个好吃的甜甜圈？
-- [opencollective/arthas](https://github.com/opencollective/arthas) pushed_at:2019-01 star:0.0k fork:0.0k Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
-- [opencollective/AsciidocFX](https://github.com/opencollective/AsciidocFX) pushed_at:2017-06 star:0.0k fork:0.0k Asciidoc Editor and Toolchain written with JavaFX 8 (Build PDF, Epub, Mobi and HTML books, documents and slides)
-- [opencollective/blade](https://github.com/opencollective/blade) pushed_at:2017-10 star:0.0k fork:0.0k :rocket: a simple, elegant mvc framework! website →
-- [opencollective/CameraView](https://github.com/opencollective/CameraView) pushed_at:2021-02 star:0.0k fork:0.0k A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs.
-- [opencollective/Easer](https://github.com/opencollective/Easer) pushed_at:2019-04 star:0.0k fork:0.0k More than event-driven Android automation
-- [opencollective/fescar](https://github.com/opencollective/fescar) pushed_at:2019-02 star:0.0k fork:0.0k :fire: Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.
-- [opencollective/ff4j](https://github.com/opencollective/ff4j) pushed_at:2017-10 star:0.0k fork:0.0k Feature Flipping for Java made easy
-- [opencollective/graphql-java](https://github.com/opencollective/graphql-java) pushed_at:2019-04 star:0.0k fork:0.0k GraphQL Java implementation
-- [opencollective/intellij-elixir](https://github.com/opencollective/intellij-elixir) pushed_at:2019-04 star:0.0k fork:0.0k Elixir plugin for JetBrain's IntelliJ Platform (including Rubymine)
-- [opencollective/jbot](https://github.com/opencollective/jbot) pushed_at:2017-06 star:0.0k fork:0.0k Make Slack, Facebook and Twitter Bots in Java in minutes.
-- [opencollective/joda-time](https://github.com/opencollective/joda-time) pushed_at:2021-02 star:0.0k fork:0.0k Joda-Time is the widely used replacement for the Java date and time classes prior to Java SE 8.
-- [opencollective/leetcode-1](https://github.com/opencollective/leetcode-1) pushed_at:2019-01 star:0.0k fork:0.0k 😎 LeetCode solutions in any programming language
-- [opencollective/lifx-sdk-android](https://github.com/opencollective/lifx-sdk-android) pushed_at:2018-04 star:0.0k fork:0.0k LIFX Android SDK
-- [opencollective/mastalab](https://github.com/opencollective/mastalab) pushed_at:2018-06 star:0.0k fork:0.0k Mastalab - Mastodon client for Android devices
-- [opencollective/NumberPicker](https://github.com/opencollective/NumberPicker) pushed_at:2018-12 star:0.0k fork:0.0k :slot_machine: The android library that provides a simple and customizable NumberPicker.
-- [opencollective/openapi-generator](https://github.com/opencollective/openapi-generator) pushed_at:2019-04 star:0.0k fork:0.0k OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [opencollective/Orchid](https://github.com/opencollective/Orchid) pushed_at:2019-04 star:0.0k fork:0.0k A beautiful and truly unique documentation engine and static site generator.
-- [opencollective/react-native-camera](https://github.com/opencollective/react-native-camera) pushed_at:2017-05 star:0.0k fork:0.0k A Camera component for React Native. Also supports barcode scanning!
-- [opencollective/restfb](https://github.com/opencollective/restfb) pushed_at:2021-02 star:0.0k fork:0.0k RestFB is a simple and flexible Facebook Graph API client written in Java.
-- [opencollective/Sentinel](https://github.com/opencollective/Sentinel) pushed_at:2019-12 star:0.0k fork:0.0k A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)
-- [opencollective/SpringBootUnity](https://github.com/opencollective/SpringBootUnity) pushed_at:2017-09 star:0.0k fork:0.0k rabbitmq、redis、scheduled、socket、mongodb、Swagger2、spring data jpa、Thymeleaf、freemarker、velocity等 (多模块spring boot项目)-http://api.xiaomo.info (使用spring boot 做底层构架，在不用的应用场景下搭配不同的技术构建项目。)
-- [opencollective/SVGAPlayer-Android](https://github.com/opencollective/SVGAPlayer-Android) pushed_at:2018-12 star:0.0k fork:0.0k Similar to Lottie. Render After Effects / Animate CC (Flash) animations natively on Android and iOS, Web.  使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画。
-- [opencollective/togglz](https://github.com/opencollective/togglz) pushed_at:2017-06 star:0.0k fork:0.0k Feature Flags for the Java platform
-- [opencollective/Tusky](https://github.com/opencollective/Tusky) pushed_at:2019-02 star:0.0k fork:0.0k An Android client for the microblogging server Mastodon
+- [opencollective/advanced-java](https://github.com/opencollective/advanced-java) topic: pushed_at:2021-02 star:0.0k fork:0.0k 😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务等领域知识，后端同学必看，前端同学也可学习
+- [opencollective/allure1](https://github.com/opencollective/allure1) topic: pushed_at:2017-07 star:0.0k fork:0.0k A flexible lightweight multi-language test report tool with the possibility to add steps, attachments, parameters and so on.
+- [opencollective/allure2](https://github.com/opencollective/allure2) topic: pushed_at:2017-07 star:0.0k fork:0.0k The next generation of Allure Report, a flexible lightweight multi-language test report tool with the possibility to add steps, attachments, parameters and so on.
+- [opencollective/AmazMod](https://github.com/opencollective/AmazMod) topic: pushed_at:2018-12 star:0.0k fork:0.0k 
+- [opencollective/android-otpview-pinview](https://github.com/opencollective/android-otpview-pinview) topic: pushed_at:2019-04 star:0.0k fork:0.0k A custom view to enter otp of different sizes used usually in cases of authentication.
+- [opencollective/android-starter](https://github.com/opencollective/android-starter) topic: pushed_at:2017-07 star:0.0k fork:0.0k [Android Architecture] Android starter based on MVP/Dagger2/RxJava2/Robolectric/Espresso/Mockito. It provides a generator to fast create a Android template project.
+- [opencollective/android-testing-guide](https://github.com/opencollective/android-testing-guide) topic: pushed_at:2017-07 star:0.0k fork:0.0k [Examples] Complete reference for Android Testing with examples.
+- [opencollective/AnimatedPieView](https://github.com/opencollective/AnimatedPieView) topic: pushed_at:2018-12 star:0.0k fork:0.0k // 一个好吃的甜甜圈？
+- [opencollective/arthas](https://github.com/opencollective/arthas) topic: pushed_at:2019-01 star:0.0k fork:0.0k Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
+- [opencollective/AsciidocFX](https://github.com/opencollective/AsciidocFX) topic: pushed_at:2017-06 star:0.0k fork:0.0k Asciidoc Editor and Toolchain written with JavaFX 8 (Build PDF, Epub, Mobi and HTML books, documents and slides)
+- [opencollective/blade](https://github.com/opencollective/blade) topic: pushed_at:2017-10 star:0.0k fork:0.0k :rocket: a simple, elegant mvc framework! website →
+- [opencollective/CameraView](https://github.com/opencollective/CameraView) topic: pushed_at:2021-02 star:0.0k fork:0.0k A well documented, high-level Android interface that makes capturing pictures and videos easy, addressing all of the common issues and needs.
+- [opencollective/Easer](https://github.com/opencollective/Easer) topic: pushed_at:2019-04 star:0.0k fork:0.0k More than event-driven Android automation
+- [opencollective/fescar](https://github.com/opencollective/fescar) topic: pushed_at:2019-02 star:0.0k fork:0.0k :fire: Fescar is an easy-to-use, high-performance, java based, open source distributed transaction solution.
+- [opencollective/ff4j](https://github.com/opencollective/ff4j) topic: pushed_at:2017-10 star:0.0k fork:0.0k Feature Flipping for Java made easy
+- [opencollective/graphql-java](https://github.com/opencollective/graphql-java) topic: pushed_at:2019-04 star:0.0k fork:0.0k GraphQL Java implementation
+- [opencollective/intellij-elixir](https://github.com/opencollective/intellij-elixir) topic: pushed_at:2019-04 star:0.0k fork:0.0k Elixir plugin for JetBrain's IntelliJ Platform (including Rubymine)
+- [opencollective/jbot](https://github.com/opencollective/jbot) topic: pushed_at:2017-06 star:0.0k fork:0.0k Make Slack, Facebook and Twitter Bots in Java in minutes.
+- [opencollective/joda-time](https://github.com/opencollective/joda-time) topic: pushed_at:2021-02 star:0.0k fork:0.0k Joda-Time is the widely used replacement for the Java date and time classes prior to Java SE 8.
+- [opencollective/leetcode-1](https://github.com/opencollective/leetcode-1) topic: pushed_at:2019-01 star:0.0k fork:0.0k 😎 LeetCode solutions in any programming language
+- [opencollective/lifx-sdk-android](https://github.com/opencollective/lifx-sdk-android) topic: pushed_at:2018-04 star:0.0k fork:0.0k LIFX Android SDK
+- [opencollective/mastalab](https://github.com/opencollective/mastalab) topic: pushed_at:2018-06 star:0.0k fork:0.0k Mastalab - Mastodon client for Android devices
+- [opencollective/NumberPicker](https://github.com/opencollective/NumberPicker) topic: pushed_at:2018-12 star:0.0k fork:0.0k :slot_machine: The android library that provides a simple and customizable NumberPicker.
+- [opencollective/openapi-generator](https://github.com/opencollective/openapi-generator) topic: pushed_at:2019-04 star:0.0k fork:0.0k OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
+- [opencollective/Orchid](https://github.com/opencollective/Orchid) topic: pushed_at:2019-04 star:0.0k fork:0.0k A beautiful and truly unique documentation engine and static site generator.
+- [opencollective/react-native-camera](https://github.com/opencollective/react-native-camera) topic: pushed_at:2017-05 star:0.0k fork:0.0k A Camera component for React Native. Also supports barcode scanning!
+- [opencollective/restfb](https://github.com/opencollective/restfb) topic: pushed_at:2021-02 star:0.0k fork:0.0k RestFB is a simple and flexible Facebook Graph API client written in Java.
+- [opencollective/Sentinel](https://github.com/opencollective/Sentinel) topic: pushed_at:2019-12 star:0.0k fork:0.0k A lightweight powerful flow control component enabling reliability and monitoring for microservices. (轻量级的流量控制、熔断降级 Java 库)
+- [opencollective/SpringBootUnity](https://github.com/opencollective/SpringBootUnity) topic: pushed_at:2017-09 star:0.0k fork:0.0k rabbitmq、redis、scheduled、socket、mongodb、Swagger2、spring data jpa、Thymeleaf、freemarker、velocity等 (多模块spring boot项目)-http://api.xiaomo.info (使用spring boot 做底层构架，在不用的应用场景下搭配不同的技术构建项目。)
+- [opencollective/SVGAPlayer-Android](https://github.com/opencollective/SVGAPlayer-Android) topic: pushed_at:2018-12 star:0.0k fork:0.0k Similar to Lottie. Render After Effects / Animate CC (Flash) animations natively on Android and iOS, Web.  使用 SVGAPlayer 在 Android、iOS、Web中播放 After Effects / Animate CC (Flash) 动画。
+- [opencollective/togglz](https://github.com/opencollective/togglz) topic: pushed_at:2017-06 star:0.0k fork:0.0k Feature Flags for the Java platform
+- [opencollective/Tusky](https://github.com/opencollective/Tusky) topic: pushed_at:2019-02 star:0.0k fork:0.0k An Android client for the microblogging server Mastodon
 
 ## JavaScript
 
-- [opencollective/acgn-stock](https://github.com/opencollective/acgn-stock) pushed_at:2017-09 star:0.0k fork:0.0k PTT ACGN股票交易市場
-- [opencollective/AncientBeast](https://github.com/opencollective/AncientBeast) pushed_at:2019-03 star:0.0k fork:0.0k 🐺 Turn Based Strategy Game. Master your beasts!
-- [opencollective/AnotherRedisDesktopManager](https://github.com/opencollective/AnotherRedisDesktopManager) pushed_at:2020-04 star:0.0k fork:0.0k A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
-- [opencollective/ant-design-landing](https://github.com/opencollective/ant-design-landing) pushed_at:2018-12 star:0.0k fork:0.0k :mountain_bicyclist: Landing Pages of Ant Design System
-- [opencollective/ant-motion](https://github.com/opencollective/ant-motion) pushed_at:2019-07 star:0.0k fork:0.0k   :bicyclist: Animate specification and components of Ant Design
-- [opencollective/apollo-universal-starter-kit](https://github.com/opencollective/apollo-universal-starter-kit) pushed_at:2017-11 star:0.0k fork:0.0k Apollo 2 Universal Starter Kit — GraphQL React JavaScript app boilerplate for Mobile, Server and Web where code for all platforms built with Webpack to enable max code reuse, stack: Apollo, GraphQL, React 16, React Native, Expo, Express, Knex, SQLite, Twitter Bootstrap, Babel, Webpack
-- [opencollective/asyncapi](https://github.com/opencollective/asyncapi) pushed_at:2019-02 star:0.0k fork:0.0k The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
-- [opencollective/atom](https://github.com/opencollective/atom) pushed_at:2018-07 star:0.0k fork:0.0k Atom file-specific icons for improved visual grepping.
-- [opencollective/atom-latex](https://github.com/opencollective/atom-latex) pushed_at:2019-07 star:0.0k fork:0.0k Compile LaTeX or knitr documents from within Atom
-- [opencollective/babel](https://github.com/opencollective/babel) pushed_at:2019-01 star:0.0k fork:0.0k 🐠 Babel is a compiler for writing next generation JavaScript.
-- [opencollective/babel-preset-opencollective](https://github.com/opencollective/babel-preset-opencollective) pushed_at:2021-02 star:0.0k fork:0.0k 
-- [opencollective/badgen-service](https://github.com/opencollective/badgen-service) pushed_at:2019-02 star:0.0k fork:0.0k Fast svg badge generating service
-- [opencollective/balance-manager](https://github.com/opencollective/balance-manager) pushed_at:2019-03 star:0.0k fork:0.0k A tool to manage your wallets
-- [opencollective/beaker](https://github.com/opencollective/beaker) pushed_at:2017-07 star:0.0k fork:0.0k A peer-to-peer Web browser
-- [opencollective/Boostnote](https://github.com/opencollective/Boostnote) pushed_at:2017-11 star:0.0k fork:0.0k 🚀 Boostnote is an open source note-taking app made for programmers just like you.
-- [opencollective/bootstrap-modal](https://github.com/opencollective/bootstrap-modal) pushed_at:2019-04 star:0.0k fork:0.0k Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
-- [opencollective/bootstrap-star-rating](https://github.com/opencollective/bootstrap-star-rating) pushed_at:2019-09 star:0.0k fork:0.0k A simple yet powerful JQuery star rating plugin with fractional rating support.
-- [opencollective/bootstrap-vue](https://github.com/opencollective/bootstrap-vue) pushed_at:2017-11 star:0.0k fork:0.0k Quickly integrate Bootstrap 4 Components with Vue.js.
-- [opencollective/botui](https://github.com/opencollective/botui) pushed_at:2018-12 star:0.0k fork:0.0k 🤖 A JavaScript framework to create conversational UIs
-- [opencollective/bower](https://github.com/opencollective/bower) pushed_at:2017-05 star:0.0k fork:0.0k A package manager for the web
-- [opencollective/bundlesize](https://github.com/opencollective/bundlesize) pushed_at:2017-09 star:0.0k fork:0.0k Keep your bundle size in check
-- [opencollective/buttercup-desktop](https://github.com/opencollective/buttercup-desktop) pushed_at:2017-10 star:0.0k fork:0.0k :key: Javascript Password Vault - Multi-Platform Desktop Application
-- [opencollective/cached-request](https://github.com/opencollective/cached-request) pushed_at:2016-10 star:0.0k fork:0.0k Node.js module to perform HTTP requests with caching support
-- [opencollective/canner](https://github.com/opencollective/canner) pushed_at:2019-01 star:0.0k fork:0.0k ⚡️CMS for developers, a flexible CMS create CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
-- [opencollective/caption](https://github.com/opencollective/caption) pushed_at:2017-11 star:0.0k fork:0.0k Get Caption, start watching.
-- [opencollective/cezerin](https://github.com/opencollective/cezerin) pushed_at:2018-01 star:0.0k fork:0.0k React and Node.js based e-commerce platform.
-- [opencollective/cmv-app](https://github.com/opencollective/cmv-app) pushed_at:2017-09 star:0.0k fork:0.0k CMV - The Configurable Map Viewer - A community supported open source mapping framework built with the Esri JavaScript API and the Dojo Toolkit
-- [opencollective/code-surfer](https://github.com/opencollective/code-surfer) pushed_at:2019-09 star:0.0k fork:0.0k Rad code slides <🏄/>
-- [opencollective/codecrumbs](https://github.com/opencollective/codecrumbs) pushed_at:2019-03 star:0.0k fork:0.0k Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.
-- [opencollective/coderplanets_web](https://github.com/opencollective/coderplanets_web) pushed_at:2019-07 star:0.0k fork:0.0k the most sexiest community for developers,  build with React, Mobx/MST, GraphQL, Styled-Components,  Rxjs, Ramda ... and ❤️
-- [opencollective/contributors-svg](https://github.com/opencollective/contributors-svg) pushed_at:2022-07 star:0.0k fork:0.0k 
-- [opencollective/core](https://github.com/opencollective/core) pushed_at:2017-07 star:0.0k fork:0.0k Agnostic Virtual Assistant
-- [opencollective/core-js](https://github.com/opencollective/core-js) pushed_at:2019-04 star:0.0k fork:0.0k Standard Library
-- [opencollective/country-currency-emoji-flags](https://github.com/opencollective/country-currency-emoji-flags) pushed_at:2022-06 star:0.0k fork:0.0k Returns Country Flag Emojis Given the Country or Currency Codes
-- [opencollective/cq-prolyfill](https://github.com/opencollective/cq-prolyfill) pushed_at:2018-04 star:0.0k fork:0.0k Prolyfill for CSS Container Queries
-- [opencollective/create-react-app](https://github.com/opencollective/create-react-app) pushed_at:2019-12 star:0.0k fork:0.0k Set up a modern web app by running one command.
-- [opencollective/dataloader-sequelize](https://github.com/opencollective/dataloader-sequelize) pushed_at:2018-05 star:0.0k fork:0.0k Batching and simplification of Sequelize with facebook/dataloader
-- [opencollective/dep](https://github.com/opencollective/dep) pushed_at:2017-10 star:0.0k fork:0.0k A little Node.js dependency installer
-- [opencollective/dependent-dropdown](https://github.com/opencollective/dependent-dropdown) pushed_at:2019-09 star:0.0k fork:0.0k JQuery plugin that enables to add and control multi level dependent dropdown lists.
-- [opencollective/digital-climate-strike](https://github.com/opencollective/digital-climate-strike) pushed_at:2019-09 star:0.0k fork:0.0k Repository for Digital #ClimateStrike widget: https://digital.globalclimatestrike.net/
-- [opencollective/discord.js](https://github.com/opencollective/discord.js) pushed_at:2017-06 star:0.0k fork:0.0k A powerful JavaScript library for interacting with the Discord API
-- [opencollective/distributed](https://github.com/opencollective/distributed) pushed_at:2017-06 star:0.0k fork:0.0k :thumbsup: Easy to use and beautiful restrospective tool
-- [opencollective/docker-registry-frontend](https://github.com/opencollective/docker-registry-frontend) pushed_at:2019-03 star:0.0k fork:0.0k Browse and modify your Docker registry in a browser.
-- [opencollective/dorita980](https://github.com/opencollective/dorita980) pushed_at:2019-07 star:0.0k fork:0.0k Unofficial iRobot Roomba 900 series 980 / i7 / i7+ node.js library / SDK to control your robot
-- [opencollective/dotenv](https://github.com/opencollective/dotenv) pushed_at:2019-12 star:0.0k fork:0.0k Loads environment variables from .env for nodejs projects.
-- [opencollective/dracula](https://github.com/opencollective/dracula) pushed_at:2020-10 star:0.0k fork:0.0k JavaScript layout and representation of connected graphs.
-- [opencollective/dumper.js](https://github.com/opencollective/dumper.js) pushed_at:2019-07 star:0.0k fork:0.0k A better and pretty variable inspector for your Node.js applications
-- [opencollective/Easy-Hexo](https://github.com/opencollective/Easy-Hexo) pushed_at:2019-05 star:0.0k fork:0.0k 🤘 Build your own website with Hexo, the easy way. | 轻松使用 Hexo 建站。
-- [opencollective/electerm](https://github.com/opencollective/electerm) pushed_at:2019-04 star:0.0k fork:0.0k 🍭Terminal/ssh/sftp client(linux, mac, win)
-- [opencollective/eleventy](https://github.com/opencollective/eleventy) pushed_at:2019-07 star:0.0k fork:0.0k A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
-- [opencollective/empleo-dot-net](https://github.com/opencollective/empleo-dot-net) pushed_at:2018-04 star:0.0k fork:0.0k ASP.NET MVC5 - Iniciativa de aprendizaje mediante ejemplos
-- [opencollective/encrypt_dir](https://github.com/opencollective/encrypt_dir) pushed_at:2020-01 star:0.0k fork:0.0k Scripts for encrypting and decrypting a dir of folders
-- [opencollective/envinfo](https://github.com/opencollective/envinfo) pushed_at:2019-07 star:0.0k fork:0.0k Generate a report about your development environment for debugging and issue reporting
-- [opencollective/erxes](https://github.com/opencollective/erxes) pushed_at:2017-10 star:0.0k fork:0.0k erxes is an AI meets open source messaging platform  for sales and marketing
-- [opencollective/esdiscuss.org](https://github.com/opencollective/esdiscuss.org) pushed_at:2017-08 star:0.0k fork:0.0k A website displaying markdown formatted versions of the esdiscuss.org posts
-- [opencollective/eslint-config-opencollective](https://github.com/opencollective/eslint-config-opencollective) pushed_at:2021-12 star:0.0k fork:0.0k https://www.npmjs.com/package/eslint-config-opencollective
-- [opencollective/eslint-plugin-compat](https://github.com/opencollective/eslint-plugin-compat) pushed_at:2019-04 star:0.0k fork:0.0k Lint the browser compatibility of your code
-- [opencollective/eslint.github.io](https://github.com/opencollective/eslint.github.io) pushed_at:2019-05 star:0.0k fork:0.0k ESLint website
-- [opencollective/Ethlint](https://github.com/opencollective/Ethlint) pushed_at:2019-04 star:0.0k fork:0.0k (Formerly Solium) Linter to identify and fix style & security issues in Solidity
-- [opencollective/express-server-status](https://github.com/opencollective/express-server-status) pushed_at:2018-05 star:0.0k fork:0.0k Get a quick overview of the status of an express server (uptime, version, git sha, stats)
-- [opencollective/fela](https://github.com/opencollective/fela) pushed_at:2017-09 star:0.0k fork:0.0k Universal, Dynamic & High-Performance Styling in JavaScript
-- [opencollective/FileSaver.js](https://github.com/opencollective/FileSaver.js) pushed_at:2019-12 star:0.0k fork:0.0k An HTML5 saveAs() FileSaver implementation
-- [opencollective/flow.js](https://github.com/opencollective/flow.js) pushed_at:2019-07 star:0.0k fork:0.0k A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.
-- [opencollective/fractal](https://github.com/opencollective/fractal) pushed_at:2019-03 star:0.0k fork:0.0k A tool to help you build & document web component libraries, and then integrate them into your web projects.
-- [opencollective/fullstack-tutorial](https://github.com/opencollective/fullstack-tutorial) pushed_at:2019-01 star:0.0k fork:0.0k 🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
-- [opencollective/fuse-box](https://github.com/opencollective/fuse-box) pushed_at:2017-05 star:0.0k fork:0.0k A blazing fast js bundler/loader with a comprehensive API :fire:
-- [opencollective/generator-jhipster](https://github.com/opencollective/generator-jhipster) pushed_at:2017-11 star:0.0k fork:0.0k Open Source application generator for creating Spring Boot + Angular projects in seconds!
-- [opencollective/Ghost](https://github.com/opencollective/Ghost) pushed_at:2017-11 star:0.0k fork:0.0k The platform for professional publishers
-- [opencollective/git-history](https://github.com/opencollective/git-history) pushed_at:2019-03 star:0.0k fork:0.0k Quickly browse the history of a file from any git repository
-- [opencollective/git-point](https://github.com/opencollective/git-point) pushed_at:2017-10 star:0.0k fork:0.0k GitHub in your pocket :iphone:
-- [opencollective/gitter-services](https://github.com/opencollective/gitter-services) pushed_at:2016-03 star:0.0k fork:0.0k Gitter integrations
-- [opencollective/grapher](https://github.com/opencollective/grapher) pushed_at:2017-11 star:0.0k fork:0.0k Grapher: Meteor Collection Joins + Reactive GraphQL like queries
-- [opencollective/Grow-IoT](https://github.com/opencollective/Grow-IoT) pushed_at:2017-08 star:0.0k fork:0.0k Open source software for growing things.
-- [opencollective/handsfree.js](https://github.com/opencollective/handsfree.js) pushed_at:2019-01 star:0.0k fork:0.0k A drop-in library for creating webcam driven handsfree tools, games, and experiences just...like...✨...that!
-- [opencollective/hedron](https://github.com/opencollective/hedron) pushed_at:2017-06 star:0.0k fork:0.0k A no-frills flexbox grid system for React, powered by styled-components.
-- [opencollective/hemera](https://github.com/opencollective/hemera) pushed_at:2019-04 star:0.0k fork:0.0k 🔬 Writing reliable & fault-tolerant microservices in Node.js https://hemerajs.github.io/hemera/
-- [opencollective/Here](https://github.com/opencollective/Here) pushed_at:2019-01 star:0.0k fork:0.0k Here Music  一个使用 Electron + React 开发的音乐客户端，最新版本：v0.1.1
-- [opencollective/hexo](https://github.com/opencollective/hexo) pushed_at:2017-04 star:0.0k fork:0.0k A fast, simple & powerful blog framework, powered by Node.js.
-- [opencollective/hexo-deployer-git](https://github.com/opencollective/hexo-deployer-git) pushed_at:2017-04 star:0.0k fork:0.0k Git deployer plugin for Hexo.
-- [opencollective/hexo-helper-live2d](https://github.com/opencollective/hexo-helper-live2d) pushed_at:2019-01 star:0.0k fork:0.0k Add the Sseexxyyy live2d to your hexo!
-- [opencollective/html2canvas](https://github.com/opencollective/html2canvas) pushed_at:2019-04 star:0.0k fork:0.0k Screenshots with JavaScript
-- [opencollective/hyperline](https://github.com/opencollective/hyperline) pushed_at:2017-08 star:0.0k fork:0.0k ✨ Status line plugin for Hyper ✨
-- [opencollective/hyron](https://github.com/opencollective/hyron) pushed_at:2019-04 star:0.0k fork:0.0k Build backend app like play Lego
-- [opencollective/idyll](https://github.com/opencollective/idyll) pushed_at:2017-09 star:0.0k fork:0.0k Interactive Document Language
-- [opencollective/intelligence](https://github.com/opencollective/intelligence) pushed_at:2018-06 star:0.0k fork:0.0k 
-- [opencollective/jovo-framework-nodejs](https://github.com/opencollective/jovo-framework-nodejs) pushed_at:2018-12 star:0.0k fork:0.0k 🔈 Build cross-platform Voice Apps for Amazon Alexa and Google Assistant
-- [opencollective/jquery.adaptive-backgrounds.js](https://github.com/opencollective/jquery.adaptive-backgrounds.js) pushed_at:2017-10 star:0.0k fork:0.0k 🦎 A jQuery plugin for extracting the dominant color from images and applying the color to their parent.
-- [opencollective/js-xlsx](https://github.com/opencollective/js-xlsx) pushed_at:2019-04 star:0.0k fork:0.0k :green_book: SheetJS Community Edition -- Spreadsheet Parser and Writer
-- [opencollective/jsonmvc](https://github.com/opencollective/jsonmvc) pushed_at:2017-08 star:0.0k fork:0.0k JSONMVC is a JavaScript framework for effortless web application modeling.
-- [opencollective/JSUI](https://github.com/opencollective/JSUI) pushed_at:2018-07 star:0.0k fork:0.0k A powerful UI toolkit for managing JavaScript apps
-- [opencollective/juice-shop](https://github.com/opencollective/juice-shop) pushed_at:2019-06 star:0.0k fork:0.0k OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
-- [opencollective/kea](https://github.com/opencollective/kea) pushed_at:2017-10 star:0.0k fork:0.0k High level abstraction between React and Redux
-- [opencollective/kiosk](https://github.com/opencollective/kiosk) pushed_at:2019-07 star:0.0k fork:0.0k Allows any URL to be loaded as a fullscreen kiosk in Google Chrome or Chrome OS.
-- [opencollective/lad](https://github.com/opencollective/lad) pushed_at:2017-09 star:0.0k fork:0.0k  :boy: Lad scaffolds a Koa webapp and API framework for Node.js *TO BE RELEASED*
-- [opencollective/lazy](https://github.com/opencollective/lazy) pushed_at:2017-10 star:0.0k fork:0.0k Lazy, AI chatbot service.
-- [opencollective/leader.js.cool](https://github.com/opencollective/leader.js.cool) pushed_at:2019-07 star:0.0k fork:0.0k 不可替代的团队领袖培养计划
-- [opencollective/librenms](https://github.com/opencollective/librenms) pushed_at:2017-05 star:0.0k fork:0.0k Community-based GPL-licensed network monitoring system
-- [opencollective/limitrr](https://github.com/opencollective/limitrr) pushed_at:2019-03 star:0.0k fork:0.0k Light NodeJS rate limiting using Redis - including Express middleware.
-- [opencollective/live2d-widget.js](https://github.com/opencollective/live2d-widget.js) pushed_at:2019-01 star:0.0k fork:0.0k Add the Sseexxyyy live2d to webpages. This project won't be updated until next year. See #38
-- [opencollective/lyrebird](https://github.com/opencollective/lyrebird) pushed_at:2018-12 star:0.0k fork:0.0k Lyrebird 是一个基于拦截以及模拟HTTP/HTTPS网络请求的面向移动应用的插件化测试平台
-- [opencollective/medium-clone-on-node](https://github.com/opencollective/medium-clone-on-node) pushed_at:2019-03 star:0.0k fork:0.0k clone Medium on Nodejs and Reactjs
-- [opencollective/meteor-autoform](https://github.com/opencollective/meteor-autoform) pushed_at:2017-11 star:0.0k fork:0.0k AutoForm is a Meteor package that adds UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
-- [opencollective/meteor-up](https://github.com/opencollective/meteor-up) pushed_at:2017-08 star:0.0k fork:0.0k Production Quality Meteor Deployment to Anywhere
-- [opencollective/mimic](https://github.com/opencollective/mimic) pushed_at:2017-05 star:0.0k fork:0.0k Seamless client side mocking
-- [opencollective/miscord](https://github.com/opencollective/miscord) pushed_at:2019-01 star:0.0k fork:0.0k Facebook Messenger to Discord bridge
-- [opencollective/mocha](https://github.com/opencollective/mocha) pushed_at:2020-09 star:0.0k fork:0.0k ☕️ simple, flexible, fun javascript test framework for node.js & the browser
-- [opencollective/moro](https://github.com/opencollective/moro) pushed_at:2017-08 star:0.0k fork:0.0k Single command CLI tool for tracking work hours 
-- [opencollective/native](https://github.com/opencollective/native) pushed_at:2018-05 star:0.0k fork:0.0k native app
-- [opencollective/NativeBase](https://github.com/opencollective/NativeBase) pushed_at:2019-07 star:0.0k fork:0.0k Essential cross-platform UI components for React Native
-- [opencollective/next-issues](https://github.com/opencollective/next-issues) pushed_at:2018-08 star:0.0k fork:0.0k Minimal Next.js applications to highlight bugs or issues.
-- [opencollective/node-evercookie](https://github.com/opencollective/node-evercookie) pushed_at:2018-12 star:0.0k fork:0.0k This is a conenct/express middleware for evercookie.
-- [opencollective/nodebook](https://github.com/opencollective/nodebook) pushed_at:2018-06 star:0.0k fork:0.0k 📖 Node.js • Apprendre par la pratique ✍️ ouvrage en cours de rédaction
-- [opencollective/nodemon](https://github.com/opencollective/nodemon) pushed_at:2017-12 star:0.0k fork:0.0k Monitor for any changes in your node.js application and automatically restart the server - perfect for development
-- [opencollective/npm-postinstall](https://github.com/opencollective/npm-postinstall) pushed_at:2018-05 star:0.0k fork:0.0k Lightweight npm postinstall message to invite people to donate to your collective
-- [opencollective/numbro](https://github.com/opencollective/numbro) pushed_at:2016-06 star:0.0k fork:0.0k A JS library for number formatting
-- [opencollective/nuxt.js](https://github.com/opencollective/nuxt.js) pushed_at:2017-05 star:0.0k fork:0.0k Framework for server-rendered Vue.js applications.
-- [opencollective/officegen](https://github.com/opencollective/officegen) pushed_at:2019-04 star:0.0k fork:0.0k Standalone Office Open XML files (Microsoft Office 2007 and later) generator for Word (docx), PowerPoint (pptx) and Excell (xlsx) in javascript. The output is a stream.
-- [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) pushed_at:2022-08 star:0.3k fork:0.2k Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
-- [opencollective/opencollective-app](https://github.com/opencollective/opencollective-app) pushed_at:2018-05 star:0.0k fork:0.0k OpenCollective App - used to manage budgets and approve expenses
-- [opencollective/opencollective-changelog](https://github.com/opencollective/opencollective-changelog) pushed_at:2022-08 star:0.0k fork:0.0k Tracking weekly changes
-- [opencollective/opencollective-cli](https://github.com/opencollective/opencollective-cli) pushed_at:2021-08 star:0.0k fork:0.0k Command Line Interface for Open Collective
-- [opencollective/opencollective-email](https://github.com/opencollective/opencollective-email) pushed_at:2019-01 star:0.0k fork:0.0k The email service for transparent and inclusive open collectives
-- [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) pushed_at:2022-07 star:0.0k fork:0.0k The new Open Collective email service, powered by Eymail
-- [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) pushed_at:2022-08 star:0.6k fork:0.3k Open Collective's Frontend. A React app powered by Next.js.
-- [opencollective/opencollective-giftcards-generator](https://github.com/opencollective/opencollective-giftcards-generator) pushed_at:2020-04 star:0.0k fork:0.0k Simple app to generate read-to-print Open Collective gift cards
-- [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) pushed_at:2022-08 star:0.0k fork:0.0k Open Collective's Image Server. For badges, banners, avatar, etc ...
-- [opencollective/opencollective-jobs](https://github.com/opencollective/opencollective-jobs) pushed_at:2018-05 star:0.0k fork:0.0k 
-- [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) pushed_at:2022-08 star:0.0k fork:0.0k Open Collective's PDF Server
-- [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) pushed_at:2022-07 star:0.0k fork:0.0k Prompt your users to donate to your collective after `npm install`
-- [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) pushed_at:2022-08 star:0.0k fork:0.0k Open Collective's REST API legacy, v1, and v2!
-- [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
-- [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
-- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) pushed_at:2022-08 star:0.0k fork:0.0k 
-- [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) pushed_at:2022-04 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
-- [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) pushed_at:2018-07 star:0.1k fork:0.0k OpenCollective frontend
-- [opencollective/opencollective-workers](https://github.com/opencollective/opencollective-workers) pushed_at:2022-05 star:0.0k fork:0.0k Cloudflare workers at the frontline of Open Collective.
-- [opencollective/opencollective-zapier](https://github.com/opencollective/opencollective-zapier) pushed_at:2021-02 star:0.0k fork:0.0k ⚠️ DEPRECATED ⚠️ Open Collective legacy Zapier integration
-- [opencollective/OpenJSCAD.org](https://github.com/opencollective/OpenJSCAD.org) pushed_at:2017-09 star:0.0k fork:0.0k OpenSCAD + JavaScript = OpenJSCAD, edit locally or remote online, preview in browser direct via WebGL.
-- [opencollective/opus](https://github.com/opencollective/opus) pushed_at:2019-07 star:0.0k fork:0.0k Open source knowledge base application for Teams
-- [opencollective/pangu.js](https://github.com/opencollective/pangu.js) pushed_at:2019-07 star:0.0k fork:0.0k Paranoid text spacing in JavaScript
-- [opencollective/parcel](https://github.com/opencollective/parcel) pushed_at:2017-12 star:0.0k fork:0.0k 📦🚀 Blazing fast, zero configuration web application bundler
-- [opencollective/parse-server](https://github.com/opencollective/parse-server) pushed_at:2017-10 star:0.0k fork:0.0k Parse-compatible API server module for Node/Express
-- [opencollective/passport-oauth1](https://github.com/opencollective/passport-oauth1) pushed_at:2016-08 star:0.0k fork:0.0k OAuth 1.0 authentication strategy for Passport and Node.js.
-- [opencollective/patchwork](https://github.com/opencollective/patchwork) pushed_at:2019-07 star:0.0k fork:0.0k A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
-- [opencollective/peachhub-provider](https://github.com/opencollective/peachhub-provider) pushed_at:2019-03 star:0.0k fork:0.0k [deprecated] a hosted Scuttlebutt pub-as-a-service hub provider
-- [opencollective/peermaps](https://github.com/opencollective/peermaps) pushed_at:2019-01 star:0.0k fork:0.0k peer to peer cartography
-- [opencollective/Platform](https://github.com/opencollective/Platform) pushed_at:2017-09 star:0.0k fork:0.0k Platform package for Laravel
-- [opencollective/poi](https://github.com/opencollective/poi) pushed_at:2017-08 star:0.0k fork:0.0k Scalable KanColle browser and tool.
-- [opencollective/polka](https://github.com/opencollective/polka) pushed_at:2019-07 star:0.0k fork:0.0k A micro web server so fast, it'll make you dance! :dancers:
-- [opencollective/popper.js](https://github.com/opencollective/popper.js) pushed_at:2018-12 star:0.0k fork:0.0k A kickass library to manage your poppers
-- [opencollective/presentations](https://github.com/opencollective/presentations) pushed_at:2018-10 star:0.0k fork:0.0k A collection of presentations for internal or external usage.
-- [opencollective/pwa](https://github.com/opencollective/pwa) pushed_at:2019-07 star:0.0k fork:0.0k (WIP) Universal PWA Builder
-- [opencollective/qmk_configurator](https://github.com/opencollective/qmk_configurator) pushed_at:2019-07 star:0.0k fork:0.0k The QMK Configurator
-- [opencollective/quasar](https://github.com/opencollective/quasar) pushed_at:2019-09 star:0.0k fork:0.0k Quasar Framework - Build high-performance VueJS user interfaces in record time
-- [opencollective/ramme](https://github.com/opencollective/ramme) pushed_at:2017-12 star:0.0k fork:0.0k Unofficial Instagram Desktop App
-- [opencollective/rawact](https://github.com/opencollective/rawact) pushed_at:2018-12 star:0.0k fork:0.0k [POC] A babel plugin which compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.
-- [opencollective/react-ace](https://github.com/opencollective/react-ace) pushed_at:2017-05 star:0.0k fork:0.0k React Ace Component
-- [opencollective/react-insta-stories](https://github.com/opencollective/react-insta-stories) pushed_at:2019-04 star:0.0k fork:0.0k A React component for Instagram like stories
-- [opencollective/react-native-auto-height-image](https://github.com/opencollective/react-native-auto-height-image) pushed_at:2019-09 star:0.0k fork:0.0k 🖼️React native auto height image
-- [opencollective/react-native-elements](https://github.com/opencollective/react-native-elements) pushed_at:2017-04 star:0.0k fork:0.0k Cross Platform React Native UI Toolkit
-- [opencollective/react-native-firebase](https://github.com/opencollective/react-native-firebase) pushed_at:2017-11 star:0.0k fork:0.0k A well tested feature rich Firebase implementation for React Native, supporting both iOS & Android platforms for 10+ Firebase modules (including Cloud Firestore) 🔥
-- [opencollective/react-native-masonry](https://github.com/opencollective/react-native-masonry) pushed_at:2017-10 star:0.0k fork:0.0k  :raised_hands:  A pure JS react-native component to render a masonry~ish layout for images with support for dynamic columns, progressive image loading, device rotation, on-press handlers, and headers/captions.
-- [opencollective/react-native-qrcode-scanner](https://github.com/opencollective/react-native-qrcode-scanner) pushed_at:2019-06 star:0.0k fork:0.0k A QR code scanner component for React Native.
-- [opencollective/react-native-responsive-grid](https://github.com/opencollective/react-native-responsive-grid) pushed_at:2017-12 star:0.0k fork:0.0k Bringing the Web's Responsive Design to React Native
-- [opencollective/react-native-router-flux](https://github.com/opencollective/react-native-router-flux) pushed_at:2017-07 star:0.0k fork:0.0k React Native Router based on new React Native Navigation API
-- [opencollective/react-native-storage](https://github.com/opencollective/react-native-storage) pushed_at:2019-01 star:0.0k fork:0.0k local storage wrapper for both react-native and browser. Support size controlling, auto expiring, remote data auto syncing and getting batch data in one query.
-- [opencollective/react-pdf](https://github.com/opencollective/react-pdf) pushed_at:2017-06 star:0.0k fork:0.0k Create PDF files using React
-- [opencollective/react-pwa](https://github.com/opencollective/react-pwa) pushed_at:2017-10 star:0.0k fork:0.0k Progressive Web Application with universal routing (Server side rendering) with React & Redux, built with SEO in mind & achieving maximum page speed.
-- [opencollective/react-redux-firebase](https://github.com/opencollective/react-redux-firebase) pushed_at:2017-06 star:0.0k fork:0.0k Redux bindings for Firebase. Includes Higher Order Component for use with React.
-- [opencollective/react-router](https://github.com/opencollective/react-router) pushed_at:2019-03 star:0.0k fork:0.0k Declarative routing for React
-- [opencollective/redis-oplog](https://github.com/opencollective/redis-oplog) pushed_at:2019-03 star:0.0k fork:0.0k Redis Oplog implementation to fully replace MongoDB Oplog in Meteor
-- [opencollective/Research-Engine](https://github.com/opencollective/Research-Engine) pushed_at:2017-05 star:0.0k fork:0.0k WorldBrain's Chrome Extension to full-text search through your browser history & bookmarks. 
-- [opencollective/respec](https://github.com/opencollective/respec) pushed_at:2019-05 star:0.0k fork:0.0k A tool for creating technical documents and web standards
-- [opencollective/RiTa](https://github.com/opencollective/RiTa) pushed_at:2019-07 star:0.0k fork:0.0k RiTa: the generative language toolkit
-- [opencollective/scroll-into-view](https://github.com/opencollective/scroll-into-view) pushed_at:2019-01 star:0.0k fork:0.0k Scrolls an element into view if possible
-- [opencollective/selection-sharer](https://github.com/opencollective/selection-sharer) pushed_at:2019-01 star:0.0k fork:0.0k Medium like popover menu to share on Twitter or by email any text selected on the page
-- [opencollective/sequelize-historical](https://github.com/opencollective/sequelize-historical) pushed_at:2020-05 star:0.0k fork:0.0k Temporal tables for Sequelize
-- [opencollective/server](https://github.com/opencollective/server) pushed_at:2018-01 star:0.0k fork:0.0k Self-hosted Free(Libre) Ebook Reader
-- [opencollective/shields](https://github.com/opencollective/shields) pushed_at:2017-11 star:0.0k fork:0.0k Concise, consistent, and legible badges in SVG and raster format
-- [opencollective/simple-schema-js](https://github.com/opencollective/simple-schema-js) pushed_at:2017-12 star:0.0k fork:0.0k A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects
-- [opencollective/slim.js](https://github.com/opencollective/slim.js) pushed_at:2017-11 star:0.0k fork:0.0k Create powerful web components with data-binding and more great stuff
-- [opencollective/socket.io](https://github.com/opencollective/socket.io) pushed_at:2017-05 star:0.0k fork:0.0k Realtime application framework (Node.JS server)
-- [opencollective/speedtracker](https://github.com/opencollective/speedtracker) pushed_at:2017-06 star:0.0k fork:0.0k 📉 Visualisation layer and data store for SpeedTracker
-- [opencollective/squirrelly](https://github.com/opencollective/squirrelly) pushed_at:2019-01 star:0.0k fork:0.0k Modern, super fast, and configurable JS template engine that works with ES5
-- [opencollective/storybook](https://github.com/opencollective/storybook) pushed_at:2017-05 star:0.0k fork:0.0k Interactive development & testing environment for UI components for React and React-Native
-- [opencollective/strider](https://github.com/opencollective/strider) pushed_at:2017-05 star:0.0k fork:0.0k Open Source Continuous Integration & Deployment Server
-- [opencollective/styled-icons](https://github.com/opencollective/styled-icons) pushed_at:2019-01 star:0.0k fork:0.0k 💅 Font Awesome, Feather, Material Design, and Octicons icon packs as Styled Components
-- [opencollective/styled-reset](https://github.com/opencollective/styled-reset) pushed_at:2019-01 star:0.0k fork:0.0k Reset CSS for Styled Components
-- [opencollective/stylelint](https://github.com/opencollective/stylelint) pushed_at:2018-01 star:0.0k fork:0.0k A mighty, modern CSS linter
-- [opencollective/surfbird](https://github.com/opencollective/surfbird) pushed_at:2017-12 star:0.0k fork:0.0k A Microblogging client built on Electron and Vue
-- [opencollective/taskbook](https://github.com/opencollective/taskbook) pushed_at:2019-07 star:0.0k fork:0.0k Tasks, boards & notes for the command-line habitat
-- [opencollective/tech-interview-handbook](https://github.com/opencollective/tech-interview-handbook) pushed_at:2019-01 star:0.0k fork:0.0k 💯 Algorithms study materials, behavioral content and tips for rocking your coding interview
-- [opencollective/textillate](https://github.com/opencollective/textillate) pushed_at:2019-04 star:0.0k fork:0.0k A jquery plugin for CSS3 text animations.
-- [opencollective/thanks](https://github.com/opencollective/thanks) pushed_at:2019-06 star:0.0k fork:0.0k 🙌 Give thanks to the open source maintainers you depend on! ✨
-- [opencollective/tipbox](https://github.com/opencollective/tipbox) pushed_at:2017-07 star:0.0k fork:0.0k Get anonymous feedback & tips from the communities you want
-- [opencollective/tld.js](https://github.com/opencollective/tld.js) pushed_at:2018-02 star:0.0k fork:0.0k JavaScript API to work easily with complex domain names, subdomains and well-known TLDs.
-- [opencollective/uap-core](https://github.com/opencollective/uap-core) pushed_at:2019-03 star:0.0k fork:0.0k The regex file necessary to build language ports of Browserscope's user agent parser.
-- [opencollective/uform](https://github.com/opencollective/uform) pushed_at:2019-06 star:0.0k fork:0.0k ⚡React High Performance Form Solution For Enterprise. 
-- [opencollective/ui-cropper](https://github.com/opencollective/ui-cropper) pushed_at:2018-12 star:0.0k fork:0.0k Image Crop directive for AngularJS
-- [opencollective/umi](https://github.com/opencollective/umi) pushed_at:2019-04 star:0.0k fork:0.0k 🌋 Pluggable enterprise-level react application framework.
-- [opencollective/universalviewer](https://github.com/opencollective/universalviewer) pushed_at:2017-05 star:0.0k fork:0.0k The Universal Viewer is a community-developed open source project on a mission to help you share your content with the world
-- [opencollective/url-shortener](https://github.com/opencollective/url-shortener) pushed_at:2017-10 star:0.0k fork:0.0k Shitty url shortener, emoji powered. 🌍✌🏼
-- [opencollective/vis](https://github.com/opencollective/vis) pushed_at:2017-11 star:0.0k fork:0.0k vis.js is a dynamic, browser-based visualization library
-- [opencollective/VSCodeBeautify](https://github.com/opencollective/VSCodeBeautify) pushed_at:2019-04 star:0.0k fork:0.0k Enable js-beautify (https://github.com/beautify-web/js-beautify) in VS Code
-- [opencollective/vue-lazy-hydration](https://github.com/opencollective/vue-lazy-hydration) pushed_at:2019-06 star:0.0k fork:0.0k Lazy hydration of server-side rendered Vue.js components
-- [opencollective/warriorjs](https://github.com/opencollective/warriorjs) pushed_at:2018-05 star:0.0k fork:0.0k An exciting game of programming and Artificial Intelligence
-- [opencollective/webpack](https://github.com/opencollective/webpack) pushed_at:2019-06 star:0.0k fork:0.0k A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-- [opencollective/webpack.js.org](https://github.com/opencollective/webpack.js.org) pushed_at:2019-05 star:0.0k fork:0.0k Repository for webpack documentation and more!
-- [opencollective/website](https://github.com/opencollective/website) pushed_at:2019-05 star:0.0k fork:0.0k :globe_with_meridians: The Babel documentation website
-- [opencollective/x-spreadsheet](https://github.com/opencollective/x-spreadsheet) pushed_at:2019-04 star:0.0k fork:0.0k A web-based JavaScript（canvas） spreadsheet
-- [opencollective/yodart](https://github.com/opencollective/yodart) pushed_at:2019-02 star:0.0k fork:0.0k JavaScript VUI Framework 👽🚀
+- [opencollective/acgn-stock](https://github.com/opencollective/acgn-stock) topic: pushed_at:2017-09 star:0.0k fork:0.0k PTT ACGN股票交易市場
+- [opencollective/AncientBeast](https://github.com/opencollective/AncientBeast) topic: pushed_at:2019-03 star:0.0k fork:0.0k 🐺 Turn Based Strategy Game. Master your beasts!
+- [opencollective/AnotherRedisDesktopManager](https://github.com/opencollective/AnotherRedisDesktopManager) topic: pushed_at:2020-04 star:0.0k fork:0.0k A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.
+- [opencollective/ant-design-landing](https://github.com/opencollective/ant-design-landing) topic: pushed_at:2018-12 star:0.0k fork:0.0k :mountain_bicyclist: Landing Pages of Ant Design System
+- [opencollective/ant-motion](https://github.com/opencollective/ant-motion) topic: pushed_at:2019-07 star:0.0k fork:0.0k   :bicyclist: Animate specification and components of Ant Design
+- [opencollective/apollo-universal-starter-kit](https://github.com/opencollective/apollo-universal-starter-kit) topic: pushed_at:2017-11 star:0.0k fork:0.0k Apollo 2 Universal Starter Kit — GraphQL React JavaScript app boilerplate for Mobile, Server and Web where code for all platforms built with Webpack to enable max code reuse, stack: Apollo, GraphQL, React 16, React Native, Expo, Express, Knex, SQLite, Twitter Bootstrap, Babel, Webpack
+- [opencollective/asyncapi](https://github.com/opencollective/asyncapi) topic: pushed_at:2019-02 star:0.0k fork:0.0k The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
+- [opencollective/atom](https://github.com/opencollective/atom) topic: pushed_at:2018-07 star:0.0k fork:0.0k Atom file-specific icons for improved visual grepping.
+- [opencollective/atom-latex](https://github.com/opencollective/atom-latex) topic: pushed_at:2019-07 star:0.0k fork:0.0k Compile LaTeX or knitr documents from within Atom
+- [opencollective/babel](https://github.com/opencollective/babel) topic: pushed_at:2019-01 star:0.0k fork:0.0k 🐠 Babel is a compiler for writing next generation JavaScript.
+- [opencollective/babel-preset-opencollective](https://github.com/opencollective/babel-preset-opencollective) topic: pushed_at:2021-02 star:0.0k fork:0.0k 
+- [opencollective/badgen-service](https://github.com/opencollective/badgen-service) topic: pushed_at:2019-02 star:0.0k fork:0.0k Fast svg badge generating service
+- [opencollective/balance-manager](https://github.com/opencollective/balance-manager) topic: pushed_at:2019-03 star:0.0k fork:0.0k A tool to manage your wallets
+- [opencollective/beaker](https://github.com/opencollective/beaker) topic: pushed_at:2017-07 star:0.0k fork:0.0k A peer-to-peer Web browser
+- [opencollective/Boostnote](https://github.com/opencollective/Boostnote) topic: pushed_at:2017-11 star:0.0k fork:0.0k 🚀 Boostnote is an open source note-taking app made for programmers just like you.
+- [opencollective/bootstrap-modal](https://github.com/opencollective/bootstrap-modal) topic: pushed_at:2019-04 star:0.0k fork:0.0k Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
+- [opencollective/bootstrap-star-rating](https://github.com/opencollective/bootstrap-star-rating) topic: pushed_at:2019-09 star:0.0k fork:0.0k A simple yet powerful JQuery star rating plugin with fractional rating support.
+- [opencollective/bootstrap-vue](https://github.com/opencollective/bootstrap-vue) topic: pushed_at:2017-11 star:0.0k fork:0.0k Quickly integrate Bootstrap 4 Components with Vue.js.
+- [opencollective/botui](https://github.com/opencollective/botui) topic: pushed_at:2018-12 star:0.0k fork:0.0k 🤖 A JavaScript framework to create conversational UIs
+- [opencollective/bower](https://github.com/opencollective/bower) topic: pushed_at:2017-05 star:0.0k fork:0.0k A package manager for the web
+- [opencollective/bundlesize](https://github.com/opencollective/bundlesize) topic: pushed_at:2017-09 star:0.0k fork:0.0k Keep your bundle size in check
+- [opencollective/buttercup-desktop](https://github.com/opencollective/buttercup-desktop) topic: pushed_at:2017-10 star:0.0k fork:0.0k :key: Javascript Password Vault - Multi-Platform Desktop Application
+- [opencollective/cached-request](https://github.com/opencollective/cached-request) topic: pushed_at:2016-10 star:0.0k fork:0.0k Node.js module to perform HTTP requests with caching support
+- [opencollective/canner](https://github.com/opencollective/canner) topic: pushed_at:2019-01 star:0.0k fork:0.0k ⚡️CMS for developers, a flexible CMS create CMS fast and easy. Support data sources such as Firebase/Firestore, GraphQL and Restful APIs.
+- [opencollective/caption](https://github.com/opencollective/caption) topic: pushed_at:2017-11 star:0.0k fork:0.0k Get Caption, start watching.
+- [opencollective/cezerin](https://github.com/opencollective/cezerin) topic: pushed_at:2018-01 star:0.0k fork:0.0k React and Node.js based e-commerce platform.
+- [opencollective/cmv-app](https://github.com/opencollective/cmv-app) topic: pushed_at:2017-09 star:0.0k fork:0.0k CMV - The Configurable Map Viewer - A community supported open source mapping framework built with the Esri JavaScript API and the Dojo Toolkit
+- [opencollective/code-surfer](https://github.com/opencollective/code-surfer) topic: pushed_at:2019-09 star:0.0k fork:0.0k Rad code slides <🏄/>
+- [opencollective/codecrumbs](https://github.com/opencollective/codecrumbs) topic: pushed_at:2019-03 star:0.0k fork:0.0k Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.
+- [opencollective/coderplanets_web](https://github.com/opencollective/coderplanets_web) topic: pushed_at:2019-07 star:0.0k fork:0.0k the most sexiest community for developers,  build with React, Mobx/MST, GraphQL, Styled-Components,  Rxjs, Ramda ... and ❤️
+- [opencollective/contributors-svg](https://github.com/opencollective/contributors-svg) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
+- [opencollective/core](https://github.com/opencollective/core) topic: pushed_at:2017-07 star:0.0k fork:0.0k Agnostic Virtual Assistant
+- [opencollective/core-js](https://github.com/opencollective/core-js) topic: pushed_at:2019-04 star:0.0k fork:0.0k Standard Library
+- [opencollective/country-currency-emoji-flags](https://github.com/opencollective/country-currency-emoji-flags) topic: pushed_at:2022-06 star:0.0k fork:0.0k Returns Country Flag Emojis Given the Country or Currency Codes
+- [opencollective/cq-prolyfill](https://github.com/opencollective/cq-prolyfill) topic: pushed_at:2018-04 star:0.0k fork:0.0k Prolyfill for CSS Container Queries
+- [opencollective/create-react-app](https://github.com/opencollective/create-react-app) topic: pushed_at:2019-12 star:0.0k fork:0.0k Set up a modern web app by running one command.
+- [opencollective/dataloader-sequelize](https://github.com/opencollective/dataloader-sequelize) topic: pushed_at:2018-05 star:0.0k fork:0.0k Batching and simplification of Sequelize with facebook/dataloader
+- [opencollective/dep](https://github.com/opencollective/dep) topic: pushed_at:2017-10 star:0.0k fork:0.0k A little Node.js dependency installer
+- [opencollective/dependent-dropdown](https://github.com/opencollective/dependent-dropdown) topic: pushed_at:2019-09 star:0.0k fork:0.0k JQuery plugin that enables to add and control multi level dependent dropdown lists.
+- [opencollective/digital-climate-strike](https://github.com/opencollective/digital-climate-strike) topic: pushed_at:2019-09 star:0.0k fork:0.0k Repository for Digital #ClimateStrike widget: https://digital.globalclimatestrike.net/
+- [opencollective/discord.js](https://github.com/opencollective/discord.js) topic: pushed_at:2017-06 star:0.0k fork:0.0k A powerful JavaScript library for interacting with the Discord API
+- [opencollective/distributed](https://github.com/opencollective/distributed) topic: pushed_at:2017-06 star:0.0k fork:0.0k :thumbsup: Easy to use and beautiful restrospective tool
+- [opencollective/docker-registry-frontend](https://github.com/opencollective/docker-registry-frontend) topic: pushed_at:2019-03 star:0.0k fork:0.0k Browse and modify your Docker registry in a browser.
+- [opencollective/dorita980](https://github.com/opencollective/dorita980) topic: pushed_at:2019-07 star:0.0k fork:0.0k Unofficial iRobot Roomba 900 series 980 / i7 / i7+ node.js library / SDK to control your robot
+- [opencollective/dotenv](https://github.com/opencollective/dotenv) topic: pushed_at:2019-12 star:0.0k fork:0.0k Loads environment variables from .env for nodejs projects.
+- [opencollective/dracula](https://github.com/opencollective/dracula) topic: pushed_at:2020-10 star:0.0k fork:0.0k JavaScript layout and representation of connected graphs.
+- [opencollective/dumper.js](https://github.com/opencollective/dumper.js) topic: pushed_at:2019-07 star:0.0k fork:0.0k A better and pretty variable inspector for your Node.js applications
+- [opencollective/Easy-Hexo](https://github.com/opencollective/Easy-Hexo) topic: pushed_at:2019-05 star:0.0k fork:0.0k 🤘 Build your own website with Hexo, the easy way. | 轻松使用 Hexo 建站。
+- [opencollective/electerm](https://github.com/opencollective/electerm) topic: pushed_at:2019-04 star:0.0k fork:0.0k 🍭Terminal/ssh/sftp client(linux, mac, win)
+- [opencollective/eleventy](https://github.com/opencollective/eleventy) topic: pushed_at:2019-07 star:0.0k fork:0.0k A simpler static site generator. An alternative to Jekyll. Transforms a directory of templates (of varying types) into HTML.
+- [opencollective/empleo-dot-net](https://github.com/opencollective/empleo-dot-net) topic: pushed_at:2018-04 star:0.0k fork:0.0k ASP.NET MVC5 - Iniciativa de aprendizaje mediante ejemplos
+- [opencollective/encrypt_dir](https://github.com/opencollective/encrypt_dir) topic: pushed_at:2020-01 star:0.0k fork:0.0k Scripts for encrypting and decrypting a dir of folders
+- [opencollective/envinfo](https://github.com/opencollective/envinfo) topic: pushed_at:2019-07 star:0.0k fork:0.0k Generate a report about your development environment for debugging and issue reporting
+- [opencollective/erxes](https://github.com/opencollective/erxes) topic: pushed_at:2017-10 star:0.0k fork:0.0k erxes is an AI meets open source messaging platform  for sales and marketing
+- [opencollective/esdiscuss.org](https://github.com/opencollective/esdiscuss.org) topic: pushed_at:2017-08 star:0.0k fork:0.0k A website displaying markdown formatted versions of the esdiscuss.org posts
+- [opencollective/eslint-config-opencollective](https://github.com/opencollective/eslint-config-opencollective) topic: pushed_at:2021-12 star:0.0k fork:0.0k https://www.npmjs.com/package/eslint-config-opencollective
+- [opencollective/eslint-plugin-compat](https://github.com/opencollective/eslint-plugin-compat) topic: pushed_at:2019-04 star:0.0k fork:0.0k Lint the browser compatibility of your code
+- [opencollective/eslint.github.io](https://github.com/opencollective/eslint.github.io) topic: pushed_at:2019-05 star:0.0k fork:0.0k ESLint website
+- [opencollective/Ethlint](https://github.com/opencollective/Ethlint) topic: pushed_at:2019-04 star:0.0k fork:0.0k (Formerly Solium) Linter to identify and fix style & security issues in Solidity
+- [opencollective/express-server-status](https://github.com/opencollective/express-server-status) topic: pushed_at:2018-05 star:0.0k fork:0.0k Get a quick overview of the status of an express server (uptime, version, git sha, stats)
+- [opencollective/fela](https://github.com/opencollective/fela) topic: pushed_at:2017-09 star:0.0k fork:0.0k Universal, Dynamic & High-Performance Styling in JavaScript
+- [opencollective/FileSaver.js](https://github.com/opencollective/FileSaver.js) topic: pushed_at:2019-12 star:0.0k fork:0.0k An HTML5 saveAs() FileSaver implementation
+- [opencollective/flow.js](https://github.com/opencollective/flow.js) topic: pushed_at:2019-07 star:0.0k fork:0.0k A JavaScript library providing multiple simultaneous, stable, fault-tolerant and resumable/restartable file uploads via the HTML5 File API.
+- [opencollective/fractal](https://github.com/opencollective/fractal) topic: pushed_at:2019-03 star:0.0k fork:0.0k A tool to help you build & document web component libraries, and then integrate them into your web projects.
+- [opencollective/fullstack-tutorial](https://github.com/opencollective/fullstack-tutorial) topic: pushed_at:2019-01 star:0.0k fork:0.0k 🚀 fullstack tutorial 2019，后台技术栈/架构师之路/全栈开发社区，春招/秋招/校招/面试
+- [opencollective/fuse-box](https://github.com/opencollective/fuse-box) topic: pushed_at:2017-05 star:0.0k fork:0.0k A blazing fast js bundler/loader with a comprehensive API :fire:
+- [opencollective/generator-jhipster](https://github.com/opencollective/generator-jhipster) topic: pushed_at:2017-11 star:0.0k fork:0.0k Open Source application generator for creating Spring Boot + Angular projects in seconds!
+- [opencollective/Ghost](https://github.com/opencollective/Ghost) topic: pushed_at:2017-11 star:0.0k fork:0.0k The platform for professional publishers
+- [opencollective/git-history](https://github.com/opencollective/git-history) topic: pushed_at:2019-03 star:0.0k fork:0.0k Quickly browse the history of a file from any git repository
+- [opencollective/git-point](https://github.com/opencollective/git-point) topic: pushed_at:2017-10 star:0.0k fork:0.0k GitHub in your pocket :iphone:
+- [opencollective/gitter-services](https://github.com/opencollective/gitter-services) topic: pushed_at:2016-03 star:0.0k fork:0.0k Gitter integrations
+- [opencollective/grapher](https://github.com/opencollective/grapher) topic: pushed_at:2017-11 star:0.0k fork:0.0k Grapher: Meteor Collection Joins + Reactive GraphQL like queries
+- [opencollective/Grow-IoT](https://github.com/opencollective/Grow-IoT) topic: pushed_at:2017-08 star:0.0k fork:0.0k Open source software for growing things.
+- [opencollective/handsfree.js](https://github.com/opencollective/handsfree.js) topic: pushed_at:2019-01 star:0.0k fork:0.0k A drop-in library for creating webcam driven handsfree tools, games, and experiences just...like...✨...that!
+- [opencollective/hedron](https://github.com/opencollective/hedron) topic: pushed_at:2017-06 star:0.0k fork:0.0k A no-frills flexbox grid system for React, powered by styled-components.
+- [opencollective/hemera](https://github.com/opencollective/hemera) topic: pushed_at:2019-04 star:0.0k fork:0.0k 🔬 Writing reliable & fault-tolerant microservices in Node.js https://hemerajs.github.io/hemera/
+- [opencollective/Here](https://github.com/opencollective/Here) topic: pushed_at:2019-01 star:0.0k fork:0.0k Here Music  一个使用 Electron + React 开发的音乐客户端，最新版本：v0.1.1
+- [opencollective/hexo](https://github.com/opencollective/hexo) topic: pushed_at:2017-04 star:0.0k fork:0.0k A fast, simple & powerful blog framework, powered by Node.js.
+- [opencollective/hexo-deployer-git](https://github.com/opencollective/hexo-deployer-git) topic: pushed_at:2017-04 star:0.0k fork:0.0k Git deployer plugin for Hexo.
+- [opencollective/hexo-helper-live2d](https://github.com/opencollective/hexo-helper-live2d) topic: pushed_at:2019-01 star:0.0k fork:0.0k Add the Sseexxyyy live2d to your hexo!
+- [opencollective/html2canvas](https://github.com/opencollective/html2canvas) topic: pushed_at:2019-04 star:0.0k fork:0.0k Screenshots with JavaScript
+- [opencollective/hyperline](https://github.com/opencollective/hyperline) topic: pushed_at:2017-08 star:0.0k fork:0.0k ✨ Status line plugin for Hyper ✨
+- [opencollective/hyron](https://github.com/opencollective/hyron) topic: pushed_at:2019-04 star:0.0k fork:0.0k Build backend app like play Lego
+- [opencollective/idyll](https://github.com/opencollective/idyll) topic: pushed_at:2017-09 star:0.0k fork:0.0k Interactive Document Language
+- [opencollective/intelligence](https://github.com/opencollective/intelligence) topic: pushed_at:2018-06 star:0.0k fork:0.0k 
+- [opencollective/jovo-framework-nodejs](https://github.com/opencollective/jovo-framework-nodejs) topic: pushed_at:2018-12 star:0.0k fork:0.0k 🔈 Build cross-platform Voice Apps for Amazon Alexa and Google Assistant
+- [opencollective/jquery.adaptive-backgrounds.js](https://github.com/opencollective/jquery.adaptive-backgrounds.js) topic: pushed_at:2017-10 star:0.0k fork:0.0k 🦎 A jQuery plugin for extracting the dominant color from images and applying the color to their parent.
+- [opencollective/js-xlsx](https://github.com/opencollective/js-xlsx) topic: pushed_at:2019-04 star:0.0k fork:0.0k :green_book: SheetJS Community Edition -- Spreadsheet Parser and Writer
+- [opencollective/jsonmvc](https://github.com/opencollective/jsonmvc) topic: pushed_at:2017-08 star:0.0k fork:0.0k JSONMVC is a JavaScript framework for effortless web application modeling.
+- [opencollective/JSUI](https://github.com/opencollective/JSUI) topic: pushed_at:2018-07 star:0.0k fork:0.0k A powerful UI toolkit for managing JavaScript apps
+- [opencollective/juice-shop](https://github.com/opencollective/juice-shop) topic: pushed_at:2019-06 star:0.0k fork:0.0k OWASP Juice Shop: Probably the most modern and sophisticated insecure web application
+- [opencollective/kea](https://github.com/opencollective/kea) topic: pushed_at:2017-10 star:0.0k fork:0.0k High level abstraction between React and Redux
+- [opencollective/kiosk](https://github.com/opencollective/kiosk) topic: pushed_at:2019-07 star:0.0k fork:0.0k Allows any URL to be loaded as a fullscreen kiosk in Google Chrome or Chrome OS.
+- [opencollective/lad](https://github.com/opencollective/lad) topic: pushed_at:2017-09 star:0.0k fork:0.0k  :boy: Lad scaffolds a Koa webapp and API framework for Node.js *TO BE RELEASED*
+- [opencollective/lazy](https://github.com/opencollective/lazy) topic: pushed_at:2017-10 star:0.0k fork:0.0k Lazy, AI chatbot service.
+- [opencollective/leader.js.cool](https://github.com/opencollective/leader.js.cool) topic: pushed_at:2019-07 star:0.0k fork:0.0k 不可替代的团队领袖培养计划
+- [opencollective/librenms](https://github.com/opencollective/librenms) topic: pushed_at:2017-05 star:0.0k fork:0.0k Community-based GPL-licensed network monitoring system
+- [opencollective/limitrr](https://github.com/opencollective/limitrr) topic: pushed_at:2019-03 star:0.0k fork:0.0k Light NodeJS rate limiting using Redis - including Express middleware.
+- [opencollective/live2d-widget.js](https://github.com/opencollective/live2d-widget.js) topic: pushed_at:2019-01 star:0.0k fork:0.0k Add the Sseexxyyy live2d to webpages. This project won't be updated until next year. See #38
+- [opencollective/lyrebird](https://github.com/opencollective/lyrebird) topic: pushed_at:2018-12 star:0.0k fork:0.0k Lyrebird 是一个基于拦截以及模拟HTTP/HTTPS网络请求的面向移动应用的插件化测试平台
+- [opencollective/medium-clone-on-node](https://github.com/opencollective/medium-clone-on-node) topic: pushed_at:2019-03 star:0.0k fork:0.0k clone Medium on Nodejs and Reactjs
+- [opencollective/meteor-autoform](https://github.com/opencollective/meteor-autoform) topic: pushed_at:2017-11 star:0.0k fork:0.0k AutoForm is a Meteor package that adds UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
+- [opencollective/meteor-up](https://github.com/opencollective/meteor-up) topic: pushed_at:2017-08 star:0.0k fork:0.0k Production Quality Meteor Deployment to Anywhere
+- [opencollective/mimic](https://github.com/opencollective/mimic) topic: pushed_at:2017-05 star:0.0k fork:0.0k Seamless client side mocking
+- [opencollective/miscord](https://github.com/opencollective/miscord) topic: pushed_at:2019-01 star:0.0k fork:0.0k Facebook Messenger to Discord bridge
+- [opencollective/mocha](https://github.com/opencollective/mocha) topic: pushed_at:2020-09 star:0.0k fork:0.0k ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+- [opencollective/moro](https://github.com/opencollective/moro) topic: pushed_at:2017-08 star:0.0k fork:0.0k Single command CLI tool for tracking work hours 
+- [opencollective/native](https://github.com/opencollective/native) topic: pushed_at:2018-05 star:0.0k fork:0.0k native app
+- [opencollective/NativeBase](https://github.com/opencollective/NativeBase) topic: pushed_at:2019-07 star:0.0k fork:0.0k Essential cross-platform UI components for React Native
+- [opencollective/next-issues](https://github.com/opencollective/next-issues) topic: pushed_at:2018-08 star:0.0k fork:0.0k Minimal Next.js applications to highlight bugs or issues.
+- [opencollective/node-evercookie](https://github.com/opencollective/node-evercookie) topic: pushed_at:2018-12 star:0.0k fork:0.0k This is a conenct/express middleware for evercookie.
+- [opencollective/nodebook](https://github.com/opencollective/nodebook) topic: pushed_at:2018-06 star:0.0k fork:0.0k 📖 Node.js • Apprendre par la pratique ✍️ ouvrage en cours de rédaction
+- [opencollective/nodemon](https://github.com/opencollective/nodemon) topic: pushed_at:2017-12 star:0.0k fork:0.0k Monitor for any changes in your node.js application and automatically restart the server - perfect for development
+- [opencollective/npm-postinstall](https://github.com/opencollective/npm-postinstall) topic: pushed_at:2018-05 star:0.0k fork:0.0k Lightweight npm postinstall message to invite people to donate to your collective
+- [opencollective/numbro](https://github.com/opencollective/numbro) topic: pushed_at:2016-06 star:0.0k fork:0.0k A JS library for number formatting
+- [opencollective/nuxt.js](https://github.com/opencollective/nuxt.js) topic: pushed_at:2017-05 star:0.0k fork:0.0k Framework for server-rendered Vue.js applications.
+- [opencollective/officegen](https://github.com/opencollective/officegen) topic: pushed_at:2019-04 star:0.0k fork:0.0k Standalone Office Open XML files (Microsoft Office 2007 and later) generator for Word (docx), PowerPoint (pptx) and Excell (xlsx) in javascript. The output is a stream.
+- [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) topic:graphql,nodejs,opencollective,postgres pushed_at:2022-08 star:0.3k fork:0.2k Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
+- [opencollective/opencollective-app](https://github.com/opencollective/opencollective-app) topic: pushed_at:2018-05 star:0.0k fork:0.0k OpenCollective App - used to manage budgets and approve expenses
+- [opencollective/opencollective-changelog](https://github.com/opencollective/opencollective-changelog) topic:changelog,opencollective pushed_at:2022-08 star:0.0k fork:0.0k Tracking weekly changes
+- [opencollective/opencollective-cli](https://github.com/opencollective/opencollective-cli) topic: pushed_at:2021-08 star:0.0k fork:0.0k Command Line Interface for Open Collective
+- [opencollective/opencollective-email](https://github.com/opencollective/opencollective-email) topic: pushed_at:2019-01 star:0.0k fork:0.0k The email service for transparent and inclusive open collectives
+- [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) topic: pushed_at:2022-07 star:0.0k fork:0.0k The new Open Collective email service, powered by Eymail
+- [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) topic:nextjs,opencollective,react,webpack pushed_at:2022-08 star:0.6k fork:0.3k Open Collective's Frontend. A React app powered by Next.js.
+- [opencollective/opencollective-giftcards-generator](https://github.com/opencollective/opencollective-giftcards-generator) topic: pushed_at:2020-04 star:0.0k fork:0.0k Simple app to generate read-to-print Open Collective gift cards
+- [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) topic: pushed_at:2022-08 star:0.0k fork:0.0k Open Collective's Image Server. For badges, banners, avatar, etc ...
+- [opencollective/opencollective-jobs](https://github.com/opencollective/opencollective-jobs) topic: pushed_at:2018-05 star:0.0k fork:0.0k 
+- [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) topic:gr,graphql,invoices-pdf,nodejs,opencollective pushed_at:2022-08 star:0.0k fork:0.0k Open Collective's PDF Server
+- [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) topic: pushed_at:2022-07 star:0.0k fork:0.0k Prompt your users to donate to your collective after `npm install`
+- [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) topic: pushed_at:2022-08 star:0.0k fork:0.0k Open Collective's REST API legacy, v1, and v2!
+- [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) topic: pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
+- [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) topic: pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
+- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
+- [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) topic: pushed_at:2022-04 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
+- [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) topic:opencollective,reactjs pushed_at:2018-07 star:0.1k fork:0.0k OpenCollective frontend
+- [opencollective/opencollective-workers](https://github.com/opencollective/opencollective-workers) topic: pushed_at:2022-08 star:0.0k fork:0.0k Cloudflare workers at the frontline of Open Collective.
+- [opencollective/opencollective-zapier](https://github.com/opencollective/opencollective-zapier) topic:opencollective,zapier pushed_at:2021-02 star:0.0k fork:0.0k ⚠️ DEPRECATED ⚠️ Open Collective legacy Zapier integration
+- [opencollective/OpenJSCAD.org](https://github.com/opencollective/OpenJSCAD.org) topic: pushed_at:2017-09 star:0.0k fork:0.0k OpenSCAD + JavaScript = OpenJSCAD, edit locally or remote online, preview in browser direct via WebGL.
+- [opencollective/opus](https://github.com/opencollective/opus) topic: pushed_at:2019-07 star:0.0k fork:0.0k Open source knowledge base application for Teams
+- [opencollective/pangu.js](https://github.com/opencollective/pangu.js) topic: pushed_at:2019-07 star:0.0k fork:0.0k Paranoid text spacing in JavaScript
+- [opencollective/parcel](https://github.com/opencollective/parcel) topic: pushed_at:2017-12 star:0.0k fork:0.0k 📦🚀 Blazing fast, zero configuration web application bundler
+- [opencollective/parse-server](https://github.com/opencollective/parse-server) topic: pushed_at:2017-10 star:0.0k fork:0.0k Parse-compatible API server module for Node/Express
+- [opencollective/passport-oauth1](https://github.com/opencollective/passport-oauth1) topic: pushed_at:2016-08 star:0.0k fork:0.0k OAuth 1.0 authentication strategy for Passport and Node.js.
+- [opencollective/patchwork](https://github.com/opencollective/patchwork) topic: pushed_at:2019-07 star:0.0k fork:0.0k A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
+- [opencollective/peachhub-provider](https://github.com/opencollective/peachhub-provider) topic: pushed_at:2019-03 star:0.0k fork:0.0k [deprecated] a hosted Scuttlebutt pub-as-a-service hub provider
+- [opencollective/peermaps](https://github.com/opencollective/peermaps) topic: pushed_at:2019-01 star:0.0k fork:0.0k peer to peer cartography
+- [opencollective/Platform](https://github.com/opencollective/Platform) topic: pushed_at:2017-09 star:0.0k fork:0.0k Platform package for Laravel
+- [opencollective/poi](https://github.com/opencollective/poi) topic: pushed_at:2017-08 star:0.0k fork:0.0k Scalable KanColle browser and tool.
+- [opencollective/polka](https://github.com/opencollective/polka) topic: pushed_at:2019-07 star:0.0k fork:0.0k A micro web server so fast, it'll make you dance! :dancers:
+- [opencollective/popper.js](https://github.com/opencollective/popper.js) topic: pushed_at:2018-12 star:0.0k fork:0.0k A kickass library to manage your poppers
+- [opencollective/presentations](https://github.com/opencollective/presentations) topic: pushed_at:2018-10 star:0.0k fork:0.0k A collection of presentations for internal or external usage.
+- [opencollective/pwa](https://github.com/opencollective/pwa) topic: pushed_at:2019-07 star:0.0k fork:0.0k (WIP) Universal PWA Builder
+- [opencollective/qmk_configurator](https://github.com/opencollective/qmk_configurator) topic: pushed_at:2019-07 star:0.0k fork:0.0k The QMK Configurator
+- [opencollective/quasar](https://github.com/opencollective/quasar) topic: pushed_at:2019-09 star:0.0k fork:0.0k Quasar Framework - Build high-performance VueJS user interfaces in record time
+- [opencollective/ramme](https://github.com/opencollective/ramme) topic: pushed_at:2017-12 star:0.0k fork:0.0k Unofficial Instagram Desktop App
+- [opencollective/rawact](https://github.com/opencollective/rawact) topic: pushed_at:2018-12 star:0.0k fork:0.0k [POC] A babel plugin which compiles React.js components into native DOM instructions to eliminate the need for the react library at runtime.
+- [opencollective/react-ace](https://github.com/opencollective/react-ace) topic: pushed_at:2017-05 star:0.0k fork:0.0k React Ace Component
+- [opencollective/react-insta-stories](https://github.com/opencollective/react-insta-stories) topic: pushed_at:2019-04 star:0.0k fork:0.0k A React component for Instagram like stories
+- [opencollective/react-native-auto-height-image](https://github.com/opencollective/react-native-auto-height-image) topic: pushed_at:2019-09 star:0.0k fork:0.0k 🖼️React native auto height image
+- [opencollective/react-native-elements](https://github.com/opencollective/react-native-elements) topic: pushed_at:2017-04 star:0.0k fork:0.0k Cross Platform React Native UI Toolkit
+- [opencollective/react-native-firebase](https://github.com/opencollective/react-native-firebase) topic: pushed_at:2017-11 star:0.0k fork:0.0k A well tested feature rich Firebase implementation for React Native, supporting both iOS & Android platforms for 10+ Firebase modules (including Cloud Firestore) 🔥
+- [opencollective/react-native-masonry](https://github.com/opencollective/react-native-masonry) topic: pushed_at:2017-10 star:0.0k fork:0.0k  :raised_hands:  A pure JS react-native component to render a masonry~ish layout for images with support for dynamic columns, progressive image loading, device rotation, on-press handlers, and headers/captions.
+- [opencollective/react-native-qrcode-scanner](https://github.com/opencollective/react-native-qrcode-scanner) topic: pushed_at:2019-06 star:0.0k fork:0.0k A QR code scanner component for React Native.
+- [opencollective/react-native-responsive-grid](https://github.com/opencollective/react-native-responsive-grid) topic: pushed_at:2017-12 star:0.0k fork:0.0k Bringing the Web's Responsive Design to React Native
+- [opencollective/react-native-router-flux](https://github.com/opencollective/react-native-router-flux) topic: pushed_at:2017-07 star:0.0k fork:0.0k React Native Router based on new React Native Navigation API
+- [opencollective/react-native-storage](https://github.com/opencollective/react-native-storage) topic: pushed_at:2019-01 star:0.0k fork:0.0k local storage wrapper for both react-native and browser. Support size controlling, auto expiring, remote data auto syncing and getting batch data in one query.
+- [opencollective/react-pdf](https://github.com/opencollective/react-pdf) topic: pushed_at:2017-06 star:0.0k fork:0.0k Create PDF files using React
+- [opencollective/react-pwa](https://github.com/opencollective/react-pwa) topic: pushed_at:2017-10 star:0.0k fork:0.0k Progressive Web Application with universal routing (Server side rendering) with React & Redux, built with SEO in mind & achieving maximum page speed.
+- [opencollective/react-redux-firebase](https://github.com/opencollective/react-redux-firebase) topic: pushed_at:2017-06 star:0.0k fork:0.0k Redux bindings for Firebase. Includes Higher Order Component for use with React.
+- [opencollective/react-router](https://github.com/opencollective/react-router) topic: pushed_at:2019-03 star:0.0k fork:0.0k Declarative routing for React
+- [opencollective/redis-oplog](https://github.com/opencollective/redis-oplog) topic: pushed_at:2019-03 star:0.0k fork:0.0k Redis Oplog implementation to fully replace MongoDB Oplog in Meteor
+- [opencollective/Research-Engine](https://github.com/opencollective/Research-Engine) topic: pushed_at:2017-05 star:0.0k fork:0.0k WorldBrain's Chrome Extension to full-text search through your browser history & bookmarks. 
+- [opencollective/respec](https://github.com/opencollective/respec) topic: pushed_at:2019-05 star:0.0k fork:0.0k A tool for creating technical documents and web standards
+- [opencollective/RiTa](https://github.com/opencollective/RiTa) topic: pushed_at:2019-07 star:0.0k fork:0.0k RiTa: the generative language toolkit
+- [opencollective/scroll-into-view](https://github.com/opencollective/scroll-into-view) topic: pushed_at:2019-01 star:0.0k fork:0.0k Scrolls an element into view if possible
+- [opencollective/selection-sharer](https://github.com/opencollective/selection-sharer) topic: pushed_at:2019-01 star:0.0k fork:0.0k Medium like popover menu to share on Twitter or by email any text selected on the page
+- [opencollective/sequelize-historical](https://github.com/opencollective/sequelize-historical) topic: pushed_at:2020-05 star:0.0k fork:0.0k Temporal tables for Sequelize
+- [opencollective/server](https://github.com/opencollective/server) topic: pushed_at:2018-01 star:0.0k fork:0.0k Self-hosted Free(Libre) Ebook Reader
+- [opencollective/shields](https://github.com/opencollective/shields) topic: pushed_at:2017-11 star:0.0k fork:0.0k Concise, consistent, and legible badges in SVG and raster format
+- [opencollective/simple-schema-js](https://github.com/opencollective/simple-schema-js) topic: pushed_at:2017-12 star:0.0k fork:0.0k A JavaScript schema validation package that supports direct validation of MongoDB update modifier objects
+- [opencollective/slim.js](https://github.com/opencollective/slim.js) topic: pushed_at:2017-11 star:0.0k fork:0.0k Create powerful web components with data-binding and more great stuff
+- [opencollective/socket.io](https://github.com/opencollective/socket.io) topic: pushed_at:2017-05 star:0.0k fork:0.0k Realtime application framework (Node.JS server)
+- [opencollective/speedtracker](https://github.com/opencollective/speedtracker) topic: pushed_at:2017-06 star:0.0k fork:0.0k 📉 Visualisation layer and data store for SpeedTracker
+- [opencollective/squirrelly](https://github.com/opencollective/squirrelly) topic: pushed_at:2019-01 star:0.0k fork:0.0k Modern, super fast, and configurable JS template engine that works with ES5
+- [opencollective/storybook](https://github.com/opencollective/storybook) topic: pushed_at:2017-05 star:0.0k fork:0.0k Interactive development & testing environment for UI components for React and React-Native
+- [opencollective/strider](https://github.com/opencollective/strider) topic: pushed_at:2017-05 star:0.0k fork:0.0k Open Source Continuous Integration & Deployment Server
+- [opencollective/styled-icons](https://github.com/opencollective/styled-icons) topic: pushed_at:2019-01 star:0.0k fork:0.0k 💅 Font Awesome, Feather, Material Design, and Octicons icon packs as Styled Components
+- [opencollective/styled-reset](https://github.com/opencollective/styled-reset) topic: pushed_at:2019-01 star:0.0k fork:0.0k Reset CSS for Styled Components
+- [opencollective/stylelint](https://github.com/opencollective/stylelint) topic: pushed_at:2018-01 star:0.0k fork:0.0k A mighty, modern CSS linter
+- [opencollective/surfbird](https://github.com/opencollective/surfbird) topic: pushed_at:2017-12 star:0.0k fork:0.0k A Microblogging client built on Electron and Vue
+- [opencollective/taskbook](https://github.com/opencollective/taskbook) topic: pushed_at:2019-07 star:0.0k fork:0.0k Tasks, boards & notes for the command-line habitat
+- [opencollective/tech-interview-handbook](https://github.com/opencollective/tech-interview-handbook) topic: pushed_at:2019-01 star:0.0k fork:0.0k 💯 Algorithms study materials, behavioral content and tips for rocking your coding interview
+- [opencollective/textillate](https://github.com/opencollective/textillate) topic: pushed_at:2019-04 star:0.0k fork:0.0k A jquery plugin for CSS3 text animations.
+- [opencollective/thanks](https://github.com/opencollective/thanks) topic: pushed_at:2019-06 star:0.0k fork:0.0k 🙌 Give thanks to the open source maintainers you depend on! ✨
+- [opencollective/tipbox](https://github.com/opencollective/tipbox) topic: pushed_at:2017-07 star:0.0k fork:0.0k Get anonymous feedback & tips from the communities you want
+- [opencollective/tld.js](https://github.com/opencollective/tld.js) topic: pushed_at:2018-02 star:0.0k fork:0.0k JavaScript API to work easily with complex domain names, subdomains and well-known TLDs.
+- [opencollective/uap-core](https://github.com/opencollective/uap-core) topic: pushed_at:2019-03 star:0.0k fork:0.0k The regex file necessary to build language ports of Browserscope's user agent parser.
+- [opencollective/uform](https://github.com/opencollective/uform) topic: pushed_at:2019-06 star:0.0k fork:0.0k ⚡React High Performance Form Solution For Enterprise. 
+- [opencollective/ui-cropper](https://github.com/opencollective/ui-cropper) topic: pushed_at:2018-12 star:0.0k fork:0.0k Image Crop directive for AngularJS
+- [opencollective/umi](https://github.com/opencollective/umi) topic: pushed_at:2019-04 star:0.0k fork:0.0k 🌋 Pluggable enterprise-level react application framework.
+- [opencollective/universalviewer](https://github.com/opencollective/universalviewer) topic: pushed_at:2017-05 star:0.0k fork:0.0k The Universal Viewer is a community-developed open source project on a mission to help you share your content with the world
+- [opencollective/url-shortener](https://github.com/opencollective/url-shortener) topic: pushed_at:2017-10 star:0.0k fork:0.0k Shitty url shortener, emoji powered. 🌍✌🏼
+- [opencollective/vis](https://github.com/opencollective/vis) topic: pushed_at:2017-11 star:0.0k fork:0.0k vis.js is a dynamic, browser-based visualization library
+- [opencollective/VSCodeBeautify](https://github.com/opencollective/VSCodeBeautify) topic: pushed_at:2019-04 star:0.0k fork:0.0k Enable js-beautify (https://github.com/beautify-web/js-beautify) in VS Code
+- [opencollective/vue-lazy-hydration](https://github.com/opencollective/vue-lazy-hydration) topic: pushed_at:2019-06 star:0.0k fork:0.0k Lazy hydration of server-side rendered Vue.js components
+- [opencollective/warriorjs](https://github.com/opencollective/warriorjs) topic: pushed_at:2018-05 star:0.0k fork:0.0k An exciting game of programming and Artificial Intelligence
+- [opencollective/webpack](https://github.com/opencollective/webpack) topic: pushed_at:2019-06 star:0.0k fork:0.0k A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
+- [opencollective/webpack.js.org](https://github.com/opencollective/webpack.js.org) topic: pushed_at:2019-05 star:0.0k fork:0.0k Repository for webpack documentation and more!
+- [opencollective/website](https://github.com/opencollective/website) topic: pushed_at:2019-05 star:0.0k fork:0.0k :globe_with_meridians: The Babel documentation website
+- [opencollective/x-spreadsheet](https://github.com/opencollective/x-spreadsheet) topic: pushed_at:2019-04 star:0.0k fork:0.0k A web-based JavaScript（canvas） spreadsheet
+- [opencollective/yodart](https://github.com/opencollective/yodart) topic: pushed_at:2019-02 star:0.0k fork:0.0k JavaScript VUI Framework 👽🚀
 
 ## Jupyter Notebook
 
-- [opencollective/daguan-classify-2018](https://github.com/opencollective/daguan-classify-2018) pushed_at:2019-06 star:0.0k fork:0.0k 2018达观杯长文本分类智能处理挑战赛 18解决方案
+- [opencollective/daguan-classify-2018](https://github.com/opencollective/daguan-classify-2018) topic: pushed_at:2019-06 star:0.0k fork:0.0k 2018达观杯长文本分类智能处理挑战赛 18解决方案
 
 ## Kotlin
 
-- [opencollective/http4k](https://github.com/opencollective/http4k) pushed_at:2017-09 star:0.0k fork:0.0k http4k is an HTTP toolkit written in Kotlin that enables the serving and consuming of HTTP services in a functional and consistent way.
-- [opencollective/injekt](https://github.com/opencollective/injekt) pushed_at:2019-07 star:0.0k fork:0.0k Dependency Injection for Kotlin
-- [opencollective/kotlin-android-starter](https://github.com/opencollective/kotlin-android-starter) pushed_at:2017-07 star:0.0k fork:0.0k [Kotlin Android] Kotlin Android starter based MVP/Dagger2/RxJava2/Robolectric/Espresso/Mockito. It provides a generator to fast create a Kotlin Android project.
-- [opencollective/lwjgl3](https://github.com/opencollective/lwjgl3) pushed_at:2017-11 star:0.0k fork:0.0k LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL), audio (OpenAL) and parallel computing (OpenCL) applications. 
-- [opencollective/zircon](https://github.com/opencollective/zircon) pushed_at:2018-02 star:0.0k fork:0.0k Zircon is an extensible text GUI library which targets multiple platforms and designed specifically for game developers.
+- [opencollective/http4k](https://github.com/opencollective/http4k) topic: pushed_at:2017-09 star:0.0k fork:0.0k http4k is an HTTP toolkit written in Kotlin that enables the serving and consuming of HTTP services in a functional and consistent way.
+- [opencollective/injekt](https://github.com/opencollective/injekt) topic: pushed_at:2019-07 star:0.0k fork:0.0k Dependency Injection for Kotlin
+- [opencollective/kotlin-android-starter](https://github.com/opencollective/kotlin-android-starter) topic: pushed_at:2017-07 star:0.0k fork:0.0k [Kotlin Android] Kotlin Android starter based MVP/Dagger2/RxJava2/Robolectric/Espresso/Mockito. It provides a generator to fast create a Kotlin Android project.
+- [opencollective/lwjgl3](https://github.com/opencollective/lwjgl3) topic: pushed_at:2017-11 star:0.0k fork:0.0k LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL), audio (OpenAL) and parallel computing (OpenCL) applications. 
+- [opencollective/zircon](https://github.com/opencollective/zircon) topic: pushed_at:2018-02 star:0.0k fork:0.0k Zircon is an extensible text GUI library which targets multiple platforms and designed specifically for game developers.
 
 ## Less
 
-- [opencollective/foundation-website](https://github.com/opencollective/foundation-website) pushed_at:2022-07 star:0.0k fork:0.0k 
+- [opencollective/foundation-website](https://github.com/opencollective/foundation-website) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 
 ## Lua
 
-- [opencollective/lime-packages](https://github.com/opencollective/lime-packages) pushed_at:2019-01 star:0.0k fork:0.0k OpenWrt packages composing LibreMesh meta-firmware for wireless mesh networking
+- [opencollective/lime-packages](https://github.com/opencollective/lime-packages) topic: pushed_at:2019-01 star:0.0k fork:0.0k OpenWrt packages composing LibreMesh meta-firmware for wireless mesh networking
 
 ## Nim
 
-- [opencollective/Nim](https://github.com/opencollective/Nim) pushed_at:2017-07 star:0.0k fork:0.0k Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in the order of priority).
+- [opencollective/Nim](https://github.com/opencollective/Nim) topic: pushed_at:2017-07 star:0.0k fork:0.0k Nim is a compiled, garbage-collected systems programming language with a design that focuses on efficiency, expressiveness, and elegance (in the order of priority).
 
 ## OCaml
 
-- [opencollective/fastpack](https://github.com/opencollective/fastpack) pushed_at:2019-03 star:0.0k fork:0.0k Pack JS code fast & easy
+- [opencollective/fastpack](https://github.com/opencollective/fastpack) topic: pushed_at:2019-03 star:0.0k fork:0.0k Pack JS code fast & easy
 
 ## Objective-C
 
-- [opencollective/iNDS](https://github.com/opencollective/iNDS) pushed_at:2019-09 star:0.0k fork:0.0k Revival of the Nintendo DS emulator for iOS
-- [opencollective/react-native-image-crop-picker](https://github.com/opencollective/react-native-image-crop-picker) pushed_at:2017-09 star:0.0k fork:0.0k iOS/Android image picker with support for camera, configurable compression, multiple images and cropping
+- [opencollective/iNDS](https://github.com/opencollective/iNDS) topic: pushed_at:2019-09 star:0.0k fork:0.0k Revival of the Nintendo DS emulator for iOS
+- [opencollective/react-native-image-crop-picker](https://github.com/opencollective/react-native-image-crop-picker) topic: pushed_at:2017-09 star:0.0k fork:0.0k iOS/Android image picker with support for camera, configurable compression, multiple images and cropping
 
 ## Others
 
-- [opencollective/.github](https://github.com/opencollective/.github) pushed_at:2022-08 star:0.0k fork:0.0k 
-- [opencollective/11ty-website](https://github.com/opencollective/11ty-website) pushed_at:2021-01 star:0.0k fork:0.0k Documentation site for the Eleventy static site generator.
-- [opencollective/1password-teams-open-source](https://github.com/opencollective/1password-teams-open-source) pushed_at:2018-04 star:0.0k fork:0.0k Get a free 1Password Teams membership for your open source project
-- [opencollective/Acid](https://github.com/opencollective/Acid) pushed_at:2019-09 star:0.0k fork:0.0k A high speed C++17 Vulkan game engine
-- [opencollective/aero](https://github.com/opencollective/aero) pushed_at:2019-09 star:0.0k fork:0.0k :bullettrain_side: High-performance web server for Go.
-- [opencollective/ainsley](https://github.com/opencollective/ainsley) pushed_at:2020-05 star:0.0k fork:0.0k 👨🏾‍🍳 Ainsley is to CSS what Markdown is to HTML
-- [opencollective/airform](https://github.com/opencollective/airform) pushed_at:2019-10 star:0.0k fork:0.0k Functional HTML forms for Front-End Developers.
-- [opencollective/ajv](https://github.com/opencollective/ajv) pushed_at:2020-04 star:0.0k fork:0.0k The fastest JSON Schema Validator. Supports draft-04/06/07
-- [opencollective/alerter](https://github.com/opencollective/alerter) pushed_at:2020-01 star:0.0k fork:0.0k Send User Alert Notification on Mac OS X from the command-line.
-- [opencollective/alidayu](https://github.com/opencollective/alidayu) pushed_at:2019-10 star:0.0k fork:0.0k 阿里大于(鱼)API接口-SDK
-- [opencollective/almace-scaffolding](https://github.com/opencollective/almace-scaffolding) pushed_at:2020-01 star:0.0k fork:0.0k AMSF, a.k.a. Almace Scaffolding, a super-fast Jekyll framework fighting against the website obesity. It supports LiveReload, Sass, HTML minification, inlined stylesheets and more.
-- [opencollective/android-security-awesome](https://github.com/opencollective/android-security-awesome) pushed_at:2017-05 star:0.0k fork:0.0k A collection of android security related resources
-- [opencollective/ant-design-blazor](https://github.com/opencollective/ant-design-blazor) pushed_at:2020-04 star:0.0k fork:0.0k 🌈An enterprise-class UI components based on Ant Design and Blazor WebAssembly.
-- [opencollective/anti-xss](https://github.com/opencollective/anti-xss) pushed_at:2019-11 star:0.0k fork:0.0k ㊙️ AntiXSS | Protection against Cross-site scripting (XSS) via PHP
-- [opencollective/api](https://github.com/opencollective/api) pushed_at:2019-12 star:0.0k fork:0.0k 🏁🛠️ Backend and auth starter for SaaS startups
-- [opencollective/api-examples](https://github.com/opencollective/api-examples) pushed_at:2022-03 star:0.0k fork:0.0k 
-- [opencollective/apprenticeships.me](https://github.com/opencollective/apprenticeships.me) pushed_at:2020-05 star:0.0k fork:0.0k Dev & design apprenticeships to the rescue! 🔧
-- [opencollective/Arrayy](https://github.com/opencollective/Arrayy) pushed_at:2019-11 star:0.0k fork:0.0k 🗃 Array manipulation library for PHP, called Arrayy!
-- [opencollective/ArtPlayer](https://github.com/opencollective/ArtPlayer) pushed_at:2019-09 star:0.0k fork:0.0k :art: ArtPlayer.js is a modern and full featured HTML5 video player
-- [opencollective/AspNetCore-Developer-Roadmap](https://github.com/opencollective/AspNetCore-Developer-Roadmap) pushed_at:2019-03 star:0.0k fork:0.0k Roadmap to becoming an ASP.NET Core developer in 2019
-- [opencollective/assimp](https://github.com/opencollective/assimp) pushed_at:2020-07 star:0.0k fork:0.0k The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. 
-- [opencollective/atom-chlorine](https://github.com/opencollective/atom-chlorine) pushed_at:2020-04 star:0.0k fork:0.0k An Atom plugin to integrate with Socket-REPL over Clojure, ClojureScript, ClojureCLR, Joker, Babashka, Clojerl, Lumo and Plank
-- [opencollective/atomic-layout](https://github.com/opencollective/atomic-layout) pushed_at:2019-09 star:0.0k fork:0.0k Physical representation of layout composition to create declarative responsive layouts in React.
-- [opencollective/attila](https://github.com/opencollective/attila) pushed_at:2019-09 star:0.0k fork:0.0k Ghost Theme
-- [opencollective/auth](https://github.com/opencollective/auth) pushed_at:2019-09 star:0.0k fork:0.0k :atom: Social (OAuth1\OAuth2\OpenID\OpenIDConnect) sign with PHP :shipit:
-- [opencollective/authelia](https://github.com/opencollective/authelia) pushed_at:2020-04 star:0.0k fork:0.0k The Cloud ready multi-factor authentication portal for your Apps
-- [opencollective/autopia](https://github.com/opencollective/autopia) pushed_at:2019-09 star:0.0k fork:0.0k 
-- [opencollective/AutoPiano](https://github.com/opencollective/AutoPiano) pushed_at:2021-01 star:0.0k fork:0.0k 自由钢琴 🎹 AutoPiano ( https://www.autopiano.cn )   Simple & Elegant Piano Online
-- [opencollective/awesome-AI-books](https://github.com/opencollective/awesome-AI-books) pushed_at:2019-12 star:0.0k fork:0.0k Some awesome AI related books and pdfs for learning and downloading
-- [opencollective/Awesome-CV](https://github.com/opencollective/Awesome-CV) pushed_at:2019-09 star:0.0k fork:0.0k :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
-- [opencollective/awesome-diarization](https://github.com/opencollective/awesome-diarization) pushed_at:2019-12 star:0.0k fork:0.0k A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.
-- [opencollective/awesome-education](https://github.com/opencollective/awesome-education) pushed_at:2019-12 star:0.0k fork:0.0k 学生福利-收集支持教育优惠的软件与服务
-- [opencollective/awesome-gbdev](https://github.com/opencollective/awesome-gbdev) pushed_at:2019-11 star:0.0k fork:0.0k A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
-- [opencollective/awesome-guidelines](https://github.com/opencollective/awesome-guidelines) pushed_at:2020-06 star:0.0k fork:0.0k A curated list of high quality coding style conventions and standards.
-- [opencollective/Awesome-Interview](https://github.com/opencollective/Awesome-Interview) pushed_at:2019-04 star:0.0k fork:0.0k Collection of awesome interview references.
-- [opencollective/Awesome-TTRSS](https://github.com/opencollective/Awesome-TTRSS) pushed_at:2019-09 star:0.0k fork:0.0k 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
-- [opencollective/awosome-bioinformatics](https://github.com/opencollective/awosome-bioinformatics) pushed_at:2020-04 star:0.0k fork:0.0k A curated list of resources for learning bioinformatics.
-- [opencollective/babashka](https://github.com/opencollective/babashka) pushed_at:2020-04 star:0.0k fork:0.0k A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
-- [opencollective/base-1](https://github.com/opencollective/base-1) pushed_at:2020-05 star:0.0k fork:0.0k Base - A Rock Solid, Responsive CSS Framework built to work on all devices big, small and in-between.
-- [opencollective/bastion](https://github.com/opencollective/bastion) pushed_at:2019-11 star:0.0k fork:0.0k Highly-available Distributed Fault-tolerant Runtime
-- [opencollective/bbs-go](https://github.com/opencollective/bbs-go) pushed_at:2020-06 star:0.0k fork:0.0k 基于Golang的社区系统。
-- [opencollective/beauter](https://github.com/opencollective/beauter) pushed_at:2019-09 star:0.0k fork:0.0k A simple framework for faster and beautiful responsive sites
-- [opencollective/BerryNet](https://github.com/opencollective/BerryNet) pushed_at:2019-12 star:0.0k fork:0.0k Deep learning gateway on Raspberry Pi and other edge devices
-- [opencollective/BlackNET](https://github.com/opencollective/BlackNET) pushed_at:2020-01 star:0.0k fork:0.0k Free advanced and modern Windows botnet with a nice and secure PHP panel.
-- [opencollective/block-options](https://github.com/opencollective/block-options) pushed_at:2019-09 star:0.0k fork:0.0k Page building toolkit for the Gutenberg editor.
-- [opencollective/Bob](https://github.com/opencollective/Bob) pushed_at:2020-01 star:0.0k fork:0.0k Bob 是一款  Mac 端翻译软件，翻译方式支持划词翻译和截图翻译，翻译引擎支持有道翻译、百度翻译和谷歌翻译~
-- [opencollective/book-of-modern-frontend-tooling](https://github.com/opencollective/book-of-modern-frontend-tooling) pushed_at:2020-03 star:0.0k fork:0.0k The Front-end Tooling Book
-- [opencollective/bootstrap-popover-x](https://github.com/opencollective/bootstrap-popover-x) pushed_at:2019-09 star:0.0k fork:0.0k Bootstrap popover extended with modal properties and more.
-- [opencollective/bowser](https://github.com/opencollective/bowser) pushed_at:2019-09 star:0.0k fork:0.0k a browser detector
-- [opencollective/boxicons](https://github.com/opencollective/boxicons) pushed_at:2020-02 star:0.0k fork:0.0k High Quality web friendly icons
-- [opencollective/brook](https://github.com/opencollective/brook) pushed_at:2019-12 star:0.0k fork:0.0k Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
-- [opencollective/burner-email-providers](https://github.com/opencollective/burner-email-providers) pushed_at:2022-01 star:0.0k fork:0.0k A list of temporary email providers
-- [opencollective/cabal-desktop](https://github.com/opencollective/cabal-desktop) pushed_at:2020-01 star:0.0k fork:0.0k Desktop client for Cabal, the p2p/decentralized/local-first chat platform.
-- [opencollective/cadCAD](https://github.com/opencollective/cadCAD) pushed_at:2019-12 star:0.0k fork:0.0k Design, test and validate complex systems through simulation in Python
-- [opencollective/camelot](https://github.com/opencollective/camelot) pushed_at:2019-11 star:0.0k fork:0.0k A Python library to extract tabular data from PDFs
-- [opencollective/cas](https://github.com/opencollective/cas) pushed_at:2021-02 star:0.0k fork:0.0k Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
-- [opencollective/cashify](https://github.com/opencollective/cashify) pushed_at:2021-02 star:0.0k fork:0.0k 💸 Lightweight currency conversion library, successor of money.js
-- [opencollective/casl](https://github.com/opencollective/casl) pushed_at:2020-02 star:0.0k fork:0.0k CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
-- [opencollective/Chrome-Charset](https://github.com/opencollective/Chrome-Charset) pushed_at:2019-12 star:0.0k fork:0.0k A Google Chrome extension used to modify the page default encoding for Google Chrome 55+.
-- [opencollective/CircuitVerse](https://github.com/opencollective/CircuitVerse) pushed_at:2019-09 star:0.0k fork:0.0k CircuitVerse Primary Code Base
-- [opencollective/citizenspring](https://github.com/opencollective/citizenspring) pushed_at:2018-12 star:0.0k fork:0.0k Building in open source what citizen movements need to thrive
-- [opencollective/clio](https://github.com/opencollective/clio) pushed_at:2020-07 star:0.0k fork:0.0k Clio is a pure functional lazy-evaluated programming language targeting decentralized and distributed systems.
-- [opencollective/cloud](https://github.com/opencollective/cloud) pushed_at:2020-07 star:0.0k fork:0.0k Secure and Interoperable Internet of Things
-- [opencollective/cloudflare-sync](https://github.com/opencollective/cloudflare-sync) pushed_at:2019-09 star:0.0k fork:0.0k A nice to have, MIT-licensed tool for using Cloudflare as a dynamic DNS provider.
-- [opencollective/cloudsim-plus](https://github.com/opencollective/cloudsim-plus) pushed_at:2020-04 star:0.0k fork:0.0k A modern, full-featured, highly extensible and easier-to-use Java 8+ Framework for Cloud Computing Simulation
-- [opencollective/code-notes](https://github.com/opencollective/code-notes) pushed_at:2019-09 star:0.0k fork:0.0k A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
-- [opencollective/Codeception](https://github.com/opencollective/Codeception) pushed_at:2019-11 star:0.0k fork:0.0k Full-stack testing PHP framework
-- [opencollective/CollapsibleTableSectionViewController](https://github.com/opencollective/CollapsibleTableSectionViewController) pushed_at:2020-05 star:0.0k fork:0.0k :tada: Swift library to support collapsible sections in a table view.
-- [opencollective/colour](https://github.com/opencollective/colour) pushed_at:2019-12 star:0.0k fork:0.0k Colour Science for Python
-- [opencollective/commonmarker](https://github.com/opencollective/commonmarker) pushed_at:2020-01 star:0.0k fork:0.0k Ruby wrapper for libcmark (CommonMark parser)
-- [opencollective/community](https://github.com/opencollective/community) pushed_at:2020-08 star:0.0k fork:0.0k Build with us the community version of open collective
-- [opencollective/comrak](https://github.com/opencollective/comrak) pushed_at:2020-02 star:0.0k fork:0.0k CommonMark + GFM compatible Markdown parser and renderer
-- [opencollective/config](https://github.com/opencollective/config) pushed_at:2019-09 star:0.0k fork:0.0k Easiest way to add multi-environment yaml settings to Rails, Sinatra, Pandrino and other Ruby projects.
-- [opencollective/coopcycle-web](https://github.com/opencollective/coopcycle-web) pushed_at:2019-10 star:0.0k fork:0.0k Open source logistics platform. Only for worker-owned business.
-- [opencollective/core.typed](https://github.com/opencollective/core.typed) pushed_at:2020-03 star:0.0k fork:0.0k An optional type system for Clojure
-- [opencollective/craft.js](https://github.com/opencollective/craft.js) pushed_at:2020-04 star:0.0k fork:0.0k 🚀 A React Framework for building extensible drag and drop page editors
-- [opencollective/create-react-app-material-typescript-redux](https://github.com/opencollective/create-react-app-material-typescript-redux) pushed_at:2020-04 star:0.0k fork:0.0k A ready to use boilerplate for starting big react projects
-- [opencollective/crowi](https://github.com/opencollective/crowi) pushed_at:2019-09 star:0.0k fork:0.0k Crowi - Markdown Wiki - Empower the team with sharing your knowledge
-- [opencollective/css-analyzer](https://github.com/opencollective/css-analyzer) pushed_at:2020-05 star:0.0k fork:0.0k Analytics for CSS
-- [opencollective/css.gg](https://github.com/opencollective/css.gg) pushed_at:2020-01 star:0.0k fork:0.0k 500+ CSS Icons. Customizable, Retina Ready with API & NPM
-- [opencollective/CVTron](https://github.com/opencollective/CVTron) pushed_at:2020-05 star:0.0k fork:0.0k An Out-of-the-Box Computer Vision Library
-- [opencollective/cypress](https://github.com/opencollective/cypress) pushed_at:2019-11 star:0.0k fork:0.0k Fast, easy and reliable testing for anything that runs in a browser.
-- [opencollective/dante2](https://github.com/opencollective/dante2) pushed_at:2019-10 star:0.0k fork:0.0k A complete rewrite of dante editor in draft-js
-- [opencollective/dart-json-mapper](https://github.com/opencollective/dart-json-mapper) pushed_at:2020-05 star:0.0k fork:0.0k Serialize / Deserialize Dart Objects to / from JSON
-- [opencollective/dasarpemrogramangolang](https://github.com/opencollective/dasarpemrogramangolang) pushed_at:2019-12 star:0.0k fork:0.0k 📖 Source Code E-book Dasar Pemrograman Golang
-- [opencollective/dash-to-panel](https://github.com/opencollective/dash-to-panel) pushed_at:2020-04 star:0.0k fork:0.0k An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
-- [opencollective/dcat-admin](https://github.com/opencollective/dcat-admin) pushed_at:2020-06 star:0.0k fork:0.0k 🔥  使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码。
-- [opencollective/de_GWD](https://github.com/opencollective/de_GWD) pushed_at:2019-12 star:0.0k fork:0.0k Debian Gateway & DNS
-- [opencollective/dentaku](https://github.com/opencollective/dentaku) pushed_at:2019-09 star:0.0k fork:0.0k math and logic formula parser and evaluator
-- [opencollective/design-patterns-for-humans](https://github.com/opencollective/design-patterns-for-humans) pushed_at:2017-09 star:0.0k fork:0.0k Design Patterns for Humans™ - An ultra-simplified explanation
-- [opencollective/Detection](https://github.com/opencollective/Detection) pushed_at:2019-09 star:0.0k fork:0.0k ASP.NET Core Detection service components for identifying details about client device, browser, engine, platform, & crawler.
-- [opencollective/Developing-iOS-10-Apps-with-Swift](https://github.com/opencollective/Developing-iOS-10-Apps-with-Swift) pushed_at:2017-10 star:0.0k fork:0.0k Stanford 公开课，Developing iOS 10 Apps with Swift 字幕翻译
-- [opencollective/diet](https://github.com/opencollective/diet) pushed_at:2019-12 star:0.0k fork:0.0k A tiny, fast and modular node.js web framework. Good for making fast & scalable apps and apis.
-- [opencollective/diffuse](https://github.com/opencollective/diffuse) pushed_at:2019-09 star:0.0k fork:0.0k A music player that connects to your cloud/distributed storage.
-- [opencollective/DiscImageChef](https://github.com/opencollective/DiscImageChef) pushed_at:2019-09 star:0.0k fork:0.0k Disc Image Chef (because "swiss-army-knife" is used too much)
-- [opencollective/django-extensions](https://github.com/opencollective/django-extensions) pushed_at:2020-08 star:0.0k fork:0.0k This is a repository for collecting global custom management extensions for the Django Framework. 
-- [opencollective/docker-slim](https://github.com/opencollective/docker-slim) pushed_at:2020-01 star:0.0k fork:0.0k DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
-- [opencollective/docs](https://github.com/opencollective/docs) pushed_at:2019-03 star:0.0k fork:0.0k Onboarding Resources for contributors, members and chapter organizers of Open source community Africa (O.S.C.A)
-- [opencollective/documentation](https://github.com/opencollective/documentation) pushed_at:2022-08 star:0.1k fork:0.2k All documentation for Open Collective
-- [opencollective/dotenv-linter](https://github.com/opencollective/dotenv-linter) pushed_at:2020-08 star:0.0k fork:0.0k ✌️Linter for .env files. Written in Rust 🦀
-- [opencollective/dowww](https://github.com/opencollective/dowww) pushed_at:2019-01 star:0.0k fork:0.0k 💡 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
-- [opencollective/DragonProxy](https://github.com/opencollective/DragonProxy) pushed_at:2021-02 star:0.0k fork:0.0k A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.
-- [opencollective/dreamtime](https://github.com/opencollective/dreamtime) pushed_at:2019-09 star:0.0k fork:0.0k DreamTime allows you to transform photos to get private entertainment.
-- [opencollective/EffectiveModernCppChinese](https://github.com/opencollective/EffectiveModernCppChinese) pushed_at:2019-01 star:0.0k fork:0.0k 《Effective Modern C++》翻译 - 2018.5更新中
-- [opencollective/einsteinpy](https://github.com/opencollective/einsteinpy) pushed_at:2019-09 star:0.0k fork:0.0k Repository for the EinsteinPy core package :rocket:
-- [opencollective/ElasticsearchDSL](https://github.com/opencollective/ElasticsearchDSL) pushed_at:2020-02 star:0.0k fork:0.0k Query DSL library for Elasticsearch
-- [opencollective/emmet](https://github.com/opencollective/emmet) pushed_at:2019-09 star:0.0k fork:0.0k The essential toolkit for web-developers
-- [opencollective/emmet-vim](https://github.com/opencollective/emmet-vim) pushed_at:2019-10 star:0.0k fork:0.0k emmet for vim: http://emmet.io/
-- [opencollective/emojiscreen](https://github.com/opencollective/emojiscreen) pushed_at:2021-02 star:0.0k fork:0.0k EmojiScreen is a listing of movies, TV shows and musicals depicted through emojis.
-- [opencollective/engine262](https://github.com/opencollective/engine262) pushed_at:2020-04 star:0.0k fork:0.0k An implementation of ECMA-262 in JavaScript
-- [opencollective/enhanced-github](https://github.com/opencollective/enhanced-github) pushed_at:2019-12 star:0.0k fork:0.0k :rocket: Chrome extension to display size of each file, download link and copy file contents directly to clipboard
-- [opencollective/enso](https://github.com/opencollective/enso) pushed_at:2020-04 star:0.0k fork:0.0k Hybrid textual and visual functional programming.
-- [opencollective/entropic](https://github.com/opencollective/entropic) pushed_at:2019-09 star:0.0k fork:0.0k 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝
-- [opencollective/eplayer](https://github.com/opencollective/eplayer) pushed_at:2020-01 star:0.0k fork:0.0k :crystal_ball: A web-component html5 video player facing future
-- [opencollective/eruda](https://github.com/opencollective/eruda) pushed_at:2020-01 star:0.0k fork:0.0k Console for mobile browsers
-- [opencollective/eslint-plugin-sequelize](https://github.com/opencollective/eslint-plugin-sequelize) pushed_at:2021-03 star:0.0k fork:0.0k Simple ESLint Plugin to lint some Sequelize config
-- [opencollective/ESP-DASH](https://github.com/opencollective/ESP-DASH) pushed_at:2020-01 star:0.0k fork:0.0k A beautifully fast library to create functional dashboard for ESP8266 and ESP32
-- [opencollective/EvalAI](https://github.com/opencollective/EvalAI) pushed_at:2020-04 star:0.0k fork:0.0k :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
-- [opencollective/excalidraw](https://github.com/opencollective/excalidraw) pushed_at:2020-01 star:0.0k fork:0.0k Sketch hand-drawn like diagrams
-- [opencollective/fast-check](https://github.com/opencollective/fast-check) pushed_at:2019-09 star:0.0k fork:0.0k Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
-- [opencollective/fiber](https://github.com/opencollective/fiber) pushed_at:2020-07 star:0.0k fork:0.0k 🚀 Fiber is an Express inspired web framework written in Go with 💖
-- [opencollective/firebase-firestorm](https://github.com/opencollective/firebase-firestorm) pushed_at:2019-09 star:0.0k fork:0.0k Firebase Firestorm is an ORM for Firestore which can be used with Typescript.
-- [opencollective/FluffySpoon.JavaScript.Testing.Faking](https://github.com/opencollective/FluffySpoon.JavaScript.Testing.Faking) pushed_at:2020-05 star:0.0k fork:0.0k An NSubstitute port to TypeScript called substitute.js.
-- [opencollective/form-render](https://github.com/opencollective/form-render) pushed_at:2019-12 star:0.0k fork:0.0k 🏄 跨组件体系的表单渲染引擎 - 通过 JSON Schema 快速生成自定义表单配置界面 
-- [opencollective/formik](https://github.com/opencollective/formik) pushed_at:2019-10 star:0.0k fork:0.0k Build forms in React, without the tears 😭 
-- [opencollective/fossresponders.com](https://github.com/opencollective/fossresponders.com) pushed_at:2020-04 star:0.0k fork:0.0k The website for FOSS Responders
-- [opencollective/fritzing-app](https://github.com/opencollective/fritzing-app) pushed_at:2019-09 star:0.0k fork:0.0k Fritzing desktop application
-- [opencollective/Front-End-Checklist](https://github.com/opencollective/Front-End-Checklist) pushed_at:2017-11 star:0.0k fork:0.0k 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-- [opencollective/fx](https://github.com/opencollective/fx) pushed_at:2019-12 star:0.0k fork:0.0k fx is a framework to help you do Function as a Service with painless on your own servers
-- [opencollective/G2](https://github.com/opencollective/G2) pushed_at:2019-12 star:0.0k fork:0.0k 📊 The Grammar of Graphics in JavaScript
-- [opencollective/geolib](https://github.com/opencollective/geolib) pushed_at:2019-09 star:0.0k fork:0.0k Zero dependency library to provide some basic geo functions
-- [opencollective/getflutter](https://github.com/opencollective/getflutter) pushed_at:2020-01 star:0.0k fork:0.0k Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app. 
-- [opencollective/gf](https://github.com/opencollective/gf) pushed_at:2020-01 star:0.0k fork:0.0k GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, resource, validator, database orm, etc. Supporting web server integrated with router, cookie, session, middleware, logger, configure, template, https, hooks, rewrites and many more features. 
-- [opencollective/Gitako](https://github.com/opencollective/Gitako) pushed_at:2020-07 star:0.0k fork:0.0k 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
-- [opencollective/github-trending-api](https://github.com/opencollective/github-trending-api) pushed_at:2019-09 star:0.0k fork:0.0k :octocat: The missing APIs for GitHub trending projects and developers 📈
-- [opencollective/gitnote](https://github.com/opencollective/gitnote) pushed_at:2020-01 star:0.0k fork:0.0k A modern note taking app based on GIT that does not require a local GIT environment.
-- [opencollective/gitpay](https://github.com/opencollective/gitpay) pushed_at:2021-01 star:0.0k fork:0.0k Bounties for issues on demand. Be rewarded by learning, using Git workflow and continuous integration
-- [opencollective/gitql](https://github.com/opencollective/gitql) pushed_at:2019-09 star:0.0k fork:0.0k A git query language
-- [opencollective/go-harbor](https://github.com/opencollective/go-harbor) pushed_at:2020-04 star:0.0k fork:0.0k A Harbor API client enabling Go programs to interact with Harbor in a simple and uniform way
-- [opencollective/Go-Mini-Social-Network](https://github.com/opencollective/Go-Mini-Social-Network) pushed_at:2020-01 star:0.0k fork:0.0k A mini social-network created with the awesome Golang💖💖!!
-- [opencollective/goInception](https://github.com/opencollective/goInception) pushed_at:2020-01 star:0.0k fork:0.0k 一个集审核、执行、备份及生成回滚语句于一身的MySQL运维工具
-- [opencollective/goodshare.js](https://github.com/opencollective/goodshare.js) pushed_at:2020-02 star:0.0k fork:0.0k 🚀 А useful modern JavaScript solution for share a link from your website to social networks or mobile messengers. Easy to install and configuring on any of your website!
-- [opencollective/goodwork](https://github.com/opencollective/goodwork) pushed_at:2019-10 star:0.0k fork:0.0k Self hosted project management and collaboration tool powered by Laravel & VueJS
-- [opencollective/gorush](https://github.com/opencollective/gorush) pushed_at:2020-05 star:0.0k fork:0.0k A push notification server written in Go (Golang).
-- [opencollective/gotgt](https://github.com/opencollective/gotgt) pushed_at:2019-12 star:0.0k fork:0.0k Simple Golang SCSI Target framework
-- [opencollective/gotql](https://github.com/opencollective/gotql) pushed_at:2020-05 star:0.0k fork:0.0k GraphQL query utility for serverside apps
-- [opencollective/graphql-flutter](https://github.com/opencollective/graphql-flutter) pushed_at:2019-10 star:0.0k fork:0.0k A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package.
-- [opencollective/GriefPrevention](https://github.com/opencollective/GriefPrevention) pushed_at:2021-02 star:0.0k fork:0.0k The official repository of the GriefPrevention Bukkit plugin, a self-managed claiming and permissions system
-- [opencollective/gtk](https://github.com/opencollective/gtk) pushed_at:2020-04 star:0.0k fork:0.0k GTK+ 3.x bindings and wrappers for Rust
-- [opencollective/guide](https://github.com/opencollective/guide) pushed_at:2019-02 star:0.0k fork:0.0k  Kubernetes clusters for the hobbyist.
-- [opencollective/guiscrcpy](https://github.com/opencollective/guiscrcpy) pushed_at:2020-05 star:0.0k fork:0.0k :mobile: A full fledged GUI integration for the most award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
-- [opencollective/HandyControl](https://github.com/opencollective/HandyControl) pushed_at:2019-12 star:0.0k fork:0.0k Contains some simple and commonly used WPF controls
-- [opencollective/headwind](https://github.com/opencollective/headwind) pushed_at:2020-04 star:0.0k fork:0.0k An opinionated Tailwind CSS class sorter built for Visual Studio Code
-- [opencollective/heim](https://github.com/opencollective/heim) pushed_at:2019-09 star:0.0k fork:0.0k Cross-platform async library for system information fetching 🦀
-- [opencollective/Heimdall](https://github.com/opencollective/Heimdall) pushed_at:2019-09 star:0.0k fork:0.0k An Application dashboard and launcher
-- [opencollective/helloworks-nodejs-sdk](https://github.com/opencollective/helloworks-nodejs-sdk) pushed_at:2019-07 star:0.0k fork:0.0k Easily create and manage HelloWorks workflow instances.
-- [opencollective/hexo-theme-fluid](https://github.com/opencollective/hexo-theme-fluid) pushed_at:2019-10 star:0.0k fork:0.0k :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
-- [opencollective/hexo-theme-freemind.386](https://github.com/opencollective/hexo-theme-freemind.386) pushed_at:2019-09 star:0.0k fork:0.0k 
-- [opencollective/hexo-theme-nexmoe](https://github.com/opencollective/hexo-theme-nexmoe) pushed_at:2020-05 star:0.0k fork:0.0k 🔥 一个比较特别的 Hexo 主题
-- [opencollective/hexo-theme-stun](https://github.com/opencollective/hexo-theme-stun) pushed_at:2020-05 star:0.0k fork:0.0k 🦄 A beautiful theme for Hexo
-- [opencollective/hls-vod](https://github.com/opencollective/hls-vod) pushed_at:2019-11 star:0.0k fork:0.0k HTTP Live Streaming with on-the-fly encoding of any video file for Web/Apple TV/iPhone/iPad/iPod
-- [opencollective/hostctl](https://github.com/opencollective/hostctl) pushed_at:2020-05 star:0.0k fork:0.0k Your dev tool to manage /etc/hosts like a pro!
-- [opencollective/hpy](https://github.com/opencollective/hpy) pushed_at:2020-04 star:0.0k fork:0.0k HPy: a better API for Python
-- [opencollective/html-react-parser](https://github.com/opencollective/html-react-parser) pushed_at:2019-09 star:0.0k fork:0.0k :memo: HTML to React parser.
-- [opencollective/hydra](https://github.com/opencollective/hydra) pushed_at:2020-04 star:0.0k fork:0.0k Hydra is a framework for elegantly configuring complex applications
-- [opencollective/hyperf](https://github.com/opencollective/hyperf) pushed_at:2019-09 star:0.0k fork:0.0k 🚀 A coroutine framework that focuses on hyperspeed and flexibility, specifically used for build microservices or middlewares. 
-- [opencollective/hyperglass](https://github.com/opencollective/hyperglass) pushed_at:2020-01 star:0.0k fork:0.0k hyperglass is a modern, customizable network looking glass written in Python 3.
-- [opencollective/Instagram-clone](https://github.com/opencollective/Instagram-clone) pushed_at:2020-01 star:0.0k fork:0.0k An Instagram-clone with my own flavors and features. Own the project with 5 simple steps!! 📸💝☢️
-- [opencollective/iTorrent](https://github.com/opencollective/iTorrent) pushed_at:2019-11 star:0.0k fork:0.0k Torrent client for iOS 9.3+
-- [opencollective/Jailer](https://github.com/opencollective/Jailer) pushed_at:2021-02 star:0.0k fork:0.0k Database Subsetting and Relational Data Browsing Tool. Navigate bidirectionally through the database by following foreign-key-based or user-defined relationships. Exports consistent, referentially intact row-sets from relational databases. Removes data w/o violating integrity. Generates topologically sorted SQL-DML, hierarchically structured XML. and DbUnit datasets.
-- [opencollective/jest](https://github.com/opencollective/jest) pushed_at:2021-09 star:0.0k fork:0.0k Delightful JavaScript Testing.
-- [opencollective/jira](https://github.com/opencollective/jira) pushed_at:2019-09 star:0.0k fork:0.0k Python JIRA Library is the easiest way to automate JIRA.
-- [opencollective/jira-plugin](https://github.com/opencollective/jira-plugin) pushed_at:2019-12 star:0.0k fork:0.0k Jira plugin for VsCode
-- [opencollective/jodd](https://github.com/opencollective/jodd) pushed_at:2021-02 star:0.0k fork:0.0k Jodd! Lightweight. Java. Use what you like.
-- [opencollective/jpress](https://github.com/opencollective/jpress) pushed_at:2021-02 star:0.0k fork:0.0k JPress，一个使用 Java 开发的建站神器，目前已经有 10w+ 网站使用 JPress 进行驱动，其中包括多个政府机构，200+上市公司，中科院、红+字会等。
-- [opencollective/jrnl](https://github.com/opencollective/jrnl) pushed_at:2020-04 star:0.0k fork:0.0k Collect your thoughts and notes without leaving the command line.
-- [opencollective/js-by-examples](https://github.com/opencollective/js-by-examples) pushed_at:2019-10 star:0.0k fork:0.0k Learn JavaScript by examples
-- [opencollective/json-schema-spec](https://github.com/opencollective/json-schema-spec) pushed_at:2019-09 star:0.0k fork:0.0k The JSON Schema I-D sources
-- [opencollective/jvm](https://github.com/opencollective/jvm) pushed_at:2019-09 star:0.0k fork:0.0k 🤗 JVM 底层原理知识总结
-- [opencollective/kalm.js](https://github.com/opencollective/kalm.js) pushed_at:2019-12 star:0.0k fork:0.0k The socket manager
-- [opencollective/Kepler](https://github.com/opencollective/Kepler) pushed_at:2019-12 star:0.0k fork:0.0k The open source full-stack geosocial network platform
-- [opencollective/KivyMD](https://github.com/opencollective/KivyMD) pushed_at:2020-05 star:0.0k fork:0.0k KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications.
-- [opencollective/koa-rest-api-boilerplate](https://github.com/opencollective/koa-rest-api-boilerplate) pushed_at:2019-09 star:0.0k fork:0.0k 💯 Boilerplate for Node.js Koa RESTful API application with Docker, Swagger, Jest, CodeCov and CircleCI
-- [opencollective/konva](https://github.com/opencollective/konva) pushed_at:2020-07 star:0.0k fork:0.0k Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
-- [opencollective/korge](https://github.com/opencollective/korge) pushed_at:2020-08 star:0.0k fork:0.0k KorGE Game Engine. Multiplatform Kotlin Game Engine
-- [opencollective/lando](https://github.com/opencollective/lando) pushed_at:2019-12 star:0.0k fork:0.0k A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
-- [opencollective/Lantern](https://github.com/opencollective/Lantern) pushed_at:2019-12 star:0.0k fork:0.0k Mac app for website auditing and crawling
-- [opencollective/laravel-s](https://github.com/opencollective/laravel-s) pushed_at:2020-05 star:0.0k fork:0.0k LaravelS is an out-of-the-box adapter between Swoole and Laravel/Lumen.
-- [opencollective/laravel-visits](https://github.com/opencollective/laravel-visits) pushed_at:2019-09 star:0.0k fork:0.0k 📊 Laravel Visits is a counter that can be attached to any model to track its visits based on Redis. (with tags, IP protection and caching)
-- [opencollective/laravel-wallet](https://github.com/opencollective/laravel-wallet) pushed_at:2020-05 star:0.0k fork:0.0k Easy work with virtual wallet
-- [opencollective/Lawnchair](https://github.com/opencollective/Lawnchair) pushed_at:2019-12 star:0.0k fork:0.0k No clever tagline needed
-- [opencollective/leaf](https://github.com/opencollective/leaf) pushed_at:2020-07 star:0.0k fork:0.0k Create clean, simple but powerful web apps and APIs quickly
-- [opencollective/learn-regex](https://github.com/opencollective/learn-regex) pushed_at:2019-07 star:0.0k fork:0.0k Learn regex the easy way
-- [opencollective/lemmy](https://github.com/opencollective/lemmy) pushed_at:2020-05 star:0.0k fork:0.0k 🐀 Building a federated alternative to reddit in rust
-- [opencollective/less.js](https://github.com/opencollective/less.js) pushed_at:2019-11 star:0.0k fork:0.0k Less. The dynamic stylesheet language.
-- [opencollective/libretime](https://github.com/opencollective/libretime) pushed_at:2019-09 star:0.0k fork:0.0k LibreTime: Radio Broadcast & Automation Platform
-- [opencollective/libspng](https://github.com/opencollective/libspng) pushed_at:2019-12 star:0.0k fork:0.0k Simple, modern libpng alternative
-- [opencollective/libuavcan](https://github.com/opencollective/libuavcan) pushed_at:2020-03 star:0.0k fork:0.0k Portable reference implementation of the UAVCAN protocol stack in C++ for embedded systems and Linux.
-- [opencollective/licia](https://github.com/opencollective/licia) pushed_at:2020-01 star:0.0k fork:0.0k Useful utility collection with zero dependencies
-- [opencollective/LightBulb](https://github.com/opencollective/LightBulb) pushed_at:2019-09 star:0.0k fork:0.0k Reduces eye strain by adjusting gamma based on the current time
-- [opencollective/Litepicker](https://github.com/opencollective/Litepicker) pushed_at:2020-06 star:0.0k fork:0.0k Date range picker - lightweight, no dependencies
-- [opencollective/little-state-machine](https://github.com/opencollective/little-state-machine) pushed_at:2020-06 star:0.0k fork:0.0k 📠 React custom hook for persist state management
-- [opencollective/loading-attribute-polyfill](https://github.com/opencollective/loading-attribute-polyfill) pushed_at:2020-04 star:0.0k fork:0.0k Fast and lightweight dependency-free vanilla JavaScript polyfill for native lazy loading / the awesome loading='lazy'-attribute.
-- [opencollective/lombok-intellij-plugin](https://github.com/opencollective/lombok-intellij-plugin) pushed_at:2020-04 star:0.0k fork:0.0k Lombok Plugin for IntelliJ IDEA
-- [opencollective/lossless-cut](https://github.com/opencollective/lossless-cut) pushed_at:2019-11 star:0.0k fork:0.0k Save space by quickly and losslessly trimming video and audio files
-- [opencollective/lottie-web](https://github.com/opencollective/lottie-web) pushed_at:2020-04 star:0.0k fork:0.0k Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
-- [opencollective/Magicodes.IE](https://github.com/opencollective/Magicodes.IE) pushed_at:2020-04 star:0.0k fork:0.0k 导入导出通用库，支持Dto导入导出以及动态导出，支持Excel、Csv、Word、Pdf和Html。
-- [opencollective/material-table](https://github.com/opencollective/material-table) pushed_at:2019-12 star:0.0k fork:0.0k Datatable for React based on material-ui's table with additional features
-- [opencollective/md](https://github.com/opencollective/md) pushed_at:2019-12 star:0.0k fork:0.0k ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
-- [opencollective/mergerfs](https://github.com/opencollective/mergerfs) pushed_at:2019-12 star:0.0k fork:0.0k a featureful union filesystem
-- [opencollective/MicroOrm.Dapper.Repositories](https://github.com/opencollective/MicroOrm.Dapper.Repositories) pushed_at:2019-11 star:0.0k fork:0.0k CRUD for Dapper
-- [opencollective/microweber](https://github.com/opencollective/microweber) pushed_at:2019-09 star:0.0k fork:0.0k Drag and Drop Website Builder and CMS with E-commerce
-- [opencollective/mindmapp](https://github.com/opencollective/mindmapp) pushed_at:2019-09 star:0.0k fork:0.0k :rocket: Web application to draw mind maps.
-- [opencollective/MineCase](https://github.com/opencollective/MineCase) pushed_at:2020-04 star:0.0k fork:0.0k A distributed minecraft server based on Orleans
-- [opencollective/MiniValine](https://github.com/opencollective/MiniValine) pushed_at:2020-04 star:0.0k fork:0.0k A simple and minimalist comment system based on Leancloud.
-- [opencollective/mirai](https://github.com/opencollective/mirai) pushed_at:2020-05 star:0.0k fork:0.0k 全开源 高效率 QQ机器人/Android QQ协议支持库 for JVM / Android
-- [opencollective/miso](https://github.com/opencollective/miso) pushed_at:2019-09 star:0.0k fork:0.0k :ramen: A tasty Haskell front-end framework
-- [opencollective/mobile-ffmpeg](https://github.com/opencollective/mobile-ffmpeg) pushed_at:2021-02 star:0.0k fork:0.0k FFmpeg for Android, iOS and tvOS
-- [opencollective/mongoke](https://github.com/opencollective/mongoke) pushed_at:2020-04 star:0.0k fork:0.0k Instant Graphql for MongoDb
-- [opencollective/monica](https://github.com/opencollective/monica) pushed_at:2020-01 star:0.0k fork:0.0k Personal CRM. Remember everything about your friends and family.
-- [opencollective/monotorrent](https://github.com/opencollective/monotorrent) pushed_at:2020-02 star:0.0k fork:0.0k The official repository for MonoTorrent, a bittorrent library for .NET
-- [opencollective/MoreLINQ](https://github.com/opencollective/MoreLINQ) pushed_at:2019-12 star:0.0k fork:0.0k Extensions to LINQ to Objects
-- [opencollective/morphism](https://github.com/opencollective/morphism) pushed_at:2020-01 star:0.0k fork:0.0k ⚡ Do not repeat anymore your objects transformations.
-- [opencollective/mr2](https://github.com/opencollective/mr2) pushed_at:2019-12 star:0.0k fork:0.0k Mr.2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.
-- [opencollective/multihead-siamese-nets](https://github.com/opencollective/multihead-siamese-nets) pushed_at:2020-07 star:0.0k fork:0.0k Implementation of Siamese Neural Networks built upon multihead attention mechanism for text semantic similarity task. 
-- [opencollective/mypaint](https://github.com/opencollective/mypaint) pushed_at:2020-04 star:0.0k fork:0.0k MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
-- [opencollective/MyTested.AspNetCore.Mvc](https://github.com/opencollective/MyTested.AspNetCore.Mvc) pushed_at:2019-10 star:0.0k fork:0.0k Fluent testing library for ASP.NET Core MVC.
-- [opencollective/natuive](https://github.com/opencollective/natuive) pushed_at:2019-12 star:0.0k fork:0.0k ~10+~10 KB feature-rich front-end framework
-- [opencollective/nestcloud](https://github.com/opencollective/nestcloud) pushed_at:2019-12 star:0.0k fork:0.0k A NodeJS micro-service solution, writing by Typescript language and NestJS framework.
-- [opencollective/netboot.xyz](https://github.com/opencollective/netboot.xyz) pushed_at:2019-12 star:0.0k fork:0.0k Network bootable operating system installer based on iPXE
-- [opencollective/NewBie-Plan](https://github.com/opencollective/NewBie-Plan) pushed_at:2019-12 star:0.0k fork:0.0k 📚 Java 技术面试指南   🚀 算法，基础框架，原理剖析，职业感悟，技术面试
-- [opencollective/Newtonsoft.Json-for-Unity](https://github.com/opencollective/Newtonsoft.Json-for-Unity) pushed_at:2020-04 star:0.0k fork:0.0k Newtonsoft.Json (Json.NET) 12.0.3 for Unity via Unity Package Manager
-- [opencollective/nexrender](https://github.com/opencollective/nexrender) pushed_at:2019-12 star:0.0k fork:0.0k 📹  Data-driven render automation for After Effects
-- [opencollective/next-auth-example](https://github.com/opencollective/next-auth-example) pushed_at:2022-07 star:0.0k fork:0.0k Example showing how to use NextAuth.js with Next.js
-- [opencollective/ngx-sharebuttons](https://github.com/opencollective/ngx-sharebuttons) pushed_at:2020-07 star:0.0k fork:0.0k Angular Share Buttons ☂
-- [opencollective/ngx-starter-kit](https://github.com/opencollective/ngx-starter-kit) pushed_at:2020-01 star:0.0k fork:0.0k :a: Angular :rocket: NestJS :monkey: Starter Kit 
-- [opencollective/nlp_fundamentals](https://github.com/opencollective/nlp_fundamentals) pushed_at:2020-05 star:0.0k fork:0.0k 📘Contains a series of hands-on notebooks for learning the fundamentals of NLP
-- [opencollective/node-redis](https://github.com/opencollective/node-redis) pushed_at:2020-03 star:0.0k fork:0.0k A high performance Node.js Redis client.
-- [opencollective/nodegui](https://github.com/opencollective/nodegui) pushed_at:2020-04 star:0.0k fork:0.0k A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  For React NodeGui, visit: https://github.com/nodegui/react-nodegui ⚛️
-- [opencollective/nodejieba](https://github.com/opencollective/nodejieba) pushed_at:2019-10 star:0.0k fork:0.0k "结巴"中文分词的Node.js版本
-- [opencollective/noflo-rsf](https://github.com/opencollective/noflo-rsf) pushed_at:2019-12 star:0.0k fork:0.0k ENTER HERE, and README.  the Rapid Sensemaking Framework is designed for cross-platform, cross-protocol social processes of ideation and deliberation! Design it, run it, harvest it.
-- [opencollective/NotchSolution](https://github.com/opencollective/NotchSolution) pushed_at:2019-09 star:0.0k fork:0.0k A set of components and tools to solve notched/cutout phones layout problems for Unity.
-- [opencollective/Notepads](https://github.com/opencollective/Notepads) pushed_at:2019-09 star:0.0k fork:0.0k A modern, lightweight text editor with minimum design.
-- [opencollective/npm-cli](https://github.com/opencollective/npm-cli) pushed_at:2019-11 star:0.0k fork:0.0k a package manager for JavaScript, report bugs & get support at:
-- [opencollective/obs-websocket](https://github.com/opencollective/obs-websocket) pushed_at:2020-04 star:0.0k fork:0.0k Remote-control OBS Studio from WebSockets
-- [opencollective/OCRmyPDF](https://github.com/opencollective/OCRmyPDF) pushed_at:2019-09 star:0.0k fork:0.0k OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
-- [opencollective/offline-qr-code](https://github.com/opencollective/offline-qr-code) pushed_at:2020-04 star:0.0k fork:0.0k 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
-- [opencollective/ohmyform](https://github.com/opencollective/ohmyform) pushed_at:2020-05 star:0.0k fork:0.0k ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
-- [opencollective/open-zwave](https://github.com/opencollective/open-zwave) pushed_at:2019-09 star:0.0k fork:0.0k a C++ library to control Z-Wave Networks via a USB Z-Wave Controller. 
-- [opencollective/openaddresses](https://github.com/opencollective/openaddresses) pushed_at:2020-01 star:0.0k fork:0.0k A repository of global open address data.
-- [opencollective/openboxes](https://github.com/opencollective/openboxes) pushed_at:2020-02 star:0.0k fork:0.0k OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
-- [opencollective/opencollective](https://github.com/opencollective/opencollective) pushed_at:2022-07 star:1.6k fork:0.4k We're tracking all our Issues, RFCs and a few other documents in this repository.
-- [opencollective/opencollective-lib](https://github.com/opencollective/opencollective-lib) pushed_at:2016-06 star:0.0k fork:0.0k Libraries in common in our repos
-- [opencollective/openmptcprouter](https://github.com/opencollective/openmptcprouter) pushed_at:2020-03 star:0.0k fork:0.0k OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
-- [opencollective/opensource](https://github.com/opencollective/opensource) pushed_at:2016-07 star:0.0k fork:0.0k This is the Open Source Collective repo. Submit here issues related on how to spend the money and projects/ideas to get funded. 
-- [opencollective/osm](https://github.com/opencollective/osm) pushed_at:2020-04 star:0.0k fork:0.0k Open sound meter. FFT based application for tuning sound systems.
-- [opencollective/P-Brain.ai](https://github.com/opencollective/P-Brain.ai) pushed_at:2021-09 star:0.0k fork:0.0k Natural language virtual assistant using Node.js + Bootstrap
-- [opencollective/packem](https://github.com/opencollective/packem) pushed_at:2019-09 star:0.0k fork:0.0k 📦⚡ A precompiled JavaScript module bundler
-- [opencollective/parsecsv-for-php](https://github.com/opencollective/parsecsv-for-php) pushed_at:2019-12 star:0.0k fork:0.0k CSV data parser for PHP.
-- [opencollective/passkit-generator](https://github.com/opencollective/passkit-generator) pushed_at:2019-12 star:0.0k fork:0.0k The easiest way to generate custom Apple Wallet passes in Node.js
-- [opencollective/pathom](https://github.com/opencollective/pathom) pushed_at:2020-04 star:0.0k fork:0.0k Pathom is a Clojure(script) engine for processing EQL requests.
-- [opencollective/pattern.css](https://github.com/opencollective/pattern.css) pushed_at:2020-06 star:0.0k fork:0.0k CSS only library to fill empty background with beautiful patterns.
-- [opencollective/pelias](https://github.com/opencollective/pelias) pushed_at:2020-05 star:0.0k fork:0.0k Pelias is a modular open-source geocoder using Elasticsearch.
-- [opencollective/PeNet](https://github.com/opencollective/PeNet) pushed_at:2020-03 star:0.0k fork:0.0k Portable Executable (PE) library written in .Net
-- [opencollective/personal-security-checklist](https://github.com/opencollective/personal-security-checklist) pushed_at:2020-04 star:0.0k fork:0.0k 🔒 A curated checklist of 100+ tips for protecting digital security and privacy in 2020
-- [opencollective/Pester](https://github.com/opencollective/Pester) pushed_at:2019-09 star:0.0k fork:0.0k Pester is the ubiquitous test and mock framework for PowerShell.
-- [opencollective/pgrouting](https://github.com/opencollective/pgrouting) pushed_at:2020-04 star:0.0k fork:0.0k Repository contains pgRouting library. Development branch is "develop", stable branch is "master"
-- [opencollective/phpinsights](https://github.com/opencollective/phpinsights) pushed_at:2019-11 star:0.0k fork:0.0k 🔰 Instant PHP quality checks from your console
-- [opencollective/piano](https://github.com/opencollective/piano) pushed_at:2019-09 star:0.0k fork:0.0k 🎹用键盘8个键演奏一首蒲公英的约定送给自己或月亮代表我的心送给她
-- [opencollective/pickr](https://github.com/opencollective/pickr) pushed_at:2019-09 star:0.0k fork:0.0k 🍭 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hsla, hsva and more!
-- [opencollective/pixi.js](https://github.com/opencollective/pixi.js) pushed_at:2019-09 star:0.0k fork:0.0k The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [opencollective/portable-utf8](https://github.com/opencollective/portable-utf8) pushed_at:2019-11 star:0.0k fork:0.0k 🉑 Portable UTF-8 library - performance optimized (unicode) string functions for php.
-- [opencollective/posthtml](https://github.com/opencollective/posthtml) pushed_at:2019-09 star:0.0k fork:0.0k PostHTML is a tool to transform HTML/XML with JS plugins
-- [opencollective/probreg](https://github.com/opencollective/probreg) pushed_at:2020-04 star:0.0k fork:0.0k Python package for point cloud registration using probabilistic model (Coherent Point Drift, GMMReg, SVR, GMMTree, FilterReg)
-- [opencollective/proxy.py](https://github.com/opencollective/proxy.py) pushed_at:2019-10 star:0.0k fork:0.0k ⚡⚡⚡Fast, Lightweight, Programmable, TLS interception capable proxy server for Application debugging, testing and development
-- [opencollective/PSWinReporting](https://github.com/opencollective/PSWinReporting) pushed_at:2019-09 star:0.0k fork:0.0k This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.
-- [opencollective/puck-core](https://github.com/opencollective/puck-core) pushed_at:2019-12 star:0.0k fork:0.0k Open source, cross platform .NET Core CMS. Fast, scalable, code-first, unobtrusive and extensible with powerful querying and Lucene integration.
-- [opencollective/purescript](https://github.com/opencollective/purescript) pushed_at:2019-12 star:0.0k fork:0.0k A strongly-typed language that compiles to JavaScript
-- [opencollective/pwafire](https://github.com/opencollective/pwafire) pushed_at:2020-02 star:0.0k fork:0.0k Build Scalable Progressive Web Apps / First Experiences ⚡
-- [opencollective/Python](https://github.com/opencollective/Python) pushed_at:2019-09 star:0.0k fork:0.0k All Algorithms implemented in Python
-- [opencollective/pywebview](https://github.com/opencollective/pywebview) pushed_at:2019-09 star:0.0k fork:0.0k Build GUI for your Python program with JavaScript, HTML, and CSS
-- [opencollective/QtScrcpy](https://github.com/opencollective/QtScrcpy) pushed_at:2021-01 star:0.0k fork:0.0k Android real-time display control software
-- [opencollective/radare2](https://github.com/opencollective/radare2) pushed_at:2019-10 star:0.0k fork:0.0k unix-like reverse engineering framework and commandline tools
-- [opencollective/rails_db](https://github.com/opencollective/rails_db) pushed_at:2020-07 star:0.0k fork:0.0k Rails Database Viewer and SQL Query Runner
-- [opencollective/railt](https://github.com/opencollective/railt) pushed_at:2019-09 star:0.0k fork:0.0k ⚡️ A PHP GraphQL Framework
-- [opencollective/raspap-webgui](https://github.com/opencollective/raspap-webgui) pushed_at:2020-02 star:0.0k fork:0.0k Simple AP setup & WiFi management for the Raspberry Pi
-- [opencollective/react-contenteditable](https://github.com/opencollective/react-contenteditable) pushed_at:2016-10 star:0.0k fork:0.0k React component for a div with editable contents
-- [opencollective/react-family](https://github.com/opencollective/react-family) pushed_at:2019-09 star:0.0k fork:0.0k react全家桶框架
-- [opencollective/react-gtk](https://github.com/opencollective/react-gtk) pushed_at:2020-01 star:0.0k fork:0.0k React Native bridge for gtk desktop applications
-- [opencollective/react-hook-form](https://github.com/opencollective/react-hook-form) pushed_at:2020-02 star:0.0k fork:0.0k 📋 React hooks for forms validation without the hassle.
-- [opencollective/react-hooks-axios](https://github.com/opencollective/react-hooks-axios) pushed_at:2019-10 star:0.0k fork:0.0k Custom React Hooks for Axios.js
-- [opencollective/React-Instagram-Clone-2.0](https://github.com/opencollective/React-Instagram-Clone-2.0) pushed_at:2020-01 star:0.0k fork:0.0k A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓
-- [opencollective/react-native-country-picker-modal](https://github.com/opencollective/react-native-country-picker-modal) pushed_at:2019-12 star:0.0k fork:0.0k 🇦🇶 Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
-- [opencollective/react-native-event-listeners](https://github.com/opencollective/react-native-event-listeners) pushed_at:2019-11 star:0.0k fork:0.0k global event listener extension for react or react-native
-- [opencollective/react-native-keyboard-manager](https://github.com/opencollective/react-native-keyboard-manager) pushed_at:2020-04 star:0.0k fork:0.0k ⚛ Library to prevent issues of keyboard sliding up and cover inputs on React-Native iOS projects.
-- [opencollective/react-numpad](https://github.com/opencollective/react-numpad) pushed_at:2019-12 star:0.0k fork:0.0k A numpad for number, date and time, built with and for React.
-- [opencollective/react-ultimate-resume](https://github.com/opencollective/react-ultimate-resume) pushed_at:2020-04 star:0.0k fork:0.0k 💼 🎨 A modern software developer resume built with React and JSONResume
-- [opencollective/Reactive-Resume](https://github.com/opencollective/Reactive-Resume) pushed_at:2020-04 star:0.0k fork:0.0k A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [opencollective/readme-md-generator](https://github.com/opencollective/readme-md-generator) pushed_at:2019-12 star:0.0k fork:0.0k 📄 CLI that generates beautiful README.md files
-- [opencollective/Red-DiscordBot](https://github.com/opencollective/Red-DiscordBot) pushed_at:2019-12 star:0.0k fork:0.0k A multifunction Discord bot
-- [opencollective/regolith-desktop](https://github.com/opencollective/regolith-desktop) pushed_at:2020-02 star:0.0k fork:0.0k Meta package for the Regolith Desktop Environment
-- [opencollective/remark](https://github.com/opencollective/remark) pushed_at:2019-12 star:0.0k fork:0.0k comment engine
-- [opencollective/renovate-config](https://github.com/opencollective/renovate-config) pushed_at:2021-06 star:0.0k fork:0.0k A shareable config preset for Renovate used in Open Collective. 
-- [opencollective/resium](https://github.com/opencollective/resium) pushed_at:2019-11 star:0.0k fork:0.0k React components for 🌏 Cesium
-- [opencollective/RestSharp](https://github.com/opencollective/RestSharp) pushed_at:2020-01 star:0.0k fork:0.0k Simple REST and HTTP API Client for .NET
-- [opencollective/roundSlider](https://github.com/opencollective/roundSlider) pushed_at:2020-05 star:0.0k fork:0.0k roundSlider - A free jQuery plugin
-- [opencollective/rust-ipfs](https://github.com/opencollective/rust-ipfs) pushed_at:2020-05 star:0.0k fork:0.0k The Interplanetary File System (IPFS), implemented in Rust
-- [opencollective/saros](https://github.com/opencollective/saros) pushed_at:2020-02 star:0.0k fork:0.0k Open Source IDE plugin for distributed collaborative software development
-- [opencollective/school-api](https://github.com/opencollective/school-api) pushed_at:2020-05 star:0.0k fork:0.0k 🌱 校园教务系统接口，正方教务系统 SDK for Python
-- [opencollective/score](https://github.com/opencollective/score) pushed_at:2020-02 star:0.0k fork:0.0k ossia score, an interactive sequencer for the intermedia arts.
-- [opencollective/searchstone](https://github.com/opencollective/searchstone) pushed_at:2019-09 star:0.0k fork:0.0k :black_joker: Hearthstone's cards search engine built with algolia instantsearch.
-- [opencollective/seotopper](https://github.com/opencollective/seotopper) pushed_at:2019-09 star:0.0k fork:0.0k Complete SEO generator with all meta-tags including JSON-LD, build your Seo in seconds.
-- [opencollective/serverless-dotenv-plugin](https://github.com/opencollective/serverless-dotenv-plugin) pushed_at:2020-04 star:0.0k fork:0.0k Preload Environment Variables with Dotenv into Serverless
-- [opencollective/service-bus](https://github.com/opencollective/service-bus) pushed_at:2019-09 star:0.0k fork:0.0k PHP Service Bus (publish-subscribe pattern) implementation
-- [opencollective/Shapeshifter-1](https://github.com/opencollective/Shapeshifter-1) pushed_at:2019-10 star:0.0k fork:0.0k A clipboard manager for the 21st century.
-- [opencollective/SheetSQL](https://github.com/opencollective/SheetSQL) pushed_at:2019-11 star:0.0k fork:0.0k SQL engine inside Google Sheet
-- [opencollective/shieldon](https://github.com/opencollective/shieldon) pushed_at:2019-09 star:0.0k fork:0.0k A PHP library that provides anti-scraping and online session control.
-- [opencollective/signale](https://github.com/opencollective/signale) pushed_at:2019-10 star:0.0k fork:0.0k Highly configurable logging utility
-- [opencollective/Silex](https://github.com/opencollective/Silex) pushed_at:2019-12 star:0.0k fork:0.0k Silex is a static website builder in the cloud. 
-- [opencollective/simple-qrcode](https://github.com/opencollective/simple-qrcode) pushed_at:2019-09 star:0.0k fork:0.0k An easy-to-use PHP QrCode generator.
-- [opencollective/simpread](https://github.com/opencollective/simpread) pushed_at:2019-09 star:0.0k fork:0.0k 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
-- [opencollective/sinuous](https://github.com/opencollective/sinuous) pushed_at:2020-02 star:0.0k fork:0.0k Small, fast, reactive UI library
-- [opencollective/software-development-kit](https://github.com/opencollective/software-development-kit) pushed_at:2020-08 star:0.0k fork:0.0k FDA, HIPPA, and HL7 compliant Javascript/Node applications!
-- [opencollective/sourcecred](https://github.com/opencollective/sourcecred) pushed_at:2019-09 star:0.0k fork:0.0k a reputation protocol for open collaboration
-- [opencollective/spruce](https://github.com/opencollective/spruce) pushed_at:2019-09 star:0.0k fork:0.0k A social networking platform made using Node.js and MongoDB
-- [opencollective/spy-debugger](https://github.com/opencollective/spy-debugger) pushed_at:2019-12 star:0.0k fork:0.0k 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
-- [opencollective/statecraft](https://github.com/opencollective/statecraft) pushed_at:2019-12 star:0.0k fork:0.0k Manage state with finesse
-- [opencollective/stripe](https://github.com/opencollective/stripe) pushed_at:2019-09 star:0.0k fork:0.0k :moneybag: Stripe API
-- [opencollective/sustainer-resources](https://github.com/opencollective/sustainer-resources) pushed_at:2019-03 star:0.0k fork:0.0k Useful resources for Open Source Sustainers
-- [opencollective/swiftui-notes](https://github.com/opencollective/swiftui-notes) pushed_at:2019-09 star:0.0k fork:0.0k A collection of notes, project pieces, playgrounds and ideas on learning and using SwiftUI and Combine
-- [opencollective/synfig](https://github.com/opencollective/synfig) pushed_at:2021-01 star:0.0k fork:0.0k This is the Official source code repository of the Synfig project
-- [opencollective/Tamburetei](https://github.com/opencollective/Tamburetei) pushed_at:2019-12 star:0.0k fork:0.0k Fazendo de tamburete as cadeiras de CC@UFCG.
-- [opencollective/technical-books](https://github.com/opencollective/technical-books) pushed_at:2019-09 star:0.0k fork:0.0k 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、...
-- [opencollective/Telegram.Bot](https://github.com/opencollective/Telegram.Bot) pushed_at:2020-04 star:0.0k fork:0.0k .NET Client for Telegram Bot API
-- [opencollective/the-practical-linux-hardening-guide](https://github.com/opencollective/the-practical-linux-hardening-guide) pushed_at:2019-12 star:0.0k fork:0.0k This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
-- [opencollective/thecodebarbarian.com](https://github.com/opencollective/thecodebarbarian.com) pushed_at:2020-01 star:0.0k fork:0.0k The www.thecodebarbarian.com website
-- [opencollective/TheGorgeousLogin](https://github.com/opencollective/TheGorgeousLogin) pushed_at:2019-09 star:0.0k fork:0.0k Login page built with @flutter 😍
-- [opencollective/thermal](https://github.com/opencollective/thermal) pushed_at:2019-12 star:0.0k fork:0.0k One stop to manage all git repository
-- [opencollective/tinyfilemanager](https://github.com/opencollective/tinyfilemanager) pushed_at:2020-01 star:0.0k fork:0.0k Web based File Manager in single PHP file, Manage your files efficiently and easily with Tiny File Manager
-- [opencollective/traffic-accounting-nginx-module](https://github.com/opencollective/traffic-accounting-nginx-module) pushed_at:2019-12 star:0.0k fork:0.0k Monitor the incoming and outgoing traffic metrics in realtime for NGINX
-- [opencollective/trousers](https://github.com/opencollective/trousers) pushed_at:2020-04 star:0.0k fork:0.0k hooks-first CSS-in-JS library, focused on semantics and runtime performance
-- [opencollective/tstl](https://github.com/opencollective/tstl) pushed_at:2019-12 star:0.0k fork:0.0k TypeScript-STL (Standard Template Library, migrated from C++)
-- [opencollective/twitter-sentiment-visualisation](https://github.com/opencollective/twitter-sentiment-visualisation) pushed_at:2020-04 star:0.0k fork:0.0k :earth_africa: The R&D of a sentiment analysis module, and the implementation of it on real-time social media data, to generate a series of live visual representations of sentiment towards a specific topic or by location in order to find trends.
-- [opencollective/two.js](https://github.com/opencollective/two.js) pushed_at:2019-11 star:0.0k fork:0.0k A renderer agnostic two-dimensional drawing api for the web.
-- [opencollective/typescript-eslint](https://github.com/opencollective/typescript-eslint) pushed_at:2019-09 star:0.0k fork:0.0k :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
-- [opencollective/Unigram](https://github.com/opencollective/Unigram) pushed_at:2020-05 star:0.0k fork:0.0k A Telegram desktop app made for Windows 10
-- [opencollective/uniqid](https://github.com/opencollective/uniqid) pushed_at:2019-12 star:0.0k fork:0.0k Unique ID Generator
-- [opencollective/vale](https://github.com/opencollective/vale) pushed_at:2020-05 star:0.0k fork:0.0k :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
-- [opencollective/veloren](https://github.com/opencollective/veloren) pushed_at:2019-09 star:0.0k fork:0.0k [Mirror] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World
-- [opencollective/video-to-ascii](https://github.com/opencollective/video-to-ascii) pushed_at:2019-09 star:0.0k fork:0.0k It is a simple python package to play videos in the terminal using characters as pixels
-- [opencollective/VirusTotalApi](https://github.com/opencollective/VirusTotalApi) pushed_at:2020-05 star:0.0k fork:0.0k VirusTotal Full api
-- [opencollective/vm-bhyve](https://github.com/opencollective/vm-bhyve) pushed_at:2020-03 star:0.0k fork:0.0k Shell based, minimal dependency bhyve manager
-- [opencollective/voukoder](https://github.com/opencollective/voukoder) pushed_at:2019-09 star:0.0k fork:0.0k Use FFMpeg encoders directly in Adobe Premiere
-- [opencollective/vs-shell-format](https://github.com/opencollective/vs-shell-format) pushed_at:2020-01 star:0.0k fork:0.0k the shellscript、Dockerfile、properties ...... format extension
-- [opencollective/vscode-leetcode](https://github.com/opencollective/vscode-leetcode) pushed_at:2021-01 star:0.0k fork:0.0k Solve LeetCode problems in VS Code
-- [opencollective/vue-1](https://github.com/opencollective/vue-1) pushed_at:2019-12 star:0.0k fork:0.0k Make Vue greater with RxTS.
-- [opencollective/vue-formulate](https://github.com/opencollective/vue-formulate) pushed_at:2020-04 star:0.0k fork:0.0k The easiest way to build forms using Vue.
-- [opencollective/vue-functional-calendar](https://github.com/opencollective/vue-functional-calendar) pushed_at:2020-08 star:0.0k fork:0.0k VueJS Functional Calendar | Component/Package
-- [opencollective/vue-gl](https://github.com/opencollective/vue-gl) pushed_at:2019-12 star:0.0k fork:0.0k Vue.js components rendering 3D graphics reactively via three.js
-- [opencollective/vue-goodshare](https://github.com/opencollective/vue-goodshare) pushed_at:2020-02 star:0.0k fork:0.0k 🍿 Vue.js component for social share. A simple way to share a link on the pages of your website in the most popular (and not so) social networks. Powered by goodshare.js project.
-- [opencollective/vue-page-stack](https://github.com/opencollective/vue-page-stack) pushed_at:2019-12 star:0.0k fork:0.0k Routing and navigation for your Vue SPA. Vue 单页应用导航管理器
-- [opencollective/vue-stripe-checkout](https://github.com/opencollective/vue-stripe-checkout) pushed_at:2020-04 star:0.0k fork:0.0k A vue plugin for Stripe checkout.
-- [opencollective/vue-tables-2](https://github.com/opencollective/vue-tables-2) pushed_at:2019-12 star:0.0k fork:0.0k Vue.js 2 grid components
-- [opencollective/vueuse](https://github.com/opencollective/vueuse) pushed_at:2020-01 star:0.0k fork:0.0k 🧰 Collection of essential Vue Composition API utils works for Vue 2.x and 3.x
-- [opencollective/walletconnect-monorepo](https://github.com/opencollective/walletconnect-monorepo) pushed_at:2020-04 star:0.0k fork:0.0k WalletConnect Monorepo 
-- [opencollective/webidl2.js](https://github.com/opencollective/webidl2.js) pushed_at:2020-07 star:0.0k fork:0.0k WebIDL parser
-- [opencollective/webpack-merge](https://github.com/opencollective/webpack-merge) pushed_at:2019-10 star:0.0k fork:0.0k Merge designed for Webpack (MIT)
-- [opencollective/WebSiteUseful](https://github.com/opencollective/WebSiteUseful) pushed_at:2019-04 star:0.0k fork:0.0k 🍅翻墙！冲出你的窗口，详细教程请看：https://github.com/loremwalker/fq-book 
-- [opencollective/weg-li](https://github.com/opencollective/weg-li) pushed_at:2020-04 star:0.0k fork:0.0k 📸 📝 ✊ weg-li: 1, 2, 3 - Macht die Bahn frei!
-- [opencollective/WeiXinMPSDK](https://github.com/opencollective/WeiXinMPSDK) pushed_at:2020-07 star:0.0k fork:0.0k 微信公众平台SDK Senparc.Weixin for C#，支持.NET Framework及.NET Core。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.
-- [opencollective/wemake-python-styleguide](https://github.com/opencollective/wemake-python-styleguide) pushed_at:2019-09 star:0.0k fork:0.0k The strictest and most opinionated python linter ever!
-- [opencollective/wenyan-lang-vscode](https://github.com/opencollective/wenyan-lang-vscode) pushed_at:2020-01 star:0.0k fork:0.0k 文言 Wenyan Lang for VSCode
-- [opencollective/WindowsFirewallHelper](https://github.com/opencollective/WindowsFirewallHelper) pushed_at:2020-05 star:0.0k fork:0.0k A class library to manage the Windows Firewall as well as adding your program to the Windows Firewall Exception list.
-- [opencollective/wolff](https://github.com/opencollective/wolff) pushed_at:2020-03 star:0.0k fork:0.0k 🐺 Ridiculously small PHP framework for building web apps
-- [opencollective/wp-graphql-woocommerce](https://github.com/opencollective/wp-graphql-woocommerce) pushed_at:2020-04 star:0.0k fork:0.0k Add WooCommerce support and functionality to your WPGraphQL server
-- [opencollective/wx-promise-pro](https://github.com/opencollective/wx-promise-pro) pushed_at:2019-12 star:0.0k fork:0.0k :sparkles:强大、优雅的小程序异步库:rocket: 小程序promise
-- [opencollective/XFLegoVIPER](https://github.com/opencollective/XFLegoVIPER) pushed_at:2020-01 star:0.0k fork:0.0k 🚀  A seamless framework for build app from MVC, MVVM, VIPER (etc.) design pattern in iOS world. (OC & Swift)
-- [opencollective/xray-oxygen](https://github.com/opencollective/xray-oxygen) pushed_at:2020-08 star:0.0k fork:0.0k :cyclone: Oxygen Engine 2.0. [Preview] Discord: https://discord.gg/P3aMf66
-- [opencollective/yarte](https://github.com/opencollective/yarte) pushed_at:2020-01 star:0.0k fork:0.0k Yarte stands for Yet Another Rust Template Engine, is the fastest template engine
-- [opencollective/yew](https://github.com/opencollective/yew) pushed_at:2020-01 star:0.0k fork:0.0k Rust / Wasm framework for building client web apps
-- [opencollective/Yin-Yang](https://github.com/opencollective/Yin-Yang) pushed_at:2019-09 star:0.0k fork:0.0k Auto Nightmode for KDE, Gnome, Budige, VSCode, Atom and more
-- [opencollective/YoutubeExplode](https://github.com/opencollective/YoutubeExplode) pushed_at:2019-09 star:0.0k fork:0.0k The ultimate dirty YouTube library
-- [opencollective/zarm](https://github.com/opencollective/zarm) pushed_at:2019-10 star:0.0k fork:0.0k 基于React、React-Native 的移动端UI组件库
-- [opencollective/zjuthesis](https://github.com/opencollective/zjuthesis) pushed_at:2019-09 star:0.0k fork:0.0k Zhejiang University Graduation Thesis/Design LaTeX template.
-- [opencollective/zplugin](https://github.com/opencollective/zplugin) pushed_at:2019-09 star:0.0k fork:0.0k Flexible Zsh plugin manager with clean fpath, reports, completion management, turbo mode, services
-- [opencollective/zws](https://github.com/opencollective/zws) pushed_at:2020-01 star:0.0k fork:0.0k Shorten URLs using invisible spaces.
+- [opencollective/.github](https://github.com/opencollective/.github) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
+- [opencollective/11ty-website](https://github.com/opencollective/11ty-website) topic: pushed_at:2021-01 star:0.0k fork:0.0k Documentation site for the Eleventy static site generator.
+- [opencollective/1password-teams-open-source](https://github.com/opencollective/1password-teams-open-source) topic: pushed_at:2018-04 star:0.0k fork:0.0k Get a free 1Password Teams membership for your open source project
+- [opencollective/Acid](https://github.com/opencollective/Acid) topic: pushed_at:2019-09 star:0.0k fork:0.0k A high speed C++17 Vulkan game engine
+- [opencollective/aero](https://github.com/opencollective/aero) topic: pushed_at:2019-09 star:0.0k fork:0.0k :bullettrain_side: High-performance web server for Go.
+- [opencollective/ainsley](https://github.com/opencollective/ainsley) topic: pushed_at:2020-05 star:0.0k fork:0.0k 👨🏾‍🍳 Ainsley is to CSS what Markdown is to HTML
+- [opencollective/airform](https://github.com/opencollective/airform) topic: pushed_at:2019-10 star:0.0k fork:0.0k Functional HTML forms for Front-End Developers.
+- [opencollective/ajv](https://github.com/opencollective/ajv) topic: pushed_at:2020-04 star:0.0k fork:0.0k The fastest JSON Schema Validator. Supports draft-04/06/07
+- [opencollective/alerter](https://github.com/opencollective/alerter) topic: pushed_at:2020-01 star:0.0k fork:0.0k Send User Alert Notification on Mac OS X from the command-line.
+- [opencollective/alidayu](https://github.com/opencollective/alidayu) topic: pushed_at:2019-10 star:0.0k fork:0.0k 阿里大于(鱼)API接口-SDK
+- [opencollective/almace-scaffolding](https://github.com/opencollective/almace-scaffolding) topic: pushed_at:2020-01 star:0.0k fork:0.0k AMSF, a.k.a. Almace Scaffolding, a super-fast Jekyll framework fighting against the website obesity. It supports LiveReload, Sass, HTML minification, inlined stylesheets and more.
+- [opencollective/android-security-awesome](https://github.com/opencollective/android-security-awesome) topic: pushed_at:2017-05 star:0.0k fork:0.0k A collection of android security related resources
+- [opencollective/ant-design-blazor](https://github.com/opencollective/ant-design-blazor) topic: pushed_at:2020-04 star:0.0k fork:0.0k 🌈An enterprise-class UI components based on Ant Design and Blazor WebAssembly.
+- [opencollective/anti-xss](https://github.com/opencollective/anti-xss) topic: pushed_at:2019-11 star:0.0k fork:0.0k ㊙️ AntiXSS | Protection against Cross-site scripting (XSS) via PHP
+- [opencollective/api](https://github.com/opencollective/api) topic: pushed_at:2019-12 star:0.0k fork:0.0k 🏁🛠️ Backend and auth starter for SaaS startups
+- [opencollective/api-examples](https://github.com/opencollective/api-examples) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
+- [opencollective/apprenticeships.me](https://github.com/opencollective/apprenticeships.me) topic: pushed_at:2020-05 star:0.0k fork:0.0k Dev & design apprenticeships to the rescue! 🔧
+- [opencollective/Arrayy](https://github.com/opencollective/Arrayy) topic: pushed_at:2019-11 star:0.0k fork:0.0k 🗃 Array manipulation library for PHP, called Arrayy!
+- [opencollective/ArtPlayer](https://github.com/opencollective/ArtPlayer) topic: pushed_at:2019-09 star:0.0k fork:0.0k :art: ArtPlayer.js is a modern and full featured HTML5 video player
+- [opencollective/AspNetCore-Developer-Roadmap](https://github.com/opencollective/AspNetCore-Developer-Roadmap) topic: pushed_at:2019-03 star:0.0k fork:0.0k Roadmap to becoming an ASP.NET Core developer in 2019
+- [opencollective/assimp](https://github.com/opencollective/assimp) topic: pushed_at:2020-07 star:0.0k fork:0.0k The official Open-Asset-Importer-Library Repository. Loads 40+ 3D-file-formats into one unified and clean data structure. 
+- [opencollective/atom-chlorine](https://github.com/opencollective/atom-chlorine) topic: pushed_at:2020-04 star:0.0k fork:0.0k An Atom plugin to integrate with Socket-REPL over Clojure, ClojureScript, ClojureCLR, Joker, Babashka, Clojerl, Lumo and Plank
+- [opencollective/atomic-layout](https://github.com/opencollective/atomic-layout) topic: pushed_at:2019-09 star:0.0k fork:0.0k Physical representation of layout composition to create declarative responsive layouts in React.
+- [opencollective/attila](https://github.com/opencollective/attila) topic: pushed_at:2019-09 star:0.0k fork:0.0k Ghost Theme
+- [opencollective/auth](https://github.com/opencollective/auth) topic: pushed_at:2019-09 star:0.0k fork:0.0k :atom: Social (OAuth1\OAuth2\OpenID\OpenIDConnect) sign with PHP :shipit:
+- [opencollective/authelia](https://github.com/opencollective/authelia) topic: pushed_at:2020-04 star:0.0k fork:0.0k The Cloud ready multi-factor authentication portal for your Apps
+- [opencollective/autopia](https://github.com/opencollective/autopia) topic: pushed_at:2019-09 star:0.0k fork:0.0k 
+- [opencollective/AutoPiano](https://github.com/opencollective/AutoPiano) topic: pushed_at:2021-01 star:0.0k fork:0.0k 自由钢琴 🎹 AutoPiano ( https://www.autopiano.cn )   Simple & Elegant Piano Online
+- [opencollective/awesome-AI-books](https://github.com/opencollective/awesome-AI-books) topic: pushed_at:2019-12 star:0.0k fork:0.0k Some awesome AI related books and pdfs for learning and downloading
+- [opencollective/Awesome-CV](https://github.com/opencollective/Awesome-CV) topic: pushed_at:2019-09 star:0.0k fork:0.0k :page_facing_up: Awesome CV is LaTeX template for your outstanding job application
+- [opencollective/awesome-diarization](https://github.com/opencollective/awesome-diarization) topic: pushed_at:2019-12 star:0.0k fork:0.0k A curated list of awesome Speaker Diarization papers, libraries, datasets, and other resources.
+- [opencollective/awesome-education](https://github.com/opencollective/awesome-education) topic: pushed_at:2019-12 star:0.0k fork:0.0k 学生福利-收集支持教育优惠的软件与服务
+- [opencollective/awesome-gbdev](https://github.com/opencollective/awesome-gbdev) topic: pushed_at:2019-11 star:0.0k fork:0.0k A curated list of Game Boy development resources such as tools, docs, emulators, related projects and open-source ROMs.
+- [opencollective/awesome-guidelines](https://github.com/opencollective/awesome-guidelines) topic: pushed_at:2020-06 star:0.0k fork:0.0k A curated list of high quality coding style conventions and standards.
+- [opencollective/Awesome-Interview](https://github.com/opencollective/Awesome-Interview) topic: pushed_at:2019-04 star:0.0k fork:0.0k Collection of awesome interview references.
+- [opencollective/Awesome-TTRSS](https://github.com/opencollective/Awesome-TTRSS) topic: pushed_at:2019-09 star:0.0k fork:0.0k 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
+- [opencollective/awosome-bioinformatics](https://github.com/opencollective/awosome-bioinformatics) topic: pushed_at:2020-04 star:0.0k fork:0.0k A curated list of resources for learning bioinformatics.
+- [opencollective/babashka](https://github.com/opencollective/babashka) topic: pushed_at:2020-04 star:0.0k fork:0.0k A Clojure babushka for the grey areas of Bash (native fast-starting Clojure scripting environment)
+- [opencollective/base-1](https://github.com/opencollective/base-1) topic: pushed_at:2020-05 star:0.0k fork:0.0k Base - A Rock Solid, Responsive CSS Framework built to work on all devices big, small and in-between.
+- [opencollective/bastion](https://github.com/opencollective/bastion) topic: pushed_at:2019-11 star:0.0k fork:0.0k Highly-available Distributed Fault-tolerant Runtime
+- [opencollective/bbs-go](https://github.com/opencollective/bbs-go) topic: pushed_at:2020-06 star:0.0k fork:0.0k 基于Golang的社区系统。
+- [opencollective/beauter](https://github.com/opencollective/beauter) topic: pushed_at:2019-09 star:0.0k fork:0.0k A simple framework for faster and beautiful responsive sites
+- [opencollective/BerryNet](https://github.com/opencollective/BerryNet) topic: pushed_at:2019-12 star:0.0k fork:0.0k Deep learning gateway on Raspberry Pi and other edge devices
+- [opencollective/BlackNET](https://github.com/opencollective/BlackNET) topic: pushed_at:2020-01 star:0.0k fork:0.0k Free advanced and modern Windows botnet with a nice and secure PHP panel.
+- [opencollective/block-options](https://github.com/opencollective/block-options) topic: pushed_at:2019-09 star:0.0k fork:0.0k Page building toolkit for the Gutenberg editor.
+- [opencollective/Bob](https://github.com/opencollective/Bob) topic: pushed_at:2020-01 star:0.0k fork:0.0k Bob 是一款  Mac 端翻译软件，翻译方式支持划词翻译和截图翻译，翻译引擎支持有道翻译、百度翻译和谷歌翻译~
+- [opencollective/book-of-modern-frontend-tooling](https://github.com/opencollective/book-of-modern-frontend-tooling) topic: pushed_at:2020-03 star:0.0k fork:0.0k The Front-end Tooling Book
+- [opencollective/bootstrap-popover-x](https://github.com/opencollective/bootstrap-popover-x) topic: pushed_at:2019-09 star:0.0k fork:0.0k Bootstrap popover extended with modal properties and more.
+- [opencollective/bowser](https://github.com/opencollective/bowser) topic: pushed_at:2019-09 star:0.0k fork:0.0k a browser detector
+- [opencollective/boxicons](https://github.com/opencollective/boxicons) topic: pushed_at:2020-02 star:0.0k fork:0.0k High Quality web friendly icons
+- [opencollective/brook](https://github.com/opencollective/brook) topic: pushed_at:2019-12 star:0.0k fork:0.0k Brook is a cross-platform(Linux/MacOS/Windows/Android/iOS) proxy/vpn software
+- [opencollective/burner-email-providers](https://github.com/opencollective/burner-email-providers) topic: pushed_at:2022-01 star:0.0k fork:0.0k A list of temporary email providers
+- [opencollective/cabal-desktop](https://github.com/opencollective/cabal-desktop) topic: pushed_at:2020-01 star:0.0k fork:0.0k Desktop client for Cabal, the p2p/decentralized/local-first chat platform.
+- [opencollective/cadCAD](https://github.com/opencollective/cadCAD) topic: pushed_at:2019-12 star:0.0k fork:0.0k Design, test and validate complex systems through simulation in Python
+- [opencollective/camelot](https://github.com/opencollective/camelot) topic: pushed_at:2019-11 star:0.0k fork:0.0k A Python library to extract tabular data from PDFs
+- [opencollective/cas](https://github.com/opencollective/cas) topic: pushed_at:2021-02 star:0.0k fork:0.0k Apereo CAS - Enterprise Single Sign On for all earthlings and beyond.
+- [opencollective/cashify](https://github.com/opencollective/cashify) topic: pushed_at:2021-02 star:0.0k fork:0.0k 💸 Lightweight currency conversion library, successor of money.js
+- [opencollective/casl](https://github.com/opencollective/casl) topic: pushed_at:2020-02 star:0.0k fork:0.0k CASL is an isomorphic authorization JavaScript library which restricts what resources a given user is allowed to access
+- [opencollective/Chrome-Charset](https://github.com/opencollective/Chrome-Charset) topic: pushed_at:2019-12 star:0.0k fork:0.0k A Google Chrome extension used to modify the page default encoding for Google Chrome 55+.
+- [opencollective/CircuitVerse](https://github.com/opencollective/CircuitVerse) topic: pushed_at:2019-09 star:0.0k fork:0.0k CircuitVerse Primary Code Base
+- [opencollective/citizenspring](https://github.com/opencollective/citizenspring) topic: pushed_at:2018-12 star:0.0k fork:0.0k Building in open source what citizen movements need to thrive
+- [opencollective/clio](https://github.com/opencollective/clio) topic: pushed_at:2020-07 star:0.0k fork:0.0k Clio is a pure functional lazy-evaluated programming language targeting decentralized and distributed systems.
+- [opencollective/cloud](https://github.com/opencollective/cloud) topic: pushed_at:2020-07 star:0.0k fork:0.0k Secure and Interoperable Internet of Things
+- [opencollective/cloudflare-sync](https://github.com/opencollective/cloudflare-sync) topic: pushed_at:2019-09 star:0.0k fork:0.0k A nice to have, MIT-licensed tool for using Cloudflare as a dynamic DNS provider.
+- [opencollective/cloudsim-plus](https://github.com/opencollective/cloudsim-plus) topic: pushed_at:2020-04 star:0.0k fork:0.0k A modern, full-featured, highly extensible and easier-to-use Java 8+ Framework for Cloud Computing Simulation
+- [opencollective/code-notes](https://github.com/opencollective/code-notes) topic: pushed_at:2019-09 star:0.0k fork:0.0k A simple code snippet & gist manager for developers built with Electron & Vue.js 🚀
+- [opencollective/Codeception](https://github.com/opencollective/Codeception) topic: pushed_at:2019-11 star:0.0k fork:0.0k Full-stack testing PHP framework
+- [opencollective/CollapsibleTableSectionViewController](https://github.com/opencollective/CollapsibleTableSectionViewController) topic: pushed_at:2020-05 star:0.0k fork:0.0k :tada: Swift library to support collapsible sections in a table view.
+- [opencollective/colour](https://github.com/opencollective/colour) topic: pushed_at:2019-12 star:0.0k fork:0.0k Colour Science for Python
+- [opencollective/commonmarker](https://github.com/opencollective/commonmarker) topic: pushed_at:2020-01 star:0.0k fork:0.0k Ruby wrapper for libcmark (CommonMark parser)
+- [opencollective/community](https://github.com/opencollective/community) topic: pushed_at:2020-08 star:0.0k fork:0.0k Build with us the community version of open collective
+- [opencollective/comrak](https://github.com/opencollective/comrak) topic: pushed_at:2020-02 star:0.0k fork:0.0k CommonMark + GFM compatible Markdown parser and renderer
+- [opencollective/config](https://github.com/opencollective/config) topic: pushed_at:2019-09 star:0.0k fork:0.0k Easiest way to add multi-environment yaml settings to Rails, Sinatra, Pandrino and other Ruby projects.
+- [opencollective/coopcycle-web](https://github.com/opencollective/coopcycle-web) topic: pushed_at:2019-10 star:0.0k fork:0.0k Open source logistics platform. Only for worker-owned business.
+- [opencollective/core.typed](https://github.com/opencollective/core.typed) topic: pushed_at:2020-03 star:0.0k fork:0.0k An optional type system for Clojure
+- [opencollective/craft.js](https://github.com/opencollective/craft.js) topic: pushed_at:2020-04 star:0.0k fork:0.0k 🚀 A React Framework for building extensible drag and drop page editors
+- [opencollective/create-react-app-material-typescript-redux](https://github.com/opencollective/create-react-app-material-typescript-redux) topic: pushed_at:2020-04 star:0.0k fork:0.0k A ready to use boilerplate for starting big react projects
+- [opencollective/crowi](https://github.com/opencollective/crowi) topic: pushed_at:2019-09 star:0.0k fork:0.0k Crowi - Markdown Wiki - Empower the team with sharing your knowledge
+- [opencollective/css-analyzer](https://github.com/opencollective/css-analyzer) topic: pushed_at:2020-05 star:0.0k fork:0.0k Analytics for CSS
+- [opencollective/css.gg](https://github.com/opencollective/css.gg) topic: pushed_at:2020-01 star:0.0k fork:0.0k 500+ CSS Icons. Customizable, Retina Ready with API & NPM
+- [opencollective/CVTron](https://github.com/opencollective/CVTron) topic: pushed_at:2020-05 star:0.0k fork:0.0k An Out-of-the-Box Computer Vision Library
+- [opencollective/cypress](https://github.com/opencollective/cypress) topic: pushed_at:2019-11 star:0.0k fork:0.0k Fast, easy and reliable testing for anything that runs in a browser.
+- [opencollective/dante2](https://github.com/opencollective/dante2) topic: pushed_at:2019-10 star:0.0k fork:0.0k A complete rewrite of dante editor in draft-js
+- [opencollective/dart-json-mapper](https://github.com/opencollective/dart-json-mapper) topic: pushed_at:2020-05 star:0.0k fork:0.0k Serialize / Deserialize Dart Objects to / from JSON
+- [opencollective/dasarpemrogramangolang](https://github.com/opencollective/dasarpemrogramangolang) topic: pushed_at:2019-12 star:0.0k fork:0.0k 📖 Source Code E-book Dasar Pemrograman Golang
+- [opencollective/dash-to-panel](https://github.com/opencollective/dash-to-panel) topic: pushed_at:2020-04 star:0.0k fork:0.0k An icon taskbar for the Gnome Shell. This extension moves the dash into the gnome main panel so that the application launchers and system tray are combined into a single panel, similar to that found in KDE Plasma and Windows 7+. A separate dock is no longer needed for easy access to running and favorited applications.
+- [opencollective/dcat-admin](https://github.com/opencollective/dcat-admin) topic: pushed_at:2020-06 star:0.0k fork:0.0k 🔥  使用很少的代码快速构建一个功能完善的高颜值后台系统，内置丰富的后台常用组件，开箱即用，让开发者告别冗杂的HTML代码。
+- [opencollective/de_GWD](https://github.com/opencollective/de_GWD) topic: pushed_at:2019-12 star:0.0k fork:0.0k Debian Gateway & DNS
+- [opencollective/dentaku](https://github.com/opencollective/dentaku) topic: pushed_at:2019-09 star:0.0k fork:0.0k math and logic formula parser and evaluator
+- [opencollective/design-patterns-for-humans](https://github.com/opencollective/design-patterns-for-humans) topic: pushed_at:2017-09 star:0.0k fork:0.0k Design Patterns for Humans™ - An ultra-simplified explanation
+- [opencollective/Detection](https://github.com/opencollective/Detection) topic: pushed_at:2019-09 star:0.0k fork:0.0k ASP.NET Core Detection service components for identifying details about client device, browser, engine, platform, & crawler.
+- [opencollective/Developing-iOS-10-Apps-with-Swift](https://github.com/opencollective/Developing-iOS-10-Apps-with-Swift) topic: pushed_at:2017-10 star:0.0k fork:0.0k Stanford 公开课，Developing iOS 10 Apps with Swift 字幕翻译
+- [opencollective/diet](https://github.com/opencollective/diet) topic: pushed_at:2019-12 star:0.0k fork:0.0k A tiny, fast and modular node.js web framework. Good for making fast & scalable apps and apis.
+- [opencollective/diffuse](https://github.com/opencollective/diffuse) topic: pushed_at:2019-09 star:0.0k fork:0.0k A music player that connects to your cloud/distributed storage.
+- [opencollective/DiscImageChef](https://github.com/opencollective/DiscImageChef) topic: pushed_at:2019-09 star:0.0k fork:0.0k Disc Image Chef (because "swiss-army-knife" is used too much)
+- [opencollective/django-extensions](https://github.com/opencollective/django-extensions) topic: pushed_at:2020-08 star:0.0k fork:0.0k This is a repository for collecting global custom management extensions for the Django Framework. 
+- [opencollective/docker-slim](https://github.com/opencollective/docker-slim) topic: pushed_at:2020-01 star:0.0k fork:0.0k DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
+- [opencollective/docs](https://github.com/opencollective/docs) topic: pushed_at:2019-03 star:0.0k fork:0.0k Onboarding Resources for contributors, members and chapter organizers of Open source community Africa (O.S.C.A)
+- [opencollective/documentation](https://github.com/opencollective/documentation) topic:documentation,open-collective pushed_at:2022-08 star:0.1k fork:0.2k All documentation for Open Collective
+- [opencollective/dotenv-linter](https://github.com/opencollective/dotenv-linter) topic: pushed_at:2020-08 star:0.0k fork:0.0k ✌️Linter for .env files. Written in Rust 🦀
+- [opencollective/dowww](https://github.com/opencollective/dowww) topic: pushed_at:2019-01 star:0.0k fork:0.0k 💡 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
+- [opencollective/DragonProxy](https://github.com/opencollective/DragonProxy) topic: pushed_at:2021-02 star:0.0k fork:0.0k A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.
+- [opencollective/dreamtime](https://github.com/opencollective/dreamtime) topic: pushed_at:2019-09 star:0.0k fork:0.0k DreamTime allows you to transform photos to get private entertainment.
+- [opencollective/EffectiveModernCppChinese](https://github.com/opencollective/EffectiveModernCppChinese) topic: pushed_at:2019-01 star:0.0k fork:0.0k 《Effective Modern C++》翻译 - 2018.5更新中
+- [opencollective/einsteinpy](https://github.com/opencollective/einsteinpy) topic: pushed_at:2019-09 star:0.0k fork:0.0k Repository for the EinsteinPy core package :rocket:
+- [opencollective/ElasticsearchDSL](https://github.com/opencollective/ElasticsearchDSL) topic: pushed_at:2020-02 star:0.0k fork:0.0k Query DSL library for Elasticsearch
+- [opencollective/emmet](https://github.com/opencollective/emmet) topic: pushed_at:2019-09 star:0.0k fork:0.0k The essential toolkit for web-developers
+- [opencollective/emmet-vim](https://github.com/opencollective/emmet-vim) topic: pushed_at:2019-10 star:0.0k fork:0.0k emmet for vim: http://emmet.io/
+- [opencollective/emojiscreen](https://github.com/opencollective/emojiscreen) topic: pushed_at:2021-02 star:0.0k fork:0.0k EmojiScreen is a listing of movies, TV shows and musicals depicted through emojis.
+- [opencollective/engine262](https://github.com/opencollective/engine262) topic: pushed_at:2020-04 star:0.0k fork:0.0k An implementation of ECMA-262 in JavaScript
+- [opencollective/enhanced-github](https://github.com/opencollective/enhanced-github) topic: pushed_at:2019-12 star:0.0k fork:0.0k :rocket: Chrome extension to display size of each file, download link and copy file contents directly to clipboard
+- [opencollective/enso](https://github.com/opencollective/enso) topic: pushed_at:2020-04 star:0.0k fork:0.0k Hybrid textual and visual functional programming.
+- [opencollective/entropic](https://github.com/opencollective/entropic) topic: pushed_at:2019-09 star:0.0k fork:0.0k 🦝 :package: a package registry for anything, but mostly javascript 🦝 🦝 🦝
+- [opencollective/eplayer](https://github.com/opencollective/eplayer) topic: pushed_at:2020-01 star:0.0k fork:0.0k :crystal_ball: A web-component html5 video player facing future
+- [opencollective/eruda](https://github.com/opencollective/eruda) topic: pushed_at:2020-01 star:0.0k fork:0.0k Console for mobile browsers
+- [opencollective/eslint-plugin-sequelize](https://github.com/opencollective/eslint-plugin-sequelize) topic: pushed_at:2021-03 star:0.0k fork:0.0k Simple ESLint Plugin to lint some Sequelize config
+- [opencollective/ESP-DASH](https://github.com/opencollective/ESP-DASH) topic: pushed_at:2020-01 star:0.0k fork:0.0k A beautifully fast library to create functional dashboard for ESP8266 and ESP32
+- [opencollective/EvalAI](https://github.com/opencollective/EvalAI) topic: pushed_at:2020-04 star:0.0k fork:0.0k :cloud: :rocket: :bar_chart: :chart_with_upwards_trend: Evaluating state of the art in AI
+- [opencollective/excalidraw](https://github.com/opencollective/excalidraw) topic: pushed_at:2020-01 star:0.0k fork:0.0k Sketch hand-drawn like diagrams
+- [opencollective/fast-check](https://github.com/opencollective/fast-check) topic: pushed_at:2019-09 star:0.0k fork:0.0k Property based testing framework for JavaScript (like QuickCheck) written in TypeScript
+- [opencollective/fiber](https://github.com/opencollective/fiber) topic: pushed_at:2020-07 star:0.0k fork:0.0k 🚀 Fiber is an Express inspired web framework written in Go with 💖
+- [opencollective/firebase-firestorm](https://github.com/opencollective/firebase-firestorm) topic: pushed_at:2019-09 star:0.0k fork:0.0k Firebase Firestorm is an ORM for Firestore which can be used with Typescript.
+- [opencollective/FluffySpoon.JavaScript.Testing.Faking](https://github.com/opencollective/FluffySpoon.JavaScript.Testing.Faking) topic: pushed_at:2020-05 star:0.0k fork:0.0k An NSubstitute port to TypeScript called substitute.js.
+- [opencollective/form-render](https://github.com/opencollective/form-render) topic: pushed_at:2019-12 star:0.0k fork:0.0k 🏄 跨组件体系的表单渲染引擎 - 通过 JSON Schema 快速生成自定义表单配置界面 
+- [opencollective/formik](https://github.com/opencollective/formik) topic: pushed_at:2019-10 star:0.0k fork:0.0k Build forms in React, without the tears 😭 
+- [opencollective/fossresponders.com](https://github.com/opencollective/fossresponders.com) topic: pushed_at:2020-04 star:0.0k fork:0.0k The website for FOSS Responders
+- [opencollective/fritzing-app](https://github.com/opencollective/fritzing-app) topic: pushed_at:2019-09 star:0.0k fork:0.0k Fritzing desktop application
+- [opencollective/Front-End-Checklist](https://github.com/opencollective/Front-End-Checklist) topic: pushed_at:2017-11 star:0.0k fork:0.0k 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
+- [opencollective/fx](https://github.com/opencollective/fx) topic: pushed_at:2019-12 star:0.0k fork:0.0k fx is a framework to help you do Function as a Service with painless on your own servers
+- [opencollective/G2](https://github.com/opencollective/G2) topic: pushed_at:2019-12 star:0.0k fork:0.0k 📊 The Grammar of Graphics in JavaScript
+- [opencollective/geolib](https://github.com/opencollective/geolib) topic: pushed_at:2019-09 star:0.0k fork:0.0k Zero dependency library to provide some basic geo functions
+- [opencollective/getflutter](https://github.com/opencollective/getflutter) topic: pushed_at:2020-01 star:0.0k fork:0.0k Most popular and easy to use open source UI library with 1000+ Widgets to build flutter app. 
+- [opencollective/gf](https://github.com/opencollective/gf) topic: pushed_at:2020-01 star:0.0k fork:0.0k GoFrame is a modular, full-featured and production-ready application development framework of golang. Providing a series of core components and dozens of practical modules, such as: cache, logging, containers, timer, resource, validator, database orm, etc. Supporting web server integrated with router, cookie, session, middleware, logger, configure, template, https, hooks, rewrites and many more features. 
+- [opencollective/Gitako](https://github.com/opencollective/Gitako) topic: pushed_at:2020-07 star:0.0k fork:0.0k 🐙 File tree extension for GitHub on Chrome & Firefox & Edge
+- [opencollective/github-trending-api](https://github.com/opencollective/github-trending-api) topic: pushed_at:2019-09 star:0.0k fork:0.0k :octocat: The missing APIs for GitHub trending projects and developers 📈
+- [opencollective/gitnote](https://github.com/opencollective/gitnote) topic: pushed_at:2020-01 star:0.0k fork:0.0k A modern note taking app based on GIT that does not require a local GIT environment.
+- [opencollective/gitpay](https://github.com/opencollective/gitpay) topic: pushed_at:2021-01 star:0.0k fork:0.0k Bounties for issues on demand. Be rewarded by learning, using Git workflow and continuous integration
+- [opencollective/gitql](https://github.com/opencollective/gitql) topic: pushed_at:2019-09 star:0.0k fork:0.0k A git query language
+- [opencollective/go-harbor](https://github.com/opencollective/go-harbor) topic: pushed_at:2020-04 star:0.0k fork:0.0k A Harbor API client enabling Go programs to interact with Harbor in a simple and uniform way
+- [opencollective/Go-Mini-Social-Network](https://github.com/opencollective/Go-Mini-Social-Network) topic: pushed_at:2020-01 star:0.0k fork:0.0k A mini social-network created with the awesome Golang💖💖!!
+- [opencollective/goInception](https://github.com/opencollective/goInception) topic: pushed_at:2020-01 star:0.0k fork:0.0k 一个集审核、执行、备份及生成回滚语句于一身的MySQL运维工具
+- [opencollective/goodshare.js](https://github.com/opencollective/goodshare.js) topic: pushed_at:2020-02 star:0.0k fork:0.0k 🚀 А useful modern JavaScript solution for share a link from your website to social networks or mobile messengers. Easy to install and configuring on any of your website!
+- [opencollective/goodwork](https://github.com/opencollective/goodwork) topic: pushed_at:2019-10 star:0.0k fork:0.0k Self hosted project management and collaboration tool powered by Laravel & VueJS
+- [opencollective/gorush](https://github.com/opencollective/gorush) topic: pushed_at:2020-05 star:0.0k fork:0.0k A push notification server written in Go (Golang).
+- [opencollective/gotgt](https://github.com/opencollective/gotgt) topic: pushed_at:2019-12 star:0.0k fork:0.0k Simple Golang SCSI Target framework
+- [opencollective/gotql](https://github.com/opencollective/gotql) topic: pushed_at:2020-05 star:0.0k fork:0.0k GraphQL query utility for serverside apps
+- [opencollective/graphql-flutter](https://github.com/opencollective/graphql-flutter) topic: pushed_at:2019-10 star:0.0k fork:0.0k A GraphQL client for Flutter, bringing all the features from a modern GraphQL client to one easy to use package.
+- [opencollective/GriefPrevention](https://github.com/opencollective/GriefPrevention) topic: pushed_at:2021-02 star:0.0k fork:0.0k The official repository of the GriefPrevention Bukkit plugin, a self-managed claiming and permissions system
+- [opencollective/gtk](https://github.com/opencollective/gtk) topic: pushed_at:2020-04 star:0.0k fork:0.0k GTK+ 3.x bindings and wrappers for Rust
+- [opencollective/guide](https://github.com/opencollective/guide) topic: pushed_at:2019-02 star:0.0k fork:0.0k  Kubernetes clusters for the hobbyist.
+- [opencollective/guiscrcpy](https://github.com/opencollective/guiscrcpy) topic: pushed_at:2020-05 star:0.0k fork:0.0k :mobile: A full fledged GUI integration for the most award winning open-source android screen mirroring system -- scrcpy located on https://github.com/genymobile/scrcpy/ by @rom1v
+- [opencollective/HandyControl](https://github.com/opencollective/HandyControl) topic: pushed_at:2019-12 star:0.0k fork:0.0k Contains some simple and commonly used WPF controls
+- [opencollective/headwind](https://github.com/opencollective/headwind) topic: pushed_at:2020-04 star:0.0k fork:0.0k An opinionated Tailwind CSS class sorter built for Visual Studio Code
+- [opencollective/heim](https://github.com/opencollective/heim) topic: pushed_at:2019-09 star:0.0k fork:0.0k Cross-platform async library for system information fetching 🦀
+- [opencollective/Heimdall](https://github.com/opencollective/Heimdall) topic: pushed_at:2019-09 star:0.0k fork:0.0k An Application dashboard and launcher
+- [opencollective/helloworks-nodejs-sdk](https://github.com/opencollective/helloworks-nodejs-sdk) topic: pushed_at:2019-07 star:0.0k fork:0.0k Easily create and manage HelloWorks workflow instances.
+- [opencollective/hexo-theme-fluid](https://github.com/opencollective/hexo-theme-fluid) topic: pushed_at:2019-10 star:0.0k fork:0.0k :ocean: 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo
+- [opencollective/hexo-theme-freemind.386](https://github.com/opencollective/hexo-theme-freemind.386) topic: pushed_at:2019-09 star:0.0k fork:0.0k 
+- [opencollective/hexo-theme-nexmoe](https://github.com/opencollective/hexo-theme-nexmoe) topic: pushed_at:2020-05 star:0.0k fork:0.0k 🔥 一个比较特别的 Hexo 主题
+- [opencollective/hexo-theme-stun](https://github.com/opencollective/hexo-theme-stun) topic: pushed_at:2020-05 star:0.0k fork:0.0k 🦄 A beautiful theme for Hexo
+- [opencollective/hls-vod](https://github.com/opencollective/hls-vod) topic: pushed_at:2019-11 star:0.0k fork:0.0k HTTP Live Streaming with on-the-fly encoding of any video file for Web/Apple TV/iPhone/iPad/iPod
+- [opencollective/hostctl](https://github.com/opencollective/hostctl) topic: pushed_at:2020-05 star:0.0k fork:0.0k Your dev tool to manage /etc/hosts like a pro!
+- [opencollective/hpy](https://github.com/opencollective/hpy) topic: pushed_at:2020-04 star:0.0k fork:0.0k HPy: a better API for Python
+- [opencollective/html-react-parser](https://github.com/opencollective/html-react-parser) topic: pushed_at:2019-09 star:0.0k fork:0.0k :memo: HTML to React parser.
+- [opencollective/hydra](https://github.com/opencollective/hydra) topic: pushed_at:2020-04 star:0.0k fork:0.0k Hydra is a framework for elegantly configuring complex applications
+- [opencollective/hyperf](https://github.com/opencollective/hyperf) topic: pushed_at:2019-09 star:0.0k fork:0.0k 🚀 A coroutine framework that focuses on hyperspeed and flexibility, specifically used for build microservices or middlewares. 
+- [opencollective/hyperglass](https://github.com/opencollective/hyperglass) topic: pushed_at:2020-01 star:0.0k fork:0.0k hyperglass is a modern, customizable network looking glass written in Python 3.
+- [opencollective/Instagram-clone](https://github.com/opencollective/Instagram-clone) topic: pushed_at:2020-01 star:0.0k fork:0.0k An Instagram-clone with my own flavors and features. Own the project with 5 simple steps!! 📸💝☢️
+- [opencollective/iTorrent](https://github.com/opencollective/iTorrent) topic: pushed_at:2019-11 star:0.0k fork:0.0k Torrent client for iOS 9.3+
+- [opencollective/Jailer](https://github.com/opencollective/Jailer) topic: pushed_at:2021-02 star:0.0k fork:0.0k Database Subsetting and Relational Data Browsing Tool. Navigate bidirectionally through the database by following foreign-key-based or user-defined relationships. Exports consistent, referentially intact row-sets from relational databases. Removes data w/o violating integrity. Generates topologically sorted SQL-DML, hierarchically structured XML. and DbUnit datasets.
+- [opencollective/jest](https://github.com/opencollective/jest) topic: pushed_at:2021-09 star:0.0k fork:0.0k Delightful JavaScript Testing.
+- [opencollective/jira](https://github.com/opencollective/jira) topic: pushed_at:2019-09 star:0.0k fork:0.0k Python JIRA Library is the easiest way to automate JIRA.
+- [opencollective/jira-plugin](https://github.com/opencollective/jira-plugin) topic: pushed_at:2019-12 star:0.0k fork:0.0k Jira plugin for VsCode
+- [opencollective/jodd](https://github.com/opencollective/jodd) topic: pushed_at:2021-02 star:0.0k fork:0.0k Jodd! Lightweight. Java. Use what you like.
+- [opencollective/jpress](https://github.com/opencollective/jpress) topic: pushed_at:2021-02 star:0.0k fork:0.0k JPress，一个使用 Java 开发的建站神器，目前已经有 10w+ 网站使用 JPress 进行驱动，其中包括多个政府机构，200+上市公司，中科院、红+字会等。
+- [opencollective/jrnl](https://github.com/opencollective/jrnl) topic: pushed_at:2020-04 star:0.0k fork:0.0k Collect your thoughts and notes without leaving the command line.
+- [opencollective/js-by-examples](https://github.com/opencollective/js-by-examples) topic: pushed_at:2019-10 star:0.0k fork:0.0k Learn JavaScript by examples
+- [opencollective/json-schema-spec](https://github.com/opencollective/json-schema-spec) topic: pushed_at:2019-09 star:0.0k fork:0.0k The JSON Schema I-D sources
+- [opencollective/jvm](https://github.com/opencollective/jvm) topic: pushed_at:2019-09 star:0.0k fork:0.0k 🤗 JVM 底层原理知识总结
+- [opencollective/kalm.js](https://github.com/opencollective/kalm.js) topic: pushed_at:2019-12 star:0.0k fork:0.0k The socket manager
+- [opencollective/Kepler](https://github.com/opencollective/Kepler) topic: pushed_at:2019-12 star:0.0k fork:0.0k The open source full-stack geosocial network platform
+- [opencollective/KivyMD](https://github.com/opencollective/KivyMD) topic: pushed_at:2020-05 star:0.0k fork:0.0k KivyMD is a collection of Material Design compliant widgets for use with Kivy, a framework for cross-platform, touch-enabled graphical applications.
+- [opencollective/koa-rest-api-boilerplate](https://github.com/opencollective/koa-rest-api-boilerplate) topic: pushed_at:2019-09 star:0.0k fork:0.0k 💯 Boilerplate for Node.js Koa RESTful API application with Docker, Swagger, Jest, CodeCov and CircleCI
+- [opencollective/konva](https://github.com/opencollective/konva) topic: pushed_at:2020-07 star:0.0k fork:0.0k Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications.
+- [opencollective/korge](https://github.com/opencollective/korge) topic: pushed_at:2020-08 star:0.0k fork:0.0k KorGE Game Engine. Multiplatform Kotlin Game Engine
+- [opencollective/lando](https://github.com/opencollective/lando) topic: pushed_at:2019-12 star:0.0k fork:0.0k A local development and DevOps tool for all your projects that is fast, easy, powerful and liberating
+- [opencollective/Lantern](https://github.com/opencollective/Lantern) topic: pushed_at:2019-12 star:0.0k fork:0.0k Mac app for website auditing and crawling
+- [opencollective/laravel-s](https://github.com/opencollective/laravel-s) topic: pushed_at:2020-05 star:0.0k fork:0.0k LaravelS is an out-of-the-box adapter between Swoole and Laravel/Lumen.
+- [opencollective/laravel-visits](https://github.com/opencollective/laravel-visits) topic: pushed_at:2019-09 star:0.0k fork:0.0k 📊 Laravel Visits is a counter that can be attached to any model to track its visits based on Redis. (with tags, IP protection and caching)
+- [opencollective/laravel-wallet](https://github.com/opencollective/laravel-wallet) topic: pushed_at:2020-05 star:0.0k fork:0.0k Easy work with virtual wallet
+- [opencollective/Lawnchair](https://github.com/opencollective/Lawnchair) topic: pushed_at:2019-12 star:0.0k fork:0.0k No clever tagline needed
+- [opencollective/leaf](https://github.com/opencollective/leaf) topic: pushed_at:2020-07 star:0.0k fork:0.0k Create clean, simple but powerful web apps and APIs quickly
+- [opencollective/learn-regex](https://github.com/opencollective/learn-regex) topic: pushed_at:2019-07 star:0.0k fork:0.0k Learn regex the easy way
+- [opencollective/lemmy](https://github.com/opencollective/lemmy) topic: pushed_at:2020-05 star:0.0k fork:0.0k 🐀 Building a federated alternative to reddit in rust
+- [opencollective/less.js](https://github.com/opencollective/less.js) topic: pushed_at:2019-11 star:0.0k fork:0.0k Less. The dynamic stylesheet language.
+- [opencollective/libretime](https://github.com/opencollective/libretime) topic: pushed_at:2019-09 star:0.0k fork:0.0k LibreTime: Radio Broadcast & Automation Platform
+- [opencollective/libspng](https://github.com/opencollective/libspng) topic: pushed_at:2019-12 star:0.0k fork:0.0k Simple, modern libpng alternative
+- [opencollective/libuavcan](https://github.com/opencollective/libuavcan) topic: pushed_at:2020-03 star:0.0k fork:0.0k Portable reference implementation of the UAVCAN protocol stack in C++ for embedded systems and Linux.
+- [opencollective/licia](https://github.com/opencollective/licia) topic: pushed_at:2020-01 star:0.0k fork:0.0k Useful utility collection with zero dependencies
+- [opencollective/LightBulb](https://github.com/opencollective/LightBulb) topic: pushed_at:2019-09 star:0.0k fork:0.0k Reduces eye strain by adjusting gamma based on the current time
+- [opencollective/Litepicker](https://github.com/opencollective/Litepicker) topic: pushed_at:2020-06 star:0.0k fork:0.0k Date range picker - lightweight, no dependencies
+- [opencollective/little-state-machine](https://github.com/opencollective/little-state-machine) topic: pushed_at:2020-06 star:0.0k fork:0.0k 📠 React custom hook for persist state management
+- [opencollective/loading-attribute-polyfill](https://github.com/opencollective/loading-attribute-polyfill) topic: pushed_at:2020-04 star:0.0k fork:0.0k Fast and lightweight dependency-free vanilla JavaScript polyfill for native lazy loading / the awesome loading='lazy'-attribute.
+- [opencollective/lombok-intellij-plugin](https://github.com/opencollective/lombok-intellij-plugin) topic: pushed_at:2020-04 star:0.0k fork:0.0k Lombok Plugin for IntelliJ IDEA
+- [opencollective/lossless-cut](https://github.com/opencollective/lossless-cut) topic: pushed_at:2019-11 star:0.0k fork:0.0k Save space by quickly and losslessly trimming video and audio files
+- [opencollective/lottie-web](https://github.com/opencollective/lottie-web) topic: pushed_at:2020-04 star:0.0k fork:0.0k Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/
+- [opencollective/Magicodes.IE](https://github.com/opencollective/Magicodes.IE) topic: pushed_at:2020-04 star:0.0k fork:0.0k 导入导出通用库，支持Dto导入导出以及动态导出，支持Excel、Csv、Word、Pdf和Html。
+- [opencollective/material-table](https://github.com/opencollective/material-table) topic: pushed_at:2019-12 star:0.0k fork:0.0k Datatable for React based on material-ui's table with additional features
+- [opencollective/md](https://github.com/opencollective/md) topic: pushed_at:2019-12 star:0.0k fork:0.0k ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
+- [opencollective/mergerfs](https://github.com/opencollective/mergerfs) topic: pushed_at:2019-12 star:0.0k fork:0.0k a featureful union filesystem
+- [opencollective/MicroOrm.Dapper.Repositories](https://github.com/opencollective/MicroOrm.Dapper.Repositories) topic: pushed_at:2019-11 star:0.0k fork:0.0k CRUD for Dapper
+- [opencollective/microweber](https://github.com/opencollective/microweber) topic: pushed_at:2019-09 star:0.0k fork:0.0k Drag and Drop Website Builder and CMS with E-commerce
+- [opencollective/mindmapp](https://github.com/opencollective/mindmapp) topic: pushed_at:2019-09 star:0.0k fork:0.0k :rocket: Web application to draw mind maps.
+- [opencollective/MineCase](https://github.com/opencollective/MineCase) topic: pushed_at:2020-04 star:0.0k fork:0.0k A distributed minecraft server based on Orleans
+- [opencollective/MiniValine](https://github.com/opencollective/MiniValine) topic: pushed_at:2020-04 star:0.0k fork:0.0k A simple and minimalist comment system based on Leancloud.
+- [opencollective/mirai](https://github.com/opencollective/mirai) topic: pushed_at:2020-05 star:0.0k fork:0.0k 全开源 高效率 QQ机器人/Android QQ协议支持库 for JVM / Android
+- [opencollective/miso](https://github.com/opencollective/miso) topic: pushed_at:2019-09 star:0.0k fork:0.0k :ramen: A tasty Haskell front-end framework
+- [opencollective/mobile-ffmpeg](https://github.com/opencollective/mobile-ffmpeg) topic: pushed_at:2021-02 star:0.0k fork:0.0k FFmpeg for Android, iOS and tvOS
+- [opencollective/mongoke](https://github.com/opencollective/mongoke) topic: pushed_at:2020-04 star:0.0k fork:0.0k Instant Graphql for MongoDb
+- [opencollective/monica](https://github.com/opencollective/monica) topic: pushed_at:2020-01 star:0.0k fork:0.0k Personal CRM. Remember everything about your friends and family.
+- [opencollective/monotorrent](https://github.com/opencollective/monotorrent) topic: pushed_at:2020-02 star:0.0k fork:0.0k The official repository for MonoTorrent, a bittorrent library for .NET
+- [opencollective/MoreLINQ](https://github.com/opencollective/MoreLINQ) topic: pushed_at:2019-12 star:0.0k fork:0.0k Extensions to LINQ to Objects
+- [opencollective/morphism](https://github.com/opencollective/morphism) topic: pushed_at:2020-01 star:0.0k fork:0.0k ⚡ Do not repeat anymore your objects transformations.
+- [opencollective/mr2](https://github.com/opencollective/mr2) topic: pushed_at:2019-12 star:0.0k fork:0.0k Mr.2 can help you expose local server to external network. Support both TCP/UDP, of course support HTTP.
+- [opencollective/multihead-siamese-nets](https://github.com/opencollective/multihead-siamese-nets) topic: pushed_at:2020-07 star:0.0k fork:0.0k Implementation of Siamese Neural Networks built upon multihead attention mechanism for text semantic similarity task. 
+- [opencollective/mypaint](https://github.com/opencollective/mypaint) topic: pushed_at:2020-04 star:0.0k fork:0.0k MyPaint is a simple drawing and painting program that works well with Wacom-style graphics tablets.
+- [opencollective/MyTested.AspNetCore.Mvc](https://github.com/opencollective/MyTested.AspNetCore.Mvc) topic: pushed_at:2019-10 star:0.0k fork:0.0k Fluent testing library for ASP.NET Core MVC.
+- [opencollective/natuive](https://github.com/opencollective/natuive) topic: pushed_at:2019-12 star:0.0k fork:0.0k ~10+~10 KB feature-rich front-end framework
+- [opencollective/nestcloud](https://github.com/opencollective/nestcloud) topic: pushed_at:2019-12 star:0.0k fork:0.0k A NodeJS micro-service solution, writing by Typescript language and NestJS framework.
+- [opencollective/netboot.xyz](https://github.com/opencollective/netboot.xyz) topic: pushed_at:2019-12 star:0.0k fork:0.0k Network bootable operating system installer based on iPXE
+- [opencollective/NewBie-Plan](https://github.com/opencollective/NewBie-Plan) topic: pushed_at:2019-12 star:0.0k fork:0.0k 📚 Java 技术面试指南   🚀 算法，基础框架，原理剖析，职业感悟，技术面试
+- [opencollective/Newtonsoft.Json-for-Unity](https://github.com/opencollective/Newtonsoft.Json-for-Unity) topic: pushed_at:2020-04 star:0.0k fork:0.0k Newtonsoft.Json (Json.NET) 12.0.3 for Unity via Unity Package Manager
+- [opencollective/nexrender](https://github.com/opencollective/nexrender) topic: pushed_at:2019-12 star:0.0k fork:0.0k 📹  Data-driven render automation for After Effects
+- [opencollective/next-auth-example](https://github.com/opencollective/next-auth-example) topic: pushed_at:2022-07 star:0.0k fork:0.0k Example showing how to use NextAuth.js with Next.js
+- [opencollective/ngx-sharebuttons](https://github.com/opencollective/ngx-sharebuttons) topic: pushed_at:2020-07 star:0.0k fork:0.0k Angular Share Buttons ☂
+- [opencollective/ngx-starter-kit](https://github.com/opencollective/ngx-starter-kit) topic: pushed_at:2020-01 star:0.0k fork:0.0k :a: Angular :rocket: NestJS :monkey: Starter Kit 
+- [opencollective/nlp_fundamentals](https://github.com/opencollective/nlp_fundamentals) topic: pushed_at:2020-05 star:0.0k fork:0.0k 📘Contains a series of hands-on notebooks for learning the fundamentals of NLP
+- [opencollective/node-redis](https://github.com/opencollective/node-redis) topic: pushed_at:2020-03 star:0.0k fork:0.0k A high performance Node.js Redis client.
+- [opencollective/nodegui](https://github.com/opencollective/nodegui) topic: pushed_at:2020-04 star:0.0k fork:0.0k A library for building cross-platform native desktop applications with Node.js and CSS  🚀.  For React NodeGui, visit: https://github.com/nodegui/react-nodegui ⚛️
+- [opencollective/nodejieba](https://github.com/opencollective/nodejieba) topic: pushed_at:2019-10 star:0.0k fork:0.0k "结巴"中文分词的Node.js版本
+- [opencollective/noflo-rsf](https://github.com/opencollective/noflo-rsf) topic: pushed_at:2019-12 star:0.0k fork:0.0k ENTER HERE, and README.  the Rapid Sensemaking Framework is designed for cross-platform, cross-protocol social processes of ideation and deliberation! Design it, run it, harvest it.
+- [opencollective/NotchSolution](https://github.com/opencollective/NotchSolution) topic: pushed_at:2019-09 star:0.0k fork:0.0k A set of components and tools to solve notched/cutout phones layout problems for Unity.
+- [opencollective/Notepads](https://github.com/opencollective/Notepads) topic: pushed_at:2019-09 star:0.0k fork:0.0k A modern, lightweight text editor with minimum design.
+- [opencollective/npm-cli](https://github.com/opencollective/npm-cli) topic: pushed_at:2019-11 star:0.0k fork:0.0k a package manager for JavaScript, report bugs & get support at:
+- [opencollective/obs-websocket](https://github.com/opencollective/obs-websocket) topic: pushed_at:2020-04 star:0.0k fork:0.0k Remote-control OBS Studio from WebSockets
+- [opencollective/OCRmyPDF](https://github.com/opencollective/OCRmyPDF) topic: pushed_at:2019-09 star:0.0k fork:0.0k OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+- [opencollective/offline-qr-code](https://github.com/opencollective/offline-qr-code) topic: pushed_at:2020-04 star:0.0k fork:0.0k 📱 Browser add-on allowing you to quickly generate a QR code offline with the URL of the open tab or other text!
+- [opencollective/ohmyform](https://github.com/opencollective/ohmyform) topic: pushed_at:2020-05 star:0.0k fork:0.0k ✏️ Free open source alternative to TypeForm, TellForm, or Google Forms ⛺
+- [opencollective/open-zwave](https://github.com/opencollective/open-zwave) topic: pushed_at:2019-09 star:0.0k fork:0.0k a C++ library to control Z-Wave Networks via a USB Z-Wave Controller. 
+- [opencollective/openaddresses](https://github.com/opencollective/openaddresses) topic: pushed_at:2020-01 star:0.0k fork:0.0k A repository of global open address data.
+- [opencollective/openboxes](https://github.com/opencollective/openboxes) topic: pushed_at:2020-02 star:0.0k fork:0.0k OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
+- [opencollective/opencollective](https://github.com/opencollective/opencollective) topic:open-source,sustainability,transparency pushed_at:2022-08 star:1.6k fork:0.4k We're tracking all our Issues, RFCs and a few other documents in this repository.
+- [opencollective/opencollective-lib](https://github.com/opencollective/opencollective-lib) topic: pushed_at:2016-06 star:0.0k fork:0.0k Libraries in common in our repos
+- [opencollective/openmptcprouter](https://github.com/opencollective/openmptcprouter) topic: pushed_at:2020-03 star:0.0k fork:0.0k OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
+- [opencollective/opensource](https://github.com/opencollective/opensource) topic: pushed_at:2016-07 star:0.0k fork:0.0k This is the Open Source Collective repo. Submit here issues related on how to spend the money and projects/ideas to get funded. 
+- [opencollective/osm](https://github.com/opencollective/osm) topic: pushed_at:2020-04 star:0.0k fork:0.0k Open sound meter. FFT based application for tuning sound systems.
+- [opencollective/P-Brain.ai](https://github.com/opencollective/P-Brain.ai) topic: pushed_at:2021-09 star:0.0k fork:0.0k Natural language virtual assistant using Node.js + Bootstrap
+- [opencollective/packem](https://github.com/opencollective/packem) topic: pushed_at:2019-09 star:0.0k fork:0.0k 📦⚡ A precompiled JavaScript module bundler
+- [opencollective/parsecsv-for-php](https://github.com/opencollective/parsecsv-for-php) topic: pushed_at:2019-12 star:0.0k fork:0.0k CSV data parser for PHP.
+- [opencollective/passkit-generator](https://github.com/opencollective/passkit-generator) topic: pushed_at:2019-12 star:0.0k fork:0.0k The easiest way to generate custom Apple Wallet passes in Node.js
+- [opencollective/pathom](https://github.com/opencollective/pathom) topic: pushed_at:2020-04 star:0.0k fork:0.0k Pathom is a Clojure(script) engine for processing EQL requests.
+- [opencollective/pattern.css](https://github.com/opencollective/pattern.css) topic: pushed_at:2020-06 star:0.0k fork:0.0k CSS only library to fill empty background with beautiful patterns.
+- [opencollective/pelias](https://github.com/opencollective/pelias) topic: pushed_at:2020-05 star:0.0k fork:0.0k Pelias is a modular open-source geocoder using Elasticsearch.
+- [opencollective/PeNet](https://github.com/opencollective/PeNet) topic: pushed_at:2020-03 star:0.0k fork:0.0k Portable Executable (PE) library written in .Net
+- [opencollective/personal-security-checklist](https://github.com/opencollective/personal-security-checklist) topic: pushed_at:2020-04 star:0.0k fork:0.0k 🔒 A curated checklist of 100+ tips for protecting digital security and privacy in 2020
+- [opencollective/Pester](https://github.com/opencollective/Pester) topic: pushed_at:2019-09 star:0.0k fork:0.0k Pester is the ubiquitous test and mock framework for PowerShell.
+- [opencollective/pgrouting](https://github.com/opencollective/pgrouting) topic: pushed_at:2020-04 star:0.0k fork:0.0k Repository contains pgRouting library. Development branch is "develop", stable branch is "master"
+- [opencollective/phpinsights](https://github.com/opencollective/phpinsights) topic: pushed_at:2019-11 star:0.0k fork:0.0k 🔰 Instant PHP quality checks from your console
+- [opencollective/piano](https://github.com/opencollective/piano) topic: pushed_at:2019-09 star:0.0k fork:0.0k 🎹用键盘8个键演奏一首蒲公英的约定送给自己或月亮代表我的心送给她
+- [opencollective/pickr](https://github.com/opencollective/pickr) topic: pushed_at:2019-09 star:0.0k fork:0.0k 🍭 Flat, simple, multi-themed, responsive and hackable Color-Picker library. No dependencies, no jQuery. Compatible with all CSS Frameworks e.g. Bootstrap, Materialize. Supports alpha channel, rgba, hsla, hsva and more!
+- [opencollective/pixi.js](https://github.com/opencollective/pixi.js) topic: pushed_at:2019-09 star:0.0k fork:0.0k The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
+- [opencollective/portable-utf8](https://github.com/opencollective/portable-utf8) topic: pushed_at:2019-11 star:0.0k fork:0.0k 🉑 Portable UTF-8 library - performance optimized (unicode) string functions for php.
+- [opencollective/posthtml](https://github.com/opencollective/posthtml) topic: pushed_at:2019-09 star:0.0k fork:0.0k PostHTML is a tool to transform HTML/XML with JS plugins
+- [opencollective/probreg](https://github.com/opencollective/probreg) topic: pushed_at:2020-04 star:0.0k fork:0.0k Python package for point cloud registration using probabilistic model (Coherent Point Drift, GMMReg, SVR, GMMTree, FilterReg)
+- [opencollective/proxy.py](https://github.com/opencollective/proxy.py) topic: pushed_at:2019-10 star:0.0k fork:0.0k ⚡⚡⚡Fast, Lightweight, Programmable, TLS interception capable proxy server for Application debugging, testing and development
+- [opencollective/PSWinReporting](https://github.com/opencollective/PSWinReporting) topic: pushed_at:2019-09 star:0.0k fork:0.0k This PowerShell Module has multiple functionalities, but one of the signature features of this module is the ability to parse Security logs on Domain Controllers providing easy to use access to AD Events.
+- [opencollective/puck-core](https://github.com/opencollective/puck-core) topic: pushed_at:2019-12 star:0.0k fork:0.0k Open source, cross platform .NET Core CMS. Fast, scalable, code-first, unobtrusive and extensible with powerful querying and Lucene integration.
+- [opencollective/purescript](https://github.com/opencollective/purescript) topic: pushed_at:2019-12 star:0.0k fork:0.0k A strongly-typed language that compiles to JavaScript
+- [opencollective/pwafire](https://github.com/opencollective/pwafire) topic: pushed_at:2020-02 star:0.0k fork:0.0k Build Scalable Progressive Web Apps / First Experiences ⚡
+- [opencollective/Python](https://github.com/opencollective/Python) topic: pushed_at:2019-09 star:0.0k fork:0.0k All Algorithms implemented in Python
+- [opencollective/pywebview](https://github.com/opencollective/pywebview) topic: pushed_at:2019-09 star:0.0k fork:0.0k Build GUI for your Python program with JavaScript, HTML, and CSS
+- [opencollective/QtScrcpy](https://github.com/opencollective/QtScrcpy) topic: pushed_at:2021-01 star:0.0k fork:0.0k Android real-time display control software
+- [opencollective/radare2](https://github.com/opencollective/radare2) topic: pushed_at:2019-10 star:0.0k fork:0.0k unix-like reverse engineering framework and commandline tools
+- [opencollective/rails_db](https://github.com/opencollective/rails_db) topic: pushed_at:2020-07 star:0.0k fork:0.0k Rails Database Viewer and SQL Query Runner
+- [opencollective/railt](https://github.com/opencollective/railt) topic: pushed_at:2019-09 star:0.0k fork:0.0k ⚡️ A PHP GraphQL Framework
+- [opencollective/raspap-webgui](https://github.com/opencollective/raspap-webgui) topic: pushed_at:2020-02 star:0.0k fork:0.0k Simple AP setup & WiFi management for the Raspberry Pi
+- [opencollective/react-contenteditable](https://github.com/opencollective/react-contenteditable) topic: pushed_at:2016-10 star:0.0k fork:0.0k React component for a div with editable contents
+- [opencollective/react-family](https://github.com/opencollective/react-family) topic: pushed_at:2019-09 star:0.0k fork:0.0k react全家桶框架
+- [opencollective/react-gtk](https://github.com/opencollective/react-gtk) topic: pushed_at:2020-01 star:0.0k fork:0.0k React Native bridge for gtk desktop applications
+- [opencollective/react-hook-form](https://github.com/opencollective/react-hook-form) topic: pushed_at:2020-02 star:0.0k fork:0.0k 📋 React hooks for forms validation without the hassle.
+- [opencollective/react-hooks-axios](https://github.com/opencollective/react-hooks-axios) topic: pushed_at:2019-10 star:0.0k fork:0.0k Custom React Hooks for Axios.js
+- [opencollective/React-Instagram-Clone-2.0](https://github.com/opencollective/React-Instagram-Clone-2.0) topic: pushed_at:2020-01 star:0.0k fork:0.0k A reactive Single-Page Instagram-Clone with some new features!! 💪📸👓
+- [opencollective/react-native-country-picker-modal](https://github.com/opencollective/react-native-country-picker-modal) topic: pushed_at:2019-12 star:0.0k fork:0.0k 🇦🇶 Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
+- [opencollective/react-native-event-listeners](https://github.com/opencollective/react-native-event-listeners) topic: pushed_at:2019-11 star:0.0k fork:0.0k global event listener extension for react or react-native
+- [opencollective/react-native-keyboard-manager](https://github.com/opencollective/react-native-keyboard-manager) topic: pushed_at:2020-04 star:0.0k fork:0.0k ⚛ Library to prevent issues of keyboard sliding up and cover inputs on React-Native iOS projects.
+- [opencollective/react-numpad](https://github.com/opencollective/react-numpad) topic: pushed_at:2019-12 star:0.0k fork:0.0k A numpad for number, date and time, built with and for React.
+- [opencollective/react-ultimate-resume](https://github.com/opencollective/react-ultimate-resume) topic: pushed_at:2020-04 star:0.0k fork:0.0k 💼 🎨 A modern software developer resume built with React and JSONResume
+- [opencollective/Reactive-Resume](https://github.com/opencollective/Reactive-Resume) topic: pushed_at:2020-04 star:0.0k fork:0.0k A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [opencollective/readme-md-generator](https://github.com/opencollective/readme-md-generator) topic: pushed_at:2019-12 star:0.0k fork:0.0k 📄 CLI that generates beautiful README.md files
+- [opencollective/Red-DiscordBot](https://github.com/opencollective/Red-DiscordBot) topic: pushed_at:2019-12 star:0.0k fork:0.0k A multifunction Discord bot
+- [opencollective/regolith-desktop](https://github.com/opencollective/regolith-desktop) topic: pushed_at:2020-02 star:0.0k fork:0.0k Meta package for the Regolith Desktop Environment
+- [opencollective/remark](https://github.com/opencollective/remark) topic: pushed_at:2019-12 star:0.0k fork:0.0k comment engine
+- [opencollective/renovate-config](https://github.com/opencollective/renovate-config) topic: pushed_at:2021-06 star:0.0k fork:0.0k A shareable config preset for Renovate used in Open Collective. 
+- [opencollective/resium](https://github.com/opencollective/resium) topic: pushed_at:2019-11 star:0.0k fork:0.0k React components for 🌏 Cesium
+- [opencollective/RestSharp](https://github.com/opencollective/RestSharp) topic: pushed_at:2020-01 star:0.0k fork:0.0k Simple REST and HTTP API Client for .NET
+- [opencollective/roundSlider](https://github.com/opencollective/roundSlider) topic: pushed_at:2020-05 star:0.0k fork:0.0k roundSlider - A free jQuery plugin
+- [opencollective/rust-ipfs](https://github.com/opencollective/rust-ipfs) topic: pushed_at:2020-05 star:0.0k fork:0.0k The Interplanetary File System (IPFS), implemented in Rust
+- [opencollective/saros](https://github.com/opencollective/saros) topic: pushed_at:2020-02 star:0.0k fork:0.0k Open Source IDE plugin for distributed collaborative software development
+- [opencollective/school-api](https://github.com/opencollective/school-api) topic: pushed_at:2020-05 star:0.0k fork:0.0k 🌱 校园教务系统接口，正方教务系统 SDK for Python
+- [opencollective/score](https://github.com/opencollective/score) topic: pushed_at:2020-02 star:0.0k fork:0.0k ossia score, an interactive sequencer for the intermedia arts.
+- [opencollective/searchstone](https://github.com/opencollective/searchstone) topic: pushed_at:2019-09 star:0.0k fork:0.0k :black_joker: Hearthstone's cards search engine built with algolia instantsearch.
+- [opencollective/seotopper](https://github.com/opencollective/seotopper) topic: pushed_at:2019-09 star:0.0k fork:0.0k Complete SEO generator with all meta-tags including JSON-LD, build your Seo in seconds.
+- [opencollective/serverless-dotenv-plugin](https://github.com/opencollective/serverless-dotenv-plugin) topic: pushed_at:2020-04 star:0.0k fork:0.0k Preload Environment Variables with Dotenv into Serverless
+- [opencollective/service-bus](https://github.com/opencollective/service-bus) topic: pushed_at:2019-09 star:0.0k fork:0.0k PHP Service Bus (publish-subscribe pattern) implementation
+- [opencollective/Shapeshifter-1](https://github.com/opencollective/Shapeshifter-1) topic: pushed_at:2019-10 star:0.0k fork:0.0k A clipboard manager for the 21st century.
+- [opencollective/SheetSQL](https://github.com/opencollective/SheetSQL) topic: pushed_at:2019-11 star:0.0k fork:0.0k SQL engine inside Google Sheet
+- [opencollective/shieldon](https://github.com/opencollective/shieldon) topic: pushed_at:2019-09 star:0.0k fork:0.0k A PHP library that provides anti-scraping and online session control.
+- [opencollective/signale](https://github.com/opencollective/signale) topic: pushed_at:2019-10 star:0.0k fork:0.0k Highly configurable logging utility
+- [opencollective/Silex](https://github.com/opencollective/Silex) topic: pushed_at:2019-12 star:0.0k fork:0.0k Silex is a static website builder in the cloud. 
+- [opencollective/simple-qrcode](https://github.com/opencollective/simple-qrcode) topic: pushed_at:2019-09 star:0.0k fork:0.0k An easy-to-use PHP QrCode generator.
+- [opencollective/simpread](https://github.com/opencollective/simpread) topic: pushed_at:2019-09 star:0.0k fork:0.0k 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
+- [opencollective/sinuous](https://github.com/opencollective/sinuous) topic: pushed_at:2020-02 star:0.0k fork:0.0k Small, fast, reactive UI library
+- [opencollective/software-development-kit](https://github.com/opencollective/software-development-kit) topic: pushed_at:2020-08 star:0.0k fork:0.0k FDA, HIPPA, and HL7 compliant Javascript/Node applications!
+- [opencollective/sourcecred](https://github.com/opencollective/sourcecred) topic: pushed_at:2019-09 star:0.0k fork:0.0k a reputation protocol for open collaboration
+- [opencollective/spruce](https://github.com/opencollective/spruce) topic: pushed_at:2019-09 star:0.0k fork:0.0k A social networking platform made using Node.js and MongoDB
+- [opencollective/spy-debugger](https://github.com/opencollective/spy-debugger) topic: pushed_at:2019-12 star:0.0k fork:0.0k 微信调试，各种WebView样式调试、手机浏览器的页面真机调试。便捷的远程调试手机页面、抓包工具，支持：HTTP/HTTPS，无需USB连接设备。
+- [opencollective/statecraft](https://github.com/opencollective/statecraft) topic: pushed_at:2019-12 star:0.0k fork:0.0k Manage state with finesse
+- [opencollective/stripe](https://github.com/opencollective/stripe) topic: pushed_at:2019-09 star:0.0k fork:0.0k :moneybag: Stripe API
+- [opencollective/sustainer-resources](https://github.com/opencollective/sustainer-resources) topic: pushed_at:2019-03 star:0.0k fork:0.0k Useful resources for Open Source Sustainers
+- [opencollective/swiftui-notes](https://github.com/opencollective/swiftui-notes) topic: pushed_at:2019-09 star:0.0k fork:0.0k A collection of notes, project pieces, playgrounds and ideas on learning and using SwiftUI and Combine
+- [opencollective/synfig](https://github.com/opencollective/synfig) topic: pushed_at:2021-01 star:0.0k fork:0.0k This is the Official source code repository of the Synfig project
+- [opencollective/Tamburetei](https://github.com/opencollective/Tamburetei) topic: pushed_at:2019-12 star:0.0k fork:0.0k Fazendo de tamburete as cadeiras de CC@UFCG.
+- [opencollective/technical-books](https://github.com/opencollective/technical-books) topic: pushed_at:2019-09 star:0.0k fork:0.0k 😆 国内外互联网技术大牛们都写了哪些书籍：计算机基础、网络、前端、后端、数据库、架构、大数据、...
+- [opencollective/Telegram.Bot](https://github.com/opencollective/Telegram.Bot) topic: pushed_at:2020-04 star:0.0k fork:0.0k .NET Client for Telegram Bot API
+- [opencollective/the-practical-linux-hardening-guide](https://github.com/opencollective/the-practical-linux-hardening-guide) topic: pushed_at:2019-12 star:0.0k fork:0.0k This guide details creating a secure Linux production system. OpenSCAP (C2S/CIS, STIG).
+- [opencollective/thecodebarbarian.com](https://github.com/opencollective/thecodebarbarian.com) topic: pushed_at:2020-01 star:0.0k fork:0.0k The www.thecodebarbarian.com website
+- [opencollective/TheGorgeousLogin](https://github.com/opencollective/TheGorgeousLogin) topic: pushed_at:2019-09 star:0.0k fork:0.0k Login page built with @flutter 😍
+- [opencollective/thermal](https://github.com/opencollective/thermal) topic: pushed_at:2019-12 star:0.0k fork:0.0k One stop to manage all git repository
+- [opencollective/tinyfilemanager](https://github.com/opencollective/tinyfilemanager) topic: pushed_at:2020-01 star:0.0k fork:0.0k Web based File Manager in single PHP file, Manage your files efficiently and easily with Tiny File Manager
+- [opencollective/traffic-accounting-nginx-module](https://github.com/opencollective/traffic-accounting-nginx-module) topic: pushed_at:2019-12 star:0.0k fork:0.0k Monitor the incoming and outgoing traffic metrics in realtime for NGINX
+- [opencollective/trousers](https://github.com/opencollective/trousers) topic: pushed_at:2020-04 star:0.0k fork:0.0k hooks-first CSS-in-JS library, focused on semantics and runtime performance
+- [opencollective/tstl](https://github.com/opencollective/tstl) topic: pushed_at:2019-12 star:0.0k fork:0.0k TypeScript-STL (Standard Template Library, migrated from C++)
+- [opencollective/twitter-sentiment-visualisation](https://github.com/opencollective/twitter-sentiment-visualisation) topic: pushed_at:2020-04 star:0.0k fork:0.0k :earth_africa: The R&D of a sentiment analysis module, and the implementation of it on real-time social media data, to generate a series of live visual representations of sentiment towards a specific topic or by location in order to find trends.
+- [opencollective/two.js](https://github.com/opencollective/two.js) topic: pushed_at:2019-11 star:0.0k fork:0.0k A renderer agnostic two-dimensional drawing api for the web.
+- [opencollective/typescript-eslint](https://github.com/opencollective/typescript-eslint) topic: pushed_at:2019-09 star:0.0k fork:0.0k :sparkles: Monorepo for all the tooling which enables ESLint to support TypeScript
+- [opencollective/Unigram](https://github.com/opencollective/Unigram) topic: pushed_at:2020-05 star:0.0k fork:0.0k A Telegram desktop app made for Windows 10
+- [opencollective/uniqid](https://github.com/opencollective/uniqid) topic: pushed_at:2019-12 star:0.0k fork:0.0k Unique ID Generator
+- [opencollective/vale](https://github.com/opencollective/vale) topic: pushed_at:2020-05 star:0.0k fork:0.0k :pencil: A syntax-aware linter for prose built with speed and extensibility in mind.
+- [opencollective/veloren](https://github.com/opencollective/veloren) topic: pushed_at:2019-09 star:0.0k fork:0.0k [Mirror] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World
+- [opencollective/video-to-ascii](https://github.com/opencollective/video-to-ascii) topic: pushed_at:2019-09 star:0.0k fork:0.0k It is a simple python package to play videos in the terminal using characters as pixels
+- [opencollective/VirusTotalApi](https://github.com/opencollective/VirusTotalApi) topic: pushed_at:2020-05 star:0.0k fork:0.0k VirusTotal Full api
+- [opencollective/vm-bhyve](https://github.com/opencollective/vm-bhyve) topic: pushed_at:2020-03 star:0.0k fork:0.0k Shell based, minimal dependency bhyve manager
+- [opencollective/voukoder](https://github.com/opencollective/voukoder) topic: pushed_at:2019-09 star:0.0k fork:0.0k Use FFMpeg encoders directly in Adobe Premiere
+- [opencollective/vs-shell-format](https://github.com/opencollective/vs-shell-format) topic: pushed_at:2020-01 star:0.0k fork:0.0k the shellscript、Dockerfile、properties ...... format extension
+- [opencollective/vscode-leetcode](https://github.com/opencollective/vscode-leetcode) topic: pushed_at:2021-01 star:0.0k fork:0.0k Solve LeetCode problems in VS Code
+- [opencollective/vue-1](https://github.com/opencollective/vue-1) topic: pushed_at:2019-12 star:0.0k fork:0.0k Make Vue greater with RxTS.
+- [opencollective/vue-formulate](https://github.com/opencollective/vue-formulate) topic: pushed_at:2020-04 star:0.0k fork:0.0k The easiest way to build forms using Vue.
+- [opencollective/vue-functional-calendar](https://github.com/opencollective/vue-functional-calendar) topic: pushed_at:2020-08 star:0.0k fork:0.0k VueJS Functional Calendar | Component/Package
+- [opencollective/vue-gl](https://github.com/opencollective/vue-gl) topic: pushed_at:2019-12 star:0.0k fork:0.0k Vue.js components rendering 3D graphics reactively via three.js
+- [opencollective/vue-goodshare](https://github.com/opencollective/vue-goodshare) topic: pushed_at:2020-02 star:0.0k fork:0.0k 🍿 Vue.js component for social share. A simple way to share a link on the pages of your website in the most popular (and not so) social networks. Powered by goodshare.js project.
+- [opencollective/vue-page-stack](https://github.com/opencollective/vue-page-stack) topic: pushed_at:2019-12 star:0.0k fork:0.0k Routing and navigation for your Vue SPA. Vue 单页应用导航管理器
+- [opencollective/vue-stripe-checkout](https://github.com/opencollective/vue-stripe-checkout) topic: pushed_at:2020-04 star:0.0k fork:0.0k A vue plugin for Stripe checkout.
+- [opencollective/vue-tables-2](https://github.com/opencollective/vue-tables-2) topic: pushed_at:2019-12 star:0.0k fork:0.0k Vue.js 2 grid components
+- [opencollective/vueuse](https://github.com/opencollective/vueuse) topic: pushed_at:2020-01 star:0.0k fork:0.0k 🧰 Collection of essential Vue Composition API utils works for Vue 2.x and 3.x
+- [opencollective/walletconnect-monorepo](https://github.com/opencollective/walletconnect-monorepo) topic: pushed_at:2020-04 star:0.0k fork:0.0k WalletConnect Monorepo 
+- [opencollective/webidl2.js](https://github.com/opencollective/webidl2.js) topic: pushed_at:2020-07 star:0.0k fork:0.0k WebIDL parser
+- [opencollective/webpack-merge](https://github.com/opencollective/webpack-merge) topic: pushed_at:2019-10 star:0.0k fork:0.0k Merge designed for Webpack (MIT)
+- [opencollective/WebSiteUseful](https://github.com/opencollective/WebSiteUseful) topic: pushed_at:2019-04 star:0.0k fork:0.0k 🍅翻墙！冲出你的窗口，详细教程请看：https://github.com/loremwalker/fq-book 
+- [opencollective/weg-li](https://github.com/opencollective/weg-li) topic: pushed_at:2020-04 star:0.0k fork:0.0k 📸 📝 ✊ weg-li: 1, 2, 3 - Macht die Bahn frei!
+- [opencollective/WeiXinMPSDK](https://github.com/opencollective/WeiXinMPSDK) topic: pushed_at:2020-07 star:0.0k fork:0.0k 微信公众平台SDK Senparc.Weixin for C#，支持.NET Framework及.NET Core。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.
+- [opencollective/wemake-python-styleguide](https://github.com/opencollective/wemake-python-styleguide) topic: pushed_at:2019-09 star:0.0k fork:0.0k The strictest and most opinionated python linter ever!
+- [opencollective/wenyan-lang-vscode](https://github.com/opencollective/wenyan-lang-vscode) topic: pushed_at:2020-01 star:0.0k fork:0.0k 文言 Wenyan Lang for VSCode
+- [opencollective/WindowsFirewallHelper](https://github.com/opencollective/WindowsFirewallHelper) topic: pushed_at:2020-05 star:0.0k fork:0.0k A class library to manage the Windows Firewall as well as adding your program to the Windows Firewall Exception list.
+- [opencollective/wolff](https://github.com/opencollective/wolff) topic: pushed_at:2020-03 star:0.0k fork:0.0k 🐺 Ridiculously small PHP framework for building web apps
+- [opencollective/wp-graphql-woocommerce](https://github.com/opencollective/wp-graphql-woocommerce) topic: pushed_at:2020-04 star:0.0k fork:0.0k Add WooCommerce support and functionality to your WPGraphQL server
+- [opencollective/wx-promise-pro](https://github.com/opencollective/wx-promise-pro) topic: pushed_at:2019-12 star:0.0k fork:0.0k :sparkles:强大、优雅的小程序异步库:rocket: 小程序promise
+- [opencollective/XFLegoVIPER](https://github.com/opencollective/XFLegoVIPER) topic: pushed_at:2020-01 star:0.0k fork:0.0k 🚀  A seamless framework for build app from MVC, MVVM, VIPER (etc.) design pattern in iOS world. (OC & Swift)
+- [opencollective/xray-oxygen](https://github.com/opencollective/xray-oxygen) topic: pushed_at:2020-08 star:0.0k fork:0.0k :cyclone: Oxygen Engine 2.0. [Preview] Discord: https://discord.gg/P3aMf66
+- [opencollective/yarte](https://github.com/opencollective/yarte) topic: pushed_at:2020-01 star:0.0k fork:0.0k Yarte stands for Yet Another Rust Template Engine, is the fastest template engine
+- [opencollective/yew](https://github.com/opencollective/yew) topic: pushed_at:2020-01 star:0.0k fork:0.0k Rust / Wasm framework for building client web apps
+- [opencollective/Yin-Yang](https://github.com/opencollective/Yin-Yang) topic: pushed_at:2019-09 star:0.0k fork:0.0k Auto Nightmode for KDE, Gnome, Budige, VSCode, Atom and more
+- [opencollective/YoutubeExplode](https://github.com/opencollective/YoutubeExplode) topic: pushed_at:2019-09 star:0.0k fork:0.0k The ultimate dirty YouTube library
+- [opencollective/zarm](https://github.com/opencollective/zarm) topic: pushed_at:2019-10 star:0.0k fork:0.0k 基于React、React-Native 的移动端UI组件库
+- [opencollective/zjuthesis](https://github.com/opencollective/zjuthesis) topic: pushed_at:2019-09 star:0.0k fork:0.0k Zhejiang University Graduation Thesis/Design LaTeX template.
+- [opencollective/zplugin](https://github.com/opencollective/zplugin) topic: pushed_at:2019-09 star:0.0k fork:0.0k Flexible Zsh plugin manager with clean fpath, reports, completion management, turbo mode, services
+- [opencollective/zws](https://github.com/opencollective/zws) topic: pushed_at:2020-01 star:0.0k fork:0.0k Shorten URLs using invisible spaces.
 
 ## PHP
 
-- [opencollective/agent](https://github.com/opencollective/agent) pushed_at:2019-07 star:0.0k fork:0.0k 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
-- [opencollective/apiato](https://github.com/opencollective/apiato) pushed_at:2017-11 star:0.0k fork:0.0k A flawless framework for building scalable and testable API-Centric Apps with PHP 7 and Laravel 5.5
-- [opencollective/awes-io](https://github.com/opencollective/awes-io) pushed_at:2019-07 star:0.0k fork:0.0k 🚀Boilerplate based on #Laravel and #Vue.js. Free Laravel Nova and Spark alternative.
-- [opencollective/bagisto](https://github.com/opencollective/bagisto) pushed_at:2019-01 star:0.0k fork:0.0k An eCommerce Framework built on laravel for All to build and scale your business.
-- [opencollective/blade-1](https://github.com/opencollective/blade-1) pushed_at:2019-06 star:0.0k fork:0.0k 🔪 A standalone version of Laravel's Blade templating engine for use outside of Laravel.
-- [opencollective/cms](https://github.com/opencollective/cms) pushed_at:2019-10 star:0.0k fork:0.0k Multilingual PHP CMS built with Laravel  and bootstrap
-- [opencollective/cockpit](https://github.com/opencollective/cockpit) pushed_at:2017-08 star:0.0k fork:0.0k Add content management functionality to any site - plug & play / headless / api-first CMS
-- [opencollective/command](https://github.com/opencollective/command) pushed_at:2017-09 star:0.0k fork:0.0k A library to build command line applications using PHP
-- [opencollective/croogo](https://github.com/opencollective/croogo) pushed_at:2018-02 star:0.0k fork:0.0k A CakePHP powered Content Management System
-- [opencollective/date](https://github.com/opencollective/date) pushed_at:2019-07 star:0.0k fork:0.0k 🗓 A library to help you work with dates in multiple languages, based on Carbon.
-- [opencollective/devshop](https://github.com/opencollective/devshop) pushed_at:2019-03 star:0.0k fork:0.0k Drupal Cloud Hosting & Testing Platform
-- [opencollective/farmOS](https://github.com/opencollective/farmOS) pushed_at:2019-02 star:0.0k fork:0.0k farmOS: A web-based farm record keeping application.
-- [opencollective/firefly-iii](https://github.com/opencollective/firefly-iii) pushed_at:2019-01 star:0.0k fork:0.0k Firefly III: a personal finances manager
-- [opencollective/flarum](https://github.com/opencollective/flarum) pushed_at:2018-05 star:0.0k fork:0.0k Delightfully simple forum software.
-- [opencollective/flextype](https://github.com/opencollective/flextype) pushed_at:2019-03 star:0.0k fork:0.0k Build fast, flexible, easier to manage websites with Flextype.
-- [opencollective/flyimg](https://github.com/opencollective/flyimg) pushed_at:2017-06 star:0.0k fork:0.0k Dockerized PHP application runs as a Microservice to resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick. Includes face detection, cropping, face blurring, image rotation and many other options. Abstract storage based on FlySystem in order to store images on any provider (local, AWS S3...).
-- [opencollective/form-builder](https://github.com/opencollective/form-builder) pushed_at:2019-04 star:0.0k fork:0.0k PHP表单生成器，快速生成现代化的form表单。包含复选框、单选框、输入框、下拉选择框等元素以及,省市区三级联动,时间选择,日期选择,颜色选择,文件/图片上传等功能。
-- [opencollective/imagehash](https://github.com/opencollective/imagehash) pushed_at:2019-07 star:0.0k fork:0.0k 🌄 Perceptual image hashing for PHP
-- [opencollective/known](https://github.com/opencollective/known) pushed_at:2019-01 star:0.0k fork:0.0k A social publishing platform.
-- [opencollective/laravel-mongodb](https://github.com/opencollective/laravel-mongodb) pushed_at:2019-07 star:0.0k fork:0.0k A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
-- [opencollective/laravel-scout-tntsearch-driver](https://github.com/opencollective/laravel-scout-tntsearch-driver) pushed_at:2017-08 star:0.0k fork:0.0k Driver for Laravel Scout search package based on https://github.com/teamtnt/tntsearch
-- [opencollective/laravel-zero](https://github.com/opencollective/laravel-zero) pushed_at:2018-12 star:0.0k fork:0.0k A PHP framework for console artisans
-- [opencollective/lsky-pro](https://github.com/opencollective/lsky-pro) pushed_at:2019-04 star:0.0k fork:0.0k ☁️Lsky Pro, Your photo album on the cloud. 
-- [opencollective/onepager](https://github.com/opencollective/onepager) pushed_at:2017-05 star:0.0k fork:0.0k Onepage Theme/Website Builder for WordPress and Joomla
-- [opencollective/openemr](https://github.com/opencollective/openemr) pushed_at:2017-11 star:0.0k fork:0.0k OpenEMR is the most popular open source electronic health records and medical practice management solution. ONC certified with international usage, OpenEMR's goal is a superior alternative to its proprietary counterparts.
-- [opencollective/optimus-1](https://github.com/opencollective/optimus-1) pushed_at:2019-07 star:0.0k fork:0.0k 🤖 Id obfuscation based on Knuth's multiplicative hashing method for PHP.
-- [opencollective/orm](https://github.com/opencollective/orm) pushed_at:2017-07 star:0.0k fork:0.0k Lightweight and high-performance ORM with clean object design
-- [opencollective/Panel](https://github.com/opencollective/Panel) pushed_at:2017-11 star:0.0k fork:0.0k Pterodactyl Panel is the free, open-source, game agnostic, self-hosted control panel for users, networks, and game service providers. Pterodactyl supports games and servers such as Minecraft (including Spigot, Bungeecord, and Sponge), ARK: Evolution Evolved, CS:GO, Team Fortress 2, Insurgency, Teamspeak 3, Mumble, and many more. Control all of your games from one unified interface.
-- [opencollective/rector](https://github.com/opencollective/rector) pushed_at:2019-07 star:0.0k fork:0.0k Instant Upgrades and Instant Refactoring of any PHP 5.3+ code
-- [opencollective/SMProxy](https://github.com/opencollective/SMProxy) pushed_at:2019-01 star:0.0k fork:0.0k Swoole MySQL Proxy 一个基于 MySQL 协议，Swoole 开发的MySQL数据库连接池。 A MySQL database connection pool based on MySQL protocol and Swoole.
-- [opencollective/SuiteCRM](https://github.com/opencollective/SuiteCRM) pushed_at:2019-07 star:0.0k fork:0.0k SuiteCRM - Open source CRM for the world
-- [opencollective/sysPass](https://github.com/opencollective/sysPass) pushed_at:2022-06 star:0.0k fork:0.0k Systems Password Manager
-- [opencollective/TastyIgniter](https://github.com/opencollective/TastyIgniter) pushed_at:2019-02 star:0.0k fork:0.0k :fire: Powerful, yet easy to use, open source online food ordering, table reservation and restaurant management system
-- [opencollective/wallabag](https://github.com/opencollective/wallabag) pushed_at:2017-11 star:0.0k fork:0.0k wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
-- [opencollective/WikiToLearn](https://github.com/opencollective/WikiToLearn) pushed_at:2017-06 star:0.0k fork:0.0k WikiToLearn main codebase
-- [opencollective/WordPress-Plugin-Boilerplate-Powered](https://github.com/opencollective/WordPress-Plugin-Boilerplate-Powered) pushed_at:2017-09 star:0.0k fork:0.0k Wordpress Plugin Boilerplate with steroids!
-- [opencollective/x-prober](https://github.com/opencollective/x-prober) pushed_at:2018-12 star:0.0k fork:0.0k 🐘 A PHP prober (一款精美的 PHP 探針, 又名X探針、劉海探針)
-- [opencollective/XoopsCore](https://github.com/opencollective/XoopsCore) pushed_at:2017-05 star:0.0k fork:0.0k Core Framework for next version of XOOPS CMS: 2.6.0
-- [opencollective/YetiForceCRM](https://github.com/opencollective/YetiForceCRM) pushed_at:2018-12 star:0.0k fork:0.0k Our team created for you one of the most innovative CRM systems that supports mainly business processes and allows for customization according to your needs. Be ahead of your competition and implement YetiForce!
-- [opencollective/yii2](https://github.com/opencollective/yii2) pushed_at:2019-03 star:0.0k fork:0.0k Yii 2: The Fast, Secure and Professional PHP Framework
-- [opencollective/yii2-export](https://github.com/opencollective/yii2-export) pushed_at:2019-09 star:0.0k fork:0.0k A library to export server/db data in various formats (e.g. excel, html, pdf, csv etc.)
-- [opencollective/yii2-grid](https://github.com/opencollective/yii2-grid) pushed_at:2019-09 star:0.0k fork:0.0k Enhanced GridView with various utilities for Yii Framework 2.0
-- [opencollective/yii2-tree-manager](https://github.com/opencollective/yii2-tree-manager) pushed_at:2019-09 star:0.0k fork:0.0k An advanced tree management module using nested sets for Yii 2.
-- [opencollective/yii2-widget-fileinput](https://github.com/opencollective/yii2-widget-fileinput) pushed_at:2019-09 star:0.0k fork:0.0k An enhanced FileInput widget for Bootstrap 3.x with file preview, multiple selection, and more features (sub repo split from yii2-widgets)
-- [opencollective/yii2-widgets](https://github.com/opencollective/yii2-widgets) pushed_at:2019-09 star:0.0k fork:0.0k Collection of useful widgets for Yii Framework 2.0
+- [opencollective/agent](https://github.com/opencollective/agent) topic: pushed_at:2019-07 star:0.0k fork:0.0k 👮 A PHP desktop/mobile user agent parser with support for Laravel, based on Mobiledetect
+- [opencollective/apiato](https://github.com/opencollective/apiato) topic: pushed_at:2017-11 star:0.0k fork:0.0k A flawless framework for building scalable and testable API-Centric Apps with PHP 7 and Laravel 5.5
+- [opencollective/awes-io](https://github.com/opencollective/awes-io) topic: pushed_at:2019-07 star:0.0k fork:0.0k 🚀Boilerplate based on #Laravel and #Vue.js. Free Laravel Nova and Spark alternative.
+- [opencollective/bagisto](https://github.com/opencollective/bagisto) topic: pushed_at:2019-01 star:0.0k fork:0.0k An eCommerce Framework built on laravel for All to build and scale your business.
+- [opencollective/blade-1](https://github.com/opencollective/blade-1) topic: pushed_at:2019-06 star:0.0k fork:0.0k 🔪 A standalone version of Laravel's Blade templating engine for use outside of Laravel.
+- [opencollective/cms](https://github.com/opencollective/cms) topic: pushed_at:2019-10 star:0.0k fork:0.0k Multilingual PHP CMS built with Laravel  and bootstrap
+- [opencollective/cockpit](https://github.com/opencollective/cockpit) topic: pushed_at:2017-08 star:0.0k fork:0.0k Add content management functionality to any site - plug & play / headless / api-first CMS
+- [opencollective/command](https://github.com/opencollective/command) topic: pushed_at:2017-09 star:0.0k fork:0.0k A library to build command line applications using PHP
+- [opencollective/croogo](https://github.com/opencollective/croogo) topic: pushed_at:2018-02 star:0.0k fork:0.0k A CakePHP powered Content Management System
+- [opencollective/date](https://github.com/opencollective/date) topic: pushed_at:2019-07 star:0.0k fork:0.0k 🗓 A library to help you work with dates in multiple languages, based on Carbon.
+- [opencollective/devshop](https://github.com/opencollective/devshop) topic: pushed_at:2019-03 star:0.0k fork:0.0k Drupal Cloud Hosting & Testing Platform
+- [opencollective/farmOS](https://github.com/opencollective/farmOS) topic: pushed_at:2019-02 star:0.0k fork:0.0k farmOS: A web-based farm record keeping application.
+- [opencollective/firefly-iii](https://github.com/opencollective/firefly-iii) topic: pushed_at:2019-01 star:0.0k fork:0.0k Firefly III: a personal finances manager
+- [opencollective/flarum](https://github.com/opencollective/flarum) topic: pushed_at:2018-05 star:0.0k fork:0.0k Delightfully simple forum software.
+- [opencollective/flextype](https://github.com/opencollective/flextype) topic: pushed_at:2019-03 star:0.0k fork:0.0k Build fast, flexible, easier to manage websites with Flextype.
+- [opencollective/flyimg](https://github.com/opencollective/flyimg) topic: pushed_at:2017-06 star:0.0k fork:0.0k Dockerized PHP application runs as a Microservice to resize and crop images on the fly. Get optimised images with MozJPEG, WebP or PNG using ImageMagick. Includes face detection, cropping, face blurring, image rotation and many other options. Abstract storage based on FlySystem in order to store images on any provider (local, AWS S3...).
+- [opencollective/form-builder](https://github.com/opencollective/form-builder) topic: pushed_at:2019-04 star:0.0k fork:0.0k PHP表单生成器，快速生成现代化的form表单。包含复选框、单选框、输入框、下拉选择框等元素以及,省市区三级联动,时间选择,日期选择,颜色选择,文件/图片上传等功能。
+- [opencollective/imagehash](https://github.com/opencollective/imagehash) topic: pushed_at:2019-07 star:0.0k fork:0.0k 🌄 Perceptual image hashing for PHP
+- [opencollective/known](https://github.com/opencollective/known) topic: pushed_at:2019-01 star:0.0k fork:0.0k A social publishing platform.
+- [opencollective/laravel-mongodb](https://github.com/opencollective/laravel-mongodb) topic: pushed_at:2019-07 star:0.0k fork:0.0k A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)
+- [opencollective/laravel-scout-tntsearch-driver](https://github.com/opencollective/laravel-scout-tntsearch-driver) topic: pushed_at:2017-08 star:0.0k fork:0.0k Driver for Laravel Scout search package based on https://github.com/teamtnt/tntsearch
+- [opencollective/laravel-zero](https://github.com/opencollective/laravel-zero) topic: pushed_at:2018-12 star:0.0k fork:0.0k A PHP framework for console artisans
+- [opencollective/lsky-pro](https://github.com/opencollective/lsky-pro) topic: pushed_at:2019-04 star:0.0k fork:0.0k ☁️Lsky Pro, Your photo album on the cloud. 
+- [opencollective/onepager](https://github.com/opencollective/onepager) topic: pushed_at:2017-05 star:0.0k fork:0.0k Onepage Theme/Website Builder for WordPress and Joomla
+- [opencollective/openemr](https://github.com/opencollective/openemr) topic: pushed_at:2017-11 star:0.0k fork:0.0k OpenEMR is the most popular open source electronic health records and medical practice management solution. ONC certified with international usage, OpenEMR's goal is a superior alternative to its proprietary counterparts.
+- [opencollective/optimus-1](https://github.com/opencollective/optimus-1) topic: pushed_at:2019-07 star:0.0k fork:0.0k 🤖 Id obfuscation based on Knuth's multiplicative hashing method for PHP.
+- [opencollective/orm](https://github.com/opencollective/orm) topic: pushed_at:2017-07 star:0.0k fork:0.0k Lightweight and high-performance ORM with clean object design
+- [opencollective/Panel](https://github.com/opencollective/Panel) topic: pushed_at:2017-11 star:0.0k fork:0.0k Pterodactyl Panel is the free, open-source, game agnostic, self-hosted control panel for users, networks, and game service providers. Pterodactyl supports games and servers such as Minecraft (including Spigot, Bungeecord, and Sponge), ARK: Evolution Evolved, CS:GO, Team Fortress 2, Insurgency, Teamspeak 3, Mumble, and many more. Control all of your games from one unified interface.
+- [opencollective/rector](https://github.com/opencollective/rector) topic: pushed_at:2019-07 star:0.0k fork:0.0k Instant Upgrades and Instant Refactoring of any PHP 5.3+ code
+- [opencollective/SMProxy](https://github.com/opencollective/SMProxy) topic: pushed_at:2019-01 star:0.0k fork:0.0k Swoole MySQL Proxy 一个基于 MySQL 协议，Swoole 开发的MySQL数据库连接池。 A MySQL database connection pool based on MySQL protocol and Swoole.
+- [opencollective/SuiteCRM](https://github.com/opencollective/SuiteCRM) topic: pushed_at:2019-07 star:0.0k fork:0.0k SuiteCRM - Open source CRM for the world
+- [opencollective/sysPass](https://github.com/opencollective/sysPass) topic: pushed_at:2022-06 star:0.0k fork:0.0k Systems Password Manager
+- [opencollective/TastyIgniter](https://github.com/opencollective/TastyIgniter) topic: pushed_at:2019-02 star:0.0k fork:0.0k :fire: Powerful, yet easy to use, open source online food ordering, table reservation and restaurant management system
+- [opencollective/wallabag](https://github.com/opencollective/wallabag) topic: pushed_at:2017-11 star:0.0k fork:0.0k wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
+- [opencollective/WikiToLearn](https://github.com/opencollective/WikiToLearn) topic: pushed_at:2017-06 star:0.0k fork:0.0k WikiToLearn main codebase
+- [opencollective/WordPress-Plugin-Boilerplate-Powered](https://github.com/opencollective/WordPress-Plugin-Boilerplate-Powered) topic: pushed_at:2017-09 star:0.0k fork:0.0k Wordpress Plugin Boilerplate with steroids!
+- [opencollective/x-prober](https://github.com/opencollective/x-prober) topic: pushed_at:2018-12 star:0.0k fork:0.0k 🐘 A PHP prober (一款精美的 PHP 探針, 又名X探針、劉海探針)
+- [opencollective/XoopsCore](https://github.com/opencollective/XoopsCore) topic: pushed_at:2017-05 star:0.0k fork:0.0k Core Framework for next version of XOOPS CMS: 2.6.0
+- [opencollective/YetiForceCRM](https://github.com/opencollective/YetiForceCRM) topic: pushed_at:2018-12 star:0.0k fork:0.0k Our team created for you one of the most innovative CRM systems that supports mainly business processes and allows for customization according to your needs. Be ahead of your competition and implement YetiForce!
+- [opencollective/yii2](https://github.com/opencollective/yii2) topic: pushed_at:2019-03 star:0.0k fork:0.0k Yii 2: The Fast, Secure and Professional PHP Framework
+- [opencollective/yii2-export](https://github.com/opencollective/yii2-export) topic: pushed_at:2019-09 star:0.0k fork:0.0k A library to export server/db data in various formats (e.g. excel, html, pdf, csv etc.)
+- [opencollective/yii2-grid](https://github.com/opencollective/yii2-grid) topic: pushed_at:2019-09 star:0.0k fork:0.0k Enhanced GridView with various utilities for Yii Framework 2.0
+- [opencollective/yii2-tree-manager](https://github.com/opencollective/yii2-tree-manager) topic: pushed_at:2019-09 star:0.0k fork:0.0k An advanced tree management module using nested sets for Yii 2.
+- [opencollective/yii2-widget-fileinput](https://github.com/opencollective/yii2-widget-fileinput) topic: pushed_at:2019-09 star:0.0k fork:0.0k An enhanced FileInput widget for Bootstrap 3.x with file preview, multiple selection, and more features (sub repo split from yii2-widgets)
+- [opencollective/yii2-widgets](https://github.com/opencollective/yii2-widgets) topic: pushed_at:2019-09 star:0.0k fork:0.0k Collection of useful widgets for Yii Framework 2.0
 
 ## Pascal
 
-- [opencollective/HeidiSQL](https://github.com/opencollective/HeidiSQL) pushed_at:2019-07 star:0.0k fork:0.0k A lightweight client for managing MariaDB, MySQL, SQL Server and PostgreSQL, written in Delphi
+- [opencollective/HeidiSQL](https://github.com/opencollective/HeidiSQL) topic: pushed_at:2019-07 star:0.0k fork:0.0k A lightweight client for managing MariaDB, MySQL, SQL Server and PostgreSQL, written in Delphi
 
 ## Python
 
-- [opencollective/activitywatch](https://github.com/opencollective/activitywatch) pushed_at:2017-12 star:0.0k fork:0.0k Log what you do on your computer. Simple (yet powerful), extensible, no third parties.
-- [opencollective/aiogram](https://github.com/opencollective/aiogram) pushed_at:2019-07 star:0.0k fork:0.0k Is a pretty simple and fully asynchronous library for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
-- [opencollective/anfora](https://github.com/opencollective/anfora) pushed_at:2019-03 star:0.0k fork:0.0k 🏺 Self-hosted photo gallery social network. Under development
-- [opencollective/autokeras](https://github.com/opencollective/autokeras) pushed_at:2018-12 star:0.0k fork:0.0k accessible AutoML for deep learning.
-- [opencollective/awesome-python](https://github.com/opencollective/awesome-python) pushed_at:2019-07 star:0.0k fork:0.0k A curated list of awesome Python frameworks, libraries, software and resources
-- [opencollective/chinese-poetry](https://github.com/opencollective/chinese-poetry) pushed_at:2019-01 star:0.0k fork:0.0k 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。  
-- [opencollective/comicbook](https://github.com/opencollective/comicbook) pushed_at:2019-07 star:0.0k fork:0.0k  epub comic generator | nhentai.net | e-hentai.org | wnacg.org
-- [opencollective/django-activity-stream](https://github.com/opencollective/django-activity-stream) pushed_at:2018-10 star:0.0k fork:0.0k Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
-- [opencollective/django-maintenance-mode](https://github.com/opencollective/django-maintenance-mode) pushed_at:2019-07 star:0.0k fork:0.0k django-maintenance-mode shows a 503 error page when maintenance mode is on.
-- [opencollective/doit](https://github.com/opencollective/doit) pushed_at:2017-09 star:0.0k fork:0.0k task management & automation tool
-- [opencollective/Dragonfire](https://github.com/opencollective/Dragonfire) pushed_at:2018-06 star:0.0k fork:0.0k an open-source virtual assistant for Ubuntu based Linux distributions
-- [opencollective/electrum-btcp](https://github.com/opencollective/electrum-btcp) pushed_at:2018-06 star:0.0k fork:0.0k BTCP Electrum (Lite Wallet), Use all wallets with caution. You should never share private keys, seed, or wallet file with anyone.
-- [opencollective/Exploit-Framework](https://github.com/opencollective/Exploit-Framework) pushed_at:2019-04 star:0.0k fork:0.0k :fire: An Exploit framework for Web Vulnerabilities written in Python
-- [opencollective/finta](https://github.com/opencollective/finta) pushed_at:2019-07 star:0.0k fork:0.0k Common financial technical indicators implemented in Pandas.
-- [opencollective/gooderp_addons](https://github.com/opencollective/gooderp_addons) pushed_at:2017-12 star:0.0k fork:0.0k 可能是中国用户数最多的开源ERP
-- [opencollective/Kiwi](https://github.com/opencollective/Kiwi) pushed_at:2019-01 star:0.0k fork:0.0k Open source full-featured test case management system
-- [opencollective/kodi-alexa](https://github.com/opencollective/kodi-alexa) pushed_at:2017-10 star:0.0k fork:0.0k Alexa skill for controlling Kodi
-- [opencollective/localstack](https://github.com/opencollective/localstack) pushed_at:2017-07 star:0.0k fork:0.0k 💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
-- [opencollective/nox](https://github.com/opencollective/nox) pushed_at:2019-07 star:0.0k fork:0.0k Flexible test automation for Python
-- [opencollective/OWASP-Nettacker](https://github.com/opencollective/OWASP-Nettacker) pushed_at:2018-10 star:0.0k fork:0.0k Automated Penetration Testing Framework
-- [opencollective/pokeapi](https://github.com/opencollective/pokeapi) pushed_at:2017-06 star:0.0k fork:0.0k The Pokémon API.
-- [opencollective/python-sortedcontainers](https://github.com/opencollective/python-sortedcontainers) pushed_at:2018-12 star:0.0k fork:0.0k Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
-- [opencollective/QUANTAXIS](https://github.com/opencollective/QUANTAXIS) pushed_at:2019-04 star:0.0k fork:0.0k QUANTAXIS 股票/期货/自定义市场 数据/回测/模拟/交易/可视化 纯本地一站式解决方案
-- [opencollective/searx](https://github.com/opencollective/searx) pushed_at:2017-08 star:0.0k fork:0.0k Privacy-respecting metasearch engine
-- [opencollective/sopel](https://github.com/opencollective/sopel) pushed_at:2018-05 star:0.0k fork:0.0k Formerly Willie. An easy-to-use and highly extensible IRC Bot framework
-- [opencollective/spyder](https://github.com/opencollective/spyder) pushed_at:2017-12 star:0.0k fork:0.0k Official repository for Spyder - The Scientific PYthon Development EnviRonment
-- [opencollective/streamlink](https://github.com/opencollective/streamlink) pushed_at:2017-07 star:0.0k fork:0.0k CLI for extracting streams from various websites to a video player of your choosing
-- [opencollective/super-inspire-end](https://github.com/opencollective/super-inspire-end) pushed_at:2019-02 star:0.0k fork:0.0k Get a clean, out of the box, temporary Linux system in under 30s.(Ubuntu, Centos, Alpine are temporarily available for testing, and more will be provided later.)
-- [opencollective/torchgan](https://github.com/opencollective/torchgan) pushed_at:2019-07 star:0.0k fork:0.0k Research Framework for easy and efficient training of GANs based on Pytorch
-- [opencollective/tqdm](https://github.com/opencollective/tqdm) pushed_at:2017-10 star:0.0k fork:0.0k A fast, extensible progress bar for Python and CLI
-- [opencollective/Webshell-Sniper](https://github.com/opencollective/Webshell-Sniper) pushed_at:2019-04 star:0.0k fork:0.0k :hammer: Manage your website via terminal
-- [opencollective/wukong-robot](https://github.com/opencollective/wukong-robot) pushed_at:2019-03 star:0.0k fork:0.0k 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目。
+- [opencollective/activitywatch](https://github.com/opencollective/activitywatch) topic: pushed_at:2017-12 star:0.0k fork:0.0k Log what you do on your computer. Simple (yet powerful), extensible, no third parties.
+- [opencollective/aiogram](https://github.com/opencollective/aiogram) topic: pushed_at:2019-07 star:0.0k fork:0.0k Is a pretty simple and fully asynchronous library for Telegram Bot API written in Python 3.7 with asyncio and aiohttp.
+- [opencollective/anfora](https://github.com/opencollective/anfora) topic: pushed_at:2019-03 star:0.0k fork:0.0k 🏺 Self-hosted photo gallery social network. Under development
+- [opencollective/autokeras](https://github.com/opencollective/autokeras) topic: pushed_at:2018-12 star:0.0k fork:0.0k accessible AutoML for deep learning.
+- [opencollective/awesome-python](https://github.com/opencollective/awesome-python) topic: pushed_at:2019-07 star:0.0k fork:0.0k A curated list of awesome Python frameworks, libraries, software and resources
+- [opencollective/chinese-poetry](https://github.com/opencollective/chinese-poetry) topic: pushed_at:2019-01 star:0.0k fork:0.0k 最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。  
+- [opencollective/comicbook](https://github.com/opencollective/comicbook) topic: pushed_at:2019-07 star:0.0k fork:0.0k  epub comic generator | nhentai.net | e-hentai.org | wnacg.org
+- [opencollective/django-activity-stream](https://github.com/opencollective/django-activity-stream) topic: pushed_at:2018-10 star:0.0k fork:0.0k Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
+- [opencollective/django-maintenance-mode](https://github.com/opencollective/django-maintenance-mode) topic: pushed_at:2019-07 star:0.0k fork:0.0k django-maintenance-mode shows a 503 error page when maintenance mode is on.
+- [opencollective/doit](https://github.com/opencollective/doit) topic: pushed_at:2017-09 star:0.0k fork:0.0k task management & automation tool
+- [opencollective/Dragonfire](https://github.com/opencollective/Dragonfire) topic: pushed_at:2018-06 star:0.0k fork:0.0k an open-source virtual assistant for Ubuntu based Linux distributions
+- [opencollective/electrum-btcp](https://github.com/opencollective/electrum-btcp) topic: pushed_at:2018-06 star:0.0k fork:0.0k BTCP Electrum (Lite Wallet), Use all wallets with caution. You should never share private keys, seed, or wallet file with anyone.
+- [opencollective/Exploit-Framework](https://github.com/opencollective/Exploit-Framework) topic: pushed_at:2019-04 star:0.0k fork:0.0k :fire: An Exploit framework for Web Vulnerabilities written in Python
+- [opencollective/finta](https://github.com/opencollective/finta) topic: pushed_at:2019-07 star:0.0k fork:0.0k Common financial technical indicators implemented in Pandas.
+- [opencollective/gooderp_addons](https://github.com/opencollective/gooderp_addons) topic: pushed_at:2017-12 star:0.0k fork:0.0k 可能是中国用户数最多的开源ERP
+- [opencollective/Kiwi](https://github.com/opencollective/Kiwi) topic: pushed_at:2019-01 star:0.0k fork:0.0k Open source full-featured test case management system
+- [opencollective/kodi-alexa](https://github.com/opencollective/kodi-alexa) topic: pushed_at:2017-10 star:0.0k fork:0.0k Alexa skill for controlling Kodi
+- [opencollective/localstack](https://github.com/opencollective/localstack) topic: pushed_at:2017-07 star:0.0k fork:0.0k 💻  A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
+- [opencollective/nox](https://github.com/opencollective/nox) topic: pushed_at:2019-07 star:0.0k fork:0.0k Flexible test automation for Python
+- [opencollective/OWASP-Nettacker](https://github.com/opencollective/OWASP-Nettacker) topic: pushed_at:2018-10 star:0.0k fork:0.0k Automated Penetration Testing Framework
+- [opencollective/pokeapi](https://github.com/opencollective/pokeapi) topic: pushed_at:2017-06 star:0.0k fork:0.0k The Pokémon API.
+- [opencollective/python-sortedcontainers](https://github.com/opencollective/python-sortedcontainers) topic: pushed_at:2018-12 star:0.0k fork:0.0k Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
+- [opencollective/QUANTAXIS](https://github.com/opencollective/QUANTAXIS) topic: pushed_at:2019-04 star:0.0k fork:0.0k QUANTAXIS 股票/期货/自定义市场 数据/回测/模拟/交易/可视化 纯本地一站式解决方案
+- [opencollective/searx](https://github.com/opencollective/searx) topic: pushed_at:2017-08 star:0.0k fork:0.0k Privacy-respecting metasearch engine
+- [opencollective/sopel](https://github.com/opencollective/sopel) topic: pushed_at:2018-05 star:0.0k fork:0.0k Formerly Willie. An easy-to-use and highly extensible IRC Bot framework
+- [opencollective/spyder](https://github.com/opencollective/spyder) topic: pushed_at:2017-12 star:0.0k fork:0.0k Official repository for Spyder - The Scientific PYthon Development EnviRonment
+- [opencollective/streamlink](https://github.com/opencollective/streamlink) topic: pushed_at:2017-07 star:0.0k fork:0.0k CLI for extracting streams from various websites to a video player of your choosing
+- [opencollective/super-inspire-end](https://github.com/opencollective/super-inspire-end) topic: pushed_at:2019-02 star:0.0k fork:0.0k Get a clean, out of the box, temporary Linux system in under 30s.(Ubuntu, Centos, Alpine are temporarily available for testing, and more will be provided later.)
+- [opencollective/torchgan](https://github.com/opencollective/torchgan) topic: pushed_at:2019-07 star:0.0k fork:0.0k Research Framework for easy and efficient training of GANs based on Pytorch
+- [opencollective/tqdm](https://github.com/opencollective/tqdm) topic: pushed_at:2017-10 star:0.0k fork:0.0k A fast, extensible progress bar for Python and CLI
+- [opencollective/Webshell-Sniper](https://github.com/opencollective/Webshell-Sniper) topic: pushed_at:2019-04 star:0.0k fork:0.0k :hammer: Manage your website via terminal
+- [opencollective/wukong-robot](https://github.com/opencollective/wukong-robot) topic: pushed_at:2019-03 star:0.0k fork:0.0k 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目。
 
 ## R
 
-- [opencollective/ggtree](https://github.com/opencollective/ggtree) pushed_at:2017-07 star:0.0k fork:0.0k :christmas_tree:Visualization and annotation of phylogenetic trees
+- [opencollective/ggtree](https://github.com/opencollective/ggtree) topic: pushed_at:2017-07 star:0.0k fork:0.0k :christmas_tree:Visualization and annotation of phylogenetic trees
 
 ## Ruby
 
-- [opencollective/activeadmin](https://github.com/opencollective/activeadmin) pushed_at:2018-12 star:0.0k fork:0.0k The administration framework for Ruby on Rails applications.
-- [opencollective/anonydog](https://github.com/opencollective/anonydog) pushed_at:2017-11 star:0.0k fork:0.0k On the internet, nobody knows you're a dog
-- [opencollective/deep-cover](https://github.com/opencollective/deep-cover) pushed_at:2018-12 star:0.0k fork:0.0k The best coverage tool for Ruby code
-- [opencollective/feedi](https://github.com/opencollective/feedi) pushed_at:2019-12 star:0.0k fork:0.0k This service allows you to transform RSS feed into an awesome API. 
-- [opencollective/ifme](https://github.com/opencollective/ifme) pushed_at:2017-08 star:0.0k fork:0.0k Open source app to share mental health experiences with loved ones
-- [opencollective/jekyll](https://github.com/opencollective/jekyll) pushed_at:2019-03 star:0.0k fork:0.0k :globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby
-- [opencollective/jekyll-assets](https://github.com/opencollective/jekyll-assets) pushed_at:2017-11 star:0.0k fork:0.0k :art: Asset pipelines for Jekyll.
-- [opencollective/JS.coach](https://github.com/opencollective/JS.coach) pushed_at:2017-11 star:0.0k fork:0.0k An opinionated catalog of open source JS packages.
-- [opencollective/karafka](https://github.com/opencollective/karafka) pushed_at:2017-07 star:0.0k fork:0.0k Framework used to simplify Apache Kafka based Ruby applications development.
-- [opencollective/limarka](https://github.com/opencollective/limarka) pushed_at:2019-01 star:0.0k fork:0.0k Escreva seu trabalho de conclusão de curso com as normas da ABNT em Markdown
-- [opencollective/mastodon](https://github.com/opencollective/mastodon) pushed_at:2019-01 star:0.0k fork:0.0k Your self-hosted, globally interconnected microblogging community
-- [opencollective/mastodon-fork](https://github.com/opencollective/mastodon-fork) pushed_at:2019-09 star:0.0k fork:0.0k Florence's fork of Mastodon
-- [opencollective/property_web_builder](https://github.com/opencollective/property_web_builder) pushed_at:2017-08 star:0.0k fork:0.0k The ultimate Ruby on Rails engine for creating real estate websites
-- [opencollective/sass](https://github.com/opencollective/sass) pushed_at:2017-06 star:0.0k fork:0.0k Sass makes CSS fun again.
+- [opencollective/activeadmin](https://github.com/opencollective/activeadmin) topic: pushed_at:2018-12 star:0.0k fork:0.0k The administration framework for Ruby on Rails applications.
+- [opencollective/anonydog](https://github.com/opencollective/anonydog) topic: pushed_at:2017-11 star:0.0k fork:0.0k On the internet, nobody knows you're a dog
+- [opencollective/deep-cover](https://github.com/opencollective/deep-cover) topic: pushed_at:2018-12 star:0.0k fork:0.0k The best coverage tool for Ruby code
+- [opencollective/feedi](https://github.com/opencollective/feedi) topic: pushed_at:2019-12 star:0.0k fork:0.0k This service allows you to transform RSS feed into an awesome API. 
+- [opencollective/ifme](https://github.com/opencollective/ifme) topic: pushed_at:2017-08 star:0.0k fork:0.0k Open source app to share mental health experiences with loved ones
+- [opencollective/jekyll](https://github.com/opencollective/jekyll) topic: pushed_at:2019-03 star:0.0k fork:0.0k :globe_with_meridians: Jekyll is a blog-aware, static site generator in Ruby
+- [opencollective/jekyll-assets](https://github.com/opencollective/jekyll-assets) topic: pushed_at:2017-11 star:0.0k fork:0.0k :art: Asset pipelines for Jekyll.
+- [opencollective/JS.coach](https://github.com/opencollective/JS.coach) topic: pushed_at:2017-11 star:0.0k fork:0.0k An opinionated catalog of open source JS packages.
+- [opencollective/karafka](https://github.com/opencollective/karafka) topic: pushed_at:2017-07 star:0.0k fork:0.0k Framework used to simplify Apache Kafka based Ruby applications development.
+- [opencollective/limarka](https://github.com/opencollective/limarka) topic: pushed_at:2019-01 star:0.0k fork:0.0k Escreva seu trabalho de conclusão de curso com as normas da ABNT em Markdown
+- [opencollective/mastodon](https://github.com/opencollective/mastodon) topic: pushed_at:2019-01 star:0.0k fork:0.0k Your self-hosted, globally interconnected microblogging community
+- [opencollective/mastodon-fork](https://github.com/opencollective/mastodon-fork) topic: pushed_at:2019-09 star:0.0k fork:0.0k Florence's fork of Mastodon
+- [opencollective/property_web_builder](https://github.com/opencollective/property_web_builder) topic: pushed_at:2017-08 star:0.0k fork:0.0k The ultimate Ruby on Rails engine for creating real estate websites
+- [opencollective/sass](https://github.com/opencollective/sass) topic: pushed_at:2017-06 star:0.0k fork:0.0k Sass makes CSS fun again.
 
 ## Rust
 
-- [opencollective/nannou](https://github.com/opencollective/nannou) pushed_at:2019-02 star:0.0k fork:0.0k A Creative Coding Framework for Rust.
-- [opencollective/rust-battery](https://github.com/opencollective/rust-battery) pushed_at:2019-04 star:0.0k fork:0.0k Rust crate providing cross-platform information about batteries.
-- [opencollective/ZoKrates](https://github.com/opencollective/ZoKrates) pushed_at:2018-12 star:0.0k fork:0.0k A toolbox for zkSNARKS on Ethereum
+- [opencollective/nannou](https://github.com/opencollective/nannou) topic: pushed_at:2019-02 star:0.0k fork:0.0k A Creative Coding Framework for Rust.
+- [opencollective/rust-battery](https://github.com/opencollective/rust-battery) topic: pushed_at:2019-04 star:0.0k fork:0.0k Rust crate providing cross-platform information about batteries.
+- [opencollective/ZoKrates](https://github.com/opencollective/ZoKrates) topic: pushed_at:2018-12 star:0.0k fork:0.0k A toolbox for zkSNARKS on Ethereum
 
 ## Scala
 
-- [opencollective/endpoints](https://github.com/opencollective/endpoints) pushed_at:2019-03 star:0.0k fork:0.0k Scala library to define HTTP-based communication protocols
+- [opencollective/endpoints](https://github.com/opencollective/endpoints) topic: pushed_at:2019-03 star:0.0k fork:0.0k Scala library to define HTTP-based communication protocols
 
 ## Shell
 
-- [opencollective/awesome-cheatsheets](https://github.com/opencollective/awesome-cheatsheets) pushed_at:2019-02 star:0.0k fork:0.0k 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
-- [opencollective/caesonia](https://github.com/opencollective/caesonia) pushed_at:2019-02 star:0.0k fork:0.0k OpenBSD Email Service
-- [opencollective/Cloudbox](https://github.com/opencollective/Cloudbox) pushed_at:2019-04 star:0.0k fork:0.0k Cloudbox is an Ansible-based solution for rapidly deploying a Dockerized cloud media server.
-- [opencollective/docker-autoheal](https://github.com/opencollective/docker-autoheal) pushed_at:2019-03 star:0.0k fork:0.0k Monitor and restart unhealthy docker containers.
-- [opencollective/DockSTARTer](https://github.com/opencollective/DockSTARTer) pushed_at:2019-01 star:0.0k fork:0.0k DockSTARTer helps you get started with home server apps running in Docker.
-- [opencollective/git-quick-stats](https://github.com/opencollective/git-quick-stats) pushed_at:2019-03 star:0.0k fork:0.0k ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
-- [opencollective/hardening](https://github.com/opencollective/hardening) pushed_at:2019-07 star:0.0k fork:0.0k Hardening Ubuntu. Systemd edition.
-- [opencollective/laradock](https://github.com/opencollective/laradock) pushed_at:2017-11 star:0.0k fork:0.0k Docker PHP development environment.
-- [opencollective/lesspass](https://github.com/opencollective/lesspass) pushed_at:2017-10 star:0.0k fork:0.0k :key: stateless open source password manager
+- [opencollective/awesome-cheatsheets](https://github.com/opencollective/awesome-cheatsheets) topic: pushed_at:2019-02 star:0.0k fork:0.0k 超级速查表 - 编程语言、框架和开发工具的速查表，单个文件包含一切你需要知道的东西 :zap:
+- [opencollective/caesonia](https://github.com/opencollective/caesonia) topic: pushed_at:2019-02 star:0.0k fork:0.0k OpenBSD Email Service
+- [opencollective/Cloudbox](https://github.com/opencollective/Cloudbox) topic: pushed_at:2019-04 star:0.0k fork:0.0k Cloudbox is an Ansible-based solution for rapidly deploying a Dockerized cloud media server.
+- [opencollective/docker-autoheal](https://github.com/opencollective/docker-autoheal) topic: pushed_at:2019-03 star:0.0k fork:0.0k Monitor and restart unhealthy docker containers.
+- [opencollective/DockSTARTer](https://github.com/opencollective/DockSTARTer) topic: pushed_at:2019-01 star:0.0k fork:0.0k DockSTARTer helps you get started with home server apps running in Docker.
+- [opencollective/git-quick-stats](https://github.com/opencollective/git-quick-stats) topic: pushed_at:2019-03 star:0.0k fork:0.0k ▁▅▆▃▅ Git quick statistics is a simple and efficient way to access various statistics in git repository.
+- [opencollective/hardening](https://github.com/opencollective/hardening) topic: pushed_at:2019-07 star:0.0k fork:0.0k Hardening Ubuntu. Systemd edition.
+- [opencollective/laradock](https://github.com/opencollective/laradock) topic: pushed_at:2017-11 star:0.0k fork:0.0k Docker PHP development environment.
+- [opencollective/lesspass](https://github.com/opencollective/lesspass) topic: pushed_at:2017-10 star:0.0k fork:0.0k :key: stateless open source password manager
 
 ## Swift
 
-- [opencollective/CenteredCollectionView](https://github.com/opencollective/CenteredCollectionView) pushed_at:2019-04 star:0.0k fork:0.0k A lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift
-- [opencollective/EFQRCode](https://github.com/opencollective/EFQRCode) pushed_at:2017-07 star:0.0k fork:0.0k A better way to operate quick response code in Swift.
-- [opencollective/Kingfisher](https://github.com/opencollective/Kingfisher) pushed_at:2017-06 star:0.0k fork:0.0k A lightweight, pure-Swift library for downloading and caching images from the web.
-- [opencollective/PhotoSlider](https://github.com/opencollective/PhotoSlider) pushed_at:2019-01 star:0.0k fork:0.0k PhotoSlider is a simple photo slider and can delete slider with swiping.
-- [opencollective/Sync](https://github.com/opencollective/Sync) pushed_at:2017-09 star:0.0k fork:0.0k Swift JSON to Core Data synchronization and back.
-- [opencollective/xcproj](https://github.com/opencollective/xcproj) pushed_at:2017-10 star:0.0k fork:0.0k Swift library for parsing Xcode projects
+- [opencollective/CenteredCollectionView](https://github.com/opencollective/CenteredCollectionView) topic: pushed_at:2019-04 star:0.0k fork:0.0k A lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift
+- [opencollective/EFQRCode](https://github.com/opencollective/EFQRCode) topic: pushed_at:2017-07 star:0.0k fork:0.0k A better way to operate quick response code in Swift.
+- [opencollective/Kingfisher](https://github.com/opencollective/Kingfisher) topic: pushed_at:2017-06 star:0.0k fork:0.0k A lightweight, pure-Swift library for downloading and caching images from the web.
+- [opencollective/PhotoSlider](https://github.com/opencollective/PhotoSlider) topic: pushed_at:2019-01 star:0.0k fork:0.0k PhotoSlider is a simple photo slider and can delete slider with swiping.
+- [opencollective/Sync](https://github.com/opencollective/Sync) topic: pushed_at:2017-09 star:0.0k fork:0.0k Swift JSON to Core Data synchronization and back.
+- [opencollective/xcproj](https://github.com/opencollective/xcproj) topic: pushed_at:2017-10 star:0.0k fork:0.0k Swift library for parsing Xcode projects
 
 ## TypeScript
 
-- [opencollective/angular-datepicker](https://github.com/opencollective/angular-datepicker) pushed_at:2017-11 star:0.0k fork:0.0k Highly configurable date picker built for Angular applications
-- [opencollective/angular-tree-component](https://github.com/opencollective/angular-tree-component) pushed_at:2019-12 star:0.0k fork:0.0k A simple yet powerful tree component for Angular (>=2)
-- [opencollective/ant-design-mobile-rn](https://github.com/opencollective/ant-design-mobile-rn) pushed_at:2019-03 star:0.0k fork:0.0k Ant Design for React Native
-- [opencollective/auth-simple-oauth-app.js](https://github.com/opencollective/auth-simple-oauth-app.js) pushed_at:2022-06 star:0.0k fork:0.0k 
-- [opencollective/caprover](https://github.com/opencollective/caprover) pushed_at:2019-02 star:0.0k fork:0.0k [previously known as CaptainDuckDuck] Automated Scalable Webserver Package (automated Docker+nginx) - Heroku on Steroids
-- [opencollective/checkout](https://github.com/opencollective/checkout) pushed_at:2020-08 star:0.0k fork:0.0k 
-- [opencollective/community.angular.jp](https://github.com/opencollective/community.angular.jp) pushed_at:2019-02 star:0.0k fork:0.0k 
-- [opencollective/cqrs](https://github.com/opencollective/cqrs) pushed_at:2019-07 star:0.0k fork:0.0k CQRS-DDD-Actor framework for Node.js 
-- [opencollective/cyph](https://github.com/opencollective/cyph) pushed_at:2019-03 star:0.0k fork:0.0k Completely private voice and video chat.
-- [opencollective/editor.js](https://github.com/opencollective/editor.js) pushed_at:2019-04 star:0.0k fork:0.0k A block-styled editor with clean JSON output
-- [opencollective/got](https://github.com/opencollective/got) pushed_at:2019-04 star:0.0k fork:0.0k Simplified HTTP requests
-- [opencollective/javascript-obfuscator](https://github.com/opencollective/javascript-obfuscator) pushed_at:2017-05 star:0.0k fork:0.0k A powerful obfuscator for JavaScript and Node.js
-- [opencollective/karma-typescript](https://github.com/opencollective/karma-typescript) pushed_at:2017-04 star:0.0k fork:0.0k Simplifying running unit tests with coverage for Typescript projects.
-- [opencollective/Mirakurun](https://github.com/opencollective/Mirakurun) pushed_at:2019-02 star:0.0k fork:0.0k A Modern DTV Tuner Server Service for ISDB.
-- [opencollective/nest](https://github.com/opencollective/nest) pushed_at:2017-05 star:0.0k fork:0.0k A modern node.js framework for efficient and scalable web applications built on top of TypeScript.
-- [opencollective/ngx-translate-extract](https://github.com/opencollective/ngx-translate-extract) pushed_at:2019-07 star:0.0k fork:0.0k 
-- [opencollective/node-csvtojson](https://github.com/opencollective/node-csvtojson) pushed_at:2018-06 star:0.0k fork:0.0k Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line. 
-- [opencollective/OMSCentral](https://github.com/opencollective/OMSCentral) pushed_at:2018-05 star:0.0k fork:0.0k Code for OMSCentral.com
-- [opencollective/oni](https://github.com/opencollective/oni) pushed_at:2019-06 star:0.0k fork:0.0k Oni: An IDE powered by Neovim
-- [opencollective/opencollective-bot](https://github.com/opencollective/opencollective-bot) pushed_at:2021-08 star:0.1k fork:0.0k 🤖 A perfect companion for your Open Collective
-- [opencollective/opencollective-github-helpers](https://github.com/opencollective/opencollective-github-helpers) pushed_at:2022-07 star:0.0k fork:0.0k An app to help with the maintainance and development tasks of Open Collective internal repositories
-- [opencollective/opencollective-taxes](https://github.com/opencollective/opencollective-taxes) pushed_at:2022-08 star:0.0k fork:0.0k Shared code to calculate taxes for events, products and services (VAT)
-- [opencollective/perfume.js](https://github.com/opencollective/perfume.js) pushed_at:2019-03 star:0.0k fork:0.0k A flexible JavaScript library for measuring First Contentful Paint (FP/FCP), First Input Delay (FID) and components lifecycle performance (eg. Angular, React). Report real user measurements to Google Analytics or your ideal tracking tool.
-- [opencollective/react-unity-webgl](https://github.com/opencollective/react-unity-webgl) pushed_at:2019-07 star:0.0k fork:0.0k React Unity WebGL provides an easy solution for embedding Unity WebGL builds in your React application, with two-way communication between your React and Unity application with advanced API's.
-- [opencollective/searchkit](https://github.com/opencollective/searchkit) pushed_at:2018-05 star:0.0k fork:0.0k React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
-- [opencollective/ShapeShifter](https://github.com/opencollective/ShapeShifter) pushed_at:2017-11 star:0.0k fork:0.0k SVG icon animation tool for Android, iOS, and the web
-- [opencollective/tabler-angular](https://github.com/opencollective/tabler-angular) pushed_at:2019-05 star:0.0k fork:0.0k Maintained by @arunabhdas Tabler for Angular - Components, demos and documentation
-- [opencollective/tandem](https://github.com/opencollective/tandem) pushed_at:2019-02 star:0.0k fork:0.0k Tandem is a visual editor for web applications
-- [opencollective/terminus](https://github.com/opencollective/terminus) pushed_at:2019-07 star:0.0k fork:0.0k A terminal for a more modern age
-- [opencollective/typeorm](https://github.com/opencollective/typeorm) pushed_at:2017-09 star:0.0k fork:0.0k Amazing ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
-- [opencollective/vig](https://github.com/opencollective/vig) pushed_at:2019-06 star:0.0k fork:0.0k 一个Web业务框架，专注于代码的精减、Web业务的细化、软件模块的复用和组件化开发
-- [opencollective/vscode-deno](https://github.com/opencollective/vscode-deno) pushed_at:2020-04 star:0.0k fork:0.0k VS Code extension that provides Deno support using the typescript-deno-plugin
-- [opencollective/vscodethemes](https://github.com/opencollective/vscodethemes) pushed_at:2019-04 star:0.0k fork:0.0k Preview themes from the VSCode marketplace. 
-- [opencollective/wechaty](https://github.com/opencollective/wechaty) pushed_at:2019-05 star:0.0k fork:0.0k WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖
+- [opencollective/angular-datepicker](https://github.com/opencollective/angular-datepicker) topic: pushed_at:2017-11 star:0.0k fork:0.0k Highly configurable date picker built for Angular applications
+- [opencollective/angular-tree-component](https://github.com/opencollective/angular-tree-component) topic: pushed_at:2019-12 star:0.0k fork:0.0k A simple yet powerful tree component for Angular (>=2)
+- [opencollective/ant-design-mobile-rn](https://github.com/opencollective/ant-design-mobile-rn) topic: pushed_at:2019-03 star:0.0k fork:0.0k Ant Design for React Native
+- [opencollective/auth-simple-oauth-app.js](https://github.com/opencollective/auth-simple-oauth-app.js) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
+- [opencollective/caprover](https://github.com/opencollective/caprover) topic: pushed_at:2019-02 star:0.0k fork:0.0k [previously known as CaptainDuckDuck] Automated Scalable Webserver Package (automated Docker+nginx) - Heroku on Steroids
+- [opencollective/checkout](https://github.com/opencollective/checkout) topic: pushed_at:2020-08 star:0.0k fork:0.0k 
+- [opencollective/community.angular.jp](https://github.com/opencollective/community.angular.jp) topic: pushed_at:2019-02 star:0.0k fork:0.0k 
+- [opencollective/cqrs](https://github.com/opencollective/cqrs) topic: pushed_at:2019-07 star:0.0k fork:0.0k CQRS-DDD-Actor framework for Node.js 
+- [opencollective/cyph](https://github.com/opencollective/cyph) topic: pushed_at:2019-03 star:0.0k fork:0.0k Completely private voice and video chat.
+- [opencollective/editor.js](https://github.com/opencollective/editor.js) topic: pushed_at:2019-04 star:0.0k fork:0.0k A block-styled editor with clean JSON output
+- [opencollective/got](https://github.com/opencollective/got) topic: pushed_at:2019-04 star:0.0k fork:0.0k Simplified HTTP requests
+- [opencollective/javascript-obfuscator](https://github.com/opencollective/javascript-obfuscator) topic: pushed_at:2017-05 star:0.0k fork:0.0k A powerful obfuscator for JavaScript and Node.js
+- [opencollective/karma-typescript](https://github.com/opencollective/karma-typescript) topic: pushed_at:2017-04 star:0.0k fork:0.0k Simplifying running unit tests with coverage for Typescript projects.
+- [opencollective/Mirakurun](https://github.com/opencollective/Mirakurun) topic: pushed_at:2019-02 star:0.0k fork:0.0k A Modern DTV Tuner Server Service for ISDB.
+- [opencollective/nest](https://github.com/opencollective/nest) topic: pushed_at:2017-05 star:0.0k fork:0.0k A modern node.js framework for efficient and scalable web applications built on top of TypeScript.
+- [opencollective/ngx-translate-extract](https://github.com/opencollective/ngx-translate-extract) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
+- [opencollective/node-csvtojson](https://github.com/opencollective/node-csvtojson) topic: pushed_at:2018-06 star:0.0k fork:0.0k Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line. 
+- [opencollective/OMSCentral](https://github.com/opencollective/OMSCentral) topic: pushed_at:2018-05 star:0.0k fork:0.0k Code for OMSCentral.com
+- [opencollective/oni](https://github.com/opencollective/oni) topic: pushed_at:2019-06 star:0.0k fork:0.0k Oni: An IDE powered by Neovim
+- [opencollective/opencollective-bot](https://github.com/opencollective/opencollective-bot) topic:bot,opencollective,probot pushed_at:2021-08 star:0.1k fork:0.0k 🤖 A perfect companion for your Open Collective
+- [opencollective/opencollective-github-helpers](https://github.com/opencollective/opencollective-github-helpers) topic: pushed_at:2022-07 star:0.0k fork:0.0k An app to help with the maintainance and development tasks of Open Collective internal repositories
+- [opencollective/opencollective-taxes](https://github.com/opencollective/opencollective-taxes) topic: pushed_at:2022-08 star:0.0k fork:0.0k Shared code to calculate taxes for events, products and services (VAT)
+- [opencollective/perfume.js](https://github.com/opencollective/perfume.js) topic: pushed_at:2019-03 star:0.0k fork:0.0k A flexible JavaScript library for measuring First Contentful Paint (FP/FCP), First Input Delay (FID) and components lifecycle performance (eg. Angular, React). Report real user measurements to Google Analytics or your ideal tracking tool.
+- [opencollective/react-unity-webgl](https://github.com/opencollective/react-unity-webgl) topic: pushed_at:2019-07 star:0.0k fork:0.0k React Unity WebGL provides an easy solution for embedding Unity WebGL builds in your React application, with two-way communication between your React and Unity application with advanced API's.
+- [opencollective/searchkit](https://github.com/opencollective/searchkit) topic: pushed_at:2018-05 star:0.0k fork:0.0k React UI components / widgets. The easiest way to build a great search experience with Elasticsearch.
+- [opencollective/ShapeShifter](https://github.com/opencollective/ShapeShifter) topic: pushed_at:2017-11 star:0.0k fork:0.0k SVG icon animation tool for Android, iOS, and the web
+- [opencollective/tabler-angular](https://github.com/opencollective/tabler-angular) topic: pushed_at:2019-05 star:0.0k fork:0.0k Maintained by @arunabhdas Tabler for Angular - Components, demos and documentation
+- [opencollective/tandem](https://github.com/opencollective/tandem) topic: pushed_at:2019-02 star:0.0k fork:0.0k Tandem is a visual editor for web applications
+- [opencollective/terminus](https://github.com/opencollective/terminus) topic: pushed_at:2019-07 star:0.0k fork:0.0k A terminal for a more modern age
+- [opencollective/typeorm](https://github.com/opencollective/typeorm) topic: pushed_at:2017-09 star:0.0k fork:0.0k Amazing ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
+- [opencollective/vig](https://github.com/opencollective/vig) topic: pushed_at:2019-06 star:0.0k fork:0.0k 一个Web业务框架，专注于代码的精减、Web业务的细化、软件模块的复用和组件化开发
+- [opencollective/vscode-deno](https://github.com/opencollective/vscode-deno) topic: pushed_at:2020-04 star:0.0k fork:0.0k VS Code extension that provides Deno support using the typescript-deno-plugin
+- [opencollective/vscodethemes](https://github.com/opencollective/vscodethemes) topic: pushed_at:2019-04 star:0.0k fork:0.0k Preview themes from the VSCode marketplace. 
+- [opencollective/wechaty](https://github.com/opencollective/wechaty) topic: pushed_at:2019-05 star:0.0k fork:0.0k WeChat Bot SDK for Individual Account, Powered by TypeScript, Docker, and 💖
 
 ## Vue
 
-- [opencollective/ant-design-pro-vue](https://github.com/opencollective/ant-design-pro-vue) pushed_at:2019-03 star:0.0k fork:0.0k 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!     A simple vue admin template.
-- [opencollective/blog](https://github.com/opencollective/blog) pushed_at:2018-12 star:0.0k fork:0.0k :black_nib:记录技术的新博客，采用Vue全家桶开发，使用GitHub API进行数据交互
-- [opencollective/coco-annotator](https://github.com/opencollective/coco-annotator) pushed_at:2019-02 star:0.0k fork:0.0k :pencil2: Web-based image segmentation tool for object detection and localization
-- [opencollective/mysigmail](https://github.com/opencollective/mysigmail) pushed_at:2019-01 star:0.0k fork:0.0k UI Email Signature Generator - Make easy to create your email signature
-- [opencollective/valorize-vidas](https://github.com/opencollective/valorize-vidas) pushed_at:2019-04 star:0.0k fork:0.0k Sistema de prevenção ao suicídio
-- [opencollective/vue-js-modal](https://github.com/opencollective/vue-js-modal) pushed_at:2017-09 star:0.0k fork:0.0k :pizza: Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal.
+- [opencollective/ant-design-pro-vue](https://github.com/opencollective/ant-design-pro-vue) topic: pushed_at:2019-03 star:0.0k fork:0.0k 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!     A simple vue admin template.
+- [opencollective/blog](https://github.com/opencollective/blog) topic: pushed_at:2018-12 star:0.0k fork:0.0k :black_nib:记录技术的新博客，采用Vue全家桶开发，使用GitHub API进行数据交互
+- [opencollective/coco-annotator](https://github.com/opencollective/coco-annotator) topic: pushed_at:2019-02 star:0.0k fork:0.0k :pencil2: Web-based image segmentation tool for object detection and localization
+- [opencollective/mysigmail](https://github.com/opencollective/mysigmail) topic: pushed_at:2019-01 star:0.0k fork:0.0k UI Email Signature Generator - Make easy to create your email signature
+- [opencollective/valorize-vidas](https://github.com/opencollective/valorize-vidas) topic: pushed_at:2019-04 star:0.0k fork:0.0k Sistema de prevenção ao suicídio
+- [opencollective/vue-js-modal](https://github.com/opencollective/vue-js-modal) topic: pushed_at:2017-09 star:0.0k fork:0.0k :pizza: Simple to use, highly customizable, mobile friendly Vue.js 2.0+ modal.
 
 
 ## License
