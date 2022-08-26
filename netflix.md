@@ -201,13 +201,13 @@
 - [Netflix/mantis-cli](https://github.com/Netflix/mantis-cli) topic: pushed_at:2022-02 star:0.0k fork:0.0k CLI for managing Mantis clusters from the command line
 - [Netflix/metaflow-docs](https://github.com/Netflix/metaflow-docs) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [Netflix/nerror](https://github.com/Netflix/nerror) topic:error,node,nodejs pushed_at:2021-10 star:0.1k fork:0.0k nerror: rich JavaScript errors
-- [Netflix/pollyjs](https://github.com/Netflix/pollyjs) topic:browser,javascript,netflix,nodejs,record,replay,testing pushed_at:2022-07 star:9.7k fork:0.4k Record, Replay, and Stub HTTP Interactions.
+- [Netflix/pollyjs](https://github.com/Netflix/pollyjs) topic:browser,javascript,netflix,nodejs,record,replay,testing pushed_at:2022-07 star:9.8k fork:0.4k Record, Replay, and Stub HTTP Interactions.
 - [Netflix/pytheas](https://github.com/Netflix/pytheas) topic: pushed_at:2016-11 star:0.2k fork:0.1k Web Resources and UI Framework
 - [Netflix/spectator-js](https://github.com/Netflix/spectator-js) topic: pushed_at:2022-08 star:0.0k fork:0.0k Library for instrumenting Node.js applications using a dimensional data model
 - [Netflix/tslint-config-netflix](https://github.com/Netflix/tslint-config-netflix) topic: pushed_at:2018-08 star:0.0k fork:0.0k 
 - [Netflix/unleash](https://github.com/Netflix/unleash) topic: pushed_at:2020-11 star:0.6k fork:0.0k Professionally publish your JavaScript modules in one keystroke
 - [Netflix/vector](https://github.com/Netflix/vector) topic: pushed_at:2021-08 star:3.6k fork:0.3k Vector is an on-host performance monitoring framework which exposes hand picked high resolution metrics to every engineer’s browser.
-- [Netflix/vizceral](https://github.com/Netflix/vizceral) topic:graph,monitoring,traffic,visualization,webgl pushed_at:2022-07 star:3.9k fork:0.4k WebGL visualization for displaying animated traffic graphs
+- [Netflix/vizceral](https://github.com/Netflix/vizceral) topic:graph,monitoring,traffic,visualization,webgl pushed_at:2022-07 star:4.0k fork:0.4k WebGL visualization for displaying animated traffic graphs
 - [Netflix/vizceral-component](https://github.com/Netflix/vizceral-component) topic: pushed_at:2017-02 star:0.0k fork:0.0k web component wrapper for vizceral
 - [Netflix/vizceral-example](https://github.com/Netflix/vizceral-example) topic: pushed_at:2022-07 star:0.4k fork:0.2k Example Vizceral app
 - [Netflix/vizceral-react](https://github.com/Netflix/vizceral-react) topic: pushed_at:2022-06 star:0.2k fork:0.1k 

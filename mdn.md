@@ -52,7 +52,7 @@
 - [mdn/insights](https://github.com/mdn/insights) topic: pushed_at:2022-04 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) topic:css,editor,examples,html,interactive,javascript,mdn,nodejs pushed_at:2022-08 star:0.6k fork:0.4k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) topic: pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
-- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2022-08 star:5.2k fork:21.0k Github repo for the MDN Learning Area. 
+- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2022-08 star:5.2k fork:21.2k Github repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) topic: pushed_at:2022-04 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
 - [mdn/learning-area-pt-br](https://github.com/mdn/learning-area-pt-br) topic: pushed_at:2021-03 star:0.0k fork:0.1k The MDN Learning Area code examples translated into Brazilian Portuguese.
 - [mdn/machine-translation-testing-content](https://github.com/mdn/machine-translation-testing-content) topic: pushed_at:2020-11 star:0.0k fork:0.0k This is a repository for testing machine translations of English content.
@@ -87,7 +87,7 @@
 - [mdn/data](https://github.com/mdn/data) topic:css,data,json,json-data pushed_at:2022-08 star:0.6k fork:0.2k This repository contains general data for Web technologies
 - [mdn/doc-linter-rules](https://github.com/mdn/doc-linter-rules) topic:linting-rules,mdn pushed_at:2019-04 star:0.0k fork:0.0k Linting rules used to lint MDN Web Documents
 - [mdn/doc-linter-webextension](https://github.com/mdn/doc-linter-webextension) topic:linter,mdn,webextension pushed_at:2019-08 star:0.0k fork:0.0k Webextension to lint MDN documents
-- [mdn/dom-examples](https://github.com/mdn/dom-examples) topic:channel-messaging,demo,dom-manipulation,drag-drop,matchmedia,mdn-docs,pointer-events,pointer-lock,touch-events pushed_at:2022-08 star:1.6k fork:1.1k Code examples that accompany various MDN DOM and Web API documentation pages
+- [mdn/dom-examples](https://github.com/mdn/dom-examples) topic:channel-messaging,demo,dom-manipulation,drag-drop,matchmedia,mdn-docs,pointer-events,pointer-lock,touch-events pushed_at:2022-08 star:1.7k fork:1.1k Code examples that accompany various MDN DOM and Web API documentation pages
 - [mdn/e10s-example-addons](https://github.com/mdn/e10s-example-addons) topic:e10s,firefox-addon,unmaintained pushed_at:2019-04 star:0.0k fork:0.0k Examples showing how to port add-ons to be e10s-compatible
 - [mdn/express-locallibrary-tutorial](https://github.com/mdn/express-locallibrary-tutorial) topic: pushed_at:2022-05 star:1.0k fork:0.5k Local Library website written in NodeJS/Express; example for the MDN server-side development NodeJS module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs.
 - [mdn/headless-examples](https://github.com/mdn/headless-examples) topic: pushed_at:2019-08 star:0.1k fork:0.0k Examples to support the MDN resource covering Firefox headless mode — see https://developer.mozilla.org/en-US/Firefox/Headless_mode
@@ -103,7 +103,7 @@
 - [mdn/repl-panel](https://github.com/mdn/repl-panel) topic:addon,devtools,devtools-extension,repl,unmaintained pushed_at:2019-04 star:0.0k fork:0.0k This add-on lets you send remote debugging protocol requests to the debugging server, and displays the response.
 - [mdn/s3-config](https://github.com/mdn/s3-config) topic:aws,mdn-infra,s3-bucket,simple-storage-service pushed_at:2019-04 star:0.0k fork:0.0k MDN Simple Storage Service (S3) configuration
 - [mdn/samples-server](https://github.com/mdn/samples-server) topic: pushed_at:2021-04 star:0.9k fork:0.9k MDN samples server; used for samples that can't be hosted in-place on MDN, plus back-end server-side code for samples that need it.
-- [mdn/serviceworker-cookbook](https://github.com/mdn/serviceworker-cookbook) topic: pushed_at:2021-12 star:2.4k fork:0.3k It's online. It's offline. It's a Service Worker!
+- [mdn/serviceworker-cookbook](https://github.com/mdn/serviceworker-cookbook) topic: pushed_at:2021-12 star:2.5k fork:0.3k It's online. It's offline. It's a Service Worker!
 - [mdn/short-descriptions](https://github.com/mdn/short-descriptions) topic: pushed_at:2019-10 star:0.0k fork:0.0k Short descriptions of web platform features, for flexible usage in applications. 
 - [mdn/simple-web-worker](https://github.com/mdn/simple-web-worker) topic: pushed_at:2022-05 star:0.7k fork:0.3k A simple web worker test.
 - [mdn/stumptown-content](https://github.com/mdn/stumptown-content) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
@@ -127,14 +127,14 @@
 
 ## Markdown
 
-- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2022-08 star:6.1k fork:11.0k The content behind MDN Web Docs
-- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2022-08 star:0.9k fork:4.0k All translated MDN content in raw form
+- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2022-08 star:6.1k fork:11.2k The content behind MDN Web Docs
+- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2022-08 star:0.9k fork:4.1k All translated MDN content in raw form
 
 ## Others
 
 - [mdn/.github](https://github.com/mdn/.github) topic: pushed_at:2022-08 star:0.0k fork:0.0k MDN Web Docs public organization profile
 - [mdn/browsercompat-data](https://github.com/mdn/browsercompat-data) topic:unmaintained pushed_at:2017-04 star:0.0k fork:0.0k Browser Compatability Data
-- [mdn/content-team-projects](https://github.com/mdn/content-team-projects) topic: pushed_at:2022-07 star:0.0k fork:0.0k Repo for organising MDN Web Docs team projects & subsequent work
+- [mdn/content-team-projects](https://github.com/mdn/content-team-projects) topic: pushed_at:2022-08 star:0.0k fork:0.0k Repo for organising MDN Web Docs team projects & subsequent work
 - [mdn/crossbrowser-testing-lab](https://github.com/mdn/crossbrowser-testing-lab) topic: pushed_at:2019-04 star:0.0k fork:0.0k Mozilla's Cross-Browser Testing Lab
 - [mdn/mdn](https://github.com/mdn/mdn) topic:governance,mdn,meta pushed_at:2022-08 star:1.2k fork:0.2k Contributors handbook that governs the MDN GitHub organization
 - [mdn/mdn-community](https://github.com/mdn/mdn-community) topic:community,feedback,governance pushed_at:2022-08 star:0.0k fork:0.0k A place to provide feedback and suggestions for MDN Web Docs

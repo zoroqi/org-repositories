@@ -63,7 +63,7 @@
 - [deepmind/HAI_selective_prediction](https://github.com/deepmind/HAI_selective_prediction) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
 - [deepmind/hcmd_dai](https://github.com/deepmind/hcmd_dai) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
 - [deepmind/informed_adversary_mnist_reconstruction](https://github.com/deepmind/informed_adversary_mnist_reconstruction) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
-- [deepmind/ithaca](https://github.com/deepmind/ithaca) topic: pushed_at:2022-03 star:0.4k fork:0.0k Restoring and attributing ancient texts using deep neural networks
+- [deepmind/ithaca](https://github.com/deepmind/ithaca) topic: pushed_at:2022-03 star:0.5k fork:0.0k Restoring and attributing ancient texts using deep neural networks
 - [deepmind/mathematics_conjectures](https://github.com/deepmind/mathematics_conjectures) topic: pushed_at:2021-12 star:0.3k fork:0.0k 
 - [deepmind/mc_gradients](https://github.com/deepmind/mc_gradients) topic: pushed_at:2022-06 star:0.1k fork:0.0k 
 - [deepmind/multimodal_transformers](https://github.com/deepmind/multimodal_transformers) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
@@ -93,12 +93,12 @@
 
 ## Others
 
-- [deepmind/abstract-reasoning-matrices](https://github.com/deepmind/abstract-reasoning-matrices) topic: pushed_at:2019-02 star:0.1k fork:0.0k Progressive matrices dataset, as described in: Measuring abstract reasoning in neural networks (Barrett*, Hill*, Santoro*, Morcos, Lillicrap), ICML2018
+- [deepmind/abstract-reasoning-matrices](https://github.com/deepmind/abstract-reasoning-matrices) topic: pushed_at:2019-02 star:0.2k fork:0.0k Progressive matrices dataset, as described in: Measuring abstract reasoning in neural networks (Barrett*, Hill*, Santoro*, Morcos, Lillicrap), ICML2018
 - [deepmind/AQuA](https://github.com/deepmind/AQuA) topic: pushed_at:2017-11 star:0.2k fork:0.0k A algebraic word problem dataset, with multiple choice questions annotated with rationales.
 - [deepmind/boxoban-levels](https://github.com/deepmind/boxoban-levels) topic: pushed_at:2019-01 star:0.0k fork:0.0k This repository contains levels for boxoban, a box-pushing puzzle game inspired by Sokoban.
 - [deepmind/card2code](https://github.com/deepmind/card2code) topic: pushed_at:2017-12 star:0.2k fork:0.0k A code generation dataset for generating the code that implements Hearthstone and Magic The Gathering card effects.
 - [deepmind/deep-compressed-sensing](https://github.com/deepmind/deep-compressed-sensing) topic: pushed_at:2019-11 star:0.0k fork:0.0k 
-- [deepmind/jax](https://github.com/deepmind/jax) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
+- [deepmind/jax](https://github.com/deepmind/jax) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [deepmind/luastyle](https://github.com/deepmind/luastyle) topic: pushed_at:2015-12 star:0.0k fork:0.0k Style guide for Lua code.
 - [deepmind/multiself](https://github.com/deepmind/multiself) topic: pushed_at:2017-11 star:0.1k fork:0.0k A vision network trained via large-scale multi-task self-supervised learning
 - [deepmind/pg19](https://github.com/deepmind/pg19) topic: pushed_at:2020-02 star:0.2k fork:0.0k 
@@ -117,7 +117,7 @@
 - [deepmind/agent_debugger](https://github.com/deepmind/agent_debugger) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [deepmind/ai-safety-gridworlds](https://github.com/deepmind/ai-safety-gridworlds) topic: pushed_at:2022-05 star:0.5k fork:0.1k This is a suite of reinforcement learning environments illustrating various safety properties of intelligent agents.
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) topic: pushed_at:2022-08 star:9.0k fork:1.5k Open source code for AlphaFold.
-- [deepmind/alphastar](https://github.com/deepmind/alphastar) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
+- [deepmind/alphastar](https://github.com/deepmind/alphastar) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
 - [deepmind/android_env](https://github.com/deepmind/android_env) topic:android,reinforcement-learning pushed_at:2022-08 star:0.8k fork:0.0k RL research on Android devices.
 - [deepmind/annealed_flow_transport](https://github.com/deepmind/annealed_flow_transport) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [deepmind/brave](https://github.com/deepmind/brave) topic: pushed_at:2021-10 star:0.0k fork:0.0k A JAX implementation of Broaden Your Views for Self-Supervised Video Learning, or BraVe for short.
@@ -153,7 +153,7 @@
 - [deepmind/einshape](https://github.com/deepmind/einshape) topic: pushed_at:2022-05 star:0.1k fork:0.0k 
 - [deepmind/emergent_communication_at_scale](https://github.com/deepmind/emergent_communication_at_scale) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [deepmind/enn](https://github.com/deepmind/enn) topic: pushed_at:2022-08 star:0.2k fork:0.0k 
-- [deepmind/enn_acme](https://github.com/deepmind/enn_acme) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
+- [deepmind/enn_acme](https://github.com/deepmind/enn_acme) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [deepmind/envlogger](https://github.com/deepmind/envlogger) topic:logging,reinforcement-learning pushed_at:2022-08 star:0.1k fork:0.0k A tool for recording RL trajectories.
 - [deepmind/fancyflags](https://github.com/deepmind/fancyflags) topic:configuration,flags,python pushed_at:2022-07 star:0.0k fork:0.0k A Python library for defining flat or nested dictionary flags.
 - [deepmind/ferminet](https://github.com/deepmind/ferminet) topic: pushed_at:2022-08 star:0.5k fork:0.1k An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations

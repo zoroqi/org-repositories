@@ -27,8 +27,8 @@
 
 - [baidu/baidu-iot-samples](https://github.com/baidu/baidu-iot-samples) topic: pushed_at:2019-10 star:0.1k fork:0.1k 
 - [baidu/boteye_sensor](https://github.com/baidu/boteye_sensor) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,tcp,udp,vxlan pushed_at:2022-08 star:1.0k fork:0.1k dperf is a DPDK based 100Gbps network performance and load testing software.
-- [baidu/du1906_esp](https://github.com/baidu/du1906_esp) topic: pushed_at:2022-06 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
+- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2022-08 star:1.0k fork:0.1k dperf is a DPDK based 100Gbps network performance and load testing software.
+- [baidu/du1906_esp](https://github.com/baidu/du1906_esp) topic: pushed_at:2022-08 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
 - [baidu/iot-edge-sdk-for-iot-parser](https://github.com/baidu/iot-edge-sdk-for-iot-parser) topic: pushed_at:2019-02 star:0.1k fork:0.1k 
 - [baidu/iot-sdk-c](https://github.com/baidu/iot-sdk-c) topic:device-management,edge-sdk,mqtt,sdk pushed_at:2022-04 star:0.1k fork:0.1k device sdk for baidu IoT Core service, in c. Including MQTT client
 - [baidu/ntripcaster](https://github.com/baidu/ntripcaster) topic: pushed_at:2018-04 star:0.0k fork:0.0k 
@@ -96,7 +96,7 @@
 - [baidu/terminator](https://github.com/baidu/terminator) topic: pushed_at:2016-11 star:0.1k fork:0.0k Service Virtualization
 - [baidu/titan-dex](https://github.com/baidu/titan-dex) topic: pushed_at:2022-05 star:0.2k fork:0.0k 
 - [baidu/titan-hotfix](https://github.com/baidu/titan-hotfix) topic: pushed_at:2022-05 star:0.1k fork:0.0k 
-- [baidu/uid-generator](https://github.com/baidu/uid-generator) topic: pushed_at:2022-06 star:4.7k fork:1.4k UniqueID generator
+- [baidu/uid-generator](https://github.com/baidu/uid-generator) topic: pushed_at:2022-06 star:4.8k fork:1.4k UniqueID generator
 
 ## JavaScript
 
@@ -109,7 +109,7 @@
 - [baidu/mix-img](https://github.com/baidu/mix-img) topic: pushed_at:2021-07 star:0.3k fork:0.0k A fast mix image javascript tool libary
 - [baidu/NoahV](https://github.com/baidu/NoahV) topic:aiops,dashboard,devops,efficient,framework,monitor,noahv,scaffold,template,visualization,vue,vuejs pushed_at:2022-08 star:0.6k fork:0.2k An efficient front-end application framework based on vue.js
 - [baidu/san](https://github.com/baidu/san) topic:component,framework,frontend,javascript,mvvm,san pushed_at:2022-07 star:4.6k fork:0.5k A fast, portable, flexible JavaScript component framework
-- [baidu/san-composition](https://github.com/baidu/san-composition) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
+- [baidu/san-composition](https://github.com/baidu/san-composition) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [baidu/san-factory](https://github.com/baidu/san-factory) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
 - [baidu/san-router](https://github.com/baidu/san-router) topic:san pushed_at:2022-08 star:0.0k fork:0.0k Official Router for San
 - [baidu/san-store](https://github.com/baidu/san-store) topic:appstate,san pushed_at:2022-07 star:0.1k fork:0.0k Application States Management for San
@@ -145,7 +145,7 @@
 ## Python
 
 - [baidu/ARK](https://github.com/baidu/ARK) topic:framework,operation pushed_at:2021-05 star:0.1k fork:0.0k Development framework of intelligent operation
-- [baidu/baiduads-sdk](https://github.com/baidu/baiduads-sdk) topic:ads,baidu,sdk pushed_at:2022-05 star:0.0k fork:0.0k Baidu Ads API SDK
+- [baidu/baiduads-sdk](https://github.com/baidu/baiduads-sdk) topic:ads,baidu,sdk pushed_at:2022-08 star:0.0k fork:0.0k Baidu Ads API SDK
 - [baidu/broc](https://github.com/baidu/broc) topic: pushed_at:2017-12 star:0.1k fork:0.1k 
 - [baidu/CUP](https://github.com/baidu/CUP) topic:common-libraries,common-libs,library,python pushed_at:2022-02 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
 - [baidu/DDParser](https://github.com/baidu/DDParser) topic:chinese-dependency-parser,chinese-nlp,dependency-parser,dependency-parsing,python,syntax-parser pushed_at:2021-11 star:0.8k fork:0.1k 百度开源的依存句法分析系统
@@ -169,7 +169,7 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) topic:frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2022-08 star:11.7k fork:1.6k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) topic:frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2022-08 star:11.8k fork:1.7k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) topic:chrome,chromium,debug,devtools,extension,san pushed_at:2021-09 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) topic:san,ssr,ssr-target-js pushed_at:2022-08 star:0.0k fork:0.0k San SSR framework and utils
 
