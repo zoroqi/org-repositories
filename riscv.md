@@ -70,8 +70,8 @@
 
 ## TeX
 
-- [riscv/docs-dev-guide](https://github.com/riscv/docs-dev-guide) topic: pushed_at:2022-07 star:0.0k fork:0.0k Documentation developer guide
-- [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
+- [riscv/docs-dev-guide](https://github.com/riscv/docs-dev-guide) topic: pushed_at:2022-08 star:0.0k fork:0.0k Documentation developer guide
+- [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [riscv/riscv-bfloat16](https://github.com/riscv/riscv-bfloat16) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [riscv/riscv-cfi](https://github.com/riscv/riscv-cfi) topic: pushed_at:2022-06 star:0.0k fork:0.0k This repo holds the work area and revisions of the RISC-V CFI (Shadow Stack and Landing Pads) specifications. CFI defines the privileged and unprivileged ISA extensions that can be used by privileged and unprivileged programs to protect the integrity of their control-flow.
 - [riscv/riscv-count-overflow](https://github.com/riscv/riscv-count-overflow) topic: pushed_at:2022-02 star:0.0k fork:0.0k 

@@ -22,7 +22,7 @@
 
 ## BitBake
 
-- [sony/meta-flutter](https://github.com/sony/meta-flutter) topic:bitbake,flutter,flutter-engine,yocto,yocto-layer,yocto-meta pushed_at:2022-07 star:0.0k fork:0.0k Yocto recipes for Flutter Engine and custom embedders
+- [sony/meta-flutter](https://github.com/sony/meta-flutter) topic:bitbake,flutter,flutter-engine,yocto,yocto-layer,yocto-meta pushed_at:2022-08 star:0.0k fork:0.0k Yocto recipes for Flutter Engine and custom embedders
 
 ## C
 
@@ -35,7 +35,7 @@
 - [sony/easyhttpcpp](https://github.com/sony/easyhttpcpp) topic:cache,cpp,cross-platform,http,https,networking pushed_at:2022-01 star:0.1k fork:0.0k A cross-platform HTTP client library with a focus on usability and speed
 - [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) topic:embedded-linux,embedded-systems,flutter,flutter-plugin,linux,plugin pushed_at:2022-05 star:0.0k fork:0.0k Flutter plugins for embedded Linux (eLinux)
 - [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) topic:embedded-linux,embedded-systems,flutter,linux pushed_at:2022-08 star:0.8k fork:0.1k Embedded Linux embedding for Flutter
-- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) topic:cpp,cpp11,nmos,sdk pushed_at:2022-07 star:0.1k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
+- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) topic:cpp,cpp11,nmos,sdk pushed_at:2022-08 star:0.1k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
 - [sony/node-win-usbdev](https://github.com/sony/node-win-usbdev) topic: pushed_at:2018-02 star:0.0k fork:0.0k 
 - [sony/v8eval](https://github.com/sony/v8eval) topic:golang,python,ruby,v8 pushed_at:2020-12 star:0.4k fork:0.0k Multi-language bindings to JavaScript engine V8
 
@@ -45,7 +45,7 @@
 
 ## Dart
 
-- [sony/flutter-elinux](https://github.com/sony/flutter-elinux) topic:embedded-linux,embedded-systems,flutter,linux pushed_at:2022-08 star:0.1k fork:0.0k Flutter tools for embedded Linux (eLinux)
+- [sony/flutter-elinux](https://github.com/sony/flutter-elinux) topic:embedded-linux,embedded-systems,flutter,linux pushed_at:2022-08 star:0.2k fork:0.0k Flutter tools for embedded Linux (eLinux)
 
 ## Go
 
@@ -91,7 +91,7 @@
 - [sony/nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
 - [sony/nnabla-examples](https://github.com/sony/nnabla-examples) topic: pushed_at:2022-08 star:0.2k fork:0.1k Neural Network Libraries https://nnabla.org/ - Examples
 - [sony/nnabla-nas](https://github.com/sony/nnabla-nas) topic: pushed_at:2022-08 star:0.0k fork:0.0k Neural Architecture Search for Neural Network Libraries
-- [sony/nnabla-rl](https://github.com/sony/nnabla-rl) topic: pushed_at:2022-07 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
+- [sony/nnabla-rl](https://github.com/sony/nnabla-rl) topic: pushed_at:2022-08 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
 - [sony/nnc-plugin](https://github.com/sony/nnc-plugin) topic: pushed_at:2022-08 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
 - [sony/pyIEOE](https://github.com/sony/pyIEOE) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 - [sony/sqvae](https://github.com/sony/sqvae) topic:bayesian,deep-generative-model,generative-model,gumbel-softmax,machine-learning,pytorch,vae,variational-autoencoder,vector-quantization,vq-vae pushed_at:2022-07 star:0.1k fork:0.0k Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE)

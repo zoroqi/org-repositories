@@ -58,7 +58,7 @@
 
 ## Cython
 
-- [openai/mujoco-py](https://github.com/openai/mujoco-py) topic: pushed_at:2022-07 star:2.2k fork:0.7k MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
+- [openai/mujoco-py](https://github.com/openai/mujoco-py) topic: pushed_at:2022-08 star:2.2k fork:0.7k MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
 
 ## Go
 
@@ -84,7 +84,7 @@
 ## Jupyter Notebook
 
 - [openai/baselines-results](https://github.com/openai/baselines-results) topic: pushed_at:2020-07 star:0.1k fork:0.0k 
-- [openai/CLIP](https://github.com/openai/CLIP) topic: pushed_at:2022-07 star:9.1k fork:1.3k Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) topic: pushed_at:2022-08 star:9.2k fork:1.3k Contrastive Language-Image Pretraining
 - [openai/lucid](https://github.com/openai/lucid) topic: pushed_at:2019-01 star:0.0k fork:0.0k A collection of infrastructure and tools for research in neural network interpretability.
 - [openai/ot-gan](https://github.com/openai/ot-gan) topic:paper pushed_at:2018-11 star:0.1k fork:0.0k  Code for the paper "Improving GANs Using Optimal Transport"
 - [openai/ppo-ewma](https://github.com/openai/ppo-ewma) topic: pushed_at:2021-10 star:0.0k fork:0.0k Code for the paper "Batch size invariance for policy optimization"
@@ -127,7 +127,7 @@
 - [openai/distribution_augmentation](https://github.com/openai/distribution_augmentation) topic: pushed_at:2021-12 star:0.1k fork:0.0k Code for the paper, "Distribution Augmentation for Generative Modeling", ICML 2020.
 - [openai/ebm_code_release](https://github.com/openai/ebm_code_release) topic: pushed_at:2019-04 star:0.3k fork:0.1k Code for Implicit Generation and Generalization with Energy Based Models
 - [openai/EPG](https://github.com/openai/EPG) topic:continuous-control,evolutionary-strategy,machine-learning,meta-learning,paper,reinforcement-learning pushed_at:2018-11 star:0.2k fork:0.0k Code for the paper "Evolved Policy Gradients"
-- [openai/evolution-strategies-starter](https://github.com/openai/evolution-strategies-starter) topic:paper pushed_at:2019-10 star:1.4k fork:0.3k Code for the paper "Evolution Strategies as a Scalable Alternative to Reinforcement Learning"
+- [openai/evolution-strategies-starter](https://github.com/openai/evolution-strategies-starter) topic:paper pushed_at:2019-10 star:1.5k fork:0.3k Code for the paper "Evolution Strategies as a Scalable Alternative to Reinforcement Learning"
 - [openai/fetch_robots](https://github.com/openai/fetch_robots) topic: pushed_at:2016-07 star:0.0k fork:0.0k Bringup for fetch & freight
 - [openai/finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm) topic:paper pushed_at:2019-01 star:1.6k fork:0.4k Code and model for the paper "Improving Language Understanding by Generative Pre-Training"
 - [openai/generating-reviews-discovering-sentiment](https://github.com/openai/generating-reviews-discovering-sentiment) topic:paper pushed_at:2022-07 star:1.4k fork:0.4k Code for "Learning to Generate Reviews and Discovering Sentiment"
@@ -137,8 +137,8 @@
 - [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) topic: pushed_at:2021-02 star:1.2k fork:0.3k Dataset of GPT-2 outputs for research in detection, biases, and more
 - [openai/grade-school-math](https://github.com/openai/grade-school-math) topic: pushed_at:2021-11 star:0.2k fork:0.0k 
 - [openai/grok](https://github.com/openai/grok) topic: pushed_at:2022-01 star:0.1k fork:0.0k 
-- [openai/guided-diffusion](https://github.com/openai/guided-diffusion) topic: pushed_at:2022-08 star:2.0k fork:0.3k 
-- [openai/gym](https://github.com/openai/gym) topic: pushed_at:2022-08 star:28.3k fork:7.9k A toolkit for developing and comparing reinforcement learning algorithms.
+- [openai/guided-diffusion](https://github.com/openai/guided-diffusion) topic: pushed_at:2022-08 star:2.1k fork:0.3k 
+- [openai/gym](https://github.com/openai/gym) topic: pushed_at:2022-08 star:28.4k fork:7.9k A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/gym-http-api](https://github.com/openai/gym-http-api) topic: pushed_at:2019-07 star:0.3k fork:0.1k API to access OpenAI Gym from other languages via HTTP
 - [openai/gym-recording](https://github.com/openai/gym-recording) topic: pushed_at:2020-10 star:0.1k fork:0.0k Add-on package to gym, to record sequences of actions, observations, and rewards
 - [openai/gym-soccer](https://github.com/openai/gym-soccer) topic: pushed_at:2021-12 star:0.3k fork:0.2k 
@@ -185,7 +185,7 @@
 - [openai/safety-starter-agents](https://github.com/openai/safety-starter-agents) topic: pushed_at:2020-09 star:0.2k fork:0.1k Basic constrained RL agents used in experiments for the "Benchmarking Safe Exploration in Deep Reinforcement Learning" paper.
 - [openai/sonic-on-ray](https://github.com/openai/sonic-on-ray) topic: pushed_at:2018-11 star:0.0k fork:0.0k Training Sonic with RLlib
 - [openai/sparse_attention](https://github.com/openai/sparse_attention) topic: pushed_at:2020-08 star:1.2k fork:0.2k Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers"
-- [openai/spinningup](https://github.com/openai/spinningup) topic: pushed_at:2022-06 star:7.1k fork:1.7k An educational resource to help anyone learn deep reinforcement learning.
+- [openai/spinningup](https://github.com/openai/spinningup) topic: pushed_at:2022-08 star:7.2k fork:1.7k An educational resource to help anyone learn deep reinforcement learning.
 - [openai/staged-recipes](https://github.com/openai/staged-recipes) topic: pushed_at:2016-12 star:0.0k fork:0.0k A place to submit conda recipes before they become fully fledged conda-forge feedstocks
 - [openai/summarize-from-feedback](https://github.com/openai/summarize-from-feedback) topic: pushed_at:2021-12 star:0.4k fork:0.1k Code for "Learning to summarize from human feedback"
 - [openai/train-procgen](https://github.com/openai/train-procgen) topic:paper pushed_at:2022-03 star:0.1k fork:0.0k Code for the paper "Leveraging Procedural Generation to Benchmark Reinforcement Learning"
