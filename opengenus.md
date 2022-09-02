@@ -66,7 +66,7 @@
 - [OpenGenus/CINT](https://github.com/OpenGenus/CINT) topic:algorithms,browser-extension,offline,opengenus pushed_at:2021-11 star:0.0k fork:0.0k "Coding Interview New Tab" extension 😎
 - [OpenGenus/coin](https://github.com/OpenGenus/coin) topic:charity,donations,opengenus pushed_at:2019-09 star:0.0k fork:0.0k You do not need to donate 💰 to feed millions of children. Your actions can.
 - [OpenGenus/curriculum](https://github.com/OpenGenus/curriculum) topic: pushed_at:2018-07 star:0.0k fork:0.0k The freeCodeCamp curriculum and lesson editor
-- [OpenGenus/iq](https://github.com/OpenGenus/iq) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
+- [OpenGenus/iq](https://github.com/OpenGenus/iq) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [OpenGenus/minesweeper-js](https://github.com/OpenGenus/minesweeper-js) topic: pushed_at:2020-07 star:0.0k fork:0.0k 
 - [OpenGenus/nasa-api](https://github.com/OpenGenus/nasa-api) topic: pushed_at:2020-01 star:0.0k fork:0.0k 
 - [OpenGenus/online-compiler](https://github.com/OpenGenus/online-compiler) topic:compiler,internship,internship-task,javascript,nodejs,online-compiler,online-judge,opengenus,opengenus-internship pushed_at:2020-04 star:0.0k fork:0.0k Online compiler in Node.JS (by OpenGenus intern Prateek Sharma 😃) 
