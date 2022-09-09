@@ -16,9 +16,9 @@
 - [Java](#java) (14)
 - [JavaScript](#javascript) (8)
 - [Jupyter Notebook](#jupyter-notebook) (2)
-- [Kotlin](#kotlin) (3)
+- [Kotlin](#kotlin) (4)
 - [Objective-C](#objective-c) (4)
-- [Others](#others) (23)
+- [Others](#others) (22)
 - [PHP](#php) (1)
 - [Perl](#perl) (1)
 - [Python](#python) (25)
@@ -29,18 +29,18 @@
 
 ## Assembly
 
-- [bytedance/sonic](https://github.com/bytedance/sonic) topic: pushed_at:2022-08 star:3.4k fork:0.2k A blazingly fast JSON serializing & deserializing library
+- [bytedance/sonic](https://github.com/bytedance/sonic) topic: pushed_at:2022-09 star:3.5k fork:0.2k A blazingly fast JSON serializing & deserializing library
 
 ## C
 
 - [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) topic:android,androidinlinehook,arm,arm64,hook,inline,inlinehook,jni,ndk,security,thumb pushed_at:2022-09 star:0.7k fork:0.2k :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
-- [bytedance/atop](https://github.com/bytedance/atop) topic: pushed_at:2022-08 star:0.1k fork:0.0k System and process monitor for Linux
+- [bytedance/atop](https://github.com/bytedance/atop) topic: pushed_at:2022-09 star:0.1k fork:0.0k System and process monitor for Linux
 - [bytedance/bcc](https://github.com/bytedance/bcc) topic: pushed_at:2021-12 star:0.0k fork:0.0k BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [bytedance/bhook](https://github.com/bytedance/bhook) topic:android,androidgothook,androidhook,androidplthook,bytedance,got,gothook,hook,hooking,native,ndk,plt,plthook pushed_at:2022-09 star:1.3k fork:0.2k :fire: ByteHook is an Android PLT hook library which supports armeabi-v7a, arm64-v8a, x86 and x86_64.
 - [bytedance/FFFramework](https://github.com/bytedance/FFFramework) topic: pushed_at:2022-03 star:0.0k fork:0.0k Some ffmpeg-based functions
 - [bytedance/FFmpeg](https://github.com/bytedance/FFmpeg) topic: pushed_at:2022-08 star:0.0k fork:0.0k Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [bytedance/kernel](https://github.com/bytedance/kernel) topic: pushed_at:2022-04 star:0.0k fork:0.0k ByteDance kernel for use on cloud.
-- [bytedance/kvm-utils](https://github.com/bytedance/kvm-utils) topic: pushed_at:2021-11 star:0.0k fork:0.0k 
+- [bytedance/kvm-utils](https://github.com/bytedance/kvm-utils) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [bytedance/libiscsi](https://github.com/bytedance/libiscsi) topic: pushed_at:2020-11 star:0.0k fork:0.0k iscsi client library and utilities
 - [bytedance/libnvmf](https://github.com/bytedance/libnvmf) topic: pushed_at:2022-09 star:0.0k fork:0.0k NVMe over Fabrics user space initiator library.
 - [bytedance/librtmp](https://github.com/bytedance/librtmp) topic: pushed_at:2022-03 star:0.0k fork:0.0k Mirror of http://git.ffmpeg.org/rtmpdump
@@ -57,7 +57,7 @@
 - [bytedance/trace-runqlat](https://github.com/bytedance/trace-runqlat) topic: pushed_at:2022-02 star:0.1k fork:0.0k 
 - [bytedance/twemproxy](https://github.com/bytedance/twemproxy) topic: pushed_at:2015-10 star:0.0k fork:0.0k A fork of twitter's twemproxy, please refer to README.bytedance.md
 - [bytedance/unscd](https://github.com/bytedance/unscd) topic: pushed_at:2016-11 star:0.0k fork:0.0k 
-- [bytedance/uoa](https://github.com/bytedance/uoa) topic: pushed_at:2021-11 star:0.0k fork:0.0k 
+- [bytedance/uoa](https://github.com/bytedance/uoa) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 
 ## C++
 
@@ -65,7 +65,7 @@
 - [bytedance/incubator-mxnet](https://github.com/bytedance/incubator-mxnet) topic: pushed_at:2019-11 star:0.0k fork:0.0k Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [bytedance/onnx-tensorrt](https://github.com/bytedance/onnx-tensorrt) topic: pushed_at:2021-04 star:0.0k fork:0.0k ONNX-TensorRT: TensorRT backend for ONNX
 - [bytedance/particle-sfm](https://github.com/bytedance/particle-sfm) topic:dynamic-scenes,motion-segmentation,structure-from-motion,video-correspondence pushed_at:2022-08 star:0.1k fork:0.0k ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild. ECCV 2022.
-- [bytedance/ps-lite](https://github.com/bytedance/ps-lite) topic:deep-learning,distributed-training,mxnet,rdma pushed_at:2022-08 star:0.1k fork:0.0k A lightweight parameter server interface
+- [bytedance/ps-lite](https://github.com/bytedance/ps-lite) topic:deep-learning,distributed-training,mxnet,rdma pushed_at:2022-09 star:0.1k fork:0.0k A lightweight parameter server interface
 - [bytedance/pyskynet](https://github.com/bytedance/pyskynet) topic: pushed_at:2022-03 star:0.0k fork:0.0k PySkynet is a library for using skynet in python.
 - [bytedance/tensorflow](https://github.com/bytedance/tensorflow) topic: pushed_at:2021-02 star:0.0k fork:0.0k An Open Source Machine Learning Framework for Everyone
 - [bytedance/terark-zip](https://github.com/bytedance/terark-zip) topic: pushed_at:2022-04 star:0.0k fork:0.0k A data structure and algorithm library built for TerarkDB
@@ -78,7 +78,7 @@
 
 ## Dart
 
-- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) topic:dart,dart-library,debug,debugging-tool,developer,development,devtool,flutter,flutter-package,flutter-plugin,tools pushed_at:2022-08 star:1.7k fork:0.1k UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
+- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) topic:dart,dart-library,debug,debugging-tool,developer,development,devtool,flutter,flutter-package,flutter-plugin,tools pushed_at:2022-09 star:1.7k fork:0.1k UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
 - [bytedance/flutterdoc](https://github.com/bytedance/flutterdoc) topic:documentation,flutter,gallery pushed_at:2022-03 star:0.0k fork:0.0k Generate gallery for your Flutter widgets with one command
 - [bytedance/marquee_text](https://github.com/bytedance/marquee_text) topic: pushed_at:2019-11 star:0.0k fork:0.0k 
 - [bytedance/pull_to_refresh](https://github.com/bytedance/pull_to_refresh) topic: pushed_at:2020-05 star:0.1k fork:0.0k Flutter pull_to_refresh widget
@@ -95,7 +95,7 @@
 - [bytedance/go-querystring-parser](https://github.com/bytedance/go-querystring-parser) topic: pushed_at:2022-08 star:0.0k fork:0.0k A golang querystring parser
 - [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) topic:binding,dsl,expression,go,struct-tag,validator pushed_at:2022-08 star:1.2k fork:0.1k An interesting go struct tag expression syntax for field validation, etc.
 - [bytedance/godlp](https://github.com/bytedance/godlp) topic: pushed_at:2022-07 star:0.6k fork:0.1k sensitive information protection toolkit
-- [bytedance/gopkg](https://github.com/bytedance/gopkg) topic: pushed_at:2022-08 star:0.8k fork:0.1k Universal Utilities for Go
+- [bytedance/gopkg](https://github.com/bytedance/gopkg) topic: pushed_at:2022-09 star:0.8k fork:0.1k Universal Utilities for Go
 - [bytedance/ingress-nginx](https://github.com/bytedance/ingress-nginx) topic: pushed_at:2020-10 star:0.0k fork:0.0k NGINX Ingress Controller for Kubernetes
 - [bytedance/json](https://github.com/bytedance/json) topic:json pushed_at:2019-05 star:0.0k fork:0.0k JSON standard package extension library
 - [bytedance/kldx-common](https://github.com/bytedance/kldx-common) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
@@ -114,11 +114,11 @@
 ## Java
 
 - [bytedance/AabResGuard](https://github.com/bytedance/AabResGuard) topic:aab,android,android-app-bundle,resource-obfuscation pushed_at:2021-11 star:1.0k fork:0.1k The tool of obfuscated aab resources.(Android app bundle资源混淆工具)
-- [bytedance/AlphaPlayer](https://github.com/bytedance/AlphaPlayer) topic: pushed_at:2022-06 star:1.7k fork:0.3k AlphaPlayer is a video animation engine.
+- [bytedance/AlphaPlayer](https://github.com/bytedance/AlphaPlayer) topic: pushed_at:2022-09 star:1.8k fork:0.3k AlphaPlayer is a video animation engine.
 - [bytedance/BoostMultiDex](https://github.com/bytedance/BoostMultiDex) topic:android pushed_at:2022-05 star:1.0k fork:0.1k BoostMultiDex is a solution for quickly loading multiple dex files on low Android version devices (4.X and below, SDK <21).
 - [bytedance/ByteX](https://github.com/bytedance/ByteX) topic:asm,bytecode,gradle,gradle-plugin pushed_at:2022-07 star:2.6k fork:0.4k ByteX is a bytecode plugin platform based on Android Gradle Transform API and ASM.  字节码插件开发平台
 - [bytedance/clickhouse_hadoop](https://github.com/bytedance/clickhouse_hadoop) topic:clickhouse,hadoop pushed_at:2019-03 star:0.0k fork:0.0k Import data from clickhouse to hadoop with pure SQL
-- [bytedance/CloudShuffleService](https://github.com/bytedance/CloudShuffleService) topic:flink,hadoop-mapreduce,spark pushed_at:2022-08 star:0.1k fork:0.0k Cloud Shuffle Service(CSS) is a general purpose remote shuffle solution for compute engines, including Spark/Flink/MapReduce. 
+- [bytedance/CloudShuffleService](https://github.com/bytedance/CloudShuffleService) topic:flink,hadoop-mapreduce,spark pushed_at:2022-08 star:0.2k fork:0.0k Cloud Shuffle Service(CSS) is a general purpose remote shuffle solution for compute engines, including Spark/Flink/MapReduce. 
 - [bytedance/flutter_asset_literal_idea_plugin](https://github.com/bytedance/flutter_asset_literal_idea_plugin) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [bytedance/jenkins-plugin-lark](https://github.com/bytedance/jenkins-plugin-lark) topic: pushed_at:2022-06 star:0.0k fork:0.0k This plugin allows sending jobs status notification to your work group with Lark, and help you understand the build result.
 - [bytedance/nnproxy](https://github.com/bytedance/nnproxy) topic: pushed_at:2016-04 star:0.1k fork:0.0k Scalable NameNode RPC Proxy for HDFS Federation
@@ -146,6 +146,7 @@
 
 ## Kotlin
 
+- [bytedance/appshark](https://github.com/bytedance/appshark) topic: pushed_at:2022-09 star:0.4k fork:0.0k 
 - [bytedance/btrace](https://github.com/bytedance/btrace) topic: pushed_at:2022-05 star:1.1k fork:0.2k 🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.
 - [bytedance/CodeLocator](https://github.com/bytedance/CodeLocator) topic: pushed_at:2022-06 star:0.9k fork:0.1k 
 - [bytedance/DanmakuRenderEngine](https://github.com/bytedance/DanmakuRenderEngine) topic: pushed_at:2022-08 star:0.0k fork:0.0k DanmakuRenderEngine is a lightweight and scalable Android danmaku library. 轻量级高扩展安卓弹幕渲染引擎
@@ -161,7 +162,6 @@
 
 - [bytedance/Ads-Mediation](https://github.com/bytedance/Ads-Mediation) topic: pushed_at:2021-11 star:0.0k fork:0.0k Ads-Mediation is a Ad SDK from Bytedance providing content service.Bytedance provides content which include rewardVideo、fullscreenVideo、banner etc.   And provide mediation services of various mainstream advertising SDKs
 - [bytedance/Android-Pangle-Manuel-Quick-Start](https://github.com/bytedance/Android-Pangle-Manuel-Quick-Start) topic: pushed_at:2020-12 star:0.0k fork:0.0k This is a manual for integrating Pangle Android SDK to your app.
-- [bytedance/appshark](https://github.com/bytedance/appshark) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [bytedance/bifrost](https://github.com/bytedance/bifrost) topic: pushed_at:2020-12 star:0.0k fork:0.0k 
 - [bytedance/cloud-hypervisor](https://github.com/bytedance/cloud-hypervisor) topic: pushed_at:2021-06 star:0.0k fork:0.0k A rust-vmm based cloud hypervisor
 - [bytedance/douyincloud_cert](https://github.com/bytedance/douyincloud_cert) topic: pushed_at:2022-08 star:0.0k fork:0.0k douyincloud_cert
@@ -170,7 +170,7 @@
 - [bytedance/FlameGraph](https://github.com/bytedance/FlameGraph) topic: pushed_at:2021-02 star:0.0k fork:0.0k Stack trace visualizer
 - [bytedance/go-snappy](https://github.com/bytedance/go-snappy) topic: pushed_at:2019-02 star:0.0k fork:0.0k a fork of go-snappy
 - [bytedance/http-proxy-middleware](https://github.com/bytedance/http-proxy-middleware) topic: pushed_at:2019-09 star:0.0k fork:0.0k :zap: The one-liner node.js http-proxy middleware for connect, express and browser-sync
-- [bytedance/kube-apparmor-manager](https://github.com/bytedance/kube-apparmor-manager) topic: pushed_at:2022-07 star:0.0k fork:0.0k Manage AppAmormor profiles for Kubernetes cluster
+- [bytedance/kube-apparmor-manager](https://github.com/bytedance/kube-apparmor-manager) topic: pushed_at:2022-09 star:0.0k fork:0.0k Manage AppAmormor profiles for Kubernetes cluster
 - [bytedance/kubevirt](https://github.com/bytedance/kubevirt) topic: pushed_at:2022-07 star:0.0k fork:0.0k Kubernetes Virtualization API and runtime in order to define and manage virtual machines.
 - [bytedance/libvirt](https://github.com/bytedance/libvirt) topic: pushed_at:2020-04 star:0.0k fork:0.0k Read-only mirror. Please submit merge requests / issues to https://gitlab.com/libvirt/libvirt
 - [bytedance/linux](https://github.com/bytedance/linux) topic: pushed_at:2022-07 star:0.0k fork:0.0k Linux kernel source tree
@@ -193,7 +193,7 @@
 
 ## Python
 
-- [bytedance/BEE](https://github.com/bytedance/BEE) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
+- [bytedance/BEE](https://github.com/bytedance/BEE) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [bytedance/byteps](https://github.com/bytedance/byteps) topic:deep-learning,distributed-training,keras,machine-learning,mxnet,pytorch,tensorflow pushed_at:2022-08 star:3.3k fork:0.5k A high performance and generic framework for distributed DNN training
 - [bytedance/Collie](https://github.com/bytedance/Collie) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
 - [bytedance/DeepSolid](https://github.com/bytedance/DeepSolid) topic: pushed_at:2022-05 star:0.0k fork:0.0k A library combining solid quantum Monte Carlo and neural network.
@@ -241,8 +241,8 @@
 
 ## TypeScript
 
-- [bytedance/bytemd](https://github.com/bytedance/bytemd) topic:markdown,markdown-editor,markdown-viewer,svelte pushed_at:2022-08 star:2.8k fork:0.2k Hackable Markdown Editor and Viewer
-- [bytedance/debugtron](https://github.com/bytedance/debugtron) topic:debugging-tool,electron,electron-app,electron-debug pushed_at:2022-05 star:0.8k fork:0.1k Debug in-production Electron based app
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) topic:markdown,markdown-editor,markdown-viewer,svelte pushed_at:2022-08 star:2.9k fork:0.2k Hackable Markdown Editor and Viewer
+- [bytedance/debugtron](https://github.com/bytedance/debugtron) topic:debugging-tool,electron,electron-app,electron-debug pushed_at:2022-09 star:0.8k fork:0.1k Debug in-production Electron based app
 - [bytedance/fe-foundation](https://github.com/bytedance/fe-foundation) topic: pushed_at:2021-06 star:0.1k fork:0.0k UI Foundation for React Hooks and Vue Composition Api 
 - [bytedance/flow-builder](https://github.com/bytedance/flow-builder) topic:builder,flow,process,react pushed_at:2022-08 star:0.1k fork:0.0k A highly customizable streaming flow builder.
 - [bytedance/graphyne](https://github.com/bytedance/graphyne) topic:graphql,json,protobuf,thrift pushed_at:2019-03 star:0.0k fork:0.0k 
@@ -251,7 +251,7 @@
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) topic:domain-driven-design,javascript,meta-framework,micro-frontends,react,svelte,typescript,vue,webcomponents pushed_at:2022-05 star:0.5k fork:0.0k Make Web Components easier and powerful!😘
 - [bytedance/magic-portal](https://github.com/bytedance/magic-portal) topic:component,micro-component,micro-frontend,microservices pushed_at:2021-07 star:0.1k fork:0.0k ⚡ A blazing fast micro-component and micro-frontend solution uses web-components under the hood.
 - [bytedance/mona](https://github.com/bytedance/mona) topic: pushed_at:2022-09 star:0.0k fork:0.0k mona is for developing merchant's app
-- [bytedance/mona-templates](https://github.com/bytedance/mona-templates) topic: pushed_at:2022-08 star:0.0k fork:0.0k template's repo for mona-cli-init
+- [bytedance/mona-templates](https://github.com/bytedance/mona-templates) topic: pushed_at:2022-09 star:0.0k fork:0.0k template's repo for mona-cli-init
 - [bytedance/react-model](https://github.com/bytedance/react-model) topic: pushed_at:2021-03 star:0.2k fork:0.0k The next generation state management library for React
 - [bytedance/syllepsis](https://github.com/bytedance/syllepsis) topic: pushed_at:2022-08 star:0.2k fork:0.0k Syllepsis is an out-of-the-box rich text editor.
 - [bytedance/TiktokBusinessPlugin](https://github.com/bytedance/TiktokBusinessPlugin) topic: pushed_at:2021-09 star:0.0k fork:0.0k 

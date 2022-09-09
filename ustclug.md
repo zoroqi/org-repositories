@@ -40,7 +40,7 @@
 - [ustclug/mirrors-index](https://github.com/ustclug/mirrors-index) topic: pushed_at:2018-05 star:0.0k fork:0.0k Go https://git.lug.ustc.edu.cn/mirrors/mirrors-index for latest version
 - [ustclug/news](https://github.com/ustclug/news) topic: pushed_at:2020-08 star:0.0k fork:0.0k USTC LUG 新闻站
 - [ustclug/qtguide](https://github.com/ustclug/qtguide) topic: pushed_at:2022-05 star:0.1k fork:0.0k Qt Programming Guide
-- [ustclug/website](https://github.com/ustclug/website) topic:hacktoberfest,jekyll,website pushed_at:2022-08 star:0.0k fork:0.0k The next-gen website of LUG@USTC.
+- [ustclug/website](https://github.com/ustclug/website) topic:hacktoberfest,jekyll,website pushed_at:2022-09 star:0.0k fork:0.0k The next-gen website of LUG@USTC.
 
 ## Hack
 
@@ -88,7 +88,7 @@
 - [ustclug/light-list](https://github.com/ustclug/light-list) topic: pushed_at:2022-03 star:0.0k fork:0.0k accelerate list of light service
 - [ustclug/light-server](https://github.com/ustclug/light-server) topic: pushed_at:2022-07 star:0.0k fork:0.0k light accelerator daemon
 - [ustclug/light-socks5](https://github.com/ustclug/light-socks5) topic: pushed_at:2018-01 star:0.0k fork:0.0k light accelerator socks5 daemon
-- [ustclug/liimstrap](https://github.com/ustclug/liimstrap) topic: pushed_at:2022-08 star:0.0k fork:0.0k 中国科大图书馆查询机生成脚本。
+- [ustclug/liimstrap](https://github.com/ustclug/liimstrap) topic: pushed_at:2022-09 star:0.0k fork:0.0k 中国科大图书馆查询机生成脚本。
 - [ustclug/Linux101-docs](https://github.com/ustclug/Linux101-docs) topic: pushed_at:2022-04 star:0.2k fork:0.0k Linux 101 学生课程教材与讲义
 - [ustclug/Linux101-USTC](https://github.com/ustclug/Linux101-USTC) topic: pushed_at:2020-03 star:0.0k fork:0.0k Linux 101 is a course organized by several members of LUG@USTC. It is designed to popularize Linux and open source culture in USTC. First brought up by Jin Zida.
 - [ustclug/lug-sites-sync](https://github.com/ustclug/lug-sites-sync) topic: pushed_at:2015-08 star:0.0k fork:0.0k 💀Script to sync lug.ustc.edu.cn/sites pages (deprecated)
