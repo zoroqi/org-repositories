@@ -8,12 +8,12 @@
 
 - [C++](#c++) (2)
 - [CSS](#css) (4)
-- [HTML](#html) (19)
+- [HTML](#html) (20)
 - [Java](#java) (5)
 - [JavaScript](#javascript) (15)
 - [Jupyter Notebook](#jupyter-notebook) (3)
 - [OpenEdge ABL](#openedge-abl) (1)
-- [Others](#others) (34)
+- [Others](#others) (33)
 - [Processing](#processing) (1)
 - [Python](#python) (25)
 - [Shell](#shell) (1)
@@ -21,7 +21,7 @@
 
 ## C++
 
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) topic:algorithm,datastructures,hacktoberfest,hacktoberfest-accepted,hacktoberfest2021,internship,internships,interview-questions,library,offline-app,opengenus,search-algorithms,sorting-algorithms pushed_at:2022-05 star:13.1k fork:3.4k Hacktoberfest 2021 | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) topic:algorithm,datastructures,hacktoberfest,hacktoberfest-accepted,hacktoberfest2021,internship,internships,interview-questions,library,offline-app,opengenus,search-algorithms,sorting-algorithms pushed_at:2022-05 star:13.1k fork:3.4k Hacktoberfest 2022 coming | World's largest Contributor driven code dataset | Algorithms that run our universe | Your personal library of every algorithm and data structure code that you will ever encounter |
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) topic:code-search,hacktoberfest,hacktoberfest2021,javascript,offline,opengenus,search-engine pushed_at:2022-06 star:0.6k fork:0.1k Stay happy while offline | World's first offline search engine. 
 
 ## CSS
@@ -44,6 +44,7 @@
 - [OpenGenus/html_lists](https://github.com/OpenGenus/html_lists) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
 - [OpenGenus/indexeddb](https://github.com/OpenGenus/indexeddb) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/local_storage](https://github.com/OpenGenus/local_storage) topic: pushed_at:2019-09 star:0.0k fork:0.0k local storage in HTML
+- [OpenGenus/new_notif](https://github.com/OpenGenus/new_notif) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [OpenGenus/page_printing](https://github.com/OpenGenus/page_printing) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/push_api](https://github.com/OpenGenus/push_api) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
 - [OpenGenus/radio-air](https://github.com/OpenGenus/radio-air) topic: pushed_at:2018-12 star:0.0k fork:0.0k 
@@ -77,7 +78,7 @@
 - [OpenGenus/third-party-cookies](https://github.com/OpenGenus/third-party-cookies) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/typing-speed-js](https://github.com/OpenGenus/typing-speed-js) topic: pushed_at:2020-06 star:0.0k fork:0.0k 
 - [OpenGenus/web_api_nodejs](https://github.com/OpenGenus/web_api_nodejs) topic:nodejs,opengenus,routing,web-api,web-server pushed_at:2019-08 star:0.0k fork:0.0k A basic guide on building a Web API in NodeJS
-- [OpenGenus/word-to-pdf](https://github.com/OpenGenus/word-to-pdf) topic:document-conversion,javascript,nodejs,opengenus,opengenus-internship,pdf,webapp,word,word-to-pdf pushed_at:2022-02 star:0.0k fork:0.0k Node.JS web application to convert an uploaded Word document to a PDF file (available as download for the user) (developed by OpenGenus Intern, Prateek Sharma)
+- [OpenGenus/word-to-pdf](https://github.com/OpenGenus/word-to-pdf) topic:document-conversion,javascript,nodejs,opengenus,opengenus-internship,pdf,webapp,word,word-to-pdf pushed_at:2022-09 star:0.0k fork:0.0k Node.JS web application to convert an uploaded Word document to a PDF file (available as download for the user) (developed by OpenGenus Intern, Prateek Sharma)
 
 ## Jupyter Notebook
 
@@ -113,11 +114,10 @@
 - [OpenGenus/html](https://github.com/OpenGenus/html) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/http_requests](https://github.com/OpenGenus/http_requests) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/Ideas](https://github.com/OpenGenus/Ideas) topic: pushed_at:2016-04 star:0.0k fork:0.0k [Use our Discourse instance] For now drop any ideas here. Soon we will be migrating to a service provider.
-- [OpenGenus/Join_OpenGenus](https://github.com/OpenGenus/Join_OpenGenus) topic:community,help,internship,opengenus pushed_at:2021-10 star:0.2k fork:0.2k  Welcome to the OpenGenus Community ! 🉑 Do join our Internship program: https://discourse.opengenus.org/t/internship-guidelines-at-opengenus/2335/  :walking_woman: .
+- [OpenGenus/Join_OpenGenus](https://github.com/OpenGenus/Join_OpenGenus) topic:community,help,internship,opengenus pushed_at:2022-09 star:0.2k fork:0.2k  Welcome to the OpenGenus Community ! 🉑 Do join our Internship program: https://discourse.opengenus.org/t/internship-guidelines-at-opengenus/2335/  :walking_woman: .
 - [OpenGenus/kojiki](https://github.com/OpenGenus/kojiki) topic: pushed_at:2019-01 star:0.0k fork:0.0k 
 - [OpenGenus/localmedia](https://github.com/OpenGenus/localmedia) topic: pushed_at:2018-04 star:0.0k fork:0.0k In regard to discussion based on https://github.com/orgs/OpenGenus/teams/contributors/discussions/1
 - [OpenGenus/ml_flow](https://github.com/OpenGenus/ml_flow) topic: pushed_at:2019-05 star:0.0k fork:0.0k 
-- [OpenGenus/new_notif](https://github.com/OpenGenus/new_notif) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [OpenGenus/node_module](https://github.com/OpenGenus/node_module) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
 - [OpenGenus/OpenGenus-Slack](https://github.com/OpenGenus/OpenGenus-Slack) topic:opengenus,slack,slack-team pushed_at:2017-11 star:0.0k fork:0.0k Email us or Open an issue to join us at Slack 
 - [OpenGenus/ProjectBot](https://github.com/OpenGenus/ProjectBot) topic: pushed_at:2016-07 star:0.0k fork:0.0k 
