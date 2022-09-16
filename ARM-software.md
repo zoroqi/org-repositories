@@ -14,12 +14,11 @@
 - [Go](#go) (3)
 - [HTML](#html) (1)
 - [Java](#java) (1)
-- [JavaScript](#javascript) (1)
 - [Jupyter Notebook](#jupyter-notebook) (5)
 - [Makefile](#makefile) (1)
 - [OCaml](#ocaml) (1)
 - [Objective-C](#objective-c) (1)
-- [Others](#others) (15)
+- [Others](#others) (16)
 - [PostScript](#postscript) (1)
 - [Python](#python) (20)
 - [Ruby](#ruby) (1)
@@ -46,18 +45,18 @@
 - [ARM-software/CMSIS](https://github.com/ARM-software/CMSIS) topic: pushed_at:2018-10 star:0.4k fork:0.4k Cortex Microcontroller Software Interface Standard
 - [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) topic: pushed_at:2022-09 star:0.1k fork:0.1k Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
 - [ARM-software/CMSIS-Driver_Validation](https://github.com/ARM-software/CMSIS-Driver_Validation) topic: pushed_at:2022-08 star:0.0k fork:0.0k Repository containing validation components for microcontroller peripheral driver implementing the CMSIS-Driver API specification.
-- [ARM-software/CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) topic:cortex-a,cortex-m,dsp,embedded,fft,filter,fixed-point-arithmetic,matrix,ml,numpy pushed_at:2022-08 star:0.1k fork:0.0k CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
+- [ARM-software/CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) topic:cortex-a,cortex-m,dsp,embedded,fft,filter,fixed-point-arithmetic,matrix,ml,numpy pushed_at:2022-09 star:0.1k fork:0.0k CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
 - [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) topic: pushed_at:2022-07 star:0.4k fork:0.1k FreeRTOS adaptation for CMSIS-RTOS Version 2
 - [ARM-software/CMSIS-mbedTLS](https://github.com/ARM-software/CMSIS-mbedTLS) topic: pushed_at:2022-08 star:0.0k fork:0.0k CMSIS Pack for the mbedTLS software stack
 - [ARM-software/CMSIS-Musca-S1](https://github.com/ARM-software/CMSIS-Musca-S1) topic: pushed_at:2021-10 star:0.0k fork:0.0k Repository of CMSIS Software Pack for Musca-S1 test-chip and board.
 - [ARM-software/CMSIS-RTOS2_Validation](https://github.com/ARM-software/CMSIS-RTOS2_Validation) topic: pushed_at:2022-09 star:0.0k fork:0.0k Validation test suite for CMSIS-RTOS2 API implementations using Arm Virtual Hardware (AVH).
 - [ARM-software/CMSIS-TFM](https://github.com/ARM-software/CMSIS-TFM) topic: pushed_at:2020-06 star:0.0k fork:0.0k Downstream Repository of CMSIS Software Packs for Trusted Firmware-M (TF-M).
-- [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) topic: pushed_at:2022-08 star:0.7k fork:1.0k CMSIS Version 5 Development Repository
+- [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) topic: pushed_at:2022-09 star:0.7k fork:1.0k CMSIS Version 5 Development Repository
 - [ARM-software/CPA](https://github.com/ARM-software/CPA) topic: pushed_at:2017-11 star:0.0k fork:0.0k Contiguous page allocator project
 - [ARM-software/cryptocell-312-runtime](https://github.com/ARM-software/cryptocell-312-runtime) topic: pushed_at:2021-02 star:0.0k fork:0.0k CryptoCell 312 runtime code
 - [ARM-software/Cryptocell-703-TEE-Lib](https://github.com/ARM-software/Cryptocell-703-TEE-Lib) topic: pushed_at:2020-09 star:0.0k fork:0.0k Cryptocell 713/703 TEE Lib
 - [ARM-software/Cryptocell-713-TEE-Lib](https://github.com/ARM-software/Cryptocell-713-TEE-Lib) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
-- [ARM-software/CSAL](https://github.com/ARM-software/CSAL) topic: pushed_at:2022-08 star:0.1k fork:0.0k Coresight Access Library
+- [ARM-software/CSAL](https://github.com/ARM-software/CSAL) topic: pushed_at:2022-09 star:0.1k fork:0.0k Coresight Access Library
 - [ARM-software/EndpointAI](https://github.com/ARM-software/EndpointAI) topic: pushed_at:2022-09 star:0.2k fork:0.1k 
 - [ARM-software/ff-a-acs](https://github.com/ARM-software/ff-a-acs) topic: pushed_at:2022-08 star:0.0k fork:0.0k Firmware Framework for A Architecture Compliance Suite
 - [ARM-software/fluent-bit-modbus-plugin](https://github.com/ARM-software/fluent-bit-modbus-plugin) topic: pushed_at:2020-04 star:0.0k fork:0.0k   A dynamic Modbus plugin for Fluent Bit
@@ -83,7 +82,7 @@
 - [ARM-software/server-data-plane](https://github.com/ARM-software/server-data-plane) topic: pushed_at:2017-05 star:0.0k fork:0.0k Modified OpenDataPlane APIs for general purpose server applications with example applications.
 - [ARM-software/Shackleton-Framework](https://github.com/ARM-software/Shackleton-Framework) topic: pushed_at:2022-06 star:0.0k fork:0.0k A generic genetic programming framework that aims to make genetic programming easier for a myriad of uses. Currently, the main target is to use the framework for code optimization in tandem with the LLVM framework.
 - [ARM-software/synchronization-benchmarks](https://github.com/ARM-software/synchronization-benchmarks) topic:micro-benchmarks,synchronization pushed_at:2021-11 star:0.0k fork:0.0k Collection of synchronization micro-benchmarks and traces from infrastructure applications
-- [ARM-software/Tool-Solutions](https://github.com/ARM-software/Tool-Solutions) topic: pushed_at:2022-08 star:0.2k fork:0.1k Tutorials & examples for Arm software development tools.
+- [ARM-software/Tool-Solutions](https://github.com/ARM-software/Tool-Solutions) topic: pushed_at:2022-09 star:0.2k fork:0.1k Tutorials & examples for Arm software development tools.
 - [ARM-software/TZ-TRNG](https://github.com/ARM-software/TZ-TRNG) topic:arm,true-number-generator pushed_at:2022-04 star:0.0k fork:0.0k TrustZone True Number Generator
 - [ARM-software/u-boot](https://github.com/ARM-software/u-boot) topic: pushed_at:2020-06 star:0.1k fork:0.1k Clone of upstream U-Boot repo with patches for Arm development boards
 - [ARM-software/vulkan-sdk](https://github.com/ARM-software/vulkan-sdk) topic: pushed_at:2021-04 star:0.2k fork:0.0k Github repository for the Vulkan SDK
@@ -113,7 +112,7 @@
 - [ARM-software/ml_style_transfer_post_processing_on_mobile](https://github.com/ARM-software/ml_style_transfer_post_processing_on_mobile) topic: pushed_at:2022-03 star:0.0k fork:0.0k Demo of using Vulkan and Arm Compute Library for real time ML-based graphics post processing
 - [ARM-software/nomali-model](https://github.com/ARM-software/nomali-model) topic: pushed_at:2016-01 star:0.0k fork:0.0k A simple Mali 6xx/7xx register interface model that doesn't do any rendering.
 - [ARM-software/odp-example-sisu](https://github.com/ARM-software/odp-example-sisu) topic: pushed_at:2016-09 star:0.0k fork:0.0k SISU - Simple GTP-U/IPsec application using ODP (OpenDataPlane)
-- [ARM-software/PAF](https://github.com/ARM-software/PAF) topic: pushed_at:2022-08 star:0.0k fork:0.0k PAF (the Physical Attack Framework) is a framework for analyzing physical attacks: fault injection and side channels
+- [ARM-software/PAF](https://github.com/ARM-software/PAF) topic: pushed_at:2022-09 star:0.0k fork:0.0k PAF (the Physical Attack Framework) is a framework for analyzing physical attacks: fault injection and side channels
 - [ARM-software/patrace](https://github.com/ARM-software/patrace) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [ARM-software/perfdoc](https://github.com/ARM-software/perfdoc) topic: pushed_at:2022-01 star:0.1k fork:0.0k A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
 - [ARM-software/sdc600-debugger](https://github.com/ARM-software/sdc600-debugger) topic: pushed_at:2021-03 star:0.0k fork:0.0k API, reference libraries and example application for Arm Secure Debug Channel (SDC-600)
@@ -144,15 +143,11 @@
 
 ## HTML
 
-- [ARM-software/coresight-wire-protocol](https://github.com/ARM-software/coresight-wire-protocol) topic: pushed_at:2020-08 star:0.0k fork:0.0k Coresight Wire Protocol (CSWP) Server/Client and streaming trace examples.
+- [ARM-software/coresight-wire-protocol](https://github.com/ARM-software/coresight-wire-protocol) topic: pushed_at:2022-09 star:0.0k fork:0.0k Coresight Wire Protocol (CSWP) Server/Client and streaming trace examples.
 
 ## Java
 
 - [ARM-software/cmsis-pack-eclipse](https://github.com/ARM-software/cmsis-pack-eclipse) topic: pushed_at:2022-06 star:0.1k fork:0.0k CMSIS-Pack Eclipse Plug-ins
-
-## JavaScript
-
-- [ARM-software/vscode-keil-studio-pack](https://github.com/ARM-software/vscode-keil-studio-pack) topic: pushed_at:2022-09 star:0.0k fork:0.0k Extension pack for all VS Code extensions
 
 ## Jupyter Notebook
 
@@ -190,6 +185,7 @@
 - [ARM-software/vscode-cmsis-csolution](https://github.com/ARM-software/vscode-cmsis-csolution) topic: pushed_at:2022-08 star:0.0k fork:0.0k Extension support for VS Code CMSIS Project Extension
 - [ARM-software/vscode-device-manager](https://github.com/ARM-software/vscode-device-manager) topic: pushed_at:2022-09 star:0.0k fork:0.0k Extension support for VS Code USB Device Extension
 - [ARM-software/vscode-embedded-debug](https://github.com/ARM-software/vscode-embedded-debug) topic: pushed_at:2022-08 star:0.0k fork:0.0k Extension support for VS Code Embedded Debug Extension
+- [ARM-software/vscode-keil-studio-pack](https://github.com/ARM-software/vscode-keil-studio-pack) topic: pushed_at:2022-09 star:0.0k fork:0.0k Extension pack for all VS Code extensions
 - [ARM-software/vscode-remote-build](https://github.com/ARM-software/vscode-remote-build) topic: pushed_at:2022-09 star:0.0k fork:0.0k Extension for remote build service
 
 ## PostScript
@@ -207,7 +203,7 @@
 - [ARM-software/core-benchmarks](https://github.com/ARM-software/core-benchmarks) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
 - [ARM-software/daq-server](https://github.com/ARM-software/daq-server) topic: pushed_at:2021-10 star:0.0k fork:0.0k Server for remote access to National Instruments DAQ devices
 - [ARM-software/devlib](https://github.com/ARM-software/devlib) topic: pushed_at:2022-08 star:0.0k fork:0.1k Library for interaction with and instrumentation of remote devices.
-- [ARM-software/LLVM-embedded-toolchain-for-Arm](https://github.com/ARM-software/LLVM-embedded-toolchain-for-Arm) topic: pushed_at:2022-08 star:0.2k fork:0.1k A project dedicated to build LLVM toolchain for 32-bit Arm embedded targets.
+- [ARM-software/LLVM-embedded-toolchain-for-Arm](https://github.com/ARM-software/LLVM-embedded-toolchain-for-Arm) topic: pushed_at:2022-09 star:0.2k fork:0.1k A project dedicated to build LLVM toolchain for 32-bit Arm embedded targets.
 - [ARM-software/ML-restructurable-activation-networks](https://github.com/ARM-software/ML-restructurable-activation-networks) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [ARM-software/mram_simulation_framework](https://github.com/ARM-software/mram_simulation_framework) topic:fokker-planck,llgs,mram,mtj,simulation,sllgs pushed_at:2021-10 star:0.0k fork:0.0k MRAM magnetization simulation framework. s-LLGS python and verilog-a solvers for transients simulation and  Fokker-planck equation solver for stochastic analysis
 - [ARM-software/perfsage](https://github.com/ARM-software/perfsage) topic: pushed_at:2021-10 star:0.0k fork:0.0k 

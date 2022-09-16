@@ -42,12 +42,12 @@
 ## C++
 
 - [baidu/AnyQ](https://github.com/baidu/AnyQ) topic:dialogue,dialogue-systems,faq,faq-question-answering-system,faq-system,faqbot,qa-system,question-answering,semantic-matching pushed_at:2020-11 star:2.4k fork:0.6k FAQ-based Question Answering System
-- [baidu/BaikalDB](https://github.com/baidu/BaikalDB) topic:baikaldb,database,htap,mysql,raft,sql pushed_at:2022-08 star:1.0k fork:0.1k BaikalDB, A Distributed HTAP Database.
+- [baidu/BaikalDB](https://github.com/baidu/BaikalDB) topic:baikaldb,database,htap,mysql,raft,sql pushed_at:2022-09 star:1.0k fork:0.1k BaikalDB, A Distributed HTAP Database.
 - [baidu/bfs](https://github.com/baidu/bfs) topic: pushed_at:2018-12 star:2.8k fork:0.6k The Baidu File System.
 - [baidu/bigflow](https://github.com/baidu/bigflow) topic: pushed_at:2022-01 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [baidu/boteye](https://github.com/baidu/boteye) topic: pushed_at:2019-04 star:0.2k fork:0.1k 
 - [baidu/boteye_driver](https://github.com/baidu/boteye_driver) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/braft](https://github.com/baidu/braft) topic:distributed-consensus,distributed-storage,raft,raft-consensus-algorithm,raft-cpp,raft-cxx,raft-protocol,state-machine-replication pushed_at:2022-07 star:3.3k fork:0.8k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
+- [baidu/braft](https://github.com/baidu/braft) topic:distributed-consensus,distributed-storage,raft,raft-consensus-algorithm,raft-cpp,raft-cxx,raft-protocol,state-machine-replication pushed_at:2022-09 star:3.3k fork:0.8k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
 - [baidu/common](https://github.com/baidu/common) topic: pushed_at:2017-06 star:0.1k fork:0.1k Common library
 - [baidu/Familia](https://github.com/baidu/Familia) topic:lda,nlp,sentence-lda,topic-modeling,topic-models,twe pushed_at:2021-07 star:2.6k fork:0.6k A Toolkit for Industrial Topic Modeling
 - [baidu/fast_rgf](https://github.com/baidu/fast_rgf) topic: pushed_at:2018-07 star:0.5k fork:0.1k Multi-core implementation of Regularized Greedy Forest
@@ -80,7 +80,7 @@
 
 ## Java
 
-- [baidu/brcc](https://github.com/baidu/brcc) topic:brcc,go,java,sdk-go,sdk-java pushed_at:2022-07 star:0.3k fork:0.1k BRCC（better remote config center）是一个分布式配置中心，用于统一管理应用服务的配置信息，避免各类资源散落在各个项目中，简化资源配置的维护成本。作为一种轻量级的解决方案，部署简单，同时支持多环境、多版本、多角色的资源管理，可以在不改变应用源码的情况下无缝切换和实时生效配置信息。
+- [baidu/brcc](https://github.com/baidu/brcc) topic:brcc,go,java,sdk-go,sdk-java pushed_at:2022-07 star:0.4k fork:0.1k BRCC（better remote config center）是一个分布式配置中心，用于统一管理应用服务的配置信息，避免各类资源散落在各个项目中，简化资源配置的维护成本。作为一种轻量级的解决方案，部署简单，同时支持多环境、多版本、多角色的资源管理，可以在不改变应用源码的情况下无缝切换和实时生效配置信息。
 - [baidu/brpc-java](https://github.com/baidu/brpc-java) topic:brpc,dubbo,grpc,high-performance,microservice,motan,netty,protobuf,push,rpc,server-push,spring-boot,spring-cloud pushed_at:2022-08 star:0.8k fork:0.3k Java implementation for Baidu RPC, multi-protocol & high performance RPC.
 - [baidu/Cafe](https://github.com/baidu/Cafe) topic: pushed_at:2014-05 star:0.4k fork:0.2k A powerful test framework for Android
 - [baidu/dlock](https://github.com/baidu/dlock) topic: pushed_at:2017-03 star:0.2k fork:0.1k An effective and reliable Distributed Lock
@@ -96,7 +96,7 @@
 - [baidu/terminator](https://github.com/baidu/terminator) topic: pushed_at:2016-11 star:0.1k fork:0.0k Service Virtualization
 - [baidu/titan-dex](https://github.com/baidu/titan-dex) topic: pushed_at:2022-05 star:0.2k fork:0.0k 
 - [baidu/titan-hotfix](https://github.com/baidu/titan-hotfix) topic: pushed_at:2022-05 star:0.1k fork:0.0k 
-- [baidu/uid-generator](https://github.com/baidu/uid-generator) topic: pushed_at:2022-06 star:4.8k fork:1.5k UniqueID generator
+- [baidu/uid-generator](https://github.com/baidu/uid-generator) topic: pushed_at:2022-06 star:4.8k fork:1.4k UniqueID generator
 
 ## JavaScript
 
@@ -145,7 +145,7 @@
 ## Python
 
 - [baidu/ARK](https://github.com/baidu/ARK) topic:framework,operation pushed_at:2021-05 star:0.1k fork:0.0k Development framework of intelligent operation
-- [baidu/baiduads-sdk](https://github.com/baidu/baiduads-sdk) topic:ads,baidu,sdk pushed_at:2022-08 star:0.0k fork:0.0k Baidu Ads API SDK
+- [baidu/baiduads-sdk](https://github.com/baidu/baiduads-sdk) topic:ads,baidu,sdk pushed_at:2022-09 star:0.0k fork:0.0k Baidu Ads API SDK
 - [baidu/broc](https://github.com/baidu/broc) topic: pushed_at:2017-12 star:0.1k fork:0.1k 
 - [baidu/CUP](https://github.com/baidu/CUP) topic:common-libraries,common-libs,library,python pushed_at:2022-02 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
 - [baidu/DDParser](https://github.com/baidu/DDParser) topic:chinese-dependency-parser,chinese-nlp,dependency-parser,dependency-parsing,python,syntax-parser pushed_at:2021-11 star:0.8k fork:0.1k 百度开源的依存句法分析系统

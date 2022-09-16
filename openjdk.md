@@ -18,11 +18,11 @@
 
 ## C++
 
-- [openjdk/jfx](https://github.com/openjdk/jfx) topic:java,javafx,openjdk,openjfx pushed_at:2022-09 star:1.8k fork:0.3k JavaFX mainline development
+- [openjdk/jfx](https://github.com/openjdk/jfx) topic:java,javafx,openjdk,openjfx pushed_at:2022-09 star:1.9k fork:0.3k JavaFX mainline development
 - [openjdk/jfx-sandbox](https://github.com/openjdk/jfx-sandbox) topic: pushed_at:2022-09 star:0.0k fork:0.0k OpenJFX Committers Sandbox
 - [openjdk/jfx11u](https://github.com/openjdk/jfx11u) topic:java,javafx,openjdk pushed_at:2022-09 star:0.0k fork:0.0k JavaFX 11 updates development
-- [openjdk/jfx12](https://github.com/openjdk/jfx12) topic: pushed_at:2021-01 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/openjfx/12-dev/rt/
-- [openjdk/jfx13](https://github.com/openjdk/jfx13) topic: pushed_at:2020-07 star:0.0k fork:0.0k Read-only mirror of https://hg.openjdk.java.net/openjfx/13-dev/rt
+- [openjdk/jfx12](https://github.com/openjdk/jfx12) topic: pushed_at:2021-01 star:0.0k fork:0.0k JavaFX 12.x : last released 2019-07-19
+- [openjdk/jfx13](https://github.com/openjdk/jfx13) topic: pushed_at:2020-07 star:0.0k fork:0.0k JavaFX 13.x : last released 2020-01-15
 - [openjdk/jfx17u](https://github.com/openjdk/jfx17u) topic: pushed_at:2022-09 star:0.0k fork:0.0k JavaFX 17 updates development
 
 ## CSS
@@ -45,8 +45,8 @@
 - [openjdk/doccheck](https://github.com/openjdk/doccheck) topic: pushed_at:2022-06 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/doccheck
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) topic: pushed_at:2021-04 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/friday-stats
 - [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2022-09 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
-- [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2022-09 star:0.2k fork:0.0k https://openjdk.org/projects/code-tools/jcstress
-- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2022-09 star:14.0k fork:3.9k JDK main-line development https://openjdk.org/projects/jdk
+- [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2022-09 star:0.3k fork:0.0k https://openjdk.org/projects/code-tools/jcstress
+- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2022-09 star:14.1k fork:3.9k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2022-09 star:0.0k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2022-09 star:0.1k fork:0.1k https://openjdk.org/projects/jdk-updates
@@ -67,7 +67,7 @@
 - [openjdk/jdk17u-dev](https://github.com/openjdk/jdk17u-dev) topic: pushed_at:2022-09 star:0.0k fork:0.1k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk18](https://github.com/openjdk/jdk18) topic: pushed_at:2022-03 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/18 released 2022-03-22
 - [openjdk/jdk18u](https://github.com/openjdk/jdk18u) topic: pushed_at:2022-08 star:0.0k fork:0.1k https://openjdk.org/projects/jdk-updates last released 2022-08-18
-- [openjdk/jdk19](https://github.com/openjdk/jdk19) topic: pushed_at:2022-08 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/19
+- [openjdk/jdk19](https://github.com/openjdk/jdk19) topic: pushed_at:2022-09 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/19
 - [openjdk/jdk19u](https://github.com/openjdk/jdk19u) topic: pushed_at:2022-09 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk6](https://github.com/openjdk/jdk6) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk6
 - [openjdk/jdk7](https://github.com/openjdk/jdk7) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk7 released 2011-07-28
@@ -96,7 +96,7 @@
 - [openjdk/nashorn](https://github.com/openjdk/nashorn) topic: pushed_at:2022-04 star:0.2k fork:0.0k https://openjdk.org/projects/nashorn
 - [openjdk/panama-foreign](https://github.com/openjdk/panama-foreign) topic: pushed_at:2022-09 star:0.2k fork:0.1k https://openjdk.org/projects/panama
 - [openjdk/panama-vector](https://github.com/openjdk/panama-vector) topic: pushed_at:2022-09 star:0.0k fork:0.0k https://openjdk.org/projects/panama
-- [openjdk/playground](https://github.com/openjdk/playground) topic: pushed_at:2022-08 star:0.0k fork:0.0k Repository for experimenting. May be synced and/or reset at any time without notice.
+- [openjdk/playground](https://github.com/openjdk/playground) topic: pushed_at:2022-09 star:0.0k fork:0.0k Repository for experimenting. May be synced and/or reset at any time without notice.
 - [openjdk/portola](https://github.com/openjdk/portola) topic: pushed_at:2022-03 star:0.0k fork:0.0k https://openjdk.org/projects/portola
 - [openjdk/riscv-port](https://github.com/openjdk/riscv-port) topic: pushed_at:2022-09 star:0.0k fork:0.0k https://openjdk.org/projects/riscv-port
 - [openjdk/shenandoah](https://github.com/openjdk/shenandoah) topic: pushed_at:2022-09 star:0.1k fork:0.0k https://openjdk.org/projects/shenandoah
