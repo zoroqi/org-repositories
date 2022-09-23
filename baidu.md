@@ -81,18 +81,18 @@
 ## Java
 
 - [baidu/brcc](https://github.com/baidu/brcc) topic:brcc,go,java,sdk-go,sdk-java pushed_at:2022-07 star:0.4k fork:0.1k BRCC（better remote config center）是一个分布式配置中心，用于统一管理应用服务的配置信息，避免各类资源散落在各个项目中，简化资源配置的维护成本。作为一种轻量级的解决方案，部署简单，同时支持多环境、多版本、多角色的资源管理，可以在不改变应用源码的情况下无缝切换和实时生效配置信息。
-- [baidu/brpc-java](https://github.com/baidu/brpc-java) topic:brpc,dubbo,grpc,high-performance,microservice,motan,netty,protobuf,push,rpc,server-push,spring-boot,spring-cloud pushed_at:2022-08 star:0.8k fork:0.3k Java implementation for Baidu RPC, multi-protocol & high performance RPC.
 - [baidu/Cafe](https://github.com/baidu/Cafe) topic: pushed_at:2014-05 star:0.4k fork:0.2k A powerful test framework for Android
 - [baidu/dlock](https://github.com/baidu/dlock) topic: pushed_at:2017-03 star:0.2k fork:0.1k An effective and reliable Distributed Lock
 - [baidu/Elasticsearch](https://github.com/baidu/Elasticsearch) topic: pushed_at:2018-07 star:0.4k fork:0.1k Baidu Elasticsearch
 - [baidu/GPT](https://github.com/baidu/GPT) topic: pushed_at:2020-04 star:0.1k fork:0.0k 
-- [baidu/iotcore-sdk-java](https://github.com/baidu/iotcore-sdk-java) topic: pushed_at:2021-06 star:0.0k fork:0.0k Java SDK  for baidu IoT Core service 
+- [baidu/iotcore-sdk-java](https://github.com/baidu/iotcore-sdk-java) topic: pushed_at:2022-09 star:0.0k fork:0.0k Java SDK  for baidu IoT Core service 
 - [baidu/ipipe-agent](https://github.com/baidu/ipipe-agent) topic: pushed_at:2020-10 star:0.0k fork:0.0k 
 - [baidu/Jprotobuf-rpc-socket](https://github.com/baidu/Jprotobuf-rpc-socket) topic: pushed_at:2022-07 star:0.5k fork:0.2k Protobuf RPC是一种基于TCP协议的二进制RPC通信协议的Java实现
 - [baidu/OASP](https://github.com/baidu/OASP) topic: pushed_at:2017-11 star:0.0k fork:0.0k OASP (Online App Status Protocol)
 - [baidu/smartapp-openapi-java](https://github.com/baidu/smartapp-openapi-java) topic: pushed_at:2022-06 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for java，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
 - [baidu/speech-samples](https://github.com/baidu/speech-samples) topic: pushed_at:2018-02 star:0.0k fork:0.0k 百度语音示例
-- [baidu/spring-cloud-formula](https://github.com/baidu/spring-cloud-formula) topic: pushed_at:2021-06 star:0.1k fork:0.0k 
+- [baidu/spring-cloud-baidu](https://github.com/baidu/spring-cloud-baidu) topic: pushed_at:2022-09 star:0.1k fork:0.0k 
+- [baidu/starlight](https://github.com/baidu/starlight) topic:brpc,dubbo,grpc,high-performance,microservice,motan,netty,protobuf,push,rpc,server-push,spring-boot,spring-cloud pushed_at:2022-09 star:0.8k fork:0.3k Java implementation for Baidu RPC, multi-protocol & high performance RPC.
 - [baidu/terminator](https://github.com/baidu/terminator) topic: pushed_at:2016-11 star:0.1k fork:0.0k Service Virtualization
 - [baidu/titan-dex](https://github.com/baidu/titan-dex) topic: pushed_at:2022-05 star:0.2k fork:0.0k 
 - [baidu/titan-hotfix](https://github.com/baidu/titan-hotfix) topic: pushed_at:2022-05 star:0.1k fork:0.0k 
@@ -124,7 +124,7 @@
 
 ## Kotlin
 
-- [baidu/Rubik](https://github.com/baidu/Rubik) topic: pushed_at:2022-08 star:0.0k fork:0.0k An Android platform component management tool chain, based on Kotlin language.
+- [baidu/Rubik](https://github.com/baidu/Rubik) topic: pushed_at:2022-08 star:0.1k fork:0.0k An Android platform component management tool chain, based on Kotlin language.
 
 ## Others
 
@@ -165,11 +165,11 @@
 
 ## Swift
 
-- [baidu/CarbonGraph](https://github.com/baidu/CarbonGraph) topic: pushed_at:2022-07 star:0.2k fork:0.0k A Swift dependency injection / lookup framework for iOS
+- [baidu/CarbonGraph](https://github.com/baidu/CarbonGraph) topic:component-architecture,dependency-injection,di-container,dsl,ioc,ioc-container,ios,objective-c,swift pushed_at:2022-07 star:0.2k fork:0.0k A Swift dependency injection / lookup framework for iOS
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) topic:frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2022-09 star:11.9k fork:1.7k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) topic:frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2022-09 star:12.0k fork:1.7k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) topic:chrome,chromium,debug,devtools,extension,san pushed_at:2021-09 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) topic:san,ssr,ssr-target-js pushed_at:2022-08 star:0.0k fork:0.0k San SSR framework and utils
 

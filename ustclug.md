@@ -70,7 +70,7 @@
 
 ## Python
 
-- [ustclug/hackergame](https://github.com/ustclug/hackergame) topic: pushed_at:2022-08 star:0.0k fork:0.0k Hackergame platform for 2018 and beyond
+- [ustclug/hackergame](https://github.com/ustclug/hackergame) topic: pushed_at:2022-09 star:0.0k fork:0.0k Hackergame platform for 2018 and beyond
 - [ustclug/hackergame2017](https://github.com/ustclug/hackergame2017) topic: pushed_at:2017-10 star:0.0k fork:0.0k 
 - [ustclug/library](https://github.com/ustclug/library) topic: pushed_at:2017-11 star:0.0k fork:0.0k LUG Library
 - [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) topic: pushed_at:2021-12 star:0.0k fork:0.0k LUG VPN 申请系统
@@ -102,7 +102,7 @@
 - [ustclug/rubygems-mirror](https://github.com/ustclug/rubygems-mirror) topic: pushed_at:2017-02 star:0.0k fork:0.0k 💀 rubugems mirror tool (deprecated)
 - [ustclug/simple-pxe](https://github.com/ustclug/simple-pxe) topic: pushed_at:2022-03 star:0.0k fork:0.0k 便宜，快速，品质尚可
 - [ustclug/telegram-web](https://github.com/ustclug/telegram-web) topic:telegram-web pushed_at:2017-11 star:0.0k fork:0.0k 💀Telegram Web Client (deprecated)
-- [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) topic:docker-image,git,hacktoberfest,lftp,rsync pushed_at:2022-07 star:0.0k fork:0.0k Docker images used by ustcmirror :rocket:
+- [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) topic:docker-image,git,hacktoberfest,lftp,rsync pushed_at:2022-09 star:0.0k fork:0.0k Docker images used by ustcmirror :rocket:
 
 
 ## License

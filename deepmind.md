@@ -33,7 +33,7 @@
 - [deepmind/multidim-image-augmentation](https://github.com/deepmind/multidim-image-augmentation) topic: pushed_at:2021-07 star:0.1k fork:0.0k This package provides TensorFlow Ops for multidimensional volumetric image augmentation.
 - [deepmind/open_spiel](https://github.com/deepmind/open_spiel) topic:cpp,games,multiagent,python,reinforcement-learning pushed_at:2022-09 star:3.3k fork:0.7k OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
 - [deepmind/reverb](https://github.com/deepmind/reverb) topic: pushed_at:2022-09 star:0.6k fork:0.1k Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research
-- [deepmind/s6](https://github.com/deepmind/s6) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
+- [deepmind/s6](https://github.com/deepmind/s6) topic: pushed_at:2022-09 star:0.1k fork:0.0k 
 - [deepmind/spiral](https://github.com/deepmind/spiral) topic: pushed_at:2019-10 star:0.3k fork:0.0k We provide a pre-trained model for unconditional 19-step generation of CelebA-HQ images
 - [deepmind/streetlearn](https://github.com/deepmind/streetlearn) topic: pushed_at:2020-07 star:0.2k fork:0.1k A C++/Python implementation of the StreetLearn environment based on images from Street View, as well as a TensorFlow implementation of goal-driven navigation agents solving the task published in “Learning to Navigate in Cities Without a Map”, NeurIPS 2018
 - [deepmind/xitari](https://github.com/deepmind/xitari) topic: pushed_at:2017-10 star:0.2k fork:0.1k This is the 0.4 release of the Arcade Learning Environment (ALE), a platform designed for AI research. ALE is based on Stella, an Atari 2600 VCS emulator.
@@ -60,7 +60,7 @@
 - [deepmind/disdain](https://github.com/deepmind/disdain) topic: pushed_at:2022-06 star:0.0k fork:0.0k A self-contained JAX implementation of DIScriminator DisAgreement INtrinsic Reward (DISDAIN).
 - [deepmind/dsprites-dataset](https://github.com/deepmind/dsprites-dataset) topic:beta-vae,dataset,disentanglement,dsprites,vae pushed_at:2021-01 star:0.4k fork:0.1k Dataset to assess the disentanglement properties of unsupervised learning methods
 - [deepmind/EDDICT](https://github.com/deepmind/EDDICT) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
-- [deepmind/educational](https://github.com/deepmind/educational) topic: pushed_at:2022-07 star:1.1k fork:0.1k 
+- [deepmind/educational](https://github.com/deepmind/educational) topic: pushed_at:2022-09 star:1.1k fork:0.1k 
 - [deepmind/HAI_selective_prediction](https://github.com/deepmind/HAI_selective_prediction) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
 - [deepmind/hcmd_dai](https://github.com/deepmind/hcmd_dai) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
 - [deepmind/informed_adversary_mnist_reconstruction](https://github.com/deepmind/informed_adversary_mnist_reconstruction) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
@@ -130,7 +130,7 @@
 - [deepmind/deep-verify](https://github.com/deepmind/deep-verify) topic: pushed_at:2019-11 star:0.0k fork:0.0k 
 - [deepmind/detcon](https://github.com/deepmind/detcon) topic: pushed_at:2022-04 star:0.1k fork:0.0k 
 - [deepmind/diplomacy](https://github.com/deepmind/diplomacy) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
-- [deepmind/distrax](https://github.com/deepmind/distrax) topic: pushed_at:2022-08 star:0.3k fork:0.0k 
+- [deepmind/distrax](https://github.com/deepmind/distrax) topic: pushed_at:2022-09 star:0.4k fork:0.0k 
 - [deepmind/distribution_shift_framework](https://github.com/deepmind/distribution_shift_framework) topic:artificial-intelligence,deep-learning,distribution-shift,jax,machine-learning,neural-networks pushed_at:2022-03 star:0.1k fork:0.0k This repository contains the code of the distribution shift framework presented in A Fine-Grained Analysis on Distribution Shift (Wiles et al., 2022).
 - [deepmind/dks](https://github.com/deepmind/dks) topic:artificial-intelligence,deep-learning,jax,machine-learning,neural-networks,neural-tangent-kernel,pytorch,tensorflow pushed_at:2022-08 star:0.0k fork:0.0k Multi-framework implementation of Deep Kernel Shaping and Tailored Activation Transformations, which are methods that modify neural network models (and their initializations) to make them easier to train.
 - [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) topic:deep-learning,deep-neural-networks,jax,machine-learning,neural-networks pushed_at:2022-09 star:2.2k fork:0.2k JAX-based neural network library
