@@ -248,7 +248,7 @@
 - [opencollective/apollo-universal-starter-kit](https://github.com/opencollective/apollo-universal-starter-kit) topic: pushed_at:2017-11 star:0.0k fork:0.0k Apollo 2 Universal Starter Kit — GraphQL React JavaScript app boilerplate for Mobile, Server and Web where code for all platforms built with Webpack to enable max code reuse, stack: Apollo, GraphQL, React 16, React Native, Expo, Express, Knex, SQLite, Twitter Bootstrap, Babel, Webpack
 - [opencollective/asyncapi](https://github.com/opencollective/asyncapi) topic: pushed_at:2019-02 star:0.0k fork:0.0k The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
 - [opencollective/atom](https://github.com/opencollective/atom) topic: pushed_at:2018-07 star:0.0k fork:0.0k Atom file-specific icons for improved visual grepping.
-- [opencollective/atom-latex](https://github.com/opencollective/atom-latex) topic: pushed_at:2019-07 star:0.0k fork:0.0k Compile LaTeX or knitr documents from within Atom
+- [opencollective/atom-latex](https://github.com/opencollective/atom-latex) topic: pushed_at:2022-09 star:0.0k fork:0.0k Compile LaTeX or knitr documents from within Atom
 - [opencollective/babel](https://github.com/opencollective/babel) topic: pushed_at:2019-01 star:0.0k fork:0.0k 🐠 Babel is a compiler for writing next generation JavaScript.
 - [opencollective/babel-preset-opencollective](https://github.com/opencollective/babel-preset-opencollective) topic: pushed_at:2021-02 star:0.0k fork:0.0k 
 - [opencollective/badgen-service](https://github.com/opencollective/badgen-service) topic: pushed_at:2019-02 star:0.0k fork:0.0k Fast svg badge generating service
@@ -367,7 +367,7 @@
 - [opencollective/opencollective-giftcards-generator](https://github.com/opencollective/opencollective-giftcards-generator) topic: pushed_at:2020-04 star:0.0k fork:0.0k Simple app to generate read-to-print Open Collective gift cards
 - [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) topic: pushed_at:2022-09 star:0.0k fork:0.0k Open Collective's Image Server. For badges, banners, avatar, etc ...
 - [opencollective/opencollective-jobs](https://github.com/opencollective/opencollective-jobs) topic: pushed_at:2018-05 star:0.0k fork:0.0k 
-- [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) topic:gr,graphql,invoices-pdf,nodejs,opencollective pushed_at:2022-08 star:0.0k fork:0.0k Open Collective's PDF Server
+- [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) topic:gr,graphql,invoices-pdf,nodejs,opencollective pushed_at:2022-09 star:0.0k fork:0.0k Open Collective's PDF Server
 - [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) topic: pushed_at:2022-09 star:0.1k fork:0.0k Prompt your users to donate to your collective after `npm install`
 - [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) topic: pushed_at:2022-09 star:0.0k fork:0.0k Open Collective's REST API legacy, v1, and v2!
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) topic: pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
@@ -487,7 +487,7 @@
 
 ## Others
 
-- [opencollective/.github](https://github.com/opencollective/.github) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
+- [opencollective/.github](https://github.com/opencollective/.github) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [opencollective/11ty-website](https://github.com/opencollective/11ty-website) topic: pushed_at:2021-01 star:0.0k fork:0.0k Documentation site for the Eleventy static site generator.
 - [opencollective/1password-teams-open-source](https://github.com/opencollective/1password-teams-open-source) topic: pushed_at:2018-04 star:0.0k fork:0.0k Get a free 1Password Teams membership for your open source project
 - [opencollective/Acid](https://github.com/opencollective/Acid) topic: pushed_at:2019-09 star:0.0k fork:0.0k A high speed C++17 Vulkan game engine

@@ -47,8 +47,8 @@
 - [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) topic: pushed_at:2022-04 star:0.1k fork:0.0k RISC-V Profiles and Platform Specification
 - [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) topic: pushed_at:2022-08 star:0.0k fork:0.0k RISC-V Architecture Profiles
 - [riscv/riscv-semihosting-spec](https://github.com/riscv/riscv-semihosting-spec) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
-- [riscv/riscv-sqosid](https://github.com/riscv/riscv-sqosid) topic: pushed_at:2022-09 star:0.0k fork:0.0k This repo will hold the specification for the proposed QoS ID extension being pursued on the fast-track process.
-- [riscv/riscv-svadu](https://github.com/riscv/riscv-svadu) topic: pushed_at:2022-09 star:0.0k fork:0.0k The Ssvhadu extension adds support and CSR control for hardware updating of PTE A/D bits for single-stage address translation. The Shvhadu extension adds support and CSR controls for hardware updating of PTE A/D bits for two-stage (G-stage and VS-stage) address translation.
+- [riscv/riscv-ssqosid](https://github.com/riscv/riscv-ssqosid) topic: pushed_at:2022-09 star:0.0k fork:0.0k This repo will hold the specification for the proposed QoS ID extension being pursued on the fast-track process.
+- [riscv/riscv-svadu](https://github.com/riscv/riscv-svadu) topic: pushed_at:2022-09 star:0.0k fork:0.0k The Ssadu extension adds support and CSR control for hardware updating of PTE A/D bits.
 - [riscv/riscv-tee](https://github.com/riscv/riscv-tee) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [riscv/riscv-zawrs](https://github.com/riscv/riscv-zawrs) topic: pushed_at:2022-09 star:0.0k fork:0.0k The repo will be used to hold the draft Zawrs (fast-track) extension and to make releases for reviews. 
 
