@@ -46,7 +46,7 @@
 - [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) topic: pushed_at:2022-09 star:0.1k fork:0.1k Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
 - [ARM-software/CMSIS-Driver_Validation](https://github.com/ARM-software/CMSIS-Driver_Validation) topic: pushed_at:2022-09 star:0.0k fork:0.0k Repository containing validation components for microcontroller peripheral driver implementing the CMSIS-Driver API specification.
 - [ARM-software/CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) topic:cortex-a,cortex-m,dsp,embedded,fft,filter,fixed-point-arithmetic,matrix,ml,numpy pushed_at:2022-09 star:0.1k fork:0.0k CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
-- [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) topic: pushed_at:2022-07 star:0.4k fork:0.1k FreeRTOS adaptation for CMSIS-RTOS Version 2
+- [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) topic: pushed_at:2022-09 star:0.4k fork:0.1k FreeRTOS adaptation for CMSIS-RTOS Version 2
 - [ARM-software/CMSIS-mbedTLS](https://github.com/ARM-software/CMSIS-mbedTLS) topic: pushed_at:2022-08 star:0.0k fork:0.0k CMSIS Pack for the mbedTLS software stack
 - [ARM-software/CMSIS-Musca-S1](https://github.com/ARM-software/CMSIS-Musca-S1) topic: pushed_at:2021-10 star:0.0k fork:0.0k Repository of CMSIS Software Pack for Musca-S1 test-chip and board.
 - [ARM-software/CMSIS-RTOS2_Validation](https://github.com/ARM-software/CMSIS-RTOS2_Validation) topic: pushed_at:2022-09 star:0.0k fork:0.0k Validation test suite for CMSIS-RTOS2 API implementations using Arm Virtual Hardware (AVH).
@@ -148,13 +148,13 @@
 
 ## Java
 
-- [ARM-software/cmsis-pack-eclipse](https://github.com/ARM-software/cmsis-pack-eclipse) topic: pushed_at:2022-06 star:0.1k fork:0.0k CMSIS-Pack Eclipse Plug-ins
+- [ARM-software/cmsis-pack-eclipse](https://github.com/ARM-software/cmsis-pack-eclipse) topic: pushed_at:2022-09 star:0.1k fork:0.0k CMSIS-Pack Eclipse Plug-ins
 
 ## Jupyter Notebook
 
 - [ARM-software/fast-probabilistic-models](https://github.com/ARM-software/fast-probabilistic-models) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
 - [ARM-software/keyword-transformer](https://github.com/ARM-software/keyword-transformer) topic:keyword-spotting,machine-learning,transformer pushed_at:2022-04 star:0.1k fork:0.0k 
-- [ARM-software/lisa](https://github.com/ARM-software/lisa) topic: pushed_at:2022-08 star:0.2k fork:0.1k Linux Integrated System Analysis
+- [ARM-software/lisa](https://github.com/ARM-software/lisa) topic: pushed_at:2022-09 star:0.2k fork:0.1k Linux Integrated System Analysis
 - [ARM-software/mango](https://github.com/ARM-software/mango) topic:bayesian-optimization,blackbox-optimization,cluster-deployment,gaussian-processes,hyperparameter-optimization,hyperparameter-tuning,keras-examples,kubernetes-deployment,machine-learning,neural-network,neural-networks,parallel-computing,production-system,pytorch-compatible,scipy-compatible,sklearn-compatible,tensorflow-examples,tuning-parameters pushed_at:2022-08 star:0.1k fork:0.0k Parallel Hyperparameter Tuning in Python
 - [ARM-software/ML-zoo](https://github.com/ARM-software/ML-zoo) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
 

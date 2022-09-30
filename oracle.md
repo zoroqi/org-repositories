@@ -47,7 +47,7 @@
 
 ## C
 
-- [oracle/adaptivemm](https://github.com/oracle/adaptivemm) topic:memory,performance pushed_at:2022-06 star:0.0k fork:0.0k adaptivemm - A userspace daemon for proactive free memory management
+- [oracle/adaptivemm](https://github.com/oracle/adaptivemm) topic:memory,performance pushed_at:2022-09 star:0.0k fork:0.0k adaptivemm - A userspace daemon for proactive free memory management
 - [oracle/dtrace-linux-kernel](https://github.com/oracle/dtrace-linux-kernel) topic:dtrace,linux,linux-kernel pushed_at:2022-08 star:0.0k fork:0.0k Additional kernel tracing features merged with recent Linux kernel releases. DTrace makes use of these additional features.
 - [oracle/dtrace-utils](https://github.com/oracle/dtrace-utils) topic:dtrace,linux,linux-kernel,tracing pushed_at:2022-09 star:0.1k fork:0.0k DTrace-utils contains the DTrace port to Linux
 - [oracle/fdr](https://github.com/oracle/fdr) topic:debugfs,diagnostics,ftrace,observability,static-probes,trace-cmd pushed_at:2021-06 star:0.0k fork:0.0k Flight Data Recorder to enable "always on" diagnosability & observability
@@ -59,7 +59,7 @@
 - [oracle/odpi](https://github.com/oracle/odpi) topic: pushed_at:2022-09 star:0.2k fork:0.1k ODPI-C: Oracle Database Programming Interface for Drivers and Applications
 - [oracle/oracle-nosql-drivers](https://github.com/oracle/oracle-nosql-drivers) topic:oracle-nosql,oracle-nosql-database pushed_at:2016-04 star:0.0k fork:0.0k Connection drivers for Oracle NoSQL Database
 - [oracle/python-cx_Oracle](https://github.com/oracle/python-cx_Oracle) topic:database-connector,db-connection,odpi,oracle-database,oracle-db,python,python-library,python-module pushed_at:2022-06 star:0.8k fork:0.3k Python interface to Oracle Database now superseded by python-oracledb
-- [oracle/qemu](https://github.com/oracle/qemu) topic:qemu,virtualization pushed_at:2022-08 star:0.0k fork:0.0k QEMU git Oracle repository
+- [oracle/qemu](https://github.com/oracle/qemu) topic:qemu,virtualization pushed_at:2022-09 star:0.0k fork:0.0k QEMU git Oracle repository
 - [oracle/rdma-core](https://github.com/oracle/rdma-core) topic:linux,rdma pushed_at:2022-08 star:0.0k fork:0.0k RDMA core userspace libraries and daemons
 - [oracle/rds-tools](https://github.com/oracle/rds-tools) topic: pushed_at:2021-12 star:0.0k fork:0.0k Reliable Datagram Sockets Tools -  rds-ping, rds-info, rds-stress
 - [oracle/rwloadsim](https://github.com/oracle/rwloadsim) topic:bash-script,benchmark-framework,database,gnuplot-graphs,performance,performance-testing,plsql,simulation,sql,workload pushed_at:2022-09 star:0.0k fork:0.0k RWP*Load Simulator - your tool for scripting, simulation and much more. Like having a bit of bash and SQL, a nip of C or Java, a dash of awk, a grain of sed plus drops of secret sauce in one single tool.  See https://blogs.oracle.com/database/rwploadsim-oracle-db-performance-simluator for the announcement on the Oracle database blog.
@@ -70,7 +70,7 @@
 
 - [oracle/coherence-dotnet-extend-client](https://github.com/oracle/coherence-dotnet-extend-client) topic:caching,cloud,clustering,coherence,data-grid,distributed,dotnet,hpc,imdg,in-memory,kv-store,microservices,polyglot,scalability pushed_at:2022-09 star:0.0k fork:0.0k Coherence .NET client library
 - [oracle/dotnet-db-samples](https://github.com/oracle/dotnet-db-samples) topic:asp-net,autonomous-database,c-sharp,dotnet,odp,oracle,oracle-database,oracle-db,oracle-developer,oracle-providers,oracle-xe,tutorial,visual-studio pushed_at:2022-09 star:0.3k fork:0.2k .NET code samples for Oracle database developers
-- [oracle/nosql-dotnet-sdk](https://github.com/oracle/nosql-dotnet-sdk) topic:dotnet,nosql,nosql-database,oracle pushed_at:2022-07 star:0.0k fork:0.0k A .NET SDK for Oracle NoSQL Database
+- [oracle/nosql-dotnet-sdk](https://github.com/oracle/nosql-dotnet-sdk) topic:dotnet,nosql,nosql-database,oracle pushed_at:2022-09 star:0.0k fork:0.0k A .NET SDK for Oracle NoSQL Database
 - [oracle/oci-dotnet-sdk](https://github.com/oracle/oci-dotnet-sdk) topic:cloud,csharp,dotnet,oracle,oracle-cloud,oracle-cloud-infrastructure,sdk pushed_at:2022-09 star:0.0k fork:0.0k Oracle Cloud Infrastructure SDK for .NET
 - [oracle/oci-powershell-modules](https://github.com/oracle/oci-powershell-modules) topic:cloud,csharp,dotnet,oci,oracle,oracle-cloud,oracle-cloud-infrastructure,powershell,powershell-modules pushed_at:2022-09 star:0.0k fork:0.0k Oracle Cloud Infrastructure Modules for PowerShell
 
@@ -140,7 +140,7 @@
 - [oracle/cloud-asset-fusion-unifiedtasklist-sample](https://github.com/oracle/cloud-asset-fusion-unifiedtasklist-sample) topic:ateam pushed_at:2020-12 star:0.0k fork:0.0k Sample showing how you can create a unified tasklist using VBCS and oracle saas services
 - [oracle/cloudtestdrive](https://github.com/oracle/cloudtestdrive) topic: pushed_at:2022-09 star:0.1k fork:0.2k 
 - [oracle/data-warehouse-etl-offload-samples](https://github.com/oracle/data-warehouse-etl-offload-samples) topic: pushed_at:2020-01 star:0.0k fork:0.0k The Data Warehouse & ETL Offload Code Samples provide sample code artifacts to support data warehousing and ETL offload solution patterns in the Oracle Public Cloud and in an Oracle Cloud at Customer deployment.
-- [oracle/hospitality-api-docs](https://github.com/oracle/hospitality-api-docs) topic:hospitality,oas2,postman-collection,rest-api pushed_at:2022-09 star:0.0k fork:0.0k This repository stores REST API specifications and accompanying Postman collections for Oracle Hospitality APIs.
+- [oracle/hospitality-api-docs](https://github.com/oracle/hospitality-api-docs) topic:hospitality,oas2,postman-collection,rest-api pushed_at:2022-09 star:0.1k fork:0.0k This repository stores REST API specifications and accompanying Postman collections for Oracle Hospitality APIs.
 - [oracle/kryo](https://github.com/oracle/kryo) topic: pushed_at:2021-04 star:0.0k fork:0.0k Java binary serialization and cloning: fast, efficient, automatic
 - [oracle/learning-library](https://github.com/oracle/learning-library) topic:cloud,learning-library,oracle,oracle-cloud-services,workshop pushed_at:2022-09 star:0.6k fork:1.1k Learning Material for Oracle Technologies
 - [oracle/nosql-examples](https://github.com/oracle/nosql-examples) topic:api,awesome,cloud,database,examples,functions,java,node-js,nosql,nosql-database,oci,on-premise,oracle,oracle-cloud,oracle-nosql-database,python,spring,spring-data,stream,terraform pushed_at:2022-09 star:0.0k fork:0.0k This is a top level repository for code examples related to the use of Oracle NoSQL Database.
@@ -177,7 +177,7 @@
 - [oracle/graal](https://github.com/oracle/graal) topic:c,java,javascript,polyglot,python,r,ruby,vm pushed_at:2022-09 star:17.5k fork:1.4k GraalVM: Run Programs Faster Anywhere :rocket:
 - [oracle/graalvm-reachability-metadata](https://github.com/oracle/graalvm-reachability-metadata) topic: pushed_at:2022-09 star:0.1k fork:0.0k Repository which contains community-driven collection of GraalVM reachability metadata for open-source libraries.
 - [oracle/heatwave](https://github.com/oracle/heatwave) topic:analytics,benchmarking,chbench,cloud,heatwave,mysql,oracle pushed_at:2022-09 star:0.0k fork:0.0k SQL scripts, instructions for MySQL HeatWave benchmarking
-- [oracle/json-in-db](https://github.com/oracle/json-in-db) topic:json,oracle-database pushed_at:2022-07 star:0.1k fork:0.0k Oracle Database JSON Examples
+- [oracle/json-in-db](https://github.com/oracle/json-in-db) topic:json,oracle-database pushed_at:2022-09 star:0.1k fork:0.0k Oracle Database JSON Examples
 - [oracle/maxymiser-intellij-plugin](https://github.com/oracle/maxymiser-intellij-plugin) topic:intellij-idea,java,maxymiser,webstorm pushed_at:2019-10 star:0.0k fork:0.0k Oracle Maxymiser plugin for IntelliJ IDEA platform
 - [oracle/mobile-persistence](https://github.com/oracle/mobile-persistence) topic:oracle-maf pushed_at:2016-10 star:0.0k fork:0.0k NO LONGER MAINTAINED. AMPA is now part of Oracle MAF 2.3.1
 - [oracle/nb-javac](https://github.com/oracle/nb-javac) topic:nb-javac-netbeans-javac pushed_at:2022-01 star:0.0k fork:0.0k nb-javac is the Java compiler plugin used by the Apache NetBeans Java Editor
@@ -205,7 +205,7 @@
 - [oracle/tribuo](https://github.com/oracle/tribuo) topic:classification,clustering,deep-learning,java,machine-learning,ml,nlp,regression pushed_at:2022-09 star:1.1k fork:0.2k Tribuo - A Java machine learning library
 - [oracle/trufflex86](https://github.com/oracle/trufflex86) topic:graalvm,truffle,x86 pushed_at:2019-10 star:0.0k fork:0.0k x86 interpreter based on GraalVM/Truffle
 - [oracle/visualvm](https://github.com/oracle/visualvm) topic:java,monitoring-tool,performance,profiler,visualvm pushed_at:2022-09 star:2.3k fork:0.3k VisualVM is an All-in-One Java Troubleshooting Tool
-- [oracle/weblogic-image-tool](https://github.com/oracle/weblogic-image-tool) topic:docker,docker-image,image-builder,kubernetes,oracle-weblogic-image,weblogic,weblogic-server pushed_at:2022-09 star:0.1k fork:0.0k WebLogic Image Tool
+- [oracle/weblogic-image-tool](https://github.com/oracle/weblogic-image-tool) topic:docker,docker-image,image-builder,kubernetes,oracle-weblogic-image,weblogic,weblogic-server pushed_at:2022-09 star:0.0k fork:0.0k WebLogic Image Tool
 - [oracle/weblogic-kubernetes-operator](https://github.com/oracle/weblogic-kubernetes-operator) topic:kubernetes,operator,weblogic,weblogic-server pushed_at:2022-09 star:0.2k fork:0.2k WebLogic Kubernetes Operator
 - [oracle/weblogic-logging-exporter](https://github.com/oracle/weblogic-logging-exporter) topic:elasticsearch,exporter,kibana,logging,logs,weblogic pushed_at:2022-09 star:0.0k fork:0.0k Export server logs from WebLogic Server in JSON format to Elasticsearch. 
 - [oracle/weblogic-monitoring-exporter](https://github.com/oracle/weblogic-monitoring-exporter) topic:monitoring,prometheus,weblogic pushed_at:2022-09 star:0.1k fork:0.1k WebLogic Monitoring Exporter exposes metrics and monitoring data through REST APIs for consumption by other tools (e.g. Prometheus)
@@ -249,7 +249,7 @@
 ## Jupyter Notebook
 
 - [oracle/macest](https://github.com/oracle/macest) topic:confidence-estimation,data-science,machine-learning,python pushed_at:2022-06 star:0.1k fork:0.0k Model Agnostic Confidence Estimator (MACEST) - A Python library for calibrating Machine Learning models' confidence scores
-- [oracle/oraclesolaris-contrib](https://github.com/oracle/oraclesolaris-contrib) topic:jupyter-notebook,postman,python,rest-api,solaris,webui pushed_at:2022-04 star:0.0k fork:0.0k oraclesolaris-contrib is a repository focussed on the Oracle Solaris 11.4 StatsStore, using methodologies like REST to connect to Oracle Solaris 11.4 and the new features being introduced in Oracle Solaris 11.4 OS.
+- [oracle/oraclesolaris-contrib](https://github.com/oracle/oraclesolaris-contrib) topic:jupyter-notebook,postman,python,rest-api,solaris,webui pushed_at:2022-09 star:0.0k fork:0.0k oraclesolaris-contrib is a repository focussed on the Oracle Solaris 11.4 StatsStore, using methodologies like REST to connect to Oracle Solaris 11.4 and the new features being introduced in Oracle Solaris 11.4 OS.
 
 ## Makefile
 
@@ -302,7 +302,7 @@
 - [oracle/dbt-oracle](https://github.com/oracle/dbt-oracle) topic:autonomous-database,data-build-tool,dbt,oracle pushed_at:2022-09 star:0.0k fork:0.0k dbt (data build tool) adapter for the Oracle database
 - [oracle/graalpython](https://github.com/oracle/graalpython) topic: pushed_at:2022-09 star:0.9k fork:0.1k A Python 3 implementation built on GraalVM
 - [oracle/graphpipe-py](https://github.com/oracle/graphpipe-py) topic: pushed_at:2018-10 star:0.0k fork:0.0k GraphPipe for python
-- [oracle/helm-charts](https://github.com/oracle/helm-charts) topic:helm-charts,oracle pushed_at:2022-07 star:0.0k fork:0.0k Helm charts for Oracle commercial products
+- [oracle/helm-charts](https://github.com/oracle/helm-charts) topic:helm-charts,oracle pushed_at:2022-09 star:0.0k fork:0.0k Helm charts for Oracle commercial products
 - [oracle/nosql-python-sdk](https://github.com/oracle/nosql-python-sdk) topic:cloud,database,nosql,nosql-database,oracle,oracle-cloud,python pushed_at:2022-09 star:0.0k fork:0.0k Python SDK for Oracle NoSQL Database
 - [oracle/oci-ansible-collection](https://github.com/oracle/oci-ansible-collection) topic:ansible,cloud,oracle,oracle-cloud-infrastructure pushed_at:2022-09 star:0.1k fork:0.1k Oracle Cloud Infrastructure Ansible Collection provides an easy way to provision and manage resources in Oracle Cloud using Ansible.
 - [oracle/oci-ansible-modules](https://github.com/oracle/oci-ansible-modules) topic:deprecated,legacy-modules,no-maintenance-intended pushed_at:2021-05 star:0.1k fork:0.1k DEPRECATED - Please migrate to the new OCI Ansible collection (https://github.com/oracle/oci-ansible-collection).
@@ -354,7 +354,7 @@
 
 - [oracle/centos2ol](https://github.com/oracle/centos2ol) topic:centos,hacktoberfest,linux,oracle,oracle-linux,switch pushed_at:2022-07 star:0.3k fork:0.1k Script and documentation to switch CentOS Linux to Oracle Linux
 - [oracle/cloud-asset-ics-agentkeystore-scripts](https://github.com/oracle/cloud-asset-ics-agentkeystore-scripts) topic:ateam pushed_at:2018-11 star:0.0k fork:0.0k 
-- [oracle/docker-images](https://github.com/oracle/docker-images) topic:coherence-ce,docker,docker-images,dockerfile,dockerfiles,graalvm,nosql,oci,oracle,oracle-commercial,oracle-database,oracle-instantclient,oracle-linux,oracle-products,oraclelinux pushed_at:2022-09 star:5.6k fork:5.1k Official source of container configurations, images, and examples for Oracle products and projects
+- [oracle/docker-images](https://github.com/oracle/docker-images) topic:coherence-ce,docker,docker-images,dockerfile,dockerfiles,graalvm,nosql,oci,oracle,oracle-commercial,oracle-database,oracle-instantclient,oracle-linux,oracle-products,oraclelinux pushed_at:2022-09 star:5.7k fork:5.1k Official source of container configurations, images, and examples for Oracle products and projects
 - [oracle/fmw-kubernetes](https://github.com/oracle/fmw-kubernetes) topic:kubernetes,operator,oracle-webcenter pushed_at:2022-09 star:0.0k fork:0.0k Kubernetes Deployment Scripts for Oracle Fusion Middleware products
 - [oracle/ktf](https://github.com/oracle/ktf) topic:kernel,linux,testing-framework pushed_at:2022-04 star:0.1k fork:0.0k Kernel Test Framework - a unit test framework for the Linux kernel
 - [oracle/kubernetes-kubespray](https://github.com/oracle/kubernetes-kubespray) topic: pushed_at:2021-09 star:0.0k fork:0.0k Setup a kubernetes cluster

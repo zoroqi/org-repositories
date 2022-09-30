@@ -107,7 +107,7 @@
 - [baidu/grafana-tsdb-datasource-backend](https://github.com/baidu/grafana-tsdb-datasource-backend) topic:grafana pushed_at:2019-01 star:0.0k fork:0.0k 
 - [baidu/mapv](https://github.com/baidu/mapv) topic: pushed_at:2016-09 star:0.1k fork:0.0k a library of geography visualization-地理信息可视化库
 - [baidu/mix-img](https://github.com/baidu/mix-img) topic: pushed_at:2021-07 star:0.3k fork:0.0k A fast mix image javascript tool libary
-- [baidu/NoahV](https://github.com/baidu/NoahV) topic:aiops,dashboard,devops,efficient,framework,monitor,noahv,scaffold,template,visualization,vue,vuejs pushed_at:2022-08 star:0.6k fork:0.2k An efficient front-end application framework based on vue.js
+- [baidu/NoahV](https://github.com/baidu/NoahV) topic:aiops,dashboard,devops,efficient,framework,monitor,noahv,scaffold,template,visualization,vue,vuejs pushed_at:2022-08 star:0.6k fork:0.1k An efficient front-end application framework based on vue.js
 - [baidu/san](https://github.com/baidu/san) topic:component,framework,frontend,javascript,mvvm,san pushed_at:2022-07 star:4.6k fork:0.5k A fast, portable, flexible JavaScript component framework
 - [baidu/san-composition](https://github.com/baidu/san-composition) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [baidu/san-factory](https://github.com/baidu/san-factory) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
@@ -169,7 +169,7 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) topic:frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2022-09 star:12.0k fork:1.7k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) topic:frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2022-09 star:12.1k fork:1.7k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) topic:chrome,chromium,debug,devtools,extension,san pushed_at:2021-09 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) topic:san,ssr,ssr-target-js pushed_at:2022-08 star:0.0k fork:0.0k San SSR framework and utils
 

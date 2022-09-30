@@ -51,11 +51,11 @@
 - [apple/apple-llvm-infrastructure-tools](https://github.com/apple/apple-llvm-infrastructure-tools) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
 - [apple/AudioUnitSDK](https://github.com/apple/AudioUnitSDK) topic: pushed_at:2022-08 star:0.1k fork:0.0k AudioUnit SDK
 - [apple/ccs-pyopendirectory](https://github.com/apple/ccs-pyopendirectory) topic: pushed_at:2018-11 star:0.0k fork:0.0k Python OpenDirectory library used by CalendarServer
-- [apple/foundationdb](https://github.com/apple/foundationdb) topic:acid,distributed-database,foundationdb,key-value-store,transactional pushed_at:2022-09 star:11.7k fork:1.2k FoundationDB - the open source, distributed, transactional key-value store
+- [apple/foundationdb](https://github.com/apple/foundationdb) topic:acid,distributed-database,foundationdb,key-value-store,transactional pushed_at:2022-09 star:11.8k fork:1.2k FoundationDB - the open source, distributed, transactional key-value store
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) topic: pushed_at:2022-09 star:0.2k fork:0.1k Index database library for use with sourcekit-lsp
 - [apple/llvm-project-v5](https://github.com/apple/llvm-project-v5) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project-v5-split](https://github.com/apple/llvm-project-v5-split) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
-- [apple/swift](https://github.com/apple/swift) topic: pushed_at:2022-09 star:60.7k fork:9.7k The Swift Programming Language
+- [apple/swift](https://github.com/apple/swift) topic: pushed_at:2022-09 star:60.7k fork:9.8k The Swift Programming Language
 - [apple/swift-clang](https://github.com/apple/swift-clang) topic: pushed_at:2019-11 star:0.7k fork:0.2k 
 - [apple/swift-clang-tools-extra](https://github.com/apple/swift-clang-tools-extra) topic: pushed_at:2019-11 star:0.0k fork:0.0k 
 - [apple/swift-libcxx](https://github.com/apple/swift-libcxx) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
@@ -109,7 +109,7 @@
 - [apple/llvm-monorepo-root](https://github.com/apple/llvm-monorepo-root) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project](https://github.com/apple/llvm-project) topic: pushed_at:2022-09 star:0.7k fork:0.3k The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Apple’s stable releases of Clang as well as support the Swift project.
 - [apple/ml-dms-dataset](https://github.com/apple/ml-dms-dataset) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
-- [apple/ml-gaudi](https://github.com/apple/ml-gaudi) topic: pushed_at:2022-07 star:0.4k fork:0.0k 
+- [apple/ml-gaudi](https://github.com/apple/ml-gaudi) topic: pushed_at:2022-07 star:0.5k fork:0.0k 
 - [apple/ml-interspeech2022-phi_rtn](https://github.com/apple/ml-interspeech2022-phi_rtn) topic:language-modeling,machine-learning,speech-recognition,virtual-assistants pushed_at:2022-09 star:0.0k fork:0.0k Repository accompanying the Interspeech 2022 publication titled "Space-Efficient Representation of Entity-centric Query Language Models" by Van Gysel et al.
 - [apple/ml-transcript-translation-consistency-ratings](https://github.com/apple/ml-transcript-translation-consistency-ratings) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [apple/swift-community-hosted-continuous-integration](https://github.com/apple/swift-community-hosted-continuous-integration) topic: pushed_at:2022-09 star:0.1k fork:0.1k Swift Community-Hosted Continuous Integration
@@ -200,7 +200,7 @@
 - [apple/sample-cloudkit-queries](https://github.com/apple/sample-cloudkit-queries) topic: pushed_at:2022-09 star:0.1k fork:0.0k 
 - [apple/sample-cloudkit-sharing](https://github.com/apple/sample-cloudkit-sharing) topic: pushed_at:2022-09 star:0.2k fork:0.0k 
 - [apple/sample-cloudkit-zonesharing](https://github.com/apple/sample-cloudkit-zonesharing) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
-- [apple/sample-food-truck](https://github.com/apple/sample-food-truck) topic:swift,swiftui pushed_at:2022-08 star:1.2k fork:0.1k SwiftUI sample code from WWDC22
+- [apple/sample-food-truck](https://github.com/apple/sample-food-truck) topic:swift,swiftui pushed_at:2022-09 star:1.2k fork:0.1k SwiftUI sample code from WWDC22
 - [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) topic: pushed_at:2022-09 star:2.6k fork:0.2k Language Server Protocol implementation for Swift and C-based languages
 - [apple/swift-3-api-guidelines-review](https://github.com/apple/swift-3-api-guidelines-review) topic: pushed_at:2018-11 star:0.5k fork:0.1k 
 - [apple/swift-algorithms](https://github.com/apple/swift-algorithms) topic:algorithm,iterator,itertools pushed_at:2022-04 star:4.6k fork:0.3k Commonly used sequence and collection algorithms for Swift
@@ -209,7 +209,7 @@
 - [apple/swift-atomics](https://github.com/apple/swift-atomics) topic:concurrency,synchronization pushed_at:2022-04 star:0.8k fork:0.0k Low-level atomic operations for Swift
 - [apple/swift-cluster-membership](https://github.com/apple/swift-cluster-membership) topic:distributed-systems,server-side-swift,swift,swift-on-server pushed_at:2022-08 star:0.2k fork:0.0k Distributed Membership Protocol implementations in Swift
 - [apple/swift-collections](https://github.com/apple/swift-collections) topic:collection,container,deque,dequeue,hash,ordered-dictionary,ordered-set,queue,sequence pushed_at:2022-09 star:2.5k fork:0.2k Commonly used data structures for Swift
-- [apple/swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark) topic: pushed_at:2022-09 star:0.2k fork:0.0k A benchmarking tool for Swift Collection algorithms
+- [apple/swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark) topic: pushed_at:2022-09 star:0.3k fork:0.0k A benchmarking tool for Swift Collection algorithms
 - [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) topic: pushed_at:2022-09 star:4.7k fork:1.1k The Foundation Project, providing core utilities, internationalization, and OS independence
 - [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) topic: pushed_at:2022-09 star:1.0k fork:0.3k The XCTest Project, A Swift core library for providing unit test support
 - [apple/swift-distributed-actors](https://github.com/apple/swift-distributed-actors) topic:actor-model,actors,distributed-systems,swift pushed_at:2022-09 star:0.4k fork:0.0k Peer-to-peer cluster implementation for Swift Distributed Actors
@@ -223,7 +223,7 @@
 - [apple/swift-evolution-staging](https://github.com/apple/swift-evolution-staging) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apple/swift-experimental-string-processing](https://github.com/apple/swift-experimental-string-processing) topic: pushed_at:2022-09 star:0.2k fork:0.0k An early experimental general-purpose pattern matching engine for Swift.
 - [apple/swift-format](https://github.com/apple/swift-format) topic: pushed_at:2022-09 star:1.7k fork:0.1k Formatting technology for Swift source code
-- [apple/swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) topic:headers,http,structured-fields,swift pushed_at:2022-08 star:0.1k fork:0.0k A Swift implementation of the HTTP Structured Header Field specification.
+- [apple/swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) topic:headers,http,structured-fields,swift pushed_at:2022-09 star:0.1k fork:0.0k A Swift implementation of the HTTP Structured Header Field specification.
 - [apple/swift-llbuild2](https://github.com/apple/swift-llbuild2) topic: pushed_at:2022-09 star:0.3k fork:0.0k A fresh take on a low-level build system API.
 - [apple/swift-llvm-bindings](https://github.com/apple/swift-llvm-bindings) topic: pushed_at:2022-08 star:0.0k fork:0.0k Swift Bindings for LLVM Project APIs
 - [apple/swift-log](https://github.com/apple/swift-log) topic:logging,swift-server pushed_at:2022-09 star:2.8k fork:0.2k A Logging API for Swift
@@ -231,12 +231,12 @@
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) topic:metrics,swift-server pushed_at:2022-08 star:0.5k fork:0.0k A Metrics API for Swift
 - [apple/swift-metrics-extras](https://github.com/apple/swift-metrics-extras) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [apple/swift-nio](https://github.com/apple/swift-nio) topic:asynchronous-io,event-driven,high-performance,networking,non-blocking,non-blocking-io,swift,swift-server,swift5,swiftnio pushed_at:2022-09 star:7.1k fork:0.6k Event-driven network application framework for high performance protocol servers & clients, non-blocking.
-- [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) topic: pushed_at:2022-08 star:0.2k fork:0.1k examples of how to use swift-nio
+- [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) topic: pushed_at:2022-09 star:0.2k fork:0.1k examples of how to use swift-nio
 - [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) topic:swift5,swiftnio pushed_at:2022-09 star:0.1k fork:0.1k Useful code around SwiftNIO.
-- [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) topic:async,beta,http2,swift4,swiftnio pushed_at:2022-08 star:0.4k fork:0.1k HTTP/2 support for SwiftNIO
-- [apple/swift-nio-imap](https://github.com/apple/swift-nio-imap) topic: pushed_at:2022-09 star:0.0k fork:0.0k A Swift project that provides an implementation of the IMAP4rev1 protocol, built upon SwiftNIO.
+- [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) topic:async,beta,http2,swift4,swiftnio pushed_at:2022-09 star:0.4k fork:0.1k HTTP/2 support for SwiftNIO
+- [apple/swift-nio-imap](https://github.com/apple/swift-nio-imap) topic: pushed_at:2022-09 star:0.1k fork:0.0k A Swift project that provides an implementation of the IMAP4rev1 protocol, built upon SwiftNIO.
 - [apple/swift-nio-nghttp2-support](https://github.com/apple/swift-nio-nghttp2-support) topic: pushed_at:2020-12 star:0.0k fork:0.0k 
-- [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) topic: pushed_at:2022-08 star:0.3k fork:0.0k SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
+- [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) topic: pushed_at:2022-09 star:0.3k fork:0.0k SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
 - [apple/swift-nio-ssl-support](https://github.com/apple/swift-nio-ssl-support) topic:libressl,openssl,swiftnio pushed_at:2020-12 star:0.0k fork:0.0k 
 - [apple/swift-nio-transport-services](https://github.com/apple/swift-nio-transport-services) topic: pushed_at:2022-09 star:0.2k fork:0.1k Extensions for SwiftNIO to support Apple platforms as first-class citizens.
 - [apple/swift-nio-zlib-support](https://github.com/apple/swift-nio-zlib-support) topic:swift4,swiftnio,zlib pushed_at:2021-07 star:0.0k fork:0.0k 
@@ -252,7 +252,7 @@
 - [apple/swift-standard-library-preview](https://github.com/apple/swift-standard-library-preview) topic: pushed_at:2021-12 star:0.2k fork:0.0k 
 - [apple/swift-statsd-client](https://github.com/apple/swift-statsd-client) topic: pushed_at:2022-08 star:0.1k fork:0.0k metrics backend for swift-metrics that uses the statsd protocol
 - [apple/swift-stress-tester](https://github.com/apple/swift-stress-tester) topic: pushed_at:2022-09 star:0.2k fork:0.0k Stress testing utilities for Swift's tooling
-- [apple/swift-syntax](https://github.com/apple/swift-syntax) topic: pushed_at:2022-09 star:1.9k fork:0.2k SwiftPM package for SwiftSyntax library.
+- [apple/swift-syntax](https://github.com/apple/swift-syntax) topic: pushed_at:2022-09 star:2.0k fork:0.2k SwiftPM package for SwiftSyntax library.
 - [apple/swift-system](https://github.com/apple/swift-system) topic:file-descriptor,file-path,posix pushed_at:2022-09 star:1.0k fork:0.1k Low-level system calls and types for Swift
 - [apple/swift-tools-support-async](https://github.com/apple/swift-tools-support-async) topic: pushed_at:2022-09 star:0.0k fork:0.0k Common infrastructural helpers on top of NIO for llbuild2 and swiftpm-on-llbuild2 projects. This is NOT a general purpose package and is unlikely to ever become stable.
 - [apple/swift-tools-support-core](https://github.com/apple/swift-tools-support-core) topic: pushed_at:2022-09 star:0.3k fork:0.1k Contains common infrastructural code for both SwiftPM and llbuild.
