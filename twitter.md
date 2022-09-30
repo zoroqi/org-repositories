@@ -37,7 +37,7 @@
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) topic: pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
 - [twitter/pelikan](https://github.com/twitter/pelikan) topic: pushed_at:2022-09 star:1.2k fork:0.1k Pelikan is Twitter's unified cache backend
 - [twitter/twemcache](https://github.com/twitter/twemcache) topic: pushed_at:2021-11 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) topic: pushed_at:2022-05 star:11.6k fork:2.0k A fast, light-weight proxy for memcached and redis
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) topic: pushed_at:2022-09 star:11.6k fork:2.0k A fast, light-weight proxy for memcached and redis
 
 ## C++
 
@@ -90,7 +90,7 @@
 
 ## Kotlin
 
-- [twitter/compose-rules](https://github.com/twitter/compose-rules) topic:android,jetpack-compose,ktlint,static-code-analysis pushed_at:2022-09 star:0.9k fork:0.0k Static checks to aid with a healthy adoption of Compose
+- [twitter/compose-rules](https://github.com/twitter/compose-rules) topic:android,jetpack-compose,ktlint,static-code-analysis pushed_at:2022-09 star:1.0k fork:0.0k Static checks to aid with a healthy adoption of Compose
 
 ## Objective-C
 
@@ -118,7 +118,7 @@
 
 - [twitter/caladrius](https://github.com/twitter/caladrius) topic: pushed_at:2021-10 star:0.0k fork:0.0k Performance modelling system for Distributed Stream Processing Systems (DSPS) such as Apache Heron and Apache Storm
 - [twitter/dict_minimize](https://github.com/twitter/dict_minimize) topic:scipy,scipy-stack pushed_at:2021-09 star:0.1k fork:0.0k Access scipy optimizers from your favorite deep learning framework.
-- [twitter/diffusion-rl](https://github.com/twitter/diffusion-rl) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
+- [twitter/diffusion-rl](https://github.com/twitter/diffusion-rl) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [twitter/gatekeeper-service](https://github.com/twitter/gatekeeper-service) topic: pushed_at:2021-11 star:0.0k fork:0.0k GateKeeper is a service built to automate the manual steps involved in onboarding, offboarding, and lost asset scenarios.
 - [twitter/pants](https://github.com/twitter/pants) topic: pushed_at:2022-06 star:0.1k fork:0.0k Pants Build System
 - [twitter/zktraffic](https://github.com/twitter/zktraffic) topic: pushed_at:2020-07 star:0.2k fork:0.0k ZooKeeper protocol analyzer and stats gathering daemon
@@ -136,7 +136,7 @@
 
 ## Rust
 
-- [twitter/focus](https://github.com/twitter/focus) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
+- [twitter/focus](https://github.com/twitter/focus) topic: pushed_at:2022-09 star:0.1k fork:0.0k 
 - [twitter/rezolus](https://github.com/twitter/rezolus) topic: pushed_at:2022-09 star:1.2k fork:0.1k Systems performance telemetry
 - [twitter/rpc-perf](https://github.com/twitter/rpc-perf) topic: pushed_at:2022-09 star:0.4k fork:0.1k A tool for benchmarking RPC services
 - [twitter/rustcommon](https://github.com/twitter/rustcommon) topic: pushed_at:2022-09 star:0.3k fork:0.0k Common Twitter Rust lib

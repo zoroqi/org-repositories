@@ -21,7 +21,7 @@
 - [Rust](#rust) (82)
 - [Shell](#shell) (8)
 - [TypeScript](#typescript) (1)
-- [Vim script](#vim-script) (1)
+- [Vim Script](#vim-script) (1)
 
 ## C
 
@@ -163,7 +163,7 @@
 - [rust-lang/areweasyncyet.rs](https://github.com/rust-lang/areweasyncyet.rs) topic:rust pushed_at:2021-07 star:0.2k fork:0.0k Are we async yet?
 - [rust-lang/backtrace-rs](https://github.com/rust-lang/backtrace-rs) topic: pushed_at:2022-09 star:0.4k fork:0.2k Backtraces in Rust
 - [rust-lang/book](https://github.com/rust-lang/book) topic:book,mdbook,rust,rust-programming-language pushed_at:2022-09 star:10.2k fork:2.5k The Rust Programming Language
-- [rust-lang/cargo](https://github.com/rust-lang/cargo) topic:package-manager,rust pushed_at:2022-09 star:8.9k fork:1.8k The Rust package manager
+- [rust-lang/cargo](https://github.com/rust-lang/cargo) topic:package-manager,rust pushed_at:2022-09 star:9.0k fork:1.8k The Rust package manager
 - [rust-lang/cargo-bisect-rustc](https://github.com/rust-lang/cargo-bisect-rustc) topic: pushed_at:2022-09 star:0.1k fork:0.0k Bisects rustc, either nightlies or CI artifacts
 - [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) topic: pushed_at:2022-09 star:1.2k fork:0.3k Rust library for build scripts to compile C/C++ code into a Rust library
 - [rust-lang/chalk](https://github.com/rust-lang/chalk) topic: pushed_at:2022-08 star:1.5k fork:0.2k An implementation and definition of the Rust trait system using a PROLOG-like logic solver
@@ -171,7 +171,7 @@
 - [rust-lang/compiler-builtins](https://github.com/rust-lang/compiler-builtins) topic: pushed_at:2022-09 star:0.3k fork:0.2k Porting `compiler-rt` intrinsics to Rust
 - [rust-lang/crater](https://github.com/rust-lang/crater) topic: pushed_at:2022-09 star:0.5k fork:0.1k Run experiments across parts of the Rust ecosystem!
 - [rust-lang/crates-io-ops-bot](https://github.com/rust-lang/crates-io-ops-bot) topic: pushed_at:2022-06 star:0.0k fork:0.0k a bot to help assist the crates.io, website, and other rust ops teams
-- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) topic: pushed_at:2022-09 star:2.3k fork:0.5k Source code for crates.io
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) topic:hacktoberfest pushed_at:2022-09 star:2.3k fork:0.5k Source code for crates.io
 - [rust-lang/datafrog](https://github.com/rust-lang/datafrog) topic: pushed_at:2022-01 star:0.5k fork:0.0k A lightweight Datalog engine in Rust
 - [rust-lang/discord-mods-bot](https://github.com/rust-lang/discord-mods-bot) topic: pushed_at:2022-09 star:0.1k fork:0.0k discord moderation bot
 - [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) topic: pushed_at:2022-09 star:0.8k fork:0.2k crates.io documentation generator
@@ -205,12 +205,12 @@
 - [rust-lang/promote-release](https://github.com/rust-lang/promote-release) topic: pushed_at:2022-09 star:0.0k fork:0.0k Tooling to publish Rust releases.
 - [rust-lang/reference](https://github.com/rust-lang/reference) topic:documentation,reference,rust,rust-lang pushed_at:2022-09 star:0.8k fork:0.3k The Rust Reference
 - [rust-lang/regex](https://github.com/rust-lang/regex) topic:automata,automaton,dfa,nfa,regex,regex-engine,regex-parser,regex-syntax,regexp,regular-expressions,rust pushed_at:2022-09 star:2.5k fork:0.3k An implementation of regular expressions for Rust. This implementation uses finite automata and guarantees linear time matching on all inputs.
-- [rust-lang/relnotes](https://github.com/rust-lang/relnotes) topic: pushed_at:2022-08 star:0.0k fork:0.0k Generate release notes for "The Rust Programming Language"
+- [rust-lang/relnotes](https://github.com/rust-lang/relnotes) topic: pushed_at:2022-09 star:0.0k fork:0.0k Generate release notes for "The Rust Programming Language"
 - [rust-lang/rfcbot-rs](https://github.com/rust-lang/rfcbot-rs) topic:bot,diesel-rs,rfc-process,rocket-rs,rust pushed_at:2022-06 star:0.1k fork:0.1k Coordinates asynchronous decision making on Rust repositories. Status of tracked issues and PRs can be viewed at https://rfcbot.rs.
 - [rust-lang/rls](https://github.com/rust-lang/rls) topic:ide,language-server-protocol,rust pushed_at:2022-08 star:3.6k fork:0.3k Repository for the Rust Language Server (aka RLS)
-- [rust-lang/rust](https://github.com/rust-lang/rust) topic:compiler,language,rust pushed_at:2022-09 star:72.2k fork:9.8k Empowering everyone to build reliable and efficient software.
+- [rust-lang/rust](https://github.com/rust-lang/rust) topic:compiler,language,rust pushed_at:2022-09 star:72.5k fork:9.8k Empowering everyone to build reliable and efficient software.
 - [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) topic:hacktoberfest,lsp-server,rust pushed_at:2022-09 star:10.6k fork:1.1k A Rust compiler front-end for IDEs
-- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) topic:bindings,codegen,ffi pushed_at:2022-09 star:2.9k fork:0.6k Automatically generates Rust FFI bindings to C (and some C++) libraries.
+- [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) topic:bindings,codegen,ffi pushed_at:2022-09 star:3.0k fork:0.6k Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [rust-lang/rust-central-station](https://github.com/rust-lang/rust-central-station) topic: pushed_at:2020-11 star:0.1k fork:0.1k Old home of some infra pieces
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) topic:lint,rust pushed_at:2022-09 star:8.2k fork:1.1k A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/nightly/clippy/
 - [rust-lang/rust-dbg-ext](https://github.com/rust-lang/rust-dbg-ext) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
@@ -227,7 +227,7 @@
 - [rust-lang/rustc_codegen_gcc](https://github.com/rust-lang/rustc_codegen_gcc) topic:hacktoberfest pushed_at:2022-09 star:0.7k fork:0.0k libgccjit AOT codegen for rustc
 - [rust-lang/rustfix](https://github.com/rust-lang/rustfix) topic:cargo,cli,hacktoberfest,rust pushed_at:2022-05 star:0.8k fork:0.1k Automatically apply the suggestions made by rustc
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) topic:codeformatter,formatter,rust,rustfmt pushed_at:2022-09 star:4.6k fork:0.7k Format Rust code
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) topic:beginner-friendly,rust,rustlings pushed_at:2022-09 star:29.9k fork:4.8k :crab: Small exercises to get you used to reading and writing Rust code!
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) topic:beginner-friendly,rust,rustlings pushed_at:2022-09 star:30.1k fork:4.8k :crab: Small exercises to get you used to reading and writing Rust code!
 - [rust-lang/rustup](https://github.com/rust-lang/rustup) topic:hacktoberfest,rustlang pushed_at:2022-09 star:4.9k fork:0.8k The Rust toolchain installer
 - [rust-lang/rustup-components-history](https://github.com/rust-lang/rustup-components-history) topic: pushed_at:2022-09 star:0.1k fork:0.0k Rustup package status history
 - [rust-lang/rustwide](https://github.com/rust-lang/rustwide) topic: pushed_at:2022-09 star:0.2k fork:0.0k Execute your code on the Rust ecosystem.
@@ -257,7 +257,7 @@
 
 - [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) topic:rust,vscode-extension pushed_at:2022-08 star:1.4k fork:0.2k Rust extension for Visual Studio Code
 
-## Vim script
+## Vim Script
 
 - [rust-lang/rust.vim](https://github.com/rust-lang/rust.vim) topic: pushed_at:2022-09 star:3.2k fork:0.3k Vim configuration for Rust.
 
