@@ -86,11 +86,11 @@
 - [EFForg/ngw-website](https://github.com/EFForg/ngw-website) topic: pushed_at:2017-01 star:0.0k fork:0.0k 
 - [EFForg/node-wethepeople](https://github.com/EFForg/node-wethepeople) topic: pushed_at:2015-09 star:0.0k fork:0.0k Node wrapper for the We the People API
 - [EFForg/OpenWireless](https://github.com/EFForg/OpenWireless) topic: pushed_at:2022-03 star:0.7k fork:0.1k The official home of the EFF OpenWireless Project
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) topic:browser-fingerprinting,chrome-extension,cookies,fingerprinting,firefox-extension,javascript,privacy,tracking,webextension pushed_at:2022-09 star:2.6k fork:0.4k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) topic:browser-fingerprinting,chrome-extension,cookies,fingerprinting,firefox-extension,javascript,privacy,tracking,webextension pushed_at:2022-10 star:2.6k fork:0.4k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [EFForg/privacybadgerfirefox-legacy](https://github.com/EFForg/privacybadgerfirefox-legacy) topic: pushed_at:2016-12 star:0.4k fork:0.1k LEGACY Privacy Badger for Firefox SEE README
 - [EFForg/psi-tumblr-crawler](https://github.com/EFForg/psi-tumblr-crawler) topic: pushed_at:2015-08 star:0.0k fork:0.0k 
 - [EFForg/pushserver](https://github.com/EFForg/pushserver) topic: pushed_at:2018-03 star:0.0k fork:0.0k A server for sending push notifications to mobile apps
-- [EFForg/sec](https://github.com/EFForg/sec) topic: pushed_at:2022-07 star:0.0k fork:0.0k Security Education Companion
+- [EFForg/sec](https://github.com/EFForg/sec) topic: pushed_at:2022-10 star:0.0k fork:0.0k Security Education Companion
 - [EFForg/social-buttons-server](https://github.com/EFForg/social-buttons-server) topic: pushed_at:2014-04 star:0.0k fork:0.0k Host your own social counters servers while pulling live data from Facebook, Twitter and Google Plus
 - [EFForg/spot_the_surveillance](https://github.com/EFForg/spot_the_surveillance) topic: pushed_at:2020-12 star:0.0k fork:0.0k Spot the Surveillance is an open-source educational VR tool to help people identify street-level surveillance in their community. As each surveillance device is identified, the user is informed on how the device is used via text and narration. The experience is created with accessibility in mind, so is entirely gaze-based for people with mobility challenges. Audio is also used to assist low-vision users.
 - [EFForg/wetheusers-backend](https://github.com/EFForg/wetheusers-backend) topic: pushed_at:2015-09 star:0.0k fork:0.0k Backend services for the We The Users campaign
@@ -139,7 +139,7 @@
 
 ## Ruby
 
-- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) topic: pushed_at:2022-07 star:0.4k fork:0.1k The EFF Action Center Platform
+- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) topic: pushed_at:2022-10 star:0.4k fork:0.1k The EFF Action Center Platform
 - [EFForg/active_preview](https://github.com/EFForg/active_preview) topic: pushed_at:2018-11 star:0.0k fork:0.0k Rails plugin to make previews of active record objects
 - [EFForg/aws_one_click_staging](https://github.com/EFForg/aws_one_click_staging) topic: pushed_at:2018-02 star:0.0k fork:0.0k 
 - [EFForg/check-your-reps](https://github.com/EFForg/check-your-reps) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
@@ -156,8 +156,8 @@
 
 ## Rust
 
-- [EFForg/apkeep](https://github.com/EFForg/apkeep) topic: pushed_at:2022-09 star:0.5k fork:0.0k 
-- [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) topic: pushed_at:2022-09 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
+- [EFForg/apkeep](https://github.com/EFForg/apkeep) topic: pushed_at:2022-10 star:0.5k fork:0.0k 
+- [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) topic: pushed_at:2022-10 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
 - [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) topic: pushed_at:2022-09 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) topic: pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 - [EFForg/https-everywhere-rust-test-implementation](https://github.com/EFForg/https-everywhere-rust-test-implementation) topic: pushed_at:2020-04 star:0.0k fork:0.0k 
