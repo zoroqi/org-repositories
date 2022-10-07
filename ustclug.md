@@ -32,7 +32,7 @@
 
 - [ustclug/rsync-proxy](https://github.com/ustclug/rsync-proxy) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
 - [ustclug/TunnelMonitor](https://github.com/ustclug/TunnelMonitor) topic: pushed_at:2021-08 star:0.0k fork:0.0k monitoring iptables connection balance and switching automatically
-- [ustclug/Yuki](https://github.com/ustclug/Yuki) topic:docker-container,mirror,restful-api pushed_at:2022-03 star:0.0k fork:0.0k Mirror management tool, developed and used in-house in USTC
+- [ustclug/Yuki](https://github.com/ustclug/Yuki) topic:docker-container,mirror,restful-api pushed_at:2022-09 star:0.0k fork:0.0k Mirror management tool, developed and used in-house in USTC
 
 ## HTML
 
@@ -70,7 +70,7 @@
 
 ## Python
 
-- [ustclug/hackergame](https://github.com/ustclug/hackergame) topic: pushed_at:2022-09 star:0.0k fork:0.0k Hackergame platform for 2018 and beyond
+- [ustclug/hackergame](https://github.com/ustclug/hackergame) topic: pushed_at:2022-10 star:0.0k fork:0.0k Hackergame platform for 2018 and beyond
 - [ustclug/hackergame2017](https://github.com/ustclug/hackergame2017) topic: pushed_at:2017-10 star:0.0k fork:0.0k 
 - [ustclug/library](https://github.com/ustclug/library) topic: pushed_at:2017-11 star:0.0k fork:0.0k LUG Library
 - [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) topic: pushed_at:2021-12 star:0.0k fork:0.0k LUG VPN 申请系统
