@@ -17,10 +17,10 @@
 - [Jupyter Notebook](#jupyter-notebook) (2)
 - [Kotlin](#kotlin) (4)
 - [Objective-C](#objective-c) (4)
-- [Others](#others) (22)
+- [Others](#others) (23)
 - [PHP](#php) (1)
 - [Perl](#perl) (1)
-- [Python](#python) (27)
+- [Python](#python) (26)
 - [Ruby](#ruby) (3)
 - [Rust](#rust) (7)
 - [Swift](#swift) (1)
@@ -28,12 +28,12 @@
 
 ## Assembly
 
-- [bytedance/sonic](https://github.com/bytedance/sonic) topic: pushed_at:2022-09 star:3.5k fork:0.2k A blazingly fast JSON serializing & deserializing library
+- [bytedance/sonic](https://github.com/bytedance/sonic) topic: pushed_at:2022-10 star:3.5k fork:0.2k A blazingly fast JSON serializing & deserializing library
 
 ## C
 
 - [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) topic:android,androidinlinehook,arm,arm64,hook,inline,inlinehook,jni,ndk,security,thumb pushed_at:2022-09 star:0.7k fork:0.2k :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
-- [bytedance/atop](https://github.com/bytedance/atop) topic: pushed_at:2022-09 star:0.1k fork:0.0k System and process monitor for Linux
+- [bytedance/atop](https://github.com/bytedance/atop) topic: pushed_at:2022-10 star:0.1k fork:0.0k System and process monitor for Linux
 - [bytedance/bcc](https://github.com/bytedance/bcc) topic: pushed_at:2021-12 star:0.0k fork:0.0k BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [bytedance/bhook](https://github.com/bytedance/bhook) topic:android,androidgothook,androidhook,androidplthook,bytedance,got,gothook,hook,hooking,native,ndk,plt,plthook pushed_at:2022-09 star:1.3k fork:0.2k :fire: ByteHook is an Android PLT hook library which supports armeabi-v7a, arm64-v8a, x86 and x86_64.
 - [bytedance/FFFramework](https://github.com/bytedance/FFFramework) topic: pushed_at:2022-03 star:0.0k fork:0.0k Some ffmpeg-based functions
@@ -69,7 +69,7 @@
 - [bytedance/pyskynet](https://github.com/bytedance/pyskynet) topic: pushed_at:2022-09 star:0.0k fork:0.0k PySkynet is a library for using skynet in python.
 - [bytedance/tensorflow](https://github.com/bytedance/tensorflow) topic: pushed_at:2021-02 star:0.0k fork:0.0k An Open Source Machine Learning Framework for Everyone
 - [bytedance/terark-zip](https://github.com/bytedance/terark-zip) topic: pushed_at:2022-04 star:0.0k fork:0.0k A data structure and algorithm library built for TerarkDB
-- [bytedance/terarkdb](https://github.com/bytedance/terarkdb) topic: pushed_at:2022-09 star:1.7k fork:0.2k A RocksDB compatible KV storage engine with better performance
+- [bytedance/terarkdb](https://github.com/bytedance/terarkdb) topic: pushed_at:2022-10 star:1.8k fork:0.2k A RocksDB compatible KV storage engine with better performance
 - [bytedance/xoa_set_ip_option](https://github.com/bytedance/xoa_set_ip_option) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 
 ## Dart
@@ -92,14 +92,14 @@
 - [bytedance/go-querystring-parser](https://github.com/bytedance/go-querystring-parser) topic: pushed_at:2022-08 star:0.0k fork:0.0k A golang querystring parser
 - [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) topic:binding,dsl,expression,go,struct-tag,validator pushed_at:2022-08 star:1.3k fork:0.1k An interesting go struct tag expression syntax for field validation, etc.
 - [bytedance/godlp](https://github.com/bytedance/godlp) topic: pushed_at:2022-09 star:0.6k fork:0.1k sensitive information protection toolkit
-- [bytedance/gopkg](https://github.com/bytedance/gopkg) topic: pushed_at:2022-09 star:0.9k fork:0.1k Universal Utilities for Go
+- [bytedance/gopkg](https://github.com/bytedance/gopkg) topic: pushed_at:2022-10 star:0.9k fork:0.1k Universal Utilities for Go
 - [bytedance/ingress-nginx](https://github.com/bytedance/ingress-nginx) topic: pushed_at:2020-10 star:0.0k fork:0.0k NGINX Ingress Controller for Kubernetes
 - [bytedance/json](https://github.com/bytedance/json) topic:json pushed_at:2019-05 star:0.0k fork:0.0k JSON standard package extension library
 - [bytedance/kldx-common](https://github.com/bytedance/kldx-common) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [bytedance/kldx-core](https://github.com/bytedance/kldx-core) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
 - [bytedance/kldx-infra](https://github.com/bytedance/kldx-infra) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [bytedance/kldx-metadata](https://github.com/bytedance/kldx-metadata) topic: pushed_at:2022-02 star:0.0k fork:0.0k 元数据包
-- [bytedance/mockey](https://github.com/bytedance/mockey) topic: pushed_at:2022-09 star:0.0k fork:0.0k a simple and easy-to-use golang mock library
+- [bytedance/mockey](https://github.com/bytedance/mockey) topic: pushed_at:2022-10 star:0.0k fork:0.0k a simple and easy-to-use golang mock library
 - [bytedance/msgp](https://github.com/bytedance/msgp) topic: pushed_at:2019-10 star:0.0k fork:0.0k A Go code generator for MessagePack / msgpack.org[Go]
 - [bytedance/ns-x](https://github.com/bytedance/ns-x) topic:network,ns-2,ns-3,simulation,simulator pushed_at:2021-12 star:0.1k fork:0.0k An easy-to-use, flexible network simulator library in Go.
 - [bytedance/open-pay-signature-go-demo](https://github.com/bytedance/open-pay-signature-go-demo) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
@@ -133,7 +133,7 @@
 - [bytedance/lottiefy](https://github.com/bytedance/lottiefy) topic:lottie pushed_at:2018-12 star:0.1k fork:0.0k Render Lottie to any engine
 - [bytedance/mp4.js](https://github.com/bytedance/mp4.js) topic: pushed_at:2021-09 star:0.0k fork:0.0k converter from mp4 to fmp4
 - [bytedance/node-wifi-info](https://github.com/bytedance/node-wifi-info) topic: pushed_at:2022-02 star:0.0k fork:0.0k node module to get information about the currently connected wifi
-- [bytedance/xgplayer](https://github.com/bytedance/xgplayer) topic:dash,flv,flv-parser,fmp4,hls,hls-player,html5-video,html5-video-player,mp4,mp4box,player,video,video-player,videoplayer pushed_at:2022-09 star:5.6k fork:0.6k A HTML5 video player with a parser that saves traffic
+- [bytedance/xgplayer](https://github.com/bytedance/xgplayer) topic:dash,flv,flv-parser,fmp4,hls,hls-player,html5-video,html5-video-player,mp4,mp4box,player,video,video-player,videoplayer pushed_at:2022-10 star:5.6k fork:0.6k A HTML5 video player with a parser that saves traffic
 - [bytedance/xgplayer-react](https://github.com/bytedance/xgplayer-react) topic: pushed_at:2021-02 star:0.1k fork:0.0k React component for xgplayer, a HTML5 video player with a parser that saves traffic
 - [bytedance/xgplayer-vue](https://github.com/bytedance/xgplayer-vue) topic: pushed_at:2021-07 star:0.2k fork:0.0k Vue component for xgplayer, a HTML5 video player with a parser that saves traffic
 
@@ -144,7 +144,7 @@
 
 ## Kotlin
 
-- [bytedance/appshark](https://github.com/bytedance/appshark) topic:android,compliance,static-analysis,vulnerability pushed_at:2022-09 star:0.7k fork:0.1k Appshark is a static taint analysis platform to scan vulnerabilities in an Android app.
+- [bytedance/appshark](https://github.com/bytedance/appshark) topic:android,compliance,static-analysis,vulnerability pushed_at:2022-10 star:0.7k fork:0.1k Appshark is a static taint analysis platform to scan vulnerabilities in an Android app.
 - [bytedance/btrace](https://github.com/bytedance/btrace) topic: pushed_at:2022-09 star:1.2k fork:0.2k 🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.
 - [bytedance/CodeLocator](https://github.com/bytedance/CodeLocator) topic: pushed_at:2022-06 star:0.9k fork:0.1k 
 - [bytedance/DanmakuRenderEngine](https://github.com/bytedance/DanmakuRenderEngine) topic: pushed_at:2022-08 star:0.0k fork:0.0k DanmakuRenderEngine is a lightweight and scalable Android danmaku library. 轻量级高扩展安卓弹幕渲染引擎
@@ -173,13 +173,14 @@
 - [bytedance/libvirt](https://github.com/bytedance/libvirt) topic: pushed_at:2020-04 star:0.0k fork:0.0k Read-only mirror. Please submit merge requests / issues to https://gitlab.com/libvirt/libvirt
 - [bytedance/linux](https://github.com/bytedance/linux) topic: pushed_at:2022-07 star:0.0k fork:0.0k Linux kernel source tree
 - [bytedance/lxcfs](https://github.com/bytedance/lxcfs) topic: pushed_at:2022-08 star:0.0k fork:0.0k FUSE filesystem for LXC
+- [bytedance/monolith](https://github.com/bytedance/monolith) topic: pushed_at:2022-10 star:0.0k fork:0.0k ByteDance's Recommendation System
 - [bytedance/nvme-cli](https://github.com/bytedance/nvme-cli) topic: pushed_at:2020-12 star:0.0k fork:0.0k NVMe management command line interface.
 - [bytedance/onnx](https://github.com/bytedance/onnx) topic: pushed_at:2021-03 star:0.0k fork:0.0k Open standard for machine learning interoperability
 - [bytedance/RangersKit](https://github.com/bytedance/RangersKit) topic: pushed_at:2020-05 star:0.0k fork:0.0k common utility classes
 - [bytedance/systemd](https://github.com/bytedance/systemd) topic: pushed_at:2022-07 star:0.0k fork:0.0k The systemd System and Service Manager 
 - [bytedance/util-linux](https://github.com/bytedance/util-linux) topic: pushed_at:2020-07 star:0.0k fork:0.0k 
 - [bytedance/vm-memory](https://github.com/bytedance/vm-memory) topic: pushed_at:2021-03 star:0.0k fork:0.0k Virtual machine's guest memory crate
-- [bytedance/VTVQA](https://github.com/bytedance/VTVQA) topic: pushed_at:2022-09 star:0.0k fork:0.0k Towards Video Text Visual Question Answering: Benchmark and Baseline
+- [bytedance/VTVQA](https://github.com/bytedance/VTVQA) topic: pushed_at:2022-10 star:0.0k fork:0.0k Towards Video Text Visual Question Answering: Benchmark and Baseline
 
 ## PHP
 
@@ -207,30 +208,29 @@
 - [bytedance/markov-molecular-sampling](https://github.com/bytedance/markov-molecular-sampling) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
 - [bytedance/mega-ai](https://github.com/bytedance/mega-ai) topic: pushed_at:2022-08 star:0.0k fork:0.0k Encapsulate tensorflow and other deep frameworks, support feature evaluation and model evaluation methods
 - [bytedance/mega-spark](https://github.com/bytedance/mega-spark) topic: pushed_at:2020-09 star:0.0k fork:0.0k Spark is encapsulated as a mega interface to call pandas methods
-- [bytedance/monolith](https://github.com/bytedance/monolith) topic: pushed_at:2022-09 star:0.0k fork:0.0k ByteDance's Recommendation System
-- [bytedance/music_source_separation](https://github.com/bytedance/music_source_separation) topic: pushed_at:2022-08 star:0.9k fork:0.2k 
+- [bytedance/music_source_separation](https://github.com/bytedance/music_source_separation) topic: pushed_at:2022-10 star:0.9k fork:0.2k 
 - [bytedance/neurst](https://github.com/bytedance/neurst) topic: pushed_at:2022-06 star:0.2k fork:0.0k Neural end-to-end Speech Translation Toolkit
 - [bytedance/Next-ViT](https://github.com/bytedance/Next-ViT) topic: pushed_at:2022-08 star:0.3k fork:0.0k 
 - [bytedance/oclip](https://github.com/bytedance/oclip) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [bytedance/OMGD](https://github.com/bytedance/OMGD) topic: pushed_at:2021-09 star:0.3k fork:0.0k Online Multi-Granularity Distillation for GAN Compression (ICCV2021)
+- [bytedance/OMGD](https://github.com/bytedance/OMGD) topic: pushed_at:2022-10 star:0.3k fork:0.0k Online Multi-Granularity Distillation for GAN Compression (ICCV2021)
 - [bytedance/ParaGen](https://github.com/bytedance/ParaGen) topic: pushed_at:2022-08 star:0.2k fork:0.0k ParaGen is a PyTorch deep learning framework for parallel sequence generation.
-- [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) topic: pushed_at:2022-03 star:1.0k fork:0.1k 
+- [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) topic: pushed_at:2022-03 star:1.1k fork:0.1k 
 - [bytedance/raylink](https://github.com/bytedance/raylink) topic:reinforcement-learning,rl pushed_at:2021-10 star:0.0k fork:0.0k Framework to build and train RL algorithms
 - [bytedance/RLFN](https://github.com/bytedance/RLFN) topic:lightweight,ntire22challenge,super-resolution pushed_at:2022-07 star:0.1k fork:0.0k Winner of runtime track in NTIRE 2022 challenge on Efficient Super-Resolution
 - [bytedance/TWIST](https://github.com/bytedance/TWIST) topic:computer-vision,deep-learning,pretraining,self-supervised-learning,twist pushed_at:2021-12 star:0.1k fork:0.0k Official codes: Self-Supervised Learning by Estimating Twin Class Distribution 
 
 ## Ruby
 
-- [bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD) topic: pushed_at:2022-09 star:0.1k fork:0.1k 
+- [bytedance/Bytedance-UnionAD](https://github.com/bytedance/Bytedance-UnionAD) topic: pushed_at:2022-10 star:0.1k fork:0.1k 
 - [bytedance/cocoapods_sdk_source_repo](https://github.com/bytedance/cocoapods_sdk_source_repo) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [bytedance/panglead-specs](https://github.com/bytedance/panglead-specs) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 
 ## Rust
 
-- [bytedance/Elkeid](https://github.com/bytedance/Elkeid) topic:edr,hids,rasp,security pushed_at:2022-09 star:1.4k fork:0.3k Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture. 
+- [bytedance/Elkeid](https://github.com/bytedance/Elkeid) topic:edr,hids,rasp,security pushed_at:2022-10 star:1.4k fork:0.3k Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture. 
 - [bytedance/flexi_logger](https://github.com/bytedance/flexi_logger) topic: pushed_at:2020-12 star:0.0k fork:0.0k A flexible logger for rust programs that can write to stderr or to log files
 - [bytedance/keyhouse](https://github.com/bytedance/keyhouse) topic: pushed_at:2022-07 star:0.1k fork:0.0k Keyhouse is a skeleton of general-purpose Key Management System written in Rust.
-- [bytedance/monoio](https://github.com/bytedance/monoio) topic: pushed_at:2022-09 star:2.3k fork:0.1k Rust async runtime based on io-uring.
+- [bytedance/monoio](https://github.com/bytedance/monoio) topic: pushed_at:2022-10 star:2.3k fork:0.1k Rust async runtime based on io-uring.
 - [bytedance/node-unix-socket](https://github.com/bytedance/node-unix-socket) topic:dgram,nodejs,reuseport,rust,seqpacket-sockets,unix-socket pushed_at:2022-10 star:0.0k fork:0.0k Unix dgram, seqpacket, etc binding for Node.js.
 - [bytedance/spire-workload-rs](https://github.com/bytedance/spire-workload-rs) topic: pushed_at:2022-08 star:0.0k fork:0.0k APIs to help Rust programs use Spire workload API
 - [bytedance/tar-wasm](https://github.com/bytedance/tar-wasm) topic: pushed_at:2022-08 star:0.1k fork:0.0k A faster experimental wasm-based tar implementation for browsers.
@@ -241,19 +241,19 @@
 
 ## TypeScript
 
-- [bytedance/bytemd](https://github.com/bytedance/bytemd) topic:markdown,markdown-editor,markdown-viewer,svelte pushed_at:2022-09 star:3.0k fork:0.2k Hackable Markdown Editor and Viewer
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) topic:markdown,markdown-editor,markdown-viewer,svelte pushed_at:2022-10 star:3.0k fork:0.2k Hackable Markdown Editor and Viewer
 - [bytedance/debugtron](https://github.com/bytedance/debugtron) topic:debugging-tool,electron,electron-app,electron-debug pushed_at:2022-09 star:0.8k fork:0.1k Debug in-production Electron based app
 - [bytedance/fe-foundation](https://github.com/bytedance/fe-foundation) topic: pushed_at:2021-06 star:0.1k fork:0.0k UI Foundation for React Hooks and Vue Composition Api 
 - [bytedance/flow-builder](https://github.com/bytedance/flow-builder) topic:builder,flow,process,react pushed_at:2022-08 star:0.1k fork:0.0k A highly customizable streaming flow builder.
 - [bytedance/graphyne](https://github.com/bytedance/graphyne) topic:graphql,json,protobuf,thrift pushed_at:2019-03 star:0.0k fork:0.0k 
 - [bytedance/guide](https://github.com/bytedance/guide) topic:guide,highlight,onboarding,react,tour,typescript pushed_at:2022-02 star:0.6k fork:0.1k A new feature guide component by react 🧭
-- [bytedance/IconPark](https://github.com/bytedance/IconPark) topic:fill,icon,icon-components,icons,multiple-themes,stroke,svg,svg-icon,vue-component,vue-next,vue3 pushed_at:2022-08 star:6.4k fork:0.4k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
+- [bytedance/IconPark](https://github.com/bytedance/IconPark) topic:fill,icon,icon-components,icons,multiple-themes,stroke,svg,svg-icon,vue-component,vue-next,vue3 pushed_at:2022-08 star:6.5k fork:0.4k 🍎Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons
 - [bytedance/magic-microservices](https://github.com/bytedance/magic-microservices) topic:domain-driven-design,javascript,meta-framework,micro-frontends,react,svelte,typescript,vue,webcomponents pushed_at:2022-05 star:0.5k fork:0.0k Make Web Components easier and powerful!😘
 - [bytedance/magic-portal](https://github.com/bytedance/magic-portal) topic:component,micro-component,micro-frontend,microservices pushed_at:2021-07 star:0.1k fork:0.0k ⚡ A blazing fast micro-component and micro-frontend solution uses web-components under the hood.
-- [bytedance/mona](https://github.com/bytedance/mona) topic: pushed_at:2022-09 star:0.0k fork:0.0k mona is for developing merchant's app
-- [bytedance/mona-templates](https://github.com/bytedance/mona-templates) topic: pushed_at:2022-09 star:0.0k fork:0.0k template's repo for mona-cli-init
+- [bytedance/mona](https://github.com/bytedance/mona) topic: pushed_at:2022-10 star:0.0k fork:0.0k mona is for developing merchant's app
+- [bytedance/mona-templates](https://github.com/bytedance/mona-templates) topic: pushed_at:2022-10 star:0.0k fork:0.0k template's repo for mona-cli-init
 - [bytedance/react-model](https://github.com/bytedance/react-model) topic: pushed_at:2021-03 star:0.2k fork:0.0k The next generation state management library for React
-- [bytedance/syllepsis](https://github.com/bytedance/syllepsis) topic: pushed_at:2022-09 star:0.2k fork:0.0k Syllepsis is an out-of-the-box rich text editor.
+- [bytedance/syllepsis](https://github.com/bytedance/syllepsis) topic: pushed_at:2022-10 star:0.2k fork:0.0k Syllepsis is an out-of-the-box rich text editor.
 - [bytedance/TiktokBusinessPlugin](https://github.com/bytedance/TiktokBusinessPlugin) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 - [bytedance/vis-tree](https://github.com/bytedance/vis-tree) topic: pushed_at:2022-01 star:0.0k fork:0.0k Visualization of tree data
 
