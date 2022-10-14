@@ -60,7 +60,7 @@
 
 ## JavaScript
 
-- [tuna/danmaQ](https://github.com/tuna/danmaQ) topic: pushed_at:2021-08 star:0.2k fork:0.1k danmaku implemented in Qt5
+- [tuna/danmaQ](https://github.com/tuna/danmaQ) topic: pushed_at:2021-08 star:0.2k fork:0.0k danmaku implemented in Qt5
 - [tuna/fakeTunet](https://github.com/tuna/fakeTunet) topic: pushed_at:2016-05 star:0.0k fork:0.0k a fake net.tsinghua.edu.cn
 - [tuna/Logbot](https://github.com/tuna/Logbot) topic: pushed_at:2014-11 star:0.0k fork:0.0k Simple IRC logger with realtime web-based viewer
 - [tuna/registr](https://github.com/tuna/registr) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
@@ -119,7 +119,7 @@
 ## TypeScript
 
 - [tuna/aws-ecr-proxy](https://github.com/tuna/aws-ecr-proxy) topic: pushed_at:2020-10 star:0.0k fork:0.0k Public endpoint for AWS Elastic Container Registry
-- [tuna/opentuna](https://github.com/tuna/opentuna) topic:aws,aws-cdk,tuna pushed_at:2022-09 star:0.1k fork:0.0k TUNA on AWS
+- [tuna/opentuna](https://github.com/tuna/opentuna) topic:aws,aws-cdk,tuna pushed_at:2022-10 star:0.1k fork:0.0k TUNA on AWS
 
 
 ## License

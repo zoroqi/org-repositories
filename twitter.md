@@ -35,7 +35,7 @@
 - [twitter/fatcache](https://github.com/twitter/fatcache) topic: pushed_at:2021-11 star:1.3k fork:0.2k Memcache on SSD
 - [twitter/ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) topic:cache,image-pipeline,ios,objective-c,swift,twitter pushed_at:2022-03 star:1.8k fork:0.1k Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) topic: pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
-- [twitter/pelikan](https://github.com/twitter/pelikan) topic: pushed_at:2022-10 star:1.4k fork:0.1k Pelikan is Twitter's unified cache backend
+- [twitter/pelikan](https://github.com/twitter/pelikan) topic: pushed_at:2022-10 star:1.6k fork:0.1k Pelikan is Twitter's unified cache backend
 - [twitter/twemcache](https://github.com/twitter/twemcache) topic: pushed_at:2021-11 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) topic: pushed_at:2022-10 star:11.6k fork:2.0k A fast, light-weight proxy for memcached and redis
 
@@ -58,7 +58,7 @@
 
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) topic: pushed_at:2021-10 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/interactive](https://github.com/twitter/interactive) topic: pushed_at:2021-11 star:0.2k fork:0.1k Twitter interactive visualization
-- [twitter/scala_school](https://github.com/twitter/scala_school) topic: pushed_at:2021-10 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
+- [twitter/scala_school](https://github.com/twitter/scala_school) topic: pushed_at:2022-10 star:3.6k fork:1.1k Lessons in the Fundamentals of Scala
 - [twitter/twemoji](https://github.com/twitter/twemoji) topic:emoji,twemoji pushed_at:2022-10 star:14.7k fork:1.7k Emoji for everyone. https://twemoji.twitter.com/
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) topic:emoji,java,nodejs,objective-c,ruby,tweet,twitter,twitter-text,unicode pushed_at:2022-08 star:2.8k fork:0.5k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) topic: pushed_at:2021-10 star:0.1k fork:0.0k 
@@ -148,11 +148,11 @@
 ## Scala
 
 - [twitter/algebird](https://github.com/twitter/algebird) topic: pushed_at:2022-10 star:2.2k fork:0.3k Abstract Algebra for Scala
-- [twitter/bazel-multiversion](https://github.com/twitter/bazel-multiversion) topic:bazel,bazel-build,bazel-rules,coursier,dependency-manager,java,jvm,kotlin,scala pushed_at:2022-09 star:0.0k fork:0.0k Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier. 
-- [twitter/bijection](https://github.com/twitter/bijection) topic: pushed_at:2022-08 star:0.6k fork:0.1k Reversible conversions between types
+- [twitter/bazel-multiversion](https://github.com/twitter/bazel-multiversion) topic:bazel,bazel-build,bazel-rules,coursier,dependency-manager,java,jvm,kotlin,scala pushed_at:2022-10 star:0.0k fork:0.0k Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier. 
+- [twitter/bijection](https://github.com/twitter/bijection) topic: pushed_at:2022-10 star:0.6k fork:0.1k Reversible conversions between types
 - [twitter/cassovary](https://github.com/twitter/cassovary) topic: pushed_at:2021-10 star:1.0k fork:0.1k Cassovary is a simple big graph processing library for the JVM
 - [twitter/chill](https://github.com/twitter/chill) topic: pushed_at:2022-09 star:0.6k fork:0.1k Scala extensions for the Kryo serialization library
-- [twitter/finagle](https://github.com/twitter/finagle) topic:distributed-systems,finagle,http,http2,java,memcached,mysql,redis,rpc,scala,thrift,zipkin pushed_at:2022-10 star:8.3k fork:1.4k A fault tolerant, protocol-agnostic RPC system
+- [twitter/finagle](https://github.com/twitter/finagle) topic:distributed-systems,finagle,http,http2,java,memcached,mysql,redis,rpc,scala,thrift,zipkin pushed_at:2022-10 star:8.4k fork:1.4k A fault tolerant, protocol-agnostic RPC system
 - [twitter/finatra](https://github.com/twitter/finatra) topic:finagle,framework,guice,http,microservices,scala,slf4j,testing,thrift,twitter-server pushed_at:2022-10 star:2.2k fork:0.4k Fast, testable, Scala services built on TwitterServer and Finagle
 - [twitter/iago2](https://github.com/twitter/iago2) topic: pushed_at:2019-12 star:0.0k fork:0.0k A load generator, built for engineers
 - [twitter/rsc](https://github.com/twitter/rsc) topic: pushed_at:2021-10 star:1.2k fork:0.0k Experimental Scala compiler focused on compilation speed
@@ -165,7 +165,7 @@
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) topic: pushed_at:2022-04 star:0.1k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) topic: pushed_at:2021-08 star:0.8k fork:0.2k Korean tokenizer
 - [twitter/twitter-server](https://github.com/twitter/twitter-server) topic:finagle,finatra pushed_at:2022-10 star:1.4k fork:0.2k Twitter-Server defines a template from which services at Twitter are built
-- [twitter/util](https://github.com/twitter/util) topic:finagle,scala,utility pushed_at:2022-10 star:2.6k fork:0.6k Wonderful reusable code from Twitter
+- [twitter/util](https://github.com/twitter/util) topic:finagle,scala,utility pushed_at:2022-10 star:2.6k fork:0.5k Wonderful reusable code from Twitter
 
 ## Shell
 
@@ -181,7 +181,7 @@
 ## Swift
 
 - [twitter/ios-twitter-apache-thrift](https://github.com/twitter/ios-twitter-apache-thrift) topic: pushed_at:2022-02 star:0.0k fork:0.0k A thrift encoding and decoding library for Swift
-- [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) topic:ios,swift,textkit,uikit pushed_at:2022-07 star:2.7k fork:0.1k A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
+- [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) topic:ios,swift,textkit,uikit pushed_at:2022-07 star:2.8k fork:0.1k A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
 
 ## TypeScript
 

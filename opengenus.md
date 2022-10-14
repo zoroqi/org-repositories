@@ -21,7 +21,7 @@
 
 ## C++
 
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) topic:algorithm,datastructures,hacktoberfest,hacktoberfest-accepted,hacktoberfest2021,hacktoberfest2022,internship,internships,interview-questions,library,offline-app,opengenus,search-algorithms,sorting-algorithms pushed_at:2022-10 star:13.2k fork:3.5k Hacktoberfest 2022 | World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) topic:algorithm,datastructures,hacktoberfest,hacktoberfest-accepted,hacktoberfest2021,hacktoberfest2022,internship,internships,interview-questions,library,offline-app,opengenus,search-algorithms,sorting-algorithms pushed_at:2022-10 star:13.2k fork:3.6k Hacktoberfest 2022 | World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) topic:code-search,hacktoberfest,hacktoberfest2021,javascript,offline,opengenus,search-engine pushed_at:2022-10 star:0.6k fork:0.1k Stay happy while offline | World's first offline search engine. 
 
 ## CSS
