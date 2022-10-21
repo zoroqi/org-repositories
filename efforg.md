@@ -109,7 +109,7 @@
 - [EFForg/https-docs](https://github.com/EFForg/https-docs) topic: pushed_at:2018-01 star:0.0k fork:0.0k 
 - [EFForg/OpenWireless-WebUI](https://github.com/EFForg/OpenWireless-WebUI) topic: pushed_at:2014-03 star:0.0k fork:0.0k Open Wireless Web UI
 - [EFForg/ow-python](https://github.com/EFForg/ow-python) topic: pushed_at:2014-07 star:0.0k fork:0.0k stripped down implementation of python for openwireless
-- [EFForg/phantom-of-the-capitol](https://github.com/EFForg/phantom-of-the-capitol) topic: pushed_at:2022-07 star:0.2k fork:0.1k 
+- [EFForg/phantom-of-the-capitol](https://github.com/EFForg/phantom-of-the-capitol) topic: pushed_at:2022-10 star:0.2k fork:0.1k 
 - [EFForg/psi-tumblr-uploader](https://github.com/EFForg/psi-tumblr-uploader) topic: pushed_at:2014-08 star:0.0k fork:0.0k 
 - [EFForg/sentry](https://github.com/EFForg/sentry) topic: pushed_at:2016-08 star:0.0k fork:0.0k docker-compose setup for sentry exception manager
 - [EFForg/ssd-l10n](https://github.com/EFForg/ssd-l10n) topic: pushed_at:2016-12 star:0.0k fork:0.0k ssd-l10n
@@ -166,7 +166,7 @@
 
 ## SCSS
 
-- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) topic: pushed_at:2022-09 star:0.0k fork:0.0k Code and content of https://privacybadger.org
+- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) topic: pushed_at:2022-10 star:0.0k fork:0.0k Code and content of https://privacybadger.org
 
 ## Sass
 

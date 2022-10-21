@@ -42,14 +42,14 @@
 - [openai/box2d-py](https://github.com/openai/box2d-py) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [openai/coinrun](https://github.com/openai/coinrun) topic: pushed_at:2020-12 star:0.3k fork:0.1k Code for the paper "Quantifying Transfer in Reinforcement Learning"
 - [openai/doom-py](https://github.com/openai/doom-py) topic: pushed_at:2019-10 star:0.1k fork:0.0k ViZDoom Python wrapper
-- [openai/procgen](https://github.com/openai/procgen) topic: pushed_at:2022-08 star:0.7k fork:0.1k Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
+- [openai/procgen](https://github.com/openai/procgen) topic: pushed_at:2022-10 star:0.7k fork:0.1k Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
 - [openai/pytorch](https://github.com/openai/pytorch) topic: pushed_at:2021-10 star:0.0k fork:0.0k Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [openai/robot_controllers](https://github.com/openai/robot_controllers) topic: pushed_at:2016-07 star:0.0k fork:0.0k Robot control infrastructure
 - [openai/triton](https://github.com/openai/triton) topic: pushed_at:2022-10 star:4.1k fork:0.3k Development repository for the Triton language and compiler
 
 ## CSS
 
-- [openai/openai-quickstart-python](https://github.com/openai/openai-quickstart-python) topic: pushed_at:2022-07 star:0.1k fork:0.1k Python example app from the OpenAI API quickstart tutorial
+- [openai/openai-quickstart-python](https://github.com/openai/openai-quickstart-python) topic: pushed_at:2022-10 star:0.1k fork:0.1k Python example app from the OpenAI API quickstart tutorial
 - [openai/signup-forms](https://github.com/openai/signup-forms) topic:paper pushed_at:2018-11 star:0.0k fork:0.0k Code for the paper "World of Bits: An Open-Domain Platform for Web-Based Agents"
 
 ## Cuda
@@ -85,11 +85,11 @@
 ## Jupyter Notebook
 
 - [openai/baselines-results](https://github.com/openai/baselines-results) topic: pushed_at:2020-07 star:0.1k fork:0.0k 
-- [openai/CLIP](https://github.com/openai/CLIP) topic: pushed_at:2022-09 star:10.2k fork:1.5k Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) topic: pushed_at:2022-09 star:10.3k fork:1.5k Contrastive Language-Image Pretraining
 - [openai/lucid](https://github.com/openai/lucid) topic: pushed_at:2019-01 star:0.0k fork:0.0k A collection of infrastructure and tools for research in neural network interpretability.
 - [openai/ot-gan](https://github.com/openai/ot-gan) topic:paper pushed_at:2018-11 star:0.1k fork:0.0k  Code for the paper "Improving GANs Using Optimal Transport"
 - [openai/ppo-ewma](https://github.com/openai/ppo-ewma) topic: pushed_at:2021-10 star:0.0k fork:0.0k Code for the paper "Batch size invariance for policy optimization"
-- [openai/whisper](https://github.com/openai/whisper) topic: pushed_at:2022-10 star:12.6k fork:0.9k Robust Speech Recognition via Large-Scale Weak Supervision
+- [openai/whisper](https://github.com/openai/whisper) topic: pushed_at:2022-10 star:13.1k fork:1.0k Robust Speech Recognition via Large-Scale Weak Supervision
 
 ## Lean
 
@@ -97,7 +97,7 @@
 
 ## Mustache
 
-- [openai/openai-openapi](https://github.com/openai/openai-openapi) topic: pushed_at:2022-06 star:0.0k fork:0.0k OpenAPI specification for the OpenAI API
+- [openai/openai-openapi](https://github.com/openai/openai-openapi) topic: pushed_at:2022-10 star:0.0k fork:0.0k OpenAPI specification for the OpenAI API
 
 ## Objective-C++
 
@@ -111,7 +111,7 @@
 - [openai/dalle-2-preview](https://github.com/openai/dalle-2-preview) topic: pushed_at:2022-07 star:1.0k fork:0.1k 
 - [openai/following-instructions-human-feedback](https://github.com/openai/following-instructions-human-feedback) topic: pushed_at:2022-01 star:0.2k fork:0.0k 
 - [openai/go-retryablehttp](https://github.com/openai/go-retryablehttp) topic: pushed_at:2020-06 star:0.0k fork:0.0k Retryable HTTP client in Go
-- [openai/gpt-3](https://github.com/openai/gpt-3) topic: pushed_at:2020-09 star:11.6k fork:1.5k GPT-3: Language Models are Few-Shot Learners
+- [openai/gpt-3](https://github.com/openai/gpt-3) topic: pushed_at:2020-09 star:11.7k fork:1.5k GPT-3: Language Models are Few-Shot Learners
 - [openai/GPT-3-Encoder](https://github.com/openai/GPT-3-Encoder) topic: pushed_at:2020-11 star:0.0k fork:0.0k Javascript BPE Encoder Decoder for GPT-2 / GPT-3
 - [openai/lustre](https://github.com/openai/lustre) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
 - [openai/moderation-api-release](https://github.com/openai/moderation-api-release) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
@@ -124,7 +124,7 @@
 - [openai/baselines](https://github.com/openai/baselines) topic: pushed_at:2022-06 star:13.0k fork:4.4k OpenAI Baselines: high-quality implementations of reinforcement learning algorithms
 - [openai/CLIP-featurevis](https://github.com/openai/CLIP-featurevis) topic: pushed_at:2021-03 star:0.3k fork:0.0k code for reproducing some of the diagrams in the paper "Multimodal Neurons in Artificial Neural Networks"
 - [openai/code-align-evals-data](https://github.com/openai/code-align-evals-data) topic: pushed_at:2021-07 star:0.0k fork:0.0k 
-- [openai/DALL-E](https://github.com/openai/DALL-E) topic: pushed_at:2022-09 star:9.0k fork:1.6k PyTorch package for the discrete VAE used for DALL·E.
+- [openai/DALL-E](https://github.com/openai/DALL-E) topic: pushed_at:2022-10 star:9.0k fork:1.6k PyTorch package for the discrete VAE used for DALL·E.
 - [openai/deeptype](https://github.com/openai/deeptype) topic:paper pushed_at:2019-03 star:0.6k fork:0.1k  Code for the paper "DeepType: Multilingual Entity Linking by Neural Type System Evolution"
 - [openai/distribution_augmentation](https://github.com/openai/distribution_augmentation) topic: pushed_at:2021-12 star:0.1k fork:0.0k Code for the paper, "Distribution Augmentation for Generative Modeling", ICML 2020.
 - [openai/ebm_code_release](https://github.com/openai/ebm_code_release) topic: pushed_at:2019-04 star:0.3k fork:0.1k Code for Implicit Generation and Generalization with Energy Based Models
@@ -140,7 +140,7 @@
 - [openai/grade-school-math](https://github.com/openai/grade-school-math) topic: pushed_at:2021-11 star:0.2k fork:0.0k 
 - [openai/grok](https://github.com/openai/grok) topic: pushed_at:2022-01 star:0.1k fork:0.0k 
 - [openai/guided-diffusion](https://github.com/openai/guided-diffusion) topic: pushed_at:2022-08 star:2.5k fork:0.4k 
-- [openai/gym](https://github.com/openai/gym) topic: pushed_at:2022-10 star:28.8k fork:8.0k A toolkit for developing and comparing reinforcement learning algorithms.
+- [openai/gym](https://github.com/openai/gym) topic: pushed_at:2022-10 star:28.9k fork:8.0k A toolkit for developing and comparing reinforcement learning algorithms.
 - [openai/gym-http-api](https://github.com/openai/gym-http-api) topic: pushed_at:2019-07 star:0.3k fork:0.1k API to access OpenAI Gym from other languages via HTTP
 - [openai/gym-recording](https://github.com/openai/gym-recording) topic: pushed_at:2020-10 star:0.1k fork:0.0k Add-on package to gym, to record sequences of actions, observations, and rewards
 - [openai/gym-soccer](https://github.com/openai/gym-soccer) topic: pushed_at:2021-12 star:0.3k fork:0.2k 
@@ -223,7 +223,7 @@
 
 ## TypeScript
 
-- [openai/openai-node](https://github.com/openai/openai-node) topic: pushed_at:2022-09 star:0.1k fork:0.0k Node.js library for the OpenAI API
+- [openai/openai-node](https://github.com/openai/openai-node) topic: pushed_at:2022-10 star:0.1k fork:0.0k Node.js library for the OpenAI API
 
 
 ## License
