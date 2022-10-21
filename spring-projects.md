@@ -21,7 +21,7 @@
 
 ## CSS
 
-- [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) topic: pushed_at:2022-10 star:5.9k fork:17.3k A sample Spring-based application
+- [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) topic: pushed_at:2022-10 star:5.9k fork:17.4k A sample Spring-based application
 - [spring-projects/spring-webflow-samples](https://github.com/spring-projects/spring-webflow-samples) topic: pushed_at:2022-08 star:0.4k fork:0.6k 
 
 ## Groovy
@@ -36,8 +36,8 @@
 - [spring-projects/spring-aot-smoke-tests](https://github.com/spring-projects/spring-aot-smoke-tests) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) topic: pushed_at:2022-10 star:3.9k fork:0.9k Spring Authorization Server
 - [spring-projects/spring-batch](https://github.com/spring-projects/spring-batch) topic: pushed_at:2022-10 star:2.2k fork:2.1k Spring Batch is a framework for writing offline and batch applications using Spring and Java
-- [spring-projects/spring-batch-extensions](https://github.com/spring-projects/spring-batch-extensions) topic: pushed_at:2022-06 star:0.2k fork:0.2k Spring Batch Extensions
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) topic:framework,java,spring,spring-boot pushed_at:2022-10 star:63.6k fork:37.3k Spring Boot
+- [spring-projects/spring-batch-extensions](https://github.com/spring-projects/spring-batch-extensions) topic: pushed_at:2022-10 star:0.2k fork:0.2k Spring Batch Extensions
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) topic:framework,java,spring,spring-boot pushed_at:2022-10 star:63.7k fork:37.4k Spring Boot
 - [spring-projects/spring-boot-data-geode](https://github.com/spring-projects/spring-boot-data-geode) topic:apache-geode,framework,java,spring,spring-boot pushed_at:2022-10 star:0.0k fork:0.0k Spring Boot support for Apache Geode and VMware Tanzu GemFire
 - [spring-projects/spring-credhub](https://github.com/spring-projects/spring-credhub) topic: pushed_at:2022-10 star:0.0k fork:0.0k Spring abstractions for Cloud Foundry CredHub
 - [spring-projects/spring-data-book](https://github.com/spring-projects/spring-data-book) topic: pushed_at:2022-07 star:1.3k fork:1.1k Spring Data - The Definitive Guide - Modern Data Access for Enterprise Java Developers
@@ -59,7 +59,7 @@
 - [spring-projects/spring-data-release](https://github.com/spring-projects/spring-data-release) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [spring-projects/spring-data-rest](https://github.com/spring-projects/spring-data-rest) topic:ddd,framework,java,spring,spring-data pushed_at:2022-10 star:0.8k fork:0.5k Simplifies building hypermedia-driven REST web services on top of Spring Data repositories
 - [spring-projects/spring-data-solr](https://github.com/spring-projects/spring-data-solr) topic: pushed_at:2022-07 star:0.4k fork:0.3k Spring Data - Apache Solr integration
-- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) topic:framework,spring,spring-framework pushed_at:2022-10 star:49.4k fork:34.8k Spring Framework
+- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) topic:framework,spring,spring-framework pushed_at:2022-10 star:49.4k fork:34.9k Spring Framework
 - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) topic:graphql,spring-graphql pushed_at:2022-10 star:1.2k fork:0.2k Spring Integration for GraphQL 
 - [spring-projects/spring-guice](https://github.com/spring-projects/spring-guice) topic: pushed_at:2022-10 star:0.1k fork:0.1k Tools for using Spring in Guice and Guice in Spring
 - [spring-projects/spring-hateoas](https://github.com/spring-projects/spring-hateoas) topic: pushed_at:2022-10 star:1.0k fork:0.5k Spring HATEOAS - Library to support implementing representations for hyper-text driven REST web services.
@@ -69,7 +69,7 @@
 - [spring-projects/spring-integration-extensions](https://github.com/spring-projects/spring-integration-extensions) topic: pushed_at:2022-10 star:0.3k fork:0.3k The Spring Integration Extensions project provides extension components for Spring Integration
 - [spring-projects/spring-integration-flow](https://github.com/spring-projects/spring-integration-flow) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
 - [spring-projects/spring-integration-kafka](https://github.com/spring-projects/spring-integration-kafka) topic: pushed_at:2022-01 star:0.3k fork:0.2k 
-- [spring-projects/spring-integration-samples](https://github.com/spring-projects/spring-integration-samples) topic: pushed_at:2022-09 star:2.1k fork:2.5k You are looking for examples, code snippets, sample applications for Spring Integration? This is the place.
+- [spring-projects/spring-integration-samples](https://github.com/spring-projects/spring-integration-samples) topic: pushed_at:2022-10 star:2.1k fork:2.5k You are looking for examples, code snippets, sample applications for Spring Integration? This is the place.
 - [spring-projects/spring-integration-splunk](https://github.com/spring-projects/spring-integration-splunk) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
 - [spring-projects/spring-kafka](https://github.com/spring-projects/spring-kafka) topic: pushed_at:2022-10 star:1.8k fork:1.3k Provides Familiar Spring Abstractions for Apache Kafka
 - [spring-projects/spring-ldap](https://github.com/spring-projects/spring-ldap) topic: pushed_at:2022-10 star:0.3k fork:0.5k Spring LDAP
@@ -82,7 +82,7 @@
 - [spring-projects/spring-security-saml](https://github.com/spring-projects/spring-security-saml) topic: pushed_at:2022-05 star:0.4k fork:0.5k SAML extension for the Spring Security project
 - [spring-projects/spring-security-samples](https://github.com/spring-projects/spring-security-samples) topic: pushed_at:2022-10 star:0.5k fork:0.3k 
 - [spring-projects/spring-session](https://github.com/spring-projects/spring-session) topic: pushed_at:2022-10 star:1.7k fork:1.0k Spring Session
-- [spring-projects/spring-session-bom](https://github.com/spring-projects/spring-session-bom) topic: pushed_at:2022-09 star:0.0k fork:0.0k Spring Session Bill of Materials
+- [spring-projects/spring-session-bom](https://github.com/spring-projects/spring-session-bom) topic: pushed_at:2022-10 star:0.0k fork:0.0k Spring Session Bill of Materials
 - [spring-projects/spring-session-data-geode](https://github.com/spring-projects/spring-session-data-geode) topic:apache-geode,framework,java,spring-session pushed_at:2022-09 star:0.0k fork:0.0k Spring Session support for Apache Geode and VMware Tanzu GemFire
 - [spring-projects/spring-session-data-mongodb](https://github.com/spring-projects/spring-session-data-mongodb) topic:mongodb,spring-session pushed_at:2021-06 star:0.0k fork:0.0k Spring Session for MongoDB
 - [spring-projects/spring-session-data-mongodb-examples](https://github.com/spring-projects/spring-session-data-mongodb-examples) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
@@ -92,13 +92,13 @@
 - [spring-projects/spring-vault](https://github.com/spring-projects/spring-vault) topic:encryption,framework,java,secrets,security,spring,vault pushed_at:2022-10 star:0.2k fork:0.2k Provides familiar Spring abstractions for HashiCorp Vault
 - [spring-projects/spring-webflow](https://github.com/spring-projects/spring-webflow) topic: pushed_at:2022-09 star:0.3k fork:0.2k Spring Web Flow
 - [spring-projects/spring-ws](https://github.com/spring-projects/spring-ws) topic: pushed_at:2022-10 star:0.3k fork:0.3k Spring Web Services
-- [spring-projects/spring-ws-samples](https://github.com/spring-projects/spring-ws-samples) topic: pushed_at:2022-07 star:0.1k fork:0.1k 
+- [spring-projects/spring-ws-samples](https://github.com/spring-projects/spring-ws-samples) topic: pushed_at:2022-10 star:0.1k fork:0.1k 
 - [spring-projects/sts4](https://github.com/spring-projects/sts4) topic:eclipse,spring,spring-boot,sts4,theia,visual-studio-code,vscode-extension pushed_at:2022-10 star:0.7k fork:0.2k The next generation of tooling for Spring Boot, including support for Cloud Foundry manifest files, Concourse CI pipeline definitions, BOSH deployment manifests, and more... - Available for Eclipse, Visual Studio Code, and Theia
 
 ## JavaScript
 
-- [spring-projects/gh-pages](https://github.com/spring-projects/gh-pages) topic: pushed_at:2022-07 star:0.0k fork:0.0k Shared gh-pages content for Spring projects
-- [spring-projects/spring-restdocs-samples](https://github.com/spring-projects/spring-restdocs-samples) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
+- [spring-projects/gh-pages](https://github.com/spring-projects/gh-pages) topic: pushed_at:2022-10 star:0.0k fork:0.0k Shared gh-pages content for Spring projects
+- [spring-projects/spring-restdocs-samples](https://github.com/spring-projects/spring-restdocs-samples) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 
 ## Others
 

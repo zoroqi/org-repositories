@@ -27,7 +27,7 @@
 
 - [baidu/baidu-iot-samples](https://github.com/baidu/baidu-iot-samples) topic: pushed_at:2019-10 star:0.1k fork:0.1k 
 - [baidu/boteye_sensor](https://github.com/baidu/boteye_sensor) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2022-09 star:1.2k fork:0.2k dperf is a DPDK based 100Gbps network performance and load testing software.
+- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2022-10 star:1.2k fork:0.2k dperf is a DPDK based 100Gbps network performance and load testing software.
 - [baidu/du1906_esp](https://github.com/baidu/du1906_esp) topic: pushed_at:2022-08 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
 - [baidu/iot-edge-sdk-for-iot-parser](https://github.com/baidu/iot-edge-sdk-for-iot-parser) topic: pushed_at:2019-02 star:0.1k fork:0.1k 
 - [baidu/iot-sdk-c](https://github.com/baidu/iot-sdk-c) topic:device-management,edge-sdk,mqtt,sdk pushed_at:2022-04 star:0.1k fork:0.1k device sdk for baidu IoT Core service, in c. Including MQTT client
@@ -71,7 +71,7 @@
 - [baidu/baiducloud-sdk-go](https://github.com/baidu/baiducloud-sdk-go) topic: pushed_at:2019-10 star:0.0k fork:0.0k Go SDK for Baidu Cloud
 - [baidu/brcc-go-sdk](https://github.com/baidu/brcc-go-sdk) topic: pushed_at:2022-06 star:0.0k fork:0.0k golang sdk for BRCC (https://github.com/baidu/brcc)
 - [baidu/cluster-api-provider-baiducloud](https://github.com/baidu/cluster-api-provider-baiducloud) topic: pushed_at:2018-12 star:0.0k fork:0.0k Kubernetes cluster-api for Baidu Cloud
-- [baidu/EasyFaaS](https://github.com/baidu/EasyFaaS) topic: pushed_at:2021-10 star:0.6k fork:0.1k EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎
+- [baidu/EasyFaaS](https://github.com/baidu/EasyFaaS) topic: pushed_at:2022-10 star:0.6k fork:0.1k EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎
 - [baidu/go-lib](https://github.com/baidu/go-lib) topic: pushed_at:2021-10 star:0.1k fork:0.0k 
 - [baidu/ote-stack](https://github.com/baidu/ote-stack) topic:docker,edge-cluster,edge-computing,golang,k3s,kubernetes pushed_at:2020-07 star:0.1k fork:0.0k OTE-Stack is an edge computing platform for 5G and AI
 - [baidu/paddle-on-k8s-operator](https://github.com/baidu/paddle-on-k8s-operator) topic: pushed_at:2020-03 star:0.0k fork:0.0k Kubernetes operator for managing the lifecycle of PaddlePaddle job.
@@ -91,7 +91,7 @@
 - [baidu/OASP](https://github.com/baidu/OASP) topic: pushed_at:2017-11 star:0.0k fork:0.0k OASP (Online App Status Protocol)
 - [baidu/smartapp-openapi-java](https://github.com/baidu/smartapp-openapi-java) topic: pushed_at:2022-06 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for java，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
 - [baidu/speech-samples](https://github.com/baidu/speech-samples) topic: pushed_at:2018-02 star:0.0k fork:0.0k 百度语音示例
-- [baidu/starlight](https://github.com/baidu/starlight) topic:brpc,high-performance,microservice,netty,protobuf,rpc,spring-boot,spring-cloud pushed_at:2022-10 star:0.8k fork:0.3k Java implementation for Baidu RPC, multi-protocol & high performance RPC.
+- [baidu/starlight](https://github.com/baidu/starlight) topic:brpc,high-performance,microservice,netty,protobuf,rpc,spring-boot,spring-cloud pushed_at:2022-10 star:0.9k fork:0.3k Java implementation for Baidu RPC, multi-protocol & high performance RPC.
 - [baidu/terminator](https://github.com/baidu/terminator) topic: pushed_at:2016-11 star:0.1k fork:0.0k Service Virtualization
 - [baidu/titan-dex](https://github.com/baidu/titan-dex) topic: pushed_at:2022-05 star:0.2k fork:0.0k 
 - [baidu/titan-hotfix](https://github.com/baidu/titan-hotfix) topic: pushed_at:2022-05 star:0.1k fork:0.0k 
@@ -147,7 +147,7 @@
 - [baidu/ARK](https://github.com/baidu/ARK) topic:framework,operation pushed_at:2021-05 star:0.1k fork:0.0k Development framework of intelligent operation
 - [baidu/baiduads-sdk](https://github.com/baidu/baiduads-sdk) topic:ads,baidu,sdk pushed_at:2022-09 star:0.0k fork:0.0k Baidu Ads API SDK
 - [baidu/broc](https://github.com/baidu/broc) topic: pushed_at:2017-12 star:0.1k fork:0.1k 
-- [baidu/CUP](https://github.com/baidu/CUP) topic:common-libraries,common-libs,library,python pushed_at:2022-02 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
+- [baidu/CUP](https://github.com/baidu/CUP) topic:common-libraries,common-libs,library,python pushed_at:2022-10 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
 - [baidu/DDParser](https://github.com/baidu/DDParser) topic:chinese-dependency-parser,chinese-nlp,dependency-parser,dependency-parsing,python,syntax-parser pushed_at:2021-11 star:0.8k fork:0.1k 百度开源的依存句法分析系统
 - [baidu/Dialogue](https://github.com/baidu/Dialogue) topic:chatbot,dialogue,research pushed_at:2022-07 star:0.4k fork:0.1k 
 - [baidu/duedge-cli](https://github.com/baidu/duedge-cli) topic: pushed_at:2020-03 star:0.0k fork:0.0k DuEdge Command Line

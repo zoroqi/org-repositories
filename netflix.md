@@ -136,7 +136,7 @@
 - [Netflix/gradle-template](https://github.com/Netflix/gradle-template) topic: pushed_at:2020-05 star:0.2k fork:0.1k 
 - [Netflix/hollow](https://github.com/Netflix/hollow) topic: pushed_at:2022-08 star:1.1k fork:0.2k Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access.
 - [Netflix/hollow-reference-implementation](https://github.com/Netflix/hollow-reference-implementation) topic: pushed_at:2022-07 star:0.0k fork:0.0k A reference implementation of Hollow -- designed to get you up and running in minutes.
-- [Netflix/Hystrix](https://github.com/Netflix/Hystrix) topic: pushed_at:2022-06 star:23.0k fork:4.7k Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
+- [Netflix/Hystrix](https://github.com/Netflix/Hystrix) topic: pushed_at:2022-10 star:23.0k fork:4.7k Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [Netflix/iceberg](https://github.com/Netflix/iceberg) topic:avro,hadoop,parquet,spark pushed_at:2021-11 star:0.4k fork:0.1k Iceberg is a table format for large, slow-moving tabular data
 - [Netflix/iep](https://github.com/Netflix/iep) topic: pushed_at:2022-10 star:0.1k fork:0.0k Insight Engineering Platform Components
 - [Netflix/karyon](https://github.com/Netflix/karyon) topic: pushed_at:2021-11 star:0.5k fork:0.2k The nucleus or the base container for Applications and Services built using the NetflixOSS ecosystem
@@ -263,7 +263,7 @@
 - [Netflix/image_compression_comparison](https://github.com/Netflix/image_compression_comparison) topic: pushed_at:2021-08 star:0.2k fork:0.0k Image Compression Comparison Framework
 - [Netflix/lemur](https://github.com/Netflix/lemur) topic:aws,python,security,ssl,ssl-certificates,tls pushed_at:2022-10 star:1.6k fork:0.3k Repository for the Lemur Certificate Manager
 - [Netflix/lemur-docker](https://github.com/Netflix/lemur-docker) topic:security pushed_at:2022-02 star:0.2k fork:0.1k Docker files for the Lemur certificate orchestration tool
-- [Netflix/metaflow](https://github.com/Netflix/metaflow) topic:ai,cli,data-science,datascience,high-performance-computing,kubernetes,machine-learning,ml,ml-infrastructure,ml-platform,mlops,model-management,productivity,python,r,r-package,reproducible-research,rstats pushed_at:2022-10 star:6.0k fork:0.6k :rocket: Build and manage real-life data science projects with ease!
+- [Netflix/metaflow](https://github.com/Netflix/metaflow) topic:ai,cli,data-science,datascience,high-performance-computing,kubernetes,machine-learning,ml,ml-infrastructure,ml-platform,mlops,model-management,productivity,python,r,r-package,reproducible-research,rstats pushed_at:2022-10 star:6.1k fork:0.6k :rocket: Build and manage real-life data science projects with ease!
 - [Netflix/metaflow-extensions-template](https://github.com/Netflix/metaflow-extensions-template) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
 - [Netflix/metaflow-service](https://github.com/Netflix/metaflow-service) topic:ai,data-science,machine-learning,metaflow,ml,ml-infrastructure,ml-platform,productivity,ui pushed_at:2022-10 star:0.1k fork:0.0k :rocket: Metadata tracking and UI service for Metaflow!
 - [Netflix/nflxprofile](https://github.com/Netflix/nflxprofile) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
@@ -272,7 +272,7 @@
 - [Netflix/security_monkey](https://github.com/Netflix/security_monkey) topic:aws,aws-ec2,aws-iam,aws-policy-tracking,aws-s3,aws-security,aws-sqs,aws-vpc,boto,boto3,botocore,python,security pushed_at:2021-02 star:4.3k fork:0.8k Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 - [Netflix/spectator-py](https://github.com/Netflix/spectator-py) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [Netflix/sureal](https://github.com/Netflix/sureal) topic: pushed_at:2022-06 star:0.1k fork:0.0k Subjective quality scores recovery from noisy measurements.
-- [Netflix/vmaf](https://github.com/Netflix/vmaf) topic: pushed_at:2022-09 star:3.1k fork:0.6k Perceptual video quality assessment based on multi-method fusion.
+- [Netflix/vmaf](https://github.com/Netflix/vmaf) topic: pushed_at:2022-10 star:3.1k fork:0.7k Perceptual video quality assessment based on multi-method fusion.
 
 ## R
 
