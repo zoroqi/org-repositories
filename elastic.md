@@ -165,7 +165,7 @@
 - [elastic/golang-crossbuild](https://github.com/elastic/golang-crossbuild) topic: pushed_at:2022-10 star:0.1k fork:0.0k 
 - [elastic/gosigar](https://github.com/elastic/gosigar) topic: pushed_at:2021-11 star:0.1k fork:0.1k Gathers system and per process statistics
 - [elastic/harp](https://github.com/elastic/harp) topic:cloud,cloud-security,cloud-storage,consul,encryption,etcdv3,gitops,golang,golang-library,kubernetes,kv-store,paseto,pipeline,rego,secret-management,secret-storage,unix-command,vault,yaml,zookeeper pushed_at:2022-10 star:0.1k fork:0.0k Secret management by contract toolchain 
-- [elastic/harp-plugins](https://github.com/elastic/harp-plugins) topic:assertion,aws,cel-go,golang,pipeline,plugins,secret-management,terraform,yubikey pushed_at:2022-02 star:0.0k fork:0.0k Harp Plugins - It uses Harp SDK to provide new features to your secret management pipelines.
+- [elastic/harp-plugins](https://github.com/elastic/harp-plugins) topic:assertion,aws,cel-go,golang,pipeline,plugins,secret-management,terraform,yubikey pushed_at:2022-10 star:0.0k fork:0.0k Harp Plugins - It uses Harp SDK to provide new features to your secret management pipelines.
 - [elastic/hey](https://github.com/elastic/hey) topic: pushed_at:2019-01 star:0.0k fork:0.0k HTTP load generator, ApacheBench (ab) replacement, formerly known as rakyll/boom
 - [elastic/hey-apm](https://github.com/elastic/hey-apm) topic: pushed_at:2022-01 star:0.0k fork:0.0k Basic load generation for apm-server built on hey
 - [elastic/k8s-integration-infra](https://github.com/elastic/k8s-integration-infra) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
@@ -173,7 +173,7 @@
 - [elastic/logstash-forwarder](https://github.com/elastic/logstash-forwarder) topic: pushed_at:2022-03 star:1.8k fork:0.4k An experiment to cut logs in preparation for processing elsewhere. Replaced by Filebeat: https://github.com/elastic/beats/tree/master/filebeat
 - [elastic/Machinebeat](https://github.com/elastic/Machinebeat) topic: pushed_at:2022-05 star:0.1k fork:0.0k This is a beat for collecting data of machines, sensors and PLCs. At the moment this is supporting OPC UA and MQTT. More to add.
 - [elastic/migrate-management-beats](https://github.com/elastic/migrate-management-beats) topic:beats pushed_at:2019-04 star:0.0k fork:0.0k Migrate between Beats Central Management 6.6 and 6.7
-- [elastic/mito](https://github.com/elastic/mito) topic: pushed_at:2022-08 star:0.0k fork:0.0k message stream processing engine based on CEL
+- [elastic/mito](https://github.com/elastic/mito) topic: pushed_at:2022-10 star:0.0k fork:0.0k message stream processing engine based on CEL
 - [elastic/opbeans-go](https://github.com/elastic/opbeans-go) topic: pushed_at:2022-09 star:0.0k fork:0.0k Opbeans Demo application for the Elastic APM Go agent
 - [elastic/package-registry](https://github.com/elastic/package-registry) topic: pushed_at:2022-10 star:0.0k fork:0.1k Elastic Package Registry (EPR)
 - [elastic/package-spec](https://github.com/elastic/package-spec) topic: pushed_at:2022-10 star:0.0k fork:0.0k EPR package specifications
@@ -234,7 +234,7 @@
 - [elastic/DataflowTemplates](https://github.com/elastic/DataflowTemplates) topic: pushed_at:2021-08 star:0.0k fork:0.0k Google-provided Cloud Dataflow template pipelines for solving simple in-Cloud data tasks
 - [elastic/die-with-dignity-plugin](https://github.com/elastic/die-with-dignity-plugin) topic: pushed_at:2021-11 star:0.0k fork:0.0k Elasticsearch plugin for causing cluster to die with dignity
 - [elastic/ecs-logging-java](https://github.com/elastic/ecs-logging-java) topic:ecs,java,logging pushed_at:2022-08 star:0.1k fork:0.1k Centralized logging for Java applications with the Elastic stack made easy
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) topic:elasticsearch,java,search-engine pushed_at:2022-10 star:61.5k fork:22.3k Free and Open, Distributed, RESTful Search Engine
+- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) topic:elasticsearch,java,search-engine pushed_at:2022-10 star:61.6k fork:22.4k Free and Open, Distributed, RESTful Search Engine
 - [elastic/elasticsearch-eland-docs](https://github.com/elastic/elasticsearch-eland-docs) topic: pushed_at:2020-10 star:0.0k fork:0.0k Elasticsearch Python client to analyse, explore and manipulate data
 - [elastic/elasticsearch-hadoop](https://github.com/elastic/elasticsearch-hadoop) topic: pushed_at:2022-10 star:1.9k fork:1.0k  :elephant: Elasticsearch real-time search and analytics natively integrated with Hadoop
 - [elastic/elasticsearch-hdfs](https://github.com/elastic/elasticsearch-hdfs) topic: pushed_at:2022-07 star:0.1k fork:0.0k Hadoop Plugin for ElasticSearch
@@ -467,8 +467,8 @@
 - [elastic/Group-picture-for-June-cohort](https://github.com/elastic/Group-picture-for-June-cohort) topic: pushed_at:2020-06 star:0.0k fork:0.0k We need Ben Ferer to please join X-School on June 16, 2020 at 10:50am Pacific time to take a pic of the 160 X-Schoolers. Thank you!
 - [elastic/gsoc](https://github.com/elastic/gsoc) topic:elastic,gsoc pushed_at:2021-05 star:0.0k fork:0.0k Google Summer of Code at Elastic: Projects and guidelines
 - [elastic/hkoscon16](https://github.com/elastic/hkoscon16) topic: pushed_at:2016-06 star:0.0k fork:0.0k Data for the "Processing and visualising Hong Kong government open data with Elasticsearch, Kibana and Timelion" workshop at HKOSCon 2016
+- [elastic/homebrew-geneve](https://github.com/elastic/homebrew-geneve) topic: pushed_at:2022-10 star:0.0k fork:0.0k Homebrew tap for the Geneve tool
 - [elastic/hyf-homework-template](https://github.com/elastic/hyf-homework-template) topic: pushed_at:2021-05 star:0.0k fork:0.0k Fork this repository to get your template for handing in homework
-- [elastic/ingest-docs](https://github.com/elastic/ingest-docs) topic: pushed_at:2022-10 star:0.0k fork:0.0k Home for Elastic ingest documentation
 - [elastic/jna-build](https://github.com/elastic/jna-build) topic: pushed_at:2021-11 star:0.0k fork:0.0k Build of jna with native bits for all elastic supported platforms
 - [elastic/kibana-v1](https://github.com/elastic/kibana-v1) topic: pushed_at:2022-10 star:0.0k fork:0.0k Your window into the Elastic Stack
 - [elastic/kibana-yiyang](https://github.com/elastic/kibana-yiyang) topic: pushed_at:2022-09 star:0.0k fork:0.0k Your window into the Elastic Stack
@@ -541,7 +541,7 @@
 
 - [elastic/actions-app-token](https://github.com/elastic/actions-app-token) topic: pushed_at:2022-05 star:0.0k fork:0.0k Impersonate a GitHub App Token inside Actions
 - [elastic/anonymize-it](https://github.com/elastic/anonymize-it) topic: pushed_at:2022-09 star:0.1k fork:0.0k a general utility for anonymizing data
-- [elastic/apm-agent-python](https://github.com/elastic/apm-agent-python) topic:apm,django,flask,python pushed_at:2022-10 star:0.4k fork:0.2k Official Python agent for the Elastic APM
+- [elastic/apm-agent-python](https://github.com/elastic/apm-agent-python) topic:apm,django,flask,python pushed_at:2022-10 star:0.4k fork:0.2k Official Python agent for Elastic APM
 - [elastic/apm-agent-python-benchmarks](https://github.com/elastic/apm-agent-python-benchmarks) topic: pushed_at:2022-06 star:0.0k fork:0.0k Benchmarks for the Python APM Agent
 - [elastic/apm-integration-testing](https://github.com/elastic/apm-integration-testing) topic: pushed_at:2022-10 star:0.1k fork:0.1k APM Integration Testing
 - [elastic/apm-server-docker](https://github.com/elastic/apm-server-docker) topic: pushed_at:2019-06 star:0.0k fork:0.0k Official Docker image for the Elastic APM Server
@@ -579,7 +579,7 @@
 - [elastic/Example-Watches](https://github.com/elastic/Example-Watches) topic: pushed_at:2016-11 star:0.0k fork:0.0k 
 - [elastic/filebeat-cybersixgill-integration](https://github.com/elastic/filebeat-cybersixgill-integration) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
 - [elastic/geneve](https://github.com/elastic/geneve) topic: pushed_at:2022-10 star:0.0k fork:0.0k Generate source events using languages and schemas
-- [elastic/helm-charts](https://github.com/elastic/helm-charts) topic: pushed_at:2022-10 star:1.7k fork:1.7k You know, for Kubernetes
+- [elastic/helm-charts](https://github.com/elastic/helm-charts) topic: pushed_at:2022-10 star:1.7k fork:1.8k You know, for Kubernetes
 - [elastic/kibana-docker](https://github.com/elastic/kibana-docker) topic: pushed_at:2019-06 star:0.2k fork:0.1k Official Kibana Docker image
 - [elastic/kibana-ubuntu-base](https://github.com/elastic/kibana-ubuntu-base) topic: pushed_at:2019-07 star:0.0k fork:0.0k Base Ubuntu Linux image used by Kibana docker images
 - [elastic/kuberwatcher](https://github.com/elastic/kuberwatcher) topic: pushed_at:2022-01 star:0.0k fork:0.0k Dynamically create watcher alerts for pods running in Kubernetes
@@ -718,7 +718,7 @@
 - [elastic/gatsby-eui-starter](https://github.com/elastic/gatsby-eui-starter) topic: pushed_at:2022-08 star:0.0k fork:0.0k Start building Kibana protoypes quickly with the Gatsby EUI Starter
 - [elastic/javascript-typescript-langserver](https://github.com/elastic/javascript-typescript-langserver) topic: pushed_at:2019-10 star:0.0k fork:0.0k Project no longer maintained.
 - [elastic/javascript-typescript-langserver-old](https://github.com/elastic/javascript-typescript-langserver-old) topic: pushed_at:2019-09 star:0.0k fork:0.0k An extended javascript-typescript-langserver
-- [elastic/kibana](https://github.com/elastic/kibana) topic:dashboards,elasticsearch,hacktoberfest,kibana,metrics,observability,visualizations pushed_at:2022-10 star:17.9k fork:7.5k Your window into the Elastic Stack
+- [elastic/kibana](https://github.com/elastic/kibana) topic:dashboards,elasticsearch,hacktoberfest,kibana,metrics,observability,visualizations pushed_at:2022-10 star:18.0k fork:7.5k Your window into the Elastic Stack
 - [elastic/kibana-buildkite-library](https://github.com/elastic/kibana-buildkite-library) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [elastic/kibana-github-actions](https://github.com/elastic/kibana-github-actions) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [elastic/kibana-k6-benchmarking](https://github.com/elastic/kibana-k6-benchmarking) topic: pushed_at:2022-06 star:0.0k fork:0.0k Space time benchmarking project with k6 tool

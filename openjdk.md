@@ -46,7 +46,7 @@
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) topic: pushed_at:2021-04 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/friday-stats
 - [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2022-10 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2022-10 star:0.3k fork:0.0k https://openjdk.org/projects/code-tools/jcstress
-- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2022-10 star:14.3k fork:4.0k JDK main-line development https://openjdk.org/projects/jdk
+- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2022-10 star:14.4k fork:4.0k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2022-10 star:0.0k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2022-10 star:0.1k fork:0.1k https://openjdk.org/projects/jdk-updates
@@ -100,7 +100,7 @@
 - [openjdk/playground](https://github.com/openjdk/playground) topic: pushed_at:2022-10 star:0.0k fork:0.0k Repository for experimenting. May be synced and/or reset at any time without notice.
 - [openjdk/portola](https://github.com/openjdk/portola) topic: pushed_at:2022-03 star:0.0k fork:0.0k https://openjdk.org/projects/portola
 - [openjdk/riscv-port](https://github.com/openjdk/riscv-port) topic: pushed_at:2022-10 star:0.0k fork:0.0k https://openjdk.org/projects/riscv-port
-- [openjdk/shenandoah](https://github.com/openjdk/shenandoah) topic: pushed_at:2022-09 star:0.1k fork:0.0k https://openjdk.org/projects/shenandoah
+- [openjdk/shenandoah](https://github.com/openjdk/shenandoah) topic: pushed_at:2022-10 star:0.1k fork:0.0k https://openjdk.org/projects/shenandoah
 - [openjdk/shenandoah-jdk8u](https://github.com/openjdk/shenandoah-jdk8u) topic: pushed_at:2022-09 star:0.0k fork:0.0k https://openjdk.org/projects/shenandoah
 - [openjdk/shenandoah-jdk8u-dev](https://github.com/openjdk/shenandoah-jdk8u-dev) topic: pushed_at:2022-02 star:0.0k fork:0.0k https://openjdk.org/projects/shenandoah
 - [openjdk/shenandoah-visualizer](https://github.com/openjdk/shenandoah-visualizer) topic: pushed_at:2022-09 star:0.1k fork:0.0k https://openjdk.org/projects/shenandoah
