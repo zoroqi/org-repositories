@@ -175,7 +175,7 @@
 - [microsoftgraph/.github](https://github.com/microsoftgraph/.github) topic: pushed_at:2022-10 star:0.0k fork:0.0k MicrosoftGraph GitHub organization configuration
 - [microsoftgraph/CsdlToDiagram](https://github.com/microsoftgraph/CsdlToDiagram) topic: pushed_at:2022-09 star:0.0k fork:0.0k Simple console app and supporting library to generate PlantUML diagrams from an OData CSDL file.
 - [microsoftgraph/g-raph](https://github.com/microsoftgraph/g-raph) topic: pushed_at:2019-05 star:0.0k fork:0.0k Artwork for our g-raph (giraffe)
-- [microsoftgraph/microsoft-graph-comms-samples](https://github.com/microsoftgraph/microsoft-graph-comms-samples) topic: pushed_at:2022-09 star:0.2k fork:0.2k Microsoft Graph Communications Samples
+- [microsoftgraph/microsoft-graph-comms-samples](https://github.com/microsoftgraph/microsoft-graph-comms-samples) topic: pushed_at:2022-10 star:0.2k fork:0.2k Microsoft Graph Communications Samples
 - [microsoftgraph/microsoftgraph-postman-collections](https://github.com/microsoftgraph/microsoftgraph-postman-collections) topic: pushed_at:2021-07 star:0.3k fork:0.1k 
 - [microsoftgraph/msgraph-access-files-data](https://github.com/microsoftgraph/msgraph-access-files-data) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-access-group-data](https://github.com/microsoftgraph/msgraph-access-group-data) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
@@ -226,7 +226,7 @@
 - [microsoftgraph/microsoft-graph-docs.pt-BR](https://github.com/microsoftgraph/microsoft-graph-docs.pt-BR) topic: pushed_at:2022-10 star:0.0k fork:0.0k Documentation for the Microsoft Graph REST API for Portuguese
 - [microsoftgraph/microsoft-graph-docs.ru-RU](https://github.com/microsoftgraph/microsoft-graph-docs.ru-RU) topic: pushed_at:2022-10 star:0.0k fork:0.0k Documentation for the Microsoft Graph REST API for Russian
 - [microsoftgraph/microsoft-graph-docs.zh-CN](https://github.com/microsoftgraph/microsoft-graph-docs.zh-CN) topic: pushed_at:2022-10 star:0.0k fork:0.0k Documentation for the Microsoft Graph REST API for Chinese(Simplified)
-- [microsoftgraph/microsoft-graph-training](https://github.com/microsoftgraph/microsoft-graph-training) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
+- [microsoftgraph/microsoft-graph-training](https://github.com/microsoftgraph/microsoft-graph-training) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-sdk-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) topic:cmdlets,graph,microsoft,powershell,powershell-modules,powershell-sdk pushed_at:2022-10 star:0.5k fork:0.1k Powershell SDK for Microsoft Graph
 - [microsoftgraph/msgraph-typescript-typings](https://github.com/microsoftgraph/msgraph-typescript-typings) topic:intellisense,microsoft-graph-models,microsoft-graph-typescript,typescript-definitions pushed_at:2022-10 star:0.1k fork:0.0k Microsoft Graph TypeScript Type Definitions
 - [microsoftgraph/powershell-aad-samples](https://github.com/microsoftgraph/powershell-aad-samples) topic: pushed_at:2021-04 star:0.0k fork:0.0k 

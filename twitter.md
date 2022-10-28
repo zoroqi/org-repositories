@@ -86,7 +86,7 @@
 - [twitter/SentenTree](https://github.com/twitter/SentenTree) topic: pushed_at:2022-03 star:0.2k fork:0.0k A novel text visualization technique
 - [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) topic: pushed_at:2021-03 star:0.3k fork:0.0k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
 - [twitter/twitter-cldr-npm](https://github.com/twitter/twitter-cldr-npm) topic: pushed_at:2019-08 star:0.0k fork:0.0k TwitterCldr npm package
-- [twitter/typeahead.js](https://github.com/twitter/typeahead.js) topic: pushed_at:2022-03 star:16.4k fork:3.3k typeahead.js is a fast and fully-featured autocomplete library
+- [twitter/typeahead.js](https://github.com/twitter/typeahead.js) topic: pushed_at:2022-03 star:16.5k fork:3.3k typeahead.js is a fast and fully-featured autocomplete library
 
 ## Kotlin
 
@@ -165,7 +165,7 @@
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) topic: pushed_at:2022-04 star:0.1k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) topic: pushed_at:2021-08 star:0.8k fork:0.2k Korean tokenizer
 - [twitter/twitter-server](https://github.com/twitter/twitter-server) topic:finagle,finatra pushed_at:2022-10 star:1.4k fork:0.2k Twitter-Server defines a template from which services at Twitter are built
-- [twitter/util](https://github.com/twitter/util) topic:finagle,scala,utility pushed_at:2022-10 star:2.6k fork:0.5k Wonderful reusable code from Twitter
+- [twitter/util](https://github.com/twitter/util) topic:finagle,scala,utility pushed_at:2022-10 star:2.6k fork:0.6k Wonderful reusable code from Twitter
 
 ## Shell
 

@@ -13,7 +13,7 @@
 - [Bro](#bro) (1)
 - [C](#c) (24)
 - [C++](#c++) (39)
-- [CSS](#css) (90)
+- [CSS](#css) (89)
 - [Clojure](#clojure) (2)
 - [CoffeeScript](#coffeescript) (4)
 - [Dockerfile](#dockerfile) (10)
@@ -55,7 +55,7 @@
 - [Swift](#swift) (7)
 - [TSQL](#tsql) (1)
 - [TeX](#tex) (1)
-- [TypeScript](#typescript) (12)
+- [TypeScript](#typescript) (13)
 
 ## ApacheConf
 
@@ -111,7 +111,7 @@
 - [mozilla/bergamot-translator](https://github.com/mozilla/bergamot-translator) topic: pushed_at:2022-10 star:0.0k fork:0.0k Bergamot translator
 - [mozilla/bergamot-translator-old](https://github.com/mozilla/bergamot-translator-old) topic: pushed_at:2021-03 star:0.0k fork:0.0k 
 - [mozilla/cubeb](https://github.com/mozilla/cubeb) topic: pushed_at:2022-10 star:0.4k fork:0.1k Cross platform audio library
-- [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) topic:deep-learning,deepspeech,embedded,machine-learning,neural-networks,offline,on-device,speech-recognition,speech-to-text,tensorflow pushed_at:2022-09 star:20.4k fork:3.6k DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
+- [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech) topic:deep-learning,deepspeech,embedded,machine-learning,neural-networks,offline,on-device,speech-recognition,speech-to-text,tensorflow pushed_at:2022-09 star:20.5k fork:3.6k DeepSpeech is an open source embedded (offline, on-device) speech-to-text engine which can run in real time on devices ranging from a Raspberry Pi 4 to high power GPU servers.
 - [mozilla/FBGEMM](https://github.com/mozilla/FBGEMM) topic: pushed_at:2020-03 star:0.0k fork:0.0k FB (Facebook) + GEMM (General Matrix-Matrix Multiplication) - https://code.fb.com/ml-applications/fbgemm/
 - [mozilla/fxc2](https://github.com/mozilla/fxc2) topic: pushed_at:2022-08 star:0.0k fork:0.0k A wine-runnable version of Microsofts Shader Compiler fxc
 - [mozilla/g2p](https://github.com/mozilla/g2p) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - Tools to create ARPA models from cmu pocketsphinx dictionaries for proper g2p generation
@@ -172,7 +172,6 @@
 - [mozilla/discourse-mozilla-theme-beta](https://github.com/mozilla/discourse-mozilla-theme-beta) topic:discourse,discourse-theme pushed_at:2019-05 star:0.0k fork:0.0k Moved here →
 - [mozilla/diversity-coc-review.io](https://github.com/mozilla/diversity-coc-review.io) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - A Code of Conduct review tool
 - [mozilla/django-moz-header](https://github.com/mozilla/django-moz-header) topic: pushed_at:2019-03 star:0.0k fork:0.0k Common header/footer templates and CSS for Django-based Mozilla sites.
-- [mozilla/ecosystem-platform](https://github.com/mozilla/ecosystem-platform) topic: pushed_at:2022-10 star:0.0k fork:0.0k Documentation Hub for Firefox Accounts, Sync Client Integrations and More
 - [mozilla/featured-addons-compatibility-test](https://github.com/mozilla/featured-addons-compatibility-test) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
 - [mozilla/Fira](https://github.com/mozilla/Fira) topic: pushed_at:2020-12 star:4.8k fork:0.3k Mozilla's new typeface, used in Firefox OS
 - [mozilla/firefox-accounts-campaign](https://github.com/mozilla/firefox-accounts-campaign) topic: pushed_at:2020-05 star:0.0k fork:0.0k Campaign Website for the Firefox Accounts Volunteer Campaign
@@ -318,7 +317,7 @@
 - [mozilla/push-proxy](https://github.com/mozilla/push-proxy) topic:inactive,unmaintained pushed_at:2016-02 star:0.0k fork:0.0k INACTIVE
 - [mozilla/renard](https://github.com/mozilla/renard) topic: pushed_at:2020-03 star:0.0k fork:0.0k 
 - [mozilla/scribe](https://github.com/mozilla/scribe) topic:compliance,go,hardening,scribe,vulnerabilities pushed_at:2022-01 star:0.0k fork:0.0k Mozilla scribe host policy evaluator
-- [mozilla/sops](https://github.com/mozilla/sops) topic:aws,azure,devops,gcp,pgp,secret-distribution,secret-management,security,sops pushed_at:2022-09 star:11.1k fork:0.6k Simple and flexible tool for managing secrets
+- [mozilla/sops](https://github.com/mozilla/sops) topic:aws,azure,devops,gcp,pgp,secret-distribution,secret-management,security,sops pushed_at:2022-10 star:11.1k fork:0.7k Simple and flexible tool for managing secrets
 - [mozilla/sotp](https://github.com/mozilla/sotp) topic: pushed_at:2020-08 star:0.0k fork:0.0k Get TOTP from the command line using TOTP secrets in Sops encrypted files.
 - [mozilla/tls-observatory](https://github.com/mozilla/tls-observatory) topic: pushed_at:2022-07 star:0.5k fork:0.1k An observatory for TLS configurations, X509 certificates, and more.
 
@@ -342,11 +341,11 @@
 - [mozilla/affiliates-lib](https://github.com/mozilla/affiliates-lib) topic: pushed_at:2016-02 star:0.0k fork:0.0k *ARCHIVED* - Vendor libraries for affiliates
 - [mozilla/anti-tracking-test-pages](https://github.com/mozilla/anti-tracking-test-pages) topic: pushed_at:2022-05 star:0.0k fork:0.0k Pages to test Firefox/Gecko anti-tracking features.
 - [mozilla/apps-design](https://github.com/mozilla/apps-design) topic: pushed_at:2019-04 star:0.0k fork:0.0k Design Guidelines for Open Web Apps (work in progress!)
-- [mozilla/bedrock](https://github.com/mozilla/bedrock) topic:css,django,firefox,html,javascript,mozilla,python pushed_at:2022-10 star:1.0k fork:0.9k Making mozilla.org awesome, one pebble at a time
+- [mozilla/bedrock](https://github.com/mozilla/bedrock) topic:css,django,firefox,html,javascript,mozilla,python pushed_at:2022-10 star:1.1k fork:0.9k Making mozilla.org awesome, one pebble at a time
 - [mozilla/bsd-forms-and-wrappers](https://github.com/mozilla/bsd-forms-and-wrappers) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive
 - [mozilla/bug-handling](https://github.com/mozilla/bug-handling) topic:bugs,feature-request,mozilla,process,regressions,triage pushed_at:2020-06 star:0.0k fork:0.0k Documentation Repository for Bug Handling in Firefox
 - [mozilla/Build-a-Virtual-World---examples](https://github.com/mozilla/Build-a-Virtual-World---examples) topic:inactive,unmaintained pushed_at:2017-03 star:0.0k fork:0.0k INACTIVE - This activity will help your Club build your first VR experience! But first you need to get your members excited about Web VR and A-Frame.
-- [mozilla/builders](https://github.com/mozilla/builders) topic: pushed_at:2021-04 star:0.0k fork:0.0k Mozilla’s Fix-The-Internet Spring MVP Lab annoucement website
+- [mozilla/builders](https://github.com/mozilla/builders) topic: pushed_at:2022-10 star:0.0k fork:0.0k Mozilla’s Fix-The-Internet Spring MVP Lab annoucement website. 
 - [mozilla/connected-devices-experiments](https://github.com/mozilla/connected-devices-experiments) topic: pushed_at:2019-03 star:0.0k fork:0.0k A place to publish experiments and investigations from the Connected Devices team
 - [mozilla/content](https://github.com/mozilla/content) topic:inactive,unmaintained pushed_at:2018-12 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - A place for documents, whitepapers and other Mozilla Foundation static content.
 - [mozilla/corsica-screen](https://github.com/mozilla/corsica-screen) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
@@ -577,7 +576,7 @@
 - [mozilla/build-talos](https://github.com/mozilla/build-talos) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
 - [mozilla/butter](https://github.com/mozilla/butter) topic: pushed_at:2013-11 star:0.3k fork:0.1k Popcorn Authoring Library
 - [mozilla/calculator](https://github.com/mozilla/calculator) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - Resurrection of the calculator app that was pulled from gaia
-- [mozilla/campaign-form](https://github.com/mozilla/campaign-form) topic: pushed_at:2022-08 star:0.0k fork:0.0k Campaign Form, re-used over time for different campaigns (for example BugHunter, Fenix, Proton)
+- [mozilla/campaign-form](https://github.com/mozilla/campaign-form) topic: pushed_at:2022-10 star:0.0k fork:0.0k Campaign Form, re-used over time for different campaigns (for example BugHunter, Fenix, Proton)
 - [mozilla/ceci](https://github.com/mozilla/ceci) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - Ceçi n'est pas une pipe
 - [mozilla/ceci-bower](https://github.com/mozilla/ceci-bower) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - Bower package for the stable branch of Ceci
 - [mozilla/changelog](https://github.com/mozilla/changelog) topic:inactive,unmaintained pushed_at:2015-11 star:0.0k fork:0.0k INACTIVE - "What's changed in the last twenty minutes?"
@@ -642,6 +641,7 @@
 - [mozilla/domtemplate](https://github.com/mozilla/domtemplate) topic:abandoned,unmaintained pushed_at:2012-06 star:0.0k fork:0.0k DEPRECATED - An Experimental DOM Template Engine
 - [mozilla/donate.mozilla.org](https://github.com/mozilla/donate.mozilla.org) topic: pushed_at:2020-02 star:0.1k fork:0.1k Mozilla donation platform
 - [mozilla/dryice](https://github.com/mozilla/dryice) topic: pushed_at:2014-05 star:0.2k fork:0.0k CommonJS/RequireJS build tool
+- [mozilla/ecosystem-platform](https://github.com/mozilla/ecosystem-platform) topic: pushed_at:2022-10 star:0.0k fork:0.0k Documentation Hub for Firefox Accounts, Sync Client Integrations and More
 - [mozilla/elmo](https://github.com/mozilla/elmo) topic:abandoned,unmaintained pushed_at:2020-08 star:0.0k fork:0.0k DEPRECATED - Elmo ~ https://mozilla.github.io/elmo/
 - [mozilla/ember-cli-fxos](https://github.com/mozilla/ember-cli-fxos) topic: pushed_at:2019-03 star:0.0k fork:0.0k Ember-cli add-on for creating Firefox OS applications
 - [mozilla/energia](https://github.com/mozilla/energia) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - Desktop Browser Power benchmarking Utility
@@ -688,7 +688,7 @@
 - [mozilla/firefox-health-backend](https://github.com/mozilla/firefox-health-backend) topic: pushed_at:2022-07 star:0.0k fork:0.0k For the frontend repo visit https://github.com/mozilla/firefox-health-frontend
 - [mozilla/firefox-narrate-experiment](https://github.com/mozilla/firefox-narrate-experiment) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - An experimental add-on to change how Firefox reader mode and narration are presented
 - [mozilla/firefox-quality-metrics](https://github.com/mozilla/firefox-quality-metrics) topic: pushed_at:2022-02 star:0.0k fork:0.0k Measuring Firefox quality metrics for the Product Integrity team
-- [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations) topic:deep-neural-networks,firefox,javascript,nlp,nmt,translation,webextension pushed_at:2022-10 star:0.3k fork:0.0k Firefox Translations is a webextension that enables client side translations for web browsers.
+- [mozilla/firefox-translations](https://github.com/mozilla/firefox-translations) topic:deep-neural-networks,firefox,javascript,nlp,nmt,translation,webextension pushed_at:2022-10 star:0.4k fork:0.0k Firefox Translations is a webextension that enables client side translations for web browsers.
 - [mozilla/firefox57-sprint](https://github.com/mozilla/firefox57-sprint) topic: pushed_at:2018-01 star:0.0k fork:0.0k This is the repo for the Firefox 57 sprint
 - [mozilla/FirefoxColor](https://github.com/mozilla/FirefoxColor) topic: pushed_at:2022-09 star:0.4k fork:0.1k Theming demo for Firefox Quantum and beyond
 - [mozilla/firefoxos-quick-start](https://github.com/mozilla/firefoxos-quick-start) topic:inactive,unmaintained pushed_at:2019-03 star:0.1k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - DEPRECATED. An early example app to get started on Firefox OS apps development.
@@ -821,7 +821,6 @@
 - [mozilla/lightbeam](https://github.com/mozilla/lightbeam) topic: pushed_at:2017-03 star:0.6k fork:0.2k Orignal unmaintained version of the Lightbeam extension. See lightbeam-we for the new one which works in modern versions of Firefox.
 - [mozilla/lightbeam-db-server](https://github.com/mozilla/lightbeam-db-server) topic: pushed_at:2014-02 star:0.0k fork:0.0k Backend code behind the defunct lightbeam collection server
 - [mozilla/lightbeam-we](https://github.com/mozilla/lightbeam-we) topic:addon,extension,firefox-lightbeam,mozilla,webextension pushed_at:2019-08 star:0.2k fork:0.1k Web Extension version of the Firefox Lightbeam add-on
-- [mozilla/limelight](https://github.com/mozilla/limelight) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [mozilla/loady](https://github.com/mozilla/loady) topic: pushed_at:2019-10 star:0.0k fork:0.0k Load generation framework, will have your services crying loady, loady, loady
 - [mozilla/loci](https://github.com/mozilla/loci) topic: pushed_at:2016-08 star:0.0k fork:0.0k UNMAINTAINED! An experimental addon that enriches the data about places in Firefox
 - [mozilla/locompleter](https://github.com/mozilla/locompleter) topic:inactive,unmaintained pushed_at:2014-08 star:0.0k fork:0.0k INACTIVE - An Angular directive for Google Maps location autocompletion API.
@@ -972,7 +971,7 @@
 - [mozilla/npm-lockdown](https://github.com/mozilla/npm-lockdown) topic: pushed_at:2020-07 star:0.2k fork:0.0k Lock down your npm dependencies by shasum.
 - [mozilla/nsf-challenge](https://github.com/mozilla/nsf-challenge) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - NSF Wireless Innovation Challenge
 - [mozilla/nss-taskcluster](https://github.com/mozilla/nss-taskcluster) topic: pushed_at:2019-04 star:0.0k fork:0.0k Notifications for NSS on Taskcluster
-- [mozilla/nunjucks](https://github.com/mozilla/nunjucks) topic: pushed_at:2022-06 star:7.9k fork:0.7k A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
+- [mozilla/nunjucks](https://github.com/mozilla/nunjucks) topic: pushed_at:2022-10 star:7.9k fork:0.7k A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [mozilla/oauthorizer](https://github.com/mozilla/oauthorizer) topic:abandoned,unmaintained pushed_at:2019-10 star:0.0k fork:0.0k DEPRECATED - Enable easy use of oauth for other addons
 - [mozilla/observatory-cli](https://github.com/mozilla/observatory-cli) topic: pushed_at:2021-09 star:0.2k fork:0.0k 
 - [mozilla/oghliner](https://github.com/mozilla/oghliner) topic: pushed_at:2018-05 star:0.1k fork:0.0k template and tool for deploying Offline Web Apps to GitHub Pages
@@ -1018,7 +1017,7 @@
 - [mozilla/payments-client](https://github.com/mozilla/payments-client) topic: pushed_at:2016-11 star:0.0k fork:0.0k JavaScript Client for mozilla/payments-ui
 - [mozilla/payments-saucelabs-browsers](https://github.com/mozilla/payments-saucelabs-browsers) topic: pushed_at:2021-09 star:0.0k fork:0.0k Browser configuration + versions for cross-browser testing.
 - [mozilla/payments-ui](https://github.com/mozilla/payments-ui) topic: pushed_at:2016-11 star:0.1k fork:0.0k **DEPRECATED & UNMAINTAINED** The payments frontend interface
-- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) topic: pushed_at:2022-10 star:40.2k fork:9.0k PDF Reader in JavaScript
+- [mozilla/pdf.js](https://github.com/mozilla/pdf.js) topic: pushed_at:2022-10 star:40.3k fork:9.1k PDF Reader in JavaScript
 - [mozilla/pdf.js-bot](https://github.com/mozilla/pdf.js-bot) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - Cloud test scripts for the pdf.js project
 - [mozilla/pdfjs-dist](https://github.com/mozilla/pdfjs-dist) topic: pushed_at:2022-08 star:0.8k fork:0.5k Generic build of PDF.js library. 
 - [mozilla/peekaboo](https://github.com/mozilla/peekaboo) topic: pushed_at:2015-12 star:0.0k fork:0.0k Peek-a-boo! Who's visiting a Mozilla office?
@@ -1051,7 +1050,7 @@
 - [mozilla/pioneer-study-online-news-2](https://github.com/mozilla/pioneer-study-online-news-2) topic: pushed_at:2019-04 star:0.0k fork:0.0k Second generation online news study
 - [mozilla/pioneer-study-pathfinder](https://github.com/mozilla/pioneer-study-pathfinder) topic:inactive,mozilla-pioneer,mozilla-shield,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - An addon to help track down data loss in the Pioneer data-collection pipeline
 - [mozilla/pkix-compatibility-testing](https://github.com/mozilla/pkix-compatibility-testing) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive
-- [mozilla/planet-content](https://github.com/mozilla/planet-content) topic: pushed_at:2021-05 star:0.0k fork:0.0k Content for the planet.mozilla.org website
+- [mozilla/planet-content](https://github.com/mozilla/planet-content) topic: pushed_at:2022-10 star:0.0k fork:0.0k Content for the planet.mozilla.org website
 - [mozilla/platform-analysis](https://github.com/mozilla/platform-analysis) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive
 - [mozilla/platform-status](https://github.com/mozilla/platform-status) topic: pushed_at:2021-04 star:0.2k fork:0.1k Project Platform Status
 - [mozilla/plugin-crash-dashboard](https://github.com/mozilla/plugin-crash-dashboard) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - Repository for processing & displaying data relating to plugin crashes
@@ -1184,7 +1183,7 @@
 - [mozilla/team-dashboard](https://github.com/mozilla/team-dashboard) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - Dashboard used to track team activity via bugzilla.
 - [mozilla/team-list](https://github.com/mozilla/team-list) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - A central txt file with a list of team names that can be used in other tools
 - [mozilla/telemetry-collector](https://github.com/mozilla/telemetry-collector) topic: pushed_at:2021-02 star:0.0k fork:0.0k Telemetry Collector
-- [mozilla/telemetry-dashboard](https://github.com/mozilla/telemetry-dashboard) topic: pushed_at:2022-09 star:0.1k fork:0.1k Web-frontend for aggregated telemetry data
+- [mozilla/telemetry-dashboard](https://github.com/mozilla/telemetry-dashboard) topic: pushed_at:2022-10 star:0.1k fork:0.1k Web-frontend for aggregated telemetry data
 - [mozilla/telemetry-dashboard-prototype](https://github.com/mozilla/telemetry-dashboard-prototype) topic: pushed_at:2021-02 star:0.0k fork:0.0k A proposal for updating the Telemetry Dashboard
 - [mozilla/telemetry-js-node](https://github.com/mozilla/telemetry-js-node) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - node.js module for using telemetry.js to access telemetry aggregates from Mozilla Firefox
 - [mozilla/telemetry-next-node](https://github.com/mozilla/telemetry-next-node) topic: pushed_at:2019-10 star:0.0k fork:0.0k Node.js module for accessing Mozilla Unified Telemetry aggregates via Telemetry.js v2.
@@ -1211,7 +1210,7 @@
 - [mozilla/triage-report](https://github.com/mozilla/triage-report) topic:inactive,unmaintained pushed_at:2017-10 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - Report on Top Components in Firefox-Related Products With Untriaged Bugs
 - [mozilla/triage-summary](https://github.com/mozilla/triage-summary) topic:bugzilla,inactive,triage,unmaintained pushed_at:2017-10 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - Dashboard
 - [mozilla/tsci](https://github.com/mozilla/tsci) topic:abandoned,unmaintained pushed_at:2022-02 star:0.0k fork:0.0k DEPRECATED - Calculate the Top Site Compatibility Index metric
-- [mozilla/twemoji-colr](https://github.com/mozilla/twemoji-colr) topic: pushed_at:2022-03 star:0.2k fork:0.0k Twemoji font in COLR/CPAL layered format
+- [mozilla/twemoji-colr](https://github.com/mozilla/twemoji-colr) topic: pushed_at:2022-10 star:0.2k fork:0.0k Twemoji font in COLR/CPAL layered format
 - [mozilla/twitter-address-bar-search](https://github.com/mozilla/twitter-address-bar-search) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - Use Twitter to search for #hashtag and @mention from the address bar.
 - [mozilla/typeoutloud.org](https://github.com/mozilla/typeoutloud.org) topic: pushed_at:2018-05 star:0.0k fork:0.0k 
 - [mozilla/ubiquity](https://github.com/mozilla/ubiquity) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - An experimental interface based on natural language input (the mozilla/ mirror is READ ONLY, synchronized from mercurial)
@@ -1259,7 +1258,7 @@
 - [mozilla/webdev](https://github.com/mozilla/webdev) topic: pushed_at:2022-03 star:0.0k fork:0.0k Mozilla Webdev tools and pages
 - [mozilla/webext-experiment-utils](https://github.com/mozilla/webext-experiment-utils) topic: pushed_at:2022-06 star:0.0k fork:0.0k Tools for rapid development of WebExtension Experiments
 - [mozilla/webext-generator](https://github.com/mozilla/webext-generator) topic: pushed_at:2022-10 star:0.0k fork:0.0k A tool for quickly generating minimum viable web-extensions for testing submissions etc
-- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) topic: pushed_at:2022-10 star:1.9k fork:0.2k A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
+- [mozilla/webextension-polyfill](https://github.com/mozilla/webextension-polyfill) topic: pushed_at:2022-10 star:2.0k fork:0.2k A lightweight polyfill library for Promise-based WebExtension APIs in Chrome
 - [mozilla/WebGameStub](https://github.com/mozilla/WebGameStub) topic:inactive,unmaintained pushed_at:2019-03 star:0.1k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - Simple Web Canvas Game Template
 - [mozilla/webgl-metrics](https://github.com/mozilla/webgl-metrics) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - WebGL Support Detection
 - [mozilla/webmaker-addons](https://github.com/mozilla/webmaker-addons) topic: pushed_at:2015-02 star:0.0k fork:0.0k Prototypes for add-ons. Gateways from browser to Webmaker.
@@ -1368,7 +1367,7 @@
 - [mozilla/build-environments](https://github.com/mozilla/build-environments) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - Bare bones environments (dependencies only) for Mozilla's Linux builds. 
 - [mozilla/clearlinux](https://github.com/mozilla/clearlinux) topic: pushed_at:2022-01 star:0.0k fork:0.0k Clear Linux scripts and specs and bits
 - [mozilla/cloudformation-cross-account-outputs](https://github.com/mozilla/cloudformation-cross-account-outputs) topic: pushed_at:2021-10 star:0.0k fork:0.0k System to enable AWS CloudFormation stacks to emit data into other AWS accounts
-- [mozilla/devtools-adb-extension](https://github.com/mozilla/devtools-adb-extension) topic: pushed_at:2022-07 star:0.0k fork:0.0k Web Extension that bundles the ADB binaries needed for USB debugging
+- [mozilla/devtools-adb-extension](https://github.com/mozilla/devtools-adb-extension) topic: pushed_at:2022-10 star:0.0k fork:0.0k Web Extension that bundles the ADB binaries needed for USB debugging
 - [mozilla/inhuman-ads-webext](https://github.com/mozilla/inhuman-ads-webext) topic: pushed_at:2021-02 star:0.0k fork:0.0k Inhuman Ads WebExtension for Firefox
 - [mozilla/marketplace-docs](https://github.com/mozilla/marketplace-docs) topic: pushed_at:2016-08 star:0.0k fork:0.0k High level Firefox Marketplace developer documentation
 - [mozilla/marketplace-frontend-docs](https://github.com/mozilla/marketplace-frontend-docs) topic: pushed_at:2016-08 star:0.0k fork:0.0k Developer documentation for Firefox Marketplace frontend projects
@@ -1535,7 +1534,7 @@
 - [mozilla/id-specs](https://github.com/mozilla/id-specs) topic:inactive,unmaintained pushed_at:2019-03 star:0.1k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - Specifications for Mozilla's Identity Effort
 - [mozilla/idea-town-meta](https://github.com/mozilla/idea-town-meta) topic: pushed_at:2015-09 star:0.0k fork:0.0k idea town parent repo with master dockerfile wut wut
 - [mozilla/identity-pubkeys](https://github.com/mozilla/identity-pubkeys) topic: pushed_at:2022-03 star:0.0k fork:0.0k ssh public keys for the full time identity group at mozilla
-- [mozilla/inclusion](https://github.com/mozilla/inclusion) topic: pushed_at:2022-09 star:0.5k fork:0.2k Our repository for Diversity, Equity and Inclusion work at Mozilla
+- [mozilla/inclusion](https://github.com/mozilla/inclusion) topic: pushed_at:2022-09 star:0.5k fork:0.3k Our repository for Diversity, Equity and Inclusion work at Mozilla
 - [mozilla/inclusive-space-toolkit](https://github.com/mozilla/inclusive-space-toolkit) topic:inactive,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - A toolkit for creating an inclusive development space for emerging technologies
 - [mozilla/infra-x-design](https://github.com/mozilla/infra-x-design) topic: pushed_at:2019-10 star:0.0k fork:0.0k Test Infrastrucutre Prototype Design/Specs
 - [mozilla/inhuman-ads-server](https://github.com/mozilla/inhuman-ads-server) topic: pushed_at:2017-11 star:0.0k fork:0.0k WordPress theme for Inhuman Ads
@@ -1765,7 +1764,7 @@
 ## Puppet
 
 - [mozilla/cheesecake](https://github.com/mozilla/cheesecake) topic: pushed_at:2014-07 star:0.0k fork:0.0k 
-- [mozilla/oldpto](https://github.com/mozilla/oldpto) topic: pushed_at:2022-06 star:0.0k fork:0.0k Mozilla's old PTO app. Though I prefer the term "vintage".
+- [mozilla/oldpto](https://github.com/mozilla/oldpto) topic: pushed_at:2022-10 star:0.0k fork:0.0k Mozilla's old PTO app. Though I prefer the term "vintage".
 - [mozilla/opsec-puppet](https://github.com/mozilla/opsec-puppet) topic:abandoned,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k DEPRECATED - OpSec Puppet - $ git clone --recursive git@github.com:mozilla/opsec-puppet.git
 - [mozilla/stun-vm](https://github.com/mozilla/stun-vm) topic: pushed_at:2019-03 star:0.0k fork:0.0k Tools for creating and managing STUN servers
 
@@ -2077,7 +2076,7 @@
 - [mozilla/moz-sql-parser](https://github.com/mozilla/moz-sql-parser) topic:abandoned,unmaintained pushed_at:2021-06 star:0.6k fork:0.2k DEPRECATED - Let's make a SQL parser so we can provide a familiar interface to non-sql datastores!
 - [mozilla/moz_crlite_query](https://github.com/mozilla/moz_crlite_query) topic:crlite,firefox,revocations,webpki pushed_at:2022-02 star:0.0k fork:0.0k Queries CRLite
 - [mozilla/mozanalysis](https://github.com/mozilla/mozanalysis) topic: pushed_at:2022-10 star:0.0k fork:0.0k A library for Mozilla experiments analysis
-- [mozilla/mozci](https://github.com/mozilla/mozci) topic:ci,hacktoberfest pushed_at:2022-10 star:0.0k fork:0.0k A library for inspecting push and task results in Mozilla's CI
+- [mozilla/mozci](https://github.com/mozilla/mozci) topic:ci,python pushed_at:2022-10 star:0.0k fork:0.0k A library for inspecting push and task results in Mozilla's CI
 - [mozilla/mozci-tools](https://github.com/mozilla/mozci-tools) topic: pushed_at:2022-01 star:0.0k fork:0.0k A set of commands to assist with migrations and other test related workflows in mozilla-central
 - [mozilla/mozcommitbuilder](https://github.com/mozilla/mozcommitbuilder) topic: pushed_at:2013-03 star:0.0k fork:0.0k regression finding and firefox building library for mozilla firefox's central repository.
 - [mozilla/MozDef](https://github.com/mozilla/MozDef) topic:abandoned,elasticsearch,elk,elk-stack,python,security,siem,unmaintained pushed_at:2021-11 star:2.2k fork:0.4k DEPRECATED - MozDef: Mozilla Enterprise Defense Platform
@@ -2156,7 +2155,7 @@
 - [mozilla/play-store-export](https://github.com/mozilla/play-store-export) topic: pushed_at:2021-02 star:0.0k fork:0.0k Scripts to export Play Store app data to BigQuery using Transfer Service
 - [mozilla/playdoh](https://github.com/mozilla/playdoh) topic: pushed_at:2015-09 star:0.7k fork:0.1k PROJECT DEPRECATED (WAS: "Mozilla's Web application base template. Half Django, half awesomeness, half not good at math.")
 - [mozilla/playdoh-docs](https://github.com/mozilla/playdoh-docs) topic: pushed_at:2014-06 star:0.0k fork:0.0k Documentation for the playdoh application template.
-- [mozilla/PollBot](https://github.com/mozilla/PollBot) topic:product-delivery pushed_at:2022-09 star:0.0k fork:0.0k Robots for checking if things have been delivered
+- [mozilla/PollBot](https://github.com/mozilla/PollBot) topic:product-delivery pushed_at:2022-10 star:0.0k fork:0.0k Robots for checking if things have been delivered
 - [mozilla/pontoon](https://github.com/mozilla/pontoon) topic:design,django,javascript,localization,mozilla,pontoon,translation pushed_at:2022-10 star:1.2k fork:0.5k Mozilla's Localization Platform
 - [mozilla/popcoder](https://github.com/mozilla/popcoder) topic: pushed_at:2019-03 star:0.0k fork:0.0k Python library for transcoding popcorn code into flat video files
 - [mozilla/popcorn_maker](https://github.com/mozilla/popcorn_maker) topic: pushed_at:2012-06 star:0.0k fork:0.0k Gallery for Popcorn js
@@ -2430,7 +2429,7 @@
 - [mozilla/sccache](https://github.com/mozilla/sccache) topic: pushed_at:2022-10 star:3.3k fork:0.4k sccache is ccache with cloud storage
 - [mozilla/tls-interop](https://github.com/mozilla/tls-interop) topic: pushed_at:2020-08 star:0.0k fork:0.0k 
 - [mozilla/toodle](https://github.com/mozilla/toodle) topic:inactive,unmaintained pushed_at:2018-12 star:0.0k fork:0.0k INACTIVE - http://mzl.la/ghe-archive - Example project showing a not-very-real-world app with Rust storage running on iOS, on Android, and in a WebExtension.  Please follow progress on Mozilla's next generation cross platform sync and storage solution at https://github.com/mozilla/mentat.
-- [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) topic:ffi-layer,rust-crate pushed_at:2022-10 star:0.9k fork:0.1k a multi-language bindings generator for rust
+- [mozilla/uniffi-rs](https://github.com/mozilla/uniffi-rs) topic:ffi-layer,rust-crate pushed_at:2022-10 star:1.0k fork:0.1k a multi-language bindings generator for rust
 - [mozilla/webdriver-rust](https://github.com/mozilla/webdriver-rust) topic:api,library,mozilla,protocol,rust,w3c,webdriver pushed_at:2019-03 star:0.1k fork:0.0k Library implementing the wire protocol for the W3C WebDriver standard.
 - [mozilla/webrtc-sdp](https://github.com/mozilla/webrtc-sdp) topic:jsep,parser,rust,sdp,sdp-parser,webrtc pushed_at:2022-10 star:0.1k fork:0.0k Rust SDP parser for WebRTC
 - [mozilla/wg-tracker](https://github.com/mozilla/wg-tracker) topic: pushed_at:2021-02 star:0.0k fork:0.0k A tool to help Gecko developers keep track of CSSWG decisions
@@ -2440,7 +2439,7 @@
 - [mozilla/awebpodcast](https://github.com/mozilla/awebpodcast) topic: pushed_at:2022-07 star:0.0k fork:0.0k https://awebpodcast.org
 - [mozilla/dmo](https://github.com/mozilla/dmo) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [mozilla/extension-workshop](https://github.com/mozilla/extension-workshop) topic: pushed_at:2022-10 star:0.1k fork:0.1k Firefox Extension Workshop
-- [mozilla/protocol](https://github.com/mozilla/protocol) topic: pushed_at:2022-09 star:0.2k fork:0.1k A design system for Mozilla websites.
+- [mozilla/protocol](https://github.com/mozilla/protocol) topic: pushed_at:2022-10 star:0.2k fork:0.1k A design system for Mozilla websites.
 - [mozilla/viewsourceconf-theme](https://github.com/mozilla/viewsourceconf-theme) topic: pushed_at:2021-07 star:0.0k fork:0.0k WordPress theme for viewsourceconf.org
 - [mozilla/webext-compat-tool](https://github.com/mozilla/webext-compat-tool) topic: pushed_at:2022-09 star:0.0k fork:0.0k A compatibility-focused web instance of mozilla/addons-linter
 
@@ -2541,6 +2540,7 @@
 - [mozilla/glean.js](https://github.com/mozilla/glean.js) topic: pushed_at:2022-10 star:0.0k fork:0.0k An implementation of Glean, a modern cross-platform telemetry client, for JavaScript environments.
 - [mozilla/jestr-pioneer-shield-study](https://github.com/mozilla/jestr-pioneer-shield-study) topic: pushed_at:2022-03 star:0.0k fork:0.0k JESTr Pioneer Shield Study Add-on
 - [mozilla/lilypad](https://github.com/mozilla/lilypad) topic: pushed_at:2022-10 star:0.0k fork:0.0k React Component Library
+- [mozilla/limelight](https://github.com/mozilla/limelight) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [mozilla/nimbus-shared](https://github.com/mozilla/nimbus-shared) topic: pushed_at:2022-10 star:0.0k fork:0.0k Shared data and schemas for Project Nimbus
 - [mozilla/openwpm-webext-instrumentation](https://github.com/mozilla/openwpm-webext-instrumentation) topic: pushed_at:2019-06 star:0.0k fork:0.0k OpenWPM instrumentation library for WebExtensions. Merged into the main OpenWPM repository, thus archived
 - [mozilla/perfcompare](https://github.com/mozilla/perfcompare) topic: pushed_at:2022-10 star:0.0k fork:0.0k Improved Performance Comparison Tool

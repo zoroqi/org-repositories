@@ -126,7 +126,7 @@
 - [EFForg/badger-sett](https://github.com/EFForg/badger-sett) topic: pushed_at:2022-06 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
 - [EFForg/call-congress](https://github.com/EFForg/call-congress) topic: pushed_at:2021-12 star:0.0k fork:0.0k a simple server that connects calls between citizens and their congress person using the Twilio API
 - [EFForg/contact-congress](https://github.com/EFForg/contact-congress) topic: pushed_at:2014-06 star:0.0k fork:0.0k Sending electronic written messages to members of Congress by reverse engineering their contact forms.
-- [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) topic:4g,bladerf,imsi-catcher,imsi-catchers,libbladerf,lte,raspberry-pi,security,usrp,wigle pushed_at:2022-09 star:0.7k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
+- [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) topic:4g,bladerf,imsi-catcher,imsi-catchers,libbladerf,lte,raspberry-pi,security,usrp,wigle pushed_at:2022-10 star:0.7k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
 - [EFForg/cryptobot-email](https://github.com/EFForg/cryptobot-email) topic: pushed_at:2014-05 star:0.1k fork:0.0k 
 - [EFForg/cryptolog](https://github.com/EFForg/cryptolog) topic: pushed_at:2016-07 star:0.1k fork:0.0k Cryptolog is a tool for anonymizing webserver logs.
 - [EFForg/https-everywhere-standalone](https://github.com/EFForg/https-everywhere-standalone) topic: pushed_at:2021-06 star:0.0k fork:0.0k Transparently redirect insecure HTTP to secure HTTPS using HTTPS Everywhere and `mitmproxy`

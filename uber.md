@@ -111,7 +111,7 @@
 - [uber/manifold](https://github.com/uber/manifold) topic:incubation,machine-learning,visualization pushed_at:2022-07 star:1.6k fork:0.1k A model-agnostic visual debugging tool for machine learning
 - [uber/react-digraph](https://github.com/uber/react-digraph) topic: pushed_at:2022-09 star:2.4k fork:0.3k A library for creating directed graph editors
 - [uber/react-global-hooks](https://github.com/uber/react-global-hooks) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
-- [uber/react-vis](https://github.com/uber/react-vis) topic:chart,charting-library,data-visualization,react,uber,visualization pushed_at:2022-09 star:8.4k fork:0.9k Data Visualization Components
+- [uber/react-vis](https://github.com/uber/react-vis) topic:chart,charting-library,data-visualization,react,uber,visualization pushed_at:2022-09 star:8.4k fork:0.8k Data Visualization Components
 - [uber/react-vis-force](https://github.com/uber/react-vis-force) topic:chart,data-visualization,force-directed-graphs,react,uber,visualization pushed_at:2020-06 star:0.4k fork:0.1k d3-force graphs as React Components.
 - [uber/ringpop-ui](https://github.com/uber/ringpop-ui) topic: pushed_at:2015-09 star:0.0k fork:0.0k A visualization tool for Ringpop
 - [uber/sentry-logger](https://github.com/uber/sentry-logger) topic: pushed_at:2018-12 star:0.1k fork:0.0k A Sentry transport for Winston
@@ -201,7 +201,7 @@
 ## Swift
 
 - [uber/cyborg](https://github.com/uber/cyborg) topic:incubation pushed_at:2020-09 star:0.3k fork:0.0k Display Android Vectordrawables on iOS.
-- [uber/mockolo](https://github.com/uber/mockolo) topic:commandline,efficient,fast,generates-mocks,mock,mockgen,mockgenerator,mocking,mocking-framework,mocking-library,mocking-utility,mocks,performant,protocols,scale,scaleable,subclassing,swift,swiftsyntax,xcode pushed_at:2022-09 star:0.6k fork:0.1k Efficient Mock Generator for Swift
+- [uber/mockolo](https://github.com/uber/mockolo) topic:commandline,efficient,fast,generates-mocks,mock,mockgen,mockgenerator,mocking,mocking-framework,mocking-library,mocking-utility,mocks,performant,protocols,scale,scaleable,subclassing,swift,swiftsyntax,xcode pushed_at:2022-10 star:0.6k fork:0.1k Efficient Mock Generator for Swift
 - [uber/needle](https://github.com/uber/needle) topic: pushed_at:2022-09 star:1.4k fork:0.1k Compile-time safe Swift dependency injection framework
 - [uber/rides-ios-sdk](https://github.com/uber/rides-ios-sdk) topic: pushed_at:2019-11 star:0.3k fork:0.1k Uber Rides iOS SDK (beta)
 - [uber/RxCBCentral](https://github.com/uber/RxCBCentral) topic:ble,bluetooth,bluetooth-low-energy,central,corebluetooth,hacktoberfest,ios,peripherals,rx,rxswift,scans,swift pushed_at:2021-09 star:0.0k fork:0.0k  A reactive, interface-driven central role Bluetooth LE library for iOS
