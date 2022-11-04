@@ -45,7 +45,7 @@
 - [openai/procgen](https://github.com/openai/procgen) topic: pushed_at:2022-10 star:0.7k fork:0.1k Procgen Benchmark: Procedurally-Generated Game-Like Gym-Environments
 - [openai/pytorch](https://github.com/openai/pytorch) topic: pushed_at:2021-10 star:0.0k fork:0.0k Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [openai/robot_controllers](https://github.com/openai/robot_controllers) topic: pushed_at:2016-07 star:0.0k fork:0.0k Robot control infrastructure
-- [openai/triton](https://github.com/openai/triton) topic: pushed_at:2022-10 star:4.2k fork:0.3k Development repository for the Triton language and compiler
+- [openai/triton](https://github.com/openai/triton) topic: pushed_at:2022-11 star:4.2k fork:0.4k Development repository for the Triton language and compiler
 
 ## CSS
 
@@ -58,7 +58,7 @@
 
 ## Cython
 
-- [openai/mujoco-py](https://github.com/openai/mujoco-py) topic: pushed_at:2022-08 star:2.2k fork:0.7k MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
+- [openai/mujoco-py](https://github.com/openai/mujoco-py) topic: pushed_at:2022-10 star:2.2k fork:0.7k MuJoCo is a physics engine for detailed, efficient rigid body simulations with contacts. mujoco-py allows using MuJoCo from Python 3.
 
 ## Go
 
@@ -85,11 +85,11 @@
 ## Jupyter Notebook
 
 - [openai/baselines-results](https://github.com/openai/baselines-results) topic: pushed_at:2020-07 star:0.1k fork:0.0k 
-- [openai/CLIP](https://github.com/openai/CLIP) topic: pushed_at:2022-09 star:10.5k fork:1.5k Contrastive Language-Image Pretraining
+- [openai/CLIP](https://github.com/openai/CLIP) topic: pushed_at:2022-09 star:10.6k fork:1.6k Contrastive Language-Image Pretraining
 - [openai/lucid](https://github.com/openai/lucid) topic: pushed_at:2019-01 star:0.0k fork:0.0k A collection of infrastructure and tools for research in neural network interpretability.
 - [openai/ot-gan](https://github.com/openai/ot-gan) topic:paper pushed_at:2018-11 star:0.1k fork:0.0k  Code for the paper "Improving GANs Using Optimal Transport"
 - [openai/ppo-ewma](https://github.com/openai/ppo-ewma) topic: pushed_at:2021-10 star:0.0k fork:0.0k Code for the paper "Batch size invariance for policy optimization"
-- [openai/whisper](https://github.com/openai/whisper) topic: pushed_at:2022-10 star:13.6k fork:1.1k Robust Speech Recognition via Large-Scale Weak Supervision
+- [openai/whisper](https://github.com/openai/whisper) topic: pushed_at:2022-10 star:14.1k fork:1.1k Robust Speech Recognition via Large-Scale Weak Supervision
 
 ## Lean
 
@@ -97,7 +97,7 @@
 
 ## Mustache
 
-- [openai/openai-openapi](https://github.com/openai/openai-openapi) topic: pushed_at:2022-10 star:0.0k fork:0.0k OpenAPI specification for the OpenAI API
+- [openai/openai-openapi](https://github.com/openai/openai-openapi) topic: pushed_at:2022-11 star:0.0k fork:0.0k OpenAPI specification for the OpenAI API
 
 ## Objective-C++
 
@@ -151,10 +151,10 @@
 - [openai/iaf](https://github.com/openai/iaf) topic:paper pushed_at:2018-11 star:0.5k fork:0.1k Code for reproducing key results in the paper "Improving Variational Inference with Inverse Autoregressive Flow"
 - [openai/image-gpt](https://github.com/openai/image-gpt) topic: pushed_at:2022-04 star:1.6k fork:0.3k 
 - [openai/imitation](https://github.com/openai/imitation) topic:paper pushed_at:2018-11 star:0.6k fork:0.2k  Code for the paper "Generative Adversarial Imitation Learning"
-- [openai/improved-diffusion](https://github.com/openai/improved-diffusion) topic: pushed_at:2022-08 star:0.9k fork:0.2k Release for Improved Denoising Diffusion Probabilistic Models
+- [openai/improved-diffusion](https://github.com/openai/improved-diffusion) topic: pushed_at:2022-11 star:0.9k fork:0.2k Release for Improved Denoising Diffusion Probabilistic Models
 - [openai/improved-gan](https://github.com/openai/improved-gan) topic:paper pushed_at:2018-11 star:2.1k fork:0.6k Code for the paper "Improved Techniques for Training GANs"
 - [openai/InfoGAN](https://github.com/openai/InfoGAN) topic:paper pushed_at:2021-03 star:1.0k fork:0.3k Code for reproducing key results in the paper "InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets"
-- [openai/jukebox](https://github.com/openai/jukebox) topic:audio,generative-model,music,paper,pytorch,transformer,vq-vae pushed_at:2021-09 star:5.6k fork:0.9k Code for the paper "Jukebox: A Generative Model for Music"
+- [openai/jukebox](https://github.com/openai/jukebox) topic:audio,generative-model,music,paper,pytorch,transformer,vq-vae pushed_at:2021-09 star:5.7k fork:0.9k Code for the paper "Jukebox: A Generative Model for Music"
 - [openai/kubernetes-ec2-autoscaler](https://github.com/openai/kubernetes-ec2-autoscaler) topic: pushed_at:2019-06 star:0.8k fork:0.1k A batch-optimized scaling manager for Kubernetes
 - [openai/large-scale-curiosity](https://github.com/openai/large-scale-curiosity) topic:paper pushed_at:2021-08 star:0.8k fork:0.2k Code for the paper "Large-Scale Study of Curiosity-Driven Learning"
 - [openai/LHOPT](https://github.com/openai/LHOPT) topic: pushed_at:2021-06 star:0.0k fork:0.0k Learned Hyperparameter Optimizers
@@ -163,13 +163,13 @@
 - [openai/ml-agents](https://github.com/openai/ml-agents) topic: pushed_at:2020-03 star:0.1k fork:0.0k Unity Machine Learning Agents Toolkit
 - [openai/mlsh](https://github.com/openai/mlsh) topic:paper pushed_at:2019-07 star:0.6k fork:0.1k  Code for the paper "Meta-Learning Shared Hierarchies"
 - [openai/mujoco-worldgen](https://github.com/openai/mujoco-worldgen) topic: pushed_at:2019-11 star:0.4k fork:0.1k Automatic object XML generation for Mujoco
-- [openai/multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) topic: pushed_at:2022-05 star:1.3k fork:0.3k Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
+- [openai/multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) topic: pushed_at:2022-05 star:1.4k fork:0.3k Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
 - [openai/multiagent-competition](https://github.com/openai/multiagent-competition) topic:paper pushed_at:2019-10 star:0.7k fork:0.1k  Code for the paper "Emergent Complexity via Multi-agent Competition"
 - [openai/multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs) topic:paper pushed_at:2022-04 star:1.7k fork:0.6k Code for a multi-agent particle environment used in the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
 - [openai/neural-gpu](https://github.com/openai/neural-gpu) topic:paper pushed_at:2018-11 star:0.1k fork:0.0k Code for the Neural GPU model originally described in "Neural GPUs Learn Algorithms"
 - [openai/neural-mmo](https://github.com/openai/neural-mmo) topic:paper pushed_at:2022-06 star:1.4k fork:0.2k Code for the paper "Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents"
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) topic: pushed_at:2022-10 star:0.4k fork:0.1k Examples and guides for using the OpenAI API
-- [openai/openai-python](https://github.com/openai/openai-python) topic: pushed_at:2022-10 star:0.8k fork:0.3k 
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) topic: pushed_at:2022-11 star:0.4k fork:0.1k Examples and guides for using the OpenAI API
+- [openai/openai-python](https://github.com/openai/openai-python) topic: pushed_at:2022-11 star:0.8k fork:0.3k 
 - [openai/phasic-policy-gradient](https://github.com/openai/phasic-policy-gradient) topic: pushed_at:2022-01 star:0.2k fork:0.0k Code for the paper "Phasic Policy Gradient"
 - [openai/pixel-cnn](https://github.com/openai/pixel-cnn) topic:paper pushed_at:2020-02 star:1.8k fork:0.4k Code for the paper "PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications"
 - [openai/psaw](https://github.com/openai/psaw) topic: pushed_at:2020-10 star:0.0k fork:0.0k Python Pushshift.io API Wrapper (for comment/submission search)
@@ -223,7 +223,7 @@
 
 ## TypeScript
 
-- [openai/openai-node](https://github.com/openai/openai-node) topic: pushed_at:2022-10 star:0.1k fork:0.0k Node.js library for the OpenAI API
+- [openai/openai-node](https://github.com/openai/openai-node) topic: pushed_at:2022-11 star:0.1k fork:0.0k Node.js library for the OpenAI API
 
 
 ## License
