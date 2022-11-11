@@ -39,19 +39,19 @@
 - [mdn/archived_kumascript](https://github.com/mdn/archived_kumascript) topic: pushed_at:2017-01 star:0.0k fork:0.0k Archive of KumaScript Templates / macros, 2005-2016
 - [mdn/beginner-html-site](https://github.com/mdn/beginner-html-site) topic: pushed_at:2022-10 star:0.2k fork:0.3k A simple one page website created to help complete beginners learn HTML basics. This example is built up over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/HTML_basics
 - [mdn/beginner-html-site-scripted](https://github.com/mdn/beginner-html-site-scripted) topic: pushed_at:2022-07 star:0.2k fork:0.3k A simple one page website created to help complete beginners learn HTML basics, which in this repo has also had some script added to help beginners learn JavaScript basics. The scripting is explained over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics. 
-- [mdn/beginner-html-site-styled](https://github.com/mdn/beginner-html-site-styled) topic: pushed_at:2022-09 star:0.2k fork:0.5k A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics.
+- [mdn/beginner-html-site-styled](https://github.com/mdn/beginner-html-site-styled) topic: pushed_at:2022-09 star:0.2k fork:0.6k A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics.
 - [mdn/beginning-programming-content-kit](https://github.com/mdn/beginning-programming-content-kit) topic:content-kit,html,unmaintained pushed_at:2019-03 star:0.0k fork:0.0k This is a Content Kit for people who want to teach programming to beginners.
 - [mdn/content-kit-template](https://github.com/mdn/content-kit-template) topic:content-management,demo-material,mdn,mdn-content-kit,presentation-materials,unmaintained pushed_at:2016-05 star:0.0k fork:0.0k This is the repo to fork or clone when creating a new MDN Content Kit.
-- [mdn/css-examples](https://github.com/mdn/css-examples) topic:css,css3 pushed_at:2022-11 star:0.4k fork:0.6k Code examples that accompany the MDN CSS documentation
+- [mdn/css-examples](https://github.com/mdn/css-examples) topic:css,css3 pushed_at:2022-11 star:0.4k fork:0.7k Code examples that accompany the MDN CSS documentation
 - [mdn/fetch-examples](https://github.com/mdn/fetch-examples) topic:fetch,fetch-api,fetch-examples,mdn-docs pushed_at:2022-08 star:0.5k fork:0.2k A repository of Fetch examples. See https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API for the corresponding documentation.
 - [mdn/fibonacci-worker](https://github.com/mdn/fibonacci-worker) topic: pushed_at:2022-09 star:0.0k fork:0.0k A web worker that calculates fibonacci numbers.
 - [mdn/houdini-examples](https://github.com/mdn/houdini-examples) topic: pushed_at:2022-02 star:0.0k fork:0.0k CSS Houdini examples relating to MDN content.
-- [mdn/html-examples](https://github.com/mdn/html-examples) topic: pushed_at:2022-03 star:0.1k fork:0.1k Code examples that accompany the MDN HTML documentation: https://developer.mozilla.org/en-US/docs/Web/HTML
+- [mdn/html-examples](https://github.com/mdn/html-examples) topic: pushed_at:2022-11 star:0.1k fork:0.1k Code examples that accompany the MDN HTML documentation: https://developer.mozilla.org/en-US/docs/Web/HTML
 - [mdn/imsc-examples](https://github.com/mdn/imsc-examples) topic: pushed_at:2022-09 star:0.0k fork:0.0k Repository for examples to go along with MDN IMSC documentation.
 - [mdn/insights](https://github.com/mdn/insights) topic: pushed_at:2022-04 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
-- [mdn/interactive-examples](https://github.com/mdn/interactive-examples) topic:css,editor,examples,html,interactive,javascript,mdn,nodejs pushed_at:2022-11 star:0.6k fork:0.4k Home of the MDN live code editor interactive examples
+- [mdn/interactive-examples](https://github.com/mdn/interactive-examples) topic:css,editor,examples,html,interactive,javascript,mdn,nodejs pushed_at:2022-11 star:0.6k fork:0.5k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) topic: pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
-- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2022-10 star:5.4k fork:22.6k Github repo for the MDN Learning Area. 
+- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2022-10 star:5.4k fork:22.7k Github repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) topic: pushed_at:2022-04 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
 - [mdn/learning-area-pt-br](https://github.com/mdn/learning-area-pt-br) topic: pushed_at:2022-09 star:0.0k fork:0.1k The MDN Learning Area code examples translated into Brazilian Portuguese.
 - [mdn/machine-translation-testing-content](https://github.com/mdn/machine-translation-testing-content) topic: pushed_at:2020-11 star:0.0k fork:0.0k This is a repository for testing machine translations of English content.
@@ -126,8 +126,8 @@
 
 ## Markdown
 
-- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2022-11 star:6.6k fork:12.9k The content behind MDN Web Docs
-- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2022-11 star:1.0k fork:4.7k All translated MDN content in raw form
+- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2022-11 star:7.0k fork:13.0k The content behind MDN Web Docs
+- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2022-11 star:1.0k fork:4.8k All translated MDN content in raw form
 
 ## Others
 
@@ -139,11 +139,11 @@
 - [mdn/mdn-community](https://github.com/mdn/mdn-community) topic:community,feedback,governance pushed_at:2022-10 star:0.1k fork:0.0k A place to provide feedback and suggestions for MDN Web Docs
 - [mdn/mdn-contributor-spotlight](https://github.com/mdn/mdn-contributor-spotlight) topic: pushed_at:2022-10 star:0.0k fork:0.0k Content for the contributor spotlight on MDN Web Docs
 - [mdn/mdn-dinocons](https://github.com/mdn/mdn-dinocons) topic:design,figma,icons,mdn-dinocons,svg-icons pushed_at:2022-03 star:0.0k fork:0.0k A scalable set of icons for use across Mozilla Developer websites
-- [mdn/project-template](https://github.com/mdn/project-template) topic: pushed_at:2022-10 star:0.0k fork:0.0k A project template to use for new repositories
+- [mdn/project-template](https://github.com/mdn/project-template) topic: pushed_at:2022-11 star:0.0k fork:0.0k A project template to use for new MDN GitHub repositories
 - [mdn/sprints](https://github.com/mdn/sprints) topic:issue-management,issue-tracker,issues-only,mdn pushed_at:2022-03 star:0.2k fork:0.2k MDN Web Docs content issue management
 - [mdn/temp-processes](https://github.com/mdn/temp-processes) topic: pushed_at:2022-09 star:0.0k fork:0.0k Temp repository to define issue & pr processes with mermaid flow charts
 - [mdn/wiki-revision-history](https://github.com/mdn/wiki-revision-history) topic:mdn pushed_at:2021-01 star:0.0k fork:0.0k An accurate CSV record of who made what revisions to MDN Web Docs when it was a Wiki platform
-- [mdn/workflows](https://github.com/mdn/workflows) topic: pushed_at:2022-10 star:0.0k fork:0.0k Reusable GitHub Actions workflows
+- [mdn/workflows](https://github.com/mdn/workflows) topic: pushed_at:2022-11 star:0.0k fork:0.0k Reusable GitHub Actions workflows
 
 ## PHP
 
@@ -180,7 +180,7 @@
 ## Vue
 
 - [mdn/release-dashboard](https://github.com/mdn/release-dashboard) topic: pushed_at:2022-11 star:0.0k fork:0.0k Small app to display bugzilla bugs which need dev docs
-- [mdn/todo-vue](https://github.com/mdn/todo-vue) topic: pushed_at:2022-07 star:0.0k fork:0.0k Sample todo app built with the Vue framework
+- [mdn/todo-vue](https://github.com/mdn/todo-vue) topic: pushed_at:2022-11 star:0.0k fork:0.0k Sample todo app built with the Vue framework
 
 ## WebAssembly
 
