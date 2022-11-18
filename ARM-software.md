@@ -40,7 +40,7 @@
 - [ARM-software/AVH-SystemModeling](https://github.com/ARM-software/AVH-SystemModeling) topic: pushed_at:2022-08 star:0.0k fork:0.0k Example Software Applications using Virtual Hardware (AVH).
 - [ARM-software/AVH-TFLmicrospeech](https://github.com/ARM-software/AVH-TFLmicrospeech) topic: pushed_at:2022-11 star:0.0k fork:0.0k Example: Micro speech for TensorFlow Lite
 - [ARM-software/B-U585I-IOT02A-avh-demo](https://github.com/ARM-software/B-U585I-IOT02A-avh-demo) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
-- [ARM-software/bbr-acs](https://github.com/ARM-software/bbr-acs) topic: pushed_at:2022-10 star:0.0k fork:0.0k Arm SystemReady : BBR Compliance Suite
+- [ARM-software/bbr-acs](https://github.com/ARM-software/bbr-acs) topic: pushed_at:2022-11 star:0.0k fork:0.0k Arm SystemReady : BBR Compliance Suite
 - [ARM-software/bento-linker](https://github.com/ARM-software/bento-linker) topic:experimental,microcontroller pushed_at:2021-01 star:0.0k fork:0.0k A light-weight alternative to processes for microcontrollers.
 - [ARM-software/bsa-acs](https://github.com/ARM-software/bsa-acs) topic: pushed_at:2022-11 star:0.0k fork:0.0k Arm SystemReady : BSA Architecture Compliance Suite
 - [ARM-software/CMSIS](https://github.com/ARM-software/CMSIS) topic: pushed_at:2018-10 star:0.4k fork:0.4k Cortex Microcontroller Software Interface Standard
@@ -53,7 +53,7 @@
 - [ARM-software/CMSIS-NN](https://github.com/ARM-software/CMSIS-NN) topic: pushed_at:2022-11 star:0.0k fork:0.0k CMSIS-NN Library
 - [ARM-software/CMSIS-RTOS2_Validation](https://github.com/ARM-software/CMSIS-RTOS2_Validation) topic: pushed_at:2022-09 star:0.0k fork:0.0k Validation test suite for CMSIS-RTOS2 API implementations using Arm Virtual Hardware (AVH).
 - [ARM-software/CMSIS-TFM](https://github.com/ARM-software/CMSIS-TFM) topic: pushed_at:2020-06 star:0.0k fork:0.0k Downstream Repository of CMSIS Software Packs for Trusted Firmware-M (TF-M).
-- [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) topic: pushed_at:2022-11 star:0.7k fork:1.0k CMSIS Version 5 Development Repository
+- [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) topic: pushed_at:2022-11 star:0.8k fork:1.0k CMSIS Version 5 Development Repository
 - [ARM-software/CPA](https://github.com/ARM-software/CPA) topic: pushed_at:2017-11 star:0.0k fork:0.0k Contiguous page allocator project
 - [ARM-software/cryptocell-312-runtime](https://github.com/ARM-software/cryptocell-312-runtime) topic: pushed_at:2021-02 star:0.0k fork:0.0k CryptoCell 312 runtime code
 - [ARM-software/Cryptocell-703-TEE-Lib](https://github.com/ARM-software/Cryptocell-703-TEE-Lib) topic: pushed_at:2020-09 star:0.0k fork:0.0k Cryptocell 713/703 TEE Lib
@@ -147,7 +147,7 @@
 
 ## Go
 
-- [ARM-software/bob-build](https://github.com/ARM-software/bob-build) topic:build-system,build-tool,build-tool-android,build-tool-linux,ninja-build pushed_at:2022-10 star:0.0k fork:0.0k Meta-build system using Blueprint and ninja
+- [ARM-software/bob-build](https://github.com/ARM-software/bob-build) topic:build-system,build-tool,build-tool-android,build-tool-linux,ninja-build pushed_at:2022-11 star:0.0k fork:0.0k Meta-build system using Blueprint and ninja
 - [ARM-software/CMSIS-View](https://github.com/ARM-software/CMSIS-View) topic: pushed_at:2022-11 star:0.0k fork:0.0k Repository of CMSIS Software Pack for software event generation and input/output handling.
 - [ARM-software/golang-utils](https://github.com/ARM-software/golang-utils) topic:golang,golang-library,golang-module,helpers,utilities pushed_at:2022-11 star:0.0k fork:0.0k Helpers and utilities for Golang in order to do actions not available in the standard library.
 
@@ -199,7 +199,7 @@
 
 ## PostScript
 
-- [ARM-software/ebbr](https://github.com/ARM-software/ebbr) topic: pushed_at:2022-10 star:0.1k fork:0.0k Embedded Base Boot Requirements Specification
+- [ARM-software/ebbr](https://github.com/ARM-software/ebbr) topic: pushed_at:2022-11 star:0.1k fork:0.0k Embedded Base Boot Requirements Specification
 
 ## Python
 
@@ -233,7 +233,7 @@
 
 ## Shell
 
-- [ARM-software/arm-systemready](https://github.com/ARM-software/arm-systemready) topic: pushed_at:2022-10 star:0.0k fork:0.0k Arm SystemReady
+- [ARM-software/arm-systemready](https://github.com/ARM-software/arm-systemready) topic: pushed_at:2022-11 star:0.0k fork:0.0k Arm SystemReady
 - [ARM-software/ohpc-config](https://github.com/ARM-software/ohpc-config) topic: pushed_at:2017-08 star:0.0k fork:0.0k Scripts and config files for recreating an OpenHPC OBS instance.
 - [ARM-software/toolchain](https://github.com/ARM-software/toolchain) topic: pushed_at:2020-02 star:0.0k fork:0.0k An master project to en route toolchain build requests into corresponding sub-projects with appropriate tags
 - [ARM-software/toolchain-gnu-bare-metal](https://github.com/ARM-software/toolchain-gnu-bare-metal) topic: pushed_at:2020-03 star:0.0k fork:0.0k A toolchain sub-project dedicated to build GNU toolchain for 32-bit bare-metal targets

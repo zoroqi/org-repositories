@@ -135,7 +135,7 @@
 - [w3c/chinese-ig-charter](https://github.com/w3c/chinese-ig-charter) topic: pushed_at:2022-11 star:0.0k fork:0.0k Chinese Web Interest Group charter
 - [w3c/clearspec](https://github.com/w3c/clearspec) topic: pushed_at:2022-09 star:0.0k fork:0.0k Spec template improvements and ideas to better serve our community
 - [w3c/clipboard-apis](https://github.com/w3c/clipboard-apis) topic: pushed_at:2022-07 star:0.1k fork:0.0k Clipboard API and events
-- [w3c/clreq](https://github.com/w3c/clreq) topic: pushed_at:2022-11 star:0.6k fork:0.1k Requirements for Chinese Text Layout
+- [w3c/clreq](https://github.com/w3c/clreq) topic: pushed_at:2022-11 star:0.7k fork:0.1k Requirements for Chinese Text Layout
 - [w3c/coga](https://github.com/w3c/coga) topic:accessibility pushed_at:2021-12 star:0.0k fork:0.0k Cognitive and Learning Disabilities Accessibility Task Force deliverables
 - [w3c/cogai](https://github.com/w3c/cogai) topic: pushed_at:2022-11 star:0.0k fork:0.0k for work by the Cognitive AI community group
 - [w3c/ColorWeb-CG](https://github.com/w3c/ColorWeb-CG) topic: pushed_at:2022-11 star:0.0k fork:0.0k repo for the Color on the Web Community Group
@@ -146,7 +146,7 @@
 - [w3c/css3-display](https://github.com/w3c/css3-display) topic: pushed_at:2018-12 star:0.0k fork:0.0k Early abandoned repo for CSS Display Module Level 3
 - [w3c/csvw](https://github.com/w3c/csvw) topic: pushed_at:2022-11 star:0.1k fork:0.1k Documents produced by the CSV on the Web Working Group
 - [w3c/ctaur](https://github.com/w3c/ctaur) topic: pushed_at:2022-11 star:0.0k fork:0.0k Collaboration Tool Accessibility User Requirements
-- [w3c/danmaku](https://github.com/w3c/danmaku) topic: pushed_at:2022-07 star:0.2k fork:0.0k Bullet Chatting Proposal
+- [w3c/danmaku](https://github.com/w3c/danmaku) topic: pushed_at:2022-11 star:0.2k fork:0.0k Bullet Chatting Proposal
 - [w3c/dapt](https://github.com/w3c/dapt) topic: pushed_at:2022-10 star:0.0k fork:0.0k Dubbing and Audio description Profiles of TTML2
 - [w3c/dapt-reqs](https://github.com/w3c/dapt-reqs) topic: pushed_at:2022-09 star:0.0k fork:0.0k Requirements on Dubbing and Audio description Profiles of TTML2
 - [w3c/das-charter](https://github.com/w3c/das-charter) topic: pushed_at:2022-09 star:0.0k fork:0.0k Devices and Sensors Working Group charter
@@ -160,9 +160,9 @@
 - [w3c/did-imp-guide](https://github.com/w3c/did-imp-guide) topic:did-wg pushed_at:2021-12 star:0.0k fork:0.0k DID Implementation Guide (Note)
 - [w3c/did-rubric](https://github.com/w3c/did-rubric) topic:did-wg pushed_at:2022-01 star:0.0k fork:0.0k W3C Decentralized Characteristics Rubric v1.0
 - [w3c/did-spec-registries](https://github.com/w3c/did-spec-registries) topic:did-wg pushed_at:2022-11 star:0.1k fork:0.1k DID Spec Registry (Note)
-- [w3c/did-test-suite](https://github.com/w3c/did-test-suite) topic:did-wg pushed_at:2022-08 star:0.0k fork:0.0k W3C DID Test Suite and Implementation Report
+- [w3c/did-test-suite](https://github.com/w3c/did-test-suite) topic:did-wg pushed_at:2022-11 star:0.0k fork:0.0k W3C DID Test Suite and Implementation Report
 - [w3c/did-use-cases](https://github.com/w3c/did-use-cases) topic:did-wg pushed_at:2022-11 star:0.0k fork:0.0k Decentralized Identifier Use Cases and Requirements v1.0
-- [w3c/did-wg](https://github.com/w3c/did-wg) topic:did-wg pushed_at:2022-07 star:0.0k fork:0.0k Home page of the Decentralized Identifier Working Group
+- [w3c/did-wg](https://github.com/w3c/did-wg) topic:did-wg pushed_at:2022-11 star:0.0k fork:0.0k Home page of the Decentralized Identifier Working Group
 - [w3c/did-wg-charter](https://github.com/w3c/did-wg-charter) topic: pushed_at:2022-10 star:0.0k fork:0.0k https://w3c.github.io/did-wg-charter/
 - [w3c/distributed-tracing-not](https://github.com/w3c/distributed-tracing-not) topic: pushed_at:2018-09 star:0.0k fork:0.0k This repository has been superseded. Please use w3c/distributed-tracing
 - [w3c/distributed-tracing-wg](https://github.com/w3c/distributed-tracing-wg) topic:distributed-tracing,w3c pushed_at:2022-10 star:0.0k fork:0.0k Distributed Tracing Working Group
@@ -222,7 +222,7 @@
 - [w3c/geolocation-api](https://github.com/w3c/geolocation-api) topic: pushed_at:2022-09 star:0.1k fork:0.1k W3C Geolocation API
 - [w3c/geolocation-sensor](https://github.com/w3c/geolocation-sensor) topic: pushed_at:2022-03 star:0.1k fork:0.0k Geolocation Sensor
 - [w3c/gpuweb-wg](https://github.com/w3c/gpuweb-wg) topic: pushed_at:2022-02 star:0.0k fork:0.0k Home page of the GPU for the Web Working Group
-- [w3c/graphql-rdf](https://github.com/w3c/graphql-rdf) topic: pushed_at:2020-06 star:0.0k fork:0.0k Bridging GraphQL and RDF Community Group
+- [w3c/graphql-rdf](https://github.com/w3c/graphql-rdf) topic: pushed_at:2022-11 star:0.0k fork:0.0k Bridging GraphQL and RDF Community Group
 - [w3c/Guide](https://github.com/w3c/Guide) topic: pushed_at:2022-09 star:0.0k fork:0.0k The repository for the /Guide guideline.
 - [w3c/gyroscope](https://github.com/w3c/gyroscope) topic:sensors pushed_at:2021-12 star:0.0k fork:0.0k Gyroscope
 - [w3c/hcls-drug-drug-interaction](https://github.com/w3c/hcls-drug-drug-interaction) topic: pushed_at:2019-05 star:0.0k fork:0.0k W3C HCLS Drug-Drug Interaction
@@ -246,7 +246,7 @@
 - [w3c/i18n-discuss](https://github.com/w3c/i18n-discuss) topic: pushed_at:2022-11 star:0.0k fork:0.0k A place to hold discussions on i18n topics, and to put documents that summarise, support or initiate those discussions.
 - [w3c/i18n-drafts](https://github.com/w3c/i18n-drafts) topic: pushed_at:2022-11 star:0.1k fork:0.1k A place to edit articles, tutorials, and the like for the /International subtree of the W3C site.  Also, captures issues and comments.
 - [w3c/i18n-glossary](https://github.com/w3c/i18n-glossary) topic: pushed_at:2022-11 star:0.0k fork:0.0k Definitions of terms used in W3C Internationalization documents.
-- [w3c/i18n-tests](https://github.com/w3c/i18n-tests) topic: pushed_at:2022-09 star:0.0k fork:0.0k Internationalization tests run with the W3C i18n test suite.
+- [w3c/i18n-tests](https://github.com/w3c/i18n-tests) topic: pushed_at:2022-11 star:0.0k fork:0.0k Internationalization tests run with the W3C i18n test suite.
 - [w3c/idcg](https://github.com/w3c/idcg) topic: pushed_at:2021-05 star:0.0k fork:0.0k Inclusion and Diversity Community Group
 - [w3c/IFT](https://github.com/w3c/IFT) topic: pushed_at:2022-11 star:0.0k fork:0.0k W3C Incremental Font Transfer
 - [w3c/iip](https://github.com/w3c/iip) topic: pushed_at:2022-10 star:0.0k fork:0.0k Documenting gaps and requirements for support of Indic languages on the Web and in eBooks.
@@ -264,7 +264,7 @@
 - [w3c/its-2.0-testsuite](https://github.com/w3c/its-2.0-testsuite) topic: pushed_at:2019-02 star:0.0k fork:0.0k 
 - [w3c/its-2.0-testsuite-inputdata](https://github.com/w3c/its-2.0-testsuite-inputdata) topic: pushed_at:2019-02 star:0.0k fork:0.0k 
 - [w3c/its2req](https://github.com/w3c/its2req) topic: pushed_at:2019-02 star:0.0k fork:0.0k Requirements for Internationalization Tag Set (ITS) 2.0
-- [w3c/jlreq](https://github.com/w3c/jlreq) topic: pushed_at:2022-10 star:0.1k fork:0.0k Text Layout Requirements for Japanese
+- [w3c/jlreq](https://github.com/w3c/jlreq) topic: pushed_at:2022-11 star:0.1k fork:0.0k Text Layout Requirements for Japanese
 - [w3c/json-ld-api](https://github.com/w3c/json-ld-api) topic:json-ld-11,json-ld-wg pushed_at:2022-10 star:0.1k fork:0.0k JSON-LD 1.1 Processing Algorithms and API Specification
 - [w3c/json-ld-bp](https://github.com/w3c/json-ld-bp) topic:json-ld-11,json-ld-wg pushed_at:2022-10 star:0.0k fork:0.0k JSON-LD 1.1 Best Practices Note
 - [w3c/json-ld-cbor](https://github.com/w3c/json-ld-cbor) topic:json-ld-11,json-ld-wg pushed_at:2022-03 star:0.0k fork:0.0k JSON-LD 1.1 in CBOR Note
@@ -309,7 +309,7 @@
 - [w3c/media-accessibility-reqs](https://github.com/w3c/media-accessibility-reqs) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [w3c/media-and-entertainment](https://github.com/w3c/media-and-entertainment) topic: pushed_at:2022-11 star:0.1k fork:0.0k Repository for the Media and Entertainment Interest Group
 - [w3c/media-bundle-workshop](https://github.com/w3c/media-bundle-workshop) topic: pushed_at:2020-10 star:0.0k fork:0.0k Possible W3C workshop on Bundling Interactive Media Content on the Web
-- [w3c/media-capabilities](https://github.com/w3c/media-capabilities) topic: pushed_at:2022-08 star:0.1k fork:0.0k Media Capabilities Standard
+- [w3c/media-capabilities](https://github.com/w3c/media-capabilities) topic: pushed_at:2022-11 star:0.1k fork:0.0k Media Capabilities Standard
 - [w3c/media-playback-quality](https://github.com/w3c/media-playback-quality) topic: pushed_at:2021-02 star:0.0k fork:0.0k Media Playback Quality
 - [w3c/media-production-workshop](https://github.com/w3c/media-production-workshop) topic: pushed_at:2022-03 star:0.0k fork:0.0k W3C Workshop on Web and Media production
 - [w3c/media-source](https://github.com/w3c/media-source) topic: pushed_at:2022-09 star:0.2k fork:0.1k Media Source Extensions
@@ -317,7 +317,7 @@
 - [w3c/media-wg](https://github.com/w3c/media-wg) topic: pushed_at:2022-11 star:0.0k fork:0.0k Media Working Group
 - [w3c/mediacapture-automation](https://github.com/w3c/mediacapture-automation) topic:getusermedia,webdriver,webrtc pushed_at:2021-11 star:0.0k fork:0.0k Media Capture Automation
 - [w3c/mediacapture-depth](https://github.com/w3c/mediacapture-depth) topic:webrtc pushed_at:2022-02 star:0.0k fork:0.0k the Media Capture Depth Stream Extensions specification
-- [w3c/mediacapture-extensions](https://github.com/w3c/mediacapture-extensions) topic:getusermedia,webrtc pushed_at:2022-10 star:0.0k fork:0.0k Extensions to Media Capture and Streams by the WebRTC Working Group
+- [w3c/mediacapture-extensions](https://github.com/w3c/mediacapture-extensions) topic:getusermedia,webrtc pushed_at:2022-11 star:0.0k fork:0.0k Extensions to Media Capture and Streams by the WebRTC Working Group
 - [w3c/mediacapture-fromelement](https://github.com/w3c/mediacapture-fromelement) topic:webrtc pushed_at:2021-11 star:0.0k fork:0.0k API to create a MediaStream from Media Element
 - [w3c/mediacapture-handle](https://github.com/w3c/mediacapture-handle) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [w3c/mediacapture-main](https://github.com/w3c/mediacapture-main) topic:webrtc pushed_at:2022-11 star:0.1k fork:0.1k Media Capture and Streams specification (aka getUserMedia)
@@ -342,7 +342,7 @@
 - [w3c/miniapp-manifest](https://github.com/w3c/miniapp-manifest) topic: pushed_at:2022-10 star:0.0k fork:0.0k MiniApp Manifest
 - [w3c/miniapp-packaging](https://github.com/w3c/miniapp-packaging) topic: pushed_at:2022-10 star:0.0k fork:0.0k MiniApp Packaging
 - [w3c/miniapp-white-paper](https://github.com/w3c/miniapp-white-paper) topic: pushed_at:2022-10 star:0.0k fork:0.0k MiniApp Standardization White Paper
-- [w3c/miniapp-widget](https://github.com/w3c/miniapp-widget) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
+- [w3c/miniapp-widget](https://github.com/w3c/miniapp-widget) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [w3c/mlreq](https://github.com/w3c/mlreq) topic: pushed_at:2022-01 star:0.0k fork:0.0k Mongolian Layout Requirements
 - [w3c/mlw-metadata-us-impl](https://github.com/w3c/mlw-metadata-us-impl) topic: pushed_at:2019-02 star:0.0k fork:0.0k Metadata for the Multilingual Web - Usage Scenarios and Implementations
 - [w3c/mmi](https://github.com/w3c/mmi) topic: pushed_at:2019-03 star:0.0k fork:0.0k repository for the W3C Multimodal Interaction Working Group (MMI WG)
@@ -376,17 +376,17 @@
 - [w3c/packaged-webapps](https://github.com/w3c/packaged-webapps) topic: pushed_at:2015-12 star:0.0k fork:0.0k All packaged web apps deliverables
 - [w3c/page-visibility](https://github.com/w3c/page-visibility) topic: pushed_at:2022-06 star:0.0k fork:0.0k Page Visibility
 - [w3c/payment-accessibility-reqs](https://github.com/w3c/payment-accessibility-reqs) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
-- [w3c/payment-handler](https://github.com/w3c/payment-handler) topic: pushed_at:2022-09 star:0.1k fork:0.1k Payment Handler API
+- [w3c/payment-handler](https://github.com/w3c/payment-handler) topic: pushed_at:2022-11 star:0.1k fork:0.1k Payment Handler API
 - [w3c/payment-method-basic-card](https://github.com/w3c/payment-method-basic-card) topic: pushed_at:2021-08 star:0.0k fork:0.0k Payment Method: Basic Card
 - [w3c/payment-method-credit-transfer](https://github.com/w3c/payment-method-credit-transfer) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
 - [w3c/payment-method-id](https://github.com/w3c/payment-method-id) topic:w3c,w3c-api,w3c-specification,w3c-web-payments,web-payments pushed_at:2022-09 star:0.0k fork:0.0k Payment Method Identifiers specification
 - [w3c/payment-method-manifest](https://github.com/w3c/payment-method-manifest) topic: pushed_at:2022-04 star:0.0k fork:0.0k Specification for Web Payments payment method manifests
 - [w3c/payment-method-pisp-credit](https://github.com/w3c/payment-method-pisp-credit) topic: pushed_at:2018-11 star:0.0k fork:0.0k THIS REPO DEPRECATED; see instead 
-- [w3c/payment-request](https://github.com/w3c/payment-request) topic:e-commerce,payments,standardization,w3c pushed_at:2022-10 star:0.5k fork:0.2k Payment Request API
+- [w3c/payment-request](https://github.com/w3c/payment-request) topic:e-commerce,payments,standardization,w3c pushed_at:2022-11 star:0.5k fork:0.2k Payment Request API
 - [w3c/perf-security-privacy](https://github.com/w3c/perf-security-privacy) topic: pushed_at:2021-02 star:0.0k fork:0.0k Performance APIs, Security and Privacy
 - [w3c/perf-timing-primer](https://github.com/w3c/perf-timing-primer) topic: pushed_at:2020-07 star:0.0k fork:0.0k A Primer for Web Performance Timing APIs
 - [w3c/performance-timeline](https://github.com/w3c/performance-timeline) topic:api,performance,performance-metrics,specification,web,web-application,webapp pushed_at:2022-11 star:0.1k fork:0.0k Performance Timeline
-- [w3c/permissions](https://github.com/w3c/permissions) topic: pushed_at:2022-10 star:0.1k fork:0.1k Permissions API
+- [w3c/permissions](https://github.com/w3c/permissions) topic: pushed_at:2022-11 star:0.1k fork:0.1k Permissions API
 - [w3c/permissions-registry](https://github.com/w3c/permissions-registry) topic:permissions,registry,standards,w3c pushed_at:2022-11 star:0.0k fork:0.0k Registry of known powerful features in the web platform.
 - [w3c/permissions-ws-2018](https://github.com/w3c/permissions-ws-2018) topic:event,w3c pushed_at:2019-05 star:0.0k fork:0.0k Web site: W3C Workshop on Permissions and User Consent
 - [w3c/pfwg](https://github.com/w3c/pfwg) topic: pushed_at:2018-07 star:0.0k fork:0.0k Work of the Protocols and Formats Working Group, excluding ARIA which is in a separate repository.
@@ -397,7 +397,7 @@
 - [w3c/poe](https://github.com/w3c/poe) topic:odrl pushed_at:2021-03 star:0.0k fork:0.0k Permissions & Obligations Expression WG
 - [w3c/pointerevents](https://github.com/w3c/pointerevents) topic: pushed_at:2022-10 star:0.1k fork:0.0k Pointer Events
 - [w3c/pointerlock](https://github.com/w3c/pointerlock) topic: pushed_at:2022-07 star:0.0k fork:0.0k Pointer Lock
-- [w3c/predefined-counter-styles](https://github.com/w3c/predefined-counter-styles) topic: pushed_at:2022-10 star:0.0k fork:0.0k Predefined Counter Styles
+- [w3c/predefined-counter-styles](https://github.com/w3c/predefined-counter-styles) topic: pushed_at:2022-11 star:0.0k fork:0.0k Predefined Counter Styles
 - [w3c/preload](https://github.com/w3c/preload) topic: pushed_at:2022-05 star:0.1k fork:0.0k Preload
 - [w3c/presentation-api](https://github.com/w3c/presentation-api) topic:second-screen pushed_at:2022-06 star:0.1k fork:0.0k Presentation API
 - [w3c/presentation-viewer](https://github.com/w3c/presentation-viewer) topic: pushed_at:2020-10 star:0.0k fork:0.0k Template to show slides, videos and transcript of a presentation together
@@ -454,7 +454,7 @@
 - [w3c/sensors](https://github.com/w3c/sensors) topic:sensors pushed_at:2022-09 star:0.1k fork:0.1k Generic Sensor API
 - [w3c/server-timing](https://github.com/w3c/server-timing) topic: pushed_at:2022-04 star:0.1k fork:0.0k Server Timing
 - [w3c/service-workers-wg](https://github.com/w3c/service-workers-wg) topic: pushed_at:2022-06 star:0.0k fork:0.0k Service Workers Working Group pages
-- [w3c/ServiceWorker](https://github.com/w3c/ServiceWorker) topic: pushed_at:2022-10 star:3.6k fork:0.3k Service Workers
+- [w3c/ServiceWorker](https://github.com/w3c/ServiceWorker) topic: pushed_at:2022-11 star:3.6k fork:0.3k Service Workers
 - [w3c/setImmediate](https://github.com/w3c/setImmediate) topic: pushed_at:2021-06 star:0.0k fork:0.0k This repo defines an interface for web applications to flush the browser event queue and receive an immediate callback.
 - [w3c/shacl](https://github.com/w3c/shacl) topic: pushed_at:2021-12 star:0.0k fork:0.0k SHACL Community Group (Post-REC activitities)
 - [w3c/share-psi](https://github.com/w3c/share-psi) topic: pushed_at:2017-06 star:0.0k fork:0.0k Repository for the EC project Share-PSI, especially for the development of best practice documents
@@ -531,14 +531,14 @@
 - [w3c/verifiable-credentials](https://github.com/w3c/verifiable-credentials) topic:vc-wg pushed_at:2022-11 star:0.0k fork:0.0k W3C Verifiable Credentials Working Group
 - [w3c/vibration](https://github.com/w3c/vibration) topic: pushed_at:2022-06 star:0.0k fork:0.0k Vibration API
 - [w3c/virtual-keyboard](https://github.com/w3c/virtual-keyboard) topic: pushed_at:2022-05 star:0.0k fork:0.0k VirtualKeyboard API
-- [w3c/voiceinteraction](https://github.com/w3c/voiceinteraction) topic: pushed_at:2022-10 star:0.0k fork:0.0k publications of the W3C Voice Interaction Community Group
+- [w3c/voiceinteraction](https://github.com/w3c/voiceinteraction) topic: pushed_at:2022-11 star:0.0k fork:0.0k publications of the W3C Voice Interaction Community Group
 - [w3c/vr-workshop](https://github.com/w3c/vr-workshop) topic: pushed_at:2016-12 star:0.0k fork:0.0k 
 - [w3c/vsso](https://github.com/w3c/vsso) topic: pushed_at:2022-08 star:0.0k fork:0.0k The Vehicle Signal Ontology (VSSo) based on COVESA VSS and making use of the SOSA/SSN modeling patterns
 - [w3c/w3c-api](https://github.com/w3c/w3c-api) topic:json-api,w3c-api pushed_at:2022-09 star:0.1k fork:0.1k The W3C API
 - [w3c/w3c-waet](https://github.com/w3c/w3c-waet) topic: pushed_at:2019-01 star:0.0k fork:0.0k Repository for the Developers' Guide to Features of Web Accessibility Evaluation Tools
-- [w3c/w3c-website-redesign-html](https://github.com/w3c/w3c-website-redesign-html) topic: pushed_at:2022-07 star:0.0k fork:0.0k W3C Website redesign - HTML prototype
+- [w3c/w3c-website-redesign-html](https://github.com/w3c/w3c-website-redesign-html) topic: pushed_at:2022-11 star:0.0k fork:0.0k W3C Website redesign - HTML prototype
 - [w3c/w3c.github.io](https://github.com/w3c/w3c.github.io) topic:documentation,faq,github,organisation,process,w3c pushed_at:2022-10 star:0.1k fork:0.0k The W3C organisation
-- [w3c/w3process](https://github.com/w3c/w3process) topic:process,w3c pushed_at:2022-11 star:0.1k fork:0.1k W3C Process Document
+- [w3c/w3process](https://github.com/w3c/w3process) topic:process,w3c pushed_at:2022-11 star:0.1k fork:0.2k W3C Process Document
 - [w3c/w3process-obsolete-rescinded](https://github.com/w3c/w3process-obsolete-rescinded) topic: pushed_at:2021-01 star:0.0k fork:0.0k Superseded, Obsolete, Rescinded
 - [w3c/wai-about-wai](https://github.com/w3c/wai-about-wai) topic:accessibility pushed_at:2022-11 star:0.0k fork:0.2k 
 - [w3c/wai-aria-intro](https://github.com/w3c/wai-aria-intro) topic:accessibility pushed_at:2019-03 star:0.0k fork:0.0k 
@@ -556,15 +556,15 @@
 - [w3c/wai-statements](https://github.com/w3c/wai-statements) topic: pushed_at:2022-11 star:0.0k fork:0.0k Accessibility Statements
 - [w3c/wai-tips-procuring](https://github.com/w3c/wai-tips-procuring) topic: pushed_at:2019-01 star:0.0k fork:0.0k Procuring Tips for Web Accessibility
 - [w3c/wai-translation-playground2](https://github.com/w3c/wai-translation-playground2) topic: pushed_at:2020-11 star:0.0k fork:0.0k 
-- [w3c/wai-wcag-supplemental](https://github.com/w3c/wai-wcag-supplemental) topic: pushed_at:2022-05 star:0.0k fork:0.0k Repository to display Design Patterns for People with Cognitive and Learning Disabilities in a WAI website-like template
-- [w3c/wai-wcag-understanding](https://github.com/w3c/wai-wcag-understanding) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
+- [w3c/wai-wcag-supplemental](https://github.com/w3c/wai-wcag-supplemental) topic: pushed_at:2022-11 star:0.0k fork:0.0k Repository to display Design Patterns for People with Cognitive and Learning Disabilities in a WAI website-like template
+- [w3c/wai-wcag-understanding](https://github.com/w3c/wai-wcag-understanding) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [w3c/wai-website-design](https://github.com/w3c/wai-website-design) topic: pushed_at:2019-04 star:0.0k fork:0.0k WAI Website Design and Redesign
 - [w3c/wai-website-jekyll-templates](https://github.com/w3c/wai-website-jekyll-templates) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
 - [w3c/wake-lock](https://github.com/w3c/wake-lock) topic: pushed_at:2021-02 star:0.0k fork:0.0k New repository: https://github.com/w3c/screen-wake-lock
 - [w3c/wasm-wg](https://github.com/w3c/wasm-wg) topic: pushed_at:2022-07 star:0.0k fork:0.0k Web Assembly WG pages
 - [w3c/wbs-design](https://github.com/w3c/wbs-design) topic: pushed_at:2022-10 star:0.0k fork:0.0k Pretiffy the WBS UI
 - [w3c/wcag](https://github.com/w3c/wcag) topic: pushed_at:2022-11 star:0.8k fork:0.2k Web Content Accessibility Guidelines
-- [w3c/wcag-act](https://github.com/w3c/wcag-act) topic: pushed_at:2022-10 star:0.0k fork:0.0k WCAG Accessibility Conformance Testing (ACT)
+- [w3c/wcag-act](https://github.com/w3c/wcag-act) topic: pushed_at:2022-11 star:0.0k fork:0.0k WCAG Accessibility Conformance Testing (ACT)
 - [w3c/wcag-act-rules](https://github.com/w3c/wcag-act-rules) topic: pushed_at:2022-11 star:0.0k fork:0.0k WCAG Conformance Test Rules
 - [w3c/wcag-eo](https://github.com/w3c/wcag-eo) topic: pushed_at:2019-03 star:0.0k fork:0.0k Repository for EO editorial work on WCAG
 - [w3c/wcag-redesign](https://github.com/w3c/wcag-redesign) topic: pushed_at:2022-09 star:0.0k fork:0.0k Temporary repository to preview WCAG redesign work
@@ -587,7 +587,7 @@
 - [w3c/web-thing-protocol](https://github.com/w3c/web-thing-protocol) topic: pushed_at:2022-08 star:0.0k fork:0.0k Repository for the Web Thing Protocol Community Group
 - [w3c/web-wcg-hdr-workshop](https://github.com/w3c/web-wcg-hdr-workshop) topic: pushed_at:2021-09 star:0.0k fork:0.0k A proposed W3C virtual workshop on Wide Color Gamut and High Dynamic Range for the Wev
 - [w3c/web5g-workshop](https://github.com/w3c/web5g-workshop) topic: pushed_at:2019-03 star:0.0k fork:0.0k Web5G workshop proposal
-- [w3c/webappsec](https://github.com/w3c/webappsec) topic: pushed_at:2022-09 star:0.6k fork:0.2k Web Application Security Working Group repo
+- [w3c/webappsec](https://github.com/w3c/webappsec) topic: pushed_at:2022-11 star:0.6k fork:0.2k Web Application Security Working Group repo
 - [w3c/webappsec-clear-site-data](https://github.com/w3c/webappsec-clear-site-data) topic: pushed_at:2021-02 star:0.0k fork:0.0k WebAppSec Clear Site Data
 - [w3c/webappsec-cors-for-developers](https://github.com/w3c/webappsec-cors-for-developers) topic: pushed_at:2021-02 star:0.0k fork:0.0k CORS for developers
 - [w3c/webappsec-cowl](https://github.com/w3c/webappsec-cowl) topic: pushed_at:2021-02 star:0.0k fork:0.0k WebAppSec Confinement Origin Web Labels
@@ -609,12 +609,12 @@
 - [w3c/webcodecs](https://github.com/w3c/webcodecs) topic: pushed_at:2022-11 star:0.6k fork:0.1k WebCodecs is a flexible web API for encoding and decoding audio and video.
 - [w3c/webcomponents-cg](https://github.com/w3c/webcomponents-cg) topic:css,html,js,w3c,web-components pushed_at:2022-10 star:0.1k fork:0.0k Web Components community group
 - [w3c/webcrypto](https://github.com/w3c/webcrypto) topic: pushed_at:2022-11 star:0.2k fork:0.1k The W3C Web Cryptography API 
-- [w3c/webdriver](https://github.com/w3c/webdriver) topic:automation,browser,remote-control,standard,w3c-specification,webdriver pushed_at:2022-10 star:0.6k fork:0.2k Remote control interface that enables introspection and control of user agents.
+- [w3c/webdriver](https://github.com/w3c/webdriver) topic:automation,browser,remote-control,standard,w3c-specification,webdriver pushed_at:2022-11 star:0.6k fork:0.2k Remote control interface that enables introspection and control of user agents.
 - [w3c/webextensions](https://github.com/w3c/webextensions) topic: pushed_at:2022-11 star:0.4k fork:0.0k Charter and administrivia for the WebExtensions Community Group (WECG)
 - [w3c/WebID](https://github.com/w3c/WebID) topic: pushed_at:2022-10 star:0.0k fork:0.0k https://www.w3.org/groups/cg/webid
 - [w3c/webmediaapi](https://github.com/w3c/webmediaapi) topic: pushed_at:2022-10 star:0.0k fork:0.0k Web Media API specification
 - [w3c/webmediaguidelines](https://github.com/w3c/webmediaguidelines) topic: pushed_at:2022-06 star:0.0k fork:0.0k Web Media applications developer guidelines
-- [w3c/webmention](https://github.com/w3c/webmention) topic: pushed_at:2022-02 star:0.1k fork:0.0k Webmention spec
+- [w3c/webmention](https://github.com/w3c/webmention) topic: pushed_at:2022-11 star:0.1k fork:0.1k Webmention spec
 - [w3c/webmessaging](https://github.com/w3c/webmessaging) topic: pushed_at:2019-11 star:0.0k fork:0.0k Moved to https://html.spec.whatwg.org/multipage/web-messaging.html
 - [w3c/webpayments](https://github.com/w3c/webpayments) topic: pushed_at:2022-08 star:0.2k fork:0.1k The document repo for the Web Payments Working Group
 - [w3c/webpayments-crypto](https://github.com/w3c/webpayments-crypto) topic: pushed_at:2019-03 star:0.0k fork:0.0k Crypto discussions of the Web Payments Working Group
@@ -682,7 +682,7 @@
 ## Java
 
 - [w3c/css-validator](https://github.com/w3c/css-validator) topic: pushed_at:2022-11 star:0.2k fork:0.1k W3C CSS Validation Service
-- [w3c/epubcheck](https://github.com/w3c/epubcheck) topic:digital-publishing,epub,epub-publications,epub3,epubcheck,publishing pushed_at:2022-10 star:1.2k fork:0.4k Validation tool for EPUB
+- [w3c/epubcheck](https://github.com/w3c/epubcheck) topic:digital-publishing,epub,epub-publications,epub3,epubcheck,publishing pushed_at:2022-10 star:1.3k fork:0.4k Validation tool for EPUB
 - [w3c/i18n-checker-java](https://github.com/w3c/i18n-checker-java) topic: pushed_at:2016-07 star:0.0k fork:0.0k A Java implementation of the Internationalization Checker
 - [w3c/ldp-testsuite](https://github.com/w3c/ldp-testsuite) topic: pushed_at:2019-03 star:0.0k fork:0.0k Tests for Linked Data Platform (LDP)
 - [w3c/N3](https://github.com/w3c/N3) topic: pushed_at:2022-10 star:0.0k fork:0.0k W3C's Notation 3 (N3) Community Group
@@ -703,7 +703,7 @@
 - [w3c/aria-at-automation-results-viewer](https://github.com/w3c/aria-at-automation-results-viewer) topic: pushed_at:2022-03 star:0.0k fork:0.0k A tool which translates the JSON-formatted data produced by the aria-at-automation-harness into a human-readable form
 - [w3c/aria-common](https://github.com/w3c/aria-common) topic: pushed_at:2022-05 star:0.0k fork:0.0k Shared files for the ARIA repositories
 - [w3c/aria-practices](https://github.com/w3c/aria-practices) topic:aria,css,html pushed_at:2022-11 star:0.9k fork:0.2k WAI-ARIA Authoring Practices Guide (APG)
-- [w3c/ash-nazg](https://github.com/w3c/ash-nazg) topic:repository-management pushed_at:2022-08 star:0.0k fork:0.0k One interface to find all group contributors and in IPR bind them
+- [w3c/ash-nazg](https://github.com/w3c/ash-nazg) topic:repository-management pushed_at:2022-11 star:0.0k fork:0.0k One interface to find all group contributors and in IPR bind them
 - [w3c/browser-compat-data](https://github.com/w3c/browser-compat-data) topic: pushed_at:2022-11 star:0.0k fork:0.0k Fork of MDN browser-compat-data that removes mdn_url 404s
 - [w3c/browser-specs](https://github.com/w3c/browser-specs) topic: pushed_at:2022-11 star:0.1k fork:0.0k A machine-readable list of specifications used to build Web browsers
 - [w3c/browser-statuses](https://github.com/w3c/browser-statuses) topic: pushed_at:2022-11 star:0.0k fork:0.0k Implementation support information of Web technologies on main desktop and mobile browsers
@@ -738,7 +738,7 @@
 - [w3c/Mobile-Checker](https://github.com/w3c/Mobile-Checker) topic: pushed_at:2019-01 star:0.3k fork:0.1k The Mobile Checker is a tool for Web developers who want to make their Web page or Web app work better on mobile devices.
 - [w3c/mobile-web-browser-emulator](https://github.com/w3c/mobile-web-browser-emulator) topic: pushed_at:2017-11 star:0.0k fork:0.0k Emulation of a Chrome-based browser on a mobile device for Node.js
 - [w3c/node-linkchecker](https://github.com/w3c/node-linkchecker) topic: pushed_at:2019-01 star:0.0k fork:0.0k Detect broken links and broken fragments
-- [w3c/node-w3capi](https://github.com/w3c/node-w3capi) topic:api,client,javascript,nodejs,w3c,w3c-api pushed_at:2022-10 star:0.0k fork:0.0k A JavaScript client for the W3C API
+- [w3c/node-w3capi](https://github.com/w3c/node-w3capi) topic:api,client,javascript,nodejs,w3c,w3c-api pushed_at:2022-11 star:0.0k fork:0.0k A JavaScript client for the W3C API
 - [w3c/onboarding](https://github.com/w3c/onboarding) topic: pushed_at:2022-10 star:0.0k fork:0.0k A tool to send the facility map to newcomers in a group
 - [w3c/orcid_in_respec](https://github.com/w3c/orcid_in_respec) topic: pushed_at:2019-04 star:0.0k fork:0.0k Script to add an ORCID reference to authors and editors in respec
 - [w3c/personalXR](https://github.com/w3c/personalXR) topic: pushed_at:2021-02 star:0.0k fork:0.0k An XR prototype using personalization semantics  
@@ -753,7 +753,7 @@
 - [w3c/snapshot-generator](https://github.com/w3c/snapshot-generator) topic:snapshot,spec,specification,w3c pushed_at:2022-04 star:0.0k fork:0.0k For commit snapshots
 - [w3c/spec-dashboard](https://github.com/w3c/spec-dashboard) topic: pushed_at:2022-11 star:0.0k fork:0.0k Tools to monitor development of specs across groups
 - [w3c/spec-families](https://github.com/w3c/spec-families) topic: pushed_at:2021-12 star:0.0k fork:0.0k List of W3C specification families
-- [w3c/spec-generator](https://github.com/w3c/spec-generator) topic: pushed_at:2022-10 star:0.0k fork:0.0k Service to automatically generate specs from various source formats
+- [w3c/spec-generator](https://github.com/w3c/spec-generator) topic: pushed_at:2022-11 star:0.0k fork:0.0k Service to automatically generate specs from various source formats
 - [w3c/spec-releases](https://github.com/w3c/spec-releases) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
 - [w3c/sphinx-to-tr](https://github.com/w3c/sphinx-to-tr) topic: pushed_at:2022-05 star:0.0k fork:0.0k transform Sphinx doc (e.g. <https://webassembly.github.io/spec/core/index.html>) to <http://www.w3.org/TR/>
 - [w3c/strudy](https://github.com/w3c/strudy) topic: pushed_at:2022-11 star:0.0k fork:0.0k Strudy is an analysis tool for Web spec crawl reports created by Reffy
@@ -781,7 +781,7 @@
 - [w3c/wai-tutorials](https://github.com/w3c/wai-tutorials) topic:a11y,accessibility,tutorials,wai pushed_at:2022-10 star:0.3k fork:0.2k W3C WAI’s Web Accessibility Tutorials
 - [w3c/wai-website](https://github.com/w3c/wai-website) topic: pushed_at:2022-11 star:0.0k fork:0.1k This is a repository hosts the new WAI Website.
 - [w3c/wai-website-components](https://github.com/w3c/wai-website-components) topic:frctl,html,styleguide pushed_at:2019-07 star:0.0k fork:0.0k Components for w3.org/WAI
-- [w3c/wai-website-theme](https://github.com/w3c/wai-website-theme) topic: pushed_at:2022-10 star:0.0k fork:0.0k WAI Website Theme and Style Guide — File issues in https://github.com/w3c/wai-website/issues/ — Manual/Preview/Style Guide: https://wai-website-theme.netlify.app
+- [w3c/wai-website-theme](https://github.com/w3c/wai-website-theme) topic: pushed_at:2022-11 star:0.0k fork:0.0k WAI Website Theme and Style Guide — File issues in https://github.com/w3c/wai-website/issues/ — Manual/Preview/Style Guide: https://wai-website-theme.netlify.app
 - [w3c/wai-website-theme-beta](https://github.com/w3c/wai-website-theme-beta) topic: pushed_at:2019-04 star:0.0k fork:0.0k 
 - [w3c/wcag-em-report-tool](https://github.com/w3c/wcag-em-report-tool) topic: pushed_at:2022-10 star:0.1k fork:0.1k Interactive Guide to Assist Managing Web Accessibility Evaluations
 - [w3c/web-ecmascript](https://github.com/w3c/web-ecmascript) topic: pushed_at:2012-11 star:0.0k fork:0.0k Mirror of tests for Web EcmaScript http://wiki.whatwg.org/wiki/Web_ECMAScript
@@ -832,7 +832,7 @@
 - [w3c/github-notify-ml-config](https://github.com/w3c/github-notify-ml-config) topic: pushed_at:2022-11 star:0.0k fork:0.0k Configuration for mailing lists using github-notify-ml
 - [w3c/hcls](https://github.com/w3c/hcls) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
 - [w3c/hns-core-spec](https://github.com/w3c/hns-core-spec) topic: pushed_at:2020-12 star:0.0k fork:0.0k 
-- [w3c/horizontal-issue-tracker](https://github.com/w3c/horizontal-issue-tracker) topic: pushed_at:2022-07 star:0.0k fork:0.0k Tools and pages to track horizontal issues
+- [w3c/horizontal-issue-tracker](https://github.com/w3c/horizontal-issue-tracker) topic: pushed_at:2022-11 star:0.0k fork:0.0k Tools and pages to track horizontal issues
 - [w3c/htmlwg](https://github.com/w3c/htmlwg) topic: pushed_at:2022-03 star:0.0k fork:0.0k HTML Working Group 
 - [w3c/i18n-issues](https://github.com/w3c/i18n-issues) topic: pushed_at:2019-03 star:0.0k fork:0.0k A place to log problems encountered when developing web sites and pages for international use.
 - [w3c/i18n-request](https://github.com/w3c/i18n-request) topic: pushed_at:2022-08 star:0.0k fork:0.0k Horizontal review requests are made via issues in this repo, and tracked by our radar.
@@ -941,7 +941,7 @@
 - [w3c/csswg-apiclient](https://github.com/w3c/csswg-apiclient) topic: pushed_at:2021-02 star:0.0k fork:0.0k Read-only git mirror
 - [w3c/csswg-w3ctestlib](https://github.com/w3c/csswg-w3ctestlib) topic: pushed_at:2018-10 star:0.0k fork:0.0k Read-only git mirror
 - [w3c/EasierRDF](https://github.com/w3c/EasierRDF) topic:graph-data,rdf,w3c pushed_at:2022-09 star:0.2k fork:0.0k Making RDF easy enough for most developers
-- [w3c/feedvalidator](https://github.com/w3c/feedvalidator) topic: pushed_at:2022-07 star:0.0k fork:0.0k W3C-customized version of the feedvalidator (forked from https://github.com/rubys/feedvalidator/)
+- [w3c/feedvalidator](https://github.com/w3c/feedvalidator) topic: pushed_at:2022-11 star:0.0k fork:0.0k W3C-customized version of the feedvalidator (forked from https://github.com/rubys/feedvalidator/)
 - [w3c/github_sync](https://github.com/w3c/github_sync) topic: pushed_at:2019-03 star:0.0k fork:0.0k Script to sync w3c-test.org with github repository and pull requests
 - [w3c/html-tools](https://github.com/w3c/html-tools) topic: pushed_at:2019-03 star:0.0k fork:0.0k Tools used to publish the HTML specifications
 - [w3c/http-headers-py](https://github.com/w3c/http-headers-py) topic: pushed_at:2019-03 star:0.0k fork:0.0k Online service to show HTTP headers sent from a given URL
@@ -1018,7 +1018,7 @@
 - [w3c/wai-tutorial-tables](https://github.com/w3c/wai-tutorial-tables) topic: pushed_at:2020-01 star:0.0k fork:0.0k 
 - [w3c/wai-video-standards-and-benefits](https://github.com/w3c/wai-video-standards-and-benefits) topic: pushed_at:2022-11 star:0.0k fork:0.1k Video Introduction to Web Accessibility and W3C Standards
 - [w3c/wai-wcag-em-overview](https://github.com/w3c/wai-wcag-em-overview) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
-- [w3c/wai-wcag-mob-overlap](https://github.com/w3c/wai-wcag-mob-overlap) topic: pushed_at:2021-07 star:0.0k fork:0.0k 
+- [w3c/wai-wcag-mob-overlap](https://github.com/w3c/wai-wcag-mob-overlap) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [w3c/wai-wcag-videos](https://github.com/w3c/wai-wcag-videos) topic: pushed_at:2021-06 star:0.0k fork:0.0k Short Videos Explaining WCAG 2 Requirements
 - [w3c/wai-website-data](https://github.com/w3c/wai-website-data) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [w3c/wai-website-plugin](https://github.com/w3c/wai-website-plugin) topic: pushed_at:2019-05 star:0.0k fork:0.0k 
@@ -1064,7 +1064,7 @@
 - [w3c/ttml2](https://github.com/w3c/ttml2) topic: pushed_at:2022-11 star:0.0k fork:0.0k Timed Text Markup Language 2 (TTML2)
 - [w3c/ttml3](https://github.com/w3c/ttml3) topic: pushed_at:2022-02 star:0.0k fork:0.0k Timed Text Markup Language 3 (TTML3)
 - [w3c/xml-entities](https://github.com/w3c/xml-entities) topic: pushed_at:2022-09 star:0.0k fork:0.0k Source for http://www.w3.org/2003/entities/2007xml/
-- [w3c/xslt30-test](https://github.com/w3c/xslt30-test) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
+- [w3c/xslt30-test](https://github.com/w3c/xslt30-test) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 
 
 ## License

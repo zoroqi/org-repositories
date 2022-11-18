@@ -51,7 +51,7 @@
 - [mdn/insights](https://github.com/mdn/insights) topic: pushed_at:2022-04 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) topic:css,editor,examples,html,interactive,javascript,mdn,nodejs pushed_at:2022-11 star:0.6k fork:0.5k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) topic: pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
-- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2022-10 star:5.4k fork:22.7k Github repo for the MDN Learning Area. 
+- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2022-11 star:5.4k fork:22.8k Github repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) topic: pushed_at:2022-04 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
 - [mdn/learning-area-pt-br](https://github.com/mdn/learning-area-pt-br) topic: pushed_at:2022-09 star:0.0k fork:0.1k The MDN Learning Area code examples translated into Brazilian Portuguese.
 - [mdn/machine-translation-testing-content](https://github.com/mdn/machine-translation-testing-content) topic: pushed_at:2020-11 star:0.0k fork:0.0k This is a repository for testing machine translations of English content.
@@ -78,15 +78,15 @@
 - [mdn/advanced-js-fundamentals-ck](https://github.com/mdn/advanced-js-fundamentals-ck) topic: pushed_at:2022-09 star:0.1k fork:0.1k This content kit provides learning material to allow intermediate web developers to level up their skills, learning real world techniques to take them past rudimentary syntax towards a solid foundation of skills than can be utilized to create modern web applications. It'll be visual; you'll have fun along the way.
 - [mdn/audio-channels-demo](https://github.com/mdn/audio-channels-demo) topic: pushed_at:2019-04 star:0.0k fork:0.0k A demo to show how the AudioChannels API works, at a basic level
 - [mdn/battery-quickstart-finished-example](https://github.com/mdn/battery-quickstart-finished-example) topic:unmaintained pushed_at:2017-07 star:0.0k fork:0.0k [UNMAINTAINED] The finished version of the example built up in the "Your first app" tutorial found in the Mozilla Developer Network open web app Quickstart article.
-- [mdn/bob](https://github.com/mdn/bob) topic: pushed_at:2022-11 star:0.1k fork:0.0k Builder of Bits aka The MDN Web Docs interactive examples, example builder
+- [mdn/bob](https://github.com/mdn/bob) topic: pushed_at:2022-11 star:0.1k fork:0.1k Builder of Bits aka The MDN Web Docs interactive examples, example builder
 - [mdn/browser-api-demo](https://github.com/mdn/browser-api-demo) topic: pushed_at:2022-09 star:0.0k fork:0.0k A simple demo to show usage of the Mozilla Browser API. See https://developer.mozilla.org/en-US/docs/Web/API/Using_the_Browser_API for more details.
 - [mdn/browser-compat-toolkit](https://github.com/mdn/browser-compat-toolkit) topic: pushed_at:2019-04 star:0.0k fork:0.0k Toolkit for visualizing and editing MDN's browser compatibility data
 - [mdn/browsercompat-cm](https://github.com/mdn/browsercompat-cm) topic:unmaintained pushed_at:2017-05 star:0.0k fork:0.0k Browsercompat - Contribution & Moderation UI
 - [mdn/canvas-raycaster](https://github.com/mdn/canvas-raycaster) topic:3d-environment,canvas,demo,javascript,raycast pushed_at:2022-09 star:0.1k fork:0.0k Using the <canvas> element to do software rendering of a 3D environment with ray-casting
-- [mdn/data](https://github.com/mdn/data) topic:css,data,json,json-data pushed_at:2022-10 star:0.7k fork:0.2k This repository contains general data for Web technologies
+- [mdn/data](https://github.com/mdn/data) topic:css,data,json,json-data pushed_at:2022-11 star:0.7k fork:0.2k This repository contains general data for Web technologies
 - [mdn/doc-linter-rules](https://github.com/mdn/doc-linter-rules) topic:linting-rules,mdn pushed_at:2019-04 star:0.0k fork:0.0k Linting rules used to lint MDN Web Documents
 - [mdn/doc-linter-webextension](https://github.com/mdn/doc-linter-webextension) topic:linter,mdn,webextension pushed_at:2019-08 star:0.0k fork:0.0k Webextension to lint MDN documents
-- [mdn/dom-examples](https://github.com/mdn/dom-examples) topic:channel-messaging,demo,dom-manipulation,drag-drop,matchmedia,mdn-docs,pointer-events,pointer-lock,touch-events pushed_at:2022-10 star:1.9k fork:1.2k Code examples that accompany various MDN DOM and Web API documentation pages
+- [mdn/dom-examples](https://github.com/mdn/dom-examples) topic:channel-messaging,demo,dom-manipulation,drag-drop,matchmedia,mdn-docs,pointer-events,pointer-lock,touch-events pushed_at:2022-11 star:1.9k fork:1.3k Code examples that accompany various MDN DOM and Web API documentation pages
 - [mdn/e10s-example-addons](https://github.com/mdn/e10s-example-addons) topic:e10s,firefox-addon,unmaintained pushed_at:2019-04 star:0.0k fork:0.0k Examples showing how to port add-ons to be e10s-compatible
 - [mdn/express-locallibrary-tutorial](https://github.com/mdn/express-locallibrary-tutorial) topic: pushed_at:2022-10 star:1.0k fork:0.5k Local Library website written in NodeJS/Express; example for the MDN server-side development NodeJS module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs.
 - [mdn/headless-examples](https://github.com/mdn/headless-examples) topic: pushed_at:2019-08 star:0.1k fork:0.0k Examples to support the MDN resource covering Firefox headless mode — see https://developer.mozilla.org/en-US/Firefox/Headless_mode
@@ -98,7 +98,7 @@
 - [mdn/mdn.dev](https://github.com/mdn/mdn.dev) topic: pushed_at:2022-04 star:0.0k fork:0.0k Content for https://mdn.dev
 - [mdn/museum](https://github.com/mdn/museum) topic: pushed_at:2022-09 star:0.0k fork:0.0k A historic collection of MDN Web Docs content and examples
 - [mdn/perf-examples](https://github.com/mdn/perf-examples) topic: pushed_at:2019-04 star:0.0k fork:0.0k Examples related to MDN performance documentation; see https://developer.mozilla.org/en-US/docs/web/Performance
-- [mdn/pwa-examples](https://github.com/mdn/pwa-examples) topic: pushed_at:2022-08 star:0.7k fork:0.5k Examples for progressive web apps.
+- [mdn/pwa-examples](https://github.com/mdn/pwa-examples) topic: pushed_at:2022-08 star:0.7k fork:0.6k Examples for progressive web apps.
 - [mdn/repl-panel](https://github.com/mdn/repl-panel) topic:addon,devtools,devtools-extension,repl,unmaintained pushed_at:2019-04 star:0.0k fork:0.0k This add-on lets you send remote debugging protocol requests to the debugging server, and displays the response.
 - [mdn/s3-config](https://github.com/mdn/s3-config) topic:aws,mdn-infra,s3-bucket,simple-storage-service pushed_at:2022-10 star:0.0k fork:0.0k MDN Simple Storage Service (S3) configuration
 - [mdn/samples-server](https://github.com/mdn/samples-server) topic: pushed_at:2021-04 star:0.9k fork:0.9k MDN samples server; used for samples that can't be hosted in-place on MDN, plus back-end server-side code for samples that need it.
@@ -126,8 +126,8 @@
 
 ## Markdown
 
-- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2022-11 star:7.0k fork:13.0k The content behind MDN Web Docs
-- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2022-11 star:1.0k fork:4.8k All translated MDN content in raw form
+- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2022-11 star:7.0k fork:13.2k The content behind MDN Web Docs
+- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2022-11 star:1.0k fork:4.9k The source repository of all translated content for MDN Web Docs
 
 ## Others
 
@@ -184,7 +184,7 @@
 
 ## WebAssembly
 
-- [mdn/webassembly-examples](https://github.com/mdn/webassembly-examples) topic: pushed_at:2022-08 star:0.9k fork:0.2k Code examples that accompany the MDN WebAssembly documentation — see https://developer.mozilla.org/en-US/docs/WebAssembly. 
+- [mdn/webassembly-examples](https://github.com/mdn/webassembly-examples) topic: pushed_at:2022-08 star:1.0k fork:0.2k Code examples that accompany the MDN WebAssembly documentation — see https://developer.mozilla.org/en-US/docs/WebAssembly. 
 
 
 ## License

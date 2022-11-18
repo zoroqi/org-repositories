@@ -38,7 +38,7 @@
 - [apple/swift-cmark](https://github.com/apple/swift-cmark) topic: pushed_at:2022-11 star:0.2k fork:0.1k CommonMark parsing and rendering library and program in C
 - [apple/swift-compiler-rt](https://github.com/apple/swift-compiler-rt) topic: pushed_at:2019-10 star:0.1k fork:0.1k 
 - [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) topic: pushed_at:2022-11 star:2.3k fork:0.4k The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
-- [apple/swift-crypto](https://github.com/apple/swift-crypto) topic:boringssl,ciphers,cryptography,ecdh,ecdsa,eddsa,elliptic-curves,hash-functions,swift,swift-crypto pushed_at:2022-10 star:1.2k fork:0.1k Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
+- [apple/swift-crypto](https://github.com/apple/swift-crypto) topic:boringssl,ciphers,cryptography,ecdh,ecdsa,eddsa,elliptic-curves,hash-functions,swift,swift-crypto pushed_at:2022-11 star:1.2k fork:0.1k Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
 - [apple/swift-lmdb](https://github.com/apple/swift-lmdb) topic: pushed_at:2022-11 star:0.0k fork:0.0k Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.
 - [apple/swift-nio-ssl](https://github.com/apple/swift-nio-ssl) topic:swift5,swiftnio,tls,tls-support pushed_at:2022-10 star:0.3k fork:0.1k TLS Support for SwiftNIO, based on BoringSSL.
 
@@ -51,7 +51,7 @@
 - [apple/apple-llvm-infrastructure-tools](https://github.com/apple/apple-llvm-infrastructure-tools) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [apple/AudioUnitSDK](https://github.com/apple/AudioUnitSDK) topic: pushed_at:2022-08 star:0.1k fork:0.0k AudioUnit SDK
 - [apple/ccs-pyopendirectory](https://github.com/apple/ccs-pyopendirectory) topic: pushed_at:2018-11 star:0.0k fork:0.0k Python OpenDirectory library used by CalendarServer
-- [apple/foundationdb](https://github.com/apple/foundationdb) topic:acid,distributed-database,foundationdb,key-value-store,transactional pushed_at:2022-11 star:11.8k fork:1.2k FoundationDB - the open source, distributed, transactional key-value store
+- [apple/foundationdb](https://github.com/apple/foundationdb) topic:acid,distributed-database,foundationdb,key-value-store,transactional pushed_at:2022-11 star:11.9k fork:1.2k FoundationDB - the open source, distributed, transactional key-value store
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) topic: pushed_at:2022-11 star:0.3k fork:0.1k Index database library for use with sourcekit-lsp
 - [apple/llvm-project-v5](https://github.com/apple/llvm-project-v5) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project-v5-split](https://github.com/apple/llvm-project-v5-split) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
@@ -106,7 +106,7 @@
 
 ## Others
 
-- [apple/device-management](https://github.com/apple/device-management) topic: pushed_at:2022-10 star:0.2k fork:0.0k Device management schema data for MDM.
+- [apple/device-management](https://github.com/apple/device-management) topic: pushed_at:2022-11 star:0.2k fork:0.0k Device management schema data for MDM.
 - [apple/llvm-monorepo-root](https://github.com/apple/llvm-monorepo-root) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project](https://github.com/apple/llvm-project) topic: pushed_at:2022-11 star:0.7k fork:0.3k The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Apple’s stable releases of Clang as well as support the Swift project.
 - [apple/ml-dms-dataset](https://github.com/apple/ml-dms-dataset) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
@@ -149,7 +149,7 @@
 - [apple/ml-fct](https://github.com/apple/ml-fct) topic: pushed_at:2022-05 star:0.0k fork:0.0k Research publication code for "Forward Compatible Training for Large-Scale Embedding Retrieval Systems", CVPR 2022.
 - [apple/ml-gmpi](https://github.com/apple/ml-gmpi) topic:3d,eccv2022,generative-adversarial-network,generative-model,multiplane-images,neural-rendering,pytorch pushed_at:2022-09 star:0.3k fork:0.0k Official PyTorch implementation of GMPI (ECCV 2022, Oral Presentation)
 - [apple/ml-gsn](https://github.com/apple/ml-gsn) topic: pushed_at:2021-09 star:0.2k fork:0.0k 
-- [apple/ml-hypersim](https://github.com/apple/ml-hypersim) topic: pushed_at:2022-10 star:1.3k fork:0.1k Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding
+- [apple/ml-hypersim](https://github.com/apple/ml-hypersim) topic: pushed_at:2022-11 star:1.3k fork:0.1k Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding
 - [apple/ml-knowledge-conflicts](https://github.com/apple/ml-knowledge-conflicts) topic: pushed_at:2022-08 star:0.0k fork:0.0k Entity-Based Knowledge Conflicts in Question Answering. Code repo for EMNLP2021 paper: https://aclanthology.org/2021.emnlp-main.565/
 - [apple/ml-mkqa](https://github.com/apple/ml-mkqa) topic:dataset,multilingual-evaluation,nlp pushed_at:2022-06 star:0.1k fork:0.0k We introduce MKQA, an open-domain question answering evaluation set comprising 10k question-answer pairs aligned across 26 typologically diverse languages (260k question-answer pairs in total). The goal of this dataset is to provide a challenging benchmark for question answering quality across a wide set of languages. Please refer to our paper for details, MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering
 - [apple/ml-multiple-futures-prediction](https://github.com/apple/ml-multiple-futures-prediction) topic:neurips-2019 pushed_at:2022-08 star:0.1k fork:0.0k 
@@ -220,9 +220,9 @@
 - [apple/swift-distributed-tracing-baggage](https://github.com/apple/swift-distributed-tracing-baggage) topic:async-context,baggage,baggage-context,concurrency,context-propagation,distributed-systems,trace-context pushed_at:2022-11 star:0.0k fork:0.0k Minimal context propagation container with Logging
 - [apple/swift-distributed-tracing-baggage-core](https://github.com/apple/swift-distributed-tracing-baggage-core) topic:distributed-tracing,sswg,swift pushed_at:2022-08 star:0.0k fork:0.0k Minimal context propagation container
 - [apple/swift-docc](https://github.com/apple/swift-docc) topic: pushed_at:2022-11 star:0.8k fork:0.1k Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.
-- [apple/swift-docc-plugin](https://github.com/apple/swift-docc-plugin) topic: pushed_at:2022-10 star:0.2k fork:0.0k Swift Package Manager command plugin for Swift-DocC
+- [apple/swift-docc-plugin](https://github.com/apple/swift-docc-plugin) topic: pushed_at:2022-11 star:0.2k fork:0.0k Swift Package Manager command plugin for Swift-DocC
 - [apple/swift-docc-symbolkit](https://github.com/apple/swift-docc-symbolkit) topic: pushed_at:2022-11 star:0.1k fork:0.0k A Swift package for encoding and decoding Swift Symbol Graph files.
-- [apple/swift-driver](https://github.com/apple/swift-driver) topic: pushed_at:2022-11 star:0.7k fork:0.1k Swift compiler driver reimplementation in Swift
+- [apple/swift-driver](https://github.com/apple/swift-driver) topic: pushed_at:2022-11 star:0.7k fork:0.2k Swift compiler driver reimplementation in Swift
 - [apple/swift-evolution-staging](https://github.com/apple/swift-evolution-staging) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apple/swift-experimental-string-processing](https://github.com/apple/swift-experimental-string-processing) topic: pushed_at:2022-11 star:0.2k fork:0.0k An early experimental general-purpose pattern matching engine for Swift.
 - [apple/swift-format](https://github.com/apple/swift-format) topic: pushed_at:2022-11 star:1.7k fork:0.1k Formatting technology for Swift source code
