@@ -42,9 +42,9 @@
 ## Makefile
 
 - [riscv/riscv-aclint](https://github.com/riscv/riscv-aclint) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
-- [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) topic: pushed_at:2022-07 star:0.2k fork:0.1k Working draft of the proposed RISC-V Bitmanipulation extension
+- [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) topic: pushed_at:2022-11 star:0.2k fork:0.1k Working draft of the proposed RISC-V Bitmanipulation extension
 - [riscv/riscv-cfi](https://github.com/riscv/riscv-cfi) topic: pushed_at:2022-11 star:0.0k fork:0.0k This repo holds the work area and revisions of the RISC-V CFI (Shadow Stack and Landing Pads) specifications. CFI defines the privileged and unprivileged ISA extensions that can be used by privileged and unprivileged programs to protect the integrity of their control-flow.
-- [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) topic: pushed_at:2022-01 star:0.1k fork:0.0k Working Draft of the RISC-V J Extension Specification
+- [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) topic: pushed_at:2022-11 star:0.1k fork:0.0k Working Draft of the RISC-V J Extension Specification
 - [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) topic: pushed_at:2022-09 star:0.1k fork:0.0k RISC-V Profiles and Platform Specification
 - [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) topic: pushed_at:2022-11 star:0.0k fork:0.0k RISC-V Architecture Profiles
 - [riscv/riscv-semihosting-spec](https://github.com/riscv/riscv-semihosting-spec) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
@@ -75,11 +75,11 @@
 ## TeX
 
 - [riscv/docs-dev-guide](https://github.com/riscv/docs-dev-guide) topic: pushed_at:2022-08 star:0.0k fork:0.0k Documentation developer guide
-- [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
+- [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [riscv/riscv-bfloat16](https://github.com/riscv/riscv-bfloat16) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [riscv/riscv-control-transfer-history](https://github.com/riscv/riscv-control-transfer-history) topic: pushed_at:2022-10 star:0.0k fork:0.0k This repo contains a RISC-V ISA extension (proposal) to allow recording of control transfer history to on-chip registers, to support usages associated with profiling and debug.
 - [riscv/riscv-count-overflow](https://github.com/riscv/riscv-count-overflow) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
-- [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) topic: pushed_at:2022-10 star:0.3k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
+- [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) topic: pushed_at:2022-11 star:0.3k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) topic: pushed_at:2022-11 star:2.3k fork:0.4k RISC-V Instruction Set Manual
 - [riscv/riscv-ras-eri](https://github.com/riscv/riscv-ras-eri) topic: pushed_at:2022-06 star:0.0k fork:0.0k The (RAS Error-record Register Interface) RERI provides a specification to augment RAS features in RISC-V SOC hardware to standardize reporting and logging of errors by means of a memory-mapped register interface to enable error detection, provide the facility to log the detected errors (including their severity, nature, and location), and configuring means to report the error to a handler component.
 - [riscv/riscv-ras-terms-defs](https://github.com/riscv/riscv-ras-terms-defs) topic: pushed_at:2022-06 star:0.0k fork:0.0k The RAS Terms & Definitions specification define the terms and definitions for physical mechanisms starting from common ones from research and development to adapting the terms as needed.

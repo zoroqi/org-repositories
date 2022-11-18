@@ -60,7 +60,7 @@
 
 ## C#
 
-- [github/gh-actions-importer](https://github.com/github/gh-actions-importer) topic: pushed_at:2022-11 star:0.0k fork:0.0k The GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
+- [github/gh-actions-importer](https://github.com/github/gh-actions-importer) topic: pushed_at:2022-11 star:0.1k fork:0.0k The GitHub Actions Importer helps you plan and automate the migration of Azure DevOps, CircleCI, GitLab, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [github/gh-gei](https://github.com/github/gh-gei) topic:gh-extension pushed_at:2022-11 star:0.2k fork:0.1k Migration CLI for GitHub to GitHub migrations
 - [github/gh-valet](https://github.com/github/gh-valet) topic: pushed_at:2022-11 star:0.5k fork:0.0k Valet helps facilitate the migration of Azure DevOps, CircleCI, GitLab CI, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [github/GitPad](https://github.com/github/GitPad) topic: pushed_at:2019-09 star:0.2k fork:0.1k Notepad.exe as Git commit editor
@@ -130,19 +130,19 @@
 - [github/fiber-fragments](https://github.com/github/fiber-fragments) topic:fiber,fragments,go,microservices,works-with-codespaces pushed_at:2021-08 star:0.0k fork:0.0k :framed_picture: Micro fragmentation middleware for fiber :rocket: that enables to build microservice frontends.
 - [github/freno](https://github.com/github/freno) topic:high-availability,mysql,proxysql,replication,throttle,vitess pushed_at:2022-09 star:0.5k fork:0.1k freno: cooperative, highly available throttler service
 - [github/gh-mysql-tools](https://github.com/github/gh-mysql-tools) topic: pushed_at:2020-02 star:0.1k fork:0.0k General purpose MySQL tools by GitHub Engineering
-- [github/gh-ost](https://github.com/github/gh-ost) topic:mysql,schema-migrations pushed_at:2022-10 star:10.6k fork:1.2k GitHub's Online Schema-migration Tool for MySQL
+- [github/gh-ost](https://github.com/github/gh-ost) topic:mysql,schema-migrations pushed_at:2022-11 star:10.6k fork:1.2k GitHub's Online Schema-migration Tool for MySQL
 - [github/git-sizer](https://github.com/github/git-sizer) topic:git,github,golang pushed_at:2022-10 star:2.7k fork:0.1k Compute various size metrics for a Git repository, flagging those that might cause problems
 - [github/go-fault](https://github.com/github/go-fault) topic:gh-go pushed_at:2022-10 star:0.5k fork:0.0k Fault injection library in Go using standard http middleware
 - [github/go-mysql](https://github.com/github/go-mysql) topic: pushed_at:2016-11 star:0.0k fork:0.0k a powerful mysql toolset with Go
 - [github/go-opstocat](https://github.com/github/go-opstocat) topic: pushed_at:2016-08 star:0.0k fork:0.0k DEPRECATED
-- [github/hub](https://github.com/github/hub) topic:git,github-api,go,homebrew,pull-request pushed_at:2022-11 star:22.1k fork:2.3k A command-line tool that makes git easier to use with GitHub.
+- [github/hub](https://github.com/github/hub) topic:git,github-api,go,homebrew,pull-request pushed_at:2022-11 star:22.2k fork:2.3k A command-line tool that makes git easier to use with GitHub.
 - [github/ietf-cms](https://github.com/github/ietf-cms) topic: pushed_at:2021-10 star:0.1k fork:0.0k CMS (PKCS#7) library for Go
 - [github/kube-service-exporter](https://github.com/github/kube-service-exporter) topic: pushed_at:2022-07 star:0.1k fork:0.0k A Kubernetes controller to export LoadBalancer Services to Consul
 - [github/oauth2_proxy](https://github.com/github/oauth2_proxy) topic: pushed_at:2022-03 star:0.0k fork:0.0k A reverse proxy that provides authentication with Google, Github or other provider
 - [github/orchestrator-agent](https://github.com/github/orchestrator-agent) topic: pushed_at:2019-12 star:0.1k fork:0.0k MySQL replication topology manager - agent (daemon)
-- [github/proto-gen-go](https://github.com/github/proto-gen-go) topic: pushed_at:2022-09 star:0.0k fork:0.0k A 'go generate' script to generate Go files from .proto interfaces
+- [github/proto-gen-go](https://github.com/github/proto-gen-go) topic: pushed_at:2022-11 star:0.0k fork:0.0k A 'go generate' script to generate Go files from .proto interfaces
 - [github/s3gof3r](https://github.com/github/s3gof3r) topic: pushed_at:2021-10 star:0.0k fork:0.0k Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r
-- [github/skeema](https://github.com/github/skeema) topic: pushed_at:2022-10 star:0.0k fork:0.0k Schema management CLI for MySQL
+- [github/skeema](https://github.com/github/skeema) topic: pushed_at:2022-11 star:0.0k fork:0.0k Schema management CLI for MySQL
 - [github/smimesign](https://github.com/github/smimesign) topic:git,signing,smime pushed_at:2022-11 star:0.5k fork:0.1k An S/MIME signing utility for use with Git
 - [github/sparkles-legacy](https://github.com/github/sparkles-legacy) topic: pushed_at:2017-02 star:0.0k fork:0.0k A Go backend for giving each other :sparkles: in Slack
 - [github/vitess-gh](https://github.com/github/vitess-gh) topic: pushed_at:2022-10 star:0.0k fork:0.0k Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -152,14 +152,14 @@
 
 - [github/actions-cheat-sheet](https://github.com/github/actions-cheat-sheet) topic: pushed_at:2021-06 star:0.2k fork:0.0k A cheat sheet for GitHub Actions
 - [github/government.github.com](https://github.com/github/government.github.com) topic:government,open-government,stories pushed_at:2022-11 star:1.5k fork:1.0k Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations
-- [github/hackathons](https://github.com/github/hackathons) topic:community,discussions,hackathon,hackathon-organisers,hackathon-starter,hackathons,hacktoberfest,organiser pushed_at:2022-10 star:0.2k fork:0.0k Tips, Tricks, and Resources for running your hackathon.
+- [github/hackathons](https://github.com/github/hackathons) topic:community,discussions,hackathon,hackathon-organisers,hackathon-starter,hackathons,hacktoberfest,organiser pushed_at:2022-11 star:0.2k fork:0.0k Tips, Tricks, and Resources for running your hackathon.
 - [github/OAuth-Ruby-Quickstart](https://github.com/github/OAuth-Ruby-Quickstart) topic: pushed_at:2019-01 star:0.0k fork:0.0k Starter code and quickstart guide for a GitHub OAuth App in Ruby
-- [github/opensource.guide](https://github.com/github/opensource.guide) topic:best-practices,documentation,open-source,oss,tutorial pushed_at:2022-11 star:11.4k fork:15.6k 📚 Community guides for open source creators
+- [github/opensource.guide](https://github.com/github/opensource.guide) topic:best-practices,documentation,open-source,oss,tutorial pushed_at:2022-11 star:11.5k fork:15.6k 📚 Community guides for open source creators
 - [github/opensourcefriday](https://github.com/github/opensourcefriday) topic:open-source pushed_at:2022-10 star:1.1k fork:0.2k 🚲 Contribute to the open source community every Friday
 - [github/personal-website](https://github.com/github/personal-website) topic: pushed_at:2022-10 star:7.1k fork:6.8k Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [github/review-pull-requests-at-github-template](https://github.com/github/review-pull-requests-at-github-template) topic:learning-lab,template pushed_at:2022-10 star:0.0k fork:0.0k Template for GitHub's Reviewing Pull Requests Learning Lab course. Course ➡️
 - [github/sdr-code-camp](https://github.com/github/sdr-code-camp) topic: pushed_at:2020-12 star:0.0k fork:0.0k learn you some code!
-- [github/Spoon-Knife](https://github.com/github/Spoon-Knife) topic: pushed_at:2022-10 star:0.0k fork:0.2k This repo is for demonstration purposes only.
+- [github/Spoon-Knife](https://github.com/github/Spoon-Knife) topic: pushed_at:2022-11 star:0.0k fork:0.2k This repo is for demonstration purposes only.
 - [github/template](https://github.com/github/template) topic: pushed_at:2017-11 star:0.0k fork:0.0k Minimal polyfill for <template>
 - [github/training-kit](https://github.com/github/training-kit) topic:cheatsheet,cheatsheets,courseware,fieldservices,git,hacktoberfest,professionalservices,training,training-kit pushed_at:2022-11 star:3.8k fork:4.4k Open source courseware for Git and GitHub
 - [github/webcomponentsjs](https://github.com/github/webcomponentsjs) topic: pushed_at:2019-10 star:0.0k fork:0.0k A suite of polyfills supporting the HTML Web Components specs
@@ -215,14 +215,14 @@
 - [github/debug-repo](https://github.com/github/debug-repo) topic: pushed_at:2022-07 star:0.0k fork:0.0k This is a debug repo for github-debug.com
 - [github/details-dialog-element](https://github.com/github/details-dialog-element) topic:custom-elements,web-components pushed_at:2022-09 star:0.7k fork:0.1k A modal dialog that's opened with <details>.
 - [github/details-menu-element](https://github.com/github/details-menu-element) topic:custom-elements,web-components pushed_at:2022-10 star:0.5k fork:0.0k A menu opened with <details>.
-- [github/docs](https://github.com/github/docs) topic:docs,hacktoberfest,works-with-codespaces pushed_at:2022-11 star:12.0k fork:57.5k The open-source repo for docs.github.com
-- [github/emergency-pull-request-probot-app](https://github.com/github/emergency-pull-request-probot-app) topic:probot-app,pull-requests,services-engineering-team,services-toolbox pushed_at:2022-10 star:0.0k fork:0.0k Bypass approval and checks in order to merge an emergency change to the main branch with audit controls.
+- [github/docs](https://github.com/github/docs) topic:docs,hacktoberfest,works-with-codespaces pushed_at:2022-11 star:12.0k fork:57.6k The open-source repo for docs.github.com
+- [github/emergency-pull-request-probot-app](https://github.com/github/emergency-pull-request-probot-app) topic:probot-app,pull-requests,services-engineering-team,services-toolbox pushed_at:2022-11 star:0.0k fork:0.0k Bypass approval and checks in order to merge an emergency change to the main branch with audit controls.
 - [github/enable-security-alerts-sample](https://github.com/github/enable-security-alerts-sample) topic: pushed_at:2022-10 star:0.1k fork:0.0k This repository contains a sample script which can be used to enable security vulnerability alerts in all of the repositories in a given organization. 
 - [github/eslint-plugin-custom-elements](https://github.com/github/eslint-plugin-custom-elements) topic: pushed_at:2022-11 star:0.0k fork:0.0k A series of lint rules for best practices with Custom Elements
 - [github/eslint-plugin-github](https://github.com/github/eslint-plugin-github) topic:eslint,eslintplugin,javascript pushed_at:2022-11 star:0.2k fork:0.1k An opinionated collection of ESLint rules used by GitHub.
 - [github/eventlistener-polyfill](https://github.com/github/eventlistener-polyfill) topic: pushed_at:2020-08 star:0.0k fork:0.0k Polyfills EventListener behaviours from IE11 onward
 - [github/faceup](https://github.com/github/faceup) topic: pushed_at:2013-03 star:0.0k fork:0.0k More than just mustaches.
-- [github/fetch](https://github.com/github/fetch) topic:fetch,javascript,polyfill,promise pushed_at:2022-09 star:25.5k fork:3.2k A window.fetch JavaScript polyfill.
+- [github/fetch](https://github.com/github/fetch) topic:fetch,javascript,polyfill,promise pushed_at:2022-11 star:25.5k fork:3.2k A window.fetch JavaScript polyfill.
 - [github/form-data-entries](https://github.com/github/form-data-entries) topic:formdata,ponyfill pushed_at:2020-08 star:0.0k fork:0.0k FormData.entries ponyfill
 - [github/g-emoji-element](https://github.com/github/g-emoji-element) topic:custom-elements,emoji,web-components pushed_at:2022-11 star:0.1k fork:0.0k Backports native emoji characters to browsers that don't support them by replacing the characters with fallback images.
 - [github/game-o](https://github.com/github/game-o) topic: pushed_at:2014-02 star:0.0k fork:0.0k O! a Cut.js game
@@ -234,7 +234,7 @@
 - [github/github-graphql-relay-example](https://github.com/github/github-graphql-relay-example) topic: pushed_at:2022-10 star:0.1k fork:0.0k Example Relay Modern app using GitHub's GraphQL API
 - [github/hotkey](https://github.com/github/hotkey) topic:decorator,shortcuts pushed_at:2022-11 star:2.8k fork:0.1k Trigger an action on an element with a keyboard shortcut.
 - [github/hubot-mysql-datastore](https://github.com/github/hubot-mysql-datastore) topic: pushed_at:2022-06 star:0.0k fork:0.0k MySQL-backed datastore for use with Hubot
-- [github/include-fragment-element](https://github.com/github/include-fragment-element) topic:custom-elements,web-components pushed_at:2022-10 star:0.5k fork:0.1k A client-side includes tag.
+- [github/include-fragment-element](https://github.com/github/include-fragment-element) topic:custom-elements,web-components pushed_at:2022-11 star:0.5k fork:0.1k A client-side includes tag.
 - [github/invisible-recaptcha-validator](https://github.com/github/invisible-recaptcha-validator) topic: pushed_at:2019-01 star:0.0k fork:0.0k Simple Express Server for invisible reCaptcha server-side validation
 - [github/issue-labeler](https://github.com/github/issue-labeler) topic: pushed_at:2022-08 star:0.1k fork:0.0k An action for automatically labelling issues
 - [github/jquery-hotkeys](https://github.com/github/jquery-hotkeys) topic: pushed_at:2015-02 star:0.1k fork:0.0k jQuery hotkeys plugin.
@@ -255,7 +255,7 @@
 - [github/rally](https://github.com/github/rally) topic:github,probot,rally,services-toolbox pushed_at:2022-11 star:0.1k fork:0.0k GitHub <> Rally integration
 - [github/reactnd-project-readable-starter](https://github.com/github/reactnd-project-readable-starter) topic: pushed_at:2018-05 star:0.0k fork:0.0k Starting server code for ReactND Readable Project
 - [github/refined-github](https://github.com/github/refined-github) topic: pushed_at:2017-11 star:0.0k fork:0.0k Browser extension that simplifies the GitHub interface and adds useful features
-- [github/relative-time-element](https://github.com/github/relative-time-element) topic:custom-elements,localization,timezone,web-components pushed_at:2022-11 star:2.5k fork:0.2k Web component extensions to the standard <time> element.
+- [github/relative-time-element](https://github.com/github/relative-time-element) topic:custom-elements,localization,timezone,web-components pushed_at:2022-11 star:2.6k fork:0.2k Web component extensions to the standard <time> element.
 - [github/remote-input-element](https://github.com/github/remote-input-element) topic:custom-elements,web-components pushed_at:2022-09 star:0.1k fork:0.0k An input element that sends its value to a server endpoint and renders the response body.
 - [github/restricted-input](https://github.com/github/restricted-input) topic: pushed_at:2017-09 star:0.0k fork:0.0k Restrict <input>s to certain valid characters (e.g. formatting phone or card numbers)
 - [github/rollup.js](https://github.com/github/rollup.js) topic: pushed_at:2019-03 star:0.0k fork:0.0k Next-generation ES module bundler
@@ -297,10 +297,10 @@
 - [github/advisory-database](https://github.com/github/advisory-database) topic: pushed_at:2022-11 star:1.2k fork:0.1k Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [github/aptly](https://github.com/github/aptly) topic: pushed_at:2014-09 star:0.0k fork:0.0k aptly - Debian repository management tool
 - [github/archive-program](https://github.com/github/archive-program) topic: pushed_at:2022-09 star:2.9k fork:0.3k The GitHub Archive Program & Arctic Code Vault
-- [github/balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) topic:intellectual-property,law,policy pushed_at:2022-05 star:1.8k fork:0.2k GitHub's employee intellectual property agreement, open sourced and reusable
+- [github/balanced-employee-ip-agreement](https://github.com/github/balanced-employee-ip-agreement) topic:intellectual-property,law,policy pushed_at:2022-05 star:1.9k fork:0.2k GitHub's employee intellectual property agreement, open sourced and reusable
 - [github/circuitbreaker](https://github.com/github/circuitbreaker) topic: pushed_at:2014-07 star:0.0k fork:0.0k Circuit Breakers in Go
-- [github/codeql-cli-binaries](https://github.com/github/codeql-cli-binaries) topic: pushed_at:2022-10 star:0.4k fork:0.1k Binaries for the CodeQL CLI
-- [github/codespaces-blank](https://github.com/github/codespaces-blank) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
+- [github/codeql-cli-binaries](https://github.com/github/codeql-cli-binaries) topic: pushed_at:2022-11 star:0.4k fork:0.1k Binaries for the CodeQL CLI
+- [github/codespaces-blank](https://github.com/github/codespaces-blank) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [github/codespaces-jetbrains-feedback](https://github.com/github/codespaces-jetbrains-feedback) topic: pushed_at:2022-11 star:0.0k fork:0.0k Feedback on the Codespaces integration with JetBrains IDEs
 - [github/copilot-docs](https://github.com/github/copilot-docs) topic: pushed_at:2022-10 star:21.3k fork:2.4k Documentation for GitHub Copilot
 - [github/covid-19-repo-data](https://github.com/github/covid-19-repo-data) topic:covid-19,dataset,extracts,open-data pushed_at:2022-06 star:0.4k fork:0.2k Data archive of identifiable COVID-19 related public projects on GitHub 
@@ -316,19 +316,19 @@
 - [github/gh-net](https://github.com/github/gh-net) topic:cli,codespaces,gh-extension,network pushed_at:2022-09 star:0.2k fork:0.0k A network bridge between a Codespace and a local machine.
 - [github/GITHUB-ENTERPRISE-LICENSE-AGREEMENT](https://github.com/github/GITHUB-ENTERPRISE-LICENSE-AGREEMENT) topic: pushed_at:2022-03 star:0.0k fork:0.0k GITHUB LICENSE AGREEMENT: PLEASE SIGN IN ALL CAPS
 - [github/githubOCTO](https://github.com/github/githubOCTO) topic: pushed_at:2020-08 star:0.1k fork:0.0k 
-- [github/gitignore](https://github.com/github/gitignore) topic:git,gitignore pushed_at:2022-11 star:140.5k fork:79.7k A collection of useful .gitignore templates
+- [github/gitignore](https://github.com/github/gitignore) topic:git,gitignore pushed_at:2022-11 star:140.8k fork:79.9k A collection of useful .gitignore templates
 - [github/gov-takedowns](https://github.com/github/gov-takedowns) topic: pushed_at:2022-02 star:2.8k fork:0.2k Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
 - [github/grocer](https://github.com/github/grocer) topic: pushed_at:2014-09 star:0.0k fork:0.0k Pushing your Apple notifications since 2012.
 - [github/homebrew-gh](https://github.com/github/homebrew-gh) topic:cli,homebrew-tap pushed_at:2020-08 star:0.1k fork:0.0k Homebrew tap for the GitHub CLI
 - [github/hr-opensource](https://github.com/github/hr-opensource) topic: pushed_at:2016-02 star:0.0k fork:0.0k An open forum for anyone to discuss HR related topics & ideas
-- [github/hubot-sans](https://github.com/github/hubot-sans) topic:font,variable-fonts pushed_at:2022-11 star:0.4k fork:0.0k Hubot Sans, a variable font from GitHub
+- [github/hubot-sans](https://github.com/github/hubot-sans) topic:font,variable-fonts pushed_at:2022-11 star:1.0k fork:0.0k Hubot Sans, a variable font from GitHub
 - [github/hyderabad-murals](https://github.com/github/hyderabad-murals) topic: pushed_at:2021-05 star:0.0k fork:0.0k Hyderabad Generative Art Murals
 - [github/kafka-sink-azure-kusto](https://github.com/github/kafka-sink-azure-kusto) topic: pushed_at:2021-11 star:0.0k fork:0.0k Kafka sink for Kusto
 - [github/maturity-model](https://github.com/github/maturity-model) topic: pushed_at:2016-05 star:0.1k fork:0.0k A maturity model for adopting open source
 - [github/media](https://github.com/github/media) topic: pushed_at:2015-02 star:0.3k fork:0.1k Media files for use in your GitHub integration projects
 - [github/memcached](https://github.com/github/memcached) topic: pushed_at:2022-01 star:0.0k fork:0.0k A Ruby interface to the libmemcached C client
 - [github/mentorships](https://github.com/github/mentorships) topic:open-source pushed_at:2017-12 star:0.3k fork:0.1k GitHub Open Source Mentorships (deprecated)
-- [github/mona-sans](https://github.com/github/mona-sans) topic:font,variable-fonts pushed_at:2022-11 star:0.6k fork:0.0k Mona Sans, a variable font from GitHub
+- [github/mona-sans](https://github.com/github/mona-sans) topic:font,variable-fonts pushed_at:2022-11 star:1.8k fork:0.0k Mona Sans, a variable font from GitHub
 - [github/MVG](https://github.com/github/MVG) topic: pushed_at:2022-08 star:0.3k fork:0.0k MVG = Minimum Viable Governance
 - [github/nagioseasier-module](https://github.com/github/nagioseasier-module) topic: pushed_at:2014-07 star:0.0k fork:0.0k Make nagios easier to use, because you deserve it.
 - [github/objective-c-style-guide](https://github.com/github/objective-c-style-guide) topic: pushed_at:2017-11 star:1.7k fork:0.3k **Archived** Style guide & coding conventions for Objective-C projects
@@ -373,7 +373,7 @@
 - [github/django-floppyforms](https://github.com/github/django-floppyforms) topic: pushed_at:2013-07 star:0.0k fork:0.0k Full control of form rendering in the templates.
 - [github/ghas-jira-integration](https://github.com/github/ghas-jira-integration) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [github/github-team-sync](https://github.com/github/github-team-sync) topic:ldap,saml,services-toolbox,sync pushed_at:2022-10 star:0.2k fork:0.1k Sync GitHub teams to groups in Active Directory, LDAP, Okta, OneLogin or AzureAD when using any authentication method for GitHub. 
-- [github/incubator-airflow](https://github.com/github/incubator-airflow) topic: pushed_at:2022-10 star:0.0k fork:0.0k Apache Airflow (Incubating)
+- [github/incubator-airflow](https://github.com/github/incubator-airflow) topic: pushed_at:2022-11 star:0.0k fork:0.0k Apache Airflow (Incubating)
 - [github/octokit.py](https://github.com/github/octokit.py) topic: pushed_at:2017-06 star:0.0k fork:0.0k GitHub API client for Python
 - [github/osv-schema](https://github.com/github/osv-schema) topic: pushed_at:2022-01 star:0.0k fork:0.0k Open Source Vulnerability schema. 
 - [github/pycon2011](https://github.com/github/pycon2011) topic: pushed_at:2011-02 star:0.4k fork:0.1k 
@@ -414,7 +414,7 @@
 - [github/freno-client](https://github.com/github/freno-client) topic:freno,high-availability,mysql,ruby,ruby-gem,throttling pushed_at:2022-10 star:0.0k fork:0.0k Ruby client and throttling library for freno, the throttler service
 - [github/garethr-docker](https://github.com/github/garethr-docker) topic: pushed_at:2014-06 star:0.0k fork:0.0k Puppet module for managing docker
 - [github/gem-builder](https://github.com/github/gem-builder) topic: pushed_at:2015-02 star:0.0k fork:0.0k The scripts used to build RubyGems on GitHub
-- [github/gemoji](https://github.com/github/gemoji) topic:emoji,ruby,rubygem,unicode pushed_at:2022-10 star:4.1k fork:0.8k Emoji images and names.
+- [github/gemoji](https://github.com/github/gemoji) topic:emoji,ruby,rubygem,unicode pushed_at:2022-11 star:4.1k fork:0.8k Emoji images and names.
 - [github/github-ds](https://github.com/github/github-ds) topic:activerecord,key-value,mysql,rails,ruby,sql pushed_at:2022-07 star:0.7k fork:0.0k A collection of Ruby libraries for working with SQL on top of ActiveRecord's connection
 - [github/github-graphql-rails-example](https://github.com/github/github-graphql-rails-example) topic: pushed_at:2019-01 star:0.3k fork:0.1k Example Rails app using GitHub's GraphQL API
 - [github/github-ldap](https://github.com/github/github-ldap) topic: pushed_at:2022-08 star:0.1k fork:0.0k LDAP client for humans. Part of GitHub Enterprise.
@@ -431,16 +431,16 @@
 - [github/html-pipeline](https://github.com/github/html-pipeline) topic: pushed_at:2022-03 star:0.0k fork:0.0k HTML processing filters and utilities
 - [github/htttee](https://github.com/github/htttee) topic: pushed_at:2013-10 star:0.0k fork:0.0k unix's tee over http
 - [github/hubahuba](https://github.com/github/hubahuba) topic: pushed_at:2013-12 star:0.0k fork:0.0k Ruby and Rails core extensions used by GitHub.
-- [github/india](https://github.com/github/india) topic:github,india pushed_at:2022-11 star:1.6k fork:0.4k GitHub resources and information for the developer community in India
+- [github/india](https://github.com/github/india) topic:github,india pushed_at:2022-11 star:1.7k fork:0.4k GitHub resources and information for the developer community in India
 - [github/janky](https://github.com/github/janky) topic:hubot-script,jenkins,ruby pushed_at:2022-04 star:2.8k fork:0.2k Continuous integration server built on top of Jenkins and Hubot
 - [github/jekyll-commonmark-ghpages](https://github.com/github/jekyll-commonmark-ghpages) topic: pushed_at:2022-10 star:0.0k fork:0.0k CommonMark generator for Jekyll used by GitHub Pages
 - [github/jenkins_api_client](https://github.com/github/jenkins_api_client) topic: pushed_at:2018-09 star:0.0k fork:0.0k Ruby Client libraries for communicating with Jenkins Remote Access API
 - [github/ledbetter](https://github.com/github/ledbetter) topic: pushed_at:2015-01 star:0.0k fork:0.0k Script that scrapes alert statistics from Nagios and reports them to Graphite
-- [github/licensed](https://github.com/github/licensed) topic:dependencies,license-management,licensing,open-source-licensing pushed_at:2022-11 star:0.9k fork:0.2k A Ruby gem to cache and verify the licenses of dependencies
+- [github/licensed](https://github.com/github/licensed) topic:dependencies,license-management,licensing,open-source-licensing pushed_at:2022-11 star:0.9k fork:0.1k A Ruby gem to cache and verify the licenses of dependencies
 - [github/lightstep-tracer-ruby](https://github.com/github/lightstep-tracer-ruby) topic: pushed_at:2021-05 star:0.0k fork:0.0k The LightStep distributed tracing library for Ruby
-- [github/linguist](https://github.com/github/linguist) topic:language-grammars,language-statistics,linguistic,syntax-highlighting pushed_at:2022-11 star:10.4k fork:3.8k Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
+- [github/linguist](https://github.com/github/linguist) topic:language-grammars,language-statistics,linguistic,syntax-highlighting pushed_at:2022-11 star:10.5k fork:3.8k Language Savant. If your repository's language is being reported incorrectly, send us a pull request!
 - [github/marginalia](https://github.com/github/marginalia) topic: pushed_at:2013-10 star:0.0k fork:0.0k Attach comments to ActiveRecord's SQL queries
-- [github/markup](https://github.com/github/markup) topic:readme pushed_at:2022-08 star:5.5k fork:3.6k Determines which markup library to use to render a content file (e.g. README) on GitHub
+- [github/markup](https://github.com/github/markup) topic:readme pushed_at:2022-08 star:5.6k fork:3.6k Determines which markup library to use to render a content file (e.g. README) on GitHub
 - [github/mime-types](https://github.com/github/mime-types) topic: pushed_at:2016-05 star:0.0k fork:0.0k Ruby MIME::Types implementation
 - [github/nugget](https://github.com/github/nugget) topic: pushed_at:2018-01 star:0.0k fork:0.0k http integration test service
 - [github/octobox](https://github.com/github/octobox) topic: pushed_at:2022-11 star:0.1k fork:0.0k 📮Untangle your GitHub Notifications
@@ -482,7 +482,7 @@
 - [github/tainted_hash](https://github.com/github/tainted_hash) topic:hash,input-sanitization,rails,ruby pushed_at:2019-08 star:0.1k fork:0.0k 
 - [github/taps](https://github.com/github/taps) topic: pushed_at:2015-02 star:0.0k fork:0.0k simple database import/export app
 - [github/training-utils](https://github.com/github/training-utils) topic: pushed_at:2022-10 star:0.1k fork:0.0k A series of Bash and ZShell scripts useful when teaching about git and GitHub
-- [github/update-project-action](https://github.com/github/update-project-action) topic: pushed_at:2022-10 star:0.0k fork:0.0k Updates an item on a GitHub Projects (beta) board based on a workflow dispatch (or other) event's input.
+- [github/update-project-action](https://github.com/github/update-project-action) topic: pushed_at:2022-11 star:0.0k fork:0.0k Updates an item on a GitHub Projects (beta) board based on a workflow dispatch (or other) event's input.
 - [github/upload](https://github.com/github/upload) topic: pushed_at:2015-02 star:0.1k fork:0.2k Script to upload files to non-repo storage from the command line
 - [github/will_paginate_with_hotkeys](https://github.com/github/will_paginate_with_hotkeys) topic: pushed_at:2015-02 star:0.0k fork:0.0k Evil twin plugin version of will_paginate to work with jQuery hotkeys plugin.
 - [github/yard-sinatra](https://github.com/github/yard-sinatra) topic: pushed_at:2015-02 star:0.0k fork:0.0k Display sinatra routes in yard documentation.
@@ -507,7 +507,7 @@
 - [github/docker-awscli](https://github.com/github/docker-awscli) topic: pushed_at:2017-12 star:0.0k fork:0.0k Another aws cli for hacking
 - [github/entitlements-config](https://github.com/github/entitlements-config) topic:automation,entitlements,iam,security pushed_at:2022-08 star:0.0k fork:0.0k An example of how Entitlements can be configured
 - [github/gh-codeql](https://github.com/github/gh-codeql) topic:gh-extension pushed_at:2022-08 star:0.0k fork:0.0k GitHub CLI extension for working with CodeQL
-- [github/gh-ost-ci-env](https://github.com/github/gh-ost-ci-env) topic: pushed_at:2022-03 star:0.0k fork:0.0k CI environment for gh-ost testing
+- [github/gh-ost-ci-env](https://github.com/github/gh-ost-ci-env) topic: pushed_at:2022-11 star:0.0k fork:0.0k CI environment for gh-ost testing
 - [github/ghfw-build-extra](https://github.com/github/ghfw-build-extra) topic: pushed_at:2022-08 star:0.0k fork:0.0k Build scripts and customizations for creating the Git Shell environment included in GitHub Desktop
 - [github/heroku-buildpack-lightstep-satellite](https://github.com/github/heroku-buildpack-lightstep-satellite) topic:buildpack,heroku,heroku-buildpack,lightstep,lightstep-collector,tracing pushed_at:2021-12 star:0.0k fork:0.0k Heroku buildpack to run the lightstep collector in each dyno
 - [github/kano-desktop](https://github.com/github/kano-desktop) topic: pushed_at:2015-09 star:0.0k fork:0.0k 
@@ -516,7 +516,7 @@
 - [github/platform-samples](https://github.com/github/platform-samples) topic:graphql,hooks,javascript,platform,platform-samples,pre-receive-hooks,ruby,sample pushed_at:2022-11 star:1.7k fork:1.9k A public place for all platform sample projects.
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) topic: pushed_at:2022-09 star:2.7k fork:0.3k Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [github/ssh-key-algo](https://github.com/github/ssh-key-algo) topic: pushed_at:2022-10 star:0.0k fork:0.0k Script to check if the SSH key algorithm is up to date
-- [github/super-linter](https://github.com/github/super-linter) topic:actions,ci,hacktoberfest,linter,quality-check pushed_at:2022-11 star:8.3k fork:0.9k Combination of multiple linters to install as a GitHub Action
+- [github/super-linter](https://github.com/github/super-linter) topic:actions,ci,hacktoberfest,linter,quality-check pushed_at:2022-11 star:8.4k fork:0.9k Combination of multiple linters to install as a GitHub Action
 - [github/veewee](https://github.com/github/veewee) topic: pushed_at:2014-06 star:0.0k fork:0.0k Easing the building of vagrant boxes
 
 ## Swift
@@ -536,7 +536,7 @@
 - [github/custom-element-boilerplate](https://github.com/github/custom-element-boilerplate) topic:custom-elements,web-components pushed_at:2022-09 star:0.1k fork:0.0k Boilerplate for creating a custom element.
 - [github/dependabot-action](https://github.com/github/dependabot-action) topic: pushed_at:2022-11 star:0.0k fork:0.0k Runs Dependabot Updates via GitHub Actions.
 - [github/dependency-submission-toolkit](https://github.com/github/dependency-submission-toolkit) topic: pushed_at:2022-10 star:0.0k fork:0.0k A TypeScript library for creating dependency snapshots. 
-- [github/Dynamic-Template-Engine](https://github.com/github/Dynamic-Template-Engine) topic: pushed_at:2022-04 star:0.0k fork:0.0k A typescript library to transform event payloads (in json format) to standard jsons or chat client platform specific jsons (e.g. Slack and Teams) using templates (e.g. handlebars)
+- [github/Dynamic-Template-Engine](https://github.com/github/Dynamic-Template-Engine) topic: pushed_at:2022-11 star:0.0k fork:0.0k A typescript library to transform event payloads (in json format) to standard jsons or chat client platform specific jsons (e.g. Slack and Teams) using templates (e.g. handlebars)
 - [github/file-attachment-element](https://github.com/github/file-attachment-element) topic:custom-elements,web-components pushed_at:2022-09 star:0.1k fork:0.0k Attach files via drag and drop or file input.
 - [github/filter-input-element](https://github.com/github/filter-input-element) topic:custom-elements,web-components pushed_at:2022-09 star:0.0k fork:0.0k Display elements in a subtree that match filter input text.
 - [github/github-artifact-exporter](https://github.com/github/github-artifact-exporter) topic: pushed_at:2022-11 star:0.3k fork:0.0k A set of packages to make exporting artifacts from GitHub easier
@@ -560,7 +560,7 @@
 
 ## Vim Script
 
-- [github/copilot.vim](https://github.com/github/copilot.vim) topic: pushed_at:2022-11 star:3.7k fork:0.1k Neovim plugin for GitHub Copilot
+- [github/copilot.vim](https://github.com/github/copilot.vim) topic: pushed_at:2022-11 star:3.8k fork:0.1k Neovim plugin for GitHub Copilot
 
 ## Vue
 

@@ -34,7 +34,7 @@
 - [twitter/fatcache](https://github.com/twitter/fatcache) topic: pushed_at:2021-11 star:1.3k fork:0.2k Memcache on SSD
 - [twitter/ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) topic:cache,image-pipeline,ios,objective-c,swift,twitter pushed_at:2022-03 star:1.8k fork:0.1k Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) topic: pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
-- [twitter/pelikan](https://github.com/twitter/pelikan) topic: pushed_at:2022-10 star:1.6k fork:0.1k Pelikan is Twitter's unified cache backend
+- [twitter/pelikan](https://github.com/twitter/pelikan) topic: pushed_at:2022-11 star:1.7k fork:0.1k Pelikan is Twitter's unified cache backend
 - [twitter/twemcache](https://github.com/twitter/twemcache) topic: pushed_at:2021-11 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) topic: pushed_at:2022-10 star:11.6k fork:2.0k A fast, light-weight proxy for memcached and redis
 
@@ -55,13 +55,13 @@
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) topic: pushed_at:2021-10 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/interactive](https://github.com/twitter/interactive) topic: pushed_at:2021-11 star:0.2k fork:0.1k Twitter interactive visualization
 - [twitter/scala_school](https://github.com/twitter/scala_school) topic: pushed_at:2022-10 star:3.7k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) topic:emoji,twemoji pushed_at:2022-10 star:14.8k fork:1.7k Emoji for everyone. https://twemoji.twitter.com/
-- [twitter/twitter-text](https://github.com/twitter/twitter-text) topic:emoji,java,nodejs,objective-c,ruby,tweet,twitter,twitter-text,unicode pushed_at:2022-11 star:2.8k fork:0.5k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
+- [twitter/twemoji](https://github.com/twitter/twemoji) topic:emoji,twemoji pushed_at:2022-11 star:14.8k fork:1.7k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twitter-text](https://github.com/twitter/twitter-text) topic:emoji,java,nodejs,objective-c,ruby,tweet,twitter,twitter-text,unicode pushed_at:2022-11 star:2.9k fork:0.5k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) topic: pushed_at:2021-10 star:0.1k fork:0.0k 
 
 ## Java
 
-- [twitter/cloudhopper-commons](https://github.com/twitter/cloudhopper-commons) topic: pushed_at:2022-07 star:0.0k fork:0.0k Cloudhopper Commons
+- [twitter/cloudhopper-commons](https://github.com/twitter/cloudhopper-commons) topic: pushed_at:2022-07 star:0.0k fork:0.1k Cloudhopper Commons
 - [twitter/elephant-bird](https://github.com/twitter/elephant-bird) topic: pushed_at:2022-10 star:1.1k fork:0.4k Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
 - [twitter/GraphJet](https://github.com/twitter/GraphJet) topic: pushed_at:2022-07 star:0.5k fork:0.1k GraphJet is a real-time graph processing library.
 - [twitter/hbc](https://github.com/twitter/hbc) topic:java,realtime,stream,tweets,twitter4j pushed_at:2022-04 star:1.0k fork:0.4k A Java HTTP client for consuming Twitter's realtime Streaming API
@@ -134,13 +134,13 @@
 ## Rust
 
 - [twitter/focus](https://github.com/twitter/focus) topic:bazel,git,source-control,sparse-checkout pushed_at:2022-11 star:0.1k fork:0.0k Focus aligns Git worktree content based on outlines of a repository's Bazel build graph. Focused repos are sparse, shallow, and thin and unlock markedly better performance in large repos.
-- [twitter/rezolus](https://github.com/twitter/rezolus) topic: pushed_at:2022-09 star:1.2k fork:0.1k Systems performance telemetry
+- [twitter/rezolus](https://github.com/twitter/rezolus) topic: pushed_at:2022-11 star:1.2k fork:0.1k Systems performance telemetry
 - [twitter/rpc-perf](https://github.com/twitter/rpc-perf) topic: pushed_at:2022-10 star:0.4k fork:0.1k A tool for benchmarking RPC services
 - [twitter/rustcommon](https://github.com/twitter/rustcommon) topic: pushed_at:2022-10 star:0.3k fork:0.0k Common Twitter Rust lib
 
 ## SCSS
 
-- [twitter/opensource-website](https://github.com/twitter/opensource-website) topic:ospo pushed_at:2022-11 star:1.9k fork:0.6k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
+- [twitter/opensource-website](https://github.com/twitter/opensource-website) topic:ospo pushed_at:2022-11 star:2.0k fork:0.6k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 
 ## Scala
 

@@ -362,7 +362,7 @@
 - [opencollective/opencollective-changelog](https://github.com/opencollective/opencollective-changelog) topic:changelog,opencollective pushed_at:2022-09 star:0.0k fork:0.0k Tracking weekly changes
 - [opencollective/opencollective-cli](https://github.com/opencollective/opencollective-cli) topic: pushed_at:2021-08 star:0.0k fork:0.0k Command Line Interface for Open Collective
 - [opencollective/opencollective-email](https://github.com/opencollective/opencollective-email) topic: pushed_at:2019-01 star:0.0k fork:0.0k The email service for transparent and inclusive open collectives
-- [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) topic: pushed_at:2022-07 star:0.0k fork:0.0k The new Open Collective email service, powered by Eymail
+- [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) topic: pushed_at:2022-11 star:0.0k fork:0.0k The new Open Collective email service, powered by Eymail
 - [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) topic:nextjs,opencollective,react,webpack pushed_at:2022-11 star:0.6k fork:0.3k Open Collective's Frontend. A React app powered by Next.js.
 - [opencollective/opencollective-giftcards-generator](https://github.com/opencollective/opencollective-giftcards-generator) topic: pushed_at:2020-04 star:0.0k fork:0.0k Simple app to generate read-to-print Open Collective gift cards
 - [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) topic: pushed_at:2022-11 star:0.0k fork:0.0k Open Collective's Image Server. For badges, banners, avatar, etc ...
@@ -741,7 +741,7 @@
 - [opencollective/opencollective-lib](https://github.com/opencollective/opencollective-lib) topic: pushed_at:2016-06 star:0.0k fork:0.0k Libraries in common in our repos
 - [opencollective/openmptcprouter](https://github.com/opencollective/openmptcprouter) topic: pushed_at:2020-03 star:0.0k fork:0.0k OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [opencollective/opensource](https://github.com/opencollective/opensource) topic: pushed_at:2016-07 star:0.0k fork:0.0k This is the Open Source Collective repo. Submit here issues related on how to spend the money and projects/ideas to get funded. 
-- [opencollective/osm](https://github.com/opencollective/osm) topic: pushed_at:2020-04 star:0.0k fork:0.0k Open sound meter. FFT based application for tuning sound systems.
+- [opencollective/osm](https://github.com/opencollective/osm) topic: pushed_at:2022-11 star:0.0k fork:0.0k Open sound meter. FFT based application for tuning sound systems.
 - [opencollective/P-Brain.ai](https://github.com/opencollective/P-Brain.ai) topic: pushed_at:2021-09 star:0.0k fork:0.0k Natural language virtual assistant using Node.js + Bootstrap
 - [opencollective/packem](https://github.com/opencollective/packem) topic: pushed_at:2019-09 star:0.0k fork:0.0k 📦⚡ A precompiled JavaScript module bundler
 - [opencollective/parsecsv-for-php](https://github.com/opencollective/parsecsv-for-php) topic: pushed_at:2019-12 star:0.0k fork:0.0k CSV data parser for PHP.

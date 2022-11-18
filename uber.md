@@ -91,7 +91,7 @@
 - [uber/tchannel-java](https://github.com/uber/tchannel-java) topic: pushed_at:2022-05 star:0.1k fork:0.1k A Java implementation of the TChannel protocol.
 - [uber/uber-graph-benchmark](https://github.com/uber/uber-graph-benchmark) topic:benchmark-framework,graph-database pushed_at:2019-01 star:0.0k fork:0.0k A framework to benchmark different graph databases, based on generated data from customizable schema, distribution, and size.
 - [uber/uberscriptquery](https://github.com/uber/uberscriptquery) topic:spark,uber pushed_at:2019-03 star:0.1k fork:0.0k UberScriptQuery, a SQL-like DSL to make writing Spark jobs super easy
-- [uber/uReplicator](https://github.com/uber/uReplicator) topic: pushed_at:2022-10 star:0.9k fork:0.2k Improvement of Apache Kafka Mirrormaker
+- [uber/uReplicator](https://github.com/uber/uReplicator) topic: pushed_at:2022-11 star:0.9k fork:0.2k Improvement of Apache Kafka Mirrormaker
 
 ## JavaScript
 
@@ -127,14 +127,14 @@
 
 ## Jupyter Notebook
 
-- [uber/h3-py-notebooks](https://github.com/uber/h3-py-notebooks) topic:geospatial,h3,jupyter-notebooks,uber pushed_at:2021-11 star:0.2k fork:0.1k Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
+- [uber/h3-py-notebooks](https://github.com/uber/h3-py-notebooks) topic:geospatial,h3,jupyter-notebooks,uber pushed_at:2022-11 star:0.2k fork:0.1k Jupyter notebooks for h3-py, a hierarchical hexagonal geospatial indexing system
 
 ## Kotlin
 
 - [uber/artist](https://github.com/uber/artist) topic:android,codegen,kotlin,plugin,view pushed_at:2022-06 star:0.2k fork:0.0k An artist creates views. Artist is a Gradle plugin that codegens a base set of Android Views.
 - [uber/crumb](https://github.com/uber/crumb) topic:android,annotation-processor,java,kotlin,metadata pushed_at:2021-12 star:0.1k fork:0.0k An annotation processor for breadcrumbing metadata across compilation boundaries.
 - [uber/lint-checks](https://github.com/uber/lint-checks) topic:android,lint,sandbox,static-analysis pushed_at:2020-11 star:0.1k fork:0.0k A set of opinionated and useful lint checks
-- [uber/motif](https://github.com/uber/motif) topic: pushed_at:2022-10 star:0.5k fork:0.0k A simple DI API for Android / Java
+- [uber/motif](https://github.com/uber/motif) topic: pushed_at:2022-11 star:0.5k fork:0.0k A simple DI API for Android / Java
 - [uber/RIBs](https://github.com/uber/RIBs) topic:android,architectural-patterns,architecture,ios,mobile,mobile-app,mobile-development,mvc,mvp,mvvm,viper pushed_at:2022-10 star:7.2k fork:0.8k Uber's cross-platform mobile architecture framework.
 - [uber/stylist](https://github.com/uber/stylist) topic:android,codegen,kotlin,styles,themes pushed_at:2021-05 star:0.4k fork:0.0k A stylist creates cool styles. Stylist is a Gradle plugin that codegens a base set of Android XML themes.
 
@@ -202,7 +202,7 @@
 
 - [uber/cyborg](https://github.com/uber/cyborg) topic:incubation pushed_at:2020-09 star:0.3k fork:0.0k Display Android Vectordrawables on iOS.
 - [uber/mockolo](https://github.com/uber/mockolo) topic:commandline,efficient,fast,generates-mocks,mock,mockgen,mockgenerator,mocking,mocking-framework,mocking-library,mocking-utility,mocks,performant,protocols,scale,scaleable,subclassing,swift,swiftsyntax,xcode pushed_at:2022-10 star:0.6k fork:0.1k Efficient Mock Generator for Swift
-- [uber/needle](https://github.com/uber/needle) topic: pushed_at:2022-09 star:1.4k fork:0.1k Compile-time safe Swift dependency injection framework
+- [uber/needle](https://github.com/uber/needle) topic: pushed_at:2022-11 star:1.4k fork:0.1k Compile-time safe Swift dependency injection framework
 - [uber/rides-ios-sdk](https://github.com/uber/rides-ios-sdk) topic: pushed_at:2019-11 star:0.3k fork:0.1k Uber Rides iOS SDK (beta)
 - [uber/RxCBCentral](https://github.com/uber/RxCBCentral) topic:ble,bluetooth,bluetooth-low-energy,central,corebluetooth,hacktoberfest,ios,peripherals,rx,rxswift,scans,swift pushed_at:2021-09 star:0.0k fork:0.0k  A reactive, interface-driven central role Bluetooth LE library for iOS
 - [uber/swift-abstract-class](https://github.com/uber/swift-abstract-class) topic: pushed_at:2019-12 star:0.1k fork:0.0k Compile-time abstract class validation for Swift
@@ -220,9 +220,9 @@
 ## TypeScript
 
 - [uber/base-design-docs](https://github.com/uber/base-design-docs) topic:design-system,documentation pushed_at:2022-07 star:0.0k fork:0.0k A documentation site for the Base design system.
-- [uber/baseweb](https://github.com/uber/baseweb) topic:component-library,design-systems,react,react-components pushed_at:2022-11 star:8.0k fork:0.8k A React Component library implementing the Base design language
+- [uber/baseweb](https://github.com/uber/baseweb) topic:component-library,design-systems,react,react-components pushed_at:2022-11 star:8.1k fork:0.8k A React Component library implementing the Base design language
 - [uber/nebula.gl](https://github.com/uber/nebula.gl) topic:deck-gl,uber,webgl pushed_at:2022-11 star:0.6k fork:0.1k A suite of 3D-enabled data editing overlays, suitable for deck.gl
-- [uber/react-view](https://github.com/uber/react-view) topic:code-generator,documentation,playground,react pushed_at:2022-07 star:0.6k fork:0.0k React View is an interactive playground, documentation and code generator for your components.
+- [uber/react-view](https://github.com/uber/react-view) topic:code-generator,documentation,playground,react pushed_at:2022-11 star:0.6k fork:0.0k React View is an interactive playground, documentation and code generator for your components.
 
 ## Vue
 
