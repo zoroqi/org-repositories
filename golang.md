@@ -18,7 +18,7 @@
 - [golang/arch](https://github.com/golang/arch) topic: pushed_at:2022-11 star:0.1k fork:0.0k [mirror] architecture code
 - [golang/benchmarks](https://github.com/golang/benchmarks) topic: pushed_at:2022-11 star:0.1k fork:0.0k Benchmarks for the perf dashboard
 - [golang/build](https://github.com/golang/build) topic: pushed_at:2022-11 star:0.5k fork:0.1k [mirror] Go's continuous build and release infrastructure (no stability promises)
-- [golang/crypto](https://github.com/golang/crypto) topic: pushed_at:2022-11 star:2.5k fork:1.4k [mirror] Go supplementary cryptography libraries
+- [golang/crypto](https://github.com/golang/crypto) topic: pushed_at:2022-11 star:2.6k fork:1.4k [mirror] Go supplementary cryptography libraries
 - [golang/debug](https://github.com/golang/debug) topic: pushed_at:2022-11 star:0.2k fork:0.1k [mirror] debugging tools
 - [golang/dep](https://github.com/golang/dep) topic:dependency-manager,golang,package-manager,toolchain pushed_at:2020-09 star:13.0k fork:1.1k Go dependency management tool experiment (deprecated)
 - [golang/dl](https://github.com/golang/dl) topic: pushed_at:2022-11 star:0.1k fork:0.0k [mirror] go install golang.org/dl/go1.N@latest
@@ -26,9 +26,9 @@
 - [golang/exp](https://github.com/golang/exp) topic: pushed_at:2022-11 star:0.7k fork:0.2k [mirror] Experimental and deprecated packages
 - [golang/freetype](https://github.com/golang/freetype) topic: pushed_at:2022-01 star:0.7k fork:0.2k The Freetype font rasterizer in the Go programming language.
 - [golang/gddo](https://github.com/golang/gddo) topic: pushed_at:2021-01 star:1.1k fork:0.3k Go Doc Dot Org
-- [golang/geo](https://github.com/golang/geo) topic:geometry,geometry-library,go,sphere pushed_at:2022-10 star:1.4k fork:0.2k S2 geometry library in Go
+- [golang/geo](https://github.com/golang/geo) topic:geometry,geometry-library,go,sphere pushed_at:2022-10 star:1.5k fork:0.2k S2 geometry library in Go
 - [golang/glog](https://github.com/golang/glog) topic: pushed_at:2022-07 star:3.3k fork:0.9k Leveled execution logs for Go
-- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2022-11 star:105.9k fork:15.6k The Go programming language
+- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2022-11 star:106.1k fork:15.6k The Go programming language
 - [golang/go-get-issue-15410](https://github.com/golang/go-get-issue-15410) topic: pushed_at:2020-08 star:0.0k fork:0.0k go-get-issue-15410
 - [golang/gofrontend](https://github.com/golang/gofrontend) topic: pushed_at:2022-10 star:0.7k fork:0.1k Go compiler frontend (gccgo)
 - [golang/groupcache](https://github.com/golang/groupcache) topic: pushed_at:2022-10 star:11.8k fork:1.3k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.

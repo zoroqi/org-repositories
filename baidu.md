@@ -165,7 +165,7 @@
 
 ## Swift
 
-- [baidu/CarbonGraph](https://github.com/baidu/CarbonGraph) topic:component-architecture,dependency-injection,di-container,dsl,ioc,ioc-container,ios,objective-c,swift pushed_at:2022-07 star:0.2k fork:0.0k A Swift dependency injection / lookup framework for iOS
+- [baidu/CarbonGraph](https://github.com/baidu/CarbonGraph) topic:component-architecture,dependency-injection,di-container,dsl,ioc,ioc-container,ios,objective-c,swift pushed_at:2022-11 star:0.2k fork:0.0k A Swift dependency injection / lookup framework for iOS
 
 ## TypeScript
 

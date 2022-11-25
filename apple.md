@@ -49,19 +49,19 @@
 ## C++
 
 - [apple/apple-llvm-infrastructure-tools](https://github.com/apple/apple-llvm-infrastructure-tools) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [apple/AudioUnitSDK](https://github.com/apple/AudioUnitSDK) topic: pushed_at:2022-08 star:0.1k fork:0.0k AudioUnit SDK
+- [apple/AudioUnitSDK](https://github.com/apple/AudioUnitSDK) topic: pushed_at:2022-11 star:0.1k fork:0.0k AudioUnit SDK
 - [apple/ccs-pyopendirectory](https://github.com/apple/ccs-pyopendirectory) topic: pushed_at:2018-11 star:0.0k fork:0.0k Python OpenDirectory library used by CalendarServer
 - [apple/foundationdb](https://github.com/apple/foundationdb) topic:acid,distributed-database,foundationdb,key-value-store,transactional pushed_at:2022-11 star:11.9k fork:1.2k FoundationDB - the open source, distributed, transactional key-value store
 - [apple/indexstore-db](https://github.com/apple/indexstore-db) topic: pushed_at:2022-11 star:0.3k fork:0.1k Index database library for use with sourcekit-lsp
 - [apple/llvm-project-v5](https://github.com/apple/llvm-project-v5) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project-v5-split](https://github.com/apple/llvm-project-v5-split) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
-- [apple/swift](https://github.com/apple/swift) topic: pushed_at:2022-11 star:61.1k fork:9.8k The Swift Programming Language
+- [apple/swift](https://github.com/apple/swift) topic: pushed_at:2022-11 star:61.2k fork:9.8k The Swift Programming Language
 - [apple/swift-clang](https://github.com/apple/swift-clang) topic: pushed_at:2019-11 star:0.7k fork:0.2k 
 - [apple/swift-clang-tools-extra](https://github.com/apple/swift-clang-tools-extra) topic: pushed_at:2019-11 star:0.0k fork:0.0k 
 - [apple/swift-libcxx](https://github.com/apple/swift-libcxx) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/swift-llbuild](https://github.com/apple/swift-llbuild) topic:build-system,build-tool,llbuild,llvm,swift pushed_at:2022-11 star:1.0k fork:0.2k A low-level build system, used by Xcode and the Swift Package Manager
 - [apple/swift-lldb](https://github.com/apple/swift-lldb) topic: pushed_at:2020-01 star:0.7k fork:0.2k This is the version of LLDB that supports the Swift programming language & REPL.
-- [apple/turicreate](https://github.com/apple/turicreate) topic:deep-learning,machine-learning,python pushed_at:2021-11 star:10.8k fork:1.1k Turi Create simplifies the development of custom machine learning models.
+- [apple/turicreate](https://github.com/apple/turicreate) topic:deep-learning,machine-learning,python pushed_at:2022-11 star:10.8k fork:1.1k Turi Create simplifies the development of custom machine learning models.
 
 ## CMake
 
@@ -128,7 +128,7 @@
 - [apple/ccs-pyosxframeworks](https://github.com/apple/ccs-pyosxframeworks) topic: pushed_at:2017-02 star:0.0k fork:0.0k Python Framework for macOS APIs used by CalendarServer
 - [apple/ccs-pysecuretransport](https://github.com/apple/ccs-pysecuretransport) topic: pushed_at:2017-02 star:0.0k fork:0.0k Twisted SecureTransport library used by CalendarServer
 - [apple/ccs-twistedextensions](https://github.com/apple/ccs-twistedextensions) topic: pushed_at:2019-05 star:0.0k fork:0.0k Extensions to Twisted used by CalendarServer
-- [apple/coremltools](https://github.com/apple/coremltools) topic:coreml,coremltools,machine-learning,model-conversion,model-converter,pytorch,tensorflow pushed_at:2022-11 star:2.9k fork:0.5k Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
+- [apple/coremltools](https://github.com/apple/coremltools) topic:coreml,coremltools,machine-learning,model-conversion,model-converter,pytorch,tensorflow pushed_at:2022-11 star:3.0k fork:0.5k Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [apple/learning-compressible-subspaces](https://github.com/apple/learning-compressible-subspaces) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
 - [apple/learning-subspaces](https://github.com/apple/learning-subspaces) topic: pushed_at:2021-03 star:0.1k fork:0.0k 
 - [apple/ml-afv](https://github.com/apple/ml-afv) topic:neurips-2019 pushed_at:2022-06 star:0.0k fork:0.0k 
@@ -142,7 +142,7 @@
 - [apple/ml-core](https://github.com/apple/ml-core) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
 - [apple/ml-cread](https://github.com/apple/ml-cread) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apple/ml-cvnets](https://github.com/apple/ml-cvnets) topic:ade20k,classification,computer-vision,deep-learning,detection,imagenet,machine-learning,mscoco,pascal-voc,pytorch,segmentation pushed_at:2022-06 star:1.1k fork:0.1k CVNets: A library for training computer vision networks
-- [apple/ml-cvpr2019-swd](https://github.com/apple/ml-cvpr2019-swd) topic:cvpr2019 pushed_at:2022-06 star:0.1k fork:0.0k Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation. In CVPR 2019.
+- [apple/ml-cvpr2019-swd](https://github.com/apple/ml-cvpr2019-swd) topic:cvpr2019 pushed_at:2022-11 star:0.1k fork:0.0k Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation. In CVPR 2019.
 - [apple/ml-dab](https://github.com/apple/ml-dab) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
 - [apple/ml-data-parameters](https://github.com/apple/ml-data-parameters) topic:neurips-2019 pushed_at:2022-06 star:0.1k fork:0.0k 
 - [apple/ml-envmapnet](https://github.com/apple/ml-envmapnet) topic: pushed_at:2021-06 star:0.0k fork:0.0k This software project contains implementations of metrics used in the paper, HDR Environment Map Estimation for Real-Time Augmented Reality, Gowri Somanath, Daniel Kurz, Proc IEEE & CVF CVPR 2021
@@ -159,7 +159,7 @@
 - [apple/ml-probabilistic-attention](https://github.com/apple/ml-probabilistic-attention) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [apple/ml-qrecc](https://github.com/apple/ml-qrecc) topic: pushed_at:2022-05 star:0.1k fork:0.0k Open-Domain Question Answering Goes Conversational via Question Rewriting
 - [apple/ml-quant](https://github.com/apple/ml-quant) topic: pushed_at:2022-06 star:0.1k fork:0.0k Research publication code for "Least Squares Binary Quantization of Neural Networks"
-- [apple/ml-sad](https://github.com/apple/ml-sad) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
+- [apple/ml-sad](https://github.com/apple/ml-sad) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [apple/ml-selfcond](https://github.com/apple/ml-selfcond) topic: pushed_at:2022-07 star:0.0k fork:0.0k Self-Conditioning Pre-Trained Language Models, ICML 2022
 - [apple/ml-shuffling-amplification](https://github.com/apple/ml-shuffling-amplification) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [apple/ml-spin](https://github.com/apple/ml-spin) topic: pushed_at:2022-07 star:0.0k fork:0.0k This repository contains the official implementation for the ECCV'22 paper, "SPIN: An Empirical Evaluation on Sharing Parameters of Isotropic Networks".

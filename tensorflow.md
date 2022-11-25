@@ -6,7 +6,7 @@
 
 ## Contents(109)
 
-- [C++](#c++) (17)
+- [C++](#c++) (16)
 - [CSS](#css) (1)
 - [Cuda](#cuda) (1)
 - [HTML](#html) (2)
@@ -14,7 +14,7 @@
 - [Java](#java) (3)
 - [JavaScript](#javascript) (1)
 - [Jupyter Notebook](#jupyter-notebook) (15)
-- [MLIR](#mlir) (1)
+- [MLIR](#mlir) (2)
 - [Others](#others) (4)
 - [Python](#python) (41)
 - [Rust](#rust) (1)
@@ -30,14 +30,13 @@
 - [tensorflow/community](https://github.com/tensorflow/community) topic: pushed_at:2022-11 star:1.1k fork:0.6k Stores documents used by the TensorFlow developer community
 - [tensorflow/deepmath](https://github.com/tensorflow/deepmath) topic: pushed_at:2020-12 star:0.8k fork:0.1k Experiments towards neural network theorem proving
 - [tensorflow/io](https://github.com/tensorflow/io) topic:dataset,filesystem,streaming,tensorflow,tensorflow-io pushed_at:2022-11 star:0.6k fork:0.2k Dataset, streaming, and file system extensions maintained by TensorFlow SIG-IO
-- [tensorflow/minigo](https://github.com/tensorflow/minigo) topic: pushed_at:2021-03 star:3.3k fork:0.6k An open-source implementation of the AlphaGoZero algorithm
+- [tensorflow/minigo](https://github.com/tensorflow/minigo) topic: pushed_at:2021-03 star:3.4k fork:0.6k An open-source implementation of the AlphaGoZero algorithm
 - [tensorflow/networking](https://github.com/tensorflow/networking) topic: pushed_at:2021-11 star:0.1k fork:0.0k Enhanced networking support for TensorFlow. Maintained by SIG-networking.
 - [tensorflow/ngraph-bridge](https://github.com/tensorflow/ngraph-bridge) topic: pushed_at:2021-02 star:0.1k fork:0.1k TensorFlow-nGraph bridge
-- [tensorflow/runtime](https://github.com/tensorflow/runtime) topic: pushed_at:2022-11 star:0.7k fork:0.1k A performant and modular runtime for TensorFlow
 - [tensorflow/serving](https://github.com/tensorflow/serving) topic:cpp,deep-learning,deep-neural-networks,machine-learning,ml,neural-network,python,serving,tensorflow pushed_at:2022-11 star:5.7k fork:2.2k A flexible, high-performance serving system for machine learning models
-- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) topic:deep-learning,deep-neural-networks,distributed,machine-learning,ml,neural-network,python,tensorflow pushed_at:2022-11 star:169.1k fork:87.5k An Open Source Machine Learning Framework for Everyone
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) topic:deep-learning,deep-neural-networks,distributed,machine-learning,ml,neural-network,python,tensorflow pushed_at:2022-11 star:169.3k fork:87.5k An Open Source Machine Learning Framework for Everyone
 - [tensorflow/tensorflow-experimental_link_static_libraries_once](https://github.com/tensorflow/tensorflow-experimental_link_static_libraries_once) topic: pushed_at:2022-10 star:0.0k fork:0.0k An Open Source Machine Learning Framework for Everyone
-- [tensorflow/tensorflow-pywrap_saved_model](https://github.com/tensorflow/tensorflow-pywrap_saved_model) topic: pushed_at:2022-10 star:0.0k fork:0.0k An Open Source Machine Learning Framework for Everyone
+- [tensorflow/tensorflow-pywrap_saved_model](https://github.com/tensorflow/tensorflow-pywrap_saved_model) topic: pushed_at:2022-11 star:0.0k fork:0.0k An Open Source Machine Learning Framework for Everyone
 - [tensorflow/tensorflow-pywrap_tf_optimizer](https://github.com/tensorflow/tensorflow-pywrap_tf_optimizer) topic: pushed_at:2022-10 star:0.0k fork:0.0k An Open Source Machine Learning Framework for Everyone
 - [tensorflow/tensorstore](https://github.com/tensorflow/tensorstore) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [tensorflow/text](https://github.com/tensorflow/text) topic: pushed_at:2022-11 star:1.0k fork:0.2k Making text a first-class citizen in TensorFlow.
@@ -78,21 +77,22 @@
 - [tensorflow/docs](https://github.com/tensorflow/docs) topic:deep-learning,deep-neural-networks,documentation,machine-learning,tensorflow,tensorflow-examples,tensorflow-tutorials pushed_at:2022-11 star:5.5k fork:5.0k TensorFlow documentation
 - [tensorflow/docs-l10n](https://github.com/tensorflow/docs-l10n) topic:documentation,localization,tensorflow,tensorflow-tutorials,translation pushed_at:2022-11 star:0.5k fork:0.6k Translations of TensorFlow documentation
 - [tensorflow/examples](https://github.com/tensorflow/examples) topic:tensorflow,tensorflow-examples pushed_at:2022-11 star:6.6k fork:6.8k TensorFlow examples
-- [tensorflow/fairness-indicators](https://github.com/tensorflow/fairness-indicators) topic:fairness-indicators,fairness-ml,tensorflow pushed_at:2022-10 star:0.3k fork:0.1k Tensorflow's Fairness Evaluation and Visualization Toolkit
+- [tensorflow/fairness-indicators](https://github.com/tensorflow/fairness-indicators) topic:fairness-indicators,fairness-ml,tensorflow pushed_at:2022-11 star:0.3k fork:0.1k Tensorflow's Fairness Evaluation and Visualization Toolkit
 - [tensorflow/gan](https://github.com/tensorflow/gan) topic: pushed_at:2022-04 star:0.8k fork:0.2k Tooling for GANs in TensorFlow
 - [tensorflow/lucid](https://github.com/tensorflow/lucid) topic:colab,interpretability,jupyter-notebook,machine-learning,tensorflow,visualization pushed_at:2022-04 star:4.5k fork:0.6k A collection of infrastructure and tools for research in neural network interpretability.
 - [tensorflow/probability](https://github.com/tensorflow/probability) topic:bayesian-methods,data-science,deep-learning,machine-learning,neural-networks,probabilistic-programming,statistics,tensorflow pushed_at:2022-11 star:3.8k fork:1.0k Probabilistic reasoning and statistical analysis in TensorFlow
 - [tensorflow/swift](https://github.com/tensorflow/swift) topic:differentiable-programming,machine-learning,tensorflow pushed_at:2022-01 star:6.1k fork:0.6k Swift for TensorFlow
 - [tensorflow/swift-models](https://github.com/tensorflow/swift-models) topic: pushed_at:2021-03 star:0.6k fork:0.2k Models and examples built with Swift for TensorFlow
-- [tensorflow/tcav](https://github.com/tensorflow/tcav) topic:interpretability,machine-learning,tcav pushed_at:2022-10 star:0.5k fork:0.1k Code for the TCAV ML interpretability project
+- [tensorflow/tcav](https://github.com/tensorflow/tcav) topic:interpretability,machine-learning,tcav pushed_at:2022-11 star:0.5k fork:0.1k Code for the TCAV ML interpretability project
 - [tensorflow/tensorrt](https://github.com/tensorflow/tensorrt) topic: pushed_at:2022-10 star:0.7k fork:0.2k TensorFlow/TensorRT integration
 - [tensorflow/tfx-addons](https://github.com/tensorflow/tfx-addons) topic:machine-learning,mlops,neural-network,python,special-interest-group,tensorflow,tfx pushed_at:2022-11 star:0.1k fork:0.0k Developers helping developers.  TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.  The projects are organized under the auspices of the special interest group, SIG TFX-Addons.  Join  the group at http://goo.gle/tfx-addons-group
-- [tensorflow/tpu](https://github.com/tensorflow/tpu) topic: pushed_at:2022-11 star:5.0k fork:1.7k Reference models and tools for Cloud TPUs.
+- [tensorflow/tpu](https://github.com/tensorflow/tpu) topic: pushed_at:2022-11 star:5.0k fork:1.8k Reference models and tools for Cloud TPUs.
 - [tensorflow/workshops](https://github.com/tensorflow/workshops) topic: pushed_at:2021-04 star:1.5k fork:0.7k A few exercises for use at events.
 
 ## MLIR
 
 - [tensorflow/mlir-hlo](https://github.com/tensorflow/mlir-hlo) topic: pushed_at:2022-11 star:0.3k fork:0.1k 
+- [tensorflow/runtime](https://github.com/tensorflow/runtime) topic: pushed_at:2022-11 star:0.7k fork:0.1k A performant and modular runtime for TensorFlow
 
 ## Others
 
@@ -110,7 +110,7 @@
 - [tensorflow/cloud](https://github.com/tensorflow/cloud) topic:cloud,gcp,keras,tensorflow pushed_at:2022-10 star:0.3k fork:0.1k The TensorFlow Cloud repository provides APIs that will allow to easily go from debugging and training your Keras and TensorFlow code in a local environment to distributed training in the cloud.
 - [tensorflow/compression](https://github.com/tensorflow/compression) topic:compression,data-compression,deep-learning,deep-neural-networks,machine-learning,ml,neural-network,python,tensorflow pushed_at:2022-11 star:0.7k fork:0.2k Data compression in TensorFlow
 - [tensorflow/data-validation](https://github.com/tensorflow/data-validation) topic: pushed_at:2022-11 star:0.7k fork:0.1k Library for exploring and validating machine learning data
-- [tensorflow/datasets](https://github.com/tensorflow/datasets) topic:data,dataset,datasets,jax,machine-learning,numpy,tensorflow pushed_at:2022-11 star:3.5k fork:1.3k TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
+- [tensorflow/datasets](https://github.com/tensorflow/datasets) topic:data,dataset,datasets,jax,machine-learning,numpy,tensorflow pushed_at:2022-11 star:3.5k fork:1.4k TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
 - [tensorflow/decision-forests](https://github.com/tensorflow/decision-forests) topic:decision-forest,decision-trees,gradient-boosting,interpretability,keras,machine-learning,ml,python,random-forest,tensorflow pushed_at:2022-11 star:0.5k fork:0.1k A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras.
 - [tensorflow/dtensor-gcp-examples](https://github.com/tensorflow/dtensor-gcp-examples) topic: pushed_at:2022-09 star:0.0k fork:0.0k Using DTensor on Google Cloud
 - [tensorflow/estimator](https://github.com/tensorflow/estimator) topic: pushed_at:2022-11 star:0.3k fork:0.2k TensorFlow Estimator
@@ -128,15 +128,15 @@
 - [tensorflow/model-card-toolkit](https://github.com/tensorflow/model-card-toolkit) topic: pushed_at:2022-11 star:0.3k fork:0.1k  a tool that leverages rich metadata and lineage information in MLMD to build a model card
 - [tensorflow/model-optimization](https://github.com/tensorflow/model-optimization) topic:compression,deep-learning,keras,machine-learning,ml,model-compression,optimization,pruning,quantization,quantized-networks,quantized-neural-networks,quantized-training,sparsity,tensorflow pushed_at:2022-11 star:1.3k fork:0.3k A toolkit to optimize ML models for deployment for Keras and TensorFlow, including quantization and pruning.
 - [tensorflow/model-remediation](https://github.com/tensorflow/model-remediation) topic:machine-learning,tensorflow pushed_at:2022-10 star:0.0k fork:0.0k Model Remediation is a library that provides solutions for machine learning practitioners working to create and train models in a way that reduces or eliminates user harm resulting from underlying performance biases.
-- [tensorflow/models](https://github.com/tensorflow/models) topic: pushed_at:2022-11 star:74.7k fork:46.1k Models and examples built with TensorFlow
+- [tensorflow/models](https://github.com/tensorflow/models) topic: pushed_at:2022-11 star:74.8k fork:46.1k Models and examples built with TensorFlow
 - [tensorflow/moonlight](https://github.com/tensorflow/moonlight) topic: pushed_at:2022-06 star:0.3k fork:0.1k Optical music recognition in TensorFlow
-- [tensorflow/neural-structured-learning](https://github.com/tensorflow/neural-structured-learning) topic:adversarial-learning,graph-learning,keras,neural-networks,regularization,structured-signals,tensorflow pushed_at:2022-10 star:0.9k fork:0.2k Training neural models with structured signals.
+- [tensorflow/neural-structured-learning](https://github.com/tensorflow/neural-structured-learning) topic:adversarial-learning,graph-learning,keras,neural-networks,regularization,structured-signals,tensorflow pushed_at:2022-11 star:0.9k fork:0.2k Training neural models with structured signals.
 - [tensorflow/nmt](https://github.com/tensorflow/nmt) topic: pushed_at:2022-10 star:6.1k fork:2.0k TensorFlow Neural Machine Translation Tutorial
 - [tensorflow/privacy](https://github.com/tensorflow/privacy) topic:machine-learning,privacy pushed_at:2022-11 star:1.7k fork:0.4k Library for training machine learning models with privacy for training data
 - [tensorflow/quantum](https://github.com/tensorflow/quantum) topic: pushed_at:2022-11 star:1.5k fork:0.4k Hybrid Quantum-Classical Machine Learning in TensorFlow
 - [tensorflow/ranking](https://github.com/tensorflow/ranking) topic:deep-learning,information-retrieval,learning-to-rank,machine-learning,ranking,recommender-systems pushed_at:2022-10 star:2.6k fork:0.4k Learning to Rank in TensorFlow
 - [tensorflow/recommenders](https://github.com/tensorflow/recommenders) topic:recommender,recommender-system,tensorflow,tensorflow-recommenders pushed_at:2022-11 star:1.5k fork:0.2k TensorFlow Recommenders is a library for building recommender system models using TensorFlow.
-- [tensorflow/similarity](https://github.com/tensorflow/similarity) topic:barlow-twins,clustering,contrastive-learning,cosine-similarity,deep-learning,knn,machine-learning,metric-learning,nearest-neighbor-search,nearest-neighbors,python,simclr,simclr2,similarity-learning,similarity-search,simsiam,tensorflow,unsupervised-learning pushed_at:2022-10 star:0.9k fork:0.1k TensorFlow Similarity is a python package focused on making similarity learning quick and easy.
+- [tensorflow/similarity](https://github.com/tensorflow/similarity) topic:barlow-twins,clustering,contrastive-learning,cosine-similarity,deep-learning,knn,machine-learning,metric-learning,nearest-neighbor-search,nearest-neighbors,python,simclr,simclr2,similarity-learning,similarity-search,simsiam,tensorflow,unsupervised-learning pushed_at:2022-11 star:0.9k fork:0.1k TensorFlow Similarity is a python package focused on making similarity learning quick and easy.
 - [tensorflow/skflow](https://github.com/tensorflow/skflow) topic: pushed_at:2021-08 star:3.2k fork:0.5k Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning
 - [tensorflow/tensor2tensor](https://github.com/tensorflow/tensor2tensor) topic:deep-learning,machine-learning,machine-translation,reinforcement-learning,tpu pushed_at:2022-10 star:12.8k fork:3.1k Library of deep learning models and datasets designed to make deep learning more accessible and accelerate ML research.
 - [tensorflow/tensorboard-plugin-example](https://github.com/tensorflow/tensorboard-plugin-example) topic: pushed_at:2019-08 star:0.1k fork:0.1k 
@@ -155,7 +155,7 @@
 
 ## Shell
 
-- [tensorflow/build](https://github.com/tensorflow/build) topic: pushed_at:2022-09 star:0.2k fork:0.1k Build-related tools for TensorFlow
+- [tensorflow/build](https://github.com/tensorflow/build) topic: pushed_at:2022-11 star:0.2k fork:0.1k Build-related tools for TensorFlow
 
 ## Smarty
 
@@ -173,7 +173,7 @@
 
 ## TypeScript
 
-- [tensorflow/playground](https://github.com/tensorflow/playground) topic: pushed_at:2022-06 star:10.6k fork:2.4k Play with neural networks!
+- [tensorflow/playground](https://github.com/tensorflow/playground) topic: pushed_at:2022-06 star:10.7k fork:2.4k Play with neural networks!
 - [tensorflow/profiler](https://github.com/tensorflow/profiler) topic: pushed_at:2022-11 star:0.3k fork:0.0k A profiling and performance analysis tool for TensorFlow
 - [tensorflow/sig-tfjs](https://github.com/tensorflow/sig-tfjs) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) topic: pushed_at:2022-11 star:6.0k fork:1.6k TensorFlow's Visualization Toolkit
@@ -182,7 +182,7 @@
 - [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) topic:deep-learning,deep-neural-networks,gpu-acceleration,javascript,machine-learning,neural-network,typescript,webgl pushed_at:2019-08 star:8.5k fork:1.0k WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
 - [tensorflow/tfjs-data](https://github.com/tensorflow/tfjs-data) topic:data,deep-learning,javascript,machine-learning,neural-network,tensorflow,tfjs pushed_at:2019-08 star:0.1k fork:0.0k Simple APIs to load and prepare data for use in machine learning models
 - [tensorflow/tfjs-layers](https://github.com/tensorflow/tfjs-layers) topic: pushed_at:2019-08 star:0.3k fork:0.1k TensorFlow.js high-level layers API
-- [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) topic: pushed_at:2022-11 star:11.8k fork:3.8k Pretrained models for TensorFlow.js
+- [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) topic: pushed_at:2022-11 star:11.9k fork:3.8k Pretrained models for TensorFlow.js
 - [tensorflow/tfjs-node](https://github.com/tensorflow/tfjs-node) topic:javascript,machine-learning,node-module,nodejs,tensorflow pushed_at:2019-08 star:1.0k fork:0.1k TensorFlow powered JavaScript library for training and deploying ML models on Node.js.
 - [tensorflow/tfjs-tsne](https://github.com/tensorflow/tfjs-tsne) topic: pushed_at:2021-02 star:0.3k fork:0.1k 
 - [tensorflow/tfjs-vis](https://github.com/tensorflow/tfjs-vis) topic: pushed_at:2019-08 star:0.4k fork:0.1k A set of utilities for in browser visualization with TensorFlow.js

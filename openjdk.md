@@ -20,7 +20,7 @@
 
 - [openjdk/jfx](https://github.com/openjdk/jfx) topic:java,javafx,openjdk,openjfx pushed_at:2022-11 star:1.9k fork:0.3k JavaFX mainline development
 - [openjdk/jfx-sandbox](https://github.com/openjdk/jfx-sandbox) topic: pushed_at:2022-11 star:0.0k fork:0.0k OpenJFX Committers Sandbox
-- [openjdk/jfx11u](https://github.com/openjdk/jfx11u) topic:java,javafx,openjdk pushed_at:2022-10 star:0.0k fork:0.0k JavaFX 11 updates development
+- [openjdk/jfx11u](https://github.com/openjdk/jfx11u) topic:java,javafx,openjdk pushed_at:2022-11 star:0.0k fork:0.0k JavaFX 11 updates development
 - [openjdk/jfx12](https://github.com/openjdk/jfx12) topic: pushed_at:2021-01 star:0.0k fork:0.0k JavaFX 12.x : last released 2019-07-19
 - [openjdk/jfx13](https://github.com/openjdk/jfx13) topic: pushed_at:2020-07 star:0.0k fork:0.0k JavaFX 13.x : last released 2020-01-15
 - [openjdk/jfx17u](https://github.com/openjdk/jfx17u) topic: pushed_at:2022-11 star:0.0k fork:0.0k JavaFX 17 updates development
@@ -41,12 +41,12 @@
 - [openjdk/amber](https://github.com/openjdk/amber) topic: pushed_at:2022-11 star:0.1k fork:0.0k https://openjdk.org/projects/amber
 - [openjdk/asmtools](https://github.com/openjdk/asmtools) topic: pushed_at:2022-11 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/asmtools
 - [openjdk/client](https://github.com/openjdk/client) topic: pushed_at:2020-10 star:0.0k fork:0.0k JDK 16 era Client Libraries development
-- [openjdk/crac](https://github.com/openjdk/crac) topic: pushed_at:2022-11 star:0.0k fork:0.0k https://openjdk.org/projects/crac
+- [openjdk/crac](https://github.com/openjdk/crac) topic: pushed_at:2022-11 star:0.1k fork:0.0k https://openjdk.org/projects/crac
 - [openjdk/doccheck](https://github.com/openjdk/doccheck) topic: pushed_at:2022-06 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/doccheck
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) topic: pushed_at:2021-04 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/friday-stats
 - [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2022-11 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2022-11 star:0.3k fork:0.0k https://openjdk.org/projects/code-tools/jcstress
-- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2022-11 star:14.5k fork:4.1k JDK main-line development https://openjdk.org/projects/jdk
+- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2022-11 star:14.6k fork:4.1k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2022-11 star:0.0k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2022-11 star:0.1k fork:0.1k https://openjdk.org/projects/jdk-updates

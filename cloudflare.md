@@ -139,7 +139,7 @@
 - [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) topic: pushed_at:2022-11 star:0.9k fork:0.4k Go library for the Cloudflare v4 API
 - [cloudflare/cloudflare-ingress-controller](https://github.com/cloudflare/cloudflare-ingress-controller) topic: pushed_at:2022-03 star:0.3k fork:0.1k A Kubernetes ingress controller for Cloudflare's Argo Tunnels
 - [cloudflare/Cloudflare-Pivotal-Cloud-Foundry](https://github.com/cloudflare/Cloudflare-Pivotal-Cloud-Foundry) topic: pushed_at:2017-03 star:0.0k fork:0.0k 
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) topic:argo-tunnel,cloudflare,cloudflare-tunnel,reverse-proxy,zero-trust-network-access pushed_at:2022-11 star:3.8k fork:0.4k Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) topic:argo-tunnel,cloudflare,cloudflare-tunnel,reverse-proxy,zero-trust-network-access pushed_at:2022-11 star:3.9k fork:0.4k Cloudflare Tunnel client (formerly Argo Tunnel)
 - [cloudflare/comodo](https://github.com/cloudflare/comodo) topic: pushed_at:2017-07 star:0.0k fork:0.0k Comodo 
 - [cloudflare/complainer](https://github.com/cloudflare/complainer) topic: pushed_at:2018-10 star:0.1k fork:0.0k  Complainer's job is to send notifications to different services when tasks fail on Mesos cluster.
 - [cloudflare/conf](https://github.com/cloudflare/conf) topic: pushed_at:2013-12 star:0.0k fork:0.0k Really, really simple key=val configuration file parser
@@ -185,7 +185,7 @@
 - [cloudflare/opaque-core](https://github.com/cloudflare/opaque-core) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
 - [cloudflare/opaque-ea](https://github.com/cloudflare/opaque-ea) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
 - [cloudflare/opentsdb_exporter](https://github.com/cloudflare/opentsdb_exporter) topic:exporter,metrics,monitoring,opentsdb,prometheus pushed_at:2018-05 star:0.0k fork:0.0k Prometheus exporter for OpenTSDB
-- [cloudflare/origin-ca-issuer](https://github.com/cloudflare/origin-ca-issuer) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
+- [cloudflare/origin-ca-issuer](https://github.com/cloudflare/origin-ca-issuer) topic: pushed_at:2022-11 star:0.1k fork:0.0k 
 - [cloudflare/pal](https://github.com/cloudflare/pal) topic: pushed_at:2017-06 star:0.1k fork:0.0k PAL: A secret bootstrapping tool for Docker
 - [cloudflare/pat-app](https://github.com/cloudflare/pat-app) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [cloudflare/pat-go](https://github.com/cloudflare/pat-go) topic: pushed_at:2022-11 star:0.0k fork:0.0k Private Access Tokens reference implementation
@@ -220,7 +220,7 @@
 - [cloudflare/developer-summer-challenge](https://github.com/cloudflare/developer-summer-challenge) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [cloudflare/font-awesome-glyph](https://github.com/cloudflare/font-awesome-glyph) topic: pushed_at:2017-01 star:0.0k fork:0.0k 
 - [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) topic:bgp,cloudflare,hacktoberfest,rpki,wrangler pushed_at:2022-11 star:0.2k fork:0.3k Is BGP safe yet?
-- [cloudflare/lol-html](https://github.com/cloudflare/lol-html) topic:css-selectors,html,parser,rewriting,rust,stream,streaming pushed_at:2022-11 star:0.9k fork:0.0k Low output latency streaming HTML parser/rewriter with CSS selector-based API
+- [cloudflare/lol-html](https://github.com/cloudflare/lol-html) topic:css-selectors,html,parser,rewriting,rust,stream,streaming pushed_at:2022-11 star:1.0k fork:0.0k Low output latency streaming HTML parser/rewriter with CSS selector-based API
 - [cloudflare/pages-stream-demo](https://github.com/cloudflare/pages-stream-demo) topic: pushed_at:2021-11 star:0.0k fork:0.0k 
 - [cloudflare/submit.pages.dev](https://github.com/cloudflare/submit.pages.dev) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [cloudflare/turnstile-demo-workers](https://github.com/cloudflare/turnstile-demo-workers) topic:cloudflare,turnstile pushed_at:2022-10 star:0.1k fork:0.0k A simple demo with a Turnstile-protected form, using Cloudflare Workers.
@@ -243,7 +243,7 @@
 - [cloudflare/babel-preset-cf](https://github.com/cloudflare/babel-preset-cf) topic: pushed_at:2016-05 star:0.0k fork:0.0k Babel preset for Cloudflare
 - [cloudflare/binary-install](https://github.com/cloudflare/binary-install) topic: pushed_at:2022-06 star:0.0k fork:0.0k Install binary applications via npm
 - [cloudflare/binast-cf-worker](https://github.com/cloudflare/binast-cf-worker) topic: pushed_at:2022-09 star:0.0k fork:0.0k Serve BinAST via a Cloudflare Worker
-- [cloudflare/binjs-demo](https://github.com/cloudflare/binjs-demo) topic: pushed_at:2022-09 star:0.0k fork:0.0k Demo application for BinAST
+- [cloudflare/binjs-demo](https://github.com/cloudflare/binjs-demo) topic: pushed_at:2022-11 star:0.0k fork:0.0k Demo application for BinAST
 - [cloudflare/cf-ui](https://github.com/cloudflare/cf-ui) topic: pushed_at:2019-04 star:1.3k fork:0.1k :gem: Cloudflare UI Framework
 - [cloudflare/cf-webhook-relay](https://github.com/cloudflare/cf-webhook-relay) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
 - [cloudflare/cfapp-canopy](https://github.com/cloudflare/cfapp-canopy) topic: pushed_at:2014-09 star:0.0k fork:0.0k Canopy
@@ -260,7 +260,7 @@
 - [cloudflare/Coupe](https://github.com/cloudflare/Coupe) topic: pushed_at:2015-04 star:0.0k fork:0.0k A tool for communicating between web pages
 - [cloudflare/d1-northwind](https://github.com/cloudflare/d1-northwind) topic:cloudflare-workers,d1 pushed_at:2022-11 star:0.0k fork:0.0k Northwind Traders D1 Demo
 - [cloudflare/deadorbit](https://github.com/cloudflare/deadorbit) topic: pushed_at:2017-04 star:0.0k fork:0.0k Polyglot utility to log errors in Node and the browser
-- [cloudflare/deploy.workers.cloudflare.com](https://github.com/cloudflare/deploy.workers.cloudflare.com) topic: pushed_at:2022-08 star:0.0k fork:0.0k ✨ Deploy Cloudflare Workers applications with (almost) no-config, using GitHub Actions
+- [cloudflare/deploy.workers.cloudflare.com](https://github.com/cloudflare/deploy.workers.cloudflare.com) topic: pushed_at:2022-11 star:0.0k fork:0.0k ✨ Deploy Cloudflare Workers applications with (almost) no-config, using GitHub Actions
 - [cloudflare/dnschanger_detector](https://github.com/cloudflare/dnschanger_detector) topic: pushed_at:2014-11 star:0.0k fork:0.0k Detect DNSChanger and Notify Visitors
 - [cloudflare/doca](https://github.com/cloudflare/doca) topic: pushed_at:2018-09 star:0.2k fork:0.0k A CLI tool that scaffolds API documentation based on JSON HyperSchemas.
 - [cloudflare/doca-bootstrap-theme](https://github.com/cloudflare/doca-bootstrap-theme) topic: pushed_at:2018-04 star:0.0k fork:0.0k Doca theme using Twitter Bootstrap
@@ -286,7 +286,7 @@
 - [cloudflare/netjet](https://github.com/cloudflare/netjet) topic: pushed_at:2021-08 star:0.1k fork:0.0k Express middleware to generate preload headers
 - [cloudflare/ng-showdown](https://github.com/cloudflare/ng-showdown) topic: pushed_at:2017-06 star:0.0k fork:0.0k Angular integration for Showdown
 - [cloudflare/node-cloudflare](https://github.com/cloudflare/node-cloudflare) topic: pushed_at:2022-10 star:0.3k fork:0.1k Node.js API for Client API
-- [cloudflare/pages-action](https://github.com/cloudflare/pages-action) topic: pushed_at:2022-10 star:0.1k fork:0.0k 
+- [cloudflare/pages-action](https://github.com/cloudflare/pages-action) topic: pushed_at:2022-11 star:0.1k fork:0.0k 
 - [cloudflare/postgrest-worker-example](https://github.com/cloudflare/postgrest-worker-example) topic: pushed_at:2022-04 star:0.0k fork:0.0k Example Workers function for interfacing with a PostgreSQL database, using PostgREST
 - [cloudflare/privacy-gateway-relay](https://github.com/cloudflare/privacy-gateway-relay) topic:cloudflare,ohttp,workers pushed_at:2022-10 star:0.0k fork:0.0k A Oblivious HTTP ("OHTTP") Relay built on Cloudflare Workers.
 - [cloudflare/python-worker-hello-world](https://github.com/cloudflare/python-worker-hello-world) topic: pushed_at:2022-11 star:0.2k fork:0.0k Python hello world for Cloudflare Workers
@@ -296,7 +296,7 @@
 - [cloudflare/react-workers-template](https://github.com/cloudflare/react-workers-template) topic:cloudflare-workers,react,serverless pushed_at:2022-07 star:0.0k fork:0.0k Example project showing how to deploy your React application to Cloudflare Workers Sites
 - [cloudflare/redox](https://github.com/cloudflare/redox) topic: pushed_at:2014-10 star:0.0k fork:0.0k 
 - [cloudflare/redux-grim](https://github.com/cloudflare/redux-grim) topic: pushed_at:2021-11 star:0.0k fork:0.0k 
-- [cloudflare/securitytxt-worker](https://github.com/cloudflare/securitytxt-worker) topic: pushed_at:2022-03 star:0.0k fork:0.0k The worker that serves Cloudflare's security.txt!
+- [cloudflare/securitytxt-worker](https://github.com/cloudflare/securitytxt-worker) topic: pushed_at:2022-11 star:0.0k fork:0.0k The worker that serves Cloudflare's security.txt!
 - [cloudflare/serverless-cloudflare-workers](https://github.com/cloudflare/serverless-cloudflare-workers) topic:cloudflare,serviceworkers,workers pushed_at:2022-11 star:0.2k fork:0.0k Serverless provider plugin for Cloudflare Workers
 - [cloudflare/service-worker-custom-build](https://github.com/cloudflare/service-worker-custom-build) topic: pushed_at:2022-07 star:0.0k fork:0.0k Template for webpack-based custom build of a service worker
 - [cloudflare/stream-wordpress](https://github.com/cloudflare/stream-wordpress) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
@@ -333,7 +333,7 @@
 
 - [cloudflare/connection-coalescing-imc22](https://github.com/cloudflare/connection-coalescing-imc22) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [cloudflare/radar-notebooks](https://github.com/cloudflare/radar-notebooks) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
-- [cloudflare/tensorflow-nata](https://github.com/cloudflare/tensorflow-nata) topic: pushed_at:2022-09 star:0.0k fork:0.0k Our model uses a convolutional neural network and TensorFlow to infer if an image is a Pastel de Nata or not. We trained it with thousands of Portuguese egg custard tart (Pasteis de Nata) images and other non related images to get the "Nata or Not" classifier.
+- [cloudflare/tensorflow-nata](https://github.com/cloudflare/tensorflow-nata) topic: pushed_at:2022-11 star:0.0k fork:0.0k Our model uses a convolutional neural network and TensorFlow to infer if an image is a Pastel de Nata or not. We trained it with thousands of Portuguese egg custard tart (Pasteis de Nata) images and other non related images to get the "Nata or Not" classifier.
 
 ## Kotlin
 
@@ -451,7 +451,7 @@
 - [cloudflare/napalm-nxos](https://github.com/cloudflare/napalm-nxos) topic: pushed_at:2016-08 star:0.0k fork:0.0k 
 - [cloudflare/napalm-pluribus](https://github.com/cloudflare/napalm-pluribus) topic: pushed_at:2016-08 star:0.0k fork:0.0k 
 - [cloudflare/py-mmdb-encoder](https://github.com/cloudflare/py-mmdb-encoder) topic:automation,geoip,geoip-database,network pushed_at:2018-03 star:0.0k fork:0.0k Create mmdb files to encode prefix lists.
-- [cloudflare/python-cloudflare](https://github.com/cloudflare/python-cloudflare) topic: pushed_at:2022-11 star:0.5k fork:0.1k Python wrapper for the Cloudflare Client API v4
+- [cloudflare/python-cloudflare](https://github.com/cloudflare/python-cloudflare) topic: pushed_at:2022-11 star:0.5k fork:0.2k Python wrapper for the Cloudflare Client API v4
 - [cloudflare/receipt-printer](https://github.com/cloudflare/receipt-printer) topic: pushed_at:2017-07 star:0.1k fork:0.0k Code to drive the receipt printer in the Cloudflare London office that outputs randomness
 - [cloudflare/rpki-rtr-client](https://github.com/cloudflare/rpki-rtr-client) topic: pushed_at:2020-06 star:0.0k fork:0.0k 
 - [cloudflare/salt](https://github.com/cloudflare/salt) topic: pushed_at:2019-01 star:0.0k fork:0.0k Central system and configuration manager 
@@ -535,7 +535,7 @@
 - [cloudflare/itty-router-openapi](https://github.com/cloudflare/itty-router-openapi) topic:cloudflare,openapi,workers pushed_at:2022-11 star:0.0k fork:0.0k OpenAPI 3 schema generator and validator for Cloudflare Workers
 - [cloudflare/kv-asset-handler](https://github.com/cloudflare/kv-asset-handler) topic: pushed_at:2022-11 star:0.2k fork:0.0k Routes requests to KV assets
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) topic:cloudflare,cloudflare-workers pushed_at:2022-11 star:3.1k fork:0.1k 🔥 Fully-local simulator for Cloudflare Workers
-- [cloudflare/miniflare-typescript-esbuild-jest](https://github.com/cloudflare/miniflare-typescript-esbuild-jest) topic: pushed_at:2022-09 star:0.1k fork:0.0k Example project using Miniflare, TypeScript, esbuild and Jest
+- [cloudflare/miniflare-typescript-esbuild-jest](https://github.com/cloudflare/miniflare-typescript-esbuild-jest) topic: pushed_at:2022-11 star:0.1k fork:0.0k Example project using Miniflare, TypeScript, esbuild and Jest
 - [cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages) topic: pushed_at:2022-11 star:0.1k fork:0.0k 
 - [cloudflare/opaque-ts](https://github.com/cloudflare/opaque-ts) topic:crypto,cryptography,opaque,pake,password pushed_at:2022-09 star:0.0k fork:0.0k A TypeScript library for OPAQUE Asymmetric Password-Authenticated Key Exchange Protocol
 - [cloudflare/pages-plugins](https://github.com/cloudflare/pages-plugins) topic: pushed_at:2022-07 star:0.0k fork:0.0k 

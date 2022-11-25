@@ -34,7 +34,7 @@
 ## C
 
 - [bytedance/android-inline-hook](https://github.com/bytedance/android-inline-hook) topic:android,androidinlinehook,arm,arm64,hook,inline,inlinehook,jni,ndk,security,thumb pushed_at:2022-11 star:0.8k fork:0.2k :fire: ShadowHook is an Android inline hook library which supports thumb, arm32 and arm64.
-- [bytedance/atop](https://github.com/bytedance/atop) topic: pushed_at:2022-10 star:0.1k fork:0.0k System and process monitor for Linux
+- [bytedance/atop](https://github.com/bytedance/atop) topic: pushed_at:2022-11 star:0.1k fork:0.0k System and process monitor for Linux
 - [bytedance/bcc](https://github.com/bytedance/bcc) topic: pushed_at:2021-12 star:0.0k fork:0.0k BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [bytedance/bdmpg123](https://github.com/bytedance/bdmpg123) topic: pushed_at:2022-10 star:0.0k fork:0.0k Customized development for android based on mpg123.
 - [bytedance/bhook](https://github.com/bytedance/bhook) topic:android,androidgothook,androidhook,androidplthook,bytedance,got,gothook,hook,hooking,native,ndk,plt,plthook pushed_at:2022-09 star:1.4k fork:0.2k :fire: ByteHook is an Android PLT hook library which supports armeabi-v7a, arm64-v8a, x86 and x86_64.
@@ -66,7 +66,7 @@
 - [bytedance/effective_transformer](https://github.com/bytedance/effective_transformer) topic:bert,inference,machine-learning,tensorflow,transformer pushed_at:2022-03 star:0.3k fork:0.0k Running BERT without Padding
 - [bytedance/incubator-mxnet](https://github.com/bytedance/incubator-mxnet) topic: pushed_at:2019-11 star:0.0k fork:0.0k Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 - [bytedance/lightseq](https://github.com/bytedance/lightseq) topic:accelerate,bart,beam-search,bert,cuda,diverse-decoding,gpt,inference,multilingual-nmt,sampling,training,transformer pushed_at:2022-11 star:2.5k fork:0.3k LightSeq: A High Performance Library for Sequence Processing and Generation
-- [bytedance/matxscript](https://github.com/bytedance/matxscript) topic: pushed_at:2022-11 star:0.0k fork:0.0k The model pre- and post-processing framework
+- [bytedance/matxscript](https://github.com/bytedance/matxscript) topic: pushed_at:2022-11 star:0.1k fork:0.0k The model pre- and post-processing framework
 - [bytedance/onnx-tensorrt](https://github.com/bytedance/onnx-tensorrt) topic: pushed_at:2021-04 star:0.0k fork:0.0k ONNX-TensorRT: TensorRT backend for ONNX
 - [bytedance/particle-sfm](https://github.com/bytedance/particle-sfm) topic:dynamic-scenes,motion-segmentation,structure-from-motion,video-correspondence pushed_at:2022-11 star:0.1k fork:0.0k ParticleSfM: Exploiting Dense Point Trajectories for Localizing Moving Cameras in the Wild. ECCV 2022.
 - [bytedance/ps-lite](https://github.com/bytedance/ps-lite) topic:deep-learning,distributed-training,mxnet,rdma pushed_at:2022-09 star:0.1k fork:0.0k A lightweight parameter server interface
@@ -97,7 +97,7 @@
 - [bytedance/go-querystring-parser](https://github.com/bytedance/go-querystring-parser) topic: pushed_at:2022-08 star:0.0k fork:0.0k A golang querystring parser
 - [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) topic:binding,dsl,expression,go,struct-tag,validator pushed_at:2022-11 star:1.3k fork:0.1k An interesting go struct tag expression syntax for field validation, etc.
 - [bytedance/godlp](https://github.com/bytedance/godlp) topic: pushed_at:2022-09 star:0.6k fork:0.1k sensitive information protection toolkit
-- [bytedance/gopkg](https://github.com/bytedance/gopkg) topic: pushed_at:2022-10 star:0.9k fork:0.1k Universal Utilities for Go
+- [bytedance/gopkg](https://github.com/bytedance/gopkg) topic: pushed_at:2022-11 star:0.9k fork:0.1k Universal Utilities for Go
 - [bytedance/ingress-nginx](https://github.com/bytedance/ingress-nginx) topic: pushed_at:2020-10 star:0.0k fork:0.0k NGINX Ingress Controller for Kubernetes
 - [bytedance/json](https://github.com/bytedance/json) topic:json pushed_at:2019-05 star:0.0k fork:0.0k JSON standard package extension library
 - [bytedance/kldx-common](https://github.com/bytedance/kldx-common) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
@@ -152,7 +152,7 @@
 ## Kotlin
 
 - [bytedance/appshark](https://github.com/bytedance/appshark) topic:android,compliance,static-analysis,vulnerability pushed_at:2022-11 star:0.9k fork:0.1k Appshark is a static taint analysis platform to scan vulnerabilities in an Android app.
-- [bytedance/btrace](https://github.com/bytedance/btrace) topic: pushed_at:2022-10 star:1.2k fork:0.2k 🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.
+- [bytedance/btrace](https://github.com/bytedance/btrace) topic: pushed_at:2022-11 star:1.2k fork:0.2k 🔥🔥 btrace(AKA RheaTrace) is a high performance Android trace tool which is based on Systrace, it support to define custom events automatically during building apk and using bhook to provider more native events like IO.
 - [bytedance/CodeLocator](https://github.com/bytedance/CodeLocator) topic: pushed_at:2022-06 star:0.9k fork:0.1k 
 - [bytedance/DanmakuRenderEngine](https://github.com/bytedance/DanmakuRenderEngine) topic: pushed_at:2022-08 star:0.0k fork:0.0k DanmakuRenderEngine is a lightweight and scalable Android danmaku library. 轻量级高扩展安卓弹幕渲染引擎
 
@@ -226,7 +226,7 @@
 - [bytedance/Next-ViT](https://github.com/bytedance/Next-ViT) topic: pushed_at:2022-08 star:0.3k fork:0.0k 
 - [bytedance/oclip](https://github.com/bytedance/oclip) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [bytedance/OMGD](https://github.com/bytedance/OMGD) topic: pushed_at:2022-10 star:0.3k fork:0.0k Online Multi-Granularity Distillation for GAN Compression (ICCV2021)
-- [bytedance/ParaGen](https://github.com/bytedance/ParaGen) topic: pushed_at:2022-08 star:0.2k fork:0.0k ParaGen is a PyTorch deep learning framework for parallel sequence generation.
+- [bytedance/ParaGen](https://github.com/bytedance/ParaGen) topic: pushed_at:2022-11 star:0.2k fork:0.0k ParaGen is a PyTorch deep learning framework for parallel sequence generation.
 - [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) topic: pushed_at:2022-03 star:1.1k fork:0.1k 
 - [bytedance/raylink](https://github.com/bytedance/raylink) topic:reinforcement-learning,rl pushed_at:2021-10 star:0.0k fork:0.0k Framework to build and train RL algorithms
 - [bytedance/RLFN](https://github.com/bytedance/RLFN) topic:lightweight,ntire22challenge,super-resolution pushed_at:2022-07 star:0.1k fork:0.0k Winner of runtime track in NTIRE 2022 challenge on Efficient Super-Resolution
@@ -240,7 +240,7 @@
 
 ## Rust
 
-- [bytedance/Elkeid](https://github.com/bytedance/Elkeid) topic:edr,hids,rasp,security pushed_at:2022-11 star:1.5k fork:0.3k Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture. 
+- [bytedance/Elkeid](https://github.com/bytedance/Elkeid) topic:cwpp,edr,hids,linux-security,rasp,security pushed_at:2022-11 star:1.5k fork:0.3k Elkeid is a Cloud-Native Host-Based Intrusion Detection solution project to provide next-generation Threat Detection and Behavior Audition with modern architecture. 
 - [bytedance/flexi_logger](https://github.com/bytedance/flexi_logger) topic: pushed_at:2020-12 star:0.0k fork:0.0k A flexible logger for rust programs that can write to stderr or to log files
 - [bytedance/keyhouse](https://github.com/bytedance/keyhouse) topic: pushed_at:2022-07 star:0.1k fork:0.0k Keyhouse is a skeleton of general-purpose Key Management System written in Rust.
 - [bytedance/monoio](https://github.com/bytedance/monoio) topic: pushed_at:2022-11 star:2.4k fork:0.1k Rust async runtime based on io-uring.
