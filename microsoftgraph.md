@@ -75,7 +75,7 @@
 - [microsoftgraph/msgraph-search-connector-sample](https://github.com/microsoftgraph/msgraph-search-connector-sample) topic: pushed_at:2021-10 star:0.0k fork:0.0k This .NET Core application shows how to use the Microsoft Graph indexing API to create a connection to the Microsoft Search service and index custom items.
 - [microsoftgraph/msgraph-training-restapi](https://github.com/microsoftgraph/msgraph-training-restapi) topic: pushed_at:2020-07 star:0.0k fork:0.0k [ARCHIVED] Microsoft Graph Training Module - REST API calls
 - [microsoftgraph/OpenAPI.NET.OData](https://github.com/microsoftgraph/OpenAPI.NET.OData) topic: pushed_at:2020-11 star:0.0k fork:0.0k Generates OpenAPI document from OData CSDL
-- [microsoftgraph/universalprint-samples](https://github.com/microsoftgraph/universalprint-samples) topic: pushed_at:2022-09 star:0.0k fork:0.0k This repo contains code samples that demonstrate how to build applications that integrate with and extend Universal Print.
+- [microsoftgraph/universalprint-samples](https://github.com/microsoftgraph/universalprint-samples) topic: pushed_at:2022-11 star:0.0k fork:0.0k This repo contains code samples that demonstrate how to build applications that integrate with and extend Universal Print.
 - [microsoftgraph/uwp-csharp-connect-rest-sample](https://github.com/microsoftgraph/uwp-csharp-connect-rest-sample) topic: pushed_at:2019-01 star:0.0k fork:0.0k [ARCHIVED] This sample shows how to connect your Windows 10 universal app to Office 365 using Microsoft Graph to send an email.
 - [microsoftgraph/uwp-csharp-connect-sample](https://github.com/microsoftgraph/uwp-csharp-connect-sample) topic: pushed_at:2019-01 star:0.0k fork:0.0k [ARCHIVED] This sample shows how to connect your Windows 10 Universal app to Office 365 using the Microsoft Graph .NET client library to send an email.
 - [microsoftgraph/uwp-csharp-controls-sample](https://github.com/microsoftgraph/uwp-csharp-controls-sample) topic: pushed_at:2020-05 star:0.0k fork:0.0k 
@@ -105,7 +105,7 @@
 - [microsoftgraph/meetings-capture-sample](https://github.com/microsoftgraph/meetings-capture-sample) topic: pushed_at:2022-09 star:0.0k fork:0.0k A Microsoft Teams solution that helps teams capture meeting minute notes inside individual channels
 - [microsoftgraph/msgraph-sample-blazor-clientside](https://github.com/microsoftgraph/msgraph-sample-blazor-clientside) topic:blazor,microsoft-graph pushed_at:2022-11 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Blazor WebAssembly apps.
 - [microsoftgraph/msgraph-sample-teamsapp-dotnet](https://github.com/microsoftgraph/msgraph-sample-teamsapp-dotnet) topic:microsoft-graph,microsoft-teams pushed_at:2022-11 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Microsoft Teams apps.
-- [microsoftgraph/nodejs-security-sample](https://github.com/microsoftgraph/nodejs-security-sample) topic: pushed_at:2022-10 star:0.0k fork:0.0k This sample shows how to connect a Node.js app to a Microsoft work or school (Azure Active Directory) or personal (Microsoft) account using the Microsoft Graph API and the Graph JavaScript SDK to retrieve security Alerts, and Update an Alert.
+- [microsoftgraph/nodejs-security-sample](https://github.com/microsoftgraph/nodejs-security-sample) topic: pushed_at:2022-11 star:0.0k fork:0.0k This sample shows how to connect a Node.js app to a Microsoft work or school (Azure Active Directory) or personal (Microsoft) account using the Microsoft Graph API and the Graph JavaScript SDK to retrieve security Alerts, and Update an Alert.
 - [microsoftgraph/python-security-rest-sample](https://github.com/microsoftgraph/python-security-rest-sample) topic: pushed_at:2022-10 star:0.1k fork:0.0k This sample shows how to connect your Python web app to the Security API using Microsoft Graph. 
 
 ## Java
@@ -277,7 +277,7 @@
 - [microsoftgraph/contoso-foods](https://github.com/microsoftgraph/contoso-foods) topic: pushed_at:2022-07 star:0.0k fork:0.0k A sample grocery shopping experience powered by the Microsoft Graph Toolkit
 - [microsoftgraph/eol-blocker](https://github.com/microsoftgraph/eol-blocker) topic: pushed_at:2022-11 star:0.0k fork:0.0k This GitHub action blocks pull requests that contain improper line-endings
 - [microsoftgraph/get-app-token](https://github.com/microsoftgraph/get-app-token) topic: pushed_at:2022-11 star:0.0k fork:0.0k This GitHub Action retrieves a GitHub App installation token for use in workflows
-- [microsoftgraph/meeting-moderator-sample](https://github.com/microsoftgraph/meeting-moderator-sample) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
+- [microsoftgraph/meeting-moderator-sample](https://github.com/microsoftgraph/meeting-moderator-sample) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [microsoftgraph/mgt-react-codetour](https://github.com/microsoftgraph/mgt-react-codetour) topic:microsoft-365,microsoft-graph,microsoft-graph-toolkit,react pushed_at:2022-09 star:0.0k fork:0.0k Interactive tour to help you build your first React app using Microsoft Graph Toolkit
 - [microsoftgraph/microsoft-graph-explorer](https://github.com/microsoftgraph/microsoft-graph-explorer) topic:microsoft-graph,microsoft-graph-api,office365 pushed_at:2020-05 star:0.1k fork:0.1k We've moved! You can contribute to our new repository here
 - [microsoftgraph/microsoft-graph-explorer-v4](https://github.com/microsoftgraph/microsoft-graph-explorer-v4) topic:microsoft-graph,microsoft-graph-api,office-365,office-ui-fabric,react-redux pushed_at:2022-11 star:0.1k fork:0.1k React/Redux version of Graph Explorer used to learn the Microsoft Graph Api
@@ -293,7 +293,7 @@
 
 ## XSLT
 
-- [microsoftgraph/msgraph-metadata](https://github.com/microsoftgraph/msgraph-metadata) topic: pushed_at:2022-11 star:0.1k fork:0.0k Metadata captured and used for generating client library code files.
+- [microsoftgraph/msgraph-metadata](https://github.com/microsoftgraph/msgraph-metadata) topic:azure-active-directory,exchange,kiota-index,microsoft-graph,office365,onedrive,onenote,outlook,planner,sharepoint,teams,todo pushed_at:2022-11 star:0.1k fork:0.0k Microsoft Graph metadata captured and used for generating client library code files.
 
 
 ## License

@@ -15,12 +15,12 @@
 - [Java](#java) (8)
 - [JavaScript](#javascript) (6)
 - [OCaml](#ocaml) (1)
-- [Others](#others) (16)
+- [Others](#others) (15)
 - [PHP](#php) (1)
 - [Protocol Buffer](#protocol-buffer) (1)
 - [Python](#python) (15)
 - [Ruby](#ruby) (7)
-- [Rust](#rust) (5)
+- [Rust](#rust) (6)
 - [Scala](#scala) (1)
 - [Shell](#shell) (9)
 - [TLA](#tla) (1)
@@ -88,7 +88,7 @@
 - [pingcap/parser](https://github.com/pingcap/parser) topic: pushed_at:2022-08 star:1.3k fork:0.5k A MySQL Compatible SQL Parser
 - [pingcap/public_bi_benchmark](https://github.com/pingcap/public_bi_benchmark) topic: pushed_at:2022-04 star:0.0k fork:0.0k BI benchmark with user generated data and queries
 - [pingcap/sysutil](https://github.com/pingcap/sysutil) topic: pushed_at:2022-06 star:0.0k fork:0.0k sysutil is a library which implementats the gRPC service Diagnostics and shares the diagnostics functions between TiDB and PD.
-- [pingcap/tidb](https://github.com/pingcap/tidb) topic:cloud-native,database,distributed-database,distributed-transactions,go,hacktoberfest,htap,mysql,mysql-compatibility,scale,serverless,sql,tidb pushed_at:2022-11 star:32.8k fork:5.3k TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
+- [pingcap/tidb](https://github.com/pingcap/tidb) topic:cloud-native,database,distributed-database,distributed-transactions,go,hacktoberfest,htap,mysql,mysql-compatibility,scale,serverless,sql,tidb pushed_at:2022-11 star:32.9k fork:5.3k TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
 - [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) topic: pushed_at:2022-11 star:0.3k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
 - [pingcap/tidb-cloud-backup](https://github.com/pingcap/tidb-cloud-backup) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
 - [pingcap/tidb-ctl](https://github.com/pingcap/tidb-ctl) topic: pushed_at:2022-03 star:0.0k fork:0.0k TiDB Controller
@@ -141,7 +141,6 @@
 - [pingcap/balsa](https://github.com/pingcap/balsa) topic: pushed_at:2022-06 star:0.0k fork:0.0k Balsa is a learned SQL query optimizer. It tailor optimizes your SQL queries to find the best execution plans for your hardware and engine.
 - [pingcap/blog-jp](https://github.com/pingcap/blog-jp) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
 - [pingcap/community](https://github.com/pingcap/community) topic: pushed_at:2022-11 star:0.2k fork:0.1k TiDB community content
-- [pingcap/etcd-client](https://github.com/pingcap/etcd-client) topic: pushed_at:2022-11 star:0.0k fork:0.0k An etcd v3 API client
 - [pingcap/hibernate-tidb](https://github.com/pingcap/hibernate-tidb) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [pingcap/logo](https://github.com/pingcap/logo) topic: pushed_at:2018-09 star:0.0k fork:0.0k logo for PingCAP
 - [pingcap/meetup](https://github.com/pingcap/meetup) topic: pushed_at:2020-08 star:0.0k fork:0.0k 
@@ -192,10 +191,11 @@
 
 ## Rust
 
+- [pingcap/etcd-client](https://github.com/pingcap/etcd-client) topic: pushed_at:2022-11 star:0.0k fork:0.0k An etcd v3 API client
 - [pingcap/grpc-rust](https://github.com/pingcap/grpc-rust) topic: pushed_at:2017-05 star:0.0k fork:0.0k Rust implementation of gRPC (not ready yet)
 - [pingcap/murmur3](https://github.com/pingcap/murmur3) topic: pushed_at:2018-03 star:0.0k fork:0.0k A rust implementation of murmur3
 - [pingcap/rust-protobuf](https://github.com/pingcap/rust-protobuf) topic: pushed_at:2022-10 star:0.0k fork:0.0k Rust implementation of Google protocol buffers
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) topic:distributed-database,distributed-systems,golang,open-source,pingcap,rust,talent-plan pushed_at:2022-09 star:8.2k fork:1.1k open source training courses about distributed database and distributed systems
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) topic:distributed-database,distributed-systems,golang,open-source,pingcap,rust,talent-plan pushed_at:2022-11 star:8.2k fork:1.1k open source training courses about distributed database and distributed systems
 - [pingcap/tidb-engine-ext](https://github.com/pingcap/tidb-engine-ext) topic: pushed_at:2022-11 star:0.0k fork:0.0k A TiKV based `c dynamic library` for extending storage system in TiDB cluster
 
 ## Scala

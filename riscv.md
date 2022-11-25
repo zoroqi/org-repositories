@@ -69,7 +69,7 @@
 ## Python
 
 - [riscv/configuration-structure](https://github.com/riscv/configuration-structure) topic: pushed_at:2022-11 star:0.0k fork:0.0k RISC-V Configuration Structure
-- [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) topic: pushed_at:2022-10 star:0.1k fork:0.0k 
+- [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) topic: pushed_at:2022-11 star:0.1k fork:0.0k 
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) topic: pushed_at:2022-11 star:0.4k fork:0.2k RISC-V Opcodes
 
 ## TeX

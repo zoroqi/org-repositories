@@ -98,7 +98,7 @@
 ## Others
 
 - [EFForg/actioncenter-feedback](https://github.com/EFForg/actioncenter-feedback) topic: pushed_at:2014-06 star:0.0k fork:0.0k Repo for getting feedback on the new actioncenter
-- [EFForg/apkeep-files](https://github.com/EFForg/apkeep-files) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
+- [EFForg/apkeep-files](https://github.com/EFForg/apkeep-files) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [EFForg/battleforthenet-widget](https://github.com/EFForg/battleforthenet-widget) topic: pushed_at:2014-09 star:0.0k fork:0.0k Embed this widget on your site and help save net neutrality!
 - [EFForg/congress-pics](https://github.com/EFForg/congress-pics) topic: pushed_at:2014-08 star:0.0k fork:0.0k Generate dynamic images for members of congress
 - [EFForg/design](https://github.com/EFForg/design) topic: pushed_at:2022-03 star:0.0k fork:0.0k Open Source product design resources
@@ -156,9 +156,9 @@
 
 ## Rust
 
-- [EFForg/apkeep](https://github.com/EFForg/apkeep) topic: pushed_at:2022-11 star:0.5k fork:0.0k 
+- [EFForg/apkeep](https://github.com/EFForg/apkeep) topic: pushed_at:2022-11 star:0.6k fork:0.0k 
 - [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) topic: pushed_at:2022-11 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
-- [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) topic: pushed_at:2022-09 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
+- [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) topic: pushed_at:2022-11 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) topic: pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 - [EFForg/https-everywhere-rust-test-implementation](https://github.com/EFForg/https-everywhere-rust-test-implementation) topic: pushed_at:2020-04 star:0.0k fork:0.0k 
 - [EFForg/rs-google-play](https://github.com/EFForg/rs-google-play) topic: pushed_at:2022-11 star:0.0k fork:0.0k Google Play API for Rust

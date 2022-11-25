@@ -183,7 +183,7 @@
 - [opencollective/Django-CRM](https://github.com/opencollective/Django-CRM) topic: pushed_at:2019-02 star:0.0k fork:0.0k Open Source Python CRM based on Django
 - [opencollective/fotorama](https://github.com/opencollective/fotorama) topic: pushed_at:2019-02 star:0.0k fork:0.0k A simple, stunning, powerful jQuery gallery.
 - [opencollective/foundation-website-2020](https://github.com/opencollective/foundation-website-2020) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
-- [opencollective/graphql-docs-v2](https://github.com/opencollective/graphql-docs-v2) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
+- [opencollective/graphql-docs-v2](https://github.com/opencollective/graphql-docs-v2) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [opencollective/Hyphenopoly](https://github.com/opencollective/Hyphenopoly) topic: pushed_at:2019-03 star:0.0k fork:0.0k Hyphenation for node and Polyfill for client-side hyphenation.
 - [opencollective/mobileapp-design](https://github.com/opencollective/mobileapp-design) topic: pushed_at:2016-01 star:0.0k fork:0.0k All the screens and flows for the openCollective mobile app
 - [opencollective/modular-admin-html](https://github.com/opencollective/modular-admin-html) topic: pushed_at:2017-05 star:0.0k fork:0.0k Modular Admin - Free Dashboard Theme Built On Bootstrap 4 | HTML Version
@@ -270,7 +270,7 @@
 - [opencollective/code-surfer](https://github.com/opencollective/code-surfer) topic: pushed_at:2019-09 star:0.0k fork:0.0k Rad code slides <🏄/>
 - [opencollective/codecrumbs](https://github.com/opencollective/codecrumbs) topic: pushed_at:2019-03 star:0.0k fork:0.0k Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.
 - [opencollective/coderplanets_web](https://github.com/opencollective/coderplanets_web) topic: pushed_at:2019-07 star:0.0k fork:0.0k the most sexiest community for developers,  build with React, Mobx/MST, GraphQL, Styled-Components,  Rxjs, Ramda ... and ❤️
-- [opencollective/contributors-svg](https://github.com/opencollective/contributors-svg) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
+- [opencollective/contributors-svg](https://github.com/opencollective/contributors-svg) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [opencollective/core](https://github.com/opencollective/core) topic: pushed_at:2017-07 star:0.0k fork:0.0k Agnostic Virtual Assistant
 - [opencollective/core-js](https://github.com/opencollective/core-js) topic: pushed_at:2019-04 star:0.0k fork:0.0k Standard Library
 - [opencollective/country-currency-emoji-flags](https://github.com/opencollective/country-currency-emoji-flags) topic: pushed_at:2022-06 star:0.0k fork:0.0k Returns Country Flag Emojis Given the Country or Currency Codes
@@ -357,9 +357,9 @@
 - [opencollective/numbro](https://github.com/opencollective/numbro) topic: pushed_at:2016-06 star:0.0k fork:0.0k A JS library for number formatting
 - [opencollective/nuxt.js](https://github.com/opencollective/nuxt.js) topic: pushed_at:2017-05 star:0.0k fork:0.0k Framework for server-rendered Vue.js applications.
 - [opencollective/officegen](https://github.com/opencollective/officegen) topic: pushed_at:2019-04 star:0.0k fork:0.0k Standalone Office Open XML files (Microsoft Office 2007 and later) generator for Word (docx), PowerPoint (pptx) and Excell (xlsx) in javascript. The output is a stream.
-- [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) topic:graphql,nodejs,opencollective,postgres pushed_at:2022-11 star:0.3k fork:0.2k Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
+- [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) topic:graphql,nodejs,opencollective,postgres pushed_at:2022-11 star:0.3k fork:0.3k Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
 - [opencollective/opencollective-app](https://github.com/opencollective/opencollective-app) topic: pushed_at:2018-05 star:0.0k fork:0.0k OpenCollective App - used to manage budgets and approve expenses
-- [opencollective/opencollective-changelog](https://github.com/opencollective/opencollective-changelog) topic:changelog,opencollective pushed_at:2022-09 star:0.0k fork:0.0k Tracking weekly changes
+- [opencollective/opencollective-changelog](https://github.com/opencollective/opencollective-changelog) topic:changelog,opencollective pushed_at:2022-11 star:0.0k fork:0.0k Tracking weekly changes
 - [opencollective/opencollective-cli](https://github.com/opencollective/opencollective-cli) topic: pushed_at:2021-08 star:0.0k fork:0.0k Command Line Interface for Open Collective
 - [opencollective/opencollective-email](https://github.com/opencollective/opencollective-email) topic: pushed_at:2019-01 star:0.0k fork:0.0k The email service for transparent and inclusive open collectives
 - [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) topic: pushed_at:2022-11 star:0.0k fork:0.0k The new Open Collective email service, powered by Eymail
