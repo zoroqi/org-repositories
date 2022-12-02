@@ -30,24 +30,24 @@
 ## C
 
 - [ARM-software/AArch64cryptolib](https://github.com/ARM-software/AArch64cryptolib) topic: pushed_at:2022-08 star:0.0k fork:0.0k AArch64cryptolib is a from scratch implementation of cryptographic primitives aiming for optimal performance on Arm A-class cores
-- [ARM-software/Arm-2D](https://github.com/ARM-software/Arm-2D) topic: pushed_at:2022-11 star:0.1k fork:0.0k 2D Graphic Library optimized for Cortex-M processors
+- [ARM-software/Arm-2D](https://github.com/ARM-software/Arm-2D) topic: pushed_at:2022-12 star:0.1k fork:0.0k 2D Graphic Library optimized for Cortex-M processors
 - [ARM-software/arm-enterprise-acs](https://github.com/ARM-software/arm-enterprise-acs) topic: pushed_at:2022-06 star:0.0k fork:0.1k ARM Enterprise ACS
 - [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) topic: pushed_at:2022-11 star:1.5k fork:1.1k Read-only mirror of Trusted Firmware-A
-- [ARM-software/astc-encoder](https://github.com/ARM-software/astc-encoder) topic:astc,astcenc,compression,image-compression pushed_at:2022-11 star:0.7k fork:0.2k The Arm ASTC Encoder, a compressor for the Adaptive Scalable Texture Compression data format.
+- [ARM-software/astc-encoder](https://github.com/ARM-software/astc-encoder) topic:astc,astcenc,compression,image-compression pushed_at:2022-12 star:0.7k fork:0.2k The Arm ASTC Encoder, a compressor for the Adaptive Scalable Texture Compression data format.
 - [ARM-software/avh-api](https://github.com/ARM-software/avh-api) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [ARM-software/AVH-AWS_MQTT_Demo](https://github.com/ARM-software/AVH-AWS_MQTT_Demo) topic: pushed_at:2022-08 star:0.0k fork:0.0k Implements an IoT application that connects to AWS cloud services, and with Continuous Integration (CI) tests performed on Arm Virtual Hardware.
-- [ARM-software/AVH-GetStarted](https://github.com/ARM-software/AVH-GetStarted) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
+- [ARM-software/AVH-GetStarted](https://github.com/ARM-software/AVH-GetStarted) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [ARM-software/AVH-SystemModeling](https://github.com/ARM-software/AVH-SystemModeling) topic: pushed_at:2022-08 star:0.0k fork:0.0k Example Software Applications using Virtual Hardware (AVH).
 - [ARM-software/AVH-TFLmicrospeech](https://github.com/ARM-software/AVH-TFLmicrospeech) topic: pushed_at:2022-11 star:0.0k fork:0.0k Example: Micro speech for TensorFlow Lite
 - [ARM-software/B-U585I-IOT02A-avh-demo](https://github.com/ARM-software/B-U585I-IOT02A-avh-demo) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
-- [ARM-software/bbr-acs](https://github.com/ARM-software/bbr-acs) topic: pushed_at:2022-11 star:0.0k fork:0.0k Arm SystemReady : BBR Compliance Suite
+- [ARM-software/bbr-acs](https://github.com/ARM-software/bbr-acs) topic: pushed_at:2022-12 star:0.0k fork:0.0k Arm SystemReady : BBR Compliance Suite
 - [ARM-software/bento-linker](https://github.com/ARM-software/bento-linker) topic:experimental,microcontroller pushed_at:2021-01 star:0.0k fork:0.0k A light-weight alternative to processes for microcontrollers.
 - [ARM-software/bsa-acs](https://github.com/ARM-software/bsa-acs) topic: pushed_at:2022-11 star:0.0k fork:0.0k Arm SystemReady : BSA Architecture Compliance Suite
 - [ARM-software/CMSIS](https://github.com/ARM-software/CMSIS) topic: pushed_at:2018-10 star:0.4k fork:0.4k Cortex Microcontroller Software Interface Standard
 - [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) topic: pushed_at:2022-11 star:0.1k fork:0.1k Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
 - [ARM-software/CMSIS-Driver_Validation](https://github.com/ARM-software/CMSIS-Driver_Validation) topic: pushed_at:2022-11 star:0.0k fork:0.0k Repository containing validation components for microcontroller peripheral driver implementing the CMSIS-Driver API specification.
 - [ARM-software/CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) topic:cortex-a,cortex-m,dsp,embedded,fft,filter,fixed-point-arithmetic,matrix,ml,numpy pushed_at:2022-11 star:0.1k fork:0.0k CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
-- [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) topic: pushed_at:2022-11 star:0.4k fork:0.1k FreeRTOS adaptation for CMSIS-RTOS Version 2
+- [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) topic: pushed_at:2022-12 star:0.4k fork:0.1k FreeRTOS adaptation for CMSIS-RTOS Version 2
 - [ARM-software/CMSIS-mbedTLS](https://github.com/ARM-software/CMSIS-mbedTLS) topic: pushed_at:2022-08 star:0.0k fork:0.0k CMSIS Pack for the mbedTLS software stack
 - [ARM-software/CMSIS-Musca-S1](https://github.com/ARM-software/CMSIS-Musca-S1) topic: pushed_at:2021-10 star:0.0k fork:0.0k Repository of CMSIS Software Pack for Musca-S1 test-chip and board.
 - [ARM-software/CMSIS-NN](https://github.com/ARM-software/CMSIS-NN) topic: pushed_at:2022-11 star:0.0k fork:0.0k CMSIS-NN Library
@@ -95,18 +95,18 @@
 ## C++
 
 - [ARM-software/android-nn-driver](https://github.com/ARM-software/android-nn-driver) topic: pushed_at:2022-11 star:0.1k fork:0.1k 
-- [ARM-software/armnn](https://github.com/ARM-software/armnn) topic:machine-learning,neural-network,neural-networks pushed_at:2022-11 star:0.9k fork:0.3k Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
+- [ARM-software/armnn](https://github.com/ARM-software/armnn) topic:machine-learning,neural-network,neural-networks pushed_at:2022-12 star:0.9k fork:0.3k Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
 - [ARM-software/armnn-mlperf](https://github.com/ARM-software/armnn-mlperf) topic: pushed_at:2022-01 star:0.0k fork:0.0k Arm mlperf.org benchmark port
 - [ARM-software/ATP-Engine](https://github.com/ARM-software/ATP-Engine) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
 - [ARM-software/BarrierPoint](https://github.com/ARM-software/BarrierPoint) topic: pushed_at:2020-05 star:0.0k fork:0.0k 
-- [ARM-software/caiman](https://github.com/ARM-software/caiman) topic: pushed_at:2022-06 star:0.0k fork:0.0k Sources for Arm Streamline's caiman daemon
-- [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) topic:aarch64,android,arm,armv7,armv8,computer-vision,cpp,linux,machine-learning,neon,neural-network,opencl,simd,sve pushed_at:2022-08 star:2.3k fork:0.7k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
-- [ARM-software/connectedhomeip](https://github.com/ARM-software/connectedhomeip) topic: pushed_at:2022-11 star:0.0k fork:0.0k Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).
+- [ARM-software/caiman](https://github.com/ARM-software/caiman) topic: pushed_at:2022-12 star:0.0k fork:0.0k Sources for Arm Streamline's caiman daemon
+- [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) topic:aarch64,android,arm,armv7,armv8,computer-vision,cpp,linux,machine-learning,neon,neural-network,opencl,simd,sve pushed_at:2022-11 star:2.3k fork:0.7k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
+- [ARM-software/connectedhomeip](https://github.com/ARM-software/connectedhomeip) topic: pushed_at:2022-12 star:0.0k fork:0.0k Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).
 - [ARM-software/developer](https://github.com/ARM-software/developer) topic: pushed_at:2021-10 star:0.1k fork:0.0k GTM related documentation
-- [ARM-software/devtools](https://github.com/ARM-software/devtools) topic: pushed_at:2022-11 star:0.0k fork:0.0k Open-CMSIS-Pack development tools - C++ 
+- [ARM-software/devtools](https://github.com/ARM-software/devtools) topic: pushed_at:2022-12 star:0.0k fork:0.0k Open-CMSIS-Pack development tools - C++ 
 - [ARM-software/drm-hwcomposer](https://github.com/ARM-software/drm-hwcomposer) topic: pushed_at:2021-11 star:0.0k fork:0.0k Clone of the drm-hwcomposer from freedesktop.org plus patches from Mali DP team
-- [ARM-software/ethos-n-driver-stack](https://github.com/ARM-software/ethos-n-driver-stack) topic: pushed_at:2022-10 star:0.0k fork:0.0k Driver stack (including user space libraries, kernel module and firmware) for the Arm® Ethos™-N NPU
-- [ARM-software/gator](https://github.com/ARM-software/gator) topic: pushed_at:2022-10 star:0.1k fork:0.1k Sources for Arm Streamline's gator daemon
+- [ARM-software/ethos-n-driver-stack](https://github.com/ARM-software/ethos-n-driver-stack) topic: pushed_at:2022-11 star:0.0k fork:0.0k Driver stack (including user space libraries, kernel module and firmware) for the Arm® Ethos™-N NPU
+- [ARM-software/gator](https://github.com/ARM-software/gator) topic: pushed_at:2022-12 star:0.1k fork:0.1k Sources for Arm Streamline's gator daemon
 - [ARM-software/HPCG_for_Arm](https://github.com/ARM-software/HPCG_for_Arm) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [ARM-software/HWCPipe](https://github.com/ARM-software/HWCPipe) topic: pushed_at:2022-04 star:0.1k fork:0.0k Hardware counters interface
 - [ARM-software/ktx-creator](https://github.com/ARM-software/ktx-creator) topic: pushed_at:2022-01 star:0.0k fork:0.0k [Deprecated use toktx from khronos instead] Use this to create ASTC KTX files
@@ -148,12 +148,12 @@
 ## Go
 
 - [ARM-software/bob-build](https://github.com/ARM-software/bob-build) topic:build-system,build-tool,build-tool-android,build-tool-linux,ninja-build pushed_at:2022-11 star:0.0k fork:0.0k Meta-build system using Blueprint and ninja
-- [ARM-software/CMSIS-View](https://github.com/ARM-software/CMSIS-View) topic: pushed_at:2022-11 star:0.0k fork:0.0k Repository of CMSIS Software Pack for software event generation and input/output handling.
-- [ARM-software/golang-utils](https://github.com/ARM-software/golang-utils) topic:golang,golang-library,golang-module,helpers,utilities pushed_at:2022-11 star:0.0k fork:0.0k Helpers and utilities for Golang in order to do actions not available in the standard library.
+- [ARM-software/CMSIS-View](https://github.com/ARM-software/CMSIS-View) topic: pushed_at:2022-12 star:0.0k fork:0.0k Repository of CMSIS Software Pack for software event generation and input/output handling.
+- [ARM-software/golang-utils](https://github.com/ARM-software/golang-utils) topic:golang,golang-library,golang-module,helpers,utilities pushed_at:2022-12 star:0.0k fork:0.0k Helpers and utilities for Golang in order to do actions not available in the standard library.
 
 ## HTML
 
-- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) topic: pushed_at:2022-11 star:0.5k fork:0.1k Application Binary Interface for the Arm® Architecture
+- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) topic: pushed_at:2022-12 star:0.5k fork:0.1k Application Binary Interface for the Arm® Architecture
 - [ARM-software/coresight-wire-protocol](https://github.com/ARM-software/coresight-wire-protocol) topic: pushed_at:2022-09 star:0.0k fork:0.0k Coresight Wire Protocol (CSWP) Server/Client and streaming trace examples.
 
 ## Java
@@ -164,7 +164,7 @@
 
 - [ARM-software/fast-probabilistic-models](https://github.com/ARM-software/fast-probabilistic-models) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
 - [ARM-software/keyword-transformer](https://github.com/ARM-software/keyword-transformer) topic:keyword-spotting,machine-learning,transformer pushed_at:2022-04 star:0.1k fork:0.0k Official implementation of the Keyword Transformer: https://arxiv.org/abs/2104.00769
-- [ARM-software/lisa](https://github.com/ARM-software/lisa) topic: pushed_at:2022-11 star:0.2k fork:0.1k Linux Integrated System Analysis
+- [ARM-software/lisa](https://github.com/ARM-software/lisa) topic: pushed_at:2022-12 star:0.2k fork:0.1k Linux Integrated System Analysis
 - [ARM-software/mango](https://github.com/ARM-software/mango) topic:bayesian-optimization,blackbox-optimization,cluster-deployment,gaussian-processes,hyperparameter-optimization,hyperparameter-tuning,keras-examples,kubernetes-deployment,machine-learning,neural-network,neural-networks,parallel-computing,production-system,pytorch-compatible,scipy-compatible,sklearn-compatible,tensorflow-examples,tuning-parameters pushed_at:2022-11 star:0.2k fork:0.0k Parallel Hyperparameter Tuning in Python
 - [ARM-software/ML-zoo](https://github.com/ARM-software/ML-zoo) topic: pushed_at:2022-11 star:0.1k fork:0.0k 
 
