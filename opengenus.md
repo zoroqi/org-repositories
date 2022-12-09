@@ -21,7 +21,7 @@
 
 ## C++
 
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) topic:algorithm,datastructures,hacktoberfest,hacktoberfest-accepted,hacktoberfest2021,hacktoberfest2022,internship,internships,interview-questions,library,offline-app,opengenus,search-algorithms,sorting-algorithms pushed_at:2022-11 star:13.3k fork:3.6k Hacktoberfest 2022 | World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) topic:algorithm,datastructures,hacktoberfest,hacktoberfest-accepted,hacktoberfest2021,hacktoberfest2022,internship,internships,interview-questions,library,offline-app,opengenus,search-algorithms,sorting-algorithms pushed_at:2022-12 star:13.3k fork:3.6k Hacktoberfest 2022 | World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) topic:code-search,hacktoberfest,hacktoberfest2021,javascript,offline,opengenus,search-engine pushed_at:2022-10 star:0.6k fork:0.1k Stay happy while offline | World's first offline search engine. 
 
 ## CSS
@@ -34,11 +34,11 @@
 
 ## HTML
 
-- [OpenGenus/checklist](https://github.com/OpenGenus/checklist) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
+- [OpenGenus/checklist](https://github.com/OpenGenus/checklist) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [OpenGenus/clipboard_html](https://github.com/OpenGenus/clipboard_html) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/collaboration](https://github.com/OpenGenus/collaboration) topic: pushed_at:2018-06 star:0.0k fork:0.0k 
 - [OpenGenus/cookies](https://github.com/OpenGenus/cookies) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
-- [OpenGenus/cosmos-search](https://github.com/OpenGenus/cosmos-search) topic:cosmos,django,hacktoberfest,hacktoberfest2021,opengenus,python,search-engine pushed_at:2021-06 star:0.1k fork:0.1k :seedling: The next generation unbiased real-time privacy and user focused code search engine for everyone; Join us at https://discourse.opengenus.org/ 
+- [OpenGenus/cosmos-search](https://github.com/OpenGenus/cosmos-search) topic:cosmos,django,hacktoberfest,hacktoberfest2021,opengenus,python,search-engine pushed_at:2022-12 star:0.1k fork:0.1k :seedling: The next generation unbiased real-time privacy and user focused code search engine for everyone; Join us at https://discourse.opengenus.org/ 
 - [OpenGenus/drag_and_drop](https://github.com/OpenGenus/drag_and_drop) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
 - [OpenGenus/extension](https://github.com/OpenGenus/extension) topic: pushed_at:2018-10 star:0.0k fork:0.0k 
 - [OpenGenus/feedback-web](https://github.com/OpenGenus/feedback-web) topic:feedback,opengenus,webapp pushed_at:2017-09 star:0.0k fork:0.0k Places to get valuable feedback for your every awesome work
@@ -52,7 +52,7 @@
 - [OpenGenus/radio-air](https://github.com/OpenGenus/radio-air) topic: pushed_at:2018-12 star:0.0k fork:0.0k 
 - [OpenGenus/random](https://github.com/OpenGenus/random) topic:javascript,opengenus,opengenus-internship,random pushed_at:2022-01 star:0.0k fork:0.0k Randomly redirects to an OpenGenus article
 - [OpenGenus/session_storage](https://github.com/OpenGenus/session_storage) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
-- [OpenGenus/tool](https://github.com/OpenGenus/tool) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
+- [OpenGenus/tool](https://github.com/OpenGenus/tool) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [OpenGenus/visual](https://github.com/OpenGenus/visual) topic:algorithm,opengenus,opengenus-internship,visualization pushed_at:2022-02 star:0.0k fork:0.0k "OpenGenus Visual" project
 - [OpenGenus/web](https://github.com/OpenGenus/web) topic: pushed_at:2018-07 star:0.0k fork:0.0k 
 
@@ -72,15 +72,15 @@
 - [OpenGenus/iq](https://github.com/OpenGenus/iq) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [OpenGenus/minesweeper-js](https://github.com/OpenGenus/minesweeper-js) topic: pushed_at:2020-07 star:0.0k fork:0.0k 
 - [OpenGenus/nasa-api](https://github.com/OpenGenus/nasa-api) topic: pushed_at:2020-01 star:0.0k fork:0.0k 
-- [OpenGenus/online-compiler](https://github.com/OpenGenus/online-compiler) topic:compiler,internship,internship-task,javascript,nodejs,online-compiler,online-judge,opengenus,opengenus-internship pushed_at:2020-04 star:0.0k fork:0.0k Online compiler in Node.JS (by OpenGenus intern Prateek Sharma 😃) 
+- [OpenGenus/online-compiler](https://github.com/OpenGenus/online-compiler) topic:compiler,internship,internship-task,javascript,nodejs,online-compiler,online-judge,opengenus,opengenus-internship pushed_at:2022-12 star:0.0k fork:0.0k Online compiler in Node.JS (by OpenGenus intern Prateek Sharma 😃) 
 - [OpenGenus/piano](https://github.com/OpenGenus/piano) topic: pushed_at:2019-01 star:0.0k fork:0.0k 
 - [OpenGenus/radio](https://github.com/OpenGenus/radio) topic: pushed_at:2019-02 star:0.0k fork:0.0k 
 - [OpenGenus/reddit-api](https://github.com/OpenGenus/reddit-api) topic: pushed_at:2019-11 star:0.0k fork:0.0k 
 - [OpenGenus/rikimaru](https://github.com/OpenGenus/rikimaru) topic:cosmos,github-api,javascript,opengenus,vscode,vscode-extension pushed_at:2017-11 star:0.0k fork:0.0k A VS-Code extension to bring implementation of any algorithm and data-structure in your favorite language
 - [OpenGenus/third-party-cookies](https://github.com/OpenGenus/third-party-cookies) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/typing-speed-js](https://github.com/OpenGenus/typing-speed-js) topic: pushed_at:2020-06 star:0.0k fork:0.0k 
-- [OpenGenus/web_api_nodejs](https://github.com/OpenGenus/web_api_nodejs) topic:nodejs,opengenus,routing,web-api,web-server pushed_at:2019-08 star:0.0k fork:0.0k A basic guide on building a Web API in NodeJS
-- [OpenGenus/word-to-pdf](https://github.com/OpenGenus/word-to-pdf) topic:document-conversion,javascript,nodejs,opengenus,opengenus-internship,pdf,webapp,word,word-to-pdf pushed_at:2022-09 star:0.0k fork:0.0k Node.JS web application to convert an uploaded Word document to a PDF file (available as download for the user) (developed by OpenGenus Intern, Prateek Sharma)
+- [OpenGenus/web_api_nodejs](https://github.com/OpenGenus/web_api_nodejs) topic:nodejs,opengenus,routing,web-api,web-server pushed_at:2022-12 star:0.0k fork:0.0k A basic guide on building a Web API in NodeJS
+- [OpenGenus/word-to-pdf](https://github.com/OpenGenus/word-to-pdf) topic:document-conversion,javascript,nodejs,opengenus,opengenus-internship,pdf,webapp,word,word-to-pdf pushed_at:2022-12 star:0.0k fork:0.0k Node.JS web application to convert an uploaded Word document to a PDF file (available as download for the user) (developed by OpenGenus Intern, Prateek Sharma)
 
 ## Jupyter Notebook
 
@@ -106,7 +106,7 @@
 - [OpenGenus/cpp_compilation](https://github.com/OpenGenus/cpp_compilation) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/cricket_game](https://github.com/OpenGenus/cricket_game) topic: pushed_at:2019-09 star:0.0k fork:0.0k 
 - [OpenGenus/data-store](https://github.com/OpenGenus/data-store) topic:data,opengenus pushed_at:2018-01 star:0.0k fork:0.0k Serving data to other OpenGenus services
-- [OpenGenus/dictionary-in-c](https://github.com/OpenGenus/dictionary-in-c) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
+- [OpenGenus/dictionary-in-c](https://github.com/OpenGenus/dictionary-in-c) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [OpenGenus/discuss](https://github.com/OpenGenus/discuss) topic:discourse,discussion,friend-requests,friends,opengenus pushed_at:2019-10 star:0.0k fork:0.0k Find users to discuss anything and find a new friend
 - [OpenGenus/django_demo](https://github.com/OpenGenus/django_demo) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/Feedback](https://github.com/OpenGenus/Feedback) topic:awesome-list,feedback,opengenus,wiki pushed_at:2017-09 star:0.0k fork:0.0k Places to get valuable feedback for your every awesome work
@@ -161,7 +161,7 @@
 - [OpenGenus/saturn](https://github.com/OpenGenus/saturn) topic: pushed_at:2019-02 star:0.0k fork:0.0k 
 - [OpenGenus/SIFT-Scale-Invariant-Feature-Transform](https://github.com/OpenGenus/SIFT-Scale-Invariant-Feature-Transform) topic: pushed_at:2019-08 star:0.0k fork:0.0k SIFT (Scale Invariant Feature Transform)
 - [OpenGenus/typing-speed-python](https://github.com/OpenGenus/typing-speed-python) topic:console-application,opengenus,python pushed_at:2022-11 star:0.0k fork:0.0k Typing Speed Test in Python (developed by Siri)
-- [OpenGenus/vidsum](https://github.com/OpenGenus/vidsum) topic:opengenus,python,video,video-summarization,youtube pushed_at:2022-11 star:0.2k fork:0.1k Generate summary of any video :tv: anywhere and anytime
+- [OpenGenus/vidsum](https://github.com/OpenGenus/vidsum) topic:opengenus,python,video,video-summarization,youtube pushed_at:2022-12 star:0.2k fork:0.1k Generate summary of any video :tv: anywhere and anytime
 - [OpenGenus/web_text](https://github.com/OpenGenus/web_text) topic: pushed_at:2019-09 star:0.0k fork:0.0k 
 
 ## Shell
