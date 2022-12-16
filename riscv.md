@@ -19,7 +19,7 @@
 ## Assembly
 
 - [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) topic: pushed_at:2022-11 star:0.1k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
-- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) topic: pushed_at:2022-10 star:0.6k fork:0.2k Working draft of the proposed RISC-V V vector extension
+- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) topic: pushed_at:2022-12 star:0.6k fork:0.2k Working draft of the proposed RISC-V V vector extension
 
 ## BitBake
 
@@ -47,7 +47,7 @@
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) topic: pushed_at:2022-12 star:0.1k fork:0.0k Working Draft of the RISC-V J Extension Specification
 - [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) topic: pushed_at:2022-09 star:0.1k fork:0.0k RISC-V Profiles and Platform Specification
 - [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) topic: pushed_at:2022-11 star:0.0k fork:0.0k RISC-V Architecture Profiles
-- [riscv/riscv-semihosting-spec](https://github.com/riscv/riscv-semihosting-spec) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
+- [riscv/riscv-semihosting-spec](https://github.com/riscv/riscv-semihosting-spec) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [riscv/riscv-ssqosid](https://github.com/riscv/riscv-ssqosid) topic: pushed_at:2022-09 star:0.0k fork:0.0k This repo will hold the specification for the proposed QoS ID extension being pursued on the fast-track process.
 - [riscv/riscv-svadu](https://github.com/riscv/riscv-svadu) topic: pushed_at:2022-11 star:0.0k fork:0.0k The Ssadu extension adds support and CSR control for hardware updating of PTE A/D bits.
 - [riscv/riscv-tee](https://github.com/riscv/riscv-tee) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
@@ -63,13 +63,13 @@
 - [riscv/riscv-alt-fp](https://github.com/riscv/riscv-alt-fp) topic: pushed_at:2022-04 star:0.0k fork:0.0k RISC-V Alternate FP Format
 - [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 - [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) topic: pushed_at:2022-09 star:0.1k fork:0.0k RISC-V Packed SIMD Extension
-- [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) topic: pushed_at:2022-11 star:0.1k fork:0.0k PLIC Specification
+- [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) topic: pushed_at:2022-12 star:0.1k fork:0.0k PLIC Specification
 - [riscv/riscv-zfinx](https://github.com/riscv/riscv-zfinx) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [riscv/virtual-memory](https://github.com/riscv/virtual-memory) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 
 ## Python
 
-- [riscv/configuration-structure](https://github.com/riscv/configuration-structure) topic: pushed_at:2022-11 star:0.0k fork:0.0k RISC-V Configuration Structure
+- [riscv/configuration-structure](https://github.com/riscv/configuration-structure) topic: pushed_at:2022-12 star:0.0k fork:0.0k RISC-V Configuration Structure
 - [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) topic: pushed_at:2022-12 star:0.4k fork:0.2k RISC-V Opcodes
 
