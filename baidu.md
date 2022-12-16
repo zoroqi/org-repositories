@@ -41,7 +41,7 @@
 
 ## C++
 
-- [baidu/AnyQ](https://github.com/baidu/AnyQ) topic:dialogue,dialogue-systems,faq,faq-question-answering-system,faq-system,faqbot,qa-system,question-answering,semantic-matching pushed_at:2020-11 star:2.4k fork:0.7k FAQ-based Question Answering System
+- [baidu/AnyQ](https://github.com/baidu/AnyQ) topic:dialogue,dialogue-systems,faq,faq-question-answering-system,faq-system,faqbot,qa-system,question-answering,semantic-matching pushed_at:2020-11 star:2.5k fork:0.7k FAQ-based Question Answering System
 - [baidu/BaikalDB](https://github.com/baidu/BaikalDB) topic:baikaldb,database,htap,mysql,raft,sql pushed_at:2022-12 star:1.0k fork:0.2k BaikalDB, A Distributed HTAP Database.
 - [baidu/bfs](https://github.com/baidu/bfs) topic: pushed_at:2018-12 star:2.8k fork:0.6k The Baidu File System.
 - [baidu/bigflow](https://github.com/baidu/bigflow) topic: pushed_at:2022-10 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
@@ -87,7 +87,7 @@
 - [baidu/GPT](https://github.com/baidu/GPT) topic: pushed_at:2020-04 star:0.1k fork:0.0k 
 - [baidu/iotcore-sdk-java](https://github.com/baidu/iotcore-sdk-java) topic: pushed_at:2022-11 star:0.0k fork:0.0k Java SDK  for baidu IoT Core service 
 - [baidu/ipipe-agent](https://github.com/baidu/ipipe-agent) topic: pushed_at:2020-10 star:0.0k fork:0.0k 
-- [baidu/Jprotobuf-rpc-socket](https://github.com/baidu/Jprotobuf-rpc-socket) topic: pushed_at:2022-11 star:0.5k fork:0.2k Protobuf RPC是一种基于TCP协议的二进制RPC通信协议的Java实现
+- [baidu/Jprotobuf-rpc-socket](https://github.com/baidu/Jprotobuf-rpc-socket) topic: pushed_at:2022-12 star:0.5k fork:0.2k Protobuf RPC是一种基于TCP协议的二进制RPC通信协议的Java实现
 - [baidu/OASP](https://github.com/baidu/OASP) topic: pushed_at:2017-11 star:0.0k fork:0.0k OASP (Online App Status Protocol)
 - [baidu/smartapp-openapi-java](https://github.com/baidu/smartapp-openapi-java) topic: pushed_at:2022-06 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for java，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
 - [baidu/speech-samples](https://github.com/baidu/speech-samples) topic: pushed_at:2018-02 star:0.0k fork:0.0k 百度语音示例
@@ -155,8 +155,8 @@
 - [baidu/information-extraction](https://github.com/baidu/information-extraction) topic: pushed_at:2019-05 star:0.3k fork:0.1k 
 - [baidu/knowledge-driven-dialogue](https://github.com/baidu/knowledge-driven-dialogue) topic: pushed_at:2019-06 star:0.3k fork:0.1k baseline system of knowledge driven dialogue competition
 - [baidu/logcover](https://github.com/baidu/logcover) topic: pushed_at:2017-02 star:0.1k fork:0.0k 轻量级异常日志测试覆盖率度量工具
-- [baidu/QCompute](https://github.com/baidu/QCompute) topic: pushed_at:2022-11 star:0.1k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
-- [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2022-06 star:1.6k fork:0.3k Baidu's open-source Sentiment Analysis System.
+- [baidu/QCompute](https://github.com/baidu/QCompute) topic: pushed_at:2022-12 star:0.1k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
+- [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2022-06 star:1.7k fork:0.3k Baidu's open-source Sentiment Analysis System.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) topic: pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
 
 ## Ruby
@@ -169,7 +169,7 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) topic:frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2022-12 star:12.6k fork:1.8k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) topic:frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2022-12 star:12.7k fork:1.8k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) topic:chrome,chromium,debug,devtools,extension,san pushed_at:2022-11 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) topic:san,ssr,ssr-target-js pushed_at:2022-12 star:0.0k fork:0.0k San SSR framework and utils
 
