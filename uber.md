@@ -166,7 +166,7 @@
 
 - [uber/bayesmark](https://github.com/uber/bayesmark) topic:bayesian-optimization,benchmark-framework,machine-learning,sklearn pushed_at:2021-06 star:0.1k fork:0.0k Benchmark framework to easily compare Bayesian optimization methods on real machine learning tasks
 - [uber/cassette](https://github.com/uber/cassette) topic: pushed_at:2020-10 star:0.1k fork:0.0k Store and replay HTTP requests made in your Python app
-- [uber/causalml](https://github.com/uber/causalml) topic:causal-inference,incubation,machine-learning,uplift-modeling pushed_at:2022-12 star:3.6k fork:0.6k Uplift modeling and causal inference with machine learning algorithms
+- [uber/causalml](https://github.com/uber/causalml) topic:causal-inference,incubation,machine-learning,uplift-modeling pushed_at:2022-12 star:3.7k fork:0.6k Uplift modeling and causal inference with machine learning algorithms
 - [uber/charlatan](https://github.com/uber/charlatan) topic: pushed_at:2019-09 star:0.1k fork:0.0k A Python library to efficiently manage and install database fixtures
 - [uber/clay](https://github.com/uber/clay) topic: pushed_at:2022-01 star:0.4k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [uber/doubles](https://github.com/uber/doubles) topic: pushed_at:2018-10 star:0.2k fork:0.0k Test doubles for Python.
@@ -203,7 +203,7 @@
 
 - [uber/cyborg](https://github.com/uber/cyborg) topic:incubation pushed_at:2020-09 star:0.3k fork:0.0k Display Android Vectordrawables on iOS.
 - [uber/mockolo](https://github.com/uber/mockolo) topic:commandline,efficient,fast,generates-mocks,mock,mockgen,mockgenerator,mocking,mocking-framework,mocking-library,mocking-utility,mocks,performant,protocols,scale,scaleable,subclassing,swift,swiftsyntax,xcode pushed_at:2022-12 star:0.6k fork:0.1k Efficient Mock Generator for Swift
-- [uber/needle](https://github.com/uber/needle) topic: pushed_at:2022-11 star:1.4k fork:0.1k Compile-time safe Swift dependency injection framework
+- [uber/needle](https://github.com/uber/needle) topic: pushed_at:2022-12 star:1.4k fork:0.1k Compile-time safe Swift dependency injection framework
 - [uber/rides-ios-sdk](https://github.com/uber/rides-ios-sdk) topic: pushed_at:2019-11 star:0.3k fork:0.1k Uber Rides iOS SDK (beta)
 - [uber/RxCBCentral](https://github.com/uber/RxCBCentral) topic:ble,bluetooth,bluetooth-low-energy,central,corebluetooth,hacktoberfest,ios,peripherals,rx,rxswift,scans,swift pushed_at:2021-09 star:0.0k fork:0.0k  A reactive, interface-driven central role Bluetooth LE library for iOS
 - [uber/swift-abstract-class](https://github.com/uber/swift-abstract-class) topic: pushed_at:2019-12 star:0.1k fork:0.0k Compile-time abstract class validation for Swift

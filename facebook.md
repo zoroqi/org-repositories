@@ -35,9 +35,9 @@
 - [facebook/openbmc](https://github.com/facebook/openbmc) topic: pushed_at:2022-12 star:0.6k fork:0.3k OpenBMC is an open software framework to build a complete Linux image for a Board Management Controller (BMC).
 - [facebook/openbmc-linux](https://github.com/facebook/openbmc-linux) topic: pushed_at:2022-12 star:0.0k fork:0.0k Linux kernel consumed by OpenBMC
 - [facebook/openbmc-uboot](https://github.com/facebook/openbmc-uboot) topic: pushed_at:2022-12 star:0.0k fork:0.0k Tracking Denx Das u-boot with various trusted computing add-ons.
-- [facebook/tac_plus](https://github.com/facebook/tac_plus) topic: pushed_at:2022-09 star:0.2k fork:0.1k A Tacacs+ Daemon tested on Linux (CentOS) to run AAA via TACACS+ Protocol via IPv4 and IPv6.
+- [facebook/tac_plus](https://github.com/facebook/tac_plus) topic: pushed_at:2022-12 star:0.2k fork:0.1k A Tacacs+ Daemon tested on Linux (CentOS) to run AAA via TACACS+ Protocol via IPv4 and IPv6.
 - [facebook/transform360](https://github.com/facebook/transform360) topic: pushed_at:2021-08 star:1.0k fork:0.2k Transform360 is an equirectangular to cubemap transform for 360 video.
-- [facebook/zstd](https://github.com/facebook/zstd) topic: pushed_at:2022-12 star:18.8k fork:1.8k Zstandard - Fast real-time compression algorithm
+- [facebook/zstd](https://github.com/facebook/zstd) topic: pushed_at:2022-12 star:19.2k fork:1.8k Zstandard - Fast real-time compression algorithm
 
 ## C++
 
@@ -65,12 +65,12 @@
 - [facebook/ThreatExchange](https://github.com/facebook/ThreatExchange) topic: pushed_at:2022-12 star:1.0k fork:0.3k Share threat information with vetted partners
 - [facebook/wangle](https://github.com/facebook/wangle) topic: pushed_at:2022-12 star:2.9k fork:0.5k Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
 - [facebook/watchman](https://github.com/facebook/watchman) topic: pushed_at:2022-12 star:11.4k fork:0.9k Watches files and records, or triggers actions, when they change. 
-- [facebook/wdt](https://github.com/facebook/wdt) topic: pushed_at:2022-09 star:2.7k fork:0.4k Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
+- [facebook/wdt](https://github.com/facebook/wdt) topic: pushed_at:2022-12 star:2.7k fork:0.4k Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
 - [facebook/yoga](https://github.com/facebook/yoga) topic: pushed_at:2022-12 star:15.8k fork:1.3k Yoga is a cross-platform layout engine which implements Flexbox. Follow https://twitter.com/yogalayout for updates.
 
 ## Go
 
-- [facebook/time](https://github.com/facebook/time) topic: pushed_at:2022-11 star:0.4k fork:0.0k Meta's Time libraries
+- [facebook/time](https://github.com/facebook/time) topic: pushed_at:2022-12 star:0.4k fork:0.0k Meta's Time libraries
 
 ## HTML
 
@@ -113,16 +113,16 @@
 - [facebook/idx](https://github.com/facebook/idx) topic: pushed_at:2022-12 star:1.7k fork:0.1k Library for accessing arbitrarily nested, possibly nullable properties on a JavaScript object.
 - [facebook/instant-articles-builder](https://github.com/facebook/instant-articles-builder) topic:editor,facebook,instant-articles pushed_at:2022-12 star:0.1k fork:0.1k Instant Articles Rules Editor
 - [facebook/jscodeshift](https://github.com/facebook/jscodeshift) topic: pushed_at:2022-12 star:8.0k fork:0.5k A JavaScript codemod toolkit.
-- [facebook/lexical](https://github.com/facebook/lexical) topic: pushed_at:2022-12 star:12.5k fork:0.7k Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [facebook/lexical](https://github.com/facebook/lexical) topic: pushed_at:2022-12 star:12.6k fork:0.7k Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [facebook/metro](https://github.com/facebook/metro) topic:bundler,javascript,react-native pushed_at:2022-12 star:4.7k fork:0.6k 🚇 The JavaScript bundler for React Native.
 - [facebook/OSM-HOT-Tasking-Manager](https://github.com/facebook/OSM-HOT-Tasking-Manager) topic: pushed_at:2022-12 star:0.0k fork:0.0k A fork of the HOTOSM Tasking Manager (tasks.hotosm.org) to deploy and test experimental integrations and features.
 - [facebook/prop-types](https://github.com/facebook/prop-types) topic: pushed_at:2022-12 star:4.3k fork:0.4k Runtime type checking for React props and similar objects
-- [facebook/RapiD](https://github.com/facebook/RapiD) topic: pushed_at:2022-12 star:0.2k fork:0.0k An editor for OpenStreetMap for mapping with AI-generated features.
-- [facebook/react](https://github.com/facebook/react) topic:declarative,frontend,javascript,library,react,ui pushed_at:2022-12 star:199.2k fork:41.4k A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [facebook/react-native](https://github.com/facebook/react-native) topic:android,app-framework,cross-platform,ios,mobile,mobile-development,react,react-native pushed_at:2022-12 star:106.5k fork:22.7k A framework for building native applications using React
+- [facebook/RapiD](https://github.com/facebook/RapiD) topic: pushed_at:2022-12 star:0.3k fork:0.0k An editor for OpenStreetMap for mapping with AI-generated features.
+- [facebook/react](https://github.com/facebook/react) topic:declarative,frontend,javascript,library,react,ui pushed_at:2022-12 star:199.5k fork:41.4k A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [facebook/react-native](https://github.com/facebook/react-native) topic:android,app-framework,cross-platform,ios,mobile,mobile-development,react,react-native pushed_at:2022-12 star:106.6k fork:22.7k A framework for building native applications using React
 - [facebook/react-native-deprecated-modules](https://github.com/facebook/react-native-deprecated-modules) topic: pushed_at:2022-12 star:0.0k fork:0.0k Deprecated modules that were formerly part of React Native.
 - [facebook/react-native-website](https://github.com/facebook/react-native-website) topic:docusaurus,react,react-native pushed_at:2022-12 star:1.7k fork:4.1k Configuration and documentation powering the React Native website.
-- [facebook/regenerator](https://github.com/facebook/regenerator) topic: pushed_at:2022-11 star:3.7k fork:1.2k Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
+- [facebook/regenerator](https://github.com/facebook/regenerator) topic: pushed_at:2022-12 star:3.7k fork:1.2k Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
 
 ## Jupyter Notebook
 
@@ -152,7 +152,7 @@
 ## Others
 
 - [facebook/.github](https://github.com/facebook/.github) topic: pushed_at:2022-05 star:0.0k fork:0.1k Default Community health files for Facebook projects
-- [facebook/pyre-action](https://github.com/facebook/pyre-action) topic: pushed_at:2022-11 star:0.0k fork:0.0k GitHub Action for Pyre
+- [facebook/pyre-action](https://github.com/facebook/pyre-action) topic: pushed_at:2022-12 star:0.0k fork:0.0k GitHub Action for Pyre
 - [facebook/pysa-action](https://github.com/facebook/pysa-action) topic: pushed_at:2022-06 star:0.0k fork:0.0k GitHub Action for Pysa
 - [facebook/react-devtools](https://github.com/facebook/react-devtools) topic: pushed_at:2019-09 star:11.0k fork:1.9k An extension that allows inspection of React component hierarchy in the Chrome and Firefox Developer Tools.
 - [facebook/sapp-action](https://github.com/facebook/sapp-action) topic: pushed_at:2022-06 star:0.0k fork:0.0k GitHub Action for SAPP
@@ -161,11 +161,11 @@
 
 - [facebook/facebook-business-sdk-codegen](https://github.com/facebook/facebook-business-sdk-codegen) topic: pushed_at:2022-12 star:0.1k fork:0.1k Codegen project for our business SDKs
 - [facebook/facebook-instant-articles-sdk-php](https://github.com/facebook/facebook-instant-articles-sdk-php) topic: pushed_at:2022-10 star:0.2k fork:0.2k The Facebook Instant Articles SDK for PHP provides a native interface for creating and publishing Instant Articles.
-- [facebook/facebook-php-business-sdk](https://github.com/facebook/facebook-php-business-sdk) topic: pushed_at:2022-11 star:0.7k fork:0.5k An SDK built to facilitate application development for Facebook Ads API.
+- [facebook/facebook-php-business-sdk](https://github.com/facebook/facebook-php-business-sdk) topic: pushed_at:2022-12 star:0.7k fork:0.5k An SDK built to facilitate application development for Facebook Ads API.
 
 ## Python
 
-- [facebook/Ax](https://github.com/facebook/Ax) topic: pushed_at:2022-12 star:1.9k fork:0.2k Adaptive Experimentation Platform
+- [facebook/Ax](https://github.com/facebook/Ax) topic: pushed_at:2022-12 star:2.0k fork:0.2k Adaptive Experimentation Platform
 - [facebook/chisel](https://github.com/facebook/chisel) topic: pushed_at:2022-05 star:8.9k fork:0.8k Chisel is a collection of LLDB commands to assist debugging iOS apps.
 - [facebook/facebook-python-business-sdk](https://github.com/facebook/facebook-python-business-sdk) topic: pushed_at:2022-12 star:1.1k fork:0.6k An SDK built to facilitate application development for Facebook Ads API.
 - [facebook/FAI-PEP](https://github.com/facebook/FAI-PEP) topic: pushed_at:2022-12 star:0.4k fork:0.1k Facebook AI Performance Evaluation Platform
@@ -193,17 +193,17 @@
 ## Rust
 
 - [facebook/relay](https://github.com/facebook/relay) topic: pushed_at:2022-12 star:17.5k fork:1.8k Relay is a JavaScript framework for building data-driven React applications.
-- [facebook/sapling](https://github.com/facebook/sapling) topic: pushed_at:2022-12 star:4.3k fork:0.2k A Scalable, User-Friendly Source Control System.
+- [facebook/sapling](https://github.com/facebook/sapling) topic: pushed_at:2022-12 star:4.4k fork:0.2k A Scalable, User-Friendly Source Control System.
 
 ## Swift
 
-- [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) topic: pushed_at:2022-11 star:7.3k fork:3.3k Used to integrate the Facebook Platform with your iOS & tvOS apps.
+- [facebook/facebook-ios-sdk](https://github.com/facebook/facebook-ios-sdk) topic: pushed_at:2022-12 star:7.3k fork:3.3k Used to integrate the Facebook Platform with your iOS & tvOS apps.
 
 ## TypeScript
 
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) topic:documentation,hacktoberfest,javascript,open-source,react,website pushed_at:2022-12 star:40.5k fork:6.1k Easy to maintain open source documentation websites.
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) topic:documentation,hacktoberfest,javascript,open-source,react,website pushed_at:2022-12 star:40.6k fork:6.2k Easy to maintain open source documentation websites.
 - [facebook/flipper](https://github.com/facebook/flipper) topic: pushed_at:2022-12 star:12.2k fork:0.9k A desktop debugging platform for mobile developers.
-- [facebook/jest](https://github.com/facebook/jest) topic:easy,expectation,facebook,immersive,javascript,painless,painless-javascript-testing,snapshot,testing pushed_at:2022-12 star:40.9k fork:6.2k Delightful JavaScript Testing.
+- [facebook/jest](https://github.com/facebook/jest) topic:easy,expectation,facebook,immersive,javascript,painless,painless-javascript-testing,snapshot,testing pushed_at:2022-12 star:41.0k fork:6.2k Delightful JavaScript Testing.
 - [facebook/memlab](https://github.com/facebook/memlab) topic:detector,e2e,facebook,heap,hermes,javascript,leak,memory,nodejs,perf-tools,performance,snapshot,v8 pushed_at:2022-12 star:3.6k fork:0.1k A framework for finding JavaScript memory leaks and analyzing heap snapshots
 - [facebook/remodel](https://github.com/facebook/remodel) topic: pushed_at:2022-10 star:0.6k fork:0.1k Remodel is a tool that helps iOS and OS X developers avoid repetitive code by generating Objective-C models that support coding, value comparison, and immutability.
 

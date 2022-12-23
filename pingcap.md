@@ -98,7 +98,7 @@
 - [pingcap/tidb-tools](https://github.com/pingcap/tidb-tools) topic: pushed_at:2022-12 star:0.3k fork:0.2k tidb-tools are some useful tool collections for TiDB.
 - [pingcap/tidiff](https://github.com/pingcap/tidiff) topic: pushed_at:2020-01 star:0.0k fork:0.0k A toolset to improve efficiency 
 - [pingcap/tiflow](https://github.com/pingcap/tiflow) topic:cdc,dm,kafka,mysql,ticdc,tidb pushed_at:2022-12 star:0.3k fork:0.2k This repo maintains DM (a data migration platform) and TiCDC (change data capture for TiDB)
-- [pingcap/tiflow-operator](https://github.com/pingcap/tiflow-operator) topic: pushed_at:2022-11 star:0.0k fork:0.0k TiFlow-Operator creates and manages TiFlow clusters running in Kubernetes.
+- [pingcap/tiflow-operator](https://github.com/pingcap/tiflow-operator) topic: pushed_at:2022-12 star:0.0k fork:0.0k TiFlow-Operator creates and manages TiFlow clusters running in Kubernetes.
 - [pingcap/tipocket](https://github.com/pingcap/tipocket) topic:chaos,chaos-mesh,consistency,elle,golang,isolation,sqlsmith pushed_at:2022-04 star:0.1k fork:0.1k A toolkit for testing TiDB
 - [pingcap/TiProxy](https://github.com/pingcap/TiProxy) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [pingcap/tiunimanager](https://github.com/pingcap/tiunimanager) topic: pushed_at:2022-10 star:0.0k fork:0.0k TiUniManager
@@ -108,7 +108,7 @@
 
 ## HTML
 
-- [pingcap/discourse-theme-asktug](https://github.com/pingcap/discourse-theme-asktug) topic: pushed_at:2022-10 star:0.0k fork:0.0k A discourse theme used in AskTUG.
+- [pingcap/discourse-theme-asktug](https://github.com/pingcap/discourse-theme-asktug) topic: pushed_at:2022-12 star:0.0k fork:0.0k A discourse theme used in AskTUG.
 - [pingcap/sqlgram](https://github.com/pingcap/sqlgram) topic: pushed_at:2020-05 star:0.0k fork:0.0k TiDB SQL
 
 ## Java
@@ -222,7 +222,7 @@
 
 - [pingcap/diagnosis-ui](https://github.com/pingcap/diagnosis-ui) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [pingcap/gdocwiki](https://github.com/pingcap/gdocwiki) topic: pushed_at:2022-05 star:0.1k fork:0.0k A wiki based on Google Doc / Drive
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) topic:analytics,demo,github,htap,insight,oss,realtime pushed_at:2022-12 star:0.7k fork:0.1k Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software. Follow us on Twitter: https://twitter.com/ossinsight
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) topic:aisql,analytics,chatgpt,demo,github,htap,insight,openai,oss,realtime pushed_at:2022-12 star:0.7k fork:0.1k Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software. Follow us on Twitter: https://twitter.com/ossinsight
 - [pingcap/tidb-dashboard](https://github.com/pingcap/tidb-dashboard) topic:dashboard,tidb,troubleshooting,ui pushed_at:2022-12 star:0.1k fork:0.1k A Web UI for monitoring, diagnosing and managing the TiDB cluster.
 - [pingcap/tidb-prisma-vercel-demo](https://github.com/pingcap/tidb-prisma-vercel-demo) topic:bookstore,ecommerce,nextjs,prisma,tidb,tidbcloud,vercel pushed_at:2022-12 star:0.0k fork:0.0k Virtual online bookstore application demo which you can find books of various categories and rate the books.
 - [pingcap/tiunimanager-ui](https://github.com/pingcap/tiunimanager-ui) topic:tidb,tiunimanager,ui pushed_at:2022-09 star:0.0k fork:0.0k A web UI for TiUniManager

@@ -34,9 +34,9 @@
 - [twitter/fatcache](https://github.com/twitter/fatcache) topic: pushed_at:2021-11 star:1.3k fork:0.2k Memcache on SSD
 - [twitter/ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) topic:cache,image-pipeline,ios,objective-c,swift,twitter pushed_at:2022-03 star:1.8k fork:0.1k Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) topic: pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
-- [twitter/pelikan](https://github.com/twitter/pelikan) topic: pushed_at:2022-11 star:1.8k fork:0.2k Pelikan is Twitter's unified cache backend
+- [twitter/pelikan](https://github.com/twitter/pelikan) topic: pushed_at:2022-12 star:1.8k fork:0.2k Pelikan is Twitter's unified cache backend
 - [twitter/twemcache](https://github.com/twitter/twemcache) topic: pushed_at:2021-11 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) topic: pushed_at:2022-10 star:11.6k fork:2.0k A fast, light-weight proxy for memcached and redis
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) topic: pushed_at:2022-10 star:11.7k fork:2.0k A fast, light-weight proxy for memcached and redis
 
 ## C++
 
@@ -80,8 +80,8 @@
 - [twitter/hogan.js](https://github.com/twitter/hogan.js) topic: pushed_at:2022-08 star:5.1k fork:0.5k A compiler for the Mustache templating language
 - [twitter/labella.js](https://github.com/twitter/labella.js) topic: pushed_at:2022-03 star:3.8k fork:0.1k Placing labels on a timeline without overlap.
 - [twitter/SentenTree](https://github.com/twitter/SentenTree) topic: pushed_at:2022-03 star:0.2k fork:0.0k A novel text visualization technique
-- [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) topic: pushed_at:2021-03 star:0.3k fork:0.0k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
-- [twitter/twitter-cldr-npm](https://github.com/twitter/twitter-cldr-npm) topic: pushed_at:2019-08 star:0.0k fork:0.0k TwitterCldr npm package
+- [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) topic: pushed_at:2022-12 star:0.3k fork:0.1k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
+- [twitter/twitter-cldr-npm](https://github.com/twitter/twitter-cldr-npm) topic: pushed_at:2022-12 star:0.0k fork:0.0k TwitterCldr npm package
 - [twitter/typeahead.js](https://github.com/twitter/typeahead.js) topic: pushed_at:2022-12 star:16.5k fork:3.3k typeahead.js is a fast and fully-featured autocomplete library
 
 ## Kotlin
@@ -146,23 +146,23 @@
 
 - [twitter/algebird](https://github.com/twitter/algebird) topic: pushed_at:2022-12 star:2.2k fork:0.3k Abstract Algebra for Scala
 - [twitter/bazel-multiversion](https://github.com/twitter/bazel-multiversion) topic:bazel,bazel-build,bazel-rules,coursier,dependency-manager,java,jvm,kotlin,scala pushed_at:2022-11 star:0.0k fork:0.0k Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier. 
-- [twitter/bijection](https://github.com/twitter/bijection) topic: pushed_at:2022-10 star:0.6k fork:0.1k Reversible conversions between types
+- [twitter/bijection](https://github.com/twitter/bijection) topic: pushed_at:2022-12 star:0.6k fork:0.1k Reversible conversions between types
 - [twitter/cassovary](https://github.com/twitter/cassovary) topic: pushed_at:2021-10 star:1.0k fork:0.1k Cassovary is a simple big graph processing library for the JVM
 - [twitter/chill](https://github.com/twitter/chill) topic: pushed_at:2022-12 star:0.6k fork:0.1k Scala extensions for the Kryo serialization library
-- [twitter/finagle](https://github.com/twitter/finagle) topic:distributed-systems,finagle,http,http2,java,memcached,mysql,redis,rpc,scala,thrift,zipkin pushed_at:2022-11 star:8.5k fork:1.4k A fault tolerant, protocol-agnostic RPC system
-- [twitter/finatra](https://github.com/twitter/finatra) topic:finagle,framework,guice,http,microservices,scala,slf4j,testing,thrift,twitter-server pushed_at:2022-11 star:2.2k fork:0.4k Fast, testable, Scala services built on TwitterServer and Finagle
+- [twitter/finagle](https://github.com/twitter/finagle) topic:distributed-systems,finagle,http,http2,java,memcached,mysql,redis,rpc,scala,thrift,zipkin pushed_at:2022-12 star:8.5k fork:1.4k A fault tolerant, protocol-agnostic RPC system
+- [twitter/finatra](https://github.com/twitter/finatra) topic:finagle,framework,guice,http,microservices,scala,slf4j,testing,thrift,twitter-server pushed_at:2022-12 star:2.2k fork:0.4k Fast, testable, Scala services built on TwitterServer and Finagle
 - [twitter/iago2](https://github.com/twitter/iago2) topic: pushed_at:2019-12 star:0.0k fork:0.0k A load generator, built for engineers
 - [twitter/rsc](https://github.com/twitter/rsc) topic: pushed_at:2021-10 star:1.2k fork:0.0k Experimental Scala compiler focused on compilation speed
 - [twitter/scala_school2](https://github.com/twitter/scala_school2) topic: pushed_at:2021-10 star:0.3k fork:0.1k Scala School 2
 - [twitter/scalding](https://github.com/twitter/scalding) topic: pushed_at:2022-05 star:3.4k fork:0.7k A Scala API for Cascading
-- [twitter/scrooge](https://github.com/twitter/scrooge) topic:android,cocoa,code-generation,finagle,java,lua,scala,thrift pushed_at:2022-11 star:0.8k fork:0.2k A Thrift parser/generator
+- [twitter/scrooge](https://github.com/twitter/scrooge) topic:android,cocoa,code-generation,finagle,java,lua,scala,thrift pushed_at:2022-12 star:0.8k fork:0.2k A Thrift parser/generator
 - [twitter/storehaus](https://github.com/twitter/storehaus) topic: pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) topic: pushed_at:2022-01 star:2.1k fork:0.3k Streaming MapReduce with Scalding and Storm
 - [twitter/tormenta](https://github.com/twitter/tormenta) topic: pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) topic: pushed_at:2022-12 star:0.1k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) topic: pushed_at:2021-08 star:0.8k fork:0.2k Korean tokenizer
-- [twitter/twitter-server](https://github.com/twitter/twitter-server) topic:finagle,finatra pushed_at:2022-11 star:1.4k fork:0.2k Twitter-Server defines a template from which services at Twitter are built
-- [twitter/util](https://github.com/twitter/util) topic:finagle,scala,utility pushed_at:2022-11 star:2.6k fork:0.6k Wonderful reusable code from Twitter
+- [twitter/twitter-server](https://github.com/twitter/twitter-server) topic:finagle,finatra pushed_at:2022-12 star:1.4k fork:0.2k Twitter-Server defines a template from which services at Twitter are built
+- [twitter/util](https://github.com/twitter/util) topic:finagle,scala,utility pushed_at:2022-12 star:2.6k fork:0.6k Wonderful reusable code from Twitter
 
 ## Shell
 

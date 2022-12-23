@@ -135,7 +135,7 @@
 - [JetBrains/cpp-russia-2017-rscpp](https://github.com/JetBrains/cpp-russia-2017-rscpp) topic: pushed_at:2017-02 star:0.0k fork:0.0k 
 - [JetBrains/debugger-memory-agent](https://github.com/JetBrains/debugger-memory-agent) topic:intellij,java-agent,jvm,memory,profiling pushed_at:2022-11 star:0.0k fork:0.0k 
 - [JetBrains/hackathon16-arduino-led](https://github.com/JetBrains/hackathon16-arduino-led) topic: pushed_at:2016-06 star:0.0k fork:0.0k Arduino LED controller + Android BT app
-- [JetBrains/jdk8u_hotspot](https://github.com/JetBrains/jdk8u_hotspot) topic: pushed_at:2020-10 star:0.1k fork:0.1k 
+- [JetBrains/jdk8u_hotspot](https://github.com/JetBrains/jdk8u_hotspot) topic: pushed_at:2020-10 star:0.2k fork:0.1k 
 - [JetBrains/jdk8u_jfx](https://github.com/JetBrains/jdk8u_jfx) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
 - [JetBrains/leveldb](https://github.com/JetBrains/leveldb) topic: pushed_at:2021-06 star:0.0k fork:0.0k LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values.
 - [JetBrains/RiderSourceCodeAccess](https://github.com/JetBrains/RiderSourceCodeAccess) topic: pushed_at:2022-11 star:0.1k fork:0.0k Plugin for UE4 to user Rider for Unreal Engine as code editor
@@ -226,7 +226,7 @@
 - [JetBrains/codereview4intellij](https://github.com/JetBrains/codereview4intellij) topic: pushed_at:2013-05 star:0.0k fork:0.0k 
 - [JetBrains/commit-status-publisher](https://github.com/JetBrains/commit-status-publisher) topic: pushed_at:2022-12 star:0.1k fork:0.1k TeamCity commit status publisher
 - [JetBrains/coverage-report](https://github.com/JetBrains/coverage-report) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [JetBrains/debugger-agent](https://github.com/JetBrains/debugger-agent) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
+- [JetBrains/debugger-agent](https://github.com/JetBrains/debugger-agent) topic:debugger,intellij,java-agent,jvm pushed_at:2022-12 star:0.0k fork:0.0k 
 - [JetBrains/dekaf](https://github.com/JetBrains/dekaf) topic: pushed_at:2022-10 star:0.0k fork:0.0k Java Database Access Layer
 - [JetBrains/doclava-mirror](https://github.com/JetBrains/doclava-mirror) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
 - [JetBrains/emacs4ij](https://github.com/JetBrains/emacs4ij) topic: pushed_at:2017-08 star:0.0k fork:0.0k Implementation of Emacs Lisp and runtime environment for IntelliJ Platform
@@ -266,7 +266,7 @@
 - [JetBrains/jackson-databind](https://github.com/JetBrains/jackson-databind) topic: pushed_at:2018-11 star:0.0k fork:0.0k General data-binding package for Jackson (2.x): works on streaming API (core) implementation(s)
 - [JetBrains/java-annotations](https://github.com/JetBrains/java-annotations) topic: pushed_at:2022-12 star:0.3k fork:0.0k Annotations for JVM-based languages.
 - [JetBrains/java-mission-control](https://github.com/JetBrains/java-mission-control) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
-- [JetBrains/jcef](https://github.com/JetBrains/jcef) topic: pushed_at:2022-11 star:0.1k fork:0.0k A simple framework for embedding Chromium-based browsers into Java-based applications.
+- [JetBrains/jcef](https://github.com/JetBrains/jcef) topic: pushed_at:2022-12 star:0.1k fork:0.0k A simple framework for embedding Chromium-based browsers into Java-based applications.
 - [JetBrains/jdk-sa-jdwp](https://github.com/JetBrains/jdk-sa-jdwp) topic: pushed_at:2022-08 star:0.0k fork:0.0k Java serviceability agent to jdwp adapter
 - [JetBrains/jdk8u_corba](https://github.com/JetBrains/jdk8u_corba) topic: pushed_at:2020-10 star:0.0k fork:0.0k 
 - [JetBrains/jdk8u_jaxp](https://github.com/JetBrains/jdk8u_jaxp) topic: pushed_at:2020-10 star:0.0k fork:0.0k 
@@ -287,7 +287,7 @@
 - [JetBrains/karma-gwt](https://github.com/JetBrains/karma-gwt) topic: pushed_at:2016-05 star:0.0k fork:0.0k 
 - [JetBrains/kotlin-kythe-plugin](https://github.com/JetBrains/kotlin-kythe-plugin) topic: pushed_at:2019-02 star:0.0k fork:0.0k Prototype of Kythe indexer for Kotlin indexer
 - [JetBrains/la-clojure](https://github.com/JetBrains/la-clojure) topic: pushed_at:2017-09 star:0.2k fork:0.0k Clojure plugin for IntelliJ IDEA
-- [JetBrains/lightbeam](https://github.com/JetBrains/lightbeam) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
+- [JetBrains/lightbeam](https://github.com/JetBrains/lightbeam) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [JetBrains/mapper](https://github.com/JetBrains/mapper) topic: pushed_at:2021-09 star:0.1k fork:0.0k JetBrains Mapper MVC Framework
 - [JetBrains/marketplace-makemecoffee-plugin](https://github.com/JetBrains/marketplace-makemecoffee-plugin) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
 - [JetBrains/merge-pull-request-trigger](https://github.com/JetBrains/merge-pull-request-trigger) topic: pushed_at:2019-04 star:0.0k fork:0.0k 
@@ -528,12 +528,12 @@
 - [JetBrains/ruby-type-inference](https://github.com/JetBrains/ruby-type-inference) topic:dynamic-analysis,ruby,rubymine,static-analysis pushed_at:2020-01 star:0.1k fork:0.0k Dynamic definitions and types provider for ruby static analysis
 - [JetBrains/skiko](https://github.com/JetBrains/skiko) topic: pushed_at:2022-12 star:1.1k fork:0.1k Kotlin MPP bindings to Skia
 - [JetBrains/space-app-tutorials](https://github.com/JetBrains/space-app-tutorials) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
-- [JetBrains/space-documents-import](https://github.com/JetBrains/space-documents-import) topic: pushed_at:2022-11 star:0.0k fork:0.0k Import Documents into JetBrains Space
+- [JetBrains/space-documents-import](https://github.com/JetBrains/space-documents-import) topic: pushed_at:2022-12 star:0.0k fork:0.0k Import Documents into JetBrains Space
 - [JetBrains/space-issues-import](https://github.com/JetBrains/space-issues-import) topic: pushed_at:2022-11 star:0.0k fork:0.0k Import issues into JetBrains Space 🚀
 - [JetBrains/space-kotlin-sdk](https://github.com/JetBrains/space-kotlin-sdk) topic: pushed_at:2022-12 star:0.0k fork:0.0k Kotlin client for JetBrains Space HTTP API
 - [JetBrains/space-slack-channel-sync](https://github.com/JetBrains/space-slack-channel-sync) topic:jetbrains-space,slack pushed_at:2022-10 star:0.0k fork:0.0k Space Slack two-way message tunnel
 - [JetBrains/space-slack-unfurls](https://github.com/JetBrains/space-slack-unfurls) topic:jetbrains-space,slack pushed_at:2022-09 star:0.0k fork:0.0k Link previews between JetBrains Space and Slack
-- [JetBrains/swot](https://github.com/JetBrains/swot) topic: pushed_at:2022-12 star:1.4k fork:13.5k Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
+- [JetBrains/swot](https://github.com/JetBrains/swot) topic: pushed_at:2022-12 star:1.4k fork:13.6k Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
 - [JetBrains/teamcity-amazon-ecs-plugin](https://github.com/JetBrains/teamcity-amazon-ecs-plugin) topic:aws,continuous-integration,docker,ec2,ecs,teamcity pushed_at:2022-11 star:0.0k fork:0.0k TeamCity plugin which allows to run build agents on top of AWS ECS cluster.
 - [JetBrains/teamcity-aws-lambda-plugin](https://github.com/JetBrains/teamcity-aws-lambda-plugin) topic: pushed_at:2022-08 star:0.0k fork:0.0k TeamCity AWS Lambda Plugin
 - [JetBrains/teamcity-azure-active-directory](https://github.com/JetBrains/teamcity-azure-active-directory) topic: pushed_at:2021-12 star:0.0k fork:0.0k TeamCity plugin which supports authentication via Microsoft Azure Active Directory
@@ -652,14 +652,14 @@
 
 - [JetBrains/colorSchemeTool](https://github.com/JetBrains/colorSchemeTool) topic: pushed_at:2022-10 star:0.4k fork:0.1k 
 - [JetBrains/hunspell-dictionaries](https://github.com/JetBrains/hunspell-dictionaries) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [JetBrains/intellij-micropython](https://github.com/JetBrains/intellij-micropython) topic:editor,esp32,esp8266,ide,intellij,microbit,micropython,pyboard,pycharm,raspberry-pi-pico pushed_at:2022-11 star:0.4k fork:0.1k Plugin for MicroPython devices in PyCharm and IntelliJ
+- [JetBrains/intellij-micropython](https://github.com/JetBrains/intellij-micropython) topic:editor,esp32,esp8266,ide,intellij,microbit,micropython,pyboard,pycharm,raspberry-pi-pico pushed_at:2022-12 star:0.4k fork:0.1k Plugin for MicroPython devices in PyCharm and IntelliJ
 - [JetBrains/lm-astronomy](https://github.com/JetBrains/lm-astronomy) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [JetBrains/nlc2cmd](https://github.com/JetBrains/nlc2cmd) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [JetBrains/projector-installer](https://github.com/JetBrains/projector-installer) topic:awt,swing pushed_at:2022-07 star:0.8k fork:0.1k Install, configure and run JetBrains IDEs with Projector Server on Linux or in WSL
 - [JetBrains/python-skeletons](https://github.com/JetBrains/python-skeletons) topic: pushed_at:2021-11 star:0.1k fork:0.1k The python-skeltons repo is deprecated: use PEP 484 and Typeshed instead
 - [JetBrains/qodana-clone-finder-action](https://github.com/JetBrains/qodana-clone-finder-action) topic:ci-cd,github-actions,qodana pushed_at:2021-05 star:0.0k fork:0.0k ⚠️ The action is deprecated, use https://github.com/jetbrains/qodana-action
-- [JetBrains/rider-theme-pack](https://github.com/JetBrains/rider-theme-pack) topic: pushed_at:2022-11 star:0.0k fork:0.0k JetBrains Rider theme pack.
-- [JetBrains/skia-build](https://github.com/JetBrains/skia-build) topic: pushed_at:2022-03 star:0.1k fork:0.0k 
+- [JetBrains/rider-theme-pack](https://github.com/JetBrains/rider-theme-pack) topic: pushed_at:2022-12 star:0.0k fork:0.0k JetBrains Rider theme pack.
+- [JetBrains/skia-build](https://github.com/JetBrains/skia-build) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [JetBrains/skia-pack](https://github.com/JetBrains/skia-pack) topic: pushed_at:2022-12 star:0.0k fork:0.0k Packing Skia builds 
 - [JetBrains/teamcity-messages](https://github.com/JetBrains/teamcity-messages) topic: pushed_at:2022-11 star:0.1k fork:0.1k Python Unit Test Reporting to TeamCity
 - [JetBrains/typeshed](https://github.com/JetBrains/typeshed) topic: pushed_at:2022-03 star:0.0k fork:0.0k Collection of library stubs for Python, with static types
@@ -702,7 +702,7 @@
 - [JetBrains/sbt-ide-settings](https://github.com/JetBrains/sbt-ide-settings) topic: pushed_at:2021-03 star:0.1k fork:0.0k SBT plugin for tweaking various IDE settings
 - [JetBrains/sbt-idea-compiler-indices](https://github.com/JetBrains/sbt-idea-compiler-indices) topic: pushed_at:2020-10 star:0.0k fork:0.0k 
 - [JetBrains/sbt-idea-example](https://github.com/JetBrains/sbt-idea-example) topic:idea-plugin,intellij-plugin,sbt pushed_at:2021-09 star:0.0k fork:0.0k SBT based IntellJ plugin template project
-- [JetBrains/sbt-idea-plugin](https://github.com/JetBrains/sbt-idea-plugin) topic:intellij,intellij-ide,intellij-platform,intellij-plugin,plugin-sbt,sbt,sbt-plugin pushed_at:2022-11 star:0.1k fork:0.0k Develop IntelliJ plugins with Scala and SBT
+- [JetBrains/sbt-idea-plugin](https://github.com/JetBrains/sbt-idea-plugin) topic:intellij,intellij-ide,intellij-platform,intellij-plugin,plugin-sbt,sbt,sbt-plugin pushed_at:2022-12 star:0.1k fork:0.0k Develop IntelliJ plugins with Scala and SBT
 - [JetBrains/sbt-idea-shell](https://github.com/JetBrains/sbt-idea-shell) topic: pushed_at:2021-02 star:0.0k fork:0.0k sbt shell integration support for IntelliJ IDEA Scala plugin
 - [JetBrains/sbt-intellij](https://github.com/JetBrains/sbt-intellij) topic: pushed_at:2018-02 star:0.0k fork:0.0k SBT to IDEA project converter
 - [JetBrains/sbt-structure](https://github.com/JetBrains/sbt-structure) topic: pushed_at:2022-11 star:0.1k fork:0.0k SBT plugin to collect information about project structure
@@ -719,7 +719,7 @@
 - [JetBrains/clion-wsl](https://github.com/JetBrains/clion-wsl) topic: pushed_at:2021-08 star:0.1k fork:0.1k 
 - [JetBrains/datalore-configs](https://github.com/JetBrains/datalore-configs) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [JetBrains/jdk8u](https://github.com/JetBrains/jdk8u) topic: pushed_at:2020-10 star:0.1k fork:0.0k 
-- [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) topic:coding-font,font,ligatures,monospaced-font,programming-font,programming-ligatures pushed_at:2022-12 star:8.3k fork:0.3k JetBrains Mono – the free and open-source typeface for developers
+- [JetBrains/JetBrainsMono](https://github.com/JetBrains/JetBrainsMono) topic:coding-font,font,ligatures,monospaced-font,programming-font,programming-ligatures pushed_at:2022-12 star:8.4k fork:0.3k JetBrains Mono – the free and open-source typeface for developers
 - [JetBrains/projector-docker](https://github.com/JetBrains/projector-docker) topic:awt,docker,swing pushed_at:2022-07 star:2.1k fork:0.2k Run JetBrains IDEs remotely with Docker
 - [JetBrains/qodana-action-eap](https://github.com/JetBrains/qodana-action-eap) topic: pushed_at:2021-12 star:0.0k fork:0.0k Qodana is a code quality monitoring tool that identifies and suggests fixes for bugs, security vulnerabilities, duplications, and imperfections. 
 - [JetBrains/qodana-profiles](https://github.com/JetBrains/qodana-profiles) topic:code-inspection,intellij,qodana pushed_at:2022-12 star:0.0k fork:0.0k 🧰 Code inspection profiles used in Qodana linters
