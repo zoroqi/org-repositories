@@ -44,7 +44,7 @@
 
 - [eclipse/amlen](https://github.com/eclipse/amlen) topic:hacktoberfest,iot,mqtt,mqtt-server pushed_at:2022-12 star:0.0k fork:0.0k Message Broker for IoT/Mobile/Web. Mainly uses MQTT v3.x and v5. Aims to be easy to use, scalable and reliable
 - [eclipse/mosquitto](https://github.com/eclipse/mosquitto) topic:broker,eclipse-iot,libwebsockets,mosquitto,mqtt pushed_at:2022-12 star:6.9k fork:2.1k Eclipse Mosquitto - An open source MQTT broker
-- [eclipse/mosquitto.rsmb](https://github.com/eclipse/mosquitto.rsmb) topic: pushed_at:2021-09 star:0.1k fork:0.0k Mosquitto rsmb
+- [eclipse/mosquitto.rsmb](https://github.com/eclipse/mosquitto.rsmb) topic: pushed_at:2022-12 star:0.1k fork:0.0k Mosquitto rsmb
 - [eclipse/mraa](https://github.com/eclipse/mraa) topic:board,communication,galileo,gpio,i2c,intel-joule,io,libmraa,linux,mraa,raspberry-pi,spi pushed_at:2022-12 star:1.3k fork:0.6k Linux Library for low speed IO Communication in C with bindings for C++, Python, Node.js & Java. Supports generic io platforms, as well as Intel Edison, Intel Joule, Raspberry Pi and many more.
 - [eclipse/openmcx](https://github.com/eclipse/openmcx) topic: pushed_at:2022-02 star:0.0k fork:0.0k openmcx
 - [eclipse/paho.mqtt.c](https://github.com/eclipse/paho.mqtt.c) topic:eclipse-paho,eclipseiot,internet-of-things,iot,mqtt pushed_at:2022-12 star:1.5k fork:0.9k An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse.github.io/paho.mqtt.c/
@@ -65,7 +65,7 @@
 ## C++
 
 - [eclipse/adore](https://github.com/eclipse/adore) topic:automated-driving,motion-planning,ros,simulation,vehicle-communication,vehicle-control,vehicle-dynamics pushed_at:2022-12 star:0.0k fork:0.0k Adore project
-- [eclipse/che-che4z-lsp-for-hlasm](https://github.com/eclipse/che-che4z-lsp-for-hlasm) topic: pushed_at:2022-12 star:0.0k fork:0.0k LSP server that adds support for the High Level Assembler (HLASM) language to IDEs
+- [eclipse/che-che4z-lsp-for-hlasm](https://github.com/eclipse/che-che4z-lsp-for-hlasm) topic: pushed_at:2022-12 star:0.0k fork:0.0k HLASM Language Support is an LSP extension that adds support for the High Level Assembler language to IDEs
 - [eclipse/cloe](https://github.com/eclipse/cloe) topic: pushed_at:2022-12 star:0.0k fork:0.0k Cloe
 - [eclipse/iottestware.mqtt](https://github.com/eclipse/iottestware.mqtt) topic: pushed_at:2021-01 star:0.0k fork:0.0k iottestware.mqtt
 - [eclipse/keyple-card-calypso-cpp-lib](https://github.com/eclipse/keyple-card-calypso-cpp-lib) topic: pushed_at:2022-12 star:0.0k fork:0.0k keyple-card-calypso-cpp-lib
@@ -128,7 +128,7 @@
 - [eclipse/titan.TestPorts.UDPasp](https://github.com/eclipse/titan.TestPorts.UDPasp) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
 - [eclipse/titan.TestPorts.UNIX_DOMAIN_SOCKETasp](https://github.com/eclipse/titan.TestPorts.UNIX_DOMAIN_SOCKETasp) topic: pushed_at:2021-04 star:0.0k fork:0.0k Titan TestPorts UNIX_DOMAIN_SOCKETasp
 - [eclipse/upm](https://github.com/eclipse/upm) topic:actuators,c,cpp,internet-of-things,iot,java,nodejs,python,sensor,upm pushed_at:2021-07 star:0.6k fork:0.4k UPM is a high level repository that provides software drivers for a wide variety of commonly used sensors and actuators. These software drivers interact with the underlying hardware platform through calls to MRAA APIs.
-- [eclipse/xacc](https://github.com/eclipse/xacc) topic: pushed_at:2022-11 star:0.1k fork:0.1k XACC - eXtreme-scale Accelerator programming framework
+- [eclipse/xacc](https://github.com/eclipse/xacc) topic: pushed_at:2022-12 star:0.1k fork:0.1k XACC - eXtreme-scale Accelerator programming framework
 
 ## CMake
 
@@ -137,7 +137,7 @@
 
 ## COBOL
 
-- [eclipse/che-che4z-lsp-for-cobol](https://github.com/eclipse/che-che4z-lsp-for-cobol) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
+- [eclipse/che-che4z-lsp-for-cobol](https://github.com/eclipse/che-che4z-lsp-for-cobol) topic: pushed_at:2022-12 star:0.0k fork:0.0k COBOL Language Support provides autocomplete, highlighting and diagnostics for COBOL code and copybooks
 
 ## CSS
 
@@ -146,7 +146,7 @@
 - [eclipse/kuksa.cloud](https://github.com/eclipse/kuksa.cloud) topic: pushed_at:2022-09 star:0.0k fork:0.0k Kuksa Cloud repo
 - [eclipse/kuksa.website](https://github.com/eclipse/kuksa.website) topic: pushed_at:2022-11 star:0.0k fork:0.0k Sources of the Kuksa website
 - [eclipse/omr.website](https://github.com/eclipse/omr.website) topic: pushed_at:2019-04 star:0.0k fork:0.0k 
-- [eclipse/sw360.website.published](https://github.com/eclipse/sw360.website.published) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
+- [eclipse/sw360.website.published](https://github.com/eclipse/sw360.website.published) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [eclipse/thingweb.website](https://github.com/eclipse/thingweb.website) topic: pushed_at:2022-09 star:0.0k fork:0.0k The website for the thingweb project
 
 ## Ceylon
@@ -163,7 +163,7 @@
 ## Go
 
 - [eclipse/paho.golang](https://github.com/eclipse/paho.golang) topic: pushed_at:2022-12 star:0.2k fork:0.1k Go libraries
-- [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) topic:eclipseiot,internet-of-things,mqtt pushed_at:2022-10 star:2.2k fork:0.5k 
+- [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) topic:eclipseiot,internet-of-things,mqtt pushed_at:2022-12 star:2.2k fork:0.5k 
 
 ## Groovy
 
@@ -203,7 +203,7 @@
 - [eclipse/rcptt-website](https://github.com/eclipse/rcptt-website) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [eclipse/rdf4j-doc](https://github.com/eclipse/rdf4j-doc) topic: pushed_at:2020-07 star:0.0k fork:0.0k RDF4J Documentation
 - [eclipse/sumo.website](https://github.com/eclipse/sumo.website) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [eclipse/sw360.website](https://github.com/eclipse/sw360.website) topic:eclipse pushed_at:2022-11 star:0.0k fork:0.0k sw360 website
+- [eclipse/sw360.website](https://github.com/eclipse/sw360.website) topic:eclipse pushed_at:2022-12 star:0.0k fork:0.0k sw360 website
 - [eclipse/viatra-website](https://github.com/eclipse/viatra-website) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [eclipse/vorto-website](https://github.com/eclipse/vorto-website) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [eclipse/wakaama-website](https://github.com/eclipse/wakaama-website) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
@@ -213,15 +213,15 @@
 
 - [eclipse/aCute](https://github.com/eclipse/aCute) topic: pushed_at:2022-11 star:0.1k fork:0.0k Eclipse aCute - C# edition in Eclipse IDE
 - [eclipse/agileuml](https://github.com/eclipse/agileuml) topic:agile,ocl,uml pushed_at:2022-12 star:0.0k fork:0.0k AgileUML tools for MDE using UML
-- [eclipse/ajdt](https://github.com/eclipse/ajdt) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
+- [eclipse/ajdt](https://github.com/eclipse/ajdt) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [eclipse/amalgam](https://github.com/eclipse/amalgam) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [eclipse/andmore](https://github.com/eclipse/andmore) topic: pushed_at:2018-03 star:0.1k fork:0.0k Andmore - Eclipse Android Tooling
 - [eclipse/aspectj.eclipse.jdt.core](https://github.com/eclipse/aspectj.eclipse.jdt.core) topic: pushed_at:2022-12 star:0.0k fork:0.0k Aspectj JDT Core
 - [eclipse/birt](https://github.com/eclipse/birt) topic: pushed_at:2022-12 star:0.3k fork:0.3k Eclipse BIRT™ The open source reporting and data visualization project. 
-- [eclipse/buildship](https://github.com/eclipse/buildship) topic: pushed_at:2022-11 star:0.5k fork:0.2k The Eclipse Plug-ins for Gradle project.
+- [eclipse/buildship](https://github.com/eclipse/buildship) topic: pushed_at:2022-12 star:0.5k fork:0.2k The Eclipse Plug-ins for Gradle project.
 - [eclipse/capella](https://github.com/eclipse/capella) topic:capella pushed_at:2022-12 star:0.1k fork:0.1k Open Source Solution for Model-Based Systems Engineering
 - [eclipse/capella-basic-vp](https://github.com/eclipse/capella-basic-vp) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [eclipse/capella-cybersecurity](https://github.com/eclipse/capella-cybersecurity) topic: pushed_at:2021-07 star:0.0k fork:0.0k inactive project
+- [eclipse/capella-cybersecurity](https://github.com/eclipse/capella-cybersecurity) topic: pushed_at:2022-12 star:0.0k fork:0.0k inactive project
 - [eclipse/capella-deferred-merge](https://github.com/eclipse/capella-deferred-merge) topic: pushed_at:2022-11 star:0.0k fork:0.0k Capella addon allowing to create patchset of model comparisons
 - [eclipse/capella-filtering](https://github.com/eclipse/capella-filtering) topic:capella-addon pushed_at:2022-06 star:0.0k fork:0.0k Filtering is an addon to filter capella models
 - [eclipse/capella-requirements-vp](https://github.com/eclipse/capella-requirements-vp) topic:capella-addon,reqif,requirements pushed_at:2022-11 star:0.0k fork:0.0k This add-on allows importing a set of requirements from a ReqIF file
@@ -259,8 +259,8 @@
 - [eclipse/gef-classic](https://github.com/eclipse/gef-classic) topic:eclipse,gef,java pushed_at:2022-12 star:0.0k fork:0.0k Eclipse GEF(tm) Classic code
 - [eclipse/gemini.blueprint](https://github.com/eclipse/gemini.blueprint) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [eclipse/gemoc-studio-commons](https://github.com/eclipse/gemoc-studio-commons) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [eclipse/gemoc-studio-execution-ale](https://github.com/eclipse/gemoc-studio-execution-ale) topic: pushed_at:2022-08 star:0.0k fork:0.0k Gemoc studio execution ale
-- [eclipse/gemoc-studio-execution-java](https://github.com/eclipse/gemoc-studio-execution-java) topic: pushed_at:2022-11 star:0.0k fork:0.0k Gemoc studio execution java
+- [eclipse/gemoc-studio-execution-ale](https://github.com/eclipse/gemoc-studio-execution-ale) topic: pushed_at:2022-12 star:0.0k fork:0.0k Gemoc studio execution ale
+- [eclipse/gemoc-studio-execution-java](https://github.com/eclipse/gemoc-studio-execution-java) topic: pushed_at:2022-12 star:0.0k fork:0.0k Gemoc studio execution java
 - [eclipse/gemoc-studio-execution-moccml](https://github.com/eclipse/gemoc-studio-execution-moccml) topic: pushed_at:2022-12 star:0.0k fork:0.0k gemoc-studio-execution-moccml
 - [eclipse/gemoc-studio-moccml](https://github.com/eclipse/gemoc-studio-moccml) topic: pushed_at:2022-08 star:0.0k fork:0.0k gemoc-studio-moccml
 - [eclipse/gemoc-studio-modeldebugging](https://github.com/eclipse/gemoc-studio-modeldebugging) topic: pushed_at:2022-12 star:0.0k fork:0.0k gemoc-studio-modeldebugging
@@ -283,8 +283,8 @@
 - [eclipse/jnosql](https://github.com/eclipse/jnosql) topic:database,flexible,graph-database,jnosql,nosql,nosql-databases pushed_at:2022-12 star:0.2k fork:0.1k Eclipse JNoSQL is a framework which has the goal to help Java developers to create Jakarta EE applications with NoSQL.
 - [eclipse/jnosql-aphrodite](https://github.com/eclipse/jnosql-aphrodite) topic:jakartaee,java,javaee,jnosql,jnosql-aphrodite,jsr,nsq pushed_at:2019-02 star:0.0k fork:0.0k Eclipse JNoSQL Aphrodite is the project that contains the syntax query to JNoSQL API.
 - [eclipse/jnosql-artemis](https://github.com/eclipse/jnosql-artemis) topic:artemis,cdi,connect-nosql-databases,diana,jnosql,nosql pushed_at:2019-02 star:0.0k fork:0.0k Eclipse JNoSQL Artemis is a flexible and extensible OxM to connect NoSQL databases. It brings an easy interface to support key-value, column family, document-oriented and graph databases with heavy driven annotation using CDI.
-- [eclipse/jnosql-communication-driver](https://github.com/eclipse/jnosql-communication-driver) topic:diana,driver,graph-database,jnosql,jsr,nosql,nosql-databases pushed_at:2022-11 star:0.0k fork:0.0k This project contains drivers of Jakarta NoSQL Communication
-- [eclipse/jnosql-mapping-extension](https://github.com/eclipse/jnosql-mapping-extension) topic: pushed_at:2022-12 star:0.0k fork:0.0k This project contains all specialization to Eclipse JNoSQL Artemis. The specific behavior in a NoSQL database matters, that's why there are Eclipse JNoSQL Artemis specializations.
+- [eclipse/jnosql-communication-driver](https://github.com/eclipse/jnosql-communication-driver) topic:diana,driver,graph-database,jnosql,jsr,nosql,nosql-databases pushed_at:2022-12 star:0.0k fork:0.0k This project contains drivers of Jakarta NoSQL Communication
+- [eclipse/jnosql-mapping-extension](https://github.com/eclipse/jnosql-mapping-extension) topic: pushed_at:2022-12 star:0.0k fork:0.0k This project contains all specialization to Eclipse JNoSQL. The specific behavior in a NoSQL database matters, that's why there are Eclipse JNoSQL Mapper specializations.
 - [eclipse/kapua](https://github.com/eclipse/kapua) topic:eclipseiot,internet-of-things pushed_at:2022-12 star:0.2k fork:0.2k 
 - [eclipse/keti](https://github.com/eclipse/keti) topic: pushed_at:2022-10 star:0.0k fork:0.0k Eclipse Keti is a service that was designed to protect RESTfuls API using Attribute Based Access Control (ABAC).
 - [eclipse/keyple-card-calypso-crypto-legacysam-java-lib](https://github.com/eclipse/keyple-card-calypso-crypto-legacysam-java-lib) topic: pushed_at:2022-12 star:0.0k fork:0.0k keyple-card-calypso-crypto-legacysam-java-lib
@@ -292,7 +292,7 @@
 - [eclipse/keyple-card-generic-java-lib](https://github.com/eclipse/keyple-card-generic-java-lib) topic:java,keyple pushed_at:2022-05 star:0.0k fork:0.0k Eclipse Keyple™ Project: add-on library to operate generic smartcard solution (based on the Calypso Terminal Card API) / for end users
 - [eclipse/keyple-common-java-api](https://github.com/eclipse/keyple-common-java-api) topic: pushed_at:2022-01 star:0.0k fork:0.0k Eclipse Keyple™ Project: common API for all modules
 - [eclipse/keyple-distributed-local-java-api](https://github.com/eclipse/keyple-distributed-local-java-api) topic: pushed_at:2021-10 star:0.0k fork:0.0k Eclipse Keyple™ Project: API for distributed local service developers
-- [eclipse/keyple-distributed-local-java-lib](https://github.com/eclipse/keyple-distributed-local-java-lib) topic: pushed_at:2022-05 star:0.0k fork:0.0k Eclipse Keyple™ Project: distributed local service API for end users
+- [eclipse/keyple-distributed-local-java-lib](https://github.com/eclipse/keyple-distributed-local-java-lib) topic: pushed_at:2022-12 star:0.0k fork:0.0k Eclipse Keyple™ Project: distributed local service API for end users
 - [eclipse/keyple-distributed-network-java-lib](https://github.com/eclipse/keyple-distributed-network-java-lib) topic: pushed_at:2021-10 star:0.0k fork:0.0k Eclipse Keyple™ Project: distributed network API for end users
 - [eclipse/keyple-distributed-remote-java-api](https://github.com/eclipse/keyple-distributed-remote-java-api) topic: pushed_at:2022-05 star:0.0k fork:0.0k Eclipse Keyple™ Project: API for distributed remote plugin developers
 - [eclipse/keyple-distributed-remote-java-lib](https://github.com/eclipse/keyple-distributed-remote-java-lib) topic: pushed_at:2021-10 star:0.0k fork:0.0k Eclipse Keyple™ Project: distributed remote plugin API for end users
@@ -355,7 +355,7 @@
 - [eclipse/mosaic](https://github.com/eclipse/mosaic) topic:eclipse,java,openmobility,simulation,smart-mobility,traffic,v2x pushed_at:2022-12 star:0.1k fork:0.0k Eclipse MOSAIC is a Multi-Domain and Multi-Scale Simulation Framework for Automated and Connected Mobility Scenarios.
 - [eclipse/mwe](https://github.com/eclipse/mwe) topic: pushed_at:2022-12 star:0.0k fork:0.0k Modeling Workflow Engine project repository (mwe)
 - [eclipse/n4js](https://github.com/eclipse/n4js) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [eclipse/nebula](https://github.com/eclipse/nebula) topic: pushed_at:2022-11 star:0.1k fork:0.1k Nebula Project
+- [eclipse/nebula](https://github.com/eclipse/nebula) topic: pushed_at:2022-12 star:0.1k fork:0.1k Nebula Project
 - [eclipse/oneofour](https://github.com/eclipse/oneofour) topic: pushed_at:2022-02 star:0.0k fork:0.0k oneofour
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) topic:extension,marketplace,registry,theia,vscode pushed_at:2022-12 star:0.8k fork:0.1k An open-source registry for VS Code extensions
 - [eclipse/org.aspectj](https://github.com/eclipse/org.aspectj) topic: pushed_at:2022-12 star:0.2k fork:0.1k 
@@ -449,7 +449,7 @@
 
 ## Others
 
-- [eclipse/.github](https://github.com/eclipse/.github) topic: pushed_at:2022-01 star:0.0k fork:0.0k Community Health files
+- [eclipse/.github](https://github.com/eclipse/.github) topic: pushed_at:2022-12 star:0.0k fork:0.0k Community Health files
 - [eclipse/adaaa](https://github.com/eclipse/adaaa) topic: pushed_at:2022-06 star:0.0k fork:0.0k Adaptive Cruise Control Demo Application for Adaptive AUTOSAR
 - [eclipse/capella-addons](https://github.com/eclipse/capella-addons) topic: pushed_at:2021-01 star:0.0k fork:0.0k ~Unused repository~
 - [eclipse/capella-gitadapter](https://github.com/eclipse/capella-gitadapter) topic: pushed_at:2020-01 star:0.0k fork:0.0k 
@@ -542,7 +542,7 @@
 ## Rust
 
 - [eclipse/chariott](https://github.com/eclipse/chariott) topic: pushed_at:2022-12 star:0.0k fork:0.0k chariott
-- [eclipse/paho.mqtt.rust](https://github.com/eclipse/paho.mqtt.rust) topic: pushed_at:2022-10 star:0.4k fork:0.1k paho.mqtt.rust
+- [eclipse/paho.mqtt.rust](https://github.com/eclipse/paho.mqtt.rust) topic: pushed_at:2022-12 star:0.4k fork:0.1k paho.mqtt.rust
 
 ## Shell
 
@@ -563,7 +563,7 @@
 
 - [eclipse/che](https://github.com/eclipse/che) topic:cloud,cloud-ide,containers,devtools,eclipse,ide,kubernetes pushed_at:2022-12 star:6.8k fork:1.2k The Kubernetes-Native IDE for Developer Teams
 - [eclipse/che-che4z](https://github.com/eclipse/che-che4z) topic: pushed_at:2022-12 star:0.0k fork:0.0k Che Che4z
-- [eclipse/che-che4z-explorer-for-endevor](https://github.com/eclipse/che-che4z-explorer-for-endevor) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
+- [eclipse/che-che4z-explorer-for-endevor](https://github.com/eclipse/che-che4z-explorer-for-endevor) topic: pushed_at:2022-12 star:0.0k fork:0.0k Explorer for Endevor is an extension that modernizes the way you interact with Endevor inventory locations and elements
 - [eclipse/che-che4z-zos-resource-explorer](https://github.com/eclipse/che-che4z-zos-resource-explorer) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [eclipse/che-theia-activity-tracker](https://github.com/eclipse/che-theia-activity-tracker) topic: pushed_at:2019-03 star:0.0k fork:0.0k che-theia-activity-tracker
 - [eclipse/che-theia-dashboard-extension](https://github.com/eclipse/che-theia-dashboard-extension) topic: pushed_at:2019-03 star:0.0k fork:0.0k 

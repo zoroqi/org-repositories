@@ -18,7 +18,7 @@
 
 ## C++
 
-- [openjdk/jfx](https://github.com/openjdk/jfx) topic:java,javafx,openjdk,openjfx pushed_at:2022-12 star:2.0k fork:0.3k JavaFX mainline development
+- [openjdk/jfx](https://github.com/openjdk/jfx) topic:java,javafx,openjdk,openjfx pushed_at:2022-12 star:2.0k fork:0.4k JavaFX mainline development
 - [openjdk/jfx-sandbox](https://github.com/openjdk/jfx-sandbox) topic: pushed_at:2022-12 star:0.0k fork:0.0k OpenJFX Committers Sandbox
 - [openjdk/jfx11u](https://github.com/openjdk/jfx11u) topic:java,javafx,openjdk pushed_at:2022-11 star:0.0k fork:0.0k JavaFX 11 updates development
 - [openjdk/jfx12](https://github.com/openjdk/jfx12) topic: pushed_at:2021-01 star:0.0k fork:0.0k JavaFX 12.x : last released 2019-07-19
@@ -36,7 +36,7 @@
 
 ## Java
 
-- [openjdk/aarch32-port-jdk8u](https://github.com/openjdk/aarch32-port-jdk8u) topic: pushed_at:2022-11 star:0.0k fork:0.0k https://openjdk.org/projects/aarch32-port
+- [openjdk/aarch32-port-jdk8u](https://github.com/openjdk/aarch32-port-jdk8u) topic: pushed_at:2022-12 star:0.0k fork:0.0k https://openjdk.org/projects/aarch32-port
 - [openjdk/aarch64-port](https://github.com/openjdk/aarch64-port) topic: pushed_at:2022-12 star:0.1k fork:0.0k Port: AArch64 Project
 - [openjdk/amber](https://github.com/openjdk/amber) topic: pushed_at:2022-12 star:0.1k fork:0.0k https://openjdk.org/projects/amber
 - [openjdk/asmtools](https://github.com/openjdk/asmtools) topic: pushed_at:2022-12 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/asmtools
@@ -69,7 +69,7 @@
 - [openjdk/jdk18u](https://github.com/openjdk/jdk18u) topic: pushed_at:2022-11 star:0.0k fork:0.1k https://openjdk.org/projects/jdk-updates last released 2022-08-18
 - [openjdk/jdk19](https://github.com/openjdk/jdk19) topic: pushed_at:2022-12 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/19
 - [openjdk/jdk19u](https://github.com/openjdk/jdk19u) topic: pushed_at:2022-12 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates
-- [openjdk/jdk20](https://github.com/openjdk/jdk20) topic: pushed_at:2022-12 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/20
+- [openjdk/jdk20](https://github.com/openjdk/jdk20) topic: pushed_at:2022-12 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/20
 - [openjdk/jdk6](https://github.com/openjdk/jdk6) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk6
 - [openjdk/jdk7](https://github.com/openjdk/jdk7) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk7 released 2011-07-28
 - [openjdk/jdk7u](https://github.com/openjdk/jdk7u) topic: pushed_at:2022-07 star:0.0k fork:0.0k https://wiki.openjdk.org/display/jdk7u

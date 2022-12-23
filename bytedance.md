@@ -17,10 +17,10 @@
 - [Jupyter Notebook](#jupyter-notebook) (2)
 - [Kotlin](#kotlin) (4)
 - [Objective-C](#objective-c) (4)
-- [Others](#others) (25)
+- [Others](#others) (24)
 - [PHP](#php) (1)
 - [Perl](#perl) (1)
-- [Python](#python) (32)
+- [Python](#python) (33)
 - [Ruby](#ruby) (3)
 - [Rust](#rust) (6)
 - [Solidity](#solidity) (1)
@@ -94,7 +94,7 @@
 
 - [bytedance/bosun](https://github.com/bytedance/bosun) topic: pushed_at:2015-08 star:0.0k fork:0.0k Time Series Alerting Framework
 - [bytedance/dbatman](https://github.com/bytedance/dbatman) topic: pushed_at:2017-02 star:0.1k fork:0.0k 
-- [bytedance/douyincloud-gin-demo](https://github.com/bytedance/douyincloud-gin-demo) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
+- [bytedance/douyincloud-gin-demo](https://github.com/bytedance/douyincloud-gin-demo) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [bytedance/Elkeid](https://github.com/bytedance/Elkeid) topic:cwpp,edr,hids,linux-security,rasp,security pushed_at:2022-12 star:1.5k fork:0.3k Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless. It is derived from ByteDance's internal best practices.
 - [bytedance/go-dyclog](https://github.com/bytedance/go-dyclog) topic: pushed_at:2022-08 star:0.0k fork:0.0k The go-dyclog SDK provides simple log APIs for douyincloud developer
 - [bytedance/go-querystring-parser](https://github.com/bytedance/go-querystring-parser) topic: pushed_at:2022-08 star:0.0k fork:0.0k A golang querystring parser
@@ -183,7 +183,6 @@
 - [bytedance/libvirt](https://github.com/bytedance/libvirt) topic: pushed_at:2020-04 star:0.0k fork:0.0k Read-only mirror. Please submit merge requests / issues to https://gitlab.com/libvirt/libvirt
 - [bytedance/linux](https://github.com/bytedance/linux) topic: pushed_at:2022-07 star:0.0k fork:0.0k Linux kernel source tree
 - [bytedance/lxcfs](https://github.com/bytedance/lxcfs) topic: pushed_at:2022-08 star:0.0k fork:0.0k FUSE filesystem for LXC
-- [bytedance/monolith](https://github.com/bytedance/monolith) topic: pushed_at:2022-10 star:0.2k fork:0.0k ByteDance's Recommendation System
 - [bytedance/nvme-cli](https://github.com/bytedance/nvme-cli) topic: pushed_at:2020-12 star:0.0k fork:0.0k NVMe management command line interface.
 - [bytedance/onnx](https://github.com/bytedance/onnx) topic: pushed_at:2021-03 star:0.0k fork:0.0k Open standard for machine learning interoperability
 - [bytedance/openssl](https://github.com/bytedance/openssl) topic: pushed_at:2022-11 star:0.0k fork:0.0k TLS/SSL and crypto library
@@ -192,7 +191,7 @@
 - [bytedance/systemd](https://github.com/bytedance/systemd) topic: pushed_at:2022-07 star:0.0k fork:0.0k The systemd System and Service Manager 
 - [bytedance/util-linux](https://github.com/bytedance/util-linux) topic: pushed_at:2020-07 star:0.0k fork:0.0k 
 - [bytedance/vm-memory](https://github.com/bytedance/vm-memory) topic: pushed_at:2021-03 star:0.0k fork:0.0k Virtual machine's guest memory crate
-- [bytedance/WTN-Union](https://github.com/bytedance/WTN-Union) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
+- [bytedance/WTN-Union](https://github.com/bytedance/WTN-Union) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 
 ## PHP
 
@@ -225,7 +224,8 @@
 - [bytedance/mega-ai](https://github.com/bytedance/mega-ai) topic: pushed_at:2022-08 star:0.0k fork:0.0k Encapsulate tensorflow and other deep frameworks, support feature evaluation and model evaluation methods
 - [bytedance/mega-spark](https://github.com/bytedance/mega-spark) topic: pushed_at:2020-09 star:0.0k fork:0.0k Spark is encapsulated as a mega interface to call pandas methods
 - [bytedance/midi_melody_extraction](https://github.com/bytedance/midi_melody_extraction) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [bytedance/music_source_separation](https://github.com/bytedance/music_source_separation) topic: pushed_at:2022-10 star:0.9k fork:0.2k 
+- [bytedance/monolith](https://github.com/bytedance/monolith) topic: pushed_at:2022-12 star:0.2k fork:0.0k ByteDance's Recommendation System
+- [bytedance/music_source_separation](https://github.com/bytedance/music_source_separation) topic: pushed_at:2022-10 star:1.0k fork:0.2k 
 - [bytedance/neurst](https://github.com/bytedance/neurst) topic: pushed_at:2022-06 star:0.2k fork:0.0k Neural end-to-end Speech Translation Toolkit
 - [bytedance/Next-ViT](https://github.com/bytedance/Next-ViT) topic: pushed_at:2022-08 star:0.3k fork:0.0k 
 - [bytedance/oclip](https://github.com/bytedance/oclip) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
@@ -250,7 +250,7 @@
 - [bytedance/monoio](https://github.com/bytedance/monoio) topic: pushed_at:2022-11 star:2.4k fork:0.1k Rust async runtime based on io-uring.
 - [bytedance/node-unix-socket](https://github.com/bytedance/node-unix-socket) topic:dgram,nodejs,reuseport,rust,seqpacket-sockets,unix-socket pushed_at:2022-10 star:0.0k fork:0.0k Unix dgram, seqpacket, etc binding for Node.js.
 - [bytedance/spire-workload-rs](https://github.com/bytedance/spire-workload-rs) topic: pushed_at:2022-08 star:0.0k fork:0.0k APIs to help Rust programs use Spire workload API
-- [bytedance/tar-wasm](https://github.com/bytedance/tar-wasm) topic: pushed_at:2022-10 star:0.1k fork:0.0k A faster experimental wasm-based tar implementation for browsers.
+- [bytedance/tar-wasm](https://github.com/bytedance/tar-wasm) topic: pushed_at:2022-12 star:0.1k fork:0.0k A faster experimental wasm-based tar implementation for browsers.
 
 ## Solidity
 

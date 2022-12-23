@@ -17,18 +17,18 @@
 - [golang/appengine](https://github.com/golang/appengine) topic: pushed_at:2022-12 star:0.6k fork:0.2k Go App Engine packages
 - [golang/arch](https://github.com/golang/arch) topic: pushed_at:2022-12 star:0.1k fork:0.0k [mirror] architecture code
 - [golang/benchmarks](https://github.com/golang/benchmarks) topic: pushed_at:2022-12 star:0.1k fork:0.0k Benchmarks for the perf dashboard
-- [golang/build](https://github.com/golang/build) topic: pushed_at:2022-12 star:0.5k fork:0.1k [mirror] Go's continuous build and release infrastructure (no stability promises)
+- [golang/build](https://github.com/golang/build) topic: pushed_at:2022-12 star:0.6k fork:0.1k [mirror] Go's continuous build and release infrastructure (no stability promises)
 - [golang/crypto](https://github.com/golang/crypto) topic: pushed_at:2022-12 star:2.6k fork:1.4k [mirror] Go supplementary cryptography libraries
 - [golang/debug](https://github.com/golang/debug) topic: pushed_at:2022-11 star:0.2k fork:0.1k [mirror] debugging tools
 - [golang/dep](https://github.com/golang/dep) topic:dependency-manager,golang,package-manager,toolchain pushed_at:2020-09 star:13.0k fork:1.1k Go dependency management tool experiment (deprecated)
 - [golang/dl](https://github.com/golang/dl) topic: pushed_at:2022-12 star:0.1k fork:0.0k [mirror] go install golang.org/dl/go1.N@latest
 - [golang/example](https://github.com/golang/example) topic: pushed_at:2022-04 star:2.2k fork:0.8k Go example projects
-- [golang/exp](https://github.com/golang/exp) topic: pushed_at:2022-12 star:0.7k fork:0.2k [mirror] Experimental and deprecated packages
+- [golang/exp](https://github.com/golang/exp) topic: pushed_at:2022-12 star:0.8k fork:0.2k [mirror] Experimental and deprecated packages
 - [golang/freetype](https://github.com/golang/freetype) topic: pushed_at:2022-01 star:0.7k fork:0.2k The Freetype font rasterizer in the Go programming language.
 - [golang/gddo](https://github.com/golang/gddo) topic: pushed_at:2021-01 star:1.1k fork:0.3k Go Doc Dot Org
-- [golang/geo](https://github.com/golang/geo) topic:geometry,geometry-library,go,sphere pushed_at:2022-10 star:1.5k fork:0.2k S2 geometry library in Go
+- [golang/geo](https://github.com/golang/geo) topic:geometry,geometry-library,go,sphere pushed_at:2022-12 star:1.5k fork:0.2k S2 geometry library in Go
 - [golang/glog](https://github.com/golang/glog) topic: pushed_at:2022-07 star:3.3k fork:0.9k Leveled execution logs for Go
-- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2022-12 star:106.7k fork:15.7k The Go programming language
+- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2022-12 star:106.9k fork:15.7k The Go programming language
 - [golang/go-get-issue-15410](https://github.com/golang/go-get-issue-15410) topic: pushed_at:2020-08 star:0.0k fork:0.0k go-get-issue-15410
 - [golang/gofrontend](https://github.com/golang/gofrontend) topic: pushed_at:2022-12 star:0.7k fork:0.1k Go compiler frontend (gccgo)
 - [golang/groupcache](https://github.com/golang/groupcache) topic: pushed_at:2022-10 star:11.9k fork:1.3k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
@@ -40,11 +40,11 @@
 - [golang/mod](https://github.com/golang/mod) topic: pushed_at:2022-12 star:0.2k fork:0.1k [mirror] Go module mechanics libraries
 - [golang/net](https://github.com/golang/net) topic: pushed_at:2022-12 star:2.6k fork:1.1k [mirror] Go supplementary network libraries
 - [golang/oauth2](https://github.com/golang/oauth2) topic:go,golang,oauth2,oauth2-client pushed_at:2022-12 star:4.5k fork:0.9k Go OAuth2
-- [golang/perf](https://github.com/golang/perf) topic: pushed_at:2022-09 star:0.3k fork:0.1k [mirror] Performance measurement, storage, and analysis.
+- [golang/perf](https://github.com/golang/perf) topic: pushed_at:2022-12 star:0.3k fork:0.1k [mirror] Performance measurement, storage, and analysis.
 - [golang/pkgsite](https://github.com/golang/pkgsite) topic: pushed_at:2022-12 star:1.0k fork:0.1k [mirror] Home of the pkg.go.dev website
 - [golang/playground](https://github.com/golang/playground) topic: pushed_at:2022-10 star:0.6k fork:0.2k [mirror] The Go Playground
 - [golang/proposal](https://github.com/golang/proposal) topic: pushed_at:2022-12 star:3.1k fork:0.4k Go Project Design Documents
-- [golang/protobuf](https://github.com/golang/protobuf) topic:go,golang,protobuf,protocol-buffers pushed_at:2022-11 star:8.8k fork:1.6k Go support for Google's protocol buffers
+- [golang/protobuf](https://github.com/golang/protobuf) topic:go,golang,protobuf,protocol-buffers pushed_at:2022-11 star:8.9k fork:1.6k Go support for Google's protocol buffers
 - [golang/review](https://github.com/golang/review) topic: pushed_at:2022-11 star:0.1k fork:0.0k [mirror] Tool for working with Gerrit code reviews
 - [golang/scratch](https://github.com/golang/scratch) topic: pushed_at:2022-09 star:0.0k fork:0.0k [mirror] repository used for testing
 - [golang/snappy](https://github.com/golang/snappy) topic: pushed_at:2022-11 star:1.3k fork:0.2k The Snappy compression format in the Go programming language.

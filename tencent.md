@@ -66,7 +66,7 @@
 - [Tencent/libwxfreq](https://github.com/Tencent/libwxfreq) topic:frequency pushed_at:2019-04 star:0.2k fork:0.1k libwxfreq is a generic high performance frequency limitation library
 - [Tencent/mars](https://github.com/Tencent/mars) topic:cross-platform,log,network,wechat pushed_at:2022-12 star:16.6k fork:3.5k Mars is a cross-platform network component  developed by WeChat.
 - [Tencent/matrix](https://github.com/Tencent/matrix) topic:android,apm-client,wechat pushed_at:2022-11 star:10.5k fork:1.7k Matrix is a plugin style, non-invasive APM system developed by WeChat.
-- [Tencent/MMKV](https://github.com/Tencent/MMKV) topic:android,flutter,golang,ios,key-value,kotlin,macos,python,swift,wechat,windows pushed_at:2022-11 star:15.3k fork:1.7k An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
+- [Tencent/MMKV](https://github.com/Tencent/MMKV) topic:android,flutter,golang,ios,key-value,kotlin,macos,python,swift,wechat,windows pushed_at:2022-12 star:15.3k fork:1.7k An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 - [Tencent/ModernFlux](https://github.com/Tencent/ModernFlux) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [Tencent/ncnn](https://github.com/Tencent/ncnn) topic:android,arm-neon,artificial-intelligence,caffe,darknet,deep-learning,high-preformance,inference,ios,keras,mlir,mxnet,ncnn,neural-network,onnx,pytorch,riscv,simd,tensorflow,vulkan pushed_at:2022-12 star:16.1k fork:3.7k ncnn is a high-performance neural network inference framework optimized for the mobile platform
 - [Tencent/paxosstore](https://github.com/Tencent/paxosstore) topic:consensus,database,distributed-database,paxos pushed_at:2020-07 star:1.6k fork:0.3k PaxosStore has been deployed in WeChat production for more than two years, providing storage services for the core businesses of WeChat backend. Now PaxosStore is running on thousands of machines, and is able to afford billions of peak TPS.
@@ -147,7 +147,7 @@
 - [Tencent/iHearing](https://github.com/Tencent/iHearing) topic: pushed_at:2019-04 star:0.1k fork:0.0k 微信智聆口语测评小程序是针对口语练习场景开发的测评类小程序，通过智聆口语评测插件提供了句子和单词发音准确度等功能。
 - [Tencent/kbone](https://github.com/Tencent/kbone) topic: pushed_at:2022-12 star:4.5k fork:0.4k 一个致力于微信小程序和 Web 端同构的解决方案
 - [Tencent/nohost](https://github.com/Tencent/nohost) topic: pushed_at:2022-12 star:1.2k fork:0.1k 基于 Whistle 实现的多账号多环境远程配置及抓包调试平台
-- [Tencent/omi](https://github.com/Tencent/omi) topic:admin,admin-dashboard,custom-elements,jsx,kbone,mini-program,miniprogram,mp,omi,omiu,preact,shadow-dom,tsx,vdom,virtual-dom,weapp,web,web-components,webcomponents pushed_at:2022-10 star:12.5k fork:1.2k  Front End Cross-Frameworks Framework - 前端跨框架框架
+- [Tencent/omi](https://github.com/Tencent/omi) topic:admin,admin-dashboard,custom-elements,jsx,kbone,mini-program,miniprogram,mp,omi,omiu,preact,shadow-dom,tsx,vdom,virtual-dom,weapp,web,web-components,webcomponents pushed_at:2022-10 star:12.5k fork:1.3k  Front End Cross-Frameworks Framework - 前端跨框架框架
 - [Tencent/QMUI_Web](https://github.com/Tencent/QMUI_Web) topic:gulpfile,sass-framework,web-ui,widget-toolkit,workflow pushed_at:2022-12 star:1.7k fork:0.2k An efficient front-end framework for developers building UI on the web.
 - [Tencent/QMUI_Web_Desktop](https://github.com/Tencent/QMUI_Web_Desktop) topic:electron,workflow-management pushed_at:2018-04 star:0.2k fork:0.0k The desktop app that streamlines projects based on QMUI Web.
 - [Tencent/tdesign-miniprogram-starter-retail](https://github.com/Tencent/tdesign-miniprogram-starter-retail) topic:miniprogram,tdesign,template,wechat pushed_at:2022-12 star:0.2k fork:0.0k TDesign - 微信小程序 - 零售行业模板
@@ -176,7 +176,7 @@
 - [Tencent/LKImageKit](https://github.com/Tencent/LKImageKit) topic:imageload,imageview,ios,objc,objcective-c,uiimageview pushed_at:2019-07 star:2.1k fork:0.3k A high-performance image framework, including a series of capabilities such as image views, image downloader, memory caches, disk caches, image decoders and image processors.
 - [Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder) topic: pushed_at:2021-11 star:5.3k fork:0.9k Find memory leaks in your iOS app at develop time.
 - [Tencent/MobileNA_IOSSDK](https://github.com/Tencent/MobileNA_IOSSDK) topic: pushed_at:2021-12 star:0.0k fork:0.0k the ios sdk of Mobile Network Acceleration
-- [Tencent/QMUI_iOS](https://github.com/Tencent/QMUI_iOS) topic:ios,ios-ui,ui-components,uikit pushed_at:2022-12 star:6.7k fork:1.3k QMUI iOS——致力于提高项目 UI 开发效率的解决方案
+- [Tencent/QMUI_iOS](https://github.com/Tencent/QMUI_iOS) topic:ios,ios-ui,ui-components,uikit pushed_at:2022-12 star:6.8k fork:1.3k QMUI iOS——致力于提高项目 UI 开发效率的解决方案
 - [Tencent/vap](https://github.com/Tencent/vap) topic: pushed_at:2022-11 star:3.3k fork:0.4k VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台。
 - [Tencent/WeDemo](https://github.com/Tencent/WeDemo) topic: pushed_at:2019-07 star:1.3k fork:0.4k WeDemo为微信团队开源项目，用于帮助微信开发者完成微信登录、微信分享等功能的接入和开发。开发者可参考源代码完成开发，也可以直接将代码应用到自己的App开发中，安全、便捷地在App中实现微信分享、微信登录功能。
 
@@ -205,7 +205,7 @@
 - [Tencent/ActionDetection-DBG](https://github.com/Tencent/ActionDetection-DBG) topic: pushed_at:2022-04 star:0.3k fork:0.1k Code for AAAI2020 paper "Fast Learning of Temporal Action Proposal via Dense Boundary Generator"
 - [Tencent/bk-base](https://github.com/Tencent/bk-base) topic: pushed_at:2022-04 star:0.1k fork:0.1k 蓝鲸基础计算平台（bk-base）
 - [Tencent/bk-bcs-saas](https://github.com/Tencent/bk-bcs-saas) topic:blueking,container,docker,golang,kubernetes,mesos,python pushed_at:2022-12 star:0.3k fork:0.1k 蓝鲸智云容器管理平台SaaS（Blueking Container Service）
-- [Tencent/bk-PaaS](https://github.com/Tencent/bk-PaaS) topic:blueking,esb,login,paas,python,saas,vuejs pushed_at:2022-11 star:0.8k fork:0.4k 蓝鲸智云PaaS平台（BlueKing PaaS）
+- [Tencent/bk-PaaS](https://github.com/Tencent/bk-PaaS) topic:blueking,esb,login,paas,python,saas,vuejs pushed_at:2022-12 star:0.8k fork:0.4k 蓝鲸智云PaaS平台（BlueKing PaaS）
 - [Tencent/bk-sops](https://github.com/Tencent/bk-sops) topic:blueking,bpmn-engine,bpmn2,devops-tools,flow,flowengine,pipeline,python pushed_at:2022-12 star:0.9k fork:0.4k 蓝鲸智云标准运维(SOPS)
 - [Tencent/BlazerML-tvm](https://github.com/Tencent/BlazerML-tvm) topic: pushed_at:2022-10 star:0.0k fork:0.0k Tencent Distribution of TVM
 - [Tencent/CenseoQoE](https://github.com/Tencent/CenseoQoE) topic: pushed_at:2022-05 star:0.1k fork:0.0k image and video quality assessment
@@ -219,7 +219,7 @@
 - [Tencent/Metis](https://github.com/Tencent/Metis) topic:aiops,javascript,learnware,metis,python,typescript,uweb pushed_at:2022-06 star:1.5k fork:0.5k Metis is a learnware platform in the field of AIOps. 
 - [Tencent/NeuralNLP-NeuralClassifier](https://github.com/Tencent/NeuralNLP-NeuralClassifier) topic: pushed_at:2022-04 star:1.5k fork:0.4k An Open-source Neural Hierarchical Multi-label Text Classification Toolkit
 - [Tencent/ObjectDetection-OneStageDet](https://github.com/Tencent/ObjectDetection-OneStageDet) topic: pushed_at:2020-06 star:1.9k fork:0.5k 单阶段通用目标检测器
-- [Tencent/PatrickStar](https://github.com/Tencent/PatrickStar) topic:bert,gpt,nlp,pretrained-models,pytorch pushed_at:2022-06 star:0.6k fork:0.1k PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP and democratizes AI for everyone.
+- [Tencent/PatrickStar](https://github.com/Tencent/PatrickStar) topic:bert,gpt,nlp,pretrained-models,pytorch pushed_at:2022-12 star:0.6k fork:0.1k PatrickStar enables Larger, Faster, Greener Pretrained Models for NLP and democratizes AI for everyone.
 - [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow) topic:automl,computer-vision,deep-learning,mobile-app,model-compression pushed_at:2021-01 star:2.7k fork:0.5k An Automatic Model Compression (AutoMC) framework for developing smaller and faster AI applications.
 - [Tencent/PySC2TencentExtension](https://github.com/Tencent/PySC2TencentExtension) topic: pushed_at:2020-11 star:0.0k fork:0.0k 
 - [Tencent/QT4A](https://github.com/Tencent/QT4A) topic:android,qta,test-automation,test-framework,testing pushed_at:2021-04 star:0.3k fork:0.1k QTA driver for Android app
@@ -251,7 +251,7 @@
 - [Tencent/tdesign-react](https://github.com/Tencent/tdesign-react) topic:less,pc,react,tdesign,typescript pushed_at:2022-12 star:0.6k fork:0.2k A React UI components lib for TDesign.
 - [Tencent/tdesign-react-starter](https://github.com/Tencent/tdesign-react-starter) topic:react,starter-kit,tdesign pushed_at:2022-12 star:0.2k fork:0.1k A starter-kit for TDesign React UI components
 - [Tencent/tdesign-starter-cli](https://github.com/Tencent/tdesign-starter-cli) topic: pushed_at:2022-12 star:0.0k fork:0.0k CLI tool for TDesign Starter kit 
-- [Tencent/tdesign-vue](https://github.com/Tencent/tdesign-vue) topic:less,pc,tdesign,tyepscript,vue2 pushed_at:2022-12 star:0.6k fork:0.2k A Vue.js UI components lib for TDesign.
+- [Tencent/tdesign-vue](https://github.com/Tencent/tdesign-vue) topic:less,pc,tdesign,tyepscript,vue2 pushed_at:2022-12 star:0.7k fork:0.2k A Vue.js UI components lib for TDesign.
 - [Tencent/tdesign-vue-next](https://github.com/Tencent/tdesign-vue-next) topic:less,pc,tdesign,typescript,vue,vue3 pushed_at:2022-12 star:0.8k fork:0.3k A Vue3.x UI components lib for TDesign.
 - [Tencent/tmagic-editor](https://github.com/Tencent/tmagic-editor) topic: pushed_at:2022-12 star:3.1k fork:0.5k 
 - [Tencent/TSW](https://github.com/Tencent/TSW) topic:capture,javascript,js,log,monitor,nodejs,observability,server,tsw,web pushed_at:2022-12 star:1.8k fork:0.2k Tencent Server Web
