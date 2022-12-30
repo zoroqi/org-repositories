@@ -96,7 +96,7 @@
 
 ## HTML
 
-- [Netflix/dgs](https://github.com/Netflix/dgs) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
+- [Netflix/dgs](https://github.com/Netflix/dgs) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [Netflix/falcor-express-demo](https://github.com/Netflix/falcor-express-demo) topic: pushed_at:2016-02 star:0.2k fork:0.0k Demonstration Falcor end point for a Netflix-style Application using express
 - [Netflix/falcor-hapi-demo](https://github.com/Netflix/falcor-hapi-demo) topic: pushed_at:2018-03 star:0.0k fork:0.0k Demonstration Falcor end point using Hapi
 - [Netflix/falcor-restify-demo](https://github.com/Netflix/falcor-restify-demo) topic: pushed_at:2015-12 star:0.0k fork:0.0k Demonstration Falcor end point for Netflix clone using Restify
@@ -141,7 +141,7 @@
 - [Netflix/iceberg](https://github.com/Netflix/iceberg) topic:avro,hadoop,parquet,spark pushed_at:2021-11 star:0.4k fork:0.1k Iceberg is a table format for large, slow-moving tabular data
 - [Netflix/iep](https://github.com/Netflix/iep) topic: pushed_at:2022-12 star:0.1k fork:0.0k Insight Engineering Platform Components
 - [Netflix/karyon](https://github.com/Netflix/karyon) topic: pushed_at:2021-11 star:0.5k fork:0.2k The nucleus or the base container for Applications and Services built using the NetflixOSS ecosystem
-- [Netflix/mantis](https://github.com/Netflix/mantis) topic: pushed_at:2022-12 star:1.3k fork:0.1k A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications
+- [Netflix/mantis](https://github.com/Netflix/mantis) topic: pushed_at:2022-12 star:1.2k fork:0.1k A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications
 - [Netflix/mantis-api](https://github.com/Netflix/mantis-api) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [Netflix/mantis-connectors](https://github.com/Netflix/mantis-connectors) topic: pushed_at:2020-10 star:0.0k fork:0.0k Collection of Sources and Sinks for Mantis Jobs
 - [Netflix/mantis-control-plane](https://github.com/Netflix/mantis-control-plane) topic: pushed_at:2020-10 star:0.0k fork:0.0k 
@@ -174,7 +174,7 @@
 - [Netflix/titus-control-plane](https://github.com/Netflix/titus-control-plane) topic:containers,titus pushed_at:2022-05 star:0.3k fork:0.1k Titus is the Netflix Container Management Platform that manages containers and provides integrations to the infrastructure ecosystem.
 - [Netflix/Turbine](https://github.com/Netflix/Turbine) topic: pushed_at:2021-11 star:0.8k fork:0.3k SSE Stream Aggregator
 - [Netflix/zeno](https://github.com/Netflix/zeno) topic: pushed_at:2017-06 star:0.2k fork:0.1k Netflix's In-Memory Data Propagation Framework
-- [Netflix/zuul](https://github.com/Netflix/zuul) topic: pushed_at:2022-12 star:12.3k fork:2.3k Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
+- [Netflix/zuul](https://github.com/Netflix/zuul) topic: pushed_at:2022-12 star:12.4k fork:2.3k Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 
 ## JavaScript
 
@@ -275,7 +275,7 @@
 - [Netflix/security_monkey](https://github.com/Netflix/security_monkey) topic:aws,aws-ec2,aws-iam,aws-policy-tracking,aws-s3,aws-security,aws-sqs,aws-vpc,boto,boto3,botocore,python,security pushed_at:2021-02 star:4.3k fork:0.8k Security Monkey monitors AWS, GCP, OpenStack, and GitHub orgs for assets and their changes over time.
 - [Netflix/spectator-py](https://github.com/Netflix/spectator-py) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [Netflix/sureal](https://github.com/Netflix/sureal) topic: pushed_at:2022-11 star:0.1k fork:0.0k Subjective quality scores recovery from noisy measurements.
-- [Netflix/vmaf](https://github.com/Netflix/vmaf) topic: pushed_at:2022-12 star:3.2k fork:0.7k Perceptual video quality assessment based on multi-method fusion.
+- [Netflix/vmaf](https://github.com/Netflix/vmaf) topic: pushed_at:2022-12 star:3.3k fork:0.7k Perceptual video quality assessment based on multi-method fusion.
 
 ## R
 

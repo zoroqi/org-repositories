@@ -58,7 +58,7 @@
 - [oracle/nvm-direct](https://github.com/oracle/nvm-direct) topic: pushed_at:2019-04 star:0.1k fork:0.0k A C library to support applications that map Non-Volatile Memory into their address space for load/store access.
 - [oracle/odpi](https://github.com/oracle/odpi) topic: pushed_at:2022-11 star:0.2k fork:0.1k ODPI-C: Oracle Database Programming Interface for Drivers and Applications
 - [oracle/oracle-nosql-drivers](https://github.com/oracle/oracle-nosql-drivers) topic:oracle-nosql,oracle-nosql-database pushed_at:2016-04 star:0.0k fork:0.0k Connection drivers for Oracle NoSQL Database
-- [oracle/python-cx_Oracle](https://github.com/oracle/python-cx_Oracle) topic:database-connector,db-connection,odpi,oracle-database,oracle-db,python,python-library,python-module pushed_at:2022-06 star:0.8k fork:0.3k Python interface to Oracle Database now superseded by python-oracledb
+- [oracle/python-cx_Oracle](https://github.com/oracle/python-cx_Oracle) topic:database-connector,db-connection,odpi,oracle-database,oracle-db,python,python-library,python-module pushed_at:2022-06 star:0.8k fork:0.4k Python interface to Oracle Database now superseded by python-oracledb
 - [oracle/qemu](https://github.com/oracle/qemu) topic:qemu,virtualization pushed_at:2022-12 star:0.0k fork:0.0k QEMU git Oracle repository
 - [oracle/rdma-core](https://github.com/oracle/rdma-core) topic:linux,rdma pushed_at:2022-08 star:0.0k fork:0.0k RDMA core userspace libraries and daemons
 - [oracle/rds-tools](https://github.com/oracle/rds-tools) topic: pushed_at:2021-12 star:0.0k fork:0.0k Reliable Datagram Sockets Tools -  rds-ping, rds-info, rds-stress
@@ -263,7 +263,7 @@
 ## Others
 
 - [oracle/.github](https://github.com/oracle/.github) topic:community-health-files,github pushed_at:2022-08 star:0.0k fork:0.0k Default community health files for the Oracle GitHub Organisation (OGHO)
-- [oracle/apex](https://github.com/oracle/apex) topic:app-development,low-code,oracle-database pushed_at:2022-12 star:0.2k fork:0.1k Official Oracle APEX repo for sample code, starter apps, plug-ins, and more! #orclapex
+- [oracle/apex](https://github.com/oracle/apex) topic:app-development,low-code,oracle-database pushed_at:2022-12 star:0.2k fork:0.2k Official Oracle APEX repo for sample code, starter apps, plug-ins, and more! #orclapex
 - [oracle/binutils-gdb](https://github.com/oracle/binutils-gdb) topic:binutils,gdb,oracle pushed_at:2022-12 star:0.0k fork:0.0k Unofficial mirror of http://sourceware.org/git/binutils-gdb.git
 - [oracle/chef-samples](https://github.com/oracle/chef-samples) topic:chef-cookbook pushed_at:2016-11 star:0.0k fork:0.0k Index of Chef Samples and Cookbooks for Oracle Products published on GitHub
 - [oracle/cloud-asset-hcm-dataloading-using-soacs-samples](https://github.com/oracle/cloud-asset-hcm-dataloading-using-soacs-samples) topic:ateam,hcm,loaddata,saas pushed_at:2020-03 star:0.0k fork:0.0k This sample shows how to load complex data into Oracle HCM using Java

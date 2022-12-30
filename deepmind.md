@@ -101,7 +101,7 @@
 - [deepmind/.github](https://github.com/deepmind/.github) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [deepmind/abstract-reasoning-matrices](https://github.com/deepmind/abstract-reasoning-matrices) topic: pushed_at:2019-02 star:0.2k fork:0.0k Progressive matrices dataset, as described in: Measuring abstract reasoning in neural networks (Barrett*, Hill*, Santoro*, Morcos, Lillicrap), ICML2018
 - [deepmind/AQuA](https://github.com/deepmind/AQuA) topic: pushed_at:2017-11 star:0.2k fork:0.0k A algebraic word problem dataset, with multiple choice questions annotated with rationales.
-- [deepmind/boxoban-levels](https://github.com/deepmind/boxoban-levels) topic: pushed_at:2019-01 star:0.1k fork:0.0k This repository contains levels for boxoban, a box-pushing puzzle game inspired by Sokoban.
+- [deepmind/boxoban-levels](https://github.com/deepmind/boxoban-levels) topic: pushed_at:2022-12 star:0.1k fork:0.0k This repository contains levels for boxoban, a box-pushing puzzle game inspired by Sokoban.
 - [deepmind/card2code](https://github.com/deepmind/card2code) topic: pushed_at:2017-12 star:0.2k fork:0.0k A code generation dataset for generating the code that implements Hearthstone and Magic The Gathering card effects.
 - [deepmind/deep-compressed-sensing](https://github.com/deepmind/deep-compressed-sensing) topic: pushed_at:2019-11 star:0.0k fork:0.0k 
 - [deepmind/jax](https://github.com/deepmind/jax) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
@@ -121,7 +121,7 @@
 - [deepmind/active_ops](https://github.com/deepmind/active_ops) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
 - [deepmind/affordances_option_models](https://github.com/deepmind/affordances_option_models) topic: pushed_at:2021-11 star:0.0k fork:0.0k 
 - [deepmind/agent_debugger](https://github.com/deepmind/agent_debugger) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
-- [deepmind/ai-safety-gridworlds](https://github.com/deepmind/ai-safety-gridworlds) topic: pushed_at:2022-05 star:0.5k fork:0.1k This is a suite of reinforcement learning environments illustrating various safety properties of intelligent agents.
+- [deepmind/ai-safety-gridworlds](https://github.com/deepmind/ai-safety-gridworlds) topic: pushed_at:2022-05 star:0.6k fork:0.1k This is a suite of reinforcement learning environments illustrating various safety properties of intelligent agents.
 - [deepmind/alphafold](https://github.com/deepmind/alphafold) topic: pushed_at:2022-12 star:9.7k fork:1.7k Open source code for AlphaFold.
 - [deepmind/alphastar](https://github.com/deepmind/alphastar) topic: pushed_at:2022-09 star:0.2k fork:0.0k 
 - [deepmind/alphatensor](https://github.com/deepmind/alphatensor) topic: pushed_at:2022-10 star:2.3k fork:0.2k 
@@ -200,10 +200,10 @@
 - [deepmind/offpolicy_selection_eslb](https://github.com/deepmind/offpolicy_selection_eslb) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [deepmind/optax](https://github.com/deepmind/optax) topic: pushed_at:2022-12 star:1.0k fork:0.1k Optax is a gradient processing and optimization library for JAX.
 - [deepmind/pycolab](https://github.com/deepmind/pycolab) topic: pushed_at:2019-09 star:0.6k fork:0.1k A highly-customisable gridworld game engine with some batteries included. Make your own gridworld games to test reinforcement learning agents!
-- [deepmind/pysc2](https://github.com/deepmind/pysc2) topic:blizzard-api,deepmind,machine-learning,reinforcement-learning,starcraft-ii,starcraft-ii-replays pushed_at:2022-12 star:7.6k fork:1.2k StarCraft II Learning Environment
+- [deepmind/pysc2](https://github.com/deepmind/pysc2) topic:blizzard-api,deepmind,machine-learning,reinforcement-learning,starcraft-ii,starcraft-ii-replays pushed_at:2022-12 star:7.7k fork:1.2k StarCraft II Learning Environment
 - [deepmind/rc-data](https://github.com/deepmind/rc-data) topic: pushed_at:2017-04 star:1.3k fork:0.2k Question answering dataset featured in "Teaching Machines to Read and Comprehend
 - [deepmind/rgb_stacking](https://github.com/deepmind/rgb_stacking) topic: pushed_at:2021-11 star:0.1k fork:0.0k 
-- [deepmind/rlax](https://github.com/deepmind/rlax) topic: pushed_at:2022-12 star:0.9k fork:0.1k 
+- [deepmind/rlax](https://github.com/deepmind/rlax) topic: pushed_at:2022-12 star:1.0k fork:0.1k 
 - [deepmind/scalable_agent](https://github.com/deepmind/scalable_agent) topic: pushed_at:2019-03 star:0.9k fork:0.2k A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures.
 - [deepmind/slim-dataset](https://github.com/deepmind/slim-dataset) topic: pushed_at:2018-07 star:0.0k fork:0.0k Datasets used to train Spatial Language Integrating Model (SLIM) in the ‘Encoding Spatial Relations from Natural Language’ paper.
 - [deepmind/slowfast_nfnets](https://github.com/deepmind/slowfast_nfnets) topic: pushed_at:2022-06 star:0.0k fork:0.0k 

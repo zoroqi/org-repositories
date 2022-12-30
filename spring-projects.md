@@ -21,7 +21,7 @@
 
 ## CSS
 
-- [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) topic: pushed_at:2022-12 star:6.0k fork:18.1k A sample Spring-based application
+- [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) topic: pushed_at:2022-12 star:6.0k fork:18.2k A sample Spring-based application
 - [spring-projects/spring-webflow-samples](https://github.com/spring-projects/spring-webflow-samples) topic: pushed_at:2022-11 star:0.4k fork:0.6k 
 
 ## Groovy
@@ -37,7 +37,7 @@
 - [spring-projects/spring-authorization-server](https://github.com/spring-projects/spring-authorization-server) topic: pushed_at:2022-12 star:4.1k fork:1.0k Spring Authorization Server
 - [spring-projects/spring-batch](https://github.com/spring-projects/spring-batch) topic: pushed_at:2022-12 star:2.3k fork:2.1k Spring Batch is a framework for writing offline and batch applications using Spring and Java
 - [spring-projects/spring-batch-extensions](https://github.com/spring-projects/spring-batch-extensions) topic: pushed_at:2022-12 star:0.2k fork:0.2k Spring Batch Extensions
-- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) topic:framework,java,spring,spring-boot pushed_at:2022-12 star:64.7k fork:37.7k Spring Boot
+- [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) topic:framework,java,spring,spring-boot pushed_at:2022-12 star:64.8k fork:37.7k Spring Boot
 - [spring-projects/spring-boot-data-geode](https://github.com/spring-projects/spring-boot-data-geode) topic:apache-geode,framework,java,spring,spring-boot pushed_at:2022-12 star:0.0k fork:0.0k Spring Boot support for Apache Geode and VMware Tanzu GemFire
 - [spring-projects/spring-credhub](https://github.com/spring-projects/spring-credhub) topic: pushed_at:2022-12 star:0.0k fork:0.0k Spring abstractions for Cloud Foundry CredHub
 - [spring-projects/spring-data-book](https://github.com/spring-projects/spring-data-book) topic: pushed_at:2022-12 star:1.3k fork:1.1k Spring Data - The Definitive Guide - Modern Data Access for Enterprise Java Developers
@@ -59,11 +59,11 @@
 - [spring-projects/spring-data-release](https://github.com/spring-projects/spring-data-release) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [spring-projects/spring-data-rest](https://github.com/spring-projects/spring-data-rest) topic:ddd,framework,java,spring,spring-data pushed_at:2022-12 star:0.8k fork:0.5k Simplifies building hypermedia-driven REST web services on top of Spring Data repositories
 - [spring-projects/spring-data-solr](https://github.com/spring-projects/spring-data-solr) topic: pushed_at:2022-07 star:0.4k fork:0.3k Spring Data - Apache Solr integration
-- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) topic:framework,spring,spring-framework pushed_at:2022-12 star:50.2k fork:35.2k Spring Framework
+- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) topic:framework,spring,spring-framework pushed_at:2022-12 star:50.3k fork:35.3k Spring Framework
 - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) topic:graphql,spring-graphql pushed_at:2022-12 star:1.3k fork:0.2k Spring Integration for GraphQL 
 - [spring-projects/spring-guice](https://github.com/spring-projects/spring-guice) topic: pushed_at:2022-10 star:0.2k fork:0.1k Tools for using Spring in Guice and Guice in Spring
 - [spring-projects/spring-hateoas](https://github.com/spring-projects/spring-hateoas) topic: pushed_at:2022-12 star:1.0k fork:0.5k Spring HATEOAS - Library to support implementing representations for hyper-text driven REST web services.
-- [spring-projects/spring-hateoas-examples](https://github.com/spring-projects/spring-hateoas-examples) topic:hateoas,rest,spring pushed_at:2022-11 star:0.3k fork:0.2k Collection of examples on how (and why) to build hypermedia-driven apps with Spring HATEOAS
+- [spring-projects/spring-hateoas-examples](https://github.com/spring-projects/spring-hateoas-examples) topic:hateoas,rest,spring pushed_at:2022-12 star:0.3k fork:0.2k Collection of examples on how (and why) to build hypermedia-driven apps with Spring HATEOAS
 - [spring-projects/spring-integration](https://github.com/spring-projects/spring-integration) topic:eip,java,microservices,spring pushed_at:2022-12 star:1.4k fork:1.0k Spring Integration provides an extension of the Spring programming model to support the well-known Enterprise Integration Patterns (EIP)
 - [spring-projects/spring-integration-aws](https://github.com/spring-projects/spring-integration-aws) topic: pushed_at:2022-12 star:0.2k fork:0.2k 
 - [spring-projects/spring-integration-extensions](https://github.com/spring-projects/spring-integration-extensions) topic: pushed_at:2022-10 star:0.3k fork:0.3k The Spring Integration Extensions project provides extension components for Spring Integration
@@ -76,8 +76,8 @@
 - [spring-projects/spring-loaded](https://github.com/spring-projects/spring-loaded) topic: pushed_at:2022-04 star:2.7k fork:0.5k Java agent that enables class reloading in a running JVM
 - [spring-projects/spring-plugin](https://github.com/spring-projects/spring-plugin) topic: pushed_at:2022-11 star:0.4k fork:0.1k 
 - [spring-projects/spring-restdocs](https://github.com/spring-projects/spring-restdocs) topic: pushed_at:2022-11 star:1.1k fork:0.7k Test-driven documentation for RESTful services
-- [spring-projects/spring-retry](https://github.com/spring-projects/spring-retry) topic: pushed_at:2022-11 star:1.8k fork:0.4k 
-- [spring-projects/spring-security](https://github.com/spring-projects/spring-security) topic:framework,java,security,spring,spring-framework pushed_at:2022-12 star:7.3k fork:5.2k Spring Security
+- [spring-projects/spring-retry](https://github.com/spring-projects/spring-retry) topic: pushed_at:2022-11 star:1.9k fork:0.4k 
+- [spring-projects/spring-security](https://github.com/spring-projects/spring-security) topic:framework,java,security,spring,spring-framework pushed_at:2022-12 star:7.3k fork:5.3k Spring Security
 - [spring-projects/spring-security-kerberos](https://github.com/spring-projects/spring-security-kerberos) topic: pushed_at:2022-04 star:0.2k fork:0.2k 
 - [spring-projects/spring-security-samples](https://github.com/spring-projects/spring-security-samples) topic: pushed_at:2022-12 star:0.6k fork:0.4k 
 - [spring-projects/spring-session](https://github.com/spring-projects/spring-session) topic: pushed_at:2022-12 star:1.8k fork:1.1k Spring Session

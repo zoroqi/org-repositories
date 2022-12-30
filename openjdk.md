@@ -46,7 +46,7 @@
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) topic: pushed_at:2021-04 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/friday-stats
 - [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2022-12 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2022-11 star:0.3k fork:0.0k https://openjdk.org/projects/code-tools/jcstress
-- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2022-12 star:14.7k fork:4.1k JDK main-line development https://openjdk.org/projects/jdk
+- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2022-12 star:14.8k fork:4.2k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2022-12 star:0.0k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2022-12 star:0.1k fork:0.1k https://openjdk.org/projects/jdk-updates

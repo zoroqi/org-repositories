@@ -76,7 +76,7 @@
 - [eclipse/keyple-plugin-stub-cpp-lib](https://github.com/eclipse/keyple-plugin-stub-cpp-lib) topic: pushed_at:2022-09 star:0.0k fork:0.0k keyple-plugin-stub-cpp-lib
 - [eclipse/keyple-service-cpp-lib](https://github.com/eclipse/keyple-service-cpp-lib) topic: pushed_at:2022-12 star:0.0k fork:0.0k Eclipse Keyple™ Project - C++ implementation: main service API for end users
 - [eclipse/keyple-service-resource-cpp-lib](https://github.com/eclipse/keyple-service-resource-cpp-lib) topic: pushed_at:2022-12 star:0.0k fork:0.0k keyple-service-resource-cpp-lib
-- [eclipse/keyple-util-cpp-lib](https://github.com/eclipse/keyple-util-cpp-lib) topic: pushed_at:2022-11 star:0.0k fork:0.0k keyple-util-cpp-lib
+- [eclipse/keyple-util-cpp-lib](https://github.com/eclipse/keyple-util-cpp-lib) topic: pushed_at:2022-12 star:0.0k fork:0.0k keyple-util-cpp-lib
 - [eclipse/kuksa.apps](https://github.com/eclipse/kuksa.apps) topic: pushed_at:2022-11 star:0.0k fork:0.0k Kuksa Apps repo
 - [eclipse/kuksa.invehicle](https://github.com/eclipse/kuksa.invehicle) topic: pushed_at:2022-11 star:0.0k fork:0.0k Kuksa Invehicle repo
 - [eclipse/kuksa.val](https://github.com/eclipse/kuksa.val) topic: pushed_at:2022-12 star:0.0k fork:0.0k kuksa.val
@@ -133,7 +133,7 @@
 ## CMake
 
 - [eclipse/keyple-common-cpp-api](https://github.com/eclipse/keyple-common-cpp-api) topic: pushed_at:2022-08 star:0.0k fork:0.0k keyple-common-cpp-api
-- [eclipse/keyple-cpp-meta](https://github.com/eclipse/keyple-cpp-meta) topic: pushed_at:2022-09 star:0.0k fork:0.0k keyple-cpp-meta
+- [eclipse/keyple-cpp-meta](https://github.com/eclipse/keyple-cpp-meta) topic: pushed_at:2022-12 star:0.0k fork:0.0k keyple-cpp-meta
 
 ## COBOL
 
@@ -298,7 +298,7 @@
 - [eclipse/keyple-distributed-remote-java-lib](https://github.com/eclipse/keyple-distributed-remote-java-lib) topic: pushed_at:2021-10 star:0.0k fork:0.0k Eclipse Keyple™ Project: distributed remote plugin API for end users
 - [eclipse/keyple-integration-java-test](https://github.com/eclipse/keyple-integration-java-test) topic:internal,java,keyple,support pushed_at:2022-12 star:0.0k fork:0.0k Eclipse Keyple™ Project: java integration tests / internal to the project
 - [eclipse/keyple-java-example](https://github.com/eclipse/keyple-java-example) topic:java,keyple,support pushed_at:2022-12 star:0.0k fork:0.0k Eclipse Keyple™ Project: use case examples of the Keyple Java components for end users
-- [eclipse/keyple-plugin-java-api](https://github.com/eclipse/keyple-plugin-java-api) topic: pushed_at:2022-05 star:0.0k fork:0.0k Eclipse Keyple™ Project - Java implementation: API for plugin developers
+- [eclipse/keyple-plugin-java-api](https://github.com/eclipse/keyple-plugin-java-api) topic: pushed_at:2022-12 star:0.0k fork:0.0k Eclipse Keyple™ Project - Java implementation: API for plugin developers
 - [eclipse/keyple-plugin-pcsc-java-lib](https://github.com/eclipse/keyple-plugin-pcsc-java-lib) topic: pushed_at:2022-09 star:0.0k fork:0.0k Eclipse Keyple™ Project: PC/SC plugin API for end users
 - [eclipse/keyple-plugin-stub-java-lib](https://github.com/eclipse/keyple-plugin-stub-java-lib) topic: pushed_at:2022-06 star:0.0k fork:0.0k Eclipse Keyple™ Project: stub plugin API for end users
 - [eclipse/keyple-service-java-lib](https://github.com/eclipse/keyple-service-java-lib) topic: pushed_at:2022-10 star:0.0k fork:0.0k Eclipse Keyple™ Project - Java implementation: main service API for end users
@@ -320,7 +320,7 @@
 - [eclipse/lyo.adapter-simulink](https://github.com/eclipse/lyo.adapter-simulink) topic: pushed_at:2018-05 star:0.0k fork:0.0k lyo.adapter-simulink
 - [eclipse/lyo.client](https://github.com/eclipse/lyo.client) topic: pushed_at:2021-05 star:0.0k fork:0.0k Lyo project repository (lyo.client)
 - [eclipse/lyo.core](https://github.com/eclipse/lyo.core) topic: pushed_at:2021-09 star:0.0k fork:0.0k Lyo project repository (lyo.core)
-- [eclipse/lyo.designer](https://github.com/eclipse/lyo.designer) topic: pushed_at:2022-11 star:0.0k fork:0.0k  lyo.designer
+- [eclipse/lyo.designer](https://github.com/eclipse/lyo.designer) topic: pushed_at:2022-12 star:0.0k fork:0.0k  lyo.designer
 - [eclipse/lyo.docs](https://github.com/eclipse/lyo.docs) topic: pushed_at:2022-05 star:0.0k fork:0.0k Lyo project repository (lyo.docs)
 - [eclipse/lyo.domains](https://github.com/eclipse/lyo.domains) topic: pushed_at:2020-12 star:0.0k fork:0.0k POJOs that implement resources in OSLC domains
 - [eclipse/lyo.ldp](https://github.com/eclipse/lyo.ldp) topic: pushed_at:2022-05 star:0.0k fork:0.0k lyo.ldp

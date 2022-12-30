@@ -39,7 +39,7 @@
 - [ustclug/hackergame2019-writeups](https://github.com/ustclug/hackergame2019-writeups) topic: pushed_at:2020-07 star:0.3k fork:0.0k Write-ups for hackergame 2019
 - [ustclug/mirrors-index](https://github.com/ustclug/mirrors-index) topic: pushed_at:2018-05 star:0.0k fork:0.0k Go https://git.lug.ustc.edu.cn/mirrors/mirrors-index for latest version
 - [ustclug/news](https://github.com/ustclug/news) topic: pushed_at:2020-08 star:0.0k fork:0.0k USTC LUG 新闻站
-- [ustclug/qtguide](https://github.com/ustclug/qtguide) topic: pushed_at:2022-11 star:0.1k fork:0.0k Qt Programming Guide
+- [ustclug/qtguide](https://github.com/ustclug/qtguide) topic: pushed_at:2022-12 star:0.1k fork:0.0k Qt Programming Guide
 - [ustclug/website](https://github.com/ustclug/website) topic:hacktoberfest,jekyll,website pushed_at:2022-12 star:0.0k fork:0.0k The next-gen website of LUG@USTC.
 
 ## Hack
@@ -85,16 +85,16 @@
 
 - [ustclug/docker-gitlab](https://github.com/ustclug/docker-gitlab) topic: pushed_at:2017-04 star:0.0k fork:0.0k Dockerized GitLab
 - [ustclug/docker-image](https://github.com/ustclug/docker-image) topic: pushed_at:2017-01 star:0.0k fork:0.0k 💀docker image used by USTC LUG (deprecated)
-- [ustclug/light-list](https://github.com/ustclug/light-list) topic: pushed_at:2022-11 star:0.0k fork:0.0k accelerate list of light service (Last run: 2022-12-22)
+- [ustclug/light-list](https://github.com/ustclug/light-list) topic: pushed_at:2022-11 star:0.0k fork:0.0k accelerate list of light service (Last run: 2022-12-29)
 - [ustclug/light-server](https://github.com/ustclug/light-server) topic: pushed_at:2022-07 star:0.0k fork:0.0k light accelerator daemon
 - [ustclug/light-socks5](https://github.com/ustclug/light-socks5) topic: pushed_at:2018-01 star:0.0k fork:0.0k light accelerator socks5 daemon
 - [ustclug/liimstrap](https://github.com/ustclug/liimstrap) topic: pushed_at:2022-12 star:0.0k fork:0.0k 中国科大图书馆查询机生成脚本。
-- [ustclug/Linux101-docs](https://github.com/ustclug/Linux101-docs) topic:hacktoberfest pushed_at:2022-11 star:0.3k fork:0.0k Linux 101 学生课程教材与讲义
+- [ustclug/Linux101-docs](https://github.com/ustclug/Linux101-docs) topic:hacktoberfest pushed_at:2022-12 star:0.3k fork:0.0k Linux 101 学生课程教材与讲义
 - [ustclug/Linux101-USTC](https://github.com/ustclug/Linux101-USTC) topic: pushed_at:2020-03 star:0.0k fork:0.0k Linux 101 is a course organized by several members of LUG@USTC. It is designed to popularize Linux and open source culture in USTC. First brought up by Jin Zida.
 - [ustclug/lug-sites-sync](https://github.com/ustclug/lug-sites-sync) topic: pushed_at:2015-08 star:0.0k fork:0.0k 💀Script to sync lug.ustc.edu.cn/sites pages (deprecated)
 - [ustclug/lugftp](https://github.com/ustclug/lugftp) topic:afp,ftp,ftp-site pushed_at:2022-12 star:0.0k fork:0.0k FTP site of USTC Linux User Group
 - [ustclug/lugwiki](https://github.com/ustclug/lugwiki) topic: pushed_at:2020-08 star:0.0k fork:0.0k wiki site of USTC Linux User Group
-- [ustclug/mirrorimage](https://github.com/ustclug/mirrorimage) topic: pushed_at:2022-10 star:0.0k fork:0.0k Docker Distribution Images replaced with USTC Mirrors (Last run: 2022-12-18)
+- [ustclug/mirrorimage](https://github.com/ustclug/mirrorimage) topic: pushed_at:2022-10 star:0.0k fork:0.0k Docker Distribution Images replaced with USTC Mirrors (Last run: 2022-12-25)
 - [ustclug/monitor](https://github.com/ustclug/monitor) topic: pushed_at:2018-06 star:0.0k fork:0.0k tools used by USTC LUG monitor site
 - [ustclug/neatdns](https://github.com/ustclug/neatdns) topic: pushed_at:2022-02 star:0.3k fork:0.0k anti-pollution DNS server
 - [ustclug/pypi-mirror](https://github.com/ustclug/pypi-mirror) topic: pushed_at:2017-02 star:0.0k fork:0.0k 💀 pypi mirror tool (deprecated)
