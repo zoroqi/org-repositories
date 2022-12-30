@@ -55,13 +55,13 @@
 ## Go
 
 - [pingcap/advanced-statefulset](https://github.com/pingcap/advanced-statefulset) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [pingcap/badger](https://github.com/pingcap/badger) topic: pushed_at:2022-06 star:0.0k fork:0.0k Fast key-value DB in Go.
+- [pingcap/badger](https://github.com/pingcap/badger) topic: pushed_at:2022-12 star:0.0k fork:0.0k Fast key-value DB in Go.
 - [pingcap/br](https://github.com/pingcap/br) topic:backup,distributed-database,point-in-time,restore,tidb pushed_at:2022-12 star:0.1k fork:0.1k A command-line tool for distributed backup and restoration of the TiDB cluster data
 - [pingcap/chaos](https://github.com/pingcap/chaos) topic:linearizability pushed_at:2019-07 star:0.2k fork:0.0k A test framework for linearizability check with Go
 - [pingcap/check](https://github.com/pingcap/check) topic: pushed_at:2021-10 star:0.0k fork:0.0k Rich testing for the Go language
 - [pingcap/dead-mans-switch](https://github.com/pingcap/dead-mans-switch) topic: pushed_at:2021-09 star:0.0k fork:0.0k A bypass monitoring prober
 - [pingcap/dm](https://github.com/pingcap/dm) topic:hacktoberfest pushed_at:2022-05 star:0.5k fork:0.2k Data Migration Platform
-- [pingcap/dumpling](https://github.com/pingcap/dumpling) topic:backup,csv,dump,go,hacktoberfest,library,mysql,mysqldump,sql,sql-dump,tidb pushed_at:2022-04 star:0.3k fork:0.1k Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud(S3, GCP...) in multifarious formats(SQL, CSV...).
+- [pingcap/dumpling](https://github.com/pingcap/dumpling) topic:backup,csv,dump,go,hacktoberfest,library,mysql,mysqldump,sql,sql-dump,tidb pushed_at:2022-12 star:0.3k fork:0.1k Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud(S3, GCP...) in multifarious formats(SQL, CSV...).
 - [pingcap/errcode](https://github.com/pingcap/errcode) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [pingcap/errors](https://github.com/pingcap/errors) topic: pushed_at:2022-10 star:0.0k fork:0.0k Simple error handling primitives
 - [pingcap/etcdv3-gateway](https://github.com/pingcap/etcdv3-gateway) topic: pushed_at:2016-03 star:0.0k fork:0.0k Gateway for etcdv3
@@ -88,7 +88,7 @@
 - [pingcap/parser](https://github.com/pingcap/parser) topic: pushed_at:2022-08 star:1.3k fork:0.5k A MySQL Compatible SQL Parser
 - [pingcap/public_bi_benchmark](https://github.com/pingcap/public_bi_benchmark) topic: pushed_at:2022-04 star:0.0k fork:0.0k BI benchmark with user generated data and queries
 - [pingcap/sysutil](https://github.com/pingcap/sysutil) topic: pushed_at:2022-06 star:0.0k fork:0.0k sysutil is a library which implementats the gRPC service Diagnostics and shares the diagnostics functions between TiDB and PD.
-- [pingcap/tidb](https://github.com/pingcap/tidb) topic:cloud-native,database,distributed-database,distributed-transactions,go,hacktoberfest,htap,mysql,mysql-compatibility,scale,serverless,sql,tidb pushed_at:2022-12 star:33.0k fork:5.4k TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
+- [pingcap/tidb](https://github.com/pingcap/tidb) topic:cloud-native,database,distributed-database,distributed-transactions,go,hacktoberfest,htap,mysql,mysql-compatibility,scale,serverless,sql,tidb pushed_at:2022-12 star:33.1k fork:5.4k TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try free: https://tidbcloud.com/free-trial
 - [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) topic: pushed_at:2022-12 star:0.3k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
 - [pingcap/tidb-cloud-backup](https://github.com/pingcap/tidb-cloud-backup) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
 - [pingcap/tidb-ctl](https://github.com/pingcap/tidb-ctl) topic: pushed_at:2022-03 star:0.0k fork:0.0k TiDB Controller
@@ -124,7 +124,7 @@
 
 ## JavaScript
 
-- [pingcap/book.tidb.net](https://github.com/pingcap/book.tidb.net) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
+- [pingcap/book.tidb.net](https://github.com/pingcap/book.tidb.net) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [pingcap/campaign](https://github.com/pingcap/campaign) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [pingcap/community-website](https://github.com/pingcap/community-website) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 - [pingcap/docs-staging](https://github.com/pingcap/docs-staging) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -222,7 +222,7 @@
 
 - [pingcap/diagnosis-ui](https://github.com/pingcap/diagnosis-ui) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [pingcap/gdocwiki](https://github.com/pingcap/gdocwiki) topic: pushed_at:2022-05 star:0.1k fork:0.0k A wiki based on Google Doc / Drive
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) topic:aisql,analytics,chatgpt,demo,github,htap,insight,openai,oss,realtime pushed_at:2022-12 star:0.7k fork:0.1k Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software. Follow us on Twitter: https://twitter.com/ossinsight
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) topic:aisql,analytics,demo,github,htap,insight,openai,oss,realtime,text2sql pushed_at:2022-12 star:0.7k fork:0.1k Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software, also using OpenAI to translate text to SQL. Follow us on Twitter: https://twitter.com/ossinsight
 - [pingcap/tidb-dashboard](https://github.com/pingcap/tidb-dashboard) topic:dashboard,tidb,troubleshooting,ui pushed_at:2022-12 star:0.1k fork:0.1k A Web UI for monitoring, diagnosing and managing the TiDB cluster.
 - [pingcap/tidb-prisma-vercel-demo](https://github.com/pingcap/tidb-prisma-vercel-demo) topic:bookstore,ecommerce,nextjs,prisma,tidb,tidbcloud,vercel pushed_at:2022-12 star:0.0k fork:0.0k Virtual online bookstore application demo which you can find books of various categories and rate the books.
 - [pingcap/tiunimanager-ui](https://github.com/pingcap/tiunimanager-ui) topic:tidb,tiunimanager,ui pushed_at:2022-09 star:0.0k fork:0.0k A web UI for TiUniManager

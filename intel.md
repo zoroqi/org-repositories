@@ -143,7 +143,7 @@
 - [intel/idxd-config](https://github.com/intel/idxd-config) topic: pushed_at:2022-12 star:0.0k fork:0.0k Accel-config / libaccel-config
 - [intel/idxd-driver](https://github.com/intel/idxd-driver) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
 - [intel/iefs-kernel-updates](https://github.com/intel/iefs-kernel-updates) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
-- [intel/igsc](https://github.com/intel/igsc) topic:firmware,graphics,update pushed_at:2022-11 star:0.0k fork:0.0k Intel graphics system controller firmware update library. 
+- [intel/igsc](https://github.com/intel/igsc) topic:firmware,graphics,update pushed_at:2022-12 star:0.0k fork:0.0k Intel graphics system controller firmware update library. 
 - [intel/Igvtg-kernel](https://github.com/intel/Igvtg-kernel) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/Igvtg-qemu](https://github.com/intel/Igvtg-qemu) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
 - [intel/Igvtg-xen](https://github.com/intel/Igvtg-xen) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
@@ -177,13 +177,13 @@
 - [intel/iotg-lin-gfx-mesa](https://github.com/intel/iotg-lin-gfx-mesa) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/iotg-lin-gfx-va-driver](https://github.com/intel/iotg-lin-gfx-va-driver) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/iotg-mgbe-undi-driver](https://github.com/intel/iotg-mgbe-undi-driver) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
-- [intel/iotg_tsn_ref_sw](https://github.com/intel/iotg_tsn_ref_sw) topic:iotg-tsn-ref-sw pushed_at:2022-11 star:0.1k fork:0.1k IOTG Time-Sensitive Networking Reference Software
+- [intel/iotg_tsn_ref_sw](https://github.com/intel/iotg_tsn_ref_sw) topic:iotg-tsn-ref-sw pushed_at:2022-12 star:0.1k fork:0.1k IOTG Time-Sensitive Networking Reference Software
 - [intel/ipmctl](https://github.com/intel/ipmctl) topic: pushed_at:2022-11 star:0.2k fork:0.1k 
 - [intel/ipp-crypto](https://github.com/intel/ipp-crypto) topic: pushed_at:2022-12 star:0.3k fork:0.1k 
 - [intel/ipu4-cam-hal](https://github.com/intel/ipu4-cam-hal) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/ipu6-camera-bins](https://github.com/intel/ipu6-camera-bins) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [intel/ipu6-camera-hal](https://github.com/intel/ipu6-camera-hal) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [intel/ipu6-drivers](https://github.com/intel/ipu6-drivers) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
+- [intel/ipu6-drivers](https://github.com/intel/ipu6-drivers) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [intel/ipvr-vaapi-driver](https://github.com/intel/ipvr-vaapi-driver) topic: pushed_at:2014-12 star:0.0k fork:0.0k Intel PVR VA-API Driver (VXD392)
 - [intel/irqbalance](https://github.com/intel/irqbalance) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [intel/isa-l](https://github.com/intel/isa-l) topic: pushed_at:2022-12 star:0.7k fork:0.3k Intelligent Storage Acceleration Library
@@ -262,7 +262,7 @@
 - [intel/psm](https://github.com/intel/psm) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/psst](https://github.com/intel/psst) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [intel/QAT_Engine](https://github.com/intel/QAT_Engine) topic:openssl-engine pushed_at:2022-12 star:0.3k fork:0.1k Intel QuickAssist Technology( QAT) OpenSSL Engine (an OpenSSL Plug-In Engine) which provides cryptographic acceleration for both hardware and optimized software using Intel QuickAssist Technology enabled Intel platforms. https://developer.intel.com/quickassist
-- [intel/qatlib](https://github.com/intel/qatlib) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
+- [intel/qatlib](https://github.com/intel/qatlib) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [intel/QATzip](https://github.com/intel/QATzip) topic: pushed_at:2022-12 star:0.1k fork:0.0k Compression Library accelerated by Intel® QuickAssist Technology
 - [intel/qemu-lite](https://github.com/intel/qemu-lite) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
 - [intel/qemu-sgx](https://github.com/intel/qemu-sgx) topic: pushed_at:2022-01 star:0.1k fork:0.0k 
@@ -357,7 +357,7 @@
 - [intel/Dependency-Reduction-Unit-Framework](https://github.com/intel/Dependency-Reduction-Unit-Framework) topic:dependency,testing pushed_at:2022-09 star:0.0k fork:0.0k Test-Framework with capabilitys for dependency reduction for C/C++-Legacy Projects 
 - [intel/Developer-Tools-Runtimes-Blogs](https://github.com/intel/Developer-Tools-Runtimes-Blogs) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/Display-Virtualization-for-Windows-OS](https://github.com/intel/Display-Virtualization-for-Windows-OS) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [intel/DML](https://github.com/intel/DML) topic:accelerators,dml pushed_at:2022-06 star:0.0k fork:0.0k Intel® Data Mover Library (Intel® DML)
+- [intel/DML](https://github.com/intel/DML) topic:accelerators,dml pushed_at:2022-12 star:0.0k fork:0.0k Intel® Data Mover Library (Intel® DML)
 - [intel/double-batched-fft-library](https://github.com/intel/double-batched-fft-library) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [intel/dptf](https://github.com/intel/dptf) topic: pushed_at:2022-09 star:0.1k fork:0.0k 
 - [intel/dynamic-application-loader-host-interface](https://github.com/intel/dynamic-application-loader-host-interface) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
@@ -940,7 +940,7 @@
 - [intel/CommsPowerManagement](https://github.com/intel/CommsPowerManagement) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [intel/conversational-ai-chatbot](https://github.com/intel/conversational-ai-chatbot) topic: pushed_at:2022-12 star:0.0k fork:0.0k The Conversational AI Chat Bot contains automatic speech recognition (ASR), text to speech (TTS), and natural language processing (NLP) as microservices and leverages deep learning algorithms of Intel® Distribution of OpenVINO™ toolkit. This RI provides microservices that will allow your system to listen through the mic array, understand natural language expressions, determine intent and entities, and formulate a response.
 - [intel/Converter-for-OPCUA](https://github.com/intel/Converter-for-OPCUA) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
-- [intel/CPU-Manager-for-Kubernetes](https://github.com/intel/CPU-Manager-for-Kubernetes) topic: pushed_at:2021-06 star:0.2k fork:0.1k Kubernetes Core Manager for NFV workloads
+- [intel/CPU-Manager-for-Kubernetes](https://github.com/intel/CPU-Manager-for-Kubernetes) topic: pushed_at:2022-12 star:0.2k fork:0.1k Kubernetes Core Manager for NFV workloads
 - [intel/cv-training-and-inference-openvino](https://github.com/intel/cv-training-and-inference-openvino) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) topic:cve,cvss,devsecops,hacktoberfest,python,sbom,sbom-tool,security,security-automation,security-tools,swrepo,system-tools,vulnerabilities,vulnerability pushed_at:2022-12 star:0.6k fork:0.3k The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 200 common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with an SBOM or a list of components and versions.
 - [intel/DAFT](https://github.com/intel/DAFT) topic: pushed_at:2022-08 star:0.0k fork:0.0k Automated Flasher Tester
@@ -989,7 +989,7 @@
 - [intel/Micro-Segmentation](https://github.com/intel/Micro-Segmentation) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/mpxcheck](https://github.com/intel/mpxcheck) topic: pushed_at:2016-10 star:0.0k fork:0.0k 
 - [intel/ncappzoo](https://github.com/intel/ncappzoo) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [intel/neural-compressor](https://github.com/intel/neural-compressor) topic:auto-tuning,deep-learning,knowledge-distillation,low-precision,post-training-quantization,pruning,quantization,quantization-aware-training,sparsity pushed_at:2022-12 star:0.7k fork:0.1k Intel® Neural Compressor (formerly known as Intel® Low Precision Optimization Tool), targeting to provide unified APIs for network compression technologies, such as low precision quantization, sparsity, pruning, knowledge distillation, across different deep learning frameworks to pursue optimal inference performance.
+- [intel/neural-compressor](https://github.com/intel/neural-compressor) topic:auto-tuning,deep-learning,knowledge-distillation,low-precision,post-training-quantization,pruning,quantization,quantization-aware-training,sparsity pushed_at:2022-12 star:0.8k fork:0.1k Intel® Neural Compressor (formerly known as Intel® Low Precision Optimization Tool), targeting to provide unified APIs for network compression technologies, such as low precision quantization, sparsity, pruning, knowledge distillation, across different deep learning frameworks to pursue optimal inference performance.
 - [intel/nlp-training-and-inference-openvino](https://github.com/intel/nlp-training-and-inference-openvino) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [intel/obs-service-gbs](https://github.com/intel/obs-service-gbs) topic: pushed_at:2014-10 star:0.0k fork:0.0k 
 - [intel/obs-service-git-buildpackage](https://github.com/intel/obs-service-git-buildpackage) topic: pushed_at:2015-02 star:0.0k fork:0.0k 
@@ -1030,7 +1030,7 @@
 - [intel/test-framework-and-suites-for-android](https://github.com/intel/test-framework-and-suites-for-android) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
 - [intel/Theano](https://github.com/intel/Theano) topic: pushed_at:2022-08 star:0.1k fork:0.0k This fork of Theano/Theano is dedicated to improve its performance on CPU device, in particular Intel® Xeon® processors and Intel® Xeon Phi™ processors.
 - [intel/ThenWhatTree](https://github.com/intel/ThenWhatTree) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [intel/UFT](https://github.com/intel/UFT) topic: pushed_at:2022-07 star:0.0k fork:0.0k UFT (Unified Flow Tool)(Former DCF-tool). A gRPC server to provide flow services for Intel Network Interface Controller.
+- [intel/UFT](https://github.com/intel/UFT) topic: pushed_at:2022-12 star:0.0k fork:0.0k UFT (Unified Flow Tool)(Former DCF-tool). A gRPC server to provide flow services for Intel Network Interface Controller.
 - [intel/vaapi-fits](https://github.com/intel/vaapi-fits) topic:media,swrepo,test-automation,test-framework,validation-software pushed_at:2022-12 star:0.0k fork:0.0k 
 - [intel/vc-intrinsics](https://github.com/intel/vc-intrinsics) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [intel/video-streamer](https://github.com/intel/video-streamer) topic:artificial-intelligence,end-to-end,object-detection,ssd-resnet34,tensorflow,video-analytics pushed_at:2022-11 star:0.0k fork:0.0k The repository contains a reference end-to-end pipeline for a real-time video analytics application. Realtime data is provided to an inference endpoint that executes single shot object detection. The metadata created during inference is then uploaded to a database for curation.
@@ -1070,7 +1070,7 @@
 - [intel/Container-SW-BM-RA-Telemetry](https://github.com/intel/Container-SW-BM-RA-Telemetry) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/crypto-reference-stack](https://github.com/intel/crypto-reference-stack) topic: pushed_at:2021-11 star:0.0k fork:0.0k Extended NGINX* working with Asynchronous Mode OpenSSL* 
 - [intel/ctf-infrastructure](https://github.com/intel/ctf-infrastructure) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [intel/DevCloudContent-git](https://github.com/intel/DevCloudContent-git) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
+- [intel/DevCloudContent-git](https://github.com/intel/DevCloudContent-git) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [intel/Edge-Software-Provisioner](https://github.com/intel/Edge-Software-Provisioner) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [intel/endurance_profiler](https://github.com/intel/endurance_profiler) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [intel/fineibt_testing](https://github.com/intel/fineibt_testing) topic: pushed_at:2021-03 star:0.0k fork:0.0k 

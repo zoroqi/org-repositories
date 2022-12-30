@@ -36,7 +36,7 @@
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) topic: pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
 - [twitter/pelikan](https://github.com/twitter/pelikan) topic: pushed_at:2022-12 star:1.8k fork:0.2k Pelikan is Twitter's unified cache backend
 - [twitter/twemcache](https://github.com/twitter/twemcache) topic: pushed_at:2021-11 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) topic: pushed_at:2022-10 star:11.7k fork:2.0k A fast, light-weight proxy for memcached and redis
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) topic: pushed_at:2022-12 star:11.7k fork:2.0k A fast, light-weight proxy for memcached and redis
 
 ## C++
 
@@ -113,7 +113,7 @@
 ## Python
 
 - [twitter/caladrius](https://github.com/twitter/caladrius) topic: pushed_at:2021-10 star:0.0k fork:0.0k Performance modelling system for Distributed Stream Processing Systems (DSPS) such as Apache Heron and Apache Storm
-- [twitter/communitynotes](https://github.com/twitter/communitynotes) topic: pushed_at:2022-12 star:0.3k fork:0.0k 
+- [twitter/communitynotes](https://github.com/twitter/communitynotes) topic: pushed_at:2022-12 star:0.4k fork:0.0k 
 - [twitter/dict_minimize](https://github.com/twitter/dict_minimize) topic:scipy,scipy-stack pushed_at:2021-09 star:0.1k fork:0.0k Access scipy optimizers from your favorite deep learning framework.
 - [twitter/diffusion-rl](https://github.com/twitter/diffusion-rl) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [twitter/gatekeeper-service](https://github.com/twitter/gatekeeper-service) topic: pushed_at:2021-11 star:0.0k fork:0.0k GateKeeper is a service built to automate the manual steps involved in onboarding, offboarding, and lost asset scenarios.
@@ -167,7 +167,7 @@
 ## Shell
 
 - [twitter/cache-trace](https://github.com/twitter/cache-trace) topic:cache,memcached,production,redis,trace pushed_at:2021-12 star:0.1k fork:0.0k A collection of Twitter's anonymized production cache traces.
-- [twitter/dodo](https://github.com/twitter/dodo) topic:finagle,finatra,ostrich,sbt,scrooge,twitter-oss,twitter-server,util pushed_at:2022-07 star:0.0k fork:0.0k The Twitter OSS Project Builder
+- [twitter/dodo](https://github.com/twitter/dodo) topic:finagle,finatra,ostrich,sbt,scrooge,twitter-oss,twitter-server,util pushed_at:2022-12 star:0.0k fork:0.0k The Twitter OSS Project Builder
 - [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) topic: pushed_at:2022-07 star:0.5k fork:0.3k Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
 
 ## Smarty

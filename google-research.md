@@ -59,7 +59,7 @@
 
 ## Julia
 
-- [google-research/FirstOrderLp.jl](https://github.com/google-research/FirstOrderLp.jl) topic: pushed_at:2022-11 star:0.1k fork:0.0k Experimental first-order solvers for linear and quadratic programming.
+- [google-research/FirstOrderLp.jl](https://github.com/google-research/FirstOrderLp.jl) topic: pushed_at:2022-12 star:0.1k fork:0.0k Experimental first-order solvers for linear and quadratic programming.
 - [google-research/generic-adaptive-restarts](https://github.com/google-research/generic-adaptive-restarts) topic: pushed_at:2021-06 star:0.0k fork:0.0k 
 - [google-research/LargeScaleLpInfeasibility](https://github.com/google-research/LargeScaleLpInfeasibility) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
 
@@ -71,7 +71,7 @@
 - [google-research/deep_ope](https://github.com/google-research/deep_ope) topic: pushed_at:2021-06 star:0.1k fork:0.0k 
 - [google-research/episodic-curiosity](https://github.com/google-research/episodic-curiosity) topic: pushed_at:2020-10 star:0.2k fork:0.0k Tensorflow/Keras code and trained models for Episodic Curiosity Through Reachability
 - [google-research/evoflow](https://github.com/google-research/evoflow) topic: pushed_at:2020-06 star:0.0k fork:0.0k 
-- [google-research/google-research](https://github.com/google-research/google-research) topic:ai,machine-learning,research pushed_at:2022-12 star:26.5k fork:6.6k Google Research
+- [google-research/google-research](https://github.com/google-research/google-research) topic:ai,machine-learning,research pushed_at:2022-12 star:26.6k fork:6.6k Google Research
 - [google-research/graph-attribution](https://github.com/google-research/graph-attribution) topic: pushed_at:2021-03 star:0.1k fork:0.0k Codebase for Evaluating Attribution for Graph Neural Networks.
 - [google-research/growneuron](https://github.com/google-research/growneuron) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [google-research/imagenet-mistakes](https://github.com/google-research/imagenet-mistakes) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
@@ -97,7 +97,7 @@
 - [google-research/rliable](https://github.com/google-research/rliable) topic:benchmarking,evaluation-metrics,google,machine-learning,reinforcement-learning,rl pushed_at:2022-09 star:0.5k fork:0.0k [NeurIPS'21 Outstanding Paper] Library for reliable evaluation on RL and ML benchmarks, even with only a handful of seeds.
 - [google-research/robustness_metrics](https://github.com/google-research/robustness_metrics) topic: pushed_at:2022-12 star:0.4k fork:0.0k 
 - [google-research/se3ds](https://github.com/google-research/se3ds) topic:computer-vision,machine-learning,tensorflow pushed_at:2022-07 star:0.0k fork:0.0k This repository hosts the code for our paper, "Simple and Effective Synthesis of Indoor 3D Scenes".
-- [google-research/self-organising-systems](https://github.com/google-research/self-organising-systems) topic: pushed_at:2022-09 star:0.2k fork:0.0k 
+- [google-research/self-organising-systems](https://github.com/google-research/self-organising-systems) topic: pushed_at:2022-12 star:0.2k fork:0.0k 
 - [google-research/si-score](https://github.com/google-research/si-score) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
 - [google-research/simclr](https://github.com/google-research/simclr) topic:computer-vision,contrastive-learning,representation-learning,self-supervised-learning,simclr,simclrv2,unsupervised-learning pushed_at:2022-11 star:3.3k fork:0.5k SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners
 - [google-research/socialgood](https://github.com/google-research/socialgood) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
@@ -163,7 +163,7 @@
 - [google-research/dice_rl](https://github.com/google-research/dice_rl) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [google-research/diffren](https://github.com/google-research/diffren) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [google-research/diffstride](https://github.com/google-research/diffstride) topic: pushed_at:2022-02 star:0.1k fork:0.0k TF/Keras code for DiffStride, a pooling layer with learnable strides.
-- [google-research/disentanglement_lib](https://github.com/google-research/disentanglement_lib) topic: pushed_at:2021-05 star:1.2k fork:0.2k disentanglement_lib is an open-source library for research on learning disentangled representations.
+- [google-research/disentanglement_lib](https://github.com/google-research/disentanglement_lib) topic: pushed_at:2021-05 star:1.3k fork:0.2k disentanglement_lib is an open-source library for research on learning disentangled representations.
 - [google-research/DP-FTRL](https://github.com/google-research/DP-FTRL) topic: pushed_at:2021-12 star:0.0k fork:0.0k DP-FTRL from "Practical and Private (Deep) Learning without Sampling or Shuffling" for centralized training.
 - [google-research/dp-imagenet](https://github.com/google-research/dp-imagenet) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [google-research/dreamer](https://github.com/google-research/dreamer) topic: pushed_at:2020-07 star:0.5k fork:0.1k Dream to Control: Learning Behaviors by Latent Imagination
@@ -186,7 +186,7 @@
 - [google-research/heatnet](https://github.com/google-research/heatnet) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [google-research/heldout-influence-estimation](https://github.com/google-research/heldout-influence-estimation) topic: pushed_at:2021-06 star:0.0k fork:0.0k 
 - [google-research/hit-gan](https://github.com/google-research/hit-gan) topic:generative-adversarial-network,tensorflow,vision-transformer pushed_at:2021-12 star:0.1k fork:0.0k Tensorflow implementation for "Improved Transformer for High-Resolution GANs" (NeurIPS 2021).
-- [google-research/hyperbo](https://github.com/google-research/hyperbo) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
+- [google-research/hyperbo](https://github.com/google-research/hyperbo) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [google-research/ibc](https://github.com/google-research/ibc) topic:deep-learning,imitation-learning,reinforcement-learning pushed_at:2022-08 star:0.2k fork:0.0k Official implementation of Implicit Behavioral Cloning, as described in our CoRL 2021 paper, see more at https://implicitbc.github.io/
 - [google-research/jax-influence](https://github.com/google-research/jax-influence) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [google-research/jax3d](https://github.com/google-research/jax3d) topic: pushed_at:2022-12 star:0.5k fork:0.1k 

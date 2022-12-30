@@ -23,7 +23,7 @@
 
 ## BitBake
 
-- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) topic:openembedded,openembedded-layer,risc-v,riscv,yocto,yocto-layer,yocto-meta pushed_at:2022-11 star:0.2k fork:0.1k OpenEmbedded/Yocto layer for RISC-V Architecture
+- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) topic:openembedded,openembedded-layer,risc-v,riscv,yocto,yocto-layer,yocto-meta pushed_at:2022-12 star:0.2k fork:0.1k OpenEmbedded/Yocto layer for RISC-V Architecture
 
 ## C
 
