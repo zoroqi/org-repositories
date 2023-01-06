@@ -36,7 +36,7 @@
 
 - [sony/easyhttpcpp](https://github.com/sony/easyhttpcpp) topic:cache,cpp,cross-platform,http,https,networking pushed_at:2022-01 star:0.1k fork:0.0k A cross-platform HTTP client library with a focus on usability and speed
 - [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) topic:embedded-linux,embedded-systems,flutter,flutter-plugin,linux,plugin pushed_at:2022-10 star:0.0k fork:0.0k Flutter plugins for embedded Linux (eLinux)
-- [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) topic:embedded-linux,embedded-systems,flutter,linux pushed_at:2022-12 star:0.9k fork:0.1k Embedded Linux embedding for Flutter
+- [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) topic:embedded-linux,embedded-systems,flutter,linux pushed_at:2023-01 star:0.9k fork:0.1k Embedded Linux embedding for Flutter
 - [sony/nmos-cpp](https://github.com/sony/nmos-cpp) topic:cpp,cpp11,nmos,sdk pushed_at:2022-12 star:0.1k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
 - [sony/node-win-usbdev](https://github.com/sony/node-win-usbdev) topic: pushed_at:2018-02 star:0.0k fork:0.0k 
 - [sony/v8eval](https://github.com/sony/v8eval) topic:golang,python,ruby,v8 pushed_at:2020-12 star:0.4k fork:0.0k Multi-language bindings to JavaScript engine V8
@@ -76,7 +76,7 @@
 - [sony/generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) topic: pushed_at:2016-05 star:0.0k fork:0.0k 
 - [sony/huis-ui-creator](https://github.com/sony/huis-ui-creator) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [sony/isren](https://github.com/sony/isren) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
-- [sony/nmos-js](https://github.com/sony/nmos-js) topic:javascript,nmos,react pushed_at:2022-12 star:0.0k fork:0.0k An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
+- [sony/nmos-js](https://github.com/sony/nmos-js) topic:javascript,nmos,react pushed_at:2023-01 star:0.0k fork:0.0k An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
 
 ## Jupyter Notebook
 
@@ -93,15 +93,15 @@
 
 ## Python
 
-- [sony/ai-research-code](https://github.com/sony/ai-research-code) topic: pushed_at:2022-07 star:0.3k fork:0.1k 
+- [sony/ai-research-code](https://github.com/sony/ai-research-code) topic: pushed_at:2023-01 star:0.3k fork:0.1k 
 - [sony/dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [sony/FxNorm-automix](https://github.com/sony/FxNorm-automix) topic:automatic-mixing,data-normalization,intelligent-music-production,machine-learning pushed_at:2022-11 star:0.0k fork:0.0k FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system
 - [sony/lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
-- [sony/model_optimization](https://github.com/sony/model_optimization) topic:deep-learning,deep-neural-networks,edge-ai,machine-learning,network-compression,network-quantization,neural-network,optimizer,ptq,pytorch,qat,quantization,tensorflow pushed_at:2022-12 star:0.1k fork:0.0k Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks.
+- [sony/model_optimization](https://github.com/sony/model_optimization) topic:deep-learning,deep-neural-networks,edge-ai,machine-learning,network-compression,network-quantization,neural-network,optimizer,ptq,pytorch,qat,quantization,tensorflow pushed_at:2023-01 star:0.1k fork:0.0k Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks.
 - [sony/NDJIR](https://github.com/sony/NDJIR) topic: pushed_at:2022-12 star:0.0k fork:0.0k NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object
 - [sony/nnabla](https://github.com/sony/nnabla) topic: pushed_at:2022-12 star:2.6k fork:0.3k Neural Network Libraries
 - [sony/nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
-- [sony/nnabla-examples](https://github.com/sony/nnabla-examples) topic: pushed_at:2022-12 star:0.3k fork:0.1k Neural Network Libraries https://nnabla.org/ - Examples
+- [sony/nnabla-examples](https://github.com/sony/nnabla-examples) topic: pushed_at:2023-01 star:0.3k fork:0.1k Neural Network Libraries https://nnabla.org/ - Examples
 - [sony/nnabla-nas](https://github.com/sony/nnabla-nas) topic: pushed_at:2022-12 star:0.0k fork:0.0k Neural Architecture Search for Neural Network Libraries
 - [sony/nnabla-rl](https://github.com/sony/nnabla-rl) topic: pushed_at:2022-12 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
 - [sony/nnc-plugin](https://github.com/sony/nnc-plugin) topic: pushed_at:2022-12 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
@@ -112,7 +112,7 @@
 ## TypeScript
 
 - [sony/cdp-js](https://github.com/sony/cdp-js) topic: pushed_at:2018-05 star:0.0k fork:0.0k Libraries/SDK modules for multi-platform application development
-- [sony/mapray-js](https://github.com/sony/mapray-js) topic: pushed_at:2022-12 star:0.1k fork:0.0k JavaScript library for Interactive high quality 3D globes and maps in the browser
+- [sony/mapray-js](https://github.com/sony/mapray-js) topic: pushed_at:2023-01 star:0.1k fork:0.0k JavaScript library for Interactive high quality 3D globes and maps in the browser
 - [sony/nnabla-browser](https://github.com/sony/nnabla-browser) topic: pushed_at:2022-12 star:0.0k fork:0.0k Visualization toolkit for Neural Network Libraries
 - [sony/nnabla-js](https://github.com/sony/nnabla-js) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [sony/typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) topic: pushed_at:2020-01 star:0.0k fork:0.0k Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa.
