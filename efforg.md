@@ -76,11 +76,11 @@
 - [EFForg/actioncenter-mobile](https://github.com/EFForg/actioncenter-mobile) topic: pushed_at:2022-03 star:0.1k fork:0.0k 2.0
 - [EFForg/congress-forms-test](https://github.com/EFForg/congress-forms-test) topic: pushed_at:2016-03 star:0.0k fork:0.0k Way for volunteers to test EFF's congress-forms repo
 - [EFForg/congress-forms.js](https://github.com/EFForg/congress-forms.js) topic: pushed_at:2014-06 star:0.0k fork:0.0k A javascript widget which can construct plain forms that submit to a contact-congress server.
-- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) topic: pushed_at:2022-12 star:0.1k fork:0.0k Is your browser safe against tracking?
+- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) topic: pushed_at:2023-01 star:0.1k fork:0.0k Is your browser safe against tracking?
 - [EFForg/cyberspying](https://github.com/EFForg/cyberspying) topic: pushed_at:2015-12 star:0.0k fork:0.0k cyberspying.eff.org twitter tool
 - [EFForg/fight215](https://github.com/EFForg/fight215) topic: pushed_at:2015-06 star:0.0k fork:0.0k 
 - [EFForg/find-aa-domains](https://github.com/EFForg/find-aa-domains) topic: pushed_at:2019-04 star:0.0k fork:0.0k Create a script to find domains in the PB pre-block list which are mentioned in the Acceptable Ads list as well
-- [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) topic:https,javascript,ruleset pushed_at:2022-12 star:3.4k fork:1.2k A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
+- [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) topic:https,javascript,ruleset pushed_at:2023-01 star:3.4k fork:1.2k A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
 - [EFForg/https-everywhere-labeller](https://github.com/EFForg/https-everywhere-labeller) topic: pushed_at:2020-06 star:0.0k fork:0.0k Alexa Labeller for HTTPS Everywhere Repo
 - [EFForg/httpse-ruleset-tests](https://github.com/EFForg/httpse-ruleset-tests) topic: pushed_at:2013-09 star:0.0k fork:0.0k 
 - [EFForg/ngw-website](https://github.com/EFForg/ngw-website) topic: pushed_at:2017-01 star:0.0k fork:0.0k 
@@ -161,7 +161,7 @@
 - [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) topic: pushed_at:2023-01 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) topic: pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 - [EFForg/https-everywhere-rust-test-implementation](https://github.com/EFForg/https-everywhere-rust-test-implementation) topic: pushed_at:2020-04 star:0.0k fork:0.0k 
-- [EFForg/rs-google-play](https://github.com/EFForg/rs-google-play) topic: pushed_at:2022-12 star:0.0k fork:0.0k Google Play API for Rust
+- [EFForg/rs-google-play](https://github.com/EFForg/rs-google-play) topic: pushed_at:2023-01 star:0.0k fork:0.0k Google Play API for Rust
 - [EFForg/tokio-dl-stream-to-disk](https://github.com/EFForg/tokio-dl-stream-to-disk) topic: pushed_at:2022-12 star:0.0k fork:0.0k A micro-library for downloading from a URL and streaming it directly to the disk
 
 ## SCSS

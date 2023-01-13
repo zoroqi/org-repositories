@@ -20,9 +20,9 @@
 - [Lua](#lua) (9)
 - [MATLAB](#matlab) (5)
 - [Objective-C++](#objective-c++) (1)
-- [Others](#others) (31)
+- [Others](#others) (30)
 - [PureBasic](#purebasic) (1)
-- [Python](#python) (565)
+- [Python](#python) (566)
 - [R](#r) (2)
 - [Roff](#roff) (1)
 - [Ruby](#ruby) (1)
@@ -52,19 +52,19 @@
 - [facebookresearch/DLRM-FlexFlow](https://github.com/facebookresearch/DLRM-FlexFlow) topic: pushed_at:2021-10 star:0.0k fork:0.0k Development repository for integrating FlexFlow (A distributed deep learning framework that supports flexible parallelization strategies) with DLRM (Deep Learning Recommendation Model)
 - [facebookresearch/ELF](https://github.com/facebookresearch/ELF) topic:artificial-intelligence,cpp,deep-learning,gaming,neural-network,platform,python,reinforcement-learning pushed_at:2021-08 star:2.1k fork:0.3k An End-To-End, Lightweight and Flexible Platform for Game Research
 - [facebookresearch/fairring](https://github.com/facebookresearch/fairring) topic: pushed_at:2022-03 star:0.0k fork:0.0k Fairring (FAIR + Herring) is a plug-in for PyTorch that provides a process group for distributed training that outperforms NCCL at large scales
-- [facebookresearch/faiss](https://github.com/facebookresearch/faiss) topic: pushed_at:2023-01 star:18.8k fork:2.8k A library for efficient similarity search and clustering of dense vectors.
+- [facebookresearch/faiss](https://github.com/facebookresearch/faiss) topic: pushed_at:2023-01 star:18.9k fork:2.8k A library for efficient similarity search and clustering of dense vectors.
 - [facebookresearch/fbpcf](https://github.com/facebookresearch/fbpcf) topic: pushed_at:2023-01 star:0.1k fork:0.1k Private computation framework library allows developers to perform randomized controlled trials, without leaking information about who participated or what action an individual took. It uses secure multiparty computation to guarantee this privacy. It is suitable for conducting A/B testing, or measuring advertising lift and learning the aggregate statistics without sharing information on the individual level.
 - [facebookresearch/FDC1004_CapacitiveSensing](https://github.com/facebookresearch/FDC1004_CapacitiveSensing) topic: pushed_at:2021-05 star:0.0k fork:0.0k Library for accessing capacitive measurements with the FDC1004 (TI) with Arduino.
 - [facebookresearch/gtn](https://github.com/facebookresearch/gtn) topic: pushed_at:2021-09 star:0.4k fork:0.0k Automatic differentiation with weighted finite-state transducers.
 - [facebookresearch/habitat-sim](https://github.com/facebookresearch/habitat-sim) topic:ai,computer-vision,cplusplus,robotics,sim2real,simulator pushed_at:2023-01 star:1.6k fork:0.3k A flexible, high-performance 3D simulator for Embodied AI research.
 - [facebookresearch/Hanabi_SPARTA](https://github.com/facebookresearch/Hanabi_SPARTA) topic: pushed_at:2023-01 star:0.1k fork:0.0k Research code implementing the search AI agent for Hanabi, as well as a web server so people can play against it
-- [facebookresearch/House3D](https://github.com/facebookresearch/House3D) topic: pushed_at:2020-07 star:1.1k fork:0.2k a Realistic and Rich 3D Environment
+- [facebookresearch/House3D](https://github.com/facebookresearch/House3D) topic: pushed_at:2020-07 star:1.2k fork:0.2k a Realistic and Rich 3D Environment
 - [facebookresearch/HVVR](https://github.com/facebookresearch/HVVR) topic:cpp,raycaster,rendering-engine,virtual-reality pushed_at:2021-11 star:0.1k fork:0.0k Hierarchical Visibility for Virtual Reality, which implements a hybrid CPU/GPU ray-caster, suited for real time rendering of effects such as lens distortion.
 - [facebookresearch/hybrid-lm](https://github.com/facebookresearch/hybrid-lm) topic: pushed_at:2019-07 star:0.0k fork:0.0k Training Hybrid Language Models by Marginalizing over Segmentation
 - [facebookresearch/jps](https://github.com/facebookresearch/jps) topic: pushed_at:2022-07 star:0.0k fork:0.0k Code for "Joint Policy Search for Collaborative Multi-agent Incomplete Information Games"
 - [facebookresearch/libsysml](https://github.com/facebookresearch/libsysml) topic: pushed_at:2022-11 star:0.0k fork:0.0k A collection of utilities for the intersection of machine learning and systems research.
 - [facebookresearch/loop_nest](https://github.com/facebookresearch/loop_nest) topic: pushed_at:2022-10 star:0.0k fork:0.0k Loop Nest - Linear algebra compiler and code generator.
-- [facebookresearch/loop_tool](https://github.com/facebookresearch/loop_tool) topic: pushed_at:2022-12 star:0.1k fork:0.0k A thin, highly portable toolkit for efficiently compiling dense loop-based computation.
+- [facebookresearch/loop_tool](https://github.com/facebookresearch/loop_tool) topic: pushed_at:2023-01 star:0.1k fork:0.0k A thin, highly portable toolkit for efficiently compiling dense loop-based computation.
 - [facebookresearch/minirts](https://github.com/facebookresearch/minirts) topic: pushed_at:2021-09 star:0.1k fork:0.0k We release dataset collected for our research, code that implement neural network models described in the paper, and scripts to reproduce all of our results, and visualization tool for visualize dataset.
 - [facebookresearch/moolib](https://github.com/facebookresearch/moolib) topic: pushed_at:2022-12 star:0.3k fork:0.0k A library for distributed ML training with PyTorch
 - [facebookresearch/nccl](https://github.com/facebookresearch/nccl) topic: pushed_at:2022-12 star:0.0k fork:0.0k Optimized primitives for collective multi-GPU communication
@@ -73,7 +73,7 @@
 - [facebookresearch/Replica-Dataset](https://github.com/facebookresearch/Replica-Dataset) topic: pushed_at:2022-11 star:0.7k fork:0.1k The Replica Dataset v1 as published in https://arxiv.org/abs/1906.05797 .
 - [facebookresearch/rlr-audio-propagation](https://github.com/facebookresearch/rlr-audio-propagation) topic: pushed_at:2022-11 star:0.0k fork:0.0k Audio propagation engine - Meta Reality Labs Research.
 - [facebookresearch/robust_cvd](https://github.com/facebookresearch/robust_cvd) topic: pushed_at:2021-06 star:0.2k fork:0.0k Robust Consistent Video Depth Estimation
-- [facebookresearch/SparseConvNet](https://github.com/facebookresearch/SparseConvNet) topic: pushed_at:2022-04 star:1.8k fork:0.3k Submanifold sparse convolutional networks
+- [facebookresearch/SparseConvNet](https://github.com/facebookresearch/SparseConvNet) topic: pushed_at:2023-01 star:1.8k fork:0.3k Submanifold sparse convolutional networks
 - [facebookresearch/StarSpace](https://github.com/facebookresearch/StarSpace) topic: pushed_at:2022-12 star:3.8k fork:0.5k Learning embeddings for classification, retrieval and ranking.
 - [facebookresearch/street-addresses](https://github.com/facebookresearch/street-addresses) topic: pushed_at:2018-12 star:0.1k fork:0.0k Robocodes: Towards Generative Street Addresses from Satellite Imagery 
 - [facebookresearch/sumo-challenge](https://github.com/facebookresearch/sumo-challenge) topic: pushed_at:2019-07 star:0.1k fork:0.0k Scene Understanding and Modeling Challenge Library
@@ -110,7 +110,7 @@
 
 ## Java
 
-- [facebookresearch/asynchronousratchetingtree](https://github.com/facebookresearch/asynchronousratchetingtree) topic: pushed_at:2021-08 star:0.2k fork:0.0k On Ends-to-Ends Encryption: Asynchronous Group Messaging with Strong Security Guarantees
+- [facebookresearch/asynchronousratchetingtree](https://github.com/facebookresearch/asynchronousratchetingtree) topic: pushed_at:2021-08 star:0.3k fork:0.0k On Ends-to-Ends Encryption: Asynchronous Group Messaging with Strong Security Guarantees
 
 ## JavaScript
 
@@ -127,7 +127,7 @@
 - [facebookresearch/APIsynth](https://github.com/facebookresearch/APIsynth) topic: pushed_at:2021-10 star:0.0k fork:0.0k Synthesizing Python code from PyTorch tensor input output examples.
 - [facebookresearch/AR-Depth](https://github.com/facebookresearch/AR-Depth) topic: pushed_at:2021-10 star:0.2k fork:0.1k Fast Depth Densification for Occlusion-Aware Augmented Reality
 - [facebookresearch/Augur](https://github.com/facebookresearch/Augur) topic: pushed_at:2021-01 star:0.0k fork:0.0k Augur is a machine learning system that provides per-layer inference performance and energy cost of running a NN layer on a consumer grade commercial NN accelerator.
-- [facebookresearch/balance](https://github.com/facebookresearch/balance) topic: pushed_at:2022-12 star:0.0k fork:0.0k The balance python package offers a simple workflow and methods for dealing with biased data samples when looking to infer from them to some target population of interest.
+- [facebookresearch/balance](https://github.com/facebookresearch/balance) topic: pushed_at:2023-01 star:0.3k fork:0.0k The balance python package offers a simple workflow and methods for dealing with biased data samples when looking to infer from them to some target population of interest.
 - [facebookresearch/Blackbox-Coresets-VI](https://github.com/facebookresearch/Blackbox-Coresets-VI) topic: pushed_at:2022-11 star:0.0k fork:0.0k A suite for blackbox variational inference using families of posterior approximations parameterised via learnable weighted summarising (pseudo)data.
 - [facebookresearch/CarbonExplorer](https://github.com/facebookresearch/CarbonExplorer) topic: pushed_at:2022-08 star:0.0k fork:0.0k Carbon Explorer helps evaluating solutions make  datacenters operate on renewable energy.
 - [facebookresearch/clara](https://github.com/facebookresearch/clara) topic: pushed_at:2021-09 star:0.0k fork:0.0k CLARA: Confidence of Labels and Raters
@@ -145,7 +145,7 @@
 - [facebookresearch/Ego4d](https://github.com/facebookresearch/Ego4d) topic:computer-vision,dataset,feature-extraction,video,visuzalization pushed_at:2022-12 star:0.1k fork:0.0k Ego4d dataset repository. Download the dataset, visualize, extract features & example usage of the dataset
 - [facebookresearch/EgoCom-Dataset](https://github.com/facebookresearch/EgoCom-Dataset) topic: pushed_at:2020-11 star:0.0k fork:0.0k EgoCom: A Multi-person Multi-modal Egocentric Communications Dataset
 - [facebookresearch/ELECTRA-Fewshot-Learning](https://github.com/facebookresearch/ELECTRA-Fewshot-Learning) topic: pushed_at:2022-06 star:0.0k fork:0.0k This repository contains the code for paper Prompting ELECTRA Few-Shot Learning with Discriminative Pre-Trained Models.
-- [facebookresearch/fairo](https://github.com/facebookresearch/fairo) topic: pushed_at:2022-12 star:0.8k fork:0.1k A modular embodied agent architecture and platform for building embodied agents
+- [facebookresearch/fairo](https://github.com/facebookresearch/fairo) topic: pushed_at:2023-01 star:0.8k fork:0.1k A modular embodied agent architecture and platform for building embodied agents
 - [facebookresearch/fewshotDatasetDesign](https://github.com/facebookresearch/fewshotDatasetDesign) topic: pushed_at:2020-08 star:0.0k fork:0.0k The paper studies the problem of learning to recognize a new class of objects from a very small number of labeled images. This is called few-shot learning. Previous work in the literature focused on designing new algorithms that allow to learn to generalize to new unseen classes.In this work, we consider the impact of the dataset that we train on, and experiment with some dataset manipulations to see which trade-offs are important in the design of a dataset aimed at few-shot learning.
 - [facebookresearch/FL_partial_personalization](https://github.com/facebookresearch/FL_partial_personalization) topic: pushed_at:2022-07 star:0.0k fork:0.0k Federated Learning with Partial Model Personalization
 - [facebookresearch/foltr-es](https://github.com/facebookresearch/foltr-es) topic: pushed_at:2021-08 star:0.0k fork:0.0k The source code to reproduce the results reported in the 'Federated Online Learning to Rank with Evolution Strategies' paper, published at WSDM 2019.
@@ -222,7 +222,6 @@
 - [facebookresearch/CausalProxyVariables](https://github.com/facebookresearch/CausalProxyVariables) topic: pushed_at:2019-06 star:0.0k fork:0.0k Causal Proxy Variables
 - [facebookresearch/CommAI-env](https://github.com/facebookresearch/CommAI-env) topic: pushed_at:2020-09 star:1.3k fork:0.2k A platform for developing AI systems as described in A Roadmap towards Machine Intelligence - http://arxiv.org/abs/1511.08130
 - [facebookresearch/DataEfficientNLG](https://github.com/facebookresearch/DataEfficientNLG) topic: pushed_at:2021-09 star:0.0k fork:0.0k NLG Best Practices for Data-Efficient Modeling How to Train Production-Ready Models with Little Data
-- [facebookresearch/diht](https://github.com/facebookresearch/diht) topic: pushed_at:2023-01 star:0.0k fork:0.0k Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training
 - [facebookresearch/dlrm_datasets](https://github.com/facebookresearch/dlrm_datasets) topic: pushed_at:2022-12 star:0.0k fork:0.0k Set of datasets for the deep learning recommendation model (DLRM).
 - [facebookresearch/EasyComDataset](https://github.com/facebookresearch/EasyComDataset) topic: pushed_at:2022-12 star:0.1k fork:0.0k The Easy Communications (EasyCom) dataset is a world-first dataset designed to help mitigate the *cocktail party effect* from an augmented-reality (AR) -motivated multi-sensor egocentric world view.
 - [facebookresearch/FAIR-Play](https://github.com/facebookresearch/FAIR-Play) topic: pushed_at:2021-09 star:0.1k fork:0.0k 2.5D visual sound dataset
@@ -261,7 +260,7 @@
 - [facebookresearch/ActivityNet-Entities](https://github.com/facebookresearch/ActivityNet-Entities) topic: pushed_at:2022-01 star:0.1k fork:0.0k A Dataset for Grounded Video Description
 - [facebookresearch/Ad-Library-API-Script-Repository](https://github.com/facebookresearch/Ad-Library-API-Script-Repository) topic: pushed_at:2022-11 star:0.1k fork:0.1k GitHub repository of commonly used python scripts that allows everyone to pull data via the Ad Library API
 - [facebookresearch/adaptive-span](https://github.com/facebookresearch/adaptive-span) topic: pushed_at:2021-09 star:0.6k fork:0.1k Transformer training code for sequential tasks
-- [facebookresearch/adaptive_teacher](https://github.com/facebookresearch/adaptive_teacher) topic: pushed_at:2022-11 star:0.1k fork:0.0k This repo provides the source code for "Cross-Domain Adaptive Teacher for Object Detection".
+- [facebookresearch/adaptive_teacher](https://github.com/facebookresearch/adaptive_teacher) topic: pushed_at:2023-01 star:0.1k fork:0.0k This repo provides the source code for "Cross-Domain Adaptive Teacher for Object Detection".
 - [facebookresearch/Addressing-the-Topological-Defects-of-Disentanglement](https://github.com/facebookresearch/Addressing-the-Topological-Defects-of-Disentanglement) topic: pushed_at:2022-07 star:0.0k fork:0.0k Repo reproducing experimental results in "Addressing the Topological Defects of Disentanglement"
 - [facebookresearch/Adversarial-Continual-Learning](https://github.com/facebookresearch/Adversarial-Continual-Learning) topic: pushed_at:2022-12 star:0.2k fork:0.0k Implementation for the paper "Adversarial Continual Learning" in PyTorch.
 - [facebookresearch/AdversarialAndDimensionality](https://github.com/facebookresearch/AdversarialAndDimensionality) topic: pushed_at:2019-09 star:0.0k fork:0.0k First-Order Adversarial Vulnerability of Neural Networks and Input Dimension
@@ -310,7 +309,7 @@
 - [facebookresearch/cc_net](https://github.com/facebookresearch/cc_net) topic: pushed_at:2022-07 star:0.5k fork:0.1k Tools to download and cleanup Common Crawl data
 - [facebookresearch/CCQA](https://github.com/facebookresearch/CCQA) topic: pushed_at:2022-07 star:0.0k fork:0.0k CCQA A New Web-Scale Question Answering Dataset for Model Pre-Training
 - [facebookresearch/certified-removal](https://github.com/facebookresearch/certified-removal) topic: pushed_at:2021-08 star:0.0k fork:0.0k Certified Removal from Machine Learning Models
-- [facebookresearch/CiT](https://github.com/facebookresearch/CiT) topic: pushed_at:2023-01 star:0.0k fork:0.0k Code for the paper titled "CiT Curation in Training for Effective Vision-Language Data".
+- [facebookresearch/CiT](https://github.com/facebookresearch/CiT) topic: pushed_at:2023-01 star:0.1k fork:0.0k Code for the paper titled "CiT Curation in Training for Effective Vision-Language Data".
 - [facebookresearch/classifier-balancing](https://github.com/facebookresearch/classifier-balancing) topic: pushed_at:2021-10 star:0.8k fork:0.1k This repository contains code for the paper "Decoupling Representation and Classifier for Long-Tailed Recognition", published at ICLR 2020
 - [facebookresearch/ClassyVision](https://github.com/facebookresearch/ClassyVision) topic: pushed_at:2022-09 star:1.5k fork:0.3k An end-to-end PyTorch framework for image and video classification
 - [facebookresearch/clevr-dataset-gen](https://github.com/facebookresearch/clevr-dataset-gen) topic: pushed_at:2021-08 star:0.5k fork:0.2k A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning
@@ -318,7 +317,7 @@
 - [facebookresearch/Clockwork](https://github.com/facebookresearch/Clockwork) topic: pushed_at:2021-06 star:0.0k fork:0.0k Recurring batch data pipelines are a staple of the modern enterprisescale data warehouse. As a data warehouse scales to support more products and services, a growing number of interdependent pipelines running at various cadences can give rise to periodic resource bottlenecks for a cluster. This resource contention results in pipelines starting at unpredictable times each day and consequently variable landing times for the data artifacts they produce. The variability gets compounded by the dependency structure of the workload, and the resulting unpredictability can disrupt the project workstreams which consume this data. We present Clockwork, a delay-based global scheduling framework for data pipelines which improves landing time stability by spreading out tasks throughout the day. Whereas most scheduling algorithms optimize for makespan or average job completion times, Clockwork’s execution plan optimizes for stability in task completion times while also targeting predifined pipeline. Online experiments comparing this novel scheduling algorithm and a previously proposed greedy procrastinating heurstic show tasks complete almost an hour earlier on average, while exhibiting lower landing time variance and producing significantly less competition for resources in a target cluster.
 - [facebookresearch/clutrr](https://github.com/facebookresearch/clutrr) topic: pushed_at:2022-12 star:0.1k fork:0.0k Diagnostic benchmark suite to explicitly test logical relational reasoning on natural language
 - [facebookresearch/CMR](https://github.com/facebookresearch/CMR) topic: pushed_at:2022-08 star:0.0k fork:0.0k N/A
-- [facebookresearch/co3d](https://github.com/facebookresearch/co3d) topic: pushed_at:2022-10 star:0.7k fork:0.1k Tooling for the Common Objects In 3D dataset.
+- [facebookresearch/co3d](https://github.com/facebookresearch/co3d) topic: pushed_at:2023-01 star:0.7k fork:0.1k Tooling for the Common Objects In 3D dataset.
 - [facebookresearch/CODD](https://github.com/facebookresearch/CODD) topic: pushed_at:2023-01 star:0.0k fork:0.0k CODD ("Temporally Consistent Online Depth Estimation in Dynamic Scenes"), WACV 2023.
 - [facebookresearch/code-prediction-transformer](https://github.com/facebookresearch/code-prediction-transformer) topic: pushed_at:2022-06 star:0.1k fork:0.0k This repo will contain replication package for the paper "Feeding Trees to Transformers for Code Completion"
 - [facebookresearch/CodeGen](https://github.com/facebookresearch/CodeGen) topic: pushed_at:2022-06 star:0.4k fork:0.1k Reference implementation of code generation projects from Facebook AI Research. General toolkit to apply machine learning to code, from dataset creation to model training and evaluation. Comes with pretrained models.
@@ -338,8 +337,8 @@
 - [facebookresearch/contriever](https://github.com/facebookresearch/contriever) topic: pushed_at:2022-07 star:0.2k fork:0.0k Contriever: Unsupervised Dense Information Retrieval with Contrastive Learning
 - [facebookresearch/controllable_agent](https://github.com/facebookresearch/controllable_agent) topic: pushed_at:2023-01 star:0.0k fork:0.0k The Controllable Agent project trains RL Agents able to optimize any reward function specified in real time, without any further learning or fine-tuning. Training is reward-free and based on the Forward-Backward representation.
 - [facebookresearch/convit](https://github.com/facebookresearch/convit) topic: pushed_at:2021-10 star:0.4k fork:0.0k Code for the Convolutional Vision Transformer (ConViT)
-- [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) topic: pushed_at:2022-09 star:4.6k fork:0.6k Code release for ConvNeXt model
-- [facebookresearch/ConvNeXt-V2](https://github.com/facebookresearch/ConvNeXt-V2) topic: pushed_at:2023-01 star:0.4k fork:0.0k Code release for ConvNeXt V2 model
+- [facebookresearch/ConvNeXt](https://github.com/facebookresearch/ConvNeXt) topic: pushed_at:2023-01 star:4.6k fork:0.6k Code release for ConvNeXt model
+- [facebookresearch/ConvNeXt-V2](https://github.com/facebookresearch/ConvNeXt-V2) topic: pushed_at:2023-01 star:0.6k fork:0.0k Code release for ConvNeXt V2 model
 - [facebookresearch/corefnmn](https://github.com/facebookresearch/corefnmn) topic: pushed_at:2021-10 star:0.1k fork:0.0k Visual Coreference Resolution in Visual Dialog using Neural Module Networks
 - [facebookresearch/covid19_spread](https://github.com/facebookresearch/covid19_spread) topic: pushed_at:2022-03 star:0.0k fork:0.0k Modeling the spread of COVID-19
 - [facebookresearch/CovidPrognosis](https://github.com/facebookresearch/CovidPrognosis) topic:covid-19,deep-learning,medical-image-analysis,medical-imaging,pytorch,radiography,x-ray pushed_at:2022-08 star:0.2k fork:0.0k COVID deterioration prediction based on chest X-ray radiographs via MoCo-trained image representations
@@ -370,11 +369,11 @@
 - [facebookresearch/demucs](https://github.com/facebookresearch/demucs) topic: pushed_at:2022-12 star:4.8k fork:0.6k Code for the paper Hybrid Spectrogram and Waveform Source Separation
 - [facebookresearch/denoised_mdp](https://github.com/facebookresearch/denoised_mdp) topic: pushed_at:2022-12 star:0.1k fork:0.0k Open source code for paper "Denoised MDPs: Learning World Models Better Than the World Itself" 
 - [facebookresearch/denoiser](https://github.com/facebookresearch/denoiser) topic: pushed_at:2022-12 star:1.0k fork:0.2k Real Time Speech Enhancement in the Waveform Domain (Interspeech 2020)We provide a PyTorch implementation of the paper Real Time Speech Enhancement in the Waveform Domain. In which, we present a causal speech enhancement model working on the raw waveform that runs in real-time on a laptop CPU. The proposed model is based on an encoder-decoder architecture with skip-connections. It is optimized on both time and frequency domains, using multiple loss functions. Empirical evidence shows that it is capable of removing various kinds of background noise including stationary and non-stationary noises, as well as room reverb. Additionally, we suggest a set of data augmentation techniques applied directly on the raw waveform which further improve model performance and its generalization abilities.
-- [facebookresearch/DepthContrast](https://github.com/facebookresearch/DepthContrast) topic: pushed_at:2021-08 star:0.2k fork:0.0k DepthContrast self-supervised learning for 3D
+- [facebookresearch/DepthContrast](https://github.com/facebookresearch/DepthContrast) topic: pushed_at:2021-08 star:0.3k fork:0.0k DepthContrast self-supervised learning for 3D
 - [facebookresearch/DepthShrinker](https://github.com/facebookresearch/DepthShrinker) topic: pushed_at:2022-07 star:0.1k fork:0.0k [ICML 2022] "DepthShrinker: A New Compression Paradigm Towards Boosting Real-Hardware Efficiency of Compact Neural Networks", by Yonggan Fu, Haichuan Yang, Jiayi Yuan, Meng Li, Cheng Wan, Raghuraman Krishnamoorthi, Vikas Chandra, Yingyan Lin 
 - [facebookresearch/DetectAndTrack](https://github.com/facebookresearch/DetectAndTrack) topic: pushed_at:2019-01 star:1.0k fork:0.2k The implementation of an algorithm presented in the CVPR18 paper: "Detect-and-Track: Efficient Pose Estimation in Videos"
 - [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron) topic: pushed_at:2021-08 star:25.5k fork:5.5k FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
-- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) topic: pushed_at:2023-01 star:23.3k fork:6.3k Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
+- [facebookresearch/detectron2](https://github.com/facebookresearch/detectron2) topic: pushed_at:2023-01 star:23.3k fork:6.4k Detectron2 is a platform for object detection, segmentation and other visual recognition tasks.
 - [facebookresearch/Detic](https://github.com/facebookresearch/Detic) topic: pushed_at:2022-09 star:1.3k fork:0.1k Code release for "Detecting Twenty-thousand Classes using Image-level Supervision".
 - [facebookresearch/detr](https://github.com/facebookresearch/detr) topic: pushed_at:2022-11 star:10.3k fork:1.9k End-to-End Object Detection with Transformers
 - [facebookresearch/DialogStitch](https://github.com/facebookresearch/DialogStitch) topic: pushed_at:2021-09 star:0.0k fork:0.0k DialogStitch Synthetic Deeper and Multi-Context Task-Oriented Dialogs
@@ -382,8 +381,9 @@
 - [facebookresearch/diffq](https://github.com/facebookresearch/diffq) topic: pushed_at:2022-10 star:0.1k fork:0.0k DiffQ performs differentiable quantization using pseudo quantization noise. It can automatically tune the number of bits used per weight or group of weights, in order to achieve a given trade-off between model size and accuracy.
 - [facebookresearch/digit-design](https://github.com/facebookresearch/digit-design) topic: pushed_at:2022-08 star:0.1k fork:0.0k Design files for the DIGIT tactile sensor 
 - [facebookresearch/digit-interface](https://github.com/facebookresearch/digit-interface) topic: pushed_at:2021-09 star:0.0k fork:0.0k Python interface for the DIGIT tactile sensor
-- [facebookresearch/dino](https://github.com/facebookresearch/dino) topic: pushed_at:2023-01 star:4.2k fork:0.6k PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO
-- [facebookresearch/diplomacy_cicero](https://github.com/facebookresearch/diplomacy_cicero) topic: pushed_at:2023-01 star:0.8k fork:0.1k Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation.
+- [facebookresearch/diht](https://github.com/facebookresearch/diht) topic: pushed_at:2023-01 star:0.1k fork:0.0k Filtering, Distillation, and Hard Negatives for Vision-Language Pre-Training
+- [facebookresearch/dino](https://github.com/facebookresearch/dino) topic: pushed_at:2023-01 star:4.2k fork:0.7k PyTorch code for Vision Transformers training with the Self-Supervised learning method DINO
+- [facebookresearch/diplomacy_cicero](https://github.com/facebookresearch/diplomacy_cicero) topic: pushed_at:2023-01 star:0.9k fork:0.1k Code for Cicero, an AI agent that plays the game of Diplomacy with open-domain natural language negotiation.
 - [facebookresearch/diplomacy_searchbot](https://github.com/facebookresearch/diplomacy_searchbot) topic: pushed_at:2022-08 star:0.0k fork:0.0k Code to accompany "Human-Level Performance in No-Press Diplomacy via Equilibrium Search", published at ICLR 2021
 - [facebookresearch/directclr](https://github.com/facebookresearch/directclr) topic: pushed_at:2022-09 star:0.0k fork:0.0k Code used in "Understanding Dimensional Collapse in Contrastive Self-supervised Learning" paper.
 - [facebookresearch/DisCo](https://github.com/facebookresearch/DisCo) topic: pushed_at:2022-07 star:0.1k fork:0.0k DisCo Transformer for Non-autoregressive MT
@@ -391,10 +391,10 @@
 - [facebookresearch/distributed-faiss](https://github.com/facebookresearch/distributed-faiss) topic: pushed_at:2022-08 star:0.2k fork:0.0k A library for building and serving multi-node distributed faiss indices.
 - [facebookresearch/DiT](https://github.com/facebookresearch/DiT) topic: pushed_at:2022-12 star:0.9k fork:0.1k Official PyTorch Implementation of "Scalable Diffusion Models with Transformers"
 - [facebookresearch/dlrm](https://github.com/facebookresearch/dlrm) topic: pushed_at:2023-01 star:3.3k fork:0.8k An implementation of a deep learning recommendation model (DLRM)
-- [facebookresearch/dmae_st](https://github.com/facebookresearch/dmae_st) topic: pushed_at:2022-12 star:0.0k fork:0.0k Directed masked autoencoders
+- [facebookresearch/dmae_st](https://github.com/facebookresearch/dmae_st) topic: pushed_at:2023-01 star:0.0k fork:0.0k Directed masked autoencoders
 - [facebookresearch/dmc-net](https://github.com/facebookresearch/dmc-net) topic: pushed_at:2021-10 star:0.0k fork:0.0k Internship project on compressed video
 - [facebookresearch/DME](https://github.com/facebookresearch/DME) topic: pushed_at:2020-09 star:0.3k fork:0.0k Dynamic Meta-Embeddings for Improved Sentence Representations
-- [facebookresearch/DomainBed](https://github.com/facebookresearch/DomainBed) topic: pushed_at:2023-01 star:0.9k fork:0.2k DomainBed is a suite to test domain generalization algorithms
+- [facebookresearch/DomainBed](https://github.com/facebookresearch/DomainBed) topic: pushed_at:2023-01 star:1.0k fork:0.2k DomainBed is a suite to test domain generalization algorithms
 - [facebookresearch/domainbed_measures](https://github.com/facebookresearch/domainbed_measures) topic: pushed_at:2022-01 star:0.0k fork:0.0k Code accompanying the paper on "An Empirical Investigation of Domain Generalization with Empirical Risk Minimizers" published at NeurIPS, 2021
 - [facebookresearch/DONERF](https://github.com/facebookresearch/DONERF) topic: pushed_at:2022-07 star:0.3k fork:0.0k Code for "DONeRF Towards Real-Time Rendering of Compact Neural Radiance Fields using Depth Oracle Networks"
 - [facebookresearch/DoodlerGAN](https://github.com/facebookresearch/DoodlerGAN) topic: pushed_at:2021-03 star:0.1k fork:0.0k AI models that can doodle/sketch
@@ -418,7 +418,7 @@
 - [facebookresearch/em-pose](https://github.com/facebookresearch/em-pose) topic: pushed_at:2021-10 star:0.1k fork:0.0k EM-POSE 3D Human Pose Estimation from Sparse Electromagnetic Trackers. This repository contains the code to our paper published at ICCV 2021: https//ait.ethz.ch/projects/2021/em-pose
 - [facebookresearch/EmbodiedQA](https://github.com/facebookresearch/EmbodiedQA) topic: pushed_at:2022-12 star:0.3k fork:0.1k Train embodied agents that can answer questions in environments
 - [facebookresearch/EmpatheticDialogues](https://github.com/facebookresearch/EmpatheticDialogues) topic: pushed_at:2021-12 star:0.3k fork:0.1k Dialogue model that produces empathetic responses when trained on the EmpatheticDialogues dataset.
-- [facebookresearch/encodec](https://github.com/facebookresearch/encodec) topic: pushed_at:2022-12 star:1.3k fork:0.1k State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
+- [facebookresearch/encodec](https://github.com/facebookresearch/encodec) topic: pushed_at:2022-12 star:1.4k fork:0.1k State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.
 - [facebookresearch/end-to-end-negotiator](https://github.com/facebookresearch/end-to-end-negotiator) topic: pushed_at:2020-05 star:1.4k fork:0.3k Deal or No Deal? End-to-End Learning for Negotiation Dialogues
 - [facebookresearch/enorm](https://github.com/facebookresearch/enorm) topic: pushed_at:2019-05 star:0.1k fork:0.0k Equi-normalization of Neural Networks
 - [facebookresearch/entity-factored-rl](https://github.com/facebookresearch/entity-factored-rl) topic: pushed_at:2022-05 star:0.0k fork:0.0k Source code for the paper "Policy Architectures for Compositional Generalization in Control"
@@ -430,7 +430,7 @@
 - [facebookresearch/fair_self_supervision_benchmark](https://github.com/facebookresearch/fair_self_supervision_benchmark) topic: pushed_at:2021-10 star:0.6k fork:0.1k Scaling and Benchmarking Self-Supervised Visual Representation Learning
 - [facebookresearch/fairmotion](https://github.com/facebookresearch/fairmotion) topic: pushed_at:2022-12 star:0.5k fork:0.1k Tools to load, process and visualize motion capture data
 - [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale) topic: pushed_at:2022-12 star:2.0k fork:0.2k PyTorch extensions for high performance and large scale training.
-- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) topic:artificial-intelligence,python,pytorch pushed_at:2022-12 star:20.5k fork:5.1k Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
+- [facebookresearch/fairseq](https://github.com/facebookresearch/fairseq) topic:artificial-intelligence,python,pytorch pushed_at:2023-01 star:20.6k fork:5.2k Facebook AI Research Sequence-to-Sequence Toolkit written in Python.
 - [facebookresearch/FAMBench](https://github.com/facebookresearch/FAMBench) topic: pushed_at:2023-01 star:0.0k fork:0.0k Benchmarks to capture important workloads. 
 - [facebookresearch/FashionPlus](https://github.com/facebookresearch/FashionPlus) topic: pushed_at:2021-08 star:0.2k fork:0.0k Fashion++: Minimal Edits for Outfit Improvement
 - [facebookresearch/fastMRI](https://github.com/facebookresearch/fastMRI) topic:convolutional-neural-networks,deep-learning,fastmri,fastmri-challenge,fastmri-dataset,medical-imaging,mri,mri-reconstruction,pytorch pushed_at:2022-12 star:0.9k fork:0.3k A large-scale dataset of both raw MRI measurements and clinical MRI images.
@@ -465,7 +465,7 @@
 - [facebookresearch/grounding-inductive-biases](https://github.com/facebookresearch/grounding-inductive-biases) topic: pushed_at:2021-11 star:0.0k fork:0.0k reproduces experiments from "Grounding inductive biases in natural images: invariance stems from variations in data"
 - [facebookresearch/gtn_applications](https://github.com/facebookresearch/gtn_applications) topic: pushed_at:2022-07 star:0.1k fork:0.0k Applications using the GTN library and code to reproduce experiments in "Differentiable Weighted Finite-State Transducers"
 - [facebookresearch/gwil](https://github.com/facebookresearch/gwil) topic: pushed_at:2022-06 star:0.0k fork:0.0k Cross-Domain Imitation Learning via Optimal Transport
-- [facebookresearch/habitat-challenge](https://github.com/facebookresearch/habitat-challenge) topic: pushed_at:2022-09 star:0.2k fork:0.0k Code for the habitat challenge
+- [facebookresearch/habitat-challenge](https://github.com/facebookresearch/habitat-challenge) topic: pushed_at:2023-01 star:0.2k fork:0.0k Code for the habitat challenge
 - [facebookresearch/habitat-lab](https://github.com/facebookresearch/habitat-lab) topic:ai,computer-vision,deep-learning,deep-reinforcement-learning,python,reinforcement-learning,research,robotics,sim2real,simulator pushed_at:2023-01 star:1.0k fork:0.3k A modular high-level library to train embodied AI agents across a variety of tasks and environments.
 - [facebookresearch/habitat-matterport3d-dataset](https://github.com/facebookresearch/habitat-matterport3d-dataset) topic: pushed_at:2021-12 star:0.1k fork:0.0k This repository contains code to reproduce experimental results from our HM3D paper in NeurIPS 2021.
 - [facebookresearch/hanabi_SAD](https://github.com/facebookresearch/hanabi_SAD) topic: pushed_at:2022-06 star:0.1k fork:0.0k Simplified Action Decoder for Deep Multi-Agent Reinforcement Learning
@@ -477,7 +477,7 @@
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) topic: pushed_at:2023-01 star:6.7k fork:0.5k Hydra is a framework for elegantly configuring complex applications
 - [facebookresearch/HyperNetworkDecoder](https://github.com/facebookresearch/HyperNetworkDecoder) topic: pushed_at:2020-02 star:0.0k fork:0.0k Hyper Graph Network Decoders for Block Codes
 - [facebookresearch/hypernymysuite](https://github.com/facebookresearch/hypernymysuite) topic: pushed_at:2021-08 star:0.1k fork:0.0k Hearst Patterns Revisited: Automatic Hypernym Detection from Large Text Corpora
-- [facebookresearch/hyperreel](https://github.com/facebookresearch/hyperreel) topic: pushed_at:2023-01 star:0.0k fork:0.0k Code release for HyperReel High-Fidelity 3D Video with Ray-Conditioned Sampling
+- [facebookresearch/hyperreel](https://github.com/facebookresearch/hyperreel) topic: pushed_at:2023-01 star:0.3k fork:0.0k Code release for HyperReel: High-Fidelity 6-DoF Video with Ray-Conditioned Sampling
 - [facebookresearch/ic_gan](https://github.com/facebookresearch/ic_gan) topic: pushed_at:2022-02 star:0.5k fork:0.1k Official repository for the paper "Instance-Conditioned GAN" by Arantxa Casanova, Marlene Careil, Jakob Verbeek, Michał Drożdżal, Adriana Romero-Soriano.
 - [facebookresearch/icp-block-mdp](https://github.com/facebookresearch/icp-block-mdp) topic: pushed_at:2020-06 star:0.0k fork:0.0k Invariant Causal Prediction for Block MDPs
 - [facebookresearch/image-to-set](https://github.com/facebookresearch/image-to-set) topic: pushed_at:2021-08 star:0.0k fork:0.0k The project is about predicting sets (of classes) from images.
@@ -499,7 +499,7 @@
 - [facebookresearch/isc2021](https://github.com/facebookresearch/isc2021) topic: pushed_at:2022-09 star:0.2k fork:0.0k Code for the Image similarity challenge. 
 - [facebookresearch/iSDF](https://github.com/facebookresearch/iSDF) topic:implicit-neural-representation,mapping,nerf,neural-fields,real-time,robot-perception,signed-distance-field pushed_at:2022-11 star:0.3k fork:0.0k Real-time Neural Signed Distance Fields for Robot Perception
 - [facebookresearch/jacobian_regularizer](https://github.com/facebookresearch/jacobian_regularizer) topic: pushed_at:2021-08 star:0.1k fork:0.0k A pytorch implementation of our jacobian regularizer to encourage learning representations more robust to input perturbations.
-- [facebookresearch/Kats](https://github.com/facebookresearch/Kats) topic: pushed_at:2023-01 star:4.1k fork:0.4k Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends. 
+- [facebookresearch/Kats](https://github.com/facebookresearch/Kats) topic: pushed_at:2023-01 star:4.2k fork:0.4k Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends. 
 - [facebookresearch/kbc](https://github.com/facebookresearch/kbc) topic: pushed_at:2021-08 star:0.2k fork:0.0k Tools for state of the art Knowledge Base Completion.
 - [facebookresearch/ketod](https://github.com/facebookresearch/ketod) topic: pushed_at:2023-01 star:0.0k fork:0.0k KETOD Knowledge-Enriched Task-Oriented Dialogue
 - [facebookresearch/KeypointNeRF](https://github.com/facebookresearch/KeypointNeRF) topic: pushed_at:2022-10 star:0.3k fork:0.0k KeypointNeRF Generalizing Image-based Volumetric Avatars using Relative Spatial Encoding of Keypoints
@@ -528,7 +528,7 @@
 - [facebookresearch/luckmatters](https://github.com/facebookresearch/luckmatters) topic: pushed_at:2022-12 star:0.2k fork:0.0k Understanding Training Dynamics of Deep ReLU Networks
 - [facebookresearch/M3RL](https://github.com/facebookresearch/M3RL) topic: pushed_at:2019-03 star:0.1k fork:0.0k Mind-aware Multi-agent Management Reinforcement Learning
 - [facebookresearch/madgrad](https://github.com/facebookresearch/madgrad) topic: pushed_at:2022-03 star:0.8k fork:0.1k MADGRAD Optimization Method
-- [facebookresearch/mae](https://github.com/facebookresearch/mae) topic: pushed_at:2022-12 star:4.8k fork:0.8k PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
+- [facebookresearch/mae](https://github.com/facebookresearch/mae) topic: pushed_at:2022-12 star:4.9k fork:0.8k PyTorch implementation of MAE https//arxiv.org/abs/2111.06377
 - [facebookresearch/mae_st](https://github.com/facebookresearch/mae_st) topic: pushed_at:2022-12 star:0.1k fork:0.0k Official Open Source code for "Masked Autoencoders As Spatiotemporal Learners"
 - [facebookresearch/many-to-many-dijkstra](https://github.com/facebookresearch/many-to-many-dijkstra) topic: pushed_at:2021-08 star:0.2k fork:0.0k A predictive model developed to identify medium-voltage electrical distribution grid infrastructure using publicly available data sources.
 - [facebookresearch/Mask-Predict](https://github.com/facebookresearch/Mask-Predict) topic: pushed_at:2021-09 star:0.2k fork:0.0k A masked language modeling objective to train a model to predict any subset of the target words, conditioned on both the input text and a partially masked target translation. 
@@ -556,12 +556,12 @@
 - [facebookresearch/mm-retrieval-evaluation](https://github.com/facebookresearch/mm-retrieval-evaluation) topic: pushed_at:2022-08 star:0.0k fork:0.0k mm-retrieval-evaluation
 - [facebookresearch/mmbt](https://github.com/facebookresearch/mmbt) topic: pushed_at:2021-06 star:0.2k fork:0.0k Supervised Multimodal Bitransformers for Classifying Images and Text
 - [facebookresearch/mmd](https://github.com/facebookresearch/mmd) topic: pushed_at:2022-06 star:0.0k fork:0.0k ML models often mispredict, and it is hard to tell when and why. We present a data mining based approach to discover whether there is a certain form of data that particular causes the model to mispredict.
-- [facebookresearch/mmf](https://github.com/facebookresearch/mmf) topic:captioning,deep-learning,dialog,hateful-memes,multi-tasking,multimodal,pretrained-models,pytorch,textvqa,vqa pushed_at:2022-12 star:5.1k fork:0.9k A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
+- [facebookresearch/mmf](https://github.com/facebookresearch/mmf) topic:captioning,deep-learning,dialog,hateful-memes,multi-tasking,multimodal,pretrained-models,pytorch,textvqa,vqa pushed_at:2023-01 star:5.1k fork:0.9k A modular framework for vision & language multimodal research from Facebook AI Research (FAIR)
 - [facebookresearch/mobile-vision](https://github.com/facebookresearch/mobile-vision) topic: pushed_at:2022-12 star:0.8k fork:0.1k Mobile vision models and code
 - [facebookresearch/moco](https://github.com/facebookresearch/moco) topic: pushed_at:2023-01 star:3.7k fork:0.7k PyTorch implementation of MoCo: https://arxiv.org/abs/1911.05722
 - [facebookresearch/moco-v3](https://github.com/facebookresearch/moco-v3) topic: pushed_at:2021-11 star:0.9k fork:0.1k PyTorch implementation of MoCo v3 https//arxiv.org/abs/2104.02057
 - [facebookresearch/modeling_long_term_future](https://github.com/facebookresearch/modeling_long_term_future) topic: pushed_at:2019-06 star:0.0k fork:0.0k Code for ICLR 2019 paper Learning Dynamics Model by Incorporating the Long Term Future
-- [facebookresearch/modem](https://github.com/facebookresearch/modem) topic: pushed_at:2022-12 star:0.0k fork:0.0k MoDem Accelerating Visual Model-Based Reinforcement Learning with Demonstrations
+- [facebookresearch/modem](https://github.com/facebookresearch/modem) topic: pushed_at:2022-12 star:0.1k fork:0.0k MoDem Accelerating Visual Model-Based Reinforcement Learning with Demonstrations
 - [facebookresearch/morbo](https://github.com/facebookresearch/morbo) topic: pushed_at:2022-10 star:0.0k fork:0.0k Multi-Objective Bayesian Optimization over High-Dimensional Search Spaces
 - [facebookresearch/Motionformer](https://github.com/facebookresearch/Motionformer) topic: pushed_at:2022-06 star:0.2k fork:0.0k Code + pre-trained models for the paper Keeping Your Eye on the Ball Trajectory Attention in Video Transformers
 - [facebookresearch/mpcfp](https://github.com/facebookresearch/mpcfp) topic: pushed_at:2020-11 star:0.0k fork:0.0k This is code associated with the paper, "Secure multiparty computations in floating-point arithmetic," published in the Institute of Mathematics and its Applications' "Information and Inference: a Journal of the IMA."
@@ -581,7 +581,7 @@
 - [facebookresearch/mvfst-rl](https://github.com/facebookresearch/mvfst-rl) topic: pushed_at:2022-02 star:0.1k fork:0.0k An asynchronous RL platform for congestion control in QUIC transport protocol. https://arxiv.org/abs/1910.04054.
 - [facebookresearch/mvit](https://github.com/facebookresearch/mvit) topic: pushed_at:2022-08 star:0.2k fork:0.0k Code Release for MViTv2 on Image Recognition.
 - [facebookresearch/mvp](https://github.com/facebookresearch/mvp) topic: pushed_at:2022-01 star:0.1k fork:0.0k Training and Evaluation Code for "Mixture of Volumetric Primitives for Efficient Neural Rendering"
-- [facebookresearch/myosuite](https://github.com/facebookresearch/myosuite) topic:machine-learning,motor-control,mujoco,musculoskeletal pushed_at:2022-12 star:0.5k fork:0.0k MyoSuite is a collection of environments/tasks to be solved by musculoskeletal models simulated with the MuJoCo physics engine and wrapped in the OpenAI gym API. 
+- [facebookresearch/myosuite](https://github.com/facebookresearch/myosuite) topic:machine-learning,motor-control,mujoco,musculoskeletal pushed_at:2023-01 star:0.5k fork:0.0k MyoSuite is a collection of environments/tasks to be solved by musculoskeletal models simulated with the MuJoCo physics engine and wrapped in the OpenAI gym API. 
 - [facebookresearch/NARS](https://github.com/facebookresearch/NARS) topic: pushed_at:2020-11 star:0.1k fork:0.0k Scalable Graph Neural Networks for Heterogeneous Graphs
 - [facebookresearch/NASViT](https://github.com/facebookresearch/NASViT) topic: pushed_at:2022-04 star:0.1k fork:0.0k code for NASViT
 - [facebookresearch/natural_rl_environment](https://github.com/facebookresearch/natural_rl_environment) topic: pushed_at:2019-05 star:0.0k fork:0.0k Natural Environment Benchmarks for Reinforcement Learning
@@ -607,9 +607,9 @@
 - [facebookresearch/nonrigid_nerf](https://github.com/facebookresearch/nonrigid_nerf) topic: pushed_at:2022-05 star:0.3k fork:0.0k Open source repository for the code accompanying the paper 'Non-Rigid Neural Radiance Fields Reconstruction and Novel View Synthesis of a Deforming Scene from Monocular Video'.
 - [facebookresearch/Noresqa](https://github.com/facebookresearch/Noresqa) topic: pushed_at:2022-10 star:0.0k fork:0.0k This github repo is for Neurips 2021 and Interspeech 2022 papers on Non-Matching Reference based estimation of speech quality assessment. 
 - [facebookresearch/NPM](https://github.com/facebookresearch/NPM) topic: pushed_at:2023-01 star:0.1k fork:0.0k The original implementation of Min et al. "Nonparametric Masked Language Modeling" (paper https//arxiv.org/abs/2212.01349)
-- [facebookresearch/NSVF](https://github.com/facebookresearch/NSVF) topic: pushed_at:2022-08 star:0.6k fork:0.1k Open source code for the paper of Neural Sparse Voxel Fields.
+- [facebookresearch/NSVF](https://github.com/facebookresearch/NSVF) topic: pushed_at:2022-08 star:0.7k fork:0.1k Open source code for the paper of Neural Sparse Voxel Fields.
 - [facebookresearch/OccupancyAnticipation](https://github.com/facebookresearch/OccupancyAnticipation) topic: pushed_at:2021-12 star:0.1k fork:0.0k This repository contains code for our publication "Occupancy Anticipation for Efficient Exploration and Navigation" in ECCV 2020.
-- [facebookresearch/OctConv](https://github.com/facebookresearch/OctConv) topic: pushed_at:2021-10 star:0.5k fork:0.1k Code for paper
+- [facebookresearch/OctConv](https://github.com/facebookresearch/OctConv) topic: pushed_at:2021-10 star:0.6k fork:0.1k Code for paper
 - [facebookresearch/odin](https://github.com/facebookresearch/odin) topic: pushed_at:2021-10 star:0.5k fork:0.1k A simple and effective method for detecting out-of-distribution images in neural networks.
 - [facebookresearch/off-belief-learning](https://github.com/facebookresearch/off-belief-learning) topic: pushed_at:2022-08 star:0.0k fork:0.0k Implementation of the Off Belief Learning algorithm.
 - [facebookresearch/OLLA](https://github.com/facebookresearch/OLLA) topic: pushed_at:2023-01 star:0.0k fork:0.0k Optimizing the Lifetime and Location of Arrays to Reduce the Memory Usage of Neural Networks
@@ -640,7 +640,7 @@
 - [facebookresearch/PointContrast](https://github.com/facebookresearch/PointContrast) topic: pushed_at:2021-08 star:0.3k fork:0.0k Code for paper <PointContrast: Unsupervised Pretraining for 3D Point Cloud Understanding>
 - [facebookresearch/polymetis](https://github.com/facebookresearch/polymetis) topic: pushed_at:2021-07 star:0.0k fork:0.0k Write PyTorch controllers, test them in simulation, and seamlessly transfer to real-time hardware.
 - [facebookresearch/PoseWarper](https://github.com/facebookresearch/PoseWarper) topic: pushed_at:2021-10 star:0.1k fork:0.0k Learning Temporal Pose Estimation from Sparsely Labeled Videos
-- [facebookresearch/pplbench](https://github.com/facebookresearch/pplbench) topic:bayesian-logistic-regression,benchmark,ppl,probabilistic-programming-languages pushed_at:2022-12 star:0.1k fork:0.0k Evaluation Framework for Probabilistic Programming Languages
+- [facebookresearch/pplbench](https://github.com/facebookresearch/pplbench) topic:bayesian-logistic-regression,benchmark,ppl,probabilistic-programming-languages pushed_at:2023-01 star:0.1k fork:0.0k Evaluation Framework for Probabilistic Programming Languages
 - [facebookresearch/ppo-dice](https://github.com/facebookresearch/ppo-dice) topic: pushed_at:2020-09 star:0.0k fork:0.0k We propose a new way to make policy optimization more stable.
 - [facebookresearch/ppuda](https://github.com/facebookresearch/ppuda) topic: pushed_at:2022-07 star:0.5k fork:0.1k Code for Parameter Prediction for Unseen Deep Architectures (NeurIPS 2021)
 - [facebookresearch/PressureVision](https://github.com/facebookresearch/PressureVision) topic: pushed_at:2022-07 star:0.0k fork:0.0k [ECCV 2022] PressureVision: Estimating Hand Pressure from a Single RGB Image
@@ -660,7 +660,7 @@
 - [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d) topic: pushed_at:2023-01 star:6.9k fork:1.0k PyTorch3D is FAIR's library of reusable components for deep learning with 3D data
 - [facebookresearch/pytorch_GAN_zoo](https://github.com/facebookresearch/pytorch_GAN_zoo) topic: pushed_at:2021-10 star:1.5k fork:0.3k A mix of GAN implementations including progressive growing
 - [facebookresearch/pytorchvideo](https://github.com/facebookresearch/pytorchvideo) topic: pushed_at:2022-11 star:2.7k fork:0.3k A deep learning library for video understanding research.
-- [facebookresearch/PyTouch](https://github.com/facebookresearch/PyTouch) topic: pushed_at:2022-12 star:0.2k fork:0.0k PyTouch is a machine learning library for tactile touch sensing.
+- [facebookresearch/PyTouch](https://github.com/facebookresearch/PyTouch) topic: pushed_at:2023-01 star:0.2k fork:0.0k PyTouch is a machine learning library for tactile touch sensing.
 - [facebookresearch/QA-Overlap](https://github.com/facebookresearch/QA-Overlap) topic: pushed_at:2021-08 star:0.1k fork:0.0k Code to support the paper "Question and Answer Test-Train Overlap in Open-Domain Question Answering Datasets"
 - [facebookresearch/qhoptim](https://github.com/facebookresearch/qhoptim) topic: pushed_at:2020-05 star:0.1k fork:0.0k Implementations of quasi-hyperbolic optimization algorithms.
 - [facebookresearch/qmnist](https://github.com/facebookresearch/qmnist) topic: pushed_at:2022-09 star:0.2k fork:0.0k The QMNIST dataset
@@ -683,7 +683,7 @@
 - [facebookresearch/rlmeta](https://github.com/facebookresearch/rlmeta) topic: pushed_at:2022-12 star:0.3k fork:0.0k RLMeta is a light-weight flexible framework for Distributed Reinforcement Learning Research.
 - [facebookresearch/rlstructures](https://github.com/facebookresearch/rlstructures) topic: pushed_at:2021-10 star:0.3k fork:0.0k RLStructures is a library to facilitate the implementation of new reinforcement learning algorithms. It includes a library, a tutorial, and different RL algorithms provided as examples. 
 - [facebookresearch/rmac](https://github.com/facebookresearch/rmac) topic: pushed_at:2019-11 star:0.0k fork:0.0k Robust Multi-Agent Counterfactual Prediction
-- [facebookresearch/romqa](https://github.com/facebookresearch/romqa) topic: pushed_at:2022-12 star:0.0k fork:0.0k A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering
+- [facebookresearch/romqa](https://github.com/facebookresearch/romqa) topic: pushed_at:2023-01 star:0.0k fork:0.0k A Benchmark for Robust, Multi-evidence, Multi-answer Question Answering
 - [facebookresearch/RRL](https://github.com/facebookresearch/RRL) topic: pushed_at:2022-01 star:0.0k fork:0.0k Code for RRL (https://sites.google.com/view/abstractions4rl)
 - [facebookresearch/RTFM](https://github.com/facebookresearch/RTFM) topic: pushed_at:2021-10 star:0.0k fork:0.0k Experiment code for the ICLR 2020 paper "RTFM: Generalising to New Environment Dynamics via Reading".
 - [facebookresearch/SAFEtorch](https://github.com/facebookresearch/SAFEtorch) topic: pushed_at:2022-06 star:0.0k fork:0.0k pytorch version of the SAFE neural network
@@ -705,7 +705,7 @@
 - [facebookresearch/simmc](https://github.com/facebookresearch/simmc) topic: pushed_at:2021-10 star:0.1k fork:0.0k With the aim of building next generation virtual assistants that can handle multimodal inputs and perform multimodal actions, we introduce two new datasets (both in the virtual shopping domain), the annotation schema, the core technical tasks, and the baseline models. The code for the baselines and the datasets will be opensourced.
 - [facebookresearch/simmc2](https://github.com/facebookresearch/simmc2) topic: pushed_at:2022-11 star:0.1k fork:0.0k Code for SIMMC 2.0: A Task-oriented Dialog Dataset for Immersive Multimodal Conversations
 - [facebookresearch/simsiam](https://github.com/facebookresearch/simsiam) topic: pushed_at:2022-10 star:0.8k fork:0.1k PyTorch implementation of SimSiam https//arxiv.org/abs/2011.10566
-- [facebookresearch/SimulEval](https://github.com/facebookresearch/SimulEval) topic: pushed_at:2022-12 star:0.0k fork:0.0k SimulEval: A General Evaluation Toolkit for Simultaneous Translation
+- [facebookresearch/SimulEval](https://github.com/facebookresearch/SimulEval) topic: pushed_at:2023-01 star:0.0k fork:0.0k SimulEval: A General Evaluation Toolkit for Simultaneous Translation
 - [facebookresearch/SING](https://github.com/facebookresearch/SING) topic: pushed_at:2021-09 star:0.2k fork:0.0k Symbol-to-Instrument Neural Generator
 - [facebookresearch/SingleModelUncertainty](https://github.com/facebookresearch/SingleModelUncertainty) topic: pushed_at:2020-01 star:0.1k fork:0.0k Learning error bars for neural network predictions
 - [facebookresearch/slbo](https://github.com/facebookresearch/slbo) topic: pushed_at:2019-09 star:0.1k fork:0.0k Algorithmic Framework for Model-based Deep Reinforcement Learning with Theoretical Guarantees
@@ -762,7 +762,7 @@
 - [facebookresearch/ToMi](https://github.com/facebookresearch/ToMi) topic: pushed_at:2020-08 star:0.0k fork:0.0k Code accompanying our EMNLP 2019 paper: "Revisiting the Evaluation of Theory of Mind through Question Answering"
 - [facebookresearch/torchbeast](https://github.com/facebookresearch/torchbeast) topic: pushed_at:2021-09 star:0.7k fork:0.1k A PyTorch Platform for Distributed RL
 - [facebookresearch/TorchRay](https://github.com/facebookresearch/TorchRay) topic: pushed_at:2020-07 star:0.3k fork:0.0k Understanding Deep Networks via Extremal Perturbations and Smooth Masks
-- [facebookresearch/TransCoder](https://github.com/facebookresearch/TransCoder) topic: pushed_at:2021-09 star:1.6k fork:0.2k Public release of the TransCoder research project https://arxiv.org/pdf/2006.03511.pdf
+- [facebookresearch/TransCoder](https://github.com/facebookresearch/TransCoder) topic: pushed_at:2021-09 star:1.6k fork:0.3k Public release of the TransCoder research project https://arxiv.org/pdf/2006.03511.pdf
 - [facebookresearch/transformer-sequential](https://github.com/facebookresearch/transformer-sequential) topic: pushed_at:2022-10 star:0.1k fork:0.0k Trains Transformer model variants. Data isn't shuffled between batches.
 - [facebookresearch/translagent](https://github.com/facebookresearch/translagent) topic: pushed_at:2018-06 star:0.1k fork:0.0k Code for Emergent Translation in Multi-Agent Communication
 - [facebookresearch/TreeNLG](https://github.com/facebookresearch/TreeNLG) topic: pushed_at:2020-07 star:0.1k fork:0.0k A novel method of constrained decoding for neural NLG (NNLG) models
@@ -810,7 +810,7 @@
 - [facebookresearch/WSL-Images](https://github.com/facebookresearch/WSL-Images) topic: pushed_at:2021-10 star:0.6k fork:0.1k Weakly Supervised Learning On Images
 - [facebookresearch/WyPR](https://github.com/facebookresearch/WyPR) topic: pushed_at:2021-06 star:0.0k fork:0.0k Code release for CVPR 2021 paper "3D Spatial Recognition without Spatially Labeled 3D"
 - [facebookresearch/xbanditsrl](https://github.com/facebookresearch/xbanditsrl) topic: pushed_at:2022-10 star:0.0k fork:0.0k Contextual Bandit Spectral Representation Learner
-- [facebookresearch/xcit](https://github.com/facebookresearch/xcit) topic: pushed_at:2021-09 star:0.6k fork:0.0k Official code Cross-Covariance Image Transformer (XCiT)
+- [facebookresearch/xcit](https://github.com/facebookresearch/xcit) topic: pushed_at:2021-09 star:0.6k fork:0.1k Official code Cross-Covariance Image Transformer (XCiT)
 - [facebookresearch/xformers](https://github.com/facebookresearch/xformers) topic: pushed_at:2023-01 star:2.3k fork:0.2k Hackable and optimized Transformers building blocks, supporting a composable construction.
 - [facebookresearch/XLM](https://github.com/facebookresearch/XLM) topic: pushed_at:2022-02 star:2.7k fork:0.5k PyTorch original implementation of Cross-lingual Language Model Pretraining.
 - [facebookresearch/xR-EgoPose](https://github.com/facebookresearch/xR-EgoPose) topic: pushed_at:2022-09 star:0.0k fork:0.0k New egocentric synthetic dataset for egocentric 3D human pose estimation
@@ -834,7 +834,7 @@
 ## Rust
 
 - [facebookresearch/Cupcake](https://github.com/facebookresearch/Cupcake) topic: pushed_at:2021-10 star:0.4k fork:0.0k A Rust library for lattice-based additive homomorphic encryption. 
-- [facebookresearch/dachshund](https://github.com/facebookresearch/dachshund) topic: pushed_at:2022-12 star:0.1k fork:0.0k Dachshund is a graph mining library written in Rust. It provides high performance data structures for multiple kinds of graphs, from simple undirected graphs to typed hypergraphs. Dachshund also provides algorithms for common tasks for graph mining and analysis, ranging from shortest paths to graph spectral analysis.
+- [facebookresearch/dachshund](https://github.com/facebookresearch/dachshund) topic: pushed_at:2023-01 star:0.1k fork:0.0k Dachshund is a graph mining library written in Rust. It provides high performance data structures for multiple kinds of graphs, from simple undirected graphs to typed hypergraphs. Dachshund also provides algorithms for common tasks for graph mining and analysis, ranging from shortest paths to graph spectral analysis.
 - [facebookresearch/gad](https://github.com/facebookresearch/gad) topic: pushed_at:2021-10 star:0.0k fork:0.0k Generic Automatic Differentiation library for Rust (aka "autograd")
 - [facebookresearch/narwhal](https://github.com/facebookresearch/narwhal) topic: pushed_at:2022-11 star:0.1k fork:0.0k Narwhal and Tusk: A DAG-based Mempool and Efficient BFT Consensus.
 - [facebookresearch/Private-ID](https://github.com/facebookresearch/Private-ID) topic: pushed_at:2022-11 star:0.2k fork:0.0k A collection of algorithms that can do join between two parties while preserving the privacy of keys on which the join happens
@@ -865,7 +865,7 @@
 ## TypeScript
 
 - [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot) topic: pushed_at:2023-01 star:2.4k fork:0.1k HiPlot makes understanding high dimensional data easy
-- [facebookresearch/playtorch](https://github.com/facebookresearch/playtorch) topic: pushed_at:2022-12 star:0.6k fork:0.1k PlayTorch is a framework for rapidly creating mobile AI experiences.
+- [facebookresearch/playtorch](https://github.com/facebookresearch/playtorch) topic: pushed_at:2023-01 star:0.6k fork:0.1k PlayTorch is a framework for rapidly creating mobile AI experiences.
 - [facebookresearch/shumai](https://github.com/facebookresearch/shumai) topic: pushed_at:2023-01 star:0.9k fork:0.0k Fast Differentiable Tensor Library in JavaScript and TypeScript with Bun + Flashlight
 
 
