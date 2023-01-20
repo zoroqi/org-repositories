@@ -8,7 +8,7 @@
 
 - [C](#c) (1)
 - [C++](#c++) (4)
-- [Go](#go) (18)
+- [Go](#go) (19)
 - [HTML](#html) (1)
 - [Haskell](#haskell) (1)
 - [Java](#java) (22)
@@ -17,7 +17,7 @@
 - [Kotlin](#kotlin) (6)
 - [OCaml](#ocaml) (1)
 - [Objective-C](#objective-c) (4)
-- [Others](#others) (7)
+- [Others](#others) (6)
 - [PHP](#php) (1)
 - [Python](#python) (21)
 - [Ruby](#ruby) (2)
@@ -50,11 +50,12 @@
 - [uber/cadvisor](https://github.com/uber/cadvisor) topic: pushed_at:2021-08 star:0.0k fork:0.0k Analyzes resource usage and performance characteristics of running containers.
 - [uber/gonduit](https://github.com/uber/gonduit) topic: pushed_at:2021-06 star:0.0k fork:0.0k A Go package for connecting to Phabricator via the Conduit API.
 - [uber/h3-go](https://github.com/uber/h3-go) topic:geospatial,go,golang,h3,hexagon,spatial-indexing,uber pushed_at:2022-12 star:0.2k fork:0.0k Go bindings for H3, a hierarchical hexagonal geospatial indexing system
-- [uber/kraken](https://github.com/uber/kraken) topic:bittorrent,container,docker,docker-image,docker-registry,p2p pushed_at:2022-12 star:5.3k fork:0.4k P2P Docker registry capable of distributing TBs of data in seconds
+- [uber/kraken](https://github.com/uber/kraken) topic:bittorrent,container,docker,docker-image,docker-registry,p2p pushed_at:2023-01 star:5.3k fork:0.4k P2P Docker registry capable of distributing TBs of data in seconds
 - [uber/pam-ussh](https://github.com/uber/pam-ussh) topic: pushed_at:2022-09 star:0.8k fork:0.1k uber's ssh certificate pam module
 - [uber/peloton](https://github.com/uber/peloton) topic: pushed_at:2021-03 star:0.6k fork:0.1k Unified Resource Scheduler to co-schedule mixed types of workloads such as batch, stateless and stateful jobs in a single cluster for better resource utilization.
 - [uber/prototool](https://github.com/uber/prototool) topic:grpc,grpc-go,proto3,protobuf,protoc,protocol-buffers pushed_at:2022-03 star:5.0k fork:0.4k Your Swiss Army Knife for Protocol Buffers
 - [uber/ringpop-go](https://github.com/uber/ringpop-go) topic: pushed_at:2022-07 star:0.8k fork:0.1k Scalable, fault-tolerant application-layer sharding for Go applications
+- [uber/starlark-go](https://github.com/uber/starlark-go) topic: pushed_at:2023-01 star:0.0k fork:0.0k Uber fork:  Starlark in Go: the Starlark configuration language, implemented in Go
 - [uber/storagetapper](https://github.com/uber/storagetapper) topic:avro,cdc,clickhouse,etl,hdfs,json,kafka,msgpack,mysql,postgresql,s3 pushed_at:2022-01 star:0.3k fork:0.1k StorageTapper is a scalable realtime MySQL change data streaming, logical backup and logical replication service
 - [uber/tchannel-go](https://github.com/uber/tchannel-go) topic: pushed_at:2022-08 star:0.5k fork:0.1k Go implementation of a multiplexing and framing protocol for RPC calls
 - [uber/uberalls](https://github.com/uber/uberalls) topic: pushed_at:2020-03 star:0.2k fork:0.0k Track code coverage metrics with Jenkins and Phabricator
@@ -66,7 +67,7 @@
 
 ## Haskell
 
-- [uber/queryparser](https://github.com/uber/queryparser) topic: pushed_at:2022-02 star:1.0k fork:0.1k Parsing and analysis of Vertica, Hive, and Presto SQL.
+- [uber/queryparser](https://github.com/uber/queryparser) topic: pushed_at:2022-02 star:1.1k fork:0.1k Parsing and analysis of Vertica, Hive, and Presto SQL.
 
 ## Java
 
@@ -76,13 +77,13 @@
 - [uber/cadence-java-samples](https://github.com/uber/cadence-java-samples) topic: pushed_at:2022-09 star:0.1k fork:0.1k 
 - [uber/concurrency-loadbalancer](https://github.com/uber/concurrency-loadbalancer) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
 - [uber/dynamodb-cross-region-library](https://github.com/uber/dynamodb-cross-region-library) topic: pushed_at:2017-10 star:0.0k fork:0.0k A library to facilitate cross-region replication with Amazon DynamoDB Streams.
-- [uber/h3-java](https://github.com/uber/h3-java) topic:geospatial,h3,hexagon,java,spatial-indexing,uber pushed_at:2022-12 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
+- [uber/h3-java](https://github.com/uber/h3-java) topic:geospatial,h3,hexagon,java,spatial-indexing,uber pushed_at:2023-01 star:0.2k fork:0.0k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/marmaray](https://github.com/uber/marmaray) topic:avro-schema,data-lake,hadoop,ingest-data,schema-format,spark pushed_at:2022-07 star:0.5k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
 - [uber/NullAway](https://github.com/uber/NullAway) topic:android,java,nullability,nullability-analysis,static-analysis,static-code-analysis pushed_at:2023-01 star:3.2k fork:0.3k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [uber/okbuck](https://github.com/uber/okbuck) topic:android,buck,gradle,gradle-plugin,watchman pushed_at:2022-08 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
 - [uber/phabricator-jenkins-plugin](https://github.com/uber/phabricator-jenkins-plugin) topic: pushed_at:2023-01 star:0.4k fork:0.1k Jenkins plugin to integrate with Phabricator, Harbormaster, and Uberalls
 - [uber/piranha](https://github.com/uber/piranha) topic:ast,ast-matcher,clang-plugin,code-management,code-quality,deadcode,feature-flags,feature-toggles,java,javascript,objective-c,refactoring,refactoring-tools,stale-flags,swift,swift-syntax pushed_at:2023-01 star:2.0k fork:0.2k A tool for refactoring code related to feature flag APIs
-- [uber/RemoteShuffleService](https://github.com/uber/RemoteShuffleService) topic: pushed_at:2022-12 star:0.3k fork:0.1k Remote shuffle service for Apache Spark to store shuffle data on remote servers. 
+- [uber/RemoteShuffleService](https://github.com/uber/RemoteShuffleService) topic: pushed_at:2023-01 star:0.3k fork:0.1k Remote shuffle service for Apache Spark to store shuffle data on remote servers. 
 - [uber/rides-android-sdk](https://github.com/uber/rides-android-sdk) topic: pushed_at:2021-08 star:0.3k fork:0.1k Uber Rides Android SDK (beta)
 - [uber/rides-java-sdk](https://github.com/uber/rides-java-sdk) topic: pushed_at:2018-11 star:0.1k fork:0.1k Uber Rides Java SDK (beta)
 - [uber/RxCentralBle](https://github.com/uber/RxCentralBle) topic: pushed_at:2022-02 star:0.2k fork:0.0k A reactive, interface-driven central role Bluetooth LE library for Android
@@ -104,14 +105,14 @@
 - [uber/geojson2h3](https://github.com/uber/geojson2h3) topic:geojson,geospatial,h3,hexagon,javascript pushed_at:2021-09 star:0.2k fork:0.0k Conversion utilities between H3 indexes and GeoJSON
 - [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) topic: pushed_at:2023-01 star:0.4k fork:0.1k grafana dash dash dash gen
 - [uber/graph.gl](https://github.com/uber/graph.gl) topic: pushed_at:2021-02 star:0.0k fork:0.0k WebGL2-Powered Visualization Components for Graph Visualization
-- [uber/h3-js](https://github.com/uber/h3-js) topic:emscripten,geospatial,h3,hexagon,javascript,spatial-indexing,uber pushed_at:2022-12 star:0.7k fork:0.1k h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
+- [uber/h3-js](https://github.com/uber/h3-js) topic:emscripten,geospatial,h3,hexagon,javascript,spatial-indexing,uber pushed_at:2023-01 star:0.7k fork:0.1k h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
 - [uber/json-schema-filter](https://github.com/uber/json-schema-filter) topic: pushed_at:2020-10 star:0.0k fork:0.0k Filters (removes) objects from document based on passed json-schema
 - [uber/kafka-logger](https://github.com/uber/kafka-logger) topic: pushed_at:2018-10 star:0.0k fork:0.0k A kafka logger for winston
 - [uber/logtron](https://github.com/uber/logtron) topic: pushed_at:2018-10 star:0.2k fork:0.0k A logging MACHINE
 - [uber/manifold](https://github.com/uber/manifold) topic:incubation,machine-learning,visualization pushed_at:2023-01 star:1.6k fork:0.1k A model-agnostic visual debugging tool for machine learning
 - [uber/react-digraph](https://github.com/uber/react-digraph) topic: pushed_at:2022-12 star:2.5k fork:0.3k A library for creating directed graph editors
 - [uber/react-global-hooks](https://github.com/uber/react-global-hooks) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
-- [uber/react-vis](https://github.com/uber/react-vis) topic:chart,charting-library,data-visualization,react,uber,visualization pushed_at:2023-01 star:8.4k fork:0.9k Data Visualization Components
+- [uber/react-vis](https://github.com/uber/react-vis) topic:chart,charting-library,data-visualization,react,uber,visualization pushed_at:2023-01 star:8.4k fork:0.8k Data Visualization Components
 - [uber/react-vis-force](https://github.com/uber/react-vis-force) topic:chart,data-visualization,force-directed-graphs,react,uber,visualization pushed_at:2020-06 star:0.4k fork:0.1k d3-force graphs as React Components.
 - [uber/ringpop-ui](https://github.com/uber/ringpop-ui) topic: pushed_at:2015-09 star:0.0k fork:0.0k A visualization tool for Ringpop
 - [uber/sentry-logger](https://github.com/uber/sentry-logger) topic: pushed_at:2018-12 star:0.1k fork:0.0k A Sentry transport for Winston
@@ -136,7 +137,7 @@
 - [uber/crumb](https://github.com/uber/crumb) topic:android,annotation-processor,java,kotlin,metadata pushed_at:2021-12 star:0.1k fork:0.0k An annotation processor for breadcrumbing metadata across compilation boundaries.
 - [uber/lint-checks](https://github.com/uber/lint-checks) topic:android,lint,sandbox,static-analysis pushed_at:2020-11 star:0.1k fork:0.0k A set of opinionated and useful lint checks
 - [uber/motif](https://github.com/uber/motif) topic: pushed_at:2022-11 star:0.5k fork:0.0k A simple DI API for Android / Java
-- [uber/RIBs](https://github.com/uber/RIBs) topic:android,architectural-patterns,architecture,ios,mobile,mobile-app,mobile-development,mvc,mvp,mvvm,viper pushed_at:2023-01 star:7.2k fork:0.9k Uber's cross-platform mobile architecture framework.
+- [uber/RIBs](https://github.com/uber/RIBs) topic:android,architectural-patterns,architecture,ios,mobile,mobile-app,mobile-development,mvc,mvp,mvvm,viper pushed_at:2023-01 star:7.3k fork:0.9k Uber's cross-platform mobile architecture framework.
 - [uber/stylist](https://github.com/uber/stylist) topic:android,codegen,kotlin,styles,themes pushed_at:2021-05 star:0.4k fork:0.0k A stylist creates cool styles. Stylist is a Gradle plugin that codegens a base set of Android XML themes.
 
 ## OCaml
@@ -157,7 +158,6 @@
 - [uber/hystrix-go](https://github.com/uber/hystrix-go) topic: pushed_at:2022-12 star:0.0k fork:0.0k Uber Fork:  Netflix's Hystrix latency and fault tolerance library, for Go 
 - [uber/presto](https://github.com/uber/presto) topic: pushed_at:2022-08 star:0.0k fork:0.0k Uber fork of the prestodb/presto project.  This fork is used for upstream contributions.  Please use the upstream copy for testing and production.
 - [uber/RedELK](https://github.com/uber/RedELK) topic: pushed_at:2022-07 star:0.0k fork:0.0k The Uber fork of Red Team's SIEM.  Used for upstream contributions, please use the upstream copy for testing and production.
-- [uber/starlark-go](https://github.com/uber/starlark-go) topic: pushed_at:2023-01 star:0.0k fork:0.0k Uber fork:  Starlark in Go: the Starlark configuration language, implemented in Go
 - [uber/xviz-data](https://github.com/uber/xviz-data) topic: pushed_at:2019-03 star:0.0k fork:0.0k Public data storage related to https://github.com/uber/xviz
 
 ## PHP
@@ -168,7 +168,7 @@
 
 - [uber/bayesmark](https://github.com/uber/bayesmark) topic:bayesian-optimization,benchmark-framework,machine-learning,sklearn pushed_at:2021-06 star:0.1k fork:0.0k Benchmark framework to easily compare Bayesian optimization methods on real machine learning tasks
 - [uber/cassette](https://github.com/uber/cassette) topic: pushed_at:2020-10 star:0.1k fork:0.0k Store and replay HTTP requests made in your Python app
-- [uber/causalml](https://github.com/uber/causalml) topic:causal-inference,incubation,machine-learning,uplift-modeling pushed_at:2022-12 star:3.7k fork:0.6k Uplift modeling and causal inference with machine learning algorithms
+- [uber/causalml](https://github.com/uber/causalml) topic:causal-inference,incubation,machine-learning,uplift-modeling pushed_at:2023-01 star:3.7k fork:0.6k Uplift modeling and causal inference with machine learning algorithms
 - [uber/charlatan](https://github.com/uber/charlatan) topic: pushed_at:2019-09 star:0.1k fork:0.0k A Python library to efficiently manage and install database fixtures
 - [uber/clay](https://github.com/uber/clay) topic: pushed_at:2022-01 star:0.4k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [uber/doubles](https://github.com/uber/doubles) topic: pushed_at:2018-10 star:0.2k fork:0.0k Test doubles for Python.
@@ -190,7 +190,7 @@
 
 ## Ruby
 
-- [uber/client-platform-engineering](https://github.com/uber/client-platform-engineering) topic:chef,chef-cookbook pushed_at:2022-08 star:0.1k fork:0.0k A collection of cookbooks, scripts and binaries used to manage our macOS, Ubuntu and Windows endpoints
+- [uber/client-platform-engineering](https://github.com/uber/client-platform-engineering) topic:chef,chef-cookbook pushed_at:2023-01 star:0.1k fork:0.0k A collection of cookbooks, scripts and binaries used to manage our macOS, Ubuntu and Windows endpoints
 - [uber/homebrew-nanoscope](https://github.com/uber/homebrew-nanoscope) topic: pushed_at:2021-11 star:0.0k fork:0.0k 
 
 ## Shell
@@ -223,13 +223,13 @@
 ## TypeScript
 
 - [uber/base-design-docs](https://github.com/uber/base-design-docs) topic:design-system,documentation pushed_at:2023-01 star:0.0k fork:0.0k A documentation site for the Base design system.
-- [uber/baseweb](https://github.com/uber/baseweb) topic:component-library,design-systems,react,react-components pushed_at:2023-01 star:8.1k fork:0.8k A React Component library implementing the Base design language
+- [uber/baseweb](https://github.com/uber/baseweb) topic:component-library,design-systems,react,react-components pushed_at:2023-01 star:8.2k fork:0.8k A React Component library implementing the Base design language
 - [uber/nebula.gl](https://github.com/uber/nebula.gl) topic:deck-gl,uber,webgl pushed_at:2023-01 star:0.6k fork:0.1k A suite of 3D-enabled data editing overlays, suitable for deck.gl
 - [uber/react-view](https://github.com/uber/react-view) topic:code-generator,documentation,playground,react pushed_at:2023-01 star:0.7k fork:0.0k React View is an interactive playground, documentation and code generator for your components.
 
 ## Vue
 
-- [uber/Cadence-Docs](https://github.com/uber/Cadence-Docs) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
+- [uber/Cadence-Docs](https://github.com/uber/Cadence-Docs) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 
 
 ## License

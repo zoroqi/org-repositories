@@ -98,13 +98,13 @@
 - [sony/FxNorm-automix](https://github.com/sony/FxNorm-automix) topic:automatic-mixing,data-normalization,intelligent-music-production,machine-learning pushed_at:2022-11 star:0.0k fork:0.0k FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system
 - [sony/lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
 - [sony/model_optimization](https://github.com/sony/model_optimization) topic:deep-learning,deep-neural-networks,edge-ai,machine-learning,network-compression,network-quantization,neural-network,optimizer,ptq,pytorch,qat,quantization,tensorflow pushed_at:2023-01 star:0.1k fork:0.0k Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks.
-- [sony/NDJIR](https://github.com/sony/NDJIR) topic: pushed_at:2022-12 star:0.0k fork:0.0k NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object
+- [sony/NDJIR](https://github.com/sony/NDJIR) topic: pushed_at:2023-01 star:0.0k fork:0.0k NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object
 - [sony/nnabla](https://github.com/sony/nnabla) topic: pushed_at:2023-01 star:2.6k fork:0.3k Neural Network Libraries
 - [sony/nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
 - [sony/nnabla-examples](https://github.com/sony/nnabla-examples) topic: pushed_at:2023-01 star:0.3k fork:0.1k Neural Network Libraries https://nnabla.org/ - Examples
 - [sony/nnabla-nas](https://github.com/sony/nnabla-nas) topic: pushed_at:2022-12 star:0.0k fork:0.0k Neural Architecture Search for Neural Network Libraries
 - [sony/nnabla-rl](https://github.com/sony/nnabla-rl) topic: pushed_at:2022-12 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
-- [sony/nnc-plugin](https://github.com/sony/nnc-plugin) topic: pushed_at:2022-12 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
+- [sony/nnc-plugin](https://github.com/sony/nnc-plugin) topic: pushed_at:2023-01 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
 - [sony/polar-densification](https://github.com/sony/polar-densification) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [sony/pyIEOE](https://github.com/sony/pyIEOE) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 - [sony/sqvae](https://github.com/sony/sqvae) topic:bayesian,deep-generative-model,generative-model,gumbel-softmax,machine-learning,pytorch,vae,variational-autoencoder,vector-quantization,vq-vae pushed_at:2022-07 star:0.1k fork:0.0k Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE)

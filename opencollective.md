@@ -367,7 +367,7 @@
 - [opencollective/opencollective-giftcards-generator](https://github.com/opencollective/opencollective-giftcards-generator) topic: pushed_at:2020-04 star:0.0k fork:0.0k Simple app to generate read-to-print Open Collective gift cards
 - [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) topic: pushed_at:2022-11 star:0.0k fork:0.0k Open Collective's Image Server. For badges, banners, avatar, etc ...
 - [opencollective/opencollective-jobs](https://github.com/opencollective/opencollective-jobs) topic: pushed_at:2018-05 star:0.0k fork:0.0k 
-- [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) topic:gr,graphql,invoices-pdf,nodejs,opencollective pushed_at:2023-01 star:0.0k fork:0.0k Open Collective's PDF Server
+- [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) topic:gr,graphql,invoices-pdf,nodejs,opencollective pushed_at:2023-01 star:0.1k fork:0.0k Open Collective's PDF Server
 - [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) topic: pushed_at:2022-11 star:0.1k fork:0.0k Prompt your users to donate to your collective after `npm install`
 - [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) topic: pushed_at:2023-01 star:0.0k fork:0.0k Open Collective's REST API legacy, v1, and v2!
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) topic: pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
