@@ -20,7 +20,7 @@
 
 - [openjdk/jfx](https://github.com/openjdk/jfx) topic:java,javafx,openjdk,openjfx pushed_at:2023-01 star:2.0k fork:0.4k JavaFX mainline development
 - [openjdk/jfx-sandbox](https://github.com/openjdk/jfx-sandbox) topic: pushed_at:2023-01 star:0.0k fork:0.0k OpenJFX Committers Sandbox
-- [openjdk/jfx11u](https://github.com/openjdk/jfx11u) topic:java,javafx,openjdk pushed_at:2022-11 star:0.0k fork:0.0k JavaFX 11 updates development
+- [openjdk/jfx11u](https://github.com/openjdk/jfx11u) topic:java,javafx,openjdk pushed_at:2023-01 star:0.0k fork:0.0k JavaFX 11 updates development
 - [openjdk/jfx12](https://github.com/openjdk/jfx12) topic: pushed_at:2021-01 star:0.0k fork:0.0k JavaFX 12.x : last released 2019-07-19
 - [openjdk/jfx13](https://github.com/openjdk/jfx13) topic: pushed_at:2020-07 star:0.0k fork:0.0k JavaFX 13.x : last released 2020-01-15
 - [openjdk/jfx17u](https://github.com/openjdk/jfx17u) topic: pushed_at:2023-01 star:0.0k fork:0.0k JavaFX 17 updates development
@@ -36,7 +36,7 @@
 
 ## Java
 
-- [openjdk/aarch32-port-jdk8u](https://github.com/openjdk/aarch32-port-jdk8u) topic: pushed_at:2022-12 star:0.0k fork:0.0k https://openjdk.org/projects/aarch32-port
+- [openjdk/aarch32-port-jdk8u](https://github.com/openjdk/aarch32-port-jdk8u) topic: pushed_at:2023-01 star:0.0k fork:0.0k https://openjdk.org/projects/aarch32-port
 - [openjdk/aarch64-port](https://github.com/openjdk/aarch64-port) topic: pushed_at:2023-01 star:0.1k fork:0.0k Port: AArch64 Project
 - [openjdk/amber](https://github.com/openjdk/amber) topic: pushed_at:2023-01 star:0.1k fork:0.0k https://openjdk.org/projects/amber
 - [openjdk/asmtools](https://github.com/openjdk/asmtools) topic: pushed_at:2023-01 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/asmtools
@@ -49,33 +49,33 @@
 - [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2023-01 star:14.9k fork:4.2k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2023-01 star:0.0k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
-- [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2022-12 star:0.1k fork:0.1k https://openjdk.org/projects/jdk-updates
+- [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2023-01 star:0.1k fork:0.1k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk11u-dev](https://github.com/openjdk/jdk11u-dev) topic: pushed_at:2023-01 star:0.0k fork:0.2k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk12u](https://github.com/openjdk/jdk12u) topic: pushed_at:2020-10 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates last released 2019-07-16
 - [openjdk/jdk13](https://github.com/openjdk/jdk13) topic: pushed_at:2020-07 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/13 released 2019-09-17
-- [openjdk/jdk13u](https://github.com/openjdk/jdk13u) topic: pushed_at:2022-12 star:0.0k fork:0.0k https://wiki.openjdk.org/display/JDKUpdates/JDK+13u
-- [openjdk/jdk13u-dev](https://github.com/openjdk/jdk13u-dev) topic: pushed_at:2022-12 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates
+- [openjdk/jdk13u](https://github.com/openjdk/jdk13u) topic: pushed_at:2023-01 star:0.0k fork:0.0k https://wiki.openjdk.org/display/JDKUpdates/JDK+13u
+- [openjdk/jdk13u-dev](https://github.com/openjdk/jdk13u-dev) topic: pushed_at:2023-01 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk14](https://github.com/openjdk/jdk14) topic: pushed_at:2020-03 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/14 released 2020-03-17
 - [openjdk/jdk14u](https://github.com/openjdk/jdk14u) topic: pushed_at:2020-07 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates last released 2020-07-14
 - [openjdk/jdk15](https://github.com/openjdk/jdk15) topic: pushed_at:2020-09 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/15 released 2020-09-15
-- [openjdk/jdk15u](https://github.com/openjdk/jdk15u) topic: pushed_at:2022-12 star:0.0k fork:0.0k https://wiki.openjdk.org/display/JDKUpdates/JDK+15u
-- [openjdk/jdk15u-dev](https://github.com/openjdk/jdk15u-dev) topic: pushed_at:2022-12 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates
+- [openjdk/jdk15u](https://github.com/openjdk/jdk15u) topic: pushed_at:2023-01 star:0.0k fork:0.0k https://wiki.openjdk.org/display/JDKUpdates/JDK+15u
+- [openjdk/jdk15u-dev](https://github.com/openjdk/jdk15u-dev) topic: pushed_at:2023-01 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk16](https://github.com/openjdk/jdk16) topic: pushed_at:2021-03 star:0.1k fork:0.1k https://openjdk.org/projects/jdk/16 released 2021-03-16
 - [openjdk/jdk16u](https://github.com/openjdk/jdk16u) topic: pushed_at:2021-08 star:0.0k fork:0.1k https://openjdk.org/projects/jdk-updates last released 2021-07-20
 - [openjdk/jdk17](https://github.com/openjdk/jdk17) topic: pushed_at:2021-09 star:0.1k fork:0.1k https://openjdk.org/projects/jdk/17 released 2021-09-14
-- [openjdk/jdk17u](https://github.com/openjdk/jdk17u) topic: pushed_at:2022-12 star:0.0k fork:0.1k https://wiki.openjdk.org/display/JDKUpdates/JDK+17u
+- [openjdk/jdk17u](https://github.com/openjdk/jdk17u) topic: pushed_at:2023-01 star:0.1k fork:0.1k https://wiki.openjdk.org/display/JDKUpdates/JDK+17u
 - [openjdk/jdk17u-dev](https://github.com/openjdk/jdk17u-dev) topic: pushed_at:2023-01 star:0.0k fork:0.1k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk18](https://github.com/openjdk/jdk18) topic: pushed_at:2022-03 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/18 released 2022-03-22
 - [openjdk/jdk18u](https://github.com/openjdk/jdk18u) topic: pushed_at:2022-11 star:0.0k fork:0.1k https://openjdk.org/projects/jdk-updates last released 2022-08-18
 - [openjdk/jdk19](https://github.com/openjdk/jdk19) topic: pushed_at:2022-12 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/19
-- [openjdk/jdk19u](https://github.com/openjdk/jdk19u) topic: pushed_at:2022-12 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates
+- [openjdk/jdk19u](https://github.com/openjdk/jdk19u) topic: pushed_at:2023-01 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk20](https://github.com/openjdk/jdk20) topic: pushed_at:2023-01 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/20
 - [openjdk/jdk20u](https://github.com/openjdk/jdk20u) topic: pushed_at:2023-01 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk6](https://github.com/openjdk/jdk6) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk6
 - [openjdk/jdk7](https://github.com/openjdk/jdk7) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk7 released 2011-07-28
 - [openjdk/jdk7u](https://github.com/openjdk/jdk7u) topic: pushed_at:2022-07 star:0.0k fork:0.0k https://wiki.openjdk.org/display/jdk7u
 - [openjdk/jdk8](https://github.com/openjdk/jdk8) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk8 released 2014-03-18
-- [openjdk/jdk8u](https://github.com/openjdk/jdk8u) topic: pushed_at:2022-12 star:0.1k fork:0.1k https://wiki.openjdk.org/display/jdk8u
+- [openjdk/jdk8u](https://github.com/openjdk/jdk8u) topic: pushed_at:2023-01 star:0.1k fork:0.1k https://wiki.openjdk.org/display/jdk8u
 - [openjdk/jdk8u-dev](https://github.com/openjdk/jdk8u-dev) topic: pushed_at:2023-01 star:0.0k fork:0.1k https://wiki.openjdk.org/display/jdk8u
 - [openjdk/jdk8u-ri](https://github.com/openjdk/jdk8u-ri) topic: pushed_at:2022-07 star:0.0k fork:0.0k JSR 337 Reference Implementation (Java SE 8) [not for production use]
 - [openjdk/jdk9](https://github.com/openjdk/jdk9) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk9 released 2017-09-21
@@ -87,7 +87,7 @@
 - [openjdk/jmc7](https://github.com/openjdk/jmc7) topic:java,jmc,mission-control,openjdk pushed_at:2021-03 star:0.0k fork:0.0k https://openjdk.org/projects/jmc
 - [openjdk/jmh](https://github.com/openjdk/jmh) topic: pushed_at:2023-01 star:1.3k fork:0.2k https://openjdk.org/projects/code-tools/jmh
 - [openjdk/jmh-jdk-microbenchmarks](https://github.com/openjdk/jmh-jdk-microbenchmarks) topic: pushed_at:2023-01 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/jmh-jdk-microbenchmarks
-- [openjdk/jol](https://github.com/openjdk/jol) topic: pushed_at:2022-10 star:0.5k fork:0.1k https://openjdk.org/projects/code-tools/jol
+- [openjdk/jol](https://github.com/openjdk/jol) topic: pushed_at:2023-01 star:0.5k fork:0.1k https://openjdk.org/projects/code-tools/jol
 - [openjdk/jtharness](https://github.com/openjdk/jtharness) topic: pushed_at:2022-11 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/JT+Harness
 - [openjdk/jtreg](https://github.com/openjdk/jtreg) topic: pushed_at:2023-01 star:0.0k fork:0.1k https://openjdk.org/projects/code-tools/jtreg
 - [openjdk/lanai](https://github.com/openjdk/lanai) topic: pushed_at:2021-03 star:0.0k fork:0.0k https://openjdk.org/projects/lanai

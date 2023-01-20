@@ -26,11 +26,11 @@
 - [golang/exp](https://github.com/golang/exp) topic: pushed_at:2023-01 star:0.8k fork:0.2k [mirror] Experimental and deprecated packages
 - [golang/freetype](https://github.com/golang/freetype) topic: pushed_at:2022-01 star:0.7k fork:0.2k The Freetype font rasterizer in the Go programming language.
 - [golang/gddo](https://github.com/golang/gddo) topic: pushed_at:2021-01 star:1.1k fork:0.3k Go Doc Dot Org
-- [golang/geo](https://github.com/golang/geo) topic:geometry,geometry-library,go,sphere pushed_at:2022-12 star:1.5k fork:0.2k S2 geometry library in Go
+- [golang/geo](https://github.com/golang/geo) topic:geometry,geometry-library,go,sphere pushed_at:2023-01 star:1.5k fork:0.2k S2 geometry library in Go
 - [golang/glog](https://github.com/golang/glog) topic: pushed_at:2022-07 star:3.3k fork:0.9k Leveled execution logs for Go
-- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2023-01 star:107.5k fork:15.8k The Go programming language
+- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2023-01 star:107.7k fork:15.8k The Go programming language
 - [golang/go-get-issue-15410](https://github.com/golang/go-get-issue-15410) topic: pushed_at:2020-08 star:0.0k fork:0.0k go-get-issue-15410
-- [golang/gofrontend](https://github.com/golang/gofrontend) topic: pushed_at:2022-12 star:0.7k fork:0.1k Go compiler frontend (gccgo)
+- [golang/gofrontend](https://github.com/golang/gofrontend) topic: pushed_at:2022-12 star:0.8k fork:0.1k Go compiler frontend (gccgo)
 - [golang/groupcache](https://github.com/golang/groupcache) topic: pushed_at:2022-10 star:11.9k fork:1.3k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [golang/image](https://github.com/golang/image) topic: pushed_at:2023-01 star:0.5k fork:0.2k [mirror] Go supplementary image libraries
 - [golang/leveldb](https://github.com/golang/leveldb) topic: pushed_at:2017-01 star:1.1k fork:0.1k The LevelDB key-value database in the Go programming language.
@@ -40,7 +40,7 @@
 - [golang/mod](https://github.com/golang/mod) topic: pushed_at:2023-01 star:0.2k fork:0.1k [mirror] Go module mechanics libraries
 - [golang/net](https://github.com/golang/net) topic: pushed_at:2023-01 star:2.6k fork:1.1k [mirror] Go supplementary network libraries
 - [golang/oauth2](https://github.com/golang/oauth2) topic:go,golang,oauth2,oauth2-client pushed_at:2023-01 star:4.5k fork:0.9k Go OAuth2
-- [golang/perf](https://github.com/golang/perf) topic: pushed_at:2022-12 star:0.3k fork:0.1k [mirror] Performance measurement, storage, and analysis.
+- [golang/perf](https://github.com/golang/perf) topic: pushed_at:2023-01 star:0.3k fork:0.1k [mirror] Performance measurement, storage, and analysis.
 - [golang/pkgsite](https://github.com/golang/pkgsite) topic: pushed_at:2023-01 star:1.0k fork:0.1k [mirror] Home of the pkg.go.dev website
 - [golang/playground](https://github.com/golang/playground) topic: pushed_at:2023-01 star:0.6k fork:0.2k [mirror] The Go Playground
 - [golang/proposal](https://github.com/golang/proposal) topic: pushed_at:2023-01 star:3.1k fork:0.4k Go Project Design Documents

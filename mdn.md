@@ -51,7 +51,7 @@
 - [mdn/insights](https://github.com/mdn/insights) topic: pushed_at:2022-04 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) topic:css,editor,examples,html,interactive,javascript,mdn,nodejs pushed_at:2023-01 star:0.6k fork:0.5k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) topic: pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
-- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2023-01 star:5.6k fork:23.8k Github repo for the MDN Learning Area. 
+- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2023-01 star:5.6k fork:23.9k Github repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) topic: pushed_at:2022-04 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
 - [mdn/learning-area-pt-br](https://github.com/mdn/learning-area-pt-br) topic: pushed_at:2022-09 star:0.0k fork:0.1k The MDN Learning Area code examples translated into Brazilian Portuguese.
 - [mdn/machine-translation-testing-content](https://github.com/mdn/machine-translation-testing-content) topic: pushed_at:2020-11 star:0.0k fork:0.0k This is a repository for testing machine translations of English content.
@@ -127,12 +127,12 @@
 
 ## Markdown
 
-- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2023-01 star:7.3k fork:14.5k The content behind MDN Web Docs
-- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2023-01 star:1.1k fork:5.3k The source repository of all translated content for MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2023-01 star:7.3k fork:14.7k The content behind MDN Web Docs
+- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2023-01 star:1.1k fork:5.4k The source repository of all translated content for MDN Web Docs
 
 ## Others
 
-- [mdn/.github](https://github.com/mdn/.github) topic: pushed_at:2022-12 star:0.0k fork:0.0k MDN Web Docs public organization profile
+- [mdn/.github](https://github.com/mdn/.github) topic: pushed_at:2023-01 star:0.0k fork:0.0k MDN Web Docs public organization profile
 - [mdn/browsercompat-data](https://github.com/mdn/browsercompat-data) topic:unmaintained pushed_at:2017-04 star:0.0k fork:0.0k Browser Compatability Data
 - [mdn/content-team-projects](https://github.com/mdn/content-team-projects) topic: pushed_at:2022-08 star:0.0k fork:0.0k Repo for organising MDN Web Docs team projects & subsequent work
 - [mdn/crossbrowser-testing-lab](https://github.com/mdn/crossbrowser-testing-lab) topic: pushed_at:2019-04 star:0.0k fork:0.0k Mozilla's Cross-Browser Testing Lab
@@ -163,7 +163,7 @@
 
 ## Rust
 
-- [mdn/differy](https://github.com/mdn/differy) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
+- [mdn/differy](https://github.com/mdn/differy) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [mdn/rumba](https://github.com/mdn/rumba) topic:rust pushed_at:2023-01 star:0.0k fork:0.0k The clean kuma (🤖🧹)
 
 ## SCSS
@@ -181,7 +181,7 @@
 ## Vue
 
 - [mdn/release-dashboard](https://github.com/mdn/release-dashboard) topic: pushed_at:2023-01 star:0.0k fork:0.0k Small app to display bugzilla bugs which need dev docs
-- [mdn/todo-vue](https://github.com/mdn/todo-vue) topic:mdn,todo,vue,vuejs pushed_at:2023-01 star:0.1k fork:0.0k Sample todo app built with the Vue framework
+- [mdn/todo-vue](https://github.com/mdn/todo-vue) topic:mdn,todo,vue,vuejs pushed_at:2023-01 star:0.1k fork:0.1k Sample todo app built with the Vue framework
 
 ## WebAssembly
 
