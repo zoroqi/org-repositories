@@ -43,7 +43,7 @@
 
 - [riscv/riscv-aclint](https://github.com/riscv/riscv-aclint) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) topic: pushed_at:2023-01 star:0.2k fork:0.1k Working draft of the proposed RISC-V Bitmanipulation extension
-- [riscv/riscv-cfi](https://github.com/riscv/riscv-cfi) topic: pushed_at:2022-12 star:0.0k fork:0.0k This repo holds the work area and revisions of the RISC-V CFI (Shadow Stack and Landing Pads) specifications. CFI defines the privileged and unprivileged ISA extensions that can be used by privileged and unprivileged programs to protect the integrity of their control-flow.
+- [riscv/riscv-cfi](https://github.com/riscv/riscv-cfi) topic: pushed_at:2023-01 star:0.0k fork:0.0k This repo holds the work area and revisions of the RISC-V CFI (Shadow Stack and Landing Pads) specifications. CFI defines the privileged and unprivileged ISA extensions that can be used by privileged and unprivileged programs to protect the integrity of their control-flow.
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) topic: pushed_at:2022-12 star:0.1k fork:0.0k Working Draft of the RISC-V J Extension Specification
 - [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) topic: pushed_at:2022-09 star:0.1k fork:0.0k RISC-V Profiles and Platform Specification
 - [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) topic: pushed_at:2022-12 star:0.0k fork:0.0k RISC-V Architecture Profiles

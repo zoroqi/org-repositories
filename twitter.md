@@ -86,7 +86,7 @@
 
 ## Kotlin
 
-- [twitter/compose-rules](https://github.com/twitter/compose-rules) topic:android,jetpack-compose,ktlint,static-code-analysis pushed_at:2022-11 star:1.1k fork:0.1k Static checks to aid with a healthy adoption of Compose
+- [twitter/compose-rules](https://github.com/twitter/compose-rules) topic:android,jetpack-compose,ktlint,static-code-analysis pushed_at:2023-01 star:1.1k fork:0.1k Static checks to aid with a healthy adoption of Compose
 
 ## Objective-C
 
@@ -115,7 +115,7 @@
 - [twitter/caladrius](https://github.com/twitter/caladrius) topic: pushed_at:2021-10 star:0.0k fork:0.0k Performance modelling system for Distributed Stream Processing Systems (DSPS) such as Apache Heron and Apache Storm
 - [twitter/communitynotes](https://github.com/twitter/communitynotes) topic: pushed_at:2023-01 star:0.4k fork:0.1k 
 - [twitter/dict_minimize](https://github.com/twitter/dict_minimize) topic:scipy,scipy-stack pushed_at:2021-09 star:0.1k fork:0.0k Access scipy optimizers from your favorite deep learning framework.
-- [twitter/diffusion-rl](https://github.com/twitter/diffusion-rl) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
+- [twitter/diffusion-rl](https://github.com/twitter/diffusion-rl) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [twitter/gatekeeper-service](https://github.com/twitter/gatekeeper-service) topic: pushed_at:2021-11 star:0.0k fork:0.0k GateKeeper is a service built to automate the manual steps involved in onboarding, offboarding, and lost asset scenarios.
 - [twitter/pants](https://github.com/twitter/pants) topic: pushed_at:2023-01 star:0.1k fork:0.0k Pants Build System
 - [twitter/zktraffic](https://github.com/twitter/zktraffic) topic: pushed_at:2020-07 star:0.2k fork:0.0k ZooKeeper protocol analyzer and stats gathering daemon
@@ -135,7 +135,7 @@
 
 - [twitter/focus](https://github.com/twitter/focus) topic:bazel,git,source-control,sparse-checkout pushed_at:2023-01 star:0.1k fork:0.0k Focus aligns Git worktree content based on outlines of a repository's Bazel build graph. Focused repos are sparse, shallow, and thin and unlock markedly better performance in large repos.
 - [twitter/rezolus](https://github.com/twitter/rezolus) topic: pushed_at:2023-01 star:1.2k fork:0.1k Systems performance telemetry
-- [twitter/rpc-perf](https://github.com/twitter/rpc-perf) topic: pushed_at:2022-10 star:0.4k fork:0.1k A tool for benchmarking RPC services
+- [twitter/rpc-perf](https://github.com/twitter/rpc-perf) topic: pushed_at:2023-01 star:0.4k fork:0.1k A tool for benchmarking RPC services
 - [twitter/rustcommon](https://github.com/twitter/rustcommon) topic: pushed_at:2022-10 star:0.3k fork:0.0k Common Twitter Rust lib
 
 ## SCSS

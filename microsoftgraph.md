@@ -10,11 +10,11 @@
 - [CSS](#css) (1)
 - [Go](#go) (4)
 - [HTML](#html) (5)
-- [Java](#java) (16)
+- [Java](#java) (17)
 - [JavaScript](#javascript) (22)
 - [Jupyter Notebook](#jupyter-notebook) (1)
-- [Objective-C](#objective-c) (13)
-- [Others](#others) (23)
+- [Objective-C](#objective-c) (14)
+- [Others](#others) (19)
 - [PHP](#php) (7)
 - [PowerShell](#powershell) (12)
 - [Pug](#pug) (1)
@@ -22,8 +22,8 @@
 - [Ruby](#ruby) (5)
 - [SCSS](#scss) (1)
 - [Scala](#scala) (1)
-- [Swift](#swift) (4)
-- [TypeScript](#typescript) (24)
+- [Swift](#swift) (5)
+- [TypeScript](#typescript) (25)
 - [XSLT](#xslt) (1)
 
 ## C#
@@ -124,6 +124,7 @@
 - [microsoftgraph/console-java-connect-sample](https://github.com/microsoftgraph/console-java-connect-sample) topic: pushed_at:2020-03 star:0.0k fork:0.0k Please see https://github.com/microsoftgraph/msgraph-training-java for a Java sample.
 - [microsoftgraph/java-spring-webhooks-sample](https://github.com/microsoftgraph/java-spring-webhooks-sample) topic: pushed_at:2023-01 star:0.0k fork:0.0k Receive change notifications with data with the Microsoft Graph
 - [microsoftgraph/msgraph-beta-sdk-java](https://github.com/microsoftgraph/msgraph-beta-sdk-java) topic:java,microsoft-graph,sdk pushed_at:2023-01 star:0.0k fork:0.0k Microsoft Graph Beta Java SDK
+- [microsoftgraph/msgraph-sample-android](https://github.com/microsoftgraph/msgraph-sample-android) topic:android,java,microsoft-graph pushed_at:2023-01 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph Java SDK to access data in Office 365 from native mobile Android applications.
 - [microsoftgraph/msgraph-sdk-android](https://github.com/microsoftgraph/msgraph-sdk-android) topic: pushed_at:2020-09 star:0.1k fork:0.0k Microsoft Graph SDK for Android! https://graph.microsoft.io
 - [microsoftgraph/msgraph-sdk-android-auth](https://github.com/microsoftgraph/msgraph-sdk-android-auth) topic: pushed_at:2021-02 star:0.0k fork:0.0k MSAL Authentication Provider for Android
 - [microsoftgraph/msgraph-sdk-android-msa-auth-for-android-adapter](https://github.com/microsoftgraph/msgraph-sdk-android-msa-auth-for-android-adapter) topic: pushed_at:2020-09 star:0.0k fork:0.0k MSGraph SDK Android MSA Auth for Android Adapter
@@ -172,6 +173,7 @@
 - [microsoftgraph/ios-objectivec-profile-picture-sample](https://github.com/microsoftgraph/ios-objectivec-profile-picture-sample) topic: pushed_at:2019-04 star:0.0k fork:0.0k iOS Objective-C SDK sample for working with profile pictures in Microsoft Graph, a unified endpoint for accessing data, relationships and insights that come from the Microsoft Cloud.
 - [microsoftgraph/ios-objectivec-snippets-rest-sample](https://github.com/microsoftgraph/ios-objectivec-snippets-rest-sample) topic: pushed_at:2019-04 star:0.0k fork:0.0k This sample shows how to use Microsoft Graph to send email, manage groups, and perform other activities with Office 365 data.
 - [microsoftgraph/ios-objectiveC-snippets-sample](https://github.com/microsoftgraph/ios-objectiveC-snippets-sample) topic: pushed_at:2019-04 star:0.0k fork:0.0k [ARCHIVED] This sample shows how to use the Microsoft Graph SDK to send email, manage groups, and perform other activities with Office 365 data.
+- [microsoftgraph/msgraph-sample-ios-objectivec](https://github.com/microsoftgraph/msgraph-sample-ios-objectivec) topic:ios,microsoft-graph,objective-c pushed_at:2023-01 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph Objective-C SDK to access data in Office 365 from native mobile iOS applications.
 - [microsoftgraph/msgraph-sdk-ios](https://github.com/microsoftgraph/msgraph-sdk-ios) topic: pushed_at:2018-10 star:0.0k fork:0.0k [ARCHIVED] Microsoft Graph SDK for iOS
 - [microsoftgraph/msgraph-sdk-ios-nxoauth2-adapter](https://github.com/microsoftgraph/msgraph-sdk-ios-nxoauth2-adapter) topic: pushed_at:2018-07 star:0.0k fork:0.0k NXOAuth2 MSAuthenticationProvider implementation for MSGraph SDK
 - [microsoftgraph/msgraph-sdk-objc](https://github.com/microsoftgraph/msgraph-sdk-objc) topic: pushed_at:2022-11 star:0.0k fork:0.0k Microsoft Graph SDK for Objective-C
@@ -190,18 +192,14 @@
 - [microsoftgraph/msgraph-beta-cli](https://github.com/microsoftgraph/msgraph-beta-cli) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-community-samples](https://github.com/microsoftgraph/msgraph-community-samples) topic: pushed_at:2018-11 star:0.1k fork:0.0k Repo for community contributed samples
 - [microsoftgraph/msgraph-sdk-serviceissues](https://github.com/microsoftgraph/msgraph-sdk-serviceissues) topic: pushed_at:2020-09 star:0.0k fork:0.0k Tracks service issues for follow up.
-- [microsoftgraph/msgraph-training-android](https://github.com/microsoftgraph/msgraph-training-android) topic:android,java,microsoft-graph pushed_at:2022-10 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph Java SDK to access data in Office 365 from native mobile Android applications.
 - [microsoftgraph/msgraph-training-aspnetmvcapp](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp) topic: pushed_at:2022-11 star:0.1k fork:0.1k Microsoft Graph Training Module - Build MVC apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-authentication](https://github.com/microsoftgraph/msgraph-training-authentication) topic: pushed_at:2021-04 star:0.0k fork:0.0k [ARCHIVED] Microsoft Graph Training Module - Authentication
 - [microsoftgraph/msgraph-training-building-apps](https://github.com/microsoftgraph/msgraph-training-building-apps) topic: pushed_at:2020-07 star:0.0k fork:0.0k [ARCHIVED] Microsoft Graph Training Module - Building Apps
 - [microsoftgraph/msgraph-training-changenotifications](https://github.com/microsoftgraph/msgraph-training-changenotifications) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-dataconnect](https://github.com/microsoftgraph/msgraph-training-dataconnect) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-ios-objectivec](https://github.com/microsoftgraph/msgraph-training-ios-objectivec) topic:ios,microsoft-graph,objective-c pushed_at:2022-10 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph Objective-C SDK to access data in Office 365 from native mobile iOS applications.
-- [microsoftgraph/msgraph-training-ios-swift](https://github.com/microsoftgraph/msgraph-training-ios-swift) topic:ios,microsoft-graph,swift pushed_at:2023-01 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph Objective-C SDK with Swift to access data in Office 365 from native mobile iOS applications.
 - [microsoftgraph/msgraph-training-optimize-data-usage](https://github.com/microsoftgraph/msgraph-training-optimize-data-usage) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-optimize-network-traffic](https://github.com/microsoftgraph/msgraph-training-optimize-network-traffic) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-training-powerautomate](https://github.com/microsoftgraph/msgraph-training-powerautomate) topic: pushed_at:2022-10 star:0.0k fork:0.0k Microsoft Graph Training Module - Create a Microsoft Graph JSON Batch Custom Connector for Microsoft Power Automate & Azure Logic Apps
-- [microsoftgraph/msgraph-training-react-native](https://github.com/microsoftgraph/msgraph-training-react-native) topic:microsoft-graph,react-native pushed_at:2022-12 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from React Native mobile apps.
 - [microsoftgraph/msgraph-training-webhooks-customdata-insights](https://github.com/microsoftgraph/msgraph-training-webhooks-customdata-insights) topic: pushed_at:2020-07 star:0.0k fork:0.0k [ARCHIVED] Microsoft Graph Training Module - Webhooks, Custom Data, Insights and Delta Query
 
 ## PHP
@@ -240,8 +238,8 @@
 - [microsoftgraph/msgraph-cli-archived](https://github.com/microsoftgraph/msgraph-cli-archived) topic: pushed_at:2022-03 star:0.0k fork:0.0k The Microsoft Graph CLI repository has moved.  This repository is now an archive.
 - [microsoftgraph/msgraph-sample-pythondjangoapp](https://github.com/microsoftgraph/msgraph-sample-pythondjangoapp) topic: pushed_at:2022-08 star:0.1k fork:0.1k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Python web apps.
 - [microsoftgraph/msgraph-sdk-python](https://github.com/microsoftgraph/msgraph-sdk-python) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-sdk-python-core](https://github.com/microsoftgraph/msgraph-sdk-python-core) topic:msgraph,msgraph-sdk-python,sdk pushed_at:2022-12 star:0.2k fork:0.0k Microsoft Graph client library for Python
-- [microsoftgraph/msgraph-training-python](https://github.com/microsoftgraph/msgraph-training-python) topic: pushed_at:2022-12 star:0.0k fork:0.0k Completed project for Build Python apps with Microsoft Graph
+- [microsoftgraph/msgraph-sdk-python-core](https://github.com/microsoftgraph/msgraph-sdk-python-core) topic:msgraph,msgraph-sdk-python,sdk pushed_at:2023-01 star:0.2k fork:0.0k Microsoft Graph client library for Python
+- [microsoftgraph/msgraph-training-python](https://github.com/microsoftgraph/msgraph-training-python) topic: pushed_at:2023-01 star:0.0k fork:0.0k Completed project for Build Python apps with Microsoft Graph
 - [microsoftgraph/python-sample-auth](https://github.com/microsoftgraph/python-sample-auth) topic: pushed_at:2020-03 star:0.1k fork:0.1k Please see https://github.com/microsoftgraph/msgraph-training-pythondjangoapp for a Python sample.
 - [microsoftgraph/python-sample-console-app](https://github.com/microsoftgraph/python-sample-console-app) topic: pushed_at:2020-03 star:0.1k fork:0.0k Please see https://github.com/microsoftgraph/msgraph-training-pythondjangoapp for a Python sample.
 - [microsoftgraph/python-sample-open-extensions](https://github.com/microsoftgraph/python-sample-open-extensions) topic: pushed_at:2019-04 star:0.0k fork:0.0k [ARCHIVED] How to work with Graph open extensions in Python
@@ -271,6 +269,7 @@
 - [microsoftgraph/ios-swift-connect-sample](https://github.com/microsoftgraph/ios-swift-connect-sample) topic: pushed_at:2020-03 star:0.0k fork:0.0k Please see https://github.com/microsoftgraph/msgraph-training-ios-swift for a Swift sample.
 - [microsoftgraph/ios-swift-faceapi-sample](https://github.com/microsoftgraph/ios-swift-faceapi-sample) topic: pushed_at:2020-03 star:0.0k fork:0.0k Please see https://github.com/microsoftgraph/msgraph-training-ios-swift for a Swift sample.
 - [microsoftgraph/ios-swift-snippets-sample](https://github.com/microsoftgraph/ios-swift-snippets-sample) topic: pushed_at:2020-03 star:0.0k fork:0.0k Please see https://github.com/microsoftgraph/msgraph-training-ios-swift for a Swift sample.
+- [microsoftgraph/msgraph-sample-ios-swift](https://github.com/microsoftgraph/msgraph-sample-ios-swift) topic:ios,microsoft-graph,swift pushed_at:2023-01 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph Objective-C SDK with Swift to access data in Office 365 from native mobile iOS applications.
 
 ## TypeScript
 
@@ -295,6 +294,7 @@
 - [microsoftgraph/msgraph-sample-reactspa](https://github.com/microsoftgraph/msgraph-sample-reactspa) topic:microsoft-graph,react pushed_at:2023-01 star:0.1k fork:0.1k This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from React browser apps.
 - [microsoftgraph/msgraph-sdk-javascript](https://github.com/microsoftgraph/msgraph-sdk-javascript) topic:js-sdk,microsoft-graph,microsoft-graph-sdk,typescript pushed_at:2023-01 star:0.6k fork:0.2k Microsoft Graph client library for JavaScript
 - [microsoftgraph/msgraph-sdk-typescript](https://github.com/microsoftgraph/msgraph-sdk-typescript) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-training-react-native](https://github.com/microsoftgraph/msgraph-training-react-native) topic:microsoft-graph,react-native pushed_at:2023-01 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from React Native mobile apps.
 - [microsoftgraph/msgraph-training-smartui-components](https://github.com/microsoftgraph/msgraph-training-smartui-components) topic: pushed_at:2021-04 star:0.0k fork:0.0k [ARCHIVED]
 - [microsoftgraph/msgraph-training-typescript](https://github.com/microsoftgraph/msgraph-training-typescript) topic: pushed_at:2023-01 star:0.0k fork:0.0k Completed project for Build TypeScript apps with Microsoft Graph
 - [microsoftgraph/nodejs-sentiment-bot-sample](https://github.com/microsoftgraph/nodejs-sentiment-bot-sample) topic: pushed_at:2020-05 star:0.0k fork:0.0k [ARCHIVED] Use Microsoft Graph, Microsoft Cognitive Services, and the Microsoft Bot Framework to do sentiment analysis in a NodeJS web application.
