@@ -126,7 +126,7 @@
 - [bytedance/BoostMultiDex](https://github.com/bytedance/BoostMultiDex) topic:android pushed_at:2022-05 star:1.1k fork:0.1k BoostMultiDex is a solution for quickly loading multiple dex files on low Android version devices (4.X and below, SDK <21).
 - [bytedance/ByteX](https://github.com/bytedance/ByteX) topic:asm,bytecode,gradle,gradle-plugin pushed_at:2022-07 star:2.8k fork:0.4k ByteX is a bytecode plugin platform based on Android Gradle Transform API and ASM.  字节码插件开发平台
 - [bytedance/clickhouse_hadoop](https://github.com/bytedance/clickhouse_hadoop) topic:clickhouse,hadoop pushed_at:2019-03 star:0.0k fork:0.0k Import data from clickhouse to hadoop with pure SQL
-- [bytedance/CloudShuffleService](https://github.com/bytedance/CloudShuffleService) topic:flink,hadoop-mapreduce,spark pushed_at:2022-08 star:0.2k fork:0.0k Cloud Shuffle Service(CSS) is a general purpose remote shuffle solution for compute engines, including Spark/Flink/MapReduce. 
+- [bytedance/CloudShuffleService](https://github.com/bytedance/CloudShuffleService) topic:flink,hadoop-mapreduce,spark pushed_at:2022-08 star:0.2k fork:0.1k Cloud Shuffle Service(CSS) is a general purpose remote shuffle solution for compute engines, including Spark/Flink/MapReduce. 
 - [bytedance/douyincloud-java-springboot-demo](https://github.com/bytedance/douyincloud-java-springboot-demo) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [bytedance/flutter_asset_literal_idea_plugin](https://github.com/bytedance/flutter_asset_literal_idea_plugin) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [bytedance/jenkins-plugin-lark](https://github.com/bytedance/jenkins-plugin-lark) topic: pushed_at:2022-06 star:0.0k fork:0.0k This plugin allows sending jobs status notification to your work group with Lark, and help you understand the build result.
@@ -220,7 +220,7 @@
 - [bytedance/fedlearner](https://github.com/bytedance/fedlearner) topic: pushed_at:2023-01 star:0.8k fork:0.2k A multi-party collaborative machine learning framework
 - [bytedance/FermiNet_with_ECP](https://github.com/bytedance/FermiNet_with_ECP) topic: pushed_at:2021-12 star:0.0k fork:0.0k An implementation combining FermiNet with effective core potential (ecp). For paper, see  https://arxiv.org/abs/2108.11661.
 - [bytedance/Fourier-Learning](https://github.com/bytedance/Fourier-Learning) topic: pushed_at:2022-08 star:0.0k fork:0.0k Source code for the paper "Fourier learning with cyclical data", 
-- [bytedance/GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) topic: pushed_at:2022-04 star:1.3k fork:0.1k 
+- [bytedance/GiantMIDI-Piano](https://github.com/bytedance/GiantMIDI-Piano) topic: pushed_at:2022-04 star:1.4k fork:0.1k 
 - [bytedance/Hammer](https://github.com/bytedance/Hammer) topic: pushed_at:2022-10 star:0.1k fork:0.0k An efficient toolkit for training deep models.
 - [bytedance/jaqmc](https://github.com/bytedance/jaqmc) topic: pushed_at:2022-11 star:0.0k fork:0.0k JAX accelerated Quantum Monte Carlo
 - [bytedance/LargeBatchCTR](https://github.com/bytedance/LargeBatchCTR) topic:ctr,deep-learning,recommendation-system pushed_at:2022-07 star:0.1k fork:0.0k Large batch training of CTR models based on DeepCTR with CowClip.
@@ -256,7 +256,7 @@
 - [bytedance/monoio](https://github.com/bytedance/monoio) topic: pushed_at:2023-01 star:2.5k fork:0.1k Rust async runtime based on io-uring.
 - [bytedance/node-unix-socket](https://github.com/bytedance/node-unix-socket) topic:dgram,nodejs,reuseport,rust,seqpacket-sockets,unix-socket pushed_at:2023-01 star:0.0k fork:0.0k Unix dgram, seqpacket, etc binding for Node.js.
 - [bytedance/spire-workload-rs](https://github.com/bytedance/spire-workload-rs) topic: pushed_at:2022-08 star:0.0k fork:0.0k APIs to help Rust programs use Spire workload API
-- [bytedance/tar-wasm](https://github.com/bytedance/tar-wasm) topic: pushed_at:2022-12 star:0.1k fork:0.0k A faster experimental wasm-based tar implementation for browsers.
+- [bytedance/tar-wasm](https://github.com/bytedance/tar-wasm) topic: pushed_at:2023-01 star:0.1k fork:0.0k A faster experimental wasm-based tar implementation for browsers.
 
 ## Solidity
 

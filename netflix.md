@@ -135,14 +135,14 @@
 - [Netflix/genie](https://github.com/Netflix/genie) topic:big-data,bigdata,cloud,configuration,configuration-management,distributed-systems,java,microservice,microservices,netflix-oss,netflixoss,orchestration,spring-boot pushed_at:2022-11 star:1.6k fork:0.4k Distributed Big Data Orchestration Service
 - [Netflix/governator](https://github.com/Netflix/governator) topic: pushed_at:2022-11 star:0.8k fork:0.2k Governator is a library of extensions and utilities that enhance Google Guice to provide: classpath scanning and automatic binding, lifecycle management, configuration to field mapping, field validation and parallelized object warmup.
 - [Netflix/gradle-template](https://github.com/Netflix/gradle-template) topic: pushed_at:2020-05 star:0.2k fork:0.1k 
-- [Netflix/hollow](https://github.com/Netflix/hollow) topic: pushed_at:2022-12 star:1.1k fork:0.2k Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access.
+- [Netflix/hollow](https://github.com/Netflix/hollow) topic: pushed_at:2023-01 star:1.1k fork:0.2k Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access.
 - [Netflix/hollow-reference-implementation](https://github.com/Netflix/hollow-reference-implementation) topic: pushed_at:2022-12 star:0.0k fork:0.0k A reference implementation of Hollow -- designed to get you up and running in minutes.
 - [Netflix/Hystrix](https://github.com/Netflix/Hystrix) topic: pushed_at:2022-11 star:23.1k fork:4.7k Hystrix is a latency and fault tolerance library designed to isolate points of access to remote systems, services and 3rd party libraries, stop cascading failure and enable resilience in complex distributed systems where failure is inevitable.
 - [Netflix/iceberg](https://github.com/Netflix/iceberg) topic:avro,hadoop,parquet,spark pushed_at:2021-11 star:0.4k fork:0.1k Iceberg is a table format for large, slow-moving tabular data
 - [Netflix/iep](https://github.com/Netflix/iep) topic: pushed_at:2023-01 star:0.1k fork:0.0k Insight Engineering Platform Components
 - [Netflix/karyon](https://github.com/Netflix/karyon) topic: pushed_at:2021-11 star:0.5k fork:0.2k The nucleus or the base container for Applications and Services built using the NetflixOSS ecosystem
-- [Netflix/mantis](https://github.com/Netflix/mantis) topic: pushed_at:2023-01 star:1.2k fork:0.1k A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications
-- [Netflix/mantis-api](https://github.com/Netflix/mantis-api) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
+- [Netflix/mantis](https://github.com/Netflix/mantis) topic: pushed_at:2023-01 star:1.3k fork:0.1k A platform that makes it easy for developers to build realtime, cost-effective, operations-focused applications
+- [Netflix/mantis-api](https://github.com/Netflix/mantis-api) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [Netflix/mantis-connectors](https://github.com/Netflix/mantis-connectors) topic: pushed_at:2020-10 star:0.0k fork:0.0k Collection of Sources and Sinks for Mantis Jobs
 - [Netflix/mantis-control-plane](https://github.com/Netflix/mantis-control-plane) topic: pushed_at:2020-10 star:0.0k fork:0.0k 
 - [Netflix/mantis-examples](https://github.com/Netflix/mantis-examples) topic: pushed_at:2020-09 star:0.0k fork:0.0k Collection of example Mantis Jobs
@@ -244,7 +244,7 @@
 - [Netflix/iep-shadow](https://github.com/Netflix/iep-shadow) topic: pushed_at:2018-08 star:0.0k fork:0.0k DEPRECATED: Shadowed versions of rx/platform libraries for Insight Engineering Platform use
 - [Netflix/mantis-rxnetty](https://github.com/Netflix/mantis-rxnetty) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
 - [Netflix/netflixoss-npm-build-infrastructure](https://github.com/Netflix/netflixoss-npm-build-infrastructure) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
-- [Netflix/nflx-geofeed](https://github.com/Netflix/nflx-geofeed) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
+- [Netflix/nflx-geofeed](https://github.com/Netflix/nflx-geofeed) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [Netflix/security-bulletins](https://github.com/Netflix/security-bulletins) topic:security pushed_at:2022-03 star:0.7k fork:0.1k Security Bulletins that relate to Netflix Open Source
 - [Netflix/techreports](https://github.com/Netflix/techreports) topic: pushed_at:2016-07 star:0.0k fork:0.0k Technical reports and preprints
 - [Netflix/titus](https://github.com/Netflix/titus) topic: pushed_at:2022-07 star:2.0k fork:0.1k 

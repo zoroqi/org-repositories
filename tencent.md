@@ -147,10 +147,10 @@
 - [Tencent/iHearing](https://github.com/Tencent/iHearing) topic: pushed_at:2019-04 star:0.1k fork:0.0k 微信智聆口语测评小程序是针对口语练习场景开发的测评类小程序，通过智聆口语评测插件提供了句子和单词发音准确度等功能。
 - [Tencent/kbone](https://github.com/Tencent/kbone) topic: pushed_at:2022-12 star:4.5k fork:0.4k 一个致力于微信小程序和 Web 端同构的解决方案
 - [Tencent/nohost](https://github.com/Tencent/nohost) topic: pushed_at:2023-01 star:1.3k fork:0.1k 基于 Whistle 实现的多账号多环境远程配置及抓包调试平台
-- [Tencent/omi](https://github.com/Tencent/omi) topic:admin,admin-dashboard,custom-elements,jsx,kbone,mini-program,miniprogram,mp,omi,omiu,preact,shadow-dom,tsx,vdom,virtual-dom,weapp,web,web-components,webcomponents pushed_at:2023-01 star:12.5k fork:1.3k  Front End Cross-Frameworks Framework - 前端跨框架框架
+- [Tencent/omi](https://github.com/Tencent/omi) topic:admin,admin-dashboard,custom-elements,jsx,kbone,mini-program,miniprogram,mp,omi,omiu,preact,shadow-dom,tsx,vdom,virtual-dom,weapp,web,web-components,webcomponents pushed_at:2023-01 star:12.5k fork:1.2k  Front End Cross-Frameworks Framework - 前端跨框架框架
 - [Tencent/QMUI_Web](https://github.com/Tencent/QMUI_Web) topic:gulpfile,sass-framework,web-ui,widget-toolkit,workflow pushed_at:2023-01 star:1.7k fork:0.2k An efficient front-end framework for developers building UI on the web.
 - [Tencent/QMUI_Web_Desktop](https://github.com/Tencent/QMUI_Web_Desktop) topic:electron,workflow-management pushed_at:2018-04 star:0.2k fork:0.0k The desktop app that streamlines projects based on QMUI Web.
-- [Tencent/tdesign-miniprogram-starter-retail](https://github.com/Tencent/tdesign-miniprogram-starter-retail) topic:miniprogram,tdesign,template,wechat pushed_at:2023-01 star:0.2k fork:0.1k TDesign - 微信小程序 - 零售行业模板
+- [Tencent/tdesign-miniprogram-starter-retail](https://github.com/Tencent/tdesign-miniprogram-starter-retail) topic:miniprogram,tdesign,template,wechat pushed_at:2023-01 star:0.3k fork:0.1k TDesign - 微信小程序 - 零售行业模板
 - [Tencent/WeFlow](https://github.com/Tencent/WeFlow) topic:f2e,gulp,wechat,weflow,workflow pushed_at:2020-03 star:3.2k fork:0.5k A web developer workflow tool by WeChat team based on tmt-workflow, with cross-platform supported and environment ready.
 - [Tencent/wepy](https://github.com/Tencent/wepy) topic:weapp,wepy pushed_at:2023-01 star:22.0k fork:3.1k 小程序组件化开发框架
 - [Tencent/westore](https://github.com/Tencent/westore) topic:diff,json-diff,miniprogram,model,mp,mvc,mvp,mvvm,setdata,setstate,state,state-management,store,update,weapp,web,westore pushed_at:2022-12 star:4.1k fork:0.5k 小程序项目分层架构
@@ -177,7 +177,7 @@
 - [Tencent/MLeaksFinder](https://github.com/Tencent/MLeaksFinder) topic: pushed_at:2021-11 star:5.3k fork:0.9k Find memory leaks in your iOS app at develop time.
 - [Tencent/MobileNA_IOSSDK](https://github.com/Tencent/MobileNA_IOSSDK) topic: pushed_at:2021-12 star:0.0k fork:0.0k the ios sdk of Mobile Network Acceleration
 - [Tencent/QMUI_iOS](https://github.com/Tencent/QMUI_iOS) topic:ios,ios-ui,ui-components,uikit pushed_at:2022-12 star:6.8k fork:1.3k QMUI iOS——致力于提高项目 UI 开发效率的解决方案
-- [Tencent/vap](https://github.com/Tencent/vap) topic: pushed_at:2023-01 star:3.3k fork:0.4k VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台。
+- [Tencent/vap](https://github.com/Tencent/vap) topic: pushed_at:2023-01 star:3.4k fork:0.4k VAP是企鹅电竞开发，用于播放特效动画的实现方案。具有高压缩率、硬件解码等优点。同时支持 iOS,Android,Web 平台。
 - [Tencent/WeDemo](https://github.com/Tencent/WeDemo) topic: pushed_at:2019-07 star:1.3k fork:0.4k WeDemo为微信团队开源项目，用于帮助微信开发者完成微信登录、微信分享等功能的接入和开发。开发者可参考源代码完成开发，也可以直接将代码应用到自己的App开发中，安全、便捷地在App中实现微信分享、微信登录功能。
 
 ## Objective-C++

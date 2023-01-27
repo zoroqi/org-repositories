@@ -89,7 +89,7 @@
 - [alibaba/async_simple](https://github.com/alibaba/async_simple) topic:asynchronous,coroutines,cpp20,modules pushed_at:2023-01 star:0.7k fork:0.1k Simple, light-weight and easy-to-use asynchronous components 
 - [alibaba/BladeDISC](https://github.com/alibaba/BladeDISC) topic:compiler,deep-learning,inference-optimization,machine-learning,mlir,neural-network,pytorch,tensorflow pushed_at:2023-01 star:0.5k fork:0.1k BladeDISC is an end-to-end DynamIc Shape Compiler project for machine learning workloads.
 - [alibaba/CicadaPlayer](https://github.com/alibaba/CicadaPlayer) topic:dash,fairplay,ffmpeg,ll-hls,mediaplayer,webassembly,widevine pushed_at:2022-09 star:0.6k fork:0.2k CicadaPlayer is the player core of AliPlayer, which support multiple platform Android, iOS, macOS, Windows, Linux, and WebAssembly for now. The goal is providing a player core which support multi platform, hardware accelerator, customizable and extensible features. Which support WideVine drm and LL-HLS dash.
-- [alibaba/DeepRec](https://github.com/alibaba/DeepRec) topic:advertising,deep-learning,distributed-training,machine-learning,python,recommendation-engine,scalability,search-engine pushed_at:2023-01 star:0.7k fork:0.3k DeepRec is a recommendation engine based on TensorFlow.
+- [alibaba/DeepRec](https://github.com/alibaba/DeepRec) topic:advertising,deep-learning,distributed-training,machine-learning,python,recommendation-engine,scalability,search-engine pushed_at:2023-01 star:0.7k fork:0.3k DeepRec is a high-performance recommendation deep learning framework based on TensorFlow.
 - [alibaba/dragonwell8_hotspot](https://github.com/alibaba/dragonwell8_hotspot) topic: pushed_at:2022-03 star:0.1k fork:0.0k 
 - [alibaba/euler](https://github.com/alibaba/euler) topic:deep-learning,gcn,ggnn,graph,graph-convolutional-networks,graph-embedding,graph-learning,graph-neural-networks,graphsage,network-embedding,node2vec,random-walk pushed_at:2022-10 star:2.8k fork:0.6k A distributed graph deep learning framework.
 - [alibaba/FeatureGenerator](https://github.com/alibaba/FeatureGenerator) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
@@ -278,7 +278,7 @@
 - [alibaba/SmartEngine](https://github.com/alibaba/SmartEngine) topic: pushed_at:2022-12 star:0.5k fork:0.2k SmartEngine is a lightweight business orchestration engine.
 - [alibaba/spring-boot-support](https://github.com/alibaba/spring-boot-support) topic:java,spring-boot,spring-boot-starter pushed_at:2020-10 star:0.0k fork:0.0k The support project for Spring Boot
 - [alibaba/spring-boot-web-support](https://github.com/alibaba/spring-boot-web-support) topic:java,spring,spring-boot,spring-web,spring-web-mvc pushed_at:2018-06 star:0.0k fork:0.0k An support project for Spring Boot Web
-- [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) topic:alibaba,alibaba-middleware,alibaba-oss,aliyun,circuit-breaker,cloud-native,distributed-configuration,distributed-messaging,distributed-transaction,dubbo,java,microservices,nacos,rocketmq,service-discovery,service-registry,spring,spring-cloud,spring-cloud-alibaba,spring-cloud-core pushed_at:2023-01 star:24.6k fork:7.5k Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
+- [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) topic:alibaba,alibaba-middleware,alibaba-oss,aliyun,circuit-breaker,cloud-native,distributed-configuration,distributed-messaging,distributed-transaction,dubbo,java,microservices,nacos,rocketmq,service-discovery,service-registry,spring,spring-cloud,spring-cloud-alibaba,spring-cloud-core pushed_at:2023-01 star:24.6k fork:7.6k Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
 - [alibaba/spring-context-support](https://github.com/alibaba/spring-context-support) topic:alibaba,java,spring,spring-context,spring-framework pushed_at:2022-12 star:0.1k fork:0.1k An internal support project for spring-context in Alibaba 
 - [alibaba/spring-webmvc-support](https://github.com/alibaba/spring-webmvc-support) topic:alibaba,java,spring,spring-web,spring-web-mvc pushed_at:2018-07 star:0.0k fork:0.0k An support project of Spring Web MVC
 - [alibaba/SREWorks](https://github.com/alibaba/SREWorks) topic:aiops,application,cloudnative,dataops,devops,engineering,flink,k8s,kubernetes,maintenance,oam,operation,ops,saas,sre pushed_at:2023-01 star:1.2k fork:0.3k Cloud Native DataOps & AIOps Platform | 云原生数智运维平台 
@@ -312,7 +312,7 @@
 ## JavaScript
 
 - [alibaba/AliOS-nodejs](https://github.com/alibaba/AliOS-nodejs) topic: pushed_at:2018-05 star:0.1k fork:0.0k speed up nodejs booting using snapshot
-- [alibaba/anyproxy](https://github.com/alibaba/anyproxy) topic: pushed_at:2021-11 star:7.5k fork:1.2k A fully configurable http/https proxy in NodeJS
+- [alibaba/anyproxy](https://github.com/alibaba/anyproxy) topic: pushed_at:2021-11 star:7.6k fork:1.2k A fully configurable http/https proxy in NodeJS
 - [alibaba/arthas-online](https://github.com/alibaba/arthas-online) topic: pushed_at:2019-01 star:0.0k fork:0.0k 
 - [alibaba/atom-js-debug](https://github.com/alibaba/atom-js-debug) topic: pushed_at:2017-08 star:0.0k fork:0.0k A JavaScript / Node.js debug client for Atom.
 - [alibaba/badgeboard](https://github.com/alibaba/badgeboard) topic: pushed_at:2014-09 star:0.0k fork:0.0k alibaba Node.js modules badge board
@@ -359,7 +359,7 @@
 ## Jupyter Notebook
 
 - [alibaba/ai-matrix](https://github.com/alibaba/ai-matrix) topic: pushed_at:2022-12 star:0.2k fork:0.1k To make it easy to benchmark AI accelerators
-- [alibaba/clusterdata](https://github.com/alibaba/clusterdata) topic:dataset pushed_at:2022-12 star:1.1k fork:0.3k cluster data collected from production clusters in Alibaba for cluster management research
+- [alibaba/clusterdata](https://github.com/alibaba/clusterdata) topic:dataset pushed_at:2022-12 star:1.1k fork:0.4k cluster data collected from production clusters in Alibaba for cluster management research
 - [alibaba/Dynamic-popularity-aware-recommendation](https://github.com/alibaba/Dynamic-popularity-aware-recommendation) topic:contrastive-learning,deep-learning,personalization,recommender-system pushed_at:2021-06 star:0.0k fork:0.0k Dynamic popularity-aware contrastive learning for recommendation
 - [alibaba/eCommerceSearchBench](https://github.com/alibaba/eCommerceSearchBench) topic:benchmark,e-commerce,e-commerce-search-benchmark pushed_at:2022-06 star:0.0k fork:0.0k E-commerce search benchmark is the first end-to-end application benchmark for e-commerce search system with personalized recommendations.This work is joint with Prof. Jianfeng Zhan (http://www.benchcouncil.org/zjf.html) 's team,  who is also the chair of International Open Benchmark Council (BenchCouncil, http://www.benchcouncil.org/). 
 
@@ -536,7 +536,7 @@
 - [alibaba/BizGoblin](https://github.com/alibaba/BizGoblin) topic: pushed_at:2021-11 star:0.1k fork:0.0k 基于F2 React 移动端可视化图表库
 - [alibaba/browser-extension-kit](https://github.com/alibaba/browser-extension-kit) topic: pushed_at:2022-01 star:0.1k fork:0.0k 
 - [alibaba/canvas-ui](https://github.com/alibaba/canvas-ui) topic:canvas,react,typescript pushed_at:2022-12 star:0.1k fork:0.0k UI Renderer runs on top of the HTML5 Canvas
-- [alibaba/ChatUI](https://github.com/alibaba/ChatUI) topic:chat,chatbot,react,ui pushed_at:2022-12 star:1.6k fork:0.1k The UI design language and React library for Conversational UI
+- [alibaba/ChatUI](https://github.com/alibaba/ChatUI) topic:chat,chatbot,react,ui pushed_at:2022-12 star:1.6k fork:0.2k The UI design language and React library for Conversational UI
 - [alibaba/cloud-charts](https://github.com/alibaba/cloud-charts) topic: pushed_at:2023-01 star:0.4k fork:0.1k 开箱即用的前端图表库，简单配置就能拥有漂亮的可视化图表
 - [alibaba/collabobot](https://github.com/alibaba/collabobot) topic: pushed_at:2022-04 star:0.0k fork:0.0k A collaborate robot for GitHub open source repositories. Auto weekly report, auto issue label, auto issue translation, etc.
 - [alibaba/designable](https://github.com/alibaba/designable) topic:builder,designable,designer,editor,form,react pushed_at:2022-12 star:2.5k fork:0.5k 🧩 Make everything designable 🧩 
