@@ -29,7 +29,7 @@
 
 ## Assembly
 
-- [bytedance/sonic](https://github.com/bytedance/sonic) topic: pushed_at:2023-02 star:4.0k fork:0.2k A blazingly fast JSON serializing & deserializing library
+- [bytedance/sonic](https://github.com/bytedance/sonic) topic:high-performance,json,serdes pushed_at:2023-02 star:4.0k fork:0.2k A blazingly fast JSON serializing & deserializing library
 
 ## C
 
@@ -76,19 +76,19 @@
 - [bytedance/sonic-cpp](https://github.com/bytedance/sonic-cpp) topic: pushed_at:2023-02 star:0.4k fork:0.0k A fast JSON serializing & deserializing library, accelerated by SIMD.
 - [bytedance/tensorflow](https://github.com/bytedance/tensorflow) topic: pushed_at:2021-02 star:0.0k fork:0.0k An Open Source Machine Learning Framework for Everyone
 - [bytedance/terark-zip](https://github.com/bytedance/terark-zip) topic: pushed_at:2022-04 star:0.0k fork:0.0k A data structure and algorithm library built for TerarkDB
-- [bytedance/terarkdb](https://github.com/bytedance/terarkdb) topic: pushed_at:2022-11 star:1.8k fork:0.2k A RocksDB compatible KV storage engine with better performance
+- [bytedance/terarkdb](https://github.com/bytedance/terarkdb) topic: pushed_at:2023-02 star:1.8k fork:0.2k A RocksDB compatible KV storage engine with better performance
 - [bytedance/xoa_set_ip_option](https://github.com/bytedance/xoa_set_ip_option) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 
 ## Dart
 
-- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) topic:dart,dart-library,debug,debugging-tool,developer,development,devtool,flutter,flutter-package,flutter-plugin,tools pushed_at:2023-01 star:1.8k fork:0.1k UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
+- [bytedance/flutter_ume](https://github.com/bytedance/flutter_ume) topic:dart,dart-library,debug,debugging-tool,developer,development,devtool,flutter,flutter-package,flutter-plugin,tools pushed_at:2023-02 star:1.8k fork:0.1k UME is an in-app debug kits platform for Flutter. Produced by Flutter Infra team of ByteDance
 - [bytedance/flutterdoc](https://github.com/bytedance/flutterdoc) topic:documentation,flutter,gallery pushed_at:2022-03 star:0.0k fork:0.0k Generate gallery for your Flutter widgets with one command
 - [bytedance/marquee_text](https://github.com/bytedance/marquee_text) topic: pushed_at:2019-11 star:0.0k fork:0.0k 
 - [bytedance/pull_to_refresh](https://github.com/bytedance/pull_to_refresh) topic: pushed_at:2020-05 star:0.1k fork:0.0k Flutter pull_to_refresh widget
 - [bytedance/rangers_applog_flutter_plugin](https://github.com/bytedance/rangers_applog_flutter_plugin) topic: pushed_at:2022-01 star:0.0k fork:0.0k flutter plugin for RangersAppLog.
 - [bytedance/RealRichText](https://github.com/bytedance/RealRichText) topic:flutter,inline-images,rich-text pushed_at:2019-07 star:0.6k fork:0.1k  A Tricky Solution for Implementing Inline-Image-In-Text Feature in Flutter.
 - [bytedance/scroll_kit](https://github.com/bytedance/scroll_kit) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
-- [bytedance/unpub](https://github.com/bytedance/unpub) topic:dart,enterprise,flutter,pub,self-hosted pushed_at:2023-01 star:0.3k fork:0.1k Self-hosted private Dart Pub server for Enterprise
+- [bytedance/unpub](https://github.com/bytedance/unpub) topic:dart,enterprise,flutter,pub,self-hosted pushed_at:2023-01 star:0.4k fork:0.1k Self-hosted private Dart Pub server for Enterprise
 
 ## Go
 
@@ -96,7 +96,7 @@
 - [bytedance/dbatman](https://github.com/bytedance/dbatman) topic: pushed_at:2017-02 star:0.1k fork:0.0k 
 - [bytedance/douyincloud-configcenter-sdk-go](https://github.com/bytedance/douyincloud-configcenter-sdk-go) topic: pushed_at:2023-01 star:0.0k fork:0.0k A go sdk for douyin cloud config center.
 - [bytedance/douyincloud-gin-demo](https://github.com/bytedance/douyincloud-gin-demo) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [bytedance/Elkeid](https://github.com/bytedance/Elkeid) topic:cwpp,edr,hids,linux-security,rasp,security pushed_at:2023-01 star:1.6k fork:0.3k Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless. It is derived from ByteDance's internal best practices.
+- [bytedance/Elkeid](https://github.com/bytedance/Elkeid) topic:cwpp,edr,hids,linux-security,rasp,security pushed_at:2023-02 star:1.6k fork:0.3k Elkeid is an open source solution that can meet the security requirements of various workloads such as hosts, containers and K8s, and serverless. It is derived from ByteDance's internal best practices.
 - [bytedance/go-dyclog](https://github.com/bytedance/go-dyclog) topic: pushed_at:2022-08 star:0.0k fork:0.0k The go-dyclog SDK provides simple log APIs for douyincloud developer
 - [bytedance/go-querystring-parser](https://github.com/bytedance/go-querystring-parser) topic: pushed_at:2022-08 star:0.0k fork:0.0k A golang querystring parser
 - [bytedance/go-tagexpr](https://github.com/bytedance/go-tagexpr) topic:binding,dsl,expression,go,struct-tag,validator pushed_at:2022-11 star:1.4k fork:0.1k An interesting go struct tag expression syntax for field validation, etc.
@@ -145,7 +145,7 @@
 - [bytedance/lottiefy](https://github.com/bytedance/lottiefy) topic:lottie pushed_at:2018-12 star:0.1k fork:0.0k Render Lottie to any engine
 - [bytedance/mp4.js](https://github.com/bytedance/mp4.js) topic: pushed_at:2021-09 star:0.0k fork:0.0k converter from mp4 to fmp4
 - [bytedance/node-wifi-info](https://github.com/bytedance/node-wifi-info) topic: pushed_at:2022-12 star:0.0k fork:0.0k node module to get information about the currently connected wifi
-- [bytedance/xgplayer](https://github.com/bytedance/xgplayer) topic:dash,flv,flv-parser,fmp4,hls,hls-player,html5-video,html5-video-player,mp4,mp4box,player,video,video-player,videoplayer pushed_at:2023-01 star:5.9k fork:0.7k A HTML5 video player with a parser that saves traffic
+- [bytedance/xgplayer](https://github.com/bytedance/xgplayer) topic:dash,flv,flv-parser,fmp4,hls,hls-player,html5-video,html5-video-player,mp4,mp4box,player,video,video-player,videoplayer pushed_at:2023-02 star:5.9k fork:0.7k A HTML5 video player with a parser that saves traffic
 - [bytedance/xgplayer-react](https://github.com/bytedance/xgplayer-react) topic: pushed_at:2021-02 star:0.1k fork:0.0k React component for xgplayer, a HTML5 video player with a parser that saves traffic
 - [bytedance/xgplayer-vue](https://github.com/bytedance/xgplayer-vue) topic: pushed_at:2021-07 star:0.2k fork:0.1k Vue component for xgplayer, a HTML5 video player with a parser that saves traffic
 
@@ -224,19 +224,19 @@
 - [bytedance/Hammer](https://github.com/bytedance/Hammer) topic: pushed_at:2022-10 star:0.1k fork:0.0k An efficient toolkit for training deep models.
 - [bytedance/ic_flow_platform](https://github.com/bytedance/ic_flow_platform) topic: pushed_at:2023-02 star:0.0k fork:0.0k IFP (ic flow platform) is an integrated circuit design flow platform, mainly used for IC process specification  management and data flow contral.
 - [bytedance/jaqmc](https://github.com/bytedance/jaqmc) topic: pushed_at:2022-11 star:0.0k fork:0.0k JAX accelerated Quantum Monte Carlo
-- [bytedance/LargeBatchCTR](https://github.com/bytedance/LargeBatchCTR) topic:ctr,deep-learning,recommendation-system pushed_at:2022-07 star:0.1k fork:0.0k Large batch training of CTR models based on DeepCTR with CowClip.
+- [bytedance/LargeBatchCTR](https://github.com/bytedance/LargeBatchCTR) topic:ctr,deep-learning,recommendation-system pushed_at:2023-02 star:0.1k fork:0.0k Large batch training of CTR models based on DeepCTR with CowClip.
 - [bytedance/markov-molecular-sampling](https://github.com/bytedance/markov-molecular-sampling) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
 - [bytedance/mega-ai](https://github.com/bytedance/mega-ai) topic: pushed_at:2022-08 star:0.0k fork:0.0k Encapsulate tensorflow and other deep frameworks, support feature evaluation and model evaluation methods
 - [bytedance/mega-spark](https://github.com/bytedance/mega-spark) topic: pushed_at:2020-09 star:0.0k fork:0.0k Spark is encapsulated as a mega interface to call pandas methods
 - [bytedance/midi_melody_extraction](https://github.com/bytedance/midi_melody_extraction) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [bytedance/monolith](https://github.com/bytedance/monolith) topic: pushed_at:2023-01 star:0.4k fork:0.1k ByteDance's Recommendation System
+- [bytedance/monolith](https://github.com/bytedance/monolith) topic: pushed_at:2023-02 star:0.4k fork:0.1k ByteDance's Recommendation System
 - [bytedance/music_source_separation](https://github.com/bytedance/music_source_separation) topic: pushed_at:2022-10 star:1.0k fork:0.2k 
 - [bytedance/neurst](https://github.com/bytedance/neurst) topic: pushed_at:2022-06 star:0.3k fork:0.0k Neural end-to-end Speech Translation Toolkit
-- [bytedance/Next-ViT](https://github.com/bytedance/Next-ViT) topic: pushed_at:2022-12 star:0.4k fork:0.0k 
+- [bytedance/Next-ViT](https://github.com/bytedance/Next-ViT) topic: pushed_at:2022-12 star:0.4k fork:0.1k 
 - [bytedance/oclip](https://github.com/bytedance/oclip) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [bytedance/OMGD](https://github.com/bytedance/OMGD) topic: pushed_at:2022-10 star:0.3k fork:0.0k Online Multi-Granularity Distillation for GAN Compression (ICCV2021)
 - [bytedance/ParaGen](https://github.com/bytedance/ParaGen) topic: pushed_at:2022-11 star:0.2k fork:0.0k ParaGen is a PyTorch deep learning framework for parallel sequence generation.
-- [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) topic: pushed_at:2022-03 star:1.1k fork:0.1k 
+- [bytedance/piano_transcription](https://github.com/bytedance/piano_transcription) topic: pushed_at:2022-03 star:1.1k fork:0.2k 
 - [bytedance/QRAF](https://github.com/bytedance/QRAF) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [bytedance/raylink](https://github.com/bytedance/raylink) topic:reinforcement-learning,rl pushed_at:2021-10 star:0.0k fork:0.0k Framework to build and train RL algorithms
 - [bytedance/Resource-Allocation-Service-Affinity](https://github.com/bytedance/Resource-Allocation-Service-Affinity) topic: pushed_at:2023-01 star:0.0k fork:0.0k This repo contains the implementation of cloud solver-heuristic hybrid resource scheduling algorithm, aiming at maximizing service affinity.
@@ -269,7 +269,7 @@
 
 ## TypeScript
 
-- [bytedance/bytemd](https://github.com/bytedance/bytemd) topic:markdown,markdown-editor,markdown-viewer,svelte pushed_at:2023-01 star:3.4k fork:0.3k Hackable Markdown Editor and Viewer
+- [bytedance/bytemd](https://github.com/bytedance/bytemd) topic:markdown,markdown-editor,markdown-viewer,svelte pushed_at:2023-02 star:3.4k fork:0.3k Hackable Markdown Editor and Viewer
 - [bytedance/douyincloud-nodejs-koa-demo](https://github.com/bytedance/douyincloud-nodejs-koa-demo) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [bytedance/fe-foundation](https://github.com/bytedance/fe-foundation) topic: pushed_at:2021-06 star:0.1k fork:0.0k UI Foundation for React Hooks and Vue Composition Api 
 - [bytedance/flow-builder](https://github.com/bytedance/flow-builder) topic:builder,flow,process,react pushed_at:2023-01 star:0.2k fork:0.0k A highly customizable streaming flow builder.

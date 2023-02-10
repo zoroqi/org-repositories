@@ -73,7 +73,7 @@
 - [baidu/cluster-api-provider-baiducloud](https://github.com/baidu/cluster-api-provider-baiducloud) topic: pushed_at:2018-12 star:0.0k fork:0.0k Kubernetes cluster-api for Baidu Cloud
 - [baidu/EasyFaaS](https://github.com/baidu/EasyFaaS) topic: pushed_at:2022-10 star:0.6k fork:0.1k EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎
 - [baidu/go-lib](https://github.com/baidu/go-lib) topic: pushed_at:2021-10 star:0.1k fork:0.0k 
-- [baidu/ote-stack](https://github.com/baidu/ote-stack) topic:docker,edge-cluster,edge-computing,golang,k3s,kubernetes pushed_at:2020-07 star:0.1k fork:0.0k OTE-Stack is an edge computing platform for 5G and AI
+- [baidu/ote-stack](https://github.com/baidu/ote-stack) topic:docker,edge-cluster,edge-computing,golang,k3s,kubernetes pushed_at:2023-02 star:0.1k fork:0.0k OTE-Stack is an edge computing platform for 5G and AI
 - [baidu/paddle-on-k8s-operator](https://github.com/baidu/paddle-on-k8s-operator) topic: pushed_at:2020-03 star:0.0k fork:0.0k Kubernetes operator for managing the lifecycle of PaddlePaddle job.
 - [baidu/runc](https://github.com/baidu/runc) topic: pushed_at:2019-06 star:0.0k fork:0.0k CLI tool for spawning and running containers according to the OCI specification
 - [baidu/smartapp-openapi-go](https://github.com/baidu/smartapp-openapi-go) topic: pushed_at:2022-09 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for go，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
@@ -111,7 +111,7 @@
 - [baidu/san](https://github.com/baidu/san) topic:component,framework,frontend,javascript,mvvm,san pushed_at:2023-02 star:4.7k fork:0.5k A fast, portable, flexible JavaScript component framework
 - [baidu/san-composition](https://github.com/baidu/san-composition) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [baidu/san-factory](https://github.com/baidu/san-factory) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
-- [baidu/san-router](https://github.com/baidu/san-router) topic:san pushed_at:2023-01 star:0.0k fork:0.0k Official Router for San
+- [baidu/san-router](https://github.com/baidu/san-router) topic:san pushed_at:2023-02 star:0.0k fork:0.0k Official Router for San
 - [baidu/san-store](https://github.com/baidu/san-store) topic:appstate,san pushed_at:2023-01 star:0.1k fork:0.0k Application States Management for San
 - [baidu/san-update](https://github.com/baidu/san-update) topic:san pushed_at:2022-12 star:0.1k fork:0.0k Object immutable update utility for san solution
 - [baidu/san-website](https://github.com/baidu/san-website) topic: pushed_at:2022-12 star:0.0k fork:0.1k 
@@ -146,10 +146,10 @@
 ## Python
 
 - [baidu/ARK](https://github.com/baidu/ARK) topic:framework,operation pushed_at:2021-05 star:0.1k fork:0.0k Development framework of intelligent operation
-- [baidu/baiduads-sdk](https://github.com/baidu/baiduads-sdk) topic:ads,baidu,sdk pushed_at:2023-01 star:0.0k fork:0.0k Baidu Ads API SDK
+- [baidu/baiduads-sdk](https://github.com/baidu/baiduads-sdk) topic:ads,baidu,sdk pushed_at:2023-02 star:0.0k fork:0.0k Baidu Ads API SDK
 - [baidu/broc](https://github.com/baidu/broc) topic: pushed_at:2017-12 star:0.1k fork:0.1k 
-- [baidu/CUP](https://github.com/baidu/CUP) topic:common-libraries,common-libs,library,python pushed_at:2023-01 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
-- [baidu/DDParser](https://github.com/baidu/DDParser) topic:chinese-dependency-parser,chinese-nlp,dependency-parser,dependency-parsing,python,syntax-parser pushed_at:2022-12 star:0.9k fork:0.2k 百度开源的依存句法分析系统
+- [baidu/CUP](https://github.com/baidu/CUP) topic:common-libraries,common-libs,library,python pushed_at:2023-02 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
+- [baidu/DDParser](https://github.com/baidu/DDParser) topic:chinese-dependency-parser,chinese-nlp,dependency-parser,dependency-parsing,python,syntax-parser pushed_at:2023-02 star:0.9k fork:0.2k 百度开源的依存句法分析系统
 - [baidu/Dialogue](https://github.com/baidu/Dialogue) topic:chatbot,dialogue,research pushed_at:2022-07 star:0.4k fork:0.1k 
 - [baidu/duedge-cli](https://github.com/baidu/duedge-cli) topic: pushed_at:2020-03 star:0.0k fork:0.0k DuEdge Command Line
 - [baidu/DuReader](https://github.com/baidu/DuReader) topic: pushed_at:2022-05 star:1.0k fork:0.3k Baseline Systems of DuReader Dataset
@@ -170,7 +170,7 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) topic:frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2023-02 star:12.9k fork:1.8k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) topic:frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2023-02 star:13.0k fork:1.9k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) topic:chrome,chromium,debug,devtools,extension,san pushed_at:2022-11 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) topic:san,ssr,ssr-target-js pushed_at:2023-01 star:0.0k fork:0.0k San SSR framework and utils
 
