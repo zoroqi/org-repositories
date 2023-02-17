@@ -19,8 +19,7 @@
 - [Jupyter Notebook](#jupyter-notebook) (1)
 - [Others](#others) (2)
 - [PHP](#php) (1)
-- [Python](#python) (16)
-- [SCSS](#scss) (1)
+- [Python](#python) (17)
 - [TypeScript](#typescript) (5)
 
 ## BitBake
@@ -44,7 +43,7 @@
 
 ## CSS
 
-- [sony/creativeai](https://github.com/sony/creativeai) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
+- [sony/creativeai](https://github.com/sony/creativeai) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 
 ## Cuda
 
@@ -95,6 +94,7 @@
 ## Python
 
 - [sony/ai-research-code](https://github.com/sony/ai-research-code) topic: pushed_at:2023-01 star:0.3k fork:0.1k 
+- [sony/CLIPSep](https://github.com/sony/CLIPSep) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [sony/dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [sony/ds-research-code](https://github.com/sony/ds-research-code) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [sony/FxNorm-automix](https://github.com/sony/FxNorm-automix) topic:automatic-mixing,data-normalization,intelligent-music-production,machine-learning pushed_at:2022-11 star:0.0k fork:0.0k FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system
@@ -106,14 +106,10 @@
 - [sony/nnabla-examples](https://github.com/sony/nnabla-examples) topic: pushed_at:2023-02 star:0.3k fork:0.1k Neural Network Libraries https://nnabla.org/ - Examples
 - [sony/nnabla-nas](https://github.com/sony/nnabla-nas) topic: pushed_at:2023-02 star:0.0k fork:0.0k Neural Architecture Search for Neural Network Libraries
 - [sony/nnabla-rl](https://github.com/sony/nnabla-rl) topic: pushed_at:2023-02 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
-- [sony/nnc-plugin](https://github.com/sony/nnc-plugin) topic: pushed_at:2023-01 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
+- [sony/nnc-plugin](https://github.com/sony/nnc-plugin) topic: pushed_at:2023-02 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
 - [sony/polar-densification](https://github.com/sony/polar-densification) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [sony/pyIEOE](https://github.com/sony/pyIEOE) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 - [sony/sqvae](https://github.com/sony/sqvae) topic:bayesian,deep-generative-model,generative-model,gumbel-softmax,machine-learning,pytorch,vae,variational-autoencoder,vector-quantization,vq-vae pushed_at:2022-07 star:0.1k fork:0.0k Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE)
-
-## SCSS
-
-- [sony/CLIPSep](https://github.com/sony/CLIPSep) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 
 ## TypeScript
 

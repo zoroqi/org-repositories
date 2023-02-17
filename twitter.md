@@ -47,7 +47,7 @@
 
 - [twitter/go-bindata](https://github.com/twitter/go-bindata) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [twitter/groupcache](https://github.com/twitter/groupcache) topic: pushed_at:2020-12 star:0.0k fork:0.0k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
-- [twitter/scoot](https://github.com/twitter/scoot) topic: pushed_at:2022-11 star:0.3k fork:0.0k Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
+- [twitter/scoot](https://github.com/twitter/scoot) topic: pushed_at:2023-02 star:0.3k fork:0.0k Scoot is a distributed task runner, supporting both a proprietary API and Bazel's Remote Execution.
 
 ## HTML
 
@@ -114,7 +114,7 @@
 
 - [twitter/caladrius](https://github.com/twitter/caladrius) topic: pushed_at:2021-10 star:0.0k fork:0.0k Performance modelling system for Distributed Stream Processing Systems (DSPS) such as Apache Heron and Apache Storm
 - [twitter/communitynotes](https://github.com/twitter/communitynotes) topic: pushed_at:2023-02 star:0.4k fork:0.1k 
-- [twitter/dict_minimize](https://github.com/twitter/dict_minimize) topic:scipy,scipy-stack pushed_at:2021-09 star:0.1k fork:0.0k Access scipy optimizers from your favorite deep learning framework.
+- [twitter/dict_minimize](https://github.com/twitter/dict_minimize) topic:scipy,scipy-stack pushed_at:2023-02 star:0.1k fork:0.0k Access scipy optimizers from your favorite deep learning framework.
 - [twitter/diffusion-rl](https://github.com/twitter/diffusion-rl) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [twitter/gatekeeper-service](https://github.com/twitter/gatekeeper-service) topic: pushed_at:2023-02 star:0.0k fork:0.0k GateKeeper is a service built to automate the manual steps involved in onboarding, offboarding, and lost asset scenarios.
 - [twitter/pants](https://github.com/twitter/pants) topic: pushed_at:2023-02 star:0.1k fork:0.0k Pants Build System
@@ -144,13 +144,13 @@
 
 ## Scala
 
-- [twitter/algebird](https://github.com/twitter/algebird) topic: pushed_at:2023-01 star:2.2k fork:0.3k Abstract Algebra for Scala
-- [twitter/bazel-multiversion](https://github.com/twitter/bazel-multiversion) topic:bazel,bazel-build,bazel-rules,coursier,dependency-manager,java,jvm,kotlin,scala pushed_at:2022-11 star:0.0k fork:0.0k Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier. 
-- [twitter/bijection](https://github.com/twitter/bijection) topic: pushed_at:2023-01 star:0.6k fork:0.1k Reversible conversions between types
+- [twitter/algebird](https://github.com/twitter/algebird) topic: pushed_at:2023-02 star:2.2k fork:0.3k Abstract Algebra for Scala
+- [twitter/bazel-multiversion](https://github.com/twitter/bazel-multiversion) topic:bazel,bazel-build,bazel-rules,coursier,dependency-manager,java,jvm,kotlin,scala pushed_at:2023-02 star:0.0k fork:0.0k Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier. 
+- [twitter/bijection](https://github.com/twitter/bijection) topic: pushed_at:2023-02 star:0.6k fork:0.1k Reversible conversions between types
 - [twitter/cassovary](https://github.com/twitter/cassovary) topic: pushed_at:2021-10 star:1.0k fork:0.1k Cassovary is a simple big graph processing library for the JVM
 - [twitter/chill](https://github.com/twitter/chill) topic: pushed_at:2023-02 star:0.6k fork:0.1k Scala extensions for the Kryo serialization library
 - [twitter/finagle](https://github.com/twitter/finagle) topic:distributed-systems,finagle,http,http2,java,memcached,mysql,redis,rpc,scala,thrift,zipkin pushed_at:2023-01 star:8.5k fork:1.4k A fault tolerant, protocol-agnostic RPC system
-- [twitter/finatra](https://github.com/twitter/finatra) topic:finagle,framework,guice,http,microservices,scala,slf4j,testing,thrift,twitter-server pushed_at:2023-01 star:2.2k fork:0.4k Fast, testable, Scala services built on TwitterServer and Finagle
+- [twitter/finatra](https://github.com/twitter/finatra) topic:finagle,framework,guice,http,microservices,scala,slf4j,testing,thrift,twitter-server pushed_at:2023-02 star:2.2k fork:0.4k Fast, testable, Scala services built on TwitterServer and Finagle
 - [twitter/iago2](https://github.com/twitter/iago2) topic: pushed_at:2023-01 star:0.0k fork:0.0k A load generator, built for engineers
 - [twitter/rsc](https://github.com/twitter/rsc) topic: pushed_at:2021-10 star:1.2k fork:0.0k Experimental Scala compiler focused on compilation speed
 - [twitter/scala_school2](https://github.com/twitter/scala_school2) topic: pushed_at:2021-10 star:0.3k fork:0.1k Scala School 2

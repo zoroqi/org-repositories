@@ -43,10 +43,10 @@
 
 - [uber/arachne](https://github.com/uber/arachne) topic:arachne,cloud,data-center,latency,monitoring,network-monitoring,networking,packet-loss,reachability,reliability pushed_at:2019-06 star:0.4k fork:0.0k An always-on framework that performs end-to-end functional network testing for reachability, latency, and packet loss
 - [uber/aresdb](https://github.com/uber/aresdb) topic:analytics,cgo,cuda,data,database,golang,gpu-programming,query,real-time,storage pushed_at:2021-06 star:2.9k fork:0.2k A GPU-powered real-time analytics storage and query engine. 
-- [uber/assume-role-cli](https://github.com/uber/assume-role-cli) topic: pushed_at:2022-12 star:0.0k fork:0.0k CLI for AssumeRole is a tool for running programs with temporary credentials from AWS's AssumeRole API.
+- [uber/assume-role-cli](https://github.com/uber/assume-role-cli) topic: pushed_at:2023-02 star:0.0k fork:0.0k CLI for AssumeRole is a tool for running programs with temporary credentials from AWS's AssumeRole API.
 - [uber/astro](https://github.com/uber/astro) topic: pushed_at:2020-01 star:0.4k fork:0.0k Astro is a tool for managing multiple Terraform executions as a single command
 - [uber/athenadriver](https://github.com/uber/athenadriver) topic:atg,athena,aws,database,driver,go,golang,hiveql,prestosql,s3,sandbox,sql,uber pushed_at:2022-10 star:0.1k fork:0.0k A fully-featured AWS Athena database driver (+ athenareader https://github.com/uber/athenadriver/tree/master/athenareader)
-- [uber/cadence](https://github.com/uber/cadence) topic:cadence,distributed-systems,golang,java,orchestration-engine,service-bus,service-fabric,services-platform,uber,workflow-automation,workflows pushed_at:2023-02 star:6.6k fork:0.7k Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
+- [uber/cadence](https://github.com/uber/cadence) topic:cadence,distributed-systems,golang,java,orchestration-engine,service-bus,service-fabric,services-platform,uber,workflow-automation,workflows pushed_at:2023-02 star:6.7k fork:0.7k Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.
 - [uber/cadvisor](https://github.com/uber/cadvisor) topic: pushed_at:2021-08 star:0.0k fork:0.0k Analyzes resource usage and performance characteristics of running containers.
 - [uber/gonduit](https://github.com/uber/gonduit) topic: pushed_at:2021-06 star:0.0k fork:0.0k A Go package for connecting to Phabricator via the Conduit API.
 - [uber/h3-go](https://github.com/uber/h3-go) topic:geospatial,go,golang,h3,hexagon,spatial-indexing,uber pushed_at:2022-12 star:0.2k fork:0.0k Go bindings for H3, a hierarchical hexagonal geospatial indexing system
@@ -136,7 +136,7 @@
 - [uber/crumb](https://github.com/uber/crumb) topic:android,annotation-processor,java,kotlin,metadata pushed_at:2021-12 star:0.1k fork:0.0k An annotation processor for breadcrumbing metadata across compilation boundaries.
 - [uber/lint-checks](https://github.com/uber/lint-checks) topic:android,lint,sandbox,static-analysis pushed_at:2020-11 star:0.1k fork:0.0k A set of opinionated and useful lint checks
 - [uber/motif](https://github.com/uber/motif) topic: pushed_at:2023-02 star:0.5k fork:0.0k A simple DI API for Android / Java
-- [uber/RIBs](https://github.com/uber/RIBs) topic:android,architectural-patterns,architecture,ios,mobile,mobile-app,mobile-development,mvc,mvp,mvvm,viper pushed_at:2023-01 star:7.3k fork:0.9k Uber's cross-platform mobile architecture framework.
+- [uber/RIBs](https://github.com/uber/RIBs) topic:android,architectural-patterns,architecture,ios,mobile,mobile-app,mobile-development,mvc,mvp,mvvm,viper pushed_at:2023-02 star:7.3k fork:0.9k Uber's cross-platform mobile architecture framework.
 - [uber/stylist](https://github.com/uber/stylist) topic:android,codegen,kotlin,styles,themes pushed_at:2021-05 star:0.4k fork:0.0k A stylist creates cool styles. Stylist is a Gradle plugin that codegens a base set of Android XML themes.
 
 ## OCaml
