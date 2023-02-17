@@ -62,16 +62,16 @@
 - [alibaba/RedAlert](https://github.com/alibaba/RedAlert) topic: pushed_at:2017-02 star:0.1k fork:0.0k RedAlert is a monitor service, which fetches metrics from service like ganglia and graphite. It finds abnormal among metrics and raise alarm via email.
 - [alibaba/SiliconFastOS](https://github.com/alibaba/SiliconFastOS) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [alibaba/system-register-tools](https://github.com/alibaba/system-register-tools) topic: pushed_at:2021-09 star:0.0k fork:0.0k system-register-tools: The tools are aiming to access the system registers for ARM platform. 
-- [alibaba/TairHash](https://github.com/alibaba/TairHash) topic:expiration,hash,module,redis,version pushed_at:2022-11 star:0.2k fork:0.0k A redis module, similar to redis hash, but you can set expiration and version for field.
+- [alibaba/TairHash](https://github.com/alibaba/TairHash) topic:expiration,hash,module,redis,version pushed_at:2023-02 star:0.2k fork:0.0k A redis module, similar to redis hash, but you can set expiration and version for field.
 - [alibaba/TairString](https://github.com/alibaba/TairString) topic:cad,cas,module,redis,string pushed_at:2022-10 star:0.1k fork:0.0k A redis module, similar to redis string, but you can set expire and version for the value. It also provides many very useful commands, such as cas/cad, etc.
 - [alibaba/TairZset](https://github.com/alibaba/TairZset) topic:module,multiple-scores,redis,zset pushed_at:2023-02 star:0.1k fork:0.0k A redis module, similar to redis zset, but you can set multiple scores for each member to support multi-dimensional sorting
 - [alibaba/tblive](https://github.com/alibaba/tblive) topic: pushed_at:2017-11 star:0.4k fork:0.2k 千牛主播tblive专注于PC上直播采集、推流的整体解决方案.
 - [alibaba/tblive-studio](https://github.com/alibaba/tblive-studio) topic: pushed_at:2018-05 star:0.1k fork:0.1k 本项目是淘宝直播pc客户端对应的开源项目，基于著名的开源软件OBS Studio打造；在其基础上，主要融合进去了淘宝直播相关的业务逻辑，另外对OBS进行了一些扩展和修复；淘宝直播PC客户端详情见（https://tblive.m.taobao.com/wow/tblive/act/tblivestudio-help）
 - [alibaba/TDH_Socket](https://github.com/alibaba/TDH_Socket) topic: pushed_at:2013-05 star:0.2k fork:0.1k TDH_Socket_Plugin_for_MySQL is a MySQL plugin which like HandlerSocket.
-- [alibaba/tengine](https://github.com/alibaba/tengine) topic:nginx,tengine pushed_at:2023-02 star:11.8k fork:2.5k A distribution of Nginx with some advanced features
+- [alibaba/tengine](https://github.com/alibaba/tengine) topic:nginx,tengine pushed_at:2023-02 star:11.9k fork:2.5k A distribution of Nginx with some advanced features
 - [alibaba/tsar](https://github.com/alibaba/tsar) topic: pushed_at:2022-02 star:2.4k fork:0.7k Taobao System Activity Reporter
 - [alibaba/tsar2db](https://github.com/alibaba/tsar2db) topic: pushed_at:2014-05 star:0.1k fork:0.1k used to store tsar data to mysql
-- [alibaba/xquic](https://github.com/alibaba/xquic) topic:http3,ietf,protocol,quic,tls13 pushed_at:2023-01 star:1.4k fork:0.3k XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.
+- [alibaba/xquic](https://github.com/alibaba/xquic) topic:http3,ietf,protocol,quic,tls13 pushed_at:2023-02 star:1.4k fork:0.3k XQUIC Library released by Alibaba is a cross-platform implementation of QUIC and HTTP/3 protocol.
 
 ## C#
 
@@ -99,16 +99,16 @@
 - [alibaba/hessian2-codec](https://github.com/alibaba/hessian2-codec) topic:dubbo,envoy,hessian2,serializer pushed_at:2022-10 star:0.0k fork:0.0k hessian2-codec it is a complete C++ implementation of hessian2 spec
 - [alibaba/heterogeneity-aware-lowering-and-optimization](https://github.com/alibaba/heterogeneity-aware-lowering-and-optimization) topic: pushed_at:2023-01 star:0.2k fork:0.1k heterogeneity-aware-lowering-and-optimization
 - [alibaba/hiactor](https://github.com/alibaba/hiactor) topic: pushed_at:2022-11 star:0.0k fork:0.0k Hiactor is an actor framework for building high-performance, concurrent and scalable event-driven systems using C++.
-- [alibaba/higress](https://github.com/alibaba/higress) topic:gateway,gateway-api,ingress,ingress-controller,microservice pushed_at:2023-02 star:0.8k fork:0.1k Next-generation Cloud Native Gateway | 下一代云原生网关
+- [alibaba/higress](https://github.com/alibaba/higress) topic:gateway,gateway-api,ingress,ingress-controller,microservice pushed_at:2023-02 star:0.9k fork:0.1k Next-generation Cloud Native Gateway | 下一代云原生网关
 - [alibaba/ilogtail](https://github.com/alibaba/ilogtail) topic:aliyun,apm,cloud-native,ebpf,observability,sls pushed_at:2023-02 star:1.1k fork:0.2k Fast and Lightweight Observability Data Collector
 - [alibaba/jsni](https://github.com/alibaba/jsni) topic: pushed_at:2018-09 star:0.0k fork:0.0k JavaScript Native Interface for JavaScript and C/C++
 - [alibaba/libgrape-lite](https://github.com/alibaba/libgrape-lite) topic:cxx,gnn,gpu,grape,graph,graph-algorithms,graph-theory,header-only,library,mpi,parallel pushed_at:2023-02 star:0.3k fork:0.1k 🍇 A C++ library for parallel graph processing (GRAPE) 🍇
 - [alibaba/mile](https://github.com/alibaba/mile) topic: pushed_at:2013-08 star:0.0k fork:0.0k schemaless的类sql分布式查询系统
-- [alibaba/MNN](https://github.com/alibaba/MNN) topic:arm,convolution,deep-learning,deep-neural-networks,embedded-devices,machine-learning,ml,mnn,vulkan,winograd-algorithm pushed_at:2023-01 star:7.3k fork:1.5k MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
+- [alibaba/MNN](https://github.com/alibaba/MNN) topic:arm,convolution,deep-learning,deep-neural-networks,embedded-devices,machine-learning,ml,mnn,vulkan,winograd-algorithm pushed_at:2023-02 star:7.3k fork:1.5k MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba
 - [alibaba/mongo](https://github.com/alibaba/mongo) topic: pushed_at:2016-12 star:0.0k fork:0.0k The MongoDB Database
 - [alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration](https://github.com/alibaba/multiple-cameras-and-3D-LiDARs-extrinsic-calibration) topic: pushed_at:2022-11 star:0.1k fork:0.0k This repo contains source code of our paper presented in IROS2021 "Single-Shot is Enough: Panoramic Infrastructure Based Calibration of Multiple Cameras and 3D LiDARs"
 - [alibaba/PhotonLibOS](https://github.com/alibaba/PhotonLibOS) topic:async-io,coroutine,cpp,fs-library,iouring,kernel-features,libos,net-library,posix,std pushed_at:2023-02 star:0.5k fork:0.1k Write fast and agile C++ programs with Photon!
-- [alibaba/proxima](https://github.com/alibaba/proxima) topic: pushed_at:2022-10 star:0.2k fork:0.0k 
+- [alibaba/proxima](https://github.com/alibaba/proxima) topic: pushed_at:2022-10 star:0.3k fork:0.0k 
 - [alibaba/qtbase](https://github.com/alibaba/qtbase) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [alibaba/sentinel-cpp](https://github.com/alibaba/sentinel-cpp) topic:cpp,hacktoberfest,microservice,rate-limiting,resilience pushed_at:2022-08 star:0.1k fork:0.0k C++ implementation of Sentinel
 - [alibaba/tair](https://github.com/alibaba/tair) topic: pushed_at:2019-11 star:2.0k fork:0.6k A distributed key-value storage system developed by Alibaba Group
@@ -117,7 +117,7 @@
 - [alibaba/weex](https://github.com/alibaba/weex) topic:android,ios,mobile,sdk,web,weex pushed_at:2022-12 star:18.0k fork:2.2k A framework for building Mobile cross-platform UI
 - [alibaba/weex_js_engine](https://github.com/alibaba/weex_js_engine) topic: pushed_at:2021-04 star:0.2k fork:0.1k 
 - [alibaba/xoc](https://github.com/alibaba/xoc) topic: pushed_at:2017-07 star:0.1k fork:0.1k XOC is a compiler infrastructure that provides multi-level operations, flexibility, and the capability of representing almost all popular languages. There are two level IR representations used throughout all phases of the compilation.
-- [alibaba/yalantinglibs](https://github.com/alibaba/yalantinglibs) topic: pushed_at:2023-02 star:0.4k fork:0.1k A collection of C++20 libraries, include async_simple, coro_rpc and struct_pack
+- [alibaba/yalantinglibs](https://github.com/alibaba/yalantinglibs) topic: pushed_at:2023-02 star:0.5k fork:0.1k A collection of C++20 libraries, include async_simple, coro_rpc and struct_pack
 
 ## CSS
 
@@ -133,7 +133,7 @@
 
 - [alibaba/fish-redux](https://github.com/alibaba/fish-redux) topic:adapter,aop,component,flutter,framework,functional-programming,reactive,redux pushed_at:2022-02 star:7.3k fork:0.8k An assembled flutter application framework.
 - [alibaba/flutter-go](https://github.com/alibaba/flutter-go) topic:dart,flutter,flutter-demo,flutter-doc pushed_at:2023-02 star:23.2k fork:3.8k flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
-- [alibaba/flutter_boost](https://github.com/alibaba/flutter_boost) topic:android,dart,flutter,hybrid-app,hybrid-flutter,ios pushed_at:2022-12 star:6.3k fork:1.1k FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
+- [alibaba/flutter_boost](https://github.com/alibaba/flutter_boost) topic:android,dart,flutter,hybrid-app,hybrid-flutter,ios pushed_at:2023-02 star:6.4k fork:1.1k FlutterBoost is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts
 - [alibaba/power_image](https://github.com/alibaba/power_image) topic:flutter,image pushed_at:2022-12 star:0.4k fork:0.0k A powerful plugin that fully uses the native image library's ability to display images on the flutter side.
 
 ## Go
@@ -143,7 +143,7 @@
 - [alibaba/derrick](https://github.com/alibaba/derrick) topic: pushed_at:2023-02 star:0.7k fork:0.1k 🐳A tool to help you containerize application in seconds
 - [alibaba/docker](https://github.com/alibaba/docker) topic: pushed_at:2015-05 star:0.1k fork:0.1k Docker - the open-source application container engine
 - [alibaba/etcd](https://github.com/alibaba/etcd) topic: pushed_at:2017-11 star:0.0k fork:0.0k Distributed reliable key-value store for the most critical data of a distributed system
-- [alibaba/git-repo-go](https://github.com/alibaba/git-repo-go) topic:agit-flow,git-repo pushed_at:2022-12 star:0.2k fork:0.1k git-repo is a command-line tool for centralized workflow, can work with Gerrit, AGit-Flow compatible servers. It is written in Golang, and it can be installed easily without further dependency. It provides an easy-to-use solution for multiple repositories which is introduced by Android repo first, and it can also work with a single repository.
+- [alibaba/git-repo-go](https://github.com/alibaba/git-repo-go) topic:agit-flow,git-repo pushed_at:2023-02 star:0.2k fork:0.1k git-repo is a command-line tool for centralized workflow, can work with Gerrit, AGit-Flow compatible servers. It is written in Golang, and it can be installed easily without further dependency. It provides an easy-to-use solution for multiple repositories which is introduced by Android repo first, and it can also work with a single repository.
 - [alibaba/hybridnet](https://github.com/alibaba/hybridnet) topic:bgp,cni,cni-plugin,container,hybrid-cloud,kubernetes,kubernetes-networking,networking,overlay-network,sdn,vlan,vxlan pushed_at:2023-02 star:0.2k fork:0.0k A CNI plugin, provides networking environment where overlay and underlay containers can run on the same node and have cluster-wide bidirectional network connectivity.
 - [alibaba/IOC-golang](https://github.com/alibaba/IOC-golang) topic:annotation,aop,debug,dependency-injection,golang,middleware,monkey,sdk,tag pushed_at:2023-02 star:1.0k fork:0.1k 一款服务于 Go 开发者的依赖注入框架，方便搭建任何 Go 应用。 A Golang depenedency injection framework, helps developers to build any go application.
 - [alibaba/jsonq](https://github.com/alibaba/jsonq) topic: pushed_at:2015-09 star:0.0k fork:0.0k simple json field access for golang
@@ -192,17 +192,17 @@
 - [alibaba/auto-doc](https://github.com/alibaba/auto-doc) topic: pushed_at:2022-10 star:0.0k fork:0.0k auto-doc
 - [alibaba/bulbasaur](https://github.com/alibaba/bulbasaur) topic: pushed_at:2022-08 star:0.7k fork:0.2k 💡 A pluggable, scalable process engine. You can use it to develop business-process, approval-process, retry-process and so on. Hope you enjoy it! 💖 可插拔的精简流程引擎，可快速实现流程、审批、业务失败重试等场景。
 - [alibaba/bytekit](https://github.com/alibaba/bytekit) topic: pushed_at:2023-01 star:0.3k fork:0.1k Java Bytecode Kit
-- [alibaba/canal](https://github.com/alibaba/canal) topic: pushed_at:2023-02 star:24.9k fork:7.1k 阿里巴巴 MySQL binlog 增量订阅&消费组件 
+- [alibaba/canal](https://github.com/alibaba/canal) topic: pushed_at:2023-02 star:25.0k fork:7.1k 阿里巴巴 MySQL binlog 增量订阅&消费组件 
 - [alibaba/cli](https://github.com/alibaba/cli) topic: pushed_at:2020-10 star:0.1k fork:0.0k 
 - [alibaba/cloud-native-app-initializer](https://github.com/alibaba/cloud-native-app-initializer) topic:cloud-native,cloud-native-app-initializer,initializer,microservices pushed_at:2023-01 star:0.1k fork:0.0k Cloud Native App Initializer is committed to providing developers with a simpler and more efficient project construction experience in the current cloud-native era.
 - [alibaba/cobar](https://github.com/alibaba/cobar) topic: pushed_at:2022-10 star:3.2k fork:1.2k a proxy for sharding databases and tables
 - [alibaba/cobarclient](https://github.com/alibaba/cobarclient) topic: pushed_at:2022-06 star:0.6k fork:0.4k 基于iBatis和Spring的轻量级分布式数据访问框架(DDAL)
-- [alibaba/COLA](https://github.com/alibaba/COLA) topic:architecture,clean,cola pushed_at:2023-02 star:9.0k fork:2.4k 🥤 COLA: Clean Object-oriented & Layered Architecture
+- [alibaba/COLA](https://github.com/alibaba/COLA) topic:architecture,clean,cola pushed_at:2023-02 star:9.1k fork:2.4k 🥤 COLA: Clean Object-oriented & Layered Architecture
 - [alibaba/compileflow](https://github.com/alibaba/compileflow) topic:alibaba,bpmn2,compile,flow,halo-platform,java,process,process-engine,spring pushed_at:2023-02 star:1.3k fork:0.2k 🎨 core business process engine of Alibaba Halo platform, best process engine for trade scenes. | 一个高性能流程编排引擎
 - [alibaba/compileflow-idea-designer](https://github.com/alibaba/compileflow-idea-designer) topic:alibaba,bpmn2,flow,idea-plugin,java pushed_at:2023-02 star:0.2k fork:0.1k 基于IntelliJ IDEA流程可视化插件: a good idea-plugin for Alibaba Compileflow process engine.
 - [alibaba/cooma](https://github.com/alibaba/cooma) topic: pushed_at:2021-06 star:0.2k fork:0.1k A simple and flexible microcontainer of Java
 - [alibaba/cost-based-incremental-optimizer](https://github.com/alibaba/cost-based-incremental-optimizer) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
-- [alibaba/DataX](https://github.com/alibaba/DataX) topic: pushed_at:2023-02 star:12.8k fork:4.6k DataX是阿里云DataWorks数据集成的开源版本。
+- [alibaba/DataX](https://github.com/alibaba/DataX) topic: pushed_at:2023-02 star:12.9k fork:4.6k DataX是阿里云DataWorks数据集成的开源版本。
 - [alibaba/dexposed](https://github.com/alibaba/dexposed) topic: pushed_at:2017-03 star:4.5k fork:1.1k dexposed enable 'god' mode for single android application.
 - [alibaba/diancai-tiny-app-demo](https://github.com/alibaba/diancai-tiny-app-demo) topic: pushed_at:2018-09 star:0.0k fork:0.0k 基于蚂蚁金融云的一个扫码点菜小程序demo
 - [alibaba/dragonwell11](https://github.com/alibaba/dragonwell11) topic: pushed_at:2023-02 star:0.5k fork:0.1k Alibaba Dragonwell11 JDK
@@ -219,20 +219,20 @@
 - [alibaba/druid-ha](https://github.com/alibaba/druid-ha) topic: pushed_at:2013-08 star:0.1k fork:0.1k 在Druid连接池上提供HA支持
 - [alibaba/dubbo-spring-boot-starter](https://github.com/alibaba/dubbo-spring-boot-starter) topic:dubbo,spring-boot pushed_at:2018-06 star:2.1k fork:0.8k Dubbo Spring Boot Starter
 - [alibaba/easy-retry](https://github.com/alibaba/easy-retry) topic: pushed_at:2021-12 star:0.1k fork:0.0k easy-retry
-- [alibaba/easyexcel](https://github.com/alibaba/easyexcel) topic:excel,java,jxl,oom,poi,xls,xlsx pushed_at:2023-02 star:26.6k fork:6.9k 快速、简洁、解决大文件内存溢出的java处理Excel工具
+- [alibaba/easyexcel](https://github.com/alibaba/easyexcel) topic:excel,java,jxl,oom,poi,xls,xlsx pushed_at:2023-02 star:26.7k fork:6.9k 快速、简洁、解决大文件内存溢出的java处理Excel工具
 - [alibaba/fast-modeling-language](https://github.com/alibaba/fast-modeling-language) topic:aliyun,java pushed_at:2022-12 star:0.0k fork:0.0k 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/276018.html) 团队出品，快速建模语言
 - [alibaba/fastFFI](https://github.com/alibaba/fastFFI) topic: pushed_at:2022-09 star:0.1k fork:0.0k 
 - [alibaba/fastjson](https://github.com/alibaba/fastjson) topic:android,best-performance,deserialization,fastjson,java,json,json-parser,json-serialization,json-serializer,serialization pushed_at:2023-01 star:25.2k fork:6.5k FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
-- [alibaba/fastjson2](https://github.com/alibaba/fastjson2) topic:android,big-data,deserialization,fastjson,fastjson2,graal,graalvm-native-image,high-performance,java,java-json,json,json-deserialization,json-parser,json-path,json-serialization,json-serializer,jsonb,serialization pushed_at:2023-02 star:2.4k fork:0.3k 🚄 FASTJSON2是FASTJSON项目的重要升级，目标是为下一个十年提供一个高性能的JSON库
+- [alibaba/fastjson2](https://github.com/alibaba/fastjson2) topic:android,big-data,deserialization,fastjson,fastjson2,graal,graalvm-native-image,high-performance,java,java-json,json,json-deserialization,json-parser,json-path,json-serialization,json-serializer,jsonb,serialization pushed_at:2023-02 star:2.4k fork:0.3k FASTJSON2 is a Java JSON  library with excellent performance.
 - [alibaba/flink](https://github.com/alibaba/flink) topic: pushed_at:2018-05 star:0.1k fork:0.0k Mirror of Apache Flink
 - [alibaba/freeline](https://github.com/alibaba/freeline) topic: pushed_at:2020-05 star:5.5k fork:0.6k A super fast build tool for Android, an alternative to Instant Run
-- [alibaba/innodb-java-reader](https://github.com/alibaba/innodb-java-reader) topic:command-line-tool,heatmap,innodb,java,mysql,mysql-database,mysqldump pushed_at:2022-06 star:0.3k fork:0.1k A library and command-line tool to access MySQL InnoDB data file directly in Java
+- [alibaba/innodb-java-reader](https://github.com/alibaba/innodb-java-reader) topic:command-line-tool,heatmap,innodb,java,mysql,mysql-database,mysqldump pushed_at:2022-06 star:0.4k fork:0.1k A library and command-line tool to access MySQL InnoDB data file directly in Java
 - [alibaba/java-dns-cache-manipulator](https://github.com/alibaba/java-dns-cache-manipulator) topic:dns,dns-cache,dns-cache-manipulator,domain-name,hacking,hacking-code,integration-testing,java,jvm,testing,threadsafe,unit-testing pushed_at:2023-02 star:0.8k fork:0.2k 🌏 A tiny 0-dependency thread-safe Java™ lib for setting/viewing dns programmatically without touching host file, make unit/integration testing portable; and a tiny tool for setting/viewing dns of running JVM process.
 - [alibaba/jetcache](https://github.com/alibaba/jetcache) topic:cache,java,jcache,redis,spring,spring-cache pushed_at:2023-01 star:3.8k fork:0.9k JetCache is a Java cache framework.
 - [alibaba/JsonLube](https://github.com/alibaba/JsonLube) topic:android pushed_at:2019-11 star:0.2k fork:0.0k 为了高效地将Json对象转化成Java bean对象，传统上我们是在运行是利用反射来实现。但是在移动平台上，面对复杂的Json，采用反射的方式往往性能比较差，为了追求极致的性能，我们可以采用Android原生的Json库进行解析。但是面对一个复杂的大Json，基于原生Json库去手动解析工作量太大，且容易出错。JsonLube是为此而设计的。JsonLube会在编译期自动生成Json解析代码，用户使用方式简单，但是却能收获原生解析的性能。
 - [alibaba/jstorm](https://github.com/alibaba/jstorm) topic: pushed_at:2022-11 star:3.9k fork:1.8k Enterprise Stream Process Engine
 - [alibaba/jvm-sandbox](https://github.com/alibaba/jvm-sandbox) topic: pushed_at:2023-01 star:5.8k fork:1.4k Real - time non-invasive AOP framework container based on JVM
-- [alibaba/jvm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater) topic: pushed_at:2022-11 star:2.0k fork:0.6k  A Java server-side recording and playback solution based on JVM-Sandbox
+- [alibaba/jvm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater) topic: pushed_at:2023-02 star:2.1k fork:0.6k  A Java server-side recording and playback solution based on JVM-Sandbox
 - [alibaba/ListItem](https://github.com/alibaba/ListItem) topic: pushed_at:2018-06 star:0.1k fork:0.0k ListItem可以让你更方便的开发列表页面，自动处理原adapter需要处理的一切事物。使开发人员专注于业务逻辑的开发，提高列表页面模块化和复用度。
 - [alibaba/logger.api](https://github.com/alibaba/logger.api) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [alibaba/LuaViewPlayground](https://github.com/alibaba/LuaViewPlayground) topic: pushed_at:2017-06 star:0.0k fork:0.0k LuaView playground for base functions and samples.
@@ -252,11 +252,11 @@
 - [alibaba/rpc-benchmark](https://github.com/alibaba/rpc-benchmark) topic: pushed_at:2019-04 star:0.0k fork:0.0k 
 - [alibaba/rsqldb](https://github.com/alibaba/rsqldb) topic: pushed_at:2023-02 star:0.1k fork:0.0k 
 - [alibaba/sca-best-practice](https://github.com/alibaba/sca-best-practice) topic:best-practice,microservice,spring-cloud,spring-cloud-alibaba pushed_at:2019-03 star:0.5k fork:0.1k 本项目是 SCA(Spring Cloud Alibaba) 官方的最佳实践项目，致力于帮助用户更加快速、正确的使用SCA。
-- [alibaba/Sentinel](https://github.com/alibaba/Sentinel) topic:alibaba,circuit-breaker,cloud-native,java,microservice,microservices,rate-limiting,reliability,resiliency pushed_at:2023-02 star:20.5k fork:7.4k A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
+- [alibaba/Sentinel](https://github.com/alibaba/Sentinel) topic:alibaba,circuit-breaker,cloud-native,java,microservice,microservices,rate-limiting,reliability,resiliency pushed_at:2023-02 star:20.5k fork:7.5k A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)
 - [alibaba/simpleel](https://github.com/alibaba/simpleel) topic:el,expression-language,java,simpleel pushed_at:2017-04 star:0.1k fork:0.1k Simple Expression Language
 - [alibaba/simplehbase](https://github.com/alibaba/simplehbase) topic: pushed_at:2016-08 star:0.2k fork:0.1k Simplehbase is a lightweight ORM framework between java app and hbase.
 - [alibaba/simpleimage](https://github.com/alibaba/simpleimage) topic: pushed_at:2018-03 star:1.0k fork:0.4k 
-- [alibaba/SmartEngine](https://github.com/alibaba/SmartEngine) topic: pushed_at:2022-12 star:0.6k fork:0.2k SmartEngine is a lightweight business orchestration engine.
+- [alibaba/SmartEngine](https://github.com/alibaba/SmartEngine) topic: pushed_at:2023-02 star:0.6k fork:0.2k SmartEngine is a lightweight business orchestration engine.
 - [alibaba/spring-boot-support](https://github.com/alibaba/spring-boot-support) topic:java,spring-boot,spring-boot-starter pushed_at:2020-10 star:0.0k fork:0.0k The support project for Spring Boot
 - [alibaba/spring-boot-web-support](https://github.com/alibaba/spring-boot-web-support) topic:java,spring,spring-boot,spring-web,spring-web-mvc pushed_at:2018-06 star:0.0k fork:0.0k An support project for Spring Boot Web
 - [alibaba/spring-cloud-alibaba](https://github.com/alibaba/spring-cloud-alibaba) topic:alibaba,alibaba-middleware,alibaba-oss,aliyun,circuit-breaker,cloud-native,distributed-configuration,distributed-messaging,distributed-transaction,dubbo,java,microservices,nacos,rocketmq,service-discovery,service-registry,spring,spring-cloud,spring-cloud-alibaba,spring-cloud-core pushed_at:2023-02 star:24.7k fork:7.6k Spring Cloud Alibaba provides a one-stop solution for application development for the distributed solutions of Alibaba middleware.
@@ -313,7 +313,7 @@
 - [alibaba/plover](https://github.com/alibaba/plover) topic:koa,nodejs,webframework pushed_at:2020-07 star:0.3k fork:0.1k 专注于模块化的NodeJs Web框架
 - [alibaba/rax](https://github.com/alibaba/rax) topic:framework,javascript,miniapp,mobile,pwa,rax,ssr,typescript,universal,web,weex pushed_at:2023-01 star:7.9k fork:0.7k 🐰 Rax is a progressive framework for building universal application. https://rax.js.org
 - [alibaba/rax-map](https://github.com/alibaba/rax-map) topic: pushed_at:2021-01 star:0.1k fork:0.0k 基于 rax 与高德地图，快速开发无线地图类业务需求
-- [alibaba/react-intl-universal](https://github.com/alibaba/react-intl-universal) topic: pushed_at:2023-01 star:1.3k fork:0.2k Internationalize React apps. Not only for Component but also for Vanilla JS.
+- [alibaba/react-intl-universal](https://github.com/alibaba/react-intl-universal) topic: pushed_at:2023-02 star:1.3k fork:0.2k Internationalize React apps. Not only for Component but also for Vanilla JS.
 - [alibaba/scalable-form-platform](https://github.com/alibaba/scalable-form-platform) topic:ant-design,ant-design-mobile,form,javascript,json,json-schema,node,react,solution,ui,ui-components,web pushed_at:2020-08 star:0.1k fork:0.0k A solution for building dynamic web forms with visual editor
 - [alibaba/schema-plugin-flow](https://github.com/alibaba/schema-plugin-flow) topic:ant-design,ant-design-vue,drag-and-drop,extend-plugins,extensible,form,fusion,js-framework,low-code,plugin,react,react-drag-and-drop,schema,schema-plugin-flow,schema-render,sifo,vue,vue-drag-and-drop pushed_at:2023-01 star:0.4k fork:0.0k A highly extensible JavaScript library, abbreviated as Sifo. 一个高扩展性、可二开的插件式前端开发框架
 - [alibaba/sentinel-nodejs](https://github.com/alibaba/sentinel-nodejs) topic: pushed_at:2021-03 star:0.0k fork:0.0k Sentinel Node.js polyglot version
@@ -337,7 +337,7 @@
 
 ## Kotlin
 
-- [alibaba/p3c](https://github.com/alibaba/p3c) topic: pushed_at:2022-09 star:28.8k fork:7.9k Alibaba Java Coding Guidelines pmd implements and IDE plugin
+- [alibaba/p3c](https://github.com/alibaba/p3c) topic: pushed_at:2023-02 star:28.8k fork:7.9k Alibaba Java Coding Guidelines pmd implements and IDE plugin
 
 ## LLVM
 
@@ -366,7 +366,7 @@
 - [alibaba/Alibaba-Java-Coding-Guidelines](https://github.com/alibaba/Alibaba-Java-Coding-Guidelines) topic: pushed_at:2023-01 star:0.9k fork:0.2k Gitbook for AJCG
 - [alibaba/Alibaba-MIT-Speech](https://github.com/alibaba/Alibaba-MIT-Speech) topic: pushed_at:2018-07 star:0.9k fork:0.3k Alibaba speech technology
 - [alibaba/block-traces](https://github.com/alibaba/block-traces) topic: pushed_at:2022-02 star:0.1k fork:0.0k 
-- [alibaba/CNStackCommunityEdition](https://github.com/alibaba/CNStackCommunityEdition) topic: pushed_at:2023-01 star:0.0k fork:0.0k CNStack Community Edition
+- [alibaba/CNStackCommunityEdition](https://github.com/alibaba/CNStackCommunityEdition) topic: pushed_at:2023-02 star:0.0k fork:0.0k CNStack Community Edition
 - [alibaba/community](https://github.com/alibaba/community) topic: pushed_at:2019-04 star:0.0k fork:0.0k The community common description for Alibaba
 - [alibaba/data-design](https://github.com/alibaba/data-design) topic: pushed_at:2021-01 star:0.0k fork:0.0k 数据场景的UI组件，加速构建专业的数据类产品
 - [alibaba/Dummy-RISC-V-VPU](https://github.com/alibaba/Dummy-RISC-V-VPU) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
@@ -402,7 +402,7 @@
 
 - [alibaba/acm-sdk-python](https://github.com/alibaba/acm-sdk-python) topic: pushed_at:2021-11 star:0.1k fork:0.0k Alibaba ACM SDK for Python
 - [alibaba/acqdp](https://github.com/alibaba/acqdp) topic: pushed_at:2022-05 star:0.1k fork:0.0k Alibaba Cloud - Quantum Development Platform
-- [alibaba/alibaba.alicloud](https://github.com/alibaba/alibaba.alicloud) topic: pushed_at:2022-09 star:0.2k fork:0.1k 
+- [alibaba/alibaba.alicloud](https://github.com/alibaba/alibaba.alicloud) topic: pushed_at:2023-02 star:0.2k fork:0.1k 
 - [alibaba/AliceMind](https://github.com/alibaba/AliceMind) topic:bert,deep-learning,natural-language-processing,nlp pushed_at:2022-10 star:1.5k fork:0.2k ALIbaba's Collection of Encoder-decoders from MinD (Machine IntelligeNce of Damo) Lab
 - [alibaba/alimama-common-performance-platform-acp](https://github.com/alibaba/alimama-common-performance-platform-acp) topic: pushed_at:2022-06 star:0.2k fork:0.1k common-performance platform&tools(acp)   c++/python.  分布式性能测试工具
 - [alibaba/ansible-provider-docs](https://github.com/alibaba/ansible-provider-docs) topic: pushed_at:2021-11 star:0.0k fork:0.0k 
@@ -443,10 +443,10 @@
 - [alibaba/SUMN-universal-user-representation](https://github.com/alibaba/SUMN-universal-user-representation) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
 - [alibaba/t-game-sdk](https://github.com/alibaba/t-game-sdk) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [alibaba/tair-py](https://github.com/alibaba/tair-py) topic: pushed_at:2023-01 star:0.0k fork:0.0k A Python client of Tair based on redis-py
-- [alibaba/taobao-iphone-device](https://github.com/alibaba/taobao-iphone-device) topic:ios,iphone,usbmuxd,wda pushed_at:2023-01 star:1.8k fork:0.4k  tidevice can be used to communicate with iPhone device
+- [alibaba/taobao-iphone-device](https://github.com/alibaba/taobao-iphone-device) topic:ios,iphone,usbmuxd,wda pushed_at:2023-02 star:1.8k fork:0.4k  tidevice can be used to communicate with iPhone device
 - [alibaba/tgin](https://github.com/alibaba/tgin) topic: pushed_at:2021-06 star:0.0k fork:0.0k 
 - [alibaba/TinyNeuralNetwork](https://github.com/alibaba/TinyNeuralNetwork) topic:deep-learning,deep-neural-networks,model-compression,model-converter,post-training-quantization,pruning,pytorch,quantization-aware-training pushed_at:2023-02 star:0.5k fork:0.1k TinyNeuralNetwork is an efficient and easy-to-use deep learning model compression framework.
-- [alibaba/UniFuse-Unidirectional-Fusion](https://github.com/alibaba/UniFuse-Unidirectional-Fusion) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
+- [alibaba/UniFuse-Unidirectional-Fusion](https://github.com/alibaba/UniFuse-Unidirectional-Fusion) topic: pushed_at:2021-09 star:0.1k fork:0.0k 
 
 ## Rust
 
@@ -481,26 +481,26 @@
 - [alibaba/ChatUI](https://github.com/alibaba/ChatUI) topic:chat,chatbot,react,ui pushed_at:2022-12 star:1.6k fork:0.2k The UI design language and React library for Conversational UI
 - [alibaba/cloud-charts](https://github.com/alibaba/cloud-charts) topic: pushed_at:2023-02 star:0.4k fork:0.1k 开箱即用的前端图表库，简单配置就能拥有漂亮的可视化图表
 - [alibaba/collabobot](https://github.com/alibaba/collabobot) topic: pushed_at:2022-04 star:0.0k fork:0.0k A collaborate robot for GitHub open source repositories. Auto weekly report, auto issue label, auto issue translation, etc.
-- [alibaba/designable](https://github.com/alibaba/designable) topic:builder,designable,designer,editor,form,react pushed_at:2022-12 star:2.5k fork:0.5k 🧩 Make everything designable 🧩 
+- [alibaba/designable](https://github.com/alibaba/designable) topic:builder,designable,designer,editor,form,react pushed_at:2022-12 star:2.6k fork:0.5k 🧩 Make everything designable 🧩 
 - [alibaba/form-driver](https://github.com/alibaba/form-driver) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
-- [alibaba/formily](https://github.com/alibaba/formily) topic:ant-design,designable,form,form-builder,fusion,json-schema,json-schema-form,low-code,no-code,observable,react,react-form,react-native,reactive,schema-form,validator,vue,vue-form,vue3 pushed_at:2023-02 star:9.1k fork:1.3k 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
+- [alibaba/formily](https://github.com/alibaba/formily) topic:ant-design,designable,form,form-builder,fusion,json-schema,json-schema-form,low-code,no-code,observable,react,react-form,react-native,reactive,schema-form,validator,vue,vue-form,vue3 pushed_at:2023-02 star:9.2k fork:1.3k 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 - [alibaba/formily-editor](https://github.com/alibaba/formily-editor) topic: pushed_at:2020-11 star:0.2k fork:0.0k SchemaEditor
 - [alibaba/G3D](https://github.com/alibaba/G3D) topic:3d,g3d,gcanvas,hybrid,react-native,webgl,weex pushed_at:2019-04 star:1.0k fork:0.1k A pure 3D render engine compatible with webgl, running both in browser and gcanvas.
 - [alibaba/GaiaMeasure](https://github.com/alibaba/GaiaMeasure) topic:sketch-measure pushed_at:2022-03 star:0.0k fork:0.0k 该库是Sketch插件中的【导出标注】功能的一部分，通过此项目生成标注模板，产物集成在设计师插件中，通过和插件导出设计稿的数据，生成可供开发参考的标注文件
 - [alibaba/general-scene-interface](https://github.com/alibaba/general-scene-interface) topic:web3d pushed_at:2023-01 star:0.0k fork:0.0k Build Your Web3D Programs With a Paradigm.
 - [alibaba/GGEditor](https://github.com/alibaba/GGEditor) topic:editor,graphics,mind,react,tree pushed_at:2020-09 star:3.3k fork:0.6k A visual graph editor based on G6 and React
-- [alibaba/hooks](https://github.com/alibaba/hooks) topic:ahooks,hooks-library,react,react-hooks,umi-hooks pushed_at:2023-02 star:11.3k fork:2.1k A high-quality & reliable React Hooks library.
+- [alibaba/hooks](https://github.com/alibaba/hooks) topic:ahooks,hooks-library,react,react-hooks,umi-hooks pushed_at:2023-02 star:11.4k fork:2.1k A high-quality & reliable React Hooks library.
 - [alibaba/ice](https://github.com/alibaba/ice) topic:framework,icejs,microfrontends,mpa,nodejs,react,react-router,serverless,spa,ssr,typescript,vite,webpack pushed_at:2023-02 star:17.5k fork:2.1k 🚀 ice.js: The Progressive App Framework Based On React（基于 React 的渐进式应用框架）
 - [alibaba/kiwi](https://github.com/alibaba/kiwi) topic:g11n,i18n,intl,translation,typescript pushed_at:2023-01 star:2.2k fork:0.2k 🐤 Kiwi-国际化翻译全流程解决方案
 - [alibaba/lightproxy](https://github.com/alibaba/lightproxy) topic:chrome,debug,devtools,electron,light,lightproxy,proxy,typescript,whistle pushed_at:2022-09 star:2.9k fork:0.2k 💎 Cross platform Web debugging proxy
 - [alibaba/lowcode-code-generator-demo](https://github.com/alibaba/lowcode-code-generator-demo) topic:alibaba,low-code,lowcode pushed_at:2022-09 star:0.0k fork:0.0k An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [alibaba/lowcode-datasource](https://github.com/alibaba/lowcode-datasource) topic:alibaba,low-code,lowcode pushed_at:2022-12 star:0.0k fork:0.0k An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
-- [alibaba/lowcode-demo](https://github.com/alibaba/lowcode-demo) topic:alibaba,low-code,lowcode pushed_at:2023-02 star:0.9k fork:0.3k An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
-- [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) topic:alibaba,low-code,lowcode pushed_at:2023-02 star:9.1k fork:1.5k An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
+- [alibaba/lowcode-demo](https://github.com/alibaba/lowcode-demo) topic:alibaba,low-code,lowcode pushed_at:2023-02 star:1.0k fork:0.4k An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
+- [alibaba/lowcode-engine](https://github.com/alibaba/lowcode-engine) topic:alibaba,low-code,lowcode pushed_at:2023-02 star:9.9k fork:1.6k An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [alibaba/lowcode-engine-ext](https://github.com/alibaba/lowcode-engine-ext) topic:alibaba,low-code,lowcode pushed_at:2023-01 star:0.1k fork:0.1k An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [alibaba/lowcode-materials](https://github.com/alibaba/lowcode-materials) topic:alibaba,low-code,lowcode pushed_at:2023-02 star:0.2k fork:0.1k An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [alibaba/lowcode-plugins](https://github.com/alibaba/lowcode-plugins) topic:alibaba,low-code,lowcode pushed_at:2023-02 star:0.1k fork:0.1k An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
-- [alibaba/lowcode-tools](https://github.com/alibaba/lowcode-tools) topic:alibaba,low-code,lowcode pushed_at:2023-01 star:0.1k fork:0.0k An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
+- [alibaba/lowcode-tools](https://github.com/alibaba/lowcode-tools) topic:alibaba,low-code,lowcode pushed_at:2023-02 star:0.1k fork:0.1k An enterprise-class low-code technology stack with scale-out design / 一套面向扩展设计的企业级低代码技术体系
 - [alibaba/MiniOptimizer](https://github.com/alibaba/MiniOptimizer) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
 - [alibaba/pipcook](https://github.com/alibaba/pipcook) topic:js,machine-learning,pipeline,tensorflow pushed_at:2023-02 star:2.4k fork:0.2k Machine learning platform for Web developers
 - [alibaba/pont](https://github.com/alibaba/pont) topic:mock-data,pont,swagger,typescript pushed_at:2023-02 star:2.8k fork:0.2k 🌉数据服务层解决方案

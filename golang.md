@@ -28,7 +28,7 @@
 - [golang/gddo](https://github.com/golang/gddo) topic: pushed_at:2021-01 star:1.1k fork:0.3k Go Doc Dot Org
 - [golang/geo](https://github.com/golang/geo) topic:geometry,geometry-library,go,sphere pushed_at:2023-01 star:1.5k fork:0.2k S2 geometry library in Go
 - [golang/glog](https://github.com/golang/glog) topic: pushed_at:2023-02 star:3.3k fork:0.9k Leveled execution logs for Go
-- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2023-02 star:108.4k fork:15.9k The Go programming language
+- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2023-02 star:108.6k fork:15.9k The Go programming language
 - [golang/go-get-issue-15410](https://github.com/golang/go-get-issue-15410) topic: pushed_at:2020-08 star:0.0k fork:0.0k go-get-issue-15410
 - [golang/gofrontend](https://github.com/golang/gofrontend) topic: pushed_at:2022-12 star:0.8k fork:0.1k Go compiler frontend (gccgo)
 - [golang/groupcache](https://github.com/golang/groupcache) topic: pushed_at:2022-10 star:12.0k fork:1.3k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
@@ -38,13 +38,13 @@
 - [golang/mobile](https://github.com/golang/mobile) topic: pushed_at:2022-11 star:5.3k fork:0.7k [mirror] Go on Mobile
 - [golang/mock](https://github.com/golang/mock) topic: pushed_at:2023-02 star:8.5k fork:0.6k GoMock is a mocking framework for the Go programming language.
 - [golang/mod](https://github.com/golang/mod) topic: pushed_at:2023-02 star:0.2k fork:0.1k [mirror] Go module mechanics libraries
-- [golang/net](https://github.com/golang/net) topic: pushed_at:2023-02 star:2.6k fork:1.1k [mirror] Go supplementary network libraries
-- [golang/oauth2](https://github.com/golang/oauth2) topic:go,golang,oauth2,oauth2-client pushed_at:2023-02 star:4.5k fork:0.9k Go OAuth2
+- [golang/net](https://github.com/golang/net) topic: pushed_at:2023-02 star:2.7k fork:1.1k [mirror] Go supplementary network libraries
+- [golang/oauth2](https://github.com/golang/oauth2) topic:go,golang,oauth2,oauth2-client pushed_at:2023-02 star:4.6k fork:0.9k Go OAuth2
 - [golang/perf](https://github.com/golang/perf) topic: pushed_at:2023-01 star:0.3k fork:0.1k [mirror] Performance measurement, storage, and analysis.
 - [golang/pkgsite](https://github.com/golang/pkgsite) topic: pushed_at:2023-02 star:1.0k fork:0.1k [mirror] Home of the pkg.go.dev website
 - [golang/pkgsite-metrics](https://github.com/golang/pkgsite-metrics) topic: pushed_at:2023-02 star:0.0k fork:0.0k Code to serve pkg.go.dev/metrics [mirror]
 - [golang/playground](https://github.com/golang/playground) topic: pushed_at:2023-02 star:0.7k fork:0.2k [mirror] The Go Playground
-- [golang/proposal](https://github.com/golang/proposal) topic: pushed_at:2023-01 star:3.1k fork:0.4k Go Project Design Documents
+- [golang/proposal](https://github.com/golang/proposal) topic: pushed_at:2023-02 star:3.1k fork:0.4k Go Project Design Documents
 - [golang/protobuf](https://github.com/golang/protobuf) topic:go,golang,protobuf,protocol-buffers pushed_at:2022-11 star:8.9k fork:1.6k Go support for Google's protocol buffers
 - [golang/review](https://github.com/golang/review) topic: pushed_at:2022-11 star:0.1k fork:0.0k [mirror] Tool for working with Gerrit code reviews
 - [golang/scratch](https://github.com/golang/scratch) topic: pushed_at:2022-09 star:0.0k fork:0.0k [mirror] repository used for testing
