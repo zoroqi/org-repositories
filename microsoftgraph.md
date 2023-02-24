@@ -45,7 +45,6 @@
 - [microsoftgraph/console-calendar-sample](https://github.com/microsoftgraph/console-calendar-sample) topic: pushed_at:2019-05 star:0.0k fork:0.0k 
 - [microsoftgraph/console-csharp-connect-sample](https://github.com/microsoftgraph/console-csharp-connect-sample) topic: pushed_at:2020-05 star:0.0k fork:0.0k [ARCHIVED] This sample shows how to connect a Windows console application to a Microsoft work or school (Azure Active Directory) or personal (Microsoft) account using the Microsoft Graph API to send an email. 
 - [microsoftgraph/console-csharp-snippets-sample](https://github.com/microsoftgraph/console-csharp-snippets-sample) topic: pushed_at:2020-05 star:0.0k fork:0.0k [ARCHIVED] This Windows console app demonstrates how to perform various operations using the Microsoft Graph client library with both delegated and application permissions. This sample uses the Microsoft Authentication Library (MSAL) for authentication on the Azure AD v2.0 endpoint. 
-- [microsoftgraph/consoleApp-deltaQuery-dotNet-sample](https://github.com/microsoftgraph/consoleApp-deltaQuery-dotNet-sample) topic: pushed_at:2020-05 star:0.0k fork:0.0k This console application demonstrates how to make Delta Query calls to the Graph API, allowing applications to request only changed data from Microsoft Graph tenants.
 - [microsoftgraph/contoso-airlines-azure-functions-sample](https://github.com/microsoftgraph/contoso-airlines-azure-functions-sample) topic: pushed_at:2021-04 star:0.0k fork:0.0k [ARCHIVED]
 - [microsoftgraph/csdl-diagrams](https://github.com/microsoftgraph/csdl-diagrams) topic: pushed_at:2022-10 star:0.0k fork:0.0k Libraries and tools to process OData CSDL files and visualize them as diagrams.
 - [microsoftgraph/CsdlToDiagram](https://github.com/microsoftgraph/CsdlToDiagram) topic: pushed_at:2022-11 star:0.0k fork:0.0k Simple console app and supporting library to generate PlantUML diagrams from an OData CSDL file.
@@ -69,6 +68,7 @@
 - [microsoftgraph/msgraph-sample-aspnet-core](https://github.com/microsoftgraph/msgraph-sample-aspnet-core) topic:asp-net-core,microsoft-graph pushed_at:2023-02 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from ASP.NET Core apps.
 - [microsoftgraph/msgraph-sample-azurefunction-csharp](https://github.com/microsoftgraph/msgraph-sample-azurefunction-csharp) topic:azure-functions,csharp,microsoft-graph pushed_at:2023-02 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Azure Functions.
 - [microsoftgraph/msgraph-sample-botframework](https://github.com/microsoftgraph/msgraph-sample-botframework) topic:bot-framework,microsoft-graph pushed_at:2023-02 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Microsoft Bot Framework bots.
+- [microsoftgraph/msgraph-sample-deltaquery](https://github.com/microsoftgraph/msgraph-sample-deltaquery) topic: pushed_at:2023-02 star:0.0k fork:0.0k This console application demonstrates how to make Delta Query calls to the Graph API, allowing applications to request only changed data from Microsoft Graph tenants.
 - [microsoftgraph/msgraph-sample-maui](https://github.com/microsoftgraph/msgraph-sample-maui) topic: pushed_at:2023-02 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from .NET MAUI apps.
 - [microsoftgraph/msgraph-sample-uwp](https://github.com/microsoftgraph/msgraph-sample-uwp) topic:microsoft-graph,uwp pushed_at:2023-01 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from UWP apps.
 - [microsoftgraph/msgraph-samples-dashboard](https://github.com/microsoftgraph/msgraph-samples-dashboard) topic: pushed_at:2023-02 star:0.0k fork:0.0k Dashboard for msgraph samples
@@ -112,7 +112,7 @@
 - [microsoftgraph/meetings-capture-sample](https://github.com/microsoftgraph/meetings-capture-sample) topic: pushed_at:2023-01 star:0.0k fork:0.0k A Microsoft Teams solution that helps teams capture meeting minute notes inside individual channels
 - [microsoftgraph/msgraph-sample-blazor-clientside](https://github.com/microsoftgraph/msgraph-sample-blazor-clientside) topic:blazor,microsoft-graph pushed_at:2023-02 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Blazor WebAssembly apps.
 - [microsoftgraph/msgraph-sample-teamsapp-dotnet](https://github.com/microsoftgraph/msgraph-sample-teamsapp-dotnet) topic:microsoft-graph,microsoft-teams pushed_at:2023-02 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Microsoft Teams apps.
-- [microsoftgraph/python-security-rest-sample](https://github.com/microsoftgraph/python-security-rest-sample) topic: pushed_at:2022-11 star:0.1k fork:0.0k This sample shows how to connect your Python web app to the Security API using Microsoft Graph. 
+- [microsoftgraph/python-security-rest-sample](https://github.com/microsoftgraph/python-security-rest-sample) topic: pushed_at:2023-02 star:0.1k fork:0.0k This sample shows how to connect your Python web app to the Security API using Microsoft Graph. 
 
 ## Java
 
@@ -185,7 +185,7 @@
 
 - [microsoftgraph/.github](https://github.com/microsoftgraph/.github) topic: pushed_at:2023-01 star:0.0k fork:0.0k MicrosoftGraph GitHub organization configuration
 - [microsoftgraph/g-raph](https://github.com/microsoftgraph/g-raph) topic: pushed_at:2019-05 star:0.0k fork:0.0k Artwork for our g-raph (giraffe)
-- [microsoftgraph/microsoft-graph-comms-samples](https://github.com/microsoftgraph/microsoft-graph-comms-samples) topic: pushed_at:2022-12 star:0.2k fork:0.2k Microsoft Graph Communications Samples
+- [microsoftgraph/microsoft-graph-comms-samples](https://github.com/microsoftgraph/microsoft-graph-comms-samples) topic: pushed_at:2023-02 star:0.2k fork:0.2k Microsoft Graph Communications Samples
 - [microsoftgraph/microsoftgraph-postman-collections](https://github.com/microsoftgraph/microsoftgraph-postman-collections) topic: pushed_at:2021-07 star:0.3k fork:0.1k 
 - [microsoftgraph/msgraph-access-files-data](https://github.com/microsoftgraph/msgraph-access-files-data) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-access-group-data](https://github.com/microsoftgraph/msgraph-access-group-data) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
@@ -217,16 +217,16 @@
 
 - [microsoftgraph/group-membership-management-tenant](https://github.com/microsoftgraph/group-membership-management-tenant) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [microsoftgraph/M365Insights](https://github.com/microsoftgraph/M365Insights) topic: pushed_at:2022-11 star:0.0k fork:0.0k Steps for admins to set up an automated Workplace Analytics query data export to Azure with PowerShell
-- [microsoftgraph/microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) topic:microsoft-graph-documentation pushed_at:2023-02 star:1.0k fork:1.8k Documentation for the Microsoft Graph REST API
+- [microsoftgraph/microsoft-graph-docs](https://github.com/microsoftgraph/microsoft-graph-docs) topic:microsoft-graph-documentation pushed_at:2023-02 star:1.1k fork:1.8k Documentation for the Microsoft Graph REST API
 - [microsoftgraph/microsoft-graph-docs.pt-BR](https://github.com/microsoftgraph/microsoft-graph-docs.pt-BR) topic: pushed_at:2023-02 star:0.0k fork:0.0k Documentation for the Microsoft Graph REST API for Portuguese
 - [microsoftgraph/microsoft-graph-docs.ru-RU](https://github.com/microsoftgraph/microsoft-graph-docs.ru-RU) topic: pushed_at:2023-02 star:0.0k fork:0.0k Documentation for the Microsoft Graph REST API for Russian
 - [microsoftgraph/microsoft-graph-docs.zh-CN](https://github.com/microsoftgraph/microsoft-graph-docs.zh-CN) topic: pushed_at:2023-02 star:0.0k fork:0.0k Documentation for the Microsoft Graph REST API for Chinese(Simplified)
 - [microsoftgraph/microsoft-graph-training](https://github.com/microsoftgraph/microsoft-graph-training) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-sdk-powershell](https://github.com/microsoftgraph/msgraph-sdk-powershell) topic:cmdlets,graph,microsoft,powershell,powershell-modules,powershell-sdk pushed_at:2023-02 star:0.5k fork:0.1k Powershell SDK for Microsoft Graph
-- [microsoftgraph/msgraph-training-powershell](https://github.com/microsoftgraph/msgraph-training-powershell) topic: pushed_at:2022-12 star:0.0k fork:0.0k Completed project for Build PowerShell apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-powershell](https://github.com/microsoftgraph/msgraph-training-powershell) topic: pushed_at:2023-02 star:0.0k fork:0.0k Completed project for Build PowerShell apps with Microsoft Graph
 - [microsoftgraph/msgraph-typescript-typings](https://github.com/microsoftgraph/msgraph-typescript-typings) topic:intellisense,microsoft-graph-models,microsoft-graph-typescript,typescript-definitions pushed_at:2023-02 star:0.1k fork:0.0k Microsoft Graph TypeScript Type Definitions
 - [microsoftgraph/powershell-aad-samples](https://github.com/microsoftgraph/powershell-aad-samples) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
-- [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) topic: pushed_at:2023-02 star:1.0k fork:0.5k This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
+- [microsoftgraph/powershell-intune-samples](https://github.com/microsoftgraph/powershell-intune-samples) topic: pushed_at:2023-02 star:1.0k fork:0.6k This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.
 
 ## Pug
 
