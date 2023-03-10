@@ -28,12 +28,12 @@
 ## C++
 
 - [deepmind/code_contests](https://github.com/deepmind/code_contests) topic: pushed_at:2023-01 star:1.7k fork:0.2k 
-- [deepmind/lab2d](https://github.com/deepmind/lab2d) topic:artificial-intelligence,deep-learning,machine-learning pushed_at:2023-01 star:0.4k fork:0.0k A customisable 2D platform for agent-based AI research
+- [deepmind/lab2d](https://github.com/deepmind/lab2d) topic:artificial-intelligence,deep-learning,machine-learning pushed_at:2023-03 star:0.4k fork:0.0k A customisable 2D platform for agent-based AI research
 - [deepmind/labmaze](https://github.com/deepmind/labmaze) topic: pushed_at:2022-11 star:0.0k fork:0.0k A standalone release of DeepMind Lab's maze generator with Python bindings.
 - [deepmind/mujoco_mpc](https://github.com/deepmind/mujoco_mpc) topic:model-predictive-control,motor-control,mpc,mpc-control,mujoco,predictive-control pushed_at:2023-03 star:0.3k fork:0.0k Real-time behaviour synthesis with MuJoCo, using Predictive Control
 - [deepmind/multidim-image-augmentation](https://github.com/deepmind/multidim-image-augmentation) topic: pushed_at:2021-07 star:0.1k fork:0.0k This package provides TensorFlow Ops for multidimensional volumetric image augmentation.
 - [deepmind/open_spiel](https://github.com/deepmind/open_spiel) topic:cpp,games,multiagent,python,reinforcement-learning pushed_at:2023-03 star:3.6k fork:0.8k OpenSpiel is a collection of environments and algorithms for research in general reinforcement learning and search/planning in games.
-- [deepmind/reverb](https://github.com/deepmind/reverb) topic: pushed_at:2023-02 star:0.6k fork:0.1k Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research
+- [deepmind/reverb](https://github.com/deepmind/reverb) topic: pushed_at:2023-03 star:0.6k fork:0.1k Reverb is an efficient and easy-to-use data storage and transport system designed for machine learning research
 - [deepmind/s6](https://github.com/deepmind/s6) topic: pushed_at:2022-09 star:0.1k fork:0.0k 
 - [deepmind/spiral](https://github.com/deepmind/spiral) topic: pushed_at:2019-10 star:0.3k fork:0.0k We provide a pre-trained model for unconditional 19-step generation of CelebA-HQ images
 - [deepmind/streetlearn](https://github.com/deepmind/streetlearn) topic: pushed_at:2020-07 star:0.3k fork:0.1k A C++/Python implementation of the StreetLearn environment based on images from Street View, as well as a TensorFlow implementation of goal-driven navigation agents solving the task published in “Learning to Navigate in Cities Without a Map”, NeurIPS 2018
@@ -104,7 +104,7 @@
 - [deepmind/boxoban-levels](https://github.com/deepmind/boxoban-levels) topic: pushed_at:2022-12 star:0.1k fork:0.0k This repository contains levels for boxoban, a box-pushing puzzle game inspired by Sokoban.
 - [deepmind/card2code](https://github.com/deepmind/card2code) topic: pushed_at:2017-12 star:0.2k fork:0.0k A code generation dataset for generating the code that implements Hearthstone and Magic The Gathering card effects.
 - [deepmind/deep-compressed-sensing](https://github.com/deepmind/deep-compressed-sensing) topic: pushed_at:2019-11 star:0.0k fork:0.0k 
-- [deepmind/jax](https://github.com/deepmind/jax) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
+- [deepmind/jax](https://github.com/deepmind/jax) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [deepmind/luastyle](https://github.com/deepmind/luastyle) topic: pushed_at:2015-12 star:0.0k fork:0.0k Style guide for Lua code.
 - [deepmind/multiself](https://github.com/deepmind/multiself) topic: pushed_at:2017-11 star:0.1k fork:0.0k A vision network trained via large-scale multi-task self-supervised learning
 - [deepmind/pg19](https://github.com/deepmind/pg19) topic: pushed_at:2020-02 star:0.2k fork:0.0k 
@@ -117,20 +117,20 @@
 ## Python
 
 - [deepmind/abcei_mab](https://github.com/deepmind/abcei_mab) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
-- [deepmind/acme](https://github.com/deepmind/acme) topic:agents,reinforcement-learning,research pushed_at:2023-02 star:3.0k fork:0.4k A library of reinforcement learning components and agents
+- [deepmind/acme](https://github.com/deepmind/acme) topic:agents,reinforcement-learning,research pushed_at:2023-03 star:3.0k fork:0.4k A library of reinforcement learning components and agents
 - [deepmind/active_ops](https://github.com/deepmind/active_ops) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
 - [deepmind/affordances_option_models](https://github.com/deepmind/affordances_option_models) topic: pushed_at:2021-11 star:0.0k fork:0.0k 
 - [deepmind/agent_debugger](https://github.com/deepmind/agent_debugger) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [deepmind/ai-safety-gridworlds](https://github.com/deepmind/ai-safety-gridworlds) topic: pushed_at:2022-05 star:0.6k fork:0.1k This is a suite of reinforcement learning environments illustrating various safety properties of intelligent agents.
-- [deepmind/alphafold](https://github.com/deepmind/alphafold) topic: pushed_at:2023-02 star:9.9k fork:1.7k Open source code for AlphaFold.
+- [deepmind/alphafold](https://github.com/deepmind/alphafold) topic: pushed_at:2023-03 star:9.9k fork:1.7k Open source code for AlphaFold.
 - [deepmind/alphastar](https://github.com/deepmind/alphastar) topic: pushed_at:2022-09 star:0.2k fork:0.0k 
 - [deepmind/alphatensor](https://github.com/deepmind/alphatensor) topic: pushed_at:2022-10 star:2.4k fork:0.2k 
-- [deepmind/android_env](https://github.com/deepmind/android_env) topic:android,reinforcement-learning pushed_at:2023-02 star:0.8k fork:0.0k RL research on Android devices.
+- [deepmind/android_env](https://github.com/deepmind/android_env) topic:android,reinforcement-learning pushed_at:2023-03 star:0.8k fork:0.0k RL research on Android devices.
 - [deepmind/annealed_flow_transport](https://github.com/deepmind/annealed_flow_transport) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [deepmind/brave](https://github.com/deepmind/brave) topic: pushed_at:2021-10 star:0.0k fork:0.0k A JAX implementation of Broaden Your Views for Self-Supervised Video Learning, or BraVe for short.
-- [deepmind/bsuite](https://github.com/deepmind/bsuite) topic: pushed_at:2023-02 star:1.4k fork:0.2k bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
+- [deepmind/bsuite](https://github.com/deepmind/bsuite) topic: pushed_at:2023-03 star:1.4k fork:0.2k bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
 - [deepmind/chex](https://github.com/deepmind/chex) topic: pushed_at:2023-03 star:0.5k fork:0.0k 
-- [deepmind/clrs](https://github.com/deepmind/clrs) topic: pushed_at:2023-02 star:0.3k fork:0.0k 
+- [deepmind/clrs](https://github.com/deepmind/clrs) topic: pushed_at:2023-03 star:0.3k fork:0.0k 
 - [deepmind/compressed_vision](https://github.com/deepmind/compressed_vision) topic: pushed_at:2023-02 star:0.1k fork:0.0k 
 - [deepmind/conformal_training](https://github.com/deepmind/conformal_training) topic: pushed_at:2022-08 star:0.1k fork:0.0k This repository contains a Jax implementation of conformal training corresponding to the ICLR'22 paper "learning optimal conformal classifiers".
 - [deepmind/constrained_optidice](https://github.com/deepmind/constrained_optidice) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
@@ -139,7 +139,7 @@
 - [deepmind/detcon](https://github.com/deepmind/detcon) topic: pushed_at:2022-10 star:0.1k fork:0.0k 
 - [deepmind/digraph_transformer](https://github.com/deepmind/digraph_transformer) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [deepmind/diplomacy](https://github.com/deepmind/diplomacy) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
-- [deepmind/distrax](https://github.com/deepmind/distrax) topic: pushed_at:2023-02 star:0.4k fork:0.0k 
+- [deepmind/distrax](https://github.com/deepmind/distrax) topic: pushed_at:2023-03 star:0.4k fork:0.0k 
 - [deepmind/distribution_shift_framework](https://github.com/deepmind/distribution_shift_framework) topic:artificial-intelligence,deep-learning,distribution-shift,jax,machine-learning,neural-networks pushed_at:2022-03 star:0.1k fork:0.0k This repository contains the code of the distribution shift framework presented in A Fine-Grained Analysis on Distribution Shift (Wiles et al., 2022).
 - [deepmind/dks](https://github.com/deepmind/dks) topic:artificial-intelligence,deep-learning,jax,machine-learning,neural-networks,neural-tangent-kernel,pytorch,tensorflow pushed_at:2023-01 star:0.0k fork:0.0k Multi-framework implementation of Deep Kernel Shaping and Tailored Activation Transformations, which are methods that modify neural network models (and their initializations) to make them easier to train.
 - [deepmind/dm-haiku](https://github.com/deepmind/dm-haiku) topic:deep-learning,deep-neural-networks,jax,machine-learning,neural-networks pushed_at:2023-03 star:2.4k fork:0.2k JAX-based neural network library
@@ -168,7 +168,7 @@
 - [deepmind/enn_acme](https://github.com/deepmind/enn_acme) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [deepmind/envlogger](https://github.com/deepmind/envlogger) topic:logging,reinforcement-learning pushed_at:2022-11 star:0.1k fork:0.0k A tool for recording RL trajectories.
 - [deepmind/fancyflags](https://github.com/deepmind/fancyflags) topic:configuration,flags,python pushed_at:2022-10 star:0.0k fork:0.0k A Python library for defining flat or nested dictionary flags.
-- [deepmind/ferminet](https://github.com/deepmind/ferminet) topic: pushed_at:2022-12 star:0.5k fork:0.1k An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
+- [deepmind/ferminet](https://github.com/deepmind/ferminet) topic: pushed_at:2023-03 star:0.5k fork:0.1k An implementation of the Fermionic Neural Network for ab-initio electronic structure calculations
 - [deepmind/flows_for_atomic_solids](https://github.com/deepmind/flows_for_atomic_solids) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [deepmind/functa](https://github.com/deepmind/functa) topic: pushed_at:2022-11 star:0.1k fork:0.0k 
 - [deepmind/gnn_single_rigids](https://github.com/deepmind/gnn_single_rigids) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
@@ -176,7 +176,7 @@
 - [deepmind/graph_nets](https://github.com/deepmind/graph_nets) topic:artificial-intelligence,deep-learning,graph-networks,graphs,neural-networks,sonnet,tensorflow pushed_at:2022-12 star:5.2k fork:0.8k Build Graph Nets in Tensorflow
 - [deepmind/grid-cells](https://github.com/deepmind/grid-cells) topic: pushed_at:2020-10 star:0.2k fork:0.1k Implementation of the supervised learning experiments in Vector-based navigation using grid-like representations in artificial agents, as published at https://www.nature.com/articles/s41586-018-0102-6
 - [deepmind/hanabi-learning-environment](https://github.com/deepmind/hanabi-learning-environment) topic: pushed_at:2023-02 star:0.6k fork:0.1k hanabi_learning_environment is a research platform for Hanabi experiments.
-- [deepmind/image_obfuscation_benchmark](https://github.com/deepmind/image_obfuscation_benchmark) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
+- [deepmind/image_obfuscation_benchmark](https://github.com/deepmind/image_obfuscation_benchmark) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [deepmind/interval-bound-propagation](https://github.com/deepmind/interval-bound-propagation) topic: pushed_at:2019-12 star:0.1k fork:0.0k This repository contains a simple implementation of Interval Bound Propagation (IBP) using TensorFlow: https://arxiv.org/abs/1810.12715
 - [deepmind/inverse_design](https://github.com/deepmind/inverse_design) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [deepmind/jax_privacy](https://github.com/deepmind/jax_privacy) topic: pushed_at:2022-06 star:0.1k fork:0.0k Algorithms for Privacy-Preserving Machine Learning in JAX
@@ -184,16 +184,16 @@
 - [deepmind/jaxline](https://github.com/deepmind/jaxline) topic: pushed_at:2021-11 star:0.1k fork:0.0k 
 - [deepmind/jmp](https://github.com/deepmind/jmp) topic: pushed_at:2023-02 star:0.1k fork:0.0k JMP is a Mixed Precision library for JAX.
 - [deepmind/jraph](https://github.com/deepmind/jraph) topic:deep-learning,graph-neural-networks,jax,machine-learning pushed_at:2023-01 star:1.1k fork:0.1k A Graph Neural Network Library in Jax
-- [deepmind/kfac-jax](https://github.com/deepmind/kfac-jax) topic:bayesian-deep-learning,machine-learning,optimization pushed_at:2023-02 star:0.1k fork:0.0k Second Order Optimization and Curvature Estimation with K-FAC in JAX.
+- [deepmind/kfac-jax](https://github.com/deepmind/kfac-jax) topic:bayesian-deep-learning,machine-learning,optimization pushed_at:2023-03 star:0.1k fork:0.0k Second Order Optimization and Curvature Estimation with K-FAC in JAX.
 - [deepmind/kinetics-i3d](https://github.com/deepmind/kinetics-i3d) topic: pushed_at:2019-09 star:1.6k fork:0.5k Convolutional neural network model for video classification trained on the Kinetics dataset.
 - [deepmind/lamb](https://github.com/deepmind/lamb) topic: pushed_at:2020-04 star:0.1k fork:0.0k LAnguage Modelling Benchmarks
-- [deepmind/launchpad](https://github.com/deepmind/launchpad) topic: pushed_at:2023-02 star:0.3k fork:0.0k 
+- [deepmind/launchpad](https://github.com/deepmind/launchpad) topic: pushed_at:2023-03 star:0.3k fork:0.0k 
 - [deepmind/leaps-and-bounds](https://github.com/deepmind/leaps-and-bounds) topic: pushed_at:2020-01 star:0.0k fork:0.0k This is an implementation of LeapsAndBounds and Structured Procrastination for approximately optimal algorithm configuration.
 - [deepmind/learning-to-learn](https://github.com/deepmind/learning-to-learn) topic:artificial-intelligence,deep-learning,machine-learning,neural-networks pushed_at:2021-06 star:4.1k fork:0.6k Learning to Learn in TensorFlow
 - [deepmind/leo](https://github.com/deepmind/leo) topic: pushed_at:2019-04 star:0.3k fork:0.1k Implementation of Meta-Learning with Latent Embedding Optimization
 - [deepmind/local_linearity_regularizer](https://github.com/deepmind/local_linearity_regularizer) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
 - [deepmind/mathematics_dataset](https://github.com/deepmind/mathematics_dataset) topic: pushed_at:2022-01 star:1.6k fork:0.2k This dataset code generates mathematical question and answer pairs, from a range of question types at roughly school-level difficulty.
-- [deepmind/mctx](https://github.com/deepmind/mctx) topic:jax,monte-carlo-tree-search,reinforcement-learning pushed_at:2023-01 star:1.8k fork:0.1k Monte Carlo tree search in JAX
+- [deepmind/mctx](https://github.com/deepmind/mctx) topic:jax,monte-carlo-tree-search,reinforcement-learning pushed_at:2023-03 star:1.8k fork:0.1k Monte Carlo tree search in JAX
 - [deepmind/meltingpot](https://github.com/deepmind/meltingpot) topic:multiagent-reinforcement-learning pushed_at:2023-03 star:0.3k fork:0.1k A suite of test scenarios for multi-agent reinforcement learning.
 - [deepmind/mujoco_menagerie](https://github.com/deepmind/mujoco_menagerie) topic: pushed_at:2023-03 star:0.5k fork:0.0k A collection of high-quality models for the MuJoCo physics engine, curated by DeepMind.
 - [deepmind/multi_object_datasets](https://github.com/deepmind/multi_object_datasets) topic:datasets,deepmind,representation-learning,segmentation pushed_at:2021-12 star:0.2k fork:0.0k Multi-object image datasets with ground-truth segmentation masks and generative factors.
@@ -202,13 +202,13 @@
 - [deepmind/neural_networks_chomsky_hierarchy](https://github.com/deepmind/neural_networks_chomsky_hierarchy) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [deepmind/offpolicy_selection_eslb](https://github.com/deepmind/offpolicy_selection_eslb) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [deepmind/optax](https://github.com/deepmind/optax) topic: pushed_at:2023-03 star:1.0k fork:0.1k Optax is a gradient processing and optimization library for JAX.
-- [deepmind/PGMax](https://github.com/deepmind/PGMax) topic:bayesian-inference,belief-propagation,jax,python pushed_at:2023-02 star:0.1k fork:0.0k Loopy belief propagation for factor graphs on discrete variables in JAX
+- [deepmind/PGMax](https://github.com/deepmind/PGMax) topic:bayesian-inference,belief-propagation,jax,python pushed_at:2023-03 star:0.1k fork:0.0k Loopy belief propagation for factor graphs on discrete variables in JAX
 - [deepmind/pushworld](https://github.com/deepmind/pushworld) topic:planning,planning-algorithms,puzzle,puzzle-solver,reinforcement-learning,reinforcement-learning-environments pushed_at:2023-02 star:0.0k fork:0.0k PushWorld: A benchmark for manipulation planning with tools and movable obstacles
 - [deepmind/pycolab](https://github.com/deepmind/pycolab) topic: pushed_at:2019-09 star:0.6k fork:0.1k A highly-customisable gridworld game engine with some batteries included. Make your own gridworld games to test reinforcement learning agents!
-- [deepmind/pysc2](https://github.com/deepmind/pysc2) topic:blizzard-api,deepmind,machine-learning,reinforcement-learning,starcraft-ii,starcraft-ii-replays pushed_at:2022-12 star:7.7k fork:1.1k StarCraft II Learning Environment
+- [deepmind/pysc2](https://github.com/deepmind/pysc2) topic:blizzard-api,deepmind,machine-learning,reinforcement-learning,starcraft-ii,starcraft-ii-replays pushed_at:2022-12 star:7.7k fork:1.2k StarCraft II Learning Environment
 - [deepmind/rc-data](https://github.com/deepmind/rc-data) topic: pushed_at:2017-04 star:1.3k fork:0.2k Question answering dataset featured in "Teaching Machines to Read and Comprehend
 - [deepmind/rgb_stacking](https://github.com/deepmind/rgb_stacking) topic: pushed_at:2021-11 star:0.1k fork:0.0k 
-- [deepmind/rlax](https://github.com/deepmind/rlax) topic: pushed_at:2023-02 star:1.0k fork:0.1k 
+- [deepmind/rlax](https://github.com/deepmind/rlax) topic: pushed_at:2023-03 star:1.0k fork:0.1k 
 - [deepmind/scalable_agent](https://github.com/deepmind/scalable_agent) topic: pushed_at:2019-03 star:0.9k fork:0.2k A TensorFlow implementation of Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures.
 - [deepmind/slim-dataset](https://github.com/deepmind/slim-dataset) topic: pushed_at:2018-07 star:0.0k fork:0.0k Datasets used to train Spatial Language Integrating Model (SLIM) in the ‘Encoding Spatial Relations from Natural Language’ paper.
 - [deepmind/slowfast_nfnets](https://github.com/deepmind/slowfast_nfnets) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
