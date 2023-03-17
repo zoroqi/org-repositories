@@ -23,7 +23,7 @@
 
 ## BitBake
 
-- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) topic:openembedded,openembedded-layer,risc-v,riscv,yocto,yocto-layer,yocto-meta pushed_at:2023-03 star:0.2k fork:0.1k OpenEmbedded/Yocto layer for RISC-V Architecture
+- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) topic:openembedded,openembedded-layer,risc-v,riscv,yocto,yocto-layer,yocto-meta pushed_at:2023-03 star:0.3k fork:0.1k OpenEmbedded/Yocto layer for RISC-V Architecture
 
 ## C
 
@@ -50,7 +50,7 @@
 - [riscv/riscv-ssqosid](https://github.com/riscv/riscv-ssqosid) topic: pushed_at:2022-09 star:0.0k fork:0.0k This repo will hold the specification for the proposed QoS ID extension being pursued on the fast-track process.
 - [riscv/riscv-svadu](https://github.com/riscv/riscv-svadu) topic: pushed_at:2022-11 star:0.0k fork:0.0k The Ssadu extension adds support and CSR control for hardware updating of PTE A/D bits.
 - [riscv/riscv-tee](https://github.com/riscv/riscv-tee) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [riscv/riscv-zawrs](https://github.com/riscv/riscv-zawrs) topic: pushed_at:2023-02 star:0.0k fork:0.0k The repo will be used to hold the draft Zawrs (fast-track) extension and to make releases for reviews. 
+- [riscv/riscv-zawrs](https://github.com/riscv/riscv-zawrs) topic: pushed_at:2023-03 star:0.0k fork:0.0k The repo will be used to hold the draft Zawrs (fast-track) extension and to make releases for reviews. 
 - [riscv/riscv-zicond](https://github.com/riscv/riscv-zicond) topic: pushed_at:2023-03 star:0.0k fork:0.0k The ISA specification for the ZiCondOps extension.
 
 ## Others
@@ -58,11 +58,11 @@
 - [riscv/.github](https://github.com/riscv/.github) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
 - [riscv/docs-resources](https://github.com/riscv/docs-resources) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [riscv/genz-on-riscv](https://github.com/riscv/genz-on-riscv) topic: pushed_at:2019-04 star:0.0k fork:0.0k 
-- [riscv/riscv-aia](https://github.com/riscv/riscv-aia) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
+- [riscv/riscv-aia](https://github.com/riscv/riscv-aia) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [riscv/riscv-alt-fp](https://github.com/riscv/riscv-alt-fp) topic: pushed_at:2022-04 star:0.0k fork:0.0k RISC-V Alternate FP Format
 - [riscv/riscv-docs-base-container-image](https://github.com/riscv/riscv-docs-base-container-image) topic: pushed_at:2023-02 star:0.0k fork:0.0k A base container image populated with the dependencies to build the RISC-V Documentation.
 - [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
-- [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) topic: pushed_at:2022-09 star:0.1k fork:0.0k RISC-V Packed SIMD Extension
+- [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) topic: pushed_at:2023-03 star:0.1k fork:0.0k RISC-V Packed SIMD Extension
 - [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) topic: pushed_at:2023-03 star:0.1k fork:0.0k PLIC Specification
 - [riscv/riscv-software-ecosystem](https://github.com/riscv/riscv-software-ecosystem) topic: pushed_at:2023-03 star:0.0k fork:0.0k A curated list of the status of different softwares on RISC-V
 - [riscv/riscv-zfinx](https://github.com/riscv/riscv-zfinx) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
@@ -72,7 +72,7 @@
 
 - [riscv/configuration-structure](https://github.com/riscv/configuration-structure) topic: pushed_at:2023-01 star:0.0k fork:0.0k RISC-V Configuration Structure
 - [riscv/riscv-code-size-reduction](https://github.com/riscv/riscv-code-size-reduction) topic: pushed_at:2023-02 star:0.1k fork:0.0k 
-- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) topic: pushed_at:2023-02 star:0.5k fork:0.2k RISC-V Opcodes
+- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) topic: pushed_at:2023-03 star:0.5k fork:0.2k RISC-V Opcodes
 
 ## TeX
 
