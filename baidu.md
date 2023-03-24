@@ -27,7 +27,7 @@
 
 - [baidu/baidu-iot-samples](https://github.com/baidu/baidu-iot-samples) topic: pushed_at:2019-10 star:0.1k fork:0.1k 
 - [baidu/boteye_sensor](https://github.com/baidu/boteye_sensor) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2023-03 star:1.6k fork:0.2k dperf is a DPDK based 100Gbps network performance and load testing software.
+- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2023-03 star:1.7k fork:0.2k dperf is a DPDK based 100Gbps network performance and load testing software.
 - [baidu/du1906_esp](https://github.com/baidu/du1906_esp) topic: pushed_at:2023-03 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
 - [baidu/iot-edge-sdk-for-iot-parser](https://github.com/baidu/iot-edge-sdk-for-iot-parser) topic: pushed_at:2019-02 star:0.1k fork:0.1k 
 - [baidu/iot-sdk-c](https://github.com/baidu/iot-sdk-c) topic:device-management,edge-sdk,mqtt,sdk pushed_at:2022-04 star:0.1k fork:0.1k device sdk for baidu IoT Core service, in c. Including MQTT client
@@ -47,7 +47,7 @@
 - [baidu/bigflow](https://github.com/baidu/bigflow) topic: pushed_at:2022-10 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [baidu/boteye](https://github.com/baidu/boteye) topic: pushed_at:2019-04 star:0.2k fork:0.1k 
 - [baidu/boteye_driver](https://github.com/baidu/boteye_driver) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/braft](https://github.com/baidu/braft) topic:distributed-consensus,distributed-storage,raft,raft-consensus-algorithm,raft-cpp,raft-cxx,raft-protocol,state-machine-replication pushed_at:2023-02 star:3.5k fork:0.8k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
+- [baidu/braft](https://github.com/baidu/braft) topic:distributed-consensus,distributed-storage,raft,raft-consensus-algorithm,raft-cpp,raft-cxx,raft-protocol,state-machine-replication pushed_at:2023-03 star:3.5k fork:0.8k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
 - [baidu/common](https://github.com/baidu/common) topic: pushed_at:2017-06 star:0.1k fork:0.1k Common library
 - [baidu/Familia](https://github.com/baidu/Familia) topic:lda,nlp,sentence-lda,topic-modeling,topic-models,twe pushed_at:2021-07 star:2.6k fork:0.6k A Toolkit for Industrial Topic Modeling
 - [baidu/fast_rgf](https://github.com/baidu/fast_rgf) topic: pushed_at:2018-07 star:0.5k fork:0.1k Multi-core implementation of Regularized Greedy Forest

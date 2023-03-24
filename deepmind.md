@@ -11,10 +11,10 @@
 - [Go](#go) (2)
 - [HTML](#html) (1)
 - [Haskell](#haskell) (1)
-- [Jupyter Notebook](#jupyter-notebook) (26)
+- [Jupyter Notebook](#jupyter-notebook) (27)
 - [Lua](#lua) (12)
 - [Others](#others) (15)
-- [Python](#python) (115)
+- [Python](#python) (114)
 - [Shell](#shell) (1)
 - [Standard ML](#standard-ml) (1)
 
@@ -56,6 +56,7 @@
 
 - [deepmind/3d-shapes](https://github.com/deepmind/3d-shapes) topic: pushed_at:2019-03 star:0.1k fork:0.0k This repository contains the 3D shapes dataset, used in Kim, Hyunjik and Mnih, Andriy. "Disentangling by Factorising." In Proceedings of the 35th International Conference on Machine Learning (ICML). 2018. to assess the disentanglement properties of unsupervised learning methods.
 - [deepmind/arnheim](https://github.com/deepmind/arnheim) topic: pushed_at:2022-11 star:0.2k fork:0.0k 
+- [deepmind/compressed_vision](https://github.com/deepmind/compressed_vision) topic: pushed_at:2023-03 star:0.1k fork:0.0k 
 - [deepmind/deepmind-research](https://github.com/deepmind/deepmind-research) topic: pushed_at:2023-01 star:11.6k fork:2.4k This repository contains implementations and illustrative code to accompany DeepMind publications
 - [deepmind/discretisation_drift](https://github.com/deepmind/discretisation_drift) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [deepmind/disdain](https://github.com/deepmind/disdain) topic: pushed_at:2022-06 star:0.0k fork:0.0k A self-contained JAX implementation of DIScriminator DisAgreement INtrinsic Reward (DISDAIN).
@@ -66,7 +67,7 @@
 - [deepmind/HAI_selective_prediction](https://github.com/deepmind/HAI_selective_prediction) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
 - [deepmind/hcmd_dai](https://github.com/deepmind/hcmd_dai) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
 - [deepmind/informed_adversary_mnist_reconstruction](https://github.com/deepmind/informed_adversary_mnist_reconstruction) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
-- [deepmind/ithaca](https://github.com/deepmind/ithaca) topic: pushed_at:2023-02 star:0.5k fork:0.0k Restoring and attributing ancient texts using deep neural networks
+- [deepmind/ithaca](https://github.com/deepmind/ithaca) topic: pushed_at:2023-03 star:0.5k fork:0.0k Restoring and attributing ancient texts using deep neural networks
 - [deepmind/linac](https://github.com/deepmind/linac) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [deepmind/mathematics_conjectures](https://github.com/deepmind/mathematics_conjectures) topic: pushed_at:2021-12 star:0.3k fork:0.0k 
 - [deepmind/mc_gradients](https://github.com/deepmind/mc_gradients) topic: pushed_at:2022-11 star:0.1k fork:0.0k 
@@ -117,7 +118,7 @@
 ## Python
 
 - [deepmind/abcei_mab](https://github.com/deepmind/abcei_mab) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
-- [deepmind/acme](https://github.com/deepmind/acme) topic:agents,reinforcement-learning,research pushed_at:2023-03 star:3.0k fork:0.4k A library of reinforcement learning components and agents
+- [deepmind/acme](https://github.com/deepmind/acme) topic:agents,reinforcement-learning,research pushed_at:2023-03 star:3.1k fork:0.4k A library of reinforcement learning components and agents
 - [deepmind/active_ops](https://github.com/deepmind/active_ops) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
 - [deepmind/affordances_option_models](https://github.com/deepmind/affordances_option_models) topic: pushed_at:2021-11 star:0.0k fork:0.0k 
 - [deepmind/agent_debugger](https://github.com/deepmind/agent_debugger) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
@@ -131,7 +132,6 @@
 - [deepmind/bsuite](https://github.com/deepmind/bsuite) topic: pushed_at:2023-03 star:1.4k fork:0.2k bsuite is a collection of carefully-designed experiments that investigate core capabilities of a reinforcement learning (RL) agent
 - [deepmind/chex](https://github.com/deepmind/chex) topic: pushed_at:2023-03 star:0.5k fork:0.0k 
 - [deepmind/clrs](https://github.com/deepmind/clrs) topic: pushed_at:2023-03 star:0.3k fork:0.0k 
-- [deepmind/compressed_vision](https://github.com/deepmind/compressed_vision) topic: pushed_at:2023-02 star:0.1k fork:0.0k 
 - [deepmind/conformal_training](https://github.com/deepmind/conformal_training) topic: pushed_at:2022-08 star:0.1k fork:0.0k This repository contains a Jax implementation of conformal training corresponding to the ICLR'22 paper "learning optimal conformal classifiers".
 - [deepmind/constrained_optidice](https://github.com/deepmind/constrained_optidice) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [deepmind/csuite](https://github.com/deepmind/csuite) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
@@ -147,7 +147,7 @@
 - [deepmind/dm_aux](https://github.com/deepmind/dm_aux) topic: pushed_at:2022-04 star:0.1k fork:0.0k 
 - [deepmind/dm_c19_modelling](https://github.com/deepmind/dm_c19_modelling) topic: pushed_at:2021-07 star:0.0k fork:0.0k 
 - [deepmind/dm_construction](https://github.com/deepmind/dm_construction) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
-- [deepmind/dm_control](https://github.com/deepmind/dm_control) topic:artificial-intelligence,deep-learning,machine-learning,mujoco,neural-networks,physics-simulation,reinforcement-learning pushed_at:2023-02 star:3.1k fork:0.6k DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
+- [deepmind/dm_control](https://github.com/deepmind/dm_control) topic:artificial-intelligence,deep-learning,machine-learning,mujoco,neural-networks,physics-simulation,reinforcement-learning pushed_at:2023-03 star:3.1k fork:0.6k DeepMind's software stack for physics-based simulation and Reinforcement Learning environments, using MuJoCo.
 - [deepmind/dm_env](https://github.com/deepmind/dm_env) topic:api,deep-learning,interface,machine-learning,python,reinforcement-learning pushed_at:2022-12 star:0.3k fork:0.0k A Python interface for reinforcement learning environments
 - [deepmind/dm_env_rpc](https://github.com/deepmind/dm_env_rpc) topic: pushed_at:2023-02 star:0.1k fork:0.0k A networking protocol for agent-environment communication
 - [deepmind/dm_fast_mapping](https://github.com/deepmind/dm_fast_mapping) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
@@ -204,7 +204,7 @@
 - [deepmind/offpolicy_selection_eslb](https://github.com/deepmind/offpolicy_selection_eslb) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [deepmind/optax](https://github.com/deepmind/optax) topic: pushed_at:2023-03 star:1.0k fork:0.1k Optax is a gradient processing and optimization library for JAX.
 - [deepmind/PGMax](https://github.com/deepmind/PGMax) topic:bayesian-inference,belief-propagation,jax,python pushed_at:2023-03 star:0.1k fork:0.0k Loopy belief propagation for factor graphs on discrete variables in JAX
-- [deepmind/pushworld](https://github.com/deepmind/pushworld) topic:planning,planning-algorithms,puzzle,puzzle-solver,reinforcement-learning,reinforcement-learning-environments pushed_at:2023-02 star:0.0k fork:0.0k PushWorld: A benchmark for manipulation planning with tools and movable obstacles
+- [deepmind/pushworld](https://github.com/deepmind/pushworld) topic:planning,planning-algorithms,puzzle,puzzle-solver,reinforcement-learning,reinforcement-learning-environments pushed_at:2023-03 star:0.0k fork:0.0k PushWorld: A benchmark for manipulation planning with tools and movable obstacles
 - [deepmind/pycolab](https://github.com/deepmind/pycolab) topic: pushed_at:2019-09 star:0.6k fork:0.1k A highly-customisable gridworld game engine with some batteries included. Make your own gridworld games to test reinforcement learning agents!
 - [deepmind/pysc2](https://github.com/deepmind/pysc2) topic:blizzard-api,deepmind,machine-learning,reinforcement-learning,starcraft-ii,starcraft-ii-replays pushed_at:2022-12 star:7.7k fork:1.1k StarCraft II Learning Environment
 - [deepmind/rc-data](https://github.com/deepmind/rc-data) topic: pushed_at:2017-04 star:1.3k fork:0.2k Question answering dataset featured in "Teaching Machines to Read and Comprehend

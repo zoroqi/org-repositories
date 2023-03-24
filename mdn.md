@@ -51,7 +51,7 @@
 - [mdn/insights](https://github.com/mdn/insights) topic: pushed_at:2022-04 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) topic:css,editor,examples,html,interactive,javascript,mdn,nodejs pushed_at:2023-03 star:0.6k fork:0.5k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) topic: pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
-- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2023-03 star:5.8k fork:25.0k Github repo for the MDN Learning Area. 
+- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2023-03 star:5.8k fork:25.1k Github repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) topic: pushed_at:2022-04 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
 - [mdn/learning-area-pt-br](https://github.com/mdn/learning-area-pt-br) topic: pushed_at:2022-09 star:0.0k fork:0.1k The MDN Learning Area code examples translated into Brazilian Portuguese.
 - [mdn/machine-translation-testing-content](https://github.com/mdn/machine-translation-testing-content) topic: pushed_at:2020-11 star:0.0k fork:0.0k This is a repository for testing machine translations of English content.
@@ -99,7 +99,7 @@
 - [mdn/mdn.dev](https://github.com/mdn/mdn.dev) topic: pushed_at:2022-04 star:0.0k fork:0.0k Content for https://mdn.dev
 - [mdn/museum](https://github.com/mdn/museum) topic: pushed_at:2023-01 star:0.0k fork:0.0k A historic collection of MDN Web Docs content and examples
 - [mdn/perf-examples](https://github.com/mdn/perf-examples) topic: pushed_at:2023-03 star:0.0k fork:0.0k Examples related to MDN performance documentation; see https://developer.mozilla.org/en-US/docs/web/Performance
-- [mdn/pwa-examples](https://github.com/mdn/pwa-examples) topic: pushed_at:2023-02 star:0.8k fork:0.6k Examples for progressive web apps.
+- [mdn/pwa-examples](https://github.com/mdn/pwa-examples) topic: pushed_at:2023-03 star:0.8k fork:0.6k Examples for progressive web apps.
 - [mdn/repl-panel](https://github.com/mdn/repl-panel) topic:addon,devtools,devtools-extension,repl,unmaintained pushed_at:2019-04 star:0.0k fork:0.0k This add-on lets you send remote debugging protocol requests to the debugging server, and displays the response.
 - [mdn/s3-config](https://github.com/mdn/s3-config) topic:aws,mdn-infra,s3-bucket,simple-storage-service pushed_at:2022-10 star:0.0k fork:0.0k MDN Simple Storage Service (S3) configuration
 - [mdn/samples-server](https://github.com/mdn/samples-server) topic: pushed_at:2021-04 star:0.9k fork:0.9k MDN samples server; used for samples that can't be hosted in-place on MDN, plus back-end server-side code for samples that need it.
@@ -127,7 +127,7 @@
 
 ## Markdown
 
-- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2023-03 star:7.6k fork:16.3k The content behind MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2023-03 star:7.6k fork:16.4k The content behind MDN Web Docs
 - [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2023-03 star:1.2k fork:6.0k The source repository of all translated content for MDN Web Docs
 
 ## Others
