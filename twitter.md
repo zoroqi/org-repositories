@@ -34,7 +34,7 @@
 - [twitter/fatcache](https://github.com/twitter/fatcache) topic: pushed_at:2021-11 star:1.3k fork:0.2k Memcache on SSD
 - [twitter/ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) topic:cache,image-pipeline,ios,objective-c,swift,twitter pushed_at:2022-03 star:1.8k fork:0.1k Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) topic: pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
-- [twitter/pelikan](https://github.com/twitter/pelikan) topic: pushed_at:2023-02 star:1.8k fork:0.2k Pelikan is Twitter's unified cache backend
+- [twitter/pelikan](https://github.com/twitter/pelikan) topic: pushed_at:2023-02 star:1.9k fork:0.2k Pelikan is Twitter's unified cache backend
 - [twitter/twemcache](https://github.com/twitter/twemcache) topic: pushed_at:2021-11 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) topic: pushed_at:2023-01 star:11.7k fork:2.0k A fast, light-weight proxy for memcached and redis
 
@@ -62,7 +62,7 @@
 
 - [twitter/cloudhopper-commons](https://github.com/twitter/cloudhopper-commons) topic: pushed_at:2023-02 star:0.0k fork:0.1k Cloudhopper Commons
 - [twitter/elephant-bird](https://github.com/twitter/elephant-bird) topic: pushed_at:2023-02 star:1.1k fork:0.4k Twitter's collection of LZO and Protocol Buffer-related Hadoop, Pig, Hive, and HBase code.
-- [twitter/GraphJet](https://github.com/twitter/GraphJet) topic: pushed_at:2023-02 star:0.5k fork:0.1k GraphJet is a real-time graph processing library.
+- [twitter/GraphJet](https://github.com/twitter/GraphJet) topic: pushed_at:2023-03 star:0.5k fork:0.1k GraphJet is a real-time graph processing library.
 - [twitter/hbc](https://github.com/twitter/hbc) topic:java,realtime,stream,tweets,twitter4j pushed_at:2022-04 star:1.0k fork:0.4k A Java HTTP client for consuming Twitter's realtime Streaming API
 - [twitter/hpack](https://github.com/twitter/hpack) topic: pushed_at:2023-02 star:0.2k fork:0.1k Header Compression for HTTP/2
 - [twitter/hraven](https://github.com/twitter/hraven) topic: pushed_at:2022-01 star:0.1k fork:0.1k hRaven collects run time data and statistics from MapReduce jobs in an easily queryable format
@@ -79,8 +79,8 @@
 - [twitter/hogan.js](https://github.com/twitter/hogan.js) topic: pushed_at:2023-02 star:5.1k fork:0.5k A compiler for the Mustache templating language
 - [twitter/labella.js](https://github.com/twitter/labella.js) topic: pushed_at:2022-03 star:3.8k fork:0.1k Placing labels on a timeline without overlap.
 - [twitter/SentenTree](https://github.com/twitter/SentenTree) topic: pushed_at:2023-02 star:0.2k fork:0.0k A novel text visualization technique
-- [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) topic: pushed_at:2023-01 star:0.3k fork:0.1k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
-- [twitter/twitter-cldr-npm](https://github.com/twitter/twitter-cldr-npm) topic: pushed_at:2023-02 star:0.0k fork:0.0k TwitterCldr npm package
+- [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) topic: pushed_at:2023-03 star:0.3k fork:0.1k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
+- [twitter/twitter-cldr-npm](https://github.com/twitter/twitter-cldr-npm) topic: pushed_at:2023-03 star:0.0k fork:0.0k TwitterCldr npm package
 - [twitter/typeahead.js](https://github.com/twitter/typeahead.js) topic: pushed_at:2023-02 star:16.5k fork:3.3k typeahead.js is a fast and fully-featured autocomplete library
 
 ## Kotlin
@@ -128,7 +128,7 @@
 
 - [twitter/activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) topic: pushed_at:2016-01 star:1.3k fork:0.1k An Active Record Reputation System for Rails
 - [twitter/thrift_client](https://github.com/twitter/thrift_client) topic: pushed_at:2019-06 star:0.2k fork:0.1k A Thrift client wrapper that encapsulates some common failover behavior
-- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) topic: pushed_at:2022-11 star:0.7k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
+- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) topic: pushed_at:2023-03 star:0.7k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 - [twitter/twurl](https://github.com/twitter/twurl) topic:cli,curl,ruby,twitter,twitter-api,twurl pushed_at:2022-04 star:1.7k fork:0.3k OAuth-enabled curl for the Twitter API
 
 ## Rust
@@ -162,7 +162,7 @@
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) topic: pushed_at:2023-02 star:0.1k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) topic: pushed_at:2023-02 star:0.8k fork:0.2k Korean tokenizer
 - [twitter/twitter-server](https://github.com/twitter/twitter-server) topic:finagle,finatra pushed_at:2023-01 star:1.4k fork:0.2k Twitter-Server defines a template from which services at Twitter are built
-- [twitter/util](https://github.com/twitter/util) topic:finagle,scala,utility pushed_at:2023-02 star:2.6k fork:0.6k Wonderful reusable code from Twitter
+- [twitter/util](https://github.com/twitter/util) topic:finagle,scala,utility pushed_at:2023-03 star:2.6k fork:0.6k Wonderful reusable code from Twitter
 
 ## Shell
 

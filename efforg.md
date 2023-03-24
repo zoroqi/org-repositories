@@ -60,9 +60,9 @@
 ## HTML
 
 - [EFForg/hugo-book](https://github.com/EFForg/hugo-book) topic: pushed_at:2020-08 star:0.0k fork:0.0k Hugo documentation theme as simple as plain book
-- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) topic: pushed_at:2022-08 star:0.0k fork:0.0k Test fixtures for Privacy Badger
-- [EFForg/privacybadger-test-fixtures-alt](https://github.com/EFForg/privacybadger-test-fixtures-alt) topic: pushed_at:2022-08 star:0.0k fork:0.0k Test fixtures for Privacy Badger
-- [EFForg/privacybadger-test-fixtures-subdomain](https://github.com/EFForg/privacybadger-test-fixtures-subdomain) topic: pushed_at:2022-08 star:0.0k fork:0.0k Test fixtures for Privacy Badger
+- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) topic: pushed_at:2023-03 star:0.0k fork:0.0k Test fixtures for Privacy Badger
+- [EFForg/privacybadger-test-fixtures-alt](https://github.com/EFForg/privacybadger-test-fixtures-alt) topic: pushed_at:2023-03 star:0.0k fork:0.0k Test fixtures for Privacy Badger
+- [EFForg/privacybadger-test-fixtures-subdomain](https://github.com/EFForg/privacybadger-test-fixtures-subdomain) topic: pushed_at:2023-03 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/sas](https://github.com/EFForg/sas) topic: pushed_at:2017-05 star:0.0k fork:0.0k Stand Against Spying
 - [EFForg/stopwatchingus](https://github.com/EFForg/stopwatchingus) topic: pushed_at:2016-02 star:0.0k fork:0.0k StopWatching.us Site
 - [EFForg/tosback2](https://github.com/EFForg/tosback2) topic: pushed_at:2018-06 star:0.0k fork:0.0k 
@@ -76,7 +76,7 @@
 - [EFForg/actioncenter-mobile](https://github.com/EFForg/actioncenter-mobile) topic: pushed_at:2022-03 star:0.1k fork:0.0k 2.0
 - [EFForg/congress-forms-test](https://github.com/EFForg/congress-forms-test) topic: pushed_at:2016-03 star:0.0k fork:0.0k Way for volunteers to test EFF's congress-forms repo
 - [EFForg/congress-forms.js](https://github.com/EFForg/congress-forms.js) topic: pushed_at:2014-06 star:0.0k fork:0.0k A javascript widget which can construct plain forms that submit to a contact-congress server.
-- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) topic: pushed_at:2023-02 star:0.2k fork:0.0k Is your browser safe against tracking?
+- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) topic: pushed_at:2023-03 star:0.2k fork:0.0k Is your browser safe against tracking?
 - [EFForg/cyberspying](https://github.com/EFForg/cyberspying) topic: pushed_at:2015-12 star:0.0k fork:0.0k cyberspying.eff.org twitter tool
 - [EFForg/fight215](https://github.com/EFForg/fight215) topic: pushed_at:2015-06 star:0.0k fork:0.0k 
 - [EFForg/find-aa-domains](https://github.com/EFForg/find-aa-domains) topic: pushed_at:2019-04 star:0.0k fork:0.0k Create a script to find domains in the PB pre-block list which are mentioned in the Acceptable Ads list as well

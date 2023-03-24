@@ -58,7 +58,7 @@
 - [sony/appsync-client-go](https://github.com/sony/appsync-client-go) topic:appsync,golang,graphql,graphql-client pushed_at:2023-02 star:0.0k fork:0.0k AWS AppSync golang client library
 - [sony/gobreaker](https://github.com/sony/gobreaker) topic:circuit-breaker,golang,microservice pushed_at:2022-11 star:2.4k fork:0.2k Circuit Breaker implemented in Go
 - [sony/micro-notifier](https://github.com/sony/micro-notifier) topic:golang,microservice,pusher,server,websocket pushed_at:2021-02 star:0.0k fork:0.0k Simplified Pusher Clone
-- [sony/sonyflake](https://github.com/sony/sonyflake) topic:golang,id-generator pushed_at:2023-03 star:3.0k fork:0.3k A distributed unique ID generator inspired by Twitter's Snowflake
+- [sony/sonyflake](https://github.com/sony/sonyflake) topic:golang,id-generator pushed_at:2023-03 star:3.1k fork:0.3k A distributed unique ID generator inspired by Twitter's Snowflake
 
 ## HTML
 
@@ -109,7 +109,7 @@
 - [sony/nnabla-nas](https://github.com/sony/nnabla-nas) topic: pushed_at:2023-02 star:0.0k fork:0.0k Neural Architecture Search for Neural Network Libraries
 - [sony/nnabla-rl](https://github.com/sony/nnabla-rl) topic: pushed_at:2023-03 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
 - [sony/nnc-plugin](https://github.com/sony/nnc-plugin) topic: pushed_at:2023-02 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
-- [sony/polar-densification](https://github.com/sony/polar-densification) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
+- [sony/polar-densification](https://github.com/sony/polar-densification) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [sony/pyIEOE](https://github.com/sony/pyIEOE) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 - [sony/sqvae](https://github.com/sony/sqvae) topic:bayesian,deep-generative-model,generative-model,gumbel-softmax,machine-learning,pytorch,vae,variational-autoencoder,vector-quantization,vq-vae pushed_at:2022-07 star:0.1k fork:0.0k Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE)
 
