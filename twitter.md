@@ -54,8 +54,8 @@
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) topic: pushed_at:2021-10 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/interactive](https://github.com/twitter/interactive) topic: pushed_at:2021-11 star:0.2k fork:0.1k Twitter interactive visualization
 - [twitter/scala_school](https://github.com/twitter/scala_school) topic: pushed_at:2022-11 star:3.7k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) topic:emoji,twemoji pushed_at:2023-02 star:15.4k fork:1.8k Emoji for everyone. https://twemoji.twitter.com/
-- [twitter/twitter-text](https://github.com/twitter/twitter-text) topic:emoji,java,nodejs,objective-c,ruby,tweet,twitter,twitter-text,unicode pushed_at:2023-02 star:2.9k fork:0.5k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
+- [twitter/twemoji](https://github.com/twitter/twemoji) topic:emoji,twemoji pushed_at:2023-03 star:15.5k fork:1.8k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twitter-text](https://github.com/twitter/twitter-text) topic:emoji,java,nodejs,objective-c,ruby,tweet,twitter,twitter-text,unicode pushed_at:2023-02 star:3.0k fork:0.5k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) topic: pushed_at:2021-10 star:0.1k fork:0.0k 
 
 ## Java
@@ -113,7 +113,7 @@
 ## Python
 
 - [twitter/caladrius](https://github.com/twitter/caladrius) topic: pushed_at:2021-10 star:0.0k fork:0.0k Performance modelling system for Distributed Stream Processing Systems (DSPS) such as Apache Heron and Apache Storm
-- [twitter/communitynotes](https://github.com/twitter/communitynotes) topic:crowdsourcing,twitter pushed_at:2023-03 star:0.5k fork:0.1k Documentation and source code powering Twitter's Community Notes
+- [twitter/communitynotes](https://github.com/twitter/communitynotes) topic:crowdsourcing,twitter pushed_at:2023-03 star:0.6k fork:0.1k Documentation and source code powering Twitter's Community Notes
 - [twitter/dict_minimize](https://github.com/twitter/dict_minimize) topic:scipy,scipy-stack pushed_at:2023-02 star:0.1k fork:0.0k Access scipy optimizers from your favorite deep learning framework.
 - [twitter/diffusion-rl](https://github.com/twitter/diffusion-rl) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [twitter/gatekeeper-service](https://github.com/twitter/gatekeeper-service) topic: pushed_at:2023-02 star:0.0k fork:0.0k GateKeeper is a service built to automate the manual steps involved in onboarding, offboarding, and lost asset scenarios.
@@ -133,8 +133,8 @@
 
 ## Rust
 
-- [twitter/focus](https://github.com/twitter/focus) topic:bazel,git,source-control,sparse-checkout pushed_at:2023-02 star:0.1k fork:0.0k Focus aligns Git worktree content based on outlines of a repository's Bazel build graph. Focused repos are sparse, shallow, and thin and unlock markedly better performance in large repos.
-- [twitter/rezolus](https://github.com/twitter/rezolus) topic: pushed_at:2023-02 star:1.3k fork:0.1k Systems performance telemetry
+- [twitter/focus](https://github.com/twitter/focus) topic:bazel,git,source-control,sparse-checkout pushed_at:2023-03 star:0.1k fork:0.0k Focus aligns Git worktree content based on outlines of a repository's Bazel build graph. Focused repos are sparse, shallow, and thin and unlock markedly better performance in large repos.
+- [twitter/rezolus](https://github.com/twitter/rezolus) topic: pushed_at:2023-03 star:1.3k fork:0.1k Systems performance telemetry
 - [twitter/rpc-perf](https://github.com/twitter/rpc-perf) topic: pushed_at:2023-01 star:0.4k fork:0.1k A tool for benchmarking RPC services
 - [twitter/rustcommon](https://github.com/twitter/rustcommon) topic: pushed_at:2022-10 star:0.3k fork:0.0k Common Twitter Rust lib
 
@@ -178,7 +178,7 @@
 ## Swift
 
 - [twitter/ios-twitter-apache-thrift](https://github.com/twitter/ios-twitter-apache-thrift) topic: pushed_at:2022-02 star:0.0k fork:0.0k A thrift encoding and decoding library for Swift
-- [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) topic:ios,swift,textkit,uikit pushed_at:2023-01 star:2.8k fork:0.1k A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
+- [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) topic:ios,swift,textkit,uikit pushed_at:2023-03 star:2.8k fork:0.1k A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
 
 ## TypeScript
 
