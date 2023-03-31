@@ -48,7 +48,7 @@
 - [openjdk/galahad](https://github.com/openjdk/galahad) topic: pushed_at:2023-03 star:0.0k fork:0.0k https://openjdk.org/projects/galahad
 - [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2023-01 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2023-02 star:0.3k fork:0.0k https://openjdk.org/projects/code-tools/jcstress
-- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2023-03 star:15.4k fork:4.4k JDK main-line development https://openjdk.org/projects/jdk
+- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2023-03 star:15.5k fork:4.4k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2023-03 star:0.0k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2023-03 star:0.1k fork:0.2k https://openjdk.org/projects/jdk-updates
@@ -112,7 +112,7 @@
 - [openjdk/shenandoah](https://github.com/openjdk/shenandoah) topic: pushed_at:2023-03 star:0.1k fork:0.0k https://openjdk.org/projects/shenandoah
 - [openjdk/shenandoah-jdk8u](https://github.com/openjdk/shenandoah-jdk8u) topic: pushed_at:2023-02 star:0.0k fork:0.0k https://openjdk.org/projects/shenandoah
 - [openjdk/shenandoah-jdk8u-dev](https://github.com/openjdk/shenandoah-jdk8u-dev) topic: pushed_at:2022-02 star:0.0k fork:0.0k https://openjdk.org/projects/shenandoah
-- [openjdk/shenandoah-visualizer](https://github.com/openjdk/shenandoah-visualizer) topic: pushed_at:2023-02 star:0.1k fork:0.0k https://openjdk.org/projects/shenandoah
+- [openjdk/shenandoah-visualizer](https://github.com/openjdk/shenandoah-visualizer) topic: pushed_at:2023-03 star:0.1k fork:0.0k https://openjdk.org/projects/shenandoah
 - [openjdk/sigtest](https://github.com/openjdk/sigtest) topic: pushed_at:2021-07 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/sigtest
 - [openjdk/skara](https://github.com/openjdk/skara) topic:git,hg,java,openjdk,skara pushed_at:2023-03 star:0.2k fork:0.1k https://openjdk.org/projects/skara
 - [openjdk/tsan](https://github.com/openjdk/tsan) topic: pushed_at:2023-03 star:0.0k fork:0.0k https://openjdk.org/projects/tsan

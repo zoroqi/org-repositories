@@ -124,11 +124,11 @@
 
 ## Kotlin
 
-- [baidu/Rubik](https://github.com/baidu/Rubik) topic: pushed_at:2022-08 star:0.1k fork:0.0k An Android platform component management tool chain, based on Kotlin language.
+- [baidu/Rubik](https://github.com/baidu/Rubik) topic: pushed_at:2023-03 star:0.1k fork:0.0k An Android platform component management tool chain, based on Kotlin language.
 
 ## Others
 
-- [baidu/bfe-book](https://github.com/baidu/bfe-book) topic: pushed_at:2023-02 star:1.2k fork:0.2k In-depth Understanding of BFE《深入理解BFE》（Book for BFE, a CNCF open source project. both in English and in Chinese）
+- [baidu/bfe-book](https://github.com/baidu/bfe-book) topic: pushed_at:2023-03 star:1.2k fork:0.2k In-depth Understanding of BFE《深入理解BFE》（Book for BFE, a CNCF open source project. both in English and in Chinese）
 - [baidu/cppcheck](https://github.com/baidu/cppcheck) topic: pushed_at:2019-12 star:0.0k fork:0.0k static analysis of C/C++ code
 - [baidu/highflip](https://github.com/baidu/highflip) topic: pushed_at:2023-02 star:0.0k fork:0.0k HIGHFLIP: An easy way to bridge different federal learning platforms
 - [baidu/iot](https://github.com/baidu/iot) topic: pushed_at:2016-09 star:0.0k fork:0.0k for all code about Internet of Things
@@ -171,7 +171,7 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) topic:frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2023-03 star:13.4k fork:1.9k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) topic:frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2023-03 star:13.5k fork:1.9k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) topic:chrome,chromium,debug,devtools,extension,san pushed_at:2022-11 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) topic:san,ssr,ssr-target-js pushed_at:2023-03 star:0.0k fork:0.0k San SSR framework and utils
 
