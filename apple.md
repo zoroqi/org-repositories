@@ -36,37 +36,37 @@
 - [apple/darwin-xnu](https://github.com/apple/darwin-xnu) topic:kernel pushed_at:2023-01 star:10.6k fork:1.7k The Darwin Kernel (mirror). This repository is a pure mirror and contributions are currently not accepted via pull-requests, please submit your contributions via https://developer.apple.com/bug-reporting/
 - [apple/fstools](https://github.com/apple/fstools) topic: pushed_at:2016-09 star:0.0k fork:0.0k The Filesystem Tools project is a place where the Apple filesystem teams will be publishing some of the tools we use to test the filesystems that are part of macOS. These tools will be useful to developers who are writing new macOS filesystems, or testing macOS network filesystems against their servers.
 - [apple/HomeKitADK](https://github.com/apple/HomeKitADK) topic: pushed_at:2022-07 star:2.5k fork:0.2k 
-- [apple/swift-cmark](https://github.com/apple/swift-cmark) topic: pushed_at:2023-03 star:0.2k fork:0.1k CommonMark parsing and rendering library and program in C
+- [apple/swift-cmark](https://github.com/apple/swift-cmark) topic: pushed_at:2023-04 star:0.2k fork:0.1k CommonMark parsing and rendering library and program in C
 - [apple/swift-compiler-rt](https://github.com/apple/swift-compiler-rt) topic: pushed_at:2019-10 star:0.1k fork:0.1k 
-- [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) topic: pushed_at:2023-03 star:2.3k fork:0.4k The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
-- [apple/swift-crypto](https://github.com/apple/swift-crypto) topic:boringssl,ciphers,cryptography,ecdh,ecdsa,eddsa,elliptic-curves,hash-functions,swift,swift-crypto pushed_at:2023-03 star:1.3k fork:0.1k Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
-- [apple/swift-lmdb](https://github.com/apple/swift-lmdb) topic: pushed_at:2023-03 star:0.0k fork:0.0k Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.
+- [apple/swift-corelibs-libdispatch](https://github.com/apple/swift-corelibs-libdispatch) topic: pushed_at:2023-04 star:2.3k fork:0.4k The libdispatch Project, (a.k.a. Grand Central Dispatch), for concurrency on multicore hardware
+- [apple/swift-crypto](https://github.com/apple/swift-crypto) topic:boringssl,ciphers,cryptography,ecdh,ecdsa,eddsa,elliptic-curves,hash-functions,swift,swift-crypto pushed_at:2023-04 star:1.3k fork:0.1k Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.
+- [apple/swift-lmdb](https://github.com/apple/swift-lmdb) topic: pushed_at:2023-04 star:0.0k fork:0.0k Read-only mirror of official repo on openldap.org. Issues and pull requests here are ignored. Use OpenLDAP ITS for issues.
 - [apple/swift-nio-ssl](https://github.com/apple/swift-nio-ssl) topic:swift5,swiftnio,tls,tls-support pushed_at:2023-03 star:0.3k fork:0.1k TLS Support for SwiftNIO, based on BoringSSL.
 
 ## C#
 
-- [apple/unityplugins](https://github.com/apple/unityplugins) topic: pushed_at:2023-03 star:0.5k fork:0.1k 
+- [apple/unityplugins](https://github.com/apple/unityplugins) topic: pushed_at:2023-04 star:0.5k fork:0.1k 
 
 ## C++
 
 - [apple/apple-llvm-infrastructure-tools](https://github.com/apple/apple-llvm-infrastructure-tools) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apple/AudioUnitSDK](https://github.com/apple/AudioUnitSDK) topic: pushed_at:2022-12 star:0.1k fork:0.0k AudioUnit SDK
 - [apple/ccs-pyopendirectory](https://github.com/apple/ccs-pyopendirectory) topic: pushed_at:2018-11 star:0.0k fork:0.0k Python OpenDirectory library used by CalendarServer
-- [apple/foundationdb](https://github.com/apple/foundationdb) topic:acid,distributed-database,foundationdb,key-value-store,transactional pushed_at:2023-03 star:12.2k fork:1.2k FoundationDB - the open source, distributed, transactional key-value store
-- [apple/indexstore-db](https://github.com/apple/indexstore-db) topic: pushed_at:2023-03 star:0.3k fork:0.1k Index database library for use with sourcekit-lsp
+- [apple/foundationdb](https://github.com/apple/foundationdb) topic:acid,distributed-database,foundationdb,key-value-store,transactional pushed_at:2023-04 star:12.2k fork:1.2k FoundationDB - the open source, distributed, transactional key-value store
+- [apple/indexstore-db](https://github.com/apple/indexstore-db) topic: pushed_at:2023-04 star:0.3k fork:0.1k Index database library for use with sourcekit-lsp
 - [apple/llvm-project-v5](https://github.com/apple/llvm-project-v5) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
 - [apple/llvm-project-v5-split](https://github.com/apple/llvm-project-v5-split) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
-- [apple/swift](https://github.com/apple/swift) topic: pushed_at:2023-03 star:62.2k fork:10.0k The Swift Programming Language
+- [apple/swift](https://github.com/apple/swift) topic: pushed_at:2023-04 star:62.3k fork:10.0k The Swift Programming Language
 - [apple/swift-clang](https://github.com/apple/swift-clang) topic: pushed_at:2019-11 star:0.7k fork:0.2k 
 - [apple/swift-clang-tools-extra](https://github.com/apple/swift-clang-tools-extra) topic: pushed_at:2019-11 star:0.0k fork:0.0k 
 - [apple/swift-libcxx](https://github.com/apple/swift-libcxx) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
-- [apple/swift-llbuild](https://github.com/apple/swift-llbuild) topic:build-system,build-tool,llbuild,llvm,swift pushed_at:2023-03 star:1.0k fork:0.2k A low-level build system, used by Xcode and the Swift Package Manager
+- [apple/swift-llbuild](https://github.com/apple/swift-llbuild) topic:build-system,build-tool,llbuild,llvm,swift pushed_at:2023-04 star:1.0k fork:0.2k A low-level build system, used by Xcode and the Swift Package Manager
 - [apple/swift-lldb](https://github.com/apple/swift-lldb) topic: pushed_at:2020-01 star:0.7k fork:0.2k This is the version of LLDB that supports the Swift programming language & REPL.
 - [apple/turicreate](https://github.com/apple/turicreate) topic:deep-learning,machine-learning,python pushed_at:2023-02 star:11.0k fork:1.2k Turi Create simplifies the development of custom machine learning models.
 
 ## CMake
 
-- [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) topic: pushed_at:2023-03 star:0.1k fork:0.0k 
+- [apple/swift-installer-scripts](https://github.com/apple/swift-installer-scripts) topic: pushed_at:2023-04 star:0.1k fork:0.0k 
 
 ## Dockerfile
 
@@ -81,13 +81,13 @@
 
 - [apple/batch-processing-gateway](https://github.com/apple/batch-processing-gateway) topic:batch-processing,k8s,kubernetes,spark pushed_at:2023-03 star:0.1k fork:0.0k The gateway component to make Spark on K8s much easier for Spark users.
 - [apple/openjdk](https://github.com/apple/openjdk) topic: pushed_at:2021-07 star:0.1k fork:0.0k 
-- [apple/servicetalk](https://github.com/apple/servicetalk) topic:framework,grpc,http,http2,java,microservices,netty,reactive,reactive-streams,rpc pushed_at:2023-03 star:0.8k fork:0.2k A networking framework that evolves with your application
+- [apple/servicetalk](https://github.com/apple/servicetalk) topic:framework,grpc,http,http2,java,microservices,netty,reactive,reactive-streams,rpc pushed_at:2023-04 star:0.8k fork:0.2k A networking framework that evolves with your application
 
 ## JavaScript
 
 - [apple/password-manager-resources](https://github.com/apple/password-manager-resources) topic: pushed_at:2023-03 star:3.7k fork:0.4k A place for creators and users of password managers to collaborate on resources to make password management better.
 - [apple/sample-cloudkit-tooling](https://github.com/apple/sample-cloudkit-tooling) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
-- [apple/swift-docc-render](https://github.com/apple/swift-docc-render) topic: pushed_at:2023-03 star:0.2k fork:0.0k Web renderer for Swift-DocC documentation.
+- [apple/swift-docc-render](https://github.com/apple/swift-docc-render) topic: pushed_at:2023-04 star:0.2k fork:0.0k Web renderer for Swift-DocC documentation.
 
 ## Jupyter Notebook
 
@@ -102,8 +102,8 @@
 
 ## Markdown
 
-- [apple/swift-book](https://github.com/apple/swift-book) topic: pushed_at:2023-03 star:1.4k fork:0.1k The Swift Programming Language book
-- [apple/swift-evolution](https://github.com/apple/swift-evolution) topic: pushed_at:2023-03 star:14.1k fork:2.4k This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
+- [apple/swift-book](https://github.com/apple/swift-book) topic: pushed_at:2023-04 star:1.4k fork:0.1k The Swift Programming Language book
+- [apple/swift-evolution](https://github.com/apple/swift-evolution) topic: pushed_at:2023-04 star:14.2k fork:2.4k This maintains proposals for changes and user-visible enhancements to the Swift Programming Language.
 
 ## Mathematica
 
@@ -111,15 +111,15 @@
 
 ## Others
 
-- [apple/device-management](https://github.com/apple/device-management) topic: pushed_at:2023-01 star:0.3k fork:0.0k Device management schema data for MDM.
+- [apple/device-management](https://github.com/apple/device-management) topic: pushed_at:2023-04 star:0.3k fork:0.0k Device management schema data for MDM.
 - [apple/llvm-monorepo-root](https://github.com/apple/llvm-monorepo-root) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
-- [apple/llvm-project](https://github.com/apple/llvm-project) topic: pushed_at:2023-03 star:0.8k fork:0.3k The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Apple’s stable releases of Clang as well as support the Swift project.
+- [apple/llvm-project](https://github.com/apple/llvm-project) topic: pushed_at:2023-04 star:0.8k fork:0.3k The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.  This fork is used to manage Apple’s stable releases of Clang as well as support the Swift project.
 - [apple/MaterialX](https://github.com/apple/MaterialX) topic: pushed_at:2023-03 star:0.0k fork:0.0k MaterialX is an open standard for the exchange of rich material and look-development content across applications and renderers.
 - [apple/ml-gaudi](https://github.com/apple/ml-gaudi) topic: pushed_at:2022-07 star:0.6k fork:0.0k 
 - [apple/ml-interspeech2022-phi_rtn](https://github.com/apple/ml-interspeech2022-phi_rtn) topic:language-modeling,machine-learning,speech-recognition,virtual-assistants pushed_at:2022-09 star:0.0k fork:0.0k Repository accompanying the Interspeech 2022 publication titled "Space-Efficient Representation of Entity-centric Query Language Models" by Van Gysel et al.
 - [apple/ml-transcript-translation-consistency-ratings](https://github.com/apple/ml-transcript-translation-consistency-ratings) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [apple/swift-community-hosted-continuous-integration](https://github.com/apple/swift-community-hosted-continuous-integration) topic: pushed_at:2022-09 star:0.1k fork:0.1k Swift Community-Hosted Continuous Integration
-- [apple/swift-docc-render-artifact](https://github.com/apple/swift-docc-render-artifact) topic: pushed_at:2023-03 star:0.0k fork:0.0k Pre-built copy of the web renderer for Swift-DocC documentation.
+- [apple/swift-docc-render-artifact](https://github.com/apple/swift-docc-render-artifact) topic: pushed_at:2023-04 star:0.0k fork:0.0k Pre-built copy of the web renderer for Swift-DocC documentation.
 - [apple/swift-issues](https://github.com/apple/swift-issues) topic: pushed_at:2022-04 star:0.0k fork:0.0k DO NOT MODIFY ISSUES
 - [apple/swift-protobuf-plugin](https://github.com/apple/swift-protobuf-plugin) topic: pushed_at:2017-06 star:0.8k fork:0.0k Moved to apple/swift-protobuf
 - [apple/swift-protobuf-test-conformance](https://github.com/apple/swift-protobuf-test-conformance) topic: pushed_at:2016-12 star:0.0k fork:0.0k Plugin for Google's conformance test to verify compatibility of swift-protobuf
@@ -133,7 +133,7 @@
 - [apple/ccs-pyosxframeworks](https://github.com/apple/ccs-pyosxframeworks) topic: pushed_at:2017-02 star:0.0k fork:0.0k Python Framework for macOS APIs used by CalendarServer
 - [apple/ccs-pysecuretransport](https://github.com/apple/ccs-pysecuretransport) topic: pushed_at:2017-02 star:0.0k fork:0.0k Twisted SecureTransport library used by CalendarServer
 - [apple/ccs-twistedextensions](https://github.com/apple/ccs-twistedextensions) topic: pushed_at:2019-05 star:0.0k fork:0.0k Extensions to Twisted used by CalendarServer
-- [apple/coremltools](https://github.com/apple/coremltools) topic:coreml,coremltools,machine-learning,model-conversion,model-converter,pytorch,tensorflow pushed_at:2023-03 star:3.2k fork:0.5k Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
+- [apple/coremltools](https://github.com/apple/coremltools) topic:coreml,coremltools,machine-learning,model-conversion,model-converter,pytorch,tensorflow pushed_at:2023-04 star:3.2k fork:0.5k Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
 - [apple/learning-compressible-subspaces](https://github.com/apple/learning-compressible-subspaces) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
 - [apple/learning-subspaces](https://github.com/apple/learning-subspaces) topic: pushed_at:2021-03 star:0.1k fork:0.0k 
 - [apple/ml-afv](https://github.com/apple/ml-afv) topic:neurips-2019 pushed_at:2022-06 star:0.0k fork:0.0k 
@@ -170,13 +170,13 @@
 - [apple/ml-selfcond](https://github.com/apple/ml-selfcond) topic: pushed_at:2022-07 star:0.0k fork:0.0k Self-Conditioning Pre-Trained Language Models, ICML 2022
 - [apple/ml-shuffling-amplification](https://github.com/apple/ml-shuffling-amplification) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [apple/ml-spin](https://github.com/apple/ml-spin) topic: pushed_at:2022-07 star:0.0k fork:0.0k This repository contains the official implementation for the ECCV'22 paper, "SPIN: An Empirical Evaluation on Sharing Parameters of Isotropic Networks".
-- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) topic: pushed_at:2023-03 star:6.2k fork:0.3k Stable Diffusion with Core ML on Apple Silicon
+- [apple/ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion) topic: pushed_at:2023-04 star:10.4k fork:0.5k Stable Diffusion with Core ML on Apple Silicon
 - [apple/ml-stuttering-events-dataset](https://github.com/apple/ml-stuttering-events-dataset) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [apple/ml-tree-dst](https://github.com/apple/ml-tree-dst) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [apple/ml-uwac](https://github.com/apple/ml-uwac) topic: pushed_at:2021-07 star:0.0k fork:0.0k 
 - [apple/ml-vfi-smiff](https://github.com/apple/ml-vfi-smiff) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
-- [apple/swift-integration-tests](https://github.com/apple/swift-integration-tests) topic: pushed_at:2023-03 star:0.1k fork:0.1k Automated tests for validating the generated Swift snapshots behave correctly
-- [apple/swift-source-compat-suite](https://github.com/apple/swift-source-compat-suite) topic: pushed_at:2023-03 star:0.3k fork:0.1k The infrastructure and project index comprising the Swift source compatibility suite.
+- [apple/swift-integration-tests](https://github.com/apple/swift-integration-tests) topic: pushed_at:2023-04 star:0.1k fork:0.1k Automated tests for validating the generated Swift snapshots behave correctly
+- [apple/swift-source-compat-suite](https://github.com/apple/swift-source-compat-suite) topic: pushed_at:2023-04 star:0.3k fork:0.1k The infrastructure and project index comprising the Swift source compatibility suite.
 - [apple/vqg-multimodal-assistant](https://github.com/apple/vqg-multimodal-assistant) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
 
 ## R
@@ -185,7 +185,7 @@
 
 ## SCSS
 
-- [apple/swift-org-website](https://github.com/apple/swift-org-website) topic: pushed_at:2023-03 star:0.4k fork:0.1k Swift.org website
+- [apple/swift-org-website](https://github.com/apple/swift-org-website) topic: pushed_at:2023-04 star:0.4k fork:0.1k Swift.org website
 
 ## Shell
 
@@ -201,8 +201,8 @@
 - [apple/example-package-dealer](https://github.com/apple/example-package-dealer) topic: pushed_at:2022-04 star:0.3k fork:0.1k Example package for use with the Swift Package Manager
 - [apple/example-package-deckofplayingcards](https://github.com/apple/example-package-deckofplayingcards) topic: pushed_at:2022-04 star:0.2k fork:0.1k Example package for use with the Swift Package Manager
 - [apple/example-package-fisheryates](https://github.com/apple/example-package-fisheryates) topic: pushed_at:2021-10 star:0.2k fork:0.1k Example package for use with the Swift Package Manager
-- [apple/example-package-playingcard](https://github.com/apple/example-package-playingcard) topic: pushed_at:2022-04 star:0.3k fork:0.1k Example package for use with the Swift Package Manager
-- [apple/FHIRModels](https://github.com/apple/FHIRModels) topic:fhir,swift,swift-package-manager pushed_at:2022-08 star:0.1k fork:0.0k Swift library for FHIR® resource data models
+- [apple/example-package-playingcard](https://github.com/apple/example-package-playingcard) topic: pushed_at:2023-04 star:0.3k fork:0.1k Example package for use with the Swift Package Manager
+- [apple/FHIRModels](https://github.com/apple/FHIRModels) topic:fhir,swift,swift-package-manager pushed_at:2023-04 star:0.1k fork:0.0k Swift library for FHIR® resource data models
 - [apple/ml-mobileone](https://github.com/apple/ml-mobileone) topic: pushed_at:2022-07 star:0.4k fork:0.0k This repository contains the official implementation of the research paper, "An Improved One millisecond Mobile Backbone".
 - [apple/sample-cloudkit-coredatasync](https://github.com/apple/sample-cloudkit-coredatasync) topic: pushed_at:2022-02 star:0.2k fork:0.0k 
 - [apple/sample-cloudkit-encryption](https://github.com/apple/sample-cloudkit-encryption) topic: pushed_at:2022-05 star:0.1k fork:0.0k 
@@ -212,43 +212,43 @@
 - [apple/sample-cloudkit-sharing](https://github.com/apple/sample-cloudkit-sharing) topic: pushed_at:2022-09 star:0.3k fork:0.0k 
 - [apple/sample-cloudkit-zonesharing](https://github.com/apple/sample-cloudkit-zonesharing) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [apple/sample-food-truck](https://github.com/apple/sample-food-truck) topic:swift,swiftui pushed_at:2023-02 star:1.5k fork:0.1k SwiftUI sample code from WWDC22
-- [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) topic: pushed_at:2023-03 star:2.8k fork:0.2k Language Server Protocol implementation for Swift and C-based languages
+- [apple/sourcekit-lsp](https://github.com/apple/sourcekit-lsp) topic: pushed_at:2023-04 star:2.8k fork:0.2k Language Server Protocol implementation for Swift and C-based languages
 - [apple/swift-3-api-guidelines-review](https://github.com/apple/swift-3-api-guidelines-review) topic: pushed_at:2018-11 star:0.5k fork:0.1k 
 - [apple/swift-algorithms](https://github.com/apple/swift-algorithms) topic:algorithm,iterator,itertools pushed_at:2023-03 star:4.9k fork:0.4k Commonly used sequence and collection algorithms for Swift
-- [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) topic:cli,command-line,flag,option pushed_at:2023-03 star:2.9k fork:0.3k Straightforward, type-safe argument parsing for Swift
+- [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) topic:cli,command-line,flag,option pushed_at:2023-04 star:2.9k fork:0.3k Straightforward, type-safe argument parsing for Swift
 - [apple/swift-asn1](https://github.com/apple/swift-asn1) topic:asn1,der,swift pushed_at:2023-03 star:0.1k fork:0.0k An implementation of ASN.1 for Swift
-- [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) topic:swift pushed_at:2023-03 star:2.1k fork:0.1k Async Algorithms for Swift
-- [apple/swift-atomics](https://github.com/apple/swift-atomics) topic:concurrency,synchronization pushed_at:2023-03 star:0.8k fork:0.0k Low-level atomic operations for Swift
-- [apple/swift-cassandra-client](https://github.com/apple/swift-cassandra-client) topic: pushed_at:2023-03 star:0.1k fork:0.0k Cassandra client in Swift
-- [apple/swift-certificates](https://github.com/apple/swift-certificates) topic:certificates,swift,x509 pushed_at:2023-03 star:0.1k fork:0.0k An implementation of X.509 for Swift
-- [apple/swift-cluster-membership](https://github.com/apple/swift-cluster-membership) topic:distributed-systems,server-side-swift,swift,swift-on-server pushed_at:2023-01 star:0.2k fork:0.0k Distributed Membership Protocol implementations in Swift
+- [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) topic:swift pushed_at:2023-04 star:2.1k fork:0.1k Async Algorithms for Swift
+- [apple/swift-atomics](https://github.com/apple/swift-atomics) topic:concurrency,synchronization pushed_at:2023-04 star:0.8k fork:0.0k Low-level atomic operations for Swift
+- [apple/swift-cassandra-client](https://github.com/apple/swift-cassandra-client) topic: pushed_at:2023-04 star:0.1k fork:0.0k Cassandra client in Swift
+- [apple/swift-certificates](https://github.com/apple/swift-certificates) topic:certificates,swift,x509 pushed_at:2023-04 star:0.1k fork:0.0k An implementation of X.509 for Swift
+- [apple/swift-cluster-membership](https://github.com/apple/swift-cluster-membership) topic:distributed-systems,server-side-swift,swift,swift-on-server pushed_at:2023-04 star:0.2k fork:0.0k Distributed Membership Protocol implementations in Swift
 - [apple/swift-collections](https://github.com/apple/swift-collections) topic:collection,container,deque,dequeue,hash,ordered-dictionary,ordered-set,queue,sequence pushed_at:2023-03 star:2.8k fork:0.2k Commonly used data structures for Swift
 - [apple/swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark) topic: pushed_at:2022-09 star:0.3k fork:0.0k A benchmarking tool for Swift Collection algorithms
-- [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) topic: pushed_at:2023-03 star:4.9k fork:1.1k The Foundation Project, providing core utilities, internationalization, and OS independence
-- [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) topic: pushed_at:2023-03 star:1.0k fork:0.3k The XCTest Project, A Swift core library for providing unit test support
-- [apple/swift-distributed-actors](https://github.com/apple/swift-distributed-actors) topic:actor-model,actors,distributed-systems,swift pushed_at:2023-03 star:0.5k fork:0.0k Peer-to-peer cluster implementation for Swift Distributed Actors
-- [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) topic:distributed-systems,distributed-tracing,tracing pushed_at:2023-03 star:0.1k fork:0.0k Instrumentation library for Swift server applications
-- [apple/swift-distributed-tracing-baggage](https://github.com/apple/swift-distributed-tracing-baggage) topic:async-context,baggage,baggage-context,concurrency,context-propagation,distributed-systems,trace-context pushed_at:2023-02 star:0.0k fork:0.0k Minimal context propagation container with Logging
-- [apple/swift-distributed-tracing-baggage-core](https://github.com/apple/swift-distributed-tracing-baggage-core) topic:distributed-tracing,sswg,swift pushed_at:2023-01 star:0.0k fork:0.0k Minimal context propagation container
-- [apple/swift-distributed-tracing-extras](https://github.com/apple/swift-distributed-tracing-extras) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
-- [apple/swift-docc](https://github.com/apple/swift-docc) topic: pushed_at:2023-03 star:0.9k fork:0.1k Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.
+- [apple/swift-corelibs-foundation](https://github.com/apple/swift-corelibs-foundation) topic: pushed_at:2023-04 star:4.9k fork:1.1k The Foundation Project, providing core utilities, internationalization, and OS independence
+- [apple/swift-corelibs-xctest](https://github.com/apple/swift-corelibs-xctest) topic: pushed_at:2023-04 star:1.0k fork:0.3k The XCTest Project, A Swift core library for providing unit test support
+- [apple/swift-distributed-actors](https://github.com/apple/swift-distributed-actors) topic:actor-model,actors,distributed-systems,swift pushed_at:2023-04 star:0.5k fork:0.0k Peer-to-peer cluster implementation for Swift Distributed Actors
+- [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) topic:distributed-systems,distributed-tracing,tracing pushed_at:2023-04 star:0.1k fork:0.0k Instrumentation library for Swift server applications
+- [apple/swift-distributed-tracing-baggage](https://github.com/apple/swift-distributed-tracing-baggage) topic:async-context,baggage,baggage-context,concurrency,context-propagation,distributed-systems,trace-context pushed_at:2023-04 star:0.0k fork:0.0k Minimal context propagation container with Logging
+- [apple/swift-distributed-tracing-baggage-core](https://github.com/apple/swift-distributed-tracing-baggage-core) topic:distributed-tracing,sswg,swift pushed_at:2023-04 star:0.0k fork:0.0k Minimal context propagation container
+- [apple/swift-distributed-tracing-extras](https://github.com/apple/swift-distributed-tracing-extras) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
+- [apple/swift-docc](https://github.com/apple/swift-docc) topic: pushed_at:2023-04 star:0.9k fork:0.1k Documentation compiler that produces rich API reference documentation and interactive tutorials for your Swift framework or package.
 - [apple/swift-docc-plugin](https://github.com/apple/swift-docc-plugin) topic: pushed_at:2023-03 star:0.3k fork:0.0k Swift Package Manager command plugin for Swift-DocC
-- [apple/swift-docc-symbolkit](https://github.com/apple/swift-docc-symbolkit) topic: pushed_at:2023-03 star:0.1k fork:0.0k A Swift package for encoding and decoding Swift Symbol Graph files.
-- [apple/swift-driver](https://github.com/apple/swift-driver) topic: pushed_at:2023-03 star:0.7k fork:0.2k Swift compiler driver reimplementation in Swift
+- [apple/swift-docc-symbolkit](https://github.com/apple/swift-docc-symbolkit) topic: pushed_at:2023-04 star:0.1k fork:0.0k A Swift package for encoding and decoding Swift Symbol Graph files.
+- [apple/swift-driver](https://github.com/apple/swift-driver) topic: pushed_at:2023-04 star:0.7k fork:0.2k Swift compiler driver reimplementation in Swift
 - [apple/swift-evolution-staging](https://github.com/apple/swift-evolution-staging) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
-- [apple/swift-experimental-string-processing](https://github.com/apple/swift-experimental-string-processing) topic: pushed_at:2023-03 star:0.2k fork:0.0k An early experimental general-purpose pattern matching engine for Swift.
-- [apple/swift-format](https://github.com/apple/swift-format) topic: pushed_at:2023-03 star:1.9k fork:0.2k Formatting technology for Swift source code
+- [apple/swift-experimental-string-processing](https://github.com/apple/swift-experimental-string-processing) topic: pushed_at:2023-04 star:0.2k fork:0.0k An early experimental general-purpose pattern matching engine for Swift.
+- [apple/swift-format](https://github.com/apple/swift-format) topic: pushed_at:2023-04 star:1.9k fork:0.2k Formatting technology for Swift source code
 - [apple/swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) topic:headers,http,structured-fields,swift pushed_at:2023-01 star:0.1k fork:0.0k A Swift implementation of the HTTP Structured Header Field specification.
 - [apple/swift-llbuild2](https://github.com/apple/swift-llbuild2) topic: pushed_at:2023-02 star:0.3k fork:0.0k A fresh take on a low-level build system API.
 - [apple/swift-llvm-bindings](https://github.com/apple/swift-llvm-bindings) topic: pushed_at:2023-03 star:0.1k fork:0.0k Swift Bindings for LLVM Project APIs
-- [apple/swift-log](https://github.com/apple/swift-log) topic:logging,swift-server pushed_at:2023-03 star:2.9k fork:0.2k A Logging API for Swift
-- [apple/swift-markdown](https://github.com/apple/swift-markdown) topic: pushed_at:2023-03 star:2.1k fork:0.1k A Swift package for parsing, building, editing, and analyzing Markdown documents.
-- [apple/swift-metrics](https://github.com/apple/swift-metrics) topic:metrics,swift-server pushed_at:2023-03 star:0.5k fork:0.0k A Metrics API for Swift
-- [apple/swift-metrics-extras](https://github.com/apple/swift-metrics-extras) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
-- [apple/swift-nio](https://github.com/apple/swift-nio) topic:asynchronous-io,event-driven,high-performance,networking,non-blocking,non-blocking-io,swift,swift-server,swift5,swiftnio pushed_at:2023-03 star:7.3k fork:0.6k Event-driven network application framework for high performance protocol servers & clients, non-blocking.
+- [apple/swift-log](https://github.com/apple/swift-log) topic:logging,swift-server pushed_at:2023-04 star:3.0k fork:0.2k A Logging API for Swift
+- [apple/swift-markdown](https://github.com/apple/swift-markdown) topic: pushed_at:2023-04 star:2.1k fork:0.1k A Swift package for parsing, building, editing, and analyzing Markdown documents.
+- [apple/swift-metrics](https://github.com/apple/swift-metrics) topic:metrics,swift-server pushed_at:2023-04 star:0.5k fork:0.0k A Metrics API for Swift
+- [apple/swift-metrics-extras](https://github.com/apple/swift-metrics-extras) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
+- [apple/swift-nio](https://github.com/apple/swift-nio) topic:asynchronous-io,event-driven,high-performance,networking,non-blocking,non-blocking-io,swift,swift-server,swift5,swiftnio pushed_at:2023-04 star:7.3k fork:0.6k Event-driven network application framework for high performance protocol servers & clients, non-blocking.
 - [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) topic: pushed_at:2022-11 star:0.2k fork:0.1k examples of how to use swift-nio
 - [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) topic:swift5,swiftnio pushed_at:2023-03 star:0.2k fork:0.1k Useful code around SwiftNIO.
-- [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) topic:async,beta,http2,swift5,swiftnio pushed_at:2023-03 star:0.4k fork:0.1k HTTP/2 support for SwiftNIO
+- [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) topic:async,beta,http2,swift5,swiftnio pushed_at:2023-04 star:0.4k fork:0.1k HTTP/2 support for SwiftNIO
 - [apple/swift-nio-imap](https://github.com/apple/swift-nio-imap) topic: pushed_at:2023-03 star:0.1k fork:0.0k A Swift project that provides an implementation of the IMAP4rev1 protocol, built upon SwiftNIO.
 - [apple/swift-nio-nghttp2-support](https://github.com/apple/swift-nio-nghttp2-support) topic: pushed_at:2020-12 star:0.0k fork:0.0k 
 - [apple/swift-nio-ssh](https://github.com/apple/swift-nio-ssh) topic: pushed_at:2023-02 star:0.3k fork:0.0k SwiftNIO SSH is a programmatic implementation of SSH using SwiftNIO
@@ -256,27 +256,27 @@
 - [apple/swift-nio-transport-services](https://github.com/apple/swift-nio-transport-services) topic: pushed_at:2023-01 star:0.2k fork:0.1k Extensions for SwiftNIO to support Apple platforms as first-class citizens.
 - [apple/swift-nio-zlib-support](https://github.com/apple/swift-nio-zlib-support) topic:swift4,swiftnio,zlib pushed_at:2021-07 star:0.0k fork:0.0k 
 - [apple/swift-numerics](https://github.com/apple/swift-numerics) topic:complex,math,mathematics,maths,real,trig pushed_at:2023-03 star:1.5k fork:0.1k Advanced mathematical types and functions for Swift
-- [apple/swift-package-collection-generator](https://github.com/apple/swift-package-collection-generator) topic: pushed_at:2023-03 star:0.1k fork:0.0k A collection of packages and tooling for generating and consuming package feeds.
-- [apple/swift-package-manager](https://github.com/apple/swift-package-manager) topic: pushed_at:2023-03 star:9.2k fork:1.3k The Package Manager for the Swift Programming Language
+- [apple/swift-package-collection-generator](https://github.com/apple/swift-package-collection-generator) topic: pushed_at:2023-04 star:0.1k fork:0.0k A collection of packages and tooling for generating and consuming package feeds.
+- [apple/swift-package-manager](https://github.com/apple/swift-package-manager) topic: pushed_at:2023-04 star:9.2k fork:1.3k The Package Manager for the Swift Programming Language
 - [apple/swift-package-registry-compatibility-test-suite](https://github.com/apple/swift-package-registry-compatibility-test-suite) topic: pushed_at:2021-12 star:0.0k fork:0.0k Tools for building and testing Swift package registry server that implements SE-0292 and SE-0321
-- [apple/swift-protobuf](https://github.com/apple/swift-protobuf) topic: pushed_at:2023-03 star:4.1k fork:0.4k Plugin and runtime library for using protobuf with Swift
+- [apple/swift-protobuf](https://github.com/apple/swift-protobuf) topic: pushed_at:2023-04 star:4.2k fork:0.4k Plugin and runtime library for using protobuf with Swift
 - [apple/swift-sample-distributed-actors-transport](https://github.com/apple/swift-sample-distributed-actors-transport) topic: pushed_at:2022-12 star:0.1k fork:0.0k Distributed actors transport example, for feature review
 - [apple/swift-se0270-range-set](https://github.com/apple/swift-se0270-range-set) topic: pushed_at:2022-10 star:0.0k fork:0.0k Swift Evolution preview package for SE-0270.
 - [apple/swift-se0288-is-power](https://github.com/apple/swift-se0288-is-power) topic: pushed_at:2021-12 star:0.0k fork:0.0k Preview package for Swift Evolution proposal SE-0288
-- [apple/swift-service-discovery](https://github.com/apple/swift-service-discovery) topic: pushed_at:2023-01 star:0.2k fork:0.0k A service discovery API for Swift.
+- [apple/swift-service-discovery](https://github.com/apple/swift-service-discovery) topic: pushed_at:2023-04 star:0.2k fork:0.0k A service discovery API for Swift.
 - [apple/swift-standard-library-preview](https://github.com/apple/swift-standard-library-preview) topic: pushed_at:2021-12 star:0.2k fork:0.0k 
-- [apple/swift-statsd-client](https://github.com/apple/swift-statsd-client) topic: pushed_at:2023-01 star:0.1k fork:0.0k metrics backend for swift-metrics that uses the statsd protocol
-- [apple/swift-stress-tester](https://github.com/apple/swift-stress-tester) topic: pushed_at:2023-03 star:0.2k fork:0.0k Stress testing utilities for Swift's tooling
-- [apple/swift-syntax](https://github.com/apple/swift-syntax) topic: pushed_at:2023-03 star:2.1k fork:0.2k A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
+- [apple/swift-statsd-client](https://github.com/apple/swift-statsd-client) topic: pushed_at:2023-04 star:0.1k fork:0.0k metrics backend for swift-metrics that uses the statsd protocol
+- [apple/swift-stress-tester](https://github.com/apple/swift-stress-tester) topic: pushed_at:2023-04 star:0.2k fork:0.0k Stress testing utilities for Swift's tooling
+- [apple/swift-syntax](https://github.com/apple/swift-syntax) topic: pushed_at:2023-04 star:2.2k fork:0.2k A set of Swift libraries for parsing, inspecting, generating, and transforming Swift source code.
 - [apple/swift-system](https://github.com/apple/swift-system) topic:file-descriptor,file-path,posix pushed_at:2023-03 star:1.1k fork:0.1k Low-level system calls and types for Swift
 - [apple/swift-tools-support-async](https://github.com/apple/swift-tools-support-async) topic: pushed_at:2023-03 star:0.0k fork:0.0k Common infrastructural helpers on top of NIO for llbuild2 and swiftpm-on-llbuild2 projects. This is NOT a general purpose package and is unlikely to ever become stable.
-- [apple/swift-tools-support-core](https://github.com/apple/swift-tools-support-core) topic: pushed_at:2023-03 star:0.4k fork:0.1k Contains common infrastructural code for both SwiftPM and llbuild.
-- [apple/swift-xcode-playground-support](https://github.com/apple/swift-xcode-playground-support) topic: pushed_at:2023-03 star:0.3k fork:0.1k Logging and communication to allow Swift toolchains to communicate with Xcode.
+- [apple/swift-tools-support-core](https://github.com/apple/swift-tools-support-core) topic: pushed_at:2023-04 star:0.4k fork:0.1k Contains common infrastructural code for both SwiftPM and llbuild.
+- [apple/swift-xcode-playground-support](https://github.com/apple/swift-xcode-playground-support) topic: pushed_at:2023-04 star:0.3k fork:0.1k Logging and communication to allow Swift toolchains to communicate with Xcode.
 - [apple/swiftpm-on-llbuild2](https://github.com/apple/swiftpm-on-llbuild2) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
 
 ## TypeScript
 
-- [apple/ml-hierarchical-confusion-matrix](https://github.com/apple/ml-hierarchical-confusion-matrix) topic:confusion-matrix,data-visualization,machine-learning,visual-analytics pushed_at:2023-03 star:0.3k fork:0.0k Neo: Hierarchical Confusion Matrix Visualization
+- [apple/ml-hierarchical-confusion-matrix](https://github.com/apple/ml-hierarchical-confusion-matrix) topic:confusion-matrix,data-visualization,machine-learning,visual-analytics pushed_at:2023-04 star:0.3k fork:0.0k Neo: Hierarchical Confusion Matrix Visualization
 
 
 ## License
