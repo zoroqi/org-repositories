@@ -60,7 +60,7 @@
 ## HTML
 
 - [EFForg/hugo-book](https://github.com/EFForg/hugo-book) topic: pushed_at:2020-08 star:0.0k fork:0.0k Hugo documentation theme as simple as plain book
-- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) topic: pushed_at:2023-03 star:0.0k fork:0.0k Test fixtures for Privacy Badger
+- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) topic: pushed_at:2023-04 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/privacybadger-test-fixtures-alt](https://github.com/EFForg/privacybadger-test-fixtures-alt) topic: pushed_at:2023-03 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/privacybadger-test-fixtures-subdomain](https://github.com/EFForg/privacybadger-test-fixtures-subdomain) topic: pushed_at:2023-03 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/sas](https://github.com/EFForg/sas) topic: pushed_at:2017-05 star:0.0k fork:0.0k Stand Against Spying
@@ -156,7 +156,7 @@
 
 ## Rust
 
-- [EFForg/apkeep](https://github.com/EFForg/apkeep) topic: pushed_at:2023-03 star:0.6k fork:0.0k 
+- [EFForg/apkeep](https://github.com/EFForg/apkeep) topic: pushed_at:2023-04 star:0.6k fork:0.0k 
 - [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) topic: pushed_at:2023-01 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
 - [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) topic: pushed_at:2023-01 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) topic: pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
