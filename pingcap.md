@@ -120,7 +120,7 @@
 - [pingcap/themis](https://github.com/pingcap/themis) topic: pushed_at:2018-12 star:0.0k fork:0.0k Themis provides cross-row/cross-table transaction on HBase based on google's percolator.
 - [pingcap/tidb-course-201-lab](https://github.com/pingcap/tidb-course-201-lab) topic: pushed_at:2023-04 star:0.0k fork:0.0k Lab scripts for the PingCAP training course: TiDB SQL for Developers.
 - [pingcap/tidb-datanucleus-adapter](https://github.com/pingcap/tidb-datanucleus-adapter) topic: pushed_at:2019-04 star:0.0k fork:0.0k datanucleus, hive
-- [pingcap/tidb-loadbalance](https://github.com/pingcap/tidb-loadbalance) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
+- [pingcap/tidb-loadbalance](https://github.com/pingcap/tidb-loadbalance) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [pingcap/tikv-client-lib-java](https://github.com/pingcap/tikv-client-lib-java) topic: pushed_at:2017-12 star:0.0k fork:0.0k TiKV Java client library
 
 ## JavaScript
@@ -212,7 +212,7 @@
 - [pingcap/k8s-fluent-bit-stackdriver](https://github.com/pingcap/k8s-fluent-bit-stackdriver) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
 - [pingcap/kdt](https://github.com/pingcap/kdt) topic: pushed_at:2019-03 star:0.0k fork:0.0k Kernel Debug Toolkit
 - [pingcap/kubeadm-dind-cluster](https://github.com/pingcap/kubeadm-dind-cluster) topic: pushed_at:2018-12 star:0.0k fork:0.0k A Kubernetes multi-node test cluster based on kubeadm
-- [pingcap/monitoring](https://github.com/pingcap/monitoring) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
+- [pingcap/monitoring](https://github.com/pingcap/monitoring) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [pingcap/tidb-helper](https://github.com/pingcap/tidb-helper) topic:brew,deb,rpm pushed_at:2020-04 star:0.0k fork:0.0k 
 
 ## TLA
@@ -221,11 +221,11 @@
 
 ## TypeScript
 
-- [pingcap/chat2query-hackernews](https://github.com/pingcap/chat2query-hackernews) topic:chatgpt,database,hackernews,mysql-compatibility,openai,tidbcloud pushed_at:2023-03 star:0.0k fork:0.0k Chat to query Hacker News database!
 - [pingcap/diagnosis-ui](https://github.com/pingcap/diagnosis-ui) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [pingcap/gdocwiki](https://github.com/pingcap/gdocwiki) topic: pushed_at:2023-03 star:0.1k fork:0.0k A wiki based on Google Doc / Drive
 - [pingcap/ossinsight](https://github.com/pingcap/ossinsight) topic:aisql,analytics,chat2query,demo,github,htap,insight,openai,oss,realtime,text2sql pushed_at:2023-04 star:1.1k fork:0.2k Open Source Software Insights - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 5 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
-- [pingcap/sp500-insight-template](https://github.com/pingcap/sp500-insight-template) topic: pushed_at:2023-03 star:0.0k fork:0.0k SP500 Insight vercel template based on TiDB Cloud Data API: https://sp500-insight.vercel.app
+- [pingcap/realtime-hackernewsdb-on-serverless](https://github.com/pingcap/realtime-hackernewsdb-on-serverless) topic:autogpt,chatgpt,database,hackernews,mysql-compatibility,openai,tidbcloud pushed_at:2023-04 star:0.0k fork:0.0k Chat to query Hacker News database, based on Auto-GPT and TiDB Cloud Serverless Database
+- [pingcap/sp500-insight-template](https://github.com/pingcap/sp500-insight-template) topic: pushed_at:2023-04 star:0.0k fork:0.0k SP500 Insight vercel template based on TiDB Cloud Data API: https://sp500-insight.vercel.app
 - [pingcap/steam-insight-template](https://github.com/pingcap/steam-insight-template) topic: pushed_at:2023-03 star:0.0k fork:0.0k Steam Insight vercel template based on TiDB Cloud Data API: https://steam-insight.vercel.app/
 - [pingcap/tidb-dashboard](https://github.com/pingcap/tidb-dashboard) topic:dashboard,tidb,troubleshooting,ui pushed_at:2023-04 star:0.2k fork:0.1k A Web UI for monitoring, diagnosing and managing the TiDB cluster.
 - [pingcap/TiDB-Lambda-integration](https://github.com/pingcap/TiDB-Lambda-integration) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
