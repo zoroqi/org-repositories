@@ -57,7 +57,7 @@
 
 ## Others
 
-- [ustclug/discussions](https://github.com/ustclug/discussions) topic:issue-tracker pushed_at:2020-11 star:0.0k fork:0.0k Issue Tracker for USTC LUG
+- [ustclug/discussions](https://github.com/ustclug/discussions) topic:issue-tracker pushed_at:2023-04 star:0.0k fork:0.0k Issue Tracker for USTC LUG
 - [ustclug/documentations](https://github.com/ustclug/documentations) topic: pushed_at:2023-04 star:0.0k fork:0.0k LUG @ USTC General Documentation
 - [ustclug/hackergame2020-writeups](https://github.com/ustclug/hackergame2020-writeups) topic: pushed_at:2020-11 star:0.0k fork:0.0k 
 - [ustclug/lug-stickers](https://github.com/ustclug/lug-stickers) topic: pushed_at:2019-05 star:0.0k fork:0.0k 
