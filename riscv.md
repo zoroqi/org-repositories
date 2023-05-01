@@ -19,7 +19,7 @@
 ## Assembly
 
 - [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) topic: pushed_at:2023-04 star:0.2k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
-- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) topic: pushed_at:2023-04 star:0.7k fork:0.2k Working draft of the proposed RISC-V V vector extension
+- [riscv/riscv-v-spec](https://github.com/riscv/riscv-v-spec) topic: pushed_at:2023-04 star:0.7k fork:0.3k Working draft of the proposed RISC-V V vector extension
 
 ## BitBake
 
@@ -61,7 +61,7 @@
 - [riscv/genz-on-riscv](https://github.com/riscv/genz-on-riscv) topic: pushed_at:2019-04 star:0.0k fork:0.0k 
 - [riscv/riscv-aia](https://github.com/riscv/riscv-aia) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [riscv/riscv-alt-fp](https://github.com/riscv/riscv-alt-fp) topic: pushed_at:2022-04 star:0.0k fork:0.0k RISC-V Alternate FP Format
-- [riscv/riscv-docs-base-container-image](https://github.com/riscv/riscv-docs-base-container-image) topic: pushed_at:2023-04 star:0.0k fork:0.0k A base container image populated with the dependencies to build the RISC-V Documentation.
+- [riscv/riscv-docs-base-container-image](https://github.com/riscv/riscv-docs-base-container-image) topic: pushed_at:2023-05 star:0.0k fork:0.0k A base container image populated with the dependencies to build the RISC-V Documentation.
 - [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 - [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) topic: pushed_at:2023-03 star:0.1k fork:0.0k RISC-V Packed SIMD Extension
 - [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) topic: pushed_at:2023-03 star:0.1k fork:0.0k PLIC Specification
@@ -81,7 +81,7 @@
 - [riscv/docs-dev-guide](https://github.com/riscv/docs-dev-guide) topic: pushed_at:2023-04 star:0.0k fork:0.0k Documentation developer guide
 - [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [riscv/riscv-bfloat16](https://github.com/riscv/riscv-bfloat16) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
-- [riscv/riscv-control-transfer-history](https://github.com/riscv/riscv-control-transfer-history) topic: pushed_at:2022-10 star:0.0k fork:0.0k This repo contains a RISC-V ISA extension (proposal) to allow recording of control transfer history to on-chip registers, to support usages associated with profiling and debug.
+- [riscv/riscv-control-transfer-records](https://github.com/riscv/riscv-control-transfer-records) topic: pushed_at:2022-10 star:0.0k fork:0.0k This repo contains a RISC-V ISA extension (proposal) to allow recording of control transfer history to on-chip registers, to support usages associated with profiling and debug.
 - [riscv/riscv-count-overflow](https://github.com/riscv/riscv-count-overflow) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) topic: pushed_at:2023-04 star:0.4k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) topic: pushed_at:2023-04 star:2.6k fork:0.5k RISC-V Instruction Set Manual

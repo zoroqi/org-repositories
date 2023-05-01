@@ -273,7 +273,7 @@
 - [opencollective/contributors-svg](https://github.com/opencollective/contributors-svg) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [opencollective/core](https://github.com/opencollective/core) topic: pushed_at:2017-07 star:0.0k fork:0.0k Agnostic Virtual Assistant
 - [opencollective/core-js](https://github.com/opencollective/core-js) topic: pushed_at:2019-04 star:0.0k fork:0.0k Standard Library
-- [opencollective/country-currency-emoji-flags](https://github.com/opencollective/country-currency-emoji-flags) topic: pushed_at:2022-06 star:0.0k fork:0.0k Returns Country Flag Emojis Given the Country or Currency Codes
+- [opencollective/country-currency-emoji-flags](https://github.com/opencollective/country-currency-emoji-flags) topic: pushed_at:2023-04 star:0.0k fork:0.0k Returns Country Flag Emojis Given the Country or Currency Codes
 - [opencollective/cq-prolyfill](https://github.com/opencollective/cq-prolyfill) topic: pushed_at:2018-04 star:0.0k fork:0.0k Prolyfill for CSS Container Queries
 - [opencollective/create-react-app](https://github.com/opencollective/create-react-app) topic: pushed_at:2019-12 star:0.0k fork:0.0k Set up a modern web app by running one command.
 - [opencollective/dataloader-sequelize](https://github.com/opencollective/dataloader-sequelize) topic: pushed_at:2018-05 star:0.0k fork:0.0k Batching and simplification of Sequelize with facebook/dataloader
