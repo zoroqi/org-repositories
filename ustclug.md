@@ -31,13 +31,13 @@
 ## Go
 
 - [ustclug/light-socks5](https://github.com/ustclug/light-socks5) topic: pushed_at:2023-03 star:0.0k fork:0.0k light accelerator socks5 daemon
-- [ustclug/rsync-proxy](https://github.com/ustclug/rsync-proxy) topic:proxy,rsync pushed_at:2023-01 star:0.0k fork:0.0k 根据 module name 反向代理不同 host 上的 rsync daemon 以减轻单台主机上的 IO 压力
+- [ustclug/rsync-proxy](https://github.com/ustclug/rsync-proxy) topic:proxy,rsync pushed_at:2023-04 star:0.0k fork:0.0k 根据 module name 反向代理不同 host 上的 rsync daemon 以减轻单台主机上的 IO 压力
 - [ustclug/TunnelMonitor](https://github.com/ustclug/TunnelMonitor) topic: pushed_at:2021-08 star:0.0k fork:0.0k monitoring iptables connection balance and switching automatically
 - [ustclug/Yuki](https://github.com/ustclug/Yuki) topic:docker-container,mirror,restful-api pushed_at:2023-04 star:0.0k fork:0.0k Mirror management tool, developed and used in-house in USTC
 
 ## HTML
 
-- [ustclug/hackergame2019-writeups](https://github.com/ustclug/hackergame2019-writeups) topic: pushed_at:2020-07 star:0.3k fork:0.0k Write-ups for hackergame 2019
+- [ustclug/hackergame2019-writeups](https://github.com/ustclug/hackergame2019-writeups) topic: pushed_at:2020-07 star:0.3k fork:0.1k Write-ups for hackergame 2019
 - [ustclug/mirrors-index](https://github.com/ustclug/mirrors-index) topic: pushed_at:2018-05 star:0.0k fork:0.0k Go https://git.lug.ustc.edu.cn/mirrors/mirrors-index for latest version
 - [ustclug/news](https://github.com/ustclug/news) topic: pushed_at:2020-08 star:0.0k fork:0.0k USTC LUG 新闻站
 - [ustclug/qtguide](https://github.com/ustclug/qtguide) topic: pushed_at:2022-12 star:0.1k fork:0.0k Qt Programming Guide
@@ -71,7 +71,7 @@
 ## Python
 
 - [ustclug/blogs](https://github.com/ustclug/blogs) topic: pushed_at:2023-04 star:0.0k fork:0.0k USTCLUG 同学们的博客列表
-- [ustclug/hackergame](https://github.com/ustclug/hackergame) topic: pushed_at:2023-02 star:0.1k fork:0.0k Hackergame platform for 2018 and beyond
+- [ustclug/hackergame](https://github.com/ustclug/hackergame) topic: pushed_at:2023-04 star:0.1k fork:0.0k Hackergame platform for 2018 and beyond
 - [ustclug/hackergame2017](https://github.com/ustclug/hackergame2017) topic: pushed_at:2017-10 star:0.0k fork:0.0k 
 - [ustclug/library](https://github.com/ustclug/library) topic: pushed_at:2017-11 star:0.0k fork:0.0k LUG Library
 - [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) topic: pushed_at:2023-02 star:0.0k fork:0.0k LUG VPN 申请系统

@@ -37,7 +37,7 @@
 
 ## Java
 
-- [openjdk/aarch32-port-jdk8u](https://github.com/openjdk/aarch32-port-jdk8u) topic: pushed_at:2023-03 star:0.0k fork:0.0k https://openjdk.org/projects/aarch32-port
+- [openjdk/aarch32-port-jdk8u](https://github.com/openjdk/aarch32-port-jdk8u) topic: pushed_at:2023-04 star:0.0k fork:0.0k https://openjdk.org/projects/aarch32-port
 - [openjdk/aarch64-port](https://github.com/openjdk/aarch64-port) topic: pushed_at:2023-04 star:0.1k fork:0.0k Port: AArch64 Project
 - [openjdk/amber](https://github.com/openjdk/amber) topic: pushed_at:2023-04 star:0.1k fork:0.0k https://openjdk.org/projects/amber
 - [openjdk/asmtools](https://github.com/openjdk/asmtools) topic: pushed_at:2023-04 star:0.1k fork:0.0k https://wiki.openjdk.org/display/CodeTools/asmtools
@@ -48,11 +48,11 @@
 - [openjdk/galahad](https://github.com/openjdk/galahad) topic: pushed_at:2023-04 star:0.0k fork:0.0k https://openjdk.org/projects/galahad
 - [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2023-01 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2023-02 star:0.3k fork:0.1k https://openjdk.org/projects/code-tools/jcstress
-- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2023-04 star:15.7k fork:4.5k JDK main-line development https://openjdk.org/projects/jdk
+- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2023-04 star:15.8k fork:4.5k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2023-04 star:0.0k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2023-04 star:0.1k fork:0.2k https://openjdk.org/projects/jdk-updates
-- [openjdk/jdk11u-dev](https://github.com/openjdk/jdk11u-dev) topic: pushed_at:2023-04 star:0.0k fork:0.2k https://openjdk.org/projects/jdk-updates
+- [openjdk/jdk11u-dev](https://github.com/openjdk/jdk11u-dev) topic: pushed_at:2023-04 star:0.1k fork:0.2k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk11u-ri](https://github.com/openjdk/jdk11u-ri) topic: pushed_at:2023-04 star:0.0k fork:0.0k JSR 384 Reference Implementation (Java SE 11) [not for production use]
 - [openjdk/jdk12u](https://github.com/openjdk/jdk12u) topic: pushed_at:2020-10 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates last released 2019-07-16
 - [openjdk/jdk13](https://github.com/openjdk/jdk13) topic: pushed_at:2020-07 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/13 released 2019-09-17
@@ -72,11 +72,11 @@
 - [openjdk/jdk18u](https://github.com/openjdk/jdk18u) topic: pushed_at:2022-11 star:0.0k fork:0.1k https://openjdk.org/projects/jdk-updates last released 2022-08-18
 - [openjdk/jdk19](https://github.com/openjdk/jdk19) topic: pushed_at:2022-12 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/19
 - [openjdk/jdk19u](https://github.com/openjdk/jdk19u) topic: pushed_at:2023-04 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates
-- [openjdk/jdk20](https://github.com/openjdk/jdk20) topic: pushed_at:2023-04 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/20
+- [openjdk/jdk20](https://github.com/openjdk/jdk20) topic: pushed_at:2023-04 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/20 released 2023-03-21
 - [openjdk/jdk20u](https://github.com/openjdk/jdk20u) topic: pushed_at:2023-04 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk6](https://github.com/openjdk/jdk6) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk6
 - [openjdk/jdk7](https://github.com/openjdk/jdk7) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk7 released 2011-07-28
-- [openjdk/jdk7u](https://github.com/openjdk/jdk7u) topic: pushed_at:2022-07 star:0.0k fork:0.0k https://wiki.openjdk.org/display/jdk7u
+- [openjdk/jdk7u](https://github.com/openjdk/jdk7u) topic: pushed_at:2022-07 star:0.0k fork:0.0k https://wiki.openjdk.org/display/jdk7u last released 2022-07-19
 - [openjdk/jdk8](https://github.com/openjdk/jdk8) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk8 released 2014-03-18
 - [openjdk/jdk8u](https://github.com/openjdk/jdk8u) topic: pushed_at:2023-04 star:0.1k fork:0.1k https://wiki.openjdk.org/display/jdk8u
 - [openjdk/jdk8u-dev](https://github.com/openjdk/jdk8u-dev) topic: pushed_at:2023-04 star:0.0k fork:0.1k https://wiki.openjdk.org/display/jdk8u
@@ -122,7 +122,7 @@
 
 ## Makefile
 
-- [openjdk/guide](https://github.com/openjdk/guide) topic: pushed_at:2023-03 star:0.1k fork:0.0k OpenJDK Developers' Guide https://openjdk.org/guide
+- [openjdk/guide](https://github.com/openjdk/guide) topic: pushed_at:2023-04 star:0.1k fork:0.0k OpenJDK Developers' Guide https://openjdk.org/guide
 
 ## Mathematica
 
