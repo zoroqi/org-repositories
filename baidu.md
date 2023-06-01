@@ -27,7 +27,7 @@
 
 - [baidu/baidu-iot-samples](https://github.com/baidu/baidu-iot-samples) topic: pushed_at:2019-10 star:0.1k fork:0.1k 
 - [baidu/boteye_sensor](https://github.com/baidu/boteye_sensor) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2023-05 star:2.7k fork:0.3k dperf is a DPDK based 100Gbps network performance and load testing software.
+- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2023-05 star:2.9k fork:0.3k dperf is a DPDK based 100Gbps network performance and load testing software.
 - [baidu/du1906_esp](https://github.com/baidu/du1906_esp) topic: pushed_at:2023-05 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
 - [baidu/iot-edge-sdk-for-iot-parser](https://github.com/baidu/iot-edge-sdk-for-iot-parser) topic: pushed_at:2019-02 star:0.1k fork:0.1k 
 - [baidu/iot-sdk-c](https://github.com/baidu/iot-sdk-c) topic:device-management,edge-sdk,mqtt,sdk pushed_at:2022-04 star:0.1k fork:0.1k device sdk for baidu IoT Core service, in c. Including MQTT client
@@ -42,7 +42,7 @@
 ## C++
 
 - [baidu/AnyQ](https://github.com/baidu/AnyQ) topic:dialogue,dialogue-systems,faq,faq-question-answering-system,faq-system,faqbot,qa-system,question-answering,semantic-matching pushed_at:2020-11 star:2.5k fork:0.7k FAQ-based Question Answering System
-- [baidu/BaikalDB](https://github.com/baidu/BaikalDB) topic:baikaldb,database,htap,mysql,raft,sql pushed_at:2023-05 star:1.0k fork:0.2k BaikalDB, A Distributed HTAP Database.
+- [baidu/BaikalDB](https://github.com/baidu/BaikalDB) topic:baikaldb,database,htap,mysql,raft,sql pushed_at:2023-05 star:1.1k fork:0.2k BaikalDB, A Distributed HTAP Database.
 - [baidu/bfs](https://github.com/baidu/bfs) topic: pushed_at:2018-12 star:2.8k fork:0.6k The Baidu File System.
 - [baidu/bigflow](https://github.com/baidu/bigflow) topic: pushed_at:2022-10 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [baidu/boteye](https://github.com/baidu/boteye) topic: pushed_at:2019-04 star:0.2k fork:0.1k 
@@ -95,7 +95,7 @@
 - [baidu/terminator](https://github.com/baidu/terminator) topic: pushed_at:2016-11 star:0.1k fork:0.0k Service Virtualization
 - [baidu/titan-dex](https://github.com/baidu/titan-dex) topic: pushed_at:2022-05 star:0.2k fork:0.0k 
 - [baidu/titan-hotfix](https://github.com/baidu/titan-hotfix) topic: pushed_at:2022-05 star:0.1k fork:0.0k 
-- [baidu/uid-generator](https://github.com/baidu/uid-generator) topic: pushed_at:2023-02 star:5.0k fork:1.5k UniqueID generator
+- [baidu/uid-generator](https://github.com/baidu/uid-generator) topic: pushed_at:2023-05 star:5.1k fork:1.5k UniqueID generator
 
 ## JavaScript
 
@@ -108,7 +108,7 @@
 - [baidu/mix-img](https://github.com/baidu/mix-img) topic: pushed_at:2021-07 star:0.3k fork:0.0k A fast mix image javascript tool libary
 - [baidu/NoahV](https://github.com/baidu/NoahV) topic:aiops,dashboard,devops,efficient,framework,monitor,noahv,scaffold,template,visualization,vue,vuejs pushed_at:2023-03 star:0.6k fork:0.1k An efficient front-end application framework based on vue.js
 - [baidu/QComputeSDK-TS](https://github.com/baidu/QComputeSDK-TS) topic: pushed_at:2023-01 star:0.0k fork:0.0k QComputeSDK-TypeScript is the TypeScript version of QCompute, the quantum development kit of Quantum Leaf ( https://quantum-hub.baidu.com ). 
-- [baidu/san](https://github.com/baidu/san) topic:component,framework,frontend,javascript,mvvm,san pushed_at:2023-05 star:4.7k fork:0.5k A fast, portable, flexible JavaScript component framework
+- [baidu/san](https://github.com/baidu/san) topic:component,framework,frontend,javascript,mvvm,san pushed_at:2023-05 star:4.7k fork:0.6k A fast, portable, flexible JavaScript component framework
 - [baidu/san-composition](https://github.com/baidu/san-composition) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [baidu/san-factory](https://github.com/baidu/san-factory) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
 - [baidu/san-router](https://github.com/baidu/san-router) topic:san pushed_at:2023-03 star:0.0k fork:0.0k Official Router for San
@@ -134,7 +134,7 @@
 - [baidu/iot](https://github.com/baidu/iot) topic: pushed_at:2016-09 star:0.0k fork:0.0k for all code about Internet of Things
 - [baidu/ITEST](https://github.com/baidu/ITEST) topic: pushed_at:2013-11 star:0.1k fork:0.1k Web service interface test framework
 - [baidu/minions](https://github.com/baidu/minions) topic:ethernet-switch pushed_at:2017-09 star:0.0k fork:0.0k Baidu 100G Chasiss Switch hardware spec
-- [baidu/palo](https://github.com/baidu/palo) topic:doris,mpp,olap pushed_at:2022-03 star:0.0k fork:0.0k A fast MPP database for all modern analytics on big data. Powered by Apache Doris(Incubating)
+- [baidu/palo](https://github.com/baidu/palo) topic:doris,mpp,olap pushed_at:2022-03 star:0.1k fork:0.0k A fast MPP database for all modern analytics on big data. Powered by Apache Doris(Incubating)
 - [baidu/pylint](https://github.com/baidu/pylint) topic: pushed_at:2019-12 star:0.0k fork:0.0k It's not just a linter that annoys you!
 - [baidu/redis](https://github.com/baidu/redis) topic:auto-failover,auto-scaling,in-memory-database,key-value-database,redis,redis-cluster pushed_at:2017-05 star:0.1k fork:0.0k Baidu Ksarch Redis - a production solution of redis cluster
 - [baidu/spring-cloud-baidu](https://github.com/baidu/spring-cloud-baidu) topic: pushed_at:2023-04 star:0.1k fork:0.0k 
@@ -147,7 +147,7 @@
 ## Python
 
 - [baidu/ARK](https://github.com/baidu/ARK) topic:framework,operation pushed_at:2021-05 star:0.1k fork:0.0k Development framework of intelligent operation
-- [baidu/baiduads-sdk](https://github.com/baidu/baiduads-sdk) topic:ads,baidu,sdk pushed_at:2023-02 star:0.0k fork:0.0k Baidu Ads API SDK
+- [baidu/baiduads-sdk](https://github.com/baidu/baiduads-sdk) topic:ads,baidu,sdk pushed_at:2023-05 star:0.0k fork:0.0k Baidu Ads API SDK
 - [baidu/broc](https://github.com/baidu/broc) topic: pushed_at:2017-12 star:0.1k fork:0.1k 
 - [baidu/CUP](https://github.com/baidu/CUP) topic:common-libraries,common-libs,library,python pushed_at:2023-05 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
 - [baidu/DDParser](https://github.com/baidu/DDParser) topic:chinese-dependency-parser,chinese-nlp,dependency-parser,dependency-parsing,python,syntax-parser pushed_at:2023-02 star:0.9k fork:0.2k 百度开源的依存句法分析系统
@@ -167,11 +167,11 @@
 
 ## Swift
 
-- [baidu/CarbonGraph](https://github.com/baidu/CarbonGraph) topic:component-architecture,dependency-injection,di-container,dsl,ioc,ioc-container,ios,objective-c,swift pushed_at:2023-01 star:0.2k fork:0.0k A Swift dependency injection / lookup framework for iOS
+- [baidu/CarbonGraph](https://github.com/baidu/CarbonGraph) topic:component-architecture,dependency-injection,di-container,dsl,ioc,ioc-container,ios,objective-c,swift pushed_at:2023-05 star:0.2k fork:0.0k A Swift dependency injection / lookup framework for iOS
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) topic:frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2023-05 star:13.9k fork:2.0k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) topic:frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2023-05 star:14.0k fork:2.0k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) topic:chrome,chromium,debug,devtools,extension,san pushed_at:2022-11 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) topic:san,ssr,ssr-target-js pushed_at:2023-05 star:0.0k fork:0.0k San SSR framework and utils
 

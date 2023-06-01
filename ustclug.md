@@ -13,9 +13,9 @@
 - [Hack](#hack) (1)
 - [Jupyter Notebook](#jupyter-notebook) (1)
 - [Lua](#lua) (1)
-- [Others](#others) (6)
+- [Others](#others) (5)
 - [PHP](#php) (1)
-- [Python](#python) (7)
+- [Python](#python) (8)
 - [Rust](#rust) (1)
 - [Shell](#shell) (20)
 
@@ -61,7 +61,6 @@
 - [ustclug/documentations](https://github.com/ustclug/documentations) topic: pushed_at:2023-05 star:0.0k fork:0.0k LUG @ USTC General Documentation
 - [ustclug/hackergame2020-writeups](https://github.com/ustclug/hackergame2020-writeups) topic: pushed_at:2020-11 star:0.0k fork:0.0k 
 - [ustclug/lug-stickers](https://github.com/ustclug/lug-stickers) topic: pushed_at:2019-05 star:0.0k fork:0.0k 
-- [ustclug/mirrorrequest](https://github.com/ustclug/mirrorrequest) topic:mirror pushed_at:2023-01 star:0.4k fork:0.0k 通过 issue 为中国科大开源镜像站（mirrors.ustc.edu.cn）提交新的镜像申请~
 - [ustclug/Open-Source-Desktop-Show](https://github.com/ustclug/Open-Source-Desktop-Show) topic:linux-beautify,open-source pushed_at:2021-12 star:0.0k fork:0.0k Dress your Linux up!
 
 ## PHP
@@ -70,12 +69,13 @@
 
 ## Python
 
-- [ustclug/blogs](https://github.com/ustclug/blogs) topic: pushed_at:2023-04 star:0.1k fork:0.0k USTCLUG 同学们的博客列表
+- [ustclug/blogs](https://github.com/ustclug/blogs) topic: pushed_at:2023-05 star:0.1k fork:0.0k USTCLUG 同学们的博客列表
 - [ustclug/hackergame](https://github.com/ustclug/hackergame) topic: pushed_at:2023-05 star:0.1k fork:0.0k Hackergame platform for 2018 and beyond
 - [ustclug/hackergame2017](https://github.com/ustclug/hackergame2017) topic: pushed_at:2017-10 star:0.0k fork:0.0k 
 - [ustclug/library](https://github.com/ustclug/library) topic: pushed_at:2017-11 star:0.0k fork:0.0k LUG Library
 - [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) topic: pushed_at:2023-05 star:0.0k fork:0.0k LUG VPN 申请系统
 - [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) topic:documentation,hacktoberfest,mirror pushed_at:2023-04 star:0.4k fork:0.1k Documents about how to use repos on mirrors.ustc.edu.cn.
+- [ustclug/mirrorrequest](https://github.com/ustclug/mirrorrequest) topic:mirror pushed_at:2023-05 star:0.4k fork:0.0k 通过 issue 为中国科大开源镜像站（mirrors.ustc.edu.cn）提交新的镜像申请~
 - [ustclug/website-static](https://github.com/ustclug/website-static) topic: pushed_at:2023-03 star:0.0k fork:0.0k Hosting static content (image/assets) for LUG website
 
 ## Rust
@@ -103,7 +103,7 @@
 - [ustclug/rubygems-mirror](https://github.com/ustclug/rubygems-mirror) topic: pushed_at:2017-02 star:0.0k fork:0.0k 💀 rubugems mirror tool (deprecated)
 - [ustclug/simple-pxe](https://github.com/ustclug/simple-pxe) topic: pushed_at:2022-12 star:0.0k fork:0.0k 便宜，快速，品质尚可
 - [ustclug/telegram-web](https://github.com/ustclug/telegram-web) topic:telegram-web pushed_at:2017-11 star:0.0k fork:0.0k 💀Telegram Web Client (deprecated)
-- [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) topic:docker-image,git,hacktoberfest,lftp,rsync pushed_at:2023-03 star:0.1k fork:0.0k Docker images used by ustcmirror :rocket:
+- [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) topic:docker-image,git,hacktoberfest,lftp,rsync pushed_at:2023-05 star:0.1k fork:0.0k Docker images used by ustcmirror :rocket:
 
 
 ## License
