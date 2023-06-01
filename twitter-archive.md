@@ -84,7 +84,7 @@
 - [twitter-archive/torch-dataset](https://github.com/twitter-archive/torch-dataset) topic: pushed_at:2021-10 star:0.1k fork:0.0k An extensible and high performance method of reading, sampling and processing data for Torch
 - [twitter-archive/torch-decisiontree](https://github.com/twitter-archive/torch-decisiontree) topic: pushed_at:2018-05 star:0.1k fork:0.0k This project implements random forests and gradient boosted decision trees (GBDT). The latter uses gradient tree boosting. Both use ensemble learning to produce ensembles of decision trees (that is, forests).
 - [twitter-archive/torch-distlearn](https://github.com/twitter-archive/torch-distlearn) topic: pushed_at:2021-10 star:0.1k fork:0.0k A set of distributed learning algorithms for Torch
-- [twitter-archive/torch-twrl](https://github.com/twitter-archive/torch-twrl) topic: pushed_at:2017-05 star:0.2k fork:0.0k Torch-twrl is a package that enables reinforcement learning in Torch.
+- [twitter-archive/torch-twrl](https://github.com/twitter-archive/torch-twrl) topic: pushed_at:2017-05 star:0.3k fork:0.0k Torch-twrl is a package that enables reinforcement learning in Torch.
 
 ## Objective-C
 
@@ -150,7 +150,7 @@
 - [twitter-archive/scala-csp-config](https://github.com/twitter-archive/scala-csp-config) topic: pushed_at:2015-10 star:0.0k fork:0.0k A Scala library for configuring Content Security Policy headers for HTTP responses.
 - [twitter-archive/scala-json](https://github.com/twitter-archive/scala-json) topic: pushed_at:2019-12 star:0.0k fork:0.0k JSON in Scala (deprecated)
 - [twitter-archive/scala-zookeeper-client](https://github.com/twitter-archive/scala-zookeeper-client) topic: pushed_at:2013-11 star:0.1k fork:0.0k A Scala client library for ZooKeeper (DEPRECATED)
-- [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake) topic: pushed_at:2020-07 star:7.3k fork:1.1k Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
+- [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake) topic: pushed_at:2020-07 star:7.4k fork:1.1k Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 - [twitter-archive/standard-project](https://github.com/twitter-archive/standard-project) topic: pushed_at:2013-05 star:0.1k fork:0.0k A slightly more standard sbt project plugin library 
 - [twitter-archive/twitterActors](https://github.com/twitter-archive/twitterActors) topic: pushed_at:2010-10 star:0.0k fork:0.0k Improved Scala actors library; used internally at Twitter
 

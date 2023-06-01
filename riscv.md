@@ -11,10 +11,10 @@
 - [C](#c) (3)
 - [Coq](#coq) (1)
 - [HTML](#html) (1)
-- [Makefile](#makefile) (12)
+- [Makefile](#makefile) (13)
 - [Others](#others) (12)
 - [Python](#python) (3)
-- [TeX](#tex) (15)
+- [TeX](#tex) (14)
 
 ## Assembly
 
@@ -23,7 +23,7 @@
 
 ## BitBake
 
-- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) topic:openembedded,openembedded-layer,risc-v,riscv,yocto,yocto-layer,yocto-meta pushed_at:2023-04 star:0.3k fork:0.1k OpenEmbedded/Yocto layer for RISC-V Architecture
+- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) topic:openembedded,openembedded-layer,risc-v,riscv,yocto,yocto-layer,yocto-meta pushed_at:2023-05 star:0.3k fork:0.1k OpenEmbedded/Yocto layer for RISC-V Architecture
 
 ## C
 
@@ -44,13 +44,14 @@
 - [riscv/riscv-aclint](https://github.com/riscv/riscv-aclint) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) topic: pushed_at:2023-01 star:0.2k fork:0.1k Working draft of the proposed RISC-V Bitmanipulation extension
 - [riscv/riscv-cfi](https://github.com/riscv/riscv-cfi) topic: pushed_at:2023-05 star:0.0k fork:0.0k This repo holds the work area and revisions of the RISC-V CFI (Shadow Stack and Landing Pads) specifications. CFI defines the privileged and unprivileged ISA extensions that can be used by privileged and unprivileged programs to protect the integrity of their control-flow.
-- [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) topic: pushed_at:2023-04 star:0.1k fork:0.0k Working Draft of the RISC-V J Extension Specification
+- [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) topic: pushed_at:2023-05 star:0.1k fork:0.0k Working Draft of the RISC-V J Extension Specification
 - [riscv/riscv-platform-specs](https://github.com/riscv/riscv-platform-specs) topic: pushed_at:2022-09 star:0.1k fork:0.0k RISC-V Profiles and Platform Specification
 - [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) topic: pushed_at:2023-05 star:0.1k fork:0.0k RISC-V Architecture Profiles
+- [riscv/riscv-ras-eri](https://github.com/riscv/riscv-ras-eri) topic: pushed_at:2023-05 star:0.0k fork:0.0k The (RAS Error-record Register Interface) RERI provides a specification to augment RAS features in RISC-V SOC hardware to standardize reporting and logging of errors by means of a memory-mapped register interface to enable error detection, provide the facility to log the detected errors (including their severity, nature, and location), and configuring means to report the error to a handler component.
 - [riscv/riscv-ssqosid](https://github.com/riscv/riscv-ssqosid) topic: pushed_at:2022-09 star:0.0k fork:0.0k This repo will hold the specification for the proposed QoS ID extension being pursued on the fast-track process.
 - [riscv/riscv-svadu](https://github.com/riscv/riscv-svadu) topic: pushed_at:2022-11 star:0.0k fork:0.0k The Ssadu extension adds support and CSR control for hardware updating of PTE A/D bits.
 - [riscv/riscv-tee](https://github.com/riscv/riscv-tee) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [riscv/riscv-zacas](https://github.com/riscv/riscv-zacas) topic: pushed_at:2023-04 star:0.0k fork:0.0k riscv-zacas created from docs-spec-template template
+- [riscv/riscv-zacas](https://github.com/riscv/riscv-zacas) topic: pushed_at:2023-05 star:0.0k fork:0.0k riscv-zacas created from docs-spec-template template
 - [riscv/riscv-zawrs](https://github.com/riscv/riscv-zawrs) topic: pushed_at:2023-03 star:0.0k fork:0.0k The repo will be used to hold the draft Zawrs (fast-track) extension and to make releases for reviews. 
 - [riscv/riscv-zicond](https://github.com/riscv/riscv-zicond) topic: pushed_at:2023-04 star:0.0k fork:0.0k The ISA specification for the ZiCondOps extension.
 
@@ -77,17 +78,16 @@
 
 ## TeX
 
-- [riscv/ap-tee-isa](https://github.com/riscv/ap-tee-isa) topic: pushed_at:2023-04 star:0.0k fork:0.0k This specification will define the privilege ISA extensions required to support the domain isolation for many isolation use cases e.g. confidential-compute..
 - [riscv/docs-dev-guide](https://github.com/riscv/docs-dev-guide) topic: pushed_at:2023-04 star:0.0k fork:0.0k Documentation developer guide
 - [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [riscv/riscv-bfloat16](https://github.com/riscv/riscv-bfloat16) topic: pushed_at:2023-05 star:0.0k fork:0.0k 
 - [riscv/riscv-control-transfer-records](https://github.com/riscv/riscv-control-transfer-records) topic: pushed_at:2022-10 star:0.0k fork:0.0k This repo contains a RISC-V ISA extension (proposal) to allow recording of control transfer history to on-chip registers, to support usages associated with profiling and debug.
 - [riscv/riscv-count-overflow](https://github.com/riscv/riscv-count-overflow) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) topic: pushed_at:2023-05 star:0.4k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
-- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) topic: pushed_at:2023-05 star:2.6k fork:0.5k RISC-V Instruction Set Manual
-- [riscv/riscv-ras-eri](https://github.com/riscv/riscv-ras-eri) topic: pushed_at:2023-05 star:0.0k fork:0.0k The (RAS Error-record Register Interface) RERI provides a specification to augment RAS features in RISC-V SOC hardware to standardize reporting and logging of errors by means of a memory-mapped register interface to enable error detection, provide the facility to log the detected errors (including their severity, nature, and location), and configuring means to report the error to a handler component.
+- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) topic: pushed_at:2023-05 star:2.7k fork:0.5k RISC-V Instruction Set Manual
 - [riscv/riscv-ras-terms-defs](https://github.com/riscv/riscv-ras-terms-defs) topic: pushed_at:2022-06 star:0.0k fork:0.0k The RAS Terms & Definitions specification define the terms and definitions for physical mechanisms starting from common ones from research and development to adapting the terms as needed.
 - [riscv/riscv-smbios](https://github.com/riscv/riscv-smbios) topic: pushed_at:2022-06 star:0.0k fork:0.0k RISC-V SMBIOS Type 44 Spec
+- [riscv/riscv-smmtt](https://github.com/riscv/riscv-smmtt) topic: pushed_at:2023-05 star:0.0k fork:0.0k This specification will define the Smmtt privilege ISA extensions required to support the supervisor domain isolation for many isolation use cases e.g. confidential-computing, fault isolation and so on.
 - [riscv/riscv-spmp](https://github.com/riscv/riscv-spmp) topic: pushed_at:2023-02 star:0.0k fork:0.0k The repo contains the SPMP architectural specification, which includes capabilities like access control of read/write/execute requests by an hart, address matching, encoding of permissions, exceptions for access violation, and support for virtualization.
 - [riscv/riscv-ssrastraps](https://github.com/riscv/riscv-ssrastraps) topic: pushed_at:2022-10 star:0.0k fork:0.0k The RAS exception and interrupts extension (Ssrastraps) defines standard local interrupt numbers and exception-cause codes for reporting errors detected by RAS functions in the system.
 - [riscv/riscv-state-enable](https://github.com/riscv/riscv-state-enable) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
