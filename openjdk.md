@@ -20,10 +20,10 @@
 
 - [openjdk/jfx](https://github.com/openjdk/jfx) topic:java,javafx,openjdk,openjfx pushed_at:2023-06 star:2.2k fork:0.4k JavaFX mainline development
 - [openjdk/jfx-sandbox](https://github.com/openjdk/jfx-sandbox) topic: pushed_at:2023-06 star:0.0k fork:0.0k OpenJFX Committers Sandbox
-- [openjdk/jfx11u](https://github.com/openjdk/jfx11u) topic:java,javafx,openjdk pushed_at:2023-05 star:0.0k fork:0.0k JavaFX 11 updates development
+- [openjdk/jfx11u](https://github.com/openjdk/jfx11u) topic:java,javafx,openjdk pushed_at:2023-06 star:0.0k fork:0.0k JavaFX 11 updates development
 - [openjdk/jfx12](https://github.com/openjdk/jfx12) topic: pushed_at:2021-01 star:0.0k fork:0.0k JavaFX 12.x : last released 2019-07-19
 - [openjdk/jfx13](https://github.com/openjdk/jfx13) topic: pushed_at:2020-07 star:0.0k fork:0.0k JavaFX 13.x : last released 2020-01-15
-- [openjdk/jfx17u](https://github.com/openjdk/jfx17u) topic: pushed_at:2023-05 star:0.0k fork:0.0k JavaFX 17 updates development
+- [openjdk/jfx17u](https://github.com/openjdk/jfx17u) topic: pushed_at:2023-06 star:0.0k fork:0.0k JavaFX 17 updates development
 - [openjdk/jfx20u](https://github.com/openjdk/jfx20u) topic: pushed_at:2023-04 star:0.0k fork:0.0k JavaFX 20 updates development
 
 ## CSS
@@ -32,7 +32,7 @@
 
 ## HTML
 
-- [openjdk/amber-docs](https://github.com/openjdk/amber-docs) topic: pushed_at:2023-05 star:0.1k fork:0.0k https://openjdk.org/projects/amber
+- [openjdk/amber-docs](https://github.com/openjdk/amber-docs) topic: pushed_at:2023-06 star:0.1k fork:0.0k https://openjdk.org/projects/amber
 - [openjdk/cr](https://github.com/openjdk/cr) topic: pushed_at:2021-05 star:0.0k fork:0.0k https://openjdk.org/projects/skara
 
 ## Java
@@ -48,7 +48,7 @@
 - [openjdk/galahad](https://github.com/openjdk/galahad) topic: pushed_at:2023-06 star:0.0k fork:0.0k https://openjdk.org/projects/galahad
 - [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2023-05 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2023-06 star:0.3k fork:0.1k https://openjdk.org/projects/code-tools/jcstress
-- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2023-06 star:16.1k fork:4.6k JDK main-line development https://openjdk.org/projects/jdk
+- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2023-07 star:16.2k fork:4.6k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2023-06 star:0.0k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2023-06 star:0.1k fork:0.2k https://openjdk.org/projects/jdk-updates
@@ -67,14 +67,14 @@
 - [openjdk/jdk16u](https://github.com/openjdk/jdk16u) topic: pushed_at:2021-08 star:0.0k fork:0.1k https://openjdk.org/projects/jdk-updates last released 2021-07-20
 - [openjdk/jdk17](https://github.com/openjdk/jdk17) topic: pushed_at:2021-09 star:0.1k fork:0.1k https://openjdk.org/projects/jdk/17 released 2021-09-14
 - [openjdk/jdk17u](https://github.com/openjdk/jdk17u) topic: pushed_at:2023-06 star:0.1k fork:0.1k https://wiki.openjdk.org/display/JDKUpdates/JDK+17u
-- [openjdk/jdk17u-dev](https://github.com/openjdk/jdk17u-dev) topic: pushed_at:2023-06 star:0.0k fork:0.1k https://openjdk.org/projects/jdk-updates
+- [openjdk/jdk17u-dev](https://github.com/openjdk/jdk17u-dev) topic: pushed_at:2023-06 star:0.0k fork:0.2k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk18](https://github.com/openjdk/jdk18) topic: pushed_at:2022-03 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/18 released 2022-03-22
 - [openjdk/jdk18u](https://github.com/openjdk/jdk18u) topic: pushed_at:2022-11 star:0.0k fork:0.1k https://openjdk.org/projects/jdk-updates last released 2022-08-18
 - [openjdk/jdk19](https://github.com/openjdk/jdk19) topic: pushed_at:2023-05 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/19
 - [openjdk/jdk19u](https://github.com/openjdk/jdk19u) topic: pushed_at:2023-05 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk20](https://github.com/openjdk/jdk20) topic: pushed_at:2023-04 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/20 released 2023-03-21
 - [openjdk/jdk20u](https://github.com/openjdk/jdk20u) topic: pushed_at:2023-06 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates
-- [openjdk/jdk21](https://github.com/openjdk/jdk21) topic: pushed_at:2023-06 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/21
+- [openjdk/jdk21](https://github.com/openjdk/jdk21) topic: pushed_at:2023-07 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/21
 - [openjdk/jdk21u](https://github.com/openjdk/jdk21u) topic: pushed_at:2023-06 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk6](https://github.com/openjdk/jdk6) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk6
 - [openjdk/jdk7](https://github.com/openjdk/jdk7) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk7 released 2011-07-28
@@ -90,7 +90,7 @@
 - [openjdk/jextract](https://github.com/openjdk/jextract) topic: pushed_at:2023-06 star:0.2k fork:0.0k https://openjdk.org/projects/code-tools
 - [openjdk/jmc](https://github.com/openjdk/jmc) topic:hacktoberfest,hacktoberfest2020,hacktorberfest2021,java,jmc,mission-control,openjdk pushed_at:2023-06 star:0.7k fork:0.2k Repository for OpenJDK Mission Control, a production time profiling and diagnostics tools suite. https://openjdk.org/projects/jmc
 - [openjdk/jmc7](https://github.com/openjdk/jmc7) topic:java,jmc,mission-control,openjdk pushed_at:2021-03 star:0.0k fork:0.0k https://openjdk.org/projects/jmc
-- [openjdk/jmh](https://github.com/openjdk/jmh) topic: pushed_at:2023-06 star:1.5k fork:0.2k https://openjdk.org/projects/code-tools/jmh
+- [openjdk/jmh](https://github.com/openjdk/jmh) topic: pushed_at:2023-06 star:1.6k fork:0.2k https://openjdk.org/projects/code-tools/jmh
 - [openjdk/jmh-jdk-microbenchmarks](https://github.com/openjdk/jmh-jdk-microbenchmarks) topic: pushed_at:2023-01 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/jmh-jdk-microbenchmarks
 - [openjdk/jol](https://github.com/openjdk/jol) topic: pushed_at:2023-06 star:0.6k fork:0.1k https://openjdk.org/projects/code-tools/jol
 - [openjdk/jtharness](https://github.com/openjdk/jtharness) topic: pushed_at:2023-06 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/JT+Harness
@@ -138,7 +138,7 @@
 - [openjdk/jdk12](https://github.com/openjdk/jdk12) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/12 released 2019-03-19
 - [openjdk/jmc-graphics](https://github.com/openjdk/jmc-graphics) topic: pushed_at:2022-03 star:0.0k fork:0.0k https://openjdk.org/projects/jmc
 - [openjdk/leyden-docs](https://github.com/openjdk/leyden-docs) topic: pushed_at:2022-10 star:0.0k fork:0.0k https://openjdk.org/projects/leyden
-- [openjdk/webrevs](https://github.com/openjdk/webrevs) topic: pushed_at:2023-06 star:0.0k fork:0.0k Automatically generated JSON files for webrevs
+- [openjdk/webrevs](https://github.com/openjdk/webrevs) topic: pushed_at:2023-07 star:0.0k fork:0.0k Automatically generated JSON files for webrevs
 
 ## Python
 
