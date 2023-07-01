@@ -62,7 +62,7 @@
 - [pingcap/diag](https://github.com/pingcap/diag) topic: pushed_at:2023-05 star:0.0k fork:0.0k A tool to collect diagnostic data from TiDB Clusters
 - [pingcap/dm](https://github.com/pingcap/dm) topic:hacktoberfest pushed_at:2022-05 star:0.5k fork:0.2k Data Migration Platform
 - [pingcap/dumpling](https://github.com/pingcap/dumpling) topic:backup,csv,dump,go,hacktoberfest,library,mysql,mysqldump,sql,sql-dump,tidb pushed_at:2023-02 star:0.3k fork:0.1k Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud(S3, GCP...) in multifarious formats(SQL, CSV...).
-- [pingcap/errcode](https://github.com/pingcap/errcode) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
+- [pingcap/errcode](https://github.com/pingcap/errcode) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [pingcap/errors](https://github.com/pingcap/errors) topic: pushed_at:2022-10 star:0.0k fork:0.0k Simple error handling primitives
 - [pingcap/etcdv3-gateway](https://github.com/pingcap/etcdv3-gateway) topic: pushed_at:2016-03 star:0.0k fork:0.0k Gateway for etcdv3
 - [pingcap/failpoint](https://github.com/pingcap/failpoint) topic:failpoint,failure-injection,fault-injection,golang pushed_at:2022-08 star:0.8k fork:0.1k An implementation of failpoints for Golang.
@@ -79,7 +79,7 @@
 - [pingcap/log](https://github.com/pingcap/log) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [pingcap/mp](https://github.com/pingcap/mp) topic: pushed_at:2017-11 star:0.0k fork:0.0k MySQL protocol layer
 - [pingcap/mpdriver](https://github.com/pingcap/mpdriver) topic: pushed_at:2016-03 star:0.0k fork:0.0k MySQL Protocol Driver, used to record MySQL query commands..
-- [pingcap/mysql-tester](https://github.com/pingcap/mysql-tester) topic: pushed_at:2023-05 star:0.0k fork:0.1k A Golang implementation of MySQL Test Framework
+- [pingcap/mysql-tester](https://github.com/pingcap/mysql-tester) topic: pushed_at:2023-06 star:0.0k fork:0.1k A Golang implementation of MySQL Test Framework
 - [pingcap/mysqlrelay](https://github.com/pingcap/mysqlrelay) topic: pushed_at:2015-12 star:0.0k fork:0.0k 
 - [pingcap/mysqlx-driver](https://github.com/pingcap/mysqlx-driver) topic: pushed_at:2017-12 star:0.0k fork:0.0k A MySQL X protocol driver for Go's database/sql package
 - [pingcap/ng-monitoring](https://github.com/pingcap/ng-monitoring) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
@@ -88,13 +88,13 @@
 - [pingcap/parser](https://github.com/pingcap/parser) topic: pushed_at:2023-02 star:1.3k fork:0.5k A MySQL Compatible SQL Parser
 - [pingcap/public_bi_benchmark](https://github.com/pingcap/public_bi_benchmark) topic: pushed_at:2022-04 star:0.0k fork:0.0k BI benchmark with user generated data and queries
 - [pingcap/sysutil](https://github.com/pingcap/sysutil) topic: pushed_at:2023-04 star:0.0k fork:0.0k sysutil is a library which implementats the gRPC service Diagnostics and shares the diagnostics functions between TiDB and PD.
-- [pingcap/tidb](https://github.com/pingcap/tidb) topic:cloud-native,database,distributed-database,distributed-transactions,go,hacktoberfest,htap,mysql,mysql-compatibility,scale,serverless,sql,tidb pushed_at:2023-06 star:34.2k fork:5.5k TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
+- [pingcap/tidb](https://github.com/pingcap/tidb) topic:cloud-native,database,distributed-database,distributed-transactions,go,hacktoberfest,htap,mysql,mysql-compatibility,scale,serverless,sql,tidb pushed_at:2023-06 star:34.3k fork:5.5k TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://tidbcloud.com/free-trial
 - [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) topic: pushed_at:2023-06 star:0.3k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
 - [pingcap/tidb-cloud-backup](https://github.com/pingcap/tidb-cloud-backup) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
 - [pingcap/tidb-ctl](https://github.com/pingcap/tidb-ctl) topic: pushed_at:2022-03 star:0.0k fork:0.0k TiDB Controller
 - [pingcap/tidb-lightning](https://github.com/pingcap/tidb-lightning) topic:import-and-export,tidb pushed_at:2021-04 star:0.1k fork:0.1k This repository has been moved to https://github.com/pingcap/br
 - [pingcap/tidb-lmdb](https://github.com/pingcap/tidb-lmdb) topic: pushed_at:2015-08 star:0.0k fork:0.0k lmdb as storage engine for tidb
-- [pingcap/tidb-operator](https://github.com/pingcap/tidb-operator) topic:cloud-native,golang,hacktoberfest,kubernetes,operator,tidb pushed_at:2023-06 star:1.1k fork:0.5k TiDB operator creates and manages TiDB clusters running in Kubernetes.
+- [pingcap/tidb-operator](https://github.com/pingcap/tidb-operator) topic:cloud-native,golang,hacktoberfest,kubernetes,operator,tidb pushed_at:2023-07 star:1.1k fork:0.5k TiDB operator creates and manages TiDB clusters running in Kubernetes.
 - [pingcap/tidb-tools](https://github.com/pingcap/tidb-tools) topic: pushed_at:2023-06 star:0.3k fork:0.2k tidb-tools are some useful tool collections for TiDB.
 - [pingcap/tidiff](https://github.com/pingcap/tidiff) topic: pushed_at:2023-05 star:0.0k fork:0.0k A toolset to improve efficiency 
 - [pingcap/tiflow](https://github.com/pingcap/tiflow) topic:cdc,dm,kafka,mysql,ticdc,tidb pushed_at:2023-06 star:0.4k fork:0.2k This repo maintains DM (a data migration platform) and TiCDC (change data capture for TiDB)
@@ -182,7 +182,7 @@
 
 ## Ruby
 
-- [pingcap/activerecord-tidb-adapter](https://github.com/pingcap/activerecord-tidb-adapter) topic:activerecord,mysql,rails,tidb pushed_at:2022-12 star:0.0k fork:0.0k TiDB adapter for ActiveRecord, allows the use of TiDB as a backend for ActiveRecord and Rails apps.
+- [pingcap/activerecord-tidb-adapter](https://github.com/pingcap/activerecord-tidb-adapter) topic:activerecord,mysql,rails,tidb pushed_at:2023-06 star:0.0k fork:0.0k TiDB adapter for ActiveRecord, allows the use of TiDB as a backend for ActiveRecord and Rails apps.
 - [pingcap/discourse](https://github.com/pingcap/discourse) topic: pushed_at:2022-07 star:0.0k fork:0.0k A platform for community discussion. Free, open, simple.
 - [pingcap/discourse-assign](https://github.com/pingcap/discourse-assign) topic: pushed_at:2021-06 star:0.0k fork:0.0k Plugin for assigning users to a topic
 - [pingcap/discourse-chat-integration](https://github.com/pingcap/discourse-chat-integration) topic: pushed_at:2019-12 star:0.0k fork:0.0k 
@@ -212,7 +212,7 @@
 - [pingcap/k8s-fluent-bit-stackdriver](https://github.com/pingcap/k8s-fluent-bit-stackdriver) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
 - [pingcap/kdt](https://github.com/pingcap/kdt) topic: pushed_at:2019-03 star:0.0k fork:0.0k Kernel Debug Toolkit
 - [pingcap/kubeadm-dind-cluster](https://github.com/pingcap/kubeadm-dind-cluster) topic: pushed_at:2018-12 star:0.0k fork:0.0k A Kubernetes multi-node test cluster based on kubeadm
-- [pingcap/monitoring](https://github.com/pingcap/monitoring) topic: pushed_at:2023-05 star:0.0k fork:0.0k 
+- [pingcap/monitoring](https://github.com/pingcap/monitoring) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [pingcap/tidb-helper](https://github.com/pingcap/tidb-helper) topic:brew,deb,rpm pushed_at:2020-04 star:0.0k fork:0.0k 
 
 ## TLA
@@ -223,8 +223,8 @@
 
 - [pingcap/diagnosis-ui](https://github.com/pingcap/diagnosis-ui) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [pingcap/gdocwiki](https://github.com/pingcap/gdocwiki) topic: pushed_at:2023-03 star:0.1k fork:0.0k A wiki based on Google Doc / Drive
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) topic:aisql,analytics,chat2query,demo,github,htap,insight,openai,oss,realtime,text2sql pushed_at:2023-06 star:1.2k fork:0.2k Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 5 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
-- [pingcap/ossinsight-lite](https://github.com/pingcap/ossinsight-lite) topic: pushed_at:2023-06 star:0.0k fork:0.0k 🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) topic:aisql,analytics,chat2query,demo,github,htap,insight,openai,oss,realtime,text2sql pushed_at:2023-06 star:1.2k fork:0.2k Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 6 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
+- [pingcap/ossinsight-lite](https://github.com/pingcap/ossinsight-lite) topic: pushed_at:2023-06 star:0.3k fork:0.1k 🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.
 - [pingcap/realtime-hackernewsdb-on-serverless](https://github.com/pingcap/realtime-hackernewsdb-on-serverless) topic:autogpt,chatgpt,database,hackernews,mysql-compatibility,openai,tidbcloud pushed_at:2023-04 star:0.0k fork:0.0k Chat to query Hacker News database, based on Auto-GPT and TiDB Cloud Serverless Database
 - [pingcap/sp500-insight-template](https://github.com/pingcap/sp500-insight-template) topic: pushed_at:2023-04 star:0.0k fork:0.0k SP500 Insight vercel template based on TiDB Cloud Data API: https://sp500-insight.vercel.app
 - [pingcap/steam-insight-template](https://github.com/pingcap/steam-insight-template) topic: pushed_at:2023-03 star:0.0k fork:0.0k Steam Insight vercel template based on TiDB Cloud Data API: https://steam-insight.vercel.app/

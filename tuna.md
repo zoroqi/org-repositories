@@ -14,13 +14,14 @@
 - [Go](#go) (5)
 - [HTML](#html) (4)
 - [JavaScript](#javascript) (5)
+- [MDX](#mdx) (1)
 - [Others](#others) (9)
 - [PHP](#php) (2)
 - [Python](#python) (16)
 - [Ruby](#ruby) (1)
 - [Rust](#rust) (1)
 - [TeX](#tex) (3)
-- [TypeScript](#typescript) (3)
+- [TypeScript](#typescript) (2)
 
 ## C
 
@@ -51,7 +52,7 @@
 - [tuna/freedns-go](https://github.com/tuna/freedns-go) topic: pushed_at:2021-11 star:0.2k fork:0.0k Optimized DNS Server for Chinese users.
 - [tuna/mirrorhub](https://github.com/tuna/mirrorhub) topic: pushed_at:2016-09 star:0.0k fork:0.0k Redirects the user to a nearby mirror site.
 - [tuna/tunaccount](https://github.com/tuna/tunaccount) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
-- [tuna/tunasync](https://github.com/tuna/tunasync) topic: pushed_at:2023-06 star:1.4k fork:0.2k Mirror job management tool. 
+- [tuna/tunasync](https://github.com/tuna/tunasync) topic: pushed_at:2023-06 star:1.4k fork:0.3k Mirror job management tool. 
 
 ## HTML
 
@@ -68,11 +69,15 @@
 - [tuna/registr](https://github.com/tuna/registr) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [tuna/tunasay](https://github.com/tuna/tunasay) topic: pushed_at:2017-06 star:0.0k fork:0.0k tunasay is a configurable talking tuna
 
+## MDX
+
+- [tuna/mirrorz-help](https://github.com/tuna/mirrorz-help) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
+
 ## Others
 
 - [tuna/artwork](https://github.com/tuna/artwork) topic: pushed_at:2022-09 star:0.0k fork:0.0k tuna artwork
 - [tuna/Books](https://github.com/tuna/Books) topic: pushed_at:2020-11 star:0.0k fork:0.0k Tracking Books of TUNA Library
-- [tuna/Cash](https://github.com/tuna/Cash) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
+- [tuna/Cash](https://github.com/tuna/Cash) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [tuna/collection](https://github.com/tuna/collection) topic: pushed_at:2022-04 star:0.2k fork:0.0k idea collections from TUNA
 - [tuna/dataset-issues](https://github.com/tuna/dataset-issues) topic: pushed_at:2018-04 star:0.0k fork:0.0k Issues about academic dataset mirrors
 - [tuna/isofusion](https://github.com/tuna/isofusion) topic: pushed_at:2016-05 star:0.0k fork:0.0k scan and create iso filelist from mirrors
@@ -88,7 +93,7 @@
 ## Python
 
 - [tuna/bandersnatch](https://github.com/tuna/bandersnatch) topic: pushed_at:2020-02 star:0.0k fork:0.0k A PyPI mirror client according to PEP 381 http://www.python.org/dev/peps/pep-0381/
-- [tuna/blogroll](https://github.com/tuna/blogroll) topic: pushed_at:2023-03 star:0.8k fork:0.1k 世界一流兼容并包TUNA协会收集的周围同学们的Blog
+- [tuna/blogroll](https://github.com/tuna/blogroll) topic: pushed_at:2023-06 star:0.8k fork:0.1k 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [tuna/django-helpdesk](https://github.com/tuna/django-helpdesk) topic: pushed_at:2014-12 star:0.0k fork:0.0k A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [tuna/feed_tuna](https://github.com/tuna/feed_tuna) topic: pushed_at:2017-09 star:0.0k fork:0.0k Telegram shop/payment bot 金枪鱼喂食计划
 - [tuna/fishroom](https://github.com/tuna/fishroom) topic: pushed_at:2021-02 star:0.3k fork:0.1k Message forwarding for multiple IM protocols
@@ -121,7 +126,6 @@
 ## TypeScript
 
 - [tuna/aws-ecr-proxy](https://github.com/tuna/aws-ecr-proxy) topic: pushed_at:2020-10 star:0.0k fork:0.0k Public endpoint for AWS Elastic Container Registry
-- [tuna/mirrorz-help](https://github.com/tuna/mirrorz-help) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [tuna/opentuna](https://github.com/tuna/opentuna) topic:aws,aws-cdk,tuna pushed_at:2023-06 star:0.1k fork:0.0k TUNA on AWS
 
 
