@@ -54,8 +54,8 @@
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) topic: pushed_at:2023-04 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/interactive](https://github.com/twitter/interactive) topic: pushed_at:2021-11 star:0.2k fork:0.1k Twitter interactive visualization
 - [twitter/scala_school](https://github.com/twitter/scala_school) topic: pushed_at:2023-04 star:3.7k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) topic:emoji,twemoji pushed_at:2023-04 star:16.1k fork:1.9k Emoji for everyone. https://twemoji.twitter.com/
-- [twitter/twitter-text](https://github.com/twitter/twitter-text) topic:emoji,java,nodejs,objective-c,ruby,tweet,twitter,twitter-text,unicode pushed_at:2023-04 star:3.0k fork:0.5k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
+- [twitter/twemoji](https://github.com/twitter/twemoji) topic:emoji,twemoji pushed_at:2023-07 star:16.2k fork:1.9k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twitter-text](https://github.com/twitter/twitter-text) topic:emoji,java,nodejs,objective-c,ruby,tweet,twitter,twitter-text,unicode pushed_at:2023-07 star:3.0k fork:0.5k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) topic: pushed_at:2021-10 star:0.1k fork:0.0k 
 
 ## Java
@@ -100,7 +100,7 @@
 - [twitter/curation-style-guide](https://github.com/twitter/curation-style-guide) topic: pushed_at:2019-06 star:0.0k fork:0.0k Document Repository for Twitter's Curation Style Guide
 - [twitter/gpl-commitment](https://github.com/twitter/gpl-commitment) topic: pushed_at:2021-07 star:0.0k fork:0.0k Twitter's GPL Cooperation Commitment
 - [twitter/innovators-patent-agreement](https://github.com/twitter/innovators-patent-agreement) topic: pushed_at:2016-06 star:0.9k fork:0.1k Innovators Patent Agreement (IPA)
-- [twitter/metrics](https://github.com/twitter/metrics) topic: pushed_at:2023-06 star:0.1k fork:0.0k 
+- [twitter/metrics](https://github.com/twitter/metrics) topic: pushed_at:2023-07 star:0.1k fork:0.0k 
 - [twitter/ossdecks](https://github.com/twitter/ossdecks) topic: pushed_at:2019-04 star:0.0k fork:0.0k Repository for Twitter Open Source Decks
 - [twitter/repo-scaffolding](https://github.com/twitter/repo-scaffolding) topic: pushed_at:2021-08 star:0.0k fork:0.0k Tools for creating repos based on open source standards and best practices
 - [twitter/second-control-probability-distributions](https://github.com/twitter/second-control-probability-distributions) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
@@ -118,7 +118,7 @@
 - [twitter/diffusion-rl](https://github.com/twitter/diffusion-rl) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [twitter/gatekeeper-service](https://github.com/twitter/gatekeeper-service) topic: pushed_at:2023-02 star:0.0k fork:0.0k GateKeeper is a service built to automate the manual steps involved in onboarding, offboarding, and lost asset scenarios.
 - [twitter/pants](https://github.com/twitter/pants) topic: pushed_at:2023-02 star:0.1k fork:0.0k Pants Build System
-- [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) topic: pushed_at:2023-05 star:9.5k fork:2.2k Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) topic: pushed_at:2023-05 star:9.6k fork:2.2k Source code for Twitter's Recommendation Algorithm
 - [twitter/zktraffic](https://github.com/twitter/zktraffic) topic: pushed_at:2023-04 star:0.2k fork:0.1k ZooKeeper protocol analyzer and stats gathering daemon
 
 ## R
@@ -141,11 +141,11 @@
 
 ## SCSS
 
-- [twitter/opensource-website](https://github.com/twitter/opensource-website) topic:ospo pushed_at:2023-06 star:2.7k fork:0.8k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
+- [twitter/opensource-website](https://github.com/twitter/opensource-website) topic:ospo pushed_at:2023-07 star:2.7k fork:0.8k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 
 ## Scala
 
-- [twitter/algebird](https://github.com/twitter/algebird) topic: pushed_at:2023-06 star:2.3k fork:0.3k Abstract Algebra for Scala
+- [twitter/algebird](https://github.com/twitter/algebird) topic: pushed_at:2023-07 star:2.3k fork:0.3k Abstract Algebra for Scala
 - [twitter/bazel-multiversion](https://github.com/twitter/bazel-multiversion) topic:bazel,bazel-build,bazel-rules,coursier,dependency-manager,java,jvm,kotlin,scala pushed_at:2023-06 star:0.0k fork:0.0k Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier. 
 - [twitter/bijection](https://github.com/twitter/bijection) topic: pushed_at:2023-07 star:0.7k fork:0.1k Reversible conversions between types
 - [twitter/cassovary](https://github.com/twitter/cassovary) topic: pushed_at:2021-10 star:1.0k fork:0.2k Cassovary is a simple big graph processing library for the JVM
@@ -159,9 +159,9 @@
 - [twitter/scrooge](https://github.com/twitter/scrooge) topic:android,cocoa,code-generation,finagle,java,lua,scala,thrift pushed_at:2023-05 star:0.8k fork:0.3k A Thrift parser/generator
 - [twitter/storehaus](https://github.com/twitter/storehaus) topic: pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) topic: pushed_at:2022-01 star:2.1k fork:0.3k Streaming MapReduce with Scalding and Storm
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2023-06 star:58.3k fork:11.9k Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2023-07 star:58.6k fork:12.0k Source code for Twitter's Recommendation Algorithm
 - [twitter/tormenta](https://github.com/twitter/tormenta) topic: pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
-- [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) topic: pushed_at:2023-04 star:0.1k fork:0.1k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
+- [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) topic: pushed_at:2023-04 star:0.2k fork:0.1k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) topic: pushed_at:2023-04 star:0.8k fork:0.2k Korean tokenizer
 - [twitter/twitter-server](https://github.com/twitter/twitter-server) topic:finagle,finatra pushed_at:2023-04 star:1.5k fork:0.3k Twitter-Server defines a template from which services at Twitter are built
 - [twitter/util](https://github.com/twitter/util) topic:finagle,scala,utility pushed_at:2023-05 star:2.7k fork:0.6k Wonderful reusable code from Twitter
@@ -180,7 +180,7 @@
 ## Swift
 
 - [twitter/ios-twitter-apache-thrift](https://github.com/twitter/ios-twitter-apache-thrift) topic: pushed_at:2022-02 star:0.0k fork:0.0k A thrift encoding and decoding library for Swift
-- [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) topic:ios,swift,textkit,uikit pushed_at:2023-04 star:2.9k fork:0.1k A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
+- [twitter/TwitterTextEditor](https://github.com/twitter/TwitterTextEditor) topic:ios,swift,textkit,uikit pushed_at:2023-04 star:2.9k fork:0.2k A standalone, flexible API that provides a full-featured rich text editor for iOS applications.
 
 ## TypeScript
 
