@@ -53,7 +53,7 @@
 
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) topic: pushed_at:2023-04 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/interactive](https://github.com/twitter/interactive) topic: pushed_at:2021-11 star:0.2k fork:0.1k Twitter interactive visualization
-- [twitter/scala_school](https://github.com/twitter/scala_school) topic: pushed_at:2023-04 star:3.7k fork:1.1k Lessons in the Fundamentals of Scala
+- [twitter/scala_school](https://github.com/twitter/scala_school) topic: pushed_at:2023-04 star:3.7k fork:1.2k Lessons in the Fundamentals of Scala
 - [twitter/twemoji](https://github.com/twitter/twemoji) topic:emoji,twemoji pushed_at:2023-07 star:16.2k fork:1.9k Emoji for everyone. https://twemoji.twitter.com/
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) topic:emoji,java,nodejs,objective-c,ruby,tweet,twitter,twitter-text,unicode pushed_at:2023-07 star:3.0k fork:0.5k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) topic: pushed_at:2021-10 star:0.1k fork:0.0k 
@@ -85,7 +85,7 @@
 
 ## Kotlin
 
-- [twitter/compose-rules](https://github.com/twitter/compose-rules) topic:android,jetpack-compose,ktlint,static-code-analysis pushed_at:2023-05 star:1.2k fork:0.1k Static checks to aid with a healthy adoption of Compose
+- [twitter/compose-rules](https://github.com/twitter/compose-rules) topic:android,jetpack-compose,ktlint,static-code-analysis pushed_at:2023-05 star:1.3k fork:0.1k Static checks to aid with a healthy adoption of Compose
 
 ## Objective-C
 
@@ -130,7 +130,7 @@
 - [twitter/activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) topic: pushed_at:2016-01 star:1.3k fork:0.1k An Active Record Reputation System for Rails
 - [twitter/thrift_client](https://github.com/twitter/thrift_client) topic: pushed_at:2019-06 star:0.2k fork:0.1k A Thrift client wrapper that encapsulates some common failover behavior
 - [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) topic: pushed_at:2023-04 star:0.7k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
-- [twitter/twurl](https://github.com/twitter/twurl) topic:cli,curl,ruby,twitter,twitter-api,twurl pushed_at:2023-04 star:1.8k fork:0.3k OAuth-enabled curl for the Twitter API
+- [twitter/twurl](https://github.com/twitter/twurl) topic:cli,curl,ruby,twitter,twitter-api,twurl pushed_at:2023-07 star:1.8k fork:0.3k OAuth-enabled curl for the Twitter API
 
 ## Rust
 
@@ -141,7 +141,7 @@
 
 ## SCSS
 
-- [twitter/opensource-website](https://github.com/twitter/opensource-website) topic:ospo pushed_at:2023-07 star:2.7k fork:0.8k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
+- [twitter/opensource-website](https://github.com/twitter/opensource-website) topic:ospo pushed_at:2023-07 star:2.8k fork:0.8k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 
 ## Scala
 
@@ -155,11 +155,11 @@
 - [twitter/iago2](https://github.com/twitter/iago2) topic: pushed_at:2023-04 star:0.0k fork:0.0k A load generator, built for engineers
 - [twitter/rsc](https://github.com/twitter/rsc) topic: pushed_at:2021-10 star:1.2k fork:0.1k Experimental Scala compiler focused on compilation speed
 - [twitter/scala_school2](https://github.com/twitter/scala_school2) topic: pushed_at:2021-10 star:0.3k fork:0.1k Scala School 2
-- [twitter/scalding](https://github.com/twitter/scalding) topic: pushed_at:2023-05 star:3.4k fork:0.7k A Scala API for Cascading
+- [twitter/scalding](https://github.com/twitter/scalding) topic: pushed_at:2023-05 star:3.5k fork:0.7k A Scala API for Cascading
 - [twitter/scrooge](https://github.com/twitter/scrooge) topic:android,cocoa,code-generation,finagle,java,lua,scala,thrift pushed_at:2023-05 star:0.8k fork:0.3k A Thrift parser/generator
 - [twitter/storehaus](https://github.com/twitter/storehaus) topic: pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) topic: pushed_at:2022-01 star:2.1k fork:0.3k Streaming MapReduce with Scalding and Storm
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2023-07 star:58.6k fork:12.0k Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2023-07 star:59.3k fork:12.1k Source code for Twitter's Recommendation Algorithm
 - [twitter/tormenta](https://github.com/twitter/tormenta) topic: pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) topic: pushed_at:2023-04 star:0.2k fork:0.1k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) topic: pushed_at:2023-04 star:0.8k fork:0.2k Korean tokenizer

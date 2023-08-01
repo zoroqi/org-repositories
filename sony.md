@@ -112,7 +112,7 @@
 - [sony/nnabla](https://github.com/sony/nnabla) topic: pushed_at:2023-07 star:2.6k fork:0.3k Neural Network Libraries
 - [sony/nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
 - [sony/nnabla-examples](https://github.com/sony/nnabla-examples) topic: pushed_at:2023-07 star:0.3k fork:0.1k Neural Network Libraries https://nnabla.org/ - Examples
-- [sony/nnabla-nas](https://github.com/sony/nnabla-nas) topic: pushed_at:2023-06 star:0.0k fork:0.0k Neural Architecture Search for Neural Network Libraries
+- [sony/nnabla-nas](https://github.com/sony/nnabla-nas) topic: pushed_at:2023-07 star:0.0k fork:0.0k Neural Architecture Search for Neural Network Libraries
 - [sony/nnabla-rl](https://github.com/sony/nnabla-rl) topic: pushed_at:2023-07 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
 - [sony/nnc-plugin](https://github.com/sony/nnc-plugin) topic: pushed_at:2023-07 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
 - [sony/pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) topic: pushed_at:2023-06 star:0.0k fork:0.0k Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models
