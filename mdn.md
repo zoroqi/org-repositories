@@ -51,7 +51,7 @@
 - [mdn/insights](https://github.com/mdn/insights) topic: pushed_at:2022-04 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) topic:css,editor,examples,html,interactive,javascript,mdn,nodejs pushed_at:2023-07 star:0.7k fork:0.5k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) topic: pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
-- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2023-07 star:6.1k fork:26.1k Github repo for the MDN Learning Area. 
+- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2023-07 star:6.2k fork:26.1k Github repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) topic: pushed_at:2022-04 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
 - [mdn/learning-area-pt-br](https://github.com/mdn/learning-area-pt-br) topic: pushed_at:2022-09 star:0.0k fork:0.1k The MDN Learning Area code examples translated into Brazilian Portuguese.
 - [mdn/machine-translation-testing-content](https://github.com/mdn/machine-translation-testing-content) topic: pushed_at:2020-11 star:0.0k fork:0.0k This is a repository for testing machine translations of English content.
@@ -65,12 +65,12 @@
 - [mdn/translated-content-rendered](https://github.com/mdn/translated-content-rendered) topic: pushed_at:2021-02 star:0.0k fork:0.0k All translated (non-archived) MDN content in fully rendered form
 - [mdn/viewsourceconf](https://github.com/mdn/viewsourceconf) topic:conference,metalsmith,viewsource pushed_at:2019-03 star:0.0k fork:0.0k Repo for View Source Conference site
 - [mdn/web-tech-games](https://github.com/mdn/web-tech-games) topic: pushed_at:2022-12 star:0.0k fork:0.0k Interactive diagram showing what parts of the web technology stack can used for different purposes when creating games. Includes links to more information about each.
-- [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) topic:audio,demo,webaudio,webaudio-api pushed_at:2023-06 star:1.1k fork:0.4k Code examples that accompany the MDN Web Docs pages relating to Web Audio.
+- [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) topic:audio,demo,webaudio,webaudio-api pushed_at:2023-07 star:1.1k fork:0.4k Code examples that accompany the MDN Web Docs pages relating to Web Audio.
 - [mdn/whitestorm-demo](https://github.com/mdn/whitestorm-demo) topic: pushed_at:2019-04 star:0.0k fork:0.0k A simple demo showing usage of the Whitestorm.js 3D web library.
 
 ## JSON
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) topic:compat,compatibility,data,dataset,json pushed_at:2023-07 star:4.5k fork:2.1k This repository contains compatibility data for Web technologies as displayed on MDN
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) topic:compat,compatibility,data,dataset,json pushed_at:2023-08 star:4.5k fork:2.1k This repository contains compatibility data for Web technologies as displayed on MDN
 
 ## JavaScript
 
@@ -99,11 +99,11 @@
 - [mdn/mdn.dev](https://github.com/mdn/mdn.dev) topic: pushed_at:2022-04 star:0.0k fork:0.0k Content for https://mdn.dev
 - [mdn/museum](https://github.com/mdn/museum) topic: pushed_at:2023-01 star:0.0k fork:0.0k A historic collection of MDN Web Docs content and examples
 - [mdn/perf-examples](https://github.com/mdn/perf-examples) topic: pushed_at:2023-03 star:0.0k fork:0.0k Examples related to MDN performance documentation; see https://developer.mozilla.org/en-US/docs/web/Performance
-- [mdn/pwa-examples](https://github.com/mdn/pwa-examples) topic: pushed_at:2023-06 star:0.8k fork:0.6k Examples for progressive web apps.
+- [mdn/pwa-examples](https://github.com/mdn/pwa-examples) topic: pushed_at:2023-07 star:0.8k fork:0.6k Examples for progressive web apps.
 - [mdn/repl-panel](https://github.com/mdn/repl-panel) topic:addon,devtools,devtools-extension,repl,unmaintained pushed_at:2019-04 star:0.0k fork:0.0k This add-on lets you send remote debugging protocol requests to the debugging server, and displays the response.
 - [mdn/s3-config](https://github.com/mdn/s3-config) topic:aws,mdn-infra,s3-bucket,simple-storage-service pushed_at:2022-10 star:0.0k fork:0.0k MDN Simple Storage Service (S3) configuration
 - [mdn/samples-server](https://github.com/mdn/samples-server) topic: pushed_at:2021-04 star:0.9k fork:0.9k MDN samples server; used for samples that can't be hosted in-place on MDN, plus back-end server-side code for samples that need it.
-- [mdn/serviceworker-cookbook](https://github.com/mdn/serviceworker-cookbook) topic: pushed_at:2022-11 star:2.6k fork:0.3k It's online. It's offline. It's a Service Worker!
+- [mdn/serviceworker-cookbook](https://github.com/mdn/serviceworker-cookbook) topic: pushed_at:2022-11 star:2.7k fork:0.3k It's online. It's offline. It's a Service Worker!
 - [mdn/short-descriptions](https://github.com/mdn/short-descriptions) topic: pushed_at:2019-10 star:0.0k fork:0.0k Short descriptions of web platform features, for flexible usage in applications. 
 - [mdn/simple-web-worker](https://github.com/mdn/simple-web-worker) topic: pushed_at:2022-09 star:0.7k fork:0.3k A simple web worker test.
 - [mdn/stumptown-content](https://github.com/mdn/stumptown-content) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
@@ -113,7 +113,7 @@
 - [mdn/violent-theremin](https://github.com/mdn/violent-theremin) topic: pushed_at:2022-09 star:0.2k fork:0.1k Violent theremin uses the Web Audio API to generate sound, and HTML5 canvas for a bit of pretty visualization. The colours generated depend on the pitch and gain of the current note, which are themselves dependant on the mouse pointer position.
 - [mdn/voice-change-o-matic](https://github.com/mdn/voice-change-o-matic) topic: pushed_at:2022-10 star:0.7k fork:0.2k Web Audio API-powered voice changer and visualizer
 - [mdn/voice-change-o-matic-float-data](https://github.com/mdn/voice-change-o-matic-float-data) topic: pushed_at:2022-10 star:0.1k fork:0.0k Web Audio API-powered voice changer and visualizer
-- [mdn/web-components-examples](https://github.com/mdn/web-components-examples) topic: pushed_at:2023-05 star:2.7k fork:0.8k A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
+- [mdn/web-components-examples](https://github.com/mdn/web-components-examples) topic: pushed_at:2023-07 star:2.7k fork:0.8k A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 - [mdn/web-dictaphone](https://github.com/mdn/web-dictaphone) topic: pushed_at:2022-09 star:0.5k fork:0.2k A sample MDN app that uses getUserMedia and MediaRecorder API for recording audio snippets, and The Web Audio API for visualizations.
 - [mdn/web-speech-api](https://github.com/mdn/web-speech-api) topic: pushed_at:2022-09 star:1.4k fork:0.7k A repository for demos illustrating features of the Web Speech API. See https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API for more details.
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) topic:browser,mdn,webextensions,webextensions-apis pushed_at:2023-07 star:3.7k fork:2.6k Example Firefox add-ons created using the WebExtensions API
@@ -127,26 +127,26 @@
 
 ## Markdown
 
-- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2023-07 star:8.0k fork:18.6k The content behind MDN Web Docs
-- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2023-07 star:1.4k fork:6.7k The source repository of all translated content for MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2023-08 star:8.1k fork:18.9k The content behind MDN Web Docs
+- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2023-08 star:1.4k fork:6.8k The source repository of all translated content for MDN Web Docs
 
 ## Others
 
-- [mdn/.github](https://github.com/mdn/.github) topic: pushed_at:2023-05 star:0.0k fork:0.0k MDN Web Docs public organization profile
+- [mdn/.github](https://github.com/mdn/.github) topic: pushed_at:2023-07 star:0.0k fork:0.0k MDN Web Docs public organization profile
 - [mdn/ai-feedback](https://github.com/mdn/ai-feedback) topic: pushed_at:2023-07 star:0.0k fork:0.0k Feedback about AI Help
 - [mdn/browsercompat-data](https://github.com/mdn/browsercompat-data) topic:unmaintained pushed_at:2017-04 star:0.0k fork:0.0k Browser Compatability Data
 - [mdn/content-team-projects](https://github.com/mdn/content-team-projects) topic: pushed_at:2022-08 star:0.0k fork:0.0k Repo for organising MDN Web Docs team projects & subsequent work
 - [mdn/crossbrowser-testing-lab](https://github.com/mdn/crossbrowser-testing-lab) topic: pushed_at:2019-04 star:0.0k fork:0.0k Mozilla's Cross-Browser Testing Lab
-- [mdn/mdn](https://github.com/mdn/mdn) topic:governance,mdn,meta pushed_at:2023-05 star:1.2k fork:0.2k Holding repo for MDN Web Docs things
+- [mdn/mdn](https://github.com/mdn/mdn) topic:governance,mdn,meta pushed_at:2023-07 star:1.2k fork:0.2k Holding repo for MDN Web Docs things
 - [mdn/mdn-community](https://github.com/mdn/mdn-community) topic:community,feedback,governance pushed_at:2022-11 star:0.1k fork:0.0k A place to provide feedback and suggestions for MDN Web Docs
 - [mdn/mdn-contributor-spotlight](https://github.com/mdn/mdn-contributor-spotlight) topic: pushed_at:2023-01 star:0.0k fork:0.0k Content for the contributor spotlight on MDN Web Docs
 - [mdn/mdn-dinocons](https://github.com/mdn/mdn-dinocons) topic:design,figma,icons,mdn-dinocons,svg-icons pushed_at:2022-03 star:0.0k fork:0.0k A scalable set of icons for use across Mozilla Developer websites
 - [mdn/project-template](https://github.com/mdn/project-template) topic: pushed_at:2023-02 star:0.0k fork:0.0k A project template to use for new MDN GitHub repositories
 - [mdn/shared-assets](https://github.com/mdn/shared-assets) topic: pushed_at:2023-03 star:0.0k fork:0.0k A repository for media and assets to be used across MDN Web Docs
-- [mdn/sprints](https://github.com/mdn/sprints) topic:issue-management,issue-tracker,issues-only,mdn pushed_at:2022-03 star:0.2k fork:0.2k MDN Web Docs content issue management
+- [mdn/sprints](https://github.com/mdn/sprints) topic:issue-management,issue-tracker,issues-only,mdn pushed_at:2023-07 star:0.2k fork:0.2k MDN Web Docs content issue management
 - [mdn/temp-processes](https://github.com/mdn/temp-processes) topic: pushed_at:2023-01 star:0.0k fork:0.0k Temp repository to define issue & pr processes with mermaid flow charts
 - [mdn/wiki-revision-history](https://github.com/mdn/wiki-revision-history) topic:mdn pushed_at:2021-01 star:0.0k fork:0.0k An accurate CSV record of who made what revisions to MDN Web Docs when it was a Wiki platform
-- [mdn/workflows](https://github.com/mdn/workflows) topic:github-actions pushed_at:2023-06 star:0.0k fork:0.0k Reusable GitHub Actions workflows
+- [mdn/workflows](https://github.com/mdn/workflows) topic:github-actions pushed_at:2023-07 star:0.0k fork:0.0k Reusable GitHub Actions workflows
 
 ## PHP
 
@@ -166,7 +166,7 @@
 ## Rust
 
 - [mdn/differy](https://github.com/mdn/differy) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
-- [mdn/rumba](https://github.com/mdn/rumba) topic:rust pushed_at:2023-07 star:0.0k fork:0.0k The clean kuma (🤖🧹)
+- [mdn/rumba](https://github.com/mdn/rumba) topic:rust pushed_at:2023-08 star:0.0k fork:0.0k The clean kuma (🤖🧹)
 
 ## SCSS
 

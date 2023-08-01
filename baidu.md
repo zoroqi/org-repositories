@@ -27,7 +27,7 @@
 
 - [baidu/baidu-iot-samples](https://github.com/baidu/baidu-iot-samples) topic: pushed_at:2019-10 star:0.1k fork:0.1k 
 - [baidu/boteye_sensor](https://github.com/baidu/boteye_sensor) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2023-06 star:3.2k fork:0.3k dperf is a DPDK based 100Gbps network performance and load testing software.
+- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2023-07 star:3.3k fork:0.4k dperf is a DPDK based 100Gbps network performance and load testing software.
 - [baidu/du1906_esp](https://github.com/baidu/du1906_esp) topic: pushed_at:2023-05 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
 - [baidu/iot-edge-sdk-for-iot-parser](https://github.com/baidu/iot-edge-sdk-for-iot-parser) topic: pushed_at:2019-02 star:0.1k fork:0.1k 
 - [baidu/iot-sdk-c](https://github.com/baidu/iot-sdk-c) topic:device-management,edge-sdk,mqtt,sdk pushed_at:2022-04 star:0.1k fork:0.1k device sdk for baidu IoT Core service, in c. Including MQTT client
@@ -47,7 +47,7 @@
 - [baidu/bigflow](https://github.com/baidu/bigflow) topic: pushed_at:2022-10 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [baidu/boteye](https://github.com/baidu/boteye) topic: pushed_at:2019-04 star:0.2k fork:0.1k 
 - [baidu/boteye_driver](https://github.com/baidu/boteye_driver) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/braft](https://github.com/baidu/braft) topic:distributed-consensus,distributed-storage,raft,raft-consensus-algorithm,raft-cpp,raft-cxx,raft-protocol,state-machine-replication pushed_at:2023-06 star:3.6k fork:0.8k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
+- [baidu/braft](https://github.com/baidu/braft) topic:distributed-consensus,distributed-storage,raft,raft-consensus-algorithm,raft-cpp,raft-cxx,raft-protocol,state-machine-replication pushed_at:2023-07 star:3.6k fork:0.8k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
 - [baidu/common](https://github.com/baidu/common) topic: pushed_at:2017-06 star:0.1k fork:0.1k Common library
 - [baidu/Familia](https://github.com/baidu/Familia) topic:lda,nlp,sentence-lda,topic-modeling,topic-models,twe pushed_at:2021-07 star:2.6k fork:0.6k A Toolkit for Industrial Topic Modeling
 - [baidu/fast_rgf](https://github.com/baidu/fast_rgf) topic: pushed_at:2018-07 star:0.5k fork:0.1k Multi-core implementation of Regularized Greedy Forest
@@ -55,7 +55,7 @@
 - [baidu/ICE-BA](https://github.com/baidu/ICE-BA) topic: pushed_at:2018-09 star:0.7k fork:0.2k 
 - [baidu/ins](https://github.com/baidu/ins) topic: pushed_at:2020-10 star:0.2k fork:0.1k iNexus, coordinate large scale services
 - [baidu/lac](https://github.com/baidu/lac) topic:chinese-nlp,chinese-word-segmentation,java,lexical-analysis,named-entity-recognition,part-of-speech-tagger,python,word-segmentation pushed_at:2021-05 star:3.5k fork:0.6k 百度NLP：分词，词性标注，命名实体识别，词重要性
-- [baidu/openrasp](https://github.com/baidu/openrasp) topic:devsecops,iast,rasp,security,waf pushed_at:2023-04 star:2.5k fork:0.6k 🔥Open source RASP solution
+- [baidu/openrasp](https://github.com/baidu/openrasp) topic:devsecops,iast,rasp,security,waf pushed_at:2023-07 star:2.5k fork:0.6k 🔥Open source RASP solution
 - [baidu/shuttle](https://github.com/baidu/shuttle) topic: pushed_at:2018-07 star:0.1k fork:0.0k A fast computing framework based on Galaxy
 - [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) topic: pushed_at:2022-02 star:2.1k fork:0.7k A light-weight RPC implement of google protobuf RPC framework.
 - [baidu/tera](https://github.com/baidu/tera) topic:baidu,bigtable,c-plus-plus,data,database,hbase,nosql,storage pushed_at:2019-01 star:1.9k fork:0.5k An Internet-Scale Database.
@@ -80,7 +80,7 @@
 
 ## Java
 
-- [baidu/bifromq](https://github.com/baidu/bifromq) topic:decentralized-cluster,distributed,iot,mqtt,mqtt-broker,multi-tenant,serverless pushed_at:2023-07 star:0.2k fork:0.0k A MQTT broker implementation adopting serverless architecture
+- [baidu/bifromq](https://github.com/baidu/bifromq) topic:decentralized-cluster,distributed,iot,mqtt,mqtt-broker,multi-tenant,serverless pushed_at:2023-07 star:0.4k fork:0.0k A MQTT broker implementation adopting serverless architecture
 - [baidu/brcc](https://github.com/baidu/brcc) topic:brcc,go,java,sdk-go,sdk-java pushed_at:2022-11 star:0.4k fork:0.1k BRCC（better remote config center）是一个分布式配置中心，用于统一管理应用服务的配置信息，避免各类资源散落在各个项目中，简化资源配置的维护成本。作为一种轻量级的解决方案，部署简单，同时支持多环境、多版本、多角色的资源管理，可以在不改变应用源码的情况下无缝切换和实时生效配置信息。
 - [baidu/Cafe](https://github.com/baidu/Cafe) topic: pushed_at:2014-05 star:0.4k fork:0.2k A powerful test framework for Android
 - [baidu/dlock](https://github.com/baidu/dlock) topic: pushed_at:2017-03 star:0.2k fork:0.1k An effective and reliable Distributed Lock
@@ -113,9 +113,9 @@
 - [baidu/san-composition](https://github.com/baidu/san-composition) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [baidu/san-factory](https://github.com/baidu/san-factory) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
 - [baidu/san-router](https://github.com/baidu/san-router) topic:san pushed_at:2023-03 star:0.0k fork:0.0k Official Router for San
-- [baidu/san-store](https://github.com/baidu/san-store) topic:appstate,san pushed_at:2023-06 star:0.1k fork:0.0k Application States Management for San
+- [baidu/san-store](https://github.com/baidu/san-store) topic:appstate,san pushed_at:2023-07 star:0.1k fork:0.0k Application States Management for San
 - [baidu/san-update](https://github.com/baidu/san-update) topic:san pushed_at:2023-05 star:0.1k fork:0.0k Object immutable update utility for san solution
-- [baidu/san-website](https://github.com/baidu/san-website) topic: pushed_at:2023-04 star:0.0k fork:0.1k 
+- [baidu/san-website](https://github.com/baidu/san-website) topic: pushed_at:2023-07 star:0.0k fork:0.1k 
 - [baidu/signet](https://github.com/baidu/signet) topic: pushed_at:2014-12 star:0.0k fork:0.0k 签章系统
 - [baidu/wx2](https://github.com/baidu/wx2) topic: pushed_at:2021-04 star:0.1k fork:0.0k 小程序互转工具
 
@@ -131,7 +131,7 @@
 
 - [baidu/bfe-book](https://github.com/baidu/bfe-book) topic: pushed_at:2023-06 star:1.2k fork:0.2k In-depth Understanding of BFE《深入理解BFE》（Book for BFE, a CNCF open source project. both in English and in Chinese）
 - [baidu/cppcheck](https://github.com/baidu/cppcheck) topic: pushed_at:2019-12 star:0.0k fork:0.0k static analysis of C/C++ code
-- [baidu/highflip](https://github.com/baidu/highflip) topic: pushed_at:2023-05 star:0.0k fork:0.0k HIGHFLIP: An easy way to bridge different federal learning platforms
+- [baidu/highflip](https://github.com/baidu/highflip) topic: pushed_at:2023-07 star:0.0k fork:0.0k HIGHFLIP: An easy way to bridge different federal learning platforms
 - [baidu/iot](https://github.com/baidu/iot) topic: pushed_at:2016-09 star:0.0k fork:0.0k for all code about Internet of Things
 - [baidu/ITEST](https://github.com/baidu/ITEST) topic: pushed_at:2013-11 star:0.1k fork:0.1k Web service interface test framework
 - [baidu/minions](https://github.com/baidu/minions) topic:ethernet-switch pushed_at:2017-09 star:0.0k fork:0.0k Baidu 100G Chasiss Switch hardware spec
@@ -172,8 +172,8 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) topic:admin,frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2023-07 star:14.3k fork:2.1k 前端低代码框架，通过 JSON 配置就能生成各种页面。
-- [baidu/bifromq-docs](https://github.com/baidu/bifromq-docs) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
+- [baidu/amis](https://github.com/baidu/amis) topic:admin,frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2023-07 star:14.5k fork:2.1k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/bifromq-docs](https://github.com/baidu/bifromq-docs) topic:iot,iot-middleware,iot-platform,message-queue,middleware,mqtt,mqtt-broker,mqtt-protocol,mqtt-server,multi-tenancy,multi-tenant,serverless pushed_at:2023-07 star:0.0k fork:0.0k Documentation for BifroMQ, a high-performance MQTT Broker messaging middleware that utilizes Multi-tenancy architecture.
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) topic:chrome,chromium,debug,devtools,extension,san pushed_at:2022-11 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) topic:san,ssr,ssr-target-js pushed_at:2023-07 star:0.0k fork:0.0k San SSR framework and utils
 
