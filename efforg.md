@@ -76,7 +76,7 @@
 - [EFForg/actioncenter-mobile](https://github.com/EFForg/actioncenter-mobile) topic: pushed_at:2022-03 star:0.1k fork:0.0k 2.0
 - [EFForg/congress-forms-test](https://github.com/EFForg/congress-forms-test) topic: pushed_at:2016-03 star:0.0k fork:0.0k Way for volunteers to test EFF's congress-forms repo
 - [EFForg/congress-forms.js](https://github.com/EFForg/congress-forms.js) topic: pushed_at:2014-06 star:0.0k fork:0.0k A javascript widget which can construct plain forms that submit to a contact-congress server.
-- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) topic: pushed_at:2023-03 star:0.2k fork:0.0k Is your browser safe against tracking?
+- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) topic: pushed_at:2023-08 star:0.2k fork:0.0k Is your browser safe against tracking?
 - [EFForg/cyberspying](https://github.com/EFForg/cyberspying) topic: pushed_at:2015-12 star:0.0k fork:0.0k cyberspying.eff.org twitter tool
 - [EFForg/fight215](https://github.com/EFForg/fight215) topic: pushed_at:2015-06 star:0.0k fork:0.0k 
 - [EFForg/find-aa-domains](https://github.com/EFForg/find-aa-domains) topic: pushed_at:2019-04 star:0.0k fork:0.0k Create a script to find domains in the PB pre-block list which are mentioned in the Acceptable Ads list as well
@@ -86,7 +86,7 @@
 - [EFForg/ngw-website](https://github.com/EFForg/ngw-website) topic: pushed_at:2017-01 star:0.0k fork:0.0k 
 - [EFForg/node-wethepeople](https://github.com/EFForg/node-wethepeople) topic: pushed_at:2015-09 star:0.0k fork:0.0k Node wrapper for the We the People API
 - [EFForg/OpenWireless](https://github.com/EFForg/OpenWireless) topic: pushed_at:2022-03 star:0.7k fork:0.1k The official home of the EFF OpenWireless Project
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) topic:browser-fingerprinting,chrome-extension,cookies,fingerprinting,firefox-extension,javascript,privacy,tracking,webextension pushed_at:2023-07 star:2.8k fork:0.4k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) topic:browser-fingerprinting,chrome-extension,cookies,fingerprinting,firefox-extension,javascript,privacy,tracking,webextension pushed_at:2023-08 star:2.8k fork:0.4k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [EFForg/privacybadgerfirefox-legacy](https://github.com/EFForg/privacybadgerfirefox-legacy) topic: pushed_at:2016-12 star:0.4k fork:0.1k LEGACY Privacy Badger for Firefox SEE README
 - [EFForg/psi-tumblr-crawler](https://github.com/EFForg/psi-tumblr-crawler) topic: pushed_at:2015-08 star:0.0k fork:0.0k 
 - [EFForg/pushserver](https://github.com/EFForg/pushserver) topic: pushed_at:2018-03 star:0.0k fork:0.0k A server for sending push notifications to mobile apps
@@ -124,7 +124,7 @@
 
 ## Python
 
-- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) topic: pushed_at:2023-07 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
+- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) topic: pushed_at:2023-08 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
 - [EFForg/call-congress](https://github.com/EFForg/call-congress) topic: pushed_at:2021-12 star:0.0k fork:0.0k a simple server that connects calls between citizens and their congress person using the Twilio API
 - [EFForg/contact-congress](https://github.com/EFForg/contact-congress) topic: pushed_at:2014-06 star:0.0k fork:0.0k Sending electronic written messages to members of Congress by reverse engineering their contact forms.
 - [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) topic:4g,bladerf,imsi-catcher,imsi-catchers,libbladerf,lte,raspberry-pi,security,usrp,wigle pushed_at:2023-02 star:0.8k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
