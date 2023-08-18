@@ -73,3 +73,6 @@
 - name: wikimedia
   userType: org
   file: wikimedia.md
+- name: IBM
+  userType: org
+  file: IBM.md
