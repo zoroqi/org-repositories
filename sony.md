@@ -28,7 +28,7 @@
 
 ## C
 
-- [sony/nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) topic: pushed_at:2023-07 star:0.0k fork:0.0k Neural Network Libraries https://nnabla.org/ - C Runtime
+- [sony/nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) topic: pushed_at:2023-08 star:0.0k fork:0.0k Neural Network Libraries https://nnabla.org/ - C Runtime
 - [sony/openocd-nuttx](https://github.com/sony/openocd-nuttx) topic: pushed_at:2019-01 star:0.0k fork:0.0k Fork of OpenOCD with NuttX thread support.
 - [sony/pdaf-library](https://github.com/sony/pdaf-library) topic: pushed_at:2016-03 star:0.0k fork:0.0k 
 
@@ -43,7 +43,7 @@
 
 ## CSS
 
-- [sony/creativeai](https://github.com/sony/creativeai) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
+- [sony/creativeai](https://github.com/sony/creativeai) topic: pushed_at:2023-07 star:0.1k fork:0.0k 
 
 ## Cuda
 
@@ -81,7 +81,7 @@
 
 ## Jupyter Notebook
 
-- [sony/DiffRoll](https://github.com/sony/DiffRoll) topic:automatic-music-transcription,deep-generative-model,diffusion,generative-model,inpainting,machine-learning,music-generation,pytorch pushed_at:2023-04 star:0.0k fork:0.0k PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model
+- [sony/DiffRoll](https://github.com/sony/DiffRoll) topic:automatic-music-transcription,deep-generative-model,diffusion,generative-model,inpainting,machine-learning,music-generation,pytorch pushed_at:2023-04 star:0.1k fork:0.0k PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model
 - [sony/fp-diffusion](https://github.com/sony/fp-diffusion) topic: pushed_at:2023-05 star:0.0k fork:0.0k 
 
 ## Others
@@ -112,9 +112,9 @@
 - [sony/NDJIR](https://github.com/sony/NDJIR) topic: pushed_at:2023-02 star:0.0k fork:0.0k NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object
 - [sony/nnabla](https://github.com/sony/nnabla) topic: pushed_at:2023-08 star:2.6k fork:0.3k Neural Network Libraries
 - [sony/nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
-- [sony/nnabla-examples](https://github.com/sony/nnabla-examples) topic: pushed_at:2023-07 star:0.3k fork:0.1k Neural Network Libraries https://nnabla.org/ - Examples
+- [sony/nnabla-examples](https://github.com/sony/nnabla-examples) topic: pushed_at:2023-08 star:0.3k fork:0.1k Neural Network Libraries https://nnabla.org/ - Examples
 - [sony/nnabla-nas](https://github.com/sony/nnabla-nas) topic: pushed_at:2023-08 star:0.0k fork:0.0k Neural Architecture Search for Neural Network Libraries
-- [sony/nnabla-rl](https://github.com/sony/nnabla-rl) topic: pushed_at:2023-07 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
+- [sony/nnabla-rl](https://github.com/sony/nnabla-rl) topic: pushed_at:2023-08 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
 - [sony/nnc-plugin](https://github.com/sony/nnc-plugin) topic: pushed_at:2023-08 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
 - [sony/pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) topic: pushed_at:2023-06 star:0.0k fork:0.0k Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models
 - [sony/polar-densification](https://github.com/sony/polar-densification) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
@@ -125,7 +125,7 @@
 ## TypeScript
 
 - [sony/cdp-js](https://github.com/sony/cdp-js) topic: pushed_at:2018-05 star:0.0k fork:0.0k Libraries/SDK modules for multi-platform application development
-- [sony/mapray-js](https://github.com/sony/mapray-js) topic: pushed_at:2023-05 star:0.1k fork:0.0k JavaScript library for Interactive high quality 3D globes and maps in the browser
+- [sony/mapray-js](https://github.com/sony/mapray-js) topic: pushed_at:2023-08 star:0.1k fork:0.0k JavaScript library for Interactive high quality 3D globes and maps in the browser
 - [sony/nnabla-browser](https://github.com/sony/nnabla-browser) topic: pushed_at:2023-03 star:0.0k fork:0.0k Visualization toolkit for Neural Network Libraries
 - [sony/nnabla-js](https://github.com/sony/nnabla-js) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [sony/typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) topic: pushed_at:2020-01 star:0.0k fork:0.0k Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa.

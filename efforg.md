@@ -127,7 +127,7 @@
 - [EFForg/badger-sett](https://github.com/EFForg/badger-sett) topic: pushed_at:2023-08 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
 - [EFForg/call-congress](https://github.com/EFForg/call-congress) topic: pushed_at:2021-12 star:0.0k fork:0.0k a simple server that connects calls between citizens and their congress person using the Twilio API
 - [EFForg/contact-congress](https://github.com/EFForg/contact-congress) topic: pushed_at:2014-06 star:0.0k fork:0.0k Sending electronic written messages to members of Congress by reverse engineering their contact forms.
-- [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) topic:4g,bladerf,imsi-catcher,imsi-catchers,libbladerf,lte,raspberry-pi,security,usrp,wigle pushed_at:2023-02 star:0.8k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
+- [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) topic:4g,bladerf,imsi-catcher,imsi-catchers,libbladerf,lte,raspberry-pi,security,usrp,wigle pushed_at:2023-02 star:0.9k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
 - [EFForg/cryptobot-email](https://github.com/EFForg/cryptobot-email) topic: pushed_at:2014-05 star:0.1k fork:0.0k 
 - [EFForg/cryptolog](https://github.com/EFForg/cryptolog) topic: pushed_at:2016-07 star:0.1k fork:0.0k Cryptolog is a tool for anonymizing webserver logs.
 - [EFForg/https-everywhere-standalone](https://github.com/EFForg/https-everywhere-standalone) topic: pushed_at:2021-06 star:0.0k fork:0.0k Transparently redirect insecure HTTP to secure HTTPS using HTTPS Everywhere and `mitmproxy`
@@ -140,7 +140,7 @@
 
 ## Ruby
 
-- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) topic: pushed_at:2023-07 star:0.4k fork:0.1k The EFF Action Center Platform
+- [EFForg/action-center-platform](https://github.com/EFForg/action-center-platform) topic: pushed_at:2023-08 star:0.4k fork:0.1k The EFF Action Center Platform
 - [EFForg/active_preview](https://github.com/EFForg/active_preview) topic: pushed_at:2018-11 star:0.0k fork:0.0k Rails plugin to make previews of active record objects
 - [EFForg/aws_one_click_staging](https://github.com/EFForg/aws_one_click_staging) topic: pushed_at:2018-02 star:0.0k fork:0.0k 
 - [EFForg/check-your-reps](https://github.com/EFForg/check-your-reps) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
@@ -157,7 +157,7 @@
 
 ## Rust
 
-- [EFForg/apkeep](https://github.com/EFForg/apkeep) topic: pushed_at:2023-06 star:0.6k fork:0.0k 
+- [EFForg/apkeep](https://github.com/EFForg/apkeep) topic: pushed_at:2023-08 star:0.6k fork:0.0k 
 - [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) topic: pushed_at:2023-01 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
 - [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) topic: pushed_at:2023-01 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) topic: pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM

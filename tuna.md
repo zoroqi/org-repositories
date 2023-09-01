@@ -78,7 +78,7 @@
 - [tuna/artwork](https://github.com/tuna/artwork) topic: pushed_at:2022-09 star:0.0k fork:0.0k tuna artwork
 - [tuna/Books](https://github.com/tuna/Books) topic: pushed_at:2020-11 star:0.0k fork:0.0k Tracking Books of TUNA Library
 - [tuna/Cash](https://github.com/tuna/Cash) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
-- [tuna/collection](https://github.com/tuna/collection) topic: pushed_at:2022-04 star:0.2k fork:0.0k idea collections from TUNA
+- [tuna/collection](https://github.com/tuna/collection) topic: pushed_at:2022-04 star:0.3k fork:0.0k idea collections from TUNA
 - [tuna/dataset-issues](https://github.com/tuna/dataset-issues) topic: pushed_at:2018-04 star:0.0k fork:0.0k Issues about academic dataset mirrors
 - [tuna/isofusion](https://github.com/tuna/isofusion) topic: pushed_at:2016-05 star:0.0k fork:0.0k scan and create iso filelist from mirrors
 - [tuna/issues](https://github.com/tuna/issues) topic: pushed_at:2021-12 star:0.3k fork:0.0k Code Unrelated Issues 
