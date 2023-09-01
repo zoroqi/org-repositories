@@ -15,12 +15,12 @@
 ## Go
 
 - [golang/appengine](https://github.com/golang/appengine) topic: pushed_at:2023-08 star:0.6k fork:0.2k Go App Engine packages
-- [golang/arch](https://github.com/golang/arch) topic: pushed_at:2023-07 star:0.1k fork:0.1k [mirror] architecture code
-- [golang/benchmarks](https://github.com/golang/benchmarks) topic: pushed_at:2023-08 star:0.1k fork:0.0k Benchmarks for the perf dashboard
+- [golang/arch](https://github.com/golang/arch) topic: pushed_at:2023-08 star:0.1k fork:0.1k [mirror] architecture code
+- [golang/benchmarks](https://github.com/golang/benchmarks) topic: pushed_at:2023-08 star:0.2k fork:0.0k Benchmarks for the perf dashboard
 - [golang/build](https://github.com/golang/build) topic: pushed_at:2023-08 star:0.6k fork:0.2k [mirror] Go's continuous build and release infrastructure (no stability promises)
 - [golang/crypto](https://github.com/golang/crypto) topic: pushed_at:2023-08 star:2.8k fork:2.5k [mirror] Go supplementary cryptography libraries
 - [golang/debug](https://github.com/golang/debug) topic: pushed_at:2023-06 star:0.2k fork:0.1k [mirror] debugging tools
-- [golang/dep](https://github.com/golang/dep) topic:dependency-manager,golang,package-manager,toolchain pushed_at:2020-09 star:13.0k fork:1.1k Go dependency management tool experiment (deprecated)
+- [golang/dep](https://github.com/golang/dep) topic:dependency-manager,golang,package-manager,toolchain pushed_at:2020-09 star:12.9k fork:1.1k Go dependency management tool experiment (deprecated)
 - [golang/dl](https://github.com/golang/dl) topic: pushed_at:2023-08 star:0.2k fork:0.0k [mirror] go install golang.org/dl/go1.N@latest
 - [golang/example](https://github.com/golang/example) topic: pushed_at:2023-08 star:2.3k fork:0.8k Go example projects
 - [golang/exp](https://github.com/golang/exp) topic: pushed_at:2023-08 star:0.8k fork:0.2k [mirror] Experimental and deprecated packages
@@ -28,19 +28,19 @@
 - [golang/gddo](https://github.com/golang/gddo) topic: pushed_at:2021-01 star:1.1k fork:0.3k Go Doc Dot Org
 - [golang/geo](https://github.com/golang/geo) topic:geometry,geometry-library,go,sphere pushed_at:2023-07 star:1.6k fork:0.2k S2 geometry library in Go
 - [golang/glog](https://github.com/golang/glog) topic: pushed_at:2023-08 star:3.4k fork:0.9k Leveled execution logs for Go
-- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2023-08 star:113.6k fork:17.0k The Go programming language
+- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2023-09 star:114.0k fork:17.1k The Go programming language
 - [golang/go-get-issue-15410](https://github.com/golang/go-get-issue-15410) topic: pushed_at:2020-08 star:0.0k fork:0.0k go-get-issue-15410
 - [golang/gofrontend](https://github.com/golang/gofrontend) topic: pushed_at:2023-07 star:0.8k fork:0.1k Go compiler frontend (gccgo)
 - [golang/groupcache](https://github.com/golang/groupcache) topic: pushed_at:2023-03 star:12.3k fork:1.4k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [golang/image](https://github.com/golang/image) topic: pushed_at:2023-08 star:0.5k fork:0.2k [mirror] Go supplementary image libraries
 - [golang/leveldb](https://github.com/golang/leveldb) topic: pushed_at:2017-01 star:1.1k fork:0.2k The LevelDB key-value database in the Go programming language.
 - [golang/lint](https://github.com/golang/lint) topic: pushed_at:2021-05 star:4.0k fork:0.5k [mirror] This is a linter for Go source code. (deprecated)
-- [golang/mobile](https://github.com/golang/mobile) topic: pushed_at:2023-07 star:5.4k fork:0.7k [mirror] Go on Mobile
+- [golang/mobile](https://github.com/golang/mobile) topic: pushed_at:2023-08 star:5.4k fork:0.7k [mirror] Go on Mobile
 - [golang/mock](https://github.com/golang/mock) topic: pushed_at:2023-08 star:9.1k fork:0.7k GoMock is a mocking framework for the Go programming language.
 - [golang/mod](https://github.com/golang/mod) topic: pushed_at:2023-07 star:0.2k fork:0.1k [mirror] Go module mechanics libraries
-- [golang/net](https://github.com/golang/net) topic: pushed_at:2023-08 star:2.7k fork:1.1k [mirror] Go supplementary network libraries
-- [golang/oauth2](https://github.com/golang/oauth2) topic:go,golang,oauth2,oauth2-client pushed_at:2023-08 star:4.8k fork:1.0k Go OAuth2
-- [golang/perf](https://github.com/golang/perf) topic: pushed_at:2023-08 star:0.3k fork:0.1k [mirror] Performance measurement, storage, and analysis.
+- [golang/net](https://github.com/golang/net) topic: pushed_at:2023-08 star:2.7k fork:1.2k [mirror] Go supplementary network libraries
+- [golang/oauth2](https://github.com/golang/oauth2) topic:go,golang,oauth2,oauth2-client pushed_at:2023-08 star:4.9k fork:1.0k Go OAuth2
+- [golang/perf](https://github.com/golang/perf) topic: pushed_at:2023-08 star:0.4k fork:0.1k [mirror] Performance measurement, storage, and analysis.
 - [golang/pkgsite](https://github.com/golang/pkgsite) topic: pushed_at:2023-08 star:1.1k fork:0.2k [mirror] Home of the pkg.go.dev website
 - [golang/pkgsite-metrics](https://github.com/golang/pkgsite-metrics) topic: pushed_at:2023-08 star:0.0k fork:0.0k Code to serve pkg.go.dev/metrics [mirror]
 - [golang/playground](https://github.com/golang/playground) topic: pushed_at:2023-08 star:0.7k fork:0.2k [mirror] The Go Playground
@@ -55,9 +55,9 @@
 - [golang/term](https://github.com/golang/term) topic: pushed_at:2023-08 star:0.2k fork:0.1k Go terminal and console support
 - [golang/text](https://github.com/golang/text) topic: pushed_at:2023-08 star:0.7k fork:0.3k [mirror] Go text processing support
 - [golang/time](https://github.com/golang/time) topic: pushed_at:2022-12 star:0.4k fork:0.1k [mirror] Go supplementary time packages
-- [golang/tools](https://github.com/golang/tools) topic: pushed_at:2023-08 star:6.9k fork:2.2k [mirror] Go Tools
+- [golang/tools](https://github.com/golang/tools) topic: pushed_at:2023-08 star:7.0k fork:2.2k [mirror] Go Tools
 - [golang/tour](https://github.com/golang/tour) topic: pushed_at:2023-03 star:1.5k fork:0.5k [mirror] A Tour of Go
-- [golang/vgo](https://github.com/golang/vgo) topic: pushed_at:2022-10 star:1.5k fork:0.1k [mirror] Versioned Go Prototype
+- [golang/vgo](https://github.com/golang/vgo) topic: pushed_at:2023-08 star:1.5k fork:0.1k [mirror] Versioned Go Prototype
 - [golang/vuln](https://github.com/golang/vuln) topic: pushed_at:2023-08 star:0.3k fork:0.0k [mirror] the database client and tools for the Go vulnerability database
 - [golang/vulndb](https://github.com/golang/vulndb) topic: pushed_at:2023-08 star:0.5k fork:0.1k [mirror] The Go Vulnerability Database
 - [golang/winstrap](https://github.com/golang/winstrap) topic: pushed_at:2022-09 star:0.0k fork:0.0k Bootstrapping tools for windows builders
@@ -71,14 +71,14 @@
 
 - [golang/.allstar](https://github.com/golang/.allstar) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [golang/.github](https://github.com/golang/.github) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [golang/blog](https://github.com/golang/blog) topic: pushed_at:2021-06 star:0.4k fork:0.1k [mirror] Go Blog (obsolete)
+- [golang/blog](https://github.com/golang/blog) topic: pushed_at:2021-06 star:0.4k fork:0.2k [mirror] Go Blog (obsolete)
 - [golang/cwg](https://github.com/golang/cwg) topic: pushed_at:2018-12 star:0.1k fork:0.0k Community outreach Working Group
-- [golang/govulncheck-action](https://github.com/golang/govulncheck-action) topic: pushed_at:2023-07 star:0.1k fork:0.0k [mirror] GitHub action for govulncheck
+- [golang/govulncheck-action](https://github.com/golang/govulncheck-action) topic: pushed_at:2023-08 star:0.1k fork:0.0k [mirror] GitHub action for govulncheck
 - [golang/talks](https://github.com/golang/talks) topic: pushed_at:2021-12 star:0.7k fork:0.1k Go talks
 
 ## Python
 
-- [golang/sublime-build](https://github.com/golang/sublime-build) topic: pushed_at:2022-07 star:0.3k fork:0.1k The official Sublime Text package for Go build system integration.
+- [golang/sublime-build](https://github.com/golang/sublime-build) topic: pushed_at:2022-07 star:0.3k fork:0.0k The official Sublime Text package for Go build system integration.
 - [golang/sublime-config](https://github.com/golang/sublime-config) topic: pushed_at:2023-08 star:0.1k fork:0.0k A library for Go environment configuration in Sublime Text
 
 ## TypeScript

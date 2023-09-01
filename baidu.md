@@ -13,9 +13,9 @@
 - [Go](#go) (9)
 - [Java](#java) (18)
 - [JavaScript](#javascript) (18)
-- [Jupyter Notebook](#jupyter-notebook) (1)
+- [Jupyter Notebook](#jupyter-notebook) (2)
 - [Kotlin](#kotlin) (1)
-- [Others](#others) (10)
+- [Others](#others) (9)
 - [PHP](#php) (2)
 - [Python](#python) (14)
 - [Ruby](#ruby) (1)
@@ -27,7 +27,7 @@
 
 - [baidu/baidu-iot-samples](https://github.com/baidu/baidu-iot-samples) topic: pushed_at:2019-10 star:0.1k fork:0.1k 
 - [baidu/boteye_sensor](https://github.com/baidu/boteye_sensor) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2023-08 star:3.4k fork:0.4k dperf is a DPDK based 100Gbps network performance and load testing software.
+- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2023-08 star:3.5k fork:0.4k dperf is a DPDK based 100Gbps network performance and load testing software.
 - [baidu/du1906_esp](https://github.com/baidu/du1906_esp) topic: pushed_at:2023-05 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
 - [baidu/iot-edge-sdk-for-iot-parser](https://github.com/baidu/iot-edge-sdk-for-iot-parser) topic: pushed_at:2019-02 star:0.1k fork:0.1k 
 - [baidu/iot-sdk-c](https://github.com/baidu/iot-sdk-c) topic:device-management,edge-sdk,mqtt,sdk pushed_at:2022-04 star:0.1k fork:0.1k device sdk for baidu IoT Core service, in c. Including MQTT client
@@ -47,7 +47,7 @@
 - [baidu/bigflow](https://github.com/baidu/bigflow) topic: pushed_at:2022-10 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [baidu/boteye](https://github.com/baidu/boteye) topic: pushed_at:2019-04 star:0.2k fork:0.1k 
 - [baidu/boteye_driver](https://github.com/baidu/boteye_driver) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/braft](https://github.com/baidu/braft) topic:distributed-consensus,distributed-storage,raft,raft-consensus-algorithm,raft-cpp,raft-cxx,raft-protocol,state-machine-replication pushed_at:2023-07 star:3.6k fork:0.8k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
+- [baidu/braft](https://github.com/baidu/braft) topic:distributed-consensus,distributed-storage,raft,raft-consensus-algorithm,raft-cpp,raft-cxx,raft-protocol,state-machine-replication pushed_at:2023-08 star:3.6k fork:0.8k An industrial-grade C++ implementation of RAFT consensus algorithm based on brpc,  widely used inside Baidu to build highly-available distributed systems.
 - [baidu/common](https://github.com/baidu/common) topic: pushed_at:2017-06 star:0.1k fork:0.1k Common library
 - [baidu/Familia](https://github.com/baidu/Familia) topic:lda,nlp,sentence-lda,topic-modeling,topic-models,twe pushed_at:2021-07 star:2.6k fork:0.6k A Toolkit for Industrial Topic Modeling
 - [baidu/fast_rgf](https://github.com/baidu/fast_rgf) topic: pushed_at:2018-07 star:0.5k fork:0.1k Multi-core implementation of Regularized Greedy Forest
@@ -57,7 +57,7 @@
 - [baidu/lac](https://github.com/baidu/lac) topic:chinese-nlp,chinese-word-segmentation,java,lexical-analysis,named-entity-recognition,part-of-speech-tagger,python,word-segmentation pushed_at:2021-05 star:3.5k fork:0.6k 百度NLP：分词，词性标注，命名实体识别，词重要性
 - [baidu/openrasp](https://github.com/baidu/openrasp) topic:devsecops,iast,rasp,security,waf pushed_at:2023-07 star:2.5k fork:0.6k 🔥Open source RASP solution
 - [baidu/shuttle](https://github.com/baidu/shuttle) topic: pushed_at:2018-07 star:0.1k fork:0.0k A fast computing framework based on Galaxy
-- [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) topic: pushed_at:2022-02 star:2.1k fork:0.7k A light-weight RPC implement of google protobuf RPC framework.
+- [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) topic: pushed_at:2023-08 star:2.1k fork:0.7k A light-weight RPC implement of google protobuf RPC framework.
 - [baidu/tera](https://github.com/baidu/tera) topic:baidu,bigtable,c-plus-plus,data,database,hbase,nosql,storage pushed_at:2019-01 star:1.9k fork:0.5k An Internet-Scale Database.
 - [baidu/unit-dmkit](https://github.com/baidu/unit-dmkit) topic:bot,dialogue,dialogue-manager,dialogue-systems pushed_at:2019-08 star:0.3k fork:0.1k 
 - [baidu/unit-uskit](https://github.com/baidu/unit-uskit) topic:bot,dialog,dialogflow,dialogue-systems pushed_at:2021-06 star:0.2k fork:0.1k unit-uskit
@@ -97,7 +97,7 @@
 - [baidu/terminator](https://github.com/baidu/terminator) topic: pushed_at:2016-11 star:0.1k fork:0.0k Service Virtualization
 - [baidu/titan-dex](https://github.com/baidu/titan-dex) topic: pushed_at:2023-08 star:0.2k fork:0.0k 
 - [baidu/titan-hotfix](https://github.com/baidu/titan-hotfix) topic: pushed_at:2022-05 star:0.1k fork:0.0k 
-- [baidu/uid-generator](https://github.com/baidu/uid-generator) topic: pushed_at:2023-05 star:5.1k fork:1.5k UniqueID generator
+- [baidu/uid-generator](https://github.com/baidu/uid-generator) topic: pushed_at:2023-05 star:5.2k fork:1.5k UniqueID generator
 
 ## JavaScript
 
@@ -122,6 +122,7 @@
 
 ## Jupyter Notebook
 
+- [baidu/puck](https://github.com/baidu/puck) topic: pushed_at:2023-08 star:0.0k fork:0.0k 
 - [baidu/Quanlse](https://github.com/baidu/Quanlse) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
 
 ## Kotlin
@@ -136,7 +137,6 @@
 - [baidu/ITEST](https://github.com/baidu/ITEST) topic: pushed_at:2013-11 star:0.1k fork:0.1k Web service interface test framework
 - [baidu/minions](https://github.com/baidu/minions) topic:ethernet-switch pushed_at:2017-09 star:0.0k fork:0.0k Baidu 100G Chasiss Switch hardware spec
 - [baidu/palo](https://github.com/baidu/palo) topic:doris,mpp,olap pushed_at:2022-03 star:0.1k fork:0.0k A fast MPP database for all modern analytics on big data. Powered by Apache Doris(Incubating)
-- [baidu/puck](https://github.com/baidu/puck) topic: pushed_at:2023-08 star:0.0k fork:0.0k 
 - [baidu/pylint](https://github.com/baidu/pylint) topic: pushed_at:2019-12 star:0.0k fork:0.0k It's not just a linter that annoys you!
 - [baidu/redis](https://github.com/baidu/redis) topic:auto-failover,auto-scaling,in-memory-database,key-value-database,redis,redis-cluster pushed_at:2017-05 star:0.1k fork:0.0k Baidu Ksarch Redis - a production solution of redis cluster
 - [baidu/spring-cloud-baidu](https://github.com/baidu/spring-cloud-baidu) topic: pushed_at:2023-04 star:0.1k fork:0.0k 
@@ -151,16 +151,16 @@
 - [baidu/ARK](https://github.com/baidu/ARK) topic:framework,operation pushed_at:2021-05 star:0.1k fork:0.0k Development framework of intelligent operation
 - [baidu/baiduads-sdk](https://github.com/baidu/baiduads-sdk) topic:ads,baidu,sdk pushed_at:2023-06 star:0.0k fork:0.0k Baidu Ads API SDK
 - [baidu/broc](https://github.com/baidu/broc) topic: pushed_at:2017-12 star:0.1k fork:0.1k 
-- [baidu/CUP](https://github.com/baidu/CUP) topic:common-libraries,common-libs,library,python pushed_at:2023-07 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
+- [baidu/CUP](https://github.com/baidu/CUP) topic:common-libraries,common-libs,library,python pushed_at:2023-08 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
 - [baidu/DDParser](https://github.com/baidu/DDParser) topic:chinese-dependency-parser,chinese-nlp,dependency-parser,dependency-parsing,python,syntax-parser pushed_at:2023-02 star:0.9k fork:0.2k 百度开源的依存句法分析系统
 - [baidu/Dialogue](https://github.com/baidu/Dialogue) topic:chatbot,dialogue,research pushed_at:2022-07 star:0.4k fork:0.1k 
 - [baidu/duedge-cli](https://github.com/baidu/duedge-cli) topic: pushed_at:2020-03 star:0.0k fork:0.0k DuEdge Command Line
-- [baidu/DuReader](https://github.com/baidu/DuReader) topic: pushed_at:2022-05 star:1.0k fork:0.3k Baseline Systems of DuReader Dataset
+- [baidu/DuReader](https://github.com/baidu/DuReader) topic: pushed_at:2022-05 star:1.1k fork:0.3k Baseline Systems of DuReader Dataset
 - [baidu/information-extraction](https://github.com/baidu/information-extraction) topic: pushed_at:2019-05 star:0.3k fork:0.1k 
 - [baidu/knowledge-driven-dialogue](https://github.com/baidu/knowledge-driven-dialogue) topic: pushed_at:2019-06 star:0.3k fork:0.1k baseline system of knowledge driven dialogue competition
 - [baidu/logcover](https://github.com/baidu/logcover) topic: pushed_at:2017-02 star:0.1k fork:0.0k 轻量级异常日志测试覆盖率度量工具
 - [baidu/QCompute](https://github.com/baidu/QCompute) topic: pushed_at:2023-06 star:0.1k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
-- [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2022-06 star:1.7k fork:0.4k Baidu's open-source Sentiment Analysis System.
+- [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2022-06 star:1.8k fork:0.4k Baidu's open-source Sentiment Analysis System.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) topic: pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
 
 ## Ruby
@@ -173,7 +173,7 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) topic:admin,frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2023-08 star:14.6k fork:2.1k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) topic:admin,frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2023-08 star:14.7k fork:2.1k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/bifromq-docs](https://github.com/baidu/bifromq-docs) topic:iot,iot-middleware,iot-platform,message-queue,middleware,mqtt,mqtt-broker,mqtt-protocol,mqtt-server,multi-tenancy,multi-tenant,serverless pushed_at:2023-08 star:0.0k fork:0.0k Documentation for BifroMQ, a high-performance MQTT Broker messaging middleware that utilizes Multi-tenancy architecture.
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) topic:chrome,chromium,debug,devtools,extension,san pushed_at:2022-11 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) topic:san,ssr,ssr-target-js pushed_at:2023-07 star:0.0k fork:0.0k San SSR framework and utils

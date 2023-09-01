@@ -244,13 +244,13 @@
 - [apachecn/apachecn-vuln-wiki](https://github.com/apachecn/apachecn-vuln-wiki) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
 - [apachecn/apachecn-web-notes](https://github.com/apachecn/apachecn-web-notes) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/apachecn-web-wiki](https://github.com/apachecn/apachecn-web-wiki) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
-- [apachecn/apachecn-web3-wiki](https://github.com/apachecn/apachecn-web3-wiki) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
+- [apachecn/apachecn-web3-wiki](https://github.com/apachecn/apachecn-web3-wiki) topic: pushed_at:2023-08 star:0.0k fork:0.0k Web3 知识库
 - [apachecn/as-dev-essense-zh](https://github.com/apachecn/as-dev-essense-zh) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [apachecn/askpython-blog-zh](https://github.com/apachecn/askpython-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/assemblyai-blog-zh](https://github.com/apachecn/assemblyai-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/backtrader-doc-zh](https://github.com/apachecn/backtrader-doc-zh) topic: pushed_at:2023-07 star:0.0k fork:0.0k Backtrader 中文文档
 - [apachecn/baeldung-zh](https://github.com/apachecn/baeldung-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [apachecn/baguwen-wiki](https://github.com/apachecn/baguwen-wiki) topic: pushed_at:2022-12 star:0.1k fork:0.0k :books: 面试八股文
+- [apachecn/baguwen-wiki](https://github.com/apachecn/baguwen-wiki) topic: pushed_at:2023-08 star:0.1k fork:0.0k :books: 面试八股文
 - [apachecn/bamei-cidian](https://github.com/apachecn/bamei-cidian) topic: pushed_at:2023-02 star:0.0k fork:0.0k :books: 把妹词典
 - [apachecn/beginnersbook-zh](https://github.com/apachecn/beginnersbook-zh) topic:c,cpp,java,mongodb pushed_at:2022-07 star:0.1k fork:0.0k :books: [译] BeginnersBook 中文系列教程
 - [apachecn/betterprogramming-blog-zh](https://github.com/apachecn/betterprogramming-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
@@ -289,7 +289,7 @@
 - [apachecn/elasticsearch-doc-zh](https://github.com/apachecn/elasticsearch-doc-zh) topic:elasticsearch pushed_at:2020-12 star:0.1k fork:0.0k :book: [译] elasticsearch 中文文档
 - [apachecn/eldernode-blog-zh](https://github.com/apachecn/eldernode-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/fasttext-doc-zh](https://github.com/apachecn/fasttext-doc-zh) topic: pushed_at:2020-11 star:0.1k fork:0.0k FastText 中文文档
-- [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) topic:book,feature-engineering,machine-learning,python pushed_at:2020-12 star:2.4k fork:0.7k :book: [译] 面向机器学习的特征工程
+- [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) topic:book,feature-engineering,machine-learning,python pushed_at:2023-08 star:2.4k fork:0.7k :book: [译] 面向机器学习的特征工程
 - [apachecn/ffmpeg-doc-zh](https://github.com/apachecn/ffmpeg-doc-zh) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [apachecn/figment-tut-zh](https://github.com/apachecn/figment-tut-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Figment 中文系列教程
 - [apachecn/financial](https://github.com/apachecn/financial) topic: pushed_at:2023-07 star:0.0k fork:0.0k 投资理财 - 专注于智能算法投资
@@ -882,7 +882,7 @@
 - [apachecn/JsjiamiV6-Decryptor](https://github.com/apachecn/JsjiamiV6-Decryptor) topic: pushed_at:2022-06 star:0.0k fork:0.0k 使用 Node.js 开发的简易 JsjiamiV6 解密工具。
 - [apachecn/juejin-helper](https://github.com/apachecn/juejin-helper) topic: pushed_at:2022-12 star:0.0k fork:0.0k 稀土掘金助手：签到、抽奖、沾喜气、消除Bug、海底掘金游戏、自动化工作流。
 - [apachecn/k8slocal](https://github.com/apachecn/k8slocal) topic: pushed_at:2019-03 star:0.0k fork:0.0k Automated local k8s setup
-- [apachecn/kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh) topic:kafka pushed_at:2022-03 star:0.4k fork:0.1k Kafka 中文文档
+- [apachecn/kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh) topic:kafka pushed_at:2023-08 star:0.4k fork:0.1k Kafka 中文文档
 - [apachecn/Kaggle](https://github.com/apachecn/Kaggle) topic: pushed_at:2021-11 star:0.1k fork:0.0k 
 - [apachecn/kaggle-kernel-pt1](https://github.com/apachecn/kaggle-kernel-pt1) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [apachecn/kaggle-kernel-pt2](https://github.com/apachecn/kaggle-kernel-pt2) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
