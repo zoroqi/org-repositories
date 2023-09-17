@@ -67,7 +67,7 @@
 - [apachecn/pandas-cookbook-code-notes](https://github.com/apachecn/pandas-cookbook-code-notes) topic:code,data-analysis,notes,pandas,python pushed_at:2021-01 star:0.1k fork:0.0k :book: Pandas Cookbook 带注释源码
 - [apachecn/principles-zh](https://github.com/apachecn/principles-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :book: 原则 · 中文版
 - [apachecn/pyda-2e-zh](https://github.com/apachecn/pyda-2e-zh) topic:book,data-analysis,numpy,pandas,pyda,python pushed_at:2021-01 star:1.1k fork:0.3k :book:  [译] 利用 Python 进行数据分析 · 第 2 版
-- [apachecn/quant-learning](https://github.com/apachecn/quant-learning) topic: pushed_at:2023-08 star:0.3k fork:0.0k :books: Quant 教程整理
+- [apachecn/quant-learning](https://github.com/apachecn/quant-learning) topic: pushed_at:2023-08 star:0.3k fork:0.1k :books: Quant 教程整理
 - [apachecn/scapy-docs-zh](https://github.com/apachecn/scapy-docs-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/scipycon-2018-sklearn-tut-zh](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh) topic:machine-learning,python,scikit-learn,scipy2018,tutorial pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] SciPyCon 2018 Sklearn 教程
 - [apachecn/sicp-py-zh](https://github.com/apachecn/sicp-py-zh) topic:cs61a,lecture-notes,python,sicp,ucb pushed_at:2021-01 star:0.1k fork:0.0k :book: [译] UCB CS61a SICP Python 描述 中文版
@@ -186,7 +186,7 @@
 - [apachecn/apachecn-html-css-zh](https://github.com/apachecn/apachecn-html-css-zh) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [apachecn/apachecn-html-css-zh-pt2](https://github.com/apachecn/apachecn-html-css-zh-pt2) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [apachecn/apachecn-html-css-zh-pt3](https://github.com/apachecn/apachecn-html-css-zh-pt3) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
-- [apachecn/apachecn-indie-wiki](https://github.com/apachecn/apachecn-indie-wiki) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
+- [apachecn/apachecn-indie-wiki](https://github.com/apachecn/apachecn-indie-wiki) topic: pushed_at:2022-06 star:0.0k fork:0.0k ApacheCN 自由职业
 - [apachecn/apachecn-interview-zh](https://github.com/apachecn/apachecn-interview-zh) topic: pushed_at:2023-05 star:0.0k fork:0.0k :books: ApacheCN 面试译文集
 - [apachecn/apachecn-ja-trans](https://github.com/apachecn/apachecn-ja-trans) topic: pushed_at:2022-11 star:0.0k fork:0.0k :books: ApacheCN 日文翻译项目
 - [apachecn/apachecn-java-zh](https://github.com/apachecn/apachecn-java-zh) topic: pushed_at:2022-07 star:0.1k fork:0.0k :books: [译] ApacheCN Java 译文集
@@ -404,7 +404,7 @@
 - [apachecn/MakeLove](https://github.com/apachecn/MakeLove) topic: pushed_at:2022-08 star:0.0k fork:0.0k 学会正确的去爱一个人
 - [apachecn/manlymenblog-zh](https://github.com/apachecn/manlymenblog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/medium-tech-blog-zh-pt1](https://github.com/apachecn/medium-tech-blog-zh-pt1) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
-- [apachecn/mit-18.06-linalg-notes](https://github.com/apachecn/mit-18.06-linalg-notes) topic: pushed_at:2023-05 star:2.0k fork:0.7k MIT 18.06 线性代数笔记
+- [apachecn/mit-18.06-linalg-notes](https://github.com/apachecn/mit-18.06-linalg-notes) topic: pushed_at:2023-05 star:2.1k fork:0.7k MIT 18.06 线性代数笔记
 - [apachecn/mitnicksecurity-zh](https://github.com/apachecn/mitnicksecurity-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [apachecn/mkyong-blog-zh](https://github.com/apachecn/mkyong-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) topic: pushed_at:2022-07 star:0.6k fork:0.2k :book: [译] MachineLearningMastery 博客文章
@@ -426,7 +426,7 @@
 - [apachecn/paulgraham-blog-zh](https://github.com/apachecn/paulgraham-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/pentesttools-blog-zh](https://github.com/apachecn/pentesttools-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/prob140-textbook-zh](https://github.com/apachecn/prob140-textbook-zh) topic:prob140,probability,python,textbook,ucb pushed_at:2020-09 star:0.5k fork:0.0k :book: [译] 面向数据科学的概率论
-- [apachecn/programiz-zh](https://github.com/apachecn/programiz-zh) topic: pushed_at:2022-08 star:0.0k fork:0.0k :book: [译] Programiz 中文系列教程
+- [apachecn/programiz-zh](https://github.com/apachecn/programiz-zh) topic: pushed_at:2022-08 star:0.1k fork:0.0k :book: [译] Programiz 中文系列教程
 - [apachecn/pyimagesearch-blog-zh](https://github.com/apachecn/pyimagesearch-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/pyminer-dev-guide](https://github.com/apachecn/pyminer-dev-guide) topic:pyminer,python pushed_at:2022-03 star:0.0k fork:0.0k PyMiner 开发者指南
 - [apachecn/pyqt4-doc-zh](https://github.com/apachecn/pyqt4-doc-zh) topic: pushed_at:2021-01 star:0.0k fork:0.0k PyQt4 中文文档 
@@ -520,7 +520,7 @@
 
 ## Jupyter Notebook
 
-- [apachecn/Interview](https://github.com/apachecn/Interview) topic:interview,kaggle,leetcode,machine-learning,python pushed_at:2023-07 star:8.2k fork:2.2k Interview = 简历指南 + 算法题 + 八股文 + 源码分析
+- [apachecn/Interview](https://github.com/apachecn/Interview) topic:interview,kaggle,leetcode,machine-learning,python pushed_at:2023-07 star:8.3k fork:2.2k Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 - [apachecn/Multimodal-short-video-dataset-and-baseline-classification-model](https://github.com/apachecn/Multimodal-short-video-dataset-and-baseline-classification-model) topic: pushed_at:2019-07 star:0.0k fork:0.0k multimodal short video datasets and  classification model(based on TensorFlow2.0 本资源含有50多万条多模态短视频数据集和对应的分类模型，旨在打造多模态分类框架。
 
 ## Others
@@ -603,7 +603,7 @@
 - [apachecn/can_busmaster](https://github.com/apachecn/can_busmaster) topic: pushed_at:2019-11 star:0.0k fork:0.0k BUSMASTER is an Open Source Software tool to simulate, analyze and test data bus systems such as CAN. BUSMASTER was conceptualized, designed and implemented by Robert Bosch Engineering and Business Solutions (RBEI). Presently it is a joint project of RBEI and ETAS GmbH. 
 - [apachecn/cargo-expand](https://github.com/apachecn/cargo-expand) topic: pushed_at:2022-08 star:0.0k fork:0.0k Subcommand to show result of macro expansion
 - [apachecn/cassandre-trading-bot](https://github.com/apachecn/cassandre-trading-bot) topic: pushed_at:2021-08 star:0.0k fork:0.0k Cassandre is an open-source framework that makes it easy to create your crypto trading bot in Java. Our Spring boot starter takes care of exchange connections, accounts, orders, trades, and positions so you can focus on building your strategy.
-- [apachecn/cbianchengnet-ebooks](https://github.com/apachecn/cbianchengnet-ebooks) topic: pushed_at:2021-09 star:0.1k fork:0.1k :books: C 语言中文网教程整理
+- [apachecn/cbianchengnet-ebooks](https://github.com/apachecn/cbianchengnet-ebooks) topic: pushed_at:2021-09 star:0.2k fork:0.1k :books: C 语言中文网教程整理
 - [apachecn/ceresdb](https://github.com/apachecn/ceresdb) topic: pushed_at:2023-03 star:0.0k fork:0.0k CeresDB is a high-performance, distributed, cloud native time-series database.
 - [apachecn/Certified-Kubernetes-Application-Developer](https://github.com/apachecn/Certified-Kubernetes-Application-Developer) topic: pushed_at:2021-10 star:0.0k fork:0.0k Certified Kubernetes Application Developer Preparation Guide
 - [apachecn/certified_kubernetes_administrator](https://github.com/apachecn/certified_kubernetes_administrator) topic: pushed_at:2021-09 star:0.0k fork:0.0k Certified Kubernetes Administrators Certification
@@ -1196,7 +1196,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2023-07 star:36.2k fork:11.3k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2023-07 star:36.4k fork:11.3k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
@@ -1209,7 +1209,7 @@
 - [apachecn/BookerWikiTool](https://github.com/apachecn/BookerWikiTool) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/CDNDrive](https://github.com/apachecn/CDNDrive) topic:cdn,cloud,drive,netdisk,pan,picbed,storage,yun pushed_at:2023-04 star:0.8k fork:0.1k :cloud: CDNDrive = BiliDrive + SuperBed，支持任意文件的全速上传与下载
 - [apachecn/comic-down](https://github.com/apachecn/comic-down) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [apachecn/data](https://github.com/apachecn/data) topic: pushed_at:2023-05 star:0.3k fork:0.2k 
+- [apachecn/data](https://github.com/apachecn/data) topic: pushed_at:2023-09 star:0.3k fork:0.2k 
 - [apachecn/doctool](https://github.com/apachecn/doctool) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/epub-crawler](https://github.com/apachecn/epub-crawler) topic: pushed_at:2023-04 star:0.0k fork:0.0k 用于抓取网页内容并制作 EPUB 的小工具。
 - [apachecn/fastapi-docs-cn](https://github.com/apachecn/fastapi-docs-cn) topic:fastapi,translation pushed_at:2020-03 star:0.0k fork:0.0k 官方文档已经有翻译的人在做了，
@@ -1239,7 +1239,7 @@
 - [apachecn/java8-tut-zh](https://github.com/apachecn/java8-tut-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Java8 中文官方文档（施工中）
 - [apachecn/misc-docs-zh](https://github.com/apachecn/misc-docs-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :books: [译] ApacheCN 短篇集
 - [apachecn/ml-book-100-zh](https://github.com/apachecn/ml-book-100-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] 百页机器学习小书
-- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2023-08 star:3.9k fork:1.0k Pytorch 中文文档
+- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2023-09 star:3.9k fork:1.0k Pytorch 中文文档
 - [apachecn/rpy2-doc-zh](https://github.com/apachecn/rpy2-doc-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/stanford-cs234-notes-zh](https://github.com/apachecn/stanford-cs234-notes-zh) topic: pushed_at:2021-01 star:0.2k fork:0.0k 斯坦福 cs234 强化学习中文讲义
 - [apachecn/stanford-game-theory-notes-zh](https://github.com/apachecn/stanford-game-theory-notes-zh) topic: pushed_at:2020-09 star:0.2k fork:0.0k 📖斯坦福博弈论中文笔记
