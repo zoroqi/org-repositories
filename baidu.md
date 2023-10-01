@@ -27,7 +27,7 @@
 
 - [baidu/baidu-iot-samples](https://github.com/baidu/baidu-iot-samples) topic: pushed_at:2019-10 star:0.1k fork:0.1k 
 - [baidu/boteye_sensor](https://github.com/baidu/boteye_sensor) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2023-09 star:3.6k fork:0.4k dperf is a DPDK based 100Gbps network performance and load testing software.
+- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2023-09 star:3.6k fork:0.4k dperf is a 100Gbps network load tester.
 - [baidu/du1906_esp](https://github.com/baidu/du1906_esp) topic: pushed_at:2023-05 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
 - [baidu/iot-edge-sdk-for-iot-parser](https://github.com/baidu/iot-edge-sdk-for-iot-parser) topic: pushed_at:2019-02 star:0.1k fork:0.1k 
 - [baidu/iot-sdk-c](https://github.com/baidu/iot-sdk-c) topic:device-management,edge-sdk,mqtt,sdk pushed_at:2022-04 star:0.1k fork:0.1k device sdk for baidu IoT Core service, in c. Including MQTT client
@@ -80,7 +80,7 @@
 
 ## Java
 
-- [baidu/bifromq](https://github.com/baidu/bifromq) topic:decentralized-cluster,distributed,iot,mqtt,mqtt-broker,multi-tenant,serverless pushed_at:2023-09 star:0.4k fork:0.0k A MQTT broker implementation adopting serverless architecture
+- [baidu/bifromq](https://github.com/baidu/bifromq) topic:decentralized-cluster,distributed,iot,mqtt,mqtt-broker,multi-tenant,serverless pushed_at:2023-09 star:0.5k fork:0.0k A MQTT broker implementation adopting serverless architecture
 - [baidu/brcc](https://github.com/baidu/brcc) topic:brcc,go,java,sdk-go,sdk-java pushed_at:2022-11 star:0.4k fork:0.1k BRCC（better remote config center）是一个分布式配置中心，用于统一管理应用服务的配置信息，避免各类资源散落在各个项目中，简化资源配置的维护成本。作为一种轻量级的解决方案，部署简单，同时支持多环境、多版本、多角色的资源管理，可以在不改变应用源码的情况下无缝切换和实时生效配置信息。
 - [baidu/Cafe](https://github.com/baidu/Cafe) topic: pushed_at:2014-05 star:0.4k fork:0.2k A powerful test framework for Android
 - [baidu/dlock](https://github.com/baidu/dlock) topic: pushed_at:2017-03 star:0.2k fork:0.1k An effective and reliable Distributed Lock
@@ -139,7 +139,7 @@
 - [baidu/palo](https://github.com/baidu/palo) topic:doris,mpp,olap pushed_at:2022-03 star:0.1k fork:0.0k A fast MPP database for all modern analytics on big data. Powered by Apache Doris(Incubating)
 - [baidu/pylint](https://github.com/baidu/pylint) topic: pushed_at:2019-12 star:0.0k fork:0.0k It's not just a linter that annoys you!
 - [baidu/redis](https://github.com/baidu/redis) topic:auto-failover,auto-scaling,in-memory-database,key-value-database,redis,redis-cluster pushed_at:2017-05 star:0.1k fork:0.0k Baidu Ksarch Redis - a production solution of redis cluster
-- [baidu/spring-cloud-baidu](https://github.com/baidu/spring-cloud-baidu) topic: pushed_at:2023-04 star:0.1k fork:0.0k 
+- [baidu/spring-cloud-baidu](https://github.com/baidu/spring-cloud-baidu) topic: pushed_at:2023-09 star:0.1k fork:0.0k 
 
 ## PHP
 
