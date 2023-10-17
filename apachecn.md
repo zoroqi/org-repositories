@@ -314,7 +314,7 @@
 - [apachecn/geeksforgeeks-java-zh-pt2](https://github.com/apachecn/geeksforgeeks-java-zh-pt2) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [apachecn/geeksforgeeks-jquery-zh](https://github.com/apachecn/geeksforgeeks-jquery-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/geeksforgeeks-js-zh](https://github.com/apachecn/geeksforgeeks-js-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
-- [apachecn/geeksforgeeks-lang-misc-zh](https://github.com/apachecn/geeksforgeeks-lang-misc-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
+- [apachecn/geeksforgeeks-lang-misc-zh](https://github.com/apachecn/geeksforgeeks-lang-misc-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k GeeksForGeeks 编程语言杂项中文教程
 - [apachecn/geeksforgeeks-lang-zh](https://github.com/apachecn/geeksforgeeks-lang-zh) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [apachecn/geeksforgeeks-ng-vue-react-zh](https://github.com/apachecn/geeksforgeeks-ng-vue-react-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/geeksforgeeks-nodejs-zh](https://github.com/apachecn/geeksforgeeks-nodejs-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
@@ -785,7 +785,7 @@
 - [apachecn/huazhang-ai-book](https://github.com/apachecn/huazhang-ai-book) topic: pushed_at:2023-01 star:0.0k fork:0.0k :books: 华章智能科学技术丛书
 - [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.1k fork:0.0k :books: 华章计算机科学丛书高清扫描
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) topic: pushed_at:2023-02 star:0.0k fork:0.0k :book: 华章经管丛书高清扫描
-- [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.0k fork:0.0k :books: 华章数学丛书高清扫描
+- [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.1k fork:0.0k :books: 华章数学丛书高清扫描
 - [apachecn/hugo-PaperModX](https://github.com/apachecn/hugo-PaperModX) topic: pushed_at:2023-04 star:0.0k fork:0.0k A fast, clean, responsive Hugo theme.
 - [apachecn/igetget](https://github.com/apachecn/igetget) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
 - [apachecn/igetget2](https://github.com/apachecn/igetget2) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
@@ -1196,7 +1196,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2023-07 star:36.5k fork:11.3k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2023-07 star:36.6k fork:11.3k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
@@ -1239,7 +1239,7 @@
 - [apachecn/java8-tut-zh](https://github.com/apachecn/java8-tut-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Java8 中文官方文档（施工中）
 - [apachecn/misc-docs-zh](https://github.com/apachecn/misc-docs-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :books: [译] ApacheCN 短篇集
 - [apachecn/ml-book-100-zh](https://github.com/apachecn/ml-book-100-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] 百页机器学习小书
-- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2023-09 star:3.9k fork:1.0k Pytorch 中文文档
+- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2023-10 star:3.9k fork:1.0k Pytorch 中文文档
 - [apachecn/rpy2-doc-zh](https://github.com/apachecn/rpy2-doc-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/stanford-cs234-notes-zh](https://github.com/apachecn/stanford-cs234-notes-zh) topic: pushed_at:2021-01 star:0.2k fork:0.0k 斯坦福 cs234 强化学习中文讲义
 - [apachecn/stanford-game-theory-notes-zh](https://github.com/apachecn/stanford-game-theory-notes-zh) topic: pushed_at:2020-09 star:0.2k fork:0.0k 📖斯坦福博弈论中文笔记
