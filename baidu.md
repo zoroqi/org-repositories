@@ -11,6 +11,7 @@
 - [C++](#c++) (20)
 - [GLSL](#glsl) (1)
 - [Go](#go) (9)
+- [HTML](#html) (1)
 - [Java](#java) (18)
 - [JavaScript](#javascript) (18)
 - [Jupyter Notebook](#jupyter-notebook) (2)
@@ -20,7 +21,7 @@
 - [Python](#python) (14)
 - [Ruby](#ruby) (1)
 - [Swift](#swift) (1)
-- [TypeScript](#typescript) (4)
+- [TypeScript](#typescript) (3)
 - [VHDL](#vhdl) (1)
 
 ## C
@@ -78,6 +79,10 @@
 - [baidu/runc](https://github.com/baidu/runc) topic: pushed_at:2019-06 star:0.0k fork:0.0k CLI tool for spawning and running containers according to the OCI specification
 - [baidu/smartapp-openapi-go](https://github.com/baidu/smartapp-openapi-go) topic: pushed_at:2023-03 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for go，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
 
+## HTML
+
+- [baidu/bifromq-docs](https://github.com/baidu/bifromq-docs) topic:iot,iot-middleware,iot-platform,message-queue,middleware,mqtt,mqtt-broker,mqtt-protocol,mqtt-server,multi-tenancy,multi-tenant,serverless pushed_at:2023-10 star:0.0k fork:0.0k Documentation for BifroMQ, a high-performance MQTT Broker messaging middleware that utilizes Multi-tenancy architecture.
+
 ## Java
 
 - [baidu/bifromq](https://github.com/baidu/bifromq) topic:decentralized-cluster,distributed,iot,mqtt,mqtt-broker,multi-tenant,serverless pushed_at:2023-10 star:0.5k fork:0.0k A MQTT broker implementation adopting serverless architecture
@@ -113,7 +118,7 @@
 - [baidu/san](https://github.com/baidu/san) topic:component,framework,frontend,javascript,mvvm,san pushed_at:2023-10 star:4.7k fork:0.6k A fast, portable, flexible JavaScript component framework
 - [baidu/san-composition](https://github.com/baidu/san-composition) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [baidu/san-factory](https://github.com/baidu/san-factory) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
-- [baidu/san-router](https://github.com/baidu/san-router) topic:san pushed_at:2023-03 star:0.0k fork:0.0k Official Router for San
+- [baidu/san-router](https://github.com/baidu/san-router) topic:san pushed_at:2023-10 star:0.0k fork:0.0k Official Router for San
 - [baidu/san-store](https://github.com/baidu/san-store) topic:appstate,san pushed_at:2023-07 star:0.1k fork:0.0k Application States Management for San
 - [baidu/san-update](https://github.com/baidu/san-update) topic:san pushed_at:2023-05 star:0.1k fork:0.0k Object immutable update utility for san solution
 - [baidu/san-website](https://github.com/baidu/san-website) topic: pushed_at:2023-07 star:0.0k fork:0.1k 
@@ -122,7 +127,7 @@
 
 ## Jupyter Notebook
 
-- [baidu/puck](https://github.com/baidu/puck) topic:ann,benchmark,search pushed_at:2023-09 star:0.2k fork:0.0k Puck is a high-performance ANN search engine
+- [baidu/puck](https://github.com/baidu/puck) topic:ann,benchmark,search pushed_at:2023-10 star:0.2k fork:0.0k Puck is a high-performance ANN search engine
 - [baidu/Quanlse](https://github.com/baidu/Quanlse) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
 
 ## Kotlin
@@ -173,8 +178,7 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) topic:admin,frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2023-10 star:15.0k fork:2.2k 前端低代码框架，通过 JSON 配置就能生成各种页面。
-- [baidu/bifromq-docs](https://github.com/baidu/bifromq-docs) topic:iot,iot-middleware,iot-platform,message-queue,middleware,mqtt,mqtt-broker,mqtt-protocol,mqtt-server,multi-tenancy,multi-tenant,serverless pushed_at:2023-10 star:0.0k fork:0.0k Documentation for BifroMQ, a high-performance MQTT Broker messaging middleware that utilizes Multi-tenancy architecture.
+- [baidu/amis](https://github.com/baidu/amis) topic:admin,frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2023-11 star:15.1k fork:2.2k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) topic:chrome,chromium,debug,devtools,extension,san pushed_at:2022-11 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) topic:san,ssr,ssr-target-js pushed_at:2023-09 star:0.0k fork:0.0k San SSR framework and utils
 
