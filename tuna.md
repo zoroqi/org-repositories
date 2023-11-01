@@ -15,9 +15,9 @@
 - [HTML](#html) (4)
 - [JavaScript](#javascript) (5)
 - [MDX](#mdx) (1)
-- [Others](#others) (10)
+- [Others](#others) (9)
 - [PHP](#php) (2)
-- [Python](#python) (16)
+- [Python](#python) (17)
 - [Ruby](#ruby) (1)
 - [Rust](#rust) (1)
 - [TeX](#tex) (3)
@@ -44,7 +44,7 @@
 
 ## Dockerfile
 
-- [tuna/docker-images](https://github.com/tuna/docker-images) topic: pushed_at:2023-05 star:0.0k fork:0.0k Repo for various docker images
+- [tuna/docker-images](https://github.com/tuna/docker-images) topic: pushed_at:2023-10 star:0.0k fork:0.0k Repo for various docker images
 
 ## Go
 
@@ -56,7 +56,7 @@
 
 ## HTML
 
-- [tuna/mirror-web](https://github.com/tuna/mirror-web) topic: pushed_at:2023-10 star:0.7k fork:0.3k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
+- [tuna/mirror-web](https://github.com/tuna/mirror-web) topic: pushed_at:2023-11 star:0.7k fork:0.3k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
 - [tuna/mirrorcon](https://github.com/tuna/mirrorcon) topic: pushed_at:2017-09 star:0.0k fork:0.0k Website of MirrorCon 2017
 - [tuna/registr-lite](https://github.com/tuna/registr-lite) topic: pushed_at:2020-09 star:0.0k fork:0.0k A lightweight registr with only a bare RESTful API.
 - [tuna/tuna.moe](https://github.com/tuna/tuna.moe) topic: pushed_at:2023-10 star:0.1k fork:0.0k 
@@ -82,7 +82,6 @@
 - [tuna/dataset-issues](https://github.com/tuna/dataset-issues) topic: pushed_at:2018-04 star:0.0k fork:0.0k Issues about academic dataset mirrors
 - [tuna/isofusion](https://github.com/tuna/isofusion) topic: pushed_at:2016-05 star:0.0k fork:0.0k scan and create iso filelist from mirrors
 - [tuna/issues](https://github.com/tuna/issues) topic: pushed_at:2021-12 star:0.3k fork:0.0k Code Unrelated Issues 
-- [tuna/mirrorz-help-ng](https://github.com/tuna/mirrorz-help-ng) topic: pushed_at:2023-09 star:0.0k fork:0.0k 
 - [tuna/ngx-fancyindex](https://github.com/tuna/ngx-fancyindex) topic: pushed_at:2020-03 star:0.0k fork:0.0k Fancy indexes module for the Nginx web server
 - [tuna/opentuna-site](https://github.com/tuna/opentuna-site) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
 
@@ -102,6 +101,7 @@
 - [tuna/gdanmaku-server](https://github.com/tuna/gdanmaku-server) topic: pushed_at:2023-05 star:0.1k fork:0.0k Web-based danmaku server
 - [tuna/ldaptuna](https://github.com/tuna/ldaptuna) topic: pushed_at:2014-10 star:0.0k fork:0.0k 
 - [tuna/loglyzer](https://github.com/tuna/loglyzer) topic: pushed_at:2014-12 star:0.0k fork:0.0k log analyzer for tuna mirrors
+- [tuna/mirrorz-help-ng](https://github.com/tuna/mirrorz-help-ng) topic: pushed_at:2023-10 star:0.0k fork:0.0k Generate help pages from mirrorz-org/mirrorz-docs
 - [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) topic: pushed_at:2021-07 star:0.5k fork:0.1k Keep calm and use TUNA mirrors.
 - [tuna/pdns-ldap](https://github.com/tuna/pdns-ldap) topic: pushed_at:2016-04 star:0.0k fork:0.0k 
 - [tuna/playbooks](https://github.com/tuna/playbooks) topic: pushed_at:2016-10 star:0.0k fork:0.0k 
@@ -122,7 +122,7 @@
 
 - [tuna/THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme) topic: pushed_at:2020-12 star:0.3k fork:0.1k A LaTeX beamer theme template for Tsinghua students.
 - [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) topic: pushed_at:2023-04 star:0.4k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
-- [tuna/thuthesis](https://github.com/tuna/thuthesis) topic:ctan,latex,latex-thesis-template,tex,thuthesis,tsinghua,tsinghua-university pushed_at:2023-09 star:4.1k fork:1.0k LaTeX Thesis Template for Tsinghua University
+- [tuna/thuthesis](https://github.com/tuna/thuthesis) topic:ctan,latex,latex-thesis-template,tex,thuthesis,tsinghua,tsinghua-university pushed_at:2023-10 star:4.1k fork:1.0k LaTeX Thesis Template for Tsinghua University
 
 ## TypeScript
 
