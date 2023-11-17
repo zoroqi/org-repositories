@@ -64,7 +64,7 @@
 - [twitter-archive/jsr166e](https://github.com/twitter-archive/jsr166e) topic: pushed_at:2014-02 star:0.0k fork:0.0k JSR166e for Twitter
 - [twitter-archive/libcrunch](https://github.com/twitter-archive/libcrunch) topic: pushed_at:2017-03 star:0.1k fork:0.0k A lightweight mapping framework that maps data objects to a number of nodes, subject to constraints
 - [twitter-archive/PerfTracepoint](https://github.com/twitter-archive/PerfTracepoint) topic: pushed_at:2014-12 star:0.0k fork:0.0k Perf tracepoint support for the JVM
-- [twitter-archive/twitter-kit-android](https://github.com/twitter-archive/twitter-kit-android) topic:android,java,twitter pushed_at:2019-02 star:0.8k fork:0.3k Twitter Kit for Android
+- [twitter-archive/twitter-kit-android](https://github.com/twitter-archive/twitter-kit-android) topic:android,java,twitter pushed_at:2019-02 star:0.8k fork:0.4k Twitter Kit for Android
 
 ## JavaScript
 
@@ -80,7 +80,7 @@
 
 ## Lua
 
-- [twitter-archive/torch-autograd](https://github.com/twitter-archive/torch-autograd) topic: pushed_at:2021-10 star:0.5k fork:0.1k Autograd automatically differentiates native Torch code
+- [twitter-archive/torch-autograd](https://github.com/twitter-archive/torch-autograd) topic: pushed_at:2021-10 star:0.6k fork:0.1k Autograd automatically differentiates native Torch code
 - [twitter-archive/torch-dataset](https://github.com/twitter-archive/torch-dataset) topic: pushed_at:2021-10 star:0.1k fork:0.0k An extensible and high performance method of reading, sampling and processing data for Torch
 - [twitter-archive/torch-decisiontree](https://github.com/twitter-archive/torch-decisiontree) topic: pushed_at:2018-05 star:0.1k fork:0.0k This project implements random forests and gradient boosted decision trees (GBDT). The latter uses gradient tree boosting. Both use ensemble learning to produce ensembles of decision trees (that is, forests).
 - [twitter-archive/torch-distlearn](https://github.com/twitter-archive/torch-distlearn) topic: pushed_at:2021-10 star:0.1k fork:0.0k A set of distributed learning algorithms for Torch
