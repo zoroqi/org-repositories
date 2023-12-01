@@ -47,7 +47,7 @@
 - [mdn/fetch-examples](https://github.com/mdn/fetch-examples) topic:fetch,fetch-api,fetch-examples,mdn-docs pushed_at:2022-08 star:0.5k fork:0.2k A repository of Fetch examples. See https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API for the corresponding documentation.
 - [mdn/fibonacci-worker](https://github.com/mdn/fibonacci-worker) topic: pushed_at:2022-09 star:0.0k fork:0.0k A web worker that calculates fibonacci numbers.
 - [mdn/houdini-examples](https://github.com/mdn/houdini-examples) topic: pushed_at:2022-12 star:0.0k fork:0.0k CSS Houdini examples relating to MDN content.
-- [mdn/html-examples](https://github.com/mdn/html-examples) topic: pushed_at:2023-10 star:0.1k fork:0.1k Code examples that accompany the MDN HTML documentation: https://developer.mozilla.org/en-US/docs/Web/HTML
+- [mdn/html-examples](https://github.com/mdn/html-examples) topic: pushed_at:2023-11 star:0.1k fork:0.1k Code examples that accompany the MDN HTML documentation: https://developer.mozilla.org/en-US/docs/Web/HTML
 - [mdn/imsc-examples](https://github.com/mdn/imsc-examples) topic: pushed_at:2023-09 star:0.0k fork:0.0k Repository for examples to go along with MDN IMSC documentation.
 - [mdn/insights](https://github.com/mdn/insights) topic: pushed_at:2022-04 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) topic:css,editor,examples,html,interactive,javascript,mdn,nodejs pushed_at:2023-11 star:0.7k fork:0.5k Home of the MDN live code editor interactive examples
@@ -71,7 +71,7 @@
 
 ## JSON
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) topic:compat,compatibility,data,dataset,json pushed_at:2023-11 star:4.6k fork:2.1k This repository contains compatibility data for Web technologies as displayed on MDN
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) topic:compat,compatibility,data,dataset,json pushed_at:2023-11 star:4.7k fork:2.1k This repository contains compatibility data for Web technologies as displayed on MDN
 
 ## JavaScript
 
@@ -87,7 +87,7 @@
 - [mdn/data](https://github.com/mdn/data) topic:css,data,json,json-data pushed_at:2023-11 star:0.7k fork:0.2k This repository contains general data for Web technologies
 - [mdn/doc-linter-rules](https://github.com/mdn/doc-linter-rules) topic:linting-rules,mdn pushed_at:2019-04 star:0.0k fork:0.0k Linting rules used to lint MDN Web Documents
 - [mdn/doc-linter-webextension](https://github.com/mdn/doc-linter-webextension) topic:linter,mdn,webextension pushed_at:2019-08 star:0.0k fork:0.0k Webextension to lint MDN documents
-- [mdn/dom-examples](https://github.com/mdn/dom-examples) topic:channel-messaging,demo,dom-manipulation,drag-drop,javascript,matchmedia,mdn-docs,pointer-events,pointer-lock,touch-events pushed_at:2023-11 star:2.8k fork:1.7k Code examples that accompany various MDN DOM and Web API documentation pages
+- [mdn/dom-examples](https://github.com/mdn/dom-examples) topic:channel-messaging,demo,dom-manipulation,drag-drop,javascript,matchmedia,mdn-docs,pointer-events,pointer-lock,touch-events pushed_at:2023-11 star:2.9k fork:1.7k Code examples that accompany various MDN DOM and Web API documentation pages
 - [mdn/e10s-example-addons](https://github.com/mdn/e10s-example-addons) topic:e10s,firefox-addon,unmaintained pushed_at:2019-04 star:0.0k fork:0.0k Examples showing how to port add-ons to be e10s-compatible
 - [mdn/express-locallibrary-tutorial](https://github.com/mdn/express-locallibrary-tutorial) topic: pushed_at:2023-11 star:1.1k fork:0.7k Local Library website written in NodeJS/Express; example for the MDN server-side development NodeJS module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs.
 - [mdn/headless-examples](https://github.com/mdn/headless-examples) topic: pushed_at:2019-08 star:0.1k fork:0.0k Examples to support the MDN resource covering Firefox headless mode — see https://developer.mozilla.org/en-US/Firefox/Headless_mode
@@ -98,7 +98,7 @@
 - [mdn/mdn-storybook](https://github.com/mdn/mdn-storybook) topic: pushed_at:2022-04 star:0.0k fork:0.0k UI components for MDN Web Docs
 - [mdn/mdn.dev](https://github.com/mdn/mdn.dev) topic: pushed_at:2022-04 star:0.0k fork:0.0k Content for https://mdn.dev
 - [mdn/museum](https://github.com/mdn/museum) topic: pushed_at:2023-01 star:0.0k fork:0.0k A historic collection of MDN Web Docs content and examples
-- [mdn/perf-examples](https://github.com/mdn/perf-examples) topic: pushed_at:2023-10 star:0.0k fork:0.0k Examples related to MDN performance documentation; see https://developer.mozilla.org/en-US/docs/web/Performance
+- [mdn/perf-examples](https://github.com/mdn/perf-examples) topic: pushed_at:2023-11 star:0.0k fork:0.0k Examples related to MDN performance documentation; see https://developer.mozilla.org/en-US/docs/web/Performance
 - [mdn/pwa-examples](https://github.com/mdn/pwa-examples) topic: pushed_at:2023-10 star:0.9k fork:0.6k Examples for progressive web apps.
 - [mdn/repl-panel](https://github.com/mdn/repl-panel) topic:addon,devtools,devtools-extension,repl,unmaintained pushed_at:2019-04 star:0.0k fork:0.0k This add-on lets you send remote debugging protocol requests to the debugging server, and displays the response.
 - [mdn/s3-config](https://github.com/mdn/s3-config) topic:aws,mdn-infra,s3-bucket,simple-storage-service pushed_at:2022-10 star:0.0k fork:0.0k MDN Simple Storage Service (S3) configuration
@@ -113,7 +113,7 @@
 - [mdn/violent-theremin](https://github.com/mdn/violent-theremin) topic: pushed_at:2022-09 star:0.2k fork:0.1k Violent theremin uses the Web Audio API to generate sound, and HTML5 canvas for a bit of pretty visualization. The colours generated depend on the pitch and gain of the current note, which are themselves dependant on the mouse pointer position.
 - [mdn/voice-change-o-matic](https://github.com/mdn/voice-change-o-matic) topic: pushed_at:2022-10 star:0.7k fork:0.2k Web Audio API-powered voice changer and visualizer
 - [mdn/voice-change-o-matic-float-data](https://github.com/mdn/voice-change-o-matic-float-data) topic: pushed_at:2022-10 star:0.1k fork:0.0k Web Audio API-powered voice changer and visualizer
-- [mdn/web-components-examples](https://github.com/mdn/web-components-examples) topic: pushed_at:2023-10 star:2.8k fork:0.8k A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
+- [mdn/web-components-examples](https://github.com/mdn/web-components-examples) topic: pushed_at:2023-11 star:2.8k fork:0.8k A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 - [mdn/web-dictaphone](https://github.com/mdn/web-dictaphone) topic: pushed_at:2022-09 star:0.5k fork:0.2k A sample MDN app that uses getUserMedia and MediaRecorder API for recording audio snippets, and The Web Audio API for visualizations.
 - [mdn/web-speech-api](https://github.com/mdn/web-speech-api) topic: pushed_at:2022-09 star:1.4k fork:0.7k A repository for demos illustrating features of the Web Speech API. See https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API for more details.
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) topic:browser,mdn,webextensions,webextensions-apis pushed_at:2023-11 star:3.8k fork:2.6k Example Firefox add-ons created using the WebExtensions API
@@ -127,8 +127,8 @@
 
 ## Markdown
 
-- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2023-11 star:8.3k fork:21.1k The content behind MDN Web Docs
-- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2023-11 star:1.4k fork:7.4k The source repository of all translated content for MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2023-12 star:8.3k fork:21.4k The content behind MDN Web Docs
+- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2023-12 star:1.4k fork:7.5k The source repository of all translated content for MDN Web Docs
 
 ## Others
 
@@ -138,7 +138,7 @@
 - [mdn/community-meetings](https://github.com/mdn/community-meetings) topic: pushed_at:2023-11 star:0.0k fork:0.0k A place for agendas and minutes from regular MDN community meetings
 - [mdn/content-team-projects](https://github.com/mdn/content-team-projects) topic: pushed_at:2022-08 star:0.0k fork:0.0k Repo for organising MDN Web Docs team projects & subsequent work
 - [mdn/crossbrowser-testing-lab](https://github.com/mdn/crossbrowser-testing-lab) topic: pushed_at:2019-04 star:0.0k fork:0.0k Mozilla's Cross-Browser Testing Lab
-- [mdn/mdn](https://github.com/mdn/mdn) topic:governance,mdn,meta pushed_at:2023-11 star:1.2k fork:0.2k Holding repo for MDN Web Docs things
+- [mdn/mdn](https://github.com/mdn/mdn) topic:governance,mdn,meta pushed_at:2023-11 star:1.3k fork:0.2k Holding repo for MDN Web Docs things
 - [mdn/mdn-community](https://github.com/mdn/mdn-community) topic:community,feedback,governance pushed_at:2022-11 star:0.1k fork:0.0k A place to provide feedback and suggestions for MDN Web Docs
 - [mdn/mdn-contributor-spotlight](https://github.com/mdn/mdn-contributor-spotlight) topic: pushed_at:2023-01 star:0.0k fork:0.0k Content for the contributor spotlight on MDN Web Docs
 - [mdn/mdn-dinocons](https://github.com/mdn/mdn-dinocons) topic:design,figma,icons,mdn-dinocons,svg-icons pushed_at:2022-03 star:0.0k fork:0.0k A scalable set of icons for use across Mozilla Developer websites
@@ -188,7 +188,7 @@
 
 ## Vue
 
-- [mdn/release-dashboard](https://github.com/mdn/release-dashboard) topic: pushed_at:2023-11 star:0.0k fork:0.0k Small app to display bugzilla bugs which need dev docs
+- [mdn/release-dashboard](https://github.com/mdn/release-dashboard) topic: pushed_at:2023-12 star:0.0k fork:0.0k Small app to display bugzilla bugs which need dev docs
 - [mdn/todo-vue](https://github.com/mdn/todo-vue) topic:mdn,todo,vue,vuejs pushed_at:2023-11 star:0.1k fork:0.1k Sample todo app built with the Vue framework
 
 ## WebAssembly

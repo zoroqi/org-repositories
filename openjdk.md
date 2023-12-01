@@ -49,8 +49,8 @@
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) topic: pushed_at:2021-04 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/friday-stats
 - [openjdk/galahad](https://github.com/openjdk/galahad) topic: pushed_at:2023-11 star:0.0k fork:0.0k https://openjdk.org/projects/galahad
 - [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2023-09 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
-- [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2023-09 star:0.4k fork:0.1k https://openjdk.org/projects/code-tools/jcstress
-- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2023-11 star:17.3k fork:5.0k JDK main-line development https://openjdk.org/projects/jdk
+- [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2023-11 star:0.4k fork:0.1k https://openjdk.org/projects/code-tools/jcstress
+- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2023-12 star:17.4k fork:5.0k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2023-11 star:0.1k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2023-11 star:0.1k fork:0.2k https://openjdk.org/projects/jdk-updates
@@ -122,7 +122,7 @@
 - [openjdk/shenandoah-visualizer](https://github.com/openjdk/shenandoah-visualizer) topic: pushed_at:2023-04 star:0.1k fork:0.0k https://openjdk.org/projects/shenandoah
 - [openjdk/sigtest](https://github.com/openjdk/sigtest) topic: pushed_at:2021-07 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/sigtest
 - [openjdk/skara](https://github.com/openjdk/skara) topic:git,hg,java,openjdk,skara pushed_at:2023-11 star:0.2k fork:0.1k https://openjdk.org/projects/skara
-- [openjdk/tsan](https://github.com/openjdk/tsan) topic: pushed_at:2023-11 star:0.0k fork:0.0k https://openjdk.org/projects/tsan
+- [openjdk/tsan](https://github.com/openjdk/tsan) topic: pushed_at:2023-12 star:0.0k fork:0.0k https://openjdk.org/projects/tsan
 - [openjdk/valhalla](https://github.com/openjdk/valhalla) topic: pushed_at:2023-11 star:0.5k fork:0.1k https://openjdk.org/projects/valhalla
 - [openjdk/wakefield](https://github.com/openjdk/wakefield) topic: pushed_at:2023-11 star:0.1k fork:0.0k https://openjdk.org/projects/wakefield
 - [openjdk/zgc](https://github.com/openjdk/zgc) topic:openjdk,zgc pushed_at:2023-05 star:0.2k fork:0.0k The Z Garbage Collector https://wiki.openjdk.org/display/zgc
@@ -143,7 +143,7 @@
 - [openjdk/jdk12](https://github.com/openjdk/jdk12) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/12 released 2019-03-19
 - [openjdk/jmc-graphics](https://github.com/openjdk/jmc-graphics) topic: pushed_at:2022-03 star:0.0k fork:0.0k https://openjdk.org/projects/jmc
 - [openjdk/leyden-docs](https://github.com/openjdk/leyden-docs) topic: pushed_at:2022-10 star:0.0k fork:0.0k https://openjdk.org/projects/leyden
-- [openjdk/webrevs](https://github.com/openjdk/webrevs) topic: pushed_at:2023-11 star:0.0k fork:0.0k Automatically generated JSON files for webrevs
+- [openjdk/webrevs](https://github.com/openjdk/webrevs) topic: pushed_at:2023-12 star:0.0k fork:0.0k Automatically generated JSON files for webrevs
 
 ## Python
 

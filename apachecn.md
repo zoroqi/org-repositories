@@ -33,7 +33,7 @@
 
 ## CSS
 
-- [apachecn/.github](https://github.com/apachecn/.github) topic:dl,ml,python,pytorch,solidity,spark pushed_at:2023-10 star:1.7k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
+- [apachecn/.github](https://github.com/apachecn/.github) topic:dl,ml,python,pytorch,solidity,spark pushed_at:2023-11 star:1.7k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [apachecn/airflow-doc-zh](https://github.com/apachecn/airflow-doc-zh) topic:airflow pushed_at:2023-07 star:0.2k fork:0.1k :book: [译] Airflow 中文文档
 - [apachecn/android-app-sec-guidebook-zh](https://github.com/apachecn/android-app-sec-guidebook-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/business-5min-notes](https://github.com/apachecn/business-5min-notes) topic:business,liurun,notes pushed_at:2021-01 star:0.1k fork:0.0k :book: 5 分钟商学院精细笔记
@@ -148,7 +148,7 @@
 - [apachecn/apachecn-blockchain-zh](https://github.com/apachecn/apachecn-blockchain-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [apachecn/apachecn-c-cpp-zh](https://github.com/apachecn/apachecn-c-cpp-zh) topic: pushed_at:2023-02 star:0.1k fork:0.0k :books: [译] ApacheCN C/C++ 译文集
 - [apachecn/apachecn-c-cpp-zh-pt2](https://github.com/apachecn/apachecn-c-cpp-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
-- [apachecn/apachecn-c-cpp-zh-pt3](https://github.com/apachecn/apachecn-c-cpp-zh-pt3) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
+- [apachecn/apachecn-c-cpp-zh-pt3](https://github.com/apachecn/apachecn-c-cpp-zh-pt3) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
 - [apachecn/apachecn-cs-notes](https://github.com/apachecn/apachecn-cs-notes) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/apachecn-csharp-zh](https://github.com/apachecn/apachecn-csharp-zh) topic: pushed_at:2023-02 star:0.0k fork:0.0k :books: [译] ApacheCN C# & .NET 译文集
 - [apachecn/apachecn-csharp-zh-pt2](https://github.com/apachecn/apachecn-csharp-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
@@ -883,7 +883,7 @@
 - [apachecn/JsjiamiV6-Decryptor](https://github.com/apachecn/JsjiamiV6-Decryptor) topic: pushed_at:2022-06 star:0.0k fork:0.0k 使用 Node.js 开发的简易 JsjiamiV6 解密工具。
 - [apachecn/juejin-helper](https://github.com/apachecn/juejin-helper) topic: pushed_at:2022-12 star:0.0k fork:0.0k 稀土掘金助手：签到、抽奖、沾喜气、消除Bug、海底掘金游戏、自动化工作流。
 - [apachecn/k8slocal](https://github.com/apachecn/k8slocal) topic: pushed_at:2019-03 star:0.0k fork:0.0k Automated local k8s setup
-- [apachecn/kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh) topic:kafka pushed_at:2023-08 star:0.4k fork:0.1k Kafka 中文文档
+- [apachecn/kafka-doc-zh](https://github.com/apachecn/kafka-doc-zh) topic:kafka pushed_at:2023-11 star:0.4k fork:0.1k Kafka 中文文档
 - [apachecn/Kaggle](https://github.com/apachecn/Kaggle) topic: pushed_at:2021-11 star:0.1k fork:0.0k 
 - [apachecn/kaggle-kernel-pt1](https://github.com/apachecn/kaggle-kernel-pt1) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [apachecn/kaggle-kernel-pt2](https://github.com/apachecn/kaggle-kernel-pt2) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
@@ -1197,7 +1197,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2023-07 star:36.9k fork:11.4k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2023-11 star:37.0k fork:11.4k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
@@ -1229,7 +1229,7 @@
 
 ## Shell
 
-- [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) topic: pushed_at:2021-01 star:2.0k fork:0.5k ApacheCN AI 路线图（知识树）
+- [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) topic: pushed_at:2021-01 star:2.1k fork:0.5k ApacheCN AI 路线图（知识树）
 - [apachecn/awesome-article-recomm](https://github.com/apachecn/awesome-article-recomm) topic:ai,blogpost pushed_at:2020-09 star:0.1k fork:0.0k 优质博文推荐计划
 - [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh) topic: pushed_at:2020-09 star:0.8k fork:0.1k 计算机公开课推荐
 - [apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh) topic: pushed_at:2020-09 star:0.8k fork:0.1k 独立开发/自由职业/远程工作资源列表
