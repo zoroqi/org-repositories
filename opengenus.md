@@ -11,12 +11,12 @@
 - [CSS](#css) (7)
 - [HTML](#html) (37)
 - [Java](#java) (20)
-- [JavaScript](#javascript) (37)
+- [JavaScript](#javascript) (38)
 - [Jupyter Notebook](#jupyter-notebook) (12)
 - [OpenEdge ABL](#openedge-abl) (1)
-- [Others](#others) (53)
+- [Others](#others) (51)
 - [Processing](#processing) (1)
-- [Python](#python) (51)
+- [Python](#python) (52)
 - [Ruby](#ruby) (3)
 - [Shell](#shell) (1)
 - [Swift](#swift) (1)
@@ -150,6 +150,7 @@
 - [OpenGenus/Snake-Game-in-JavaScript](https://github.com/OpenGenus/Snake-Game-in-JavaScript) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [OpenGenus/Svelte-app](https://github.com/OpenGenus/Svelte-app) topic: pushed_at:2023-08 star:0.0k fork:0.0k 
 - [OpenGenus/task-scheduler](https://github.com/OpenGenus/task-scheduler) topic: pushed_at:2023-08 star:0.0k fork:0.0k Task scheduler using Heap
+- [OpenGenus/Task-Tracking-App](https://github.com/OpenGenus/Task-Tracking-App) topic: pushed_at:2023-11 star:0.0k fork:0.0k Task Tracking App
 - [OpenGenus/third-party-cookies](https://github.com/OpenGenus/third-party-cookies) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/Timestamp-Microservice](https://github.com/OpenGenus/Timestamp-Microservice) topic: pushed_at:2023-10 star:0.0k fork:0.0k Timestamp Microservice in JavaScript
 - [OpenGenus/typing-speed-js](https://github.com/OpenGenus/typing-speed-js) topic: pushed_at:2020-06 star:0.0k fork:0.0k 
@@ -216,7 +217,6 @@
 - [OpenGenus/ml_flow](https://github.com/OpenGenus/ml_flow) topic: pushed_at:2019-05 star:0.0k fork:0.0k 
 - [OpenGenus/Music-Genre-Classification](https://github.com/OpenGenus/Music-Genre-Classification) topic: pushed_at:2023-11 star:0.0k fork:0.0k Music Genre Classification using Deep Learning
 - [OpenGenus/node_module](https://github.com/OpenGenus/node_module) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
-- [OpenGenus/Open-World-RPG-Game-in-Python](https://github.com/OpenGenus/Open-World-RPG-Game-in-Python) topic: pushed_at:2023-11 star:0.0k fork:0.0k Open World RPG Game in Python
 - [OpenGenus/OpenGenus-Slack](https://github.com/OpenGenus/OpenGenus-Slack) topic:opengenus,slack,slack-team pushed_at:2017-11 star:0.0k fork:0.0k Email us or Open an issue to join us at Slack 
 - [OpenGenus/Pancreatic-volumetry](https://github.com/OpenGenus/Pancreatic-volumetry) topic: pushed_at:2023-05 star:0.0k fork:0.0k Pancreatic volumetry
 - [OpenGenus/Parallax-Scrolling-HTML](https://github.com/OpenGenus/Parallax-Scrolling-HTML) topic: pushed_at:2023-09 star:0.0k fork:0.0k Parallax Scrolling demo
@@ -227,7 +227,6 @@
 - [OpenGenus/screen](https://github.com/OpenGenus/screen) topic: pushed_at:2019-02 star:0.0k fork:0.0k 
 - [OpenGenus/sentiment-analysis](https://github.com/OpenGenus/sentiment-analysis) topic: pushed_at:2023-03 star:0.0k fork:0.0k Sentiment Analysis
 - [OpenGenus/Simon-Says-Game](https://github.com/OpenGenus/Simon-Says-Game) topic: pushed_at:2023-08 star:0.0k fork:0.0k Simon Says Game
-- [OpenGenus/Task-Tracking-App](https://github.com/OpenGenus/Task-Tracking-App) topic: pushed_at:2023-11 star:0.0k fork:0.0k Task Tracking App
 - [OpenGenus/text_summarization](https://github.com/OpenGenus/text_summarization) topic: pushed_at:2020-01 star:0.0k fork:0.0k 
 - [OpenGenus/tic-tac-toe-in-python](https://github.com/OpenGenus/tic-tac-toe-in-python) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [OpenGenus/timer-stopwatch-c](https://github.com/OpenGenus/timer-stopwatch-c) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
@@ -266,6 +265,7 @@
 - [OpenGenus/Note-taking-app-in-Python](https://github.com/OpenGenus/Note-taking-app-in-Python) topic: pushed_at:2023-06 star:0.0k fork:0.0k Note taking app in Python
 - [OpenGenus/offline](https://github.com/OpenGenus/offline) topic: pushed_at:2018-06 star:0.0k fork:0.0k 
 - [OpenGenus/online-compiler-flask](https://github.com/OpenGenus/online-compiler-flask) topic:c,compiler,flask,flask-application,online-compiler,online-judge,opengenus,opengenus-internship pushed_at:2020-04 star:0.0k fork:0.0k Online C compiler application using Flask (developed by OpenGenus Intern, Devansh Thapa)
+- [OpenGenus/Open-World-RPG-Game-in-Python](https://github.com/OpenGenus/Open-World-RPG-Game-in-Python) topic: pushed_at:2023-11 star:0.0k fork:0.0k Open World RPG Game in Python
 - [OpenGenus/Pancreas-Segmentation](https://github.com/OpenGenus/Pancreas-Segmentation) topic:deep-learning,opengenus-internship,pancreas-segmentation,tensorflow,unet pushed_at:2023-03 star:0.0k fork:0.0k Pancreas Segmentation using UNet
 - [OpenGenus/Paraphrase-detection-in-NLP](https://github.com/OpenGenus/Paraphrase-detection-in-NLP) topic: pushed_at:2023-03 star:0.0k fork:0.0k Paraphrase detection in NLP
 - [OpenGenus/PDF-hosting](https://github.com/OpenGenus/PDF-hosting) topic: pushed_at:2023-05 star:0.0k fork:0.0k PDF hosting
@@ -285,7 +285,7 @@
 - [OpenGenus/SIFT-Scale-Invariant-Feature-Transform](https://github.com/OpenGenus/SIFT-Scale-Invariant-Feature-Transform) topic: pushed_at:2019-08 star:0.0k fork:0.0k SIFT (Scale Invariant Feature Transform)
 - [OpenGenus/snake-game-in-python](https://github.com/OpenGenus/snake-game-in-python) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [OpenGenus/Social-Distancing-Checker-DL](https://github.com/OpenGenus/Social-Distancing-Checker-DL) topic: pushed_at:2023-05 star:0.0k fork:0.0k Social Distancing Checker
-- [OpenGenus/Tetris-in-Python](https://github.com/OpenGenus/Tetris-in-Python) topic: pushed_at:2023-07 star:0.0k fork:0.0k Tetris in Python
+- [OpenGenus/Tetris-in-Python](https://github.com/OpenGenus/Tetris-in-Python) topic:opengenus-internship,pygame,python,tetris-game pushed_at:2023-11 star:0.0k fork:0.0k Tetris in Python using PyGame [developed by OG intern Mathankumar V]
 - [OpenGenus/text-editor-python](https://github.com/OpenGenus/text-editor-python) topic:opengenus-internship,project,python,text-editor pushed_at:2023-01 star:0.0k fork:0.0k Simple Text Editor project in Python
 - [OpenGenus/tic-tac-toe-rl](https://github.com/OpenGenus/tic-tac-toe-rl) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [OpenGenus/typing-speed-python](https://github.com/OpenGenus/typing-speed-python) topic:console-application,opengenus,python pushed_at:2022-11 star:0.0k fork:0.0k Typing Speed Test in Python (developed by Siri)

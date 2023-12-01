@@ -43,7 +43,7 @@
 
 ## CSS
 
-- [sony/creativeai](https://github.com/sony/creativeai) topic: pushed_at:2023-11 star:0.1k fork:0.0k 
+- [sony/creativeai](https://github.com/sony/creativeai) topic: pushed_at:2023-12 star:0.1k fork:0.0k 
 
 ## Cuda
 
@@ -64,7 +64,7 @@
 
 - [sony/cdp-cli](https://github.com/sony/cdp-cli) topic: pushed_at:2018-07 star:0.0k fork:0.0k Command line tools for generating start point of multi-platform application development (Details: see cdp-js repository)
 - [sony/Instruct3Dto3D-doc](https://github.com/sony/Instruct3Dto3D-doc) topic: pushed_at:2023-03 star:0.0k fork:0.0k Official documentation of Instruct 3D-to-3D
-- [sony/timbre-trap](https://github.com/sony/timbre-trap) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
+- [sony/timbre-trap](https://github.com/sony/timbre-trap) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
 
 ## Java
 
@@ -90,7 +90,7 @@
 - [sony/aibo-development-tutorial](https://github.com/sony/aibo-development-tutorial) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [sony/ARCv2_Ghidra](https://github.com/sony/ARCv2_Ghidra) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [sony/ctm](https://github.com/sony/ctm) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
-- [sony/nnabla-doc](https://github.com/sony/nnabla-doc) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
+- [sony/nnabla-doc](https://github.com/sony/nnabla-doc) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
 
 ## PHP
 
@@ -100,7 +100,7 @@
 
 - [sony/ai-research-code](https://github.com/sony/ai-research-code) topic: pushed_at:2023-09 star:0.3k fork:0.1k 
 - [sony/audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) topic: pushed_at:2023-09 star:0.0k fork:0.0k Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge
-- [sony/bigvsan](https://github.com/sony/bigvsan) topic:audio-generation,audio-synthesis,gan,neural-vocoder,pytorch,speech-synthesis pushed_at:2023-10 star:0.1k fork:0.0k Pytorch implementation of BigVSAN
+- [sony/bigvsan](https://github.com/sony/bigvsan) topic:audio-generation,audio-synthesis,gan,neural-vocoder,pytorch,speech-synthesis pushed_at:2023-10 star:0.2k fork:0.0k Pytorch implementation of BigVSAN
 - [sony/bigvsan_eval](https://github.com/sony/bigvsan_eval) topic:pytorch pushed_at:2023-09 star:0.0k fork:0.0k Evaluation tool used in the BigVSAN paper
 - [sony/CLIPSep](https://github.com/sony/CLIPSep) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [sony/custom_layers](https://github.com/sony/custom_layers) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
