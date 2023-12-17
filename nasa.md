@@ -8,7 +8,7 @@
 
 - [AMPL](#ampl) (2)
 - [Apex](#apex) (1)
-- [C](#c) (58)
+- [C](#c) (59)
 - [C#](#c#) (1)
 - [C++](#c++) (46)
 - [CMake](#cmake) (3)
@@ -20,14 +20,14 @@
 - [Fortran](#fortran) (8)
 - [GLSL](#glsl) (1)
 - [HCL](#hcl) (2)
-- [HTML](#html) (18)
+- [HTML](#html) (17)
 - [Haskell](#haskell) (2)
 - [IDL](#idl) (3)
 - [Java](#java) (17)
 - [JavaScript](#javascript) (35)
 - [Jinja](#jinja) (1)
 - [Julia](#julia) (1)
-- [Jupyter Notebook](#jupyter-notebook) (32)
+- [Jupyter Notebook](#jupyter-notebook) (33)
 - [Limbo](#limbo) (1)
 - [MATLAB](#matlab) (11)
 - [Makefile](#makefile) (1)
@@ -35,13 +35,13 @@
 - [Matlab](#matlab) (2)
 - [OCaml](#ocaml) (1)
 - [OpenEdge ABL](#openedge-abl) (1)
-- [Others](#others) (86)
+- [Others](#others) (84)
 - [P4](#p4) (1)
 - [PHP](#php) (3)
 - [PLSQL](#plsql) (1)
 - [Perl](#perl) (3)
 - [Prolog](#prolog) (1)
-- [Python](#python) (124)
+- [Python](#python) (125)
 - [R](#r) (2)
 - [Roff](#roff) (1)
 - [Ruby](#ruby) (5)
@@ -63,63 +63,64 @@
 ## C
 
 - [nasa/aos-dr](https://github.com/nasa/aos-dr) topic:cfs,core-flight-system pushed_at:2020-07 star:0.0k fork:0.0k This cFS app is called Diagnostic Reasoner (DR), and as the name implies, it will diagnose a system of interest. That is, it will do fault detection and fault isolation. A more complete description of DR and how it works can be found in the DR User's Manual, in the doc dir.
-- [nasa/bp](https://github.com/nasa/bp) topic: pushed_at:2023-11 star:0.0k fork:0.0k The Bundle Protocol Core Flight System Application (BP) License: Apache-2.0
-- [nasa/bplib](https://github.com/nasa/bplib) topic: pushed_at:2023-09 star:0.0k fork:0.0k 
-- [nasa/CF](https://github.com/nasa/CF) topic: pushed_at:2023-11 star:0.1k fork:0.0k The Core Flight System (cFS) CFDP application.
-- [nasa/cFE](https://github.com/nasa/cFE) topic: pushed_at:2023-11 star:0.4k fork:0.2k The Core Flight System (cFS) Core Flight Executive (cFE)
+- [nasa/bp](https://github.com/nasa/bp) topic: pushed_at:2023-12 star:0.0k fork:0.0k The Bundle Protocol Core Flight System Application (BP) License: Apache-2.0
+- [nasa/bplib](https://github.com/nasa/bplib) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
+- [nasa/CF](https://github.com/nasa/CF) topic: pushed_at:2023-12 star:0.1k fork:0.0k The Core Flight System (cFS) CFDP application.
+- [nasa/cFE](https://github.com/nasa/cFE) topic: pushed_at:2023-12 star:0.4k fork:0.2k The Core Flight System (cFS) Core Flight Executive (cFE)
 - [nasa/CFS_CI](https://github.com/nasa/CFS_CI) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [nasa/CFS_IO_LIB](https://github.com/nasa/CFS_IO_LIB) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [nasa/cfs_lib](https://github.com/nasa/cfs_lib) topic: pushed_at:2018-01 star:0.0k fork:0.0k 
 - [nasa/CFS_TO](https://github.com/nasa/CFS_TO) topic: pushed_at:2018-04 star:0.0k fork:0.0k 
-- [nasa/ci_lab](https://github.com/nasa/ci_lab) topic: pushed_at:2023-11 star:0.0k fork:0.0k The Core Flight System (cFS) Command Ingest Lab App (ci_lab)
+- [nasa/ci_lab](https://github.com/nasa/ci_lab) topic: pushed_at:2023-12 star:0.0k fork:0.0k The Core Flight System (cFS) Command Ingest Lab App (ci_lab)
 - [nasa/cratous](https://github.com/nasa/cratous) topic: pushed_at:2019-03 star:0.0k fork:0.0k CRoss-Application Translator for Operational Unmanned Systems (CRATOUS) is a software bridge that enables the communication between AFRL's UxAS and NASA's ICAROUS.
-- [nasa/CryptoLib](https://github.com/nasa/CryptoLib) topic:ccsds,cfs,communications,data-link,ground-station,sdls-ep,space-communications,space-data-link-security-protocol,space-network,spack-data-link pushed_at:2023-11 star:0.1k fork:0.0k Provide a software-only solution using the CCSDS Space Data Link Security Protocol - Extended Procedures (SDLS-EP) to secure communications between a spacecraft running the core Flight System (cFS) and a ground station.
-- [nasa/CS](https://github.com/nasa/CS) topic: pushed_at:2023-11 star:0.0k fork:0.0k The Core Flight System (cFS) Checksum (CS) application.
-- [nasa/DS](https://github.com/nasa/DS) topic: pushed_at:2023-11 star:0.0k fork:0.0k The Core Flight System (cFS) Data Storage (DS) application.
+- [nasa/CryptoLib](https://github.com/nasa/CryptoLib) topic:ccsds,cfs,communications,data-link,ground-station,sdls-ep,space-communications,space-data-link-security-protocol,space-network,spack-data-link pushed_at:2023-12 star:0.1k fork:0.0k Provide a software-only solution using the CCSDS Space Data Link Security Protocol - Extended Procedures (SDLS-EP) to secure communications between a spacecraft running the core Flight System (cFS) and a ground station.
+- [nasa/CS](https://github.com/nasa/CS) topic: pushed_at:2023-12 star:0.0k fork:0.0k The Core Flight System (cFS) Checksum (CS) application.
+- [nasa/DS](https://github.com/nasa/DS) topic: pushed_at:2023-12 star:0.0k fork:0.0k The Core Flight System (cFS) Data Storage (DS) application.
 - [nasa/ECI](https://github.com/nasa/ECI) topic: pushed_at:2022-09 star:0.0k fork:0.0k CFS application framework for integrating external C code into the CFS environment
-- [nasa/EdsLib](https://github.com/nasa/EdsLib) topic: pushed_at:2023-11 star:0.0k fork:0.0k CCSDS SOIS Electronic Data Sheet Tool and Library
+- [nasa/EdsLib](https://github.com/nasa/EdsLib) topic: pushed_at:2023-12 star:0.0k fork:0.0k CCSDS SOIS Electronic Data Sheet Tool and Library
 - [nasa/eefs](https://github.com/nasa/eefs) topic: pushed_at:2021-03 star:0.2k fork:0.1k EEPROM File System
 - [nasa/elf2cfetbl](https://github.com/nasa/elf2cfetbl) topic: pushed_at:2023-10 star:0.0k fork:0.0k The Core Flight System (cFS) ELF to CFE Table Tool (elf2cfetbl)
 - [nasa/FM](https://github.com/nasa/FM) topic: pushed_at:2023-11 star:0.0k fork:0.0k The Core Flight System (cFS) File Manager (FM) application.
 - [nasa/gen_msgids](https://github.com/nasa/gen_msgids) topic: pushed_at:2019-09 star:0.0k fork:0.0k The Core Flight System (cFS) Print Message IDs Tool (gen_msgids)
 - [nasa/gen_sch_tbl](https://github.com/nasa/gen_sch_tbl) topic: pushed_at:2019-07 star:0.0k fork:0.0k The Core Flight System (cFS) Generate Schedule Table Tool (gen_sch_tbl)
-- [nasa/HK](https://github.com/nasa/HK) topic: pushed_at:2023-10 star:0.0k fork:0.0k The Core Flight System (cFS) Housekeeping (HK) application.
+- [nasa/HK](https://github.com/nasa/HK) topic: pushed_at:2023-12 star:0.0k fork:0.0k The Core Flight System (cFS) Housekeeping (HK) application.
 - [nasa/HS](https://github.com/nasa/HS) topic: pushed_at:2023-11 star:0.0k fork:0.0k The Core Flight System (cFS) Health and Safety (HS) application.
 - [nasa/icarous](https://github.com/nasa/icarous) topic: pushed_at:2023-04 star:0.1k fork:0.1k ICAROUS  is a software architecture for the development of UAS applications
 - [nasa/kepler-pipeline](https://github.com/nasa/kepler-pipeline) topic: pushed_at:2020-05 star:0.1k fork:0.0k Kepler Science Data Processing Pipeline
 - [nasa/knife](https://github.com/nasa/knife) topic: pushed_at:2017-09 star:0.0k fork:0.0k 
-- [nasa/LC](https://github.com/nasa/LC) topic: pushed_at:2023-11 star:0.0k fork:0.0k The Core Flight System (cFS) Limit Checker (LC) application.
-- [nasa/MD](https://github.com/nasa/MD) topic: pushed_at:2023-11 star:0.0k fork:0.0k  The Core Flight System (cFS) Memory Dwell (MD) application.
+- [nasa/LC](https://github.com/nasa/LC) topic: pushed_at:2023-12 star:0.0k fork:0.0k The Core Flight System (cFS) Limit Checker (LC) application.
+- [nasa/MD](https://github.com/nasa/MD) topic: pushed_at:2023-12 star:0.0k fork:0.0k  The Core Flight System (cFS) Memory Dwell (MD) application.
 - [nasa/MISR-Toolkit](https://github.com/nasa/MISR-Toolkit) topic: pushed_at:2020-06 star:0.0k fork:0.0k an API facilitating the access of MISR standard product files
-- [nasa/MM](https://github.com/nasa/MM) topic: pushed_at:2023-11 star:0.0k fork:0.0k The Core Flight System (cFS) Memory Manager (MM) application.
+- [nasa/MM](https://github.com/nasa/MM) topic: pushed_at:2023-12 star:0.0k fork:0.0k The Core Flight System (cFS) Memory Manager (MM) application.
 - [nasa/Multi-Process-Proxy](https://github.com/nasa/Multi-Process-Proxy) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [nasa/Multi-Process-Proxy-Client](https://github.com/nasa/Multi-Process-Proxy-Client) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [nasa/Multi-Process-Proxy-Events](https://github.com/nasa/Multi-Process-Proxy-Events) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [nasa/MultiDop](https://github.com/nasa/MultiDop) topic: pushed_at:2020-05 star:0.0k fork:0.0k Multiple-Doppler Radar Analysis Toolkit (MultiDop)
-- [nasa/nos3](https://github.com/nasa/nos3) topic: pushed_at:2023-11 star:0.3k fork:0.1k NASA Operational Simulator for Small Satellites
-- [nasa/osal](https://github.com/nasa/osal) topic: pushed_at:2023-11 star:0.5k fork:0.2k The Core Flight System (cFS) Operating System Abstraction Layer (OSAL)
-- [nasa/PSP](https://github.com/nasa/PSP) topic: pushed_at:2023-11 star:0.1k fork:0.0k The Core Flight System (cFS) Platform Support Package (PSP)
+- [nasa/nos3](https://github.com/nasa/nos3) topic: pushed_at:2023-12 star:0.3k fork:0.1k NASA Operational Simulator for Small Satellites
+- [nasa/osal](https://github.com/nasa/osal) topic: pushed_at:2023-12 star:0.5k fork:0.2k The Core Flight System (cFS) Operating System Abstraction Layer (OSAL)
+- [nasa/PSP](https://github.com/nasa/PSP) topic: pushed_at:2023-12 star:0.1k fork:0.0k The Core Flight System (cFS) Platform Support Package (PSP)
 - [nasa/QuIP](https://github.com/nasa/QuIP) topic: pushed_at:2020-01 star:0.1k fork:0.0k QuIP provides an interactive environment for computing and presenting images and image sequences, manipulating and storing arbitrary data, and general scientific computing and plotting.  The current release supports unix-like operating systems (tested on Linux and Mac OSX), and Apple's iOS mobile operating system.  GPU acceleration is supported with either CUDA or OpenCL.  There is built-in support for psychophysical experimentation, with general-purpose staircase routines and analysis of psychometric functions.
 - [nasa/refine](https://github.com/nasa/refine) topic: pushed_at:2022-11 star:0.1k fork:0.0k 
-- [nasa/sample_app](https://github.com/nasa/sample_app) topic: pushed_at:2023-11 star:0.0k fork:0.0k The Core Flight System (cFS) Sample App (sample_app)
+- [nasa/reflow](https://github.com/nasa/reflow) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
+- [nasa/sample_app](https://github.com/nasa/sample_app) topic: pushed_at:2023-12 star:0.0k fork:0.0k The Core Flight System (cFS) Sample App (sample_app)
 - [nasa/sample_lib](https://github.com/nasa/sample_lib) topic: pushed_at:2023-08 star:0.0k fork:0.0k The Core Flight System (cFS) Sample Library (sample_lib)
 - [nasa/SBN](https://github.com/nasa/SBN) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
 - [nasa/SBN-Client](https://github.com/nasa/SBN-Client) topic: pushed_at:2023-05 star:0.0k fork:0.0k The Software Bus Network Client (SBNC) enables two-way communication with NASA's core Flight System (cFS) Software Bus and an external application. SBNC implements the Software Bus Network (SBN) communication protocol in a standalone C library.
-- [nasa/SC](https://github.com/nasa/SC) topic: pushed_at:2023-11 star:0.0k fork:0.0k The Core Flight System (cFS) Stored Commands (SC) application.
+- [nasa/SC](https://github.com/nasa/SC) topic: pushed_at:2023-12 star:0.0k fork:0.0k The Core Flight System (cFS) Stored Commands (SC) application.
 - [nasa/SCA](https://github.com/nasa/SCA) topic: pushed_at:2019-03 star:0.0k fork:0.0k The Core Flight System (cFS) Stored Command Absolute (SCA) application.
 - [nasa/SCH](https://github.com/nasa/SCH) topic: pushed_at:2023-08 star:0.0k fork:0.0k The Core Flight System (cFS) Scheduler (SCH) application.
-- [nasa/sch_lab](https://github.com/nasa/sch_lab) topic: pushed_at:2023-11 star:0.0k fork:0.0k The Core Flight System (cFS) Scheduler Lab App (sch_lab)
+- [nasa/sch_lab](https://github.com/nasa/sch_lab) topic: pushed_at:2023-12 star:0.0k fork:0.0k The Core Flight System (cFS) Scheduler Lab App (sch_lab)
 - [nasa/scifen-solver](https://github.com/nasa/scifen-solver) topic: pushed_at:2018-09 star:0.0k fork:0.0k 
 - [nasa/skeleton_app](https://github.com/nasa/skeleton_app) topic: pushed_at:2022-06 star:0.0k fork:0.0k fork of sample_app
 - [nasa/tblCRCTool](https://github.com/nasa/tblCRCTool) topic: pushed_at:2023-08 star:0.0k fork:0.0k The Core Flight System (cFS) Table CRC Tool (tblCRCTool)
-- [nasa/to_lab](https://github.com/nasa/to_lab) topic: pushed_at:2023-11 star:0.0k fork:0.0k The Core Flight System (cFS) Telemetry Output Lab App (to_lab)
+- [nasa/to_lab](https://github.com/nasa/to_lab) topic: pushed_at:2023-12 star:0.0k fork:0.0k The Core Flight System (cFS) Telemetry Output Lab App (to_lab)
 - [nasa/TrickFMI](https://github.com/nasa/TrickFMI) topic: pushed_at:2023-05 star:0.0k fork:0.0k A Functional Mockup Interface (FMI) Standard Implementation for Trick Base Models and Simulations
 - [nasa/tricksbn](https://github.com/nasa/tricksbn) topic:cfs,sbn,trick,tricksbn,tvsio pushed_at:2022-02 star:0.0k fork:0.0k Project for Trick simulations to communicate with cFS Software Bus Network
 - [nasa/tricksbn-demo](https://github.com/nasa/tricksbn-demo) topic:cfs,demo,sample,sbn,trick,tricksbn,tvsio pushed_at:2022-02 star:0.0k fork:0.0k 
 - [nasa/tvsio](https://github.com/nasa/tvsio) topic:cfs,sbn,trick,tvsio pushed_at:2023-07 star:0.0k fork:0.0k Trick Variable Server Input Output is a Core Flight Software app that can transfer data to and from Trick simulations
 - [nasa/tvsio-demo](https://github.com/nasa/tvsio-demo) topic:cfs,demo,sample,sbn,trick,tvsio pushed_at:2022-02 star:0.0k fork:0.0k A sample project for integrating TVS-IO into cFS
 - [nasa/UWB-mesh-ranging](https://github.com/nasa/UWB-mesh-ranging) topic: pushed_at:2023-07 star:0.0k fork:0.0k Mesh ranging protocol for ultra-wide band ranging modules. Includes implementation for Decawave DWM-1001-dev boards.
-- [nasa/XPlaneConnect](https://github.com/nasa/XPlaneConnect) topic: pushed_at:2023-10 star:0.5k fork:0.3k The X-Plane Communications Toolbox is a research tool used to interact with the X-Plane flight simulator
+- [nasa/XPlaneConnect](https://github.com/nasa/XPlaneConnect) topic: pushed_at:2023-10 star:0.6k fork:0.3k The X-Plane Communications Toolbox is a research tool used to interact with the X-Plane flight simulator
 
 ## C#
 
@@ -128,7 +129,7 @@
 ## C++
 
 - [nasa/AprilNav](https://github.com/nasa/AprilNav) topic: pushed_at:2019-01 star:0.1k fork:0.0k 
-- [nasa/astrobee](https://github.com/nasa/astrobee) topic: pushed_at:2023-11 star:0.9k fork:0.3k NASA Astrobee Robot Software
+- [nasa/astrobee](https://github.com/nasa/astrobee) topic: pushed_at:2023-12 star:0.9k fork:0.3k NASA Astrobee Robot Software
 - [nasa/bingocpp](https://github.com/nasa/bingocpp) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
 - [nasa/channel-emulator](https://github.com/nasa/channel-emulator) topic: pushed_at:2016-09 star:0.1k fork:0.0k 
 - [nasa/Coordinate-systems-class-library](https://github.com/nasa/Coordinate-systems-class-library) topic: pushed_at:2020-04 star:0.0k fork:0.0k 
@@ -139,7 +140,7 @@
 - [nasa/EADINLite](https://github.com/nasa/EADINLite) topic: pushed_at:2018-03 star:0.1k fork:0.0k EADIN_Lite Network Protocol
 - [nasa/EMTG](https://github.com/nasa/EMTG) topic: pushed_at:2023-05 star:0.0k fork:0.0k NASA Goddard's Evolutionary Mission Trajectory Generator (EMTG)
 - [nasa/europa](https://github.com/nasa/europa) topic: pushed_at:2023-02 star:0.2k fork:0.1k 
-- [nasa/fprime](https://github.com/nasa/fprime) topic:components,cpp,embedded,embedded-systems,flight,flight-software,fprime,framework,nasa,object-oriented-programming,raspberry-pi,real-time,spaceflight pushed_at:2023-11 star:9.7k fork:1.2k F´ - A flight software and embedded systems framework
+- [nasa/fprime](https://github.com/nasa/fprime) topic:components,cpp,embedded,embedded-systems,flight,flight-software,fprime,framework,nasa,object-oriented-programming,raspberry-pi,real-time,spaceflight pushed_at:2023-12 star:9.7k fork:1.2k F´ - A flight software and embedded systems framework
 - [nasa/GMSEC_API](https://github.com/nasa/GMSEC_API) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
 - [nasa/GSAP](https://github.com/nasa/GSAP) topic: pushed_at:2023-02 star:0.0k fork:0.0k Generic Software Architecture for Prognostics (GSAP)
 - [nasa/gunns](https://github.com/nasa/gunns) topic: pushed_at:2023-10 star:0.0k fork:0.0k The NASA General-Use Nodal Network Solver (GUNNS) software
@@ -147,7 +148,7 @@
 - [nasa/HDTN-BPCodec](https://github.com/nasa/HDTN-BPCodec) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
 - [nasa/IDF](https://github.com/nasa/IDF) topic: pushed_at:2023-09 star:0.1k fork:0.0k 
 - [nasa/irg_open](https://github.com/nasa/irg_open) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
-- [nasa/isaac](https://github.com/nasa/isaac) topic: pushed_at:2023-11 star:0.0k fork:0.0k Integrated System for Autonomous and Adaptive Caretaking
+- [nasa/isaac](https://github.com/nasa/isaac) topic: pushed_at:2023-12 star:0.0k fork:0.0k Integrated System for Autonomous and Adaptive Caretaking
 - [nasa/jeod](https://github.com/nasa/jeod) topic: pushed_at:2023-08 star:0.0k fork:0.0k 
 - [nasa/kepler-robovetter](https://github.com/nasa/kepler-robovetter) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
 - [nasa/Kodiak](https://github.com/nasa/Kodiak) topic: pushed_at:2022-07 star:0.1k fork:0.0k Library for rigorous verification of non-linear arithmetic
@@ -168,8 +169,8 @@
 - [nasa/StereoPipeline](https://github.com/nasa/StereoPipeline) topic: pushed_at:2015-05 star:0.1k fork:0.0k The NASA Ames Stereo Pipeline is a suite of automated geodesy & stereogrammetry tools designed for processing planetary imagery captured from orbiting and landed robotic explorers on other planets.
 - [nasa/swSim](https://github.com/nasa/swSim) topic: pushed_at:2021-04 star:0.0k fork:0.0k Solid Wave Simulation (swSim) is software that solves heterogeneous, anisotropic elastodynamic equations for ultrasonic NDE simulation. A time-explicit staggered grid finite difference (FD) scheme is employed and solved on graphics processing units (GPUs). Parallelism via the Message Passing Interface (MPI) allows for deployment on a cluster, or on a single computer with one or more GPUs. Wavefield data is output using Visualization Toolkit (VTK) file formats for 3D rendering capabilities via open source tools, and a kernel composition module allows high-level registration of sequences of matrix operations, providing extensibility in equations and physics solved.
 - [nasa/Three-Dimensional-Nozzle-Design-Code](https://github.com/nasa/Three-Dimensional-Nozzle-Design-Code) topic: pushed_at:2020-08 star:0.0k fork:0.0k 
-- [nasa/trick](https://github.com/nasa/trick) topic: pushed_at:2023-11 star:0.7k fork:0.2k Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.
-- [nasa/TrickHLA](https://github.com/nasa/TrickHLA) topic: pushed_at:2023-11 star:0.0k fork:0.0k TrickHLA: An IEEE 1516 High Level Architecture (HLA) Simulation Interoperability Standard Implementation for Trick Base Simulations
+- [nasa/trick](https://github.com/nasa/trick) topic: pushed_at:2023-12 star:0.7k fork:0.2k Trick Simulation Environment.  Trick provides a common set of simulation capabilities and utilities to build simulations automatically.
+- [nasa/TrickHLA](https://github.com/nasa/TrickHLA) topic: pushed_at:2023-12 star:0.0k fork:0.0k TrickHLA: An IEEE 1516 High Level Architecture (HLA) Simulation Interoperability Standard Implementation for Trick Base Simulations
 - [nasa/upsp-processing](https://github.com/nasa/upsp-processing) topic:aeroacoustics,computer-graphics,computer-vision,hpc,linux,macos,mpi,nasa,opencv,opencv-python,openmp,parallel-computing,photron,python,scientific-computing,scientific-computing-with-python,signal-processing,turbulence,video-processing pushed_at:2023-08 star:0.0k fork:0.0k Software for processing high-speed video recordings from Unsteady Pressure-Sensitive Paint (UPSP) measurement systems. https://nasa.github.io/upsp-processing
 - [nasa/visionworkbench](https://github.com/nasa/visionworkbench) topic: pushed_at:2017-04 star:0.3k fork:0.1k The NASA Vision Workbench is a general purpose image processing and computer vision library developed by the Autonomous Systems and Robotics (ASR) Area in the Intelligent Systems Division at the NASA Ames Research Center.
 - [nasa/World-Wind-Java](https://github.com/nasa/World-Wind-Java) topic: pushed_at:2020-10 star:0.3k fork:0.2k World Wind, an open source 3D interactive world viewer, was created by NASA's Learning Technologies project, and released in mid-2004. It is now developed by NASA staff and open source community developers.
@@ -177,7 +178,7 @@
 ## CMake
 
 - [nasa/astrobee_media](https://github.com/nasa/astrobee_media) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
-- [nasa/cFS](https://github.com/nasa/cFS) topic: pushed_at:2023-11 star:0.6k fork:0.2k The Core Flight System (cFS)
+- [nasa/cFS](https://github.com/nasa/cFS) topic: pushed_at:2023-12 star:0.6k fork:0.2k The Core Flight System (cFS)
 - [nasa/isaac_msgs](https://github.com/nasa/isaac_msgs) topic: pushed_at:2022-06 star:0.0k fork:0.0k Integrated System for Autonomous and Adaptive Caretaking Common ROS Message Files
 
 ## CSS
@@ -195,7 +196,7 @@
 
 ## Common Lisp
 
-- [nasa/pvslib](https://github.com/nasa/pvslib) topic: pushed_at:2023-11 star:0.2k fork:0.1k NASA PVS Library of Formal Developments
+- [nasa/pvslib](https://github.com/nasa/pvslib) topic: pushed_at:2023-12 star:0.2k fork:0.1k NASA PVS Library of Formal Developments
 
 ## Emacs Lisp
 
@@ -232,7 +233,7 @@
 - [nasa/dictionaries](https://github.com/nasa/dictionaries) topic: pushed_at:2018-05 star:0.1k fork:0.0k A collection of NASA "dictionaries", including thesauri, taxonomies and ontologies.
 - [nasa/digital-strategy](https://github.com/nasa/digital-strategy) topic: pushed_at:2021-03 star:0.0k fork:0.0k Machine-readable schema for NASA's response to the president's digital strategy.
 - [nasa/DON-Federate-HLA2MPC](https://github.com/nasa/DON-Federate-HLA2MPC) topic: pushed_at:2017-08 star:0.0k fork:0.0k 
-- [nasa/EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources) topic:emit,lpdaac pushed_at:2023-11 star:0.1k fork:0.0k This repository provides guides, short how-tos, and tutorials to help users access and work with data from the Earth Surface Mineral Dust Source Investigation (EMIT) mission.
+- [nasa/EMIT-Data-Resources](https://github.com/nasa/EMIT-Data-Resources) topic:emit,lpdaac pushed_at:2023-12 star:0.1k fork:0.0k This repository provides guides, short how-tos, and tutorials to help users access and work with data from the Earth Surface Mineral Dust Source Investigation (EMIT) mission.
 - [nasa/GeneLab-Training](https://github.com/nasa/GeneLab-Training) topic:education,genes,genetics,nasa,outreach,pipeline,training,training-materials pushed_at:2023-10 star:0.0k fork:0.0k A repository for GeneLab Training documentation.
 - [nasa/GPU_SDR](https://github.com/nasa/GPU_SDR) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [nasa/instructions](https://github.com/nasa/instructions) topic:gov,nasa,welcome-page pushed_at:2023-11 star:0.3k fork:0.1k https://github.com/nasa/nasa.github.io/blob/master/docs/INSTRUCTIONS.md
@@ -244,13 +245,12 @@
 - [nasa/TCML](https://github.com/nasa/TCML) topic: pushed_at:2018-08 star:0.0k fork:0.0k The Tip Clearance Modeling Library (TCML) was developed to model the dynamic variation of the high pressure turbine (HPT) tip clearance in aero-engine turbomachinery. The modeling techniques should be applicable to compressors as well. The model can be driven by prescribed inputs or seamlessly integrated with an aero-engine simulation such as one developed using the Toolbox for Modeling and Analysis of Thermodynamic Systems (T-MATS).
 - [nasa/test](https://github.com/nasa/test) topic: pushed_at:2021-03 star:0.0k fork:0.0k 
 - [nasa/TSAT](https://github.com/nasa/TSAT) topic: pushed_at:2018-08 star:0.0k fork:0.0k The Thermal Systems Analysis Toolbox (TSAT) is a MATLAB/Simulink based tool for modeling and analysis of dynamic thermal systems involving heat transfer. It is best suited for 1-D and 2-D heat transfer involving solid planar and cylindrical structures, however, the toolset is more extensive than this. The tools enable consideration of conduction, convection, and radiation boundary conditions. Some advanced capabilities are provided when it comes to approximating conduction within non-isotropic materials, structures with material transitions, and structures with time-varying temperature dependent material properties. Numerous tools are available to facilitate the construction of modular models of thermal systems and their integration with larger system models.
-- [nasa/VITALS](https://github.com/nasa/VITALS) topic:ecostress,emit,lpdaac pushed_at:2023-11 star:0.0k fork:0.0k This repository provides Python Jupyter notebook examples to help users work with VSWIR and TIR data from the EMIT and ECOSTRESS missions.
 - [nasa/WellClear](https://github.com/nasa/WellClear) topic: pushed_at:2020-11 star:0.0k fork:0.1k Well-Clear Boundary Models for Integration of UAS in the NAS
 
 ## Haskell
 
 - [nasa/ogma](https://github.com/nasa/ogma) topic: pushed_at:2023-11 star:0.3k fork:0.0k 
-- [nasa/PRECiSA](https://github.com/nasa/PRECiSA) topic: pushed_at:2023-01 star:0.0k fork:0.0k Program Round-off Error Certifier via Static Analysis
+- [nasa/PRECiSA](https://github.com/nasa/PRECiSA) topic: pushed_at:2023-12 star:0.0k fork:0.0k Program Round-off Error Certifier via Static Analysis
 
 ## IDL
 
@@ -260,10 +260,10 @@
 
 ## Java
 
-- [nasa/astrobee_android](https://github.com/nasa/astrobee_android) topic: pushed_at:2023-08 star:0.1k fork:0.0k NASA Astrobee Robot Software, Android
+- [nasa/astrobee_android](https://github.com/nasa/astrobee_android) topic: pushed_at:2023-12 star:0.1k fork:0.0k NASA Astrobee Robot Software, Android
 - [nasa/astrobee_gds](https://github.com/nasa/astrobee_gds) topic: pushed_at:2019-08 star:0.0k fork:0.0k The Astrobee Control Station is an Eclipse RCP application that can command and monitor an Astrobee robot or simulator.
 - [nasa/atd2-fuser](https://github.com/nasa/atd2-fuser) topic: pushed_at:2021-02 star:0.0k fork:0.0k 
-- [nasa/CCDD](https://github.com/nasa/CCDD) topic: pushed_at:2023-11 star:0.1k fork:0.0k CFS Command and Data Dictionary Tool (CCDDT)
+- [nasa/CCDD](https://github.com/nasa/CCDD) topic: pushed_at:2023-12 star:0.1k fork:0.0k CFS Command and Data Dictionary Tool (CCDDT)
 - [nasa/CCSDS-MAL-Http-Binding-Xml-Encoding](https://github.com/nasa/CCSDS-MAL-Http-Binding-Xml-Encoding) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [nasa/CertWare](https://github.com/nasa/CertWare) topic: pushed_at:2016-06 star:0.0k fork:0.0k 
 - [nasa/cumulus-message-adapter-java](https://github.com/nasa/cumulus-message-adapter-java) topic:cumulus,nasa-cumulus pushed_at:2023-11 star:0.0k fork:0.0k Java handler for the Cumulus Message Adapter
@@ -281,16 +281,16 @@
 ## JavaScript
 
 - [nasa/astrobot](https://github.com/nasa/astrobot) topic:apod,apod-api,bot,discord,nasa-data,slack pushed_at:2022-02 star:0.1k fork:0.0k A slack bot integration with NASA data
-- [nasa/cmr-graphql](https://github.com/nasa/cmr-graphql) topic:earth-science,eosdis,gis,gsfc,hacktoberfest,nasa,open-source pushed_at:2023-11 star:0.0k fork:0.0k GraphQL interface for NASA's Common Metadata Repository (CMR).
+- [nasa/cmr-graphql](https://github.com/nasa/cmr-graphql) topic:earth-science,eosdis,gis,gsfc,hacktoberfest,nasa,open-source pushed_at:2023-12 star:0.0k fork:0.0k GraphQL interface for NASA's Common Metadata Repository (CMR).
 - [nasa/common-mapping-client](https://github.com/nasa/common-mapping-client) topic: pushed_at:2023-03 star:0.1k fork:0.0k CMC is a starter-kit for creating web-based mapping applications
-- [nasa/cumulus](https://github.com/nasa/cumulus) topic:cumulus,nasa-cumulus pushed_at:2023-11 star:0.2k fork:0.1k Cumulus Framework + Cumulus API
-- [nasa/cumulus-dashboard](https://github.com/nasa/cumulus-dashboard) topic:cumulus,nasa-cumulus pushed_at:2023-11 star:0.1k fork:0.0k Cumulus API Dashboard
+- [nasa/cumulus](https://github.com/nasa/cumulus) topic:cumulus,nasa-cumulus pushed_at:2023-12 star:0.2k fork:0.1k Cumulus Framework + Cumulus API
+- [nasa/cumulus-dashboard](https://github.com/nasa/cumulus-dashboard) topic:cumulus,nasa-cumulus pushed_at:2023-12 star:0.1k fork:0.0k Cumulus API Dashboard
 - [nasa/cumulus-distribution-api](https://github.com/nasa/cumulus-distribution-api) topic:cumulus,nasa-cumulus pushed_at:2022-08 star:0.0k fork:0.0k Documentation for the Cumulus Distribution API
 - [nasa/cumulus-docs](https://github.com/nasa/cumulus-docs) topic: pushed_at:2018-07 star:0.0k fork:0.0k Documentation on setting up, maintaining, and expanding Cumulus [DEPRECATED]
 - [nasa/cumulus-ecs-task](https://github.com/nasa/cumulus-ecs-task) topic:cumulus,nasa-cumulus pushed_at:2023-04 star:0.0k fork:0.0k 
 - [nasa/cumulus-integration-tests](https://github.com/nasa/cumulus-integration-tests) topic: pushed_at:2018-07 star:0.0k fork:0.0k Integration tests for Cumulus workflows [DEPRECATED]
 - [nasa/cumulus-message-adapter-js](https://github.com/nasa/cumulus-message-adapter-js) topic:cumulus,nasa-cumulus pushed_at:2023-10 star:0.0k fork:0.0k A library for validating and parsing the Cumulus message protocol
-- [nasa/earthdata-search](https://github.com/nasa/earthdata-search) topic:data-discovery,earthdata-search,eosdis,hacktoberfest pushed_at:2023-11 star:0.7k fork:0.2k Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.
+- [nasa/earthdata-search](https://github.com/nasa/earthdata-search) topic:data-discovery,earthdata-search,eosdis,hacktoberfest pushed_at:2023-12 star:0.7k fork:0.2k Earthdata Search is a web application developed by NASA EOSDIS to enable data discovery, search, comparison, visualization, and access across EOSDIS' Earth Science data holdings.
 - [nasa/ecco-interactive-solution-evaluator](https://github.com/nasa/ecco-interactive-solution-evaluator) topic: pushed_at:2022-07 star:0.0k fork:0.0k ECCO Interactive Solution Evaluator
 - [nasa/edsc-echoforms](https://github.com/nasa/edsc-echoforms) topic:earthdata-search,echo-forms,eosdis,hacktoberfest pushed_at:2023-08 star:0.0k fork:0.0k A React component implementing the ECHO Forms specification.
 - [nasa/edsc-geo](https://github.com/nasa/edsc-geo) topic: pushed_at:2023-09 star:0.0k fork:0.0k 
@@ -300,18 +300,18 @@
 - [nasa/github-latest-commits-widget](https://github.com/nasa/github-latest-commits-widget) topic: pushed_at:2015-10 star:0.0k fork:0.0k Simple widget that shows a repo's latest github commit activity on your site
 - [nasa/isaac_user_interface](https://github.com/nasa/isaac_user_interface) topic: pushed_at:2022-10 star:0.0k fork:0.0k Integrated System for Autonomous and Adaptive Caretaking Web Interface
 - [nasa/isle](https://github.com/nasa/isle) topic: pushed_at:2021-05 star:0.2k fork:0.0k 
-- [nasa/meza](https://github.com/nasa/meza) topic:elasticsearch,enterprise,mediawiki,visual-editor,wiki pushed_at:2023-10 star:0.0k fork:0.0k Setup an enterprise MediaWiki server with simple commands
+- [nasa/meza](https://github.com/nasa/meza) topic:elasticsearch,enterprise,mediawiki,visual-editor,wiki pushed_at:2023-12 star:0.0k fork:0.0k Setup an enterprise MediaWiki server with simple commands
 - [nasa/MiniWall](https://github.com/nasa/MiniWall) topic: pushed_at:2020-05 star:0.0k fork:0.0k Tool for investigating and extracting knowledge from large image data sets
-- [nasa/NASA-Acronyms](https://github.com/nasa/NASA-Acronyms) topic: pushed_at:2023-11 star:0.1k fork:0.0k 
+- [nasa/NASA-Acronyms](https://github.com/nasa/NASA-Acronyms) topic: pushed_at:2023-12 star:0.1k fork:0.0k 
 - [nasa/nasawds-old](https://github.com/nasa/nasawds-old) topic: pushed_at:2019-12 star:0.0k fork:0.0k The NASA Glenn Web Design System is a design system for building fast, accessible, mobile-friendly NASA websites.
 - [nasa/Open-Source-Catalog](https://github.com/nasa/Open-Source-Catalog) topic:ai-tags,catalog,meta-record,nasa,open-source,website pushed_at:2023-11 star:0.3k fork:0.1k Contains the NASA open source software catalog for automatic deployment to code.nasa.gov
-- [nasa/openmct](https://github.com/nasa/openmct) topic: pushed_at:2023-11 star:11.1k fork:1.2k A web based mission control framework. 
+- [nasa/openmct](https://github.com/nasa/openmct) topic: pushed_at:2023-12 star:11.1k fork:1.2k A web based mission control framework. 
 - [nasa/openmct-heatmap](https://github.com/nasa/openmct-heatmap) topic: pushed_at:2018-01 star:0.0k fork:0.0k 
 - [nasa/openmct-hello](https://github.com/nasa/openmct-hello) topic: pushed_at:2023-01 star:0.0k fork:0.0k Hello, world plugin repository for Open MCT.
 - [nasa/openmct-legacy-plugin](https://github.com/nasa/openmct-legacy-plugin) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [nasa/openmct-map](https://github.com/nasa/openmct-map) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [nasa/openmct-tutorial](https://github.com/nasa/openmct-tutorial) topic: pushed_at:2023-10 star:0.2k fork:0.1k A tutorial for OpenMCT that guides you through integrating historical and realtime telemetry.
-- [nasa/opera-sds-bach-ui](https://github.com/nasa/opera-sds-bach-ui) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
+- [nasa/opera-sds-bach-ui](https://github.com/nasa/opera-sds-bach-ui) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [nasa/OSS](https://github.com/nasa/OSS) topic: pushed_at:2023-08 star:0.0k fork:0.0k 
 - [nasa/VADER](https://github.com/nasa/VADER) topic: pushed_at:2020-10 star:0.0k fork:0.0k 
 - [nasa/webgs](https://github.com/nasa/webgs) topic: pushed_at:2022-12 star:0.0k fork:0.0k LAR-19641-1: WebGS: Web-based Platform for Multi-UAV Flight Visualization and Simulation
@@ -328,24 +328,24 @@
 
 - [nasa/1d-pinn-reconstruction](https://github.com/nasa/1d-pinn-reconstruction) topic: pushed_at:2021-10 star:0.0k fork:0.0k This is the code for "Neural Network Reconstruction of Plasma Space-Time" by C.Bard and J.Dorelli (DOI: 10.3389/fspas.2021.732275). It is a Physics-Informed Transformer Neural Network which was used to reconstruct one-dimensional (M)HD shocktubes from partial samples. Includes source code, data, and jupyter notebooks for scientific reproduction
 - [nasa/AppEEARS-Data-Resources](https://github.com/nasa/AppEEARS-Data-Resources) topic:appeears,lpdaac pushed_at:2023-11 star:0.0k fork:0.0k  This repository provides resources and tutorials to help users work with AppEEARS programmatically.
-- [nasa/ASDC_Data_and_User_Services](https://github.com/nasa/ASDC_Data_and_User_Services) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
+- [nasa/ASDC_Data_and_User_Services](https://github.com/nasa/ASDC_Data_and_User_Services) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [nasa/dorado-sensitivity](https://github.com/nasa/dorado-sensitivity) topic:astronomy,astropy,ccd,nasa,satellite,ultraviolet pushed_at:2022-12 star:0.0k fork:0.0k Dorado sensitivity and exposure time calculator
 - [nasa/DualPol](https://github.com/nasa/DualPol) topic: pushed_at:2019-03 star:0.0k fork:0.0k Python Interface to Dual-Pol Radar Algorithms (DualPol)
 - [nasa/Earthdata-cloud-playground](https://github.com/nasa/Earthdata-cloud-playground) topic: pushed_at:2023-11 star:0.0k fork:0.0k Content will be open and available for use by our user communities, and will be used to help foster open science practices with our external collaborators.
 - [nasa/ECOSTRESS-Data-Resources](https://github.com/nasa/ECOSTRESS-Data-Resources) topic:ecostress,lpdaac pushed_at:2023-11 star:0.0k fork:0.0k 
 - [nasa/exoscene](https://github.com/nasa/exoscene) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
 - [nasa/GEDI-Data-Resources](https://github.com/nasa/GEDI-Data-Resources) topic:gedi,lpdaac pushed_at:2023-11 star:0.0k fork:0.0k This repository provides guides, short how-tos, and tutorials to help users access and work with data from the Global Ecosystem Dynamics Investigation (GEDI) mission.
-- [nasa/GeneLab_Data_Processing](https://github.com/nasa/GeneLab_Data_Processing) topic:genelab,genes,genetics,pipeline pushed_at:2023-11 star:0.0k fork:0.0k 
+- [nasa/GeneLab_Data_Processing](https://github.com/nasa/GeneLab_Data_Processing) topic:genelab,genes,genetics,pipeline pushed_at:2023-12 star:0.0k fork:0.0k 
 - [nasa/gesdisc-cloud-tutorials](https://github.com/nasa/gesdisc-cloud-tutorials) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [nasa/gesdisc-tutorials](https://github.com/nasa/gesdisc-tutorials) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
-- [nasa/harmony-regression-tests](https://github.com/nasa/harmony-regression-tests) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
+- [nasa/harmony-regression-tests](https://github.com/nasa/harmony-regression-tests) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [nasa/HLS-Data-Resources](https://github.com/nasa/HLS-Data-Resources) topic:hls,lpdaac pushed_at:2023-11 star:0.0k fork:0.0k This repository provides guides, short how-tos, and tutorials to help users access and work with Harmonized Landsat Sentinel-2 (HLS) data.
 - [nasa/ISS_Camera_Geolocate](https://github.com/nasa/ISS_Camera_Geolocate) topic: pushed_at:2022-03 star:0.0k fork:0.0k Python software library that facilitates the geolocation of photographs and video frames from the International Space Station (ISS).
-- [nasa/Kamodo](https://github.com/nasa/Kamodo) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
+- [nasa/Kamodo](https://github.com/nasa/Kamodo) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [nasa/legacy-mars-global-climate-model](https://github.com/nasa/legacy-mars-global-climate-model) topic:atmosphere,climate-model,climate-modeling,clouds,dust,gcm,global-climate-model,mars,microphysics pushed_at:2023-04 star:0.0k fork:0.0k We present the NASA Ames Legacy Mars Global Climate Model for public release. This model uses a modified version of the ARIES/GEOS dynamical core coupled with a set of Mars physics packages to simulate the martian climate. The physics packages include the treatment of surface properties, a ground temperature model, a planetary boundary layer scheme, water and carbon dioxide sublimation/condensation physics, a water ice cloud microphysical scheme, the use of a moment method for tracer transport, a semi-interactive dust tracking scheme, and a two-stream radiative transfer code based on correlated-k’s.
 - [nasa/LPDAAC-Data-Resources](https://github.com/nasa/LPDAAC-Data-Resources) topic:lpdaac pushed_at:2023-11 star:0.0k fork:0.0k This repository is a place to find data user resources that demonstrate how to use LP DAAC tools, services, and data.
 - [nasa/MMM-Py](https://github.com/nasa/MMM-Py) topic: pushed_at:2022-08 star:0.1k fork:0.0k Marshall MRMS Mosaic Python Toolkit
-- [nasa/ncompare](https://github.com/nasa/ncompare) topic:data-comparison,hierarchical-data,netcdf pushed_at:2023-11 star:0.0k fork:0.0k Compare the structure of two netCDF files at the command line
+- [nasa/ncompare](https://github.com/nasa/ncompare) topic:data-comparison,hierarchical-data,netcdf pushed_at:2023-12 star:0.0k fork:0.0k Compare the structure of two netCDF files at the command line
 - [nasa/Plot3D_utilities](https://github.com/nasa/Plot3D_utilities) topic:computational-domain,mesh,mesh-generation,plot3d pushed_at:2023-09 star:0.0k fork:0.0k A Python library for reading, writing, finding connectivity for plot3d files
 - [nasa/PyAMPR](https://github.com/nasa/PyAMPR) topic: pushed_at:2019-08 star:0.0k fork:0.0k Python Advanced Microwave Precipitation Radiometer Data Toolkit (PyAMPR)
 - [nasa/PyBlock](https://github.com/nasa/PyBlock) topic: pushed_at:2017-08 star:0.0k fork:0.0k Python Polarimetric Radar Beam Blockage Calculation (PyBlock)
@@ -356,7 +356,8 @@
 - [nasa/SingleDop](https://github.com/nasa/SingleDop) topic: pushed_at:2022-10 star:0.1k fork:0.0k Single Doppler Retrieval Toolkit (SingleDop)
 - [nasa/SIRS](https://github.com/nasa/SIRS) topic: pushed_at:2022-07 star:0.0k fork:0.0k Simple Improved Reference Subtraction (SIRS) is a technique for reducing the read noise of near-infrared array detector systems.
 - [nasa/spaceapps-phenomena_detection](https://github.com/nasa/spaceapps-phenomena_detection) topic: pushed_at:2020-10 star:0.0k fork:0.0k 
-- [nasa/trrac](https://github.com/nasa/trrac) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
+- [nasa/trrac](https://github.com/nasa/trrac) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
+- [nasa/VITALS](https://github.com/nasa/VITALS) topic:ecostress,emit,lpdaac pushed_at:2023-12 star:0.0k fork:0.0k This repository provides Python Jupyter notebook examples to help users work with VSWIR and TIR data from the EMIT and ECOSTRESS missions.
 - [nasa/zarr-eosdis-store](https://github.com/nasa/zarr-eosdis-store) topic: pushed_at:2023-10 star:0.0k fork:0.0k Zarr data store for efficiently accessing NetCDF4 data from NASA’s Earth observing system in the cloud using the Zarr Python library
 
 ## Limbo
@@ -463,7 +464,6 @@
 - [nasa/puppies](https://github.com/nasa/puppies) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [nasa/pycomdes-gui](https://github.com/nasa/pycomdes-gui) topic: pushed_at:2020-08 star:0.0k fork:0.0k 
 - [nasa/pycomdes-lib](https://github.com/nasa/pycomdes-lib) topic: pushed_at:2020-08 star:0.0k fork:0.0k 
-- [nasa/reflow](https://github.com/nasa/reflow) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
 - [nasa/rjnieves-open-repo](https://github.com/nasa/rjnieves-open-repo) topic: pushed_at:2019-05 star:0.0k fork:0.0k 
 - [nasa/rtap](https://github.com/nasa/rtap) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
 - [nasa/russ-open-source](https://github.com/nasa/russ-open-source) topic: pushed_at:2019-05 star:0.0k fork:0.0k A new open source repo
@@ -476,15 +476,14 @@
 - [nasa/TechPort](https://github.com/nasa/TechPort) topic: pushed_at:2023-07 star:0.0k fork:0.0k To share source code samples that illustrate ways to interact with the TechPort API to harvest data.
 - [nasa/test-repo](https://github.com/nasa/test-repo) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
 - [nasa/TOPS](https://github.com/nasa/TOPS) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
-- [nasa/Transform-to-Open-Science](https://github.com/nasa/Transform-to-Open-Science) topic:cross-agency,open-code,open-data,open-science,open-source pushed_at:2023-11 star:0.6k fork:0.1k Transformation to Open Science
-- [nasa/Transform-to-Open-Science-Book](https://github.com/nasa/Transform-to-Open-Science-Book) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
+- [nasa/Transform-to-Open-Science](https://github.com/nasa/Transform-to-Open-Science) topic:cross-agency,open-code,open-data,open-science,open-source pushed_at:2023-12 star:0.6k fork:0.1k Transformation to Open Science
+- [nasa/Transform-to-Open-Science-Book](https://github.com/nasa/Transform-to-Open-Science-Book) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [nasa/TTECTrA](https://github.com/nasa/TTECTrA) topic: pushed_at:2014-06 star:0.1k fork:0.0k An open source, semi-automated, control design tool for subsonic aircraft engine simulations written in the MATLAB/Simulink environment.  The Tool for Turbine Engine Closed-loop Transient Analysis provides the user a preliminary estimate of the closed-loop transient performance of an engine model.
 - [nasa/uam-apis](https://github.com/nasa/uam-apis) topic: pushed_at:2023-09 star:0.0k fork:0.0k 
 - [nasa/utm-apis](https://github.com/nasa/utm-apis) topic: pushed_at:2023-11 star:0.1k fork:0.0k The collection of APIs for NASA's UTM project in the form of OpenAPI documents.
 - [nasa/VICAR](https://github.com/nasa/VICAR) topic: pushed_at:2022-06 star:0.3k fork:0.1k 
 - [nasa/VIIRS-demo](https://github.com/nasa/VIIRS-demo) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
 - [nasa/WRF-Chem_DART](https://github.com/nasa/WRF-Chem_DART) topic: pushed_at:2023-05 star:0.0k fork:0.0k 
-- [nasa/zarr-accumulation-generation](https://github.com/nasa/zarr-accumulation-generation) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
 - [nasa/zarr-accumulation-service](https://github.com/nasa/zarr-accumulation-service) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
 
 ## P4
@@ -516,27 +515,27 @@
 - [nasa/889-Compliance-SAM-Tool-](https://github.com/nasa/889-Compliance-SAM-Tool-) topic: pushed_at:2023-02 star:0.0k fork:0.0k  Determine Vendor 889 Compliance for Procurements Topic tags: #SAM.GOV API #889 compliance #Procurement #Purchase card SRA number: LAR-20069-1 
 - [nasa/abaverify](https://github.com/nasa/abaverify) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
 - [nasa/ADOPT](https://github.com/nasa/ADOPT) topic: pushed_at:2023-07 star:0.0k fork:0.0k Automatic Discovery of Precursors in Time Series Data (ADOPT)
-- [nasa/AI4LS](https://github.com/nasa/AI4LS) topic: pushed_at:2023-11 star:0.0k fork:0.0k The Artificial Intelligence for Life in Space (AI4LS) team at NASA Ames uses artificial intelligence and machine learning to support and advance space exploration. This repository contains code for ongoing and completed projects.  SRA#ARC-18915-1
+- [nasa/AI4LS](https://github.com/nasa/AI4LS) topic: pushed_at:2023-12 star:0.0k fork:0.0k The Artificial Intelligence for Life in Space (AI4LS) team at NASA Ames uses artificial intelligence and machine learning to support and advance space exploration. This repository contains code for ongoing and completed projects.  SRA#ARC-18915-1
 - [nasa/airfoil-learning](https://github.com/nasa/airfoil-learning) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [nasa/AMMPER](https://github.com/nasa/AMMPER) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
 - [nasa/apod-api](https://github.com/nasa/apod-api) topic:apod-api,apod-image,apod-parser,astronomy,astronomy-photo,astronomy-picture,astronomy-picture-of-the-day,nasa,nasa-api,space pushed_at:2023-07 star:0.7k fork:0.1k Astronomy Picture of the Day API service
 - [nasa/AQUAMI-TGO](https://github.com/nasa/AQUAMI-TGO) topic: pushed_at:2023-11 star:0.0k fork:0.0k Automatic Image Analysis of Environmental Barrier Coating Oxide Layers using Machine Learning and Computer Vision
-- [nasa/bingo](https://github.com/nasa/bingo) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
+- [nasa/bingo](https://github.com/nasa/bingo) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [nasa/BrightComets](https://github.com/nasa/BrightComets) topic: pushed_at:2019-12 star:0.0k fork:0.0k 
 - [nasa/camel](https://github.com/nasa/camel) topic: pushed_at:2023-09 star:0.0k fork:0.0k SRA number: GSC-19,143-1 
-- [nasa/cape](https://github.com/nasa/cape) topic: pushed_at:2023-11 star:0.0k fork:0.0k Computational Aerosciences Productivity & Execution
+- [nasa/cape](https://github.com/nasa/cape) topic: pushed_at:2023-12 star:0.0k fork:0.0k Computational Aerosciences Productivity & Execution
 - [nasa/ccmc-swpc-cat-web](https://github.com/nasa/ccmc-swpc-cat-web) topic: pushed_at:2020-09 star:0.0k fork:0.0k The original IDL version of the SWPC_CAT tool was developed by NOAA Space Weather Prediction Center (SWPC). It is the primary tool being used by NOAA SWPC in measuring key parameters of a Coronal Mass Ejection (CME) as it emerges from the solar corona. This CCMC_SWPC_CAT_Web Tool is an online version based on the original SWPC_CAT tool that is being developed and maintained by the Community Coordinated Modeling Center (CCMC) at NASA. The CCMC_SWPC_CAT_Web tool is written in Python.
 - [nasa/cFS-EDS-GroundStation](https://github.com/nasa/cFS-EDS-GroundStation) topic: pushed_at:2021-11 star:0.0k fork:0.0k 
 - [nasa/cFS-GroundSystem](https://github.com/nasa/cFS-GroundSystem) topic: pushed_at:2023-08 star:0.1k fork:0.1k The Core Flight System (cFS) Ground System Lab Tool (cFS-GroundSystem)
 - [nasa/concept-tagging-api](https://github.com/nasa/concept-tagging-api) topic:api,concept-tag,flask-application,machine-learning,nasa,nasa-api,nlp,nlp-machine-learning,usg-artificial-intelligence pushed_at:2023-11 star:0.0k fork:0.0k Contains code for the API that takes in text and predicts concepts & keywords from a list of standardized NASA keywords.  API is for exposing models created with the repository `concept-tagging-training`.  
 - [nasa/concept-tagging-training](https://github.com/nasa/concept-tagging-training) topic:concept-tagging,machine-learning,makefile,nlp,nlp-machine-learning,nlp-train,usg-artificial-intelligence pushed_at:2022-12 star:0.0k fork:0.0k Contains code for training NLP models that takes in text and predicts concepts & keywords from a list of standardized NASA keywords. Code for the API that uses models trained by this repo is in `concept-tagging-api` repository.
-- [nasa/COTS-Star-Tracker](https://github.com/nasa/COTS-Star-Tracker) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
+- [nasa/COTS-Star-Tracker](https://github.com/nasa/COTS-Star-Tracker) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [nasa/CrisisMappingToolkit](https://github.com/nasa/CrisisMappingToolkit) topic: pushed_at:2021-07 star:0.2k fork:0.1k NASA Ames Crisis Mapping Toolkit
 - [nasa/CTF](https://github.com/nasa/CTF) topic: pushed_at:2023-09 star:0.0k fork:0.0k This is a new repository for a new tool to be added to the cFS ecosystem called cFS Test Framework (CTF).
 - [nasa/cumulus-ecs-task-python](https://github.com/nasa/cumulus-ecs-task-python) topic:cumulus,nasa-cumulus pushed_at:2018-08 star:0.0k fork:0.0k Docker for running python lambdas as tasks in AWS ECS
-- [nasa/cumulus-message-adapter](https://github.com/nasa/cumulus-message-adapter) topic:cumulus,nasa-cumulus pushed_at:2023-11 star:0.0k fork:0.0k A command-line interface for preparing and outputting Cumulus Messages for Cumulus Tasks
+- [nasa/cumulus-message-adapter](https://github.com/nasa/cumulus-message-adapter) topic:cumulus,nasa-cumulus pushed_at:2023-12 star:0.0k fork:0.0k A command-line interface for preparing and outputting Cumulus Messages for Cumulus Tasks
 - [nasa/cumulus-message-adapter-python](https://github.com/nasa/cumulus-message-adapter-python) topic:cumulus,nasa-cumulus pushed_at:2023-07 star:0.0k fork:0.0k 
-- [nasa/cumulus-orca](https://github.com/nasa/cumulus-orca) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
+- [nasa/cumulus-orca](https://github.com/nasa/cumulus-orca) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [nasa/cumulus-process-py](https://github.com/nasa/cumulus-process-py) topic:cumulus,nasa-cumulus pushed_at:2023-07 star:0.0k fork:0.0k Python utilities library for Cumulus
 - [nasa/cumulus-process-py-seed](https://github.com/nasa/cumulus-process-py-seed) topic:cumulus,nasa-cumulus pushed_at:2018-08 star:0.0k fork:0.0k Template project for creating new Cumulus tasks using cumulus-process-py
 - [nasa/CVAE](https://github.com/nasa/CVAE) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
@@ -545,7 +544,7 @@
 - [nasa/dorado-streamlit](https://github.com/nasa/dorado-streamlit) topic:astronomy,astropy,ccd,nasa,satellite,streamlit,ultraviolet pushed_at:2021-05 star:0.0k fork:0.0k Dorado observer web tools built with Streamlit
 - [nasa/dss](https://github.com/nasa/dss) topic: pushed_at:2023-05 star:0.0k fork:0.0k This repository contains the core software products of the InterUSS Platform: an implementation of the ASTM DSS concept for RID and flight coordination, and monitoring tools for federated UTM, including automated testing.
 - [nasa/earth-imagery-api](https://github.com/nasa/earth-imagery-api) topic:api,beginner,earth,earth-observation,flask,gee,imagery,landsat,nasa,python,satellite,satellite-data,satellite-imagery,user-friendly pushed_at:2021-09 star:0.0k fork:0.0k The code repository for earth-imagery-api on https://api.nasa.gov/
-- [nasa/earthdata-varinfo](https://github.com/nasa/earthdata-varinfo) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
+- [nasa/earthdata-varinfo](https://github.com/nasa/earthdata-varinfo) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [nasa/eo-metadata-tools](https://github.com/nasa/eo-metadata-tools) topic: pushed_at:2023-01 star:0.0k fork:0.0k eo-metadata-tools is a set of repositories for working with Earth Observation metadata. At its core are common libraries and demonstration scripts for accessing the Common Metadata Repository, to be accompanied by more specific modules and scripts to do dataset-specific queries, metadata validation, etc...
 - [nasa/feature_selection_tool](https://github.com/nasa/feature_selection_tool) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [nasa/fmdtools](https://github.com/nasa/fmdtools) topic:fault-model,hazard-assessment,reliability,resilience,safety,simulation pushed_at:2023-11 star:0.0k fork:0.0k System Resilience Modelling, Simulation, and Assessment in Python
@@ -566,17 +565,17 @@
 - [nasa/harmony-py](https://github.com/nasa/harmony-py) topic: pushed_at:2023-11 star:0.0k fork:0.0k Python client library for working with NASA’s Earth observing system data using Harmony.  https://harmony.earthdata.nasa.gov
 - [nasa/harmony-qgis](https://github.com/nasa/harmony-qgis) topic: pushed_at:2021-07 star:0.0k fork:0.0k QGIS plugin for working with NASA’s Earth observing system data using Harmony.  https://harmony.earthdata.nasa.gov
 - [nasa/harmony-service-example](https://github.com/nasa/harmony-service-example) topic: pushed_at:2023-11 star:0.0k fork:0.0k Example service implementation for subsetting and reprojecting L3 data using Harmony. https://github.com/nasa/harmony
-- [nasa/harmony-service-lib-py](https://github.com/nasa/harmony-service-lib-py) topic: pushed_at:2023-11 star:0.0k fork:0.0k Python library to simplify adapting transformation services for use in Harmony https://github.com/nasa/harmony
+- [nasa/harmony-service-lib-py](https://github.com/nasa/harmony-service-lib-py) topic: pushed_at:2023-12 star:0.0k fork:0.0k Python library to simplify adapting transformation services for use in Harmony https://github.com/nasa/harmony
 - [nasa/harmony-swath-projector](https://github.com/nasa/harmony-swath-projector) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
 - [nasa/hybridq](https://github.com/nasa/hybridq) topic:high-performance-computing,hpc,quantum-computing,simulation pushed_at:2023-12 star:0.1k fork:0.0k HybridQ is a highly extensible platform designed to provide a common framework to integrate multiple state-of-the-art techniques to simulate large scale quantum circuits on a variety of hardware. HybridQ provides tools to manipulate, develop, and extend noiseless and noisy circuits for different hardware architectures. HybridQ also supports large-scale high-performance computing (HPC) simulations, automatically balancing workload among different processor nodes and enabling the use of multiple backends to maximize parallel efficiency. Everything is then glued together by a simple and expressive language that allows seamless switching from one technique to another as well as from one hardware to the next, without the need to write lengthy translations, thus greatly simplifying the development of new hybrid algorithms and techniques.
-- [nasa/HyperCP](https://github.com/nasa/HyperCP) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
+- [nasa/HyperCP](https://github.com/nasa/HyperCP) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [nasa/ipv6_python](https://github.com/nasa/ipv6_python) topic: pushed_at:2021-06 star:0.0k fork:0.0k 
 - [nasa/K2CE](https://github.com/nasa/K2CE) topic: pushed_at:2021-10 star:0.0k fork:0.0k Kepler K2 Cadence Events (K2CE) is a Python data visualization and manipulation tool for astronomers to identify and remove cadences (observations) associated with problematic thruster events, thus producing cleaner light curves.  K2CE was designed to work with standard Kepler or K2 data products: long-cadence (30 min) and short-cadence (1 min) light curve files and long-cadence and short-cadence target pixel files.  The tool has been modified to work with light curve files and target pixel files from the TESS mission.
 - [nasa/Kamodo-core](https://github.com/nasa/Kamodo-core) topic: pushed_at:2023-09 star:0.0k fork:0.0k 
 - [nasa/Kepler-FLTI](https://github.com/nasa/Kepler-FLTI) topic: pushed_at:2020-03 star:0.0k fork:0.0k 
 - [nasa/Kepler-PyKE](https://github.com/nasa/Kepler-PyKE) topic: pushed_at:2021-07 star:0.0k fork:0.0k Kepler Community Data Analysis Tools (PyKE) https://github.com/KeplerGO/PyKE/  The Kepler archive contains time-series data calibrated and reduced from detector pixels. The pipelined reduction includes the removal of time-series trends systematic to a spacecraft and its environment.
 - [nasa/KeplerPORTs](https://github.com/nasa/KeplerPORTs) topic: pushed_at:2017-07 star:0.0k fork:0.0k 
-- [nasa/LHASA](https://github.com/nasa/LHASA) topic: pushed_at:2023-11 star:0.0k fork:0.0k Landslide Hazard Analysis for Situational Awareness
+- [nasa/LHASA](https://github.com/nasa/LHASA) topic: pushed_at:2023-12 star:0.0k fork:0.0k Landslide Hazard Analysis for Situational Awareness
 - [nasa/Li-ion-Battery-Prognosis-Based-on-Hybrid-Bayesian-PINN](https://github.com/nasa/Li-ion-Battery-Prognosis-Based-on-Hybrid-Bayesian-PINN) topic: pushed_at:2023-08 star:0.0k fork:0.0k Code used to generate the results of the paper: Nascimento et al. A framework for Li-ion battery prognosis based on hybrid Bayesian physics-informed neural networks.
 - [nasa/Lightkurve](https://github.com/nasa/Lightkurve) topic: pushed_at:2021-03 star:0.0k fork:0.0k 
 - [nasa/Loupe](https://github.com/nasa/Loupe) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
@@ -594,23 +593,23 @@
 - [nasa/MOSAIC](https://github.com/nasa/MOSAIC) topic: pushed_at:2021-10 star:0.0k fork:0.0k Shared computing for distributed systems science or autonomy support. 
 - [nasa/mplStyle](https://github.com/nasa/mplStyle) topic: pushed_at:2018-03 star:0.0k fork:0.0k Matplotlib object oriented style system
 - [nasa/MXMCPy](https://github.com/nasa/MXMCPy) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
-- [nasa/OnAIR](https://github.com/nasa/OnAIR) topic: pushed_at:2023-11 star:0.0k fork:0.0k The On-board Artificial Intelligence Research (OnAIR) Platform is a framework that enables AI algorithms written in Python to interact with NASA's cFS. It is intended to explore research concepts in autonomous operations in a simulated environment. 
+- [nasa/OnAIR](https://github.com/nasa/OnAIR) topic: pushed_at:2023-12 star:0.0k fork:0.0k The On-board Artificial Intelligence Research (OnAIR) Platform is a framework that enables AI algorithms written in Python to interact with NASA's cFS. It is intended to explore research concepts in autonomous operations in a simulated environment. 
 - [nasa/OpenMDAO-Framework](https://github.com/nasa/OpenMDAO-Framework) topic: pushed_at:2015-05 star:0.1k fork:0.0k OpenMDAO is an open-source Multidisciplinary Design Analysis and Optimization (MDAO) framework, written in Python. It helps users solve complex problems by allowing them to link together analysis codes from multiple disciplines at multiple levels of fidelity.  The development effort for OpenMDAO is being led out of the NASA Glenn Research Center in the MDAO branch. The development effort is being funded by the Fundamental Aeronautic Program, Subsonic Fixe Wing project. The ultimate goal is to provide a flexible common analysis platform that can be shared between industry, academia, and government.
-- [nasa/opera-sds-bach-api](https://github.com/nasa/opera-sds-bach-api) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
+- [nasa/opera-sds-bach-api](https://github.com/nasa/opera-sds-bach-api) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [nasa/opera-sds-int](https://github.com/nasa/opera-sds-int) topic: pushed_at:2023-09 star:0.0k fork:0.0k 
-- [nasa/opera-sds-lambdas](https://github.com/nasa/opera-sds-lambdas) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
-- [nasa/opera-sds-pcm](https://github.com/nasa/opera-sds-pcm) topic: pushed_at:2023-11 star:0.0k fork:0.0k Observational Products for End-Users from Remote Sensing Analysis (OPERA)
+- [nasa/opera-sds-lambdas](https://github.com/nasa/opera-sds-lambdas) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
+- [nasa/opera-sds-pcm](https://github.com/nasa/opera-sds-pcm) topic: pushed_at:2023-12 star:0.0k fork:0.0k Observational Products for End-Users from Remote Sensing Analysis (OPERA)
 - [nasa/opera-sds-sys](https://github.com/nasa/opera-sds-sys) topic: pushed_at:2022-10 star:0.0k fork:0.0k Observational Products for End-Users from Remote Sensing Analysis (OPERA)
 - [nasa/Oversight](https://github.com/nasa/Oversight) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
-- [nasa/ow_simulator](https://github.com/nasa/ow_simulator) topic: pushed_at:2023-11 star:0.1k fork:0.0k 
+- [nasa/ow_simulator](https://github.com/nasa/ow_simulator) topic: pushed_at:2023-12 star:0.1k fork:0.0k 
 - [nasa/pbs4py](https://github.com/nasa/pbs4py) topic:batch-jobs,hpc,pbs pushed_at:2023-07 star:0.0k fork:0.0k Python utilities for submitting jobs on high performance computing systems
 - [nasa/pclam](https://github.com/nasa/pclam) topic: pushed_at:2023-08 star:0.0k fork:0.0k 
 - [nasa/pigans-material-ID](https://github.com/nasa/pigans-material-ID) topic: pushed_at:2023-09 star:0.0k fork:0.0k 
 - [nasa/podaac_tools_and_services](https://github.com/nasa/podaac_tools_and_services) topic:gravity,nasa,ocean-circulation,ocean-surface-topography,ocean-winds,oceanography,ost,physical-oceanography,podaac,sea,sea-ice,sea-surface-salinity,sea-surface-temperature,services,sss,sst,tools pushed_at:2020-03 star:0.0k fork:0.0k A meta-repository which essentially lists code related to all tools and services software for NASA JPL's PO.DAAC
-- [nasa/podaacpy](https://github.com/nasa/podaacpy) topic:metadata,nasa,nasa-data,oceanography,podaac,python,science pushed_at:2021-07 star:0.1k fork:0.0k A python utility library for interacting with NASA JPL's PO.DAAC
-- [nasa/pretrained-microscopy-models](https://github.com/nasa/pretrained-microscopy-models) topic: pushed_at:2023-10 star:0.1k fork:0.0k 
-- [nasa/prog_server](https://github.com/nasa/prog_server) topic:prognostics,prognostics-as-a-service,prognostics-health-management pushed_at:2023-10 star:0.0k fork:0.0k The NASA Prognostics As-A-Service (PaaS) Sandbox is a simplified implementation of a Software Oriented Architecture (SOA) for performing prognostics (estimation of time until events and future system states) of engineering systems. The PaaS Sandbox is a wrapper around the Prognostics Algorithms Package and Prognostics Models Package, allowing one or more users to access the features of these packages through a REST API. The package is intended to be used as a research tool to prototype and benchmark Prognostics As-A-Service (PaaS) architectures and work on the challenges facing such architectures, including Generality, Communication, Security, Environmental Complexity, Utility, and Trust.
-- [nasa/progpy](https://github.com/nasa/progpy) topic:integrated-system-health-management,modeling,modeling-and-simulation,prognostic-models,prognostics,prognostics-health-management,simulation pushed_at:2023-11 star:0.0k fork:0.0k The NASA Prognostic Python Packages is a Python framework focused on defining and building models and algorit for prognostics (computation of remaining useful life) of engineering systems, and provides a set of models and algorithms for select components developed within this framework, suitable for use in prognostic applications.
+- [nasa/podaacpy](https://github.com/nasa/podaacpy) topic:metadata,nasa,nasa-data,oceanography,podaac,python,science pushed_at:2023-12 star:0.1k fork:0.0k A python utility library for interacting with NASA JPL's PO.DAAC
+- [nasa/pretrained-microscopy-models](https://github.com/nasa/pretrained-microscopy-models) topic: pushed_at:2023-12 star:0.1k fork:0.0k 
+- [nasa/prog_server](https://github.com/nasa/prog_server) topic:prognostics,prognostics-as-a-service,prognostics-health-management pushed_at:2023-12 star:0.0k fork:0.0k The NASA Prognostics As-A-Service (PaaS) Sandbox is a simplified implementation of a Software Oriented Architecture (SOA) for performing prognostics (estimation of time until events and future system states) of engineering systems. The PaaS Sandbox is a wrapper around the Prognostics Algorithms Package and Prognostics Models Package, allowing one or more users to access the features of these packages through a REST API. The package is intended to be used as a research tool to prototype and benchmark Prognostics As-A-Service (PaaS) architectures and work on the challenges facing such architectures, including Generality, Communication, Security, Environmental Complexity, Utility, and Trust.
+- [nasa/progpy](https://github.com/nasa/progpy) topic:integrated-system-health-management,modeling,modeling-and-simulation,prognostic-models,prognostics,prognostics-health-management,simulation pushed_at:2023-12 star:0.0k fork:0.0k The NASA Prognostic Python Packages is a Python framework focused on defining and building models and algorit for prognostics (computation of remaining useful life) of engineering systems, and provides a set of models and algorithms for select components developed within this framework, suitable for use in prognostic applications.
 - [nasa/PROTEUS](https://github.com/nasa/PROTEUS) topic: pushed_at:2023-04 star:0.0k fork:0.0k PROTEUS - The Dynamic Surface Water eXtent from Harmonized Landsat and Sentinel-2 (DSWx-HLS) Science Application Software (SAS)
 - [nasa/pyCMR](https://github.com/nasa/pyCMR) topic: pushed_at:2018-11 star:0.0k fork:0.0k Client for CMR APIs
 - [nasa/pymdptoolbox](https://github.com/nasa/pymdptoolbox) topic:markov,markov-decision-processes,usg-artificial-intelligence pushed_at:2015-05 star:0.0k fork:0.0k Markov Decision Process (MDP) Toolbox for Python
@@ -624,7 +623,7 @@
 - [nasa/ROSES-Compliance-Checking-Tools](https://github.com/nasa/ROSES-Compliance-Checking-Tools) topic: pushed_at:2023-08 star:0.0k fork:0.0k 
 - [nasa/RtRetrievalFrameworkDoc](https://github.com/nasa/RtRetrievalFrameworkDoc) topic: pushed_at:2017-02 star:0.0k fork:0.0k 
 - [nasa/SALaD](https://github.com/nasa/SALaD) topic: pushed_at:2021-11 star:0.0k fork:0.0k SALaD (Semi-Automatic Landslide Detection) is a landslide mapping system. SALaD utilizes Object-based Image Analysis and Random Forest to map landslides. It requires optical imagery, a DEM, corner coordinates of a training area, and manually mapped landslides within the training area. The code is built to run primarily on a Linux.
-- [nasa/scrub](https://github.com/nasa/scrub) topic:code-quality,code-review,python,security,static-analysis pushed_at:2023-10 star:0.0k fork:0.0k SCRUB is a platform for orchestration and aggregation of static code analysis tools.
+- [nasa/scrub](https://github.com/nasa/scrub) topic:code-quality,code-review,python,security,static-analysis pushed_at:2023-12 star:0.0k fork:0.0k SCRUB is a platform for orchestration and aggregation of static code analysis tools.
 - [nasa/shocktube](https://github.com/nasa/shocktube) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [nasa/simplegrid](https://github.com/nasa/simplegrid) topic: pushed_at:2020-07 star:0.0k fork:0.0k 
 - [nasa/simupy-flight](https://github.com/nasa/simupy-flight) topic: pushed_at:2022-07 star:0.1k fork:0.0k 
@@ -637,6 +636,7 @@
 - [nasa/UQ-Kernel-Mini-App](https://github.com/nasa/UQ-Kernel-Mini-App) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
 - [nasa/UQPCE](https://github.com/nasa/UQPCE) topic: pushed_at:2022-03 star:0.0k fork:0.0k Uncertainty Quantification using Polynomial Chaos Expansion (UQPCE) is an open source, python based research code for use in parametric, non-deterministic computational studies. UQPCE utilizes a non-intrusive polynomial chaos expansion surrogate modeling technique to efficiently estimate uncertainties for computational analyses. The software allows the user to perform an automated uncertainty analysis for any given computational code without requiring modification to the source. UQPCE estimates sensitivities, confidence intervals, and other model statistics, which can be useful in the conceptual design and analysis of flight vehicles. This software was developed for the Aeronautics Systems Analysis Branch (ASAB) within the Systems Analysis and Concepts Directorate (SACD) at NASA Langley Research Center to study potential impacts of uncertainties on the prediction of ground noise generated from commercial supersonic aircraft concepts.       
 - [nasa/vsm](https://github.com/nasa/vsm) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
+- [nasa/zarr-accumulation-generation](https://github.com/nasa/zarr-accumulation-generation) topic: pushed_at:2023-12 star:0.0k fork:0.0k This is the source code for the data generation phase of the algorithm of "Zarr-based chunk-level cumulative sums in reduced dimensions"
 
 ## R
 
@@ -650,10 +650,10 @@
 ## Ruby
 
 - [nasa/cmr-csw](https://github.com/nasa/cmr-csw) topic: pushed_at:2022-06 star:0.0k fork:0.0k CMR-CSW is a web application developed by NASA EOSDIS to enable data discovery, search, and access across the CMR Earth Science data holdings via the OpenGIS Catalogue Service for the Web (CSW) standard. 
-- [nasa/cmr-metadata-review](https://github.com/nasa/cmr-metadata-review) topic:rails,ruby pushed_at:2023-11 star:0.0k fork:0.0k The CMR Metadata Review tool is used to curate NASA EOSDIS collection and granule level metadata in CMR for correctness, completeness and consistency.
-- [nasa/cmr-opensearch](https://github.com/nasa/cmr-opensearch) topic: pushed_at:2023-11 star:0.0k fork:0.0k CMR-OpenSearch is a web application developed by NASA EOSDIS to enable data discovery, search, and access across the CMR Earth Science data holdings via the OpenSearch standard.
+- [nasa/cmr-metadata-review](https://github.com/nasa/cmr-metadata-review) topic:rails,ruby pushed_at:2023-12 star:0.0k fork:0.0k The CMR Metadata Review tool is used to curate NASA EOSDIS collection and granule level metadata in CMR for correctness, completeness and consistency.
+- [nasa/cmr-opensearch](https://github.com/nasa/cmr-opensearch) topic: pushed_at:2023-12 star:0.0k fork:0.0k CMR-OpenSearch is a web application developed by NASA EOSDIS to enable data discovery, search, and access across the CMR Earth Science data holdings via the OpenSearch standard.
 - [nasa/georef_deploy](https://github.com/nasa/georef_deploy) topic: pushed_at:2020-08 star:0.0k fork:0.0k 
-- [nasa/mmt](https://github.com/nasa/mmt) topic: pushed_at:2023-11 star:0.1k fork:0.0k NASA's Metadata Management Tool.
+- [nasa/mmt](https://github.com/nasa/mmt) topic: pushed_at:2023-12 star:0.1k fork:0.0k NASA's Metadata Management Tool.
 
 ## SCSS
 
@@ -664,7 +664,7 @@
 
 - [nasa/cash](https://github.com/nasa/cash) topic: pushed_at:2013-12 star:0.0k fork:0.0k Cassini Structured Homepages uses LDAP authorization to provide a security layer to webpage content
 - [nasa/cumulus-circleci-image](https://github.com/nasa/cumulus-circleci-image) topic:cumulus,nasa-cumulus pushed_at:2018-08 star:0.0k fork:0.0k 
-- [nasa/opera-sds-ops](https://github.com/nasa/opera-sds-ops) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
+- [nasa/opera-sds-ops](https://github.com/nasa/opera-sds-ops) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [nasa/Reinforcement-Learning-Benchmarking](https://github.com/nasa/Reinforcement-Learning-Benchmarking) topic:ai,machine-learning,ml,reinforcement-learning,usg-artificial-intelligence pushed_at:2019-09 star:0.0k fork:0.0k Scripts for running several OpenAI Baselines algorithms on all MuJoCo or Roboschool gym environments to compare performance.
 - [nasa/utm-docs](https://github.com/nasa/utm-docs) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
 
@@ -674,11 +674,11 @@
 
 ## TypeScript
 
-- [nasa/cmr-stac](https://github.com/nasa/cmr-stac) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
-- [nasa/daa-displays](https://github.com/nasa/daa-displays) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
-- [nasa/earthdata-download](https://github.com/nasa/earthdata-download) topic:hacktoberfest pushed_at:2023-11 star:0.0k fork:0.0k 
+- [nasa/cmr-stac](https://github.com/nasa/cmr-stac) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
+- [nasa/daa-displays](https://github.com/nasa/daa-displays) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
+- [nasa/earthdata-download](https://github.com/nasa/earthdata-download) topic:hacktoberfest pushed_at:2023-12 star:0.0k fork:0.0k 
 - [nasa/gesdisc-meditor](https://github.com/nasa/gesdisc-meditor) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
-- [nasa/harmony](https://github.com/nasa/harmony) topic: pushed_at:2023-11 star:0.1k fork:0.0k Application for providing services for Earth observation data in the cloud using standards-based APIs
+- [nasa/harmony](https://github.com/nasa/harmony) topic: pushed_at:2023-12 star:0.1k fork:0.0k Application for providing services for Earth observation data in the cloud using standards-based APIs
 - [nasa/spotthestation](https://github.com/nasa/spotthestation) topic: pushed_at:2023-11 star:0.0k fork:0.0k Spot The Station Application Code Rep
 - [nasa/vscode-pvs](https://github.com/nasa/vscode-pvs) topic: pushed_at:2023-04 star:0.0k fork:0.0k LAR-19642-1: Visual Studio Code Extension for PVS
 

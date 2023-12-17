@@ -9,12 +9,12 @@
 - [C](#c) (5)
 - [C++](#c++) (13)
 - [CSS](#css) (7)
-- [HTML](#html) (37)
+- [HTML](#html) (38)
 - [Java](#java) (20)
 - [JavaScript](#javascript) (38)
 - [Jupyter Notebook](#jupyter-notebook) (12)
 - [OpenEdge ABL](#openedge-abl) (1)
-- [Others](#others) (51)
+- [Others](#others) (50)
 - [Processing](#processing) (1)
 - [Python](#python) (52)
 - [Ruby](#ruby) (3)
@@ -39,7 +39,7 @@
 - [OpenGenus/Hangman-cpp](https://github.com/OpenGenus/Hangman-cpp) topic: pushed_at:2023-08 star:0.0k fork:0.0k Hangman game in C++
 - [OpenGenus/keylogger-cpp](https://github.com/OpenGenus/keylogger-cpp) topic:cpp,keylogger,opengenus-internship pushed_at:2023-01 star:0.0k fork:0.0k Keylogger developed in C++
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) topic:code-search,hacktoberfest,hacktoberfest2021,javascript,offline,opengenus,search-engine pushed_at:2022-10 star:0.6k fork:0.1k Stay happy while offline | World's first offline search engine. 
-- [OpenGenus/Restaurant-Management-System](https://github.com/OpenGenus/Restaurant-Management-System) topic:cpp,opengenus-internship,restaurant-management-system pushed_at:2023-05 star:0.0k fork:0.0k Restaurant Management System in C++
+- [OpenGenus/Restaurant-Management-System](https://github.com/OpenGenus/Restaurant-Management-System) topic:cpp,opengenus-internship,restaurant-management-system pushed_at:2023-12 star:0.0k fork:0.0k Restaurant Management System in C++
 - [OpenGenus/snake-game-in-cpp](https://github.com/OpenGenus/snake-game-in-cpp) topic: pushed_at:2023-02 star:0.0k fork:0.0k Snake game in C++
 - [OpenGenus/Spell-Checker-in-cpp](https://github.com/OpenGenus/Spell-Checker-in-cpp) topic: pushed_at:2023-07 star:0.0k fork:0.0k Spell Checker in C++
 - [OpenGenus/stopwatch-in-cpp](https://github.com/OpenGenus/stopwatch-in-cpp) topic:cpp,opengenus-internship,project,stopwatch pushed_at:2023-01 star:0.0k fork:0.0k Stopwatch in C++
@@ -59,11 +59,12 @@
 ## HTML
 
 - [OpenGenus/Bomberman-Game-in-HTML](https://github.com/OpenGenus/Bomberman-Game-in-HTML) topic:bomberman,css,game,html,javascript,web-development pushed_at:2023-07 star:0.0k fork:0.0k Bomberman Game in HTML, CSS, JavaScript [by OpenGenus Intern Yingzi Tang]
-- [OpenGenus/checklist](https://github.com/OpenGenus/checklist) topic:checklist,opengenus,opengenus-internship pushed_at:2023-11 star:0.0k fork:0.0k OpenGenus Checklist project: 🐐 Pioneering the future of organized sequential knowledge
+- [OpenGenus/checklist](https://github.com/OpenGenus/checklist) topic:checklist,opengenus,opengenus-internship pushed_at:2023-12 star:0.0k fork:0.0k OpenGenus Checklist project: 🐐 Pioneering the future of organized sequential knowledge
 - [OpenGenus/clipboard_html](https://github.com/OpenGenus/clipboard_html) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/collaboration](https://github.com/OpenGenus/collaboration) topic: pushed_at:2018-06 star:0.0k fork:0.0k 
 - [OpenGenus/cookies](https://github.com/OpenGenus/cookies) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/cosmos-search](https://github.com/OpenGenus/cosmos-search) topic:cosmos,django,hacktoberfest,hacktoberfest2021,opengenus,python,search-engine pushed_at:2022-12 star:0.1k fork:0.1k :seedling: The next generation unbiased real-time privacy and user focused code search engine for everyone; Join us at https://discourse.opengenus.org/ 
+- [OpenGenus/CSS](https://github.com/OpenGenus/CSS) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [OpenGenus/Django-User-Authentication](https://github.com/OpenGenus/Django-User-Authentication) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
 - [OpenGenus/drag_and_drop](https://github.com/OpenGenus/drag_and_drop) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
 - [OpenGenus/extension](https://github.com/OpenGenus/extension) topic: pushed_at:2018-10 star:0.0k fork:0.0k 
@@ -111,7 +112,7 @@
 - [OpenGenus/mobile-app](https://github.com/OpenGenus/mobile-app) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [OpenGenus/Numeric-Converter-in-Java](https://github.com/OpenGenus/Numeric-Converter-in-Java) topic: pushed_at:2023-03 star:0.0k fork:0.0k Numerical Converter in Java with GUI
 - [OpenGenus/password-generator-java](https://github.com/OpenGenus/password-generator-java) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
-- [OpenGenus/Pong-in-Java](https://github.com/OpenGenus/Pong-in-Java) topic: pushed_at:2023-07 star:0.0k fork:0.0k Pong in Java
+- [OpenGenus/Pong-in-Java](https://github.com/OpenGenus/Pong-in-Java) topic:java,opengenus-internship,pong,pong-game pushed_at:2023-12 star:0.0k fork:0.0k Pong in Java [developed by OG intern Manish Singh]
 - [OpenGenus/snake-game](https://github.com/OpenGenus/snake-game) topic:java,opengenus,opengenus-internship,snake-game pushed_at:2020-08 star:0.0k fork:0.0k Snake game developed in Java (developed by OpenGenus Intern, Priyanshi Sharma)
 - [OpenGenus/spell-checker-java](https://github.com/OpenGenus/spell-checker-java) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [OpenGenus/stopwatch-in-java](https://github.com/OpenGenus/stopwatch-in-java) topic:java,opengenus-internship,stopwatch pushed_at:2023-02 star:0.0k fork:0.0k Stopwatch Console Application developed in Java
@@ -193,7 +194,6 @@
 - [OpenGenus/cosmos-stat](https://github.com/OpenGenus/cosmos-stat) topic:cosmos,opengenus pushed_at:2017-10 star:0.0k fork:0.0k Tools to measure the reach of Cosmos in bringing information offline
 - [OpenGenus/cpp_compilation](https://github.com/OpenGenus/cpp_compilation) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/cricket_game](https://github.com/OpenGenus/cricket_game) topic: pushed_at:2019-09 star:0.0k fork:0.0k 
-- [OpenGenus/CSS](https://github.com/OpenGenus/CSS) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
 - [OpenGenus/data-store](https://github.com/OpenGenus/data-store) topic:data,opengenus pushed_at:2018-01 star:0.0k fork:0.0k Serving data to other OpenGenus services
 - [OpenGenus/discuss](https://github.com/OpenGenus/discuss) topic:discourse,discussion,friend-requests,friends,opengenus pushed_at:2019-10 star:0.0k fork:0.0k Find users to discuss anything and find a new friend
 - [OpenGenus/django_demo](https://github.com/OpenGenus/django_demo) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
