@@ -39,15 +39,15 @@
 - [ARM-software/AVH-AWS_MQTT_Demo](https://github.com/ARM-software/AVH-AWS_MQTT_Demo) topic: pushed_at:2022-08 star:0.0k fork:0.0k Implements an IoT application that connects to AWS cloud services, and with Continuous Integration (CI) tests performed on Arm Virtual Hardware.
 - [ARM-software/AVH-GetStarted](https://github.com/ARM-software/AVH-GetStarted) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [ARM-software/AVH-SystemModeling](https://github.com/ARM-software/AVH-SystemModeling) topic: pushed_at:2023-12 star:0.0k fork:0.0k Example Software Applications using Virtual Hardware (AVH).
-- [ARM-software/AVH-TFLmicrospeech](https://github.com/ARM-software/AVH-TFLmicrospeech) topic: pushed_at:2023-04 star:0.0k fork:0.1k Example: Micro speech for TensorFlow Lite
+- [ARM-software/AVH-TFLmicrospeech](https://github.com/ARM-software/AVH-TFLmicrospeech) topic: pushed_at:2023-12 star:0.0k fork:0.1k Example: Micro speech for TensorFlow Lite
 - [ARM-software/B-U585I-IOT02A-avh-demo](https://github.com/ARM-software/B-U585I-IOT02A-avh-demo) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
-- [ARM-software/bbr-acs](https://github.com/ARM-software/bbr-acs) topic: pushed_at:2023-11 star:0.0k fork:0.0k Arm SystemReady : BBR Compliance Suite
+- [ARM-software/bbr-acs](https://github.com/ARM-software/bbr-acs) topic: pushed_at:2023-12 star:0.0k fork:0.0k Arm SystemReady : BBR Compliance Suite
 - [ARM-software/bento-linker](https://github.com/ARM-software/bento-linker) topic:experimental,microcontroller pushed_at:2021-01 star:0.0k fork:0.0k A light-weight alternative to processes for microcontrollers.
 - [ARM-software/bsa-acs](https://github.com/ARM-software/bsa-acs) topic: pushed_at:2023-12 star:0.0k fork:0.0k Arm SystemReady : BSA Architecture Compliance Suite
 - [ARM-software/cca-rmm-acs](https://github.com/ARM-software/cca-rmm-acs) topic: pushed_at:2023-12 star:0.0k fork:0.0k Tests for verifying compliance of RMM implementations
 - [ARM-software/CMSIS-Compiler](https://github.com/ARM-software/CMSIS-Compiler) topic: pushed_at:2023-12 star:0.0k fork:0.0k CMSIS Compiler support for Arm Compiler
 - [ARM-software/CMSIS-DAP](https://github.com/ARM-software/CMSIS-DAP) topic: pushed_at:2023-12 star:0.0k fork:0.0k CoreSight Debug Access Port (DAP) debug probe protocol reference implementation (spin-off from CMSIS_5)
-- [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) topic: pushed_at:2022-12 star:0.1k fork:0.1k Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
+- [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) topic: pushed_at:2023-12 star:0.1k fork:0.1k Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
 - [ARM-software/CMSIS-Driver_Validation](https://github.com/ARM-software/CMSIS-Driver_Validation) topic: pushed_at:2023-11 star:0.0k fork:0.0k Test suite for verifying CMSIS-Driver implementations.
 - [ARM-software/CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) topic:cortex-a,cortex-m,dsp,embedded,fft,filter,fixed-point-arithmetic,matrix,ml,numpy pushed_at:2023-12 star:0.3k fork:0.1k CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
 - [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) topic: pushed_at:2023-11 star:0.5k fork:0.1k FreeRTOS adaptation for CMSIS-RTOS Version 2
@@ -60,7 +60,7 @@
 - [ARM-software/CMSIS_4](https://github.com/ARM-software/CMSIS_4) topic: pushed_at:2018-10 star:0.4k fork:0.4k Cortex Microcontroller Software Interface Standard (V4 no longer maintained)
 - [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) topic: pushed_at:2023-08 star:1.1k fork:1.1k CMSIS Version 5 Development Repository
 - [ARM-software/CMSIS_6](https://github.com/ARM-software/CMSIS_6) topic: pushed_at:2023-12 star:0.1k fork:0.0k Next major version of CMSIS (successor for CMSIS_5)
-- [ARM-software/Cortex_DFP](https://github.com/ARM-software/Cortex_DFP) topic: pushed_at:2023-10 star:0.0k fork:0.0k CMSIS generic Arm Cortex-M device family pack
+- [ARM-software/Cortex_DFP](https://github.com/ARM-software/Cortex_DFP) topic: pushed_at:2023-12 star:0.0k fork:0.0k CMSIS generic Arm Cortex-M device family pack
 - [ARM-software/CPA](https://github.com/ARM-software/CPA) topic: pushed_at:2017-11 star:0.0k fork:0.0k Contiguous page allocator project
 - [ARM-software/cryptocell-312-runtime](https://github.com/ARM-software/cryptocell-312-runtime) topic: pushed_at:2021-02 star:0.0k fork:0.0k CryptoCell 312 runtime code
 - [ARM-software/Cryptocell-703-TEE-Lib](https://github.com/ARM-software/Cryptocell-703-TEE-Lib) topic: pushed_at:2020-09 star:0.0k fork:0.0k Cryptocell 713/703 TEE Lib
@@ -86,15 +86,15 @@
 - [ARM-software/perf-libs-tools](https://github.com/ARM-software/perf-libs-tools) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
 - [ARM-software/progress64](https://github.com/ARM-software/progress64) topic: pushed_at:2023-10 star:0.1k fork:0.0k PROGRESS64 is a C library of scalable functions for concurrent programs, primarily focused on networking applications.
 - [ARM-software/psa-api](https://github.com/ARM-software/psa-api) topic: pushed_at:2023-12 star:0.0k fork:0.0k Documentation source and development of the PSA Certified API
-- [ARM-software/psa-arch-tests](https://github.com/ARM-software/psa-arch-tests) topic: pushed_at:2023-11 star:0.1k fork:0.1k Tests for verifying implementations of TBSA-v8M and the PSA Certified APIs
+- [ARM-software/psa-arch-tests](https://github.com/ARM-software/psa-arch-tests) topic: pushed_at:2023-12 star:0.1k fork:0.1k Tests for verifying implementations of TBSA-v8M and the PSA Certified APIs
 - [ARM-software/rasc-devkit](https://github.com/ARM-software/rasc-devkit) topic: pushed_at:2020-06 star:0.0k fork:0.0k 
 - [ARM-software/revere-demo](https://github.com/ARM-software/revere-demo) topic:accelerator,revere-amu,vfio,vfio-pci pushed_at:2020-09 star:0.0k fork:0.0k Example program demonstrating the use of the Revere-AMU System Architecture from userspace, with VFIO
-- [ARM-software/rme-sysarch-acs](https://github.com/ARM-software/rme-sysarch-acs) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
-- [ARM-software/sbsa-acs](https://github.com/ARM-software/sbsa-acs) topic: pushed_at:2023-11 star:0.1k fork:0.1k ARM Enterprise: SBSA Architecture Compliance Suite
+- [ARM-software/rme-sysarch-acs](https://github.com/ARM-software/rme-sysarch-acs) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
+- [ARM-software/sbsa-acs](https://github.com/ARM-software/sbsa-acs) topic: pushed_at:2023-12 star:0.1k fork:0.1k ARM Enterprise: SBSA Architecture Compliance Suite
 - [ARM-software/scmi-tests](https://github.com/ARM-software/scmi-tests) topic: pushed_at:2021-09 star:0.0k fork:0.0k Test suite for SCMI PDD
 - [ARM-software/SCP-firmware](https://github.com/ARM-software/SCP-firmware) topic: pushed_at:2023-12 star:0.2k fork:0.2k Read-only mirror of System Control Processor (SCP) firmware
 - [ARM-software/sdm-api](https://github.com/ARM-software/sdm-api) topic: pushed_at:2022-10 star:0.0k fork:0.0k Secure Debug Manager API
-- [ARM-software/SDS-Framework](https://github.com/ARM-software/SDS-Framework) topic: pushed_at:2023-11 star:0.0k fork:0.0k Synchronous Data Stream (SDS) Framework allowing to record real-world data off a device and playing it back on Arm Virtual Hardware.
+- [ARM-software/SDS-Framework](https://github.com/ARM-software/SDS-Framework) topic: pushed_at:2023-12 star:0.0k fork:0.0k Synchronous Data Stream (SDS) Framework allowing to record real-world data off a device and playing it back on Arm Virtual Hardware.
 - [ARM-software/server-data-plane](https://github.com/ARM-software/server-data-plane) topic: pushed_at:2017-05 star:0.0k fork:0.0k Modified OpenDataPlane APIs for general purpose server applications with example applications.
 - [ARM-software/Shackleton-Framework](https://github.com/ARM-software/Shackleton-Framework) topic: pushed_at:2022-06 star:0.0k fork:0.0k A generic genetic programming framework that aims to make genetic programming easier for a myriad of uses. Currently, the main target is to use the framework for code optimization in tandem with the LLVM framework.
 - [ARM-software/synchronization-benchmarks](https://github.com/ARM-software/synchronization-benchmarks) topic:micro-benchmarks,synchronization pushed_at:2023-11 star:0.0k fork:0.0k Collection of synchronization micro-benchmarks and traces from infrastructure applications
@@ -169,7 +169,7 @@
 
 ## HTML
 
-- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) topic: pushed_at:2023-12 star:0.7k fork:0.2k Application Binary Interface for the Arm® Architecture
+- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) topic: pushed_at:2023-12 star:0.8k fork:0.2k Application Binary Interface for the Arm® Architecture
 - [ARM-software/coresight-wire-protocol](https://github.com/ARM-software/coresight-wire-protocol) topic: pushed_at:2023-09 star:0.0k fork:0.0k Coresight Wire Protocol (CSWP) Server/Client and streaming trace examples.
 
 ## Java
@@ -210,8 +210,8 @@
 - [ARM-software/vscode-cmsis-csolution](https://github.com/ARM-software/vscode-cmsis-csolution) topic: pushed_at:2023-12 star:0.0k fork:0.0k Extension support for VS Code CMSIS Project Extension
 - [ARM-software/vscode-device-manager](https://github.com/ARM-software/vscode-device-manager) topic: pushed_at:2023-11 star:0.0k fork:0.0k Extension support for VS Code Device Manager Extension
 - [ARM-software/vscode-embedded-debug](https://github.com/ARM-software/vscode-embedded-debug) topic: pushed_at:2023-11 star:0.0k fork:0.0k Extension support for VS Code Embedded Debug Extension
-- [ARM-software/vscode-environment-manager](https://github.com/ARM-software/vscode-environment-manager) topic: pushed_at:2023-11 star:0.0k fork:0.0k Extension support for VS Code Environment Manager Extension
-- [ARM-software/vscode-keil-studio-pack](https://github.com/ARM-software/vscode-keil-studio-pack) topic: pushed_at:2023-11 star:0.0k fork:0.0k Extension pack for all VS Code extensions
+- [ARM-software/vscode-environment-manager](https://github.com/ARM-software/vscode-environment-manager) topic: pushed_at:2023-12 star:0.0k fork:0.0k Extension support for VS Code Environment Manager Extension
+- [ARM-software/vscode-keil-studio-pack](https://github.com/ARM-software/vscode-keil-studio-pack) topic: pushed_at:2023-12 star:0.0k fork:0.0k Extension pack for all VS Code extensions
 - [ARM-software/vscode-remote-build](https://github.com/ARM-software/vscode-remote-build) topic: pushed_at:2023-12 star:0.0k fork:0.0k Extension for remote build service
 - [ARM-software/vscode-virtual-hardware](https://github.com/ARM-software/vscode-virtual-hardware) topic: pushed_at:2023-09 star:0.0k fork:0.0k Extension support for VS Code Virtual Hardware Extension
 

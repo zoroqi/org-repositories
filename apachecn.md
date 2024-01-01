@@ -115,7 +115,7 @@
 
 - [apachecn/nls-sdk-java-demo](https://github.com/apachecn/nls-sdk-java-demo) topic: pushed_at:2019-09 star:0.0k fork:0.0k 阿里云智能语音交互DEMO
 - [apachecn/springcloud-book](https://github.com/apachecn/springcloud-book) topic: pushed_at:2019-03 star:0.0k fork:0.0k 书籍《深入理解Spring Cloud与微服务构建》的源码
-- [apachecn/TI-Analysis](https://github.com/apachecn/TI-Analysis) topic:pua,ti-analysis,uml pushed_at:2021-02 star:0.0k fork:0.0k 关于中国市场培训机构运作流程及运营模式分析论文
+- [apachecn/TI-Analysis](https://github.com/apachecn/TI-Analysis) topic:pua,ti-analysis,uml pushed_at:2021-02 star:0.1k fork:0.0k 关于中国市场培训机构运作流程及运营模式分析论文
 - [apachecn/xxl-job](https://github.com/apachecn/xxl-job) topic: pushed_at:2019-05 star:0.0k fork:0.0k A lightweight distributed task scheduling framework.（分布式任务调度平台XXL-JOB）
 - [apachecn/zufang-note](https://github.com/apachecn/zufang-note) topic: pushed_at:2021-03 star:0.0k fork:0.0k 参考问答社区内容，以及结合房产网相关案例所写的租房防坑记录
 
@@ -221,14 +221,14 @@
 - [apachecn/apachecn-php-zh](https://github.com/apachecn/apachecn-php-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k :books: [译] ApacheCN PHP 译文集
 - [apachecn/apachecn-php-zh-pt2](https://github.com/apachecn/apachecn-php-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-prog-wiki](https://github.com/apachecn/apachecn-prog-wiki) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
-- [apachecn/apachecn-python-zh](https://github.com/apachecn/apachecn-python-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k :books: ApacheCN Python 译文集
+- [apachecn/apachecn-python-zh](https://github.com/apachecn/apachecn-python-zh) topic: pushed_at:2022-07 star:0.1k fork:0.0k :books: ApacheCN Python 译文集
 - [apachecn/apachecn-python-zh-pt2](https://github.com/apachecn/apachecn-python-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-python-zh-pt3](https://github.com/apachecn/apachecn-python-zh-pt3) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-python-zh-pt4](https://github.com/apachecn/apachecn-python-zh-pt4) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [apachecn/apachecn-pythonweb-zh](https://github.com/apachecn/apachecn-pythonweb-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-pythonweb-zh-pt2](https://github.com/apachecn/apachecn-pythonweb-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-quant-zh](https://github.com/apachecn/apachecn-quant-zh) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
-- [apachecn/apachecn-react-zh](https://github.com/apachecn/apachecn-react-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
+- [apachecn/apachecn-react-zh](https://github.com/apachecn/apachecn-react-zh) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [apachecn/apachecn-react-zh-pt2](https://github.com/apachecn/apachecn-react-zh-pt2) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [apachecn/apachecn-ruby-zh](https://github.com/apachecn/apachecn-ruby-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k :book: ApacheCN Ruby 译文集
 - [apachecn/apachecn-scicomp-zh](https://github.com/apachecn/apachecn-scicomp-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
@@ -289,7 +289,7 @@
 - [apachecn/elasticsearch-doc-zh](https://github.com/apachecn/elasticsearch-doc-zh) topic:elasticsearch pushed_at:2020-12 star:0.1k fork:0.0k :book: [译] elasticsearch 中文文档
 - [apachecn/eldernode-blog-zh](https://github.com/apachecn/eldernode-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/fasttext-doc-zh](https://github.com/apachecn/fasttext-doc-zh) topic: pushed_at:2020-11 star:0.1k fork:0.0k FastText 中文文档
-- [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) topic:book,feature-engineering,machine-learning,python pushed_at:2023-08 star:2.4k fork:0.7k :book: [译] 面向机器学习的特征工程
+- [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) topic:book,feature-engineering,machine-learning,python pushed_at:2023-08 star:2.5k fork:0.7k :book: [译] 面向机器学习的特征工程
 - [apachecn/ffmpeg-doc-zh](https://github.com/apachecn/ffmpeg-doc-zh) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [apachecn/figment-tut-zh](https://github.com/apachecn/figment-tut-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Figment 中文系列教程
 - [apachecn/financial](https://github.com/apachecn/financial) topic: pushed_at:2023-07 star:0.0k fork:0.0k 投资理财 - 专注于智能算法投资
@@ -562,7 +562,7 @@
 - [apachecn/autocut](https://github.com/apachecn/autocut) topic: pushed_at:2023-06 star:0.0k fork:0.0k 用文本编辑器剪视频
 - [apachecn/awesome-ai-painting](https://github.com/apachecn/awesome-ai-painting) topic: pushed_at:2023-04 star:0.0k fork:0.0k AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
 - [apachecn/awesome-architecture](https://github.com/apachecn/awesome-architecture) topic: pushed_at:2021-01 star:0.0k fork:0.0k 架构师技术图谱，助你早日成为架构师
-- [apachecn/awesome-bci-zh](https://github.com/apachecn/awesome-bci-zh) topic:awesome,bci pushed_at:2022-08 star:0.0k fork:0.0k 脑机接口资源汇总
+- [apachecn/awesome-bci-zh](https://github.com/apachecn/awesome-bci-zh) topic:awesome,bci pushed_at:2022-08 star:0.1k fork:0.0k 脑机接口资源汇总
 - [apachecn/awesome-chatgpt-prompts](https://github.com/apachecn/awesome-chatgpt-prompts) topic: pushed_at:2023-06 star:0.0k fork:0.0k This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [apachecn/awesome-chatgpt-prompts-zh](https://github.com/apachecn/awesome-chatgpt-prompts-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [apachecn/awesome-design-patterns](https://github.com/apachecn/awesome-design-patterns) topic: pushed_at:2022-12 star:0.0k fork:0.0k A curated list of software and architecture related design patterns.
@@ -1197,7 +1197,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2023-11 star:37.1k fork:11.4k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2023-11 star:37.2k fork:11.4k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库

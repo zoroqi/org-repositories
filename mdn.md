@@ -52,7 +52,7 @@
 - [mdn/insights](https://github.com/mdn/insights) topic: pushed_at:2022-04 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) topic:css,editor,examples,html,interactive,javascript,mdn,nodejs pushed_at:2023-12 star:0.7k fork:0.5k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) topic: pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
-- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2023-12 star:6.4k fork:26.4k GitHub repo for the MDN Learning Area. 
+- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2023-12 star:6.5k fork:26.4k GitHub repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) topic: pushed_at:2022-04 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
 - [mdn/learning-area-pt-br](https://github.com/mdn/learning-area-pt-br) topic: pushed_at:2022-09 star:0.0k fork:0.1k The MDN Learning Area code examples translated into Brazilian Portuguese.
 - [mdn/machine-translation-testing-content](https://github.com/mdn/machine-translation-testing-content) topic: pushed_at:2020-11 star:0.0k fork:0.0k This is a repository for testing machine translations of English content.
@@ -84,7 +84,7 @@
 - [mdn/browser-compat-toolkit](https://github.com/mdn/browser-compat-toolkit) topic: pushed_at:2019-04 star:0.0k fork:0.0k Toolkit for visualizing and editing MDN's browser compatibility data
 - [mdn/browsercompat-cm](https://github.com/mdn/browsercompat-cm) topic:unmaintained pushed_at:2017-05 star:0.0k fork:0.0k Browsercompat - Contribution & Moderation UI
 - [mdn/canvas-raycaster](https://github.com/mdn/canvas-raycaster) topic:3d-environment,canvas,demo,javascript,raycast pushed_at:2022-09 star:0.1k fork:0.0k Using the <canvas> element to do software rendering of a 3D environment with ray-casting
-- [mdn/data](https://github.com/mdn/data) topic:css,data,json,json-data pushed_at:2023-11 star:0.7k fork:0.2k This repository contains general data for Web technologies
+- [mdn/data](https://github.com/mdn/data) topic:css,data,json,json-data pushed_at:2023-12 star:0.7k fork:0.2k This repository contains general data for Web technologies
 - [mdn/doc-linter-rules](https://github.com/mdn/doc-linter-rules) topic:linting-rules,mdn pushed_at:2019-04 star:0.0k fork:0.0k Linting rules used to lint MDN Web Documents
 - [mdn/doc-linter-webextension](https://github.com/mdn/doc-linter-webextension) topic:linter,mdn,webextension pushed_at:2019-08 star:0.0k fork:0.0k Webextension to lint MDN documents
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) topic:channel-messaging,demo,dom-manipulation,drag-drop,javascript,matchmedia,mdn-docs,pointer-events,pointer-lock,touch-events pushed_at:2023-12 star:2.9k fork:1.7k Code examples that accompany various MDN DOM and Web API documentation pages
@@ -127,8 +127,8 @@
 
 ## Markdown
 
-- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2023-12 star:8.4k fork:21.7k The content behind MDN Web Docs
-- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2023-12 star:1.5k fork:7.6k The source repository of all translated content for MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2023-12 star:8.4k fork:22.0k The content behind MDN Web Docs
+- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2023-12 star:1.5k fork:7.7k The source repository of all translated content for MDN Web Docs
 
 ## Others
 
@@ -188,7 +188,7 @@
 
 ## Vue
 
-- [mdn/release-dashboard](https://github.com/mdn/release-dashboard) topic: pushed_at:2023-12 star:0.0k fork:0.0k Small app to display bugzilla bugs which need dev docs
+- [mdn/release-dashboard](https://github.com/mdn/release-dashboard) topic: pushed_at:2024-01 star:0.0k fork:0.0k Small app to display bugzilla bugs which need dev docs
 - [mdn/todo-vue](https://github.com/mdn/todo-vue) topic:mdn,todo,vue,vuejs pushed_at:2023-12 star:0.1k fork:0.1k Sample todo app built with the Vue framework
 
 ## WebAssembly
