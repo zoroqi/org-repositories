@@ -55,7 +55,7 @@
 ## Go
 
 - [EFForg/starttls-backend](https://github.com/EFForg/starttls-backend) topic: pushed_at:2020-06 star:0.0k fork:0.0k STARTTLS Everywhere web backend and checker
-- [EFForg/yaya](https://github.com/EFForg/yaya) topic: pushed_at:2021-08 star:0.2k fork:0.0k Yet Another Yara Automaton - Automatically curate open source yara rules and run scans
+- [EFForg/yaya](https://github.com/EFForg/yaya) topic: pushed_at:2023-12 star:0.2k fork:0.0k Yet Another Yara Automaton - Automatically curate open source yara rules and run scans
 
 ## HTML
 
@@ -124,7 +124,7 @@
 
 ## Python
 
-- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) topic: pushed_at:2023-12 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
+- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) topic: pushed_at:2024-01 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
 - [EFForg/call-congress](https://github.com/EFForg/call-congress) topic: pushed_at:2021-12 star:0.0k fork:0.0k a simple server that connects calls between citizens and their congress person using the Twilio API
 - [EFForg/contact-congress](https://github.com/EFForg/contact-congress) topic: pushed_at:2014-06 star:0.0k fork:0.0k Sending electronic written messages to members of Congress by reverse engineering their contact forms.
 - [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) topic:4g,bladerf,imsi-catcher,imsi-catchers,libbladerf,lte,raspberry-pi,security,usrp,wigle pushed_at:2023-02 star:0.9k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
