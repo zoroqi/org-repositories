@@ -64,7 +64,7 @@
 - [twitter-archive/jsr166e](https://github.com/twitter-archive/jsr166e) topic: pushed_at:2014-02 star:0.0k fork:0.0k JSR166e for Twitter
 - [twitter-archive/libcrunch](https://github.com/twitter-archive/libcrunch) topic: pushed_at:2017-03 star:0.1k fork:0.0k A lightweight mapping framework that maps data objects to a number of nodes, subject to constraints
 - [twitter-archive/PerfTracepoint](https://github.com/twitter-archive/PerfTracepoint) topic: pushed_at:2014-12 star:0.0k fork:0.0k Perf tracepoint support for the JVM
-- [twitter-archive/twitter-kit-android](https://github.com/twitter-archive/twitter-kit-android) topic:android,java,twitter pushed_at:2019-02 star:0.8k fork:0.4k Twitter Kit for Android
+- [twitter-archive/twitter-kit-android](https://github.com/twitter-archive/twitter-kit-android) topic:android,java,twitter pushed_at:2019-02 star:0.8k fork:0.3k Twitter Kit for Android
 
 ## JavaScript
 
@@ -150,7 +150,7 @@
 - [twitter-archive/scala-csp-config](https://github.com/twitter-archive/scala-csp-config) topic: pushed_at:2015-10 star:0.0k fork:0.0k A Scala library for configuring Content Security Policy headers for HTTP responses.
 - [twitter-archive/scala-json](https://github.com/twitter-archive/scala-json) topic: pushed_at:2019-12 star:0.0k fork:0.0k JSON in Scala (deprecated)
 - [twitter-archive/scala-zookeeper-client](https://github.com/twitter-archive/scala-zookeeper-client) topic: pushed_at:2013-11 star:0.1k fork:0.0k A Scala client library for ZooKeeper (DEPRECATED)
-- [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake) topic: pushed_at:2020-07 star:7.5k fork:1.2k Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
+- [twitter-archive/snowflake](https://github.com/twitter-archive/snowflake) topic: pushed_at:2020-07 star:7.5k fork:1.1k Snowflake is a network service for generating unique ID numbers at high scale with some simple guarantees.
 - [twitter-archive/standard-project](https://github.com/twitter-archive/standard-project) topic: pushed_at:2013-05 star:0.1k fork:0.0k A slightly more standard sbt project plugin library 
 - [twitter-archive/twitterActors](https://github.com/twitter-archive/twitterActors) topic: pushed_at:2010-10 star:0.0k fork:0.0k Improved Scala actors library; used internally at Twitter
 

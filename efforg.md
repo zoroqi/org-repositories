@@ -80,7 +80,7 @@
 - [EFForg/cyberspying](https://github.com/EFForg/cyberspying) topic: pushed_at:2015-12 star:0.0k fork:0.0k cyberspying.eff.org twitter tool
 - [EFForg/fight215](https://github.com/EFForg/fight215) topic: pushed_at:2015-06 star:0.0k fork:0.0k 
 - [EFForg/find-aa-domains](https://github.com/EFForg/find-aa-domains) topic: pushed_at:2019-04 star:0.0k fork:0.0k Create a script to find domains in the PB pre-block list which are mentioned in the Acceptable Ads list as well
-- [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) topic:https,javascript,ruleset pushed_at:2023-01 star:3.4k fork:1.2k A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
+- [EFForg/https-everywhere](https://github.com/EFForg/https-everywhere) topic:https,javascript,ruleset pushed_at:2023-01 star:3.4k fork:1.1k A browser extension that encrypts your communications with many websites that offer HTTPS but still allow unencrypted connections.
 - [EFForg/https-everywhere-labeller](https://github.com/EFForg/https-everywhere-labeller) topic: pushed_at:2020-06 star:0.0k fork:0.0k Alexa Labeller for HTTPS Everywhere Repo
 - [EFForg/httpse-ruleset-tests](https://github.com/EFForg/httpse-ruleset-tests) topic: pushed_at:2013-09 star:0.0k fork:0.0k 
 - [EFForg/ngw-website](https://github.com/EFForg/ngw-website) topic: pushed_at:2017-01 star:0.0k fork:0.0k 
@@ -109,7 +109,7 @@
 - [EFForg/https-docs](https://github.com/EFForg/https-docs) topic: pushed_at:2018-01 star:0.0k fork:0.0k 
 - [EFForg/OpenWireless-WebUI](https://github.com/EFForg/OpenWireless-WebUI) topic: pushed_at:2014-03 star:0.0k fork:0.0k Open Wireless Web UI
 - [EFForg/ow-python](https://github.com/EFForg/ow-python) topic: pushed_at:2014-07 star:0.0k fork:0.0k stripped down implementation of python for openwireless
-- [EFForg/phantom-of-the-capitol](https://github.com/EFForg/phantom-of-the-capitol) topic: pushed_at:2023-01 star:0.2k fork:0.1k 
+- [EFForg/phantom-of-the-capitol](https://github.com/EFForg/phantom-of-the-capitol) topic: pushed_at:2024-03 star:0.2k fork:0.1k 
 - [EFForg/psi-tumblr-uploader](https://github.com/EFForg/psi-tumblr-uploader) topic: pushed_at:2014-08 star:0.0k fork:0.0k 
 - [EFForg/SEC-LevelUp](https://github.com/EFForg/SEC-LevelUp) topic: pushed_at:2023-03 star:0.0k fork:0.0k This repository is for the Level Up community to report issues with the Security Educatoin Companion, which is currently maintained by EFF. EFF is not actively developing this site and is not accepting feature requests..
 - [EFForg/sentry](https://github.com/EFForg/sentry) topic: pushed_at:2016-08 star:0.0k fork:0.0k docker-compose setup for sentry exception manager
@@ -175,7 +175,7 @@
 
 ## Shell
 
-- [EFForg/badger-swarm](https://github.com/EFForg/badger-swarm) topic: pushed_at:2023-10 star:0.0k fork:0.0k Runs distributed Badger Sett scans on Digital Ocean.
+- [EFForg/badger-swarm](https://github.com/EFForg/badger-swarm) topic: pushed_at:2024-02 star:0.0k fork:0.0k Runs distributed Badger Sett scans on Digital Ocean.
 - [EFForg/duraconf](https://github.com/EFForg/duraconf) topic: pushed_at:2020-06 star:0.0k fork:0.0k duraconf - A collection of hardened configuration files for SSL/TLS services
 - [EFForg/roaming-android-mitm](https://github.com/EFForg/roaming-android-mitm) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
 
