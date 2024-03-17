@@ -55,7 +55,7 @@
 ## Go
 
 - [EFForg/starttls-backend](https://github.com/EFForg/starttls-backend) topic: pushed_at:2020-06 star:0.0k fork:0.0k STARTTLS Everywhere web backend and checker
-- [EFForg/yaya](https://github.com/EFForg/yaya) topic: pushed_at:2023-12 star:0.2k fork:0.0k Yet Another Yara Automaton - Automatically curate open source yara rules and run scans
+- [EFForg/yaya](https://github.com/EFForg/yaya) topic: pushed_at:2023-12 star:0.3k fork:0.0k Yet Another Yara Automaton - Automatically curate open source yara rules and run scans
 
 ## HTML
 
@@ -86,7 +86,7 @@
 - [EFForg/ngw-website](https://github.com/EFForg/ngw-website) topic: pushed_at:2017-01 star:0.0k fork:0.0k 
 - [EFForg/node-wethepeople](https://github.com/EFForg/node-wethepeople) topic: pushed_at:2015-09 star:0.0k fork:0.0k Node wrapper for the We the People API
 - [EFForg/OpenWireless](https://github.com/EFForg/OpenWireless) topic: pushed_at:2022-03 star:0.7k fork:0.1k The official home of the EFF OpenWireless Project
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) topic:browser-fingerprinting,chrome-extension,cookies,fingerprinting,firefox-extension,javascript,privacy,tracking,webextension pushed_at:2024-02 star:3.0k fork:0.4k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) topic:browser-fingerprinting,chrome-extension,cookies,fingerprinting,firefox-extension,javascript,privacy,tracking,webextension pushed_at:2024-03 star:3.0k fork:0.4k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [EFForg/privacybadgerfirefox-legacy](https://github.com/EFForg/privacybadgerfirefox-legacy) topic: pushed_at:2016-12 star:0.4k fork:0.1k LEGACY Privacy Badger for Firefox SEE README
 - [EFForg/psi-tumblr-crawler](https://github.com/EFForg/psi-tumblr-crawler) topic: pushed_at:2015-08 star:0.0k fork:0.0k 
 - [EFForg/pushserver](https://github.com/EFForg/pushserver) topic: pushed_at:2018-03 star:0.0k fork:0.0k A server for sending push notifications to mobile apps
@@ -124,7 +124,7 @@
 
 ## Python
 
-- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) topic: pushed_at:2024-02 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
+- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) topic: pushed_at:2024-03 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
 - [EFForg/call-congress](https://github.com/EFForg/call-congress) topic: pushed_at:2021-12 star:0.0k fork:0.0k a simple server that connects calls between citizens and their congress person using the Twilio API
 - [EFForg/contact-congress](https://github.com/EFForg/contact-congress) topic: pushed_at:2014-06 star:0.0k fork:0.0k Sending electronic written messages to members of Congress by reverse engineering their contact forms.
 - [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) topic:4g,bladerf,imsi-catcher,imsi-catchers,libbladerf,lte,raspberry-pi,security,usrp,wigle pushed_at:2023-02 star:0.9k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
@@ -167,7 +167,7 @@
 
 ## SCSS
 
-- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) topic: pushed_at:2024-02 star:0.0k fork:0.0k Code and content of https://privacybadger.org
+- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) topic: pushed_at:2024-03 star:0.0k fork:0.0k Code and content of https://privacybadger.org
 
 ## Sass
 

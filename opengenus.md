@@ -12,9 +12,9 @@
 - [HTML](#html) (41)
 - [Java](#java) (20)
 - [JavaScript](#javascript) (41)
-- [Jupyter Notebook](#jupyter-notebook) (12)
+- [Jupyter Notebook](#jupyter-notebook) (13)
 - [OpenEdge ABL](#openedge-abl) (1)
-- [Others](#others) (53)
+- [Others](#others) (52)
 - [Processing](#processing) (1)
 - [Python](#python) (53)
 - [Ruby](#ruby) (3)
@@ -59,11 +59,11 @@
 ## HTML
 
 - [OpenGenus/Bomberman-Game-in-HTML](https://github.com/OpenGenus/Bomberman-Game-in-HTML) topic:bomberman,css,game,html,javascript,web-development pushed_at:2023-07 star:0.0k fork:0.0k Bomberman Game in HTML, CSS, JavaScript [by OpenGenus Intern Yingzi Tang]
-- [OpenGenus/checklist](https://github.com/OpenGenus/checklist) topic:checklist,opengenus,opengenus-internship pushed_at:2024-02 star:0.0k fork:0.0k OpenGenus Checklist project: Learn everything at your own pace and keep track 🐐 Pioneering the future of organized sequential knowledge
+- [OpenGenus/checklist](https://github.com/OpenGenus/checklist) topic:checklist,opengenus,opengenus-internship pushed_at:2024-03 star:0.0k fork:0.0k OpenGenus Checklist project: Learn everything at your own pace and keep track 🐐 Pioneering the future of organized sequential knowledge
 - [OpenGenus/clipboard_html](https://github.com/OpenGenus/clipboard_html) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/collaboration](https://github.com/OpenGenus/collaboration) topic: pushed_at:2018-06 star:0.0k fork:0.0k 
 - [OpenGenus/cookies](https://github.com/OpenGenus/cookies) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
-- [OpenGenus/cosmos-search](https://github.com/OpenGenus/cosmos-search) topic:cosmos,django,hacktoberfest,hacktoberfest2021,opengenus,python,search-engine pushed_at:2022-12 star:0.1k fork:0.1k :seedling: The next generation unbiased real-time privacy and user focused code search engine for everyone; Join us at https://discourse.opengenus.org/ 
+- [OpenGenus/cosmos-search](https://github.com/OpenGenus/cosmos-search) topic:cosmos,django,hacktoberfest,hacktoberfest2021,opengenus,python,search-engine pushed_at:2022-12 star:0.2k fork:0.1k :seedling: The next generation unbiased real-time privacy and user focused code search engine for everyone; Join us at https://discourse.opengenus.org/ 
 - [OpenGenus/CSS](https://github.com/OpenGenus/CSS) topic: pushed_at:2024-02 star:0.0k fork:0.0k 
 - [OpenGenus/Django-User-Authentication](https://github.com/OpenGenus/Django-User-Authentication) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
 - [OpenGenus/drag_and_drop](https://github.com/OpenGenus/drag_and_drop) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
@@ -176,6 +176,7 @@
 - [OpenGenus/Fuel-Efficiency](https://github.com/OpenGenus/Fuel-Efficiency) topic: pushed_at:2023-10 star:0.0k fork:0.0k ML model to predict Fuel Efficiency
 - [OpenGenus/Identify-creditworthy-borrowers](https://github.com/OpenGenus/Identify-creditworthy-borrowers) topic: pushed_at:2023-07 star:0.0k fork:0.0k Identifying creditworthy borrowers
 - [OpenGenus/language](https://github.com/OpenGenus/language) topic: pushed_at:2019-09 star:0.0k fork:0.0k 
+- [OpenGenus/learn-DL](https://github.com/OpenGenus/learn-DL) topic: pushed_at:2024-03 star:0.0k fork:0.0k Learn Deep Learning
 - [OpenGenus/Mario-Game-RL](https://github.com/OpenGenus/Mario-Game-RL) topic: pushed_at:2023-07 star:0.0k fork:0.0k Mario Game Reinforcement Learning
 - [OpenGenus/object_detection_hog](https://github.com/OpenGenus/object_detection_hog) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/pollution](https://github.com/OpenGenus/pollution) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
@@ -218,7 +219,6 @@
 - [OpenGenus/ITAC](https://github.com/OpenGenus/ITAC) topic:contest,opengenus pushed_at:2023-07 star:0.0k fork:0.0k Participate in Indian Technical Authorship Contest (ITAC) 2023
 - [OpenGenus/Join_OpenGenus](https://github.com/OpenGenus/Join_OpenGenus) topic:community,help,internship,opengenus pushed_at:2023-09 star:0.2k fork:0.2k  Welcome to the OpenGenus Community ! 🉑 Do join our Internship program: https://discourse.opengenus.org/t/internship-guidelines-at-opengenus/2335/  :walking_woman: .
 - [OpenGenus/kojiki](https://github.com/OpenGenus/kojiki) topic: pushed_at:2019-01 star:0.0k fork:0.0k 
-- [OpenGenus/learn-DL](https://github.com/OpenGenus/learn-DL) topic: pushed_at:2024-01 star:0.0k fork:0.0k Learn Deep Learning
 - [OpenGenus/localmedia](https://github.com/OpenGenus/localmedia) topic: pushed_at:2018-04 star:0.0k fork:0.0k In regard to discussion based on https://github.com/orgs/OpenGenus/teams/contributors/discussions/1
 - [OpenGenus/matrix-multiplication-in-cpp](https://github.com/OpenGenus/matrix-multiplication-in-cpp) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [OpenGenus/memory-game-in-java](https://github.com/OpenGenus/memory-game-in-java) topic: pushed_at:2023-08 star:0.0k fork:0.0k Memory Game in Java
