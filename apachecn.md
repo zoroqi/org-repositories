@@ -221,7 +221,7 @@
 - [apachecn/apachecn-php-zh-pt2](https://github.com/apachecn/apachecn-php-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-prog-wiki](https://github.com/apachecn/apachecn-prog-wiki) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [apachecn/apachecn-python-zh](https://github.com/apachecn/apachecn-python-zh) topic: pushed_at:2022-07 star:0.1k fork:0.0k :books: ApacheCN Python 译文集
-- [apachecn/apachecn-python-zh-pt2](https://github.com/apachecn/apachecn-python-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
+- [apachecn/apachecn-python-zh-pt2](https://github.com/apachecn/apachecn-python-zh-pt2) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [apachecn/apachecn-python-zh-pt3](https://github.com/apachecn/apachecn-python-zh-pt3) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-python-zh-pt4](https://github.com/apachecn/apachecn-python-zh-pt4) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [apachecn/apachecn-pythonweb-zh](https://github.com/apachecn/apachecn-pythonweb-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
@@ -440,7 +440,7 @@
 - [apachecn/pythonlibrary-blog-zh](https://github.com/apachecn/pythonlibrary-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/pythonspot-zh](https://github.com/apachecn/pythonspot-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k :books: [译] PythonSpot 中文系列教程
 - [apachecn/quantinsti-blog-zh](https://github.com/apachecn/quantinsti-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Quantinsti 博客中文翻译
-- [apachecn/rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) topic: pushed_at:2022-06 star:0.1k fork:0.0k 
+- [apachecn/rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) topic: pushed_at:2024-03 star:0.1k fork:0.0k 
 - [apachecn/RateMySupervisor-1](https://github.com/apachecn/RateMySupervisor-1) topic: pushed_at:2022-04 star:0.0k fork:0.0k 永久免费开源的导师评价数据、数据爬虫、无需编程基础的展示网页以及新信息补充平台
 - [apachecn/re4e-zh](https://github.com/apachecn/re4e-zh) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [apachecn/realpython-zh](https://github.com/apachecn/realpython-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -481,7 +481,7 @@
 - [apachecn/theme-apachecn](https://github.com/apachecn/theme-apachecn) topic: pushed_at:2020-04 star:0.0k fork:0.0k 
 - [apachecn/thenewstack-blog-zh](https://github.com/apachecn/thenewstack-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/think-py-2e-zh](https://github.com/apachecn/think-py-2e-zh) topic: pushed_at:2020-12 star:0.1k fork:0.0k :book: [译] Think Python 中文第二版
-- [apachecn/towardsai-blog-zh](https://github.com/apachecn/towardsai-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
+- [apachecn/towardsai-blog-zh](https://github.com/apachecn/towardsai-blog-zh) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [apachecn/towardsdatascience-blog-zh-2016to2018](https://github.com/apachecn/towardsdatascience-blog-zh-2016to2018) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/towardsdatascience-blog-zh-2019](https://github.com/apachecn/towardsdatascience-blog-zh-2019) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/towardsdatascience-blog-zh-2022](https://github.com/apachecn/towardsdatascience-blog-zh-2022) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
@@ -782,7 +782,7 @@
 - [apachecn/hooks](https://github.com/apachecn/hooks) topic: pushed_at:2023-03 star:0.0k fork:0.0k A high-quality & reliable React Hooks library.
 - [apachecn/HOW2J-tuts](https://github.com/apachecn/HOW2J-tuts) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [apachecn/huazhang-ai-book](https://github.com/apachecn/huazhang-ai-book) topic: pushed_at:2023-01 star:0.0k fork:0.0k :books: 华章智能科学技术丛书
-- [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.1k fork:0.1k :books: 华章计算机科学丛书高清扫描
+- [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.2k fork:0.1k :books: 华章计算机科学丛书高清扫描
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) topic: pushed_at:2023-02 star:0.0k fork:0.0k :book: 华章经管丛书高清扫描
 - [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.1k fork:0.0k :books: 华章数学丛书高清扫描
 - [apachecn/huggingface-doc-zh](https://github.com/apachecn/huggingface-doc-zh) topic: pushed_at:2023-11 star:0.0k fork:0.0k Hugging Face - 文档库(中文版)
@@ -1192,7 +1192,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-03 star:37.7k fork:11.3k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-03 star:37.9k fork:11.3k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
