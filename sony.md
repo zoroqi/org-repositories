@@ -43,7 +43,7 @@
 
 ## CSS
 
-- [sony/creativeai](https://github.com/sony/creativeai) topic: pushed_at:2024-01 star:0.1k fork:0.0k 
+- [sony/creativeai](https://github.com/sony/creativeai) topic: pushed_at:2024-03 star:0.1k fork:0.0k 
 
 ## Cuda
 
@@ -77,7 +77,7 @@
 - [sony/generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) topic: pushed_at:2016-05 star:0.0k fork:0.0k 
 - [sony/huis-ui-creator](https://github.com/sony/huis-ui-creator) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [sony/isren](https://github.com/sony/isren) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
-- [sony/nmos-js](https://github.com/sony/nmos-js) topic:javascript,nmos,react pushed_at:2023-03 star:0.0k fork:0.0k An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
+- [sony/nmos-js](https://github.com/sony/nmos-js) topic:javascript,nmos,react pushed_at:2024-03 star:0.0k fork:0.0k An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
 
 ## Jupyter Notebook
 
@@ -99,11 +99,11 @@
 
 - [sony/ai-research-code](https://github.com/sony/ai-research-code) topic: pushed_at:2023-09 star:0.3k fork:0.1k 
 - [sony/audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) topic: pushed_at:2023-09 star:0.0k fork:0.0k Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge
-- [sony/bigvsan](https://github.com/sony/bigvsan) topic:audio-generation,audio-synthesis,gan,neural-vocoder,pytorch,speech-synthesis pushed_at:2023-10 star:0.2k fork:0.0k Pytorch implementation of BigVSAN
-- [sony/bigvsan_eval](https://github.com/sony/bigvsan_eval) topic:pytorch pushed_at:2023-09 star:0.0k fork:0.0k Evaluation tool used in the BigVSAN paper
+- [sony/bigvsan](https://github.com/sony/bigvsan) topic:audio-generation,audio-synthesis,gan,neural-vocoder,pytorch,speech-synthesis pushed_at:2024-03 star:0.2k fork:0.0k Pytorch implementation of BigVSAN
+- [sony/bigvsan_eval](https://github.com/sony/bigvsan_eval) topic:pytorch pushed_at:2024-03 star:0.0k fork:0.0k Evaluation tool used in the BigVSAN paper
 - [sony/CLIPSep](https://github.com/sony/CLIPSep) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [sony/ctm](https://github.com/sony/ctm) topic: pushed_at:2024-03 star:0.1k fork:0.0k 
-- [sony/custom_layers](https://github.com/sony/custom_layers) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
+- [sony/custom_layers](https://github.com/sony/custom_layers) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [sony/diffiner](https://github.com/sony/diffiner) topic: pushed_at:2023-08 star:0.1k fork:0.0k 
 - [sony/dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [sony/ds-research-code](https://github.com/sony/ds-research-code) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
@@ -113,7 +113,7 @@
 - [sony/hFT-Transformer](https://github.com/sony/hFT-Transformer) topic: pushed_at:2023-07 star:0.1k fork:0.0k Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer).
 - [sony/lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
 - [sony/mct_quantizers](https://github.com/sony/mct_quantizers) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
-- [sony/model_optimization](https://github.com/sony/model_optimization) topic:deep-learning,deep-neural-networks,edge-ai,machine-learning,network-compression,network-quantization,neural-network,optimizer,ptq,pytorch,qat,quantization,tensorflow pushed_at:2024-03 star:0.2k fork:0.0k Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks.
+- [sony/model_optimization](https://github.com/sony/model_optimization) topic:deep-learning,deep-neural-networks,edge-ai,machine-learning,network-compression,network-quantization,neural-network,optimizer,ptq,pytorch,qat,quantization,tensorflow pushed_at:2024-03 star:0.3k fork:0.0k Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks.
 - [sony/NDJIR](https://github.com/sony/NDJIR) topic: pushed_at:2023-02 star:0.0k fork:0.0k NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object
 - [sony/nnabla](https://github.com/sony/nnabla) topic: pushed_at:2024-03 star:2.7k fork:0.3k Neural Network Libraries
 - [sony/nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) topic: pushed_at:2019-03 star:0.0k fork:0.0k 

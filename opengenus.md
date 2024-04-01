@@ -26,7 +26,7 @@
 
 - [OpenGenus/add-two-numbers-c](https://github.com/OpenGenus/add-two-numbers-c) topic:add-two-numbers,c,opengenus pushed_at:2023-01 star:0.0k fork:0.0k C program to add two numbers
 - [OpenGenus/dictionary-in-c](https://github.com/OpenGenus/dictionary-in-c) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [OpenGenus/master-c-programming](https://github.com/OpenGenus/master-c-programming) topic:bootcamp,c-programming,opengenus pushed_at:2023-06 star:0.0k fork:0.0k Master C Programming practically. 6 weeks master bootcamp.
+- [OpenGenus/master-c-programming](https://github.com/OpenGenus/master-c-programming) topic:amazon,book,bootcamp,c-programming,opengenus,practical-programming-skills pushed_at:2023-06 star:0.0k fork:0.0k Master C Programming practically. 6 weeks master bootcamp.
 - [OpenGenus/matrix-multiplication-c](https://github.com/OpenGenus/matrix-multiplication-c) topic:c,matrix-multiplication,opengenus-internship pushed_at:2023-01 star:0.0k fork:0.0k Matrix Multiplication implemented in C [2 versions]
 - [OpenGenus/spell-checker-c](https://github.com/OpenGenus/spell-checker-c) topic:c,opengenus-internship,spelling-correction pushed_at:2023-02 star:0.0k fork:0.0k Spell Checker in C
 
@@ -63,8 +63,8 @@
 - [OpenGenus/clipboard_html](https://github.com/OpenGenus/clipboard_html) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/collaboration](https://github.com/OpenGenus/collaboration) topic: pushed_at:2018-06 star:0.0k fork:0.0k 
 - [OpenGenus/cookies](https://github.com/OpenGenus/cookies) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
-- [OpenGenus/cosmos-search](https://github.com/OpenGenus/cosmos-search) topic:cosmos,django,hacktoberfest,hacktoberfest2021,opengenus,python,search-engine pushed_at:2022-12 star:0.2k fork:0.1k :seedling: The next generation unbiased real-time privacy and user focused code search engine for everyone; Join us at https://discourse.opengenus.org/ 
-- [OpenGenus/CSS](https://github.com/OpenGenus/CSS) topic: pushed_at:2024-02 star:0.0k fork:0.0k 
+- [OpenGenus/cosmos-search](https://github.com/OpenGenus/cosmos-search) topic:cosmos,django,hacktoberfest,hacktoberfest2021,opengenus,python,search-engine pushed_at:2022-12 star:0.1k fork:0.1k :seedling: The next generation unbiased real-time privacy and user focused code search engine for everyone; Join us at https://discourse.opengenus.org/ 
+- [OpenGenus/CSS](https://github.com/OpenGenus/CSS) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [OpenGenus/Django-User-Authentication](https://github.com/OpenGenus/Django-User-Authentication) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
 - [OpenGenus/drag_and_drop](https://github.com/OpenGenus/drag_and_drop) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
 - [OpenGenus/dropdown-HTML](https://github.com/OpenGenus/dropdown-HTML) topic: pushed_at:2024-02 star:0.0k fork:0.0k Different dropdowns in HTML
@@ -149,7 +149,7 @@
 - [OpenGenus/minesweeper-js](https://github.com/OpenGenus/minesweeper-js) topic: pushed_at:2020-07 star:0.0k fork:0.0k 
 - [OpenGenus/nasa-api](https://github.com/OpenGenus/nasa-api) topic: pushed_at:2020-01 star:0.0k fork:0.0k 
 - [OpenGenus/online-compiler](https://github.com/OpenGenus/online-compiler) topic:compiler,internship,internship-task,javascript,nodejs,online-compiler,online-judge,opengenus,opengenus-internship pushed_at:2022-12 star:0.0k fork:0.0k Online compiler in Node.JS (by OpenGenus intern Prateek Sharma 😃) 
-- [OpenGenus/password-generator-using-React](https://github.com/OpenGenus/password-generator-using-React) topic: pushed_at:2023-11 star:0.0k fork:0.0k Password generator using React and Vite
+- [OpenGenus/password-generator-using-React](https://github.com/OpenGenus/password-generator-using-React) topic:opengenus,opengenus-internship,password-generator,project,reactjs,vitejs,web-development pushed_at:2024-03 star:0.0k fork:0.0k Password generator using React and Vite (by OpenGenus Intern Anna)
 - [OpenGenus/piano](https://github.com/OpenGenus/piano) topic: pushed_at:2019-01 star:0.0k fork:0.0k 
 - [OpenGenus/radio](https://github.com/OpenGenus/radio) topic: pushed_at:2019-02 star:0.0k fork:0.0k 
 - [OpenGenus/reddit-api](https://github.com/OpenGenus/reddit-api) topic: pushed_at:2019-11 star:0.0k fork:0.0k 

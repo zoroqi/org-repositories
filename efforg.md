@@ -124,7 +124,7 @@
 
 ## Python
 
-- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) topic: pushed_at:2024-03 star:0.1k fork:0.0k Browser automation for Privacy Badger. Used to pre-train new Badgers before every release.
+- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) topic: pushed_at:2024-03 star:0.1k fork:0.0k Automated training for Privacy Badger. Badger Sett automates browsers to visit websites to produce fresh Privacy Badger tracker data.
 - [EFForg/call-congress](https://github.com/EFForg/call-congress) topic: pushed_at:2021-12 star:0.0k fork:0.0k a simple server that connects calls between citizens and their congress person using the Twilio API
 - [EFForg/contact-congress](https://github.com/EFForg/contact-congress) topic: pushed_at:2014-06 star:0.0k fork:0.0k Sending electronic written messages to members of Congress by reverse engineering their contact forms.
 - [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) topic:4g,bladerf,imsi-catcher,imsi-catchers,libbladerf,lte,raspberry-pi,security,usrp,wigle pushed_at:2023-02 star:0.9k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
@@ -162,8 +162,8 @@
 - [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) topic: pushed_at:2023-01 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) topic: pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 - [EFForg/https-everywhere-rust-test-implementation](https://github.com/EFForg/https-everywhere-rust-test-implementation) topic: pushed_at:2020-04 star:0.0k fork:0.0k 
-- [EFForg/rs-google-play](https://github.com/EFForg/rs-google-play) topic: pushed_at:2024-01 star:0.0k fork:0.0k Google Play API for Rust
-- [EFForg/tokio-dl-stream-to-disk](https://github.com/EFForg/tokio-dl-stream-to-disk) topic: pushed_at:2022-12 star:0.0k fork:0.0k A micro-library for downloading from a URL and streaming it directly to the disk
+- [EFForg/rs-google-play](https://github.com/EFForg/rs-google-play) topic: pushed_at:2024-03 star:0.0k fork:0.0k Google Play API for Rust
+- [EFForg/tokio-dl-stream-to-disk](https://github.com/EFForg/tokio-dl-stream-to-disk) topic: pushed_at:2024-03 star:0.0k fork:0.0k A micro-library for downloading from a URL and streaming it directly to the disk
 
 ## SCSS
 
