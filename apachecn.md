@@ -33,12 +33,12 @@
 
 ## CSS
 
-- [apachecn/.github](https://github.com/apachecn/.github) topic:dl,ml,python,pytorch,solidity,spark pushed_at:2023-12 star:1.7k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
+- [apachecn/.github](https://github.com/apachecn/.github) topic:dl,ml,python,pytorch,solidity,spark pushed_at:2024-04 star:1.7k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [apachecn/airflow-doc-zh](https://github.com/apachecn/airflow-doc-zh) topic:airflow pushed_at:2023-07 star:0.2k fork:0.1k :book: [译] Airflow 中文文档
 - [apachecn/android-app-sec-guidebook-zh](https://github.com/apachecn/android-app-sec-guidebook-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/business-5min-notes](https://github.com/apachecn/business-5min-notes) topic:business,liurun,notes pushed_at:2021-01 star:0.1k fork:0.0k :book: 5 分钟商学院精细笔记
 - [apachecn/django-doc-18-zh](https://github.com/apachecn/django-doc-18-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Django 中文文档 1.8
-- [apachecn/ds-ai-tech-notes](https://github.com/apachecn/ds-ai-tech-notes) topic:ai,data-science,matplotlib,notes,numpy,python,sklearn pushed_at:2022-03 star:0.2k fork:0.0k :book: [译] 数据科学和人工智能技术笔记
+- [apachecn/ds-ai-tech-notes](https://github.com/apachecn/ds-ai-tech-notes) topic:ai,data-science,matplotlib,notes,numpy,python,sklearn pushed_at:2022-03 star:0.2k fork:0.1k :book: [译] 数据科学和人工智能技术笔记
 - [apachecn/ds-ipynb-zh](https://github.com/apachecn/ds-ipynb-zh) topic: pushed_at:2022-03 star:0.1k fork:0.0k :book:  [译] 数据科学 IPython 笔记本
 - [apachecn/eloquent-js-3e-zh](https://github.com/apachecn/eloquent-js-3e-zh) topic: pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] JavaScript 编程精解 中文第三版
 - [apachecn/fastai-num-linalg-v2-zh](https://github.com/apachecn/fastai-num-linalg-v2-zh) topic:fastai,lecture-notes,linear-algebra,python pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] fast.ai 数值线性代数讲义 v2
@@ -920,7 +920,7 @@
 - [apachecn/linuxKernelRoot](https://github.com/apachecn/linuxKernelRoot) topic: pushed_at:2022-01 star:0.0k fork:0.0k 新一代root，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，挑战全网root检测手段，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
 - [apachecn/lottie-ios](https://github.com/apachecn/lottie-ios) topic: pushed_at:2023-06 star:0.0k fork:0.0k An iOS library to natively render After Effects vector animations
 - [apachecn/LoveIt](https://github.com/apachecn/LoveIt) topic: pushed_at:2020-03 star:0.0k fork:0.0k 🚀A clean, elegant but advanced blog theme for Hugo
-- [apachecn/loving-books](https://github.com/apachecn/loving-books) topic: pushed_at:2022-04 star:0.0k fork:0.0k :books: 恋爱指南
+- [apachecn/loving-books](https://github.com/apachecn/loving-books) topic: pushed_at:2022-04 star:0.1k fork:0.0k :books: 恋爱指南
 - [apachecn/loving-books-part2](https://github.com/apachecn/loving-books-part2) topic: pushed_at:2022-10 star:0.0k fork:0.0k 恋爱指南2
 - [apachecn/loving-books-part3](https://github.com/apachecn/loving-books-part3) topic: pushed_at:2023-04 star:0.0k fork:0.0k 恋爱资料库（三）
 - [apachecn/luajava](https://github.com/apachecn/luajava) topic: pushed_at:2020-06 star:0.0k fork:0.0k LuaJava is a scripting tool for Java. The goal of this tool is to allow scripts written in Lua to manipulate components developed in Java. LuaJava allows Java components to be accessed from Lua using the same syntax that is used for accessing Lua`s native objects, without any need for declarations or any kind of preprocessing.  LuaJava also allows Java to implement an interface using Lua. This way any interface can be implemented in Lua and passed as parameter to any method, and when called, the equivalent function will be called in Lua, and it's result passed back to Java.
@@ -1192,7 +1192,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-03 star:38.0k fork:11.3k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-03 star:38.1k fork:11.3k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
@@ -1235,7 +1235,7 @@
 - [apachecn/java8-tut-zh](https://github.com/apachecn/java8-tut-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Java8 中文官方文档（施工中）
 - [apachecn/misc-docs-zh](https://github.com/apachecn/misc-docs-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :books: [译] ApacheCN 短篇集
 - [apachecn/ml-book-100-zh](https://github.com/apachecn/ml-book-100-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] 百页机器学习小书
-- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2024-02 star:4.0k fork:1.0k Pytorch 中文文档
+- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2024-04 star:4.0k fork:1.0k Pytorch 中文文档
 - [apachecn/rpy2-doc-zh](https://github.com/apachecn/rpy2-doc-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/stanford-cs234-notes-zh](https://github.com/apachecn/stanford-cs234-notes-zh) topic: pushed_at:2021-01 star:0.2k fork:0.0k 斯坦福 cs234 强化学习中文讲义
 - [apachecn/stanford-game-theory-notes-zh](https://github.com/apachecn/stanford-game-theory-notes-zh) topic: pushed_at:2020-09 star:0.2k fork:0.0k 📖斯坦福博弈论中文笔记
