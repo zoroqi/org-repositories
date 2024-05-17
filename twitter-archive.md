@@ -72,7 +72,7 @@
 - [twitter-archive/css-flip](https://github.com/twitter-archive/css-flip) topic: pushed_at:2016-11 star:0.3k fork:0.0k A CSS BiDi flipper
 - [twitter-archive/hdfs-du](https://github.com/twitter-archive/hdfs-du) topic: pushed_at:2020-10 star:0.2k fork:0.1k Visualize your HDFS cluster usage
 - [twitter-archive/oscon-puzzles](https://github.com/twitter-archive/oscon-puzzles) topic: pushed_at:2014-07 star:0.0k fork:0.0k OSCON 2014 Puzzle
-- [twitter-archive/ospriet](https://github.com/twitter-archive/ospriet) topic: pushed_at:2015-01 star:0.4k fork:0.1k An example audience moderation app built on Twitter
+- [twitter-archive/ospriet](https://github.com/twitter-archive/ospriet) topic: pushed_at:2015-01 star:0.4k fork:0.0k An example audience moderation app built on Twitter
 - [twitter-archive/plumage.js](https://github.com/twitter-archive/plumage.js) topic: pushed_at:2019-12 star:0.1k fork:0.0k Batteries Included App Framework for Data Intensive UIs
 - [twitter-archive/raggiana](https://github.com/twitter-archive/raggiana) topic: pushed_at:2013-08 star:0.0k fork:0.0k A simple standalone Finagle stats viewer
 - [twitter-archive/RTLtextarea](https://github.com/twitter-archive/RTLtextarea) topic: pushed_at:2018-09 star:0.2k fork:0.0k Automatically detects RTL and configures a text input
