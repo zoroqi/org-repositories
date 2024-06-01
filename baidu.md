@@ -42,7 +42,7 @@
 ## C++
 
 - [baidu/AnyQ](https://github.com/baidu/AnyQ) topic:dialogue,dialogue-systems,faq,faq-question-answering-system,faq-system,faqbot,qa-system,question-answering,semantic-matching pushed_at:2020-11 star:2.6k fork:0.7k FAQ-based Question Answering System
-- [baidu/babylon](https://github.com/baidu/babylon) topic: pushed_at:2024-05 star:0.2k fork:0.0k High-Performance C++ Fundamental Library
+- [baidu/babylon](https://github.com/baidu/babylon) topic: pushed_at:2024-05 star:0.3k fork:0.0k High-Performance C++ Fundamental Library
 - [baidu/BaikalDB](https://github.com/baidu/BaikalDB) topic:baikaldb,database,htap,mysql,raft,sql pushed_at:2024-04 star:1.2k fork:0.2k BaikalDB, A Distributed HTAP Database.
 - [baidu/bfs](https://github.com/baidu/bfs) topic: pushed_at:2018-12 star:2.8k fork:0.6k The Baidu File System.
 - [baidu/bigflow](https://github.com/baidu/bigflow) topic: pushed_at:2022-10 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
@@ -122,12 +122,12 @@
 
 ## Jupyter Notebook
 
-- [baidu/puck](https://github.com/baidu/puck) topic:ann,benchmark,search pushed_at:2024-04 star:0.3k fork:0.0k Puck is a high-performance ANN search engine
+- [baidu/puck](https://github.com/baidu/puck) topic:ann,benchmark,search pushed_at:2024-05 star:0.3k fork:0.0k Puck is a high-performance ANN search engine
 - [baidu/Quanlse](https://github.com/baidu/Quanlse) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
 
 ## Kotlin
 
-- [baidu/Rubik](https://github.com/baidu/Rubik) topic: pushed_at:2023-03 star:0.2k fork:0.0k An Android platform component management tool chain, based on Kotlin language.
+- [baidu/Rubik](https://github.com/baidu/Rubik) topic: pushed_at:2024-05 star:0.2k fork:0.0k An Android platform component management tool chain, based on Kotlin language.
 
 ## Others
 
@@ -161,7 +161,7 @@
 - [baidu/logcover](https://github.com/baidu/logcover) topic: pushed_at:2017-02 star:0.1k fork:0.0k 轻量级异常日志测试覆盖率度量工具
 - [baidu/pymochow](https://github.com/baidu/pymochow) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
 - [baidu/QCompute](https://github.com/baidu/QCompute) topic: pushed_at:2023-12 star:0.1k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
-- [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2022-06 star:1.8k fork:0.4k Baidu's open-source Sentiment Analysis System.
+- [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2024-05 star:1.8k fork:0.4k Baidu's open-source Sentiment Analysis System.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) topic: pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
 
 ## Ruby
@@ -174,7 +174,7 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) topic:admin,frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2024-05 star:16.2k fork:2.4k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) topic:admin,frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2024-05 star:16.3k fork:2.4k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) topic:chrome,chromium,debug,devtools,extension,san pushed_at:2023-12 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) topic:san,ssr,ssr-target-js pushed_at:2024-01 star:0.0k fork:0.0k San SSR framework and utils
 

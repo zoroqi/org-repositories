@@ -33,7 +33,7 @@
 
 ## CSS
 
-- [apachecn/.github](https://github.com/apachecn/.github) topic:dl,ml,python,pytorch,solidity,spark pushed_at:2024-04 star:1.7k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
+- [apachecn/.github](https://github.com/apachecn/.github) topic:dl,ml,python,pytorch,solidity,spark pushed_at:2024-05 star:1.7k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [apachecn/airflow-doc-zh](https://github.com/apachecn/airflow-doc-zh) topic:airflow pushed_at:2023-07 star:0.2k fork:0.1k :book: [译] Airflow 中文文档
 - [apachecn/android-app-sec-guidebook-zh](https://github.com/apachecn/android-app-sec-guidebook-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/business-5min-notes](https://github.com/apachecn/business-5min-notes) topic:business,liurun,notes pushed_at:2021-01 star:0.1k fork:0.0k :book: 5 分钟商学院精细笔记
@@ -66,13 +66,13 @@
 - [apachecn/ntu-hsuantienlin-ml](https://github.com/apachecn/ntu-hsuantienlin-ml) topic:hsuan-tien-lin,lecture-notes,machine-learning,ntu pushed_at:2021-01 star:0.3k fork:0.1k :book: 台湾大学林轩田机器学习笔记
 - [apachecn/pandas-cookbook-code-notes](https://github.com/apachecn/pandas-cookbook-code-notes) topic:code,data-analysis,notes,pandas,python pushed_at:2021-01 star:0.1k fork:0.0k :book: Pandas Cookbook 带注释源码
 - [apachecn/principles-zh](https://github.com/apachecn/principles-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :book: 原则 · 中文版
-- [apachecn/pyda-2e-zh](https://github.com/apachecn/pyda-2e-zh) topic:book,data-analysis,numpy,pandas,pyda,python pushed_at:2021-01 star:1.1k fork:0.3k :book:  [译] 利用 Python 进行数据分析 · 第 2 版
+- [apachecn/pyda-2e-zh](https://github.com/apachecn/pyda-2e-zh) topic:book,data-analysis,numpy,pandas,pyda,python pushed_at:2021-01 star:1.1k fork:0.4k :book:  [译] 利用 Python 进行数据分析 · 第 2 版
 - [apachecn/quant-learning](https://github.com/apachecn/quant-learning) topic: pushed_at:2024-01 star:0.3k fork:0.1k :books: Quant 教程整理
 - [apachecn/scapy-docs-zh](https://github.com/apachecn/scapy-docs-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/scipycon-2018-sklearn-tut-zh](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh) topic:machine-learning,python,scikit-learn,scipy2018,tutorial pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] SciPyCon 2018 Sklearn 教程
 - [apachecn/sicp-py-zh](https://github.com/apachecn/sicp-py-zh) topic:cs61a,lecture-notes,python,sicp,ucb pushed_at:2021-01 star:0.1k fork:0.0k :book: [译] UCB CS61a SICP Python 描述 中文版
 - [apachecn/sklearn-cookbook-zh](https://github.com/apachecn/sklearn-cookbook-zh) topic:book,machine-learning,python,scikit-learn,sklearn pushed_at:2019-09 star:0.1k fork:0.0k :book: [译] Scikit-learn 秘籍
-- [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) topic:documentation,machine-learning,python,scikit-learn pushed_at:2023-07 star:5.0k fork:1.5k :book: [译] scikit-learn（sklearn） 中文文档
+- [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) topic:documentation,machine-learning,python,scikit-learn pushed_at:2023-07 star:5.1k fork:1.5k :book: [译] scikit-learn（sklearn） 中文文档
 - [apachecn/SocialMediaMining-zh](https://github.com/apachecn/SocialMediaMining-zh) topic: pushed_at:2023-12 star:0.0k fork:0.0k 社交媒体挖掘_翻译版
 - [apachecn/stanford-cs224n-notes-zh](https://github.com/apachecn/stanford-cs224n-notes-zh) topic: pushed_at:2020-09 star:0.3k fork:0.1k :book: 斯坦福 CS224n 自然语言处理中文笔记
 - [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes) topic:freedom,lixiaolai,wealth pushed_at:2020-12 star:0.1k fork:0.1k :book: 通往财富自由之路精细笔记
@@ -180,7 +180,7 @@
 - [apachecn/apachecn-emu-zh](https://github.com/apachecn/apachecn-emu-zh) topic: pushed_at:2022-11 star:0.0k fork:0.0k :books: ApacheCN 模拟器译文集
 - [apachecn/apachecn-engi-zh](https://github.com/apachecn/apachecn-engi-zh) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [apachecn/apachecn-fintech-notes](https://github.com/apachecn/apachecn-fintech-notes) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
-- [apachecn/apachecn-golang-zh](https://github.com/apachecn/apachecn-golang-zh) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
+- [apachecn/apachecn-golang-zh](https://github.com/apachecn/apachecn-golang-zh) topic: pushed_at:2023-02 star:0.1k fork:0.0k 
 - [apachecn/apachecn-golang-zh-pt2](https://github.com/apachecn/apachecn-golang-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-html-css-zh](https://github.com/apachecn/apachecn-html-css-zh) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [apachecn/apachecn-html-css-zh-pt2](https://github.com/apachecn/apachecn-html-css-zh-pt2) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
@@ -233,7 +233,7 @@
 - [apachecn/apachecn-scicomp-zh](https://github.com/apachecn/apachecn-scicomp-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-sec-notes](https://github.com/apachecn/apachecn-sec-notes) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/apachecn-sec-wiki](https://github.com/apachecn/apachecn-sec-wiki) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [apachecn/apachecn-sec-zh](https://github.com/apachecn/apachecn-sec-zh) topic: pushed_at:2022-07 star:0.1k fork:0.0k ApacheCN 网络安全译文集
+- [apachecn/apachecn-sec-zh](https://github.com/apachecn/apachecn-sec-zh) topic: pushed_at:2022-07 star:0.2k fork:0.0k ApacheCN 网络安全译文集
 - [apachecn/apachecn-sec-zh-pt2](https://github.com/apachecn/apachecn-sec-zh-pt2) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [apachecn/apachecn-sys-zh](https://github.com/apachecn/apachecn-sys-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k :books: [译] ApacheCN 计算机系统译文集
 - [apachecn/apachecn-tcs-zh](https://github.com/apachecn/apachecn-tcs-zh) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
@@ -1193,7 +1193,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-03 star:38.2k fork:11.3k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-03 star:38.3k fork:11.3k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
@@ -1236,7 +1236,7 @@
 - [apachecn/java8-tut-zh](https://github.com/apachecn/java8-tut-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Java8 中文官方文档（施工中）
 - [apachecn/misc-docs-zh](https://github.com/apachecn/misc-docs-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :books: [译] ApacheCN 短篇集
 - [apachecn/ml-book-100-zh](https://github.com/apachecn/ml-book-100-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] 百页机器学习小书
-- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2024-05 star:4.0k fork:1.0k Pytorch 中文文档
+- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2024-05 star:4.1k fork:1.0k Pytorch 中文文档
 - [apachecn/rpy2-doc-zh](https://github.com/apachecn/rpy2-doc-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/stanford-cs234-notes-zh](https://github.com/apachecn/stanford-cs234-notes-zh) topic: pushed_at:2021-01 star:0.2k fork:0.0k 斯坦福 cs234 强化学习中文讲义
 - [apachecn/stanford-game-theory-notes-zh](https://github.com/apachecn/stanford-game-theory-notes-zh) topic: pushed_at:2020-09 star:0.2k fork:0.0k 📖斯坦福博弈论中文笔记

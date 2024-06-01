@@ -53,7 +53,7 @@
 - [mdn/insights](https://github.com/mdn/insights) topic: pushed_at:2022-04 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) topic:css,editor,examples,html,interactive,javascript,mdn,nodejs pushed_at:2024-05 star:0.7k fork:0.5k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) topic: pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
-- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2024-05 star:6.7k fork:26.6k GitHub repo for the MDN Learning Area. 
+- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2024-05 star:6.8k fork:26.6k GitHub repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) topic: pushed_at:2022-04 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
 - [mdn/learning-area-pt-br](https://github.com/mdn/learning-area-pt-br) topic: pushed_at:2022-09 star:0.0k fork:0.1k The MDN Learning Area code examples translated into Brazilian Portuguese.
 - [mdn/machine-translation-testing-content](https://github.com/mdn/machine-translation-testing-content) topic: pushed_at:2020-11 star:0.0k fork:0.0k This is a repository for testing machine translations of English content.
@@ -67,7 +67,7 @@
 - [mdn/translated-content-rendered](https://github.com/mdn/translated-content-rendered) topic: pushed_at:2021-02 star:0.0k fork:0.0k All translated (non-archived) MDN content in fully rendered form
 - [mdn/viewsourceconf](https://github.com/mdn/viewsourceconf) topic:conference,metalsmith,viewsource pushed_at:2019-03 star:0.0k fork:0.0k Repo for View Source Conference site
 - [mdn/web-tech-games](https://github.com/mdn/web-tech-games) topic: pushed_at:2022-12 star:0.0k fork:0.0k Interactive diagram showing what parts of the web technology stack can used for different purposes when creating games. Includes links to more information about each.
-- [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) topic:audio,demo,webaudio,webaudio-api pushed_at:2024-04 star:1.2k fork:0.4k Code examples that accompany the MDN Web Docs pages relating to Web Audio.
+- [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) topic:audio,demo,webaudio,webaudio-api pushed_at:2024-05 star:1.2k fork:0.4k Code examples that accompany the MDN Web Docs pages relating to Web Audio.
 - [mdn/whitestorm-demo](https://github.com/mdn/whitestorm-demo) topic: pushed_at:2019-04 star:0.0k fork:0.0k A simple demo showing usage of the Whitestorm.js 3D web library.
 
 ## JSON
@@ -90,7 +90,7 @@
 - [mdn/doc-linter-webextension](https://github.com/mdn/doc-linter-webextension) topic:linter,mdn,webextension pushed_at:2019-08 star:0.0k fork:0.0k Webextension to lint MDN documents
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) topic:channel-messaging,demo,dom-manipulation,drag-drop,javascript,matchmedia,mdn-docs,pointer-events,pointer-lock,touch-events pushed_at:2024-05 star:3.2k fork:1.8k Code examples that accompany various MDN DOM and Web API documentation pages
 - [mdn/e10s-example-addons](https://github.com/mdn/e10s-example-addons) topic:e10s,firefox-addon,unmaintained pushed_at:2019-04 star:0.0k fork:0.0k Examples showing how to port add-ons to be e10s-compatible
-- [mdn/express-locallibrary-tutorial](https://github.com/mdn/express-locallibrary-tutorial) topic: pushed_at:2024-05 star:1.2k fork:0.6k Local Library website written in NodeJS/Express; example for the MDN server-side development NodeJS module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs.
+- [mdn/express-locallibrary-tutorial](https://github.com/mdn/express-locallibrary-tutorial) topic: pushed_at:2024-05 star:1.2k fork:0.7k Local Library website written in NodeJS/Express; example for the MDN server-side development NodeJS module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs.
 - [mdn/headless-examples](https://github.com/mdn/headless-examples) topic: pushed_at:2019-08 star:0.1k fork:0.0k Examples to support the MDN resource covering Firefox headless mode — see https://developer.mozilla.org/en-US/Firefox/Headless_mode
 - [mdn/indexeddb-examples](https://github.com/mdn/indexeddb-examples) topic:database,indexeddb pushed_at:2022-09 star:0.0k fork:0.0k Code examples that accompany the MDN IndexedDB documentation
 - [mdn/js-examples](https://github.com/mdn/js-examples) topic:ecmascript,javascript pushed_at:2024-04 star:1.1k fork:0.7k Code examples that accompany the MDN JavaScript/ECMAScript documentation
@@ -128,8 +128,8 @@
 
 ## Markdown
 
-- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2024-05 star:8.9k fork:22.4k The content behind MDN Web Docs
-- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2024-05 star:1.6k fork:7.9k The source repository of all translated content for MDN Web Docs
+- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2024-06 star:8.9k fork:22.4k The content behind MDN Web Docs
+- [mdn/translated-content](https://github.com/mdn/translated-content) topic: pushed_at:2024-06 star:1.6k fork:7.9k The source repository of all translated content for MDN Web Docs
 
 ## Mermaid
 
@@ -170,7 +170,7 @@
 
 ## Rust
 
-- [mdn/differy](https://github.com/mdn/differy) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
+- [mdn/differy](https://github.com/mdn/differy) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
 - [mdn/rumba](https://github.com/mdn/rumba) topic:rust pushed_at:2024-05 star:0.0k fork:0.0k The clean kuma (🤖🧹)
 
 ## SCSS
@@ -179,7 +179,7 @@
 
 ## Shell
 
-- [mdn/curriculum](https://github.com/mdn/curriculum) topic: pushed_at:2024-04 star:0.4k fork:0.0k MDN front-end developer curriculum
+- [mdn/curriculum](https://github.com/mdn/curriculum) topic: pushed_at:2024-05 star:0.4k fork:0.0k MDN front-end developer curriculum
 
 ## Smarty
 
