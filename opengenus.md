@@ -59,7 +59,7 @@
 ## HTML
 
 - [OpenGenus/Bomberman-Game-in-HTML](https://github.com/OpenGenus/Bomberman-Game-in-HTML) topic:bomberman,css,game,html,javascript,web-development pushed_at:2023-07 star:0.0k fork:0.0k Bomberman Game in HTML, CSS, JavaScript [by OpenGenus Intern Yingzi Tang]
-- [OpenGenus/checklist](https://github.com/OpenGenus/checklist) topic:checklist,opengenus,opengenus-internship pushed_at:2024-05 star:0.0k fork:0.0k OpenGenus Checklist project: Learn everything at your own pace and keep track 🐐 Pioneering the future of organized sequential knowledge
+- [OpenGenus/checklist](https://github.com/OpenGenus/checklist) topic:checklist,opengenus,opengenus-internship pushed_at:2024-06 star:0.0k fork:0.0k OpenGenus Checklist project: Learn everything at your own pace and keep track 🐐 Pioneering the future of organized sequential knowledge
 - [OpenGenus/clipboard_html](https://github.com/OpenGenus/clipboard_html) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/collaboration](https://github.com/OpenGenus/collaboration) topic: pushed_at:2018-06 star:0.0k fork:0.0k 
 - [OpenGenus/cookies](https://github.com/OpenGenus/cookies) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
@@ -300,7 +300,7 @@
 - [OpenGenus/text-editor-python](https://github.com/OpenGenus/text-editor-python) topic:opengenus-internship,project,python,text-editor pushed_at:2023-01 star:0.0k fork:0.0k Simple Text Editor project in Python
 - [OpenGenus/tic-tac-toe-rl](https://github.com/OpenGenus/tic-tac-toe-rl) topic: pushed_at:2024-02 star:0.0k fork:0.0k 
 - [OpenGenus/typing-speed-python](https://github.com/OpenGenus/typing-speed-python) topic:console-application,opengenus,python pushed_at:2022-11 star:0.0k fork:0.0k Typing Speed Test in Python (developed by Siri)
-- [OpenGenus/vidsum](https://github.com/OpenGenus/vidsum) topic:opengenus,python,video,video-summarization,youtube pushed_at:2022-12 star:0.2k fork:0.1k Generate summary of any video :tv: anywhere and anytime
+- [OpenGenus/vidsum](https://github.com/OpenGenus/vidsum) topic:opengenus,python,video,video-summarization,youtube pushed_at:2022-12 star:0.3k fork:0.1k Generate summary of any video :tv: anywhere and anytime
 - [OpenGenus/web_text](https://github.com/OpenGenus/web_text) topic: pushed_at:2019-09 star:0.0k fork:0.0k 
 
 ## Ruby
