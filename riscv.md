@@ -11,8 +11,8 @@
 - [C](#c) (2)
 - [Coq](#coq) (1)
 - [HTML](#html) (1)
-- [Makefile](#makefile) (31)
-- [Others](#others) (12)
+- [Makefile](#makefile) (32)
+- [Others](#others) (11)
 - [Python](#python) (4)
 - [TeX](#tex) (5)
 
@@ -48,11 +48,12 @@
 - [riscv/riscv-b](https://github.com/riscv/riscv-b) topic: pushed_at:2024-04 star:0.0k fork:0.0k "B" extension - that represents the collection of the Zba, Zbb, and Zbs extensions 
 - [riscv/riscv-bfloat16](https://github.com/riscv/riscv-bfloat16) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) topic: pushed_at:2024-03 star:0.2k fork:0.1k Working draft of the proposed RISC-V Bitmanipulation extension
-- [riscv/riscv-cfi](https://github.com/riscv/riscv-cfi) topic: pushed_at:2024-05 star:0.1k fork:0.0k This repo holds the work area and revisions of the RISC-V CFI (Shadow Stack and Landing Pads) specifications. CFI defines the privileged and unprivileged ISA extensions that can be used by privileged and unprivileged programs to protect the integrity of their control-flow.
+- [riscv/riscv-cfi](https://github.com/riscv/riscv-cfi) topic: pushed_at:2024-06 star:0.1k fork:0.0k This repo holds the work area and revisions of the RISC-V CFI (Shadow Stack and Landing Pads) specifications. CFI defines the privileged and unprivileged ISA extensions that can be used by privileged and unprivileged programs to protect the integrity of their control-flow.
 - [riscv/riscv-control-transfer-records](https://github.com/riscv/riscv-control-transfer-records) topic: pushed_at:2024-06 star:0.0k fork:0.0k This repo contains a RISC-V ISA extension (proposal) to allow recording of control transfer history to on-chip registers, to support usages associated with profiling and debug.
 - [riscv/riscv-dot-product](https://github.com/riscv/riscv-dot-product) topic: pushed_at:2023-12 star:0.0k fork:0.0k Dot-Product Extension
 - [riscv/riscv-double-trap](https://github.com/riscv/riscv-double-trap) topic: pushed_at:2024-06 star:0.0k fork:0.0k RISC-V Double Trap Fast-Track Extension
-- [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
+- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) topic: pushed_at:2024-06 star:0.2k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
+- [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [riscv/riscv-hac](https://github.com/riscv/riscv-hac) topic: pushed_at:2024-02 star:0.0k fork:0.0k  High Assurance Cryptography
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) topic: pushed_at:2024-05 star:0.2k fork:0.0k Working Draft of the RISC-V J Extension Specification
 - [riscv/riscv-memory-tagging](https://github.com/riscv/riscv-memory-tagging) topic: pushed_at:2024-05 star:0.0k fork:0.0k Memory Tagging ISA extension that can be used by software to enforce memory tag checks on memory loads and stores
@@ -64,8 +65,8 @@
 - [riscv/riscv-smcdeleg-ssccfg](https://github.com/riscv/riscv-smcdeleg-ssccfg) topic: pushed_at:2024-04 star:0.0k fork:0.0k Supervisor Counter Delegation Architecture Extension
 - [riscv/riscv-smmtt](https://github.com/riscv/riscv-smmtt) topic:access-control,ap-tee,confidential-computing,smmtt,supervisor-domains,trusted-computing,trusted-execution-environment pushed_at:2024-06 star:0.0k fork:0.0k This specification will define the RISC-V privilege ISA extensions required to support Supervisor Domain isolation for multi-tenant security use cases e.g. confidential-computing, trusted platform services, fault isolation and so on.
 - [riscv/riscv-ssdtso](https://github.com/riscv/riscv-ssdtso) topic: pushed_at:2024-01 star:0.0k fork:0.0k The Ssdtso is a fast-track extension adding a 'dynamic-RVTSO' mode of operation and on-demand per-hart switching between the memory models.
-- [riscv/riscv-ssqosid](https://github.com/riscv/riscv-ssqosid) topic: pushed_at:2024-02 star:0.0k fork:0.0k This repo will hold the specification for the proposed QoS ID extension being pursued on the fast-track process.
-- [riscv/riscv-svvptc](https://github.com/riscv/riscv-svvptc) topic: pushed_at:2024-05 star:0.0k fork:0.0k Obviating Memory-Management Instructions after Marking PTEs Valid (Svvptc)
+- [riscv/riscv-ssqosid](https://github.com/riscv/riscv-ssqosid) topic: pushed_at:2024-06 star:0.0k fork:0.0k This repo will hold the specification for the proposed QoS ID extension being pursued on the fast-track process.
+- [riscv/riscv-svvptc](https://github.com/riscv/riscv-svvptc) topic: pushed_at:2024-06 star:0.0k fork:0.0k Obviating Memory-Management Instructions after Marking PTEs Valid (Svvptc)
 - [riscv/riscv-zaamo-zalrsc](https://github.com/riscv/riscv-zaamo-zalrsc) topic: pushed_at:2024-04 star:0.0k fork:0.0k Zaamo / Zalrsc: A extension components
 - [riscv/riscv-zabha](https://github.com/riscv/riscv-zabha) topic: pushed_at:2024-04 star:0.0k fork:0.0k The Zabha extension provides support for byte and halfword atomic memory operations.
 - [riscv/riscv-zalasr](https://github.com/riscv/riscv-zalasr) topic: pushed_at:2024-04 star:0.0k fork:0.0k The ISA specification for the Zalasr extension.
@@ -78,8 +79,7 @@
 - [riscv/friendly-terminology](https://github.com/riscv/friendly-terminology) topic: pushed_at:2024-04 star:0.0k fork:0.0k This repository implements the Friendly Terminology for use with the in-solidarity-bot plugin.
 - [riscv/learn](https://github.com/riscv/learn) topic: pushed_at:2024-04 star:0.4k fork:0.0k Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. 
 - [riscv/riscv-aia](https://github.com/riscv/riscv-aia) topic: pushed_at:2024-06 star:0.1k fork:0.0k 
-- [riscv/riscv-docs-base-container-image](https://github.com/riscv/riscv-docs-base-container-image) topic: pushed_at:2024-06 star:0.0k fork:0.0k A base container image populated with the dependencies to build the RISC-V Documentation.
-- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) topic: pushed_at:2024-04 star:0.2k fork:0.0k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
+- [riscv/riscv-docs-base-container-image](https://github.com/riscv/riscv-docs-base-container-image) topic: pushed_at:2024-07 star:0.0k fork:0.0k A base container image populated with the dependencies to build the RISC-V Documentation.
 - [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) topic: pushed_at:2023-10 star:0.1k fork:0.0k RISC-V Packed SIMD Extension
 - [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) topic: pushed_at:2023-03 star:0.1k fork:0.0k PLIC Specification
 - [riscv/riscv-software-ecosystem](https://github.com/riscv/riscv-software-ecosystem) topic: pushed_at:2023-03 star:0.0k fork:0.0k A curated list of the status of different softwares on RISC-V
@@ -89,7 +89,7 @@
 ## Python
 
 - [riscv/configuration-structure](https://github.com/riscv/configuration-structure) topic: pushed_at:2024-05 star:0.0k fork:0.0k RISC-V Configuration Structure
-- [riscv/riscv-cheri](https://github.com/riscv/riscv-cheri) topic: pushed_at:2024-06 star:0.0k fork:0.0k This repository contains the CHERI extension specification, adding hardware capabilities to RISC-V ISA to enable fine-grained memory protection and scalable compartmentalization.
+- [riscv/riscv-cheri](https://github.com/riscv/riscv-cheri) topic:capabilities,compartmentalization,memory-safety pushed_at:2024-06 star:0.0k fork:0.0k This repository contains the CHERI extension specification, adding hardware capabilities to RISC-V ISA to enable fine-grained memory protection and scalable compartmentalization.
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) topic: pushed_at:2024-06 star:0.4k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) topic: pushed_at:2024-06 star:0.6k fork:0.3k RISC-V Opcodes
 
