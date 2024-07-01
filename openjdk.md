@@ -30,7 +30,7 @@
 
 ## CSS
 
-- [openjdk/valhalla-docs](https://github.com/openjdk/valhalla-docs) topic: pushed_at:2024-04 star:0.1k fork:0.0k https://openjdk.org/projects/valhalla
+- [openjdk/valhalla-docs](https://github.com/openjdk/valhalla-docs) topic: pushed_at:2024-06 star:0.1k fork:0.0k https://openjdk.org/projects/valhalla
 
 ## HTML
 
@@ -50,8 +50,8 @@
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) topic: pushed_at:2021-04 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/friday-stats
 - [openjdk/galahad](https://github.com/openjdk/galahad) topic: pushed_at:2024-06 star:0.0k fork:0.0k https://openjdk.org/projects/galahad
 - [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2024-04 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
-- [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2024-03 star:0.4k fork:0.1k https://openjdk.org/projects/code-tools/jcstress
-- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2024-06 star:18.8k fork:5.3k JDK main-line development https://openjdk.org/projects/jdk
+- [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2024-06 star:0.4k fork:0.1k https://openjdk.org/projects/code-tools/jcstress
+- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2024-06 star:18.9k fork:5.3k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2024-06 star:0.1k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2024-06 star:0.1k fork:0.2k https://openjdk.org/projects/jdk-updates
@@ -69,7 +69,7 @@
 - [openjdk/jdk16](https://github.com/openjdk/jdk16) topic: pushed_at:2021-03 star:0.1k fork:0.1k https://openjdk.org/projects/jdk/16 released 2021-03-16
 - [openjdk/jdk16u](https://github.com/openjdk/jdk16u) topic: pushed_at:2021-08 star:0.0k fork:0.1k https://openjdk.org/projects/jdk-updates last released 2021-07-20
 - [openjdk/jdk17](https://github.com/openjdk/jdk17) topic: pushed_at:2021-09 star:0.2k fork:0.1k https://openjdk.org/projects/jdk/17 released 2021-09-14
-- [openjdk/jdk17u](https://github.com/openjdk/jdk17u) topic: pushed_at:2024-05 star:0.1k fork:0.1k https://wiki.openjdk.org/display/JDKUpdates/JDK+17u
+- [openjdk/jdk17u](https://github.com/openjdk/jdk17u) topic: pushed_at:2024-06 star:0.1k fork:0.1k https://wiki.openjdk.org/display/JDKUpdates/JDK+17u
 - [openjdk/jdk17u-dev](https://github.com/openjdk/jdk17u-dev) topic: pushed_at:2024-06 star:0.0k fork:0.2k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk17u-ri](https://github.com/openjdk/jdk17u-ri) topic: pushed_at:2024-05 star:0.0k fork:0.0k JSR 392 Reference Implementation (Java SE 17) [not for production use]
 - [openjdk/jdk18](https://github.com/openjdk/jdk18) topic: pushed_at:2022-03 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/18 released 2022-03-22
@@ -107,8 +107,8 @@
 - [openjdk/lanai](https://github.com/openjdk/lanai) topic: pushed_at:2021-03 star:0.0k fork:0.0k https://openjdk.org/projects/lanai
 - [openjdk/leyden](https://github.com/openjdk/leyden) topic: pushed_at:2024-06 star:0.1k fork:0.0k https://openjdk.org/projects/leyden
 - [openjdk/lilliput](https://github.com/openjdk/lilliput) topic: pushed_at:2024-06 star:0.0k fork:0.0k https://openjdk.org/projects/lilliput
-- [openjdk/lilliput-jdk17u](https://github.com/openjdk/lilliput-jdk17u) topic: pushed_at:2024-05 star:0.0k fork:0.0k https://openjdk.org/projects/lilliput
-- [openjdk/lilliput-jdk21u](https://github.com/openjdk/lilliput-jdk21u) topic: pushed_at:2024-05 star:0.0k fork:0.0k https://openjdk.org/projects/lilliput
+- [openjdk/lilliput-jdk17u](https://github.com/openjdk/lilliput-jdk17u) topic: pushed_at:2024-06 star:0.0k fork:0.0k https://openjdk.org/projects/lilliput
+- [openjdk/lilliput-jdk21u](https://github.com/openjdk/lilliput-jdk21u) topic: pushed_at:2024-06 star:0.0k fork:0.0k https://openjdk.org/projects/lilliput
 - [openjdk/loom](https://github.com/openjdk/loom) topic:java,jvm,loom,openjdk pushed_at:2024-06 star:1.8k fork:0.2k https://openjdk.org/projects/loom
 - [openjdk/metropolis](https://github.com/openjdk/metropolis) topic: pushed_at:2020-10 star:0.0k fork:0.0k https://openjdk.org/projects/metropolis
 - [openjdk/mobile](https://github.com/openjdk/mobile) topic:java,jvm,mobile,openjdk pushed_at:2024-06 star:0.1k fork:0.1k https://openjdk.org/projects/mobile
@@ -122,7 +122,7 @@
 - [openjdk/riscv-port-jdk17u](https://github.com/openjdk/riscv-port-jdk17u) topic: pushed_at:2024-06 star:0.0k fork:0.0k https://openjdk.org/projects/riscv-port
 - [openjdk/riscv-port-jdk8u](https://github.com/openjdk/riscv-port-jdk8u) topic: pushed_at:2024-06 star:0.0k fork:0.0k https://openjdk.org/projects/riscv-port
 - [openjdk/shenandoah](https://github.com/openjdk/shenandoah) topic: pushed_at:2024-06 star:0.1k fork:0.0k https://openjdk.org/projects/shenandoah
-- [openjdk/shenandoah-jdk21u](https://github.com/openjdk/shenandoah-jdk21u) topic: pushed_at:2024-05 star:0.0k fork:0.0k https://openjdk.org/projects/shenandoah
+- [openjdk/shenandoah-jdk21u](https://github.com/openjdk/shenandoah-jdk21u) topic: pushed_at:2024-06 star:0.0k fork:0.0k https://openjdk.org/projects/shenandoah
 - [openjdk/shenandoah-jdk8u](https://github.com/openjdk/shenandoah-jdk8u) topic: pushed_at:2023-04 star:0.0k fork:0.0k https://openjdk.org/projects/shenandoah
 - [openjdk/shenandoah-jdk8u-dev](https://github.com/openjdk/shenandoah-jdk8u-dev) topic: pushed_at:2022-02 star:0.0k fork:0.0k https://openjdk.org/projects/shenandoah
 - [openjdk/shenandoah-visualizer](https://github.com/openjdk/shenandoah-visualizer) topic: pushed_at:2023-04 star:0.1k fork:0.0k https://openjdk.org/projects/shenandoah

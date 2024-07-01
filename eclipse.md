@@ -30,7 +30,7 @@
 
 ## C
 
-- [eclipse/amlen](https://github.com/eclipse/amlen) topic:hacktoberfest,iot,mqtt,mqtt-server pushed_at:2024-05 star:0.0k fork:0.0k Message Broker for IoT/Mobile/Web. Mainly uses MQTT v3.x and v5. Aims to be easy to use, scalable and reliable
+- [eclipse/amlen](https://github.com/eclipse/amlen) topic:hacktoberfest,iot,mqtt,mqtt-server pushed_at:2024-06 star:0.0k fork:0.0k Message Broker for IoT/Mobile/Web. Mainly uses MQTT v3.x and v5. Aims to be easy to use, scalable and reliable
 - [eclipse/mosquitto](https://github.com/eclipse/mosquitto) topic:broker,eclipse-iot,libwebsockets,mosquitto,mqtt pushed_at:2024-06 star:8.6k fork:2.3k Eclipse Mosquitto - An open source MQTT broker
 - [eclipse/mosquitto.rsmb](https://github.com/eclipse/mosquitto.rsmb) topic: pushed_at:2023-08 star:0.1k fork:0.0k Mosquitto rsmb
 - [eclipse/mraa](https://github.com/eclipse/mraa) topic:board,communication,galileo,gpio,i2c,intel-joule,io,libmraa,linux,mraa,raspberry-pi,spi pushed_at:2024-06 star:1.4k fork:0.6k Linux Library for low speed IO Communication in C with bindings for C++, Python, Node.js & Java. Supports generic io platforms, as well as Intel Edison, Intel Joule, Raspberry Pi and many more.
@@ -49,7 +49,7 @@
 - [eclipse/iottestware.mqtt](https://github.com/eclipse/iottestware.mqtt) topic: pushed_at:2021-01 star:0.0k fork:0.0k iottestware.mqtt
 - [eclipse/kuksa.apps](https://github.com/eclipse/kuksa.apps) topic: pushed_at:2022-11 star:0.0k fork:0.0k Kuksa Apps repo
 - [eclipse/kuksa.invehicle](https://github.com/eclipse/kuksa.invehicle) topic: pushed_at:2022-11 star:0.0k fork:0.0k Kuksa Invehicle repo
-- [eclipse/kuksa.val](https://github.com/eclipse/kuksa.val) topic: pushed_at:2024-05 star:0.1k fork:0.1k kuksa.val
+- [eclipse/kuksa.val](https://github.com/eclipse/kuksa.val) topic: pushed_at:2024-06 star:0.1k fork:0.1k kuksa.val
 - [eclipse/omr](https://github.com/eclipse/omr) topic:hacktoberfest pushed_at:2024-06 star:0.9k fork:0.4k Eclipse OMR™ Cross platform components for building reliable, high performance language runtimes
 - [eclipse/paho.mqtt-sn.embedded-c](https://github.com/eclipse/paho.mqtt-sn.embedded-c) topic: pushed_at:2024-06 star:0.3k fork:0.2k Paho C MQTT-SN gateway and libraries for embedded systems.  Paho is an Eclipse IoT project.
 - [eclipse/paho.mqtt.cpp](https://github.com/eclipse/paho.mqtt.cpp) topic: pushed_at:2024-06 star:1.0k fork:0.4k 
@@ -69,11 +69,11 @@
 ## Go
 
 - [eclipse/paho.golang](https://github.com/eclipse/paho.golang) topic: pushed_at:2024-05 star:0.3k fork:0.1k Go libraries
-- [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) topic:eclipseiot,internet-of-things,mqtt pushed_at:2024-05 star:2.6k fork:0.5k 
+- [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) topic:eclipseiot,internet-of-things,mqtt pushed_at:2024-05 star:2.7k fork:0.5k 
 
 ## Groovy
 
-- [eclipse/microprofile-build-infra](https://github.com/eclipse/microprofile-build-infra) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
+- [eclipse/microprofile-build-infra](https://github.com/eclipse/microprofile-build-infra) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 
 ## HTML
 
@@ -82,7 +82,7 @@
 - [eclipse/ecf-website](https://github.com/eclipse/ecf-website) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [eclipse/eclipse.github.com](https://github.com/eclipse/eclipse.github.com) topic: pushed_at:2024-01 star:0.0k fork:0.0k eclipse.github.com site
 - [eclipse/efbt-website](https://github.com/eclipse/efbt-website) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
-- [eclipse/elk-website](https://github.com/eclipse/elk-website) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
+- [eclipse/elk-website](https://github.com/eclipse/elk-website) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [eclipse/epsilon-website](https://github.com/eclipse/epsilon-website) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [eclipse/hawkbit-website](https://github.com/eclipse/hawkbit-website) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
 - [eclipse/january-website](https://github.com/eclipse/january-website) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
@@ -93,7 +93,7 @@
 - [eclipse/n4js-website](https://github.com/eclipse/n4js-website) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [eclipse/nebula-website](https://github.com/eclipse/nebula-website) topic: pushed_at:2024-01 star:0.0k fork:0.0k 
 - [eclipse/omr-website-publish](https://github.com/eclipse/omr-website-publish) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [eclipse/packages-website](https://github.com/eclipse/packages-website) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
+- [eclipse/packages-website](https://github.com/eclipse/packages-website) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [eclipse/paho-website](https://github.com/eclipse/paho-website) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
 - [eclipse/rcptt-website](https://github.com/eclipse/rcptt-website) topic: pushed_at:2024-01 star:0.0k fork:0.0k 
 - [eclipse/rdf4j-doc](https://github.com/eclipse/rdf4j-doc) topic: pushed_at:2020-07 star:0.0k fork:0.0k RDF4J Documentation
@@ -105,7 +105,7 @@
 
 - [eclipse/aCute](https://github.com/eclipse/aCute) topic: pushed_at:2024-04 star:0.1k fork:0.0k Eclipse aCute - C# edition in Eclipse IDE
 - [eclipse/agileuml](https://github.com/eclipse/agileuml) topic:agile,ocl,uml pushed_at:2024-06 star:0.0k fork:0.0k AgileUML tools for MDE using UML
-- [eclipse/amalgam](https://github.com/eclipse/amalgam) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
+- [eclipse/amalgam](https://github.com/eclipse/amalgam) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [eclipse/andmore](https://github.com/eclipse/andmore) topic: pushed_at:2018-03 star:0.1k fork:0.0k Andmore - Eclipse Android Tooling
 - [eclipse/buildship](https://github.com/eclipse/buildship) topic: pushed_at:2024-06 star:0.5k fork:0.2k The Eclipse Plug-ins for Gradle project.
 - [eclipse/cft](https://github.com/eclipse/cft) topic: pushed_at:2020-04 star:0.0k fork:0.0k 
@@ -115,7 +115,7 @@
 - [eclipse/dash-licenses](https://github.com/eclipse/dash-licenses) topic: pushed_at:2024-06 star:0.0k fork:0.0k Extract license information from content.
 - [eclipse/dawnsci](https://github.com/eclipse/dawnsci) topic: pushed_at:2019-11 star:0.0k fork:0.0k Eclipse DAWNSci™ project
 - [eclipse/eavp](https://github.com/eclipse/eavp) topic: pushed_at:2019-03 star:0.0k fork:0.0k Eclipse advanced visualization project
-- [eclipse/ecf](https://github.com/eclipse/ecf) topic: pushed_at:2024-05 star:0.0k fork:0.0k ECF project repository
+- [eclipse/ecf](https://github.com/eclipse/ecf) topic: pushed_at:2024-06 star:0.0k fork:0.0k ECF project repository
 - [eclipse/eclipse-collections](https://github.com/eclipse/eclipse-collections) topic:collections,data-structures,eclipse-collections,functional,immutable-collections,java,java-collections,object-oriented,primitive-collections pushed_at:2024-06 star:2.4k fork:0.6k Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.
 - [eclipse/eclipse-collections-kata](https://github.com/eclipse/eclipse-collections-kata) topic:code-katas,eclipse-collections,java,java-11,java-17,java-21,katas pushed_at:2023-11 star:0.4k fork:0.2k Eclipse Collections Katas 
 - [eclipse/edje](https://github.com/eclipse/edje) topic:eclipseiot,embedded,internet-of-things,java pushed_at:2018-11 star:0.0k fork:0.0k Edje project (ARCHIVED)
@@ -133,7 +133,7 @@
 - [eclipse/gemoc-studio-modeldebugging](https://github.com/eclipse/gemoc-studio-modeldebugging) topic: pushed_at:2023-12 star:0.0k fork:0.0k gemoc-studio-modeldebugging
 - [eclipse/gsc-ec-converter](https://github.com/eclipse/gsc-ec-converter) topic: pushed_at:2017-01 star:0.0k fork:0.0k Collections converter
 - [eclipse/hawkbit](https://github.com/eclipse/hawkbit) topic:eclipseiot,internet-of-things,iot,software-provisioning pushed_at:2024-06 star:0.4k fork:0.2k Eclipse hawkBit™
-- [eclipse/hawkbit-examples](https://github.com/eclipse/hawkbit-examples) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
+- [eclipse/hawkbit-examples](https://github.com/eclipse/hawkbit-examples) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [eclipse/hawkbit-extensions](https://github.com/eclipse/hawkbit-extensions) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
 - [eclipse/ice](https://github.com/eclipse/ice) topic: pushed_at:2023-10 star:0.0k fork:0.1k This project has moved to: https://gitlab.eclipse.org/eclipse/ice/ice
 - [eclipse/imagen](https://github.com/eclipse/imagen) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
@@ -152,7 +152,7 @@
 - [eclipse/kitalpha-addons](https://github.com/eclipse/kitalpha-addons) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [eclipse/kuksa.ide](https://github.com/eclipse/kuksa.ide) topic: pushed_at:2022-11 star:0.0k fork:0.0k Kuksa IDE repo
 - [eclipse/kura](https://github.com/eclipse/kura) topic:eclipseiot,gateway,internet-of-things,iot,java pushed_at:2024-06 star:0.5k fork:0.3k Eclipse Kura™ is a versatile framework to supercharge your edge devices, streamlining the process of configuring your gateway, connecting sensors, and IoT devices to seamlessly collect, process, and send data to the cloud.
-- [eclipse/lemminx](https://github.com/eclipse/lemminx) topic:java,language-server-protocol,ls,xml pushed_at:2024-05 star:0.3k fork:0.1k XML Language Server
+- [eclipse/lemminx](https://github.com/eclipse/lemminx) topic:java,language-server-protocol,ls,xml pushed_at:2024-05 star:0.2k fork:0.1k XML Language Server
 - [eclipse/lemminx-maven](https://github.com/eclipse/lemminx-maven) topic: pushed_at:2024-06 star:0.0k fork:0.0k lemminx-maven
 - [eclipse/lsp4e](https://github.com/eclipse/lsp4e) topic: pushed_at:2024-06 star:0.1k fork:0.1k Language Server Protocol support in Eclipse IDE
 - [eclipse/lsp4jakarta](https://github.com/eclipse/lsp4jakarta) topic:eclipse,jakartaee,java pushed_at:2024-02 star:0.0k fork:0.1k Language Server for Jakarta EE
@@ -172,21 +172,21 @@
 - [eclipse/lyo.trs-client](https://github.com/eclipse/lyo.trs-client) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [eclipse/lyo.trs-server](https://github.com/eclipse/lyo.trs-server) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [eclipse/lyo.validation](https://github.com/eclipse/lyo.validation) topic: pushed_at:2021-09 star:0.0k fork:0.0k lyo validation
-- [eclipse/microprofile](https://github.com/eclipse/microprofile) topic: pushed_at:2024-05 star:0.7k fork:0.1k Repository for important documentation - the index to the project / community
+- [eclipse/microprofile](https://github.com/eclipse/microprofile) topic: pushed_at:2024-06 star:0.7k fork:0.1k Repository for important documentation - the index to the project / community
 - [eclipse/microprofile-conference](https://github.com/eclipse/microprofile-conference) topic: pushed_at:2023-07 star:0.1k fork:0.1k Microprofile.io Demo Code - Web Services Conference Application
-- [eclipse/microprofile-config](https://github.com/eclipse/microprofile-config) topic: pushed_at:2024-01 star:0.2k fork:0.1k MicroProfile Configuration Feature
+- [eclipse/microprofile-config](https://github.com/eclipse/microprofile-config) topic: pushed_at:2024-06 star:0.2k fork:0.1k MicroProfile Configuration Feature
 - [eclipse/microprofile-context-propagation](https://github.com/eclipse/microprofile-context-propagation) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
 - [eclipse/microprofile-fault-tolerance](https://github.com/eclipse/microprofile-fault-tolerance) topic: pushed_at:2024-06 star:0.1k fork:0.1k microprofile fault tolerance
 - [eclipse/microprofile-graphql](https://github.com/eclipse/microprofile-graphql) topic: pushed_at:2024-03 star:0.1k fork:0.0k microprofile-graphql
 - [eclipse/microprofile-health](https://github.com/eclipse/microprofile-health) topic: pushed_at:2024-03 star:0.1k fork:0.1k microprofile-health
-- [eclipse/microprofile-jwt-auth](https://github.com/eclipse/microprofile-jwt-auth) topic: pushed_at:2024-05 star:0.1k fork:0.1k 
+- [eclipse/microprofile-jwt-auth](https://github.com/eclipse/microprofile-jwt-auth) topic: pushed_at:2024-06 star:0.1k fork:0.1k 
 - [eclipse/microprofile-jwt-bridge](https://github.com/eclipse/microprofile-jwt-bridge) topic:jwt,microprofile pushed_at:2024-01 star:0.0k fork:0.0k microprofile-jwt-bridge
-- [eclipse/microprofile-lra](https://github.com/eclipse/microprofile-lra) topic: pushed_at:2023-07 star:0.1k fork:0.0k microprofile-lra
+- [eclipse/microprofile-lra](https://github.com/eclipse/microprofile-lra) topic: pushed_at:2024-06 star:0.1k fork:0.0k microprofile-lra
 - [eclipse/microprofile-metrics](https://github.com/eclipse/microprofile-metrics) topic: pushed_at:2024-05 star:0.1k fork:0.1k microprofile-metrics
 - [eclipse/microprofile-open-api](https://github.com/eclipse/microprofile-open-api) topic: pushed_at:2024-06 star:0.1k fork:0.1k Microprofile open api
 - [eclipse/microprofile-opentracing](https://github.com/eclipse/microprofile-opentracing) topic: pushed_at:2023-07 star:0.1k fork:0.0k microprofile-opentracing
 - [eclipse/microprofile-reactive-messaging](https://github.com/eclipse/microprofile-reactive-messaging) topic: pushed_at:2024-04 star:0.1k fork:0.0k 
-- [eclipse/microprofile-reactive-streams-operators](https://github.com/eclipse/microprofile-reactive-streams-operators) topic: pushed_at:2023-09 star:0.1k fork:0.0k Microprofile project
+- [eclipse/microprofile-reactive-streams-operators](https://github.com/eclipse/microprofile-reactive-streams-operators) topic: pushed_at:2024-06 star:0.1k fork:0.0k Microprofile project
 - [eclipse/microprofile-rest-client](https://github.com/eclipse/microprofile-rest-client) topic: pushed_at:2024-06 star:0.1k fork:0.1k MicroProfile Rest Client
 - [eclipse/microprofile-samples](https://github.com/eclipse/microprofile-samples) topic: pushed_at:2023-07 star:0.1k fork:0.1k Micro Profile Samples
 - [eclipse/microprofile-sandbox](https://github.com/eclipse/microprofile-sandbox) topic: pushed_at:2024-04 star:0.0k fork:0.1k 
@@ -200,9 +200,9 @@
 - [eclipse/n4js](https://github.com/eclipse/n4js) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [eclipse/nebula](https://github.com/eclipse/nebula) topic: pushed_at:2024-06 star:0.1k fork:0.1k Nebula Project
 - [eclipse/oneofour](https://github.com/eclipse/oneofour) topic: pushed_at:2023-10 star:0.0k fork:0.0k oneofour
-- [eclipse/openvsx](https://github.com/eclipse/openvsx) topic:extension,marketplace,registry,theia,vscode pushed_at:2024-06 star:1.1k fork:0.1k An open-source registry for VS Code extensions
+- [eclipse/openvsx](https://github.com/eclipse/openvsx) topic:extension,marketplace,registry,theia,vscode pushed_at:2024-06 star:1.2k fork:0.1k An open-source registry for VS Code extensions
 - [eclipse/org.eclipse.emf.diffmerge.coevolution](https://github.com/eclipse/org.eclipse.emf.diffmerge.coevolution) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
-- [eclipse/org.eclipse.emf.diffmerge.core](https://github.com/eclipse/org.eclipse.emf.diffmerge.core) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
+- [eclipse/org.eclipse.emf.diffmerge.core](https://github.com/eclipse/org.eclipse.emf.diffmerge.core) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [eclipse/org.eclipse.emf.diffmerge.patch](https://github.com/eclipse/org.eclipse.emf.diffmerge.patch) topic: pushed_at:2021-08 star:0.0k fork:0.0k DEPRECATED/ARCHIVED
 - [eclipse/org.eclipse.emf.diffmerge.patterns](https://github.com/eclipse/org.eclipse.emf.diffmerge.patterns) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
 - [eclipse/org.eclipse.rap.incubator.e4.compatibility.workbench](https://github.com/eclipse/org.eclipse.rap.incubator.e4.compatibility.workbench) topic: pushed_at:2023-06 star:0.0k fork:0.0k rap incubator e4 compatibility workbench
@@ -233,7 +233,7 @@
 - [eclipse/tahu](https://github.com/eclipse/tahu) topic:iiot,iot,mqtt,scada,sparkplug,sparkplug-specification pushed_at:2024-06 star:0.2k fork:0.1k Eclipse Tahu addresses the existence of legacy SCADA/DCS/ICS protocols and infrastructures and provides a much-needed definition of how best to apply MQTT into these existing industrial operational environments.
 - [eclipse/tiaki-java](https://github.com/eclipse/tiaki-java) topic: pushed_at:2015-12 star:0.0k fork:0.0k Tiaki Java projects
 - [eclipse/tm4e](https://github.com/eclipse/tm4e) topic:eclipse,hacktoberfest,java,textmate pushed_at:2024-06 star:0.1k fork:0.1k TextMate support in Eclipse IDE
-- [eclipse/transformer](https://github.com/eclipse/transformer) topic:eclipse-transformer,jakarta,java,renaming-rules pushed_at:2024-06 star:0.1k fork:0.1k Eclipse Transformer provides tools and runtime components that transform Java binaries, such as individual class files and complete JARs and WARs, mapping changes to Java packages, type names, and related resource names.
+- [eclipse/transformer](https://github.com/eclipse/transformer) topic:eclipse-transformer,jakarta,java,renaming-rules pushed_at:2024-07 star:0.1k fork:0.1k Eclipse Transformer provides tools and runtime components that transform Java binaries, such as individual class files and complete JARs and WARs, mapping changes to Java packages, type names, and related resource names.
 - [eclipse/vorto](https://github.com/eclipse/vorto) topic:dsl,eclipse,eclipseiot,internet-of-things,iot,toolset pushed_at:2024-02 star:0.2k fork:0.1k Vorto Project
 - [eclipse/vorto-examples](https://github.com/eclipse/vorto-examples) topic:bosch-security-cameras,device,generators,iot,java,vorto,vorto-connector pushed_at:2021-03 star:0.0k fork:0.0k Contains example code leveraging Vorto information models
 - [eclipse/Xpect](https://github.com/eclipse/Xpect) topic: pushed_at:2024-06 star:0.0k fork:0.0k This repository has been rewritten to move to the Eclipse Foundation. Find the old history here: https://github.com/TypeFox/Xpect
@@ -288,7 +288,7 @@
 - [eclipse/microprofile-bom](https://github.com/eclipse/microprofile-bom) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
 - [eclipse/microprofile-evolution-process](https://github.com/eclipse/microprofile-evolution-process) topic: pushed_at:2023-07 star:0.0k fork:0.0k For the evolution of new ideas
 - [eclipse/microprofile-marketing](https://github.com/eclipse/microprofile-marketing) topic: pushed_at:2024-02 star:0.0k fork:0.0k 
-- [eclipse/microprofile-parent](https://github.com/eclipse/microprofile-parent) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
+- [eclipse/microprofile-parent](https://github.com/eclipse/microprofile-parent) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [eclipse/microprofile-service-mesh](https://github.com/eclipse/microprofile-service-mesh) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
 - [eclipse/microprofile-tutorial](https://github.com/eclipse/microprofile-tutorial) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
 - [eclipse/org.eclipse.riena.3xtargets](https://github.com/eclipse/org.eclipse.riena.3xtargets) topic: pushed_at:2020-08 star:0.0k fork:0.0k org.eclipse.riena.3xtargets

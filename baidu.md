@@ -27,7 +27,7 @@
 
 - [baidu/baidu-iot-samples](https://github.com/baidu/baidu-iot-samples) topic: pushed_at:2019-10 star:0.1k fork:0.1k 
 - [baidu/boteye_sensor](https://github.com/baidu/boteye_sensor) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2024-06 star:4.5k fork:0.5k dperf is a 100Gbps network load tester.
+- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2024-06 star:4.6k fork:0.5k dperf is a 100Gbps network load tester.
 - [baidu/du1906_esp](https://github.com/baidu/du1906_esp) topic: pushed_at:2023-05 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
 - [baidu/iot-edge-sdk-for-iot-parser](https://github.com/baidu/iot-edge-sdk-for-iot-parser) topic: pushed_at:2019-02 star:0.1k fork:0.1k 
 - [baidu/iot-sdk-c](https://github.com/baidu/iot-sdk-c) topic:device-management,edge-sdk,mqtt,sdk pushed_at:2022-04 star:0.1k fork:0.1k device sdk for baidu IoT Core service, in c. Including MQTT client
@@ -116,7 +116,7 @@
 - [baidu/san-router](https://github.com/baidu/san-router) topic:san pushed_at:2023-12 star:0.0k fork:0.0k Official Router for San
 - [baidu/san-store](https://github.com/baidu/san-store) topic:appstate,san pushed_at:2023-07 star:0.1k fork:0.0k Application States Management for San
 - [baidu/san-update](https://github.com/baidu/san-update) topic:san pushed_at:2023-05 star:0.1k fork:0.0k Object immutable update utility for san solution
-- [baidu/san-website](https://github.com/baidu/san-website) topic: pushed_at:2024-05 star:0.0k fork:0.1k 
+- [baidu/san-website](https://github.com/baidu/san-website) topic: pushed_at:2024-06 star:0.0k fork:0.1k 
 - [baidu/signet](https://github.com/baidu/signet) topic: pushed_at:2014-12 star:0.0k fork:0.0k 签章系统
 - [baidu/wx2](https://github.com/baidu/wx2) topic: pushed_at:2021-04 star:0.1k fork:0.0k 小程序互转工具
 
@@ -161,7 +161,7 @@
 - [baidu/logcover](https://github.com/baidu/logcover) topic: pushed_at:2017-02 star:0.1k fork:0.0k 轻量级异常日志测试覆盖率度量工具
 - [baidu/pymochow](https://github.com/baidu/pymochow) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [baidu/QCompute](https://github.com/baidu/QCompute) topic: pushed_at:2023-12 star:0.1k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
-- [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2024-05 star:1.9k fork:0.4k Baidu's open-source Sentiment Analysis System.
+- [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2024-06 star:1.9k fork:0.4k Baidu's open-source Sentiment Analysis System.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) topic: pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
 
 ## Ruby
@@ -174,9 +174,9 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) topic:admin,frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2024-06 star:16.4k fork:2.4k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) topic:admin,frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2024-06 star:16.5k fork:2.4k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) topic:chrome,chromium,debug,devtools,extension,san pushed_at:2023-12 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
-- [baidu/san-ssr](https://github.com/baidu/san-ssr) topic:san,ssr,ssr-target-js pushed_at:2024-01 star:0.0k fork:0.0k San SSR framework and utils
+- [baidu/san-ssr](https://github.com/baidu/san-ssr) topic:san,ssr,ssr-target-js pushed_at:2024-06 star:0.0k fork:0.0k San SSR framework and utils
 
 ## VHDL
 
