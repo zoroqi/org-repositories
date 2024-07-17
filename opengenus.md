@@ -36,7 +36,7 @@
 - [OpenGenus/calculator-in-cpp](https://github.com/OpenGenus/calculator-in-cpp) topic:calculator,console-application,cpp,opengenus-internship,project pushed_at:2023-01 star:0.0k fork:0.0k Calculator Console Application in C++
 - [OpenGenus/calendar-in-cpp](https://github.com/OpenGenus/calendar-in-cpp) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) topic:algorithm,datastructures,hacktoberfest,hacktoberfest-accepted,hacktoberfest2022,hacktoberfest2023,internship,internships,interview-questions,library,offline-app,opengenus,search-algorithms,sorting-algorithms pushed_at:2024-02 star:13.5k fork:3.7k World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
-- [OpenGenus/daily43-cpp](https://github.com/OpenGenus/daily43-cpp) topic:algorithms,cpp,daily43,data-structures,easy,interview-questions,leetcode,leetcode-cpp pushed_at:2024-06 star:0.0k fork:0.0k DAILY 43: Algorithmic Problems for Coding Interviews: Easy level, C++ edition
+- [OpenGenus/daily43-cpp](https://github.com/OpenGenus/daily43-cpp) topic:algorithms,cpp,daily43,data-structures,easy,interview-questions,leetcode,leetcode-cpp pushed_at:2024-07 star:0.0k fork:0.0k DAILY 43: Algorithmic Problems for Coding Interviews: Easy level, C++ edition
 - [OpenGenus/Hangman-cpp](https://github.com/OpenGenus/Hangman-cpp) topic: pushed_at:2023-08 star:0.0k fork:0.0k Hangman game in C++
 - [OpenGenus/keylogger-cpp](https://github.com/OpenGenus/keylogger-cpp) topic:cpp,keylogger,opengenus-internship pushed_at:2023-01 star:0.0k fork:0.0k Keylogger developed in C++
 - [OpenGenus/quark](https://github.com/OpenGenus/quark) topic:code-search,hacktoberfest,hacktoberfest2021,javascript,offline,opengenus,search-engine pushed_at:2022-10 star:0.6k fork:0.1k Stay happy while offline | World's first offline search engine. 
@@ -60,7 +60,7 @@
 ## HTML
 
 - [OpenGenus/Bomberman-Game-in-HTML](https://github.com/OpenGenus/Bomberman-Game-in-HTML) topic:bomberman,css,game,html,javascript,web-development pushed_at:2023-07 star:0.0k fork:0.0k Bomberman Game in HTML, CSS, JavaScript [by OpenGenus Intern Yingzi Tang]
-- [OpenGenus/checklist](https://github.com/OpenGenus/checklist) topic:checklist,opengenus,opengenus-internship pushed_at:2024-06 star:0.0k fork:0.0k OpenGenus Checklist project: Learn everything at your own pace and keep track 🐐 Pioneering the future of organized sequential knowledge
+- [OpenGenus/checklist](https://github.com/OpenGenus/checklist) topic:checklist,opengenus,opengenus-internship pushed_at:2024-07 star:0.0k fork:0.0k OpenGenus Checklist project: Learn everything at your own pace and keep track 🐐 Pioneering the future of organized sequential knowledge
 - [OpenGenus/clipboard_html](https://github.com/OpenGenus/clipboard_html) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/collaboration](https://github.com/OpenGenus/collaboration) topic: pushed_at:2018-06 star:0.0k fork:0.0k 
 - [OpenGenus/cookies](https://github.com/OpenGenus/cookies) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
@@ -295,7 +295,7 @@
 - [OpenGenus/saturn](https://github.com/OpenGenus/saturn) topic: pushed_at:2019-02 star:0.0k fork:0.0k 
 - [OpenGenus/Sentiment-Analysis-For-Mental-Health-Sites-and-Forums](https://github.com/OpenGenus/Sentiment-Analysis-For-Mental-Health-Sites-and-Forums) topic: pushed_at:2023-12 star:0.0k fork:0.0k Sentiment Analysis For Mental Health Sites and Forums
 - [OpenGenus/shortest-path-maze-py](https://github.com/OpenGenus/shortest-path-maze-py) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
-- [OpenGenus/SIFT-Scale-Invariant-Feature-Transform](https://github.com/OpenGenus/SIFT-Scale-Invariant-Feature-Transform) topic: pushed_at:2019-08 star:0.0k fork:0.0k SIFT (Scale Invariant Feature Transform)
+- [OpenGenus/SIFT-Scale-Invariant-Feature-Transform](https://github.com/OpenGenus/SIFT-Scale-Invariant-Feature-Transform) topic: pushed_at:2024-07 star:0.0k fork:0.0k SIFT (Scale Invariant Feature Transform)
 - [OpenGenus/snake-game-in-python](https://github.com/OpenGenus/snake-game-in-python) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [OpenGenus/Social-Distancing-Checker-DL](https://github.com/OpenGenus/Social-Distancing-Checker-DL) topic: pushed_at:2023-05 star:0.0k fork:0.0k Social Distancing Checker
 - [OpenGenus/Tetris-in-Python](https://github.com/OpenGenus/Tetris-in-Python) topic:opengenus-internship,pygame,python,tetris-game pushed_at:2023-11 star:0.0k fork:0.0k Tetris in Python using PyGame [developed by OG intern Mathankumar V]
