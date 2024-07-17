@@ -782,10 +782,10 @@
 - [apachecn/hooks](https://github.com/apachecn/hooks) topic: pushed_at:2023-03 star:0.0k fork:0.0k A high-quality & reliable React Hooks library.
 - [apachecn/HOW2J-tuts](https://github.com/apachecn/HOW2J-tuts) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [apachecn/huazhang-ai-book](https://github.com/apachecn/huazhang-ai-book) topic: pushed_at:2023-01 star:0.0k fork:0.0k :books: 华章智能科学技术丛书
-- [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.2k fork:0.1k :books: 华章计算机科学丛书高清扫描
+- [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.3k fork:0.1k :books: 华章计算机科学丛书高清扫描
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) topic: pushed_at:2023-02 star:0.0k fork:0.0k :book: 华章经管丛书高清扫描
-- [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.1k fork:0.1k :books: 华章数学丛书高清扫描
-- [apachecn/huggingface-doc-zh](https://github.com/apachecn/huggingface-doc-zh) topic: pushed_at:2024-06 star:0.0k fork:0.0k Hugging Face - 文档库(中文版)
+- [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.2k fork:0.1k :books: 华章数学丛书高清扫描
+- [apachecn/huggingface-doc-zh](https://github.com/apachecn/huggingface-doc-zh) topic: pushed_at:2024-07 star:0.0k fork:0.0k Hugging Face - 文档库(中文版)
 - [apachecn/hugo-PaperModX](https://github.com/apachecn/hugo-PaperModX) topic: pushed_at:2023-04 star:0.0k fork:0.0k A fast, clean, responsive Hugo theme.
 - [apachecn/igetget](https://github.com/apachecn/igetget) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
 - [apachecn/igetget2](https://github.com/apachecn/igetget2) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
@@ -868,7 +868,7 @@
 - [apachecn/JAVA](https://github.com/apachecn/JAVA) topic: pushed_at:2022-05 star:0.0k fork:0.0k 存放JAVA开发的设计思想、算法：《剑指Offer》、《编程珠玑》、《深入理解Java虚拟机：JVM高级特性与最佳实践》、《重构-改善既有代码的设计 中文版》、《clean_code(中文完整版)》、《Java编程思想(第4版)》、《Java核心技术 卷I (第8版)》、《Quartz_Job+Scheduling_Framework》；一些大的上传不上来的文件在README
 - [apachecn/JavaFamily](https://github.com/apachecn/JavaFamily) topic: pushed_at:2022-03 star:0.0k fork:0.0k 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [apachecn/javascript-questions](https://github.com/apachecn/javascript-questions) topic: pushed_at:2022-07 star:0.0k fork:0.0k A long list of (advanced) JavaScript questions, and their explanations :sparkles:  
-- [apachecn/JavaScript-The-Definitive-Guide-7th-zh](https://github.com/apachecn/JavaScript-The-Definitive-Guide-7th-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k 《JavaScript权威指南第七版》中文翻译
+- [apachecn/JavaScript-The-Definitive-Guide-7th-zh](https://github.com/apachecn/JavaScript-The-Definitive-Guide-7th-zh) topic: pushed_at:2020-09 star:0.1k fork:0.1k 《JavaScript权威指南第七版》中文翻译
 - [apachecn/jd_maotai_seckill](https://github.com/apachecn/jd_maotai_seckill) topic: pushed_at:2021-12 star:0.0k fork:0.0k 优化版本的京东茅台抢购神器
 - [apachecn/jd_seckill](https://github.com/apachecn/jd_seckill) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
 - [apachecn/jeepay](https://github.com/apachecn/jeepay) topic: pushed_at:2023-03 star:0.0k fork:0.0k Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
@@ -1193,7 +1193,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-03 star:38.6k fork:11.4k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-03 star:38.7k fork:11.4k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
@@ -1225,7 +1225,7 @@
 
 ## Shell
 
-- [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) topic: pushed_at:2021-01 star:2.1k fork:0.5k ApacheCN AI 路线图（知识树）
+- [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) topic: pushed_at:2021-01 star:2.2k fork:0.5k ApacheCN AI 路线图（知识树）
 - [apachecn/awesome-article-recomm](https://github.com/apachecn/awesome-article-recomm) topic:ai,blogpost pushed_at:2020-09 star:0.1k fork:0.0k 优质博文推荐计划
 - [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh) topic: pushed_at:2020-09 star:0.8k fork:0.1k 计算机公开课推荐
 - [apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh) topic: pushed_at:2020-09 star:0.8k fork:0.1k 独立开发/自由职业/远程工作资源列表
@@ -1236,7 +1236,7 @@
 - [apachecn/java8-tut-zh](https://github.com/apachecn/java8-tut-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Java8 中文官方文档（施工中）
 - [apachecn/misc-docs-zh](https://github.com/apachecn/misc-docs-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :books: [译] ApacheCN 短篇集
 - [apachecn/ml-book-100-zh](https://github.com/apachecn/ml-book-100-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] 百页机器学习小书
-- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2024-06 star:4.1k fork:1.0k Pytorch 中文文档
+- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2024-07 star:4.1k fork:1.0k Pytorch 中文文档
 - [apachecn/rpy2-doc-zh](https://github.com/apachecn/rpy2-doc-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/stanford-cs234-notes-zh](https://github.com/apachecn/stanford-cs234-notes-zh) topic: pushed_at:2021-01 star:0.2k fork:0.0k 斯坦福 cs234 强化学习中文讲义
 - [apachecn/stanford-game-theory-notes-zh](https://github.com/apachecn/stanford-game-theory-notes-zh) topic: pushed_at:2020-09 star:0.2k fork:0.0k 📖斯坦福博弈论中文笔记
