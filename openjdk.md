@@ -18,20 +18,20 @@
 
 ## C++
 
-- [openjdk/jfx](https://github.com/openjdk/jfx) topic:java,javafx,openjdk,openjfx pushed_at:2024-07 star:2.6k fork:0.4k JavaFX mainline development
+- [openjdk/jfx](https://github.com/openjdk/jfx) topic:java,javafx,openjdk,openjfx pushed_at:2024-08 star:2.6k fork:0.5k JavaFX mainline development
 - [openjdk/jfx-sandbox](https://github.com/openjdk/jfx-sandbox) topic: pushed_at:2024-07 star:0.0k fork:0.0k OpenJFX Committers Sandbox
-- [openjdk/jfx11u](https://github.com/openjdk/jfx11u) topic:java,javafx,openjdk pushed_at:2023-07 star:0.0k fork:0.0k JavaFX 11 updates development
+- [openjdk/jfx11u](https://github.com/openjdk/jfx11u) topic:java,javafx,openjdk pushed_at:2023-07 star:0.0k fork:0.0k JavaFX 11.x : last released 2023-07-19
 - [openjdk/jfx12](https://github.com/openjdk/jfx12) topic: pushed_at:2021-01 star:0.0k fork:0.0k JavaFX 12.x : last released 2019-07-19
 - [openjdk/jfx13](https://github.com/openjdk/jfx13) topic: pushed_at:2020-07 star:0.0k fork:0.0k JavaFX 13.x : last released 2020-01-15
 - [openjdk/jfx17u](https://github.com/openjdk/jfx17u) topic: pushed_at:2024-07 star:0.0k fork:0.0k JavaFX 17 updates development
 - [openjdk/jfx20u](https://github.com/openjdk/jfx20u) topic: pushed_at:2023-07 star:0.0k fork:0.0k JavaFX 20.x: last released 2023-07-18
-- [openjdk/jfx21u](https://github.com/openjdk/jfx21u) topic: pushed_at:2024-06 star:0.0k fork:0.0k JavaFX 21 updates development
-- [openjdk/jfx22u](https://github.com/openjdk/jfx22u) topic: pushed_at:2024-07 star:0.0k fork:0.0k JavaFX 22 updates development
+- [openjdk/jfx21u](https://github.com/openjdk/jfx21u) topic: pushed_at:2024-07 star:0.0k fork:0.0k JavaFX 21 updates development
+- [openjdk/jfx22u](https://github.com/openjdk/jfx22u) topic: pushed_at:2024-07 star:0.0k fork:0.0k JavaFX 22.x : last released 2024-07-16
 - [openjdk/jfx23u](https://github.com/openjdk/jfx23u) topic: pushed_at:2024-07 star:0.0k fork:0.0k JavaFX 23 updates development
 
 ## CSS
 
-- [openjdk/valhalla-docs](https://github.com/openjdk/valhalla-docs) topic: pushed_at:2024-06 star:0.1k fork:0.0k https://openjdk.org/projects/valhalla
+- [openjdk/valhalla-docs](https://github.com/openjdk/valhalla-docs) topic: pushed_at:2024-07 star:0.1k fork:0.0k https://openjdk.org/projects/valhalla
 
 ## HTML
 
@@ -52,7 +52,7 @@
 - [openjdk/galahad](https://github.com/openjdk/galahad) topic: pushed_at:2024-07 star:0.0k fork:0.0k https://openjdk.org/projects/galahad
 - [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2024-04 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2024-07 star:0.4k fork:0.1k https://openjdk.org/projects/code-tools/jcstress
-- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2024-07 star:19.0k fork:5.3k JDK main-line development https://openjdk.org/projects/jdk
+- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2024-08 star:19.1k fork:5.3k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2024-07 star:0.1k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2024-07 star:0.1k fork:0.2k https://openjdk.org/projects/jdk-updates
@@ -80,17 +80,17 @@
 - [openjdk/jdk20](https://github.com/openjdk/jdk20) topic: pushed_at:2023-04 star:0.0k fork:0.1k https://openjdk.org/projects/jdk/20 released 2023-03-21
 - [openjdk/jdk20u](https://github.com/openjdk/jdk20u) topic: pushed_at:2023-09 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates last released 2023-07-18
 - [openjdk/jdk21](https://github.com/openjdk/jdk21) topic: pushed_at:2023-09 star:0.1k fork:0.1k https://openjdk.org/projects/jdk/21 released 2023-09-19
-- [openjdk/jdk21u](https://github.com/openjdk/jdk21u) topic: pushed_at:2024-07 star:0.0k fork:0.1k https://openjdk.org/projects/jdk-updates
+- [openjdk/jdk21u](https://github.com/openjdk/jdk21u) topic: pushed_at:2024-07 star:0.1k fork:0.1k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk21u-dev](https://github.com/openjdk/jdk21u-dev) topic: pushed_at:2024-07 star:0.0k fork:0.1k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk22](https://github.com/openjdk/jdk22) topic: pushed_at:2024-03 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/22 released 2024-03-19
-- [openjdk/jdk22u](https://github.com/openjdk/jdk22u) topic: pushed_at:2024-07 star:0.0k fork:0.1k https://openjdk.org/projects/jdk-updates
+- [openjdk/jdk22u](https://github.com/openjdk/jdk22u) topic: pushed_at:2024-07 star:0.0k fork:0.1k https://openjdk.org/projects/jdk-updates last released 2024-07-17
 - [openjdk/jdk23u](https://github.com/openjdk/jdk23u) topic: pushed_at:2024-07 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk6](https://github.com/openjdk/jdk6) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk6
 - [openjdk/jdk7](https://github.com/openjdk/jdk7) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk7 released 2011-07-28
 - [openjdk/jdk7u](https://github.com/openjdk/jdk7u) topic: pushed_at:2022-07 star:0.0k fork:0.0k https://wiki.openjdk.org/display/jdk7u last released 2022-07-19
 - [openjdk/jdk8](https://github.com/openjdk/jdk8) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk8 released 2014-03-18
 - [openjdk/jdk8u](https://github.com/openjdk/jdk8u) topic: pushed_at:2024-07 star:0.2k fork:0.2k https://wiki.openjdk.org/display/jdk8u
-- [openjdk/jdk8u-dev](https://github.com/openjdk/jdk8u-dev) topic: pushed_at:2024-07 star:0.0k fork:0.1k https://wiki.openjdk.org/display/jdk8u
+- [openjdk/jdk8u-dev](https://github.com/openjdk/jdk8u-dev) topic: pushed_at:2024-07 star:0.1k fork:0.1k https://wiki.openjdk.org/display/jdk8u
 - [openjdk/jdk8u-ri](https://github.com/openjdk/jdk8u-ri) topic: pushed_at:2024-05 star:0.0k fork:0.0k JSR 337 Reference Implementation (Java SE 8) [not for production use]
 - [openjdk/jdk9](https://github.com/openjdk/jdk9) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk9 released 2017-09-21
 - [openjdk/jdk9u](https://github.com/openjdk/jdk9u) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates last released 2018-01-16
@@ -110,7 +110,7 @@
 - [openjdk/lilliput](https://github.com/openjdk/lilliput) topic: pushed_at:2024-07 star:0.0k fork:0.0k https://openjdk.org/projects/lilliput
 - [openjdk/lilliput-jdk17u](https://github.com/openjdk/lilliput-jdk17u) topic: pushed_at:2024-07 star:0.0k fork:0.0k https://openjdk.org/projects/lilliput
 - [openjdk/lilliput-jdk21u](https://github.com/openjdk/lilliput-jdk21u) topic: pushed_at:2024-07 star:0.0k fork:0.0k https://openjdk.org/projects/lilliput
-- [openjdk/loom](https://github.com/openjdk/loom) topic:java,jvm,loom,openjdk pushed_at:2024-07 star:1.8k fork:0.2k https://openjdk.org/projects/loom
+- [openjdk/loom](https://github.com/openjdk/loom) topic:java,jvm,loom,openjdk pushed_at:2024-07 star:1.9k fork:0.2k https://openjdk.org/projects/loom
 - [openjdk/metropolis](https://github.com/openjdk/metropolis) topic: pushed_at:2020-10 star:0.0k fork:0.0k https://openjdk.org/projects/metropolis
 - [openjdk/mobile](https://github.com/openjdk/mobile) topic:java,jvm,mobile,openjdk pushed_at:2024-07 star:0.1k fork:0.1k https://openjdk.org/projects/mobile
 - [openjdk/nashorn](https://github.com/openjdk/nashorn) topic: pushed_at:2023-02 star:0.4k fork:0.0k https://openjdk.org/projects/nashorn
@@ -130,7 +130,7 @@
 - [openjdk/sigtest](https://github.com/openjdk/sigtest) topic: pushed_at:2021-07 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/sigtest
 - [openjdk/skara](https://github.com/openjdk/skara) topic:git,hg,java,openjdk,skara pushed_at:2024-07 star:0.2k fork:0.1k https://openjdk.org/projects/skara
 - [openjdk/tsan](https://github.com/openjdk/tsan) topic: pushed_at:2024-07 star:0.0k fork:0.0k https://openjdk.org/projects/tsan
-- [openjdk/valhalla](https://github.com/openjdk/valhalla) topic: pushed_at:2024-07 star:0.5k fork:0.1k https://openjdk.org/projects/valhalla
+- [openjdk/valhalla](https://github.com/openjdk/valhalla) topic: pushed_at:2024-08 star:0.5k fork:0.1k https://openjdk.org/projects/valhalla
 - [openjdk/wakefield](https://github.com/openjdk/wakefield) topic: pushed_at:2024-07 star:0.2k fork:0.0k https://openjdk.org/projects/wakefield
 - [openjdk/zgc](https://github.com/openjdk/zgc) topic:openjdk,zgc pushed_at:2023-05 star:0.2k fork:0.0k The Z Garbage Collector https://wiki.openjdk.org/display/zgc
 
@@ -151,7 +151,7 @@
 - [openjdk/jdk11](https://github.com/openjdk/jdk11) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/11 released 2018-09-25
 - [openjdk/jdk12](https://github.com/openjdk/jdk12) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/12 released 2019-03-19
 - [openjdk/jmc-graphics](https://github.com/openjdk/jmc-graphics) topic: pushed_at:2022-03 star:0.0k fork:0.0k https://openjdk.org/projects/jmc
-- [openjdk/webrevs](https://github.com/openjdk/webrevs) topic: pushed_at:2024-07 star:0.0k fork:0.0k Automatically generated JSON files for webrevs
+- [openjdk/webrevs](https://github.com/openjdk/webrevs) topic: pushed_at:2024-08 star:0.0k fork:0.0k Automatically generated JSON files for webrevs
 
 ## Python
 

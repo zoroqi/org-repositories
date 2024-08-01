@@ -31,7 +31,7 @@
 ## C
 
 - [eclipse/amlen](https://github.com/eclipse/amlen) topic:hacktoberfest,iot,mqtt,mqtt-server pushed_at:2024-07 star:0.0k fork:0.0k Message Broker for IoT/Mobile/Web. Mainly uses MQTT v3.x and v5. Aims to be easy to use, scalable and reliable
-- [eclipse/mosquitto](https://github.com/eclipse/mosquitto) topic:broker,eclipse-iot,libwebsockets,mosquitto,mqtt pushed_at:2024-07 star:8.7k fork:2.3k Eclipse Mosquitto - An open source MQTT broker
+- [eclipse/mosquitto](https://github.com/eclipse/mosquitto) topic:broker,eclipse-iot,libwebsockets,mosquitto,mqtt pushed_at:2024-07 star:8.7k fork:2.4k Eclipse Mosquitto - An open source MQTT broker
 - [eclipse/mosquitto.rsmb](https://github.com/eclipse/mosquitto.rsmb) topic: pushed_at:2023-08 star:0.1k fork:0.0k Mosquitto rsmb
 - [eclipse/mraa](https://github.com/eclipse/mraa) topic:board,communication,galileo,gpio,i2c,intel-joule,io,libmraa,linux,mraa,raspberry-pi,spi pushed_at:2024-07 star:1.4k fork:0.6k Linux Library for low speed IO Communication in C with bindings for C++, Python, Node.js & Java. Supports generic io platforms, as well as Intel Edison, Intel Joule, Raspberry Pi and many more.
 - [eclipse/openmcx](https://github.com/eclipse/openmcx) topic: pushed_at:2024-07 star:0.0k fork:0.0k openmcx
@@ -69,7 +69,7 @@
 ## Go
 
 - [eclipse/paho.golang](https://github.com/eclipse/paho.golang) topic: pushed_at:2024-07 star:0.3k fork:0.1k Go libraries
-- [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) topic:eclipseiot,internet-of-things,mqtt pushed_at:2024-05 star:2.7k fork:0.5k 
+- [eclipse/paho.mqtt.golang](https://github.com/eclipse/paho.mqtt.golang) topic:eclipseiot,internet-of-things,mqtt pushed_at:2024-07 star:2.7k fork:0.5k 
 
 ## Groovy
 
@@ -81,7 +81,7 @@
 - [eclipse/dash-website](https://github.com/eclipse/dash-website) topic: pushed_at:2021-04 star:0.0k fork:0.0k Project Dash is a place where the community itself can collaborate on tools for community awareness and collaboration in support of our ultimate objective of committer quality and cooperation. This is very much a research project as we are not entirely sure what these tools will be.
 - [eclipse/ecf-website](https://github.com/eclipse/ecf-website) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [eclipse/eclipse.github.com](https://github.com/eclipse/eclipse.github.com) topic: pushed_at:2024-01 star:0.0k fork:0.0k eclipse.github.com site
-- [eclipse/efbt-website](https://github.com/eclipse/efbt-website) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
+- [eclipse/efbt-website](https://github.com/eclipse/efbt-website) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [eclipse/elk-website](https://github.com/eclipse/elk-website) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [eclipse/epsilon-website](https://github.com/eclipse/epsilon-website) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [eclipse/hawkbit-website](https://github.com/eclipse/hawkbit-website) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
@@ -133,7 +133,7 @@
 - [eclipse/gsc-ec-converter](https://github.com/eclipse/gsc-ec-converter) topic: pushed_at:2017-01 star:0.0k fork:0.0k Collections converter
 - [eclipse/hawkbit](https://github.com/eclipse/hawkbit) topic:eclipseiot,internet-of-things,iot,software-provisioning pushed_at:2024-07 star:0.4k fork:0.2k Eclipse hawkBit™
 - [eclipse/hawkbit-examples](https://github.com/eclipse/hawkbit-examples) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
-- [eclipse/hawkbit-extensions](https://github.com/eclipse/hawkbit-extensions) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
+- [eclipse/hawkbit-extensions](https://github.com/eclipse/hawkbit-extensions) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [eclipse/ice](https://github.com/eclipse/ice) topic: pushed_at:2023-10 star:0.0k fork:0.1k This project has moved to: https://gitlab.eclipse.org/eclipse/ice/ice
 - [eclipse/imagen](https://github.com/eclipse/imagen) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
 - [eclipse/january](https://github.com/eclipse/january) topic: pushed_at:2022-02 star:0.0k fork:0.0k January project
@@ -143,15 +143,15 @@
 - [eclipse/jnosql](https://github.com/eclipse/jnosql) topic:database,flexible,graph-database,jnosql,nosql,nosql-databases pushed_at:2024-07 star:0.2k fork:0.1k Eclipse JNoSQL is a framework which has the goal to help Java developers to create Jakarta EE applications with NoSQL.
 - [eclipse/jnosql-aphrodite](https://github.com/eclipse/jnosql-aphrodite) topic:jakartaee,java,javaee,jnosql,jnosql-aphrodite,jsr,nsq pushed_at:2019-02 star:0.0k fork:0.0k Eclipse JNoSQL Aphrodite is the project that contains the syntax query to JNoSQL API.
 - [eclipse/jnosql-artemis](https://github.com/eclipse/jnosql-artemis) topic:artemis,cdi,connect-nosql-databases,diana,jnosql,nosql pushed_at:2019-02 star:0.0k fork:0.0k Eclipse JNoSQL Artemis is a flexible and extensible OxM to connect NoSQL databases. It brings an easy interface to support key-value, column family, document-oriented and graph databases with heavy driven annotation using CDI.
-- [eclipse/jnosql-databases](https://github.com/eclipse/jnosql-databases) topic:jakartaee,java,jnosql,microprofile,nosql,nosql-databases pushed_at:2024-06 star:0.1k fork:0.0k This project contains Eclipse JNoSQL databases
-- [eclipse/jnosql-extensions](https://github.com/eclipse/jnosql-extensions) topic:jakartaee,java,jnosql,microprofile pushed_at:2024-06 star:0.0k fork:0.0k This project contains all specialization to Eclipse JNoSQL. The specific behavior in a NoSQL database matters, that's why there are Eclipse JNoSQL Mapper specializations.
+- [eclipse/jnosql-databases](https://github.com/eclipse/jnosql-databases) topic:jakartaee,java,jnosql,microprofile,nosql,nosql-databases pushed_at:2024-07 star:0.1k fork:0.0k This project contains Eclipse JNoSQL databases
+- [eclipse/jnosql-extensions](https://github.com/eclipse/jnosql-extensions) topic:jakartaee,java,jnosql,microprofile pushed_at:2024-07 star:0.0k fork:0.0k This project contains all specialization to Eclipse JNoSQL. The specific behavior in a NoSQL database matters, that's why there are Eclipse JNoSQL Mapper specializations.
 - [eclipse/kapua](https://github.com/eclipse/kapua) topic:eclipseiot,internet-of-things pushed_at:2024-07 star:0.2k fork:0.2k 
 - [eclipse/keti](https://github.com/eclipse/keti) topic: pushed_at:2023-07 star:0.0k fork:0.0k Eclipse Keti is a service that was designed to protect RESTfuls API using Attribute Based Access Control (ABAC).
 - [eclipse/kitalpha](https://github.com/eclipse/kitalpha) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [eclipse/kitalpha-addons](https://github.com/eclipse/kitalpha-addons) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [eclipse/kuksa.ide](https://github.com/eclipse/kuksa.ide) topic: pushed_at:2022-11 star:0.0k fork:0.0k Kuksa IDE repo
 - [eclipse/kura](https://github.com/eclipse/kura) topic:eclipseiot,gateway,internet-of-things,iot,java pushed_at:2024-07 star:0.5k fork:0.3k Eclipse Kura™ is a versatile framework to supercharge your edge devices, streamlining the process of configuring your gateway, connecting sensors, and IoT devices to seamlessly collect, process, and send data to the cloud.
-- [eclipse/lemminx](https://github.com/eclipse/lemminx) topic:java,language-server-protocol,ls,xml pushed_at:2024-05 star:0.3k fork:0.1k XML Language Server
+- [eclipse/lemminx](https://github.com/eclipse/lemminx) topic:java,language-server-protocol,ls,xml pushed_at:2024-07 star:0.3k fork:0.1k XML Language Server
 - [eclipse/lemminx-maven](https://github.com/eclipse/lemminx-maven) topic: pushed_at:2024-07 star:0.0k fork:0.0k lemminx-maven
 - [eclipse/lsp4e](https://github.com/eclipse/lsp4e) topic: pushed_at:2024-07 star:0.1k fork:0.1k Language Server Protocol support in Eclipse IDE
 - [eclipse/lsp4jakarta](https://github.com/eclipse/lsp4jakarta) topic:eclipse,jakartaee,java pushed_at:2024-02 star:0.0k fork:0.1k Language Server for Jakarta EE
@@ -214,7 +214,7 @@
 - [eclipse/org.eclipse.sensinact.gateway](https://github.com/eclipse/org.eclipse.sensinact.gateway) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [eclipse/packager](https://github.com/eclipse/packager) topic: pushed_at:2024-05 star:0.0k fork:0.0k Eclipse Packager project
 - [eclipse/paho.mqtt-spy](https://github.com/eclipse/paho.mqtt-spy) topic: pushed_at:2024-01 star:0.6k fork:0.1k mqtt-spy is an open source desktop & command line utility intended to help you with monitoring activity on MQTT topics
-- [eclipse/paho.mqtt.android](https://github.com/eclipse/paho.mqtt.android) topic:eclipseiot,internet-of-things,iot,mqtt pushed_at:2024-06 star:2.9k fork:0.9k MQTT Android
+- [eclipse/paho.mqtt.android](https://github.com/eclipse/paho.mqtt.android) topic:eclipseiot,internet-of-things,iot,mqtt pushed_at:2024-07 star:2.9k fork:0.9k MQTT Android
 - [eclipse/paho.mqtt.java](https://github.com/eclipse/paho.mqtt.java) topic:eclipseiot,internet-of-things,iot,mqtt,mqtt-client pushed_at:2024-07 star:2.1k fork:0.9k Eclipse Paho Java MQTT client library.  Paho is an Eclipse IoT project.
 - [eclipse/poosl](https://github.com/eclipse/poosl) topic: pushed_at:2024-03 star:0.0k fork:0.0k Poosl project.
 - [eclipse/rdf4j-storage](https://github.com/eclipse/rdf4j-storage) topic: pushed_at:2020-02 star:0.0k fork:0.0k RDF4J Storage Library
@@ -248,7 +248,7 @@
 
 ## JavaScript
 
-- [eclipse/diafanis](https://github.com/eclipse/diafanis) topic: pushed_at:2023-01 star:0.0k fork:0.0k Diafanis project
+- [eclipse/diafanis](https://github.com/eclipse/diafanis) topic: pushed_at:2024-07 star:0.0k fork:0.0k Diafanis project
 - [eclipse/dirigible](https://github.com/eclipse/dirigible) topic: pushed_at:2024-07 star:0.3k fork:0.1k Eclipse Dirigible™ Project
 - [eclipse/dirigible-samples](https://github.com/eclipse/dirigible-samples) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [eclipse/eclipsefuro-web](https://github.com/eclipse/eclipsefuro-web) topic:custom-elements,furo,web,webcomponents,webstack pushed_at:2024-07 star:0.0k fork:0.0k Enterprise ready set of web components which work best with Eclipse Furo. Comes with minimal footprint. Based on web standards. Future proved. Compliant with any technology of choice.
@@ -287,7 +287,7 @@
 - [eclipse/microprofile-bom](https://github.com/eclipse/microprofile-bom) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
 - [eclipse/microprofile-evolution-process](https://github.com/eclipse/microprofile-evolution-process) topic: pushed_at:2023-07 star:0.0k fork:0.0k For the evolution of new ideas
 - [eclipse/microprofile-marketing](https://github.com/eclipse/microprofile-marketing) topic: pushed_at:2024-02 star:0.0k fork:0.0k 
-- [eclipse/microprofile-parent](https://github.com/eclipse/microprofile-parent) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
+- [eclipse/microprofile-parent](https://github.com/eclipse/microprofile-parent) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [eclipse/microprofile-service-mesh](https://github.com/eclipse/microprofile-service-mesh) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
 - [eclipse/microprofile-tutorial](https://github.com/eclipse/microprofile-tutorial) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [eclipse/org.eclipse.riena.3xtargets](https://github.com/eclipse/org.eclipse.riena.3xtargets) topic: pushed_at:2020-08 star:0.0k fork:0.0k org.eclipse.riena.3xtargets

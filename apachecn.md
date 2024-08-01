@@ -33,7 +33,7 @@
 
 ## CSS
 
-- [apachecn/.github](https://github.com/apachecn/.github) topic:dl,ml,python,pytorch,solidity,spark pushed_at:2024-06 star:1.7k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
+- [apachecn/.github](https://github.com/apachecn/.github) topic:dl,ml,python,pytorch,solidity,spark pushed_at:2024-07 star:1.7k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [apachecn/airflow-doc-zh](https://github.com/apachecn/airflow-doc-zh) topic:airflow pushed_at:2023-07 star:0.2k fork:0.1k :book: [译] Airflow 中文文档
 - [apachecn/android-app-sec-guidebook-zh](https://github.com/apachecn/android-app-sec-guidebook-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/business-5min-notes](https://github.com/apachecn/business-5min-notes) topic:business,liurun,notes pushed_at:2021-01 star:0.1k fork:0.0k :book: 5 分钟商学院精细笔记
@@ -56,7 +56,7 @@
 - [apachecn/learning-tf-zh](https://github.com/apachecn/learning-tf-zh) topic:deep-learning,python,tensorflow,tutorial pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] TensorFlow 学习指南
 - [apachecn/llthw-zh](https://github.com/apachecn/llthw-zh) topic: pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] 笨办法学 Linux 中文版
 - [apachecn/lmpythw-zh](https://github.com/apachecn/lmpythw-zh) topic: pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] 笨办法学 Python · 续 中文版
-- [apachecn/lqcuq-zh](https://github.com/apachecn/lqcuq-zh) topic: pushed_at:2022-03 star:0.0k fork:0.0k 使用Qiskit学习量子计算
+- [apachecn/lqcuq-zh](https://github.com/apachecn/lqcuq-zh) topic: pushed_at:2022-03 star:0.1k fork:0.0k 使用Qiskit学习量子计算
 - [apachecn/LxxyxResume](https://github.com/apachecn/LxxyxResume) topic: pushed_at:2019-06 star:0.0k fork:0.0k 前端简历生成器
 - [apachecn/matplotlib-doc-zh](https://github.com/apachecn/matplotlib-doc-zh) topic:data-analysis,data-visualization,documentation,matplotlib,python pushed_at:2020-12 star:0.2k fork:0.1k :book: [译] Matplotlib 用户指南
 - [apachecn/ml-for-humans-zh](https://github.com/apachecn/ml-for-humans-zh) topic:machine-learning,tutorial pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] 写给人类的机器学习
@@ -66,7 +66,7 @@
 - [apachecn/ntu-hsuantienlin-ml](https://github.com/apachecn/ntu-hsuantienlin-ml) topic:hsuan-tien-lin,lecture-notes,machine-learning,ntu pushed_at:2021-01 star:0.3k fork:0.1k :book: 台湾大学林轩田机器学习笔记
 - [apachecn/pandas-cookbook-code-notes](https://github.com/apachecn/pandas-cookbook-code-notes) topic:code,data-analysis,notes,pandas,python pushed_at:2021-01 star:0.1k fork:0.0k :book: Pandas Cookbook 带注释源码
 - [apachecn/principles-zh](https://github.com/apachecn/principles-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :book: 原则 · 中文版
-- [apachecn/pyda-2e-zh](https://github.com/apachecn/pyda-2e-zh) topic:book,data-analysis,numpy,pandas,pyda,python pushed_at:2021-01 star:1.1k fork:0.4k :book:  [译] 利用 Python 进行数据分析 · 第 2 版
+- [apachecn/pyda-2e-zh](https://github.com/apachecn/pyda-2e-zh) topic:book,data-analysis,numpy,pandas,pyda,python pushed_at:2021-01 star:1.1k fork:0.3k :book:  [译] 利用 Python 进行数据分析 · 第 2 版
 - [apachecn/quant-learning](https://github.com/apachecn/quant-learning) topic: pushed_at:2024-01 star:0.3k fork:0.1k :books: Quant 教程整理
 - [apachecn/scapy-docs-zh](https://github.com/apachecn/scapy-docs-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/scipycon-2018-sklearn-tut-zh](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh) topic:machine-learning,python,scikit-learn,scipy2018,tutorial pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] SciPyCon 2018 Sklearn 教程
@@ -98,7 +98,7 @@
 - [apachecn/data8-textbook-zh](https://github.com/apachecn/data8-textbook-zh) topic:data-science,data8,lecture-notes,python,statistics,ucb pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] 计算与推断思维 中文版
 - [apachecn/Developer-Zero-To-Mastery](https://github.com/apachecn/Developer-Zero-To-Mastery) topic: pushed_at:2022-04 star:0.0k fork:0.0k :books: To Be Professional Developer From Zero To Mastery, Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视野、知识管理与职业规划，提高个人与团队的研发效能
 - [apachecn/devtools-snippets](https://github.com/apachecn/devtools-snippets) topic: pushed_at:2022-05 star:0.0k fork:0.0k A collection of helpful snippets to use inside of browser devtools
-- [apachecn/excelize-doc](https://github.com/apachecn/excelize-doc) topic: pushed_at:2022-10 star:0.0k fork:0.0k Docs reference for the excelize library. https://xuri.me/excelize
+- [apachecn/excelize-doc](https://github.com/apachecn/excelize-doc) topic: pushed_at:2024-08 star:0.0k fork:0.0k Docs reference for the excelize library. https://xuri.me/excelize
 - [apachecn/fastai-ml-dl-notes-zh](https://github.com/apachecn/fastai-ml-dl-notes-zh) topic:deep-learning,fastai,lecture-notes,machine-learning,python,pytorch pushed_at:2021-08 star:0.4k fork:0.1k :book:  [译] fast.ai 机器学习和深度学习中文笔记
 - [apachecn/ibooker-witchcraft-zh-redir](https://github.com/apachecn/ibooker-witchcraft-zh-redir) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/kafka-site-zh](https://github.com/apachecn/kafka-site-zh) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
@@ -127,7 +127,7 @@
 - [apachecn/alphamale20-blog-zh](https://github.com/apachecn/alphamale20-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/analyticsvidhya-blog-zh-2015to2020](https://github.com/apachecn/analyticsvidhya-blog-zh-2015to2020) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/analyticsvidhya-blog-zh-2021to2022](https://github.com/apachecn/analyticsvidhya-blog-zh-2021to2022) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
-- [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) topic:algorithm,coding,data-structure,geeker,hacker,interview,leetcode,leetcode-solutions,offer,python pushed_at:2024-06 star:10.9k fork:2.2k ApacheCN 数据结构与算法译文集
+- [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) topic:algorithm,coding,data-structure,geeker,hacker,interview,leetcode,leetcode-solutions,offer,python pushed_at:2024-06 star:11.0k fork:2.2k ApacheCN 数据结构与算法译文集
 - [apachecn/apachecn-android-zh](https://github.com/apachecn/apachecn-android-zh) topic: pushed_at:2022-01 star:0.0k fork:0.0k :books: [译] ApacheCN 安卓译文集
 - [apachecn/apachecn-android-zh-pt2](https://github.com/apachecn/apachecn-android-zh-pt2) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [apachecn/apachecn-android-zh-pt3](https://github.com/apachecn/apachecn-android-zh-pt3) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
@@ -406,7 +406,7 @@
 - [apachecn/mit-18.06-linalg-notes](https://github.com/apachecn/mit-18.06-linalg-notes) topic: pushed_at:2023-05 star:2.2k fork:0.7k MIT 18.06 线性代数笔记
 - [apachecn/mitnicksecurity-zh](https://github.com/apachecn/mitnicksecurity-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [apachecn/mkyong-blog-zh](https://github.com/apachecn/mkyong-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) topic: pushed_at:2022-07 star:0.6k fork:0.2k :book: [译] MachineLearningMastery 博客文章
+- [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) topic: pushed_at:2022-07 star:0.7k fork:0.2k :book: [译] MachineLearningMastery 博客文章
 - [apachecn/ml-mastery-zh-pt2](https://github.com/apachecn/ml-mastery-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/mlearningai-blog-zh](https://github.com/apachecn/mlearningai-blog-zh) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/moesif-blog-zh](https://github.com/apachecn/moesif-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Moesif 博客中文翻译
@@ -1032,7 +1032,7 @@
 - [apachecn/scripts](https://github.com/apachecn/scripts) topic: pushed_at:2022-01 star:0.0k fork:0.0k jd https://t.me/+fo3HSUe3nbRiNjY1
 - [apachecn/scripts-1](https://github.com/apachecn/scripts-1) topic: pushed_at:2021-12 star:0.0k fork:0.0k Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
 - [apachecn/scys1](https://github.com/apachecn/scys1) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:0.7k fork:0.3k :books: 网安类绝版图书
+- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:0.8k fork:0.3k :books: 网安类绝版图书
 - [apachecn/sec-books-part2](https://github.com/apachecn/sec-books-part2) topic: pushed_at:2023-01 star:0.0k fork:0.0k :books: 网安类绝版图书（二）
 - [apachecn/sec-gzh-2022](https://github.com/apachecn/sec-gzh-2022) topic: pushed_at:2023-04 star:0.0k fork:0.0k 网络安全类公众号离线备份
 - [apachecn/seebug-paper-2016-20xx](https://github.com/apachecn/seebug-paper-2016-20xx) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -1193,7 +1193,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-03 star:38.7k fork:11.4k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-03 star:38.8k fork:11.4k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
@@ -1214,8 +1214,8 @@
 - [apachecn/hudi-doc-zh](https://github.com/apachecn/hudi-doc-zh) topic: pushed_at:2020-01 star:0.0k fork:0.0k hudi 中文文档
 - [apachecn/imgyaso](https://github.com/apachecn/imgyaso) topic: pushed_at:2023-03 star:0.0k fork:0.0k 提供多种图像处理工具，包括自适应二值化，灰度网格仿色，扩散仿色，和颜色缩减。
 - [apachecn/Middleware](https://github.com/apachecn/Middleware) topic: pushed_at:2020-03 star:0.0k fork:0.0k 中间件 - 日常小工具
-- [apachecn/python_data_analysis_and_mining_action](https://github.com/apachecn/python_data_analysis_and_mining_action) topic:data-analysis,data-science,python3,readingnotes pushed_at:2020-08 star:1.6k fork:0.7k 《python数据分析与挖掘实战》的代码笔记
-- [apachecn/RecommenderSystems](https://github.com/apachecn/RecommenderSystems) topic:recommender-system pushed_at:2019-04 star:0.7k fork:0.2k 推荐系统
+- [apachecn/python_data_analysis_and_mining_action](https://github.com/apachecn/python_data_analysis_and_mining_action) topic:data-analysis,data-science,python3,readingnotes pushed_at:2020-08 star:1.7k fork:0.7k 《python数据分析与挖掘实战》的代码笔记
+- [apachecn/RecommenderSystems](https://github.com/apachecn/RecommenderSystems) topic:recommender-system pushed_at:2019-04 star:0.8k fork:0.2k 推荐系统
 - [apachecn/stable-diffusion-webui](https://github.com/apachecn/stable-diffusion-webui) topic: pushed_at:2023-08 star:0.0k fork:0.0k Stable Diffusion web UI
 - [apachecn/weibo-bot](https://github.com/apachecn/weibo-bot) topic: pushed_at:2021-09 star:0.0k fork:0.0k 自用微博机器人
 
