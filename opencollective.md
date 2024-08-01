@@ -369,7 +369,7 @@
 - [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) topic: pushed_at:2024-07 star:0.0k fork:0.0k Open Collective's REST API legacy, v1, and v2!
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) topic: pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
 - [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) topic: pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
-- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
+- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) topic: pushed_at:2023-01 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
 - [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) topic:opencollective,reactjs pushed_at:2018-07 star:0.1k fork:0.0k OpenCollective frontend
 - [opencollective/opencollective-zapier](https://github.com/opencollective/opencollective-zapier) topic:opencollective,zapier pushed_at:2021-02 star:0.0k fork:0.0k ⚠️ DEPRECATED ⚠️ Open Collective legacy Zapier integration
@@ -485,7 +485,7 @@
 
 ## Others
 
-- [opencollective/.github](https://github.com/opencollective/.github) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
+- [opencollective/.github](https://github.com/opencollective/.github) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [opencollective/11ty-website](https://github.com/opencollective/11ty-website) topic: pushed_at:2021-01 star:0.0k fork:0.0k Documentation site for the Eleventy static site generator.
 - [opencollective/1password-teams-open-source](https://github.com/opencollective/1password-teams-open-source) topic: pushed_at:2018-04 star:0.0k fork:0.0k Get a free 1Password Teams membership for your open source project
 - [opencollective/Acid](https://github.com/opencollective/Acid) topic: pushed_at:2019-09 star:0.0k fork:0.0k A high speed C++17 Vulkan game engine
@@ -1046,7 +1046,7 @@
 - [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) topic:graphql,hacktoberfest,nodejs,opencollective,postgres pushed_at:2024-07 star:0.4k fork:0.3k Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
 - [opencollective/opencollective-bot](https://github.com/opencollective/opencollective-bot) topic:bot,opencollective,probot pushed_at:2021-08 star:0.1k fork:0.0k 🤖 A perfect companion for your Open Collective
 - [opencollective/opencollective-coda](https://github.com/opencollective/opencollective-coda) topic: pushed_at:2023-11 star:0.0k fork:0.0k A pack to access the Open Collective API through Coda.io
-- [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) topic:hacktoberfest,nextjs,opencollective,react,webpack pushed_at:2024-07 star:0.8k fork:0.4k Open Collective's Frontend. A React app powered by Next.js.
+- [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) topic:hacktoberfest,nextjs,opencollective,react,webpack pushed_at:2024-08 star:0.8k fork:0.4k Open Collective's Frontend. A React app powered by Next.js.
 - [opencollective/opencollective-frontend-template](https://github.com/opencollective/opencollective-frontend-template) topic: pushed_at:2024-07 star:0.0k fork:0.0k Kickstart a new frontend project at Open Collective.
 - [opencollective/opencollective-github-helpers](https://github.com/opencollective/opencollective-github-helpers) topic: pushed_at:2023-01 star:0.0k fork:0.0k An app to help with the maintainance and development tasks of Open Collective internal repositories
 - [opencollective/opencollective-taxes](https://github.com/opencollective/opencollective-taxes) topic: pushed_at:2024-07 star:0.0k fork:0.0k Shared code to calculate taxes for events, products and services (VAT)
