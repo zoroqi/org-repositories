@@ -14,9 +14,9 @@
 - [JavaScript](#javascript) (41)
 - [Jupyter Notebook](#jupyter-notebook) (14)
 - [OpenEdge ABL](#openedge-abl) (1)
-- [Others](#others) (55)
+- [Others](#others) (53)
 - [Processing](#processing) (1)
-- [Python](#python) (53)
+- [Python](#python) (55)
 - [Ruby](#ruby) (3)
 - [Shell](#shell) (1)
 - [Swift](#swift) (1)
@@ -35,7 +35,7 @@
 - [OpenGenus/Bank-Management-System-in-Cpp](https://github.com/OpenGenus/Bank-Management-System-in-Cpp) topic: pushed_at:2023-08 star:0.0k fork:0.0k Bank Management System in C++
 - [OpenGenus/calculator-in-cpp](https://github.com/OpenGenus/calculator-in-cpp) topic:calculator,console-application,cpp,opengenus-internship,project pushed_at:2023-01 star:0.0k fork:0.0k Calculator Console Application in C++
 - [OpenGenus/calendar-in-cpp](https://github.com/OpenGenus/calendar-in-cpp) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
-- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) topic:algorithm,datastructures,hacktoberfest,hacktoberfest-accepted,hacktoberfest2022,hacktoberfest2023,internship,internships,interview-questions,library,offline-app,opengenus,search-algorithms,sorting-algorithms pushed_at:2024-02 star:13.5k fork:3.7k World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
+- [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) topic:algorithm,datastructures,hacktoberfest,hacktoberfest-accepted,hacktoberfest2022,hacktoberfest2023,internship,internships,interview-questions,library,offline-app,opengenus,search-algorithms,sorting-algorithms pushed_at:2024-08 star:13.5k fork:3.7k World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
 - [OpenGenus/daily43-cpp](https://github.com/OpenGenus/daily43-cpp) topic:algorithms,cpp,daily43,data-structures,easy,interview-questions,leetcode,leetcode-cpp pushed_at:2024-07 star:0.0k fork:0.0k DAILY43: Algorithmic Problems for Coding Interviews: Easy level, C++ edition
 - [OpenGenus/Hangman-cpp](https://github.com/OpenGenus/Hangman-cpp) topic: pushed_at:2023-08 star:0.0k fork:0.0k Hangman game in C++
 - [OpenGenus/keylogger-cpp](https://github.com/OpenGenus/keylogger-cpp) topic:cpp,keylogger,opengenus-internship pushed_at:2023-01 star:0.0k fork:0.0k Keylogger developed in C++
@@ -60,7 +60,7 @@
 ## HTML
 
 - [OpenGenus/Bomberman-Game-in-HTML](https://github.com/OpenGenus/Bomberman-Game-in-HTML) topic:bomberman,css,game,html,javascript,web-development pushed_at:2023-07 star:0.0k fork:0.0k Bomberman Game in HTML, CSS, JavaScript [by OpenGenus Intern Yingzi Tang]
-- [OpenGenus/checklist](https://github.com/OpenGenus/checklist) topic:checklist,opengenus,opengenus-internship pushed_at:2024-07 star:0.0k fork:0.0k OpenGenus Checklist project: Learn everything at your own pace and keep track 🐐 Pioneering the future of organized sequential knowledge
+- [OpenGenus/checklist](https://github.com/OpenGenus/checklist) topic:checklist,opengenus,opengenus-internship pushed_at:2024-08 star:0.0k fork:0.0k OpenGenus Checklist project: Learn everything at your own pace and keep track 🐐 Pioneering the future of organized sequential knowledge
 - [OpenGenus/clipboard_html](https://github.com/OpenGenus/clipboard_html) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/collaboration](https://github.com/OpenGenus/collaboration) topic: pushed_at:2018-06 star:0.0k fork:0.0k 
 - [OpenGenus/cookies](https://github.com/OpenGenus/cookies) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
@@ -199,7 +199,6 @@
 - [OpenGenus/Best-student-discount-services](https://github.com/OpenGenus/Best-student-discount-services) topic:awesome-list,discounts,opengenus,students,wiki pushed_at:2023-12 star:0.4k fork:0.1k Best student discount services one should definitely try out! Contributions and translations are highly encouraged. 
 - [OpenGenus/candle](https://github.com/OpenGenus/candle) topic: pushed_at:2019-02 star:0.0k fork:0.0k 
 - [OpenGenus/chatbot](https://github.com/OpenGenus/chatbot) topic:aiml,aiml-bots,chatbot,opengenus,opengenus-internship pushed_at:2020-08 star:0.0k fork:0.0k Developing a basic chatbot using AIML (developed by OpenGenus Intern, Priyanshi Sharma)
-- [OpenGenus/CNN-pytorch](https://github.com/OpenGenus/CNN-pytorch) topic: pushed_at:2024-07 star:0.0k fork:0.0k CNN model training and inference in PyTorch
 - [OpenGenus/cosmos-engine](https://github.com/OpenGenus/cosmos-engine) topic:compiler,cosmos,opengenus pushed_at:2017-12 star:0.0k fork:0.0k The online compiler and debugging tool [WIP]
 - [OpenGenus/cosmos-stat](https://github.com/OpenGenus/cosmos-stat) topic:cosmos,opengenus pushed_at:2017-10 star:0.0k fork:0.0k Tools to measure the reach of Cosmos in bringing information offline
 - [OpenGenus/cpp_compilation](https://github.com/OpenGenus/cpp_compilation) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
@@ -220,7 +219,6 @@
 - [OpenGenus/html](https://github.com/OpenGenus/html) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/http_requests](https://github.com/OpenGenus/http_requests) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/Ideas](https://github.com/OpenGenus/Ideas) topic: pushed_at:2016-04 star:0.0k fork:0.0k [Use our Discourse instance] For now drop any ideas here. Soon we will be migrating to a service provider.
-- [OpenGenus/int8-training](https://github.com/OpenGenus/int8-training) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [OpenGenus/ITAC](https://github.com/OpenGenus/ITAC) topic:contest,opengenus pushed_at:2023-07 star:0.0k fork:0.0k Participate in Indian Technical Authorship Contest (ITAC) 2023
 - [OpenGenus/Join_OpenGenus](https://github.com/OpenGenus/Join_OpenGenus) topic:community,help,internship,opengenus pushed_at:2024-05 star:0.2k fork:0.2k  Welcome to the OpenGenus Community ! 🉑 Do join our Internship program: https://discourse.opengenus.org/t/internship-guidelines-at-opengenus/2335/  :walking_woman: .
 - [OpenGenus/kojiki](https://github.com/OpenGenus/kojiki) topic: pushed_at:2019-01 star:0.0k fork:0.0k 
@@ -258,6 +256,7 @@
 - [OpenGenus/audio_feature](https://github.com/OpenGenus/audio_feature) topic: pushed_at:2019-09 star:0.0k fork:0.0k extracting feature from audio
 - [OpenGenus/calculator-in-python](https://github.com/OpenGenus/calculator-in-python) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [OpenGenus/Chrome-dinosaur-in-Python](https://github.com/OpenGenus/Chrome-dinosaur-in-Python) topic:dinosaur-game,opengenus-internship,python pushed_at:2023-06 star:0.0k fork:0.0k Chrome dinosaur in Python (by OG Intern Sathya Sai Ram P)
+- [OpenGenus/CNN-pytorch](https://github.com/OpenGenus/CNN-pytorch) topic: pushed_at:2024-08 star:0.0k fork:0.0k CNN model training and inference in PyTorch
 - [OpenGenus/code-submission](https://github.com/OpenGenus/code-submission) topic: pushed_at:2020-11 star:0.0k fork:0.0k 
 - [OpenGenus/countdown-python](https://github.com/OpenGenus/countdown-python) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [OpenGenus/course](https://github.com/OpenGenus/course) topic: pushed_at:2018-08 star:0.0k fork:0.0k 
@@ -271,6 +270,7 @@
 - [OpenGenus/image_denoising_autoencoder](https://github.com/OpenGenus/image_denoising_autoencoder) topic: pushed_at:2019-07 star:0.0k fork:0.0k Image denoising autoencoder
 - [OpenGenus/image_generation](https://github.com/OpenGenus/image_generation) topic: pushed_at:2019-07 star:0.0k fork:0.0k image generation using autoencoder
 - [OpenGenus/image_to_image_translation_cyclegan](https://github.com/OpenGenus/image_to_image_translation_cyclegan) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
+- [OpenGenus/int8-training](https://github.com/OpenGenus/int8-training) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [OpenGenus/iq_lib](https://github.com/OpenGenus/iq_lib) topic: pushed_at:2019-10 star:0.0k fork:0.0k 
 - [OpenGenus/lama](https://github.com/OpenGenus/lama) topic: pushed_at:2017-06 star:0.0k fork:0.0k Your hilarious best friend forever!
 - [OpenGenus/maze-solving-python](https://github.com/OpenGenus/maze-solving-python) topic: pushed_at:2023-02 star:0.0k fork:0.0k 

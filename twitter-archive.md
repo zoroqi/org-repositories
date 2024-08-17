@@ -50,7 +50,7 @@
 
 ## HTML
 
-- [twitter-archive/scala-bootstrapper](https://github.com/twitter-archive/scala-bootstrapper) topic: pushed_at:2017-03 star:0.1k fork:0.1k initial setup for a scala library or server, using sbt
+- [twitter-archive/scala-bootstrapper](https://github.com/twitter-archive/scala-bootstrapper) topic: pushed_at:2017-03 star:0.1k fork:0.0k initial setup for a scala library or server, using sbt
 
 ## Java
 
