@@ -102,7 +102,7 @@
 - [pingcap/tiflow-operator](https://github.com/pingcap/tiflow-operator) topic: pushed_at:2024-04 star:0.0k fork:0.0k TiFlow-Operator creates and manages TiFlow clusters running in Kubernetes.
 - [pingcap/tipocket](https://github.com/pingcap/tipocket) topic:chaos,chaos-mesh,consistency,elle,golang,isolation,sqlsmith pushed_at:2023-02 star:0.1k fork:0.1k A toolkit for testing TiDB
 - [pingcap/tiproxy](https://github.com/pingcap/tiproxy) topic: pushed_at:2024-08 star:0.1k fork:0.0k 
-- [pingcap/tiunimanager](https://github.com/pingcap/tiunimanager) topic: pushed_at:2024-05 star:0.0k fork:0.0k TiUniManager
+- [pingcap/tiunimanager](https://github.com/pingcap/tiunimanager) topic: pushed_at:2024-08 star:0.0k fork:0.0k TiUniManager
 - [pingcap/tiup](https://github.com/pingcap/tiup) topic:cluster,playground,tidb,tidb-components,tiup pushed_at:2024-08 star:0.4k fork:0.3k A component manager for TiDB
 - [pingcap/tso](https://github.com/pingcap/tso) topic: pushed_at:2016-02 star:0.0k fork:0.0k Timestamp Oracle
 - [pingcap/work-reporter](https://github.com/pingcap/work-reporter) topic: pushed_at:2019-08 star:0.0k fork:0.0k A simple tool to generate report from Jira/Github for our TiDB team
@@ -137,7 +137,7 @@
 
 ## Others
 
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) topic:awesome,awesome-list,blogs,books,course,database,papers pushed_at:2024-05 star:9.2k fork:1.1k A list of learning materials to understand databases internals
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) topic:awesome,awesome-list,blogs,books,course,database,papers pushed_at:2024-08 star:9.3k fork:1.1k A list of learning materials to understand databases internals
 - [pingcap/balsa](https://github.com/pingcap/balsa) topic: pushed_at:2022-06 star:0.0k fork:0.0k Balsa is a learned SQL query optimizer. It tailor optimizes your SQL queries to find the best execution plans for your hardware and engine.
 - [pingcap/blog-jp](https://github.com/pingcap/blog-jp) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
 - [pingcap/community](https://github.com/pingcap/community) topic: pushed_at:2024-08 star:0.3k fork:0.2k TiDB community content
@@ -237,8 +237,8 @@
 - [pingcap/tidb-dashboard](https://github.com/pingcap/tidb-dashboard) topic:dashboard,tidb,troubleshooting,ui pushed_at:2024-08 star:0.2k fork:0.1k A Web UI for monitoring, diagnosing and managing the TiDB cluster.
 - [pingcap/TiDB-Lambda-integration](https://github.com/pingcap/TiDB-Lambda-integration) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [pingcap/tidb-prisma-vercel-demo](https://github.com/pingcap/tidb-prisma-vercel-demo) topic:bookstore,ecommerce,nextjs,prisma,tidb,tidbcloud,vercel pushed_at:2023-09 star:0.1k fork:0.0k Virtual online bookstore application demo which you can find books of various categories and rate the books.
-- [pingcap/tidb.ai](https://github.com/pingcap/tidb.ai) topic:chatbot,graphrag,knowledge-graph,mysql,rag,serverless,vector-database pushed_at:2024-08 star:0.1k fork:0.0k https://TiDB.AI is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage and LlamaIndex. Open source and free to use.
-- [pingcap/tiunimanager-ui](https://github.com/pingcap/tiunimanager-ui) topic:tidb,tiunimanager,ui pushed_at:2024-05 star:0.0k fork:0.0k A web UI for TiUniManager
+- [pingcap/tidb.ai](https://github.com/pingcap/tidb.ai) topic:chatbot,graphrag,knowledge-graph,mysql,rag,serverless,vector-database pushed_at:2024-08 star:0.2k fork:0.0k https://TiDB.AI is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage and LlamaIndex. Open source and free to use.
+- [pingcap/tiunimanager-ui](https://github.com/pingcap/tiunimanager-ui) topic:tidb,tiunimanager,ui pushed_at:2024-08 star:0.0k fork:0.0k A web UI for TiUniManager
 - [pingcap/website-docs](https://github.com/pingcap/website-docs) topic: pushed_at:2024-08 star:0.0k fork:0.0k The next generation of PingCAP Docs. Powered by Gatsby ⚛️.
 
 

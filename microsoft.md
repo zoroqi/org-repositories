@@ -13,12 +13,12 @@
 - [ASP.NET](#asp.net) (1)
 - [Assembly](#assembly) (4)
 - [Batchfile](#batchfile) (5)
-- [Bicep](#bicep) (27)
+- [Bicep](#bicep) (28)
 - [C](#c) (159)
-- [C#](#c#) (1016)
-- [C++](#c++) (382)
+- [C#](#c#) (1009)
+- [C++](#c++) (384)
 - [CMake](#cmake) (2)
-- [CSS](#css) (37)
+- [CSS](#css) (36)
 - [Clojure](#clojure) (1)
 - [CodeQL](#codeql) (4)
 - [CoffeeScript](#coffeescript) (3)
@@ -27,25 +27,25 @@
 - [Cython](#cython) (1)
 - [Dafny](#dafny) (1)
 - [Dart](#dart) (3)
-- [Dockerfile](#dockerfile) (19)
+- [Dockerfile](#dockerfile) (20)
 - [Elm](#elm) (1)
 - [F#](#f#) (13)
 - [F*](#f*) (1)
 - [GAP](#gap) (1)
 - [GLSL](#glsl) (1)
-- [Go](#go) (102)
+- [Go](#go) (103)
 - [Groovy](#groovy) (6)
-- [HCL](#hcl) (23)
-- [HTML](#html) (138)
+- [HCL](#hcl) (22)
+- [HTML](#html) (136)
 - [Handlebars](#handlebars) (1)
 - [Haskell](#haskell) (1)
 - [JSON](#json) (1)
-- [Java](#java) (158)
-- [JavaScript](#javascript) (385)
+- [Java](#java) (159)
+- [JavaScript](#javascript) (379)
 - [Jinja](#jinja) (1)
 - [Jsonnet](#jsonnet) (1)
 - [Julia](#julia) (6)
-- [Jupyter Notebook](#jupyter-notebook) (286)
+- [Jupyter Notebook](#jupyter-notebook) (287)
 - [Kotlin](#kotlin) (21)
 - [LLVM](#llvm) (4)
 - [Lean](#lean) (1)
@@ -66,14 +66,14 @@
 - [Objective-C](#objective-c) (12)
 - [Objective-C++](#objective-c++) (2)
 - [Open Policy Agent](#open-policy-agent) (1)
-- [Others](#others) (893)
+- [Others](#others) (900)
 - [PHP](#php) (37)
 - [PLpgSQL](#plpgsql) (1)
 - [Pawn](#pawn) (1)
 - [Perl](#perl) (3)
-- [PowerShell](#powershell) (320)
+- [PowerShell](#powershell) (313)
 - [Pug](#pug) (1)
-- [Python](#python) (998)
+- [Python](#python) (1007)
 - [Q#](#q#) (5)
 - [R](#r) (32)
 - [RPM Spec](#rpm-spec) (1)
@@ -96,7 +96,7 @@
 - [Tcl](#tcl) (1)
 - [TeX](#tex) (4)
 - [Thrift](#thrift) (1)
-- [TypeScript](#typescript) (849)
+- [TypeScript](#typescript) (850)
 - [VBScript](#vbscript) (1)
 - [Verilog](#verilog) (1)
 - [Vue](#vue) (8)
@@ -115,13 +115,13 @@
 
 - [microsoft/ALAppExtensions](https://github.com/microsoft/ALAppExtensions) topic: pushed_at:2024-08 star:0.8k fork:0.6k Repository for collaboration on Microsoft AL application add-on and localization extensions for Microsoft Dynamics 365 Business Central.
 - [microsoft/bc2adls](https://github.com/microsoft/bc2adls) topic: pushed_at:2023-09 star:0.1k fork:0.1k Exporting data from Dynamics 365 Business Central to Azure data lake storage 
-- [microsoft/BCApps](https://github.com/microsoft/BCApps) topic: pushed_at:2024-08 star:0.3k fork:0.1k Repository for collaboration on Microsoft Dynamics 365 Business Central applications.
+- [microsoft/BCApps](https://github.com/microsoft/BCApps) topic: pushed_at:2024-09 star:0.3k fork:0.1k Repository for collaboration on Microsoft Dynamics 365 Business Central applications.
 - [microsoft/bcsamples-bingmaps.appsource](https://github.com/microsoft/bcsamples-bingmaps.appsource) topic:al,bcsamples,msdyn365bc pushed_at:2024-08 star:0.0k fork:0.0k Open Source AppSource App, which is an integration with Bing Maps inside Business Central.
 - [microsoft/bcsamples-bingmaps.pte](https://github.com/microsoft/bcsamples-bingmaps.pte) topic:al,bcsamples,msdyn365bc pushed_at:2024-06 star:0.0k fork:0.0k Sample Per Tenant Extension, implementing an integration with Bing Maps inside Business Central.
-- [microsoft/bcsamples-CoffeeMR](https://github.com/microsoft/bcsamples-CoffeeMR) topic:al,bcsamples,msdyn365bc,powerplatform pushed_at:2024-06 star:0.0k fork:0.0k [PREVIEW] Discover the future of industrial sales and planning with the Coffee MR Power App sample. This scenario leverages the mixed reality (MR) capabilities of Power Apps, integrated with Business Central's comprehensive data and business logic.
+- [microsoft/bcsamples-CoffeeMR](https://github.com/microsoft/bcsamples-CoffeeMR) topic:al,bcsamples,msdyn365bc,powerplatform pushed_at:2024-08 star:0.0k fork:0.0k [PREVIEW] Discover the future of industrial sales and planning with the Coffee MR Power App sample. This scenario leverages the mixed reality (MR) capabilities of Power Apps, integrated with Business Central's comprehensive data and business logic.
 - [microsoft/bcsamples-onboarding](https://github.com/microsoft/bcsamples-onboarding) topic:bcsamples pushed_at:2023-09 star:0.0k fork:0.0k Sample app that showcase how to create a great welcome experience for Business Central customers
-- [microsoft/bcsamples-takeorder](https://github.com/microsoft/bcsamples-takeorder) topic:al,bcsamples,msdyn365bc,powerplatform pushed_at:2024-06 star:0.0k fork:0.0k [PREVIEW] The Take Order sample demonstrates how you can build a customized user experience for servers at restaurants, using Power Apps powered by Business Central.
-- [microsoft/bcsamples-warehousehelper](https://github.com/microsoft/bcsamples-warehousehelper) topic:al,bcsamples,msdyn365bc,powerplatform pushed_at:2024-06 star:0.0k fork:0.0k [PREVIEW] The Warehouse Helper sample consists of an AL extension, a Power App, and a Power Automate flow. The app can scan a barcode and attempt to map the value to a Business Central item's GTIN property.
+- [microsoft/bcsamples-takeorder](https://github.com/microsoft/bcsamples-takeorder) topic:al,bcsamples,msdyn365bc,powerplatform pushed_at:2024-08 star:0.0k fork:0.0k [PREVIEW] The Take Order sample demonstrates how you can build a customized user experience for servers at restaurants, using Power Apps powered by Business Central.
+- [microsoft/bcsamples-warehousehelper](https://github.com/microsoft/bcsamples-warehousehelper) topic:al,bcsamples,msdyn365bc,powerplatform pushed_at:2024-08 star:0.0k fork:0.0k [PREVIEW] The Warehouse Helper sample consists of an AL extension, a Power App, and a Power Automate flow. The app can scan a barcode and attempt to map the value to a Business Central item's GTIN property.
 
 ## ANTLR
 
@@ -138,7 +138,7 @@
 ## Assembly
 
 - [microsoft/jacdac-padauk](https://github.com/microsoft/jacdac-padauk) topic:jacdac pushed_at:2022-09 star:0.0k fork:0.0k Jacdac firmware for PADAUK
-- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) topic:ms-dos pushed_at:2024-04 star:30.6k fork:4.3k The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
+- [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) topic:ms-dos pushed_at:2024-04 star:30.6k fork:4.4k The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [microsoft/mu_crypto_release](https://github.com/microsoft/mu_crypto_release) topic:crypto,projectmu,uefi pushed_at:2024-08 star:0.0k fork:0.0k Release platform for Mu CryptoBin
 - [microsoft/pxt-ws2812b](https://github.com/microsoft/pxt-ws2812b) topic:makecode,microbit pushed_at:2022-09 star:0.0k fork:0.0k A driver for WS2812B LEDs in MakeCode
 
@@ -160,14 +160,14 @@
 - [microsoft/AzureOpenAI-with-APIM](https://github.com/microsoft/AzureOpenAI-with-APIM) topic:api,api-management,apim,azure,azure-government,azure-openai,federal,government,open-ai,zero-trust pushed_at:2024-06 star:0.1k fork:0.0k Deploy APIM. Auto-configure it to work with your Azure Open AI.
 - [microsoft/confidential-aci-dashboard](https://github.com/microsoft/confidential-aci-dashboard) topic: pushed_at:2024-08 star:0.0k fork:0.0k A suite of user-facing system level testing for Confidential ACI
 - [microsoft/cookiecutter_template_for_python](https://github.com/microsoft/cookiecutter_template_for_python) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
+- [microsoft/doodle-to-code](https://github.com/microsoft/doodle-to-code) topic: pushed_at:2024-08 star:0.0k fork:0.0k From Doodle to Code: Understand the concepts of Generative AI principles through doodles and apply the knowledge by coding!
 - [microsoft/Dynamics365-Sensor-Data-Intelligence-ARMDeployments](https://github.com/microsoft/Dynamics365-Sensor-Data-Intelligence-ARMDeployments) topic: pushed_at:2024-05 star:0.0k fork:0.0k Sample Sensor Data Intelligence Azure resources template for Dynamics 365 Supply Chain Management.
 - [microsoft/Eleos](https://github.com/microsoft/Eleos) topic: pushed_at:2024-08 star:0.0k fork:0.0k Accelerator for using python and langchain to query APIM openapi documents
 - [microsoft/fhir-starter](https://github.com/microsoft/fhir-starter) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
 - [microsoft/ftatoolkit-rest-analytics-quickstart](https://github.com/microsoft/ftatoolkit-rest-analytics-quickstart) topic: pushed_at:2023-01 star:0.0k fork:0.0k Template Azure Synapse Analytics project designed for REST API data.
 - [microsoft/hands-on-lab-code-to-cloud](https://github.com/microsoft/hands-on-lab-code-to-cloud) topic:azure,devbox,devcenter pushed_at:2024-06 star:0.0k fork:0.0k Hands On Lab
+- [microsoft/Hephaestus](https://github.com/microsoft/Hephaestus) topic: pushed_at:2024-08 star:0.0k fork:0.0k The god of blacksmiths, craftsmen, artisans, sculptors, metals, metallurgy, "FHIR", and volcanoes, representing the creation and forging of new technologies.
 - [microsoft/industry](https://github.com/microsoft/industry) topic: pushed_at:2024-07 star:0.3k fork:0.1k This repository provides holistic architecture design and reference implementation for industry cloud based on proven success of large scale deployments and at-scale adoption with customers and partners.
-- [microsoft/MCW-Building-the-business-migration-case-with-Linux-and-OSS-DB-to-Azure](https://github.com/microsoft/MCW-Building-the-business-migration-case-with-Linux-and-OSS-DB-to-Azure) topic: pushed_at:2023-11 star:0.0k fork:0.0k Building the business migration case with Linux and OSS DB to Azure 
-- [microsoft/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server](https://github.com/microsoft/MCW-Building-the-business-migration-case-with-Windows-Server-and-SQL-Server) topic: pushed_at:2023-11 star:0.0k fork:0.0k Building the business migration case with Windows Server and SQL Server
 - [microsoft/OHDSIonAzure](https://github.com/microsoft/OHDSIonAzure) topic: pushed_at:2024-03 star:0.0k fork:0.0k Automation code and documentation for deploying OHDSI CDM in Azure
 - [microsoft/Power-Platform-App-Dev-in-a-Day-KR](https://github.com/microsoft/Power-Platform-App-Dev-in-a-Day-KR) topic:custom-connector,devops,power-platform,power-platform-cli pushed_at:2024-02 star:0.0k fork:0.0k Power Platform Hands-on-Lab sessions repository in Korean
 - [microsoft/powerplatform-dev-day](https://github.com/microsoft/powerplatform-dev-day) topic: pushed_at:2022-10 star:0.0k fork:0.0k Power Platform Dev Day
@@ -179,6 +179,7 @@
 - [microsoft/TechExcel-Securely-migrate-Windows-Server-and-SQL-Server-workloads-to-Azure](https://github.com/microsoft/TechExcel-Securely-migrate-Windows-Server-and-SQL-Server-workloads-to-Azure) topic: pushed_at:2024-08 star:0.0k fork:0.0k To gain access, please finish setting up this repository now at: 
 - [microsoft/unreal-cloud-ddc-on-azure](https://github.com/microsoft/unreal-cloud-ddc-on-azure) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [microsoft/vmscalesets](https://github.com/microsoft/vmscalesets) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
+- [microsoft/wailiu-aca-dotnet-workshop](https://github.com/microsoft/wailiu-aca-dotnet-workshop) topic: pushed_at:2024-08 star:0.0k fork:0.0k A Dotnet Azure Container Apps workshop showcasing how to accelerate developers' ability to develop and ship distributed applications.
 
 ## C
 
@@ -192,12 +193,11 @@
 - [microsoft/bwa](https://github.com/microsoft/bwa) topic: pushed_at:2022-01 star:0.0k fork:0.0k Burrow-Wheeler Aligner for short-read alignment (see minimap2 for long-read alignment)
 - [microsoft/CBL-Mariner-Linux-Kernel](https://github.com/microsoft/CBL-Mariner-Linux-Kernel) topic: pushed_at:2024-08 star:0.0k fork:0.0k The source for the Linux kernel used in CBL-Mariner
 - [microsoft/CFU](https://github.com/microsoft/CFU) topic: pushed_at:2023-06 star:0.1k fork:0.0k Component Firmware Update
-- [microsoft/checkedc](https://github.com/microsoft/checkedc) topic:c,clang,llvm,microsoft,programming-language,system-programming pushed_at:2022-09 star:3.2k fork:0.2k Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.  The goal is to let people easily make their existing C code type-safe and eliminate entire classes of errors. Checked C does not address use-after-free errors. This repo has a wiki for Checked C, sample code, the specification, and test code.
 - [microsoft/checkedc-libc-test](https://github.com/microsoft/checkedc-libc-test) topic: pushed_at:2023-06 star:0.0k fork:0.0k This repo contains a version of libc-test that is modified to test a Checked C version of the musl C library. Checked C is an extension to C that adds checking to detect or prevent common programming errors such as out-of-bounds memory accesses.
 - [microsoft/checkedc-llvm-test-suite](https://github.com/microsoft/checkedc-llvm-test-suite) topic: pushed_at:2022-09 star:0.0k fork:0.0k This repo contains a version of the LLVM test suite that is being modified to use Checked C.    The modified programs will be used to benchmark the implementation of Checked C in clang/LLVM.  Checked C is an extension to C that adds checking to detect or prevent common programming errors such as out-of-bounds memory accesses.  
 - [microsoft/checkedc-musl](https://github.com/microsoft/checkedc-musl) topic: pushed_at:2023-06 star:0.0k fork:0.0k This repo contains a version of musl that is being modified to Checked C. Checked C is an extension to C that adds checking to detect or prevent common programming errors such as out-of-bounds memory accesses.
 - [microsoft/checkedc-parson](https://github.com/microsoft/checkedc-parson) topic: pushed_at:2023-06 star:0.0k fork:0.0k This is modified version of parson that uses the Checked C extension to C.  Parson is a lightweight json parsing library.  
-- [microsoft/CMake](https://github.com/microsoft/CMake) topic: pushed_at:2024-08 star:0.2k fork:0.1k CMake, the cross-platform, open-source build system.
+- [microsoft/CMake](https://github.com/microsoft/CMake) topic: pushed_at:2024-09 star:0.2k fork:0.1k CMake, the cross-platform, open-source build system.
 - [microsoft/cocos2d-x-3rd-party-libs-bin](https://github.com/microsoft/cocos2d-x-3rd-party-libs-bin) topic: pushed_at:2017-07 star:0.0k fork:0.0k 
 - [microsoft/compiler-rt](https://github.com/microsoft/compiler-rt) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/compiler-tests](https://github.com/microsoft/compiler-tests) topic: pushed_at:2023-06 star:0.0k fork:0.0k This repo contains Microsoft compiler-tests to validate Windows platform particulars.
@@ -209,7 +209,7 @@
 - [microsoft/devicescript-pico](https://github.com/microsoft/devicescript-pico) topic:devicescript,iot,jacdac,picow pushed_at:2024-01 star:0.0k fork:0.0k DeviceScript for RP2040
 - [microsoft/devicescript-stm32](https://github.com/microsoft/devicescript-stm32) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/devkit-sdk](https://github.com/microsoft/devkit-sdk) topic:arduino,azure-iot,iot,iot-devkit,mxchip pushed_at:2023-04 star:0.1k fork:0.1k Arduino library and package for the MXChip IoT DevKit
-- [microsoft/DirectX-Headers](https://github.com/microsoft/DirectX-Headers) topic:d3d12,directx,directx12,microsoft,wsl pushed_at:2024-08 star:0.6k fork:0.1k Official DirectX headers available under an open source license
+- [microsoft/DirectX-Headers](https://github.com/microsoft/DirectX-Headers) topic:d3d12,directx,directx12,microsoft,wsl pushed_at:2024-08 star:0.6k fork:0.2k Official DirectX headers available under an open source license
 - [microsoft/DMF](https://github.com/microsoft/DMF) topic: pushed_at:2024-08 star:0.3k fork:0.1k Driver Module Framework
 - [microsoft/dsb](https://github.com/microsoft/dsb) topic: pushed_at:2023-05 star:0.0k fork:0.0k The DSB benchmark is designed for evaluating both workloaddriven and traditional database systems on modern decision support workloads. DSB is adapted from the widely-used industrialstandard TPC-DS benchmark. It enhances the TPC-DS benchmark with complex data distribution and challenging yet semantically meaningful query templates. DSB also introduces configurable and dynamic workloads to assess the adaptability of database systems. Since workload-driven and traditional database systems have different performance dimensions, including the additional resources required for tuning and maintaining the systems, we provide guidelines on evaluation methodology and metrics to report.
 - [microsoft/DTrace-on-Windows](https://github.com/microsoft/DTrace-on-Windows) topic: pushed_at:2024-05 star:0.5k fork:0.0k Code for the cross platform, single source, OpenDTrace implementation
@@ -220,14 +220,14 @@
 - [microsoft/FixContab](https://github.com/microsoft/FixContab) topic: pushed_at:2023-06 star:0.0k fork:0.0k Simple program to reorder MAPI providers so the Contact Address Book is first.
 - [microsoft/FourQlib](https://github.com/microsoft/FourQlib) topic: pushed_at:2022-08 star:0.1k fork:0.0k FourQlib is an efficient and portable cryptographic library that provides functions for computing elliptic curve based operations on the high-performance FourQ curve.
 - [microsoft/Freeflow](https://github.com/microsoft/Freeflow) topic: pushed_at:2023-06 star:0.6k fork:0.1k High performance container overlay networks on Linux. Enabling RDMA (on both InfiniBand and RoCE) and accelerating TCP to bare metal performance. Freeflow requires zero modification on application code/binary.
-- [microsoft/FreeRDP-mirror](https://github.com/microsoft/FreeRDP-mirror) topic: pushed_at:2023-08 star:0.0k fork:0.1k FreeRDP is a free remote desktop protocol library and clients
+- [microsoft/FreeRDP-mirror](https://github.com/microsoft/FreeRDP-mirror) topic: pushed_at:2024-08 star:0.0k fork:0.1k FreeRDP is a free remote desktop protocol library and clients
 - [microsoft/fsevents](https://github.com/microsoft/fsevents) topic: pushed_at:2023-06 star:0.0k fork:0.0k Native Access to Mac OS-X FSEvents
 - [microsoft/ftl-sdk](https://github.com/microsoft/ftl-sdk) topic: pushed_at:2022-09 star:0.2k fork:0.1k Software Development Kit for Mixer's FTL Protocol
-- [microsoft/git](https://github.com/microsoft/git) topic: pushed_at:2024-08 star:0.7k fork:0.1k A fork of Git containing Microsoft-specific patches.
+- [microsoft/git](https://github.com/microsoft/git) topic: pushed_at:2024-08 star:0.8k fork:0.1k A fork of Git containing Microsoft-specific patches.
 - [microsoft/glpk-nuget](https://github.com/microsoft/glpk-nuget) topic: pushed_at:2024-03 star:0.0k fork:0.0k This repository contains the original source code of GLPK (https://www.gnu.org/software/glpk/) and the pipeline scripts to build NuGet packages for both Windows and Linux.
 - [microsoft/HardLog](https://github.com/microsoft/HardLog) topic: pushed_at:2023-10 star:0.0k fork:0.0k Practical Tamper-Proof System Auditing
 - [microsoft/healthvault-ios-sdk](https://github.com/microsoft/healthvault-ios-sdk) topic: pushed_at:2017-10 star:0.0k fork:0.0k This library is used for the HealthVault for iPhone app. Ongoing updates & bug fixes
-- [microsoft/hibernation-setup-tool](https://github.com/microsoft/hibernation-setup-tool) topic:hibernation,linux,tool pushed_at:2022-09 star:0.0k fork:0.0k Tool to set up a Linux computer to hibernate
+- [microsoft/hibernation-setup-tool](https://github.com/microsoft/hibernation-setup-tool) topic:hibernation,linux,tool pushed_at:2024-08 star:0.0k fork:0.0k Tool to set up a Linux computer to hibernate
 - [microsoft/hiredis](https://github.com/microsoft/hiredis) topic: pushed_at:2023-06 star:0.1k fork:0.0k Minimalistic C client for Redis >= 1.2
 - [microsoft/HvLoader](https://github.com/microsoft/HvLoader) topic: pushed_at:2023-06 star:0.0k fork:0.0k HvLoader.efi is an EFI application for loading an external hypervisor loader
 - [microsoft/ippsample](https://github.com/microsoft/ippsample) topic: pushed_at:2021-12 star:0.0k fork:0.0k IPP sample implementations.
@@ -247,13 +247,14 @@
 - [microsoft/lsvmtools](https://github.com/microsoft/lsvmtools) topic: pushed_at:2023-06 star:0.0k fork:0.0k Linux Shielded VM Tools -- Tools for managing shielded Linux VMs for use in Hyper-V
 - [microsoft/LWE_Library](https://github.com/microsoft/LWE_Library) topic: pushed_at:2023-06 star:0.1k fork:0.0k Post-quantum Cryptography LWE (Learning with Errors) Library
 - [microsoft/MAPIStubLibrary](https://github.com/microsoft/MAPIStubLibrary) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
-- [microsoft/mimalloc](https://github.com/microsoft/mimalloc) topic: pushed_at:2024-08 star:9.9k fork:0.8k mimalloc is a compact general purpose allocator with excellent performance.
+- [microsoft/mimalloc](https://github.com/microsoft/mimalloc) topic: pushed_at:2024-08 star:10.3k fork:0.8k mimalloc is a compact general purpose allocator with excellent performance.
 - [microsoft/ModSecurity](https://github.com/microsoft/ModSecurity) topic: pushed_at:2024-06 star:0.0k fork:0.0k ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx that is developed by Trustwave's SpiderLabs. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis. With over 10,000 deployments world-wide, ModSecurity is the most widely deployed WAF in existence. 
 - [microsoft/ms-tpm-20-ref](https://github.com/microsoft/ms-tpm-20-ref) topic: pushed_at:2024-08 star:0.3k fork:0.1k Reference implementation of the TCG Trusted Platform Module 2.0 specification.
 - [microsoft/ms-tpm-20-ref-rs](https://github.com/microsoft/ms-tpm-20-ref-rs) topic: pushed_at:2024-04 star:0.0k fork:0.0k Rust bindings to the microsoft/ms-tpm-20-ref C library.
-- [microsoft/msix-packaging](https://github.com/microsoft/msix-packaging) topic:msix,uwp pushed_at:2024-07 star:1.0k fork:0.2k MSIX SDK
+- [microsoft/msix-packaging](https://github.com/microsoft/msix-packaging) topic:msix,uwp pushed_at:2024-08 star:1.0k fork:0.2k MSIX SDK
 - [microsoft/msquic](https://github.com/microsoft/msquic) topic:c,cpp,cross-platform,csharp,network-programming,protocol,quic,rust,secure pushed_at:2024-08 star:4.0k fork:0.5k Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.
 - [microsoft/MSRSec](https://github.com/microsoft/MSRSec) topic: pushed_at:2023-11 star:0.0k fork:0.0k Security and Privacy Research at Microsoft
+- [microsoft/mstunnel-ocserv](https://github.com/microsoft/mstunnel-ocserv) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/mu_basecore](https://github.com/microsoft/mu_basecore) topic:firmware,projectmu,uefi,uefi-development pushed_at:2024-08 star:0.2k fork:0.1k Project Mu BaseCore
 - [microsoft/mu_common_intel_adv_features](https://github.com/microsoft/mu_common_intel_adv_features) topic:projectmu pushed_at:2022-07 star:0.0k fork:0.0k 
 - [microsoft/mu_common_intel_min_platform](https://github.com/microsoft/mu_common_intel_min_platform) topic:projectmu pushed_at:2024-08 star:0.0k fork:0.0k Project Mu Minimum Platform
@@ -278,7 +279,7 @@
 - [microsoft/ODBC-Specification](https://github.com/microsoft/ODBC-Specification) topic: pushed_at:2023-06 star:0.1k fork:0.0k Microsoft ODBC Specification
 - [microsoft/ODBCTest](https://github.com/microsoft/ODBCTest) topic: pushed_at:2023-06 star:0.0k fork:0.0k Application for testing ODBC Drivers and ODBC Driver Manager
 - [microsoft/omi](https://github.com/microsoft/omi) topic: pushed_at:2024-04 star:0.4k fork:0.1k Open Management Infrastructure
-- [microsoft/OmniLog](https://github.com/microsoft/OmniLog) topic: pushed_at:2024-07 star:0.0k fork:0.0k System Audit Architecture with High Event Coverage and Synchronous Log Availability
+- [microsoft/OmniLog](https://github.com/microsoft/OmniLog) topic: pushed_at:2024-08 star:0.0k fork:0.0k System Audit Architecture with High Event Coverage and Synchronous Log Availability
 - [microsoft/onnx-server-openenclave](https://github.com/microsoft/onnx-server-openenclave) topic: pushed_at:2022-08 star:0.1k fork:0.0k An Open Enclave port of the ONNX inference server with data encryption and attestation capabilities to enable confidential inference on Azure Confidential Computing.
 - [microsoft/openssl](https://github.com/microsoft/openssl) topic: pushed_at:2022-05 star:0.1k fork:0.1k A cross-platform cryptographic library
 - [microsoft/openvpn](https://github.com/microsoft/openvpn) topic: pushed_at:2020-09 star:0.0k fork:0.0k Post-quantum Cryptography VPN (openvpn subproject)
@@ -298,7 +299,7 @@
 - [microsoft/qTESLA-Library](https://github.com/microsoft/qTESLA-Library) topic: pushed_at:2022-08 star:0.0k fork:0.0k qTESLA Library, an optimized implementation of the post-quantum lattice-based digital signature scheme qTESLA.
 - [microsoft/Quantum-Safe-OpenSSH](https://github.com/microsoft/Quantum-Safe-OpenSSH) topic: pushed_at:2023-04 star:0.0k fork:0.0k Quantum Safe OpenSSH
 - [microsoft/quicspeed](https://github.com/microsoft/quicspeed) topic: pushed_at:2021-04 star:0.0k fork:0.0k QUIC based speed test app
-- [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) topic:code-push,codepush,react-native pushed_at:2024-08 star:8.9k fork:1.4k React Native module for CodePush
+- [microsoft/react-native-code-push](https://github.com/microsoft/react-native-code-push) topic:code-push,codepush,react-native pushed_at:2024-08 star:8.9k fork:1.5k React Native module for CodePush
 - [microsoft/react-native-nuance-mix](https://github.com/microsoft/react-native-nuance-mix) topic: pushed_at:2023-11 star:0.0k fork:0.0k React Native NPM Module for accessing to Nuance Cloud Services ASR, TTS, and Dialog components with Audio, OAuth, and endpointing
 - [microsoft/RIoT](https://github.com/microsoft/RIoT) topic: pushed_at:2023-05 star:0.1k fork:0.0k Robust Internet of Things, Microsoft Research
 - [microsoft/RP2040MacropadHidSample](https://github.com/microsoft/RP2040MacropadHidSample) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
@@ -333,7 +334,7 @@
 - [microsoft/win-net-test](https://github.com/microsoft/win-net-test) topic:network,test,windows pushed_at:2024-08 star:0.0k fork:0.0k Networking related test tools for Windows. Relevant for anyone who is interested in Windows networking.
 - [microsoft/win_pmu](https://github.com/microsoft/win_pmu) topic: pushed_at:2020-08 star:0.0k fork:0.0k example PMU event counting mode tool
 - [microsoft/Windows-Driver-Frameworks](https://github.com/microsoft/Windows-Driver-Frameworks) topic: pushed_at:2023-07 star:1.3k fork:0.4k WDF makes it easy to write high-quality Windows drivers
-- [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) topic: pushed_at:2024-08 star:6.8k fork:4.9k This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
+- [microsoft/Windows-driver-samples](https://github.com/microsoft/Windows-driver-samples) topic: pushed_at:2024-08 star:6.9k fork:4.9k This repo contains driver samples prepared for use with Microsoft Visual Studio and the Windows Driver Kit (WDK). It contains both Universal Windows Driver and desktop-only driver samples.
 - [microsoft/windows_seh_tests](https://github.com/microsoft/windows_seh_tests) topic: pushed_at:2023-06 star:0.0k fork:0.0k Windows ABI Structured Exception Handling Tests
 - [microsoft/winfile](https://github.com/microsoft/winfile) topic: pushed_at:2024-07 star:6.8k fork:0.7k Original Windows File Manager (winfile) with enhancements
 - [microsoft/WinObjC](https://github.com/microsoft/WinObjC) topic: pushed_at:2022-11 star:6.2k fork:0.8k Objective-C for Windows
@@ -344,7 +345,7 @@
 
 ## C#
 
-- [microsoft/2LCS](https://github.com/microsoft/2LCS) topic:365,app,companion,d365fo,dynamics,finance,lcs,lifecycle,operations,services pushed_at:2024-07 star:0.1k fork:0.1k Lifecycle Services Companion App for administrators
+- [microsoft/2LCS](https://github.com/microsoft/2LCS) topic:365,app,companion,d365fo,dynamics,finance,lcs,lifecycle,operations,services pushed_at:2024-08 star:0.1k fork:0.1k Lifecycle Services Companion App for administrators
 - [microsoft/AADConnectConfigDocumenter](https://github.com/microsoft/AADConnectConfigDocumenter) topic: pushed_at:2024-04 star:0.2k fork:0.0k AAD Connect configuration documenter is a tool to generate documentation of an AAD Connect installation.
 - [microsoft/AccCheckerExtensionForVS](https://github.com/microsoft/AccCheckerExtensionForVS) topic: pushed_at:2022-11 star:0.0k fork:0.0k Detect and resolve common accessibility issues before you ship your code with a free Visual Studio extension.
 - [microsoft/accessibility-insights-windows](https://github.com/microsoft/accessibility-insights-windows) topic:accessibility,accessibility-insights,hacktoberfest,microsoft,tool,windows pushed_at:2024-07 star:0.4k fork:0.1k Accessibility Insights for Windows
@@ -361,13 +362,16 @@
 - [microsoft/adfsUITesting](https://github.com/microsoft/adfsUITesting) topic: pushed_at:2022-12 star:0.0k fork:0.0k Testing infrastructure for automated browser testing against AD FS
 - [microsoft/AdventureWorksSkiApp](https://github.com/microsoft/AdventureWorksSkiApp) topic: pushed_at:2023-07 star:0.1k fork:0.0k The AdventureWorks Ski App provides a sample application that can be used to demonstrate the value of building in intelligence into an existing application. This app was first demoed at //build 2016.
 - [microsoft/AdvocacyPlatform](https://github.com/microsoft/AdvocacyPlatform) topic: pushed_at:2023-10 star:0.0k fork:0.0k The Advocacy Platform is a cloud solution to automate the acquisition of case decisions, court hearings and location information from the EOIR hotline. Additionally, this solution helps NGOs working with Asylum seeker families at risk of deportation to allocate legal professionals/volunteers more efficiently.
-- [microsoft/agdiag](https://github.com/microsoft/agdiag) topic: pushed_at:2021-10 star:0.0k fork:0.0k Diagnose AlwaysOn health events like failover events, and failure to failover events
+- [microsoft/agdiag](https://github.com/microsoft/agdiag) topic: pushed_at:2024-08 star:0.0k fork:0.0k Diagnose AlwaysOn health events like failover events, and failure to failover events
 - [microsoft/ai-freezer-azure](https://github.com/microsoft/ai-freezer-azure) topic: pushed_at:2020-10 star:0.0k fork:0.0k Anomaly detecting scientific freezer monitor using and Adafruit Feather Huzzah32 and Azure Cognitive Services.
-- [microsoft/ai-powered-notes-winui3-sample](https://github.com/microsoft/ai-powered-notes-winui3-sample) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/ai-powered-notes-winui3-sample](https://github.com/microsoft/ai-powered-notes-winui3-sample) topic: pushed_at:2024-08 star:0.1k fork:0.0k 
 - [microsoft/ai-school-custom-vision-service-intro](https://github.com/microsoft/ai-school-custom-vision-service-intro) topic: pushed_at:2018-01 star:0.0k fork:0.0k This is an introduction to how to get started using the Custom Vision Service to generate custom models using the web interface and the SDK.
 - [microsoft/AICentral](https://github.com/microsoft/AICentral) topic: pushed_at:2024-08 star:0.1k fork:0.0k An AI Control Centre for monitoring, authenticating, and providing resilient access to multiple Open AI services. 
 - [microsoft/ailab](https://github.com/microsoft/ailab) topic:ai,algorithms,azure-functions,bing-search,bot,computer-vision,csharp,custom-vision,dnn,html5,image-classification,iot,javascript,language-learning,luis,object-detection,ocr,translation pushed_at:2024-06 star:7.7k fork:1.4k Experience, Learn and Code the latest breakthrough innovations with Microsoft AI
 - [microsoft/AISchoolTutorials](https://github.com/microsoft/AISchoolTutorials) topic: pushed_at:2023-07 star:0.0k fork:0.0k This repository contains the developer tutorials and samples to demonstrate how to create the experiments contained on AI Lab.
+- [microsoft/aitour-advanced-coding-visual-studio-and-github-copilot](https://github.com/microsoft/aitour-advanced-coding-visual-studio-and-github-copilot) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-building-copilots-with-copilot-studio](https://github.com/microsoft/aitour-building-copilots-with-copilot-studio) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-ecommerce-app-with-ai](https://github.com/microsoft/aitour-ecommerce-app-with-ai) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/AIVisualProvision](https://github.com/microsoft/AIVisualProvision) topic:azure,azure-sdk,cognitive-services,computer-vision,connect18,handwriting,handwriting-recognition,xamarin,xamarin-forms pushed_at:2022-09 star:0.1k fork:0.1k Connect(); 2018 - AI Visual Provision Sample App 
 - [microsoft/ajaxmin](https://github.com/microsoft/ajaxmin) topic: pushed_at:2023-06 star:0.0k fork:0.0k The Microsoft Ajax Minifier enables you to improve the performance of your Ajax applications by reducing the size of your Cascading Style Sheet and JavaScript files.
 - [microsoft/ALTA](https://github.com/microsoft/ALTA) topic: pushed_at:2024-07 star:0.0k fork:0.0k This is the Azure Load Testing Agent repo. 
@@ -426,7 +430,7 @@
 - [microsoft/azure-dev-day](https://github.com/microsoft/azure-dev-day) topic: pushed_at:2023-01 star:0.0k fork:0.0k Labs and information for Azure Dev Day.
 - [microsoft/azure-devops-dotnet-samples](https://github.com/microsoft/azure-devops-dotnet-samples) topic:azure-devops,csharp,dotnet,microsoft,samples,visual-studio-team-services pushed_at:2021-04 star:0.5k fork:0.5k .NET/C# samples for integrating with Azure DevOps Services and Azure DevOps Server
 - [microsoft/azure-devops-wit-client-om-migration-guide](https://github.com/microsoft/azure-devops-wit-client-om-migration-guide) topic: pushed_at:2024-01 star:0.0k fork:0.0k .NET/C# samples for interacting with work items on Azure DevOps Services and Azure DevOps Server
-- [microsoft/azure-health-data-services-toolkit](https://github.com/microsoft/azure-health-data-services-toolkit) topic:azure,fhir pushed_at:2024-07 star:0.1k fork:0.0k Customization model for Azure Health Data Services.
+- [microsoft/azure-health-data-services-toolkit](https://github.com/microsoft/azure-health-data-services-toolkit) topic:azure,fhir pushed_at:2024-08 star:0.1k fork:0.0k Customization model for Azure Health Data Services.
 - [microsoft/azure-media-redactor-visualizer](https://github.com/microsoft/azure-media-redactor-visualizer) topic: pushed_at:2016-10 star:0.0k fork:0.0k After submitting an Analyze pass in the cloud, download the output and use this tool to visualize and preview the output, and help select IDs to select for Redact phase in the cloud.
 - [microsoft/Azure-Non-Fungible-Token-Solution-Accelerator](https://github.com/microsoft/Azure-Non-Fungible-Token-Solution-Accelerator) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [microsoft/azure-openai-service-proxy](https://github.com/microsoft/azure-openai-service-proxy) topic:azure,openai,proxy,reverse-proxy pushed_at:2024-08 star:0.1k fork:0.0k The Azure AI proxy service facilitates easy access to Azure AI resources for workshops and hackathons. It offers a Playground-like interface and supports Azure AI SDKs. Access is granted through a time-limited API key and endpoint.
@@ -514,7 +518,7 @@
 - [microsoft/code-snacks-sql2016](https://github.com/microsoft/code-snacks-sql2016) topic: pushed_at:2023-06 star:0.0k fork:0.0k Code snacks are 15 minutes feature based developer centric samples.
 - [microsoft/CodeContracts](https://github.com/microsoft/CodeContracts) topic: pushed_at:2018-10 star:0.9k fork:0.1k Source code for the CodeContracts tools for .NET
 - [microsoft/codecoverage](https://github.com/microsoft/codecoverage) topic: pushed_at:2024-08 star:0.1k fork:0.0k 
-- [microsoft/CodePlan](https://github.com/microsoft/CodePlan) topic: pushed_at:2024-06 star:0.0k fork:0.0k Data and evaluation scripts for "CodePlan: Repository-level Coding using LLMs and Planning", FSE 2024
+- [microsoft/CodePlan](https://github.com/microsoft/CodePlan) topic: pushed_at:2024-08 star:0.0k fork:0.0k Data and evaluation scripts for "CodePlan: Repository-level Coding using LLMs and Planning", FSE 2024
 - [microsoft/CodePlexWorkItemMigrator](https://github.com/microsoft/CodePlexWorkItemMigrator) topic: pushed_at:2018-01 star:0.0k fork:0.0k A command line utility to migrate work items from CodePlex to GitHub
 - [microsoft/CodeTalk](https://github.com/microsoft/CodeTalk) topic:accessibility,accessibledebugging,audiodebugging,developertools,ide pushed_at:2022-09 star:0.1k fork:0.0k Rethinking IDE accessibility
 - [microsoft/CodeXGLUE](https://github.com/microsoft/CodeXGLUE) topic: pushed_at:2024-04 star:1.5k fork:0.4k CodeXGLUE 
@@ -538,7 +542,7 @@
 - [microsoft/Cognitive-TextAnalytics-DotNet](https://github.com/microsoft/Cognitive-TextAnalytics-DotNet) topic: pushed_at:2020-01 star:0.0k fork:0.0k .NET Standard SDK for the Microsoft Text Analytics API, part of Congitive Services
 - [microsoft/Cognitive-Video-Windows](https://github.com/microsoft/Cognitive-Video-Windows) topic: pushed_at:2017-11 star:0.0k fork:0.0k Windows SDK for the Microsoft Video API, part of Cognitive Services
 - [microsoft/Cognitive-Vision-DotNetCore](https://github.com/microsoft/Cognitive-Vision-DotNetCore) topic: pushed_at:2018-09 star:0.0k fork:0.0k .NET Core SDK for the Microsoft Computer Vision API, part of Cognitive Services
-- [microsoft/Cognitive-Vision-Windows](https://github.com/microsoft/Cognitive-Vision-Windows) topic: pushed_at:2023-07 star:0.2k fork:0.2k Windows SDK for the Microsoft Computer Vision API, part of Cognitive Services
+- [microsoft/Cognitive-Vision-Windows](https://github.com/microsoft/Cognitive-Vision-Windows) topic: pushed_at:2023-07 star:0.2k fork:0.1k Windows SDK for the Microsoft Computer Vision API, part of Cognitive Services
 - [microsoft/Cognitive-WebLM-Windows](https://github.com/microsoft/Cognitive-WebLM-Windows) topic: pushed_at:2020-07 star:0.0k fork:0.0k Windows SDK for the Microsoft Web Language Model API, part of Cognitive Services
 - [microsoft/Cognitive_Service_Utilities](https://github.com/microsoft/Cognitive_Service_Utilities) topic: pushed_at:2023-06 star:0.0k fork:0.0k Tools and Pipelines for running cogntive services and associated utiltiities 
 - [microsoft/CognitiveServicesLanguageUtilities](https://github.com/microsoft/CognitiveServicesLanguageUtilities) topic: pushed_at:2022-12 star:0.0k fork:0.0k Utilities for the Cognitive Service Custom Text document processing tool.
@@ -555,7 +559,7 @@
 - [microsoft/containerized-microservices-pipeline](https://github.com/microsoft/containerized-microservices-pipeline) topic: pushed_at:2022-12 star:0.1k fork:0.0k Reference solution for Production micro-services pipeline built on VSTS, docker, kubernetes and full CI / CD pipeline.
 - [microsoft/conversational-speaker](https://github.com/microsoft/conversational-speaker) topic: pushed_at:2024-04 star:0.2k fork:0.0k 
 - [microsoft/ConvertToSARIF](https://github.com/microsoft/ConvertToSARIF) topic: pushed_at:2021-08 star:0.0k fork:0.0k A tool to transform PSScriptAnalyzer output to the SARIF format
-- [microsoft/CopilotAdventures](https://github.com/microsoft/CopilotAdventures) topic: pushed_at:2024-07 star:0.2k fork:0.2k Copilot coding adventures
+- [microsoft/CopilotAdventures](https://github.com/microsoft/CopilotAdventures) topic: pushed_at:2024-08 star:0.2k fork:0.2k Copilot coding adventures
 - [microsoft/CopilotStudioSamples](https://github.com/microsoft/CopilotStudioSamples) topic: pushed_at:2024-07 star:0.3k fork:0.2k 
 - [microsoft/CopyOnWrite](https://github.com/microsoft/CopyOnWrite) topic: pushed_at:2024-03 star:0.1k fork:0.0k .NET library that encapsulates OS and filesystem differences in the ability to create Copy-on-Write file links
 - [microsoft/cordova-plugin-websql](https://github.com/microsoft/cordova-plugin-websql) topic: pushed_at:2019-03 star:0.1k fork:0.0k Cordova WebSQL Plugin
@@ -608,7 +612,7 @@
 - [microsoft/devinit-example-dotnet-core](https://github.com/microsoft/devinit-example-dotnet-core) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [microsoft/devops-for-windows-apps](https://github.com/microsoft/devops-for-windows-apps) topic: pushed_at:2022-11 star:0.1k fork:0.0k Sample Windows app to show devops best practices
 - [microsoft/DevOps-Immersion](https://github.com/microsoft/DevOps-Immersion) topic: pushed_at:2023-06 star:0.0k fork:0.0k V1 of the Immersion Labs for DevOps
-- [microsoft/DevSkim](https://github.com/microsoft/DevSkim) topic:linter,sdl,security,visual-studio-code-extension,visual-studio-extension pushed_at:2024-07 star:0.9k fork:0.1k DevSkim is a set of IDE plugins, language analyzers, and rules that provide security "linting" capabilities.
+- [microsoft/DevSkim](https://github.com/microsoft/DevSkim) topic:linter,sdl,security,visual-studio-code-extension,visual-studio-extension pushed_at:2024-08 star:0.9k fork:0.1k DevSkim is a set of IDE plugins, language analyzers, and rules that provide security "linting" capabilities.
 - [microsoft/digital-content-distribution-toolkit](https://github.com/microsoft/digital-content-distribution-toolkit) topic: pushed_at:2023-10 star:0.0k fork:0.0k A low-cost satellite and edge-based technology which seeks to deliver digital content to underserved users at the last mile.   
 - [microsoft/Digital-Documentation-Shipping-Industry-Solution-Accelerator](https://github.com/microsoft/Digital-Documentation-Shipping-Industry-Solution-Accelerator) topic: pushed_at:2023-03 star:0.0k fork:0.0k Digital Documentation for Shipping industry (Quote to Order) solution accelerator
 - [microsoft/diner-wp](https://github.com/microsoft/diner-wp) topic: pushed_at:2014-11 star:0.0k fork:0.0k The Diner example application demonstrates how to build simple, catalog-type application, for Windows Phone based on local XML data. It is straightforward to convert the application to use internet resources instead of local XML-resources. The application is designed in such a way that it is easy to replace the content and visual style for different restaurants.
@@ -630,7 +634,7 @@
 - [microsoft/dstoolkit-km-solution-accelerator](https://github.com/microsoft/dstoolkit-km-solution-accelerator) topic:ai,azure-cognitive-search,azure-cognitive-services,computer-vision,dstoolkit,knowledge-mining,search-engine,translation pushed_at:2023-11 star:0.0k fork:0.0k Data Science Toolkit - Knowledge Mining Solution Accelerator
 - [microsoft/DSynth](https://github.com/microsoft/DSynth) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [microsoft/dtdl-model-generator](https://github.com/microsoft/dtdl-model-generator) topic:azure-digital-twins,digital-twin,digital-twins,dtdl,dtdl-models pushed_at:2024-07 star:0.0k fork:0.0k A library used for generating C# classes from DTDL interfaces.
-- [microsoft/Dual-write-automations](https://github.com/microsoft/Dual-write-automations) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
+- [microsoft/Dual-write-automations](https://github.com/microsoft/Dual-write-automations) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/durabletask-dotnet](https://github.com/microsoft/durabletask-dotnet) topic: pushed_at:2024-08 star:0.1k fork:0.0k Out-of-process .NET SDK for the Durable Task Framework
 - [microsoft/durabletask-mssql](https://github.com/microsoft/durabletask-mssql) topic: pushed_at:2024-07 star:0.1k fork:0.0k Microsoft SQL storage provider for Durable Functions and the Durable Task Framework
 - [microsoft/durabletask-netherite](https://github.com/microsoft/durabletask-netherite) topic: pushed_at:2024-08 star:0.2k fork:0.0k A new engine for Durable Functions. https://microsoft.github.io/durabletask-netherite
@@ -684,7 +688,7 @@
 - [microsoft/Federal-App-Innovation-Community](https://github.com/microsoft/Federal-App-Innovation-Community) topic: pushed_at:2023-10 star:0.0k fork:0.0k This repo contains samples, demos, and patterns to enable Cloud-Native solutions on Azure Cloud & Azure Government 
 - [microsoft/Federal-Business-Applications](https://github.com/microsoft/Federal-Business-Applications) topic:d365,microsoft,powerapps,powerautomate,powerbi,powerplatform pushed_at:2024-07 star:0.2k fork:0.1k US Government Business Applications Demo Repository
 - [microsoft/FetchClimate](https://github.com/microsoft/FetchClimate) topic: pushed_at:2016-09 star:0.0k fork:0.0k FetchClimate is a fast, free, intelligent climate data retrieval service that gives you the climate data you need. With FetchClimate, an Azure web service, you can retrieve data for any geographical region, at any grid resolution—global, continental, a few kilometers—and for any range of years, days within the year, or hours within the day. FetchClimate automatically selects the most appropriate data sources and can return information about the uncertainty of the data sources used. You can enable others to retrieve the same data by sharing a URL for your query.
-- [microsoft/fhir-codegen](https://github.com/microsoft/fhir-codegen) topic: pushed_at:2024-08 star:0.1k fork:0.0k Tools for code generation based on the FHIR specification.
+- [microsoft/fhir-codegen](https://github.com/microsoft/fhir-codegen) topic: pushed_at:2024-08 star:0.1k fork:0.1k Tools for code generation based on the FHIR specification.
 - [microsoft/FHIR-Consent-Samples](https://github.com/microsoft/FHIR-Consent-Samples) topic: pushed_at:2023-10 star:0.0k fork:0.0k Contains FHIR sample for  Consent based authorization
 - [microsoft/fhir-link](https://github.com/microsoft/fhir-link) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
 - [microsoft/fhir-loader](https://github.com/microsoft/fhir-loader) topic: pushed_at:2024-08 star:0.0k fork:0.0k Bulk FHIR Data Loader
@@ -716,9 +720,9 @@
 - [microsoft/ga4gh-tes](https://github.com/microsoft/ga4gh-tes) topic: pushed_at:2024-08 star:0.0k fork:0.0k C# implementation of the GA4GH TES API; provides distributed batch task execution on Microsoft Azure
 - [microsoft/GaitAndBalanceApp](https://github.com/microsoft/GaitAndBalanceApp) topic: pushed_at:2023-06 star:0.0k fork:0.0k An application to measure Gait and Balance properties of humans using depth cameras
 - [microsoft/GalaxyExplorer](https://github.com/microsoft/GalaxyExplorer) topic: pushed_at:2023-06 star:0.9k fork:0.3k Galaxy Explorer is the application Microsoft is building as part of the Share Your Idea campaign.
-- [microsoft/garnet](https://github.com/microsoft/garnet) topic:cache,cache-storage,cluster,concurrent,hash-table,key-value,larger-than-memory,low-latency,persistent,remote,scalable,store pushed_at:2024-08 star:10.0k fork:0.5k Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
+- [microsoft/garnet](https://github.com/microsoft/garnet) topic:cache,cache-storage,cluster,concurrent,hash-table,key-value,larger-than-memory,low-latency,persistent,remote,scalable,store pushed_at:2024-08 star:10.1k fork:0.5k Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients.
 - [microsoft/GazeInteractionApps](https://github.com/microsoft/GazeInteractionApps) topic: pushed_at:2022-08 star:0.0k fork:0.0k Repository for sample Windows applications and tools that use eye tracking
-- [microsoft/gdk-unity-package](https://github.com/microsoft/gdk-unity-package) topic: pushed_at:2024-06 star:0.0k fork:0.0k The Unity package for PC GDK developers.
+- [microsoft/gdk-unity-package](https://github.com/microsoft/gdk-unity-package) topic: pushed_at:2024-06 star:0.1k fork:0.0k The Unity package for PC GDK developers.
 - [microsoft/Gestures-Samples](https://github.com/microsoft/Gestures-Samples) topic:code,gesture,hand,hand-gesture,hand-pose,hand-skeleton,microsoft-gestures,motion,nui,pose,project-prague,sample pushed_at:2023-06 star:0.1k fork:0.0k Project Prague Code Samples
 - [microsoft/GetVSTSBuildUsage](https://github.com/microsoft/GetVSTSBuildUsage) topic: pushed_at:2016-02 star:0.0k fork:0.0k This is a code sample to show how to get information about builds  run under a Visual Studio Team Services (VSTS) account or a collection on a Team Foundation Server (TFS).
 - [microsoft/gh-sync](https://github.com/microsoft/gh-sync) topic: pushed_at:2023-02 star:0.0k fork:0.0k Tool for pulling public GitHub issues into private ADO tracking
@@ -739,7 +743,7 @@
 - [microsoft/hack-together](https://github.com/microsoft/hack-together) topic:dotnet,dotnet-core,microsoft,microsoft-365,microsoft-azure,microsoft-graph,microsoft-graph-sdk pushed_at:2023-03 star:0.5k fork:0.1k Hack Together: Microsoft Graph and .NET is a hackathon for .NET developers to learn Microsoft Graph and Microsoft 365.
 - [microsoft/hack-together-teams](https://github.com/microsoft/hack-together-teams) topic:dotnet,hackathon,javascript,microsoft,microsoft-teams pushed_at:2023-07 star:0.5k fork:0.0k HackTogether: The Microsoft Teams Global Hack | Register, Hack, Win 👇
 - [microsoft/hackathon-team-builder](https://github.com/microsoft/hackathon-team-builder) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
-- [microsoft/hands-on-lab-azure-functions](https://github.com/microsoft/hands-on-lab-azure-functions) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
+- [microsoft/hands-on-lab-azure-functions](https://github.com/microsoft/hands-on-lab-azure-functions) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/hands-on-lab-functions](https://github.com/microsoft/hands-on-lab-functions) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [microsoft/hands-on-lab-redis](https://github.com/microsoft/hands-on-lab-redis) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [microsoft/HashCalculator](https://github.com/microsoft/HashCalculator) topic: pushed_at:2023-06 star:0.0k fork:0.0k Helper tool to calculate hashes of data
@@ -801,11 +805,11 @@
 - [microsoft/JsonToJsonMapper](https://github.com/microsoft/JsonToJsonMapper) topic:automapper,json-mapper,json-to-json,jsonschema,jsonschema-generator,mapper-algorithm pushed_at:2024-02 star:0.0k fork:0.0k JsonToJsonMapper works on JSON format to exchange information between systems. It enables transformation of JSON data from one schema to another.
 - [microsoft/jupyter-core](https://github.com/microsoft/jupyter-core) topic: pushed_at:2024-01 star:0.1k fork:0.0k Library for writing Jupyter kernels in .NET Core
 - [microsoft/K2Bridge](https://github.com/microsoft/K2Bridge) topic:adx,adx-cluster,kusto pushed_at:2024-08 star:0.1k fork:0.0k Enables Kibana to query Azure Data Explorer (ADX / Kusto)
-- [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory) topic:indexing,llm,memory,rag,semantic-search pushed_at:2024-08 star:1.4k fork:0.3k RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns.
+- [microsoft/kernel-memory](https://github.com/microsoft/kernel-memory) topic:indexing,llm,memory,rag,semantic-search pushed_at:2024-08 star:1.5k fork:0.3k RAG architecture: index and query any data using LLM and natural language, track sources, show citations, asynchronous memory patterns.
 - [microsoft/kernel-memory-extension-example](https://github.com/microsoft/kernel-memory-extension-example) topic: pushed_at:2023-12 star:0.0k fork:0.0k Postgres adapter for Kernel Memory
 - [microsoft/kestrel-inline-sockets](https://github.com/microsoft/kestrel-inline-sockets) topic: pushed_at:2020-03 star:0.0k fork:0.0k ASP.NET Core Kestrel server extension to enable synchronous response write operations safely.
 - [microsoft/kinect-ripple](https://github.com/microsoft/kinect-ripple) topic: pushed_at:2023-06 star:0.1k fork:0.0k Kinect Ripple is a dual projection based infotainment system that comes with fully customizable interactive floor and screen. Kinect Ripple simple UI framework allows you to quickly add, edit and build integrated experiences on top of it.
-- [microsoft/kiota](https://github.com/microsoft/kiota) topic:api,csharp,dotnet,golang,hacktoberfest,http,java,kiota,openapi,openapi-codegen,openapi-specification,openapi3,php,python,ruby,typescript pushed_at:2024-08 star:2.7k fork:0.2k OpenAPI based HTTP Client code generator
+- [microsoft/kiota](https://github.com/microsoft/kiota) topic:api,csharp,dotnet,golang,hacktoberfest,http,java,kiota,openapi,openapi-codegen,openapi-specification,openapi3,php,python,ruby,typescript pushed_at:2024-08 star:2.8k fork:0.2k OpenAPI based HTTP Client code generator
 - [microsoft/kiota-authentication-azure-dotnet](https://github.com/microsoft/kiota-authentication-azure-dotnet) topic:authentication,azure,dotnet,identity,kiota,openapi pushed_at:2024-07 star:0.0k fork:0.0k Kiota authentication provider implementation with Azure Identity
 - [microsoft/kiota-cli-commons](https://github.com/microsoft/kiota-cli-commons) topic:cli,kiota,openapi,rest-api pushed_at:2024-08 star:0.0k fork:0.0k Common set of commands for CLI client generation
 - [microsoft/kiota-dotnet](https://github.com/microsoft/kiota-dotnet) topic:dotnet,kiota pushed_at:2024-08 star:0.0k fork:0.0k Abstractions library for the Kiota generated SDKs in dotnet
@@ -821,6 +825,7 @@
 - [microsoft/kusto-pre-forge](https://github.com/microsoft/kusto-pre-forge) topic: pushed_at:2024-06 star:0.0k fork:0.0k Pre processing logic for Azure Kusto (Azure Data Explorer & Fabric KQL Database)
 - [microsoft/Kusto-Query-Language](https://github.com/microsoft/Kusto-Query-Language) topic: pushed_at:2024-08 star:0.5k fork:0.1k Kusto Query Language is a simple and productive language for querying Big Data. 
 - [microsoft/launchapp-tag-maker](https://github.com/microsoft/launchapp-tag-maker) topic: pushed_at:2014-11 star:0.0k fork:0.0k LaunchApp Tag Maker allows you to ceate NFC tags which can launch any apps available at ​http://www.windowsphone.com/ or apps that you installed youself. 
+- [microsoft/learn-microsoft-graph-connectors-dotnet](https://github.com/microsoft/learn-microsoft-graph-connectors-dotnet) topic:dotnet,microsoft-365,microsoft-copilot,microsoft-copilot-for-microsoft-365,microsoft-graph-connectors pushed_at:2024-08 star:0.0k fork:0.0k Project for the Build Microsoft Graph connectors with .NET learn module
 - [microsoft/lens-blur](https://github.com/microsoft/lens-blur) topic: pushed_at:2015-10 star:0.0k fork:0.0k Lens Blur is an example application on how to use Nokia Imaging SDK InteractiveForegroundSegmenter and the LensBlurEffect to blur only selected areas of images.
 - [microsoft/lignator](https://github.com/microsoft/lignator) topic:data-generator,event-generator,log-generator,logging,random,random-generation,response-generation,testing pushed_at:2021-11 star:0.0k fork:0.0k lignator (Latin for lumberjack) is a cli tool to generate structured but randomized outputs, great for things like log generation
 - [microsoft/LinuxTracepoints-Net](https://github.com/microsoft/LinuxTracepoints-Net) topic: pushed_at:2024-08 star:0.0k fork:0.0k .NET libraries for Linux Tracepoints and user_events
@@ -841,19 +846,6 @@
 - [microsoft/Marketplace_Blockchain_Solution_Accelerator](https://github.com/microsoft/Marketplace_Blockchain_Solution_Accelerator) topic: pushed_at:2019-08 star:0.0k fork:0.0k This is a solution accelerator to help you get started using Azure Blockchain Service.
 - [microsoft/matchem-poker-wp](https://github.com/microsoft/matchem-poker-wp) topic: pushed_at:2014-11 star:0.0k fork:0.0k Arcade style match-N game with poker hands implementaion for Windows Phone devices.
 - [microsoft/mattercenter](https://github.com/microsoft/mattercenter) topic: pushed_at:2023-07 star:0.2k fork:0.1k Microsoft’s Corporate, External, and Legal Affairs (CELA) group, in partnership with the Office extensibility team, developed Matter Center for Office 365 -- a document management and collaboration solution built using the Office app development model, Azure and Sharepoint.
-- [microsoft/MCW-AI-led-business-process-automation](https://github.com/microsoft/MCW-AI-led-business-process-automation) topic: pushed_at:2022-07 star:0.0k fork:0.1k AI led business process automation
-- [microsoft/MCW-App-modernization](https://github.com/microsoft/MCW-App-modernization) topic: pushed_at:2022-08 star:0.2k fork:0.3k MCW App modernization
-- [microsoft/MCW-Innovate-and-modernize-apps-with-Data-and-AI](https://github.com/microsoft/MCW-Innovate-and-modernize-apps-with-Data-and-AI) topic: pushed_at:2022-07 star:0.0k fork:0.1k Innovate and modernize apps with Data and AI
-- [microsoft/MCW-Intelligent-vending-machines](https://github.com/microsoft/MCW-Intelligent-vending-machines) topic: pushed_at:2019-07 star:0.0k fork:0.0k MCW Intelligent vending machines
-- [microsoft/MCW-Internet-of-Things](https://github.com/microsoft/MCW-Internet-of-Things) topic: pushed_at:2022-07 star:0.1k fork:0.1k MCW Internet of Things
-- [microsoft/MCW-IoT-and-the-Smart-City](https://github.com/microsoft/MCW-IoT-and-the-Smart-City) topic: pushed_at:2021-05 star:0.0k fork:0.1k MCW IoT and the Smart City
-- [microsoft/MCW-Leveraging-Azure-Digital-Twins-in-a-supply-chain](https://github.com/microsoft/MCW-Leveraging-Azure-Digital-Twins-in-a-supply-chain) topic: pushed_at:2022-07 star:0.0k fork:0.0k Leveraging Azure Digital Twins in a supply chain
-- [microsoft/MCW-Media-AI](https://github.com/microsoft/MCW-Media-AI) topic:app-service,cdn,functions,logic-apps,mcw,media-indexer,web-apps pushed_at:2020-01 star:0.0k fork:0.0k MCW Media AI
-- [microsoft/MCW-Mobile-app-innovation](https://github.com/microsoft/MCW-Mobile-app-innovation) topic:app-center,app-service,ci-cd,cicd,cosmos,cosmosdb,functions,iot-hub,mcw,powerapps,vsts,xamarin,xamarin-forms pushed_at:2019-07 star:0.0k fork:0.0k MCW Mobile app innovation
-- [microsoft/MCW-Optimized-architecture](https://github.com/microsoft/MCW-Optimized-architecture) topic:api-apps,app-service,iaas,mcw,paas,sql-database pushed_at:2019-07 star:0.0k fork:0.0k MCW Optimized architecture
-- [microsoft/MCW-Real-time-data-with-Azure-Database-for-PostgreSQL-Hyperscale](https://github.com/microsoft/MCW-Real-time-data-with-Azure-Database-for-PostgreSQL-Hyperscale) topic: pushed_at:2020-12 star:0.0k fork:0.0k MCW Real-time data with Azure Database for PostgreSQL Hyperscale
-- [microsoft/MCW-Securing-PaaS](https://github.com/microsoft/MCW-Securing-PaaS) topic:aad-b2c,api-apps,app-service-environment,azure-key-vault,azure-search,azure-security-center,cosmos-db,cosmosdb,mcw,nsg,paas,pci-dss,rbac,sql-database,vnet,web-app pushed_at:2019-07 star:0.0k fork:0.0k MCW Securing PaaS
-- [microsoft/MCW-Serverless-architecture](https://github.com/microsoft/MCW-Serverless-architecture) topic:application-developer,ci-cd,cicd,cosmos-db,cosmosdb,functions,logic-apps,mcw,nosql pushed_at:2022-07 star:0.2k fork:0.3k MCW Serverless architecture
 - [microsoft/media-viewer](https://github.com/microsoft/media-viewer) topic: pushed_at:2018-10 star:0.0k fork:0.0k Simple example for browsing photos and music on Windows Phone. Media Viewer Silverlight is based on FileList example application implemented with Qt Quick.
 - [microsoft/MetricSystem](https://github.com/microsoft/MetricSystem) topic: pushed_at:2022-11 star:0.1k fork:0.0k Suite of libraries and applications for collecting high volume performance counter data
 - [microsoft/mfit](https://github.com/microsoft/mfit) topic: pushed_at:2022-07 star:0.0k fork:0.0k Memory Fault Injection Tool
@@ -905,7 +897,7 @@
 - [microsoft/MixedRealityLearning](https://github.com/microsoft/MixedRealityLearning) topic: pushed_at:2023-10 star:0.1k fork:0.0k Projects and Artifacts to accelerate your Mixed Reality development path
 - [microsoft/MixedRealityToolkit-Unity](https://github.com/microsoft/MixedRealityToolkit-Unity) topic:hololens,holotoolkit,holotoolkit-unity,mixed-reality,mixedrealitytoolkit,mixedrealitytoolkit-unity,mrtk,openvr,unity pushed_at:2024-03 star:6.0k fork:2.1k This repository is for the legacy Mixed Reality Toolkit (MRTK) v2.  For the latest version of the MRTK please visit https://github.com/MixedRealityToolkit/MixedRealityToolkit-Unity
 - [microsoft/mixer-cuckoo](https://github.com/microsoft/mixer-cuckoo) topic: pushed_at:2021-03 star:0.0k fork:0.0k C# cuckoo filters
-- [microsoft/MK.IO](https://github.com/microsoft/MK.IO) topic: pushed_at:2024-07 star:0.0k fork:0.0k A .NET client SDK for MediaKind MK.IO
+- [microsoft/MK.IO](https://github.com/microsoft/MK.IO) topic: pushed_at:2024-08 star:0.0k fork:0.0k A .NET client SDK for MediaKind MK.IO
 - [microsoft/MLFlow.NET](https://github.com/microsoft/MLFlow.NET) topic: pushed_at:2023-06 star:0.0k fork:0.0k MLFlow.NET is a .NET Standard 2.0 based wrapper for the REST based MLFlow server API (https://mlflow.org/). The SDK package allows you to call the MLFlow server API from .NET apps. A sample use case is writing a .NET Core app that validates a machine learning model or API and stores the result in MLFlow
 - [microsoft/MLNETExcel](https://github.com/microsoft/MLNETExcel) topic: pushed_at:2022-05 star:0.0k fork:0.0k Excel Add-In to make predictions using ML.NET Models - Built on Blazor WASM 
 - [microsoft/Mobius](https://github.com/microsoft/Mobius) topic:apache-spark,bigdata,csharp,dataframe,dataset,dstream,eventhubs,fsharp,kafka-streaming,mapreduce,mobius,near-real-time,rdd,spark,spark-streaming,streaming pushed_at:2024-01 star:0.9k fork:0.2k C# and F# language binding and extensions to Apache Spark
@@ -922,7 +914,7 @@
 - [microsoft/MSBuildCache](https://github.com/microsoft/MSBuildCache) topic: pushed_at:2024-08 star:0.0k fork:0.0k A plugin for MSBuild that adds support for storing and retrieving cache entries.
 - [microsoft/MSBuildForUnity](https://github.com/microsoft/MSBuildForUnity) topic:msbuild,unity pushed_at:2023-10 star:0.4k fork:0.0k MSBuild integration in Unity
 - [microsoft/MSBuildLocator](https://github.com/microsoft/MSBuildLocator) topic:msbuild,visual-studio pushed_at:2024-08 star:0.2k fork:0.1k An API to locate MSBuild assemblies from an installed Visual Studio location. Use this to ensure that calling the MSBuild API will use the same toolset that a build from Visual Studio or msbuild.exe would.
-- [microsoft/MSBuildPrediction](https://github.com/microsoft/MSBuildPrediction) topic: pushed_at:2024-07 star:0.0k fork:0.0k A library to predict inputs and outputs of MSBuild projects
+- [microsoft/MSBuildPrediction](https://github.com/microsoft/MSBuildPrediction) topic: pushed_at:2024-08 star:0.0k fork:0.0k A library to predict inputs and outputs of MSBuild projects
 - [microsoft/MSBuildSdks](https://github.com/microsoft/MSBuildSdks) topic:msbuild pushed_at:2024-07 star:0.4k fork:0.1k MSBuild project SDKs
 - [microsoft/MSBuildStaticGraphTester](https://github.com/microsoft/MSBuildStaticGraphTester) topic: pushed_at:2020-04 star:0.0k fork:0.0k An evaluation corpus for testing MSBuild static graph applicability and integration with BuildXL
 - [microsoft/MSGraphNotifications](https://github.com/microsoft/MSGraphNotifications) topic: pushed_at:2023-10 star:0.0k fork:0.0k Docs and sample code for the new Microsoft Graph notifications client SDK
@@ -954,7 +946,7 @@
 - [microsoft/nfc-talk](https://github.com/microsoft/nfc-talk) topic: pushed_at:2018-10 star:0.0k fork:0.0k Simple chat application demonstrating NFC tap and Bluetooth search initiated connection establishment and further data transfer.
 - [microsoft/NLU.DevOps](https://github.com/microsoft/NLU.DevOps) topic:amazon-lex,cd,ci,ci-cd,continuous-deployment,continuous-integration,dotnet,dotnet-cli,lex,luis,nlu pushed_at:2022-12 star:0.0k fork:0.0k Tools supporting continuous integration and deployment for NLU services.
 - [microsoft/nmarc](https://github.com/microsoft/nmarc) topic: pushed_at:2023-09 star:0.0k fork:0.0k Native Mode Alignment Report Converter (NMARC) is a tool to convert the YAML produced in the Yammer alignment report into a more actionable format.
-- [microsoft/node-api-dotnet](https://github.com/microsoft/node-api-dotnet) topic: pushed_at:2024-08 star:0.5k fork:0.0k Advanced interoperability between .NET and JavaScript in the same process.
+- [microsoft/node-api-dotnet](https://github.com/microsoft/node-api-dotnet) topic: pushed_at:2024-09 star:0.5k fork:0.0k Advanced interoperability between .NET and JavaScript in the same process.
 - [microsoft/nodejstools](https://github.com/microsoft/nodejstools) topic: pushed_at:2024-08 star:1.8k fork:0.4k Node.js Tools for Visual Studio
 - [microsoft/NonprofitVirtualAssistant](https://github.com/microsoft/NonprofitVirtualAssistant) topic: pushed_at:2024-05 star:0.0k fork:0.0k Nonprofit Virtual Assistant
 - [microsoft/notification-provider](https://github.com/microsoft/notification-provider) topic:directsend,functions,graph,microsoft,netcore,notification pushed_at:2024-07 star:0.0k fork:0.0k A Mail Notification Library providing additional features on top of existing Email Notification clients like Microsoft Graph, Direct Send, and more!
@@ -1026,8 +1018,8 @@
 - [microsoft/powercat-business-approvals-kit](https://github.com/microsoft/powercat-business-approvals-kit) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [microsoft/PowerPlatform-DataverseModelBuilder](https://github.com/microsoft/PowerPlatform-DataverseModelBuilder) topic:dataverse,powerplatform pushed_at:2024-07 star:0.0k fork:0.0k Code Replica for the Microsoft Power Platform Dataverse Model Builder and supporting nuget packages
 - [microsoft/PowerPlatform-DataverseServiceClient](https://github.com/microsoft/PowerPlatform-DataverseServiceClient) topic:cds,cdsserviceclient,dataverse,dataverse-serviceclient,dynamics,microsoft,powerplatform pushed_at:2024-08 star:0.3k fork:0.0k Code Replica for Microsoft.PowerPlatform.Dataverse.Client and supporting nuget packages. 
-- [microsoft/PowerPlatformConnectors](https://github.com/microsoft/PowerPlatformConnectors) topic:connector,hacktoberfest,logicapps,microsoft,power-platform,powerapps,powerautomate pushed_at:2024-08 star:0.9k fork:1.2k This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) topic:color-picker,desktop,fancyzones,keyboard-manager,microsoft-powertoys,powerrename,powertoys,windows pushed_at:2024-08 star:108.1k fork:6.4k Windows system utilities to maximize productivity
+- [microsoft/PowerPlatformConnectors](https://github.com/microsoft/PowerPlatformConnectors) topic:connector,hacktoberfest,logicapps,microsoft,power-platform,powerapps,powerautomate pushed_at:2024-08 star:1.0k fork:1.2k This is a repository for Microsoft Power Automate, Power Apps, and Azure Logic Apps connectors
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) topic:color-picker,desktop,fancyzones,keyboard-manager,microsoft-powertoys,powerrename,powertoys,windows pushed_at:2024-08 star:108.5k fork:6.4k Windows system utilities to maximize productivity
 - [microsoft/PPMCheckerTool](https://github.com/microsoft/PPMCheckerTool) topic: pushed_at:2023-11 star:0.0k fork:0.0k PPMChecker tool that will check PPM settings from an ETL trace
 - [microsoft/prepose](https://github.com/microsoft/prepose) topic: pushed_at:2018-10 star:0.1k fork:0.0k Scripting Language for Kinect v2 Gestures
 - [microsoft/PrimeDNS](https://github.com/microsoft/PrimeDNS) topic: pushed_at:2022-12 star:0.0k fork:0.0k PrimeDNS is a DNS caching service that helps the user to continually maintain last known good DNS resolutions in the system's hostfile. It has been implemented in C# using dotnet core framework.
@@ -1038,13 +1030,13 @@
 - [microsoft/project15-openplatform-functions](https://github.com/microsoft/project15-openplatform-functions) topic: pushed_at:2023-01 star:0.0k fork:0.0k Sample Azure Functions app for Project 15 Open Platform
 - [microsoft/project15-openplatform-webapp](https://github.com/microsoft/project15-openplatform-webapp) topic: pushed_at:2023-01 star:0.0k fork:0.0k Sample WebApp for Project 15 Open Platform
 - [microsoft/prompt-engine-dotnet](https://github.com/microsoft/prompt-engine-dotnet) topic: pushed_at:2022-09 star:0.0k fork:0.0k A framework to simplify artificial intelligence prompt engineering
-- [microsoft/prose](https://github.com/microsoft/prose) topic:csharp,data-transformation,data-wrangling,dotnet,examples,microsoft,program-synthesis,prose,sdk,synthesis pushed_at:2024-07 star:0.6k fork:0.1k Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
+- [microsoft/prose](https://github.com/microsoft/prose) topic:csharp,data-transformation,data-wrangling,dotnet,examples,microsoft,program-synthesis,prose,sdk,synthesis pushed_at:2024-08 star:0.6k fork:0.1k Microsoft Program Synthesis using Examples SDK is a framework of technologies for the automatic generation of programs from input-output examples. This repo includes samples and sample data for the Microsoft Program Synthesis using Example SDK.
 - [microsoft/prose-benchmarks](https://github.com/microsoft/prose-benchmarks) topic: pushed_at:2024-06 star:0.0k fork:0.0k PROSE Public Benchmark Suite
 - [microsoft/ProtocolTestFramework](https://github.com/microsoft/ProtocolTestFramework) topic: pushed_at:2024-04 star:0.1k fork:0.0k ⭐⭐Join us at sambaXP 2024 (Apr 17 - Apr 18)
 - [microsoft/protractor](https://github.com/microsoft/protractor) topic: pushed_at:2014-11 star:0.0k fork:0.0k HTML5 application for Windows Phone that allows the screen to be used as protractor/ruler to measure lengths and angles.
-- [microsoft/PSDocs](https://github.com/microsoft/PSDocs) topic:desired-state-configuration,devops,devops-tools,documentation,hacktoberfest,infrastructure-as-code,markdown,powershell,powershell-module,psdocs,wmf pushed_at:2024-02 star:0.1k fork:0.0k Generate documentation from Infrastructure as Code (IaC).
-- [microsoft/psi](https://github.com/microsoft/psi) topic:artificial-intelligence,component-library,framework,human-robot-interaction,multimodal,multimodal-interactions,perception,pipelines,stream-processing,streaming pushed_at:2024-07 star:0.5k fork:0.1k Platform for Situated Intelligence
-- [microsoft/PSRule](https://github.com/microsoft/PSRule) topic:allof,anyof,concept,devops,devops-tools,hacktoberfest,infrastructure-as-code,powershell,powershell-module,psrule,rule,rule-engine,testing-tools,typeof pushed_at:2024-08 star:0.4k fork:0.0k Validate infrastructure as code (IaC) and objects using PowerShell rules.
+- [microsoft/PSDocs](https://github.com/microsoft/PSDocs) topic:desired-state-configuration,devops,devops-tools,documentation,hacktoberfest,infrastructure-as-code,markdown,powershell,powershell-module,psdocs,wmf pushed_at:2024-08 star:0.1k fork:0.0k Generate documentation from Infrastructure as Code (IaC).
+- [microsoft/psi](https://github.com/microsoft/psi) topic:artificial-intelligence,component-library,framework,human-robot-interaction,multimodal,multimodal-interactions,perception,pipelines,stream-processing,streaming pushed_at:2024-08 star:0.5k fork:0.1k Platform for Situated Intelligence
+- [microsoft/PSRule](https://github.com/microsoft/PSRule) topic:allof,anyof,concept,devops,devops-tools,hacktoberfest,infrastructure-as-code,powershell,powershell-module,psrule,rule,rule-engine,testing-tools,typeof pushed_at:2024-09 star:0.4k fork:0.0k Validate infrastructure as code (IaC) and objects using PowerShell rules.
 - [microsoft/PSRule.Monitor](https://github.com/microsoft/PSRule.Monitor) topic:azure,azure-monitor,cmdlet,powershell,powershell-module,psrule pushed_at:2024-07 star:0.0k fork:0.0k Log PSRule analysis results to Azure Monitor.
 - [microsoft/PSRule.Rules.GitHub](https://github.com/microsoft/PSRule.Rules.GitHub) topic:devops-tools,github,powershell,powershell-module,psrule,rule,testing-tools pushed_at:2024-08 star:0.0k fork:0.0k A suite of rules to validate GitHub repositories using PSRule.
 - [microsoft/PTVS](https://github.com/microsoft/PTVS) topic:ptvs,python,visual-studio pushed_at:2024-08 star:2.5k fork:0.7k Python Tools for Visual Studio
@@ -1073,7 +1065,7 @@
 - [microsoft/recorder](https://github.com/microsoft/recorder) topic: pushed_at:2015-03 star:0.0k fork:0.0k SensorCore SDK sample data recorder for the simulators
 - [microsoft/Recurring-Integrations-Scheduler](https://github.com/microsoft/Recurring-Integrations-Scheduler) topic:d365,d365fo,dixf,dynamics,finance,integration,operations,package-api,quartzax,recurring-integrations-scheduler,rest,ris,scheduler-service,supply-chain-management pushed_at:2023-06 star:0.1k fork:0.1k Recurring Integrations Scheduler (RIS) is a solution that can be used in file-based integration scenarios for Dynamics 365 Finance and Dynamics 365 Supply Chain Management.
 - [microsoft/RecursiveExtractor](https://github.com/microsoft/RecursiveExtractor) topic:archive,disc-image,extractor,nuget,recursion pushed_at:2024-06 star:0.2k fork:0.0k RecursiveExtractor is a .NET Standard 2.0 archive extraction Library, and Command Line Tool which can process 7zip, ar, bzip2, deb, gzip, iso, rar, tar, vhd, vhdx, vmdk, wim, xzip, and zip archives and any nested combination of the supported formats.
-- [microsoft/referencesource](https://github.com/microsoft/referencesource) topic: pushed_at:2024-04 star:3.1k fork:1.3k Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework
+- [microsoft/referencesource](https://github.com/microsoft/referencesource) topic: pushed_at:2024-04 star:3.2k fork:1.3k Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework
 - [microsoft/RegFree_WinRT](https://github.com/microsoft/RegFree_WinRT) topic: pushed_at:2023-06 star:0.0k fork:0.0k Sample Code showing use of Registration-free WinRT to access a 3rd party native WinRT Component from a non-packaged Desktop app
 - [microsoft/release-helper](https://github.com/microsoft/release-helper) topic: pushed_at:2024-01 star:0.0k fork:0.0k Helper library to simplify getting TFS & Azure DevOps release errors and stats
 - [microsoft/release-util](https://github.com/microsoft/release-util) topic: pushed_at:2023-06 star:0.0k fork:0.0k CLI tool for querying release info from TFS and Azure DevOps
@@ -1093,17 +1085,17 @@
 - [microsoft/rss-reader-wp](https://github.com/microsoft/rss-reader-wp) topic: pushed_at:2015-08 star:0.0k fork:0.0k The RSS Reader Example Application demonstrates the use of RSS feed resources from the Internet, and concepts such as tombstoning and dynamically generating and modifying the user interface on the fly. It contains a rich UI with view navigation, search, lists and animations.
 - [microsoft/RTVS](https://github.com/microsoft/RTVS) topic:microsoft,r,rtvs,visual-studio pushed_at:2021-05 star:0.4k fork:0.1k R Tools for Visual Studio.
 - [microsoft/rudder](https://github.com/microsoft/rudder) topic: pushed_at:2022-09 star:0.0k fork:0.0k Static analysis of MSIL based on the analysis-net infrastructure
-- [microsoft/RulesEngine](https://github.com/microsoft/RulesEngine) topic:dotnet,engine,expression-evaluator,nuget,rules,rules-engine,workflow pushed_at:2024-07 star:3.6k fork:0.5k A Json based Rules Engine with extensive Dynamic expression support
+- [microsoft/RulesEngine](https://github.com/microsoft/RulesEngine) topic:dotnet,engine,expression-evaluator,nuget,rules,rules-engine,workflow pushed_at:2024-08 star:3.6k fork:0.5k A Json based Rules Engine with extensive Dynamic expression support
 - [microsoft/RxKql](https://github.com/microsoft/RxKql) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [microsoft/SAF](https://github.com/microsoft/SAF) topic: pushed_at:2024-07 star:0.0k fork:0.0k Simple Archive Format - A minimal, stream-friendly format for file/object archiving.
 - [microsoft/SampleCPMProject](https://github.com/microsoft/SampleCPMProject) topic: pushed_at:2022-12 star:0.0k fork:0.0k This sample project provides code snipets on how to call the REST api of the CPM service programmatically.
 - [microsoft/samples-for-ai](https://github.com/microsoft/samples-for-ai) topic: pushed_at:2023-06 star:0.6k fork:0.2k Samples for getting started with deep learning across TensorFlow, CNTK, Theano and more.
 - [microsoft/sarif-azuredevops-extension-test](https://github.com/microsoft/sarif-azuredevops-extension-test) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [microsoft/sarif-pattern-matcher](https://github.com/microsoft/sarif-pattern-matcher) topic: pushed_at:2024-01 star:0.0k fork:0.0k Quality domain agnostic regular expression pattern matcher that persists results to SARIF
-- [microsoft/sarif-sdk](https://github.com/microsoft/sarif-sdk) topic: pushed_at:2024-07 star:0.2k fork:0.1k .NET code and supporting files for working with the 'Static Analysis Results Interchange Format' (SARIF, see https://github.com/oasis-tcs/sarif-spec)
+- [microsoft/sarif-sdk](https://github.com/microsoft/sarif-sdk) topic: pushed_at:2024-08 star:0.2k fork:0.1k .NET code and supporting files for working with the 'Static Analysis Results Interchange Format' (SARIF, see https://github.com/oasis-tcs/sarif-spec)
 - [microsoft/sarif-visualstudio-extension](https://github.com/microsoft/sarif-visualstudio-extension) topic: pushed_at:2024-04 star:0.0k fork:0.0k SARIF Microsoft Visual Studio Viewer Extension
 - [microsoft/sarifer](https://github.com/microsoft/sarifer) topic: pushed_at:2022-12 star:0.0k fork:0.0k SARIF pattern-matcher driven background analysis for the IDE.
-- [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) topic:sbom,sbom-generator pushed_at:2024-08 star:1.5k fork:0.1k The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
+- [microsoft/sbom-tool](https://github.com/microsoft/sbom-tool) topic:sbom,sbom-generator pushed_at:2024-08 star:1.6k fork:0.1k The SBOM tool is a highly scalable and enterprise ready tool to create SPDX 2.2 compatible SBOMs for any variety of artifacts.
 - [microsoft/scalar](https://github.com/microsoft/scalar) topic: pushed_at:2024-07 star:1.4k fork:0.1k Scalar: A set of tools and extensions for Git to allow very large monorepos to run on Git without a virtualization layer
 - [microsoft/SchemaGenerator](https://github.com/microsoft/SchemaGenerator) topic: pushed_at:2019-10 star:0.0k fork:0.0k A generic tool for automatic schema generation for a set of C# classes.
 - [microsoft/schemy](https://github.com/microsoft/schemy) topic:configuration,csharp,dotnet,interpreter,scheme,scripting-language pushed_at:2022-09 star:0.3k fork:0.0k A lightweight embeddable Scheme-like interpreter for configuration 
@@ -1115,15 +1107,15 @@
 - [microsoft/scsmservicerequest](https://github.com/microsoft/scsmservicerequest) topic: pushed_at:2023-06 star:0.0k fork:0.0k SCSM Service Request
 - [microsoft/SDCM](https://github.com/microsoft/SDCM) topic: pushed_at:2024-08 star:0.0k fork:0.0k Surface Dev Center Manager tool to automate WHQL/Attestation submissions and Shipping Label creation for Microsoft Hardware Dev Center
 - [microsoft/secmgmt-open-powershell](https://github.com/microsoft/secmgmt-open-powershell) topic: pushed_at:2023-07 star:0.0k fork:0.0k Security and Management Open PowerShell Module
-- [microsoft/security-devops-common](https://github.com/microsoft/security-devops-common) topic: pushed_at:2024-03 star:0.0k fork:0.0k Common libraries for Microsoft Security DevOps (MSDO)
+- [microsoft/security-devops-common](https://github.com/microsoft/security-devops-common) topic: pushed_at:2024-08 star:0.0k fork:0.0k Common libraries for Microsoft Security DevOps (MSDO)
 - [microsoft/security-utilities](https://github.com/microsoft/security-utilities) topic: pushed_at:2024-08 star:0.0k fork:0.0k Security utilities for key generation, string redaction, etc.
 - [microsoft/SeeingVRtoolkit](https://github.com/microsoft/SeeingVRtoolkit) topic: pushed_at:2022-11 star:0.1k fork:0.0k A Set of Tools to Make Virtual Reality More Accessible to People with Low Vision
-- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) topic:ai,artificial-intelligence,llm,openai,sdk pushed_at:2024-08 star:21.0k fork:3.1k Integrate cutting-edge LLM technology quickly and easily into your apps
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) topic:ai,artificial-intelligence,llm,openai,sdk pushed_at:2024-08 star:21.2k fork:3.1k Integrate cutting-edge LLM technology quickly and easily into your apps
 - [microsoft/semantic-kernel-starters](https://github.com/microsoft/semantic-kernel-starters) topic: pushed_at:2024-02 star:0.3k fork:0.1k Starter Projects for Semantic Kernel
 - [microsoft/Service-Fabric-AppDRTool](https://github.com/microsoft/Service-Fabric-AppDRTool) topic: pushed_at:2022-12 star:0.0k fork:0.0k The Service Fabric Application Disaster Recovery Tool is a disaster recovery tool for Service Fabric clusters which allows users to recover their primary cluster data in the event of a disaster. SFAppDRTool allows the user to backup their primary cluster on a secondary cluster via periodic backup-restore on secondary cluster of your backups on primary cluster.
-- [microsoft/service-fabric-aspnetcore](https://github.com/microsoft/service-fabric-aspnetcore) topic: pushed_at:2024-05 star:0.2k fork:0.0k This repo contains ASP.NET Core integration for Service Fabric Reliable Services.
+- [microsoft/service-fabric-aspnetcore](https://github.com/microsoft/service-fabric-aspnetcore) topic: pushed_at:2024-08 star:0.2k fork:0.0k This repo contains ASP.NET Core integration for Service Fabric Reliable Services.
 - [microsoft/service-fabric-backup-explorer](https://github.com/microsoft/service-fabric-backup-explorer) topic: pushed_at:2023-09 star:0.0k fork:0.0k A set of artifacts to load service fabric reliable collections backups offline and then inspect, modify and take further new backups
-- [microsoft/service-fabric-client-dotnet](https://github.com/microsoft/service-fabric-client-dotnet) topic: pushed_at:2024-07 star:0.1k fork:0.0k .NET client library for Service Fabric
+- [microsoft/service-fabric-client-dotnet](https://github.com/microsoft/service-fabric-client-dotnet) topic: pushed_at:2024-08 star:0.1k fork:0.0k .NET client library for Service Fabric
 - [microsoft/service-fabric-healer](https://github.com/microsoft/service-fabric-healer) topic:auto-mitigation,csharp,guan,linux,logic-programming,net6,service-fabric,windows pushed_at:2024-08 star:0.0k fork:0.0k Service Fabric Auto-Repair Service with Declarative Logic for Repair Policy Specification. Targets both Windows and Linux SF clusters.
 - [microsoft/service-fabric-observer](https://github.com/microsoft/service-fabric-observer) topic:cluster,csharp,fabric-observer,linux,net8,service-fabric,watchdog-service,windows pushed_at:2024-08 star:0.1k fork:0.0k Highly configurable, extensible and performant Service Fabric watchdog service that, out of the box, monitors a broad range of physical machine resources that tend to be very important to Service Fabric services and maps these metrics to SF entities. It targets both Windows and Linux SF clusters.
 - [microsoft/Service-Fabric-POA](https://github.com/microsoft/Service-Fabric-POA) topic:patching,servicefabric,windowsupdate pushed_at:2024-05 star:0.0k fork:0.0k Patch Orchestration Application (POA) is an Azure Service Fabric application that automates operating system patching on a Service Fabric cluster without downtime.
@@ -1131,6 +1123,7 @@
 - [microsoft/service-fabric-services-and-actors-dotnet](https://github.com/microsoft/service-fabric-services-and-actors-dotnet) topic: pushed_at:2024-08 star:0.3k fork:0.1k Reliable Services and Reliable Actors are Service Fabric application frameworks for building highly-scalable distributed cloud applications.
 - [microsoft/service-fabric-yarp](https://github.com/microsoft/service-fabric-yarp) topic: pushed_at:2024-01 star:0.0k fork:0.0k YARP integration with Service Fabric
 - [microsoft/ShortStack](https://github.com/microsoft/ShortStack) topic: pushed_at:2023-07 star:0.0k fork:0.0k Stacked Pull Request Tool
+- [microsoft/SignalR-Samples-AI](https://github.com/microsoft/SignalR-Samples-AI) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/simple-filter-mixer](https://github.com/microsoft/simple-filter-mixer) topic: pushed_at:2014-11 star:0.0k fork:0.0k Simple Filter Mixer is an example application for Windows Phone demonstrating the use of Imaging SDK APIs, combining multiple filters together and demonstrating each of the available filter in the SDK. This sample also demonstrates on-demand creation of the filters using reflection.
 - [microsoft/SimpleActivity](https://github.com/microsoft/SimpleActivity) topic: pushed_at:2015-03 star:0.0k fork:0.0k SimpleActivity is a sample application which demonstrates the usage of the Activity Monitor API in Windows Phone 8.1. This application shows different activity types the user has performed during the current day. The user is able to see the activities from the last seven days as well zoom the activity graph by using the application bar buttons
 - [microsoft/SimplePlaces](https://github.com/microsoft/SimplePlaces) topic: pushed_at:2018-10 star:0.0k fork:0.0k SimplePlaces is a sample application which demonstrates the usage of the Place Monitor API in Windows Phone 8.1. This application shows the known places on the map and by tapping the places push pin, more information about the selected place. The user is able to see the places visited from the last seven days as well as places history by using the application bar buttons.
@@ -1142,7 +1135,7 @@
 - [microsoft/Simplygon-DCC-Integrations](https://github.com/microsoft/Simplygon-DCC-Integrations) topic:simplygon pushed_at:2024-07 star:0.0k fork:0.0k Source code for the Simplygon integrations in Autodesk 3ds Max and Maya
 - [microsoft/SizeBench](https://github.com/microsoft/SizeBench) topic: pushed_at:2024-04 star:0.1k fork:0.0k SizeBench is a binary size investigation tool for Windows
 - [microsoft/skillBotTemplate](https://github.com/microsoft/skillBotTemplate) topic: pushed_at:2023-01 star:0.0k fork:0.0k Teams Skill Bot template projects
-- [microsoft/slngen](https://github.com/microsoft/slngen) topic: pushed_at:2024-07 star:0.3k fork:0.1k Visual Studio solution generator
+- [microsoft/slngen](https://github.com/microsoft/slngen) topic: pushed_at:2024-08 star:0.3k fork:0.1k Visual Studio solution generator
 - [microsoft/Sloos](https://github.com/microsoft/Sloos) topic: pushed_at:2024-01 star:0.0k fork:0.0k Tool to bulk load CSV files into SQL Server
 - [microsoft/slow-cheetah](https://github.com/microsoft/slow-cheetah) topic:transformations,xdt,xml pushed_at:2024-04 star:0.3k fork:0.1k Tooling for XML and JSON file transforms on build from Visual Studio and MSBuild
 - [microsoft/Smart-Energy-Foundation-Demo-Stack](https://github.com/microsoft/Smart-Energy-Foundation-Demo-Stack) topic: pushed_at:2019-03 star:0.1k fork:0.0k A demonstration solution that uses real-time Carbon Emissions and Weather data mining to show how data from several Web based APIs can be mined, visualized and acted upon in a Microsoft Azure solution
@@ -1150,7 +1143,7 @@
 - [microsoft/SmartHotel360-IoT](https://github.com/microsoft/SmartHotel360-IoT) topic: pushed_at:2020-02 star:0.1k fork:0.1k SmartHotel360 deployed Azure digital Twins to control lights and temperature of the hotel rooms.
 - [microsoft/SmartHotel360-MixedReality](https://github.com/microsoft/SmartHotel360-MixedReality) topic: pushed_at:2020-02 star:0.0k fork:0.0k SmartHotel360 Mixed Reality Demo
 - [microsoft/SmartHotel360-Mobile](https://github.com/microsoft/SmartHotel360-Mobile) topic:android,connect,ios,iot-demo,nfc,smart,uwp,xamarin,xamarin-forms pushed_at:2020-02 star:0.5k fork:0.4k SmartHotel360 Mobile
-- [microsoft/SmartKG](https://github.com/microsoft/SmartKG) topic: pushed_at:2023-09 star:0.4k fork:0.1k This project accepts excel files as input which contains the description of a Knowledge Graph (Vertexes and Edges) and convert it into an in-memory Graph Store. This project implements APIs to search/filter/get nodes and relations from the in-memory Knowledge Graph. This project also provides a dialog management framework and enable a chatbot based on its knowledge graph.
+- [microsoft/SmartKG](https://github.com/microsoft/SmartKG) topic: pushed_at:2024-08 star:0.4k fork:0.1k This project accepts excel files as input which contains the description of a Knowledge Graph (Vertexes and Edges) and convert it into an in-memory Graph Store. This project implements APIs to search/filter/get nodes and relations from the in-memory Knowledge Graph. This project also provides a dialog management framework and enable a chatbot based on its knowledge graph.
 - [microsoft/smlets](https://github.com/microsoft/smlets) topic: pushed_at:2023-06 star:0.0k fork:0.0k SMLets - SCSM PowerShell Cmdlets
 - [microsoft/Snip-Insights](https://github.com/microsoft/Snip-Insights) topic: pushed_at:2018-09 star:0.1k fork:0.0k Snip Insights, a Microsoft Garage project
 - [microsoft/solitaire-wp](https://github.com/microsoft/solitaire-wp) topic: pushed_at:2014-11 star:0.0k fork:0.0k Solitaire game example developed with XNA Game Studio for Windows Phone 7.
@@ -1208,8 +1201,8 @@
 - [microsoft/TestAdapterForGoogleTest](https://github.com/microsoft/TestAdapterForGoogleTest) topic: pushed_at:2024-08 star:0.1k fork:0.0k Visual Studio extension that enables support for unit testing with Google Test in the IDE
 - [microsoft/TestApi](https://github.com/microsoft/TestApi) topic: pushed_at:2023-06 star:0.1k fork:0.0k TestApi is a library of test and utility APIs that enables developers and testers to create testing tools and automated tests for .NET and Win32 applications. TestApi provides a set of common test building blocks -- types, data-structures and algorithms -- in a simple, layered, componentized and documented stack.
 - [microsoft/TestEasy](https://github.com/microsoft/TestEasy) topic: pushed_at:2023-06 star:0.0k fork:0.0k Helper framework for web testing providing easy to use API for managing WebServers, Browsers, Nuget and Azure resources at test runtime.
-- [microsoft/testfx](https://github.com/microsoft/testfx) topic:dotnet,microsoft,mstest,mstestv2,tdd,test,test-framework,test-runner,testing-tools,unittest,visual-studio pushed_at:2024-08 star:0.7k fork:0.2k MSTest framework and adapter
-- [microsoft/theme-converter-for-vs](https://github.com/microsoft/theme-converter-for-vs) topic:visualstudio,visualstudio-theme,visualstudio2022,vscode pushed_at:2024-02 star:0.5k fork:0.0k CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme.
+- [microsoft/testfx](https://github.com/microsoft/testfx) topic:dotnet,microsoft,mstest,mstestv2,tdd,test,test-framework,test-runner,testing-tools,unittest,visual-studio pushed_at:2024-08 star:0.7k fork:0.3k MSTest framework and adapter
+- [microsoft/theme-converter-for-vs](https://github.com/microsoft/theme-converter-for-vs) topic:visualstudio,visualstudio-theme,visualstudio2022,vscode pushed_at:2024-02 star:0.5k fork:0.1k CLI tool that allows you to convert your VS Code color theme to a VS 2022 color theme.
 - [microsoft/Thoth](https://github.com/microsoft/Thoth) topic: pushed_at:2024-07 star:0.0k fork:0.0k The Egyptians credited him as the author of all works of science, religion, philosophy, and magic. The Greeks further declared him the inventor of astronomy , astrology , the science of numbers, mathematics, geometry, surveying, medicine, botany, theology, civilized government, the alphabet, reading, writing, and oratory.
 - [microsoft/tim-data-investigate-platform](https://github.com/microsoft/tim-data-investigate-platform) topic: pushed_at:2024-08 star:0.0k fork:0.0k TIM is a Kusto investigation platform that enables a user to quickly pivot between data sources; annotate their findings; and promotes collaboration through shared queries (pivots) and centralized tagged events.
 - [microsoft/TimeoutManager](https://github.com/microsoft/TimeoutManager) topic: pushed_at:2023-06 star:0.0k fork:0.0k A utility class for managing timeouts of items\requests
@@ -1248,12 +1241,12 @@
 - [microsoft/VanArsdel](https://github.com/microsoft/VanArsdel) topic:csharp,fluent-design,uwp,windows,windows-10,winui,xaml pushed_at:2023-06 star:0.2k fork:0.1k VanArsdel Application UWP Sample
 - [microsoft/vcc](https://github.com/microsoft/vcc) topic: pushed_at:2021-01 star:0.1k fork:0.0k A static verifier for concurrent C programs
 - [microsoft/verisol](https://github.com/microsoft/verisol) topic: pushed_at:2022-12 star:0.2k fork:0.0k A formal verifier and analysis tool for Solidity Smart Contracts
-- [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) topic: pushed_at:2024-03 star:6.0k fork:0.5k Virtual File System for Git: Enable Git at Enterprise Scale
+- [microsoft/VFSForGit](https://github.com/microsoft/VFSForGit) topic: pushed_at:2024-08 star:6.0k fork:0.5k Virtual File System for Git: Enable Git at Enterprise Scale
 - [microsoft/Vipr](https://github.com/microsoft/Vipr) topic: pushed_at:2024-07 star:0.1k fork:0.0k Client Library Generation Toolkit
 - [microsoft/Virtual-Robot-Overlay-for-Online-Meetings](https://github.com/microsoft/Virtual-Robot-Overlay-for-Online-Meetings) topic: pushed_at:2023-03 star:0.0k fork:0.0k Virtual Robot Overlay for Online Meetings (VROOM)
 - [microsoft/VirtualClient](https://github.com/microsoft/VirtualClient) topic:ab-testing,benchmark-framework,cloud-testing,monitoring,performance,workload-automation pushed_at:2024-08 star:0.1k fork:0.0k Benchmarking and monitoring automation, designed for cloud, built with .NET.
 - [microsoft/VirtualClient-Examples](https://github.com/microsoft/VirtualClient-Examples) topic: pushed_at:2024-05 star:0.0k fork:0.0k Extension examples for VirtualClient project at https://github.com/microsoft/VirtualClient
-- [microsoft/VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) topic:mixed-reality,profiler,profiling,unity pushed_at:2024-04 star:0.2k fork:0.0k The Visual Profiler provides a drop in solution for viewing your mixed reality Unity application's frame rate, scene complexity, and memory usage.
+- [microsoft/VisualProfiler-Unity](https://github.com/microsoft/VisualProfiler-Unity) topic:mixed-reality,profiler,profiling,unity pushed_at:2024-08 star:0.2k fork:0.0k The Visual Profiler provides a drop in solution for viewing your mixed reality Unity application's frame rate, scene complexity, and memory usage.
 - [microsoft/VisualStudio-TestHost](https://github.com/microsoft/VisualStudio-TestHost) topic: pushed_at:2019-04 star:0.0k fork:0.0k Infrastructure for executing interactive UI tests in Visual Studio.
 - [microsoft/visualstudio.xunit](https://github.com/microsoft/visualstudio.xunit) topic: pushed_at:2016-06 star:0.0k fork:0.0k Visual Studio Test Explorer runner for xUnit.net (please open issues in https://github.com/xunit/xunit)
 - [microsoft/VisualStudioMIEnginePictureViewer](https://github.com/microsoft/VisualStudioMIEnginePictureViewer) topic: pushed_at:2022-09 star:0.0k fork:0.0k Sample code for Visual Studio Linux debugger native UI visualization.
@@ -1273,12 +1266,12 @@
 - [microsoft/vs-servicehub](https://github.com/microsoft/vs-servicehub) topic: pushed_at:2024-08 star:0.0k fork:0.0k The service broker libraries used by Visual Studio to exchange intra- and inter-process services
 - [microsoft/vs-streamjsonrpc](https://github.com/microsoft/vs-streamjsonrpc) topic:dotnet,json-rpc,netstandard,rpc,stream,transport pushed_at:2024-08 star:0.7k fork:0.1k The StreamJsonRpc library offers JSON-RPC 2.0 over any .NET Stream, WebSocket, or Pipe. With bonus support for request cancellation, client proxy generation, and more.
 - [microsoft/vs-threading](https://github.com/microsoft/vs-threading) topic:analyzer,async,dotnet,netstandard,nuget,synchronization-primitives,threading,ui-thread pushed_at:2024-08 star:1.0k fork:0.1k The Microsoft.VisualStudio.Threading is a xplat library that provides many threading and synchronization primitives used in Visual Studio and other applications. 
-- [microsoft/vs-validation](https://github.com/microsoft/vs-validation) topic:dotnet,netstandard,nuget,validation pushed_at:2024-07 star:0.1k fork:0.0k Common input and integrity validation routines for Visual Studio and other applications
+- [microsoft/vs-validation](https://github.com/microsoft/vs-validation) topic:dotnet,netstandard,nuget,validation pushed_at:2024-08 star:0.1k fork:0.0k Common input and integrity validation routines for Visual Studio and other applications
 - [microsoft/VS2017-RTM-Xamarin-Cycle-9-Forms-Azure-Sample](https://github.com/microsoft/VS2017-RTM-Xamarin-Cycle-9-Forms-Azure-Sample) topic: pushed_at:2023-06 star:0.0k fork:0.0k A simple master-detail Xamarin Forms with an Azure App Service backend
 - [microsoft/vscode-filewatcher-windows](https://github.com/microsoft/vscode-filewatcher-windows) topic: pushed_at:2021-03 star:0.1k fork:0.1k The file watcher used for VS Code on Windows.
 - [microsoft/vscode-mono-debug](https://github.com/microsoft/vscode-mono-debug) topic: pushed_at:2024-06 star:0.2k fork:0.2k A simple VS Code debug adapter for mono
 - [microsoft/vscode-remote-try-dotnet](https://github.com/microsoft/vscode-remote-try-dotnet) topic: pushed_at:2024-06 star:0.2k fork:0.2k .NET sample project for trying out Dev Containers
-- [microsoft/VSConfigFinder](https://github.com/microsoft/VSConfigFinder) topic:visual-studio,visual-studio-installation pushed_at:2024-05 star:0.0k fork:0.0k Locate Visual Studio installation configuration files (.vsconfigs) downstream recursively and merge them all together
+- [microsoft/VSConfigFinder](https://github.com/microsoft/VSConfigFinder) topic:visual-studio,visual-studio-installation pushed_at:2024-08 star:0.0k fork:0.0k Locate Visual Studio installation configuration files (.vsconfigs) downstream recursively and merge them all together
 - [microsoft/VSDebugAdapterHost](https://github.com/microsoft/VSDebugAdapterHost) topic: pushed_at:2024-04 star:0.1k fork:0.0k Visual Studio Debug Adapter Host
 - [microsoft/VSExtensibility](https://github.com/microsoft/VSExtensibility) topic: pushed_at:2024-08 star:0.4k fork:0.0k A repo for upcoming changes to extensibility in Visual Studio, the new extensibility model, and language server protocol.
 - [microsoft/vSlice](https://github.com/microsoft/vSlice) topic: pushed_at:2022-12 star:0.0k fork:0.0k A tool for viewing and slicing hierarchical data. 
@@ -1287,7 +1280,7 @@
 - [microsoft/VSSDK-Extensibility-Samples](https://github.com/microsoft/VSSDK-Extensibility-Samples) topic: pushed_at:2024-07 star:1.2k fork:0.4k Samples for building your own Visual Studio extensions
 - [microsoft/VSSDK-Extensibility-Templates](https://github.com/microsoft/VSSDK-Extensibility-Templates) topic: pushed_at:2023-06 star:0.0k fork:0.0k Visual Studio item templates for building your own extensions
 - [microsoft/vssdktestfx](https://github.com/microsoft/vssdktestfx) topic: pushed_at:2024-07 star:0.0k fork:0.0k A testing framework for Visual Studio extensions
-- [microsoft/vssetup.powershell](https://github.com/microsoft/vssetup.powershell) topic:powershell,visual-studio pushed_at:2024-05 star:0.2k fork:0.0k PowerShell module to interact with Visual Studio Setup
+- [microsoft/vssetup.powershell](https://github.com/microsoft/vssetup.powershell) topic:powershell,visual-studio pushed_at:2024-08 star:0.2k fork:0.0k PowerShell module to interact with Visual Studio Setup
 - [microsoft/vstest](https://github.com/microsoft/vstest) topic:dotnet,test-runner,testing,testing-tools,unit-testing,visual-studio pushed_at:2024-08 star:0.9k fork:0.3k Visual Studio Test Platform is the runner and engine that powers test explorer and vstest.console.
 - [microsoft/vsts-build-test-samples](https://github.com/microsoft/vsts-build-test-samples) topic: pushed_at:2022-10 star:0.0k fork:0.0k Sample projects for test vso-agent.  Contains sample projects for windows and xplat agents.
 - [microsoft/vsts-import-process-sample](https://github.com/microsoft/vsts-import-process-sample) topic: pushed_at:2017-09 star:0.0k fork:0.0k Sample project on how to import a process template into Team Services using the REST APIs. This is only relevent if you have legacy xml implemented on your account.
@@ -1337,14 +1330,15 @@
 - [microsoft/WingtipTicketsSaaS-StandaloneApp](https://github.com/microsoft/WingtipTicketsSaaS-StandaloneApp) topic: pushed_at:2023-07 star:0.1k fork:0.0k A standalone sample SaaS application for a single tenant, built on Azure SQL Database, built on Azure SQL Database. Includes management scripts for a range of scenarios. 
 - [microsoft/WinLog](https://github.com/microsoft/WinLog) topic: pushed_at:2022-04 star:0.0k fork:0.0k This package allows for easy enumeration of EVTX files, EventRecord conversion from native, to XML, to a JSON based log record.
 - [microsoft/WinUI-Gallery](https://github.com/microsoft/WinUI-Gallery) topic:fluent,fluent-design,hacktoberfest,uwp,uwp-apps,winrt,winui,xaml,xaml-layout,xaml-style,xaml-theme,xaml-winrt pushed_at:2024-08 star:2.7k fork:0.6k This app demonstrates the controls available in WinUI and the Fluent Design System.
-- [microsoft/woodgrove-auth-api](https://github.com/microsoft/woodgrove-auth-api) topic: pushed_at:2024-06 star:0.0k fork:0.0k Woodgrove groceries custom authentication extension REST API demo
+- [microsoft/woodgrove-auth-api](https://github.com/microsoft/woodgrove-auth-api) topic: pushed_at:2024-08 star:0.0k fork:0.0k Woodgrove groceries custom authentication extension REST API demo
 - [microsoft/woodgrove-groceries-api](https://github.com/microsoft/woodgrove-groceries-api) topic: pushed_at:2024-08 star:0.0k fork:0.0k Woodgrove groceries web API demo
+- [microsoft/woodgrove-groceries-graph-middleware](https://github.com/microsoft/woodgrove-groceries-graph-middleware) topic: pushed_at:2024-08 star:0.0k fork:0.0k Woodgrove Groceries Microsoft Graph middleware
 - [microsoft/wopi-validator-core](https://github.com/microsoft/wopi-validator-core) topic: pushed_at:2024-02 star:0.0k fork:0.0k A tool to test and validate server-side WOPI implementations
 - [microsoft/workbooks](https://github.com/microsoft/workbooks) topic: pushed_at:2022-06 star:0.5k fork:0.1k Workbooks is an interactive programming environment that’s perfect for experimentation, learning, and documentation: an educational tool for learning the myriad of .NET platforms, APIs, and libraries.
 - [microsoft/WPF-Samples](https://github.com/microsoft/WPF-Samples) topic: pushed_at:2024-08 star:5.0k fork:3.2k Repository for WPF related samples
 - [microsoft/XamarinAzure_ShoppingDemoApp](https://github.com/microsoft/XamarinAzure_ShoppingDemoApp) topic: pushed_at:2023-04 star:0.2k fork:0.2k Xamarin and Azure Better Together demo app team.
 - [microsoft/XamlBehaviors](https://github.com/microsoft/XamlBehaviors) topic: pushed_at:2024-08 star:0.7k fork:0.1k This is the official home for UWP XAML Behaviors on GitHub.
-- [microsoft/XamlBehaviorsWpf](https://github.com/microsoft/XamlBehaviorsWpf) topic: pushed_at:2024-06 star:0.8k fork:0.1k Home for WPF XAML Behaviors on GitHub. 
+- [microsoft/XamlBehaviorsWpf](https://github.com/microsoft/XamlBehaviorsWpf) topic: pushed_at:2024-08 star:0.8k fork:0.1k Home for WPF XAML Behaviors on GitHub. 
 - [microsoft/XamlIslandBlogPostSample](https://github.com/microsoft/XamlIslandBlogPostSample) topic: pushed_at:2023-06 star:0.0k fork:0.0k Sample code for Xaml Islands on Win32 
 - [microsoft/xbox-live-developer-tools](https://github.com/microsoft/xbox-live-developer-tools) topic: pushed_at:2024-07 star:0.1k fork:0.1k The Microsoft Xbox Live Developer Tools enables game developers to create their own tools for the Xbox Live service and access ones created by Microsoft.
 - [microsoft/xbox-live-resiliency-fiddler-plugin](https://github.com/microsoft/xbox-live-resiliency-fiddler-plugin) topic: pushed_at:2023-06 star:0.0k fork:0.0k This Fiddler plug-in will simulate your title's behavior due to lack of connectivity to various Xbox Live services. For example, you can test your title's behavior if Rich Presence is returning 429s, or if all services are returning 503s. 
@@ -1358,7 +1352,7 @@
 - [microsoft/Yams](https://github.com/microsoft/Yams) topic: pushed_at:2022-12 star:0.2k fork:0.1k YAMS (Yet Another Microservices Solution) is a library that can be used to deploy and host microservices in the cloud (e.g. Azure) or on premises
 - [microsoft/ZappysPlayground](https://github.com/microsoft/ZappysPlayground) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
 - [microsoft/Zen](https://github.com/microsoft/Zen) topic:constraint,solving,verification,zen pushed_at:2024-01 star:0.1k fork:0.0k Zen is a constraint solving library for .NET
-- [microsoft/zerotrustassessment](https://github.com/microsoft/zerotrustassessment) topic: pushed_at:2024-08 star:0.0k fork:0.0k Repository for the Zero Trust Assessment project
+- [microsoft/zerotrustassessment](https://github.com/microsoft/zerotrustassessment) topic: pushed_at:2024-09 star:0.0k fork:0.0k Repository for the Zero Trust Assessment project
 - [microsoft/ZipLine](https://github.com/microsoft/ZipLine) topic: pushed_at:2023-06 star:0.0k fork:0.0k Text clustering algorithm, implemented in .NET
 
 ## C++
@@ -1373,6 +1367,7 @@
 - [microsoft/AI4FluidSimulations](https://github.com/microsoft/AI4FluidSimulations) topic: pushed_at:2022-11 star:0.0k fork:0.0k Train large-scale surrogate models for CO2 flow in porous media or for solving the 3D Navier Stokes Equation.
 - [microsoft/AirSim](https://github.com/microsoft/AirSim) topic:ai,airsim,artificial-intelligence,autonomous-quadcoptor,autonomous-vehicles,computer-vision,control-systems,cross-platform,deep-reinforcement-learning,deeplearning,drones,pixhawk,platform-independent,research,self-driving-car,simulator,unreal-engine pushed_at:2024-06 star:16.2k fork:4.5k Open source simulator for autonomous vehicles built on Unreal Engine / Unity, from Microsoft AI & Research
 - [microsoft/AirSim-Drone-Racing-Lab-Source](https://github.com/microsoft/AirSim-Drone-Racing-Lab-Source) topic: pushed_at:2023-03 star:0.0k fork:0.0k AirSim source + Envs behind https://github.com/microsoft/AirSim-Drone-Racing-Lab 
+- [microsoft/aitour-exploring-cutting-edge-models](https://github.com/microsoft/aitour-exploring-cutting-edge-models) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/ALEX](https://github.com/microsoft/ALEX) topic: pushed_at:2024-03 star:0.7k fork:0.1k A library for building an in-memory, Adaptive Learned indEX
 - [microsoft/antares](https://github.com/microsoft/antares) topic: pushed_at:2024-08 star:0.4k fork:0.0k Antares: an automatic engine for multi-platform kernel generation and optimization. Supporting CPU, CUDA, ROCm, DirectX12, GraphCore, SYCL for CPU/GPU, OpenCL for AMD/NVIDIA, Android CPU/GPU backends.
 - [microsoft/Apache-Provider](https://github.com/microsoft/Apache-Provider) topic: pushed_at:2023-06 star:0.0k fork:0.0k Apache Monitoring Agent for OMI Server
@@ -1401,10 +1396,10 @@
 - [microsoft/BPerf](https://github.com/microsoft/BPerf) topic:clr,coreclr,profiler pushed_at:2022-12 star:0.1k fork:0.0k BPerf is a Cloud Profiling system used by Bing.com based on CoreCLR Profiling APIs & Event Tracing for Windows.
 - [microsoft/bpf_performance](https://github.com/microsoft/bpf_performance) topic: pushed_at:2024-08 star:0.0k fork:0.0k A set of platform-agnostic tools to measure the performance of various BPF helper functions.
 - [microsoft/caffe](https://github.com/microsoft/caffe) topic: pushed_at:2023-06 star:1.2k fork:0.5k Caffe on both Linux and Windows
-- [microsoft/calculator](https://github.com/microsoft/calculator) topic:cpp,csharp,uwp,windows,windows-10,windows-11,xaml pushed_at:2024-08 star:29.4k fork:5.3k Windows Calculator: A simple yet powerful calculator that ships with Windows
+- [microsoft/calculator](https://github.com/microsoft/calculator) topic:cpp,csharp,uwp,windows,windows-10,windows-11,xaml pushed_at:2024-08 star:29.5k fork:5.3k Windows Calculator: A simple yet powerful calculator that ships with Windows
 - [microsoft/calipers](https://github.com/microsoft/calipers) topic: pushed_at:2024-03 star:0.0k fork:0.0k Criticality-aware Framework for Modeling Computer Performance
 - [microsoft/CCF](https://github.com/microsoft/CCF) topic:confidentiality,cpp,distributed-ledger,framework,governance,integrity,javascript,typescript pushed_at:2024-08 star:0.8k fork:0.2k Confidential Consortium Framework
-- [microsoft/ccf-app-template](https://github.com/microsoft/ccf-app-template) topic:confidential-computing,ledger,multiparty,trusted-execution-environment pushed_at:2024-07 star:0.0k fork:0.0k Template repository for CCF apps
+- [microsoft/ccf-app-template](https://github.com/microsoft/ccf-app-template) topic:confidential-computing,ledger,multiparty,trusted-execution-environment pushed_at:2024-08 star:0.0k fork:0.0k Template repository for CCF apps
 - [microsoft/ccfdns](https://github.com/microsoft/ccfdns) topic: pushed_at:2023-07 star:0.0k fork:0.0k A CCF-based, attested DNS server
 - [microsoft/ChakraCore-Debugger](https://github.com/microsoft/ChakraCore-Debugger) topic: pushed_at:2023-06 star:0.0k fork:0.0k Debugging companion library for the ChakraCore JavaScript engine
 - [microsoft/clang](https://github.com/microsoft/clang) topic: pushed_at:2023-06 star:0.2k fork:0.1k 
@@ -1424,7 +1419,7 @@
 - [microsoft/cpp-build-insights-samples](https://github.com/microsoft/cpp-build-insights-samples) topic: pushed_at:2024-03 star:0.0k fork:0.0k Code samples for the C++ Build Insights SDK
 - [microsoft/cpp-systematic-testing](https://github.com/microsoft/cpp-systematic-testing) topic:concurrency,cpp,nondeterminism,software-reliability,systematic-testing,testing pushed_at:2022-09 star:0.0k fork:0.0k A library for testing concurrent C++ code and deterministically reproducing bugs.
 - [microsoft/cppgraphqlgen](https://github.com/microsoft/cppgraphqlgen) topic:graphql,graphql-tools pushed_at:2024-08 star:0.3k fork:0.0k C++ GraphQL schema service generator
-- [microsoft/cpprestsdk](https://github.com/microsoft/cpprestsdk) topic:async,asynchronous-tasks,cloud,cpp,cpp-library,cpp11,http,oauth,oauth2,sdk,tasks,websockets pushed_at:2024-08 star:7.9k fork:1.6k The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
+- [microsoft/cpprestsdk](https://github.com/microsoft/cpprestsdk) topic:async,asynchronous-tasks,cloud,cpp,cpp-library,cpp11,http,oauth,oauth2,sdk,tasks,websockets pushed_at:2024-08 star:8.0k fork:1.6k The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
 - [microsoft/cppwin32](https://github.com/microsoft/cppwin32) topic: pushed_at:2021-01 star:0.4k fork:0.0k A modern C++ projection for the Win32 SDK
 - [microsoft/cppwinrt](https://github.com/microsoft/cppwinrt) topic: pushed_at:2024-07 star:1.6k fork:0.2k C++/WinRT
 - [microsoft/ctsTraffic](https://github.com/microsoft/ctsTraffic) topic:ctstraffic,network-analysis,networking,overlapped-io,performance,performance-analysis,performance-testing,rio,sockets,tcp,tcp-client,tcp-server,udp,winsock,winsock2 pushed_at:2024-05 star:0.2k fork:0.0k ctsTraffic is a highly scalable client/server networking tool giving detailed performance and reliability analytics
@@ -1439,10 +1434,11 @@
 - [microsoft/Detours](https://github.com/microsoft/Detours) topic:hacktoberfest,microsoft pushed_at:2024-08 star:5.1k fork:1.0k Detours is a software package for monitoring and instrumenting API calls on Windows.  It is distributed in source code form.
 - [microsoft/DevDay2020KeynoteDemoWin32](https://github.com/microsoft/DevDay2020KeynoteDemoWin32) topic: pushed_at:2020-04 star:0.0k fork:0.0k DevDay2020KeynoteDemoWin32
 - [microsoft/didx509cpp](https://github.com/microsoft/didx509cpp) topic: pushed_at:2024-08 star:0.0k fork:0.0k A C++, header-only DID:x509 resolver
+- [microsoft/DirectML](https://github.com/microsoft/DirectML) topic: pushed_at:2024-08 star:2.2k fork:0.3k DirectML is a high-performance, hardware-accelerated DirectX 12 library for machine learning. DirectML provides GPU acceleration for common machine learning tasks across a broad range of supported hardware and drivers, including all DirectX 12-capable GPUs from vendors such as AMD, Intel, NVIDIA, and Qualcomm.
 - [microsoft/DirectStorage](https://github.com/microsoft/DirectStorage) topic:direct3d12,directx,microsoft,storage pushed_at:2024-07 star:0.7k fork:0.1k DirectStorage for Windows is an API that allows game developers to unlock the full potential of high speed NVMe drives for loading game assets.
 - [microsoft/DirectX-Graphics-Samples](https://github.com/microsoft/DirectX-Graphics-Samples) topic: pushed_at:2024-08 star:6.0k fork:2.0k This repo contains the DirectX Graphics samples that demonstrate how to build graphics intensive applications on Windows.
 - [microsoft/DirectXMath](https://github.com/microsoft/DirectXMath) topic:avx,avx2,clang,cpp-library,desktop,directx,directxmath,microsoft,msvc,neon,simd,sse,uwp,xbox pushed_at:2024-08 star:1.5k fork:0.2k DirectXMath is an all inline SIMD C++ linear algebra library for use in games and graphics apps
-- [microsoft/DirectXMesh](https://github.com/microsoft/DirectXMesh) topic:cpp-library,desktop,directx,directx-11,directx-12,directxmesh,geometry-processing,microsoft,uwp,xbox pushed_at:2024-08 star:0.8k fork:0.2k DirectXMesh geometry processing library
+- [microsoft/DirectXMesh](https://github.com/microsoft/DirectXMesh) topic:cpp-library,desktop,directx,directx-11,directx-12,directxmesh,geometry-processing,microsoft,uwp,xbox pushed_at:2024-08 star:0.8k fork:0.1k DirectXMesh geometry processing library
 - [microsoft/DirectXShaderCompiler](https://github.com/microsoft/DirectXShaderCompiler) topic:directx-shader-compiler,dxil,hlsl,shader-programs pushed_at:2024-08 star:3.0k fork:0.7k This repo hosts the source for the DirectX Shader Compiler which is based on LLVM/Clang.
 - [microsoft/DirectXTex](https://github.com/microsoft/DirectXTex) topic:cpp,cpp-library,dds,direct3d,direct3d-texture-resources,directx,directx-11,directx-12,directxtex,microsoft,textures,wic-codec,xbox pushed_at:2024-08 star:1.8k fork:0.4k DirectXTex texture processing library
 - [microsoft/DirectXTK](https://github.com/microsoft/DirectXTK) topic:cpp-library,desktop,directx,directx-11,directxtk,graphics,microsoft,uwp,xbox pushed_at:2024-08 star:2.5k fork:0.5k The DirectX Tool Kit (aka DirectXTK) is a collection of helper classes for writing DirectX 11.x code in C++
@@ -1524,7 +1520,7 @@
 - [microsoft/Incast](https://github.com/microsoft/Incast) topic: pushed_at:2019-11 star:0.0k fork:0.0k A benchmark that simulates the 'incast' network traffic pattern.
 - [microsoft/INMT-lite](https://github.com/microsoft/INMT-lite) topic: pushed_at:2023-10 star:0.0k fork:0.0k Interactive Neural Machine Translation-lite (INMT-lite) is a framework to train and develop lite versions (.tflite) of models for neural machine translation (NMT) that can be run on embedded devices like mobile phones and tablets that have low computation power and space. The tflite models generated can be used to build the offline version of INMT mobile, a mobile version of INMT web.
 - [microsoft/inspector-topo](https://github.com/microsoft/inspector-topo) topic: pushed_at:2021-10 star:0.0k fork:0.0k An interconnect topology detection tool for Azure VMs
-- [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) topic:cpp,hacktoberfest,iot,iot-device,iot-edge,microcontroller,python,raspberry-pi,rpi pushed_at:2024-05 star:15.1k fork:2.4k 12 Weeks, 24 Lessons, IoT for All!
+- [microsoft/IoT-For-Beginners](https://github.com/microsoft/IoT-For-Beginners) topic:cpp,hacktoberfest,iot,iot-device,iot-edge,microcontroller,python,raspberry-pi,rpi pushed_at:2024-08 star:15.1k fork:2.4k 12 Weeks, 24 Lessons, IoT for All!
 - [microsoft/IPC](https://github.com/microsoft/IPC) topic:bond,cpp,csharp,dot-net,interprocess-communication,ipc,managed,native,shared-memory pushed_at:2022-08 star:0.5k fork:0.1k IPC is a C++ library that provides inter-process communication using shared memory on Windows. A .NET wrapper is available which allows interaction with C++ as well.
 - [microsoft/IPC.Bond](https://github.com/microsoft/IPC.Bond) topic:bond,cpp,csharp,dotnet,interprocess-communication,ipc,managed,native,shared-memory pushed_at:2022-08 star:0.0k fork:0.0k IPC.Bond is an extension of IPC library that provides inter-process communication using shared memory on Windows with Bond serialization.
 - [microsoft/ISLE](https://github.com/microsoft/ISLE) topic:linear-algebra,randomized-algorithm,sampling-methods,spectral-clustering,svd,topic-modeling,unsupervised-learning pushed_at:2020-12 star:0.0k fork:0.0k This repository provides code for SVD and Importance sampling-based algorithms for large scale topic modeling.
@@ -1560,7 +1556,7 @@
 - [microsoft/Microsoft-OpenXR-Unreal](https://github.com/microsoft/Microsoft-OpenXR-Unreal) topic:mixed-reality,openxr,unreal pushed_at:2023-01 star:0.2k fork:0.1k An Unreal Engine game plugin providing additional features available on Microsoft's Mixed Reality devices like the HoloLens 2 when using OpenXR.
 - [microsoft/microsoft-pdb](https://github.com/microsoft/microsoft-pdb) topic: pushed_at:2023-04 star:1.8k fork:0.3k Information from Microsoft about the PDB format.  We'll try to keep this up to date. Just trying to help the CLANG/LLVM community get onto Windows.
 - [microsoft/Microsoft-UI-UIAutomation](https://github.com/microsoft/Microsoft-UI-UIAutomation) topic: pushed_at:2022-06 star:0.1k fork:0.0k Utility library for consuming Windows UIAutomation platform APIs
-- [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) topic:cpp,csharp,desktop,fluent-design,uwp,windows,windows-10,winui,xaml pushed_at:2024-08 star:6.2k fork:0.7k Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
+- [microsoft/microsoft-ui-xaml](https://github.com/microsoft/microsoft-ui-xaml) topic:cpp,csharp,desktop,fluent-design,uwp,windows,windows-10,winui,xaml pushed_at:2024-08 star:6.3k fork:0.7k Windows UI Library: the latest Windows 10 native controls and Fluent styles for your applications
 - [microsoft/MicrosoftDisplayCaptureTools](https://github.com/microsoft/MicrosoftDisplayCaptureTools) topic: pushed_at:2024-03 star:0.0k fork:0.0k A suite of tools to validate graphics output via HDMI or DisplayPort
 - [microsoft/MIDI](https://github.com/microsoft/MIDI) topic: pushed_at:2024-08 star:0.3k fork:0.0k Windows MIDI Services
 - [microsoft/MixedReality-GraphicsTools-Unreal](https://github.com/microsoft/MixedReality-GraphicsTools-Unreal) topic:augmented-reality,mixed-reality,mixedrealitytoolkit,mrtk,unreal,virtual-reality,vr pushed_at:2022-11 star:0.1k fork:0.0k Graphics tools and components for developing Mixed Reality applications in Unreal Engine.
@@ -1573,7 +1569,7 @@
 - [microsoft/MixedRealityToolkit](https://github.com/microsoft/MixedRealityToolkit) topic:hololens,holotoolkit,mixed-reality,mixedrealitytoolkit pushed_at:2024-08 star:0.9k fork:0.3k The MixedRealityToolkit is a collection of scripts and components intended to accelerate the development of mixed reality applications targeting Windows Mixed Reality.
 - [microsoft/monza](https://github.com/microsoft/monza) topic: pushed_at:2022-12 star:0.0k fork:0.0k Research unikernel for virtualized services
 - [microsoft/msccl](https://github.com/microsoft/msccl) topic: pushed_at:2023-09 star:0.3k fork:0.0k Microsoft Collective Communication Library
-- [microsoft/mscclpp](https://github.com/microsoft/mscclpp) topic: pushed_at:2024-08 star:0.2k fork:0.0k MSCCL++: A GPU-driven communication stack for scalable AI applications
+- [microsoft/mscclpp](https://github.com/microsoft/mscclpp) topic: pushed_at:2024-09 star:0.2k fork:0.0k MSCCL++: A GPU-driven communication stack for scalable AI applications
 - [microsoft/MSIX-PackageSupportFramework](https://github.com/microsoft/MSIX-PackageSupportFramework) topic: pushed_at:2024-06 star:0.1k fork:0.1k The Package Support Framework (PSF) is a kit for applying compatibility fixes to packaged desktop applications.
 - [microsoft/mso](https://github.com/microsoft/mso) topic: pushed_at:2023-07 star:0.1k fork:0.0k Microsoft Open C++ Library
 - [microsoft/msr-cloak](https://github.com/microsoft/msr-cloak) topic: pushed_at:2022-09 star:0.0k fork:0.0k Code for experiments referenced in the Usenix Security 2017 paper "Strong and Efficient Cache Side-Channel Protection using Hardware Transactional Memory"
@@ -1591,7 +1587,7 @@
 - [microsoft/Network-Adapter-Class-Extension](https://github.com/microsoft/Network-Adapter-Class-Extension) topic: pushed_at:2023-06 star:0.1k fork:0.0k Network Adapter Class Extension to WDF (NetAdapter Cx) makes it easy to write high quality and high speed drivers for Network Interface Controllers
 - [microsoft/NetworkDirect](https://github.com/microsoft/NetworkDirect) topic: pushed_at:2024-07 star:0.1k fork:0.0k NetworkDirect Service Provider Interface
 - [microsoft/nnfusion](https://github.com/microsoft/nnfusion) topic: pushed_at:2024-08 star:0.9k fork:0.2k A flexible and efficient deep neural network (DNN) compiler that generates high-performance executable from a DNN model description. 
-- [microsoft/node-api-jsi](https://github.com/microsoft/node-api-jsi) topic: pushed_at:2024-07 star:0.0k fork:0.0k Implementation of JSI for Node-API
+- [microsoft/node-api-jsi](https://github.com/microsoft/node-api-jsi) topic: pushed_at:2024-08 star:0.0k fork:0.0k Implementation of JSI for Node-API
 - [microsoft/node-native-keymap](https://github.com/microsoft/node-native-keymap) topic: pushed_at:2024-04 star:0.1k fork:0.0k Provide OS keyboard layout functionality as a nodejs module
 - [microsoft/node-speech](https://github.com/microsoft/node-speech) topic: pushed_at:2024-08 star:0.0k fork:0.0k node.js bindings for Azure Speech SDK
 - [microsoft/node-uwp](https://github.com/microsoft/node-uwp) topic: pushed_at:2023-06 star:0.2k fork:0.0k Enables Universal Windows Platform (UWP) API access for Node.js (Chakra build) on Windows 10.
@@ -1601,14 +1597,14 @@
 - [microsoft/O-CNN](https://github.com/microsoft/O-CNN) topic:convolutional-neural-networks,o-cnn,octree pushed_at:2022-08 star:0.7k fork:0.2k O-CNN: Octree-based Convolutional Neural Networks for 3D Shape Analysis
 - [microsoft/omi-script-provider](https://github.com/microsoft/omi-script-provider) topic: pushed_at:2023-08 star:0.0k fork:0.0k Script Provider for the OMI Project
 - [microsoft/OMS-Auditd-Plugin](https://github.com/microsoft/OMS-Auditd-Plugin) topic: pushed_at:2024-08 star:0.0k fork:0.0k Auditd plugin that forwards audit events to OMS Agent for Linux
-- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) topic:ai-framework,deep-learning,hardware-acceleration,machine-learning,neural-networks,onnx,pytorch,scikit-learn,tensorflow pushed_at:2024-08 star:13.9k fork:2.8k ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
+- [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime) topic:ai-framework,deep-learning,hardware-acceleration,machine-learning,neural-networks,onnx,pytorch,scikit-learn,tensorflow pushed_at:2024-09 star:14.0k fork:2.8k ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [microsoft/onnxruntime-extensions](https://github.com/microsoft/onnxruntime-extensions) topic: pushed_at:2024-08 star:0.3k fork:0.1k onnxruntime-extensions: A specialized pre- and post- processing library for ONNX Runtime
-- [microsoft/onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai) topic: pushed_at:2024-08 star:0.4k fork:0.1k Generative AI extensions for onnxruntime
+- [microsoft/onnxruntime-genai](https://github.com/microsoft/onnxruntime-genai) topic: pushed_at:2024-09 star:0.4k fork:0.1k Generative AI extensions for onnxruntime
 - [microsoft/onnxruntime-gh-pages](https://github.com/microsoft/onnxruntime-gh-pages) topic: pushed_at:2023-06 star:0.0k fork:0.0k ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator
 - [microsoft/onnxruntime-inference-examples](https://github.com/microsoft/onnxruntime-inference-examples) topic: pushed_at:2024-08 star:1.1k fork:0.3k Examples for using ONNX Runtime for machine learning inferencing.
 - [microsoft/onnxruntime-openenclave](https://github.com/microsoft/onnxruntime-openenclave) topic: pushed_at:2022-12 star:0.0k fork:0.0k Open Enclave port of the ONNX runtime for confidential inferencing on Azure Confidential Computing
 - [microsoft/OnnxRuntime-UnrealEngine](https://github.com/microsoft/OnnxRuntime-UnrealEngine) topic: pushed_at:2023-06 star:0.2k fork:0.0k Apply a Style Transfer Neural Network in real time with Unreal Engine 5 leveraging ONNX Runtime.
-- [microsoft/OpenCLOn12](https://github.com/microsoft/OpenCLOn12) topic: pushed_at:2024-05 star:0.1k fork:0.0k The OpenCL-on-D3D12 mapping layer
+- [microsoft/OpenCLOn12](https://github.com/microsoft/OpenCLOn12) topic: pushed_at:2024-08 star:0.1k fork:0.0k The OpenCL-on-D3D12 mapping layer
 - [microsoft/opencv](https://github.com/microsoft/opencv) topic: pushed_at:2020-11 star:0.1k fork:0.1k Open Source Computer Vision Library
 - [microsoft/opencv_contrib](https://github.com/microsoft/opencv_contrib) topic: pushed_at:2023-06 star:0.0k fork:0.0k Repository for OpenCV's extra modules
 - [microsoft/openenclave-extra-samples](https://github.com/microsoft/openenclave-extra-samples) topic: pushed_at:2021-01 star:0.0k fork:0.0k Sandbox repo for extra or experimental samples.
@@ -1617,7 +1613,7 @@
 - [microsoft/Outlook2007CodeSamples](https://github.com/microsoft/Outlook2007CodeSamples) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/Outlook2010CodeSamples](https://github.com/microsoft/Outlook2010CodeSamples) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/oZKS](https://github.com/microsoft/oZKS) topic: pushed_at:2024-04 star:0.0k fork:0.0k oZKS (Ordered Zero-Knowledge Set) is a library that provides an implementation of an Ordered (and Append Only) Zero-Knowledge Set.
-- [microsoft/p4vfs](https://github.com/microsoft/p4vfs) topic: pushed_at:2024-07 star:0.3k fork:0.0k Microsoft Virtual File System for Perforce
+- [microsoft/p4vfs](https://github.com/microsoft/p4vfs) topic: pushed_at:2024-08 star:0.3k fork:0.0k Microsoft Virtual File System for Perforce
 - [microsoft/pal](https://github.com/microsoft/pal) topic: pushed_at:2024-04 star:0.1k fork:0.0k Platform Abstraction Layer (both SCXCoreLib and SCXSystemLib)
 - [microsoft/Partner-app-development](https://github.com/microsoft/Partner-app-development) topic: pushed_at:2023-06 star:0.0k fork:0.0k Samples for partner application development (OEM, MO, IHV) for Window
 - [microsoft/pict](https://github.com/microsoft/pict) topic:combinatorial-testing,pairwise-testing,testing,testing-tools pushed_at:2024-07 star:1.2k fork:0.3k Pairwise Independent Combinatorial Tool
@@ -1627,7 +1623,7 @@
 - [microsoft/pmwcas](https://github.com/microsoft/pmwcas) topic: pushed_at:2023-04 star:0.1k fork:0.0k pmwcas
 - [microsoft/print-oem-samples](https://github.com/microsoft/print-oem-samples) topic: pushed_at:2023-06 star:0.0k fork:0.0k Shows OEM print partners how to use the Print Workflow feature and migrate their existing Windows Store Device Apps (WSDAs) code to the Universal Windows Platform. 
 - [microsoft/ProjFS-Managed-API](https://github.com/microsoft/ProjFS-Managed-API) topic: pushed_at:2022-08 star:0.1k fork:0.0k A managed-code API for the Windows Projected File System
-- [microsoft/proxy](https://github.com/microsoft/proxy) topic:cpp,cpp20,cross-platform,duck-typing,header-only,library,polymorphism,single-header pushed_at:2024-08 star:1.5k fork:0.1k Proxy: Next Generation Polymorphism in C++
+- [microsoft/proxy](https://github.com/microsoft/proxy) topic:cpp,cpp20,cross-platform,duck-typing,header-only,library,polymorphism,single-header pushed_at:2024-08 star:1.6k fork:0.1k Proxy: Next Generation Polymorphism in C++
 - [microsoft/proxy_wifi](https://github.com/microsoft/proxy_wifi) topic: pushed_at:2022-11 star:0.0k fork:0.0k Windows host component to virtualize Wi-Fi in Linux VMs
 - [microsoft/pSDCA](https://github.com/microsoft/pSDCA) topic: pushed_at:2020-09 star:0.0k fork:0.0k primal SDCA: a variant of SDCA with primal gradient update (conjugate-free)
 - [microsoft/pxt-bluedot](https://github.com/microsoft/pxt-bluedot) topic: pushed_at:2023-06 star:0.0k fork:0.0k A PXT package to support the BlueDot app - beta
@@ -1639,16 +1635,16 @@
 - [microsoft/pxt-tensorflow](https://github.com/microsoft/pxt-tensorflow) topic: pushed_at:2020-11 star:0.0k fork:0.0k Run Tensorflow for Microcontrollers models
 - [microsoft/Pyjion](https://github.com/microsoft/Pyjion) topic: pushed_at:2020-11 star:1.6k fork:0.1k Pyjion - A JIT for Python based upon CoreCLR
 - [microsoft/python-inference-script](https://github.com/microsoft/python-inference-script) topic: pushed_at:2022-08 star:0.0k fork:0.0k Python Inference Script(PyIS)
-- [microsoft/quicreach](https://github.com/microsoft/quicreach) topic:cross-platform,networking,ping,quic,tool pushed_at:2024-08 star:0.1k fork:0.0k A 'ping' equivalent tool for QUIC.
+- [microsoft/quicreach](https://github.com/microsoft/quicreach) topic:cross-platform,networking,ping,quic,tool pushed_at:2024-09 star:0.1k fork:0.0k A 'ping' equivalent tool for QUIC.
 - [microsoft/R-Host](https://github.com/microsoft/R-Host) topic: pushed_at:2022-09 star:0.0k fork:0.0k A host process for R that provides access and extensibility to it remotely over WebSocket and JSON.
 - [microsoft/Range-V3-VS2015](https://github.com/microsoft/Range-V3-VS2015) topic: pushed_at:2022-10 star:0.1k fork:0.0k A fork of the popular range-v3 C++ library with support for the Visual Studio 2015 Update 3 VC++ compiler.
 - [microsoft/ravl](https://github.com/microsoft/ravl) topic: pushed_at:2024-03 star:0.0k fork:0.0k Remote Attestation Verification Library
-- [microsoft/RdpGamepad](https://github.com/microsoft/RdpGamepad) topic: pushed_at:2022-08 star:0.4k fork:0.0k Remote Desktop Plugin for Xbox Gamepads
+- [microsoft/RdpGamepad](https://github.com/microsoft/RdpGamepad) topic: pushed_at:2022-08 star:0.4k fork:0.1k Remote Desktop Plugin for Xbox Gamepads
 - [microsoft/rDSN](https://github.com/microsoft/rDSN) topic: pushed_at:2024-05 star:1.0k fork:0.2k Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems.
 - [microsoft/react-native-macos](https://github.com/microsoft/react-native-macos) topic: pushed_at:2024-08 star:3.4k fork:0.1k A framework for building native macOS apps with React.
 - [microsoft/react-native-windows](https://github.com/microsoft/react-native-windows) topic:dotnet,react,react-native,uwp,xbox pushed_at:2024-08 star:16.2k fork:1.1k A framework for building native Windows apps with React.
 - [microsoft/react-native-winrt](https://github.com/microsoft/react-native-winrt) topic:javascript,react-native,react-native-windows,windows,winrt pushed_at:2023-11 star:0.1k fork:0.0k Windows Runtime projection for React Native for Windows
-- [microsoft/react-native-xaml](https://github.com/microsoft/react-native-xaml) topic:codegen,cppwinrt,metadata,react-native,react-native-windows,uwp,uwp-app,windows,windows-sdk,winrt,winui,winui3,xaml,xaml-ui pushed_at:2024-07 star:0.1k fork:0.0k A React Native Windows library to use XAML / WinUI controls
+- [microsoft/react-native-xaml](https://github.com/microsoft/react-native-xaml) topic:codegen,cppwinrt,metadata,react-native,react-native-windows,uwp,uwp-app,windows,windows-sdk,winrt,winui,winui3,xaml,xaml-ui pushed_at:2024-08 star:0.1k fork:0.0k A React Native Windows library to use XAML / WinUI controls
 - [microsoft/rego-cpp](https://github.com/microsoft/rego-cpp) topic: pushed_at:2024-08 star:0.0k fork:0.0k A C++ interpreter for the OPA policy language Rego
 - [microsoft/ringmaster](https://github.com/microsoft/ringmaster) topic: pushed_at:2023-06 star:0.1k fork:0.0k Videoconferencing research platform
 - [microsoft/Ros-Simulation](https://github.com/microsoft/Ros-Simulation) topic: pushed_at:2023-06 star:0.0k fork:0.0k Tools to run ROS Simulation at scale in Azure
@@ -1665,21 +1661,21 @@
 - [microsoft/service-fabric](https://github.com/microsoft/service-fabric) topic:cloud-computing,cloud-native,containers,distributed-systems,microservices,orchestration pushed_at:2024-07 star:3.0k fork:0.4k Service Fabric is a distributed systems platform for packaging, deploying, and managing stateless and stateful distributed applications and containers at large scale.
 - [microsoft/settingchange](https://github.com/microsoft/settingchange) topic: pushed_at:2023-06 star:0.0k fork:0.0k Broadcast a WM_SETTINGCHANGE message
 - [microsoft/sfs-client](https://github.com/microsoft/sfs-client) topic: pushed_at:2024-08 star:0.0k fork:0.0k Simple File Solution (SFS) Client
-- [microsoft/ShaderConductor](https://github.com/microsoft/ShaderConductor) topic:compiler,d3d10,d3d11,d3d12,d3d9,dxil,glsl,graphics,hlsl,metal,opengl,opengl-es,shader,spir-v,vulkan pushed_at:2023-01 star:1.8k fork:0.2k ShaderConductor is a tool designed for cross-compiling HLSL to other shading languages
+- [microsoft/ShaderConductor](https://github.com/microsoft/ShaderConductor) topic:compiler,d3d10,d3d11,d3d12,d3d9,dxil,glsl,graphics,hlsl,metal,opengl,opengl-es,shader,spir-v,vulkan pushed_at:2023-01 star:1.8k fork:0.3k ShaderConductor is a tool designed for cross-compiling HLSL to other shading languages
 - [microsoft/simpledb](https://github.com/microsoft/simpledb) topic: pushed_at:2023-11 star:0.0k fork:0.0k To gain access, please finish setting up this repository now at:  https://repos.opensource.microsoft.com/microsoft/wizard?existingreponame=simpledb&existingrepoid=714104780
-- [microsoft/snmalloc](https://github.com/microsoft/snmalloc) topic:allocator,malloc,memory-allocator pushed_at:2024-06 star:1.5k fork:0.1k Message passing based allocator
+- [microsoft/snmalloc](https://github.com/microsoft/snmalloc) topic:allocator,malloc,memory-allocator pushed_at:2024-08 star:1.5k fork:0.1k Message passing based allocator
 - [microsoft/spatialaudio-unity](https://github.com/microsoft/spatialaudio-unity) topic:3daudio,acoustics,audio,hololens,nuget,spatial-audio,unity pushed_at:2024-01 star:0.1k fork:0.0k This repository provides plugins, tools and samples for integrating spatial audio and acoustics into your Unity 3D applications and games.
 - [microsoft/spoor](https://github.com/microsoft/spoor) topic: pushed_at:2024-05 star:0.1k fork:0.0k Compiler-instrumented app tracing.
 - [microsoft/SPTAG](https://github.com/microsoft/SPTAG) topic:approximate-nearest-neighbor-search,distributed-serving,fresh-update,neighborhood-graph,space-partition-tree,vector-search pushed_at:2024-08 star:4.8k fork:0.6k A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.
 - [microsoft/sql-server-language-extensions](https://github.com/microsoft/sql-server-language-extensions) topic:csharp,dotnet-core,java,python,r,sql pushed_at:2024-08 star:0.1k fork:0.0k language-extensions-sqlserver
 - [microsoft/STL](https://github.com/microsoft/STL) topic: pushed_at:2024-08 star:10.0k fork:1.5k MSVC's implementation of the C++ Standard Library.
 - [microsoft/StorScore](https://github.com/microsoft/StorScore) topic: pushed_at:2023-06 star:0.1k fork:0.0k A test framework to evaluate SSDs and HDDs
-- [microsoft/T-MAC](https://github.com/microsoft/T-MAC) topic: pushed_at:2024-08 star:0.3k fork:0.0k Low-bit LLM inference on CPU with lookup table
+- [microsoft/T-MAC](https://github.com/microsoft/T-MAC) topic: pushed_at:2024-08 star:0.4k fork:0.0k Low-bit LLM inference on CPU with lookup table
 - [microsoft/Teams-AdaptiveCards-Mobile](https://github.com/microsoft/Teams-AdaptiveCards-Mobile) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/TeamsMuteButton](https://github.com/microsoft/TeamsMuteButton) topic: pushed_at:2020-12 star:0.1k fork:0.0k External mute button for Microsoft Teams using the Adafruit Circuit Playground Express
 - [microsoft/tensorflow-directml](https://github.com/microsoft/tensorflow-directml) topic: pushed_at:2022-12 star:0.5k fork:0.0k Fork of TensorFlow accelerated by DirectML
 - [microsoft/tensorflow-directml-plugin](https://github.com/microsoft/tensorflow-directml-plugin) topic: pushed_at:2024-05 star:0.2k fork:0.0k DirectML PluggableDevice plugin for TensorFlow 2
-- [microsoft/terminal](https://github.com/microsoft/terminal) topic:cmd,command-line,console,contributions-welcome,good-first-issue,hacktoberfest,terminal,windows,windows-console,windows-terminal,wsl pushed_at:2024-08 star:94.6k fork:8.2k The new Windows Terminal and the original Windows console host, all in the same place!
+- [microsoft/terminal](https://github.com/microsoft/terminal) topic:cmd,command-line,console,contributions-welcome,good-first-issue,hacktoberfest,terminal,windows,windows-console,windows-terminal,wsl pushed_at:2024-08 star:94.8k fork:8.2k The new Windows Terminal and the original Windows console host, all in the same place!
 - [microsoft/TestWinRT](https://github.com/microsoft/TestWinRT) topic: pushed_at:2024-03 star:0.0k fork:0.0k WinRT test component
 - [microsoft/torchy](https://github.com/microsoft/torchy) topic: pushed_at:2022-08 star:0.0k fork:0.0k A tracing JIT for PyTorch
 - [microsoft/Trieste](https://github.com/microsoft/Trieste) topic: pushed_at:2024-08 star:0.0k fork:0.0k A term rewriting system for experimental programming language development.
@@ -1691,14 +1687,14 @@
 - [microsoft/usersim](https://github.com/microsoft/usersim) topic: pushed_at:2024-08 star:0.1k fork:0.0k 
 - [microsoft/UVAtlas](https://github.com/microsoft/UVAtlas) topic:cpp-library,directx,directxmesh,directxtex,microsoft,texture-atlas,uvatlas pushed_at:2024-08 star:0.8k fork:0.1k UVAtlas isochart texture atlas
 - [microsoft/v8-jsi](https://github.com/microsoft/v8-jsi) topic: pushed_at:2024-08 star:0.2k fork:0.0k React Native V8 JSI adapter
-- [microsoft/vc-ue-extensions](https://github.com/microsoft/vc-ue-extensions) topic: pushed_at:2024-07 star:0.3k fork:0.1k Components for integration between Visual Studio and Unreal Engine.
+- [microsoft/vc-ue-extensions](https://github.com/microsoft/vc-ue-extensions) topic: pushed_at:2024-08 star:0.3k fork:0.1k Components for integration between Visual Studio and Unreal Engine.
 - [microsoft/vcperf](https://github.com/microsoft/vcperf) topic: pushed_at:2024-08 star:0.3k fork:0.0k A build analysis tool for the MSVC toolchain.
 - [microsoft/vcpkg-tool](https://github.com/microsoft/vcpkg-tool) topic: pushed_at:2024-08 star:0.4k fork:0.3k Components of microsoft/vcpkg's binary.
 - [microsoft/vcrt-forwarders](https://github.com/microsoft/vcrt-forwarders) topic: pushed_at:2023-11 star:0.0k fork:0.0k App-local DLLs that forward to Visual C++ runtime components
 - [microsoft/VCSamples](https://github.com/microsoft/VCSamples) topic: pushed_at:2020-12 star:0.6k fork:0.9k Samples for VC++
 - [microsoft/verona](https://github.com/microsoft/verona) topic: pushed_at:2024-04 star:3.6k fork:0.2k Research programming language for concurrent ownership
 - [microsoft/verona-artifacts](https://github.com/microsoft/verona-artifacts) topic: pushed_at:2023-09 star:0.0k fork:0.0k Artifacts associated with publications from the Verona project.
-- [microsoft/verona-rt](https://github.com/microsoft/verona-rt) topic: pushed_at:2024-07 star:0.0k fork:0.0k The runtime for the Verona project
+- [microsoft/verona-rt](https://github.com/microsoft/verona-rt) topic: pushed_at:2024-08 star:0.0k fork:0.0k The runtime for the Verona project
 - [microsoft/verona-sandbox](https://github.com/microsoft/verona-sandbox) topic: pushed_at:2023-09 star:0.0k fork:0.0k Library sandboxing for the Verona research language and usable in other contexts.
 - [microsoft/VisualTrueType](https://github.com/microsoft/VisualTrueType) topic: pushed_at:2024-03 star:0.0k fork:0.0k Microsoft Visual TrueType(VTT) command line compile tool and Python interface. 
 - [microsoft/vs-setup-samples](https://github.com/microsoft/vs-setup-samples) topic:setup,visual-studio pushed_at:2023-06 star:0.1k fork:0.0k This is a sample in various programming languages that demonstrates how developers can use the new Visual Studio setup query API.
@@ -1707,12 +1703,12 @@
 - [microsoft/vscode-win32-app-container-tokens](https://github.com/microsoft/vscode-win32-app-container-tokens) topic: pushed_at:2024-02 star:0.0k fork:0.0k Native win32 Node.js addon to retrieve named pipes from app contains
 - [microsoft/vscode-windows-ca-certs](https://github.com/microsoft/vscode-windows-ca-certs) topic: pushed_at:2024-03 star:0.0k fork:0.0k Get Windows System Root certificates
 - [microsoft/vscode-windows-registry](https://github.com/microsoft/vscode-windows-registry) topic: pushed_at:2024-06 star:0.0k fork:0.0k Native node module to access the Windows Registry
-- [microsoft/vsixbootstrapper](https://github.com/microsoft/vsixbootstrapper) topic:deployment,installer,visual-studio,vsix,vsix-extensions pushed_at:2024-06 star:0.0k fork:0.0k An installer that can be chained with other packages to locate the latest VSIXInstaller.exe to use for installing VSIX extensions.
-- [microsoft/vswhere](https://github.com/microsoft/vswhere) topic:visual-studio pushed_at:2024-06 star:0.9k fork:0.1k Locate Visual Studio 2017 and newer installations
+- [microsoft/vsixbootstrapper](https://github.com/microsoft/vsixbootstrapper) topic:deployment,installer,visual-studio,vsix,vsix-extensions pushed_at:2024-08 star:0.0k fork:0.0k An installer that can be chained with other packages to locate the latest VSIXInstaller.exe to use for installing VSIX extensions.
+- [microsoft/vswhere](https://github.com/microsoft/vswhere) topic:visual-studio pushed_at:2024-08 star:0.9k fork:0.1k Locate Visual Studio 2017 and newer installations
 - [microsoft/wdkmetadata](https://github.com/microsoft/wdkmetadata) topic: pushed_at:2024-08 star:0.1k fork:0.0k Tooling to generate metadata for Win32 APIs in the Windows Driver Kit (WDK).
 - [microsoft/weak-isolation-mock-db](https://github.com/microsoft/weak-isolation-mock-db) topic: pushed_at:2021-02 star:0.0k fork:0.0k In-memory key-value store for testing applications against weak behaviors of a database.
 - [microsoft/wifi-telemetry](https://github.com/microsoft/wifi-telemetry) topic:linux,logging,lttng,telemetry,ubuntu,wi-fi,wifi pushed_at:2021-06 star:0.0k fork:0.0k Linux Wi-Fi Telemetry library and daemon.
-- [microsoft/wil](https://github.com/microsoft/wil) topic: pushed_at:2024-08 star:2.5k fork:0.2k Windows Implementation Library
+- [microsoft/wil](https://github.com/microsoft/wil) topic: pushed_at:2024-08 star:2.6k fork:0.2k Windows Implementation Library
 - [microsoft/Win2D](https://github.com/microsoft/Win2D) topic: pushed_at:2024-08 star:1.8k fork:0.3k Win2D is an easy-to-use Windows Runtime API for immediate mode 2D graphics rendering with GPU acceleration. It is available to C#, C++ and VB developers writing apps for the Windows Universal Platform (UWP). It utilizes the power of Direct2D, and integrates seamlessly with XAML and CoreWindow.
 - [microsoft/win32metadata](https://github.com/microsoft/win32metadata) topic: pushed_at:2024-08 star:1.3k fork:0.1k Tooling to generate metadata for Win32 APIs in the Windows SDK.
 - [microsoft/WinDbg-Libraries](https://github.com/microsoft/WinDbg-Libraries) topic: pushed_at:2023-06 star:0.1k fork:0.0k Libraries for extending WinDbg and its underlying components.
@@ -1727,7 +1723,7 @@
 - [microsoft/Windows.UI.Composition-Win32-Samples](https://github.com/microsoft/Windows.UI.Composition-Win32-Samples) topic: pushed_at:2023-11 star:0.5k fork:0.2k Windows.UI.Composition Win32 Samples
 - [microsoft/WindowsAppSDK](https://github.com/microsoft/WindowsAppSDK) topic:cpp,csharp,desktop,project-reunion,win32,winappsdk,windows,windows-10,windows-11,windows-app-sdk,winui pushed_at:2024-08 star:3.8k fork:0.3k The Windows App SDK empowers all Windows desktop apps with modern Windows UI, APIs, and platform features, including back-compat support, shipped via NuGet.
 - [microsoft/WindowsAppSDK-Samples](https://github.com/microsoft/WindowsAppSDK-Samples) topic:cpp,csharp,samples,window-11,windows,windows-10,windowsappsdk,winui pushed_at:2024-08 star:0.7k fork:0.2k Feature samples for the Windows App SDK
-- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) topic:command-line,package-manager,windows,winget pushed_at:2024-08 star:22.8k fork:1.4k WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
+- [microsoft/winget-cli](https://github.com/microsoft/winget-cli) topic:command-line,package-manager,windows,winget pushed_at:2024-08 star:22.9k fork:1.4k WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).
 - [microsoft/WinHttpPAL](https://github.com/microsoft/WinHttpPAL) topic:cpp-library,libcurl,winhttp pushed_at:2022-07 star:0.1k fork:0.0k WinHttpPAL is a C++ library which implements WinHttp API for POSIX systems using libcurl
 - [microsoft/winmd](https://github.com/microsoft/winmd) topic: pushed_at:2024-06 star:0.1k fork:0.0k C++ winmd parser
 - [microsoft/winrtc](https://github.com/microsoft/winrtc) topic: pushed_at:2023-02 star:0.3k fork:0.1k The WinRTC project hosts everything needed to build apps with interoperable real time communications for modern Windows. It brings the power of WebRTC to modern Windows apps written in C#, C++ and VB. WinRTC enables real-time voice calling, video chat and data functionality (file transfer etc.) with web browsers via WebRTC.
@@ -1748,8 +1744,8 @@
 
 ## CMake
 
-- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) topic:c,cmake,cplusplus,cpp,libraries,package-manager,packages,vcpkg,visual-studio,windows pushed_at:2024-08 star:22.6k fork:6.2k C++ Library Manager for Windows, Linux, and MacOS
-- [microsoft/vcpkg-docs](https://github.com/microsoft/vcpkg-docs) topic: pushed_at:2024-08 star:0.0k fork:0.1k 
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) topic:c,cmake,cplusplus,cpp,libraries,package-manager,packages,vcpkg,visual-studio,windows pushed_at:2024-09 star:22.7k fork:6.3k C++ Library Manager for Windows, Linux, and MacOS
+- [microsoft/vcpkg-docs](https://github.com/microsoft/vcpkg-docs) topic: pushed_at:2024-08 star:0.1k fork:0.1k 
 
 ## CSS
 
@@ -1768,15 +1764,13 @@
 - [microsoft/dynamics-365-relationshipassistant-extensibility](https://github.com/microsoft/dynamics-365-relationshipassistant-extensibility) topic: pushed_at:2022-11 star:0.0k fork:0.0k Sample code for creating custom relationship assistant cards
 - [microsoft/gps-csa-devhack-azurecloudnative](https://github.com/microsoft/gps-csa-devhack-azurecloudnative) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
 - [microsoft/Guestivus](https://github.com/microsoft/Guestivus) topic: pushed_at:2023-05 star:0.0k fork:0.0k Guestivus: A Git client for the rest of us!
-- [microsoft/MCW-Cloud-native-applications](https://github.com/microsoft/MCW-Cloud-native-applications) topic:aks,azure,chef,ci-cd,cicd,containers,devops,docker,kubernetes,mcw,mean,mongodb pushed_at:2022-07 star:0.3k fork:0.5k MCW Cloud-native applications
-- [microsoft/MCW-Continuous-delivery-in-Azure-DevOps](https://github.com/microsoft/MCW-Continuous-delivery-in-Azure-DevOps) topic: pushed_at:2022-07 star:0.2k fork:0.3k MCW Continuous delivery in Azure DevOps
 - [microsoft/moodle-block_skypeweb](https://github.com/microsoft/moodle-block_skypeweb) topic: pushed_at:2023-06 star:0.0k fork:0.0k Skype block for Moodle
 - [microsoft/MTC_RoomCleaning](https://github.com/microsoft/MTC_RoomCleaning) topic: pushed_at:2024-06 star:0.0k fork:0.0k Automation that makes sure that a 30-minute is scheduled adjacent to every meeting in meeting rooms across an enterprise to ensure they are properly cleaned as part of a return-to-work initiative.
 - [microsoft/mvp](https://github.com/microsoft/mvp) topic: pushed_at:2018-10 star:0.1k fork:0.0k Microsoft MVP Program GitHub Repository
 - [microsoft/ngconf2015demo](https://github.com/microsoft/ngconf2015demo) topic: pushed_at:2016-05 star:0.4k fork:0.1k TodoMVC application demo for ng-conf 2015
 - [microsoft/PartnerResources](https://github.com/microsoft/PartnerResources) topic:learning-resources,microsoft-partner-resources,readiness,technical pushed_at:2024-08 star:0.2k fork:0.2k Resources created by Microsoft's GPS (Global Partner Solutions) team
 - [microsoft/polonius](https://github.com/microsoft/polonius) topic: pushed_at:2024-08 star:0.0k fork:0.0k Summarize information and classify severity of incoming Emergency Department patients.
-- [microsoft/powercat-creator-kit](https://github.com/microsoft/powercat-creator-kit) topic:pcf,powerapps pushed_at:2024-07 star:0.3k fork:0.1k This toolkit helps create well-designed Power App experiences on the web & mobile. It contains a component library; PCF controls and other utilities that increase developer productivity.
+- [microsoft/powercat-creator-kit](https://github.com/microsoft/powercat-creator-kit) topic:pcf,powerapps pushed_at:2024-08 star:0.3k fork:0.1k This toolkit helps create well-designed Power App experiences on the web & mobile. It contains a component library; PCF controls and other utilities that increase developer productivity.
 - [microsoft/project-html-website](https://github.com/microsoft/project-html-website) topic: pushed_at:2024-03 star:0.1k fork:0.8k Sample HTML+CSS+JS website
 - [microsoft/project-html-website-container](https://github.com/microsoft/project-html-website-container) topic: pushed_at:2023-06 star:0.0k fork:0.0k Sample HTML+CSS+JS website 
 - [microsoft/project-java-spring-container](https://github.com/microsoft/project-java-spring-container) topic: pushed_at:2023-06 star:0.0k fork:0.0k Sample Java Spring web application
@@ -1784,6 +1778,7 @@
 - [microsoft/robotics.pretraining.workshop.icra](https://github.com/microsoft/robotics.pretraining.workshop.icra) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/SmartHotel360](https://github.com/microsoft/SmartHotel360) topic: pushed_at:2020-02 star:0.7k fork:0.4k 
 - [microsoft/SmartHotel360-Website](https://github.com/microsoft/SmartHotel360-Website) topic: pushed_at:2020-02 star:0.2k fork:7.6k SmartHotel360 Webiste
+- [microsoft/Streamlit_UI_Template](https://github.com/microsoft/Streamlit_UI_Template) topic: pushed_at:2024-08 star:0.0k fork:0.0k CSS template to modify and enhance the appearance of Streamlit applications
 - [microsoft/TailwindTraders](https://github.com/microsoft/TailwindTraders) topic: pushed_at:2023-03 star:0.7k fork:0.3k 
 - [microsoft/transformerviz](https://github.com/microsoft/transformerviz) topic: pushed_at:2023-07 star:0.0k fork:0.0k Investigations on Transformer Visualizations by the Aether Prototyping and Incubation team
 - [microsoft/TypeSearch](https://github.com/microsoft/TypeSearch) topic: pushed_at:2020-12 star:0.4k fork:0.1k 
@@ -1829,12 +1824,13 @@
 
 ## Dart
 
-- [microsoft/aad_b2c_webview](https://github.com/microsoft/aad_b2c_webview) topic: pushed_at:2024-02 star:0.0k fork:0.0k Azure AD B2C Embedded Webview is a very simple Flutter package that demonstrates how to use the embedded web view to sign in users with Azure AD B2C.
+- [microsoft/aad_b2c_webview](https://github.com/microsoft/aad_b2c_webview) topic: pushed_at:2024-08 star:0.0k fork:0.0k Azure AD B2C Embedded Webview is a very simple Flutter package that demonstrates how to use the embedded web view to sign in users with Azure AD B2C.
 - [microsoft/flutter-dualscreen](https://github.com/microsoft/flutter-dualscreen) topic: pushed_at:2024-08 star:0.1k fork:0.0k Flutter dual-screen support
 - [microsoft/surface-duo-sdk-samples-flutter](https://github.com/microsoft/surface-duo-sdk-samples-flutter) topic:android,flutter,surface-duo pushed_at:2022-11 star:0.1k fork:0.0k flutter samples for Surface Duo 
 
 ## Dockerfile
 
+- [microsoft/aitour-leveraging-ai-for-infrastructure-management](https://github.com/microsoft/aitour-leveraging-ai-for-infrastructure-management) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/ApplicationInsights-Docker-Dockerfile](https://github.com/microsoft/ApplicationInsights-Docker-Dockerfile) topic: pushed_at:2023-06 star:0.0k fork:0.0k Continues integration for Application Insights for Docker image
 - [microsoft/aspnet-docker](https://github.com/microsoft/aspnet-docker) topic: pushed_at:2019-08 star:0.1k fork:0.1k This repository has moved to microsoft/dotnet-framework-docker.
 - [microsoft/azure-orbital-space-sdk-coresvc-registry](https://github.com/microsoft/azure-orbital-space-sdk-coresvc-registry) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
@@ -1871,7 +1867,7 @@
 - [microsoft/DiffyConfigAnalyzer](https://github.com/microsoft/DiffyConfigAnalyzer) topic: pushed_at:2024-07 star:0.0k fork:0.0k A tool for finding configuration anomalies.
 - [microsoft/fsharplu](https://github.com/microsoft/fsharplu) topic: pushed_at:2024-06 star:0.4k fork:0.0k This library provides a set of F# helpers for string manipulations, logging, collection data structures, file operations, text processing, security, async, parsing, diagnostics, configuration files and Json serialization.
 - [microsoft/mcBV](https://github.com/microsoft/mcBV) topic: pushed_at:2023-06 star:0.0k fork:0.0k A satisfiability solver for (existential) bit-vector formulas based on the mcSAT framework.
-- [microsoft/metered-billing-accelerator](https://github.com/microsoft/metered-billing-accelerator) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
+- [microsoft/metered-billing-accelerator](https://github.com/microsoft/metered-billing-accelerator) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/Quantum-NC](https://github.com/microsoft/Quantum-NC) topic:python,qdk,qsharp,quantum,quantum-computing,quantum-development-kit pushed_at:2024-02 star:0.2k fork:0.1k Microsoft Quantum Computing Libraries for noncommercial use
 - [microsoft/rest-api-fuzz-testing](https://github.com/microsoft/rest-api-fuzz-testing) topic:api,devops,fuzz,fuzzing,fuzzing-framework,rest,rest-api pushed_at:2022-01 star:0.3k fork:0.0k REST API Fuzz Testing (RAFT): Source code for self-hosted service developed for Azure, including the API, orchestration engine, and default set of security tools (including MSR's RESTler), that enables developers to embed security tooling into their CI/CD workflows
 
@@ -1907,7 +1903,7 @@
 - [microsoft/Burrow](https://github.com/microsoft/Burrow) topic: pushed_at:2023-06 star:0.0k fork:0.0k Kafka Consumer Lag Checking
 - [microsoft/clock](https://github.com/microsoft/clock) topic: pushed_at:2022-10 star:0.1k fork:0.0k :clock4: Time utility with lovely mocking support
 - [microsoft/cluster-api-inplace-updater](https://github.com/microsoft/cluster-api-inplace-updater) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
-- [microsoft/cluster-api-provider-azurestackhci](https://github.com/microsoft/cluster-api-provider-azurestackhci) topic: pushed_at:2024-07 star:0.0k fork:0.0k  Cluster API provider for Azure Stack HCI
+- [microsoft/cluster-api-provider-azurestackhci](https://github.com/microsoft/cluster-api-provider-azurestackhci) topic: pushed_at:2024-08 star:0.0k fork:0.0k  Cluster API provider for Azure Stack HCI
 - [microsoft/cnetstat](https://github.com/microsoft/cnetstat) topic: pushed_at:2020-12 star:0.0k fork:0.0k A container-aware netstat
 - [microsoft/cognitive-services-speech-sdk-go](https://github.com/microsoft/cognitive-services-speech-sdk-go) topic: pushed_at:2024-07 star:0.1k fork:0.0k Go bindings for the Microsoft Cognitive Services Speech SDK
 - [microsoft/colinmarc-hdfs](https://github.com/microsoft/colinmarc-hdfs) topic: pushed_at:2022-11 star:0.0k fork:0.0k A native go client for HDFS
@@ -1938,19 +1934,20 @@
 - [microsoft/go-infra](https://github.com/microsoft/go-infra) topic: pushed_at:2024-08 star:0.0k fork:0.0k Infrastructure supporting the use of Go in Microsoft
 - [microsoft/go-mssqldb](https://github.com/microsoft/go-mssqldb) topic: pushed_at:2024-08 star:0.3k fork:0.1k Microsoft SQL server driver written in go language
 - [microsoft/go-otel-audit](https://github.com/microsoft/go-otel-audit) topic: pushed_at:2024-08 star:0.0k fork:0.0k Client for sending audit events
-- [microsoft/go-rustaudit](https://github.com/microsoft/go-rustaudit) topic: pushed_at:2024-07 star:0.0k fork:0.0k Go library for inspecting Rust binaries produced with https://github.com/rust-secure-code/cargo-auditable
+- [microsoft/go-rustaudit](https://github.com/microsoft/go-rustaudit) topic: pushed_at:2024-08 star:0.0k fork:0.0k Go library for inspecting Rust binaries produced with https://github.com/rust-secure-code/cargo-auditable
 - [microsoft/go-sqlcmd](https://github.com/microsoft/go-sqlcmd) topic:azure-sql,mssql,sql-server,sqlcmd pushed_at:2024-08 star:0.3k fork:0.1k The new sqlcmd, CLI for SQL Server and Azure SQL (winget install sqlcmd / sqlcmd create mssql / sqlcmd open ads)
 - [microsoft/go-winio](https://github.com/microsoft/go-winio) topic: pushed_at:2024-05 star:0.9k fork:0.2k Win32 IO-related utilities for Go
 - [microsoft/go-winmd](https://github.com/microsoft/go-winmd) topic: pushed_at:2024-03 star:0.0k fork:0.0k Windows Metadata parser for Go 
 - [microsoft/gocosmos](https://github.com/microsoft/gocosmos) topic: pushed_at:2024-05 star:0.0k fork:0.0k Go database/sql driver for Azure Cosmos DB SQL API
 - [microsoft/hcnproxyctrl](https://github.com/microsoft/hcnproxyctrl) topic: pushed_at:2021-11 star:0.0k fork:0.0k Lightweight utility tool built on hcsshim for managing hcn proxy policy
-- [microsoft/hcsshim](https://github.com/microsoft/hcsshim) topic: pushed_at:2024-08 star:0.6k fork:0.3k Windows - Host Compute Service Shim
+- [microsoft/hcnshim](https://github.com/microsoft/hcnshim) topic: pushed_at:2024-08 star:0.0k fork:0.0k This package provides the Golang interface for accessing Windows HCN APIs to manage entities within the Host Network Service (HNS), which serves as the server container networking component in Windows.
+- [microsoft/hcsshim](https://github.com/microsoft/hcsshim) topic: pushed_at:2024-09 star:0.6k fork:0.3k Windows - Host Compute Service Shim
 - [microsoft/hdfs-mount](https://github.com/microsoft/hdfs-mount) topic: pushed_at:2020-08 star:0.3k fork:0.1k A tool to mount HDFS as a local Linux file system
 - [microsoft/hivedscheduler](https://github.com/microsoft/hivedscheduler) topic:artificial-intelligence,containers,deep-learning,gang-scheduling,kubernetes,multi-tenancy,scheduling pushed_at:2022-05 star:0.3k fork:0.0k Kubernetes Scheduler for Deep Learning
 - [microsoft/iron-go](https://github.com/microsoft/iron-go) topic: pushed_at:2018-10 star:0.0k fork:0.0k Implementation of Iron HMAC cookies in Go
 - [microsoft/k8s-cronjob-prescaler](https://github.com/microsoft/k8s-cronjob-prescaler) topic:autoscaler,cronjob,go,kubernetes,operator pushed_at:2020-12 star:0.0k fork:0.0k Kubernetes operator that prescales cluster nodes to ensure a cronjobs start exactly on time
 - [microsoft/kalypso-app-src](https://github.com/microsoft/kalypso-app-src) topic: pushed_at:2024-05 star:0.0k fork:0.0k Contains a sample application source code including Docker files, manifest templates and CI/CD workflows
-- [microsoft/kalypso-observability-hub](https://github.com/microsoft/kalypso-observability-hub) topic: pushed_at:2024-07 star:0.0k fork:0.0k Kalypso Observability Hub is a central storage that contains deployment data with historical information on workload versions and their deployment state across clusters.
+- [microsoft/kalypso-observability-hub](https://github.com/microsoft/kalypso-observability-hub) topic: pushed_at:2024-08 star:0.0k fork:0.0k Kalypso Observability Hub is a central storage that contains deployment data with historical information on workload versions and their deployment state across clusters.
 - [microsoft/kalypso-scheduler](https://github.com/microsoft/kalypso-scheduler) topic: pushed_at:2024-08 star:0.0k fork:0.0k Kalyspo scheduler operator. Responsible for scheduling applications and services on cluster types and uploading the result to the GitOps repo
 - [microsoft/kfp-event-handler](https://github.com/microsoft/kfp-event-handler) topic: pushed_at:2021-09 star:0.0k fork:0.0k Kubeflow Pipelines Event Handler
 - [microsoft/kiota-abstractions-go](https://github.com/microsoft/kiota-abstractions-go) topic:go,golang,kiota,openapi,sdk,sdk-go pushed_at:2024-08 star:0.0k fork:0.0k Abstractions library for the Kiota generated SDKs in go
@@ -1978,7 +1975,7 @@
 - [microsoft/rai-test-ecs](https://github.com/microsoft/rai-test-ecs) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [microsoft/redplex](https://github.com/microsoft/redplex) topic: pushed_at:2023-06 star:0.0k fork:0.0k :revolving_hearts: Redis pubsub multiplexer
 - [microsoft/redutil](https://github.com/microsoft/redutil) topic: pushed_at:2019-10 star:0.0k fork:0.0k Thread-safe and consistent Redis utilities for Go.
-- [microsoft/retina](https://github.com/microsoft/retina) topic:ebpf,kubernetes,networking,observability pushed_at:2024-08 star:2.6k fork:0.2k eBPF distributed networking observability tool for Kubernetes
+- [microsoft/retina](https://github.com/microsoft/retina) topic:ebpf,kubernetes,networking,observability pushed_at:2024-08 star:2.7k fork:0.2k eBPF distributed networking observability tool for Kubernetes
 - [microsoft/ring-operator](https://github.com/microsoft/ring-operator) topic: pushed_at:2023-12 star:0.0k fork:0.0k A Kubernetes operator for releasing services with user-based routing 
 - [microsoft/service-fabric-traefik](https://github.com/microsoft/service-fabric-traefik) topic: pushed_at:2024-05 star:0.0k fork:0.0k service-fabric-traefik contains services to fetch endpoint information from Service Fabric and expose Traefik endpoints.
 - [microsoft/terraform-provider-azuredevops](https://github.com/microsoft/terraform-provider-azuredevops) topic:azuredevops,terraform,terraform-provider pushed_at:2024-08 star:0.4k fork:0.3k Terraform Azure DevOps provider
@@ -2003,6 +2000,7 @@
 
 ## HCL
 
+- [microsoft/aitour-cloud-native-apps-with-azure-ai-and-aks](https://github.com/microsoft/aitour-cloud-native-apps-with-azure-ai-and-aks) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/azure-grpc-telemetry-pipeline](https://github.com/microsoft/azure-grpc-telemetry-pipeline) topic: pushed_at:2019-05 star:0.0k fork:0.0k A sample pipeline to ingest and process gRPC telemetry data
 - [microsoft/azure-oracle](https://github.com/microsoft/azure-oracle) topic: pushed_at:2022-11 star:0.0k fork:0.0k Automation scripts to simplify Oracle workload deployments on Azure
 - [microsoft/azureml-terraform-examples](https://github.com/microsoft/azureml-terraform-examples) topic: pushed_at:2021-06 star:0.0k fork:0.0k Terraform examples for provisioning Azure Machine Learning
@@ -2015,8 +2013,6 @@
 - [microsoft/github-private-runners-on-aks](https://github.com/microsoft/github-private-runners-on-aks) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [microsoft/gps-csa-tech-stack](https://github.com/microsoft/gps-csa-tech-stack) topic: pushed_at:2023-03 star:0.0k fork:0.0k Tech Stack Contribute by GPS China CSA Team
 - [microsoft/mcsa-observability](https://github.com/microsoft/mcsa-observability) topic:azure,grafana,monitoring pushed_at:2024-08 star:0.0k fork:0.0k MCSA-Observability
-- [microsoft/MCW-SAP-HANA-on-Azure](https://github.com/microsoft/MCW-SAP-HANA-on-Azure) topic: pushed_at:2023-11 star:0.0k fork:0.1k MCW SAP HANA on Azure
-- [microsoft/MCW-SAP-plus-extend-and-innovate-with-Data-and-AI](https://github.com/microsoft/MCW-SAP-plus-extend-and-innovate-with-Data-and-AI) topic: pushed_at:2023-11 star:0.0k fork:0.0k SAP plus extend and innovate with Data and AI
 - [microsoft/MSLab-templates](https://github.com/microsoft/MSLab-templates) topic: pushed_at:2024-01 star:0.0k fork:0.0k Packer Templates for building MSLab OS images
 - [microsoft/MTC_IL](https://github.com/microsoft/MTC_IL) topic: pushed_at:2024-03 star:0.0k fork:0.0k Microsoft Technology Center Israel Official Repository
 - [microsoft/NubesGen](https://github.com/microsoft/NubesGen) topic:azure,github-actions,hacktoberfest,terraform pushed_at:2024-08 star:0.3k fork:0.1k Going to production on Azure is only one `git push` away
@@ -2025,7 +2021,7 @@
 - [microsoft/privateAML](https://github.com/microsoft/privateAML) topic: pushed_at:2022-06 star:0.0k fork:0.0k A private base deployment of Azure AML and related services.
 - [microsoft/terraform-azure-devops-starter](https://github.com/microsoft/terraform-azure-devops-starter) topic: pushed_at:2023-05 star:0.2k fork:0.1k A starter project for Azure DevOps Pipelines deploying resources on Terraform.
 - [microsoft/terraform-azuredevops-integration](https://github.com/microsoft/terraform-azuredevops-integration) topic: pushed_at:2022-06 star:0.0k fork:0.0k Terraform scripts to create AKS cluster and related resources.
-- [microsoft/terraform-azurerm-environment-configuration](https://github.com/microsoft/terraform-azurerm-environment-configuration) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
+- [microsoft/terraform-azurerm-environment-configuration](https://github.com/microsoft/terraform-azurerm-environment-configuration) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 
 ## HTML
 
@@ -2033,7 +2029,7 @@
 - [microsoft/ActivateAzurewithDevOps](https://github.com/microsoft/ActivateAzurewithDevOps) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
 - [microsoft/adme-samples](https://github.com/microsoft/adme-samples) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/AFUN-Demos](https://github.com/microsoft/AFUN-Demos) topic: pushed_at:2019-10 star:0.0k fork:0.0k Demos for AFUN content for Microsoft Ignite the Tour content 
-- [microsoft/ai-edu](https://github.com/microsoft/ai-edu) topic: pushed_at:2024-05 star:13.4k fork:2.9k AI education materials for Chinese students, teachers and IT professionals.
+- [microsoft/ai-edu](https://github.com/microsoft/ai-edu) topic: pushed_at:2024-05 star:13.5k fork:2.9k AI education materials for Chinese students, teachers and IT professionals.
 - [microsoft/AIInstitute](https://github.com/microsoft/AIInstitute) topic: pushed_at:2018-12 star:0.0k fork:0.0k Repository for managing the AI Institute
 - [microsoft/aks-dev-day](https://github.com/microsoft/aks-dev-day) topic: pushed_at:2023-12 star:0.0k fork:0.0k Labs and information for AKS Dev Day.
 - [microsoft/AMLSDKRModelsOperationalization](https://github.com/microsoft/AMLSDKRModelsOperationalization) topic: pushed_at:2019-05 star:0.0k fork:0.0k Operationalize R models at scale using Python via Azure ML SDK
@@ -2059,7 +2055,6 @@
 - [microsoft/CELA-IPG-Academic-Roundtable-Open-Source-Presentation](https://github.com/microsoft/CELA-IPG-Academic-Roundtable-Open-Source-Presentation) topic: pushed_at:2023-05 star:0.0k fork:0.0k Example program that generates data from USPTO patent filing reports and the GitHub API. You can see the kind of content that is produced here: http://aka.ms/ipgart
 - [microsoft/Chakra-Samples](https://github.com/microsoft/Chakra-Samples) topic: pushed_at:2022-11 star:0.2k fork:0.1k Repository for Chakra JavaScript engine related samples.
 - [microsoft/ChoresIoT](https://github.com/microsoft/ChoresIoT) topic: pushed_at:2023-03 star:0.0k fork:0.0k IOT Trash Can Solution
-- [microsoft/cloud-advocate-workshops](https://github.com/microsoft/cloud-advocate-workshops) topic: pushed_at:2024-02 star:0.0k fork:0.0k Workshops created by the Cloud Advocacy team at Microsoft.
 - [microsoft/Coding4Fun](https://github.com/microsoft/Coding4Fun) topic: pushed_at:2022-11 star:0.1k fork:0.0k Samples for exploring the lighter side of Windows 10 (UWP) development
 - [microsoft/ComplianceCxE](https://github.com/microsoft/ComplianceCxE) topic: pushed_at:2024-08 star:0.0k fork:0.0k Customer Experience Engineering (CxE) is a World Wide team, our charter is helping customers deploy M365 security and compliance products. 
 - [microsoft/copilot-camp](https://github.com/microsoft/copilot-camp) topic: pushed_at:2024-08 star:0.0k fork:0.0k Hands-on labs for extending Copilot for Microsoft 365 and building custom Copilotsop
@@ -2080,8 +2075,8 @@
 - [microsoft/Exp-HAIC](https://github.com/microsoft/Exp-HAIC) topic:artificial-intelligence,human-computer-interaction,machine-learning,medical-imaging pushed_at:2023-10 star:0.0k fork:0.0k Experimental Platform for Human AI Collaboration - Code for the paper "Who Goes First? Influences of Human-AI Workflow on Decision Making in Clinical Imaging" published at FAccT 2022
 - [microsoft/fabricnotes](https://github.com/microsoft/fabricnotes) topic: pushed_at:2024-06 star:0.1k fork:0.0k Simple drawings illustrating the main concepts of Microsoft Fabric to empower anyone to build stuff on Fabric.
 - [microsoft/fifty-shades-of-bias](https://github.com/microsoft/fifty-shades-of-bias) topic: pushed_at:2024-05 star:0.0k fork:0.0k This repo contains data and code for EMNLP'23 paper “Fifty Shades of Bias”: Normative Ratings of Gender Bias in GPT Generated English Text
-- [microsoft/flamegrill](https://github.com/microsoft/flamegrill) topic:flamegraphs,frontend,performance,typescript pushed_at:2024-04 star:0.0k fork:0.0k Flame Grill Your Webpages for Easy Digestion
-- [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) topic:android,design,fluent,flutter,icons,ios,react pushed_at:2024-08 star:5.8k fork:0.5k Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+- [microsoft/flamegrill](https://github.com/microsoft/flamegrill) topic:flamegraphs,frontend,performance,typescript pushed_at:2024-08 star:0.0k fork:0.0k Flame Grill Your Webpages for Easy Digestion
+- [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) topic:android,design,fluent,flutter,icons,ios,react pushed_at:2024-08 star:5.9k fork:0.5k Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
 - [microsoft/FluMapModel](https://github.com/microsoft/FluMapModel) topic: pushed_at:2023-11 star:0.0k fork:0.0k mapping flu incidence and modeling flu burden and transmission, focused on the Seattle Flu Study, public fork of https://github.com/seattleflu/incidence-mapper 
 - [microsoft/font-tools](https://github.com/microsoft/font-tools) topic: pushed_at:2024-01 star:0.1k fork:0.0k Font tools to support development of OpenType fonts.
 - [microsoft/FourthCoffee](https://github.com/microsoft/FourthCoffee) topic: pushed_at:2023-05 star:0.0k fork:0.0k Repository for the FourthCoffee Retail Experience on Azure Edge Environment.
@@ -2102,13 +2097,12 @@
 - [microsoft/IoT-Plug-and-Play-Workshop-WebApp](https://github.com/microsoft/IoT-Plug-and-Play-Workshop-WebApp) topic: pushed_at:2022-12 star:0.0k fork:0.0k Sample WebApp for IoT Plug and Play workshop
 - [microsoft/jacobian-transpose-explainer](https://github.com/microsoft/jacobian-transpose-explainer) topic: pushed_at:2023-06 star:0.0k fork:0.0k Jacobian transpose explainer
 - [microsoft/java-on-aca-with-ai](https://github.com/microsoft/java-on-aca-with-ai) topic: pushed_at:2024-08 star:0.0k fork:0.0k Build Intelligent Apps on Azure Container Apps with Azure OpenAI
-- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) topic: pushed_at:2024-08 star:11.0k fork:0.8k Defines a common protocol for language servers.
+- [microsoft/language-server-protocol](https://github.com/microsoft/language-server-protocol) topic: pushed_at:2024-08 star:11.1k fork:0.8k Defines a common protocol for language servers.
 - [microsoft/LocalizedStringKit](https://github.com/microsoft/LocalizedStringKit) topic: pushed_at:2024-03 star:0.3k fork:0.0k Generate .strings files directly from your code
 - [microsoft/Mastering-the-Marketplace](https://github.com/microsoft/Mastering-the-Marketplace) topic:azure,azure-marketplace,microsoft pushed_at:2024-08 star:0.1k fork:0.1k Home of the commercial marketplace learning series.
-- [microsoft/MCW-Migrating-SQL-databases-to-Azure](https://github.com/microsoft/MCW-Migrating-SQL-databases-to-Azure) topic: pushed_at:2022-08 star:0.1k fork:0.2k MCW Migrating SQL databases to Azure
 - [microsoft/microsoft.github.io](https://github.com/microsoft/microsoft.github.io) topic: pushed_at:2023-07 star:2.4k fork:0.5k Microsoft on GitHub
 - [microsoft/MicrosoftCloud](https://github.com/microsoft/MicrosoftCloud) topic: pushed_at:2024-07 star:0.1k fork:0.1k Repository focused on Microsoft Cloud scenarios.
-- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) topic:data-science,education,machine-learning,machine-learning-algorithms,machinelearning,machinelearning-python,ml,python,r,scikit-learn,scikit-learn-python pushed_at:2024-07 star:68.7k fork:14.1k 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
+- [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) topic:data-science,education,machine-learning,machine-learning-algorithms,machinelearning,machinelearning-python,ml,python,r,scikit-learn,scikit-learn-python pushed_at:2024-08 star:68.9k fork:14.2k 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 - [microsoft/MS-SNSD](https://github.com/microsoft/MS-SNSD) topic: pushed_at:2024-07 star:0.5k fork:0.1k The Microsoft Scalable Noisy Speech Dataset (MS-SNSD) is a noisy speech dataset that can scale to arbitrary sizes depending on the number of speakers, noise types, and Speech to Noise Ratio (SNR) levels desired. 
 - [microsoft/MSAdvertisingSamples](https://github.com/microsoft/MSAdvertisingSamples) topic:ads-and-revenue,ads-sdk,advertising,in-app-advertising,microsoft-ads,microsoft-android,ms-ads,ms-android pushed_at:2023-06 star:0.0k fork:0.0k Code samples and documentation for the Microsoft Advertising SDKs for Web and Android
 - [microsoft/MTC_GHCopilot_SB](https://github.com/microsoft/MTC_GHCopilot_SB) topic: pushed_at:2024-04 star:0.0k fork:0.0k MTC Github Copilot strategy briefing / demo
@@ -2131,12 +2125,12 @@
 - [microsoft/project-java-jsf-webapp](https://github.com/microsoft/project-java-jsf-webapp) topic: pushed_at:2023-06 star:0.0k fork:0.0k Sample Java JSF web application
 - [microsoft/pxt-neoanim](https://github.com/microsoft/pxt-neoanim) topic: pushed_at:2023-06 star:0.0k fork:0.0k A neopixel animation based on bitmaps - Beta
 - [microsoft/PyAImOpt](https://github.com/microsoft/PyAImOpt) topic: pushed_at:2024-03 star:0.0k fork:0.0k MICROSOFT RESEARCH ANALOG ITERATIVE MACHINE (AIM) sample python scripts
-- [microsoft/python-sample-vscode-flask-tutorial](https://github.com/microsoft/python-sample-vscode-flask-tutorial) topic: pushed_at:2024-07 star:0.3k fork:4.9k Sample code for the Flask tutorial in the VS Code documentation
+- [microsoft/python-sample-vscode-flask-tutorial](https://github.com/microsoft/python-sample-vscode-flask-tutorial) topic: pushed_at:2024-08 star:0.3k fork:4.9k Sample code for the Flask tutorial in the VS Code documentation
 - [microsoft/RTVS-docs](https://github.com/microsoft/RTVS-docs) topic: pushed_at:2023-06 star:0.1k fork:0.0k RTVS documentation and samples
 - [microsoft/sample-code](https://github.com/microsoft/sample-code) topic: pushed_at:2018-12 star:0.0k fork:0.0k appium sample code (dotnet, java, node, perl, php, python, ruby, etc.)
 - [microsoft/SATechnicalOnboarding](https://github.com/microsoft/SATechnicalOnboarding) topic: pushed_at:2024-08 star:0.2k fork:0.2k This is a repo for the Microsoft Learn Student Ambassador Technical Onboarding Process. 
 - [microsoft/scsmsendemail](https://github.com/microsoft/scsmsendemail) topic: pushed_at:2023-06 star:0.0k fork:0.0k SCSM SendEmail MP
-- [microsoft/Security-101](https://github.com/microsoft/Security-101) topic:appsec,cia-triad,data-protection,data-security,iam,identity,risk-management,secops,security,threat-modeling,zero-trust pushed_at:2024-08 star:3.9k fork:0.4k 8 Lessons, Kick-start Your Cybersecurity Learning.
+- [microsoft/Security-101](https://github.com/microsoft/Security-101) topic:appsec,cia-triad,data-protection,data-security,iam,identity,risk-management,secops,security,threat-modeling,zero-trust pushed_at:2024-08 star:4.0k fork:0.5k 8 Lessons, Kick-start Your Cybersecurity Learning.
 - [microsoft/Server-Info](https://github.com/microsoft/Server-Info) topic: pushed_at:2024-04 star:0.0k fork:0.0k This project proposes to help developers and infrastructure operators to discovery environments parameters that is available only in code, exposing them in a simple and clean table in the site in a very simple way. Usefull information such as hostname, client, OS version, drivers, port, paths and all parameters that was available only in code. Intended to be used as a tool, not to leave opened in production environment
 - [microsoft/skype-bot-samples](https://github.com/microsoft/skype-bot-samples) topic: pushed_at:2024-05 star:0.0k fork:0.0k Skype Code Samples, including ChatGPT, GPT3.5, GPT-4 powered bots
 - [microsoft/sonder-ui](https://github.com/microsoft/sonder-ui) topic: pushed_at:2023-07 star:0.1k fork:0.0k An accessibility-first library of tested web components to be used as reference implementations, pattern documentation, or just drop them directly into your project!
@@ -2153,13 +2147,13 @@
 - [microsoft/vscode-azureAutomation](https://github.com/microsoft/vscode-azureAutomation) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
 - [microsoft/vscode-azurecognitivesearch](https://github.com/microsoft/vscode-azurecognitivesearch) topic:azure,cognitive-search,vscode,vscode-extension pushed_at:2023-07 star:0.0k fork:0.0k Azure Cognitive Search extension for VS Code (Preview)
 - [microsoft/vscode-azurehealthcareapis-tools](https://github.com/microsoft/vscode-azurehealthcareapis-tools) topic: pushed_at:2024-04 star:0.0k fork:0.0k This VS Code extension contains a collection of tools to work with Azure Healthcare APIs.
-- [microsoft/vscode-azurespringcloud](https://github.com/microsoft/vscode-azurespringcloud) topic: pushed_at:2024-07 star:0.0k fork:0.0k Azure Spring Cloud extension for Visual Studio Code
+- [microsoft/vscode-azurespringcloud](https://github.com/microsoft/vscode-azurespringcloud) topic: pushed_at:2024-08 star:0.0k fork:0.0k Azure Spring Cloud extension for Visual Studio Code
 - [microsoft/vscode-cosmosdbgraph](https://github.com/microsoft/vscode-cosmosdbgraph) topic: pushed_at:2021-12 star:0.0k fork:0.0k VS Code extension for Cosmos DB Graph databases.
-- [microsoft/vscode-dapr](https://github.com/microsoft/vscode-dapr) topic: pushed_at:2024-06 star:0.1k fork:0.0k A Visual Studio Code extension for Dapr development
+- [microsoft/vscode-dapr](https://github.com/microsoft/vscode-dapr) topic: pushed_at:2024-08 star:0.1k fork:0.0k A Visual Studio Code extension for Dapr development
 - [microsoft/vscode-octicons-font](https://github.com/microsoft/vscode-octicons-font) topic: pushed_at:2020-07 star:0.0k fork:0.0k A tool for converting GitHub's Octicons into an icon font for VS Code
 - [microsoft/vsts-branch-delete](https://github.com/microsoft/vsts-branch-delete) topic: pushed_at:2023-06 star:0.0k fork:0.0k Branch Delete Extension for Visual Studio Team Services
 - [microsoft/vue-beginners-videos](https://github.com/microsoft/vue-beginners-videos) topic: pushed_at:2021-04 star:0.0k fork:0.0k Sample code for Beginners' Series - Vue.js
-- [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) topic: pushed_at:2024-08 star:1.7k fork:0.9k A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://aka.ms/wth
+- [microsoft/WhatTheHack](https://github.com/microsoft/WhatTheHack) topic: pushed_at:2024-08 star:1.8k fork:0.9k A collection of challenge based hack-a-thons including student guide, coach guide, lecture presentations, sample/instructional code and templates.  Please visit the What The Hack website at: https://aka.ms/wth
 - [microsoft/Windows-AppConsult-Blog](https://github.com/microsoft/Windows-AppConsult-Blog) topic: pushed_at:2023-06 star:0.0k fork:0.0k Our blog posts and metadata, when released in markdown. 
 - [microsoft/Windows-AppConsult-PWALab](https://github.com/microsoft/Windows-AppConsult-PWALab) topic: pushed_at:2023-04 star:0.0k fork:4.3k Lab for building a PWA 
 - [microsoft/windows-phone-callout-project](https://github.com/microsoft/windows-phone-callout-project) topic: pushed_at:2023-06 star:0.0k fork:0.0k Windows Phone Callout Project (WPC) is a small, easy to use JavaScript widget that shows a call out inviting the user to visit the Windows Phone Store and download the native application associated to the website she is visiting.
@@ -2309,12 +2303,12 @@
 - [microsoft/ProjectOxford-Apps-MimickerAlarm](https://github.com/microsoft/ProjectOxford-Apps-MimickerAlarm) topic: pushed_at:2023-06 star:0.3k fork:0.1k Project Oxford Mimicker Alarm
 - [microsoft/quick-authentication-mobile](https://github.com/microsoft/quick-authentication-mobile) topic: pushed_at:2023-09 star:0.0k fork:0.0k Contains code for quick authentication mobile
 - [microsoft/react-native-svg-desktop](https://github.com/microsoft/react-native-svg-desktop) topic: pushed_at:2023-07 star:0.0k fork:0.0k SVG library for React Native, React Native Web, and plain React web projects.
-- [microsoft/SEEDS](https://github.com/microsoft/SEEDS) topic: pushed_at:2024-06 star:0.0k fork:0.0k Scalable Educational Experiences with Digital Scaffolding
+- [microsoft/SEEDS](https://github.com/microsoft/SEEDS) topic: pushed_at:2024-08 star:0.0k fork:0.0k Scalable Educational Experiences with Digital Scaffolding
 - [microsoft/semantic-kernel-java](https://github.com/microsoft/semantic-kernel-java) topic: pushed_at:2024-08 star:0.0k fork:0.0k Semantic Kernel for Java. Integrate cutting-edge LLM technology quickly and easily into your Java based apps. See https://aka.ms/semantic-kernel.
 - [microsoft/SmartHotel360-CouponManagement](https://github.com/microsoft/SmartHotel360-CouponManagement) topic: pushed_at:2020-02 star:0.0k fork:0.1k SmartHotel360 manage with this app the coupons they provide to their guests.
 - [microsoft/SmartKC-A-Smartphone-based-Corneal-Topographer](https://github.com/microsoft/SmartKC-A-Smartphone-based-Corneal-Topographer) topic: pushed_at:2024-06 star:0.0k fork:0.0k This is the official implementation for the SmartKC project. SmartKC is a smartphone based corneal topographer.
 - [microsoft/snippet-timekeeper](https://github.com/microsoft/snippet-timekeeper) topic:android,android-application,android-development,android-library,execution-time,java,kotlin,kotlin-android,measurement,measurements,performance,performance-analysis,performance-metrics pushed_at:2022-04 star:0.1k fork:0.0k An android library to measure code execution time. No need to remove the measurement code, automatically becomes no-op in the release variants. Does not compromise with the code readability and comes with features that enhance the developer experience.
-- [microsoft/spring-cloud-azure](https://github.com/microsoft/spring-cloud-azure) topic:azure,java,reference-document,spring,spring-cloud-azure pushed_at:2023-06 star:0.2k fork:0.1k Spring Cloud Azure is an open-source project that provides seamless Spring integration with Azure services.
+- [microsoft/spring-cloud-azure](https://github.com/microsoft/spring-cloud-azure) topic:azure,java,reference-document,spring,spring-cloud-azure pushed_at:2024-08 star:0.2k fork:0.1k Spring Cloud Azure is an open-source project that provides seamless Spring integration with Azure services.
 - [microsoft/spring-cloud-playground](https://github.com/microsoft/spring-cloud-playground) topic: pushed_at:2023-07 star:0.0k fork:0.0k Azure Spring Cloud Playground helps you scaffold and generate Microservice projects
 - [microsoft/spring-cloud-stream-binder-dapr](https://github.com/microsoft/spring-cloud-stream-binder-dapr) topic: pushed_at:2023-09 star:0.0k fork:0.0k Spring Cloud Stream Binder for Dapr
 - [microsoft/spring-data-gremlin](https://github.com/microsoft/spring-data-gremlin) topic:deprecating pushed_at:2021-10 star:0.1k fork:0.1k We are in the process of deprecating Spring Data Gremlin. -- Provide generic annotation oriented programming form based on gremlin for graph database
@@ -2326,11 +2320,12 @@
 - [microsoft/Telemetry-Client-for-Android](https://github.com/microsoft/Telemetry-Client-for-Android) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/terraform-spring-boot](https://github.com/microsoft/terraform-spring-boot) topic: pushed_at:2023-05 star:0.1k fork:0.1k Spring Boot Starter for Terraform
 - [microsoft/todo-app-java-on-azure](https://github.com/microsoft/todo-app-java-on-azure) topic: pushed_at:2024-03 star:0.1k fork:0.3k Sample TODO app using Java on Azure
+- [microsoft/typespec](https://github.com/microsoft/typespec) topic:json-schema,openapi3,protobuf,typespec pushed_at:2024-08 star:4.1k fork:0.2k 
 - [microsoft/Visual-Audience-Polling](https://github.com/microsoft/Visual-Audience-Polling) topic: pushed_at:2023-06 star:0.0k fork:0.0k Android app for real-time audience polling using computer vision.
 - [microsoft/vscode-gradle](https://github.com/microsoft/vscode-gradle) topic:extension,gradle,gradle-tasks,vscode,vscode-gradle pushed_at:2024-08 star:0.1k fork:0.0k Manage Gradle Projects, run Gradle tasks and provide better Gradle file authoring experience in VS Code
 - [microsoft/vscode-java-test](https://github.com/microsoft/vscode-java-test) topic:java,junit,test,testng,vscode pushed_at:2024-08 star:0.3k fork:0.1k Run and debug Java test cases in Visual Studio Code.
-- [microsoft/vscode-lombok](https://github.com/microsoft/vscode-lombok) topic:java,lombok,vscode pushed_at:2024-07 star:0.1k fork:0.0k Lombok Annotations Extension for Visual Studio Code
-- [microsoft/vscode-remote-try-java](https://github.com/microsoft/vscode-remote-try-java) topic: pushed_at:2024-06 star:0.3k fork:0.4k Java sample project for trying out Dev Containers
+- [microsoft/vscode-lombok](https://github.com/microsoft/vscode-lombok) topic:java,lombok,vscode pushed_at:2024-08 star:0.1k fork:0.0k Lombok Annotations Extension for Visual Studio Code
+- [microsoft/vscode-remote-try-java](https://github.com/microsoft/vscode-remote-try-java) topic: pushed_at:2024-08 star:0.3k fork:0.4k Java sample project for trying out Dev Containers
 - [microsoft/vsminecraft](https://github.com/microsoft/vsminecraft) topic: pushed_at:2023-06 star:0.2k fork:0.0k Visual Studio extension for developing MinecraftForge mods using Java.
 - [microsoft/vso-httpclient-java](https://github.com/microsoft/vso-httpclient-java) topic: pushed_at:2020-02 star:0.0k fork:0.0k Microsoft Visual Studio Online HTTP Client for Java
 - [microsoft/vsts-authentication-library-for-java](https://github.com/microsoft/vsts-authentication-library-for-java) topic: pushed_at:2023-06 star:0.0k fork:0.0k Retrieve OAuth2 or Personal Accesss Tokens for Visual Studio Team Services (visualstudio.com) accounts.  Also provides secure storage for those secrets on different platforms.
@@ -2351,6 +2346,9 @@
 - [microsoft/adfsWebCustomization](https://github.com/microsoft/adfsWebCustomization) topic: pushed_at:2023-06 star:0.1k fork:0.1k A repository of useful Web Customizations for Active Directory Federation Services 
 - [microsoft/AHS-AppServiceDotNet](https://github.com/microsoft/AHS-AppServiceDotNet) topic: pushed_at:2019-02 star:0.0k fork:0.0k Code for SmartHotel 360 Registration app for the AHS
 - [microsoft/AIForAccessibility-Samples](https://github.com/microsoft/AIForAccessibility-Samples) topic: pushed_at:2023-07 star:0.0k fork:0.0k Microsoft's repo for AI for Accessibility prototypes, demos and code samples
+- [microsoft/aitour-customizing-microsoft-copilot](https://github.com/microsoft/aitour-customizing-microsoft-copilot) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-Essential-Prompting-for-GitHub-Copilot-in-VS-Code](https://github.com/microsoft/aitour-Essential-Prompting-for-GitHub-Copilot-in-VS-Code) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-github-advanced-security-workflow](https://github.com/microsoft/aitour-github-advanced-security-workflow) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/anymatch](https://github.com/microsoft/anymatch) topic: pushed_at:2019-07 star:0.0k fork:0.0k :bangbang: Matches strings against configurable strings, globs, regular expressions, and/or functions
 - [microsoft/aoai-virtual-assistant](https://github.com/microsoft/aoai-virtual-assistant) topic: pushed_at:2023-04 star:0.0k fork:0.0k Solution accelerator for getting started with Azure OpenAI virtual assistants
 - [microsoft/app-camp](https://github.com/microsoft/app-camp) topic: pushed_at:2024-08 star:0.1k fork:0.1k On-demand videos and labs - come to App Camp and learn how to port your web application to Microsoft Teams!
@@ -2360,8 +2358,8 @@
 - [microsoft/appium-windows-driver](https://github.com/microsoft/appium-windows-driver) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/applicationinsights-channel-js](https://github.com/microsoft/applicationinsights-channel-js) topic: pushed_at:2019-09 star:0.0k fork:0.0k This extension prepares and sends telemetry to the Application Insights ingestion endpoint.
 - [microsoft/applicationinsights-core-js](https://github.com/microsoft/applicationinsights-core-js) topic: pushed_at:2019-09 star:0.0k fork:0.0k Core SDK layer for next version of application insights javascript SDK.
-- [microsoft/applicationinsights-react-js](https://github.com/microsoft/applicationinsights-react-js) topic: pushed_at:2024-08 star:0.0k fork:0.0k Microsoft Application Insights React plugin
-- [microsoft/applicationinsights-react-native](https://github.com/microsoft/applicationinsights-react-native) topic: pushed_at:2024-07 star:0.0k fork:0.0k Microsoft Application Insights React Native Plugin
+- [microsoft/applicationinsights-react-js](https://github.com/microsoft/applicationinsights-react-js) topic: pushed_at:2024-09 star:0.0k fork:0.0k Microsoft Application Insights React plugin
+- [microsoft/applicationinsights-react-native](https://github.com/microsoft/applicationinsights-react-native) topic: pushed_at:2024-08 star:0.0k fork:0.0k Microsoft Application Insights React Native Plugin
 - [microsoft/ApplicationInsights-SAP-Fiori-Plugin](https://github.com/microsoft/ApplicationInsights-SAP-Fiori-Plugin) topic:application-insights,azure,fiori,monitoring,sap,sapui5 pushed_at:2024-08 star:0.0k fork:0.0k SAP Fiori Launchpad Plugin to gain insights into Fiori metrics with Azure Application Insights
 - [microsoft/arcade-carnival](https://github.com/microsoft/arcade-carnival) topic: pushed_at:2022-11 star:0.0k fork:0.0k This extensions adds blocks to help you create your own carnival games in MakeCode Arcade using throwable balls, extra timer functions, and extra game-over options.
 - [microsoft/arcade-tutorial-extensions](https://github.com/microsoft/arcade-tutorial-extensions) topic: pushed_at:2023-05 star:0.0k fork:0.0k A collection of extensions used in MakeCode Arcade tutorials and skillmaps
@@ -2391,7 +2389,7 @@
 - [microsoft/botbuilder-tools](https://github.com/microsoft/botbuilder-tools) topic:bot,bot-builder,bot-framework,bots,luis,luisai,microsoft-bot-framework,microsoft-cognitive-services,qnamaker pushed_at:2023-06 star:0.4k fork:0.3k Welcome to the Bot Framework Tools repository, which is the home for a set of tools for developers building bots with the Microsoft Bot Framework
 - [microsoft/botframework-sdk](https://github.com/microsoft/botframework-sdk) topic:azure-bot-service,bot,bot-builder,bot-framework,csharp,dotnetcore,java,javascript,microsoft-bot-framework,nodejs,python,sdk,typescript pushed_at:2024-05 star:7.5k fork:2.4k Bot Framework provides the most comprehensive experience for building conversation applications.
 - [microsoft/BotFunctionalTestingService](https://github.com/microsoft/BotFunctionalTestingService) topic: pushed_at:2024-04 star:0.0k fork:0.0k A service for end-to-end (functional) testing of a bot. Programmatically simulate a user’s back-and-forth conversation with a bot, to test whether the bot behaves as expected.
-- [microsoft/career-ai](https://github.com/microsoft/career-ai) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
+- [microsoft/career-ai](https://github.com/microsoft/career-ai) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/ccf-app-samples](https://github.com/microsoft/ccf-app-samples) topic: pushed_at:2024-07 star:0.0k fork:0.0k Sample applications for the Confidential Consortium Framework (CCF)
 - [microsoft/cdc-qna](https://github.com/microsoft/cdc-qna) topic: pushed_at:2020-03 star:0.0k fork:0.0k CDC QnA Maker model create/update CLI tool
 - [microsoft/CELA-OGC-Intelligent-Feedback](https://github.com/microsoft/CELA-OGC-Intelligent-Feedback) topic: pushed_at:2023-05 star:0.0k fork:0.0k Demonstrates augmenting unstructured feedback text with Azure Cognitive Services text analytics service. You can see a live demonstration of this project here: https://aka.ms/IntelligentFeedback.
@@ -2403,7 +2401,7 @@
 - [microsoft/configure-azure-appservice-private-npm-feed](https://github.com/microsoft/configure-azure-appservice-private-npm-feed) topic:appservice,npm,script pushed_at:2017-01 star:0.0k fork:0.0k Deployment configuration script enabling a private NPM feed with Azure App Service, including using Azure KeyVault to resolve a token to use the feed.
 - [microsoft/ContosoAir](https://github.com/microsoft/ContosoAir) topic: pushed_at:2020-02 star:0.1k fork:2.3k Source code repository for ContosoAir application 
 - [microsoft/ContosoTraders](https://github.com/microsoft/ContosoTraders) topic:acr,aks,appservice,architecture,azure,azurefunctions,cosmosdb,devops,dotnet,github,github-action,github-workflow,kubernetes,microservices,reactjs,serverless pushed_at:2024-03 star:0.0k fork:0.0k This is a repo for all of the demo assets for Contoso Traders, a fictional company that we have built infrastructure and resources for to help developers understand the capabilities of App Innovation products and services.
-- [microsoft/contosotraders-cloudtesting](https://github.com/microsoft/contosotraders-cloudtesting) topic:aks,azure,azure-chaos,azure-load-testing-service,azuread,azurecontainerapps,bicep,dotnet,github-actions,playwright,reactjs pushed_at:2024-07 star:0.2k fork:0.3k The Contoso Traders app is a sample application showcasing Playwright, Azure Load Testing, Azure Chaos Studio.
+- [microsoft/contosotraders-cloudtesting](https://github.com/microsoft/contosotraders-cloudtesting) topic:aks,azure,azure-chaos,azure-load-testing-service,azuread,azurecontainerapps,bicep,dotnet,github-actions,playwright,reactjs pushed_at:2024-08 star:0.2k fork:0.3k The Contoso Traders app is a sample application showcasing Playwright, Azure Load Testing, Azure Chaos Studio.
 - [microsoft/cookie.gulp](https://github.com/microsoft/cookie.gulp) topic: pushed_at:2023-07 star:0.0k fork:0.0k A tasty build utility basing on gulp.js.
 - [microsoft/copilot-pg](https://github.com/microsoft/copilot-pg) topic: pushed_at:2024-08 star:0.1k fork:0.0k A DBA copilot extension
 - [microsoft/cordova-plugin-indexedDB](https://github.com/microsoft/cordova-plugin-indexedDB) topic: pushed_at:2023-06 star:0.1k fork:0.0k Cordova plugin for IndexedDB
@@ -2411,8 +2409,8 @@
 - [microsoft/cordova-plugin-ms-appinsights](https://github.com/microsoft/cordova-plugin-ms-appinsights) topic: pushed_at:2019-08 star:0.0k fork:0.0k Cordova plugin for App Insights
 - [microsoft/cordova-plugin-vs-taco-support](https://github.com/microsoft/cordova-plugin-vs-taco-support) topic: pushed_at:2019-03 star:0.0k fork:0.0k The primary intent of this plugin is to resolve issues commonly associated with Cordova CLI-compliant apps checked into source control and adds features (res/native) to help developers avoid having to check in the "platforms" folder as this can cause problems particularly if different members of a developer team are on a combination of OSX, Windows, or Linux.
 - [microsoft/cordova-samples](https://github.com/microsoft/cordova-samples) topic: pushed_at:2019-09 star:0.3k fork:0.7k Visual Studio Tools for Apache Cordova - Sample Apps
-- [microsoft/CSA-Coaching-Tool](https://github.com/microsoft/CSA-Coaching-Tool) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
-- [microsoft/custom-monaco-copilot-demo](https://github.com/microsoft/custom-monaco-copilot-demo) topic: pushed_at:2024-06 star:0.0k fork:0.0k Sample of a custom copilot for Monaco-based web-IDEs
+- [microsoft/CSA-Coaching-Tool](https://github.com/microsoft/CSA-Coaching-Tool) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/custom-monaco-copilot-demo](https://github.com/microsoft/custom-monaco-copilot-demo) topic: pushed_at:2024-08 star:0.0k fork:0.0k Sample of a custom copilot for Monaco-based web-IDEs
 - [microsoft/customvision-tfjs](https://github.com/microsoft/customvision-tfjs) topic: pushed_at:2024-06 star:0.0k fork:0.0k NPM package for TensorFlow.js models exported from Custom Vision Service
 - [microsoft/customvision-tfjs-node](https://github.com/microsoft/customvision-tfjs-node) topic: pushed_at:2021-12 star:0.0k fork:0.0k Node.js library for TensorFlow.js models exported from Custom Vision Service
 - [microsoft/d365bcdv](https://github.com/microsoft/d365bcdv) topic: pushed_at:2023-12 star:0.0k fork:0.0k One-stop-shop for Dynamics 365 (D365) Business Central (BC) & Dataverse (DV) integration
@@ -2517,14 +2515,6 @@
 - [microsoft/Low-Code](https://github.com/microsoft/Low-Code) topic:30days,azure,cloud-skills,fusion-development,low-code,power-apps,power-automate,power-platform pushed_at:2024-03 star:0.2k fork:0.0k Website to showcase Low-Code content and community initiatives to help developers explore low code and fusion development with Microsoft Cloud and Developer Tools
 - [microsoft/m365-renovate-config](https://github.com/microsoft/m365-renovate-config) topic: pushed_at:2024-08 star:0.0k fork:0.0k Shared Renovate configuration for M365 projects
 - [microsoft/makecode-csp](https://github.com/microsoft/makecode-csp) topic:makecode pushed_at:2023-08 star:0.0k fork:0.0k Repository for Microsoft MakeCode Advanced Placement Computer Science Principles Curriculum
-- [microsoft/MCW-Big-data-analytics-and-visualization](https://github.com/microsoft/MCW-Big-data-analytics-and-visualization) topic:azure-data-factory,database-administrator,hdinsight,machine-learning,power-bi,spark-sql pushed_at:2022-07 star:0.2k fork:0.2k MCW Big data analytics and visualization
-- [microsoft/MCW-Business-continuity-and-disaster-recovery](https://github.com/microsoft/MCW-Business-continuity-and-disaster-recovery) topic: pushed_at:2020-12 star:0.1k fork:0.1k MCW Business continuity and disaster recovery
-- [microsoft/MCW-Intelligent-analytics](https://github.com/microsoft/MCW-Intelligent-analytics) topic: pushed_at:2021-09 star:0.0k fork:0.1k MCW Intelligent analytics
-- [microsoft/MCW-Microservices-architecture](https://github.com/microsoft/MCW-Microservices-architecture) topic:api-management,application-developer,azure,cosmosdb,functions,mcw,microservices,service-fabric pushed_at:2020-01 star:0.1k fork:0.1k MCW Microservices architecture
-- [microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL](https://github.com/microsoft/MCW-Migrating-Oracle-to-Azure-SQL-and-PostgreSQL) topic: pushed_at:2022-08 star:0.0k fork:0.1k MCW Migrating Oracle to Azure SQL and PostgreSQL
-- [microsoft/MCW-Modern-cloud-apps](https://github.com/microsoft/MCW-Modern-cloud-apps) topic:aad,api-management,app-insights,app-service,azure,azure-synapse-analytics,data-factory,logic-apps,mcw,on-premises,pci-dss,sql-data-warehouse,sql-database,vsts pushed_at:2022-07 star:0.1k fork:0.1k MCW Modern cloud apps
-- [microsoft/MCW-OSS-PaaS-and-DevOps](https://github.com/microsoft/MCW-OSS-PaaS-and-DevOps) topic:aad,app-service-linux,azure-container-registry,ci-cd,cicd,containers,cosmos-db,cosmosdb,devops,docker,functions,jenkins,logic-apps,mern,mern-stack,paas,vsts,web-app-for-containers pushed_at:2020-12 star:0.1k fork:0.3k MCW OSS PaaS and DevOps
-- [microsoft/MCW-Security-baseline-on-Azure](https://github.com/microsoft/MCW-Security-baseline-on-Azure) topic: pushed_at:2021-06 star:0.1k fork:0.1k MCW Security baseline on Azure
 - [microsoft/Media-App-Samples-for-Xbox](https://github.com/microsoft/Media-App-Samples-for-Xbox) topic: pushed_at:2024-06 star:0.0k fork:0.0k Sample apps showing how to build music and video apps for Xbox using a WebView.
 - [microsoft/Mezzurite](https://github.com/microsoft/Mezzurite) topic: pushed_at:2020-09 star:0.1k fork:0.0k Your components, timed.
 - [microsoft/Mezzurite-DevTools](https://github.com/microsoft/Mezzurite-DevTools) topic:chrome-extension pushed_at:2020-12 star:0.0k fork:0.0k A Chrome extension for debugging and understanding Mezzurite
@@ -2534,7 +2524,7 @@
 - [microsoft/minecraft-gametests](https://github.com/microsoft/minecraft-gametests) topic: pushed_at:2024-06 star:0.1k fork:0.0k Sample GameTests for Minecraft Bedrock Edition.
 - [microsoft/mixed-reality-extension-sdk-samples](https://github.com/microsoft/mixed-reality-extension-sdk-samples) topic:altspacevr,mixed,node,reality,samples,sdk,typescript,vr pushed_at:2022-04 star:0.1k fork:0.1k Sample code for the Mixed Reality Extension SDK (https://github.com/Microsoft/mixed-reality-extension-sdk)
 - [microsoft/MobileTrendVis](https://github.com/microsoft/MobileTrendVis) topic: pushed_at:2024-06 star:0.0k fork:0.0k Source code for an experiment about bubble charts on mobile phones
-- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) topic:browser,editor,monaco-editor,typescript,vscode pushed_at:2024-08 star:39.5k fork:3.5k A browser based code editor
+- [microsoft/monaco-editor](https://github.com/microsoft/monaco-editor) topic:browser,editor,monaco-editor,typescript,vscode pushed_at:2024-08 star:39.7k fork:3.5k A browser based code editor
 - [microsoft/Monorepo-Scripts](https://github.com/microsoft/Monorepo-Scripts) topic: pushed_at:2022-05 star:0.0k fork:0.0k These are scripts to perform actions/read package.jsons in a monorepo. 
 - [microsoft/Moodle-Teams-Bot](https://github.com/microsoft/Moodle-Teams-Bot) topic: pushed_at:2023-06 star:0.0k fork:0.0k The Moodle Assistant Bot helps teachers and students answer questions about their Moodle assignments and courses while keeping them updated with notifications -- right within Teams.
 - [microsoft/mouselog](https://github.com/microsoft/mouselog) topic:mouse-tracker,mouse-tracking,mouselog pushed_at:2023-03 star:0.3k fork:0.0k 🐾 A web-based tool for logging, visualizing and analyzing mouse events like movement and clicks. 
@@ -2615,13 +2605,12 @@
 - [microsoft/refreshing-config](https://github.com/microsoft/refreshing-config) topic: pushed_at:2021-05 star:0.0k fork:0.0k Configuration library that can dynamically refresh configuration values
 - [microsoft/refreshing-config-redis](https://github.com/microsoft/refreshing-config-redis) topic: pushed_at:2017-03 star:0.0k fork:0.0k Redis extension for the refreshing-config library
 - [microsoft/repo-templates](https://github.com/microsoft/repo-templates) topic: pushed_at:2024-05 star:0.1k fork:0.1k Default templates for Microsoft repos across all GitHub organizations: helping providing for collaborative communities, SECURITY.MD, Code of Conduct, and other files...
-- [microsoft/rfp-resume-builder](https://github.com/microsoft/rfp-resume-builder) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/rush-example](https://github.com/microsoft/rush-example) topic:rushstack pushed_at:2024-07 star:0.1k fork:0.1k Illustrates a sample monorepo configuration for use with the Rush tool
-- [microsoft/rust-for-dotnet-devs](https://github.com/microsoft/rust-for-dotnet-devs) topic:book,csharp,dotnet,rust pushed_at:2024-06 star:0.3k fork:0.0k Rust for C#/.NET Developers
+- [microsoft/rust-for-dotnet-devs](https://github.com/microsoft/rust-for-dotnet-devs) topic:book,csharp,dotnet,rust pushed_at:2024-08 star:0.3k fork:0.1k Rust for C#/.NET Developers
 - [microsoft/sails-hook-federalist-ms](https://github.com/microsoft/sails-hook-federalist-ms) topic: pushed_at:2022-11 star:0.0k fork:0.0k Sails.js installable hook for Federalist (https://github.com/18f/federalist) to support Windows and Microsoft Azure.
 - [microsoft/sarif-js-sdk](https://github.com/microsoft/sarif-js-sdk) topic: pushed_at:2024-05 star:0.0k fork:0.0k JavaScript code and supporting files for working with the 'Static Analysis Results Interchange Format' (SARIF, see https://github.com/oasis-tcs/sarif-spec)
 - [microsoft/sarif-website](https://github.com/microsoft/sarif-website) topic: pushed_at:2024-03 star:0.0k fork:0.0k SARIF web assets, including web controls, public site, etc.
-- [microsoft/security-devops-action](https://github.com/microsoft/security-devops-action) topic:devops,microsoft,security pushed_at:2024-07 star:0.1k fork:0.0k Microsoft Security DevOps for GitHub Actions.
+- [microsoft/security-devops-action](https://github.com/microsoft/security-devops-action) topic:devops,microsoft,security pushed_at:2024-08 star:0.1k fork:0.0k Microsoft Security DevOps for GitHub Actions.
 - [microsoft/semver-umd](https://github.com/microsoft/semver-umd) topic: pushed_at:2023-01 star:0.0k fork:0.0k Semver as UMD module
 - [microsoft/setup-msstore-cli](https://github.com/microsoft/setup-msstore-cli) topic: pushed_at:2024-08 star:0.0k fork:0.0k A GitHub Action to facilitate configuring MSStoreCLI in the workflow PATH.
 - [microsoft/shelljs](https://github.com/microsoft/shelljs) topic: pushed_at:2016-01 star:0.0k fork:0.0k Portable Unix shell commands for Node.js
@@ -2653,15 +2642,15 @@
 - [microsoft/typescript-bot-test-triggerer](https://github.com/microsoft/typescript-bot-test-triggerer) topic: pushed_at:2024-08 star:0.0k fork:0.0k A quick azure function for reading comments on the TypeScript repo and then doing things like running tests
 - [microsoft/TypeScript-Compiler-Notes](https://github.com/microsoft/TypeScript-Compiler-Notes) topic: pushed_at:2023-06 star:0.6k fork:0.0k A repo containing notes about the TypeScript Compiler codebase
 - [microsoft/TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) topic:documentation,learn,typescript,typescript-handbook pushed_at:2020-08 star:4.9k fork:1.1k Deprecated, please use the TypeScript-Website repo instead
-- [microsoft/TypeScript-Make-Monaco-Builds](https://github.com/microsoft/TypeScript-Make-Monaco-Builds) topic: pushed_at:2024-07 star:0.0k fork:0.0k Creates CDN Versions of Monaco and Monaco TypeScript for TypeScript web infra
+- [microsoft/TypeScript-Make-Monaco-Builds](https://github.com/microsoft/TypeScript-Make-Monaco-Builds) topic: pushed_at:2024-08 star:0.0k fork:0.0k Creates CDN Versions of Monaco and Monaco TypeScript for TypeScript web infra
 - [microsoft/TypeScript-React-Conversion-Guide](https://github.com/microsoft/TypeScript-React-Conversion-Guide) topic: pushed_at:2021-02 star:1.4k fork:0.2k A guide for converting a simple JavaScript/React project to TypeScript. Contains both before an after code with the step-by-step process in the README below.
 - [microsoft/TypeScript-Release-Deploy-Perf-Info](https://github.com/microsoft/TypeScript-Release-Deploy-Perf-Info) topic: pushed_at:2023-04 star:0.0k fork:0.0k Take some commits of the TypeScript compiler, and figure out their relative performances
-- [microsoft/typescript-server-replay](https://github.com/microsoft/typescript-server-replay) topic: pushed_at:2023-03 star:0.0k fork:0.0k Tool for replaying TypeScript server requests from a file in order to reproduce bugs.
+- [microsoft/typescript-server-replay](https://github.com/microsoft/typescript-server-replay) topic: pushed_at:2024-08 star:0.0k fork:0.0k Tool for replaying TypeScript server requests from a file in order to reproduce bugs.
 - [microsoft/typescript-styled-plugin](https://github.com/microsoft/typescript-styled-plugin) topic: pushed_at:2023-04 star:0.8k fork:0.1k TypeScript server plugin that adds intellisense to styled component css strings
 - [microsoft/TypeScript-Sublime-Plugin](https://github.com/microsoft/TypeScript-Sublime-Plugin) topic: pushed_at:2023-03 star:1.7k fork:0.2k IO wrapper around TypeScript language services, allowing for easy consumption by editor plugins
 - [microsoft/TypeScript-Vue-Starter](https://github.com/microsoft/TypeScript-Vue-Starter) topic: pushed_at:2019-10 star:4.4k fork:0.6k A starter template for TypeScript and Vue with a detailed README describing how to use the two together.
 - [microsoft/TypeScript-Website-Localizations](https://github.com/microsoft/TypeScript-Website-Localizations) topic: pushed_at:2024-07 star:0.1k fork:0.1k A repo for the TypeScript Website localizations
-- [microsoft/TypeScript-wiki](https://github.com/microsoft/TypeScript-wiki) topic: pushed_at:2024-07 star:0.7k fork:0.3k A repository to make changes to the TypeScript Wiki on GitHub
+- [microsoft/TypeScript-wiki](https://github.com/microsoft/TypeScript-wiki) topic: pushed_at:2024-08 star:0.7k fork:0.3k A repository to make changes to the TypeScript Wiki on GitHub
 - [microsoft/uf2](https://github.com/microsoft/uf2) topic:bootloader,makecode,uf2 pushed_at:2024-08 star:0.8k fork:0.2k UF2 file format specification
 - [microsoft/Universal-Language-Intelligence-Service](https://github.com/microsoft/Universal-Language-Intelligence-Service) topic: pushed_at:2018-02 star:0.0k fork:0.0k A wrapper for the microsoft luis cognitive that provides universal language support (after training) using the translate cognitive service
 - [microsoft/uprove-javascript-sdk](https://github.com/microsoft/uprove-javascript-sdk) topic: pushed_at:2021-04 star:0.0k fork:0.0k The U-Prove JavaScript SDK implements the client-side of the U-Prove Cryptographic Specification, and is a companion to the U-Prove C# SDK. It can be used to write web clients interacting with U-Prove services. For more information about the U-Prove technology, please visit http://www.microsoft.com/uprove.
@@ -2670,19 +2659,19 @@
 - [microsoft/vscode-anycode](https://github.com/microsoft/vscode-anycode) topic: pushed_at:2024-06 star:0.3k fork:0.0k 
 - [microsoft/vscode-appcenter](https://github.com/microsoft/vscode-appcenter) topic: pushed_at:2020-12 star:0.0k fork:0.0k App Center extension for VS Code
 - [microsoft/vscode-atom-keybindings](https://github.com/microsoft/vscode-atom-keybindings) topic: pushed_at:2024-04 star:0.1k fork:0.1k Port of Atom Keybindings for VS Code. 
-- [microsoft/vscode-custom-data](https://github.com/microsoft/vscode-custom-data) topic: pushed_at:2024-07 star:0.2k fork:0.1k Documentation and sample for using VS Code custom data format
+- [microsoft/vscode-custom-data](https://github.com/microsoft/vscode-custom-data) topic: pushed_at:2024-08 star:0.2k fork:0.1k Documentation and sample for using VS Code custom data format
 - [microsoft/vscode-dev-chrome-launcher](https://github.com/microsoft/vscode-dev-chrome-launcher) topic: pushed_at:2024-02 star:0.0k fork:0.0k Type `code` in your browser to open GitHub repositories in vscode.dev
 - [microsoft/vscode-dts](https://github.com/microsoft/vscode-dts) topic: pushed_at:2024-08 star:0.0k fork:0.0k CLI utility for downloading vscode.d.ts and vscode.proposed.d.ts
 - [microsoft/vscode-dwarf-debugging-ext](https://github.com/microsoft/vscode-dwarf-debugging-ext) topic: pushed_at:2024-06 star:0.0k fork:0.0k Enhanced WebAssembly debugging in VS Code
 - [microsoft/vscode-extension-vscode](https://github.com/microsoft/vscode-extension-vscode) topic: pushed_at:2020-04 star:0.1k fork:0.1k The vscode NPM module. Deprecated in favor of @types/vscode and vscode-test.
-- [microsoft/vscode-generator-code](https://github.com/microsoft/vscode-generator-code) topic: pushed_at:2024-07 star:1.3k fork:0.2k Visual Studio Code extension generator
+- [microsoft/vscode-generator-code](https://github.com/microsoft/vscode-generator-code) topic: pushed_at:2024-08 star:1.3k fork:0.2k Visual Studio Code extension generator
 - [microsoft/vscode-generator-code-javascript](https://github.com/microsoft/vscode-generator-code-javascript) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/vscode-grammar-updater](https://github.com/microsoft/vscode-grammar-updater) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [microsoft/vscode-gulp-electron](https://github.com/microsoft/vscode-gulp-electron) topic: pushed_at:2024-07 star:0.0k fork:0.0k Gulp plugin for packaging Electron into VS Code
 - [microsoft/vscode-iconv-lite-umd](https://github.com/microsoft/vscode-iconv-lite-umd) topic: pushed_at:2023-11 star:0.0k fork:0.0k A UMD version of iconv-lite to be used in VSCode.
 - [microsoft/vscode-js-atom-grammar](https://github.com/microsoft/vscode-js-atom-grammar) topic: pushed_at:2023-06 star:0.0k fork:0.0k VS code extension that adds the Atom JavaScript grammar
-- [microsoft/vscode-jupyter-ipywidgets](https://github.com/microsoft/vscode-jupyter-ipywidgets) topic: pushed_at:2024-07 star:0.0k fork:0.0k NPM module for supporting ipywidgets in vscode-jupyter extension
-- [microsoft/vscode-loader](https://github.com/microsoft/vscode-loader) topic: pushed_at:2024-05 star:0.2k fork:0.1k An universal Asynchronous Module Definition (AMD) Loader developed primarily to load VSCode's sources.
+- [microsoft/vscode-jupyter-ipywidgets](https://github.com/microsoft/vscode-jupyter-ipywidgets) topic: pushed_at:2024-08 star:0.0k fork:0.0k NPM module for supporting ipywidgets in vscode-jupyter extension
+- [microsoft/vscode-loader](https://github.com/microsoft/vscode-loader) topic: pushed_at:2024-08 star:0.2k fork:0.1k An universal Asynchronous Module Definition (AMD) Loader developed primarily to load VSCode's sources.
 - [microsoft/vscode-markdown-tm-grammar](https://github.com/microsoft/vscode-markdown-tm-grammar) topic: pushed_at:2024-07 star:0.1k fork:0.1k VS Code built-in markdown extension's Textmate grammar
 - [microsoft/vscode-minimist](https://github.com/microsoft/vscode-minimist) topic: pushed_at:2019-11 star:0.0k fork:0.0k parse argument options
 - [microsoft/vscode-notepadplusplus-keybindings](https://github.com/microsoft/vscode-notepadplusplus-keybindings) topic: pushed_at:2024-03 star:0.0k fork:0.0k Notepad++ Keybindings extension for VS Code
@@ -2694,7 +2683,7 @@
 - [microsoft/vscode-samples](https://github.com/microsoft/vscode-samples) topic: pushed_at:2017-11 star:0.2k fork:0.1k VS Code Samples
 - [microsoft/vscode-smoketest-express](https://github.com/microsoft/vscode-smoketest-express) topic: pushed_at:2024-04 star:0.0k fork:0.0k VS Code Smoke Test repository
 - [microsoft/vscode-themes](https://github.com/microsoft/vscode-themes) topic: pushed_at:2023-06 star:0.1k fork:0.0k A repo used for the theme kits
-- [microsoft/vscode-typescript-next](https://github.com/microsoft/vscode-typescript-next) topic: pushed_at:2024-08 star:0.2k fork:0.0k Enables typescript@next as VS Code's built-in TypeScript version
+- [microsoft/vscode-typescript-next](https://github.com/microsoft/vscode-typescript-next) topic: pushed_at:2024-09 star:0.2k fork:0.0k Enables typescript@next as VS Code's built-in TypeScript version
 - [microsoft/vscode-zeromq](https://github.com/microsoft/vscode-zeromq) topic: pushed_at:2024-04 star:0.0k fork:0.0k For consuming the zeromq binary from microsoft/zeromq-prebuilt in a Node project
 - [microsoft/vscodespaces-quickstart](https://github.com/microsoft/vscodespaces-quickstart) topic: pushed_at:2020-10 star:0.0k fork:0.0k A simple Node.js app to support Visual Studio Codespaces quickstart documentation.
 - [microsoft/vsts-cordova-tasks](https://github.com/microsoft/vsts-cordova-tasks) topic: pushed_at:2019-03 star:0.0k fork:0.0k Streamline CI setup for your Apache Cordova, PhoneGap, Ionic, or Cordova CLI compatible app using a set of useful pre-defined build steps for VS Team Services or TFS
@@ -2706,7 +2695,7 @@
 - [microsoft/vsts-zendesk-app](https://github.com/microsoft/vsts-zendesk-app) topic: pushed_at:2023-07 star:0.0k fork:0.0k Visual Studio Team Services App for Zendesk
 - [microsoft/wcf-docker-samples](https://github.com/microsoft/wcf-docker-samples) topic: pushed_at:2022-08 star:0.0k fork:0.0k Samples for WCF Docker.
 - [microsoft/web-attestation-sample](https://github.com/microsoft/web-attestation-sample) topic: pushed_at:2023-07 star:0.0k fork:0.0k Sample application for user-centric web attestations
-- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) topic:css,curriculum,education,html,javascript,learning,tutorials pushed_at:2024-07 star:82.6k fork:12.3k 24 Lessons, 12 Weeks, Get Started as a Web Developer
+- [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) topic:css,curriculum,education,html,javascript,learning,tutorials pushed_at:2024-08 star:82.8k fork:12.3k 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [microsoft/webauthntest](https://github.com/microsoft/webauthntest) topic:fido2,passkey,passkeys,webauthn pushed_at:2024-07 star:0.0k fork:0.0k WebAuthn Test Site
 - [microsoft/webnn-developer-preview](https://github.com/microsoft/webnn-developer-preview) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/Windows-AppConsult-samples-PWA](https://github.com/microsoft/Windows-AppConsult-samples-PWA) topic: pushed_at:2024-01 star:0.0k fork:0.1k Progressive Web App sample code
@@ -2714,7 +2703,7 @@
 - [microsoft/Windows-appsample-get-started-js3d](https://github.com/microsoft/Windows-appsample-get-started-js3d) topic: pushed_at:2022-11 star:0.0k fork:0.0k three.js UWP dinosaur game sample
 - [microsoft/Windows-Containers-Tutorials](https://github.com/microsoft/Windows-Containers-Tutorials) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
 - [microsoft/Windows-tutorials-web](https://github.com/microsoft/Windows-tutorials-web) topic: pushed_at:2023-06 star:0.0k fork:0.1k Provides code that supports Windows developer tutorials for web technologies.
-- [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) topic: pushed_at:2024-07 star:9.5k fork:8.0k API samples for the Universal Windows Platform.
+- [microsoft/Windows-universal-samples](https://github.com/microsoft/Windows-universal-samples) topic: pushed_at:2024-08 star:9.5k fork:8.0k API samples for the Universal Windows Platform.
 - [microsoft/WindowsRuntimeAPIs_Javascript_snippets](https://github.com/microsoft/WindowsRuntimeAPIs_Javascript_snippets) topic: pushed_at:2023-06 star:0.0k fork:0.0k Code snippets for basic Windows Runtime APIs
 - [microsoft/WingTipTickets](https://github.com/microsoft/WingTipTickets) topic: pushed_at:2023-07 star:0.1k fork:0.0k Azure SQL Database WingTipTickets demo and hands on lab
 - [microsoft/winstore-jscompat](https://github.com/microsoft/winstore-jscompat) topic: pushed_at:2016-06 star:0.1k fork:0.1k JavaScript Dynamic Content shim for Windows Store apps
@@ -2725,7 +2714,7 @@
 - [microsoft/xblock-azure-media-services](https://github.com/microsoft/xblock-azure-media-services) topic: pushed_at:2023-06 star:0.0k fork:0.0k xblock-azure-media-services
 - [microsoft/xbox-live-samples](https://github.com/microsoft/xbox-live-samples) topic: pushed_at:2023-06 star:0.1k fork:0.1k This repo contains the samples that demonstrate the API usage patterns for Microsoft Xbox Live Service. These code samples target the Universal Windows Platform (UWP) and Xbox One XDK. To get access to the Xbox Live service, you can join the Xbox Live Creators Program at https://aka.ms/xblcp, or apply to the ID@Xbox program at http://www.xbox.com/en-us/Developers/id
 - [microsoft/XGLUE](https://github.com/microsoft/XGLUE) topic: pushed_at:2023-06 star:0.0k fork:0.0k Cross-lingual GLUE
-- [microsoft/z3guide](https://github.com/microsoft/z3guide) topic: pushed_at:2024-07 star:0.1k fork:0.0k Tutorials and courses for Z3
+- [microsoft/z3guide](https://github.com/microsoft/z3guide) topic: pushed_at:2024-08 star:0.1k fork:0.0k Tutorials and courses for Z3
 - [microsoft/zeromq-prebuilt](https://github.com/microsoft/zeromq-prebuilt) topic: pushed_at:2024-08 star:0.0k fork:0.0k Builds zeromq.js on Azure Pipelines for multiple platforms and makes the binaries available as Github releases
 - [microsoft/ztlabguide](https://github.com/microsoft/ztlabguide) topic: pushed_at:2024-07 star:0.0k fork:0.0k Repository to host Zero Trust Lab Guide docs
 
@@ -2743,7 +2732,7 @@
 - [microsoft/MPNODE.jl](https://github.com/microsoft/MPNODE.jl) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [microsoft/Nclusion.jl](https://github.com/microsoft/Nclusion.jl) topic:clustering,genomics,rna-seq,single-cell,single-cell-genomics,single-cell-rna-seq pushed_at:2024-02 star:0.0k fork:0.0k Scalable nonparametric clustering with unified marker gene selection for single-cell RNA-seq data
 - [microsoft/OpticSim.jl](https://github.com/microsoft/OpticSim.jl) topic:julia,optical,optics,raytracing,simulation pushed_at:2022-10 star:0.4k fork:0.0k Optical Simulation software
-- [microsoft/SAIMOpt.jl](https://github.com/microsoft/SAIMOpt.jl) topic: pushed_at:2024-08 star:0.0k fork:0.0k Julia back-end for using the AOC/AIM optimization service
+- [microsoft/SAIMOpt.jl](https://github.com/microsoft/SAIMOpt.jl) topic: pushed_at:2024-09 star:0.0k fork:0.0k Julia back-end for using the AOC/AIM optimization service
 - [microsoft/SingleSecurityForCashDemo](https://github.com/microsoft/SingleSecurityForCashDemo) topic: pushed_at:2023-12 star:0.0k fork:0.0k Example optimization for simple transaction settlement problems
 
 ## Jupyter Notebook
@@ -2756,7 +2745,7 @@
 - [microsoft/adaptive-testing](https://github.com/microsoft/adaptive-testing) topic: pushed_at:2024-05 star:0.2k fork:0.0k Find and fix bugs in natural language machine learning models using adaptive testing.
 - [microsoft/ado-ml-batch-train](https://github.com/microsoft/ado-ml-batch-train) topic: pushed_at:2020-01 star:0.0k fork:0.0k 
 - [microsoft/aed-content-nasa-su20](https://github.com/microsoft/aed-content-nasa-su20) topic: pushed_at:2020-12 star:0.0k fork:0.0k This is the beta content for the learn modules that we are creating for NASA for 2020 internship
-- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) topic:ai,artificial-intelligence,cnn,computer-vision,deep-learning,gan,machine-learning,nlp,rnn pushed_at:2024-08 star:33.7k fork:5.6k 12 Weeks, 24 Lessons, AI for All!
+- [microsoft/AI-For-Beginners](https://github.com/microsoft/AI-For-Beginners) topic:ai,artificial-intelligence,cnn,computer-vision,deep-learning,gan,machine-learning,nlp,rnn pushed_at:2024-08 star:33.9k fork:5.6k 12 Weeks, 24 Lessons, AI for All!
 - [microsoft/ai-freezer-monitor](https://github.com/microsoft/ai-freezer-monitor) topic: pushed_at:2021-01 star:0.0k fork:0.0k ESP32 Temperature monitor designed to work in ULT freezers.
 - [microsoft/AI-Immersion-Workshop](https://github.com/microsoft/AI-Immersion-Workshop) topic: pushed_at:2017-09 star:0.1k fork:0.0k Workshop materials from the AI Immersion Workshop, for attendees to access and use
 - [microsoft/ai-notebooks](https://github.com/microsoft/ai-notebooks) topic: pushed_at:2022-02 star:0.0k fork:0.0k 
@@ -2764,6 +2753,10 @@
 - [microsoft/ai4eutils](https://github.com/microsoft/ai4eutils) topic:aiforearth pushed_at:2024-07 star:0.0k fork:0.0k Shared utility scripts for AI for Earth projects and team members
 - [microsoft/AIforEarth-API-Development](https://github.com/microsoft/AIforEarth-API-Development) topic:aiforearth pushed_at:2023-01 star:0.1k fork:0.0k This is an API Framework for AI models to be hosted locally or on the AI for Earth API Platform (https://github.com/microsoft/AIforEarth-API-Platform).
 - [microsoft/AIforEarthDataSets](https://github.com/microsoft/AIforEarthDataSets) topic:aiforearth pushed_at:2024-07 star:0.3k fork:0.0k Notebooks and documentation for AI-for-Earth-managed datasets on Azure
+- [microsoft/aitour-azure-openai-assistants](https://github.com/microsoft/aitour-azure-openai-assistants) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-concept-to-creation-ai-studio](https://github.com/microsoft/aitour-concept-to-creation-ai-studio) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-generative-ai-in-azure](https://github.com/microsoft/aitour-generative-ai-in-azure) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-operate-ai-responsibly-with-ai-studio](https://github.com/microsoft/aitour-operate-ai-responsibly-with-ai-studio) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/Akoustos](https://github.com/microsoft/Akoustos) topic: pushed_at:2023-07 star:0.0k fork:0.0k Bioacoustics platform
 - [microsoft/AKSDeploymentTutorial](https://github.com/microsoft/AKSDeploymentTutorial) topic:deep-learning,flask,gpu,kubernetes,python,tensorflow pushed_at:2019-02 star:0.1k fork:0.1k Tutorial on how to deploy Deep Learning models on GPU enabled Kubernetes cluster
 - [microsoft/AML_Interpret_usecases](https://github.com/microsoft/AML_Interpret_usecases) topic: pushed_at:2020-11 star:0.0k fork:0.0k AML Interpret usecases demo
@@ -2778,7 +2771,7 @@
 - [microsoft/auto-github-docs-generator](https://github.com/microsoft/auto-github-docs-generator) topic: pushed_at:2023-07 star:0.0k fork:0.0k Automatically generate github documentation with readthedocs using your openai endpoint
 - [microsoft/Auto-Validate-by-History](https://github.com/microsoft/Auto-Validate-by-History) topic: pushed_at:2024-02 star:0.0k fork:0.0k 
 - [microsoft/AutoBrewML](https://github.com/microsoft/AutoBrewML) topic:anomaly-detection,azure-automl,cleansing-data,data-science,datavisualization,machine-learning,microsoft,nlp-machine-learning,responsible-ml,sampling-strategies,text-analysis,text-classification,text-summarization pushed_at:2023-08 star:0.0k fork:0.0k With AutoBrewML Framework the time it takes to get production-ready ML models with great ease and efficiency highly accelerates. 
-- [microsoft/autogen](https://github.com/microsoft/autogen) topic:agent-based-framework,agent-oriented-programming,agentic,agentic-agi,chat,chat-application,chatbot,chatgpt,gpt,gpt-35-turbo,gpt-4,llm-agent,llm-framework,llm-inference,llmops pushed_at:2024-08 star:29.7k fork:4.3k A programming framework for agentic AI. Discord: https://aka.ms/autogen-dc. Roadmap: https://aka.ms/autogen-roadmap
+- [microsoft/autogen](https://github.com/microsoft/autogen) topic:agent-based-framework,agent-oriented-programming,agentic,agentic-agi,chat,chat-application,chatbot,chatgpt,gpt,gpt-35-turbo,gpt-4,llm-agent,llm-framework,llm-inference,llmops pushed_at:2024-08 star:30.2k fork:4.4k A programming framework for agentic AI 🤖
 - [microsoft/AutonomousDrivingCookbook](https://github.com/microsoft/AutonomousDrivingCookbook) topic:airsim,autonomous-driving,autonomous-driving-cookbook,autonomous-vehicles,car,cntk,deep-learning,keras,microsoft,microsoft-garage,robotics,self-driving-car,simulation,tensorflow,tutorial pushed_at:2023-06 star:2.3k fork:0.6k Scenarios, tutorials and demos for Autonomous Driving
 - [microsoft/az-deep-batch-score](https://github.com/microsoft/az-deep-batch-score) topic:azureml pushed_at:2020-03 star:0.0k fork:0.0k Batch scoring deep learning models with AML
 - [microsoft/az-deep-realtime-score](https://github.com/microsoft/az-deep-realtime-score) topic:azureml,deep,deep-learning,gpu,kubernetes pushed_at:2020-03 star:0.0k fork:0.0k AKS Deployment Tutorial
@@ -2787,6 +2780,7 @@
 - [microsoft/az-oai-chatgpt-streamlit-harness](https://github.com/microsoft/az-oai-chatgpt-streamlit-harness) topic:azure,azure-openai-service,chatgpt,openai,python,sample,streamlit pushed_at:2023-09 star:0.0k fork:0.0k A fully python based Streamlit development harness for ChatGPT hosted in Azure OpenAI Service.
 - [microsoft/az-sas-batch-scoring](https://github.com/microsoft/az-sas-batch-scoring) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
 - [microsoft/AZ302_Eisenzimmer_2-14_SMCSTS](https://github.com/microsoft/AZ302_Eisenzimmer_2-14_SMCSTS) topic: pushed_at:2024-02 star:0.0k fork:0.0k Materials for AZ302 SMCSTS
+- [microsoft/Azure-AI-Contents-Generation](https://github.com/microsoft/Azure-AI-Contents-Generation) topic: pushed_at:2024-08 star:0.0k fork:0.0k Sample code for Contents generation by using Azure AI Services
 - [microsoft/azure-ai-hands-on-training](https://github.com/microsoft/azure-ai-hands-on-training) topic: pushed_at:2020-10 star:0.0k fork:0.0k Materials & References for the Azure AI Hands-On Training
 - [microsoft/Azure-Analytics-and-AI-Engagement](https://github.com/microsoft/Azure-Analytics-and-AI-Engagement) topic: pushed_at:2024-08 star:0.1k fork:0.1k Azure Analytics and AI Engagement
 - [microsoft/Azure-Datahub-Solution-Accelerator-for-Government-Recovery-Programs](https://github.com/microsoft/Azure-Datahub-Solution-Accelerator-for-Government-Recovery-Programs) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
@@ -2810,7 +2804,7 @@
 - [microsoft/banknote-net](https://github.com/microsoft/banknote-net) topic: pushed_at:2023-12 star:0.0k fork:0.0k BankNote-Net: Open dataset and encoder model for assistive currency recognition
 - [microsoft/batch-effects-normalization](https://github.com/microsoft/batch-effects-normalization) topic: pushed_at:2023-08 star:0.0k fork:0.0k 
 - [microsoft/BatchPrompt](https://github.com/microsoft/BatchPrompt) topic: pushed_at:2024-05 star:0.0k fork:0.0k BatchPrompt: Accomplish more with less (paper link: https://arxiv.org/pdf/2309.00384.pdf)
-- [microsoft/BatteryML](https://github.com/microsoft/BatteryML) topic: pushed_at:2024-07 star:0.5k fork:0.1k 
+- [microsoft/BatteryML](https://github.com/microsoft/BatteryML) topic: pushed_at:2024-08 star:0.5k fork:0.1k 
 - [microsoft/bird-acoustics-rcnn](https://github.com/microsoft/bird-acoustics-rcnn) topic: pushed_at:2024-06 star:0.0k fork:0.0k We present a deep learning approach towards the large-scale prediction and analysis of bird acoustics from 100 different bird species
 - [microsoft/Blob-Inventory-Report-Analytics](https://github.com/microsoft/Blob-Inventory-Report-Analytics) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
 - [microsoft/blue-whale-acoustics](https://github.com/microsoft/blue-whale-acoustics) topic: pushed_at:2023-07 star:0.0k fork:0.0k The goal of this project is to use audio recordings and correpsonding annotations to build an automatic classifier for calls from 4 different species of blue whales, and to estimate the total number of calls from each population in the audio recordings.
@@ -2822,7 +2816,7 @@
 - [microsoft/building-damage-assessment-cnn-siamese](https://github.com/microsoft/building-damage-assessment-cnn-siamese) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [microsoft/c9-dev-intro-data-science](https://github.com/microsoft/c9-dev-intro-data-science) topic: pushed_at:2020-10 star:0.1k fork:0.0k Sample code for Channel 9 Python for Beginners course
 - [microsoft/c9-python-getting-started](https://github.com/microsoft/c9-python-getting-started) topic: pushed_at:2023-05 star:7.8k fork:2.2k Sample code for Channel 9 Python for Beginners course
-- [microsoft/CameraTraps](https://github.com/microsoft/CameraTraps) topic:camera-traps,computer-vision,conservation,machine-learning,megadetector,pytorch,pytorch-wildlife,wildlife pushed_at:2024-07 star:0.7k fork:0.2k PyTorch Wildlife: a Collaborative Deep Learning Framework for Conservation.
+- [microsoft/CameraTraps](https://github.com/microsoft/CameraTraps) topic:camera-traps,computer-vision,conservation,machine-learning,megadetector,pytorch,pytorch-wildlife,wildlife pushed_at:2024-08 star:0.7k fork:0.2k PyTorch Wildlife: a Collaborative Deep Learning Framework for Conservation.
 - [microsoft/Carbon-Insight](https://github.com/microsoft/Carbon-Insight) topic:carbon,jupyter,powerbi,sustainability pushed_at:2022-08 star:0.0k fork:0.0k A platform to display the carbon neutralization information for researchers, decision-makers, and other participants in the community. 
 - [microsoft/causal-impact-long-covid](https://github.com/microsoft/causal-impact-long-covid) topic: pushed_at:2022-08 star:0.0k fork:0.0k Code supplementing AI for Good Lab's work on long COVID sequelae using EHR data
 - [microsoft/CBM](https://github.com/microsoft/CBM) topic: pushed_at:2023-08 star:0.1k fork:0.0k Cyclic Boosting Machines - an explainable supervised machine learning algorithm
@@ -2839,12 +2833,12 @@
 - [microsoft/computervision-recipes](https://github.com/microsoft/computervision-recipes) topic:artificial-intelligence,azure,computer-vision,convolutional-neural-networks,data-science,deep-learning,image-classification,image-processing,jupyter-notebook,kubernetes,machine-learning,microsoft,object-detection,operationalization,python,similarity,tutorial pushed_at:2024-02 star:9.4k fork:1.2k Best Practices, code samples, and documentation for Computer Vision.
 - [microsoft/ConstrainedReasoner](https://github.com/microsoft/ConstrainedReasoner) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/csrobust](https://github.com/microsoft/csrobust) topic: pushed_at:2023-07 star:0.0k fork:0.0k Robust confidence sequences 
-- [microsoft/CyberBattleSim](https://github.com/microsoft/CyberBattleSim) topic: pushed_at:2024-08 star:1.6k fork:0.3k An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments.
+- [microsoft/CyberBattleSim](https://github.com/microsoft/CyberBattleSim) topic: pushed_at:2024-08 star:1.7k fork:0.3k An experimentation and research platform to investigate the interaction of automated agents in an abstract simulated network environments.
 - [microsoft/Data-and-AI-Strategy-Platform](https://github.com/microsoft/Data-and-AI-Strategy-Platform) topic:adf,ai-search-deploy,data-platform-tooling,databricks-deploy,datastrategy,microsoft,microsoft-purview-deploy,msfabric-deploy,openai-deploy,platform pushed_at:2024-07 star:0.0k fork:0.0k Open Source Public Repo of Microsoft Data & AI Strategy Platform
-- [microsoft/Data-Discovery-Toolkit](https://github.com/microsoft/Data-Discovery-Toolkit) topic:azure-synapse,blip,clustering-methods,cognitivesearch,evaluation-metrics,keras,machine-learning,openai,powerbi,search,unsupervised-machine-learning pushed_at:2023-09 star:0.0k fork:0.0k A data discovery and manipulation toolset for unstructured data
+- [microsoft/Data-Discovery-Toolkit](https://github.com/microsoft/Data-Discovery-Toolkit) topic:azure-synapse,blip,clustering-methods,cognitivesearch,evaluation-metrics,keras,machine-learning,openai,powerbi,search,unsupervised-machine-learning pushed_at:2023-09 star:0.1k fork:0.0k A data discovery and manipulation toolset for unstructured data
 - [microsoft/data-for-society-catalog](https://github.com/microsoft/data-for-society-catalog) topic: pushed_at:2024-01 star:0.0k fork:0.0k Microsoft is working to make data that is relevant to important social problems as open as possible, including by contributing open data ourselves.     The Data for Society resource center provides access to Microsoft’s open datasets, resources, and tools to make data sharing, research, and collaboration easier.
 - [microsoft/data-science-examples](https://github.com/microsoft/data-science-examples) topic: pushed_at:2023-06 star:0.0k fork:0.0k Quick useful examples of data science & ML & big data 
-- [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) topic:data-analysis,data-science,data-visualization,pandas,python pushed_at:2024-06 star:27.5k fork:5.7k 10 Weeks, 20 Lessons, Data Science for All!
+- [microsoft/Data-Science-For-Beginners](https://github.com/microsoft/Data-Science-For-Beginners) topic:data-analysis,data-science,data-visualization,pandas,python pushed_at:2024-08 star:27.6k fork:5.7k 10 Weeks, 20 Lessons, Data Science for All!
 - [microsoft/datadrivenmodel](https://github.com/microsoft/datadrivenmodel) topic: pushed_at:2023-09 star:0.0k fork:0.0k Build sim from data for use in reinforcement learning and bonsai platform for machine teaching. 
 - [microsoft/dataexposed](https://github.com/microsoft/dataexposed) topic: pushed_at:2023-06 star:0.0k fork:0.0k Place for resources related to Data Exposed
 - [microsoft/DataFactory](https://github.com/microsoft/DataFactory) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
@@ -2874,12 +2868,12 @@
 - [microsoft/edge-video-services](https://github.com/microsoft/edge-video-services) topic: pushed_at:2022-07 star:0.0k fork:0.0k Edge Video Services (EVS) is a Microsoft platform for developing video analytics solutions that can be deployed across the edge and the cloud.
 - [microsoft/Elevation](https://github.com/microsoft/Elevation) topic: pushed_at:2023-06 star:0.1k fork:0.0k End-to-end guide design for CRISPR/Cas9 with machine learning
 - [microsoft/ELL-notebooks](https://github.com/microsoft/ELL-notebooks) topic: pushed_at:2023-06 star:0.0k fork:0.0k ELL notebooks
-- [microsoft/EnCortex-Framework](https://github.com/microsoft/EnCortex-Framework) topic: pushed_at:2024-06 star:0.0k fork:0.0k A General, Extensible, and Scalable Framework for Decision Management in New-age Energy Systems
+- [microsoft/EnCortex-Framework](https://github.com/microsoft/EnCortex-Framework) topic: pushed_at:2024-08 star:0.0k fork:0.0k A General, Extensible, and Scalable Framework for Decision Management in New-age Energy Systems
 - [microsoft/fabric-migration](https://github.com/microsoft/fabric-migration) topic: pushed_at:2024-04 star:0.0k fork:0.0k Scripts and tooling to migrate DW and Spark workloads to Fabric.
 - [microsoft/Fabric-RTA-FlightStream](https://github.com/microsoft/Fabric-RTA-FlightStream) topic:etl,kql,lakehouse,powerbi,pyspark-notebook,streaming pushed_at:2024-02 star:0.0k fork:0.0k Microsoft Fabric Real-time Analytics flight streaming 
 - [microsoft/fabric-samples](https://github.com/microsoft/fabric-samples) topic: pushed_at:2024-08 star:0.2k fork:0.2k Samples and data for Microsoft Fabric Learn content
 - [microsoft/FabricCAT](https://github.com/microsoft/FabricCAT) topic: pushed_at:2024-05 star:0.0k fork:0.0k Content built for the community, with love, by The Fabric Customer Advisory Team!
-- [microsoft/fabricrealtimelab](https://github.com/microsoft/fabricrealtimelab) topic: pushed_at:2024-03 star:0.0k fork:0.0k Microsoft Fabric real-time lab
+- [microsoft/fabricrealtimelab](https://github.com/microsoft/fabricrealtimelab) topic: pushed_at:2024-08 star:0.0k fork:0.0k Microsoft Fabric real-time lab
 - [microsoft/FabricRTA-in-a-Day](https://github.com/microsoft/FabricRTA-in-a-Day) topic: pushed_at:2024-06 star:0.0k fork:0.0k Fabric Real Time Analytics in a Day workshop
 - [microsoft/FabricRTIWorkshop](https://github.com/microsoft/FabricRTIWorkshop) topic:analytics,batch,dashboard,intelligence,realtime,streaming-data pushed_at:2024-08 star:0.0k fork:0.0k How to build a Medallion design pattern using Fabric Real-Time Intelligence
 - [microsoft/farmvibes-ai](https://github.com/microsoft/farmvibes-ai) topic:agriculture,ai,geospatial,geospatial-analytics,multi-modal,remote-sensing,stac,sustainability,weather pushed_at:2024-08 star:0.7k fork:0.1k FarmVibes.AI: Multi-Modal GeoSpatial ML Models for Agriculture and Sustainability
@@ -2891,7 +2885,7 @@
 - [microsoft/gandalf_vs_gandalf](https://github.com/microsoft/gandalf_vs_gandalf) topic:lakera,llms,prompt-injection pushed_at:2023-10 star:0.0k fork:0.0k Turning Gandalf against itself. Use LLMs to automate playing Lakera Gandalf challenge without needing to set up an account with a platform provider.
 - [microsoft/gather](https://github.com/microsoft/gather) topic:jupyterlab-extension pushed_at:2023-10 star:0.5k fork:0.0k Spit shine for Jupyter notebooks 🧽✨
 - [microsoft/genalog](https://github.com/microsoft/genalog) topic:data-generation,data-science,machine-learning,ner,ocr-recognition,python,synthetic-data,synthetic-data-generation,synthetic-images,text-alignment pushed_at:2024-01 star:0.3k fork:0.0k Genalog is an open source, cross-platform python package allowing generation of synthetic document images with custom degradations and text alignment capabilities.
-- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) topic:ai,azure,chatgpt,dall-e,generative-ai,generativeai,gpt,language-model,llms,openai,prompt-engineering,semantic-search,transformers pushed_at:2024-08 star:58.3k fork:30.3k 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) topic:ai,azure,chatgpt,dall-e,generative-ai,generativeai,gpt,language-model,llms,openai,prompt-engineering,semantic-search,transformers pushed_at:2024-08 star:61.4k fork:31.1k 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [microsoft/genomicsnotebook](https://github.com/microsoft/genomicsnotebook) topic: pushed_at:2023-10 star:0.1k fork:0.0k Jupyter Notebooks on Azure for Genomics Data Analysis
 - [microsoft/GHC19-GroverSearch](https://github.com/microsoft/GHC19-GroverSearch) topic: pushed_at:2020-12 star:0.0k fork:0.0k Workshop materials for the "Introduction to Quantum Computing with Grover’s Search" workshop at Grace Hopper Celebration 2019
 - [microsoft/glue](https://github.com/microsoft/glue) topic:azure,cognitive-services,dstoolkit,luis,nlp,speechtotext,texttospeech pushed_at:2024-06 star:0.0k fork:0.0k GLUE is a lightweight, Python-based collection of scripts to support you at succeeding with speech and text use-cases based on Microsoft Azure Cognitive Services.
@@ -2911,16 +2905,11 @@
 - [microsoft/landcover](https://github.com/microsoft/landcover) topic:aiforearth pushed_at:2023-06 star:0.2k fork:0.1k Land Cover Mapping
 - [microsoft/landcover-orinoquia](https://github.com/microsoft/landcover-orinoquia) topic:aiforearth,colombia,computer-vision,land-cover,land-use,orinoquia,semantic-segmentation pushed_at:2021-03 star:0.0k fork:0.0k Land cover mapping of the Orinoquía region in Colombia, in collaboration with Wildlife Conservation Society Colombia. An #AIforEarth project
 - [microsoft/libpostal-tutorial](https://github.com/microsoft/libpostal-tutorial) topic: pushed_at:2020-10 star:0.0k fork:0.0k A tutorial for using libpostal to parse addresses
-- [microsoft/lida](https://github.com/microsoft/lida) topic:cohere,datavisualization,hacktoberfest,llm,openai,openai-api,palm2,visualization pushed_at:2024-08 star:2.6k fork:0.3k Automatic Generation of Visualizations and Infographics using Large Language Models
+- [microsoft/lida](https://github.com/microsoft/lida) topic:cohere,datavisualization,hacktoberfest,llm,openai,openai-api,palm2,visualization pushed_at:2024-08 star:2.7k fork:0.3k Automatic Generation of Visualizations and Infographics using Large Language Models
 - [microsoft/LLM-Fine-Tuning-Azure](https://github.com/microsoft/LLM-Fine-Tuning-Azure) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [microsoft/llmops-workshop](https://github.com/microsoft/llmops-workshop) topic: pushed_at:2024-08 star:0.1k fork:0.0k Learn how to build solutions with Large Language Models.
 - [microsoft/LoNLI](https://github.com/microsoft/LoNLI) topic:checklist,logic,nli,nlp,reasoning pushed_at:2022-11 star:0.0k fork:0.0k Testing Diverse Reasoning of NLI Systems
 - [microsoft/mag-covid19-research-examples](https://github.com/microsoft/mag-covid19-research-examples) topic: pushed_at:2022-12 star:0.0k fork:0.0k Examples or utilizing Microsoft Academic for conducting covid-19 research
-- [microsoft/MCW-Analyzing-text-with-Azure-Machine-Learning-and-Cognitive-Services](https://github.com/microsoft/MCW-Analyzing-text-with-Azure-Machine-Learning-and-Cognitive-Services) topic: pushed_at:2022-07 star:0.1k fork:0.1k MCW Analyzing text with Azure Machine Learning and Cognitive Services
-- [microsoft/MCW-Cosmos-DB-Real-Time-Advanced-Analytics](https://github.com/microsoft/MCW-Cosmos-DB-Real-Time-Advanced-Analytics) topic: pushed_at:2022-07 star:0.1k fork:0.1k MCW CosmosDB real-time advanced analytics
-- [microsoft/MCW-ML-Ops](https://github.com/microsoft/MCW-ML-Ops) topic: pushed_at:2022-07 star:0.2k fork:0.2k MCW MLOps
-- [microsoft/MCW-Modernizing-Data-Analytics-with-SQL-Server-2019](https://github.com/microsoft/MCW-Modernizing-Data-Analytics-with-SQL-Server-2019) topic: pushed_at:2020-12 star:0.0k fork:0.0k MCW Modernizing Data Analytics with SQL Server 2019
-- [microsoft/MCW-Predictive-Maintenance-for-remote-field-devices](https://github.com/microsoft/MCW-Predictive-Maintenance-for-remote-field-devices) topic: pushed_at:2022-07 star:0.0k fork:0.1k Predictive Maintenance for remote field devices
 - [microsoft/MDCC](https://github.com/microsoft/MDCC) topic: pushed_at:2023-07 star:0.0k fork:0.0k Micrososft Defensive Cybersecurity Courses (for Engineering Schools, BTEC HND or 12th Grade)
 - [microsoft/mechanistic-error-probe](https://github.com/microsoft/mechanistic-error-probe) topic: pushed_at:2024-07 star:0.0k fork:0.0k A mechanistic approach for understanding and detecting factual errors of large language models.
 - [microsoft/Medical-Imaging-AI-RSNA-2021-Demo](https://github.com/microsoft/Medical-Imaging-AI-RSNA-2021-Demo) topic: pushed_at:2023-08 star:0.0k fork:0.0k 
@@ -2938,7 +2927,7 @@
 - [microsoft/MLOpsTemplate](https://github.com/microsoft/MLOpsTemplate) topic:active-learning,mlops pushed_at:2024-08 star:0.1k fork:0.3k Providing tools and templates to facilitate modern MLOps practices
 - [microsoft/moab-rl](https://github.com/microsoft/moab-rl) topic: pushed_at:2024-07 star:0.0k fork:0.0k Moab is a project-based learning kit that teaches you how to build autonomous systems by balancing objects on a tilting platform. This repo provides code and instructions for training and deploying reinforcement learning agents for Moab using Stable Baselines, RLlib, and ONNX.
 - [microsoft/moaw](https://github.com/microsoft/moaw) topic:javascript,microsoft,moaw,training,workshops pushed_at:2024-07 star:0.1k fork:0.1k Grab-and-go resources to help you learn new skills, with all the tools you need to create, host and share your own workshop
-- [microsoft/mothernet](https://github.com/microsoft/mothernet) topic: pushed_at:2024-07 star:0.0k fork:0.0k Mothernet: A Foundational Hypernetwork for Tabular Classification
+- [microsoft/mothernet](https://github.com/microsoft/mothernet) topic: pushed_at:2024-08 star:0.0k fork:0.0k Mothernet: A Foundational Hypernetwork for Tabular Classification
 - [microsoft/MSMARCO-Passage-Ranking](https://github.com/microsoft/MSMARCO-Passage-Ranking) topic: pushed_at:2023-06 star:0.3k fork:0.0k MS MARCO(Microsoft Machine Reading Comprehension) is a large scale dataset focused on machine reading comprehension, question answering, and passage ranking. A variant of this task will be the part of TREC and AFIRM 2019. For Updates about TREC 2019 please follow This Repository  Passage Reranking task Task Given a query q and a the 1000 most relevant passages P = p1, p2, p3,... p1000, as retrieved by BM25 a succeful system is expected to rerank the most relevant passage as high as possible. For this task not all 1000 relevant items have a human labeled relevant passage. Evaluation will be done using MRR
 - [microsoft/mssql-support](https://github.com/microsoft/mssql-support) topic: pushed_at:2023-06 star:0.0k fork:0.0k workspace to share scripts and utilities used by mssql support team
 - [microsoft/msticpy-lab](https://github.com/microsoft/msticpy-lab) topic: pushed_at:2023-02 star:0.0k fork:0.0k A lab environment for learning about MSTICPy
@@ -2958,14 +2947,13 @@
 - [microsoft/NTT](https://github.com/microsoft/NTT) topic: pushed_at:2024-03 star:0.0k fork:0.0k Navigation Turing Test (NTT): Learning to Evaluate Human-Like Navigation [ICML 2021]
 - [microsoft/oea-dai-hack](https://github.com/microsoft/oea-dai-hack) topic: pushed_at:2021-10 star:0.0k fork:0.0k OEA Student Digital Access and Inclusion Hack
 - [microsoft/OpenAI-Hack-Group-5-Humanitarian](https://github.com/microsoft/OpenAI-Hack-Group-5-Humanitarian) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
-- [microsoft/OpenAIWorkshop](https://github.com/microsoft/OpenAIWorkshop) topic:azure,cognitive-services,machine-learning,openai pushed_at:2024-08 star:0.5k fork:0.3k workshop materials to build intelligent solutions on Open AI
 - [microsoft/OpenEduIntegration](https://github.com/microsoft/OpenEduIntegration) topic: pushed_at:2020-11 star:0.0k fork:0.0k Provides open-source ETL solutions for the EdTech community, built with Azure Data Factory.
 - [microsoft/OptiGuide](https://github.com/microsoft/OptiGuide) topic: pushed_at:2024-05 star:0.3k fork:0.0k Large Language Models for Supply Chain Optimization
 - [microsoft/Panopticon](https://github.com/microsoft/Panopticon) topic: pushed_at:2023-06 star:0.0k fork:0.0k Panopticon is a complete in-DRAM RowHammer mitigation. This code simulates an implementation of Panopticon in DDR5. 
 - [microsoft/pbiworkshops](https://github.com/microsoft/pbiworkshops) topic:powerbi,training-labs,workshop-materials pushed_at:2024-08 star:0.3k fork:0.1k Training workshops for Power BI.
 - [microsoft/peft_proteomics](https://github.com/microsoft/peft_proteomics) topic: pushed_at:2024-01 star:0.0k fork:0.0k LoRA for protein language models
 - [microsoft/perception-benchmark](https://github.com/microsoft/perception-benchmark) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
-- [microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook) topic:phi3,phi3-testing,phi3-vision pushed_at:2024-08 star:1.6k fork:0.2k This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks. 
+- [microsoft/Phi-3CookBook](https://github.com/microsoft/Phi-3CookBook) topic:phi3,phi3-testing,phi3-vision pushed_at:2024-08 star:2.1k fork:0.2k This is a Phi-3 book for getting started with Phi-3. Phi-3, a family of open AI models developed by Microsoft. Phi-3 models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks. 
 - [microsoft/PlanetaryComputerExamples](https://github.com/microsoft/PlanetaryComputerExamples) topic:aiforearth pushed_at:2024-08 star:0.4k fork:0.2k Examples of using the Planetary Computer
 - [microsoft/POLAR](https://github.com/microsoft/POLAR) topic: pushed_at:2023-08 star:0.0k fork:0.0k Experiments for "Automatic Calibration and Error Correction for Large Language Models via Pareto Optimal Self-Supervision"
 - [microsoft/polyglot-education](https://github.com/microsoft/polyglot-education) topic: pushed_at:2024-07 star:0.0k fork:0.0k polyglot education
@@ -2977,9 +2965,10 @@
 - [microsoft/Purview-Machine-Learning-Lineage-Solution-Accelerator](https://github.com/microsoft/Purview-Machine-Learning-Lineage-Solution-Accelerator) topic:azure-machine-learning,azure-synapse-analytics,microsoft-purview pushed_at:2023-03 star:0.0k fork:0.0k Solution accelerator to help build Machine Learning Lineage
 - [microsoft/python-course](https://github.com/microsoft/python-course) topic: pushed_at:2021-11 star:0.0k fork:0.0k A self-driven Python course by Dmitry Soshnikov for presentation as a scalable bootcamp
 - [microsoft/Quantum](https://github.com/microsoft/Quantum) topic:python,qdk,qsharp,quantum,quantum-computing,quantum-development-kit pushed_at:2024-01 star:3.9k fork:0.9k Microsoft Quantum Development Kit Samples
-- [microsoft/QuantumKatas](https://github.com/microsoft/QuantumKatas) topic:coding-kata,hacktoberfest,qsharp,quantum-computing,quantum-programming,tutorial-exercises,tutorials pushed_at:2024-05 star:4.5k fork:1.2k Tutorials and programming exercises for learning Q# and quantum computing
+- [microsoft/QuantumKatas](https://github.com/microsoft/QuantumKatas) topic:coding-kata,hacktoberfest,qsharp,quantum-computing,quantum-programming,tutorial-exercises,tutorials pushed_at:2024-08 star:4.5k fork:1.2k Tutorials and programming exercises for learning Q# and quantum computing
 - [microsoft/r-server-campaign-optimization](https://github.com/microsoft/r-server-campaign-optimization) topic: pushed_at:2023-06 star:0.0k fork:0.0k Campaign optimization solution with SQL Server ML Services
 - [microsoft/rag-e2e-sample](https://github.com/microsoft/rag-e2e-sample) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
+- [microsoft/RAG-Knowledge](https://github.com/microsoft/RAG-Knowledge) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/rag_skills](https://github.com/microsoft/rag_skills) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [microsoft/ray-on-aml](https://github.com/microsoft/ray-on-aml) topic: pushed_at:2023-01 star:0.1k fork:0.0k Turning AML compute into Ray cluster
 - [microsoft/ReactorSaoPaulo](https://github.com/microsoft/ReactorSaoPaulo) topic: pushed_at:2020-12 star:0.0k fork:0.0k Contet for Microsoft Reactor São Paulo
@@ -3012,6 +3001,7 @@
 - [microsoft/sqlworkshops-sqlonopenshift](https://github.com/microsoft/sqlworkshops-sqlonopenshift) topic: pushed_at:2023-06 star:0.0k fork:0.0k SQL Server on OpenShift Workshop
 - [microsoft/synapse-support](https://github.com/microsoft/synapse-support) topic: pushed_at:2022-12 star:0.0k fork:0.0k Repository for public-facing support-driven content for Azure Synapse Analytics
 - [microsoft/SynapseGenie](https://github.com/microsoft/SynapseGenie) topic: pushed_at:2023-12 star:0.0k fork:0.0k Genie Framework improves Spark Pool utilization by executing multiple Synapse notebooks on the same spark pool instance
+- [microsoft/synthlume](https://github.com/microsoft/synthlume) topic: pushed_at:2024-07 star:0.0k fork:0.0k Synthetic Q&A generator
 - [microsoft/TaskTracker](https://github.com/microsoft/TaskTracker) topic: pushed_at:2024-07 star:0.0k fork:0.0k TaskTracker is an approach to detecting task drift in Large Language Models (LLMs) by analysing their internal activations. It provides a simple linear probe-based method and a more sophisticated metric learning method to achieve this. The project also releases the computationally expensive activation data to stimulate further AI safety research.
 - [microsoft/temporal-cluster-matching](https://github.com/microsoft/temporal-cluster-matching) topic: pushed_at:2021-11 star:0.0k fork:0.0k An implementation of the temporal cluster matching method for detecting change in structure footprints from time series of remotely sensed imagery.
 - [microsoft/tensorwatch](https://github.com/microsoft/tensorwatch) topic:ai,data-science,debug,debugging,debugging-tool,deep-learning,deeplearning,explainable-ai,explainable-ml,jupyter,jupyter-notebook,machine-learning,machinelearning,model-visualization,monitoring,python,reinforcement-learning,saliency pushed_at:2023-08 star:3.4k fork:0.4k Debugging, monitoring and visualization for Python Machine Learning and Data Science
@@ -3051,12 +3041,12 @@
 - [microsoft/surface-duo-app-samples](https://github.com/microsoft/surface-duo-app-samples) topic: pushed_at:2022-04 star:0.0k fork:0.0k Sample apps built for the Microsoft Surface Duo dual-screen Android device
 - [microsoft/surface-duo-compose-samples](https://github.com/microsoft/surface-duo-compose-samples) topic:android,jetpack-compose,surface-duo pushed_at:2023-02 star:0.1k fork:0.0k This repo contains samples built with Jetpack Compose for the Microsoft Surface Duo.
 - [microsoft/surface-duo-compose-sdk](https://github.com/microsoft/surface-duo-compose-sdk) topic:android,jetpack-compose,surface-duo pushed_at:2023-06 star:0.1k fork:0.0k This repo contains components built with Jetpack Compose for the Microsoft Surface Duo.
-- [microsoft/surface-duo-dual-screen-experience-example](https://github.com/microsoft/surface-duo-dual-screen-experience-example) topic: pushed_at:2023-07 star:0.0k fork:0.0k Sample Android application using the Surface Duo SDK and Jetpack Window Manager for foldable and dual-screen devices 
+- [microsoft/surface-duo-dual-screen-experience-example](https://github.com/microsoft/surface-duo-dual-screen-experience-example) topic: pushed_at:2024-08 star:0.0k fork:0.0k Sample Android application using the Surface Duo SDK and Jetpack Window Manager for foldable and dual-screen devices 
 - [microsoft/surface-duo-sdk](https://github.com/microsoft/surface-duo-sdk) topic:android,kotlin,sdk,surface-duo pushed_at:2022-09 star:0.1k fork:0.0k Set of libraries that help you to build dual screen experiences for Microsoft Surface Duo
 - [microsoft/surface-duo-sdk-samples-kotlin](https://github.com/microsoft/surface-duo-sdk-samples-kotlin) topic:android,hacktoberfest,kotlin,surface-duo pushed_at:2023-01 star:0.0k fork:0.0k Surface Duo SDK Samples in Kotlin
 - [microsoft/surface-duo-window-manager-samples](https://github.com/microsoft/surface-duo-window-manager-samples) topic:android,hacktoberfest,surface-duo pushed_at:2023-04 star:0.1k fork:0.0k Android samples built using Jetpack Window Manager for foldable and dual-screen devices like Microsoft Surface Duo.
 - [microsoft/thrifty](https://github.com/microsoft/thrifty) topic:android,thrift pushed_at:2024-06 star:0.5k fork:0.1k Thrift for Android that saves you methods
-- [microsoft/VerifiableCredential-SDK-Android](https://github.com/microsoft/VerifiableCredential-SDK-Android) topic: pushed_at:2024-05 star:0.1k fork:0.0k An SDK to manage your Decentralized Identities and Verifiable Credentials.
+- [microsoft/VerifiableCredential-SDK-Android](https://github.com/microsoft/VerifiableCredential-SDK-Android) topic: pushed_at:2024-08 star:0.1k fork:0.0k An SDK to manage your Decentralized Identities and Verifiable Credentials.
 - [microsoft/woodgrove-music](https://github.com/microsoft/woodgrove-music) topic: pushed_at:2024-05 star:0.0k fork:0.0k Fictional sample Android application that uses native authentication.
 
 ## LLVM
@@ -3114,7 +3104,7 @@
 
 ## Markdown
 
-- [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) topic:vscode pushed_at:2024-08 star:5.6k fork:4.5k Public documentation for Visual Studio Code
+- [microsoft/vscode-docs](https://github.com/microsoft/vscode-docs) topic:vscode pushed_at:2024-08 star:5.6k fork:4.6k Public documentation for Visual Studio Code
 
 ## Mathematica
 
@@ -3155,7 +3145,7 @@
 ## Objective-C++
 
 - [microsoft/ace](https://github.com/microsoft/ace) topic: pushed_at:2024-03 star:0.8k fork:0.2k Build Cordova apps with true native UI
-- [microsoft/onnxruntime-swift-package-manager](https://github.com/microsoft/onnxruntime-swift-package-manager) topic: pushed_at:2024-06 star:0.0k fork:0.0k A light-weight repository for providing Swift Package Manager support for ONNX Runtime.
+- [microsoft/onnxruntime-swift-package-manager](https://github.com/microsoft/onnxruntime-swift-package-manager) topic: pushed_at:2024-08 star:0.0k fork:0.0k A light-weight repository for providing Swift Package Manager support for ONNX Runtime.
 
 ## Open Policy Agent
 
@@ -3187,19 +3177,35 @@
 - [microsoft/AI-Chat-App-Hack](https://github.com/microsoft/AI-Chat-App-Hack) topic: pushed_at:2024-02 star:0.2k fork:0.0k HackTogether: The Microsoft Python Chatbot Hack | Register, Hack, Win
 - [microsoft/AI-Developer-Plugin-for-Eclipse](https://github.com/microsoft/AI-Developer-Plugin-for-Eclipse) topic: pushed_at:2024-05 star:0.0k fork:0.0k AI Developer Plugin for Eclipse
 - [microsoft/ai-for-startups-lab](https://github.com/microsoft/ai-for-startups-lab) topic:azure,azureai,startup pushed_at:2023-11 star:0.0k fork:0.0k Workshop for the BASES Challenge at Stanford
-- [microsoft/AI2BMD](https://github.com/microsoft/AI2BMD) topic: pushed_at:2024-08 star:0.2k fork:0.0k AI-powered ab initio biomolecular dynamics simulation
 - [microsoft/AIandJS](https://github.com/microsoft/AIandJS) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/AIFluency](https://github.com/microsoft/AIFluency) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aifundamentalbootcamp](https://github.com/microsoft/aifundamentalbootcamp) topic: pushed_at:2024-08 star:0.0k fork:0.0k Get Hands-On with AI Apps in the App Innovation Fundamental Bootcamp
 - [microsoft/AirbandData](https://github.com/microsoft/AirbandData) topic: pushed_at:2020-07 star:0.0k fork:0.0k 
 - [microsoft/AIReferenceArchitectures](https://github.com/microsoft/AIReferenceArchitectures) topic:ai,azure,azureml,deep-learning,kubernetes,python pushed_at:2023-06 star:0.1k fork:0.0k Official Azure Reference Architectures for AI workloads 
 - [microsoft/AISkillsForWindows](https://github.com/microsoft/AISkillsForWindows) topic: pushed_at:2024-05 star:0.2k fork:0.0k Contains samples for implementing Windows Skills by extending the preview base API and using exsting skill packages
+- [microsoft/aitour-ai-apps-with-scalable-database](https://github.com/microsoft/aitour-ai-apps-with-scalable-database) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-build-a-copilot-on-azure-ai](https://github.com/microsoft/aitour-build-a-copilot-on-azure-ai) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-copilot-implementation-essentials](https://github.com/microsoft/aitour-copilot-implementation-essentials) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-copilot-security-practices](https://github.com/microsoft/aitour-copilot-security-practices) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-copilot-studio-agents-and-experiences](https://github.com/microsoft/aitour-copilot-studio-agents-and-experiences) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-data-security-for-ai](https://github.com/microsoft/aitour-data-security-for-ai) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-get-started-with-fabric](https://github.com/microsoft/aitour-get-started-with-fabric) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/aitour-interact-with-llms](https://github.com/microsoft/aitour-interact-with-llms) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-llmops-with-gen-ai-tools](https://github.com/microsoft/aitour-llmops-with-gen-ai-tools) topic: pushed_at:2024-08 star:0.0k fork:0.0k AI Tour 2025 BRK451 Code-First LLMOps from Prototype to Production with GenAI Tools
+- [microsoft/aitour-modern-security-with-copilot](https://github.com/microsoft/aitour-modern-security-with-copilot) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-opimizing-your-ai-costs](https://github.com/microsoft/aitour-opimizing-your-ai-costs) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-preparing-for-ai-workloads](https://github.com/microsoft/aitour-preparing-for-ai-workloads) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-rag-with-ai-search](https://github.com/microsoft/aitour-rag-with-ai-search) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-reimagine-fabric-intelligence](https://github.com/microsoft/aitour-reimagine-fabric-intelligence) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-repo-principal-list](https://github.com/microsoft/aitour-repo-principal-list) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-securing-ai-apps-on-azure](https://github.com/microsoft/aitour-securing-ai-apps-on-azure) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-whats-new-with-fabric](https://github.com/microsoft/aitour-whats-new-with-fabric) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/aitour-writing-assistant-with-azure-openai](https://github.com/microsoft/aitour-writing-assistant-with-azure-openai) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/aka](https://github.com/microsoft/aka) topic: pushed_at:2024-08 star:0.3k fork:0.0k Doc page listing all public aka.ms links for Microsoft admin portals
 - [microsoft/Aly-Profile](https://github.com/microsoft/Aly-Profile) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [microsoft/Americas-Power-Platform-Global-Black-Belts](https://github.com/microsoft/Americas-Power-Platform-Global-Black-Belts) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [microsoft/angle](https://github.com/microsoft/angle) topic: pushed_at:2023-06 star:0.6k fork:0.2k ANGLE: OpenGL ES to DirectX translation
 - [microsoft/AngularLanguageServiceExtFeedback](https://github.com/microsoft/AngularLanguageServiceExtFeedback) topic: pushed_at:2020-07 star:0.0k fork:0.0k 
-- [microsoft/aoai-api-simulator](https://github.com/microsoft/aoai-api-simulator) topic: pushed_at:2024-06 star:0.0k fork:0.0k A sample showing how to create a simulated API implementation for Azure OpenAI (AOAI)
 - [microsoft/aoai-enrichment](https://github.com/microsoft/aoai-enrichment) topic: pushed_at:2023-10 star:0.0k fork:0.0k Enrichment of user questions with vector database and functions to provide grounding to the language model on an organizations data corpus. 
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) topic:api,guidelines,rest-api,styleguide pushed_at:2024-08 star:22.6k fork:2.7k Microsoft REST API Guidelines
 - [microsoft/api.rushstack.io-website](https://github.com/microsoft/api.rushstack.io-website) topic: pushed_at:2024-03 star:0.0k fork:0.0k GitHub Pages deployments for https://api.rushstack.io
@@ -3209,10 +3215,10 @@
 - [microsoft/AppConsult-MSIXDevWorkshop](https://github.com/microsoft/AppConsult-MSIXDevWorkshop) topic: pushed_at:2023-02 star:0.0k fork:0.0k Hands on labs for Developers on MSIX for Windows Apps
 - [microsoft/ApplicationInsights-Announcements](https://github.com/microsoft/ApplicationInsights-Announcements) topic: pushed_at:2022-11 star:0.0k fork:0.0k Subscribe to this repo to be notified about major changes in Application Insights.
 - [microsoft/ApplicationInsights-Profiler-AspNetCore](https://github.com/microsoft/ApplicationInsights-Profiler-AspNetCore) topic: pushed_at:2024-08 star:0.1k fork:0.0k Application Insights Profiler sample and documentation
-- [microsoft/ApplicationInsights-SnapshotCollector](https://github.com/microsoft/ApplicationInsights-SnapshotCollector) topic: pushed_at:2020-12 star:0.0k fork:0.0k NuGet package for Application Insights Snapshot Debugger for .NET applications
+- [microsoft/ApplicationInsights-SnapshotCollector](https://github.com/microsoft/ApplicationInsights-SnapshotCollector) topic: pushed_at:2024-08 star:0.0k fork:0.0k NuGet package for Application Insights Snapshot Debugger for .NET applications
 - [microsoft/applicationinsights-vscode](https://github.com/microsoft/applicationinsights-vscode) topic: pushed_at:2017-01 star:0.0k fork:0.0k Visual Studio Code extension for Azure Application Insights
 - [microsoft/AppliedRoboticsResearchLibrary](https://github.com/microsoft/AppliedRoboticsResearchLibrary) topic:robotics pushed_at:2021-09 star:0.0k fork:0.0k From the Microsoft Applied Robotics Research team, this library is a collection of GitHub repositories containing software applications, data sets, and hardware reference designs to support research and education in the fields of service-robotics. Our team invites you to join us in research and engineering efforts that advance how robots can assist and augment the capabilities of human beings.
-- [microsoft/AppModelSamples](https://github.com/microsoft/AppModelSamples) topic: pushed_at:2023-08 star:0.2k fork:0.1k Sample code for AppModel features
+- [microsoft/AppModelSamples](https://github.com/microsoft/AppModelSamples) topic: pushed_at:2024-08 star:0.2k fork:0.1k Sample code for AppModel features
 - [microsoft/AppSource](https://github.com/microsoft/AppSource) topic: pushed_at:2023-06 star:0.0k fork:0.0k Build a Test Drive solution to allow customers to try before they buy your product. This repository contains a development helper tool to help build, test, and debug your test drive.
 - [microsoft/APS_Query_Toolbox](https://github.com/microsoft/APS_Query_Toolbox) topic: pushed_at:2023-06 star:0.0k fork:0.0k Collection of helpful queries for the Microsoft Analytics Platform System appliance to manage appliance and workload health and optimize performance.
 - [microsoft/aqafer](https://github.com/microsoft/aqafer) topic: pushed_at:2024-07 star:0.0k fork:0.0k A repo to make it easy to run AQAvit verification against different OpenJDK binaries (validation for Eclipse-Adoptium Marketplace for the OpenJDK).
@@ -3249,28 +3255,31 @@
 - [microsoft/Azure-Integration-Reports](https://github.com/microsoft/Azure-Integration-Reports) topic: pushed_at:2020-09 star:0.0k fork:0.0k This repo will be used to generate and store reports for other GitHub repos
 - [microsoft/Azure-Invoice-Process-Automation-Solution-Accelerator](https://github.com/microsoft/Azure-Invoice-Process-Automation-Solution-Accelerator) topic:contributors pushed_at:2022-04 star:0.0k fork:0.0k 
 - [microsoft/azure-iot-developer-kit](https://github.com/microsoft/azure-iot-developer-kit) topic:arduino,azure,azure-functions,azure-iot,iot,iot-central,iothub,vscode,vscode-extension pushed_at:2021-07 star:0.1k fork:0.1k A curated list of awesome Azure IoT Developer Kit projects and resources.
-- [microsoft/azure-linux-kernel](https://github.com/microsoft/azure-linux-kernel) topic: pushed_at:2022-09 star:0.0k fork:0.0k Patches for building an Azure-tuned Linux kernel.
+- [microsoft/azure-linux-kernel](https://github.com/microsoft/azure-linux-kernel) topic: pushed_at:2022-09 star:0.1k fork:0.0k Patches for building an Azure-tuned Linux kernel.
 - [microsoft/azure-load-testing](https://github.com/microsoft/azure-load-testing) topic: pushed_at:2023-05 star:0.0k fork:0.0k 
 - [microsoft/azure-netapp-files](https://github.com/microsoft/azure-netapp-files) topic: pushed_at:2022-08 star:0.0k fork:0.0k Azure NetApp Files
 - [microsoft/azure-nodejs-logpoints-docs](https://github.com/microsoft/azure-nodejs-logpoints-docs) topic: pushed_at:2018-02 star:0.0k fork:0.0k Instructions for setting up LogPoints on Azure
 - [microsoft/Azure-ODSPMarketplace](https://github.com/microsoft/Azure-ODSPMarketplace) topic: pushed_at:2020-09 star:0.0k fork:0.0k Set of ARM templates for the ODSP team used to deploy artifacts in the Azure Marketplace
+- [microsoft/azure-openai-landing-zone](https://github.com/microsoft/azure-openai-landing-zone) topic: pushed_at:2024-08 star:0.0k fork:0.0k Azure Open AI Landing Zones Reference Architectures Repository
 - [microsoft/azure-pipelines-image-generation](https://github.com/microsoft/azure-pipelines-image-generation) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/azure-pipelines-jira](https://github.com/microsoft/azure-pipelines-jira) topic: pushed_at:2024-04 star:0.0k fork:0.0k Azure Pipelines for Jira
 - [microsoft/azure-pipelines-servicenow-app](https://github.com/microsoft/azure-pipelines-servicenow-app) topic: pushed_at:2022-12 star:0.0k fork:0.0k This repository provides the updateSet used to build the Azure Pipelines app on ServiceNow store
 - [microsoft/azure-pipelines-yaml](https://github.com/microsoft/azure-pipelines-yaml) topic: pushed_at:2024-01 star:1.2k fork:0.9k Azure Pipelines YAML examples, templates, and community interaction
 - [microsoft/azure-powershell](https://github.com/microsoft/azure-powershell) topic: pushed_at:2024-07 star:0.0k fork:0.0k Microsoft Azure PowerShell
+- [microsoft/Azure-Proactive-Resiliency-Library-v2-dev-tools](https://github.com/microsoft/Azure-Proactive-Resiliency-Library-v2-dev-tools) topic: pushed_at:2024-08 star:0.0k fork:0.0k Azure Proactive Resiliency Library v2 (APRL) - Source for Azure WAF reliability guidance and associated ARG queries 
 - [microsoft/Azure-Pyday](https://github.com/microsoft/Azure-Pyday) topic: pushed_at:2020-05 star:0.0k fork:0.0k Developer content repository for Azure Pyday
 - [microsoft/azure-quickstart-templates](https://github.com/microsoft/azure-quickstart-templates) topic: pushed_at:2023-06 star:0.0k fork:0.0k Azure Quickstart Templates
 - [microsoft/Azure-RACI-Toolkit](https://github.com/microsoft/Azure-RACI-Toolkit) topic: pushed_at:2023-03 star:0.0k fork:0.0k The purpose of this RACI is to provide a foundation for organizations beginning the journey into Microsoft Azure. It contains common tasks across both governance and operations that organizations should identify owners and operators for.
 - [microsoft/azure-resource-provider-sdk](https://github.com/microsoft/azure-resource-provider-sdk) topic: pushed_at:2022-11 star:0.0k fork:0.0k Resource providers that integrate into the Azure Resource Manager control plane must strictly follow the RP API v2.0 contract. The Azure Resource Provider SDK is a .NET framework and tools to help RP authors get up and running quickly and to avoid RP API compliance issues where possible.
 - [microsoft/azure-rest-api-specs-meja](https://github.com/microsoft/azure-rest-api-specs-meja) topic: pushed_at:2024-07 star:0.0k fork:0.0k The source for REST API specifications for Microsoft Azure.
 - [microsoft/azure-rest-api-specs1](https://github.com/microsoft/azure-rest-api-specs1) topic: pushed_at:2024-07 star:0.0k fork:0.0k The source for REST API specifications for Microsoft Azure.
+- [microsoft/azure-rest-api-specs_2024-03-01](https://github.com/microsoft/azure-rest-api-specs_2024-03-01) topic: pushed_at:2024-08 star:0.0k fork:0.0k The source for REST API specifications for Microsoft Azure.
 - [microsoft/azure-sdk-for-js](https://github.com/microsoft/azure-sdk-for-js) topic: pushed_at:2023-06 star:0.0k fork:0.0k This repository is for active development of the Azure SDK for JavaScript (NodeJS & Browser). For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/javascript/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-js. 
 - [microsoft/azure-sdk-for-net-ace](https://github.com/microsoft/azure-sdk-for-net-ace) topic: pushed_at:2023-07 star:0.0k fork:0.0k This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net. 
 - [microsoft/azure-software-radio](https://github.com/microsoft/azure-software-radio) topic: pushed_at:2022-11 star:0.1k fork:0.0k 
 - [microsoft/azure-software-radio-hello-world](https://github.com/microsoft/azure-software-radio-hello-world) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [microsoft/Azure-Solution-Accelerator-to-automate-COVID-19-Vaccination-Proof-and-Test-Verification-Forms](https://github.com/microsoft/Azure-Solution-Accelerator-to-automate-COVID-19-Vaccination-Proof-and-Test-Verification-Forms) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [microsoft/azure-spring-boot](https://github.com/microsoft/azure-spring-boot) topic:azure,azure-active-directory,azure-documentdb,azure-service-bus,azure-services,azure-storage,cloud-foundry,key-vault,media-services,microsoft,microsoft-graph,spring-boot,spring-boot-starter,spring-data,spring-social pushed_at:2023-06 star:0.4k fork:0.5k Spring Boot Starters for Azure services
+- [microsoft/azure-spring-boot](https://github.com/microsoft/azure-spring-boot) topic:azure,azure-active-directory,azure-documentdb,azure-service-bus,azure-services,azure-storage,cloud-foundry,key-vault,media-services,microsoft,microsoft-graph,spring-boot,spring-boot-starter,spring-data,spring-social pushed_at:2024-08 star:0.4k fork:0.5k Spring Boot Starters for Azure services
 - [microsoft/azure-terraform-storage-datalifecycle](https://github.com/microsoft/azure-terraform-storage-datalifecycle) topic: pushed_at:2023-01 star:0.0k fork:0.0k Terraform Script for - Storage, container and data life cycle rules creation at scale
 - [microsoft/AzureADDSC](https://github.com/microsoft/AzureADDSC) topic: pushed_at:2020-01 star:0.0k fork:0.0k DSC PowerShell module for AzureAD
 - [microsoft/azureai-samples](https://github.com/microsoft/azureai-samples) topic: pushed_at:2024-08 star:0.0k fork:0.0k Official community-driven Azure AI Examples
@@ -3290,7 +3299,7 @@
 - [microsoft/AzureStorageExplorer](https://github.com/microsoft/AzureStorageExplorer) topic:azure-storage pushed_at:2024-08 star:0.4k fork:0.1k Easily manage the contents of your storage account with Azure Storage Explorer. Upload, download, and manage blobs, files, queues, tables, and Cosmos DB entities. Gain easy access to manage your virtual machine disks. Work with either Azure Resource Manager or classic storage accounts, plus manage and configure cross-origin resource sharing (CORS) rules.
 - [microsoft/AzureStreamAnalyticsInVSCode](https://github.com/microsoft/AzureStreamAnalyticsInVSCode) topic: pushed_at:2023-06 star:0.0k fork:0.0k Azure Stream Analytics In VSCode
 - [microsoft/AzureSynapseEndToEndDemo](https://github.com/microsoft/AzureSynapseEndToEndDemo) topic: pushed_at:2024-05 star:0.1k fork:0.1k This repository provides one-click infrastructure and artifact deployment for Azure Synapse Analytics to get you started with Big Data Analytics on a large sized Health Care sample data. You will learn how to ingest, process and serve large volumes of data using various components of Synapse.
-- [microsoft/BA-CSA-Assets](https://github.com/microsoft/BA-CSA-Assets) topic: pushed_at:2024-07 star:0.0k fork:0.0k This repo centralizes assets used by Microsoft CSAs. It is available to all organizations for educational purposes.
+- [microsoft/BA-CSA-Assets](https://github.com/microsoft/BA-CSA-Assets) topic: pushed_at:2024-08 star:0.0k fork:0.0k This repo centralizes assets used by Microsoft CSAs. It is available to all organizations for educational purposes.
 - [microsoft/BackupDwToBlob](https://github.com/microsoft/BackupDwToBlob) topic: pushed_at:2020-12 star:0.0k fork:0.0k An Azure Data Factory pipeline with T-SQL and REST API to backup an Azure Synapse provisioned SQL Pool to Azure BLOB storage.
 - [microsoft/BAS-Ecosystem-Engineering](https://github.com/microsoft/BAS-Ecosystem-Engineering) topic: pushed_at:2022-11 star:0.0k fork:0.0k Business Applications Solutions Ecosystem Engineering
 - [microsoft/BatchPrompt-ICLR2024](https://github.com/microsoft/BatchPrompt-ICLR2024) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
@@ -3310,7 +3319,7 @@
 - [microsoft/botframework](https://github.com/microsoft/botframework) topic:bot,bots pushed_at:2020-01 star:0.3k fork:0.1k ⚠ The content in this repo has been moved to https://github.com/microsoft/botframework-sdk ⚠
 - [microsoft/BotFramework-Composer-Nightlies](https://github.com/microsoft/BotFramework-Composer-Nightlies) topic: pushed_at:2023-08 star:0.0k fork:0.0k Nightly releases of Bot Framework Composer (https://github.com/microsoft/BotFramework-Composer)
 - [microsoft/botframework-emulator-nightlies](https://github.com/microsoft/botframework-emulator-nightlies) topic: pushed_at:2023-10 star:0.0k fork:0.0k Nightly releases of the Bot Framework Emulator (https://github.com/Microsoft/BotFramework-Emulator)
-- [microsoft/botframework-orchestrator-binaries](https://github.com/microsoft/botframework-orchestrator-binaries) topic: pushed_at:2024-07 star:0.0k fork:0.0k Bot Framework Orchestrator Binaries for @microsoft/orchestrator-core
+- [microsoft/botframework-orchestrator-binaries](https://github.com/microsoft/botframework-orchestrator-binaries) topic: pushed_at:2024-08 star:0.0k fork:0.0k Bot Framework Orchestrator Binaries for @microsoft/orchestrator-core
 - [microsoft/BotFramework-Services](https://github.com/microsoft/BotFramework-Services) topic: pushed_at:2023-06 star:0.0k fork:0.0k Microsoft Bot Framework Services 
 - [microsoft/BrevE-CLaro](https://github.com/microsoft/BrevE-CLaro) topic:nlp,open-data,spanish-language pushed_at:2023-08 star:0.0k fork:0.0k Repository for the BrevE and CLaro datasets.
 - [microsoft/Build-Mobile-App-with-Chat](https://github.com/microsoft/Build-Mobile-App-with-Chat) topic: pushed_at:2019-10 star:0.0k fork:0.0k The tutorial uses several Azure services to power a real-time chat infrastructure that is readymade for analytics. Event Hubs ingest chat messages received from websites running in Web Apps. Web Jobs are used to pull chat messages from Event Hubs, invoke the Text Analytics API to apply sentiment scores to each message and to forward messages to Service Bus Topics from which chat participants receive their messages. Stream Analytics is used to drive the archival of scored chat messages into Document DB and Azure Search is used to make the stored chat messages full text searchable. 
@@ -3330,7 +3339,6 @@
 - [microsoft/charts](https://github.com/microsoft/charts) topic: pushed_at:2024-08 star:0.0k fork:0.0k A Helm Chart Repository for Microsoft Projects
 - [microsoft/Chat-with-your-Data-Examples](https://github.com/microsoft/Chat-with-your-Data-Examples) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
 - [microsoft/ChatGPT-Robot-Manipulation-Prompts](https://github.com/microsoft/ChatGPT-Robot-Manipulation-Prompts) topic: pushed_at:2023-11 star:0.4k fork:0.0k 
-- [microsoft/checkedc-clang](https://github.com/microsoft/checkedc-clang) topic: pushed_at:2023-09 star:0.5k fork:0.1k This repo contains a version of clang that is being modified to support Checked C.  Checked C is an extension to C that lets programmers write C code that is guaranteed by the compiler to be type-safe.
 - [microsoft/ChemistryQA](https://github.com/microsoft/ChemistryQA) topic: pushed_at:2020-03 star:0.0k fork:0.0k 
 - [microsoft/cla-approved-bots](https://github.com/microsoft/cla-approved-bots) topic: pushed_at:2023-09 star:0.0k fork:0.0k This repo contains a list of all cla pre-approved bots.
 - [microsoft/Clandestino](https://github.com/microsoft/Clandestino) topic:nlp,open-data,spanish-language pushed_at:2023-05 star:0.0k fork:0.0k Repository for the Clandestino corpus
@@ -3351,7 +3359,7 @@
 - [microsoft/Cognitive-Custom-Speech-Service](https://github.com/microsoft/Cognitive-Custom-Speech-Service) topic: pushed_at:2022-11 star:0.0k fork:0.0k Code and Sample for Microsoft's Custom Speech Service
 - [microsoft/Cognitive-Recommendations-Windows](https://github.com/microsoft/Cognitive-Recommendations-Windows) topic: pushed_at:2018-03 star:0.0k fork:0.0k Repo
 - [microsoft/cognitive-research-technologies-docs](https://github.com/microsoft/cognitive-research-technologies-docs) topic: pushed_at:2022-10 star:0.0k fork:0.0k Documentation related to Microsoft Cognitive Research Technologies
-- [microsoft/cognitive-services-sample-data-files](https://github.com/microsoft/cognitive-services-sample-data-files) topic: pushed_at:2024-03 star:0.0k fork:0.0k Cognitive Services sample data files
+- [microsoft/cognitive-services-sample-data-files](https://github.com/microsoft/cognitive-services-sample-data-files) topic: pushed_at:2024-08 star:0.0k fork:0.0k Cognitive Services sample data files
 - [microsoft/Cognitive-TextAnalytics-DotNetCore](https://github.com/microsoft/Cognitive-TextAnalytics-DotNetCore) topic: pushed_at:2020-01 star:0.0k fork:0.0k .NET Core SDK for the Microsoft Text Analytics API, part of Congitive Services
 - [microsoft/Cognitive-TextAnalytics-Windows](https://github.com/microsoft/Cognitive-TextAnalytics-Windows) topic: pushed_at:2020-01 star:0.0k fork:0.0k Windows (.Net) SDK for the Microsoft Text Analytics API, part of Congitive Services
 - [microsoft/collaborative-quest-completion](https://github.com/microsoft/collaborative-quest-completion) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
@@ -3360,7 +3368,7 @@
 - [microsoft/commercial-marketplace-resources](https://github.com/microsoft/commercial-marketplace-resources) topic: pushed_at:2023-10 star:0.0k fork:0.0k Various samples demonstrating commercial marketplace related scenarios.
 - [microsoft/CommercialAdsDataset](https://github.com/microsoft/CommercialAdsDataset) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [microsoft/Common-Design-Principles-for-a-Hub-and-Spoke-VNET-Archiecture](https://github.com/microsoft/Common-Design-Principles-for-a-Hub-and-Spoke-VNET-Archiecture) topic: pushed_at:2024-03 star:0.0k fork:0.0k Learn how to design a Hub and Spoke VNET architecture for Azure.
-- [microsoft/community-content](https://github.com/microsoft/community-content) topic: pushed_at:2024-07 star:0.1k fork:0.0k A curated collection of presentations-in-a-box created by Microsoft for speakers to use at user groups and meetups
+- [microsoft/community-content](https://github.com/microsoft/community-content) topic: pushed_at:2024-08 star:0.1k fork:0.0k A curated collection of presentations-in-a-box created by Microsoft for speakers to use at user groups and meetups
 - [microsoft/confidential-containers-attestation-agent](https://github.com/microsoft/confidential-containers-attestation-agent) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [microsoft/confidential-containers-kbs](https://github.com/microsoft/confidential-containers-kbs) topic: pushed_at:2023-06 star:0.0k fork:0.0k Generic Key Broker Service
 - [microsoft/ConnectedServices](https://github.com/microsoft/ConnectedServices) topic: pushed_at:2018-02 star:0.0k fork:0.0k 
@@ -3369,7 +3377,7 @@
 - [microsoft/Contoso-Hotels-Demo](https://github.com/microsoft/Contoso-Hotels-Demo) topic: pushed_at:2023-06 star:0.0k fork:0.0k Fully integrated Azure environment being managed by Azure Tools and deploy by at scale best practices for customers and partners to use for demos.
 - [microsoft/contributor-community-experiments](https://github.com/microsoft/contributor-community-experiments) topic: pushed_at:2021-07 star:0.0k fork:0.0k Tracking experiments and sharing best practices that we learn to build strong communities in our GitHub repos
 - [microsoft/ContributorLicenseAgreement](https://github.com/microsoft/ContributorLicenseAgreement) topic:github-azdo-bots-platform pushed_at:2024-06 star:0.1k fork:0.0k Microsoft Contributor License Agreement policy app
-- [microsoft/conversational-ai-chat-sdk](https://github.com/microsoft/conversational-ai-chat-sdk) topic: pushed_at:2024-07 star:0.0k fork:0.0k Chat SDKs for using Conversational AI platform in websites and web apps
+- [microsoft/conversational-ai-chat-sdk](https://github.com/microsoft/conversational-ai-chat-sdk) topic: pushed_at:2024-08 star:0.0k fork:0.0k Chat SDKs for using Conversational AI platform in websites and web apps
 - [microsoft/core](https://github.com/microsoft/core) topic: pushed_at:2023-06 star:0.0k fork:0.0k Home repository for .NET Core
 - [microsoft/CorrelationVector](https://github.com/microsoft/CorrelationVector) topic: pushed_at:2024-04 star:0.1k fork:0.0k Specification for the Correlation Vector - a protocol for tracing and correlation of events through a distributed system based on a light weight vector clock.
 - [microsoft/cortana-samples](https://github.com/microsoft/cortana-samples) topic: pushed_at:2023-06 star:0.1k fork:0.0k Code samples for Cortana extensibility.
@@ -3417,13 +3425,13 @@
 - [microsoft/debmitra](https://github.com/microsoft/debmitra) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
 - [microsoft/Decentralized-Identity-and-Verifiable-Credentials](https://github.com/microsoft/Decentralized-Identity-and-Verifiable-Credentials) topic: pushed_at:2022-11 star:0.0k fork:0.0k Distributed Identity and Verifiable Credentials
 - [microsoft/decomposition-of-complex-utterances](https://github.com/microsoft/decomposition-of-complex-utterances) topic: pushed_at:2024-07 star:0.0k fork:0.0k Resources for Natural Language Decomposition and Interpretation of Complex Utterances. IJCAI 2024
+- [microsoft/DeepGeoSearch](https://github.com/microsoft/DeepGeoSearch) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/defender-updatecontrols](https://github.com/microsoft/defender-updatecontrols) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [microsoft/Deploy-and-Optimize-Azure-ExpressRoute-Private-Peering](https://github.com/microsoft/Deploy-and-Optimize-Azure-ExpressRoute-Private-Peering) topic: pushed_at:2019-09 star:0.0k fork:0.0k This deployment guide is focused on helping you deploy and optimize the Azure private peering, which enables connectivity between your private network and your Azure VNets over ExpressRoute.
 - [microsoft/deployr-api-docs](https://github.com/microsoft/deployr-api-docs) topic: pushed_at:2023-06 star:0.0k fork:0.0k The DeployR APIs - Reference Documentation.
 - [microsoft/deprecated-azure-pipelines-servicenow-extension](https://github.com/microsoft/deprecated-azure-pipelines-servicenow-extension) topic: pushed_at:2018-09 star:0.0k fork:0.0k This repo contains code for ServiceNow extension to Azure DevOps
 - [microsoft/DesktopBridgeToUWP-Samples](https://github.com/microsoft/DesktopBridgeToUWP-Samples) topic: pushed_at:2022-11 star:0.5k fork:0.3k This repo contains the samples that demonstrate the usage patterns for the Desktop Conversion extensions.
 - [microsoft/devbox-accessibility](https://github.com/microsoft/devbox-accessibility) topic: pushed_at:2024-04 star:0.0k fork:0.0k Accessibility sample and templates for Microsoft Dev Box.
-- [microsoft/devbox-config](https://github.com/microsoft/devbox-config) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [microsoft/DevComUWPRepos](https://github.com/microsoft/DevComUWPRepos) topic: pushed_at:2020-10 star:0.0k fork:0.0k This repo is used to host the sample code in Forums
 - [microsoft/Develop-Custom-Object-Detection-Models-with-NVIDIA-and-Azure-ML-Studio](https://github.com/microsoft/Develop-Custom-Object-Detection-Models-with-NVIDIA-and-Azure-ML-Studio) topic: pushed_at:2022-11 star:0.0k fork:0.0k Learn how to develop custom object detection models with NVIDIA and Azure Machine Learning Studio
 - [microsoft/devex-dev-day](https://github.com/microsoft/devex-dev-day) topic: pushed_at:2023-12 star:0.0k fork:0.0k Content and templates for Developer Experience Day events.
@@ -3473,6 +3481,7 @@
 - [microsoft/engagementinsights-sdk-android](https://github.com/microsoft/engagementinsights-sdk-android) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 - [microsoft/engagementinsights-sdk-ios](https://github.com/microsoft/engagementinsights-sdk-ios) topic: pushed_at:2022-09 star:0.0k fork:0.0k Understand customer behavior using digital analytics in engagement insights, a capability of Dynamics 365 Customer Insights
 - [microsoft/EntraIDGovernance-Training](https://github.com/microsoft/EntraIDGovernance-Training) topic: pushed_at:2024-07 star:0.1k fork:0.0k Microsoft Entra ID Governance Training and Learning Resources
+- [microsoft/EntraSuite-Training](https://github.com/microsoft/EntraSuite-Training) topic: pushed_at:2024-08 star:0.0k fork:0.0k Repository dedicated to Entra Suite
 - [microsoft/EPMEstimator](https://github.com/microsoft/EPMEstimator) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/EPPC23-ALM](https://github.com/microsoft/EPPC23-ALM) topic: pushed_at:2023-08 star:0.0k fork:0.1k This repo is for the ALM Workshop at European Power Platform Conference 2023 in Dublin.
 - [microsoft/ER-Calc-Metered-vs-Unlimited](https://github.com/microsoft/ER-Calc-Metered-vs-Unlimited) topic: pushed_at:2023-06 star:0.0k fork:0.0k ExpressRoute Calculator for Metered vs Unlimited
@@ -3612,6 +3621,7 @@
 - [microsoft/M365DSCBlueprints](https://github.com/microsoft/M365DSCBlueprints) topic: pushed_at:2020-05 star:0.0k fork:0.0k Blueprints for Microsoft365DSC
 - [microsoft/machine-learning-collection](https://github.com/microsoft/machine-learning-collection) topic:azure,deep-learning,github,linkedin,machine-leanring,microsoft,microsoft-research pushed_at:2023-01 star:0.4k fork:0.1k :closed_book:machine learning tech collections at Microsoft and subsidiaries.
 - [microsoft/makecode-assets-public](https://github.com/microsoft/makecode-assets-public) topic: pushed_at:2022-02 star:0.0k fork:0.0k A collection of MakeCode art assets, design materials, links to MakeCode content, and more!
+- [microsoft/makecode-microbit-ml-simulator](https://github.com/microsoft/makecode-microbit-ml-simulator) topic: pushed_at:2024-08 star:0.0k fork:0.0k The simulator extension for the micro:bit Machine Learning MakeCode extension.
 - [microsoft/MakerCommunityResources](https://github.com/microsoft/MakerCommunityResources) topic: pushed_at:2022-07 star:0.0k fork:0.0k Resources for the maker community
 - [microsoft/Manageability_MAMA](https://github.com/microsoft/Manageability_MAMA) topic: pushed_at:2020-03 star:0.0k fork:0.0k MMA Management Automation
 - [microsoft/Maps](https://github.com/microsoft/Maps) topic: pushed_at:2022-08 star:0.1k fork:0.0k A list of open source projects related to Microsoft's geospatial and mapping services.
@@ -3622,19 +3632,6 @@
 - [microsoft/MC4S](https://github.com/microsoft/MC4S) topic: pushed_at:2023-08 star:0.0k fork:0.0k 
 - [microsoft/MCCO](https://github.com/microsoft/MCCO) topic: pushed_at:2023-06 star:0.0k fork:0.0k Microsoft China Center One (微软新视界)
 - [microsoft/MCSBusinessApplicationsDynamicsFSUtilityIndustry](https://github.com/microsoft/MCSBusinessApplicationsDynamicsFSUtilityIndustry) topic:dynamis,fieldservice,isu pushed_at:2023-11 star:0.0k fork:0.0k Industry Accelerator for Dynamics FS and SAP Utility workloads 
-- [microsoft/MCW](https://github.com/microsoft/MCW) topic:ai,apps,azure,data,devops,infra,iot,linux,mcw,sap pushed_at:2024-03 star:0.8k fork:0.3k Microsoft Cloud Workshop Project
-- [microsoft/MCW-Azure-Blockchain](https://github.com/microsoft/MCW-Azure-Blockchain) topic:aad,app-builder,blockchain,ethereum,event-hub,logic-apps,mcw,smart-contracts,stream-analytics pushed_at:2019-07 star:0.0k fork:0.1k MCW Azure Blockchain
-- [microsoft/MCW-Azure-security-and-management](https://github.com/microsoft/MCW-Azure-security-and-management) topic: pushed_at:2019-07 star:0.0k fork:0.1k MCW Azure security and management
-- [microsoft/MCW-Azure-Stack](https://github.com/microsoft/MCW-Azure-Stack) topic: pushed_at:2021-01 star:0.1k fork:0.1k MCW Azure Stack
-- [microsoft/MCW-Enterprise-ready-cloud](https://github.com/microsoft/MCW-Enterprise-ready-cloud) topic: pushed_at:2020-12 star:0.1k fork:0.1k MCW Enterprise-ready cloud
-- [microsoft/MCW-High-Performance-Computing](https://github.com/microsoft/MCW-High-Performance-Computing) topic: pushed_at:2021-06 star:0.0k fork:0.0k MCW High Performance Computing
-- [microsoft/MCW-Lift-and-shift-Azure-Resource-Manager](https://github.com/microsoft/MCW-Lift-and-shift-Azure-Resource-Manager) topic: pushed_at:2019-07 star:0.0k fork:0.1k MCW Lift and shift/Azure Resource Manager
-- [microsoft/MCW-Linux-lift-and-shift](https://github.com/microsoft/MCW-Linux-lift-and-shift) topic: pushed_at:2019-07 star:0.0k fork:0.0k MCW Linux lift and shift
-- [microsoft/MCW-Machine-Learning](https://github.com/microsoft/MCW-Machine-Learning) topic: pushed_at:2021-09 star:0.1k fork:0.1k MCW Machine Learning
-- [microsoft/MCW-OSS-DevOps](https://github.com/microsoft/MCW-OSS-DevOps) topic:azure,ci-cd,cicd,cleardb,devops,eclipse,jenkins,lamp,mcw,oss,php pushed_at:2019-07 star:0.0k fork:0.0k MCW OSS DevOps
-- [microsoft/MCW-SAP-NetWeaver-on-Azure](https://github.com/microsoft/MCW-SAP-NetWeaver-on-Azure) topic: pushed_at:2021-06 star:0.0k fork:0.0k MCW SAP NetWeaver on Azure
-- [microsoft/MCW-Template-Cloud-Workshop](https://github.com/microsoft/MCW-Template-Cloud-Workshop) topic:ai,apps,azure,data,infra,iot,linux,mcw,sap pushed_at:2022-09 star:0.0k fork:0.1k Official Microsoft Cloud Workshop Template
-- [microsoft/MCW-Windows-Server-and-SQL-Server-2008-R2-End-of-Support-Planning](https://github.com/microsoft/MCW-Windows-Server-and-SQL-Server-2008-R2-End-of-Support-Planning) topic: pushed_at:2020-04 star:0.0k fork:0.0k MCW Windows Server and SQL Server 2008-R2 end of support planning
 - [microsoft/mde-indicators](https://github.com/microsoft/mde-indicators) topic: pushed_at:2024-06 star:0.0k fork:0.0k Tools and scripts for managing custom indictators for MDE
 - [microsoft/MDI-Suspected-Skeleton-Key-Attack-Tool](https://github.com/microsoft/MDI-Suspected-Skeleton-Key-Attack-Tool) topic: pushed_at:2020-11 star:0.0k fork:0.0k 
 - [microsoft/memcsslabs](https://github.com/microsoft/memcsslabs) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
@@ -3653,13 +3650,13 @@
 - [microsoft/Microsoft-Sustainability-Manager-Project-Process-ADO-Template](https://github.com/microsoft/Microsoft-Sustainability-Manager-Project-Process-ADO-Template) topic: pushed_at:2024-02 star:0.0k fork:0.0k It provides Azure DevOps Process template for your Microsoft Sustainability Project
 - [microsoft/Microsoft-TP-Link-Research-Team](https://github.com/microsoft/Microsoft-TP-Link-Research-Team) topic: pushed_at:2024-03 star:0.0k fork:0.0k To gain access, please finish setting up this repository now at: 
 - [microsoft/microsoft-ui-xaml-specs](https://github.com/microsoft/microsoft-ui-xaml-specs) topic: pushed_at:2024-06 star:0.1k fork:0.0k API spec repository for the Windows UI Library (WinUI)
-- [microsoft/Microsoft-Win32-Content-Prep-Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool) topic: pushed_at:2024-02 star:0.9k fork:0.2k A tool to wrap Win32 App and then it can be uploaded to Intune
+- [microsoft/Microsoft-Win32-Content-Prep-Tool](https://github.com/microsoft/Microsoft-Win32-Content-Prep-Tool) topic: pushed_at:2024-02 star:1.0k fork:0.2k A tool to wrap Win32 App and then it can be uploaded to Intune
 - [microsoft/Microsoft.Advisor.Engagements](https://github.com/microsoft/Microsoft.Advisor.Engagements) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/Microsoft.Windows.Apps.Test](https://github.com/microsoft/Microsoft.Windows.Apps.Test) topic: pushed_at:2023-06 star:0.0k fork:0.0k Provides functionality to test the UI of Windows applications.
 - [microsoft/microsoft365-lighthouse-bi](https://github.com/microsoft/microsoft365-lighthouse-bi) topic:m,microsoft365,powerbi,powerquery pushed_at:2021-07 star:0.0k fork:0.0k Microsoft 365 Lighthouse Business Intelligence 
 - [microsoft/Microsoft365Training](https://github.com/microsoft/Microsoft365Training) topic: pushed_at:2024-05 star:0.0k fork:0.0k Trainer toolkits for Microsoft 365 products and services. 
 - [microsoft/Microsoft_Uzma](https://github.com/microsoft/Microsoft_Uzma) topic: pushed_at:2023-07 star:0.0k fork:0.0k Uzma's contribution repo
-- [microsoft/MicrosoftAzureCloudHSM](https://github.com/microsoft/MicrosoftAzureCloudHSM) topic: pushed_at:2024-07 star:0.0k fork:0.0k Azure Cloud HSM SDK (Private Preview)
+- [microsoft/MicrosoftAzureCloudHSM](https://github.com/microsoft/MicrosoftAzureCloudHSM) topic: pushed_at:2024-08 star:0.0k fork:0.0k Azure Cloud HSM SDK (Private Preview)
 - [microsoft/MicrosoftBuild2021_DigitalSwag](https://github.com/microsoft/MicrosoftBuild2021_DigitalSwag) topic: pushed_at:2021-05 star:0.1k fork:0.0k 
 - [microsoft/MicrosoftDefenderForEndpoint-API-PowerShell](https://github.com/microsoft/MicrosoftDefenderForEndpoint-API-PowerShell) topic: pushed_at:2019-12 star:0.0k fork:0.0k This project contains samples how to use MDATP API for integration with other systems and products
 - [microsoft/MicrosoftDefenderForEndpoint-PowerBI](https://github.com/microsoft/MicrosoftDefenderForEndpoint-PowerBI) topic: pushed_at:2021-06 star:0.2k fork:0.0k A repo for sample MDATP Power BI Templates
@@ -3714,7 +3711,7 @@
 - [microsoft/NH4H-Gamification-React](https://github.com/microsoft/NH4H-Gamification-React) topic: pushed_at:2021-04 star:0.0k fork:0.0k Gamification component for hackathons
 - [microsoft/NimbleQR](https://github.com/microsoft/NimbleQR) topic: pushed_at:2022-03 star:0.0k fork:0.0k An easy-to-use QR solution for Unity C# projects
 - [microsoft/nl-task-decomposition](https://github.com/microsoft/nl-task-decomposition) topic: pushed_at:2024-05 star:0.0k fork:0.0k Resources for Natural Language Decomposition and Interpretation of Complex Utterances. IJCAI 2024.
-- [microsoft/nnscaler](https://github.com/microsoft/nnscaler) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
+- [microsoft/nnscaler](https://github.com/microsoft/nnscaler) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/NoAudioCaptioning](https://github.com/microsoft/NoAudioCaptioning) topic: pushed_at:2023-09 star:0.0k fork:0.0k Repository for "Training Audio Captioning Models without Audio"
 - [microsoft/nodejs-guidelines](https://github.com/microsoft/nodejs-guidelines) topic: pushed_at:2023-02 star:2.5k fork:0.3k Tips, tricks, and resources for working with Node.js, and the start of an ongoing conversation on how we can improve the Node.js experience on Microsoft platforms.
 - [microsoft/Nonprofits](https://github.com/microsoft/Nonprofits) topic: pushed_at:2023-09 star:0.1k fork:0.0k Microsoft Nonprofit Innovation Hub
@@ -3732,7 +3729,7 @@
 - [microsoft/OfficeCalendarInsights](https://github.com/microsoft/OfficeCalendarInsights) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 - [microsoft/OHDSI](https://github.com/microsoft/OHDSI) topic: pushed_at:2022-02 star:0.0k fork:0.0k This is the repo for the OHDSI on Azure working v-team. This work is being completed in partnership of the OHDSI org
 - [microsoft/Okapi](https://github.com/microsoft/Okapi) topic: pushed_at:2021-12 star:0.0k fork:0.0k A large-scale human labeled dataset for compositional generalization in natural language interfaces to Web APIs
-- [microsoft/omi-kits](https://github.com/microsoft/omi-kits) topic: pushed_at:2024-04 star:0.0k fork:0.0k OMI Binary Release Kits
+- [microsoft/omi-kits](https://github.com/microsoft/omi-kits) topic: pushed_at:2024-08 star:0.0k fork:0.0k OMI Binary Release Kits
 - [microsoft/onefuzz-samples](https://github.com/microsoft/onefuzz-samples) topic: pushed_at:2023-01 star:0.0k fork:0.0k Sample CICD Pipelines for OneFuzz
 - [microsoft/Open-Maps](https://github.com/microsoft/Open-Maps) topic: pushed_at:2024-01 star:0.1k fork:0.0k Microsoft Open Data Team 
 - [microsoft/open-source-discord](https://github.com/microsoft/open-source-discord) topic: pushed_at:2024-07 star:0.0k fork:0.0k Welcome to the Microsoft Open Source Discord
@@ -3779,7 +3776,7 @@
 - [microsoft/Power-Up-app-challenge-animal-shelter-assets](https://github.com/microsoft/Power-Up-app-challenge-animal-shelter-assets) topic: pushed_at:2024-01 star:0.0k fork:0.0k Storage of assets to be used in the creation of solutions for the app challenge
 - [microsoft/PowerApps-Sample-Apps-Japan](https://github.com/microsoft/PowerApps-Sample-Apps-Japan) topic: pushed_at:2024-08 star:0.0k fork:0.0k This is a repository for sample apps built with Power Apps in Japanese. 
 - [microsoft/PowerApps-Templates-Japan](https://github.com/microsoft/PowerApps-Templates-Japan) topic: pushed_at:2020-06 star:0.0k fork:0.0k This is a repo for Japanese Power Apps templates
-- [microsoft/powerbi-desktop-samples](https://github.com/microsoft/powerbi-desktop-samples) topic: pushed_at:2024-07 star:1.4k fork:0.8k Power BI Desktop sample files for the monthly release. Here you can find the PBIX files used in the monthly release videos.
+- [microsoft/powerbi-desktop-samples](https://github.com/microsoft/powerbi-desktop-samples) topic: pushed_at:2024-08 star:1.4k fork:0.8k Power BI Desktop sample files for the monthly release. Here you can find the PBIX files used in the monthly release videos.
 - [microsoft/PowerBI-Icons](https://github.com/microsoft/PowerBI-Icons) topic:powerbi,powerbi-desktop pushed_at:2024-03 star:0.4k fork:0.2k Icons (PNG and SVG) for Power BI
 - [microsoft/powerbi-pipeline-reports](https://github.com/microsoft/powerbi-pipeline-reports) topic: pushed_at:2021-02 star:0.0k fork:0.0k Power BI template that consolidates pipeline runs across multiple projects in AzDO using REST APIs
 - [microsoft/powerbi-troubleshooting](https://github.com/microsoft/powerbi-troubleshooting) topic: pushed_at:2022-01 star:0.0k fork:0.0k Troubleshooting resources for Power BI
@@ -3831,14 +3828,12 @@
 - [microsoft/python-in-excel](https://github.com/microsoft/python-in-excel) topic: pushed_at:2023-09 star:0.5k fork:0.0k Python in Microsoft Excel
 - [microsoft/qCards](https://github.com/microsoft/qCards) topic: pushed_at:2023-06 star:0.0k fork:0.0k Android app for real-time audience polling using computer vision.
 - [microsoft/quick-authentication](https://github.com/microsoft/quick-authentication) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
-- [microsoft/RadFact](https://github.com/microsoft/RadFact) topic: pushed_at:2024-06 star:0.0k fork:0.0k A metric suite leveraging the logical inference capabilities of LLMs, for radiology report generation both with and without grounding
-- [microsoft/RAG_Hack](https://github.com/microsoft/RAG_Hack) topic:ai,azure,hackathon,rag,streams pushed_at:2024-08 star:0.1k fork:0.0k HackTogether: RAGHack | Register, Learn, Hack
+- [microsoft/RAG_Hack](https://github.com/microsoft/RAG_Hack) topic:ai,azure,hackathon,rag,streams pushed_at:2024-08 star:0.2k fork:0.0k Hack Together: RAG Hack | Register, Learn, Hack
 - [microsoft/react-native-devblog](https://github.com/microsoft/react-native-devblog) topic:articles,blog,react-native,react-native-macos,react-native-windows pushed_at:2024-07 star:0.0k fork:0.0k Repository hosting the markdown files for the React Native dev blog
 - [microsoft/react-native-windows-specs](https://github.com/microsoft/react-native-windows-specs) topic: pushed_at:2020-12 star:0.0k fork:0.0k Discussions and proposal related to the main React Native project
 - [microsoft/reacteverywhere](https://github.com/microsoft/reacteverywhere) topic: pushed_at:2022-07 star:0.0k fork:0.0k JavaScript library which can be used to consume React components or Controls as Web Component. 
 - [microsoft/ReactorPlanning](https://github.com/microsoft/ReactorPlanning) topic: pushed_at:2021-01 star:0.0k fork:0.0k For planning Microsoft Reactor First Party Content
 - [microsoft/ReactorShanghai](https://github.com/microsoft/ReactorShanghai) topic: pushed_at:2020-08 star:0.0k fork:0.0k Contet for Microsoft Reactor Shanghai
-- [microsoft/Redfish-Interop-Validator](https://github.com/microsoft/Redfish-Interop-Validator) topic: pushed_at:2024-07 star:0.0k fork:0.0k The Redfish Interop Validator is a python3 tool that will validate a service based on a profile given to the tool.
 - [microsoft/resource-characteristics-health](https://github.com/microsoft/resource-characteristics-health) topic: pushed_at:2022-08 star:0.0k fork:0.0k Extending Dataverse bookable resource characteristics table as a foundation for configuring common healthcare use cases with low-code.
 - [microsoft/review-hub](https://github.com/microsoft/review-hub) topic: pushed_at:2023-05 star:0.0k fork:0.0k 
 - [microsoft/Rexl-sample-notebooks](https://github.com/microsoft/Rexl-sample-notebooks) topic: pushed_at:2024-07 star:0.0k fork:0.0k Repository containing sample Jupyter notebooks for Microsoft Rexl (Research EXpression Language)
@@ -3851,6 +3846,7 @@
 - [microsoft/RTW-Rapid-Screening](https://github.com/microsoft/RTW-Rapid-Screening) topic:covid-19,powerapps,powerplatform,rapid-development,return-to-work pushed_at:2021-11 star:0.0k fork:0.0k The Microsoft Rapid Screening solution templates enable enterprise organizations to deliver rapid Covid-19 screening of their employees through applications for both employees and health and safety officers.
 - [microsoft/SaaSApp-ContosoShopkeeper](https://github.com/microsoft/SaaSApp-ContosoShopkeeper) topic: pushed_at:2019-01 star:0.0k fork:0.0k The focus of this quick start is on leveraging Elastic Pools and understanding how the support the backend for a SaaS application like Contoso ShopKeeper, the design and implementation of the App Services component is considered out of scope.  Since the best way to understand the behavior of Elastic Pools is to experience using them under load, we provide a load generator. The load generator is a console application that targets one or more elastic database instances in an Elastic Pool with a specific write load. You can run multiple instances of the load generator with different settings if you want to create a blended load, e.g., a mix of heavy a light load. In addition, you do not need to target all databases in the pool by the load generator, so you can leave databases you choose without any load.  
 - [microsoft/SAPTELEMETRY](https://github.com/microsoft/SAPTELEMETRY) topic: pushed_at:2020-08 star:0.0k fork:0.0k SAP Telemetry data to Azure Application insights using Azure API within SAP REST framework
+- [microsoft/Saraswati](https://github.com/microsoft/Saraswati) topic: pushed_at:2024-08 star:0.0k fork:0.0k Named after the Hindu goddess of knowledge, music, art, wisdom, and learning; symbolizing the importance of education and knowledge.  This is a project that adds an Azure Avatar to a RAG implementation used to train employees on how to interact on customers with different personalities (roles).
 - [microsoft/sarif-tutorials](https://github.com/microsoft/sarif-tutorials) topic:sarif,static-analysis,tutorial pushed_at:2023-12 star:0.3k fork:0.1k User-friendly documentation for the SARIF file format.
 - [microsoft/SC-APIs](https://github.com/microsoft/SC-APIs) topic: pushed_at:2022-01 star:0.0k fork:0.0k Location of Compliance, Risk, and Privacy APIs in Github
 - [microsoft/scala-style-download](https://github.com/microsoft/scala-style-download) topic: pushed_at:2021-10 star:0.0k fork:0.0k GitHub Action that downloads scalastyle
@@ -3881,7 +3877,7 @@
 - [microsoft/SouthAmericaBuildingFootprints](https://github.com/microsoft/SouthAmericaBuildingFootprints) topic: pushed_at:2021-12 star:0.1k fork:0.0k building footprints in South America
 - [microsoft/Spark-Hive-Tools](https://github.com/microsoft/Spark-Hive-Tools) topic: pushed_at:2023-06 star:0.0k fork:0.0k This is for issue/feedback tracking on Spark & Hive Tools
 - [microsoft/SparkEnhancement](https://github.com/microsoft/SparkEnhancement) topic: pushed_at:2023-06 star:0.0k fork:0.0k issue tracker only for Spark Enhancement project
-- [microsoft/spring-data-cosmosdb](https://github.com/microsoft/spring-data-cosmosdb) topic:azure,azure-cosmos-db,cosmosdb,documentdb,spring-data pushed_at:2023-09 star:0.1k fork:0.1k Access data with Azure Cosmos DB
+- [microsoft/spring-data-cosmosdb](https://github.com/microsoft/spring-data-cosmosdb) topic:azure,azure-cosmos-db,cosmosdb,documentdb,spring-data pushed_at:2024-08 star:0.1k fork:0.1k Access data with Azure Cosmos DB
 - [microsoft/SQL-Server-Big-Data-Cluster-App-Deploy-Extension](https://github.com/microsoft/SQL-Server-Big-Data-Cluster-App-Deploy-Extension) topic: pushed_at:2023-06 star:0.0k fork:0.0k Visual Studio Code Extension for deploying applications to a SQL Server Big Data Cluster
 - [microsoft/sql-server-samples](https://github.com/microsoft/sql-server-samples) topic: pushed_at:2024-08 star:9.9k fork:8.8k Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge
 - [microsoft/SqlParser](https://github.com/microsoft/SqlParser) topic: pushed_at:2024-08 star:0.0k fork:0.0k Provides basic syntax parsing and binding for the TSQL language for many versions and editions of Microsoft SQL Server and Azure SQL Database.
@@ -3892,7 +3888,7 @@
 - [microsoft/sqlworkshops-sqlg2c](https://github.com/microsoft/sqlworkshops-sqlg2c) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/sqlworkshops-template](https://github.com/microsoft/sqlworkshops-template) topic: pushed_at:2023-08 star:0.0k fork:0.0k Template for our courses
 - [microsoft/SSMA](https://github.com/microsoft/SSMA) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [microsoft/startstopv2-deployments](https://github.com/microsoft/startstopv2-deployments) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/startstopv2-deployments](https://github.com/microsoft/startstopv2-deployments) topic: pushed_at:2024-08 star:0.1k fork:0.0k 
 - [microsoft/startups](https://github.com/microsoft/startups) topic: pushed_at:2022-03 star:0.0k fork:0.0k Guidance, information, and resources to get your startup up and running on Azure
 - [microsoft/static-web-apps-gallery-code-samples](https://github.com/microsoft/static-web-apps-gallery-code-samples) topic:angular,azure,azure-static-web-apps,gatsby,javascript,react,scully,static-site,static-site-generator,stenciljs,svelte,vue pushed_at:2023-04 star:0.1k fork:0.1k A community showcase of projects built with Azure Static Web Apps 🎉     Visit: https://microsoft.github.io/static-web-apps-gallery-code-samples/
 - [microsoft/student-hackathons](https://github.com/microsoft/student-hackathons) topic: pushed_at:2019-09 star:0.0k fork:0.0k Resources and content for student hackathons
@@ -3918,6 +3914,7 @@
 - [microsoft/Synapse](https://github.com/microsoft/Synapse) topic: pushed_at:2022-02 star:0.0k fork:0.0k Samples for Azure Synapse Analytics
 - [microsoft/Synapse-Data-exploration](https://github.com/microsoft/Synapse-Data-exploration) topic: pushed_at:2023-06 star:0.0k fork:0.0k Synapse Data exploration
 - [microsoft/synapse-spark-runtime](https://github.com/microsoft/synapse-spark-runtime) topic: pushed_at:2024-08 star:0.0k fork:0.0k Release notes for Apache Spark based Runtime for Azure Synapse Analytics and Microsoft Fabric
+- [microsoft/SynapseML-demo3](https://github.com/microsoft/SynapseML-demo3) topic: pushed_at:2024-08 star:0.0k fork:0.0k Simple and Distributed Machine Learning
 - [microsoft/SynapseVSCode](https://github.com/microsoft/SynapseVSCode) topic: pushed_at:2024-06 star:0.0k fork:0.0k this is the repo of the Synapse VS Code extension for Microsoft Fabric
 - [microsoft/TableSense](https://github.com/microsoft/TableSense) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [microsoft/TACO](https://github.com/microsoft/TACO) topic: pushed_at:2022-11 star:0.2k fork:0.0k Tools for Apache Cordova
@@ -3926,7 +3923,7 @@
 - [microsoft/TaxiXNLI](https://github.com/microsoft/TaxiXNLI) topic: pushed_at:2021-11 star:0.0k fork:0.0k Multi-lingual Extension of TaxiNLI
 - [microsoft/teams-powerapps-app-templates](https://github.com/microsoft/teams-powerapps-app-templates) topic:powerapps,teams pushed_at:2024-07 star:0.2k fork:0.1k Sample Teams app built by Power Apps
 - [microsoft/TeamsDataCollector](https://github.com/microsoft/TeamsDataCollector) topic: pushed_at:2021-08 star:0.0k fork:0.0k A troubleshooting data collection tool for Microsoft Teams.
-- [microsoft/teamstrace](https://github.com/microsoft/teamstrace) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
+- [microsoft/teamstrace](https://github.com/microsoft/teamstrace) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/tensorflow-rematerialization](https://github.com/microsoft/tensorflow-rematerialization) topic: pushed_at:2019-12 star:0.0k fork:0.0k Implementation of a Tensorflow XLA rematerialization pass
 - [microsoft/testfx-docs](https://github.com/microsoft/testfx-docs) topic: pushed_at:2022-10 star:0.1k fork:0.0k Docs for MSTest V2 test framework
 - [microsoft/TestTeam-Industry-Trainings](https://github.com/microsoft/TestTeam-Industry-Trainings) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
@@ -3939,7 +3936,7 @@
 - [microsoft/tmdl-language-services](https://github.com/microsoft/tmdl-language-services) topic: pushed_at:2023-04 star:0.0k fork:0.0k This project contains the base functionality for implementing a language service for the Tabular Model Definition Language (TMDL). The VS Code extension for TMDL uses this library.
 - [microsoft/tmdl-parser](https://github.com/microsoft/tmdl-parser) topic: pushed_at:2023-04 star:0.0k fork:0.0k This project contains a lexer + parser for for the Tabular Model Definition Language (TMDL). It also contains features such as type validation. The VS Code extension for TMDL uses this library.
 - [microsoft/TokenReplace](https://github.com/microsoft/TokenReplace) topic: pushed_at:2021-02 star:0.0k fork:0.0k A simple example of how to perform a token search/replace within files by using a GitHub build action.
-- [microsoft/transformers-course](https://github.com/microsoft/transformers-course) topic: pushed_at:2024-07 star:0.0k fork:0.0k The Hugging Face course on Transformers
+- [microsoft/transformers-course](https://github.com/microsoft/transformers-course) topic: pushed_at:2024-08 star:0.0k fork:0.0k The Hugging Face course on Transformers
 - [microsoft/trouter-client-android](https://github.com/microsoft/trouter-client-android) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/trouter-client-ios](https://github.com/microsoft/trouter-client-ios) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/TypeScript-Playground-Samples](https://github.com/microsoft/TypeScript-Playground-Samples) topic: pushed_at:2022-11 star:0.0k fork:0.0k Examples of TypeScript Playground Plugins for you to work from
@@ -3988,7 +3985,7 @@
 - [microsoft/vscode-brackets-keybindings](https://github.com/microsoft/vscode-brackets-keybindings) topic: pushed_at:2024-03 star:0.0k fork:0.0k Brackets Keymap for Visual Studio Code
 - [microsoft/vscode-brackets-pack](https://github.com/microsoft/vscode-brackets-pack) topic: pushed_at:2023-06 star:0.0k fork:0.0k Popular Brackets features as extensions for VS Code.
 - [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) topic:ai,copilot,copilot-chat,copilot-x,vscode pushed_at:2024-06 star:0.3k fork:0.0k Feedback on GitHub Copilot Chat UX in Visual Studio Code.
-- [microsoft/vscode-data-wrangler](https://github.com/microsoft/vscode-data-wrangler) topic: pushed_at:2024-07 star:0.4k fork:0.0k 
+- [microsoft/vscode-data-wrangler](https://github.com/microsoft/vscode-data-wrangler) topic: pushed_at:2024-08 star:0.4k fork:0.0k 
 - [microsoft/vscode-discussions](https://github.com/microsoft/vscode-discussions) topic: pushed_at:2024-01 star:0.2k fork:0.0k The official place to discuss all things VS Code!
 - [microsoft/vscode-docs-authoring](https://github.com/microsoft/vscode-docs-authoring) topic: pushed_at:2023-06 star:0.1k fork:0.1k VSCode extension that provides markdown authoring assistance to docs.microsoft.com contributors
 - [microsoft/vscode-dotnettools](https://github.com/microsoft/vscode-dotnettools) topic: pushed_at:2024-07 star:0.2k fork:0.0k This is a feedback repository to capture issues logged for the C# Dev Kit and related extensions from Visual Studio Code
@@ -4031,7 +4028,7 @@
 - [microsoft/win-student-devs](https://github.com/microsoft/win-student-devs) topic:developer-tools,pwa,webapp pushed_at:2023-02 star:0.1k fork:0.0k This repo aims to help student developers to build apps that run on Windows.
 - [microsoft/win32-app-isolation](https://github.com/microsoft/win32-app-isolation) topic: pushed_at:2024-08 star:1.3k fork:0.0k Tools and documentation for Win32 app isolation
 - [microsoft/Windows-appsample-Xaml-Hosting](https://github.com/microsoft/Windows-appsample-Xaml-Hosting) topic: pushed_at:2023-06 star:0.0k fork:0.0k The XAML Hosting API sample is a win32 desktop app that demonstrates assorted scenarios using the UWP Xaml hosting API.
-- [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) topic: pushed_at:2024-06 star:5.0k fork:3.2k This repo contains samples that demonstrate the API used in Windows classic desktop applications.
+- [microsoft/Windows-classic-samples](https://github.com/microsoft/Windows-classic-samples) topic: pushed_at:2024-08 star:5.0k fork:3.2k This repo contains samples that demonstrate the API used in Windows classic desktop applications.
 - [microsoft/Windows-Cross-Device](https://github.com/microsoft/Windows-Cross-Device) topic: pushed_at:2024-02 star:0.0k fork:0.0k 
 - [microsoft/Windows-Dev-Performance](https://github.com/microsoft/Windows-Dev-Performance) topic: pushed_at:2023-06 star:0.4k fork:0.0k A repo for developers on Windows to file issues that impede their productivity, efficiency, and efficacy
 - [microsoft/windows-developer-blog-samples](https://github.com/microsoft/windows-developer-blog-samples) topic: pushed_at:2022-10 star:0.0k fork:0.0k Demo samples from https://blogs.windows.com/buildingapps
@@ -4053,7 +4050,7 @@
 - [microsoft/xaml-standard](https://github.com/microsoft/xaml-standard) topic: pushed_at:2023-06 star:0.8k fork:0.1k XAML Standard : a set of principles that drive XAML dialect alignment
 - [microsoft/xandr-docs-public](https://github.com/microsoft/xandr-docs-public) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [microsoft/xbox-integrated-multiplayer-unity-plugin](https://github.com/microsoft/xbox-integrated-multiplayer-unity-plugin) topic: pushed_at:2018-07 star:0.0k fork:0.0k Xbox Integrated Multiplayer (XIM) is a self-contained interface for easily adding multiplayer real-time networking and chat communication to your game through the power of Xbox Live services.
-- [microsoft/XboxGameBarSamples](https://github.com/microsoft/XboxGameBarSamples) topic: pushed_at:2024-02 star:0.1k fork:0.0k Sample code for Xbox Game Bar Widgets
+- [microsoft/XboxGameBarSamples](https://github.com/microsoft/XboxGameBarSamples) topic: pushed_at:2024-08 star:0.1k fork:0.0k Sample code for Xbox Game Bar Widgets
 - [microsoft/Yatesbury](https://github.com/microsoft/Yatesbury) topic: pushed_at:2024-04 star:0.0k fork:0.0k Benchmark for East-West Traffic Security
 - [microsoft/yomanor](https://github.com/microsoft/yomanor) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 
@@ -4061,7 +4058,7 @@
 
 - [microsoft/ApplicationInsights-PHP](https://github.com/microsoft/ApplicationInsights-PHP) topic:application-insights,azure,distributed-tracing,logging,monitoring,php,sdk,telemetry pushed_at:2020-05 star:0.1k fork:0.1k Azure Application Insights SDK for PHP
 - [microsoft/ApplicationInsights-WordPress](https://github.com/microsoft/ApplicationInsights-WordPress) topic: pushed_at:2019-10 star:0.0k fork:0.0k Main development repository for Application Insights WordPress plugin.
-- [microsoft/azure_pg_dev_workshop](https://github.com/microsoft/azure_pg_dev_workshop) topic: pushed_at:2024-07 star:0.0k fork:0.0k Azure Database for PostgreSQL Developer workshop
+- [microsoft/azure_pg_dev_workshop](https://github.com/microsoft/azure_pg_dev_workshop) topic: pushed_at:2024-08 star:0.0k fork:0.0k Azure Database for PostgreSQL Developer workshop
 - [microsoft/bing-wordpress-url-submission-plugin](https://github.com/microsoft/bing-wordpress-url-submission-plugin) topic:bing-webmaster,wordpress-plugin pushed_at:2023-10 star:0.0k fork:0.0k WordPress plugin solution that WordPress website owners can install to notify Bing whenever their website contents is updated or created allowing instant crawling, indexing and discovery of their site content.
 - [microsoft/clarity-joomla-plugin](https://github.com/microsoft/clarity-joomla-plugin) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [microsoft/developer-immersion-data](https://github.com/microsoft/developer-immersion-data) topic: pushed_at:2023-07 star:0.1k fork:0.1k Developer Immersion "Developing with Data"
@@ -4089,7 +4086,7 @@
 - [microsoft/moodle-repository_office365](https://github.com/microsoft/moodle-repository_office365) topic: pushed_at:2024-07 star:0.0k fork:0.0k OneDrive for Business Repo plugin for Moodle
 - [microsoft/moodle-repository_onenote](https://github.com/microsoft/moodle-repository_onenote) topic: pushed_at:2023-06 star:0.0k fork:0.0k OneNote Repo plugin for Moodle
 - [microsoft/moodle-theme_boost_o365teams](https://github.com/microsoft/moodle-theme_boost_o365teams) topic: pushed_at:2024-07 star:0.0k fork:0.0k A custom theme used for the Moodle integration in Microsoft Teams. For more details, go to https://aka.ms/TeamsMoodle
-- [microsoft/msphpsql](https://github.com/microsoft/msphpsql) topic:microsoft,microsoft-driver,php-driver,php-extension,sql-server pushed_at:2024-06 star:1.8k fork:0.4k Microsoft Drivers for PHP for SQL Server
+- [microsoft/msphpsql](https://github.com/microsoft/msphpsql) topic:microsoft,microsoft-driver,php-driver,php-extension,sql-server pushed_at:2024-08 star:1.8k fork:0.4k Microsoft Drivers for PHP for SQL Server
 - [microsoft/o365-moodle](https://github.com/microsoft/o365-moodle) topic:education,learning-management-system,lms,microsoft,microsoft-graph-api,microsoft-school-data-sync,moodle,moodle-plugin,office-365,oidc,virtual-learning-environment pushed_at:2024-08 star:0.2k fork:0.1k Office 365 and Azure Active Directory plugins for Moodle
 - [microsoft/Personalizer-WordPress](https://github.com/microsoft/Personalizer-WordPress) topic: pushed_at:2019-12 star:0.0k fork:0.0k WordPress plugin for Azure Cognitive Service Personalizer
 - [microsoft/project-php-laravel-container](https://github.com/microsoft/project-php-laravel-container) topic: pushed_at:2023-07 star:0.0k fork:0.0k Sample PHP Laravel web application
@@ -4126,9 +4123,9 @@
 - [microsoft/Advanced-Threat-Analytics](https://github.com/microsoft/Advanced-Threat-Analytics) topic: pushed_at:2022-11 star:0.0k fork:0.0k ATA PowerShell Module
 - [microsoft/AGIC-Installer-assistant](https://github.com/microsoft/AGIC-Installer-assistant) topic: pushed_at:2022-08 star:0.0k fork:0.0k This is a PowerShell script that will guide you through the installation of the AGIC controller for AKS (Brownfield deployment only)
 - [microsoft/AKS-Arc-Apps](https://github.com/microsoft/AKS-Arc-Apps) topic: pushed_at:2024-05 star:0.0k fork:0.0k Docs and scripts to simplify application deployment on AKS enabled by Arc
-- [microsoft/AL](https://github.com/microsoft/AL) topic:al-language,dynamics-365,dynamics-365-bc,dynamics-365-business-central,visual-studio-code pushed_at:2024-07 star:0.7k fork:0.2k Home of the Dynamics 365 Business Central AL Language extension for Visual Studio Code. Used to track issues regarding the latest version of the AL compiler and developer tools available in the Visual Studio Code Marketplace or as part of the AL Developer Preview builds for Dynamics 365 Business Central.
+- [microsoft/AL](https://github.com/microsoft/AL) topic:al-language,dynamics-365,dynamics-365-bc,dynamics-365-business-central,visual-studio-code pushed_at:2024-08 star:0.7k fork:0.2k Home of the Dynamics 365 Business Central AL Language extension for Visual Studio Code. Used to track issues regarding the latest version of the AL compiler and developer tools available in the Visual Studio Code Marketplace or as part of the AL Developer Preview builds for Dynamics 365 Business Central.
 - [microsoft/AL-Go](https://github.com/microsoft/AL-Go) topic:al,al-go,business-central,businesscentral,devops,github,microsoft,msdyn365bc pushed_at:2024-08 star:0.3k fork:0.1k The plug-and-play DevOps solution for Business Central app development on GitHub
-- [microsoft/AL-Go-Actions](https://github.com/microsoft/AL-Go-Actions) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
+- [microsoft/AL-Go-Actions](https://github.com/microsoft/AL-Go-Actions) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/AL-Go-AppSource](https://github.com/microsoft/AL-Go-AppSource) topic: pushed_at:2024-08 star:0.0k fork:0.0k Template for Business Central AppSource projects. Click the link below to create a new repository.
 - [microsoft/AL-Go-AppSource-Preview](https://github.com/microsoft/AL-Go-AppSource-Preview) topic: pushed_at:2024-06 star:0.0k fork:0.0k [PREVIEW] AL-Go-AppSource template
 - [microsoft/AL-Go-PTE](https://github.com/microsoft/AL-Go-PTE) topic: pushed_at:2024-08 star:0.1k fork:0.1k Template for Business Central Per Tenant Extensions projects. Click the link below to create a new repository.
@@ -4174,7 +4171,8 @@
 - [microsoft/Build-OMS-Agent-for-Linux](https://github.com/microsoft/Build-OMS-Agent-for-Linux) topic: pushed_at:2024-07 star:0.0k fork:0.1k Build projects required for omsagent
 - [microsoft/Check-GroupMembership](https://github.com/microsoft/Check-GroupMembership) topic: pushed_at:2023-06 star:0.0k fork:0.0k This script checks if there are groups that have mismatching members in between Azure Active Directory and Exchange Online.
 - [microsoft/ClinicalTrialsBlueprint](https://github.com/microsoft/ClinicalTrialsBlueprint) topic: pushed_at:2024-01 star:0.0k fork:0.0k Setup the resources for provisioning Clinical Trials search
-- [microsoft/CloudAdoptionFramework](https://github.com/microsoft/CloudAdoptionFramework) topic:azure,cloud-adoption-framework pushed_at:2024-08 star:0.8k fork:0.6k Code samples and extended documentation to support the guidance provided in the Microsoft Cloud Adoption Framework
+- [microsoft/cloud-advocate-workshops](https://github.com/microsoft/cloud-advocate-workshops) topic: pushed_at:2024-08 star:0.0k fork:0.0k Workshops created by the Cloud Advocacy team at Microsoft.
+- [microsoft/CloudAdoptionFramework](https://github.com/microsoft/CloudAdoptionFramework) topic:azure,cloud-adoption-framework pushed_at:2024-08 star:0.9k fork:0.6k Code samples and extended documentation to support the guidance provided in the Microsoft Cloud Adoption Framework
 - [microsoft/CloudConfigurationManager](https://github.com/microsoft/CloudConfigurationManager) topic: pushed_at:2024-06 star:0.0k fork:0.0k The Cloud Configuration Manager is a Serverless alternative to the DSC Local Configuration Manager
 - [microsoft/Cluster](https://github.com/microsoft/Cluster) topic: pushed_at:2019-07 star:0.0k fork:0.0k PowerShell module for creating and managing Azure Resource Manager templates and deployments
 - [microsoft/Code-Search](https://github.com/microsoft/Code-Search) topic: pushed_at:2023-12 star:0.1k fork:0.1k Code Search Admin scripts (SQL and PS) for managing a Code Search on-prem instance
@@ -4182,10 +4180,10 @@
 - [microsoft/commercial-marketplace-offer-solution](https://github.com/microsoft/commercial-marketplace-offer-solution) topic: pushed_at:2024-07 star:0.0k fork:0.0k This repository provides an easy way to get started on publishing an offer to the Microsoft Commercial Marketplace.
 - [microsoft/CompareDlpEtrReports](https://github.com/microsoft/CompareDlpEtrReports) topic: pushed_at:2021-06 star:0.0k fork:0.0k Module to compare the DLP and ETR solutions offered by Microsoft after migration
 - [microsoft/CompliancePartnerWorkshops](https://github.com/microsoft/CompliancePartnerWorkshops) topic:compliance,mci,microsoft,purview,workshop pushed_at:2024-05 star:0.0k fork:0.0k Scripts and resources to support the Compliance Build-Intent engagements at https://aka.ms/mci/workshops
-- [microsoft/ComplianceUtility](https://github.com/microsoft/ComplianceUtility) topic:aadrm,aip,classification,label,microsoft,mip,module,office,office365,powershell,protection,reset,rms,support,tool,unified pushed_at:2024-06 star:0.0k fork:0.0k The 'Compliance Utility' is a powerful tool that helps troubleshoot and diagnose sensitivity labels, policies, settings and more. Whether you need to fix issues or reset configurations, this tool has you covered.
+- [microsoft/ComplianceUtility](https://github.com/microsoft/ComplianceUtility) topic:aadrm,aip,classification,label,microsoft,mip,module,office,office365,powershell,protection,reset,rms,support,tool,unified pushed_at:2024-08 star:0.0k fork:0.0k The 'Compliance Utility' is a powerful tool that helps troubleshoot and diagnose sensitivity labels, policies, settings and more. Whether you need to fix issues or reset configurations, this tool has you covered.
 - [microsoft/CompositeResource](https://github.com/microsoft/CompositeResource) topic: pushed_at:2022-11 star:0.0k fork:0.0k Tool for creating PowerShell Desired State Configuration composite resources from configurations
 - [microsoft/Computational-Use-of-Data-Agreement](https://github.com/microsoft/Computational-Use-of-Data-Agreement) topic:contract,data,data-mining,license,licensing,policy pushed_at:2023-06 star:0.0k fork:0.0k Computational Use of Data Agreement - Removing Barriers to Data Innovation
-- [microsoft/ConditionalAccessforZeroTrustResources](https://github.com/microsoft/ConditionalAccessforZeroTrustResources) topic: pushed_at:2024-04 star:0.1k fork:0.0k  ConditionalAccessforZeroTrustResources holding resources for Azure AD CA guidance for Zero Trust
+- [microsoft/ConditionalAccessforZeroTrustResources](https://github.com/microsoft/ConditionalAccessforZeroTrustResources) topic: pushed_at:2024-04 star:0.2k fork:0.0k  ConditionalAccessforZeroTrustResources holding resources for Azure AD CA guidance for Zero Trust
 - [microsoft/configmgr-hub](https://github.com/microsoft/configmgr-hub) topic: pushed_at:2023-04 star:0.1k fork:0.0k Open source repository for the System Center Configuration Manager Hub.
 - [microsoft/configmgr-hub-firstparty](https://github.com/microsoft/configmgr-hub-firstparty) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [microsoft/configmgr-hub-selfhost](https://github.com/microsoft/configmgr-hub-selfhost) topic:community,configmgr,hub,itpro,posh pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -4209,18 +4207,19 @@
 - [microsoft/DataConnectors](https://github.com/microsoft/DataConnectors) topic:m,powerbi,powerquery pushed_at:2024-08 star:0.7k fork:0.4k Data Connector SDK and samples for Power Query and Power BI
 - [microsoft/dchemistruck](https://github.com/microsoft/dchemistruck) topic: pushed_at:2024-07 star:0.0k fork:0.0k A collection of scripts to facilitate management of Microsoft Defender XDR products + Sentinel.
 - [microsoft/DefendTheFlag](https://github.com/microsoft/DefendTheFlag) topic: pushed_at:2020-06 star:0.2k fork:0.0k Get started fast with a built out lab, built from scratch via Azure Resource Manager (ARM) and Desired State Configuration (DSC), to test out Microsoft's security products.
+- [microsoft/devbox-config](https://github.com/microsoft/devbox-config) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/devcenter-catalog](https://github.com/microsoft/devcenter-catalog) topic: pushed_at:2024-08 star:0.0k fork:0.1k 
 - [microsoft/devcenter-examples](https://github.com/microsoft/devcenter-examples) topic: pushed_at:2024-08 star:0.0k fork:0.0k Example templates and customization configurations for Dev Box and Azure Deployment Environments
 - [microsoft/devsquad-dataops](https://github.com/microsoft/devsquad-dataops) topic:azure,dataops,devops pushed_at:2024-06 star:0.0k fork:0.0k DevSquad In a Day - DataOps. A hands-on lab for exercising DataOps practices on Azure.
 - [microsoft/devsquad-mlops](https://github.com/microsoft/devsquad-mlops) topic:azure,devops,mlops pushed_at:2024-04 star:0.0k fork:0.0k DevSquad In a Day - MLOps. A hands-on lab for exercising MLOps practices on Azure.
-- [microsoft/digitalworkplace-workflows](https://github.com/microsoft/digitalworkplace-workflows) topic: pushed_at:2023-08 star:0.0k fork:0.0k 
+- [microsoft/digitalworkplace-workflows](https://github.com/microsoft/digitalworkplace-workflows) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/Documentarian](https://github.com/microsoft/Documentarian) topic: pushed_at:2024-06 star:0.0k fork:0.0k An open source toolkit for documentarians and community contributors to reduce friction and provide a delightful experience for contributing to and maintaining documentation.
 - [microsoft/documentwmi](https://github.com/microsoft/documentwmi) topic: pushed_at:2021-06 star:0.0k fork:0.0k PowerShell module to document WMI classes, properties, and methods as structured markdown
 - [microsoft/DomainControllerConfig](https://github.com/microsoft/DomainControllerConfig) topic: pushed_at:2023-06 star:0.0k fork:0.0k Demonstrates a minimally viable domain controller configuration script compatible with Azure Automation Desired State Configuration service.
 - [microsoft/dotnet-core-sample-templates](https://github.com/microsoft/dotnet-core-sample-templates) topic: pushed_at:2023-06 star:0.0k fork:0.1k Sample templates for deploying .Net Core application in Azure.
 - [microsoft/DSC-data-driven-deployment](https://github.com/microsoft/DSC-data-driven-deployment) topic: pushed_at:2022-11 star:0.1k fork:0.0k This is a Proof of Concept Project on how a database solution can be utilized to manage DSC configurations. Metadata for the configuration is stored in JSON within the database so that it can be easily retrieved and deployed. Credentials are also stored securely in the database. The project consists of a database schema and a PowerShell module which has a series of functions.
 - [microsoft/DSCEA](https://github.com/microsoft/DSCEA) topic: pushed_at:2022-10 star:0.2k fork:0.0k DSC Environment Analyzer (DSCEA) is a simple implementation of PowerShell Desired State Configuration that uses the declarative nature of DSC to scan systems in an environment against a defined reference MOF file and generate compliance reports as to whether systems match the desired configuration.
-- [microsoft/DSCParser](https://github.com/microsoft/DSCParser) topic: pushed_at:2024-07 star:0.0k fork:0.0k Allows the conversion of DSC scripts into PSObject for analysis purposes
+- [microsoft/DSCParser](https://github.com/microsoft/DSCParser) topic: pushed_at:2024-08 star:0.0k fork:0.0k Allows the conversion of DSC scripts into PSObject for analysis purposes
 - [microsoft/dstoolkit-pva-audiocodes-cc](https://github.com/microsoft/dstoolkit-pva-audiocodes-cc) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [microsoft/Dynamics-AX-Scripts](https://github.com/microsoft/Dynamics-AX-Scripts) topic: pushed_at:2023-06 star:0.0k fork:0.0k Scripts for Dynamics AX environments.
 - [microsoft/Dynamics365-Xpp-Samples-Tools](https://github.com/microsoft/Dynamics365-Xpp-Samples-Tools) topic: pushed_at:2024-05 star:0.1k fork:0.1k Samples and Tools for Dynamics 365 X++ Developers
@@ -4233,11 +4232,11 @@
 - [microsoft/EXOAdminWorkshop](https://github.com/microsoft/EXOAdminWorkshop) topic: pushed_at:2024-01 star:0.0k fork:0.0k Scripts used in WorkshopPLUS: Microsoft 365 Exchange Online: Administration and Configuration
 - [microsoft/ExPerfWiz](https://github.com/microsoft/ExPerfWiz) topic: pushed_at:2023-06 star:0.0k fork:0.0k A PowerShell script to automate the collection of performance data from Exchange 2013, 2016 and 2019 servers.
 - [microsoft/Export-Microsoft365LicenseStatus](https://github.com/microsoft/Export-Microsoft365LicenseStatus) topic: pushed_at:2022-09 star:0.0k fork:0.0k This is a sample script that exports license status information of Microsoft 365 users.
-- [microsoft/Extension-UtilitiesPack](https://github.com/microsoft/Extension-UtilitiesPack) topic: pushed_at:2024-07 star:0.0k fork:0.0k Release Management utility tasks
+- [microsoft/Extension-UtilitiesPack](https://github.com/microsoft/Extension-UtilitiesPack) topic: pushed_at:2024-08 star:0.0k fork:0.0k Release Management utility tasks
 - [microsoft/FastTrack](https://github.com/microsoft/FastTrack) topic: pushed_at:2024-08 star:0.2k fork:0.1k GitHub home for Microsoft FastTrack
 - [microsoft/FederatedFBTroubleshooter](https://github.com/microsoft/FederatedFBTroubleshooter) topic: pushed_at:2023-06 star:0.0k fork:0.0k Troubleshooter script for Federation and F/B issues
 - [microsoft/fin-ops-doc-scripts](https://github.com/microsoft/fin-ops-doc-scripts) topic:hacktoberfest pushed_at:2021-10 star:0.0k fork:0.0k This repo contains scripts for running documentation reports for Dynamics 365 Finance and Dynamics 365 Supply Chain Management.
-- [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit) topic:azure,cost-management,finops,microsoft-cloud pushed_at:2024-08 star:0.3k fork:0.1k Tools and resources to help you adopt and implement FinOps capabilities that automate and extend the Microsoft Cloud.
+- [microsoft/finops-toolkit](https://github.com/microsoft/finops-toolkit) topic:azure,cost-management,finops,microsoft-cloud pushed_at:2024-09 star:0.3k fork:0.1k Tools and resources to help you adopt and implement FinOps capabilities that automate and extend the Microsoft Cloud.
 - [microsoft/FormatPowerShellToMarkdownTable](https://github.com/microsoft/FormatPowerShellToMarkdownTable) topic: pushed_at:2020-12 star:0.0k fork:0.0k Format PowerShell object to Markdown table
 - [microsoft/FreeBSD-Test-Automation](https://github.com/microsoft/FreeBSD-Test-Automation) topic: pushed_at:2023-06 star:0.0k fork:0.0k The test automation for FreeBSD running on HyperV/Azure.
 - [microsoft/GDK](https://github.com/microsoft/GDK) topic:desktop,game-development,microsoft,sdk,xbox pushed_at:2024-08 star:1.5k fork:0.1k Microsoft Public GDK
@@ -4270,15 +4269,6 @@
 - [microsoft/m365-physical-badging-connector-sample-scripts](https://github.com/microsoft/m365-physical-badging-connector-sample-scripts) topic: pushed_at:2023-09 star:0.0k fork:0.0k This repository includes sample scripts for pushing organization's physical badging records, to be consumed by Microsoft's Insider Risk Management compliance solution.
 - [microsoft/manageability-toolkits](https://github.com/microsoft/manageability-toolkits) topic: pushed_at:2023-06 star:0.1k fork:0.0k Sample code to get quickly on-boarded to common Azure manageability tools and platforms like Azure Monitor.
 - [microsoft/MCAS](https://github.com/microsoft/MCAS) topic: pushed_at:2023-08 star:0.1k fork:0.0k Powershell module for Microsoft Cloud App Security
-- [microsoft/MCW-Azure-Synapse-Analytics-and-AI](https://github.com/microsoft/MCW-Azure-Synapse-Analytics-and-AI) topic: pushed_at:2022-07 star:0.2k fork:0.2k Microsoft Cloud Workshop Azure Synapse Analytics and AI
-- [microsoft/MCW-Building-a-resilient-IaaS-architecture](https://github.com/microsoft/MCW-Building-a-resilient-IaaS-architecture) topic: pushed_at:2023-11 star:0.2k fork:0.2k MCW Building a resilient IaaS architecture
-- [microsoft/MCW-Enterprise-class-networking](https://github.com/microsoft/MCW-Enterprise-class-networking) topic: pushed_at:2023-11 star:0.1k fork:0.2k MCW Enterprise-class networking in Azure
-- [microsoft/MCW-Hybrid-identity](https://github.com/microsoft/MCW-Hybrid-identity) topic: pushed_at:2023-11 star:0.1k fork:0.1k MCW Hybrid identity
-- [microsoft/MCW-Implementing-Azure-Virtual-Desktop-in-the-enterprise](https://github.com/microsoft/MCW-Implementing-Azure-Virtual-Desktop-in-the-enterprise) topic: pushed_at:2023-11 star:0.1k fork:0.1k Implementing Azure Virtual Desktop in the enterprise
-- [microsoft/MCW-Line-of-business-application-migration](https://github.com/microsoft/MCW-Line-of-business-application-migration) topic: pushed_at:2023-11 star:0.2k fork:0.3k MCW Line-of-business application migration
-- [microsoft/MCW-Migrate-EDW-to-Azure-SQL-Data-Warehouse](https://github.com/microsoft/MCW-Migrate-EDW-to-Azure-SQL-Data-Warehouse) topic: pushed_at:2020-08 star:0.0k fork:0.1k MCW Migrate EDW to Azure SQL Data Warehouse
-- [microsoft/MCW-Securing-Azure-IoT-solutions](https://github.com/microsoft/MCW-Securing-Azure-IoT-solutions) topic: pushed_at:2022-07 star:0.0k fork:0.1k MCW Securing Azure IoT solutions
-- [microsoft/MCW-SQL-Server-hybrid-cloud](https://github.com/microsoft/MCW-SQL-Server-hybrid-cloud) topic: pushed_at:2021-09 star:0.0k fork:0.0k MCW SQL Server hybrid cloud
 - [microsoft/mde-api-gui](https://github.com/microsoft/mde-api-gui) topic: pushed_at:2023-01 star:0.0k fork:0.0k Simple GUI for Microsoft Defender for Endpoint API machine actions in PowerShell.
 - [microsoft/MDE-PowerBI-Templates](https://github.com/microsoft/MDE-PowerBI-Templates) topic: pushed_at:2023-06 star:0.2k fork:0.1k A respository for MDATP PowerBI Templates
 - [microsoft/MDE_Automation](https://github.com/microsoft/MDE_Automation) topic: pushed_at:2023-12 star:0.0k fork:0.0k This repository is a place to share my PowerShell, KQL, and other related MDE content.
@@ -4339,7 +4329,7 @@
 - [microsoft/PowerShell-FeatureFlags](https://github.com/microsoft/PowerShell-FeatureFlags) topic:canary,deployment-tools,devops,dotnet-core,dotnetstandard,feature-flags,feature-toggles,linux,macosx,powershell,powershell-module,rollout,sre,windows pushed_at:2024-01 star:0.0k fork:0.0k PowerShell module containing a Feature Flags implementation based on a local config file.
 - [microsoft/powershell-getsupport](https://github.com/microsoft/powershell-getsupport) topic: pushed_at:2023-12 star:0.0k fork:0.0k Tools to gather support data when encountering a problem within a PowerShell console
 - [microsoft/PowerShellForGitHub](https://github.com/microsoft/PowerShellForGitHub) topic:api,azure-pipelines,best-practices,github,module,powershell pushed_at:2024-05 star:0.6k fork:0.2k Microsoft PowerShell wrapper for GitHub API
-- [microsoft/PowerStig](https://github.com/microsoft/PowerStig) topic:powershell,stig,stig-compliant pushed_at:2024-07 star:0.5k fork:0.1k STIG Automation 
+- [microsoft/PowerStig](https://github.com/microsoft/PowerStig) topic:powershell,stig,stig-compliant pushed_at:2024-08 star:0.5k fork:0.1k STIG Automation 
 - [microsoft/PowerStigDsc](https://github.com/microsoft/PowerStigDsc) topic: pushed_at:2018-08 star:0.0k fork:0.0k This project is ARCHIVED and moved to https://github.com/Microsoft/PowerStig
 - [microsoft/Product-flavor-dimension-sample-app](https://github.com/microsoft/Product-flavor-dimension-sample-app) topic: pushed_at:2023-06 star:0.0k fork:0.0k An implementation of a new inventory product flavor dimension.
 - [microsoft/ps-docs](https://github.com/microsoft/ps-docs) topic:devops,devops-tools,documentation-generator,github-actions,infrastructure-as-code,markdown,psdocs pushed_at:2023-08 star:0.0k fork:0.0k Generate documentation from Infrastructure as Code (IaC) using GitHub Actions.
@@ -4388,7 +4378,7 @@
 - [microsoft/StoreBroker](https://github.com/microsoft/StoreBroker) topic: pushed_at:2024-07 star:0.1k fork:0.0k A PowerShell module that leverages the Windows Store Submission API to allow easy automation of application submissions to the Windows Store.  The master branch is stable and the v2 branch is under active development.
 - [microsoft/SurfaceDeploymentAccelerator](https://github.com/microsoft/SurfaceDeploymentAccelerator) topic: pushed_at:2023-09 star:0.1k fork:0.0k Surface Deployment Accelerator (SDA) is a script-driven tool to create Windows images (WIM) for test or deployment that are similar in configuration to Bare Metal Recovery (BMR) images, minus certain preinstalled applications like the Surface UWP application.
 - [microsoft/TeamsMsiOverride](https://github.com/microsoft/TeamsMsiOverride) topic: pushed_at:2023-11 star:0.0k fork:0.0k Scripts to simplify the updating of the Teams Machine-Wide Installer, and allow clients to update from the MSI.
-- [microsoft/Test-NetHLK](https://github.com/microsoft/Test-NetHLK) topic: pushed_at:2024-03 star:0.0k fork:0.0k Validates the default IHV Adapter settings according to the MSFT definitions and Switch Requirements for Azure Stack HCI
+- [microsoft/Test-NetHLK](https://github.com/microsoft/Test-NetHLK) topic: pushed_at:2024-08 star:0.0k fork:0.0k Validates the default IHV Adapter settings according to the MSFT definitions and Switch Requirements for Azure Stack HCI
 - [microsoft/Test-NetStack](https://github.com/microsoft/Test-NetStack) topic: pushed_at:2024-05 star:0.0k fork:0.0k This tool tests the native, synthetic, and hardware network data path
 - [microsoft/Test-NetUpgradeReadiness](https://github.com/microsoft/Test-NetUpgradeReadiness) topic: pushed_at:2022-07 star:0.0k fork:0.0k Tests that a customer has already upgraded to Network ATC
 - [microsoft/testbase](https://github.com/microsoft/testbase) topic:compatibility-test,samples,sdk,test-automation,windows-10,windows-11 pushed_at:2024-03 star:0.0k fork:0.0k Samples and Tools for Test Base for M365.
@@ -4399,8 +4389,8 @@
 - [microsoft/Validate-DCB](https://github.com/microsoft/Validate-DCB) topic:microsoft,msftnet,networking,rdma,windows pushed_at:2022-03 star:0.0k fork:0.0k Validator for RDMA Configuration and Best Practices
 - [microsoft/Virtual-Assistant-Deployer](https://github.com/microsoft/Virtual-Assistant-Deployer) topic:bot-framework,docker,solution-accelerator,virtual-assistant pushed_at:2021-07 star:0.0k fork:0.0k This solution accelerator provides a way to deploy a Microsoft Virtual Assistant without having to install all the developer tool dependencies. All you need is an Azure subscription!
 - [microsoft/VirtualHealthcareBlueprint](https://github.com/microsoft/VirtualHealthcareBlueprint) topic: pushed_at:2020-03 star:0.0k fork:0.0k Setup Healthcare Bot landscape to provide organizations with Virtual Health Assistants
-- [microsoft/Visual-Studio-Administrative-Templates](https://github.com/microsoft/Visual-Studio-Administrative-Templates) topic: pushed_at:2024-06 star:0.0k fork:0.0k Contains the administrative template defining the Visual Studio functionality that can be centrally managed by group policy
-- [microsoft/VisualStudioDSC](https://github.com/microsoft/VisualStudioDSC) topic: pushed_at:2024-06 star:0.0k fork:0.0k DSC resources to simplify state management of installed Visual Studio instances
+- [microsoft/Visual-Studio-Administrative-Templates](https://github.com/microsoft/Visual-Studio-Administrative-Templates) topic: pushed_at:2024-08 star:0.0k fork:0.0k Contains the administrative template defining the Visual Studio functionality that can be centrally managed by group policy
+- [microsoft/VisualStudioDSC](https://github.com/microsoft/VisualStudioDSC) topic: pushed_at:2024-08 star:0.0k fork:0.0k DSC resources to simplify state management of installed Visual Studio instances
 - [microsoft/VMNetworkAdapter](https://github.com/microsoft/VMNetworkAdapter) topic:msftnet pushed_at:2023-06 star:0.0k fork:0.0k DSC Resources used to configured virtual NIC settings - Check https://aka.ms/Validate-DCB for more information
 - [microsoft/vsts-nuget-bootstrapper](https://github.com/microsoft/vsts-nuget-bootstrapper) topic: pushed_at:2023-06 star:0.0k fork:0.0k Contains the code used to bootstrap nuget.exe for VSTS feeds
 - [microsoft/vsts-rm-documentation](https://github.com/microsoft/vsts-rm-documentation) topic: pushed_at:2023-06 star:0.0k fork:0.1k VSTS Release Management Documentation
@@ -4422,15 +4412,15 @@
 - [microsoft/WindowsServerUpdateServicesConfig](https://github.com/microsoft/WindowsServerUpdateServicesConfig) topic: pushed_at:2023-06 star:0.0k fork:0.0k Example containing Desired State Configuration script to demonstrate provisioning and configuring a WSUS instance.
 - [microsoft/winget-command-not-found](https://github.com/microsoft/winget-command-not-found) topic: pushed_at:2024-08 star:0.0k fork:0.0k WinGet Command Not Found is a PowerShell 7 module to help you install missing packages. With this module, you will be recommended relevant WinGet packages whenever an unrecognized command is entered. 
 - [microsoft/winget-dsc](https://github.com/microsoft/winget-dsc) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
-- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) topic:hacktoberfest pushed_at:2024-08 star:8.4k fork:4.3k The Microsoft community Windows Package Manager manifest repository
+- [microsoft/winget-pkgs](https://github.com/microsoft/winget-pkgs) topic:hacktoberfest pushed_at:2024-09 star:8.5k fork:4.4k The Microsoft community Windows Package Manager manifest repository
 - [microsoft/winget-pkgs-submission-test](https://github.com/microsoft/winget-pkgs-submission-test) topic:winget-create,winget-pkgs,winget-pkgs-submission-test pushed_at:2024-08 star:0.0k fork:0.0k Mirror of winget-pkgs for testing submission
 - [microsoft/WingtipSaaS](https://github.com/microsoft/WingtipSaaS) topic: pushed_at:2023-04 star:0.1k fork:0.0k A sample SaaS application and associated tutorials, built on Azure SQL Database.     
 - [microsoft/WingtipTicketsSaaS-DbPerTenant](https://github.com/microsoft/WingtipTicketsSaaS-DbPerTenant) topic: pushed_at:2023-07 star:0.2k fork:0.1k A sample multitenant SaaS application using a database per tenant model, built on Azure SQL Database. Includes management scripts for a range of scenarios. 
 - [microsoft/WingtipTicketsSaaS-MultiTenantDB](https://github.com/microsoft/WingtipTicketsSaaS-MultiTenantDB) topic: pushed_at:2023-07 star:0.1k fork:0.1k A sample multitenant SaaS application using a sharded multitenant database model, built on Azure SQL Database. Includes management scripts for a range of scenarios. 
 - [microsoft/WKSPlus-M365SCC](https://github.com/microsoft/WKSPlus-M365SCC) topic: pushed_at:2023-08 star:0.0k fork:0.0k 
 - [microsoft/WorkflowManagerDSC](https://github.com/microsoft/WorkflowManagerDSC) topic: pushed_at:2024-05 star:0.0k fork:0.0k DSC Module for Workflow Manager
-- [microsoft/WSL](https://github.com/microsoft/WSL) topic: pushed_at:2024-08 star:17.1k fork:0.8k Issues found on WSL
-- [microsoft/xbox-game-streaming-tools](https://github.com/microsoft/xbox-game-streaming-tools) topic: pushed_at:2024-07 star:0.0k fork:0.0k Tools for Xbox Game Streaming
+- [microsoft/WSL](https://github.com/microsoft/WSL) topic: pushed_at:2024-08 star:17.2k fork:0.8k Issues found on WSL
+- [microsoft/xbox-game-streaming-tools](https://github.com/microsoft/xbox-game-streaming-tools) topic: pushed_at:2024-08 star:0.0k fork:0.0k Tools for Xbox Game Streaming
 - [microsoft/xDownloadFile](https://github.com/microsoft/xDownloadFile) topic: pushed_at:2023-06 star:0.0k fork:0.0k PowerShell DSC module to download a file from the web
 - [microsoft/zMonitor](https://github.com/microsoft/zMonitor) topic:azure,csp,monitoring,oms pushed_at:2017-06 star:0.0k fork:0.0k Azure Multi-subscription/tenant Monitoring Solution
 
@@ -4454,14 +4444,15 @@
 - [microsoft/adx-automotive-demos](https://github.com/microsoft/adx-automotive-demos) topic: pushed_at:2024-07 star:0.0k fork:0.0k Demos 
 - [microsoft/aed-wonder-woman](https://github.com/microsoft/aed-wonder-woman) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [microsoft/aerial_wildlife_detection](https://github.com/microsoft/aerial_wildlife_detection) topic:active-learning,aerial-imagery,aiforearth,conservation,wildlife pushed_at:2024-07 star:0.2k fork:0.1k Tools for detecting wildlife in aerial images using active learning
-- [microsoft/affectbased](https://github.com/microsoft/affectbased) topic: pushed_at:2023-03 star:0.0k fork:0.0k Affect-based Intrinsic Rewards for Learning General Representations: https://arxiv.org/abs/1912.00403
+- [microsoft/affectbased](https://github.com/microsoft/affectbased) topic: pushed_at:2024-08 star:0.0k fork:0.0k Affect-based Intrinsic Rewards for Learning General Representations: https://arxiv.org/abs/1912.00403
 - [microsoft/AgenticCookBook](https://github.com/microsoft/AgenticCookBook) topic: pushed_at:2024-06 star:0.0k fork:0.0k The “Agentic Cookbook for Generative AI Agent usage” is a comprehensive guide designed to empower users with the knowledge and tools to effectively implement and utilize Generative AI Agents within their workflows.
 - [microsoft/agogosml](https://github.com/microsoft/agogosml) topic: pushed_at:2019-05 star:0.0k fork:0.0k agogosml is a flexible data processing pipeline that addresses the common need for operationalizing ML models at scale
 - [microsoft/AI](https://github.com/microsoft/AI) topic: pushed_at:2024-05 star:1.4k fork:0.4k Microsoft AI
 - [microsoft/ai-py-param-validation](https://github.com/microsoft/ai-py-param-validation) topic: pushed_at:2021-04 star:0.0k fork:0.0k Parameter Validation for Python method and function inputs.
 - [microsoft/AI-Robot-Challenge-Lab](https://github.com/microsoft/AI-Robot-Challenge-Lab) topic: pushed_at:2023-06 star:0.1k fork:0.0k AI Robot Challenge Lab
 - [microsoft/ai-sentry](https://github.com/microsoft/ai-sentry) topic: pushed_at:2024-08 star:0.0k fork:0.0k AI-Sentry: A lightweight, pluggable facade layer for Azure Open AI, addressing common cross-cutting concerns for enterprise-wide scaling.
-- [microsoft/AI-System](https://github.com/microsoft/AI-System) topic: pushed_at:2024-06 star:3.3k fork:0.4k System for AI Education Resource.
+- [microsoft/AI-System](https://github.com/microsoft/AI-System) topic: pushed_at:2024-06 star:3.4k fork:0.4k System for AI Education Resource.
+- [microsoft/AI2BMD](https://github.com/microsoft/AI2BMD) topic: pushed_at:2024-08 star:0.2k fork:0.0k AI-powered ab initio biomolecular dynamics simulation
 - [microsoft/aicreator](https://github.com/microsoft/aicreator) topic: pushed_at:2023-05 star:0.0k fork:0.0k aicreator for aidata
 - [microsoft/AIDocIntelligence](https://github.com/microsoft/AIDocIntelligence) topic: pushed_at:2024-07 star:0.0k fork:0.0k AI Document Intelligence is an AI service that applies advanced machine learning to extract text, key-value pairs, tables, and structures from documents automatically and accurately
 - [microsoft/aiida-autocas](https://github.com/microsoft/aiida-autocas) topic: pushed_at:2023-01 star:0.0k fork:0.0k AiiDA plugin to perform automatic selection of active spaces for multireference calculations.
@@ -4470,7 +4461,8 @@
 - [microsoft/aiida-pyscf](https://github.com/microsoft/aiida-pyscf) topic: pushed_at:2024-01 star:0.0k fork:0.0k AiiDA plugin for the Python-based Simulations of Chemistry Framework (PySCF)
 - [microsoft/AirSim-Drone-Racing-Lab](https://github.com/microsoft/AirSim-Drone-Racing-Lab) topic: pushed_at:2023-08 star:0.2k fork:0.0k A framework for drone racing research, built on Microsoft AirSim.
 - [microsoft/AirSim-Drone-Racing-VAE-Imitation](https://github.com/microsoft/AirSim-Drone-Racing-VAE-Imitation) topic: pushed_at:2023-06 star:0.2k fork:0.1k Code associated with our paper "Learning Visuomotor Policies for Aerial Navigation Using Cross-Modal Representations": https://arxiv.org/abs/1909.06993
-- [microsoft/AirSim-NeurIPS2019-Drone-Racing](https://github.com/microsoft/AirSim-NeurIPS2019-Drone-Racing) topic:airsim,computer-vision,drone-racing,drones,machine-learning,microsoft,motion-planning,neurips-competition,robotics,robotics-competition,robotics-simulation,unreal-engine pushed_at:2022-08 star:0.3k fork:0.1k Drone Racing @ NeurIPS 2019, built on Microsoft AirSim
+- [microsoft/AirSim-NeurIPS2019-Drone-Racing](https://github.com/microsoft/AirSim-NeurIPS2019-Drone-Racing) topic:airsim,computer-vision,drone-racing,drones,machine-learning,microsoft,motion-planning,neurips-competition,robotics,robotics-competition,robotics-simulation,unreal-engine pushed_at:2022-08 star:0.4k fork:0.1k Drone Racing @ NeurIPS 2019, built on Microsoft AirSim
+- [microsoft/aitour-e2e-dev-with-prompty-and-ai-studio](https://github.com/microsoft/aitour-e2e-dev-with-prompty-and-ai-studio) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/Alympics](https://github.com/microsoft/Alympics) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
 - [microsoft/aml-acceleration-template](https://github.com/microsoft/aml-acceleration-template) topic: pushed_at:2021-11 star:0.0k fork:0.0k A template repository for quickly adopting Azure Machine Learning
 - [microsoft/aml-pipelines-demo](https://github.com/microsoft/aml-pipelines-demo) topic: pushed_at:2019-12 star:0.0k fork:0.0k 
@@ -4484,6 +4476,7 @@
 - [microsoft/anomaly-detector](https://github.com/microsoft/anomaly-detector) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [microsoft/anomalydetector](https://github.com/microsoft/anomalydetector) topic: pushed_at:2022-11 star:0.3k fork:0.1k SR-CNN
 - [microsoft/AnsibleLabs](https://github.com/microsoft/AnsibleLabs) topic: pushed_at:2023-06 star:0.1k fork:0.1k Ansible on Azure Lab playbooks and documentation
+- [microsoft/aoai-api-simulator](https://github.com/microsoft/aoai-api-simulator) topic: pushed_at:2024-08 star:0.0k fork:0.0k A sample showing how to create a simulated API implementation for Azure OpenAI (AOAI)
 - [microsoft/apex](https://github.com/microsoft/apex) topic: pushed_at:2019-09 star:0.0k fork:0.0k A PyTorch Extension:  Tools for easy mixed precision and distributed training in Pytorch
 - [microsoft/appcenter-rest-python](https://github.com/microsoft/appcenter-rest-python) topic: pushed_at:2024-07 star:0.0k fork:0.0k A minimal Python wrapper around the App Center REST API
 - [microsoft/ApplicationInsights-Python](https://github.com/microsoft/ApplicationInsights-Python) topic:application-insights,azure,distributed-tracing,monitoring,opentelemetry,python,sdk,telemetry pushed_at:2023-12 star:0.1k fork:0.1k Azure Monitor Distro for OpenTelemetry Python
@@ -4502,6 +4495,7 @@
 - [microsoft/attribute-structuring](https://github.com/microsoft/attribute-structuring) topic: pushed_at:2024-02 star:0.0k fork:0.0k 
 - [microsoft/aui-cli](https://github.com/microsoft/aui-cli) topic: pushed_at:2023-07 star:0.0k fork:0.0k Command line client for Audience Insights
 - [microsoft/Aura](https://github.com/microsoft/Aura) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
+- [microsoft/aurora](https://github.com/microsoft/aurora) topic:atmospheric-chemistry,atmospheric-dynamics,aurora-model,deep-learning,foundation-models pushed_at:2024-08 star:0.2k fork:0.0k Implementation of the Aurora model for atmospheric forecasting
 - [microsoft/Auto-retinoscopy](https://github.com/microsoft/Auto-retinoscopy) topic: pushed_at:2022-08 star:0.0k fork:0.0k This is the official implementation for the Retinoscopy project.
 - [microsoft/auto-sys-ml-template](https://github.com/microsoft/auto-sys-ml-template) topic: pushed_at:2023-03 star:0.0k fork:0.0k A template repo used by Autonomous Systems and Robotics Group for ML projects 
 - [microsoft/autodistil](https://github.com/microsoft/autodistil) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
@@ -4519,7 +4513,7 @@
 - [microsoft/azure-databricks-sql-workshop-ja](https://github.com/microsoft/azure-databricks-sql-workshop-ja) topic: pushed_at:2023-07 star:0.0k fork:0.0k A repository for managing workshop contents for learning Microsoft Azure's data analytics platform with a focus on Databricks SQL and Synapse Pipeline & Data Flow. The contents are written in Japanese.
 - [microsoft/azure-dev-experience--azure-devbox](https://github.com/microsoft/azure-dev-experience--azure-devbox) topic: pushed_at:2023-11 star:0.0k fork:0.0k Azure Developer experience - using Azure DevBox as a primary environment for Azure development.
 - [microsoft/Azure-Dev-Experience-developer-environment-options](https://github.com/microsoft/Azure-Dev-Experience-developer-environment-options) topic: pushed_at:2024-02 star:0.0k fork:0.0k Summary of developer (development) environment options for developing Azure based solutions.
-- [microsoft/azure-devops-python-api](https://github.com/microsoft/azure-devops-python-api) topic:api,azure,azuredevops,devops,microsoft,python,rest,rest-client,vsts pushed_at:2024-07 star:0.6k fork:0.2k Azure DevOps Python API
+- [microsoft/azure-devops-python-api](https://github.com/microsoft/azure-devops-python-api) topic:api,azure,azuredevops,devops,microsoft,python,rest,rest-client,vsts pushed_at:2024-08 star:0.6k fork:0.2k Azure DevOps Python API
 - [microsoft/azure-devops-python-samples](https://github.com/microsoft/azure-devops-python-samples) topic:api,python,samples,vsts pushed_at:2021-01 star:0.1k fork:0.1k Python samples for interacting with and managing Azure DevOps
 - [microsoft/Azure-Edge-Solutions-Lab](https://github.com/microsoft/Azure-Edge-Solutions-Lab) topic: pushed_at:2023-03 star:0.0k fork:0.0k Edge AI end to end solution using AzSHCI, AKS, and ARC
 - [microsoft/azure-genai-design-patterns](https://github.com/microsoft/azure-genai-design-patterns) topic: pushed_at:2024-08 star:0.6k fork:0.1k 
@@ -4551,7 +4545,7 @@
 - [microsoft/binder](https://github.com/microsoft/binder) topic: pushed_at:2024-03 star:0.1k fork:0.0k 
 - [microsoft/BindVAE](https://github.com/microsoft/BindVAE) topic:atac-seq,deep-learning,dna,dna-sequence,machine-learning,motif-discovery,tensorflow,transcription-factor,vae,variational-auto-encoder pushed_at:2024-03 star:0.0k fork:0.0k Variational Auto Encoders for learning binding signatures of transcription factors
 - [microsoft/bing-commerce-sdk-for-python](https://github.com/microsoft/bing-commerce-sdk-for-python) topic: pushed_at:2020-07 star:0.0k fork:0.0k Bing for Commerce Python SDK
-- [microsoft/bing-search-sdk-for-python](https://github.com/microsoft/bing-search-sdk-for-python) topic: pushed_at:2024-07 star:0.0k fork:0.0k Bing Search APIs SDK for python
+- [microsoft/bing-search-sdk-for-python](https://github.com/microsoft/bing-search-sdk-for-python) topic: pushed_at:2024-09 star:0.0k fork:0.0k Bing Search APIs SDK for python
 - [microsoft/BioGPT](https://github.com/microsoft/BioGPT) topic: pushed_at:2024-07 star:4.3k fork:0.4k 
 - [microsoft/biosbias](https://github.com/microsoft/biosbias) topic: pushed_at:2023-06 star:0.0k fork:0.0k Code to reproduce data for Bias in Bios
 - [microsoft/BIPIA](https://github.com/microsoft/BIPIA) topic:llm-security pushed_at:2024-04 star:0.0k fork:0.0k A benchmark for evaluating the robustness of LLMs and defenses to indirect prompt injection attacks.
@@ -4575,10 +4569,10 @@
 - [microsoft/byoeb](https://github.com/microsoft/byoeb) topic: pushed_at:2024-05 star:0.0k fork:0.0k BYOeB is a tool to build a chatbot with a custom knowledge base and an expert-in-the-loop.
 - [microsoft/cadet-cli](https://github.com/microsoft/cadet-cli) topic:cli,cosmosdb,data,python pushed_at:2023-07 star:0.0k fork:0.0k Cosmos Automated Data Exchange Tool 👩‍🚀☁
 - [microsoft/cai-advanced-processing-service](https://github.com/microsoft/cai-advanced-processing-service) topic:dstoolkit pushed_at:2024-02 star:0.0k fork:0.0k CAI Advanced Processing Service is a collection of modules, wrapped in several APIs that help you to enrich your conversational AI applications in the spheres of Validation, Identification and Authentication.
-- [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai) topic: pushed_at:2024-08 star:0.2k fork:0.0k Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
+- [microsoft/call-center-ai](https://github.com/microsoft/call-center-ai) topic: pushed_at:2024-08 star:0.2k fork:0.1k Send a phone call from AI agent, in an API call. Or, directly call the bot from the configured phone number!
 - [microsoft/cancernlp](https://github.com/microsoft/cancernlp) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [microsoft/cartpole-py](https://github.com/microsoft/cartpole-py) topic: pushed_at:2020-11 star:0.0k fork:0.0k A cart and pole simulator.
-- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) topic: pushed_at:2024-07 star:25.3k fork:0.8k This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
+- [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) topic: pushed_at:2024-08 star:25.5k fork:0.8k This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 - [microsoft/CASPR](https://github.com/microsoft/CASPR) topic:attention-mechanism,business,deep-learning,tabular-data,transformer,transformer-architecture,transformer-encoder pushed_at:2023-02 star:0.0k fork:0.0k CASPR is a deep learning framework applying transformer architecture to learn and predict from tabular data at scale.
 - [microsoft/cassandra-medusa](https://github.com/microsoft/cassandra-medusa) topic: pushed_at:2024-06 star:0.0k fork:0.0k Apache Cassandra Backup and Restore Tool to support Azure services
 - [microsoft/causaltransfer](https://github.com/microsoft/causaltransfer) topic: pushed_at:2023-05 star:0.0k fork:0.0k Repository containing code for Counterfactual Augmentation/Causal Transfer Learning.
@@ -4590,7 +4584,7 @@
 - [microsoft/chemistry-qa](https://github.com/microsoft/chemistry-qa) topic: pushed_at:2020-11 star:0.0k fork:0.0k 
 - [microsoft/chexprompt](https://github.com/microsoft/chexprompt) topic: pushed_at:2024-05 star:0.0k fork:0.0k Expert-level AI radiology report evaluator
 - [microsoft/chunk-attention](https://github.com/microsoft/chunk-attention) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
-- [microsoft/CLAP](https://github.com/microsoft/CLAP) topic: pushed_at:2024-05 star:0.4k fork:0.0k Learning audio concepts from natural language supervision
+- [microsoft/CLAP](https://github.com/microsoft/CLAP) topic: pushed_at:2024-05 star:0.5k fork:0.0k Learning audio concepts from natural language supervision
 - [microsoft/clarification-qgen-globalinfo](https://github.com/microsoft/clarification-qgen-globalinfo) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
 - [microsoft/cliffordlayers](https://github.com/microsoft/cliffordlayers) topic:geometric-deep-learning,pytorch pushed_at:2024-01 star:0.1k fork:0.0k 
 - [microsoft/ClimaX](https://github.com/microsoft/ClimaX) topic: pushed_at:2023-09 star:0.5k fork:0.1k Foundation model for weather & climate
@@ -4635,7 +4629,7 @@
 - [microsoft/coresets-fair-diverse](https://github.com/microsoft/coresets-fair-diverse) topic: pushed_at:2023-12 star:0.0k fork:0.0k A repository for the paper Core-sets for Fair and Diverse Data Summarization, accepted for NeurIPS2023.
 - [microsoft/CosmicBeats-Simulator](https://github.com/microsoft/CosmicBeats-Simulator) topic: pushed_at:2024-03 star:0.0k fork:0.0k A space simulation platform that caters to individuals with diverse research interests, including networking, AI, computing, and more. Unlike traditional simulators tied to specific research applications, our design allows for seamless integration of various space-related research verticals.
 - [microsoft/coverage-eval](https://github.com/microsoft/coverage-eval) topic: pushed_at:2023-08 star:0.0k fork:0.0k Dataset with coverage annotations for HumanEval dataset
-- [microsoft/COVID19-CT-segmentation](https://github.com/microsoft/COVID19-CT-segmentation) topic: pushed_at:2024-06 star:0.0k fork:0.0k Furthermore, we present a multitask model for joint segmentation of different classes of pulmonary lesions present in COVID-19 infected lungs.
+- [microsoft/COVID19-CT-segmentation](https://github.com/microsoft/COVID19-CT-segmentation) topic: pushed_at:2024-08 star:0.0k fork:0.0k Furthermore, we present a multitask model for joint segmentation of different classes of pulmonary lesions present in COVID-19 infected lungs.
 - [microsoft/crea-un-dataset](https://github.com/microsoft/crea-un-dataset) topic: pushed_at:2023-03 star:0.0k fork:0.0k Aprende como crear un dataset desde cero usando Python
 - [microsoft/Cream](https://github.com/microsoft/Cream) topic:automl,efficiency,knowledge-distillation,nas,rpe,vision-transformer,vit-compression pushed_at:2024-07 star:1.6k fork:0.2k This is a collection of our NAS and Vision Transformer work.
 - [microsoft/CSS-CognitiveServices-Tools](https://github.com/microsoft/CSS-CognitiveServices-Tools) topic: pushed_at:2022-12 star:0.0k fork:0.0k A Tool to recover KBs after QnA Service (V1/V2) being deleted accidentally
@@ -4648,7 +4642,7 @@
 - [microsoft/CyBERTron-LM](https://github.com/microsoft/CyBERTron-LM) topic: pushed_at:2023-07 star:0.0k fork:0.0k CyBERTron-LM is a project which collects some pre-trained Transformer-based models.
 - [microsoft/Damage_Assessment_Visualizer](https://github.com/microsoft/Damage_Assessment_Visualizer) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [microsoft/Damu](https://github.com/microsoft/Damu) topic: pushed_at:2024-08 star:0.0k fork:0.0k Named after a Mesopotamian reputed to know the cures to many incurable diseases. This is an accelerator for combining natural language queries and FHIR queries to assist medical research.
-- [microsoft/data-factory-testing-framework](https://github.com/microsoft/data-factory-testing-framework) topic:azure-data-factory,data-factory,fabric,functional-tests,microsoft-fabric,test,testing-framework,unit-tests pushed_at:2024-08 star:0.1k fork:0.0k A stand-alone test framework that allows to write unit tests for Data Factory pipelines on Microsoft Fabric and Azure Data Factory.
+- [microsoft/data-factory-testing-framework](https://github.com/microsoft/data-factory-testing-framework) topic:azure-data-factory,azure-synapse,data-factory,fabric,functional-tests,microsoft-fabric,test,testing-framework,unit-tests pushed_at:2024-08 star:0.1k fork:0.0k A stand-alone test framework that allows to write unit tests for Data Factory pipelines on Microsoft Fabric, Azure Data Factory and Azure Synapse Analytics.
 - [microsoft/databricks-import-notebook](https://github.com/microsoft/databricks-import-notebook) topic: pushed_at:2022-10 star:0.0k fork:0.0k GitHub Action that imports Databricks notebooks from a local path into the Databricks worspace
 - [microsoft/dataflow2text](https://github.com/microsoft/dataflow2text) topic: pushed_at:2024-04 star:0.0k fork:0.0k Code for "The Whole Truth and Nothing But the Truth: Faithful and Controllable Dialogue Response Generation with Dataflow Transduction and Constrained Decoding" (Findings of ACL 2023).
 - [microsoft/datagenDV](https://github.com/microsoft/datagenDV) topic: pushed_at:2023-03 star:0.0k fork:0.0k DatagenDV is an object orientated data generation framework for RTL verification designed as a pre-processing step for C tests using YAML specified test cases
@@ -4658,9 +4652,9 @@
 - [microsoft/DataScienceProblems](https://github.com/microsoft/DataScienceProblems) topic: pushed_at:2022-02 star:0.1k fork:0.0k A repository containing the Jupyter notebook code generation benchmark.
 - [microsoft/dbt-fabric](https://github.com/microsoft/dbt-fabric) topic: pushed_at:2024-08 star:0.1k fork:0.0k 
 - [microsoft/dbt-fabricspark](https://github.com/microsoft/dbt-fabricspark) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
-- [microsoft/dbt-synapse](https://github.com/microsoft/dbt-synapse) topic:azure-sql,azure-sql-database,azure-sql-datawarehouse,synapse-analytics,tsql pushed_at:2024-05 star:0.1k fork:0.0k dbt adapter for Azure Synapse Dedicated SQL Pools
+- [microsoft/dbt-synapse](https://github.com/microsoft/dbt-synapse) topic:azure-sql,azure-sql-database,azure-sql-datawarehouse,synapse-analytics,tsql pushed_at:2024-08 star:0.1k fork:0.0k dbt adapter for Azure Synapse Dedicated SQL Pools
 - [microsoft/DCVC](https://github.com/microsoft/DCVC) topic: pushed_at:2024-02 star:0.4k fork:0.1k Deep Contextual Video Compression
-- [microsoft/DeBERTa](https://github.com/microsoft/DeBERTa) topic:bert,deeplearning,language-model,natural-language-understanding,representation-learning,roberta,self-attention,transformer-encoder pushed_at:2023-09 star:1.9k fork:0.2k The implementation of DeBERTa
+- [microsoft/DeBERTa](https://github.com/microsoft/DeBERTa) topic:bert,deeplearning,language-model,natural-language-understanding,representation-learning,roberta,self-attention,transformer-encoder pushed_at:2023-09 star:2.0k fork:0.2k The implementation of DeBERTa
 - [microsoft/debiasing-item2item](https://github.com/microsoft/debiasing-item2item) topic: pushed_at:2020-10 star:0.0k fork:0.0k Implementation of "Debiasing Item-to-Item Recommendations With Small Annotated Datasets" (RecSys '20)
 - [microsoft/debugpy](https://github.com/microsoft/debugpy) topic: pushed_at:2024-08 star:1.8k fork:0.1k An implementation of the Debug Adapter Protocol for Python
 - [microsoft/deep-language-networks](https://github.com/microsoft/deep-language-networks) topic: pushed_at:2024-07 star:0.1k fork:0.0k We view Large Language Models as stochastic language layers in a network, where the learnable parameters are the natural language prompts at each layer. We stack two such layers, feeding the output of one layer to the next. We call the stacked architecture a Deep Language Network - DLN
@@ -4668,7 +4662,7 @@
 - [microsoft/DeepGNN](https://github.com/microsoft/DeepGNN) topic: pushed_at:2024-08 star:0.1k fork:0.0k DeepGNN is a framework for training machine learning models on large scale graph data.
 - [microsoft/deepnmt](https://github.com/microsoft/deepnmt) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [microsoft/deepRAG](https://github.com/microsoft/deepRAG) topic: pushed_at:2024-08 star:0.0k fork:0.0k Uses a blend of experimental techniques to enhance LLM RAG resultsets.
-- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) topic:billion-parameters,compression,data-parallelism,deep-learning,gpu,inference,machine-learning,mixture-of-experts,model-parallelism,pipeline-parallelism,pytorch,trillion-parameters,zero pushed_at:2024-08 star:34.3k fork:4.0k DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
+- [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed) topic:billion-parameters,compression,data-parallelism,deep-learning,gpu,inference,machine-learning,mixture-of-experts,model-parallelism,pipeline-parallelism,pytorch,trillion-parameters,zero pushed_at:2024-08 star:34.5k fork:4.0k DeepSpeed is a deep learning optimization library that makes distributed training and inference easy, efficient, and effective.
 - [microsoft/deepspeed-gpt-neox](https://github.com/microsoft/deepspeed-gpt-neox) topic: pushed_at:2022-11 star:0.0k fork:0.0k An implementation of model parallel autoregressive transformers on GPUs, based on the DeepSpeed library.
 - [microsoft/DeepSpeed-MII](https://github.com/microsoft/DeepSpeed-MII) topic:deep-learning,inference,pytorch pushed_at:2024-08 star:1.8k fork:0.2k MII makes low-latency and high-throughput inference possible, powered by DeepSpeed.
 - [microsoft/DeepSpeedExamples](https://github.com/microsoft/DeepSpeedExamples) topic: pushed_at:2024-08 star:6.0k fork:1.0k Example models using DeepSpeed
@@ -4682,7 +4676,6 @@
 - [microsoft/did-x509](https://github.com/microsoft/did-x509) topic: pushed_at:2023-03 star:0.0k fork:0.0k DRAFT: did:x509 Decentralized Identifier Method Specification
 - [microsoft/DIF-Net](https://github.com/microsoft/DIF-Net) topic: pushed_at:2022-07 star:0.1k fork:0.0k Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence CVPR 2021
 - [microsoft/differentially-private-ngram-extraction](https://github.com/microsoft/differentially-private-ngram-extraction) topic: pushed_at:2021-10 star:0.0k fork:0.0k Implementation of Differentially Private n-gram Extraction  (DPNE) paper
-- [microsoft/DirectML](https://github.com/microsoft/DirectML) topic: pushed_at:2024-08 star:2.1k fork:0.3k DirectML is a high-performance, hardware-accelerated DirectX 12 library for machine learning. DirectML provides GPU acceleration for common machine learning tasks across a broad range of supported hardware and drivers, including all DirectX 12-capable GPUs from vendors such as AMD, Intel, NVIDIA, and Qualcomm.
 - [microsoft/DiscoFaceGAN](https://github.com/microsoft/DiscoFaceGAN) topic: pushed_at:2022-07 star:0.6k fork:0.1k Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning (CVPR 2020 Oral)
 - [microsoft/dist-ir](https://github.com/microsoft/dist-ir) topic: pushed_at:2024-01 star:0.0k fork:0.0k An IR for efficiently simulating distributed ML computation.
 - [microsoft/distance-learner](https://github.com/microsoft/distance-learner) topic: pushed_at:2022-07 star:0.0k fork:0.0k Official implementation for "Distance Learner: Incorporating Manifold Prior to Model Training"
@@ -4695,11 +4688,10 @@
 - [microsoft/DNS-Challenge](https://github.com/microsoft/DNS-Challenge) topic: pushed_at:2024-07 star:1.0k fork:0.4k This repo contains the scripts, models, and required files for the Deep Noise Suppression (DNS) Challenge.  
 - [microsoft/document-level-targeted-content-transfer](https://github.com/microsoft/document-level-targeted-content-transfer) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/Domain-Adaptation-with-Conditional-Distribution-Matching-and-Generalized-Label-Shift](https://github.com/microsoft/Domain-Adaptation-with-Conditional-Distribution-Matching-and-Generalized-Label-Shift) topic: pushed_at:2020-10 star:0.0k fork:0.0k Code for the paper Domain Adaptation with Conditional Distribution Matching and Generalized Label Shift
-- [microsoft/doodle-to-code](https://github.com/microsoft/doodle-to-code) topic: pushed_at:2024-08 star:0.0k fork:0.0k From Doodle to Code: Understand the concepts of Generative AI principles through doodles and apply the knowledge by coding!
 - [microsoft/dotnet-timespan-python](https://github.com/microsoft/dotnet-timespan-python) topic: pushed_at:2023-07 star:0.0k fork:0.0k Python module for conversion between .NET TimeSpan and datetime.timedelta objects
 - [microsoft/dotstrings](https://github.com/microsoft/dotstrings) topic: pushed_at:2024-06 star:0.0k fork:0.0k Tools for dealing with the .strings resources for iOS and macOS
 - [microsoft/dp-few-shot-generation](https://github.com/microsoft/dp-few-shot-generation) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
-- [microsoft/dp-transformers](https://github.com/microsoft/dp-transformers) topic: pushed_at:2024-06 star:0.1k fork:0.0k Differentially-private transformers using HuggingFace and Opacus
+- [microsoft/dp-transformers](https://github.com/microsoft/dp-transformers) topic: pushed_at:2024-08 star:0.1k fork:0.0k Differentially-private transformers using HuggingFace and Opacus
 - [microsoft/DPSDA](https://github.com/microsoft/DPSDA) topic:differential-privacy,foundation-models,synthetic-data,training-free pushed_at:2024-04 star:0.1k fork:0.0k [ICLR 2024] Generating DP Synthetic Data without Training
 - [microsoft/dpu-utils](https://github.com/microsoft/dpu-utils) topic: pushed_at:2023-06 star:0.1k fork:0.0k Utilities used by the Deep Program Understanding team
 - [microsoft/Dr-Jekyll-and-Mr-Hyde-The-Strange-Case-of-Off-Policy-Policy-Updates](https://github.com/microsoft/Dr-Jekyll-and-Mr-Hyde-The-Strange-Case-of-Off-Policy-Policy-Updates) topic: pushed_at:2024-07 star:0.0k fork:0.0k Code for Dr Jekyll and Mr Hyde: the Strange Case of Off-Policy Policy Updates: https://arxiv.org/abs/2109.14727
@@ -4713,10 +4705,11 @@
 - [microsoft/dstoolkit-devcontainers](https://github.com/microsoft/dstoolkit-devcontainers) topic: pushed_at:2024-08 star:0.0k fork:0.0k A machine learning project template that makes it easy to work with multiple Docker based VSCode Dev Containers. Easily transition projects to the cloud and production with automated code quality checks, pytest configuration, CI pipeline templates & AML cloud example
 - [microsoft/dstoolkit-e2e-presidio-evaluation](https://github.com/microsoft/dstoolkit-e2e-presidio-evaluation) topic: pushed_at:2024-08 star:0.0k fork:0.0k End-to-end Presidio evaluation toolkit uses Presidio, hugging face transformers, Azure Language Service,  AzureML, and GitHub Action pipeline to provide a streamlined, end-to-end solution for assessing different PII detection frameworks/ models.
 - [microsoft/dstoolkit-hierarchical-multilabel-classification](https://github.com/microsoft/dstoolkit-hierarchical-multilabel-classification) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
+- [microsoft/dstoolkit-integratedHybridSearchSQLDB](https://github.com/microsoft/dstoolkit-integratedHybridSearchSQLDB) topic: pushed_at:2024-08 star:0.0k fork:0.0k Python implementation of AI Search with Azure SQL via integrated vectorization
 - [microsoft/dstoolkit-ml-ops-for-databricks](https://github.com/microsoft/dstoolkit-ml-ops-for-databricks) topic:dstoolkit pushed_at:2023-03 star:0.0k fork:0.0k this is a python framework that helps to build any data engineering and data science solutions in Databricks
 - [microsoft/dstoolkit-mlops-base](https://github.com/microsoft/dstoolkit-mlops-base) topic:azure-machine-learning,dstoolkit,mlops pushed_at:2024-08 star:0.1k fork:0.0k Support ML teams to accelerate their model deployment to production leveraging Azure
 - [microsoft/dstoolkit-mlops-databricks](https://github.com/microsoft/dstoolkit-mlops-databricks) topic:azure,azure-machine-learning,cicd,databricks,databricks-feature-store,machine-learning,mlflow,mlops pushed_at:2024-08 star:0.1k fork:0.1k ML Ops Accelerator: Databricks & Azure Machine Learning Unification
-- [microsoft/dstoolkit-mlops-v2](https://github.com/microsoft/dstoolkit-mlops-v2) topic: pushed_at:2024-07 star:0.0k fork:0.0k This repository contains the basic repository structure for machine learning projects based on Azure technologies (Azure ML and Azure DevOps). 
+- [microsoft/dstoolkit-mlops-v2](https://github.com/microsoft/dstoolkit-mlops-v2) topic: pushed_at:2024-08 star:0.0k fork:0.0k This repository contains the basic repository structure for machine learning projects based on Azure technologies (Azure ML and Azure DevOps). 
 - [microsoft/dstoolkit-mlopsv2-with-azure-ml](https://github.com/microsoft/dstoolkit-mlopsv2-with-azure-ml) topic: pushed_at:2024-06 star:0.0k fork:0.0k MLOps with Azure Machine Learning - An Example Implementation of a Deploy-Code Approach
 - [microsoft/dstoolkit-objectdetection-tensorflow-azureml](https://github.com/microsoft/dstoolkit-objectdetection-tensorflow-azureml) topic:dstoolkit pushed_at:2024-01 star:0.0k fork:0.0k The object detection solution accelerator provides a pre-packaged solution to train, deploy and monitor custom object detection models using the TensorFlow object detection API within Azure ML.
 - [microsoft/dstoolkit-pf-exp-framework](https://github.com/microsoft/dstoolkit-pf-exp-framework) topic: pushed_at:2024-05 star:0.0k fork:0.0k Promptflow experimentation framework
@@ -4743,6 +4736,7 @@
 - [microsoft/EMNLP2019-Split-And-Recombine](https://github.com/microsoft/EMNLP2019-Split-And-Recombine) topic: pushed_at:2023-07 star:0.0k fork:0.0k The code of EMNLP 2019 paper "A Split-and-Recombine Approach for Follow-up Query Analysis"
 - [microsoft/Emoji2recipe](https://github.com/microsoft/Emoji2recipe) topic:deep-learning,emojis,word-embeddings pushed_at:2023-06 star:0.0k fork:0.0k Recipe prediction model from emojis
 - [microsoft/EPPO](https://github.com/microsoft/EPPO) topic: pushed_at:2023-07 star:0.0k fork:0.0k An implementation of effective policy ensemble.
+- [microsoft/essex-toolkit](https://github.com/microsoft/essex-toolkit) topic: pushed_at:2024-08 star:0.0k fork:0.0k Provides a set of useful tools, utilities, reusable components, and React hooks that are designed to capture common components and utilities common among Essex Alpha team projects.
 - [microsoft/esvit](https://github.com/microsoft/esvit) topic:self-supervised-learning,vision-transformers pushed_at:2023-08 star:0.4k fork:0.0k EsViT: Efficient self-supervised Vision Transformers
 - [microsoft/event-vae-rl](https://github.com/microsoft/event-vae-rl) topic:airsim,event-camera,machine-learning,reinforcement-learning,representation-learning,uav pushed_at:2023-08 star:0.0k fork:0.0k Visuomotor policies from event-based cameras through representation learning and reinforcement learning. Accompanies our paper: https://arxiv.org/abs/2103.00806
 - [microsoft/EveryoneCanCode-US](https://github.com/microsoft/EveryoneCanCode-US) topic: pushed_at:2024-05 star:0.1k fork:0.1k Everyone Can Code Event (U.S. Edition)
@@ -4753,8 +4747,8 @@
 - [microsoft/ExperimentTools](https://github.com/microsoft/ExperimentTools) topic: pushed_at:2023-07 star:0.0k fork:0.0k XTlib is an API and command line tool for scaling and managing ML experiments.  The goal of XTLib is to enable you to effortlessly organize and scale your ML experiments. Our tools offer an incremental approach to adoption, so you can begin realizing benefits immediately..
 - [microsoft/ExtreMA](https://github.com/microsoft/ExtreMA) topic: pushed_at:2022-12 star:0.0k fork:0.0k A self-supervised learning approach based on extremely large masking
 - [microsoft/fabric-user-data-functions-samples](https://github.com/microsoft/fabric-user-data-functions-samples) topic: pushed_at:2024-08 star:0.0k fork:0.0k Samples for fabric user data functions 
-- [microsoft/FabricBQSync](https://github.com/microsoft/FabricBQSync) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
-- [microsoft/fadtk](https://github.com/microsoft/fadtk) topic: pushed_at:2024-07 star:0.1k fork:0.0k A simple library for Fréchet Audio Distance (FAD) calculation
+- [microsoft/FabricBQSync](https://github.com/microsoft/FabricBQSync) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/fadtk](https://github.com/microsoft/fadtk) topic: pushed_at:2024-08 star:0.1k fork:0.0k A simple library for Fréchet Audio Distance (FAD) calculation
 - [microsoft/FairMOT](https://github.com/microsoft/FairMOT) topic: pushed_at:2023-10 star:0.2k fork:0.0k This project provides an official implementation of our recent work on real-time multi-object tracking in videos. The previous works conduct object detection and tracking with two separate models so they are very slow. In contrast, we propose a one-stage solution which does detection and tracking with a single network by elegantly solving the alignment problem. The resulting approach achieves groundbreaking results in terms of both accuracy and speed: (1) it ranks first among all the trackers on the MOT challenges; (2) it is significantly faster than the previous state-of-the-arts. In addition, it scales gracefully to handle a large number of objects. 
 - [microsoft/FarmBeats-UniversityCommunity](https://github.com/microsoft/FarmBeats-UniversityCommunity) topic: pushed_at:2021-10 star:0.0k fork:0.0k The Microsoft FarmBeats University Community repo, helps educators and students learn about precision agriculture and Internet of Things (IoT) technologies.
 - [microsoft/farmbeatsforstudents](https://github.com/microsoft/farmbeatsforstudents) topic: pushed_at:2023-09 star:0.0k fork:0.0k 
@@ -4765,7 +4759,7 @@
 - [microsoft/FedDrift](https://github.com/microsoft/FedDrift) topic: pushed_at:2024-07 star:0.0k fork:0.0k Federated Learning under Distributed Concept Drift (FedDrift)
 - [microsoft/FERPlus](https://github.com/microsoft/FERPlus) topic: pushed_at:2023-06 star:0.6k fork:0.2k This is the FER+ new label annotations for the Emotion FER dataset.
 - [microsoft/few_shot_adaptation_for_parsing_contextual_utterances_with_llms](https://github.com/microsoft/few_shot_adaptation_for_parsing_contextual_utterances_with_llms) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
-- [microsoft/FIBER](https://github.com/microsoft/FIBER) topic: pushed_at:2023-10 star:0.1k fork:0.0k Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone
+- [microsoft/FIBER](https://github.com/microsoft/FIBER) topic:vision-language pushed_at:2023-10 star:0.1k fork:0.0k Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone
 - [microsoft/figure](https://github.com/microsoft/figure) topic:graph-machine-learning,kdd,machine-learning,microsoft,neurips,representation-learning,unsupervised-learning pushed_at:2024-07 star:0.0k fork:0.0k [NeurIPS 2023, KDD MLG 2023] Repo that contains code for the paper titled: "FiGURe: Simple and Efficient Unsupervised Node Representations with Filter Augmentations". 
 - [microsoft/FILM](https://github.com/microsoft/FILM) topic: pushed_at:2024-05 star:0.2k fork:0.0k Official repo for "Make Your LLM Fully Utilize the Context"
 - [microsoft/FitbitOnFHIR](https://github.com/microsoft/FitbitOnFHIR) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
@@ -4776,7 +4770,7 @@
 - [microsoft/fnl_paper](https://github.com/microsoft/fnl_paper) topic: pushed_at:2023-07 star:0.0k fork:0.0k Factorized Neural Layers
 - [microsoft/Focal-Transformer](https://github.com/microsoft/Focal-Transformer) topic: pushed_at:2022-03 star:0.5k fork:0.1k [NeurIPS 2021 Spotlight] Official code for "Focal Self-attention for Local-Global Interactions in Vision Transformers"
 - [microsoft/FocalNet](https://github.com/microsoft/FocalNet) topic: pushed_at:2023-11 star:0.7k fork:0.1k [NeurIPS 2022] Official code for "Focal Modulation Networks"
-- [microsoft/folx](https://github.com/microsoft/folx) topic: pushed_at:2024-08 star:0.0k fork:0.0k Implementation of Forward Laplacian algorithm in JAX
+- [microsoft/folx](https://github.com/microsoft/folx) topic: pushed_at:2024-08 star:0.1k fork:0.0k Implementation of Forward Laplacian algorithm in JAX
 - [microsoft/Forest_IR_synthesis](https://github.com/microsoft/Forest_IR_synthesis) topic: pushed_at:2023-06 star:0.0k fork:0.0k Forest impulse response synthesis model, implemented in Python.
 - [microsoft/forta_phishing_agents](https://github.com/microsoft/forta_phishing_agents) topic: pushed_at:2023-08 star:0.0k fork:0.0k Repository of forta phishing agents that identify phishing attacks on the blockchain
 - [microsoft/FOST](https://github.com/microsoft/FOST) topic: pushed_at:2023-02 star:0.3k fork:0.0k FOST is a general forecasting tool, which demonstrate our experience and advanced technology in practical forecasting domains, including temporal, spatial-temporal and hierarchical forecasting. Current general forecasting tools (Gluon-TS by amazon, Prophet by facebook etc.) can not process and model structural graph data, especially in spatial domains, also those tools suffer from tradeoff between usability and accuracy. To address these challenges, we design and develop FOST and aims to empower engineers and data scientists to build high-accuracy and easy-usability forecasting tools.
@@ -4791,13 +4785,13 @@
 - [microsoft/Glide](https://github.com/microsoft/Glide) topic: pushed_at:2022-10 star:0.0k fork:0.0k MSR Ability - Glide Navigation Device
 - [microsoft/glider_tasklet_crawler](https://github.com/microsoft/glider_tasklet_crawler) topic: pushed_at:2021-09 star:0.0k fork:0.0k An automated and scalable approach to generate tasklets from a natural language task query and a website URL. Glider does not require any pre-training. Glider models tasklet extraction as a state space search, where agents can explore a website’s UI and get rewarded when making progress towards task completion. The reward is computed based on the agent’s navigating pattern and the similarity between its trajectory and the task query.
 - [microsoft/GLIP](https://github.com/microsoft/GLIP) topic: pushed_at:2024-01 star:2.1k fork:0.2k Grounded Language-Image Pre-training
-- [microsoft/GlobalMLBuildingFootprints](https://github.com/microsoft/GlobalMLBuildingFootprints) topic: pushed_at:2024-08 star:1.3k fork:0.2k Worldwide building footprints derived from satellite imagery 
+- [microsoft/GlobalMLBuildingFootprints](https://github.com/microsoft/GlobalMLBuildingFootprints) topic: pushed_at:2024-08 star:1.4k fork:0.2k Worldwide building footprints derived from satellite imagery 
 - [microsoft/GLUECoS](https://github.com/microsoft/GLUECoS) topic: pushed_at:2024-05 star:0.1k fork:0.1k A benchmark for code-switched NLP, ACL 2020
 - [microsoft/GODEL](https://github.com/microsoft/GODEL) topic:conversational-ai,data-processing,dialogpt,dialogue,dialogue-systems,grounded-generation,language-grounding,language-model,machine-learning,pretrained-model,pytorch,text-data,text-generation,transformer,transformers pushed_at:2023-12 star:0.8k fork:0.1k Large-scale pretrained models for goal-directed dialog
 - [microsoft/goodpoints](https://github.com/microsoft/goodpoints) topic: pushed_at:2024-05 star:0.0k fork:0.0k A Python package for generating concise, high-quality summaries of a probability distribution
 - [microsoft/GoTFlow](https://github.com/microsoft/GoTFlow) topic: pushed_at:2024-04 star:0.1k fork:0.0k a workflow engine for Graph-of-Thought
 - [microsoft/GPT-Enabled-HSR-CoSpeechGestures](https://github.com/microsoft/GPT-Enabled-HSR-CoSpeechGestures) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
-- [microsoft/gpt-review](https://github.com/microsoft/gpt-review) topic: pushed_at:2024-07 star:0.2k fork:0.0k 
+- [microsoft/gpt-review](https://github.com/microsoft/gpt-review) topic: pushed_at:2024-08 star:0.2k fork:0.0k 
 - [microsoft/GPT4Vision-Robot-Manipulation-Prompts](https://github.com/microsoft/GPT4Vision-Robot-Manipulation-Prompts) topic: pushed_at:2024-08 star:0.0k fork:0.0k This repository provides the sample code designed to interpret human demonstration videos and convert them into high-level tasks for robots.
 - [microsoft/gr-azure](https://github.com/microsoft/gr-azure) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [microsoft/GRAM](https://github.com/microsoft/GRAM) topic: pushed_at:2022-08 star:0.2k fork:0.0k GRAM: Generative Radiance Manifolds for 3D-Aware Image Generation (CVPR 2022 Oral)
@@ -4807,8 +4801,8 @@
 - [microsoft/GraphicsTF](https://github.com/microsoft/GraphicsTF) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [microsoft/GraphicsUtils](https://github.com/microsoft/GraphicsUtils) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [microsoft/graphing](https://github.com/microsoft/graphing) topic: pushed_at:2023-10 star:0.0k fork:0.0k All kinds of graph algorithms. From path cover for special graphs to traversal, etc.
-- [microsoft/Graphormer](https://github.com/microsoft/Graphormer) topic:ai4science,deep-learning,graph,molecule-simulation,transformer pushed_at:2024-06 star:2.0k fork:0.3k Graphormer is a general-purpose deep learning backbone for molecular modeling.
-- [microsoft/graphrag](https://github.com/microsoft/graphrag) topic:gpt,gpt-4,gpt4,graphrag,llm,llms,rag pushed_at:2024-08 star:15.0k fork:1.4k A modular graph-based Retrieval-Augmented Generation (RAG) system
+- [microsoft/Graphormer](https://github.com/microsoft/Graphormer) topic:ai4science,deep-learning,graph,molecule-simulation,transformer pushed_at:2024-06 star:2.1k fork:0.3k Graphormer is a general-purpose deep learning backbone for molecular modeling.
+- [microsoft/graphrag](https://github.com/microsoft/graphrag) topic:gpt,gpt-4,gpt4,graphrag,llm,llms,rag pushed_at:2024-08 star:16.4k fork:1.5k A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [microsoft/greenlands](https://github.com/microsoft/greenlands) topic: pushed_at:2024-06 star:0.0k fork:0.0k Platform to run interactive Reinforcement Learning agents in a Minecraft Server
 - [microsoft/GRTr](https://github.com/microsoft/GRTr) topic: pushed_at:2023-07 star:0.0k fork:0.0k Generative Retrieval Transformer
 - [microsoft/Guardinel](https://github.com/microsoft/Guardinel) topic: pushed_at:2022-02 star:0.0k fork:0.0k A python framework to enforce policies in the PRs
@@ -4833,12 +4827,12 @@
 - [microsoft/HAMS](https://github.com/microsoft/HAMS) topic:aruco,computer-vision,license-testing pushed_at:2023-03 star:0.0k fork:0.0k Code for Automated License Testing from the HAMS group @ Microsoft Research, India
 - [microsoft/hat](https://github.com/microsoft/hat) topic:benchmarking,cpp,cprogramming,cuda,metadata,platform-independent,python-library,rocm,toml pushed_at:2023-05 star:0.0k fork:0.0k TOML-annotated C header file format for packaging binary files, from Microsoft Research
 - [microsoft/HeteGCN](https://github.com/microsoft/HeteGCN) topic:machine-learning,microsoft pushed_at:2024-06 star:0.0k fork:0.0k Repo that contains code for the paper titled: "HeteGCN: Heterogeneous Graph Convolutional Networks for Text Classification".
-- [microsoft/hi-ml](https://github.com/microsoft/hi-ml) topic:ai,azure,azureml,deep-learning,health,healthcare,machine-learning,ml,mlops,python pushed_at:2024-08 star:0.2k fork:0.1k HI-ML toolbox for deep learning for medical imaging and Azure integration
+- [microsoft/hi-ml](https://github.com/microsoft/hi-ml) topic:ai,azure,azureml,deep-learning,health,healthcare,machine-learning,ml,mlops,python pushed_at:2024-08 star:0.3k fork:0.1k HI-ML toolbox for deep learning for medical imaging and Azure integration
 - [microsoft/historian-query](https://github.com/microsoft/historian-query) topic: pushed_at:2023-10 star:0.0k fork:0.0k This Python library helps query regularized time series based on raw historian data with irregular time intervals (due to compression, deadband, outages etc.) on Spark.
 - [microsoft/HiTab](https://github.com/microsoft/HiTab) topic: pushed_at:2024-04 star:0.1k fork:0.0k [ACL 2022] A hierarchical table dataset for question answering and data-to-text generation.
 - [microsoft/HittER](https://github.com/microsoft/HittER) topic: pushed_at:2024-07 star:0.1k fork:0.0k Hierarchical Transformers for Knowledge Graph Embeddings (EMNLP 2021)
 - [microsoft/HMNet](https://github.com/microsoft/HMNet) topic: pushed_at:2023-06 star:0.1k fork:0.0k Official Implementation of "A Hierarchical Network for Abstractive Meeting Summarization with Cross-Domain Pretraining""
-- [microsoft/horseshoe-bnn](https://github.com/microsoft/horseshoe-bnn) topic: pushed_at:2023-06 star:0.0k fork:0.0k A Bayesian Neural Network with a horseshoe prior for improved interpretability
+- [microsoft/horseshoe-bnn](https://github.com/microsoft/horseshoe-bnn) topic: pushed_at:2023-06 star:0.1k fork:0.0k A Bayesian Neural Network with a horseshoe prior for improved interpretability
 - [microsoft/hpc-cache-nfsv3-client](https://github.com/microsoft/hpc-cache-nfsv3-client) topic: pushed_at:2024-01 star:0.0k fork:0.0k 
 - [microsoft/huggingface-transformers](https://github.com/microsoft/huggingface-transformers) topic: pushed_at:2023-06 star:0.0k fork:0.0k 🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.
 - [microsoft/human-pose-estimation.pytorch](https://github.com/microsoft/human-pose-estimation.pytorch) topic:coco-keypoints-detection,deep-learning,human-pose-estimation,mpii-dataset,mscoco-keypoint pushed_at:2022-11 star:2.9k fork:0.6k The project is an official implement of our ECCV2018 paper  "Simple Baselines for Human Pose Estimation and Tracking(https://arxiv.org/abs/1804.06208)"
@@ -4853,13 +4847,13 @@
 - [microsoft/icecaps](https://github.com/microsoft/icecaps) topic: pushed_at:2023-07 star:0.3k fork:0.0k Intelligent Conversation Engine: Code and Pre-trained Systems. Version 0.2.0.
 - [microsoft/iclr2019-learning-to-represent-edits](https://github.com/microsoft/iclr2019-learning-to-represent-edits) topic: pushed_at:2022-12 star:0.0k fork:0.0k Code for the ICLR 2019 paper "Learning to Represent Edits"
 - [microsoft/ics-forensics-tools](https://github.com/microsoft/ics-forensics-tools) topic: pushed_at:2024-04 star:0.3k fork:0.0k Microsoft ICSpector (ICS Forensics Tools framework) is an open-source forensics framework that enables the analysis of Industrial PLC metadata and project files.
-- [microsoft/iglu-datasets](https://github.com/microsoft/iglu-datasets) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
+- [microsoft/iglu-datasets](https://github.com/microsoft/iglu-datasets) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/IIoT](https://github.com/microsoft/IIoT) topic: pushed_at:2023-12 star:0.0k fork:0.0k Industrial IoT Samples, Solutions and Documentation
-- [microsoft/Imitating-Human-Behaviour-w-Diffusion](https://github.com/microsoft/Imitating-Human-Behaviour-w-Diffusion) topic: pushed_at:2024-07 star:0.1k fork:0.0k Code for ICLR 2023 paper "Imitating Human Behaviour with Diffusion Models"
+- [microsoft/Imitating-Human-Behaviour-w-Diffusion](https://github.com/microsoft/Imitating-Human-Behaviour-w-Diffusion) topic: pushed_at:2024-08 star:0.1k fork:0.0k Code for ICLR 2023 paper "Imitating Human Behaviour with Diffusion Models"
 - [microsoft/Industrial-Foundation-Models](https://github.com/microsoft/Industrial-Foundation-Models) topic: pushed_at:2024-08 star:0.0k fork:0.0k Dedicated to building industrial foundation models for universal data intelligence across industries.
 - [microsoft/infinibatch](https://github.com/microsoft/infinibatch) topic: pushed_at:2023-06 star:0.2k fork:0.0k Efficient, check-pointed data loading for deep learning with massive data sets.
 - [microsoft/InfoGainalpharank](https://github.com/microsoft/InfoGainalpharank) topic: pushed_at:2021-01 star:0.0k fork:0.0k Sample code for AAAI paper Estimating α-Rank by Maximizing Information Gain
-- [microsoft/InnerEye-DeepLearning](https://github.com/microsoft/InnerEye-DeepLearning) topic:azure,deep-learning,healthcare,medical-imaging pushed_at:2024-03 star:0.5k fork:0.1k Medical Imaging Deep Learning library to train and deploy 3D segmentation models on Azure Machine Learning
+- [microsoft/InnerEye-DeepLearning](https://github.com/microsoft/InnerEye-DeepLearning) topic:azure,deep-learning,healthcare,medical-imaging pushed_at:2024-03 star:0.6k fork:0.1k Medical Imaging Deep Learning library to train and deploy 3D segmentation models on Azure Machine Learning
 - [microsoft/InnerEye-Inference](https://github.com/microsoft/InnerEye-Inference) topic:ai,deployment,medical-imaging pushed_at:2024-03 star:0.0k fork:0.0k Enables inference and deployment of InnerEye-DeepLearning (https://github.com/microsoft/InnerEye-deeplearning) models as an async REST API on Azure
 - [microsoft/InQRy](https://github.com/microsoft/InQRy) topic:audit,barcode,hardware-specs,inventory,macos,python,qrcode,snipeit,windows pushed_at:2023-03 star:0.1k fork:0.0k A robust, cross-platform inventory utility that generates a QR code containing system hardware specs.
 - [microsoft/InstructExcel](https://github.com/microsoft/InstructExcel) topic: pushed_at:2024-01 star:0.0k fork:0.0k 
@@ -4887,9 +4881,9 @@
 - [microsoft/kiota-abstractions-python](https://github.com/microsoft/kiota-abstractions-python) topic:kiota,openapi,python pushed_at:2024-08 star:0.0k fork:0.0k Abstractions library for Kiota generated Python clients
 - [microsoft/kiota-authentication-azure-python](https://github.com/microsoft/kiota-authentication-azure-python) topic:authentication,azure,kiota,python pushed_at:2024-08 star:0.0k fork:0.0k Kiota Azure authentication provider for python clients
 - [microsoft/kiota-http-python](https://github.com/microsoft/kiota-http-python) topic:http,kiota,openapi,python pushed_at:2024-08 star:0.0k fork:0.0k HTTP request adapter implementation for Kiota clients for Python
-- [microsoft/kiota-serialization-form-python](https://github.com/microsoft/kiota-serialization-form-python) topic:kiota,python,serialization pushed_at:2024-07 star:0.0k fork:0.0k Kiota Form encoded serialization implementation for Python
+- [microsoft/kiota-serialization-form-python](https://github.com/microsoft/kiota-serialization-form-python) topic:kiota,python,serialization pushed_at:2024-08 star:0.0k fork:0.0k Kiota Form encoded serialization implementation for Python
 - [microsoft/kiota-serialization-json-python](https://github.com/microsoft/kiota-serialization-json-python) topic:json,kiota,openapi,python pushed_at:2024-08 star:0.0k fork:0.0k JSON serialization implementation for Kiota clients in Python
-- [microsoft/kiota-serialization-multipart-python](https://github.com/microsoft/kiota-serialization-multipart-python) topic: pushed_at:2024-07 star:0.0k fork:0.0k Multipart serialization implementation for python based kiota clients
+- [microsoft/kiota-serialization-multipart-python](https://github.com/microsoft/kiota-serialization-multipart-python) topic: pushed_at:2024-08 star:0.0k fork:0.0k Multipart serialization implementation for python based kiota clients
 - [microsoft/kiota-serialization-text-python](https://github.com/microsoft/kiota-serialization-text-python) topic:kiota,openapi,python,text pushed_at:2024-08 star:0.0k fork:0.0k Text serialization implementation for Kiota generated clients in Python
 - [microsoft/klite](https://github.com/microsoft/klite) topic: pushed_at:2023-06 star:0.1k fork:0.0k [NeurIPS 2022] code for "K-LITE: Learning Transferable Visual Models with External Knowledge" https://arxiv.org/abs/2204.09222
 - [microsoft/knack](https://github.com/microsoft/knack) topic: pushed_at:2024-07 star:0.3k fork:0.1k Knack - A Python command line interface framework
@@ -4916,19 +4910,19 @@
 - [microsoft/LLaVA-Med](https://github.com/microsoft/LLaVA-Med) topic: pushed_at:2024-08 star:1.4k fork:0.2k Large Language-and-Vision Assistant for Biomedicine, built towards multimodal GPT-4 level capabilities.
 - [microsoft/LLF-Bench](https://github.com/microsoft/LLF-Bench) topic:large-language-models,llm,llm-training,llms,machine-learning,natural-language-processing,reinforcement-learning pushed_at:2024-07 star:0.1k fork:0.0k A benchmark for evaluating learning agents based on just language feedback
 - [microsoft/llm-data-creation](https://github.com/microsoft/llm-data-creation) topic: pushed_at:2023-10 star:0.1k fork:0.0k Model, Code & Data for the EMNLP'23 paper "Making Large Language Models Better Data Creators"
-- [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) topic: pushed_at:2024-07 star:4.3k fork:0.2k To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss. 
+- [microsoft/LLMLingua](https://github.com/microsoft/LLMLingua) topic: pushed_at:2024-08 star:4.4k fork:0.2k To speed up LLMs' inference and enhance LLM's perceive of key information, compress the prompt and KV-Cache, which achieves up to 20x compression with minimal performance loss. 
 - [microsoft/llmops-promptflow-template](https://github.com/microsoft/llmops-promptflow-template) topic:aistudio,aml,azure,azuremachinelearning,cloud,docker,evaluation,experimentation,genai,largelanguagemodels,llm,llmops,machine-learning,mlops,mlops-template,orchestration,prompt,promptengineering,promptflow,python pushed_at:2024-08 star:0.2k fork:0.2k LLMOps with Prompt Flow is a "LLMOps template and guidance" to help you build LLM-infused apps using Prompt Flow. It offers a range of features including Centralized Code Hosting, Lifecycle Management, Variant and Hyperparameter Experimentation, A/B Deployment, reporting for all runs and experiments and so on.
 - [microsoft/llvm-lookup-tool](https://github.com/microsoft/llvm-lookup-tool) topic: pushed_at:2020-09 star:0.0k fork:0.0k A command-line tool that returns LLVM Static Compiler arguments based on a common microcontroller, or MCU, board name such as "Arduino Uno".
 - [microsoft/LMChallenge](https://github.com/microsoft/LMChallenge) topic:evaluation,evaluation-toolkit,language-model,language-model-evaluation,lm-challenge,next-word-prediction,ngram-model,nlp,prediction-model,research-tool pushed_at:2023-08 star:0.1k fork:0.0k A library & tools to evaluate predictive language models.
 - [microsoft/LMOps](https://github.com/microsoft/LMOps) topic:agi,gpt,language-model,llm,lm,lmops,nlp,pretraining,prompt,promptist,x-prompt pushed_at:2024-08 star:3.5k fork:0.3k General technology for enabling AI capabilities w/ LLMs and MLLMs
 - [microsoft/localizationkit](https://github.com/microsoft/localizationkit) topic: pushed_at:2024-03 star:0.0k fork:0.0k Tools and utilities for verifying string localization
 - [microsoft/logmerge](https://github.com/microsoft/logmerge) topic: pushed_at:2023-10 star:0.0k fork:0.0k Merge multiple log files by timestamp, accommodating multiple timestamp formats.
-- [microsoft/logparse](https://github.com/microsoft/logparse) topic: pushed_at:2024-04 star:0.0k fork:0.0k Parser for Cassandra Logs to support Azure services
+- [microsoft/logparse](https://github.com/microsoft/logparse) topic: pushed_at:2024-08 star:0.0k fork:0.0k Parser for Cassandra Logs to support Azure services
 - [microsoft/logrl](https://github.com/microsoft/logrl) topic:action-gap,algorithm,algorithms,discount,discount-factor,dqn,gap,log-rl,logrl,reinforcement-learning,rl pushed_at:2023-04 star:0.0k fork:0.0k Logarithmic Reinforcement Learning
 - [microsoft/LongitudinalDifferenceInDifferencesPy](https://github.com/microsoft/LongitudinalDifferenceInDifferencesPy) topic: pushed_at:2023-07 star:0.0k fork:0.0k Did my program cause the improvement in my numbers?
-- [microsoft/LongRoPE](https://github.com/microsoft/LongRoPE) topic: pushed_at:2024-07 star:0.1k fork:0.0k LongRoPE is a novel method that can extends the context window of pre-trained LLMs to an impressive 2048k tokens. 
+- [microsoft/LongRoPE](https://github.com/microsoft/LongRoPE) topic: pushed_at:2024-08 star:0.1k fork:0.0k LongRoPE is a novel method that can extends the context window of pre-trained LLMs to an impressive 2048k tokens. 
 - [microsoft/loop-invariant-gen-experiments](https://github.com/microsoft/loop-invariant-gen-experiments) topic: pushed_at:2024-05 star:0.0k fork:0.0k Loop invariant generation with LLMs
-- [microsoft/LoRA](https://github.com/microsoft/LoRA) topic:adaptation,deberta,deep-learning,gpt-2,gpt-3,language-model,lora,low-rank,pytorch,roberta pushed_at:2024-08 star:10.1k fork:0.6k Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
+- [microsoft/LoRA](https://github.com/microsoft/LoRA) topic:adaptation,deberta,deep-learning,gpt-2,gpt-3,language-model,lora,low-rank,pytorch,roberta pushed_at:2024-08 star:10.2k fork:0.7k Code for loralib, an implementation of "LoRA: Low-Rank Adaptation of Large Language Models"
 - [microsoft/LQ-Nets](https://github.com/microsoft/LQ-Nets) topic:cnn,compression,dnn,quantization pushed_at:2022-08 star:0.2k fork:0.1k LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks
 - [microsoft/LSKV](https://github.com/microsoft/LSKV) topic: pushed_at:2023-12 star:0.0k fork:0.0k A Ledger-backed Secure Key-Value store (LSKV), built on the Confidential Consortium Framework (CCF)
 - [microsoft/lsprotocol](https://github.com/microsoft/lsprotocol) topic:csharp,python,rust pushed_at:2024-08 star:0.1k fork:0.0k Code generator and generated types for Language Server Protocol.
@@ -4944,13 +4938,13 @@
 - [microsoft/MaskedLARk](https://github.com/microsoft/MaskedLARk) topic: pushed_at:2024-02 star:0.0k fork:0.0k Implementation of helper service protocols for the Masked Learning, Aggregation and Reporting worKflow
 - [microsoft/MaskFlownet](https://github.com/microsoft/MaskFlownet) topic:cvpr2020,feature-matching,feature-warping,kitti,occlusion,optical-flow,sintel pushed_at:2022-04 star:0.4k fork:0.1k [CVPR 2020, Oral] MaskFlownet: Asymmetric Feature Matching with Learnable Occlusion Mask
 - [microsoft/MASS](https://github.com/microsoft/MASS) topic: pushed_at:2022-11 star:1.1k fork:0.2k MASS: Masked Sequence to Sequence Pre-training for Language Generation
-- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) topic:codespace,codespaces,copilot,csharp,dotnet,github,javascript,lab,labs,microsoft,python,tutorial,tutorial-code,tutorial-exercises,tutorials,visual-studio-code,vscode pushed_at:2024-08 star:4.5k fork:0.7k An 8 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
+- [microsoft/Mastering-GitHub-Copilot-for-Paired-Programming](https://github.com/microsoft/Mastering-GitHub-Copilot-for-Paired-Programming) topic:codespace,codespaces,copilot,csharp,dotnet,github,javascript,lab,labs,microsoft,python,tutorial,tutorial-code,tutorial-exercises,tutorials,visual-studio-code,vscode pushed_at:2024-08 star:4.6k fork:0.7k An 8 Lesson course teaching everything you need to know about harnessing GitHub Copilot and an AI Paired Programing resource.
 - [microsoft/MathOctopus](https://github.com/microsoft/MathOctopus) topic:llm-training pushed_at:2024-07 star:0.0k fork:0.0k This repository contains resources for accessing the official benchmarks, codes, and checkpoints of the paper: "[**Breaking Language Barriers in Multilingual Mathematical Reasoning: Insights and Observations**]".
 - [microsoft/MazeExplorer](https://github.com/microsoft/MazeExplorer) topic: pushed_at:2023-06 star:0.1k fork:0.0k Customisable 3D environment for assessing generalisation in Reinforcement Learning.
-- [microsoft/mdatp-devicecontrol](https://github.com/microsoft/mdatp-devicecontrol) topic:printers,security,usb-devices pushed_at:2024-06 star:0.0k fork:0.0k Microsoft Defender for Endpoint Device Control tools, samples, and resources.
+- [microsoft/mdatp-devicecontrol](https://github.com/microsoft/mdatp-devicecontrol) topic:printers,security,usb-devices pushed_at:2024-08 star:0.0k fork:0.0k Microsoft Defender for Endpoint Device Control tools, samples, and resources.
 - [microsoft/med-deadend](https://github.com/microsoft/med-deadend) topic: pushed_at:2022-11 star:0.0k fork:0.0k Code for the Medical Deadend Paper at NeurIPS 2021
 - [microsoft/Megatron-DeepSpeed](https://github.com/microsoft/Megatron-DeepSpeed) topic: pushed_at:2024-08 star:1.8k fork:0.3k Ongoing research training transformer language models at scale, including: BERT & GPT-2
-- [microsoft/MEGAVERSE](https://github.com/microsoft/MEGAVERSE) topic:llms-benchmarking,multilingual pushed_at:2024-07 star:0.0k fork:0.0k Official Codebase for MEGAVERSE: (published in ACL: NAACL 2024)
+- [microsoft/MEGAVERSE](https://github.com/microsoft/MEGAVERSE) topic:llms-benchmarking,multilingual pushed_at:2024-08 star:0.0k fork:0.0k Official Codebase for MEGAVERSE: (published in ACL: NAACL 2024)
 - [microsoft/MeshGraphormer](https://github.com/microsoft/MeshGraphormer) topic: pushed_at:2023-07 star:0.4k fork:0.1k Research code of ICCV 2021 paper "Mesh Graphormer"
 - [microsoft/MeshTransformer](https://github.com/microsoft/MeshTransformer) topic: pushed_at:2023-07 star:0.6k fork:0.1k Research code for CVPR 2021 paper "End-to-End Human Pose and Mesh Reconstruction with Transformers"
 - [microsoft/METAL-Towards-Multilingual-Meta-Evaluation](https://github.com/microsoft/METAL-Towards-Multilingual-Meta-Evaluation) topic:llms,meta-evaluation,multilingual pushed_at:2024-06 star:0.0k fork:0.0k Official Codebase for "METAL: Towards Multilingual Meta-Evaluation" (published in Findings of ACL: NAACL 2024)
@@ -4963,12 +4957,12 @@
 - [microsoft/Microsoft-Rocketbox](https://github.com/microsoft/Microsoft-Rocketbox) topic: pushed_at:2022-10 star:0.5k fork:0.1k Microsoft Rocketbox is now available with MIT license! The library of 115 rigged avatars offers flexibility, enabling the easy use of animations across characters and the mixing and matching of texture elements.
 - [microsoft/Microsoft-Vision-Model](https://github.com/microsoft/Microsoft-Vision-Model) topic: pushed_at:2023-10 star:0.0k fork:0.0k State-of-the-art pretrained vision model from Bing Multimedia
 - [microsoft/MicrosoftDefenderForEndpoint-API-Python](https://github.com/microsoft/MicrosoftDefenderForEndpoint-API-Python) topic: pushed_at:2021-04 star:0.0k fork:0.0k sample code to MicrosoftDefenderATP API
-- [microsoft/microxcaling](https://github.com/microsoft/microxcaling) topic: pushed_at:2024-07 star:0.1k fork:0.0k PyTorch emulation library for Microscaling (MX)-compatible data formats
+- [microsoft/microxcaling](https://github.com/microsoft/microxcaling) topic: pushed_at:2024-08 star:0.1k fork:0.0k PyTorch emulation library for Microscaling (MX)-compatible data formats
 - [microsoft/mimic_sepsis](https://github.com/microsoft/mimic_sepsis) topic: pushed_at:2023-07 star:0.1k fork:0.0k Sepsis cohort from MIMIC dataset
-- [microsoft/MInference](https://github.com/microsoft/MInference) topic: pushed_at:2024-08 star:0.6k fork:0.0k To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy.
+- [microsoft/MInference](https://github.com/microsoft/MInference) topic: pushed_at:2024-08 star:0.7k fork:0.0k To speed up Long-context LLMs' inference, approximate and dynamic sparse calculate the attention, which reduces inference latency by up to 10x for pre-filling on an A100 while maintaining accuracy.
 - [microsoft/MixingBoard](https://github.com/microsoft/MixingBoard) topic: pushed_at:2020-09 star:0.0k fork:0.0k a Knowledgeable Stylized Integrated Text Generation Platform
 - [microsoft/ml-server-image-similarity](https://github.com/microsoft/ml-server-image-similarity) topic: pushed_at:2023-06 star:0.0k fork:0.0k Image similarity solution with Microsoft Machine Learning Server
-- [microsoft/ml-wrappers](https://github.com/microsoft/ml-wrappers) topic: pushed_at:2024-06 star:0.0k fork:0.0k A unified wrapper for various ML frameworks - to have one uniform scikit-learn format for predict and predict_proba functions.
+- [microsoft/ml-wrappers](https://github.com/microsoft/ml-wrappers) topic: pushed_at:2024-08 star:0.0k fork:0.0k A unified wrapper for various ML frameworks - to have one uniform scikit-learn format for predict and predict_proba functions.
 - [microsoft/ML4C](https://github.com/microsoft/ML4C) topic:causal,causal-discovery,causality,causality-algorithms,discrete,graph,structure-learning,supervised-causal-learning,supervised-learning pushed_at:2022-11 star:0.0k fork:0.0k [SDM'23] ML4C: Seeing Causality Through Latent Vicinity
 - [microsoft/MLC](https://github.com/microsoft/MLC) topic: pushed_at:2022-09 star:0.1k fork:0.0k Meta Label Correction for Noisy Label Learning
 - [microsoft/MLCVQA](https://github.com/microsoft/MLCVQA) topic: pushed_at:2024-04 star:0.0k fork:0.0k Machine Learning Codec Video Quality Assessment
@@ -4982,18 +4976,18 @@
 - [microsoft/MLOps_VideoAnomalyDetection](https://github.com/microsoft/MLOps_VideoAnomalyDetection) topic:azureml,mlops pushed_at:2023-06 star:0.1k fork:0.1k Operationalize a video anomaly detection model with Azure ML
 - [microsoft/MLOpsPython](https://github.com/microsoft/MLOpsPython) topic:azure-machine-learning,azureml,mlops pushed_at:2023-08 star:1.2k fork:1.1k MLOps using Azure ML Services and Azure DevOps
 - [microsoft/MLOpsSamples](https://github.com/microsoft/MLOpsSamples) topic:azureml,mlops pushed_at:2023-07 star:0.0k fork:0.0k Samples for use with MLOps
-- [microsoft/MLOS](https://github.com/microsoft/MLOS) topic:autotuning,benchmarking,benchmarking-framework,data-science,infrastructure,optimize-systems,performance-engineering pushed_at:2024-08 star:0.1k fork:0.1k MLOS is a project to enable autotuning for systems.
+- [microsoft/MLOS](https://github.com/microsoft/MLOS) topic:autotuning,benchmarking,benchmarking-framework,data-science,infrastructure,optimize-systems,performance-engineering pushed_at:2024-09 star:0.1k fork:0.1k MLOS is a project to enable autotuning for systems.
 - [microsoft/MM-REACT](https://github.com/microsoft/MM-REACT) topic: pushed_at:2024-01 star:0.9k fork:0.1k Official repo for MM-REACT
 - [microsoft/MMdnn](https://github.com/microsoft/MMdnn) topic:caffe,cntk,coreml,darknet,keras,model-converter,mxnet,onnx,pytorch,tensorflow,visualization pushed_at:2024-05 star:5.8k fork:1.0k MMdnn is a set of tools to help users inter-operate among different deep learning frameworks. E.g. model conversion and visualization. Convert models between Caffe, Keras, MXNet, Tensorflow, CNTK, PyTorch Onnx and CoreML.
 - [microsoft/MMLMCalibration](https://github.com/microsoft/MMLMCalibration) topic: pushed_at:2023-06 star:0.0k fork:0.0k Code for EMNLP 2022 Paper: On the Calibration of Massively Multilingual Language Models
 - [microsoft/moabian](https://github.com/microsoft/moabian) topic: pushed_at:2023-05 star:0.0k fork:0.0k Project Moab software stack
 - [microsoft/moabsim-py](https://github.com/microsoft/moabsim-py) topic: pushed_at:2022-09 star:0.0k fork:0.0k A balancing plate simulator.
-- [microsoft/MoCapAct](https://github.com/microsoft/MoCapAct) topic:deepmind-control-suite,dm-control,humanoid-control,imitation-learning,locomotion,mocap,motion-capture,motion-imitation,mujoco,reinforcement-learning,reinforcement-learning-datasets pushed_at:2024-08 star:0.1k fork:0.0k A Multi-Task Dataset for Simulated Humanoid Control
+- [microsoft/MoCapAct](https://github.com/microsoft/MoCapAct) topic:deepmind-control-suite,dm-control,humanoid-control,imitation-learning,locomotion,mocap,motion-capture,motion-imitation,mujoco,reinforcement-learning,reinforcement-learning-datasets pushed_at:2024-08 star:0.2k fork:0.0k A Multi-Task Dataset for Simulated Humanoid Control
 - [microsoft/model-perf](https://github.com/microsoft/model-perf) topic: pushed_at:2024-03 star:0.0k fork:0.0k Model Performance Toolkit (model-perf) is a Python package backed by test applications for different platforms (Windows/MacOS, Android/iOS, Web) to test accuracy and performance of machine learning models on different target platforms and devices (e.g., Google Pixel for Android, iPhone for iOS).
 - [microsoft/modulegarage](https://github.com/microsoft/modulegarage) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [microsoft/Modulo](https://github.com/microsoft/Modulo) topic: pushed_at:2024-04 star:0.0k fork:0.0k Modulo allows optimal selection of vehicles for effective drive-by sensing 
 - [microsoft/MOFDiff](https://github.com/microsoft/MOFDiff) topic: pushed_at:2024-06 star:0.0k fork:0.0k Coarse-grained Diffusion for Metal-Organic Framework Design
-- [microsoft/molecule-generation](https://github.com/microsoft/molecule-generation) topic:deep-learning,generative-model,graph-neural-networks,molecule-generation pushed_at:2024-01 star:0.2k fork:0.0k Implementation of MoLeR: a generative model of molecular graphs which supports scaffold-constrained generation
+- [microsoft/molecule-generation](https://github.com/microsoft/molecule-generation) topic:deep-learning,generative-model,graph-neural-networks,molecule-generation pushed_at:2024-01 star:0.3k fork:0.0k Implementation of MoLeR: a generative model of molecular graphs which supports scaffold-constrained generation
 - [microsoft/molskill](https://github.com/microsoft/molskill) topic: pushed_at:2023-10 star:0.1k fork:0.0k Extracting medicinal chemistry intuition via preference machine learning
 - [microsoft/molucn](https://github.com/microsoft/molucn) topic: pushed_at:2023-05 star:0.0k fork:0.0k 
 - [microsoft/MonitoFi](https://github.com/microsoft/MonitoFi) topic:apache,monitofi,monitoring,monitoring-tool,nifi,nifi-monitor pushed_at:2023-08 star:0.1k fork:0.0k MonitoFi: Health & Performance Monitor for your Apache NiFi
@@ -5035,7 +5029,7 @@
 - [microsoft/Multilingual-Model-Transfer](https://github.com/microsoft/Multilingual-Model-Transfer) topic: pushed_at:2022-08 star:0.1k fork:0.0k In this project we develop new deep learning models for bootstrapping language understanding models for languages with no labeled data using labeled data from other languages. 
 - [microsoft/MultilingualBiasEvaluation](https://github.com/microsoft/MultilingualBiasEvaluation) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [microsoft/multilspy](https://github.com/microsoft/multilspy) topic:ai,ai4code,artificial-intelligence,code-analysis,code-completion,code-generation,codegen,huggingface-transformers,language-server-client,language-server-protocol,large-language-model,large-language-models,llm,lsp,lsp-client,neurips,neurips-2023,program-synthesis,transformer pushed_at:2024-08 star:0.0k fork:0.0k multispy is a lsp client library in Python intended to be used to build applications around language servers.
-- [microsoft/multiview-human-pose-estimation-pytorch](https://github.com/microsoft/multiview-human-pose-estimation-pytorch) topic: pushed_at:2021-10 star:0.5k fork:0.1k This is an official Pytorch implementation of "Cross View Fusion for 3D Human Pose Estimation, ICCV 2019". 
+- [microsoft/multiview-human-pose-estimation-pytorch](https://github.com/microsoft/multiview-human-pose-estimation-pytorch) topic: pushed_at:2024-08 star:0.5k fork:0.1k This is an official Pytorch implementation of "Cross View Fusion for 3D Human Pose Estimation, ICCV 2019". 
 - [microsoft/MunTTS-A-Text-to-Speech-System-For-Mundari](https://github.com/microsoft/MunTTS-A-Text-to-Speech-System-For-Mundari) topic:low-resource,text-to-speech pushed_at:2024-05 star:0.0k fork:0.0k Official Codebase for "MunTTS: A Text-to-Speech System for Mundari" (published in ComputEL-7)
 - [microsoft/muzic](https://github.com/microsoft/muzic) topic:ai-music,deep-learning,music,music-composition pushed_at:2024-06 star:4.4k fork:0.4k Muzic: Music Understanding and Generation with Artificial Intelligence
 - [microsoft/mvnfeed-cli](https://github.com/microsoft/mvnfeed-cli) topic: pushed_at:2024-06 star:0.0k fork:0.0k Tool to transfer Maven artifacts between repositories
@@ -5048,13 +5042,13 @@
 - [microsoft/neurips21-self-supervised-bug-detection-and-repair](https://github.com/microsoft/neurips21-self-supervised-bug-detection-and-repair) topic: pushed_at:2022-08 star:0.1k fork:0.0k Replication Code for "Self-Supervised Bug Detection and Repair" NeurIPS 2021
 - [microsoft/NeuronBlocks](https://github.com/microsoft/NeuronBlocks) topic:artificial-intelligence,deep-learning,dnn,knowledge-distillation,model-compression,natural-language-processing,pytorch,qna,question-answering,sequence-labeling,text-classification,text-matching pushed_at:2023-07 star:1.4k fork:0.2k NLP DNN Toolkit - Building Your NLP DNN Models Like Playing Lego
 - [microsoft/News-Threads](https://github.com/microsoft/News-Threads) topic: pushed_at:2023-07 star:0.0k fork:0.0k The News Threads pipeline processes large volumes of document content, using machine learning to find derived text fragments and trace them to their original sources. The backend pipeline is written for Python.
-- [microsoft/nice-icl](https://github.com/microsoft/nice-icl) topic: pushed_at:2024-07 star:0.0k fork:0.0k NICE: Normalized Invariance to Choice of Example
+- [microsoft/nice-icl](https://github.com/microsoft/nice-icl) topic: pushed_at:2024-08 star:0.0k fork:0.0k NICE: Normalized Invariance to Choice of Example
 - [microsoft/NimbusML](https://github.com/microsoft/NimbusML) topic:data-science,machine-learning,ml,mlnet,nimbusml,python,scikit-learn pushed_at:2020-07 star:0.3k fork:0.1k Python machine learning package providing simple interoperability between ML.NET and scikit-learn components.
-- [microsoft/nl-2-postcond](https://github.com/microsoft/nl-2-postcond) topic: pushed_at:2024-07 star:0.0k fork:0.0k Artefacts of FSE'24 paper on creating formal declarative method postconditions from natural language informal intent.  https://www.microsoft.com/en-us/research/publication/formalizing-natural-language-intent-into-program-specifications-via-large-language-models/
+- [microsoft/nl-2-postcond](https://github.com/microsoft/nl-2-postcond) topic: pushed_at:2024-08 star:0.0k fork:0.0k Artefacts for evaluating user-intent-formalization (translating natural language intent to formal specifications)  in different languages
 - [microsoft/NLG_Instructions_MetaLearning](https://github.com/microsoft/NLG_Instructions_MetaLearning) topic: pushed_at:2022-12 star:0.0k fork:0.0k Boosting Natural Language Generation from Instructions with Meta-Learning
 - [microsoft/nlp-recipes](https://github.com/microsoft/nlp-recipes) topic:azure-ml,best-practices,deep-learning,machine-learning,mlflow,natural-language,natural-language-inference,natural-language-processing,natural-language-understanding,nli,nlp,nlu,pretrained-models,sota,text,text-classification,transfomer pushed_at:2022-08 star:6.4k fork:0.9k Natural Language Processing Best Practices & Examples
 - [microsoft/nn-Meter](https://github.com/microsoft/nn-Meter) topic:deep-learning,deep-neural-networks,edge-ai,edge-computing,efficient-model,inference,latency,machine-learning,neural-architecture-search,onnx-models,python,pytorch,tensorflow-models pushed_at:2024-07 star:0.3k fork:0.1k A DNN inference latency prediction toolkit for accurately modeling and predicting the latency on diverse edge devices. 
-- [microsoft/nni](https://github.com/microsoft/nni) topic:automated-machine-learning,automl,bayesian-optimization,data-science,deep-learning,deep-neural-network,distributed,feature-engineering,hyperparameter-optimization,hyperparameter-tuning,machine-learning,machine-learning-algorithms,mlops,model-compression,nas,neural-architecture-search,neural-network,python,pytorch,tensorflow pushed_at:2024-07 star:13.9k fork:1.8k An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
+- [microsoft/nni](https://github.com/microsoft/nni) topic:automated-machine-learning,automl,bayesian-optimization,data-science,deep-learning,deep-neural-network,distributed,feature-engineering,hyperparameter-optimization,hyperparameter-tuning,machine-learning,machine-learning-algorithms,mlops,model-compression,nas,neural-architecture-search,neural-network,python,pytorch,tensorflow pushed_at:2024-07 star:14.0k fork:1.8k An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.
 - [microsoft/nnitp](https://github.com/microsoft/nnitp) topic: pushed_at:2020-09 star:0.0k fork:0.0k Neural net interpretability with Bayesian interpolants
 - [microsoft/nodeengine](https://github.com/microsoft/nodeengine) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
 - [microsoft/NoFunEval](https://github.com/microsoft/NoFunEval) topic: pushed_at:2024-05 star:0.0k fork:0.0k Code and Data for the paper - "NoFunEval: Funny How Code LMs Falter on Requirements Beyond Functional Correctness"
@@ -5064,13 +5058,14 @@
 - [microsoft/nxs](https://github.com/microsoft/nxs) topic: pushed_at:2023-10 star:0.0k fork:0.0k Neural Network Execution Service
 - [microsoft/oac-explore](https://github.com/microsoft/oac-explore) topic: pushed_at:2023-08 star:0.1k fork:0.0k Code accompanying the paper "Better Exploration with Optimistic Actor Critic" (NeurIPS 2019)
 - [microsoft/ogc-api-fast-features](https://github.com/microsoft/ogc-api-fast-features) topic: pushed_at:2023-05 star:0.0k fork:0.0k Fast API server implementation of the OGC API: Features specification
-- [microsoft/Olive](https://github.com/microsoft/Olive) topic: pushed_at:2024-08 star:1.5k fork:0.2k Olive is an easy-to-use hardware-aware model optimization tool that composes industry-leading techniques across model compression, optimization, and compilation. 
+- [microsoft/Olive](https://github.com/microsoft/Olive) topic: pushed_at:2024-08 star:1.5k fork:0.2k Olive: Simplify ML Model Finetuning, Conversion, Quantization, and Optimization for CPUs, GPUs and NPUs.
 - [microsoft/omop-sars-cov2-pretest-probability](https://github.com/microsoft/omop-sars-cov2-pretest-probability) topic: pushed_at:2023-07 star:0.0k fork:0.0k Research code accompanying paper on predicting the probability of a positive SARS-CoV-2 test, using OMOP common data model.
 - [microsoft/OnDemandMLflowTrainAndServe](https://github.com/microsoft/OnDemandMLflowTrainAndServe) topic:azure,databricks,databricks-notebooks,mlflow,node,python pushed_at:2020-07 star:0.0k fork:0.0k A solution for on-demand training and serving of Machine Learning models, using Azure Databricks  and MLflow
 - [microsoft/onnxconverter-common](https://github.com/microsoft/onnxconverter-common) topic:machine-learning,onnx,python-library pushed_at:2024-06 star:0.2k fork:0.1k Common utilities for ONNX converters
 - [microsoft/onnxrt-backend-dev](https://github.com/microsoft/onnxrt-backend-dev) topic: pushed_at:2024-02 star:0.0k fork:0.0k Tools to help developping onnx functionalities in torch
 - [microsoft/onnxruntime-tvm](https://github.com/microsoft/onnxruntime-tvm) topic: pushed_at:2022-11 star:0.0k fork:0.0k Open deep learning compiler stack for cpu, gpu and specialized accelerators
 - [microsoft/onnxscript](https://github.com/microsoft/onnxscript) topic: pushed_at:2024-08 star:0.3k fork:0.0k ONNX Script enables developers to naturally author ONNX functions and models using a subset of Python.
+- [microsoft/OpenAIWorkshop](https://github.com/microsoft/OpenAIWorkshop) topic:azure,cognitive-services,machine-learning,openai pushed_at:2024-08 star:0.5k fork:0.3k workshop materials to build intelligent solutions on Open AI
 - [microsoft/openhack-for-lakehouse-japanese](https://github.com/microsoft/openhack-for-lakehouse-japanese) topic: pushed_at:2023-11 star:0.0k fork:0.0k A repository for OpenHack for Lakehouse. The contents are written in Japanese.
 - [microsoft/OpenKP](https://github.com/microsoft/OpenKP) topic: pushed_at:2023-06 star:0.2k fork:0.0k Automatically extracting keyphrases that are salient to the document meanings is an essential step to semantic document understanding. An effective keyphrase extraction (KPE) system can benefit a wide range of natural language processing and information retrieval tasks. Recent neural methods formulate the task as a document-to-keyphrase sequence-to-sequence task. These seq2seq learning models have shown promising results compared to previous KPE systems The recent progress in neural KPE is mostly observed in documents originating from the scientific domain. In real-world scenarios, most potential applications of KPE deal with diverse documents originating from sparse sources. These documents are unlikely to include the structure, prose and be as well written as scientific papers. They often include a much diverse document structure and reside in various domains whose contents target much wider audiences than scientists. To encourage the research community to develop a powerful neural model with key phrase extraction on open domains we have created OpenKP: a dataset of over 150,000 documents with the most relevant keyphrases generated by expert annotation.
 - [microsoft/OpenMSFTL](https://github.com/microsoft/OpenMSFTL) topic: pushed_at:2020-11 star:0.0k fork:0.0k Research simulation toolkit for federated learning
@@ -5078,11 +5073,12 @@
 - [microsoft/opentelemetry-azure-monitor-python](https://github.com/microsoft/opentelemetry-azure-monitor-python) topic: pushed_at:2021-03 star:0.0k fork:0.0k This repository is the home to Azure Monitor SDKs and exporters utilizing the OpenTelemetry Python Client https://github.com/open-telemetry/opentelemetry-python to send telemetry data to Azure Monitor written in Python.
 - [microsoft/OPPerTune](https://github.com/microsoft/OPPerTune) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
 - [microsoft/Optimal-Freshness-Crawl-Scheduling](https://github.com/microsoft/Optimal-Freshness-Crawl-Scheduling) topic: pushed_at:2023-06 star:0.0k fork:0.0k Dataset and code for three Web crawling-related papers from SIGIR-2019, NeurIPS-2019. and ICML-2020.
-- [microsoft/optimizn](https://github.com/microsoft/optimizn) topic: pushed_at:2024-06 star:0.0k fork:0.0k A Python library for developing customized optimization algorithms under generalizable paradigms.
+- [microsoft/optimizn](https://github.com/microsoft/optimizn) topic: pushed_at:2024-08 star:0.0k fork:0.0k A Python library for developing customized optimization algorithms under generalizable paradigms.
 - [microsoft/ORBIT-Dataset](https://github.com/microsoft/ORBIT-Dataset) topic:benchmark,classification,computer-vision,dataset,few-shot-learning,machine-learning,meta-learning,microsoft,object-recognition,video pushed_at:2024-08 star:0.1k fork:0.0k The ORBIT dataset is a collection of videos of objects in clean and cluttered scenes recorded by people who are blind/low-vision on a mobile phone. The dataset is presented with a teachable object recognition benchmark task which aims to drive few-shot learning on challenging real-world data.
 - [microsoft/orchestrated-value-mapping](https://github.com/microsoft/orchestrated-value-mapping) topic:algorithm,algorithms,dqn,log-lin,log-rl,loglin,loglinear,logrl,mapping,q-decomporition,reinforcement-learning,reward-decomposition,rl,value,value-mapping pushed_at:2022-08 star:0.0k fork:0.0k Orchestrated Value Mapping
-- [microsoft/Oscar](https://github.com/microsoft/Oscar) topic:image-captioning,image-text-search,oscar,pre-training,vinvl,vision-and-language,vqa pushed_at:2023-08 star:1.0k fork:0.2k Oscar and VinVL
-- [microsoft/otdd](https://github.com/microsoft/otdd) topic: pushed_at:2022-05 star:0.1k fork:0.0k Optimal Transport Dataset Distance
+- [microsoft/Oscar](https://github.com/microsoft/Oscar) topic:image-captioning,image-text-search,oscar,pre-training,vinvl,vision-and-language,vqa pushed_at:2023-08 star:1.0k fork:0.3k Oscar and VinVL
+- [microsoft/otdd](https://github.com/microsoft/otdd) topic: pushed_at:2022-05 star:0.2k fork:0.0k Optimal Transport Dataset Distance
+- [microsoft/otoscope-img.data-bias-eval-and-active-labeling](https://github.com/microsoft/otoscope-img.data-bias-eval-and-active-labeling) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/PACT](https://github.com/microsoft/PACT) topic: pushed_at:2022-10 star:0.1k fork:0.0k Perception-Action Causal Transformer
 - [microsoft/ParrotServe](https://github.com/microsoft/ParrotServe) topic: pushed_at:2024-07 star:0.1k fork:0.0k [OSDI'24] Serving LLM-based Applications Efficiently with Semantic Variable
 - [microsoft/PartiallyShuffleDistributedSampler](https://github.com/microsoft/PartiallyShuffleDistributedSampler) topic: pushed_at:2021-03 star:0.0k fork:0.0k 
@@ -5099,7 +5095,7 @@
 - [microsoft/PhysioPro](https://github.com/microsoft/PhysioPro) topic: pushed_at:2024-07 star:0.1k fork:0.0k A deep learning framework for physiological data processing and understanding.
 - [microsoft/pi-azure-recipes](https://github.com/microsoft/pi-azure-recipes) topic:azure,raspberry-pi pushed_at:2024-06 star:0.0k fork:0.0k Collection of quickstart guides using a Raspberry Pi and Azure services
 - [microsoft/PICa](https://github.com/microsoft/PICa) topic: pushed_at:2022-04 star:0.1k fork:0.0k An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA, AAAI 2022 (Oral)
-- [microsoft/picologging](https://github.com/microsoft/picologging) topic:hacktoberfest,logging,python pushed_at:2024-08 star:0.6k fork:0.0k An optimized logging library for Python
+- [microsoft/picologging](https://github.com/microsoft/picologging) topic:hacktoberfest,logging,python pushed_at:2024-08 star:0.7k fork:0.0k An optimized logging library for Python
 - [microsoft/PixelDefend](https://github.com/microsoft/PixelDefend) topic: pushed_at:2020-02 star:0.0k fork:0.0k Source Code for ICRL 2018 Paper:  PixelDefend: Leveraging Generative Models to Understand and Defend against Adversarial Examples
 - [microsoft/planetary-computer-apis](https://github.com/microsoft/planetary-computer-apis) topic: pushed_at:2024-08 star:0.1k fork:0.0k Planetary Computer APIs
 - [microsoft/planetary-computer-sdk-for-python](https://github.com/microsoft/planetary-computer-sdk-for-python) topic:aiforearth pushed_at:2024-07 star:0.1k fork:0.0k Planetary Computer SDK for Python
@@ -5108,7 +5104,7 @@
 - [microsoft/planting-and-mitigating-memorization](https://github.com/microsoft/planting-and-mitigating-memorization) topic: pushed_at:2023-03 star:0.0k fork:0.0k This repository contains the software used to run the experiments in the paper "Planting and Mitigating Memorized Content in Predictive-Text Language Models."
 - [microsoft/platformer-ml-game](https://github.com/microsoft/platformer-ml-game) topic: pushed_at:2020-02 star:0.0k fork:0.0k Edutainment game teaching players concepts around machine learning
 - [microsoft/Playvirtual](https://github.com/microsoft/Playvirtual) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
-- [microsoft/playwright-pytest](https://github.com/microsoft/playwright-pytest) topic:playwright,pytest-plugin,testing-tools pushed_at:2024-07 star:0.4k fork:0.1k Pytest plugin to write end-to-end browser tests with Playwright.
+- [microsoft/playwright-pytest](https://github.com/microsoft/playwright-pytest) topic:playwright,pytest-plugin,testing-tools pushed_at:2024-08 star:0.4k fork:0.1k Pytest plugin to write end-to-end browser tests with Playwright.
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) topic:chromium,firefox,playwright,webkit pushed_at:2024-08 star:11.4k fork:0.9k Python version of the Playwright testing and automation library.
 - [microsoft/PLC-Challenge](https://github.com/microsoft/PLC-Challenge) topic: pushed_at:2024-06 star:0.1k fork:0.0k This repo contains required files for the INTERSPEECH 2022 Audio Deep Packet Loss Concealment (PLC) Challenge.
 - [microsoft/pldm-fw-pkgr](https://github.com/microsoft/pldm-fw-pkgr) topic: pushed_at:2024-02 star:0.0k fork:0.0k This tool provides means to unpack a PLDM bundle image into the respective component image (bin) files and the PLDM header file and pack the same back, optionally with errors injected. 
@@ -5121,7 +5117,7 @@
 - [microsoft/powerbi-jupyter](https://github.com/microsoft/powerbi-jupyter) topic: pushed_at:2023-09 star:0.5k fork:0.1k A Custom Jupyter Widget Library for Power BI
 - [microsoft/ppgnn](https://github.com/microsoft/ppgnn) topic:ecmlpkdd,graph-neural-networks,iclr2022,representation-learning pushed_at:2024-07 star:0.0k fork:0.0k [ICLR GTRL Spotlight 2022, ECML PKDD 2022] Contains code for the paper titled 'PPGNN: A Piece-Wise Polynomial Filtering Approach for Graph Neural Networks'
 - [microsoft/praxxis](https://github.com/microsoft/praxxis) topic:commandline,jupyter-notebook,machinelearning-python,python pushed_at:2020-04 star:0.0k fork:0.0k A task interface for Jupyter notebooks built on machine learning and big data 
-- [microsoft/presidio](https://github.com/microsoft/presidio) topic:anonymization,anonymization-service,data-anonymization,data-loss-prevention,data-masking,data-protection,data-scrubbing,de-identification,dlp,microsoft,pii,pii-anonymization,pii-anonymization-service,pii-detection,presidio,privacy,privacy-protection,python,text-anonymization,transformers pushed_at:2024-08 star:3.5k fork:0.5k Context aware, pluggable and customizable data protection and de-identification SDK for text and images
+- [microsoft/presidio](https://github.com/microsoft/presidio) topic:anonymization,anonymization-service,data-anonymization,data-loss-prevention,data-masking,data-protection,data-scrubbing,de-identification,dlp,microsoft,pii,pii-anonymization,pii-anonymization-service,pii-detection,presidio,privacy,privacy-protection,python,text-anonymization,transformers pushed_at:2024-08 star:3.6k fork:0.5k Context aware, pluggable and customizable data protection and de-identification SDK for text and images
 - [microsoft/presidio-genproto](https://github.com/microsoft/presidio-genproto) topic: pushed_at:2021-03 star:0.0k fork:0.0k Proto files for the presidio project
 - [microsoft/presidio-research](https://github.com/microsoft/presidio-research) topic:deep-learning,flair,machine-learning,named-entity-recognition,natural-language-processing,ner,nlp,pii,privacy,spacy,transformers pushed_at:2024-08 star:0.2k fork:0.1k This package features data-science related tasks for developing new recognizers for Presidio. It is used for the evaluation of the entire system, as well as for evaluating specific PII recognizers or PII detection models.
 - [microsoft/private-benchmarking](https://github.com/microsoft/private-benchmarking) topic:benchmarking,confidential-computing,contamination,ezpc,inference,large-language-models,llms-benchmarking,mpc,platform,private,private-benchmarking,secure,trusted-execution-environment pushed_at:2024-07 star:0.0k fork:0.0k A platform that enables users to perform private benchmarking of machine learning models. The platform facilitates the evaluation of models based on different trust levels between the model owners and the dataset owners.
@@ -5135,7 +5131,7 @@
 - [microsoft/promptbase](https://github.com/microsoft/promptbase) topic: pushed_at:2024-06 star:5.3k fork:0.3k All things prompt engineering
 - [microsoft/promptbench](https://github.com/microsoft/promptbench) topic:adversarial-attacks,benchmark,chatgpt,evaluation,large-language-models,prompt,prompt-engineering,robustness pushed_at:2024-08 star:2.3k fork:0.2k A unified evaluation framework for large language models
 - [microsoft/PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics) topic:airsim,chatgpt,llm,prompt-engineering,robotics,simulation pushed_at:2024-01 star:1.8k fork:0.2k Community for applying LLMs to robotics and a robot simulator with ChatGPT integration
-- [microsoft/promptflow](https://github.com/microsoft/promptflow) topic:ai,ai-application-development,ai-applications,chatgpt,gpt,llm,prompt,prompt-engineering pushed_at:2024-08 star:9.0k fork:0.8k Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+- [microsoft/promptflow](https://github.com/microsoft/promptflow) topic:ai,ai-application-development,ai-applications,chatgpt,gpt,llm,prompt,prompt-engineering pushed_at:2024-08 star:9.1k fork:0.8k Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
 - [microsoft/promptflow-local-cicd-sample](https://github.com/microsoft/promptflow-local-cicd-sample) topic: pushed_at:2024-01 star:0.0k fork:0.0k Integrate PromptFlow into CI/CD pipelines, executing locally on agents.
 - [microsoft/promptflow-resource-hub](https://github.com/microsoft/promptflow-resource-hub) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [microsoft/prompty](https://github.com/microsoft/prompty) topic:generative-ai,llm-evaluation,llms,promptengineering pushed_at:2024-08 star:0.3k fork:0.0k Prompty makes it easy to create, manage, debug, and evaluate LLM prompts for your AI applications.  Prompty is an asset class and format for LLM prompts designed to enhance observability, understandability, and portability for developers. 
@@ -5159,13 +5155,13 @@
 - [microsoft/pylance-release](https://github.com/microsoft/pylance-release) topic:code-analysis,language-server,language-server-protocol,python pushed_at:2024-08 star:1.7k fork:0.8k Documentation and issues for Pylance
 - [microsoft/PyMarlin](https://github.com/microsoft/PyMarlin) topic: pushed_at:2022-06 star:0.0k fork:0.0k Lightweight Deep Learning Model Training library based on PyTorch
 - [microsoft/pypi-ado-release](https://github.com/microsoft/pypi-ado-release) topic: pushed_at:2020-06 star:0.0k fork:0.0k Simple repository with ADO pipeline for PyPI Releases
-- [microsoft/pyright](https://github.com/microsoft/pyright) topic: pushed_at:2024-08 star:12.9k fork:1.4k Static Type Checker for Python
+- [microsoft/pyright](https://github.com/microsoft/pyright) topic: pushed_at:2024-08 star:13.1k fork:1.4k Static Type Checker for Python
 - [microsoft/PySiamTracking](https://github.com/microsoft/PySiamTracking) topic: pushed_at:2020-04 star:0.0k fork:0.0k PySiamTracking project provides a flexible and effective framework that supports mainstream siamese-network-based trackers.
 - [microsoft/pyspark_propensity_matching](https://github.com/microsoft/pyspark_propensity_matching) topic: pushed_at:2023-06 star:0.0k fork:0.0k library for conducting propensity matching on spark scale
 - [microsoft/pytest-azure](https://github.com/microsoft/pytest-azure) topic: pushed_at:2023-09 star:0.0k fork:0.0k pytest Utilities and Mocks for Azure 
 - [microsoft/python-for-security](https://github.com/microsoft/python-for-security) topic:defender-for-endpoint,mde,python,security pushed_at:2022-01 star:0.0k fork:0.0k Python for Security is the home of all open source Python projects that can integrate with Microsoft Technologies.
 - [microsoft/python-import-mocker](https://github.com/microsoft/python-import-mocker) topic: pushed_at:2022-05 star:0.0k fork:0.0k Easily import a module and mock its dependencies in an isolated way.
-- [microsoft/python-package-template](https://github.com/microsoft/python-package-template) topic: pushed_at:2024-07 star:0.4k fork:0.1k Template for Python Projects
+- [microsoft/python-package-template](https://github.com/microsoft/python-package-template) topic: pushed_at:2024-08 star:0.4k fork:0.1k Template for Python Projects
 - [microsoft/python-pykinect-pygame-cookiecutter](https://github.com/microsoft/python-pykinect-pygame-cookiecutter) topic:cookiecutter,kinect,pygame,python,template pushed_at:2017-08 star:0.0k fork:0.0k Cookiecutter template for a Python Kinect game using PyGame.
 - [microsoft/python-pyvot-cookiecutter](https://github.com/microsoft/python-pyvot-cookiecutter) topic:cookiecutter,excel,python,template pushed_at:2023-06 star:0.0k fork:0.0k Cookiecutter template for working with the Python Pyvot library for Excel.
 - [microsoft/python-sample-tweeterapp](https://github.com/microsoft/python-sample-tweeterapp) topic: pushed_at:2023-10 star:0.1k fork:0.1k Sample Django+React+Postgres application for use in Visual Studio Code and Azure
@@ -5184,22 +5180,24 @@
 - [microsoft/Qcodes](https://github.com/microsoft/Qcodes) topic:data-aquisition,experiments,physics pushed_at:2024-08 star:0.3k fork:0.3k Modular data acquisition framework
 - [microsoft/qio-samples](https://github.com/microsoft/qio-samples) topic: pushed_at:2024-01 star:0.0k fork:0.0k Samples for using optimization solvers through Azure Quantum.
 - [microsoft/qiskit-qir](https://github.com/microsoft/qiskit-qir) topic: pushed_at:2024-06 star:0.0k fork:0.0k Qiskit to QIR translator
-- [microsoft/qlib](https://github.com/microsoft/qlib) topic:algorithmic-trading,auto-quant,deep-learning,finance,fintech,investment,machine-learning,paper,platform,python,quant,quant-dataset,quant-models,quantitative-finance,quantitative-trading,research,research-paper,stock-data pushed_at:2024-08 star:15.0k fork:2.6k Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
+- [microsoft/qlib](https://github.com/microsoft/qlib) topic:algorithmic-trading,auto-quant,deep-learning,finance,fintech,investment,machine-learning,paper,platform,python,quant,quant-dataset,quant-models,quantitative-finance,quantitative-trading,research,research-paper,stock-data pushed_at:2024-08 star:15.1k fork:2.6k Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.
 - [microsoft/qlib-server](https://github.com/microsoft/qlib-server) topic:data,finance,investment,platform,python,qlib,quant,server,stock pushed_at:2022-07 star:0.2k fork:0.1k Qlib-Server is the data server system for Qlib. It enable Qlib to run in online mode. Under online mode, the data will be deployed as a shared data service. The data and their cache will be shared by all the clients. The data retrieval performance is expected to be improved due to a higher rate of cache hits. It will consume less disk space, too.
 - [microsoft/qmt](https://github.com/microsoft/qmt) topic: pushed_at:2019-06 star:0.0k fork:0.0k Qubit Modeling Tools (QMT) for computational modeling of quantum devices
 - [microsoft/quilla](https://github.com/microsoft/quilla) topic:frontent,selenium,selenium-python,test,ui pushed_at:2024-01 star:0.1k fork:0.0k Declarative UI Testing with JSON
-- [microsoft/rag-experiment-accelerator](https://github.com/microsoft/rag-experiment-accelerator) topic:acs,azure,chunking,dense,embedding,evaluation,experiment,genai,indexing,information-retrieval,llm,openai,rag,sparse,vectors pushed_at:2024-08 star:0.1k fork:0.0k The RAG Experiment Accelerator is a versatile tool designed to expedite and facilitate the process of conducting experiments and evaluations using Azure Cognitive Search and RAG pattern. 
+- [microsoft/RadFact](https://github.com/microsoft/RadFact) topic: pushed_at:2024-08 star:0.0k fork:0.0k A metric suite leveraging the logical inference capabilities of LLMs, for radiology report generation both with and without grounding
+- [microsoft/rag-experiment-accelerator](https://github.com/microsoft/rag-experiment-accelerator) topic:acs,azure,chunking,dense,embedding,evaluation,experiment,genai,indexing,information-retrieval,llm,openai,rag,sparse,vectors pushed_at:2024-08 star:0.2k fork:0.1k The RAG Experiment Accelerator is a versatile tool designed to expedite and facilitate the process of conducting experiments and evaluations using Azure Cognitive Search and RAG pattern. 
 - [microsoft/random_quantize](https://github.com/microsoft/random_quantize) topic: pushed_at:2023-10 star:0.1k fork:0.0k a novel data augmentation method across data modalities
 - [microsoft/rankerEval](https://github.com/microsoft/rankerEval) topic: pushed_at:2022-08 star:0.0k fork:0.0k A fast numpy-based implementation of ranking metrics for information retrieval and recommendation.
 - [microsoft/rat-sql](https://github.com/microsoft/rat-sql) topic:dbqa,nl2sql,nlp,program-synthesis,question-answering,semantic-parsing,transformers pushed_at:2023-08 star:0.4k fork:0.1k A relation-aware semantic parsing model from English to SQL
 - [microsoft/RationaleST](https://github.com/microsoft/RationaleST) topic: pushed_at:2021-11 star:0.0k fork:0.0k 
 - [microsoft/rats](https://github.com/microsoft/rats) topic: pushed_at:2024-08 star:0.0k fork:0.0k Rats is a collection of tools to help researchers define and run experiments. It is designed to be a modular and extensible framework currently supporting building and running pipelines, integrating configs and services.
-- [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) topic:agent,ai,automation,data-mining,data-science,development,llm,research pushed_at:2024-08 star:0.0k fork:0.0k Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automate these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which let AI drive data-driven AI.
+- [microsoft/RD-Agent](https://github.com/microsoft/RD-Agent) topic:agent,ai,automation,data-mining,data-science,development,llm,research pushed_at:2024-08 star:0.1k fork:0.0k Research and development (R&D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&D are mainly focused on data and models. We are committed to automate these high-value generic R&D processes through our open source R&D automation tool RD-Agent, which let AI drive data-driven AI.
 - [microsoft/ReACC](https://github.com/microsoft/ReACC) topic: pushed_at:2022-04 star:0.1k fork:0.0k Source codes for paper ”ReACC: A Retrieval-Augmented Code Completion Framework“
 - [microsoft/react](https://github.com/microsoft/react) topic: pushed_at:2023-04 star:0.1k fork:0.0k REACT (CVPR 2023, Highlight 2.5%)
 - [microsoft/Readi](https://github.com/microsoft/Readi) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [microsoft/reconner](https://github.com/microsoft/reconner) topic:ai,data,ner-data,nlp pushed_at:2020-07 star:0.0k fork:0.0k ReconNER, Debug annotated Named Entity Recognition (NER) data for inconsistencies and get insights on improving the quality of your data.
 - [microsoft/Recursive-Cascaded-Networks](https://github.com/microsoft/Recursive-Cascaded-Networks) topic:iccv2019,medical-image-registration,unsupervised-learning pushed_at:2021-12 star:0.4k fork:0.1k [ICCV 2019] Recursive Cascaded Networks for Unsupervised Medical Image Registration
+- [microsoft/Redfish-Interop-Validator](https://github.com/microsoft/Redfish-Interop-Validator) topic: pushed_at:2024-08 star:0.0k fork:0.0k The Redfish Interop Validator is a python3 tool that will validate a service based on a profile given to the tool.
 - [microsoft/RegionCLIP](https://github.com/microsoft/RegionCLIP) topic: pushed_at:2024-03 star:0.7k fork:0.1k [CVPR 2022] Official code for "RegionCLIP: Region-based Language-Image Pretraining"
 - [microsoft/REINA](https://github.com/microsoft/REINA) topic: pushed_at:2022-05 star:0.1k fork:0.0k 
 - [microsoft/ReinMax](https://github.com/microsoft/ReinMax) topic: pushed_at:2023-04 star:0.1k fork:0.0k Beyond Straight-Through
@@ -5211,9 +5209,10 @@
 - [microsoft/RepPoints](https://github.com/microsoft/RepPoints) topic: pushed_at:2023-06 star:0.6k fork:0.1k Represent Visual Objects by Point Sets
 - [microsoft/ResiDual](https://github.com/microsoft/ResiDual) topic: pushed_at:2023-08 star:0.1k fork:0.0k ResiDual: Transformer with Dual Residual Connections, https://arxiv.org/abs/2304.14802
 - [microsoft/RespireNet](https://github.com/microsoft/RespireNet) topic: pushed_at:2020-12 star:0.0k fork:0.0k This is the official implementation of the work RespireNet.
-- [microsoft/responsible-ai-toolbox-genbit](https://github.com/microsoft/responsible-ai-toolbox-genbit) topic:data-science,fairness-ai,fairness-ml,fairnness,gender,gender-bias,jupyter,machine-learning,natural-language,natural-language-processing pushed_at:2022-12 star:0.0k fork:0.0k A tool for gender bias identification in text. Part of Microsoft's Responsible AI toolbox. 
+- [microsoft/responsible-ai-toolbox-genbit](https://github.com/microsoft/responsible-ai-toolbox-genbit) topic:data-science,fairness-ai,fairness-ml,fairnness,gender,gender-bias,jupyter,machine-learning,natural-language,natural-language-processing pushed_at:2024-08 star:0.0k fork:0.0k A tool for gender bias identification in text. Part of Microsoft's Responsible AI toolbox. 
 - [microsoft/responsible-ai-toolbox-privacy](https://github.com/microsoft/responsible-ai-toolbox-privacy) topic:machine-learning,privacy-preserving-machine-learning pushed_at:2024-08 star:0.0k fork:0.0k A library for statistically estimating the privacy of ML pipelines from membership inference attacks 
-- [microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer) topic: pushed_at:2024-06 star:2.5k fork:0.3k RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
+- [microsoft/restler-fuzzer](https://github.com/microsoft/restler-fuzzer) topic: pushed_at:2024-06 star:2.6k fork:0.3k RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.
+- [microsoft/rfp-resume-builder](https://github.com/microsoft/rfp-resume-builder) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/RHSampling](https://github.com/microsoft/RHSampling) topic: pushed_at:2024-05 star:0.0k fork:0.0k Code for computing failure rates of a Row-Sampling Rowhammer defense
 - [microsoft/rl-offline-simulation](https://github.com/microsoft/rl-offline-simulation) topic: pushed_at:2024-07 star:0.0k fork:0.0k Data-driven offline simulation for online reinforcement learning: benchmark and baselines
 - [microsoft/RL4BandwidthEstimationChallenge](https://github.com/microsoft/RL4BandwidthEstimationChallenge) topic: pushed_at:2024-03 star:0.0k fork:0.0k Repository for Reinforcement learning based bandwidth estimation challenge
@@ -5227,11 +5226,11 @@
 - [microsoft/S2R-DepthNet](https://github.com/microsoft/S2R-DepthNet) topic: pushed_at:2021-06 star:0.2k fork:0.0k 
 - [microsoft/SA-Siam](https://github.com/microsoft/SA-Siam) topic: pushed_at:2022-11 star:0.0k fork:0.0k Deep Learning Based Real-Time Tracking
 - [microsoft/SafeNLP](https://github.com/microsoft/SafeNLP) topic:ai-safety,fairness-ai,nlp pushed_at:2023-10 star:0.1k fork:0.0k Safety Score for Pre-Trained Language Models
-- [microsoft/Samba](https://github.com/microsoft/Samba) topic: pushed_at:2024-07 star:0.7k fork:0.0k Official implementation of "Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling"
+- [microsoft/Samba](https://github.com/microsoft/Samba) topic: pushed_at:2024-08 star:0.8k fork:0.0k Official implementation of "Samba: Simple Hybrid State Space Models for Efficient Unlimited Context Language Modeling"
 - [microsoft/sammo](https://github.com/microsoft/sammo) topic:llms,prompt-engineering,prompt-tuning pushed_at:2024-08 star:0.3k fork:0.0k A library for prompt engineering and optimization (SAMMO = Structure-aware Multi-Objective Metaprompt Optimization)
-- [microsoft/sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) topic: pushed_at:2024-08 star:1.5k fork:2.3k Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.
+- [microsoft/sample-app-aoai-chatGPT](https://github.com/microsoft/sample-app-aoai-chatGPT) topic: pushed_at:2024-08 star:1.5k fork:2.4k Sample code for a simple web chat experience through Azure OpenAI, including Azure OpenAI On Your Data.
 - [microsoft/SARA](https://github.com/microsoft/SARA) topic: pushed_at:2023-06 star:0.1k fork:0.0k Record-and-replay tools are indispensable for quality assurance of mobile applications. However, by conducting an empirical study of various existing tools in industrial settings, researchers have concluded that no existing tools under evaluation are sufficient for industrial applications. In this project, we present a record-and-replay tool called SARA towards bridging the gap and targeting a wide adoption.
-- [microsoft/sarathi-serve](https://github.com/microsoft/sarathi-serve) topic:llama,llm-inference,pytorch,transformer pushed_at:2024-08 star:0.1k fork:0.0k A low-latency & high-throughput serving engine for LLMs
+- [microsoft/sarathi-serve](https://github.com/microsoft/sarathi-serve) topic:llama,llm-inference,pytorch,transformer pushed_at:2024-08 star:0.2k fork:0.0k A low-latency & high-throughput serving engine for LLMs
 - [microsoft/sarif-python-om](https://github.com/microsoft/sarif-python-om) topic: pushed_at:2024-04 star:0.0k fork:0.0k Python classes for the SARIF object model
 - [microsoft/sarif-tools](https://github.com/microsoft/sarif-tools) topic: pushed_at:2024-07 star:0.1k fork:0.0k A set of Python command line tools for working with SARIF files produced by code analysis tools
 - [microsoft/sarplus](https://github.com/microsoft/sarplus) topic: pushed_at:2023-06 star:0.0k fork:0.0k pronounced sUrplus as it's simply better if not best!
@@ -5253,7 +5252,7 @@
 - [microsoft/semantic-link-labs](https://github.com/microsoft/semantic-link-labs) topic:analysis-services,analysis-services-tabular,jupyter-notebook,microsoftfabric,powerbi,python pushed_at:2024-08 star:0.1k fork:0.0k Early access to new features for Microsoft Fabric's Semantic Link.
 - [microsoft/semantic_parsing_with_constrained_lm](https://github.com/microsoft/semantic_parsing_with_constrained_lm) topic: pushed_at:2024-05 star:0.1k fork:0.0k Code to reproduce experiments in the paper "Constrained Language Models Yield Few-Shot Semantic Parsers" (EMNLP 2021).
 - [microsoft/Semantics-Aligned-Representation-Learning-for-Person-Re-identification](https://github.com/microsoft/Semantics-Aligned-Representation-Learning-for-Person-Re-identification) topic: pushed_at:2023-06 star:0.0k fork:0.0k This is an implementation of AAAI'20 paper "Semantics-Aligned Representation Learning for Person Re-identification".  We leverages dense semantics to address both the spatial misalignment and semantics misalignment challenges in person re-identification.
-- [microsoft/Semi-supervised-learning](https://github.com/microsoft/Semi-supervised-learning) topic:audio-classification,classification,computer-vision,deep-learning,low-resource,machine-learning,natural-language-processing,pytorch,semi-supervised-learning,semisupervised-learning,transformer pushed_at:2024-07 star:1.3k fork:0.2k A Unified Semi-Supervised Learning Codebase (NeurIPS'22)
+- [microsoft/Semi-supervised-learning](https://github.com/microsoft/Semi-supervised-learning) topic:audio-classification,classification,computer-vision,deep-learning,low-resource,machine-learning,natural-language-processing,pytorch,semi-supervised-learning,semisupervised-learning,transformer pushed_at:2024-08 star:1.3k fork:0.2k A Unified Semi-Supervised Learning Codebase (NeurIPS'22)
 - [microsoft/semiparametric-distillation](https://github.com/microsoft/semiparametric-distillation) topic: pushed_at:2021-05 star:0.0k fork:0.0k Knowledge Distillation as Semiparametric Inference
 - [microsoft/seq2symm](https://github.com/microsoft/seq2symm) topic: pushed_at:2024-06 star:0.0k fork:0.0k Homomer symmetry prediction from protein sequence
 - [microsoft/SeqML](https://github.com/microsoft/SeqML) topic: pushed_at:2024-01 star:0.1k fork:0.0k A repository containing the implementations about our machine learning researches on sequence data and sequential decision making.
@@ -5267,7 +5266,7 @@
 - [microsoft/sim-packaging](https://github.com/microsoft/sim-packaging) topic: pushed_at:2020-09 star:0.0k fork:0.0k Tooling to abstract away docker building of simulators using az acr
 - [microsoft/SimMIM](https://github.com/microsoft/SimMIM) topic:image-classification,masked-image-modeling,self-supervised-learning,swin-transformer pushed_at:2022-09 star:0.9k fork:0.1k This is an official implementation for "SimMIM: A Simple Framework for Masked Image Modeling".
 - [microsoft/simple_ado](https://github.com/microsoft/simple_ado) topic:ado,azure-devops,python,rest pushed_at:2024-07 star:0.0k fork:0.0k An easy to use wrapper around the Azure DevOps REST API
-- [microsoft/SimpleEgo](https://github.com/microsoft/SimpleEgo) topic: pushed_at:2024-02 star:0.0k fork:0.0k 
+- [microsoft/SimpleEgo](https://github.com/microsoft/SimpleEgo) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/Simplify-Docx](https://github.com/microsoft/Simplify-Docx) topic: pushed_at:2024-01 star:0.2k fork:0.0k Simplify DOCX files to JSON
 - [microsoft/simulated-trial-and-error](https://github.com/microsoft/simulated-trial-and-error) topic: pushed_at:2024-06 star:0.1k fork:0.0k 
 - [microsoft/SimXNS](https://github.com/microsoft/SimXNS) topic:decision-time-planning,dense-retrieval,information-retrieval,knowledge-distillation,natural-language-processing,negative-sampling,pretraining-for-ir pushed_at:2024-01 star:0.1k fork:0.0k SimXNS is a research project for information retrieval. This repo contains official implementations by MSRA NLC team.
@@ -5278,7 +5277,7 @@
 - [microsoft/SmartWordSuggestions](https://github.com/microsoft/SmartWordSuggestions) topic: pushed_at:2023-12 star:0.0k fork:0.0k Repo for "Smart Word Suggestions" (SWS) task and benchmark 
 - [microsoft/snca.pytorch](https://github.com/microsoft/snca.pytorch) topic:computer-vision,deep-learning,eccv-2018,few-shot-learning,nearest-neighbors,transfer-learning,visual-recognition pushed_at:2023-06 star:0.1k fork:0.0k Improving Generalization via Scalable Neighborhood Component Analysis
 - [microsoft/SoftTeacher](https://github.com/microsoft/SoftTeacher) topic:iccv2021,object-detection,semi-supervised-learning pushed_at:2024-06 star:0.9k fork:0.1k Semi-Supervised Learning, Object Detection, ICCV2021
-- [microsoft/SoM](https://github.com/microsoft/SoM) topic: pushed_at:2024-06 star:1.1k fork:0.1k Set-of-Mark Prompting for LMMs
+- [microsoft/SoM](https://github.com/microsoft/SoM) topic: pushed_at:2024-08 star:1.1k fork:0.1k Set-of-Mark Prompting for LMMs
 - [microsoft/Soroush](https://github.com/microsoft/Soroush) topic:cluster-scheduler,efficiency,fairness,max-min,resource-allocation,scale,speed,traffic-engineering pushed_at:2024-06 star:0.0k fork:0.0k Microsoft's open source max-min fair solver for cluster scheduling and traffic engineering
 - [microsoft/source_parser](https://github.com/microsoft/source_parser) topic: pushed_at:2024-05 star:0.0k fork:0.0k This repo contains tools for parsing source code into structured json to be used in model training and evaluation for software engineering tasks.
 - [microsoft/SPACH](https://github.com/microsoft/SPACH) topic: pushed_at:2024-07 star:0.2k fork:0.0k 
@@ -5297,7 +5296,7 @@
 - [microsoft/Stable-Diffusion-WebUI-DirectML](https://github.com/microsoft/Stable-Diffusion-WebUI-DirectML) topic: pushed_at:2024-06 star:0.0k fork:0.0k Extension for Automatic1111's Stable Diffusion WebUI, using Microsoft DirectML to deliver high performance result on any Windows GPU.
 - [microsoft/StateDecoding](https://github.com/microsoft/StateDecoding) topic: pushed_at:2023-06 star:0.0k fork:0.0k Reinforcement Learning via Latent State Decoding
 - [microsoft/station-b-libraries](https://github.com/microsoft/station-b-libraries) topic: pushed_at:2023-07 star:0.0k fork:0.0k Python and F# libraries developed for biological computation as part of the Station-B project.
-- [microsoft/StatisticsTool](https://github.com/microsoft/StatisticsTool) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
+- [microsoft/StatisticsTool](https://github.com/microsoft/StatisticsTool) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/statopt](https://github.com/microsoft/statopt) topic: pushed_at:2020-03 star:0.0k fork:0.0k Statistical adaptive stochastic optimization methods
 - [microsoft/StemGNN](https://github.com/microsoft/StemGNN) topic: pushed_at:2024-05 star:0.5k fork:0.1k Spectral Temporal Graph Neural Network (StemGNN in short) for Multivariate Time-series Forecasting
 - [microsoft/Stochastic-Mixture-of-Experts](https://github.com/microsoft/Stochastic-Mixture-of-Experts) topic: pushed_at:2021-10 star:0.1k fork:0.0k This package implements THOR: Transformer with Stochastic Experts.
@@ -5318,15 +5317,15 @@
 - [microsoft/synthetic-rag-index](https://github.com/microsoft/synthetic-rag-index) topic:azure,document-analysis,few-shot-learning,large-language-model,llm,rag,retrieval-augmented-generation,serverless pushed_at:2024-08 star:0.0k fork:0.0k Service to import data from various sources and index it in AI Search. Increases data relevance and reduces final size by 90%+. Useful for RAG scenarios with LLM. Hosted in Azure with serverless architecture.
 - [microsoft/Table-GPT](https://github.com/microsoft/Table-GPT) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
 - [microsoft/Table-Pretraining](https://github.com/microsoft/Table-Pretraining) topic:fact-verification,semantic-parsing,table-pretraining,table-qa pushed_at:2023-02 star:0.3k fork:0.0k ICLR 2022 Paper, SOTA Table Pre-training Model, TAPEX: Table Pre-training via Learning a Neural SQL Executor
-- [microsoft/table-transformer](https://github.com/microsoft/table-transformer) topic:table-detection,table-extraction,table-functional-analysis,table-structure-recognition pushed_at:2024-06 star:2.1k fork:0.2k Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images). This is also the official repository for the PubTables-1M dataset and GriTS evaluation metric.
+- [microsoft/table-transformer](https://github.com/microsoft/table-transformer) topic:table-detection,table-extraction,table-functional-analysis,table-structure-recognition pushed_at:2024-06 star:2.2k fork:0.2k Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images). This is also the official repository for the PubTables-1M dataset and GriTS evaluation metric.
 - [microsoft/Table2Charts](https://github.com/microsoft/Table2Charts) topic: pushed_at:2022-08 star:0.0k fork:0.0k Code and data of KDD'21 paper "Table2Charts: Recommending Charts by Learning Shared Table Representations"
-- [microsoft/taccl](https://github.com/microsoft/taccl) topic: pushed_at:2023-07 star:0.0k fork:0.0k TACCL: Guiding Collective Algorithm Synthesis using Communication Sketches
+- [microsoft/taccl](https://github.com/microsoft/taccl) topic: pushed_at:2023-07 star:0.1k fork:0.0k TACCL: Guiding Collective Algorithm Synthesis using Communication Sketches
 - [microsoft/TaCube](https://github.com/microsoft/TaCube) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [microsoft/TAP](https://github.com/microsoft/TAP) topic: pushed_at:2023-05 star:0.1k fork:0.0k TAP: Text-Aware Pre-training for Text-VQA and Text-Caption, CVPR 2021 (Oral)
 - [microsoft/taser](https://github.com/microsoft/taser) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
-- [microsoft/task-sequencing-robotics-simulator](https://github.com/microsoft/task-sequencing-robotics-simulator) topic: pushed_at:2023-01 star:0.0k fork:0.0k A robotics simulator to compose tasks into task-training scenarios and/or executable sequences.
+- [microsoft/task-sequencing-robotics-simulator](https://github.com/microsoft/task-sequencing-robotics-simulator) topic: pushed_at:2024-08 star:0.0k fork:0.0k A robotics simulator to compose tasks into task-training scenarios and/or executable sequences.
 - [microsoft/task_oriented_dialogue_as_dataflow_synthesis](https://github.com/microsoft/task_oriented_dialogue_as_dataflow_synthesis) topic: pushed_at:2024-04 star:0.3k fork:0.1k Code to reproduce experiments in the paper "Task-Oriented Dialogue as Dataflow Synthesis" (TACL 2020).
-- [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) topic:agent,ai-agents,code-interpreter,copilot,data-analysis,llm,openai pushed_at:2024-08 star:5.1k fork:0.7k A code-first agent framework for seamlessly planning and executing data analytics tasks. 
+- [microsoft/TaskWeaver](https://github.com/microsoft/TaskWeaver) topic:agent,ai-agents,code-interpreter,copilot,data-analysis,llm,openai pushed_at:2024-08 star:5.2k fork:0.7k A code-first agent framework for seamlessly planning and executing data analytics tasks. 
 - [microsoft/tdqn](https://github.com/microsoft/tdqn) topic: pushed_at:2023-06 star:0.0k fork:0.0k Template-DQN and DRRN agent implementations
 - [microsoft/TE-CCL](https://github.com/microsoft/TE-CCL) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/TechExcel-Implementing-automation-practices-using-Azure-OpenAI](https://github.com/microsoft/TechExcel-Implementing-automation-practices-using-Azure-OpenAI) topic: pushed_at:2024-06 star:0.0k fork:0.1k 
@@ -5340,11 +5339,11 @@
 - [microsoft/tf-gnn-samples](https://github.com/microsoft/tf-gnn-samples) topic: pushed_at:2022-11 star:0.9k fork:0.2k TensorFlow implementations of Graph Neural Networks
 - [microsoft/tf2-gnn](https://github.com/microsoft/tf2-gnn) topic: pushed_at:2023-07 star:0.4k fork:0.1k TensorFlow 2 library implementing Graph Neural Networks
 - [microsoft/times-excel-reader](https://github.com/microsoft/times-excel-reader) topic:climate-change,sustainability pushed_at:2023-03 star:0.0k fork:0.0k 
-- [microsoft/timewarp](https://github.com/microsoft/timewarp) topic: pushed_at:2023-11 star:0.0k fork:0.0k Timewarp is a research project using deep learning to accelerate molecular dynamics simulation. 
+- [microsoft/timewarp](https://github.com/microsoft/timewarp) topic: pushed_at:2024-08 star:0.0k fork:0.0k Timewarp is a research project using deep learning to accelerate molecular dynamics simulation. 
 - [microsoft/TIPS](https://github.com/microsoft/TIPS) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
 - [microsoft/Tocino](https://github.com/microsoft/Tocino) topic: pushed_at:2023-06 star:0.0k fork:0.0k NS3 Extensions to Simulate Direct Network Topologies
 - [microsoft/toga](https://github.com/microsoft/toga) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
-- [microsoft/TokenMixers](https://github.com/microsoft/TokenMixers) topic: pushed_at:2024-07 star:0.1k fork:0.0k 
+- [microsoft/TokenMixers](https://github.com/microsoft/TokenMixers) topic: pushed_at:2024-08 star:0.1k fork:0.0k 
 - [microsoft/ToolTalk](https://github.com/microsoft/ToolTalk) topic: pushed_at:2024-05 star:0.1k fork:0.0k Evaluating tool-augmented LLMs in conversation settings
 - [microsoft/topologic](https://github.com/microsoft/topologic) topic: pushed_at:2024-07 star:0.0k fork:0.0k A python library for intelligently building networks and network embeddings, and for analyzing connected data.
 - [microsoft/ToRA](https://github.com/microsoft/ToRA) topic:autonomous-agents,language-model,llm,mathematical-reasoning,tool-learning pushed_at:2024-02 star:0.9k fork:0.1k ToRA is a series of Tool-integrated Reasoning LLM Agents designed to solve challenging mathematical reasoning problems by interacting with tools [ICLR'24].
@@ -5355,7 +5354,7 @@
 - [microsoft/TraceCodegen](https://github.com/microsoft/TraceCodegen) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/transductive-vos.pytorch](https://github.com/microsoft/transductive-vos.pytorch) topic:cvpr2020,davis-challenge,semi-supervised,video-object-segmentation,vos,youtube-vos pushed_at:2023-06 star:0.2k fork:0.0k a transductive approach for video object segmentation
 - [microsoft/Transformer-XH](https://github.com/microsoft/Transformer-XH) topic: pushed_at:2020-10 star:0.1k fork:0.0k 
-- [microsoft/TransformerCompression](https://github.com/microsoft/TransformerCompression) topic: pushed_at:2024-07 star:0.4k fork:0.0k For releasing code related to compression methods for transformers, accompanying our publications
+- [microsoft/TransformerCompression](https://github.com/microsoft/TransformerCompression) topic: pushed_at:2024-08 star:0.4k fork:0.0k For releasing code related to compression methods for transformers, accompanying our publications
 - [microsoft/transparency-engine](https://github.com/microsoft/transparency-engine) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
 - [microsoft/TrashClassifier](https://github.com/microsoft/TrashClassifier) topic: pushed_at:2022-06 star:0.0k fork:0.0k A repo for the Lobe ML Trash Classifier project
 - [microsoft/travel-weather](https://github.com/microsoft/travel-weather) topic: pushed_at:2024-06 star:0.1k fork:0.1k A Python HTTP API to demonstrate Codespaces working with Copilot
@@ -5366,7 +5365,7 @@
 - [microsoft/twin-smooth-integers](https://github.com/microsoft/twin-smooth-integers) topic: pushed_at:2022-09 star:0.0k fork:0.0k Algorithms to find consecutive integers that are smooth
 - [microsoft/two-for-one-diffusion](https://github.com/microsoft/two-for-one-diffusion) topic: pushed_at:2024-05 star:0.0k fork:0.0k This Denoising Force Field (DFF) codebase provides a Pytorch framework for the method presented in Two for one: Diffusion models and force fields for coarse-grained molecular dynamics.
 - [microsoft/UDA](https://github.com/microsoft/UDA) topic:dann,discriminator,domain-adaptation,domain-generalization pushed_at:2022-07 star:0.1k fork:0.0k Unsupervised Domain Adaptation for Computer Vision Tasks
-- [microsoft/UFO](https://github.com/microsoft/UFO) topic:agent,automation,copilot,gui,llm,windows pushed_at:2024-08 star:7.5k fork:0.9k A UI-Focused Agent for Windows OS Interaction.
+- [microsoft/UFO](https://github.com/microsoft/UFO) topic:agent,automation,copilot,gui,llm,windows pushed_at:2024-08 star:7.5k fork:1.0k A UI-Focused Agent for Windows OS Interaction.
 - [microsoft/UICaption](https://github.com/microsoft/UICaption) topic: pushed_at:2022-11 star:0.0k fork:0.0k We release the UICaption dataset. The dataset consists of UI images (icons and screenshots) and associated text descriptions. This dataset was used to pre-train the Lexi model which provides a generic representation of UI screens and their components.
 - [microsoft/unadversarial](https://github.com/microsoft/unadversarial) topic: pushed_at:2024-07 star:0.1k fork:0.0k Official repository for our NeurIPS 2021 paper "Unadversarial Examples: Designing Objects for Robust Vision"
 - [microsoft/UniCL](https://github.com/microsoft/UniCL) topic: pushed_at:2023-11 star:0.4k fork:0.0k [CVPR 2022] Official code for "Unified Contrastive Learning in Image-Text-Label Space"
@@ -5382,7 +5381,7 @@
 - [microsoft/VBench](https://github.com/microsoft/VBench) topic:vector-analytics,vector-database,vector-search pushed_at:2023-06 star:0.0k fork:0.0k An Approximate Vector-Analytics Benchmark for Relational Databases
 - [microsoft/vert-papers](https://github.com/microsoft/vert-papers) topic:bertel,can-ner,cross-lingual-ner,entity-disambiguation,entity-extraction,entity-linking,entity-resolution,grn,language-understanding,linkingpark,ml,named-entity-recognition,ner,nlp,nlp-resources,unitrans,xl-ner pushed_at:2024-03 star:0.3k fork:0.1k This repository contains code and datasets related to entity/knowledge papers from the VERT (Versatile Entity Recognition & disambiguation Toolkit) project, by the Knowledge Computing group at Microsoft Research Asia (MSRA).
 - [microsoft/vi-hds](https://github.com/microsoft/vi-hds) topic: pushed_at:2024-07 star:0.0k fork:0.0k Variational inference for hierarchical dynamical systems
-- [microsoft/Video_Call_MOS](https://github.com/microsoft/Video_Call_MOS) topic:machine-learning,qoe,video-quality,video-quality-assessment,videoconferencing pushed_at:2024-07 star:0.0k fork:0.0k A video quality MOS prediction model for videoconferencing calls that takes temporal distortions into account
+- [microsoft/Video_Call_MOS](https://github.com/microsoft/Video_Call_MOS) topic:machine-learning,qoe,video-quality,video-quality-assessment,videoconferencing pushed_at:2024-08 star:0.0k fork:0.0k A video quality MOS prediction model for videoconferencing calls that takes temporal distortions into account
 - [microsoft/VideoX](https://github.com/microsoft/VideoX) topic: pushed_at:2024-06 star:1.0k fork:0.2k VideoX: a collection of video cross-modal models
 - [microsoft/vidur](https://github.com/microsoft/vidur) topic:inference,llm,simulation,transformer,vllm pushed_at:2024-08 star:0.2k fork:0.0k A large-scale simulation framework for LLM inference
 - [microsoft/View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition](https://github.com/microsoft/View-Adaptive-Neural-Networks-for-Skeleton-based-Human-Action-Recognition) topic: pushed_at:2023-06 star:0.1k fork:0.1k View Adaptive Neural Networks for High Performance Skeleton-based Human Action Recognition
@@ -5399,21 +5398,21 @@
 - [microsoft/VoxHRNet](https://github.com/microsoft/VoxHRNet) topic: pushed_at:2022-07 star:0.0k fork:0.0k Whole Brain Segmentation with Full Volume Neural Network, CMIG
 - [microsoft/vProfiler](https://github.com/microsoft/vProfiler) topic: pushed_at:2020-09 star:0.0k fork:0.0k A tool which can automatically collect all the system diagnosis information for a Hyper-V Linux guest.
 - [microsoft/VQ-Diffusion](https://github.com/microsoft/VQ-Diffusion) topic: pushed_at:2024-04 star:0.9k fork:0.1k Official implementation of VQ-Diffusion
-- [microsoft/VRL3](https://github.com/microsoft/VRL3) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
-- [microsoft/vscode-autopep8](https://github.com/microsoft/vscode-autopep8) topic:autopep8,linting,python pushed_at:2024-07 star:0.0k fork:0.0k Formatting support for python using autopep8.
+- [microsoft/VRL3](https://github.com/microsoft/VRL3) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/vscode-autopep8](https://github.com/microsoft/vscode-autopep8) topic:autopep8,linting,python pushed_at:2024-08 star:0.0k fork:0.0k Formatting support for python using autopep8.
 - [microsoft/vscode-azurecli](https://github.com/microsoft/vscode-azurecli) topic: pushed_at:2024-03 star:0.1k fork:0.0k VS Code extension for the Azure CLI 2.0
-- [microsoft/vscode-black-formatter](https://github.com/microsoft/vscode-black-formatter) topic: pushed_at:2024-07 star:0.1k fork:0.0k Formatting support for Python using the Black formatter
+- [microsoft/vscode-black-formatter](https://github.com/microsoft/vscode-black-formatter) topic: pushed_at:2024-08 star:0.1k fork:0.0k Formatting support for Python using the Black formatter
 - [microsoft/vscode-flake8](https://github.com/microsoft/vscode-flake8) topic:flake8,python,visual-studio-code pushed_at:2024-08 star:0.0k fork:0.0k Linting support for python using the flake8 library.
 - [microsoft/vscode-isort](https://github.com/microsoft/vscode-isort) topic: pushed_at:2024-08 star:0.1k fork:0.0k Import sorting for python using the isort library.
 - [microsoft/vscode-mypy](https://github.com/microsoft/vscode-mypy) topic: pushed_at:2024-08 star:0.1k fork:0.0k Linting support for Python using the mypy linter.
-- [microsoft/vscode-pylint](https://github.com/microsoft/vscode-pylint) topic: pushed_at:2024-06 star:0.1k fork:0.0k Linting support for python using the pylint library.
+- [microsoft/vscode-pylint](https://github.com/microsoft/vscode-pylint) topic: pushed_at:2024-08 star:0.1k fork:0.0k Linting support for python using the pylint library.
 - [microsoft/vscode-python-templates](https://github.com/microsoft/vscode-python-templates) topic: pushed_at:2024-08 star:0.0k fork:0.0k This repo contains examples of various Python project types.
 - [microsoft/vscode-python-tools-extension-template](https://github.com/microsoft/vscode-python-tools-extension-template) topic: pushed_at:2024-08 star:0.1k fork:0.0k Template for creating VS Code extensions for python tools. 
 - [microsoft/vscode-python-web-wasm](https://github.com/microsoft/vscode-python-web-wasm) topic: pushed_at:2024-03 star:0.1k fork:0.0k An extension allows to run Python code in a Web browser using WebAssembly technology
 - [microsoft/vscode-remote-try-python](https://github.com/microsoft/vscode-remote-try-python) topic: pushed_at:2024-08 star:0.7k fork:1.6k Python sample project for trying out Dev Containers
 - [microsoft/vscode-tools-for-ai](https://github.com/microsoft/vscode-tools-for-ai) topic: pushed_at:2024-07 star:0.3k fork:0.1k Azure Machine Learning for Visual Studio Code, previously called Visual Studio Code Tools for AI, is an extension to easily build, train, and deploy machine learning models to the cloud or the edge with Azure Machine Learning service.
 - [microsoft/VSE_Gradient](https://github.com/microsoft/VSE_Gradient) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [microsoft/vsts-azurevm-extension](https://github.com/microsoft/vsts-azurevm-extension) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
+- [microsoft/vsts-azurevm-extension](https://github.com/microsoft/vsts-azurevm-extension) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/vsts-cd-manager](https://github.com/microsoft/vsts-cd-manager) topic: pushed_at:2020-01 star:0.0k fork:0.0k This is a small library that can be used to setup Continuous Delivery of Azure web apps thru Visual Studio Team Services
 - [microsoft/vsts-docker](https://github.com/microsoft/vsts-docker) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [microsoft/WADA](https://github.com/microsoft/WADA) topic: pushed_at:2023-08 star:0.0k fork:0.0k 
@@ -5435,7 +5434,7 @@
 - [microsoft/xcodeproj](https://github.com/microsoft/xcodeproj) topic: pushed_at:2024-07 star:0.0k fork:0.0k Python tools for interacting with Xcode project bundles
 - [microsoft/XPretrain](https://github.com/microsoft/XPretrain) topic:computer-vision,multimedia,multimodal-learning,nlp,pre-training pushed_at:2024-05 star:0.5k fork:0.0k Multi-modality pre-training
 - [microsoft/xtreme-distil-transformers](https://github.com/microsoft/xtreme-distil-transformers) topic: pushed_at:2023-12 star:0.2k fork:0.0k XtremeDistil framework for distilling/compressing massive multilingual neural network models to tiny and efficient models for AI at scale
-- [microsoft/YADA](https://github.com/microsoft/YADA) topic: pushed_at:2024-06 star:0.0k fork:0.0k Yet Another Demo App
+- [microsoft/YADA](https://github.com/microsoft/YADA) topic: pushed_at:2024-08 star:0.0k fork:0.0k Yet Another Demo App
 - [microsoft/YOLaT-VectorGraphicsRecognition](https://github.com/microsoft/YOLaT-VectorGraphicsRecognition) topic:gnn-model,vector-database,vector-graphics pushed_at:2024-05 star:0.1k fork:0.0k Source Code of NeurIPS21 and T-PAMI24 paper: Recognizing Vector Graphics without Rasterization
 - [microsoft/zkbc](https://github.com/microsoft/zkbc) topic: pushed_at:2023-09 star:0.0k fork:0.0k Early prototype of zero-knowledge verifiable ML benchmarks
 
@@ -5443,7 +5442,7 @@
 
 - [microsoft/grover-blocks](https://github.com/microsoft/grover-blocks) topic: pushed_at:2023-06 star:0.0k fork:0.0k Implementations of Grover oracles for the block ciphers AES and LowMC in the quantum-focused programming language Q#
 - [microsoft/MLADS2018-QuantumML](https://github.com/microsoft/MLADS2018-QuantumML) topic: pushed_at:2020-12 star:0.1k fork:0.0k Introduction to Quantum Machine Learning tutorial: Building a quantum perceptron using Microsoft Quantum Development Kit
-- [microsoft/quantum-curriculum-preview](https://github.com/microsoft/quantum-curriculum-preview) topic: pushed_at:2022-08 star:0.1k fork:0.0k A preview set of materials from the Microsoft-developed quantum computing curriculum
+- [microsoft/quantum-curriculum-samples](https://github.com/microsoft/quantum-curriculum-samples) topic:azure-quantum,qsharp,quantum,quantum-computing,quantum-programming pushed_at:2024-08 star:0.1k fork:0.0k A demo set of programming assignments developed using Q# and Azure Quantum Development Kit
 - [microsoft/QuantumEllipticCurves](https://github.com/microsoft/QuantumEllipticCurves) topic: pushed_at:2022-05 star:0.0k fork:0.0k Quantum implementation of elliptic curve primitives
 - [microsoft/QuantumLibraries](https://github.com/microsoft/QuantumLibraries) topic:hacktoberfest,qdk,qsharp,quantum,quantum-computing,quantum-development-kit pushed_at:2024-02 star:0.5k fork:0.2k Q# libraries for the Quantum Development Kit
 
@@ -5522,7 +5521,7 @@
 - [microsoft/homebrew-dev-proxy](https://github.com/microsoft/homebrew-dev-proxy) topic:command-line-tool,dev-proxy,developer-tools,development,http,microsoft-365,microsoft-graph,proxy,rest pushed_at:2024-08 star:0.0k fork:0.0k Dev Proxy is an API simulator that helps you effortlessly test your app beyond the happy path.
 - [microsoft/homebrew-git](https://github.com/microsoft/homebrew-git) topic: pushed_at:2024-08 star:0.0k fork:0.0k Homebrew Tap for Microsoft's Git projects.
 - [microsoft/homebrew-mssql-release](https://github.com/microsoft/homebrew-mssql-release) topic: pushed_at:2024-07 star:0.1k fork:0.0k 
-- [microsoft/homebrew-xbox-game-creator-tools](https://github.com/microsoft/homebrew-xbox-game-creator-tools) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
+- [microsoft/homebrew-xbox-game-creator-tools](https://github.com/microsoft/homebrew-xbox-game-creator-tools) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/kiota-abstractions-ruby](https://github.com/microsoft/kiota-abstractions-ruby) topic:kiota,openapi,rest,ruby pushed_at:2024-07 star:0.0k fork:0.0k Abstractions library for the Kiota generated SDKs in Ruby
 - [microsoft/kiota-authentication-oauth-ruby](https://github.com/microsoft/kiota-authentication-oauth-ruby) topic:kiota,oauth,ruby pushed_at:2024-07 star:0.0k fork:0.0k Kiota authentication provider implementation with Oauth in Ruby
 - [microsoft/kiota-http-ruby](https://github.com/microsoft/kiota-http-ruby) topic:faraday,kiota,ruby pushed_at:2024-07 star:0.0k fork:0.0k Kiota http provider implementation for Ruby with Faraday
@@ -5537,9 +5536,9 @@
 - [microsoft/project-ruby-rails-container](https://github.com/microsoft/project-ruby-rails-container) topic: pushed_at:2023-08 star:0.0k fork:0.0k Sample Ruby application targetting rails framework
 - [microsoft/snipe-it-api-cookbook](https://github.com/microsoft/snipe-it-api-cookbook) topic:chef-resource,inventory-management,rest-api,snipe-it pushed_at:2023-06 star:0.0k fork:0.0k A Chef resource cookbook for interacting with Snipe-IT's REST API
 - [microsoft/snipe-it-cookbook](https://github.com/microsoft/snipe-it-cookbook) topic:chef,chef-cookbook,snipe-it pushed_at:2021-01 star:0.0k fork:0.0k A Chef cookbook to configure and install Snipe-IT
-- [microsoft/swift-guide](https://github.com/microsoft/swift-guide) topic:swift pushed_at:2024-07 star:0.0k fork:0.0k This guide contains best practices for writing Swift. Guidance here comes from a combination of our collective practical experiences and documentation from Apple. This is meant to be a living document and all contents are perpetually open for debate and improvement.
+- [microsoft/swift-guide](https://github.com/microsoft/swift-guide) topic:swift pushed_at:2024-08 star:0.0k fork:0.0k This guide contains best practices for writing Swift. Guidance here comes from a combination of our collective practical experiences and documentation from Apple. This is meant to be a living document and all contents are perpetually open for debate and improvement.
 - [microsoft/TechBoost-Fabric-with-Databricks-for-Data-Analytics](https://github.com/microsoft/TechBoost-Fabric-with-Databricks-for-Data-Analytics) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
-- [microsoft/TechExcel-Defender-for-Identity](https://github.com/microsoft/TechExcel-Defender-for-Identity) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
+- [microsoft/TechExcel-Defender-for-Identity](https://github.com/microsoft/TechExcel-Defender-for-Identity) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/TechExcel-Elevate-your-Copilot-for-M365-technical-proficiency](https://github.com/microsoft/TechExcel-Elevate-your-Copilot-for-M365-technical-proficiency) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/TechExcel-Fabric-with-Databricks-for-Data-Analytics](https://github.com/microsoft/TechExcel-Fabric-with-Databricks-for-Data-Analytics) topic: pushed_at:2024-08 star:0.0k fork:0.0k To gain access, please finish setting up this repository now at: 
 - [microsoft/TechExcel-Operationalize-LLMs-with-LLMOps-automation](https://github.com/microsoft/TechExcel-Operationalize-LLMs-with-LLMOps-automation) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
@@ -5557,14 +5556,14 @@
 - [microsoft/cloud-hypervisor](https://github.com/microsoft/cloud-hypervisor) topic: pushed_at:2024-07 star:0.0k fork:0.0k This repository contains code that's not yet upstreamed or Microsoft specific. Please contribute directly to the upstream project.
 - [microsoft/com-rs](https://github.com/microsoft/com-rs) topic: pushed_at:2023-03 star:0.6k fork:0.1k **DEPRECATED** in favor of github.com/microsoft/windows-rs
 - [microsoft/confidential-containers-image-rs](https://github.com/microsoft/confidential-containers-image-rs) topic: pushed_at:2023-06 star:0.0k fork:0.0k Container Images Rust Crate
-- [microsoft/cookiecutter-rust-actix-clean-architecture](https://github.com/microsoft/cookiecutter-rust-actix-clean-architecture) topic: pushed_at:2024-07 star:0.1k fork:0.0k Cookiecutter Rust Actix template for jumpstarting production-ready projects quickly. 
+- [microsoft/cookiecutter-rust-actix-clean-architecture](https://github.com/microsoft/cookiecutter-rust-actix-clean-architecture) topic: pushed_at:2024-07 star:0.2k fork:0.0k Cookiecutter Rust Actix template for jumpstarting production-ready projects quickly. 
 - [microsoft/demikernel](https://github.com/microsoft/demikernel) topic:dpdk,kernel-bypass,libos,linux,network,rdma,spdk pushed_at:2024-08 star:0.9k fork:0.1k Kernel-Bypass LibOS Architecture
 - [microsoft/derivre](https://github.com/microsoft/derivre) topic: pushed_at:2024-08 star:0.0k fork:0.0k Derivative-based regular expression engine for Rust
-- [microsoft/dia-rs](https://github.com/microsoft/dia-rs) topic: pushed_at:2024-04 star:0.0k fork:0.0k Rust for Debug Interface Access (DIA) SDK
+- [microsoft/dia-rs](https://github.com/microsoft/dia-rs) topic: pushed_at:2024-08 star:0.0k fork:0.0k Rust for Debug Interface Access (DIA) SDK
 - [microsoft/electionguard-rust](https://github.com/microsoft/electionguard-rust) topic:electionguard pushed_at:2024-08 star:0.0k fork:0.0k CURRENTLY EXPERIMENTAL Rust implementation of the ElectionGuard system
 - [microsoft/elfcore](https://github.com/microsoft/elfcore) topic: pushed_at:2024-02 star:0.0k fork:0.0k A Rust crate for creating memory dumps of running processes on Linux
 - [microsoft/file-content-rs](https://github.com/microsoft/file-content-rs) topic: pushed_at:2024-03 star:0.0k fork:0.0k A crate for reading file content in a few common file encodings
-- [microsoft/igvm](https://github.com/microsoft/igvm) topic: pushed_at:2024-07 star:0.1k fork:0.0k 
+- [microsoft/igvm](https://github.com/microsoft/igvm) topic: pushed_at:2024-08 star:0.1k fork:0.0k 
 - [microsoft/inno-updater](https://github.com/microsoft/inno-updater) topic: pushed_at:2024-04 star:0.1k fork:0.0k Helper utility to enable background updates for VS Code in Windows
 - [microsoft/kata-containers](https://github.com/microsoft/kata-containers) topic: pushed_at:2024-08 star:0.0k fork:0.0k Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/
 - [microsoft/lain](https://github.com/microsoft/lain) topic: pushed_at:2022-09 star:0.5k fork:0.0k A fuzzer framework built in Rust
@@ -5576,19 +5575,19 @@
 - [microsoft/mu_rust_hid](https://github.com/microsoft/mu_rust_hid) topic: pushed_at:2024-08 star:0.0k fork:0.0k A Rust crate for parsing HID Report Descriptors.
 - [microsoft/mu_rust_pi](https://github.com/microsoft/mu_rust_pi) topic: pushed_at:2024-08 star:0.0k fork:0.0k Platform Initialization (PI) Specification Definitions and Support Code
 - [microsoft/Nimble](https://github.com/microsoft/Nimble) topic: pushed_at:2023-06 star:0.0k fork:0.0k Rollback protection for confidential services
-- [microsoft/Nova](https://github.com/microsoft/Nova) topic: pushed_at:2024-07 star:0.7k fork:0.2k Nova: High-speed recursive arguments from folding schemes
+- [microsoft/Nova](https://github.com/microsoft/Nova) topic: pushed_at:2024-08 star:0.7k fork:0.2k Nova: High-speed recursive arguments from folding schemes
 - [microsoft/pdblister](https://github.com/microsoft/pdblister) topic: pushed_at:2024-07 star:0.0k fork:0.0k Faster version of `symchk /om` for generating PDB manifests of offline machines
 - [microsoft/Precio](https://github.com/microsoft/Precio) topic: pushed_at:2023-09 star:0.0k fork:0.0k Precio is a Rust library that implements the Precio protocol for computing private layered histograms and sums.
 - [microsoft/preflate-rs](https://github.com/microsoft/preflate-rs) topic:compression,deflate,deflate-algorithm,deflate-compression pushed_at:2024-08 star:0.0k fork:0.0k Library to decompress DEFLATE compressed data and recreate it exactly bit-for-bit. Useful for transparently recompressing with a better algorithm.
 - [microsoft/project-freta](https://github.com/microsoft/project-freta) topic: pushed_at:2024-07 star:0.1k fork:0.0k MSR Project Freta
-- [microsoft/python-environment-tools](https://github.com/microsoft/python-environment-tools) topic: pushed_at:2024-08 star:0.1k fork:0.0k 
+- [microsoft/python-environment-tools](https://github.com/microsoft/python-environment-tools) topic: pushed_at:2024-08 star:0.2k fork:0.0k 
 - [microsoft/qsharp](https://github.com/microsoft/qsharp) topic:compilers,qsharp,quantum,quantum-computing,quantum-programming,quantum-programming-language,quantum-resource-estimation,tutorials,vscode pushed_at:2024-08 star:0.4k fork:0.1k Azure Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas
 - [microsoft/range_map_vec](https://github.com/microsoft/range_map_vec) topic: pushed_at:2024-05 star:0.0k fork:0.0k A Rust crate that implements a range map data structure backed by a Vec. 
 - [microsoft/rpmoci](https://github.com/microsoft/rpmoci) topic: pushed_at:2024-08 star:0.0k fork:0.0k OCI container builder for RPM-based Linux distributions
 - [microsoft/rust-symcrypt](https://github.com/microsoft/rust-symcrypt) topic: pushed_at:2024-08 star:0.1k fork:0.0k Friendly and idiomatic Rust wrappers over SymCrypt
 - [microsoft/rust_debugger_test](https://github.com/microsoft/rust_debugger_test) topic: pushed_at:2022-08 star:0.0k fork:0.0k A Rust framework for testing debuggers and their outputs
 - [microsoft/rust_fallible_vec](https://github.com/microsoft/rust_fallible_vec) topic: pushed_at:2024-05 star:0.0k fork:0.0k Fallible allocation support for Rust's Vec
-- [microsoft/rust_msvc_spectre_libs](https://github.com/microsoft/rust_msvc_spectre_libs) topic: pushed_at:2023-07 star:0.0k fork:0.0k Allow Rust crates to easily link with the MSVC spectre-mitigated libs
+- [microsoft/rust_msvc_spectre_libs](https://github.com/microsoft/rust_msvc_spectre_libs) topic: pushed_at:2024-08 star:0.0k fork:0.0k Allow Rust crates to easily link with the MSVC spectre-mitigated libs
 - [microsoft/rust_win_etw](https://github.com/microsoft/rust_win_etw) topic: pushed_at:2024-08 star:0.1k fork:0.0k Allows Rust code to log events to ETW
 - [microsoft/rustls-symcrypt](https://github.com/microsoft/rustls-symcrypt) topic: pushed_at:2024-08 star:0.0k fork:0.0k symcrypt crypto provider for rustls
 - [microsoft/rusty-radamsa](https://github.com/microsoft/rusty-radamsa) topic: pushed_at:2023-10 star:0.1k fork:0.0k Radamsa fuzzer ported to rust lang
@@ -5608,9 +5607,9 @@
 - [microsoft/vscode-secret-service-rs](https://github.com/microsoft/vscode-secret-service-rs) topic: pushed_at:2023-06 star:0.0k fork:0.0k Rust library for interfacing with Secret Service API
 - [microsoft/vscode-v8-heap-tools](https://github.com/microsoft/vscode-v8-heap-tools) topic: pushed_at:2024-02 star:0.0k fork:0.0k 
 - [microsoft/windows-app-rs](https://github.com/microsoft/windows-app-rs) topic: pushed_at:2022-08 star:0.2k fork:0.0k Rust for the Windows App SDK
-- [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) topic:drivers,rust,rust-lang,rust-library,wdf,wdk,windows pushed_at:2024-08 star:1.4k fork:0.1k Platform that enables Windows driver development in Rust. Developed by Surface. 
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) topic:rust,windows pushed_at:2024-08 star:10.2k fork:0.5k Rust for Windows
-- [microsoft/Windows-rust-driver-samples](https://github.com/microsoft/Windows-rust-driver-samples) topic:drivers,rust,samples,windows pushed_at:2024-07 star:0.2k fork:0.0k Rust port of the official Windows Driver Samples on Github. Leverages windows-drivers-rs
+- [microsoft/windows-drivers-rs](https://github.com/microsoft/windows-drivers-rs) topic:drivers,rust,rust-lang,rust-library,wdf,wdk,windows pushed_at:2024-08 star:1.5k fork:0.1k Platform that enables Windows driver development in Rust. Developed by Surface. 
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) topic:rust,windows pushed_at:2024-08 star:10.3k fork:0.5k Rust for Windows
+- [microsoft/Windows-rust-driver-samples](https://github.com/microsoft/Windows-rust-driver-samples) topic:drivers,rust,samples,windows pushed_at:2024-08 star:0.2k fork:0.0k Rust port of the official Windows Driver Samples on Github. Leverages windows-drivers-rs
 - [microsoft/windows-samples-rs](https://github.com/microsoft/windows-samples-rs) topic: pushed_at:2022-01 star:0.2k fork:0.0k 
 - [microsoft/winmd-rs](https://github.com/microsoft/winmd-rs) topic: pushed_at:2020-12 star:0.1k fork:0.0k Rust winmd parser
 
@@ -5687,8 +5686,8 @@
 - [microsoft/azure-orbital-space-sdk-setup](https://github.com/microsoft/azure-orbital-space-sdk-setup) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/Azure-Percept-Devkit-Private-Preview](https://github.com/microsoft/Azure-Percept-Devkit-Private-Preview) topic: pushed_at:2021-08 star:0.0k fork:0.0k Repository for Azure Percept Dev Kit private preview safety documentation.
 - [microsoft/azurelinux-tutorials](https://github.com/microsoft/azurelinux-tutorials) topic: pushed_at:2024-08 star:0.1k fork:0.0k Repository for Demonstration/Tutorial needs of CBL-Mariner
-- [microsoft/AzureTRE-Deployment](https://github.com/microsoft/AzureTRE-Deployment) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
-- [microsoft/bash-for-beginners](https://github.com/microsoft/bash-for-beginners) topic: pushed_at:2024-07 star:0.4k fork:3.8k Sample code for Bash for Beginners course
+- [microsoft/AzureTRE-Deployment](https://github.com/microsoft/AzureTRE-Deployment) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
+- [microsoft/bash-for-beginners](https://github.com/microsoft/bash-for-beginners) topic: pushed_at:2024-07 star:0.4k fork:3.9k Sample code for Bash for Beginners course
 - [microsoft/bedrock-rings](https://github.com/microsoft/bedrock-rings) topic: pushed_at:2022-11 star:0.0k fork:0.0k Documentation on how to implement rings with Bedrock.
 - [microsoft/Build-Apache-Provider](https://github.com/microsoft/Build-Apache-Provider) topic: pushed_at:2024-01 star:0.0k fork:0.0k Superproject for Apache-Provider Project
 - [microsoft/Build-Docker-Provider](https://github.com/microsoft/Build-Docker-Provider) topic: pushed_at:2023-06 star:0.0k fork:0.0k Superproject for Docker-Provider Project
@@ -5698,7 +5697,7 @@
 - [microsoft/Build-PowerShell-DSC-for-Linux](https://github.com/microsoft/Build-PowerShell-DSC-for-Linux) topic: pushed_at:2023-06 star:0.0k fork:0.0k Build projects required for DSC (Desired State Configuration)
 - [microsoft/Build-SCXcm](https://github.com/microsoft/Build-SCXcm) topic: pushed_at:2023-06 star:0.0k fork:0.0k Build projects required for SCXcm (Configuration Manager) agent
 - [microsoft/Build-SCXcore](https://github.com/microsoft/Build-SCXcore) topic: pushed_at:2024-04 star:0.0k fork:0.0k Build projects required for SCXCore (Operations Manager) agent
-- [microsoft/CBL-Mariner-SmartNIC](https://github.com/microsoft/CBL-Mariner-SmartNIC) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
+- [microsoft/CBL-Mariner-SmartNIC](https://github.com/microsoft/CBL-Mariner-SmartNIC) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/CBL-MarinerCoreUI](https://github.com/microsoft/CBL-MarinerCoreUI) topic: pushed_at:2023-08 star:0.0k fork:0.0k Minimal set of UI packages.
 - [microsoft/checkedc-automation](https://github.com/microsoft/checkedc-automation) topic: pushed_at:2021-09 star:0.0k fork:0.0k Scripts for automated testing of the Checked C clang compiler.
 - [microsoft/CLUES](https://github.com/microsoft/CLUES) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
@@ -5718,14 +5717,14 @@
 - [microsoft/infersharpaction](https://github.com/microsoft/infersharpaction) topic: pushed_at:2023-07 star:0.1k fork:0.0k About Infer# is an interprocedural and scalable static code analyzer for C#. Via the capabilities of Facebook's Infer, this tool detects null dereferences, resource leaks, and thread-safety violations. It also performs taint flow tracking to detect critical security vulnerabilities like SQL injections.
 - [microsoft/IoT-Plug-and-Play-Workshop](https://github.com/microsoft/IoT-Plug-and-Play-Workshop) topic: pushed_at:2021-08 star:0.0k fork:0.0k Repository for IoT Plug and Play Workshop
 - [microsoft/java](https://github.com/microsoft/java) topic: pushed_at:2022-08 star:0.0k fork:0.1k JDK Dockerfiles
-- [microsoft/kalypso](https://github.com/microsoft/kalypso) topic: pushed_at:2024-06 star:0.0k fork:0.0k Workload Management in Multi-cluster environment with GitOps
+- [microsoft/kalypso](https://github.com/microsoft/kalypso) topic: pushed_at:2024-08 star:0.0k fork:0.0k Workload Management in Multi-cluster environment with GitOps
 - [microsoft/kata-containers-ci](https://github.com/microsoft/kata-containers-ci) topic: pushed_at:2023-06 star:0.0k fork:0.0k Kata Containers CI
 - [microsoft/kata-containers-tests](https://github.com/microsoft/kata-containers-tests) topic: pushed_at:2023-07 star:0.0k fork:0.0k Kata Containers tests, CI, and metrics
 - [microsoft/kubernetes-developer-cluster-kubeadm](https://github.com/microsoft/kubernetes-developer-cluster-kubeadm) topic: pushed_at:2021-04 star:0.0k fork:0.0k Build a Kubernetes developer cluster on an Azure VM using kubeadm
 - [microsoft/light-up-azure](https://github.com/microsoft/light-up-azure) topic: pushed_at:2023-08 star:0.0k fork:0.0k Content repository for Light up Azure - spin off for Azure Playlists (애저한발짝)
 - [microsoft/linux-vm-tools](https://github.com/microsoft/linux-vm-tools) topic: pushed_at:2022-04 star:0.8k fork:0.3k Hyper-V Linux Guest VM Enhancements
 - [microsoft/LinuxBrokerForAVDAccess](https://github.com/microsoft/LinuxBrokerForAVDAccess) topic: pushed_at:2024-03 star:0.0k fork:0.0k Streamline and enhance the accessibility of Linux Virtual Machines (VMs) within the Azure Virtual Desktop (AVD) environment. Our custom-built connection broker system focuses on delivering a seamless, scalable, and secure access pathway for remote users to Linux desktops, leveraging the power and flexibility of AVD.
-- [microsoft/ManagedAppMockup](https://github.com/microsoft/ManagedAppMockup) topic: pushed_at:2024-05 star:0.0k fork:0.0k Mockup of a simple Managed of type "Service Catalog"
+- [microsoft/ManagedAppMockup](https://github.com/microsoft/ManagedAppMockup) topic: pushed_at:2024-08 star:0.0k fork:0.0k Mockup of a simple Managed of type "Service Catalog"
 - [microsoft/mdatp-xplat](https://github.com/microsoft/mdatp-xplat) topic: pushed_at:2024-08 star:0.2k fork:0.2k Microsoft Defender for macOS/Linux - config samples, auxiliary tools 
 - [microsoft/mesos-log](https://github.com/microsoft/mesos-log) topic:documentation,mesos,microsoft,sprint-planning pushed_at:2018-02 star:0.0k fork:0.0k Project log for Microsoft's Mesos work.
 - [microsoft/microsoft-partner-center-github-action](https://github.com/microsoft/microsoft-partner-center-github-action) topic:github-actions pushed_at:2023-05 star:0.0k fork:0.0k GitHub action to update the artifact of a plan within the Azure partner center offer.
@@ -5740,7 +5739,7 @@
 - [microsoft/online-semantic-parsing-for-latency-reduction](https://github.com/microsoft/online-semantic-parsing-for-latency-reduction) topic: pushed_at:2022-08 star:0.0k fork:0.0k Code for the ACL 2022 paper "Online Semantic Parsing for Latency Reduction in Task-Oriented Dialogue," Jiawei Zhou, Jason Eisner, Michael Newman, Emmanouil Antonios Platanios, and Sam Thomson.
 - [microsoft/OpenHack-FHIR](https://github.com/microsoft/OpenHack-FHIR) topic: pushed_at:2022-07 star:0.1k fork:0.0k This repository hosts the guidance and assets for delivering an OpenHack focusing on FHIR and Microsoft's API for FHIR. 
 - [microsoft/openjdk-adoptium-marketplace-data](https://github.com/microsoft/openjdk-adoptium-marketplace-data) topic: pushed_at:2024-08 star:0.0k fork:0.0k Microsoft build of OpenJDK Marketplace data for Eclipse Adoptium
-- [microsoft/openjdk-docker](https://github.com/microsoft/openjdk-docker) topic:container,docker,java,microsoft,openjdk pushed_at:2024-07 star:0.0k fork:0.0k Repository of Container Images for the official MSFT Build of OpenJDK
+- [microsoft/openjdk-docker](https://github.com/microsoft/openjdk-docker) topic:container,docker,java,microsoft,openjdk pushed_at:2024-08 star:0.0k fork:0.0k Repository of Container Images for the official MSFT Build of OpenJDK
 - [microsoft/openshift-container-platform](https://github.com/microsoft/openshift-container-platform) topic: pushed_at:2022-09 star:0.1k fork:0.2k OpenShift Container Platform on Azure
 - [microsoft/ostc-docs](https://github.com/microsoft/ostc-docs) topic: pushed_at:2022-09 star:0.0k fork:0.0k Documentation for the OSTC team
 - [microsoft/oxa-tools](https://github.com/microsoft/oxa-tools) topic: pushed_at:2023-06 star:0.0k fork:0.1k Open edX on Azure Tools
@@ -5753,9 +5752,9 @@
 - [microsoft/redhat-mw-cloud-quickstart](https://github.com/microsoft/redhat-mw-cloud-quickstart) topic: pushed_at:2023-06 star:0.0k fork:0.0k Red Hat JBOSS Quickstart templates
 - [microsoft/ripgrep-prebuilt](https://github.com/microsoft/ripgrep-prebuilt) topic: pushed_at:2024-07 star:0.0k fork:0.0k Builds ripgrep on Azure Pipelines for multiple platforms and makes the binaries available as Github releases
 - [microsoft/SCXcore-osskits](https://github.com/microsoft/SCXcore-osskits) topic: pushed_at:2024-01 star:0.0k fork:0.0k System Center Cross Platform Provider for Operations Manager (Open Source Kits)
-- [microsoft/secure-software-supply-chain-on-aks](https://github.com/microsoft/secure-software-supply-chain-on-aks) topic:azure-container-registry,azure-key-vault,azure-kubernetes-service,gatekeeper,notation,ratify,secure-software-supply-chain,secure-supply-chain,signing,signing-certificates pushed_at:2024-06 star:0.0k fork:0.0k An example approach to securing containerized workloads within AKS using Notation.
+- [microsoft/secure-software-supply-chain-on-aks](https://github.com/microsoft/secure-software-supply-chain-on-aks) topic:azure-container-registry,azure-key-vault,azure-kubernetes-service,gatekeeper,notation,ratify,secure-software-supply-chain,secure-supply-chain,signing,signing-certificates pushed_at:2024-08 star:0.0k fork:0.0k An example approach to securing containerized workloads within AKS using Notation.
 - [microsoft/shell-intune-samples](https://github.com/microsoft/shell-intune-samples) topic:app-management,bash,intune,line-of-business,macos,shell-scripting pushed_at:2024-08 star:0.7k fork:0.2k Sample shell scripts for Intune admins.
-- [microsoft/symphony](https://github.com/microsoft/symphony) topic: pushed_at:2024-07 star:0.2k fork:0.0k CI/CD for IaC on multiple orchestrators
+- [microsoft/symphony](https://github.com/microsoft/symphony) topic: pushed_at:2024-08 star:0.2k fork:0.0k CI/CD for IaC on multiple orchestrators
 - [microsoft/TeamCloud-Project-Sample](https://github.com/microsoft/TeamCloud-Project-Sample) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
 - [microsoft/TeamCloud-Providers](https://github.com/microsoft/TeamCloud-Providers) topic: pushed_at:2022-05 star:0.0k fork:0.0k Providers for TeamCloud.
 - [microsoft/test-infra](https://github.com/microsoft/test-infra) topic: pushed_at:2023-08 star:0.0k fork:0.0k To gain access, please finish setting up this repository now at:  https://repos.opensource.microsoft.com/microsoft/wizard?existingreponame=test-infra&existingrepoid=277916867
@@ -5771,7 +5770,7 @@
 
 ## Slash
 
-- [microsoft/NeuralInvariantRanker](https://github.com/microsoft/NeuralInvariantRanker) topic: pushed_at:2024-07 star:0.0k fork:0.0k Ranking LLM-Generated Loop Invariants for Program Verification.
+- [microsoft/NeuralInvariantRanker](https://github.com/microsoft/NeuralInvariantRanker) topic: pushed_at:2024-08 star:0.0k fork:0.0k Ranking LLM-Generated Loop Invariants for Program Verification.
 
 ## Smarty
 
@@ -5795,7 +5794,7 @@
 - [microsoft/EmbeddedSocial-Swift-API-Library](https://github.com/microsoft/EmbeddedSocial-Swift-API-Library) topic: pushed_at:2023-06 star:0.0k fork:0.0k Library for interacting with the Microsoft Embedded Social API in your Swift code.
 - [microsoft/entra-verifiedid-wallet-library-ios](https://github.com/microsoft/entra-verifiedid-wallet-library-ios) topic: pushed_at:2024-06 star:0.0k fork:0.0k A library to manage your Decentralized Identities and Verified IDs on iOS.
 - [microsoft/FluentDarkModeKit](https://github.com/microsoft/FluentDarkModeKit) topic:darkmode,ios,swift pushed_at:2021-05 star:1.6k fork:0.1k A library for backporting Dark Mode in iOS
-- [microsoft/fluentui-apple](https://github.com/microsoft/fluentui-apple) topic:appkit,cocoa,fluentui-apple,ios,macos,microsoft,uikit pushed_at:2024-08 star:0.9k fork:0.2k UIKit and AppKit controls for building native Microsoft experiences
+- [microsoft/fluentui-apple](https://github.com/microsoft/fluentui-apple) topic:appkit,cocoa,fluentui-apple,ios,macos,microsoft,uikit pushed_at:2024-09 star:0.9k fork:0.2k UIKit and AppKit controls for building native Microsoft experiences
 - [microsoft/health-data-sync](https://github.com/microsoft/health-data-sync) topic: pushed_at:2019-11 star:0.0k fork:0.0k HealthDataSync is a Swift library that simplifies and automates the export of HealthKit data to an external store.
 - [microsoft/healthkit-on-fhir](https://github.com/microsoft/healthkit-on-fhir) topic: pushed_at:2022-03 star:0.1k fork:0.0k HealthKitOnFhir is a Swift library that automates the export of Apple HealthKit Data to a FHIR Server.
 - [microsoft/healthkit-to-fhir](https://github.com/microsoft/healthkit-to-fhir) topic: pushed_at:2021-03 star:0.0k fork:0.0k The HealthKitToFhir Swift Library provides a simple way to create FHIR Resources from HKObjects.
@@ -5810,7 +5809,7 @@
 
 ## SystemVerilog
 
-- [microsoft/cheriot-ibex](https://github.com/microsoft/cheriot-ibex) topic: pushed_at:2024-08 star:0.1k fork:0.0k cheriot-ibex is a RTL implementation of CHERIoT ISA based on LowRISC's Ibex core.
+- [microsoft/cheriot-ibex](https://github.com/microsoft/cheriot-ibex) topic: pushed_at:2024-09 star:0.1k fork:0.0k cheriot-ibex is a RTL implementation of CHERIoT ISA based on LowRISC's Ibex core.
 - [microsoft/cheriot-safe](https://github.com/microsoft/cheriot-safe) topic: pushed_at:2024-07 star:0.0k fork:0.0k Repo for CHERI development system
 - [microsoft/DUA](https://github.com/microsoft/DUA) topic: pushed_at:2022-08 star:0.0k fork:0.0k DUA, is a communication architecture that provides uniform access for FPGA to data center resources. Without being limited by machine boundaries, DUA provides global names and a common interface for communicating across various resources, the underlying network automatically routing traffic and managing resource multiplexing.
 
@@ -5862,17 +5861,18 @@
 - [microsoft/ability-attributes](https://github.com/microsoft/ability-attributes) topic: pushed_at:2023-11 star:0.0k fork:0.0k Web Application Accessibility Attributes Runtime Validator
 - [microsoft/accessibility-announcer](https://github.com/microsoft/accessibility-announcer) topic: pushed_at:2021-02 star:0.0k fork:0.0k A tool to provide the screen reader announcements on the web.
 - [microsoft/accessibility-insights-action](https://github.com/microsoft/accessibility-insights-action) topic: pushed_at:2024-08 star:0.1k fork:0.0k Github Action to scan for accessibility issues in github pages
-- [microsoft/accessibility-insights-service](https://github.com/microsoft/accessibility-insights-service) topic:accessibility-insights pushed_at:2024-07 star:0.1k fork:0.1k Accessibility Insights Service
+- [microsoft/accessibility-insights-service](https://github.com/microsoft/accessibility-insights-service) topic:accessibility-insights pushed_at:2024-08 star:0.1k fork:0.1k Accessibility Insights Service
 - [microsoft/accessibility-insights-web](https://github.com/microsoft/accessibility-insights-web) topic:accessibility,accessibility-insights,chromeextension,hacktoberfest,reactjs,typescript pushed_at:2024-08 star:0.8k fork:0.1k Accessibility Insights for Web
 - [microsoft/Accessible-Connect](https://github.com/microsoft/Accessible-Connect) topic: pushed_at:2023-10 star:0.0k fork:0.0k Accessible videoconferencing platform focusing on DHH (Deaf and Hard of Hearing).
 - [microsoft/ace-ux-components](https://github.com/microsoft/ace-ux-components) topic: pushed_at:2024-01 star:0.0k fork:0.0k 
 - [microsoft/acs-kitchen-sink](https://github.com/microsoft/acs-kitchen-sink) topic: pushed_at:2023-07 star:0.0k fork:0.0k Demonstrating different Azure Communication Services features
 - [microsoft/action-publish-symbols](https://github.com/microsoft/action-publish-symbols) topic: pushed_at:2024-04 star:0.0k fork:0.0k GitHub Action to publish symbols to the Azure DevOps Package Management symbol server (Artifacts server).
 - [microsoft/ado-codespaces-auth](https://github.com/microsoft/ado-codespaces-auth) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
-- [microsoft/ado-npm-auth](https://github.com/microsoft/ado-npm-auth) topic: pushed_at:2024-07 star:0.0k fork:0.0k This package can automatically use the azureauth CLI to fetch tokens and update a user's .npmrc file for authenticating to Azure DevOps npm feeds.
+- [microsoft/ado-npm-auth](https://github.com/microsoft/ado-npm-auth) topic: pushed_at:2024-08 star:0.0k fork:0.0k This package can automatically use the azureauth CLI to fetch tokens and update a user's .npmrc file for authenticating to Azure DevOps npm feeds.
 - [microsoft/ads-extension-telemetry](https://github.com/microsoft/ads-extension-telemetry) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
 - [microsoft/ads-service-downloader](https://github.com/microsoft/ads-service-downloader) topic: pushed_at:2024-06 star:0.0k fork:0.0k Service downloader
 - [microsoft/adx-query-charts](https://github.com/microsoft/adx-query-charts) topic: pushed_at:2023-12 star:0.0k fork:0.0k Draw charts from Azure Data Explorer queries
+- [microsoft/ai-audio-descriptions](https://github.com/microsoft/ai-audio-descriptions) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/ai-chat-protocol](https://github.com/microsoft/ai-chat-protocol) topic: pushed_at:2024-08 star:0.1k fork:0.0k A library + API spec for easily streaming generative AI output to your chat applications.
 - [microsoft/ai.ed](https://github.com/microsoft/ai.ed) topic: pushed_at:2023-04 star:0.0k fork:0.0k AI for (programming) EDucation
 - [microsoft/android-app-size-diff](https://github.com/microsoft/android-app-size-diff) topic: pushed_at:2023-07 star:0.1k fork:0.0k Android app size measuring in your CI
@@ -5882,10 +5882,10 @@
 - [microsoft/app-metadata](https://github.com/microsoft/app-metadata) topic: pushed_at:2023-04 star:0.0k fork:0.0k Provides metadata extraction for iOS, Android and Windows packages.
 - [microsoft/app-store-badge](https://github.com/microsoft/app-store-badge) topic: pushed_at:2024-08 star:0.1k fork:0.0k Web component that renders the "Get this app on Microsoft Store" badge
 - [microsoft/app-store-vsts-extension](https://github.com/microsoft/app-store-vsts-extension) topic: pushed_at:2024-08 star:0.1k fork:0.1k Visual Studio Team Services (VSTS) extension for performing continuous delivery to the App Store store from your automated CI builds
-- [microsoft/appcenter-cli](https://github.com/microsoft/appcenter-cli) topic: pushed_at:2024-07 star:0.6k fork:0.2k Command-line Interface (CLI) for Visual Studio App Center
+- [microsoft/appcenter-cli](https://github.com/microsoft/appcenter-cli) topic: pushed_at:2024-08 star:0.6k fork:0.2k Command-line Interface (CLI) for Visual Studio App Center
 - [microsoft/appcenter-sampleapp-react-native](https://github.com/microsoft/appcenter-sampleapp-react-native) topic: pushed_at:2023-10 star:0.1k fork:0.2k App Center Sample App for React Native
 - [microsoft/Application-Insights-K8s-Codeless-Attach](https://github.com/microsoft/Application-Insights-K8s-Codeless-Attach) topic: pushed_at:2023-05 star:0.0k fork:0.0k Solution for onboarding Kubernetes/AKS workloads onto Application Insights monitoring.
-- [microsoft/applicationinsights-angularplugin-js](https://github.com/microsoft/applicationinsights-angularplugin-js) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
+- [microsoft/applicationinsights-angularplugin-js](https://github.com/microsoft/applicationinsights-angularplugin-js) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/ApplicationInsights-JS](https://github.com/microsoft/ApplicationInsights-JS) topic:analytics,application-insights,azure,javascript,monitoring,observability,pageviews,sdk,typescript,usage pushed_at:2024-08 star:0.6k fork:0.2k Microsoft Application Insights SDK for JavaScript
 - [microsoft/ApplicationInsights-node.js](https://github.com/microsoft/ApplicationInsights-node.js) topic:application-insights,azure,distributed-tracing,logging,monitoring,node-js,observability,sdk pushed_at:2024-08 star:0.3k fork:0.1k Microsoft Application Insights SDK for Node.js
 - [microsoft/ApplicationInsights-statsd](https://github.com/microsoft/ApplicationInsights-statsd) topic: pushed_at:2020-07 star:0.0k fork:0.0k StatsD backend for Application Insights Node.js
@@ -5906,7 +5906,7 @@
 - [microsoft/arcade-text](https://github.com/microsoft/arcade-text) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [microsoft/arcade-tile-util](https://github.com/microsoft/arcade-tile-util) topic: pushed_at:2024-03 star:0.0k fork:0.0k A MakeCode Arcade extension with useful blocks for working with tilemaps
 - [microsoft/arcade-timers](https://github.com/microsoft/arcade-timers) topic: pushed_at:2020-10 star:0.0k fork:0.0k 
-- [microsoft/ardiffact](https://github.com/microsoft/ardiffact) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
+- [microsoft/ardiffact](https://github.com/microsoft/ardiffact) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/art](https://github.com/microsoft/art) topic:ai,art,deep-learning,image-retrieval,k-nearest-neighbours,machine-learning,nuerips,react,resnet-50,search pushed_at:2023-07 star:0.1k fork:0.0k Exploring the connections between artworks with deep "Visual Analogies"
 - [microsoft/autocomplete-search-box](https://github.com/microsoft/autocomplete-search-box) topic:fluentui-searchbox,highlight,highlighted-text,searchbox pushed_at:2023-06 star:0.0k fork:0.0k A wrapper over fluentUI SearchBox with search suggestions
 - [microsoft/axe-pipelines-samples](https://github.com/microsoft/axe-pipelines-samples) topic:accessibility-insights,automated-testing,hacktoberfest pushed_at:2024-08 star:0.1k fork:0.1k Samples that demonstrate running axe accessibility scans from Azure Pipelines
@@ -5920,7 +5920,7 @@
 - [microsoft/azure-boards-estimate](https://github.com/microsoft/azure-boards-estimate) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/azure-boards-split](https://github.com/microsoft/azure-boards-split) topic: pushed_at:2024-08 star:0.0k fork:0.0k Split a work item to track work that will continue into the next sprint.
 - [microsoft/azure-boards-vscode](https://github.com/microsoft/azure-boards-vscode) topic: pushed_at:2020-12 star:0.0k fork:0.0k Azure Boards Extension for Visual Studio Code
-- [microsoft/azure-carbon-estimator](https://github.com/microsoft/azure-carbon-estimator) topic: pushed_at:2024-07 star:0.0k fork:0.0k Azure carbon Estimator is an SDK that integrates with Green Software Foundation's Impact Framework for getting emissions for all your Azure workloads
+- [microsoft/azure-carbon-estimator](https://github.com/microsoft/azure-carbon-estimator) topic: pushed_at:2024-08 star:0.0k fork:0.0k Azure carbon Estimator is an SDK that integrates with Green Software Foundation's Impact Framework for getting emissions for all your Azure workloads
 - [microsoft/azure-data-manager-for-energy-experience-lab](https://github.com/microsoft/azure-data-manager-for-energy-experience-lab) topic: pushed_at:2024-03 star:0.0k fork:0.0k Experience Lab is a set of utilities that assist in creating instances of Microsoft Azure Data Manager for Energy, performing data loads, and performing basic management operations.
 - [microsoft/azure-devops-engineering-extensions](https://github.com/microsoft/azure-devops-engineering-extensions) topic:azuredevops-extension pushed_at:2024-08 star:0.0k fork:0.0k AzureDevOps marketplace extension that contains various engineering oriented Pipeline tasks
 - [microsoft/azure-devops-extension-api](https://github.com/microsoft/azure-devops-extension-api) topic: pushed_at:2024-08 star:0.1k fork:0.0k REST client libraries and contracts for Azure DevOps web extension developers.
@@ -5934,30 +5934,31 @@
 - [microsoft/azure-devops-symbols](https://github.com/microsoft/azure-devops-symbols) topic: pushed_at:2024-04 star:0.0k fork:0.0k Collection of tools for javascript projects to support sourcemap storage using azure devops' symbol service
 - [microsoft/azure-pipelines-artifact-caching-tasks](https://github.com/microsoft/azure-pipelines-artifact-caching-tasks) topic: pushed_at:2021-10 star:0.1k fork:0.0k Azure Pipelines Tasks to cache intermediate artifacts from build (e.g. resolved node packages)
 - [microsoft/azure-pipelines-ephemeral-agents](https://github.com/microsoft/azure-pipelines-ephemeral-agents) topic: pushed_at:2020-10 star:0.1k fork:0.0k Use Ephemeral agents to deploy to private azure resources  in a virtual network
-- [microsoft/azure-pipelines-language-server](https://github.com/microsoft/azure-pipelines-language-server) topic: pushed_at:2024-06 star:0.0k fork:0.0k A language server for Azure Pipelines YAML
+- [microsoft/azure-pipelines-language-server](https://github.com/microsoft/azure-pipelines-language-server) topic: pushed_at:2024-08 star:0.0k fork:0.0k A language server for Azure Pipelines YAML
 - [microsoft/azure-pipelines-task-lib](https://github.com/microsoft/azure-pipelines-task-lib) topic: pushed_at:2024-08 star:0.4k fork:0.3k Libraries for writing VSTS and TFS build tasks
-- [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) topic: pushed_at:2024-08 star:3.4k fork:2.6k Tasks for Azure Pipelines
+- [microsoft/azure-pipelines-tasks](https://github.com/microsoft/azure-pipelines-tasks) topic: pushed_at:2024-08 star:3.5k fork:2.6k Tasks for Azure Pipelines
 - [microsoft/azure-pipelines-tasks-common-packages](https://github.com/microsoft/azure-pipelines-tasks-common-packages) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/azure-pipelines-tasks-coverage-tools](https://github.com/microsoft/azure-pipelines-tasks-coverage-tools) topic: pushed_at:2022-12 star:0.0k fork:0.0k To gain access, please finish setting up this repository now at:  https://repos.opensource.microsoft.com/microsoft/wizard?existingreponame=azure-pipelines-tasks-coverage-tools&existingrepoid=531487893
-- [microsoft/azure-pipelines-terraform](https://github.com/microsoft/azure-pipelines-terraform) topic: pushed_at:2024-07 star:0.1k fork:0.1k Azure Pipelines tasks for installing Terraform and running Terraform commands in a build or release pipeline.
-- [microsoft/azure-pipelines-tool-lib](https://github.com/microsoft/azure-pipelines-tool-lib) topic: pushed_at:2024-07 star:0.1k fork:0.1k Lib for creating CI/CD tool installer tasks in Azure Pipelines
-- [microsoft/azure-pipelines-vscode](https://github.com/microsoft/azure-pipelines-vscode) topic: pushed_at:2024-03 star:0.2k fork:0.1k VS Code extension for working with Azure Pipelines YAML files
+- [microsoft/azure-pipelines-terraform](https://github.com/microsoft/azure-pipelines-terraform) topic: pushed_at:2024-08 star:0.1k fork:0.1k Azure Pipelines tasks for installing Terraform and running Terraform commands in a build or release pipeline.
+- [microsoft/azure-pipelines-tool-lib](https://github.com/microsoft/azure-pipelines-tool-lib) topic: pushed_at:2024-08 star:0.1k fork:0.1k Lib for creating CI/CD tool installer tasks in Azure Pipelines
+- [microsoft/azure-pipelines-vscode](https://github.com/microsoft/azure-pipelines-vscode) topic: pushed_at:2024-08 star:0.2k fork:0.1k VS Code extension for working with Azure Pipelines YAML files
 - [microsoft/azure-privacy-sandbox-kms](https://github.com/microsoft/azure-privacy-sandbox-kms) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/azure-repos-pr-multi-cherry-pick](https://github.com/microsoft/azure-repos-pr-multi-cherry-pick) topic: pushed_at:2023-07 star:0.0k fork:0.0k Azure DevOps extension to cherry-pick a PR's commits into multiple branches simultaneously
 - [microsoft/azure-repos-vscode](https://github.com/microsoft/azure-repos-vscode) topic: pushed_at:2020-11 star:0.7k fork:0.4k Azure Repos extension for VS Code
 - [microsoft/azure-rest-api-specs](https://github.com/microsoft/azure-rest-api-specs) topic: pushed_at:2022-11 star:0.0k fork:0.0k The source for REST API specifications for Microsoft Azure.
 - [microsoft/Azure-Synapse-Retail-Recommender-Solution-Accelerator](https://github.com/microsoft/Azure-Synapse-Retail-Recommender-Solution-Accelerator) topic: pushed_at:2023-10 star:0.0k fork:0.0k This Solution Accelerator is an end-to-end example on how to enable personalized customer experiences for retail scenarios by leveraging Azure Synapse Analytics, Azure Cosmos DB, Azure Machine Learning Services, Azure Data Lake Storage
 - [microsoft/azure-transparent-kms](https://github.com/microsoft/azure-transparent-kms) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
-- [microsoft/azurechat](https://github.com/microsoft/azurechat) topic: pushed_at:2024-08 star:1.2k fork:1.0k 🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service
+- [microsoft/azurechat](https://github.com/microsoft/azurechat) topic: pushed_at:2024-08 star:1.2k fork:1.1k 🤖 💼  Azure Chat Solution Accelerator powered by Azure Open AI Service
 - [microsoft/azuredatastudio](https://github.com/microsoft/azuredatastudio) topic:azure,azure-data-studio,electron,microsoft,postgresql,sql,sql-server,typescript pushed_at:2024-08 star:7.5k fork:0.9k Azure Data Studio is a data management and development tool with connectivity to popular cloud and on-premises databases. Azure Data Studio supports Windows, macOS, and Linux, with immediate capability to connect to Azure SQL and SQL Server. Browse the extension library for more database support options including MySQL, PostgreSQL, and MongoDB.
 - [microsoft/azuredatastudio-debug](https://github.com/microsoft/azuredatastudio-debug) topic: pushed_at:2024-06 star:0.0k fork:0.0k This extension forms the Azure Data Studio extension debugging experience
 - [microsoft/azuredatastudio-mysql](https://github.com/microsoft/azuredatastudio-mysql) topic: pushed_at:2024-06 star:0.0k fork:0.0k MySQL extension for Azure Data Studio
 - [microsoft/azuredatastudio-postgresql](https://github.com/microsoft/azuredatastudio-postgresql) topic: pushed_at:2024-01 star:0.2k fork:0.0k azuredatastudio-postgresql is an extension for Azure Data Studio that enables you to work with PostgreSQL databases
-- [microsoft/azuredatastudio-sqlite](https://github.com/microsoft/azuredatastudio-sqlite) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
+- [microsoft/azuredatastudio-sqlite](https://github.com/microsoft/azuredatastudio-sqlite) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/AzureDevOps-WSJF-Extension](https://github.com/microsoft/AzureDevOps-WSJF-Extension) topic:vsts,vsts-extension pushed_at:2024-08 star:0.0k fork:0.0k Sample work item form extension that auto calculates WSJF (weighted shortest job first) per work item and stores it in a work item field
 - [microsoft/AzureLTIAssessmentApp](https://github.com/microsoft/AzureLTIAssessmentApp) topic: pushed_at:2024-08 star:0.0k fork:0.0k Most modern Learning Management systems (LMS), such as Moodle using LTI protocol - an education technology, which represents a method for a learning system to connect with external applications.  Assessment App is an LTI extension, implemented as a web application, which can be integrated into LMS using LTI protocol to allow Educators to easily create and manage assessments.  The Assessment App aims to reduce time spent by Educators on assessment management because it works independently from any LMS, provides a unified user interface and eliminates the need to transfer the questions from one format to another when switching between different LMS.
+- [microsoft/AzureMonitor-Grafana](https://github.com/microsoft/AzureMonitor-Grafana) topic: pushed_at:2024-08 star:0.0k fork:0.0k A repository for a Grafana cloud-native plugin designed to enhance monitoring capabilities.
 - [microsoft/AzureSearch_JFK_Files](https://github.com/microsoft/AzureSearch_JFK_Files) topic: pushed_at:2024-07 star:0.4k fork:0.2k This repo contains the sample code of the Azure Search and Cognitive Services used to provide insights and analysis around the JFK Files.
-- [microsoft/backfill](https://github.com/microsoft/backfill) topic:build,cache,javascript,typescript pushed_at:2024-06 star:0.2k fork:0.0k A JavaScript caching library for reducing build time
+- [microsoft/backfill](https://github.com/microsoft/backfill) topic:build,cache,javascript,typescript pushed_at:2024-08 star:0.2k fork:0.0k A JavaScript caching library for reducing build time
 - [microsoft/banner-settings-ado-extension](https://github.com/microsoft/banner-settings-ado-extension) topic: pushed_at:2023-12 star:0.0k fork:0.0k Banner Settings provides a settings pane under Organization Settings to allow Project Collection Administrators to show sitewide banners. Alert your Azure DevOps users to upcoming changes or events without sending out mass emails. Compatible with Azure DevOps Services and Server.
 - [microsoft/bbs-node-reference](https://github.com/microsoft/bbs-node-reference) topic: pushed_at:2024-06 star:0.0k fork:0.0k TypeScript/node reference implementation of BBS signature
 - [microsoft/bc2dataverse](https://github.com/microsoft/bc2dataverse) topic: pushed_at:2022-10 star:0.0k fork:0.0k Integrate Business Central to Dataverse in a low code way 
@@ -5971,19 +5972,18 @@
 - [microsoft/BosqueLanguage](https://github.com/microsoft/BosqueLanguage) topic: pushed_at:2022-10 star:5.3k fork:0.3k The Bosque programming language is an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle. 
 - [microsoft/botbuilder-js](https://github.com/microsoft/botbuilder-js) topic:bot,bot-framework,bots,js,microsoft-bot-framework,microsoft-cognitive-services,nodejs,sdk pushed_at:2024-08 star:0.7k fork:0.3k Welcome to the Bot Framework SDK for JavaScript repository, which is the home for the libraries and packages that enable developers to build sophisticated bot applications using JavaScript. 
 - [microsoft/botbuilder-utils-js](https://github.com/microsoft/botbuilder-utils-js) topic:bot,microsoft-bot-framework pushed_at:2023-09 star:0.0k fork:0.0k Utilities and middleware for the Microsoft Bot Framework
-- [microsoft/botframework-cli](https://github.com/microsoft/botframework-cli) topic: pushed_at:2024-05 star:0.2k fork:0.1k CLI Tools for the Microsoft Bot Framework
+- [microsoft/botframework-cli](https://github.com/microsoft/botframework-cli) topic: pushed_at:2024-08 star:0.2k fork:0.1k CLI Tools for the Microsoft Bot Framework
 - [microsoft/BotFramework-Composer](https://github.com/microsoft/BotFramework-Composer) topic:bots,chatbots,conversational-ai,microsoft pushed_at:2024-07 star:0.9k fork:0.4k Dialog creation and management for Microsoft Bot Framework Applications
 - [microsoft/BotFramework-DirectLineJS](https://github.com/microsoft/BotFramework-DirectLineJS) topic: pushed_at:2024-04 star:0.2k fork:0.1k JavaScript client library for Microsoft Bot Framework's Direct Line protocol
-- [microsoft/BotFramework-Emulator](https://github.com/microsoft/BotFramework-Emulator) topic:bot,bot-builder,bot-framework-emulator,electron,microsoft-bot-framework,react,redux,sdk,typescript pushed_at:2024-06 star:1.8k fork:0.8k A desktop application that allows users to locally test and debug chat bots built with the Bot Framework SDK.
+- [microsoft/BotFramework-Emulator](https://github.com/microsoft/BotFramework-Emulator) topic:bot,bot-builder,bot-framework-emulator,electron,microsoft-bot-framework,react,redux,sdk,typescript pushed_at:2024-06 star:1.8k fork:0.7k A desktop application that allows users to locally test and debug chat bots built with the Bot Framework SDK.
 - [microsoft/botframework-solutions](https://github.com/microsoft/botframework-solutions) topic:assistant,azure-bot-service,bot,bot-framework,conversation,conversation-experiences,conversational-agents,conversational-ai,conversational-bots,conversational-interfaces,conversational-ui,microsoft,skills,va,virtual,virtual-assistant,virtualassistant pushed_at:2022-06 star:1.1k fork:0.5k Welcome to the Bot Framework Solutions repository which is the home for a set of templates and solutions to help build advanced conversational experiences using Azure Bot Service and Bot Framework. Microsoft Bot Framework is a comprehensive framework for building enterprise-grade conversational AI experiences.
 - [microsoft/botframework-webchat-chat-adapter](https://github.com/microsoft/botframework-webchat-chat-adapter) topic: pushed_at:2024-01 star:0.0k fork:0.0k Chat adapters for Bot Framework Web Chat
-- [microsoft/brainstorm-fluidframework-m365-azure](https://github.com/microsoft/brainstorm-fluidframework-m365-azure) topic: pushed_at:2023-07 star:0.0k fork:0.0k Demo app using the Fluid Framework, Microsoft Graph, Azure Event Hub, Azure Functions, SignalR, and more.
 - [microsoft/Broadcast-Development-Kit-Meeting-App](https://github.com/microsoft/Broadcast-Development-Kit-Meeting-App) topic: pushed_at:2023-10 star:0.0k fork:0.0k Sample meeting app for controlling the Teams Broadcast Extension
 - [microsoft/Broadcast-Development-Kit-Web-UI](https://github.com/microsoft/Broadcast-Development-Kit-Web-UI) topic: pushed_at:2023-10 star:0.0k fork:0.0k Sample UI for controlling the Teams Broadcast Extension
 - [microsoft/browsecloud](https://github.com/microsoft/browsecloud) topic:bayesian-networks,counting-grids,nlp,text-classification,text-processing,visualization pushed_at:2023-10 star:0.1k fork:0.0k A web app to create  and browse text visualizations for automated customer listening.
-- [microsoft/Build-your-own-copilot-Solution-Accelerator](https://github.com/microsoft/Build-your-own-copilot-Solution-Accelerator) topic: pushed_at:2024-08 star:0.1k fork:0.0k Solution Accelerator to show how to build your own AI Assistant
+- [microsoft/Build-your-own-copilot-Solution-Accelerator](https://github.com/microsoft/Build-your-own-copilot-Solution-Accelerator) topic: pushed_at:2024-08 star:0.1k fork:0.0k Solution Accelerator to show how to build your own copilot
 - [microsoft/build2016-vsmobile](https://github.com/microsoft/build2016-vsmobile) topic: pushed_at:2022-11 star:0.0k fork:0.0k Cordova demo app for Build2016 using ionic2 beta
-- [microsoft/c2pa-extension-validator](https://github.com/microsoft/c2pa-extension-validator) topic: pushed_at:2024-06 star:0.0k fork:0.0k Browser extension to validate C2PA digital assets
+- [microsoft/c2pa-extension-validator](https://github.com/microsoft/c2pa-extension-validator) topic: pushed_at:2024-08 star:0.0k fork:0.0k Browser extension to validate C2PA digital assets
 - [microsoft/CanvasTools-for-VOTT](https://github.com/microsoft/CanvasTools-for-VOTT) topic: pushed_at:2023-10 star:0.0k fork:0.0k CanvasTools for VOTT
 - [microsoft/cella](https://github.com/microsoft/cella) topic: pushed_at:2021-11 star:0.0k fork:0.0k Project Cella
 - [microsoft/Ceruleoscope](https://github.com/microsoft/Ceruleoscope) topic: pushed_at:2023-07 star:0.0k fork:0.0k Application Insights Availability Testing with Playwright on Azure Functions
@@ -5992,25 +5992,25 @@
 - [microsoft/charticulator](https://github.com/microsoft/charticulator) topic: pushed_at:2024-01 star:0.8k fork:0.1k Interactive Layout-Aware Construction of Bespoke Charts
 - [microsoft/charticulator-extensions](https://github.com/microsoft/charticulator-extensions) topic: pushed_at:2023-07 star:0.0k fork:0.0k Extensions for Charticulator
 - [microsoft/chase-the-basketball-sprites-extension](https://github.com/microsoft/chase-the-basketball-sprites-extension) topic: pushed_at:2020-11 star:0.0k fork:0.0k Custom sprites for Chase the Basketball tutorial
-- [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot) topic: pushed_at:2024-08 star:2.0k fork:0.7k 
+- [microsoft/chat-copilot](https://github.com/microsoft/chat-copilot) topic: pushed_at:2024-09 star:2.0k fork:0.7k 
 - [microsoft/chiron](https://github.com/microsoft/chiron) topic: pushed_at:2024-08 star:0.0k fork:0.0k In Greek mythology, Chiron is a wise centaur known for his knowledge of medicine and healing.
 - [microsoft/ClaimQR](https://github.com/microsoft/ClaimQR) topic: pushed_at:2022-09 star:0.0k fork:0.0k Issue and verify QR-encoded claims
-- [microsoft/clarity](https://github.com/microsoft/clarity) topic:clarity,heatmap,session-replay pushed_at:2024-08 star:2.0k fork:0.2k A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights.
+- [microsoft/clarity](https://github.com/microsoft/clarity) topic:clarity,heatmap,session-replay pushed_at:2024-08 star:2.1k fork:0.2k A behavioral analytics library that uses dom mutations and user interactions to generate aggregated insights.
 - [microsoft/clarity-js](https://github.com/microsoft/clarity-js) topic: pushed_at:2020-04 star:0.2k fork:0.0k This library has moved and is now available at
 - [microsoft/clarity-tools](https://github.com/microsoft/clarity-tools) topic: pushed_at:2020-07 star:0.0k fork:0.0k Sample tools and libraries to demonstrate clarity functionality
 - [microsoft/Cloud-for-Financial-Services---samples](https://github.com/microsoft/Cloud-for-Financial-Services---samples) topic:cloud-services,financial-services-cloud,fsi,fsi-sdk,getting-started,intelligent-appointment,microsoft pushed_at:2023-08 star:0.0k fork:0.0k Sample codes, guides and starter kits for Microsoft Cloud for Financial Services' products.
 - [microsoft/Cloud-PAW-Management](https://github.com/microsoft/Cloud-PAW-Management) topic:automation,azure,deployment,endpoint-manager,enterprise,gui,intune,key-vault,management,microsoft,nodejs,paw,privledged-access-workstation,security,spa,tool,typescript,webapp pushed_at:2022-08 star:0.1k fork:0.0k Simplify PAW and SPA for the masses, unify the MS Internal, and public PAW specs, and expedite deployment to ~5min or less.
 - [microsoft/code-push](https://github.com/microsoft/code-push) topic:codepush,cordova,react,react-native,reactnative pushed_at:2024-07 star:4.3k fork:0.5k A cloud service that enables Cordova and React Native developers to deploy mobile app updates directly to their users’ devices.
 - [microsoft/codetour](https://github.com/microsoft/codetour) topic:code-navigation,knowledge-sharing,onboarding,vscode,vscode-extension pushed_at:2024-04 star:4.3k fork:0.1k VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
-- [microsoft/Codex-Babylon](https://github.com/microsoft/Codex-Babylon) topic: pushed_at:2024-07 star:0.1k fork:0.0k Web app that uses Codex and BabylonJS to turn natural language into 3D objects and instructions
+- [microsoft/Codex-Babylon](https://github.com/microsoft/Codex-Babylon) topic: pushed_at:2024-08 star:0.1k fork:0.0k Web app that uses Codex and BabylonJS to turn natural language into 3D objects and instructions
 - [microsoft/coe-starter-kit](https://github.com/microsoft/coe-starter-kit) topic: pushed_at:2024-08 star:0.7k fork:0.2k 
 - [microsoft/cognitive-services-sdk-react-native-example](https://github.com/microsoft/cognitive-services-sdk-react-native-example) topic: pushed_at:2024-05 star:0.0k fork:0.0k Example repo integrating the JavaScript Speech SDK with a react native that runs on Android and iOS
 - [microsoft/cognitive-services-speech-sdk-js](https://github.com/microsoft/cognitive-services-speech-sdk-js) topic: pushed_at:2024-08 star:0.3k fork:0.1k Microsoft Azure Cognitive Services Speech SDK for JavaScript
 - [microsoft/Commercial-Marketplace-SaaS-API-Emulator](https://github.com/microsoft/Commercial-Marketplace-SaaS-API-Emulator) topic:azure,azure-marketplace,marketplace,microsoft,saas,saas-api pushed_at:2024-04 star:0.0k fork:0.0k An emulator for the Microsoft commercial marketplace SaaS Fulfillment APIs
 - [microsoft/community-organization-operations-suite](https://github.com/microsoft/community-organization-operations-suite) topic: pushed_at:2023-08 star:0.0k fork:0.0k Applications & tools for Community-Based Organizations (CBOs) to work together more effectively
 - [microsoft/companynewspcfcontrol](https://github.com/microsoft/companynewspcfcontrol) topic: pushed_at:2021-12 star:0.0k fork:0.0k The plugin provides News feature, by default getting news for a text from BING news, but can be customized for other news sources.
-- [microsoft/compose-language-service](https://github.com/microsoft/compose-language-service) topic:docker,docker-compose,vscode pushed_at:2024-08 star:0.0k fork:0.0k Language service for Docker Compose documents
-- [microsoft/connected-workbooks](https://github.com/microsoft/connected-workbooks) topic:excel,excel-export,office,office365,powerquery,xlsx,xlsx-export pushed_at:2024-07 star:0.1k fork:0.0k Microsoft backed, Excel advanced xlsx workbook generation JavaScript library
+- [microsoft/compose-language-service](https://github.com/microsoft/compose-language-service) topic:docker,docker-compose,vscode pushed_at:2024-08 star:0.1k fork:0.0k Language service for Docker Compose documents
+- [microsoft/connected-workbooks](https://github.com/microsoft/connected-workbooks) topic:excel,excel-export,office,office365,powerquery,xlsx,xlsx-export pushed_at:2024-08 star:0.1k fork:0.0k Microsoft backed, Excel advanced xlsx workbook generation JavaScript library
 - [microsoft/consent-banner](https://github.com/microsoft/consent-banner) topic: pushed_at:2024-02 star:0.0k fork:0.0k UI to control web site privacy settings
 - [microsoft/contact-card](https://github.com/microsoft/contact-card) topic: pushed_at:2024-08 star:0.0k fork:0.0k Contact card control
 - [microsoft/conversationlearner](https://github.com/microsoft/conversationlearner) topic:botframework,cognitive-services,react,typescript pushed_at:2022-02 star:0.0k fork:0.0k Contains all packages for running ConversationLearner bots.
@@ -6028,18 +6028,19 @@
 - [microsoft/dag-history-component](https://github.com/microsoft/dag-history-component) topic: pushed_at:2023-11 star:0.0k fork:0.0k Middleware to support directed acyclic graph structure of the history custom visual for PowerBI
 - [microsoft/damlev](https://github.com/microsoft/damlev) topic: pushed_at:2016-12 star:0.0k fork:0.0k :memo: The fastest JS implementation of the Damerau-Levenshtein edit distance
 - [microsoft/dapjs](https://github.com/microsoft/dapjs) topic: pushed_at:2018-02 star:0.0k fork:0.0k Node.js interface to DAP-OMSIS over USB/HID
+- [microsoft/data-formulator](https://github.com/microsoft/data-formulator) topic: pushed_at:2024-08 star:0.0k fork:0.0k 🪄 Create rich visualizations with AI 
 - [microsoft/data-protection-mapping-project](https://github.com/microsoft/data-protection-mapping-project) topic:ccpa,data-protection,gdpr,iso27001,iso27002,iso27701,legaltech,privacy,security,standards pushed_at:2023-06 star:0.2k fork:0.1k Open Source Data Protection/Privacy Regulatory Mapping Project
 - [microsoft/data-science-editor](https://github.com/microsoft/data-science-editor) topic:blockly,data,science pushed_at:2023-06 star:0.0k fork:0.0k A drag and drop data science editor
 - [microsoft/data-science-editor-excel](https://github.com/microsoft/data-science-editor-excel) topic: pushed_at:2023-02 star:0.0k fork:0.0k Excel integration for the Data Science Editor
 - [microsoft/Data-Sharing-Accelerator](https://github.com/microsoft/Data-Sharing-Accelerator) topic: pushed_at:2023-07 star:0.0k fork:0.0k This is a private staging repository for code related to the 2022 FEMA sponsored Cascadia Rising Exercise.
-- [microsoft/datashaper](https://github.com/microsoft/datashaper) topic: pushed_at:2024-08 star:0.1k fork:0.0k Processing engine and React components for constructing configuration-based data transformation and processing pipelines.
+- [microsoft/datashaper](https://github.com/microsoft/datashaper) topic: pushed_at:2024-08 star:0.2k fork:0.0k Processing engine and React components for constructing configuration-based data transformation and processing pipelines.
 - [microsoft/definitelytyped-header-parser](https://github.com/microsoft/definitelytyped-header-parser) topic: pushed_at:2020-06 star:0.0k fork:0.0k ℹ️ This repo has moved:
 - [microsoft/DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools) topic: pushed_at:2024-08 star:0.4k fork:0.2k Infrastructure for DefinitelyTyped
 - [microsoft/deoptexplorer-vscode](https://github.com/microsoft/deoptexplorer-vscode) topic: pushed_at:2024-07 star:0.7k fork:0.0k A VS Code extension to visualize deoptimizations in your JavaScript and TypeScript code running in V8 (i.e., NodeJS, Edge, Chrome, etc.).
 - [microsoft/design-to-code](https://github.com/microsoft/design-to-code) topic:application,form,system,validation,worker pushed_at:2023-07 star:0.0k fork:0.0k A system of development tools, and utilities used à la carte or as a suite to build enterprise-grade websites and applications.
 - [microsoft/DevAppsForTeams](https://github.com/microsoft/DevAppsForTeams) topic: pushed_at:2023-10 star:0.1k fork:0.0k Example application for integrating a custom LOB app into Microsoft Teams that demonstrates using MSAL/AAD, SSO, a bot, and the Teams JavaScript SDK.
 - [microsoft/developer-platform-website](https://github.com/microsoft/developer-platform-website) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
-- [microsoft/devicescript](https://github.com/microsoft/devicescript) topic:devicescript,embedded,esp32,iot,jacdac,rp2040,typescript pushed_at:2024-07 star:3.3k fork:0.1k TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
+- [microsoft/devicescript](https://github.com/microsoft/devicescript) topic:devicescript,embedded,esp32,iot,jacdac,rp2040,typescript pushed_at:2024-08 star:3.3k fork:0.1k TypeScript for Tiny IoT Devices (ESP32, RP2040, ...)
 - [microsoft/devicescript-gateway](https://github.com/microsoft/devicescript-gateway) topic:azure,devicescript,iot,mqtt pushed_at:2023-07 star:0.0k fork:0.0k Cloud gateway for IoT devices running DeviceScript
 - [microsoft/did-ccf](https://github.com/microsoft/did-ccf) topic: pushed_at:2023-09 star:0.0k fork:0.0k DID Method for the Confidential Consortium Framework (CCF)
 - [microsoft/DINT](https://github.com/microsoft/DINT) topic: pushed_at:2019-08 star:0.0k fork:0.0k DINT: Do I Need This, is a web browser extension aimed to help online shoppers make better purchasing decisions. Whenever a user tries to purchase an item similar to what they purchased earlier, DINT notifies them about the repeat purchase and gives them an opportunity to reflect on whether they really need it. We also allow users to set a saving 
@@ -6051,10 +6052,10 @@
 - [microsoft/domdiffing](https://github.com/microsoft/domdiffing) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [microsoft/dts-gen](https://github.com/microsoft/dts-gen) topic: pushed_at:2023-12 star:2.4k fork:0.1k dts-gen creates starter TypeScript definition files for any module or library.
 - [microsoft/dtslint](https://github.com/microsoft/dtslint) topic: pushed_at:2022-04 star:0.9k fork:0.1k A utility built on TSLint for linting TypeScript declaration (.d.ts) files.
-- [microsoft/DurableFunctionsMonitor](https://github.com/microsoft/DurableFunctionsMonitor) topic:azure-functions,durable-functions,vscode-extension pushed_at:2024-06 star:0.2k fork:0.0k A monitoring/debugging UI tool for Azure Durable Functions
+- [microsoft/DurableFunctionsMonitor](https://github.com/microsoft/DurableFunctionsMonitor) topic:azure-functions,durable-functions,vscode-extension pushed_at:2024-08 star:0.2k fork:0.0k A monitoring/debugging UI tool for Azure Durable Functions
 - [microsoft/DynamicProto-JS](https://github.com/microsoft/DynamicProto-JS) topic:inheritence,javascript,microsoft,minification,prototype,typescript pushed_at:2024-06 star:0.0k fork:0.0k Generates dynamic prototype methods for JavaScript objects (classes) by supporting method definition within their "class" constructor (like an instance version), this removes the need to expose internal properties on the instance (this) which results in better code minfication and therefore improved load times for your users.
 - [microsoft/Dynamics365Commerce.InStore](https://github.com/microsoft/Dynamics365Commerce.InStore) topic: pushed_at:2024-08 star:0.1k fork:0.0k Repository for hosting the Dynamics 365 Commerce in store Samples
-- [microsoft/edge-devtools-network-console](https://github.com/microsoft/edge-devtools-network-console) topic: pushed_at:2024-02 star:0.0k fork:0.0k An API exploration and development tool for Microsoft Edge (and Chromium) DevTools
+- [microsoft/edge-devtools-network-console](https://github.com/microsoft/edge-devtools-network-console) topic: pushed_at:2024-02 star:0.1k fork:0.0k An API exploration and development tool for Microsoft Edge (and Chromium) DevTools
 - [microsoft/edge-extension-settings-generator](https://github.com/microsoft/edge-extension-settings-generator) topic: pushed_at:2023-04 star:0.0k fork:0.0k A tool to generate ExtensionSettings group policy for Microsoft Edge.
 - [microsoft/edu-assignments-apps-sample](https://github.com/microsoft/edu-assignments-apps-sample) topic: pushed_at:2023-07 star:0.0k fork:0.0k Sample apps for Assignments integration
 - [microsoft/ELT](https://github.com/microsoft/ELT) topic: pushed_at:2023-06 star:0.0k fork:0.0k Embedded Learning Toolkit
@@ -6063,7 +6064,6 @@
 - [microsoft/epic-supervisor](https://github.com/microsoft/epic-supervisor) topic: pushed_at:2022-02 star:0.0k fork:0.0k :police_car: Supervisor tree for react-redux error handling
 - [microsoft/essex-build](https://github.com/microsoft/essex-build) topic: pushed_at:2024-06 star:0.0k fork:0.0k Project Essex Build Infrastructure for Frontend Systems
 - [microsoft/Essex-PowerBI-visuals-base](https://github.com/microsoft/Essex-PowerBI-visuals-base) topic: pushed_at:2023-04 star:0.0k fork:0.0k Experimental utilities for PowerBI Custom Visualizations
-- [microsoft/essex-toolkit](https://github.com/microsoft/essex-toolkit) topic: pushed_at:2024-08 star:0.0k fork:0.0k Provides a set of useful tools, utilities, reusable components, and React hooks that are designed to capture common components and utilities common among Essex Alpha team projects.
 - [microsoft/etcd3](https://github.com/microsoft/etcd3) topic:client-library,etcd,etcdv3,grpc,javascript,js,node,nodejs pushed_at:2024-06 star:0.5k fork:0.1k :bookmark: Node.js client for etcd3
 - [microsoft/Excel-Labs](https://github.com/microsoft/Excel-Labs) topic: pushed_at:2024-08 star:0.1k fork:0.0k 
 - [microsoft/exp-extension](https://github.com/microsoft/exp-extension) topic: pushed_at:2023-07 star:0.0k fork:0.0k Azure DevOps extension for Exp (Control Tower)
@@ -6075,13 +6075,13 @@
 - [microsoft/FeatureManagement-JavaScript](https://github.com/microsoft/FeatureManagement-JavaScript) topic: pushed_at:2024-08 star:0.0k fork:0.0k This library provides standardized APIs for enabling feature flags within JavaScript applications. Utilize this library to secure a consistent experience when developing applications that use patterns such as beta access, rollout, dark deployments, and more.
 - [microsoft/featuretimeline](https://github.com/microsoft/featuretimeline) topic:epics,feature-timeline,program-management,project-planning,roadmap,vsts,vsts-extension pushed_at:2022-12 star:0.1k fork:0.0k VSTS extension for managing and planning features
 - [microsoft/ficus](https://github.com/microsoft/ficus) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
-- [microsoft/figma-variables-import](https://github.com/microsoft/figma-variables-import) topic:design-tokens,figma,figma-plugin,tokens,variables pushed_at:2024-07 star:0.1k fork:0.0k Variables Import plugin for Figma
+- [microsoft/figma-variables-import](https://github.com/microsoft/figma-variables-import) topic:design-tokens,figma,figma-plugin,tokens,variables pushed_at:2024-08 star:0.1k fork:0.0k Variables Import plugin for Figma
 - [microsoft/flow2dts](https://github.com/microsoft/flow2dts) topic: pushed_at:2023-07 star:0.0k fork:0.0k Flow declarations to TypeScript declarations transpiler
 - [microsoft/fluent-ui-react](https://github.com/microsoft/fluent-ui-react) topic: pushed_at:2020-03 star:0.4k fork:0.1k An ecosystem for building highly customizable enterprise class user interfaces.
-- [microsoft/fluentui](https://github.com/microsoft/fluentui) topic:components,fluent,microsoft,office-ui-fabric,react,react-components pushed_at:2024-08 star:18.2k fork:2.7k Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
-- [microsoft/fluentui-charting-contrib](https://github.com/microsoft/fluentui-charting-contrib) topic:contrib-guide,developer-docs,experimentation,extensions,perf-tools,test-framework pushed_at:2024-08 star:0.0k fork:0.0k Contributor tools and guides for fluentui charting library
+- [microsoft/fluentui](https://github.com/microsoft/fluentui) topic:components,fluent,microsoft,office-ui-fabric,react,react-components pushed_at:2024-08 star:18.3k fork:2.7k Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
+- [microsoft/fluentui-charting-contrib](https://github.com/microsoft/fluentui-charting-contrib) topic:contrib-guide,developer-docs,experimentation,extensions,perf-tools,test-framework pushed_at:2024-09 star:0.0k fork:0.0k Contributor tools and guides for fluentui charting library
 - [microsoft/fluentui-contrib](https://github.com/microsoft/fluentui-contrib) topic: pushed_at:2024-08 star:0.0k fork:0.0k Monorepo for contributor extension packages to Fluent UI
-- [microsoft/fluentui-react-native](https://github.com/microsoft/fluentui-react-native) topic: pushed_at:2024-08 star:1.2k fork:0.2k A react-native component library that implements the Fluent Design System.
+- [microsoft/fluentui-react-native](https://github.com/microsoft/fluentui-react-native) topic: pushed_at:2024-09 star:1.2k fork:0.2k A react-native component library that implements the Fluent Design System.
 - [microsoft/fluentui-storybook-addons](https://github.com/microsoft/fluentui-storybook-addons) topic: pushed_at:2023-02 star:0.0k fork:0.0k Repository for custom addons used in Storybook for Fluent UI React
 - [microsoft/fluentui-token-pipeline](https://github.com/microsoft/fluentui-token-pipeline) topic:design-system,design-tokens,fluent,fluent-ui,fluentui,json,microsoft,tokens pushed_at:2024-06 star:0.0k fork:0.0k The Fluent UI token pipeline generates source code for Fluent UI libraries.
 - [microsoft/FluentUIEditableDetailsList](https://github.com/microsoft/FluentUIEditableDetailsList) topic:detailslist,editable-grid,editable-list,fluentui,reactjs,typescript pushed_at:2024-08 star:0.1k fork:0.0k Wrapper over Fluent UI DetailsList in React that allows in-place editability among other features
@@ -6093,16 +6093,16 @@
 - [microsoft/Form-Recognizer-Toolkit](https://github.com/microsoft/Form-Recognizer-Toolkit) topic: pushed_at:2024-07 star:0.1k fork:0.1k Form Recognizer Toolkit (FRTK) provides a set of components and features to accelerate development based on Form Recognizer service.
 - [microsoft/frontend-bootcamp](https://github.com/microsoft/frontend-bootcamp) topic:css,css-in-js,html,javascript,microsoft,office-ui-fabric-react,react,redux,redux-thunk,typescript pushed_at:2022-01 star:10.8k fork:1.2k Frontend Workshop from HTML/CSS/JS to TypeScript/React/Redux
 - [microsoft/fuse-webui](https://github.com/microsoft/fuse-webui) topic: pushed_at:2023-07 star:0.0k fork:0.0k reusable React components built on Office UI Fabric React
-- [microsoft/Game-Control-Puzzle-Event-Administration-Tools](https://github.com/microsoft/Game-Control-Puzzle-Event-Administration-Tools) topic: pushed_at:2024-07 star:0.0k fork:0.0k Event management software for the Microsoft Intern Game
+- [microsoft/Game-Control-Puzzle-Event-Administration-Tools](https://github.com/microsoft/Game-Control-Puzzle-Event-Administration-Tools) topic: pushed_at:2024-08 star:0.0k fork:0.0k Event management software for the Microsoft Intern Game
 - [microsoft/gatsby-remark-makecode](https://github.com/microsoft/gatsby-remark-makecode) topic: pushed_at:2023-07 star:0.0k fork:0.0k Gatsby plugin to render MakeCode snippets
 - [microsoft/gatsby-starter-uifabric](https://github.com/microsoft/gatsby-starter-uifabric) topic: pushed_at:2023-06 star:0.0k fork:0.0k Gatsby.js starter for UI Fabric projects
-- [microsoft/genaiscript](https://github.com/microsoft/genaiscript) topic:ai,chatgpt,genai,genaistack,gpt,gpt4,javascript,llm,prompt-engineering,scripting,typescript,vscode-extension pushed_at:2024-08 star:0.1k fork:0.0k Generative AI Scripting
+- [microsoft/genaiscript](https://github.com/microsoft/genaiscript) topic:ai,chatgpt,genai,genaistack,gpt,gpt4,javascript,llm,prompt-engineering,scripting,typescript,vscode-extension pushed_at:2024-08 star:0.2k fork:0.0k Generative AI Scripting
 - [microsoft/globe](https://github.com/microsoft/globe) topic:g11n,globalization,globe,i18n,internalization,microsoft pushed_at:2024-02 star:0.0k fork:0.0k Globalization utilities
 - [microsoft/gnls](https://github.com/microsoft/gnls) topic:chromium,gn,language-server,vscode pushed_at:2024-02 star:0.0k fork:0.0k GN language server and extensions
 - [microsoft/google-play-vsts-extension](https://github.com/microsoft/google-play-vsts-extension) topic: pushed_at:2024-08 star:0.1k fork:0.1k Visual Studio Team Services (VSTS) extension for performing continuous delivery to the Google Play store from your automated CI builds
 - [microsoft/graph-drilldown](https://github.com/microsoft/graph-drilldown) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/graphitation](https://github.com/microsoft/graphitation) topic:graphql,tooling,typescript pushed_at:2024-08 star:0.1k fork:0.0k GraphQL tooling & runtime support needed for MS Teams and beyond
-- [microsoft/graspologic-js](https://github.com/microsoft/graspologic-js) topic: pushed_at:2023-09 star:0.0k fork:0.0k A high-performance modern set of graph rendering components, which enables users to visualize large graph datasets on the web.
+- [microsoft/graspologic-js](https://github.com/microsoft/graspologic-js) topic: pushed_at:2024-08 star:0.0k fork:0.0k A high-performance modern set of graph rendering components, which enables users to visualize large graph datasets on the web.
 - [microsoft/griffel](https://github.com/microsoft/griffel) topic:css,css-in-js,react pushed_at:2024-08 star:1.2k fork:0.1k CSS-in-JS with ahead-of-time compilation ⚡️
 - [microsoft/hack-workshop-lobe](https://github.com/microsoft/hack-workshop-lobe) topic:hackathon,image-classification,lobe,lobe-ai,machine-learning,ml,tensorflowjs,workshop pushed_at:2024-01 star:0.0k fork:0.0k Workshop for student hackathons focused on Lobe.ai
 - [microsoft/hackingstem-bbc-ultrasonic-microbit](https://github.com/microsoft/hackingstem-bbc-ultrasonic-microbit) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
@@ -6118,7 +6118,7 @@
 - [microsoft/idevice-app-launcher](https://github.com/microsoft/idevice-app-launcher) topic: pushed_at:2019-03 star:0.0k fork:0.0k An NPM package to orchestrate the use of libimobiledevice and ideviceinstaller homebrew packages and allow launching iOS apps on physical devices.
 - [microsoft/IIS.WebManager](https://github.com/microsoft/IIS.WebManager) topic: pushed_at:2024-02 star:0.2k fork:0.1k Web Manager for managing IIS
 - [microsoft/infinite-monkey](https://github.com/microsoft/infinite-monkey) topic: pushed_at:2020-09 star:0.0k fork:0.0k A tool to generate fake (but working!) node.js code
-- [microsoft/inshellisense](https://github.com/microsoft/inshellisense) topic:autocomplete,bash,cli,fish,linux,macos,nushell,powershell,pwsh,terminal,windows,xonsh,zsh pushed_at:2024-06 star:8.3k fork:0.2k IDE style command line auto complete
+- [microsoft/inshellisense](https://github.com/microsoft/inshellisense) topic:autocomplete,bash,cli,fish,linux,macos,nushell,powershell,pwsh,terminal,windows,xonsh,zsh pushed_at:2024-08 star:8.3k fork:0.2k IDE style command line auto complete
 - [microsoft/Inventory-Visibility-Add-in-Examples](https://github.com/microsoft/Inventory-Visibility-Add-in-Examples) topic: pushed_at:2024-08 star:0.0k fork:0.0k Sample code for Dynamics 365 Supply Chain Management - Inventory Visibility Add-in
 - [microsoft/ionic-azure-conference-app](https://github.com/microsoft/ionic-azure-conference-app) topic: pushed_at:2016-10 star:0.0k fork:0.0k A demo of the Ionic 2 framework - using TypeScript and Azure App Services.
 - [microsoft/iot-cardboard-js](https://github.com/microsoft/iot-cardboard-js) topic: pushed_at:2024-08 star:0.1k fork:0.0k iot-cardboard-js is a React library for building experiences for IoT applications
@@ -6131,20 +6131,21 @@
 - [microsoft/jmeter-performance-analyzer-devops-extension](https://github.com/microsoft/jmeter-performance-analyzer-devops-extension) topic: pushed_at:2024-04 star:0.0k fork:0.0k This task enables to run Performance testng using Apache Jmeter, Analyze report and post results. This task uses Apache Jmeter 5.5 and expects a valid parametrized JMX File, Any input Files, and property file for JMX. The task runs the jmx files according to the configured values in JMX and publishes the result to build artifacts and $web of your storage container. Provides control to fail pipeline if JMeter test fails More details at https://marketplace.visualstudio.com/items?itemName=id-az-pipeline.jmeter-perf-analyzer. You need to enable static hosting in the storage container in order to be able to view html results.
 - [microsoft/jupyter-jacdac](https://github.com/microsoft/jupyter-jacdac) topic: pushed_at:2022-07 star:0.0k fork:0.0k Jacdac widget for Jupyter Lab
 - [microsoft/just](https://github.com/microsoft/just) topic:build,javascript,typescript pushed_at:2024-08 star:1.9k fork:0.1k The task library that just works
-- [microsoft/keyborg](https://github.com/microsoft/keyborg) topic: pushed_at:2024-08 star:0.0k fork:0.0k A library that tracks browser keyboard focus state that powers tabster 
+- [microsoft/keyborg](https://github.com/microsoft/keyborg) topic: pushed_at:2024-09 star:0.0k fork:0.0k A library that tracks browser keyboard focus state that powers tabster 
 - [microsoft/kGrid](https://github.com/microsoft/kGrid) topic: pushed_at:2015-11 star:0.0k fork:0.0k A grid control with responsive UI
 - [microsoft/kiota-typescript](https://github.com/microsoft/kiota-typescript) topic:javascript,kiota,openapi,rest-api,typescript pushed_at:2024-08 star:0.0k fork:0.0k TypeScript libraries for Kiota-generated API clients.
 - [microsoft/kubeflow-pipeline-azdo-task](https://github.com/microsoft/kubeflow-pipeline-azdo-task) topic: pushed_at:2021-10 star:0.0k fork:0.0k Kubeflow pipeline tasks to upload pipeline, create an experiment and trigger pipeline runs both in synchronous and asynchronous way.
 - [microsoft/kubeflow-pipeline-github-action](https://github.com/microsoft/kubeflow-pipeline-github-action) topic: pushed_at:2021-07 star:0.0k fork:0.0k GitHub actions to deploy and run Kubeflow pipelines with Microsoft Azure
 - [microsoft/KustoTableUI](https://github.com/microsoft/KustoTableUI) topic:kusto,reactjs,table,typescript,ui-components pushed_at:2024-06 star:0.0k fork:0.0k  A component to render an editable table UI dynamically based on the schema and contents of a Kusto table.
 - [microsoft/lading](https://github.com/microsoft/lading) topic: pushed_at:2023-02 star:0.0k fork:0.0k Federated bundles as a service
+- [microsoft/learn-microsoft-graph-connectors-typescript](https://github.com/microsoft/learn-microsoft-graph-connectors-typescript) topic:microsoft-365,microsoft-copilot,microsoft-copilot-for-microsoft-365,microsoft-graph-connectors,typescript pushed_at:2024-08 star:0.0k fork:0.0k Project for the Build Microsoft Graph connectors with TypeScript learn module
 - [microsoft/LearnTogether-Collaboration-Brainstorm-App](https://github.com/microsoft/LearnTogether-Collaboration-Brainstorm-App) topic: pushed_at:2023-10 star:0.0k fork:0.0k Demo apps for the Learn Together: Developing Real-Time Collaborative Apps with Azure, Microsoft 365, Power Platform, and GitHub event. 
 - [microsoft/limitur](https://github.com/microsoft/limitur) topic: pushed_at:2022-08 star:0.0k fork:0.0k Ultra-fast Redis rate limiter
 - [microsoft/linkcheckermd](https://github.com/microsoft/linkcheckermd) topic: pushed_at:2023-06 star:0.0k fork:0.0k A VSCode extension that check links in Markdown to ensure they are valid.
 - [microsoft/live-share-sdk](https://github.com/microsoft/live-share-sdk) topic:collaboration,datastructure,distributed,fluid,fluid-framework,live-share,microsoft,microsoft-teams,realtime pushed_at:2024-08 star:0.1k fork:0.0k A framework for building collaborative Microsoft Teams and M365 experiences.  
 - [microsoft/lsif-node](https://github.com/microsoft/lsif-node) topic: pushed_at:2024-08 star:0.2k fork:0.0k Define an index format for Language Servers
 - [microsoft/lsp-notebook-concat](https://github.com/microsoft/lsp-notebook-concat) topic: pushed_at:2023-06 star:0.0k fork:0.0k NPM module for concatenation of cells for use in a VS code language server
-- [microsoft/ltongappspace](https://github.com/microsoft/ltongappspace) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
+- [microsoft/ltongappspace](https://github.com/microsoft/ltongappspace) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/m365advocacy-templates](https://github.com/microsoft/m365advocacy-templates) topic: pushed_at:2024-08 star:0.0k fork:0.0k Project templates for Microsoft 365 extensions
 - [microsoft/makecode-holiday](https://github.com/microsoft/makecode-holiday) topic: pushed_at:2022-11 star:0.0k fork:0.0k Holiday card repository - pxt target
 - [microsoft/makecode-minecraft-castle-builder](https://github.com/microsoft/makecode-minecraft-castle-builder) topic: pushed_at:2024-03 star:0.0k fork:0.0k Build castles in Microsoft Makecode for Minecraft Education
@@ -6155,9 +6156,9 @@
 - [microsoft/makecode-minecraft-space](https://github.com/microsoft/makecode-minecraft-space) topic: pushed_at:2024-03 star:0.0k fork:0.0k A MakeCode for Minecraft Education extension that builds planets and the solar system
 - [microsoft/maker-stl-gen](https://github.com/microsoft/maker-stl-gen) topic: pushed_at:2023-07 star:0.0k fork:0.0k A CLI for generating STL for 3D printed maker board mounts
 - [microsoft/maker.js](https://github.com/microsoft/maker.js) topic:arc,bezier,cad,circle,cnc,draw,drawing,dxf,fonts,geometry,laser,line,maker,openjscad,pdf,rectangle,svg,vector pushed_at:2024-08 star:1.8k fork:0.3k 📐⚙ 2D vector line drawing and shape modeling for CNC and laser cutters.
-- [microsoft/mccf-vscode-extension](https://github.com/microsoft/mccf-vscode-extension) topic:azure,azure-managed-ccf,ccf,vscode,vscode-extension pushed_at:2024-06 star:0.0k fork:0.0k Visual Studio Code extension for Azure Managed CCF (Confidential Consortium Framework)
+- [microsoft/mccf-vscode-extension](https://github.com/microsoft/mccf-vscode-extension) topic:azure,azure-managed-ccf,ccf,vscode,vscode-extension pushed_at:2024-08 star:0.0k fork:0.0k Visual Studio Code extension for Azure Managed CCF (Confidential Consortium Framework)
 - [microsoft/MentalHealthPlatform](https://github.com/microsoft/MentalHealthPlatform) topic: pushed_at:2023-07 star:0.1k fork:0.0k A mental health platform that can be deployed for universities or companies
-- [microsoft/MHA](https://github.com/microsoft/MHA) topic:addin,office-addin,outlook pushed_at:2024-08 star:0.3k fork:0.0k Message Header Analyzer Add-in For Outlook
+- [microsoft/MHA](https://github.com/microsoft/MHA) topic:addin,office-addin,outlook pushed_at:2024-08 star:0.3k fork:0.1k Message Header Analyzer Add-in For Outlook
 - [microsoft/micro-frontend-react](https://github.com/microsoft/micro-frontend-react) topic: pushed_at:2024-05 star:0.1k fork:0.0k 
 - [microsoft/microbit-chrome](https://github.com/microsoft/microbit-chrome) topic: pushed_at:2016-11 star:0.0k fork:0.0k Prototype chrome addon that exposes the micro:bit's serial output to webpages.
 - [microsoft/microbit-robot](https://github.com/microsoft/microbit-robot) topic:edu,makecode,microbit,robot pushed_at:2024-07 star:0.0k fork:0.0k Universal Robot blocks for MakeCode micro:bit - beta
@@ -6173,10 +6174,10 @@
 - [microsoft/ml4f](https://github.com/microsoft/ml4f) topic:embedded,machine-learning,tensorflow pushed_at:2024-05 star:0.0k fork:0.0k ML model compiler for Cortex-M4F
 - [microsoft/mls-excel-app](https://github.com/microsoft/mls-excel-app) topic: pushed_at:2023-06 star:0.0k fork:0.0k Microsoft Machine Learning Server Excel Add-in
 - [microsoft/mnemosyne](https://github.com/microsoft/mnemosyne) topic: pushed_at:2024-04 star:0.0k fork:0.0k In Greek mythology and ancient Greek religion, pronounced is the goddess of memory.
-- [microsoft/monosize](https://github.com/microsoft/monosize) topic: pushed_at:2024-08 star:0.0k fork:0.0k Bundle size tooling for monorepos
+- [microsoft/monosize](https://github.com/microsoft/monosize) topic: pushed_at:2024-09 star:0.0k fork:0.0k Bundle size tooling for monorepos
 - [microsoft/msagljs](https://github.com/microsoft/msagljs) topic:graph,layout pushed_at:2024-08 star:0.1k fork:0.0k A JavaScript graph layout engine: port of MSAGL
 - [microsoft/Msdyn365.Commerce.Online](https://github.com/microsoft/Msdyn365.Commerce.Online) topic: pushed_at:2024-08 star:0.0k fork:0.0k Dynamics 365 Commerce online project
-- [microsoft/msfs-avionics-mirror](https://github.com/microsoft/msfs-avionics-mirror) topic: pushed_at:2024-05 star:0.1k fork:0.0k MSFS Avionics Source Code Mirror
+- [microsoft/msfs-avionics-mirror](https://github.com/microsoft/msfs-avionics-mirror) topic: pushed_at:2024-08 star:0.1k fork:0.0k MSFS Avionics Source Code Mirror
 - [microsoft/msgraph-edu-sample](https://github.com/microsoft/msgraph-edu-sample) topic: pushed_at:2019-11 star:0.0k fork:0.0k Showcase Microsoft Graph in a real-world application.
 - [microsoft/msr-morello-automation](https://github.com/microsoft/msr-morello-automation) topic: pushed_at:2022-12 star:0.0k fork:0.0k Tooling for driving the MSR Morello cluster
 - [microsoft/msrgamut](https://github.com/microsoft/msrgamut) topic: pushed_at:2024-08 star:0.0k fork:0.0k MSR Gamut: A Design Probe to Understand How Data Scientists Understand Machine Learning Models
@@ -6185,12 +6186,12 @@
 - [microsoft/mwx-teams-spo-nav](https://github.com/microsoft/mwx-teams-spo-nav) topic: pushed_at:2023-07 star:0.0k fork:0.0k Adds navigation back into SharePoint sites embedded in Microsoft Teams
 - [microsoft/news-threads-client](https://github.com/microsoft/news-threads-client) topic: pushed_at:2022-05 star:0.0k fork:0.0k The News Threads Client is a web application for exploring and tracing news provenance across time over a collection of documents.
 - [microsoft/node-diagnostic-channel](https://github.com/microsoft/node-diagnostic-channel) topic: pushed_at:2024-01 star:0.1k fork:0.0k This package provides a common pub/sub interface for diagnostic information in node projects.
-- [microsoft/node-fast-plist](https://github.com/microsoft/node-fast-plist) topic: pushed_at:2024-06 star:0.0k fork:0.0k A fast PLIST parser
+- [microsoft/node-fast-plist](https://github.com/microsoft/node-fast-plist) topic: pushed_at:2024-08 star:0.0k fork:0.0k A fast PLIST parser
 - [microsoft/node-gc-signals](https://github.com/microsoft/node-gc-signals) topic: pushed_at:2019-06 star:0.0k fork:0.0k 
 - [microsoft/node-jsonc-parser](https://github.com/microsoft/node-jsonc-parser) topic: pushed_at:2024-08 star:0.6k fork:0.1k Scanner and parser for JSON with comments.
-- [microsoft/node-pty](https://github.com/microsoft/node-pty) topic:conpty,forkpty,openpty,pseudoterminal,pty,terminal,winpty pushed_at:2024-08 star:1.4k fork:0.2k Fork pseudoterminals in Node.JS
+- [microsoft/node-pty](https://github.com/microsoft/node-pty) topic:conpty,forkpty,openpty,pseudoterminal,pty,terminal,winpty pushed_at:2024-08 star:1.5k fork:0.2k Fork pseudoterminals in Node.JS
 - [microsoft/node-red-contrib-jacdac](https://github.com/microsoft/node-red-contrib-jacdac) topic:jacdac,node-red pushed_at:2023-07 star:0.0k fork:0.0k Jacdac nodes for Node-RED
-- [microsoft/node-request-light](https://github.com/microsoft/node-request-light) topic: pushed_at:2024-07 star:0.0k fork:0.0k A light weight nodejs request library with proxy support. Intended to be used by VSCode extensions
+- [microsoft/node-request-light](https://github.com/microsoft/node-request-light) topic: pushed_at:2024-08 star:0.0k fork:0.0k A light weight nodejs request library with proxy support. Intended to be used by VSCode extensions
 - [microsoft/NoSQLProvider](https://github.com/microsoft/NoSQLProvider) topic: pushed_at:2023-07 star:0.1k fork:0.0k A cross-browser/platform indexeddb-like client library
 - [microsoft/notebook-extension-samples](https://github.com/microsoft/notebook-extension-samples) topic: pushed_at:2023-01 star:0.0k fork:0.0k Sample code illustrating the VS Code notebook API (draft)
 - [microsoft/nova-facade](https://github.com/microsoft/nova-facade) topic: pushed_at:2024-08 star:0.0k fork:0.0k Runtime support for the. JS Nova pattern, which allows sharing of High-Value-Components across M365
@@ -6201,9 +6202,9 @@
 - [microsoft/omnichannel-amsclient](https://github.com/microsoft/omnichannel-amsclient) topic: pushed_at:2023-12 star:0.0k fork:0.0k Microsoft Omnichannel AMSClient
 - [microsoft/omnichannel-chat-sdk](https://github.com/microsoft/omnichannel-chat-sdk) topic: pushed_at:2024-08 star:0.0k fork:0.0k Headless Chat SDK to build your own chat widget against Dynamics 365 Omnichannel Services.
 - [microsoft/omnichannel-chat-sdk-samples](https://github.com/microsoft/omnichannel-chat-sdk-samples) topic: pushed_at:2024-01 star:0.0k fork:0.0k Omnichannel Chat SDK Samples
-- [microsoft/omnichannel-chat-widget](https://github.com/microsoft/omnichannel-chat-widget) topic: pushed_at:2024-07 star:0.0k fork:0.0k Omnichannel Live Chat Widget UI Components offers a re-usable component-based library to help create a custom chat widget that can be connected to the Dynamics 365 Customer Service experience.
-- [microsoft/omnichannel-ic3core](https://github.com/microsoft/omnichannel-ic3core) topic: pushed_at:2024-01 star:0.0k fork:0.0k Microsoft Omnichannel IC3Core
-- [microsoft/omnichannel-sdk](https://github.com/microsoft/omnichannel-sdk) topic: pushed_at:2024-06 star:0.0k fork:0.0k Microsoft Omnichannel SDK
+- [microsoft/omnichannel-chat-widget](https://github.com/microsoft/omnichannel-chat-widget) topic: pushed_at:2024-08 star:0.0k fork:0.0k Omnichannel Live Chat Widget UI Components offers a re-usable component-based library to help create a custom chat widget that can be connected to the Dynamics 365 Customer Service experience.
+- [microsoft/omnichannel-ic3core](https://github.com/microsoft/omnichannel-ic3core) topic: pushed_at:2024-08 star:0.0k fork:0.0k Microsoft Omnichannel IC3Core
+- [microsoft/omnichannel-sdk](https://github.com/microsoft/omnichannel-sdk) topic: pushed_at:2024-08 star:0.0k fork:0.0k Microsoft Omnichannel SDK
 - [microsoft/onnxjs](https://github.com/microsoft/onnxjs) topic: pushed_at:2021-12 star:1.7k fork:0.1k ONNX.js: run ONNX models using JavaScript
 - [microsoft/onnxjs-demo](https://github.com/microsoft/onnxjs-demo) topic: pushed_at:2022-01 star:0.1k fork:0.1k demos to show the capabilities of ONNX.js
 - [microsoft/onnxruntime-nextjs-template](https://github.com/microsoft/onnxruntime-nextjs-template) topic: pushed_at:2023-01 star:0.1k fork:0.0k 
@@ -6211,20 +6212,20 @@
 - [microsoft/onnxruntime-web-demo](https://github.com/microsoft/onnxruntime-web-demo) topic: pushed_at:2023-07 star:0.2k fork:0.0k demos to show the capabilities of ONNX Runtime Web
 - [microsoft/openpaisdk](https://github.com/microsoft/openpaisdk) topic: pushed_at:2022-12 star:0.0k fork:0.0k OpenPAI SDK
 - [microsoft/openpaivscode](https://github.com/microsoft/openpaivscode) topic: pushed_at:2022-12 star:0.0k fork:0.0k Extension to connect OpenPAI clusters, submit AI jobs, simulate jobs locally, manage files, and so on.
-- [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) topic:github,github-app,management,microsoft,ospo,portal pushed_at:2024-08 star:0.5k fork:0.1k Microsoft's monolithic, opinionated Open Source Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰
+- [microsoft/opensource-management-portal](https://github.com/microsoft/opensource-management-portal) topic:github,github-app,management,microsoft,ospo,portal pushed_at:2024-09 star:0.5k fork:0.1k Microsoft's monolithic, opinionated Open Source Management Portal enabling enterprise scale self-service powered by the GitHub API 🏔🧑‍💻🧰
 - [microsoft/opentelemetry-azure-monitor-js](https://github.com/microsoft/opentelemetry-azure-monitor-js) topic:applicationinsights,azure,azure-monitor,javascript,nodejs,opentelemetry pushed_at:2021-02 star:0.0k fork:0.0k This repository is home to Azure Monitor Exporters and SDKs for the OpenTelemetry JavaScript Project (https://github.com/open-telemetry/opentelemetry-js)
 - [microsoft/opstractor](https://github.com/microsoft/opstractor) topic: pushed_at:2023-10 star:0.0k fork:0.0k An extension to trace, extract, and measure ops from running PyTorch models
 - [microsoft/p-graph](https://github.com/microsoft/p-graph) topic: pushed_at:2024-06 star:0.1k fork:0.0k Promise graph
-- [microsoft/p-profiler](https://github.com/microsoft/p-profiler) topic: pushed_at:2024-06 star:0.0k fork:0.0k A promise profiler
+- [microsoft/p-profiler](https://github.com/microsoft/p-profiler) topic: pushed_at:2024-09 star:0.0k fork:0.0k A promise profiler
 - [microsoft/package-inherit](https://github.com/microsoft/package-inherit) topic: pushed_at:2023-07 star:0.1k fork:0.0k A utility to help package.json in a monorepo in sync with an "inheritance" model
 - [microsoft/PageTour-SDK](https://github.com/microsoft/PageTour-SDK) topic: pushed_at:2024-07 star:0.0k fork:0.0k A lightweight Typescript SDK  for making tours on a web page 
-- [microsoft/PARAKEET](https://github.com/microsoft/PARAKEET) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
+- [microsoft/PARAKEET](https://github.com/microsoft/PARAKEET) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/parallax-loader](https://github.com/microsoft/parallax-loader) topic:configuration,parallax,typescript pushed_at:2024-07 star:0.0k fork:0.0k parallax-loader
 - [microsoft/parallel-prettier](https://github.com/microsoft/parallel-prettier) topic:formatter,nodejs,prettier pushed_at:2024-06 star:0.2k fork:0.0k Concurrent prettier runner
 - [microsoft/paris](https://github.com/microsoft/paris) topic:domain-driven-design,library,typescript pushed_at:2023-10 star:0.1k fork:0.0k TypeScript library for implementing Domain-Driven Design in web apps
 - [microsoft/pipelines-appservice-lib](https://github.com/microsoft/pipelines-appservice-lib) topic: pushed_at:2024-07 star:0.0k fork:0.0k Common node utilities to build the pipeline task or actions in order to deploy to Azure App Service
 - [microsoft/PlanetaryComputerDataCatalog](https://github.com/microsoft/PlanetaryComputerDataCatalog) topic:aiforearth pushed_at:2024-08 star:0.0k fork:0.0k Data catalog for the Microsoft Planetary Computer
-- [microsoft/playwright](https://github.com/microsoft/playwright) topic:automation,chrome,chromium,e2e-testing,electron,end-to-end-testing,firefox,javascript,playwright,test,test-automation,testing,testing-tools,web,webkit pushed_at:2024-08 star:64.8k fork:3.5k Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
+- [microsoft/playwright](https://github.com/microsoft/playwright) topic:automation,chrome,chromium,e2e-testing,electron,end-to-end-testing,firefox,javascript,playwright,test,test-automation,testing,testing-tools,web,webkit pushed_at:2024-08 star:65.2k fork:3.5k Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. 
 - [microsoft/playwright-examples](https://github.com/microsoft/playwright-examples) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [microsoft/playwright-test](https://github.com/microsoft/playwright-test) topic:e2e-tests,playwright,test-runners pushed_at:2021-06 star:0.8k fork:0.0k Build a cross-browser end-to-end test suite with Playwright.
 - [microsoft/playwright-vscode](https://github.com/microsoft/playwright-vscode) topic:playwright,testing,typescript,vscode,vscode-extension pushed_at:2024-08 star:0.3k fork:0.1k Playwright Test Visual Studio Code integration
@@ -6235,7 +6236,7 @@
 - [microsoft/powerbi-client-react](https://github.com/microsoft/powerbi-client-react) topic: pushed_at:2023-05 star:0.3k fork:0.1k Power BI for React which provides components and services to enabling developers to easily embed Power BI reports into their applications.
 - [microsoft/powerbi-client-vue-js](https://github.com/microsoft/powerbi-client-vue-js) topic: pushed_at:2024-06 star:0.2k fork:0.0k Power BI Vue.js component. This library lets you embed Power BI report, dashboard, dashboard tile, report visual, or Q&A in your Vue.js application.
 - [microsoft/PowerBI-extensibility-text-utility](https://github.com/microsoft/PowerBI-extensibility-text-utility) topic: pushed_at:2016-08 star:0.0k fork:0.0k A utility for doing speedy text measurement
-- [microsoft/PowerBI-JavaScript](https://github.com/microsoft/PowerBI-JavaScript) topic: pushed_at:2024-07 star:1.0k fork:0.5k JavaScript library for embedding Power BI into your apps. Check out the docs website and wiki for more information.
+- [microsoft/PowerBI-JavaScript](https://github.com/microsoft/PowerBI-JavaScript) topic: pushed_at:2024-07 star:1.1k fork:0.5k JavaScript library for embedding Power BI into your apps. Check out the docs website and wiki for more information.
 - [microsoft/powerbi-models](https://github.com/microsoft/powerbi-models) topic: pushed_at:2024-07 star:0.0k fork:0.0k Contains JavaScript & TypeScript object models for Microsoft Power BI JavaScript SDK
 - [microsoft/powerbi-report-authoring](https://github.com/microsoft/powerbi-report-authoring) topic: pushed_at:2022-04 star:0.0k fork:0.0k A library for authoring Power BI reports while embedded into your apps. Provides service which makes it easy to change report and visual elements in session. It gives APIs such as creating visual, changing visual properties, etc ...
 - [microsoft/powerbi-report-viewer](https://github.com/microsoft/powerbi-report-viewer) topic:embedded,powerbi,powerbi-embedded,reatc,typescript pushed_at:2022-03 star:0.0k fork:0.0k Code base for Power BI report viewer react component  
@@ -6253,7 +6254,7 @@
 - [microsoft/powerbi-visuals-drilldown-cartogram](https://github.com/microsoft/powerbi-visuals-drilldown-cartogram) topic: pushed_at:2022-09 star:0.0k fork:0.0k powerbi-visuals-drilldown-cartogram
 - [microsoft/powerbi-visuals-drilldown-choropleth](https://github.com/microsoft/powerbi-visuals-drilldown-choropleth) topic: pushed_at:2023-11 star:0.0k fork:0.0k powerbi-visuals-drilldown-choropleth
 - [microsoft/powerbi-visuals-drilldown-player](https://github.com/microsoft/powerbi-visuals-drilldown-player) topic:powerbi,powerbi-visuals pushed_at:2023-06 star:0.0k fork:0.0k powerbi-visuals-drilldown-player
-- [microsoft/powerbi-visuals-dualkpi](https://github.com/microsoft/powerbi-visuals-dualkpi) topic: pushed_at:2023-12 star:0.0k fork:0.0k A visual for displaying two correlated KPIs within a single visual.
+- [microsoft/powerbi-visuals-dualkpi](https://github.com/microsoft/powerbi-visuals-dualkpi) topic: pushed_at:2024-08 star:0.0k fork:0.0k A visual for displaying two correlated KPIs within a single visual.
 - [microsoft/powerbi-visuals-enhancedscatter](https://github.com/microsoft/powerbi-visuals-enhancedscatter) topic: pushed_at:2024-06 star:0.0k fork:0.0k A few more properties were added to the existing scatter chart visual, including shapes as markers, background image support, and developer crosshairs for positioning elements onto an image background.
 - [microsoft/PowerBI-visuals-ForceGraph](https://github.com/microsoft/PowerBI-visuals-ForceGraph) topic:powerbi,powerbi-visuals-forcegraph pushed_at:2024-08 star:0.0k fork:0.1k Repo for Power BI Force Graph custom visual
 - [microsoft/powerbi-visuals-gantt](https://github.com/microsoft/powerbi-visuals-gantt) topic: pushed_at:2024-08 star:0.1k fork:0.1k A Gantt chart is a type of bar chart which illustrates a project timeline or schedule. The Gantt Chart visual shows the Tasks, Start Dates, Durations, % Complete, and Resources for a project. The Gantt Chart visual can be used to show current schedule status using percent-complete shadings and a vertical "TODAY" line. The Legend may be used to group or filter tasks based upon data values.
@@ -6308,14 +6309,14 @@
 - [microsoft/powerplatform-developerhub](https://github.com/microsoft/powerplatform-developerhub) topic: pushed_at:2023-05 star:0.0k fork:0.0k Repo for sample files used in the developer hub for the Power Platform
 - [microsoft/powerplatform-vscode](https://github.com/microsoft/powerplatform-vscode) topic:pac,powerplatform,vscode-extension pushed_at:2024-08 star:0.2k fork:0.0k The Power Platform VSCode extension makes it easy to manage Power Platform environments and allows the developer to create, build and deploy Power Platform solutions, packages and portals.
 - [microsoft/powerplatform-vscode-lab](https://github.com/microsoft/powerplatform-vscode-lab) topic:powerplatform,vscode,vscode-extension pushed_at:2022-09 star:0.0k fork:0.0k Hands-on lab for Power Platform Tools for Visual Studio Code
-- [microsoft/powerquery-formatter](https://github.com/microsoft/powerquery-formatter) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
+- [microsoft/powerquery-formatter](https://github.com/microsoft/powerquery-formatter) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/powerquery-language](https://github.com/microsoft/powerquery-language) topic: pushed_at:2023-04 star:0.0k fork:0.0k SublimeText language files for the Power Query formula language (M)
-- [microsoft/powerquery-language-services](https://github.com/microsoft/powerquery-language-services) topic:m,microsoft,opensource,powerquery,typescript pushed_at:2024-06 star:0.0k fork:0.0k Library to provide intellisense and other language services for the Power Query / M language.
-- [microsoft/powerquery-parser](https://github.com/microsoft/powerquery-parser) topic:m,microsoft,opensource,parser,powerquery,typescript pushed_at:2024-06 star:0.1k fork:0.0k A parser for the Power Query / M formula language, written in TypeScript
-- [microsoft/PR-Metrics](https://github.com/microsoft/PR-Metrics) topic:azure-devops,azure-devops-extension,azure-pipelines,github,typescript pushed_at:2024-08 star:0.1k fork:0.0k A GitHub Action & Azure Pipelines task for augmenting pull request titles to let reviewers quickly determine PR size and test coverage.
+- [microsoft/powerquery-language-services](https://github.com/microsoft/powerquery-language-services) topic:m,microsoft,opensource,powerquery,typescript pushed_at:2024-08 star:0.0k fork:0.0k Library to provide intellisense and other language services for the Power Query / M language.
+- [microsoft/powerquery-parser](https://github.com/microsoft/powerquery-parser) topic:m,microsoft,opensource,parser,powerquery,typescript pushed_at:2024-08 star:0.1k fork:0.0k A parser for the Power Query / M formula language, written in TypeScript
+- [microsoft/PR-Metrics](https://github.com/microsoft/PR-Metrics) topic:azure-devops,azure-devops-extension,azure-pipelines,github,typescript pushed_at:2024-09 star:0.1k fork:0.0k A GitHub Action & Azure Pipelines task for augmenting pull request titles to let reviewers quickly determine PR size and test coverage.
 - [microsoft/process-migrator](https://github.com/microsoft/process-migrator) topic:export,import,inherited,nodejs,process,typescript,vsts pushed_at:2024-08 star:0.1k fork:0.1k Process migrator node.js utility for VSTS inherited process
 - [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine) topic: pushed_at:2023-04 star:2.5k fork:0.1k A library for helping developers craft prompts for Large Language Models
-- [microsoft/Protean](https://github.com/microsoft/Protean) topic: pushed_at:2024-07 star:0.0k fork:0.0k meaning "versatile", "mutable", or "capable of assuming many forms"... a generative AI application template with dynamically selectable agents of dedicated sources and actions
+- [microsoft/Protean](https://github.com/microsoft/Protean) topic: pushed_at:2024-08 star:0.0k fork:0.0k meaning "versatile", "mutable", or "capable of assuming many forms"... a generative AI application template with dynamically selectable agents of dedicated sources and actions
 - [microsoft/PSRule-vscode](https://github.com/microsoft/PSRule-vscode) topic:hacktoberfest,powershell,ps-rule,psrule,rule,visual-studio-code,vscode,vscode-extension pushed_at:2024-08 star:0.0k fork:0.0k A Visual Studio Code extension for PSRule.
 - [microsoft/publish-dev-container-features-action](https://github.com/microsoft/publish-dev-container-features-action) topic: pushed_at:2022-08 star:0.0k fork:0.0k GitHub action to publish dev container features
 - [microsoft/pwa-toolkit](https://github.com/microsoft/pwa-toolkit) topic: pushed_at:2023-08 star:0.0k fork:0.0k pwa-toolkit
@@ -6330,9 +6331,9 @@
 - [microsoft/pxt-badge](https://github.com/microsoft/pxt-badge) topic: pushed_at:2023-06 star:0.0k fork:0.0k A framework to create electronic badges in Microsoft MakeCode Arcade - beta
 - [microsoft/pxt-bluetooth-max6675](https://github.com/microsoft/pxt-bluetooth-max6675) topic:makecode,microbit pushed_at:2023-06 star:0.0k fork:0.0k A bluetooth service for the MAX6675 temperature probe
 - [microsoft/pxt-brainpad](https://github.com/microsoft/pxt-brainpad) topic:makecode pushed_at:2023-07 star:0.0k fork:0.0k Microsoft MakeCode editor for the GHI Brainpad 
-- [microsoft/pxt-calliope](https://github.com/microsoft/pxt-calliope) topic:makecode,microbit pushed_at:2024-07 star:0.0k fork:0.0k A Microsoft MakeCode editor for the Calliope Mini board
+- [microsoft/pxt-calliope](https://github.com/microsoft/pxt-calliope) topic:makecode,microbit pushed_at:2024-08 star:0.0k fork:0.0k A Microsoft MakeCode editor for the Calliope Mini board
 - [microsoft/pxt-chibitronics](https://github.com/microsoft/pxt-chibitronics) topic:chibitronics,circuits,makecode,paper,pxt pushed_at:2023-09 star:0.0k fork:0.0k Chibitronics Love To Code board editor with Microsoft MakeCode
-- [microsoft/pxt-common-packages](https://github.com/microsoft/pxt-common-packages) topic:adafruit,makecode,pxt,sparkfun pushed_at:2024-07 star:0.1k fork:0.1k Common packages for Microsoft MakeCode editors
+- [microsoft/pxt-common-packages](https://github.com/microsoft/pxt-common-packages) topic:adafruit,makecode,pxt,sparkfun pushed_at:2024-08 star:0.1k fork:0.1k Common packages for Microsoft MakeCode editors
 - [microsoft/pxt-data-streamer](https://github.com/microsoft/pxt-data-streamer) topic:hackingstem,makecode,microbit pushed_at:2024-07 star:0.0k fork:0.0k Data Streamer support in MakeCode for micro:bit
 - [microsoft/pxt-drv2605l](https://github.com/microsoft/pxt-drv2605l) topic: pushed_at:2023-06 star:0.0k fork:0.0k MakeCode driver for the DRV2605L haptic feedback
 - [microsoft/pxt-ei](https://github.com/microsoft/pxt-ei) topic: pushed_at:2020-10 star:0.0k fork:0.0k EdgeImpulse integration for MakeCode
@@ -6393,7 +6394,7 @@
 - [microsoft/retrieval](https://github.com/microsoft/retrieval) topic: pushed_at:2022-02 star:0.0k fork:0.0k Types for async actions in Redux
 - [microsoft/RichCodeNavIndexer](https://github.com/microsoft/RichCodeNavIndexer) topic: pushed_at:2024-02 star:0.0k fork:0.0k A GitHub Action that adds rich code navigation to a repo's branches and pull requests.
 - [microsoft/rnx-kit](https://github.com/microsoft/rnx-kit) topic:android,cli,cross-platform,dependency-manager,desktop,desktop-development,development-experience,ios,macos,mobile,mobile-development,monorepo,react-native,typescript,windows pushed_at:2024-08 star:1.5k fork:0.1k Modern, scalable tools. Exceptional developer experience.
-- [microsoft/roosterjs](https://github.com/microsoft/roosterjs) topic: pushed_at:2024-08 star:1.1k fork:0.2k roosterjs is a framework-independent javascript rich text editor.
+- [microsoft/roosterjs](https://github.com/microsoft/roosterjs) topic: pushed_at:2024-08 star:1.2k fork:0.2k roosterjs is a framework-independent javascript rich text editor.
 - [microsoft/roosterjs-react](https://github.com/microsoft/roosterjs-react) topic: pushed_at:2022-04 star:0.0k fork:0.0k React components based on roosterjs
 - [microsoft/run-in-terminal](https://github.com/microsoft/run-in-terminal) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [microsoft/rural-crowdsourcing-toolkit](https://github.com/microsoft/rural-crowdsourcing-toolkit) topic: pushed_at:2023-07 star:0.0k fork:0.0k This repository provides code for a crowdsourcing platform that is specifically designed to be inclusive of users from low-resource communities.
@@ -6403,9 +6404,9 @@
 - [microsoft/RxRelayJS](https://github.com/microsoft/RxRelayJS) topic: pushed_at:2018-10 star:0.1k fork:0.0k Library that provides Relay types for rxjs. These are analogous to Subjects, but stateless and without the ability to call complete() or error().
 - [microsoft/sahay-app-toolkit](https://github.com/microsoft/sahay-app-toolkit) topic:app-framework,react-native pushed_at:2023-07 star:0.0k fork:0.0k React-native toolkit with a suite of UI components for building content-heavy mobile apps.
 - [microsoft/SandDance](https://github.com/microsoft/SandDance) topic:data-visualization,deck-gl,msr-vida,powerbi,vega,visualization pushed_at:2024-08 star:6.4k fork:0.5k Visually explore, understand, and present your data.
-- [microsoft/sarif-azuredevops-extension](https://github.com/microsoft/sarif-azuredevops-extension) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
+- [microsoft/sarif-azuredevops-extension](https://github.com/microsoft/sarif-azuredevops-extension) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/sarif-azuredevops-extension-legacy](https://github.com/microsoft/sarif-azuredevops-extension-legacy) topic:azuredevops-extension,sarif pushed_at:2023-06 star:0.0k fork:0.0k An Azure DevOps extension encapsulating the SARIF Web Component.
-- [microsoft/sarif-vscode-extension](https://github.com/microsoft/sarif-vscode-extension) topic: pushed_at:2024-06 star:0.1k fork:0.0k SARIF Microsoft Visual Studio Code extension
+- [microsoft/sarif-vscode-extension](https://github.com/microsoft/sarif-vscode-extension) topic: pushed_at:2024-08 star:0.1k fork:0.0k SARIF Microsoft Visual Studio Code extension
 - [microsoft/sarif-web-component](https://github.com/microsoft/sarif-web-component) topic:react,react-components,sarif pushed_at:2024-08 star:0.1k fork:0.0k  A React-based component for viewing SARIF files.
 - [microsoft/satcheljs](https://github.com/microsoft/satcheljs) topic:flux,flux-architecture,hacktoberfest,mobx,react pushed_at:2024-07 star:0.4k fork:0.0k Satchel is a data store based on the Flux architecture.  It is characterized by exposing an observable state that makes view updates painless and efficient.
 - [microsoft/satcheljs-cookbook](https://github.com/microsoft/satcheljs-cookbook) topic:flux,hacktoberfest,react,satcheljs pushed_at:2024-01 star:0.0k fork:0.0k A cookbook of sample SatchelJS code
@@ -6416,7 +6417,7 @@
 - [microsoft/security-devops-azdevops](https://github.com/microsoft/security-devops-azdevops) topic: pushed_at:2024-07 star:0.1k fork:0.0k Microsoft Security DevOps extension for Azure DevOps.
 - [microsoft/security-devops-azdevops-task-lib](https://github.com/microsoft/security-devops-azdevops-task-lib) topic: pushed_at:2024-05 star:0.0k fork:0.0k Microsoft Security DevOps for Azure DevOps task library.
 - [microsoft/semanticworkbench](https://github.com/microsoft/semanticworkbench) topic: pushed_at:2024-08 star:0.0k fork:0.0k A versatile tool designed to help prototype intelligent assistants, agents and multi-agentic systems 
-- [microsoft/service-fabric-explorer](https://github.com/microsoft/service-fabric-explorer) topic:angular8,service-fabric,sfx,typescript pushed_at:2024-07 star:0.1k fork:0.1k Service Fabric Explorer is a web based dashboard for visualizing the state of a Service Fabric cluster.
+- [microsoft/service-fabric-explorer](https://github.com/microsoft/service-fabric-explorer) topic:angular8,service-fabric,sfx,typescript pushed_at:2024-08 star:0.1k fork:0.1k Service Fabric Explorer is a web based dashboard for visualizing the state of a Service Fabric cluster.
 - [microsoft/setup-kiota](https://github.com/microsoft/setup-kiota) topic: pushed_at:2024-08 star:0.0k fork:0.0k Action that installs Kiota OpenAPI client generator so it can be used in your workflow
 - [microsoft/setup-msbuild](https://github.com/microsoft/setup-msbuild) topic:actions,devops,dotnet-framework,msbuild,msbuild-action,visual-studio pushed_at:2024-06 star:0.3k fork:0.1k A GitHub Action to facilitate configuring MSBuild in the workflow PATH for building .NET Framework applications.
 - [microsoft/shapeshifter](https://github.com/microsoft/shapeshifter) topic:fluentui,powerapps,powerapps-component-framework,reactjs pushed_at:2023-06 star:0.0k fork:0.0k A way to dynamically render controls in Power Apps
@@ -6433,7 +6434,7 @@
 - [microsoft/spektate](https://github.com/microsoft/spektate) topic: pushed_at:2022-02 star:0.0k fork:0.0k This project is a visualization tool for https://github.com/microsoft/bedrock
 - [microsoft/spfx-gulp-tools](https://github.com/microsoft/spfx-gulp-tools) topic:spfx pushed_at:2024-03 star:0.0k fork:0.0k Tools related to the SPFx Gulp-based build toolchain.
 - [microsoft/spfx-react-webchat](https://github.com/microsoft/spfx-react-webchat) topic: pushed_at:2024-08 star:0.0k fork:0.0k Modern sharepoint online webpart to integrate the BotFramework webchat
-- [microsoft/sqlops-dataprotocolclient](https://github.com/microsoft/sqlops-dataprotocolclient) topic: pushed_at:2023-11 star:0.0k fork:0.0k Azure Data Studio Data Protocol Client
+- [microsoft/sqlops-dataprotocolclient](https://github.com/microsoft/sqlops-dataprotocolclient) topic: pushed_at:2024-08 star:0.0k fork:0.0k Azure Data Studio Data Protocol Client
 - [microsoft/starter-workflows](https://github.com/microsoft/starter-workflows) topic: pushed_at:2023-11 star:0.0k fork:0.0k Accelerating new GitHub Actions workflows 
 - [microsoft/staticstaging](https://github.com/microsoft/staticstaging) topic: pushed_at:2017-03 star:0.0k fork:0.0k static staging compiler
 - [microsoft/storywright](https://github.com/microsoft/storywright) topic: pushed_at:2024-03 star:0.0k fork:0.0k Capture screenshots for React Storybook using Playwright
@@ -6447,15 +6448,15 @@
 - [microsoft/taskflow-react](https://github.com/microsoft/taskflow-react) topic:jsx,promise,react,taskflow,typescript pushed_at:2022-11 star:0.0k fork:0.0k A promise and react based jsx style task flow library
 - [microsoft/teams-copilot-starter](https://github.com/microsoft/teams-copilot-starter) topic: pushed_at:2024-08 star:0.0k fork:0.0k Teams Copilot Starter has been developed as a starter template for solutions targeting generative AI chatbots in Microsoft Teams. It can assist companies jumpstart their AI and Copilot efforts.
 - [microsoft/tensile-perf](https://github.com/microsoft/tensile-perf) topic: pushed_at:2024-07 star:0.0k fork:0.0k Benchmark web UI components with complex DOM and CSS
-- [microsoft/testbro](https://github.com/microsoft/testbro) topic: pushed_at:2024-06 star:0.0k fork:0.0k Unit tests in the browser
-- [microsoft/tfs-cli](https://github.com/microsoft/tfs-cli) topic: pushed_at:2024-05 star:0.4k fork:0.1k Cross-platform CLI for Microsoft Team Foundation Server and Visual Studio Team Services
+- [microsoft/testbro](https://github.com/microsoft/testbro) topic: pushed_at:2024-09 star:0.0k fork:0.0k Unit tests in the browser
+- [microsoft/tfs-cli](https://github.com/microsoft/tfs-cli) topic: pushed_at:2024-08 star:0.4k fork:0.1k Cross-platform CLI for Microsoft Team Foundation Server and Visual Studio Team Services
 - [microsoft/tfsgit-pr-injector](https://github.com/microsoft/tfsgit-pr-injector) topic: pushed_at:2023-06 star:0.0k fork:0.0k VSTS pull request bot (reference implementation)
 - [microsoft/thematic](https://github.com/microsoft/thematic) topic: pushed_at:2024-03 star:0.1k fork:0.0k Thematic is a library and web application to aid designers in creating color palettes that unify application colors based on a desired look and feel (e.g., corporate branding) while also providing perceptually balanced color palettes and ramps for data visualization within the application. The primary goal is to provide several bindings to common application development and visualization frameworks, so theming across platforms and contexts is simple and consistent across platforms such as Power BI, Office, and web frameworks (React, Fabric, D3, Vega).
 - [microsoft/tilecode](https://github.com/microsoft/tilecode) topic: pushed_at:2020-10 star:0.1k fork:0.0k Design, Code and Play Games on MakeCode Arcade Devices
 - [microsoft/tiny-calc](https://github.com/microsoft/tiny-calc) topic: pushed_at:2023-03 star:0.0k fork:0.0k Tiny expression evaluator
 - [microsoft/TouchDevelop](https://github.com/microsoft/TouchDevelop) topic: pushed_at:2018-12 star:1.4k fork:0.2k TouchDevelop is a touch-friendly app creation environment for iPad, iPhone, Android, Windows, Mac, Linux. Our mobile-friendly editor makes coding fun, even on your phone or tablet!
 - [microsoft/TouchDevelop-backend](https://github.com/microsoft/TouchDevelop-backend) topic: pushed_at:2018-05 star:0.0k fork:0.0k Back-end cloud service for Touch Develop.
-- [microsoft/ts-fix](https://github.com/microsoft/ts-fix) topic: pushed_at:2024-07 star:0.1k fork:0.0k CLI for applying TypeScript codefixes
+- [microsoft/ts-fix](https://github.com/microsoft/ts-fix) topic: pushed_at:2024-08 star:0.1k fork:0.0k CLI for applying TypeScript codefixes
 - [microsoft/ts-gyb](https://github.com/microsoft/ts-gyb) topic:code-generation,hybrid-app,javascriptcore,kotlin,swift,typescript,webview pushed_at:2024-07 star:0.1k fork:0.0k Generating native code interfaces from TypeScript
 - [microsoft/ts-parsec](https://github.com/microsoft/ts-parsec) topic: pushed_at:2023-12 star:0.3k fork:0.0k Writing a custom parser is a fairly common need. Although there are already parser combinators in others languages, TypeScript provides a powerful and well-structured foundation for building this. Common parser combinators’ weakness are error handling and ambiguity resolving, but these are ts-parsec’s important features. Additionally, ts-parsec provides a very easy to use programming interface, that could help people to build programming-language-scale parsers in just a few hours. This technology has already been used in Microsoft/react-native-tscodegen.
 - [microsoft/tsdoc](https://github.com/microsoft/tsdoc) topic:comments,doc-comments,documentation,jsdoc,markdown,parser,rushstack,specification,syntax,typescript pushed_at:2024-07 star:4.7k fork:0.1k A doc comment standard for TypeScript
@@ -6467,7 +6468,7 @@
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) topic:ai,llm,natural-language,types pushed_at:2024-08 star:8.1k fork:0.4k TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [microsoft/typed-rest-client](https://github.com/microsoft/typed-rest-client) topic: pushed_at:2024-08 star:0.7k fork:0.1k Node Rest and Http Clients with typings for use with TypeScript
 - [microsoft/types-publisher](https://github.com/microsoft/types-publisher) topic: pushed_at:2020-06 star:0.4k fork:0.2k This repo has moved:
-- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) topic:javascript,language,typechecker,typescript pushed_at:2024-08 star:99.7k fork:12.3k TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+- [microsoft/TypeScript](https://github.com/microsoft/TypeScript) topic:javascript,language,typechecker,typescript pushed_at:2024-08 star:99.9k fork:12.4k TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [microsoft/typescript-analyze-trace](https://github.com/microsoft/typescript-analyze-trace) topic: pushed_at:2024-07 star:0.3k fork:0.0k A tool for analyzing the output of `tsc --generateTrace`
 - [microsoft/TypeScript-Babel-Starter](https://github.com/microsoft/TypeScript-Babel-Starter) topic: pushed_at:2022-08 star:2.0k fork:0.2k A sample setup using Babel CLI to build TypeScript code, and using TypeScript for type-checking. 
 - [microsoft/typescript-benchmarking](https://github.com/microsoft/typescript-benchmarking) topic: pushed_at:2024-08 star:0.0k fork:0.0k Infrastructure for TypeScript's performance benchmarking system
@@ -6487,13 +6488,12 @@
 - [microsoft/typescript-tslint-plugin](https://github.com/microsoft/typescript-tslint-plugin) topic:linter,tslint,typescript,typescript-plugin pushed_at:2023-05 star:0.3k fork:0.0k TypeScript TSLint language service plugin
 - [microsoft/TypeScript-Twoslash-Repro-Action](https://github.com/microsoft/TypeScript-Twoslash-Repro-Action) topic: pushed_at:2024-02 star:0.0k fork:0.0k A GitHub Action which evaluates twoslash bug reproductions in GitHub Issues
 - [microsoft/TypeScript-VSCode-Extensions](https://github.com/microsoft/TypeScript-VSCode-Extensions) topic: pushed_at:2023-07 star:0.0k fork:0.0k A monorepo of VS Code extensions from the TypeScript Team
-- [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website) topic: pushed_at:2024-08 star:2.2k fork:1.3k The Website and web infrastructure for learning TypeScript
+- [microsoft/TypeScript-Website](https://github.com/microsoft/TypeScript-Website) topic: pushed_at:2024-08 star:2.2k fork:1.4k The Website and web infrastructure for learning TypeScript
 - [microsoft/TypeScript-WeChat-Starter](https://github.com/microsoft/TypeScript-WeChat-Starter) topic: pushed_at:2022-11 star:0.7k fork:0.1k A starter template for TypeScript and WeChat with a detailed README describing how to use the two together.
 - [microsoft/TypeScriptSamples](https://github.com/microsoft/TypeScriptSamples) topic: pushed_at:2020-03 star:3.2k fork:1.8k Community Driven Samples for TypeScript
-- [microsoft/typespec](https://github.com/microsoft/typespec) topic:json-schema,openapi3,protobuf,typespec pushed_at:2024-08 star:4.0k fork:0.2k 
 - [microsoft/ui-fabric-ts-validation](https://github.com/microsoft/ui-fabric-ts-validation) topic:compatibility,office-ui-fabric-react,testing,typescript,validation pushed_at:2023-06 star:0.0k fork:0.0k TypeScript compatibility test suite for Office UI Fabric React
 - [microsoft/uprove-node-reference](https://github.com/microsoft/uprove-node-reference) topic: pushed_at:2023-09 star:0.0k fork:0.0k U-Prove reference implementation in TypeScript (node)
-- [microsoft/use-disposable](https://github.com/microsoft/use-disposable) topic: pushed_at:2024-06 star:0.0k fork:0.0k Creating instances in React during render that need to be disposed even with StrictMode
+- [microsoft/use-disposable](https://github.com/microsoft/use-disposable) topic: pushed_at:2024-08 star:0.0k fork:0.0k Creating instances in React during render that need to be disposed even with StrictMode
 - [microsoft/uts2](https://github.com/microsoft/uts2) topic: pushed_at:2022-03 star:0.0k fork:0.0k μts is a miniature time-series database utility
 - [microsoft/vcpkg-ce](https://github.com/microsoft/vcpkg-ce) topic: pushed_at:2022-03 star:0.0k fork:0.0k Issue tracking and documentation for Microsoft's vcpkg-ce acquisition tool.
 - [microsoft/vegalite-for-powerbi](https://github.com/microsoft/vegalite-for-powerbi) topic:msr-vida,powerbi,powerbi-custom-visuals,vega-lite,visualization pushed_at:2022-02 star:0.0k fork:0.0k Sample Vega-Lite Wrapper as a PowerBi Custom Visual
@@ -6504,13 +6504,13 @@
 - [microsoft/visual-analytics-components](https://github.com/microsoft/visual-analytics-components) topic: pushed_at:2022-01 star:0.0k fork:0.0k A research system for component-based Visual Analytics applications
 - [microsoft/VoTT](https://github.com/microsoft/VoTT) topic:annotation-tool,cntk,deep-learning,detection,detection-model,image-annotation,image-tagging,imagetagger,labeling,object-detection,tagging,taggingtools,tensorflow-object-detection-api,video-tagging pushed_at:2021-12 star:4.3k fork:0.8k Visual Object Tagging Tool: An electron app for building end to end Object Detection Models from Images and Videos. 
 - [microsoft/vott-react](https://github.com/microsoft/vott-react) topic: pushed_at:2023-04 star:0.0k fork:0.0k VoTT React Components
-- [microsoft/vscode](https://github.com/microsoft/vscode) topic:editor,electron,microsoft,typescript,visual-studio-code pushed_at:2024-08 star:161.6k fork:28.4k Visual Studio Code
+- [microsoft/vscode](https://github.com/microsoft/vscode) topic:editor,electron,microsoft,typescript,visual-studio-code pushed_at:2024-08 star:162.0k fork:28.5k Visual Studio Code
 - [microsoft/vscode-apimanagement](https://github.com/microsoft/vscode-apimanagement) topic:apim,azure,azure-api-management,microsoft,serverless,vscode-extension pushed_at:2024-05 star:0.1k fork:0.0k VS Code extension for Azure API Management.
 - [microsoft/vscode-arduino](https://github.com/microsoft/vscode-arduino) topic: pushed_at:2024-08 star:1.1k fork:0.2k Visual Studio Code extension for Arduino
 - [microsoft/vscode-azure-account](https://github.com/microsoft/vscode-azure-account) topic:azure,vscode pushed_at:2024-08 star:0.1k fork:0.1k Common Azure Login extension for VS Code
 - [microsoft/vscode-azure-functions-remote-web-extension](https://github.com/microsoft/vscode-azure-functions-remote-web-extension) topic: pushed_at:2023-02 star:0.0k fork:0.0k Extension side of Project Limelight
 - [microsoft/vscode-azureapicenter](https://github.com/microsoft/vscode-azureapicenter) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
-- [microsoft/vscode-azureappservice](https://github.com/microsoft/vscode-azureappservice) topic:app-service,azure,vscode pushed_at:2024-07 star:0.1k fork:0.1k Azure App Service extension for VS Code
+- [microsoft/vscode-azureappservice](https://github.com/microsoft/vscode-azureappservice) topic:app-service,azure,vscode pushed_at:2024-08 star:0.1k fork:0.1k Azure App Service extension for VS Code
 - [microsoft/vscode-azurearcenabledmachines](https://github.com/microsoft/vscode-azurearcenabledmachines) topic: pushed_at:2024-08 star:0.0k fork:0.0k Azure Arc-enabled machines for Visual Studio Code
 - [microsoft/vscode-azurearmtools](https://github.com/microsoft/vscode-azurearmtools) topic: pushed_at:2024-08 star:0.1k fork:0.1k Azure Resource Manager Tools for Visual Studio Code
 - [microsoft/vscode-azurecache](https://github.com/microsoft/vscode-azurecache) topic: pushed_at:2023-07 star:0.0k fork:0.0k Azure Cache for Redis is a fully managed, open source–compatible in-memory data store to power fast, scalable applications. Use this extension to view data in your Azure Caches and monitor them at a glance.
@@ -6520,12 +6520,12 @@
 - [microsoft/vscode-azurelogicapps](https://github.com/microsoft/vscode-azurelogicapps) topic:azure,logic-apps,vscode pushed_at:2023-07 star:0.0k fork:0.0k Visual Studio Code extension for Azure Logic Apps (Consumption)
 - [microsoft/vscode-azureresourcegroups](https://github.com/microsoft/vscode-azureresourcegroups) topic:azure,vscode pushed_at:2024-08 star:0.1k fork:0.0k VS Code extension for managing Azure resources.
 - [microsoft/vscode-azurestaticwebapps](https://github.com/microsoft/vscode-azurestaticwebapps) topic:azure,jamstack,serverless,ssg,static-web-apps,vscode pushed_at:2024-08 star:0.1k fork:0.0k Azure Static Web Apps extension for VS Code
-- [microsoft/vscode-azurestorage](https://github.com/microsoft/vscode-azurestorage) topic:azure,vscode pushed_at:2024-07 star:0.1k fork:0.0k Azure Storage extension for VS Code
+- [microsoft/vscode-azurestorage](https://github.com/microsoft/vscode-azurestorage) topic:azure,vscode pushed_at:2024-08 star:0.1k fork:0.0k Azure Storage extension for VS Code
 - [microsoft/vscode-azuretools](https://github.com/microsoft/vscode-azuretools) topic: pushed_at:2024-08 star:0.1k fork:0.1k Common packages for building Azure extensions for VS Code
 - [microsoft/vscode-azurevirtualmachines](https://github.com/microsoft/vscode-azurevirtualmachines) topic:azure,vscode pushed_at:2024-08 star:0.0k fork:0.0k Azure Virtual Machines extension for Visual Studio Code
 - [microsoft/vscode-backspace](https://github.com/microsoft/vscode-backspace) topic: pushed_at:2018-03 star:0.0k fork:0.0k 
-- [microsoft/vscode-bisect](https://github.com/microsoft/vscode-bisect) topic: pushed_at:2024-05 star:0.0k fork:0.0k Allows to bisect released VSCode web and desktop insider builds for issues similar to what git bisect does.
-- [microsoft/vscode-cdp](https://github.com/microsoft/vscode-cdp) topic: pushed_at:2024-06 star:0.0k fork:0.0k Node.js libraries for interfacing with the Chrome DevTools Protocol
+- [microsoft/vscode-bisect](https://github.com/microsoft/vscode-bisect) topic: pushed_at:2024-08 star:0.0k fork:0.0k Allows to bisect released VSCode web and desktop insider builds for issues similar to what git bisect does.
+- [microsoft/vscode-cdp](https://github.com/microsoft/vscode-cdp) topic: pushed_at:2024-08 star:0.0k fork:0.0k Node.js libraries for interfacing with the Chrome DevTools Protocol
 - [microsoft/vscode-cdp-proxy](https://github.com/microsoft/vscode-cdp-proxy) topic: pushed_at:2023-09 star:0.0k fork:0.0k Sample Chrome Debug Protocol proxy used to extend vscode-js-debug
 - [microsoft/vscode-chrome-debug](https://github.com/microsoft/vscode-chrome-debug) topic:chrome,chrome-debugging-protocol,debugger,editor,vscode pushed_at:2022-12 star:2.2k fork:0.4k Debug your JavaScript code running in Google Chrome from VS Code.
 - [microsoft/vscode-chrome-debug-core](https://github.com/microsoft/vscode-chrome-debug-core) topic: pushed_at:2021-10 star:0.2k fork:0.1k A library for implementing VS Code debug adapters for targets that implement the Chrome Debugging Protocol.
@@ -6536,9 +6536,9 @@
 - [microsoft/vscode-cosmosdb](https://github.com/microsoft/vscode-cosmosdb) topic:cosmos-db,gremlin,microsoft,mongo,postgresql,query-graph,vscode pushed_at:2024-08 star:0.2k fork:0.1k Azure Databases extension for VS Code
 - [microsoft/vscode-cpptools](https://github.com/microsoft/vscode-cpptools) topic:microsoft,typescript,vscode-extension pushed_at:2024-08 star:5.4k fork:1.5k Official repository for the Microsoft C/C++ extension for VS Code.
 - [microsoft/vscode-cpptools-api](https://github.com/microsoft/vscode-cpptools-api) topic: pushed_at:2024-03 star:0.0k fork:0.0k Public API for the C/C++ Extension for VS Code
-- [microsoft/vscode-css-languageservice](https://github.com/microsoft/vscode-css-languageservice) topic: pushed_at:2024-07 star:0.3k fork:0.2k CSS, LESS & SCSS language service extracted from VSCode to be reused, e.g in the Monaco editor.
+- [microsoft/vscode-css-languageservice](https://github.com/microsoft/vscode-css-languageservice) topic: pushed_at:2024-08 star:0.3k fork:0.2k CSS, LESS & SCSS language service extracted from VSCode to be reused, e.g in the Monaco editor.
 - [microsoft/vscode-debug-value-editor](https://github.com/microsoft/vscode-debug-value-editor) topic: pushed_at:2024-07 star:0.0k fork:0.0k VS Code JS Debug Value Editor - This extension allows to edit and view values of a debugee with a full text editor. Currently only supports javascript debug adaptors.
-- [microsoft/vscode-debugadapter-node](https://github.com/microsoft/vscode-debugadapter-node) topic: pushed_at:2024-07 star:0.3k fork:0.1k Debug adapter protocol and implementation for VS Code.
+- [microsoft/vscode-debugadapter-node](https://github.com/microsoft/vscode-debugadapter-node) topic: pushed_at:2024-08 star:0.3k fork:0.1k Debug adapter protocol and implementation for VS Code.
 - [microsoft/vscode-deploy-azure](https://github.com/microsoft/vscode-deploy-azure) topic: pushed_at:2022-04 star:0.0k fork:0.0k VS code extension: Deploy To Azure, which helps set up CI/CD for deployment to Azure Resources.
 - [microsoft/vscode-deviceid](https://github.com/microsoft/vscode-deviceid) topic: pushed_at:2024-06 star:0.0k fork:0.0k Tool used to generate the local DeveloperDeviceId.
 - [microsoft/vscode-diagnostic-tools](https://github.com/microsoft/vscode-diagnostic-tools) topic: pushed_at:2024-08 star:0.0k fork:0.0k A collection of tools designed to aid in diagnosing issues in VS Code
@@ -6557,7 +6557,7 @@
 - [microsoft/vscode-extension-recommender](https://github.com/microsoft/vscode-extension-recommender) topic: pushed_at:2023-10 star:0.0k fork:0.0k (Early preview) Recommender System for VS Code Extension
 - [microsoft/vscode-extension-samples](https://github.com/microsoft/vscode-extension-samples) topic: pushed_at:2024-08 star:8.5k fork:3.3k Sample code illustrating the VS Code extension API.
 - [microsoft/vscode-extension-telemetry](https://github.com/microsoft/vscode-extension-telemetry) topic:nodejs,telemetry,vscode pushed_at:2024-08 star:0.1k fork:0.0k Node module to help VS Code extensions send telemetry using application insights
-- [microsoft/vscode-extension-test-runner](https://github.com/microsoft/vscode-extension-test-runner) topic: pushed_at:2024-07 star:0.0k fork:0.0k Runs tests in the UI for VS Code extensions
+- [microsoft/vscode-extension-test-runner](https://github.com/microsoft/vscode-extension-test-runner) topic: pushed_at:2024-08 star:0.0k fork:0.0k Runs tests in the UI for VS Code extensions
 - [microsoft/vscode-figma-icons](https://github.com/microsoft/vscode-figma-icons) topic: pushed_at:2023-10 star:0.0k fork:0.0k A Figma plugin to use VS Code icons
 - [microsoft/vscode-file-downloader](https://github.com/microsoft/vscode-file-downloader) topic: pushed_at:2024-06 star:0.0k fork:0.0k Exposes an API that allows other VS Code extensions to download files.
 - [microsoft/vscode-file-downloader-api](https://github.com/microsoft/vscode-file-downloader-api) topic: pushed_at:2024-06 star:0.0k fork:0.0k NPM package providing the API library for the File Downloader Visual Studio Code extension.
@@ -6566,16 +6566,16 @@
 - [microsoft/vscode-github-issues-prs](https://github.com/microsoft/vscode-github-issues-prs) topic: pushed_at:2021-07 star:0.1k fork:0.0k VSCode Extension for GitHub Issues and PRs
 - [microsoft/vscode-github-triage-actions](https://github.com/microsoft/vscode-github-triage-actions) topic: pushed_at:2024-08 star:0.1k fork:0.0k Github Actions for helping VS Code manage our issues
 - [microsoft/vscode-github-triage-extension](https://github.com/microsoft/vscode-github-triage-extension) topic: pushed_at:2023-07 star:0.0k fork:0.0k A chromium extension to help with triaging VS Code GitHub issues.
-- [microsoft/vscode-go](https://github.com/microsoft/vscode-go) topic: pushed_at:2020-06 star:5.9k fork:0.7k An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
+- [microsoft/vscode-go](https://github.com/microsoft/vscode-go) topic: pushed_at:2020-06 star:5.9k fork:0.6k An extension for VS Code which provides support for the Go language. We have moved to https://github.com/golang/vscode-go
 - [microsoft/vscode-hexeditor](https://github.com/microsoft/vscode-hexeditor) topic: pushed_at:2024-08 star:0.5k fork:0.1k VS Code Hex Editor
-- [microsoft/vscode-html-languageservice](https://github.com/microsoft/vscode-html-languageservice) topic: pushed_at:2024-06 star:0.2k fork:0.1k Language services for HTML
+- [microsoft/vscode-html-languageservice](https://github.com/microsoft/vscode-html-languageservice) topic: pushed_at:2024-08 star:0.2k fork:0.1k Language services for HTML
 - [microsoft/vscode-htmlhint](https://github.com/microsoft/vscode-htmlhint) topic: pushed_at:2022-07 star:0.1k fork:0.0k VS Code integration of HTMLHint, an HTML linter.
 - [microsoft/vscode-htmltagwrap](https://github.com/microsoft/vscode-htmltagwrap) topic: pushed_at:2017-08 star:0.0k fork:0.0k Wraps a chunk of HTML code in tags
 - [microsoft/vscode-hydrate](https://github.com/microsoft/vscode-hydrate) topic: pushed_at:2023-06 star:0.0k fork:0.0k VS Code extension for Hydrate, which crawls a kubernetes cluster and generates a high level description of your deployments.
 - [microsoft/vscode-ios-web-debug](https://github.com/microsoft/vscode-ios-web-debug) topic: pushed_at:2018-01 star:0.2k fork:0.0k Debug your JavaScript code running in Safari on iOS devices from VS Code.
 - [microsoft/vscode-iot-workbench](https://github.com/microsoft/vscode-iot-workbench) topic: pushed_at:2022-04 star:0.2k fork:0.1k Azure IoT Device Workbench for Visual Studio Code
-- [microsoft/vscode-java-debug](https://github.com/microsoft/vscode-java-debug) topic:java,java-debugger,vscode-java pushed_at:2024-07 star:0.5k fork:0.3k Java Debugger for Visual Studio Code.
-- [microsoft/vscode-java-dependency](https://github.com/microsoft/vscode-java-dependency) topic:java,language-support,project-management,vscode-extension pushed_at:2024-07 star:0.1k fork:0.1k Manage Java projects in Visual Studio Code.
+- [microsoft/vscode-java-debug](https://github.com/microsoft/vscode-java-debug) topic:java,java-debugger,vscode-java pushed_at:2024-08 star:0.5k fork:0.3k Java Debugger for Visual Studio Code.
+- [microsoft/vscode-java-dependency](https://github.com/microsoft/vscode-java-dependency) topic:java,language-support,project-management,vscode-extension pushed_at:2024-08 star:0.1k fork:0.1k Manage Java projects in Visual Studio Code.
 - [microsoft/vscode-java-pack](https://github.com/microsoft/vscode-java-pack) topic: pushed_at:2024-08 star:0.3k fork:0.1k VS Code extensions for Java developers.
 - [microsoft/vscode-js-debug](https://github.com/microsoft/vscode-js-debug) topic:dap,debug,hacktoberfest,vscode,vscode-extension pushed_at:2024-08 star:1.6k fork:0.3k A DAP-compatible JavaScript debugger. Used in VS Code, VS, + more
 - [microsoft/vscode-js-debug-browsers](https://github.com/microsoft/vscode-js-debug-browsers) topic: pushed_at:2024-06 star:0.0k fork:0.0k Browser launch and discovery logic used in VS Code's JavaScript Debugger
@@ -6583,25 +6583,25 @@
 - [microsoft/vscode-js-profile-visualizer](https://github.com/microsoft/vscode-js-profile-visualizer) topic: pushed_at:2024-08 star:0.1k fork:0.0k A custom editor for viewing `.cpuprofile` files in VS Code
 - [microsoft/vscode-jscs](https://github.com/microsoft/vscode-jscs) topic: pushed_at:2020-11 star:0.0k fork:0.0k VS Code JSCS Extension (deprecated)
 - [microsoft/vscode-jshint](https://github.com/microsoft/vscode-jshint) topic: pushed_at:2022-12 star:0.1k fork:0.1k VSCode extension to integrate jshint into VSCode
-- [microsoft/vscode-json-languageservice](https://github.com/microsoft/vscode-json-languageservice) topic: pushed_at:2024-08 star:0.2k fork:0.1k JSON language service extracted from VSCode to be reused, e.g in the Monaco editor.
+- [microsoft/vscode-json-languageservice](https://github.com/microsoft/vscode-json-languageservice) topic: pushed_at:2024-08 star:0.3k fork:0.1k JSON language service extracted from VSCode to be reused, e.g in the Monaco editor.
 - [microsoft/vscode-jupyter](https://github.com/microsoft/vscode-jupyter) topic:datascience,jupyter,machine-learning,vscode,vscode-extension pushed_at:2024-08 star:1.3k fork:0.3k VS Code Jupyter extension
 - [microsoft/vscode-jupyter-cell-tags](https://github.com/microsoft/vscode-jupyter-cell-tags) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
-- [microsoft/vscode-jupyter-hub](https://github.com/microsoft/vscode-jupyter-hub) topic:jupyter,jupyterhub pushed_at:2024-07 star:0.0k fork:0.0k Jupyter Hub Support in VS Code
+- [microsoft/vscode-jupyter-hub](https://github.com/microsoft/vscode-jupyter-hub) topic:jupyter,jupyterhub pushed_at:2024-08 star:0.0k fork:0.0k Jupyter Hub Support in VS Code
 - [microsoft/vscode-jupyter-lsp-middleware](https://github.com/microsoft/vscode-jupyter-lsp-middleware) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
 - [microsoft/vscode-jupyter-powertoys](https://github.com/microsoft/vscode-jupyter-powertoys) topic: pushed_at:2024-08 star:0.1k fork:0.0k PowerToys for Jupyter notebooks in VS Code
 - [microsoft/vscode-jupyter-slideshow](https://github.com/microsoft/vscode-jupyter-slideshow) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
 - [microsoft/vscode-jvm-tools](https://github.com/microsoft/vscode-jvm-tools) topic: pushed_at:2024-06 star:0.0k fork:0.0k JVM Tools Extension for VS Code
 - [microsoft/vscode-l10n](https://github.com/microsoft/vscode-l10n) topic: pushed_at:2024-06 star:0.1k fork:0.0k 
-- [microsoft/vscode-languagedetection](https://github.com/microsoft/vscode-languagedetection) topic: pushed_at:2024-06 star:0.1k fork:0.0k An npm package that uses ML to detect source code languages
+- [microsoft/vscode-languagedetection](https://github.com/microsoft/vscode-languagedetection) topic: pushed_at:2024-08 star:0.1k fork:0.0k An npm package that uses ML to detect source code languages
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) topic: pushed_at:2024-08 star:1.4k fork:0.3k Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
 - [microsoft/vscode-languageserver-protocol-foldingprovider](https://github.com/microsoft/vscode-languageserver-protocol-foldingprovider) topic: pushed_at:2018-05 star:0.0k fork:0.0k Proposed extension to the language server protocol: folding provider 
 - [microsoft/vscode-LaTeX](https://github.com/microsoft/vscode-LaTeX) topic: pushed_at:2019-10 star:0.0k fork:0.0k A colorizer and set of snippets for LaTeX
 - [microsoft/vscode-livepreview](https://github.com/microsoft/vscode-livepreview) topic: pushed_at:2024-08 star:0.4k fork:0.1k Hosts a local server in your workspace for you to preview your webpages. 
 - [microsoft/vscode-lsif-extension](https://github.com/microsoft/vscode-lsif-extension) topic: pushed_at:2024-06 star:0.1k fork:0.0k Extension for a LSIF Server
-- [microsoft/vscode-makecode](https://github.com/microsoft/vscode-makecode) topic: pushed_at:2024-07 star:0.0k fork:0.0k A vscode.dev compatible extension for Microsoft MakeCode
+- [microsoft/vscode-makecode](https://github.com/microsoft/vscode-makecode) topic: pushed_at:2024-08 star:0.0k fork:0.0k A vscode.dev compatible extension for Microsoft MakeCode
 - [microsoft/vscode-makefile-tools](https://github.com/microsoft/vscode-makefile-tools) topic: pushed_at:2024-08 star:0.2k fork:0.1k MAKE integration in Visual Studio Code
 - [microsoft/vscode-markdown-it-katex](https://github.com/microsoft/vscode-markdown-it-katex) topic: pushed_at:2024-08 star:0.0k fork:0.0k Add Math to your Markdown with a KaTeX plugin for Markdown-it
-- [microsoft/vscode-markdown-languageserver](https://github.com/microsoft/vscode-markdown-languageserver) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
+- [microsoft/vscode-markdown-languageserver](https://github.com/microsoft/vscode-markdown-languageserver) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [microsoft/vscode-markdown-languageservice](https://github.com/microsoft/vscode-markdown-languageservice) topic:lsp,markdown,vscode pushed_at:2024-07 star:0.4k fork:0.0k The language service that powers VS Code's Markdown support, extracted so that it can be reused by other editors and tools
 - [microsoft/vscode-markdown-notebook](https://github.com/microsoft/vscode-markdown-notebook) topic: pushed_at:2024-06 star:0.1k fork:0.0k An extension for editing markdown files in VS Code notebooks
 - [microsoft/vscode-maven](https://github.com/microsoft/vscode-maven) topic:java-support,maven,microsoft,vscode-extension pushed_at:2024-07 star:0.2k fork:0.1k VSCode extension "Maven for Java"
@@ -6620,20 +6620,20 @@
 - [microsoft/vscode-notebook-renderers](https://github.com/microsoft/vscode-notebook-renderers) topic: pushed_at:2024-08 star:0.1k fork:0.0k 
 - [microsoft/vscode-npm-scripts](https://github.com/microsoft/vscode-npm-scripts) topic: pushed_at:2024-03 star:0.2k fork:0.1k VSCode extension for running npm-scripts and validating the package.json files.
 - [microsoft/vscode-onedrive-browser](https://github.com/microsoft/vscode-onedrive-browser) topic: pushed_at:2024-06 star:0.0k fork:0.0k Browse and edit files from OneDrive in VS Code and on vscode.dev
-- [microsoft/vscode-oniguruma](https://github.com/microsoft/vscode-oniguruma) topic: pushed_at:2024-07 star:0.1k fork:0.0k Oniguruma Bindings for VS Code
+- [microsoft/vscode-oniguruma](https://github.com/microsoft/vscode-oniguruma) topic: pushed_at:2024-08 star:0.1k fork:0.0k Oniguruma Bindings for VS Code
 - [microsoft/vscode-perf](https://github.com/microsoft/vscode-perf) topic: pushed_at:2024-05 star:0.0k fork:0.0k VS Code Performance Tool
 - [microsoft/vscode-perf-bot](https://github.com/microsoft/vscode-perf-bot) topic: pushed_at:2024-08 star:0.0k fork:0.0k Run VS Code performance test runs automatically and report status
 - [microsoft/vscode-postgresql](https://github.com/microsoft/vscode-postgresql) topic: pushed_at:2024-08 star:0.4k fork:0.1k PostgreSQL extension for VSCODE
-- [microsoft/vscode-powerquery](https://github.com/microsoft/vscode-powerquery) topic: pushed_at:2024-06 star:0.1k fork:0.0k Visual Studio Code extension for Power Query / M.
-- [microsoft/vscode-powerquery-sdk](https://github.com/microsoft/vscode-powerquery-sdk) topic: pushed_at:2024-06 star:0.1k fork:0.0k Power Query Connector Development SDK for VS Code
-- [microsoft/vscode-proxy-agent](https://github.com/microsoft/vscode-proxy-agent) topic: pushed_at:2024-07 star:0.0k fork:0.0k A PAC file proxy `http.Agent` implementation for HTTP and HTTPS
+- [microsoft/vscode-powerquery](https://github.com/microsoft/vscode-powerquery) topic: pushed_at:2024-08 star:0.1k fork:0.0k Visual Studio Code extension for Power Query / M.
+- [microsoft/vscode-powerquery-sdk](https://github.com/microsoft/vscode-powerquery-sdk) topic: pushed_at:2024-08 star:0.1k fork:0.0k Power Query Connector Development SDK for VS Code
+- [microsoft/vscode-proxy-agent](https://github.com/microsoft/vscode-proxy-agent) topic: pushed_at:2024-08 star:0.0k fork:0.0k A PAC file proxy `http.Agent` implementation for HTTP and HTTPS
 - [microsoft/vscode-pull-request-github](https://github.com/microsoft/vscode-pull-request-github) topic:code-review,github,pull-requests,vscode pushed_at:2024-08 star:2.3k fork:0.6k GitHub Pull Requests for Visual Studio Code
 - [microsoft/vscode-pwa-analyzer](https://github.com/microsoft/vscode-pwa-analyzer) topic: pushed_at:2024-07 star:0.0k fork:0.0k Log viewer for https://github.com/microsoft/vscode-pwa
 - [microsoft/vscode-python](https://github.com/microsoft/vscode-python) topic: pushed_at:2024-08 star:4.3k fork:1.2k Python extension for Visual Studio Code
 - [microsoft/vscode-python-debugger](https://github.com/microsoft/vscode-python-debugger) topic: pushed_at:2024-08 star:0.1k fork:0.0k Python debugger (debugpy) extension for VS Code.
 - [microsoft/vscode-python-devicesimulator](https://github.com/microsoft/vscode-python-devicesimulator) topic: pushed_at:2021-12 star:0.2k fork:0.0k Device Simulator Express, a Microsoft Garage project
 - [microsoft/vscode-python-installer](https://github.com/microsoft/vscode-python-installer) topic: pushed_at:2022-02 star:0.0k fork:0.0k Code for running pip and conda installs from a VS Code extension
-- [microsoft/vscode-react-native](https://github.com/microsoft/vscode-react-native) topic:debugger,expo,extension,react-native,vscode pushed_at:2024-08 star:2.6k fork:0.3k VSCode extension for React Native - supports debugging and editor integration
+- [microsoft/vscode-react-native](https://github.com/microsoft/vscode-react-native) topic:debugger,expo,extension,react-native,vscode pushed_at:2024-09 star:2.6k fork:0.3k VSCode extension for React Native - supports debugging and editor integration
 - [microsoft/vscode-references-view](https://github.com/microsoft/vscode-references-view) topic: pushed_at:2022-05 star:0.1k fork:0.0k Show reference search results as tree
 - [microsoft/vscode-remote-file-sync](https://github.com/microsoft/vscode-remote-file-sync) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [microsoft/vscode-remote-wsl-recommender](https://github.com/microsoft/vscode-remote-wsl-recommender) topic: pushed_at:2024-03 star:0.0k fork:0.0k VS Code extension that recommends using the Windows Subsystem for Linux (WSL) and the Remote WSL extension.
@@ -6643,19 +6643,19 @@
 - [microsoft/vscode-simple-jupyter-notebook](https://github.com/microsoft/vscode-simple-jupyter-notebook) topic: pushed_at:2022-12 star:0.0k fork:0.0k Simple jupyter notebook for exploration purposes
 - [microsoft/vscode-smoketest-check](https://github.com/microsoft/vscode-smoketest-check) topic: pushed_at:2023-07 star:0.0k fork:0.0k A test extension used for smoke testing VS Code Extensions UI
 - [microsoft/vscode-spell-check](https://github.com/microsoft/vscode-spell-check) topic: pushed_at:2017-07 star:0.1k fork:0.0k An extension to VSCode for spell and grammar checking.
-- [microsoft/vscode-spring-boot-dashboard](https://github.com/microsoft/vscode-spring-boot-dashboard) topic: pushed_at:2024-07 star:0.1k fork:0.0k Spring Boot Dashboard for VS Code
-- [microsoft/vscode-spring-initializr](https://github.com/microsoft/vscode-spring-initializr) topic:gitter,java-support,microsoft,spring-boot,spring-initializr,vscode-extension pushed_at:2024-07 star:0.1k fork:0.0k VSCode Extension for Spring Initializr
-- [microsoft/vscode-sublime-keybindings](https://github.com/microsoft/vscode-sublime-keybindings) topic:sublime-text,vscode pushed_at:2024-06 star:0.2k fork:0.1k Sublime Text Keymap extension for VS Code
-- [microsoft/vscode-telemetry-extractor](https://github.com/microsoft/vscode-telemetry-extractor) topic: pushed_at:2024-06 star:0.0k fork:0.0k Allows the extraction of telemetry events from the VS Code source code
-- [microsoft/vscode-tensorboard](https://github.com/microsoft/vscode-tensorboard) topic: pushed_at:2024-03 star:0.0k fork:0.0k Launch and view Tensorboards in VS Code
+- [microsoft/vscode-spring-boot-dashboard](https://github.com/microsoft/vscode-spring-boot-dashboard) topic: pushed_at:2024-08 star:0.1k fork:0.0k Spring Boot Dashboard for VS Code
+- [microsoft/vscode-spring-initializr](https://github.com/microsoft/vscode-spring-initializr) topic:gitter,java-support,microsoft,spring-boot,spring-initializr,vscode-extension pushed_at:2024-08 star:0.1k fork:0.0k VSCode Extension for Spring Initializr
+- [microsoft/vscode-sublime-keybindings](https://github.com/microsoft/vscode-sublime-keybindings) topic:sublime-text,vscode pushed_at:2024-08 star:0.2k fork:0.1k Sublime Text Keymap extension for VS Code
+- [microsoft/vscode-telemetry-extractor](https://github.com/microsoft/vscode-telemetry-extractor) topic: pushed_at:2024-08 star:0.0k fork:0.0k Allows the extraction of telemetry events from the VS Code source code
+- [microsoft/vscode-tensorboard](https://github.com/microsoft/vscode-tensorboard) topic: pushed_at:2024-08 star:0.0k fork:0.0k Launch and view Tensorboards in VS Code
 - [microsoft/vscode-test](https://github.com/microsoft/vscode-test) topic: pushed_at:2024-07 star:0.2k fork:0.1k Testing utility for VS Code extensions
-- [microsoft/vscode-test-adapter-converter](https://github.com/microsoft/vscode-test-adapter-converter) topic: pushed_at:2024-06 star:0.0k fork:0.0k Bridge extension for converting Test Adapter UI to native VS Code testing
+- [microsoft/vscode-test-adapter-converter](https://github.com/microsoft/vscode-test-adapter-converter) topic: pushed_at:2024-08 star:0.0k fork:0.0k Bridge extension for converting Test Adapter UI to native VS Code testing
 - [microsoft/vscode-test-cli](https://github.com/microsoft/vscode-test-cli) topic: pushed_at:2024-07 star:0.0k fork:0.0k Command-line runner for VS Code tests
-- [microsoft/vscode-test-web](https://github.com/microsoft/vscode-test-web) topic: pushed_at:2024-07 star:0.1k fork:0.0k Node module to help testing VS Code web extensions.
+- [microsoft/vscode-test-web](https://github.com/microsoft/vscode-test-web) topic: pushed_at:2024-08 star:0.1k fork:0.0k Node module to help testing VS Code web extensions.
 - [microsoft/vscode-textbuffer](https://github.com/microsoft/vscode-textbuffer) topic: pushed_at:2023-09 star:0.1k fork:0.0k The text buffer implementation that is used in VS Code.
-- [microsoft/vscode-textmate](https://github.com/microsoft/vscode-textmate) topic:grammar,grammar-files,textmate,vscode pushed_at:2024-07 star:0.6k fork:0.1k A library that helps tokenize text using Text Mate grammars.
+- [microsoft/vscode-textmate](https://github.com/microsoft/vscode-textmate) topic:grammar,grammar-files,textmate,vscode pushed_at:2024-08 star:0.6k fork:0.1k A library that helps tokenize text using Text Mate grammars.
 - [microsoft/vscode-theme-color-consumer](https://github.com/microsoft/vscode-theme-color-consumer) topic: pushed_at:2022-11 star:0.0k fork:0.0k Normalizes vscode themes and colors
-- [microsoft/vscode-theme-tester](https://github.com/microsoft/vscode-theme-tester) topic: pushed_at:2024-06 star:0.0k fork:0.0k VS Code extension to preview a theme without installing it
+- [microsoft/vscode-theme-tester](https://github.com/microsoft/vscode-theme-tester) topic: pushed_at:2024-08 star:0.0k fork:0.0k VS Code extension to preview a theme without installing it
 - [microsoft/vscode-tree-sitter-wasm](https://github.com/microsoft/vscode-tree-sitter-wasm) topic: pushed_at:2024-08 star:0.0k fork:0.0k Pre-builds Tree-Sitter WASM files
 - [microsoft/vscode-ts-file-path-support](https://github.com/microsoft/vscode-ts-file-path-support) topic: pushed_at:2024-08 star:0.0k fork:0.0k An extension for VS Code that improves editor support for relative file paths in typescript/javascript sources, including auto-completion, renaming, go-to-definition, inlining and extraction.
 - [microsoft/vscode-ts-package-manager](https://github.com/microsoft/vscode-ts-package-manager) topic: pushed_at:2024-05 star:0.0k fork:0.0k Web-compatible package manager for tsserver
@@ -6663,7 +6663,7 @@
 - [microsoft/vscode-tslint](https://github.com/microsoft/vscode-tslint) topic:tslint,vscode pushed_at:2021-08 star:0.4k fork:0.1k A tslint integration for vscode
 - [microsoft/vscode-tye](https://github.com/microsoft/vscode-tye) topic: pushed_at:2023-07 star:0.0k fork:0.0k A Visual Studio Code extension for Tye development
 - [microsoft/vscode-typescript-tslint-plugin](https://github.com/microsoft/vscode-typescript-tslint-plugin) topic: pushed_at:2023-05 star:0.2k fork:0.0k VS Code extension that provides TSLint support using the typescript-tslint-plugin
-- [microsoft/vscode-uri](https://github.com/microsoft/vscode-uri) topic: pushed_at:2024-06 star:0.2k fork:0.0k The URI implementation that is used in VS Code and its extensions.
+- [microsoft/vscode-uri](https://github.com/microsoft/vscode-uri) topic: pushed_at:2024-08 star:0.2k fork:0.0k The URI implementation that is used in VS Code and its extensions.
 - [microsoft/vscode-vsce](https://github.com/microsoft/vscode-vsce) topic: pushed_at:2024-08 star:0.8k fork:0.2k VS Code Extension Manager
 - [microsoft/vscode-wasm](https://github.com/microsoft/vscode-wasm) topic: pushed_at:2024-08 star:0.4k fork:0.0k A WASI implementation that uses VS Code's extension host as the implementing API
 - [microsoft/vscode-web-playground](https://github.com/microsoft/vscode-web-playground) topic: pushed_at:2021-11 star:0.1k fork:0.0k This extension provides in-memory web capabilities for VS Code for testing purposes only.
@@ -6671,7 +6671,7 @@
 - [microsoft/vscode-webview-ui-toolkit-samples](https://github.com/microsoft/vscode-webview-ui-toolkit-samples) topic: pushed_at:2024-08 star:0.2k fork:0.0k A collection of sample extensions built with the Webview UI Toolkit for Visual Studio Code.
 - [microsoft/vscode-windows-process-tree](https://github.com/microsoft/vscode-windows-process-tree) topic: pushed_at:2024-06 star:0.1k fork:0.0k Fetch a Windows process tree fast in Node.js
 - [microsoft/vscode-wordcount](https://github.com/microsoft/vscode-wordcount) topic: pushed_at:2023-05 star:0.1k fork:0.1k Sample Word Count extension for VS Code.
-- [microsoft/vscodetestcover](https://github.com/microsoft/vscodetestcover) topic: pushed_at:2024-06 star:0.0k fork:0.0k A Mocha test runner with code coverage support for VS Code and Azure Data Studio extensions
+- [microsoft/vscodetestcover](https://github.com/microsoft/vscodetestcover) topic: pushed_at:2024-08 star:0.0k fork:0.0k A Mocha test runner with code coverage support for VS Code and Azure Data Studio extensions
 - [microsoft/vso-agent](https://github.com/microsoft/vso-agent) topic: pushed_at:2022-10 star:0.1k fork:0.1k Visual Studio Team Services and TFS agent for Mac OSX and Linux
 - [microsoft/vso-extension-tools](https://github.com/microsoft/vso-extension-tools) topic: pushed_at:2018-10 star:0.0k fork:0.0k Tools for packaging and publishing extensions for Visual Studio Online.
 - [microsoft/vstest-action](https://github.com/microsoft/vstest-action) topic: pushed_at:2024-01 star:0.0k fork:0.0k GitHub Action equivalent to the Azure DevOps VS Test Task
@@ -6703,7 +6703,7 @@
 - [microsoft/wineryjs](https://github.com/microsoft/wineryjs) topic:ab-testing,application-framework,continuous-modification,dependency-injection,napajs,request-level-experimentation pushed_at:2023-06 star:0.0k fork:0.0k Winery.js: a framework for service experimentation
 - [microsoft/wiql-editor](https://github.com/microsoft/wiql-editor) topic: pushed_at:2024-08 star:0.0k fork:0.0k Search work items with wiql queries.
 - [microsoft/wiql-to-odata-ado-extension](https://github.com/microsoft/wiql-to-odata-ado-extension) topic:azure-devops,azure-devops-extension,odata,wiql pushed_at:2023-10 star:0.0k fork:0.0k Translates a WIQL query to OData (for the Analytics extension) in Azure DevOps
-- [microsoft/workspace-tools](https://github.com/microsoft/workspace-tools) topic: pushed_at:2024-05 star:0.1k fork:0.0k JS Monorepo Workspace Tools
+- [microsoft/workspace-tools](https://github.com/microsoft/workspace-tools) topic: pushed_at:2024-08 star:0.1k fork:0.0k JS Monorepo Workspace Tools
 - [microsoft/wufb-reports-access-control](https://github.com/microsoft/wufb-reports-access-control) topic: pushed_at:2024-01 star:0.0k fork:0.0k Ansible solution to deploy WUfB reports infrastructure for partitioning data and securing access using Azure RBAC.
 - [microsoft/xpoc-framework](https://github.com/microsoft/xpoc-framework) topic: pushed_at:2024-08 star:0.0k fork:0.0k Cross-Platform Origin of Content framework
 - [microsoft/xterm.js](https://github.com/microsoft/xterm.js) topic: pushed_at:2023-04 star:0.0k fork:0.0k A terminal for the web
@@ -6726,7 +6726,7 @@
 - [microsoft/OneLabeler](https://github.com/microsoft/OneLabeler) topic:annotation,data-labeling,interactive-machine-learning,visual-programming pushed_at:2023-08 star:0.0k fork:0.0k A system for building labeling tools
 - [microsoft/rating-web](https://github.com/microsoft/rating-web) topic: pushed_at:2020-12 star:0.0k fork:1.4k Web app for end-to-end developer experience demo
 - [microsoft/vscode-tas-vue](https://github.com/microsoft/vscode-tas-vue) topic: pushed_at:2018-10 star:0.0k fork:0.0k VS Code Try App Service Vue Template
-- [microsoft/xr-development-for-beginners](https://github.com/microsoft/xr-development-for-beginners) topic: pushed_at:2023-07 star:0.4k fork:0.1k Spatial Computing Cloud Advocacy Curriculum
+- [microsoft/xr-development-for-beginners](https://github.com/microsoft/xr-development-for-beginners) topic: pushed_at:2023-07 star:0.5k fork:0.1k Spatial Computing Cloud Advocacy Curriculum
 
 ## WDL
 

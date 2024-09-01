@@ -34,7 +34,7 @@
 
 ## C
 
-- [uber/h3](https://github.com/uber/h3) topic:geospatial,h3,hexagon,spatial-indexing,uber pushed_at:2024-08 star:4.8k fork:0.5k Hexagonal hierarchical geospatial indexing system
+- [uber/h3](https://github.com/uber/h3) topic:geospatial,h3,hexagon,spatial-indexing,uber pushed_at:2024-09 star:4.8k fork:0.5k Hexagonal hierarchical geospatial indexing system
 - [uber/tree-sitter-strings](https://github.com/uber/tree-sitter-strings) topic: pushed_at:2023-06 star:0.0k fork:0.0k Tree-sitter grammar for Apple's Strings Resources File.
 
 ## C++
@@ -166,7 +166,7 @@
 ## Others
 
 - [uber/.github](https://github.com/uber/.github) topic: pushed_at:2020-03 star:0.0k fork:0.0k 
-- [uber/gqlgen](https://github.com/uber/gqlgen) topic: pushed_at:2024-01 star:0.0k fork:0.0k Uber fork:  go generate based graphql server library
+- [uber/gqlgen](https://github.com/uber/gqlgen) topic: pushed_at:2024-08 star:0.0k fork:0.0k Uber fork:  go generate based graphql server library
 - [uber/grafana-tempo-fork](https://github.com/uber/grafana-tempo-fork) topic: pushed_at:2024-07 star:0.0k fork:0.0k Uber fork of Grafana Tempo
 - [uber/hystrix-go](https://github.com/uber/hystrix-go) topic: pushed_at:2022-12 star:0.0k fork:0.0k Uber Fork:  Netflix's Hystrix latency and fault tolerance library, for Go 
 - [uber/jaeger](https://github.com/uber/jaeger) topic: pushed_at:2023-07 star:0.0k fork:0.0k Uber fork of CNCF Jaeger, a Distributed Tracing Platform - for Pull Requests
@@ -182,7 +182,7 @@
 - [uber/presto](https://github.com/uber/presto) topic: pushed_at:2024-01 star:0.0k fork:0.0k Uber fork of the prestodb/presto project.  This fork is used for upstream contributions.  Please use the upstream copy for testing and production.
 - [uber/ray](https://github.com/uber/ray) topic: pushed_at:2024-05 star:0.0k fork:0.0k UBER Fork for upstream contributions
 - [uber/terraform-provider-googleworkspace-fork](https://github.com/uber/terraform-provider-googleworkspace-fork) topic: pushed_at:2024-05 star:0.0k fork:0.0k Uber fork of the Terraform Provider for Google Workspace
-- [uber/timesfm-fork](https://github.com/uber/timesfm-fork) topic: pushed_at:2024-07 star:0.0k fork:0.0k Uber fork of the TimesFM project
+- [uber/timesfm-fork](https://github.com/uber/timesfm-fork) topic: pushed_at:2024-08 star:0.0k fork:0.0k Uber fork of the TimesFM project
 - [uber/velociraptor](https://github.com/uber/velociraptor) topic: pushed_at:2023-06 star:0.0k fork:0.0k Uber Fork of Velociraptor - for contribution use only, not for production
 - [uber/xviz-data](https://github.com/uber/xviz-data) topic: pushed_at:2019-03 star:0.0k fork:0.0k Public data storage related to https://github.com/uber/xviz
 
@@ -195,16 +195,16 @@
 - [uber/aristotle](https://github.com/uber/aristotle) topic: pushed_at:2023-10 star:0.0k fork:0.0k Uber Fork of Aristotle - for contribution purposes
 - [uber/bayesmark](https://github.com/uber/bayesmark) topic:bayesian-optimization,benchmark-framework,machine-learning,sklearn pushed_at:2021-06 star:0.1k fork:0.0k Benchmark framework to easily compare Bayesian optimization methods on real machine learning tasks
 - [uber/cassette](https://github.com/uber/cassette) topic: pushed_at:2023-05 star:0.1k fork:0.0k Store and replay HTTP requests made in your Python app
-- [uber/causalml](https://github.com/uber/causalml) topic:causal-inference,incubation,machine-learning,uplift-modeling pushed_at:2024-08 star:4.9k fork:0.8k Uplift modeling and causal inference with machine learning algorithms
+- [uber/causalml](https://github.com/uber/causalml) topic:causal-inference,incubation,machine-learning,uplift-modeling pushed_at:2024-08 star:5.0k fork:0.8k Uplift modeling and causal inference with machine learning algorithms
 - [uber/charlatan](https://github.com/uber/charlatan) topic: pushed_at:2019-09 star:0.1k fork:0.0k A Python library to efficiently manage and install database fixtures
 - [uber/clay](https://github.com/uber/clay) topic: pushed_at:2023-08 star:0.4k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [uber/doubles](https://github.com/uber/doubles) topic: pushed_at:2023-10 star:0.2k fork:0.0k Test doubles for Python.
 - [uber/fiber](https://github.com/uber/fiber) topic:distributed-computing,machine-learning,multiprocessing,python,sandbox pushed_at:2023-03 star:1.0k fork:0.1k Distributed Computing for AI Made Simple
-- [uber/h3-py](https://github.com/uber/h3-py) topic:geocoding,geospatial,gis,h3,hexagonal-architecture,python,uber pushed_at:2024-07 star:0.8k fork:0.1k Python bindings for H3, a hierarchical hexagonal geospatial indexing system
+- [uber/h3-py](https://github.com/uber/h3-py) topic:geocoding,geospatial,gis,h3,hexagonal-architecture,python,uber pushed_at:2024-08 star:0.8k fork:0.1k Python bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/hypothesis-gufunc](https://github.com/uber/hypothesis-gufunc) topic:generative-testing,hypothesis,numpy,property-based-testing,sandbox,testing-tools,vectorization,xarray pushed_at:2021-03 star:0.0k fork:0.0k Extension to hypothesis for testing numpy general universal functions
 - [uber/multidimensional_urlencode](https://github.com/uber/multidimensional_urlencode) topic: pushed_at:2019-07 star:0.1k fork:0.0k Python library to urlencode a multidimensional dict
 - [uber/mutornadomon](https://github.com/uber/mutornadomon) topic: pushed_at:2024-05 star:0.0k fork:0.0k Easy-to-install monitor endpoint for Tornado applications
-- [uber/orbit](https://github.com/uber/orbit) topic:arima,bayesian,bayesian-methods,bayesian-statistics,changepoint,exponential-smoothing,forecast,forecasting,machine-learning,orbit,probabilistic,probabilistic-programming,pyro,pystan,python,pytorch,regression,regression-models,stan,time-series pushed_at:2024-07 star:1.8k fork:0.1k A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
+- [uber/orbit](https://github.com/uber/orbit) topic:arima,bayesian,bayesian-methods,bayesian-statistics,changepoint,exponential-smoothing,forecast,forecasting,machine-learning,orbit,probabilistic,probabilistic-programming,pyro,pystan,python,pytorch,regression,regression-models,stan,time-series pushed_at:2024-07 star:1.9k fork:0.1k A Python package for Bayesian forecasting with object-oriented design and probabilistic models under the hood.
 - [uber/petastorm](https://github.com/uber/petastorm) topic:deep-learning,machine-learning,parquet,parquet-files,pyarrow,pyspark,pytorch,sysml,tensorflow pushed_at:2023-12 star:1.8k fork:0.3k Petastorm library enables single machine or distributed training and evaluation of deep learning models from datasets in Apache Parquet format. It supports ML frameworks such as Tensorflow, Pytorch, and PySpark and can be used from pure Python code.
 - [uber/py-find-injection](https://github.com/uber/py-find-injection) topic: pushed_at:2019-03 star:0.1k fork:0.0k Look for SQL injection attacks in python source code
 - [uber/py-look-for-timeouts](https://github.com/uber/py-look-for-timeouts) topic: pushed_at:2020-03 star:0.0k fork:0.0k Scan for missing timeout calls in python source files
@@ -273,7 +273,7 @@
 
 ## Vue
 
-- [uber/Cadence-Docs](https://github.com/uber/Cadence-Docs) topic: pushed_at:2024-07 star:0.0k fork:0.1k 
+- [uber/Cadence-Docs](https://github.com/uber/Cadence-Docs) topic: pushed_at:2024-08 star:0.0k fork:0.1k 
 
 
 ## License

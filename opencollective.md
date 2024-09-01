@@ -269,7 +269,7 @@
 - [opencollective/code-surfer](https://github.com/opencollective/code-surfer) topic: pushed_at:2019-09 star:0.0k fork:0.0k Rad code slides <🏄/>
 - [opencollective/codecrumbs](https://github.com/opencollective/codecrumbs) topic: pushed_at:2019-03 star:0.0k fork:0.0k Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.
 - [opencollective/coderplanets_web](https://github.com/opencollective/coderplanets_web) topic: pushed_at:2019-07 star:0.0k fork:0.0k the most sexiest community for developers,  build with React, Mobx/MST, GraphQL, Styled-Components,  Rxjs, Ramda ... and ❤️
-- [opencollective/contributors-svg](https://github.com/opencollective/contributors-svg) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
+- [opencollective/contributors-svg](https://github.com/opencollective/contributors-svg) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [opencollective/core](https://github.com/opencollective/core) topic: pushed_at:2017-07 star:0.0k fork:0.0k Agnostic Virtual Assistant
 - [opencollective/core-js](https://github.com/opencollective/core-js) topic: pushed_at:2019-04 star:0.0k fork:0.0k Standard Library
 - [opencollective/country-currency-emoji-flags](https://github.com/opencollective/country-currency-emoji-flags) topic: pushed_at:2023-12 star:0.0k fork:0.0k Returns Country Flag Emojis Given the Country or Currency Codes
@@ -369,7 +369,7 @@
 - [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) topic: pushed_at:2024-08 star:0.0k fork:0.0k Open Collective's REST API legacy, v1, and v2!
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) topic: pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
 - [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) topic: pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
-- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
+- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) topic: pushed_at:2023-01 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
 - [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) topic:opencollective,reactjs pushed_at:2018-07 star:0.1k fork:0.0k OpenCollective frontend
 - [opencollective/opencollective-zapier](https://github.com/opencollective/opencollective-zapier) topic:opencollective,zapier pushed_at:2021-02 star:0.0k fork:0.0k ⚠️ DEPRECATED ⚠️ Open Collective legacy Zapier integration
