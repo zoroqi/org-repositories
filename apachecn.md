@@ -145,7 +145,7 @@
 - [apachecn/apachecn-blockchain-docs-zh](https://github.com/apachecn/apachecn-blockchain-docs-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: ApacheCN 区块链中文文档集
 - [apachecn/apachecn-blockchain-pt2-zh](https://github.com/apachecn/apachecn-blockchain-pt2-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 区块链系列文章2
 - [apachecn/apachecn-blockchain-zh](https://github.com/apachecn/apachecn-blockchain-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 区块链系列文章1
-- [apachecn/apachecn-c-cpp-zh](https://github.com/apachecn/apachecn-c-cpp-zh) topic: pushed_at:2023-02 star:0.2k fork:0.0k :books: [译] ApacheCN C/C++ 译文集
+- [apachecn/apachecn-c-cpp-zh](https://github.com/apachecn/apachecn-c-cpp-zh) topic: pushed_at:2023-02 star:0.3k fork:0.0k :books: [译] ApacheCN C/C++ 译文集
 - [apachecn/apachecn-c-cpp-zh-pt2](https://github.com/apachecn/apachecn-c-cpp-zh-pt2) topic: pushed_at:2022-07 star:0.1k fork:0.0k 
 - [apachecn/apachecn-c-cpp-zh-pt3](https://github.com/apachecn/apachecn-c-cpp-zh-pt3) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
 - [apachecn/apachecn-cs-notes](https://github.com/apachecn/apachecn-cs-notes) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
@@ -418,7 +418,7 @@
 - [apachecn/nlp-pytorch-zh](https://github.com/apachecn/nlp-pytorch-zh) topic:nlp,python,pytorch,tutorial pushed_at:2021-01 star:0.7k fork:0.2k 《Natural Language Processing with PyTorch》中文翻译
 - [apachecn/numba-doc-zh](https://github.com/apachecn/numba-doc-zh) topic: pushed_at:2023-08 star:0.0k fork:0.0k Numba 0.44 中文文档
 - [apachecn/octopus-blog-zh](https://github.com/apachecn/octopus-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
-- [apachecn/opencv-doc-zh](https://github.com/apachecn/opencv-doc-zh) topic: pushed_at:2023-07 star:0.5k fork:0.1k :book: [译] OpenCV 中文文档
+- [apachecn/opencv-doc-zh](https://github.com/apachecn/opencv-doc-zh) topic: pushed_at:2023-07 star:0.6k fork:0.1k :book: [译] OpenCV 中文文档
 - [apachecn/opensuse-leap153-sysanal-tune-guide](https://github.com/apachecn/opensuse-leap153-sysanal-tune-guide) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/overiq-zh](https://github.com/apachecn/overiq-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/paperspace-blog-zh](https://github.com/apachecn/paperspace-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
@@ -440,7 +440,7 @@
 - [apachecn/pythonlibrary-blog-zh](https://github.com/apachecn/pythonlibrary-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/pythonspot-zh](https://github.com/apachecn/pythonspot-zh) topic: pushed_at:2022-07 star:0.1k fork:0.0k :books: [译] PythonSpot 中文系列教程
 - [apachecn/quantinsti-blog-zh](https://github.com/apachecn/quantinsti-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Quantinsti 博客中文翻译
-- [apachecn/rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) topic: pushed_at:2024-08 star:0.8k fork:0.1k 
+- [apachecn/rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) topic: pushed_at:2024-09 star:0.8k fork:0.1k 
 - [apachecn/RateMySupervisor-1](https://github.com/apachecn/RateMySupervisor-1) topic: pushed_at:2022-04 star:0.0k fork:0.0k 永久免费开源的导师评价数据、数据爬虫、无需编程基础的展示网页以及新信息补充平台
 - [apachecn/re4e-zh](https://github.com/apachecn/re4e-zh) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [apachecn/realpython-zh](https://github.com/apachecn/realpython-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -495,7 +495,7 @@
 - [apachecn/tutorialskart-zh](https://github.com/apachecn/tutorialskart-zh) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [apachecn/tutorialsteacher-zh](https://github.com/apachecn/tutorialsteacher-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/ucb-cs294-112-notes-zh](https://github.com/apachecn/ucb-cs294-112-notes-zh) topic: pushed_at:2021-01 star:0.0k fork:0.0k UCB CS294-112 深度强化学习中文笔记
-- [apachecn/uiuc-cs241-notes-zh](https://github.com/apachecn/uiuc-cs241-notes-zh) topic:cs241,system,textbook,uiuc pushed_at:2022-08 star:0.1k fork:0.0k :book: 【译】UIUC CS241 系统编程中文讲义
+- [apachecn/uiuc-cs241-notes-zh](https://github.com/apachecn/uiuc-cs241-notes-zh) topic:cs241,system,textbook,uiuc pushed_at:2022-08 star:0.0k fork:0.0k :book: 【译】UIUC CS241 系统编程中文讲义
 - [apachecn/venturehacks-blog-zh](https://github.com/apachecn/venturehacks-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/visualmodo-blog-zh](https://github.com/apachecn/visualmodo-blog-zh) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/wanqu-daily-zh](https://github.com/apachecn/wanqu-daily-zh) topic: pushed_at:2022-11 star:0.0k fork:0.0k :books: 湾区日报翻译
@@ -1194,7 +1194,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-03 star:39.0k fork:11.4k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-03 star:39.1k fork:11.4k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
