@@ -113,12 +113,12 @@
 ## Python
 
 - [twitter/caladrius](https://github.com/twitter/caladrius) topic: pushed_at:2023-04 star:0.0k fork:0.0k Performance modelling system for Distributed Stream Processing Systems (DSPS) such as Apache Heron and Apache Storm
-- [twitter/communitynotes](https://github.com/twitter/communitynotes) topic:crowdsourcing,twitter pushed_at:2024-08 star:1.4k fork:0.2k Documentation and source code powering Twitter's Community Notes
+- [twitter/communitynotes](https://github.com/twitter/communitynotes) topic:crowdsourcing,twitter pushed_at:2024-09 star:1.4k fork:0.2k Documentation and source code powering Twitter's Community Notes
 - [twitter/dict_minimize](https://github.com/twitter/dict_minimize) topic:scipy,scipy-stack pushed_at:2023-06 star:0.1k fork:0.0k Access scipy optimizers from your favorite deep learning framework.
 - [twitter/diffusion-rl](https://github.com/twitter/diffusion-rl) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [twitter/gatekeeper-service](https://github.com/twitter/gatekeeper-service) topic: pushed_at:2023-02 star:0.0k fork:0.0k GateKeeper is a service built to automate the manual steps involved in onboarding, offboarding, and lost asset scenarios.
 - [twitter/pants](https://github.com/twitter/pants) topic: pushed_at:2023-08 star:0.1k fork:0.0k Pants Build System
-- [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) topic: pushed_at:2024-07 star:10.0k fork:2.2k Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) topic: pushed_at:2024-07 star:10.1k fork:2.2k Source code for Twitter's Recommendation Algorithm
 - [twitter/zktraffic](https://github.com/twitter/zktraffic) topic: pushed_at:2023-04 star:0.2k fork:0.1k ZooKeeper protocol analyzer and stats gathering daemon
 
 ## R
@@ -141,7 +141,7 @@
 
 ## SCSS
 
-- [twitter/opensource-website](https://github.com/twitter/opensource-website) topic:ospo pushed_at:2024-08 star:3.0k fork:0.8k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
+- [twitter/opensource-website](https://github.com/twitter/opensource-website) topic:ospo pushed_at:2024-09 star:3.0k fork:0.8k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 
 ## Scala
 
@@ -150,7 +150,7 @@
 - [twitter/bijection](https://github.com/twitter/bijection) topic: pushed_at:2024-08 star:0.7k fork:0.1k Reversible conversions between types
 - [twitter/cassovary](https://github.com/twitter/cassovary) topic: pushed_at:2021-10 star:1.0k fork:0.1k Cassovary is a simple big graph processing library for the JVM
 - [twitter/chill](https://github.com/twitter/chill) topic: pushed_at:2024-08 star:0.6k fork:0.2k Scala extensions for the Kryo serialization library
-- [twitter/finagle](https://github.com/twitter/finagle) topic:distributed-systems,finagle,http,http2,java,memcached,mysql,redis,rpc,scala,thrift,zipkin pushed_at:2024-06 star:8.8k fork:1.4k A fault tolerant, protocol-agnostic RPC system
+- [twitter/finagle](https://github.com/twitter/finagle) topic:distributed-systems,finagle,http,http2,java,memcached,mysql,redis,rpc,scala,thrift,zipkin pushed_at:2024-09 star:8.8k fork:1.4k A fault tolerant, protocol-agnostic RPC system
 - [twitter/finatra](https://github.com/twitter/finatra) topic:finagle,framework,guice,http,microservices,scala,slf4j,testing,thrift,twitter-server pushed_at:2024-05 star:2.3k fork:0.4k Fast, testable, Scala services built on TwitterServer and Finagle
 - [twitter/iago2](https://github.com/twitter/iago2) topic: pushed_at:2023-04 star:0.0k fork:0.0k A load generator, built for engineers
 - [twitter/rsc](https://github.com/twitter/rsc) topic: pushed_at:2021-10 star:1.2k fork:0.1k Experimental Scala compiler focused on compilation speed
@@ -159,7 +159,7 @@
 - [twitter/scrooge](https://github.com/twitter/scrooge) topic:android,cocoa,code-generation,finagle,java,lua,scala,thrift pushed_at:2024-05 star:0.8k fork:0.2k A Thrift parser/generator
 - [twitter/storehaus](https://github.com/twitter/storehaus) topic: pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) topic: pushed_at:2022-01 star:2.1k fork:0.3k Streaming MapReduce with Scalding and Storm
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2024-07 star:62.0k fork:12.2k Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2024-07 star:62.1k fork:12.1k Source code for Twitter's Recommendation Algorithm
 - [twitter/tormenta](https://github.com/twitter/tormenta) topic: pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) topic: pushed_at:2024-04 star:0.2k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) topic: pushed_at:2023-04 star:0.9k fork:0.2k Korean tokenizer
