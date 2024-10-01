@@ -94,7 +94,7 @@
 
 ## Others
 
-- [twitter/.github](https://github.com/twitter/.github) topic: pushed_at:2024-02 star:0.0k fork:0.1k Twitter GitHub Organization-wide files
+- [twitter/.github](https://github.com/twitter/.github) topic: pushed_at:2024-02 star:0.1k fork:0.1k Twitter GitHub Organization-wide files
 - [twitter/analytics-infra-governance](https://github.com/twitter/analytics-infra-governance) topic: pushed_at:2017-10 star:0.0k fork:0.0k Description of the process for how to commit, review, and release code to the Scalding OSS family (Scalding, Summingbird, Algebird, Bijection, Storehaus, etc)
 - [twitter/birdwatch](https://github.com/twitter/birdwatch) topic: pushed_at:2023-04 star:0.1k fork:0.0k 
 - [twitter/curation-style-guide](https://github.com/twitter/curation-style-guide) topic: pushed_at:2019-06 star:0.0k fork:0.0k Document Repository for Twitter's Curation Style Guide
@@ -159,12 +159,12 @@
 - [twitter/scrooge](https://github.com/twitter/scrooge) topic:android,cocoa,code-generation,finagle,java,lua,scala,thrift pushed_at:2024-05 star:0.8k fork:0.2k A Thrift parser/generator
 - [twitter/storehaus](https://github.com/twitter/storehaus) topic: pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) topic: pushed_at:2022-01 star:2.1k fork:0.3k Streaming MapReduce with Scalding and Storm
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2024-07 star:62.1k fork:12.1k Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2024-07 star:62.1k fork:12.2k Source code for Twitter's Recommendation Algorithm
 - [twitter/tormenta](https://github.com/twitter/tormenta) topic: pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) topic: pushed_at:2024-04 star:0.2k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) topic: pushed_at:2023-04 star:0.9k fork:0.2k Korean tokenizer
 - [twitter/twitter-server](https://github.com/twitter/twitter-server) topic:finagle,finatra pushed_at:2024-05 star:1.6k fork:0.3k Twitter-Server defines a template from which services at Twitter are built
-- [twitter/util](https://github.com/twitter/util) topic:finagle,scala,utility pushed_at:2024-08 star:2.7k fork:0.6k Wonderful reusable code from Twitter
+- [twitter/util](https://github.com/twitter/util) topic:finagle,scala,utility pushed_at:2024-09 star:2.7k fork:0.6k Wonderful reusable code from Twitter
 
 ## Shell
 

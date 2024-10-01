@@ -35,7 +35,7 @@
 ## C++
 
 - [sony/easyhttpcpp](https://github.com/sony/easyhttpcpp) topic:cache,cpp,cross-platform,http,https,networking pushed_at:2022-01 star:0.2k fork:0.0k A cross-platform HTTP client library with a focus on usability and speed
-- [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) topic:embedded-linux,embedded-systems,flutter,flutter-plugin,linux,plugin pushed_at:2024-05 star:0.0k fork:0.0k Flutter plugins for embedded Linux (eLinux)
+- [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) topic:embedded-linux,embedded-systems,flutter,flutter-plugin,linux,plugin pushed_at:2024-09 star:0.0k fork:0.0k Flutter plugins for embedded Linux (eLinux)
 - [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) topic:embedded-linux,embedded-systems,flutter,linux pushed_at:2024-09 star:1.2k fork:0.1k Embedded Linux embedding for Flutter
 - [sony/nmos-cpp](https://github.com/sony/nmos-cpp) topic:cpp,cpp11,nmos,sdk pushed_at:2024-09 star:0.1k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
 - [sony/node-win-usbdev](https://github.com/sony/node-win-usbdev) topic: pushed_at:2018-02 star:0.0k fork:0.0k 
@@ -43,7 +43,7 @@
 
 ## CSS
 
-- [sony/creativeai](https://github.com/sony/creativeai) topic: pushed_at:2024-08 star:0.1k fork:0.0k 
+- [sony/creativeai](https://github.com/sony/creativeai) topic: pushed_at:2024-09 star:0.1k fork:0.0k 
 
 ## Cuda
 
@@ -131,7 +131,7 @@
 - [sony/pyIEOE](https://github.com/sony/pyIEOE) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 - [sony/san](https://github.com/sony/san) topic:deep-generative-model,gan,generative-model,machine-learning,optimal-transport,pytorch,sliced-wasserstein-distance,wasserstein-distance pushed_at:2024-06 star:0.1k fork:0.0k PyTorch implementation of slicing adversarial network (SAN)
 - [sony/silentcipher](https://github.com/sony/silentcipher) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
-- [sony/soundctm](https://github.com/sony/soundctm) topic:audio-generation,diffusion-models,pytorch,text-to-audio pushed_at:2024-08 star:0.1k fork:0.0k Pytorch implementation of SoundCTM
+- [sony/soundctm](https://github.com/sony/soundctm) topic:audio-generation,diffusion-models,pytorch,text-to-audio pushed_at:2024-10 star:0.1k fork:0.0k Pytorch implementation of SoundCTM
 - [sony/sqvae](https://github.com/sony/sqvae) topic:bayesian,deep-generative-model,generative-model,gumbel-softmax,machine-learning,pytorch,vae,variational-autoencoder,vector-quantization,vq-vae pushed_at:2022-07 star:0.2k fork:0.0k Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE)
 - [sony/SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
 - [sony/timbre-trap](https://github.com/sony/timbre-trap) topic: pushed_at:2024-05 star:0.0k fork:0.0k Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription"
