@@ -45,7 +45,7 @@
 - [apachecn/gainlo-interview-guide-zh](https://github.com/apachecn/gainlo-interview-guide-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :books: [译] Gainlo 面试指南
 - [apachecn/geeksforgeeks-dsal-zh](https://github.com/apachecn/geeksforgeeks-dsal-zh) topic: pushed_at:2022-01 star:0.1k fork:0.0k :book: [译] GeeksForGeeks 翻译计划
 - [apachecn/gen-epub](https://github.com/apachecn/gen-epub) topic: pushed_at:2023-03 star:0.0k fork:0.0k 用于生成 EPUB 的小工具。
-- [apachecn/hands-on-ml-2e-zh](https://github.com/apachecn/hands-on-ml-2e-zh) topic: pushed_at:2021-08 star:0.1k fork:0.1k :book: [译] Sklearn 与 TensorFlow 机器学习实用指南第二版
+- [apachecn/hands-on-ml-2e-zh](https://github.com/apachecn/hands-on-ml-2e-zh) topic: pushed_at:2021-08 star:0.2k fork:0.1k :book: [译] Sklearn 与 TensorFlow 机器学习实用指南第二版
 - [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) topic:book,deep-learning,machine-learning,python,sklearn,tensorflow pushed_at:2021-08 star:3.7k fork:1.5k :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
 - [apachecn/kali-linux-cookbook-zh](https://github.com/apachecn/kali-linux-cookbook-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Kali Linux 秘籍 中文版
 - [apachecn/kali-linux-network-scanning-cookbook-zh](https://github.com/apachecn/kali-linux-network-scanning-cookbook-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Kali Linux 网络扫描秘籍 中文版
@@ -440,7 +440,7 @@
 - [apachecn/pythonlibrary-blog-zh](https://github.com/apachecn/pythonlibrary-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/pythonspot-zh](https://github.com/apachecn/pythonspot-zh) topic: pushed_at:2022-07 star:0.1k fork:0.0k :books: [译] PythonSpot 中文系列教程
 - [apachecn/quantinsti-blog-zh](https://github.com/apachecn/quantinsti-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Quantinsti 博客中文翻译
-- [apachecn/rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) topic: pushed_at:2024-09 star:0.8k fork:0.1k 
+- [apachecn/rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) topic: pushed_at:2024-09 star:0.9k fork:0.1k 
 - [apachecn/RateMySupervisor-1](https://github.com/apachecn/RateMySupervisor-1) topic: pushed_at:2022-04 star:0.0k fork:0.0k 永久免费开源的导师评价数据、数据爬虫、无需编程基础的展示网页以及新信息补充平台
 - [apachecn/re4e-zh](https://github.com/apachecn/re4e-zh) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [apachecn/realpython-zh](https://github.com/apachecn/realpython-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -1033,8 +1033,8 @@
 - [apachecn/scripts](https://github.com/apachecn/scripts) topic: pushed_at:2022-01 star:0.0k fork:0.0k jd https://t.me/+fo3HSUe3nbRiNjY1
 - [apachecn/scripts-1](https://github.com/apachecn/scripts-1) topic: pushed_at:2021-12 star:0.0k fork:0.0k Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
 - [apachecn/scys1](https://github.com/apachecn/scys1) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:0.8k fork:0.3k :books: 网安类绝版图书
-- [apachecn/sec-books-part2](https://github.com/apachecn/sec-books-part2) topic: pushed_at:2023-01 star:0.0k fork:0.0k :books: 网安类绝版图书（二）
+- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:0.9k fork:0.3k :books: 网安类绝版图书
+- [apachecn/sec-books-part2](https://github.com/apachecn/sec-books-part2) topic: pushed_at:2023-01 star:0.1k fork:0.0k :books: 网安类绝版图书（二）
 - [apachecn/sec-gzh-2022](https://github.com/apachecn/sec-gzh-2022) topic: pushed_at:2023-04 star:0.0k fork:0.0k 网络安全类公众号离线备份
 - [apachecn/seebug-paper-2016-20xx](https://github.com/apachecn/seebug-paper-2016-20xx) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [apachecn/select2](https://github.com/apachecn/select2) topic: pushed_at:2022-06 star:0.0k fork:0.0k Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
@@ -1194,7 +1194,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-03 star:39.2k fork:11.4k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-03 star:39.3k fork:11.4k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
