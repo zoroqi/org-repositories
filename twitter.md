@@ -54,7 +54,7 @@
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) topic: pushed_at:2023-04 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/interactive](https://github.com/twitter/interactive) topic: pushed_at:2021-11 star:0.2k fork:0.1k Twitter interactive visualization
 - [twitter/scala_school](https://github.com/twitter/scala_school) topic: pushed_at:2023-04 star:3.7k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) topic:emoji,twemoji pushed_at:2024-08 star:16.8k fork:1.8k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twemoji](https://github.com/twitter/twemoji) topic:emoji,twemoji pushed_at:2024-08 star:16.8k fork:1.9k Emoji for everyone. https://twemoji.twitter.com/
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) topic:emoji,java,nodejs,objective-c,ruby,tweet,twitter,twitter-text,unicode pushed_at:2024-04 star:3.1k fork:0.5k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) topic: pushed_at:2021-10 star:0.1k fork:0.0k 
 
@@ -159,7 +159,7 @@
 - [twitter/scrooge](https://github.com/twitter/scrooge) topic:android,cocoa,code-generation,finagle,java,lua,scala,thrift pushed_at:2024-10 star:0.8k fork:0.2k A Thrift parser/generator
 - [twitter/storehaus](https://github.com/twitter/storehaus) topic: pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) topic: pushed_at:2022-01 star:2.1k fork:0.3k Streaming MapReduce with Scalding and Storm
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2024-07 star:62.2k fork:12.2k Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2024-07 star:62.3k fork:12.1k Source code for Twitter's Recommendation Algorithm
 - [twitter/tormenta](https://github.com/twitter/tormenta) topic: pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) topic: pushed_at:2024-04 star:0.2k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) topic: pushed_at:2023-04 star:0.9k fork:0.2k Korean tokenizer

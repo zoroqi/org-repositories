@@ -89,7 +89,7 @@
 ## Objective-C
 
 - [twitter-archive/CocoaSPDY](https://github.com/twitter-archive/CocoaSPDY) topic: pushed_at:2017-04 star:2.4k fork:0.2k SPDY for iOS and OS X
-- [twitter-archive/twitter-kit-ios](https://github.com/twitter-archive/twitter-kit-ios) topic: pushed_at:2019-04 star:0.7k fork:0.4k Twitter Kit is a native SDK to include Twitter content inside mobile apps.
+- [twitter-archive/twitter-kit-ios](https://github.com/twitter-archive/twitter-kit-ios) topic: pushed_at:2019-04 star:0.7k fork:0.5k Twitter Kit is a native SDK to include Twitter content inside mobile apps.
 - [twitter-archive/twui](https://github.com/twitter-archive/twui) topic: pushed_at:2015-09 star:2.7k fork:0.3k A UI framework for Mac based on Core Animation
 
 ## Others

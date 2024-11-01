@@ -14,9 +14,9 @@
 - [JavaScript](#javascript) (41)
 - [Jupyter Notebook](#jupyter-notebook) (14)
 - [OpenEdge ABL](#openedge-abl) (1)
-- [Others](#others) (57)
+- [Others](#others) (56)
 - [Processing](#processing) (1)
-- [Python](#python) (56)
+- [Python](#python) (57)
 - [Ruby](#ruby) (3)
 - [Shell](#shell) (1)
 - [Swift](#swift) (1)
@@ -205,7 +205,6 @@
 - [OpenGenus/cpp_compilation](https://github.com/OpenGenus/cpp_compilation) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/cricket_game](https://github.com/OpenGenus/cricket_game) topic: pushed_at:2019-09 star:0.0k fork:0.0k 
 - [OpenGenus/data-store](https://github.com/OpenGenus/data-store) topic:data,opengenus pushed_at:2018-01 star:0.0k fork:0.0k Serving data to other OpenGenus services
-- [OpenGenus/Depth-Estimation](https://github.com/OpenGenus/Depth-Estimation) topic: pushed_at:2024-08 star:0.0k fork:0.0k Depth Estimation - overview
 - [OpenGenus/Desktop-app](https://github.com/OpenGenus/Desktop-app) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
 - [OpenGenus/discuss](https://github.com/OpenGenus/discuss) topic:discourse,discussion,friend-requests,friends,opengenus pushed_at:2019-10 star:0.0k fork:0.0k Find users to discuss anything and find a new friend
 - [OpenGenus/django_demo](https://github.com/OpenGenus/django_demo) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
@@ -265,6 +264,7 @@
 - [OpenGenus/code-submission](https://github.com/OpenGenus/code-submission) topic: pushed_at:2020-11 star:0.0k fork:0.0k 
 - [OpenGenus/countdown-python](https://github.com/OpenGenus/countdown-python) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [OpenGenus/course](https://github.com/OpenGenus/course) topic: pushed_at:2018-08 star:0.0k fork:0.0k 
+- [OpenGenus/Depth-Estimation](https://github.com/OpenGenus/Depth-Estimation) topic: pushed_at:2024-10 star:0.0k fork:0.0k Depth Estimation - overview
 - [OpenGenus/face](https://github.com/OpenGenus/face) topic:machine-learning,opengenus,principal-component-analysis,project pushed_at:2021-12 star:0.0k fork:0.0k Project on Reconstructing Face
 - [OpenGenus/face_aging](https://github.com/OpenGenus/face_aging) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
 - [OpenGenus/face_print](https://github.com/OpenGenus/face_print) topic: pushed_at:2018-08 star:0.0k fork:0.0k 
