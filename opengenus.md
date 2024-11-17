@@ -197,7 +197,7 @@
 - [OpenGenus/android-iq](https://github.com/OpenGenus/android-iq) topic: pushed_at:2018-06 star:0.0k fork:0.0k 
 - [OpenGenus/api_libraries](https://github.com/OpenGenus/api_libraries) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [OpenGenus/article-of-day](https://github.com/OpenGenus/article-of-day) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
-- [OpenGenus/Best-student-discount-services](https://github.com/OpenGenus/Best-student-discount-services) topic:awesome-list,discounts,opengenus,students,wiki pushed_at:2023-12 star:0.4k fork:0.1k Best student discount services one should definitely try out! Contributions and translations are highly encouraged. 
+- [OpenGenus/Best-student-discount-services](https://github.com/OpenGenus/Best-student-discount-services) topic:awesome-list,discounts,opengenus,students,wiki pushed_at:2023-12 star:0.4k fork:0.0k Best student discount services one should definitely try out! Contributions and translations are highly encouraged. 
 - [OpenGenus/candle](https://github.com/OpenGenus/candle) topic: pushed_at:2019-02 star:0.0k fork:0.0k 
 - [OpenGenus/chatbot](https://github.com/OpenGenus/chatbot) topic:aiml,aiml-bots,chatbot,opengenus,opengenus-internship pushed_at:2020-08 star:0.0k fork:0.0k Developing a basic chatbot using AIML (developed by OpenGenus Intern, Priyanshi Sharma)
 - [OpenGenus/cosmos-engine](https://github.com/OpenGenus/cosmos-engine) topic:compiler,cosmos,opengenus pushed_at:2017-12 star:0.0k fork:0.0k The online compiler and debugging tool [WIP]
