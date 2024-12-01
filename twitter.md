@@ -36,7 +36,7 @@
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) topic: pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
 - [twitter/pelikan](https://github.com/twitter/pelikan) topic: pushed_at:2023-10 star:1.9k fork:0.2k Pelikan is Twitter's unified cache backend
 - [twitter/twemcache](https://github.com/twitter/twemcache) topic: pushed_at:2021-11 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) topic: pushed_at:2024-03 star:12.1k fork:2.1k A fast, light-weight proxy for memcached and redis
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) topic: pushed_at:2024-03 star:12.2k fork:2.1k A fast, light-weight proxy for memcached and redis
 
 ## C++
 
@@ -68,7 +68,7 @@
 - [twitter/hraven](https://github.com/twitter/hraven) topic: pushed_at:2022-01 star:0.1k fork:0.1k hRaven collects run time data and statistics from MapReduce jobs in an easily queryable format
 - [twitter/joauth](https://github.com/twitter/joauth) topic: pushed_at:2023-04 star:0.2k fork:0.1k A Java library for authenticating HTTP Requests using OAuth
 - [twitter/netty-http2](https://github.com/twitter/netty-http2) topic: pushed_at:2023-04 star:0.1k fork:0.1k HTTP/2 for Netty
-- [twitter/nodes](https://github.com/twitter/nodes) topic: pushed_at:2023-04 star:0.2k fork:0.1k  A library to implement asynchronous dependency graphs for services in Java
+- [twitter/nodes](https://github.com/twitter/nodes) topic: pushed_at:2023-04 star:0.3k fork:0.1k  A library to implement asynchronous dependency graphs for services in Java
 - [twitter/sbf](https://github.com/twitter/sbf) topic: pushed_at:2023-04 star:0.2k fork:0.0k 
 - [twitter/Serial](https://github.com/twitter/Serial) topic: pushed_at:2023-04 star:1.0k fork:0.1k Light-weight, fast framework for object serialization in Java, with Android support.
 - [twitter/whiskey](https://github.com/twitter/whiskey) topic: pushed_at:2023-04 star:0.1k fork:0.0k HTTP library for Android (beta)
@@ -147,7 +147,7 @@
 
 - [twitter/algebird](https://github.com/twitter/algebird) topic: pushed_at:2024-08 star:2.3k fork:0.3k Abstract Algebra for Scala
 - [twitter/bazel-multiversion](https://github.com/twitter/bazel-multiversion) topic:bazel,bazel-build,bazel-rules,coursier,dependency-manager,java,jvm,kotlin,scala pushed_at:2023-06 star:0.0k fork:0.0k Bazel rules to resolve, fetch and manage 3rdparty JVM dependencies with support for multiple parallel versions of the same dependency. Powered by Coursier. 
-- [twitter/bijection](https://github.com/twitter/bijection) topic: pushed_at:2024-08 star:0.7k fork:0.1k Reversible conversions between types
+- [twitter/bijection](https://github.com/twitter/bijection) topic: pushed_at:2024-11 star:0.7k fork:0.1k Reversible conversions between types
 - [twitter/cassovary](https://github.com/twitter/cassovary) topic: pushed_at:2021-10 star:1.0k fork:0.1k Cassovary is a simple big graph processing library for the JVM
 - [twitter/chill](https://github.com/twitter/chill) topic: pushed_at:2024-08 star:0.6k fork:0.2k Scala extensions for the Kryo serialization library
 - [twitter/finagle](https://github.com/twitter/finagle) topic:distributed-systems,finagle,http,http2,java,memcached,mysql,redis,rpc,scala,thrift,zipkin pushed_at:2024-11 star:8.8k fork:1.5k A fault tolerant, protocol-agnostic RPC system
@@ -160,7 +160,7 @@
 - [twitter/stitch](https://github.com/twitter/stitch) topic: pushed_at:2024-11 star:0.1k fork:0.0k 
 - [twitter/storehaus](https://github.com/twitter/storehaus) topic: pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) topic: pushed_at:2022-01 star:2.1k fork:0.3k Streaming MapReduce with Scalding and Storm
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2024-07 star:62.4k fork:12.2k Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2024-07 star:62.5k fork:12.2k Source code for Twitter's Recommendation Algorithm
 - [twitter/tormenta](https://github.com/twitter/tormenta) topic: pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) topic: pushed_at:2024-04 star:0.2k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) topic: pushed_at:2023-04 star:0.9k fork:0.2k Korean tokenizer

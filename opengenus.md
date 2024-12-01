@@ -11,12 +11,12 @@
 - [CSS](#css) (7)
 - [HTML](#html) (41)
 - [Java](#java) (20)
-- [JavaScript](#javascript) (41)
+- [JavaScript](#javascript) (42)
 - [Jupyter Notebook](#jupyter-notebook) (14)
 - [OpenEdge ABL](#openedge-abl) (1)
-- [Others](#others) (56)
+- [Others](#others) (54)
 - [Processing](#processing) (1)
-- [Python](#python) (57)
+- [Python](#python) (58)
 - [Ruby](#ruby) (3)
 - [Shell](#shell) (1)
 - [Swift](#swift) (1)
@@ -36,7 +36,7 @@
 - [OpenGenus/calculator-in-cpp](https://github.com/OpenGenus/calculator-in-cpp) topic:calculator,console-application,cpp,opengenus-internship,project pushed_at:2023-01 star:0.0k fork:0.0k Calculator Console Application in C++
 - [OpenGenus/calendar-in-cpp](https://github.com/OpenGenus/calendar-in-cpp) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [OpenGenus/cosmos](https://github.com/OpenGenus/cosmos) topic:algorithm,datastructures,hacktoberfest,hacktoberfest-accepted,hacktoberfest2022,hacktoberfest2023,hacktoberfest2024,internship,internships,interview-questions,library,offline-app,opengenus,search-algorithms,sorting-algorithms pushed_at:2024-10 star:13.6k fork:3.7k World's largest Contributor driven code dataset | Used in Quark Search Engine, @OpenGenus IQ, OpenGenus Visual Project
-- [OpenGenus/daily43-cpp](https://github.com/OpenGenus/daily43-cpp) topic:algorithms,cpp,daily43,data-structures,easy,interview-questions,leetcode,leetcode-cpp pushed_at:2024-07 star:0.0k fork:0.0k DAILY43: Algorithmic Problems for Coding Interviews: Easy level, C++ edition
+- [OpenGenus/daily43-cpp](https://github.com/OpenGenus/daily43-cpp) topic:algorithms,cpp,daily43,data-structures,easy,interview-questions,leetcode,leetcode-cpp pushed_at:2024-11 star:0.0k fork:0.0k DAILY43: Algorithmic Problems for Coding Interviews: Easy level, C++ edition
 - [OpenGenus/DSA-takeover](https://github.com/OpenGenus/DSA-takeover) topic:algorithms,algorithms-and-data-structures,data-structures-and-algorithms,dsa-takeover,opengenus pushed_at:2024-10 star:0.0k fork:0.0k DSA Takeover [Best approach to master Data Structures and Algorithms]
 - [OpenGenus/Hangman-cpp](https://github.com/OpenGenus/Hangman-cpp) topic: pushed_at:2023-08 star:0.0k fork:0.0k Hangman game in C++
 - [OpenGenus/keylogger-cpp](https://github.com/OpenGenus/keylogger-cpp) topic:cpp,keylogger,opengenus-internship pushed_at:2023-01 star:0.0k fork:0.0k Keylogger developed in C++
@@ -139,6 +139,7 @@
 - [OpenGenus/Connect-Four-in-HTML](https://github.com/OpenGenus/Connect-Four-in-HTML) topic: pushed_at:2023-07 star:0.0k fork:0.0k Connect Four game in HTML and JS
 - [OpenGenus/countdown-tracker](https://github.com/OpenGenus/countdown-tracker) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [OpenGenus/curriculum](https://github.com/OpenGenus/curriculum) topic: pushed_at:2018-07 star:0.0k fork:0.0k The freeCodeCamp curriculum and lesson editor
+- [OpenGenus/Desktop-app](https://github.com/OpenGenus/Desktop-app) topic: pushed_at:2024-11 star:0.0k fork:0.0k 
 - [OpenGenus/Electron-JS](https://github.com/OpenGenus/Electron-JS) topic: pushed_at:2023-07 star:0.0k fork:0.0k Electron JS Basic Introduction
 - [OpenGenus/ember-js-app](https://github.com/OpenGenus/ember-js-app) topic: pushed_at:2023-08 star:0.0k fork:0.0k Ember JS app
 - [OpenGenus/gif-generator](https://github.com/OpenGenus/gif-generator) topic: pushed_at:2023-08 star:0.0k fork:0.0k Gif generator
@@ -205,7 +206,6 @@
 - [OpenGenus/cpp_compilation](https://github.com/OpenGenus/cpp_compilation) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/cricket_game](https://github.com/OpenGenus/cricket_game) topic: pushed_at:2019-09 star:0.0k fork:0.0k 
 - [OpenGenus/data-store](https://github.com/OpenGenus/data-store) topic:data,opengenus pushed_at:2018-01 star:0.0k fork:0.0k Serving data to other OpenGenus services
-- [OpenGenus/Desktop-app](https://github.com/OpenGenus/Desktop-app) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
 - [OpenGenus/discuss](https://github.com/OpenGenus/discuss) topic:discourse,discussion,friend-requests,friends,opengenus pushed_at:2019-10 star:0.0k fork:0.0k Find users to discuss anything and find a new friend
 - [OpenGenus/django_demo](https://github.com/OpenGenus/django_demo) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [OpenGenus/Dodgeball](https://github.com/OpenGenus/Dodgeball) topic:dodgeball,pygame,python pushed_at:2024-10 star:0.0k fork:0.0k Dodgeball in PyGame
@@ -237,7 +237,6 @@
 - [OpenGenus/prime-factorization-java](https://github.com/OpenGenus/prime-factorization-java) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [OpenGenus/progress-bar-cpp](https://github.com/OpenGenus/progress-bar-cpp) topic: pushed_at:2023-01 star:0.0k fork:0.0k Progress bar in C++
 - [OpenGenus/ProjectBot](https://github.com/OpenGenus/ProjectBot) topic: pushed_at:2016-07 star:0.0k fork:0.0k 
-- [OpenGenus/Quantization-Aware-Training](https://github.com/OpenGenus/Quantization-Aware-Training) topic: pushed_at:2024-10 star:0.0k fork:0.0k Quantization Aware Training
 - [OpenGenus/repository](https://github.com/OpenGenus/repository) topic: pushed_at:2019-06 star:0.0k fork:0.0k 
 - [OpenGenus/screen](https://github.com/OpenGenus/screen) topic: pushed_at:2019-02 star:0.0k fork:0.0k 
 - [OpenGenus/Semantic-Emotification](https://github.com/OpenGenus/Semantic-Emotification) topic: pushed_at:2024-01 star:0.0k fork:0.0k Semantic Emotification with OCR and NLTK
@@ -298,6 +297,7 @@
 - [OpenGenus/pygtrie](https://github.com/OpenGenus/pygtrie) topic: pushed_at:2018-12 star:0.0k fork:0.0k Python library implementing a trie data structure.
 - [OpenGenus/Python-Crash-Course](https://github.com/OpenGenus/Python-Crash-Course) topic:app-development,crash-course-python,game-development,python pushed_at:2023-07 star:0.0k fork:0.0k Python Crash Course: Learn by developing 13 games and apps practically [Codebase]
 - [OpenGenus/QRcode](https://github.com/OpenGenus/QRcode) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
+- [OpenGenus/Quantization-Aware-Training](https://github.com/OpenGenus/Quantization-Aware-Training) topic: pushed_at:2024-11 star:0.0k fork:0.0k Quantization Aware Training
 - [OpenGenus/ResNet50-PyTorch](https://github.com/OpenGenus/ResNet50-PyTorch) topic: pushed_at:2024-10 star:0.0k fork:0.0k ResNet50 PyTorch
 - [OpenGenus/Rock-Paper-Scissors-in-Python](https://github.com/OpenGenus/Rock-Paper-Scissors-in-Python) topic:opengenus-internship,python,rock-paper-scissors pushed_at:2023-05 star:0.0k fork:0.0k Rock Paper Scissors game in Python (by Sathya Sai Ram P)
 - [OpenGenus/saturn](https://github.com/OpenGenus/saturn) topic: pushed_at:2019-02 star:0.0k fork:0.0k 
