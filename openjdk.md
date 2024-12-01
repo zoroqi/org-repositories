@@ -25,7 +25,7 @@
 - [openjdk/jfx13](https://github.com/openjdk/jfx13) topic: pushed_at:2020-07 star:0.0k fork:0.0k JavaFX 13.x : last released 2020-01-15
 - [openjdk/jfx17u](https://github.com/openjdk/jfx17u) topic: pushed_at:2024-11 star:0.0k fork:0.0k JavaFX 17 updates development
 - [openjdk/jfx20u](https://github.com/openjdk/jfx20u) topic: pushed_at:2023-07 star:0.0k fork:0.0k JavaFX 20.x: last released 2023-07-18
-- [openjdk/jfx21u](https://github.com/openjdk/jfx21u) topic: pushed_at:2024-10 star:0.0k fork:0.0k JavaFX 21 updates development
+- [openjdk/jfx21u](https://github.com/openjdk/jfx21u) topic: pushed_at:2024-11 star:0.0k fork:0.0k JavaFX 21 updates development
 - [openjdk/jfx22u](https://github.com/openjdk/jfx22u) topic: pushed_at:2024-07 star:0.0k fork:0.0k JavaFX 22.x : last released 2024-07-16
 - [openjdk/jfx23u](https://github.com/openjdk/jfx23u) topic: pushed_at:2024-11 star:0.0k fork:0.0k JavaFX 23 updates development
 
@@ -35,7 +35,7 @@
 
 ## HTML
 
-- [openjdk/amber-docs](https://github.com/openjdk/amber-docs) topic: pushed_at:2024-09 star:0.1k fork:0.0k https://openjdk.org/projects/amber
+- [openjdk/amber-docs](https://github.com/openjdk/amber-docs) topic: pushed_at:2024-11 star:0.1k fork:0.0k https://openjdk.org/projects/amber
 - [openjdk/cr](https://github.com/openjdk/cr) topic: pushed_at:2021-05 star:0.0k fork:0.0k https://openjdk.org/projects/skara
 
 ## Java
@@ -52,8 +52,8 @@
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) topic: pushed_at:2021-04 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/friday-stats
 - [openjdk/galahad](https://github.com/openjdk/galahad) topic: pushed_at:2024-11 star:0.0k fork:0.0k https://openjdk.org/projects/galahad
 - [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2024-10 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
-- [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2024-10 star:0.4k fork:0.1k https://openjdk.org/projects/code-tools/jcstress
-- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2024-11 star:19.8k fork:5.5k JDK main-line development https://openjdk.org/projects/jdk
+- [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2024-11 star:0.4k fork:0.1k https://openjdk.org/projects/code-tools/jcstress
+- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2024-12 star:20.0k fork:5.6k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2024-11 star:0.1k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2024-11 star:0.1k fork:0.2k https://openjdk.org/projects/jdk-updates
@@ -114,7 +114,7 @@
 - [openjdk/loom](https://github.com/openjdk/loom) topic:java,jvm,loom,openjdk pushed_at:2024-11 star:1.9k fork:0.2k https://openjdk.org/projects/loom
 - [openjdk/metropolis](https://github.com/openjdk/metropolis) topic: pushed_at:2020-10 star:0.0k fork:0.0k https://openjdk.org/projects/metropolis
 - [openjdk/mobile](https://github.com/openjdk/mobile) topic:java,jvm,mobile,openjdk pushed_at:2024-11 star:0.2k fork:0.1k https://openjdk.org/projects/mobile
-- [openjdk/nashorn](https://github.com/openjdk/nashorn) topic: pushed_at:2023-02 star:0.4k fork:0.0k https://openjdk.org/projects/nashorn
+- [openjdk/nashorn](https://github.com/openjdk/nashorn) topic: pushed_at:2024-11 star:0.4k fork:0.0k https://openjdk.org/projects/nashorn
 - [openjdk/panama-foreign](https://github.com/openjdk/panama-foreign) topic: pushed_at:2024-11 star:0.3k fork:0.1k https://openjdk.org/projects/panama
 - [openjdk/panama-vector](https://github.com/openjdk/panama-vector) topic: pushed_at:2024-11 star:0.1k fork:0.0k https://openjdk.org/projects/panama
 - [openjdk/playground](https://github.com/openjdk/playground) topic: pushed_at:2024-11 star:0.0k fork:0.0k Repository for experimenting. May be synced and/or reset at any time without notice.
@@ -129,7 +129,7 @@
 - [openjdk/shenandoah-jdk8u-dev](https://github.com/openjdk/shenandoah-jdk8u-dev) topic: pushed_at:2022-02 star:0.0k fork:0.0k https://openjdk.org/projects/shenandoah
 - [openjdk/shenandoah-visualizer](https://github.com/openjdk/shenandoah-visualizer) topic: pushed_at:2023-04 star:0.1k fork:0.0k https://openjdk.org/projects/shenandoah
 - [openjdk/sigtest](https://github.com/openjdk/sigtest) topic: pushed_at:2024-08 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/sigtest
-- [openjdk/skara](https://github.com/openjdk/skara) topic:git,hg,java,openjdk,skara pushed_at:2024-10 star:0.2k fork:0.1k https://openjdk.org/projects/skara
+- [openjdk/skara](https://github.com/openjdk/skara) topic:git,hg,java,openjdk,skara pushed_at:2024-11 star:0.2k fork:0.1k https://openjdk.org/projects/skara
 - [openjdk/tsan](https://github.com/openjdk/tsan) topic: pushed_at:2024-11 star:0.0k fork:0.0k https://openjdk.org/projects/tsan
 - [openjdk/valhalla](https://github.com/openjdk/valhalla) topic: pushed_at:2024-11 star:0.5k fork:0.1k https://openjdk.org/projects/valhalla
 - [openjdk/wakefield](https://github.com/openjdk/wakefield) topic: pushed_at:2024-11 star:0.2k fork:0.0k https://openjdk.org/projects/wakefield
@@ -152,7 +152,7 @@
 - [openjdk/jdk11](https://github.com/openjdk/jdk11) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/11 released 2018-09-25
 - [openjdk/jdk12](https://github.com/openjdk/jdk12) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/12 released 2019-03-19
 - [openjdk/jmc-graphics](https://github.com/openjdk/jmc-graphics) topic: pushed_at:2022-03 star:0.0k fork:0.0k https://openjdk.org/projects/jmc
-- [openjdk/webrevs](https://github.com/openjdk/webrevs) topic: pushed_at:2024-11 star:0.0k fork:0.0k Automatically generated JSON files for webrevs
+- [openjdk/webrevs](https://github.com/openjdk/webrevs) topic: pushed_at:2024-12 star:0.0k fork:0.0k Automatically generated JSON files for webrevs
 
 ## Python
 

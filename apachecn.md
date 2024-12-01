@@ -203,7 +203,7 @@
 - [apachecn/apachecn-js-zh-pt4](https://github.com/apachecn/apachecn-js-zh-pt4) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-kali-zh](https://github.com/apachecn/apachecn-kali-zh) topic: pushed_at:2022-07 star:0.1k fork:0.0k 
 - [apachecn/apachecn-kali-zh-pt2](https://github.com/apachecn/apachecn-kali-zh-pt2) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
-- [apachecn/apachecn-linux-zh](https://github.com/apachecn/apachecn-linux-zh) topic: pushed_at:2022-07 star:0.1k fork:0.0k :books: [译] ApacheCN Linux 译文集
+- [apachecn/apachecn-linux-zh](https://github.com/apachecn/apachecn-linux-zh) topic: pushed_at:2022-07 star:0.2k fork:0.0k :books: [译] ApacheCN Linux 译文集
 - [apachecn/apachecn-linux-zh-pt2](https://github.com/apachecn/apachecn-linux-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-linux-zh-pt3](https://github.com/apachecn/apachecn-linux-zh-pt3) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-ml-zh](https://github.com/apachecn/apachecn-ml-zh) topic: pushed_at:2022-10 star:0.0k fork:0.0k ApacheCN 机器学习译文集
@@ -787,7 +787,7 @@
 - [apachecn/huazhang-ai-book](https://github.com/apachecn/huazhang-ai-book) topic: pushed_at:2023-01 star:0.0k fork:0.0k :books: 华章智能科学技术丛书
 - [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.4k fork:0.2k :books: 华章计算机科学丛书高清扫描
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) topic: pushed_at:2023-02 star:0.0k fork:0.0k :book: 华章经管丛书高清扫描
-- [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.2k fork:0.1k :books: 华章数学丛书高清扫描
+- [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.3k fork:0.1k :books: 华章数学丛书高清扫描
 - [apachecn/huggingface-doc-zh](https://github.com/apachecn/huggingface-doc-zh) topic: pushed_at:2024-07 star:0.0k fork:0.0k Hugging Face - 文档库(中文版)
 - [apachecn/hugo-PaperModX](https://github.com/apachecn/hugo-PaperModX) topic: pushed_at:2023-04 star:0.0k fork:0.0k A fast, clean, responsive Hugo theme.
 - [apachecn/igetget](https://github.com/apachecn/igetget) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
@@ -1196,7 +1196,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:39.5k fork:11.4k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:39.6k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
@@ -1228,7 +1228,7 @@
 
 ## Shell
 
-- [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) topic: pushed_at:2021-01 star:2.2k fork:0.5k ApacheCN AI 路线图（知识树）
+- [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) topic: pushed_at:2021-01 star:2.3k fork:0.5k ApacheCN AI 路线图（知识树）
 - [apachecn/awesome-article-recomm](https://github.com/apachecn/awesome-article-recomm) topic:ai,blogpost pushed_at:2020-09 star:0.1k fork:0.0k 优质博文推荐计划
 - [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh) topic: pushed_at:2020-09 star:0.8k fork:0.1k 计算机公开课推荐
 - [apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh) topic: pushed_at:2020-09 star:0.8k fork:0.1k 独立开发/自由职业/远程工作资源列表
