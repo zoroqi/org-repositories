@@ -31,7 +31,7 @@
 - [Nim](#nim) (1)
 - [OCaml](#ocaml) (1)
 - [Objective-C](#objective-c) (2)
-- [Others](#others) (394)
+- [Others](#others) (393)
 - [PHP](#php) (45)
 - [Pascal](#pascal) (1)
 - [Python](#python) (33)
@@ -39,7 +39,7 @@
 - [Ruby](#ruby) (14)
 - [Rust](#rust) (3)
 - [Scala](#scala) (1)
-- [Shell](#shell) (10)
+- [Shell](#shell) (11)
 - [Swift](#swift) (6)
 - [TypeScript](#typescript) (42)
 - [Vue](#vue) (6)
@@ -368,7 +368,7 @@
 - [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) topic: pushed_at:2023-03 star:0.1k fork:0.0k Prompt your users to donate to your collective after `npm install`
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) topic: pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
 - [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) topic: pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
-- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2024-11 star:0.0k fork:0.0k 
+- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
 - [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) topic: pushed_at:2023-01 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
 - [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) topic:opencollective,reactjs pushed_at:2018-07 star:0.1k fork:0.0k OpenCollective frontend
 - [opencollective/opencollective-zapier](https://github.com/opencollective/opencollective-zapier) topic:opencollective,zapier pushed_at:2021-02 star:0.0k fork:0.0k ⚠️ DEPRECATED ⚠️ Open Collective legacy Zapier integration
@@ -465,7 +465,7 @@
 
 ## Less
 
-- [opencollective/foundation-website](https://github.com/opencollective/foundation-website) topic: pushed_at:2024-11 star:0.0k fork:0.0k 
+- [opencollective/foundation-website](https://github.com/opencollective/foundation-website) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
 
 ## Lua
 
@@ -701,7 +701,6 @@
 - [opencollective/material-table](https://github.com/opencollective/material-table) topic: pushed_at:2019-12 star:0.0k fork:0.0k Datatable for React based on material-ui's table with additional features
 - [opencollective/md](https://github.com/opencollective/md) topic: pushed_at:2019-12 star:0.0k fork:0.0k ✍ 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 所有基础语法、色盘取色、一键复制并粘贴到公众号后台、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [opencollective/mergerfs](https://github.com/opencollective/mergerfs) topic: pushed_at:2019-12 star:0.0k fork:0.0k a featureful union filesystem
-- [opencollective/metabase-buildpack](https://github.com/opencollective/metabase-buildpack) topic: pushed_at:2023-07 star:0.0k fork:0.0k Buildpack de Metabase pour Scalingo
 - [opencollective/MicroOrm.Dapper.Repositories](https://github.com/opencollective/MicroOrm.Dapper.Repositories) topic: pushed_at:2019-11 star:0.0k fork:0.0k CRUD for Dapper
 - [opencollective/microweber](https://github.com/opencollective/microweber) topic: pushed_at:2019-09 star:0.0k fork:0.0k Drag and Drop Website Builder and CMS with E-commerce
 - [opencollective/mindmapp](https://github.com/opencollective/mindmapp) topic: pushed_at:2019-09 star:0.0k fork:0.0k :rocket: Web application to draw mind maps.
@@ -1011,7 +1010,8 @@
 - [opencollective/hardening](https://github.com/opencollective/hardening) topic: pushed_at:2019-07 star:0.0k fork:0.0k Hardening Ubuntu. Systemd edition.
 - [opencollective/laradock](https://github.com/opencollective/laradock) topic: pushed_at:2017-11 star:0.0k fork:0.0k Docker PHP development environment.
 - [opencollective/lesspass](https://github.com/opencollective/lesspass) topic: pushed_at:2017-10 star:0.0k fork:0.0k :key: stateless open source password manager
-- [opencollective/metabase-deploy](https://github.com/opencollective/metabase-deploy) topic: pushed_at:2023-08 star:0.0k fork:0.0k 
+- [opencollective/metabase-buildpack](https://github.com/opencollective/metabase-buildpack) topic: pushed_at:2024-12 star:0.0k fork:0.0k Buildpack de Metabase pour Scalingo
+- [opencollective/metabase-deploy](https://github.com/opencollective/metabase-deploy) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
 
 ## Swift
 
@@ -1049,7 +1049,7 @@
 - [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) topic:graphql,hacktoberfest,nodejs,opencollective,postgres pushed_at:2024-12 star:0.4k fork:0.3k Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
 - [opencollective/opencollective-bot](https://github.com/opencollective/opencollective-bot) topic:bot,opencollective,probot pushed_at:2021-08 star:0.1k fork:0.0k 🤖 A perfect companion for your Open Collective
 - [opencollective/opencollective-coda](https://github.com/opencollective/opencollective-coda) topic: pushed_at:2023-11 star:0.0k fork:0.0k A pack to access the Open Collective API through Coda.io
-- [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) topic:hacktoberfest,nextjs,opencollective,react,webpack pushed_at:2024-12 star:0.8k fork:0.4k Open Collective's Frontend. A React app powered by Next.js.
+- [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) topic:hacktoberfest,nextjs,opencollective,react,webpack pushed_at:2025-01 star:0.8k fork:0.4k Open Collective's Frontend. A React app powered by Next.js.
 - [opencollective/opencollective-frontend-template](https://github.com/opencollective/opencollective-frontend-template) topic: pushed_at:2024-12 star:0.0k fork:0.0k Kickstart a new frontend project at Open Collective.
 - [opencollective/opencollective-github-helpers](https://github.com/opencollective/opencollective-github-helpers) topic: pushed_at:2023-01 star:0.0k fork:0.0k An app to help with the maintainance and development tasks of Open Collective internal repositories
 - [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) topic: pushed_at:2024-12 star:0.0k fork:0.0k Open Collective's REST API legacy, v1, and v2!
