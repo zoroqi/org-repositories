@@ -89,7 +89,7 @@
 - [mdn/data](https://github.com/mdn/data) topic:css,data,json,json-data pushed_at:2024-12 star:0.7k fork:0.2k This repository contains general data for Web technologies
 - [mdn/doc-linter-rules](https://github.com/mdn/doc-linter-rules) topic:linting-rules,mdn pushed_at:2019-04 star:0.0k fork:0.0k Linting rules used to lint MDN Web Documents
 - [mdn/doc-linter-webextension](https://github.com/mdn/doc-linter-webextension) topic:linter,mdn,webextension pushed_at:2019-08 star:0.0k fork:0.0k Webextension to lint MDN documents
-- [mdn/dom-examples](https://github.com/mdn/dom-examples) topic:channel-messaging,demo,dom-manipulation,drag-drop,javascript,matchmedia,mdn-docs,pointer-events,pointer-lock,touch-events pushed_at:2024-11 star:3.5k fork:1.8k Code examples that accompany various MDN DOM and Web API documentation pages
+- [mdn/dom-examples](https://github.com/mdn/dom-examples) topic:channel-messaging,demo,dom-manipulation,drag-drop,javascript,matchmedia,mdn-docs,pointer-events,pointer-lock,touch-events pushed_at:2024-12 star:3.6k fork:1.8k Code examples that accompany various MDN DOM and Web API documentation pages
 - [mdn/e10s-example-addons](https://github.com/mdn/e10s-example-addons) topic:e10s,firefox-addon,unmaintained pushed_at:2019-04 star:0.0k fork:0.0k Examples showing how to port add-ons to be e10s-compatible
 - [mdn/express-locallibrary-tutorial](https://github.com/mdn/express-locallibrary-tutorial) topic:demo,example,express,nodejs,webapp pushed_at:2024-12 star:1.2k fork:0.7k Local Library website written in NodeJS/Express; example for the MDN server-side development NodeJS module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs.
 - [mdn/headless-examples](https://github.com/mdn/headless-examples) topic: pushed_at:2019-08 star:0.1k fork:0.0k Examples to support the MDN resource covering Firefox headless mode — see https://developer.mozilla.org/en-US/Firefox/Headless_mode
@@ -132,8 +132,8 @@
 ## Markdown
 
 - [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2024-12 star:9.3k fork:22.5k The content behind MDN Web Docs
-- [mdn/translated-content](https://github.com/mdn/translated-content) topic:documentation,l10n,mdn pushed_at:2024-12 star:1.7k fork:8.1k The source repository of all translated content for MDN Web Docs
-- [mdn/translated-content-de](https://github.com/mdn/translated-content-de) topic: pushed_at:2024-12 star:0.0k fork:0.0k Experimental German locale for MDN, aimed at German-speaking users that prefer to read MDN Web Docs in their native language
+- [mdn/translated-content](https://github.com/mdn/translated-content) topic:documentation,l10n,mdn pushed_at:2025-01 star:1.8k fork:8.1k The source repository of all translated content for MDN Web Docs
+- [mdn/translated-content-de](https://github.com/mdn/translated-content-de) topic: pushed_at:2025-01 star:0.0k fork:0.0k Experimental German locale for MDN, aimed at German-speaking users that prefer to read MDN Web Docs in their native language
 
 ## Mermaid
 
@@ -141,7 +141,7 @@
 
 ## Others
 
-- [mdn/.github](https://github.com/mdn/.github) topic:community,mdn pushed_at:2024-11 star:0.0k fork:0.0k MDN Web Docs public organization profile
+- [mdn/.github](https://github.com/mdn/.github) topic:community,mdn pushed_at:2024-12 star:0.0k fork:0.0k MDN Web Docs public organization profile
 - [mdn/ai-feedback](https://github.com/mdn/ai-feedback) topic: pushed_at:2024-04 star:0.0k fork:0.0k Feedback about AI Help
 - [mdn/browsercompat-data](https://github.com/mdn/browsercompat-data) topic:unmaintained pushed_at:2017-04 star:0.0k fork:0.0k Browser Compatability Data
 - [mdn/community-meetings](https://github.com/mdn/community-meetings) topic:community,documentation,planning pushed_at:2024-10 star:0.0k fork:0.0k A place for agendas and minutes from regular MDN community meetings

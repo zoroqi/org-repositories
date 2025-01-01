@@ -23,7 +23,7 @@
 - [openjdk/jfx11u](https://github.com/openjdk/jfx11u) topic:java,javafx,openjdk pushed_at:2023-07 star:0.0k fork:0.0k JavaFX 11.x : last released 2023-07-19
 - [openjdk/jfx12](https://github.com/openjdk/jfx12) topic: pushed_at:2021-01 star:0.0k fork:0.0k JavaFX 12.x : last released 2019-07-19
 - [openjdk/jfx13](https://github.com/openjdk/jfx13) topic: pushed_at:2020-07 star:0.0k fork:0.0k JavaFX 13.x : last released 2020-01-15
-- [openjdk/jfx17u](https://github.com/openjdk/jfx17u) topic: pushed_at:2024-11 star:0.0k fork:0.0k JavaFX 17 updates development
+- [openjdk/jfx17u](https://github.com/openjdk/jfx17u) topic: pushed_at:2024-12 star:0.0k fork:0.0k JavaFX 17 updates development
 - [openjdk/jfx20u](https://github.com/openjdk/jfx20u) topic: pushed_at:2023-07 star:0.0k fork:0.0k JavaFX 20.x: last released 2023-07-18
 - [openjdk/jfx21u](https://github.com/openjdk/jfx21u) topic: pushed_at:2024-11 star:0.0k fork:0.0k JavaFX 21 updates development
 - [openjdk/jfx22u](https://github.com/openjdk/jfx22u) topic: pushed_at:2024-07 star:0.0k fork:0.0k JavaFX 22.x : last released 2024-07-16
@@ -51,9 +51,9 @@
 - [openjdk/doccheck](https://github.com/openjdk/doccheck) topic: pushed_at:2024-03 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/doccheck
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) topic: pushed_at:2021-04 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/friday-stats
 - [openjdk/galahad](https://github.com/openjdk/galahad) topic: pushed_at:2024-12 star:0.0k fork:0.0k https://openjdk.org/projects/galahad
-- [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2024-10 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
+- [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2024-12 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2024-12 star:0.4k fork:0.1k https://openjdk.org/projects/code-tools/jcstress
-- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2024-12 star:20.1k fork:5.6k JDK main-line development https://openjdk.org/projects/jdk
+- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2024-12 star:20.2k fork:5.6k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2024-12 star:0.1k fork:0.0k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2024-12 star:0.1k fork:0.2k https://openjdk.org/projects/jdk-updates

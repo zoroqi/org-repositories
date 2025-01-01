@@ -440,7 +440,7 @@
 - [apachecn/pythonlibrary-blog-zh](https://github.com/apachecn/pythonlibrary-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/pythonspot-zh](https://github.com/apachecn/pythonspot-zh) topic: pushed_at:2022-07 star:0.1k fork:0.0k :books: [译] PythonSpot 中文系列教程
 - [apachecn/quantinsti-blog-zh](https://github.com/apachecn/quantinsti-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Quantinsti 博客中文翻译
-- [apachecn/rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) topic: pushed_at:2024-11 star:1.0k fork:0.1k 
+- [apachecn/rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) topic: pushed_at:2024-11 star:1.0k fork:0.2k 
 - [apachecn/RateMySupervisor-1](https://github.com/apachecn/RateMySupervisor-1) topic: pushed_at:2022-04 star:0.0k fork:0.0k 永久免费开源的导师评价数据、数据爬虫、无需编程基础的展示网页以及新信息补充平台
 - [apachecn/re4e-zh](https://github.com/apachecn/re4e-zh) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [apachecn/realpython-zh](https://github.com/apachecn/realpython-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -477,7 +477,7 @@
 - [apachecn/techcrunch-blog-zh-2021-2023](https://github.com/apachecn/techcrunch-blog-zh-2021-2023) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/teclado-blog-zh](https://github.com/apachecn/teclado-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/testdrivenio-blog-zh](https://github.com/apachecn/testdrivenio-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
-- [apachecn/the-rational-male-zh](https://github.com/apachecn/the-rational-male-zh) topic: pushed_at:2022-03 star:0.0k fork:0.0k :book: [译] 理性的男性
+- [apachecn/the-rational-male-zh](https://github.com/apachecn/the-rational-male-zh) topic: pushed_at:2022-03 star:0.1k fork:0.0k :book: [译] 理性的男性
 - [apachecn/theme-apachecn](https://github.com/apachecn/theme-apachecn) topic: pushed_at:2020-04 star:0.0k fork:0.0k 
 - [apachecn/thenewstack-blog-zh](https://github.com/apachecn/thenewstack-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/think-py-2e-zh](https://github.com/apachecn/think-py-2e-zh) topic: pushed_at:2020-12 star:0.1k fork:0.0k :book: [译] Think Python 中文第二版
@@ -495,7 +495,7 @@
 - [apachecn/tutorialskart-zh](https://github.com/apachecn/tutorialskart-zh) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [apachecn/tutorialsteacher-zh](https://github.com/apachecn/tutorialsteacher-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/ucb-cs294-112-notes-zh](https://github.com/apachecn/ucb-cs294-112-notes-zh) topic: pushed_at:2021-01 star:0.0k fork:0.0k UCB CS294-112 深度强化学习中文笔记
-- [apachecn/uiuc-cs241-notes-zh](https://github.com/apachecn/uiuc-cs241-notes-zh) topic:cs241,system,textbook,uiuc pushed_at:2022-08 star:0.1k fork:0.0k :book: 【译】UIUC CS241 系统编程中文讲义
+- [apachecn/uiuc-cs241-notes-zh](https://github.com/apachecn/uiuc-cs241-notes-zh) topic:cs241,system,textbook,uiuc pushed_at:2022-08 star:0.0k fork:0.0k :book: 【译】UIUC CS241 系统编程中文讲义
 - [apachecn/venturehacks-blog-zh](https://github.com/apachecn/venturehacks-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/visualmodo-blog-zh](https://github.com/apachecn/visualmodo-blog-zh) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/wanqu-daily-zh](https://github.com/apachecn/wanqu-daily-zh) topic: pushed_at:2022-11 star:0.0k fork:0.0k :books: 湾区日报翻译
@@ -519,7 +519,7 @@
 
 ## Jupyter Notebook
 
-- [apachecn/Interview](https://github.com/apachecn/Interview) topic:interview,kaggle,leetcode,machine-learning,python pushed_at:2023-10 star:8.7k fork:2.2k Interview = 简历指南 + 算法题 + 八股文 + 源码分析
+- [apachecn/Interview](https://github.com/apachecn/Interview) topic:interview,kaggle,leetcode,machine-learning,python pushed_at:2023-10 star:8.8k fork:2.2k Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 - [apachecn/Multimodal-short-video-dataset-and-baseline-classification-model](https://github.com/apachecn/Multimodal-short-video-dataset-and-baseline-classification-model) topic: pushed_at:2019-07 star:0.0k fork:0.0k multimodal short video datasets and  classification model(based on TensorFlow2.0 本资源含有50多万条多模态短视频数据集和对应的分类模型，旨在打造多模态分类框架。
 
 ## Others
@@ -1196,7 +1196,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:39.7k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:39.8k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库

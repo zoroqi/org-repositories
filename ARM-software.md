@@ -43,7 +43,7 @@
 - [ARM-software/bbr-acs](https://github.com/ARM-software/bbr-acs) topic: pushed_at:2024-12 star:0.0k fork:0.0k Arm SystemReady : BBR Compliance Suite
 - [ARM-software/bento-linker](https://github.com/ARM-software/bento-linker) topic:experimental,microcontroller pushed_at:2021-01 star:0.0k fork:0.0k A light-weight alternative to processes for microcontrollers.
 - [ARM-software/bsa-acs](https://github.com/ARM-software/bsa-acs) topic: pushed_at:2024-12 star:0.0k fork:0.0k Arm SystemReady : BSA Architecture Compliance Suite
-- [ARM-software/cca-rmm-acs](https://github.com/ARM-software/cca-rmm-acs) topic: pushed_at:2024-10 star:0.0k fork:0.0k Tests for verifying compliance of RMM implementations
+- [ARM-software/cca-rmm-acs](https://github.com/ARM-software/cca-rmm-acs) topic: pushed_at:2024-12 star:0.0k fork:0.0k Tests for verifying compliance of RMM implementations
 - [ARM-software/CMSIS-Compiler](https://github.com/ARM-software/CMSIS-Compiler) topic: pushed_at:2024-08 star:0.0k fork:0.0k CMSIS Compiler support for Arm Compiler
 - [ARM-software/CMSIS-DAP](https://github.com/ARM-software/CMSIS-DAP) topic: pushed_at:2024-06 star:0.0k fork:0.0k CoreSight Debug Access Port (DAP) debug probe protocol reference implementation (spin-off from CMSIS_5)
 - [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) topic: pushed_at:2024-11 star:0.2k fork:0.1k Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
@@ -90,7 +90,7 @@
 - [ARM-software/psa-arch-tests](https://github.com/ARM-software/psa-arch-tests) topic: pushed_at:2024-12 star:0.1k fork:0.1k Tests for verifying implementations of TBSA-v8M and the PSA Certified APIs
 - [ARM-software/rasc-devkit](https://github.com/ARM-software/rasc-devkit) topic: pushed_at:2020-06 star:0.0k fork:0.0k 
 - [ARM-software/revere-demo](https://github.com/ARM-software/revere-demo) topic:accelerator,revere-amu,vfio,vfio-pci pushed_at:2020-09 star:0.0k fork:0.0k Example program demonstrating the use of the Revere-AMU System Architecture from userspace, with VFIO
-- [ARM-software/rme-sysarch-acs](https://github.com/ARM-software/rme-sysarch-acs) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
+- [ARM-software/rme-sysarch-acs](https://github.com/ARM-software/rme-sysarch-acs) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
 - [ARM-software/sbsa-acs](https://github.com/ARM-software/sbsa-acs) topic: pushed_at:2024-11 star:0.1k fork:0.1k ARM Enterprise: SBSA Architecture Compliance Suite
 - [ARM-software/scmi-tests](https://github.com/ARM-software/scmi-tests) topic: pushed_at:2021-09 star:0.0k fork:0.0k Test suite for SCMI PDD
 - [ARM-software/SCP-firmware](https://github.com/ARM-software/SCP-firmware) topic: pushed_at:2024-08 star:0.2k fork:0.2k This System Control Processor (SCP) firmware repository is no longer used and has been set to Read-only for archiving purposes. Please refer to the following active repository.
@@ -124,7 +124,7 @@
 - [ARM-software/HPCG_for_Arm](https://github.com/ARM-software/HPCG_for_Arm) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [ARM-software/ktx-creator](https://github.com/ARM-software/ktx-creator) topic: pushed_at:2022-01 star:0.0k fork:0.0k [Deprecated use toktx from khronos instead] Use this to create ASTC KTX files
 - [ARM-software/lavatube](https://github.com/ARM-software/lavatube) topic: pushed_at:2024-12 star:0.0k fork:0.0k Experimental Vulkan tracer
-- [ARM-software/libcollector](https://github.com/ARM-software/libcollector) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
+- [ARM-software/libcollector](https://github.com/ARM-software/libcollector) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
 - [ARM-software/libGPUCounters](https://github.com/ARM-software/libGPUCounters) topic: pushed_at:2024-12 star:0.2k fork:0.1k A utility library for application developers to sample Arm Immortalis GPU or Arm Mali GPU performance counters.
 - [ARM-software/libGPUInfo](https://github.com/ARM-software/libGPUInfo) topic:arm,vulkan pushed_at:2024-11 star:0.0k fork:0.0k A utility library for application developers to query the configuration of the Arm Immortalis GPU or Arm Mali GPU present in their system.
 - [ARM-software/libGPULayers](https://github.com/ARM-software/libGPULayers) topic: pushed_at:2024-12 star:0.0k fork:0.0k A utility for building graphics API layer drivers, and a some off-the-shelf layers for the Arm Immortalis and Arm Mali GPUs.
@@ -213,13 +213,13 @@
 - [ARM-software/psa-firmware-update-spec](https://github.com/ARM-software/psa-firmware-update-spec) topic: pushed_at:2022-11 star:0.0k fork:0.0k The PSA Firmware Update API specification, and discussion of future versions of this API.
 - [ARM-software/Streamline](https://github.com/ARM-software/Streamline) topic:android,arm,linux,profiling pushed_at:2024-06 star:0.0k fork:0.0k Public issue tracker for Arm Streamline profiling tools.
 - [ARM-software/tf-issues](https://github.com/ARM-software/tf-issues) topic: pushed_at:2020-01 star:0.0k fork:0.0k Issue tracking for the ARM Trusted Firmware project
-- [ARM-software/vscode-arm-debugger](https://github.com/ARM-software/vscode-arm-debugger) topic: pushed_at:2024-11 star:0.0k fork:0.0k 
+- [ARM-software/vscode-arm-debugger](https://github.com/ARM-software/vscode-arm-debugger) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
 - [ARM-software/vscode-cmsis-csolution](https://github.com/ARM-software/vscode-cmsis-csolution) topic: pushed_at:2024-12 star:0.0k fork:0.0k Extension support for VS Code CMSIS Project Extension
-- [ARM-software/vscode-device-manager](https://github.com/ARM-software/vscode-device-manager) topic: pushed_at:2024-06 star:0.0k fork:0.0k Extension support for VS Code Device Manager Extension
+- [ARM-software/vscode-device-manager](https://github.com/ARM-software/vscode-device-manager) topic: pushed_at:2024-12 star:0.0k fork:0.0k Extension support for VS Code Device Manager Extension
 - [ARM-software/vscode-embedded-debug](https://github.com/ARM-software/vscode-embedded-debug) topic: pushed_at:2024-09 star:0.0k fork:0.0k Extension support for VS Code Embedded Debug Extension
 - [ARM-software/vscode-environment-manager](https://github.com/ARM-software/vscode-environment-manager) topic: pushed_at:2024-12 star:0.0k fork:0.0k Extension support for VS Code Environment Manager Extension
-- [ARM-software/vscode-keil-studio-pack](https://github.com/ARM-software/vscode-keil-studio-pack) topic: pushed_at:2024-08 star:0.0k fork:0.0k Extension pack for all VS Code extensions
-- [ARM-software/vscode-remote-build](https://github.com/ARM-software/vscode-remote-build) topic: pushed_at:2024-08 star:0.0k fork:0.0k Extension for remote build service
+- [ARM-software/vscode-keil-studio-pack](https://github.com/ARM-software/vscode-keil-studio-pack) topic: pushed_at:2024-12 star:0.0k fork:0.0k Extension pack for all VS Code extensions
+- [ARM-software/vscode-remote-build](https://github.com/ARM-software/vscode-remote-build) topic: pushed_at:2024-12 star:0.0k fork:0.0k Extension for remote build service
 - [ARM-software/vscode-virtual-hardware](https://github.com/ARM-software/vscode-virtual-hardware) topic: pushed_at:2024-04 star:0.0k fork:0.0k Extension support for VS Code Virtual Hardware Extension
 
 ## PostScript
