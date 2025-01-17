@@ -28,7 +28,7 @@
 
 - [baidu/baidu-iot-samples](https://github.com/baidu/baidu-iot-samples) topic: pushed_at:2019-10 star:0.1k fork:0.1k 
 - [baidu/boteye_sensor](https://github.com/baidu/boteye_sensor) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2024-12 star:5.1k fork:0.5k dperf is a 100Gbps network load tester.
+- [baidu/dperf](https://github.com/baidu/dperf) topic:dpdk,dpvs,http,ipv6,load-tester,lvs,nginx,packet-loss,performance,tcp,udp,vlan,vxlan pushed_at:2025-01 star:5.2k fork:0.5k dperf is a 100Gbps network load tester.
 - [baidu/du1906_esp](https://github.com/baidu/du1906_esp) topic: pushed_at:2023-05 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
 - [baidu/iot-edge-sdk-for-iot-parser](https://github.com/baidu/iot-edge-sdk-for-iot-parser) topic: pushed_at:2019-02 star:0.1k fork:0.1k 
 - [baidu/iot-sdk-c](https://github.com/baidu/iot-sdk-c) topic:device-management,edge-sdk,mqtt,sdk pushed_at:2022-04 star:0.1k fork:0.1k device sdk for baidu IoT Core service, in c. Including MQTT client
@@ -75,7 +75,7 @@
 - [baidu/cluster-api-provider-baiducloud](https://github.com/baidu/cluster-api-provider-baiducloud) topic: pushed_at:2018-12 star:0.0k fork:0.0k Kubernetes cluster-api for Baidu Cloud
 - [baidu/EasyFaaS](https://github.com/baidu/EasyFaaS) topic: pushed_at:2022-10 star:0.6k fork:0.1k EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎
 - [baidu/go-lib](https://github.com/baidu/go-lib) topic: pushed_at:2021-10 star:0.1k fork:0.0k 
-- [baidu/mochow-sdk-go](https://github.com/baidu/mochow-sdk-go) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
+- [baidu/mochow-sdk-go](https://github.com/baidu/mochow-sdk-go) topic: pushed_at:2025-01 star:0.0k fork:0.0k 
 - [baidu/ote-stack](https://github.com/baidu/ote-stack) topic:docker,edge-cluster,edge-computing,golang,k3s,kubernetes pushed_at:2023-03 star:0.1k fork:0.0k OTE-Stack is an edge computing platform for 5G and AI
 - [baidu/paddle-on-k8s-operator](https://github.com/baidu/paddle-on-k8s-operator) topic: pushed_at:2020-03 star:0.0k fork:0.0k Kubernetes operator for managing the lifecycle of PaddlePaddle job.
 - [baidu/runc](https://github.com/baidu/runc) topic: pushed_at:2019-06 star:0.0k fork:0.0k CLI tool for spawning and running containers according to the OCI specification
@@ -96,7 +96,7 @@
 - [baidu/OASP](https://github.com/baidu/OASP) topic: pushed_at:2017-11 star:0.0k fork:0.0k OASP (Online App Status Protocol)
 - [baidu/smartapp-openapi-java](https://github.com/baidu/smartapp-openapi-java) topic: pushed_at:2023-03 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for java，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
 - [baidu/speech-samples](https://github.com/baidu/speech-samples) topic: pushed_at:2018-02 star:0.0k fork:0.0k 百度语音示例
-- [baidu/starlight](https://github.com/baidu/starlight) topic:brpc,high-performance,microservice,netty,protobuf,rpc,spring-boot,spring-cloud pushed_at:2024-11 star:1.0k fork:0.3k Java implementation for Baidu RPC, multi-protocol & high performance RPC.
+- [baidu/starlight](https://github.com/baidu/starlight) topic:brpc,high-performance,microservice,netty,protobuf,rpc,spring-boot,spring-cloud pushed_at:2025-01 star:1.0k fork:0.3k Java implementation for Baidu RPC, multi-protocol & high performance RPC.
 - [baidu/terminator](https://github.com/baidu/terminator) topic: pushed_at:2016-11 star:0.1k fork:0.0k Service Virtualization
 - [baidu/titan-dex](https://github.com/baidu/titan-dex) topic: pushed_at:2023-08 star:0.2k fork:0.0k 
 - [baidu/titan-hotfix](https://github.com/baidu/titan-hotfix) topic: pushed_at:2022-05 star:0.1k fork:0.0k 
@@ -117,7 +117,7 @@
 - [baidu/san-composition](https://github.com/baidu/san-composition) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [baidu/san-factory](https://github.com/baidu/san-factory) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
 - [baidu/san-router](https://github.com/baidu/san-router) topic:san pushed_at:2023-12 star:0.0k fork:0.0k Official Router for San
-- [baidu/san-store](https://github.com/baidu/san-store) topic:appstate,san pushed_at:2024-10 star:0.1k fork:0.0k Application States Management for San
+- [baidu/san-store](https://github.com/baidu/san-store) topic:appstate,san pushed_at:2025-01 star:0.1k fork:0.0k Application States Management for San
 - [baidu/san-update](https://github.com/baidu/san-update) topic:san pushed_at:2023-05 star:0.1k fork:0.0k Object immutable update utility for san solution
 - [baidu/san-website](https://github.com/baidu/san-website) topic: pushed_at:2024-06 star:0.0k fork:0.1k 
 - [baidu/signet](https://github.com/baidu/signet) topic: pushed_at:2014-12 star:0.0k fork:0.0k 签章系统
@@ -162,7 +162,7 @@
 - [baidu/information-extraction](https://github.com/baidu/information-extraction) topic: pushed_at:2019-05 star:0.3k fork:0.1k 
 - [baidu/knowledge-driven-dialogue](https://github.com/baidu/knowledge-driven-dialogue) topic: pushed_at:2019-06 star:0.3k fork:0.1k baseline system of knowledge driven dialogue competition
 - [baidu/logcover](https://github.com/baidu/logcover) topic: pushed_at:2017-02 star:0.1k fork:0.0k 轻量级异常日志测试覆盖率度量工具
-- [baidu/pymochow](https://github.com/baidu/pymochow) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
+- [baidu/pymochow](https://github.com/baidu/pymochow) topic: pushed_at:2025-01 star:0.0k fork:0.0k 
 - [baidu/QCompute](https://github.com/baidu/QCompute) topic: pushed_at:2023-12 star:0.1k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
 - [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2024-08 star:1.9k fork:0.4k Baidu's open-source Sentiment Analysis System.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) topic: pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
@@ -181,8 +181,8 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) topic:admin,frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2024-12 star:17.6k fork:2.5k 前端低代码框架，通过 JSON 配置就能生成各种页面。
-- [baidu/mochow-sdk-node](https://github.com/baidu/mochow-sdk-node) topic: pushed_at:2024-12 star:0.0k fork:0.0k Node.js SDK for mochow
+- [baidu/amis](https://github.com/baidu/amis) topic:admin,frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2025-01 star:17.7k fork:2.6k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/mochow-sdk-node](https://github.com/baidu/mochow-sdk-node) topic: pushed_at:2025-01 star:0.0k fork:0.0k Node.js SDK for mochow
 - [baidu/san-devtools](https://github.com/baidu/san-devtools) topic:chrome,chromium,debug,devtools,extension,san pushed_at:2023-12 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) topic:san,ssr,ssr-target-js pushed_at:2024-07 star:0.0k fork:0.0k San SSR framework and utils
 
