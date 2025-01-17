@@ -35,9 +35,9 @@
 ## C++
 
 - [sony/easyhttpcpp](https://github.com/sony/easyhttpcpp) topic:cache,cpp,cross-platform,http,https,networking pushed_at:2022-01 star:0.2k fork:0.0k A cross-platform HTTP client library with a focus on usability and speed
-- [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) topic:embedded-linux,embedded-systems,flutter,flutter-plugin,linux,plugin pushed_at:2024-12 star:0.0k fork:0.0k Flutter plugins for embedded Linux (eLinux)
-- [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) topic:embedded-linux,embedded-systems,flutter,linux pushed_at:2024-12 star:1.2k fork:0.1k Embedded Linux embedding for Flutter
-- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) topic:cpp,cpp11,nmos,sdk pushed_at:2024-12 star:0.1k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
+- [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) topic:embedded-linux,embedded-systems,flutter,flutter-plugin,linux,plugin pushed_at:2024-12 star:0.1k fork:0.0k Flutter plugins for embedded Linux (eLinux)
+- [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) topic:embedded-linux,embedded-systems,flutter,linux pushed_at:2025-01 star:1.2k fork:0.1k Embedded Linux embedding for Flutter
+- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) topic:cpp,cpp11,nmos,sdk pushed_at:2025-01 star:0.2k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
 - [sony/node-win-usbdev](https://github.com/sony/node-win-usbdev) topic: pushed_at:2018-02 star:0.0k fork:0.0k 
 - [sony/v8eval](https://github.com/sony/v8eval) topic:golang,python,ruby,v8 pushed_at:2020-12 star:0.4k fork:0.0k Multi-language bindings to JavaScript engine V8
 
@@ -100,23 +100,23 @@
 ## Python
 
 - [sony/ai-research-code](https://github.com/sony/ai-research-code) topic: pushed_at:2023-09 star:0.3k fork:0.1k 
-- [sony/audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) topic: pushed_at:2023-09 star:0.0k fork:0.0k Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge
+- [sony/audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) topic: pushed_at:2023-09 star:0.1k fork:0.0k Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge
 - [sony/bigvsan](https://github.com/sony/bigvsan) topic:audio-generation,audio-synthesis,gan,neural-vocoder,pytorch,speech-synthesis pushed_at:2024-03 star:0.2k fork:0.0k Pytorch implementation of BigVSAN
 - [sony/bigvsan_eval](https://github.com/sony/bigvsan_eval) topic:pytorch pushed_at:2024-03 star:0.0k fork:0.0k Evaluation tool used in the BigVSAN paper
 - [sony/CLIPSep](https://github.com/sony/CLIPSep) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [sony/ctm](https://github.com/sony/ctm) topic: pushed_at:2024-10 star:0.3k fork:0.0k 
-- [sony/custom_layers](https://github.com/sony/custom_layers) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
+- [sony/custom_layers](https://github.com/sony/custom_layers) topic: pushed_at:2025-01 star:0.0k fork:0.0k 
 - [sony/diffiner](https://github.com/sony/diffiner) topic: pushed_at:2023-08 star:0.1k fork:0.0k 
 - [sony/dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [sony/ds-research-code](https://github.com/sony/ds-research-code) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [sony/esstra](https://github.com/sony/esstra) topic: pushed_at:2024-12 star:0.0k fork:0.0k A software suite for enhancing software supply chain transparency
+- [sony/esstra](https://github.com/sony/esstra) topic: pushed_at:2025-01 star:0.0k fork:0.0k A software suite for enhancing software supply chain transparency
 - [sony/evsCluster](https://github.com/sony/evsCluster) topic: pushed_at:2024-01 star:0.0k fork:0.0k Python scripts to process EVS (Event-based vision sensor) data
 - [sony/FxNorm-automix](https://github.com/sony/FxNorm-automix) topic:automatic-mixing,data-normalization,intelligent-music-production,machine-learning pushed_at:2024-03 star:0.1k fork:0.0k FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system
-- [sony/genwarp](https://github.com/sony/genwarp) topic: pushed_at:2024-09 star:0.2k fork:0.0k 
+- [sony/genwarp](https://github.com/sony/genwarp) topic: pushed_at:2024-09 star:0.3k fork:0.0k 
 - [sony/gibbsddrm](https://github.com/sony/gibbsddrm) topic: pushed_at:2023-05 star:0.0k fork:0.0k 
 - [sony/hFT-Transformer](https://github.com/sony/hFT-Transformer) topic: pushed_at:2023-07 star:0.1k fork:0.0k Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer).
 - [sony/lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
-- [sony/mct_quantizers](https://github.com/sony/mct_quantizers) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
+- [sony/mct_quantizers](https://github.com/sony/mct_quantizers) topic: pushed_at:2025-01 star:0.0k fork:0.0k 
 - [sony/model_optimization](https://github.com/sony/model_optimization) topic:deep-learning,deep-neural-networks,edge-ai,machine-learning,network-compression,network-quantization,neural-network,optimizer,ptq,pytorch,qat,quantization,tensorflow pushed_at:2025-01 star:0.3k fork:0.1k Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks.
 - [sony/MoLA](https://github.com/sony/MoLA) topic:motion-generation,pytorch,text-to-motion,text-to-motion-localization pushed_at:2024-12 star:0.0k fork:0.0k Pytorch implementation of MoLA
 - [sony/NDJIR](https://github.com/sony/NDJIR) topic: pushed_at:2023-02 star:0.0k fork:0.0k NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object
@@ -131,7 +131,7 @@
 - [sony/pagoda](https://github.com/sony/pagoda) topic: pushed_at:2024-11 star:0.0k fork:0.0k 
 - [sony/pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) topic: pushed_at:2023-06 star:0.0k fork:0.0k Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models
 - [sony/polar-densification](https://github.com/sony/polar-densification) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
-- [sony/pyAutoPort](https://github.com/sony/pyAutoPort) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
+- [sony/pyAutoPort](https://github.com/sony/pyAutoPort) topic: pushed_at:2025-01 star:0.0k fork:0.0k 
 - [sony/pyIEOE](https://github.com/sony/pyIEOE) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 - [sony/san](https://github.com/sony/san) topic:deep-generative-model,gan,generative-model,machine-learning,optimal-transport,pytorch,sliced-wasserstein-distance,wasserstein-distance pushed_at:2024-06 star:0.1k fork:0.0k PyTorch implementation of slicing adversarial network (SAN)
 - [sony/silentcipher](https://github.com/sony/silentcipher) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
