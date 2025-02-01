@@ -113,7 +113,7 @@
 ## Python
 
 - [twitter/caladrius](https://github.com/twitter/caladrius) topic: pushed_at:2023-04 star:0.0k fork:0.0k Performance modelling system for Distributed Stream Processing Systems (DSPS) such as Apache Heron and Apache Storm
-- [twitter/communitynotes](https://github.com/twitter/communitynotes) topic:crowdsourcing,twitter pushed_at:2024-12 star:1.6k fork:0.2k Documentation and source code powering Twitter's Community Notes
+- [twitter/communitynotes](https://github.com/twitter/communitynotes) topic:crowdsourcing,twitter pushed_at:2025-01 star:1.6k fork:0.2k Documentation and source code powering Twitter's Community Notes
 - [twitter/dict_minimize](https://github.com/twitter/dict_minimize) topic:scipy,scipy-stack pushed_at:2023-06 star:0.1k fork:0.0k Access scipy optimizers from your favorite deep learning framework.
 - [twitter/diffusion-rl](https://github.com/twitter/diffusion-rl) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [twitter/gatekeeper-service](https://github.com/twitter/gatekeeper-service) topic: pushed_at:2023-02 star:0.0k fork:0.0k GateKeeper is a service built to automate the manual steps involved in onboarding, offboarding, and lost asset scenarios.
@@ -129,7 +129,7 @@
 
 - [twitter/activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) topic: pushed_at:2016-01 star:1.3k fork:0.1k An Active Record Reputation System for Rails
 - [twitter/thrift_client](https://github.com/twitter/thrift_client) topic: pushed_at:2019-06 star:0.2k fork:0.1k A Thrift client wrapper that encapsulates some common failover behavior
-- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) topic: pushed_at:2024-04 star:0.7k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
+- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) topic: pushed_at:2025-01 star:0.7k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 - [twitter/twurl](https://github.com/twitter/twurl) topic:cli,curl,ruby,twitter,twitter-api,twurl pushed_at:2023-07 star:1.8k fork:0.3k OAuth-enabled curl for the Twitter API
 
 ## Rust
@@ -165,13 +165,13 @@
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) topic: pushed_at:2024-04 star:0.2k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) topic: pushed_at:2023-04 star:0.9k fork:0.2k Korean tokenizer
 - [twitter/twitter-server](https://github.com/twitter/twitter-server) topic:finagle,finatra pushed_at:2024-05 star:1.6k fork:0.3k Twitter-Server defines a template from which services at Twitter are built
-- [twitter/util](https://github.com/twitter/util) topic:finagle,scala,utility pushed_at:2024-12 star:2.7k fork:0.6k Wonderful reusable code from Twitter
+- [twitter/util](https://github.com/twitter/util) topic:finagle,scala,utility pushed_at:2025-01 star:2.7k fork:0.6k Wonderful reusable code from Twitter
 
 ## Shell
 
 - [twitter/cache-trace](https://github.com/twitter/cache-trace) topic:cache,memcached,production,redis,trace pushed_at:2021-12 star:0.2k fork:0.0k A collection of Twitter's anonymized production cache traces.
 - [twitter/dodo](https://github.com/twitter/dodo) topic:finagle,finatra,ostrich,sbt,scrooge,twitter-oss,twitter-server,util pushed_at:2024-05 star:0.0k fork:0.0k The Twitter OSS Project Builder
-- [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) topic: pushed_at:2024-04 star:0.5k fork:0.3k Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
+- [twitter/hadoop-lzo](https://github.com/twitter/hadoop-lzo) topic: pushed_at:2024-04 star:0.6k fork:0.3k Refactored version of code.google.com/hadoop-gpl-compression for hadoop 0.20
 
 ## Smarty
 

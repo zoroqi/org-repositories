@@ -585,7 +585,7 @@
 - [opencollective/django-extensions](https://github.com/opencollective/django-extensions) topic: pushed_at:2020-08 star:0.0k fork:0.0k This is a repository for collecting global custom management extensions for the Django Framework. 
 - [opencollective/docker-slim](https://github.com/opencollective/docker-slim) topic: pushed_at:2020-01 star:0.0k fork:0.0k DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [opencollective/docs](https://github.com/opencollective/docs) topic: pushed_at:2019-03 star:0.0k fork:0.0k Onboarding Resources for contributors, members and chapter organizers of Open source community Africa (O.S.C.A)
-- [opencollective/documentation](https://github.com/opencollective/documentation) topic:documentation,open-collective pushed_at:2024-12 star:0.1k fork:0.1k All documentation for Open Collective
+- [opencollective/documentation](https://github.com/opencollective/documentation) topic:documentation,open-collective pushed_at:2025-01 star:0.1k fork:0.1k All documentation for Open Collective
 - [opencollective/dotenv-linter](https://github.com/opencollective/dotenv-linter) topic: pushed_at:2020-08 star:0.0k fork:0.0k ✌️Linter for .env files. Written in Rust 🦀
 - [opencollective/dowww](https://github.com/opencollective/dowww) topic: pushed_at:2019-01 star:0.0k fork:0.0k 💡 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
 - [opencollective/DragonProxy](https://github.com/opencollective/DragonProxy) topic: pushed_at:2021-02 star:0.0k fork:0.0k A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.
@@ -743,7 +743,7 @@
 - [opencollective/open-zwave](https://github.com/opencollective/open-zwave) topic: pushed_at:2019-09 star:0.0k fork:0.0k a C++ library to control Z-Wave Networks via a USB Z-Wave Controller. 
 - [opencollective/openaddresses](https://github.com/opencollective/openaddresses) topic: pushed_at:2020-01 star:0.0k fork:0.0k A repository of global open address data.
 - [opencollective/openboxes](https://github.com/opencollective/openboxes) topic: pushed_at:2020-02 star:0.0k fork:0.0k OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
-- [opencollective/opencollective](https://github.com/opencollective/opencollective) topic:open-source,sustainability,transparency pushed_at:2024-11 star:2.0k fork:0.4k We're tracking all our Issues, RFCs and a few other documents in this repository.
+- [opencollective/opencollective](https://github.com/opencollective/opencollective) topic:open-source,sustainability,transparency pushed_at:2025-01 star:2.1k fork:0.4k We're tracking all our Issues, RFCs and a few other documents in this repository.
 - [opencollective/opencollective-lib](https://github.com/opencollective/opencollective-lib) topic: pushed_at:2016-06 star:0.0k fork:0.0k Libraries in common in our repos
 - [opencollective/openmptcprouter](https://github.com/opencollective/openmptcprouter) topic: pushed_at:2020-03 star:0.0k fork:0.0k OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [opencollective/opensource](https://github.com/opencollective/opensource) topic: pushed_at:2016-07 star:0.0k fork:0.0k This is the Open Source Collective repo. Submit here issues related on how to spend the money and projects/ideas to get funded. 

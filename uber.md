@@ -12,7 +12,7 @@
 - [HTML](#html) (2)
 - [Haskell](#haskell) (1)
 - [Java](#java) (19)
-- [JavaScript](#javascript) (29)
+- [JavaScript](#javascript) (30)
 - [Jupyter Notebook](#jupyter-notebook) (1)
 - [Kotlin](#kotlin) (6)
 - [Makefile](#makefile) (1)
@@ -29,7 +29,7 @@
 - [Stata](#stata) (1)
 - [Swift](#swift) (11)
 - [Thrift](#thrift) (2)
-- [TypeScript](#typescript) (8)
+- [TypeScript](#typescript) (7)
 
 ## C
 
@@ -49,7 +49,7 @@
 - [uber/aresdb](https://github.com/uber/aresdb) topic:analytics,cgo,cuda,data,database,golang,gpu-programming,query,real-time,storage pushed_at:2024-07 star:3.0k fork:0.2k A GPU-powered real-time analytics storage and query engine. 
 - [uber/assume-role-cli](https://github.com/uber/assume-role-cli) topic: pushed_at:2023-03 star:0.0k fork:0.0k CLI for AssumeRole is a tool for running programs with temporary credentials from AWS's AssumeRole API.
 - [uber/astro](https://github.com/uber/astro) topic: pushed_at:2023-03 star:0.4k fork:0.0k Astro is a tool for managing multiple Terraform executions as a single command
-- [uber/athenadriver](https://github.com/uber/athenadriver) topic:atg,athena,aws,database,driver,go,golang,hiveql,prestosql,s3,sandbox,sql,uber pushed_at:2024-09 star:0.2k fork:0.0k A fully-featured AWS Athena database driver (+ athenareader https://github.com/uber/athenadriver/tree/master/athenareader)
+- [uber/athenadriver](https://github.com/uber/athenadriver) topic:atg,athena,aws,database,driver,go,golang,hiveql,prestosql,s3,sandbox,sql,uber pushed_at:2025-01 star:0.2k fork:0.0k A fully-featured AWS Athena database driver (+ athenareader https://github.com/uber/athenadriver/tree/master/athenareader)
 - [uber/cadvisor](https://github.com/uber/cadvisor) topic: pushed_at:2023-06 star:0.0k fork:0.0k Analyzes resource usage and performance characteristics of running containers.
 - [uber/go-vertex-ai](https://github.com/uber/go-vertex-ai) topic: pushed_at:2024-10 star:0.0k fork:0.0k A go implementation of the Google VertexAI API
 - [uber/gonduit](https://github.com/uber/gonduit) topic: pushed_at:2021-06 star:0.0k fork:0.0k A Go package for connecting to Phabricator via the Conduit API.
@@ -112,11 +112,11 @@
 - [uber/geojson2h3](https://github.com/uber/geojson2h3) topic:geojson,geospatial,h3,hexagon,javascript pushed_at:2023-07 star:0.2k fork:0.0k Conversion utilities between H3 indexes and GeoJSON
 - [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) topic: pushed_at:2024-06 star:0.5k fork:0.1k grafana dash dash dash gen
 - [uber/graph.gl](https://github.com/uber/graph.gl) topic: pushed_at:2021-02 star:0.1k fork:0.0k WebGL2-Powered Visualization Components for Graph Visualization
-- [uber/h3-js](https://github.com/uber/h3-js) topic:emscripten,geospatial,h3,hexagon,javascript,spatial-indexing,uber pushed_at:2024-11 star:0.9k fork:0.1k h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
+- [uber/h3-js](https://github.com/uber/h3-js) topic:emscripten,geospatial,h3,hexagon,javascript,spatial-indexing,uber pushed_at:2025-01 star:0.9k fork:0.1k h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
 - [uber/json-schema-filter](https://github.com/uber/json-schema-filter) topic: pushed_at:2020-10 star:0.0k fork:0.0k Filters (removes) objects from document based on passed json-schema
 - [uber/kafka-logger](https://github.com/uber/kafka-logger) topic: pushed_at:2018-10 star:0.0k fork:0.0k A kafka logger for winston
 - [uber/logtron](https://github.com/uber/logtron) topic: pushed_at:2023-04 star:0.2k fork:0.0k A logging MACHINE
-- [uber/manifold](https://github.com/uber/manifold) topic:incubation,machine-learning,visualization pushed_at:2023-03 star:1.6k fork:0.1k A model-agnostic visual debugging tool for machine learning
+- [uber/manifold](https://github.com/uber/manifold) topic:incubation,machine-learning,visualization pushed_at:2025-01 star:1.7k fork:0.1k A model-agnostic visual debugging tool for machine learning
 - [uber/react-digraph](https://github.com/uber/react-digraph) topic: pushed_at:2023-09 star:2.6k fork:0.3k A library for creating directed graph editors
 - [uber/react-global-hooks](https://github.com/uber/react-global-hooks) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [uber/react-vis](https://github.com/uber/react-vis) topic:chart,charting-library,data-visualization,react,uber,visualization pushed_at:2024-12 star:8.7k fork:0.8k Data Visualization Components
@@ -129,6 +129,7 @@
 - [uber/tchannel-node](https://github.com/uber/tchannel-node) topic: pushed_at:2022-05 star:0.2k fork:0.0k 
 - [uber/tree-sitter-go](https://github.com/uber/tree-sitter-go) topic: pushed_at:2023-08 star:0.0k fork:0.0k Go grammar for tree-sitter
 - [uber/typed-request-client](https://github.com/uber/typed-request-client) topic: pushed_at:2017-05 star:0.0k fork:0.0k Make HTTP requests using TypedRequest and TypedResponse objects.
+- [uber/uber-direct-sdk-samples](https://github.com/uber/uber-direct-sdk-samples) topic: pushed_at:2025-01 star:0.0k fork:0.0k Sample code using the Uber Direct SDK
 - [uber/uber-licence](https://github.com/uber/uber-licence) topic: pushed_at:2019-10 star:0.0k fork:0.0k Utility to deal with Uber OSS licences
 - [uber/uber-ngen](https://github.com/uber/uber-ngen) topic: pushed_at:2016-05 star:0.0k fork:0.0k uber-ngen is a tool that will generate a new nodejs project for you.
 - [uber/uber-pay-reference-app](https://github.com/uber/uber-pay-reference-app) topic:api,example,money,sandbox,uber pushed_at:2019-11 star:0.0k fork:0.0k Uber Pay reference integration
@@ -265,7 +266,6 @@
 - [uber/cosmo](https://github.com/uber/cosmo) topic: pushed_at:2025-01 star:0.0k fork:0.0k Uber FORK of wundergraph/cosmo
 - [uber/nebula.gl](https://github.com/uber/nebula.gl) topic:deck-gl,uber,webgl pushed_at:2024-05 star:0.7k fork:0.2k A suite of 3D-enabled data editing overlays, suitable for deck.gl
 - [uber/react-view](https://github.com/uber/react-view) topic:code-generator,documentation,playground,react pushed_at:2024-10 star:0.7k fork:0.0k React View is an interactive playground, documentation and code generator for your components.
-- [uber/uber-direct-sdk-samples](https://github.com/uber/uber-direct-sdk-samples) topic: pushed_at:2025-01 star:0.0k fork:0.0k Sample code using the Uber Direct SDK
 - [uber/vscode-bazel-bsp](https://github.com/uber/vscode-bazel-bsp) topic:bazel,build-server-protocol,testing-tools,vscode-extension pushed_at:2025-01 star:0.0k fork:0.0k VS Code extension to provide integration with Bazel BSP, leveraging Build Server Protocol.  Currently focused on VS Code test explorer integration.
 - [uber/vscode-go](https://github.com/uber/vscode-go) topic: pushed_at:2024-01 star:0.0k fork:0.0k Go extension for Visual Studio Code, with added Bazel Support
 

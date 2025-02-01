@@ -84,7 +84,7 @@
 - [twitter-archive/torch-dataset](https://github.com/twitter-archive/torch-dataset) topic: pushed_at:2021-10 star:0.1k fork:0.0k An extensible and high performance method of reading, sampling and processing data for Torch
 - [twitter-archive/torch-decisiontree](https://github.com/twitter-archive/torch-decisiontree) topic: pushed_at:2018-05 star:0.1k fork:0.0k This project implements random forests and gradient boosted decision trees (GBDT). The latter uses gradient tree boosting. Both use ensemble learning to produce ensembles of decision trees (that is, forests).
 - [twitter-archive/torch-distlearn](https://github.com/twitter-archive/torch-distlearn) topic: pushed_at:2021-10 star:0.1k fork:0.0k A set of distributed learning algorithms for Torch
-- [twitter-archive/torch-twrl](https://github.com/twitter-archive/torch-twrl) topic: pushed_at:2017-05 star:0.3k fork:0.0k Torch-twrl is a package that enables reinforcement learning in Torch.
+- [twitter-archive/torch-twrl](https://github.com/twitter-archive/torch-twrl) topic: pushed_at:2017-05 star:0.2k fork:0.0k Torch-twrl is a package that enables reinforcement learning in Torch.
 
 ## Objective-C
 

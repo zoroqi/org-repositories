@@ -59,7 +59,7 @@
 - [riscv/riscv-memory-tagging](https://github.com/riscv/riscv-memory-tagging) topic: pushed_at:2025-01 star:0.0k fork:0.0k Memory Tagging ISA extension that can be used by software to enforce memory tag checks on memory loads and stores
 - [riscv/riscv-performance-event-sampling](https://github.com/riscv/riscv-performance-event-sampling) topic: pushed_at:2025-01 star:0.0k fork:0.0k Define 2 new extensions to, along with Zihpm and Sscofpmf, enable event and instruction sampling with precise attribution.
 - [riscv/riscv-pqc](https://github.com/riscv/riscv-pqc) topic: pushed_at:2024-02 star:0.0k fork:0.0k Post Quantum Cryptography
-- [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) topic: pushed_at:2024-12 star:0.1k fork:0.0k RISC-V Architecture Profiles
+- [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) topic: pushed_at:2025-01 star:0.1k fork:0.0k RISC-V Architecture Profiles
 - [riscv/riscv-smmtt](https://github.com/riscv/riscv-smmtt) topic:access-control,ap-tee,confidential-computing,smmtt,supervisor-domains,trusted-computing,trusted-execution-environment pushed_at:2024-12 star:0.0k fork:0.0k This specification will define the RISC-V privilege ISA extensions required to support Supervisor Domain isolation for multi-tenant security use cases e.g. confidential-computing, trusted platform services, fault isolation and so on.
 - [riscv/riscv-ssdtso](https://github.com/riscv/riscv-ssdtso) topic: pushed_at:2024-12 star:0.0k fork:0.0k The Ssdtso is a fast-track extension adding a 'dynamic-RVTSO' mode of operation and on-demand per-hart switching between the memory models.
 - [riscv/riscv-ssqosid](https://github.com/riscv/riscv-ssqosid) topic: pushed_at:2024-06 star:0.0k fork:0.0k This repo will hold the specification for the proposed QoS ID extension being pursued on the fast-track process.
@@ -76,7 +76,7 @@
 - [riscv/ft-trigger-delegation](https://github.com/riscv/ft-trigger-delegation) topic: pushed_at:2024-09 star:0.0k fork:0.0k Trigger Delegation Fast-Track Specification
 - [riscv/guides](https://github.com/riscv/guides) topic: pushed_at:2024-11 star:0.0k fork:0.0k RISC-V International Guides
 - [riscv/integrated-matrix-extension](https://github.com/riscv/integrated-matrix-extension) topic: pushed_at:2024-09 star:0.0k fork:0.0k RISC-V Integrated Matrix Development Repository
-- [riscv/learn](https://github.com/riscv/learn) topic: pushed_at:2025-01 star:0.7k fork:0.1k Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. 
+- [riscv/learn](https://github.com/riscv/learn) topic: pushed_at:2025-01 star:0.8k fork:0.1k Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. 
 - [riscv/riscv-docs-base-container-image](https://github.com/riscv/riscv-docs-base-container-image) topic: pushed_at:2025-01 star:0.0k fork:0.0k A base container image populated with the dependencies to build the RISC-V Documentation.
 - [riscv/riscv-library](https://github.com/riscv/riscv-library) topic: pushed_at:2024-12 star:0.0k fork:0.0k This repository holds the front matter pages for the RISC-V Library
 - [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) topic: pushed_at:2023-10 star:0.1k fork:0.0k RISC-V Packed SIMD Extension
@@ -91,7 +91,7 @@
 - [riscv/riscv-cheri](https://github.com/riscv/riscv-cheri) topic:capabilities,compartmentalization,memory-safety pushed_at:2025-01 star:0.1k fork:0.0k This repository contains the CHERI extension specification, adding hardware capabilities to RISC-V ISA to enable fine-grained memory protection and scalable compartmentalization.
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) topic: pushed_at:2025-01 star:0.5k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) topic: pushed_at:2025-01 star:0.7k fork:0.3k RISC-V Opcodes
-- [riscv/riscv-performance-events](https://github.com/riscv/riscv-performance-events) topic: pushed_at:2024-12 star:0.0k fork:0.0k RISC-V Performance Events Specification
+- [riscv/riscv-performance-events](https://github.com/riscv/riscv-performance-events) topic: pushed_at:2025-01 star:0.0k fork:0.0k RISC-V Performance Events Specification
 
 ## TeX
 

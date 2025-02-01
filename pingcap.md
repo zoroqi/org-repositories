@@ -88,7 +88,7 @@
 - [pingcap/public_bi_benchmark](https://github.com/pingcap/public_bi_benchmark) topic: pushed_at:2022-04 star:0.0k fork:0.0k BI benchmark with user generated data and queries
 - [pingcap/sysutil](https://github.com/pingcap/sysutil) topic: pushed_at:2024-11 star:0.0k fork:0.0k sysutil is a library which implementats the gRPC service Diagnostics and shares the diagnostics functions between TiDB and PD.
 - [pingcap/ticdc](https://github.com/pingcap/ticdc) topic: pushed_at:2025-01 star:0.0k fork:0.0k TiCDC pulls change logs out of TiDB and pushes to kinds of systems.
-- [pingcap/tidb](https://github.com/pingcap/tidb) topic:cloud-native,database,distributed-database,distributed-transactions,go,hacktoberfest,htap,mysql,mysql-compatibility,scale,serverless,sql,tidb pushed_at:2025-01 star:37.7k fork:5.9k TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+- [pingcap/tidb](https://github.com/pingcap/tidb) topic:cloud-native,database,distributed-database,distributed-transactions,go,hacktoberfest,htap,mysql,mysql-compatibility,scale,serverless,sql,tidb pushed_at:2025-01 star:37.8k fork:5.9k TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) topic: pushed_at:2025-01 star:0.3k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
 - [pingcap/tidb-cloud-backup](https://github.com/pingcap/tidb-cloud-backup) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
 - [pingcap/tidb-ctl](https://github.com/pingcap/tidb-ctl) topic: pushed_at:2024-02 star:0.0k fork:0.0k TiDB Controller
@@ -199,7 +199,7 @@
 - [pingcap/grpc-rust](https://github.com/pingcap/grpc-rust) topic: pushed_at:2017-05 star:0.0k fork:0.0k Rust implementation of gRPC (not ready yet)
 - [pingcap/murmur3](https://github.com/pingcap/murmur3) topic: pushed_at:2018-03 star:0.0k fork:0.0k A rust implementation of murmur3
 - [pingcap/rust-protobuf](https://github.com/pingcap/rust-protobuf) topic: pushed_at:2024-07 star:0.0k fork:0.0k Rust implementation of Google protocol buffers
-- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) topic:distributed-database,distributed-systems,golang,open-source,pingcap,rust,talent-plan pushed_at:2023-09 star:10.3k fork:1.3k open source training courses about distributed database and distributed systems
+- [pingcap/talent-plan](https://github.com/pingcap/talent-plan) topic:distributed-database,distributed-systems,golang,open-source,pingcap,rust,talent-plan pushed_at:2023-09 star:10.4k fork:1.3k open source training courses about distributed database and distributed systems
 - [pingcap/tidb-engine-ext](https://github.com/pingcap/tidb-engine-ext) topic: pushed_at:2025-01 star:0.0k fork:0.0k A TiKV based `c dynamic library` for extending storage system in TiDB cluster
 
 ## Scala
