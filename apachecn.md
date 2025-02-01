@@ -75,7 +75,7 @@
 - [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) topic:documentation,machine-learning,python,scikit-learn pushed_at:2023-07 star:5.1k fork:1.5k :book: [译] scikit-learn（sklearn） 中文文档
 - [apachecn/SocialMediaMining-zh](https://github.com/apachecn/SocialMediaMining-zh) topic: pushed_at:2023-12 star:0.0k fork:0.0k 社交媒体挖掘_翻译版
 - [apachecn/stanford-cs224n-notes-zh](https://github.com/apachecn/stanford-cs224n-notes-zh) topic: pushed_at:2020-09 star:0.3k fork:0.1k :book: 斯坦福 CS224n 自然语言处理中文笔记
-- [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes) topic:freedom,lixiaolai,wealth pushed_at:2020-12 star:0.1k fork:0.1k :book: 通往财富自由之路精细笔记
+- [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes) topic:freedom,lixiaolai,wealth pushed_at:2020-12 star:0.2k fork:0.1k :book: 通往财富自由之路精细笔记
 - [apachecn/think-comp-2e-zh](https://github.com/apachecn/think-comp-2e-zh) topic: pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] 复杂性思维 中文第二版
 - [apachecn/think-dast-zh](https://github.com/apachecn/think-dast-zh) topic:book,data-structures,java pushed_at:2021-01 star:0.0k fork:0.0k :book: [译] 数据结构思维中文版
 - [apachecn/think-os-zh](https://github.com/apachecn/think-os-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
@@ -450,7 +450,7 @@
 - [apachecn/seaseio-blog-zh](https://github.com/apachecn/seaseio-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/sec-learning](https://github.com/apachecn/sec-learning) topic: pushed_at:2022-07 star:0.0k fork:0.0k :books: SecLearning——零组文库备份
 - [apachecn/seinfo-blog-zh](https://github.com/apachecn/seinfo-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [apachecn/sicp-js-zh](https://github.com/apachecn/sicp-js-zh) topic:cs1101s,javascript,nus,sicp,textbook pushed_at:2023-03 star:0.1k fork:0.0k :book: 【译】NUS CS1101s SICP JavaScript 描述
+- [apachecn/sicp-js-zh](https://github.com/apachecn/sicp-js-zh) topic:cs1101s,javascript,nus,sicp,textbook pushed_at:2023-03 star:0.2k fork:0.0k :book: 【译】NUS CS1101s SICP JavaScript 描述
 - [apachecn/simpleprogrammer-zh](https://github.com/apachecn/simpleprogrammer-zh) topic: pushed_at:2022-10 star:0.0k fork:0.0k SimpleProgramming 博客中文翻译
 - [apachecn/sitepoint-blog-zh](https://github.com/apachecn/sitepoint-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/social-engineer-blog-zh](https://github.com/apachecn/social-engineer-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -494,7 +494,7 @@
 - [apachecn/tutorialsclass-zh](https://github.com/apachecn/tutorialsclass-zh) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [apachecn/tutorialskart-zh](https://github.com/apachecn/tutorialskart-zh) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [apachecn/tutorialsteacher-zh](https://github.com/apachecn/tutorialsteacher-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
-- [apachecn/ucb-cs294-112-notes-zh](https://github.com/apachecn/ucb-cs294-112-notes-zh) topic: pushed_at:2021-01 star:0.0k fork:0.0k UCB CS294-112 深度强化学习中文笔记
+- [apachecn/ucb-cs294-112-notes-zh](https://github.com/apachecn/ucb-cs294-112-notes-zh) topic: pushed_at:2021-01 star:0.1k fork:0.0k UCB CS294-112 深度强化学习中文笔记
 - [apachecn/uiuc-cs241-notes-zh](https://github.com/apachecn/uiuc-cs241-notes-zh) topic:cs241,system,textbook,uiuc pushed_at:2022-08 star:0.0k fork:0.0k :book: 【译】UIUC CS241 系统编程中文讲义
 - [apachecn/venturehacks-blog-zh](https://github.com/apachecn/venturehacks-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/visualmodo-blog-zh](https://github.com/apachecn/visualmodo-blog-zh) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
@@ -988,7 +988,7 @@
 - [apachecn/PD-Runner-Revived](https://github.com/apachecn/PD-Runner-Revived) topic: pushed_at:2022-11 star:0.0k fork:0.0k PD-Runner (Parallels Desktop) 补档
 - [apachecn/PeiQi-WIKI-POC](https://github.com/apachecn/PeiQi-WIKI-POC) topic: pushed_at:2021-07 star:0.0k fork:0.0k 鹿不在侧，鲸不予游🐋
 - [apachecn/pelican-themes](https://github.com/apachecn/pelican-themes) topic: pushed_at:2022-10 star:0.0k fork:0.0k Themes for Pelican
-- [apachecn/phei-cs-book](https://github.com/apachecn/phei-cs-book) topic: pushed_at:2023-02 star:0.1k fork:0.1k :books: 电子工业国外计算机教材丛书
+- [apachecn/phei-cs-book](https://github.com/apachecn/phei-cs-book) topic: pushed_at:2023-02 star:0.2k fork:0.1k :books: 电子工业国外计算机教材丛书
 - [apachecn/phoenix-doc-zh](https://github.com/apachecn/phoenix-doc-zh) topic: pushed_at:2019-04 star:0.0k fork:0.0k Phoenix 中文文档翻译计划
 - [apachecn/Planning-based-Hierarchical-Variational-Model](https://github.com/apachecn/Planning-based-Hierarchical-Variational-Model) topic: pushed_at:2020-04 star:0.0k fork:0.0k Dataset and code for ``Long and Diverse Text Generation with Planning-based Hierarchical Variational Model (EMNLP 2019)``
 - [apachecn/PlayCover](https://github.com/apachecn/PlayCover) topic: pushed_at:2023-06 star:0.0k fork:0.0k Community fork of PlayCover
@@ -1035,7 +1035,7 @@
 - [apachecn/scripts](https://github.com/apachecn/scripts) topic: pushed_at:2022-01 star:0.0k fork:0.0k jd https://t.me/+fo3HSUe3nbRiNjY1
 - [apachecn/scripts-1](https://github.com/apachecn/scripts-1) topic: pushed_at:2021-12 star:0.0k fork:0.0k Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
 - [apachecn/scys1](https://github.com/apachecn/scys1) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:1.0k fork:0.4k :books: 网安类绝版图书
+- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:1.1k fork:0.4k :books: 网安类绝版图书
 - [apachecn/sec-books-part2](https://github.com/apachecn/sec-books-part2) topic: pushed_at:2023-01 star:0.1k fork:0.0k :books: 网安类绝版图书（二）
 - [apachecn/sec-gzh-2022](https://github.com/apachecn/sec-gzh-2022) topic: pushed_at:2023-04 star:0.0k fork:0.0k 网络安全类公众号离线备份
 - [apachecn/seebug-paper-2016-20xx](https://github.com/apachecn/seebug-paper-2016-20xx) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -1196,7 +1196,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:39.9k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.0k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
@@ -1239,7 +1239,7 @@
 - [apachecn/java8-tut-zh](https://github.com/apachecn/java8-tut-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Java8 中文官方文档（施工中）
 - [apachecn/misc-docs-zh](https://github.com/apachecn/misc-docs-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :books: [译] ApacheCN 短篇集
 - [apachecn/ml-book-100-zh](https://github.com/apachecn/ml-book-100-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] 百页机器学习小书
-- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2024-12 star:4.1k fork:1.0k Pytorch 中文文档
+- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2024-12 star:4.2k fork:1.0k Pytorch 中文文档
 - [apachecn/rpy2-doc-zh](https://github.com/apachecn/rpy2-doc-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/stanford-cs234-notes-zh](https://github.com/apachecn/stanford-cs234-notes-zh) topic: pushed_at:2021-01 star:0.2k fork:0.0k 斯坦福 cs234 强化学习中文讲义
 - [apachecn/stanford-game-theory-notes-zh](https://github.com/apachecn/stanford-game-theory-notes-zh) topic: pushed_at:2020-09 star:0.2k fork:0.0k 📖斯坦福博弈论中文笔记
