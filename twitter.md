@@ -54,7 +54,7 @@
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) topic: pushed_at:2023-04 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/interactive](https://github.com/twitter/interactive) topic: pushed_at:2021-11 star:0.2k fork:0.1k Twitter interactive visualization
 - [twitter/scala_school](https://github.com/twitter/scala_school) topic: pushed_at:2023-04 star:3.7k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) topic:emoji,twemoji pushed_at:2024-08 star:16.9k fork:1.9k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twemoji](https://github.com/twitter/twemoji) topic:emoji,twemoji pushed_at:2024-08 star:17.0k fork:1.9k Emoji for everyone. https://twemoji.twitter.com/
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) topic:emoji,java,nodejs,objective-c,ruby,tweet,twitter,twitter-text,unicode pushed_at:2024-04 star:3.1k fork:0.5k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) topic: pushed_at:2021-10 star:0.1k fork:0.0k 
 
@@ -129,7 +129,7 @@
 
 - [twitter/activerecord-reputation-system](https://github.com/twitter/activerecord-reputation-system) topic: pushed_at:2016-01 star:1.3k fork:0.1k An Active Record Reputation System for Rails
 - [twitter/thrift_client](https://github.com/twitter/thrift_client) topic: pushed_at:2019-06 star:0.2k fork:0.1k A Thrift client wrapper that encapsulates some common failover behavior
-- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) topic: pushed_at:2025-01 star:0.7k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
+- [twitter/twitter-cldr-rb](https://github.com/twitter/twitter-cldr-rb) topic: pushed_at:2025-02 star:0.7k fork:0.1k Ruby implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.
 - [twitter/twurl](https://github.com/twitter/twurl) topic:cli,curl,ruby,twitter,twitter-api,twurl pushed_at:2023-07 star:1.8k fork:0.3k OAuth-enabled curl for the Twitter API
 
 ## Rust
@@ -141,7 +141,7 @@
 
 ## SCSS
 
-- [twitter/opensource-website](https://github.com/twitter/opensource-website) topic:ospo pushed_at:2025-01 star:3.0k fork:0.8k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
+- [twitter/opensource-website](https://github.com/twitter/opensource-website) topic:ospo pushed_at:2025-02 star:3.1k fork:0.8k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 
 ## Scala
 
@@ -160,7 +160,7 @@
 - [twitter/stitch](https://github.com/twitter/stitch) topic: pushed_at:2024-11 star:0.1k fork:0.0k 
 - [twitter/storehaus](https://github.com/twitter/storehaus) topic: pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) topic: pushed_at:2022-01 star:2.1k fork:0.3k Streaming MapReduce with Scalding and Storm
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2024-07 star:62.8k fork:12.2k Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2024-07 star:62.9k fork:12.2k Source code for Twitter's Recommendation Algorithm
 - [twitter/tormenta](https://github.com/twitter/tormenta) topic: pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) topic: pushed_at:2024-04 star:0.2k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) topic: pushed_at:2023-04 star:0.9k fork:0.2k Korean tokenizer
