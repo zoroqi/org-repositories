@@ -127,7 +127,7 @@
 - [apachecn/alphamale20-blog-zh](https://github.com/apachecn/alphamale20-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/analyticsvidhya-blog-zh-2015to2020](https://github.com/apachecn/analyticsvidhya-blog-zh-2015to2020) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/analyticsvidhya-blog-zh-2021to2022](https://github.com/apachecn/analyticsvidhya-blog-zh-2021to2022) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
-- [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) topic:algorithm,coding,data-structure,geeker,hacker,interview,leetcode,leetcode-solutions,offer,python pushed_at:2024-06 star:11.0k fork:2.2k ApacheCN 数据结构与算法译文集
+- [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) topic:algorithm,coding,data-structure,geeker,hacker,interview,leetcode,leetcode-solutions,offer,python pushed_at:2024-06 star:11.1k fork:2.2k ApacheCN 数据结构与算法译文集
 - [apachecn/apachecn-android-zh](https://github.com/apachecn/apachecn-android-zh) topic: pushed_at:2022-01 star:0.0k fork:0.0k :books: [译] ApacheCN 安卓译文集
 - [apachecn/apachecn-android-zh-pt2](https://github.com/apachecn/apachecn-android-zh-pt2) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [apachecn/apachecn-android-zh-pt3](https://github.com/apachecn/apachecn-android-zh-pt3) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
@@ -154,7 +154,7 @@
 - [apachecn/apachecn-csharp-zh-pt3](https://github.com/apachecn/apachecn-csharp-zh-pt3) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-csharp-zh-pt4](https://github.com/apachecn/apachecn-csharp-zh-pt4) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-ctf-wiki](https://github.com/apachecn/apachecn-ctf-wiki) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
-- [apachecn/apachecn-cv-zh](https://github.com/apachecn/apachecn-cv-zh) topic: pushed_at:2022-07 star:0.1k fork:0.0k :books: [译] ApacheCN CV 译文集
+- [apachecn/apachecn-cv-zh](https://github.com/apachecn/apachecn-cv-zh) topic: pushed_at:2022-07 star:0.2k fork:0.0k :books: [译] ApacheCN CV 译文集
 - [apachecn/apachecn-cv-zh-pt2](https://github.com/apachecn/apachecn-cv-zh-pt2) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [apachecn/apachecn-dataviz-zh](https://github.com/apachecn/apachecn-dataviz-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-db-zh](https://github.com/apachecn/apachecn-db-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
@@ -1196,7 +1196,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.0k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.1k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
@@ -1239,7 +1239,7 @@
 - [apachecn/java8-tut-zh](https://github.com/apachecn/java8-tut-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Java8 中文官方文档（施工中）
 - [apachecn/misc-docs-zh](https://github.com/apachecn/misc-docs-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :books: [译] ApacheCN 短篇集
 - [apachecn/ml-book-100-zh](https://github.com/apachecn/ml-book-100-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] 百页机器学习小书
-- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2024-12 star:4.2k fork:1.0k Pytorch 中文文档
+- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2025-02 star:4.2k fork:1.0k Pytorch 中文文档
 - [apachecn/rpy2-doc-zh](https://github.com/apachecn/rpy2-doc-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/stanford-cs234-notes-zh](https://github.com/apachecn/stanford-cs234-notes-zh) topic: pushed_at:2021-01 star:0.2k fork:0.0k 斯坦福 cs234 强化学习中文讲义
 - [apachecn/stanford-game-theory-notes-zh](https://github.com/apachecn/stanford-game-theory-notes-zh) topic: pushed_at:2020-09 star:0.2k fork:0.0k 📖斯坦福博弈论中文笔记
