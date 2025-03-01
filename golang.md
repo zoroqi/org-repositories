@@ -28,7 +28,7 @@
 - [golang/gddo](https://github.com/golang/gddo) topic: pushed_at:2021-01 star:1.1k fork:0.3k Go Doc Dot Org
 - [golang/geo](https://github.com/golang/geo) topic:geometry,geometry-library,go,sphere pushed_at:2024-08 star:1.7k fork:0.2k S2 geometry library in Go
 - [golang/glog](https://github.com/golang/glog) topic: pushed_at:2025-01 star:3.6k fork:0.9k Leveled execution logs for Go
-- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2025-02 star:125.9k fork:17.9k The Go programming language
+- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2025-03 star:126.1k fork:17.9k The Go programming language
 - [golang/go-get-issue-15410](https://github.com/golang/go-get-issue-15410) topic: pushed_at:2020-08 star:0.0k fork:0.0k go-get-issue-15410
 - [golang/gofrontend](https://github.com/golang/gofrontend) topic: pushed_at:2025-01 star:0.9k fork:0.1k Go compiler frontend (gccgo)
 - [golang/groupcache](https://github.com/golang/groupcache) topic: pushed_at:2024-11 star:13.1k fork:1.4k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
@@ -40,7 +40,7 @@
 - [golang/mod](https://github.com/golang/mod) topic: pushed_at:2025-02 star:0.2k fork:0.1k [mirror] Go module mechanics libraries
 - [golang/net](https://github.com/golang/net) topic: pushed_at:2025-02 star:2.9k fork:1.2k [mirror] Go supplementary network libraries
 - [golang/oauth2](https://github.com/golang/oauth2) topic:go,golang,oauth2,oauth2-client pushed_at:2025-02 star:5.5k fork:1.0k Go OAuth2
-- [golang/open2opaque](https://github.com/golang/open2opaque) topic: pushed_at:2025-01 star:0.0k fork:0.0k The open2opaque tool migrates Go packages from the Go Protobuf Open Struct API to the Opaque API.
+- [golang/open2opaque](https://github.com/golang/open2opaque) topic: pushed_at:2025-02 star:0.0k fork:0.0k The open2opaque tool migrates Go packages from the Go Protobuf Open Struct API to the Opaque API.
 - [golang/oscar](https://github.com/golang/oscar) topic: pushed_at:2025-02 star:0.2k fork:0.0k [mirror] Open source contributor agent architecture repo.
 - [golang/perf](https://github.com/golang/perf) topic: pushed_at:2025-02 star:0.4k fork:0.1k [mirror] Performance measurement, storage, and analysis.
 - [golang/pkgsite](https://github.com/golang/pkgsite) topic: pushed_at:2025-02 star:1.2k fork:0.2k [mirror] Home of the pkg.go.dev website
@@ -66,7 +66,7 @@
 
 ## HTML
 
-- [golang/proposal](https://github.com/golang/proposal) topic: pushed_at:2024-12 star:3.4k fork:0.4k Go Project Design Documents
+- [golang/proposal](https://github.com/golang/proposal) topic: pushed_at:2025-02 star:3.4k fork:0.4k Go Project Design Documents
 - [golang/website](https://github.com/golang/website) topic: pushed_at:2025-02 star:0.4k fork:0.3k [mirror] Home of the go.dev and golang.org websites
 
 ## Others

@@ -14,7 +14,7 @@
 - [CSS](#css) (3)
 - [Go](#go) (31)
 - [Groovy](#groovy) (3)
-- [HCL](#hcl) (7)
+- [HCL](#hcl) (8)
 - [HTML](#html) (7)
 - [Hack](#hack) (1)
 - [Java](#java) (65)
@@ -25,7 +25,7 @@
 - [Others](#others) (22)
 - [PHP](#php) (2)
 - [PLSQL](#plsql) (2)
-- [Python](#python) (34)
+- [Python](#python) (33)
 - [Ruby](#ruby) (7)
 - [Rust](#rust) (3)
 - [Scala](#scala) (14)
@@ -48,7 +48,7 @@
 ## C
 
 - [oracle/adaptivemm](https://github.com/oracle/adaptivemm) topic:memory,performance pushed_at:2025-02 star:0.1k fork:0.0k adaptivemm - A userspace daemon for proactive free memory management
-- [oracle/bpftune](https://github.com/oracle/bpftune) topic:auto-tuning,bpf,ebpf,linux pushed_at:2025-02 star:1.5k fork:0.1k bpftune uses BPF to auto-tune Linux systems
+- [oracle/bpftune](https://github.com/oracle/bpftune) topic:auto-tuning,bpf,ebpf,linux pushed_at:2025-02 star:1.6k fork:0.1k bpftune uses BPF to auto-tune Linux systems
 - [oracle/fdr](https://github.com/oracle/fdr) topic:debugfs,diagnostics,ftrace,observability,static-probes,trace-cmd pushed_at:2023-11 star:0.0k fork:0.0k Flight Data Recorder to enable "always on" diagnosability & observability
 - [oracle/ktls-utils](https://github.com/oracle/ktls-utils) topic:ktls,linux,tls pushed_at:2025-02 star:0.0k fork:0.0k TLS handshake utilities for in-kernel TLS consumers
 - [oracle/kvm-guest-drivers-windows](https://github.com/oracle/kvm-guest-drivers-windows) topic: pushed_at:2024-10 star:0.0k fork:0.0k Windows paravirtualized 
@@ -92,10 +92,10 @@
 - [oracle/bosh-agent](https://github.com/oracle/bosh-agent) topic: pushed_at:2017-11 star:0.0k fork:0.0k BOSH Agent runs on each BOSH deployed VM
 - [oracle/bosh-oracle-cpi](https://github.com/oracle/bosh-oracle-cpi) topic:bosh,cloud,cloudfoundry,cpi,oci,oracle-cloud-infrastructure pushed_at:2019-08 star:0.0k fork:0.0k BOSH Cloud Provider Interface for Oracle Cloud Infrastructure
 - [oracle/bosh-oracle-cpi-release](https://github.com/oracle/bosh-oracle-cpi-release) topic:bosh,cloud,cloudfoundry,cpi pushed_at:2019-03 star:0.0k fork:0.0k BOSH release for Oracle Cloud Infrastructure CPI
-- [oracle/cluster-api-provider-oci](https://github.com/oracle/cluster-api-provider-oci) topic:cluster-api,cluster-api-provider-oci,k8s-provider-oci,k8s-sig-api-machinery,k8s-sig-cluster-api,kubernetes-cluster pushed_at:2024-10 star:0.0k fork:0.0k Kubernetes Cluster API Provider for Oracle Cloud Infrastructure
+- [oracle/cluster-api-provider-oci](https://github.com/oracle/cluster-api-provider-oci) topic:cluster-api,cluster-api-provider-oci,k8s-provider-oci,k8s-sig-api-machinery,k8s-sig-cluster-api,kubernetes-cluster pushed_at:2025-02 star:0.0k fork:0.0k Kubernetes Cluster API Provider for Oracle Cloud Infrastructure
 - [oracle/cluster-manager](https://github.com/oracle/cluster-manager) topic:kuberentes pushed_at:2021-01 star:0.0k fork:0.0k Administration of multiple Kubernetes clusters using a Kubernetes federation backend
 - [oracle/coherence-cli](https://github.com/oracle/coherence-cli) topic:cli,cli-tool,coherence,coherence-ce,management,monitoring,oracle pushed_at:2025-02 star:0.0k fork:0.0k The Coherence command line interface (CLI) is a lightweight tool, in the tradition of tools such as kubectl, which can be scripted or used interactively to manage and monitor Coherence clusters.
-- [oracle/coherence-go-client](https://github.com/oracle/coherence-go-client) topic:caching,coherence,coherence-ce,data-grid,distributed,go-client,golang,grpc,grpc-client,in-memory-caching,kv-store,microservices,scalability pushed_at:2025-01 star:0.0k fork:0.0k The Coherence Go Client allows native Go applications to act as cache clients to a Coherence cluster using gRPC for the network transport.
+- [oracle/coherence-go-client](https://github.com/oracle/coherence-go-client) topic:caching,coherence,coherence-ce,data-grid,distributed,go-client,golang,grpc,grpc-client,in-memory-caching,kv-store,microservices,scalability pushed_at:2025-02 star:0.0k fork:0.0k The Coherence Go Client allows native Go applications to act as cache clients to a Coherence cluster using gRPC for the network transport.
 - [oracle/coherence-operator](https://github.com/oracle/coherence-operator) topic:coherence,kubernetes,kubernetes-operator,operator,oracle pushed_at:2025-02 star:0.1k fork:0.0k Oracle Coherence Operator
 - [oracle/federated-ingress-controller](https://github.com/oracle/federated-ingress-controller) topic:kubernetes pushed_at:2017-12 star:0.0k fork:0.0k Alternative implementation of Federated Ingress using external DNS
 - [oracle/graphpipe-go](https://github.com/oracle/graphpipe-go) topic: pushed_at:2019-05 star:0.1k fork:0.0k GraphPipe for go
@@ -110,7 +110,7 @@
 - [oracle/oci-go-sdk](https://github.com/oracle/oci-go-sdk) topic:cloud,go,oracle-cloud,oracle-cloud-infrastructure,sdk pushed_at:2025-02 star:0.2k fork:0.1k Go SDK for Oracle Cloud Infrastructure 
 - [oracle/oci-grafana-logs](https://github.com/oracle/oci-grafana-logs) topic:grafana,logs,oci,oracle pushed_at:2025-02 star:0.0k fork:0.0k Grafana datasource plugin for OCI logs
 - [oracle/oci-manager](https://github.com/oracle/oci-manager) topic:infrastructure-automation,kubernetes,oracle pushed_at:2018-12 star:0.0k fork:0.0k Collection of Kubernetes controllers for autonomous management of Oracle Cloud Infrastucture resources
-- [oracle/oci-native-ingress-controller](https://github.com/oracle/oci-native-ingress-controller) topic: pushed_at:2025-01 star:0.0k fork:0.0k OCI Native Ingress Controller
+- [oracle/oci-native-ingress-controller](https://github.com/oracle/oci-native-ingress-controller) topic: pushed_at:2025-02 star:0.0k fork:0.0k OCI Native Ingress Controller
 - [oracle/oci-secrets-store-csi-driver-provider](https://github.com/oracle/oci-secrets-store-csi-driver-provider) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
 - [oracle/oci-service-operator](https://github.com/oracle/oci-service-operator) topic:autonomous-database,cloud,kubernetes,kubernetes-operator,oci-service-operator,operator-sdk,oracle-cloud,oracle-cloud-infrastructure,oracle-streaming pushed_at:2024-12 star:0.0k fork:0.0k The OCI Service Operator for Kubernetes (OSOK) makes it easy to connect and manage OCI services from a cloud native application running in a Kubernetes environment.
 - [oracle/oci-volume-provisioner](https://github.com/oracle/oci-volume-provisioner) topic:kubernetes,kubernetes-volumes,oci,oracle-cloud pushed_at:2020-06 star:0.0k fork:0.0k The OCI Volume Provisioner enables dynamic provisioning of storage resources when running Kubernetes on Oracle Cloud Infrastructure
@@ -130,6 +130,7 @@
 ## HCL
 
 - [oracle/cloud-asset-appsul-terraform-samples](https://github.com/oracle/cloud-asset-appsul-terraform-samples) topic: pushed_at:2018-11 star:0.0k fork:0.0k Terraform modules for Oracle Applications - Oracle E-Business Suite, JD Edwards, Siebel CRM and Peoplesoft
+- [oracle/db-sharding](https://github.com/oracle/db-sharding) topic:chunk,cross-shard-queries,fault-isolation,geodistributedsystems,globaldatabase,mid-tier-routing,middleware,oci,oci-terraform-modules,oracle-database,oracle-database-sharding,oracle-sharding,scale-out,sdb,sdb-terraform,sharding,sharding-on-oci-marketplace,shards,terraform-modules,terraform-scripts pushed_at:2025-02 star:0.0k fork:0.0k Oracle Sharded database deployment automation and tools for use in client applications.
 - [oracle/isv-single-tenant-vcn-isolation](https://github.com/oracle/isv-single-tenant-vcn-isolation) topic:isv,oci,terraform,virtual-networking pushed_at:2020-02 star:0.0k fork:0.0k Solution architecture for managing the isolation of multiple single-tenant application deployments in a single ISV tenancy
 - [oracle/terraform-ceph-installer](https://github.com/oracle/terraform-ceph-installer) topic:ceph,oci,terraform pushed_at:2018-08 star:0.0k fork:0.0k Terraform Installer for CEPH on Oracle Cloud Infrastructure
 - [oracle/terraform-kubernetes-installer](https://github.com/oracle/terraform-kubernetes-installer) topic:k8s,kubernetes,terraform pushed_at:2019-10 star:0.2k fork:0.1k Terraform Installer for Kubernetes on Oracle Cloud Infrastructure
@@ -175,11 +176,11 @@
 - [oracle/cpq-cloud-with-paas-samples](https://github.com/oracle/cpq-cloud-with-paas-samples) topic: pushed_at:2016-08 star:0.0k fork:0.0k Official Oracle samples created to support developers using Oracle PaaS to integrate with and extend the capabilities of Oracle CPQ Cloud.
 - [oracle/fastr](https://github.com/oracle/fastr) topic:graalvm,r,r-language pushed_at:2025-01 star:0.6k fork:0.1k A high-performance implementation of the R programming language, built on GraalVM.
 - [oracle/gdk-intellij-tooling](https://github.com/oracle/gdk-intellij-tooling) topic:cloud,framework,tools,web pushed_at:2025-02 star:0.0k fork:0.0k The plugin provides Graal Development Kit for Micronaut (GDK) project wizard which generates GDK applications.
-- [oracle/graal](https://github.com/oracle/graal) topic:aot,compiler,graalvm,java pushed_at:2025-02 star:20.6k fork:1.7k GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
+- [oracle/graal](https://github.com/oracle/graal) topic:aot,compiler,graalvm,java pushed_at:2025-02 star:20.7k fork:1.7k GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [oracle/graal-dev-kit](https://github.com/oracle/graal-dev-kit) topic: pushed_at:2025-02 star:0.0k fork:0.0k Graal Development Kit for Micronaut (GDK) is a curated set of open source Micronaut® framework modules designed from the ground up to be compiled ahead-of-time with GraalVM Native Image resulting in native executables ideal for microservices.
-- [oracle/graalvm-reachability-metadata](https://github.com/oracle/graalvm-reachability-metadata) topic: pushed_at:2025-02 star:0.4k fork:0.1k Repository which contains community-driven collection of GraalVM reachability metadata for open-source libraries.
+- [oracle/graalvm-reachability-metadata](https://github.com/oracle/graalvm-reachability-metadata) topic: pushed_at:2025-03 star:0.4k fork:0.1k Repository which contains community-driven collection of GraalVM reachability metadata for open-source libraries.
 - [oracle/heatwave](https://github.com/oracle/heatwave) topic:analytics,benchmarking,chbench,cloud,heatwave,mysql,oracle pushed_at:2024-03 star:0.0k fork:0.0k SQL scripts, instructions for MySQL HeatWave benchmarking
-- [oracle/json-in-db](https://github.com/oracle/json-in-db) topic:json,oracle-database pushed_at:2025-01 star:0.1k fork:0.1k Oracle Database JSON Examples
+- [oracle/json-in-db](https://github.com/oracle/json-in-db) topic:json,oracle-database pushed_at:2025-02 star:0.1k fork:0.1k Oracle Database JSON Examples
 - [oracle/microservices-datadriven](https://github.com/oracle/microservices-datadriven) topic:autonomous,cloud-native,converged-database,data-driven,databases,helidon,hybrid-cloud,livelabs,messaging,microservices,multi-cloud,oracle-converged-database,simplify-microservices-architecture,workshops pushed_at:2025-02 star:0.1k fork:0.1k Sample code of application examples to build microservices with converged Oracle database and multi-cloud / hybrid cloud services
 - [oracle/mobile-persistence](https://github.com/oracle/mobile-persistence) topic:oracle-maf pushed_at:2016-10 star:0.0k fork:0.0k NO LONGER MAINTAINED. AMPA is now part of Oracle MAF 2.3.1
 - [oracle/nb-javac](https://github.com/oracle/nb-javac) topic:nb-javac-netbeans-javac pushed_at:2023-06 star:0.0k fork:0.0k nb-javac is the Java compiler plugin used by the Apache NetBeans Java Editor
@@ -189,7 +190,7 @@
 - [oracle/nosql-spring-sdk](https://github.com/oracle/nosql-spring-sdk) topic:java,nosql,nosql-database,oracle,spring,spring-boot pushed_at:2025-02 star:0.0k fork:0.0k SDK for Spring Data for Oracle NoSQL Database
 - [oracle/oci-compute-classic-jenkins-plugin](https://github.com/oracle/oci-compute-classic-jenkins-plugin) topic:jenkins-plugin,oracle-cloud-infrastructure pushed_at:2018-01 star:0.0k fork:0.0k Jenkins Plugin for Oracle Cloud Infrastructure (Compute Classic) 
 - [oracle/oci-compute-jenkins-plugin](https://github.com/oracle/oci-compute-jenkins-plugin) topic:cloud,jenkins,oci,oracle-cloud,oracle-cloud-infrastructure pushed_at:2024-12 star:0.0k fork:0.0k Jenkins Plugin for Oracle Cloud Infrastructure (Compute)
-- [oracle/oci-hdfs-connector](https://github.com/oracle/oci-hdfs-connector) topic:cloud,hdfs,oracle-cloud pushed_at:2025-01 star:0.0k fork:0.0k HDFS Connector for Oracle Cloud Infrastructure
+- [oracle/oci-hdfs-connector](https://github.com/oracle/oci-hdfs-connector) topic:cloud,hdfs,oracle-cloud pushed_at:2025-02 star:0.0k fork:0.0k HDFS Connector for Oracle Cloud Infrastructure
 - [oracle/oci-java-sdk](https://github.com/oracle/oci-java-sdk) topic:oracle-cloud,sdk pushed_at:2025-02 star:0.2k fork:0.2k Oracle Cloud Infrastructure SDK for Java
 - [oracle/oci-service-broker](https://github.com/oracle/oci-service-broker) topic:autonomous-database,helm-chart,kubernetes,kubernetes-clusters,oci-service-broker,oracle-cloud-infrastructure,osbapi,service-broker pushed_at:2023-11 star:0.0k fork:0.0k Oracle Cloud Infrastructure Service Broker is an open source implementation of Open service broker API Spec for OCI services. Customers can use this implementation to install Open Service Broker in Oracle Container Engine for Kubernetes or in other Kubernetes clusters.
 - [oracle/oci-toolkit-eclipse](https://github.com/oracle/oci-toolkit-eclipse) topic: pushed_at:2024-01 star:0.0k fork:0.0k Oracle Cloud Infrastructure Toolkit for Eclipse
@@ -200,10 +201,10 @@
 - [oracle/opengrok](https://github.com/oracle/opengrok) topic:code,engine,java,opengrok,search,source pushed_at:2025-02 star:4.5k fork:0.8k OpenGrok is a fast and usable source code search and cross reference engine, written in Java
 - [oracle/oracle-r2dbc](https://github.com/oracle/oracle-r2dbc) topic:oracle-database,oracle-jdbc,oracle-r2dbc,r2dbc-driver,r2dbc-spi,reactive-streams pushed_at:2024-12 star:0.2k fork:0.0k R2DBC Driver for Oracle Database
 - [oracle/osb-kafka-transport](https://github.com/oracle/osb-kafka-transport) topic:kafka,oracle-service-bus pushed_at:2017-03 star:0.0k fork:0.0k OSB Transport for Apache Kafka provides inbound and outbound connectivity with Kafka Clusters.
-- [oracle/pgql-lang](https://github.com/oracle/pgql-lang) topic:graph-database,graph-queries,graphql,oracle,pgql,query-language pushed_at:2024-11 star:0.2k fork:0.0k PGQL is an SQL-based query language for property graphs
+- [oracle/pgql-lang](https://github.com/oracle/pgql-lang) topic:graph-database,graph-queries,graphql,oracle,pgql,query-language pushed_at:2025-02 star:0.2k fork:0.0k PGQL is an SQL-based query language for property graphs
 - [oracle/pushiomanager-cordova-plugin](https://github.com/oracle/pushiomanager-cordova-plugin) topic: pushed_at:2024-11 star:0.0k fork:0.0k Cordova Plugin for Oracle Responsys Mobile SDK
 - [oracle/pushiomanager-react-native](https://github.com/oracle/pushiomanager-react-native) topic:android,ios,oracle,react-native,responsys pushed_at:2024-10 star:0.0k fork:0.0k React Native Module for Responsys SDK
-- [oracle/rewrite-recipes](https://github.com/oracle/rewrite-recipes) topic:java,openrewrite,openrewrite-recipes,weblogic pushed_at:2025-02 star:0.0k fork:0.0k OpenRewrite recipes for Oracle solutions, like upgrades of java and Weblogic.
+- [oracle/rewrite-recipes](https://github.com/oracle/rewrite-recipes) topic:coherence,jakartaee,java,openrewrite,openrewrite-recipes,spring-framework-6,weblogic pushed_at:2025-02 star:0.0k fork:0.0k OpenRewrite recipes for Oracle solutions, like upgrades of java and Weblogic.
 - [oracle/sales-cloud-with-paas-samples](https://github.com/oracle/sales-cloud-with-paas-samples) topic:sales-cloud pushed_at:2018-08 star:0.0k fork:0.0k Official Oracle samples created to support developers using Oracle PaaS to integrate with and extend the capabilities of Oracle Sales Cloud. Security is a primary focus for most of these samples.
 - [oracle/sandwood](https://github.com/oracle/sandwood) topic:compiler,java,machine-learning,ml,probabilistic-models,probabilistic-programming,runtime pushed_at:2024-11 star:0.0k fork:0.0k Sandwood - A JVM based Java like Probabilistic Programming Language
 - [oracle/sd4j](https://github.com/oracle/sd4j) topic:java,onnxruntime,stable-diffusion pushed_at:2024-11 star:0.2k fork:0.0k Stable diffusion pipeline in Java using ONNX Runtime
@@ -212,7 +213,7 @@
 - [oracle/spring-cloud-oracle](https://github.com/oracle/spring-cloud-oracle) topic: pushed_at:2025-02 star:0.0k fork:0.0k Spring Cloud Oracle, eases the integration with Oracle Database and OCI services, and offers a convenient way to interact with Oracle Database and OCI-provided services using well-known Spring idioms and APIs.
 - [oracle/tribuo](https://github.com/oracle/tribuo) topic:classification,clustering,deep-learning,java,machine-learning,ml,nlp,regression pushed_at:2025-02 star:1.3k fork:0.2k Tribuo - A Java machine learning library
 - [oracle/trufflex86](https://github.com/oracle/trufflex86) topic:graalvm,truffle,x86 pushed_at:2019-10 star:0.0k fork:0.0k x86 interpreter based on GraalVM/Truffle
-- [oracle/visualvm](https://github.com/oracle/visualvm) topic:java,monitoring-tool,performance,profiler,visualvm pushed_at:2025-02 star:2.9k fork:0.3k VisualVM is an All-in-One Java Troubleshooting Tool
+- [oracle/visualvm](https://github.com/oracle/visualvm) topic:java,monitoring-tool,performance,profiler,visualvm pushed_at:2025-02 star:3.0k fork:0.3k VisualVM is an All-in-One Java Troubleshooting Tool
 - [oracle/weblogic-image-tool](https://github.com/oracle/weblogic-image-tool) topic:docker,docker-image,image-builder,kubernetes,oracle-weblogic-image,weblogic,weblogic-server pushed_at:2025-02 star:0.1k fork:0.0k WebLogic Image Tool
 - [oracle/weblogic-kubernetes-operator](https://github.com/oracle/weblogic-kubernetes-operator) topic:kubernetes,operator,weblogic,weblogic-server pushed_at:2025-02 star:0.3k fork:0.2k WebLogic Kubernetes Operator
 - [oracle/weblogic-logging-exporter](https://github.com/oracle/weblogic-logging-exporter) topic:elasticsearch,exporter,kibana,logging,logs,weblogic pushed_at:2023-01 star:0.0k fork:0.0k Export server logs from WebLogic Server in JSON format to Elasticsearch. 
@@ -253,7 +254,7 @@
 ## Jupyter Notebook
 
 - [oracle/macest](https://github.com/oracle/macest) topic:confidence-estimation,data-science,machine-learning,python pushed_at:2023-10 star:0.1k fork:0.0k Model Agnostic Confidence Estimator (MACEST) - A Python library for calibrating Machine Learning models' confidence scores
-- [oracle/oraclesolaris-contrib](https://github.com/oracle/oraclesolaris-contrib) topic:jupyter-notebook,postman,python,rest-api,solaris,webui pushed_at:2023-07 star:0.0k fork:0.0k oraclesolaris-contrib is a repository focussed on the Oracle Solaris 11.4 StatsStore, using methodologies like REST to connect to Oracle Solaris 11.4 and the new features being introduced in Oracle Solaris 11.4 OS.
+- [oracle/oraclesolaris-contrib](https://github.com/oracle/oraclesolaris-contrib) topic:jupyter-notebook,postman,python,rest-api,solaris,webui pushed_at:2025-02 star:0.0k fork:0.0k oraclesolaris-contrib is a repository focussed on the Oracle Solaris 11.4 StatsStore, using methodologies like REST to connect to Oracle Solaris 11.4 and the new features being introduced in Oracle Solaris 11.4 OS.
 
 ## Makefile
 
@@ -283,7 +284,7 @@
 - [oracle/oraclejet](https://github.com/oracle/oraclejet) topic:oraclejet pushed_at:2025-02 star:0.5k fork:0.1k Oracle JET is a modular JavaScript Extension Toolkit for developers working on client-side applications.
 - [oracle/puppet-samples](https://github.com/oracle/puppet-samples) topic:puppet pushed_at:2016-11 star:0.0k fork:0.0k Index of Puppet Samples, Modules, and Providers for Oracle Products published on GitHub
 - [oracle/react-starter-sites-archive](https://github.com/oracle/react-starter-sites-archive) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
-- [oracle/shim-review](https://github.com/oracle/shim-review) topic: pushed_at:2024-03 star:0.0k fork:0.0k Reviews of shim
+- [oracle/shim-review](https://github.com/oracle/shim-review) topic: pushed_at:2025-02 star:0.0k fork:0.0k Reviews of shim
 - [oracle/solaris-openssl-fips](https://github.com/oracle/solaris-openssl-fips) topic: pushed_at:2022-03 star:0.0k fork:0.0k Solaris OpenSSL FIPS 
 - [oracle/template-repo](https://github.com/oracle/template-repo) topic: pushed_at:2025-02 star:0.0k fork:0.0k This is a template repository. It contains information about the guidelines for Oracle’s GitHub repositories.
 - [oracle/terraform-examples](https://github.com/oracle/terraform-examples) topic:cloud,oracle,oracle-cloud,oracle-cloud-infrastructure,oracle-cloud-platform,orchestration,terraform,terraform-scripts pushed_at:2019-11 star:0.0k fork:0.0k Terraform Examples for Oracle Cloud Infrastructure and Platfrom
@@ -307,33 +308,32 @@
 - [oracle/cloud-asset-oci-msfailovercluster](https://github.com/oracle/cloud-asset-oci-msfailovercluster) topic:clustering,oci,oracle,oracle-ateam,oraclefusionapps,sql-server,windows pushed_at:2020-07 star:0.0k fork:0.0k Windows Failover Server Clustering on OCI
 - [oracle/coherence-py-client](https://github.com/oracle/coherence-py-client) topic:caching,coherence,distributed,in-memory,kv-store,microservices,python pushed_at:2025-02 star:0.0k fork:0.0k The Coherence Python Client allows Python applications to act as cache clients to an Oracle Coherence cluster using gRPC as the network transport.
 - [oracle/compute-cloud-service-demos](https://github.com/oracle/compute-cloud-service-demos) topic:chef,chef-server,learning-library pushed_at:2016-07 star:0.0k fork:0.0k Chef cookbooks, recipes, and scripts for deploying various application software stacks on Oracle Compute Cloud Service.
-- [oracle/db-sharding](https://github.com/oracle/db-sharding) topic:chunk,cross-shard-queries,fault-isolation,geodistributedsystems,globaldatabase,mid-tier-routing,middleware,oci,oci-terraform-modules,oracle-database,oracle-database-sharding,oracle-sharding,scale-out,sdb,sdb-terraform,sharding,sharding-on-oci-marketplace,shards,terraform-modules,terraform-scripts pushed_at:2024-09 star:0.0k fork:0.0k Oracle Sharded database deployment automation and tools for use in client applications.
 - [oracle/dbt-oracle](https://github.com/oracle/dbt-oracle) topic:autonomous-database,data-build-tool,dbt,oracle pushed_at:2025-01 star:0.1k fork:0.0k dbt (data build tool) adapter for Oracle Autonomous Database
 - [oracle/graalpython](https://github.com/oracle/graalpython) topic:embeddable,graalvm,java,python,python3 pushed_at:2025-02 star:1.3k fork:0.1k GraalPy – A high-performance embeddable Python 3 runtime for Java
 - [oracle/graphpipe-py](https://github.com/oracle/graphpipe-py) topic: pushed_at:2018-10 star:0.0k fork:0.0k GraphPipe for python
 - [oracle/guardian-ai](https://github.com/oracle/guardian-ai) topic:accelerated-data-science,bias-mitigation,fairness,machine-learning,oci,oracle,privacy,responsible-ai pushed_at:2024-11 star:0.0k fork:0.0k Oracle Guardian AI Open Source Project is a library consisting of tools to assess fairness/bias and privacy of machine learning models and data sets.  
-- [oracle/helm-charts](https://github.com/oracle/helm-charts) topic:helm-charts,oracle pushed_at:2023-05 star:0.0k fork:0.0k Helm charts for Oracle commercial products
+- [oracle/helm-charts](https://github.com/oracle/helm-charts) topic:helm-charts,oracle pushed_at:2025-02 star:0.0k fork:0.0k Helm charts for Oracle commercial products
 - [oracle/hiq](https://github.com/oracle/hiq) topic:logging,monitoring,observability,python,tracing pushed_at:2025-01 star:0.1k fork:0.0k HiQ - Observability And Optimization In Modern AI Era
 - [oracle/kconfigs](https://github.com/oracle/kconfigs) topic:linux,linux-kernel pushed_at:2025-02 star:0.0k fork:0.0k Tool for extracting Linux kernel configurations from many distributions & displaying a web UI
 - [oracle/macaron](https://github.com/oracle/macaron) topic:build-system,cicd,docker,gradle,integrity-protection,malware-analysis,malware-detection,maven,npm,python,sbom,slsa,supply-chain-security pushed_at:2025-02 star:0.1k fork:0.0k Macaron is an extensible supply-chain security analysis framework from Oracle Labs that supports a wide range of build systems and CI/CD services. It can be used to prevent supply chain attacks, detect malicious Python packages, or check conformance to frameworks, such as SLSA. Documentation:
 - [oracle/nosql-python-sdk](https://github.com/oracle/nosql-python-sdk) topic:cloud,database,nosql,nosql-database,oracle,oracle-cloud,python pushed_at:2024-10 star:0.0k fork:0.0k Python SDK for Oracle NoSQL Database
 - [oracle/oci-ai-speech-realtime-python-sdk](https://github.com/oracle/oci-ai-speech-realtime-python-sdk) topic: pushed_at:2025-02 star:0.0k fork:0.0k This repository contains the source code for the Python SDK to connect to the Realtime Speech Service. There is also an example client to help with connecting to the service. This SDK is based on the popular websockets python library.
-- [oracle/oci-ansible-collection](https://github.com/oracle/oci-ansible-collection) topic:ansible,cloud,oracle,oracle-cloud-infrastructure pushed_at:2025-01 star:0.2k fork:0.1k Oracle Cloud Infrastructure Ansible Collection provides an easy way to provision and manage resources in Oracle Cloud using Ansible.
+- [oracle/oci-ansible-collection](https://github.com/oracle/oci-ansible-collection) topic:ansible,cloud,oracle,oracle-cloud-infrastructure pushed_at:2025-02 star:0.2k fork:0.1k Oracle Cloud Infrastructure Ansible Collection provides an easy way to provision and manage resources in Oracle Cloud using Ansible.
 - [oracle/oci-ansible-modules](https://github.com/oracle/oci-ansible-modules) topic:deprecated,legacy-modules,no-maintenance-intended pushed_at:2021-05 star:0.1k fork:0.1k DEPRECATED - Please migrate to the new OCI Ansible collection (https://github.com/oracle/oci-ansible-collection).
 - [oracle/oci-cli](https://github.com/oracle/oci-cli) topic:bare-metal,cli,cloud,infrastructure pushed_at:2025-02 star:0.5k fork:0.2k Command Line Interface for Oracle Cloud Infrastructure
 - [oracle/oci-mlflow](https://github.com/oracle/oci-mlflow) topic:accelerated-data-science,cloud,machine-learning,mlflow,mlflow-tracking-server,mlops,oci,oracle,oracle-ads pushed_at:2024-12 star:0.0k fork:0.0k The Oracle Cloud Infrastructure (OCI) MLflow plugin empowers users of OCI by providing seamless integration with OCI resources, allowing them to effectively manage the entire life cycle of their machine learning use cases.
 - [oracle/oci-python-sdk](https://github.com/oracle/oci-python-sdk) topic: pushed_at:2025-02 star:0.4k fork:0.3k Oracle Cloud Infrastructure SDK for Python
 - [oracle/oci-utils](https://github.com/oracle/oci-utils) topic:oracle,oracle-cloud,oracle-cloud-infrastructure pushed_at:2024-10 star:0.0k fork:0.0k   Oracle Cloud Infrastructure utilities
-- [oracle/ocifs](https://github.com/oracle/ocifs) topic:cloud,filesystem,fsspec,object-storage,oci,oracle,python3 pushed_at:2024-06 star:0.0k fork:0.0k ocifs provides a POSIX-compatible API wrapping Oracle Cloud Infrastructure's (OCI) Object Storage. ocifs is a python library that relies on the fsspec framework.
+- [oracle/ocifs](https://github.com/oracle/ocifs) topic:cloud,filesystem,fsspec,object-storage,oci,oracle,python3 pushed_at:2025-02 star:0.0k fork:0.0k ocifs provides a POSIX-compatible API wrapping Oracle Cloud Infrastructure's (OCI) Object Storage. ocifs is a python library that relies on the fsspec framework.
 - [oracle/ocne-deploy-tool](https://github.com/oracle/ocne-deploy-tool) topic:ansible,cloudnative,cri-o,grafana,istio,kubernetes,kvm,ocne,olvm,operator-lifecycle-manager,prometheus,virtualization pushed_at:2023-08 star:0.0k fork:0.0k Easy and quick deployment of Oracle Cloud Native Environment on VMs managed by Oracle Linux Virtualization Manager
-- [oracle/oled-tools](https://github.com/oracle/oled-tools) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
+- [oracle/oled-tools](https://github.com/oracle/oled-tools) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
 - [oracle/oracle-for-research](https://github.com/oracle/oracle-for-research) topic: pushed_at:2024-02 star:0.0k fork:0.0k Repository of technology how-to’s and instructional content for Researchers
 - [oracle/python-oracledb](https://github.com/oracle/python-oracledb) topic:database,oracle,oracle-database,oracle-database-driver,python pushed_at:2025-02 star:0.4k fork:0.1k Python driver for Oracle Database conforming to the Python DB API 2.0 specification. This is the renamed, new major release of cx_Oracle
 - [oracle/solaris-ips](https://github.com/oracle/solaris-ips) topic:solaris pushed_at:2025-02 star:0.1k fork:0.0k Solaris IPS: Image Packaging System
 - [oracle/solaris-openstack-utils](https://github.com/oracle/solaris-openstack-utils) topic:openstack,solaris pushed_at:2016-11 star:0.0k fork:0.0k Solaris Openstack Utilities and Tools Project
 - [oracle/weblogic-deploy-tooling](https://github.com/oracle/weblogic-deploy-tooling) topic:automation,continuous-testing,python,wdt,weblogic pushed_at:2025-02 star:0.2k fork:0.1k WebLogic Deploy Tooling
 - [oracle/wind](https://github.com/oracle/wind) topic:api,marketplace,partner-portal,python3,robotframework pushed_at:2024-02 star:0.0k fork:0.0k WIND - This tool allows end user to automate Oracle Cloud Marketplace Publisher API CRUD operations.
-- [oracle/yo](https://github.com/oracle/yo) topic:linux,oci,oracle-cloud-infrastructure pushed_at:2024-12 star:0.1k fork:0.0k A fast and simple command line OCI client
+- [oracle/yo](https://github.com/oracle/yo) topic:linux,oci,oracle-cloud-infrastructure pushed_at:2025-02 star:0.1k fork:0.0k A fast and simple command line OCI client
 
 ## Ruby
 
@@ -353,7 +353,7 @@
 
 ## Scala
 
-- [oracle/spark-oracle](https://github.com/oracle/spark-oracle) topic:oracle,spark,sql pushed_at:2023-08 star:0.0k fork:0.0k On the fly, translation of Spark programs to run natively on your Oracle DB. Your Spark programs require no changes.
+- [oracle/spark-oracle](https://github.com/oracle/spark-oracle) topic:oracle,spark,sql pushed_at:2025-02 star:0.0k fork:0.0k On the fly, translation of Spark programs to run natively on your Oracle DB. Your Spark programs require no changes.
 - [oracle/wookiee](https://github.com/oracle/wookiee) topic:framework,lightweight,microservice,scala,wookiee pushed_at:2024-02 star:0.1k fork:0.0k Scala based lightweight service framework using zookeeper, gRPC, and other popular technologies.
 - [oracle/wookiee-akka-http](https://github.com/oracle/wookiee-akka-http) topic:akka,scala,wookiee pushed_at:2023-10 star:0.0k fork:0.0k Component for Extending Wookiee Commands to Function as Akka Http Endpoints
 - [oracle/wookiee-cache-memcache](https://github.com/oracle/wookiee-cache-memcache) topic:wookiee pushed_at:2023-10 star:0.0k fork:0.0k Wookiee Component - Cache Memcache

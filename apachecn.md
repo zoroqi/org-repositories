@@ -406,7 +406,7 @@
 - [apachecn/mit-18.06-linalg-notes](https://github.com/apachecn/mit-18.06-linalg-notes) topic: pushed_at:2023-05 star:2.2k fork:0.7k MIT 18.06 线性代数笔记
 - [apachecn/mitnicksecurity-zh](https://github.com/apachecn/mitnicksecurity-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [apachecn/mkyong-blog-zh](https://github.com/apachecn/mkyong-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) topic: pushed_at:2022-07 star:0.7k fork:0.2k :book: [译] MachineLearningMastery 博客文章
+- [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) topic: pushed_at:2025-02 star:0.7k fork:0.2k :book: [译] MachineLearningMastery 博客文章
 - [apachecn/ml-mastery-zh-pt2](https://github.com/apachecn/ml-mastery-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/mlearningai-blog-zh](https://github.com/apachecn/mlearningai-blog-zh) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/moesif-blog-zh](https://github.com/apachecn/moesif-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Moesif 博客中文翻译
@@ -495,7 +495,7 @@
 - [apachecn/tutorialskart-zh](https://github.com/apachecn/tutorialskart-zh) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [apachecn/tutorialsteacher-zh](https://github.com/apachecn/tutorialsteacher-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/ucb-cs294-112-notes-zh](https://github.com/apachecn/ucb-cs294-112-notes-zh) topic: pushed_at:2021-01 star:0.1k fork:0.0k UCB CS294-112 深度强化学习中文笔记
-- [apachecn/uiuc-cs241-notes-zh](https://github.com/apachecn/uiuc-cs241-notes-zh) topic:cs241,system,textbook,uiuc pushed_at:2022-08 star:0.0k fork:0.0k :book: 【译】UIUC CS241 系统编程中文讲义
+- [apachecn/uiuc-cs241-notes-zh](https://github.com/apachecn/uiuc-cs241-notes-zh) topic:cs241,system,textbook,uiuc pushed_at:2022-08 star:0.1k fork:0.0k :book: 【译】UIUC CS241 系统编程中文讲义
 - [apachecn/venturehacks-blog-zh](https://github.com/apachecn/venturehacks-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/visualmodo-blog-zh](https://github.com/apachecn/visualmodo-blog-zh) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/wanqu-daily-zh](https://github.com/apachecn/wanqu-daily-zh) topic: pushed_at:2022-11 star:0.0k fork:0.0k :books: 湾区日报翻译
@@ -511,7 +511,7 @@
 - [apachecn/xgboost-doc-zh](https://github.com/apachecn/xgboost-doc-zh) topic: pushed_at:2023-07 star:0.6k fork:0.1k XGBoost 中文文档
 - [apachecn/xtutorial-zh](https://github.com/apachecn/xtutorial-zh) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [apachecn/zeppelin-doc-zh](https://github.com/apachecn/zeppelin-doc-zh) topic: pushed_at:2023-07 star:0.0k fork:0.0k :book: [译] zeppelin 中文文档
-- [apachecn/zetcode-zh](https://github.com/apachecn/zetcode-zh) topic: pushed_at:2022-07 star:0.2k fork:0.1k :books: [译] Zetcode 中文系列教程
+- [apachecn/zetcode-zh](https://github.com/apachecn/zetcode-zh) topic: pushed_at:2022-07 star:0.3k fork:0.1k :books: [译] Zetcode 中文系列教程
 
 ## Jinja
 
@@ -1196,7 +1196,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.1k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.2k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
