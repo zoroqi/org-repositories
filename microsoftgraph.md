@@ -7,7 +7,7 @@
 ## Contents(235)
 
 - [Bicep](#bicep) (1)
-- [C#](#c#) (73)
+- [C#](#c#) (74)
 - [CSS](#css) (1)
 - [Go](#go) (5)
 - [HTML](#html) (4)
@@ -15,7 +15,7 @@
 - [JavaScript](#javascript) (23)
 - [Jupyter Notebook](#jupyter-notebook) (1)
 - [Objective-C](#objective-c) (14)
-- [Others](#others) (17)
+- [Others](#others) (16)
 - [PHP](#php) (8)
 - [PowerShell](#powershell) (10)
 - [Python](#python) (14)
@@ -53,6 +53,7 @@
 - [microsoftgraph/csdl-diagrams](https://github.com/microsoftgraph/csdl-diagrams) topic:devxeng pushed_at:2024-10 star:0.0k fork:0.0k Libraries and tools to process OData CSDL files and visualize them as diagrams.
 - [microsoftgraph/dotnet-aad-query-sample](https://github.com/microsoftgraph/dotnet-aad-query-sample) topic:devxsample,dotnet,dotnet5,graph-explorer,msgraph,msgraphsdk,wpf,wpf-application pushed_at:2025-01 star:0.0k fork:0.0k This sample demonstrates a .NET 5.0 Desktop (WPF) application showcasing advanced Microsoft Graph Query Capabilities for Directory Objects with .NET Graph SDK.
 - [microsoftgraph/dotnetcore-console-sample](https://github.com/microsoftgraph/dotnetcore-console-sample) topic:devxsample pushed_at:2024-06 star:0.1k fork:0.1k .Net Core console application for calling Microsoft Graph.  Sample built from scratch.
+- [microsoftgraph/github-issue-manager](https://github.com/microsoftgraph/github-issue-manager) topic: pushed_at:2025-02 star:0.0k fork:0.0k This sample combines a Microsoft Graph connector, declarative agent, and API plugin to create an issue management agent for Microsoft 365 Copilot
 - [microsoftgraph/group-membership-management](https://github.com/microsoftgraph/group-membership-management) topic:devxpartner pushed_at:2024-06 star:0.1k fork:0.0k Group Membership Management (GMM) is a service that dynamically manages the membership of AAD Groups.  Groups managed by GMM can have their membership defined using existing AAD Groups and/or custom membership sources.
 - [microsoftgraph/Intune-PowerShell-SDK-Code-Generator](https://github.com/microsoftgraph/Intune-PowerShell-SDK-Code-Generator) topic:devxpartner pushed_at:2022-12 star:0.0k fork:0.0k Custom ODCM Writer built atop Vipr to auto-generate PowerShell cmdlets corresponding to CRUD operations for Microsoft Intune Graph Api. 
 - [microsoftgraph/kibali](https://github.com/microsoftgraph/kibali) topic:devxeng pushed_at:2025-02 star:0.0k fork:0.0k Tooling for managing Microsoft Graph Permissions
@@ -74,8 +75,8 @@
 - [microsoftgraph/msgraph-sample-botframework](https://github.com/microsoftgraph/msgraph-sample-botframework) topic:bot-framework,devxsample,microsoft-graph pushed_at:2024-07 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Microsoft Bot Framework bots.
 - [microsoftgraph/msgraph-sample-copilot-plugin](https://github.com/microsoftgraph/msgraph-sample-copilot-plugin) topic: pushed_at:2025-02 star:0.0k fork:0.0k Budget Tracker sample API used for API plugin
 - [microsoftgraph/msgraph-sample-deltaquery](https://github.com/microsoftgraph/msgraph-sample-deltaquery) topic:devxsample pushed_at:2025-02 star:0.0k fork:0.0k This console application demonstrates how to make Delta Query calls to the Graph API, allowing applications to request only changed data from Microsoft Graph tenants.
-- [microsoftgraph/msgraph-sample-eventgrid-notifications-dotnet](https://github.com/microsoftgraph/msgraph-sample-eventgrid-notifications-dotnet) topic: pushed_at:2025-01 star:0.0k fork:0.0k This C# sample listens for change notifications from Microsoft Graph delivered to Azure Event Grid.
-- [microsoftgraph/msgraph-sample-github-connector-dotnet](https://github.com/microsoftgraph/msgraph-sample-github-connector-dotnet) topic: pushed_at:2025-01 star:0.0k fork:0.0k This .NET application shows how to create a Microsoft Graph connector for GitHub repos and issues.
+- [microsoftgraph/msgraph-sample-eventgrid-notifications-dotnet](https://github.com/microsoftgraph/msgraph-sample-eventgrid-notifications-dotnet) topic: pushed_at:2025-02 star:0.0k fork:0.0k This C# sample listens for change notifications from Microsoft Graph delivered to Azure Event Grid.
+- [microsoftgraph/msgraph-sample-github-connector-dotnet](https://github.com/microsoftgraph/msgraph-sample-github-connector-dotnet) topic: pushed_at:2025-02 star:0.0k fork:0.0k This .NET application shows how to create a Microsoft Graph connector for GitHub repos and issues.
 - [microsoftgraph/msgraph-sample-maui](https://github.com/microsoftgraph/msgraph-sample-maui) topic:devxsample pushed_at:2025-01 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from .NET MAUI apps.
 - [microsoftgraph/msgraph-sample-uwp](https://github.com/microsoftgraph/msgraph-sample-uwp) topic:devxsample,microsoft-graph,uwp pushed_at:2024-05 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from UWP apps.
 - [microsoftgraph/msgraph-samples-dashboard](https://github.com/microsoftgraph/msgraph-samples-dashboard) topic:devxeng pushed_at:2023-09 star:0.0k fork:0.0k Dashboard for msgraph samples
@@ -88,7 +89,7 @@
 - [microsoftgraph/msgraph-search-connector-sample](https://github.com/microsoftgraph/msgraph-search-connector-sample) topic:devxsample pushed_at:2024-07 star:0.0k fork:0.0k This .NET Core application shows how to use the Microsoft Graph indexing API to create a connection to the Microsoft Search service and index custom items.
 - [microsoftgraph/msgraph-snippets-dotnet](https://github.com/microsoftgraph/msgraph-snippets-dotnet) topic: pushed_at:2025-02 star:0.0k fork:0.0k Repository of snippets in Microsoft Graph .NET SDK documentation.
 - [microsoftgraph/msgraph-toc-gen](https://github.com/microsoftgraph/msgraph-toc-gen) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-training-dotnet](https://github.com/microsoftgraph/msgraph-training-dotnet) topic:devxtraining pushed_at:2025-01 star:0.1k fork:0.1k Microsoft Graph Training Module - Build .NET apps with Microsoft Graph
+- [microsoftgraph/msgraph-training-dotnet](https://github.com/microsoftgraph/msgraph-training-dotnet) topic:devxtraining pushed_at:2025-02 star:0.1k fork:0.1k Microsoft Graph Training Module - Build .NET apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-restapi](https://github.com/microsoftgraph/msgraph-training-restapi) topic:devxtraining pushed_at:2020-07 star:0.0k fork:0.0k [ARCHIVED] Microsoft Graph Training Module - REST API calls
 - [microsoftgraph/OpenAPI.NET.OData](https://github.com/microsoftgraph/OpenAPI.NET.OData) topic:devxeng pushed_at:2020-11 star:0.0k fork:0.0k Generates OpenAPI document from OData CSDL
 - [microsoftgraph/universalprint-samples](https://github.com/microsoftgraph/universalprint-samples) topic:devxsample pushed_at:2024-05 star:0.0k fork:0.0k This repo contains code samples that demonstrate how to build applications that integrate with and extend Universal Print.
@@ -113,7 +114,7 @@
 
 - [microsoftgraph/msgraph-beta-sdk-go](https://github.com/microsoftgraph/msgraph-beta-sdk-go) topic:devxeng,go,microsoft-graph,microsoft-graph-sdk,sdk pushed_at:2025-02 star:0.0k fork:0.0k Microsoft Graph Beta Go SDK
 - [microsoftgraph/msgraph-sdk-go](https://github.com/microsoftgraph/msgraph-sdk-go) topic:devxeng,go,microsoft-graph,microsoft-graph-sdk,sdk pushed_at:2025-02 star:0.3k fork:0.0k Microsoft Graph SDK for Go
-- [microsoftgraph/msgraph-sdk-go-core](https://github.com/microsoftgraph/msgraph-sdk-go-core) topic:devxeng,go,microsoft-graph,sdk pushed_at:2025-01 star:0.0k fork:0.0k Microsoft Graph SDK for Go - Core Library
+- [microsoftgraph/msgraph-sdk-go-core](https://github.com/microsoftgraph/msgraph-sdk-go-core) topic:devxeng,go,microsoft-graph,sdk pushed_at:2025-02 star:0.0k fork:0.0k Microsoft Graph SDK for Go - Core Library
 - [microsoftgraph/msgraph-snippets-go](https://github.com/microsoftgraph/msgraph-snippets-go) topic: pushed_at:2025-02 star:0.0k fork:0.0k Repository of snippets in Microsoft Graph Go SDK documentation.
 - [microsoftgraph/msgraph-training-go](https://github.com/microsoftgraph/msgraph-training-go) topic:devxtraining pushed_at:2025-02 star:0.0k fork:0.0k Completed project for Build Go apps with Microsoft Graph
 
@@ -121,7 +122,7 @@
 
 - [microsoftgraph/javascript-officeuifabric-peoplepicker-sample](https://github.com/microsoftgraph/javascript-officeuifabric-peoplepicker-sample) topic:devxsample pushed_at:2020-05 star:0.0k fork:0.0k [ARCHIVED] This sample demonstrates how to populate an Office UI Fabric JS PeoplePicker component with data retrieved from Microsoft Graph.
 - [microsoftgraph/meetings-capture-sample](https://github.com/microsoftgraph/meetings-capture-sample) topic:devxsample pushed_at:2023-03 star:0.0k fork:0.0k A Microsoft Teams solution that helps teams capture meeting minute notes inside individual channels
-- [microsoftgraph/msgraph-sample-blazor-clientside](https://github.com/microsoftgraph/msgraph-sample-blazor-clientside) topic:blazor,devxsample,microsoft-graph pushed_at:2025-01 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Blazor WebAssembly apps.
+- [microsoftgraph/msgraph-sample-blazor-clientside](https://github.com/microsoftgraph/msgraph-sample-blazor-clientside) topic:blazor,devxsample,microsoft-graph pushed_at:2025-02 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Blazor WebAssembly apps.
 - [microsoftgraph/msgraph-sample-teamsapp-dotnet](https://github.com/microsoftgraph/msgraph-sample-teamsapp-dotnet) topic:devxsample,microsoft-graph,microsoft-teams pushed_at:2024-08 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Microsoft Teams apps.
 
 ## Java
@@ -203,7 +204,6 @@
 - [microsoftgraph/msgraph-access-files-data](https://github.com/microsoftgraph/msgraph-access-files-data) topic:devxtraining pushed_at:2024-06 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-access-group-data](https://github.com/microsoftgraph/msgraph-access-group-data) topic:devxtraining pushed_at:2024-05 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-access-user-data](https://github.com/microsoftgraph/msgraph-access-user-data) topic:devxtraining pushed_at:2024-05 star:0.0k fork:0.0k 
-- [microsoftgraph/msgraph-community-samples](https://github.com/microsoftgraph/msgraph-community-samples) topic:devxsample pushed_at:2024-05 star:0.1k fork:0.0k Repo for community contributed samples
 - [microsoftgraph/msgraph-sdk-serviceissues](https://github.com/microsoftgraph/msgraph-sdk-serviceissues) topic:devxeng pushed_at:2020-09 star:0.0k fork:0.0k Tracks service issues for follow up.
 - [microsoftgraph/msgraph-training-aspnetmvcapp](https://github.com/microsoftgraph/msgraph-training-aspnetmvcapp) topic:devxtraining pushed_at:2024-07 star:0.1k fork:0.1k Microsoft Graph Training Module - Build MVC apps with Microsoft Graph
 - [microsoftgraph/msgraph-training-building-apps](https://github.com/microsoftgraph/msgraph-training-building-apps) topic:devxtraining pushed_at:2020-07 star:0.0k fork:0.0k [ARCHIVED] Microsoft Graph Training Module - Building Apps
@@ -218,7 +218,7 @@
 - [microsoftgraph/msgraph-beta-sdk-php](https://github.com/microsoftgraph/msgraph-beta-sdk-php) topic:devxeng pushed_at:2025-02 star:0.0k fork:0.0k Microsoft Graph beta model library for PHP (preview).
 - [microsoftgraph/msgraph-sample-phpapp](https://github.com/microsoftgraph/msgraph-sample-phpapp) topic:devxsample pushed_at:2025-01 star:0.2k fork:0.1k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from PHP web apps.
 - [microsoftgraph/msgraph-sdk-php](https://github.com/microsoftgraph/msgraph-sdk-php) topic:devxeng,microsoftgraph,sdk pushed_at:2025-02 star:0.6k fork:0.1k Microsoft Graph Library for PHP.
-- [microsoftgraph/msgraph-sdk-php-core](https://github.com/microsoftgraph/msgraph-sdk-php-core) topic:devxeng pushed_at:2025-01 star:0.0k fork:0.0k 
+- [microsoftgraph/msgraph-sdk-php-core](https://github.com/microsoftgraph/msgraph-sdk-php-core) topic:devxeng pushed_at:2025-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-snippets-php](https://github.com/microsoftgraph/msgraph-snippets-php) topic: pushed_at:2025-02 star:0.0k fork:0.0k Repository of snippets in Microsoft Graph PHP SDK documentation.
 - [microsoftgraph/msgraph-training-php](https://github.com/microsoftgraph/msgraph-training-php) topic:devxtraining pushed_at:2025-02 star:0.0k fork:0.0k Completed project for Build PHP apps with Microsoft Graph
 - [microsoftgraph/php-connect-rest-sample](https://github.com/microsoftgraph/php-connect-rest-sample) topic:devxsample pushed_at:2018-10 star:0.1k fork:0.0k [ARCHIVED] Use Microsoft Graph to access a user’s Microsoft account data from within a php web application. This sample gets OAuth tokens from the Azure AD v2.0 endpoint and uses REST calls directly to Microsoft Graph.
@@ -227,7 +227,7 @@
 ## PowerShell
 
 - [microsoftgraph/entra-powershell](https://github.com/microsoftgraph/entra-powershell) topic:devxeng,graph,microsoft,powershell,powershell-module pushed_at:2025-02 star:0.1k fork:0.0k Microsoft Entra PowerShell
-- [microsoftgraph/microsoft-graph-docs-contrib](https://github.com/microsoftgraph/microsoft-graph-docs-contrib) topic: pushed_at:2025-02 star:0.1k fork:0.3k Documentation for the Microsoft Graph REST API
+- [microsoftgraph/microsoft-graph-docs-contrib](https://github.com/microsoftgraph/microsoft-graph-docs-contrib) topic: pushed_at:2025-02 star:0.1k fork:0.4k Documentation for the Microsoft Graph REST API
 - [microsoftgraph/microsoft-graph-docs.pt-BR](https://github.com/microsoftgraph/microsoft-graph-docs.pt-BR) topic:devxdocs pushed_at:2024-05 star:0.0k fork:0.0k Documentation for the Microsoft Graph REST API for Portuguese
 - [microsoftgraph/microsoft-graph-docs.ru-RU](https://github.com/microsoftgraph/microsoft-graph-docs.ru-RU) topic:devxdocs pushed_at:2024-05 star:0.0k fork:0.0k Documentation for the Microsoft Graph REST API for Russian
 - [microsoftgraph/microsoft-graph-docs.zh-CN](https://github.com/microsoftgraph/microsoft-graph-docs.zh-CN) topic:devxdocs pushed_at:2024-05 star:0.0k fork:0.0k Documentation for the Microsoft Graph REST API for Chinese(Simplified)
@@ -241,7 +241,7 @@
 
 - [microsoftgraph/msgraph-beta-sdk-python](https://github.com/microsoftgraph/msgraph-beta-sdk-python) topic:devxeng pushed_at:2025-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-cli-archived](https://github.com/microsoftgraph/msgraph-cli-archived) topic:devxeng pushed_at:2022-03 star:0.0k fork:0.0k The Microsoft Graph CLI repository has moved.  This repository is now an archive.
-- [microsoftgraph/msgraph-sample-github-connector-python](https://github.com/microsoftgraph/msgraph-sample-github-connector-python) topic: pushed_at:2023-12 star:0.0k fork:0.0k This Python application shows how to create a Microsoft Graph connector for GitHub repos and issues.
+- [microsoftgraph/msgraph-sample-github-connector-python](https://github.com/microsoftgraph/msgraph-sample-github-connector-python) topic: pushed_at:2025-02 star:0.0k fork:0.0k This Python application shows how to create a Microsoft Graph connector for GitHub repos and issues.
 - [microsoftgraph/msgraph-sample-pythondjangoapp](https://github.com/microsoftgraph/msgraph-sample-pythondjangoapp) topic:devxsample pushed_at:2025-02 star:0.1k fork:0.1k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from Python web apps.
 - [microsoftgraph/msgraph-sdk-python](https://github.com/microsoftgraph/msgraph-sdk-python) topic:devxeng pushed_at:2025-02 star:0.4k fork:0.1k 
 - [microsoftgraph/msgraph-sdk-python-core](https://github.com/microsoftgraph/msgraph-sdk-python-core) topic:devxeng,msgraph,msgraph-sdk-python,sdk pushed_at:2025-02 star:0.3k fork:0.0k Microsoft Graph client library for Python

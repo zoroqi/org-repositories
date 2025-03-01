@@ -52,14 +52,14 @@
 - [tuna/freedns-go](https://github.com/tuna/freedns-go) topic: pushed_at:2021-11 star:0.2k fork:0.0k Optimized DNS Server for Chinese users.
 - [tuna/mirrorhub](https://github.com/tuna/mirrorhub) topic: pushed_at:2016-09 star:0.0k fork:0.0k Redirects the user to a nearby mirror site.
 - [tuna/tunaccount](https://github.com/tuna/tunaccount) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
-- [tuna/tunasync](https://github.com/tuna/tunasync) topic: pushed_at:2025-01 star:1.6k fork:0.3k Mirror job management tool. 
+- [tuna/tunasync](https://github.com/tuna/tunasync) topic: pushed_at:2025-02 star:1.7k fork:0.3k Mirror job management tool. 
 
 ## HTML
 
 - [tuna/mirror-web](https://github.com/tuna/mirror-web) topic: pushed_at:2025-02 star:0.8k fork:0.3k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
 - [tuna/mirrorcon](https://github.com/tuna/mirrorcon) topic: pushed_at:2017-09 star:0.0k fork:0.0k Website of MirrorCon 2017
 - [tuna/registr-lite](https://github.com/tuna/registr-lite) topic: pushed_at:2020-09 star:0.0k fork:0.0k A lightweight registr with only a bare RESTful API.
-- [tuna/tuna.moe](https://github.com/tuna/tuna.moe) topic: pushed_at:2024-12 star:0.1k fork:0.0k Source code for https://tuna.moe
+- [tuna/tuna.moe](https://github.com/tuna/tuna.moe) topic: pushed_at:2025-02 star:0.1k fork:0.0k Source code for https://tuna.moe
 
 ## JavaScript
 
@@ -80,7 +80,7 @@
 - [tuna/collection](https://github.com/tuna/collection) topic: pushed_at:2022-04 star:0.3k fork:0.0k idea collections from TUNA
 - [tuna/dataset-issues](https://github.com/tuna/dataset-issues) topic: pushed_at:2018-04 star:0.0k fork:0.0k Issues about academic dataset mirrors
 - [tuna/isofusion](https://github.com/tuna/isofusion) topic: pushed_at:2016-05 star:0.0k fork:0.0k scan and create iso filelist from mirrors
-- [tuna/issues](https://github.com/tuna/issues) topic: pushed_at:2023-12 star:0.4k fork:0.0k Code Unrelated Issues 
+- [tuna/issues](https://github.com/tuna/issues) topic: pushed_at:2025-02 star:0.4k fork:0.0k Code Unrelated Issues 
 - [tuna/ngx-fancyindex](https://github.com/tuna/ngx-fancyindex) topic: pushed_at:2020-03 star:0.0k fork:0.0k Fancy indexes module for the Nginx web server
 - [tuna/opentuna-site](https://github.com/tuna/opentuna-site) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
 
@@ -93,7 +93,7 @@
 
 - [tuna/bandersnatch](https://github.com/tuna/bandersnatch) topic: pushed_at:2020-02 star:0.0k fork:0.0k A PyPI mirror client according to PEP 381 http://www.python.org/dev/peps/pep-0381/
 - [tuna/blogroll](https://github.com/tuna/blogroll) topic: pushed_at:2025-01 star:0.9k fork:0.1k 世界一流兼容并包TUNA协会收集的周围同学们的Blog
-- [tuna/Cash](https://github.com/tuna/Cash) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
+- [tuna/Cash](https://github.com/tuna/Cash) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
 - [tuna/django-helpdesk](https://github.com/tuna/django-helpdesk) topic: pushed_at:2014-12 star:0.0k fork:0.0k A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [tuna/feed_tuna](https://github.com/tuna/feed_tuna) topic: pushed_at:2017-09 star:0.0k fork:0.0k Telegram shop/payment bot 金枪鱼喂食计划
 - [tuna/fishroom](https://github.com/tuna/fishroom) topic: pushed_at:2021-02 star:0.3k fork:0.1k Message forwarding for multiple IM protocols
@@ -122,7 +122,7 @@
 
 - [tuna/THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme) topic: pushed_at:2020-12 star:0.4k fork:0.1k A LaTeX beamer theme template for Tsinghua students.
 - [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) topic: pushed_at:2024-11 star:0.5k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
-- [tuna/thuthesis](https://github.com/tuna/thuthesis) topic:ctan,latex,latex-thesis-template,tex,thuthesis,tsinghua,tsinghua-university pushed_at:2025-01 star:4.7k fork:1.1k LaTeX Thesis Template for Tsinghua University
+- [tuna/thuthesis](https://github.com/tuna/thuthesis) topic:ctan,latex,latex-thesis-template,tex,thuthesis,tsinghua,tsinghua-university pushed_at:2025-02 star:4.7k fork:1.1k LaTeX Thesis Template for Tsinghua University
 
 ## TypeScript
 
