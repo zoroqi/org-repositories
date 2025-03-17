@@ -72,7 +72,7 @@
 - [apachecn/scipycon-2018-sklearn-tut-zh](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh) topic:machine-learning,python,scikit-learn,scipy2018,tutorial pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] SciPyCon 2018 Sklearn 教程
 - [apachecn/sicp-py-zh](https://github.com/apachecn/sicp-py-zh) topic:cs61a,lecture-notes,python,sicp,ucb pushed_at:2021-01 star:0.1k fork:0.0k :book: [译] UCB CS61a SICP Python 描述 中文版
 - [apachecn/sklearn-cookbook-zh](https://github.com/apachecn/sklearn-cookbook-zh) topic:book,machine-learning,python,scikit-learn,sklearn pushed_at:2019-09 star:0.1k fork:0.0k :book: [译] Scikit-learn 秘籍
-- [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) topic:documentation,machine-learning,python,scikit-learn pushed_at:2023-07 star:5.1k fork:1.5k :book: [译] scikit-learn（sklearn） 中文文档
+- [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) topic:documentation,machine-learning,python,scikit-learn pushed_at:2023-07 star:5.2k fork:1.5k :book: [译] scikit-learn（sklearn） 中文文档
 - [apachecn/SocialMediaMining-zh](https://github.com/apachecn/SocialMediaMining-zh) topic: pushed_at:2023-12 star:0.0k fork:0.0k 社交媒体挖掘_翻译版
 - [apachecn/stanford-cs224n-notes-zh](https://github.com/apachecn/stanford-cs224n-notes-zh) topic: pushed_at:2020-09 star:0.3k fork:0.1k :book: 斯坦福 CS224n 自然语言处理中文笔记
 - [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes) topic:freedom,lixiaolai,wealth pushed_at:2020-12 star:0.2k fork:0.1k :book: 通往财富自由之路精细笔记
@@ -221,7 +221,7 @@
 - [apachecn/apachecn-php-zh-pt2](https://github.com/apachecn/apachecn-php-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-prog-wiki](https://github.com/apachecn/apachecn-prog-wiki) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [apachecn/apachecn-python-zh](https://github.com/apachecn/apachecn-python-zh) topic: pushed_at:2022-07 star:0.1k fork:0.0k :books: ApacheCN Python 译文集
-- [apachecn/apachecn-python-zh-pt2](https://github.com/apachecn/apachecn-python-zh-pt2) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
+- [apachecn/apachecn-python-zh-pt2](https://github.com/apachecn/apachecn-python-zh-pt2) topic: pushed_at:2024-03 star:0.1k fork:0.0k 
 - [apachecn/apachecn-python-zh-pt3](https://github.com/apachecn/apachecn-python-zh-pt3) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-python-zh-pt4](https://github.com/apachecn/apachecn-python-zh-pt4) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [apachecn/apachecn-pythonweb-zh](https://github.com/apachecn/apachecn-pythonweb-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
@@ -440,7 +440,7 @@
 - [apachecn/pythonlibrary-blog-zh](https://github.com/apachecn/pythonlibrary-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/pythonspot-zh](https://github.com/apachecn/pythonspot-zh) topic: pushed_at:2022-07 star:0.1k fork:0.0k :books: [译] PythonSpot 中文系列教程
 - [apachecn/quantinsti-blog-zh](https://github.com/apachecn/quantinsti-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Quantinsti 博客中文翻译
-- [apachecn/rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) topic: pushed_at:2024-11 star:1.0k fork:0.2k 
+- [apachecn/rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) topic: pushed_at:2024-11 star:1.1k fork:0.2k 
 - [apachecn/RateMySupervisor-1](https://github.com/apachecn/RateMySupervisor-1) topic: pushed_at:2022-04 star:0.0k fork:0.0k 永久免费开源的导师评价数据、数据爬虫、无需编程基础的展示网页以及新信息补充平台
 - [apachecn/re4e-zh](https://github.com/apachecn/re4e-zh) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [apachecn/realpython-zh](https://github.com/apachecn/realpython-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -567,7 +567,7 @@
 - [apachecn/awesome-chatgpt-prompts-zh](https://github.com/apachecn/awesome-chatgpt-prompts-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [apachecn/awesome-design-patterns](https://github.com/apachecn/awesome-design-patterns) topic: pushed_at:2022-12 star:0.0k fork:0.0k A curated list of software and architecture related design patterns.
 - [apachecn/awesome-drones](https://github.com/apachecn/awesome-drones) topic: pushed_at:2020-10 star:0.0k fork:0.0k A curated list of Awesome Drones resources
-- [apachecn/awesome-drones-zh](https://github.com/apachecn/awesome-drones-zh) topic:awesome,drones pushed_at:2023-10 star:0.3k fork:0.0k 无人机资源汇总
+- [apachecn/awesome-drones-zh](https://github.com/apachecn/awesome-drones-zh) topic:awesome,drones pushed_at:2023-10 star:0.4k fork:0.0k 无人机资源汇总
 - [apachecn/awesome-gb-dev-zh](https://github.com/apachecn/awesome-gb-dev-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k GB 开发资源列表
 - [apachecn/awesome-gba-dev-zh](https://github.com/apachecn/awesome-gba-dev-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k GBA 开发资源列表
 - [apachecn/awesome-ios](https://github.com/apachecn/awesome-ios) topic: pushed_at:2022-10 star:0.0k fork:0.0k A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
@@ -785,8 +785,8 @@
 - [apachecn/hooks](https://github.com/apachecn/hooks) topic: pushed_at:2023-03 star:0.0k fork:0.0k A high-quality & reliable React Hooks library.
 - [apachecn/HOW2J-tuts](https://github.com/apachecn/HOW2J-tuts) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [apachecn/huazhang-ai-book](https://github.com/apachecn/huazhang-ai-book) topic: pushed_at:2023-01 star:0.0k fork:0.0k :books: 华章智能科学技术丛书
-- [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.5k fork:0.2k :books: 华章计算机科学丛书高清扫描
-- [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) topic: pushed_at:2023-02 star:0.0k fork:0.0k :book: 华章经管丛书高清扫描
+- [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.6k fork:0.3k :books: 华章计算机科学丛书高清扫描
+- [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) topic: pushed_at:2023-02 star:0.1k fork:0.0k :book: 华章经管丛书高清扫描
 - [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.3k fork:0.1k :books: 华章数学丛书高清扫描
 - [apachecn/huggingface-doc-zh](https://github.com/apachecn/huggingface-doc-zh) topic: pushed_at:2024-07 star:0.0k fork:0.0k Hugging Face - 文档库(中文版)
 - [apachecn/hugo-PaperModX](https://github.com/apachecn/hugo-PaperModX) topic: pushed_at:2023-04 star:0.0k fork:0.0k A fast, clean, responsive Hugo theme.
@@ -871,7 +871,7 @@
 - [apachecn/JAVA](https://github.com/apachecn/JAVA) topic: pushed_at:2022-05 star:0.0k fork:0.0k 存放JAVA开发的设计思想、算法：《剑指Offer》、《编程珠玑》、《深入理解Java虚拟机：JVM高级特性与最佳实践》、《重构-改善既有代码的设计 中文版》、《clean_code(中文完整版)》、《Java编程思想(第4版)》、《Java核心技术 卷I (第8版)》、《Quartz_Job+Scheduling_Framework》；一些大的上传不上来的文件在README
 - [apachecn/JavaFamily](https://github.com/apachecn/JavaFamily) topic: pushed_at:2022-03 star:0.0k fork:0.0k 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [apachecn/javascript-questions](https://github.com/apachecn/javascript-questions) topic: pushed_at:2022-07 star:0.0k fork:0.0k A long list of (advanced) JavaScript questions, and their explanations :sparkles:  
-- [apachecn/JavaScript-The-Definitive-Guide-7th-zh](https://github.com/apachecn/JavaScript-The-Definitive-Guide-7th-zh) topic: pushed_at:2020-09 star:0.1k fork:0.1k 《JavaScript权威指南第七版》中文翻译
+- [apachecn/JavaScript-The-Definitive-Guide-7th-zh](https://github.com/apachecn/JavaScript-The-Definitive-Guide-7th-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k 《JavaScript权威指南第七版》中文翻译
 - [apachecn/jd_maotai_seckill](https://github.com/apachecn/jd_maotai_seckill) topic: pushed_at:2021-12 star:0.0k fork:0.0k 优化版本的京东茅台抢购神器
 - [apachecn/jd_seckill](https://github.com/apachecn/jd_seckill) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
 - [apachecn/jeepay](https://github.com/apachecn/jeepay) topic: pushed_at:2023-03 star:0.0k fork:0.0k Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
@@ -1196,7 +1196,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.2k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.3k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
@@ -1228,7 +1228,7 @@
 
 ## Shell
 
-- [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) topic: pushed_at:2021-01 star:2.3k fork:0.5k ApacheCN AI 路线图（知识树）
+- [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) topic: pushed_at:2021-01 star:2.4k fork:0.5k ApacheCN AI 路线图（知识树）
 - [apachecn/awesome-article-recomm](https://github.com/apachecn/awesome-article-recomm) topic:ai,blogpost pushed_at:2020-09 star:0.1k fork:0.0k 优质博文推荐计划
 - [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh) topic: pushed_at:2020-09 star:0.8k fork:0.1k 计算机公开课推荐
 - [apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh) topic: pushed_at:2020-09 star:0.8k fork:0.1k 独立开发/自由职业/远程工作资源列表
