@@ -60,7 +60,7 @@
 ## HTML
 
 - [EFForg/hugo-book](https://github.com/EFForg/hugo-book) topic: pushed_at:2020-08 star:0.0k fork:0.0k Hugo documentation theme as simple as plain book
-- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) topic: pushed_at:2024-05 star:0.0k fork:0.0k Test fixtures for Privacy Badger
+- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) topic: pushed_at:2025-03 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/privacybadger-test-fixtures-alt](https://github.com/EFForg/privacybadger-test-fixtures-alt) topic: pushed_at:2023-03 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/privacybadger-test-fixtures-subdomain](https://github.com/EFForg/privacybadger-test-fixtures-subdomain) topic: pushed_at:2023-03 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/sas](https://github.com/EFForg/sas) topic: pushed_at:2017-05 star:0.0k fork:0.0k Stand Against Spying
@@ -86,7 +86,7 @@
 - [EFForg/ngw-website](https://github.com/EFForg/ngw-website) topic: pushed_at:2017-01 star:0.0k fork:0.0k 
 - [EFForg/node-wethepeople](https://github.com/EFForg/node-wethepeople) topic: pushed_at:2015-09 star:0.0k fork:0.0k Node wrapper for the We the People API
 - [EFForg/OpenWireless](https://github.com/EFForg/OpenWireless) topic: pushed_at:2022-03 star:0.7k fork:0.1k The official home of the EFF OpenWireless Project
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) topic:browser-fingerprinting,chrome-extension,cookies,fingerprinting,firefox-extension,javascript,privacy,tracking,webextension pushed_at:2025-03 star:3.3k fork:0.4k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) topic:browser-fingerprinting,chrome-extension,cookies,fingerprinting,firefox-extension,javascript,privacy,tracking,webextension pushed_at:2025-03 star:3.4k fork:0.4k Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [EFForg/privacybadgerfirefox-legacy](https://github.com/EFForg/privacybadgerfirefox-legacy) topic: pushed_at:2016-12 star:0.4k fork:0.1k LEGACY Privacy Badger for Firefox SEE README
 - [EFForg/psi-tumblr-crawler](https://github.com/EFForg/psi-tumblr-crawler) topic: pushed_at:2015-08 star:0.0k fork:0.0k 
 - [EFForg/pushserver](https://github.com/EFForg/pushserver) topic: pushed_at:2018-03 star:0.0k fork:0.0k A server for sending push notifications to mobile apps
@@ -145,8 +145,8 @@
 - [EFForg/active_preview](https://github.com/EFForg/active_preview) topic: pushed_at:2018-11 star:0.0k fork:0.0k Rails plugin to make previews of active record objects
 - [EFForg/aws_one_click_staging](https://github.com/EFForg/aws_one_click_staging) topic: pushed_at:2018-02 star:0.0k fork:0.0k 
 - [EFForg/check-your-reps](https://github.com/EFForg/check-your-reps) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [EFForg/congress_forms](https://github.com/EFForg/congress_forms) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
-- [EFForg/congress_forms_api](https://github.com/EFForg/congress_forms_api) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
+- [EFForg/congress_forms](https://github.com/EFForg/congress_forms) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
+- [EFForg/congress_forms_api](https://github.com/EFForg/congress_forms_api) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
 - [EFForg/dear_fcc](https://github.com/EFForg/dear_fcc) topic: pushed_at:2018-08 star:0.0k fork:0.0k Dear FCC
 - [EFForg/eff_diceware](https://github.com/EFForg/eff_diceware) topic: pushed_at:2018-04 star:0.0k fork:0.0k A ruby gem for creating secure passphrases using EFF's long wordlist.
 - [EFForg/eff_fab](https://github.com/EFForg/eff_fab) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
@@ -158,12 +158,12 @@
 
 ## Rust
 
-- [EFForg/apkeep](https://github.com/EFForg/apkeep) topic: pushed_at:2025-02 star:1.0k fork:0.1k A command-line tool for downloading APK files from various sources
+- [EFForg/apkeep](https://github.com/EFForg/apkeep) topic: pushed_at:2025-02 star:1.1k fork:0.1k A command-line tool for downloading APK files from various sources
 - [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) topic: pushed_at:2023-01 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
 - [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) topic: pushed_at:2023-01 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) topic: pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 - [EFForg/https-everywhere-rust-test-implementation](https://github.com/EFForg/https-everywhere-rust-test-implementation) topic: pushed_at:2020-04 star:0.0k fork:0.0k 
-- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) topic: pushed_at:2025-03 star:1.2k fork:0.1k Rust tool to detect cell site simulators on an orbic mobile hotspot 
+- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) topic: pushed_at:2025-03 star:1.7k fork:0.1k Rust tool to detect cell site simulators on an orbic mobile hotspot 
 - [EFForg/rs-google-play](https://github.com/EFForg/rs-google-play) topic: pushed_at:2025-02 star:0.0k fork:0.0k Google Play API for Rust
 - [EFForg/tokio-dl-stream-to-disk](https://github.com/EFForg/tokio-dl-stream-to-disk) topic: pushed_at:2024-07 star:0.0k fork:0.0k A micro-library for downloading from a URL and streaming it directly to the disk
 

@@ -22,7 +22,7 @@
 ## C
 
 - [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) topic: pushed_at:2024-03 star:0.4k fork:0.1k RISC-V cryptography extensions standardisation work.
-- [riscv/riscv-test-env](https://github.com/riscv/riscv-test-env) topic: pushed_at:2024-12 star:0.0k fork:0.1k 
+- [riscv/riscv-test-env](https://github.com/riscv/riscv-test-env) topic: pushed_at:2025-03 star:0.0k fork:0.1k 
 - [riscv/sail-riscv](https://github.com/riscv/sail-riscv) topic: pushed_at:2025-03 star:0.5k fork:0.2k Sail RISC-V model
 
 ## CSS
@@ -52,10 +52,10 @@
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) topic: pushed_at:2025-02 star:0.2k fork:0.0k Working Draft of the RISC-V J Extension Specification
 - [riscv/riscv-memory-tagging](https://github.com/riscv/riscv-memory-tagging) topic: pushed_at:2025-03 star:0.0k fork:0.0k Memory Tagging ISA extension that can be used by software to enforce memory tag checks on memory loads and stores
 - [riscv/riscv-performance-event-sampling](https://github.com/riscv/riscv-performance-event-sampling) topic: pushed_at:2025-02 star:0.0k fork:0.0k Define 2 new extensions to, along with Zihpm and Sscofpmf, enable event and instruction sampling with precise attribution.
-- [riscv/riscv-performance-events](https://github.com/riscv/riscv-performance-events) topic: pushed_at:2025-03 star:0.0k fork:0.0k RISC-V Performance Events Specification
+- [riscv/riscv-performance-events](https://github.com/riscv/riscv-performance-events) topic: pushed_at:2025-04 star:0.0k fork:0.0k RISC-V Performance Events Specification
 - [riscv/riscv-pqc](https://github.com/riscv/riscv-pqc) topic: pushed_at:2024-02 star:0.0k fork:0.0k Post Quantum Cryptography
 - [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) topic: pushed_at:2025-02 star:0.1k fork:0.0k RISC-V Architecture Profiles
-- [riscv/riscv-smmtt](https://github.com/riscv/riscv-smmtt) topic:access-control,ap-tee,confidential-computing,smmtt,supervisor-domains,trusted-computing,trusted-execution-environment pushed_at:2025-02 star:0.0k fork:0.0k This specification will define the RISC-V privilege ISA extensions required to support Supervisor Domain isolation for multi-tenant security use cases e.g. confidential-computing, trusted platform services, fault isolation and so on.
+- [riscv/riscv-smmtt](https://github.com/riscv/riscv-smmtt) topic:access-control,ap-tee,confidential-computing,smmtt,supervisor-domains,trusted-computing,trusted-execution-environment pushed_at:2025-03 star:0.0k fork:0.0k This specification will define the RISC-V privilege ISA extensions required to support Supervisor Domain isolation for multi-tenant security use cases e.g. confidential-computing, trusted platform services, fault isolation and so on.
 - [riscv/riscv-ssdtso](https://github.com/riscv/riscv-ssdtso) topic: pushed_at:2025-02 star:0.0k fork:0.0k The Ssdtso is a fast-track extension adding a 'dynamic-RVTSO' mode of operation and on-demand per-hart switching between the memory models.
 - [riscv/riscv-ssqosid](https://github.com/riscv/riscv-ssqosid) topic: pushed_at:2024-06 star:0.0k fork:0.0k This repo will hold the specification for the proposed QoS ID extension being pursued on the fast-track process.
 - [riscv/riscv-svvptc](https://github.com/riscv/riscv-svvptc) topic: pushed_at:2025-02 star:0.0k fork:0.0k Obviating Memory-Management Instructions after Marking PTEs Valid (Svvptc)
@@ -93,7 +93,7 @@
 ## TeX
 
 - [riscv/docs-dev-guide](https://github.com/riscv/docs-dev-guide) topic: pushed_at:2025-03 star:0.1k fork:0.0k Documentation developer guide
-- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) topic: pushed_at:2025-03 star:3.9k fork:0.7k RISC-V Instruction Set Manual
+- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) topic: pushed_at:2025-04 star:4.0k fork:0.7k RISC-V Instruction Set Manual
 - [riscv/riscv-smbios](https://github.com/riscv/riscv-smbios) topic: pushed_at:2023-12 star:0.0k fork:0.0k RISC-V SMBIOS Type 44 Spec
 - [riscv/riscv-spmp](https://github.com/riscv/riscv-spmp) topic: pushed_at:2025-03 star:0.0k fork:0.0k The repo contains the SPMP architectural specification, which includes capabilities like access control of read/write/execute requests by an hart, address matching, encoding of permissions, exceptions for access violation, and support for virtualization.
 - [riscv/riscv-ssrastraps](https://github.com/riscv/riscv-ssrastraps) topic: pushed_at:2022-10 star:0.0k fork:0.0k The RAS exception and interrupts extension (Ssrastraps) defines standard local interrupt numbers and exception-cause codes for reporting errors detected by RAS functions in the system.
