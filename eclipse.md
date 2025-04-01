@@ -38,7 +38,7 @@
 - [eclipse/jnosql-aphrodite](https://github.com/eclipse/jnosql-aphrodite) topic:jakartaee,java,javaee,jnosql,jnosql-aphrodite,jsr,nsq pushed_at:2019-02 star:0.0k fork:0.0k Eclipse JNoSQL Aphrodite is the project that contains the syntax query to JNoSQL API.
 - [eclipse/jnosql-artemis](https://github.com/eclipse/jnosql-artemis) topic:artemis,cdi,connect-nosql-databases,diana,jnosql,nosql pushed_at:2019-02 star:0.0k fork:0.0k Eclipse JNoSQL Artemis is a flexible and extensible OxM to connect NoSQL databases. It brings an easy interface to support key-value, column family, document-oriented and graph databases with heavy driven annotation using CDI.
 - [eclipse/openvsx](https://github.com/eclipse/openvsx) topic:extension,marketplace,registry,theia,vscode pushed_at:2025-03 star:1.4k fork:0.2k An open-source registry for VS Code extensions
-- [eclipse/packager](https://github.com/eclipse/packager) topic: pushed_at:2024-09 star:0.0k fork:0.0k Eclipse Packager project
+- [eclipse/packager](https://github.com/eclipse/packager) topic: pushed_at:2025-03 star:0.0k fork:0.0k Eclipse Packager project
 - [eclipse/swtchart](https://github.com/eclipse/swtchart) topic: pushed_at:2025-03 star:0.1k fork:0.0k 
 - [eclipse/Xpect](https://github.com/eclipse/Xpect) topic: pushed_at:2025-03 star:0.0k fork:0.0k This repository has been rewritten to move to the Eclipse Foundation. Find the old history here: https://github.com/TypeFox/Xpect
 - [eclipse/xtext-core](https://github.com/eclipse/xtext-core) topic: pushed_at:2023-04 star:0.1k fork:0.1k xtext-core

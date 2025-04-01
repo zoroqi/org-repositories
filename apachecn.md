@@ -215,7 +215,7 @@
 - [apachecn/apachecn-ml-zh-pt7](https://github.com/apachecn/apachecn-ml-zh-pt7) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [apachecn/apachecn-ml-zh-pt8](https://github.com/apachecn/apachecn-ml-zh-pt8) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [apachecn/apachecn-node-zh](https://github.com/apachecn/apachecn-node-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
-- [apachecn/apachecn-node-zh-pt2](https://github.com/apachecn/apachecn-node-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
+- [apachecn/apachecn-node-zh-pt2](https://github.com/apachecn/apachecn-node-zh-pt2) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
 - [apachecn/apachecn-oj-wiki](https://github.com/apachecn/apachecn-oj-wiki) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [apachecn/apachecn-php-zh](https://github.com/apachecn/apachecn-php-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k :books: [译] ApacheCN PHP 译文集
 - [apachecn/apachecn-php-zh-pt2](https://github.com/apachecn/apachecn-php-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
@@ -1035,7 +1035,7 @@
 - [apachecn/scripts](https://github.com/apachecn/scripts) topic: pushed_at:2022-01 star:0.0k fork:0.0k jd https://t.me/+fo3HSUe3nbRiNjY1
 - [apachecn/scripts-1](https://github.com/apachecn/scripts-1) topic: pushed_at:2021-12 star:0.0k fork:0.0k Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
 - [apachecn/scys1](https://github.com/apachecn/scys1) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:1.1k fork:0.4k :books: 网安类绝版图书
+- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:1.2k fork:0.4k :books: 网安类绝版图书
 - [apachecn/sec-books-part2](https://github.com/apachecn/sec-books-part2) topic: pushed_at:2023-01 star:0.1k fork:0.0k :books: 网安类绝版图书（二）
 - [apachecn/sec-gzh-2022](https://github.com/apachecn/sec-gzh-2022) topic: pushed_at:2023-04 star:0.0k fork:0.0k 网络安全类公众号离线备份
 - [apachecn/seebug-paper-2016-20xx](https://github.com/apachecn/seebug-paper-2016-20xx) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -1196,7 +1196,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.3k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.5k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库

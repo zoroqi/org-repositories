@@ -76,7 +76,7 @@
 
 ## Python
 
-- [ustclug/blogs](https://github.com/ustclug/blogs) topic: pushed_at:2024-05 star:0.1k fork:0.0k USTCLUG 同学们的博客列表
+- [ustclug/blogs](https://github.com/ustclug/blogs) topic: pushed_at:2025-03 star:0.1k fork:0.0k USTCLUG 同学们的博客列表
 - [ustclug/documentations](https://github.com/ustclug/documentations) topic: pushed_at:2025-02 star:0.0k fork:0.0k LUG @ USTC Technical Documentation
 - [ustclug/hackergame](https://github.com/ustclug/hackergame) topic: pushed_at:2025-03 star:0.1k fork:0.0k Hackergame platform for 2018 and beyond
 - [ustclug/hackergame2017](https://github.com/ustclug/hackergame2017) topic: pushed_at:2017-10 star:0.0k fork:0.0k 
@@ -87,7 +87,7 @@
 - [ustclug/mirrorrequest](https://github.com/ustclug/mirrorrequest) topic:mirror pushed_at:2024-12 star:0.4k fork:0.0k 通过 issue 为中国科大开源镜像站（mirrors.ustc.edu.cn）提交新的镜像申请~
 - [ustclug/monitor](https://github.com/ustclug/monitor) topic: pushed_at:2024-12 star:0.0k fork:0.0k tools used by USTC LUG monitor site
 - [ustclug/raid-telegraf](https://github.com/ustclug/raid-telegraf) topic:raid-monitoring,telegraf pushed_at:2024-04 star:0.0k fork:0.0k Parse megacli & storcli & ssacli outputs, and can be used in telegraf inputs.exec
-- [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) topic:docker-image,git,hacktoberfest,lftp,rsync pushed_at:2025-02 star:0.1k fork:0.0k Docker images used by ustcmirror :rocket:
+- [ustclug/ustcmirror-images](https://github.com/ustclug/ustcmirror-images) topic:docker-image,git,hacktoberfest,lftp,rsync pushed_at:2025-03 star:0.1k fork:0.0k Docker images used by ustcmirror :rocket:
 - [ustclug/website-static](https://github.com/ustclug/website-static) topic: pushed_at:2024-12 star:0.0k fork:0.0k Hosting static content (image/assets) for LUG website
 
 ## Rust
@@ -100,14 +100,14 @@
 - [ustclug/docker-freeradius](https://github.com/ustclug/docker-freeradius) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [ustclug/docker-gitlab](https://github.com/ustclug/docker-gitlab) topic: pushed_at:2025-03 star:0.0k fork:0.0k Dockerized GitLab
 - [ustclug/docker-image](https://github.com/ustclug/docker-image) topic: pushed_at:2017-01 star:0.0k fork:0.0k 💀docker image used by USTC LUG (deprecated)
-- [ustclug/light-list](https://github.com/ustclug/light-list) topic: pushed_at:2022-11 star:0.0k fork:0.0k accelerate list of light service (Last run: 2025-03-16)
+- [ustclug/light-list](https://github.com/ustclug/light-list) topic: pushed_at:2022-11 star:0.0k fork:0.0k accelerate list of light service (Last run: 2025-03-31)
 - [ustclug/light-server](https://github.com/ustclug/light-server) topic: pushed_at:2024-07 star:0.0k fork:0.0k light accelerator daemon
 - [ustclug/liimstrap](https://github.com/ustclug/liimstrap) topic:linux pushed_at:2025-02 star:0.0k fork:0.0k 中国科大图书馆查询机生成脚本
 - [ustclug/Linux101-USTC](https://github.com/ustclug/Linux101-USTC) topic: pushed_at:2020-03 star:0.0k fork:0.0k Linux 101 is a course organized by several members of LUG@USTC. It is designed to popularize Linux and open source culture in USTC. First brought up by Jin Zida.
 - [ustclug/lug-sites-sync](https://github.com/ustclug/lug-sites-sync) topic: pushed_at:2015-08 star:0.0k fork:0.0k 💀Script to sync lug.ustc.edu.cn/sites pages (deprecated)
 - [ustclug/lugftp](https://github.com/ustclug/lugftp) topic:afp,ftp,ftp-site pushed_at:2024-07 star:0.0k fork:0.0k FTP site of USTC Linux User Group
 - [ustclug/lugwiki](https://github.com/ustclug/lugwiki) topic: pushed_at:2023-10 star:0.0k fork:0.0k wiki site of USTC Linux User Group
-- [ustclug/mirrorimage](https://github.com/ustclug/mirrorimage) topic: pushed_at:2024-06 star:0.0k fork:0.0k Docker Distribution Images replaced with USTC Mirrors (Last run: 2025-03-16)
+- [ustclug/mirrorimage](https://github.com/ustclug/mirrorimage) topic: pushed_at:2024-06 star:0.0k fork:0.0k Docker Distribution Images replaced with USTC Mirrors (Last run: 2025-03-30)
 - [ustclug/neatdns](https://github.com/ustclug/neatdns) topic: pushed_at:2023-11 star:0.3k fork:0.0k anti-pollution DNS server
 - [ustclug/pypi-mirror](https://github.com/ustclug/pypi-mirror) topic: pushed_at:2017-02 star:0.0k fork:0.0k 💀 pypi mirror tool (deprecated)
 - [ustclug/rb-backup](https://github.com/ustclug/rb-backup) topic: pushed_at:2018-03 star:0.0k fork:0.0k 基于 rsync 和 ssh 的远程备份脚本，利用 btrfs snapshot 实现增量备份……
