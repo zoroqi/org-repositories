@@ -15,9 +15,9 @@
 - [Go](#go) (4)
 - [HTML](#html) (2)
 - [Java](#java) (2)
-- [JavaScript](#javascript) (8)
+- [JavaScript](#javascript) (9)
 - [Jupyter Notebook](#jupyter-notebook) (8)
-- [Others](#others) (7)
+- [Others](#others) (6)
 - [PHP](#php) (1)
 - [Python](#python) (50)
 - [TypeScript](#typescript) (7)
@@ -37,13 +37,13 @@
 - [sony/easyhttpcpp](https://github.com/sony/easyhttpcpp) topic:cache,cpp,cross-platform,http,https,networking pushed_at:2022-01 star:0.2k fork:0.0k A cross-platform HTTP client library with a focus on usability and speed
 - [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) topic:embedded-linux,embedded-systems,flutter,flutter-plugin,linux,plugin pushed_at:2024-12 star:0.1k fork:0.0k Flutter plugins for embedded Linux (eLinux)
 - [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) topic:embedded-linux,embedded-systems,flutter,linux pushed_at:2025-02 star:1.3k fork:0.1k Embedded Linux embedding for Flutter
-- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) topic:cpp,cpp11,nmos,sdk pushed_at:2025-03 star:0.2k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
+- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) topic:cpp,cpp11,nmos,sdk pushed_at:2025-04 star:0.2k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
 - [sony/node-win-usbdev](https://github.com/sony/node-win-usbdev) topic: pushed_at:2018-02 star:0.0k fork:0.0k 
 - [sony/v8eval](https://github.com/sony/v8eval) topic:golang,python,ruby,v8 pushed_at:2020-12 star:0.4k fork:0.0k Multi-language bindings to JavaScript engine V8
 
 ## CSS
 
-- [sony/creativeai](https://github.com/sony/creativeai) topic: pushed_at:2025-03 star:0.1k fork:0.0k 
+- [sony/creativeai](https://github.com/sony/creativeai) topic: pushed_at:2025-04 star:0.1k fork:0.0k 
 
 ## Cuda
 
@@ -78,6 +78,7 @@
 - [sony/generator-cordova-plugin-devbed](https://github.com/sony/generator-cordova-plugin-devbed) topic: pushed_at:2016-05 star:0.0k fork:0.0k 
 - [sony/huis-ui-creator](https://github.com/sony/huis-ui-creator) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [sony/isren](https://github.com/sony/isren) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
+- [sony/learning-feet-imu-locomotion](https://github.com/sony/learning-feet-imu-locomotion) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [sony/nmos-js](https://github.com/sony/nmos-js) topic:javascript,nmos,react pushed_at:2024-03 star:0.0k fork:0.0k An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
 - [sony/QuietWalk](https://github.com/sony/QuietWalk) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
 
@@ -100,7 +101,6 @@
 - [sony/Hi-ResLDM](https://github.com/sony/Hi-ResLDM) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
 - [sony/nnabla-doc](https://github.com/sony/nnabla-doc) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
 - [sony/SR-Display-Plugin-Preview-ZB](https://github.com/sony/SR-Display-Plugin-Preview-ZB) topic: pushed_at:2024-02 star:0.0k fork:0.0k 
-- [sony/wpse](https://github.com/sony/wpse) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
 
 ## PHP
 
@@ -119,12 +119,12 @@
 - [sony/clews](https://github.com/sony/clews) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
 - [sony/CLIPSep](https://github.com/sony/CLIPSep) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [sony/ctm](https://github.com/sony/ctm) topic: pushed_at:2024-10 star:0.3k fork:0.0k 
-- [sony/custom_layers](https://github.com/sony/custom_layers) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
+- [sony/di4c](https://github.com/sony/di4c) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [sony/diffiner](https://github.com/sony/diffiner) topic: pushed_at:2023-08 star:0.1k fork:0.0k 
 - [sony/dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [sony/ds-research-code](https://github.com/sony/ds-research-code) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [sony/dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
-- [sony/esstra](https://github.com/sony/esstra) topic: pushed_at:2025-03 star:0.0k fork:0.0k A software suite for enhancing software supply chain transparency
+- [sony/esstra](https://github.com/sony/esstra) topic: pushed_at:2025-04 star:0.0k fork:0.0k A software suite for enhancing software supply chain transparency
 - [sony/evsCluster](https://github.com/sony/evsCluster) topic: pushed_at:2024-01 star:0.0k fork:0.0k Python scripts to process EVS (Event-based vision sensor) data
 - [sony/FxNorm-automix](https://github.com/sony/FxNorm-automix) topic:automatic-mixing,data-normalization,intelligent-music-production,machine-learning pushed_at:2024-03 star:0.1k fork:0.0k FxNorm-Automix - Implementation of automatic music mixing systems. We show how we can use wet music data and repurpose it to train a fully automatic mixing system
 - [sony/genwarp](https://github.com/sony/genwarp) topic: pushed_at:2024-09 star:0.3k fork:0.0k 
@@ -134,8 +134,7 @@
 - [sony/jys](https://github.com/sony/jys) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
 - [sony/lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
 - [sony/MambaPEFT](https://github.com/sony/MambaPEFT) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
-- [sony/mct_quantizers](https://github.com/sony/mct_quantizers) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
-- [sony/model_optimization](https://github.com/sony/model_optimization) topic:deep-learning,deep-neural-networks,edge-ai,machine-learning,network-compression,network-quantization,neural-network,optimizer,ptq,pytorch,qat,quantization,tensorflow pushed_at:2025-03 star:0.4k fork:0.1k Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks.
+- [sony/model_optimization](https://github.com/sony/model_optimization) topic:deep-learning,deep-neural-networks,edge-ai,machine-learning,network-compression,network-quantization,neural-network,optimizer,ptq,pytorch,qat,quantization,tensorflow pushed_at:2025-04 star:0.4k fork:0.1k Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks.
 - [sony/MoLA](https://github.com/sony/MoLA) topic:motion-generation,pytorch,text-to-motion,text-to-motion-localization pushed_at:2025-03 star:0.0k fork:0.0k Pytorch implementation of MoLA
 - [sony/NDJIR](https://github.com/sony/NDJIR) topic: pushed_at:2023-02 star:0.0k fork:0.0k NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object
 - [sony/NeISF](https://github.com/sony/NeISF) topic: pushed_at:2024-11 star:0.0k fork:0.0k 
@@ -156,8 +155,9 @@
 - [sony/soundctm](https://github.com/sony/soundctm) topic:audio-generation,diffusion-models,pytorch,text-to-audio pushed_at:2025-03 star:0.1k fork:0.0k Pytorch implementation of SoundCTM
 - [sony/sqvae](https://github.com/sony/sqvae) topic:bayesian,deep-generative-model,generative-model,gumbel-softmax,machine-learning,pytorch,vae,variational-autoencoder,vector-quantization,vq-vae pushed_at:2022-07 star:0.2k fork:0.0k Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE)
 - [sony/SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
-- [sony/talkhier](https://github.com/sony/talkhier) topic: pushed_at:2025-02 star:0.0k fork:0.0k Official Repo for The Paper "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems"
+- [sony/talkhier](https://github.com/sony/talkhier) topic: pushed_at:2025-02 star:0.1k fork:0.0k Official Repo for The Paper "Talk Structurally, Act Hierarchically: A Collaborative Framework for LLM Multi-Agent Systems"
 - [sony/timbre-trap](https://github.com/sony/timbre-trap) topic: pushed_at:2024-05 star:0.0k fork:0.0k Code for the paper "Timbre-Trap: A Low-Resource Framework for Instrument-Agnostic Music Transcription"
+- [sony/wpse](https://github.com/sony/wpse) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 
 ## TypeScript
 
@@ -166,7 +166,7 @@
 - [sony/nnabla-browser](https://github.com/sony/nnabla-browser) topic: pushed_at:2023-03 star:0.0k fork:0.0k Visualization toolkit for Neural Network Libraries
 - [sony/nnabla-js](https://github.com/sony/nnabla-js) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [sony/nnc-desktop](https://github.com/sony/nnc-desktop) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
-- [sony/stamp](https://github.com/sony/stamp) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
+- [sony/stamp](https://github.com/sony/stamp) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [sony/typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) topic: pushed_at:2020-01 star:0.0k fork:0.0k Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa.
 
 
