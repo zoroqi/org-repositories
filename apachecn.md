@@ -145,7 +145,7 @@
 - [apachecn/apachecn-blockchain-docs-zh](https://github.com/apachecn/apachecn-blockchain-docs-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: ApacheCN 区块链中文文档集
 - [apachecn/apachecn-blockchain-pt2-zh](https://github.com/apachecn/apachecn-blockchain-pt2-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 区块链系列文章2
 - [apachecn/apachecn-blockchain-zh](https://github.com/apachecn/apachecn-blockchain-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 区块链系列文章1
-- [apachecn/apachecn-c-cpp-zh](https://github.com/apachecn/apachecn-c-cpp-zh) topic: pushed_at:2023-02 star:0.3k fork:0.1k :books: [译] ApacheCN C/C++ 译文集
+- [apachecn/apachecn-c-cpp-zh](https://github.com/apachecn/apachecn-c-cpp-zh) topic: pushed_at:2025-04 star:0.3k fork:0.1k :books: [译] ApacheCN C/C++ 译文集
 - [apachecn/apachecn-c-cpp-zh-pt2](https://github.com/apachecn/apachecn-c-cpp-zh-pt2) topic: pushed_at:2022-07 star:0.1k fork:0.0k 
 - [apachecn/apachecn-c-cpp-zh-pt3](https://github.com/apachecn/apachecn-c-cpp-zh-pt3) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
 - [apachecn/apachecn-cs-notes](https://github.com/apachecn/apachecn-cs-notes) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
@@ -406,7 +406,7 @@
 - [apachecn/mit-18.06-linalg-notes](https://github.com/apachecn/mit-18.06-linalg-notes) topic: pushed_at:2023-05 star:2.2k fork:0.7k MIT 18.06 线性代数笔记
 - [apachecn/mitnicksecurity-zh](https://github.com/apachecn/mitnicksecurity-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [apachecn/mkyong-blog-zh](https://github.com/apachecn/mkyong-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) topic: pushed_at:2025-02 star:0.7k fork:0.2k :book: [译] MachineLearningMastery 博客文章
+- [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) topic: pushed_at:2025-02 star:0.8k fork:0.2k :book: [译] MachineLearningMastery 博客文章
 - [apachecn/ml-mastery-zh-pt2](https://github.com/apachecn/ml-mastery-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/mlearningai-blog-zh](https://github.com/apachecn/mlearningai-blog-zh) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/moesif-blog-zh](https://github.com/apachecn/moesif-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Moesif 博客中文翻译
@@ -567,7 +567,7 @@
 - [apachecn/awesome-chatgpt-prompts-zh](https://github.com/apachecn/awesome-chatgpt-prompts-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [apachecn/awesome-design-patterns](https://github.com/apachecn/awesome-design-patterns) topic: pushed_at:2022-12 star:0.0k fork:0.0k A curated list of software and architecture related design patterns.
 - [apachecn/awesome-drones](https://github.com/apachecn/awesome-drones) topic: pushed_at:2020-10 star:0.0k fork:0.0k A curated list of Awesome Drones resources
-- [apachecn/awesome-drones-zh](https://github.com/apachecn/awesome-drones-zh) topic:awesome,drones pushed_at:2023-10 star:0.4k fork:0.0k 无人机资源汇总
+- [apachecn/awesome-drones-zh](https://github.com/apachecn/awesome-drones-zh) topic:awesome,drones pushed_at:2023-10 star:0.4k fork:0.1k 无人机资源汇总
 - [apachecn/awesome-gb-dev-zh](https://github.com/apachecn/awesome-gb-dev-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k GB 开发资源列表
 - [apachecn/awesome-gba-dev-zh](https://github.com/apachecn/awesome-gba-dev-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k GBA 开发资源列表
 - [apachecn/awesome-ios](https://github.com/apachecn/awesome-ios) topic: pushed_at:2022-10 star:0.0k fork:0.0k A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
@@ -787,7 +787,7 @@
 - [apachecn/huazhang-ai-book](https://github.com/apachecn/huazhang-ai-book) topic: pushed_at:2023-01 star:0.0k fork:0.0k :books: 华章智能科学技术丛书
 - [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.6k fork:0.3k :books: 华章计算机科学丛书高清扫描
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) topic: pushed_at:2023-02 star:0.1k fork:0.0k :book: 华章经管丛书高清扫描
-- [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.3k fork:0.1k :books: 华章数学丛书高清扫描
+- [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.4k fork:0.1k :books: 华章数学丛书高清扫描
 - [apachecn/huggingface-doc-zh](https://github.com/apachecn/huggingface-doc-zh) topic: pushed_at:2024-07 star:0.0k fork:0.0k Hugging Face - 文档库(中文版)
 - [apachecn/hugo-PaperModX](https://github.com/apachecn/hugo-PaperModX) topic: pushed_at:2023-04 star:0.0k fork:0.0k A fast, clean, responsive Hugo theme.
 - [apachecn/igetget](https://github.com/apachecn/igetget) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
@@ -1035,7 +1035,7 @@
 - [apachecn/scripts](https://github.com/apachecn/scripts) topic: pushed_at:2022-01 star:0.0k fork:0.0k jd https://t.me/+fo3HSUe3nbRiNjY1
 - [apachecn/scripts-1](https://github.com/apachecn/scripts-1) topic: pushed_at:2021-12 star:0.0k fork:0.0k Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
 - [apachecn/scys1](https://github.com/apachecn/scys1) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:1.2k fork:0.4k :books: 网安类绝版图书
+- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:1.2k fork:0.5k :books: 网安类绝版图书
 - [apachecn/sec-books-part2](https://github.com/apachecn/sec-books-part2) topic: pushed_at:2023-01 star:0.1k fork:0.0k :books: 网安类绝版图书（二）
 - [apachecn/sec-gzh-2022](https://github.com/apachecn/sec-gzh-2022) topic: pushed_at:2023-04 star:0.0k fork:0.0k 网络安全类公众号离线备份
 - [apachecn/seebug-paper-2016-20xx](https://github.com/apachecn/seebug-paper-2016-20xx) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -1196,7 +1196,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.5k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.6k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
@@ -1217,7 +1217,7 @@
 - [apachecn/hudi-doc-zh](https://github.com/apachecn/hudi-doc-zh) topic: pushed_at:2020-01 star:0.0k fork:0.0k hudi 中文文档
 - [apachecn/imgyaso](https://github.com/apachecn/imgyaso) topic: pushed_at:2023-03 star:0.0k fork:0.0k 提供多种图像处理工具，包括自适应二值化，灰度网格仿色，扩散仿色，和颜色缩减。
 - [apachecn/Middleware](https://github.com/apachecn/Middleware) topic: pushed_at:2020-03 star:0.0k fork:0.0k 中间件 - 日常小工具
-- [apachecn/python_data_analysis_and_mining_action](https://github.com/apachecn/python_data_analysis_and_mining_action) topic:data-analysis,data-science,python3,readingnotes pushed_at:2020-08 star:1.7k fork:0.7k 《python数据分析与挖掘实战》的代码笔记
+- [apachecn/python_data_analysis_and_mining_action](https://github.com/apachecn/python_data_analysis_and_mining_action) topic:data-analysis,data-science,python3,readingnotes pushed_at:2020-08 star:1.8k fork:0.7k 《python数据分析与挖掘实战》的代码笔记
 - [apachecn/RecommenderSystems](https://github.com/apachecn/RecommenderSystems) topic:recommender-system pushed_at:2019-04 star:0.8k fork:0.2k 推荐系统
 - [apachecn/stable-diffusion-webui](https://github.com/apachecn/stable-diffusion-webui) topic: pushed_at:2023-08 star:0.0k fork:0.0k Stable Diffusion web UI
 - [apachecn/weibo-bot](https://github.com/apachecn/weibo-bot) topic: pushed_at:2021-09 star:0.0k fork:0.0k 自用微博机器人
