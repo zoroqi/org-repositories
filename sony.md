@@ -55,7 +55,7 @@
 
 ## Go
 
-- [sony/appsync-client-go](https://github.com/sony/appsync-client-go) topic:appsync,golang,graphql,graphql-client pushed_at:2024-12 star:0.1k fork:0.0k AWS AppSync golang client library
+- [sony/appsync-client-go](https://github.com/sony/appsync-client-go) topic:appsync,golang,graphql,graphql-client pushed_at:2025-04 star:0.1k fork:0.0k AWS AppSync golang client library
 - [sony/gobreaker](https://github.com/sony/gobreaker) topic:circuit-breaker,golang,microservice pushed_at:2025-03 star:3.1k fork:0.2k Circuit Breaker implemented in Go
 - [sony/micro-notifier](https://github.com/sony/micro-notifier) topic:golang,microservice,pusher,server,websocket pushed_at:2023-05 star:0.0k fork:0.0k Simplified Pusher Clone
 - [sony/sonyflake](https://github.com/sony/sonyflake) topic:golang,id-generator pushed_at:2024-10 star:4.1k fork:0.3k A distributed unique ID generator inspired by Twitter's Snowflake
@@ -151,7 +151,7 @@
 - [sony/pyAutoPort](https://github.com/sony/pyAutoPort) topic: pushed_at:2025-01 star:0.0k fork:0.0k 
 - [sony/pyIEOE](https://github.com/sony/pyIEOE) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
 - [sony/san](https://github.com/sony/san) topic:deep-generative-model,gan,generative-model,machine-learning,optimal-transport,pytorch,sliced-wasserstein-distance,wasserstein-distance pushed_at:2024-06 star:0.1k fork:0.0k PyTorch implementation of slicing adversarial network (SAN)
-- [sony/silentcipher](https://github.com/sony/silentcipher) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
+- [sony/silentcipher](https://github.com/sony/silentcipher) topic: pushed_at:2024-07 star:0.1k fork:0.0k 
 - [sony/soundctm](https://github.com/sony/soundctm) topic:audio-generation,diffusion-models,pytorch,text-to-audio pushed_at:2025-03 star:0.1k fork:0.0k Pytorch implementation of SoundCTM
 - [sony/sqvae](https://github.com/sony/sqvae) topic:bayesian,deep-generative-model,generative-model,gumbel-softmax,machine-learning,pytorch,vae,variational-autoencoder,vector-quantization,vq-vae pushed_at:2022-07 star:0.2k fork:0.0k Pytorch implementation of stochastically quantized variational autoencoder (SQ-VAE)
 - [sony/SR-Display-Plugin-Preview-BL](https://github.com/sony/SR-Display-Plugin-Preview-BL) topic: pushed_at:2024-05 star:0.0k fork:0.0k 

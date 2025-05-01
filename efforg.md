@@ -164,7 +164,7 @@
 - [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) topic: pushed_at:2023-01 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) topic: pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 - [EFForg/https-everywhere-rust-test-implementation](https://github.com/EFForg/https-everywhere-rust-test-implementation) topic: pushed_at:2020-04 star:0.0k fork:0.0k 
-- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) topic: pushed_at:2025-04 star:1.8k fork:0.1k Rust tool to detect cell site simulators on an orbic mobile hotspot 
+- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) topic: pushed_at:2025-04 star:1.9k fork:0.1k Rust tool to detect cell site simulators on an orbic mobile hotspot 
 - [EFForg/rs-google-play](https://github.com/EFForg/rs-google-play) topic: pushed_at:2025-02 star:0.0k fork:0.0k Google Play API for Rust
 - [EFForg/tokio-dl-stream-to-disk](https://github.com/EFForg/tokio-dl-stream-to-disk) topic: pushed_at:2024-07 star:0.0k fork:0.0k A micro-library for downloading from a URL and streaming it directly to the disk
 
@@ -178,7 +178,7 @@
 
 ## Shell
 
-- [EFForg/badger-swarm](https://github.com/EFForg/badger-swarm) topic: pushed_at:2025-01 star:0.0k fork:0.0k Runs distributed Badger Sett scans on Digital Ocean.
+- [EFForg/badger-swarm](https://github.com/EFForg/badger-swarm) topic: pushed_at:2025-04 star:0.0k fork:0.0k Runs distributed Badger Sett scans on Digital Ocean.
 - [EFForg/duraconf](https://github.com/EFForg/duraconf) topic: pushed_at:2020-06 star:0.0k fork:0.0k duraconf - A collection of hardened configuration files for SSL/TLS services
 - [EFForg/roaming-android-mitm](https://github.com/EFForg/roaming-android-mitm) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
 
