@@ -33,7 +33,7 @@
 
 ## CSS
 
-- [apachecn/.github](https://github.com/apachecn/.github) topic:dl,ml,python,pytorch,solidity,spark pushed_at:2024-08 star:1.7k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
+- [apachecn/.github](https://github.com/apachecn/.github) topic:dl,ml,python,pytorch,solidity,spark pushed_at:2024-08 star:1.8k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [apachecn/airflow-doc-zh](https://github.com/apachecn/airflow-doc-zh) topic:airflow pushed_at:2023-07 star:0.2k fork:0.1k :book: [译] Airflow 中文文档
 - [apachecn/android-app-sec-guidebook-zh](https://github.com/apachecn/android-app-sec-guidebook-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/business-5min-notes](https://github.com/apachecn/business-5min-notes) topic:business,liurun,notes pushed_at:2021-01 star:0.1k fork:0.0k :book: 5 分钟商学院精细笔记
@@ -67,7 +67,7 @@
 - [apachecn/pandas-cookbook-code-notes](https://github.com/apachecn/pandas-cookbook-code-notes) topic:code,data-analysis,notes,pandas,python pushed_at:2021-01 star:0.1k fork:0.0k :book: Pandas Cookbook 带注释源码
 - [apachecn/principles-zh](https://github.com/apachecn/principles-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :book: 原则 · 中文版
 - [apachecn/pyda-2e-zh](https://github.com/apachecn/pyda-2e-zh) topic:book,data-analysis,numpy,pandas,pyda,python pushed_at:2021-01 star:1.1k fork:0.3k :book:  [译] 利用 Python 进行数据分析 · 第 2 版
-- [apachecn/quant-learning](https://github.com/apachecn/quant-learning) topic: pushed_at:2024-01 star:0.3k fork:0.1k :books: Quant 教程整理
+- [apachecn/quant-learning](https://github.com/apachecn/quant-learning) topic: pushed_at:2024-01 star:0.4k fork:0.1k :books: Quant 教程整理
 - [apachecn/scapy-docs-zh](https://github.com/apachecn/scapy-docs-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/scipycon-2018-sklearn-tut-zh](https://github.com/apachecn/scipycon-2018-sklearn-tut-zh) topic:machine-learning,python,scikit-learn,scipy2018,tutorial pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] SciPyCon 2018 Sklearn 教程
 - [apachecn/sicp-py-zh](https://github.com/apachecn/sicp-py-zh) topic:cs61a,lecture-notes,python,sicp,ucb pushed_at:2021-01 star:0.1k fork:0.0k :book: [译] UCB CS61a SICP Python 描述 中文版
@@ -440,7 +440,7 @@
 - [apachecn/pythonlibrary-blog-zh](https://github.com/apachecn/pythonlibrary-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/pythonspot-zh](https://github.com/apachecn/pythonspot-zh) topic: pushed_at:2022-07 star:0.1k fork:0.0k :books: [译] PythonSpot 中文系列教程
 - [apachecn/quantinsti-blog-zh](https://github.com/apachecn/quantinsti-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Quantinsti 博客中文翻译
-- [apachecn/rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) topic: pushed_at:2024-11 star:1.1k fork:0.2k 
+- [apachecn/rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) topic: pushed_at:2024-11 star:1.2k fork:0.2k 
 - [apachecn/RateMySupervisor-1](https://github.com/apachecn/RateMySupervisor-1) topic: pushed_at:2022-04 star:0.0k fork:0.0k 永久免费开源的导师评价数据、数据爬虫、无需编程基础的展示网页以及新信息补充平台
 - [apachecn/re4e-zh](https://github.com/apachecn/re4e-zh) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [apachecn/realpython-zh](https://github.com/apachecn/realpython-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -924,7 +924,7 @@
 - [apachecn/linuxKernelRoot](https://github.com/apachecn/linuxKernelRoot) topic: pushed_at:2022-01 star:0.0k fork:0.0k 新一代root，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，挑战全网root检测手段，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
 - [apachecn/lottie-ios](https://github.com/apachecn/lottie-ios) topic: pushed_at:2023-06 star:0.0k fork:0.0k An iOS library to natively render After Effects vector animations
 - [apachecn/LoveIt](https://github.com/apachecn/LoveIt) topic: pushed_at:2020-03 star:0.0k fork:0.0k 🚀A clean, elegant but advanced blog theme for Hugo
-- [apachecn/loving-books](https://github.com/apachecn/loving-books) topic: pushed_at:2022-04 star:0.1k fork:0.0k :books: 恋爱指南
+- [apachecn/loving-books](https://github.com/apachecn/loving-books) topic: pushed_at:2022-04 star:0.2k fork:0.0k :books: 恋爱指南
 - [apachecn/loving-books-part2](https://github.com/apachecn/loving-books-part2) topic: pushed_at:2022-10 star:0.0k fork:0.0k 恋爱指南2
 - [apachecn/loving-books-part3](https://github.com/apachecn/loving-books-part3) topic: pushed_at:2023-04 star:0.0k fork:0.0k 恋爱资料库（三）
 - [apachecn/luajava](https://github.com/apachecn/luajava) topic: pushed_at:2020-06 star:0.0k fork:0.0k LuaJava is a scripting tool for Java. The goal of this tool is to allow scripts written in Lua to manipulate components developed in Java. LuaJava allows Java components to be accessed from Lua using the same syntax that is used for accessing Lua`s native objects, without any need for declarations or any kind of preprocessing.  LuaJava also allows Java to implement an interface using Lua. This way any interface can be implemented in Lua and passed as parameter to any method, and when called, the equivalent function will be called in Lua, and it's result passed back to Java.
@@ -1196,7 +1196,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.6k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.7k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库

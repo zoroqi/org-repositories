@@ -30,7 +30,7 @@
 ## C
 
 - [ARM-software/AArch64cryptolib](https://github.com/ARM-software/AArch64cryptolib) topic: pushed_at:2023-03 star:0.0k fork:0.0k AArch64cryptolib is a from scratch implementation of cryptographic primitives aiming for optimal performance on Arm A-class cores
-- [ARM-software/ACI-GetStarted](https://github.com/ARM-software/ACI-GetStarted) topic: pushed_at:2025-03 star:0.0k fork:0.0k ACI-GetStarted
+- [ARM-software/ACI-GetStarted](https://github.com/ARM-software/ACI-GetStarted) topic: pushed_at:2025-04 star:0.0k fork:0.0k ACI-GetStarted
 - [ARM-software/Arm-2D](https://github.com/ARM-software/Arm-2D) topic: pushed_at:2025-04 star:0.3k fork:0.1k 2D Graphic Library optimized for Cortex-M processors
 - [ARM-software/arm-enterprise-acs](https://github.com/ARM-software/arm-enterprise-acs) topic: pushed_at:2022-06 star:0.0k fork:0.0k ARM Enterprise ACS
 - [ARM-software/arm-performance-studio-integration-for-godot](https://github.com/ARM-software/arm-performance-studio-integration-for-godot) topic: pushed_at:2025-03 star:0.0k fork:0.0k Arm Performance Studio integration with GDScript scripting for the Godot game engine
@@ -60,7 +60,7 @@
 - [ARM-software/CMSIS-TFM](https://github.com/ARM-software/CMSIS-TFM) topic: pushed_at:2020-06 star:0.0k fork:0.0k Downstream Repository of CMSIS Software Packs for Trusted Firmware-M (TF-M).
 - [ARM-software/CMSIS_4](https://github.com/ARM-software/CMSIS_4) topic: pushed_at:2018-10 star:0.5k fork:0.4k Cortex Microcontroller Software Interface Standard (V4 no longer maintained)
 - [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) topic: pushed_at:2024-09 star:1.4k fork:1.1k CMSIS Version 5 Development Repository
-- [ARM-software/CMSIS_6](https://github.com/ARM-software/CMSIS_6) topic: pushed_at:2025-04 star:0.2k fork:0.1k CMSIS version 6 (successor of CMSIS_5)
+- [ARM-software/CMSIS_6](https://github.com/ARM-software/CMSIS_6) topic: pushed_at:2025-04 star:0.3k fork:0.1k CMSIS version 6 (successor of CMSIS_5)
 - [ARM-software/Cortex_DFP](https://github.com/ARM-software/Cortex_DFP) topic: pushed_at:2025-02 star:0.0k fork:0.0k CMSIS generic Arm Cortex-M device family pack
 - [ARM-software/CPA](https://github.com/ARM-software/CPA) topic: pushed_at:2017-11 star:0.0k fork:0.0k Contiguous page allocator project
 - [ARM-software/cryptocell-312-runtime](https://github.com/ARM-software/cryptocell-312-runtime) topic: pushed_at:2021-02 star:0.0k fork:0.0k CryptoCell 312 runtime code
@@ -79,7 +79,7 @@
 - [ARM-software/m0n0-library-and-examples](https://github.com/ARM-software/m0n0-library-and-examples) topic: pushed_at:2020-04 star:0.0k fork:0.0k 
 - [ARM-software/mbed-beetle](https://github.com/ARM-software/mbed-beetle) topic: pushed_at:2016-06 star:0.0k fork:0.0k mbed libraries and tools (Classic). For mbed OS, look here: https://www.mbed.com/en/development/software/mbed-os/
 - [ARM-software/MCU-demo-for-AVS](https://github.com/ARM-software/MCU-demo-for-AVS) topic:alexa,arm,aws,cortex-m,voice pushed_at:2021-02 star:0.0k fork:0.0k Example implementation of the Alexa Voice Service Integration for AWS IoT Core for Arm Cortex-M series processors.
-- [ARM-software/MDK-Middleware](https://github.com/ARM-software/MDK-Middleware) topic: pushed_at:2025-03 star:0.1k fork:0.0k MDK-Middleware (file system, network and USB components) source code for Arm Cortex-M using CMSIS-Drivers and CMSIS-RTOS2 APIs.
+- [ARM-software/MDK-Middleware](https://github.com/ARM-software/MDK-Middleware) topic: pushed_at:2025-04 star:0.1k fork:0.0k MDK-Middleware (file system, network and USB components) source code for Arm Cortex-M using CMSIS-Drivers and CMSIS-RTOS2 APIs.
 - [ARM-software/meabo](https://github.com/ARM-software/meabo) topic: pushed_at:2018-04 star:0.0k fork:0.0k Multi-purpose multi-phase micro-benchmark
 - [ARM-software/ML-KWS-for-MCU](https://github.com/ARM-software/ML-KWS-for-MCU) topic:arm,cmsis-nn,deep-neural-networks,machine-learning,microcontrollers,python pushed_at:2019-04 star:1.2k fork:0.4k Keyword spotting on Arm Cortex-M Microcontrollers
 - [ARM-software/NXP_LPC](https://github.com/ARM-software/NXP_LPC) topic: pushed_at:2021-12 star:0.0k fork:0.0k CMSIS Driver Implementations for the NXP LPC Microcontroller Series
@@ -109,14 +109,14 @@
 ## C++
 
 - [ARM-software/android-nn-driver](https://github.com/ARM-software/android-nn-driver) topic: pushed_at:2025-02 star:0.2k fork:0.1k 
-- [ARM-software/armnn](https://github.com/ARM-software/armnn) topic:machine-learning,neural-network,neural-networks pushed_at:2025-04 star:1.2k fork:0.3k Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
+- [ARM-software/armnn](https://github.com/ARM-software/armnn) topic:machine-learning,neural-network,neural-networks pushed_at:2025-04 star:1.3k fork:0.3k Arm NN ML Software. The code here is a read-only mirror of https://review.mlplatform.org/admin/repos/ml/armnn
 - [ARM-software/armnn-mlperf](https://github.com/ARM-software/armnn-mlperf) topic: pushed_at:2022-01 star:0.0k fork:0.0k Arm mlperf.org benchmark port
 - [ARM-software/ATP-Engine](https://github.com/ARM-software/ATP-Engine) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [ARM-software/AVH-MLOps](https://github.com/ARM-software/AVH-MLOps) topic: pushed_at:2025-03 star:0.0k fork:0.0k Template repository for setting up MLOps components using AVH_FVP models and cmsis-toolbox in a Docker Container
 - [ARM-software/BarrierPoint](https://github.com/ARM-software/BarrierPoint) topic: pushed_at:2020-05 star:0.0k fork:0.0k 
 - [ARM-software/caiman](https://github.com/ARM-software/caiman) topic: pushed_at:2024-10 star:0.0k fork:0.0k Sources for Arm Streamline's caiman daemon
 - [ARM-software/CMSIS-CV](https://github.com/ARM-software/CMSIS-CV) topic: pushed_at:2025-01 star:0.1k fork:0.0k Computer Vision library for IoT
-- [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) topic:aarch64,android,arm,armv7,armv8,computer-vision,cpp,linux,machine-learning,neon,neural-network,opencl,simd,sve pushed_at:2025-04 star:2.9k fork:0.8k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
+- [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) topic:aarch64,android,arm,armv7,armv8,computer-vision,cpp,linux,machine-learning,neon,neural-network,opencl,simd,sve pushed_at:2025-04 star:3.0k fork:0.8k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [ARM-software/connectedhomeip](https://github.com/ARM-software/connectedhomeip) topic: pushed_at:2023-12 star:0.0k fork:0.0k Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).
 - [ARM-software/developer](https://github.com/ARM-software/developer) topic: pushed_at:2023-04 star:0.1k fork:0.0k GTM related documentation
 - [ARM-software/devtools](https://github.com/ARM-software/devtools) topic: pushed_at:2025-04 star:0.0k fork:0.0k Open-CMSIS-Pack development tools - C++ 
@@ -241,14 +241,14 @@
 - [ARM-software/CMSIS-Stream](https://github.com/ARM-software/CMSIS-Stream) topic:arm,cortex-m,dataflow,dsp,embedded,ml,streaming pushed_at:2025-04 star:0.0k fork:0.0k CMSIS-Stream software component
 - [ARM-software/core-benchmarks](https://github.com/ARM-software/core-benchmarks) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
 - [ARM-software/daq-server](https://github.com/ARM-software/daq-server) topic: pushed_at:2021-10 star:0.0k fork:0.0k Server for remote access to National Instruments DAQ devices
-- [ARM-software/devlib](https://github.com/ARM-software/devlib) topic: pushed_at:2025-03 star:0.0k fork:0.1k Library for interaction with and instrumentation of remote devices.
+- [ARM-software/devlib](https://github.com/ARM-software/devlib) topic: pushed_at:2025-04 star:0.0k fork:0.1k Library for interaction with and instrumentation of remote devices.
 - [ARM-software/labgrid](https://github.com/ARM-software/labgrid) topic: pushed_at:2025-04 star:0.0k fork:0.0k Embedded systems control library for development, testing and installation
 - [ARM-software/ML-restructurable-activation-networks](https://github.com/ARM-software/ML-restructurable-activation-networks) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [ARM-software/ML-zoo](https://github.com/ARM-software/ML-zoo) topic: pushed_at:2023-03 star:0.2k fork:0.1k 
 - [ARM-software/mram_simulation_framework](https://github.com/ARM-software/mram_simulation_framework) topic:fokker-planck,llgs,mram,mtj,simulation,sllgs pushed_at:2022-11 star:0.0k fork:0.0k MRAM magnetization simulation framework. s-LLGS python and verilog-a solvers for transients simulation and  Fokker-planck equation solver for stochastic analysis
 - [ARM-software/perfsage](https://github.com/ARM-software/perfsage) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
 - [ARM-software/sbmr-acs](https://github.com/ARM-software/sbmr-acs) topic: pushed_at:2024-12 star:0.0k fork:0.0k Arm SBMR Architecture Compliance Suite
-- [ARM-software/SCALE-Sim](https://github.com/ARM-software/SCALE-Sim) topic: pushed_at:2023-05 star:0.4k fork:0.2k 
+- [ARM-software/SCALE-Sim](https://github.com/ARM-software/SCALE-Sim) topic: pushed_at:2023-05 star:0.3k fork:0.2k 
 - [ARM-software/scalpel](https://github.com/ARM-software/scalpel) topic: pushed_at:2018-11 star:0.0k fork:0.0k This is a PyTorch implementation of the Scalpel. Node pruning for five benchmark networks and SIMD-aware weight pruning for LeNet-300-100 and LeNet-5 is included.
 - [ARM-software/sesr](https://github.com/ARM-software/sesr) topic: pushed_at:2022-03 star:0.1k fork:0.0k Super-Efficient Super Resolution
 - [ARM-software/Tool-Solutions](https://github.com/ARM-software/Tool-Solutions) topic: pushed_at:2025-04 star:0.3k fork:0.1k Tutorials & examples for Arm software development tools.
