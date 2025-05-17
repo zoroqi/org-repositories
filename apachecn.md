@@ -440,7 +440,7 @@
 - [apachecn/pythonlibrary-blog-zh](https://github.com/apachecn/pythonlibrary-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/pythonspot-zh](https://github.com/apachecn/pythonspot-zh) topic: pushed_at:2022-07 star:0.1k fork:0.0k :books: [译] PythonSpot 中文系列教程
 - [apachecn/quantinsti-blog-zh](https://github.com/apachecn/quantinsti-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Quantinsti 博客中文翻译
-- [apachecn/rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) topic: pushed_at:2024-11 star:1.2k fork:0.2k 
+- [apachecn/rate-my-supervisor](https://github.com/apachecn/rate-my-supervisor) topic: pushed_at:2025-05 star:1.2k fork:0.2k 
 - [apachecn/RateMySupervisor-1](https://github.com/apachecn/RateMySupervisor-1) topic: pushed_at:2022-04 star:0.0k fork:0.0k 永久免费开源的导师评价数据、数据爬虫、无需编程基础的展示网页以及新信息补充平台
 - [apachecn/re4e-zh](https://github.com/apachecn/re4e-zh) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
 - [apachecn/realpython-zh](https://github.com/apachecn/realpython-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -710,7 +710,7 @@
 - [apachecn/embedded-notes](https://github.com/apachecn/embedded-notes) topic: pushed_at:2021-04 star:0.0k fork:0.0k 嵌入式linux软件开发、嵌入式linux驱动开发、c语言、单片机开发、IOT开发等面试要点记录
 - [apachecn/EmojiPackage](https://github.com/apachecn/EmojiPackage) topic: pushed_at:2019-03 star:0.0k fork:0.0k A rich emoji package resources
 - [apachecn/English](https://github.com/apachecn/English) topic: pushed_at:2021-09 star:0.0k fork:0.0k English - World Travel
-- [apachecn/English1](https://github.com/apachecn/English1) topic: pushed_at:2021-09 star:0.0k fork:0.0k 英语学习资料汇总 part1
+- [apachecn/English1](https://github.com/apachecn/English1) topic: pushed_at:2021-09 star:0.1k fork:0.0k 英语学习资料汇总 part1
 - [apachecn/English10](https://github.com/apachecn/English10) topic: pushed_at:2022-10 star:0.0k fork:0.0k 英语资料库（十）
 - [apachecn/English11](https://github.com/apachecn/English11) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [apachecn/English12](https://github.com/apachecn/English12) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
@@ -785,7 +785,7 @@
 - [apachecn/hooks](https://github.com/apachecn/hooks) topic: pushed_at:2023-03 star:0.0k fork:0.0k A high-quality & reliable React Hooks library.
 - [apachecn/HOW2J-tuts](https://github.com/apachecn/HOW2J-tuts) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [apachecn/huazhang-ai-book](https://github.com/apachecn/huazhang-ai-book) topic: pushed_at:2023-01 star:0.0k fork:0.0k :books: 华章智能科学技术丛书
-- [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.6k fork:0.3k :books: 华章计算机科学丛书高清扫描
+- [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.7k fork:0.3k :books: 华章计算机科学丛书高清扫描
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) topic: pushed_at:2023-02 star:0.1k fork:0.0k :book: 华章经管丛书高清扫描
 - [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.4k fork:0.1k :books: 华章数学丛书高清扫描
 - [apachecn/huggingface-doc-zh](https://github.com/apachecn/huggingface-doc-zh) topic: pushed_at:2024-07 star:0.0k fork:0.0k Hugging Face - 文档库(中文版)
@@ -851,7 +851,7 @@
 - [apachecn/it-ebooks-2021-part1](https://github.com/apachecn/it-ebooks-2021-part1) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
 - [apachecn/it-ebooks-2021-part2](https://github.com/apachecn/it-ebooks-2021-part2) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
 - [apachecn/it-ebooks-blog](https://github.com/apachecn/it-ebooks-blog) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
-- [apachecn/ituring-cs-book](https://github.com/apachecn/ituring-cs-book) topic: pushed_at:2023-02 star:0.0k fork:0.0k :books: 图灵计算机科学丛书
+- [apachecn/ituring-cs-book](https://github.com/apachecn/ituring-cs-book) topic: pushed_at:2023-02 star:0.1k fork:0.0k :books: 图灵计算机科学丛书
 - [apachecn/ituring-math-stat-book](https://github.com/apachecn/ituring-math-stat-book) topic: pushed_at:2023-02 star:0.0k fork:0.0k :books: 图灵数学统计学丛书
 - [apachecn/jaeger-all-in-one](https://github.com/apachecn/jaeger-all-in-one) topic: pushed_at:2023-01 star:0.0k fork:0.0k Jaeger tracing all-in-one service for development purposes
 - [apachecn/Japanese](https://github.com/apachecn/Japanese) topic: pushed_at:2021-09 star:0.0k fork:0.0k 日语学习资料汇总
@@ -1196,7 +1196,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.7k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.8k fork:11.6k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
