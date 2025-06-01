@@ -22,7 +22,7 @@
 
 - [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) topic: pushed_at:2024-03 star:0.4k fork:0.1k RISC-V cryptography extensions standardisation work.
 - [riscv/riscv-test-env](https://github.com/riscv/riscv-test-env) topic: pushed_at:2025-05 star:0.0k fork:0.1k 
-- [riscv/sail-riscv](https://github.com/riscv/sail-riscv) topic: pushed_at:2025-05 star:0.5k fork:0.2k Sail RISC-V model
+- [riscv/sail-riscv](https://github.com/riscv/sail-riscv) topic: pushed_at:2025-05 star:0.6k fork:0.2k Sail RISC-V model
 
 ## HTML
 
@@ -93,7 +93,7 @@
 - [riscv/riscv-spmp](https://github.com/riscv/riscv-spmp) topic: pushed_at:2025-05 star:0.0k fork:0.0k The repo contains the SPMP architectural specification, which includes capabilities like access control of read/write/execute requests by an hart, address matching, encoding of permissions, exceptions for access violation, and support for virtualization.
 - [riscv/riscv-ssrastraps](https://github.com/riscv/riscv-ssrastraps) topic: pushed_at:2022-10 star:0.0k fork:0.0k The RAS exception and interrupts extension (Ssrastraps) defines standard local interrupt numbers and exception-cause codes for reporting errors detected by RAS functions in the system.
 - [riscv/riscv-worlds](https://github.com/riscv/riscv-worlds) topic: pushed_at:2025-05 star:0.0k fork:0.0k WorldGuard (WG) provides isolation in a hardware platform by constraining access to system physical addresses.
-- [riscv/sig-functional-safety-whitepaper](https://github.com/riscv/sig-functional-safety-whitepaper) topic: pushed_at:2025-04 star:0.0k fork:0.0k GitHub repository for the Functional Safety SIG Whitepaper Development
+- [riscv/sig-functional-safety-whitepaper](https://github.com/riscv/sig-functional-safety-whitepaper) topic: pushed_at:2025-05 star:0.0k fork:0.0k GitHub repository for the Functional Safety SIG Whitepaper Development
 
 
 ## License

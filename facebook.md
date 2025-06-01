@@ -6,7 +6,7 @@
 
 ## Contents(149)
 
-- [C](#c) (8)
+- [C](#c) (9)
 - [C#](#c#) (1)
 - [C++](#c++) (30)
 - [CSS](#css) (1)
@@ -20,7 +20,7 @@
 - [OCaml](#ocaml) (3)
 - [Objective-C](#objective-c) (1)
 - [Objective-C++](#objective-c++) (2)
-- [Others](#others) (13)
+- [Others](#others) (12)
 - [PHP](#php) (6)
 - [Python](#python) (12)
 - [Ruby](#ruby) (9)
@@ -33,12 +33,13 @@
 
 - [facebook/bpfilter](https://github.com/facebook/bpfilter) topic: pushed_at:2025-05 star:0.2k fork:0.0k BPF-based packet filtering framework
 - [facebook/fishhook](https://github.com/facebook/fishhook) topic: pushed_at:2024-08 star:5.3k fork:1.0k A library that enables dynamically rebinding symbols in Mach-O binaries running on iOS.
-- [facebook/netconsd](https://github.com/facebook/netconsd) topic: pushed_at:2025-02 star:0.1k fork:0.0k Receive and process logs from the Linux kernel.
+- [facebook/jemalloc](https://github.com/facebook/jemalloc) topic: pushed_at:2025-05 star:0.0k fork:0.0k Meta fork of the OG Jemalloc project
+- [facebook/netconsd](https://github.com/facebook/netconsd) topic: pushed_at:2025-05 star:0.1k fork:0.0k Receive and process logs from the Linux kernel.
 - [facebook/OpenBIC](https://github.com/facebook/OpenBIC) topic: pushed_at:2025-05 star:0.1k fork:0.1k BICs (Bridge IC) are standalone devices deployed within a Data Center that enable monitoring a multi-host system using a single BMC device.
 - [facebook/openbmc](https://github.com/facebook/openbmc) topic: pushed_at:2025-05 star:0.6k fork:0.3k OpenBMC is an open software framework to build a complete Linux image for a Board Management Controller (BMC).
-- [facebook/openbmc-linux](https://github.com/facebook/openbmc-linux) topic: pushed_at:2025-04 star:0.0k fork:0.0k Linux kernel consumed by OpenBMC
+- [facebook/openbmc-linux](https://github.com/facebook/openbmc-linux) topic: pushed_at:2025-05 star:0.0k fork:0.0k Linux kernel consumed by OpenBMC
 - [facebook/tac_plus](https://github.com/facebook/tac_plus) topic: pushed_at:2024-11 star:0.2k fork:0.1k A Tacacs+ Daemon tested on Linux (CentOS) to run AAA via TACACS+ Protocol via IPv4 and IPv6.
-- [facebook/zstd](https://github.com/facebook/zstd) topic: pushed_at:2025-05 star:24.9k fork:2.2k Zstandard - Fast real-time compression algorithm
+- [facebook/zstd](https://github.com/facebook/zstd) topic: pushed_at:2025-05 star:25.0k fork:2.3k Zstandard - Fast real-time compression algorithm
 
 ## C#
 
@@ -49,7 +50,7 @@
 - [facebook/CacheLib](https://github.com/facebook/CacheLib) topic:cache,cache-engine,concurrency,cpp,performance,ssd pushed_at:2025-05 star:1.3k fork:0.3k Pluggable in-process caching engine to build and scale high performance services
 - [facebook/fatal](https://github.com/facebook/fatal) topic: pushed_at:2025-05 star:1.0k fork:0.2k Fatal is a library for fast prototyping software in modern C++. It provides facilities to enhance the expressive power of C++. The library is heavily based on template meta-programming, while keeping the complexity under-the-hood.
 - [facebook/fb303](https://github.com/facebook/fb303) topic: pushed_at:2025-05 star:0.1k fork:0.1k fb303 is a core set of thrift functions that provide a common mechanism for querying stats and other information from a service.
-- [facebook/fboss](https://github.com/facebook/fboss) topic: pushed_at:2025-05 star:0.9k fork:0.3k Facebook Open Switching System  Software for controlling network switches.
+- [facebook/fboss](https://github.com/facebook/fboss) topic: pushed_at:2025-06 star:0.9k fork:0.3k Facebook Open Switching System  Software for controlling network switches.
 - [facebook/fbthrift](https://github.com/facebook/fbthrift) topic: pushed_at:2025-05 star:2.6k fork:0.6k Facebook's branch of Apache Thrift, including a new C++ server.
 - [facebook/folly](https://github.com/facebook/folly) topic: pushed_at:2025-05 star:29.4k fork:5.7k An open-source C++ library developed and used at Facebook.
 - [facebook/gfxreconstruct](https://github.com/facebook/gfxreconstruct) topic: pushed_at:2025-04 star:0.0k fork:0.0k Graphics API Capture and Replay Tools for Reconstructing Graphics Application Behavior
@@ -65,9 +66,9 @@
 - [facebook/openr](https://github.com/facebook/openr) topic: pushed_at:2025-05 star:0.9k fork:0.2k Distributed platform for building autonomic network functions.
 - [facebook/proxygen](https://github.com/facebook/proxygen) topic: pushed_at:2025-05 star:8.2k fork:1.5k A collection of C++ HTTP libraries including an easy to use HTTP server.
 - [facebook/pyre2](https://github.com/facebook/pyre2) topic: pushed_at:2023-11 star:0.6k fork:0.2k Python wrapper for RE2
-- [facebook/react-native](https://github.com/facebook/react-native) topic:android,app-framework,cross-platform,ios,mobile,mobile-development,react,react-native pushed_at:2025-05 star:122.0k fork:24.7k A framework for building native applications using React
-- [facebook/redex](https://github.com/facebook/redex) topic: pushed_at:2025-05 star:6.1k fork:0.7k A bytecode optimizer for Android apps
-- [facebook/rocksdb](https://github.com/facebook/rocksdb) topic:database,storage-engine pushed_at:2025-05 star:29.7k fork:6.5k A library that provides an embeddable, persistent key-value store for fast storage.
+- [facebook/react-native](https://github.com/facebook/react-native) topic:android,app-framework,cross-platform,ios,mobile,mobile-development,react,react-native pushed_at:2025-05 star:122.5k fork:24.7k A framework for building native applications using React
+- [facebook/redex](https://github.com/facebook/redex) topic: pushed_at:2025-05 star:6.2k fork:0.7k A bytecode optimizer for Android apps
+- [facebook/rocksdb](https://github.com/facebook/rocksdb) topic:database,storage-engine pushed_at:2025-05 star:29.8k fork:6.5k A library that provides an embeddable, persistent key-value store for fast storage.
 - [facebook/SPARTA](https://github.com/facebook/SPARTA) topic: pushed_at:2025-05 star:0.7k fork:0.0k SPARTA is a library of software components specially designed for building high-performance static analyzers based on the theory of Abstract Interpretation.
 - [facebook/squangle](https://github.com/facebook/squangle) topic: pushed_at:2025-05 star:0.1k fork:0.1k SQuangLe is a C++ API for accessing MySQL servers
 - [facebook/ThreatExchange](https://github.com/facebook/ThreatExchange) topic:hashing,image,image-hashing,image-similarity,ncmec,perceptual-hashing,stopncii,threatexchange,video,video-hashing,video-similarity pushed_at:2025-05 star:1.2k fork:0.3k Trust & Safety tools for working together to fight digital harms. 
@@ -75,7 +76,7 @@
 - [facebook/wangle](https://github.com/facebook/wangle) topic: pushed_at:2025-05 star:3.1k fork:0.5k Wangle is a framework providing a set of common client/server abstractions for building services in a consistent, modular, and composable way.
 - [facebook/watchman](https://github.com/facebook/watchman) topic: pushed_at:2025-05 star:13.1k fork:1.0k Watches files and records, or triggers actions, when they change. 
 - [facebook/wdt](https://github.com/facebook/wdt) topic: pushed_at:2025-04 star:2.9k fork:0.4k Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths.
-- [facebook/yoga](https://github.com/facebook/yoga) topic: pushed_at:2025-05 star:17.7k fork:1.5k Yoga is an embeddable layout engine targeting web standards.
+- [facebook/yoga](https://github.com/facebook/yoga) topic: pushed_at:2025-05 star:17.8k fork:1.5k Yoga is an embeddable layout engine targeting web standards.
 
 ## CSS
 
@@ -108,11 +109,11 @@
 - [facebook/screenshot-tests-for-android](https://github.com/facebook/screenshot-tests-for-android) topic: pushed_at:2025-05 star:1.7k fork:0.2k Generate fast deterministic screenshots during Android instrumentation tests
 - [facebook/SoLoader](https://github.com/facebook/SoLoader) topic: pushed_at:2025-05 star:1.4k fork:0.2k Native code loader for Android
 - [facebook/stetho](https://github.com/facebook/stetho) topic: pushed_at:2024-10 star:12.7k fork:1.1k Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more.
-- [facebook/TextLayoutBuilder](https://github.com/facebook/TextLayoutBuilder) topic: pushed_at:2024-12 star:1.5k fork:0.1k An Android library that allows you to build text layouts more easily.
+- [facebook/TextLayoutBuilder](https://github.com/facebook/TextLayoutBuilder) topic: pushed_at:2025-05 star:1.5k fork:0.1k An Android library that allows you to build text layouts more easily.
 
 ## JavaScript
 
-- [facebook/create-react-app](https://github.com/facebook/create-react-app) topic:build-tools,react,zero-configuration pushed_at:2025-02 star:103.2k fork:27.0k Set up a modern web app by running one command.
+- [facebook/create-react-app](https://github.com/facebook/create-react-app) topic:build-tools,react,zero-configuration pushed_at:2025-02 star:103.3k fork:27.0k Set up a modern web app by running one command.
 - [facebook/facebook-nodejs-business-sdk](https://github.com/facebook/facebook-nodejs-business-sdk) topic: pushed_at:2025-05 star:0.5k fork:0.2k Node.js SDK for Meta Marketing APIs
 - [facebook/fbjs](https://github.com/facebook/fbjs) topic: pushed_at:2024-06 star:2.0k fork:0.3k A collection of utility libraries used by other Meta JS projects.
 - [facebook/fbt](https://github.com/facebook/fbt) topic:framework,i18n,internationalization,javascript pushed_at:2024-11 star:3.9k fork:0.2k A JavaScript Internationalization Framework
@@ -123,7 +124,7 @@
 - [facebook/OSM-HOT-Tasking-Manager](https://github.com/facebook/OSM-HOT-Tasking-Manager) topic: pushed_at:2025-01 star:0.0k fork:0.0k A fork of the HOTOSM Tasking Manager (tasks.hotosm.org) to deploy and test experimental integrations and features.
 - [facebook/prop-types](https://github.com/facebook/prop-types) topic: pushed_at:2024-05 star:4.5k fork:0.4k Runtime type checking for React props and similar objects
 - [facebook/Rapid](https://github.com/facebook/Rapid) topic: pushed_at:2025-04 star:0.6k fork:0.1k The OpenStreetMap editor driven by open data, AI, and supercharged features
-- [facebook/react](https://github.com/facebook/react) topic:declarative,frontend,javascript,library,react,ui pushed_at:2025-05 star:235.5k fork:48.5k The library for web and native user interfaces.
+- [facebook/react](https://github.com/facebook/react) topic:declarative,frontend,javascript,library,react,ui pushed_at:2025-05 star:235.9k fork:48.6k The library for web and native user interfaces.
 - [facebook/react-native-deprecated-modules](https://github.com/facebook/react-native-deprecated-modules) topic: pushed_at:2024-05 star:0.1k fork:0.0k Deprecated modules that were formerly part of React Native.
 - [facebook/react-strict-dom](https://github.com/facebook/react-strict-dom) topic: pushed_at:2025-05 star:3.3k fork:0.2k React Strict DOM (RSD) standardizes the development of styled React components for web and native.
 - [facebook/regenerator](https://github.com/facebook/regenerator) topic: pushed_at:2024-02 star:3.8k fork:1.2k Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
@@ -136,7 +137,7 @@
 
 ## Kotlin
 
-- [facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) topic: pushed_at:2025-04 star:6.2k fork:3.7k Used to integrate Android apps with Facebook Platform.
+- [facebook/facebook-android-sdk](https://github.com/facebook/facebook-android-sdk) topic: pushed_at:2025-05 star:6.2k fork:3.7k Used to integrate Android apps with Facebook Platform.
 - [facebook/ktfmt](https://github.com/facebook/ktfmt) topic: pushed_at:2025-05 star:1.0k fork:0.1k A program that reformats Kotlin source code to comply with the common community standard for Kotlin code conventions.
 - [facebook/litho](https://github.com/facebook/litho) topic: pushed_at:2025-05 star:7.7k fork:0.8k A declarative framework for building efficient UIs on Android.
 
@@ -144,11 +145,11 @@
 
 - [facebook/flow](https://github.com/facebook/flow) topic: pushed_at:2025-05 star:22.2k fork:1.9k Adds static typing to JavaScript to improve developer productivity and code quality.
 - [facebook/infer](https://github.com/facebook/infer) topic:c,code-quality,cpp,java,objective-c,static-analysis,static-code-analysis pushed_at:2025-05 star:15.2k fork:2.0k A static analyzer for Java, C, C++, and Objective-C
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) topic:abstract-interpretation,code-quality,control-flow-analysis,ocaml,program-analysis,python,security,static-analysis,taint-analysis,type-check,typechecker pushed_at:2025-05 star:7.0k fork:0.4k Performant type-checking for python.
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) topic:abstract-interpretation,code-quality,control-flow-analysis,ocaml,program-analysis,python,security,static-analysis,taint-analysis,type-check,typechecker pushed_at:2025-05 star:7.0k fork:0.5k Performant type-checking for python.
 
 ## Objective-C
 
-- [facebook/idb](https://github.com/facebook/idb) topic: pushed_at:2025-04 star:4.7k fork:0.4k idb is a flexible command line interface for automating iOS simulators and devices
+- [facebook/idb](https://github.com/facebook/idb) topic: pushed_at:2025-05 star:4.7k fork:0.4k idb is a flexible command line interface for automating iOS simulators and devices
 
 ## Objective-C++
 
@@ -161,7 +162,6 @@
 - [facebook/Conversion-Leads-Salesforce-APEX](https://github.com/facebook/Conversion-Leads-Salesforce-APEX) topic: pushed_at:2023-03 star:0.0k fork:0.0k Setup Conversion Leads API integration using Salesforce APEX triggers on Lead objects
 - [facebook/glXF](https://github.com/facebook/glXF) topic: pushed_at:2024-06 star:0.0k fork:0.0k glTF Experience Format (glXF)
 - [facebook/install-dotslash](https://github.com/facebook/install-dotslash) topic: pushed_at:2025-01 star:0.0k fork:0.0k A simple GitHub Action to install a precompiled dotslash binary
-- [facebook/jemalloc](https://github.com/facebook/jemalloc) topic: pushed_at:2025-05 star:0.0k fork:0.0k Meta fork of the OG Jemalloc project
 - [facebook/messaging_schemas](https://github.com/facebook/messaging_schemas) topic: pushed_at:2024-08 star:0.0k fork:0.0k This repo contains the Protocol Buffer schemas used for Meta's end-to-end encryption (E2EE) backend storage Encrypted Backups (EB). This can be used to deserialize the decrypted plaintext of the messaging data (or to serialize data).
 - [facebook/openbmc-uboot](https://github.com/facebook/openbmc-uboot) topic: pushed_at:2025-05 star:0.0k fork:0.0k Tracking Denx Das u-boot with various trusted computing add-ons.
 - [facebook/pyre-action](https://github.com/facebook/pyre-action) topic: pushed_at:2024-04 star:0.0k fork:0.0k GitHub Action for Pyre
@@ -189,7 +189,7 @@
 - [facebook/FAI-PEP](https://github.com/facebook/FAI-PEP) topic: pushed_at:2025-05 star:0.4k fork:0.1k Facebook AI Performance Evaluation Platform
 - [facebook/ocaml-scripts](https://github.com/facebook/ocaml-scripts) topic: pushed_at:2024-10 star:0.0k fork:0.0k Set of scripts to help building OCaml projects using buck2.
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) topic: pushed_at:2024-09 star:5.2k fork:0.3k PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
-- [facebook/prophet](https://github.com/facebook/prophet) topic:forecasting,python,r pushed_at:2025-05 star:19.2k fork:4.6k Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+- [facebook/prophet](https://github.com/facebook/prophet) topic:forecasting,python,r pushed_at:2025-05 star:19.3k fork:4.6k Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
 - [facebook/sapp](https://github.com/facebook/sapp) topic: pushed_at:2025-05 star:0.1k fork:0.0k Post Processor for Facebook Static Analysis Tools.
 - [facebook/TestSlide](https://github.com/facebook/TestSlide) topic: pushed_at:2025-01 star:0.1k fork:0.1k A Python test framework
 - [facebook/threat-research](https://github.com/facebook/threat-research) topic: pushed_at:2025-02 star:0.2k fork:0.0k Welcome to the Meta Threat Research Indicator Repository, a dedicated resource for the sharing of Indicators of Compromise (IOCs) and other threat indicators with the external research community
@@ -197,32 +197,32 @@
 
 ## Ruby
 
-- [facebook/between-meals](https://github.com/facebook/between-meals) topic: pushed_at:2024-03 star:0.1k fork:0.0k A library to provide calculations between Chef diffs.
+- [facebook/between-meals](https://github.com/facebook/between-meals) topic: pushed_at:2025-05 star:0.1k fork:0.0k A library to provide calculations between Chef diffs.
 - [facebook/bookworm](https://github.com/facebook/bookworm) topic: pushed_at:2025-03 star:0.0k fork:0.0k Bookworm is a program that gleans context from a Chef/Ruby codebase leveraging RuboCop AST pattern matching
 - [facebook/chef-cookbooks](https://github.com/facebook/chef-cookbooks) topic: pushed_at:2025-05 star:0.6k fork:0.1k Open source chef cookbooks.
-- [facebook/chef-utils](https://github.com/facebook/chef-utils) topic: pushed_at:2025-04 star:0.3k fork:0.1k Utilities related to Chef
+- [facebook/chef-utils](https://github.com/facebook/chef-utils) topic: pushed_at:2025-05 star:0.3k fork:0.1k Utilities related to Chef
 - [facebook/facebook-ruby-business-sdk](https://github.com/facebook/facebook-ruby-business-sdk) topic: pushed_at:2025-05 star:0.2k fork:0.2k Ruby SDK for Meta Marketing API
-- [facebook/grocery-delivery](https://github.com/facebook/grocery-delivery) topic: pushed_at:2024-06 star:0.2k fork:0.1k The Grocery Delivery utility for managing cookbook uploads to distributed Chef backends.
+- [facebook/grocery-delivery](https://github.com/facebook/grocery-delivery) topic: pushed_at:2025-05 star:0.2k fork:0.1k The Grocery Delivery utility for managing cookbook uploads to distributed Chef backends.
 - [facebook/homebrew-fb](https://github.com/facebook/homebrew-fb) topic: pushed_at:2024-03 star:0.1k fork:0.2k OS X Homebrew formulas to install Meta open source software
 - [facebook/IT-CPE](https://github.com/facebook/IT-CPE) topic: pushed_at:2025-05 star:0.6k fork:0.1k Meta's Client Platform Engineering tools. Some of the tools we have written to help manage our fleet of client systems. 
-- [facebook/taste-tester](https://github.com/facebook/taste-tester) topic: pushed_at:2024-11 star:0.1k fork:0.1k Software to manage a chef-zero instance and use it to test changes on production servers.
+- [facebook/taste-tester](https://github.com/facebook/taste-tester) topic: pushed_at:2025-05 star:0.1k fork:0.1k Software to manage a chef-zero instance and use it to test changes on production servers.
 
 ## Rust
 
-- [facebook/akd](https://github.com/facebook/akd) topic: pushed_at:2024-11 star:0.3k fork:0.0k An implementation of an auditable key directory
-- [facebook/buck2](https://github.com/facebook/buck2) topic: pushed_at:2025-05 star:3.8k fork:0.3k Build system, successor to Buck
+- [facebook/akd](https://github.com/facebook/akd) topic: pushed_at:2025-05 star:0.3k fork:0.0k An implementation of an auditable key directory
+- [facebook/buck2](https://github.com/facebook/buck2) topic: pushed_at:2025-06 star:3.9k fork:0.3k Build system, successor to Buck
 - [facebook/dotslash](https://github.com/facebook/dotslash) topic: pushed_at:2025-05 star:0.7k fork:0.0k Simplified executable deployment
 - [facebook/errpy](https://github.com/facebook/errpy) topic: pushed_at:2025-01 star:0.1k fork:0.0k An Error-Recovering Parser for Python
 - [facebook/ocamlrep](https://github.com/facebook/ocamlrep) topic: pushed_at:2025-05 star:0.1k fork:0.0k Sets of libraries and tools to write applications and libraries mixing OCaml and Rust. These libraries will help keeping your types and data structures synchronized, and enable seamless exchange between OCaml and Rust
 - [facebook/opaque-ke](https://github.com/facebook/opaque-ke) topic: pushed_at:2025-05 star:0.3k fork:0.0k An implementation of the OPAQUE password-authenticated key exchange protocol
 - [facebook/oram](https://github.com/facebook/oram) topic: pushed_at:2025-02 star:0.0k fork:0.0k An implementation of Oblivious RAM
 - [facebook/pake-kem](https://github.com/facebook/pake-kem) topic: pushed_at:2025-04 star:0.0k fork:0.0k An implementation of a PAKE based on a KEM
-- [facebook/pyrefly](https://github.com/facebook/pyrefly) topic: pushed_at:2025-05 star:0.8k fork:0.0k A fast type checker and IDE for Python
+- [facebook/pyrefly](https://github.com/facebook/pyrefly) topic:code-quality,ide,language,language-server,lsp,python,rust,type-check,type-checker,typecheck,typechecker,types,typing pushed_at:2025-05 star:2.6k fork:0.1k A fast type checker and IDE for Python
 - [facebook/relay](https://github.com/facebook/relay) topic: pushed_at:2025-05 star:18.6k fork:1.9k Relay is a JavaScript framework for building data-driven React applications.
 - [facebook/sapling](https://github.com/facebook/sapling) topic: pushed_at:2025-05 star:6.4k fork:0.3k A Scalable, User-Friendly Source Control System.
 - [facebook/starlark-rust](https://github.com/facebook/starlark-rust) topic: pushed_at:2025-05 star:0.8k fork:0.1k A Rust implementation of the Starlark language
 - [facebook/voprf](https://github.com/facebook/voprf) topic: pushed_at:2025-05 star:0.1k fork:0.0k An implementation of a verifiable oblivious pseudorandom function (RFC 9497)
-- [facebook/winterfell](https://github.com/facebook/winterfell) topic: pushed_at:2025-03 star:0.8k fork:0.2k A STARK prover and verifier for arbitrary computations
+- [facebook/winterfell](https://github.com/facebook/winterfell) topic: pushed_at:2025-05 star:0.9k fork:0.2k A STARK prover and verifier for arbitrary computations
 
 ## Starlark
 
@@ -235,10 +235,10 @@
 
 ## TypeScript
 
-- [facebook/docusaurus](https://github.com/facebook/docusaurus) topic:documentation,hacktoberfest,javascript,open-source,react,website pushed_at:2025-05 star:59.9k fork:9.1k Easy to maintain open source documentation websites.
+- [facebook/docusaurus](https://github.com/facebook/docusaurus) topic:documentation,hacktoberfest,javascript,open-source,react,website pushed_at:2025-05 star:60.1k fork:9.1k Easy to maintain open source documentation websites.
 - [facebook/flipper](https://github.com/facebook/flipper) topic: pushed_at:2024-11 star:13.4k fork:1.0k A desktop debugging platform for mobile developers.
 - [facebook/hyperion](https://github.com/facebook/hyperion) topic: pushed_at:2025-05 star:0.0k fork:0.0k This project enabled intercepting and virtualizing the browser API
-- [facebook/lexical](https://github.com/facebook/lexical) topic: pushed_at:2025-05 star:21.2k fork:1.9k Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
+- [facebook/lexical](https://github.com/facebook/lexical) topic: pushed_at:2025-05 star:21.3k fork:1.9k Lexical is an extensible text editor framework that provides excellent reliability, accessibility and performance.
 - [facebook/react-native-cdp-status](https://github.com/facebook/react-native-cdp-status) topic:cdp,devtools,react-native pushed_at:2025-02 star:0.0k fork:0.0k Tracks the status of the CDP implementation in Hermes and React Native projects.
 - [facebook/react-native-devtools-frontend](https://github.com/facebook/react-native-devtools-frontend) topic: pushed_at:2025-05 star:0.0k fork:0.0k The Chrome DevTools UI, customized for React Native
 - [facebook/react-native-website](https://github.com/facebook/react-native-website) topic:docusaurus,react,react-native pushed_at:2025-05 star:2.0k fork:4.8k The React Native website and docs

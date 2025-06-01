@@ -62,7 +62,7 @@
 - [pingcap/dm](https://github.com/pingcap/dm) topic:hacktoberfest pushed_at:2022-05 star:0.5k fork:0.2k Data Migration Platform
 - [pingcap/dumpling](https://github.com/pingcap/dumpling) topic:backup,csv,dump,go,hacktoberfest,library,mysql,mysqldump,sql,sql-dump,tidb pushed_at:2023-02 star:0.3k fork:0.1k Dumpling is a fast, easy-to-use tool written by Go for dumping data from the database(MySQL, TiDB...) to local/cloud(S3, GCP...) in multifarious formats(SQL, CSV...).
 - [pingcap/errcode](https://github.com/pingcap/errcode) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
-- [pingcap/errors](https://github.com/pingcap/errors) topic: pushed_at:2025-03 star:0.0k fork:0.0k Simple error handling primitives
+- [pingcap/errors](https://github.com/pingcap/errors) topic: pushed_at:2025-05 star:0.0k fork:0.0k Simple error handling primitives
 - [pingcap/etcdv3-gateway](https://github.com/pingcap/etcdv3-gateway) topic: pushed_at:2016-03 star:0.0k fork:0.0k Gateway for etcdv3
 - [pingcap/failpoint](https://github.com/pingcap/failpoint) topic:failpoint,failure-injection,fault-injection,golang pushed_at:2024-05 star:0.8k fork:0.1k An implementation of failpoints for Golang.
 - [pingcap/fn](https://github.com/pingcap/fn) topic:http-api,json-api pushed_at:2023-08 star:0.0k fork:0.0k 
@@ -88,7 +88,7 @@
 - [pingcap/public_bi_benchmark](https://github.com/pingcap/public_bi_benchmark) topic: pushed_at:2022-04 star:0.0k fork:0.0k BI benchmark with user generated data and queries
 - [pingcap/sysutil](https://github.com/pingcap/sysutil) topic: pushed_at:2025-04 star:0.0k fork:0.0k sysutil is a library which implementats the gRPC service Diagnostics and shares the diagnostics functions between TiDB and PD.
 - [pingcap/ticdc](https://github.com/pingcap/ticdc) topic: pushed_at:2025-05 star:0.0k fork:0.0k TiCDC pulls change logs out of TiDB and pushes to kinds of systems.
-- [pingcap/tidb](https://github.com/pingcap/tidb) topic:cloud-native,database,distributed-database,distributed-transactions,go,hacktoberfest,htap,mysql,mysql-compatibility,scale,serverless,sql,tidb pushed_at:2025-05 star:38.4k fork:5.9k TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
+- [pingcap/tidb](https://github.com/pingcap/tidb) topic:cloud-native,database,distributed-database,distributed-transactions,go,hacktoberfest,htap,mysql,mysql-compatibility,scale,serverless,sql,tidb pushed_at:2025-06 star:38.5k fork:5.9k TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
 - [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) topic: pushed_at:2025-04 star:0.3k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
 - [pingcap/tidb-cloud-backup](https://github.com/pingcap/tidb-cloud-backup) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
 - [pingcap/tidb-ctl](https://github.com/pingcap/tidb-ctl) topic: pushed_at:2025-04 star:0.0k fork:0.0k TiDB Controller
@@ -137,7 +137,7 @@
 
 ## Others
 
-- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) topic:awesome,awesome-list,blogs,books,course,database,papers pushed_at:2024-08 star:10.0k fork:1.1k A list of learning materials to understand databases internals
+- [pingcap/awesome-database-learning](https://github.com/pingcap/awesome-database-learning) topic:awesome,awesome-list,blogs,books,course,database,papers pushed_at:2024-08 star:10.1k fork:1.1k A list of learning materials to understand databases internals
 - [pingcap/balsa](https://github.com/pingcap/balsa) topic: pushed_at:2022-06 star:0.0k fork:0.0k Balsa is a learned SQL query optimizer. It tailor optimizes your SQL queries to find the best execution plans for your hardware and engine.
 - [pingcap/blog-jp](https://github.com/pingcap/blog-jp) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
 - [pingcap/community](https://github.com/pingcap/community) topic: pushed_at:2025-05 star:0.3k fork:0.2k TiDB community content
@@ -157,7 +157,7 @@
 ## PHP
 
 - [pingcap/tidb-examples](https://github.com/pingcap/tidb-examples) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
-- [pingcap/wordpress-tidb-plugin](https://github.com/pingcap/wordpress-tidb-plugin) topic: pushed_at:2024-02 star:0.0k fork:0.0k 
+- [pingcap/wordpress-tidb-plugin](https://github.com/pingcap/wordpress-tidb-plugin) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 
 ## Protocol Buffer
 
@@ -175,7 +175,7 @@
 - [pingcap/docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator) topic:hacktoberfest,tidb-in-kubernetes,tidb-operator,tidb-operator-documentation pushed_at:2025-05 star:0.1k fork:0.1k Documentation for TiDB on Kubernetes. TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at : https://www.pingcap.com/tidb-serverless/
 - [pingcap/education](https://github.com/pingcap/education) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [pingcap/oasis](https://github.com/pingcap/oasis) topic: pushed_at:2018-05 star:0.0k fork:0.0k 
-- [pingcap/pytidb](https://github.com/pingcap/pytidb) topic:ai,embeddings,fulltext-search,hybrid-search,similarity-search,sql,tidb,vector-search pushed_at:2025-05 star:0.0k fork:0.0k TiDB client library for Python developers
+- [pingcap/pytidb](https://github.com/pingcap/pytidb) topic:ai,embeddings,fulltext-search,hybrid-search,similarity-search,sql,tidb,vector-search pushed_at:2025-05 star:0.0k fork:0.0k AI Python SDK for TiDB: The Unified Data Platform for AI Applications
 - [pingcap/sqlalchemy-tidb](https://github.com/pingcap/sqlalchemy-tidb) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
 - [pingcap/thirdparty-ops](https://github.com/pingcap/thirdparty-ops) topic: pushed_at:2019-10 star:0.0k fork:0.0k This repo is used for the operation and maintenance of third party tools.
 - [pingcap/tidb-ansible](https://github.com/pingcap/tidb-ansible) topic: pushed_at:2021-06 star:0.3k fork:0.3k 
@@ -205,7 +205,7 @@
 
 ## Scala
 
-- [pingcap/tispark](https://github.com/pingcap/tispark) topic:bigdata,spark,tidb,tikv pushed_at:2025-04 star:0.9k fork:0.2k TiSpark is built for running Apache Spark on top of TiDB/TiKV
+- [pingcap/tispark](https://github.com/pingcap/tispark) topic:bigdata,spark,tidb,tikv pushed_at:2025-04 star:0.9k fork:0.3k TiSpark is built for running Apache Spark on top of TiDB/TiKV
 
 ## Shell
 

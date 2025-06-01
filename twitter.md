@@ -36,7 +36,7 @@
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) topic: pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
 - [twitter/pelikan](https://github.com/twitter/pelikan) topic: pushed_at:2023-10 star:1.9k fork:0.2k Pelikan is Twitter's unified cache backend
 - [twitter/twemcache](https://github.com/twitter/twemcache) topic: pushed_at:2021-11 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) topic: pushed_at:2024-03 star:12.2k fork:2.1k A fast, light-weight proxy for memcached and redis
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) topic: pushed_at:2024-03 star:12.3k fork:2.0k A fast, light-weight proxy for memcached and redis
 
 ## C++
 
@@ -54,7 +54,7 @@
 - [twitter/effectivescala](https://github.com/twitter/effectivescala) topic: pushed_at:2023-04 star:2.2k fork:0.6k Twitter's Effective Scala Guide
 - [twitter/interactive](https://github.com/twitter/interactive) topic: pushed_at:2021-11 star:0.2k fork:0.1k Twitter interactive visualization
 - [twitter/scala_school](https://github.com/twitter/scala_school) topic: pushed_at:2023-04 star:3.7k fork:1.1k Lessons in the Fundamentals of Scala
-- [twitter/twemoji](https://github.com/twitter/twemoji) topic:emoji,twemoji pushed_at:2024-08 star:17.0k fork:1.9k Emoji for everyone. https://twemoji.twitter.com/
+- [twitter/twemoji](https://github.com/twitter/twemoji) topic:emoji,twemoji pushed_at:2024-08 star:17.1k fork:1.9k Emoji for everyone. https://twemoji.twitter.com/
 - [twitter/twitter-text](https://github.com/twitter/twitter-text) topic:emoji,java,nodejs,objective-c,ruby,tweet,twitter,twitter-text,unicode pushed_at:2024-04 star:3.1k fork:0.5k Twitter Text Libraries. This code is used at Twitter to tokenize and parse text to meet the expectations for what can be used on the platform.
 - [twitter/twitter.github.io](https://github.com/twitter/twitter.github.io) topic: pushed_at:2021-10 star:0.1k fork:0.0k 
 
@@ -118,7 +118,7 @@
 - [twitter/diffusion-rl](https://github.com/twitter/diffusion-rl) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [twitter/gatekeeper-service](https://github.com/twitter/gatekeeper-service) topic: pushed_at:2023-02 star:0.0k fork:0.0k GateKeeper is a service built to automate the manual steps involved in onboarding, offboarding, and lost asset scenarios.
 - [twitter/pants](https://github.com/twitter/pants) topic: pushed_at:2023-08 star:0.1k fork:0.0k Pants Build System
-- [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) topic: pushed_at:2024-07 star:10.2k fork:2.2k Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) topic: pushed_at:2024-07 star:10.3k fork:2.2k Source code for Twitter's Recommendation Algorithm
 - [twitter/zktraffic](https://github.com/twitter/zktraffic) topic: pushed_at:2023-04 star:0.2k fork:0.1k ZooKeeper protocol analyzer and stats gathering daemon
 
 ## R

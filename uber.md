@@ -39,23 +39,23 @@
 ## C++
 
 - [uber/libphutil](https://github.com/uber/libphutil) topic: pushed_at:2025-05 star:0.0k fork:0.0k A collection of PHP utility classes
-- [uber/nanoscope-art](https://github.com/uber/nanoscope-art) topic: pushed_at:2023-05 star:0.0k fork:0.0k 
+- [uber/nanoscope-art](https://github.com/uber/nanoscope-art) topic: pushed_at:2023-05 star:0.1k fork:0.0k 
 - [uber/neuropod](https://github.com/uber/neuropod) topic:deep-learning,deeplearning,incubation,inference,keras,machine-learning,machinelearning,pytorch,tensorflow pushed_at:2024-01 star:0.9k fork:0.1k A uniform interface to run deep learning models from multiple frameworks
 - [uber/percona-server](https://github.com/uber/percona-server) topic: pushed_at:2017-06 star:0.0k fork:0.0k Percona Server
 
 ## Go
 
 - [uber/arachne](https://github.com/uber/arachne) topic:arachne,cloud,data-center,latency,monitoring,network-monitoring,networking,packet-loss,reachability,reliability pushed_at:2024-04 star:0.4k fork:0.0k An always-on framework that performs end-to-end functional network testing for reachability, latency, and packet loss
-- [uber/aresdb](https://github.com/uber/aresdb) topic:analytics,cgo,cuda,data,database,golang,gpu-programming,query,real-time,storage pushed_at:2024-07 star:3.0k fork:0.2k A GPU-powered real-time analytics storage and query engine. 
+- [uber/aresdb](https://github.com/uber/aresdb) topic:analytics,cgo,cuda,data,database,golang,gpu-programming,query,real-time,storage pushed_at:2024-07 star:3.1k fork:0.2k A GPU-powered real-time analytics storage and query engine. 
 - [uber/assume-role-cli](https://github.com/uber/assume-role-cli) topic: pushed_at:2023-03 star:0.0k fork:0.0k CLI for AssumeRole is a tool for running programs with temporary credentials from AWS's AssumeRole API.
 - [uber/astro](https://github.com/uber/astro) topic: pushed_at:2023-03 star:0.4k fork:0.0k Astro is a tool for managing multiple Terraform executions as a single command
-- [uber/athenadriver](https://github.com/uber/athenadriver) topic:atg,athena,aws,database,driver,go,golang,hiveql,prestosql,s3,sandbox,sql,uber pushed_at:2025-01 star:0.2k fork:0.0k A fully-featured AWS Athena database driver (+ athenareader https://github.com/uber/athenadriver/tree/master/athenareader)
+- [uber/athenadriver](https://github.com/uber/athenadriver) topic:atg,athena,aws,database,driver,go,golang,hiveql,prestosql,s3,sandbox,sql,uber pushed_at:2025-06 star:0.2k fork:0.0k A fully-featured AWS Athena database driver (+ athenareader https://github.com/uber/athenadriver/tree/master/athenareader)
 - [uber/cadvisor](https://github.com/uber/cadvisor) topic: pushed_at:2023-06 star:0.0k fork:0.0k Analyzes resource usage and performance characteristics of running containers.
 - [uber/go-vertex-ai](https://github.com/uber/go-vertex-ai) topic: pushed_at:2025-04 star:0.0k fork:0.0k A go implementation of the Google VertexAI API
 - [uber/gonduit](https://github.com/uber/gonduit) topic: pushed_at:2021-06 star:0.0k fork:0.0k A Go package for connecting to Phabricator via the Conduit API.
 - [uber/gqlgen](https://github.com/uber/gqlgen) topic: pushed_at:2024-12 star:0.0k fork:0.0k Uber fork:  go generate based graphql server library
 - [uber/h3-go](https://github.com/uber/h3-go) topic:geospatial,go,golang,h3,hexagon,spatial-indexing,uber pushed_at:2025-03 star:0.3k fork:0.1k Go bindings for H3, a hierarchical hexagonal geospatial indexing system
-- [uber/kraken](https://github.com/uber/kraken) topic:bittorrent,container,containerd,docker,docker-image,docker-registry,p2p pushed_at:2025-05 star:6.3k fork:0.4k P2P Docker registry capable of distributing TBs of data in seconds
+- [uber/kraken](https://github.com/uber/kraken) topic:bittorrent,container,containerd,docker,docker-image,docker-registry,p2p pushed_at:2025-05 star:6.4k fork:0.4k P2P Docker registry capable of distributing TBs of data in seconds
 - [uber/kubernetes](https://github.com/uber/kubernetes) topic: pushed_at:2023-11 star:0.0k fork:0.0k Uber downstream fork of Kubernetes - for contribution use only
 - [uber/kubernetes-enhancements](https://github.com/uber/kubernetes-enhancements) topic: pushed_at:2023-04 star:0.0k fork:0.0k Uber Fork of kubernetes-enhancements - for contribution use only
 - [uber/kubernetes-scheduler-plugins](https://github.com/uber/kubernetes-scheduler-plugins) topic: pushed_at:2024-10 star:0.0k fork:0.0k Uber fork of: Kubernetes out-of-tree scheduler plugins based on scheduler framework.
@@ -86,9 +86,9 @@
 - [uber/AutoDispose](https://github.com/uber/AutoDispose) topic:android,autodispose,kotlin,lifecycle,reactive-extensions,reactive-streams,rxandroid,rxjava,uber pushed_at:2024-07 star:3.4k fork:0.2k Automatic binding+disposal of RxJava streams.
 - [uber/concurrency-loadbalancer](https://github.com/uber/concurrency-loadbalancer) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [uber/dynamodb-cross-region-library](https://github.com/uber/dynamodb-cross-region-library) topic: pushed_at:2023-03 star:0.0k fork:0.0k A library to facilitate cross-region replication with Amazon DynamoDB Streams.
-- [uber/h3-java](https://github.com/uber/h3-java) topic:geospatial,h3,hexagon,java,spatial-indexing,uber pushed_at:2025-04 star:0.3k fork:0.1k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
+- [uber/h3-java](https://github.com/uber/h3-java) topic:geospatial,h3,hexagon,java,spatial-indexing,uber pushed_at:2025-05 star:0.3k fork:0.1k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/marmaray](https://github.com/uber/marmaray) topic:avro-schema,data-lake,hadoop,ingest-data,schema-format,spark pushed_at:2023-03 star:0.5k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
-- [uber/NullAway](https://github.com/uber/NullAway) topic:android,java,nullability,nullability-analysis,static-analysis,static-code-analysis pushed_at:2025-05 star:3.7k fork:0.3k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
+- [uber/NullAway](https://github.com/uber/NullAway) topic:android,java,nullability,nullability-analysis,static-analysis,static-code-analysis pushed_at:2025-05 star:3.8k fork:0.3k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [uber/okbuck](https://github.com/uber/okbuck) topic:android,buck,gradle,gradle-plugin,watchman pushed_at:2025-05 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
 - [uber/RemoteShuffleService](https://github.com/uber/RemoteShuffleService) topic: pushed_at:2023-09 star:0.3k fork:0.1k Remote shuffle service for Apache Spark to store shuffle data on remote servers. 
 - [uber/rides-android-sdk](https://github.com/uber/rides-android-sdk) topic: pushed_at:2025-01 star:0.3k fork:0.1k Uber Rides Android SDK (beta)
@@ -99,7 +99,7 @@
 - [uber/tchannel-java](https://github.com/uber/tchannel-java) topic: pushed_at:2023-03 star:0.1k fork:0.1k A Java implementation of the TChannel protocol.
 - [uber/uber-graph-benchmark](https://github.com/uber/uber-graph-benchmark) topic:benchmark-framework,graph-database pushed_at:2019-01 star:0.0k fork:0.0k A framework to benchmark different graph databases, based on generated data from customizable schema, distribution, and size.
 - [uber/uberscriptquery](https://github.com/uber/uberscriptquery) topic:spark,uber pushed_at:2023-12 star:0.1k fork:0.0k UberScriptQuery, a SQL-like DSL to make writing Spark jobs super easy
-- [uber/uForwarder](https://github.com/uber/uForwarder) topic: pushed_at:2025-03 star:0.0k fork:0.0k Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
+- [uber/uForwarder](https://github.com/uber/uForwarder) topic: pushed_at:2025-03 star:0.1k fork:0.0k Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
 - [uber/uReplicator](https://github.com/uber/uReplicator) topic: pushed_at:2023-12 star:0.9k fork:0.2k Improvement of Apache Kafka Mirrormaker
 
 ## JavaScript
@@ -222,7 +222,7 @@
 
 ## Rust
 
-- [uber/piranha](https://github.com/uber/piranha) topic:ast,ast-matcher,clang-plugin,code-management,code-quality,deadcode,feature-flags,feature-toggles,java,javascript,objective-c,refactoring,refactoring-tools,stale-flags,swift,swift-syntax pushed_at:2025-02 star:2.3k fork:0.2k A tool for refactoring code related to feature flag APIs
+- [uber/piranha](https://github.com/uber/piranha) topic:ast,ast-matcher,clang-plugin,code-management,code-quality,deadcode,feature-flags,feature-toggles,java,javascript,objective-c,refactoring,refactoring-tools,stale-flags,swift,swift-syntax pushed_at:2025-05 star:2.3k fork:0.2k A tool for refactoring code related to feature flag APIs
 
 ## Scala
 
