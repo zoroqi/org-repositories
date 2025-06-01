@@ -10,11 +10,11 @@
 - [C++](#c++) (1)
 - [HTML](#html) (3)
 - [Java](#java) (14)
-- [JavaScript](#javascript) (3)
+- [JavaScript](#javascript) (2)
 - [Others](#others) (10)
 - [Shell](#shell) (1)
 - [Smarty](#smarty) (1)
-- [TypeScript](#typescript) (10)
+- [TypeScript](#typescript) (11)
 
 ## C
 
@@ -49,7 +49,6 @@
 
 ## JavaScript
 
-- [eclipse/editdor](https://github.com/eclipse/editdor) topic:iot,jsonld,web,webofthings pushed_at:2025-05 star:0.0k fork:0.0k Eclipse ediTDor - A tool for simply designing W3C Thing Descriptions
 - [eclipse/jdtc](https://github.com/eclipse/jdtc) topic: pushed_at:2009-02 star:0.0k fork:0.0k A compiler for the Eclipse batch compiler
 - [eclipse/manifest](https://github.com/eclipse/manifest) topic: pushed_at:2010-04 star:0.0k fork:0.0k Manifest is a library to read Manifest files located in jars and OSGi bundles.  
 
@@ -86,6 +85,7 @@
 - [eclipse/che-theia-machines-plugin](https://github.com/eclipse/che-theia-machines-plugin) topic: pushed_at:2019-01 star:0.0k fork:0.0k 
 - [eclipse/che-theia-task-plugin](https://github.com/eclipse/che-theia-task-plugin) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
 - [eclipse/che-theia-terminal-extension](https://github.com/eclipse/che-theia-terminal-extension) topic: pushed_at:2019-01 star:0.0k fork:0.0k che-theia-terminal-plugin
+- [eclipse/editdor](https://github.com/eclipse/editdor) topic:iot,jsonld,web,webofthings pushed_at:2025-05 star:0.0k fork:0.0k Eclipse ediTDor - A tool for simply designing W3C Thing Descriptions
 
 
 ## License

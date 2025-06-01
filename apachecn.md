@@ -871,7 +871,7 @@
 - [apachecn/JAVA](https://github.com/apachecn/JAVA) topic: pushed_at:2022-05 star:0.0k fork:0.0k 存放JAVA开发的设计思想、算法：《剑指Offer》、《编程珠玑》、《深入理解Java虚拟机：JVM高级特性与最佳实践》、《重构-改善既有代码的设计 中文版》、《clean_code(中文完整版)》、《Java编程思想(第4版)》、《Java核心技术 卷I (第8版)》、《Quartz_Job+Scheduling_Framework》；一些大的上传不上来的文件在README
 - [apachecn/JavaFamily](https://github.com/apachecn/JavaFamily) topic: pushed_at:2022-03 star:0.0k fork:0.0k 【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。
 - [apachecn/javascript-questions](https://github.com/apachecn/javascript-questions) topic: pushed_at:2022-07 star:0.0k fork:0.0k A long list of (advanced) JavaScript questions, and their explanations :sparkles:  
-- [apachecn/JavaScript-The-Definitive-Guide-7th-zh](https://github.com/apachecn/JavaScript-The-Definitive-Guide-7th-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k 《JavaScript权威指南第七版》中文翻译
+- [apachecn/JavaScript-The-Definitive-Guide-7th-zh](https://github.com/apachecn/JavaScript-The-Definitive-Guide-7th-zh) topic: pushed_at:2020-09 star:0.1k fork:0.1k 《JavaScript权威指南第七版》中文翻译
 - [apachecn/jd_maotai_seckill](https://github.com/apachecn/jd_maotai_seckill) topic: pushed_at:2021-12 star:0.0k fork:0.0k 优化版本的京东茅台抢购神器
 - [apachecn/jd_seckill](https://github.com/apachecn/jd_seckill) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
 - [apachecn/jeepay](https://github.com/apachecn/jeepay) topic: pushed_at:2023-03 star:0.0k fork:0.0k Jeepay是一套适合互联网企业使用的开源支付系统，支持多渠道服务商和普通商户模式。已对接微信支付，支付宝，云闪付官方接口，支持聚合码支付。
@@ -1035,7 +1035,7 @@
 - [apachecn/scripts](https://github.com/apachecn/scripts) topic: pushed_at:2022-01 star:0.0k fork:0.0k jd https://t.me/+fo3HSUe3nbRiNjY1
 - [apachecn/scripts-1](https://github.com/apachecn/scripts-1) topic: pushed_at:2021-12 star:0.0k fork:0.0k Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
 - [apachecn/scys1](https://github.com/apachecn/scys1) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:1.2k fork:0.5k :books: 网安类绝版图书
+- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:1.3k fork:0.5k :books: 网安类绝版图书
 - [apachecn/sec-books-part2](https://github.com/apachecn/sec-books-part2) topic: pushed_at:2023-01 star:0.1k fork:0.0k :books: 网安类绝版图书（二）
 - [apachecn/sec-gzh-2022](https://github.com/apachecn/sec-gzh-2022) topic: pushed_at:2023-04 star:0.0k fork:0.0k 网络安全类公众号离线备份
 - [apachecn/seebug-paper-2016-20xx](https://github.com/apachecn/seebug-paper-2016-20xx) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -1196,7 +1196,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.8k fork:11.6k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.9k fork:11.6k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
