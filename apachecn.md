@@ -352,7 +352,7 @@
 - [apachecn/ibooker-witchcraft-zh](https://github.com/apachecn/ibooker-witchcraft-zh) topic: pushed_at:2023-05 star:0.0k fork:0.0k 布客魔法译文集（一）
 - [apachecn/impatient-js-zh](https://github.com/apachecn/impatient-js-zh) topic: pushed_at:2022-08 star:0.3k fork:0.0k :book: [译] 写给不耐烦程序员的 JavaScript
 - [apachecn/indiehackers-blog-zh](https://github.com/apachecn/indiehackers-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
-- [apachecn/invent-with-python-zh](https://github.com/apachecn/invent-with-python-zh) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
+- [apachecn/invent-with-python-zh](https://github.com/apachecn/invent-with-python-zh) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [apachecn/it-ebooks-archive](https://github.com/apachecn/it-ebooks-archive) topic: pushed_at:2023-04 star:0.2k fork:0.0k :books: 计算机电子书归档
 - [apachecn/itnext-blog-zh](https://github.com/apachecn/itnext-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/java-code-anal](https://github.com/apachecn/java-code-anal) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
@@ -519,7 +519,7 @@
 
 ## Jupyter Notebook
 
-- [apachecn/Interview](https://github.com/apachecn/Interview) topic:interview,kaggle,leetcode,machine-learning,python pushed_at:2023-10 star:8.8k fork:2.2k Interview = 简历指南 + 算法题 + 八股文 + 源码分析
+- [apachecn/Interview](https://github.com/apachecn/Interview) topic:interview,kaggle,leetcode,machine-learning,python pushed_at:2023-10 star:8.9k fork:2.2k Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 - [apachecn/Multimodal-short-video-dataset-and-baseline-classification-model](https://github.com/apachecn/Multimodal-short-video-dataset-and-baseline-classification-model) topic: pushed_at:2019-07 star:0.0k fork:0.0k multimodal short video datasets and  classification model(based on TensorFlow2.0 本资源含有50多万条多模态短视频数据集和对应的分类模型，旨在打造多模态分类框架。
 
 ## Others
@@ -1196,7 +1196,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:40.9k fork:11.6k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:41.0k fork:11.6k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
@@ -1231,7 +1231,7 @@
 - [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) topic: pushed_at:2021-01 star:2.4k fork:0.5k ApacheCN AI 路线图（知识树）
 - [apachecn/awesome-article-recomm](https://github.com/apachecn/awesome-article-recomm) topic:ai,blogpost pushed_at:2020-09 star:0.1k fork:0.0k 优质博文推荐计划
 - [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh) topic: pushed_at:2020-09 star:0.8k fork:0.1k 计算机公开课推荐
-- [apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh) topic: pushed_at:2020-09 star:0.8k fork:0.1k 独立开发/自由职业/远程工作资源列表
+- [apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh) topic: pushed_at:2020-09 star:0.9k fork:0.1k 独立开发/自由职业/远程工作资源列表
 - [apachecn/dnmp](https://github.com/apachecn/dnmp) topic: pushed_at:2022-04 star:0.0k fork:0.0k Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
 - [apachecn/fuzzingbook-zh](https://github.com/apachecn/fuzzingbook-zh) topic: pushed_at:2021-01 star:0.0k fork:0.0k :book: [译] 生成软件测试
 - [apachecn/hardware-fix](https://github.com/apachecn/hardware-fix) topic: pushed_at:2022-12 star:0.1k fork:0.0k :books: 硬件维修维护教程
