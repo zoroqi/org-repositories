@@ -56,7 +56,7 @@
 
 ## HTML
 
-- [tuna/mirror-web](https://github.com/tuna/mirror-web) topic: pushed_at:2025-04 star:0.8k fork:0.3k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
+- [tuna/mirror-web](https://github.com/tuna/mirror-web) topic: pushed_at:2025-06 star:0.8k fork:0.3k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
 - [tuna/mirrorcon](https://github.com/tuna/mirrorcon) topic: pushed_at:2017-09 star:0.0k fork:0.0k Website of MirrorCon 2017
 - [tuna/registr-lite](https://github.com/tuna/registr-lite) topic: pushed_at:2020-09 star:0.0k fork:0.0k A lightweight registr with only a bare RESTful API.
 - [tuna/tuna.moe](https://github.com/tuna/tuna.moe) topic: pushed_at:2025-05 star:0.1k fork:0.0k Source code for https://tuna.moe
@@ -101,7 +101,7 @@
 - [tuna/gdanmaku-server](https://github.com/tuna/gdanmaku-server) topic: pushed_at:2023-05 star:0.1k fork:0.0k Web-based danmaku server
 - [tuna/ldaptuna](https://github.com/tuna/ldaptuna) topic: pushed_at:2014-10 star:0.0k fork:0.0k 
 - [tuna/loglyzer](https://github.com/tuna/loglyzer) topic: pushed_at:2014-12 star:0.0k fork:0.0k log analyzer for tuna mirrors
-- [tuna/mirrorz-help-ng](https://github.com/tuna/mirrorz-help-ng) topic: pushed_at:2025-05 star:0.0k fork:0.0k Generate help pages from mirrorz-org/mirrorz-docs
+- [tuna/mirrorz-help-ng](https://github.com/tuna/mirrorz-help-ng) topic: pushed_at:2025-06 star:0.0k fork:0.0k Generate help pages from mirrorz-org/mirrorz-docs
 - [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) topic: pushed_at:2021-07 star:0.5k fork:0.1k Keep calm and use TUNA mirrors.
 - [tuna/pdns-ldap](https://github.com/tuna/pdns-ldap) topic: pushed_at:2016-04 star:0.0k fork:0.0k 
 - [tuna/playbooks](https://github.com/tuna/playbooks) topic: pushed_at:2016-10 star:0.0k fork:0.0k 
@@ -122,7 +122,7 @@
 
 - [tuna/THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme) topic: pushed_at:2020-12 star:0.4k fork:0.1k A LaTeX beamer theme template for Tsinghua students.
 - [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) topic: pushed_at:2025-04 star:0.5k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
-- [tuna/thuthesis](https://github.com/tuna/thuthesis) topic:ctan,latex,latex-thesis-template,tex,thuthesis,tsinghua,tsinghua-university pushed_at:2025-05 star:4.9k fork:1.1k LaTeX Thesis Template for Tsinghua University
+- [tuna/thuthesis](https://github.com/tuna/thuthesis) topic:ctan,latex,latex-thesis-template,tex,thuthesis,tsinghua,tsinghua-university pushed_at:2025-06 star:4.9k fork:1.1k LaTeX Thesis Template for Tsinghua University
 
 ## TypeScript
 
