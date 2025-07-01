@@ -16,10 +16,10 @@
 - [HTML](#html) (2)
 - [Java](#java) (2)
 - [JavaScript](#javascript) (9)
-- [Jupyter Notebook](#jupyter-notebook) (8)
+- [Jupyter Notebook](#jupyter-notebook) (9)
 - [Others](#others) (5)
 - [PHP](#php) (1)
-- [Python](#python) (54)
+- [Python](#python) (53)
 - [TypeScript](#typescript) (7)
 
 ## BitBake
@@ -28,7 +28,7 @@
 
 ## C
 
-- [sony/nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) topic: pushed_at:2024-07 star:0.1k fork:0.0k Neural Network Libraries https://nnabla.org/ - C Runtime
+- [sony/nnabla-c-runtime](https://github.com/sony/nnabla-c-runtime) topic: pushed_at:2025-06 star:0.1k fork:0.0k Neural Network Libraries https://nnabla.org/ - C Runtime
 - [sony/openocd-nuttx](https://github.com/sony/openocd-nuttx) topic: pushed_at:2019-01 star:0.0k fork:0.0k Fork of OpenOCD with NuttX thread support.
 - [sony/pdaf-library](https://github.com/sony/pdaf-library) topic: pushed_at:2016-03 star:0.0k fork:0.0k 
 
@@ -37,7 +37,7 @@
 - [sony/easyhttpcpp](https://github.com/sony/easyhttpcpp) topic:cache,cpp,cross-platform,http,https,networking pushed_at:2022-01 star:0.2k fork:0.0k A cross-platform HTTP client library with a focus on usability and speed
 - [sony/flutter-elinux-plugins](https://github.com/sony/flutter-elinux-plugins) topic:embedded-linux,embedded-systems,flutter,flutter-plugin,linux,plugin pushed_at:2024-12 star:0.1k fork:0.0k Flutter plugins for embedded Linux (eLinux)
 - [sony/flutter-embedded-linux](https://github.com/sony/flutter-embedded-linux) topic:embedded-linux,embedded-systems,flutter,linux pushed_at:2025-06 star:1.3k fork:0.1k Embedded Linux embedding for Flutter
-- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) topic:cpp,cpp11,nmos,sdk pushed_at:2025-05 star:0.2k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
+- [sony/nmos-cpp](https://github.com/sony/nmos-cpp) topic:cpp,cpp11,nmos,sdk pushed_at:2025-06 star:0.2k fork:0.1k An NMOS (Networked Media Open Specifications) Registry and Node in C++ (IS-04, IS-05)
 - [sony/node-win-usbdev](https://github.com/sony/node-win-usbdev) topic: pushed_at:2018-02 star:0.0k fork:0.0k 
 - [sony/v8eval](https://github.com/sony/v8eval) topic:golang,python,ruby,v8 pushed_at:2020-12 star:0.4k fork:0.0k Multi-language bindings to JavaScript engine V8
 
@@ -47,7 +47,7 @@
 
 ## Cuda
 
-- [sony/nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) topic: pushed_at:2024-06 star:0.1k fork:0.0k A CUDA Extension of Neural Network Libraries
+- [sony/nnabla-ext-cuda](https://github.com/sony/nnabla-ext-cuda) topic: pushed_at:2025-06 star:0.1k fork:0.0k A CUDA Extension of Neural Network Libraries
 
 ## Dart
 
@@ -58,7 +58,7 @@
 - [sony/appsync-client-go](https://github.com/sony/appsync-client-go) topic:appsync,golang,graphql,graphql-client pushed_at:2025-04 star:0.1k fork:0.0k AWS AppSync golang client library
 - [sony/gobreaker](https://github.com/sony/gobreaker) topic:circuit-breaker,golang,microservice pushed_at:2025-06 star:3.2k fork:0.2k Circuit Breaker implemented in Go
 - [sony/micro-notifier](https://github.com/sony/micro-notifier) topic:golang,microservice,pusher,server,websocket pushed_at:2023-05 star:0.0k fork:0.0k Simplified Pusher Clone
-- [sony/sonyflake](https://github.com/sony/sonyflake) topic:golang,id-generator pushed_at:2025-05 star:4.1k fork:0.3k A distributed unique ID generator inspired by Twitter's Snowflake
+- [sony/sonyflake](https://github.com/sony/sonyflake) topic:golang,id-generator pushed_at:2025-06 star:4.2k fork:0.3k A distributed unique ID generator inspired by Twitter's Snowflake
 
 ## HTML
 
@@ -88,6 +88,7 @@
 - [sony/bl-flowsom_eval](https://github.com/sony/bl-flowsom_eval) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
 - [sony/DiffRoll](https://github.com/sony/DiffRoll) topic:automatic-music-transcription,deep-generative-model,diffusion,generative-model,inpainting,machine-learning,music-generation,pytorch pushed_at:2023-12 star:0.1k fork:0.0k PyTorch implementation of DiffRoll, a diffusion-based generative automatic music transcription (AMT) model
 - [sony/diffusion-timbre-transfer](https://github.com/sony/diffusion-timbre-transfer) topic: pushed_at:2024-11 star:0.0k fork:0.0k 
+- [sony/ds-research-code](https://github.com/sony/ds-research-code) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [sony/EXID](https://github.com/sony/EXID) topic: pushed_at:2025-02 star:0.0k fork:0.0k Official implementation of Enhancing Generalization of Offline RL in Data-Limited Settings with Heuristic Rules (Accepted in IEEE TRANSACTIONS ON ARTIFICIAL INTELLIGENCE 2025)
 - [sony/fp-diffusion](https://github.com/sony/fp-diffusion) topic: pushed_at:2024-02 star:0.0k fork:0.0k 
 - [sony/okg](https://github.com/sony/okg) topic: pushed_at:2025-02 star:0.0k fork:0.0k Official Repo for The Paper "OKG: On-the-fly Keyword Generation in Search Sponsered Advertising" (Coling'25)
@@ -121,7 +122,6 @@
 - [sony/di4c](https://github.com/sony/di4c) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [sony/diffiner](https://github.com/sony/diffiner) topic: pushed_at:2023-08 star:0.1k fork:0.0k 
 - [sony/dolp-colorconstancy](https://github.com/sony/dolp-colorconstancy) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
-- [sony/ds-research-code](https://github.com/sony/ds-research-code) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [sony/dual-pixel-disparity](https://github.com/sony/dual-pixel-disparity) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
 - [sony/esstra](https://github.com/sony/esstra) topic: pushed_at:2025-06 star:0.0k fork:0.0k A software suite for enhancing software supply chain transparency
 - [sony/evsCluster](https://github.com/sony/evsCluster) topic: pushed_at:2024-01 star:0.0k fork:0.0k Python scripts to process EVS (Event-based vision sensor) data
@@ -134,17 +134,17 @@
 - [sony/jys](https://github.com/sony/jys) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
 - [sony/lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
 - [sony/MambaPEFT](https://github.com/sony/MambaPEFT) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
-- [sony/model_optimization](https://github.com/sony/model_optimization) topic:deep-learning,deep-neural-networks,edge-ai,machine-learning,network-compression,network-quantization,neural-network,optimizer,ptq,pytorch,qat,quantization,tensorflow pushed_at:2025-06 star:0.4k fork:0.1k Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks.
 - [sony/MoLA](https://github.com/sony/MoLA) topic:motion-generation,pytorch,text-to-motion,text-to-motion-localization pushed_at:2025-06 star:0.0k fork:0.0k Pytorch implementation of MoLA
 - [sony/NDJIR](https://github.com/sony/NDJIR) topic: pushed_at:2023-02 star:0.0k fork:0.0k NDJIR: Neural Direct and Joint Inverse Rendering for Geometry, Lights, and Materials of Real Object
 - [sony/NeISF](https://github.com/sony/NeISF) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [sony/NeISFpp](https://github.com/sony/NeISFpp) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
-- [sony/nnabla](https://github.com/sony/nnabla) topic: pushed_at:2024-11 star:2.8k fork:0.3k Neural Network Libraries
+- [sony/nnabla](https://github.com/sony/nnabla) topic: pushed_at:2025-06 star:2.8k fork:0.3k Neural Network Libraries
 - [sony/nnabla-dataset-uploader](https://github.com/sony/nnabla-dataset-uploader) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
-- [sony/nnabla-examples](https://github.com/sony/nnabla-examples) topic: pushed_at:2024-06 star:0.3k fork:0.1k Neural Network Libraries https://nnabla.org/ - Examples
+- [sony/nnabla-examples](https://github.com/sony/nnabla-examples) topic: pushed_at:2025-06 star:0.3k fork:0.1k Neural Network Libraries https://nnabla.org/ - Examples
 - [sony/nnabla-nas](https://github.com/sony/nnabla-nas) topic: pushed_at:2024-01 star:0.1k fork:0.0k Neural Architecture Search for Neural Network Libraries
 - [sony/nnabla-rl](https://github.com/sony/nnabla-rl) topic: pushed_at:2024-12 star:0.1k fork:0.0k Deep reinforcement learning library built on top of Neural Network Libraries
-- [sony/nnc-plugin](https://github.com/sony/nnc-plugin) topic: pushed_at:2024-12 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
+- [sony/nnc-plugin](https://github.com/sony/nnc-plugin) topic: pushed_at:2025-06 star:0.0k fork:0.0k Plugins for Neural Network Console (https://dl.sony.com/).
+- [sony/oil](https://github.com/sony/oil) topic: pushed_at:2025-05 star:0.0k fork:0.0k Official Repo for The Paper "Auto-Bidding in Real-Time Auctions via Oracle Imitation Learning" (KDD'25, Research Track)
 - [sony/openmu](https://github.com/sony/openmu) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
 - [sony/pagoda](https://github.com/sony/pagoda) topic: pushed_at:2024-11 star:0.0k fork:0.0k 
 - [sony/pixel-guided-diffusion](https://github.com/sony/pixel-guided-diffusion) topic: pushed_at:2023-06 star:0.0k fork:0.0k Fine-grained Image Editing by Pixel-wise Guidance Using Diffusion Models
@@ -168,7 +168,7 @@
 - [sony/mapray-js](https://github.com/sony/mapray-js) topic: pushed_at:2025-06 star:0.1k fork:0.0k JavaScript library for Interactive high quality 3D globes and maps in the browser
 - [sony/nnabla-browser](https://github.com/sony/nnabla-browser) topic: pushed_at:2023-03 star:0.0k fork:0.0k Visualization toolkit for Neural Network Libraries
 - [sony/nnabla-js](https://github.com/sony/nnabla-js) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [sony/nnc-desktop](https://github.com/sony/nnc-desktop) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
+- [sony/nnc-desktop](https://github.com/sony/nnc-desktop) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [sony/stamp](https://github.com/sony/stamp) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [sony/typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) topic: pushed_at:2020-01 star:0.0k fork:0.0k Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa.
 

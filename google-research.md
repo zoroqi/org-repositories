@@ -13,9 +13,9 @@
 - [Java](#java) (2)
 - [JavaScript](#javascript) (3)
 - [Julia](#julia) (3)
-- [Jupyter Notebook](#jupyter-notebook) (57)
+- [Jupyter Notebook](#jupyter-notebook) (58)
 - [Kotlin](#kotlin) (1)
-- [Others](#others) (17)
+- [Others](#others) (16)
 - [Python](#python) (225)
 - [Rust](#rust) (1)
 - [Shell](#shell) (1)
@@ -30,8 +30,8 @@
 - [google-research/hybrid_rcc](https://github.com/google-research/hybrid_rcc) topic:information-theory,probability,statistics pushed_at:2023-06 star:0.0k fork:0.0k A C++ library for information theory and probability
 - [google-research/hyper-rectangular-clustering](https://github.com/google-research/hyper-rectangular-clustering) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [google-research/math-opt-benchmark](https://github.com/google-research/math-opt-benchmark) topic: pushed_at:2024-11 star:0.0k fork:0.0k 
-- [google-research/mozolm](https://github.com/google-research/mozolm) topic:assistive-technology,augmentative-communication,language-modeling pushed_at:2025-02 star:0.0k fork:0.0k MozoLM: A language model (LM) serving library
-- [google-research/project-guideline](https://github.com/google-research/project-guideline) topic: pushed_at:2025-05 star:0.1k fork:0.0k Project Guideline is a research project that leverages on-device ML to enable people who are blind and low-vision to walk or run for exercise independently.
+- [google-research/mozolm](https://github.com/google-research/mozolm) topic:assistive-technology,augmentative-communication,language-modeling pushed_at:2025-06 star:0.0k fork:0.0k MozoLM: A language model (LM) serving library
+- [google-research/project-guideline](https://github.com/google-research/project-guideline) topic: pushed_at:2025-06 star:0.1k fork:0.0k Project Guideline is a research project that leverages on-device ML to enable people who are blind and low-vision to walk or run for exercise independently.
 - [google-research/raksha](https://github.com/google-research/raksha) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [google-research/sputnik](https://github.com/google-research/sputnik) topic: pushed_at:2020-11 star:0.3k fork:0.1k A library of GPU kernels for sparse matrix operations.
 - [google-research/structured-additive-IR](https://github.com/google-research/structured-additive-IR) topic: pushed_at:2025-06 star:0.1k fork:0.0k 
@@ -58,7 +58,7 @@
 ## JavaScript
 
 - [google-research/c3po](https://github.com/google-research/c3po) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [google-research/fool-me-twice](https://github.com/google-research/fool-me-twice) topic:entailment,fever,firebase,game,nlp,verification,wikipedia pushed_at:2025-02 star:0.0k fork:0.0k Game code and data for Fool Me Twice: Entailment from Wikipedia Gamification https://arxiv.org/abs/2104.04725
+- [google-research/fool-me-twice](https://github.com/google-research/fool-me-twice) topic:entailment,fever,firebase,game,nlp,verification,wikipedia pushed_at:2025-06 star:0.0k fork:0.0k Game code and data for Fool Me Twice: Entailment from Wikipedia Gamification https://arxiv.org/abs/2104.04725
 - [google-research/pangea](https://github.com/google-research/pangea) topic:annotation-tool,computer-vision,crowdsourcing,nlp pushed_at:2021-03 star:0.0k fork:0.0k Panoramic Graph Environment Annotation toolkit, for collecting audio and text annotations in panoramic graph environments such as Matterport3D and StreetLearn.
 
 ## Julia
@@ -70,17 +70,18 @@
 ## Jupyter Notebook
 
 - [google-research/agent-based-epidemic-sim](https://github.com/google-research/agent-based-epidemic-sim) topic: pushed_at:2025-04 star:0.1k fork:0.0k 
-- [google-research/big_vision](https://github.com/google-research/big_vision) topic: pushed_at:2025-05 star:2.9k fork:0.2k Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more.
+- [google-research/big_vision](https://github.com/google-research/big_vision) topic: pushed_at:2025-05 star:3.0k fork:0.2k Official codebase used to develop Vision Transformer, SigLIP, MLP-Mixer, LiT and more.
+- [google-research/camel-prompt-injection](https://github.com/google-research/camel-prompt-injection) topic: pushed_at:2025-06 star:0.0k fork:0.0k Code for the paper "Defeating Prompt Injections by Design"
 - [google-research/cloud-ai-research](https://github.com/google-research/cloud-ai-research) topic: pushed_at:2024-09 star:0.0k fork:0.0k The Google Cloud AI Research team tackles AI research challenges motivated by Google Cloud’s mission of bringing AI to tech, healthcare, finance, retail and many other industries. As part of these efforts, we develop new models, algorithms and tools. This repository is a collection of OSS Colabs that we want to share with the broader community.
 - [google-research/computation-thru-dynamics](https://github.com/google-research/computation-thru-dynamics) topic: pushed_at:2021-05 star:0.4k fork:0.1k Understanding computation in artificial and biological recurrent networks through the lens of dynamical systems.
 - [google-research/data-driven-advection](https://github.com/google-research/data-driven-advection) topic: pushed_at:2021-05 star:0.2k fork:0.1k 
 - [google-research/deep_ope](https://github.com/google-research/deep_ope) topic: pushed_at:2024-07 star:0.1k fork:0.0k 
-- [google-research/ecology-georeferencing](https://github.com/google-research/ecology-georeferencing) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
+- [google-research/ecology-georeferencing](https://github.com/google-research/ecology-georeferencing) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [google-research/episodic-curiosity](https://github.com/google-research/episodic-curiosity) topic: pushed_at:2020-10 star:0.2k fork:0.0k Tensorflow/Keras code and trained models for Episodic Curiosity Through Reachability
 - [google-research/evoflow](https://github.com/google-research/evoflow) topic: pushed_at:2020-06 star:0.0k fork:0.0k 
 - [google-research/firebench](https://github.com/google-research/firebench) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [google-research/fooling-feature-visualizations](https://github.com/google-research/fooling-feature-visualizations) topic: pushed_at:2023-11 star:0.0k fork:0.0k Code for "Don't trust your eyes: on the (un)reliability of feature visualizations" (ICML 2024)
-- [google-research/google-research](https://github.com/google-research/google-research) topic:ai,machine-learning,research pushed_at:2025-06 star:35.8k fork:8.1k Google Research
+- [google-research/google-research](https://github.com/google-research/google-research) topic:ai,machine-learning,research pushed_at:2025-06 star:35.9k fork:8.1k Google Research
 - [google-research/graph-attribution](https://github.com/google-research/graph-attribution) topic: pushed_at:2021-03 star:0.1k fork:0.0k Codebase for Evaluating Attribution for Graph Neural Networks.
 - [google-research/growneuron](https://github.com/google-research/growneuron) topic: pushed_at:2024-07 star:0.1k fork:0.0k 
 - [google-research/imagenet-mistakes](https://github.com/google-research/imagenet-mistakes) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
@@ -92,7 +93,7 @@
 - [google-research/maxvit](https://github.com/google-research/maxvit) topic:architecture,classification,cnn,computer-vision,image,image-processing,mlp,object-detection,resnet,segmentation,transformer,transformer-architecture,vision-transformer pushed_at:2023-06 star:0.5k fork:0.0k [ECCV 2022] Official repository for "MaxViT: Multi-Axis Vision Transformer". SOTA foundation models for classification, detection, segmentation, image quality, and generative modeling...
 - [google-research/meta-dataset](https://github.com/google-research/meta-dataset) topic:benchmark,few-shot-learning,machine-learning,maml,meta-learning,tensorflow pushed_at:2024-05 star:0.8k fork:0.1k A dataset of datasets for learning to learn from few examples
 - [google-research/mnist-c](https://github.com/google-research/mnist-c) topic: pushed_at:2019-06 star:0.1k fork:0.0k 
-- [google-research/mood-board-search](https://github.com/google-research/mood-board-search) topic: pushed_at:2025-02 star:0.2k fork:0.0k 
+- [google-research/mood-board-search](https://github.com/google-research/mood-board-search) topic: pushed_at:2025-06 star:0.2k fork:0.0k 
 - [google-research/multi-morph-checklist](https://github.com/google-research/multi-morph-checklist) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
 - [google-research/nested-transformer](https://github.com/google-research/nested-transformer) topic:imagenet,transformer,vision pushed_at:2024-07 star:0.2k fork:0.0k Nested Hierarchical Transformer https://arxiv.org/pdf/2105.12723.pdf
 - [google-research/neural-structural-optimization](https://github.com/google-research/neural-structural-optimization) topic: pushed_at:2021-08 star:0.1k fork:0.0k Neural reparameterization improves structural optimization
@@ -105,8 +106,8 @@
 - [google-research/precondition](https://github.com/google-research/precondition) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [google-research/protein-ligand-binding-free-energy-calculations](https://github.com/google-research/protein-ligand-binding-free-energy-calculations) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [google-research/proteinfer](https://github.com/google-research/proteinfer) topic: pushed_at:2025-06 star:0.2k fork:0.0k Deep networks for protein functional inference
-- [google-research/r_u_sure](https://github.com/google-research/r_u_sure) topic: pushed_at:2025-03 star:0.0k fork:0.0k Code accompanying the paper "R-U-SURE? Uncertainty-Aware Code Suggestions By Maximizing Utility Across Random User Intents"
-- [google-research/readout_guidance](https://github.com/google-research/readout_guidance) topic: pushed_at:2024-10 star:0.1k fork:0.0k Official PyTorch Implementation for Readout Guidance, CVPR 2024
+- [google-research/r_u_sure](https://github.com/google-research/r_u_sure) topic: pushed_at:2025-06 star:0.0k fork:0.0k Code accompanying the paper "R-U-SURE? Uncertainty-Aware Code Suggestions By Maximizing Utility Across Random User Intents"
+- [google-research/readout_guidance](https://github.com/google-research/readout_guidance) topic: pushed_at:2025-06 star:0.1k fork:0.0k Official PyTorch Implementation for Readout Guidance, CVPR 2024
 - [google-research/recsim_ng](https://github.com/google-research/recsim_ng) topic:artificial-intelligence,google,probabilistic-programming,recommender-system,reinforcement-learning,simulation,tensorflow pushed_at:2022-04 star:0.1k fork:0.0k RecSim NG: Toward Principled Uncertainty Modeling for Recommender Ecosystems
 - [google-research/retvec](https://github.com/google-research/retvec) topic:deep-learning,natural-language-processing,nlp,python,tensorflow,text-classification pushed_at:2025-04 star:0.3k fork:0.0k RETVec is an efficient, multilingual, and adversarially-robust text vectorizer.
 - [google-research/reverse-engineering-neural-networks](https://github.com/google-research/reverse-engineering-neural-networks) topic:deep-learning,interpretability,machine-learning pushed_at:2023-09 star:0.2k fork:0.0k A collection of tools for reverse engineering neural networks.
@@ -118,14 +119,14 @@
 - [google-research/si-score](https://github.com/google-research/si-score) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [google-research/simclr](https://github.com/google-research/simclr) topic:computer-vision,contrastive-learning,representation-learning,self-supervised-learning,simclr,simclrv2,unsupervised-learning pushed_at:2023-05 star:4.3k fork:0.6k SimCLRv2 - Big Self-Supervised Models are Strong Semi-Supervised Learners
 - [google-research/socialgood](https://github.com/google-research/socialgood) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
-- [google-research/sofima](https://github.com/google-research/sofima) topic:2d,3d,4d,alignment-algorithm,biomedical-image-processing,connectomics,electron-microscopy,jax,microscopy,python3,stitching-algorithm pushed_at:2025-02 star:0.1k fork:0.0k Scalable Optical Flow-based Image Montaging and Alignment
+- [google-research/sofima](https://github.com/google-research/sofima) topic:2d,3d,4d,alignment-algorithm,biomedical-image-processing,connectomics,electron-microscopy,jax,microscopy,python3,stitching-algorithm pushed_at:2025-06 star:0.1k fork:0.0k Scalable Optical Flow-based Image Montaging and Alignment
 - [google-research/sparse_dp_histograms](https://github.com/google-research/sparse_dp_histograms) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
-- [google-research/swirl-dynamics](https://github.com/google-research/swirl-dynamics) topic: pushed_at:2025-06 star:0.1k fork:0.0k 
+- [google-research/swirl-dynamics](https://github.com/google-research/swirl-dynamics) topic: pushed_at:2025-07 star:0.1k fork:0.0k 
 - [google-research/tabnas](https://github.com/google-research/tabnas) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
 - [google-research/talk-like-a-graph](https://github.com/google-research/talk-like-a-graph) topic: pushed_at:2024-08 star:0.1k fork:0.0k 
 - [google-research/vdm](https://github.com/google-research/vdm) topic: pushed_at:2022-09 star:0.3k fork:0.0k 
 - [google-research/vision_transformer](https://github.com/google-research/vision_transformer) topic: pushed_at:2025-03 star:11.5k fork:1.4k 
-- [google-research/vmoe](https://github.com/google-research/vmoe) topic: pushed_at:2025-05 star:0.6k fork:0.1k 
+- [google-research/vmoe](https://github.com/google-research/vmoe) topic: pushed_at:2025-06 star:0.6k fork:0.1k 
 
 ## Kotlin
 
@@ -135,7 +136,6 @@
 
 - [google-research/.allstar](https://github.com/google-research/.allstar) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [google-research/.github](https://github.com/google-research/.github) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [google-research/camel-prompt-injection](https://github.com/google-research/camel-prompt-injection) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [google-research/causal-agents](https://github.com/google-research/causal-agents) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [google-research/dialog-inpainting](https://github.com/google-research/dialog-inpainting) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
 - [google-research/gestalt](https://github.com/google-research/gestalt) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
@@ -149,26 +149,26 @@
 - [google-research/simfluence](https://github.com/google-research/simfluence) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
 - [google-research/trc](https://github.com/google-research/trc) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [google-research/trecs_image_generation](https://github.com/google-research/trecs_image_generation) topic: pushed_at:2021-02 star:0.0k fork:0.0k 
-- [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) topic: pushed_at:2024-06 star:28.8k fork:2.4k A playbook for systematically maximizing the performance of deep learning models.
+- [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook) topic: pushed_at:2024-06 star:28.9k fork:2.4k A playbook for systematically maximizing the performance of deep learning models.
 
 ## Python
 
-- [google-research/3d-moments](https://github.com/google-research/3d-moments) topic: pushed_at:2022-08 star:0.2k fork:0.0k Code for CVPR 2022 paper '3D Moments from Near-Duplicate Photos'
+- [google-research/3d-moments](https://github.com/google-research/3d-moments) topic: pushed_at:2022-08 star:0.3k fork:0.0k Code for CVPR 2022 paper '3D Moments from Near-Duplicate Photos'
 - [google-research/accelerated_gbm](https://github.com/google-research/accelerated_gbm) topic: pushed_at:2020-08 star:0.0k fork:0.0k 
 - [google-research/active-adversarial-tests](https://github.com/google-research/active-adversarial-tests) topic:adversarial-attacks,adversarial-examples,machine-learning,machinelearning,robustness pushed_at:2025-06 star:0.0k fork:0.0k Official implementation of the paper "Increasing Confidence in Adversarial Robustness Evaluations"
 - [google-research/adamatch](https://github.com/google-research/adamatch) topic: pushed_at:2023-01 star:0.1k fork:0.0k 
 - [google-research/adapter-bert](https://github.com/google-research/adapter-bert) topic: pushed_at:2023-10 star:0.5k fork:0.1k 
 - [google-research/albert](https://github.com/google-research/albert) topic: pushed_at:2023-04 star:3.3k fork:0.6k ALBERT: A Lite BERT for Self-supervised Learning of Language Representations
-- [google-research/android_world](https://github.com/google-research/android_world) topic: pushed_at:2025-06 star:0.3k fork:0.0k AndroidWorld is an environment and benchmark for autonomous agents
+- [google-research/android_world](https://github.com/google-research/android_world) topic: pushed_at:2025-06 star:0.3k fork:0.1k AndroidWorld is an environment and benchmark for autonomous agents
 - [google-research/arcade-nl2code](https://github.com/google-research/arcade-nl2code) topic: pushed_at:2023-08 star:0.1k fork:0.0k 
-- [google-research/arco-era5](https://github.com/google-research/arco-era5) topic:cloud-optimized,ecmwf,era5,open-science,zarr pushed_at:2025-05 star:0.4k fork:0.0k Recipes for reproducing Analysis-Ready & Cloud Optimized (ARCO) ERA5 datasets.
+- [google-research/arco-era5](https://github.com/google-research/arco-era5) topic:cloud-optimized,ecmwf,era5,open-science,zarr pushed_at:2025-06 star:0.4k fork:0.0k Recipes for reproducing Analysis-Ready & Cloud Optimized (ARCO) ERA5 datasets.
 - [google-research/arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) topic:arxiv,latex pushed_at:2025-06 star:6.2k fork:0.4k arXiv LaTeX Cleaner: Easily clean the LaTeX code of your paper to submit to arXiv
 - [google-research/augmix](https://github.com/google-research/augmix) topic: pushed_at:2025-05 star:1.0k fork:0.2k AugMix: A Simple Data Processing Method to Improve Robustness and Uncertainty
 - [google-research/autoconj](https://github.com/google-research/autoconj) topic: pushed_at:2019-12 star:0.0k fork:0.0k Recognizing and exploiting conjugacy without a domain-specific language
 - [google-research/babelcode](https://github.com/google-research/babelcode) topic: pushed_at:2025-03 star:0.1k fork:0.0k 
 - [google-research/batch-ppo](https://github.com/google-research/batch-ppo) topic:artificial-intelligence,control,multi-processing,python,reinforcement-learning,tensorflow,vectorized-computation pushed_at:2019-01 star:1.0k fork:0.1k Efficient Batched Reinforcement Learning in TensorFlow
 - [google-research/batch_rl](https://github.com/google-research/batch_rl) topic: pushed_at:2023-06 star:0.6k fork:0.1k Offline Reinforcement Learning (aka Batch Reinforcement Learning) on Atari 2600 games
-- [google-research/bert](https://github.com/google-research/bert) topic:google,natural-language-processing,natural-language-understanding,nlp,tensorflow pushed_at:2024-07 star:39.2k fork:9.7k TensorFlow code and pre-trained models for BERT
+- [google-research/bert](https://github.com/google-research/bert) topic:google,natural-language-processing,natural-language-understanding,nlp,tensorflow pushed_at:2024-07 star:39.3k fork:9.7k TensorFlow code and pre-trained models for BERT
 - [google-research/big_transfer](https://github.com/google-research/big_transfer) topic:convolutional-neural-networks,deep-learning,imagenet,jax,pytorch,tensorflow2,transfer-learning pushed_at:2024-07 star:1.5k fork:0.2k Official repository for the "Big Transfer (BiT): General Visual Representation Learning" paper.
 - [google-research/bigbird](https://github.com/google-research/bigbird) topic:bert,deep-learning,longer-sequences,nlp,transformer pushed_at:2022-09 star:0.6k fork:0.1k Transformers for Longer Sequences
 - [google-research/bleurt](https://github.com/google-research/bleurt) topic: pushed_at:2023-08 star:0.7k fork:0.1k BLEURT is a metric for Natural Language Generation based on transfer learning.
@@ -215,7 +215,7 @@
 - [google-research/fixmatch](https://github.com/google-research/fixmatch) topic: pushed_at:2024-07 star:1.2k fork:0.2k A simple method to perform semi-supervised learning with limited data.
 - [google-research/FLAN](https://github.com/google-research/FLAN) topic: pushed_at:2025-06 star:1.5k fork:0.2k 
 - [google-research/fnc](https://github.com/google-research/fnc) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
-- [google-research/football](https://github.com/google-research/football) topic:reinforcement-learning,reinforcement-learning-environments pushed_at:2024-09 star:3.5k fork:1.3k Check out the new game server:
+- [google-research/football](https://github.com/google-research/football) topic:reinforcement-learning,reinforcement-learning-environments pushed_at:2025-06 star:3.5k fork:1.3k Check out the new game server:
 - [google-research/foundation-model-embedded-3dgs](https://github.com/google-research/foundation-model-embedded-3dgs) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [google-research/frame-interpolation](https://github.com/google-research/frame-interpolation) topic:forward-warp,frame-interpolation,optical-flow,splatting,video pushed_at:2024-08 star:3.0k fork:0.3k FILM: Frame Interpolation for Large Motion, In ECCV 2022.
 - [google-research/generative_transfer](https://github.com/google-research/generative_transfer) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
@@ -243,7 +243,7 @@
 - [google-research/label-dp](https://github.com/google-research/label-dp) topic: pushed_at:2024-02 star:0.0k fork:0.0k 
 - [google-research/lag](https://github.com/google-research/lag) topic: pushed_at:2024-04 star:0.2k fork:0.0k 
 - [google-research/language](https://github.com/google-research/language) topic:machine-learning,natural-language-processing,research pushed_at:2025-06 star:1.7k fork:0.4k Shared repository for open-sourced projects from the Google AI Language team.
-- [google-research/lanistr](https://github.com/google-research/lanistr) topic: pushed_at:2025-04 star:0.1k fork:0.0k 
+- [google-research/lanistr](https://github.com/google-research/lanistr) topic: pushed_at:2025-06 star:0.1k fork:0.0k 
 - [google-research/large_scale_mmdma](https://github.com/google-research/large_scale_mmdma) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [google-research/lasertagger](https://github.com/google-research/lasertagger) topic: pushed_at:2025-06 star:0.6k fork:0.1k 
 - [google-research/last](https://github.com/google-research/last) topic: pushed_at:2024-12 star:0.0k fork:0.0k A JAX library for building lattice-based speech transducer models
@@ -267,7 +267,7 @@
 - [google-research/mma](https://github.com/google-research/mma) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [google-research/modeljoust](https://github.com/google-research/modeljoust) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [google-research/morph-net](https://github.com/google-research/morph-net) topic:automl,deep-learning,machine-learning,neural-architecture-search,python,tensorflow pushed_at:2025-06 star:1.0k fork:0.1k Fast & Simple Resource-Constrained Learning of Deep Network Structure
-- [google-research/mrl_eval](https://github.com/google-research/mrl_eval) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
+- [google-research/mrl_eval](https://github.com/google-research/mrl_eval) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [google-research/mseb](https://github.com/google-research/mseb) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [google-research/mt-metrics-eval](https://github.com/google-research/mt-metrics-eval) topic: pushed_at:2025-03 star:0.1k fork:0.0k Tools for evaluating the performance of MT metrics on data from recent WMT metrics shared tasks.
 - [google-research/multilingual-t5](https://github.com/google-research/multilingual-t5) topic: pushed_at:2022-12 star:1.3k fork:0.1k 
@@ -286,18 +286,18 @@
 - [google-research/pegasus](https://github.com/google-research/pegasus) topic: pushed_at:2023-07 star:1.6k fork:0.3k 
 - [google-research/perceiver-ar](https://github.com/google-research/perceiver-ar) topic: pushed_at:2025-06 star:0.2k fork:0.0k 
 - [google-research/perceptual-quality](https://github.com/google-research/perceptual-quality) topic: pushed_at:2022-10 star:0.0k fork:0.0k Perceptual quality metrics for TensorFlow
-- [google-research/perch](https://github.com/google-research/perch) topic: pushed_at:2025-06 star:0.2k fork:0.0k 
+- [google-research/perch](https://github.com/google-research/perch) topic: pushed_at:2025-06 star:0.2k fork:0.1k 
 - [google-research/perch-hoplite](https://github.com/google-research/perch-hoplite) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [google-research/pisac](https://github.com/google-research/pisac) topic:deep-learning,deep-reinforcement-learning,information-theory,machine-learning,reinforcement-learning,robotics,vision pushed_at:2023-06 star:0.0k fork:0.0k Tensorflow 2 source code for the PI-SAC agent from "Predictive Information Accelerates Learning in RL" (NeurIPS 2020)
-- [google-research/pix2struct](https://github.com/google-research/pix2struct) topic: pushed_at:2025-06 star:0.6k fork:0.1k 
+- [google-research/pix2struct](https://github.com/google-research/pix2struct) topic: pushed_at:2025-06 star:0.7k fork:0.1k 
 - [google-research/planet](https://github.com/google-research/planet) topic: pushed_at:2023-03 star:1.2k fork:0.2k Learning Latent Dynamics for Planning from Pixels
 - [google-research/plur](https://github.com/google-research/plur) topic:deep-learning,machine-learning,program-synthesis,research,software-engineering pushed_at:2022-04 star:0.1k fork:0.0k PLUR (Programming-Language Understanding and Repair) is a collection of source code datasets suitable for graph-based machine learning. We provide scripts for downloading, processing, and loading the datasets. This is done by offering a unified API and data structures for all datasets.
 - [google-research/preprocessor-aware-black-box-attack](https://github.com/google-research/preprocessor-aware-black-box-attack) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [google-research/privateFM](https://github.com/google-research/privateFM) topic:cardinality,differential-privacy pushed_at:2020-12 star:0.0k fork:0.0k Code for differentially private Flajolet-Martin sketch.
 - [google-research/prompt-tuning](https://github.com/google-research/prompt-tuning) topic:flax,jax,language-model,machine-learning,nlp,prompt-tuning pushed_at:2025-03 star:0.7k fork:0.1k Original Implementation of Prompt Tuning from Lester, et al, 2021
-- [google-research/protoscribe](https://github.com/google-research/protoscribe) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
+- [google-research/protoscribe](https://github.com/google-research/protoscribe) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [google-research/public-data-in-dpfl](https://github.com/google-research/public-data-in-dpfl) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [google-research/pydemos](https://github.com/google-research/pydemos) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
+- [google-research/pydemos](https://github.com/google-research/pydemos) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [google-research/pynsy](https://github.com/google-research/pynsy) topic: pushed_at:2024-04 star:0.0k fork:0.0k Heavyweight Python dynamic analysis framework
 - [google-research/pyreach](https://github.com/google-research/pyreach) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [google-research/python-graphs](https://github.com/google-research/python-graphs) topic: pushed_at:2023-08 star:0.3k fork:0.0k A static analysis library for computing graph representations of Python programs suitable for use with graph neural networks.
@@ -313,7 +313,7 @@
 - [google-research/rlds-creator](https://github.com/google-research/rlds-creator) topic: pushed_at:2021-11 star:0.0k fork:0.0k A web-based tool to collect human data from simulated environments.
 - [google-research/robel](https://github.com/google-research/robel) topic: pushed_at:2020-11 star:0.1k fork:0.0k ROBEL: Robotics Benchmarks for Learning with low-cost robots
 - [google-research/robodesk](https://github.com/google-research/robodesk) topic: pushed_at:2022-07 star:0.1k fork:0.0k 
-- [google-research/robopianist](https://github.com/google-research/robopianist) topic:bimanual,dexterous-manipulation,mujoco,piano,reinforcement-learning,shadow-hand pushed_at:2024-11 star:0.6k fork:0.1k [CoRL '23] Dexterous piano playing with deep reinforcement learning.
+- [google-research/robopianist](https://github.com/google-research/robopianist) topic:bimanual,dexterous-manipulation,mujoco,piano,reinforcement-learning,shadow-hand pushed_at:2024-11 star:0.7k fork:0.1k [CoRL '23] Dexterous piano playing with deep reinforcement learning.
 - [google-research/robotics_transformer](https://github.com/google-research/robotics_transformer) topic: pushed_at:2024-01 star:1.5k fork:0.2k 
 - [google-research/runtime-error-prediction](https://github.com/google-research/runtime-error-prediction) topic: pushed_at:2022-11 star:0.0k fork:0.0k This is the repository for the paper Static Prediction of Runtime Errors by Learning to Execute Programs with External Resource Descriptions, and for the Python Runtime Errors (PRE) dataset.
 - [google-research/ruse](https://github.com/google-research/ruse) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
@@ -330,7 +330,7 @@
 - [google-research/slot-attention-video](https://github.com/google-research/slot-attention-video) topic: pushed_at:2023-02 star:0.2k fork:0.0k 
 - [google-research/smore](https://github.com/google-research/smore) topic: pushed_at:2022-12 star:0.2k fork:0.0k 
 - [google-research/snap](https://github.com/google-research/snap) topic:3d-mapping,deep-learning,pose-estimation,self-supervised-learning pushed_at:2023-12 star:0.2k fork:0.0k SNAP: Self-supervised Neural Maps for Visual Positioning and Semantic Understanding (NeurIPS 2023)
-- [google-research/social_cascades](https://github.com/google-research/social_cascades) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
+- [google-research/social_cascades](https://github.com/google-research/social_cascades) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [google-research/soft-dtw-divergences](https://github.com/google-research/soft-dtw-divergences) topic:dtw,dynamic-time-warping,soft-dtw,time-series pushed_at:2021-10 star:0.1k fork:0.0k An implementation of soft-DTW divergences.
 - [google-research/sound-separation](https://github.com/google-research/sound-separation) topic: pushed_at:2024-10 star:0.7k fork:0.1k 
 - [google-research/spade_anomaly_detection](https://github.com/google-research/spade_anomaly_detection) topic:anomaly-detection-algorithm,ensemble-model,one-class-classification,semi-supervised pushed_at:2025-02 star:0.0k fork:0.0k Semi-supervised anomaly detection method
@@ -342,7 +342,7 @@
 - [google-research/swirl-c](https://github.com/google-research/swirl-c) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [google-research/swirl-fem](https://github.com/google-research/swirl-fem) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
 - [google-research/swirl-jatmos](https://github.com/google-research/swirl-jatmos) topic: pushed_at:2025-04 star:0.0k fork:0.0k Jatmos is a scalable simulator for atmospheric dynamics, written in JAX.
-- [google-research/swirl-lm](https://github.com/google-research/swirl-lm) topic: pushed_at:2025-05 star:0.1k fork:0.0k 
+- [google-research/swirl-lm](https://github.com/google-research/swirl-lm) topic: pushed_at:2025-06 star:0.1k fork:0.0k 
 - [google-research/syn-rep-learn](https://github.com/google-research/syn-rep-learn) topic: pushed_at:2024-01 star:0.3k fork:0.0k Learning from synthetic data - code and models
 - [google-research/t5x](https://github.com/google-research/t5x) topic: pushed_at:2025-06 star:2.8k fork:0.3k 
 - [google-research/t5x_retrieval](https://github.com/google-research/t5x_retrieval) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
@@ -354,7 +354,7 @@
 - [google-research/tensorflow_constrained_optimization](https://github.com/google-research/tensorflow_constrained_optimization) topic: pushed_at:2021-07 star:0.3k fork:0.1k 
 - [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer) topic: pushed_at:2025-04 star:6.4k fork:0.8k Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"
 - [google-research/tf-slim](https://github.com/google-research/tf-slim) topic: pushed_at:2025-06 star:0.4k fork:0.1k 
-- [google-research/timesfm](https://github.com/google-research/timesfm) topic: pushed_at:2025-06 star:4.8k fork:0.4k TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
+- [google-research/timesfm](https://github.com/google-research/timesfm) topic: pushed_at:2025-06 star:4.9k fork:0.5k TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.
 - [google-research/torchsde](https://github.com/google-research/torchsde) topic:deep-learning,deep-neural-networks,differential-equations,dynamical-systems,neural-differential-equations,pytorch,stochastic-differential-equations,stochastic-processes,stochastic-volatility-models pushed_at:2024-12 star:1.7k fork:0.2k Differentiable SDE solvers with GPU support and efficient sensitivity analysis. 
 - [google-research/troyvis](https://github.com/google-research/troyvis) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
 - [google-research/true](https://github.com/google-research/true) topic: pushed_at:2025-06 star:0.1k fork:0.0k Code and data accompanying the paper "TRUE: Re-evaluating Factual Consistency Evaluation".
@@ -364,13 +364,13 @@
 - [google-research/understanding-transfer-learning](https://github.com/google-research/understanding-transfer-learning) topic: pushed_at:2020-11 star:0.0k fork:0.0k 
 - [google-research/unified_functional_hashing](https://github.com/google-research/unified_functional_hashing) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [google-research/unique-randomizer](https://github.com/google-research/unique-randomizer) topic: pushed_at:2020-08 star:0.0k fork:0.0k UniqueRandomizer is a data structure for sampling outputs of a randomized program, such as a neural sequence model, incrementally and without replacement.
-- [google-research/url-nlp](https://github.com/google-research/url-nlp) topic: pushed_at:2025-02 star:0.2k fork:0.0k 
+- [google-research/url-nlp](https://github.com/google-research/url-nlp) topic: pushed_at:2025-06 star:0.2k fork:0.0k 
 - [google-research/valan](https://github.com/google-research/valan) topic: pushed_at:2021-01 star:0.1k fork:0.0k Vision and Language Agent Navigation 
 - [google-research/vet](https://github.com/google-research/vet) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [google-research/visu3d](https://github.com/google-research/visu3d) topic:3d,nerf,plotly pushed_at:2024-11 star:0.2k fork:0.0k 3d without friction (Torch, TF, Jax, Numpy)
 - [google-research/vmf_embeddings](https://github.com/google-research/vmf_embeddings) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
 - [google-research/weakly_supervised_control](https://github.com/google-research/weakly_supervised_control) topic: pushed_at:2020-10 star:0.0k fork:0.0k Weakly-Supervised RL for Controllable Behavior (NeurIPS 2020)
-- [google-research/weatherbench2](https://github.com/google-research/weatherbench2) topic: pushed_at:2025-05 star:0.5k fork:0.1k A benchmark for the next generation of data-driven global weather models.
+- [google-research/weatherbench2](https://github.com/google-research/weatherbench2) topic: pushed_at:2025-06 star:0.5k fork:0.1k A benchmark for the next generation of data-driven global weather models.
 - [google-research/weatherbenchX](https://github.com/google-research/weatherbenchX) topic: pushed_at:2025-06 star:0.1k fork:0.0k A modular framework for evaluating weather forecasts
 - [google-research/wide-sparse-nets](https://github.com/google-research/wide-sparse-nets) topic: pushed_at:2021-03 star:0.0k fork:0.0k 
 - [google-research/world_models](https://github.com/google-research/world_models) topic: pushed_at:2023-08 star:0.1k fork:0.0k 
@@ -402,7 +402,7 @@
 
 ## TypeScript
 
-- [google-research/usnea](https://github.com/google-research/usnea) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
+- [google-research/usnea](https://github.com/google-research/usnea) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 
 
 ## License
