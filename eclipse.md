@@ -68,7 +68,7 @@
 - [eclipse/che-theia-machines-plugin](https://github.com/eclipse/che-theia-machines-plugin) topic: pushed_at:2019-01 star:0.0k fork:0.0k 
 - [eclipse/che-theia-task-plugin](https://github.com/eclipse/che-theia-task-plugin) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
 - [eclipse/che-theia-terminal-extension](https://github.com/eclipse/che-theia-terminal-extension) topic: pushed_at:2019-01 star:0.0k fork:0.0k che-theia-terminal-plugin
-- [eclipse/editdor](https://github.com/eclipse/editdor) topic:iot,jsonld,web,webofthings pushed_at:2025-05 star:0.0k fork:0.0k Eclipse ediTDor - A tool for simply designing W3C Thing Descriptions
+- [eclipse/editdor](https://github.com/eclipse/editdor) topic:iot,jsonld,web,webofthings pushed_at:2025-06 star:0.0k fork:0.0k Eclipse ediTDor - A tool for simply designing W3C Thing Descriptions
 
 
 ## License

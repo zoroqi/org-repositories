@@ -28,7 +28,7 @@
 - [golang/gddo](https://github.com/golang/gddo) topic: pushed_at:2021-01 star:1.1k fork:0.3k Go Doc Dot Org
 - [golang/geo](https://github.com/golang/geo) topic:geometry,geometry-library,go,sphere pushed_at:2025-06 star:1.8k fork:0.2k S2 geometry library in Go
 - [golang/glog](https://github.com/golang/glog) topic: pushed_at:2025-04 star:3.6k fork:0.9k Leveled execution logs for Go
-- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2025-06 star:128.4k fork:18.1k The Go programming language
+- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2025-06 star:128.6k fork:18.2k The Go programming language
 - [golang/go-get-issue-15410](https://github.com/golang/go-get-issue-15410) topic: pushed_at:2020-08 star:0.0k fork:0.0k go-get-issue-15410
 - [golang/gofrontend](https://github.com/golang/gofrontend) topic: pushed_at:2025-03 star:0.9k fork:0.1k Go compiler frontend (gccgo)
 - [golang/groupcache](https://github.com/golang/groupcache) topic: pushed_at:2024-11 star:13.2k fork:1.4k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
@@ -47,8 +47,8 @@
 - [golang/pkgsite-metrics](https://github.com/golang/pkgsite-metrics) topic: pushed_at:2025-06 star:0.0k fork:0.0k Code to serve pkg.go.dev/metrics [mirror]
 - [golang/playground](https://github.com/golang/playground) topic: pushed_at:2025-06 star:0.8k fork:0.2k [mirror] The Go Playground
 - [golang/protobuf](https://github.com/golang/protobuf) topic:go,golang,protobuf,protocol-buffers pushed_at:2024-08 star:10.0k fork:1.6k Go support for Google's protocol buffers
-- [golang/review](https://github.com/golang/review) topic: pushed_at:2025-05 star:0.1k fork:0.0k [mirror] Tool for working with Gerrit code reviews
-- [golang/scratch](https://github.com/golang/scratch) topic: pushed_at:2025-04 star:0.0k fork:0.0k [mirror] repository used for testing
+- [golang/review](https://github.com/golang/review) topic: pushed_at:2025-06 star:0.1k fork:0.0k [mirror] Tool for working with Gerrit code reviews
+- [golang/scratch](https://github.com/golang/scratch) topic: pushed_at:2025-06 star:0.0k fork:0.0k [mirror] repository used for testing
 - [golang/snappy](https://github.com/golang/snappy) topic: pushed_at:2025-03 star:1.6k fork:0.2k The Snappy compression format in the Go programming language.
 - [golang/sync](https://github.com/golang/sync) topic: pushed_at:2025-06 star:0.9k fork:0.2k [mirror] concurrency primitives
 - [golang/sys](https://github.com/golang/sys) topic: pushed_at:2025-06 star:1.3k fork:0.6k [mirror] Go packages for low-level interaction with the operating system

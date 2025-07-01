@@ -51,7 +51,7 @@
 - [mdn/html-examples](https://github.com/mdn/html-examples) topic:examples,html pushed_at:2024-02 star:0.1k fork:0.1k Code examples that accompany the MDN HTML documentation: https://developer.mozilla.org/en-US/docs/Web/HTML
 - [mdn/imsc-examples](https://github.com/mdn/imsc-examples) topic:captioning,examples,media,subtitles pushed_at:2024-01 star:0.0k fork:0.0k Repository for examples to go along with MDN IMSC documentation.
 - [mdn/insights](https://github.com/mdn/insights) topic: pushed_at:2022-04 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
-- [mdn/interactive-examples](https://github.com/mdn/interactive-examples) topic:css,editor,examples,html,interactive,javascript,mdn,nodejs pushed_at:2025-05 star:0.8k fork:0.5k Home of the MDN live code editor interactive examples
+- [mdn/interactive-examples](https://github.com/mdn/interactive-examples) topic:css,editor,examples,html,interactive,javascript,mdn,nodejs pushed_at:2025-05 star:0.7k fork:0.5k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) topic: pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
 - [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2025-05 star:7.3k fork:27.3k GitHub repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) topic: pushed_at:2022-04 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
@@ -87,7 +87,7 @@
 - [mdn/browsercompat-cm](https://github.com/mdn/browsercompat-cm) topic:unmaintained pushed_at:2017-05 star:0.0k fork:0.0k Browsercompat - Contribution & Moderation UI
 - [mdn/canvas-raycaster](https://github.com/mdn/canvas-raycaster) topic:3d-environment,canvas,demo,javascript,raycast pushed_at:2022-09 star:0.2k fork:0.0k Using the <canvas> element to do software rendering of a 3D environment with ray-casting
 - [mdn/client-toolchain-example](https://github.com/mdn/client-toolchain-example) topic:demo,examples,javascript,toolchain pushed_at:2025-05 star:0.0k fork:0.0k Demo project for the MDN client-side web development tools tutorial.
-- [mdn/data](https://github.com/mdn/data) topic:css,data,json,json-data pushed_at:2025-06 star:0.7k fork:0.2k This repository contains general data for Web technologies
+- [mdn/data](https://github.com/mdn/data) topic:css,data,json,json-data pushed_at:2025-06 star:0.8k fork:0.2k This repository contains general data for Web technologies
 - [mdn/doc-linter-rules](https://github.com/mdn/doc-linter-rules) topic:linting-rules,mdn pushed_at:2019-04 star:0.0k fork:0.0k Linting rules used to lint MDN Web Documents
 - [mdn/doc-linter-webextension](https://github.com/mdn/doc-linter-webextension) topic:linter,mdn,webextension pushed_at:2019-08 star:0.0k fork:0.0k Webextension to lint MDN documents
 - [mdn/dom-examples](https://github.com/mdn/dom-examples) topic:channel-messaging,demo,dom-manipulation,drag-drop,javascript,matchmedia,mdn-docs,pointer-events,pointer-lock,touch-events pushed_at:2025-06 star:3.8k fork:1.9k Code examples that accompany various MDN DOM and Web API documentation pages
@@ -120,7 +120,7 @@
 - [mdn/violent-theremin](https://github.com/mdn/violent-theremin) topic: pushed_at:2022-09 star:0.2k fork:0.1k Violent theremin uses the Web Audio API to generate sound, and HTML5 canvas for a bit of pretty visualization. The colours generated depend on the pitch and gain of the current note, which are themselves dependant on the mouse pointer position.
 - [mdn/voice-change-o-matic](https://github.com/mdn/voice-change-o-matic) topic: pushed_at:2022-10 star:0.7k fork:0.2k Web Audio API-powered voice changer and visualizer
 - [mdn/voice-change-o-matic-float-data](https://github.com/mdn/voice-change-o-matic-float-data) topic: pushed_at:2022-10 star:0.1k fork:0.0k Web Audio API-powered voice changer and visualizer
-- [mdn/web-components-examples](https://github.com/mdn/web-components-examples) topic:examples,web-components pushed_at:2025-04 star:3.2k fork:0.8k A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
+- [mdn/web-components-examples](https://github.com/mdn/web-components-examples) topic:examples,web-components pushed_at:2025-04 star:3.3k fork:0.8k A series of web components examples, related to the MDN web components documentation at https://developer.mozilla.org/en-US/docs/Web/Web_Components.
 - [mdn/web-dictaphone](https://github.com/mdn/web-dictaphone) topic: pushed_at:2022-09 star:0.5k fork:0.2k A sample MDN app that uses getUserMedia and MediaRecorder API for recording audio snippets, and The Web Audio API for visualizations.
 - [mdn/web-speech-api](https://github.com/mdn/web-speech-api) topic: pushed_at:2022-09 star:1.4k fork:0.7k A repository for demos illustrating features of the Web Speech API. See https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API for more details.
 - [mdn/webextensions-examples](https://github.com/mdn/webextensions-examples) topic:browser,mdn,webextensions,webextensions-apis pushed_at:2025-05 star:4.3k fork:2.6k Example Firefox add-ons created using the WebExtensions API
@@ -134,14 +134,14 @@
 
 ## Markdown
 
-- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2025-06 star:9.6k fork:22.7k The content behind MDN Web Docs
-- [mdn/translated-content](https://github.com/mdn/translated-content) topic:documentation,l10n,mdn pushed_at:2025-06 star:1.8k fork:8.2k The source repository of all translated content for MDN Web Docs
-- [mdn/translated-content-de](https://github.com/mdn/translated-content-de) topic: pushed_at:2025-06 star:0.0k fork:0.0k Experimental German locale for MDN, aimed at German-speaking users that prefer to read MDN Web Docs in their native language
+- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2025-07 star:9.6k fork:22.8k The content behind MDN Web Docs
+- [mdn/translated-content](https://github.com/mdn/translated-content) topic:documentation,l10n,mdn pushed_at:2025-07 star:1.8k fork:8.2k The source repository of all translated content for MDN Web Docs
+- [mdn/translated-content-de](https://github.com/mdn/translated-content-de) topic: pushed_at:2025-07 star:0.0k fork:0.0k Experimental German locale for MDN, aimed at German-speaking users that prefer to read MDN Web Docs in their native language
 - [mdn/translated-content-it](https://github.com/mdn/translated-content-it) topic: pushed_at:2025-05 star:0.0k fork:0.0k Experimental Italian locale for MDN, aimed at Italian-speaking users that prefer to read MDN Web Docs in their native language 
 
 ## Mermaid
 
-- [mdn/shared-assets](https://github.com/mdn/shared-assets) topic:assets,examples pushed_at:2025-05 star:0.0k fork:0.0k A repository for media and assets to be used across MDN Web Docs
+- [mdn/shared-assets](https://github.com/mdn/shared-assets) topic:assets,examples pushed_at:2025-06 star:0.0k fork:0.0k A repository for media and assets to be used across MDN Web Docs
 
 ## Others
 
@@ -182,7 +182,7 @@
 
 - [mdn/differy](https://github.com/mdn/differy) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
 - [mdn/rari](https://github.com/mdn/rari) topic: pushed_at:2025-06 star:0.0k fork:0.0k MDN's new build system.
-- [mdn/rumba](https://github.com/mdn/rumba) topic:rust pushed_at:2025-05 star:0.1k fork:0.0k The clean kuma (🤖🧹)
+- [mdn/rumba](https://github.com/mdn/rumba) topic:rust pushed_at:2025-06 star:0.1k fork:0.0k The clean kuma (🤖🧹)
 
 ## SCSS
 
