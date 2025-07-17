@@ -94,7 +94,7 @@
 - [apachecn/apachecn.github.io](https://github.com/apachecn/apachecn.github.io) topic: pushed_at:2019-06 star:0.0k fork:0.0k apachecn.org 的重定向页面
 - [apachecn/beam-site-zh](https://github.com/apachecn/beam-site-zh) topic: pushed_at:2020-02 star:0.1k fork:0.1k Apache Beam 官方网站中文版
 - [apachecn/crackme160](https://github.com/apachecn/crackme160) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
-- [apachecn/cs61b-textbook-zh](https://github.com/apachecn/cs61b-textbook-zh) topic:cs61b,data-structures,java,textbook,ucb pushed_at:2021-01 star:0.3k fork:0.1k :book: [译] UCB CS61b Java 中的数据结构
+- [apachecn/cs61b-textbook-zh](https://github.com/apachecn/cs61b-textbook-zh) topic:cs61b,data-structures,java,textbook,ucb pushed_at:2021-01 star:0.4k fork:0.1k :book: [译] UCB CS61b Java 中的数据结构
 - [apachecn/data8-textbook-zh](https://github.com/apachecn/data8-textbook-zh) topic:data-science,data8,lecture-notes,python,statistics,ucb pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] 计算与推断思维 中文版
 - [apachecn/Developer-Zero-To-Mastery](https://github.com/apachecn/Developer-Zero-To-Mastery) topic: pushed_at:2022-04 star:0.0k fork:0.0k :books: To Be Professional Developer From Zero To Mastery, Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视野、知识管理与职业规划，提高个人与团队的研发效能
 - [apachecn/devtools-snippets](https://github.com/apachecn/devtools-snippets) topic: pushed_at:2022-05 star:0.0k fork:0.0k A collection of helpful snippets to use inside of browser devtools
@@ -407,7 +407,7 @@
 - [apachecn/mitnicksecurity-zh](https://github.com/apachecn/mitnicksecurity-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [apachecn/mkyong-blog-zh](https://github.com/apachecn/mkyong-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) topic: pushed_at:2025-02 star:0.8k fork:0.2k :book: [译] MachineLearningMastery 博客文章
-- [apachecn/ml-mastery-zh-pt2](https://github.com/apachecn/ml-mastery-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
+- [apachecn/ml-mastery-zh-pt2](https://github.com/apachecn/ml-mastery-zh-pt2) topic: pushed_at:2022-07 star:0.1k fork:0.0k 
 - [apachecn/mlearningai-blog-zh](https://github.com/apachecn/mlearningai-blog-zh) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/moesif-blog-zh](https://github.com/apachecn/moesif-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Moesif 博客中文翻译
 - [apachecn/moralis-blog-zh](https://github.com/apachecn/moralis-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Moralis 博客中文翻译
@@ -1034,7 +1034,7 @@
 - [apachecn/scripts](https://github.com/apachecn/scripts) topic: pushed_at:2022-01 star:0.0k fork:0.0k jd https://t.me/+fo3HSUe3nbRiNjY1
 - [apachecn/scripts-1](https://github.com/apachecn/scripts-1) topic: pushed_at:2021-12 star:0.0k fork:0.0k Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
 - [apachecn/scys1](https://github.com/apachecn/scys1) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:1.3k fork:0.5k :books: 网安类绝版图书
+- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:1.4k fork:0.5k :books: 网安类绝版图书
 - [apachecn/sec-books-part2](https://github.com/apachecn/sec-books-part2) topic: pushed_at:2023-01 star:0.1k fork:0.0k :books: 网安类绝版图书（二）
 - [apachecn/sec-gzh-2022](https://github.com/apachecn/sec-gzh-2022) topic: pushed_at:2023-04 star:0.0k fork:0.0k 网络安全类公众号离线备份
 - [apachecn/seebug-paper-2016-20xx](https://github.com/apachecn/seebug-paper-2016-20xx) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
