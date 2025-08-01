@@ -361,7 +361,7 @@
 - [opencollective/opencollective-email](https://github.com/opencollective/opencollective-email) topic: pushed_at:2019-01 star:0.0k fork:0.0k The email service for transparent and inclusive open collectives
 - [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) topic: pushed_at:2023-01 star:0.0k fork:0.0k The new Open Collective email service, powered by Eymail
 - [opencollective/opencollective-giftcards-generator](https://github.com/opencollective/opencollective-giftcards-generator) topic: pushed_at:2020-04 star:0.0k fork:0.0k Simple app to generate read-to-print Open Collective gift cards
-- [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) topic: pushed_at:2025-06 star:0.1k fork:0.0k Open Collective's Image Server. For badges, banners, avatar, etc ...
+- [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) topic: pushed_at:2025-07 star:0.1k fork:0.0k Open Collective's Image Server. For badges, banners, avatar, etc ...
 - [opencollective/opencollective-jobs](https://github.com/opencollective/opencollective-jobs) topic: pushed_at:2018-05 star:0.0k fork:0.0k 
 - [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) topic: pushed_at:2023-03 star:0.1k fork:0.0k Prompt your users to donate to your collective after `npm install`
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) topic: pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
@@ -484,7 +484,7 @@
 
 ## Others
 
-- [opencollective/.github](https://github.com/opencollective/.github) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
+- [opencollective/.github](https://github.com/opencollective/.github) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
 - [opencollective/11ty-website](https://github.com/opencollective/11ty-website) topic: pushed_at:2021-01 star:0.0k fork:0.0k Documentation site for the Eleventy static site generator.
 - [opencollective/1password-teams-open-source](https://github.com/opencollective/1password-teams-open-source) topic: pushed_at:2018-04 star:0.0k fork:0.0k Get a free 1Password Teams membership for your open source project
 - [opencollective/Acid](https://github.com/opencollective/Acid) topic: pushed_at:2019-09 star:0.0k fork:0.0k A high speed C++17 Vulkan game engine
@@ -585,7 +585,7 @@
 - [opencollective/django-extensions](https://github.com/opencollective/django-extensions) topic: pushed_at:2020-08 star:0.0k fork:0.0k This is a repository for collecting global custom management extensions for the Django Framework. 
 - [opencollective/docker-slim](https://github.com/opencollective/docker-slim) topic: pushed_at:2020-01 star:0.0k fork:0.0k DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [opencollective/docs](https://github.com/opencollective/docs) topic: pushed_at:2019-03 star:0.0k fork:0.0k Onboarding Resources for contributors, members and chapter organizers of Open source community Africa (O.S.C.A)
-- [opencollective/documentation](https://github.com/opencollective/documentation) topic:documentation,open-collective pushed_at:2025-05 star:0.1k fork:0.1k All documentation for Open Collective
+- [opencollective/documentation](https://github.com/opencollective/documentation) topic:documentation,open-collective pushed_at:2025-07 star:0.1k fork:0.1k All documentation for Open Collective
 - [opencollective/dotenv-linter](https://github.com/opencollective/dotenv-linter) topic: pushed_at:2020-08 star:0.0k fork:0.0k ✌️Linter for .env files. Written in Rust 🦀
 - [opencollective/dowww](https://github.com/opencollective/dowww) topic: pushed_at:2019-01 star:0.0k fork:0.0k 💡 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
 - [opencollective/DragonProxy](https://github.com/opencollective/DragonProxy) topic: pushed_at:2021-02 star:0.0k fork:0.0k A proxy to allow Minecraft: Bedrock clients to connect to Minecraft: Java Edition servers.
@@ -1061,9 +1061,9 @@
 - [opencollective/opencollective-frontend-template](https://github.com/opencollective/opencollective-frontend-template) topic: pushed_at:2025-07 star:0.0k fork:0.0k Kickstart a new frontend project at Open Collective.
 - [opencollective/opencollective-github-helpers](https://github.com/opencollective/opencollective-github-helpers) topic: pushed_at:2023-01 star:0.0k fork:0.0k An app to help with the maintainance and development tasks of Open Collective internal repositories
 - [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) topic:graphql,graphql-js,invoices-pdf,nodejs,opencollective,pdf,pdf-generation pushed_at:2025-07 star:0.1k fork:0.0k Open Collective's PDF Server
-- [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) topic: pushed_at:2025-07 star:0.1k fork:0.0k Open Collective's REST API legacy, v1, and v2!
+- [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) topic: pushed_at:2025-08 star:0.1k fork:0.0k Open Collective's REST API legacy, v1, and v2!
 - [opencollective/opencollective-rss](https://github.com/opencollective/opencollective-rss) topic: pushed_at:2025-07 star:0.0k fork:0.0k GraphQL-to-RSS bridge for the Open Collective API
-- [opencollective/opencollective-taxes](https://github.com/opencollective/opencollective-taxes) topic: pushed_at:2025-07 star:0.0k fork:0.0k Shared code to calculate taxes for events, products and services (VAT)
+- [opencollective/opencollective-taxes](https://github.com/opencollective/opencollective-taxes) topic: pushed_at:2025-08 star:0.0k fork:0.0k Shared code to calculate taxes for events, products and services (VAT)
 - [opencollective/opencollective.xyz](https://github.com/opencollective/opencollective.xyz) topic: pushed_at:2025-06 star:0.0k fork:0.0k New web3 native version of Open Collective
 - [opencollective/perfume.js](https://github.com/opencollective/perfume.js) topic: pushed_at:2019-03 star:0.0k fork:0.0k A flexible JavaScript library for measuring First Contentful Paint (FP/FCP), First Input Delay (FID) and components lifecycle performance (eg. Angular, React). Report real user measurements to Google Analytics or your ideal tracking tool.
 - [opencollective/pricing](https://github.com/opencollective/pricing) topic: pushed_at:2025-07 star:0.0k fork:0.0k Research project to test an updated pricing model

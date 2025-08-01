@@ -18,9 +18,9 @@
 - [JavaScript](#javascript) (4)
 - [LLVM](#llvm) (1)
 - [Markdown](#markdown) (2)
-- [Others](#others) (68)
+- [Others](#others) (69)
 - [Python](#python) (11)
-- [Rust](#rust) (107)
+- [Rust](#rust) (106)
 - [Shell](#shell) (6)
 - [Tcl](#tcl) (1)
 - [TypeScript](#typescript) (2)
@@ -72,13 +72,13 @@
 ## HTML
 
 - [rust-lang/arewewebyet](https://github.com/rust-lang/arewewebyet) topic: pushed_at:2025-07 star:0.7k fork:0.1k Are we web yet? A simple reckoning of Rust's readiness for Web-related things.
-- [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) topic:blog,rust pushed_at:2025-07 star:0.4k fork:0.3k Home of the Rust and Inside Rust blogs
+- [rust-lang/blog.rust-lang.org](https://github.com/rust-lang/blog.rust-lang.org) topic:blog,rust pushed_at:2025-08 star:0.4k fork:0.3k Home of the Rust and Inside Rust blogs
 - [rust-lang/compiler-team](https://github.com/rust-lang/compiler-team) topic: pushed_at:2025-07 star:0.4k fork:0.1k A home for compiler team planning documents, meeting minutes, and other such things.
 - [rust-lang/lldb](https://github.com/rust-lang/lldb) topic:debugger,lldb,rust pushed_at:2019-02 star:0.0k fork:0.0k No longer used, use https://github.com/rust-lang/llvm-project instead
 - [rust-lang/prev.rust-lang.org](https://github.com/rust-lang/prev.rust-lang.org) topic: pushed_at:2020-09 star:0.2k fork:0.3k The previous Rust website. The current website's code is at https://github.com/rust-lang/www.rust-lang.org.
 - [rust-lang/rust-lang.github.io](https://github.com/rust-lang/rust-lang.github.io) topic: pushed_at:2022-01 star:0.0k fork:0.0k GitHub Pages redirects
 - [rust-lang/rust-reach-www](https://github.com/rust-lang/rust-reach-www) topic: pushed_at:2018-06 star:0.0k fork:0.0k the website for the rust reach program
-- [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) topic:compiler,contributing,rust,rustc pushed_at:2025-07 star:1.8k fork:0.5k A guide to how rustc works and how to contribute to it.
+- [rust-lang/rustc-dev-guide](https://github.com/rust-lang/rustc-dev-guide) topic:compiler,contributing,rust,rustc pushed_at:2025-07 star:1.8k fork:0.6k A guide to how rustc works and how to contribute to it.
 - [rust-lang/zulip_archive](https://github.com/rust-lang/zulip_archive) topic: pushed_at:2022-04 star:0.0k fork:0.0k A tool for archiving and displaying Zulip chat channels.
 
 ## JavaScript
@@ -86,7 +86,7 @@
 - [rust-lang/atom-ide-rust](https://github.com/rust-lang/atom-ide-rust) topic:atom,atom-ide,ide,rls,rust pushed_at:2023-10 star:0.3k fork:0.0k Rust IDE support for Atom, powered by the Rust Analyzer or Rust Language Server
 - [rust-lang/lang-team](https://github.com/rust-lang/lang-team) topic: pushed_at:2025-06 star:0.2k fork:0.1k Home of the Rust lang team
 - [rust-lang/rust-by-example](https://github.com/rust-lang/rust-by-example) topic: pushed_at:2025-07 star:7.5k fork:1.4k Learn Rust with examples (Live code editor included)
-- [rust-lang/rustc-pr-tracking](https://github.com/rust-lang/rustc-pr-tracking) topic: pushed_at:2025-07 star:0.0k fork:0.0k Statistics about PRs on the rustc repository.
+- [rust-lang/rustc-pr-tracking](https://github.com/rust-lang/rustc-pr-tracking) topic: pushed_at:2025-08 star:0.0k fork:0.0k Statistics about PRs on the rustc repository.
 
 ## LLVM
 
@@ -95,16 +95,17 @@
 ## Markdown
 
 - [rust-lang/rfc-leadership-council](https://github.com/rust-lang/rfc-leadership-council) topic: pushed_at:2023-05 star:0.0k fork:0.0k RFCs for changes to Rust
-- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) topic:rfc,rfc-process,rust pushed_at:2025-07 star:6.2k fork:1.6k RFCs for changes to Rust
+- [rust-lang/rfcs](https://github.com/rust-lang/rfcs) topic:rfc,rfc-process,rust pushed_at:2025-08 star:6.2k fork:1.6k RFCs for changes to Rust
 
 ## Others
 
-- [rust-lang/.github](https://github.com/rust-lang/.github) topic: pushed_at:2024-07 star:0.0k fork:0.0k Special GitHub repository with fallback issue templates and community health files for other repos.
+- [rust-lang/.github](https://github.com/rust-lang/.github) topic: pushed_at:2024-07 star:0.0k fork:0.1k Special GitHub repository with fallback issue templates and community health files for other repos.
 - [rust-lang/all-hands-2020](https://github.com/rust-lang/all-hands-2020) topic: pushed_at:2020-02 star:0.0k fork:0.0k Website for the Rust All Hands 2020
 - [rust-lang/api-guidelines](https://github.com/rust-lang/api-guidelines) topic:rust pushed_at:2025-07 star:1.3k fork:0.1k Rust API guidelines
 - [rust-lang/async-crashdump-debugging-initiative](https://github.com/rust-lang/async-crashdump-debugging-initiative) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [rust-lang/async-fundamentals-initiative](https://github.com/rust-lang/async-fundamentals-initiative) topic: pushed_at:2023-09 star:0.1k fork:0.0k 
 - [rust-lang/aws-runners-test](https://github.com/rust-lang/aws-runners-test) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
+- [rust-lang/bors-kindergarten](https://github.com/rust-lang/bors-kindergarten) topic: pushed_at:2025-07 star:0.0k fork:0.0k Experimental repository for testing the behavior of the new bors implementation.
 - [rust-lang/ci-feedback](https://github.com/rust-lang/ci-feedback) topic: pushed_at:2025-04 star:0.0k fork:0.0k Repository to collect feedback on how to improve rust-lang/rust CI
 - [rust-lang/community-localization](https://github.com/rust-lang/community-localization) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [rust-lang/compiler-team-prioritization](https://github.com/rust-lang/compiler-team-prioritization) topic: pushed_at:2020-09 star:0.0k fork:0.0k Home repository for compiler team operations
@@ -120,7 +121,7 @@
 - [rust-lang/google-summer-of-code](https://github.com/rust-lang/google-summer-of-code) topic: pushed_at:2025-05 star:0.2k fork:0.0k Rust project ideas for Google Summer of Code
 - [rust-lang/governance](https://github.com/rust-lang/governance) topic: pushed_at:2022-01 star:0.0k fork:0.0k The home for Rust's governance documentation, such as team charters.
 - [rust-lang/impl-trait-initiative](https://github.com/rust-lang/impl-trait-initiative) topic: pushed_at:2023-04 star:0.0k fork:0.0k Impl trait lang team initiative
-- [rust-lang/infra-team](https://github.com/rust-lang/infra-team) topic:rust-infra pushed_at:2025-04 star:0.0k fork:0.0k Coordination repository for the Rust infra team
+- [rust-lang/infra-team](https://github.com/rust-lang/infra-team) topic:rust-infra pushed_at:2025-07 star:0.0k fork:0.0k Coordination repository for the Rust infra team
 - [rust-lang/initiative-template](https://github.com/rust-lang/initiative-template) topic: pushed_at:2021-10 star:0.0k fork:0.0k A template for lang-team initiatives
 - [rust-lang/kate-config](https://github.com/rust-lang/kate-config) topic: pushed_at:2015-05 star:0.0k fork:0.0k Kate configuration for Rust
 - [rust-lang/keyword-generics-initiative](https://github.com/rust-lang/keyword-generics-initiative) topic: pushed_at:2024-08 star:0.1k fork:0.0k Public repository for the Rust keyword generics initiative
@@ -174,7 +175,7 @@
 - [rust-lang/crates-io-heroku-metrics](https://github.com/rust-lang/crates-io-heroku-metrics) topic: pushed_at:2022-12 star:0.0k fork:0.0k Heroku metrics collector for crates.io
 - [rust-lang/gha-self-hosted](https://github.com/rust-lang/gha-self-hosted) topic: pushed_at:2025-07 star:0.0k fork:0.0k GitHub Actions self-hosted runners infrastructure
 - [rust-lang/highfive](https://github.com/rust-lang/highfive) topic: pushed_at:2023-03 star:0.2k fork:0.1k Github hooks to provide an encouraging atmosphere for new contributors
-- [rust-lang/homu](https://github.com/rust-lang/homu) topic:rust-infra pushed_at:2025-05 star:0.2k fork:0.1k A bot that integrates with GitHub and your favorite continuous integration service
+- [rust-lang/homu](https://github.com/rust-lang/homu) topic:rust-infra pushed_at:2025-07 star:0.2k fork:0.1k A bot that integrates with GitHub and your favorite continuous integration service
 - [rust-lang/pontoon](https://github.com/rust-lang/pontoon) topic: pushed_at:2022-06 star:0.0k fork:0.0k Localization platform used by Rust
 - [rust-lang/release-team](https://github.com/rust-lang/release-team) topic: pushed_at:2025-01 star:0.0k fork:0.0k This repository contains all the documents related to the Rust release team.
 - [rust-lang/rust-enhanced](https://github.com/rust-lang/rust-enhanced) topic: pushed_at:2025-07 star:0.8k fork:0.1k The official Sublime Text 4 package for the Rust Programming Language
@@ -188,14 +189,13 @@
 - [rust-lang/annotate-snippets-rs](https://github.com/rust-lang/annotate-snippets-rs) topic:annotator,ascii,library,parser-library pushed_at:2025-07 star:0.3k fork:0.0k Library for snippet annotations
 - [rust-lang/areweasyncyet.rs](https://github.com/rust-lang/areweasyncyet.rs) topic:rust pushed_at:2025-03 star:0.2k fork:0.0k Are we async yet?
 - [rust-lang/backtrace-rs](https://github.com/rust-lang/backtrace-rs) topic: pushed_at:2025-06 star:0.6k fork:0.3k Backtraces in Rust
-- [rust-lang/book](https://github.com/rust-lang/book) topic:book,mdbook,rust,rust-programming-language pushed_at:2025-07 star:16.4k fork:3.7k The Rust Programming Language
-- [rust-lang/bors](https://github.com/rust-lang/bors) topic: pushed_at:2025-07 star:0.1k fork:0.0k Rust implementation of bors used for various Rust components (e.g. the compiler).
-- [rust-lang/bors-kindergarten](https://github.com/rust-lang/bors-kindergarten) topic: pushed_at:2025-07 star:0.0k fork:0.0k Experimental repository for testing the behavior of the new bors implementation.
+- [rust-lang/book](https://github.com/rust-lang/book) topic:book,mdbook,rust,rust-programming-language pushed_at:2025-07 star:16.5k fork:3.7k The Rust Programming Language
+- [rust-lang/bors](https://github.com/rust-lang/bors) topic: pushed_at:2025-08 star:0.1k fork:0.0k Rust implementation of bors used for various Rust components (e.g. the compiler).
 - [rust-lang/calendar](https://github.com/rust-lang/calendar) topic: pushed_at:2025-07 star:0.0k fork:0.0k Calendars for Rust project teams
 - [rust-lang/calendar-generation](https://github.com/rust-lang/calendar-generation) topic: pushed_at:2024-11 star:0.0k fork:0.0k Generate iCalendar documents from calendar specifications in TOML. See rust-lang/calendar.
-- [rust-lang/cargo](https://github.com/rust-lang/cargo) topic:cargo,package-manager,rust pushed_at:2025-07 star:13.8k fork:2.6k The Rust package manager
-- [rust-lang/cargo-bisect-rustc](https://github.com/rust-lang/cargo-bisect-rustc) topic: pushed_at:2025-06 star:0.2k fork:0.1k Bisects rustc, either nightlies or CI artifacts
-- [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) topic: pushed_at:2025-07 star:2.0k fork:0.5k Rust library for build scripts to compile C/C++ code into a Rust library
+- [rust-lang/cargo](https://github.com/rust-lang/cargo) topic:cargo,package-manager,rust pushed_at:2025-08 star:13.8k fork:2.6k The Rust package manager
+- [rust-lang/cargo-bisect-rustc](https://github.com/rust-lang/cargo-bisect-rustc) topic: pushed_at:2025-07 star:0.2k fork:0.1k Bisects rustc, either nightlies or CI artifacts
+- [rust-lang/cc-rs](https://github.com/rust-lang/cc-rs) topic: pushed_at:2025-08 star:2.0k fork:0.5k Rust library for build scripts to compile C/C++ code into a Rust library
 - [rust-lang/cfg-if](https://github.com/rust-lang/cfg-if) topic: pushed_at:2025-06 star:0.6k fork:0.0k A if/elif-like macro for Rust #[cfg] statements
 - [rust-lang/chalk](https://github.com/rust-lang/chalk) topic: pushed_at:2025-06 star:1.9k fork:0.2k An implementation and definition of the Rust trait system using a PROLOG-like logic solver
 - [rust-lang/ci-mirrors](https://github.com/rust-lang/ci-mirrors) topic: pushed_at:2025-07 star:0.0k fork:0.0k Upload files to Rust's CI mirrors
@@ -203,7 +203,7 @@
 - [rust-lang/compiler-builtins](https://github.com/rust-lang/compiler-builtins) topic: pushed_at:2025-07 star:0.4k fork:0.2k Rust implementations of compiler-rt and libm
 - [rust-lang/crater](https://github.com/rust-lang/crater) topic: pushed_at:2025-07 star:0.7k fork:0.1k Run experiments across parts of the Rust ecosystem!
 - [rust-lang/crates-io-ops-bot](https://github.com/rust-lang/crates-io-ops-bot) topic: pushed_at:2022-11 star:0.0k fork:0.0k a bot to help assist the crates.io, website, and other rust ops teams
-- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) topic:hacktoberfest,rust pushed_at:2025-07 star:3.3k fork:0.7k The Rust package registry
+- [rust-lang/crates.io](https://github.com/rust-lang/crates.io) topic:hacktoberfest,rust pushed_at:2025-08 star:3.3k fork:0.7k The Rust package registry
 - [rust-lang/crates_io_og_image](https://github.com/rust-lang/crates_io_og_image) topic: pushed_at:2025-07 star:0.0k fork:0.0k OpenGraph image generation for crates.io packages
 - [rust-lang/datafrog](https://github.com/rust-lang/datafrog) topic: pushed_at:2022-01 star:0.8k fork:0.0k A lightweight Datalog engine in Rust
 - [rust-lang/discord-mods-bot](https://github.com/rust-lang/discord-mods-bot) topic: pushed_at:2025-02 star:0.1k fork:0.0k discord moderation bot
@@ -211,14 +211,14 @@
 - [rust-lang/ena](https://github.com/rust-lang/ena) topic: pushed_at:2024-05 star:0.2k fork:0.0k An implementation of union-find / congruence-closure in Rust. Extracted from rustc for independent experimentation.
 - [rust-lang/ferris-says](https://github.com/rust-lang/ferris-says) topic: pushed_at:2024-11 star:0.2k fork:0.0k A Rust flavored implementation of `cowsay`
 - [rust-lang/flate2-rs](https://github.com/rust-lang/flate2-rs) topic:deflate,gzip,zlib,zlib-ng pushed_at:2025-07 star:1.0k fork:0.2k DEFLATE, gzip, and zlib bindings for Rust
-- [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) topic:async-foundations pushed_at:2025-05 star:5.7k fork:0.7k Zero-cost asynchronous programming in Rust
-- [rust-lang/gccjit.rs](https://github.com/rust-lang/gccjit.rs) topic:hacktoberfest pushed_at:2025-04 star:0.0k fork:0.0k Rust bindings for libgccjit
+- [rust-lang/futures-rs](https://github.com/rust-lang/futures-rs) topic:async-foundations pushed_at:2025-07 star:5.7k fork:0.7k Zero-cost asynchronous programming in Rust
+- [rust-lang/gccjit.rs](https://github.com/rust-lang/gccjit.rs) topic:hacktoberfest pushed_at:2025-07 star:0.0k fork:0.0k Rust bindings for libgccjit
 - [rust-lang/generate-manifest-list](https://github.com/rust-lang/generate-manifest-list) topic: pushed_at:2025-07 star:0.0k fork:0.0k Creates a list of manifests on static.rust-lang.org
 - [rust-lang/getopts](https://github.com/rust-lang/getopts) topic: pushed_at:2025-06 star:0.2k fork:0.1k The getopts repo maintained by the rust-lang project
 - [rust-lang/git2-rs](https://github.com/rust-lang/git2-rs) topic: pushed_at:2025-06 star:1.9k fork:0.4k libgit2 bindings for Rust
 - [rust-lang/glacier](https://github.com/rust-lang/glacier) topic: pushed_at:2024-05 star:0.3k fork:0.1k A big 'ol pile of ICE.
 - [rust-lang/gll](https://github.com/rust-lang/gll) topic: pushed_at:2024-03 star:0.1k fork:0.0k GLL parsing framework.
-- [rust-lang/glob](https://github.com/rust-lang/glob) topic: pushed_at:2025-01 star:0.5k fork:0.1k Support for matching file paths against Unix shell style patterns.
+- [rust-lang/glob](https://github.com/rust-lang/glob) topic: pushed_at:2025-07 star:0.5k fork:0.1k Support for matching file paths against Unix shell style patterns.
 - [rust-lang/hashbrown](https://github.com/rust-lang/hashbrown) topic: pushed_at:2025-07 star:2.7k fork:0.3k Rust port of Google's SwissTable hash map
 - [rust-lang/impl-trait-utils](https://github.com/rust-lang/impl-trait-utils) topic: pushed_at:2025-01 star:0.1k fork:0.0k Utilities for working with impl traits in Rust.
 - [rust-lang/infra-smoke-tests](https://github.com/rust-lang/infra-smoke-tests) topic: pushed_at:2025-07 star:0.0k fork:0.0k Smoke tests for the infrastructure of the Rust project
@@ -232,9 +232,9 @@
 - [rust-lang/literal-escaper](https://github.com/rust-lang/literal-escaper) topic: pushed_at:2025-07 star:0.0k fork:0.0k Provides code to unescape string literals. It is used by rustc_lexer and proc_macro.
 - [rust-lang/log](https://github.com/rust-lang/log) topic:logging,rust-library pushed_at:2025-07 star:2.4k fork:0.3k Logging implementation for Rust
 - [rust-lang/mailgun-mailmap](https://github.com/rust-lang/mailgun-mailmap) topic:rust-infra pushed_at:2019-02 star:0.0k fork:0.0k Mail configuration for rust-lang domains
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) topic: pushed_at:2025-07 star:20.0k fork:1.7k Create book from markdown files. Like Gitbook but implemented in Rust
+- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) topic: pushed_at:2025-07 star:20.1k fork:1.8k Create book from markdown files. Like Gitbook but implemented in Rust
 - [rust-lang/measureme](https://github.com/rust-lang/measureme) topic: pushed_at:2025-07 star:0.4k fork:0.1k Support crate for rustc's self-profiling feature
-- [rust-lang/miri](https://github.com/rust-lang/miri) topic: pushed_at:2025-07 star:5.3k fork:0.4k An interpreter for Rust's mid-level intermediate representation
+- [rust-lang/miri](https://github.com/rust-lang/miri) topic: pushed_at:2025-08 star:5.3k fork:0.4k An interpreter for Rust's mid-level intermediate representation
 - [rust-lang/monitorbot](https://github.com/rust-lang/monitorbot) topic: pushed_at:2024-09 star:0.0k fork:0.0k Monitoring of external API services Rust infrastructure relies upon
 - [rust-lang/odht](https://github.com/rust-lang/odht) topic: pushed_at:2021-10 star:0.1k fork:0.0k An on-disk hash table implementation
 - [rust-lang/packed_simd](https://github.com/rust-lang/packed_simd) topic: pushed_at:2024-05 star:0.6k fork:0.1k Portable Packed SIMD Vectors for Rust standard library
@@ -249,8 +249,8 @@
 - [rust-lang/relnotes](https://github.com/rust-lang/relnotes) topic: pushed_at:2025-05 star:0.0k fork:0.0k Generate release notes for "The Rust Programming Language"
 - [rust-lang/rfcbot-rs](https://github.com/rust-lang/rfcbot-rs) topic:bot,diesel-rs,rfc-process,rocket-rs,rust pushed_at:2025-03 star:0.2k fork:0.1k Coordinates asynchronous decision making on Rust repositories. Status of tracked issues and PRs can be viewed at https://rfcbot.rs.
 - [rust-lang/rls](https://github.com/rust-lang/rls) topic:ide,language-server-protocol,rust pushed_at:2022-08 star:3.5k fork:0.3k Repository for the Rust Language Server (aka RLS)
-- [rust-lang/rust](https://github.com/rust-lang/rust) topic:compiler,hacktoberfest,language,rust pushed_at:2025-07 star:105.1k fork:13.5k Empowering everyone to build reliable and efficient software.
-- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) topic:hacktoberfest,lsp-server,rust pushed_at:2025-07 star:15.3k fork:1.8k A Rust compiler front-end for IDEs
+- [rust-lang/rust](https://github.com/rust-lang/rust) topic:compiler,hacktoberfest,language,rust pushed_at:2025-08 star:105.4k fork:13.6k Empowering everyone to build reliable and efficient software.
+- [rust-lang/rust-analyzer](https://github.com/rust-lang/rust-analyzer) topic:hacktoberfest,lsp-server,rust pushed_at:2025-08 star:15.3k fork:1.8k A Rust compiler front-end for IDEs
 - [rust-lang/rust-bindgen](https://github.com/rust-lang/rust-bindgen) topic:bindings,codegen,ffi pushed_at:2025-07 star:4.9k fork:0.8k Automatically generates Rust FFI bindings to C (and some C++) libraries.
 - [rust-lang/rust-central-station](https://github.com/rust-lang/rust-central-station) topic: pushed_at:2020-11 star:0.1k fork:0.1k Old home of some infra pieces
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) topic:lint,rust pushed_at:2025-07 star:12.3k fork:1.7k A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
@@ -261,23 +261,23 @@
 - [rust-lang/rust-playground](https://github.com/rust-lang/rust-playground) topic:rust,rust-playground pushed_at:2025-07 star:1.3k fork:0.2k The Rust Playground
 - [rust-lang/rust-playpen](https://github.com/rust-lang/rust-playpen) topic: pushed_at:2017-10 star:0.2k fork:0.1k A web interface for running Rust code
 - [rust-lang/rust-project-goals](https://github.com/rust-lang/rust-project-goals) topic: pushed_at:2025-07 star:0.1k fork:0.1k Rust Project Goals tracker
-- [rust-lang/rust-repos](https://github.com/rust-lang/rust-repos) topic:rust-infra pushed_at:2025-07 star:0.1k fork:0.0k Dataset of Rust source code repositories
+- [rust-lang/rust-repos](https://github.com/rust-lang/rust-repos) topic:rust-infra pushed_at:2025-08 star:0.1k fork:0.0k Dataset of Rust source code repositories
 - [rust-lang/rust-semverver](https://github.com/rust-lang/rust-semverver) topic: pushed_at:2023-07 star:0.6k fork:0.0k Automatic checking for semantic versioning in library crates
 - [rust-lang/rustc-demangle](https://github.com/rust-lang/rustc-demangle) topic: pushed_at:2025-07 star:0.3k fork:0.1k Rust symbol demangling
 - [rust-lang/rustc-hash](https://github.com/rust-lang/rustc-hash) topic: pushed_at:2025-02 star:0.5k fork:0.1k Custom hash algorithm used by rustc (plus hashmap/set aliases): fast, deterministic, not secure
 - [rust-lang/rustc-perf](https://github.com/rust-lang/rustc-perf) topic:performance pushed_at:2025-07 star:0.7k fork:0.2k Website for graphing performance of rustc
 - [rust-lang/rustc-rayon](https://github.com/rust-lang/rustc-rayon) topic: pushed_at:2025-04 star:0.0k fork:0.0k Rayon: A data parallelism library for Rust
-- [rust-lang/rustc-stable-hash](https://github.com/rust-lang/rustc-stable-hash) topic: pushed_at:2025-03 star:0.0k fork:0.0k A stable hashing algorithm used by rustc: cross-platform, deterministic, not secure
+- [rust-lang/rustc-stable-hash](https://github.com/rust-lang/rustc-stable-hash) topic: pushed_at:2025-07 star:0.0k fork:0.0k A stable hashing algorithm used by rustc: cross-platform, deterministic, not secure
 - [rust-lang/rustc_apfloat](https://github.com/rust-lang/rustc_apfloat) topic: pushed_at:2025-06 star:0.0k fork:0.0k Rust port of C++ llvm::APFloat library
 - [rust-lang/rustc_codegen_c](https://github.com/rust-lang/rustc_codegen_c) topic: pushed_at:2025-02 star:0.0k fork:0.0k C based backend for rustc
 - [rust-lang/rustc_codegen_cranelift](https://github.com/rust-lang/rustc_codegen_cranelift) topic:aot,compiler,cranelift,jit,rust pushed_at:2025-07 star:1.8k fork:0.1k Cranelift based backend for rustc
 - [rust-lang/rustc_codegen_gcc](https://github.com/rust-lang/rustc_codegen_gcc) topic:hacktoberfest pushed_at:2025-07 star:1.0k fork:0.1k libgccjit AOT codegen for rustc
 - [rust-lang/rustdoc-types](https://github.com/rust-lang/rustdoc-types) topic: pushed_at:2025-07 star:0.0k fork:0.0k Rustdoc's JSON output interface
-- [rust-lang/rustfix](https://github.com/rust-lang/rustfix) topic:cargo,cli,hacktoberfest,rust pushed_at:2023-11 star:0.8k fork:0.1k Automatically apply the suggestions made by rustc
+- [rust-lang/rustfix](https://github.com/rust-lang/rustfix) topic:cargo,cli,hacktoberfest,rust pushed_at:2023-11 star:0.9k fork:0.1k Automatically apply the suggestions made by rustc
 - [rust-lang/rustfmt](https://github.com/rust-lang/rustfmt) topic:codeformatter,formatter,rust,rustfmt pushed_at:2025-06 star:6.4k fork:0.9k Format Rust code
-- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) topic:beginner-friendly,exercises,rust,rustlings pushed_at:2025-07 star:59.2k fork:10.7k :crab: Small exercises to get you used to reading and writing Rust code!
-- [rust-lang/rustup](https://github.com/rust-lang/rustup) topic:hacktoberfest,rust,rustlang,toolchain pushed_at:2025-07 star:6.5k fork:1.0k The Rust toolchain installer
-- [rust-lang/rustup-components-history](https://github.com/rust-lang/rustup-components-history) topic: pushed_at:2025-07 star:0.1k fork:0.0k Rustup package status history
+- [rust-lang/rustlings](https://github.com/rust-lang/rustlings) topic:beginner-friendly,exercises,rust,rustlings pushed_at:2025-07 star:59.4k fork:10.8k :crab: Small exercises to get you used to reading and writing Rust code!
+- [rust-lang/rustup](https://github.com/rust-lang/rustup) topic:hacktoberfest,rust,rustlang,toolchain pushed_at:2025-08 star:6.5k fork:1.0k The Rust toolchain installer
+- [rust-lang/rustup-components-history](https://github.com/rust-lang/rustup-components-history) topic: pushed_at:2025-08 star:0.1k fork:0.0k Rustup package status history
 - [rust-lang/rustwide](https://github.com/rust-lang/rustwide) topic: pushed_at:2025-06 star:0.2k fork:0.0k Execute your code on the Rust ecosystem.
 - [rust-lang/socket2](https://github.com/rust-lang/socket2) topic: pushed_at:2025-07 star:0.8k fork:0.3k Advanced configuration options for sockets.
 - [rust-lang/stacker](https://github.com/rust-lang/stacker) topic: pushed_at:2025-04 star:0.3k fork:0.1k Manual segmented stacks for Rust
@@ -296,18 +296,18 @@
 
 - [rust-lang/async-book](https://github.com/rust-lang/async-book) topic:async-foundations pushed_at:2025-07 star:2.0k fork:0.3k Asynchronous Programming in Rust
 - [rust-lang/crates.io-index-archive](https://github.com/rust-lang/crates.io-index-archive) topic: pushed_at:2025-06 star:0.0k fork:0.0k Archive of the crates.io-index commit history after squashes
-- [rust-lang/miri-test-libstd](https://github.com/rust-lang/miri-test-libstd) topic: pushed_at:2025-07 star:0.0k fork:0.0k Testing the Rust standard library with Miri, continuously
+- [rust-lang/miri-test-libstd](https://github.com/rust-lang/miri-test-libstd) topic: pushed_at:2025-08 star:0.0k fork:0.0k Testing the Rust standard library with Miri, continuously
 - [rust-lang/rust-installer](https://github.com/rust-lang/rust-installer) topic: pushed_at:2023-11 star:0.1k fork:0.1k The Bourne shell installer used by Rust and Cargo
 - [rust-lang/std-dev-guide](https://github.com/rust-lang/std-dev-guide) topic: pushed_at:2025-04 star:0.1k fork:0.0k Guide for standard library developers
 - [rust-lang/wg-security-response](https://github.com/rust-lang/wg-security-response) topic: pushed_at:2025-04 star:0.0k fork:0.0k Documentation for the Rust Security Response WG
 
 ## Tcl
 
-- [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) topic: pushed_at:2025-07 star:0.6k fork:0.2k Registry index for crates.io
+- [rust-lang/crates.io-index](https://github.com/rust-lang/crates.io-index) topic: pushed_at:2025-08 star:0.6k fork:0.3k Registry index for crates.io
 
 ## TypeScript
 
-- [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action) topic: pushed_at:2025-07 star:0.0k fork:0.0k Get a crates.io temporary access token
+- [rust-lang/crates-io-auth-action](https://github.com/rust-lang/crates-io-auth-action) topic: pushed_at:2025-08 star:0.0k fork:0.0k Get a crates.io temporary access token
 - [rust-lang/vscode-rust](https://github.com/rust-lang/vscode-rust) topic:rust,vscode-extension pushed_at:2022-11 star:1.4k fork:0.2k Rust extension for Visual Studio Code
 
 ## Vim Script
