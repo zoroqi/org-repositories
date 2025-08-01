@@ -53,7 +53,7 @@
 - [mdn/insights](https://github.com/mdn/insights) topic: pushed_at:2022-04 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) topic:css,editor,examples,html,interactive,javascript,mdn,nodejs pushed_at:2025-05 star:0.7k fork:0.5k Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) topic: pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
-- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2025-07 star:7.3k fork:27.3k GitHub repo for the MDN Learning Area. 
+- [mdn/learning-area](https://github.com/mdn/learning-area) topic:learning,learning-js,learning-to-code,mdn-docs pushed_at:2025-07 star:7.3k fork:27.4k GitHub repo for the MDN Learning Area. 
 - [mdn/learning-area-de](https://github.com/mdn/learning-area-de) topic: pushed_at:2022-04 star:0.0k fork:0.0k German translations of the MDN Learning Area examples
 - [mdn/learning-area-pt-br](https://github.com/mdn/learning-area-pt-br) topic: pushed_at:2022-09 star:0.0k fork:0.1k The MDN Learning Area code examples translated into Brazilian Portuguese.
 - [mdn/machine-translation-testing-content](https://github.com/mdn/machine-translation-testing-content) topic: pushed_at:2020-11 star:0.0k fork:0.0k This is a repository for testing machine translations of English content.
@@ -68,7 +68,7 @@
 - [mdn/viewsourceconf](https://github.com/mdn/viewsourceconf) topic:conference,metalsmith,viewsource pushed_at:2019-03 star:0.0k fork:0.0k Repo for View Source Conference site
 - [mdn/watify](https://github.com/mdn/watify) topic: pushed_at:2025-06 star:0.0k fork:0.0k Compile WAT to WASM with WASM 🙇
 - [mdn/web-tech-games](https://github.com/mdn/web-tech-games) topic: pushed_at:2022-12 star:0.0k fork:0.0k Interactive diagram showing what parts of the web technology stack can used for different purposes when creating games. Includes links to more information about each.
-- [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) topic:audio,demo,examples,webaudio,webaudio-api pushed_at:2025-03 star:1.4k fork:0.4k Code examples that accompany the MDN Web Docs pages relating to Web Audio.
+- [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) topic:audio,demo,examples,webaudio,webaudio-api pushed_at:2025-07 star:1.4k fork:0.4k Code examples that accompany the MDN Web Docs pages relating to Web Audio.
 - [mdn/whitestorm-demo](https://github.com/mdn/whitestorm-demo) topic: pushed_at:2019-04 star:0.0k fork:0.0k A simple demo showing usage of the Whitestorm.js 3D web library.
 
 ## JSON
@@ -134,9 +134,9 @@
 
 ## Markdown
 
-- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2025-07 star:9.6k fork:22.8k The content behind MDN Web Docs
-- [mdn/translated-content](https://github.com/mdn/translated-content) topic:documentation,l10n,mdn pushed_at:2025-07 star:1.8k fork:8.2k The source repository of all translated content for MDN Web Docs
-- [mdn/translated-content-de](https://github.com/mdn/translated-content-de) topic: pushed_at:2025-07 star:0.0k fork:0.0k Experimental German locale for MDN, aimed at German-speaking users that prefer to read MDN Web Docs in their native language
+- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2025-07 star:9.7k fork:22.8k The content behind MDN Web Docs
+- [mdn/translated-content](https://github.com/mdn/translated-content) topic:documentation,l10n,mdn pushed_at:2025-08 star:1.9k fork:8.3k The source repository of all translated content for MDN Web Docs
+- [mdn/translated-content-de](https://github.com/mdn/translated-content-de) topic: pushed_at:2025-08 star:0.0k fork:0.0k Experimental German locale for MDN, aimed at German-speaking users that prefer to read MDN Web Docs in their native language
 - [mdn/translated-content-it](https://github.com/mdn/translated-content-it) topic: pushed_at:2025-07 star:0.0k fork:0.0k Experimental Italian locale for MDN, aimed at Italian-speaking users that prefer to read MDN Web Docs in their native language 
 
 ## Mermaid
@@ -203,7 +203,7 @@
 
 ## Vue
 
-- [mdn/release-dashboard](https://github.com/mdn/release-dashboard) topic:bugzilla,mdn pushed_at:2025-07 star:0.0k fork:0.0k Small app to display bugzilla bugs which need dev docs
+- [mdn/release-dashboard](https://github.com/mdn/release-dashboard) topic:bugzilla,mdn pushed_at:2025-08 star:0.0k fork:0.0k Small app to display bugzilla bugs which need dev docs
 - [mdn/todo-vue](https://github.com/mdn/todo-vue) topic:mdn,todo,vue,vuejs pushed_at:2025-07 star:0.1k fork:0.1k Sample todo app built with the Vue framework
 
 ## WebAssembly

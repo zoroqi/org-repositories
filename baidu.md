@@ -28,7 +28,7 @@
 
 - [baidu/baidu-iot-samples](https://github.com/baidu/baidu-iot-samples) topic: pushed_at:2019-10 star:0.1k fork:0.1k 
 - [baidu/boteye_sensor](https://github.com/baidu/boteye_sensor) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/dperf](https://github.com/baidu/dperf) topic:benchmark,dpdk,l4lb,linux-networking,load-testing,network-benchmarking,packet-generator,performance,performance-testing,tcp,user-space-networking,user-space-tcp pushed_at:2025-05 star:5.4k fork:0.5k dperf is a 100Gbps network load tester.
+- [baidu/dperf](https://github.com/baidu/dperf) topic:benchmark,dpdk,l4lb,linux-networking,load-testing,network-benchmarking,packet-generator,performance,performance-testing,tcp,user-space-networking,user-space-tcp pushed_at:2025-07 star:5.4k fork:0.5k dperf: High-Performance Network Load Testing Tool Based on DPDK
 - [baidu/du1906_esp](https://github.com/baidu/du1906_esp) topic: pushed_at:2023-05 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
 - [baidu/iot-edge-sdk-for-iot-parser](https://github.com/baidu/iot-edge-sdk-for-iot-parser) topic: pushed_at:2019-02 star:0.1k fork:0.1k 
 - [baidu/iot-sdk-c](https://github.com/baidu/iot-sdk-c) topic:device-management,edge-sdk,mqtt,sdk pushed_at:2022-04 star:0.1k fork:0.1k device sdk for baidu IoT Core service, in c. Including MQTT client

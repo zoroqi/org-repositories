@@ -407,7 +407,7 @@
 - [apachecn/mitnicksecurity-zh](https://github.com/apachecn/mitnicksecurity-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [apachecn/mkyong-blog-zh](https://github.com/apachecn/mkyong-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) topic: pushed_at:2025-02 star:0.8k fork:0.2k :book: [译] MachineLearningMastery 博客文章
-- [apachecn/ml-mastery-zh-pt2](https://github.com/apachecn/ml-mastery-zh-pt2) topic: pushed_at:2022-07 star:0.1k fork:0.0k 
+- [apachecn/ml-mastery-zh-pt2](https://github.com/apachecn/ml-mastery-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/mlearningai-blog-zh](https://github.com/apachecn/mlearningai-blog-zh) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/moesif-blog-zh](https://github.com/apachecn/moesif-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Moesif 博客中文翻译
 - [apachecn/moralis-blog-zh](https://github.com/apachecn/moralis-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Moralis 博客中文翻译
@@ -1195,7 +1195,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:41.1k fork:11.6k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:41.2k fork:11.6k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
