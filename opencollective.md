@@ -268,7 +268,7 @@
 - [opencollective/code-surfer](https://github.com/opencollective/code-surfer) topic: pushed_at:2019-09 star:0.0k fork:0.0k Rad code slides <🏄/>
 - [opencollective/codecrumbs](https://github.com/opencollective/codecrumbs) topic: pushed_at:2019-03 star:0.0k fork:0.0k Learn, design or document codebase by putting breadcrumbs in source code. Live updates, multi-language support, and easy sharing.
 - [opencollective/coderplanets_web](https://github.com/opencollective/coderplanets_web) topic: pushed_at:2019-07 star:0.0k fork:0.0k the most sexiest community for developers,  build with React, Mobx/MST, GraphQL, Styled-Components,  Rxjs, Ramda ... and ❤️
-- [opencollective/contributors-svg](https://github.com/opencollective/contributors-svg) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
+- [opencollective/contributors-svg](https://github.com/opencollective/contributors-svg) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
 - [opencollective/core](https://github.com/opencollective/core) topic: pushed_at:2017-07 star:0.0k fork:0.0k Agnostic Virtual Assistant
 - [opencollective/core-js](https://github.com/opencollective/core-js) topic: pushed_at:2019-04 star:0.0k fork:0.0k Standard Library
 - [opencollective/country-currency-emoji-flags](https://github.com/opencollective/country-currency-emoji-flags) topic: pushed_at:2023-12 star:0.0k fork:0.0k Returns Country Flag Emojis Given the Country or Currency Codes
@@ -293,7 +293,7 @@
 - [opencollective/envinfo](https://github.com/opencollective/envinfo) topic: pushed_at:2019-07 star:0.0k fork:0.0k Generate a report about your development environment for debugging and issue reporting
 - [opencollective/erxes](https://github.com/opencollective/erxes) topic: pushed_at:2017-10 star:0.0k fork:0.0k erxes is an AI meets open source messaging platform  for sales and marketing
 - [opencollective/esdiscuss.org](https://github.com/opencollective/esdiscuss.org) topic: pushed_at:2017-08 star:0.0k fork:0.0k A website displaying markdown formatted versions of the esdiscuss.org posts
-- [opencollective/eslint-config-opencollective](https://github.com/opencollective/eslint-config-opencollective) topic: pushed_at:2025-06 star:0.0k fork:0.0k https://www.npmjs.com/package/eslint-config-opencollective
+- [opencollective/eslint-config-opencollective](https://github.com/opencollective/eslint-config-opencollective) topic: pushed_at:2025-08 star:0.0k fork:0.0k https://www.npmjs.com/package/eslint-config-opencollective
 - [opencollective/eslint-plugin-compat](https://github.com/opencollective/eslint-plugin-compat) topic: pushed_at:2019-04 star:0.0k fork:0.0k Lint the browser compatibility of your code
 - [opencollective/eslint.github.io](https://github.com/opencollective/eslint.github.io) topic: pushed_at:2019-05 star:0.0k fork:0.0k ESLint website
 - [opencollective/Ethlint](https://github.com/opencollective/Ethlint) topic: pushed_at:2019-04 star:0.0k fork:0.0k (Formerly Solium) Linter to identify and fix style & security issues in Solidity
@@ -310,7 +310,7 @@
 - [opencollective/git-point](https://github.com/opencollective/git-point) topic: pushed_at:2017-10 star:0.0k fork:0.0k GitHub in your pocket :iphone:
 - [opencollective/gitter-services](https://github.com/opencollective/gitter-services) topic: pushed_at:2016-03 star:0.0k fork:0.0k Gitter integrations
 - [opencollective/grapher](https://github.com/opencollective/grapher) topic: pushed_at:2017-11 star:0.0k fork:0.0k Grapher: Meteor Collection Joins + Reactive GraphQL like queries
-- [opencollective/graphql-docs-v2](https://github.com/opencollective/graphql-docs-v2) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
+- [opencollective/graphql-docs-v2](https://github.com/opencollective/graphql-docs-v2) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
 - [opencollective/Grow-IoT](https://github.com/opencollective/Grow-IoT) topic: pushed_at:2017-08 star:0.0k fork:0.0k Open source software for growing things.
 - [opencollective/handsfree.js](https://github.com/opencollective/handsfree.js) topic: pushed_at:2019-01 star:0.0k fork:0.0k A drop-in library for creating webcam driven handsfree tools, games, and experiences just...like...✨...that!
 - [opencollective/hedron](https://github.com/opencollective/hedron) topic: pushed_at:2017-06 star:0.0k fork:0.0k A no-frills flexbox grid system for React, powered by styled-components.
@@ -361,7 +361,7 @@
 - [opencollective/opencollective-email](https://github.com/opencollective/opencollective-email) topic: pushed_at:2019-01 star:0.0k fork:0.0k The email service for transparent and inclusive open collectives
 - [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) topic: pushed_at:2023-01 star:0.0k fork:0.0k The new Open Collective email service, powered by Eymail
 - [opencollective/opencollective-giftcards-generator](https://github.com/opencollective/opencollective-giftcards-generator) topic: pushed_at:2020-04 star:0.0k fork:0.0k Simple app to generate read-to-print Open Collective gift cards
-- [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) topic: pushed_at:2025-07 star:0.1k fork:0.0k Open Collective's Image Server. For badges, banners, avatar, etc ...
+- [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) topic: pushed_at:2025-08 star:0.1k fork:0.0k Open Collective's Image Server. For badges, banners, avatar, etc ...
 - [opencollective/opencollective-jobs](https://github.com/opencollective/opencollective-jobs) topic: pushed_at:2018-05 star:0.0k fork:0.0k 
 - [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) topic: pushed_at:2023-03 star:0.1k fork:0.0k Prompt your users to donate to your collective after `npm install`
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) topic: pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
@@ -744,7 +744,7 @@
 - [opencollective/open-zwave](https://github.com/opencollective/open-zwave) topic: pushed_at:2019-09 star:0.0k fork:0.0k a C++ library to control Z-Wave Networks via a USB Z-Wave Controller. 
 - [opencollective/openaddresses](https://github.com/opencollective/openaddresses) topic: pushed_at:2020-01 star:0.0k fork:0.0k A repository of global open address data.
 - [opencollective/openboxes](https://github.com/opencollective/openboxes) topic: pushed_at:2020-02 star:0.0k fork:0.0k OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
-- [opencollective/opencollective](https://github.com/opencollective/opencollective) topic:open-source,sustainability,transparency pushed_at:2025-07 star:2.1k fork:0.4k We're tracking all our Issues, RFCs and a few other documents in this repository.
+- [opencollective/opencollective](https://github.com/opencollective/opencollective) topic:open-source,sustainability,transparency pushed_at:2025-07 star:2.2k fork:0.4k We're tracking all our Issues, RFCs and a few other documents in this repository.
 - [opencollective/opencollective-lib](https://github.com/opencollective/opencollective-lib) topic: pushed_at:2016-06 star:0.0k fork:0.0k Libraries in common in our repos
 - [opencollective/openmptcprouter](https://github.com/opencollective/openmptcprouter) topic: pushed_at:2020-03 star:0.0k fork:0.0k OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [opencollective/opensource](https://github.com/opencollective/opensource) topic: pushed_at:2016-07 star:0.0k fork:0.0k This is the Open Source Collective repo. Submit here issues related on how to spend the money and projects/ideas to get funded. 
@@ -1039,30 +1039,30 @@
 - [opencollective/cyph](https://github.com/opencollective/cyph) topic: pushed_at:2019-03 star:0.0k fork:0.0k Completely private voice and video chat.
 - [opencollective/discover](https://github.com/opencollective/discover) topic: pushed_at:2024-10 star:0.0k fork:0.0k Discover the impact of Open Collective
 - [opencollective/editor.js](https://github.com/opencollective/editor.js) topic: pushed_at:2019-04 star:0.0k fork:0.0k A block-styled editor with clean JSON output
-- [opencollective/funders-dashboard](https://github.com/opencollective/funders-dashboard) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
+- [opencollective/funders-dashboard](https://github.com/opencollective/funders-dashboard) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
 - [opencollective/funders-dashboard-2](https://github.com/opencollective/funders-dashboard-2) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [opencollective/got](https://github.com/opencollective/got) topic: pushed_at:2019-04 star:0.0k fork:0.0k Simplified HTTP requests
 - [opencollective/javascript-obfuscator](https://github.com/opencollective/javascript-obfuscator) topic: pushed_at:2017-05 star:0.0k fork:0.0k A powerful obfuscator for JavaScript and Node.js
 - [opencollective/karma-typescript](https://github.com/opencollective/karma-typescript) topic: pushed_at:2017-04 star:0.0k fork:0.0k Simplifying running unit tests with coverage for Typescript projects.
 - [opencollective/marketing-pages](https://github.com/opencollective/marketing-pages) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [opencollective/Mirakurun](https://github.com/opencollective/Mirakurun) topic: pushed_at:2019-02 star:0.0k fork:0.0k A Modern DTV Tuner Server Service for ISDB.
-- [opencollective/monerium-bot](https://github.com/opencollective/monerium-bot) topic: pushed_at:2025-06 star:0.0k fork:0.0k Fetch transactions from Monerium account, post in Discord
+- [opencollective/monerium-bot](https://github.com/opencollective/monerium-bot) topic: pushed_at:2025-08 star:0.0k fork:0.0k Fetch transactions from Monerium account, post in Discord
 - [opencollective/nest](https://github.com/opencollective/nest) topic: pushed_at:2017-05 star:0.0k fork:0.0k A modern node.js framework for efficient and scalable web applications built on top of TypeScript.
 - [opencollective/ngx-translate-extract](https://github.com/opencollective/ngx-translate-extract) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [opencollective/node-csvtojson](https://github.com/opencollective/node-csvtojson) topic: pushed_at:2018-06 star:0.0k fork:0.0k Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line. 
 - [opencollective/OMSCentral](https://github.com/opencollective/OMSCentral) topic: pushed_at:2018-05 star:0.0k fork:0.0k Code for OMSCentral.com
 - [opencollective/oni](https://github.com/opencollective/oni) topic: pushed_at:2019-06 star:0.0k fork:0.0k Oni: An IDE powered by Neovim
 - [opencollective/openbunker](https://github.com/opencollective/openbunker) topic: pushed_at:2025-07 star:0.0k fork:0.0k Bunker to onboard members of your community to Nostr
-- [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) topic:graphql,hacktoberfest,nodejs,opencollective,postgres pushed_at:2025-07 star:0.4k fork:0.3k Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
+- [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) topic:graphql,hacktoberfest,nodejs,opencollective,postgres pushed_at:2025-08 star:0.4k fork:0.3k Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
 - [opencollective/opencollective-aws-functions](https://github.com/opencollective/opencollective-aws-functions) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [opencollective/opencollective-bot](https://github.com/opencollective/opencollective-bot) topic:bot,opencollective,probot pushed_at:2021-08 star:0.1k fork:0.0k 🤖 A perfect companion for your Open Collective
 - [opencollective/opencollective-coda](https://github.com/opencollective/opencollective-coda) topic: pushed_at:2023-11 star:0.0k fork:0.0k A pack to access the Open Collective API through Coda.io
-- [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) topic:hacktoberfest,nextjs,opencollective,react,webpack pushed_at:2025-07 star:0.9k fork:0.4k Open Collective's Frontend. A React app powered by Next.js.
-- [opencollective/opencollective-frontend-template](https://github.com/opencollective/opencollective-frontend-template) topic: pushed_at:2025-07 star:0.0k fork:0.0k Kickstart a new frontend project at Open Collective.
+- [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) topic:hacktoberfest,nextjs,opencollective,react,webpack pushed_at:2025-08 star:0.9k fork:0.4k Open Collective's Frontend. A React app powered by Next.js.
+- [opencollective/opencollective-frontend-template](https://github.com/opencollective/opencollective-frontend-template) topic: pushed_at:2025-08 star:0.0k fork:0.0k Kickstart a new frontend project at Open Collective.
 - [opencollective/opencollective-github-helpers](https://github.com/opencollective/opencollective-github-helpers) topic: pushed_at:2023-01 star:0.0k fork:0.0k An app to help with the maintainance and development tasks of Open Collective internal repositories
-- [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) topic:graphql,graphql-js,invoices-pdf,nodejs,opencollective,pdf,pdf-generation pushed_at:2025-07 star:0.1k fork:0.0k Open Collective's PDF Server
+- [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) topic:graphql,graphql-js,invoices-pdf,nodejs,opencollective,pdf,pdf-generation pushed_at:2025-08 star:0.1k fork:0.0k Open Collective's PDF Server
 - [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) topic: pushed_at:2025-08 star:0.1k fork:0.0k Open Collective's REST API legacy, v1, and v2!
-- [opencollective/opencollective-rss](https://github.com/opencollective/opencollective-rss) topic: pushed_at:2025-07 star:0.0k fork:0.0k GraphQL-to-RSS bridge for the Open Collective API
+- [opencollective/opencollective-rss](https://github.com/opencollective/opencollective-rss) topic: pushed_at:2025-08 star:0.0k fork:0.0k GraphQL-to-RSS bridge for the Open Collective API
 - [opencollective/opencollective-taxes](https://github.com/opencollective/opencollective-taxes) topic: pushed_at:2025-08 star:0.0k fork:0.0k Shared code to calculate taxes for events, products and services (VAT)
 - [opencollective/opencollective.xyz](https://github.com/opencollective/opencollective.xyz) topic: pushed_at:2025-06 star:0.0k fork:0.0k New web3 native version of Open Collective
 - [opencollective/perfume.js](https://github.com/opencollective/perfume.js) topic: pushed_at:2019-03 star:0.0k fork:0.0k A flexible JavaScript library for measuring First Contentful Paint (FP/FCP), First Input Delay (FID) and components lifecycle performance (eg. Angular, React). Report real user measurements to Google Analytics or your ideal tracking tool.
