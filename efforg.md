@@ -60,7 +60,7 @@
 ## HTML
 
 - [EFForg/hugo-book](https://github.com/EFForg/hugo-book) topic: pushed_at:2020-08 star:0.0k fork:0.0k Hugo documentation theme as simple as plain book
-- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) topic: pushed_at:2025-03 star:0.0k fork:0.0k Test fixtures for Privacy Badger
+- [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) topic: pushed_at:2025-08 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/privacybadger-test-fixtures-alt](https://github.com/EFForg/privacybadger-test-fixtures-alt) topic: pushed_at:2023-03 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/privacybadger-test-fixtures-subdomain](https://github.com/EFForg/privacybadger-test-fixtures-subdomain) topic: pushed_at:2023-03 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/sas](https://github.com/EFForg/sas) topic: pushed_at:2017-05 star:0.0k fork:0.0k Stand Against Spying
@@ -75,7 +75,7 @@
 
 - [EFForg/congress-forms-test](https://github.com/EFForg/congress-forms-test) topic: pushed_at:2016-03 star:0.0k fork:0.0k Way for volunteers to test EFF's congress-forms repo
 - [EFForg/congress-forms.js](https://github.com/EFForg/congress-forms.js) topic: pushed_at:2014-06 star:0.0k fork:0.0k A javascript widget which can construct plain forms that submit to a contact-congress server.
-- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) topic: pushed_at:2025-01 star:0.2k fork:0.0k Is your browser safe against tracking?
+- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) topic: pushed_at:2025-08 star:0.2k fork:0.0k Is your browser safe against tracking?
 - [EFForg/cyberspying](https://github.com/EFForg/cyberspying) topic: pushed_at:2015-12 star:0.0k fork:0.0k cyberspying.eff.org twitter tool
 - [EFForg/fight215](https://github.com/EFForg/fight215) topic: pushed_at:2015-06 star:0.0k fork:0.0k 
 - [EFForg/find-aa-domains](https://github.com/EFForg/find-aa-domains) topic: pushed_at:2019-04 star:0.0k fork:0.0k Create a script to find domains in the PB pre-block list which are mentioned in the Acceptable Ads list as well
@@ -164,7 +164,7 @@
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) topic: pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 - [EFForg/https-everywhere-rust-test-implementation](https://github.com/EFForg/https-everywhere-rust-test-implementation) topic: pushed_at:2020-04 star:0.0k fork:0.0k 
 - [EFForg/pycrate-rs](https://github.com/EFForg/pycrate-rs) topic: pushed_at:2025-07 star:0.0k fork:0.0k A Rust telcom parser generated from pycrate
-- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) topic: pushed_at:2025-08 star:2.4k fork:0.2k Rust tool to detect cell site simulators on an orbic mobile hotspot 
+- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) topic: pushed_at:2025-08 star:2.5k fork:0.2k Rust tool to detect cell site simulators on an orbic mobile hotspot 
 - [EFForg/rs-google-play](https://github.com/EFForg/rs-google-play) topic: pushed_at:2025-02 star:0.0k fork:0.0k Google Play API for Rust
 - [EFForg/tokio-dl-stream-to-disk](https://github.com/EFForg/tokio-dl-stream-to-disk) topic: pushed_at:2024-07 star:0.0k fork:0.0k A micro-library for downloading from a URL and streaming it directly to the disk
 

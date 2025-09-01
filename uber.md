@@ -33,7 +33,7 @@
 
 ## C
 
-- [uber/h3](https://github.com/uber/h3) topic:geospatial,h3,hexagon,spatial-indexing,uber pushed_at:2025-07 star:5.5k fork:0.5k Hexagonal hierarchical geospatial indexing system
+- [uber/h3](https://github.com/uber/h3) topic:geospatial,h3,hexagon,spatial-indexing,uber pushed_at:2025-08 star:5.5k fork:0.5k Hexagonal hierarchical geospatial indexing system
 - [uber/tree-sitter-strings](https://github.com/uber/tree-sitter-strings) topic: pushed_at:2025-01 star:0.0k fork:0.0k Tree-sitter grammar for Apple's Strings Resources File.
 
 ## C++
@@ -89,7 +89,7 @@
 - [uber/dynamodb-cross-region-library](https://github.com/uber/dynamodb-cross-region-library) topic: pushed_at:2023-03 star:0.0k fork:0.0k A library to facilitate cross-region replication with Amazon DynamoDB Streams.
 - [uber/h3-java](https://github.com/uber/h3-java) topic:geospatial,h3,hexagon,java,spatial-indexing,uber pushed_at:2025-08 star:0.3k fork:0.1k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/marmaray](https://github.com/uber/marmaray) topic:avro-schema,data-lake,hadoop,ingest-data,schema-format,spark pushed_at:2023-03 star:0.5k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
-- [uber/NullAway](https://github.com/uber/NullAway) topic:android,java,nullability,nullability-analysis,static-analysis,static-code-analysis pushed_at:2025-08 star:3.8k fork:0.3k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
+- [uber/NullAway](https://github.com/uber/NullAway) topic:android,java,nullability,nullability-analysis,static-analysis,static-code-analysis pushed_at:2025-09 star:3.8k fork:0.3k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [uber/okbuck](https://github.com/uber/okbuck) topic:android,buck,gradle,gradle-plugin,watchman pushed_at:2025-05 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
 - [uber/RemoteShuffleService](https://github.com/uber/RemoteShuffleService) topic: pushed_at:2023-09 star:0.3k fork:0.1k Remote shuffle service for Apache Spark to store shuffle data on remote servers. 
 - [uber/rides-android-sdk](https://github.com/uber/rides-android-sdk) topic: pushed_at:2025-01 star:0.3k fork:0.1k Uber Rides Android SDK (beta)
@@ -111,9 +111,9 @@
 - [uber/cache-dir](https://github.com/uber/cache-dir) topic: pushed_at:2014-03 star:0.0k fork:0.0k An ES6 map-like cache with file-based backing
 - [uber/eight-track](https://github.com/uber/eight-track) topic: pushed_at:2018-07 star:0.1k fork:0.0k Record and playback HTTP requests
 - [uber/geojson2h3](https://github.com/uber/geojson2h3) topic:geojson,geospatial,h3,hexagon,javascript pushed_at:2023-07 star:0.2k fork:0.0k Conversion utilities between H3 indexes and GeoJSON
-- [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) topic: pushed_at:2024-06 star:0.5k fork:0.1k grafana dash dash dash gen
+- [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) topic: pushed_at:2025-08 star:0.5k fork:0.1k grafana dash dash dash gen
 - [uber/graph.gl](https://github.com/uber/graph.gl) topic: pushed_at:2021-02 star:0.1k fork:0.0k WebGL2-Powered Visualization Components for Graph Visualization
-- [uber/h3-js](https://github.com/uber/h3-js) topic:emscripten,geospatial,h3,hexagon,javascript,spatial-indexing,uber pushed_at:2025-07 star:0.9k fork:0.1k h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
+- [uber/h3-js](https://github.com/uber/h3-js) topic:emscripten,geospatial,h3,hexagon,javascript,spatial-indexing,uber pushed_at:2025-08 star:1.0k fork:0.1k h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
 - [uber/json-schema-filter](https://github.com/uber/json-schema-filter) topic: pushed_at:2020-10 star:0.0k fork:0.0k Filters (removes) objects from document based on passed json-schema
 - [uber/kafka-logger](https://github.com/uber/kafka-logger) topic: pushed_at:2018-10 star:0.0k fork:0.0k A kafka logger for winston
 - [uber/logtron](https://github.com/uber/logtron) topic: pushed_at:2023-04 star:0.2k fork:0.0k A logging MACHINE
@@ -194,9 +194,9 @@
 - [uber/aristotle](https://github.com/uber/aristotle) topic: pushed_at:2024-11 star:0.0k fork:0.0k Uber Fork of Aristotle - for contribution purposes
 - [uber/bayesmark](https://github.com/uber/bayesmark) topic:bayesian-optimization,benchmark-framework,machine-learning,sklearn pushed_at:2021-06 star:0.2k fork:0.0k Benchmark framework to easily compare Bayesian optimization methods on real machine learning tasks
 - [uber/cassette](https://github.com/uber/cassette) topic: pushed_at:2023-05 star:0.1k fork:0.0k Store and replay HTTP requests made in your Python app
-- [uber/causalml](https://github.com/uber/causalml) topic:causal-inference,incubation,machine-learning,uplift-modeling pushed_at:2025-07 star:5.5k fork:0.8k Uplift modeling and causal inference with machine learning algorithms
+- [uber/causalml](https://github.com/uber/causalml) topic:causal-inference,incubation,machine-learning,uplift-modeling pushed_at:2025-07 star:5.6k fork:0.8k Uplift modeling and causal inference with machine learning algorithms
 - [uber/charlatan](https://github.com/uber/charlatan) topic: pushed_at:2019-09 star:0.1k fork:0.0k A Python library to efficiently manage and install database fixtures
-- [uber/clay](https://github.com/uber/clay) topic: pushed_at:2023-08 star:0.5k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
+- [uber/clay](https://github.com/uber/clay) topic: pushed_at:2023-08 star:0.4k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [uber/doubles](https://github.com/uber/doubles) topic: pushed_at:2023-10 star:0.2k fork:0.0k Test doubles for Python.
 - [uber/fiber](https://github.com/uber/fiber) topic:distributed-computing,machine-learning,multiprocessing,python,sandbox pushed_at:2023-03 star:1.0k fork:0.1k Distributed Computing for AI Made Simple
 - [uber/h3-py](https://github.com/uber/h3-py) topic:geocoding,geospatial,gis,h3,hexagonal-architecture,python,uber pushed_at:2025-08 star:0.9k fork:0.1k Python bindings for H3, a hierarchical hexagonal geospatial indexing system

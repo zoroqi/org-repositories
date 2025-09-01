@@ -52,7 +52,7 @@
 - [tuna/freedns-go](https://github.com/tuna/freedns-go) topic: pushed_at:2021-11 star:0.2k fork:0.0k Optimized DNS Server for Chinese users.
 - [tuna/mirrorhub](https://github.com/tuna/mirrorhub) topic: pushed_at:2016-09 star:0.0k fork:0.0k Redirects the user to a nearby mirror site.
 - [tuna/tunaccount](https://github.com/tuna/tunaccount) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
-- [tuna/tunasync](https://github.com/tuna/tunasync) topic: pushed_at:2025-07 star:1.7k fork:0.3k Mirror job management tool. 
+- [tuna/tunasync](https://github.com/tuna/tunasync) topic: pushed_at:2025-07 star:1.8k fork:0.3k Mirror job management tool. 
 
 ## HTML
 

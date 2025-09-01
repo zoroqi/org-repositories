@@ -41,8 +41,8 @@
 - [Scala](#scala) (1)
 - [Shell](#shell) (11)
 - [Swift](#swift) (6)
-- [TypeScript](#typescript) (53)
-- [Vue](#vue) (6)
+- [TypeScript](#typescript) (54)
+- [Vue](#vue) (5)
 
 ## Batchfile
 
@@ -366,7 +366,7 @@
 - [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) topic: pushed_at:2023-03 star:0.1k fork:0.0k Prompt your users to donate to your collective after `npm install`
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) topic: pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
 - [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) topic: pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
-- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
+- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
 - [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) topic: pushed_at:2023-01 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
 - [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) topic:opencollective,reactjs pushed_at:2018-07 star:0.1k fork:0.0k OpenCollective frontend
 - [opencollective/opencollective-zapier](https://github.com/opencollective/opencollective-zapier) topic:opencollective,zapier pushed_at:2021-02 star:0.0k fork:0.0k ⚠️ DEPRECATED ⚠️ Open Collective legacy Zapier integration
@@ -1039,7 +1039,7 @@
 - [opencollective/cyph](https://github.com/opencollective/cyph) topic: pushed_at:2019-03 star:0.0k fork:0.0k Completely private voice and video chat.
 - [opencollective/discover](https://github.com/opencollective/discover) topic: pushed_at:2024-10 star:0.0k fork:0.0k Discover the impact of Open Collective
 - [opencollective/editor.js](https://github.com/opencollective/editor.js) topic: pushed_at:2019-04 star:0.0k fork:0.0k A block-styled editor with clean JSON output
-- [opencollective/funders-dashboard](https://github.com/opencollective/funders-dashboard) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
+- [opencollective/funders-dashboard](https://github.com/opencollective/funders-dashboard) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 - [opencollective/funders-dashboard-2](https://github.com/opencollective/funders-dashboard-2) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [opencollective/got](https://github.com/opencollective/got) topic: pushed_at:2019-04 star:0.0k fork:0.0k Simplified HTTP requests
 - [opencollective/javascript-obfuscator](https://github.com/opencollective/javascript-obfuscator) topic: pushed_at:2017-05 star:0.0k fork:0.0k A powerful obfuscator for JavaScript and Node.js
@@ -1052,7 +1052,7 @@
 - [opencollective/node-csvtojson](https://github.com/opencollective/node-csvtojson) topic: pushed_at:2018-06 star:0.0k fork:0.0k Blazing fast and Comprehensive CSV Parser for Node.JS / Browser / Command Line. 
 - [opencollective/OMSCentral](https://github.com/opencollective/OMSCentral) topic: pushed_at:2018-05 star:0.0k fork:0.0k Code for OMSCentral.com
 - [opencollective/oni](https://github.com/opencollective/oni) topic: pushed_at:2019-06 star:0.0k fork:0.0k Oni: An IDE powered by Neovim
-- [opencollective/openbunker](https://github.com/opencollective/openbunker) topic: pushed_at:2025-07 star:0.0k fork:0.0k Bunker to onboard members of your community to Nostr
+- [opencollective/openbunker](https://github.com/opencollective/openbunker) topic: pushed_at:2025-08 star:0.0k fork:0.0k Bunker to onboard members of your community to Nostr
 - [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) topic:graphql,hacktoberfest,nodejs,opencollective,postgres pushed_at:2025-08 star:0.4k fork:0.3k Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
 - [opencollective/opencollective-aws-functions](https://github.com/opencollective/opencollective-aws-functions) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [opencollective/opencollective-bot](https://github.com/opencollective/opencollective-bot) topic:bot,opencollective,probot pushed_at:2021-08 star:0.1k fork:0.0k 🤖 A perfect companion for your Open Collective
@@ -1065,6 +1065,7 @@
 - [opencollective/opencollective-rss](https://github.com/opencollective/opencollective-rss) topic: pushed_at:2025-08 star:0.0k fork:0.0k GraphQL-to-RSS bridge for the Open Collective API
 - [opencollective/opencollective-taxes](https://github.com/opencollective/opencollective-taxes) topic: pushed_at:2025-08 star:0.0k fork:0.0k Shared code to calculate taxes for events, products and services (VAT)
 - [opencollective/opencollective.xyz](https://github.com/opencollective/opencollective.xyz) topic: pushed_at:2025-06 star:0.0k fork:0.0k New web3 native version of Open Collective
+- [opencollective/opendocs](https://github.com/opencollective/opendocs) topic: pushed_at:2025-08 star:0.0k fork:0.0k share your docs foryour collective
 - [opencollective/perfume.js](https://github.com/opencollective/perfume.js) topic: pushed_at:2019-03 star:0.0k fork:0.0k A flexible JavaScript library for measuring First Contentful Paint (FP/FCP), First Input Delay (FID) and components lifecycle performance (eg. Angular, React). Report real user measurements to Google Analytics or your ideal tracking tool.
 - [opencollective/pricing](https://github.com/opencollective/pricing) topic: pushed_at:2025-07 star:0.0k fork:0.0k Research project to test an updated pricing model
 - [opencollective/react-unity-webgl](https://github.com/opencollective/react-unity-webgl) topic: pushed_at:2019-07 star:0.0k fork:0.0k React Unity WebGL provides an easy solution for embedding Unity WebGL builds in your React application, with two-way communication between your React and Unity application with advanced API's.
@@ -1084,7 +1085,6 @@
 ## Vue
 
 - [opencollective/ant-design-pro-vue](https://github.com/opencollective/ant-design-pro-vue) topic: pushed_at:2019-03 star:0.0k fork:0.0k 👨🏻‍💻👩🏻‍💻 Use Ant Design Vue like a Pro!     A simple vue admin template.
-- [opencollective/blog](https://github.com/opencollective/blog) topic: pushed_at:2018-12 star:0.0k fork:0.0k :black_nib:记录技术的新博客，采用Vue全家桶开发，使用GitHub API进行数据交互
 - [opencollective/coco-annotator](https://github.com/opencollective/coco-annotator) topic: pushed_at:2019-02 star:0.0k fork:0.0k :pencil2: Web-based image segmentation tool for object detection and localization
 - [opencollective/mysigmail](https://github.com/opencollective/mysigmail) topic: pushed_at:2019-01 star:0.0k fork:0.0k UI Email Signature Generator - Make easy to create your email signature
 - [opencollective/valorize-vidas](https://github.com/opencollective/valorize-vidas) topic: pushed_at:2019-04 star:0.0k fork:0.0k Sistema de prevenção ao suicídio
