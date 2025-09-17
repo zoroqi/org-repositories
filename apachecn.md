@@ -146,7 +146,7 @@
 - [apachecn/apachecn-blockchain-docs-zh](https://github.com/apachecn/apachecn-blockchain-docs-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: ApacheCN 区块链中文文档集
 - [apachecn/apachecn-blockchain-pt2-zh](https://github.com/apachecn/apachecn-blockchain-pt2-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 区块链系列文章2
 - [apachecn/apachecn-blockchain-zh](https://github.com/apachecn/apachecn-blockchain-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 区块链系列文章1
-- [apachecn/apachecn-c-cpp-zh](https://github.com/apachecn/apachecn-c-cpp-zh) topic: pushed_at:2025-04 star:0.3k fork:0.1k :books: [译] ApacheCN C/C++ 译文集
+- [apachecn/apachecn-c-cpp-zh](https://github.com/apachecn/apachecn-c-cpp-zh) topic: pushed_at:2025-04 star:0.4k fork:0.1k :books: [译] ApacheCN C/C++ 译文集
 - [apachecn/apachecn-c-cpp-zh-pt2](https://github.com/apachecn/apachecn-c-cpp-zh-pt2) topic: pushed_at:2022-07 star:0.1k fork:0.0k 
 - [apachecn/apachecn-c-cpp-zh-pt3](https://github.com/apachecn/apachecn-c-cpp-zh-pt3) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
 - [apachecn/apachecn-cs-notes](https://github.com/apachecn/apachecn-cs-notes) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
@@ -289,7 +289,7 @@
 - [apachecn/elasticsearch-doc-zh](https://github.com/apachecn/elasticsearch-doc-zh) topic:elasticsearch pushed_at:2020-12 star:0.1k fork:0.0k :book: [译] elasticsearch 中文文档
 - [apachecn/eldernode-blog-zh](https://github.com/apachecn/eldernode-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/fasttext-doc-zh](https://github.com/apachecn/fasttext-doc-zh) topic: pushed_at:2020-11 star:0.1k fork:0.0k FastText 中文文档
-- [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) topic:book,feature-engineering,machine-learning,python pushed_at:2023-08 star:2.5k fork:0.7k :book: [译] 面向机器学习的特征工程
+- [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) topic:book,feature-engineering,machine-learning,python pushed_at:2023-08 star:2.6k fork:0.7k :book: [译] 面向机器学习的特征工程
 - [apachecn/ffmpeg-doc-zh](https://github.com/apachecn/ffmpeg-doc-zh) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [apachecn/figment-tut-zh](https://github.com/apachecn/figment-tut-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Figment 中文系列教程
 - [apachecn/financial](https://github.com/apachecn/financial) topic: pushed_at:2023-07 star:0.0k fork:0.0k 投资理财 - 专注于智能算法投资
@@ -567,7 +567,7 @@
 - [apachecn/awesome-chatgpt-prompts-zh](https://github.com/apachecn/awesome-chatgpt-prompts-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [apachecn/awesome-design-patterns](https://github.com/apachecn/awesome-design-patterns) topic: pushed_at:2022-12 star:0.0k fork:0.0k A curated list of software and architecture related design patterns.
 - [apachecn/awesome-drones](https://github.com/apachecn/awesome-drones) topic: pushed_at:2020-10 star:0.0k fork:0.0k A curated list of Awesome Drones resources
-- [apachecn/awesome-drones-zh](https://github.com/apachecn/awesome-drones-zh) topic:awesome,drones pushed_at:2023-10 star:0.4k fork:0.1k 无人机资源汇总
+- [apachecn/awesome-drones-zh](https://github.com/apachecn/awesome-drones-zh) topic:awesome,drones pushed_at:2023-10 star:0.5k fork:0.1k 无人机资源汇总
 - [apachecn/awesome-gb-dev-zh](https://github.com/apachecn/awesome-gb-dev-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k GB 开发资源列表
 - [apachecn/awesome-gba-dev-zh](https://github.com/apachecn/awesome-gba-dev-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k GBA 开发资源列表
 - [apachecn/awesome-ios](https://github.com/apachecn/awesome-ios) topic: pushed_at:2022-10 star:0.0k fork:0.0k A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
@@ -1197,7 +1197,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:41.3k fork:11.6k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:41.4k fork:11.6k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库

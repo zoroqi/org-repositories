@@ -53,7 +53,7 @@
 - [cloudflare/brotli-go](https://github.com/cloudflare/brotli-go) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
 - [cloudflare/cf-nocompress](https://github.com/cloudflare/cf-nocompress) topic: pushed_at:2024-09 star:0.0k fork:0.0k An nginx module to prevent generic compression oracles
 - [cloudflare/cf-pgbouncer](https://github.com/cloudflare/cf-pgbouncer) topic: pushed_at:2024-10 star:0.3k fork:0.0k lightweight connection pooler for PostgreSQL
-- [cloudflare/cloudflare-blog](https://github.com/cloudflare/cloudflare-blog) topic: pushed_at:2025-06 star:1.2k fork:0.3k Cloudflare Blog code samples
+- [cloudflare/cloudflare-blog](https://github.com/cloudflare/cloudflare-blog) topic: pushed_at:2025-09 star:1.2k fork:0.3k Cloudflare Blog code samples
 - [cloudflare/cloudflare-workers-wasm-demo](https://github.com/cloudflare/cloudflare-workers-wasm-demo) topic: pushed_at:2024-09 star:0.1k fork:0.0k 
 - [cloudflare/doom-wasm](https://github.com/cloudflare/doom-wasm) topic:doom,wasm,webassembly,websockets pushed_at:2024-09 star:0.4k fork:0.1k Chocolate Doom WebAssembly port with WebSockets support
 - [cloudflare/golz4](https://github.com/cloudflare/golz4) topic: pushed_at:2024-09 star:0.1k fork:0.0k Golang interface to LZ4 compression
@@ -94,12 +94,12 @@
 - [cloudflare/obs-websocket](https://github.com/cloudflare/obs-websocket) topic: pushed_at:2024-09 star:0.0k fork:0.0k Remote-control of OBS Studio through WebSocket
 - [cloudflare/phantomjs](https://github.com/cloudflare/phantomjs) topic: pushed_at:2024-09 star:0.0k fork:0.0k Scriptable Headless WebKit
 - [cloudflare/stpyv8](https://github.com/cloudflare/stpyv8) topic: pushed_at:2025-08 star:0.5k fork:0.1k Python 3 and JavaScript interoperability. Successor To PyV8 (https://github.com/flier/pyv8)
-- [cloudflare/workerd](https://github.com/cloudflare/workerd) topic: pushed_at:2025-08 star:7.0k fork:0.4k The JavaScript / Wasm runtime that powers Cloudflare Workers
+- [cloudflare/workerd](https://github.com/cloudflare/workerd) topic: pushed_at:2025-09 star:7.0k fork:0.4k The JavaScript / Wasm runtime that powers Cloudflare Workers
 - [cloudflare/workers-wasi](https://github.com/cloudflare/workers-wasi) topic: pushed_at:2024-09 star:0.1k fork:0.0k 
 
 ## CMake
 
-- [cloudflare/workerd-tools](https://github.com/cloudflare/workerd-tools) topic: pushed_at:2025-08 star:0.0k fork:0.0k Prebuilt tools and utilities required for ongoing development in the workerd repo.
+- [cloudflare/workerd-tools](https://github.com/cloudflare/workerd-tools) topic: pushed_at:2025-09 star:0.0k fork:0.0k Prebuilt tools and utilities required for ongoing development in the workerd repo.
 
 ## COBOL
 
@@ -138,26 +138,26 @@
 - [cloudflare/cbpfc](https://github.com/cloudflare/cbpfc) topic: pushed_at:2025-06 star:0.2k fork:0.0k cBPF to C or eBPF compiler
 - [cloudflare/certinel](https://github.com/cloudflare/certinel) topic: pushed_at:2025-07 star:0.1k fork:0.0k A sentry for zero-hit TLS certificate changes in Go
 - [cloudflare/certmgr](https://github.com/cloudflare/certmgr) topic: pushed_at:2024-10 star:0.2k fork:0.0k Automated certificate management using a CFSSL CA.
-- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) topic:cloudflare,terraform pushed_at:2025-08 star:1.2k fork:0.2k A command line utility to facilitate terraforming your existing Cloudflare resources.
+- [cloudflare/cf-terraforming](https://github.com/cloudflare/cf-terraforming) topic:cloudflare,terraform pushed_at:2025-09 star:1.2k fork:0.2k A command line utility to facilitate terraforming your existing Cloudflare resources.
 - [cloudflare/cf-tls](https://github.com/cloudflare/cf-tls) topic: pushed_at:2024-10 star:0.0k fork:0.0k A duplicate of Go's crypto/tls, with additional helper functions
 - [cloudflare/cf_benchmark](https://github.com/cloudflare/cf_benchmark) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
 - [cloudflare/cfdeploy](https://github.com/cloudflare/cfdeploy) topic:deploy,deploy-tool,deployer,deployment,docker,docker-image,marathon pushed_at:2024-09 star:0.0k fork:0.0k Cloudflare Deployment Tool
 - [cloudflare/cfrpki](https://github.com/cloudflare/cfrpki) topic:afrinic,apnic,arin,certificate,cloudflare,crypto,cryptography,docker,go,golang,hacktoberfest,internet,key,lacnic,pki,ripe,roa,rpki,rtr,validator pushed_at:2024-02 star:0.2k fork:0.0k Cloudflare's RPKI Toolbox
 - [cloudflare/cfssl](https://github.com/cloudflare/cfssl) topic: pushed_at:2025-02 star:9.2k fork:1.1k CFSSL: Cloudflare's PKI and TLS toolkit
-- [cloudflare/cfssl_trust](https://github.com/cloudflare/cfssl_trust) topic: pushed_at:2025-08 star:0.3k fork:0.1k CFSSL's CA trust store repository
-- [cloudflare/circl](https://github.com/cloudflare/circl) topic:circl,cryptography,csidh,dilithium,ed25519,ed448,elliptic-curves,go,golang,hpke,kyber,pki,post-quantum,sidh pushed_at:2025-08 star:1.5k fork:0.2k CIRCL: Cloudflare Interoperable Reusable Cryptographic Library
+- [cloudflare/cfssl_trust](https://github.com/cloudflare/cfssl_trust) topic: pushed_at:2025-09 star:0.3k fork:0.1k CFSSL's CA trust store repository
+- [cloudflare/circl](https://github.com/cloudflare/circl) topic:circl,cryptography,csidh,dilithium,ed25519,ed448,elliptic-curves,go,golang,hpke,kyber,pki,post-quantum,sidh pushed_at:2025-09 star:1.5k fork:0.2k CIRCL: Cloudflare Interoperable Reusable Cryptographic Library
 - [cloudflare/clair](https://github.com/cloudflare/clair) topic: pushed_at:2024-09 star:0.0k fork:0.0k Vulnerability Static Analysis for Containers
-- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) topic:api,cloudflare,sdk,sdk-go,sdk-golang pushed_at:2025-08 star:1.8k fork:0.7k The official Go library for the Cloudflare API
+- [cloudflare/cloudflare-go](https://github.com/cloudflare/cloudflare-go) topic:api,cloudflare,sdk,sdk-go,sdk-golang pushed_at:2025-09 star:1.8k fork:0.7k The official Go library for the Cloudflare API
 - [cloudflare/cloudflare-ingress-controller](https://github.com/cloudflare/cloudflare-ingress-controller) topic: pushed_at:2023-03 star:0.4k fork:0.1k A Kubernetes ingress controller for Cloudflare's Argo Tunnels
 - [cloudflare/Cloudflare-Pivotal-Cloud-Foundry](https://github.com/cloudflare/Cloudflare-Pivotal-Cloud-Foundry) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
-- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) topic:argo-tunnel,cloudflare,cloudflare-tunnel,reverse-proxy,zero-trust-network-access pushed_at:2025-08 star:11.4k fork:1.0k Cloudflare Tunnel client (formerly Argo Tunnel)
+- [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) topic:argo-tunnel,cloudflare,cloudflare-tunnel,reverse-proxy,zero-trust-network-access pushed_at:2025-09 star:11.5k fork:1.0k Cloudflare Tunnel client (formerly Argo Tunnel)
 - [cloudflare/comodo](https://github.com/cloudflare/comodo) topic: pushed_at:2024-10 star:0.0k fork:0.0k Comodo 
 - [cloudflare/complainer](https://github.com/cloudflare/complainer) topic: pushed_at:2024-09 star:0.1k fork:0.0k  Complainer's job is to send notifications to different services when tasks fail on Mesos cluster.
 - [cloudflare/conf](https://github.com/cloudflare/conf) topic: pushed_at:2024-09 star:0.0k fork:0.0k Really, really simple key=val configuration file parser
 - [cloudflare/ct-log](https://github.com/cloudflare/ct-log) topic: pushed_at:2024-09 star:0.0k fork:0.0k A low-cost Certificate Transparency log for deployment in the cloud.
 - [cloudflare/dns](https://github.com/cloudflare/dns) topic: pushed_at:2024-09 star:0.1k fork:0.0k Clone of https://github.com/miekg/dns
 - [cloudflare/docker](https://github.com/cloudflare/docker) topic: pushed_at:2024-10 star:0.0k fork:0.0k Docker - the open-source application container engine
-- [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) topic:bpf,ebpf,libbpf,linux-kernel,performance,prometheus,prometheus-exporter,tracing pushed_at:2025-08 star:2.4k fork:0.3k Prometheus exporter for custom eBPF metrics
+- [cloudflare/ebpf_exporter](https://github.com/cloudflare/ebpf_exporter) topic:bpf,ebpf,libbpf,linux-kernel,performance,prometheus,prometheus-exporter,tracing pushed_at:2025-09 star:2.4k fork:0.3k Prometheus exporter for custom eBPF metrics
 - [cloudflare/fgbgp](https://github.com/cloudflare/fgbgp) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
 - [cloudflare/flow-pipeline](https://github.com/cloudflare/flow-pipeline) topic:clickhouse,cloudflare,docker,goflow,kafka,netflow,protobuf,sflow pushed_at:2024-11 star:0.2k fork:0.0k A set of tools and examples to run a flow-pipeline (sFlow, NetFlow)
 - [cloudflare/fourq](https://github.com/cloudflare/fourq) topic: pushed_at:2024-10 star:0.1k fork:0.0k Package fourq implements FourQ, a high-speed elliptic curve at the 128-bit security level.
@@ -200,12 +200,12 @@
 - [cloudflare/opaque-core](https://github.com/cloudflare/opaque-core) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
 - [cloudflare/opaque-ea](https://github.com/cloudflare/opaque-ea) topic: pushed_at:2024-09 star:0.1k fork:0.0k 
 - [cloudflare/opentsdb_exporter](https://github.com/cloudflare/opentsdb_exporter) topic:exporter,metrics,monitoring,opentsdb,prometheus pushed_at:2024-09 star:0.0k fork:0.0k Prometheus exporter for OpenTSDB
-- [cloudflare/origin-ca-issuer](https://github.com/cloudflare/origin-ca-issuer) topic:cert-manager pushed_at:2025-07 star:0.3k fork:0.1k cert-manager issuer for Origin CA
+- [cloudflare/origin-ca-issuer](https://github.com/cloudflare/origin-ca-issuer) topic:cert-manager pushed_at:2025-09 star:0.3k fork:0.1k cert-manager issuer for Origin CA
 - [cloudflare/pal](https://github.com/cloudflare/pal) topic: pushed_at:2024-09 star:0.1k fork:0.0k PAL: A secret bootstrapping tool for Docker
 - [cloudflare/parquet-tsdb-poc](https://github.com/cloudflare/parquet-tsdb-poc) topic: pushed_at:2025-07 star:0.0k fork:0.0k A POC for a tsdb storage using parquet
 - [cloudflare/pat-app](https://github.com/cloudflare/pat-app) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [cloudflare/pat-go](https://github.com/cloudflare/pat-go) topic: pushed_at:2025-07 star:0.0k fork:0.0k Private Access Tokens reference implementation
-- [cloudflare/pint](https://github.com/cloudflare/pint) topic:linter,metrics,observability,prometheus,validator pushed_at:2025-08 star:0.9k fork:0.1k Prometheus rule linter/validator
+- [cloudflare/pint](https://github.com/cloudflare/pint) topic:linter,metrics,observability,prometheus,validator pushed_at:2025-09 star:0.9k fork:0.1k Prometheus rule linter/validator
 - [cloudflare/privacy-gateway-server-go](https://github.com/cloudflare/privacy-gateway-server-go) topic: pushed_at:2025-06 star:0.1k fork:0.0k An Oblivious HTTP gateway
 - [cloudflare/promsaint](https://github.com/cloudflare/promsaint) topic: pushed_at:2024-09 star:0.0k fork:0.0k Nagios to Prometheus integration
 - [cloudflare/redoctober](https://github.com/cloudflare/redoctober) topic: pushed_at:2024-11 star:1.4k fork:0.1k Go server for two-man rule style file encryption and decryption.
@@ -219,7 +219,7 @@
 - [cloudflare/sshcert](https://github.com/cloudflare/sshcert) topic: pushed_at:2025-05 star:0.0k fork:0.0k A package for handling ssh certificates
 - [cloudflare/Stout](https://github.com/cloudflare/Stout) topic: pushed_at:2024-10 star:0.8k fork:0.0k A reliable static website deploy tool
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) topic:go,golang,graceful-restarts pushed_at:2024-09 star:3.0k fork:0.2k Graceful process restarts in Go
-- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) topic:cloudflare,terraform,terraform-provider pushed_at:2025-08 star:1.1k fork:0.7k Cloudflare Terraform Provider
+- [cloudflare/terraform-provider-cloudflare](https://github.com/cloudflare/terraform-provider-cloudflare) topic:cloudflare,terraform,terraform-provider pushed_at:2025-09 star:1.1k fork:0.7k Cloudflare Terraform Provider
 - [cloudflare/tls-tris](https://github.com/cloudflare/tls-tris) topic: pushed_at:2024-09 star:0.3k fork:0.1k crypto/tls, now with 100% more 1.3. THE API IS NOT STABLE AND DOCUMENTATION IS NOT GUARANTEED.
 - [cloudflare/tusd](https://github.com/cloudflare/tusd) topic: pushed_at:2024-09 star:0.0k fork:0.0k The official server implementation of the tus resumable upload protocol.
 - [cloudflare/unbound](https://github.com/cloudflare/unbound) topic: pushed_at:2024-09 star:0.0k fork:0.0k CoreDNS plugin that performs recursive queries using libunbound
@@ -241,7 +241,7 @@
 - [cloudflare/cobol.demos.cloudflare.com](https://github.com/cloudflare/cobol.demos.cloudflare.com) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
 - [cloudflare/developer-summer-challenge](https://github.com/cloudflare/developer-summer-challenge) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
 - [cloudflare/font-awesome-glyph](https://github.com/cloudflare/font-awesome-glyph) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
-- [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) topic:bgp,cloudflare,hacktoberfest,rpki,wrangler pushed_at:2025-08 star:0.3k fork:0.3k Is BGP safe yet?
+- [cloudflare/isbgpsafeyet.com](https://github.com/cloudflare/isbgpsafeyet.com) topic:bgp,cloudflare,hacktoberfest,rpki,wrangler pushed_at:2025-09 star:0.3k fork:0.3k Is BGP safe yet?
 - [cloudflare/pages-stream-demo](https://github.com/cloudflare/pages-stream-demo) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
 - [cloudflare/submit.pages.dev](https://github.com/cloudflare/submit.pages.dev) topic: pushed_at:2024-09 star:0.0k fork:0.1k 
 - [cloudflare/turnstile-demo-workers](https://github.com/cloudflare/turnstile-demo-workers) topic:cloudflare,turnstile pushed_at:2024-09 star:0.3k fork:0.1k A simple demo with a Turnstile-protected form, using Cloudflare Workers.
@@ -265,7 +265,7 @@
 - [cloudflare/binary-install](https://github.com/cloudflare/binary-install) topic: pushed_at:2024-09 star:0.0k fork:0.0k Install binary applications via npm
 - [cloudflare/binast-cf-worker](https://github.com/cloudflare/binast-cf-worker) topic: pushed_at:2024-10 star:0.0k fork:0.0k Serve BinAST via a Cloudflare Worker
 - [cloudflare/binjs-demo](https://github.com/cloudflare/binjs-demo) topic: pushed_at:2024-10 star:0.0k fork:0.0k Demo application for BinAST
-- [cloudflare/blindrsa-ts](https://github.com/cloudflare/blindrsa-ts) topic:blind-rsa,cryptography,typescript pushed_at:2025-05 star:0.0k fork:0.0k A TypeScript Library for Blind RSA Signature protocol
+- [cloudflare/blindrsa-ts](https://github.com/cloudflare/blindrsa-ts) topic:blind-rsa,cryptography,typescript pushed_at:2025-09 star:0.0k fork:0.0k A TypeScript Library for Blind RSA Signature protocol
 - [cloudflare/cf-identity-dynamic](https://github.com/cloudflare/cf-identity-dynamic) topic: pushed_at:2024-12 star:0.0k fork:0.0k A highly customizable block page built in Cloudflare Workers that provides enriched Access Deny reasoning to end users.
 - [cloudflare/cf-ui](https://github.com/cloudflare/cf-ui) topic: pushed_at:2019-04 star:1.3k fork:0.1k :gem: Cloudflare UI Framework
 - [cloudflare/cf-webhook-relay](https://github.com/cloudflare/cf-webhook-relay) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
@@ -275,7 +275,7 @@
 - [cloudflare/chatgpt-plugin](https://github.com/cloudflare/chatgpt-plugin) topic:chatgpt,cloudflare,openai,workers pushed_at:2024-10 star:0.3k fork:0.0k Build ChatGPT plugins with Cloudflare's Developer Platform 🤖
 - [cloudflare/claire](https://github.com/cloudflare/claire) topic: pushed_at:2023-09 star:0.1k fork:0.0k A Cloudflare WebExtension
 - [cloudflare/cloudflare-docs-engine](https://github.com/cloudflare/cloudflare-docs-engine) topic: pushed_at:2024-09 star:0.2k fork:0.1k A documentation engine built on Gatsby, powering Cloudflare’s docs https://github.com/cloudflare/cloudflare-docs
-- [cloudflare/cloudflare-gcp](https://github.com/cloudflare/cloudflare-gcp) topic: pushed_at:2025-07 star:0.1k fork:0.1k Google Cloud Function to push json files from GC Storage to Big Query
+- [cloudflare/cloudflare-gcp](https://github.com/cloudflare/cloudflare-gcp) topic: pushed_at:2025-09 star:0.1k fork:0.1k Google Cloud Function to push json files from GC Storage to Big Query
 - [cloudflare/cloudflare-grafana-app](https://github.com/cloudflare/cloudflare-grafana-app) topic:deprecated pushed_at:2023-06 star:0.1k fork:0.0k (DEPRECATED.) Cloudflare Grafana App allows for the collection and graphing of Cloudflare analytics data over time.
 - [cloudflare/cloudflare-plugin-frontend](https://github.com/cloudflare/cloudflare-plugin-frontend) topic: pushed_at:2024-09 star:0.0k fork:0.0k A React/Redux front-end for Cloudflare's WordPress, Magento2, and cPanel plugins.
 - [cloudflare/cloudflare.design](https://github.com/cloudflare/cloudflare.design) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
@@ -327,7 +327,7 @@
 - [cloudflare/service-worker-custom-build](https://github.com/cloudflare/service-worker-custom-build) topic: pushed_at:2024-09 star:0.0k fork:0.0k Template for webpack-based custom build of a service worker
 - [cloudflare/speedtest](https://github.com/cloudflare/speedtest) topic:bandwidth,cloudflare,latency,network-quality,packet-loss,speedtest pushed_at:2025-08 star:0.6k fork:0.1k Component to perform network speed tests against Cloudflare's edge network
 - [cloudflare/stream-wordpress](https://github.com/cloudflare/stream-wordpress) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
-- [cloudflare/templates](https://github.com/cloudflare/templates) topic: pushed_at:2025-08 star:1.5k fork:0.8k Templates for Cloudflare Workers
+- [cloudflare/templates](https://github.com/cloudflare/templates) topic: pushed_at:2025-09 star:1.6k fork:0.8k Templates for Cloudflare Workers
 - [cloudflare/transifex-client](https://github.com/cloudflare/transifex-client) topic: pushed_at:2024-09 star:0.0k fork:0.0k HTTP Client API for the Transifex translation service
 - [cloudflare/ui-migration-stats](https://github.com/cloudflare/ui-migration-stats) topic: pushed_at:2024-09 star:0.0k fork:0.0k Migrating between frameworks can be hard. Having some way to quantify the migration can help with the process. ui-migration-stats provides the specific dependency feedback and numbers related to each your frameworks.
 - [cloudflare/webcm-docs](https://github.com/cloudflare/webcm-docs) topic:managed-components,webcm pushed_at:2024-09 star:0.0k fork:0.0k Documentation for Web Component Manager (WebCM)
@@ -350,10 +350,10 @@
 - [cloudflare/workers-chat-demo](https://github.com/cloudflare/workers-chat-demo) topic: pushed_at:2025-07 star:1.0k fork:0.2k 
 - [cloudflare/workers-google-analytics](https://github.com/cloudflare/workers-google-analytics) topic: pushed_at:2024-09 star:0.0k fork:0.0k Middleware for Google Analytics tracking in Workers
 - [cloudflare/workers-graphql-gateway-example](https://github.com/cloudflare/workers-graphql-gateway-example) topic:cloudflare,cloudflare-workers,dataloader,graphql pushed_at:2024-09 star:0.1k fork:0.0k GraphQL running on Cloudflare Workers
-- [cloudflare/workers-nodejs-compat-matrix](https://github.com/cloudflare/workers-nodejs-compat-matrix) topic: pushed_at:2025-08 star:0.0k fork:0.0k https://workers-nodejs-compat-matrix.pages.dev
+- [cloudflare/workers-nodejs-compat-matrix](https://github.com/cloudflare/workers-nodejs-compat-matrix) topic: pushed_at:2025-09 star:0.0k fork:0.0k https://workers-nodejs-compat-matrix.pages.dev
 - [cloudflare/workers-react-pwa-example](https://github.com/cloudflare/workers-react-pwa-example) topic:cloudflare-workers,progressive-web-apps,pwa,react,server-side-rendering,ssr,worker-script pushed_at:2024-09 star:0.1k fork:0.0k 
 - [cloudflare/workers-webpack-example](https://github.com/cloudflare/workers-webpack-example) topic: pushed_at:2024-09 star:0.0k fork:0.0k An example of building a Cloudflare Worker with Webpack
-- [cloudflare/workers.cloudflare.com](https://github.com/cloudflare/workers.cloudflare.com) topic: pushed_at:2025-08 star:0.1k fork:0.0k The Cloudflare Workers website.
+- [cloudflare/workers.cloudflare.com](https://github.com/cloudflare/workers.cloudflare.com) topic: pushed_at:2025-09 star:0.1k fork:0.0k The Cloudflare Workers website.
 - [cloudflare/zt-hostname-ip-list-sync](https://github.com/cloudflare/zt-hostname-ip-list-sync) topic:cloudflare,terraform,zerotrust pushed_at:2024-10 star:0.0k fork:0.0k Synchronize DNS with Zero Trust IP Lists
 
 ## Jupyter Notebook
@@ -383,7 +383,7 @@
 
 ## MDX
 
-- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) topic:cloudflare,docs,markdown,mdx pushed_at:2025-08 star:3.9k fork:8.2k Cloudflare’s documentation
+- [cloudflare/cloudflare-docs](https://github.com/cloudflare/cloudflare-docs) topic:cloudflare,docs,hacktoberfest,markdown,mdx pushed_at:2025-09 star:3.9k fork:8.6k Cloudflare’s documentation
 
 ## Makefile
 
@@ -393,7 +393,7 @@
 
 ## Nunjucks
 
-- [cloudflare/research.cloudflare.com](https://github.com/cloudflare/research.cloudflare.com) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
+- [cloudflare/research.cloudflare.com](https://github.com/cloudflare/research.cloudflare.com) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 
 ## Objective-C
 
@@ -446,7 +446,7 @@
 - [cloudflare/certbot-dns-cloudflare](https://github.com/cloudflare/certbot-dns-cloudflare) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
 - [cloudflare/circus](https://github.com/cloudflare/circus) topic: pushed_at:2024-09 star:0.0k fork:0.0k process runner and watcher built on top of zmq, and meant to be extensible
 - [cloudflare/cloudflare-access-for-sentry](https://github.com/cloudflare/cloudflare-access-for-sentry) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
-- [cloudflare/cloudflare-python](https://github.com/cloudflare/cloudflare-python) topic:api,cloudflare,sdk,sdk-python pushed_at:2025-08 star:0.3k fork:0.1k The official Python library for the Cloudflare API
+- [cloudflare/cloudflare-python](https://github.com/cloudflare/cloudflare-python) topic:api,cloudflare,sdk,sdk-python pushed_at:2025-09 star:0.3k fork:0.1k The official Python library for the Cloudflare API
 - [cloudflare/flan](https://github.com/cloudflare/flan) topic: pushed_at:2024-09 star:4.1k fork:0.3k A pretty sweet vulnerability scanner
 - [cloudflare/gatelogic](https://github.com/cloudflare/gatelogic) topic: pushed_at:2024-09 star:0.0k fork:0.0k Gatelogic - Somewhat reactive programming framework in Python
 - [cloudflare/GHC-Errbot](https://github.com/cloudflare/GHC-Errbot) topic:errbot,hangouts-chat pushed_at:2025-03 star:0.0k fork:0.0k A Google Hangouts Chat Backend for Errbot
@@ -464,7 +464,7 @@
 - [cloudflare/pyodide-build-scripts](https://github.com/cloudflare/pyodide-build-scripts) topic: pushed_at:2025-08 star:0.0k fork:0.0k Automated build processes for Cloudflare Workers Pyodide distribution
 - [cloudflare/python-cloudflare](https://github.com/cloudflare/python-cloudflare) topic: pushed_at:2024-11 star:0.7k fork:0.2k Python wrapper for the Cloudflare Client API v4
 - [cloudflare/python-cloudflare-cli4](https://github.com/cloudflare/python-cloudflare-cli4) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
-- [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) topic: pushed_at:2025-08 star:0.2k fork:0.0k 
+- [cloudflare/python-workers-examples](https://github.com/cloudflare/python-workers-examples) topic: pushed_at:2025-09 star:0.2k fork:0.0k 
 - [cloudflare/r2-data-catalog-examples](https://github.com/cloudflare/r2-data-catalog-examples) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [cloudflare/receipt-printer](https://github.com/cloudflare/receipt-printer) topic: pushed_at:2024-09 star:0.1k fork:0.0k Code to drive the receipt printer in the Cloudflare London office that outputs randomness
 - [cloudflare/rpki-rtr-client](https://github.com/cloudflare/rpki-rtr-client) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
@@ -490,9 +490,9 @@
 
 - [cloudflare/aloha-rs](https://github.com/cloudflare/aloha-rs) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
 - [cloudflare/async-std](https://github.com/cloudflare/async-std) topic: pushed_at:2024-09 star:0.0k fork:0.0k Async version of the Rust standard library
-- [cloudflare/azul](https://github.com/cloudflare/azul) topic:certificate-transparency,certificate-transparency-logs,cryptography,merkle-tree,pki,web pushed_at:2025-08 star:0.0k fork:0.0k An implementation of a static-ct-api certificate transparency log for deployment on Cloudflare Workers
-- [cloudflare/boring](https://github.com/cloudflare/boring) topic: pushed_at:2025-08 star:0.4k fork:0.1k BoringSSL bindings for the Rust programming language.
-- [cloudflare/boringtun](https://github.com/cloudflare/boringtun) topic:cloudflare,rust,wireguard pushed_at:2025-08 star:6.5k fork:0.5k Userspace WireGuard® Implementation in Rust
+- [cloudflare/azul](https://github.com/cloudflare/azul) topic:certificate-transparency,certificate-transparency-logs,cryptography,merkle-tree,pki,web pushed_at:2025-09 star:0.0k fork:0.0k An implementation of a static-ct-api certificate transparency log for deployment on Cloudflare Workers
+- [cloudflare/boring](https://github.com/cloudflare/boring) topic: pushed_at:2025-09 star:0.4k fork:0.1k BoringSSL bindings for the Rust programming language.
+- [cloudflare/boringtun](https://github.com/cloudflare/boringtun) topic:cloudflare,rust,wireguard pushed_at:2025-08 star:6.6k fork:0.5k Userspace WireGuard® Implementation in Rust
 - [cloudflare/cardinality-estimator](https://github.com/cloudflare/cardinality-estimator) topic:cardinality-estimation,distinct-elements,hyperloglog,probalistic-data-structures,sketches pushed_at:2025-02 star:0.0k fork:0.0k A crate for estimating the cardinality of distinct elements in a stream or dataset.
 - [cloudflare/cf-reqwest](https://github.com/cloudflare/cf-reqwest) topic: pushed_at:2024-09 star:0.0k fork:0.0k This is a fork of the great reqwest library with some features that were not accepted to the upstream
 - [cloudflare/cfnts](https://github.com/cloudflare/cfnts) topic: pushed_at:2024-04 star:0.2k fork:0.0k Cloudflare's implementation of the NTS protocol written in Rust
@@ -505,32 +505,32 @@
 - [cloudflare/dmarc](https://github.com/cloudflare/dmarc) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
 - [cloudflare/entropy-map](https://github.com/cloudflare/entropy-map) topic:data-structures,hash-map,mphf pushed_at:2024-11 star:0.0k fork:0.0k Low-latency hash map using minimal perfect hash functions and compact encoding.
 - [cloudflare/etherparse](https://github.com/cloudflare/etherparse) topic: pushed_at:2024-09 star:0.0k fork:0.0k A rust library for parsing ethernet & ethernet using protocols.
-- [cloudflare/foundations](https://github.com/cloudflare/foundations) topic: pushed_at:2025-08 star:1.4k fork:0.1k Cloudflare's Rust service foundations library.
-- [cloudflare/freighter](https://github.com/cloudflare/freighter) topic: pushed_at:2025-08 star:0.1k fork:0.0k A fast, modular, and operationally boring Rust private registry implementation.
+- [cloudflare/foundations](https://github.com/cloudflare/foundations) topic: pushed_at:2025-09 star:1.4k fork:0.1k Cloudflare's Rust service foundations library.
+- [cloudflare/freighter](https://github.com/cloudflare/freighter) topic: pushed_at:2025-09 star:0.1k fork:0.0k A fast, modular, and operationally boring Rust private registry implementation.
 - [cloudflare/h2](https://github.com/cloudflare/h2) topic: pushed_at:2024-09 star:0.0k fork:0.0k HTTP 2.0 client & server implementation for Rust.
 - [cloudflare/hyper](https://github.com/cloudflare/hyper) topic: pushed_at:2024-10 star:0.0k fork:0.0k An HTTP library for Rust
 - [cloudflare/hyperx](https://github.com/cloudflare/hyperx) topic: pushed_at:2024-11 star:0.0k fork:0.0k Extraction and modernization of the hyper 0.11.x typed header module
 - [cloudflare/lazyhtml](https://github.com/cloudflare/lazyhtml) topic:c,html,parser,serializer,streaming pushed_at:2024-09 star:0.1k fork:0.0k HTML5-compliant parser and serializer than enables building transformation pipeline in a pluggable manner
-- [cloudflare/lol-html](https://github.com/cloudflare/lol-html) topic:css-selectors,html,parser,rewriting,rust,stream,streaming pushed_at:2025-08 star:1.8k fork:0.1k Low output latency streaming HTML parser/rewriter with CSS selector-based API
+- [cloudflare/lol-html](https://github.com/cloudflare/lol-html) topic:css-selectors,html,parser,rewriting,rust,stream,streaming pushed_at:2025-09 star:1.8k fork:0.1k Low output latency streaming HTML parser/rewriter with CSS selector-based API
 - [cloudflare/matched-data-cli](https://github.com/cloudflare/matched-data-cli) topic: pushed_at:2024-10 star:0.0k fork:0.0k Tool to interact with the firewall matched data feature.
 - [cloudflare/mmap-sync](https://github.com/cloudflare/mmap-sync) topic:interprocess-communication,memory-mapping,synchronization,wait-free,zero-copy pushed_at:2024-12 star:0.6k fork:0.0k Rust library for concurrent data access, using memory-mapped files, zero-copy deserialization, and wait-free synchronization.
 - [cloudflare/nel-rs](https://github.com/cloudflare/nel-rs) topic: pushed_at:2024-09 star:0.0k fork:0.0k Basic Rust utilities for building NEL reports from network errors.
 - [cloudflare/networkquality-rs](https://github.com/cloudflare/networkquality-rs) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [cloudflare/odoh-client-rs](https://github.com/cloudflare/odoh-client-rs) topic: pushed_at:2024-09 star:0.1k fork:0.0k Oblivious DoH client application written in Rust
 - [cloudflare/odoh-rs](https://github.com/cloudflare/odoh-rs) topic: pushed_at:2025-08 star:0.2k fork:0.0k Oblivious DoH library in Rust
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) topic: pushed_at:2025-08 star:25.0k fork:1.5k A library for building fast, reliable and evolvable network services.
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) topic: pushed_at:2025-08 star:25.1k fork:1.5k A library for building fast, reliable and evolvable network services.
 - [cloudflare/plexi](https://github.com/cloudflare/plexi) topic:auditor,cryptography,e2ee,key-transparency,transparency pushed_at:2025-04 star:0.0k fork:0.0k Your Key Transparency auditor companion
 - [cloudflare/privacy-gateway-client-library](https://github.com/cloudflare/privacy-gateway-client-library) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [cloudflare/prometheus-client](https://github.com/cloudflare/prometheus-client) topic: pushed_at:2024-10 star:0.0k fork:0.0k Prometheus / OpenMetrics client library in Rust
 - [cloudflare/prometheus-client-rust](https://github.com/cloudflare/prometheus-client-rust) topic: pushed_at:2024-10 star:0.0k fork:0.0k Prometheus / OpenMetrics client library in Rust
 - [cloudflare/psi_exporter](https://github.com/cloudflare/psi_exporter) topic:cgroups,cgroups-v2,linux-kernel,performance,prometheus-exporter,psi pushed_at:2024-09 star:0.1k fork:0.0k Prometheus exporter for Pressure Stall Information (PSI) from Linux kernel.
-- [cloudflare/quiche](https://github.com/cloudflare/quiche) topic:http3,network-programming,protocol,quic,rust pushed_at:2025-08 star:10.5k fork:0.9k 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+- [cloudflare/quiche](https://github.com/cloudflare/quiche) topic:http3,network-programming,protocol,quic,rust pushed_at:2025-09 star:10.5k fork:0.9k 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
 - [cloudflare/quiche-mallard](https://github.com/cloudflare/quiche-mallard) topic: pushed_at:2025-06 star:0.0k fork:0.0k quiche fork with congestion & zero-copy patches
 - [cloudflare/recapn](https://github.com/cloudflare/recapn) topic: pushed_at:2025-04 star:0.1k fork:0.0k A WIP Cap'n Proto implementation in Rust written from the ground up
 - [cloudflare/rust-binary-install](https://github.com/cloudflare/rust-binary-install) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
 - [cloudflare/rust-prometheus](https://github.com/cloudflare/rust-prometheus) topic: pushed_at:2024-10 star:0.0k fork:0.0k Prometheus instrumentation library for Rust applications
 - [cloudflare/rustracing](https://github.com/cloudflare/rustracing) topic: pushed_at:2024-12 star:0.0k fork:0.0k OpenTracing API for Rust
-- [cloudflare/rustracing_jaeger](https://github.com/cloudflare/rustracing_jaeger) topic: pushed_at:2025-05 star:0.0k fork:0.0k Jaeger tracing library for Rust
+- [cloudflare/rustracing_jaeger](https://github.com/cloudflare/rustracing_jaeger) topic: pushed_at:2025-09 star:0.0k fork:0.0k Jaeger tracing library for Rust
 - [cloudflare/rustwasm-worker-template](https://github.com/cloudflare/rustwasm-worker-template) topic: pushed_at:2024-09 star:0.4k fork:0.1k A template for kick starting a Cloudflare Worker project using workers-rs. Write your Cloudflare Worker entirely in Rust!
 - [cloudflare/saffron](https://github.com/cloudflare/saffron) topic:cloudflare-workers,cron,rust pushed_at:2024-09 star:0.2k fork:0.0k The cron parser powering Cron Triggers on Cloudflare Workers
 - [cloudflare/shellflip](https://github.com/cloudflare/shellflip) topic:graceful-shutdown,process,restart,rust,server,systemd pushed_at:2025-03 star:0.3k fork:0.0k Graceful process restarts in Rust
@@ -543,11 +543,11 @@
 - [cloudflare/tokio-tun](https://github.com/cloudflare/tokio-tun) topic: pushed_at:2024-10 star:0.0k fork:0.0k Asynchronous allocation of TUN/TAP devices in Rust using tokio
 - [cloudflare/trie-hard](https://github.com/cloudflare/trie-hard) topic: pushed_at:2024-11 star:0.6k fork:0.0k Novel implementation of a Trie data structure optimized for small, sparse maps
 - [cloudflare/wasm-coredump](https://github.com/cloudflare/wasm-coredump) topic:cloudflare-workers,rust,wasm,webassembly pushed_at:2024-11 star:0.0k fork:0.0k Cloudflare Workers Wasm Coredump Service
-- [cloudflare/web-bot-auth](https://github.com/cloudflare/web-bot-auth) topic:agents,cryptography pushed_at:2025-07 star:0.1k fork:0.0k Sign and verify orchestrated HTTP requests
+- [cloudflare/web-bot-auth](https://github.com/cloudflare/web-bot-auth) topic:agents,cryptography pushed_at:2025-09 star:0.1k fork:0.0k Sign and verify orchestrated HTTP requests
 - [cloudflare/wildcard](https://github.com/cloudflare/wildcard) topic:text-processing,wildcard pushed_at:2025-08 star:0.2k fork:0.0k Wildcard matching
-- [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) topic:compiler,engine,filters,firewall,firewall-configuration,firewall-rules,rust,wireshark pushed_at:2025-08 star:1.0k fork:0.1k An execution engine for Wireshark-like filters
-- [cloudflare/workerd-cxx](https://github.com/cloudflare/workerd-cxx) topic: pushed_at:2025-08 star:0.0k fork:0.0k workerd-cxx is a fork of cxx crate for workerd/edgeworker project
-- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) topic:cloudflare,ffi,rust,serverless,webassembly,workers,workers-rs pushed_at:2025-08 star:3.0k fork:0.3k Write Cloudflare Workers in 100% Rust via WebAssembly
+- [cloudflare/wirefilter](https://github.com/cloudflare/wirefilter) topic:compiler,engine,filters,firewall,firewall-configuration,firewall-rules,rust,wireshark pushed_at:2025-09 star:1.0k fork:0.1k An execution engine for Wireshark-like filters
+- [cloudflare/workerd-cxx](https://github.com/cloudflare/workerd-cxx) topic: pushed_at:2025-09 star:0.0k fork:0.0k workerd-cxx is a fork of cxx crate for workerd/edgeworker project
+- [cloudflare/workers-rs](https://github.com/cloudflare/workers-rs) topic:cloudflare,ffi,rust,serverless,webassembly,workers,workers-rs pushed_at:2025-09 star:3.0k fork:0.3k Write Cloudflare Workers in 100% Rust via WebAssembly
 - [cloudflare/workers-wonnx](https://github.com/cloudflare/workers-wonnx) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [cloudflare/wrangler-legacy](https://github.com/cloudflare/wrangler-legacy) topic:cli,cloudflare-workers,rust,serverless pushed_at:2023-08 star:3.2k fork:0.3k 🤠  Home to Wrangler v1 (deprecated)
 
@@ -590,20 +590,20 @@
 ## TypeScript
 
 - [cloudflare/actors](https://github.com/cloudflare/actors) topic:actors,cloudflare,durable-objects,sqlite pushed_at:2025-09 star:0.2k fork:0.0k An easier way to build with Cloudflare Durable Objects
-- [cloudflare/agents](https://github.com/cloudflare/agents) topic:agents,ai,cloudflare,durable-objects,workflows pushed_at:2025-08 star:2.3k fork:0.2k Build and deploy AI Agents on Cloudflare 
-- [cloudflare/agents-starter](https://github.com/cloudflare/agents-starter) topic:agents,ai,cloudflare,durable-objects pushed_at:2025-08 star:0.9k fork:0.2k A starter kit for building ai agents on Cloudflare
-- [cloudflare/ai](https://github.com/cloudflare/ai) topic: pushed_at:2025-08 star:0.7k fork:0.2k 
+- [cloudflare/agents](https://github.com/cloudflare/agents) topic:agents,ai,cloudflare,durable-objects,workflows pushed_at:2025-09 star:2.4k fork:0.2k Build and deploy AI Agents on Cloudflare 
+- [cloudflare/agents-starter](https://github.com/cloudflare/agents-starter) topic:agents,ai,cloudflare,durable-objects pushed_at:2025-09 star:0.9k fork:0.2k A starter kit for building ai agents on Cloudflare
+- [cloudflare/ai](https://github.com/cloudflare/ai) topic: pushed_at:2025-09 star:0.7k fork:0.2k 
 - [cloudflare/ai-utils](https://github.com/cloudflare/ai-utils) topic: pushed_at:2024-10 star:0.2k fork:0.0k Developer toolkit that makes it simple to build with the Workers AI platform.
 - [cloudflare/cabidela](https://github.com/cloudflare/cabidela) topic:json-schema pushed_at:2025-07 star:0.0k fork:0.0k Cabidela is a small, fast, eval-less, Cloudflare Workers compatible, dynamic JSON Schema validator.
 - [cloudflare/chanfana](https://github.com/cloudflare/chanfana) topic:api,cloudflare,cloudflare-workers,hono,honojs,openapi,openapi3,router,swagger,typescript,workers,workers-script pushed_at:2025-07 star:0.6k fork:0.1k OpenAPI 3 and 3.1 schema generator and validator for Hono, itty-router and more!
-- [cloudflare/cloudflare-typescript](https://github.com/cloudflare/cloudflare-typescript) topic:api,cloudflare,sdk,sdk-typescript pushed_at:2025-08 star:0.5k fork:0.1k The official Typescript library for the Cloudflare API
-- [cloudflare/containers](https://github.com/cloudflare/containers) topic:cloudflare,containers,durable-objects pushed_at:2025-08 star:0.2k fork:0.0k Enhance your Workers with serverless containers
+- [cloudflare/cloudflare-typescript](https://github.com/cloudflare/cloudflare-typescript) topic:api,cloudflare,sdk,sdk-typescript pushed_at:2025-09 star:0.5k fork:0.1k The official Typescript library for the Cloudflare API
+- [cloudflare/containers](https://github.com/cloudflare/containers) topic:cloudflare,containers,durable-objects pushed_at:2025-09 star:0.2k fork:0.0k Enhance your Workers with serverless containers
 - [cloudflare/containers-demos](https://github.com/cloudflare/containers-demos) topic: pushed_at:2025-07 star:0.2k fork:0.0k 
-- [cloudflare/d1-northwind](https://github.com/cloudflare/d1-northwind) topic:cloudflare-workers,d1 pushed_at:2025-07 star:0.1k fork:0.0k Northwind Traders D1 Demo
+- [cloudflare/d1-northwind](https://github.com/cloudflare/d1-northwind) topic:cloudflare-workers,d1 pushed_at:2025-09 star:0.1k fork:0.0k Northwind Traders D1 Demo
 - [cloudflare/db-connect](https://github.com/cloudflare/db-connect) topic:cloudflare-workers,sql pushed_at:2021-02 star:0.1k fork:0.0k :rocket: Connect your SQL database to Cloudflare Workers
 - [cloudflare/devweek](https://github.com/cloudflare/devweek) topic: pushed_at:2024-09 star:0.0k fork:0.0k A collection of example solutions for the Developer Challenges.
 - [cloudflare/dmarc-email-worker](https://github.com/cloudflare/dmarc-email-worker) topic:cloudflare,dmarc,workers pushed_at:2024-10 star:0.1k fork:0.0k DMARC reports processor using Cloudflare Workers and Email Workers
-- [cloudflare/docs-examples](https://github.com/cloudflare/docs-examples) topic: pushed_at:2025-08 star:0.0k fork:0.0k Examples surfaced in the Cloudflare Docs
+- [cloudflare/docs-examples](https://github.com/cloudflare/docs-examples) topic: pushed_at:2025-09 star:0.0k fork:0.0k Examples surfaced in the Cloudflare Docs
 - [cloudflare/dog](https://github.com/cloudflare/dog) topic: pushed_at:2025-04 star:0.3k fork:0.0k Durable Object Groups
 - [cloudflare/durable-objects-typescript-rollup-esm](https://github.com/cloudflare/durable-objects-typescript-rollup-esm) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
 - [cloudflare/elements](https://github.com/cloudflare/elements) topic: pushed_at:2024-10 star:0.0k fork:0.0k Build beautiful, interactive API Docs with embeddable React or Web Components, powered by OpenAPI and Markdown.
@@ -615,38 +615,38 @@
 - [cloudflare/kv-asset-handler](https://github.com/cloudflare/kv-asset-handler) topic: pushed_at:2024-02 star:0.3k fork:0.0k Routes requests to KV assets
 - [cloudflare/managed-component-to-cloudflare-worker](https://github.com/cloudflare/managed-component-to-cloudflare-worker) topic:cloudflare,cloudflare-workers,managed-components,workers,zaraz pushed_at:2025-08 star:0.0k fork:0.0k Deploy Managed Components as Cloudflare Workers and use them in Cloudflare Zaraz
 - [cloudflare/matched-data-worker](https://github.com/cloudflare/matched-data-worker) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
-- [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) topic: pushed_at:2025-08 star:2.9k fork:0.3k 
+- [cloudflare/mcp-server-cloudflare](https://github.com/cloudflare/mcp-server-cloudflare) topic: pushed_at:2025-09 star:2.9k fork:0.3k 
 - [cloudflare/miniflare](https://github.com/cloudflare/miniflare) topic:cloudflare,cloudflare-workers pushed_at:2025-03 star:3.9k fork:0.2k 🔥 Fully-local simulator for Cloudflare Workers. For the latest version, see https://github.com/cloudflare/workers-sdk/tree/main/packages/miniflare.
 - [cloudflare/miniflare-typescript-esbuild-jest](https://github.com/cloudflare/miniflare-typescript-esbuild-jest) topic: pushed_at:2024-09 star:0.1k fork:0.0k Example project using Miniflare, TypeScript, esbuild and Jest
-- [cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages) topic:cloudflare-pages,nextjs pushed_at:2025-08 star:1.5k fork:0.2k CLI to build and develop Next.js apps for Cloudflare Pages
+- [cloudflare/next-on-pages](https://github.com/cloudflare/next-on-pages) topic:cloudflare-pages,nextjs pushed_at:2025-09 star:1.5k fork:0.2k CLI to build and develop Next.js apps for Cloudflare Pages
 - [cloudflare/opaque-ts](https://github.com/cloudflare/opaque-ts) topic:crypto,cryptography,opaque,pake,password pushed_at:2024-10 star:0.1k fork:0.0k A TypeScript library for OPAQUE Asymmetric Password-Authenticated Key Exchange Protocol
 - [cloudflare/openai-workers-relay](https://github.com/cloudflare/openai-workers-relay) topic: pushed_at:2024-11 star:0.1k fork:0.0k A relay server for OpenAI's realtime API, for Cloudflare Workers
-- [cloudflare/orange](https://github.com/cloudflare/orange) topic: pushed_at:2025-07 star:2.2k fork:0.3k 
+- [cloudflare/orange](https://github.com/cloudflare/orange) topic: pushed_at:2025-09 star:2.2k fork:0.3k 
 - [cloudflare/pages-fns-with-wasm-demo](https://github.com/cloudflare/pages-fns-with-wasm-demo) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
 - [cloudflare/pages-plugins](https://github.com/cloudflare/pages-plugins) topic: pushed_at:2024-09 star:0.1k fork:0.0k 
-- [cloudflare/partykit](https://github.com/cloudflare/partykit) topic:agents,ai,collaboration,durable-objects,real-time pushed_at:2025-08 star:0.8k fork:0.0k PartyKit, for Workers
-- [cloudflare/pipelines-starter](https://github.com/cloudflare/pipelines-starter) topic: pushed_at:2025-04 star:0.0k fork:0.0k Starter template for Cloudflare Pipelines, which let you ingest real time data streams and load into R2.
-- [cloudflare/playwright](https://github.com/cloudflare/playwright) topic: pushed_at:2025-08 star:0.1k fork:0.0k Playwright fork that works with Cloudflare Browser Rendering
-- [cloudflare/playwright-mcp](https://github.com/cloudflare/playwright-mcp) topic:browser-rendering,mcp,playwright pushed_at:2025-07 star:0.1k fork:0.0k Playwright MCP fork that works with Cloudflare Browser Rendering
+- [cloudflare/partykit](https://github.com/cloudflare/partykit) topic:agents,ai,collaboration,durable-objects,real-time pushed_at:2025-09 star:0.8k fork:0.0k PartyKit, for Workers
+- [cloudflare/pipelines-starter](https://github.com/cloudflare/pipelines-starter) topic: pushed_at:2025-09 star:0.0k fork:0.0k Starter template for Cloudflare Pipelines, which let you ingest real time data streams and load into R2.
+- [cloudflare/playwright](https://github.com/cloudflare/playwright) topic: pushed_at:2025-09 star:0.1k fork:0.0k Playwright fork that works with Cloudflare Browser Rendering
+- [cloudflare/playwright-mcp](https://github.com/cloudflare/playwright-mcp) topic:browser-rendering,mcp,playwright pushed_at:2025-09 star:0.2k fork:0.0k Playwright MCP fork that works with Cloudflare Browser Rendering
 - [cloudflare/pp-browser-extension](https://github.com/cloudflare/pp-browser-extension) topic:browser-extension,chrome-extension,cryptography,firefox-addon,privacy-pass,token,typescript pushed_at:2025-08 star:0.4k fork:0.0k Client for Privacy Pass protocol providing unlinkable cryptographic tokens 
 - [cloudflare/privacypass-attester](https://github.com/cloudflare/privacypass-attester) topic:authentication,cryptography,privacy-pass,token,turnstile,typescript pushed_at:2025-02 star:0.0k fork:0.0k A TypeScript Attester using Turnstile for the Privacy Pass Authentication Protocol
 - [cloudflare/privacypass-config](https://github.com/cloudflare/privacypass-config) topic:authentication,cli,cryptography,privacy-pass,token,typescript pushed_at:2024-11 star:0.0k fork:0.0k Development and deployment CLI for Cloudflare Privacy Pass implementation
-- [cloudflare/privacypass-issuer](https://github.com/cloudflare/privacypass-issuer) topic:authentication,cryptography,privacy-pass,token,typescript pushed_at:2025-08 star:0.0k fork:0.0k A TypeScript Issuer for the Privacy Pass Authentication Protocol
+- [cloudflare/privacypass-issuer](https://github.com/cloudflare/privacypass-issuer) topic:authentication,cryptography,privacy-pass,token,typescript pushed_at:2025-09 star:0.0k fork:0.0k A TypeScript Issuer for the Privacy Pass Authentication Protocol
 - [cloudflare/privacypass-origin](https://github.com/cloudflare/privacypass-origin) topic:authentication,cryptography,privacy-pass,token,typescript pushed_at:2025-08 star:0.0k fork:0.0k A TypeScript Origin for the Privacy Pass Authentication Protocol
-- [cloudflare/privacypass-ts](https://github.com/cloudflare/privacypass-ts) topic:blindrsa,cryptography,privacy-pass,token,typescript,voprf pushed_at:2025-06 star:0.0k fork:0.0k A TypeScript Library for the Privacy Pass Issuance Protocol
+- [cloudflare/privacypass-ts](https://github.com/cloudflare/privacypass-ts) topic:blindrsa,cryptography,privacy-pass,token,typescript,voprf pushed_at:2025-09 star:0.0k fork:0.0k A TypeScript Library for the Privacy Pass Issuance Protocol
 - [cloudflare/production-saas](https://github.com/cloudflare/production-saas) topic: pushed_at:2024-09 star:1.1k fork:0.1k (WIP) Example SaaS application built in public on the Cloudflare stack!
 - [cloudflare/pubsub](https://github.com/cloudflare/pubsub) topic:cloudflare,mqtt,pubsub,workers pushed_at:2024-09 star:0.0k fork:0.0k A set of useful helper methods for writing functions to handle Cloudflare Pub/Sub messages (https://developers.cloudflare.com/pub-sub/)
-- [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) topic:cloudflare,workers pushed_at:2025-08 star:0.3k fork:0.0k Puppeteer Core fork that works with Cloudflare Browser Workers
+- [cloudflare/puppeteer](https://github.com/cloudflare/puppeteer) topic:cloudflare,workers pushed_at:2025-09 star:0.3k fork:0.0k Puppeteer Core fork that works with Cloudflare Browser Workers
 - [cloudflare/queues-web-crawler](https://github.com/cloudflare/queues-web-crawler) topic: pushed_at:2024-10 star:0.2k fork:0.0k A web crawler built with Cloudflare Queues, Browser Rendering, and Workers KV.
-- [cloudflare/realtime-examples](https://github.com/cloudflare/realtime-examples) topic: pushed_at:2025-08 star:0.1k fork:0.0k 
-- [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) topic:agent,agents,ai,code-interpreter,containers,devtools,sandbox pushed_at:2025-08 star:0.2k fork:0.0k Run sandboxed code environments on Cloudflare's edge network
+- [cloudflare/realtime-examples](https://github.com/cloudflare/realtime-examples) topic: pushed_at:2025-09 star:0.1k fork:0.0k 
+- [cloudflare/sandbox-sdk](https://github.com/cloudflare/sandbox-sdk) topic:agent,agents,ai,code-interpreter,containers,devtools,sandbox pushed_at:2025-09 star:0.2k fork:0.0k Run sandboxed code environments on Cloudflare's edge network
 - [cloudflare/serverless-registry](https://github.com/cloudflare/serverless-registry) topic:artifacts,cloudflare,container,container-registry,containers,docker,docker-registry,javascript,r2,registry,typescript,workers pushed_at:2025-03 star:1.3k fork:0.1k A container registry backed by Workers and R2.
 - [cloudflare/stream-angular](https://github.com/cloudflare/stream-angular) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
 - [cloudflare/stream-react](https://github.com/cloudflare/stream-react) topic: pushed_at:2025-03 star:0.2k fork:0.0k 
 - [cloudflare/template-registry](https://github.com/cloudflare/template-registry) topic: pushed_at:2024-09 star:0.1k fork:0.0k  A simple API via a Worker that serves all the template content
 - [cloudflare/turnstile-firebase-app-check](https://github.com/cloudflare/turnstile-firebase-app-check) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
 - [cloudflare/turnstile-firebase-app-check-provider](https://github.com/cloudflare/turnstile-firebase-app-check-provider) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
-- [cloudflare/vibesdk-templates](https://github.com/cloudflare/vibesdk-templates) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
+- [cloudflare/vibesdk-templates](https://github.com/cloudflare/vibesdk-templates) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 - [cloudflare/voprf-ts](https://github.com/cloudflare/voprf-ts) topic:crypto,cryptography,dleq,oprf,poprf,typescript,voprf pushed_at:2024-09 star:0.0k fork:0.0k A TypeScript library for Oblivious Pseudorandom Functions
 - [cloudflare/webcm](https://github.com/cloudflare/webcm) topic:managed-components pushed_at:2024-09 star:0.1k fork:0.0k 🧩 Components Manager for the Web. Free, open-source, and fast!
 - [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) topic: pushed_at:2024-10 star:2.1k fork:0.4k Wildebeest is an ActivityPub and Mastodon-compatible server
@@ -656,8 +656,8 @@
 - [cloudflare/workers-graphql-server](https://github.com/cloudflare/workers-graphql-server) topic:apollo,cloudflare-workers,graphql,serverless pushed_at:2024-12 star:0.8k fork:0.6k 🔥Lightning-fast, globally distributed Apollo GraphQL server, deployed at the edge using Cloudflare Workers
 - [cloudflare/workers-honeycomb-logger](https://github.com/cloudflare/workers-honeycomb-logger) topic:cloudflare,honeycombio,workers pushed_at:2024-09 star:0.1k fork:0.0k A library to easily send request events and traces to https://honeycomb.io
 - [cloudflare/workers-mcp](https://github.com/cloudflare/workers-mcp) topic: pushed_at:2025-04 star:0.6k fork:0.1k Talk to a Cloudflare Worker from Claude Desktop!
-- [cloudflare/workers-oauth-provider](https://github.com/cloudflare/workers-oauth-provider) topic: pushed_at:2025-08 star:1.6k fork:0.1k OAuth provider library for Cloudflare Workers
-- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) topic:cli,cloudflare,cloudflare-workers,javascript,serverless,wasm pushed_at:2025-08 star:3.4k fork:1.0k ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
+- [cloudflare/workers-oauth-provider](https://github.com/cloudflare/workers-oauth-provider) topic: pushed_at:2025-09 star:1.6k fork:0.1k OAuth provider library for Cloudflare Workers
+- [cloudflare/workers-sdk](https://github.com/cloudflare/workers-sdk) topic:cli,cloudflare,cloudflare-workers,javascript,serverless,wasm pushed_at:2025-09 star:3.4k fork:1.0k ⛅️ Home to Wrangler, the CLI for Cloudflare Workers®
 - [cloudflare/workers-types](https://github.com/cloudflare/workers-types) topic:cloudflare-workers,typescript,typescript-definitions,workers-types pushed_at:2023-01 star:0.4k fork:0.1k TypeScript type definitions for authoring Cloudflare Workers.
 - [cloudflare/workers-web-experiments](https://github.com/cloudflare/workers-web-experiments) topic:micro-frontend,serverless,workers pushed_at:2024-10 star:0.2k fork:0.0k Public web experiments by the Cloudflare Workers team
 - [cloudflare/workflows-starter](https://github.com/cloudflare/workflows-starter) topic:cloudflare,durable-execution,workers,workflows pushed_at:2025-08 star:0.0k fork:0.0k A starter template for Cloudflare Workflows. 
