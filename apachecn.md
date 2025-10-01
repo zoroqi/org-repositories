@@ -234,7 +234,7 @@
 - [apachecn/apachecn-scicomp-zh](https://github.com/apachecn/apachecn-scicomp-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-sec-notes](https://github.com/apachecn/apachecn-sec-notes) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/apachecn-sec-wiki](https://github.com/apachecn/apachecn-sec-wiki) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [apachecn/apachecn-sec-zh](https://github.com/apachecn/apachecn-sec-zh) topic: pushed_at:2022-07 star:0.2k fork:0.0k ApacheCN 网络安全译文集
+- [apachecn/apachecn-sec-zh](https://github.com/apachecn/apachecn-sec-zh) topic: pushed_at:2022-07 star:0.2k fork:0.1k ApacheCN 网络安全译文集
 - [apachecn/apachecn-sec-zh-pt2](https://github.com/apachecn/apachecn-sec-zh-pt2) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [apachecn/apachecn-sys-zh](https://github.com/apachecn/apachecn-sys-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k :books: [译] ApacheCN 计算机系统译文集
 - [apachecn/apachecn-tcs-zh](https://github.com/apachecn/apachecn-tcs-zh) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
@@ -789,7 +789,7 @@
 - [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.8k fork:0.3k :books: 华章计算机科学丛书高清扫描
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) topic: pushed_at:2023-02 star:0.1k fork:0.0k :book: 华章经管丛书高清扫描
 - [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.4k fork:0.2k :books: 华章数学丛书高清扫描
-- [apachecn/huggingface-doc-zh](https://github.com/apachecn/huggingface-doc-zh) topic: pushed_at:2024-07 star:0.0k fork:0.0k Hugging Face - 文档库(中文版)
+- [apachecn/huggingface-doc-zh](https://github.com/apachecn/huggingface-doc-zh) topic: pushed_at:2025-09 star:0.0k fork:0.0k Hugging Face - 文档库(中文版)
 - [apachecn/hugo-PaperModX](https://github.com/apachecn/hugo-PaperModX) topic: pushed_at:2023-04 star:0.0k fork:0.0k A fast, clean, responsive Hugo theme.
 - [apachecn/igetget](https://github.com/apachecn/igetget) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
 - [apachecn/igetget2](https://github.com/apachecn/igetget2) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
@@ -1197,7 +1197,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:41.4k fork:11.6k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:41.5k fork:11.6k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
