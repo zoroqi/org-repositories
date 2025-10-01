@@ -59,8 +59,8 @@
 
 - [tuna/mirror-web](https://github.com/tuna/mirror-web) topic: pushed_at:2025-09 star:0.8k fork:0.3k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
 - [tuna/mirrorcon](https://github.com/tuna/mirrorcon) topic: pushed_at:2017-09 star:0.0k fork:0.0k Website of MirrorCon 2017
-- [tuna/registr-lite](https://github.com/tuna/registr-lite) topic: pushed_at:2020-09 star:0.0k fork:0.0k A lightweight registr with only a bare RESTful API.
-- [tuna/tuna.moe](https://github.com/tuna/tuna.moe) topic: pushed_at:2025-07 star:0.1k fork:0.0k Source code for https://tuna.moe
+- [tuna/registr-lite](https://github.com/tuna/registr-lite) topic: pushed_at:2025-09 star:0.0k fork:0.0k A lightweight registr with only a bare RESTful API.
+- [tuna/tuna.moe](https://github.com/tuna/tuna.moe) topic: pushed_at:2025-09 star:0.1k fork:0.0k Source code for https://tuna.moe
 
 ## JavaScript
 
@@ -76,7 +76,7 @@
 
 ## Others
 
-- [tuna/artwork](https://github.com/tuna/artwork) topic: pushed_at:2025-03 star:0.0k fork:0.0k tuna artwork
+- [tuna/artwork](https://github.com/tuna/artwork) topic: pushed_at:2025-09 star:0.0k fork:0.0k tuna artwork
 - [tuna/Books](https://github.com/tuna/Books) topic: pushed_at:2020-11 star:0.0k fork:0.0k Tracking Books of TUNA Library
 - [tuna/collection](https://github.com/tuna/collection) topic: pushed_at:2022-04 star:0.3k fork:0.0k idea collections from TUNA
 - [tuna/dataset-issues](https://github.com/tuna/dataset-issues) topic: pushed_at:2018-04 star:0.0k fork:0.0k Issues about academic dataset mirrors
