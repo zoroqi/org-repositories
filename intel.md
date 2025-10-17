@@ -34,12 +34,12 @@
 - [Objective-C](#objective-c) (1)
 - [Open Policy Agent](#open-policy-agent) (1)
 - [OpenSCAD](#openscad) (1)
-- [Others](#others) (151)
+- [Others](#others) (152)
 - [PHP](#php) (4)
 - [Perl](#perl) (2)
 - [Perl6](#perl6) (1)
 - [Puppet](#puppet) (1)
-- [Python](#python) (224)
+- [Python](#python) (223)
 - [Roff](#roff) (5)
 - [Rust](#rust) (16)
 - [SCSS](#scss) (2)
@@ -54,8 +54,8 @@
 
 ## Assembly
 
-- [intel/intel-sgx-ssl](https://github.com/intel/intel-sgx-ssl) topic: pushed_at:2025-01 star:0.2k fork:0.1k Intel® Software Guard Extensions SSL
-- [intel/ipu-opi-plugins](https://github.com/intel/ipu-opi-plugins) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/intel-sgx-ssl](https://github.com/intel/intel-sgx-ssl) topic: pushed_at:2025-10 star:0.2k fork:0.1k Intel® Software Guard Extensions SSL
+- [intel/ipu-opi-plugins](https://github.com/intel/ipu-opi-plugins) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/optimization-manual](https://github.com/intel/optimization-manual) topic: pushed_at:2024-05 star:0.8k fork:0.1k Contains the source code examples described in the "Intel® 64 and IA-32 Architectures Optimization Reference Manual"
 
 ## BitBake
@@ -105,8 +105,8 @@
 - [intel/CODK-M-X86-Samples](https://github.com/intel/CODK-M-X86-Samples) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/CODK-Z-Flashpack](https://github.com/intel/CODK-Z-Flashpack) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/collectd](https://github.com/intel/collectd) topic: pushed_at:2022-08 star:0.0k fork:0.0k The system statistics collection daemon. Please send Pull Requests here!
-- [intel/cryptography-primitives](https://github.com/intel/cryptography-primitives) topic: pushed_at:2025-09 star:0.4k fork:0.1k Intel® Cryptography Primitives Library is a secure, fast and lightweight library of building blocks for cryptography, highly-optimized for various Intel® CPUs
-- [intel/ddd-aes](https://github.com/intel/ddd-aes) topic: pushed_at:2025-09 star:0.0k fork:0.0k Experimental reference implementation code for [BBB-]DDD-AES ciphers, accompanying the "Efficient Instances of Docked Double Decker with AES, and Application to Authenticated Encryption" research paper.
+- [intel/cryptography-primitives](https://github.com/intel/cryptography-primitives) topic: pushed_at:2025-10 star:0.4k fork:0.1k Intel® Cryptography Primitives Library is a secure, fast and lightweight library of building blocks for cryptography, highly-optimized for various Intel® CPUs
+- [intel/ddd-aes](https://github.com/intel/ddd-aes) topic: pushed_at:2025-10 star:0.0k fork:0.0k Experimental reference implementation code for [BBB-]DDD-AES ciphers, accompanying the "Efficient Instances of Docked Double Decker with AES, and Application to Authenticated Encryption" research paper.
 - [intel/ddp-tool](https://github.com/intel/ddp-tool) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 - [intel/dlafs](https://github.com/intel/dlafs) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/dleyna-collabora-android](https://github.com/intel/dleyna-collabora-android) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
@@ -120,7 +120,7 @@
 - [intel/drivers.gpu.control-library](https://github.com/intel/drivers.gpu.control-library) topic: pushed_at:2025-09 star:0.1k fork:0.0k 
 - [intel/dsa-perf-micros](https://github.com/intel/dsa-perf-micros) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [intel/DTO](https://github.com/intel/DTO) topic: pushed_at:2025-09 star:0.0k fork:0.0k A user level library for applications to transparently use Intel DSA.
-- [intel/ecfw-zephyr](https://github.com/intel/ecfw-zephyr) topic: pushed_at:2025-09 star:0.1k fork:0.0k 
+- [intel/ecfw-zephyr](https://github.com/intel/ecfw-zephyr) topic: pushed_at:2025-10 star:0.1k fork:0.0k 
 - [intel/edison-bcm43340](https://github.com/intel/edison-bcm43340) topic: pushed_at:2016-04 star:0.0k fork:0.0k 
 - [intel/edison-firmware](https://github.com/intel/edison-firmware) topic: pushed_at:2015-03 star:0.0k fork:0.0k 
 - [intel/edison-linux](https://github.com/intel/edison-linux) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
@@ -147,7 +147,7 @@
 - [intel/FSP](https://github.com/intel/FSP) topic: pushed_at:2025-09 star:0.3k fork:0.1k Intel(R) Firmware Support Package (FSP)
 - [intel/Galileo-Runtime](https://github.com/intel/Galileo-Runtime) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/gdb](https://github.com/intel/gdb) topic:debuggers,swrepo pushed_at:2025-08 star:0.0k fork:0.0k Intel(R) Distribution for GDB*
-- [intel/ghe](https://github.com/intel/ghe) topic: pushed_at:2025-01 star:0.0k fork:0.0k 
+- [intel/ghe](https://github.com/intel/ghe) topic: pushed_at:2025-01 star:0.0k fork:0.0k Global Histogram Enhancement
 - [intel/GraphBLAS](https://github.com/intel/GraphBLAS) topic: pushed_at:2023-01 star:0.0k fork:0.0k SuiteSparse:GraphBLAS:  graph algorithms in the language of linear algebra.  To use the production version, be sure to use the (default) STABLE branch.  Code development is on the (non-default) MASTER branch.  See also the tagged releases.
 - [intel/GrapheneSGX-Golang-Support-and-Enhancement](https://github.com/intel/GrapheneSGX-Golang-Support-and-Enhancement) topic: pushed_at:2024-11 star:0.0k fork:0.0k Intel® project for Graphene-SGX Golang™ support and enhancement collaborated with Alibaba® Cloud Security Team  -- https://www.alibabacloud.com/blog/594889
 - [intel/gst-omx](https://github.com/intel/gst-omx) topic: pushed_at:2014-09 star:0.0k fork:0.0k gst-omx
@@ -156,10 +156,10 @@
 - [intel/gvt-linux](https://github.com/intel/gvt-linux) topic: pushed_at:2024-10 star:0.5k fork:0.1k 
 - [intel/hal-intel](https://github.com/intel/hal-intel) topic: pushed_at:2025-09 star:0.0k fork:0.0k This module provides a low level Hardware Abstraction Layer for Intel specific hardware.
 - [intel/haxm](https://github.com/intel/haxm) topic: pushed_at:2023-01 star:3.3k fork:0.9k Intel® Hardware Accelerated Execution Manager (Intel® HAXM)
-- [intel/HBFA-FL](https://github.com/intel/HBFA-FL) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/HBFA-FL](https://github.com/intel/HBFA-FL) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/high-density-scalable-load-balancer](https://github.com/intel/high-density-scalable-load-balancer) topic: pushed_at:2025-04 star:0.1k fork:0.0k High-Density Scalable Load Balancer(HDSLB) is a high performance Layer-4 load balancer based on DPVS and DPDK(Data Plane Development Kit). It refactors and optimizes the performance of key data plane features, supports 100 Million+ sessions and session sync within LB (load balancer) cluster.
 - [intel/host-int](https://github.com/intel/host-int) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [intel/iaprof](https://github.com/intel/iaprof) topic:flamegraph,gpu,performance pushed_at:2025-09 star:0.2k fork:0.0k AI/GPU flame graph
+- [intel/iaprof](https://github.com/intel/iaprof) topic:flamegraph,gpu,performance pushed_at:2025-10 star:0.2k fork:0.0k AI/GPU flame graph
 - [intel/ias](https://github.com/intel/ias) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/idxd-config](https://github.com/intel/idxd-config) topic: pushed_at:2025-07 star:0.1k fork:0.0k Accel-config / libaccel-config
 - [intel/idxd-driver](https://github.com/intel/idxd-driver) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
@@ -184,11 +184,11 @@
 - [intel/intel-device-resource-mgt-lib](https://github.com/intel/intel-device-resource-mgt-lib) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [intel/Intel-Distribution-of-Weston](https://github.com/intel/Intel-Distribution-of-Weston) topic: pushed_at:2025-07 star:0.0k fork:0.0k Reference compositor for Wayland (mirror)
 - [intel/intel-ipsec-mb](https://github.com/intel/intel-ipsec-mb) topic: pushed_at:2025-09 star:0.3k fork:0.1k Intel(R) Multi-Buffer Crypto for IPSec
-- [intel/intel-lpmd](https://github.com/intel/intel-lpmd) topic: pushed_at:2025-09 star:0.2k fork:0.0k 
+- [intel/intel-lpmd](https://github.com/intel/intel-lpmd) topic: pushed_at:2025-10 star:0.2k fork:0.0k 
 - [intel/intel-pmwatch](https://github.com/intel/intel-pmwatch) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/INTEL-SA-00075-Linux-Detection-And-Mitigation-Tools](https://github.com/intel/INTEL-SA-00075-Linux-Detection-And-Mitigation-Tools) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
 - [intel/intel-vaapi-driver](https://github.com/intel/intel-vaapi-driver) topic: pushed_at:2024-10 star:0.3k fork:0.1k VA-API user mode driver for Intel GEN Graphics family
-- [intel/intel_hfi](https://github.com/intel/intel_hfi) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
+- [intel/intel_hfi](https://github.com/intel/intel_hfi) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/ioc-cbc-tools](https://github.com/intel/ioc-cbc-tools) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/iodlr](https://github.com/intel/iodlr) topic: pushed_at:2025-09 star:0.1k fork:0.0k Tools and Reference Code for Intel Optimizations (eg Large Pages)
 - [intel/iotg-lin-gfx-ddx](https://github.com/intel/iotg-lin-gfx-ddx) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
@@ -198,7 +198,7 @@
 - [intel/iotg-lin-gfx-mesa](https://github.com/intel/iotg-lin-gfx-mesa) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/iotg-lin-gfx-va-driver](https://github.com/intel/iotg-lin-gfx-va-driver) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/iotg-mgbe-undi-driver](https://github.com/intel/iotg-mgbe-undi-driver) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
-- [intel/iotg_tsn_ref_sw](https://github.com/intel/iotg_tsn_ref_sw) topic:iotg-tsn-ref-sw pushed_at:2025-07 star:0.1k fork:0.1k IOTG Time-Sensitive Networking Reference Software
+- [intel/iotg_tsn_ref_sw](https://github.com/intel/iotg_tsn_ref_sw) topic:iotg-tsn-ref-sw pushed_at:2025-07 star:0.2k fork:0.1k IOTG Time-Sensitive Networking Reference Software
 - [intel/ipmctl](https://github.com/intel/ipmctl) topic: pushed_at:2025-03 star:0.2k fork:0.1k 
 - [intel/ipu4-cam-hal](https://github.com/intel/ipu4-cam-hal) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [intel/ipu6-camera-bins](https://github.com/intel/ipu6-camera-bins) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
@@ -208,7 +208,7 @@
 - [intel/ipu7-drivers](https://github.com/intel/ipu7-drivers) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 - [intel/ipvr-vaapi-driver](https://github.com/intel/ipvr-vaapi-driver) topic: pushed_at:2014-12 star:0.0k fork:0.0k Intel PVR VA-API Driver (VXD392)
 - [intel/irqbalance](https://github.com/intel/irqbalance) topic: pushed_at:2023-06 star:0.0k fork:0.0k 
-- [intel/isa-l](https://github.com/intel/isa-l) topic: pushed_at:2025-09 star:1.0k fork:0.3k Intelligent Storage Acceleration Library
+- [intel/isa-l](https://github.com/intel/isa-l) topic: pushed_at:2025-10 star:1.0k fork:0.3k Intelligent Storage Acceleration Library
 - [intel/isa-l_crypto](https://github.com/intel/isa-l_crypto) topic: pushed_at:2025-08 star:0.3k fork:0.1k 
 - [intel/ISALgo](https://github.com/intel/ISALgo) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [intel/isseilib](https://github.com/intel/isseilib) topic: pushed_at:2025-01 star:0.0k fork:0.0k 
@@ -220,12 +220,12 @@
 - [intel/kernel-fuzzer-for-xen-project](https://github.com/intel/kernel-fuzzer-for-xen-project) topic:afl,fuzzing,hypervisor,linux-kernel,xen pushed_at:2024-07 star:0.5k fork:0.1k Kernel Fuzzer for Xen Project (KF/x) - Hypervisor-based fuzzing using Xen VM forking, VMI & AFL
 - [intel/kernelflinger](https://github.com/intel/kernelflinger) topic: pushed_at:2024-02 star:0.1k fork:0.1k 
 - [intel/kvm-sgx](https://github.com/intel/kvm-sgx) topic: pushed_at:2023-01 star:0.1k fork:0.0k 
-- [intel/kvm-unit-tests-tdx](https://github.com/intel/kvm-unit-tests-tdx) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
+- [intel/kvm-unit-tests-tdx](https://github.com/intel/kvm-unit-tests-tdx) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/KVMGT-kernel](https://github.com/intel/KVMGT-kernel) topic: pushed_at:2015-01 star:0.0k fork:0.0k 
 - [intel/KVMGT-qemu](https://github.com/intel/KVMGT-qemu) topic: pushed_at:2015-08 star:0.0k fork:0.0k 
 - [intel/KVMGT-seabios](https://github.com/intel/KVMGT-seabios) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [intel/ledmon](https://github.com/intel/ledmon) topic: pushed_at:2025-09 star:0.1k fork:0.1k Enclosure LED Utilities
-- [intel/level-zero-npu-extensions](https://github.com/intel/level-zero-npu-extensions) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/ledmon](https://github.com/intel/ledmon) topic: pushed_at:2025-10 star:0.1k fork:0.1k Enclosure LED Utilities
+- [intel/level-zero-npu-extensions](https://github.com/intel/level-zero-npu-extensions) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/level-zero-raytracing-support](https://github.com/intel/level-zero-raytracing-support) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 - [intel/libdmclient](https://github.com/intel/libdmclient) topic: pushed_at:2014-04 star:0.1k fork:0.0k libdmclient is a communication library for mobile device management. It implements the client-side of OMA DM 1.2 protocol. 
 - [intel/libipathverbs](https://github.com/intel/libipathverbs) topic: pushed_at:2014-07 star:0.0k fork:0.0k 
@@ -246,7 +246,7 @@
 - [intel/linux-stable-xenomai](https://github.com/intel/linux-stable-xenomai) topic: pushed_at:2023-01 star:0.0k fork:0.0k Linux kernel stable tree mirror
 - [intel/lmbench](https://github.com/intel/lmbench) topic: pushed_at:2025-09 star:0.3k fork:0.2k 
 - [intel/mce-test](https://github.com/intel/mce-test) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [intel/media-driver](https://github.com/intel/media-driver) topic: pushed_at:2025-09 star:1.1k fork:0.4k Intel Graphics Media Driver to support hardware decode, encode and video processing.
+- [intel/media-driver](https://github.com/intel/media-driver) topic: pushed_at:2025-10 star:1.1k fork:0.4k Intel Graphics Media Driver to support hardware decode, encode and video processing.
 - [intel/memory-bandwidth-benchmarks](https://github.com/intel/memory-bandwidth-benchmarks) topic:memory-bandwidth,stream-benchmark pushed_at:2024-04 star:0.1k fork:0.0k Provides a set of benchmarks that can be used to measure the memory bandwidth performance of CPU's
 - [intel/meta-de10-nano](https://github.com/intel/meta-de10-nano) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/metee](https://github.com/intel/metee) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
@@ -270,7 +270,7 @@
 - [intel/omxil_core](https://github.com/intel/omxil_core) topic: pushed_at:2014-12 star:0.0k fork:0.0k 
 - [intel/opa-firmware](https://github.com/intel/opa-firmware) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/opa-libhfi1verbs](https://github.com/intel/opa-libhfi1verbs) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [intel/openlldp](https://github.com/intel/openlldp) topic: pushed_at:2025-03 star:0.1k fork:0.0k 
+- [intel/openlldp](https://github.com/intel/openlldp) topic: pushed_at:2025-10 star:0.1k fork:0.1k 
 - [intel/OpenOCD](https://github.com/intel/OpenOCD) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/osadsp-qemu](https://github.com/intel/osadsp-qemu) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/ovmf-virt](https://github.com/intel/ovmf-virt) topic: pushed_at:2023-01 star:0.0k fork:0.0k EDK II
@@ -285,7 +285,7 @@
 - [intel/psm](https://github.com/intel/psm) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/psst](https://github.com/intel/psst) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
 - [intel/pysamprof](https://github.com/intel/pysamprof) topic: pushed_at:2024-05 star:0.0k fork:0.0k Simple Python sampling profiler
-- [intel/QAT-ZSTD-Plugin](https://github.com/intel/QAT-ZSTD-Plugin) topic: pushed_at:2025-09 star:0.1k fork:0.0k 
+- [intel/QAT-ZSTD-Plugin](https://github.com/intel/QAT-ZSTD-Plugin) topic:accelerator,compression,zstandard pushed_at:2025-10 star:0.1k fork:0.0k Plugin to Zstandard Library providing compression Acceleration using Intel® QuickAssist Technology Hardware
 - [intel/QAT_Engine](https://github.com/intel/QAT_Engine) topic:openssl-engine pushed_at:2025-08 star:0.4k fork:0.1k Intel QuickAssist Technology( QAT) OpenSSL Engine (an OpenSSL Plug-In Engine) which provides cryptographic acceleration for both hardware and optimized software using Intel QuickAssist Technology enabled Intel platforms. https://developer.intel.com/quickassist
 - [intel/qatlib](https://github.com/intel/qatlib) topic: pushed_at:2025-09 star:0.1k fork:0.0k 
 - [intel/qatlib-freebsd](https://github.com/intel/qatlib-freebsd) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
@@ -293,7 +293,7 @@
 - [intel/qemu-lite](https://github.com/intel/qemu-lite) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
 - [intel/qemu-sgx](https://github.com/intel/qemu-sgx) topic: pushed_at:2023-01 star:0.1k fork:0.0k 
 - [intel/qib](https://github.com/intel/qib) topic: pushed_at:2015-01 star:0.0k fork:0.0k 
-- [intel/qpl](https://github.com/intel/qpl) topic:accelerators,avx512,compression,decompression,library,performance,qpl,x86-64 pushed_at:2025-09 star:0.1k fork:0.0k Intel® Query Processing Library (Intel® QPL)
+- [intel/qpl](https://github.com/intel/qpl) topic:accelerators,avx512,compression,decompression,library,performance,qpl,x86-64 pushed_at:2025-10 star:0.1k fork:0.0k Intel® Query Processing Library (Intel® QPL)
 - [intel/RealTimePathTracingResearchFramework](https://github.com/intel/RealTimePathTracingResearchFramework) topic: pushed_at:2025-08 star:0.1k fork:0.0k 
 - [intel/rtos-drv-intel-s1000](https://github.com/intel/rtos-drv-intel-s1000) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/rtos-if-drivers](https://github.com/intel/rtos-if-drivers) topic: pushed_at:2025-04 star:0.0k fork:0.0k Elkhartlake-PSE IOs zephyr drivers
@@ -309,7 +309,7 @@
 - [intel/tbtfwupd](https://github.com/intel/tbtfwupd) topic: pushed_at:2022-08 star:0.0k fork:0.0k A simple daemon to allow session software to update firmware
 - [intel/tdx-loader](https://github.com/intel/tdx-loader) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 - [intel/tdx-module](https://github.com/intel/tdx-module) topic: pushed_at:2025-08 star:0.1k fork:0.0k Trust Domain Extensions (TDX) is introducing new, architectural elements to help deploy hardware-isolated, virtual machines (VMs) called trust domains (TDs). Intel TDX is designed to isolate VMs from the virtual-machine manager (VMM)/hypervisor and any other non-TD software on the platform to protect TDs from a broad range of software.
-- [intel/tee-io-validator](https://github.com/intel/tee-io-validator) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
+- [intel/tee-io-validator](https://github.com/intel/tee-io-validator) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/thc-drivers](https://github.com/intel/thc-drivers) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [intel/thunderbolt-software-kernel-tree](https://github.com/intel/thunderbolt-software-kernel-tree) topic: pushed_at:2024-08 star:0.0k fork:0.0k Linux kernel source tree
 - [intel/tif](https://github.com/intel/tif) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
@@ -324,7 +324,7 @@
 - [intel/uintr-linux-kernel](https://github.com/intel/uintr-linux-kernel) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
 - [intel/unicorn-for-efi](https://github.com/intel/unicorn-for-efi) topic:efi,firmware,uefi,unicorn pushed_at:2025-03 star:0.0k fork:0.0k Unicorn Engine port for UEFI firmware
 - [intel/usbcd](https://github.com/intel/usbcd) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
-- [intel/usbio-drivers](https://github.com/intel/usbio-drivers) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
+- [intel/usbio-drivers](https://github.com/intel/usbio-drivers) topic: pushed_at:2025-10 star:0.0k fork:0.0k USBIO drivers for Intel's Meteor Lake, Arrow Lake, Lunar Lake and Panther Lake platforms
 - [intel/vaapi-bypass](https://github.com/intel/vaapi-bypass) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/vbh](https://github.com/intel/vbh) topic: pushed_at:2024-04 star:0.1k fork:0.0k 
 - [intel/vision-drivers](https://github.com/intel/vision-drivers) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
@@ -338,14 +338,14 @@
 - [intel/xdp-bpf-acceleration](https://github.com/intel/xdp-bpf-acceleration) topic: pushed_at:2025-07 star:0.0k fork:0.0k Repository for development of enabling generic accelerators in eXpress Data Path (XDP) for linux kernel tree.
 - [intel/XenGT-Preview-kernel](https://github.com/intel/XenGT-Preview-kernel) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/xess](https://github.com/intel/xess) topic: pushed_at:2025-09 star:0.9k fork:0.1k Intel XeSS SDK
-- [intel/zephyr](https://github.com/intel/zephyr) topic: pushed_at:2024-12 star:0.1k fork:0.0k 
+- [intel/zephyr](https://github.com/intel/zephyr) topic: pushed_at:2025-10 star:0.1k fork:0.0k 
 - [intel/zephyr-ia](https://github.com/intel/zephyr-ia) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [intel/zephyr.js](https://github.com/intel/zephyr.js) topic:arc,arm,javascript,x86,zephyros pushed_at:2022-08 star:0.2k fork:0.1k JavaScript* Runtime for Zephyr* OS
 - [intel/zlib](https://github.com/intel/zlib) topic: pushed_at:2024-03 star:0.1k fork:0.0k 
 
 ## C#
 
-- [intel/acat](https://github.com/intel/acat) topic: pushed_at:2025-09 star:3.2k fork:0.6k Assistive Context-Aware Toolkit (ACAT)
+- [intel/acat](https://github.com/intel/acat) topic: pushed_at:2025-10 star:3.2k fork:0.6k Assistive Context-Aware Toolkit (ACAT)
 - [intel/cordova-plugin-intel-xdk-contacts](https://github.com/intel/cordova-plugin-intel-xdk-contacts) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/DualScreen.Net](https://github.com/intel/DualScreen.Net) topic: pushed_at:2019-12 star:0.0k fork:0.0k This is a .Net Library for creating Dual-Screen application on Windows. This library is written in C# and it makes it smooth and easy for developers to utilize and control more than 1 screen in their application.
 - [intel/ezIOmeter](https://github.com/intel/ezIOmeter) topic: pushed_at:2015-11 star:0.0k fork:0.0k A simplified UI wrapper for IOMeter
@@ -363,7 +363,7 @@
 - [intel/android-audio-hal](https://github.com/intel/android-audio-hal) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/arduino101-ble-demo](https://github.com/intel/arduino101-ble-demo) topic: pushed_at:2015-11 star:0.0k fork:0.0k 
 - [intel/ardupilot](https://github.com/intel/ardupilot) topic: pushed_at:2022-08 star:0.0k fork:0.0k ArduPlane, ArduCopter, ArduRover source
-- [intel/aubstream](https://github.com/intel/aubstream) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/aubstream](https://github.com/intel/aubstream) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/AudioLatencyTools](https://github.com/intel/AudioLatencyTools) topic: pushed_at:2015-11 star:0.0k fork:0.0k 
 - [intel/AVB-AudioModules](https://github.com/intel/AVB-AudioModules) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/AVBStreamHandler](https://github.com/intel/AVBStreamHandler) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
@@ -373,30 +373,29 @@
 - [intel/CacheLib](https://github.com/intel/CacheLib) topic: pushed_at:2025-09 star:0.0k fork:0.0k Pluggable in-process caching engine to build and scale high performance services
 - [intel/caffe](https://github.com/intel/caffe) topic: pushed_at:2022-08 star:0.9k fork:0.5k This fork of BVLC/Caffe is dedicated to improving performance of this deep learning framework when running on CPU, in particular Intel® Xeon processors.
 - [intel/camera_driver](https://github.com/intel/camera_driver) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [intel/cassian](https://github.com/intel/cassian) topic: pushed_at:2025-09 star:0.0k fork:0.0k Cassian is a multi-API conformance test suite for compute kernel languages.
+- [intel/cassian](https://github.com/intel/cassian) topic: pushed_at:2025-10 star:0.0k fork:0.0k Cassian is a multi-API conformance test suite for compute kernel languages.
 - [intel/clDNN](https://github.com/intel/clDNN) topic:cldnn,deep-learning,deep-neural-networks,intel,intel-hd-graphics pushed_at:2023-01 star:0.6k fork:0.1k Compute Library for Deep Neural Networks (clDNN)
 - [intel/clGPU](https://github.com/intel/clGPU) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
 - [intel/cloud-client-ai-service-framework](https://github.com/intel/cloud-client-ai-service-framework) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 - [intel/cloud-streaming](https://github.com/intel/cloud-streaming) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
-- [intel/cm-compiler](https://github.com/intel/cm-compiler) topic: pushed_at:2025-09 star:0.2k fork:0.1k 
+- [intel/cm-compiler](https://github.com/intel/cm-compiler) topic: pushed_at:2025-10 star:0.2k fork:0.1k 
 - [intel/cm-cpu-emulation](https://github.com/intel/cm-cpu-emulation) topic: pushed_at:2024-05 star:0.0k fork:0.0k C for Metal (CM) is a general GPU programming language that allows users to achieve close-to-assembly performance on Intel Processor Graphics.   The “cm-emulation” is a software development tool to develop CM kernels and debug on the host machine using the host native compiler and debugger.   Shim layer is part of cm-emulation that export API to support L0 and OCL runtime interface 
 - [intel/cmrt](https://github.com/intel/cmrt) topic: pushed_at:2022-08 star:0.0k fork:0.0k C for Media Runtime
 - [intel/cNVMe](https://github.com/intel/cNVMe) topic:drive,nvme,simulation pushed_at:2022-08 star:0.1k fork:0.0k An NVMe Device Simulation Library.
 - [intel/collision-avoidance-library](https://github.com/intel/collision-avoidance-library) topic: pushed_at:2022-08 star:0.1k fork:0.0k A framework for testing and benchmarking collision avoidance strategies
-- [intel/compile-time-init-build](https://github.com/intel/compile-time-init-build) topic:embedded,firmware pushed_at:2025-09 star:0.6k fork:0.1k C++ library for composing modular firmware at compile-time.
-- [intel/compute-aggregation-layer](https://github.com/intel/compute-aggregation-layer) topic: pushed_at:2025-09 star:0.0k fork:0.0k Compute Aggregation Layer for oneAPI Level Zero and OpenCL(TM) Applications
-- [intel/compute-benchmarks](https://github.com/intel/compute-benchmarks) topic: pushed_at:2025-09 star:0.0k fork:0.0k Compute Benchmarks for oneAPI Level Zero and OpenCL™ Driver
-- [intel/compute-runtime](https://github.com/intel/compute-runtime) topic:compute,gpgpu,gpu,intel,intel-hd-graphics,opencl pushed_at:2025-09 star:1.3k fork:0.3k Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
+- [intel/compile-time-init-build](https://github.com/intel/compile-time-init-build) topic:embedded,firmware pushed_at:2025-10 star:0.6k fork:0.1k C++ library for composing modular firmware at compile-time.
+- [intel/compute-aggregation-layer](https://github.com/intel/compute-aggregation-layer) topic: pushed_at:2025-10 star:0.0k fork:0.0k Compute Aggregation Layer for oneAPI Level Zero and OpenCL(TM) Applications
+- [intel/compute-benchmarks](https://github.com/intel/compute-benchmarks) topic: pushed_at:2025-10 star:0.0k fork:0.0k Compute Benchmarks for oneAPI Level Zero and OpenCL™ Driver
+- [intel/compute-runtime](https://github.com/intel/compute-runtime) topic:compute,gpgpu,gpu,intel,intel-hd-graphics,opencl pushed_at:2025-10 star:1.3k fork:0.3k Intel® Graphics Compute Runtime for oneAPI Level Zero and OpenCL™ Driver
 - [intel/compute-samples](https://github.com/intel/compute-samples) topic:gpu,intel,opencl pushed_at:2025-09 star:0.1k fork:0.0k  Intel® GPU Compute Samples
 - [intel/confidential-computing-zoo](https://github.com/intel/confidential-computing-zoo) topic:attestation,cloud,confidential-computing,containers,enclave,key-management,sgx,tdx pushed_at:2025-08 star:0.3k fork:0.1k Confidential Computing Zoo provides confidential computing solutions based on Intel SGX, TDX, HEXL, etc. technologies.
 - [intel/corelibs-edison](https://github.com/intel/corelibs-edison) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/corelibs-galileo](https://github.com/intel/corelibs-galileo) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [intel/cpp-baremetal-concurrency](https://github.com/intel/cpp-baremetal-concurrency) topic: pushed_at:2025-09 star:0.0k fork:0.0k Basic concurrency primitives for bare metal firmware running on single core microcontroller systems.
-- [intel/cpp-baremetal-senders-and-receivers](https://github.com/intel/cpp-baremetal-senders-and-receivers) topic: pushed_at:2025-09 star:0.3k fork:0.0k An implementation of C++ "senders and receivers" async framework suitable for embedded platforms.
-- [intel/cpp-std-extensions](https://github.com/intel/cpp-std-extensions) topic: pushed_at:2025-09 star:0.1k fork:0.0k Extensions to the C++ standard library. This library implements polyfills to enable library functionality from later versions of C++ to be used in earlier versions. It also implements some nonstandard but useful extras.
+- [intel/cpp-baremetal-concurrency](https://github.com/intel/cpp-baremetal-concurrency) topic: pushed_at:2025-10 star:0.0k fork:0.0k Basic concurrency primitives for bare metal firmware running on single core microcontroller systems.
+- [intel/cpp-baremetal-senders-and-receivers](https://github.com/intel/cpp-baremetal-senders-and-receivers) topic: pushed_at:2025-10 star:0.3k fork:0.0k An implementation of C++ "senders and receivers" async framework suitable for embedded platforms.
+- [intel/cpp-std-extensions](https://github.com/intel/cpp-std-extensions) topic: pushed_at:2025-10 star:0.1k fork:0.0k Extensions to the C++ standard library. This library implements polyfills to enable library functionality from later versions of C++ to be used in earlier versions. It also implements some nonstandard but useful extras.
 - [intel/cppnnml](https://github.com/intel/cppnnml) topic: pushed_at:2023-01 star:0.1k fork:0.0k The C++ Neural Network and Machine Learning project is intended to provide a C++ template library for neural nets and machine learning algorithms within embedded systems
 - [intel/crypto-api-toolkit](https://github.com/intel/crypto-api-toolkit) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
-- [intel/cutlass-sycl](https://github.com/intel/cutlass-sycl) topic: pushed_at:2025-09 star:0.0k fork:0.1k SYCL based CUTLASS implementation for Intel GPUs
 - [intel/cxlstresstester](https://github.com/intel/cxlstresstester) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [intel/Deep-learning-math-kernel-research](https://github.com/intel/Deep-learning-math-kernel-research) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/Dependency-Reduction-Unit-Framework](https://github.com/intel/Dependency-Reduction-Unit-Framework) topic:dependency,testing pushed_at:2022-09 star:0.0k fork:0.0k Test-Framework with capabilitys for dependency reduction for C/C++-Legacy Projects 
@@ -420,7 +419,7 @@
 - [intel/fpga-runtime-for-opencl](https://github.com/intel/fpga-runtime-for-opencl) topic: pushed_at:2025-02 star:0.0k fork:0.1k Intel® FPGA Runtime for OpenCL™ Software Technology
 - [intel/gazebo-realsense](https://github.com/intel/gazebo-realsense) topic: pushed_at:2022-08 star:0.1k fork:0.1k A RealSense Camera Gazebo plugin
 - [intel/gazebo-sitl](https://github.com/intel/gazebo-sitl) topic: pushed_at:2022-08 star:0.0k fork:0.0k A ROS-independent Gazebo plugin for Ardupilot's SITL
-- [intel/generic-register-operation-optimizer](https://github.com/intel/generic-register-operation-optimizer) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/generic-register-operation-optimizer](https://github.com/intel/generic-register-operation-optimizer) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/gits](https://github.com/intel/gits) topic:directx12,levelzero,oneapi,opencl,opengl,vulkan-api pushed_at:2025-10 star:0.1k fork:0.0k API capture-replay tool for Vulkan, DirectX 12, OpenCL, Intel oneAPI Level Zero, and OpenGL
 - [intel/gmmlib](https://github.com/intel/gmmlib) topic: pushed_at:2025-09 star:0.2k fork:0.1k 
 - [intel/gna](https://github.com/intel/gna) topic: pushed_at:2025-05 star:0.1k fork:0.0k GNA - Gaussian & Neural Accelerator Library repository
@@ -436,11 +435,11 @@
 - [intel/hpc-overhead](https://github.com/intel/hpc-overhead) topic: pushed_at:2015-05 star:0.0k fork:0.0k 
 - [intel/hpc-speedometer](https://github.com/intel/hpc-speedometer) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/hwc](https://github.com/intel/hwc) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [intel/hyperscan](https://github.com/intel/hyperscan) topic:regex pushed_at:2025-04 star:5.1k fork:0.8k High-performance regular expression matching library
+- [intel/hyperscan](https://github.com/intel/hyperscan) topic:regex pushed_at:2025-04 star:5.2k fork:0.8k High-performance regular expression matching library
 - [intel/IA-Hardware-Composer](https://github.com/intel/IA-Hardware-Composer) topic: pushed_at:2024-10 star:0.0k fork:0.1k 
 - [intel/iaa-plugin-rocksdb](https://github.com/intel/iaa-plugin-rocksdb) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
 - [intel/icpp_louvain](https://github.com/intel/icpp_louvain) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [intel/ideep](https://github.com/intel/ideep) topic: pushed_at:2025-09 star:0.2k fork:0.1k Intel® Optimization for Chainer*, a Chainer module providing numpy like API and DNN acceleration using MKL-DNN.
+- [intel/ideep](https://github.com/intel/ideep) topic: pushed_at:2025-10 star:0.2k fork:0.1k Intel® Optimization for Chainer*, a Chainer module providing numpy like API and DNN acceleration using MKL-DNN.
 - [intel/idlf](https://github.com/intel/idlf) topic: pushed_at:2016-06 star:0.3k fork:0.1k Intel® Deep Learning Framework
 - [intel/image-quality-and-characterization-utilities](https://github.com/intel/image-quality-and-characterization-utilities) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/imu_driver](https://github.com/intel/imu_driver) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
@@ -473,8 +472,8 @@
 - [intel/LibXPUInfo](https://github.com/intel/LibXPUInfo) topic: pushed_at:2025-08 star:0.0k fork:0.0k LibXPUInfo coalesces multiple APIs to provide multi-vendor, cross-platform device information in support of optimized device-selection by applications.
 - [intel/libyami](https://github.com/intel/libyami) topic:video,video-processing pushed_at:2023-10 star:0.1k fork:0.1k Yet Another Media Infrastructure. it is core part of media codec with hardware acceleration, it is yummy to your video experience on Linux like platform.
 - [intel/libyami-utils](https://github.com/intel/libyami-utils) topic:video,video-processing pushed_at:2022-08 star:0.0k fork:0.0k Libyami Utilities
-- [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) topic: pushed_at:2025-09 star:0.3k fork:0.0k Intel® NPU (Neural Processing Unit) Driver
-- [intel/linux-sgx](https://github.com/intel/linux-sgx) topic: pushed_at:2025-07 star:1.4k fork:0.6k Intel SGX for Linux*
+- [intel/linux-npu-driver](https://github.com/intel/linux-npu-driver) topic: pushed_at:2025-10 star:0.3k fork:0.0k Intel® NPU (Neural Processing Unit) Driver
+- [intel/linux-sgx](https://github.com/intel/linux-sgx) topic: pushed_at:2025-10 star:1.4k fork:0.6k Intel SGX for Linux*
 - [intel/linux-sgx-pcl](https://github.com/intel/linux-sgx-pcl) topic: pushed_at:2022-08 star:0.0k fork:0.0k Intel(R) Software Guard Extensions Protected Code Loader for Linux* OS
 - [intel/lms](https://github.com/intel/lms) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [intel/lvi-llvm-optimization-plugin](https://github.com/intel/lvi-llvm-optimization-plugin) topic:compilers,plug-ins,security,swrepo pushed_at:2023-01 star:0.0k fork:0.0k Load Value Injection Optimization Plugin for LLVM* Project
@@ -490,7 +489,7 @@
 - [intel/modsecurity-wasm-filter](https://github.com/intel/modsecurity-wasm-filter) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
 - [intel/Multi-channel-Video-Fusion-Reference-Implementation](https://github.com/intel/Multi-channel-Video-Fusion-Reference-Implementation) topic: pushed_at:2024-07 star:0.0k fork:0.0k Multiple channel video fusion on Intel platform 
 - [intel/nacl-multicast-streaming](https://github.com/intel/nacl-multicast-streaming) topic: pushed_at:2016-05 star:0.0k fork:0.0k 
-- [intel/ndg-fitting](https://github.com/intel/ndg-fitting) topic: pushed_at:2025-09 star:0.2k fork:0.0k Official implementation of the SIGGRAPH 2024 paper "N-Dimensional Gaussians for Fitting of High Dimensional Functions"
+- [intel/ndg-fitting](https://github.com/intel/ndg-fitting) topic: pushed_at:2025-10 star:0.2k fork:0.0k Official implementation of the SIGGRAPH 2024 paper "N-Dimensional Gaussians for Fitting of High Dimensional Functions"
 - [intel/net-test-suites](https://github.com/intel/net-test-suites) topic:tcp,ttcn-3 pushed_at:2025-05 star:0.0k fork:0.0k TCP protocol test suite written for titan.core (open source TTCN-3 compiler and runtime).
 - [intel/neural-speed](https://github.com/intel/neural-speed) topic:cpu,fp4,fp8,gaudi2,gpu,int1,int2,int3,int4,int5,int6,int7,int8,llamacpp,llm-fine-tuning,llm-inference,low-bit,mxformat,nf4,sparsity pushed_at:2024-08 star:0.3k fork:0.0k An innovative library for efficient LLM inference via low-bit quantization
 - [intel/nn-hal](https://github.com/intel/nn-hal) topic: pushed_at:2024-07 star:0.0k fork:0.1k 
@@ -501,26 +500,26 @@
 - [intel/omx_comp](https://github.com/intel/omx_comp) topic: pushed_at:2014-10 star:0.0k fork:0.0k 
 - [intel/oneAPI-Ultrasound-Beamforming-Library](https://github.com/intel/oneAPI-Ultrasound-Beamforming-Library) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
 - [intel/onnxruntime](https://github.com/intel/onnxruntime) topic: pushed_at:2025-10 star:0.1k fork:0.1k ONNX Runtime: cross-platform, high performance scoring engine for ML models
-- [intel/onnxruntime-inference-examples](https://github.com/intel/onnxruntime-inference-examples) topic: pushed_at:2024-11 star:0.0k fork:0.0k Examples for using ONNX Runtime for machine learning inferencing.
+- [intel/onnxruntime-inference-examples](https://github.com/intel/onnxruntime-inference-examples) topic: pushed_at:2025-10 star:0.0k fork:0.0k Examples for using ONNX Runtime for machine learning inferencing.
 - [intel/opencl-clang](https://github.com/intel/opencl-clang) topic: pushed_at:2025-10 star:0.1k fork:0.1k 
-- [intel/opencl-intercept-layer](https://github.com/intel/opencl-intercept-layer) topic:compute,debugging,gpgpu,opencl,performance pushed_at:2025-09 star:0.3k fork:0.1k Intercept Layer for Debugging and Analyzing OpenCL Applications
+- [intel/opencl-intercept-layer](https://github.com/intel/opencl-intercept-layer) topic:compute,debugging,gpgpu,opencl,performance pushed_at:2025-10 star:0.3k fork:0.1k Intercept Layer for Debugging and Analyzing OpenCL Applications
 - [intel/OpenVINO-optimization-for-PointPillars](https://github.com/intel/OpenVINO-optimization-for-PointPillars) topic: pushed_at:2025-05 star:0.0k fork:0.0k OpenVINO™ optimization for PointPillars*
-- [intel/openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity) topic: pushed_at:2025-09 star:1.5k fork:0.1k A set of AI-enabled effects, generators, and analyzers for Audacity®.
+- [intel/openvino-plugins-ai-audacity](https://github.com/intel/openvino-plugins-ai-audacity) topic: pushed_at:2025-09 star:1.6k fork:0.1k A set of AI-enabled effects, generators, and analyzers for Audacity®.
 - [intel/openvino-plugins-for-obs-studio](https://github.com/intel/openvino-plugins-for-obs-studio) topic: pushed_at:2025-08 star:0.1k fork:0.0k 
 - [intel/ozone-wayland](https://github.com/intel/ozone-wayland) topic: pushed_at:2017-04 star:0.2k fork:0.1k Wayland implementation for Chromium Ozone classes
 - [intel/pailliercryptolib](https://github.com/intel/pailliercryptolib) topic: pushed_at:2025-06 star:0.1k fork:0.0k Intel Paillier Cryptosystem Library is an open-source library which provides accelerated performance of a partial homomorphic encryption (HE), named Paillier cryptosystem, by utilizing Intel® IPP-Crypto on AVX512IFMA instructions. Intel Paillier Cryptosystem Library is certified for ISO compliance.
 - [intel/parameter-framework](https://github.com/intel/parameter-framework) topic: pushed_at:2022-08 star:0.1k fork:0.1k Plugin-based and rule-based framework for describing and controlling parameters
 - [intel/parameter-framework-plugins-alsa](https://github.com/intel/parameter-framework-plugins-alsa) topic: pushed_at:2017-03 star:0.0k fork:0.0k Alsa and tinyalsa plugins for the parameter-framework
 - [intel/parameter-framework-plugins-filesystem](https://github.com/intel/parameter-framework-plugins-filesystem) topic: pushed_at:2022-08 star:0.0k fork:0.0k filesystem-plugin for the parameter-framework
-- [intel/pcm](https://github.com/intel/pcm) topic:cpu,energy,freebsd,intel,linux,monitor-performance,monitoring,osx,pcm,performance-analysis,performance-counters,performance-dashboard,performance-metrics,performance-monitoring,performance-visualization,power,processor,processor-architecture,windows,xeon pushed_at:2025-09 star:3.1k fork:0.5k Intel® Performance Counter Monitor (Intel® PCM)
+- [intel/pcm](https://github.com/intel/pcm) topic:cpu,energy,freebsd,intel,linux,monitor-performance,monitoring,osx,pcm,performance-analysis,performance-counters,performance-dashboard,performance-metrics,performance-monitoring,performance-visualization,power,processor,processor-architecture,windows,xeon pushed_at:2025-10 star:3.1k fork:0.5k Intel® Performance Counter Monitor (Intel® PCM)
 - [intel/pem](https://github.com/intel/pem) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/pin-based-cec](https://github.com/intel/pin-based-cec) topic: pushed_at:2025-03 star:0.0k fork:0.0k Pin-Based Constant Execution Checker (Pin-based CEC)
 - [intel/pinball2elf](https://github.com/intel/pinball2elf) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
-- [intel/pti-gpu](https://github.com/intel/pti-gpu) topic:code-samples,kits-toolkits,performance-analyzers,swrepo,system-tools pushed_at:2025-09 star:0.2k fork:0.1k Profiling Tools Interfaces for GPU (PTI for GPU) is a set of Getting Started Documentation and Tools Library to start performance analysis on Intel(R) Processor Graphics easily
+- [intel/pti-gpu](https://github.com/intel/pti-gpu) topic:code-samples,kits-toolkits,performance-analyzers,swrepo,system-tools pushed_at:2025-10 star:0.2k fork:0.1k Profiling Tools Interfaces for GPU (PTI for GPU) is a set of Getting Started Documentation and Tools Library to start performance analysis on Intel(R) Processor Graphics easily
 - [intel/pyMIC](https://github.com/intel/pyMIC) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
 - [intel/qat-plugin-rocksdb](https://github.com/intel/qat-plugin-rocksdb) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [intel/qatzip-node](https://github.com/intel/qatzip-node) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
-- [intel/quantum-application-building-blocks](https://github.com/intel/quantum-application-building-blocks) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
+- [intel/quantum-application-building-blocks](https://github.com/intel/quantum-application-building-blocks) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/rapid-design-methods-for-developing-hardware-accelerators](https://github.com/intel/rapid-design-methods-for-developing-hardware-accelerators) topic: pushed_at:2023-01 star:0.1k fork:0.0k 
 - [intel/riggingtools](https://github.com/intel/riggingtools) topic: pushed_at:2023-01 star:0.0k fork:0.0k Collection of tools bridging the gap between 3D skeletal tracking and animation
 - [intel/robot_devkit_src](https://github.com/intel/robot_devkit_src) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
@@ -536,15 +535,15 @@
 - [intel/ros_object_analytics](https://github.com/intel/ros_object_analytics) topic: pushed_at:2022-08 star:0.2k fork:0.1k 
 - [intel/ros_opencl_caffe](https://github.com/intel/ros_opencl_caffe) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/ros_openvino_toolkit](https://github.com/intel/ros_openvino_toolkit) topic: pushed_at:2024-08 star:0.1k fork:0.1k 
-- [intel/safe-arithmetic](https://github.com/intel/safe-arithmetic) topic:cpp-lib,cpp20,cpp20-library,safe pushed_at:2025-09 star:0.1k fork:0.0k Safe arithmetic library for C++20 and above. Safe arithmetic ensures correctness of arithmetic operations at compile-time. It protects against overflow, underflow, divide by zero, and out-of-bounds index access. This provides both functional correctness as well as greater protection against related security threats.
+- [intel/safe-arithmetic](https://github.com/intel/safe-arithmetic) topic:cpp-lib,cpp20,cpp20-library,safe pushed_at:2025-10 star:0.1k fork:0.0k Safe arithmetic library for C++20 and above. Safe arithmetic ensures correctness of arithmetic operations at compile-time. It protects against overflow, underflow, divide by zero, and out-of-bounds index access. This provides both functional correctness as well as greater protection against related security threats.
 - [intel/satt](https://github.com/intel/satt) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
 - [intel/ScalableVectorSearch](https://github.com/intel/ScalableVectorSearch) topic:hacktoberfest,rag,similarity-search,svs,vector-search pushed_at:2025-10 star:0.2k fork:0.0k 
 - [intel/sedi](https://github.com/intel/sedi) topic: pushed_at:2016-12 star:0.0k fork:0.0k 
 - [intel/sgx-pytorch](https://github.com/intel/sgx-pytorch) topic: pushed_at:2024-05 star:0.0k fork:0.0k Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [intel/sgx-pytorch-ideep](https://github.com/intel/sgx-pytorch-ideep) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/sgx-ra-sample](https://github.com/intel/sgx-ra-sample) topic: pushed_at:2023-01 star:0.2k fork:0.1k 
-- [intel/SGX-TDX-DCAP-QuoteVerificationLibrary](https://github.com/intel/SGX-TDX-DCAP-QuoteVerificationLibrary) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
-- [intel/SGXDataCenterAttestationPrimitives](https://github.com/intel/SGXDataCenterAttestationPrimitives) topic: pushed_at:2025-09 star:0.3k fork:0.2k 
+- [intel/SGX-TDX-DCAP-QuoteVerificationLibrary](https://github.com/intel/SGX-TDX-DCAP-QuoteVerificationLibrary) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
+- [intel/SGXDataCenterAttestationPrimitives](https://github.com/intel/SGXDataCenterAttestationPrimitives) topic: pushed_at:2025-10 star:0.3k fork:0.2k 
 - [intel/small-gpu-rendering-examples](https://github.com/intel/small-gpu-rendering-examples) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/smart-modem-manager](https://github.com/intel/smart-modem-manager) topic: pushed_at:2017-01 star:0.0k fork:0.0k 
 - [intel/SmartXbar](https://github.com/intel/SmartXbar) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
@@ -552,22 +551,23 @@
 - [intel/spark-mpi-adapter](https://github.com/intel/spark-mpi-adapter) topic: pushed_at:2022-08 star:0.0k fork:0.0k MPI Adapter for Apache Spark
 - [intel/stablediffusion-pipelines-cpp](https://github.com/intel/stablediffusion-pipelines-cpp) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
 - [intel/stress-weston](https://github.com/intel/stress-weston) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [intel/systemc-compiler](https://github.com/intel/systemc-compiler) topic:clang,hardware-designs,hls,llvm,systemc pushed_at:2025-09 star:0.3k fork:0.0k This tool translates synthesizable SystemC code to synthesizable SystemVerilog.
-- [intel/thermal_daemon](https://github.com/intel/thermal_daemon) topic: pushed_at:2025-09 star:0.6k fork:0.1k Thermal daemon for IA
+- [intel/sycl-tla](https://github.com/intel/sycl-tla) topic: pushed_at:2025-10 star:0.0k fork:0.1k SYCL* Templates for Linear Algebra (SYCL*TLA) - SYCL based CUTLASS implementation for Intel GPUs 
+- [intel/systemc-compiler](https://github.com/intel/systemc-compiler) topic:clang,hardware-designs,hls,llvm,systemc pushed_at:2025-10 star:0.3k fork:0.0k This tool translates synthesizable SystemC code to synthesizable SystemVerilog.
+- [intel/thermal_daemon](https://github.com/intel/thermal_daemon) topic: pushed_at:2025-10 star:0.6k fork:0.1k Thermal daemon for IA
 - [intel/thin-layout-optimizer](https://github.com/intel/thin-layout-optimizer) topic: pushed_at:2025-09 star:0.1k fork:0.0k 
 - [intel/thunderbolt-software-user-space](https://github.com/intel/thunderbolt-software-user-space) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
 - [intel/thunderboltshare](https://github.com/intel/thunderboltshare) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [intel/tiny-dpcpp-nn](https://github.com/intel/tiny-dpcpp-nn) topic: pushed_at:2025-05 star:0.0k fork:0.0k SYCL implementation of Fused MLPs for Intel GPUs
-- [intel/tiny-tensor-compiler](https://github.com/intel/tiny-tensor-compiler) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/tiny-tensor-compiler](https://github.com/intel/tiny-tensor-compiler) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/tinyTILE-Extended-Support-Library](https://github.com/intel/tinyTILE-Extended-Support-Library) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/torch-ccl](https://github.com/intel/torch-ccl) topic:oneccl,pytorch pushed_at:2025-08 star:0.1k fork:0.0k oneCCL Bindings for Pytorch*
-- [intel/torch-xpu-ops](https://github.com/intel/torch-xpu-ops) topic: pushed_at:2025-09 star:0.1k fork:0.1k 
+- [intel/torch-xpu-ops](https://github.com/intel/torch-xpu-ops) topic: pushed_at:2025-10 star:0.1k fork:0.1k 
 - [intel/toucheffect](https://github.com/intel/toucheffect) topic: pushed_at:2013-11 star:0.0k fork:0.0k 
 - [intel/umf](https://github.com/intel/umf) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/unfified-ril](https://github.com/intel/unfified-ril) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/universal-automation-api](https://github.com/intel/universal-automation-api) topic: pushed_at:2023-09 star:0.0k fork:0.0k 
 - [intel/vmtaint](https://github.com/intel/vmtaint) topic: pushed_at:2023-06 star:0.0k fork:0.0k Full-VM taint analysis with Xen, Intel(R) Processor Trace and Triton.
-- [intel/vpl-gpu-rt](https://github.com/intel/vpl-gpu-rt) topic: pushed_at:2025-09 star:0.1k fork:0.1k 
+- [intel/vpl-gpu-rt](https://github.com/intel/vpl-gpu-rt) topic: pushed_at:2025-10 star:0.1k fork:0.1k 
 - [intel/VPx-Hybrid](https://github.com/intel/VPx-Hybrid) topic: pushed_at:2015-01 star:0.0k fork:0.0k 
 - [intel/vpx-image-transport](https://github.com/intel/vpx-image-transport) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/wayland-fits](https://github.com/intel/wayland-fits) topic: pushed_at:2022-08 star:0.0k fork:0.0k Wayland Functional Integration Test Suite - This project is no longer maintained and looking for new maintainer/owner..
@@ -577,14 +577,14 @@
 - [intel/XBB](https://github.com/intel/XBB) topic: pushed_at:2015-09 star:0.1k fork:0.0k 
 - [intel/xetla](https://github.com/intel/xetla) topic: pushed_at:2024-12 star:0.1k fork:0.0k 
 - [intel/xFasterTransformer](https://github.com/intel/xFasterTransformer) topic:chatglm,inference,intel,llama,llm,model-serving,qwen,transformer,xeon pushed_at:2025-09 star:0.4k fork:0.1k 
-- [intel/xpumanager](https://github.com/intel/xpumanager) topic: pushed_at:2025-08 star:0.1k fork:0.0k 
+- [intel/xpumanager](https://github.com/intel/xpumanager) topic: pushed_at:2025-10 star:0.1k fork:0.0k 
 - [intel/yarpgen](https://github.com/intel/yarpgen) topic: pushed_at:2025-08 star:0.5k fork:0.1k Yet Another Random Program Generator
 - [intel/yask](https://github.com/intel/yask) topic:avx512,domain-specific-language,finite-difference-method,hpc,intel,kernel,linux,mpi,oneapi,openmp,optimization,runge-kutta-methods,seismic-modeling,stencil,vector-folding,xeon,xeon-phi pushed_at:2025-07 star:0.1k fork:0.0k YASK--Yet Another Stencil Kit: a domain-specific language and framework to create high-performance stencil code for implementing finite-difference methods and similar applications.
 - [intel/zlib-accel](https://github.com/intel/zlib-accel) topic: pushed_at:2025-08 star:0.0k fork:0.0k zlib-accel is a software shim to transparently offload zlib compression/decompression to hardware accelerators
 
 ## CMake
 
-- [intel/cicd-repo-infrastructure](https://github.com/intel/cicd-repo-infrastructure) topic: pushed_at:2025-09 star:0.0k fork:0.0k Shared infrastructure for CI/CD for projects using CMake & CPM, primarily with C++.
+- [intel/cicd-repo-infrastructure](https://github.com/intel/cicd-repo-infrastructure) topic: pushed_at:2025-10 star:0.0k fork:0.0k Shared infrastructure for CI/CD for projects using CMake & CPM, primarily with C++.
 - [intel/dmr](https://github.com/intel/dmr) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
 - [intel/iqs-application-template](https://github.com/intel/iqs-application-template) topic: pushed_at:2023-01 star:0.0k fork:0.0k Example of a quantum computing application using Intel Quantum Simulator [https://github.com/iqusoft/intel-qs] for the numerical study.
 - [intel/llvm-patches](https://github.com/intel/llvm-patches) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
@@ -598,24 +598,24 @@
 - [intel/AccessibilityPlaybook](https://github.com/intel/AccessibilityPlaybook) topic:accessibility,accessibility-automation,accessibility-checker,accessibility-testing,digital-inclusion,disability,disability-resources pushed_at:2025-08 star:0.0k fork:0.0k The open source accessibility playbook is a resource for repo maintainers and contributors, consumers and end users of open source projects.  Let’s create a future where all open source projects are inclusive and accessible to everyone.
 - [intel/appframework](https://github.com/intel/appframework) topic: pushed_at:2017-09 star:2.4k fork:0.9k The definitive HTML5 mobile javascript framework
 - [intel/intel-iot-services-orchestration-layer](https://github.com/intel/intel-iot-services-orchestration-layer) topic: pushed_at:2016-11 star:0.1k fork:0.1k The total solution that provides visual graphical programming for developing IoT applications.
-- [intel/intel-sphinx-theme](https://github.com/intel/intel-sphinx-theme) topic: pushed_at:2025-09 star:0.0k fork:0.0k Intel® Sphinx Theme
-- [intel/intel-ui-icons](https://github.com/intel/intel-ui-icons) topic: pushed_at:2025-09 star:0.0k fork:0.0k Intel® UI Icons
+- [intel/intel-sphinx-theme](https://github.com/intel/intel-sphinx-theme) topic: pushed_at:2025-10 star:0.0k fork:0.0k Intel® Sphinx Theme
+- [intel/intel-ui-icons](https://github.com/intel/intel-ui-icons) topic: pushed_at:2025-10 star:0.0k fork:0.0k Intel® UI Icons
 - [intel/webapps-todo-list](https://github.com/intel/webapps-todo-list) topic: pushed_at:2016-01 star:0.0k fork:0.0k 
 
 ## Dart
 
-- [intel/rohd](https://github.com/intel/rohd) topic:framework,hardware,hardware-design,hardware-verification,hdl,rtl,simulator,verification pushed_at:2025-09 star:0.4k fork:0.1k The Rapid Open Hardware Development (ROHD) framework is a framework for describing and verifying hardware in the Dart programming language.
-- [intel/rohd-bridge](https://github.com/intel/rohd-bridge) topic:connectivity,framework,hardware,hardware-design,hdl,integration,rtl pushed_at:2025-09 star:0.0k fork:0.0k A ROHD-based framework for connectivity and assembly of hardware designs.
+- [intel/rohd](https://github.com/intel/rohd) topic:framework,hardware,hardware-design,hardware-verification,hdl,rtl,simulator,verification pushed_at:2025-10 star:0.4k fork:0.1k The Rapid Open Hardware Development (ROHD) framework is a framework for describing and verifying hardware in the Dart programming language.
+- [intel/rohd-bridge](https://github.com/intel/rohd-bridge) topic:connectivity,framework,hardware,hardware-design,hdl,integration,rtl pushed_at:2025-10 star:0.0k fork:0.0k A ROHD-based framework for connectivity and assembly of hardware designs.
 - [intel/rohd-cosim](https://github.com/intel/rohd-cosim) topic:co-simulation,cocotb,cosim,cosimulation,dart,framework,hardware,hardware-design,hardware-verification,python,rohd,rohd-vf,rtl,simulator pushed_at:2025-06 star:0.0k fork:0.0k Cosimulation for the Rapid Open Hardware Development (ROHD) framework with other simulators
-- [intel/rohd-hcl](https://github.com/intel/rohd-hcl) topic:component-library,hardware,hardware-components,hardware-design,reusable-components,rohd,systemverilog pushed_at:2025-09 star:0.1k fork:0.0k A hardware component library developed with ROHD.
-- [intel/rohd-vf](https://github.com/intel/rohd-vf) topic:framework,hardware,hardware-verification,verification pushed_at:2025-01 star:0.0k fork:0.0k The ROHD Verification Framework is a hardware verification framework built upon ROHD for building testbenches.
+- [intel/rohd-hcl](https://github.com/intel/rohd-hcl) topic:component-library,hardware,hardware-components,hardware-design,reusable-components,rohd,systemverilog pushed_at:2025-10 star:0.1k fork:0.0k A hardware component library developed with ROHD.
+- [intel/rohd-vf](https://github.com/intel/rohd-vf) topic:framework,hardware,hardware-verification,verification pushed_at:2025-10 star:0.0k fork:0.0k The ROHD Verification Framework is a hardware verification framework built upon ROHD for building testbenches.
 - [intel/rohd-wave-viewer](https://github.com/intel/rohd-wave-viewer) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 
 ## Dockerfile
 
 - [intel/BigDL-Privacy-Preserving-Machine-Learning-Toolkit](https://github.com/intel/BigDL-Privacy-Preserving-Machine-Learning-Toolkit) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
 - [intel/media-driver-docker](https://github.com/intel/media-driver-docker) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [intel/mfd](https://github.com/intel/mfd) topic:mfd,modular-framework-design pushed_at:2025-09 star:0.0k fork:0.0k The Modular Framework Design (MFD) is a collection of Python libraries designed for use in testing environments. The primary objective of the MFD libraries is to offer a convenient and abstract method for obtaining information and manipulating hosts, network adapters, PCI devices, BMCs, and more.
+- [intel/mfd](https://github.com/intel/mfd) topic:mfd,modular-framework-design pushed_at:2025-10 star:0.0k fork:0.0k The Modular Framework Design (MFD) is a collection of Python libraries designed for use in testing environments. The primary objective of the MFD libraries is to offer a convenient and abstract method for obtaining information and manipulating hosts, network adapters, PCI devices, BMCs, and more.
 - [intel/stacks-templates-openfaas](https://github.com/intel/stacks-templates-openfaas) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/user-container-selinux](https://github.com/intel/user-container-selinux) topic:kubernetes,openshift,selinux-policy pushed_at:2024-09 star:0.0k fork:0.0k This repository contains user tailored container SELinux policies and the method for deploying these policies on Red Hat OpenShift Container Platform.
 
@@ -625,7 +625,7 @@
 - [intel/afxdp-plugins-for-kubernetes](https://github.com/intel/afxdp-plugins-for-kubernetes) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [intel/AiCSD](https://github.com/intel/AiCSD) topic: pushed_at:2025-04 star:0.0k fork:0.0k AI Connect for Scientific Data (AiCSD) is a new solution for using AI to connect data from scientific instruments to applicable AI pipelines and run workloads at the edge. This repository contains EdgeX Foundry based microservices to automatically detect, manage, and process OEM images with OpenVINO.
 - [intel/alert-handler-for-custom-metrics](https://github.com/intel/alert-handler-for-custom-metrics) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [intel/aog](https://github.com/intel/aog) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/aog](https://github.com/intel/aog) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/authservice-configurator](https://github.com/intel/authservice-configurator) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/ccloudvm](https://github.com/intel/ccloudvm) topic: pushed_at:2021-03 star:0.0k fork:0.0k Configurable Cloud VM is a small command line tool for automatically creating development and demo environments for complex projects. The tool sets up these development environments inside a virtual machine which it automatically creates on the user’s host computer.  This avoids polluting the user’s host machine with components from the chosen development environment and provides a clean, predictable and repeatable environment in which this development environment can run.
 - [intel/clear-linux-dissector](https://github.com/intel/clear-linux-dissector) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
@@ -646,14 +646,14 @@
 - [intel/forLAGraphGo](https://github.com/intel/forLAGraphGo) topic: pushed_at:2025-02 star:0.0k fork:0.0k Intel® Generic Implementation of LAGraph* for Go*
 - [intel/gardener-extension-cri-resmgr](https://github.com/intel/gardener-extension-cri-resmgr) topic: pushed_at:2025-03 star:0.0k fork:0.0k Gardener extension controller for the https://github.com/intel/cri-resource-manager container runtime proxy
 - [intel/gopreload](https://github.com/intel/gopreload) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
-- [intel/goresctrl](https://github.com/intel/goresctrl) topic: pushed_at:2025-09 star:0.0k fork:0.0k Golang library for managing resctrl filesystem
+- [intel/goresctrl](https://github.com/intel/goresctrl) topic: pushed_at:2025-10 star:0.0k fork:0.0k Golang library for managing resctrl filesystem
 - [intel/iaevents](https://github.com/intel/iaevents) topic:events,intel,perf,pmu pushed_at:2025-04 star:0.0k fork:0.0k iaevents is a golang library that makes accessing the Linux kernel's perf interface easier. It provides tools to load, parse and read Intel CPU events.
 - [intel/insight3](https://github.com/intel/insight3) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 - [intel/intel-arduino-tools](https://github.com/intel/intel-arduino-tools) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes) topic:5g,cloud,cloud-computing,edge-computing,kubernetes,plug-ins,swrepo pushed_at:2025-09 star:0.1k fork:0.2k Collection of Intel device plugins for Kubernetes
-- [intel/Intel-ECI-ExCat-K8s](https://github.com/intel/Intel-ECI-ExCat-K8s) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
+- [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes) topic:5g,cloud,cloud-computing,edge-computing,kubernetes,plug-ins,swrepo pushed_at:2025-10 star:0.1k fork:0.2k Collection of Intel device plugins for Kubernetes
+- [intel/Intel-ECI-ExCat-K8s](https://github.com/intel/Intel-ECI-ExCat-K8s) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/intel-ethernet-operator](https://github.com/intel/intel-ethernet-operator) topic:cloudnative,intel,kubernetes,network,network-interface-card,openshift,operator pushed_at:2025-06 star:0.0k fork:0.0k K8s operator for Intel E810 Series NICs FW/DDP updates and Flow configuration API
-- [intel/intel-resource-drivers-for-kubernetes](https://github.com/intel/intel-resource-drivers-for-kubernetes) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/intel-resource-drivers-for-kubernetes](https://github.com/intel/intel-resource-drivers-for-kubernetes) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/intent-driven-orchestration](https://github.com/intel/intent-driven-orchestration) topic:containers,intent-driven-orchestration,kubernetes,objectives,planning pushed_at:2025-08 star:0.0k fork:0.0k Intent Driven Orchestration enables management of applications through their Service Level Objectives, while minimizing developer and administrator overhead.
 - [intel/ipmctl-exporter](https://github.com/intel/ipmctl-exporter) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/istio](https://github.com/intel/istio) topic: pushed_at:2024-11 star:0.0k fork:0.0k 
@@ -664,13 +664,13 @@
 - [intel/k8s-rdt-controller](https://github.com/intel/k8s-rdt-controller) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
 - [intel/kubernetes-power-manager](https://github.com/intel/kubernetes-power-manager) topic: pushed_at:2024-09 star:0.1k fork:0.0k 
 - [intel/kubevirt-tdx](https://github.com/intel/kubevirt-tdx) topic:kubevirt,tdx pushed_at:2024-06 star:0.0k fork:0.0k TDX Enabling for Kubevirt
-- [intel/memtierd](https://github.com/intel/memtierd) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
+- [intel/memtierd](https://github.com/intel/memtierd) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/Middleware-Metering](https://github.com/intel/Middleware-Metering) topic: pushed_at:2023-01 star:0.0k fork:0.0k Metering solution for EdgeX and Mainflux middleware platforms
-- [intel/network-operator](https://github.com/intel/network-operator) topic: pushed_at:2025-08 star:0.0k fork:0.0k Intel Network Operator allows automatic configuring and easier use of RDMA NICs with Intel AI accelerators in Kubernetes.
+- [intel/network-operator](https://github.com/intel/network-operator) topic: pushed_at:2025-10 star:0.0k fork:0.0k Intel Network Operator allows automatic configuring and easier use of RDMA NICs with Intel AI accelerators in Kubernetes.
 - [intel/nodus](https://github.com/intel/nodus) topic: pushed_at:2023-01 star:0.0k fork:0.0k Simulated large clusters for Kubernetes scheduler validation.
 - [intel/oim](https://github.com/intel/oim) topic: pushed_at:2022-08 star:0.0k fork:0.0k Open Infrastructure Manager (OIM) is an open source project which simplifies the integration of storage and network acceleration into cloud environments like Kubernetes, Mesos and OpenStack.
-- [intel/oneapi-cli](https://github.com/intel/oneapi-cli) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
-- [intel/PerfSpect](https://github.com/intel/PerfSpect) topic:cpu,intel,linux,metrics,micro-architecture,monitoring,observability,perf,performance,perfspect,power,profiling,telemetry,tma,tool,xeon pushed_at:2025-09 star:0.4k fork:0.1k System performance analysis and characterization tool
+- [intel/oneapi-cli](https://github.com/intel/oneapi-cli) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
+- [intel/PerfSpect](https://github.com/intel/PerfSpect) topic:cpu,intel,linux,metrics,micro-architecture,monitoring,observability,perf,performance,perfspect,power,profiling,telemetry,tma,tool,xeon pushed_at:2025-10 star:0.4k fork:0.1k System performance analysis and characterization tool
 - [intel/platform-aware-scheduling](https://github.com/intel/platform-aware-scheduling) topic:descheduler,kubernetes-scheduler,metrics,scheduler-extender,telemetry-aware-scheduling,telemetry-policies,workload pushed_at:2025-01 star:0.2k fork:0.0k Enabling Kubernetes to make pod placement decisions with platform intelligence.
 - [intel/pmem-csi](https://github.com/intel/pmem-csi) topic: pushed_at:2024-10 star:0.2k fork:0.1k Persistent Memory Container Storage Interface Driver
 - [intel/power-optimization-library](https://github.com/intel/power-optimization-library) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
@@ -699,8 +699,8 @@
 - [intel/svr-info](https://github.com/intel/svr-info) topic:analysis,configurations,insights,linux,performance,telemetry,tools,xeon pushed_at:2024-12 star:0.1k fork:0.0k Intel® System Health Inspector (aka svr-info) is a Linux command line tool used to assess the health of Intel® Xeon® processor-based servers.
 - [intel/terraform-provider-intelcloud](https://github.com/intel/terraform-provider-intelcloud) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
 - [intel/tfortools](https://github.com/intel/tfortools) topic: pushed_at:2021-06 star:0.1k fork:0.0k Templates for Tools (tfortools) is a small Go package designed to make it easier for developers to add template scripting support to their tools and easier for users of these tools to extract the information they need.
-- [intel/trustauthority-cli](https://github.com/intel/trustauthority-cli) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
-- [intel/trustauthority-client-for-go](https://github.com/intel/trustauthority-client-for-go) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
+- [intel/trustauthority-cli](https://github.com/intel/trustauthority-cli) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
+- [intel/trustauthority-client-for-go](https://github.com/intel/trustauthority-client-for-go) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/trustauthority-kbs](https://github.com/intel/trustauthority-kbs) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [intel/trustauthority-samples](https://github.com/intel/trustauthority-samples) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [intel/trusted-attestation-controller](https://github.com/intel/trusted-attestation-controller) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
@@ -824,11 +824,11 @@
 - [intel/depthcamera-3d-model-web-demo](https://github.com/intel/depthcamera-3d-model-web-demo) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
 - [intel/depthcamera-pointcloud-web-demo](https://github.com/intel/depthcamera-pointcloud-web-demo) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/driving-data-collection-reference-kit](https://github.com/intel/driving-data-collection-reference-kit) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [intel/gprofiler-performance-studio](https://github.com/intel/gprofiler-performance-studio) topic: pushed_at:2025-09 star:0.2k fork:0.0k The local version of the backend and UI for the gProfiler agent, featuring advanced flamegraph analysis tools.
+- [intel/gprofiler-performance-studio](https://github.com/intel/gprofiler-performance-studio) topic: pushed_at:2025-10 star:0.2k fork:0.0k The local version of the backend and UI for the gProfiler agent, featuring advanced flamegraph analysis tools.
 - [intel/grunt-mochaccino](https://github.com/intel/grunt-mochaccino) topic: pushed_at:2016-12 star:0.0k fork:0.0k grunt plugin for running mocha tests via the command line
 - [intel/grunt-zipup](https://github.com/intel/grunt-zipup) topic: pushed_at:2015-10 star:0.0k fork:0.0k grunt plugin which produces zip format files with customisable filenames
 - [intel/inference-engine-node](https://github.com/intel/inference-engine-node) topic:deep-learning,electronjs,hardware-acceleration,nodejs,openvino pushed_at:2022-12 star:0.0k fork:0.0k Bringing the hardware accelerated deep learning inference to Node.js and Electron.js apps.
-- [intel/intel-ai-assistant-builder](https://github.com/intel/intel-ai-assistant-builder) topic: pushed_at:2025-09 star:0.1k fork:0.0k Intel® AI Assistant Builder
+- [intel/intel-ai-assistant-builder](https://github.com/intel/intel-ai-assistant-builder) topic: pushed_at:2025-10 star:0.1k fork:0.0k Intel® AI Assistant Builder
 - [intel/intel-iot-services-orchestration-layer-dev](https://github.com/intel/intel-iot-services-orchestration-layer-dev) topic: pushed_at:2016-04 star:0.0k fork:0.0k 
 - [intel/iot-js-api](https://github.com/intel/iot-js-api) topic: pushed_at:2022-08 star:0.0k fork:0.0k IoT JavaScript API specifications and test suites
 - [intel/iotivity-node](https://github.com/intel/iotivity-node) topic: pushed_at:2019-06 star:0.0k fork:0.0k Node.js bindings for IoTivity
@@ -840,7 +840,7 @@
 - [intel/pt-visualizer](https://github.com/intel/pt-visualizer) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/rib](https://github.com/intel/rib) topic: pushed_at:2016-02 star:0.1k fork:0.1k Rapid Interface Builder (RIB) is a browser-based design tool for quickly prototyping and creating the user interface for web applications. Layout your UI by dropping widgets onto a canvas. Run the UI in an interactive "Preview mode". Export the generated HTML and Javascript. It's that simple!
 - [intel/sails-mssql](https://github.com/intel/sails-mssql) topic: pushed_at:2023-02 star:0.0k fork:0.0k MSSQL adapter for Sails.js/Waterline
-- [intel/SGX-TDX-DCAP-QuoteVerificationService](https://github.com/intel/SGX-TDX-DCAP-QuoteVerificationService) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/SGX-TDX-DCAP-QuoteVerificationService](https://github.com/intel/SGX-TDX-DCAP-QuoteVerificationService) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/threatminer-for-sdl](https://github.com/intel/threatminer-for-sdl) topic: pushed_at:2018-10 star:0.0k fork:0.0k 
 - [intel/tmix-caching](https://github.com/intel/tmix-caching) topic: pushed_at:2016-04 star:0.0k fork:0.0k Extends $cacheFactory with time out functionality.
 - [intel/tmix-security](https://github.com/intel/tmix-security) topic: pushed_at:2018-01 star:0.0k fork:0.0k Extend backend security into a frontend AngularJS application
@@ -876,10 +876,10 @@
 ## Jupyter Notebook
 
 - [intel/ai-innovation-bridge](https://github.com/intel/ai-innovation-bridge) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
-- [intel/AI-PC-Samples](https://github.com/intel/AI-PC-Samples) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
-- [intel/analytics-zoo](https://github.com/intel/analytics-zoo) topic: pushed_at:2025-09 star:0.0k fork:0.0k Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
+- [intel/AI-PC-Samples](https://github.com/intel/AI-PC-Samples) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
+- [intel/analytics-zoo](https://github.com/intel/analytics-zoo) topic: pushed_at:2025-10 star:0.0k fork:0.0k Distributed Tensorflow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [intel/aws-sagemaker-marketplace](https://github.com/intel/aws-sagemaker-marketplace) topic:ai,aws,aws-sagemaker,aws-sagemaker-marketplace,daal,intel,machine-learning,machine-learning-algorithms,sagemaker pushed_at:2023-01 star:0.0k fork:0.0k This repo contain example notebooks with instructions on using Intel AI Software listed in AWS SageMaker Marketplace.
-- [intel/BigDL](https://github.com/intel/BigDL) topic:analytics-zoo,apache-spark,bigdl,deep-neural-network,distributed-deep-learning,keras-tensorflow,python,pytorch,scala pushed_at:2025-09 star:2.7k fork:0.7k BigDL: Distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray
+- [intel/BigDL](https://github.com/intel/BigDL) topic:analytics-zoo,apache-spark,bigdl,deep-neural-network,distributed-deep-learning,keras-tensorflow,python,pytorch,scala pushed_at:2025-10 star:2.7k fork:0.7k BigDL: Distributed TensorFlow, Keras and PyTorch on Apache Spark/Flink & Ray
 - [intel/BigDL-trainings](https://github.com/intel/BigDL-trainings) topic: pushed_at:2023-01 star:0.0k fork:0.0k Training materials for BigDL
 - [intel/BigDL-Tutorials](https://github.com/intel/BigDL-Tutorials) topic: pushed_at:2023-01 star:0.2k fork:0.1k Step-by-step Deep Leaning Tutorials on Apache Spark using BigDL
 - [intel/Bootcamp-Materials](https://github.com/intel/Bootcamp-Materials) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
@@ -898,7 +898,7 @@
 - [intel/OreillyAI2019](https://github.com/intel/OreillyAI2019) topic: pushed_at:2023-01 star:0.0k fork:0.0k notebooks and tutorials for O'REILLY AI San Jose 2019
 - [intel/osseu-llm-demo](https://github.com/intel/osseu-llm-demo) topic: pushed_at:2024-02 star:0.0k fork:0.0k 
 - [intel/Predictive-Assets-Maintenance](https://github.com/intel/Predictive-Assets-Maintenance) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
-- [intel/program-optimization-advice-exploration-scripts](https://github.com/intel/program-optimization-advice-exploration-scripts) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/program-optimization-advice-exploration-scripts](https://github.com/intel/program-optimization-advice-exploration-scripts) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/stable-diffusion-samples](https://github.com/intel/stable-diffusion-samples) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
 - [intel/supra-on-oneapi](https://github.com/intel/supra-on-oneapi) topic:health--life-sciences,reference-implementations,swrepo pushed_at:2024-01 star:0.0k fork:0.0k 
 - [intel/terraform-intel-gcp-example-app](https://github.com/intel/terraform-intel-gcp-example-app) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
@@ -935,7 +935,7 @@
 ## MLIR
 
 - [intel/intel-xpu-backend-for-triton](https://github.com/intel/intel-xpu-backend-for-triton) topic: pushed_at:2025-10 star:0.2k fork:0.1k OpenAI Triton backend for Intel® GPUs
-- [intel/mlir-extensions](https://github.com/intel/mlir-extensions) topic: pushed_at:2025-09 star:0.1k fork:0.0k Intel® Extension for MLIR. A staging ground for MLIR dialects and tools for Intel devices using the MLIR toolchain.
+- [intel/mlir-extensions](https://github.com/intel/mlir-extensions) topic: pushed_at:2025-10 star:0.1k fork:0.0k Intel® Extension for MLIR. A staging ground for MLIR dialects and tools for Intel devices using the MLIR toolchain.
 
 ## Makefile
 
@@ -979,6 +979,7 @@
 - [intel/acomp-dpusm](https://github.com/intel/acomp-dpusm) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [intel/ai](https://github.com/intel/ai) topic: pushed_at:2025-03 star:0.1k fork:0.0k Explore our open source AI portfolio! Develop, train, and deploy your AI solutions with performance- and productivity-optimized tools from Intel.
 - [intel/AiKit-code-samples](https://github.com/intel/AiKit-code-samples) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
+- [intel/aipc-devkit-install](https://github.com/intel/aipc-devkit-install) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/ait2019](https://github.com/intel/ait2019) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/amx-linux](https://github.com/intel/amx-linux) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [intel/android-bluez-manifest](https://github.com/intel/android-bluez-manifest) topic: pushed_at:2014-08 star:0.0k fork:0.0k Custom manifest for Android-BlueZ
@@ -998,7 +999,7 @@
 - [intel/BigDL-Time-Series-Toolkit](https://github.com/intel/BigDL-Time-Series-Toolkit) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [intel/bpc](https://github.com/intel/bpc) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [intel/brillo-minnowboard-binaries](https://github.com/intel/brillo-minnowboard-binaries) topic: pushed_at:2016-05 star:0.0k fork:0.0k Prebuilt binaries for use with Brillo on MinnowBoards
-- [intel/cartwheel-ffmpeg](https://github.com/intel/cartwheel-ffmpeg) topic: pushed_at:2025-09 star:0.1k fork:0.0k Intel developer staging area for unmerged upstream patch contributions to FFmpeg
+- [intel/cartwheel-ffmpeg](https://github.com/intel/cartwheel-ffmpeg) topic: pushed_at:2025-10 star:0.1k fork:0.0k Intel developer staging area for unmerged upstream patch contributions to FFmpeg
 - [intel/cartwheel-gstreamer](https://github.com/intel/cartwheel-gstreamer) topic: pushed_at:2025-09 star:0.0k fork:0.0k Intel developer staging area for unmerged upstream patch contributions to gstreamer monorepo
 - [intel/cartwheel-libjpeg-turbo](https://github.com/intel/cartwheel-libjpeg-turbo) topic: pushed_at:2024-09 star:0.0k fork:0.0k Intel developer staging area for unmerged upstream patch contributions to libjpeg-turbo
 - [intel/clear-sans](https://github.com/intel/clear-sans) topic: pushed_at:2023-01 star:0.2k fork:0.0k Clear Sans is an OpenType font designed for on-screen legibility.
@@ -1007,7 +1008,7 @@
 - [intel/cloudwpa-hostapd](https://github.com/intel/cloudwpa-hostapd) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/cloudwpa-manifest](https://github.com/intel/cloudwpa-manifest) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/CODK-A-Manifest](https://github.com/intel/CODK-A-Manifest) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [intel/confidential-computing-tee-dcap-pccs](https://github.com/intel/confidential-computing-tee-dcap-pccs) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/confidential-computing.tee.dcap.pccs](https://github.com/intel/confidential-computing.tee.dcap.pccs) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 - [intel/confidential-containers](https://github.com/intel/confidential-containers) topic: pushed_at:2024-01 star:0.0k fork:0.0k 
 - [intel/deep-learning-technologies](https://github.com/intel/deep-learning-technologies) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/DevCloudContent](https://github.com/intel/DevCloudContent) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
@@ -1103,7 +1104,7 @@
 - [intel/stacks_pipeline](https://github.com/intel/stacks_pipeline) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/sve2rvv](https://github.com/intel/sve2rvv) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
 - [intel/td-partitioning](https://github.com/intel/td-partitioning) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
-- [intel/tdx](https://github.com/intel/tdx) topic: pushed_at:2025-09 star:0.1k fork:0.0k 
+- [intel/tdx](https://github.com/intel/tdx) topic: pushed_at:2025-10 star:0.1k fork:0.0k 
 - [intel/tdx-linux](https://github.com/intel/tdx-linux) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
 - [intel/terraform-intel-aws-ecs](https://github.com/intel/terraform-intel-aws-ecs) topic: pushed_at:2025-05 star:0.0k fork:0.0k Intel Cloud Optimization Module - AWS ECS
 - [intel/terraform-intel-azure-aks](https://github.com/intel/terraform-intel-azure-aks) topic: pushed_at:2025-05 star:0.0k fork:0.0k Intel Cloud Optimization Module - Azure AKS
@@ -1114,7 +1115,7 @@
 - [intel/uintr-compiler-guide](https://github.com/intel/uintr-compiler-guide) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/valgrind-rvv](https://github.com/intel/valgrind-rvv) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 - [intel/vscode-oneapi-extension-pack](https://github.com/intel/vscode-oneapi-extension-pack) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
-- [intel/vscode-simics](https://github.com/intel/vscode-simics) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
+- [intel/vscode-simics](https://github.com/intel/vscode-simics) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/vsm-dependencies](https://github.com/intel/vsm-dependencies) topic: pushed_at:2016-10 star:0.0k fork:0.0k 
 - [intel/vtune-perf-glibc-v2.7](https://github.com/intel/vtune-perf-glibc-v2.7) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/vtune-perf-v4.3.1](https://github.com/intel/vtune-perf-v4.3.1) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
@@ -1150,14 +1151,13 @@
 
 - [intel/acrn-workload-consolidation](https://github.com/intel/acrn-workload-consolidation) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/AI-Adventure-Game-Assistant](https://github.com/intel/AI-Adventure-Game-Assistant) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
-- [intel/ai-containers](https://github.com/intel/ai-containers) topic:docker,docker-compose,helm,intel,kubernetes,pytorch,scikit-learn,tensorflow pushed_at:2025-09 star:0.1k fork:0.0k This repository contains Dockerfiles, scripts, yaml files, Helm charts, etc. used to scale out AI containers with versions of TensorFlow and PyTorch that have been optimized for Intel platforms. Scaling is done with python, Docker, kubernetes, kubeflow, cnvrg.io, Helm, and other container orchestration frameworks for use in the cloud and on-premise
+- [intel/ai-containers](https://github.com/intel/ai-containers) topic:docker,docker-compose,helm,intel,kubernetes,pytorch,scikit-learn,tensorflow pushed_at:2025-10 star:0.1k fork:0.0k This repository contains Dockerfiles, scripts, yaml files, Helm charts, etc. used to scale out AI containers with versions of TensorFlow and PyTorch that have been optimized for Intel platforms. Scaling is done with python, Docker, kubernetes, kubeflow, cnvrg.io, Helm, and other container orchestration frameworks for use in the cloud and on-premise
 - [intel/ai-reference-models](https://github.com/intel/ai-reference-models) topic:ai,cpu,deep-learning,deep-neural-networks,inference,performance,tensorflow pushed_at:2025-09 star:0.7k fork:0.2k Intel® AI Reference Models: contains Intel optimizations for running deep learning workloads on Intel® Xeon® Scalable processors and Intel® Data Center GPUs
-- [intel/aipc-devkit-install](https://github.com/intel/aipc-devkit-install) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
 - [intel/ansible](https://github.com/intel/ansible) topic: pushed_at:2022-12 star:0.0k fork:0.0k Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
 - [intel/ansible-openstack](https://github.com/intel/ansible-openstack) topic: pushed_at:2015-06 star:0.0k fork:0.0k My ansible playbook for openstack
 - [intel/ansible-rsd-provisioning](https://github.com/intel/ansible-rsd-provisioning) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/apache-airflow-granulate-databricks](https://github.com/intel/apache-airflow-granulate-databricks) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
-- [intel/auto-round](https://github.com/intel/auto-round) topic:int4,mxfp4,nvfp4,quantization,rounding,transformers,vllm pushed_at:2025-09 star:0.6k fork:0.1k Advanced Quantization Algorithm for LLMs and VLMs, with support for CPU, Intel GPU, CUDA and HPU. 
+- [intel/auto-round](https://github.com/intel/auto-round) topic:int4,mxfp4,nvfp4,quantization,rounding,transformers,vllm pushed_at:2025-10 star:0.7k fork:0.1k Advanced Quantization Algorithm for LLMs and VLMs, with support for CPU, Intel GPU, CUDA and HPU. 
 - [intel/bmap-tools](https://github.com/intel/bmap-tools) topic: pushed_at:2024-10 star:0.2k fork:0.1k BMAP Tools
 - [intel/branch_hinting_tool](https://github.com/intel/branch_hinting_tool) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/brillo-edison-binaries](https://github.com/intel/brillo-edison-binaries) topic: pushed_at:2016-10 star:0.0k fork:0.0k 
@@ -1169,19 +1169,19 @@
 - [intel/chainer](https://github.com/intel/chainer) topic: pushed_at:2023-01 star:0.1k fork:0.0k Intel® Optimization for Chainer*
 - [intel/clear-linux-dissector-web](https://github.com/intel/clear-linux-dissector-web) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [intel/cloud-native-ai-pipeline](https://github.com/intel/cloud-native-ai-pipeline) topic: pushed_at:2025-08 star:0.0k fork:0.0k AI cloud native pipeline for confidential and sustainable computing
-- [intel/cluster-management-toolkit](https://github.com/intel/cluster-management-toolkit) topic:cluster,kubernetes pushed_at:2025-09 star:0.0k fork:0.0k Toolkit for managing and monitoring Kubernetes clusters; includes a Curses-based console UI as well as a few command-line tools.
+- [intel/cluster-management-toolkit](https://github.com/intel/cluster-management-toolkit) topic:cluster,kubernetes pushed_at:2025-10 star:0.0k fork:0.0k Toolkit for managing and monitoring Kubernetes clusters; includes a Curses-based console UI as well as a few command-line tools.
 - [intel/CODK-Tools](https://github.com/intel/CODK-Tools) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [intel/CommsPowerManagement](https://github.com/intel/CommsPowerManagement) topic: pushed_at:2025-09 star:0.1k fork:0.0k 
+- [intel/CommsPowerManagement](https://github.com/intel/CommsPowerManagement) topic: pushed_at:2025-10 star:0.1k fork:0.0k 
 - [intel/conversational-ai-chatbot](https://github.com/intel/conversational-ai-chatbot) topic: pushed_at:2023-04 star:0.1k fork:0.0k The Conversational AI Chat Bot contains automatic speech recognition (ASR), text to speech (TTS), and natural language processing (NLP) as microservices and leverages deep learning algorithms of Intel® Distribution of OpenVINO™ toolkit. This RI provides microservices that will allow your system to listen through the mic array, understand natural language expressions, determine intent and entities, and formulate a response.
 - [intel/Converter-for-OPCUA](https://github.com/intel/Converter-for-OPCUA) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
 - [intel/CPU-Manager-for-Kubernetes](https://github.com/intel/CPU-Manager-for-Kubernetes) topic: pushed_at:2023-01 star:0.2k fork:0.1k Kubernetes Core Manager for NFV workloads
 - [intel/cv-training-and-inference-openvino](https://github.com/intel/cv-training-and-inference-openvino) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
 - [intel/cve-bin-tool](https://github.com/intel/cve-bin-tool) topic:cve,cvss,devsecops,hacktoberfest,python,sbom,sbom-tool,security,security-automation,security-tools,swrepo,system-tools,vulnerabilities,vulnerability pushed_at:2025-10 star:1.5k fork:0.6k The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 350 common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with an SBOM or a list of components and versions.
-- [intel/cve-bin-tool-action](https://github.com/intel/cve-bin-tool-action) topic:cve,hacktoberfest,hacktoberfest2023,security,vulnerability pushed_at:2025-09 star:0.0k fork:0.0k Known vulnerability scanning for your GitHub repository using CVE Binary Tool.  This Action can scan binaries, component lists and SBOMs for known vulnerabilities and CVEs.  It can generate SBOM component lists as well as reports in the Security Tab and in HTML/JSON/PDF format.
+- [intel/cve-bin-tool-action](https://github.com/intel/cve-bin-tool-action) topic:cve,hacktoberfest,hacktoberfest2023,security,vulnerability pushed_at:2025-10 star:0.0k fork:0.0k Known vulnerability scanning for your GitHub repository using CVE Binary Tool.  This Action can scan binaries, component lists and SBOMs for known vulnerabilities and CVEs.  It can generate SBOM component lists as well as reports in the Security Tab and in HTML/JSON/PDF format.
 - [intel/DAFT](https://github.com/intel/DAFT) topic: pushed_at:2022-08 star:0.0k fork:0.0k Automated Flasher Tester
 - [intel/Detectron](https://github.com/intel/Detectron) topic: pushed_at:2022-08 star:0.0k fork:0.0k FAIR's research platform for object detection research, implementing popular algorithms like Mask R-CNN and RetinaNet.
 - [intel/DevCloudContent-dockerfile](https://github.com/intel/DevCloudContent-dockerfile) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [intel/device-modeling-language](https://github.com/intel/device-modeling-language) topic: pushed_at:2025-09 star:0.1k fork:0.0k 
+- [intel/device-modeling-language](https://github.com/intel/device-modeling-language) topic: pushed_at:2025-10 star:0.1k fork:0.0k 
 - [intel/dffml](https://github.com/intel/dffml) topic:ai-inference,ai-machine-learning,ai-training,analytics,asyncio,dag,data-flow,dataflows,datasets,dffml,event-based,flow-based-programming,frameworks,hyperautomation,libraries,machine-learning,models,pipelines,python,swrepo pushed_at:2024-08 star:0.3k fork:0.1k The easiest way to use Machine Learning. Mix and match underlying ML libraries and data set sources. Generate new datasets or modify existing ones with ease.
 - [intel/diagnostics-utility](https://github.com/intel/diagnostics-utility) topic: pushed_at:2024-10 star:0.0k fork:0.0k Diagnostics utility to help oneAPI customers prevent system and offload device-related issues. The utility is intended to provide information for users regarding toolchains/drivers/firmware for oneAPI use cases.
 - [intel/digital-datasheet-creator](https://github.com/intel/digital-datasheet-creator) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
@@ -1203,8 +1203,8 @@
 - [intel/fMBT](https://github.com/intel/fMBT) topic: pushed_at:2025-01 star:0.1k fork:0.1k Free Model Based tool
 - [intel/forking-tuner](https://github.com/intel/forking-tuner) topic: pushed_at:2023-01 star:0.0k fork:0.0k A forking tuner for the TensorFlow threading configuration.
 - [intel/gbs](https://github.com/intel/gbs) topic: pushed_at:2014-05 star:0.0k fork:0.0k 
-- [intel/gh-contrib-scraper-report-gen](https://github.com/intel/gh-contrib-scraper-report-gen) topic:cli,github-contributions,gui,reports pushed_at:2025-09 star:0.0k fork:0.0k A tool to download all commits made by a GitHub user across specified repositories within a date range using GitHub API. Additionally, it can fetch commits made in pull requests by the user instead of just the final PR merge commit.
-- [intel/gprofiler](https://github.com/intel/gprofiler) topic: pushed_at:2025-09 star:0.8k fork:0.1k gProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on.
+- [intel/gh-contrib-scraper-report-gen](https://github.com/intel/gh-contrib-scraper-report-gen) topic:cli,github-contributions,gui,reports pushed_at:2025-10 star:0.0k fork:0.0k A tool to download all commits made by a GitHub user across specified repositories within a date range using GitHub API. Additionally, it can fetch commits made in pull requests by the user instead of just the final PR merge commit.
+- [intel/gprofiler](https://github.com/intel/gprofiler) topic: pushed_at:2025-10 star:0.8k fork:0.1k gProfiler is a system-wide profiler, combining multiple sampling profilers to produce unified visualization of what your CPU is spending time on.
 - [intel/granulate-utils](https://github.com/intel/granulate-utils) topic: pushed_at:2025-07 star:0.0k fork:0.0k Granulate shared Python utilities
 - [intel/graph-compiler-playground](https://github.com/intel/graph-compiler-playground) topic: pushed_at:2024-07 star:0.0k fork:0.0k Dumping ground for graph compiler related code, experiments, examples, etc. 
 - [intel/graph-neural-networks-and-analytics](https://github.com/intel/graph-neural-networks-and-analytics) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
@@ -1222,9 +1222,9 @@
 - [intel/intel-data-center-gpu-driver-for-openshift](https://github.com/intel/intel-data-center-gpu-driver-for-openshift) topic:cse,drivers,gpu,i915,intel-gpu,kmm,pmt,rhocp pushed_at:2025-06 star:0.0k fork:0.0k Intel Data Center GPU Drivers for Red Hat OpenShift Container Platform
 - [intel/intel-devcloud-samples](https://github.com/intel/intel-devcloud-samples) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [intel/Intel-ECI-ExCat-Ansible](https://github.com/intel/Intel-ECI-ExCat-Ansible) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
-- [intel/intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) topic:deep-learning,intel,machine-learning,neural-network,pytorch,quantization pushed_at:2025-09 star:2.0k fork:0.3k A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
+- [intel/intel-extension-for-pytorch](https://github.com/intel/intel-extension-for-pytorch) topic:deep-learning,intel,machine-learning,neural-network,pytorch,quantization pushed_at:2025-10 star:2.0k fork:0.3k A Python package for extending the official PyTorch that can easily obtain performance on Intel platform
 - [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers) topic:4-bits,autoround,chatbot,chatpdf,gaudi3,habana,intel-optimized-llamacpp,large-language-model,llm-cpu,llm-inference,neural-chat,neural-chat-7b,rag,retrieval,speculative-decoding,streamingllm pushed_at:2024-10 star:2.2k fork:0.2k ⚡ Build your chatbot within minutes on your favorite device; offer SOTA compression techniques for LLMs; run LLMs efficiently on Intel Platforms⚡
-- [intel/intel-gradio-theme](https://github.com/intel/intel-gradio-theme) topic: pushed_at:2025-09 star:0.0k fork:0.0k Intel® Gradio Theme
+- [intel/intel-gradio-theme](https://github.com/intel/intel-gradio-theme) topic: pushed_at:2025-10 star:0.0k fork:0.0k Intel® Gradio Theme
 - [intel/intel-horovod](https://github.com/intel/intel-horovod) topic: pushed_at:2023-01 star:0.0k fork:0.0k Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [intel/intel-inb-manageability](https://github.com/intel/intel-inb-manageability) topic: pushed_at:2025-08 star:0.0k fork:0.0k The Intel® In-Band Manageability Framework enables an administrator to perform critical Device Management operations over-the-air remotely from the cloud. It also facilitates the publishing of telemetry and critical events and logs from an IoT device to the cloud enabling the administrator to take corrective actions if, and when necessary. The framework is designed to be modular and flexible ensuring scalability of the solution across preferred Cloud Service Providers (for example, Azure* IoT Central, ThingBoard.io, and so on).
 - [intel/intel-iot-refkit](https://github.com/intel/intel-iot-refkit) topic: pushed_at:2022-08 star:0.0k fork:0.1k 
@@ -1232,7 +1232,7 @@
 - [intel/intel-npu-acceleration-library](https://github.com/intel/intel-npu-acceleration-library) topic: pushed_at:2025-04 star:0.7k fork:0.1k Intel® NPU Acceleration Library
 - [intel/intel-optimization-for-horovod](https://github.com/intel/intel-optimization-for-horovod) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [intel/Intel-Optimized-Container-for-Embeddings](https://github.com/intel/Intel-Optimized-Container-for-Embeddings) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
-- [intel/Intel-PMT](https://github.com/intel/Intel-PMT) topic: pushed_at:2025-09 star:0.1k fork:0.0k 
+- [intel/Intel-PMT](https://github.com/intel/Intel-PMT) topic: pushed_at:2025-10 star:0.1k fork:0.0k 
 - [intel/intel-sdptool-ansible-modules](https://github.com/intel/intel-sdptool-ansible-modules) topic: pushed_at:2024-01 star:0.0k fork:0.0k Intel(R) SDP Tool Ansible plugin is an Ansible action plugin, which provides Intel(R) Server Debug and Provisioning Tool (SDP Tool) capabilities in an action plugin
 - [intel/intel-ssd-firmware-update-tool](https://github.com/intel/intel-ssd-firmware-update-tool) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
 - [intel/intel-technology-enabling-for-openshift](https://github.com/intel/intel-technology-enabling-for-openshift) topic:accelerator,cloud,datacenter,device-plugin,dsa,enterprise-ai,gaudi,genai-chatbot,gpu,kmm,kubernetes,nfd,opea,openshift,operator,qat,sgx,xeon,yaml pushed_at:2025-07 star:0.0k fork:0.0k The project delivers a comprehensive full-stack solution for the Intel® Enterprise AI Foundation on the OpenShift platform to provision Intel AI and Xeon accelerators, integrate AI software, and enable key AI workloads, such as LLM inferencing, training and fine-tuning for enterprise AI. RoCE Network provisioning is also inlcuded. 
@@ -1240,7 +1240,7 @@
 - [intel/IntelSEAPI](https://github.com/intel/IntelSEAPI) topic: pushed_at:2023-01 star:0.2k fork:0.1k IntelSEAPI
 - [intel/interferencedetector](https://github.com/intel/interferencedetector) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
 - [intel/iotg-fbu](https://github.com/intel/iotg-fbu) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [intel/ipex-llm](https://github.com/intel/ipex-llm) topic:gpu,llm,pytorch,transformers pushed_at:2025-09 star:8.3k fork:1.4k Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, DeepSeek, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such as Arc, Flex and Max); seamlessly integrate with llama.cpp, Ollama, HuggingFace, LangChain, LlamaIndex, vLLM, DeepSpeed, Axolotl, etc.
+- [intel/ipex-llm](https://github.com/intel/ipex-llm) topic:gpu,llm,pytorch,transformers pushed_at:2025-10 star:8.4k fork:1.4k Accelerate local LLM inference and finetuning (LLaMA, Mistral, ChatGLM, Qwen, DeepSeek, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., local PC with iGPU and NPU, discrete GPU such as Arc, Flex and Max); seamlessly integrate with llama.cpp, Ollama, HuggingFace, LangChain, LlamaIndex, vLLM, DeepSpeed, Axolotl, etc.
 - [intel/iris-panel](https://github.com/intel/iris-panel) topic: pushed_at:2015-03 star:0.0k fork:0.0k IRIS is a data-aggregation web service for Tizen development.
 - [intel/isafw](https://github.com/intel/isafw) topic: pushed_at:2016-09 star:0.0k fork:0.0k 
 - [intel/isolation-forest-microservice](https://github.com/intel/isolation-forest-microservice) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
@@ -1248,70 +1248,70 @@
 - [intel/kubernetes-docs](https://github.com/intel/kubernetes-docs) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [intel/light-model-transformer](https://github.com/intel/light-model-transformer) topic: pushed_at:2025-09 star:0.1k fork:0.0k 
 - [intel/llm-on-ray](https://github.com/intel/llm-on-ray) topic: pushed_at:2025-09 star:0.1k fork:0.0k Pretrain, finetune and serve LLMs on Intel platforms with Ray
-- [intel/llm-scaler](https://github.com/intel/llm-scaler) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/llm-scaler](https://github.com/intel/llm-scaler) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/luv-yocto](https://github.com/intel/luv-yocto) topic: pushed_at:2021-02 star:0.1k fork:0.1k Linux UEFI Validation Distribution
 - [intel/memory-usage-analyzer](https://github.com/intel/memory-usage-analyzer) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
 - [intel/meta-intel-iot-security](https://github.com/intel/meta-intel-iot-security) topic: pushed_at:2022-08 star:0.0k fork:0.0k A collection of loosely related OpenEmbedded layers providing several security technologies
 - [intel/meta-security-isafw](https://github.com/intel/meta-security-isafw) topic: pushed_at:2019-06 star:0.0k fork:0.0k 
 - [intel/mfd-cli-client](https://github.com/intel/mfd-cli-client) topic:mfd pushed_at:2025-08 star:0.0k fork:0.0k 
-- [intel/mfd-code-quality](https://github.com/intel/mfd-code-quality) topic:mfd pushed_at:2025-09 star:0.0k fork:0.0k This module provides set of code quality related methods with corresponding command line commands used in MFD ecosystem
-- [intel/mfd-common-libs](https://github.com/intel/mfd-common-libs) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k Module with common libraries and methods used in Modular Framework Design (MFD)
-- [intel/mfd-connect](https://github.com/intel/mfd-connect) topic:mfd pushed_at:2025-09 star:0.0k fork:0.0k MFD Connect is a versatile module that supports SSH, RPyC, and other connection types for executing commands on remote machines, offering features like process management, file copying, and system information utilities.
-- [intel/mfd-const](https://github.com/intel/mfd-const) topic:mfd pushed_at:2025-09 star:0.0k fork:0.0k Modular Framework Design (MFD) module for const values
+- [intel/mfd-code-quality](https://github.com/intel/mfd-code-quality) topic:mfd pushed_at:2025-10 star:0.0k fork:0.0k This module provides set of code quality related methods with corresponding command line commands used in MFD ecosystem
+- [intel/mfd-common-libs](https://github.com/intel/mfd-common-libs) topic:mfd pushed_at:2025-10 star:0.0k fork:0.0k Module with common libraries and methods used in Modular Framework Design (MFD)
+- [intel/mfd-connect](https://github.com/intel/mfd-connect) topic:mfd pushed_at:2025-10 star:0.0k fork:0.0k MFD Connect is a versatile module that supports SSH, RPyC, and other connection types for executing commands on remote machines, offering features like process management, file copying, and system information utilities.
+- [intel/mfd-const](https://github.com/intel/mfd-const) topic:mfd pushed_at:2025-10 star:0.0k fork:0.0k Modular Framework Design (MFD) module for const values
 - [intel/mfd-dcb](https://github.com/intel/mfd-dcb) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
 - [intel/mfd-devcon](https://github.com/intel/mfd-devcon) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
 - [intel/mfd-dmesg](https://github.com/intel/mfd-dmesg) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
-- [intel/mfd-esxi](https://github.com/intel/mfd-esxi) topic:mfd pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/mfd-esxi](https://github.com/intel/mfd-esxi) topic:mfd pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/mfd-ethtool](https://github.com/intel/mfd-ethtool) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
 - [intel/mfd-event-log](https://github.com/intel/mfd-event-log) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
 - [intel/mfd-ftp](https://github.com/intel/mfd-ftp) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
-- [intel/mfd-host](https://github.com/intel/mfd-host) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
-- [intel/mfd-hyperv](https://github.com/intel/mfd-hyperv) topic:mfd pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/mfd-host](https://github.com/intel/mfd-host) topic:mfd pushed_at:2025-10 star:0.0k fork:0.0k 
+- [intel/mfd-hyperv](https://github.com/intel/mfd-hyperv) topic:mfd pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/mfd-kernel-namespace](https://github.com/intel/mfd-kernel-namespace) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k Module to handle kernel namespaces.
-- [intel/mfd-kvm](https://github.com/intel/mfd-kvm) topic:mfd pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/mfd-kvm](https://github.com/intel/mfd-kvm) topic:mfd pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/mfd-libibverbs-utils](https://github.com/intel/mfd-libibverbs-utils) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
-- [intel/mfd-model](https://github.com/intel/mfd-model) topic:mfd pushed_at:2025-09 star:0.0k fork:0.0k Module for handling Pydantic models used across multiple MFDs stored in subpackages
+- [intel/mfd-model](https://github.com/intel/mfd-model) topic:mfd pushed_at:2025-10 star:0.0k fork:0.0k Module for handling Pydantic models used across multiple MFDs stored in subpackages
 - [intel/mfd-mount](https://github.com/intel/mfd-mount) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
-- [intel/mfd-network-adapter](https://github.com/intel/mfd-network-adapter) topic:mfd pushed_at:2025-09 star:0.0k fork:0.0k Module which handle operations on network adapters installed on different operating systems
+- [intel/mfd-network-adapter](https://github.com/intel/mfd-network-adapter) topic:mfd pushed_at:2025-10 star:0.0k fork:0.0k Module which handle operations on network adapters installed on different operating systems
 - [intel/mfd-osd-control](https://github.com/intel/mfd-osd-control) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k Module for controlling entries in OSD.
 - [intel/mfd-package-manager](https://github.com/intel/mfd-package-manager) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
 - [intel/mfd-packet-capture](https://github.com/intel/mfd-packet-capture) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k Module for Packet Capture support. Within the module, there are wrappers written for tcpdump, tshark & pktcap tools.
 - [intel/mfd-ping](https://github.com/intel/mfd-ping) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
 - [intel/mfd-powermanagement](https://github.com/intel/mfd-powermanagement) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
 - [intel/mfd-serial](https://github.com/intel/mfd-serial) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
-- [intel/mfd-switchmanagement](https://github.com/intel/mfd-switchmanagement) topic:mfd,netmiko pushed_at:2025-09 star:0.0k fork:0.0k Module for handling operations on switches from different vendors (for example IBM, Cisco, Dell)
+- [intel/mfd-switchmanagement](https://github.com/intel/mfd-switchmanagement) topic:mfd,netmiko pushed_at:2025-10 star:0.0k fork:0.0k Module for handling operations on switches from different vendors (for example IBM, Cisco, Dell)
 - [intel/mfd-sysctl](https://github.com/intel/mfd-sysctl) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
 - [intel/mfd-tool](https://github.com/intel/mfd-tool) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k Module for abstraction of tool (wrappers).
 - [intel/mfd-traffic-manager](https://github.com/intel/mfd-traffic-manager) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
-- [intel/mfd-typing](https://github.com/intel/mfd-typing) topic:mfd pushed_at:2025-09 star:0.0k fork:0.0k Module containing common data structures and utilities shared between MFD modules.
+- [intel/mfd-typing](https://github.com/intel/mfd-typing) topic:mfd pushed_at:2025-10 star:0.0k fork:0.0k Module containing common data structures and utilities shared between MFD modules.
 - [intel/mfd-win-registry](https://github.com/intel/mfd-win-registry) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
 - [intel/mic](https://github.com/intel/mic) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/Micro-Segmentation](https://github.com/intel/Micro-Segmentation) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [intel/misinformation-guard](https://github.com/intel/misinformation-guard) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/misinformation-guard](https://github.com/intel/misinformation-guard) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/mpxcheck](https://github.com/intel/mpxcheck) topic: pushed_at:2016-10 star:0.0k fork:0.0k 
 - [intel/MTMC-Temporal-Profiler](https://github.com/intel/MTMC-Temporal-Profiler) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 - [intel/multi-camera-object-detection](https://github.com/intel/multi-camera-object-detection) topic: pushed_at:2024-04 star:0.0k fork:0.0k This is object detection demo using DLStreamer and OpenVINO to run on Intel® CPU and iGPU
 - [intel/nauta](https://github.com/intel/nauta) topic: pushed_at:2024-05 star:0.4k fork:0.1k A multi-user, distributed computing environment for running DL model training experiments on Intel® Xeon® Scalable processor-based systems
 - [intel/nauta-zoo](https://github.com/intel/nauta-zoo) topic: pushed_at:2023-01 star:0.0k fork:0.0k This repository contains pack's templates used by the Nauta (https://github.com/IntelAI/nauta) system.
 - [intel/ncappzoo](https://github.com/intel/ncappzoo) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [intel/neural-compressor](https://github.com/intel/neural-compressor) topic:auto-tuning,awq,fp4,gptq,int4,int8,knowledge-distillation,large-language-models,low-precision,mxformat,post-training-quantization,pruning,quantization,quantization-aware-training,smoothquant,sparsegpt,sparsity pushed_at:2025-09 star:2.5k fork:0.3k SOTA low-bit LLM quantization (INT8/FP8/INT4/FP4/NF4) & sparsity; leading model compression techniques on TensorFlow, PyTorch, and ONNX Runtime
+- [intel/neural-compressor](https://github.com/intel/neural-compressor) topic:auto-tuning,awq,fp4,gptq,int4,int8,knowledge-distillation,large-language-models,low-precision,mxformat,post-training-quantization,pruning,quantization,quantization-aware-training,smoothquant,sparsegpt,sparsity pushed_at:2025-10 star:2.5k fork:0.3k SOTA low-bit LLM quantization (INT8/FP8/INT4/FP4/NF4) & sparsity; leading model compression techniques on TensorFlow, PyTorch, and ONNX Runtime
 - [intel/nlp-training-and-inference-openvino](https://github.com/intel/nlp-training-and-inference-openvino) topic: pushed_at:2024-11 star:0.0k fork:0.0k 
 - [intel/obs-service-gbs](https://github.com/intel/obs-service-gbs) topic: pushed_at:2014-10 star:0.0k fork:0.0k 
 - [intel/obs-service-git-buildpackage](https://github.com/intel/obs-service-git-buildpackage) topic: pushed_at:2015-02 star:0.0k fork:0.0k 
 - [intel/oneContainer-API](https://github.com/intel/oneContainer-API) topic:ai,db,paas pushed_at:2023-01 star:0.0k fork:0.0k A platform to enable unified APIs for containerized services in multiple segments like AI, Database, and Media.
 - [intel/oneContainer-Cloud-Tool](https://github.com/intel/oneContainer-Cloud-Tool) topic:aws,containers,docker pushed_at:2023-01 star:0.0k fork:0.0k Utility to deploy container instances on public cloud
 - [intel/open-domain-question-and-answer](https://github.com/intel/open-domain-question-and-answer) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
-- [intel/openikt](https://github.com/intel/openikt) topic: pushed_at:2025-09 star:0.0k fork:0.0k OpenIKT(Open Inter kernel Tools) is a batch of utility tools, used to track the kernel patch status among multi open-source projects. 
+- [intel/openikt](https://github.com/intel/openikt) topic: pushed_at:2025-10 star:0.0k fork:0.0k OpenIKT(Open Inter kernel Tools) is a batch of utility tools, used to track the kernel patch status among multi open-source projects. 
 - [intel/openseismic](https://github.com/intel/openseismic) topic:energy,inference,openvino,seismic pushed_at:2023-11 star:0.0k fork:0.0k Open Seismic is an open-source toolbox for conducting inference on seismic data. We use OpenVINO while inference.
-- [intel/openvino-ai-plugins-gimp](https://github.com/intel/openvino-ai-plugins-gimp) topic: pushed_at:2025-09 star:0.7k fork:0.1k GIMP AI plugins with OpenVINO Backend
+- [intel/openvino-ai-plugins-gimp](https://github.com/intel/openvino-ai-plugins-gimp) topic: pushed_at:2025-10 star:0.7k fork:0.1k GIMP AI plugins with OpenVINO Backend
 - [intel/openvino-ai-video-retrieval-analysis](https://github.com/intel/openvino-ai-video-retrieval-analysis) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [intel/openvino-drl-training-demo](https://github.com/intel/openvino-drl-training-demo) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/optimized-cloud-recipes](https://github.com/intel/optimized-cloud-recipes) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 - [intel/optimized-models](https://github.com/intel/optimized-models) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/pailliercryptolib_python](https://github.com/intel/pailliercryptolib_python) topic:cryptography,homomorphic-encryption,python3 pushed_at:2025-06 star:0.1k fork:0.0k Intel Paillier Cryptosystem Library is an open-source library which provides accelerated performance of a partial homomorphic encryption (HE), named Paillier cryptosystem, by utilizing Intel® IPP-Crypto technologies on Intel CPUs supporting the AVX512IFMA instructions. The library is written in modern standard C++ and provides the essential API for the Paillier cryptosystem scheme. Intel Paillier Cryptosystem Library - Python is a Python extension package intended for Python based privacy preserving machine learning solutions which utilizes the partial HE scheme for increased data and model protection.
 - [intel/ParseAndC](https://github.com/intel/ParseAndC) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
-- [intel/pepc](https://github.com/intel/pepc) topic:aspm,c-state,cpu,cpu-hotplug,cpu-online,intel,linux,p-state,pm,power,uncore pushed_at:2025-09 star:0.1k fork:0.0k Pepc - Power, Energy, and Performance Configurator
-- [intel/perfmon](https://github.com/intel/perfmon) topic: pushed_at:2025-09 star:0.3k fork:0.1k 
+- [intel/pepc](https://github.com/intel/pepc) topic:aspm,c-state,cpu,cpu-hotplug,cpu-online,intel,linux,p-state,pm,power,uncore pushed_at:2025-10 star:0.1k fork:0.0k Pepc - Power, Energy, and Performance Configurator
+- [intel/perfmon](https://github.com/intel/perfmon) topic: pushed_at:2025-10 star:0.3k fork:0.1k 
 - [intel/PerTaskMemBWMonitoring](https://github.com/intel/PerTaskMemBWMonitoring) topic:swrepo pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/pinplay-tools](https://github.com/intel/pinplay-tools) topic:pin,pinplay,pinpoints,sde,simulation pushed_at:2025-07 star:0.0k fork:0.0k A collection of C/C++ programs and Python scripts to be used in conjunction with Intel Software Development Emulator (Intel SDE, available externally separately). The purpose is to use record/replay functionality in SDE for program analysis.
 - [intel/pm-graph](https://github.com/intel/pm-graph) topic: pushed_at:2025-08 star:0.1k fork:0.1k The Suspend/Resume project provides a tool for system developers to visualize the activity between suspend and resume, allowing them to identify inefficiencies and bottlenecks.
@@ -1319,7 +1319,7 @@
 - [intel/project-example-for-python](https://github.com/intel/project-example-for-python) topic:entrypoints,example-project,python-library,python-module,python-package-example,sphinx pushed_at:2024-08 star:0.0k fork:0.0k Example Python module with CLI tools and Sphinx documentation generation
 - [intel/PTP-optimization](https://github.com/intel/PTP-optimization) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
 - [intel/pytest-mfd-config](https://github.com/intel/pytest-mfd-config) topic:mfd pushed_at:2025-07 star:0.0k fork:0.0k 
-- [intel/pytest-mfd-logging](https://github.com/intel/pytest-mfd-logging) topic:mfd pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/pytest-mfd-logging](https://github.com/intel/pytest-mfd-logging) topic:mfd pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/RAAD](https://github.com/intel/RAAD) topic: pushed_at:2024-04 star:0.0k fork:0.0k 
 - [intel/random-forest-microservice](https://github.com/intel/random-forest-microservice) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [intel/recommender-system-with-classical-ml](https://github.com/intel/recommender-system-with-classical-ml) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
@@ -1336,7 +1336,7 @@
 - [intel/scipy](https://github.com/intel/scipy) topic: pushed_at:2016-10 star:0.0k fork:0.0k Scipy library main repository
 - [intel/simplified-classifier-and-labelling-tool-for-pytorch](https://github.com/intel/simplified-classifier-and-labelling-tool-for-pytorch) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [intel/smart-image-correction](https://github.com/intel/smart-image-correction) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
-- [intel/Speech-to-Text-Analytics-System](https://github.com/intel/Speech-to-Text-Analytics-System) topic: pushed_at:2024-10 star:0.0k fork:0.0k Speech-to-Text Analytics System
+- [intel/Speech-to-Text-Analytics-System](https://github.com/intel/Speech-to-Text-Analytics-System) topic: pushed_at:2025-10 star:0.0k fork:0.0k Speech-to-Text Analytics System
 - [intel/sst-bf-openstack-setup-automation](https://github.com/intel/sst-bf-openstack-setup-automation) topic: pushed_at:2023-01 star:0.0k fork:0.0k Intel® Speed Select - Base Frequency for Openstack* - Setup Automation
 - [intel/stacks-usecase](https://github.com/intel/stacks-usecase) topic: pushed_at:2022-12 star:0.0k fork:0.0k End to End usecases using Intel System Stacks
 - [intel/stats-collect](https://github.com/intel/stats-collect) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
@@ -1368,7 +1368,7 @@
 - [intel/wireless-network-ready-intelligent-traffic-management](https://github.com/intel/wireless-network-ready-intelligent-traffic-management) topic: pushed_at:2024-06 star:0.0k fork:0.0k 
 - [intel/workflow-profiler](https://github.com/intel/workflow-profiler) topic: pushed_at:2015-09 star:0.0k fork:0.0k 
 - [intel/workloads-auto-deployment-test-tools](https://github.com/intel/workloads-auto-deployment-test-tools) topic: pushed_at:2025-04 star:0.0k fork:0.0k Intel® Toolkit for Workload Deployment & Testing 
-- [intel/wult](https://github.com/intel/wult) topic:aspm,c-states,idle,latency,linux pushed_at:2025-09 star:0.0k fork:0.0k Wult stands for "Wake Up Latency Tracer", and this is a project that provides tools for measuring C-state latency in Linux.
+- [intel/wult](https://github.com/intel/wult) topic:aspm,c-states,idle,latency,linux pushed_at:2025-10 star:0.0k fork:0.0k Wult stands for "Wake Up Latency Tracer", and this is a project that provides tools for measuring C-state latency in Linux.
 - [intel/xml-cli](https://github.com/intel/xml-cli) topic:automation,automation-framework,edk2,firmware,framework,hacktoberfest,tianocore-edk2,uefi,uefi-firmware,uefi-utilities pushed_at:2025-09 star:0.0k fork:0.0k UFFAF - UEFI Firmware Foundational Automation Framework (formerly XmlCli)
 - [intel/xom-switch](https://github.com/intel/xom-switch) topic: pushed_at:2022-08 star:0.1k fork:0.0k 
 - [intel/yoko-tool](https://github.com/intel/yoko-tool) topic: pushed_at:2025-05 star:0.0k fork:0.0k yoko-tool
@@ -1376,33 +1376,33 @@
 ## Roff
 
 - [intel/flexmalloc](https://github.com/intel/flexmalloc) topic:allocator,memory pushed_at:2025-01 star:0.0k fork:0.0k Flexible memory allocation tool for multi-tiered memory systems
-- [intel/linux-intel-lts](https://github.com/intel/linux-intel-lts) topic: pushed_at:2025-09 star:0.2k fork:0.1k Intel LTS kernel, the kernel tree is a reference tree that contains enabling for Intel CPU's that may be up-streamed in a newer kernel version. 
-- [intel/linux-intel-quilt](https://github.com/intel/linux-intel-quilt) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
-- [intel/linux-kernel-overlay](https://github.com/intel/linux-kernel-overlay) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
-- [intel/mainline-tracking](https://github.com/intel/mainline-tracking) topic: pushed_at:2025-09 star:0.1k fork:0.0k This project is hosting an upstream tracking, rebasing branch of technology and enabling development for selected Intel platforms. It will get updates following most Linus Torvalds RC releases.
+- [intel/linux-intel-lts](https://github.com/intel/linux-intel-lts) topic: pushed_at:2025-10 star:0.2k fork:0.1k Intel LTS kernel, the kernel tree is a reference tree that contains enabling for Intel CPU's that may be up-streamed in a newer kernel version. 
+- [intel/linux-intel-quilt](https://github.com/intel/linux-intel-quilt) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
+- [intel/linux-kernel-overlay](https://github.com/intel/linux-kernel-overlay) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
+- [intel/mainline-tracking](https://github.com/intel/mainline-tracking) topic: pushed_at:2025-10 star:0.1k fork:0.0k This project is hosting an upstream tracking, rebasing branch of technology and enabling development for selected Intel platforms. It will get updates following most Linus Torvalds RC releases.
 
 ## Rust
 
 - [intel/ACON](https://github.com/intel/ACON) topic: pushed_at:2025-03 star:0.1k fork:0.0k 
 - [intel/confidential-computing-tools](https://github.com/intel/confidential-computing-tools) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
-- [intel/crashlog](https://github.com/intel/crashlog) topic:cper,crash,debug,efi,intel,rust pushed_at:2025-09 star:0.0k fork:0.0k Reference implementation for decoding and extracting Intel® Crash Log Technology records.
+- [intel/crashlog](https://github.com/intel/crashlog) topic:cper,crash,debug,efi,intel,rust pushed_at:2025-10 star:0.0k fork:0.0k Reference implementation for decoding and extracting Intel® Crash Log Technology records.
 - [intel/dimgen](https://github.com/intel/dimgen) topic:docker,release-automation,rust-lang pushed_at:2023-01 star:0.0k fork:0.0k docker image sources generator.
-- [intel/dml-language-server](https://github.com/intel/dml-language-server) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
-- [intel/ittapi](https://github.com/intel/ittapi) topic: pushed_at:2025-09 star:0.1k fork:0.0k Intel® Instrumentation and Tracing Technology (ITT) and Just-In-Time (JIT) APIs
+- [intel/dml-language-server](https://github.com/intel/dml-language-server) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
+- [intel/ittapi](https://github.com/intel/ittapi) topic: pushed_at:2025-10 star:0.1k fork:0.0k Intel® Instrumentation and Tracing Technology (ITT) and Just-In-Time (JIT) APIs
 - [intel/metric-post-processor](https://github.com/intel/metric-post-processor) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
-- [intel/MigTD](https://github.com/intel/MigTD) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/MigTD](https://github.com/intel/MigTD) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/openvino-rs](https://github.com/intel/openvino-rs) topic: pushed_at:2025-08 star:0.1k fork:0.0k Rust bindings for OpenVINO™ 
 - [intel/rust-spdm](https://github.com/intel/rust-spdm) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
-- [intel/simulator-bindings](https://github.com/intel/simulator-bindings) topic:emulation,hardware,modeling-and-simulation,simulation pushed_at:2025-09 star:0.0k fork:0.0k Rust Bindings and tools for the Intel® Simics® Simulator
-- [intel/tbtools](https://github.com/intel/tbtools) topic: pushed_at:2025-09 star:0.1k fork:0.0k Thunderbolt/USB4 debugging tools
+- [intel/simulator-bindings](https://github.com/intel/simulator-bindings) topic:emulation,hardware,modeling-and-simulation,simulation pushed_at:2025-10 star:0.0k fork:0.0k Rust Bindings and tools for the Intel® Simics® Simulator
+- [intel/tbtools](https://github.com/intel/tbtools) topic: pushed_at:2025-10 star:0.1k fork:0.0k Thunderbolt/USB4 debugging tools
 - [intel/tdx-guest](https://github.com/intel/tdx-guest) topic: pushed_at:2025-05 star:0.0k fork:0.0k The tdx-guest provides a Rust implementation of Intel® Trust Domain Extensions (Intel® TDX) Guest APIs, supporting for TDX Guest specific instructions, structures and functions.
-- [intel/tsffs](https://github.com/intel/tsffs) topic:fuzzing,rust,security,simics pushed_at:2025-09 star:0.3k fork:0.0k A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS
+- [intel/tsffs](https://github.com/intel/tsffs) topic:fuzzing,rust,security,simics pushed_at:2025-10 star:0.3k fork:0.0k A snapshotting, coverage-guided fuzzer for software (UEFI, Kernel, firmware, BIOS) built on SIMICS
 - [intel/vtpm-td](https://github.com/intel/vtpm-td) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 - [intel/ztunnel](https://github.com/intel/ztunnel) topic: pushed_at:2024-11 star:0.0k fork:0.0k 
 
 ## SCSS
 
-- [intel/intel-carbon-theme](https://github.com/intel/intel-carbon-theme) topic: pushed_at:2025-09 star:0.0k fork:0.0k Intel® Carbon Theme
+- [intel/intel-carbon-theme](https://github.com/intel/intel-carbon-theme) topic: pushed_at:2025-10 star:0.0k fork:0.0k Intel® Carbon Theme
 - [intel/quantum-sdk-docs](https://github.com/intel/quantum-sdk-docs) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 
 ## Shell
@@ -1428,11 +1428,11 @@
 - [intel/esp-profile-windows](https://github.com/intel/esp-profile-windows) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [intel/Intel-Edge-AI-Performance-Evaluation-Toolkit](https://github.com/intel/Intel-Edge-AI-Performance-Evaluation-Toolkit) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [intel/intel-open-cloud-deployment-framework](https://github.com/intel/intel-open-cloud-deployment-framework) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [intel/INTEL-SA-00086-Linux-Recovery-Tools](https://github.com/intel/INTEL-SA-00086-Linux-Recovery-Tools) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
+- [intel/INTEL-SA-00086-Linux-Recovery-Tools](https://github.com/intel/INTEL-SA-00086-Linux-Recovery-Tools) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/kubevirt-gfx-sriov](https://github.com/intel/kubevirt-gfx-sriov) topic: pushed_at:2024-03 star:0.0k fork:0.0k Intel's graphics virtualization technology (Graphics SR-IOV) on cloud/edge-native infrastructure.
 - [intel/kvm-multios](https://github.com/intel/kvm-multios) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
-- [intel/lkp-tests](https://github.com/intel/lkp-tests) topic: pushed_at:2025-09 star:0.3k fork:0.2k Linux Kernel Performance tests
-- [intel/lkvs](https://github.com/intel/lkvs) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/lkp-tests](https://github.com/intel/lkp-tests) topic: pushed_at:2025-10 star:0.3k fork:0.2k Linux Kernel Performance tests
+- [intel/lkvs](https://github.com/intel/lkvs) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/media-delivery](https://github.com/intel/media-delivery) topic:cdn,docker,ffmpeg,hls,msdk,nginx,qsv,vod pushed_at:2025-04 star:0.1k fork:0.0k This collection of samples demonstrates best practices to achieve optimal video quality and performance on Intel GPUs for content delivery networks. Check out our demo, recommended command lines and quality and performance measuring tools.
 - [intel/meta-acrn](https://github.com/intel/meta-acrn) topic: pushed_at:2025-08 star:0.0k fork:0.0k Layer to integrate the ACRN hypervisor with the Yocto Project.
 - [intel/mpi](https://github.com/intel/mpi) topic: pushed_at:2025-09 star:0.0k fork:0.0k Intel® MPI Library
@@ -1442,11 +1442,11 @@
 - [intel/osadsp-crosstool-ng](https://github.com/intel/osadsp-crosstool-ng) topic: pushed_at:2018-05 star:0.0k fork:0.0k 
 - [intel/parameter-framework-samples](https://github.com/intel/parameter-framework-samples) topic: pushed_at:2022-08 star:0.0k fork:0.0k Examples and tutorials for Parameter Framework
 - [intel/pmem-perf-sweep](https://github.com/intel/pmem-perf-sweep) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [intel/program-measurement-scripts](https://github.com/intel/program-measurement-scripts) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
+- [intel/program-measurement-scripts](https://github.com/intel/program-measurement-scripts) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/retail-node-installer](https://github.com/intel/retail-node-installer) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/rni-profile-base-rancheros](https://github.com/intel/rni-profile-base-rancheros) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [intel/robot_devkit](https://github.com/intel/robot_devkit) topic: pushed_at:2023-01 star:0.1k fork:0.0k ROS2 based Intel Robot Development Kit for AMR and Industry Robot arm.
-- [intel/rohd-website](https://github.com/intel/rohd-website) topic:hardware-development,jekyll,rohd,rohd-cosim,rohd-hcl,rohd-vf,website pushed_at:2025-09 star:0.0k fork:0.0k Website and general documentation for the ROHD ecosystem.
+- [intel/rohd-website](https://github.com/intel/rohd-website) topic:hardware-development,jekyll,rohd,rohd-cosim,rohd-hcl,rohd-vf,website pushed_at:2025-10 star:0.0k fork:0.0k Website and general documentation for the ROHD ecosystem.
 - [intel/rsp-sw-toolkit-im-suite-inventory-suite](https://github.com/intel/rsp-sw-toolkit-im-suite-inventory-suite) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [intel/S0ixSelftestTool](https://github.com/intel/S0ixSelftestTool) topic: pushed_at:2025-07 star:0.2k fork:0.0k S0ix Selftest Tool is designed to do the initial debugging for the S2idle path CPU Package C-state and S0ix failures in Linux OS for Intel® Client platforms, it also supports the basic runtime PC10 status check.
 - [intel/scale-testing-for-vastdata](https://github.com/intel/scale-testing-for-vastdata) topic: pushed_at:2023-05 star:0.0k fork:0.0k 
@@ -1456,7 +1456,7 @@
 - [intel/sound-open-firmware-test-cases](https://github.com/intel/sound-open-firmware-test-cases) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [intel/stacks](https://github.com/intel/stacks) topic: pushed_at:2023-01 star:0.0k fork:0.0k The System Stacks for Linux* OS are a collection of production ready docker images for Deep Learning, Media and Storage optimized for 2nd generation Intel® Xeon® Scalable Processors.
 - [intel/VNB-main](https://github.com/intel/VNB-main) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
-- [intel/workload-services-framework](https://github.com/intel/workload-services-framework) topic: pushed_at:2025-09 star:0.1k fork:0.1k Workload Services Framework (WSF) is a benchmarking framework on Intel(R) Xeon(R) Platforms
+- [intel/workload-services-framework](https://github.com/intel/workload-services-framework) topic: pushed_at:2025-10 star:0.1k fork:0.1k Workload Services Framework (WSF) is a benchmarking framework on Intel(R) Xeon(R) Platforms
 
 ## Singularity
 
@@ -1477,17 +1477,17 @@
 
 ## TypeScript
 
-- [intel/AI-Playground](https://github.com/intel/AI-Playground) topic: pushed_at:2025-09 star:0.6k fork:0.1k AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.
+- [intel/AI-Playground](https://github.com/intel/AI-Playground) topic: pushed_at:2025-10 star:0.6k fork:0.1k AI PC starter app for doing AI image creation, image stylizing, and chatbot on a PC powered by an Intel® Arc™ GPU.
 - [intel/Edk2Code](https://github.com/intel/Edk2Code) topic: pushed_at:2025-09 star:0.0k fork:0.0k Documentation
 - [intel/gmaestro-eks-blueprints-addon](https://github.com/intel/gmaestro-eks-blueprints-addon) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [intel/ui-widget-toolkit](https://github.com/intel/ui-widget-toolkit) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
-- [intel/university-curriculum-enabling-tool](https://github.com/intel/university-curriculum-enabling-tool) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
-- [intel/vscode-oneapi-analysis-configurator](https://github.com/intel/vscode-oneapi-analysis-configurator) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/university-curriculum-enabling-tool](https://github.com/intel/university-curriculum-enabling-tool) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
+- [intel/vscode-oneapi-analysis-configurator](https://github.com/intel/vscode-oneapi-analysis-configurator) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/vscode-oneapi-devcloud-connector](https://github.com/intel/vscode-oneapi-devcloud-connector) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
-- [intel/vscode-oneapi-environment-configurator](https://github.com/intel/vscode-oneapi-environment-configurator) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/vscode-oneapi-environment-configurator](https://github.com/intel/vscode-oneapi-environment-configurator) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/vscode-oneapi-gdb-debug](https://github.com/intel/vscode-oneapi-gdb-debug) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 - [intel/vscode-quantum-sdk](https://github.com/intel/vscode-quantum-sdk) topic:intel,quantum-computing,vscode-extension pushed_at:2025-04 star:0.0k fork:0.0k The purpose of this extension is to provide language support for the Intel Quantum SDK. This includes syntax highlighting, visualization tools as well as other planned features.
-- [intel/vscode-sample-browser](https://github.com/intel/vscode-sample-browser) topic:intel-oneapi-toolkits,vscode-extension pushed_at:2025-09 star:0.0k fork:0.0k 
+- [intel/vscode-sample-browser](https://github.com/intel/vscode-sample-browser) topic:intel-oneapi-toolkits,vscode-extension pushed_at:2025-10 star:0.0k fork:0.0k 
 - [intel/vscode-tcf-debug](https://github.com/intel/vscode-tcf-debug) topic:debugger,debugger-extension,tcf,tcf-dap,vscode,vscode-extension pushed_at:2025-08 star:0.0k fork:0.0k Visual Studio Code Target Communication Framework (TCF) Debugger Extension
 
 ## Vala
