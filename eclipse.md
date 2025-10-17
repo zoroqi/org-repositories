@@ -17,7 +17,7 @@
 
 ## C
 
-- [eclipse/mraa](https://github.com/eclipse/mraa) topic:board,communication,galileo,gpio,i2c,intel-joule,io,libmraa,linux,mraa,raspberry-pi,spi pushed_at:2025-09 star:1.4k fork:0.6k Linux Library for low speed IO Communication in C with bindings for C++, Python, Node.js & Java. Supports generic io platforms, as well as Intel Edison, Intel Joule, Raspberry Pi and many more.
+- [eclipse/mraa](https://github.com/eclipse/mraa) topic:board,communication,galileo,gpio,i2c,intel-joule,io,libmraa,linux,mraa,raspberry-pi,spi pushed_at:2025-10 star:1.4k fork:0.6k Linux Library for low speed IO Communication in C with bindings for C++, Python, Node.js & Java. Supports generic io platforms, as well as Intel Edison, Intel Joule, Raspberry Pi and many more.
 
 ## C++
 
@@ -33,7 +33,7 @@
 
 - [eclipse/ConfigJSR](https://github.com/eclipse/ConfigJSR) topic: pushed_at:2023-08 star:0.0k fork:0.0k JSR382
 - [eclipse/ice](https://github.com/eclipse/ice) topic: pushed_at:2023-10 star:0.0k fork:0.1k This project has moved to: https://gitlab.eclipse.org/eclipse/ice/ice
-- [eclipse/openvsx](https://github.com/eclipse/openvsx) topic:extension,marketplace,registry,theia,vscode pushed_at:2025-09 star:1.6k fork:0.2k An open-source registry for VS Code extensions
+- [eclipse/openvsx](https://github.com/eclipse/openvsx) topic:extension,marketplace,registry,theia,vscode pushed_at:2025-10 star:1.6k fork:0.2k An open-source registry for VS Code extensions
 - [eclipse/packager](https://github.com/eclipse/packager) topic: pushed_at:2025-09 star:0.0k fork:0.0k Eclipse Packager project
 - [eclipse/Xpect](https://github.com/eclipse/Xpect) topic: pushed_at:2025-09 star:0.0k fork:0.0k This repository has been rewritten to move to the Eclipse Foundation. Find the old history here: https://github.com/TypeFox/Xpect
 
@@ -68,7 +68,7 @@
 - [eclipse/che-theia-machines-plugin](https://github.com/eclipse/che-theia-machines-plugin) topic: pushed_at:2019-01 star:0.0k fork:0.0k 
 - [eclipse/che-theia-task-plugin](https://github.com/eclipse/che-theia-task-plugin) topic: pushed_at:2019-03 star:0.0k fork:0.0k 
 - [eclipse/che-theia-terminal-extension](https://github.com/eclipse/che-theia-terminal-extension) topic: pushed_at:2019-01 star:0.0k fork:0.0k che-theia-terminal-plugin
-- [eclipse/editdor](https://github.com/eclipse/editdor) topic:iot,jsonld,web,webofthings pushed_at:2025-08 star:0.0k fork:0.0k Eclipse ediTDor - A tool for simply designing W3C Thing Descriptions
+- [eclipse/editdor](https://github.com/eclipse/editdor) topic:iot,jsonld,web,webofthings pushed_at:2025-10 star:0.0k fork:0.0k Eclipse ediTDor - A tool for simply designing W3C Thing Descriptions
 
 
 ## License
