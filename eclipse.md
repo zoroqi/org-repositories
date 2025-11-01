@@ -27,7 +27,7 @@
 
 - [eclipse/dash-website](https://github.com/eclipse/dash-website) topic: pushed_at:2021-04 star:0.0k fork:0.0k Project Dash is a place where the community itself can collaborate on tools for community awareness and collaboration in support of our ultimate objective of committer quality and cooperation. This is very much a research project as we are not entirely sure what these tools will be.
 - [eclipse/eclipse.github.com](https://github.com/eclipse/eclipse.github.com) topic: pushed_at:2024-01 star:0.0k fork:0.0k eclipse.github.com site
-- [eclipse/packages-website](https://github.com/eclipse/packages-website) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
+- [eclipse/packages-website](https://github.com/eclipse/packages-website) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 
 ## Java
 
@@ -54,7 +54,7 @@
 
 ## Smarty
 
-- [eclipse/packages](https://github.com/eclipse/packages) topic:eclipse,iot pushed_at:2025-07 star:0.0k fork:0.1k IoT Packages project
+- [eclipse/packages](https://github.com/eclipse/packages) topic:eclipse,iot pushed_at:2025-10 star:0.0k fork:0.1k IoT Packages project
 
 ## TypeScript
 

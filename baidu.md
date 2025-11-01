@@ -92,11 +92,11 @@
 - [baidu/iotcore-sdk-java](https://github.com/baidu/iotcore-sdk-java) topic: pushed_at:2023-05 star:0.0k fork:0.0k Java SDK  for baidu IoT Core service 
 - [baidu/ipipe-agent](https://github.com/baidu/ipipe-agent) topic: pushed_at:2020-10 star:0.0k fork:0.0k 
 - [baidu/Jprotobuf-rpc-socket](https://github.com/baidu/Jprotobuf-rpc-socket) topic: pushed_at:2024-02 star:0.5k fork:0.2k Protobuf RPC是一种基于TCP协议的二进制RPC通信协议的Java实现
-- [baidu/mochow-sdk-java](https://github.com/baidu/mochow-sdk-java) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
+- [baidu/mochow-sdk-java](https://github.com/baidu/mochow-sdk-java) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [baidu/OASP](https://github.com/baidu/OASP) topic: pushed_at:2017-11 star:0.0k fork:0.0k OASP (Online App Status Protocol)
 - [baidu/smartapp-openapi-java](https://github.com/baidu/smartapp-openapi-java) topic: pushed_at:2023-03 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for java，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
 - [baidu/speech-samples](https://github.com/baidu/speech-samples) topic: pushed_at:2018-02 star:0.1k fork:0.0k 百度语音示例
-- [baidu/starlight](https://github.com/baidu/starlight) topic:brpc,high-performance,microservice,netty,protobuf,rpc,spring-boot,spring-cloud pushed_at:2025-09 star:1.0k fork:0.3k Java implementation for Baidu RPC, multi-protocol & high performance RPC.
+- [baidu/starlight](https://github.com/baidu/starlight) topic:brpc,high-performance,microservice,netty,protobuf,rpc,spring-boot,spring-cloud pushed_at:2025-10 star:1.0k fork:0.3k Java implementation for Baidu RPC, multi-protocol & high performance RPC.
 - [baidu/terminator](https://github.com/baidu/terminator) topic: pushed_at:2016-11 star:0.1k fork:0.0k Service Virtualization
 - [baidu/titan-dex](https://github.com/baidu/titan-dex) topic: pushed_at:2023-08 star:0.2k fork:0.0k 
 - [baidu/titan-hotfix](https://github.com/baidu/titan-hotfix) topic: pushed_at:2022-05 star:0.1k fork:0.0k 
@@ -114,7 +114,7 @@
 - [baidu/NoahV](https://github.com/baidu/NoahV) topic:aiops,dashboard,devops,efficient,framework,monitor,noahv,scaffold,template,visualization,vue,vuejs pushed_at:2023-03 star:0.6k fork:0.1k An efficient front-end application framework based on vue.js
 - [baidu/QComputeSDK-TS](https://github.com/baidu/QComputeSDK-TS) topic: pushed_at:2023-01 star:0.0k fork:0.0k QComputeSDK-TypeScript is the TypeScript version of QCompute, the quantum development kit of Quantum Leaf ( https://quantum-hub.baidu.com ). 
 - [baidu/san](https://github.com/baidu/san) topic:component,framework,frontend,javascript,mvvm,san pushed_at:2025-09 star:4.7k fork:0.6k A fast, portable, flexible JavaScript component framework
-- [baidu/san-composition](https://github.com/baidu/san-composition) topic: pushed_at:2022-11 star:0.0k fork:0.0k 
+- [baidu/san-composition](https://github.com/baidu/san-composition) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [baidu/san-factory](https://github.com/baidu/san-factory) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
 - [baidu/san-router](https://github.com/baidu/san-router) topic:san pushed_at:2023-12 star:0.0k fork:0.0k Official Router for San
 - [baidu/san-store](https://github.com/baidu/san-store) topic:appstate,san pushed_at:2025-01 star:0.1k fork:0.0k Application States Management for San

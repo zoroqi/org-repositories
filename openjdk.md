@@ -42,7 +42,7 @@
 
 ## Java
 
-- [openjdk/aarch32-port-jdk8u](https://github.com/openjdk/aarch32-port-jdk8u) topic: pushed_at:2025-09 star:0.0k fork:0.0k https://openjdk.org/projects/aarch32-port
+- [openjdk/aarch32-port-jdk8u](https://github.com/openjdk/aarch32-port-jdk8u) topic: pushed_at:2025-10 star:0.0k fork:0.0k https://openjdk.org/projects/aarch32-port
 - [openjdk/aarch64-port](https://github.com/openjdk/aarch64-port) topic: pushed_at:2025-10 star:0.1k fork:0.0k Port: AArch64 Project
 - [openjdk/amber](https://github.com/openjdk/amber) topic: pushed_at:2025-10 star:0.2k fork:0.1k https://openjdk.org/projects/amber
 - [openjdk/apidiff](https://github.com/openjdk/apidiff) topic: pushed_at:2025-10 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/apidiff
@@ -56,11 +56,11 @@
 - [openjdk/galahad](https://github.com/openjdk/galahad) topic: pushed_at:2025-10 star:0.0k fork:0.0k https://openjdk.org/projects/galahad
 - [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2025-10 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2025-06 star:0.5k fork:0.1k https://openjdk.org/projects/code-tools/jcstress
-- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2025-10 star:21.9k fork:6.1k JDK main-line development https://openjdk.org/projects/jdk
+- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2025-10 star:22.0k fork:6.1k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2025-10 star:0.1k fork:0.1k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
-- [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2025-09 star:0.2k fork:0.2k https://openjdk.org/projects/jdk-updates
-- [openjdk/jdk11u-dev](https://github.com/openjdk/jdk11u-dev) topic: pushed_at:2025-10 star:0.1k fork:0.2k https://openjdk.org/projects/jdk-updates
+- [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2025-10 star:0.2k fork:0.2k https://openjdk.org/projects/jdk-updates
+- [openjdk/jdk11u-dev](https://github.com/openjdk/jdk11u-dev) topic: pushed_at:2025-10 star:0.1k fork:0.3k https://openjdk.org/projects/jdk-updates
 - [openjdk/jdk11u-ri](https://github.com/openjdk/jdk11u-ri) topic: pushed_at:2024-10 star:0.0k fork:0.0k JSR 384 Reference Implementation (Java SE 11) [not for production use]
 - [openjdk/jdk12u](https://github.com/openjdk/jdk12u) topic: pushed_at:2020-10 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates last released 2019-07-16
 - [openjdk/jdk13](https://github.com/openjdk/jdk13) topic: pushed_at:2020-07 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/13 released 2019-09-17
@@ -97,7 +97,7 @@
 - [openjdk/jdk7](https://github.com/openjdk/jdk7) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk7 released 2011-07-28
 - [openjdk/jdk7u](https://github.com/openjdk/jdk7u) topic: pushed_at:2022-07 star:0.0k fork:0.0k https://wiki.openjdk.org/display/jdk7u last released 2022-07-19
 - [openjdk/jdk8](https://github.com/openjdk/jdk8) topic: pushed_at:2021-02 star:0.1k fork:0.1k https://openjdk.org/projects/jdk8 released 2014-03-18
-- [openjdk/jdk8u](https://github.com/openjdk/jdk8u) topic: pushed_at:2025-09 star:0.3k fork:0.2k https://wiki.openjdk.org/display/jdk8u
+- [openjdk/jdk8u](https://github.com/openjdk/jdk8u) topic: pushed_at:2025-10 star:0.3k fork:0.2k https://wiki.openjdk.org/display/jdk8u
 - [openjdk/jdk8u-dev](https://github.com/openjdk/jdk8u-dev) topic: pushed_at:2025-10 star:0.1k fork:0.2k https://wiki.openjdk.org/display/jdk8u
 - [openjdk/jdk8u-ri](https://github.com/openjdk/jdk8u-ri) topic: pushed_at:2024-10 star:0.0k fork:0.0k JSR 337 Reference Implementation (Java SE 8) [not for production use]
 - [openjdk/jdk9](https://github.com/openjdk/jdk9) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk9 released 2017-09-21
@@ -115,7 +115,7 @@
 - [openjdk/jtreg](https://github.com/openjdk/jtreg) topic: pushed_at:2025-10 star:0.1k fork:0.1k https://openjdk.org/projects/code-tools/jtreg
 - [openjdk/lanai](https://github.com/openjdk/lanai) topic: pushed_at:2021-03 star:0.0k fork:0.0k https://openjdk.org/projects/lanai
 - [openjdk/leyden](https://github.com/openjdk/leyden) topic: pushed_at:2025-10 star:0.2k fork:0.1k https://openjdk.org/projects/leyden
-- [openjdk/lilliput](https://github.com/openjdk/lilliput) topic: pushed_at:2025-09 star:0.1k fork:0.0k https://openjdk.org/projects/lilliput
+- [openjdk/lilliput](https://github.com/openjdk/lilliput) topic: pushed_at:2025-10 star:0.1k fork:0.0k https://openjdk.org/projects/lilliput
 - [openjdk/lilliput-jdk17u](https://github.com/openjdk/lilliput-jdk17u) topic: pushed_at:2025-10 star:0.0k fork:0.0k https://openjdk.org/projects/lilliput
 - [openjdk/lilliput-jdk21u](https://github.com/openjdk/lilliput-jdk21u) topic: pushed_at:2025-10 star:0.0k fork:0.0k https://openjdk.org/projects/lilliput
 - [openjdk/lilliput-jdk25u](https://github.com/openjdk/lilliput-jdk25u) topic: pushed_at:2025-10 star:0.0k fork:0.0k https://openjdk.org/projects/lilliput
@@ -125,7 +125,7 @@
 - [openjdk/nashorn](https://github.com/openjdk/nashorn) topic: pushed_at:2025-08 star:0.5k fork:0.0k https://openjdk.org/projects/nashorn
 - [openjdk/panama-foreign](https://github.com/openjdk/panama-foreign) topic: pushed_at:2025-10 star:0.3k fork:0.1k https://openjdk.org/projects/panama
 - [openjdk/panama-vector](https://github.com/openjdk/panama-vector) topic: pushed_at:2025-10 star:0.1k fork:0.0k https://openjdk.org/projects/panama
-- [openjdk/playground](https://github.com/openjdk/playground) topic: pushed_at:2025-09 star:0.0k fork:0.0k Repository for experimenting. May be synced and/or reset at any time without notice.
+- [openjdk/playground](https://github.com/openjdk/playground) topic: pushed_at:2025-10 star:0.0k fork:0.0k Repository for experimenting. May be synced and/or reset at any time without notice.
 - [openjdk/portola](https://github.com/openjdk/portola) topic: pushed_at:2022-03 star:0.0k fork:0.0k https://openjdk.org/projects/portola
 - [openjdk/riscv-port](https://github.com/openjdk/riscv-port) topic: pushed_at:2025-10 star:0.1k fork:0.0k https://openjdk.org/projects/riscv-port
 - [openjdk/riscv-port-jdk11u](https://github.com/openjdk/riscv-port-jdk11u) topic: pushed_at:2025-10 star:0.0k fork:0.0k https://openjdk.org/projects/riscv-port
@@ -137,7 +137,7 @@
 - [openjdk/shenandoah-jdk8u-dev](https://github.com/openjdk/shenandoah-jdk8u-dev) topic: pushed_at:2022-02 star:0.0k fork:0.0k https://openjdk.org/projects/shenandoah
 - [openjdk/shenandoah-visualizer](https://github.com/openjdk/shenandoah-visualizer) topic: pushed_at:2025-07 star:0.1k fork:0.0k https://openjdk.org/projects/shenandoah
 - [openjdk/sigtest](https://github.com/openjdk/sigtest) topic: pushed_at:2024-08 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/sigtest
-- [openjdk/skara](https://github.com/openjdk/skara) topic:git,hg,java,openjdk,skara pushed_at:2025-09 star:0.2k fork:0.1k https://openjdk.org/projects/skara
+- [openjdk/skara](https://github.com/openjdk/skara) topic:git,hg,java,openjdk,skara pushed_at:2025-10 star:0.2k fork:0.1k https://openjdk.org/projects/skara
 - [openjdk/tsan](https://github.com/openjdk/tsan) topic: pushed_at:2025-10 star:0.0k fork:0.0k https://openjdk.org/projects/tsan
 - [openjdk/valhalla](https://github.com/openjdk/valhalla) topic: pushed_at:2025-10 star:0.6k fork:0.1k https://openjdk.org/projects/valhalla
 - [openjdk/wakefield](https://github.com/openjdk/wakefield) topic: pushed_at:2025-10 star:0.2k fork:0.0k https://openjdk.org/projects/wakefield

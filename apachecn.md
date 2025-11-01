@@ -33,7 +33,7 @@
 
 ## CSS
 
-- [apachecn/.github](https://github.com/apachecn/.github) topic:dl,ml,python,pytorch,solidity,spark pushed_at:2024-08 star:1.8k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
+- [apachecn/.github](https://github.com/apachecn/.github) topic:dl,ml,python,pytorch,solidity,spark pushed_at:2025-10 star:1.8k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [apachecn/airflow-doc-zh](https://github.com/apachecn/airflow-doc-zh) topic:airflow pushed_at:2023-07 star:0.2k fork:0.1k :book: [译] Airflow 中文文档
 - [apachecn/android-app-sec-guidebook-zh](https://github.com/apachecn/android-app-sec-guidebook-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/business-5min-notes](https://github.com/apachecn/business-5min-notes) topic:business,liurun,notes pushed_at:2021-01 star:0.1k fork:0.0k :book: 5 分钟商学院精细笔记
@@ -556,7 +556,7 @@
 - [apachecn/ArticleGenerationVideo-V1.0](https://github.com/apachecn/ArticleGenerationVideo-V1.0) topic: pushed_at:2020-10 star:0.0k fork:0.0k 基于Moviepy的图文一键生成视频V1.0版本附教程和作品，需要手动确认文案的标题和正文，提前制作封面以及视频的开头、背景、结果、水印等相关素材。
 - [apachecn/asn1c](https://github.com/apachecn/asn1c) topic: pushed_at:2020-09 star:0.0k fork:0.0k The ASN.1 Compiler
 - [apachecn/asuswrt-merlin.ng](https://github.com/apachecn/asuswrt-merlin.ng) topic: pushed_at:2021-07 star:0.0k fork:0.0k Third party firmware for Asus routers (newer codebase)
-- [apachecn/atguigu-coursewares](https://github.com/apachecn/atguigu-coursewares) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
+- [apachecn/atguigu-coursewares](https://github.com/apachecn/atguigu-coursewares) topic: pushed_at:2022-03 star:0.1k fork:0.0k 
 - [apachecn/auto-arknights](https://github.com/apachecn/auto-arknights) topic: pushed_at:2020-04 star:0.0k fork:0.0k 明日方舟自动刷图脚本
 - [apachecn/autocomplete](https://github.com/apachecn/autocomplete) topic: pushed_at:2022-08 star:0.0k fork:0.0k Fig adds autocomplete to your terminal.
 - [apachecn/autocut](https://github.com/apachecn/autocut) topic: pushed_at:2023-06 star:0.0k fork:0.0k 用文本编辑器剪视频
@@ -788,7 +788,7 @@
 - [apachecn/huazhang-ai-book](https://github.com/apachecn/huazhang-ai-book) topic: pushed_at:2023-01 star:0.0k fork:0.0k :books: 华章智能科学技术丛书
 - [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.8k fork:0.3k :books: 华章计算机科学丛书高清扫描
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) topic: pushed_at:2023-02 star:0.1k fork:0.0k :book: 华章经管丛书高清扫描
-- [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.4k fork:0.2k :books: 华章数学丛书高清扫描
+- [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.5k fork:0.2k :books: 华章数学丛书高清扫描
 - [apachecn/huggingface-doc-zh](https://github.com/apachecn/huggingface-doc-zh) topic: pushed_at:2025-09 star:0.0k fork:0.0k Hugging Face - 文档库(中文版)
 - [apachecn/hugo-PaperModX](https://github.com/apachecn/hugo-PaperModX) topic: pushed_at:2023-04 star:0.0k fork:0.0k A fast, clean, responsive Hugo theme.
 - [apachecn/igetget](https://github.com/apachecn/igetget) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
@@ -989,7 +989,7 @@
 - [apachecn/PD-Runner-Revived](https://github.com/apachecn/PD-Runner-Revived) topic: pushed_at:2022-11 star:0.0k fork:0.0k PD-Runner (Parallels Desktop) 补档
 - [apachecn/PeiQi-WIKI-POC](https://github.com/apachecn/PeiQi-WIKI-POC) topic: pushed_at:2021-07 star:0.0k fork:0.0k 鹿不在侧，鲸不予游🐋
 - [apachecn/pelican-themes](https://github.com/apachecn/pelican-themes) topic: pushed_at:2022-10 star:0.0k fork:0.0k Themes for Pelican
-- [apachecn/phei-cs-book](https://github.com/apachecn/phei-cs-book) topic: pushed_at:2023-02 star:0.2k fork:0.1k :books: 电子工业国外计算机教材丛书
+- [apachecn/phei-cs-book](https://github.com/apachecn/phei-cs-book) topic: pushed_at:2023-02 star:0.3k fork:0.1k :books: 电子工业国外计算机教材丛书
 - [apachecn/phoenix-doc-zh](https://github.com/apachecn/phoenix-doc-zh) topic: pushed_at:2019-04 star:0.0k fork:0.0k Phoenix 中文文档翻译计划
 - [apachecn/Planning-based-Hierarchical-Variational-Model](https://github.com/apachecn/Planning-based-Hierarchical-Variational-Model) topic: pushed_at:2020-04 star:0.0k fork:0.0k Dataset and code for ``Long and Diverse Text Generation with Planning-based Hierarchical Variational Model (EMNLP 2019)``
 - [apachecn/PlayCover](https://github.com/apachecn/PlayCover) topic: pushed_at:2023-06 star:0.0k fork:0.0k Community fork of PlayCover
