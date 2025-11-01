@@ -8,23 +8,23 @@
 
 - [C#](#c#) (2)
 - [CSS](#css) (1)
-- [Dockerfile](#dockerfile) (4)
+- [Dockerfile](#dockerfile) (5)
 - [Go](#go) (303)
 - [HCL](#hcl) (3)
-- [HTML](#html) (29)
+- [HTML](#html) (30)
 - [Java](#java) (17)
 - [JavaScript](#javascript) (13)
 - [Jupyter Notebook](#jupyter-notebook) (1)
 - [Kotlin](#kotlin) (1)
-- [Others](#others) (48)
+- [Others](#others) (46)
 - [PLpgSQL](#plpgsql) (1)
 - [PowerShell](#powershell) (8)
 - [Python](#python) (4)
 - [R](#r) (1)
-- [Ruby](#ruby) (43)
+- [Ruby](#ruby) (42)
 - [Rust](#rust) (1)
 - [SCSS](#scss) (1)
-- [Shell](#shell) (71)
+- [Shell](#shell) (72)
 - [TypeScript](#typescript) (1)
 - [Vim Script](#vim-script) (2)
 
@@ -42,7 +42,8 @@
 - [cloudfoundry/cf-k8s-logging-fluent](https://github.com/cloudfoundry/cf-k8s-logging-fluent) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [cloudfoundry/cf-k8s-prometheus](https://github.com/cloudfoundry/cf-k8s-prometheus) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
 - [cloudfoundry/cflinuxfs3](https://github.com/cloudfoundry/cflinuxfs3) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
-- [cloudfoundry/cflinuxfs4](https://github.com/cloudfoundry/cflinuxfs4) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
+- [cloudfoundry/cflinuxfs4](https://github.com/cloudfoundry/cflinuxfs4) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
+- [cloudfoundry/cflinuxfs5](https://github.com/cloudfoundry/cflinuxfs5) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 
 ## Go
 
@@ -71,8 +72,8 @@
 - [cloudfoundry/bosh-bootloader](https://github.com/cloudfoundry/bosh-bootloader) topic:bbl,bootloader,bosh,cloud-foundry,gcp pushed_at:2025-10 star:0.2k fork:0.2k Command line utility for standing up a BOSH director on an IAAS of your choice.
 - [cloudfoundry/bosh-cli](https://github.com/cloudfoundry/bosh-cli) topic: pushed_at:2025-10 star:0.2k fork:0.2k BOSH CLI v2+
 - [cloudfoundry/bosh-compile-action](https://github.com/cloudfoundry/bosh-compile-action) topic: pushed_at:2023-11 star:0.0k fork:0.0k 
-- [cloudfoundry/bosh-cpi-go](https://github.com/cloudfoundry/bosh-cpi-go) topic: pushed_at:2025-09 star:0.0k fork:0.0k Library for developing BOSH CPIs in Go
-- [cloudfoundry/bosh-davcli](https://github.com/cloudfoundry/bosh-davcli) topic: pushed_at:2025-09 star:0.0k fork:0.0k Dav CLI for BOSH
+- [cloudfoundry/bosh-cpi-go](https://github.com/cloudfoundry/bosh-cpi-go) topic: pushed_at:2025-10 star:0.0k fork:0.0k Library for developing BOSH CPIs in Go
+- [cloudfoundry/bosh-davcli](https://github.com/cloudfoundry/bosh-davcli) topic: pushed_at:2025-10 star:0.0k fork:0.0k Dav CLI for BOSH
 - [cloudfoundry/bosh-deployment-resource](https://github.com/cloudfoundry/bosh-deployment-resource) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
 - [cloudfoundry/bosh-disaster-recovery-acceptance-tests](https://github.com/cloudfoundry/bosh-disaster-recovery-acceptance-tests) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [cloudfoundry/bosh-dns-release](https://github.com/cloudfoundry/bosh-dns-release) topic: pushed_at:2025-10 star:0.0k fork:0.0k BOSH DNS release
@@ -86,7 +87,7 @@
 - [cloudfoundry/bosh-softlayer-cpi-release](https://github.com/cloudfoundry/bosh-softlayer-cpi-release) topic:bosh,bosh-cpi,bosh-release,bosh-softlayer-cpi,cloud-foundry pushed_at:2020-09 star:0.0k fork:0.0k An external BOSH CPI for the SoftLayer cloud written in Golang
 - [cloudfoundry/bosh-system-metrics-forwarder-release](https://github.com/cloudfoundry/bosh-system-metrics-forwarder-release) topic:cff-wg-app-runtime-platform pushed_at:2024-08 star:0.0k fork:0.0k 
 - [cloudfoundry/bosh-system-metrics-server-release](https://github.com/cloudfoundry/bosh-system-metrics-server-release) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
-- [cloudfoundry/bosh-utils](https://github.com/cloudfoundry/bosh-utils) topic: pushed_at:2025-09 star:0.0k fork:0.0k Generic packages extracted from bosh-agent and bosh-init
+- [cloudfoundry/bosh-utils](https://github.com/cloudfoundry/bosh-utils) topic: pushed_at:2025-10 star:0.0k fork:0.0k Generic packages extracted from bosh-agent and bosh-init
 - [cloudfoundry/bosh-virtualbox-cpi-release](https://github.com/cloudfoundry/bosh-virtualbox-cpi-release) topic: pushed_at:2024-12 star:0.0k fork:0.0k BOSH VirtualBox CPI
 - [cloudfoundry/bosh-warden-cpi-release](https://github.com/cloudfoundry/bosh-warden-cpi-release) topic: pushed_at:2025-10 star:0.0k fork:0.0k BOSH Garden (used to be Warden) CPI
 - [cloudfoundry/bosh-windows-stemcell-builder](https://github.com/cloudfoundry/bosh-windows-stemcell-builder) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
@@ -142,7 +143,7 @@
 - [cloudfoundry/credhub-acceptance-tests](https://github.com/cloudfoundry/credhub-acceptance-tests) topic:bosh,cloudfoundry,credential-manager,credhub pushed_at:2025-10 star:0.0k fork:0.0k This repo provides acceptance tests for CredHub
 - [cloudfoundry/credhub-cli](https://github.com/cloudfoundry/credhub-cli) topic:bosh,cf-extensions,cloudfoundry,credential-manager,credhub pushed_at:2025-10 star:0.0k fork:0.0k CredHub CLI provides a command line interface to interact with CredHub servers
 - [cloudfoundry/credhub-perf-release](https://github.com/cloudfoundry/credhub-perf-release) topic: pushed_at:2017-09 star:0.0k fork:0.0k 
-- [cloudfoundry/csb-brokerpak-aws](https://github.com/cloudfoundry/csb-brokerpak-aws) topic:cff-wg-service-management pushed_at:2025-10 star:0.0k fork:0.0k 
+- [cloudfoundry/csb-brokerpak-aws](https://github.com/cloudfoundry/csb-brokerpak-aws) topic:cff-wg-service-management pushed_at:2025-11 star:0.0k fork:0.0k 
 - [cloudfoundry/csb-brokerpak-azure](https://github.com/cloudfoundry/csb-brokerpak-azure) topic:cff-wg-service-management pushed_at:2025-10 star:0.0k fork:0.0k 
 - [cloudfoundry/csb-brokerpak-gcp](https://github.com/cloudfoundry/csb-brokerpak-gcp) topic:cff-wg-service-management pushed_at:2025-10 star:0.0k fork:0.0k 
 - [cloudfoundry/dagger](https://github.com/cloudfoundry/dagger) topic: pushed_at:2023-07 star:0.0k fork:0.0k 
@@ -248,7 +249,7 @@
 - [cloudfoundry/mapfs](https://github.com/cloudfoundry/mapfs) topic:cff-wg-service-management pushed_at:2024-09 star:0.0k fork:0.0k 
 - [cloudfoundry/mapfs-release](https://github.com/cloudfoundry/mapfs-release) topic:cff-wg-service-management pushed_at:2025-04 star:0.0k fork:0.0k BOSH release with mapfs, allows uid/gid mapping at the path
 - [cloudfoundry/metric-proxy](https://github.com/cloudfoundry/metric-proxy) topic: pushed_at:2021-06 star:0.0k fork:0.0k Translates Kubelet metrics into the log-cache API
-- [cloudfoundry/metric-store-release](https://github.com/cloudfoundry/metric-store-release) topic: pushed_at:2025-06 star:0.0k fork:0.0k Metric Store: A Cloud-Native Time Series Database for Cloud Foundry
+- [cloudfoundry/metric-store-release](https://github.com/cloudfoundry/metric-store-release) topic: pushed_at:2025-10 star:0.0k fork:0.0k Metric Store: A Cloud-Native Time Series Database for Cloud Foundry
 - [cloudfoundry/metrics-discovery-release](https://github.com/cloudfoundry/metrics-discovery-release) topic:cff-wg-app-runtime-platform pushed_at:2025-06 star:0.0k fork:0.0k BOSH Release to discover Prometheus-formatted metric endpoints in Cloud Foundry
 - [cloudfoundry/migrate_mysql_to_credhub](https://github.com/cloudfoundry/migrate_mysql_to_credhub) topic:cff-wg-service-management pushed_at:2024-12 star:0.0k fork:0.0k A go tool to migrate broker data from mysql to credhub
 - [cloudfoundry/multiapps-cli-plugin](https://github.com/cloudfoundry/multiapps-cli-plugin) topic: pushed_at:2025-10 star:0.1k fork:0.0k A CLI plugin for Multi-Target Application (MTA) operations in Cloud Foundry
@@ -278,12 +279,12 @@
 - [cloudfoundry/procfile-cnb](https://github.com/cloudfoundry/procfile-cnb) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
 - [cloudfoundry/python-buildpack](https://github.com/cloudfoundry/python-buildpack) topic:v2b pushed_at:2025-10 star:0.1k fork:0.3k Cloud Foundry buildpack for the Python Language
 - [cloudfoundry/r-buildpack](https://github.com/cloudfoundry/r-buildpack) topic:v2b pushed_at:2025-10 star:0.0k fork:0.0k Cloud Foundry buildpack for R
-- [cloudfoundry/rep](https://github.com/cloudfoundry/rep) topic:cff-wg-app-runtime-platform pushed_at:2025-08 star:0.0k fork:0.0k Representative bids on tasks and schedules them on an associated Executor
+- [cloudfoundry/rep](https://github.com/cloudfoundry/rep) topic:cff-wg-app-runtime-platform pushed_at:2025-10 star:0.0k fork:0.0k Representative bids on tasks and schedules them on an associated Executor
 - [cloudfoundry/resolvconf-manager](https://github.com/cloudfoundry/resolvconf-manager) topic: pushed_at:2021-11 star:0.0k fork:0.0k 
 - [cloudfoundry/route-emitter](https://github.com/cloudfoundry/route-emitter) topic:cff-wg-app-runtime-platform pushed_at:2025-09 star:0.0k fork:0.0k Registers and unregisters processes running on executors with the gorouter
 - [cloudfoundry/route-registrar](https://github.com/cloudfoundry/route-registrar) topic:cff-wg-app-runtime-platform pushed_at:2025-04 star:0.0k fork:0.0k A standalone executable written in golang that continuously broadcasts a route using NATS to the CF router.
 - [cloudfoundry/routing-acceptance-tests](https://github.com/cloudfoundry/routing-acceptance-tests) topic:cff-wg-app-runtime-platform pushed_at:2025-02 star:0.0k fork:0.0k 
-- [cloudfoundry/routing-api](https://github.com/cloudfoundry/routing-api) topic:cff-wg-app-runtime-platform pushed_at:2025-08 star:0.0k fork:0.0k 
+- [cloudfoundry/routing-api](https://github.com/cloudfoundry/routing-api) topic:cff-wg-app-runtime-platform pushed_at:2025-10 star:0.0k fork:0.0k 
 - [cloudfoundry/routing-api-cli](https://github.com/cloudfoundry/routing-api-cli) topic:cff-wg-app-runtime-platform pushed_at:2025-02 star:0.0k fork:0.0k 
 - [cloudfoundry/routing-info](https://github.com/cloudfoundry/routing-info) topic:cff-wg-app-runtime-platform pushed_at:2025-01 star:0.0k fork:0.0k Routing information helpers for CF / Diego
 - [cloudfoundry/routing-release](https://github.com/cloudfoundry/routing-release) topic:bosh-release,cff-wg-app-runtime-platform,cloudfoundry,routing-release pushed_at:2025-10 star:0.2k fork:0.1k This is the BOSH release for cloud foundry routers
@@ -305,7 +306,7 @@
 - [cloudfoundry/smb-volume-release](https://github.com/cloudfoundry/smb-volume-release) topic:cff-wg-service-management pushed_at:2025-10 star:0.0k fork:0.0k BOSH release with SMB driver and broker
 - [cloudfoundry/smbbroker](https://github.com/cloudfoundry/smbbroker) topic:cff-wg-service-management pushed_at:2024-09 star:0.0k fork:0.0k 
 - [cloudfoundry/smbdriver](https://github.com/cloudfoundry/smbdriver) topic:cff-wg-service-management pushed_at:2024-09 star:0.0k fork:0.0k 
-- [cloudfoundry/socks5-proxy](https://github.com/cloudfoundry/socks5-proxy) topic: pushed_at:2025-09 star:0.1k fork:0.0k This is a go library for starting a socks5 proxy server via SSH
+- [cloudfoundry/socks5-proxy](https://github.com/cloudfoundry/socks5-proxy) topic: pushed_at:2025-11 star:0.1k fork:0.0k This is a go library for starting a socks5 proxy server via SSH
 - [cloudfoundry/sonde-go](https://github.com/cloudfoundry/sonde-go) topic: pushed_at:2025-10 star:0.0k fork:0.0k Go implementation of Cloud Foundry's Dropsonde Protocol
 - [cloudfoundry/spring-auto-reconfiguration-cnb](https://github.com/cloudfoundry/spring-auto-reconfiguration-cnb) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
 - [cloudfoundry/spring-boot-cnb](https://github.com/cloudfoundry/spring-boot-cnb) topic: pushed_at:2020-03 star:0.0k fork:0.0k 
@@ -360,6 +361,7 @@
 
 - [cloudfoundry/bosh-backup-and-restore-test-releases](https://github.com/cloudfoundry/bosh-backup-and-restore-test-releases) topic: pushed_at:2023-09 star:0.0k fork:0.0k Test Releases for bosh-backup-and-restore
 - [cloudfoundry/buildpacks-ci](https://github.com/cloudfoundry/buildpacks-ci) topic: pushed_at:2025-10 star:0.0k fork:0.0k Concourse CI pipelines for the buildpacks team
+- [cloudfoundry/capi-release](https://github.com/cloudfoundry/capi-release) topic:bosh,bosh-release,cloudfoundry pushed_at:2025-10 star:0.0k fork:0.1k Bosh Release for Cloud Controller and friends
 - [cloudfoundry/cf-networking-onboarding](https://github.com/cloudfoundry/cf-networking-onboarding) topic: pushed_at:2025-05 star:0.0k fork:0.0k Onboarding materials for new contributors in the routing/networking area of CF
 - [cloudfoundry/cf-performance-tests-release](https://github.com/cloudfoundry/cf-performance-tests-release) topic: pushed_at:2025-05 star:0.0k fork:0.0k BOSH errand for running cf-performance-tests
 - [cloudfoundry/cf-smoke-tests-release](https://github.com/cloudfoundry/cf-smoke-tests-release) topic:cff-wg-app-runtime-deployments pushed_at:2025-10 star:0.0k fork:0.0k 
@@ -404,7 +406,7 @@
 - [cloudfoundry/java-buildpack-support](https://github.com/cloudfoundry/java-buildpack-support) topic: pushed_at:2023-01 star:0.0k fork:0.0k Supporting functionality for the Java Buildpack
 - [cloudfoundry/java-buildpack-system-test](https://github.com/cloudfoundry/java-buildpack-system-test) topic: pushed_at:2025-08 star:0.0k fork:0.0k System tests for the Java Buildpack
 - [cloudfoundry/java-test-applications](https://github.com/cloudfoundry/java-test-applications) topic: pushed_at:2025-02 star:0.0k fork:0.1k Applications used for testing the Java buildpack
-- [cloudfoundry/multiapps](https://github.com/cloudfoundry/multiapps) topic: pushed_at:2025-09 star:0.0k fork:0.0k Parsers, validators, persistence and utilities for Multi-Target Application (MTA) models.
+- [cloudfoundry/multiapps](https://github.com/cloudfoundry/multiapps) topic: pushed_at:2025-10 star:0.0k fork:0.0k Parsers, validators, persistence and utilities for Multi-Target Application (MTA) models.
 - [cloudfoundry/multiapps-controller](https://github.com/cloudfoundry/multiapps-controller) topic: pushed_at:2025-10 star:0.1k fork:0.0k The server side component (controller) for Multi-Target Application (MTA) for Cloud Foundry
 - [cloudfoundry/uaa](https://github.com/cloudfoundry/uaa) topic:java,oauth,oauth2,oauth2-server,oidc,oidc-proxy,oidc-server,openid-connect pushed_at:2025-10 star:1.6k fork:0.8k CloudFoundry User Account and Authentication (UAA) Server
 
@@ -436,7 +438,7 @@
 
 - [cloudfoundry/.github](https://github.com/cloudfoundry/.github) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 - [cloudfoundry/binary-buildpack-release](https://github.com/cloudfoundry/binary-buildpack-release) topic: pushed_at:2025-07 star:0.0k fork:0.0k BOSH release for Binary Buildpack
-- [cloudfoundry/bosh-agent-index](https://github.com/cloudfoundry/bosh-agent-index) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
+- [cloudfoundry/bosh-agent-index](https://github.com/cloudfoundry/bosh-agent-index) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [cloudfoundry/bosh-common](https://github.com/cloudfoundry/bosh-common) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [cloudfoundry/bosh-compiled-releases-index](https://github.com/cloudfoundry/bosh-compiled-releases-index) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
 - [cloudfoundry/bosh-io-releases-index](https://github.com/cloudfoundry/bosh-io-releases-index) topic: pushed_at:2025-10 star:0.0k fork:0.0k Index of all release assets
@@ -452,8 +454,6 @@
 - [cloudfoundry/cf-on-k8s-integration](https://github.com/cloudfoundry/cf-on-k8s-integration) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
 - [cloudfoundry/cf-relint-ci-semver](https://github.com/cloudfoundry/cf-relint-ci-semver) topic:cff-wg-app-runtime-deployments pushed_at:2025-10 star:0.0k fork:0.0k 
 - [cloudfoundry/cfar-proposals](https://github.com/cloudfoundry/cfar-proposals) topic: pushed_at:2019-07 star:0.0k fork:0.0k Repository for Cloud Foundry Application Runtime Proposals
-- [cloudfoundry/cflinuxfs5](https://github.com/cloudfoundry/cflinuxfs5) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
-- [cloudfoundry/cflinuxfs5-release](https://github.com/cloudfoundry/cflinuxfs5-release) topic: pushed_at:2025-07 star:0.0k fork:0.0k Cloud Foundry stack based on Ubuntu 24.04 LTS
 - [cloudfoundry/core-deps-ci](https://github.com/cloudfoundry/core-deps-ci) topic:ci,core-deps pushed_at:2023-05 star:0.0k fork:0.0k 
 - [cloudfoundry/credhub-ci-locks](https://github.com/cloudfoundry/credhub-ci-locks) topic: pushed_at:2018-09 star:0.0k fork:0.0k 
 - [cloudfoundry/diego-dockerfiles](https://github.com/cloudfoundry/diego-dockerfiles) topic:cff-wg-app-runtime-platform pushed_at:2024-01 star:0.0k fork:0.0k 
@@ -526,7 +526,6 @@
 - [cloudfoundry/buildpack-packager](https://github.com/cloudfoundry/buildpack-packager) topic: pushed_at:2023-02 star:0.0k fork:0.0k Buildpack Packager
 - [cloudfoundry/canibump](https://github.com/cloudfoundry/canibump) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
 - [cloudfoundry/capi-integration-tests](https://github.com/cloudfoundry/capi-integration-tests) topic: pushed_at:2020-12 star:0.0k fork:0.0k 
-- [cloudfoundry/capi-release](https://github.com/cloudfoundry/capi-release) topic:bosh,bosh-release,cloudfoundry pushed_at:2025-10 star:0.0k fork:0.1k Bosh Release for Cloud Controller and friends
 - [cloudfoundry/cf-app-utils-ruby](https://github.com/cloudfoundry/cf-app-utils-ruby) topic: pushed_at:2020-01 star:0.0k fork:0.0k Helper methods for ruby apps on Cloud Foundry
 - [cloudfoundry/cf-uaa-lib](https://github.com/cloudfoundry/cf-uaa-lib) topic: pushed_at:2025-08 star:0.0k fork:0.0k Ruby client APIs to access the Cloud Foundry User Account and Authentication service
 - [cloudfoundry/cf-uaac](https://github.com/cloudfoundry/cf-uaac) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
@@ -543,7 +542,7 @@
 - [cloudfoundry/haproxy-boshrelease](https://github.com/cloudfoundry/haproxy-boshrelease) topic:cff-wg-app-runtime-platform pushed_at:2025-10 star:0.0k fork:0.1k A BOSH release for haproxy (based on cf-release's haproxy job)
 - [cloudfoundry/homebrew-tap](https://github.com/cloudfoundry/homebrew-tap) topic: pushed_at:2025-10 star:0.1k fork:0.0k Cloud Foundry Homebrew packages
 - [cloudfoundry/ibm-websphere-liberty-buildpack](https://github.com/cloudfoundry/ibm-websphere-liberty-buildpack) topic: pushed_at:2025-04 star:0.1k fork:0.2k IBM WebSphere Application Server Liberty Buildpack
-- [cloudfoundry/java-buildpack](https://github.com/cloudfoundry/java-buildpack) topic:buildpack,cloud-foundry,java,java-buildpack pushed_at:2025-05 star:0.5k fork:2.6k Cloud Foundry buildpack for running Java applications
+- [cloudfoundry/java-buildpack](https://github.com/cloudfoundry/java-buildpack) topic:buildpack,cloud-foundry,java,java-buildpack pushed_at:2025-05 star:0.4k fork:2.6k Cloud Foundry buildpack for running Java applications
 - [cloudfoundry/loggregator_emitter](https://github.com/cloudfoundry/loggregator_emitter) topic: pushed_at:2017-01 star:0.0k fork:0.0k 
 - [cloudfoundry/machete](https://github.com/cloudfoundry/machete) topic: pushed_at:2017-09 star:0.0k fork:0.0k Cloud Foundry library for maintaining on-premises buildpacks
 - [cloudfoundry/membrane](https://github.com/cloudfoundry/membrane) topic: pushed_at:2014-04 star:0.0k fork:0.0k 
@@ -566,7 +565,7 @@
 ## Shell
 
 - [cloudfoundry/app-autoscaler-ci](https://github.com/cloudfoundry/app-autoscaler-ci) topic: pushed_at:2022-07 star:0.0k fork:0.0k The CI part of the app-autoscaler project
-- [cloudfoundry/app-runtime-deployments-infrastructure](https://github.com/cloudfoundry/app-runtime-deployments-infrastructure) topic:cff-wg-app-runtime-deployments pushed_at:2025-09 star:0.0k fork:0.0k Infrastructure as Code for the App Runtime Deployments Working Group
+- [cloudfoundry/app-runtime-deployments-infrastructure](https://github.com/cloudfoundry/app-runtime-deployments-infrastructure) topic:cff-wg-app-runtime-deployments pushed_at:2025-10 star:0.0k fork:0.0k Infrastructure as Code for the App Runtime Deployments Working Group
 - [cloudfoundry/binary-buildpack](https://github.com/cloudfoundry/binary-buildpack) topic:v2b pushed_at:2025-10 star:0.0k fork:0.0k Deploy binaries to Cloud Foundry
 - [cloudfoundry/bosh-alicloud-light-stemcell-builder](https://github.com/cloudfoundry/bosh-alicloud-light-stemcell-builder) topic: pushed_at:2025-08 star:0.0k fork:0.0k Builds light stemcells for Alibaba Cloud from a "full" bosh stemcell
 - [cloudfoundry/bosh-apt-resources](https://github.com/cloudfoundry/bosh-apt-resources) topic: pushed_at:2025-10 star:0.0k fork:0.0k Builds debian packages for public bosh apt repository
@@ -580,7 +579,7 @@
 - [cloudfoundry/bosh-package-python-release](https://github.com/cloudfoundry/bosh-package-python-release) topic: pushed_at:2025-10 star:0.0k fork:0.0k Python release for use with `bosh vendor-package`
 - [cloudfoundry/bosh-package-ruby-release](https://github.com/cloudfoundry/bosh-package-ruby-release) topic: pushed_at:2025-10 star:0.0k fork:0.0k Ruby release for use with `bosh vendor-package`
 - [cloudfoundry/bosh-shared-ci](https://github.com/cloudfoundry/bosh-shared-ci) topic: pushed_at:2025-01 star:0.0k fork:0.0k Concourse CI tasks intended to be used across many different projects
-- [cloudfoundry/bosh-stemcells-ci](https://github.com/cloudfoundry/bosh-stemcells-ci) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [cloudfoundry/bosh-stemcells-ci](https://github.com/cloudfoundry/bosh-stemcells-ci) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [cloudfoundry/buildpacks-github-config](https://github.com/cloudfoundry/buildpacks-github-config) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [cloudfoundry/capi-ci](https://github.com/cloudfoundry/capi-ci) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [cloudfoundry/capi-dockerfiles](https://github.com/cloudfoundry/capi-dockerfiles) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
@@ -592,8 +591,9 @@
 - [cloudfoundry/cf-mysql-deployment](https://github.com/cloudfoundry/cf-mysql-deployment) topic:bosh-deployment,cloudfoundry pushed_at:2022-09 star:0.0k fork:0.0k 
 - [cloudfoundry/cfcd-prep](https://github.com/cloudfoundry/cfcd-prep) topic: pushed_at:2024-08 star:0.0k fork:0.0k 
 - [cloudfoundry/cflinuxfs3-release](https://github.com/cloudfoundry/cflinuxfs3-release) topic: pushed_at:2023-10 star:0.0k fork:0.0k Cloud Foundry stack based on Ubuntu 18.04 LTS
-- [cloudfoundry/cflinuxfs4-compat-release](https://github.com/cloudfoundry/cflinuxfs4-compat-release) topic: pushed_at:2025-07 star:0.0k fork:0.0k Cloud Foundry compatibility stack with Ruby and Python based on Ubuntu 22.04 LTS
-- [cloudfoundry/cflinuxfs4-release](https://github.com/cloudfoundry/cflinuxfs4-release) topic: pushed_at:2025-07 star:0.0k fork:0.0k Cloud Foundry stack based on Ubuntu 22.04 LTS
+- [cloudfoundry/cflinuxfs4-compat-release](https://github.com/cloudfoundry/cflinuxfs4-compat-release) topic: pushed_at:2025-10 star:0.0k fork:0.0k Cloud Foundry compatibility stack with Ruby and Python based on Ubuntu 22.04 LTS
+- [cloudfoundry/cflinuxfs4-release](https://github.com/cloudfoundry/cflinuxfs4-release) topic: pushed_at:2025-10 star:0.0k fork:0.0k Cloud Foundry stack based on Ubuntu 22.04 LTS
+- [cloudfoundry/cflinuxfs5-release](https://github.com/cloudfoundry/cflinuxfs5-release) topic: pushed_at:2025-10 star:0.0k fork:0.0k Cloud Foundry stack based on Ubuntu 24.04 LTS
 - [cloudfoundry/cli-ci](https://github.com/cloudfoundry/cli-ci) topic: pushed_at:2024-04 star:0.0k fork:0.0k The CI repo for the CloudFoundry CLI.
 - [cloudfoundry/cli-i18n](https://github.com/cloudfoundry/cli-i18n) topic:cf-cli,cloud-foundry,cloudfoundry,internationalization pushed_at:2022-04 star:0.0k fork:0.0k Translations (i18n) for the CF CLI
 - [cloudfoundry/cli-workstation](https://github.com/cloudfoundry/cli-workstation) topic:cli,cloudfoundry,fresh-installs,macos,ubuntu,workstations pushed_at:2022-09 star:0.0k fork:0.0k CF CLI Developer workstation setup/maintenance repository
@@ -615,7 +615,7 @@
 - [cloudfoundry/greenhouse-ci](https://github.com/cloudfoundry/greenhouse-ci) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
 - [cloudfoundry/hwc-buildpack-release](https://github.com/cloudfoundry/hwc-buildpack-release) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
 - [cloudfoundry/java-cnb](https://github.com/cloudfoundry/java-cnb) topic: pushed_at:2020-03 star:0.0k fork:0.0k 
-- [cloudfoundry/jumpbox-deployment](https://github.com/cloudfoundry/jumpbox-deployment) topic: pushed_at:2025-09 star:0.0k fork:0.0k Deploy single vanilla jumpbox machine with BOSH
+- [cloudfoundry/jumpbox-deployment](https://github.com/cloudfoundry/jumpbox-deployment) topic: pushed_at:2025-10 star:0.0k fork:0.0k Deploy single vanilla jumpbox machine with BOSH
 - [cloudfoundry/korifi-ci](https://github.com/cloudfoundry/korifi-ci) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [cloudfoundry/logging-acceptance-tests-release](https://github.com/cloudfoundry/logging-acceptance-tests-release) topic: pushed_at:2019-07 star:0.0k fork:0.0k 
 - [cloudfoundry/loggregator-ci](https://github.com/cloudfoundry/loggregator-ci) topic: pushed_at:2021-04 star:0.0k fork:0.0k 

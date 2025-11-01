@@ -27,7 +27,7 @@
 
 ## HTML
 
-- [riscv/docs.riscv.org](https://github.com/riscv/docs.riscv.org) topic: pushed_at:2025-09 star:0.0k fork:0.0k 
+- [riscv/docs.riscv.org](https://github.com/riscv/docs.riscv.org) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 
 ## Makefile
 
@@ -46,7 +46,7 @@
 - [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [riscv/riscv-high-assurance-cryptography](https://github.com/riscv/riscv-high-assurance-cryptography) topic: pushed_at:2025-07 star:0.0k fork:0.0k  High Assurance Cryptography
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) topic: pushed_at:2025-10 star:0.2k fork:0.0k Working Draft of the RISC-V J Extension Specification
-- [riscv/riscv-memory-tagging](https://github.com/riscv/riscv-memory-tagging) topic: pushed_at:2025-09 star:0.0k fork:0.0k Memory Tagging ISA extension that can be used by software to enforce memory tag checks on memory loads and stores
+- [riscv/riscv-memory-tagging](https://github.com/riscv/riscv-memory-tagging) topic: pushed_at:2025-10 star:0.0k fork:0.0k Memory Tagging ISA extension that can be used by software to enforce memory tag checks on memory loads and stores
 - [riscv/riscv-performance-event-sampling](https://github.com/riscv/riscv-performance-event-sampling) topic: pushed_at:2025-10 star:0.0k fork:0.0k Define 2 new extensions to, along with Zihpm and Sscofpmf, enable event and instruction sampling with precise attribution.
 - [riscv/riscv-performance-events](https://github.com/riscv/riscv-performance-events) topic: pushed_at:2025-10 star:0.0k fork:0.0k RISC-V Performance Events Specification
 - [riscv/riscv-pqc](https://github.com/riscv/riscv-pqc) topic: pushed_at:2024-02 star:0.0k fork:0.0k Post Quantum Cryptography
@@ -57,7 +57,7 @@
 - [riscv/riscv-svvptc](https://github.com/riscv/riscv-svvptc) topic: pushed_at:2025-10 star:0.0k fork:0.0k Obviating Memory-Management Instructions after Marking PTEs Valid (Svvptc)
 - [riscv/riscv-zaamo-zalrsc](https://github.com/riscv/riscv-zaamo-zalrsc) topic: pushed_at:2024-04 star:0.0k fork:0.0k Zaamo / Zalrsc: A extension components
 - [riscv/riscv-zabha](https://github.com/riscv/riscv-zabha) topic: pushed_at:2025-10 star:0.0k fork:0.0k The Zabha extension provides support for byte and halfword atomic memory operations.
-- [riscv/riscv-zalasr](https://github.com/riscv/riscv-zalasr) topic: pushed_at:2025-07 star:0.0k fork:0.0k The ISA specification for the Zalasr extension.
+- [riscv/riscv-zalasr](https://github.com/riscv/riscv-zalasr) topic: pushed_at:2025-10 star:0.0k fork:0.0k The ISA specification for the Zalasr extension.
 - [riscv/riscv-zilsd](https://github.com/riscv/riscv-zilsd) topic: pushed_at:2025-06 star:0.0k fork:0.0k Zilsd (Load/Store Pair for RV32) Fast-Track Extension
 
 ## Others
@@ -68,7 +68,7 @@
 - [riscv/guides](https://github.com/riscv/guides) topic: pushed_at:2024-11 star:0.0k fork:0.0k RISC-V International Guides
 - [riscv/integer-vector-absolute-difference](https://github.com/riscv/integer-vector-absolute-difference) topic: pushed_at:2025-10 star:0.0k fork:0.0k RISC-V Integer Vector Absolute Difference
 - [riscv/integrated-matrix-extension](https://github.com/riscv/integrated-matrix-extension) topic: pushed_at:2025-10 star:0.0k fork:0.0k RISC-V Integrated Matrix Development Repository
-- [riscv/learn](https://github.com/riscv/learn) topic: pushed_at:2025-09 star:1.1k fork:0.1k Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. 
+- [riscv/learn](https://github.com/riscv/learn) topic: pushed_at:2025-10 star:1.2k fork:0.1k Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. 
 - [riscv/riscv-docs-base-container-image](https://github.com/riscv/riscv-docs-base-container-image) topic: pushed_at:2025-10 star:0.0k fork:0.0k A base container image populated with the dependencies to build the RISC-V Documentation.
 - [riscv/riscv-library](https://github.com/riscv/riscv-library) topic: pushed_at:2025-07 star:0.0k fork:0.0k This repository holds the front matter pages for the RISC-V Library
 - [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) topic: pushed_at:2023-10 star:0.2k fork:0.0k RISC-V Packed SIMD Extension
@@ -103,7 +103,7 @@
 - [riscv/riscv-spmp](https://github.com/riscv/riscv-spmp) topic: pushed_at:2025-10 star:0.0k fork:0.0k The repo contains the SPMP architectural specification, which includes capabilities like access control of read/write/execute requests by an hart, address matching, encoding of permissions, exceptions for access violation, and support for virtualization.
 - [riscv/riscv-ssrastraps](https://github.com/riscv/riscv-ssrastraps) topic: pushed_at:2022-10 star:0.0k fork:0.0k The RAS exception and interrupts extension (Ssrastraps) defines standard local interrupt numbers and exception-cause codes for reporting errors detected by RAS functions in the system.
 - [riscv/riscv-worlds](https://github.com/riscv/riscv-worlds) topic: pushed_at:2025-08 star:0.0k fork:0.0k WorldGuard (WG) provides isolation in a hardware platform by constraining access to system physical addresses.
-- [riscv/self-hosted-trace](https://github.com/riscv/self-hosted-trace) topic: pushed_at:2025-07 star:0.0k fork:0.0k RISC-V Self-hosted Trace Development Repositoty
+- [riscv/self-hosted-trace](https://github.com/riscv/self-hosted-trace) topic: pushed_at:2025-10 star:0.0k fork:0.0k RISC-V Self-hosted Trace Development Repositoty
 - [riscv/sig-functional-safety-whitepaper](https://github.com/riscv/sig-functional-safety-whitepaper) topic: pushed_at:2025-10 star:0.0k fork:0.0k GitHub repository for the Functional Safety SIG Whitepaper Development
 - [riscv/zibi](https://github.com/riscv/zibi) topic: pushed_at:2025-09 star:0.0k fork:0.0k Branch with Immediate (Zibi) Ratification Plan
 
