@@ -95,7 +95,7 @@
 ## Others
 
 - [twitter-archive/.github](https://github.com/twitter-archive/.github) topic: pushed_at:2021-11 star:0.0k fork:0.0k 
-- [twitter-archive/code-of-conduct](https://github.com/twitter-archive/code-of-conduct) topic: pushed_at:2021-08 star:0.1k fork:0.0k Open Source Code of Conduct at Twitter
+- [twitter-archive/code-of-conduct](https://github.com/twitter-archive/code-of-conduct) topic: pushed_at:2021-08 star:0.1k fork:0.1k Open Source Code of Conduct at Twitter
 - [twitter-archive/mysos](https://github.com/twitter-archive/mysos) topic: pushed_at:2015-08 star:0.6k fork:0.1k Cotton (formerly known as Mysos)
 - [twitter-archive/secure_headers](https://github.com/twitter-archive/secure_headers) topic: pushed_at:2020-02 star:0.0k fork:0.0k Manages application of security headers with many safe defaults
 - [twitter-archive/sekhmet](https://github.com/twitter-archive/sekhmet) topic: pushed_at:2018-06 star:0.0k fork:0.0k foundational tools and building blocks for gaining insights and diagnosing system health in real-time

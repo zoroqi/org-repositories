@@ -7,7 +7,7 @@
 ## Contents(59)
 
 - [C](#c) (1)
-- [C++](#c++) (2)
+- [C++](#c++) (1)
 - [CSS](#css) (3)
 - [Dart](#dart) (2)
 - [Dockerfile](#dockerfile) (1)
@@ -15,7 +15,7 @@
 - [HTML](#html) (4)
 - [JavaScript](#javascript) (5)
 - [MDX](#mdx) (1)
-- [Others](#others) (8)
+- [Others](#others) (9)
 - [PHP](#php) (2)
 - [Python](#python) (18)
 - [Ruby](#ruby) (1)
@@ -30,7 +30,6 @@
 ## C++
 
 - [tuna/QSerial](https://github.com/tuna/QSerial) topic: pushed_at:2023-04 star:0.0k fork:0.0k An advanced cross-platform serial port utility
-- [tuna/tapa](https://github.com/tuna/tapa) topic: pushed_at:2025-08 star:0.2k fork:0.0k TAPA compiles task-parallel HLS program into high-performance FPGA accelerators.
 
 ## CSS
 
@@ -57,10 +56,10 @@
 
 ## HTML
 
-- [tuna/mirror-web](https://github.com/tuna/mirror-web) topic: pushed_at:2025-10 star:0.8k fork:0.3k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
+- [tuna/mirror-web](https://github.com/tuna/mirror-web) topic: pushed_at:2025-11 star:0.8k fork:0.3k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
 - [tuna/mirrorcon](https://github.com/tuna/mirrorcon) topic: pushed_at:2017-09 star:0.0k fork:0.0k Website of MirrorCon 2017
 - [tuna/registr-lite](https://github.com/tuna/registr-lite) topic: pushed_at:2025-09 star:0.0k fork:0.0k A lightweight registr with only a bare RESTful API.
-- [tuna/tuna.moe](https://github.com/tuna/tuna.moe) topic: pushed_at:2025-10 star:0.1k fork:0.0k Source code for https://tuna.moe
+- [tuna/tuna.moe](https://github.com/tuna/tuna.moe) topic: pushed_at:2025-11 star:0.1k fork:0.0k Source code for https://tuna.moe
 
 ## JavaScript
 
@@ -84,6 +83,7 @@
 - [tuna/issues](https://github.com/tuna/issues) topic: pushed_at:2025-09 star:0.4k fork:0.0k Code Unrelated Issues 
 - [tuna/ngx-fancyindex](https://github.com/tuna/ngx-fancyindex) topic: pushed_at:2020-03 star:0.0k fork:0.0k Fancy indexes module for the Nginx web server
 - [tuna/opentuna-site](https://github.com/tuna/opentuna-site) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
+- [tuna/tapa](https://github.com/tuna/tapa) topic: pushed_at:2025-08 star:0.0k fork:0.0k TAPA compiles task-parallel HLS program into high-performance FPGA accelerators. Community-maintained.
 
 ## PHP
 
@@ -102,14 +102,14 @@
 - [tuna/gdanmaku-server](https://github.com/tuna/gdanmaku-server) topic: pushed_at:2023-05 star:0.1k fork:0.0k Web-based danmaku server
 - [tuna/ldaptuna](https://github.com/tuna/ldaptuna) topic: pushed_at:2014-10 star:0.0k fork:0.0k 
 - [tuna/loglyzer](https://github.com/tuna/loglyzer) topic: pushed_at:2014-12 star:0.0k fork:0.0k log analyzer for tuna mirrors
-- [tuna/mirrorz-help-ng](https://github.com/tuna/mirrorz-help-ng) topic: pushed_at:2025-09 star:0.0k fork:0.0k Generate help pages from mirrorz-org/mirrorz-docs
+- [tuna/mirrorz-help-ng](https://github.com/tuna/mirrorz-help-ng) topic: pushed_at:2025-11 star:0.0k fork:0.0k Generate help pages from mirrorz-org/mirrorz-docs
 - [tuna/oh-my-tuna](https://github.com/tuna/oh-my-tuna) topic: pushed_at:2021-07 star:0.5k fork:0.1k Keep calm and use TUNA mirrors.
 - [tuna/pdns-ldap](https://github.com/tuna/pdns-ldap) topic: pushed_at:2016-04 star:0.0k fork:0.0k 
 - [tuna/playbooks](https://github.com/tuna/playbooks) topic: pushed_at:2016-10 star:0.0k fork:0.0k 
 - [tuna/scripts](https://github.com/tuna/scripts) topic: pushed_at:2018-01 star:0.0k fork:0.0k 
 - [tuna/telegram2irc](https://github.com/tuna/telegram2irc) topic: pushed_at:2015-06 star:0.0k fork:0.0k A bot connect IRC and Telegram. Multiple binding is supported.
 - [tuna/thuroutes](https://github.com/tuna/thuroutes) topic: pushed_at:2016-05 star:0.0k fork:0.0k Forked from https://chnroutes.googlecode.com/
-- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) topic: pushed_at:2025-10 star:0.5k fork:0.2k Custom scripts for mirror jobs
+- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) topic: pushed_at:2025-11 star:0.5k fork:0.2k Custom scripts for mirror jobs
 
 ## Ruby
 
