@@ -75,7 +75,7 @@
 ## HTML
 
 - [uber/nanoscope](https://github.com/uber/nanoscope) topic:android,performance,profiler,tracing pushed_at:2020-05 star:1.3k fork:0.1k  An extremely accurate Android method tracing tool.
-- [uber/uber-direct-sdk](https://github.com/uber/uber-direct-sdk) topic: pushed_at:2025-10 star:0.0k fork:0.0k An Uber supported SDK for the Uber Direct API.
+- [uber/uber-direct-sdk](https://github.com/uber/uber-direct-sdk) topic: pushed_at:2025-11 star:0.0k fork:0.0k An Uber supported SDK for the Uber Direct API.
 
 ## Haskell
 
@@ -110,9 +110,9 @@
 - [uber/build-changelog](https://github.com/uber/build-changelog) topic: pushed_at:2014-11 star:0.0k fork:0.0k A CLI to auto-generate a deploy ready changelog
 - [uber/cache-dir](https://github.com/uber/cache-dir) topic: pushed_at:2014-03 star:0.0k fork:0.0k An ES6 map-like cache with file-based backing
 - [uber/eight-track](https://github.com/uber/eight-track) topic: pushed_at:2018-07 star:0.1k fork:0.0k Record and playback HTTP requests
-- [uber/geojson2h3](https://github.com/uber/geojson2h3) topic:geojson,geospatial,h3,hexagon,javascript pushed_at:2023-07 star:0.2k fork:0.0k Conversion utilities between H3 indexes and GeoJSON
+- [uber/geojson2h3](https://github.com/uber/geojson2h3) topic:geojson,geospatial,h3,hexagon,javascript pushed_at:2025-11 star:0.2k fork:0.0k Conversion utilities between H3 indexes and GeoJSON
 - [uber/graph.gl](https://github.com/uber/graph.gl) topic: pushed_at:2021-02 star:0.1k fork:0.0k WebGL2-Powered Visualization Components for Graph Visualization
-- [uber/h3-js](https://github.com/uber/h3-js) topic:emscripten,geospatial,h3,hexagon,javascript,spatial-indexing,uber pushed_at:2025-10 star:1.0k fork:0.1k h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
+- [uber/h3-js](https://github.com/uber/h3-js) topic:emscripten,geospatial,h3,hexagon,javascript,spatial-indexing,uber pushed_at:2025-11 star:1.0k fork:0.1k h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
 - [uber/json-schema-filter](https://github.com/uber/json-schema-filter) topic: pushed_at:2020-10 star:0.0k fork:0.0k Filters (removes) objects from document based on passed json-schema
 - [uber/kafka-logger](https://github.com/uber/kafka-logger) topic: pushed_at:2018-10 star:0.0k fork:0.0k A kafka logger for winston
 - [uber/logtron](https://github.com/uber/logtron) topic: pushed_at:2023-04 star:0.2k fork:0.0k A logging MACHINE
@@ -196,7 +196,7 @@
 - [uber/cassette](https://github.com/uber/cassette) topic: pushed_at:2023-05 star:0.1k fork:0.0k Store and replay HTTP requests made in your Python app
 - [uber/causalml](https://github.com/uber/causalml) topic:causal-inference,incubation,machine-learning,uplift-modeling pushed_at:2025-11 star:5.6k fork:0.8k Uplift modeling and causal inference with machine learning algorithms
 - [uber/charlatan](https://github.com/uber/charlatan) topic: pushed_at:2019-09 star:0.1k fork:0.0k A Python library to efficiently manage and install database fixtures
-- [uber/clay](https://github.com/uber/clay) topic: pushed_at:2023-08 star:0.5k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
+- [uber/clay](https://github.com/uber/clay) topic: pushed_at:2023-08 star:0.4k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [uber/doubles](https://github.com/uber/doubles) topic: pushed_at:2023-10 star:0.2k fork:0.0k Test doubles for Python.
 - [uber/fiber](https://github.com/uber/fiber) topic:distributed-computing,machine-learning,multiprocessing,python,sandbox pushed_at:2023-03 star:1.0k fork:0.1k Distributed Computing for AI Made Simple
 - [uber/h3-py](https://github.com/uber/h3-py) topic:geocoding,geospatial,gis,h3,hexagonal-architecture,python,uber pushed_at:2025-11 star:1.0k fork:0.1k Python bindings for H3, a hierarchical hexagonal geospatial indexing system
@@ -264,7 +264,7 @@
 ## TypeScript
 
 - [uber/base-design-docs](https://github.com/uber/base-design-docs) topic:design-system,documentation pushed_at:2024-01 star:0.0k fork:0.0k A documentation site for the Base design system.
-- [uber/baseweb](https://github.com/uber/baseweb) topic:component-library,design-systems,react,react-components pushed_at:2025-08 star:8.9k fork:0.9k A React Component library implementing the Base design language
+- [uber/baseweb](https://github.com/uber/baseweb) topic:component-library,design-systems,react,react-components pushed_at:2025-11 star:8.9k fork:0.9k A React Component library implementing the Base design language
 - [uber/cosmo](https://github.com/uber/cosmo) topic: pushed_at:2025-11 star:0.0k fork:0.0k Uber FORK of wundergraph/cosmo
 - [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) topic: pushed_at:2025-11 star:0.5k fork:0.1k grafana dash dash dash gen
 - [uber/nebula.gl](https://github.com/uber/nebula.gl) topic:deck-gl,uber,webgl pushed_at:2024-05 star:0.7k fork:0.2k A suite of 3D-enabled data editing overlays, suitable for deck.gl

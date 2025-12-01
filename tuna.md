@@ -52,7 +52,7 @@
 - [tuna/freedns-go](https://github.com/tuna/freedns-go) topic: pushed_at:2021-11 star:0.2k fork:0.0k Optimized DNS Server for Chinese users.
 - [tuna/mirrorhub](https://github.com/tuna/mirrorhub) topic: pushed_at:2016-09 star:0.0k fork:0.0k Redirects the user to a nearby mirror site.
 - [tuna/tunaccount](https://github.com/tuna/tunaccount) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
-- [tuna/tunasync](https://github.com/tuna/tunasync) topic: pushed_at:2025-07 star:1.8k fork:0.3k Mirror job management tool. 
+- [tuna/tunasync](https://github.com/tuna/tunasync) topic: pushed_at:2025-11 star:1.8k fork:0.3k Mirror job management tool. 
 
 ## HTML
 
@@ -80,7 +80,7 @@
 - [tuna/collection](https://github.com/tuna/collection) topic: pushed_at:2022-04 star:0.3k fork:0.0k idea collections from TUNA
 - [tuna/dataset-issues](https://github.com/tuna/dataset-issues) topic: pushed_at:2018-04 star:0.0k fork:0.0k Issues about academic dataset mirrors
 - [tuna/isofusion](https://github.com/tuna/isofusion) topic: pushed_at:2016-05 star:0.0k fork:0.0k scan and create iso filelist from mirrors
-- [tuna/issues](https://github.com/tuna/issues) topic: pushed_at:2025-09 star:0.4k fork:0.0k Code Unrelated Issues 
+- [tuna/issues](https://github.com/tuna/issues) topic: pushed_at:2025-11 star:0.4k fork:0.0k Code Unrelated Issues 
 - [tuna/ngx-fancyindex](https://github.com/tuna/ngx-fancyindex) topic: pushed_at:2020-03 star:0.0k fork:0.0k Fancy indexes module for the Nginx web server
 - [tuna/opentuna-site](https://github.com/tuna/opentuna-site) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
 - [tuna/tapa](https://github.com/tuna/tapa) topic: pushed_at:2025-08 star:0.0k fork:0.0k TAPA compiles task-parallel HLS program into high-performance FPGA accelerators. Community-maintained.
@@ -122,8 +122,8 @@
 ## TeX
 
 - [tuna/THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme) topic: pushed_at:2020-12 star:0.4k fork:0.1k A LaTeX beamer theme template for Tsinghua students.
-- [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) topic: pushed_at:2025-04 star:0.5k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
-- [tuna/thuthesis](https://github.com/tuna/thuthesis) topic:ctan,latex,latex-thesis-template,tex,thuthesis,tsinghua,tsinghua-university pushed_at:2025-10 star:5.0k fork:1.1k LaTeX Thesis Template for Tsinghua University
+- [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) topic: pushed_at:2025-11 star:0.5k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
+- [tuna/thuthesis](https://github.com/tuna/thuthesis) topic:ctan,latex,latex-thesis-template,tex,thuthesis,tsinghua,tsinghua-university pushed_at:2025-11 star:5.1k fork:1.1k LaTeX Thesis Template for Tsinghua University
 
 ## TypeScript
 
