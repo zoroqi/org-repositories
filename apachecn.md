@@ -289,7 +289,7 @@
 - [apachecn/elasticsearch-doc-zh](https://github.com/apachecn/elasticsearch-doc-zh) topic:elasticsearch pushed_at:2020-12 star:0.1k fork:0.0k :book: [译] elasticsearch 中文文档
 - [apachecn/eldernode-blog-zh](https://github.com/apachecn/eldernode-blog-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/fasttext-doc-zh](https://github.com/apachecn/fasttext-doc-zh) topic: pushed_at:2020-11 star:0.1k fork:0.0k FastText 中文文档
-- [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) topic:book,feature-engineering,machine-learning,python pushed_at:2023-08 star:2.5k fork:0.7k :book: [译] 面向机器学习的特征工程
+- [apachecn/fe4ml-zh](https://github.com/apachecn/fe4ml-zh) topic:book,feature-engineering,machine-learning,python pushed_at:2023-08 star:2.6k fork:0.7k :book: [译] 面向机器学习的特征工程
 - [apachecn/ffmpeg-doc-zh](https://github.com/apachecn/ffmpeg-doc-zh) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [apachecn/figment-tut-zh](https://github.com/apachecn/figment-tut-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Figment 中文系列教程
 - [apachecn/financial](https://github.com/apachecn/financial) topic: pushed_at:2023-07 star:0.0k fork:0.0k 投资理财 - 专注于智能算法投资
@@ -786,7 +786,7 @@
 - [apachecn/hooks](https://github.com/apachecn/hooks) topic: pushed_at:2023-03 star:0.0k fork:0.0k A high-quality & reliable React Hooks library.
 - [apachecn/HOW2J-tuts](https://github.com/apachecn/HOW2J-tuts) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [apachecn/huazhang-ai-book](https://github.com/apachecn/huazhang-ai-book) topic: pushed_at:2023-01 star:0.0k fork:0.0k :books: 华章智能科学技术丛书
-- [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.9k fork:0.3k :books: 华章计算机科学丛书高清扫描
+- [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.9k fork:0.4k :books: 华章计算机科学丛书高清扫描
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) topic: pushed_at:2023-02 star:0.1k fork:0.0k :book: 华章经管丛书高清扫描
 - [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.5k fork:0.2k :books: 华章数学丛书高清扫描
 - [apachecn/huggingface-doc-zh](https://github.com/apachecn/huggingface-doc-zh) topic: pushed_at:2025-09 star:0.0k fork:0.0k Hugging Face - 文档库(中文版)
@@ -1197,7 +1197,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:41.7k fork:11.6k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:41.8k fork:11.6k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库

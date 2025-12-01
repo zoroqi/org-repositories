@@ -49,28 +49,28 @@
 - [ARM-software/bento-linker](https://github.com/ARM-software/bento-linker) topic:experimental,microcontroller pushed_at:2021-01 star:0.0k fork:0.0k A light-weight alternative to processes for microcontrollers.
 - [ARM-software/bsa-acs](https://github.com/ARM-software/bsa-acs) topic: pushed_at:2025-08 star:0.0k fork:0.1k Arm SystemReady : BSA Architecture Compliance Suite
 - [ARM-software/cca-rmm-acs](https://github.com/ARM-software/cca-rmm-acs) topic: pushed_at:2025-09 star:0.0k fork:0.0k Tests for verifying compliance of RMM implementations
-- [ARM-software/CMSIS-Compiler](https://github.com/ARM-software/CMSIS-Compiler) topic: pushed_at:2025-10 star:0.0k fork:0.0k CMSIS Compiler support for Arm Compiler
+- [ARM-software/CMSIS-Compiler](https://github.com/ARM-software/CMSIS-Compiler) topic: pushed_at:2025-11 star:0.0k fork:0.0k CMSIS Compiler support for Arm Compiler
 - [ARM-software/CMSIS-DAP](https://github.com/ARM-software/CMSIS-DAP) topic: pushed_at:2024-06 star:0.1k fork:0.0k CoreSight Debug Access Port (DAP) debug probe protocol reference implementation (spin-off from CMSIS_5)
-- [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) topic: pushed_at:2025-09 star:0.2k fork:0.1k Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
+- [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) topic: pushed_at:2025-11 star:0.2k fork:0.1k Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
 - [ARM-software/CMSIS-Driver_Validation](https://github.com/ARM-software/CMSIS-Driver_Validation) topic: pushed_at:2025-11 star:0.0k fork:0.0k Test suite for verifying CMSIS-Driver implementations.
-- [ARM-software/CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) topic:cortex-a,cortex-m,dsp,embedded,fft,filter,fixed-point-arithmetic,matrix,ml,numpy pushed_at:2025-10 star:0.9k fork:0.2k CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
+- [ARM-software/CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) topic:cortex-a,cortex-m,dsp,embedded,fft,filter,fixed-point-arithmetic,matrix,ml,numpy pushed_at:2025-11 star:0.9k fork:0.2k CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
 - [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) topic: pushed_at:2025-11 star:0.6k fork:0.2k FreeRTOS adaptation for CMSIS-RTOS Version 2
-- [ARM-software/CMSIS-mbedTLS](https://github.com/ARM-software/CMSIS-mbedTLS) topic: pushed_at:2025-07 star:0.0k fork:0.0k CMSIS Pack for the mbedTLS software stack
+- [ARM-software/CMSIS-mbedTLS](https://github.com/ARM-software/CMSIS-mbedTLS) topic: pushed_at:2025-11 star:0.0k fork:0.0k CMSIS Pack for the mbedTLS software stack
 - [ARM-software/CMSIS-Musca-S1](https://github.com/ARM-software/CMSIS-Musca-S1) topic: pushed_at:2023-09 star:0.0k fork:0.0k Repository of CMSIS Software Pack for Musca-S1 test-chip and board.
-- [ARM-software/CMSIS-NN](https://github.com/ARM-software/CMSIS-NN) topic: pushed_at:2025-10 star:0.3k fork:0.1k CMSIS-NN Library
+- [ARM-software/CMSIS-NN](https://github.com/ARM-software/CMSIS-NN) topic: pushed_at:2025-11 star:0.3k fork:0.1k CMSIS-NN Library
 - [ARM-software/CMSIS-RTOS2_Validation](https://github.com/ARM-software/CMSIS-RTOS2_Validation) topic: pushed_at:2025-11 star:0.0k fork:0.0k Validation test suite for CMSIS-RTOS2 API implementations using Arm Virtual Hardware (AVH).
 - [ARM-software/CMSIS-RTX](https://github.com/ARM-software/CMSIS-RTX) topic: pushed_at:2025-11 star:0.1k fork:0.0k RTX5 real time kernel for Arm Cortex-based embedded systems (spin-off from CMSIS_5)
 - [ARM-software/CMSIS-TFM](https://github.com/ARM-software/CMSIS-TFM) topic: pushed_at:2020-06 star:0.0k fork:0.0k Downstream Repository of CMSIS Software Packs for Trusted Firmware-M (TF-M).
 - [ARM-software/CMSIS_4](https://github.com/ARM-software/CMSIS_4) topic: pushed_at:2018-10 star:0.5k fork:0.4k Cortex Microcontroller Software Interface Standard (V4 no longer maintained)
 - [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) topic: pushed_at:2024-09 star:1.5k fork:1.1k CMSIS Version 5 Development Repository
 - [ARM-software/CMSIS_6](https://github.com/ARM-software/CMSIS_6) topic: pushed_at:2025-11 star:0.3k fork:0.1k CMSIS version 6 (successor of CMSIS_5)
-- [ARM-software/Cortex_DFP](https://github.com/ARM-software/Cortex_DFP) topic: pushed_at:2025-10 star:0.0k fork:0.0k CMSIS generic Arm Cortex-M device family pack
+- [ARM-software/Cortex_DFP](https://github.com/ARM-software/Cortex_DFP) topic: pushed_at:2025-11 star:0.0k fork:0.0k CMSIS generic Arm Cortex-M device family pack
 - [ARM-software/CPA](https://github.com/ARM-software/CPA) topic: pushed_at:2017-11 star:0.0k fork:0.0k Contiguous page allocator project
 - [ARM-software/cryptocell-312-runtime](https://github.com/ARM-software/cryptocell-312-runtime) topic: pushed_at:2021-02 star:0.0k fork:0.0k CryptoCell 312 runtime code
 - [ARM-software/Cryptocell-703-TEE-Lib](https://github.com/ARM-software/Cryptocell-703-TEE-Lib) topic: pushed_at:2020-09 star:0.0k fork:0.0k Cryptocell 713/703 TEE Lib
 - [ARM-software/Cryptocell-713-TEE-Lib](https://github.com/ARM-software/Cryptocell-713-TEE-Lib) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [ARM-software/CSAL](https://github.com/ARM-software/CSAL) topic: pushed_at:2025-10 star:0.1k fork:0.0k Coresight Access Library
-- [ARM-software/ff-a-acs](https://github.com/ARM-software/ff-a-acs) topic: pushed_at:2025-10 star:0.0k fork:0.0k Firmware Framework for A Architecture Compliance Suite
+- [ARM-software/ff-a-acs](https://github.com/ARM-software/ff-a-acs) topic: pushed_at:2025-11 star:0.0k fork:0.0k Firmware Framework for A Architecture Compliance Suite
 - [ARM-software/fluent-bit-modbus-plugin](https://github.com/ARM-software/fluent-bit-modbus-plugin) topic: pushed_at:2020-04 star:0.0k fork:0.0k   A dynamic Modbus plugin for Fluent Bit
 - [ARM-software/infra-microbenchmarks](https://github.com/ARM-software/infra-microbenchmarks) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [ARM-software/iot-platform-sw](https://github.com/ARM-software/iot-platform-sw) topic: pushed_at:2016-07 star:0.0k fork:0.0k ARM Platform SDK code
@@ -91,9 +91,9 @@
 - [ARM-software/perf-libs-tools](https://github.com/ARM-software/perf-libs-tools) topic: pushed_at:2023-10 star:0.0k fork:0.0k 
 - [ARM-software/performance-studio-integration-for-unity](https://github.com/ARM-software/performance-studio-integration-for-unity) topic: pushed_at:2024-02 star:0.1k fork:0.0k Performance Studio tool integration with C# scripting for the Unity game engine.
 - [ARM-software/PMUv3_plugin](https://github.com/ARM-software/PMUv3_plugin) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
-- [ARM-software/progress64](https://github.com/ARM-software/progress64) topic: pushed_at:2025-09 star:0.1k fork:0.0k PROGRESS64 is a C library of scalable functions for concurrent programs, primarily focused on networking applications.
-- [ARM-software/psa-acs-common-val](https://github.com/ARM-software/psa-acs-common-val) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
-- [ARM-software/psa-api](https://github.com/ARM-software/psa-api) topic:api,attestation,cryptography,firmware-update,iot,security pushed_at:2025-10 star:0.1k fork:0.0k Documentation source and development of the PSA Certified API
+- [ARM-software/progress64](https://github.com/ARM-software/progress64) topic: pushed_at:2025-11 star:0.1k fork:0.0k PROGRESS64 is a C library of scalable functions for concurrent programs, primarily focused on networking applications.
+- [ARM-software/psa-acs-common-val](https://github.com/ARM-software/psa-acs-common-val) topic: pushed_at:2025-11 star:0.0k fork:0.0k 
+- [ARM-software/psa-api](https://github.com/ARM-software/psa-api) topic:api,attestation,cryptography,firmware-update,iot,security pushed_at:2025-11 star:0.1k fork:0.0k Documentation source and development of the PSA Certified API
 - [ARM-software/psa-arch-tests](https://github.com/ARM-software/psa-arch-tests) topic: pushed_at:2025-09 star:0.1k fork:0.1k Tests for verifying implementations of TBSA-v8M and the PSA Certified APIs
 - [ARM-software/rasc-devkit](https://github.com/ARM-software/rasc-devkit) topic: pushed_at:2020-06 star:0.0k fork:0.0k 
 - [ARM-software/revere-demo](https://github.com/ARM-software/revere-demo) topic:accelerator,revere-amu,vfio,vfio-pci pushed_at:2020-09 star:0.0k fork:0.0k Example program demonstrating the use of the Revere-AMU System Architecture from userspace, with VFIO
@@ -117,10 +117,10 @@
 - [ARM-software/armnn](https://github.com/ARM-software/armnn) topic:machine-learning,neural-network,neural-networks pushed_at:2025-11 star:1.3k fork:0.3k Arm NN ML Software.
 - [ARM-software/armnn-mlperf](https://github.com/ARM-software/armnn-mlperf) topic: pushed_at:2022-01 star:0.0k fork:0.0k Arm mlperf.org benchmark port
 - [ARM-software/ATP-Engine](https://github.com/ARM-software/ATP-Engine) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
-- [ARM-software/AVH-MLOps](https://github.com/ARM-software/AVH-MLOps) topic: pushed_at:2025-10 star:0.0k fork:0.0k Template repository for setting up MLOps components using AVH_FVP models and cmsis-toolbox in a Docker Container
+- [ARM-software/AVH-MLOps](https://github.com/ARM-software/AVH-MLOps) topic: pushed_at:2025-11 star:0.0k fork:0.0k Template repository for setting up MLOps components using AVH_FVP models and cmsis-toolbox in a Docker Container
 - [ARM-software/BarrierPoint](https://github.com/ARM-software/BarrierPoint) topic: pushed_at:2020-05 star:0.0k fork:0.0k 
 - [ARM-software/caiman](https://github.com/ARM-software/caiman) topic: pushed_at:2024-10 star:0.0k fork:0.0k Sources for Arm Streamline's caiman daemon
-- [ARM-software/CMSIS-CV](https://github.com/ARM-software/CMSIS-CV) topic: pushed_at:2025-10 star:0.1k fork:0.0k Computer Vision library for IoT
+- [ARM-software/CMSIS-CV](https://github.com/ARM-software/CMSIS-CV) topic: pushed_at:2025-11 star:0.1k fork:0.0k Computer Vision library for IoT
 - [ARM-software/CMSIS-Stream](https://github.com/ARM-software/CMSIS-Stream) topic:arm,cortex-m,dataflow,dsp,embedded,ml,streaming pushed_at:2025-10 star:0.0k fork:0.0k CMSIS-Stream software component
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) topic:aarch64,android,arm,armv7,armv8,computer-vision,cpp,linux,machine-learning,neon,neural-network,opencl,simd,sve pushed_at:2025-11 star:3.1k fork:0.8k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [ARM-software/connectedhomeip](https://github.com/ARM-software/connectedhomeip) topic: pushed_at:2023-12 star:0.0k fork:0.0k Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).
@@ -176,7 +176,7 @@
 ## Go
 
 - [ARM-software/bob-build](https://github.com/ARM-software/bob-build) topic:build-system,build-tool,build-tool-android,build-tool-linux,ninja-build pushed_at:2025-11 star:0.0k fork:0.0k Meta-build system using Blueprint and ninja
-- [ARM-software/CMSIS-View](https://github.com/ARM-software/CMSIS-View) topic: pushed_at:2025-10 star:0.0k fork:0.0k Repository of CMSIS Software Pack for software event generation and input/output handling.
+- [ARM-software/CMSIS-View](https://github.com/ARM-software/CMSIS-View) topic: pushed_at:2025-11 star:0.0k fork:0.0k Repository of CMSIS Software Pack for software event generation and input/output handling.
 - [ARM-software/embedded-development-services-client](https://github.com/ARM-software/embedded-development-services-client) topic:client-library,development,embedded-development,golang-library,online-services pushed_at:2025-11 star:0.0k fork:0.0k Golang HTTP client for our embedded development online services offering
 - [ARM-software/embedded-development-services-client-utils](https://github.com/ARM-software/embedded-development-services-client-utils) topic:arm-tools,client-library,golang-library,online-services,utilities,utility-library pushed_at:2025-11 star:0.0k fork:0.0k Helpers and utilities for Golang HTTP clients using our embedded development online services
 - [ARM-software/golang-utils](https://github.com/ARM-software/golang-utils) topic:golang,golang-library,golang-module,helpers,utilities pushed_at:2025-11 star:0.0k fork:0.0k Helpers and utilities for Golang in order to do actions not available in the standard library.
@@ -211,7 +211,7 @@
 - [ARM-software/ATS-Keyword](https://github.com/ARM-software/ATS-Keyword) topic: pushed_at:2022-05 star:0.0k fork:0.0k 
 - [ARM-software/bm-plotter](https://github.com/ARM-software/bm-plotter) topic: pushed_at:2021-08 star:0.0k fork:0.0k Moved to gitlab.arm.com.
 - [ARM-software/bootwrapper](https://github.com/ARM-software/bootwrapper) topic: pushed_at:2017-06 star:0.0k fork:0.0k Linux kernel bootwrapper code
-- [ARM-software/cmsis-actions](https://github.com/ARM-software/cmsis-actions) topic: pushed_at:2025-10 star:0.0k fork:0.0k Custom GitHub actions for MDK / AVH-FVP CI workflows
+- [ARM-software/cmsis-actions](https://github.com/ARM-software/cmsis-actions) topic: pushed_at:2025-11 star:0.0k fork:0.0k Custom GitHub actions for MDK / AVH-FVP CI workflows
 - [ARM-software/data](https://github.com/ARM-software/data) topic: pushed_at:2025-01 star:0.1k fork:0.0k Machine-readable data describing Arm architecture and implementations. Includes JSON descriptions of implemented PMU events.
 - [ARM-software/edge-iot-arch-guide](https://github.com/ARM-software/edge-iot-arch-guide) topic: pushed_at:2025-01 star:0.0k fork:0.0k Edge-IoT Architectural Design Guidance
 - [ARM-software/MDK-Toolbox](https://github.com/ARM-software/MDK-Toolbox) topic: pushed_at:2025-02 star:0.0k fork:0.0k MDK-Toolbox documentation

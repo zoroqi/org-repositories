@@ -92,7 +92,7 @@
 - [baidu/iotcore-sdk-java](https://github.com/baidu/iotcore-sdk-java) topic: pushed_at:2023-05 star:0.0k fork:0.0k Java SDK  for baidu IoT Core service 
 - [baidu/ipipe-agent](https://github.com/baidu/ipipe-agent) topic: pushed_at:2020-10 star:0.0k fork:0.0k 
 - [baidu/Jprotobuf-rpc-socket](https://github.com/baidu/Jprotobuf-rpc-socket) topic: pushed_at:2024-02 star:0.5k fork:0.2k Protobuf RPC是一种基于TCP协议的二进制RPC通信协议的Java实现
-- [baidu/mochow-sdk-java](https://github.com/baidu/mochow-sdk-java) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
+- [baidu/mochow-sdk-java](https://github.com/baidu/mochow-sdk-java) topic: pushed_at:2025-11 star:0.0k fork:0.0k 
 - [baidu/OASP](https://github.com/baidu/OASP) topic: pushed_at:2017-11 star:0.0k fork:0.0k OASP (Online App Status Protocol)
 - [baidu/smartapp-openapi-java](https://github.com/baidu/smartapp-openapi-java) topic: pushed_at:2023-03 star:0.0k fork:0.0k 百度智能小程序服务端 OpenAPI SDK for java，是基于小程序服务端 OpenAPI 封装的一套让开发者方便使用的 SDK， 它可以帮开发者减少理解和使用 OpenAPI 的成本， 减少开发者直接调用服务端接口不当而引起的错误， 避免在开发中走弯路。
 - [baidu/speech-samples](https://github.com/baidu/speech-samples) topic: pushed_at:2018-02 star:0.1k fork:0.0k 百度语音示例
@@ -113,7 +113,7 @@
 - [baidu/mix-img](https://github.com/baidu/mix-img) topic: pushed_at:2021-07 star:0.3k fork:0.0k A fast mix image javascript tool libary
 - [baidu/NoahV](https://github.com/baidu/NoahV) topic:aiops,dashboard,devops,efficient,framework,monitor,noahv,scaffold,template,visualization,vue,vuejs pushed_at:2023-03 star:0.6k fork:0.1k An efficient front-end application framework based on vue.js
 - [baidu/QComputeSDK-TS](https://github.com/baidu/QComputeSDK-TS) topic: pushed_at:2023-01 star:0.0k fork:0.0k QComputeSDK-TypeScript is the TypeScript version of QCompute, the quantum development kit of Quantum Leaf ( https://quantum-hub.baidu.com ). 
-- [baidu/san](https://github.com/baidu/san) topic:component,framework,frontend,javascript,mvvm,san pushed_at:2025-11 star:4.7k fork:0.6k A fast, portable, flexible JavaScript component framework
+- [baidu/san](https://github.com/baidu/san) topic:component,framework,frontend,javascript,mvvm,san pushed_at:2025-11 star:4.8k fork:0.6k A fast, portable, flexible JavaScript component framework
 - [baidu/san-composition](https://github.com/baidu/san-composition) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [baidu/san-factory](https://github.com/baidu/san-factory) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
 - [baidu/san-router](https://github.com/baidu/san-router) topic:san pushed_at:2023-12 star:0.0k fork:0.0k Official Router for San
@@ -166,7 +166,7 @@
 - [baidu/logcover](https://github.com/baidu/logcover) topic: pushed_at:2017-02 star:0.1k fork:0.0k 轻量级异常日志测试覆盖率度量工具
 - [baidu/mcp-server-baidu-ai-guard](https://github.com/baidu/mcp-server-baidu-ai-guard) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
 - [baidu/mochow-mcp-server-python](https://github.com/baidu/mochow-mcp-server-python) topic: pushed_at:2025-05 star:0.0k fork:0.0k Model Context Protocol Server for Mochow
-- [baidu/pymochow](https://github.com/baidu/pymochow) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
+- [baidu/pymochow](https://github.com/baidu/pymochow) topic: pushed_at:2025-11 star:0.0k fork:0.0k 
 - [baidu/QCompute](https://github.com/baidu/QCompute) topic: pushed_at:2023-12 star:0.1k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
 - [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2024-08 star:2.0k fork:0.4k Baidu's open-source Sentiment Analysis System.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) topic: pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
