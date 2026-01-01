@@ -33,7 +33,7 @@
 
 - [eclipse/ConfigJSR](https://github.com/eclipse/ConfigJSR) topic: pushed_at:2023-08 star:0.0k fork:0.0k JSR382
 - [eclipse/ice](https://github.com/eclipse/ice) topic: pushed_at:2023-10 star:0.0k fork:0.1k This project has moved to: https://gitlab.eclipse.org/eclipse/ice/ice
-- [eclipse/openvsx](https://github.com/eclipse/openvsx) topic:extension,marketplace,registry,theia,vscode pushed_at:2025-12 star:1.7k fork:0.2k An open-source registry for VS Code extensions
+- [eclipse/openvsx](https://github.com/eclipse/openvsx) topic:extension,marketplace,registry,theia,vscode pushed_at:2025-12 star:1.8k fork:0.3k An open-source registry for VS Code extensions
 - [eclipse/packager](https://github.com/eclipse/packager) topic: pushed_at:2025-09 star:0.0k fork:0.0k Eclipse Packager project
 - [eclipse/Xpect](https://github.com/eclipse/Xpect) topic: pushed_at:2025-12 star:0.0k fork:0.0k This repository has been rewritten to move to the Eclipse Foundation. Find the old history here: https://github.com/TypeFox/Xpect
 
