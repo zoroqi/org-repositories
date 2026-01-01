@@ -25,7 +25,7 @@
 - [JavaScript](#javascript) (95)
 - [Jupyter Notebook](#jupyter-notebook) (5)
 - [Objective-C](#objective-c) (10)
-- [Others](#others) (77)
+- [Others](#others) (76)
 - [PowerShell](#powershell) (1)
 - [Puppet](#puppet) (4)
 - [Python](#python) (28)
@@ -35,7 +35,7 @@
 - [Shell](#shell) (23)
 - [Smarty](#smarty) (1)
 - [Swift](#swift) (4)
-- [TypeScript](#typescript) (43)
+- [TypeScript](#typescript) (44)
 - [Vim Script](#vim-script) (1)
 - [Vue](#vue) (1)
 
@@ -43,7 +43,7 @@
 
 - [github/aroma](https://github.com/github/aroma) topic: pushed_at:2012-09 star:0.0k fork:0.0k a game engine: lua, opengl es 2.0, native client
 - [github/brubeck](https://github.com/github/brubeck) topic: pushed_at:2019-11 star:1.2k fork:0.1k A Statsd-compatible metrics aggregator
-- [github/cmark-gfm](https://github.com/github/cmark-gfm) topic: pushed_at:2024-08 star:1.0k fork:0.2k GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
+- [github/cmark-gfm](https://github.com/github/cmark-gfm) topic: pushed_at:2025-12 star:1.0k fork:0.2k GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
 - [github/git-msysgit](https://github.com/github/git-msysgit) topic: pushed_at:2014-03 star:0.0k fork:0.0k GitHub version of msysgit/git
 - [github/glb-director](https://github.com/github/glb-director) topic: pushed_at:2025-12 star:2.4k fork:0.2k GitHub Load Balancer Director and supporting tooling.
 - [github/gpgme](https://github.com/github/gpgme) topic: pushed_at:2018-11 star:0.0k fork:0.0k GnuPG Made Easy
@@ -98,7 +98,7 @@
 
 ## CodeQL
 
-- [github/codeql](https://github.com/github/codeql) topic:codeql,github-advanced-security,github-security-lab,semmle-ql,works-with-codespaces pushed_at:2025-12 star:9.0k fork:1.9k CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
+- [github/codeql](https://github.com/github/codeql) topic:codeql,github-advanced-security,github-security-lab,semmle-ql,works-with-codespaces pushed_at:2025-12 star:9.1k fork:1.9k CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
 - [github/codeql-coding-standards](https://github.com/github/codeql-coding-standards) topic:autosar,cert,code-scanning,codeql,coding-standards,cpp14,functional-safety,iso26262,misra pushed_at:2025-12 star:0.2k fork:0.1k This repository contains CodeQL queries and libraries which support various Coding Standards.
 - [github/codeql-dubbo-workshop](https://github.com/github/codeql-dubbo-workshop) topic: pushed_at:2023-01 star:0.1k fork:0.0k 
 - [github/vscode-codeql-starter](https://github.com/github/vscode-codeql-starter) topic:codeql,vscode,vscode-extension,works-with-codespaces pushed_at:2025-12 star:0.6k fork:0.3k Starter workspace to use with the CodeQL extension for Visual Studio Code.
@@ -120,11 +120,11 @@
 
 - [github/ospo-reusable-workflows](https://github.com/github/ospo-reusable-workflows) topic:auto-labeling,conventional-commits,github-actions,releases pushed_at:2025-12 star:0.0k fork:0.0k Centralized Reusable GitHub Actions
 - [github/prettier-config](https://github.com/github/prettier-config) topic:prettier,prettier-config pushed_at:2025-11 star:0.0k fork:0.0k Prettier config used at GitHub
-- [github/request-marketplace-action](https://github.com/github/request-marketplace-action) topic:actions,ops,service-delivery,services-engineering-team,services-toolbox,workflows pushed_at:2025-11 star:0.0k fork:0.0k Actions workflows to help organizations manage the process of users requesting to use GitHub Actions from Marketplace and approving or denying such requests within an organization.
+- [github/request-marketplace-action](https://github.com/github/request-marketplace-action) topic:actions,ops,service-delivery,services-engineering-team,services-toolbox,workflows pushed_at:2025-12 star:0.0k fork:0.0k Actions workflows to help organizations manage the process of users requesting to use GitHub Actions from Marketplace and approving or denying such requests within an organization.
 
 ## EJS
 
-- [github/haikus-for-codespaces](https://github.com/github/haikus-for-codespaces) topic: pushed_at:2025-12 star:2.5k fork:4.4k 
+- [github/haikus-for-codespaces](https://github.com/github/haikus-for-codespaces) topic: pushed_at:2025-12 star:2.5k fork:4.5k 
 
 ## Go
 
@@ -149,9 +149,9 @@
 - [github/gh-ost](https://github.com/github/gh-ost) topic:mysql,schema-migrations pushed_at:2025-12 star:13.1k fork:1.3k GitHub's Online Schema-migration Tool for MySQL
 - [github/gh-projects](https://github.com/github/gh-projects) topic:gh-extension pushed_at:2023-06 star:0.1k fork:0.0k gh-projects
 - [github/gh-runtime-cli](https://github.com/github/gh-runtime-cli) topic:gh-extension pushed_at:2025-12 star:0.0k fork:0.0k GH CLI extension used to deploy sparks to the GitHub runtime 
-- [github/gh-skyline](https://github.com/github/gh-skyline) topic:3d,3d-printing,cli,gh-extension,gh-extensions,github,go,golang,terminal pushed_at:2025-11 star:1.1k fork:0.1k A GitHub CLI extension to generate a 3D model of your GitHub contribution history
+- [github/gh-skyline](https://github.com/github/gh-skyline) topic:3d,3d-printing,cli,gh-extension,gh-extensions,github,go,golang,terminal pushed_at:2025-11 star:1.2k fork:0.1k A GitHub CLI extension to generate a 3D model of your GitHub contribution history
 - [github/git-sizer](https://github.com/github/git-sizer) topic:git,github,golang pushed_at:2025-12 star:3.9k fork:0.2k Compute various size metrics for a Git repository, flagging those that might cause problems
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) topic:github,mcp,mcp-server pushed_at:2025-12 star:25.2k fork:3.2k GitHub's official MCP Server
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) topic:github,mcp,mcp-server pushed_at:2025-12 star:25.6k fork:3.3k GitHub's official MCP Server
 - [github/go-mysql](https://github.com/github/go-mysql) topic: pushed_at:2016-11 star:0.0k fork:0.0k a powerful mysql toolset with Go
 - [github/go-opstocat](https://github.com/github/go-opstocat) topic: pushed_at:2016-08 star:0.0k fork:0.0k DEPRECATED
 - [github/go-pipe](https://github.com/github/go-pipe) topic: pushed_at:2025-12 star:0.1k fork:0.0k A package used to easily build command pipelines in your Go applications
@@ -181,7 +181,7 @@
 - [github/government.github.com](https://github.com/github/government.github.com) topic:government,open-government,stories pushed_at:2025-08 star:1.9k fork:1.0k Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations
 - [github/hackathons](https://github.com/github/hackathons) topic:community,discussions,hackathon,hackathon-organisers,hackathon-starter,hackathons,hacktoberfest,hacktoberfest-accepted,organiser pushed_at:2024-10 star:0.4k fork:0.1k Deprecated. See https://github.com/github/devrel/issues/2874#issuecomment-3483164290. Tips, Tricks, and Resources for running your hackathon.
 - [github/OAuth-Ruby-Quickstart](https://github.com/github/OAuth-Ruby-Quickstart) topic: pushed_at:2019-01 star:0.0k fork:0.0k Starter code and quickstart guide for a GitHub OAuth App in Ruby
-- [github/opensource.guide](https://github.com/github/opensource.guide) topic:best-practices,documentation,hacktoberfest,open-source,oss,tutorial pushed_at:2025-12 star:15.1k fork:15.2k 📚 Community guides for open source creators
+- [github/opensource.guide](https://github.com/github/opensource.guide) topic:best-practices,documentation,hacktoberfest,open-source,oss,tutorial pushed_at:2026-01 star:15.1k fork:15.2k 📚 Community guides for open source creators
 - [github/opensourcefriday](https://github.com/github/opensourcefriday) topic:open-source pushed_at:2025-12 star:1.2k fork:0.2k 🚲 Contribute to the open source community every Friday
 - [github/personal-website](https://github.com/github/personal-website) topic: pushed_at:2023-12 star:7.6k fork:6.6k Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [github/review-pull-requests-at-github-template](https://github.com/github/review-pull-requests-at-github-template) topic:learning-lab,template pushed_at:2023-01 star:0.0k fork:0.0k Template for GitHub's Reviewing Pull Requests Learning Lab course. Course ➡️
@@ -221,7 +221,7 @@
 - [github/audit-actions-workflow-runs](https://github.com/github/audit-actions-workflow-runs) topic:actions-workflows,appsec,audit,audit-log,devsecops,github-actions,supply-chain-security pushed_at:2025-12 star:0.1k fork:0.0k Audit your GitHub Actions workflow runs to see exactly which Actions were downloaded
 - [github/auto-check-element](https://github.com/github/auto-check-element) topic:custom-elements,web-components pushed_at:2025-11 star:0.2k fork:0.0k An input element that validates its value with a server endpoint.
 - [github/auto-complete-element](https://github.com/github/auto-complete-element) topic:custom-elements,web-components pushed_at:2025-11 star:0.4k fork:0.1k Auto-complete input values from server search results.
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) topic:ai,github-copilot,hacktoberfest,prompt-engineering pushed_at:2025-12 star:14.4k fork:1.7k Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) topic:ai,github-copilot,hacktoberfest,prompt-engineering pushed_at:2025-12 star:16.0k fork:1.9k Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [github/babel-plugin-ensure-name-for-custom-elements](https://github.com/github/babel-plugin-ensure-name-for-custom-elements) topic:babel-plugin,custom-elements pushed_at:2020-04 star:0.0k fork:0.0k This plugin makes sure that your custom elements always have a name property, even after minifying.
 - [github/babel-plugin-transform-custom-element-classes](https://github.com/github/babel-plugin-transform-custom-element-classes) topic: pushed_at:2020-08 star:0.1k fork:0.0k Compile ES6 HTMLElement class extensions to ES5
 - [github/babel-plugin-transform-invariant-location](https://github.com/github/babel-plugin-transform-invariant-location) topic:babel-plugin,flow pushed_at:2020-08 star:0.0k fork:0.0k Babel plugin that rewrites invariant calls with their source location
@@ -298,7 +298,7 @@
 - [github/remote-input-element](https://github.com/github/remote-input-element) topic:custom-elements,web-components pushed_at:2025-11 star:0.1k fork:0.0k An input element that sends its value to a server endpoint and renders the response body.
 - [github/restricted-input](https://github.com/github/restricted-input) topic: pushed_at:2017-09 star:0.0k fork:0.0k Restrict <input>s to certain valid characters (e.g. formatting phone or card numbers)
 - [github/rollup.js](https://github.com/github/rollup.js) topic: pushed_at:2019-03 star:0.0k fork:0.0k Next-generation ES module bundler
-- [github/safe-settings](https://github.com/github/safe-settings) topic: pushed_at:2025-12 star:0.8k fork:0.2k 
+- [github/safe-settings](https://github.com/github/safe-settings) topic: pushed_at:2026-01 star:0.8k fork:0.2k 
 - [github/session-resume](https://github.com/github/session-resume) topic:decorator pushed_at:2025-10 star:0.2k fork:0.0k Annotate fields to be persisted on navigation away from the current page
 - [github/setup-licensed](https://github.com/github/setup-licensed) topic: pushed_at:2025-02 star:0.0k fork:0.0k Set up your GitHub Actions workflow with a specific version of github/licensed
 - [github/tab-container-element](https://github.com/github/tab-container-element) topic:custom-elements,web-components pushed_at:2025-11 star:0.4k fork:0.0k An accessible tab container element with keyboard support.
@@ -335,7 +335,7 @@
 ## Others
 
 - [github/.github](https://github.com/github/.github) topic: pushed_at:2025-03 star:1.1k fork:3.3k Community health files for the @GitHub organization
-- [github/advisory-database](https://github.com/github/advisory-database) topic: pushed_at:2025-12 star:2.1k fork:0.5k Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
+- [github/advisory-database](https://github.com/github/advisory-database) topic: pushed_at:2026-01 star:2.1k fork:0.5k Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [github/ai-adoption-playbook](https://github.com/github/ai-adoption-playbook) topic: pushed_at:2025-12 star:0.0k fork:0.0k GitHub's Playbook for Internal AI Adoption
 - [github/annotation-toolkit](https://github.com/github/annotation-toolkit) topic:accessibility,android-accessibility,annotation-toolkit,annotations,figma,figma-library,inclusive-design,ios-accessibility,mobile-annotation pushed_at:2025-12 star:0.3k fork:0.0k  The GitHub Annotation Toolkit is a Figma asset library packed with components to help you organize your design canvas, diagram UI anatomy, and annotate accessibility details for web and mobile experiences. 
 - [github/aptly](https://github.com/github/aptly) topic: pushed_at:2014-09 star:0.0k fork:0.0k aptly - Debian repository management tool
@@ -346,14 +346,14 @@
 - [github/code-navigation](https://github.com/github/code-navigation) topic: pushed_at:2025-03 star:0.0k fork:0.0k Public documentation about GitHub's code navigation system
 - [github/codeql-cli-binaries](https://github.com/github/codeql-cli-binaries) topic: pushed_at:2025-12 star:0.9k fork:0.2k Binaries for the CodeQL CLI
 - [github/codeql-go](https://github.com/github/codeql-go) topic:codeql,datalog,go,golang,program-analysis,static-analysis pushed_at:2023-01 star:0.5k fork:0.1k The CodeQL extractor and libraries for Go.
-- [github/codespaces-blank](https://github.com/github/codespaces-blank) topic: pushed_at:2024-08 star:0.4k fork:3.1k 
+- [github/codespaces-blank](https://github.com/github/codespaces-blank) topic: pushed_at:2024-08 star:0.5k fork:3.1k 
 - [github/codespaces-host-images](https://github.com/github/codespaces-host-images) topic: pushed_at:2025-07 star:0.0k fork:0.0k Codespaces Host Images
 - [github/codespaces-jetbrains-feedback](https://github.com/github/codespaces-jetbrains-feedback) topic: pushed_at:2023-08 star:0.0k fork:0.0k Feedback on the Codespaces integration with JetBrains IDEs
 - [github/copilot-docs](https://github.com/github/copilot-docs) topic: pushed_at:2023-11 star:23.3k fork:2.4k Documentation for GitHub Copilot
 - [github/copilot-language-server-release](https://github.com/github/copilot-language-server-release) topic:ai,copilot,language-server-protocol pushed_at:2025-12 star:0.2k fork:0.0k Feedback for the GitHub Copilot Language Server
 - [github/covid-19-repo-data](https://github.com/github/covid-19-repo-data) topic:covid-19,dataset,extracts,open-data pushed_at:2023-03 star:0.5k fork:0.2k Data archive of identifiable COVID-19 related public projects on GitHub 
 - [github/cvelist](https://github.com/github/cvelist) topic: pushed_at:2023-09 star:0.0k fork:0.0k Pilot program for CVE submission through GitHub
-- [github/dev](https://github.com/github/dev) topic: pushed_at:2024-08 star:1.4k fork:5.3k Press the . key on any repo
+- [github/dev](https://github.com/github/dev) topic: pushed_at:2024-08 star:1.4k fork:5.4k Press the . key on any repo
 - [github/developer-policy](https://github.com/github/developer-policy) topic: pushed_at:2025-12 star:0.0k fork:0.0k The GitHub Policy Team created and maintains this repository as a place for developers to contribute to our policy work.
 - [github/DPG-guidance](https://github.com/github/DPG-guidance) topic: pushed_at:2023-07 star:0.0k fork:0.0k Repo for guidance on how to use GitHub for digital public goods (DPGs)
 - [github/form-templates](https://github.com/github/form-templates) topic: pushed_at:2024-09 star:0.0k fork:0.0k Public Form Templates to get your project started
@@ -370,9 +370,9 @@
 - [github/GitHub-for-Startups-HQ](https://github.com/github/GitHub-for-Startups-HQ) topic: pushed_at:2025-07 star:0.1k fork:0.0k GitHub for Startups HQ
 - [github/github-ospo](https://github.com/github/github-ospo) topic:open-source,open-source-program-office,ospo pushed_at:2025-12 star:0.7k fork:0.1k Helping open source program offices get started
 - [github/githubOCTO](https://github.com/github/githubOCTO) topic: pushed_at:2020-08 star:0.1k fork:0.0k 
-- [github/gitignore](https://github.com/github/gitignore) topic:git,gitignore pushed_at:2025-11 star:171.3k fork:83.0k A collection of useful .gitignore templates
+- [github/gitignore](https://github.com/github/gitignore) topic:git,gitignore pushed_at:2025-11 star:171.5k fork:83.0k A collection of useful .gitignore templates
 - [github/gov-takedowns](https://github.com/github/gov-takedowns) topic: pushed_at:2025-12 star:3.1k fork:0.2k Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
-- [github/GreenSoftwareDirectory](https://github.com/github/GreenSoftwareDirectory) topic:developer-community,green-software,sustainability pushed_at:2025-11 star:0.7k fork:0.1k Welcome to GitHub's Green Software Directory!
+- [github/GreenSoftwareDirectory](https://github.com/github/GreenSoftwareDirectory) topic:developer-community,green-software,sustainability pushed_at:2025-11 star:0.8k fork:0.1k Welcome to GitHub's Green Software Directory!
 - [github/grocer](https://github.com/github/grocer) topic: pushed_at:2014-09 star:0.0k fork:0.0k Pushing your Apple notifications since 2012.
 - [github/homebrew-gh](https://github.com/github/homebrew-gh) topic:cli,homebrew-tap pushed_at:2020-08 star:0.1k fork:0.0k Homebrew tap for the GitHub CLI
 - [github/how-engineering-communicates](https://github.com/github/how-engineering-communicates) topic: pushed_at:2025-01 star:0.5k fork:0.1k A community version of the "common API" for how the GitHub Engineering organization communicates
@@ -398,7 +398,7 @@
 - [github/release-radar](https://github.com/github/release-radar) topic: pushed_at:2024-07 star:0.3k fork:0.0k Repo for submission of projects to consider for the GitHub Release Radar 📡
 - [github/renaming](https://github.com/github/renaming) topic: pushed_at:2022-03 star:2.4k fork:0.2k Guidance for changing the default branch name for GitHub repositories
 - [github/Research-Panel-Sweepstakes](https://github.com/github/Research-Panel-Sweepstakes) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
-- [github/rest-api-description](https://github.com/github/rest-api-description) topic: pushed_at:2025-12 star:1.5k fork:0.3k An OpenAPI description for GitHub's REST API
+- [github/rest-api-description](https://github.com/github/rest-api-description) topic: pushed_at:2025-12 star:1.6k fork:0.3k An OpenAPI description for GitHub's REST API
 - [github/rest-api-docs-md](https://github.com/github/rest-api-docs-md) topic:documentation,github,markdown,rest,rest-api pushed_at:2025-09 star:0.0k fork:0.0k Documentation for read-only REST API operations, generated from the OpenAPI schema
 - [github/roadmap](https://github.com/github/roadmap) topic:github,github-enterprise,roadmap pushed_at:2024-10 star:8.5k fork:1.5k GitHub public roadmap
 - [github/roskomnadzor](https://github.com/github/roskomnadzor) topic: pushed_at:2016-06 star:0.4k fork:0.0k deprecated archive — moved to https://github.com/github/gov-takedowns/tree/master/Russia
@@ -410,7 +410,6 @@
 - [github/strap](https://github.com/github/strap) topic: pushed_at:2022-10 star:0.1k fork:0.0k Archived fork of mikemcquaid/strap ☠️
 - [github/swift-style-guide](https://github.com/github/swift-style-guide) topic: pushed_at:2017-11 star:4.8k fork:0.6k **Archived** Style guide & coding conventions for Swift projects
 - [github/travel-reservation-models](https://github.com/github/travel-reservation-models) topic: pushed_at:2025-08 star:0.0k fork:0.0k Let's play with all the different Copilot models!
-- [github/winget-pkgs](https://github.com/github/winget-pkgs) topic: pushed_at:2025-12 star:0.0k fork:0.0k The Microsoft community Windows Package Manager manifest repository
 
 ## PowerShell
 
@@ -427,7 +426,7 @@
 
 - [github/annotated-logger](https://github.com/github/annotated-logger) topic: pushed_at:2025-12 star:0.1k fork:0.0k A decorator to aid in annotating logs for easier reading and searching
 - [github/argo-ml](https://github.com/github/argo-ml) topic: pushed_at:2021-04 star:0.0k fork:0.0k Controllers, wrappers and miscaleus utils to make it easier for Argo to be used in ML scenarios
-- [github/artifact-attestations-workflows](https://github.com/github/artifact-attestations-workflows) topic:package-security pushed_at:2025-11 star:0.0k fork:0.0k Demo repository showcasing how to use reusable workflows to build artifact attestations
+- [github/artifact-attestations-workflows](https://github.com/github/artifact-attestations-workflows) topic:package-security pushed_at:2025-12 star:0.0k fork:0.0k Demo repository showcasing how to use reusable workflows to build artifact attestations
 - [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) topic:actions,documentation,github-actions,hacktoberfest,innersource,open-source,ospo pushed_at:2025-04 star:0.0k fork:0.0k Automatically open a pull request for repositories that have no CONTRIBUTING.md file
 - [github/cleanowners](https://github.com/github/cleanowners) topic: pushed_at:2025-12 star:0.1k fork:0.0k A GitHub Action to suggest removal of non-organization members from CODEOWNERS files
 - [github/codespaces-django](https://github.com/github/codespaces-django) topic: pushed_at:2025-06 star:0.1k fork:0.2k 
@@ -449,7 +448,7 @@
 - [github/osv-schema](https://github.com/github/osv-schema) topic: pushed_at:2022-01 star:0.0k fork:0.0k Open Source Vulnerability schema. 
 - [github/pycon2011](https://github.com/github/pycon2011) topic: pushed_at:2011-02 star:0.4k fork:0.1k 
 - [github/snakebite](https://github.com/github/snakebite) topic: pushed_at:2017-10 star:0.0k fork:0.0k A pure python HDFS client
-- [github/spec-kit](https://github.com/github/spec-kit) topic:ai,copilot,development,engineering,prd,spec,spec-driven pushed_at:2025-12 star:55.9k fork:4.9k 💫 Toolkit to help you get started with Spec-Driven Development
+- [github/spec-kit](https://github.com/github/spec-kit) topic:ai,copilot,development,engineering,prd,spec,spec-driven pushed_at:2025-12 star:58.9k fork:5.1k 💫 Toolkit to help you get started with Spec-Driven Development
 - [github/stale-repos](https://github.com/github/stale-repos) topic:actions,archive,github-action,hacktoberfest,ospo,python,stale pushed_at:2025-12 star:0.2k fork:0.0k Find stale repositories in a GitHub organization.
 - [github/transparency](https://github.com/github/transparency) topic:data,dataset,open-data,transparency pushed_at:2025-09 star:0.0k fork:0.0k Structured data files for topics covered by GitHub's Transparency Report
 - [github/user-engagement-metrics](https://github.com/github/user-engagement-metrics) topic:open-source-metrics pushed_at:2025-07 star:0.0k fork:0.0k A tool for collecting and analyzing GitHub user engagement data.
@@ -474,13 +473,13 @@
 - [github/elastomer-client](https://github.com/github/elastomer-client) topic: pushed_at:2025-10 star:0.2k fork:0.0k A library for interacting with Elasticsearch
 - [github/email_reply_parser](https://github.com/github/email_reply_parser) topic: pushed_at:2025-11 star:0.7k fork:0.2k Small library to parse plain text email content
 - [github/enterprise-ohai](https://github.com/github/enterprise-ohai) topic: pushed_at:2015-02 star:0.0k fork:0.0k Ohai plugins from GitHub Enterprise
-- [github/entitlements-app](https://github.com/github/entitlements-app) topic:entitlements,iam,security pushed_at:2025-11 star:0.4k fork:0.0k The Ruby Gem that Powers Entitlements - GitHub's Identity and Access Management System
+- [github/entitlements-app](https://github.com/github/entitlements-app) topic:entitlements,iam,security pushed_at:2025-12 star:0.4k fork:0.0k The Ruby Gem that Powers Entitlements - GitHub's Identity and Access Management System
 - [github/entitlements-github-plugin](https://github.com/github/entitlements-github-plugin) topic:entitlements,github,iam,security pushed_at:2025-12 star:0.0k fork:0.0k Entitlements plugin to manage GitHub Orgs and Team memberships and access
 - [github/entitlements-gitrepo-auditor-plugin](https://github.com/github/entitlements-gitrepo-auditor-plugin) topic:audit,entitlements,iam,security pushed_at:2025-12 star:0.0k fork:0.0k Entitlements plugin for a robust audit log
 - [github/erblint-github](https://github.com/github/erblint-github) topic:accessibility,lint,ruby pushed_at:2025-12 star:0.1k fork:0.0k Template style checking for GitHub's Ruby projects
 - [github/ernicorn](https://github.com/github/ernicorn) topic: pushed_at:2020-06 star:0.0k fork:0.0k Ruby BERTRPC server based on Unicorn
 - [github/evenflow](https://github.com/github/evenflow) topic: pushed_at:2015-11 star:0.0k fork:0.0k sFlow to Graphite bridge
-- [github/explore](https://github.com/github/explore) topic:collections,community-driven,explore,github,topics pushed_at:2025-12 star:4.6k fork:13.8k Community-curated topic and collection pages on GitHub
+- [github/explore](https://github.com/github/explore) topic:collections,community-driven,explore,github,topics pushed_at:2025-12 star:4.6k fork:13.9k Community-curated topic and collection pages on GitHub
 - [github/facter](https://github.com/github/facter) topic: pushed_at:2016-02 star:0.0k fork:0.0k Collect and display system facts
 - [github/fake_braintree](https://github.com/github/fake_braintree) topic: pushed_at:2017-10 star:0.0k fork:0.0k A Braintree so fake that you can avoid hitting Braintree servers in tests.
 - [github/fog](https://github.com/github/fog) topic: pushed_at:2015-01 star:0.0k fork:0.0k The Ruby cloud services library.
@@ -580,10 +579,10 @@
 - [github/buildstep](https://github.com/github/buildstep) topic: pushed_at:2013-08 star:0.0k fork:0.0k Buildstep uses Docker and Buildpacks to build applications like Heroku
 - [github/cas-overlay](https://github.com/github/cas-overlay) topic: pushed_at:2016-08 star:0.0k fork:0.0k Maven overlay for local CAS development and testing
 - [github/codespaces-codeql](https://github.com/github/codespaces-codeql) topic:codeql,codespaces,template pushed_at:2024-02 star:0.0k fork:0.0k Get to know more about the concepts of CodeQL by trying our simple tutorials.
-- [github/copilot-cli](https://github.com/github/copilot-cli) topic: pushed_at:2025-12 star:6.0k fork:0.7k GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
+- [github/copilot-cli](https://github.com/github/copilot-cli) topic: pushed_at:2025-12 star:6.2k fork:0.8k GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. 
 - [github/deploy-nodejs](https://github.com/github/deploy-nodejs) topic: pushed_at:2020-12 star:0.0k fork:0.0k GitHub Action to deploy a NodeJS app to AWS Serverless
 - [github/docker-awscli](https://github.com/github/docker-awscli) topic: pushed_at:2017-12 star:0.0k fork:0.0k Another aws cli for hacking
-- [github/entitlements-config](https://github.com/github/entitlements-config) topic:automation,entitlements,iam,security pushed_at:2025-07 star:0.1k fork:0.0k An example of how Entitlements can be configured
+- [github/entitlements-config](https://github.com/github/entitlements-config) topic:automation,entitlements,iam,security pushed_at:2025-12 star:0.1k fork:0.0k An example of how Entitlements can be configured
 - [github/gh-codeql](https://github.com/github/gh-codeql) topic:gh-extension pushed_at:2025-02 star:0.0k fork:0.0k GitHub CLI extension for working with CodeQL
 - [github/gh-ost-ci-env](https://github.com/github/gh-ost-ci-env) topic: pushed_at:2022-11 star:0.0k fork:0.0k CI environment for gh-ost testing
 - [github/ghfw-build-extra](https://github.com/github/ghfw-build-extra) topic: pushed_at:2022-08 star:0.0k fork:0.0k Build scripts and customizations for creating the Git Shell environment included in GitHub Desktop
@@ -606,7 +605,7 @@
 
 ## Swift
 
-- [github/CopilotForXcode](https://github.com/github/CopilotForXcode) topic:ai,code,intelligence,xcode pushed_at:2025-12 star:5.4k fork:1.6k AI coding assistant for Xcode
+- [github/CopilotForXcode](https://github.com/github/CopilotForXcode) topic:ai,code,intelligence,xcode pushed_at:2025-12 star:5.4k fork:1.7k AI coding assistant for Xcode
 - [github/Nimble](https://github.com/github/Nimble) topic: pushed_at:2014-11 star:0.0k fork:0.0k A Matcher Framework for Swift and Objective-C
 - [github/Quick](https://github.com/github/Quick) topic: pushed_at:2014-11 star:0.0k fork:0.0k A behavior-driven development test framework for Swift and Objective-C.
 - [github/SoftU2F](https://github.com/github/SoftU2F) topic:cryptography,fido-u2f,macos pushed_at:2020-12 star:2.2k fork:0.1k Software U2F authenticator for macOS
@@ -624,7 +623,7 @@
 - [github/custom-element-boilerplate](https://github.com/github/custom-element-boilerplate) topic:custom-elements,web-components pushed_at:2025-10 star:0.2k fork:0.0k Boilerplate for creating a custom element.
 - [github/dependabot-action](https://github.com/github/dependabot-action) topic: pushed_at:2025-12 star:0.1k fork:0.1k Runs Dependabot Updates via GitHub Actions.
 - [github/dependency-submission-toolkit](https://github.com/github/dependency-submission-toolkit) topic: pushed_at:2025-11 star:0.1k fork:0.0k A TypeScript library for creating dependency snapshots. 
-- [github/docs](https://github.com/github/docs) topic:docs,works-with-codespaces pushed_at:2025-12 star:18.5k fork:65.0k The open-source repo for docs.github.com
+- [github/docs](https://github.com/github/docs) topic:docs,works-with-codespaces pushed_at:2025-12 star:18.6k fork:65.3k The open-source repo for docs.github.com
 - [github/Dynamic-Template-Engine](https://github.com/github/Dynamic-Template-Engine) topic: pushed_at:2025-03 star:0.0k fork:0.0k A typescript library to transform event payloads (in json format) to standard jsons or chat client platform specific jsons (e.g. Slack and Teams) using templates (e.g. handlebars)
 - [github/file-attachment-element](https://github.com/github/file-attachment-element) topic:custom-elements,keep,web-components pushed_at:2025-12 star:0.1k fork:0.0k Attach files via drag and drop or file input.
 - [github/filter-input-element](https://github.com/github/filter-input-element) topic:custom-elements,web-components pushed_at:2025-10 star:0.1k fork:0.0k Display elements in a subtree that match filter input text.
@@ -645,6 +644,7 @@
 - [github/omnisharp-vscode](https://github.com/github/omnisharp-vscode) topic: pushed_at:2020-05 star:0.0k fork:0.0k Official C# support for Visual Studio Code (powered by OmniSharp)
 - [github/quote-selection](https://github.com/github/quote-selection) topic:decorator,keep,markdown pushed_at:2025-10 star:0.0k fork:0.0k Install a shortcut to append selected text to a <textarea> as a Markdown quote.
 - [github/remote-form](https://github.com/github/remote-form) topic:ajax,decorator,form,microlibrary pushed_at:2025-10 star:0.1k fork:0.0k Submit forms via AJAX with ease
+- [github/rollup-and-away](https://github.com/github/rollup-and-away) topic: pushed_at:2025-12 star:0.0k fork:0.0k Declarative template-based building blocks for generating Rollup reports, including AI summaries
 - [github/spark-template](https://github.com/github/spark-template) topic: pushed_at:2025-12 star:0.1k fork:0.0k 
 - [github/stable-socket](https://github.com/github/stable-socket) topic:keep,websocket pushed_at:2025-11 star:0.1k fork:0.0k A web socket that reconnects.
 - [github/task-lists-element](https://github.com/github/task-lists-element) topic:custom-elements,web-components pushed_at:2025-11 star:0.1k fork:0.0k Drag and drop task list items.
@@ -652,14 +652,14 @@
 - [github/turbo](https://github.com/github/turbo) topic: pushed_at:2025-11 star:0.0k fork:0.0k The speed of a single-page web application without having to write any JavaScript
 - [github/update-project-action](https://github.com/github/update-project-action) topic: pushed_at:2025-12 star:0.0k fork:0.0k Updates an item on a GitHub Projects (beta) board based on a workflow dispatch (or other) event's input.
 - [github/vscode-codeql](https://github.com/github/vscode-codeql) topic:codeql,vscode,vscode-extension,works-with-codespaces pushed_at:2025-12 star:0.5k fork:0.2k An extension for Visual Studio Code that adds rich language support for CodeQL
-- [github/vscode-github-actions](https://github.com/github/vscode-github-actions) topic:actions,github,vscode,vscode-extension pushed_at:2025-12 star:0.6k fork:0.1k GitHub Actions extension for VS Code
+- [github/vscode-github-actions](https://github.com/github/vscode-github-actions) topic:actions,github,vscode,vscode-extension pushed_at:2025-12 star:0.6k fork:0.2k GitHub Actions extension for VS Code
 - [github/vscode-kubernetes-tools](https://github.com/github/vscode-kubernetes-tools) topic: pushed_at:2020-06 star:0.0k fork:0.0k Kubernetes extension for Visual Studio Code
 - [github/webauthn-json](https://github.com/github/webauthn-json) topic:fido,fido2,security-key,u2f,webauthn,webauthn-library pushed_at:2025-08 star:0.8k fork:0.1k 🔏 A small WebAuthn API wrapper that translates to/from pure JSON using base64url.
 - [github/webpack-bundlesize-compare-action](https://github.com/github/webpack-bundlesize-compare-action) topic: pushed_at:2025-12 star:0.1k fork:0.0k A github action that outputs bundlesize comparison tables for pull requests
 
 ## Vim Script
 
-- [github/copilot.vim](https://github.com/github/copilot.vim) topic: pushed_at:2025-11 star:11.1k fork:0.7k Neovim plugin for GitHub Copilot
+- [github/copilot.vim](https://github.com/github/copilot.vim) topic: pushed_at:2025-12 star:11.2k fork:0.7k Neovim plugin for GitHub Copilot
 
 ## Vue
 

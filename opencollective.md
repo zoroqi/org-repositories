@@ -1080,7 +1080,7 @@
 - [opencollective/tabler-angular](https://github.com/opencollective/tabler-angular) topic: pushed_at:2019-05 star:0.0k fork:0.0k Maintained by @arunabhdas Tabler for Angular - Components, demos and documentation
 - [opencollective/tandem](https://github.com/opencollective/tandem) topic: pushed_at:2019-02 star:0.0k fork:0.0k Tandem is a visual editor for web applications
 - [opencollective/terminus](https://github.com/opencollective/terminus) topic: pushed_at:2019-07 star:0.0k fork:0.0k A terminal for a more modern age
-- [opencollective/token-bot](https://github.com/opencollective/token-bot) topic: pushed_at:2025-11 star:0.0k fork:0.0k Discord Bot
+- [opencollective/token-bot](https://github.com/opencollective/token-bot) topic: pushed_at:2025-12 star:0.0k fork:0.0k Discord Bot
 - [opencollective/txinfo](https://github.com/opencollective/txinfo) topic: pushed_at:2025-10 star:0.0k fork:0.0k A simple service to add or get more information about a given transaction
 - [opencollective/typeorm](https://github.com/opencollective/typeorm) topic: pushed_at:2017-09 star:0.0k fork:0.0k Amazing ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [opencollective/vig](https://github.com/opencollective/vig) topic: pushed_at:2019-06 star:0.0k fork:0.0k 一个Web业务框架，专注于代码的精减、Web业务的细化、软件模块的复用和组件化开发

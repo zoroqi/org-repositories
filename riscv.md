@@ -33,7 +33,7 @@
 
 - [riscv/composable-custom-extensions](https://github.com/riscv/composable-custom-extensions) topic: pushed_at:2025-12 star:0.0k fork:0.0k This task group will propose ISA extension(s) and non-ISA hardware and software interop interfaces to enable routine reuse and composition of a subcategory of custom extensions called composable extensions.
 - [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) topic: pushed_at:2025-12 star:0.0k fork:0.0k 
-- [riscv/riscv-aia](https://github.com/riscv/riscv-aia) topic: pushed_at:2025-08 star:0.1k fork:0.0k 
+- [riscv/riscv-aia](https://github.com/riscv/riscv-aia) topic: pushed_at:2025-12 star:0.1k fork:0.0k 
 - [riscv/riscv-attached-matrix-facility](https://github.com/riscv/riscv-attached-matrix-facility) topic: pushed_at:2023-10 star:0.0k fork:0.0k Attached Matrix Facility Specification
 - [riscv/riscv-b](https://github.com/riscv/riscv-b) topic: pushed_at:2025-12 star:0.0k fork:0.0k "B" extension - that represents the collection of the Zba, Zbb, and Zbs extensions 
 - [riscv/riscv-bfloat16](https://github.com/riscv/riscv-bfloat16) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
@@ -44,9 +44,9 @@
 - [riscv/riscv-double-trap](https://github.com/riscv/riscv-double-trap) topic: pushed_at:2024-08 star:0.0k fork:0.0k RISC-V Double Trap Fast-Track Extension
 - [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) topic: pushed_at:2025-12 star:0.3k fork:0.1k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
 - [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) topic: pushed_at:2025-12 star:0.0k fork:0.0k 
-- [riscv/riscv-high-assurance-cryptography](https://github.com/riscv/riscv-high-assurance-cryptography) topic: pushed_at:2025-12 star:0.0k fork:0.0k  High Assurance Cryptography
-- [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) topic: pushed_at:2025-10 star:0.2k fork:0.0k Working Draft of the RISC-V J Extension Specification
-- [riscv/riscv-memory-tagging](https://github.com/riscv/riscv-memory-tagging) topic: pushed_at:2025-11 star:0.0k fork:0.0k Memory Tagging ISA extension that can be used by software to enforce memory tag checks on memory loads and stores
+- [riscv/riscv-high-assurance-cryptography](https://github.com/riscv/riscv-high-assurance-cryptography) topic: pushed_at:2026-01 star:0.0k fork:0.0k  High Assurance Cryptography
+- [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) topic: pushed_at:2025-12 star:0.2k fork:0.0k Working Draft of the RISC-V J Extension Specification
+- [riscv/riscv-memory-tagging](https://github.com/riscv/riscv-memory-tagging) topic: pushed_at:2025-12 star:0.0k fork:0.0k Memory Tagging ISA extension that can be used by software to enforce memory tag checks on memory loads and stores
 - [riscv/riscv-performance-event-sampling](https://github.com/riscv/riscv-performance-event-sampling) topic: pushed_at:2025-12 star:0.0k fork:0.0k Define 2 new extensions to, along with Zihpm and Sscofpmf, enable event and instruction sampling with precise attribution.
 - [riscv/riscv-performance-events](https://github.com/riscv/riscv-performance-events) topic: pushed_at:2025-12 star:0.0k fork:0.0k RISC-V Performance Events Specification
 - [riscv/riscv-pqc](https://github.com/riscv/riscv-pqc) topic: pushed_at:2024-02 star:0.0k fork:0.0k Post Quantum Cryptography
