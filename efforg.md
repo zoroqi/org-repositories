@@ -74,7 +74,7 @@
 
 - [EFForg/congress-forms-test](https://github.com/EFForg/congress-forms-test) topic: pushed_at:2016-03 star:0.0k fork:0.0k Way for volunteers to test EFF's congress-forms repo
 - [EFForg/congress-forms.js](https://github.com/EFForg/congress-forms.js) topic: pushed_at:2014-06 star:0.0k fork:0.0k A javascript widget which can construct plain forms that submit to a contact-congress server.
-- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) topic: pushed_at:2025-09 star:0.2k fork:0.0k Is your browser safe against tracking?
+- [EFForg/cover-your-tracks](https://github.com/EFForg/cover-your-tracks) topic: pushed_at:2025-09 star:0.3k fork:0.0k Is your browser safe against tracking?
 - [EFForg/cyberspying](https://github.com/EFForg/cyberspying) topic: pushed_at:2015-12 star:0.0k fork:0.0k cyberspying.eff.org twitter tool
 - [EFForg/fight215](https://github.com/EFForg/fight215) topic: pushed_at:2015-06 star:0.0k fork:0.0k 
 - [EFForg/find-aa-domains](https://github.com/EFForg/find-aa-domains) topic: pushed_at:2019-04 star:0.0k fork:0.0k Create a script to find domains in the PB pre-block list which are mentioned in the Acceptable Ads list as well
@@ -84,7 +84,7 @@
 - [EFForg/ngw-website](https://github.com/EFForg/ngw-website) topic: pushed_at:2017-01 star:0.0k fork:0.0k 
 - [EFForg/node-wethepeople](https://github.com/EFForg/node-wethepeople) topic: pushed_at:2015-09 star:0.0k fork:0.0k Node wrapper for the We the People API
 - [EFForg/OpenWireless](https://github.com/EFForg/OpenWireless) topic: pushed_at:2022-03 star:0.7k fork:0.1k The official home of the EFF OpenWireless Project
-- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) topic:browser-fingerprinting,chrome-extension,cookies,fingerprinting,firefox-extension,javascript,privacy,tracking,webextension pushed_at:2025-12 star:3.6k fork:0.4k Privacy Badger is a browser extension that automatically learns to block hidden trackers
+- [EFForg/privacybadger](https://github.com/EFForg/privacybadger) topic:browser-fingerprinting,chrome-extension,cookies,fingerprinting,firefox-extension,javascript,privacy,tracking,webextension pushed_at:2026-01 star:3.6k fork:0.4k Privacy Badger is a browser extension that automatically learns to block hidden trackers
 - [EFForg/privacybadger-test-fixtures](https://github.com/EFForg/privacybadger-test-fixtures) topic: pushed_at:2025-11 star:0.0k fork:0.0k Test fixtures for Privacy Badger
 - [EFForg/privacybadgerfirefox-legacy](https://github.com/EFForg/privacybadgerfirefox-legacy) topic: pushed_at:2016-12 star:0.4k fork:0.1k LEGACY Privacy Badger for Firefox SEE README
 - [EFForg/psi-tumblr-crawler](https://github.com/EFForg/psi-tumblr-crawler) topic: pushed_at:2015-08 star:0.0k fork:0.0k 
@@ -124,7 +124,7 @@
 
 ## Python
 
-- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) topic: pushed_at:2025-12 star:0.1k fork:0.0k Automated training for Privacy Badger. Badger Sett automates browsers to visit websites to produce fresh Privacy Badger tracker data.
+- [EFForg/badger-sett](https://github.com/EFForg/badger-sett) topic: pushed_at:2026-01 star:0.1k fork:0.0k Automated training for Privacy Badger. Badger Sett automates browsers to visit websites to produce fresh Privacy Badger tracker data.
 - [EFForg/call-congress](https://github.com/EFForg/call-congress) topic: pushed_at:2025-03 star:0.0k fork:0.0k a simple server that connects calls between citizens and their congress person using the Twilio API
 - [EFForg/crocodilehunter](https://github.com/EFForg/crocodilehunter) topic:4g,bladerf,imsi-catcher,imsi-catchers,libbladerf,lte,raspberry-pi,security,usrp,wigle pushed_at:2023-02 star:1.0k fork:0.1k Taking one back for Steve Irwin 　 　 (๑•̀ㅂ•́)و
 - [EFForg/cryptobot-email](https://github.com/EFForg/cryptobot-email) topic: pushed_at:2014-05 star:0.1k fork:0.0k 
@@ -164,13 +164,13 @@
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) topic: pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 - [EFForg/https-everywhere-rust-test-implementation](https://github.com/EFForg/https-everywhere-rust-test-implementation) topic: pushed_at:2020-04 star:0.0k fork:0.0k 
 - [EFForg/pycrate-rs](https://github.com/EFForg/pycrate-rs) topic: pushed_at:2025-07 star:0.0k fork:0.0k A Rust telcom parser generated from pycrate
-- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) topic: pushed_at:2025-12 star:3.9k fork:0.3k Rust tool to detect cell site simulators on an orbic mobile hotspot 
+- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) topic: pushed_at:2026-01 star:4.2k fork:0.3k Rust tool to detect cell site simulators on an orbic mobile hotspot 
 - [EFForg/rs-google-play](https://github.com/EFForg/rs-google-play) topic: pushed_at:2025-11 star:0.0k fork:0.0k Google Play API for Rust
 - [EFForg/tokio-dl-stream-to-disk](https://github.com/EFForg/tokio-dl-stream-to-disk) topic: pushed_at:2024-07 star:0.0k fork:0.0k A micro-library for downloading from a URL and streaming it directly to the disk
 
 ## SCSS
 
-- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) topic: pushed_at:2025-11 star:0.0k fork:0.0k Code and content of https://privacybadger.org
+- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) topic: pushed_at:2026-01 star:0.0k fork:0.0k Code and content of https://privacybadger.org
 
 ## Sass
 
