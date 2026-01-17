@@ -46,7 +46,7 @@
 - [apachecn/geeksforgeeks-dsal-zh](https://github.com/apachecn/geeksforgeeks-dsal-zh) topic: pushed_at:2022-01 star:0.1k fork:0.0k :book: [译] GeeksForGeeks 翻译计划
 - [apachecn/gen-epub](https://github.com/apachecn/gen-epub) topic: pushed_at:2023-03 star:0.0k fork:0.0k 用于生成 EPUB 的小工具。
 - [apachecn/hands-on-ml-2e-zh](https://github.com/apachecn/hands-on-ml-2e-zh) topic: pushed_at:2021-08 star:0.2k fork:0.1k :book: [译] Sklearn 与 TensorFlow 机器学习实用指南第二版
-- [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) topic:book,deep-learning,machine-learning,python,sklearn,tensorflow pushed_at:2021-08 star:3.8k fork:1.5k :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
+- [apachecn/hands-on-ml-zh](https://github.com/apachecn/hands-on-ml-zh) topic:book,deep-learning,machine-learning,python,sklearn,tensorflow pushed_at:2021-08 star:3.9k fork:1.5k :book: [译] Sklearn 与 TensorFlow 机器学习实用指南【版权问题，网站已下线！！】
 - [apachecn/kali-linux-cookbook-zh](https://github.com/apachecn/kali-linux-cookbook-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Kali Linux 秘籍 中文版
 - [apachecn/kali-linux-network-scanning-cookbook-zh](https://github.com/apachecn/kali-linux-network-scanning-cookbook-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Kali Linux 网络扫描秘籍 中文版
 - [apachecn/kali-linux-web-pentest-cookbook-zh](https://github.com/apachecn/kali-linux-web-pentest-cookbook-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Kali Linux Web 渗透测试秘籍 中文版
@@ -519,7 +519,7 @@
 
 ## Jupyter Notebook
 
-- [apachecn/Interview](https://github.com/apachecn/Interview) topic:interview,kaggle,leetcode,machine-learning,python pushed_at:2023-10 star:8.9k fork:2.2k Interview = 简历指南 + 算法题 + 八股文 + 源码分析
+- [apachecn/Interview](https://github.com/apachecn/Interview) topic:interview,kaggle,leetcode,machine-learning,python pushed_at:2023-10 star:9.0k fork:2.2k Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 - [apachecn/Multimodal-short-video-dataset-and-baseline-classification-model](https://github.com/apachecn/Multimodal-short-video-dataset-and-baseline-classification-model) topic: pushed_at:2019-07 star:0.0k fork:0.0k multimodal short video datasets and  classification model(based on TensorFlow2.0 本资源含有50多万条多模态短视频数据集和对应的分类模型，旨在打造多模态分类框架。
 
 ## Others
@@ -1197,7 +1197,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:41.9k fork:11.6k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:42.0k fork:11.6k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
@@ -1240,7 +1240,7 @@
 - [apachecn/java8-tut-zh](https://github.com/apachecn/java8-tut-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Java8 中文官方文档（施工中）
 - [apachecn/misc-docs-zh](https://github.com/apachecn/misc-docs-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :books: [译] ApacheCN 短篇集
 - [apachecn/ml-book-100-zh](https://github.com/apachecn/ml-book-100-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] 百页机器学习小书
-- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2025-08 star:4.2k fork:1.0k Pytorch 中文文档
+- [apachecn/pytorch-doc-zh](https://github.com/apachecn/pytorch-doc-zh) topic:deep-learning,documentation,python,pytorch pushed_at:2026-01 star:4.2k fork:1.0k Pytorch 中文文档
 - [apachecn/rpy2-doc-zh](https://github.com/apachecn/rpy2-doc-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/stanford-cs234-notes-zh](https://github.com/apachecn/stanford-cs234-notes-zh) topic: pushed_at:2021-01 star:0.2k fork:0.0k 斯坦福 cs234 强化学习中文讲义
 - [apachecn/stanford-game-theory-notes-zh](https://github.com/apachecn/stanford-game-theory-notes-zh) topic: pushed_at:2020-09 star:0.2k fork:0.0k 📖斯坦福博弈论中文笔记
