@@ -116,7 +116,7 @@
 - [baidu/san](https://github.com/baidu/san) topic:component,framework,frontend,javascript,mvvm,san pushed_at:2026-01 star:4.8k fork:0.5k A fast, portable, flexible JavaScript component framework
 - [baidu/san-composition](https://github.com/baidu/san-composition) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [baidu/san-factory](https://github.com/baidu/san-factory) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
-- [baidu/san-router](https://github.com/baidu/san-router) topic:san pushed_at:2023-12 star:0.0k fork:0.0k Official Router for San
+- [baidu/san-router](https://github.com/baidu/san-router) topic:san pushed_at:2026-01 star:0.0k fork:0.0k Official Router for San
 - [baidu/san-store](https://github.com/baidu/san-store) topic:appstate,san pushed_at:2025-01 star:0.1k fork:0.0k Application States Management for San
 - [baidu/san-update](https://github.com/baidu/san-update) topic:san pushed_at:2023-05 star:0.1k fork:0.0k Object immutable update utility for san solution
 - [baidu/san-website](https://github.com/baidu/san-website) topic: pushed_at:2024-06 star:0.0k fork:0.1k 
@@ -155,7 +155,7 @@
 - [baidu/ARK](https://github.com/baidu/ARK) topic:framework,operation pushed_at:2021-05 star:0.1k fork:0.0k Development framework of intelligent operation
 - [baidu/baiduads-sdk](https://github.com/baidu/baiduads-sdk) topic:ads,baidu,sdk pushed_at:2025-12 star:0.0k fork:0.0k Baidu Ads API SDK
 - [baidu/broc](https://github.com/baidu/broc) topic: pushed_at:2017-12 star:0.1k fork:0.1k 
-- [baidu/CUP](https://github.com/baidu/CUP) topic:common-libraries,common-libs,library,python pushed_at:2024-12 star:1.0k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
+- [baidu/CUP](https://github.com/baidu/CUP) topic:common-libraries,common-libs,library,python pushed_at:2026-01 star:1.0k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
 - [baidu/DDParser](https://github.com/baidu/DDParser) topic:chinese-dependency-parser,chinese-nlp,dependency-parser,dependency-parsing,python,syntax-parser pushed_at:2023-02 star:1.0k fork:0.2k 百度开源的依存句法分析系统
 - [baidu/Dialogue](https://github.com/baidu/Dialogue) topic:chatbot,dialogue,research pushed_at:2022-07 star:0.4k fork:0.1k 
 - [baidu/dify-baidu-ai-guard](https://github.com/baidu/dify-baidu-ai-guard) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
@@ -186,10 +186,10 @@
 
 ## TypeScript
 
-- [baidu/amis](https://github.com/baidu/amis) topic:admin,frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2025-12 star:18.8k fork:2.7k 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [baidu/amis](https://github.com/baidu/amis) topic:admin,frontend,frontend-framework,json,low-code,low-code-development-platform,lowcode,no-code pushed_at:2026-01 star:18.8k fork:2.7k 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [baidu/cosui](https://github.com/baidu/cosui) topic:agent,ai,ai-ui,chatbot,frontend,generative-ui,json,markdown,protocol,ui-library,uikit pushed_at:2026-01 star:0.0k fork:0.0k A frontend UI solution for the AI era. Includes UI protocols, rendering SDKs, and component libraries for Generative UI, AI Agents, and LLM-powered applications.
 - [baidu/mochow-sdk-node](https://github.com/baidu/mochow-sdk-node) topic: pushed_at:2025-01 star:0.0k fork:0.0k Node.js SDK for mochow
-- [baidu/san-devtools](https://github.com/baidu/san-devtools) topic:chrome,chromium,debug,devtools,extension,san pushed_at:2025-09 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
+- [baidu/san-devtools](https://github.com/baidu/san-devtools) topic:chrome,chromium,debug,devtools,extension,san pushed_at:2026-01 star:0.1k fork:0.0k Browser developer tools extension for debugging San.
 - [baidu/san-ssr](https://github.com/baidu/san-ssr) topic:san,ssr,ssr-target-js pushed_at:2025-12 star:0.0k fork:0.0k San SSR framework and utils
 
 ## VHDL

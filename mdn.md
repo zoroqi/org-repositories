@@ -86,13 +86,13 @@
 - [mdn/browser-compat-toolkit](https://github.com/mdn/browser-compat-toolkit) topic: pushed_at:2019-04 star:0.0k fork:0.0k Toolkit for visualizing and editing MDN's browser compatibility data
 - [mdn/browsercompat-cm](https://github.com/mdn/browsercompat-cm) topic: pushed_at:2017-05 star:0.0k fork:0.0k Browsercompat - Contribution & Moderation UI
 - [mdn/canvas-raycaster](https://github.com/mdn/canvas-raycaster) topic:3d-environment,canvas,demo,javascript,raycast pushed_at:2022-09 star:0.2k fork:0.0k Using the <canvas> element to do software rendering of a 3D environment with ray-casting
-- [mdn/client-toolchain-example](https://github.com/mdn/client-toolchain-example) topic:demo,examples,javascript,toolchain pushed_at:2025-12 star:0.0k fork:0.0k Demo project for the MDN client-side web development tools tutorial.
+- [mdn/client-toolchain-example](https://github.com/mdn/client-toolchain-example) topic:demo,examples,javascript,toolchain pushed_at:2026-01 star:0.0k fork:0.0k Demo project for the MDN client-side web development tools tutorial.
 - [mdn/content-inventory](https://github.com/mdn/content-inventory) topic: pushed_at:2026-01 star:0.0k fork:0.0k Inventory of MDN content
 - [mdn/data](https://github.com/mdn/data) topic:css,data,json,json-data pushed_at:2026-01 star:0.8k fork:0.2k This repository contains general data for Web technologies
 - [mdn/dex](https://github.com/mdn/dex) topic: pushed_at:2026-01 star:0.0k fork:0.0k MDN's deployment infrastructure.
 - [mdn/doc-linter-rules](https://github.com/mdn/doc-linter-rules) topic:linting-rules,mdn pushed_at:2019-04 star:0.0k fork:0.0k Linting rules used to lint MDN Web Documents
 - [mdn/doc-linter-webextension](https://github.com/mdn/doc-linter-webextension) topic:linter,mdn,webextension pushed_at:2019-08 star:0.0k fork:0.0k Webextension to lint MDN documents
-- [mdn/dom-examples](https://github.com/mdn/dom-examples) topic:channel-messaging,demo,dom-manipulation,drag-drop,javascript,matchmedia,mdn,pointer-events,pointer-lock,touch-events pushed_at:2026-01 star:3.9k fork:1.9k Code examples that accompany various MDN DOM and Web API documentation pages
+- [mdn/dom-examples](https://github.com/mdn/dom-examples) topic:channel-messaging,demo,dom-manipulation,drag-drop,javascript,matchmedia,mdn,pointer-events,pointer-lock,touch-events pushed_at:2026-01 star:4.0k fork:1.9k Code examples that accompany various MDN DOM and Web API documentation pages
 - [mdn/e10s-example-addons](https://github.com/mdn/e10s-example-addons) topic:e10s,firefox-addon pushed_at:2019-04 star:0.0k fork:0.0k Examples showing how to port add-ons to be e10s-compatible
 - [mdn/express-locallibrary-tutorial](https://github.com/mdn/express-locallibrary-tutorial) topic:demo,example,express,nodejs,webapp pushed_at:2025-12 star:1.3k fork:0.8k Local Library website written in NodeJS/Express; example for the MDN server-side development NodeJS module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs.
 - [mdn/fred](https://github.com/mdn/fred) topic:lit,ssr,web-components pushed_at:2026-01 star:0.1k fork:0.0k MDN's frontend since late 2025, built with Web Components, Lit, and SSR for a fast, clean documentation experience. Fred = /fr(ont)e(n)d/.
@@ -117,7 +117,7 @@
 - [mdn/stumptown-content](https://github.com/mdn/stumptown-content) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [mdn/sw-test](https://github.com/mdn/sw-test) topic: pushed_at:2022-08 star:0.8k fork:0.3k Service Worker test repository. This is a very simple demo to show basic service worker features in action.
 - [mdn/to-do-notifications](https://github.com/mdn/to-do-notifications) topic: pushed_at:2022-09 star:0.4k fork:0.1k Enhanced version of the to-do app, which stores to-do items via IndexedDB, and then also aims to provide notifications when to-do item deadlines are up, via the Notification and Vibration APIs.
-- [mdn/todo-react](https://github.com/mdn/todo-react) topic:demo,example,react,todo pushed_at:2025-12 star:0.3k fork:0.3k Sample todo app built with the React/ReactDOM framework.
+- [mdn/todo-react](https://github.com/mdn/todo-react) topic:demo,example,react,todo pushed_at:2026-01 star:0.3k fork:0.3k Sample todo app built with the React/ReactDOM framework.
 - [mdn/tree-sitter-mdn](https://github.com/mdn/tree-sitter-mdn) topic: pushed_at:2026-01 star:0.0k fork:0.0k MDN's macro grammar for tree-sitter
 - [mdn/triagebot](https://github.com/mdn/triagebot) topic:automation pushed_at:2026-01 star:0.0k fork:0.0k 
 - [mdn/violent-theremin](https://github.com/mdn/violent-theremin) topic: pushed_at:2022-09 star:0.2k fork:0.1k Violent theremin uses the Web Audio API to generate sound, and HTML5 canvas for a bit of pretty visualization. The colours generated depend on the pitch and gain of the current note, which are themselves dependant on the mouse pointer position.
@@ -137,14 +137,14 @@
 
 ## Markdown
 
-- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2026-01 star:10.4k fork:23.1k The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
-- [mdn/translated-content](https://github.com/mdn/translated-content) topic:documentation,l10n,localization,mdn,web-development,web-platform pushed_at:2026-01 star:1.9k fork:8.3k 7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.
-- [mdn/translated-content-de](https://github.com/mdn/translated-content-de) topic: pushed_at:2026-01 star:0.0k fork:0.0k Experimental German locale for MDN, aimed at German-speaking users that prefer to read MDN Web Docs in their native language
+- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2026-01 star:10.5k fork:23.1k The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
+- [mdn/translated-content](https://github.com/mdn/translated-content) topic:documentation,l10n,localization,mdn,web-development,web-platform pushed_at:2026-02 star:1.9k fork:8.3k 7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.
+- [mdn/translated-content-de](https://github.com/mdn/translated-content-de) topic: pushed_at:2026-02 star:0.0k fork:0.0k Experimental German locale for MDN, aimed at German-speaking users that prefer to read MDN Web Docs in their native language
 - [mdn/translated-content-it](https://github.com/mdn/translated-content-it) topic: pushed_at:2026-01 star:0.0k fork:0.0k Experimental Italian locale for MDN, aimed at Italian-speaking users that prefer to read MDN Web Docs in their native language 
 
 ## Mermaid
 
-- [mdn/shared-assets](https://github.com/mdn/shared-assets) topic:assets,examples,infra pushed_at:2025-12 star:0.0k fork:0.0k A repository for media and assets to be used across MDN Web Docs
+- [mdn/shared-assets](https://github.com/mdn/shared-assets) topic:assets,examples,infra pushed_at:2026-01 star:0.0k fork:0.0k A repository for media and assets to be used across MDN Web Docs
 
 ## Others
 
@@ -157,10 +157,10 @@
 - [mdn/crossbrowser-testing-lab](https://github.com/mdn/crossbrowser-testing-lab) topic: pushed_at:2019-04 star:0.0k fork:0.0k Mozilla's Cross-Browser Testing Lab
 - [mdn/generic-content](https://github.com/mdn/generic-content) topic:community pushed_at:2026-01 star:0.0k fork:0.0k Various pieces of generic MDN content
 - [mdn/mdn](https://github.com/mdn/mdn) topic:governance,mdn,meta,planning,web-platform pushed_at:2025-11 star:1.3k fork:0.2k Planning and proposals for MDN Web Docs content
-- [mdn/mdn-community](https://github.com/mdn/mdn-community) topic:community,feedback,governance,mdn pushed_at:2026-01 star:0.1k fork:0.1k A place to provide feedback and suggestions for MDN Web Docs
+- [mdn/mdn-community](https://github.com/mdn/mdn-community) topic:community,feedback,governance,mdn pushed_at:2026-01 star:0.1k fork:0.0k A place to provide feedback and suggestions for MDN Web Docs
 - [mdn/mdn-contributor-spotlight](https://github.com/mdn/mdn-contributor-spotlight) topic:achievements,community,kudos pushed_at:2026-01 star:0.0k fork:0.0k Content for the contributor spotlight on MDN Web Docs
 - [mdn/mdn-dinocons](https://github.com/mdn/mdn-dinocons) topic:design,figma,icons,mdn-dinocons,svg-icons pushed_at:2022-03 star:0.0k fork:0.0k A scalable set of icons for use across Mozilla Developer websites
-- [mdn/project-template](https://github.com/mdn/project-template) topic:template pushed_at:2025-11 star:0.0k fork:0.0k A project template to use for new MDN GitHub repositories
+- [mdn/project-template](https://github.com/mdn/project-template) topic:template pushed_at:2026-01 star:0.0k fork:0.0k A project template to use for new MDN GitHub repositories
 - [mdn/sprints](https://github.com/mdn/sprints) topic:mdn pushed_at:2024-01 star:0.1k fork:0.1k Archived: MDN Web Docs issues are tracked in the content repository.
 - [mdn/temp-processes](https://github.com/mdn/temp-processes) topic: pushed_at:2023-01 star:0.0k fork:0.0k Temp repository to define issue & pr processes with mermaid flow charts
 - [mdn/wiki-revision-history](https://github.com/mdn/wiki-revision-history) topic:mdn pushed_at:2021-01 star:0.0k fork:0.0k An accurate CSV record of who made what revisions to MDN Web Docs when it was a Wiki platform
@@ -174,8 +174,8 @@
 
 - [mdn/browsercompat](https://github.com/mdn/browsercompat) topic:python pushed_at:2017-04 star:0.0k fork:0.0k API for browser compatibility data on developer.mozilla.org
 - [mdn/developer-portal](https://github.com/mdn/developer-portal) topic: pushed_at:2021-12 star:0.1k fork:0.0k The code that generates the MDN Web Docs Developer Portal.
-- [mdn/django-diy-blog](https://github.com/mdn/django-diy-blog) topic:blog,demo,django,example,python pushed_at:2025-12 star:0.2k fork:0.1k Basic blog site written in Django (part of MDN Django module assessment).
-- [mdn/django-locallibrary-tutorial](https://github.com/mdn/django-locallibrary-tutorial) topic:demo,django,example,python,web-app pushed_at:2025-12 star:1.7k fork:1.0k Local Library website written in Django; example for the MDN server-side development Django module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django.
+- [mdn/django-diy-blog](https://github.com/mdn/django-diy-blog) topic:blog,demo,django,example,python pushed_at:2026-01 star:0.2k fork:0.1k Basic blog site written in Django (part of MDN Django module assessment).
+- [mdn/django-locallibrary-tutorial](https://github.com/mdn/django-locallibrary-tutorial) topic:demo,django,example,python,web-app pushed_at:2026-01 star:1.7k fork:1.0k Local Library website written in Django; example for the MDN server-side development Django module: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django.
 - [mdn/kuma](https://github.com/mdn/kuma) topic:css,html,javascript,mdn,nodejs,python,reactjs,sass pushed_at:2022-08 star:1.9k fork:0.7k The project that powers MDN.
 - [mdn/kuma-deployer](https://github.com/mdn/kuma-deployer) topic: pushed_at:2019-09 star:0.0k fork:0.0k Automate the heck outta MDN Kuma deployment process
 - [mdn/stumptown-deployer](https://github.com/mdn/stumptown-deployer) topic: pushed_at:2020-01 star:0.0k fork:0.0k 🚢 those static Stumptown sites
@@ -197,7 +197,7 @@
 
 ## TeX
 
-- [mdn/curriculum](https://github.com/mdn/curriculum) topic:beginners,career,education,learning,web-development pushed_at:2026-01 star:0.4k fork:0.0k MDN front-end developer curriculum
+- [mdn/curriculum](https://github.com/mdn/curriculum) topic:beginners,career,education,learning,web-development pushed_at:2026-01 star:0.4k fork:0.1k MDN front-end developer curriculum
 
 ## TypeScript
 
