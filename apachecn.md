@@ -787,7 +787,7 @@
 - [apachecn/hooks](https://github.com/apachecn/hooks) topic: pushed_at:2023-03 star:0.0k fork:0.0k A high-quality & reliable React Hooks library.
 - [apachecn/HOW2J-tuts](https://github.com/apachecn/HOW2J-tuts) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [apachecn/huazhang-ai-book](https://github.com/apachecn/huazhang-ai-book) topic: pushed_at:2023-01 star:0.0k fork:0.0k :books: 华章智能科学技术丛书
-- [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:0.9k fork:0.4k :books: 华章计算机科学丛书高清扫描
+- [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:1.0k fork:0.4k :books: 华章计算机科学丛书高清扫描
 - [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) topic: pushed_at:2023-02 star:0.1k fork:0.0k :book: 华章经管丛书高清扫描
 - [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.5k fork:0.2k :books: 华章数学丛书高清扫描
 - [apachecn/huggingface-doc-zh](https://github.com/apachecn/huggingface-doc-zh) topic: pushed_at:2025-09 star:0.0k fork:0.0k Hugging Face - 文档库(中文版)

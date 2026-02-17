@@ -20,7 +20,7 @@
 
 - [eclipse/ConfigJSR](https://github.com/eclipse/ConfigJSR) topic: pushed_at:2023-08 star:0.0k fork:0.0k JSR382
 - [eclipse/ice](https://github.com/eclipse/ice) topic: pushed_at:2023-10 star:0.0k fork:0.1k This project has moved to: https://gitlab.eclipse.org/eclipse/ice/ice
-- [eclipse/openvsx](https://github.com/eclipse/openvsx) topic:extension,marketplace,registry,theia,vscode pushed_at:2026-01 star:1.8k fork:0.3k An open-source registry for VS Code extensions
+- [eclipse/openvsx](https://github.com/eclipse/openvsx) topic:extension,marketplace,registry,theia,vscode pushed_at:2026-02 star:1.8k fork:0.3k An open-source registry for VS Code extensions
 
 ## JavaScript
 
