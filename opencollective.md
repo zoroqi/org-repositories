@@ -366,7 +366,7 @@
 - [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) topic: pushed_at:2023-03 star:0.1k fork:0.0k Prompt your users to donate to your collective after `npm install`
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) topic: pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
 - [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) topic: pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
-- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2026-01 star:0.0k fork:0.0k 
+- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2026-02 star:0.0k fork:0.0k 
 - [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) topic: pushed_at:2025-10 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
 - [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) topic:opencollective,reactjs pushed_at:2018-07 star:0.1k fork:0.0k OpenCollective frontend
 - [opencollective/opencollective-zapier](https://github.com/opencollective/opencollective-zapier) topic:opencollective,zapier pushed_at:2021-02 star:0.0k fork:0.0k ⚠️ DEPRECATED ⚠️ Open Collective legacy Zapier integration
@@ -485,7 +485,7 @@
 
 ## Others
 
-- [opencollective/.github](https://github.com/opencollective/.github) topic: pushed_at:2026-01 star:0.0k fork:0.0k 
+- [opencollective/.github](https://github.com/opencollective/.github) topic: pushed_at:2026-02 star:0.0k fork:0.0k 
 - [opencollective/11ty-website](https://github.com/opencollective/11ty-website) topic: pushed_at:2021-01 star:0.0k fork:0.0k Documentation site for the Eleventy static site generator.
 - [opencollective/1password-teams-open-source](https://github.com/opencollective/1password-teams-open-source) topic: pushed_at:2018-04 star:0.0k fork:0.0k Get a free 1Password Teams membership for your open source project
 - [opencollective/Acid](https://github.com/opencollective/Acid) topic: pushed_at:2019-09 star:0.0k fork:0.0k A high speed C++17 Vulkan game engine
@@ -585,7 +585,7 @@
 - [opencollective/django-extensions](https://github.com/opencollective/django-extensions) topic: pushed_at:2020-08 star:0.0k fork:0.0k This is a repository for collecting global custom management extensions for the Django Framework. 
 - [opencollective/docker-slim](https://github.com/opencollective/docker-slim) topic: pushed_at:2020-01 star:0.0k fork:0.0k DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [opencollective/docs](https://github.com/opencollective/docs) topic: pushed_at:2019-03 star:0.0k fork:0.0k Onboarding Resources for contributors, members and chapter organizers of Open source community Africa (O.S.C.A)
-- [opencollective/documentation](https://github.com/opencollective/documentation) topic: pushed_at:2026-01 star:0.0k fork:0.0k Open Collective documentation
+- [opencollective/documentation](https://github.com/opencollective/documentation) topic: pushed_at:2026-02 star:0.0k fork:0.0k Open Collective documentation
 - [opencollective/documentation-old](https://github.com/opencollective/documentation-old) topic:documentation,open-collective pushed_at:2025-07 star:0.1k fork:0.1k All documentation for Open Collective
 - [opencollective/dotenv-linter](https://github.com/opencollective/dotenv-linter) topic: pushed_at:2020-08 star:0.0k fork:0.0k ✌️Linter for .env files. Written in Rust 🦀
 - [opencollective/dowww](https://github.com/opencollective/dowww) topic: pushed_at:2019-01 star:0.0k fork:0.0k 💡 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
@@ -745,7 +745,7 @@
 - [opencollective/open-zwave](https://github.com/opencollective/open-zwave) topic: pushed_at:2019-09 star:0.0k fork:0.0k a C++ library to control Z-Wave Networks via a USB Z-Wave Controller. 
 - [opencollective/openaddresses](https://github.com/opencollective/openaddresses) topic: pushed_at:2020-01 star:0.0k fork:0.0k A repository of global open address data.
 - [opencollective/openboxes](https://github.com/opencollective/openboxes) topic: pushed_at:2020-02 star:0.0k fork:0.0k OpenBoxes is a supply chain management system designed to manage inventory and track stock movements for healthcare facilities.
-- [opencollective/opencollective](https://github.com/opencollective/opencollective) topic:open-source,sustainability,transparency pushed_at:2026-02 star:2.2k fork:0.4k We're tracking all our Issues, RFCs and a few other documents in this repository.
+- [opencollective/opencollective](https://github.com/opencollective/opencollective) topic:open-source,sustainability,transparency pushed_at:2026-02 star:2.3k fork:0.4k We're tracking all our Issues, RFCs and a few other documents in this repository.
 - [opencollective/opencollective-lib](https://github.com/opencollective/opencollective-lib) topic: pushed_at:2016-06 star:0.0k fork:0.0k Libraries in common in our repos
 - [opencollective/openmptcprouter](https://github.com/opencollective/openmptcprouter) topic: pushed_at:2020-03 star:0.0k fork:0.0k OpenMPTCProuter is an open source solution to aggregate multiple internet connections using Multipath TCP (MPTCP) on OpenWrt
 - [opencollective/opensource](https://github.com/opencollective/opensource) topic: pushed_at:2016-07 star:0.0k fork:0.0k This is the Open Source Collective repo. Submit here issues related on how to spend the money and projects/ideas to get funded. 
@@ -1082,7 +1082,7 @@
 - [opencollective/terminus](https://github.com/opencollective/terminus) topic: pushed_at:2019-07 star:0.0k fork:0.0k A terminal for a more modern age
 - [opencollective/token-bot](https://github.com/opencollective/token-bot) topic: pushed_at:2026-02 star:0.0k fork:0.0k Discord Bot
 - [opencollective/token-factory](https://github.com/opencollective/token-factory) topic: pushed_at:2026-01 star:0.0k fork:0.0k Deploy and manage tokens for your community
-- [opencollective/txinfo](https://github.com/opencollective/txinfo) topic: pushed_at:2025-10 star:0.0k fork:0.0k A simple service to add or get more information about a given transaction
+- [opencollective/txinfo](https://github.com/opencollective/txinfo) topic: pushed_at:2026-02 star:0.0k fork:0.0k A simple service to add or get more information about a given transaction
 - [opencollective/typeorm](https://github.com/opencollective/typeorm) topic: pushed_at:2017-09 star:0.0k fork:0.0k Amazing ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.
 - [opencollective/vig](https://github.com/opencollective/vig) topic: pushed_at:2019-06 star:0.0k fork:0.0k 一个Web业务框架，专注于代码的精减、Web业务的细化、软件模块的复用和组件化开发
 - [opencollective/vscode-deno](https://github.com/opencollective/vscode-deno) topic: pushed_at:2020-04 star:0.0k fork:0.0k VS Code extension that provides Deno support using the typescript-deno-plugin

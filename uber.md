@@ -55,20 +55,20 @@
 - [uber/gonduit](https://github.com/uber/gonduit) topic: pushed_at:2021-06 star:0.0k fork:0.0k A Go package for connecting to Phabricator via the Conduit API.
 - [uber/gqlgen](https://github.com/uber/gqlgen) topic: pushed_at:2024-12 star:0.0k fork:0.0k Uber fork:  go generate based graphql server library
 - [uber/h3-go](https://github.com/uber/h3-go) topic:geospatial,go,golang,h3,hexagon,spatial-indexing,uber pushed_at:2026-02 star:0.4k fork:0.1k Go bindings for H3, a hierarchical hexagonal geospatial indexing system
-- [uber/kraken](https://github.com/uber/kraken) topic:bittorrent,container,containerd,docker,docker-image,docker-registry,p2p pushed_at:2026-02 star:6.6k fork:0.5k P2P Docker registry capable of distributing TBs of data in seconds
+- [uber/kraken](https://github.com/uber/kraken) topic:bittorrent,container,containerd,docker,docker-image,docker-registry,p2p pushed_at:2026-02 star:6.7k fork:0.5k P2P Docker registry capable of distributing TBs of data in seconds
 - [uber/kubernetes](https://github.com/uber/kubernetes) topic: pushed_at:2023-11 star:0.0k fork:0.0k Uber downstream fork of Kubernetes - for contribution use only
 - [uber/kubernetes-enhancements](https://github.com/uber/kubernetes-enhancements) topic: pushed_at:2023-04 star:0.0k fork:0.0k Uber Fork of kubernetes-enhancements - for contribution use only
 - [uber/kubernetes-scheduler-plugins](https://github.com/uber/kubernetes-scheduler-plugins) topic: pushed_at:2024-10 star:0.0k fork:0.0k Uber fork of: Kubernetes out-of-tree scheduler plugins based on scheduler framework.
 - [uber/openlr-go](https://github.com/uber/openlr-go) topic: pushed_at:2023-08 star:0.0k fork:0.0k 
 - [uber/pam-ussh](https://github.com/uber/pam-ussh) topic: pushed_at:2023-03 star:0.9k fork:0.1k uber's ssh certificate pam module
-- [uber/peloton](https://github.com/uber/peloton) topic: pushed_at:2023-05 star:0.7k fork:0.1k Unified Resource Scheduler to co-schedule mixed types of workloads such as batch, stateless and stateful jobs in a single cluster for better resource utilization.
+- [uber/peloton](https://github.com/uber/peloton) topic: pushed_at:2023-05 star:0.6k fork:0.1k Unified Resource Scheduler to co-schedule mixed types of workloads such as batch, stateless and stateful jobs in a single cluster for better resource utilization.
 - [uber/phonenumbers](https://github.com/uber/phonenumbers) topic: pushed_at:2025-03 star:0.0k fork:0.0k Uber Fork - for company PR's back upstream
 - [uber/prototool](https://github.com/uber/prototool) topic:grpc,grpc-go,proto3,protobuf,protoc,protocol-buffers pushed_at:2022-03 star:5.0k fork:0.3k Your Swiss Army Knife for Protocol Buffers
 - [uber/ringpop-go](https://github.com/uber/ringpop-go) topic: pushed_at:2025-10 star:0.9k fork:0.1k Scalable, fault-tolerant application-layer sharding for Go applications
 - [uber/scip-lsp](https://github.com/uber/scip-lsp) topic: pushed_at:2026-02 star:0.0k fork:0.0k 
 - [uber/starlark-go](https://github.com/uber/starlark-go) topic: pushed_at:2023-01 star:0.0k fork:0.0k Uber fork:  Starlark in Go: the Starlark configuration language, implemented in Go
 - [uber/storagetapper](https://github.com/uber/storagetapper) topic:avro,cdc,clickhouse,etl,hdfs,json,kafka,msgpack,mysql,postgresql,s3 pushed_at:2023-03 star:0.4k fork:0.1k StorageTapper is a scalable realtime MySQL change data streaming, logical backup and logical replication service
-- [uber/tchannel-go](https://github.com/uber/tchannel-go) topic: pushed_at:2025-01 star:0.5k fork:0.1k Go implementation of a multiplexing and framing protocol for RPC calls
+- [uber/tchannel-go](https://github.com/uber/tchannel-go) topic: pushed_at:2026-02 star:0.5k fork:0.1k Go implementation of a multiplexing and framing protocol for RPC calls
 - [uber/uberalls](https://github.com/uber/uberalls) topic: pushed_at:2020-03 star:0.2k fork:0.0k Track code coverage metrics with Jenkins and Phabricator
 - [uber/zanzibar](https://github.com/uber/zanzibar) topic: pushed_at:2024-10 star:0.5k fork:0.1k A build system & configuration system to generate versioned API gateways.
 
@@ -100,7 +100,7 @@
 - [uber/tchannel-java](https://github.com/uber/tchannel-java) topic: pushed_at:2023-03 star:0.1k fork:0.1k A Java implementation of the TChannel protocol.
 - [uber/uber-graph-benchmark](https://github.com/uber/uber-graph-benchmark) topic:benchmark-framework,graph-database pushed_at:2019-01 star:0.0k fork:0.0k A framework to benchmark different graph databases, based on generated data from customizable schema, distribution, and size.
 - [uber/uberscriptquery](https://github.com/uber/uberscriptquery) topic:spark,uber pushed_at:2023-12 star:0.1k fork:0.0k UberScriptQuery, a SQL-like DSL to make writing Spark jobs super easy
-- [uber/uForwarder](https://github.com/uber/uForwarder) topic: pushed_at:2025-10 star:0.1k fork:0.0k Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
+- [uber/uForwarder](https://github.com/uber/uForwarder) topic: pushed_at:2025-10 star:0.2k fork:0.0k Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
 - [uber/uReplicator](https://github.com/uber/uReplicator) topic: pushed_at:2023-12 star:0.9k fork:0.2k Improvement of Apache Kafka Mirrormaker
 
 ## JavaScript
@@ -110,7 +110,7 @@
 - [uber/build-changelog](https://github.com/uber/build-changelog) topic: pushed_at:2014-11 star:0.0k fork:0.0k A CLI to auto-generate a deploy ready changelog
 - [uber/cache-dir](https://github.com/uber/cache-dir) topic: pushed_at:2014-03 star:0.0k fork:0.0k An ES6 map-like cache with file-based backing
 - [uber/eight-track](https://github.com/uber/eight-track) topic: pushed_at:2018-07 star:0.1k fork:0.0k Record and playback HTTP requests
-- [uber/geojson2h3](https://github.com/uber/geojson2h3) topic:geojson,geospatial,h3,hexagon,javascript pushed_at:2026-01 star:0.2k fork:0.0k Conversion utilities between H3 indexes and GeoJSON
+- [uber/geojson2h3](https://github.com/uber/geojson2h3) topic:geojson,geospatial,h3,hexagon,javascript pushed_at:2026-02 star:0.2k fork:0.0k Conversion utilities between H3 indexes and GeoJSON
 - [uber/graph.gl](https://github.com/uber/graph.gl) topic: pushed_at:2021-02 star:0.1k fork:0.0k WebGL2-Powered Visualization Components for Graph Visualization
 - [uber/h3-js](https://github.com/uber/h3-js) topic:emscripten,geospatial,h3,hexagon,javascript,spatial-indexing,uber pushed_at:2026-02 star:1.0k fork:0.1k h3-js provides a JavaScript version of H3, a hexagon-based geospatial indexing system.
 - [uber/json-schema-filter](https://github.com/uber/json-schema-filter) topic: pushed_at:2020-10 star:0.0k fork:0.0k Filters (removes) objects from document based on passed json-schema
@@ -269,7 +269,7 @@
 - [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) topic: pushed_at:2026-02 star:0.5k fork:0.1k grafana dash dash dash gen
 - [uber/nebula.gl](https://github.com/uber/nebula.gl) topic:deck-gl,uber,webgl pushed_at:2024-05 star:0.7k fork:0.2k A suite of 3D-enabled data editing overlays, suitable for deck.gl
 - [uber/react-view](https://github.com/uber/react-view) topic:code-generator,documentation,playground,react pushed_at:2024-10 star:0.7k fork:0.0k React View is an interactive playground, documentation and code generator for your components.
-- [uber/vscode-bazel-bsp](https://github.com/uber/vscode-bazel-bsp) topic:bazel,build-server-protocol,testing-tools,vscode-extension pushed_at:2026-01 star:0.0k fork:0.0k VS Code extension to provide integration with Bazel BSP, leveraging Build Server Protocol.  Currently focused on VS Code test explorer integration.
+- [uber/vscode-bazel-bsp](https://github.com/uber/vscode-bazel-bsp) topic:bazel,build-server-protocol,testing-tools,vscode-extension pushed_at:2026-02 star:0.0k fork:0.0k VS Code extension to provide integration with Bazel BSP, leveraging Build Server Protocol.  Currently focused on VS Code test explorer integration.
 - [uber/vscode-go](https://github.com/uber/vscode-go) topic: pushed_at:2024-01 star:0.0k fork:0.0k Go extension for Visual Studio Code, with added Bazel Support
 
 

@@ -159,7 +159,7 @@
 - [microsoftgraph/csharp-teams-sample-graph](https://github.com/microsoftgraph/csharp-teams-sample-graph) topic:devxsample,microsoft-teams pushed_at:2020-06 star:0.1k fork:0.1k [ARCHIVED] Sample apps (C# and node) for accessing Microsoft Teams data via the Microsoft Graph
 - [microsoftgraph/eslint-config-msgraph](https://github.com/microsoftgraph/eslint-config-msgraph) topic: pushed_at:2025-11 star:0.0k fork:0.0k Shared eslint and prettier configs for the microsoftgraph org
 - [microsoftgraph/graphql-demo](https://github.com/microsoftgraph/graphql-demo) topic:archived pushed_at:2020-01 star:0.1k fork:0.0k [ARCHIVED] GraphQL for Microsoft Graph
-- [microsoftgraph/microsoft-graph-devx-content](https://github.com/microsoftgraph/microsoft-graph-devx-content) topic:devxeng pushed_at:2026-02 star:0.0k fork:0.0k Content used by the DevX API to enhance clients and tooling.
+- [microsoftgraph/microsoft-graph-devx-content](https://github.com/microsoftgraph/microsoft-graph-devx-content) topic:devxeng pushed_at:2026-03 star:0.0k fork:0.0k Content used by the DevX API to enhance clients and tooling.
 - [microsoftgraph/msgraph-sample-javascriptspa](https://github.com/microsoftgraph/msgraph-sample-javascriptspa) topic:browser,devxsample,javascript,microsoft-graph pushed_at:2024-05 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from JavaScript browser apps.
 - [microsoftgraph/msgraph-sample-nodeexpressapp](https://github.com/microsoftgraph/msgraph-sample-nodeexpressapp) topic:devxsample,express,microsoft-graph,nodejs pushed_at:2025-01 star:0.2k fork:0.1k This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from Node.js Express apps.
 - [microsoftgraph/msgraph-sample-office-addin](https://github.com/microsoftgraph/msgraph-sample-office-addin) topic:devxsample,microsoft-graph,office-addin pushed_at:2025-05 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from Office Add-ins.
@@ -199,7 +199,7 @@
 
 - [microsoftgraph/.github](https://github.com/microsoftgraph/.github) topic:devxghmgmt pushed_at:2025-08 star:0.0k fork:0.0k MicrosoftGraph GitHub organization configuration
 - [microsoftgraph/g-raph](https://github.com/microsoftgraph/g-raph) topic:misc pushed_at:2024-05 star:0.0k fork:0.0k Artwork for our g-raph (giraffe)
-- [microsoftgraph/microsoft-graph-comms-samples](https://github.com/microsoftgraph/microsoft-graph-comms-samples) topic:devxsample pushed_at:2025-06 star:0.2k fork:0.3k Microsoft Graph Communications Samples
+- [microsoftgraph/microsoft-graph-comms-samples](https://github.com/microsoftgraph/microsoft-graph-comms-samples) topic:devxsample pushed_at:2026-02 star:0.2k fork:0.3k Microsoft Graph Communications Samples
 - [microsoftgraph/microsoftgraph-postman-collections](https://github.com/microsoftgraph/microsoftgraph-postman-collections) topic:archived pushed_at:2021-07 star:0.3k fork:0.1k 
 - [microsoftgraph/msgraph-access-files-data](https://github.com/microsoftgraph/msgraph-access-files-data) topic:devxtraining pushed_at:2024-06 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-access-group-data](https://github.com/microsoftgraph/msgraph-access-group-data) topic:devxtraining pushed_at:2024-05 star:0.0k fork:0.0k 
@@ -217,7 +217,7 @@
 
 - [microsoftgraph/msgraph-beta-sdk-php](https://github.com/microsoftgraph/msgraph-beta-sdk-php) topic:devxeng pushed_at:2026-02 star:0.0k fork:0.0k Microsoft Graph beta model library for PHP (preview).
 - [microsoftgraph/msgraph-sample-phpapp](https://github.com/microsoftgraph/msgraph-sample-phpapp) topic:devxsample pushed_at:2025-01 star:0.2k fork:0.1k This sample demonstrates how to use the Microsoft Graph .NET SDK to access data in Office 365 from PHP web apps.
-- [microsoftgraph/msgraph-sdk-php](https://github.com/microsoftgraph/msgraph-sdk-php) topic:devxeng,microsoftgraph,sdk pushed_at:2026-02 star:0.7k fork:0.2k Microsoft Graph Library for PHP.
+- [microsoftgraph/msgraph-sdk-php](https://github.com/microsoftgraph/msgraph-sdk-php) topic:devxeng,microsoftgraph,sdk pushed_at:2026-02 star:0.7k fork:0.1k Microsoft Graph Library for PHP.
 - [microsoftgraph/msgraph-sdk-php-core](https://github.com/microsoftgraph/msgraph-sdk-php-core) topic:devxeng pushed_at:2026-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-snippets-php](https://github.com/microsoftgraph/msgraph-snippets-php) topic: pushed_at:2026-02 star:0.0k fork:0.0k Repository of snippets in Microsoft Graph PHP SDK documentation.
 - [microsoftgraph/msgraph-training-php](https://github.com/microsoftgraph/msgraph-training-php) topic:devxtraining pushed_at:2026-02 star:0.0k fork:0.0k Completed project for Build PHP apps with Microsoft Graph
@@ -294,7 +294,7 @@
 - [microsoftgraph/microsoft-graph-toolkit](https://github.com/microsoftgraph/microsoft-graph-toolkit) topic:devxeng,hacktoberfest,mgt,mgt-react,microsoft-graph,microsoft-graph-toolkit,microsoft-teams,msal,people-picker,person-card,react,sharepoint,spfx,tasks,todo,web-components pushed_at:2026-02 star:1.0k fork:0.4k Authentication Providers and UI components for Microsoft Graph 🦒
 - [microsoftgraph/msgraph-beta-sdk-typescript](https://github.com/microsoftgraph/msgraph-beta-sdk-typescript) topic:devxeng pushed_at:2026-02 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-beta-typescript-typings](https://github.com/microsoftgraph/msgraph-beta-typescript-typings) topic:devxeng pushed_at:2026-01 star:0.0k fork:0.0k Microsoft Graph Beta TypeScript Type Definitions
-- [microsoftgraph/msgraph-bicep-types](https://github.com/microsoftgraph/msgraph-bicep-types) topic: pushed_at:2026-01 star:0.1k fork:0.0k Repo contains Microsoft Graph resource types to integrate with bicep templates.
+- [microsoftgraph/msgraph-bicep-types](https://github.com/microsoftgraph/msgraph-bicep-types) topic: pushed_at:2026-03 star:0.1k fork:0.0k Repo contains Microsoft Graph resource types to integrate with bicep templates.
 - [microsoftgraph/msgraph-docs-validation](https://github.com/microsoftgraph/msgraph-docs-validation) topic: pushed_at:2025-11 star:0.0k fork:0.0k 
 - [microsoftgraph/msgraph-ifttt-sample](https://github.com/microsoftgraph/msgraph-ifttt-sample) topic:devxsample,ifttt,ifttt-platform,m365,microsoft-graph-api,microsoft-teams,o365 pushed_at:2024-05 star:0.0k fork:0.0k This sample is a demonstration of what a Microsoft Graph service on IFTTT could look like. The purpose is to spark exploration by third parties to integrate their products with the Microsoft Graph and leverage the IFTTT platform to utilize the rich set of data (ie. Teams, OneNote, Calendar, User data, analytics, etc…) available in typical M365 organizations.
 - [microsoftgraph/msgraph-sample-angularspa](https://github.com/microsoftgraph/msgraph-sample-angularspa) topic:angular,devxsample,microsoft-graph pushed_at:2024-05 star:0.1k fork:0.1k This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from Angular single-page applications.
