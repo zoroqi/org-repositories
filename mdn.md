@@ -47,9 +47,9 @@
 - [mdn/css-examples](https://github.com/mdn/css-examples) topic:css,examples pushed_at:2025-11 star:0.6k fork:0.8k Code examples that accompany the MDN CSS documentation
 - [mdn/fetch-examples](https://github.com/mdn/fetch-examples) topic:fetch,fetch-api,fetch-examples,mdn-docs pushed_at:2022-08 star:0.5k fork:0.2k A repository of Fetch examples. See https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API for the corresponding documentation.
 - [mdn/fibonacci-worker](https://github.com/mdn/fibonacci-worker) topic: pushed_at:2022-09 star:0.0k fork:0.0k A web worker that calculates fibonacci numbers.
-- [mdn/houdini-examples](https://github.com/mdn/houdini-examples) topic:css,examples,houdini pushed_at:2025-11 star:0.0k fork:0.0k CSS Houdini examples relating to MDN content.
-- [mdn/html-examples](https://github.com/mdn/html-examples) topic:examples,html pushed_at:2025-11 star:0.1k fork:0.1k Code examples that accompany the MDN HTML documentation: https://developer.mozilla.org/en-US/docs/Web/HTML
-- [mdn/imsc-examples](https://github.com/mdn/imsc-examples) topic:captioning,examples,media,subtitles,web pushed_at:2025-11 star:0.0k fork:0.0k Repository for examples to go along with MDN IMSC documentation.
+- [mdn/houdini-examples](https://github.com/mdn/houdini-examples) topic:css,examples,houdini pushed_at:2026-02 star:0.0k fork:0.0k CSS Houdini examples relating to MDN content.
+- [mdn/html-examples](https://github.com/mdn/html-examples) topic:examples,html pushed_at:2026-02 star:0.1k fork:0.1k Code examples that accompany the MDN HTML documentation: https://developer.mozilla.org/en-US/docs/Web/HTML
+- [mdn/imsc-examples](https://github.com/mdn/imsc-examples) topic:captioning,examples,media,subtitles,web pushed_at:2026-02 star:0.0k fork:0.0k Repository for examples to go along with MDN IMSC documentation.
 - [mdn/insights](https://github.com/mdn/insights) topic: pushed_at:2022-04 star:0.0k fork:0.0k The repo that powers MDN Web Docs Insights.
 - [mdn/interactive-examples](https://github.com/mdn/interactive-examples) topic:css,editor,examples,html,interactive,javascript,mdn,nodejs pushed_at:2025-10 star:0.7k fork:0.5k (Deprecated) Home of the MDN live code editor interactive examples
 - [mdn/kumascript](https://github.com/mdn/kumascript) topic: pushed_at:2020-12 star:0.1k fork:0.2k Bringing scripting to the wiki bears.
@@ -67,7 +67,7 @@
 - [mdn/translated-content-rendered](https://github.com/mdn/translated-content-rendered) topic: pushed_at:2021-02 star:0.0k fork:0.0k All translated (non-archived) MDN content in fully rendered form
 - [mdn/viewsourceconf](https://github.com/mdn/viewsourceconf) topic:conference,metalsmith,viewsource pushed_at:2019-03 star:0.0k fork:0.0k Repo for View Source Conference site
 - [mdn/watify](https://github.com/mdn/watify) topic: pushed_at:2026-02 star:0.0k fork:0.0k Compile WAT to WASM with WASM 🙇
-- [mdn/web-tech-games](https://github.com/mdn/web-tech-games) topic: pushed_at:2025-11 star:0.0k fork:0.0k Interactive diagram showing what parts of the web technology stack can used for different purposes when creating games. Includes links to more information about each.
+- [mdn/web-tech-games](https://github.com/mdn/web-tech-games) topic: pushed_at:2026-02 star:0.0k fork:0.0k Interactive diagram showing what parts of the web technology stack can used for different purposes when creating games. Includes links to more information about each.
 - [mdn/webaudio-examples](https://github.com/mdn/webaudio-examples) topic:audio,demo,examples,webaudio,webaudio-api pushed_at:2025-11 star:1.4k fork:0.4k Code examples that accompany the MDN Web Docs pages relating to Web Audio.
 - [mdn/whitestorm-demo](https://github.com/mdn/whitestorm-demo) topic: pushed_at:2019-04 star:0.0k fork:0.0k A simple demo showing usage of the Whitestorm.js 3D web library.
 
@@ -105,9 +105,9 @@
 - [mdn/mdn-http-observatory](https://github.com/mdn/mdn-http-observatory) topic:http,http-headers,mdn,privacy,security,security-tools pushed_at:2026-02 star:0.1k fork:0.0k Backend for HTTP Observatory on MDN
 - [mdn/mdn-storybook](https://github.com/mdn/mdn-storybook) topic: pushed_at:2022-04 star:0.0k fork:0.0k UI components for MDN Web Docs
 - [mdn/mdn.dev-2019](https://github.com/mdn/mdn.dev-2019) topic: pushed_at:2022-04 star:0.0k fork:0.0k (Deprecated) Content for https://mdn.dev
-- [mdn/museum](https://github.com/mdn/museum) topic:archive,examples pushed_at:2025-11 star:0.0k fork:0.0k A historic collection of MDN Web Docs content and examples
+- [mdn/museum](https://github.com/mdn/museum) topic:archive,examples pushed_at:2026-02 star:0.0k fork:0.0k A historic collection of MDN Web Docs content and examples
 - [mdn/perf-examples](https://github.com/mdn/perf-examples) topic: pushed_at:2023-12 star:0.0k fork:0.0k Examples related to MDN performance documentation; see https://developer.mozilla.org/en-US/docs/web/Performance
-- [mdn/pwa-examples](https://github.com/mdn/pwa-examples) topic:examples,progressive-web-app,pwa pushed_at:2025-11 star:1.0k fork:0.6k Examples for progressive web apps.
+- [mdn/pwa-examples](https://github.com/mdn/pwa-examples) topic:examples,progressive-web-app,pwa pushed_at:2026-02 star:1.0k fork:0.6k Examples for progressive web apps.
 - [mdn/repl-panel](https://github.com/mdn/repl-panel) topic:addon,devtools,devtools-extension,repl pushed_at:2019-04 star:0.0k fork:0.0k This add-on lets you send remote debugging protocol requests to the debugging server, and displays the response.
 - [mdn/s3-config](https://github.com/mdn/s3-config) topic:aws,mdn-infra,s3-bucket,simple-storage-service pushed_at:2022-10 star:0.0k fork:0.0k MDN Simple Storage Service (S3) configuration
 - [mdn/samples-server](https://github.com/mdn/samples-server) topic: pushed_at:2021-04 star:1.0k fork:0.9k MDN samples server; used for samples that can't be hosted in-place on MDN, plus back-end server-side code for samples that need it.
@@ -137,14 +137,14 @@
 
 ## Markdown
 
-- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2026-02 star:10.5k fork:23.1k The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
-- [mdn/translated-content](https://github.com/mdn/translated-content) topic:documentation,l10n,localization,mdn,web-development,web-platform pushed_at:2026-02 star:1.9k fork:8.3k 7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.
+- [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2026-02 star:10.6k fork:23.1k The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
+- [mdn/translated-content](https://github.com/mdn/translated-content) topic:documentation,l10n,localization,mdn,web-development,web-platform pushed_at:2026-03 star:2.0k fork:8.3k 7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.
 - [mdn/translated-content-de](https://github.com/mdn/translated-content-de) topic: pushed_at:2026-02 star:0.0k fork:0.0k Experimental German locale for MDN, aimed at German-speaking users that prefer to read MDN Web Docs in their native language
 - [mdn/translated-content-it](https://github.com/mdn/translated-content-it) topic: pushed_at:2026-01 star:0.0k fork:0.0k Experimental Italian locale for MDN, aimed at Italian-speaking users that prefer to read MDN Web Docs in their native language 
 
 ## Mermaid
 
-- [mdn/shared-assets](https://github.com/mdn/shared-assets) topic:assets,examples,infra pushed_at:2026-01 star:0.0k fork:0.0k A repository for media and assets to be used across MDN Web Docs
+- [mdn/shared-assets](https://github.com/mdn/shared-assets) topic:assets,examples,infra pushed_at:2026-02 star:0.0k fork:0.0k A repository for media and assets to be used across MDN Web Docs
 
 ## Others
 
@@ -157,7 +157,7 @@
 - [mdn/crossbrowser-testing-lab](https://github.com/mdn/crossbrowser-testing-lab) topic: pushed_at:2019-04 star:0.0k fork:0.0k Mozilla's Cross-Browser Testing Lab
 - [mdn/generic-content](https://github.com/mdn/generic-content) topic:community pushed_at:2026-02 star:0.0k fork:0.0k Various pieces of generic MDN content
 - [mdn/mdn](https://github.com/mdn/mdn) topic:governance,mdn,meta,planning,web-platform pushed_at:2026-02 star:1.3k fork:0.2k Planning and proposals for MDN Web Docs content
-- [mdn/mdn-community](https://github.com/mdn/mdn-community) topic:community,feedback,governance,mdn pushed_at:2026-01 star:0.2k fork:0.1k A place to provide feedback and suggestions for MDN Web Docs
+- [mdn/mdn-community](https://github.com/mdn/mdn-community) topic:community,feedback,governance,mdn pushed_at:2026-02 star:0.2k fork:0.1k A place to provide feedback and suggestions for MDN Web Docs
 - [mdn/mdn-contributor-spotlight](https://github.com/mdn/mdn-contributor-spotlight) topic:achievements,community,kudos pushed_at:2026-02 star:0.0k fork:0.0k Content for the contributor spotlight on MDN Web Docs
 - [mdn/mdn-dinocons](https://github.com/mdn/mdn-dinocons) topic:design,figma,icons,mdn-dinocons,svg-icons pushed_at:2022-03 star:0.0k fork:0.0k A scalable set of icons for use across Mozilla Developer websites
 - [mdn/project-template](https://github.com/mdn/project-template) topic:template pushed_at:2026-01 star:0.0k fork:0.0k A project template to use for new MDN GitHub repositories
@@ -211,7 +211,7 @@
 
 ## WebAssembly
 
-- [mdn/webassembly-examples](https://github.com/mdn/webassembly-examples) topic:examples,wasm,webassembly pushed_at:2026-01 star:1.2k fork:0.3k Code examples that accompany the MDN WebAssembly documentation — see https://developer.mozilla.org/en-US/docs/WebAssembly. 
+- [mdn/webassembly-examples](https://github.com/mdn/webassembly-examples) topic:examples,wasm,webassembly pushed_at:2026-02 star:1.2k fork:0.3k Code examples that accompany the MDN WebAssembly documentation — see https://developer.mozilla.org/en-US/docs/WebAssembly. 
 
 
 ## License
