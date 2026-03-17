@@ -41,7 +41,7 @@
 ## C++
 
 - [twitter/BreakoutDetection](https://github.com/twitter/BreakoutDetection) topic: pushed_at:2017-08 star:0.8k fork:0.2k Breakout Detection via Robust E-Statistics
-- [twitter/vireo](https://github.com/twitter/vireo) topic: pushed_at:2021-10 star:0.9k fork:0.1k Vireo is a lightweight and versatile video processing library written in C++11
+- [twitter/vireo](https://github.com/twitter/vireo) topic: pushed_at:2021-10 star:1.0k fork:0.1k Vireo is a lightweight and versatile video processing library written in C++11
 
 ## Go
 
@@ -81,7 +81,7 @@
 - [twitter/SentenTree](https://github.com/twitter/SentenTree) topic: pushed_at:2023-04 star:0.2k fork:0.1k A novel text visualization technique
 - [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) topic: pushed_at:2023-04 star:0.3k fork:0.1k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
 - [twitter/twitter-cldr-npm](https://github.com/twitter/twitter-cldr-npm) topic: pushed_at:2023-04 star:0.1k fork:0.0k TwitterCldr npm package
-- [twitter/typeahead.js](https://github.com/twitter/typeahead.js) topic: pushed_at:2023-04 star:16.5k fork:3.2k typeahead.js is a fast and fully-featured autocomplete library
+- [twitter/typeahead.js](https://github.com/twitter/typeahead.js) topic: pushed_at:2023-04 star:16.5k fork:3.1k typeahead.js is a fast and fully-featured autocomplete library
 
 ## Kotlin
 
@@ -113,12 +113,12 @@
 ## Python
 
 - [twitter/caladrius](https://github.com/twitter/caladrius) topic: pushed_at:2023-04 star:0.0k fork:0.0k Performance modelling system for Distributed Stream Processing Systems (DSPS) such as Apache Heron and Apache Storm
-- [twitter/communitynotes](https://github.com/twitter/communitynotes) topic:crowdsourcing,twitter pushed_at:2026-02 star:1.8k fork:0.3k Documentation and source code powering Twitter's Community Notes
+- [twitter/communitynotes](https://github.com/twitter/communitynotes) topic:crowdsourcing,twitter pushed_at:2026-03 star:1.8k fork:0.3k Documentation and source code powering Twitter's Community Notes
 - [twitter/dict_minimize](https://github.com/twitter/dict_minimize) topic:scipy,scipy-stack pushed_at:2023-06 star:0.1k fork:0.0k Access scipy optimizers from your favorite deep learning framework.
 - [twitter/diffusion-rl](https://github.com/twitter/diffusion-rl) topic: pushed_at:2022-12 star:0.1k fork:0.0k 
 - [twitter/gatekeeper-service](https://github.com/twitter/gatekeeper-service) topic: pushed_at:2023-02 star:0.0k fork:0.0k GateKeeper is a service built to automate the manual steps involved in onboarding, offboarding, and lost asset scenarios.
 - [twitter/pants](https://github.com/twitter/pants) topic: pushed_at:2023-08 star:0.1k fork:0.0k Pants Build System
-- [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) topic: pushed_at:2024-07 star:10.5k fork:2.2k Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm-ml](https://github.com/twitter/the-algorithm-ml) topic: pushed_at:2024-07 star:10.6k fork:2.2k Source code for Twitter's Recommendation Algorithm
 - [twitter/zktraffic](https://github.com/twitter/zktraffic) topic: pushed_at:2023-04 star:0.2k fork:0.1k ZooKeeper protocol analyzer and stats gathering daemon
 
 ## R
@@ -160,7 +160,7 @@
 - [twitter/stitch](https://github.com/twitter/stitch) topic: pushed_at:2024-11 star:0.1k fork:0.0k 
 - [twitter/storehaus](https://github.com/twitter/storehaus) topic: pushed_at:2020-07 star:0.5k fork:0.1k Storehaus is a library that makes it easy to work with asynchronous key value stores
 - [twitter/summingbird](https://github.com/twitter/summingbird) topic: pushed_at:2022-01 star:2.1k fork:0.3k Streaming MapReduce with Scalding and Storm
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2025-09 star:72.8k fork:13.3k Source code for the X Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) topic: pushed_at:2025-09 star:72.9k fork:13.3k Source code for the X Recommendation Algorithm
 - [twitter/tormenta](https://github.com/twitter/tormenta) topic: pushed_at:2019-06 star:0.1k fork:0.0k Scala extensions for Storm
 - [twitter/twemoji-parser](https://github.com/twitter/twemoji-parser) topic: pushed_at:2024-04 star:0.2k fork:0.0k A simple library for identifying emoji entities within a string in order to render them as Twemoji.
 - [twitter/twitter-korean-text](https://github.com/twitter/twitter-korean-text) topic: pushed_at:2023-04 star:0.9k fork:0.2k Korean tokenizer
