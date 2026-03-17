@@ -43,7 +43,7 @@
 ## C++
 
 - [baidu/AnyQ](https://github.com/baidu/AnyQ) topic:dialogue,dialogue-systems,faq,faq-question-answering-system,faq-system,faqbot,qa-system,question-answering,semantic-matching pushed_at:2020-11 star:2.6k fork:0.7k FAQ-based Question Answering System
-- [baidu/babylon](https://github.com/baidu/babylon) topic: pushed_at:2025-12 star:0.6k fork:0.1k High-Performance C++ Fundamental Library
+- [baidu/babylon](https://github.com/baidu/babylon) topic: pushed_at:2026-03 star:0.6k fork:0.1k High-Performance C++ Fundamental Library
 - [baidu/BaikalDB](https://github.com/baidu/BaikalDB) topic:baikaldb,database,htap,mysql,raft,sql pushed_at:2026-02 star:1.2k fork:0.2k BaikalDB, A Distributed HTAP Database.
 - [baidu/bfs](https://github.com/baidu/bfs) topic: pushed_at:2018-12 star:2.9k fork:0.6k The Baidu File System.
 - [baidu/bigflow](https://github.com/baidu/bigflow) topic: pushed_at:2025-12 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
@@ -115,7 +115,7 @@
 - [baidu/QComputeSDK-TS](https://github.com/baidu/QComputeSDK-TS) topic: pushed_at:2023-01 star:0.0k fork:0.0k QComputeSDK-TypeScript is the TypeScript version of QCompute, the quantum development kit of Quantum Leaf ( https://quantum-hub.baidu.com ). 
 - [baidu/san](https://github.com/baidu/san) topic:component,framework,frontend,javascript,mvvm,san pushed_at:2026-01 star:4.8k fork:0.5k A fast, portable, flexible JavaScript component framework
 - [baidu/san-composition](https://github.com/baidu/san-composition) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
-- [baidu/san-factory](https://github.com/baidu/san-factory) topic: pushed_at:2021-04 star:0.0k fork:0.0k 
+- [baidu/san-factory](https://github.com/baidu/san-factory) topic: pushed_at:2026-03 star:0.0k fork:0.0k 
 - [baidu/san-router](https://github.com/baidu/san-router) topic:san pushed_at:2026-01 star:0.0k fork:0.0k Official Router for San
 - [baidu/san-store](https://github.com/baidu/san-store) topic:appstate,san pushed_at:2025-01 star:0.1k fork:0.0k Application States Management for San
 - [baidu/san-update](https://github.com/baidu/san-update) topic:san pushed_at:2023-05 star:0.1k fork:0.0k Object immutable update utility for san solution
@@ -153,7 +153,7 @@
 ## Python
 
 - [baidu/ARK](https://github.com/baidu/ARK) topic:framework,operation pushed_at:2021-05 star:0.1k fork:0.0k Development framework of intelligent operation
-- [baidu/baiduads-sdk](https://github.com/baidu/baiduads-sdk) topic:ads,baidu,sdk pushed_at:2025-12 star:0.0k fork:0.0k Baidu Ads API SDK
+- [baidu/baiduads-sdk](https://github.com/baidu/baiduads-sdk) topic:ads,baidu,sdk pushed_at:2026-03 star:0.0k fork:0.0k Baidu Ads API SDK
 - [baidu/broc](https://github.com/baidu/broc) topic: pushed_at:2017-12 star:0.1k fork:0.1k 
 - [baidu/CUP](https://github.com/baidu/CUP) topic:common-libraries,common-libs,library,python pushed_at:2026-01 star:1.0k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
 - [baidu/DDParser](https://github.com/baidu/DDParser) topic:chinese-dependency-parser,chinese-nlp,dependency-parser,dependency-parsing,python,syntax-parser pushed_at:2023-02 star:1.0k fork:0.2k 百度开源的依存句法分析系统
@@ -169,7 +169,7 @@
 - [baidu/pymochow](https://github.com/baidu/pymochow) topic: pushed_at:2025-12 star:0.0k fork:0.0k 
 - [baidu/QCompute](https://github.com/baidu/QCompute) topic: pushed_at:2023-12 star:0.1k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
 - [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2024-08 star:2.0k fork:0.4k Baidu's open-source Sentiment Analysis System.
-- [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun) topic: pushed_at:2026-02 star:0.3k fork:0.0k vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU.
+- [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun) topic: pushed_at:2026-03 star:0.3k fork:0.1k vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) topic: pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
 
 ## Ruby

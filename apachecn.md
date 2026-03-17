@@ -234,7 +234,7 @@
 - [apachecn/apachecn-scicomp-zh](https://github.com/apachecn/apachecn-scicomp-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
 - [apachecn/apachecn-sec-notes](https://github.com/apachecn/apachecn-sec-notes) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/apachecn-sec-wiki](https://github.com/apachecn/apachecn-sec-wiki) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [apachecn/apachecn-sec-zh](https://github.com/apachecn/apachecn-sec-zh) topic: pushed_at:2022-07 star:0.2k fork:0.1k ApacheCN 网络安全译文集
+- [apachecn/apachecn-sec-zh](https://github.com/apachecn/apachecn-sec-zh) topic: pushed_at:2022-07 star:0.3k fork:0.1k ApacheCN 网络安全译文集
 - [apachecn/apachecn-sec-zh-pt2](https://github.com/apachecn/apachecn-sec-zh-pt2) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [apachecn/apachecn-sys-zh](https://github.com/apachecn/apachecn-sys-zh) topic: pushed_at:2022-07 star:0.0k fork:0.0k :books: [译] ApacheCN 计算机系统译文集
 - [apachecn/apachecn-tcs-zh](https://github.com/apachecn/apachecn-tcs-zh) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
@@ -520,7 +520,7 @@
 
 ## Jupyter Notebook
 
-- [apachecn/Interview](https://github.com/apachecn/Interview) topic:interview,kaggle,leetcode,machine-learning,python pushed_at:2023-10 star:8.9k fork:2.2k Interview = 简历指南 + 算法题 + 八股文 + 源码分析
+- [apachecn/Interview](https://github.com/apachecn/Interview) topic:interview,kaggle,leetcode,machine-learning,python pushed_at:2023-10 star:9.0k fork:2.2k Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 - [apachecn/Multimodal-short-video-dataset-and-baseline-classification-model](https://github.com/apachecn/Multimodal-short-video-dataset-and-baseline-classification-model) topic: pushed_at:2019-07 star:0.0k fork:0.0k multimodal short video datasets and  classification model(based on TensorFlow2.0 本资源含有50多万条多模态短视频数据集和对应的分类模型，旨在打造多模态分类框架。
 
 ## Others
@@ -563,12 +563,12 @@
 - [apachecn/autocut](https://github.com/apachecn/autocut) topic: pushed_at:2023-06 star:0.0k fork:0.0k 用文本编辑器剪视频
 - [apachecn/awesome-ai-painting](https://github.com/apachecn/awesome-ai-painting) topic: pushed_at:2023-04 star:0.0k fork:0.0k AI绘画资料合集（包含国内外可使用平台、使用教程、参数教程、部署教程、业界新闻等等） stable diffusion tutorial、disco diffusion tutorial、 AI Platform
 - [apachecn/awesome-architecture](https://github.com/apachecn/awesome-architecture) topic: pushed_at:2021-01 star:0.0k fork:0.0k 架构师技术图谱，助你早日成为架构师
-- [apachecn/awesome-bci-zh](https://github.com/apachecn/awesome-bci-zh) topic:awesome,bci pushed_at:2022-08 star:0.1k fork:0.0k 脑机接口资源汇总
+- [apachecn/awesome-bci-zh](https://github.com/apachecn/awesome-bci-zh) topic:awesome,bci pushed_at:2022-08 star:0.2k fork:0.0k 脑机接口资源汇总
 - [apachecn/awesome-chatgpt-prompts](https://github.com/apachecn/awesome-chatgpt-prompts) topic: pushed_at:2023-06 star:0.0k fork:0.0k This repo includes ChatGPT prompt curation to use ChatGPT better.
 - [apachecn/awesome-chatgpt-prompts-zh](https://github.com/apachecn/awesome-chatgpt-prompts-zh) topic: pushed_at:2023-03 star:0.0k fork:0.0k ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [apachecn/awesome-design-patterns](https://github.com/apachecn/awesome-design-patterns) topic: pushed_at:2022-12 star:0.0k fork:0.0k A curated list of software and architecture related design patterns.
 - [apachecn/awesome-drones](https://github.com/apachecn/awesome-drones) topic: pushed_at:2020-10 star:0.0k fork:0.0k A curated list of Awesome Drones resources
-- [apachecn/awesome-drones-zh](https://github.com/apachecn/awesome-drones-zh) topic:awesome,drones pushed_at:2023-10 star:0.5k fork:0.1k 无人机资源汇总
+- [apachecn/awesome-drones-zh](https://github.com/apachecn/awesome-drones-zh) topic:awesome,drones pushed_at:2023-10 star:0.6k fork:0.1k 无人机资源汇总
 - [apachecn/awesome-gb-dev-zh](https://github.com/apachecn/awesome-gb-dev-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k GB 开发资源列表
 - [apachecn/awesome-gba-dev-zh](https://github.com/apachecn/awesome-gba-dev-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k GBA 开发资源列表
 - [apachecn/awesome-ios](https://github.com/apachecn/awesome-ios) topic: pushed_at:2022-10 star:0.0k fork:0.0k A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects 
@@ -1037,7 +1037,7 @@
 - [apachecn/scripts](https://github.com/apachecn/scripts) topic: pushed_at:2022-01 star:0.0k fork:0.0k jd https://t.me/+fo3HSUe3nbRiNjY1
 - [apachecn/scripts-1](https://github.com/apachecn/scripts-1) topic: pushed_at:2021-12 star:0.0k fork:0.0k Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
 - [apachecn/scys1](https://github.com/apachecn/scys1) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:1.6k fork:0.6k :books: 网安类绝版图书
+- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:1.7k fork:0.6k :books: 网安类绝版图书
 - [apachecn/sec-books-part2](https://github.com/apachecn/sec-books-part2) topic: pushed_at:2023-01 star:0.1k fork:0.1k :books: 网安类绝版图书（二）
 - [apachecn/sec-gzh-2022](https://github.com/apachecn/sec-gzh-2022) topic: pushed_at:2023-04 star:0.0k fork:0.0k 网络安全类公众号离线备份
 - [apachecn/seebug-paper-2016-20xx](https://github.com/apachecn/seebug-paper-2016-20xx) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
