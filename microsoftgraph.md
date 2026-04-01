@@ -7,7 +7,7 @@
 ## Contents(235)
 
 - [Bicep](#bicep) (1)
-- [C#](#c#) (75)
+- [C#](#c#) (74)
 - [CSS](#css) (1)
 - [Go](#go) (5)
 - [HTML](#html) (4)
@@ -22,7 +22,7 @@
 - [Ruby](#ruby) (5)
 - [SCSS](#scss) (1)
 - [Swift](#swift) (5)
-- [TypeScript](#typescript) (33)
+- [TypeScript](#typescript) (34)
 - [XSLT](#xslt) (1)
 
 ## Bicep
@@ -42,7 +42,6 @@
 - [microsoftgraph/aspnet-todo-rest-sample](https://github.com/microsoftgraph/aspnet-todo-rest-sample) topic:devxsample pushed_at:2020-03 star:0.0k fork:0.0k This sample shows how to read and write into an Excel document stored in your OneDrive for Business account by using the Excel REST APIs.
 - [microsoftgraph/aspnetcore-connect-sample](https://github.com/microsoftgraph/aspnetcore-connect-sample) topic:devxsample pushed_at:2023-04 star:0.1k fork:0.1k [ARCHIVED] This ASP.NET Core MVC sample shows how to connect to Microsoft Graph using delegated permissions and the Azure AD v2.0 (MSAL) endpoint.
 - [microsoftgraph/aspnetcore-webhooks-sample](https://github.com/microsoftgraph/aspnetcore-webhooks-sample) topic:devxsample pushed_at:2026-01 star:0.1k fork:0.1k This sample shows how to subscribe for Microsoft Graph webhooks using application (app-only) permissions and the Azure AD endpoint.
-- [microsoftgraph/autorest.powershell](https://github.com/microsoftgraph/autorest.powershell) topic: pushed_at:2025-02 star:0.0k fork:0.0k AutoRest PowerShell Generator
 - [microsoftgraph/botframework-csharp-approvalbot-sample](https://github.com/microsoftgraph/botframework-csharp-approvalbot-sample) topic:devxsample pushed_at:2024-05 star:0.0k fork:0.0k A sample Bot that uses adaptive cards and the .NET Graph SDK to send actionable messages requesting approval to release files on OneDrive.
 - [microsoftgraph/botframework-csharp-excelbot-rest-sample](https://github.com/microsoftgraph/botframework-csharp-excelbot-rest-sample) topic:devxsample pushed_at:2020-05 star:0.0k fork:0.0k [ARCHIVED] Excel Bot is a bot built with the Microsoft Bot Framework that demonstrates how to use Excel with the Microsoft Graph API
 - [microsoftgraph/botframework-csharp-graph-explorer](https://github.com/microsoftgraph/botframework-csharp-graph-explorer) topic:misc pushed_at:2022-11 star:0.0k fork:0.0k The Microsoft Graph Bot is a bot built with the Microsoft Bot Framework that allows interactive exploration of the Microsoft Graph.
@@ -157,9 +156,9 @@
 - [microsoftgraph/contoso-airlines-aspnet-core-sample](https://github.com/microsoftgraph/contoso-airlines-aspnet-core-sample) topic:devxsample pushed_at:2021-04 star:0.0k fork:0.0k [ARCHIVED]
 - [microsoftgraph/contoso-airlines-teams-sample](https://github.com/microsoftgraph/contoso-airlines-teams-sample) topic:devxsample pushed_at:2022-08 star:0.1k fork:0.0k 
 - [microsoftgraph/csharp-teams-sample-graph](https://github.com/microsoftgraph/csharp-teams-sample-graph) topic:devxsample,microsoft-teams pushed_at:2020-06 star:0.1k fork:0.1k [ARCHIVED] Sample apps (C# and node) for accessing Microsoft Teams data via the Microsoft Graph
-- [microsoftgraph/eslint-config-msgraph](https://github.com/microsoftgraph/eslint-config-msgraph) topic: pushed_at:2025-11 star:0.0k fork:0.0k Shared eslint and prettier configs for the microsoftgraph org
+- [microsoftgraph/eslint-config-msgraph](https://github.com/microsoftgraph/eslint-config-msgraph) topic: pushed_at:2026-03 star:0.0k fork:0.0k Shared eslint and prettier configs for the microsoftgraph org
 - [microsoftgraph/graphql-demo](https://github.com/microsoftgraph/graphql-demo) topic:archived pushed_at:2020-01 star:0.1k fork:0.0k [ARCHIVED] GraphQL for Microsoft Graph
-- [microsoftgraph/microsoft-graph-devx-content](https://github.com/microsoftgraph/microsoft-graph-devx-content) topic:devxeng pushed_at:2026-03 star:0.0k fork:0.0k Content used by the DevX API to enhance clients and tooling.
+- [microsoftgraph/microsoft-graph-devx-content](https://github.com/microsoftgraph/microsoft-graph-devx-content) topic:devxeng pushed_at:2026-04 star:0.0k fork:0.0k Content used by the DevX API to enhance clients and tooling.
 - [microsoftgraph/msgraph-sample-javascriptspa](https://github.com/microsoftgraph/msgraph-sample-javascriptspa) topic:browser,devxsample,javascript,microsoft-graph pushed_at:2024-05 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from JavaScript browser apps.
 - [microsoftgraph/msgraph-sample-nodeexpressapp](https://github.com/microsoftgraph/msgraph-sample-nodeexpressapp) topic:devxsample,express,microsoft-graph,nodejs pushed_at:2025-01 star:0.2k fork:0.1k This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from Node.js Express apps.
 - [microsoftgraph/msgraph-sample-office-addin](https://github.com/microsoftgraph/msgraph-sample-office-addin) topic:devxsample,microsoft-graph,office-addin pushed_at:2025-05 star:0.0k fork:0.0k This sample demonstrates how to use the Microsoft Graph JavaScript SDK to access data in Office 365 from Office Add-ins.
@@ -282,6 +281,7 @@
 - [microsoftgraph/aspnetcore-search-sample](https://github.com/microsoftgraph/aspnetcore-search-sample) topic:devxsample pushed_at:2024-05 star:0.0k fork:0.0k 
 - [microsoftgraph/assign-to-author](https://github.com/microsoftgraph/assign-to-author) topic:devxdocs pushed_at:2025-10 star:0.0k fork:0.0k This GitHub action assigns issues in the microsoft-graph-docs repository to the author of the referenced page
 - [microsoftgraph/autorest](https://github.com/microsoftgraph/autorest) topic: pushed_at:2023-11 star:0.0k fork:0.0k OpenAPI (f.k.a Swagger) Specification code generator. Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python
+- [microsoftgraph/autorest.powershell](https://github.com/microsoftgraph/autorest.powershell) topic: pushed_at:2026-03 star:0.0k fork:0.0k AutoRest PowerShell Generator
 - [microsoftgraph/changelog-link-check](https://github.com/microsoftgraph/changelog-link-check) topic:devxdocs pushed_at:2025-01 star:0.0k fork:0.0k This GitHub action blocks pull requests that include invalid links in changelog files
 - [microsoftgraph/contoso-airlines-spfx-sample](https://github.com/microsoftgraph/contoso-airlines-spfx-sample) topic:devxsample pushed_at:2021-04 star:0.0k fork:0.0k [ARCHIVED]
 - [microsoftgraph/contoso-foods](https://github.com/microsoftgraph/contoso-foods) topic:devxsample pushed_at:2023-03 star:0.0k fork:0.0k A sample grocery shopping experience powered by the Microsoft Graph Toolkit
@@ -312,7 +312,7 @@
 
 ## XSLT
 
-- [microsoftgraph/msgraph-metadata](https://github.com/microsoftgraph/msgraph-metadata) topic:azure-active-directory,devxeng,exchange,kiota-index,microsoft-graph,office365,onedrive,onenote,outlook,planner,sharepoint,teams,todo pushed_at:2026-03 star:0.2k fork:0.0k Microsoft Graph metadata captured and used for generating client library code files.
+- [microsoftgraph/msgraph-metadata](https://github.com/microsoftgraph/msgraph-metadata) topic:azure-active-directory,devxeng,exchange,kiota-index,microsoft-graph,office365,onedrive,onenote,outlook,planner,sharepoint,teams,todo pushed_at:2026-04 star:0.2k fork:0.0k Microsoft Graph metadata captured and used for generating client library code files.
 
 
 ## License

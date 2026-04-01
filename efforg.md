@@ -164,13 +164,13 @@
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) topic: pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
 - [EFForg/https-everywhere-rust-test-implementation](https://github.com/EFForg/https-everywhere-rust-test-implementation) topic: pushed_at:2020-04 star:0.0k fork:0.0k 
 - [EFForg/pycrate-rs](https://github.com/EFForg/pycrate-rs) topic: pushed_at:2025-07 star:0.0k fork:0.0k A Rust telcom parser generated from pycrate
-- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) topic: pushed_at:2026-03 star:5.0k fork:0.4k Rust tool to detect cell site simulators on an orbic mobile hotspot 
+- [EFForg/rayhunter](https://github.com/EFForg/rayhunter) topic: pushed_at:2026-03 star:5.1k fork:0.4k Rust tool to detect cell site simulators on an orbic mobile hotspot 
 - [EFForg/rs-google-play](https://github.com/EFForg/rs-google-play) topic: pushed_at:2025-11 star:0.1k fork:0.0k Google Play API for Rust
 - [EFForg/tokio-dl-stream-to-disk](https://github.com/EFForg/tokio-dl-stream-to-disk) topic: pushed_at:2024-07 star:0.0k fork:0.0k A micro-library for downloading from a URL and streaming it directly to the disk
 
 ## SCSS
 
-- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) topic: pushed_at:2026-02 star:0.0k fork:0.0k Code and content of https://privacybadger.org
+- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) topic: pushed_at:2026-03 star:0.0k fork:0.0k Code and content of https://privacybadger.org
 
 ## Sass
 
@@ -178,7 +178,7 @@
 
 ## Shell
 
-- [EFForg/badger-swarm](https://github.com/EFForg/badger-swarm) topic: pushed_at:2025-11 star:0.0k fork:0.0k Runs distributed Badger Sett scans on Digital Ocean.
+- [EFForg/badger-swarm](https://github.com/EFForg/badger-swarm) topic: pushed_at:2026-03 star:0.0k fork:0.0k Runs distributed Badger Sett scans on Digital Ocean.
 - [EFForg/duraconf](https://github.com/EFForg/duraconf) topic: pushed_at:2020-06 star:0.0k fork:0.0k duraconf - A collection of hardened configuration files for SSL/TLS services
 - [EFForg/roaming-android-mitm](https://github.com/EFForg/roaming-android-mitm) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
 

@@ -38,7 +38,7 @@
 
 ## JavaScript
 
-- [riscv/adm-riscv-sde](https://github.com/riscv/adm-riscv-sde) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V Specification Development Explorer
+- [riscv/adm-riscv-sde](https://github.com/riscv/adm-riscv-sde) topic: pushed_at:2026-04 star:0.0k fork:0.0k RISC-V Specification Development Explorer
 - [riscv/adm-tc-dashboard](https://github.com/riscv/adm-tc-dashboard) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V Technical Committee Dashboard
 
 ## Makefile
@@ -58,7 +58,7 @@
 - [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) topic: pushed_at:2026-03 star:0.0k fork:0.0k 
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) topic: pushed_at:2026-03 star:0.2k fork:0.0k Working Draft of the RISC-V J Extension Specification
 - [riscv/riscv-memory-tagging](https://github.com/riscv/riscv-memory-tagging) topic: pushed_at:2026-03 star:0.0k fork:0.0k Memory Tagging ISA extension that can be used by software to enforce memory tag checks on memory loads and stores
-- [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) topic: pushed_at:2026-03 star:0.2k fork:0.0k RISC-V Packed SIMD Extension
+- [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) topic: pushed_at:2026-04 star:0.2k fork:0.0k RISC-V Packed SIMD Extension
 - [riscv/riscv-performance-event-sampling](https://github.com/riscv/riscv-performance-event-sampling) topic: pushed_at:2026-03 star:0.0k fork:0.0k Define 2 new extensions to, along with Zihpm and Sscofpmf, enable event and instruction sampling with precise attribution.
 - [riscv/riscv-performance-events](https://github.com/riscv/riscv-performance-events) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V Performance Events Specification
 - [riscv/riscv-pqc](https://github.com/riscv/riscv-pqc) topic: pushed_at:2026-03 star:0.0k fork:0.0k Post Quantum Cryptography
@@ -106,7 +106,7 @@
 - [riscv/integrated-matrix-extension](https://github.com/riscv/integrated-matrix-extension) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V Integrated Matrix Development Repository
 - [riscv/riscv-cheri](https://github.com/riscv/riscv-cheri) topic:capabilities,compartmentalization,memory-safety pushed_at:2026-03 star:0.1k fork:0.0k This repository contains the CHERI extension specification, adding hardware capabilities to RISC-V ISA to enable fine-grained memory protection and scalable compartmentalization.
 - [riscv/riscv-high-assurance-cryptography](https://github.com/riscv/riscv-high-assurance-cryptography) topic: pushed_at:2026-03 star:0.0k fork:0.0k  High Assurance Cryptography
-- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) topic: pushed_at:2026-03 star:4.5k fork:0.8k RISC-V Instruction Set Manual
+- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) topic: pushed_at:2026-04 star:4.6k fork:0.8k RISC-V Instruction Set Manual
 - [riscv/riscv-isa-manual-dmitry](https://github.com/riscv/riscv-isa-manual-dmitry) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V Instruction Set Manual for Dmitry
 - [riscv/riscv-memory-protection-hypervisor](https://github.com/riscv/riscv-memory-protection-hypervisor) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V Memory Protection for Hypervisor
 - [riscv/riscv-smbios](https://github.com/riscv/riscv-smbios) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V SMBIOS Type 44 Spec

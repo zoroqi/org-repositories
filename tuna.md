@@ -12,8 +12,8 @@
 - [Dart](#dart) (2)
 - [Dockerfile](#dockerfile) (1)
 - [Go](#go) (5)
-- [HTML](#html) (4)
-- [JavaScript](#javascript) (5)
+- [HTML](#html) (3)
+- [JavaScript](#javascript) (6)
 - [MDX](#mdx) (1)
 - [Others](#others) (8)
 - [PHP](#php) (2)
@@ -57,9 +57,8 @@
 
 ## HTML
 
-- [tuna/mirror-web](https://github.com/tuna/mirror-web) topic: pushed_at:2026-03 star:0.9k fork:0.3k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
 - [tuna/mirrorcon](https://github.com/tuna/mirrorcon) topic: pushed_at:2017-09 star:0.0k fork:0.0k Website of MirrorCon 2017
-- [tuna/registr-lite](https://github.com/tuna/registr-lite) topic: pushed_at:2026-02 star:0.0k fork:0.0k A lightweight registr with only a bare RESTful API.
+- [tuna/registr-lite](https://github.com/tuna/registr-lite) topic: pushed_at:2026-03 star:0.0k fork:0.0k A lightweight registr with only a bare RESTful API.
 - [tuna/tuna.moe](https://github.com/tuna/tuna.moe) topic: pushed_at:2026-03 star:0.1k fork:0.0k Source code for https://tuna.moe
 
 ## JavaScript
@@ -67,6 +66,7 @@
 - [tuna/danmaQ](https://github.com/tuna/danmaQ) topic: pushed_at:2025-04 star:0.2k fork:0.0k danmaku client implemented in Qt
 - [tuna/fakeTunet](https://github.com/tuna/fakeTunet) topic: pushed_at:2016-05 star:0.0k fork:0.0k a fake net.tsinghua.edu.cn
 - [tuna/Logbot](https://github.com/tuna/Logbot) topic: pushed_at:2014-11 star:0.0k fork:0.0k Simple IRC logger with realtime web-based viewer
+- [tuna/mirror-web](https://github.com/tuna/mirror-web) topic: pushed_at:2026-03 star:0.9k fork:0.3k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
 - [tuna/registr](https://github.com/tuna/registr) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [tuna/tunasay](https://github.com/tuna/tunasay) topic: pushed_at:2017-06 star:0.0k fork:0.0k tunasay is a configurable talking tuna
 
@@ -117,7 +117,7 @@
 
 ## Rust
 
-- [tuna/tunasync-monitor](https://github.com/tuna/tunasync-monitor) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
+- [tuna/tunasync-monitor](https://github.com/tuna/tunasync-monitor) topic: pushed_at:2026-03 star:0.0k fork:0.0k 
 
 ## TeX
 

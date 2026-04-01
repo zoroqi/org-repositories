@@ -35,7 +35,7 @@
 - [twitter/ios-twitter-image-pipeline](https://github.com/twitter/ios-twitter-image-pipeline) topic:cache,image-pipeline,ios,objective-c,swift,twitter pushed_at:2024-01 star:1.9k fork:0.1k Twitter Image Pipeline is a robust and performant image loading and caching framework for iOS clients
 - [twitter/libwatchman](https://github.com/twitter/libwatchman) topic: pushed_at:2019-06 star:0.0k fork:0.0k A C interface to watchman
 - [twitter/pelikan](https://github.com/twitter/pelikan) topic: pushed_at:2023-10 star:2.0k fork:0.2k Pelikan is Twitter's unified cache backend
-- [twitter/twemcache](https://github.com/twitter/twemcache) topic: pushed_at:2021-11 star:0.9k fork:0.2k Twemcache is the Twitter Memcached
+- [twitter/twemcache](https://github.com/twitter/twemcache) topic: pushed_at:2021-11 star:0.9k fork:0.1k Twemcache is the Twitter Memcached
 - [twitter/twemproxy](https://github.com/twitter/twemproxy) topic: pushed_at:2024-03 star:12.4k fork:2.0k A fast, light-weight proxy for memcached and redis
 
 ## C++
@@ -141,7 +141,7 @@
 
 ## SCSS
 
-- [twitter/opensource-website](https://github.com/twitter/opensource-website) topic:ospo pushed_at:2025-08 star:3.2k fork:0.8k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
+- [twitter/opensource-website](https://github.com/twitter/opensource-website) topic:ospo pushed_at:2025-08 star:3.3k fork:0.8k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 
 ## Scala
 
