@@ -128,7 +128,7 @@
 - [apachecn/alphamale20-blog-zh](https://github.com/apachecn/alphamale20-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/analyticsvidhya-blog-zh-2015to2020](https://github.com/apachecn/analyticsvidhya-blog-zh-2015to2020) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/analyticsvidhya-blog-zh-2021to2022](https://github.com/apachecn/analyticsvidhya-blog-zh-2021to2022) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
-- [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) topic:algorithm,coding,data-structure,geeker,hacker,interview,leetcode,leetcode-solutions,offer,python pushed_at:2024-06 star:11.2k fork:2.2k ApacheCN 数据结构与算法译文集
+- [apachecn/apachecn-algo-zh](https://github.com/apachecn/apachecn-algo-zh) topic:algorithm,coding,data-structure,geeker,hacker,interview,leetcode,leetcode-solutions,offer,python pushed_at:2024-06 star:11.1k fork:2.2k ApacheCN 数据结构与算法译文集
 - [apachecn/apachecn-android-zh](https://github.com/apachecn/apachecn-android-zh) topic: pushed_at:2022-01 star:0.0k fork:0.0k :books: [译] ApacheCN 安卓译文集
 - [apachecn/apachecn-android-zh-pt2](https://github.com/apachecn/apachecn-android-zh-pt2) topic: pushed_at:2022-01 star:0.0k fork:0.0k 
 - [apachecn/apachecn-android-zh-pt3](https://github.com/apachecn/apachecn-android-zh-pt3) topic: pushed_at:2022-03 star:0.0k fork:0.0k 
@@ -926,7 +926,7 @@
 - [apachecn/linuxKernelRoot](https://github.com/apachecn/linuxKernelRoot) topic: pushed_at:2022-01 star:0.0k fork:0.0k 新一代root，跟面具完全不同思路，摆脱面具被检测的弱点，完美隐藏root功能，挑战全网root检测手段，兼容安卓APP直接JNI调用，稳定、流畅、不闪退。
 - [apachecn/lottie-ios](https://github.com/apachecn/lottie-ios) topic: pushed_at:2023-06 star:0.0k fork:0.0k An iOS library to natively render After Effects vector animations
 - [apachecn/LoveIt](https://github.com/apachecn/LoveIt) topic: pushed_at:2020-03 star:0.0k fork:0.0k 🚀A clean, elegant but advanced blog theme for Hugo
-- [apachecn/loving-books](https://github.com/apachecn/loving-books) topic: pushed_at:2022-04 star:0.3k fork:0.0k :books: 恋爱指南
+- [apachecn/loving-books](https://github.com/apachecn/loving-books) topic: pushed_at:2022-04 star:0.3k fork:0.1k :books: 恋爱指南
 - [apachecn/loving-books-part2](https://github.com/apachecn/loving-books-part2) topic: pushed_at:2022-10 star:0.0k fork:0.0k 恋爱指南2
 - [apachecn/loving-books-part3](https://github.com/apachecn/loving-books-part3) topic: pushed_at:2023-04 star:0.0k fork:0.0k 恋爱资料库（三）
 - [apachecn/luajava](https://github.com/apachecn/luajava) topic: pushed_at:2020-06 star:0.0k fork:0.0k LuaJava is a scripting tool for Java. The goal of this tool is to allow scripts written in Lua to manipulate components developed in Java. LuaJava allows Java components to be accessed from Lua using the same syntax that is used for accessing Lua`s native objects, without any need for declarations or any kind of preprocessing.  LuaJava also allows Java to implement an interface using Lua. This way any interface can be implemented in Lua and passed as parameter to any method, and when called, the equivalent function will be called in Lua, and it's result passed back to Java.

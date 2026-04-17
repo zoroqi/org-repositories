@@ -34,9 +34,9 @@
 ## Go
 
 - [ustclug/light-socks5](https://github.com/ustclug/light-socks5) topic: pushed_at:2025-02 star:0.0k fork:0.0k light accelerator socks5 daemon
-- [ustclug/rsync-proxy](https://github.com/ustclug/rsync-proxy) topic:proxy,rsync pushed_at:2026-03 star:0.0k fork:0.0k 根据 module name 反向代理不同 host 上的 rsync daemon 以减轻单台主机上的 IO 压力
+- [ustclug/rsync-proxy](https://github.com/ustclug/rsync-proxy) topic:proxy,rsync pushed_at:2026-04 star:0.0k fork:0.0k 根据 module name 反向代理不同 host 上的 rsync daemon 以减轻单台主机上的 IO 压力
 - [ustclug/TunnelMonitor](https://github.com/ustclug/TunnelMonitor) topic: pushed_at:2023-07 star:0.0k fork:0.0k monitoring iptables connection balance and switching automatically
-- [ustclug/Yuki](https://github.com/ustclug/Yuki) topic:docker-container,mirror,restful-api pushed_at:2026-03 star:0.1k fork:0.0k Mirror management tool, developed and used in-house in USTC
+- [ustclug/Yuki](https://github.com/ustclug/Yuki) topic:docker-container,mirror,restful-api pushed_at:2026-04 star:0.1k fork:0.0k Mirror management tool, developed and used in-house in USTC
 
 ## HTML
 
@@ -44,7 +44,7 @@
 - [ustclug/mirrors-index](https://github.com/ustclug/mirrors-index) topic: pushed_at:2025-02 star:0.0k fork:0.0k Mirrored infrequently. Go https://git.lug.ustc.edu.cn/mirrors/mirrors-index for latest version
 - [ustclug/news](https://github.com/ustclug/news) topic: pushed_at:2020-08 star:0.0k fork:0.0k USTC LUG 新闻站
 - [ustclug/qtguide](https://github.com/ustclug/qtguide) topic: pushed_at:2025-06 star:0.1k fork:0.0k Qt Programming Guide
-- [ustclug/website](https://github.com/ustclug/website) topic:hacktoberfest,jekyll,website pushed_at:2026-02 star:0.0k fork:0.0k The next-gen website of LUG@USTC
+- [ustclug/website](https://github.com/ustclug/website) topic:hacktoberfest,jekyll,website pushed_at:2026-04 star:0.0k fork:0.0k The next-gen website of LUG@USTC
 
 ## Hack
 
@@ -61,7 +61,7 @@
 
 ## Makefile
 
-- [ustclug/Linux101-docs](https://github.com/ustclug/Linux101-docs) topic:documentation,hacktoberfest,linux pushed_at:2026-03 star:1.2k fork:0.1k Linux 101 学生课程教材与讲义
+- [ustclug/Linux101-docs](https://github.com/ustclug/Linux101-docs) topic:documentation,hacktoberfest,linux pushed_at:2026-04 star:1.2k fork:0.1k Linux 101 学生课程教材与讲义
 
 ## Others
 
@@ -78,10 +78,10 @@
 
 - [ustclug/blogs](https://github.com/ustclug/blogs) topic: pushed_at:2025-12 star:0.1k fork:0.0k USTCLUG 同学们的博客列表
 - [ustclug/documentations](https://github.com/ustclug/documentations) topic: pushed_at:2026-03 star:0.0k fork:0.0k LUG @ USTC Technical Documentation
-- [ustclug/hackergame](https://github.com/ustclug/hackergame) topic: pushed_at:2026-03 star:0.1k fork:0.0k Hackergame platform for 2018 and beyond
+- [ustclug/hackergame](https://github.com/ustclug/hackergame) topic: pushed_at:2026-04 star:0.1k fork:0.0k Hackergame platform for 2018 and beyond
 - [ustclug/hackergame2017](https://github.com/ustclug/hackergame2017) topic: pushed_at:2017-10 star:0.0k fork:0.0k 
 - [ustclug/library](https://github.com/ustclug/library) topic: pushed_at:2017-11 star:0.0k fork:0.0k LUG Library
-- [ustclug/Linux201-docs](https://github.com/ustclug/Linux201-docs) topic:debian,documentation,linux,server pushed_at:2026-03 star:0.4k fork:0.0k Linux 201 进阶教程阅读资料
+- [ustclug/Linux201-docs](https://github.com/ustclug/Linux201-docs) topic:debian,documentation,linux,server pushed_at:2026-04 star:0.4k fork:0.0k Linux 201 进阶教程阅读资料
 - [ustclug/lug-vpn-web](https://github.com/ustclug/lug-vpn-web) topic: pushed_at:2026-02 star:0.0k fork:0.0k LUG VPN 申请系统
 - [ustclug/mirrorhelp](https://github.com/ustclug/mirrorhelp) topic:documentation,hacktoberfest,mirror pushed_at:2026-03 star:0.6k fork:0.2k Documentation for USTC Mirrors
 - [ustclug/mirrorrequest](https://github.com/ustclug/mirrorrequest) topic:mirror pushed_at:2024-12 star:0.4k fork:0.0k 通过 issue 为中国科大开源镜像站（mirrors.ustc.edu.cn）提交新的镜像申请~
@@ -101,14 +101,14 @@
 - [ustclug/docker-freeradius](https://github.com/ustclug/docker-freeradius) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [ustclug/docker-gitlab](https://github.com/ustclug/docker-gitlab) topic: pushed_at:2026-02 star:0.0k fork:0.0k Dockerized GitLab
 - [ustclug/docker-image](https://github.com/ustclug/docker-image) topic: pushed_at:2017-01 star:0.0k fork:0.0k 💀docker image used by USTC LUG (deprecated)
-- [ustclug/light-list](https://github.com/ustclug/light-list) topic: pushed_at:2022-11 star:0.0k fork:0.0k accelerate list of light service (Last run: 2026-03-31)
+- [ustclug/light-list](https://github.com/ustclug/light-list) topic: pushed_at:2022-11 star:0.0k fork:0.0k accelerate list of light service (Last run: 2026-04-16)
 - [ustclug/light-server](https://github.com/ustclug/light-server) topic: pushed_at:2024-07 star:0.0k fork:0.0k light accelerator daemon
 - [ustclug/liimstrap](https://github.com/ustclug/liimstrap) topic:linux pushed_at:2025-08 star:0.0k fork:0.0k 中国科大图书馆查询机生成脚本
 - [ustclug/Linux101-USTC](https://github.com/ustclug/Linux101-USTC) topic: pushed_at:2020-03 star:0.0k fork:0.0k Linux 101 is a course organized by several members of LUG@USTC. It is designed to popularize Linux and open source culture in USTC. First brought up by Jin Zida.
 - [ustclug/lug-sites-sync](https://github.com/ustclug/lug-sites-sync) topic: pushed_at:2015-08 star:0.0k fork:0.0k 💀Script to sync lug.ustc.edu.cn/sites pages (deprecated)
 - [ustclug/lugftp](https://github.com/ustclug/lugftp) topic:afp,ftp,ftp-site pushed_at:2025-09 star:0.0k fork:0.0k FTP site of USTC Linux User Group
 - [ustclug/lugwiki](https://github.com/ustclug/lugwiki) topic: pushed_at:2023-10 star:0.0k fork:0.0k wiki site of USTC Linux User Group
-- [ustclug/mirrorimage](https://github.com/ustclug/mirrorimage) topic: pushed_at:2026-01 star:0.0k fork:0.0k Docker Distribution Images replaced with USTC Mirrors (Last run: 2026-03-29)
+- [ustclug/mirrorimage](https://github.com/ustclug/mirrorimage) topic: pushed_at:2026-01 star:0.0k fork:0.0k Docker Distribution Images replaced with USTC Mirrors (Last run: 2026-04-12)
 - [ustclug/neatdns](https://github.com/ustclug/neatdns) topic: pushed_at:2023-11 star:0.3k fork:0.0k anti-pollution DNS server
 - [ustclug/pypi-mirror](https://github.com/ustclug/pypi-mirror) topic: pushed_at:2017-02 star:0.0k fork:0.0k 💀 pypi mirror tool (deprecated)
 - [ustclug/rb-backup](https://github.com/ustclug/rb-backup) topic: pushed_at:2018-03 star:0.0k fork:0.0k 基于 rsync 和 ssh 的远程备份脚本，利用 btrfs snapshot 实现增量备份……

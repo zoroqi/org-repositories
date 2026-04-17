@@ -29,7 +29,7 @@
 ## Others
 
 - [eclipse/.github](https://github.com/eclipse/.github) topic: pushed_at:2026-03 star:0.0k fork:0.0k Community Health files
-- [eclipse/eclipse-projects](https://github.com/eclipse/eclipse-projects) topic:eclipse pushed_at:2026-03 star:0.0k fork:0.0k A collection of all Eclipse projects hosted on GitHub
+- [eclipse/eclipse-projects](https://github.com/eclipse/eclipse-projects) topic:eclipse pushed_at:2026-04 star:0.0k fork:0.0k A collection of all Eclipse projects hosted on GitHub
 - [eclipse/test-stars](https://github.com/eclipse/test-stars) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 
 
