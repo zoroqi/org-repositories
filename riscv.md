@@ -38,7 +38,7 @@
 
 ## JavaScript
 
-- [riscv/adm-riscv-sde](https://github.com/riscv/adm-riscv-sde) topic: pushed_at:2026-04 star:0.0k fork:0.0k RISC-V Specification Development Explorer
+- [riscv/adm-riscv-sde](https://github.com/riscv/adm-riscv-sde) topic: pushed_at:2026-05 star:0.0k fork:0.0k RISC-V Specification Development Explorer
 - [riscv/adm-tc-dashboard](https://github.com/riscv/adm-tc-dashboard) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V Technical Committee Dashboard
 
 ## Makefile
@@ -78,7 +78,7 @@
 - [riscv/.github](https://github.com/riscv/.github) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
 - [riscv/friendly-terminology](https://github.com/riscv/friendly-terminology) topic: pushed_at:2026-03 star:0.0k fork:0.0k This repository implements the Friendly Terminology for use with the in-solidarity-bot plugin.
 - [riscv/guides](https://github.com/riscv/guides) topic: pushed_at:2024-11 star:0.0k fork:0.0k RISC-V International Guides
-- [riscv/learn](https://github.com/riscv/learn) topic: pushed_at:2026-04 star:1.5k fork:0.1k Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. 
+- [riscv/learn](https://github.com/riscv/learn) topic: pushed_at:2026-04 star:1.6k fork:0.1k Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. 
 - [riscv/riscv-docs-base-container-image](https://github.com/riscv/riscv-docs-base-container-image) topic: pushed_at:2026-04 star:0.0k fork:0.0k A base container image populated with the dependencies to build the RISC-V Documentation.
 - [riscv/riscv-library](https://github.com/riscv/riscv-library) topic: pushed_at:2025-07 star:0.0k fork:0.0k This repository holds the front matter pages for the RISC-V Library
 - [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) topic: pushed_at:2026-04 star:0.2k fork:0.0k PLIC Specification
@@ -88,11 +88,11 @@
 
 - [riscv/docs-resources](https://github.com/riscv/docs-resources) topic: pushed_at:2026-04 star:0.0k fork:0.0k 
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) topic: pushed_at:2026-04 star:0.5k fork:0.1k Working Draft of the RISC-V Debug Specification Standard
-- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) topic: pushed_at:2026-03 star:0.9k fork:0.4k RISC-V Opcodes
+- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) topic: pushed_at:2026-04 star:0.9k fork:0.4k RISC-V Opcodes
 
 ## Ruby
 
-- [riscv/riscv-unified-db](https://github.com/riscv/riscv-unified-db) topic:risc-v,riscv pushed_at:2026-04 star:0.2k fork:0.1k Monorepo containing a machine-readable database of the RISC-V specification and artifact generation tools
+- [riscv/riscv-unified-db](https://github.com/riscv/riscv-unified-db) topic:risc-v,riscv pushed_at:2026-05 star:0.2k fork:0.1k Monorepo containing a machine-readable database of the RISC-V specification and artifact generation tools
 
 ## Sail
 
@@ -103,11 +103,11 @@
 - [riscv/docs-dev-guide](https://github.com/riscv/docs-dev-guide) topic: pushed_at:2026-04 star:0.1k fork:0.0k Documentation developer guide
 - [riscv/ft-trigger-delegation](https://github.com/riscv/ft-trigger-delegation) topic: pushed_at:2026-03 star:0.0k fork:0.0k Trigger Delegation Fast-Track Specification
 - [riscv/integer-vector-absolute-difference](https://github.com/riscv/integer-vector-absolute-difference) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V Integer Vector Absolute Difference
-- [riscv/integrated-matrix-extension](https://github.com/riscv/integrated-matrix-extension) topic: pushed_at:2026-04 star:0.0k fork:0.0k RISC-V Integrated Matrix Development Repository
+- [riscv/integrated-matrix-extension](https://github.com/riscv/integrated-matrix-extension) topic: pushed_at:2026-05 star:0.0k fork:0.0k RISC-V Integrated Matrix Development Repository
 - [riscv/riscv-cheri](https://github.com/riscv/riscv-cheri) topic:capabilities,compartmentalization,memory-safety pushed_at:2026-04 star:0.1k fork:0.0k This repository contains the CHERI extension specification, adding hardware capabilities to RISC-V ISA to enable fine-grained memory protection and scalable compartmentalization.
 - [riscv/riscv-high-assurance-cryptography](https://github.com/riscv/riscv-high-assurance-cryptography) topic: pushed_at:2026-04 star:0.0k fork:0.0k  High Assurance Cryptography
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) topic: pushed_at:2026-04 star:4.6k fork:0.8k RISC-V Instruction Set Manual
-- [riscv/riscv-isa-manual-dmitry](https://github.com/riscv/riscv-isa-manual-dmitry) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V Instruction Set Manual for Dmitry
+- [riscv/riscv-isa-manual-dmitry](https://github.com/riscv/riscv-isa-manual-dmitry) topic: pushed_at:2026-04 star:0.0k fork:0.0k RISC-V Instruction Set Manual for Dmitry
 - [riscv/riscv-memory-protection-hypervisor](https://github.com/riscv/riscv-memory-protection-hypervisor) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V Memory Protection for Hypervisor
 - [riscv/riscv-smbios](https://github.com/riscv/riscv-smbios) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V SMBIOS Type 44 Spec
 - [riscv/riscv-spmp](https://github.com/riscv/riscv-spmp) topic: pushed_at:2026-03 star:0.0k fork:0.0k The repo contains the SPMP architectural specification, which includes capabilities like access control of read/write/execute requests by an hart, address matching, encoding of permissions, exceptions for access violation, and support for virtualization.

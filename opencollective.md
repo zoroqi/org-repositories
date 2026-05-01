@@ -310,7 +310,7 @@
 - [opencollective/git-point](https://github.com/opencollective/git-point) topic: pushed_at:2017-10 star:0.0k fork:0.0k GitHub in your pocket :iphone:
 - [opencollective/gitter-services](https://github.com/opencollective/gitter-services) topic: pushed_at:2016-03 star:0.0k fork:0.0k Gitter integrations
 - [opencollective/grapher](https://github.com/opencollective/grapher) topic: pushed_at:2017-11 star:0.0k fork:0.0k Grapher: Meteor Collection Joins + Reactive GraphQL like queries
-- [opencollective/graphql-docs-v2](https://github.com/opencollective/graphql-docs-v2) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
+- [opencollective/graphql-docs-v2](https://github.com/opencollective/graphql-docs-v2) topic: pushed_at:2026-04 star:0.0k fork:0.0k 
 - [opencollective/Grow-IoT](https://github.com/opencollective/Grow-IoT) topic: pushed_at:2017-08 star:0.0k fork:0.0k Open source software for growing things.
 - [opencollective/handsfree.js](https://github.com/opencollective/handsfree.js) topic: pushed_at:2019-01 star:0.0k fork:0.0k A drop-in library for creating webcam driven handsfree tools, games, and experiences just...like...✨...that!
 - [opencollective/hedron](https://github.com/opencollective/hedron) topic: pushed_at:2017-06 star:0.0k fork:0.0k A no-frills flexbox grid system for React, powered by styled-components.
@@ -366,7 +366,7 @@
 - [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) topic: pushed_at:2023-03 star:0.1k fork:0.0k Prompt your users to donate to your collective after `npm install`
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) topic: pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
 - [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) topic: pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
-- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2026-03 star:0.0k fork:0.0k 
+- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2026-04 star:0.0k fork:0.0k 
 - [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) topic: pushed_at:2025-10 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
 - [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) topic:opencollective,reactjs pushed_at:2018-07 star:0.1k fork:0.0k OpenCollective frontend
 - [opencollective/opencollective-zapier](https://github.com/opencollective/opencollective-zapier) topic:opencollective,zapier pushed_at:2021-02 star:0.0k fork:0.0k ⚠️ DEPRECATED ⚠️ Open Collective legacy Zapier integration
@@ -585,7 +585,7 @@
 - [opencollective/django-extensions](https://github.com/opencollective/django-extensions) topic: pushed_at:2020-08 star:0.0k fork:0.0k This is a repository for collecting global custom management extensions for the Django Framework. 
 - [opencollective/docker-slim](https://github.com/opencollective/docker-slim) topic: pushed_at:2020-01 star:0.0k fork:0.0k DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [opencollective/docs](https://github.com/opencollective/docs) topic: pushed_at:2019-03 star:0.0k fork:0.0k Onboarding Resources for contributors, members and chapter organizers of Open source community Africa (O.S.C.A)
-- [opencollective/documentation](https://github.com/opencollective/documentation) topic: pushed_at:2026-03 star:0.0k fork:0.0k Open Collective documentation
+- [opencollective/documentation](https://github.com/opencollective/documentation) topic: pushed_at:2026-04 star:0.0k fork:0.0k Open Collective documentation
 - [opencollective/documentation-old](https://github.com/opencollective/documentation-old) topic:documentation,open-collective pushed_at:2025-07 star:0.1k fork:0.1k All documentation for Open Collective
 - [opencollective/dotenv-linter](https://github.com/opencollective/dotenv-linter) topic: pushed_at:2020-08 star:0.0k fork:0.0k ✌️Linter for .env files. Written in Rust 🦀
 - [opencollective/dowww](https://github.com/opencollective/dowww) topic: pushed_at:2019-01 star:0.0k fork:0.0k 💡 Dev on Windows with WSL | 在 Windows 上用 WSL 优雅开发
@@ -1057,11 +1057,11 @@
 - [opencollective/OMSCentral](https://github.com/opencollective/OMSCentral) topic: pushed_at:2018-05 star:0.0k fork:0.0k Code for OMSCentral.com
 - [opencollective/oni](https://github.com/opencollective/oni) topic: pushed_at:2019-06 star:0.0k fork:0.0k Oni: An IDE powered by Neovim
 - [opencollective/openbunker](https://github.com/opencollective/openbunker) topic: pushed_at:2026-01 star:0.0k fork:0.0k Bunker to onboard members of your community to Nostr
-- [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) topic:graphql,hacktoberfest,nodejs,opencollective,postgres pushed_at:2026-04 star:0.5k fork:0.3k Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
+- [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) topic:graphql,nodejs,opencollective,postgres pushed_at:2026-04 star:0.5k fork:0.3k Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
 - [opencollective/opencollective-aws-functions](https://github.com/opencollective/opencollective-aws-functions) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [opencollective/opencollective-bot](https://github.com/opencollective/opencollective-bot) topic:bot,opencollective,probot pushed_at:2021-08 star:0.1k fork:0.0k 🤖 A perfect companion for your Open Collective
 - [opencollective/opencollective-coda](https://github.com/opencollective/opencollective-coda) topic: pushed_at:2023-11 star:0.0k fork:0.0k A pack to access the Open Collective API through Coda.io
-- [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) topic:hacktoberfest,nextjs,opencollective,react,webpack pushed_at:2026-04 star:0.9k fork:0.4k Open Collective's Frontend. A React app powered by Next.js.
+- [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) topic:graphql,nextjs,opencollective,react,webpack pushed_at:2026-04 star:0.9k fork:0.4k Open Collective's Frontend. A React app powered by Next.js.
 - [opencollective/opencollective-frontend-template](https://github.com/opencollective/opencollective-frontend-template) topic: pushed_at:2025-10 star:0.0k fork:0.0k Kickstart a new frontend project at Open Collective.
 - [opencollective/opencollective-github-helpers](https://github.com/opencollective/opencollective-github-helpers) topic: pushed_at:2023-01 star:0.0k fork:0.0k An app to help with the maintainance and development tasks of Open Collective internal repositories
 - [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) topic:graphql,graphql-js,invoices-pdf,nodejs,opencollective,pdf,pdf-generation pushed_at:2026-04 star:0.1k fork:0.0k Open Collective's PDF Server
@@ -1080,7 +1080,7 @@
 - [opencollective/tabler-angular](https://github.com/opencollective/tabler-angular) topic: pushed_at:2019-05 star:0.0k fork:0.0k Maintained by @arunabhdas Tabler for Angular - Components, demos and documentation
 - [opencollective/tandem](https://github.com/opencollective/tandem) topic: pushed_at:2019-02 star:0.0k fork:0.0k Tandem is a visual editor for web applications
 - [opencollective/terminus](https://github.com/opencollective/terminus) topic: pushed_at:2019-07 star:0.0k fork:0.0k A terminal for a more modern age
-- [opencollective/token-bot](https://github.com/opencollective/token-bot) topic: pushed_at:2026-03 star:0.0k fork:0.0k Discord Bot
+- [opencollective/token-bot](https://github.com/opencollective/token-bot) topic: pushed_at:2026-04 star:0.0k fork:0.0k Discord Bot
 - [opencollective/token-factory](https://github.com/opencollective/token-factory) topic: pushed_at:2026-01 star:0.0k fork:0.0k Deploy and manage tokens for your community
 - [opencollective/txinfo](https://github.com/opencollective/txinfo) topic: pushed_at:2026-02 star:0.0k fork:0.0k A simple service to add or get more information about a given transaction
 - [opencollective/typeorm](https://github.com/opencollective/typeorm) topic: pushed_at:2017-09 star:0.0k fork:0.0k Amazing ORM for TypeScript and JavaScript (ES7, ES6, ES5). Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, WebSQL databases. Works in NodeJS, Browser, Ionic, Cordova and Electron platforms.

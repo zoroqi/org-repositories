@@ -45,7 +45,7 @@
 
 ## CMake
 
-- [pingcap/kvproto](https://github.com/pingcap/kvproto) topic: pushed_at:2026-04 star:0.2k fork:0.2k Protocol buffer files for TiKV
+- [pingcap/kvproto](https://github.com/pingcap/kvproto) topic: pushed_at:2026-05 star:0.2k fork:0.2k Protocol buffer files for TiKV
 
 ## Clojure
 
@@ -89,9 +89,9 @@
 - [pingcap/parser](https://github.com/pingcap/parser) topic: pushed_at:2023-12 star:1.4k fork:0.5k A MySQL Compatible SQL Parser
 - [pingcap/public_bi_benchmark](https://github.com/pingcap/public_bi_benchmark) topic: pushed_at:2022-04 star:0.0k fork:0.0k BI benchmark with user generated data and queries
 - [pingcap/sysutil](https://github.com/pingcap/sysutil) topic: pushed_at:2026-03 star:0.0k fork:0.0k sysutil is a library which implementats the gRPC service Diagnostics and shares the diagnostics functions between TiDB and PD.
-- [pingcap/ticdc](https://github.com/pingcap/ticdc) topic: pushed_at:2026-04 star:0.0k fork:0.0k TiCDC pulls change logs out of TiDB and pushes to kinds of systems.
-- [pingcap/tidb](https://github.com/pingcap/tidb) topic:cloud-native,database,distributed-database,distributed-transactions,go,hacktoberfest,htap,mysql,mysql-compatibility,scale,serverless,sql,tidb pushed_at:2026-04 star:40.0k fork:6.2k TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.
-- [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) topic: pushed_at:2026-01 star:0.3k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
+- [pingcap/ticdc](https://github.com/pingcap/ticdc) topic: pushed_at:2026-04 star:0.0k fork:0.1k TiCDC pulls change logs out of TiDB and pushes to kinds of systems.
+- [pingcap/tidb](https://github.com/pingcap/tidb) topic:agent,agent-context,agent-memory,agentic,ai,cloud-native,database,distributed-database,distributed-transactions,go,hacktoberfest,htap,memory,mysql,mysql-compatibility,scale,serverless,sql,tidb pushed_at:2026-05 star:40.0k fork:6.2k TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.
+- [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) topic: pushed_at:2026-04 star:0.3k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
 - [pingcap/tidb-cloud-backup](https://github.com/pingcap/tidb-cloud-backup) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
 - [pingcap/tidb-ctl](https://github.com/pingcap/tidb-ctl) topic: pushed_at:2025-04 star:0.0k fork:0.0k TiDB Controller
 - [pingcap/tidb-lightning](https://github.com/pingcap/tidb-lightning) topic:import-and-export,tidb pushed_at:2021-04 star:0.1k fork:0.1k This repository has been moved to https://github.com/pingcap/br
@@ -104,7 +104,7 @@
 - [pingcap/tiflow-operator](https://github.com/pingcap/tiflow-operator) topic: pushed_at:2025-03 star:0.0k fork:0.0k TiFlow-Operator creates and manages TiFlow clusters running in Kubernetes.
 - [pingcap/tipocket](https://github.com/pingcap/tipocket) topic:chaos,chaos-mesh,consistency,elle,golang,isolation,sqlsmith pushed_at:2023-02 star:0.1k fork:0.1k A toolkit for testing TiDB
 - [pingcap/tiproxy](https://github.com/pingcap/tiproxy) topic: pushed_at:2026-04 star:0.1k fork:0.0k 
-- [pingcap/tiunimanager](https://github.com/pingcap/tiunimanager) topic: pushed_at:2026-01 star:0.0k fork:0.0k TiUniManager
+- [pingcap/tiunimanager](https://github.com/pingcap/tiunimanager) topic: pushed_at:2026-04 star:0.0k fork:0.0k TiUniManager
 - [pingcap/tiup](https://github.com/pingcap/tiup) topic:cluster,playground,tidb,tidb-components,tiup pushed_at:2026-04 star:0.5k fork:0.3k A component manager for TiDB
 - [pingcap/tso](https://github.com/pingcap/tso) topic: pushed_at:2016-02 star:0.0k fork:0.0k Timestamp Oracle
 - [pingcap/work-reporter](https://github.com/pingcap/work-reporter) topic: pushed_at:2019-08 star:0.0k fork:0.0k A simple tool to generate report from Jira/Github for our TiDB team
@@ -207,7 +207,7 @@
 - [pingcap/rust-protobuf](https://github.com/pingcap/rust-protobuf) topic: pushed_at:2025-10 star:0.0k fork:0.0k Rust implementation of Google protocol buffers
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) topic:distributed-database,distributed-systems,golang,open-source,pingcap,rust,talent-plan pushed_at:2023-09 star:10.9k fork:1.4k open source training courses about distributed database and distributed systems
 - [pingcap/tantivy](https://github.com/pingcap/tantivy) topic: pushed_at:2026-03 star:0.0k fork:0.0k Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [pingcap/tidb-engine-ext](https://github.com/pingcap/tidb-engine-ext) topic: pushed_at:2026-03 star:0.0k fork:0.0k A TiKV based `c dynamic library` for extending storage system in TiDB cluster
+- [pingcap/tidb-engine-ext](https://github.com/pingcap/tidb-engine-ext) topic: pushed_at:2026-04 star:0.0k fork:0.0k A TiKV based `c dynamic library` for extending storage system in TiDB cluster
 
 ## Scala
 

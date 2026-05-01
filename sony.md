@@ -103,7 +103,7 @@
 - [sony/multi-plane-segmentation-gpu](https://github.com/sony/multi-plane-segmentation-gpu) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [sony/nmos-js](https://github.com/sony/nmos-js) topic:javascript,nmos,react pushed_at:2026-04 star:0.0k fork:0.0k An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
 - [sony/QuietWalk](https://github.com/sony/QuietWalk) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
-- [sony/studies-for](https://github.com/sony/studies-for) topic: pushed_at:2025-11 star:0.0k fork:0.0k 
+- [sony/studies-for](https://github.com/sony/studies-for) topic: pushed_at:2026-04 star:0.0k fork:0.0k 
 
 ## Jupyter Notebook
 
@@ -167,7 +167,7 @@
 - [sony/MambaPEFT](https://github.com/sony/MambaPEFT) topic: pushed_at:2025-03 star:0.0k fork:0.0k 
 - [sony/mf-rae](https://github.com/sony/mf-rae) topic: pushed_at:2025-11 star:0.0k fork:0.0k 
 - [sony/mimo](https://github.com/sony/mimo) topic: pushed_at:2025-09 star:0.0k fork:0.0k Official Repo for The Paper "Mirror in the Model: Ad Banner Image Generation via Reflective Multi-LLM and Multi-modal Agents” (EMNLP’25-Industry)
-- [sony/mmaudiosep](https://github.com/sony/mmaudiosep) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
+- [sony/mmaudiosep](https://github.com/sony/mmaudiosep) topic: pushed_at:2026-04 star:0.0k fork:0.0k 
 - [sony/mocopi-receiver-plugin-blender](https://github.com/sony/mocopi-receiver-plugin-blender) topic: pushed_at:2026-01 star:0.0k fork:0.0k 
 - [sony/MoLA](https://github.com/sony/MoLA) topic:motion-generation,pytorch,text-to-motion,text-to-motion-localization pushed_at:2025-06 star:0.0k fork:0.0k Pytorch implementation of MoLA
 - [sony/MSA-bench](https://github.com/sony/MSA-bench) topic: pushed_at:2026-04 star:0.0k fork:0.0k Pytorch implementation of "Do Foundational Audio Encoders Understand Music Structure?" presented in ICASSP 2026.
