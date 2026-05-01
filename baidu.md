@@ -46,7 +46,7 @@
 - [baidu/AnyQ](https://github.com/baidu/AnyQ) topic:dialogue,dialogue-systems,faq,faq-question-answering-system,faq-system,faqbot,qa-system,question-answering,semantic-matching pushed_at:2020-11 star:2.6k fork:0.7k FAQ-based Question Answering System
 - [baidu/babylon](https://github.com/baidu/babylon) topic: pushed_at:2026-03 star:0.6k fork:0.1k High-Performance C++ Fundamental Library
 - [baidu/BaikalDB](https://github.com/baidu/BaikalDB) topic:baikaldb,database,htap,mysql,raft,sql pushed_at:2026-02 star:1.2k fork:0.2k BaikalDB, A Distributed HTAP Database.
-- [baidu/bfs](https://github.com/baidu/bfs) topic: pushed_at:2018-12 star:2.9k fork:0.6k The Baidu File System.
+- [baidu/bfs](https://github.com/baidu/bfs) topic: pushed_at:2018-12 star:2.8k fork:0.6k The Baidu File System.
 - [baidu/bigflow](https://github.com/baidu/bigflow) topic: pushed_at:2025-12 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
 - [baidu/boteye](https://github.com/baidu/boteye) topic: pushed_at:2019-04 star:0.2k fork:0.1k 
 - [baidu/boteye_driver](https://github.com/baidu/boteye_driver) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
@@ -60,7 +60,7 @@
 - [baidu/lac](https://github.com/baidu/lac) topic:chinese-nlp,chinese-word-segmentation,java,lexical-analysis,named-entity-recognition,part-of-speech-tagger,python,word-segmentation pushed_at:2021-05 star:4.0k fork:0.6k 百度NLP：分词，词性标注，命名实体识别，词重要性
 - [baidu/openrasp](https://github.com/baidu/openrasp) topic:devsecops,iast,rasp,security,waf pushed_at:2025-10 star:3.0k fork:0.6k 🔥Open source RASP solution
 - [baidu/shuttle](https://github.com/baidu/shuttle) topic: pushed_at:2018-07 star:0.1k fork:0.0k A fast computing framework based on Galaxy
-- [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) topic: pushed_at:2023-08 star:2.1k fork:0.7k A light-weight RPC implement of google protobuf RPC framework.
+- [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) topic: pushed_at:2023-08 star:2.1k fork:0.6k A light-weight RPC implement of google protobuf RPC framework.
 - [baidu/tera](https://github.com/baidu/tera) topic:baidu,bigtable,c-plus-plus,data,database,hbase,nosql,storage pushed_at:2024-06 star:1.9k fork:0.4k An Internet-Scale Database.
 - [baidu/unit-dmkit](https://github.com/baidu/unit-dmkit) topic:bot,dialogue,dialogue-manager,dialogue-systems pushed_at:2019-08 star:0.3k fork:0.1k 
 - [baidu/unit-uskit](https://github.com/baidu/unit-uskit) topic:bot,dialog,dialogflow,dialogue-systems pushed_at:2021-06 star:0.3k fork:0.1k unit-uskit
@@ -162,7 +162,7 @@
 - [baidu/dify-baidu-ai-guard](https://github.com/baidu/dify-baidu-ai-guard) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
 - [baidu/duedge-cli](https://github.com/baidu/duedge-cli) topic: pushed_at:2020-03 star:0.0k fork:0.0k DuEdge Command Line
 - [baidu/DuReader](https://github.com/baidu/DuReader) topic: pushed_at:2022-05 star:1.2k fork:0.3k Baseline Systems of DuReader Dataset
-- [baidu/ERNIE-Image](https://github.com/baidu/ERNIE-Image) topic: pushed_at:2026-04 star:0.2k fork:0.0k ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches state-of-the-art performance among open-weight text-to-image models.
+- [baidu/ERNIE-Image](https://github.com/baidu/ERNIE-Image) topic: pushed_at:2026-04 star:0.4k fork:0.0k ERNIE-Image is an open text-to-image generation model developed by the ERNIE-Image team at Baidu. It is built on a single-stream Diffusion Transformer (DiT), with only 8B DiT parameters, it reaches state-of-the-art performance among open-weight text-to-image models.
 - [baidu/information-extraction](https://github.com/baidu/information-extraction) topic: pushed_at:2019-05 star:0.3k fork:0.1k 
 - [baidu/knowledge-driven-dialogue](https://github.com/baidu/knowledge-driven-dialogue) topic: pushed_at:2019-06 star:0.3k fork:0.1k baseline system of knowledge driven dialogue competition
 - [baidu/logcover](https://github.com/baidu/logcover) topic: pushed_at:2017-02 star:0.1k fork:0.0k 轻量级异常日志测试覆盖率度量工具

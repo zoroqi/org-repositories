@@ -21,22 +21,22 @@
 - [golang/build](https://github.com/golang/build) topic: pushed_at:2026-04 star:0.7k fork:0.2k [mirror] Go's continuous build and release infrastructure (no stability promises)
 - [golang/crypto](https://github.com/golang/crypto) topic: pushed_at:2026-04 star:3.3k fork:2.2k [mirror] Go supplementary cryptography libraries
 - [golang/debug](https://github.com/golang/debug) topic: pushed_at:2026-04 star:0.2k fork:0.1k [mirror] debugging tools
-- [golang/dep](https://github.com/golang/dep) topic:dependency-manager,golang,package-manager,toolchain pushed_at:2020-09 star:12.8k fork:1.0k Go dependency management tool experiment (deprecated)
+- [golang/dep](https://github.com/golang/dep) topic:dependency-manager,golang,package-manager,toolchain pushed_at:2020-09 star:12.7k fork:1.0k Go dependency management tool experiment (deprecated)
 - [golang/dl](https://github.com/golang/dl) topic: pushed_at:2026-04 star:0.2k fork:0.0k [mirror] go install golang.org/dl/go1.N@latest
-- [golang/example](https://github.com/golang/example) topic: pushed_at:2026-04 star:2.9k fork:1.0k Go example projects
+- [golang/example](https://github.com/golang/example) topic: pushed_at:2026-04 star:3.0k fork:1.0k Go example projects
 - [golang/exp](https://github.com/golang/exp) topic: pushed_at:2026-04 star:0.9k fork:0.2k [mirror] Experimental and deprecated packages
 - [golang/freetype](https://github.com/golang/freetype) topic: pushed_at:2024-04 star:0.8k fork:0.2k The Freetype font rasterizer in the Go programming language.
 - [golang/gddo](https://github.com/golang/gddo) topic: pushed_at:2021-01 star:1.1k fork:0.3k Go Doc Dot Org
 - [golang/geo](https://github.com/golang/geo) topic:geometry,geometry-library,go,sphere pushed_at:2026-04 star:1.8k fork:0.2k S2 geometry library in Go
 - [golang/glog](https://github.com/golang/glog) topic: pushed_at:2025-04 star:3.6k fork:0.9k Leveled execution logs for Go
-- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2026-04 star:133.5k fork:18.9k The Go programming language
+- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2026-05 star:133.7k fork:19.0k The Go programming language
 - [golang/go-get-issue-15410](https://github.com/golang/go-get-issue-15410) topic: pushed_at:2020-08 star:0.0k fork:0.0k go-get-issue-15410
 - [golang/gofrontend](https://github.com/golang/gofrontend) topic: pushed_at:2026-02 star:0.9k fork:0.1k Go compiler frontend (gccgo)
 - [golang/groupcache](https://github.com/golang/groupcache) topic: pushed_at:2024-11 star:13.3k fork:1.4k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 - [golang/image](https://github.com/golang/image) topic: pushed_at:2026-04 star:0.5k fork:0.2k [mirror] Go supplementary image libraries
 - [golang/leveldb](https://github.com/golang/leveldb) topic: pushed_at:2017-01 star:1.2k fork:0.1k The LevelDB key-value database in the Go programming language.
 - [golang/lint](https://github.com/golang/lint) topic: pushed_at:2021-05 star:4.0k fork:0.5k [mirror] This is a linter for Go source code. (deprecated)
-- [golang/mobile](https://github.com/golang/mobile) topic: pushed_at:2026-04 star:6.1k fork:0.8k [mirror] Go on Mobile
+- [golang/mobile](https://github.com/golang/mobile) topic: pushed_at:2026-04 star:6.2k fork:0.8k [mirror] Go on Mobile
 - [golang/mock](https://github.com/golang/mock) topic: pushed_at:2024-01 star:9.4k fork:0.6k GoMock is a mocking framework for the Go programming language.
 - [golang/mod](https://github.com/golang/mod) topic: pushed_at:2026-04 star:0.2k fork:0.1k [mirror] Go module mechanics libraries
 - [golang/net](https://github.com/golang/net) topic: pushed_at:2026-04 star:3.0k fork:1.2k [mirror] Go supplementary network libraries
@@ -67,11 +67,11 @@
 
 ## Go Template
 
-- [golang/wiki](https://github.com/golang/wiki) topic: pushed_at:2026-03 star:0.1k fork:0.1k [mirror] Go Wiki
+- [golang/wiki](https://github.com/golang/wiki) topic: pushed_at:2026-04 star:0.1k fork:0.1k [mirror] Go Wiki
 
 ## HTML
 
-- [golang/proposal](https://github.com/golang/proposal) topic: pushed_at:2026-03 star:3.4k fork:0.4k Go Project Design Documents
+- [golang/proposal](https://github.com/golang/proposal) topic: pushed_at:2026-04 star:3.4k fork:0.4k Go Project Design Documents
 - [golang/website](https://github.com/golang/website) topic: pushed_at:2026-04 star:0.4k fork:0.4k [mirror] Home of the go.dev and golang.org websites
 
 ## Others

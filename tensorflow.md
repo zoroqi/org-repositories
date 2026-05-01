@@ -36,7 +36,7 @@
 - [tensorflow/ngraph-bridge](https://github.com/tensorflow/ngraph-bridge) topic: pushed_at:2021-02 star:0.1k fork:0.1k TensorFlow-nGraph bridge
 - [tensorflow/runtime](https://github.com/tensorflow/runtime) topic: pushed_at:2025-09 star:0.8k fork:0.1k A performant and modular runtime for TensorFlow
 - [tensorflow/serving](https://github.com/tensorflow/serving) topic:cpp,deep-learning,deep-neural-networks,machine-learning,ml,neural-network,python,serving,tensorflow pushed_at:2026-04 star:6.3k fork:2.2k A flexible, high-performance serving system for machine learning models
-- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) topic:deep-learning,deep-neural-networks,distributed,machine-learning,ml,neural-network,python,tensorflow pushed_at:2026-04 star:194.8k fork:75.3k An Open Source Machine Learning Framework for Everyone
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) topic:deep-learning,deep-neural-networks,distributed,machine-learning,ml,neural-network,python,tensorflow pushed_at:2026-05 star:194.9k fork:75.3k An Open Source Machine Learning Framework for Everyone
 - [tensorflow/tensorstore](https://github.com/tensorflow/tensorstore) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [tensorflow/text](https://github.com/tensorflow/text) topic: pushed_at:2026-04 star:1.3k fork:0.4k Making text a first-class citizen in TensorFlow.
 - [tensorflow/tf-build-actions](https://github.com/tensorflow/tf-build-actions) topic: pushed_at:2023-02 star:0.0k fork:0.0k An Open Source Machine Learning Framework for Everyone
@@ -67,13 +67,13 @@
 
 ## Java
 
-- [tensorflow/java](https://github.com/tensorflow/java) topic: pushed_at:2026-03 star:0.9k fork:0.2k Java bindings for TensorFlow
+- [tensorflow/java](https://github.com/tensorflow/java) topic: pushed_at:2026-04 star:0.9k fork:0.2k Java bindings for TensorFlow
 - [tensorflow/java-models](https://github.com/tensorflow/java-models) topic: pushed_at:2025-02 star:0.1k fork:0.0k Models in Java
 - [tensorflow/java-ndarray](https://github.com/tensorflow/java-ndarray) topic: pushed_at:2024-05 star:0.1k fork:0.0k 
 
 ## JavaScript
 
-- [tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples) topic: pushed_at:2026-04 star:6.8k fork:2.4k Examples built with TensorFlow.js
+- [tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples) topic: pushed_at:2026-04 star:6.8k fork:2.3k Examples built with TensorFlow.js
 
 ## Jupyter Notebook
 
@@ -90,7 +90,7 @@
 - [tensorflow/tcav](https://github.com/tensorflow/tcav) topic:interpretability,machine-learning,tcav pushed_at:2026-02 star:0.7k fork:0.1k Code for the TCAV ML interpretability project
 - [tensorflow/tensorrt](https://github.com/tensorflow/tensorrt) topic: pushed_at:2023-11 star:0.7k fork:0.2k TensorFlow/TensorRT integration
 - [tensorflow/tfx-addons](https://github.com/tensorflow/tfx-addons) topic:machine-learning,mlops,neural-network,python,special-interest-group,tensorflow,tfx pushed_at:2024-06 star:0.1k fork:0.1k Developers helping developers.  TFX-Addons is a collection of community projects to build new components, examples, libraries, and tools for TFX.  The projects are organized under the auspices of the special interest group, SIG TFX-Addons.  Join  the group at http://goo.gle/tfx-addons-group
-- [tensorflow/tpu](https://github.com/tensorflow/tpu) topic: pushed_at:2026-03 star:5.3k fork:1.8k Reference models and tools for Cloud TPUs.
+- [tensorflow/tpu](https://github.com/tensorflow/tpu) topic: pushed_at:2026-04 star:5.3k fork:1.8k Reference models and tools for Cloud TPUs.
 - [tensorflow/workshops](https://github.com/tensorflow/workshops) topic: pushed_at:2021-04 star:1.4k fork:0.7k A few exercises for use at events.
 
 ## MLIR
@@ -112,9 +112,9 @@
 - [tensorflow/autograph](https://github.com/tensorflow/autograph) topic: pushed_at:2020-05 star:0.1k fork:0.0k 
 - [tensorflow/benchmarks](https://github.com/tensorflow/benchmarks) topic: pushed_at:2023-10 star:1.1k fork:0.6k  A benchmark framework for Tensorflow
 - [tensorflow/cloud](https://github.com/tensorflow/cloud) topic:cloud,gcp,keras,tensorflow pushed_at:2026-04 star:0.4k fork:0.1k ⛔️ DEPRECATED - The TensorFlow Cloud repository provides APIs that will allow to easily go from debugging and training your Keras and TensorFlow code in a local environment to distributed training in the cloud.
-- [tensorflow/compression](https://github.com/tensorflow/compression) topic:compression,data-compression,deep-learning,deep-neural-networks,machine-learning,ml,neural-network,python,tensorflow pushed_at:2026-03 star:0.9k fork:0.3k Data compression in TensorFlow
+- [tensorflow/compression](https://github.com/tensorflow/compression) topic:compression,data-compression,deep-learning,deep-neural-networks,machine-learning,ml,neural-network,python,tensorflow pushed_at:2026-04 star:0.9k fork:0.3k Data compression in TensorFlow
 - [tensorflow/data-validation](https://github.com/tensorflow/data-validation) topic: pushed_at:2026-03 star:0.8k fork:0.2k Library for exploring and validating machine learning data
-- [tensorflow/datasets](https://github.com/tensorflow/datasets) topic:data,dataset,datasets,jax,machine-learning,numpy,tensorflow pushed_at:2026-03 star:4.6k fork:1.6k TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
+- [tensorflow/datasets](https://github.com/tensorflow/datasets) topic:data,dataset,datasets,jax,machine-learning,numpy,tensorflow pushed_at:2026-04 star:4.6k fork:1.6k TFDS is a collection of datasets ready to use with TensorFlow, Jax, ...
 - [tensorflow/decision-forests](https://github.com/tensorflow/decision-forests) topic:decision-forest,decision-trees,gradient-boosting,interpretability,keras,machine-learning,ml,python,random-forest,tensorflow pushed_at:2026-03 star:0.7k fork:0.1k A collection of state-of-the-art algorithms for the training, serving and interpretation of Decision Forest models in Keras.
 - [tensorflow/dtensor-gcp-examples](https://github.com/tensorflow/dtensor-gcp-examples) topic: pushed_at:2022-09 star:0.0k fork:0.0k Using DTensor on Google Cloud
 - [tensorflow/estimator](https://github.com/tensorflow/estimator) topic: pushed_at:2024-01 star:0.3k fork:0.2k TensorFlow Estimator
@@ -178,10 +178,10 @@
 
 - [tensorflow/playground](https://github.com/tensorflow/playground) topic: pushed_at:2026-04 star:12.9k fork:2.7k Play with neural networks!
 - [tensorflow/sig-tfjs](https://github.com/tensorflow/sig-tfjs) topic: pushed_at:2026-04 star:0.0k fork:0.0k 
-- [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) topic: pushed_at:2026-04 star:7.1k fork:1.7k TensorFlow's Visualization Toolkit
+- [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard) topic: pushed_at:2026-04 star:7.2k fork:1.7k TensorFlow's Visualization Toolkit
 - [tensorflow/tfjs](https://github.com/tensorflow/tfjs) topic:deep-learning,deep-neural-network,gpu-acceleration,javascript,machine-learning,neural-network,typescript,wasm,web-assembly,webgl pushed_at:2026-04 star:19.1k fork:2.0k A WebGL accelerated JavaScript library for training and deploying ML models.
 - [tensorflow/tfjs-converter](https://github.com/tensorflow/tfjs-converter) topic: pushed_at:2019-08 star:0.7k fork:0.1k Convert TensorFlow SavedModel and Keras models to TensorFlow.js
-- [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) topic:deep-learning,deep-neural-networks,gpu-acceleration,javascript,machine-learning,neural-network,typescript,webgl pushed_at:2019-08 star:8.5k fork:0.9k WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
+- [tensorflow/tfjs-core](https://github.com/tensorflow/tfjs-core) topic:deep-learning,deep-neural-networks,gpu-acceleration,javascript,machine-learning,neural-network,typescript,webgl pushed_at:2019-08 star:8.4k fork:0.9k WebGL-accelerated ML // linear algebra // automatic differentiation for JavaScript.
 - [tensorflow/tfjs-data](https://github.com/tensorflow/tfjs-data) topic:data,deep-learning,javascript,machine-learning,neural-network,tensorflow,tfjs pushed_at:2019-08 star:0.1k fork:0.0k Simple APIs to load and prepare data for use in machine learning models
 - [tensorflow/tfjs-layers](https://github.com/tensorflow/tfjs-layers) topic: pushed_at:2019-08 star:0.3k fork:0.1k TensorFlow.js high-level layers API
 - [tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models) topic: pushed_at:2026-04 star:14.8k fork:4.4k Pretrained models for TensorFlow.js

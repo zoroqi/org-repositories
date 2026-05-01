@@ -47,18 +47,18 @@
 - [ARM-software/bbr-acs](https://github.com/ARM-software/bbr-acs) topic: pushed_at:2026-03 star:0.0k fork:0.0k Arm SystemReady : BBR Compliance Suite
 - [ARM-software/bento-linker](https://github.com/ARM-software/bento-linker) topic:experimental,microcontroller pushed_at:2021-01 star:0.0k fork:0.0k A light-weight alternative to processes for microcontrollers.
 - [ARM-software/bsa-acs](https://github.com/ARM-software/bsa-acs) topic: pushed_at:2025-08 star:0.0k fork:0.1k Arm SystemReady : BSA Architecture Compliance Suite
-- [ARM-software/cca-rmm-acs](https://github.com/ARM-software/cca-rmm-acs) topic: pushed_at:2026-03 star:0.0k fork:0.0k Tests for verifying compliance of RMM implementations
+- [ARM-software/cca-rmm-acs](https://github.com/ARM-software/cca-rmm-acs) topic: pushed_at:2026-04 star:0.0k fork:0.0k Tests for verifying compliance of RMM implementations
 - [ARM-software/CMSIS-Compiler](https://github.com/ARM-software/CMSIS-Compiler) topic: pushed_at:2026-04 star:0.0k fork:0.0k CMSIS Compiler support for Arm Compiler
 - [ARM-software/CMSIS-DAP](https://github.com/ARM-software/CMSIS-DAP) topic: pushed_at:2026-03 star:0.1k fork:0.0k CoreSight Debug Access Port (DAP) debug probe protocol reference implementation (spin-off from CMSIS_5)
-- [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) topic: pushed_at:2026-03 star:0.2k fork:0.1k Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
-- [ARM-software/CMSIS-Driver_Validation](https://github.com/ARM-software/CMSIS-Driver_Validation) topic: pushed_at:2026-03 star:0.0k fork:0.0k Test suite for verifying CMSIS-Driver implementations.
+- [ARM-software/CMSIS-Driver](https://github.com/ARM-software/CMSIS-Driver) topic: pushed_at:2026-04 star:0.2k fork:0.1k Repository of microcontroller peripheral driver implementing the CMSIS-Driver API specification
+- [ARM-software/CMSIS-Driver_Validation](https://github.com/ARM-software/CMSIS-Driver_Validation) topic: pushed_at:2026-04 star:0.0k fork:0.0k Test suite for verifying CMSIS-Driver implementations.
 - [ARM-software/CMSIS-DSP](https://github.com/ARM-software/CMSIS-DSP) topic:cortex-a,cortex-m,dsp,embedded,fft,filter,fixed-point-arithmetic,matrix,ml,numpy pushed_at:2026-04 star:1.0k fork:0.2k CMSIS-DSP embedded compute library for Cortex-M and Cortex-A
 - [ARM-software/CMSIS-FreeRTOS](https://github.com/ARM-software/CMSIS-FreeRTOS) topic: pushed_at:2026-04 star:0.6k fork:0.2k FreeRTOS adaptation for CMSIS-RTOS Version 2
 - [ARM-software/CMSIS-mbedTLS](https://github.com/ARM-software/CMSIS-mbedTLS) topic: pushed_at:2026-02 star:0.0k fork:0.0k CMSIS Pack for the mbedTLS software stack
 - [ARM-software/CMSIS-Musca-S1](https://github.com/ARM-software/CMSIS-Musca-S1) topic: pushed_at:2023-09 star:0.0k fork:0.0k Repository of CMSIS Software Pack for Musca-S1 test-chip and board.
 - [ARM-software/CMSIS-NN](https://github.com/ARM-software/CMSIS-NN) topic: pushed_at:2026-04 star:0.4k fork:0.1k CMSIS-NN Library
-- [ARM-software/CMSIS-RTOS2_Validation](https://github.com/ARM-software/CMSIS-RTOS2_Validation) topic: pushed_at:2026-03 star:0.0k fork:0.0k Validation test suite for CMSIS-RTOS2 API implementations using Arm Virtual Hardware (AVH).
-- [ARM-software/CMSIS-RTX](https://github.com/ARM-software/CMSIS-RTX) topic: pushed_at:2026-03 star:0.1k fork:0.0k RTX5 real time kernel for Arm Cortex-based embedded systems (spin-off from CMSIS_5)
+- [ARM-software/CMSIS-RTOS2_Validation](https://github.com/ARM-software/CMSIS-RTOS2_Validation) topic: pushed_at:2026-04 star:0.0k fork:0.0k Validation test suite for CMSIS-RTOS2 API implementations using Arm Virtual Hardware (AVH).
+- [ARM-software/CMSIS-RTX](https://github.com/ARM-software/CMSIS-RTX) topic: pushed_at:2026-04 star:0.1k fork:0.0k RTX5 real time kernel for Arm Cortex-based embedded systems (spin-off from CMSIS_5)
 - [ARM-software/CMSIS-TFM](https://github.com/ARM-software/CMSIS-TFM) topic: pushed_at:2020-06 star:0.0k fork:0.0k Downstream Repository of CMSIS Software Packs for Trusted Firmware-M (TF-M).
 - [ARM-software/CMSIS_4](https://github.com/ARM-software/CMSIS_4) topic: pushed_at:2018-10 star:0.5k fork:0.4k Cortex Microcontroller Software Interface Standard (V4 no longer maintained)
 - [ARM-software/CMSIS_5](https://github.com/ARM-software/CMSIS_5) topic: pushed_at:2024-09 star:1.6k fork:1.1k CMSIS Version 5 Development Repository
@@ -69,7 +69,7 @@
 - [ARM-software/Cryptocell-703-TEE-Lib](https://github.com/ARM-software/Cryptocell-703-TEE-Lib) topic: pushed_at:2020-09 star:0.0k fork:0.0k Cryptocell 713/703 TEE Lib
 - [ARM-software/Cryptocell-713-TEE-Lib](https://github.com/ARM-software/Cryptocell-713-TEE-Lib) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [ARM-software/CSAL](https://github.com/ARM-software/CSAL) topic: pushed_at:2026-04 star:0.1k fork:0.0k Coresight Access Library
-- [ARM-software/ff-a-acs](https://github.com/ARM-software/ff-a-acs) topic: pushed_at:2026-03 star:0.0k fork:0.0k Firmware Framework for A Architecture Compliance Suite
+- [ARM-software/ff-a-acs](https://github.com/ARM-software/ff-a-acs) topic: pushed_at:2026-04 star:0.0k fork:0.0k Firmware Framework for A Architecture Compliance Suite
 - [ARM-software/fluent-bit-modbus-plugin](https://github.com/ARM-software/fluent-bit-modbus-plugin) topic: pushed_at:2020-04 star:0.0k fork:0.0k   A dynamic Modbus plugin for Fluent Bit
 - [ARM-software/infra-microbenchmarks](https://github.com/ARM-software/infra-microbenchmarks) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
 - [ARM-software/iot-platform-sw](https://github.com/ARM-software/iot-platform-sw) topic: pushed_at:2016-07 star:0.0k fork:0.0k ARM Platform SDK code
@@ -93,15 +93,15 @@
 - [ARM-software/progress64](https://github.com/ARM-software/progress64) topic: pushed_at:2025-11 star:0.1k fork:0.0k PROGRESS64 is a C library of scalable functions for concurrent programs, primarily focused on networking applications.
 - [ARM-software/psa-acs-common-val](https://github.com/ARM-software/psa-acs-common-val) topic: pushed_at:2026-01 star:0.0k fork:0.0k 
 - [ARM-software/psa-api](https://github.com/ARM-software/psa-api) topic:api,attestation,cryptography,firmware-update,iot,security pushed_at:2026-04 star:0.1k fork:0.0k Documentation source and development of the PSA Certified API
-- [ARM-software/psa-arch-tests](https://github.com/ARM-software/psa-arch-tests) topic: pushed_at:2026-03 star:0.1k fork:0.1k Tests for verifying implementations of TBSA-v8M and the PSA Certified APIs
+- [ARM-software/psa-arch-tests](https://github.com/ARM-software/psa-arch-tests) topic: pushed_at:2026-04 star:0.1k fork:0.1k Tests for verifying implementations of TBSA-v8M and the PSA Certified APIs
 - [ARM-software/rasc-devkit](https://github.com/ARM-software/rasc-devkit) topic: pushed_at:2020-06 star:0.0k fork:0.0k 
 - [ARM-software/revere-demo](https://github.com/ARM-software/revere-demo) topic:accelerator,revere-amu,vfio,vfio-pci pushed_at:2020-09 star:0.0k fork:0.0k Example program demonstrating the use of the Revere-AMU System Architecture from userspace, with VFIO
-- [ARM-software/rme-sysarch-acs](https://github.com/ARM-software/rme-sysarch-acs) topic: pushed_at:2026-03 star:0.0k fork:0.0k 
+- [ARM-software/rme-sysarch-acs](https://github.com/ARM-software/rme-sysarch-acs) topic: pushed_at:2026-04 star:0.0k fork:0.0k 
 - [ARM-software/sbsa-acs](https://github.com/ARM-software/sbsa-acs) topic: pushed_at:2025-08 star:0.1k fork:0.1k ARM Enterprise: SBSA Architecture Compliance Suite
 - [ARM-software/scmi-tests](https://github.com/ARM-software/scmi-tests) topic: pushed_at:2021-09 star:0.0k fork:0.0k Test suite for SCMI PDD
 - [ARM-software/SCP-firmware](https://github.com/ARM-software/SCP-firmware) topic: pushed_at:2024-08 star:0.3k fork:0.2k This System Control Processor (SCP) firmware repository is no longer used and has been set to Read-only for archiving purposes. Please refer to the following active repository.
 - [ARM-software/sdm-api](https://github.com/ARM-software/sdm-api) topic: pushed_at:2024-01 star:0.0k fork:0.0k Secure Debug Manager API
-- [ARM-software/SDS-Framework](https://github.com/ARM-software/SDS-Framework) topic: pushed_at:2026-03 star:0.0k fork:0.0k Synchronous Data Stream (SDS) Framework allowing to record real-world data off a device and playing it back on Arm Virtual Hardware.
+- [ARM-software/SDS-Framework](https://github.com/ARM-software/SDS-Framework) topic: pushed_at:2026-04 star:0.0k fork:0.0k Synchronous Data Stream (SDS) Framework allowing to record real-world data off a device and playing it back on Arm Virtual Hardware.
 - [ARM-software/server-data-plane](https://github.com/ARM-software/server-data-plane) topic: pushed_at:2017-05 star:0.0k fork:0.0k Modified OpenDataPlane APIs for general purpose server applications with example applications.
 - [ARM-software/Shackleton-Framework](https://github.com/ARM-software/Shackleton-Framework) topic: pushed_at:2022-06 star:0.0k fork:0.0k A generic genetic programming framework that aims to make genetic programming easier for a myriad of uses. Currently, the main target is to use the framework for code optimization in tandem with the LLVM framework.
 - [ARM-software/synchronization-benchmarks](https://github.com/ARM-software/synchronization-benchmarks) topic:micro-benchmarks,synchronization pushed_at:2025-07 star:0.1k fork:0.0k Collection of synchronization micro-benchmarks and traces from infrastructure applications
@@ -115,11 +115,11 @@
 - [ARM-software/android-nn-driver](https://github.com/ARM-software/android-nn-driver) topic: pushed_at:2025-02 star:0.2k fork:0.1k 
 - [ARM-software/armnn](https://github.com/ARM-software/armnn) topic:machine-learning,neural-network,neural-networks pushed_at:2026-01 star:1.3k fork:0.3k Arm NN ML Software.
 - [ARM-software/armnn-mlperf](https://github.com/ARM-software/armnn-mlperf) topic: pushed_at:2022-01 star:0.0k fork:0.0k Arm mlperf.org benchmark port
-- [ARM-software/astc-encoder](https://github.com/ARM-software/astc-encoder) topic:astc,astcenc,compression,image-compression pushed_at:2026-03 star:1.3k fork:0.3k The Arm ASTC Encoder, a compressor for the Adaptive Scalable Texture Compression data format.
+- [ARM-software/astc-encoder](https://github.com/ARM-software/astc-encoder) topic:astc,astcenc,compression,image-compression pushed_at:2026-04 star:1.3k fork:0.3k The Arm ASTC Encoder, a compressor for the Adaptive Scalable Texture Compression data format.
 - [ARM-software/ATP-Engine](https://github.com/ARM-software/ATP-Engine) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [ARM-software/BarrierPoint](https://github.com/ARM-software/BarrierPoint) topic: pushed_at:2020-05 star:0.0k fork:0.0k 
 - [ARM-software/caiman](https://github.com/ARM-software/caiman) topic: pushed_at:2024-10 star:0.0k fork:0.0k Sources for Arm Streamline's caiman daemon
-- [ARM-software/CMSIS-CV](https://github.com/ARM-software/CMSIS-CV) topic: pushed_at:2026-03 star:0.1k fork:0.0k Computer Vision library for IoT
+- [ARM-software/CMSIS-CV](https://github.com/ARM-software/CMSIS-CV) topic: pushed_at:2026-04 star:0.1k fork:0.0k Computer Vision library for IoT
 - [ARM-software/CMSIS-Stream](https://github.com/ARM-software/CMSIS-Stream) topic:ai,arm,cortex-a,cortex-m,dataflow,dsp,embedded,ml,multimedia,streaming,zephyr-rtos pushed_at:2026-04 star:0.0k fork:0.0k CMSIS-Stream framework for unifying AI/DSP/Audio/Video on Embedded and Rich OS platforms
 - [ARM-software/ComputeLibrary](https://github.com/ARM-software/ComputeLibrary) topic:aarch64,android,arm,armv7,armv8,computer-vision,cpp,linux,machine-learning,neon,neural-network,opencl,simd,sve pushed_at:2026-04 star:3.1k fork:0.8k The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.
 - [ARM-software/connectedhomeip](https://github.com/ARM-software/connectedhomeip) topic: pushed_at:2023-12 star:0.0k fork:0.0k Matter (formerly Project CHIP) is creating more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers,  guided by the Connectivity Standards Alliance (formerly Zigbee Alliance).
@@ -135,7 +135,7 @@
 - [ARM-software/lavatube](https://github.com/ARM-software/lavatube) topic: pushed_at:2026-04 star:0.0k fork:0.0k Experimental Vulkan tracer
 - [ARM-software/libcollector](https://github.com/ARM-software/libcollector) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
 - [ARM-software/libGPUCounters](https://github.com/ARM-software/libGPUCounters) topic: pushed_at:2026-04 star:0.3k fork:0.1k A utility library for application developers to sample Arm Immortalis GPU or Arm Mali GPU performance counters.
-- [ARM-software/libGPUInfo](https://github.com/ARM-software/libGPUInfo) topic:arm,vulkan pushed_at:2025-09 star:0.1k fork:0.0k A utility library for application developers to query the configuration of the Arm Immortalis GPU or Arm Mali GPU present in their system.
+- [ARM-software/libGPUInfo](https://github.com/ARM-software/libGPUInfo) topic:arm,vulkan pushed_at:2026-04 star:0.1k fork:0.0k A utility library for application developers to query the configuration of the Arm Immortalis GPU or Arm Mali GPU present in their system.
 - [ARM-software/libGPULayers](https://github.com/ARM-software/libGPULayers) topic: pushed_at:2026-04 star:0.0k fork:0.0k A utility for building Vulkan API layer drivers, and a some off-the-shelf layers for the Arm Immortalis and Arm Mali GPUs.
 - [ARM-software/libGPUMan](https://github.com/ARM-software/libGPUMan) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
 - [ARM-software/libTLE](https://github.com/ARM-software/libTLE) topic: pushed_at:2021-04 star:0.0k fork:0.0k This is a library of simple C11 and C++11 mutex primitives that provides support for Transactional Lock Elision (TLE) on Intel 64 with TSX and AArch64 with TME platforms.
@@ -148,10 +148,10 @@
 - [ARM-software/perfdoc](https://github.com/ARM-software/perfdoc) topic: pushed_at:2022-01 star:0.1k fork:0.0k A cross-platform Vulkan layer which checks Vulkan applications for best practices on Arm Mali devices.
 - [ARM-software/secure-debug-manager](https://github.com/ARM-software/secure-debug-manager) topic: pushed_at:2025-03 star:0.0k fork:0.0k PSA-ADAC SDC-600 Secure Debug Manager library for authenticated debug
 - [ARM-software/spirv-simulator](https://github.com/ARM-software/spirv-simulator) topic: pushed_at:2026-04 star:0.0k fork:0.0k 
-- [ARM-software/tarmac-trace-utilities](https://github.com/ARM-software/tarmac-trace-utilities) topic: pushed_at:2026-02 star:0.1k fork:0.0k Tools for analyzing and browsing Tarmac instruction traces.
+- [ARM-software/tarmac-trace-utilities](https://github.com/ARM-software/tarmac-trace-utilities) topic: pushed_at:2026-04 star:0.1k fork:0.0k Tools for analyzing and browsing Tarmac instruction traces.
 - [ARM-software/tracetooltests](https://github.com/ARM-software/tracetooltests) topic: pushed_at:2026-04 star:0.0k fork:0.0k 
 - [ARM-software/vktrace-arm](https://github.com/ARM-software/vktrace-arm) topic: pushed_at:2025-09 star:0.0k fork:0.0k Vktrace arm fork
-- [ARM-software/Vulkan-Samples](https://github.com/ARM-software/Vulkan-Samples) topic: pushed_at:2026-03 star:0.0k fork:0.0k One stop solution for all Vulkan samples
+- [ARM-software/Vulkan-Samples](https://github.com/ARM-software/Vulkan-Samples) topic: pushed_at:2026-04 star:0.0k fork:0.0k One stop solution for all Vulkan samples
 - [ARM-software/Vulkan-ValidationLayers](https://github.com/ARM-software/Vulkan-ValidationLayers) topic: pushed_at:2020-08 star:0.0k fork:0.0k Vulkan Validation Layers
 - [ARM-software/vulkan_best_practice_for_mobile_developers](https://github.com/ARM-software/vulkan_best_practice_for_mobile_developers) topic:android,arm,graphics,hwcpipe,mobile,moltenvk,performance,vulkan pushed_at:2024-08 star:0.7k fork:0.1k Vulkan best practice for mobile developers
 
@@ -176,13 +176,13 @@
 
 - [ARM-software/bob-build](https://github.com/ARM-software/bob-build) topic:build-system,build-tool,build-tool-android,build-tool-linux,ninja-build pushed_at:2026-04 star:0.0k fork:0.0k Meta-build system using Blueprint and ninja
 - [ARM-software/CMSIS-View](https://github.com/ARM-software/CMSIS-View) topic: pushed_at:2026-03 star:0.0k fork:0.0k Repository of CMSIS Software Pack for software event generation and input/output handling.
-- [ARM-software/embedded-development-services-client](https://github.com/ARM-software/embedded-development-services-client) topic:client-library,development,embedded-development,golang-library,online-services pushed_at:2026-03 star:0.0k fork:0.0k Golang HTTP client for our embedded development online services offering
+- [ARM-software/embedded-development-services-client](https://github.com/ARM-software/embedded-development-services-client) topic:client-library,development,embedded-development,golang-library,online-services pushed_at:2026-04 star:0.0k fork:0.0k Golang HTTP client for our embedded development online services offering
 - [ARM-software/embedded-development-services-client-utils](https://github.com/ARM-software/embedded-development-services-client-utils) topic:arm-tools,client-library,golang-library,online-services,utilities,utility-library pushed_at:2026-01 star:0.0k fork:0.0k Helpers and utilities for Golang HTTP clients using our embedded development online services
 - [ARM-software/golang-utils](https://github.com/ARM-software/golang-utils) topic:golang,golang-library,golang-module,helpers,utilities pushed_at:2026-04 star:0.0k fork:0.0k Helpers and utilities for Golang in order to do actions not available in the standard library.
 
 ## HTML
 
-- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) topic: pushed_at:2026-03 star:1.2k fork:0.2k Application Binary Interface for the Arm® Architecture
+- [ARM-software/abi-aa](https://github.com/ARM-software/abi-aa) topic: pushed_at:2026-04 star:1.2k fork:0.2k Application Binary Interface for the Arm® Architecture
 - [ARM-software/coresight-wire-protocol](https://github.com/ARM-software/coresight-wire-protocol) topic: pushed_at:2025-07 star:0.0k fork:0.0k Coresight Wire Protocol (CSWP) Server/Client and streaming trace examples.
 
 ## Java
@@ -193,7 +193,7 @@
 
 - [ARM-software/fast-probabilistic-models](https://github.com/ARM-software/fast-probabilistic-models) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
 - [ARM-software/keyword-transformer](https://github.com/ARM-software/keyword-transformer) topic:keyword-spotting,machine-learning,transformer pushed_at:2022-04 star:0.1k fork:0.0k Official implementation of the Keyword Transformer: https://arxiv.org/abs/2104.00769
-- [ARM-software/lisa](https://github.com/ARM-software/lisa) topic: pushed_at:2026-03 star:0.2k fork:0.1k Linux Integrated System Analysis
+- [ARM-software/lisa](https://github.com/ARM-software/lisa) topic: pushed_at:2026-04 star:0.2k fork:0.1k Linux Integrated System Analysis
 - [ARM-software/mango](https://github.com/ARM-software/mango) topic:bayesian-optimization,blackbox-optimization,cluster-deployment,gaussian-processes,hyperparameter-optimization,hyperparameter-tuning,keras-examples,kubernetes-deployment,machine-learning,neural-network,neural-networks,parallel-computing,production-system,pytorch-compatible,scipy-compatible,sklearn-compatible,tensorflow-examples,tuning-parameters pushed_at:2026-03 star:0.4k fork:0.0k Parallel Hyperparameter Tuning in Python
 
 ## Makefile
@@ -231,13 +231,13 @@
 
 ## PostScript
 
-- [ARM-software/ebbr](https://github.com/ARM-software/ebbr) topic: pushed_at:2026-03 star:0.1k fork:0.0k Embedded Base Boot Requirements Specification
+- [ARM-software/ebbr](https://github.com/ARM-software/ebbr) topic: pushed_at:2026-04 star:0.1k fork:0.0k Embedded Base Boot Requirements Specification
 
 ## Python
 
 - [ARM-software/acle](https://github.com/ARM-software/acle) topic: pushed_at:2026-01 star:0.1k fork:0.1k Arm C Language Extensions (ACLE)
 - [ARM-software/arm-systemready](https://github.com/ARM-software/arm-systemready) topic: pushed_at:2026-04 star:0.1k fork:0.1k Arm SystemReady
-- [ARM-software/AVH](https://github.com/ARM-software/AVH) topic:avh,ci-cd,embedded,fvp,github-action,mlops,simulation pushed_at:2026-03 star:0.0k fork:0.0k This repository explains the usage of Arm Virtual Hardware Fixed Virtual Platforms (Arm FVPs).
+- [ARM-software/AVH](https://github.com/ARM-software/AVH) topic:avh,ci-cd,embedded,fvp,github-action,mlops,simulation pushed_at:2026-04 star:0.0k fork:0.0k This repository explains the usage of Arm Virtual Hardware Fixed Virtual Platforms (Arm FVPs).
 - [ARM-software/avhclient](https://github.com/ARM-software/avhclient) topic: pushed_at:2024-12 star:0.0k fork:0.0k DEPRECATED: Arm Virtual Hardware Client
 - [ARM-software/bart](https://github.com/ARM-software/bart) topic: pushed_at:2021-10 star:0.0k fork:0.0k Behavioural Analysis and Regression Toolkit
 - [ARM-software/bento-autobentifier](https://github.com/ARM-software/bento-autobentifier) topic:microcontroller pushed_at:2021-01 star:0.0k fork:0.0k Automatic partitioning of memory spaces for microcontroller binaries
@@ -249,7 +249,7 @@
 - [ARM-software/ML-restructurable-activation-networks](https://github.com/ARM-software/ML-restructurable-activation-networks) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
 - [ARM-software/mram_simulation_framework](https://github.com/ARM-software/mram_simulation_framework) topic:fokker-planck,llgs,mram,mtj,simulation,sllgs pushed_at:2026-03 star:0.0k fork:0.0k MRAM magnetization simulation framework. s-LLGS python and verilog-a solvers for transients simulation and  Fokker-planck equation solver for stochastic analysis
 - [ARM-software/perfsage](https://github.com/ARM-software/perfsage) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
-- [ARM-software/sbmr-acs](https://github.com/ARM-software/sbmr-acs) topic: pushed_at:2026-03 star:0.0k fork:0.0k Arm SBMR Architecture Compliance Suite
+- [ARM-software/sbmr-acs](https://github.com/ARM-software/sbmr-acs) topic: pushed_at:2026-04 star:0.0k fork:0.0k Arm SBMR Architecture Compliance Suite
 - [ARM-software/SCALE-Sim](https://github.com/ARM-software/SCALE-Sim) topic: pushed_at:2023-05 star:0.4k fork:0.2k 
 - [ARM-software/scalpel](https://github.com/ARM-software/scalpel) topic: pushed_at:2018-11 star:0.0k fork:0.0k This is a PyTorch implementation of the Scalpel. Node pruning for five benchmark networks and SIMD-aware weight pruning for LeNet-300-100 and LeNet-5 is included.
 - [ARM-software/sesr](https://github.com/ARM-software/sesr) topic: pushed_at:2022-03 star:0.1k fork:0.0k Super-Efficient Super Resolution
@@ -266,7 +266,7 @@
 
 ## Rust
 
-- [ARM-software/adac-rs](https://github.com/ARM-software/adac-rs) topic:arm,rust,secure-debug,security-tools pushed_at:2026-02 star:0.0k fork:0.0k Tooling for Arm Authenticated Debug an Access Control (ADAC) specification
+- [ARM-software/adac-rs](https://github.com/ARM-software/adac-rs) topic:arm,rust,secure-debug,security-tools pushed_at:2026-04 star:0.0k fork:0.0k Tooling for Arm Authenticated Debug an Access Control (ADAC) specification
 - [ARM-software/armour](https://github.com/ARM-software/armour) topic:distributed-systems,microservices,policy-engine,rust pushed_at:2021-04 star:0.0k fork:0.0k Armour provides a custom policy language and a distributed enforcement infrastructure to secure applications developed using micro-services
 
 ## Shell
