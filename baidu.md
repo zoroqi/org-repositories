@@ -76,7 +76,7 @@
 - [baidu/cluster-api-provider-baiducloud](https://github.com/baidu/cluster-api-provider-baiducloud) topic: pushed_at:2018-12 star:0.0k fork:0.0k Kubernetes cluster-api for Baidu Cloud
 - [baidu/EasyFaaS](https://github.com/baidu/EasyFaaS) topic: pushed_at:2022-10 star:0.6k fork:0.1k EasyFaaS是一个依赖轻、适配性强、资源占用少、无状态且高性能的函数计算服务引擎
 - [baidu/go-lib](https://github.com/baidu/go-lib) topic: pushed_at:2021-10 star:0.1k fork:0.0k 
-- [baidu/mochow-sdk-go](https://github.com/baidu/mochow-sdk-go) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
+- [baidu/mochow-sdk-go](https://github.com/baidu/mochow-sdk-go) topic: pushed_at:2026-05 star:0.0k fork:0.0k 
 - [baidu/ote-stack](https://github.com/baidu/ote-stack) topic:docker,edge-cluster,edge-computing,golang,k3s,kubernetes pushed_at:2023-03 star:0.1k fork:0.0k OTE-Stack is an edge computing platform for 5G and AI
 - [baidu/paddle-on-k8s-operator](https://github.com/baidu/paddle-on-k8s-operator) topic: pushed_at:2020-03 star:0.0k fork:0.0k Kubernetes operator for managing the lifecycle of PaddlePaddle job.
 - [baidu/runc](https://github.com/baidu/runc) topic: pushed_at:2019-06 star:0.0k fork:0.0k CLI tool for spawning and running containers according to the OCI specification
@@ -156,7 +156,7 @@
 - [baidu/ARK](https://github.com/baidu/ARK) topic:framework,operation pushed_at:2021-05 star:0.1k fork:0.0k Development framework of intelligent operation
 - [baidu/baiduads-sdk](https://github.com/baidu/baiduads-sdk) topic:ads,baidu,sdk pushed_at:2026-03 star:0.0k fork:0.0k Baidu Ads API SDK
 - [baidu/broc](https://github.com/baidu/broc) topic: pushed_at:2017-12 star:0.1k fork:0.1k 
-- [baidu/CUP](https://github.com/baidu/CUP) topic:common-libraries,common-libs,library,python pushed_at:2026-04 star:1.0k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
+- [baidu/CUP](https://github.com/baidu/CUP) topic:common-libraries,common-libs,library,python pushed_at:2026-04 star:0.9k fork:0.2k CUP, common useful python-lib.  (Currently, Most popular python lib in baidu).  Python 开发底层库, 涵盖util、service(threadpool/generator/executor/cache等等)、logging、monitoring、增强型配置 等等库支持
 - [baidu/DDParser](https://github.com/baidu/DDParser) topic:chinese-dependency-parser,chinese-nlp,dependency-parser,dependency-parsing,python,syntax-parser pushed_at:2023-02 star:1.0k fork:0.2k 百度开源的依存句法分析系统
 - [baidu/Dialogue](https://github.com/baidu/Dialogue) topic:chatbot,dialogue,research pushed_at:2022-07 star:0.4k fork:0.1k 
 - [baidu/dify-baidu-ai-guard](https://github.com/baidu/dify-baidu-ai-guard) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
@@ -168,10 +168,10 @@
 - [baidu/logcover](https://github.com/baidu/logcover) topic: pushed_at:2017-02 star:0.1k fork:0.0k 轻量级异常日志测试覆盖率度量工具
 - [baidu/mcp-server-baidu-ai-guard](https://github.com/baidu/mcp-server-baidu-ai-guard) topic: pushed_at:2025-08 star:0.0k fork:0.0k 
 - [baidu/mochow-mcp-server-python](https://github.com/baidu/mochow-mcp-server-python) topic: pushed_at:2025-05 star:0.0k fork:0.0k Model Context Protocol Server for Mochow
-- [baidu/pymochow](https://github.com/baidu/pymochow) topic: pushed_at:2026-04 star:0.0k fork:0.0k 
+- [baidu/pymochow](https://github.com/baidu/pymochow) topic: pushed_at:2026-05 star:0.0k fork:0.0k 
 - [baidu/QCompute](https://github.com/baidu/QCompute) topic: pushed_at:2023-12 star:0.1k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
 - [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2024-08 star:2.0k fork:0.4k Baidu's open-source Sentiment Analysis System.
-- [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun) topic: pushed_at:2026-04 star:0.4k fork:0.1k vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU.
+- [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun) topic: pushed_at:2026-05 star:0.4k fork:0.1k vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) topic: pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
 
 ## Ruby
