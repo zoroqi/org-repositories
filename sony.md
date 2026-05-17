@@ -101,7 +101,7 @@
 - [sony/isren](https://github.com/sony/isren) topic: pushed_at:2021-05 star:0.0k fork:0.0k 
 - [sony/learning-feet-imu-locomotion](https://github.com/sony/learning-feet-imu-locomotion) topic: pushed_at:2025-04 star:0.0k fork:0.0k 
 - [sony/multi-plane-segmentation-gpu](https://github.com/sony/multi-plane-segmentation-gpu) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
-- [sony/nmos-js](https://github.com/sony/nmos-js) topic:javascript,nmos,react pushed_at:2026-04 star:0.0k fork:0.0k An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
+- [sony/nmos-js](https://github.com/sony/nmos-js) topic:javascript,nmos,react pushed_at:2026-05 star:0.0k fork:0.0k An NMOS (Networked Media Open Specifications) Client in Javascript (IS-04, IS-05)
 - [sony/QuietWalk](https://github.com/sony/QuietWalk) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
 - [sony/studies-for](https://github.com/sony/studies-for) topic: pushed_at:2026-04 star:0.0k fork:0.0k 
 
@@ -135,7 +135,7 @@
 
 - [sony/ABA](https://github.com/sony/ABA) topic: pushed_at:2025-02 star:0.0k fork:0.0k Official Repo for The Paper "Adaptive Budget Optimization for Multichannel Advertising Using Combinatorial Bandits" (AAMAS'25)
 - [sony/ai-research-code](https://github.com/sony/ai-research-code) topic: pushed_at:2023-09 star:0.4k fork:0.1k 
-- [sony/aki](https://github.com/sony/aki) topic: pushed_at:2025-05 star:0.0k fork:0.0k Official implementation of "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs"
+- [sony/aki](https://github.com/sony/aki) topic: pushed_at:2026-05 star:0.0k fork:0.0k Official implementation of "Seeing is Understanding: Unlocking Causal Attention into Modality-Mutual Attention for Multimodal LLMs"
 - [sony/audio-visual-seld-dcase2023](https://github.com/sony/audio-visual-seld-dcase2023) topic: pushed_at:2025-03 star:0.1k fork:0.0k Baseline method for audio-visual sound event localization and detection task of DCASE 2023 challenge
 - [sony/BannerAgency](https://github.com/sony/BannerAgency) topic: pushed_at:2025-08 star:0.0k fork:0.0k  The official repo for BannerAgency: Advertising Banner Design with Multimodal LLM Agents
 - [sony/bigvsan](https://github.com/sony/bigvsan) topic:audio-generation,audio-synthesis,gan,neural-vocoder,pytorch,speech-synthesis pushed_at:2025-12 star:0.2k fork:0.0k Pytorch implementation of BigVSAN
@@ -211,7 +211,7 @@
 - [sony/nnabla-browser](https://github.com/sony/nnabla-browser) topic: pushed_at:2023-03 star:0.0k fork:0.0k Visualization toolkit for Neural Network Libraries
 - [sony/nnabla-js](https://github.com/sony/nnabla-js) topic: pushed_at:2025-10 star:0.0k fork:0.0k 
 - [sony/nnc-desktop](https://github.com/sony/nnc-desktop) topic: pushed_at:2025-06 star:0.0k fork:0.0k 
-- [sony/stamp](https://github.com/sony/stamp) topic: pushed_at:2026-04 star:0.0k fork:0.0k 
+- [sony/stamp](https://github.com/sony/stamp) topic: pushed_at:2026-05 star:0.0k fork:0.0k 
 - [sony/typescript-fsa-redux-middleware](https://github.com/sony/typescript-fsa-redux-middleware) topic: pushed_at:2020-01 star:0.0k fork:0.0k Fluent syntax for defining typesafe Redux vanilla middlewares on top of typescript-fsa.
 
 
