@@ -17,7 +17,7 @@
 
 - [golang/appengine](https://github.com/golang/appengine) topic: pushed_at:2026-02 star:0.7k fork:0.2k Go App Engine packages
 - [golang/arch](https://github.com/golang/arch) topic: pushed_at:2026-05 star:0.2k fork:0.1k [mirror] architecture code
-- [golang/benchmarks](https://github.com/golang/benchmarks) topic: pushed_at:2026-05 star:0.2k fork:0.1k Benchmarks for the perf dashboard
+- [golang/benchmarks](https://github.com/golang/benchmarks) topic: pushed_at:2026-05 star:0.2k fork:0.0k Benchmarks for the perf dashboard
 - [golang/build](https://github.com/golang/build) topic: pushed_at:2026-05 star:0.7k fork:0.2k [mirror] Go's continuous build and release infrastructure (no stability promises)
 - [golang/crypto](https://github.com/golang/crypto) topic: pushed_at:2026-05 star:3.3k fork:2.2k [mirror] Go supplementary cryptography libraries
 - [golang/debug](https://github.com/golang/debug) topic: pushed_at:2026-05 star:0.2k fork:0.1k [mirror] debugging tools
@@ -29,7 +29,7 @@
 - [golang/gddo](https://github.com/golang/gddo) topic: pushed_at:2021-01 star:1.1k fork:0.3k Go Doc Dot Org
 - [golang/geo](https://github.com/golang/geo) topic:geometry,geometry-library,go,sphere pushed_at:2026-05 star:1.8k fork:0.2k S2 geometry library in Go
 - [golang/glog](https://github.com/golang/glog) topic: pushed_at:2025-04 star:3.6k fork:0.9k Leveled execution logs for Go
-- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2026-05 star:133.9k fork:19.0k The Go programming language
+- [golang/go](https://github.com/golang/go) topic:go,golang,language,programming-language pushed_at:2026-05 star:134.2k fork:19.1k The Go programming language
 - [golang/go-get-issue-15410](https://github.com/golang/go-get-issue-15410) topic: pushed_at:2020-08 star:0.0k fork:0.0k go-get-issue-15410
 - [golang/gofrontend](https://github.com/golang/gofrontend) topic: pushed_at:2026-02 star:0.9k fork:0.1k Go compiler frontend (gccgo)
 - [golang/groupcache](https://github.com/golang/groupcache) topic: pushed_at:2024-11 star:13.3k fork:1.4k groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
@@ -39,7 +39,7 @@
 - [golang/mobile](https://github.com/golang/mobile) topic: pushed_at:2026-05 star:6.2k fork:0.8k [mirror] Go on Mobile
 - [golang/mock](https://github.com/golang/mock) topic: pushed_at:2024-01 star:9.4k fork:0.6k GoMock is a mocking framework for the Go programming language.
 - [golang/mod](https://github.com/golang/mod) topic: pushed_at:2026-05 star:0.2k fork:0.1k [mirror] Go module mechanics libraries
-- [golang/net](https://github.com/golang/net) topic: pushed_at:2026-05 star:3.0k fork:1.2k [mirror] Go supplementary network libraries
+- [golang/net](https://github.com/golang/net) topic: pushed_at:2026-05 star:3.0k fork:1.3k [mirror] Go supplementary network libraries
 - [golang/oauth2](https://github.com/golang/oauth2) topic:go,golang,oauth2,oauth2-client pushed_at:2026-03 star:5.9k fork:1.0k Go OAuth2
 - [golang/open2opaque](https://github.com/golang/open2opaque) topic: pushed_at:2026-05 star:0.0k fork:0.0k The open2opaque tool migrates Go packages from the Go Protobuf Open Struct API to the Opaque API.
 - [golang/oscar](https://github.com/golang/oscar) topic: pushed_at:2026-05 star:0.2k fork:0.0k [mirror] Open source contributor agent architecture repo.
@@ -57,7 +57,7 @@
 - [golang/term](https://github.com/golang/term) topic: pushed_at:2026-05 star:0.3k fork:0.1k Go terminal and console support
 - [golang/text](https://github.com/golang/text) topic: pushed_at:2026-05 star:0.8k fork:0.3k [mirror] Go text processing support
 - [golang/time](https://github.com/golang/time) topic: pushed_at:2026-03 star:0.4k fork:0.1k [mirror] Go supplementary time packages
-- [golang/tools](https://github.com/golang/tools) topic: pushed_at:2026-05 star:7.9k fork:2.4k [mirror] Go Tools
+- [golang/tools](https://github.com/golang/tools) topic: pushed_at:2026-05 star:8.0k fork:2.4k [mirror] Go Tools
 - [golang/tour](https://github.com/golang/tour) topic: pushed_at:2025-10 star:1.6k fork:0.5k [mirror] A Tour of Go
 - [golang/vgo](https://github.com/golang/vgo) topic: pushed_at:2025-11 star:1.5k fork:0.1k [mirror] Versioned Go Prototype
 - [golang/vuln](https://github.com/golang/vuln) topic: pushed_at:2026-05 star:0.5k fork:0.1k [mirror] the database client and tools for the Go vulnerability database
@@ -77,7 +77,7 @@
 ## Others
 
 - [golang/.allstar](https://github.com/golang/.allstar) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
-- [golang/.github](https://github.com/golang/.github) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
+- [golang/.github](https://github.com/golang/.github) topic: pushed_at:2026-05 star:0.0k fork:0.0k 
 - [golang/blog](https://github.com/golang/blog) topic: pushed_at:2021-06 star:0.4k fork:0.1k [mirror] Go Blog (obsolete)
 - [golang/cwg](https://github.com/golang/cwg) topic: pushed_at:2018-12 star:0.1k fork:0.0k Community outreach Working Group
 - [golang/govulncheck-action](https://github.com/golang/govulncheck-action) topic: pushed_at:2026-02 star:0.1k fork:0.0k [mirror] GitHub action for govulncheck

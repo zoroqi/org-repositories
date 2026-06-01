@@ -19,13 +19,13 @@
 
 ## CSS
 
-- [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) topic: pushed_at:2026-04 star:9.2k fork:29.4k A sample Spring-based application
+- [spring-projects/spring-petclinic](https://github.com/spring-projects/spring-petclinic) topic: pushed_at:2026-05 star:9.3k fork:29.5k A sample Spring-based application
 - [spring-projects/spring-webflow-samples](https://github.com/spring-projects/spring-webflow-samples) topic: pushed_at:2026-05 star:0.4k fork:0.6k 
 
 ## Java
 
 - [spring-projects/eclipse-integration-tcserver](https://github.com/spring-projects/eclipse-integration-tcserver) topic: pushed_at:2023-05 star:0.0k fork:0.0k Eclipse Integration for vFabric tc Server
-- [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) topic:artificial-intelligence,hacktoberfest,java,spring-ai pushed_at:2026-05 star:8.7k fork:2.6k An Application Framework for AI Engineering
+- [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) topic:artificial-intelligence,hacktoberfest,java,spring-ai pushed_at:2026-05 star:8.8k fork:2.6k An Application Framework for AI Engineering
 - [spring-projects/spring-ai-examples](https://github.com/spring-projects/spring-ai-examples) topic:ai,spring pushed_at:2026-05 star:1.3k fork:0.5k 
 - [spring-projects/spring-amqp](https://github.com/spring-projects/spring-amqp) topic: pushed_at:2026-05 star:0.9k fork:0.7k Spring AMQP - support for Spring programming model with AMQP, especially but not limited to RabbitMQ
 - [spring-projects/spring-amqp-samples](https://github.com/spring-projects/spring-amqp-samples) topic: pushed_at:2026-05 star:0.6k fork:0.4k Samples for Spring AMQP
@@ -36,9 +36,9 @@
 - [spring-projects/spring-boot](https://github.com/spring-projects/spring-boot) topic:framework,java,spring,spring-boot pushed_at:2026-05 star:80.7k fork:41.9k Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.
 - [spring-projects/spring-boot-data-geode](https://github.com/spring-projects/spring-boot-data-geode) topic:apache-geode,framework,java,spring,spring-boot pushed_at:2023-11 star:0.1k fork:0.1k Spring Boot support for Apache Geode and VMware GemFire
 - [spring-projects/spring-credhub](https://github.com/spring-projects/spring-credhub) topic: pushed_at:2026-05 star:0.0k fork:0.0k Spring abstractions for Cloud Foundry CredHub
-- [spring-projects/spring-data-cassandra](https://github.com/spring-projects/spring-data-cassandra) topic:cassandra,cql,ddd,framework,java,spring,spring-data pushed_at:2026-04 star:0.4k fork:0.3k Provides support to increase developer productivity in Java when using Apache Cassandra.  Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
-- [spring-projects/spring-data-commons](https://github.com/spring-projects/spring-data-commons) topic:data-access,ddd,framework,java,spring,spring-data pushed_at:2026-04 star:0.8k fork:0.7k Spring Data Commons. Interfaces and code shared between the various datastore specific implementations.
-- [spring-projects/spring-data-couchbase](https://github.com/spring-projects/spring-data-couchbase) topic:couchbase,ddd,framework,java,spring,spring-data pushed_at:2026-04 star:0.3k fork:0.2k Provides support to increase developer productivity in Java when using Couchbase. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
+- [spring-projects/spring-data-cassandra](https://github.com/spring-projects/spring-data-cassandra) topic:cassandra,cql,ddd,framework,java,spring,spring-data pushed_at:2026-05 star:0.4k fork:0.3k Provides support to increase developer productivity in Java when using Apache Cassandra.  Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
+- [spring-projects/spring-data-commons](https://github.com/spring-projects/spring-data-commons) topic:data-access,ddd,framework,java,spring,spring-data pushed_at:2026-05 star:0.8k fork:0.7k Spring Data Commons. Interfaces and code shared between the various datastore specific implementations.
+- [spring-projects/spring-data-couchbase](https://github.com/spring-projects/spring-data-couchbase) topic:couchbase,ddd,framework,java,spring,spring-data pushed_at:2026-05 star:0.3k fork:0.2k Provides support to increase developer productivity in Java when using Couchbase. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 - [spring-projects/spring-data-dev-tools](https://github.com/spring-projects/spring-data-dev-tools) topic: pushed_at:2024-12 star:0.0k fork:0.0k A collection of tools to support Spring Data development.
 - [spring-projects/spring-data-elasticsearch](https://github.com/spring-projects/spring-data-elasticsearch) topic: pushed_at:2026-05 star:3.0k fork:1.3k Provide support to increase developer productivity in Java when using Elasticsearch. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 - [spring-projects/spring-data-examples](https://github.com/spring-projects/spring-data-examples) topic: pushed_at:2026-03 star:5.4k fork:3.4k Spring Data Example Projects
@@ -50,8 +50,8 @@
 - [spring-projects/spring-data-redis](https://github.com/spring-projects/spring-data-redis) topic:ddd,framework,java,redis,spring,spring-data pushed_at:2026-05 star:1.9k fork:1.3k Provides support to increase developer productivity in Java when using Redis, a key-value store. Uses familiar Spring concepts such as a template classes for core API usage and lightweight repository style data access.
 - [spring-projects/spring-data-relational](https://github.com/spring-projects/spring-data-relational) topic:ddd,framework,jdbc,r2dbc,spring,spring-data pushed_at:2026-05 star:0.8k fork:0.4k Spring Data Relational. Home of Spring Data JDBC and Spring Data R2DBC.
 - [spring-projects/spring-data-release](https://github.com/spring-projects/spring-data-release) topic: pushed_at:2026-05 star:0.0k fork:0.0k Command-line application to ship Spring Data releases
-- [spring-projects/spring-data-rest](https://github.com/spring-projects/spring-data-rest) topic:ddd,framework,java,spring,spring-data pushed_at:2026-04 star:1.0k fork:0.6k Simplifies building hypermedia-driven REST web services on top of Spring Data repositories
-- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) topic:framework,spring,spring-framework pushed_at:2026-05 star:59.9k fork:38.8k Spring Framework
+- [spring-projects/spring-data-rest](https://github.com/spring-projects/spring-data-rest) topic:ddd,framework,java,spring,spring-data pushed_at:2026-04 star:0.9k fork:0.6k Simplifies building hypermedia-driven REST web services on top of Spring Data repositories
+- [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) topic:framework,spring,spring-framework pushed_at:2026-05 star:60.0k fork:38.8k Spring Framework
 - [spring-projects/spring-graphql](https://github.com/spring-projects/spring-graphql) topic:graphql,spring-graphql pushed_at:2026-05 star:1.6k fork:0.3k Spring Integration for GraphQL 
 - [spring-projects/spring-graphql-examples](https://github.com/spring-projects/spring-graphql-examples) topic:graphql,spring,spring-boot,spring-graphql pushed_at:2024-12 star:0.0k fork:0.0k Spring for GraphQL Examples
 - [spring-projects/spring-grpc](https://github.com/spring-projects/spring-grpc) topic: pushed_at:2026-05 star:0.4k fork:0.1k 
@@ -67,7 +67,7 @@
 - [spring-projects/spring-ldap-samples](https://github.com/spring-projects/spring-ldap-samples) topic: pushed_at:2024-12 star:0.0k fork:0.0k 
 - [spring-projects/spring-lifecycle-smoke-tests](https://github.com/spring-projects/spring-lifecycle-smoke-tests) topic: pushed_at:2025-01 star:0.0k fork:0.0k 
 - [spring-projects/spring-loaded](https://github.com/spring-projects/spring-loaded) topic: pushed_at:2022-04 star:2.7k fork:0.5k Java agent that enables class reloading in a running JVM
-- [spring-projects/spring-modulith](https://github.com/spring-projects/spring-modulith) topic:architecture,modularity,spring-boot pushed_at:2026-04 star:1.1k fork:0.2k Modular applications with Spring Boot
+- [spring-projects/spring-modulith](https://github.com/spring-projects/spring-modulith) topic:architecture,modularity,spring-boot pushed_at:2026-05 star:1.1k fork:0.2k Modular applications with Spring Boot
 - [spring-projects/spring-plugin](https://github.com/spring-projects/spring-plugin) topic: pushed_at:2026-04 star:0.5k fork:0.1k 
 - [spring-projects/spring-pulsar](https://github.com/spring-projects/spring-pulsar) topic: pushed_at:2026-05 star:0.2k fork:0.1k Spring Friendly Abstractions for Apache Pulsar
 - [spring-projects/spring-restdocs](https://github.com/spring-projects/spring-restdocs) topic: pushed_at:2026-05 star:1.2k fork:0.7k Test-driven documentation for RESTful services
@@ -76,11 +76,11 @@
 - [spring-projects/spring-rewrite-commons](https://github.com/spring-projects/spring-rewrite-commons) topic: pushed_at:2024-10 star:0.0k fork:0.0k 
 - [spring-projects/spring-security](https://github.com/spring-projects/spring-security) topic:framework,java,security,spring,spring-framework pushed_at:2026-05 star:9.5k fork:6.3k Spring Security
 - [spring-projects/spring-security-kerberos](https://github.com/spring-projects/spring-security-kerberos) topic: pushed_at:2025-12 star:0.2k fork:0.2k Spring Security Kerberos
-- [spring-projects/spring-security-samples](https://github.com/spring-projects/spring-security-samples) topic: pushed_at:2026-04 star:1.7k fork:0.8k 
+- [spring-projects/spring-security-samples](https://github.com/spring-projects/spring-security-samples) topic: pushed_at:2026-04 star:1.8k fork:0.8k 
 - [spring-projects/spring-session](https://github.com/spring-projects/spring-session) topic: pushed_at:2026-05 star:1.9k fork:1.1k Spring Session
 - [spring-projects/spring-session-bom](https://github.com/spring-projects/spring-session-bom) topic: pushed_at:2024-02 star:0.0k fork:0.0k Spring Session Bill of Materials
 - [spring-projects/spring-session-data-geode](https://github.com/spring-projects/spring-session-data-geode) topic:apache-geode,framework,java,spring-session pushed_at:2023-11 star:0.0k fork:0.0k Spring Session support for Apache Geode and VMware Tanzu GemFire
-- [spring-projects/spring-shell](https://github.com/spring-projects/spring-shell) topic: pushed_at:2026-04 star:0.8k fork:0.4k Spring based shell
+- [spring-projects/spring-shell](https://github.com/spring-projects/spring-shell) topic: pushed_at:2026-05 star:0.8k fork:0.4k Spring based shell
 - [spring-projects/spring-statemachine](https://github.com/spring-projects/spring-statemachine) topic:java,spring,statemachine pushed_at:2025-08 star:1.7k fork:0.6k Spring Statemachine is a framework for application developers to use state machine concepts with Spring.
 - [spring-projects/spring-test-data-geode](https://github.com/spring-projects/spring-test-data-geode) topic:apache-geode,framework,java,spring-test pushed_at:2023-11 star:0.0k fork:0.0k A Spring-based Test Framework supporting Unit and Integration testing for Spring Boot applications using Spring Data with either Apache Geode or VMware Tanzu GemFire
 - [spring-projects/spring-tools](https://github.com/spring-projects/spring-tools) topic:eclipse,spring,spring-boot,sts4,theia,visual-studio-code,vscode-extension pushed_at:2026-05 star:1.0k fork:0.2k The next generation of tooling for Spring Boot, including support for Cloud Foundry manifest files, Concourse CI pipeline definitions, BOSH deployment manifests, and more... - Available for Visual Studio Code, Cursor, Eclipse, and Theia
