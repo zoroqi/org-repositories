@@ -1234,7 +1234,7 @@
 
 ## Shell
 
-- [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) topic: pushed_at:2021-01 star:2.4k fork:0.5k ApacheCN AI 路线图（知识树）
+- [apachecn/ai-roadmap](https://github.com/apachecn/ai-roadmap) topic: pushed_at:2021-01 star:2.5k fork:0.5k ApacheCN AI 路线图（知识树）
 - [apachecn/awesome-article-recomm](https://github.com/apachecn/awesome-article-recomm) topic:ai,blogpost pushed_at:2020-09 star:0.1k fork:0.0k 优质博文推荐计划
 - [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh) topic: pushed_at:2020-09 star:0.9k fork:0.1k 计算机公开课推荐
 - [apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh) topic: pushed_at:2020-09 star:0.9k fork:0.1k 独立开发/自由职业/远程工作资源列表
@@ -1254,7 +1254,7 @@
 
 ## TypeScript
 
-- [apachecn/smart-resume](https://github.com/apachecn/smart-resume) topic: pushed_at:2026-05 star:0.0k fork:0.0k 
+- [apachecn/smart-resume](https://github.com/apachecn/smart-resume) topic: pushed_at:2026-06 star:0.0k fork:0.0k 
 
 ## Vim script
 
