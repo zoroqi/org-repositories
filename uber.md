@@ -68,8 +68,8 @@
 - [uber/scip-lsp](https://github.com/uber/scip-lsp) topic: pushed_at:2026-06 star:0.0k fork:0.0k 
 - [uber/starlark-go](https://github.com/uber/starlark-go) topic: pushed_at:2023-01 star:0.0k fork:0.0k Uber fork:  Starlark in Go: the Starlark configuration language, implemented in Go
 - [uber/storagetapper](https://github.com/uber/storagetapper) topic:avro,cdc,clickhouse,etl,hdfs,json,kafka,msgpack,mysql,postgresql,s3 pushed_at:2023-03 star:0.4k fork:0.1k StorageTapper is a scalable realtime MySQL change data streaming, logical backup and logical replication service
-- [uber/submitqueue](https://github.com/uber/submitqueue) topic:distributed-systems,golang,merge-queue,speculation,uber pushed_at:2026-06 star:0.0k fork:0.0k SubmitQueue is a high-performance speculative merge queue that keeps your trunk consistently green at scale.
-- [uber/tango](https://github.com/uber/tango) topic:distributed-systems,golang,target-analysis,target-graph pushed_at:2026-06 star:0.0k fork:0.0k Tango provides a way to compute the changed targets for a given base and head and conflict graph. Uber's SubmitQueue relies on it to get changed targets to speculate the requests.
+- [uber/submitqueue](https://github.com/uber/submitqueue) topic:distributed-systems,golang,merge-queue,speculation,uber pushed_at:2026-07 star:0.0k fork:0.0k SubmitQueue is a high-performance speculative merge queue that keeps your trunk consistently green at scale.
+- [uber/tango](https://github.com/uber/tango) topic:distributed-systems,golang,target-analysis,target-graph pushed_at:2026-07 star:0.0k fork:0.0k Tango provides a way to compute the changed targets for a given base and head and conflict graph. Uber's SubmitQueue relies on it to get changed targets to speculate the requests.
 - [uber/tchannel-go](https://github.com/uber/tchannel-go) topic: pushed_at:2026-03 star:0.5k fork:0.1k Go implementation of a multiplexing and framing protocol for RPC calls
 - [uber/uberalls](https://github.com/uber/uberalls) topic: pushed_at:2020-03 star:0.2k fork:0.0k Track code coverage metrics with Jenkins and Phabricator
 - [uber/zanzibar](https://github.com/uber/zanzibar) topic: pushed_at:2024-10 star:0.5k fork:0.1k A build system & configuration system to generate versioned API gateways.
@@ -230,7 +230,7 @@
 
 ## Rust
 
-- [uber/piranha](https://github.com/uber/piranha) topic:ast,ast-matcher,clang-plugin,code-management,code-quality,deadcode,feature-flags,feature-toggles,java,javascript,objective-c,refactoring,refactoring-tools,stale-flags,swift,swift-syntax pushed_at:2026-04 star:2.4k fork:0.2k A tool for refactoring code related to feature flag APIs
+- [uber/piranha](https://github.com/uber/piranha) topic:ast,ast-matcher,clang-plugin,code-management,code-quality,deadcode,feature-flags,feature-toggles,java,javascript,objective-c,refactoring,refactoring-tools,stale-flags,swift,swift-syntax pushed_at:2026-04 star:2.5k fork:0.2k A tool for refactoring code related to feature flag APIs
 
 ## Scala
 
@@ -242,7 +242,7 @@
 
 ## Starlark
 
-- [uber/hermetic_cc_toolchain](https://github.com/uber/hermetic_cc_toolchain) topic: pushed_at:2026-04 star:0.4k fork:0.1k Bazel C/C++ toolchain for cross-compiling C/C++ programs
+- [uber/hermetic_cc_toolchain](https://github.com/uber/hermetic_cc_toolchain) topic: pushed_at:2026-06 star:0.4k fork:0.1k Bazel C/C++ toolchain for cross-compiling C/C++ programs
 
 ## Stata
 
@@ -271,7 +271,7 @@
 
 - [uber/base-design-docs](https://github.com/uber/base-design-docs) topic:design-system,documentation pushed_at:2024-01 star:0.0k fork:0.0k A documentation site for the Base design system.
 - [uber/baseweb](https://github.com/uber/baseweb) topic:component-library,design-systems,react,react-components pushed_at:2026-06 star:9.0k fork:0.9k A React Component library implementing the Base design language
-- [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) topic: pushed_at:2026-03 star:0.5k fork:0.1k grafana dash dash dash gen
+- [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) topic: pushed_at:2026-06 star:0.5k fork:0.1k grafana dash dash dash gen
 - [uber/nebula.gl](https://github.com/uber/nebula.gl) topic:deck-gl,uber,webgl pushed_at:2024-05 star:0.7k fork:0.2k A suite of 3D-enabled data editing overlays, suitable for deck.gl
 - [uber/react-view](https://github.com/uber/react-view) topic:code-generator,documentation,playground,react pushed_at:2024-10 star:0.7k fork:0.0k React View is an interactive playground, documentation and code generator for your components.
 - [uber/vscode-bazel-bsp](https://github.com/uber/vscode-bazel-bsp) topic:bazel,build-server-protocol,testing-tools,vscode-extension pushed_at:2026-05 star:0.0k fork:0.0k VS Code extension to provide integration with Bazel BSP, leveraging Build Server Protocol.  Currently focused on VS Code test explorer integration.
