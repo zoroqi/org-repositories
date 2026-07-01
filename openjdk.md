@@ -38,7 +38,7 @@
 
 ## HTML
 
-- [openjdk/amber-docs](https://github.com/openjdk/amber-docs) topic: pushed_at:2026-03 star:0.1k fork:0.0k https://openjdk.org/projects/amber
+- [openjdk/amber-docs](https://github.com/openjdk/amber-docs) topic: pushed_at:2026-06 star:0.1k fork:0.0k https://openjdk.org/projects/amber
 - [openjdk/cr](https://github.com/openjdk/cr) topic: pushed_at:2021-05 star:0.0k fork:0.0k https://openjdk.org/projects/skara
 
 ## Java
@@ -46,7 +46,7 @@
 - [openjdk/aarch32-port-jdk8u](https://github.com/openjdk/aarch32-port-jdk8u) topic: pushed_at:2026-06 star:0.0k fork:0.0k https://openjdk.org/projects/aarch32-port
 - [openjdk/aarch64-port](https://github.com/openjdk/aarch64-port) topic: pushed_at:2026-06 star:0.1k fork:0.0k Port: AArch64 Project
 - [openjdk/amber](https://github.com/openjdk/amber) topic: pushed_at:2026-06 star:0.2k fork:0.1k https://openjdk.org/projects/amber
-- [openjdk/apidiff](https://github.com/openjdk/apidiff) topic: pushed_at:2026-05 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/apidiff
+- [openjdk/apidiff](https://github.com/openjdk/apidiff) topic: pushed_at:2026-06 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/apidiff
 - [openjdk/asmtools](https://github.com/openjdk/asmtools) topic: pushed_at:2026-01 star:0.1k fork:0.0k https://wiki.openjdk.org/display/CodeTools/asmtools
 - [openjdk/babylon](https://github.com/openjdk/babylon) topic: pushed_at:2026-06 star:0.1k fork:0.0k https://openjdk.org/projects/babylon
 - [openjdk/brisbane](https://github.com/openjdk/brisbane) topic: pushed_at:2026-06 star:0.0k fork:0.0k https://openjdk.org/projects/brisbane
@@ -60,7 +60,7 @@
 - [openjdk/galahad](https://github.com/openjdk/galahad) topic: pushed_at:2025-12 star:0.0k fork:0.0k https://openjdk.org/projects/galahad
 - [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2025-11 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2025-06 star:0.5k fork:0.1k https://openjdk.org/projects/code-tools/jcstress
-- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2026-06 star:23.0k fork:6.4k JDK main-line development https://openjdk.org/projects/jdk
+- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2026-06 star:23.1k fork:6.4k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2026-06 star:0.1k fork:0.1k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2026-06 star:0.2k fork:0.2k https://openjdk.org/projects/jdk-updates
@@ -111,18 +111,18 @@
 - [openjdk/jdk9u](https://github.com/openjdk/jdk9u) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates last released 2018-01-16
 - [openjdk/jemmy-v2](https://github.com/openjdk/jemmy-v2) topic: pushed_at:2024-08 star:0.0k fork:0.0k UI test automation library - v2
 - [openjdk/jemmy-v3](https://github.com/openjdk/jemmy-v3) topic: pushed_at:2023-04 star:0.0k fork:0.0k UI test automation library - v3
-- [openjdk/jextract](https://github.com/openjdk/jextract) topic: pushed_at:2026-05 star:0.5k fork:0.1k https://openjdk.org/projects/code-tools
+- [openjdk/jextract](https://github.com/openjdk/jextract) topic: pushed_at:2026-06 star:0.5k fork:0.1k https://openjdk.org/projects/code-tools
 - [openjdk/jfx-tests](https://github.com/openjdk/jfx-tests) topic: pushed_at:2023-11 star:0.0k fork:0.0k JavaFX Jemmy-based tests
 - [openjdk/jmc](https://github.com/openjdk/jmc) topic:hacktoberfest,hacktoberfest2025,java,jmc,mission-control,openjdk pushed_at:2026-06 star:1.0k fork:0.2k https://openjdk.org/projects/jmc OpenJDK Mission Control, a production time profiling and diagnostics tools suite.
 - [openjdk/jmc7](https://github.com/openjdk/jmc7) topic:java,jmc,mission-control,openjdk pushed_at:2021-03 star:0.0k fork:0.0k https://openjdk.org/projects/jmc
-- [openjdk/jmh](https://github.com/openjdk/jmh) topic: pushed_at:2026-03 star:2.6k fork:0.3k https://openjdk.org/projects/code-tools/jmh
+- [openjdk/jmh](https://github.com/openjdk/jmh) topic: pushed_at:2026-06 star:2.7k fork:0.3k https://openjdk.org/projects/code-tools/jmh
 - [openjdk/jmh-jdk-microbenchmarks](https://github.com/openjdk/jmh-jdk-microbenchmarks) topic: pushed_at:2025-07 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/jmh-jdk-microbenchmarks
 - [openjdk/jol](https://github.com/openjdk/jol) topic: pushed_at:2026-01 star:1.1k fork:0.1k https://openjdk.org/projects/code-tools/jol
 - [openjdk/jtharness](https://github.com/openjdk/jtharness) topic: pushed_at:2025-08 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/JT+Harness
-- [openjdk/jtreg](https://github.com/openjdk/jtreg) topic: pushed_at:2026-05 star:0.1k fork:0.1k https://openjdk.org/projects/code-tools/jtreg
+- [openjdk/jtreg](https://github.com/openjdk/jtreg) topic: pushed_at:2026-06 star:0.1k fork:0.1k https://openjdk.org/projects/code-tools/jtreg
 - [openjdk/lanai](https://github.com/openjdk/lanai) topic: pushed_at:2021-03 star:0.0k fork:0.0k https://openjdk.org/projects/lanai
 - [openjdk/leyden](https://github.com/openjdk/leyden) topic: pushed_at:2026-06 star:0.2k fork:0.1k https://openjdk.org/projects/leyden
-- [openjdk/lilliput](https://github.com/openjdk/lilliput) topic: pushed_at:2026-05 star:0.1k fork:0.0k https://openjdk.org/projects/lilliput
+- [openjdk/lilliput](https://github.com/openjdk/lilliput) topic: pushed_at:2026-06 star:0.1k fork:0.0k https://openjdk.org/projects/lilliput
 - [openjdk/lilliput-jdk17u](https://github.com/openjdk/lilliput-jdk17u) topic: pushed_at:2026-06 star:0.0k fork:0.0k https://openjdk.org/projects/lilliput
 - [openjdk/lilliput-jdk21u](https://github.com/openjdk/lilliput-jdk21u) topic: pushed_at:2026-06 star:0.0k fork:0.0k https://openjdk.org/projects/lilliput
 - [openjdk/lilliput-jdk25u](https://github.com/openjdk/lilliput-jdk25u) topic: pushed_at:2026-06 star:0.0k fork:0.0k https://openjdk.org/projects/lilliput
@@ -146,7 +146,7 @@
 - [openjdk/sigtest](https://github.com/openjdk/sigtest) topic: pushed_at:2026-03 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/sigtest
 - [openjdk/skara](https://github.com/openjdk/skara) topic:git,hg,java,openjdk,skara pushed_at:2026-06 star:0.2k fork:0.1k https://openjdk.org/projects/skara
 - [openjdk/tsan](https://github.com/openjdk/tsan) topic: pushed_at:2026-06 star:0.0k fork:0.0k https://openjdk.org/projects/tsan
-- [openjdk/valhalla](https://github.com/openjdk/valhalla) topic: pushed_at:2026-06 star:0.7k fork:0.2k https://openjdk.org/projects/valhalla
+- [openjdk/valhalla](https://github.com/openjdk/valhalla) topic: pushed_at:2026-07 star:0.7k fork:0.2k https://openjdk.org/projects/valhalla
 - [openjdk/wakefield](https://github.com/openjdk/wakefield) topic: pushed_at:2026-06 star:0.2k fork:0.0k https://openjdk.org/projects/wakefield
 - [openjdk/zgc](https://github.com/openjdk/zgc) topic:openjdk,zgc pushed_at:2026-05 star:0.2k fork:0.0k The Z Garbage Collector https://wiki.openjdk.org/display/zgc
 
