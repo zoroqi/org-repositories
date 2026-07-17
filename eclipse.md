@@ -11,7 +11,7 @@
 ## Others
 
 - [eclipse/.github](https://github.com/eclipse/.github) topic: pushed_at:2026-05 star:0.0k fork:0.0k Community Health files
-- [eclipse/eclipse-projects](https://github.com/eclipse/eclipse-projects) topic:eclipse pushed_at:2026-06 star:0.0k fork:0.0k A collection of all Eclipse projects hosted on GitHub
+- [eclipse/eclipse-projects](https://github.com/eclipse/eclipse-projects) topic:eclipse pushed_at:2026-07 star:0.0k fork:0.0k A collection of all Eclipse projects hosted on GitHub
 
 
 ## License

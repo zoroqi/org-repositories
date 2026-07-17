@@ -459,7 +459,7 @@
 - [apachecn/spark-doc-zh](https://github.com/apachecn/spark-doc-zh) topic:big-data,documentation,java,spark pushed_at:2023-07 star:1.2k fork:0.3k Apache Spark 官方文档中文版
 - [apachecn/sparkfun-tut-zh](https://github.com/apachecn/sparkfun-tut-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/spring-boot-doc-zh](https://github.com/apachecn/spring-boot-doc-zh) topic: pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] spring-boot 中文文档
-- [apachecn/stanford-cs183-notes](https://github.com/apachecn/stanford-cs183-notes) topic: pushed_at:2022-07 star:0.1k fork:0.0k :books: [译] 斯坦福 CS183 系列中文笔记
+- [apachecn/stanford-cs183-notes](https://github.com/apachecn/stanford-cs183-notes) topic: pushed_at:2022-07 star:0.2k fork:0.0k :books: [译] 斯坦福 CS183 系列中文笔记
 - [apachecn/stats-thinking-21-zh](https://github.com/apachecn/stats-thinking-21-zh) topic:stanford,stats,stats60,textbook pushed_at:2022-08 star:0.0k fork:0.0k :book: 【译】斯坦福 Stats60 21 世纪的统计思维
 - [apachecn/storage_fee](https://github.com/apachecn/storage_fee) topic: pushed_at:2021-02 star:0.0k fork:0.0k Cold Storage Fee
 - [apachecn/storm-doc-zh](https://github.com/apachecn/storm-doc-zh) topic:big-data,documentation,java,storm pushed_at:2020-12 star:0.1k fork:0.1k Apache Storm 官方文档中文版
@@ -1000,7 +1000,7 @@
 - [apachecn/PlayCover](https://github.com/apachecn/PlayCover) topic: pushed_at:2023-06 star:0.0k fork:0.0k Community fork of PlayCover
 - [apachecn/Pluto-Obfuscator](https://github.com/apachecn/Pluto-Obfuscator) topic: pushed_at:2022-10 star:0.0k fork:0.0k Obfuscator based on LLVM 12.0.1
 - [apachecn/poetry-gcp-pypi](https://github.com/apachecn/poetry-gcp-pypi) topic: pushed_at:2021-08 star:0.0k fork:0.0k poetry gcp pypi
-- [apachecn/ppt](https://github.com/apachecn/ppt) topic: pushed_at:2022-05 star:0.0k fork:0.0k 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。
+- [apachecn/ppt](https://github.com/apachecn/ppt) topic: pushed_at:2022-05 star:0.1k fork:0.0k 基于 Vue3.x + TypeScript 的在线演示文稿（幻灯片）应用，还原了大部分 Office PowerPoint 常用功能，实现在线PPT的编辑、演示。支持导出PPT文件。
 - [apachecn/programmer-advancement](https://github.com/apachecn/programmer-advancement) topic: pushed_at:2020-03 star:0.0k fork:0.0k 程序员应该有的一些好习惯+面试必知事项！
 - [apachecn/programming_at_40](https://github.com/apachecn/programming_at_40) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/PrometheusAlert](https://github.com/apachecn/PrometheusAlert) topic: pushed_at:2022-07 star:0.0k fork:0.0k Prometheus Alert是开源的运维告警中心消息转发系统,支持主流的监控系统Prometheus,Zabbix,日志系统Graylog和数据可视化系统Grafana发出的预警消息,支持钉钉,微信,华为云短信,腾讯云短信,腾讯云电话,阿里云短信,阿里云电话等
