@@ -30,7 +30,7 @@
 ## C++
 
 - [tuna/QSerial](https://github.com/tuna/QSerial) topic: pushed_at:2025-12 star:0.0k fork:0.0k An advanced cross-platform serial port utility
-- [tuna/tapa](https://github.com/tuna/tapa) topic: pushed_at:2026-04 star:0.0k fork:0.0k TAPA compiles task-parallel HLS program into high-performance FPGA accelerators. Community-maintained.
+- [tuna/tapa](https://github.com/tuna/tapa) topic: pushed_at:2026-07 star:0.0k fork:0.0k TAPA compiles task-parallel HLS program into high-performance FPGA accelerators. Community-maintained.
 
 ## CSS
 
@@ -53,7 +53,7 @@
 - [tuna/freedns-go](https://github.com/tuna/freedns-go) topic: pushed_at:2021-11 star:0.2k fork:0.0k Optimized DNS Server for Chinese users.
 - [tuna/mirrorhub](https://github.com/tuna/mirrorhub) topic: pushed_at:2016-09 star:0.0k fork:0.0k Redirects the user to a nearby mirror site.
 - [tuna/tunaccount](https://github.com/tuna/tunaccount) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
-- [tuna/tunasync](https://github.com/tuna/tunasync) topic: pushed_at:2026-06 star:1.9k fork:0.3k Mirror job management tool. 
+- [tuna/tunasync](https://github.com/tuna/tunasync) topic: pushed_at:2026-07 star:1.9k fork:0.3k Mirror job management tool. 
 
 ## HTML
 
@@ -109,7 +109,7 @@
 - [tuna/scripts](https://github.com/tuna/scripts) topic: pushed_at:2018-01 star:0.0k fork:0.0k 
 - [tuna/telegram2irc](https://github.com/tuna/telegram2irc) topic: pushed_at:2015-06 star:0.0k fork:0.0k A bot connect IRC and Telegram. Multiple binding is supported.
 - [tuna/thuroutes](https://github.com/tuna/thuroutes) topic: pushed_at:2016-05 star:0.0k fork:0.0k Forked from https://chnroutes.googlecode.com/
-- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) topic: pushed_at:2026-06 star:0.5k fork:0.2k Custom scripts for mirror jobs
+- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) topic: pushed_at:2026-07 star:0.5k fork:0.2k Custom scripts for mirror jobs
 
 ## Ruby
 
