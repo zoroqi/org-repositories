@@ -81,7 +81,7 @@
 - [twitter/SentenTree](https://github.com/twitter/SentenTree) topic: pushed_at:2023-04 star:0.2k fork:0.1k A novel text visualization technique
 - [twitter/twitter-cldr-js](https://github.com/twitter/twitter-cldr-js) topic: pushed_at:2023-04 star:0.3k fork:0.1k JavaScript implementation of the ICU (International Components for Unicode) that uses the Common Locale Data Repository to format dates, plurals, and more.  Based on twitter-cldr-rb.
 - [twitter/twitter-cldr-npm](https://github.com/twitter/twitter-cldr-npm) topic: pushed_at:2023-04 star:0.1k fork:0.0k TwitterCldr npm package
-- [twitter/typeahead.js](https://github.com/twitter/typeahead.js) topic: pushed_at:2023-04 star:16.5k fork:3.1k typeahead.js is a fast and fully-featured autocomplete library
+- [twitter/typeahead.js](https://github.com/twitter/typeahead.js) topic: pushed_at:2023-04 star:16.4k fork:3.1k typeahead.js is a fast and fully-featured autocomplete library
 
 ## Kotlin
 
@@ -150,7 +150,7 @@
 - [twitter/bijection](https://github.com/twitter/bijection) topic: pushed_at:2024-11 star:0.7k fork:0.1k Reversible conversions between types
 - [twitter/cassovary](https://github.com/twitter/cassovary) topic: pushed_at:2021-10 star:1.1k fork:0.1k Cassovary is a simple big graph processing library for the JVM
 - [twitter/chill](https://github.com/twitter/chill) topic: pushed_at:2024-08 star:0.6k fork:0.2k Scala extensions for the Kryo serialization library
-- [twitter/finagle](https://github.com/twitter/finagle) topic:distributed-systems,finagle,http,http2,java,memcached,mysql,redis,rpc,scala,thrift,zipkin pushed_at:2026-04 star:8.9k fork:1.4k A fault tolerant, protocol-agnostic RPC system
+- [twitter/finagle](https://github.com/twitter/finagle) topic:distributed-systems,finagle,http,http2,java,memcached,mysql,redis,rpc,scala,thrift,zipkin pushed_at:2026-07 star:8.9k fork:1.4k A fault tolerant, protocol-agnostic RPC system
 - [twitter/finatra](https://github.com/twitter/finatra) topic:finagle,framework,guice,http,microservices,scala,slf4j,testing,thrift,twitter-server pushed_at:2025-08 star:2.3k fork:0.4k Fast, testable, Scala services built on TwitterServer and Finagle
 - [twitter/iago2](https://github.com/twitter/iago2) topic: pushed_at:2023-04 star:0.0k fork:0.0k A load generator, built for engineers
 - [twitter/rsc](https://github.com/twitter/rsc) topic: pushed_at:2021-10 star:1.2k fork:0.0k Experimental Scala compiler focused on compilation speed

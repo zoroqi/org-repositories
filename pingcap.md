@@ -90,7 +90,7 @@
 - [pingcap/public_bi_benchmark](https://github.com/pingcap/public_bi_benchmark) topic: pushed_at:2022-04 star:0.0k fork:0.0k BI benchmark with user generated data and queries
 - [pingcap/sysutil](https://github.com/pingcap/sysutil) topic: pushed_at:2026-03 star:0.0k fork:0.0k sysutil is a library which implementats the gRPC service Diagnostics and shares the diagnostics functions between TiDB and PD.
 - [pingcap/ticdc](https://github.com/pingcap/ticdc) topic: pushed_at:2026-07 star:0.1k fork:0.1k TiCDC pulls change logs out of TiDB and pushes to kinds of systems.
-- [pingcap/tidb](https://github.com/pingcap/tidb) topic:agent,agent-context,agent-memory,agentic,ai,cloud-native,database,distributed-database,distributed-transactions,go,hacktoberfest,htap,memory,mysql,mysql-compatibility,scale,serverless,sql,tidb pushed_at:2026-07 star:40.3k fork:6.2k TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.
+- [pingcap/tidb](https://github.com/pingcap/tidb) topic:agent,agent-context,agent-memory,agentic,ai,cloud-native,database,distributed-database,distributed-transactions,go,hacktoberfest,htap,memory,mysql,mysql-compatibility,scale,serverless,sql,tidb pushed_at:2026-08 star:40.4k fork:6.2k TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling.
 - [pingcap/tidb-binlog](https://github.com/pingcap/tidb-binlog) topic: pushed_at:2026-06 star:0.3k fork:0.1k A tool used to collect and merge tidb's binlog for real-time data backup and synchronization.
 - [pingcap/tidb-cloud-backup](https://github.com/pingcap/tidb-cloud-backup) topic: pushed_at:2020-02 star:0.0k fork:0.0k 
 - [pingcap/tidb-ctl](https://github.com/pingcap/tidb-ctl) topic: pushed_at:2025-04 star:0.0k fork:0.0k TiDB Controller
@@ -105,7 +105,7 @@
 - [pingcap/tipocket](https://github.com/pingcap/tipocket) topic:chaos,chaos-mesh,consistency,elle,golang,isolation,sqlsmith pushed_at:2023-02 star:0.1k fork:0.1k A toolkit for testing TiDB
 - [pingcap/tiproxy](https://github.com/pingcap/tiproxy) topic: pushed_at:2026-07 star:0.1k fork:0.0k 
 - [pingcap/tiunimanager](https://github.com/pingcap/tiunimanager) topic: pushed_at:2026-06 star:0.0k fork:0.0k TiUniManager
-- [pingcap/tiup](https://github.com/pingcap/tiup) topic:cluster,playground,tidb,tidb-components,tiup pushed_at:2026-06 star:0.5k fork:0.3k A component manager for TiDB
+- [pingcap/tiup](https://github.com/pingcap/tiup) topic:cluster,playground,tidb,tidb-components,tiup pushed_at:2026-07 star:0.5k fork:0.3k A component manager for TiDB
 - [pingcap/tso](https://github.com/pingcap/tso) topic: pushed_at:2016-02 star:0.0k fork:0.0k Timestamp Oracle
 - [pingcap/work-reporter](https://github.com/pingcap/work-reporter) topic: pushed_at:2019-08 star:0.0k fork:0.0k A simple tool to generate report from Jira/Github for our TiDB team
 
@@ -177,7 +177,7 @@
 - [pingcap/docs-appdev](https://github.com/pingcap/docs-appdev) topic: pushed_at:2022-06 star:0.0k fork:0.0k 
 - [pingcap/docs-cn](https://github.com/pingcap/docs-cn) topic:hacktoberfest,tidb,tidb-documentation pushed_at:2026-07 star:1.8k fork:1.2k TiDB/TiKV/PD 中文文档
 - [pingcap/docs-dm](https://github.com/pingcap/docs-dm) topic:dm-documentation,hacktoberfest,tidb-data-migration,tidb-dm pushed_at:2024-11 star:0.0k fork:0.1k Archived documentation for the TiDB Data Migration (DM) tool in both English and Chinese.
-- [pingcap/docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator) topic:hacktoberfest,tidb-in-kubernetes,tidb-operator,tidb-operator-documentation pushed_at:2026-06 star:0.1k fork:0.1k Documentation for TiDB on Kubernetes. TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at: https://www.pingcap.com/tidb-cloud-serverless/
+- [pingcap/docs-tidb-operator](https://github.com/pingcap/docs-tidb-operator) topic:hacktoberfest,tidb-in-kubernetes,tidb-operator,tidb-operator-documentation pushed_at:2026-07 star:0.1k fork:0.1k Documentation for TiDB on Kubernetes. TiDB is an open-source, cloud-native, distributed, MySQL-Compatible database for elastic scale and real-time analytics. Try AI-powered Chat2Query free at: https://www.pingcap.com/tidb-cloud-serverless/
 - [pingcap/education](https://github.com/pingcap/education) topic: pushed_at:2022-08 star:0.0k fork:0.0k 
 - [pingcap/oasis](https://github.com/pingcap/oasis) topic: pushed_at:2018-05 star:0.0k fork:0.0k 
 - [pingcap/pingcap.github.io](https://github.com/pingcap/pingcap.github.io) topic: pushed_at:2025-12 star:0.4k fork:0.1k TiDB AI SDK Documentations - https://pingcap.github.io/ai/
@@ -234,7 +234,7 @@
 
 ## TypeScript
 
-- [pingcap/autoflow](https://github.com/pingcap/autoflow) topic:chatbot,cot,graphrag,knowledge-graph,mysql,rag,serverless,vector-database pushed_at:2026-04 star:2.8k fork:0.2k pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai
+- [pingcap/autoflow](https://github.com/pingcap/autoflow) topic:chatbot,cot,graphrag,knowledge-graph,mysql,rag,serverless,vector-database pushed_at:2026-04 star:3.0k fork:0.2k pingcap/autoflow is a Graph RAG based and conversational knowledge base tool built with TiDB Serverless Vector Storage. Demo: https://tidb.ai
 - [pingcap/diagnosis-ui](https://github.com/pingcap/diagnosis-ui) topic: pushed_at:2023-02 star:0.0k fork:0.0k 
 - [pingcap/full-stack-app-builder-ai-agent](https://github.com/pingcap/full-stack-app-builder-ai-agent) topic:codegen,database,database-branching,full-stack-ai-agent pushed_at:2025-12 star:0.0k fork:0.0k 
 - [pingcap/gdocwiki](https://github.com/pingcap/gdocwiki) topic: pushed_at:2023-03 star:0.1k fork:0.0k A wiki based on Google Doc / Drive

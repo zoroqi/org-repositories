@@ -18,9 +18,9 @@
 - [Makefile](#makefile) (1)
 - [OCaml](#ocaml) (1)
 - [Objective-C](#objective-c) (4)
-- [Others](#others) (22)
+- [Others](#others) (21)
 - [PHP](#php) (1)
-- [Python](#python) (24)
+- [Python](#python) (25)
 - [Ruby](#ruby) (3)
 - [Rust](#rust) (1)
 - [Scala](#scala) (1)
@@ -69,7 +69,7 @@
 - [uber/starlark-go](https://github.com/uber/starlark-go) topic: pushed_at:2023-01 star:0.0k fork:0.0k Uber fork:  Starlark in Go: the Starlark configuration language, implemented in Go
 - [uber/storagetapper](https://github.com/uber/storagetapper) topic:avro,cdc,clickhouse,etl,hdfs,json,kafka,msgpack,mysql,postgresql,s3 pushed_at:2023-03 star:0.4k fork:0.1k StorageTapper is a scalable realtime MySQL change data streaming, logical backup and logical replication service
 - [uber/submitqueue](https://github.com/uber/submitqueue) topic:distributed-systems,golang,merge-queue,speculation,uber pushed_at:2026-07 star:0.0k fork:0.0k SubmitQueue is a high-performance speculative merge queue that keeps your trunk consistently green at scale.
-- [uber/tango](https://github.com/uber/tango) topic:distributed-systems,golang,target-analysis,target-graph pushed_at:2026-07 star:0.0k fork:0.0k Tango provides a way to compute the changed targets for a given base and head and conflict graph. Uber's SubmitQueue relies on it to get changed targets to speculate the requests.
+- [uber/tango](https://github.com/uber/tango) topic:distributed-systems,golang,target-analysis,target-graph pushed_at:2026-08 star:0.0k fork:0.0k Tango provides a way to compute the changed targets for a given base and head and conflict graph. Uber's SubmitQueue relies on it to get changed targets to speculate the requests.
 - [uber/tchannel-go](https://github.com/uber/tchannel-go) topic: pushed_at:2026-03 star:0.5k fork:0.1k Go implementation of a multiplexing and framing protocol for RPC calls
 - [uber/uberalls](https://github.com/uber/uberalls) topic: pushed_at:2020-03 star:0.2k fork:0.0k Track code coverage metrics with Jenkins and Phabricator
 - [uber/zanzibar](https://github.com/uber/zanzibar) topic: pushed_at:2024-10 star:0.5k fork:0.1k A build system & configuration system to generate versioned API gateways.
@@ -89,9 +89,9 @@
 - [uber/AutoDispose](https://github.com/uber/AutoDispose) topic:android,autodispose,kotlin,lifecycle,reactive-extensions,reactive-streams,rxandroid,rxjava,uber pushed_at:2026-05 star:3.3k fork:0.2k Automatic binding+disposal of RxJava streams.
 - [uber/concurrency-loadbalancer](https://github.com/uber/concurrency-loadbalancer) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [uber/dynamodb-cross-region-library](https://github.com/uber/dynamodb-cross-region-library) topic: pushed_at:2023-03 star:0.0k fork:0.0k A library to facilitate cross-region replication with Amazon DynamoDB Streams.
-- [uber/h3-java](https://github.com/uber/h3-java) topic:geospatial,h3,hexagon,java,spatial-indexing,uber pushed_at:2026-02 star:0.3k fork:0.1k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
+- [uber/h3-java](https://github.com/uber/h3-java) topic:geospatial,h3,hexagon,java,spatial-indexing,uber pushed_at:2026-07 star:0.3k fork:0.1k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/marmaray](https://github.com/uber/marmaray) topic:avro-schema,data-lake,hadoop,ingest-data,schema-format,spark pushed_at:2023-03 star:0.5k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
-- [uber/NullAway](https://github.com/uber/NullAway) topic:android,java,nullability,nullability-analysis,static-analysis,static-code-analysis pushed_at:2026-07 star:4.1k fork:0.3k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
+- [uber/NullAway](https://github.com/uber/NullAway) topic:android,java,nullability,nullability-analysis,static-analysis,static-code-analysis pushed_at:2026-08 star:4.1k fork:0.4k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [uber/okbuck](https://github.com/uber/okbuck) topic:android,buck,gradle,gradle-plugin,watchman pushed_at:2026-03 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
 - [uber/RemoteShuffleService](https://github.com/uber/RemoteShuffleService) topic: pushed_at:2023-09 star:0.3k fork:0.1k Remote shuffle service for Apache Spark to store shuffle data on remote servers. 
 - [uber/rides-android-sdk](https://github.com/uber/rides-android-sdk) topic: pushed_at:2026-06 star:0.3k fork:0.1k Uber Rides Android SDK (beta)
@@ -147,7 +147,7 @@
 - [uber/artist](https://github.com/uber/artist) topic:android,codegen,kotlin,plugin,view pushed_at:2023-07 star:0.2k fork:0.0k An artist creates views. Artist is a Gradle plugin that codegens a base set of Android Views.
 - [uber/crumb](https://github.com/uber/crumb) topic:android,annotation-processor,java,kotlin,metadata pushed_at:2021-12 star:0.1k fork:0.0k An annotation processor for breadcrumbing metadata across compilation boundaries.
 - [uber/lint-checks](https://github.com/uber/lint-checks) topic:android,lint,sandbox,static-analysis pushed_at:2020-11 star:0.1k fork:0.0k A set of opinionated and useful lint checks
-- [uber/motif](https://github.com/uber/motif) topic: pushed_at:2026-06 star:0.5k fork:0.0k A simple DI API for Android / Java
+- [uber/motif](https://github.com/uber/motif) topic: pushed_at:2026-07 star:0.5k fork:0.0k A simple DI API for Android / Java
 - [uber/RIBs](https://github.com/uber/RIBs) topic:android,architectural-patterns,architecture,mobile,mobile-app,mobile-development,mvc,mvp,mvvm,viper pushed_at:2026-07 star:7.9k fork:0.9k Uber's cross-platform mobile architecture framework - Android Repository
 - [uber/stylist](https://github.com/uber/stylist) topic:android,codegen,kotlin,styles,themes pushed_at:2023-05 star:0.4k fork:0.0k A stylist creates cool styles. Stylist is a Gradle plugin that codegens a base set of Android XML themes.
 
@@ -162,14 +162,13 @@
 ## Objective-C
 
 - [uber/ios-snapshot-test-case](https://github.com/uber/ios-snapshot-test-case) topic: pushed_at:2025-12 star:1.9k fork:0.2k Snapshot view unit tests for iOS
-- [uber/signals-ios](https://github.com/uber/signals-ios) topic: pushed_at:2019-01 star:0.5k fork:0.0k Typeful eventing
+- [uber/signals-ios](https://github.com/uber/signals-ios) topic: pushed_at:2019-01 star:0.5k fork:0.1k Typeful eventing
 - [uber/startup-reason-reporter](https://github.com/uber/startup-reason-reporter) topic: pushed_at:2018-07 star:0.1k fork:0.0k Reports the reason why an iOS App started.
 - [uber/UberSignature](https://github.com/uber/UberSignature) topic:ios,ios-app pushed_at:2020-09 star:1.3k fork:0.2k Provides an iOS view controller allowing a user to draw their signature with their finger in a realistic style.
 
 ## Others
 
 - [uber/.github](https://github.com/uber/.github) topic: pushed_at:2026-01 star:0.0k fork:0.0k 
-- [uber/ADR](https://github.com/uber/ADR) topic: pushed_at:2026-07 star:0.0k fork:0.0k ADR (Agentic Detection and Response): open-source telemetry sensor and dual-agent detection framework for securing MCP-based AI agents.
 - [uber/grafana-tempo-fork](https://github.com/uber/grafana-tempo-fork) topic: pushed_at:2024-07 star:0.0k fork:0.0k Uber fork of Grafana Tempo
 - [uber/hystrix-go](https://github.com/uber/hystrix-go) topic: pushed_at:2022-12 star:0.0k fork:0.0k Uber Fork:  Netflix's Hystrix latency and fault tolerance library, for Go 
 - [uber/jaeger](https://github.com/uber/jaeger) topic: pushed_at:2023-07 star:0.0k fork:0.0k Uber fork of CNCF Jaeger, a Distributed Tracing Platform - for Pull Requests
@@ -197,10 +196,11 @@
 
 ## Python
 
+- [uber/ADR](https://github.com/uber/ADR) topic:agent-security,ai-agents,ai-security,benchmark,claude,claude-code,codex,cursor,llm-security,mcp,model-context-protocol,prompt-injection,threat-detection pushed_at:2026-07 star:0.0k fork:0.0k ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 - [uber/aristotle](https://github.com/uber/aristotle) topic: pushed_at:2025-10 star:0.0k fork:0.0k Uber Fork of Aristotle - for contribution purposes
 - [uber/bayesmark](https://github.com/uber/bayesmark) topic:bayesian-optimization,benchmark-framework,machine-learning,sklearn pushed_at:2021-06 star:0.2k fork:0.0k Benchmark framework to easily compare Bayesian optimization methods on real machine learning tasks
 - [uber/cassette](https://github.com/uber/cassette) topic: pushed_at:2023-05 star:0.1k fork:0.0k Store and replay HTTP requests made in your Python app
-- [uber/causalml](https://github.com/uber/causalml) topic:causal-inference,incubation,machine-learning,uplift-modeling pushed_at:2026-07 star:5.9k fork:0.9k Uplift modeling and causal inference with machine learning algorithms
+- [uber/causalml](https://github.com/uber/causalml) topic:causal-inference,incubation,machine-learning,uplift-modeling pushed_at:2026-08 star:5.9k fork:0.9k Uplift modeling and causal inference with machine learning algorithms
 - [uber/charlatan](https://github.com/uber/charlatan) topic: pushed_at:2019-09 star:0.1k fork:0.0k A Python library to efficiently manage and install database fixtures
 - [uber/clay](https://github.com/uber/clay) topic: pushed_at:2023-08 star:0.4k fork:0.0k Clay is a framework for building RESTful backend services using best practices. It’s a wrapper around Flask.
 - [uber/doubles](https://github.com/uber/doubles) topic: pushed_at:2026-04 star:0.2k fork:0.0k Test doubles for Python.
@@ -271,7 +271,7 @@
 
 - [uber/base-design-docs](https://github.com/uber/base-design-docs) topic:design-system,documentation pushed_at:2024-01 star:0.0k fork:0.0k A documentation site for the Base design system.
 - [uber/baseweb](https://github.com/uber/baseweb) topic:component-library,design-systems,react,react-components pushed_at:2026-07 star:9.0k fork:0.9k A React Component library implementing the Base design language
-- [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) topic: pushed_at:2026-06 star:0.5k fork:0.1k grafana dash dash dash gen
+- [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) topic: pushed_at:2026-07 star:0.5k fork:0.1k grafana dash dash dash gen
 - [uber/nebula.gl](https://github.com/uber/nebula.gl) topic:deck-gl,uber,webgl pushed_at:2024-05 star:0.7k fork:0.2k A suite of 3D-enabled data editing overlays, suitable for deck.gl
 - [uber/react-view](https://github.com/uber/react-view) topic:code-generator,documentation,playground,react pushed_at:2024-10 star:0.7k fork:0.0k React View is an interactive playground, documentation and code generator for your components.
 - [uber/vscode-bazel-bsp](https://github.com/uber/vscode-bazel-bsp) topic:bazel,build-server-protocol,testing-tools,vscode-extension pushed_at:2026-05 star:0.0k fork:0.0k VS Code extension to provide integration with Bazel BSP, leveraging Build Server Protocol.  Currently focused on VS Code test explorer integration.

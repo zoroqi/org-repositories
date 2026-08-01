@@ -158,7 +158,7 @@
 ## Rust
 
 - [EFForg/adb_client](https://github.com/EFForg/adb_client) topic: pushed_at:2025-09 star:0.0k fork:0.0k Rust ADB (Android Debug Bridge) client library
-- [EFForg/apkeep](https://github.com/EFForg/apkeep) topic: pushed_at:2026-05 star:2.0k fork:0.1k A command-line tool for downloading APK files from various sources
+- [EFForg/apkeep](https://github.com/EFForg/apkeep) topic: pushed_at:2026-05 star:2.0k fork:0.2k A command-line tool for downloading APK files from various sources
 - [EFForg/generate-smarter-encryption-bloom-filter](https://github.com/EFForg/generate-smarter-encryption-bloom-filter) topic: pushed_at:2023-01 star:0.0k fork:0.0k Generates the bloom file needed for HTTPS Everywhere's DuckDuckGo Smarter Encryption update channel.
 - [EFForg/https-everywhere-lib-core](https://github.com/EFForg/https-everywhere-lib-core) topic: pushed_at:2023-01 star:0.0k fork:0.0k Core Rust library for HTTPS Everywhere
 - [EFForg/https-everywhere-lib-wasm](https://github.com/EFForg/https-everywhere-lib-wasm) topic: pushed_at:2021-02 star:0.0k fork:0.0k A library for HTTPS Everywhere which compiles to WASM
@@ -170,7 +170,7 @@
 
 ## SCSS
 
-- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) topic: pushed_at:2026-06 star:0.0k fork:0.0k Code and content of https://privacybadger.org
+- [EFForg/privacybadger-website](https://github.com/EFForg/privacybadger-website) topic: pushed_at:2026-07 star:0.0k fork:0.0k Code and content of https://privacybadger.org
 
 ## Sass
 
