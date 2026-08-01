@@ -73,7 +73,7 @@
 
 ## JSON
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) topic:compat,compatibility,data,dataset,json pushed_at:2026-07 star:5.7k fork:2.6k Browser compatibility data for Web technologies as displayed on MDN
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) topic:compat,compatibility,data,dataset,json pushed_at:2026-08 star:5.7k fork:2.6k Browser compatibility data for Web technologies as displayed on MDN
 
 ## JavaScript
 
@@ -144,7 +144,7 @@
 
 ## Mermaid
 
-- [mdn/shared-assets](https://github.com/mdn/shared-assets) topic:assets,examples,infra pushed_at:2026-06 star:0.0k fork:0.0k A repository for media and assets to be used across MDN Web Docs
+- [mdn/shared-assets](https://github.com/mdn/shared-assets) topic:assets,examples,infra pushed_at:2026-07 star:0.0k fork:0.0k A repository for media and assets to be used across MDN Web Docs
 
 ## Others
 
@@ -164,7 +164,7 @@
 - [mdn/sprints](https://github.com/mdn/sprints) topic:mdn pushed_at:2024-01 star:0.2k fork:0.1k Archived: MDN Web Docs issues are tracked in the content repository.
 - [mdn/temp-processes](https://github.com/mdn/temp-processes) topic: pushed_at:2023-01 star:0.0k fork:0.0k Temp repository to define issue & pr processes with mermaid flow charts
 - [mdn/wiki-revision-history](https://github.com/mdn/wiki-revision-history) topic:mdn pushed_at:2021-01 star:0.0k fork:0.0k An accurate CSV record of who made what revisions to MDN Web Docs when it was a Wiki platform
-- [mdn/workflows](https://github.com/mdn/workflows) topic:github-actions,infra pushed_at:2026-06 star:0.1k fork:0.0k Reusable GitHub Actions workflows
+- [mdn/workflows](https://github.com/mdn/workflows) topic:github-actions,infra pushed_at:2026-07 star:0.1k fork:0.0k Reusable GitHub Actions workflows
 
 ## PHP
 
@@ -183,7 +183,7 @@
 
 ## Rust
 
-- [mdn/differy](https://github.com/mdn/differy) topic: pushed_at:2026-06 star:0.0k fork:0.0k 
+- [mdn/differy](https://github.com/mdn/differy) topic: pushed_at:2026-07 star:0.0k fork:0.0k 
 - [mdn/rari](https://github.com/mdn/rari) topic:infra pushed_at:2026-07 star:0.1k fork:0.0k Rari is a Rust-based build system that transforms markdown into structured JSON, powering MDN Web Docs content and translations since 2024.
 - [mdn/rumba](https://github.com/mdn/rumba) topic:rust pushed_at:2026-07 star:0.1k fork:0.0k The clean kuma (🤖🧹)
 

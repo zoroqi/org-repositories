@@ -409,7 +409,7 @@
 - [apachecn/mitnicksecurity-zh](https://github.com/apachecn/mitnicksecurity-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
 - [apachecn/mkyong-blog-zh](https://github.com/apachecn/mkyong-blog-zh) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [apachecn/ml-mastery-zh](https://github.com/apachecn/ml-mastery-zh) topic: pushed_at:2025-02 star:0.8k fork:0.2k :book: [译] MachineLearningMastery 博客文章
-- [apachecn/ml-mastery-zh-pt2](https://github.com/apachecn/ml-mastery-zh-pt2) topic: pushed_at:2022-07 star:0.0k fork:0.0k 
+- [apachecn/ml-mastery-zh-pt2](https://github.com/apachecn/ml-mastery-zh-pt2) topic: pushed_at:2022-07 star:0.1k fork:0.0k 
 - [apachecn/mlearningai-blog-zh](https://github.com/apachecn/mlearningai-blog-zh) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [apachecn/moesif-blog-zh](https://github.com/apachecn/moesif-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Moesif 博客中文翻译
 - [apachecn/moralis-blog-zh](https://github.com/apachecn/moralis-blog-zh) topic: pushed_at:2022-12 star:0.0k fork:0.0k :books: Moralis 博客中文翻译
@@ -521,7 +521,7 @@
 
 ## Jupyter Notebook
 
-- [apachecn/Interview](https://github.com/apachecn/Interview) topic:interview,kaggle,leetcode,machine-learning,python pushed_at:2023-10 star:9.0k fork:2.2k Interview = 简历指南 + 算法题 + 八股文 + 源码分析
+- [apachecn/Interview](https://github.com/apachecn/Interview) topic:interview,kaggle,leetcode,machine-learning,python pushed_at:2023-10 star:9.0k fork:2.1k Interview = 简历指南 + 算法题 + 八股文 + 源码分析
 - [apachecn/Multimodal-short-video-dataset-and-baseline-classification-model](https://github.com/apachecn/Multimodal-short-video-dataset-and-baseline-classification-model) topic: pushed_at:2019-07 star:0.0k fork:0.0k multimodal short video datasets and  classification model(based on TensorFlow2.0 本资源含有50多万条多模态短视频数据集和对应的分类模型，旨在打造多模态分类框架。
 
 ## Others
@@ -791,7 +791,7 @@
 - [apachecn/HOW2J-tuts](https://github.com/apachecn/HOW2J-tuts) topic: pushed_at:2021-08 star:0.0k fork:0.0k 
 - [apachecn/huazhang-ai-book](https://github.com/apachecn/huazhang-ai-book) topic: pushed_at:2023-01 star:0.0k fork:0.0k :books: 华章智能科学技术丛书
 - [apachecn/huazhang-cs-books](https://github.com/apachecn/huazhang-cs-books) topic: pushed_at:2023-01 star:1.2k fork:0.4k :books: 华章计算机科学丛书高清扫描
-- [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) topic: pushed_at:2023-02 star:0.1k fork:0.1k :book: 华章经管丛书高清扫描
+- [apachecn/huazhang-econ-mgt-book](https://github.com/apachecn/huazhang-econ-mgt-book) topic: pushed_at:2023-02 star:0.2k fork:0.1k :book: 华章经管丛书高清扫描
 - [apachecn/huazhang-math-book](https://github.com/apachecn/huazhang-math-book) topic: pushed_at:2023-01 star:0.6k fork:0.2k :books: 华章数学丛书高清扫描
 - [apachecn/huggingface-doc-zh](https://github.com/apachecn/huggingface-doc-zh) topic: pushed_at:2025-09 star:0.0k fork:0.0k Hugging Face - 文档库(中文版)
 - [apachecn/hugo-PaperModX](https://github.com/apachecn/hugo-PaperModX) topic: pushed_at:2023-04 star:0.0k fork:0.0k A fast, clean, responsive Hugo theme.
@@ -994,7 +994,7 @@
 - [apachecn/PD-Runner-Revived](https://github.com/apachecn/PD-Runner-Revived) topic: pushed_at:2022-11 star:0.0k fork:0.0k PD-Runner (Parallels Desktop) 补档
 - [apachecn/PeiQi-WIKI-POC](https://github.com/apachecn/PeiQi-WIKI-POC) topic: pushed_at:2021-07 star:0.0k fork:0.0k 鹿不在侧，鲸不予游🐋
 - [apachecn/pelican-themes](https://github.com/apachecn/pelican-themes) topic: pushed_at:2022-10 star:0.0k fork:0.0k Themes for Pelican
-- [apachecn/phei-cs-book](https://github.com/apachecn/phei-cs-book) topic: pushed_at:2023-02 star:0.3k fork:0.1k :books: 电子工业国外计算机教材丛书
+- [apachecn/phei-cs-book](https://github.com/apachecn/phei-cs-book) topic: pushed_at:2023-02 star:0.4k fork:0.1k :books: 电子工业国外计算机教材丛书
 - [apachecn/phoenix-doc-zh](https://github.com/apachecn/phoenix-doc-zh) topic: pushed_at:2019-04 star:0.0k fork:0.0k Phoenix 中文文档翻译计划
 - [apachecn/Planning-based-Hierarchical-Variational-Model](https://github.com/apachecn/Planning-based-Hierarchical-Variational-Model) topic: pushed_at:2020-04 star:0.0k fork:0.0k Dataset and code for ``Long and Diverse Text Generation with Planning-based Hierarchical Variational Model (EMNLP 2019)``
 - [apachecn/PlayCover](https://github.com/apachecn/PlayCover) topic: pushed_at:2023-06 star:0.0k fork:0.0k Community fork of PlayCover
