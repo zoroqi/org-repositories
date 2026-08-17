@@ -30,7 +30,7 @@
 ## C++
 
 - [tuna/QSerial](https://github.com/tuna/QSerial) topic: pushed_at:2025-12 star:0.0k fork:0.0k An advanced cross-platform serial port utility
-- [tuna/tapa](https://github.com/tuna/tapa) topic: pushed_at:2026-08 star:0.0k fork:0.0k TAPA compiles task-parallel HLS program into high-performance FPGA accelerators. Community-maintained.
+- [tuna/tapa](https://github.com/tuna/tapa) topic: pushed_at:2026-08 star:0.0k fork:0.0k TAPA compiles task-parallel HLS program into high-performance FPGA accelerators.
 
 ## CSS
 
@@ -59,14 +59,14 @@
 
 - [tuna/mirrorcon](https://github.com/tuna/mirrorcon) topic: pushed_at:2017-09 star:0.0k fork:0.0k Website of MirrorCon 2017
 - [tuna/registr-lite](https://github.com/tuna/registr-lite) topic: pushed_at:2026-03 star:0.0k fork:0.0k A lightweight registr with only a bare RESTful API.
-- [tuna/tuna.moe](https://github.com/tuna/tuna.moe) topic: pushed_at:2026-07 star:0.1k fork:0.0k Source code for https://tuna.moe
+- [tuna/tuna.moe](https://github.com/tuna/tuna.moe) topic: pushed_at:2026-08 star:0.1k fork:0.0k Source code for https://tuna.moe
 
 ## JavaScript
 
 - [tuna/danmaQ](https://github.com/tuna/danmaQ) topic: pushed_at:2025-04 star:0.2k fork:0.0k danmaku client implemented in Qt
 - [tuna/fakeTunet](https://github.com/tuna/fakeTunet) topic: pushed_at:2016-05 star:0.0k fork:0.0k a fake net.tsinghua.edu.cn
 - [tuna/Logbot](https://github.com/tuna/Logbot) topic: pushed_at:2014-11 star:0.0k fork:0.0k Simple IRC logger with realtime web-based viewer
-- [tuna/mirror-web](https://github.com/tuna/mirror-web) topic: pushed_at:2026-07 star:0.9k fork:0.3k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
+- [tuna/mirror-web](https://github.com/tuna/mirror-web) topic: pushed_at:2026-08 star:0.9k fork:0.3k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
 - [tuna/registr](https://github.com/tuna/registr) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [tuna/tunasay](https://github.com/tuna/tunasay) topic: pushed_at:2017-06 star:0.0k fork:0.0k tunasay is a configurable talking tuna
 
@@ -93,7 +93,7 @@
 ## Python
 
 - [tuna/bandersnatch](https://github.com/tuna/bandersnatch) topic: pushed_at:2020-02 star:0.0k fork:0.0k A PyPI mirror client according to PEP 381 http://www.python.org/dev/peps/pep-0381/
-- [tuna/blogroll](https://github.com/tuna/blogroll) topic: pushed_at:2026-06 star:0.9k fork:0.1k 世界一流兼容并包TUNA协会收集的周围同学们的Blog
+- [tuna/blogroll](https://github.com/tuna/blogroll) topic: pushed_at:2026-06 star:1.0k fork:0.1k 世界一流兼容并包TUNA协会收集的周围同学们的Blog
 - [tuna/Cash](https://github.com/tuna/Cash) topic: pushed_at:2026-05 star:0.0k fork:0.0k 
 - [tuna/django-helpdesk](https://github.com/tuna/django-helpdesk) topic: pushed_at:2014-12 star:0.0k fork:0.0k A Django application to manage tickets for an internal helpdesk. Formerly known as Jutda Helpdesk.
 - [tuna/feed_tuna](https://github.com/tuna/feed_tuna) topic: pushed_at:2017-09 star:0.0k fork:0.0k Telegram shop/payment bot 金枪鱼喂食计划
