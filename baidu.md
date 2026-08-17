@@ -28,7 +28,7 @@
 
 - [baidu/baidu-iot-samples](https://github.com/baidu/baidu-iot-samples) topic: pushed_at:2019-10 star:0.1k fork:0.1k 
 - [baidu/boteye_sensor](https://github.com/baidu/boteye_sensor) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/dperf](https://github.com/baidu/dperf) topic:benchmark,dpdk,l4lb,linux-networking,load-testing,network-benchmarking,packet-generator,performance,performance-testing,tcp,user-space-networking,user-space-tcp pushed_at:2026-07 star:5.6k fork:0.6k dperf: High-Performance Network Load Testing Tool Based on DPDK
+- [baidu/dperf](https://github.com/baidu/dperf) topic:benchmark,dpdk,l4lb,linux-networking,load-testing,network-benchmarking,packet-generator,performance,performance-testing,tcp,user-space-networking,user-space-tcp pushed_at:2026-08 star:5.6k fork:0.6k dperf: High-Performance Network Load Testing Tool Based on DPDK
 - [baidu/du1906_esp](https://github.com/baidu/du1906_esp) topic: pushed_at:2023-05 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
 - [baidu/iot-edge-sdk-for-iot-parser](https://github.com/baidu/iot-edge-sdk-for-iot-parser) topic: pushed_at:2019-02 star:0.1k fork:0.1k 
 - [baidu/iot-sdk-c](https://github.com/baidu/iot-sdk-c) topic:device-management,edge-sdk,mqtt,sdk pushed_at:2022-04 star:0.1k fork:0.1k device sdk for baidu IoT Core service, in c. Including MQTT client
@@ -44,7 +44,7 @@
 ## C++
 
 - [baidu/AnyQ](https://github.com/baidu/AnyQ) topic:dialogue,dialogue-systems,faq,faq-question-answering-system,faq-system,faqbot,qa-system,question-answering,semantic-matching pushed_at:2020-11 star:2.6k fork:0.7k FAQ-based Question Answering System
-- [baidu/babylon](https://github.com/baidu/babylon) topic: pushed_at:2026-03 star:0.6k fork:0.1k High-Performance C++ Fundamental Library
+- [baidu/babylon](https://github.com/baidu/babylon) topic: pushed_at:2026-03 star:0.7k fork:0.1k High-Performance C++ Fundamental Library
 - [baidu/BaikalDB](https://github.com/baidu/BaikalDB) topic:baikaldb,database,htap,mysql,raft,sql pushed_at:2026-06 star:1.2k fork:0.2k BaikalDB, A Distributed HTAP Database.
 - [baidu/bfs](https://github.com/baidu/bfs) topic: pushed_at:2018-12 star:2.8k fork:0.6k The Baidu File System.
 - [baidu/bigflow](https://github.com/baidu/bigflow) topic: pushed_at:2025-12 star:1.1k fork:0.2k Baidu Bigflow is an interface that allows for writing distributed computing programs and provides lots of simple, flexible, powerful APIs. Using Bigflow, you can easily handle data of any scale. Bigflow processes 4P+ data inside Baidu and runs about 10k jobs every day.
@@ -172,8 +172,8 @@
 - [baidu/pymochow](https://github.com/baidu/pymochow) topic: pushed_at:2026-05 star:0.0k fork:0.0k 
 - [baidu/QCompute](https://github.com/baidu/QCompute) topic: pushed_at:2023-12 star:0.1k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
 - [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2024-08 star:2.0k fork:0.4k Baidu's open-source Sentiment Analysis System.
-- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) topic: pushed_at:2026-07 star:21.1k fork:2.1k Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
-- [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun) topic: pushed_at:2026-07 star:0.5k fork:0.1k vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU.
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) topic: pushed_at:2026-07 star:23.9k fork:2.5k Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun) topic: pushed_at:2026-08 star:0.4k fork:0.1k vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) topic: pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
 
 ## Ruby

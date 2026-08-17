@@ -75,7 +75,7 @@
 - [apachecn/sklearn-cookbook-zh](https://github.com/apachecn/sklearn-cookbook-zh) topic:book,machine-learning,python,scikit-learn,sklearn pushed_at:2019-09 star:0.1k fork:0.0k :book: [译] Scikit-learn 秘籍
 - [apachecn/sklearn-doc-zh](https://github.com/apachecn/sklearn-doc-zh) topic:documentation,machine-learning,python,scikit-learn pushed_at:2023-07 star:5.2k fork:1.5k :book: [译] scikit-learn（sklearn） 中文文档
 - [apachecn/SocialMediaMining-zh](https://github.com/apachecn/SocialMediaMining-zh) topic: pushed_at:2023-12 star:0.0k fork:0.0k 社交媒体挖掘_翻译版
-- [apachecn/stanford-cs224n-notes-zh](https://github.com/apachecn/stanford-cs224n-notes-zh) topic: pushed_at:2020-09 star:0.3k fork:0.1k :book: 斯坦福 CS224n 自然语言处理中文笔记
+- [apachecn/stanford-cs224n-notes-zh](https://github.com/apachecn/stanford-cs224n-notes-zh) topic: pushed_at:2020-09 star:0.4k fork:0.1k :book: 斯坦福 CS224n 自然语言处理中文笔记
 - [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes) topic:freedom,lixiaolai,wealth pushed_at:2020-12 star:0.2k fork:0.1k :book: 通往财富自由之路精细笔记
 - [apachecn/think-comp-2e-zh](https://github.com/apachecn/think-comp-2e-zh) topic: pushed_at:2020-12 star:0.0k fork:0.0k :book: [译] 复杂性思维 中文第二版
 - [apachecn/think-dast-zh](https://github.com/apachecn/think-dast-zh) topic:book,data-structures,java pushed_at:2021-01 star:0.0k fork:0.0k :book: [译] 数据结构思维中文版
@@ -857,7 +857,7 @@
 - [apachecn/it-ebooks-2021-part2](https://github.com/apachecn/it-ebooks-2021-part2) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
 - [apachecn/it-ebooks-blog](https://github.com/apachecn/it-ebooks-blog) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/ituring-cs-book](https://github.com/apachecn/ituring-cs-book) topic: pushed_at:2023-02 star:0.1k fork:0.0k :books: 图灵计算机科学丛书
-- [apachecn/ituring-math-stat-book](https://github.com/apachecn/ituring-math-stat-book) topic: pushed_at:2023-02 star:0.0k fork:0.0k :books: 图灵数学统计学丛书
+- [apachecn/ituring-math-stat-book](https://github.com/apachecn/ituring-math-stat-book) topic: pushed_at:2023-02 star:0.1k fork:0.0k :books: 图灵数学统计学丛书
 - [apachecn/jaeger-all-in-one](https://github.com/apachecn/jaeger-all-in-one) topic: pushed_at:2023-01 star:0.0k fork:0.0k Jaeger tracing all-in-one service for development purposes
 - [apachecn/Japanese](https://github.com/apachecn/Japanese) topic: pushed_at:2021-09 star:0.0k fork:0.0k 日语学习资料汇总
 - [apachecn/Japanese1](https://github.com/apachecn/Japanese1) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
@@ -1041,7 +1041,7 @@
 - [apachecn/scripts](https://github.com/apachecn/scripts) topic: pushed_at:2022-01 star:0.0k fork:0.0k jd https://t.me/+fo3HSUe3nbRiNjY1
 - [apachecn/scripts-1](https://github.com/apachecn/scripts-1) topic: pushed_at:2021-12 star:0.0k fork:0.0k Shadowsocks/SS一键脚本、ShadowsocksR/SSR一键脚本、V2Ray一键脚本、trojan一键脚本、VPS教程
 - [apachecn/scys1](https://github.com/apachecn/scys1) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
-- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:1.8k fork:0.6k :books: 网安类绝版图书
+- [apachecn/sec-books-part1](https://github.com/apachecn/sec-books-part1) topic: pushed_at:2023-01 star:1.9k fork:0.6k :books: 网安类绝版图书
 - [apachecn/sec-books-part2](https://github.com/apachecn/sec-books-part2) topic: pushed_at:2023-01 star:0.1k fork:0.1k :books: 网安类绝版图书（二）
 - [apachecn/sec-gzh-2022](https://github.com/apachecn/sec-gzh-2022) topic: pushed_at:2023-04 star:0.0k fork:0.0k 网络安全类公众号离线备份
 - [apachecn/seebug-paper-2016-20xx](https://github.com/apachecn/seebug-paper-2016-20xx) topic: pushed_at:2022-12 star:0.0k fork:0.0k 
@@ -1202,7 +1202,7 @@
 
 ## Python
 
-- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:42.4k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
+- [apachecn/ailearning](https://github.com/apachecn/ailearning) topic:adaboost,apriori,deeplearning,dnn,fp-growth,kmeans,logistic,lstm,mahchine-leaning,naivebayes,nlp,pca,python,recommendedsystem,regression,rnn,scikit-learn,sklearn,svd,svm pushed_at:2024-11 star:42.5k fork:11.5k AiLearning：数据分析+机器学习实战+线性代数+PyTorch+NLTK+TF2
 - [apachecn/ailearning-v1](https://github.com/apachecn/ailearning-v1) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 - [apachecn/ArknightsScriptsPP](https://github.com/apachecn/ArknightsScriptsPP) topic: pushed_at:2023-01 star:0.0k fork:0.0k PP 的明日方舟辅助脚本
 - [apachecn/artifactory](https://github.com/apachecn/artifactory) topic: pushed_at:2023-03 star:0.0k fork:0.0k :books: ApacheCN 制品库
