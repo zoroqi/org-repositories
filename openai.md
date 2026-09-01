@@ -14,8 +14,7 @@
 - [Cython](#cython) (1)
 - [Dockerfile](#dockerfile) (1)
 - [Elixir](#elixir) (1)
-- [Go](#go) (13)
-- [Go Template](#go-template) (1)
+- [Go](#go) (14)
 - [HTML](#html) (3)
 - [JavaScript](#javascript) (14)
 - [Jupyter Notebook](#jupyter-notebook) (13)
@@ -34,14 +33,14 @@
 
 ## C
 
-- [openai/git](https://github.com/openai/git) topic: pushed_at:2026-08 star:0.2k fork:0.0k "the information manager from hell" - linus torvalds [e83c516, 7 Apr 2005]
+- [openai/git](https://github.com/openai/git) topic: pushed_at:2026-09 star:0.2k fork:0.0k "the information manager from hell" - linus torvalds [e83c516, 7 Apr 2005]
 - [openai/openai-gemm](https://github.com/openai/openai-gemm) topic: pushed_at:2023-04 star:0.4k fork:0.1k Open single and half precision gemm implementations 
 - [openai/pachi-py](https://github.com/openai/pachi-py) topic: pushed_at:2023-04 star:0.0k fork:0.0k Python wrappers for Pachi. Contains a modified version of the bleeding-edge Pachi source code.
 - [openai/retro](https://github.com/openai/retro) topic: pushed_at:2024-02 star:3.6k fork:0.5k Retro Games in Gym
 
 ## C#
 
-- [openai/openai-dotnet](https://github.com/openai/openai-dotnet) topic:csharp,dotnet,openai pushed_at:2026-08 star:2.7k fork:0.4k The official .NET library for the OpenAI API
+- [openai/openai-dotnet](https://github.com/openai/openai-dotnet) topic:csharp,dotnet,openai pushed_at:2026-09 star:2.7k fork:0.4k The official .NET library for the OpenAI API
 - [openai/orrb](https://github.com/openai/orrb) topic: pushed_at:2023-07 star:0.2k fork:0.0k Code for the paper "OpenAI Remote Rendering Backend"
 
 ## C++
@@ -74,7 +73,7 @@
 
 ## Elixir
 
-- [openai/symphony](https://github.com/openai/symphony) topic: pushed_at:2026-08 star:26.7k fork:2.7k Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
+- [openai/symphony](https://github.com/openai/symphony) topic: pushed_at:2026-08 star:27.0k fork:2.8k Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 
 ## Go
 
@@ -82,19 +81,16 @@
 - [openai/go-vncdriver](https://github.com/openai/go-vncdriver) topic: pushed_at:2023-05 star:0.1k fork:0.1k Fast VNC driver
 - [openai/kubernetes](https://github.com/openai/kubernetes) topic: pushed_at:2026-01 star:0.1k fork:0.0k Production-Grade Container Scheduling and Management
 - [openai/oauth2_proxy](https://github.com/openai/oauth2_proxy) topic: pushed_at:2023-04 star:0.1k fork:0.0k A reverse proxy that provides authentication with Google, Github or other provider
-- [openai/openai-cli](https://github.com/openai/openai-cli) topic: pushed_at:2026-08 star:0.7k fork:0.0k Official CLI for the OpenAI API
+- [openai/openai-cli](https://github.com/openai/openai-cli) topic: pushed_at:2026-09 star:0.7k fork:0.1k Official CLI for the OpenAI API
 - [openai/openai-go](https://github.com/openai/openai-go) topic: pushed_at:2026-08 star:3.4k fork:0.3k The official Go library for the OpenAI API
 - [openai/openai-realtime-meeting-assistant](https://github.com/openai/openai-realtime-meeting-assistant) topic: pushed_at:2026-05 star:0.3k fork:0.0k Example of using Realtime API as a meeting assistant to manage a Kanban Board
-- [openai/orchard](https://github.com/openai/orchard) topic:macos,orchestration,virtualization pushed_at:2026-08 star:0.5k fork:0.0k Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
+- [openai/orchard](https://github.com/openai/orchard) topic:macos,orchestration,virtualization pushed_at:2026-09 star:0.5k fork:0.1k Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices
 - [openai/prometheus](https://github.com/openai/prometheus) topic: pushed_at:2023-04 star:0.0k fork:0.0k The Prometheus monitoring system and time series database.
 - [openai/scheduler-plugins](https://github.com/openai/scheduler-plugins) topic: pushed_at:2023-04 star:0.0k fork:0.0k Repository for out-of-tree scheduler plugins based on scheduler framework.
 - [openai/tart-guest-agent](https://github.com/openai/tart-guest-agent) topic: pushed_at:2026-08 star:0.0k fork:0.0k Guest agent for Tart VMs
-- [openai/tunnel-client](https://github.com/openai/tunnel-client) topic:agentic,agentic-ai,agentic-workflow,chatgpt,cli,codex,golang,mcp,mcp-client,mcp-gateway,mcp-protocol,mcp-server,mcp-servers,mcp-tools,model-context-protocol,openai,responses-api,secure-mcp-gateway,secure-mcp-tunnel pushed_at:2026-08 star:0.3k fork:0.1k Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.
-- [openai/vetu](https://github.com/openai/vetu) topic: pushed_at:2026-08 star:0.3k fork:0.0k Create, publish and virtualize ephemeral Linux VMs with ease
-
-## Go Template
-
 - [openai/terraform-provider-openai](https://github.com/openai/terraform-provider-openai) topic: pushed_at:2026-08 star:0.0k fork:0.0k The official Terraform provider for OpenAI.
+- [openai/tunnel-client](https://github.com/openai/tunnel-client) topic:agentic,agentic-ai,agentic-workflow,chatgpt,cli,codex,golang,mcp,mcp-client,mcp-gateway,mcp-protocol,mcp-server,mcp-servers,mcp-tools,model-context-protocol,openai,responses-api,secure-mcp-gateway,secure-mcp-tunnel pushed_at:2026-09 star:0.3k fork:0.1k Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.
+- [openai/vetu](https://github.com/openai/vetu) topic: pushed_at:2026-08 star:0.3k fork:0.0k Create, publish and virtualize ephemeral Linux VMs with ease
 
 ## HTML
 
@@ -104,17 +100,17 @@
 
 ## JavaScript
 
-- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) topic: pushed_at:2026-07 star:32.0k fork:2.2k Use Codex from Claude Code to review code or delegate tasks.
+- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) topic: pushed_at:2026-07 star:32.6k fork:2.3k Use Codex from Claude Code to review code or delegate tasks.
 - [openai/go-alias](https://github.com/openai/go-alias) topic: pushed_at:2023-04 star:0.0k fork:0.0k Service for quickly aliasing and redirecting to long URLs
 - [openai/GPT-3-Encoder](https://github.com/openai/GPT-3-Encoder) topic: pushed_at:2026-03 star:0.1k fork:0.1k Javascript BPE Encoder Decoder for GPT-2 / GPT-3
 - [openai/main-branch-check-action](https://github.com/openai/main-branch-check-action) topic: pushed_at:2026-04 star:0.0k fork:0.0k A GitHub Action for checking the status of a workflow on the main branch as a status on the PR
 - [openai/mitmproxy](https://github.com/openai/mitmproxy) topic: pushed_at:2016-11 star:0.0k fork:0.0k An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 - [openai/openai-developers-for-claude](https://github.com/openai/openai-developers-for-claude) topic: pushed_at:2026-07 star:0.0k fork:0.0k OpenAI Developers plugin for Claude Code
 - [openai/openai-developers-for-cursor](https://github.com/openai/openai-developers-for-cursor) topic: pushed_at:2026-07 star:0.0k fork:0.0k OpenAI Developers plugin for Cursor
-- [openai/openai-quickstart-node](https://github.com/openai/openai-quickstart-node) topic:openai,openai-api pushed_at:2025-09 star:2.6k fork:2.0k Node.js example app from the OpenAI API quickstart tutorial
+- [openai/openai-quickstart-node](https://github.com/openai/openai-quickstart-node) topic:openai,openai-api pushed_at:2025-09 star:2.6k fork:1.9k Node.js example app from the OpenAI API quickstart tutorial
 - [openai/openai-realtime-api-beta](https://github.com/openai/openai-realtime-api-beta) topic:javascript,nodejs,openai,typescript pushed_at:2024-11 star:1.0k fork:0.3k Node.js + JavaScript reference client for the Realtime API (beta)
 - [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) topic:javascript,nodejs,openai,react,typescript pushed_at:2025-08 star:3.6k fork:1.4k React app for inspecting, building and debugging with the Realtime API
-- [openai/plugins](https://github.com/openai/plugins) topic: pushed_at:2026-07 star:5.1k fork:0.7k OpenAI Plugins
+- [openai/plugins](https://github.com/openai/plugins) topic: pushed_at:2026-08 star:5.3k fork:0.8k OpenAI Plugins
 - [openai/role-specific-plugins](https://github.com/openai/role-specific-plugins) topic: pushed_at:2026-07 star:0.5k fork:0.1k Role-specific Codex plugin templates
 - [openai/supervised-reptile](https://github.com/openai/supervised-reptile) topic:paper pushed_at:2023-05 star:1.0k fork:0.2k Code for the paper "On First-Order Meta-Learning Algorithms"
 - [openai/tabulate](https://github.com/openai/tabulate) topic: pushed_at:2023-04 star:0.1k fork:0.0k public release of Excel / OpenAI API integration
@@ -128,7 +124,7 @@
 - [openai/GPTs-are-GPTs](https://github.com/openai/GPTs-are-GPTs) topic: pushed_at:2025-10 star:0.1k fork:0.1k 
 - [openai/hallucinations-paper-experiments](https://github.com/openai/hallucinations-paper-experiments) topic: pushed_at:2026-05 star:0.0k fork:0.0k Experiments for paper
 - [openai/lucid](https://github.com/openai/lucid) topic: pushed_at:2019-01 star:0.0k fork:0.0k A collection of infrastructure and tools for research in neural network interpretability.
-- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) topic:chatgpt,gpt-4,openai,openai-api pushed_at:2026-08 star:75.3k fork:12.7k Examples and guides for using the OpenAI API
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) topic:chatgpt,gpt-4,openai,openai-api pushed_at:2026-09 star:75.7k fork:12.8k Examples and guides for using the OpenAI API
 - [openai/ot-gan](https://github.com/openai/ot-gan) topic:paper pushed_at:2018-11 star:0.1k fork:0.0k  Code for the paper "Improving GANs Using Optimal Transport"
 - [openai/penda_code](https://github.com/openai/penda_code) topic: pushed_at:2025-07 star:0.0k fork:0.0k 
 - [openai/ppo-ewma](https://github.com/openai/ppo-ewma) topic: pushed_at:2023-04 star:0.1k fork:0.0k Code for the paper "Batch size invariance for policy optimization"
@@ -139,7 +135,7 @@
 
 - [openai/birdingpal](https://github.com/openai/birdingpal) topic: pushed_at:2026-07 star:0.1k fork:0.0k BirdingPal is an ChatGPT-enabled partner for identifying birds.
 - [openai/compose-richtext](https://github.com/openai/compose-richtext) topic: pushed_at:2026-06 star:0.1k fork:0.0k (OpenAI Fork) A collection of Compose libraries for advanced text formatting and alternative display types.
-- [openai/openai-java](https://github.com/openai/openai-java) topic: pushed_at:2026-08 star:1.5k fork:0.2k The official Java library for the OpenAI API
+- [openai/openai-java](https://github.com/openai/openai-java) topic: pushed_at:2026-08 star:1.5k fork:0.3k The official Java library for the OpenAI API
 - [openai/snap-o](https://github.com/openai/snap-o) topic:android,developer-tools,teams pushed_at:2026-08 star:0.1k fork:0.0k Lightweight Android capture developer tools for macOS
 
 ## Lean
@@ -164,7 +160,7 @@
 - [openai/gpt-3](https://github.com/openai/gpt-3) topic: pushed_at:2020-09 star:15.7k fork:2.2k GPT-3: Language Models are Few-Shot Learners
 - [openai/gpt-oss-safeguard](https://github.com/openai/gpt-oss-safeguard) topic: pushed_at:2026-01 star:0.1k fork:0.0k 
 - [openai/lustre](https://github.com/openai/lustre) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
-- [openai/model_spec](https://github.com/openai/model_spec) topic: pushed_at:2026-05 star:0.8k fork:0.1k The OpenAI Model Spec
+- [openai/model_spec](https://github.com/openai/model_spec) topic: pushed_at:2026-08 star:0.8k fork:0.1k The OpenAI Model Spec
 - [openai/model_spec_dataset](https://github.com/openai/model_spec_dataset) topic: pushed_at:2026-03 star:0.0k fork:0.0k A public-domain dataset of prompts and scenarios for evaluating compliance with the OpenAI Model Spec.
 - [openai/moderation-api-release](https://github.com/openai/moderation-api-release) topic: pushed_at:2022-08 star:0.2k fork:0.0k 
 - [openai/monorepo-diff-buildkite-plugin](https://github.com/openai/monorepo-diff-buildkite-plugin) topic: pushed_at:2019-05 star:0.0k fork:0.0k Run separate pipelines for each folder in your monorepo
@@ -199,7 +195,7 @@
 - [openai/emergent-misalignment-persona-features](https://github.com/openai/emergent-misalignment-persona-features) topic: pushed_at:2025-06 star:0.1k fork:0.0k 
 - [openai/emoclassifiers](https://github.com/openai/emoclassifiers) topic: pushed_at:2025-07 star:0.1k fork:0.0k Classifiers for "Investigating Affective Use and Emotional Well-being in ChatGPT"
 - [openai/EPG](https://github.com/openai/EPG) topic:continuous-control,evolutionary-strategy,machine-learning,meta-learning,paper,reinforcement-learning pushed_at:2018-11 star:0.3k fork:0.1k Code for the paper "Evolved Policy Gradients"
-- [openai/evals](https://github.com/openai/evals) topic: pushed_at:2026-04 star:19.2k fork:3.1k Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
+- [openai/evals](https://github.com/openai/evals) topic: pushed_at:2026-04 star:19.3k fork:3.1k Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
 - [openai/evolution-strategies-starter](https://github.com/openai/evolution-strategies-starter) topic:paper pushed_at:2019-10 star:1.6k fork:0.3k Code for the paper "Evolution Strategies as a Scalable Alternative to Reinforcement Learning"
 - [openai/fetch_robots](https://github.com/openai/fetch_robots) topic: pushed_at:2016-07 star:0.0k fork:0.0k Bringup for fetch & freight
 - [openai/finetune-transformer-lm](https://github.com/openai/finetune-transformer-lm) topic:paper pushed_at:2019-01 star:2.3k fork:0.5k Code and model for the paper "Improving Language Understanding by Generative Pre-Training"
@@ -210,8 +206,8 @@
 - [openai/gpt-2](https://github.com/openai/gpt-2) topic:paper pushed_at:2024-08 star:25.0k fork:5.9k Code for the paper "Language Models are Unsupervised Multitask Learners"
 - [openai/gpt-2-output-dataset](https://github.com/openai/gpt-2-output-dataset) topic: pushed_at:2023-12 star:2.0k fork:0.5k Dataset of GPT-2 outputs for research in detection, biases, and more
 - [openai/gpt-discord-bot](https://github.com/openai/gpt-discord-bot) topic: pushed_at:2024-06 star:1.8k fork:0.6k Example Discord bot written in Python that uses the completions API to have conversations with the `text-davinci-003` model, and the moderations API to filter the messages.
-- [openai/gpt-oss](https://github.com/openai/gpt-oss) topic: pushed_at:2026-07 star:20.3k fork:2.1k gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
-- [openai/grade-school-math](https://github.com/openai/grade-school-math) topic: pushed_at:2024-01 star:1.5k fork:0.2k 
+- [openai/gpt-oss](https://github.com/openai/gpt-oss) topic: pushed_at:2026-07 star:20.4k fork:2.1k gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+- [openai/grade-school-math](https://github.com/openai/grade-school-math) topic: pushed_at:2024-01 star:1.4k fork:0.2k 
 - [openai/grok](https://github.com/openai/grok) topic: pushed_at:2024-03 star:4.3k fork:0.6k 
 - [openai/guided-diffusion](https://github.com/openai/guided-diffusion) topic: pushed_at:2024-07 star:7.4k fork:0.9k 
 - [openai/gym](https://github.com/openai/gym) topic: pushed_at:2026-03 star:37.2k fork:8.7k A toolkit for developing and comparing reinforcement learning algorithms.
@@ -219,12 +215,12 @@
 - [openai/gym-recording](https://github.com/openai/gym-recording) topic: pushed_at:2023-04 star:0.1k fork:0.0k Add-on package to gym, to record sequences of actions, observations, and rewards
 - [openai/gym-soccer](https://github.com/openai/gym-soccer) topic: pushed_at:2023-04 star:0.3k fork:0.2k 
 - [openai/gym-wikinav](https://github.com/openai/gym-wikinav) topic: pushed_at:2023-04 star:0.0k fork:0.0k Wikipedia navigation environment for OpenAI Gym
-- [openai/gym3](https://github.com/openai/gym3) topic: pushed_at:2026-03 star:0.1k fork:0.0k Vectorized interface for reinforcement learning environments
-- [openai/human-eval](https://github.com/openai/human-eval) topic: pushed_at:2025-01 star:3.3k fork:0.5k Code for the paper "Evaluating Large Language Models Trained on Code"
+- [openai/gym3](https://github.com/openai/gym3) topic: pushed_at:2026-03 star:0.2k fork:0.0k Vectorized interface for reinforcement learning environments
+- [openai/human-eval](https://github.com/openai/human-eval) topic: pushed_at:2025-01 star:3.4k fork:0.5k Code for the paper "Evaluating Large Language Models Trained on Code"
 - [openai/human-eval-infilling](https://github.com/openai/human-eval-infilling) topic: pushed_at:2023-04 star:0.2k fork:0.0k Code for the paper "Efficient Training of Language Models to Fill in the Middle"
 - [openai/iaf](https://github.com/openai/iaf) topic:paper pushed_at:2018-11 star:0.5k fork:0.1k Code for reproducing key results in the paper "Improving Variational Inference with Inverse Autoregressive Flow"
 - [openai/image-gpt](https://github.com/openai/image-gpt) topic: pushed_at:2022-04 star:2.1k fork:0.4k 
-- [openai/imagegencam](https://github.com/openai/imagegencam) topic: pushed_at:2026-06 star:0.4k fork:0.0k A digital camera you can build yourself with Codex.
+- [openai/imagegencam](https://github.com/openai/imagegencam) topic: pushed_at:2026-06 star:0.5k fork:0.0k A digital camera you can build yourself with Codex.
 - [openai/imitation](https://github.com/openai/imitation) topic:paper pushed_at:2018-11 star:0.7k fork:0.2k  Code for the paper "Generative Adversarial Imitation Learning"
 - [openai/improved-diffusion](https://github.com/openai/improved-diffusion) topic: pushed_at:2024-07 star:3.8k fork:0.5k Release for Improved Denoising Diffusion Probabilistic Models
 - [openai/improved-gan](https://github.com/openai/improved-gan) topic:paper pushed_at:2018-11 star:2.3k fork:0.6k Code for the paper "Improved Techniques for Training GANs"
@@ -240,20 +236,20 @@
 - [openai/mle-bench](https://github.com/openai/mle-bench) topic: pushed_at:2026-04 star:1.7k fork:0.3k MLE-bench is a benchmark for measuring how well AI agents perform at machine learning engineering
 - [openai/mlsh](https://github.com/openai/mlsh) topic:paper pushed_at:2023-07 star:0.6k fork:0.2k  Code for the paper "Meta-Learning Shared Hierarchies"
 - [openai/model_spec_evals](https://github.com/openai/model_spec_evals) topic: pushed_at:2026-03 star:0.0k fork:0.0k Evaluation harness and tooling for measuring model compliance with the OpenAI Model Spec.
-- [openai/monitorability-evals](https://github.com/openai/monitorability-evals) topic: pushed_at:2026-06 star:0.1k fork:0.0k Open-sourced evaluation suite from the Monitoring Monitorability paper
+- [openai/monitorability-evals](https://github.com/openai/monitorability-evals) topic: pushed_at:2026-08 star:0.1k fork:0.0k Open-sourced evaluation suite from the Monitoring Monitorability paper
 - [openai/mujoco-worldgen](https://github.com/openai/mujoco-worldgen) topic: pushed_at:2024-07 star:0.6k fork:0.1k Automatic object XML generation for Mujoco
 - [openai/multi-agent-emergence-environments](https://github.com/openai/multi-agent-emergence-environments) topic: pushed_at:2024-07 star:1.8k fork:0.3k Environment generation code for the paper "Emergent Tool Use From Multi-Agent Autocurricula"
 - [openai/multiagent-competition](https://github.com/openai/multiagent-competition) topic:paper pushed_at:2023-04 star:0.8k fork:0.2k  Code for the paper "Emergent Complexity via Multi-agent Competition"
 - [openai/multiagent-particle-envs](https://github.com/openai/multiagent-particle-envs) topic:paper pushed_at:2024-04 star:2.8k fork:0.8k Code for a multi-agent particle environment used in the paper "Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments"
 - [openai/neural-gpu](https://github.com/openai/neural-gpu) topic:paper pushed_at:2018-11 star:0.1k fork:0.1k Code for the Neural GPU model originally described in "Neural GPUs Learn Algorithms"
 - [openai/neural-mmo](https://github.com/openai/neural-mmo) topic:paper pushed_at:2023-07 star:1.7k fork:0.3k Code for the paper "Neural MMO: A Massively Multiagent Game Environment for Training and Evaluating Intelligent Agents"
-- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) topic:agents,ai,framework,harness,llm,openai,python pushed_at:2026-08 star:28.7k fork:4.5k A lightweight, powerful framework for multi-agent workflows
-- [openai/openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) topic:chatkit,openai,openai-api pushed_at:2026-03 star:0.9k fork:1.1k Starter app to build with OpenAI ChatKit + Agent Builder
+- [openai/openai-agents-python](https://github.com/openai/openai-agents-python) topic:agents,ai,framework,harness,llm,openai,python pushed_at:2026-09 star:29.1k fork:4.6k A lightweight, powerful framework for multi-agent workflows
+- [openai/openai-chatkit-starter-app](https://github.com/openai/openai-chatkit-starter-app) topic:chatkit,openai,openai-api pushed_at:2026-03 star:0.9k fork:1.2k Starter app to build with OpenAI ChatKit + Agent Builder
 - [openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) topic: pushed_at:2025-12 star:6.6k fork:1.0k Demo of a customer service use case implemented with the OpenAI Agents SDK
-- [openai/openai-guardrails-python](https://github.com/openai/openai-guardrails-python) topic: pushed_at:2026-07 star:0.2k fork:0.0k OpenAI Guardrails - Python
+- [openai/openai-guardrails-python](https://github.com/openai/openai-guardrails-python) topic: pushed_at:2026-08 star:0.2k fork:0.0k OpenAI Guardrails - Python
 - [openai/openai-knowledge-retrieval](https://github.com/openai/openai-knowledge-retrieval) topic: pushed_at:2026-01 star:0.1k fork:0.0k OS repo for Knowledge Retrieval starter kit
 - [openai/openai-mcpkit](https://github.com/openai/openai-mcpkit) topic: pushed_at:2026-08 star:0.1k fork:0.0k 
-- [openai/openai-python](https://github.com/openai/openai-python) topic:openai,python pushed_at:2026-08 star:31.4k fork:5.1k The official Python library for the OpenAI API
+- [openai/openai-python](https://github.com/openai/openai-python) topic:openai,python pushed_at:2026-08 star:31.5k fork:5.2k The official Python library for the OpenAI API
 - [openai/openai-security-bots](https://github.com/openai/openai-security-bots) topic: pushed_at:2026-04 star:0.4k fork:0.0k 
 - [openai/orion-multistep-analysis](https://github.com/openai/orion-multistep-analysis) topic: pushed_at:2026-03 star:0.0k fork:0.0k 
 - [openai/parameter-golf](https://github.com/openai/parameter-golf) topic: pushed_at:2026-05 star:5.2k fork:3.3k Train the smallest LM you can that fits in 16MB. Best model wins!
@@ -262,7 +258,7 @@
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) topic:chatgpt,chatgpt-plugins pushed_at:2024-01 star:4.2k fork:0.7k Get a ChatGPT plugin up and running in under 5 minutes!
 - [openai/point-e](https://github.com/openai/point-e) topic: pushed_at:2024-07 star:6.9k fork:0.8k Point cloud diffusion for 3D model synthesis
 - [openai/privacy-filter](https://github.com/openai/privacy-filter) topic: pushed_at:2026-04 star:2.7k fork:0.2k OpenAI Privacy Filter
-- [openai/prm800k](https://github.com/openai/prm800k) topic: pushed_at:2023-06 star:2.2k fork:0.1k 800,000 step-level correctness labels on LLM solutions to MATH problems
+- [openai/prm800k](https://github.com/openai/prm800k) topic: pushed_at:2023-06 star:2.1k fork:0.1k 800,000 step-level correctness labels on LLM solutions to MATH problems
 - [openai/psaw](https://github.com/openai/psaw) topic: pushed_at:2023-04 star:0.0k fork:0.0k Python Pushshift.io API Wrapper (for comment/submission search)
 - [openai/pyconfigatron](https://github.com/openai/pyconfigatron) topic: pushed_at:2016-10 star:0.0k fork:0.0k a python3 compatible pyconfigatron
 - [openai/random-network-distillation](https://github.com/openai/random-network-distillation) topic:paper pushed_at:2020-10 star:0.9k fork:0.2k Code for the paper "Exploration by Random Network Distillation"
@@ -280,7 +276,7 @@
 - [openai/sample-deep-research-mcp](https://github.com/openai/sample-deep-research-mcp) topic: pushed_at:2025-06 star:0.1k fork:0.0k Example MCP server compatible with Deep Research
 - [openai/shap-e](https://github.com/openai/shap-e) topic: pushed_at:2024-06 star:12.3k fork:1.1k Generate 3D objects conditioned on text or images
 - [openai/simple-evals](https://github.com/openai/simple-evals) topic: pushed_at:2026-04 star:4.6k fork:0.5k 
-- [openai/skills](https://github.com/openai/skills) topic: pushed_at:2026-07 star:25.0k fork:1.7k Skills Catalog for Codex
+- [openai/skills](https://github.com/openai/skills) topic: pushed_at:2026-07 star:25.3k fork:1.7k Skills Catalog for Codex
 - [openai/sonic-on-ray](https://github.com/openai/sonic-on-ray) topic: pushed_at:2023-04 star:0.1k fork:0.0k Training Sonic with RLlib
 - [openai/sparse_attention](https://github.com/openai/sparse_attention) topic: pushed_at:2020-08 star:1.6k fork:0.2k Examples of using sparse attention, as in "Generating Long Sequences with Sparse Transformers"
 - [openai/sparse_autoencoder](https://github.com/openai/sparse_autoencoder) topic: pushed_at:2024-07 star:0.6k fork:0.1k 
@@ -288,7 +284,7 @@
 - [openai/staged-recipes](https://github.com/openai/staged-recipes) topic: pushed_at:2016-12 star:0.0k fork:0.0k A place to submit conda recipes before they become fully fledged conda-forge feedstocks
 - [openai/summarize-from-feedback](https://github.com/openai/summarize-from-feedback) topic: pushed_at:2023-09 star:1.1k fork:0.2k Code for "Learning to summarize from human feedback"
 - [openai/swarm](https://github.com/openai/swarm) topic: pushed_at:2026-04 star:21.9k fork:2.3k Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
-- [openai/tiktoken](https://github.com/openai/tiktoken) topic: pushed_at:2026-08 star:19.0k fork:1.6k tiktoken is a fast BPE tokeniser for use with OpenAI's models.
+- [openai/tiktoken](https://github.com/openai/tiktoken) topic: pushed_at:2026-08 star:19.1k fork:1.6k tiktoken is a fast BPE tokeniser for use with OpenAI's models.
 - [openai/train-procgen](https://github.com/openai/train-procgen) topic:paper pushed_at:2023-04 star:0.2k fork:0.1k Code for the paper "Leveraging Procedural Generation to Benchmark Reinforcement Learning"
 - [openai/transformer-debugger](https://github.com/openai/transformer-debugger) topic: pushed_at:2026-04 star:4.1k fork:0.2k 
 - [openai/understanding-rl-vision](https://github.com/openai/understanding-rl-vision) topic: pushed_at:2023-04 star:0.1k fork:0.0k Code for the paper "Understanding RL Vision"
@@ -297,10 +293,10 @@
 - [openai/vdvae](https://github.com/openai/vdvae) topic: pushed_at:2023-04 star:0.5k fork:0.1k Repository for the paper "Very Deep VAEs Generalize Autoregressive Models and Can Outperform Them on Images"
 - [openai/Video-Pre-Training](https://github.com/openai/Video-Pre-Training) topic: pushed_at:2025-09 star:1.7k fork:0.2k Video PreTraining (VPT): Learning to Act by Watching Unlabeled Online Videos
 - [openai/vime](https://github.com/openai/vime) topic:paper pushed_at:2018-11 star:0.3k fork:0.1k Code for the paper "Curiosity-driven Exploration in Deep Reinforcement Learning via Bayesian Neural Networks"
-- [openai/weak-to-strong](https://github.com/openai/weak-to-strong) topic: pushed_at:2024-05 star:2.5k fork:0.3k 
+- [openai/weak-to-strong](https://github.com/openai/weak-to-strong) topic: pushed_at:2024-05 star:2.6k fork:0.3k 
 - [openai/websockify](https://github.com/openai/websockify) topic: pushed_at:2016-11 star:0.0k fork:0.0k Websockify is a WebSocket to TCP proxy/bridge. This allows a browser to connect  to any application/server/service. Implementations in Python, C, Node.js and Ruby.
 - [openai/weightnorm](https://github.com/openai/weightnorm) topic:paper pushed_at:2018-11 star:0.4k fork:0.1k Example code for Weight Normalization, from "Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks"
-- [openai/whisper](https://github.com/openai/whisper) topic: pushed_at:2026-07 star:107.4k fork:13.0k Robust Speech Recognition via Large-Scale Weak Supervision
+- [openai/whisper](https://github.com/openai/whisper) topic: pushed_at:2026-08 star:108.2k fork:13.1k Robust Speech Recognition via Large-Scale Weak Supervision
 - [openai/zbarlight](https://github.com/openai/zbarlight) topic: pushed_at:2016-12 star:0.0k fork:0.0k A simple wrapper for zbar
 
 ## Ruby
@@ -316,7 +312,7 @@
 
 ## Rust
 
-- [openai/codex](https://github.com/openai/codex) topic: pushed_at:2026-08 star:106.3k fork:16.2k Lightweight coding agent that runs in your terminal
+- [openai/codex](https://github.com/openai/codex) topic: pushed_at:2026-09 star:120.5k fork:18.4k Lightweight coding agent that runs in your terminal
 - [openai/fence](https://github.com/openai/fence) topic:cicd,github-actions,security,supply-chain-security pushed_at:2026-08 star:0.1k fork:0.0k A fence keeps things out, but also in. This project is still in early, and active development.
 - [openai/harmony](https://github.com/openai/harmony) topic: pushed_at:2026-04 star:4.5k fork:0.3k Renderer for the harmony response format to be used with gpt-oss
 - [openai/softnet](https://github.com/openai/softnet) topic:dhcp,firewall,networking,packet-filter,security,tart,vmnet pushed_at:2026-08 star:0.1k fork:0.0k Software networking with isolation for Tart
@@ -334,7 +330,7 @@
 
 ## Swift
 
-- [openai/tart](https://github.com/openai/tart) topic:apple-silicon,automation,ci,fair-source,macos,tart,virtualization,virtualization-framework pushed_at:2026-08 star:6.5k fork:0.3k macOS and Linux VMs on Apple Silicon to use in CI and other automations
+- [openai/tart](https://github.com/openai/tart) topic:apple-silicon,automation,ci,fair-source,macos,tart,virtualization,virtualization-framework pushed_at:2026-08 star:6.6k fork:0.4k macOS and Linux VMs on Apple Silicon to use in CI and other automations
 
 ## TeX
 
@@ -347,11 +343,11 @@
 - [openai/build-hours](https://github.com/openai/build-hours) topic: pushed_at:2026-07 star:0.8k fork:0.2k Build hours code to share.
 - [openai/chatkit-js](https://github.com/openai/chatkit-js) topic: pushed_at:2026-07 star:2.0k fork:0.2k 
 - [openai/codex-action](https://github.com/openai/codex-action) topic: pushed_at:2026-08 star:1.2k fork:0.2k 
-- [openai/codex-security](https://github.com/openai/codex-security) topic:ai-security,application-security,cli,code-scanning,codex,codex-security,cybersecurity,devsecops,nodejs,npm,openai,sdk,security,typescript,vulnerability-scanning pushed_at:2026-08 star:9.9k fork:0.7k OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
+- [openai/codex-security](https://github.com/openai/codex-security) topic:ai-security,application-security,cli,code-scanning,codex,codex-security,cybersecurity,devsecops,nodejs,npm,openai,sdk,security,typescript,vulnerability-scanning pushed_at:2026-09 star:10.3k fork:0.7k OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
 - [openai/dallify-discord-bot](https://github.com/openai/dallify-discord-bot) topic: pushed_at:2024-01 star:0.1k fork:0.1k Example code for using OpenAI’s NodeJS SDK with discord.js SDK to create a Discord Bot that uses Slash Commands.
 - [openai/euphony](https://github.com/openai/euphony) topic: pushed_at:2026-04 star:0.4k fork:0.0k Visualize harmony chat data and codex sessions in your browser
 - [openai/interactive-textbook-demo](https://github.com/openai/interactive-textbook-demo) topic: pushed_at:2025-10 star:0.1k fork:0.0k Interactive Textbook Demo
-- [openai/openai-agents-js](https://github.com/openai/openai-agents-js) topic:agents,openai,openai-api,realtime-api,typescript pushed_at:2026-08 star:3.6k fork:0.9k A lightweight, powerful framework for multi-agent workflows and voice agents
+- [openai/openai-agents-js](https://github.com/openai/openai-agents-js) topic:agents,openai,openai-api,realtime-api,typescript pushed_at:2026-08 star:3.7k fork:0.9k A lightweight, powerful framework for multi-agent workflows and voice agents
 - [openai/openai-apps-sdk-examples](https://github.com/openai/openai-apps-sdk-examples) topic: pushed_at:2026-04 star:2.3k fork:0.5k Example apps for the Apps SDK
 - [openai/openai-assistants-quickstart](https://github.com/openai/openai-assistants-quickstart) topic: pushed_at:2025-03 star:2.0k fork:0.6k OpenAI Assistants API quickstart with Next.js.
 - [openai/openai-builder-lab](https://github.com/openai/openai-builder-lab) topic: pushed_at:2025-02 star:0.1k fork:0.0k 
@@ -359,9 +355,9 @@
 - [openai/openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) topic: pushed_at:2026-03 star:1.8k fork:0.4k Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.
 - [openai/openai-deno-build](https://github.com/openai/openai-deno-build) topic:deno,openai,openai-api pushed_at:2024-10 star:0.1k fork:0.0k Deno build of the official Typescript library for the OpenAI API.
 - [openai/openai-fm](https://github.com/openai/openai-fm) topic: pushed_at:2026-03 star:2.9k fork:7.9k Code for openai.fm, a demo for the OpenAI Speech API
-- [openai/openai-guardrails-js](https://github.com/openai/openai-guardrails-js) topic: pushed_at:2026-03 star:0.1k fork:0.0k OpenAI Guardrails - TypeScript / JavaScript
+- [openai/openai-guardrails-js](https://github.com/openai/openai-guardrails-js) topic: pushed_at:2026-08 star:0.1k fork:0.0k OpenAI Guardrails - TypeScript / JavaScript
 - [openai/openai-imagegen-demo](https://github.com/openai/openai-imagegen-demo) topic: pushed_at:2026-04 star:0.1k fork:0.0k Next.js Photobooth app built with the OpenAI Image API
-- [openai/openai-node](https://github.com/openai/openai-node) topic:nodejs,openai,typescript pushed_at:2026-08 star:11.1k fork:1.6k Official JavaScript / TypeScript library for the OpenAI API
+- [openai/openai-node](https://github.com/openai/openai-node) topic:nodejs,openai,typescript pushed_at:2026-09 star:11.2k fork:1.6k Official JavaScript / TypeScript library for the OpenAI API
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) topic: pushed_at:2026-01 star:7.0k fork:1.1k This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 - [openai/openai-realtime-solar-system](https://github.com/openai/openai-realtime-solar-system) topic: pushed_at:2026-03 star:0.5k fork:0.1k Demo showing how to use the OpenAI Realtime API to navigate a 3D scene via tool calling
 - [openai/openai-realtime-twilio-demo](https://github.com/openai/openai-realtime-twilio-demo) topic: pushed_at:2024-12 star:0.5k fork:0.2k 

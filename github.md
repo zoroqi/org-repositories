@@ -16,26 +16,27 @@
 - [DIGITAL Command Language](#digital-command-language) (1)
 - [Dockerfile](#dockerfile) (2)
 - [EJS](#ejs) (1)
-- [Go](#go) (47)
+- [Go](#go) (48)
 - [Go Template](#go-template) (1)
 - [HCL](#hcl) (1)
 - [HTML](#html) (21)
 - [Handlebars](#handlebars) (1)
 - [Haskell](#haskell) (2)
 - [Java](#java) (9)
-- [JavaScript](#javascript) (94)
+- [JavaScript](#javascript) (95)
 - [Jupyter Notebook](#jupyter-notebook) (5)
 - [Makefile](#makefile) (1)
 - [Objective-C](#objective-c) (10)
-- [Others](#others) (83)
+- [Others](#others) (81)
 - [PowerShell](#powershell) (2)
 - [Puppet](#puppet) (4)
-- [Python](#python) (25)
+- [Python](#python) (24)
 - [Ruby](#ruby) (105)
 - [Rust](#rust) (4)
 - [Scala](#scala) (1)
 - [Shell](#shell) (24)
 - [Swift](#swift) (4)
+- [Tape](#tape) (1)
 - [TypeScript](#typescript) (53)
 - [Vim Script](#vim-script) (1)
 - [Vue](#vue) (1)
@@ -46,7 +47,7 @@
 - [github/brubeck](https://github.com/github/brubeck) topic: pushed_at:2019-11 star:1.2k fork:0.1k A Statsd-compatible metrics aggregator
 - [github/cmark-gfm](https://github.com/github/cmark-gfm) topic: pushed_at:2026-07 star:1.1k fork:0.2k GitHub's fork of cmark, a CommonMark parsing and rendering library and program in C
 - [github/git-msysgit](https://github.com/github/git-msysgit) topic: pushed_at:2014-03 star:0.0k fork:0.0k GitHub version of msysgit/git
-- [github/glb-director](https://github.com/github/glb-director) topic: pushed_at:2026-08 star:2.4k fork:0.2k GitHub Load Balancer Director and supporting tooling.
+- [github/glb-director](https://github.com/github/glb-director) topic: pushed_at:2026-08 star:2.5k fork:0.2k GitHub Load Balancer Director and supporting tooling.
 - [github/gpgme](https://github.com/github/gpgme) topic: pushed_at:2018-11 star:0.0k fork:0.0k GnuPG Made Easy
 - [github/libbuffer](https://github.com/github/libbuffer) topic: pushed_at:2023-04 star:0.0k fork:0.0k This library holds utility functions for working with string buffers in C.
 - [github/libprojfs](https://github.com/github/libprojfs) topic:filesystems,fuse-filesystem,git,vfsforgit pushed_at:2023-06 star:0.1k fork:0.0k Linux projected filesystem library
@@ -102,7 +103,7 @@
 
 ## CodeQL
 
-- [github/codeql](https://github.com/github/codeql) topic:codeql,github-advanced-security,github-security-lab,semmle-ql,works-with-codespaces pushed_at:2026-08 star:10.0k fork:2.1k CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
+- [github/codeql](https://github.com/github/codeql) topic:codeql,github-advanced-security,github-security-lab,semmle-ql,works-with-codespaces pushed_at:2026-09 star:10.0k fork:2.1k CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
 - [github/codeql-coding-standards](https://github.com/github/codeql-coding-standards) topic:autosar,cert,code-scanning,codeql,coding-standards,cpp14,functional-safety,iso26262,misra pushed_at:2026-08 star:0.2k fork:0.1k This repository contains CodeQL queries and libraries which support various Coding Standards.
 - [github/codeql-dubbo-workshop](https://github.com/github/codeql-dubbo-workshop) topic: pushed_at:2023-01 star:0.1k fork:0.0k 
 - [github/vscode-codeql-starter](https://github.com/github/vscode-codeql-starter) topic:codeql,vscode,vscode-extension,works-with-codespaces pushed_at:2026-08 star:0.6k fork:0.3k Starter workspace to use with the CodeQL extension for Visual Studio Code.
@@ -118,7 +119,7 @@
 
 ## DIGITAL Command Language
 
-- [github/dmca](https://github.com/github/dmca) topic:dmca pushed_at:2026-08 star:6.3k fork:1.4k Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at 
+- [github/dmca](https://github.com/github/dmca) topic:dmca pushed_at:2026-08 star:6.4k fork:1.4k Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at 
 
 ## Dockerfile
 
@@ -127,28 +128,28 @@
 
 ## EJS
 
-- [github/haikus-for-codespaces](https://github.com/github/haikus-for-codespaces) topic: pushed_at:2026-07 star:2.8k fork:4.8k 
+- [github/haikus-for-codespaces](https://github.com/github/haikus-for-codespaces) topic: pushed_at:2026-07 star:2.9k fork:4.8k 
 
 ## Go
 
-- [github/actions-lockfile](https://github.com/github/actions-lockfile) topic:actions,dependency-pinning,github-actions,go,lockfile,security,supply-chain-security pushed_at:2026-07 star:0.0k fork:0.0k The authoritative definition of the GitHub Actions dependency lockfile format, plus a Go parser for auditing and verifying the action pins in use across a repo's workflows.
+- [github/actions-lockfile](https://github.com/github/actions-lockfile) topic:actions,dependency-pinning,github-actions,go,lockfile,security,supply-chain-security pushed_at:2026-08 star:0.0k fork:0.0k The authoritative definition of the GitHub Actions dependency lockfile format, plus a Go parser for auditing and verifying the action pins in use across a repo's workflows.
 - [github/actions-oidc-debugger](https://github.com/github/actions-oidc-debugger) topic: pushed_at:2025-09 star:0.1k fork:0.0k An Action for printing OIDC claims in GitHub Actions.
 - [github/actions-oidc-gateway-example](https://github.com/github/actions-oidc-gateway-example) topic: pushed_at:2025-03 star:0.1k fork:0.0k Example of using Actions OIDC token to proxy into a private network
-- [github/artifact-attestations-opa-provider](https://github.com/github/artifact-attestations-opa-provider) topic:package-security pushed_at:2026-08 star:0.0k fork:0.0k OPA Gatekeeper provider for GitHub Artifact Attestations
+- [github/artifact-attestations-opa-provider](https://github.com/github/artifact-attestations-opa-provider) topic:package-security pushed_at:2026-09 star:0.0k fork:0.0k OPA Gatekeeper provider for GitHub Artifact Attestations
 - [github/ccql](https://github.com/github/ccql) topic:client,mysql pushed_at:2019-10 star:0.3k fork:0.1k **No longer maintained, archived Feb 2023** Multi server MySQL client
 - [github/certstore](https://github.com/github/certstore) topic: pushed_at:2021-10 star:0.1k fork:0.0k Go library for using system certificate stores on macOS/Windows
 - [github/codeql-action-sync-tool](https://github.com/github/codeql-action-sync-tool) topic: pushed_at:2025-12 star:0.1k fork:0.0k A tool for syncing the CodeQL Action from GitHub.com to GitHub Enterprise Server, including copying the CodeQL bundle.
 - [github/codeql-ctf-go-return](https://github.com/github/codeql-ctf-go-return) topic:keep pushed_at:2022-02 star:0.0k fork:0.0k Extension project for the Go and Don't Return CodeQL CTF
-- [github/deployment-tracker](https://github.com/github/deployment-tracker) topic: pushed_at:2026-08 star:0.0k fork:0.0k K8s deployment tracker for artifact registry
+- [github/deployment-tracker](https://github.com/github/deployment-tracker) topic: pushed_at:2026-09 star:0.0k fork:0.0k K8s deployment tracker for artifact registry
 - [github/depstubber](https://github.com/github/depstubber) topic:keep pushed_at:2025-03 star:0.0k fork:0.0k Depstubber generates type-correct stubs for Go dependencies, for use in testing
 - [github/emissary](https://github.com/github/emissary) topic: pushed_at:2026-02 star:0.0k fork:0.0k Envoy External Authorization API Bridge To SPIFFE Workload API 
 - [github/etcd-operator](https://github.com/github/etcd-operator) topic: pushed_at:2017-05 star:0.0k fork:0.0k etcd operator creates/configures/manages etcd clusters atop Kubernetes
 - [github/fakeca](https://github.com/github/fakeca) topic: pushed_at:2021-10 star:0.0k fork:0.0k Certificate authority fixtures for Go tests
 - [github/fiber-fragments](https://github.com/github/fiber-fragments) topic:fiber,fragments,go,microservices,works-with-codespaces pushed_at:2021-08 star:0.0k fork:0.0k :framed_picture: Micro fragmentation middleware for fiber :rocket: that enables to build microservice frontends.
 - [github/freno](https://github.com/github/freno) topic:high-availability,mysql,proxysql,replication,throttle,vitess pushed_at:2026-07 star:0.7k fork:0.1k freno: cooperative, highly available throttler service
-- [github/gh-actions-lock](https://github.com/github/gh-actions-lock) topic:cli,dependency-pinning,gh-extension,github-actions,go,lockfile,security,supply-chain-security pushed_at:2026-07 star:0.0k fork:0.0k A gh CLI extension that generates and verifies the GitHub Actions dependency lockfile, pinning every action your workflows use to an exact commit.
-- [github/gh-aw](https://github.com/github/gh-aw) topic:actions,cai,ci,claude-code,codex,copilot,gh-extension,github-actions pushed_at:2026-08 star:4.9k fork:0.5k GitHub Agentic Workflows
-- [github/gh-aw-mcpg](https://github.com/github/gh-aw-mcpg) topic: pushed_at:2026-08 star:0.2k fork:0.0k Github Agentic Workflows MCP Gateway
+- [github/gh-actions-lock](https://github.com/github/gh-actions-lock) topic:cli,dependency-pinning,gh-extension,github-actions,go,lockfile,security,supply-chain-security pushed_at:2026-08 star:0.0k fork:0.0k A gh CLI extension that generates and verifies the GitHub Actions dependency lockfile, pinning every action your workflows use to an exact commit.
+- [github/gh-aw](https://github.com/github/gh-aw) topic:actions,cai,ci,claude-code,codex,copilot,gh-extension,github-actions pushed_at:2026-09 star:5.1k fork:0.5k GitHub Agentic Workflows
+- [github/gh-aw-mcpg](https://github.com/github/gh-aw-mcpg) topic: pushed_at:2026-09 star:0.2k fork:0.0k Github Agentic Workflows MCP Gateway
 - [github/gh-aw-threat-detection](https://github.com/github/gh-aw-threat-detection) topic: pushed_at:2026-08 star:0.0k fork:0.0k GitHub Agentic Workflows Threat Detection
 - [github/gh-classroom](https://github.com/github/gh-classroom) topic:gh-extension pushed_at:2026-07 star:0.1k fork:0.0k GitHub Classroom CLI Extension is a powerful and easy-to-use command line tool that enhances the functionality of the GitHub CLI, specifically tailored for educators using GitHub Classroom. 
 - [github/gh-combine](https://github.com/github/gh-combine) topic:automation,gh-cli,github,golang,pull-requests pushed_at:2026-03 star:0.0k fork:0.0k A gh cli extension to automatically combine multiple pull requests into one
@@ -159,24 +160,25 @@
 - [github/gh-projects](https://github.com/github/gh-projects) topic:gh-extension pushed_at:2023-06 star:0.1k fork:0.0k gh-projects
 - [github/gh-runtime-cli](https://github.com/github/gh-runtime-cli) topic:gh-extension pushed_at:2026-04 star:0.0k fork:0.0k GH CLI extension used to deploy sparks to the GitHub runtime 
 - [github/gh-skyline](https://github.com/github/gh-skyline) topic:3d,3d-printing,cli,gh-extension,gh-extensions,github,go,golang,terminal pushed_at:2026-08 star:1.3k fork:0.1k A GitHub CLI extension to generate a 3D model of your GitHub contribution history
-- [github/gh-stack](https://github.com/github/gh-stack) topic:cli,gh-extension,github,stacked-prs pushed_at:2026-08 star:1.3k fork:0.1k GitHub Stacked PRs
+- [github/gh-stack](https://github.com/github/gh-stack) topic:cli,gh-extension,github,stacked-prs pushed_at:2026-08 star:1.4k fork:0.1k GitHub Stacked PRs
 - [github/git-sizer](https://github.com/github/git-sizer) topic:git,github,golang pushed_at:2026-01 star:4.1k fork:0.2k Compute various size metrics for a Git repository, flagging those that might cause problems
-- [github/github-mcp-server](https://github.com/github/github-mcp-server) topic:github,mcp,mcp-server pushed_at:2026-08 star:32.3k fork:4.8k GitHub's official MCP Server
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) topic:github,mcp,mcp-server pushed_at:2026-08 star:32.6k fork:4.9k GitHub's official MCP Server
 - [github/go-mysql](https://github.com/github/go-mysql) topic: pushed_at:2016-11 star:0.0k fork:0.0k a powerful mysql toolset with Go
 - [github/go-opstocat](https://github.com/github/go-opstocat) topic: pushed_at:2016-08 star:0.0k fork:0.0k DEPRECATED
 - [github/go-pipe](https://github.com/github/go-pipe) topic: pushed_at:2026-08 star:0.1k fork:0.0k A package used to easily build command pipelines in your Go applications
-- [github/go-spdx](https://github.com/github/go-spdx) topic: pushed_at:2026-07 star:0.1k fork:0.0k Golang implementation of a checker for determining if an SPDX ID satisfies an SPDX Expression.
+- [github/go-spdx](https://github.com/github/go-spdx) topic: pushed_at:2026-08 star:0.1k fork:0.0k Golang implementation of a checker for determining if an SPDX ID satisfies an SPDX Expression.
 - [github/ietf-cms](https://github.com/github/ietf-cms) topic: pushed_at:2021-10 star:0.1k fork:0.0k CMS (PKCS#7) library for Go
 - [github/oauth2_proxy](https://github.com/github/oauth2_proxy) topic: pushed_at:2022-03 star:0.0k fork:0.0k A reverse proxy that provides authentication with Google, Github or other provider
 - [github/orchestrator-agent](https://github.com/github/orchestrator-agent) topic: pushed_at:2019-12 star:0.1k fork:0.0k MySQL replication topology manager - agent (daemon)
 - [github/policy-controller](https://github.com/github/policy-controller) topic: pushed_at:2025-09 star:0.0k fork:0.0k Temporary GitHub managed Sigstore Policy Controller fork
-- [github/proto-gen-go](https://github.com/github/proto-gen-go) topic: pushed_at:2026-07 star:0.0k fork:0.0k A 'go generate' script to generate Go files from .proto interfaces
+- [github/proto-gen-go](https://github.com/github/proto-gen-go) topic: pushed_at:2026-08 star:0.0k fork:0.0k A 'go generate' script to generate Go files from .proto interfaces
 - [github/s3gof3r](https://github.com/github/s3gof3r) topic:keep pushed_at:2024-07 star:0.0k fork:0.0k Fast, concurrent, streaming access to Amazon S3, including gof3r, a CLI. http://godoc.org/github.com/rlmcpherson/s3gof3r
+- [github/simpleforce](https://github.com/github/simpleforce) topic: pushed_at:2026-08 star:0.0k fork:0.0k Simple Golang client for Salesforce
 - [github/skeema](https://github.com/github/skeema) topic: pushed_at:2025-05 star:0.0k fork:0.0k Schema management CLI for MySQL
 - [github/smimesign](https://github.com/github/smimesign) topic:git,signing,smime pushed_at:2026-07 star:0.7k fork:0.2k An S/MIME signing utility for use with Git
 - [github/sparkles-legacy](https://github.com/github/sparkles-legacy) topic: pushed_at:2017-02 star:0.0k fork:0.0k A Go backend for giving each other :sparkles: in Slack
 - [github/spokes-receive-pack](https://github.com/github/spokes-receive-pack) topic: pushed_at:2026-08 star:0.0k fork:0.0k Replacement for git-receive-pack, included with gitrpcd for distribution
-- [github/vitess-gh](https://github.com/github/vitess-gh) topic: pushed_at:2026-07 star:0.0k fork:0.0k Vitess is a database clustering system for horizontal scaling of MySQL.
+- [github/vitess-gh](https://github.com/github/vitess-gh) topic: pushed_at:2026-09 star:0.0k fork:0.0k Vitess is a database clustering system for horizontal scaling of MySQL.
 - [github/vulcanizer](https://github.com/github/vulcanizer) topic:elasticsearch,go,operations pushed_at:2025-04 star:0.7k fork:0.1k GitHub's ops focused Elasticsearch library
 
 ## Go Template
@@ -194,11 +196,11 @@
 - [github/codespaces-actions-playground](https://github.com/github/codespaces-actions-playground) topic: pushed_at:2023-10 star:0.2k fork:0.1k 
 - [github/dev-days](https://github.com/github/dev-days) topic: pushed_at:2026-07 star:0.0k fork:0.0k 
 - [github/dotnet-codespaces](https://github.com/github/dotnet-codespaces) topic: pushed_at:2025-12 star:0.2k fork:0.3k 
-- [github/github-well-architected](https://github.com/github/github-well-architected) topic:adoption,application-security,architecture,certifications,collaboration,github,governance,offerings,partners,productivity,services,waf,well-architected pushed_at:2026-08 star:0.0k fork:0.0k Apply design thinking to build and ship your software securely and at scale with GitHub
+- [github/github-well-architected](https://github.com/github/github-well-architected) topic:adoption,application-security,architecture,certifications,collaboration,github,governance,offerings,partners,productivity,services,waf,well-architected pushed_at:2026-08 star:0.1k fork:0.0k Apply design thinking to build and ship your software securely and at scale with GitHub
 - [github/government.github.com](https://github.com/github/government.github.com) topic:government,open-government,stories pushed_at:2026-08 star:2.0k fork:1.0k Gather, curate, and feature stories of public servants and civic hackers using GitHub as part of their open government innovations
 - [github/hackathons](https://github.com/github/hackathons) topic:community,discussions,hackathon,hackathon-organisers,hackathon-starter,hackathons,hacktoberfest,hacktoberfest-accepted,organiser pushed_at:2024-10 star:0.4k fork:0.1k Deprecated. See https://github.com/github/devrel/issues/2874#issuecomment-3483164290. Tips, Tricks, and Resources for running your hackathon.
 - [github/OAuth-Ruby-Quickstart](https://github.com/github/OAuth-Ruby-Quickstart) topic: pushed_at:2019-01 star:0.0k fork:0.0k Starter code and quickstart guide for a GitHub OAuth App in Ruby
-- [github/opensource.guide](https://github.com/github/opensource.guide) topic:best-practices,documentation,hacktoberfest,open-source,oss,tutorial pushed_at:2026-08 star:15.6k fork:15.5k 📚 Community guides for open source creators
+- [github/opensource.guide](https://github.com/github/opensource.guide) topic:best-practices,documentation,hacktoberfest,open-source,oss,tutorial pushed_at:2026-08 star:15.7k fork:15.5k 📚 Community guides for open source creators
 - [github/opensourcefriday](https://github.com/github/opensourcefriday) topic:open-source pushed_at:2026-08 star:1.2k fork:0.2k 🚲 Contribute to the open source community every Friday
 - [github/personal-website](https://github.com/github/personal-website) topic: pushed_at:2023-12 star:7.6k fork:6.5k Code that'll help you kickstart a personal website that showcases your work as a software developer.
 - [github/review-pull-requests-at-github-template](https://github.com/github/review-pull-requests-at-github-template) topic:learning-lab,template pushed_at:2023-01 star:0.0k fork:0.0k Template for GitHub's Reviewing Pull Requests Learning Lab course. Course ➡️
@@ -222,7 +224,7 @@
 
 ## Java
 
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) topic: pushed_at:2026-08 star:10.4k fork:1.4k Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) topic: pushed_at:2026-09 star:10.4k fork:1.4k Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [github/elasticsearch-srv-discovery](https://github.com/github/elasticsearch-srv-discovery) topic: pushed_at:2016-10 star:0.0k fork:0.0k Elasticsearch discovery with SRV records
 - [github/flit](https://github.com/github/flit) topic: pushed_at:2026-08 star:0.0k fork:0.0k Twitch Twirp RPC implementation for Java
 - [github/java-codespaces](https://github.com/github/java-codespaces) topic:codespaces,java pushed_at:2026-08 star:0.0k fork:0.0k Template for new Codespaces-enabled repos for Java projects
@@ -240,6 +242,7 @@
 - [github/audit-actions-workflow-runs](https://github.com/github/audit-actions-workflow-runs) topic:actions-workflows,appsec,audit,audit-log,devsecops,github-actions,supply-chain-security pushed_at:2026-06 star:0.1k fork:0.0k Audit your GitHub Actions workflow runs to see exactly which Actions were downloaded
 - [github/auto-check-element](https://github.com/github/auto-check-element) topic:custom-elements,web-components pushed_at:2026-08 star:0.2k fork:0.0k An input element that validates its value with a server endpoint.
 - [github/auto-complete-element](https://github.com/github/auto-complete-element) topic:custom-elements,web-components pushed_at:2026-08 star:0.4k fork:0.1k Auto-complete input values from server search results.
+- [github/awesome-copilot](https://github.com/github/awesome-copilot) topic:agent-skills,agents,ai,awesome,custom-agents,github-copilot,hacktoberfest,prompt-engineering pushed_at:2026-09 star:38.5k fork:4.9k Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [github/babel-plugin-ensure-name-for-custom-elements](https://github.com/github/babel-plugin-ensure-name-for-custom-elements) topic:babel-plugin,custom-elements pushed_at:2020-04 star:0.0k fork:0.0k This plugin makes sure that your custom elements always have a name property, even after minifying.
 - [github/babel-plugin-transform-custom-element-classes](https://github.com/github/babel-plugin-transform-custom-element-classes) topic: pushed_at:2020-08 star:0.1k fork:0.0k Compile ES6 HTMLElement class extensions to ES5
 - [github/babel-plugin-transform-invariant-location](https://github.com/github/babel-plugin-transform-invariant-location) topic:babel-plugin,flow pushed_at:2020-08 star:0.0k fork:0.0k Babel plugin that rewrites invariant calls with their source location
@@ -263,7 +266,7 @@
 - [github/combine-prs](https://github.com/github/combine-prs) topic:actions,automation,dependabot,dependencies,pull-requests,repo-management pushed_at:2025-03 star:0.2k fork:0.0k GitHub Action to combine multiple PRs into a single one
 - [github/combobox-nav](https://github.com/github/combobox-nav) topic:autocomplete,combobox,decorator pushed_at:2026-08 star:0.1k fork:0.0k Attach combobox navigation behavior to <input> or <textarea>.
 - [github/command](https://github.com/github/command) topic:automation,chatops,github-actions,issueops,workflows pushed_at:2026-03 star:0.2k fork:0.0k IssueOps commands in GitHub Actions
-- [github/copilot-survey-engine](https://github.com/github/copilot-survey-engine) topic: pushed_at:2026-07 star:0.1k fork:0.0k Engine for prompting users to take a survey about Copilot
+- [github/copilot-survey-engine](https://github.com/github/copilot-survey-engine) topic: pushed_at:2026-08 star:0.1k fork:0.0k Engine for prompting users to take a survey about Copilot
 - [github/d3](https://github.com/github/d3) topic: pushed_at:2018-03 star:0.0k fork:0.0k Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [github/debug-repo](https://github.com/github/debug-repo) topic:keep pushed_at:2022-07 star:0.0k fork:0.0k This is a debug repo for github-debug.com
 - [github/details-dialog-element](https://github.com/github/details-dialog-element) topic:custom-elements,web-components pushed_at:2022-09 star:0.8k fork:0.0k A modal dialog that's opened with <details>.
@@ -298,7 +301,7 @@
 - [github/lock](https://github.com/github/lock) topic:actions,ci,deployments,github-actions,lock pushed_at:2026-03 star:0.1k fork:0.0k Lock Action to support deployment locking for the branch-deploy Action
 - [github/maintainermonth](https://github.com/github/maintainermonth) topic: pushed_at:2026-06 star:0.2k fork:0.1k A month for maintainers to gather & share
 - [github/markdown-toolbar-element](https://github.com/github/markdown-toolbar-element) topic:custom-elements,markdown,web-components pushed_at:2026-08 star:0.4k fork:0.1k Markdown formatting buttons for text inputs.
-- [github/markdownlint-github](https://github.com/github/markdownlint-github) topic:markdownlint,markdownlint-rule pushed_at:2026-08 star:0.1k fork:0.0k An opinionated collection of markdownlint rules used by GitHub.
+- [github/markdownlint-github](https://github.com/github/markdownlint-github) topic:markdownlint,markdownlint-rule pushed_at:2026-09 star:0.1k fork:0.0k An opinionated collection of markdownlint rules used by GitHub.
 - [github/mlops](https://github.com/github/mlops) topic:actions,cicd,data-science,devops-tools,machine-learning,mlops,pages,primer,primer-design pushed_at:2022-10 star:0.0k fork:0.0k Use GitHub to facilitate automation, collaboration and reproducibility in your machine learning workflows.
 - [github/multimap](https://github.com/github/multimap) topic:keep,multimap pushed_at:2026-08 star:0.0k fork:0.0k A map in which more than one value may be stored under each key.
 - [github/node-statsd](https://github.com/github/node-statsd) topic: pushed_at:2015-02 star:0.0k fork:0.0k node.js client for Etsy'd StatsD server
@@ -356,11 +359,11 @@
 
 ## Others
 
-- [github/.github](https://github.com/github/.github) topic: pushed_at:2026-04 star:1.2k fork:3.7k Community health files for the @GitHub organization
-- [github/advisory-database](https://github.com/github/advisory-database) topic: pushed_at:2026-08 star:2.4k fork:0.7k Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
+- [github/.github](https://github.com/github/.github) topic: pushed_at:2026-04 star:1.2k fork:3.8k Community health files for the @GitHub organization
+- [github/advisory-database](https://github.com/github/advisory-database) topic: pushed_at:2026-09 star:2.4k fork:0.7k Security vulnerability database inclusive of CVEs and GitHub originated security advisories from the world of open source software.
 - [github/ai-adoption-playbook](https://github.com/github/ai-adoption-playbook) topic: pushed_at:2025-12 star:0.1k fork:0.0k GitHub's Playbook for Internal AI Adoption
 - [github/annotation-toolkit](https://github.com/github/annotation-toolkit) topic:accessibility,android-accessibility,annotation-toolkit,annotations,figma,figma-library,inclusive-design,ios-accessibility,mobile-annotation pushed_at:2026-05 star:0.3k fork:0.0k  The GitHub Annotation Toolkit is a Figma asset library packed with components to help you organize your design canvas, diagram UI anatomy, and annotate accessibility details for web and mobile experiences. 
-- [github/app](https://github.com/github/app) topic: pushed_at:2026-08 star:2.0k fork:0.1k The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
+- [github/app](https://github.com/github/app) topic: pushed_at:2026-08 star:2.1k fork:0.1k The GitHub Copilot app is an agent-native desktop experience for finding, running, steering, and landing software work across your GitHub repositories.
 - [github/aptly](https://github.com/github/aptly) topic: pushed_at:2014-09 star:0.0k fork:0.0k aptly - Debian repository management tool
 - [github/archive-program](https://github.com/github/archive-program) topic: pushed_at:2024-03 star:3.1k fork:0.3k The GitHub Archive Program & Arctic Code Vault
 - [github/backup-utils](https://github.com/github/backup-utils) topic:backups,github-enterprise pushed_at:2026-06 star:1.3k fork:0.6k GitHub Enterprise Backup Utilities
@@ -374,12 +377,11 @@
 - [github/codespaces-jetbrains-feedback](https://github.com/github/codespaces-jetbrains-feedback) topic: pushed_at:2023-08 star:0.0k fork:0.0k Feedback on the Codespaces integration with JetBrains IDEs
 - [github/computer-use-plugin](https://github.com/github/computer-use-plugin) topic: pushed_at:2026-08 star:0.0k fork:0.0k 
 - [github/copilot-advanced-security-plugin](https://github.com/github/copilot-advanced-security-plugin) topic:coding-agent,copilot,ghas,mcp,security pushed_at:2026-05 star:0.0k fork:0.0k The official GitHub Copilot Advanced Security plugin
-- [github/copilot-cli-for-beginners](https://github.com/github/copilot-cli-for-beginners) topic:ai-ready pushed_at:2026-08 star:2.8k fork:2.4k Learn how to get started using the GitHub Copilot CLI!
 - [github/copilot-docs](https://github.com/github/copilot-docs) topic: pushed_at:2023-11 star:23.2k fork:2.4k Documentation for GitHub Copilot
-- [github/copilot-language-server-release](https://github.com/github/copilot-language-server-release) topic:ai,copilot,language-server-protocol pushed_at:2026-08 star:0.3k fork:0.0k Feedback for the GitHub Copilot Language Server
+- [github/copilot-language-server-release](https://github.com/github/copilot-language-server-release) topic:ai,copilot,language-server-protocol pushed_at:2026-09 star:0.3k fork:0.0k Feedback for the GitHub Copilot Language Server
 - [github/covid-19-repo-data](https://github.com/github/covid-19-repo-data) topic:covid-19,dataset,extracts,open-data pushed_at:2023-03 star:0.5k fork:0.2k Data archive of identifiable COVID-19 related public projects on GitHub 
 - [github/cvelist](https://github.com/github/cvelist) topic: pushed_at:2023-09 star:0.0k fork:0.0k Pilot program for CVE submission through GitHub
-- [github/dev](https://github.com/github/dev) topic: pushed_at:2024-08 star:1.5k fork:6.0k Press the . key on any repo
+- [github/dev](https://github.com/github/dev) topic: pushed_at:2024-08 star:1.5k fork:5.9k Press the . key on any repo
 - [github/developer-policy](https://github.com/github/developer-policy) topic: pushed_at:2026-06 star:0.0k fork:0.0k The GitHub Policy Team created and maintains this repository as a place for developers to contribute to our policy work.
 - [github/DPG-guidance](https://github.com/github/DPG-guidance) topic: pushed_at:2023-07 star:0.0k fork:0.0k Repo for guidance on how to use GitHub for digital public goods (DPGs)
 - [github/form-templates](https://github.com/github/form-templates) topic: pushed_at:2024-09 star:0.0k fork:0.0k Public Form Templates to get your project started
@@ -398,8 +400,8 @@
 - [github/GitHub-for-Startups-HQ](https://github.com/github/GitHub-for-Startups-HQ) topic: pushed_at:2026-08 star:0.1k fork:0.0k GitHub for Startups HQ
 - [github/github-ospo](https://github.com/github/github-ospo) topic:open-source,open-source-program-office,ospo pushed_at:2026-08 star:0.7k fork:0.1k Helping open source program offices get started
 - [github/githubOCTO](https://github.com/github/githubOCTO) topic: pushed_at:2020-08 star:0.1k fork:0.0k 
-- [github/gitignore](https://github.com/github/gitignore) topic:git,gitignore pushed_at:2026-07 star:175.3k fork:82.3k A collection of useful .gitignore templates
-- [github/gov-takedowns](https://github.com/github/gov-takedowns) topic: pushed_at:2026-05 star:3.2k fork:0.2k Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
+- [github/gitignore](https://github.com/github/gitignore) topic:git,gitignore pushed_at:2026-08 star:175.5k fork:82.2k A collection of useful .gitignore templates
+- [github/gov-takedowns](https://github.com/github/gov-takedowns) topic: pushed_at:2026-08 star:3.2k fork:0.2k Text of government takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices.
 - [github/GreenSoftwareDirectory](https://github.com/github/GreenSoftwareDirectory) topic:developer-community,green-software,sustainability pushed_at:2026-02 star:0.9k fork:0.1k Welcome to GitHub's Green Software Directory!
 - [github/grocer](https://github.com/github/grocer) topic: pushed_at:2014-09 star:0.0k fork:0.0k Pushing your Apple notifications since 2012.
 - [github/homebrew-gh](https://github.com/github/homebrew-gh) topic:cli,homebrew-tap pushed_at:2020-08 star:0.1k fork:0.0k Homebrew tap for the GitHub CLI
@@ -428,12 +430,11 @@
 - [github/renaming](https://github.com/github/renaming) topic: pushed_at:2022-03 star:2.5k fork:0.2k Guidance for changing the default branch name for GitHub repositories
 - [github/rest-api-description](https://github.com/github/rest-api-description) topic: pushed_at:2026-08 star:1.6k fork:0.3k An OpenAPI description for GitHub's REST API
 - [github/rest-api-docs-md](https://github.com/github/rest-api-docs-md) topic:documentation,github,markdown,rest,rest-api pushed_at:2025-09 star:0.0k fork:0.0k Documentation for read-only REST API operations, generated from the OpenAPI schema
-- [github/roadmap](https://github.com/github/roadmap) topic:github,github-enterprise,roadmap pushed_at:2024-10 star:8.8k fork:1.7k GitHub public roadmap
+- [github/roadmap](https://github.com/github/roadmap) topic:github,github-enterprise,roadmap pushed_at:2024-10 star:8.9k fork:1.8k GitHub public roadmap
 - [github/roskomnadzor](https://github.com/github/roskomnadzor) topic: pushed_at:2016-06 star:0.4k fork:0.0k deprecated archive — moved to https://github.com/github/gov-takedowns/tree/master/Russia
 - [github/ruby-test-tracer](https://github.com/github/ruby-test-tracer) topic: pushed_at:2020-12 star:0.0k fork:0.0k OpenTracing compatible Tracer implementation to be used in tests in Ruby  
 - [github/ruleset-recipes](https://github.com/github/ruleset-recipes) topic: pushed_at:2026-02 star:0.5k fork:0.1k Quickstart your use of Repository Rules with prebuilt rulesets ready to import. 
-- [github/simpleforce](https://github.com/github/simpleforce) topic: pushed_at:2024-05 star:0.0k fork:0.0k Simple Golang client for Salesforce
-- [github/site-policy](https://github.com/github/site-policy) topic:law,policy,privacy-policy,terms-of-service pushed_at:2026-07 star:2.1k fork:0.8k Collaborative development on GitHub's site policies, procedures, and guidelines
+- [github/site-policy](https://github.com/github/site-policy) topic:law,policy,privacy-policy,terms-of-service pushed_at:2026-08 star:2.2k fork:0.8k Collaborative development on GitHub's site policies, procedures, and guidelines
 - [github/Skills-Based-Volunteering-Public](https://github.com/github/Skills-Based-Volunteering-Public) topic: pushed_at:2026-05 star:0.0k fork:0.0k Template for setting up a Skills-Based Volunteering Program
 - [github/stale](https://github.com/github/stale) topic: pushed_at:2020-09 star:0.0k fork:0.0k Marks issues and pull requests that have not had recent interaction
 - [github/strap](https://github.com/github/strap) topic: pushed_at:2022-10 star:0.1k fork:0.0k Archived fork of mikemcquaid/strap ☠️
@@ -459,7 +460,6 @@
 - [github/argo-ml](https://github.com/github/argo-ml) topic: pushed_at:2021-04 star:0.0k fork:0.0k Controllers, wrappers and miscaleus utils to make it easier for Argo to be used in ML scenarios
 - [github/artifact-attestations-workflows](https://github.com/github/artifact-attestations-workflows) topic:package-security pushed_at:2026-08 star:0.0k fork:0.0k Demo repository showcasing how to use reusable workflows to build artifact attestations
 - [github/automatic-contrib-prs](https://github.com/github/automatic-contrib-prs) topic:actions,documentation,github-actions,hacktoberfest,innersource,open-source,ospo pushed_at:2025-04 star:0.0k fork:0.0k Automatically open a pull request for repositories that have no CONTRIBUTING.md file
-- [github/awesome-copilot](https://github.com/github/awesome-copilot) topic:agent-skills,agents,ai,awesome,custom-agents,github-copilot,hacktoberfest,prompt-engineering pushed_at:2026-08 star:37.9k fork:4.8k Community-contributed instructions, agents, skills, and configurations to help you make the most of GitHub Copilot.
 - [github/codespaces-django](https://github.com/github/codespaces-django) topic: pushed_at:2025-06 star:0.1k fork:0.2k 
 - [github/collectd-elasticsearch](https://github.com/github/collectd-elasticsearch) topic: pushed_at:2018-02 star:0.0k fork:0.0k CollectD ElasticSearch plugin
 - [github/copilot-codespaces-demo](https://github.com/github/copilot-codespaces-demo) topic:codespaces,copilot pushed_at:2026-02 star:0.1k fork:0.0k Welcome to the Copilot + Codespaces Demo Experience!
@@ -469,14 +469,14 @@
 - [github/git-sms](https://github.com/github/git-sms) topic: pushed_at:2025-07 star:0.0k fork:0.0k  Proof-of-concept. GitHub via SMS.
 - [github/government-open-source-policies](https://github.com/github/government-open-source-policies) topic:government,open-data,open-source,policies pushed_at:2026-06 star:0.1k fork:0.0k Dataset of Government Open Source Policies
 - [github/incubator-airflow](https://github.com/github/incubator-airflow) topic: pushed_at:2023-10 star:0.0k fork:0.0k Apache Airflow (Incubating)
-- [github/innovationgraph](https://github.com/github/innovationgraph) topic:data,github,open-data pushed_at:2026-07 star:0.6k fork:0.1k GitHub Innovation Graph
+- [github/innovationgraph](https://github.com/github/innovationgraph) topic:data,github,open-data pushed_at:2026-09 star:0.6k fork:0.1k GitHub Innovation Graph
 - [github/octokit.py](https://github.com/github/octokit.py) topic: pushed_at:2017-06 star:0.0k fork:0.0k GitHub API client for Python
 - [github/open-data-on-github](https://github.com/github/open-data-on-github) topic:dataset,datasets,open-data,open-datasets,open-source pushed_at:2025-03 star:0.0k fork:0.0k Dataset files for the Open Data on GitHub paper
 - [github/osv-schema](https://github.com/github/osv-schema) topic: pushed_at:2022-01 star:0.0k fork:0.0k Open Source Vulnerability schema. 
 - [github/pycon2011](https://github.com/github/pycon2011) topic: pushed_at:2011-02 star:0.4k fork:0.1k 
 - [github/Research-Panel-Sweepstakes](https://github.com/github/Research-Panel-Sweepstakes) topic: pushed_at:2026-07 star:0.0k fork:0.0k 
 - [github/snakebite](https://github.com/github/snakebite) topic: pushed_at:2017-10 star:0.0k fork:0.0k A pure python HDFS client
-- [github/spec-kit](https://github.com/github/spec-kit) topic:ai,copilot,development,engineering,prd,spec,spec-driven pushed_at:2026-08 star:129.6k fork:11.6k 💫 Toolkit to help you get started with Spec-Driven Development
+- [github/spec-kit](https://github.com/github/spec-kit) topic:ai,copilot,development,engineering,prd,spec,spec-driven pushed_at:2026-08 star:132.7k fork:11.9k 💫 Toolkit to help you get started with Spec-Driven Development
 - [github/transparency](https://github.com/github/transparency) topic:data,dataset,open-data,transparency pushed_at:2026-08 star:0.0k fork:0.0k Structured data files for topics covered by GitHub's Transparency Report
 - [github/user-engagement-metrics](https://github.com/github/user-engagement-metrics) topic:open-source-metrics pushed_at:2025-07 star:0.0k fork:0.0k A tool for collecting and analyzing GitHub user engagement data.
 
@@ -491,7 +491,7 @@
 - [github/brasil](https://github.com/github/brasil) topic:brasil,brazil,community,developer,developers,github,open-source,ruby pushed_at:2025-07 star:0.8k fork:0.1k Recursos e informações do GitHub para a comunidade tech do Brasil.
 - [github/canvas-lms](https://github.com/github/canvas-lms) topic: pushed_at:2024-07 star:0.0k fork:0.0k The open LMS by Instructure, Inc.
 - [github/chatops-controller](https://github.com/github/chatops-controller) topic:chatops,chatops-rpc pushed_at:2026-01 star:0.1k fork:0.0k A rails plugin to make creating chatops easy
-- [github/codespaces-rails](https://github.com/github/codespaces-rails) topic: pushed_at:2026-07 star:0.1k fork:0.1k 
+- [github/codespaces-rails](https://github.com/github/codespaces-rails) topic: pushed_at:2026-08 star:0.1k fork:0.1k 
 - [github/darrrr](https://github.com/github/darrrr) topic:authentication,cryptography,facebook,federation,rails,ruby,ruby-on-rails,sinatra pushed_at:2020-03 star:0.1k fork:0.0k An SDK for the delegated recovery specfication
 - [github/dat-analysis](https://github.com/github/dat-analysis) topic: pushed_at:2014-05 star:0.1k fork:0.0k Analyze results from dat-science.
 - [github/dat-science](https://github.com/github/dat-science) topic: pushed_at:2014-11 star:0.6k fork:0.0k Replaced by https://github.com/github/scientist
@@ -535,7 +535,7 @@
 - [github/hubahuba](https://github.com/github/hubahuba) topic: pushed_at:2013-12 star:0.1k fork:0.0k Ruby and Rails core extensions used by GitHub.
 - [github/india](https://github.com/github/india) topic:github,india pushed_at:2025-02 star:1.8k fork:0.4k GitHub resources and information for the developer community in India
 - [github/janky](https://github.com/github/janky) topic:hubot-script,jenkins,ruby pushed_at:2022-04 star:2.7k fork:0.2k Continuous integration server built on top of Jenkins and Hubot
-- [github/jekyll-commonmark-ghpages](https://github.com/github/jekyll-commonmark-ghpages) topic: pushed_at:2026-07 star:0.1k fork:0.0k CommonMark generator for Jekyll used by GitHub Pages
+- [github/jekyll-commonmark-ghpages](https://github.com/github/jekyll-commonmark-ghpages) topic: pushed_at:2026-09 star:0.1k fork:0.0k CommonMark generator for Jekyll used by GitHub Pages
 - [github/jenkins_api_client](https://github.com/github/jenkins_api_client) topic: pushed_at:2018-09 star:0.0k fork:0.0k Ruby Client libraries for communicating with Jenkins Remote Access API
 - [github/ledbetter](https://github.com/github/ledbetter) topic: pushed_at:2015-01 star:0.0k fork:0.0k Script that scrapes alert statistics from Nagios and reports them to Graphite
 - [github/lightstep-tracer-ruby](https://github.com/github/lightstep-tracer-ruby) topic: pushed_at:2021-05 star:0.0k fork:0.0k The LightStep distributed tracing library for Ruby
@@ -620,7 +620,7 @@
 - [github/multibinder](https://github.com/github/multibinder) topic: pushed_at:2018-08 star:0.2k fork:0.0k multibinder is a tiny ruby server that makes writing zero-downtime-reload services simpler.
 - [github/mysql-haproxy-xinetd](https://github.com/github/mysql-haproxy-xinetd) topic: pushed_at:2016-07 star:0.1k fork:0.0k Context aware MySQL Replica pools via HAProxy, sample configs & scripts
 - [github/octoforce-actions](https://github.com/github/octoforce-actions) topic:ci-cd,github-actions,salesforce,sfdx pushed_at:2026-08 star:0.0k fork:0.0k A lightweight open-source Salesforce CI/CD template built on the GitHub Actions platform.
-- [github/platform-samples](https://github.com/github/platform-samples) topic:graphql,hooks,javascript,platform,platform-samples,pre-receive-hooks,ruby,sample pushed_at:2026-03 star:2.2k fork:1.9k A public place for all platform sample projects.
+- [github/platform-samples](https://github.com/github/platform-samples) topic:graphql,hooks,javascript,platform,platform-samples,pre-receive-hooks,ruby,sample pushed_at:2026-08 star:2.2k fork:1.9k A public place for all platform sample projects.
 - [github/scripts-to-rule-them-all](https://github.com/github/scripts-to-rule-them-all) topic: pushed_at:2022-12 star:3.3k fork:0.3k Set of boilerplate scripts describing the normalized script pattern that GitHub uses in its projects.
 - [github/ssh-key-algo](https://github.com/github/ssh-key-algo) topic: pushed_at:2022-10 star:0.0k fork:0.0k Script to check if the SSH key algorithm is up to date
 - [github/super-linter](https://github.com/github/super-linter) topic: pushed_at:2026-07 star:0.2k fork:0.0k Combination of multiple linters to install as a GitHub Action
@@ -633,9 +633,13 @@
 - [github/Quick](https://github.com/github/Quick) topic: pushed_at:2014-11 star:0.0k fork:0.0k A behavior-driven development test framework for Swift and Objective-C.
 - [github/SoftU2F](https://github.com/github/SoftU2F) topic:cryptography,fido-u2f,macos pushed_at:2020-12 star:2.2k fork:0.1k Software U2F authenticator for macOS
 
+## Tape
+
+- [github/copilot-cli-for-beginners](https://github.com/github/copilot-cli-for-beginners) topic:ai-ready pushed_at:2026-08 star:2.8k fork:2.5k Learn how to get started using the GitHub Copilot CLI!
+
 ## TypeScript
 
-- [github/accessibility-scanner](https://github.com/github/accessibility-scanner) topic: pushed_at:2026-08 star:0.3k fork:0.0k Finds potential accessibility gaps, files GitHub issues to track them, and attempts to fix them with Copilot.
+- [github/accessibility-scanner](https://github.com/github/accessibility-scanner) topic: pushed_at:2026-08 star:0.4k fork:0.0k Finds potential accessibility gaps, files GitHub issues to track them, and attempts to fix them with Copilot.
 - [github/accessibility-scanner-alt-text-plugin](https://github.com/github/accessibility-scanner-alt-text-plugin) topic: pushed_at:2026-08 star:0.0k fork:0.0k A plugin for the GitHub Accessibility Scanner that flags low-quality alt text on images.
 - [github/ai-assessment-comment-labeler](https://github.com/github/ai-assessment-comment-labeler) topic: pushed_at:2025-10 star:0.1k fork:0.0k AI-powered issue intake tool. Action for retrieving AI assessments for supplied text body
 - [github/ai-moderator](https://github.com/github/ai-moderator) topic:actions,ai,spam-detection,spam-prevention pushed_at:2026-08 star:0.2k fork:0.0k An AI-powered GitHub Action that detects and tags spam in your repository
@@ -653,16 +657,16 @@
 - [github/custom-element-boilerplate](https://github.com/github/custom-element-boilerplate) topic:custom-elements,web-components pushed_at:2025-10 star:0.2k fork:0.0k Boilerplate for creating a custom element.
 - [github/dependabot-action](https://github.com/github/dependabot-action) topic: pushed_at:2026-08 star:0.1k fork:0.1k Runs Dependabot Updates via GitHub Actions.
 - [github/dependency-submission-toolkit](https://github.com/github/dependency-submission-toolkit) topic: pushed_at:2026-08 star:0.1k fork:0.0k A TypeScript library for creating dependency snapshots. 
-- [github/docs](https://github.com/github/docs) topic:docs,works-with-codespaces pushed_at:2026-08 star:20.7k fork:68.3k The open-source repo for docs.github.com
+- [github/docs](https://github.com/github/docs) topic:docs,works-with-codespaces pushed_at:2026-08 star:20.8k fork:68.5k The open-source repo for docs.github.com
 - [github/Dynamic-Template-Engine](https://github.com/github/Dynamic-Template-Engine) topic: pushed_at:2025-03 star:0.0k fork:0.0k A typescript library to transform event payloads (in json format) to standard jsons or chat client platform specific jsons (e.g. Slack and Teams) using templates (e.g. handlebars)
 - [github/file-attachment-element](https://github.com/github/file-attachment-element) topic:custom-elements,keep,web-components pushed_at:2026-08 star:0.1k fork:0.0k Attach files via drag and drop or file input.
 - [github/filter-input-element](https://github.com/github/filter-input-element) topic:custom-elements,web-components pushed_at:2026-08 star:0.1k fork:0.0k Display elements in a subtree that match filter input text.
-- [github/forgoodfirstissue](https://github.com/github/forgoodfirstissue) topic:github,open-source pushed_at:2026-08 star:0.2k fork:0.1k Find your first issue for good to contribute to
-- [github/gh-aw-firewall](https://github.com/github/gh-aw-firewall) topic:agentic,github,workflows pushed_at:2026-08 star:0.1k fork:0.1k GitHub Agentic Workflows Firewall
+- [github/forgoodfirstissue](https://github.com/github/forgoodfirstissue) topic:github,open-source pushed_at:2026-09 star:0.2k fork:0.1k Find your first issue for good to contribute to
+- [github/gh-aw-firewall](https://github.com/github/gh-aw-firewall) topic:agentic,github,workflows pushed_at:2026-09 star:0.1k fork:0.1k GitHub Agentic Workflows Firewall
 - [github/github-artifact-exporter](https://github.com/github/github-artifact-exporter) topic: pushed_at:2023-01 star:0.3k fork:0.0k A set of packages to make exporting artifacts from GitHub easier
-- [github/github-event-mirror-azure-function](https://github.com/github/github-event-mirror-azure-function) topic: pushed_at:2026-03 star:0.0k fork:0.0k Mirror GitHub events back to their originating repo to trigger Actions workflows, using this Azure Function
+- [github/github-event-mirror-azure-function](https://github.com/github/github-event-mirror-azure-function) topic: pushed_at:2026-08 star:0.0k fork:0.0k Mirror GitHub events back to their originating repo to trigger Actions workflows, using this Azure Function
 - [github/image-crop-element](https://github.com/github/image-crop-element) topic:custom-elements,image-crop,image-cropper,web-components pushed_at:2026-08 star:0.2k fork:0.0k A custom element for cropping a square image. Returns x, y, width, and height.
-- [github/issue-labeler](https://github.com/github/issue-labeler) topic: pushed_at:2025-11 star:0.2k fork:0.1k An action for automatically labelling issues
+- [github/issue-labeler](https://github.com/github/issue-labeler) topic: pushed_at:2026-08 star:0.2k fork:0.1k An action for automatically labelling issues
 - [github/issue-parser](https://github.com/github/issue-parser) topic: pushed_at:2026-06 star:0.0k fork:0.0k Convert issue form responses to JSON
 - [github/jtml](https://github.com/github/jtml) topic: pushed_at:2024-03 star:0.2k fork:0.0k Write HTML in JavaScript, using template-tags.
 - [github/lit-html](https://github.com/github/lit-html) topic: pushed_at:2018-04 star:0.0k fork:0.0k HTML template literals in JavaScript
