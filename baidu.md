@@ -172,8 +172,8 @@
 - [baidu/pymochow](https://github.com/baidu/pymochow) topic: pushed_at:2026-05 star:0.0k fork:0.0k 
 - [baidu/QCompute](https://github.com/baidu/QCompute) topic: pushed_at:2023-12 star:0.1k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
 - [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2024-08 star:2.0k fork:0.4k Baidu's open-source Sentiment Analysis System.
-- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) topic: pushed_at:2026-07 star:23.9k fork:2.5k Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
-- [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun) topic: pushed_at:2026-08 star:0.4k fork:0.1k vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU.
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) topic: pushed_at:2026-07 star:24.9k fork:2.6k Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun) topic: pushed_at:2026-08 star:0.5k fork:0.1k vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) topic: pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
 
 ## Ruby
