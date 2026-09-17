@@ -60,7 +60,7 @@
 - [baidu/lac](https://github.com/baidu/lac) topic:chinese-nlp,chinese-word-segmentation,java,lexical-analysis,named-entity-recognition,part-of-speech-tagger,python,word-segmentation pushed_at:2021-05 star:4.0k fork:0.6k 百度NLP：分词，词性标注，命名实体识别，词重要性
 - [baidu/openrasp](https://github.com/baidu/openrasp) topic:devsecops,iast,rasp,security,waf pushed_at:2025-10 star:3.0k fork:0.6k 🔥Open source RASP solution
 - [baidu/shuttle](https://github.com/baidu/shuttle) topic: pushed_at:2018-07 star:0.1k fork:0.0k A fast computing framework based on Galaxy
-- [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) topic: pushed_at:2023-08 star:2.1k fork:0.6k A light-weight RPC implement of google protobuf RPC framework.
+- [baidu/sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) topic: pushed_at:2023-08 star:2.1k fork:0.7k A light-weight RPC implement of google protobuf RPC framework.
 - [baidu/tera](https://github.com/baidu/tera) topic:baidu,bigtable,c-plus-plus,data,database,hbase,nosql,storage pushed_at:2024-06 star:1.9k fork:0.4k An Internet-Scale Database.
 - [baidu/unit-dmkit](https://github.com/baidu/unit-dmkit) topic:bot,dialogue,dialogue-manager,dialogue-systems pushed_at:2019-08 star:0.3k fork:0.1k 
 - [baidu/unit-uskit](https://github.com/baidu/unit-uskit) topic:bot,dialog,dialogflow,dialogue-systems pushed_at:2021-06 star:0.2k fork:0.1k unit-uskit
@@ -172,8 +172,8 @@
 - [baidu/pymochow](https://github.com/baidu/pymochow) topic: pushed_at:2026-05 star:0.0k fork:0.0k 
 - [baidu/QCompute](https://github.com/baidu/QCompute) topic: pushed_at:2023-12 star:0.1k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
 - [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2024-08 star:2.0k fork:0.4k Baidu's open-source Sentiment Analysis System.
-- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) topic: pushed_at:2026-07 star:24.9k fork:2.6k Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
-- [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun) topic: pushed_at:2026-08 star:0.5k fork:0.1k vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU.
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) topic: pushed_at:2026-07 star:25.7k fork:2.7k Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun) topic: pushed_at:2026-09 star:0.5k fork:0.1k vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) topic: pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
 
 ## Ruby
