@@ -41,11 +41,11 @@
 - [pingcap/boost-extra](https://github.com/pingcap/boost-extra) topic: pushed_at:2022-06 star:0.0k fork:0.0k extra boost libs for libhdfs3
 - [pingcap/capnproto](https://github.com/pingcap/capnproto) topic: pushed_at:2019-01 star:0.0k fork:0.0k Cap'n Proto serialization/RPC system - core tools and C++ library
 - [pingcap/sqlsmith](https://github.com/pingcap/sqlsmith) topic: pushed_at:2019-10 star:0.0k fork:0.0k A random SQL query generator
-- [pingcap/tiflash](https://github.com/pingcap/tiflash) topic: pushed_at:2026-08 star:1.0k fork:0.4k The analytical engine for TiDB and TiDB Cloud. Try free: https://tidbcloud.com/free-trial
+- [pingcap/tiflash](https://github.com/pingcap/tiflash) topic: pushed_at:2026-09 star:1.0k fork:0.4k The analytical engine for TiDB and TiDB Cloud. Try free: https://tidbcloud.com/free-trial
 
 ## CMake
 
-- [pingcap/kvproto](https://github.com/pingcap/kvproto) topic: pushed_at:2026-08 star:0.2k fork:0.2k Protocol buffer files for TiKV
+- [pingcap/kvproto](https://github.com/pingcap/kvproto) topic: pushed_at:2026-09 star:0.2k fork:0.2k Protocol buffer files for TiKV
 
 ## Clojure
 
@@ -83,7 +83,7 @@
 - [pingcap/mysql-tester](https://github.com/pingcap/mysql-tester) topic: pushed_at:2026-01 star:0.1k fork:0.1k A Golang implementation of MySQL Test Framework
 - [pingcap/mysqlrelay](https://github.com/pingcap/mysqlrelay) topic: pushed_at:2015-12 star:0.0k fork:0.0k 
 - [pingcap/mysqlx-driver](https://github.com/pingcap/mysqlx-driver) topic: pushed_at:2017-12 star:0.0k fork:0.0k A MySQL X protocol driver for Go's database/sql package
-- [pingcap/ng-monitoring](https://github.com/pingcap/ng-monitoring) topic: pushed_at:2026-08 star:0.0k fork:0.0k 
+- [pingcap/ng-monitoring](https://github.com/pingcap/ng-monitoring) topic: pushed_at:2026-09 star:0.0k fork:0.0k 
 - [pingcap/octopus](https://github.com/pingcap/octopus) topic: pushed_at:2019-06 star:0.0k fork:0.0k A toolkit including many powerful distributed test tools
 - [pingcap/os-ubuntu-tikv](https://github.com/pingcap/os-ubuntu-tikv) topic: pushed_at:2020-06 star:0.0k fork:0.0k 
 - [pingcap/parser](https://github.com/pingcap/parser) topic: pushed_at:2023-12 star:1.4k fork:0.5k A MySQL Compatible SQL Parser
@@ -96,17 +96,17 @@
 - [pingcap/tidb-ctl](https://github.com/pingcap/tidb-ctl) topic: pushed_at:2025-04 star:0.0k fork:0.0k TiDB Controller
 - [pingcap/tidb-lightning](https://github.com/pingcap/tidb-lightning) topic:import-and-export,tidb pushed_at:2021-04 star:0.1k fork:0.1k This repository has been moved to https://github.com/pingcap/br
 - [pingcap/tidb-lmdb](https://github.com/pingcap/tidb-lmdb) topic: pushed_at:2015-08 star:0.0k fork:0.0k lmdb as storage engine for tidb
-- [pingcap/tidb-operator](https://github.com/pingcap/tidb-operator) topic:cloud-native,golang,hacktoberfest,kubernetes,operator,tidb pushed_at:2026-08 star:1.3k fork:0.5k TiDB operator creates and manages TiDB clusters running in Kubernetes.
+- [pingcap/tidb-operator](https://github.com/pingcap/tidb-operator) topic:cloud-native,golang,hacktoberfest,kubernetes,operator,tidb pushed_at:2026-09 star:1.3k fork:0.5k TiDB operator creates and manages TiDB clusters running in Kubernetes.
 - [pingcap/tidb-tools](https://github.com/pingcap/tidb-tools) topic: pushed_at:2026-08 star:0.3k fork:0.2k tidb-tools are some useful tool collections for TiDB.
 - [pingcap/tidb_workload_analysis](https://github.com/pingcap/tidb_workload_analysis) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
 - [pingcap/tidiff](https://github.com/pingcap/tidiff) topic: pushed_at:2023-05 star:0.0k fork:0.0k A toolset to improve efficiency 
-- [pingcap/tiflow](https://github.com/pingcap/tiflow) topic:cdc,dm,kafka,mysql,ticdc,tidb pushed_at:2026-08 star:0.5k fork:0.3k This repo maintains DM (a data migration platform) and TiCDC (change data capture for TiDB)
+- [pingcap/tiflow](https://github.com/pingcap/tiflow) topic:cdc,dm,kafka,mysql,ticdc,tidb pushed_at:2026-09 star:0.5k fork:0.3k This repo maintains DM (a data migration platform) and TiCDC (change data capture for TiDB)
 - [pingcap/tiflow-operator](https://github.com/pingcap/tiflow-operator) topic: pushed_at:2025-03 star:0.0k fork:0.0k TiFlow-Operator creates and manages TiFlow clusters running in Kubernetes.
-- [pingcap/tipb](https://github.com/pingcap/tipb) topic: pushed_at:2026-08 star:0.1k fork:0.2k TiDB protobuf
+- [pingcap/tipb](https://github.com/pingcap/tipb) topic: pushed_at:2026-09 star:0.1k fork:0.2k TiDB protobuf
 - [pingcap/tipocket](https://github.com/pingcap/tipocket) topic:chaos,chaos-mesh,consistency,elle,golang,isolation,sqlsmith pushed_at:2023-02 star:0.1k fork:0.1k A toolkit for testing TiDB
-- [pingcap/tiproxy](https://github.com/pingcap/tiproxy) topic: pushed_at:2026-08 star:0.1k fork:0.0k 
+- [pingcap/tiproxy](https://github.com/pingcap/tiproxy) topic: pushed_at:2026-09 star:0.1k fork:0.0k 
 - [pingcap/tiunimanager](https://github.com/pingcap/tiunimanager) topic: pushed_at:2026-08 star:0.0k fork:0.0k TiUniManager
-- [pingcap/tiup](https://github.com/pingcap/tiup) topic:cluster,playground,tidb,tidb-components,tiup pushed_at:2026-08 star:0.5k fork:0.3k A component manager for TiDB
+- [pingcap/tiup](https://github.com/pingcap/tiup) topic:cluster,playground,tidb,tidb-components,tiup pushed_at:2026-09 star:0.5k fork:0.3k A component manager for TiDB
 - [pingcap/tso](https://github.com/pingcap/tso) topic: pushed_at:2016-02 star:0.0k fork:0.0k Timestamp Oracle
 - [pingcap/work-reporter](https://github.com/pingcap/work-reporter) topic: pushed_at:2019-08 star:0.0k fork:0.0k A simple tool to generate report from Jira/Github for our TiDB team
 
@@ -117,7 +117,7 @@
 
 ## Java
 
-- [pingcap/benchmarksql](https://github.com/pingcap/benchmarksql) topic: pushed_at:2026-06 star:0.1k fork:0.1k Unofficial mirror of benchmarksql on github
+- [pingcap/benchmarksql](https://github.com/pingcap/benchmarksql) topic: pushed_at:2026-09 star:0.1k fork:0.1k Unofficial mirror of benchmarksql on github
 - [pingcap/mybatis-3](https://github.com/pingcap/mybatis-3) topic: pushed_at:2018-12 star:0.0k fork:0.0k MyBatis data mapper framework
 - [pingcap/mysql-connector-j](https://github.com/pingcap/mysql-connector-j) topic: pushed_at:2023-09 star:0.0k fork:0.0k MySQL Connector/J
 - [pingcap/themis](https://github.com/pingcap/themis) topic: pushed_at:2018-12 star:0.0k fork:0.0k Themis provides cross-row/cross-table transaction on HBase based on google's percolator.
@@ -132,7 +132,7 @@
 - [pingcap/campaign](https://github.com/pingcap/campaign) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [pingcap/community-website](https://github.com/pingcap/community-website) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 - [pingcap/docs-staging](https://github.com/pingcap/docs-staging) topic: pushed_at:2026-09 star:0.0k fork:0.0k 
-- [pingcap/docs-toolkit](https://github.com/pingcap/docs-toolkit) topic: pushed_at:2026-06 star:0.0k fork:0.0k The essential utility library for automating, validating, and ensuring the quality and consistency of the official TiDB documentation.
+- [pingcap/docs-toolkit](https://github.com/pingcap/docs-toolkit) topic: pushed_at:2026-09 star:0.0k fork:0.0k The essential utility library for automating, validating, and ensuring the quality and consistency of the official TiDB documentation.
 - [pingcap/tidb-vision](https://github.com/pingcap/tidb-vision) topic: pushed_at:2022-12 star:0.0k fork:0.0k TiDB data visualization
 - [pingcap/website](https://github.com/pingcap/website) topic: pushed_at:2023-05 star:0.0k fork:0.0k The website of PingCAP. Powered by Gatsby ⚛️ and Rocket 🚀.
 
@@ -209,7 +209,7 @@
 - [pingcap/rust-protobuf](https://github.com/pingcap/rust-protobuf) topic: pushed_at:2025-10 star:0.0k fork:0.0k Rust implementation of Google protocol buffers
 - [pingcap/talent-plan](https://github.com/pingcap/talent-plan) topic:distributed-database,distributed-systems,golang,open-source,pingcap,rust,talent-plan pushed_at:2023-09 star:11.0k fork:1.4k open source training courses about distributed database and distributed systems
 - [pingcap/tantivy](https://github.com/pingcap/tantivy) topic: pushed_at:2026-07 star:0.0k fork:0.0k Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [pingcap/tidb-engine-ext](https://github.com/pingcap/tidb-engine-ext) topic: pushed_at:2026-06 star:0.0k fork:0.0k A TiKV based `c dynamic library` for extending storage system in TiDB cluster
+- [pingcap/tidb-engine-ext](https://github.com/pingcap/tidb-engine-ext) topic: pushed_at:2026-09 star:0.0k fork:0.0k A TiKV based `c dynamic library` for extending storage system in TiDB cluster
 
 ## Scala
 
@@ -223,7 +223,7 @@
 - [pingcap/k8s-fluent-bit-stackdriver](https://github.com/pingcap/k8s-fluent-bit-stackdriver) topic: pushed_at:2019-08 star:0.0k fork:0.0k 
 - [pingcap/kdt](https://github.com/pingcap/kdt) topic: pushed_at:2019-03 star:0.0k fork:0.0k Kernel Debug Toolkit
 - [pingcap/kubeadm-dind-cluster](https://github.com/pingcap/kubeadm-dind-cluster) topic: pushed_at:2018-12 star:0.0k fork:0.0k A Kubernetes multi-node test cluster based on kubeadm
-- [pingcap/monitoring](https://github.com/pingcap/monitoring) topic: pushed_at:2026-08 star:0.0k fork:0.0k 
+- [pingcap/monitoring](https://github.com/pingcap/monitoring) topic: pushed_at:2026-09 star:0.0k fork:0.0k 
 - [pingcap/tidb-course-201-lab](https://github.com/pingcap/tidb-course-201-lab) topic: pushed_at:2025-05 star:0.0k fork:0.0k Lab scripts for the PingCAP training course: TiDB SQL for Developers.
 - [pingcap/tidb-helper](https://github.com/pingcap/tidb-helper) topic:brew,deb,rpm pushed_at:2020-04 star:0.0k fork:0.0k 
 - [pingcap/wordpress-tidb-docker](https://github.com/pingcap/wordpress-tidb-docker) topic: pushed_at:2023-10 star:0.0k fork:0.0k WordPress x TiDB Serverless Tier Cluster
@@ -243,11 +243,11 @@
 - [pingcap/ossinsight-next](https://github.com/pingcap/ossinsight-next) topic: pushed_at:2026-02 star:0.0k fork:0.0k 
 - [pingcap/sp500-insight-template](https://github.com/pingcap/sp500-insight-template) topic: pushed_at:2023-10 star:0.0k fork:0.0k SP500 Insight vercel template based on TiDB Cloud Data API: https://sp500-insight.vercel.app
 - [pingcap/steam-insight-template](https://github.com/pingcap/steam-insight-template) topic: pushed_at:2023-03 star:0.0k fork:0.0k Steam Insight vercel template based on TiDB Cloud Data API: https://steam-insight.vercel.app/
-- [pingcap/tidb-dashboard](https://github.com/pingcap/tidb-dashboard) topic:dashboard,tidb,troubleshooting,ui pushed_at:2026-08 star:0.2k fork:0.2k A Web UI for monitoring, diagnosing and managing the TiDB cluster.
+- [pingcap/tidb-dashboard](https://github.com/pingcap/tidb-dashboard) topic:dashboard,tidb,troubleshooting,ui pushed_at:2026-09 star:0.2k fork:0.2k A Web UI for monitoring, diagnosing and managing the TiDB cluster.
 - [pingcap/TiDB-Lambda-integration](https://github.com/pingcap/TiDB-Lambda-integration) topic: pushed_at:2023-04 star:0.0k fork:0.0k 
 - [pingcap/tidb-prisma-vercel-demo](https://github.com/pingcap/tidb-prisma-vercel-demo) topic:bookstore,ecommerce,nextjs,prisma,tidb,tidbcloud,vercel pushed_at:2024-12 star:0.1k fork:0.0k Virtual online bookstore application demo which you can find books of various categories and rate the books.
 - [pingcap/tiunimanager-ui](https://github.com/pingcap/tiunimanager-ui) topic:tidb,tiunimanager,ui pushed_at:2026-08 star:0.0k fork:0.0k A web UI for TiUniManager
-- [pingcap/website-docs](https://github.com/pingcap/website-docs) topic: pushed_at:2026-08 star:0.0k fork:0.0k The next generation of PingCAP Docs. Powered by Gatsby ⚛️.
+- [pingcap/website-docs](https://github.com/pingcap/website-docs) topic: pushed_at:2026-09 star:0.0k fork:0.0k The next generation of PingCAP Docs. Powered by Gatsby ⚛️.
 
 
 ## License
