@@ -49,12 +49,12 @@
 ## C#
 
 - [apple/StreamingSession](https://github.com/apple/StreamingSession) topic: pushed_at:2026-08 star:0.0k fork:0.0k Streaming immersive content from a CloudXR™ application to visionOS and iOS
-- [apple/unityplugins](https://github.com/apple/unityplugins) topic: pushed_at:2026-09 star:1.0k fork:0.2k 
+- [apple/unityplugins](https://github.com/apple/unityplugins) topic: pushed_at:2026-09 star:1.0k fork:0.3k 
 
 ## C++
 
 - [apple/apple-llvm-infrastructure-tools](https://github.com/apple/apple-llvm-infrastructure-tools) topic: pushed_at:2023-10 star:0.1k fork:0.0k 
-- [apple/AudioUnitSDK](https://github.com/apple/AudioUnitSDK) topic: pushed_at:2025-12 star:0.2k fork:0.0k AudioUnit SDK
+- [apple/AudioUnitSDK](https://github.com/apple/AudioUnitSDK) topic: pushed_at:2026-09 star:0.2k fork:0.0k AudioUnit SDK
 - [apple/ccs-pyopendirectory](https://github.com/apple/ccs-pyopendirectory) topic: pushed_at:2018-11 star:0.0k fork:0.0k Python OpenDirectory library used by CalendarServer
 - [apple/corecrypto](https://github.com/apple/corecrypto) topic: pushed_at:2026-05 star:0.4k fork:0.0k Apple corecrypto
 - [apple/foundationdb](https://github.com/apple/foundationdb) topic:acid,distributed-database,foundationdb,key-value-store,transactional pushed_at:2026-09 star:16.7k fork:1.6k FoundationDB - the open source, distributed, transactional key-value store
@@ -78,9 +78,9 @@
 - [apple/container-builder-shim](https://github.com/apple/container-builder-shim) topic: pushed_at:2026-09 star:0.1k fork:0.0k Shim for connecting Swift host code to BuildKit running in a container. 
 - [apple/eidas](https://github.com/apple/eidas) topic:ck,tools pushed_at:2024-11 star:0.0k fork:0.0k :satellite: :wrench: Tools for reading and creating eIDAS certificate signing requests
 - [apple/pkl-go](https://github.com/apple/pkl-go) topic: pushed_at:2026-09 star:0.3k fork:0.0k Pkl bindings for the Go programming language
-- [apple/pkl-go-examples](https://github.com/apple/pkl-go-examples) topic: pushed_at:2026-07 star:0.2k fork:0.0k Examples for using Pkl within Go applications
-- [apple/pkl-readers](https://github.com/apple/pkl-readers) topic: pushed_at:2026-07 star:0.0k fork:0.0k Shared Pkl external readers
-- [apple/publicsuffix-list](https://github.com/apple/publicsuffix-list) topic: pushed_at:2026-04 star:0.0k fork:0.0k The Public Suffix List
+- [apple/pkl-go-examples](https://github.com/apple/pkl-go-examples) topic: pushed_at:2026-10 star:0.2k fork:0.0k Examples for using Pkl within Go applications
+- [apple/pkl-readers](https://github.com/apple/pkl-readers) topic: pushed_at:2026-09 star:0.0k fork:0.0k Shared Pkl external readers
+- [apple/publicsuffix-list](https://github.com/apple/publicsuffix-list) topic: pushed_at:2026-09 star:0.0k fork:0.0k The Public Suffix List
 
 ## HTML
 
@@ -93,22 +93,22 @@
 - [apple/app-store-server-library-java](https://github.com/apple/app-store-server-library-java) topic: pushed_at:2026-09 star:0.3k fork:0.1k The Java server library for the App Store Server API and App Store Server Notifications.
 - [apple/apple-ads-platform-api-java](https://github.com/apple/apple-ads-platform-api-java) topic: pushed_at:2026-08 star:0.0k fork:0.0k A Java client library for the Apple Ads Platform API
 - [apple/batch-processing-gateway](https://github.com/apple/batch-processing-gateway) topic:batch-processing,k8s,kubernetes,spark pushed_at:2026-05 star:0.2k fork:0.0k The gateway component to make Spark on K8s much easier for Spark users.
-- [apple/music-feed-examples](https://github.com/apple/music-feed-examples) topic: pushed_at:2024-07 star:0.0k fork:0.0k 
+- [apple/music-feed-examples](https://github.com/apple/music-feed-examples) topic: pushed_at:2026-09 star:0.0k fork:0.0k 
 - [apple/openjdk](https://github.com/apple/openjdk) topic: pushed_at:2021-07 star:0.1k fork:0.0k 
 - [apple/pkl](https://github.com/apple/pkl) topic:config,configuration,data,functional,java,json,kotlin,language,object-oriented,pkl,programming-language,properties,propertylist,validation,xml,yaml pushed_at:2026-09 star:11.5k fork:0.4k A configuration as code language with rich validation and tooling.
-- [apple/pkl-spring](https://github.com/apple/pkl-spring) topic: pushed_at:2026-07 star:0.1k fork:0.0k Spring Boot extension for configuring Boot apps with Pkl
-- [apple/pollianna](https://github.com/apple/pollianna) topic: pushed_at:2026-01 star:0.1k fork:0.0k 
-- [apple/servicetalk](https://github.com/apple/servicetalk) topic:framework,grpc,http,http2,java,microservices,netty,reactive,reactive-streams,rpc pushed_at:2026-09 star:1.0k fork:0.2k A networking framework that evolves with your application
+- [apple/pkl-spring](https://github.com/apple/pkl-spring) topic: pushed_at:2026-09 star:0.1k fork:0.0k Spring Boot extension for configuring Boot apps with Pkl
+- [apple/pollianna](https://github.com/apple/pollianna) topic: pushed_at:2026-09 star:0.1k fork:0.0k 
+- [apple/servicetalk](https://github.com/apple/servicetalk) topic:framework,grpc,http,http2,java,microservices,netty,reactive,reactive-streams,rpc pushed_at:2026-10 star:1.0k fork:0.2k A networking framework that evolves with your application
 
 ## JavaScript
 
-- [apple/highlightjs-pkl](https://github.com/apple/highlightjs-pkl) topic: pushed_at:2026-07 star:0.0k fork:0.0k Highlight.js syntax highlighting for Pkl
-- [apple/password-manager-resources](https://github.com/apple/password-manager-resources) topic: pushed_at:2026-09 star:4.8k fork:0.7k A place for creators and users of password managers to collaborate on resources to make password management better.
+- [apple/highlightjs-pkl](https://github.com/apple/highlightjs-pkl) topic: pushed_at:2026-09 star:0.0k fork:0.0k Highlight.js syntax highlighting for Pkl
+- [apple/password-manager-resources](https://github.com/apple/password-manager-resources) topic: pushed_at:2026-09 star:4.9k fork:0.7k A place for creators and users of password managers to collaborate on resources to make password management better.
 - [apple/sample-cloudkit-tooling](https://github.com/apple/sample-cloudkit-tooling) topic: pushed_at:2023-03 star:0.0k fork:0.0k 
 
 ## Jupyter Notebook
 
-- [apple/corenet](https://github.com/apple/corenet) topic: pushed_at:2025-10 star:7.0k fork:0.5k CoreNet: A library for training deep neural networks
+- [apple/corenet](https://github.com/apple/corenet) topic: pushed_at:2026-09 star:7.0k fork:0.5k CoreNet: A library for training deep neural networks
 - [apple/GCGC](https://github.com/apple/GCGC) topic: pushed_at:2026-09 star:0.5k fork:0.0k 
 - [apple/pfl-research](https://github.com/apple/pfl-research) topic:differential-privacy,federated-learning,federated-learning-framework,machine-learning,privacy pushed_at:2026-09 star:0.4k fork:0.0k Simulation framework for accelerating research in Private Federated Learning
 
@@ -116,8 +116,8 @@
 
 - [apple/pkl-intellij](https://github.com/apple/pkl-intellij) topic: pushed_at:2026-09 star:0.1k fork:0.0k JetBrains editor plugins providing Pkl language support
 - [apple/pkl-lsp](https://github.com/apple/pkl-lsp) topic:lsp,lsp-server,pkl pushed_at:2026-09 star:0.1k fork:0.0k Language server for Pkl, implementing the server-side of the Language Server Protocol.
-- [apple/pkl-package-docs](https://github.com/apple/pkl-package-docs) topic: pushed_at:2026-08 star:0.0k fork:0.0k Documentation for Pkl packages
-- [apple/tree-sitter-pkl](https://github.com/apple/tree-sitter-pkl) topic:pkl,tree-sitter pushed_at:2026-08 star:0.1k fork:0.0k Tree-sitter parser for Pkl
+- [apple/pkl-package-docs](https://github.com/apple/pkl-package-docs) topic: pushed_at:2026-09 star:0.0k fork:0.0k Documentation for Pkl packages
+- [apple/tree-sitter-pkl](https://github.com/apple/tree-sitter-pkl) topic:pkl,tree-sitter pushed_at:2026-09 star:0.1k fork:0.0k Tree-sitter parser for Pkl
 
 ## LLVM
 
@@ -125,7 +125,7 @@
 
 ## Lua
 
-- [apple/pkl-neovim](https://github.com/apple/pkl-neovim) topic: pushed_at:2026-07 star:0.2k fork:0.0k Pkl language support for Neovim
+- [apple/pkl-neovim](https://github.com/apple/pkl-neovim) topic: pushed_at:2026-09 star:0.2k fork:0.0k Pkl language support for Neovim
 
 ## Objective-C++
 
@@ -146,12 +146,12 @@
 
 ## Pkl
 
-- [apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples) topic: pushed_at:2026-07 star:0.1k fork:0.0k Examples for using Pkl within JVM applications
-- [apple/pkl-k8s](https://github.com/apple/pkl-k8s) topic: pushed_at:2026-08 star:0.1k fork:0.0k Templates for using Pkl with Kubernetes
-- [apple/pkl-k8s-examples](https://github.com/apple/pkl-k8s-examples) topic: pushed_at:2026-07 star:0.2k fork:0.0k Examples for using Pkl with Kubernetes
-- [apple/pkl-pantry](https://github.com/apple/pkl-pantry) topic: pushed_at:2026-08 star:0.3k fork:0.0k Shared Pkl packages
-- [apple/pkl-project-commons](https://github.com/apple/pkl-project-commons) topic:pkl pushed_at:2026-07 star:0.0k fork:0.0k Internal utility libraries for Pkl
-- [apple/pkl.tmbundle](https://github.com/apple/pkl.tmbundle) topic: pushed_at:2026-07 star:0.0k fork:0.0k TextMate bundle for Pkl
+- [apple/pkl-jvm-examples](https://github.com/apple/pkl-jvm-examples) topic: pushed_at:2026-09 star:0.1k fork:0.0k Examples for using Pkl within JVM applications
+- [apple/pkl-k8s](https://github.com/apple/pkl-k8s) topic: pushed_at:2026-09 star:0.1k fork:0.0k Templates for using Pkl with Kubernetes
+- [apple/pkl-k8s-examples](https://github.com/apple/pkl-k8s-examples) topic: pushed_at:2026-09 star:0.3k fork:0.0k Examples for using Pkl with Kubernetes
+- [apple/pkl-pantry](https://github.com/apple/pkl-pantry) topic: pushed_at:2026-09 star:0.3k fork:0.0k Shared Pkl packages
+- [apple/pkl-project-commons](https://github.com/apple/pkl-project-commons) topic:pkl pushed_at:2026-09 star:0.0k fork:0.0k Internal utility libraries for Pkl
+- [apple/pkl.tmbundle](https://github.com/apple/pkl.tmbundle) topic: pushed_at:2026-09 star:0.0k fork:0.0k TextMate bundle for Pkl
 
 ## Python
 
@@ -167,9 +167,9 @@
 - [apple/coreai-optimization](https://github.com/apple/coreai-optimization) topic: pushed_at:2026-09 star:0.1k fork:0.0k A library for PyTorch model compression and optimizations for deployment via Core AI on Apple silicon.
 - [apple/coreai-torch](https://github.com/apple/coreai-torch) topic: pushed_at:2026-09 star:0.2k fork:0.0k Bridges PyTorch and Core AI. Convert existing models to Core AI IR, or author new ones from PyTorch via composite ops, custom op lowerings, and inline Metal GPU kernels.
 - [apple/coremltools](https://github.com/apple/coremltools) topic:coreml,coremltools,machine-learning,model-conversion,model-converter,pytorch,tensorflow pushed_at:2026-09 star:5.4k fork:0.9k Core ML tools contain supporting tools for Core ML model conversion, editing, and validation.
-- [apple/dnikit](https://github.com/apple/dnikit) topic:ai,bias,compression,data,data-duplication,fairness,fairness-ml,introspection,machine-learning,ml,python pushed_at:2026-07 star:0.1k fork:0.0k A Python toolkit for analyzing machine learning models and datasets.
-- [apple/game-center-tools](https://github.com/apple/game-center-tools) topic: pushed_at:2024-01 star:0.0k fork:0.0k Test your matchmaking rules before running your game using a Python 3 script to execute the App Store Connect APIs.
-- [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) topic: pushed_at:2026-07 star:1.2k fork:0.1k Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
+- [apple/dnikit](https://github.com/apple/dnikit) topic:ai,bias,compression,data,data-duplication,fairness,fairness-ml,introspection,machine-learning,ml,python pushed_at:2026-09 star:0.1k fork:0.0k A Python toolkit for analyzing machine learning models and datasets.
+- [apple/game-center-tools](https://github.com/apple/game-center-tools) topic: pushed_at:2026-09 star:0.0k fork:0.0k Test your matchmaking rules before running your game using a Python 3 script to execute the App Store Connect APIs.
+- [apple/python-apple-fm-sdk](https://github.com/apple/python-apple-fm-sdk) topic: pushed_at:2026-09 star:1.3k fork:0.1k Python bindings for access to the on-device model at the core of Apple Intelligence through the Foundation Models framework
 
 ## Ruby
 
@@ -181,30 +181,30 @@
 
 ## Starlark
 
-- [apple/apple_rules_lint](https://github.com/apple/apple_rules_lint) topic: pushed_at:2024-08 star:0.1k fork:0.0k A framework for adding lint checks to Bazel projects
-- [apple/rules_pkl](https://github.com/apple/rules_pkl) topic: pushed_at:2026-07 star:0.0k fork:0.0k Bazel build rules for Pkl
+- [apple/apple_rules_lint](https://github.com/apple/apple_rules_lint) topic: pushed_at:2026-09 star:0.1k fork:0.0k A framework for adding lint checks to Bazel projects
+- [apple/rules_pkl](https://github.com/apple/rules_pkl) topic: pushed_at:2026-09 star:0.0k fork:0.0k Bazel build rules for Pkl
 - [apple/rules_servicetalk](https://github.com/apple/rules_servicetalk) topic: pushed_at:2026-09 star:0.0k fork:0.0k Bazel rules for Servicetalk
 
 ## Svelte
 
-- [apple/tensor-visualizer](https://github.com/apple/tensor-visualizer) topic: pushed_at:2024-08 star:0.1k fork:0.0k A Jupyter widget to visualize tensor data in notebooks.
+- [apple/tensor-visualizer](https://github.com/apple/tensor-visualizer) topic: pushed_at:2026-09 star:0.1k fork:0.0k A Jupyter widget to visualize tensor data in notebooks.
 
 ## Swift
 
 - [apple/app-store-server-library-swift](https://github.com/apple/app-store-server-library-swift) topic: pushed_at:2026-09 star:0.3k fork:0.1k The Swift server library for the App Store Server API and App Store Server Notifications.
 - [apple/apple-ads-platform-api-swift](https://github.com/apple/apple-ads-platform-api-swift) topic: pushed_at:2026-08 star:0.0k fork:0.0k A Swift client library for the Apple Ads platform API.
 - [apple/AudioUnit-Examples](https://github.com/apple/AudioUnit-Examples) topic: pushed_at:2022-11 star:0.1k fork:0.0k AudioUnit Examples
-- [apple/container](https://github.com/apple/container) topic: pushed_at:2026-09 star:50.0k fork:1.8k A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
-- [apple/containerization](https://github.com/apple/containerization) topic: pushed_at:2026-09 star:8.9k fork:0.4k Containerization is a Swift package for running Linux containers on macOS.
-- [apple/coreai-models](https://github.com/apple/coreai-models) topic: pushed_at:2026-09 star:2.1k fork:0.2k Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
+- [apple/container](https://github.com/apple/container) topic: pushed_at:2026-09 star:50.4k fork:1.8k A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon. 
+- [apple/containerization](https://github.com/apple/containerization) topic: pushed_at:2026-09 star:9.0k fork:0.4k Containerization is a Swift package for running Linux containers on macOS.
+- [apple/coreai-models](https://github.com/apple/coreai-models) topic: pushed_at:2026-10 star:2.2k fork:0.2k Model export recipes, Python primitives, and Swift runtime utilities for on-device AI
 - [apple/example-package-fisheryates](https://github.com/apple/example-package-fisheryates) topic: pushed_at:2021-10 star:0.2k fork:0.1k Example package for use with the Swift Package Manager
-- [apple/FHIRModels](https://github.com/apple/FHIRModels) topic:fhir,swift,swift-package-manager pushed_at:2026-06 star:0.2k fork:0.0k Swift library for FHIR® resource data models
-- [apple/foundation-models-utilities](https://github.com/apple/foundation-models-utilities) topic: pushed_at:2026-08 star:0.5k fork:0.0k Emerging and experimental patterns for building with the Foundation Models framework
+- [apple/FHIRModels](https://github.com/apple/FHIRModels) topic:fhir,swift,swift-package-manager pushed_at:2026-09 star:0.2k fork:0.0k Swift library for FHIR® resource data models
+- [apple/foundation-models-utilities](https://github.com/apple/foundation-models-utilities) topic: pushed_at:2026-09 star:0.5k fork:0.0k Emerging and experimental patterns for building with the Foundation Models framework
 - [apple/pass-builder](https://github.com/apple/pass-builder) topic: pushed_at:2026-08 star:0.1k fork:0.0k A Swift library and command-line tool for creating, validating, and signing Apple Wallet passes.
 - [apple/pcc-vre-pir-service](https://github.com/apple/pcc-vre-pir-service) topic: pushed_at:2026-08 star:0.0k fork:0.0k A test server for exercising Private Information Retrieval (PIR) and Visual Lookup (VLU) inside the Private Cloud Compute (PCC) Virtual Research Environment (VRE)
 - [apple/pir-service-example](https://github.com/apple/pir-service-example) topic: pushed_at:2026-09 star:0.2k fork:0.0k Example PIR service & documentation for Live Caller ID Lookup & NEURLFilter
 - [apple/pkl-swift](https://github.com/apple/pkl-swift) topic: pushed_at:2026-09 star:0.2k fork:0.0k Pkl bindings for the Swift programming language
-- [apple/pkl-swift-examples](https://github.com/apple/pkl-swift-examples) topic: pushed_at:2026-07 star:0.1k fork:0.0k Examples for using Pkl within Swift applications
+- [apple/pkl-swift-examples](https://github.com/apple/pkl-swift-examples) topic: pushed_at:2026-09 star:0.1k fork:0.0k Examples for using Pkl within Swift applications
 - [apple/reality-composer-pro-plugin](https://github.com/apple/reality-composer-pro-plugin) topic: pushed_at:2026-07 star:0.0k fork:0.0k 
 - [apple/realitykitscripting](https://github.com/apple/realitykitscripting) topic: pushed_at:2026-08 star:0.0k fork:0.0k JavaScript bindings for RealityKit with type-safe Swift interoperability
 - [apple/sample-backyard-birds](https://github.com/apple/sample-backyard-birds) topic: pushed_at:2023-12 star:0.6k fork:0.1k 
@@ -217,22 +217,22 @@
 - [apple/sample-cloudkit-sync-engine](https://github.com/apple/sample-cloudkit-sync-engine) topic: pushed_at:2024-01 star:0.3k fork:0.0k 
 - [apple/sample-cloudkit-zonesharing](https://github.com/apple/sample-cloudkit-zonesharing) topic: pushed_at:2022-09 star:0.1k fork:0.0k 
 - [apple/sample-food-truck](https://github.com/apple/sample-food-truck) topic:swift,swiftui pushed_at:2023-08 star:1.9k fork:0.2k SwiftUI sample code from WWDC22
-- [apple/security-pcc](https://github.com/apple/security-pcc) topic: pushed_at:2026-05 star:1.0k fork:0.1k Private Cloud Compute (PCC)
-- [apple/swift-algorithms](https://github.com/apple/swift-algorithms) topic:algorithm,iterator,itertools pushed_at:2026-07 star:6.3k fork:0.5k Commonly used sequence and collection algorithms for Swift
+- [apple/security-pcc](https://github.com/apple/security-pcc) topic: pushed_at:2026-05 star:1.1k fork:0.1k Private Cloud Compute (PCC)
+- [apple/swift-algorithms](https://github.com/apple/swift-algorithms) topic:algorithm,iterator,itertools pushed_at:2026-09 star:6.3k fork:0.5k Commonly used sequence and collection algorithms for Swift
 - [apple/swift-argument-parser](https://github.com/apple/swift-argument-parser) topic:cli,command-line,flag,option pushed_at:2026-09 star:3.8k fork:0.4k Straightforward, type-safe argument parsing for Swift
 - [apple/swift-asn1](https://github.com/apple/swift-asn1) topic:asn1,der,swift pushed_at:2026-09 star:0.2k fork:0.1k An implementation of ASN.1 for Swift
 - [apple/swift-async-algorithms](https://github.com/apple/swift-async-algorithms) topic:swift pushed_at:2026-09 star:3.7k fork:0.2k Async Algorithms for Swift
 - [apple/swift-async-dns-resolver](https://github.com/apple/swift-async-dns-resolver) topic: pushed_at:2026-09 star:0.2k fork:0.0k A Swift library for asynchronous DNS requests, wrapping c-ares with Swift-friendly APIs and data structures.
-- [apple/swift-atomics](https://github.com/apple/swift-atomics) topic:concurrency,synchronization pushed_at:2026-08 star:1.2k fork:0.1k Low-level atomic operations for Swift
-- [apple/swift-binary-parsing](https://github.com/apple/swift-binary-parsing) topic: pushed_at:2026-08 star:0.4k fork:0.0k 
+- [apple/swift-atomics](https://github.com/apple/swift-atomics) topic:concurrency,synchronization pushed_at:2026-09 star:1.2k fork:0.1k Low-level atomic operations for Swift
+- [apple/swift-binary-parsing](https://github.com/apple/swift-binary-parsing) topic: pushed_at:2026-09 star:0.4k fork:0.0k 
 - [apple/swift-cassandra-client](https://github.com/apple/swift-cassandra-client) topic: pushed_at:2026-09 star:0.1k fork:0.0k Cassandra client in Swift
 - [apple/swift-certificates](https://github.com/apple/swift-certificates) topic:certificates,swift,x509 pushed_at:2026-09 star:0.3k fork:0.1k An implementation of X.509 for Swift
 - [apple/swift-cluster-membership](https://github.com/apple/swift-cluster-membership) topic:distributed-systems,server-side-swift,swift,swift-on-server pushed_at:2026-09 star:0.2k fork:0.0k Distributed Membership Protocol implementations in Swift
 - [apple/swift-collections](https://github.com/apple/swift-collections) topic:collection,container,deque,dequeue,hash,ordered-dictionary,ordered-set,queue,sequence pushed_at:2026-09 star:4.5k fork:0.4k Commonly used data structures for Swift
-- [apple/swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark) topic: pushed_at:2025-11 star:0.4k fork:0.0k A benchmarking tool for Swift Collection algorithms
+- [apple/swift-collections-benchmark](https://github.com/apple/swift-collections-benchmark) topic: pushed_at:2026-09 star:0.4k fork:0.0k A benchmarking tool for Swift Collection algorithms
 - [apple/swift-configuration](https://github.com/apple/swift-configuration) topic:configuration,server,swift pushed_at:2026-09 star:0.8k fork:0.1k API package for reading configuration.
 - [apple/swift-container-plugin](https://github.com/apple/swift-container-plugin) topic:containers,plugin,server-side-swift,swift,swift-package-manager,swift-package-manager-plugin,swiftpm pushed_at:2026-09 star:0.4k fork:0.0k Build and publish container images using Swift Package Manager
-- [apple/swift-distributed-actors](https://github.com/apple/swift-distributed-actors) topic:actor-model,actors,distributed-systems,swift pushed_at:2026-06 star:0.7k fork:0.1k Peer-to-peer cluster implementation for Swift Distributed Actors
+- [apple/swift-distributed-actors](https://github.com/apple/swift-distributed-actors) topic:actor-model,actors,distributed-systems,swift pushed_at:2026-09 star:0.7k fork:0.1k Peer-to-peer cluster implementation for Swift Distributed Actors
 - [apple/swift-distributed-tracing](https://github.com/apple/swift-distributed-tracing) topic:distributed-systems,distributed-tracing,swift,tracing pushed_at:2026-09 star:0.3k fork:0.1k Instrumentation library for Swift server applications
 - [apple/swift-distributed-tracing-baggage-core](https://github.com/apple/swift-distributed-tracing-baggage-core) topic:distributed-tracing,sswg,swift pushed_at:2023-04 star:0.0k fork:0.0k Minimal context propagation container
 - [apple/swift-distributed-tracing-extras](https://github.com/apple/swift-distributed-tracing-extras) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
@@ -241,13 +241,13 @@
 - [apple/swift-http-structured-headers](https://github.com/apple/swift-http-structured-headers) topic:headers,http,structured-fields,swift pushed_at:2026-07 star:0.2k fork:0.0k A Swift implementation of the HTTP Structured Header Field specification.
 - [apple/swift-http-types](https://github.com/apple/swift-http-types) topic: pushed_at:2026-09 star:1.0k fork:0.1k Version-independent HTTP currency types for Swift
 - [apple/swift-llbuild2](https://github.com/apple/swift-llbuild2) topic: pushed_at:2026-09 star:0.3k fork:0.0k A fresh take on a low-level build system API.
-- [apple/swift-log](https://github.com/apple/swift-log) topic:logging,swift-server pushed_at:2026-09 star:4.0k fork:0.3k A Logging API for Swift
+- [apple/swift-log](https://github.com/apple/swift-log) topic:logging,swift-server pushed_at:2026-09 star:4.1k fork:0.3k A Logging API for Swift
 - [apple/swift-metrics](https://github.com/apple/swift-metrics) topic:metrics,swift-server pushed_at:2026-09 star:0.8k fork:0.1k Metrics API for Swift
 - [apple/swift-mmio](https://github.com/apple/swift-mmio) topic:embedded,mmio,swift pushed_at:2026-09 star:0.3k fork:0.0k Define and operate on type safe MMIO
 - [apple/swift-network-evolution](https://github.com/apple/swift-network-evolution) topic: pushed_at:2026-09 star:0.1k fork:0.0k Network protocol stack in Swift for transports like QUIC.
 - [apple/swift-nio](https://github.com/apple/swift-nio) topic:asynchronous-io,event-driven,high-performance,networking,non-blocking,non-blocking-io,swift,swift-server,swift5,swiftnio pushed_at:2026-09 star:8.5k fork:0.8k Event-driven network application framework for high performance protocol servers & clients, non-blocking.
-- [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) topic: pushed_at:2026-03 star:0.3k fork:0.1k examples of how to use swift-nio
-- [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) topic:swift5,swiftnio pushed_at:2026-09 star:0.3k fork:0.1k Useful code around SwiftNIO.
+- [apple/swift-nio-examples](https://github.com/apple/swift-nio-examples) topic: pushed_at:2026-09 star:0.3k fork:0.1k examples of how to use swift-nio
+- [apple/swift-nio-extras](https://github.com/apple/swift-nio-extras) topic:swift5,swiftnio pushed_at:2026-09 star:0.2k fork:0.1k Useful code around SwiftNIO.
 - [apple/swift-nio-http2](https://github.com/apple/swift-nio-http2) topic:async,beta,http2,swift5,swiftnio pushed_at:2026-09 star:0.5k fork:0.1k HTTP/2 support for SwiftNIO
 - [apple/swift-nio-http3](https://github.com/apple/swift-nio-http3) topic:http3,networking,swift-nio,swift-server pushed_at:2026-09 star:0.0k fork:0.0k HTTP/3 support for SwiftNIO
 - [apple/swift-nio-imap](https://github.com/apple/swift-nio-imap) topic: pushed_at:2026-09 star:0.2k fork:0.0k A Swift project that provides an implementation of the IMAP4rev1 protocol, built upon SwiftNIO.
@@ -263,16 +263,16 @@
 - [apple/swift-numerics](https://github.com/apple/swift-numerics) topic:complex,math,mathematics,maths,real,trig pushed_at:2026-09 star:1.9k fork:0.2k Advanced mathematical types and functions for Swift
 - [apple/swift-openapi-generator](https://github.com/apple/swift-openapi-generator) topic:ios-swift,openapi,plugin,server-side-swift,swift,swiftpm pushed_at:2026-09 star:2.0k fork:0.2k Generate Swift client and server code from an OpenAPI document.
 - [apple/swift-openapi-runtime](https://github.com/apple/swift-openapi-runtime) topic:middleware,openapi,swift,transport pushed_at:2026-09 star:0.3k fork:0.1k API package for code generated by Swift OpenAPI Generator.
-- [apple/swift-openapi-urlsession](https://github.com/apple/swift-openapi-urlsession) topic:openapi,swift,transport,urlsession pushed_at:2026-06 star:0.2k fork:0.0k URLSession transport for Swift OpenAPI Generator.
-- [apple/swift-play-experimental](https://github.com/apple/swift-play-experimental) topic: pushed_at:2026-06 star:0.1k fork:0.0k 
+- [apple/swift-openapi-urlsession](https://github.com/apple/swift-openapi-urlsession) topic:openapi,swift,transport,urlsession pushed_at:2026-09 star:0.2k fork:0.0k URLSession transport for Swift OpenAPI Generator.
+- [apple/swift-play-experimental](https://github.com/apple/swift-play-experimental) topic: pushed_at:2026-09 star:0.1k fork:0.0k 
 - [apple/swift-profile-recorder](https://github.com/apple/swift-profile-recorder) topic: pushed_at:2026-06 star:0.2k fork:0.0k 
 - [apple/swift-protobuf](https://github.com/apple/swift-protobuf) topic: pushed_at:2026-09 star:5.0k fork:0.5k Plugin and runtime library for using protobuf with Swift
 - [apple/swift-sample-distributed-actors-transport](https://github.com/apple/swift-sample-distributed-actors-transport) topic: pushed_at:2024-12 star:0.1k fork:0.0k Distributed actors transport example, for feature review
-- [apple/swift-service-context](https://github.com/apple/swift-service-context) topic:async-context,baggage,baggage-context,concurrency,context-propagation,distributed-systems,sswg,trace-context pushed_at:2026-08 star:0.2k fork:0.0k Minimal type-safe context propagation container
+- [apple/swift-service-context](https://github.com/apple/swift-service-context) topic:async-context,baggage,baggage-context,concurrency,context-propagation,distributed-systems,sswg,trace-context pushed_at:2026-09 star:0.2k fork:0.0k Minimal type-safe context propagation container
 - [apple/swift-service-discovery](https://github.com/apple/swift-service-discovery) topic: pushed_at:2026-09 star:0.2k fork:0.0k A service discovery API for Swift.
 - [apple/swift-statsd-client](https://github.com/apple/swift-statsd-client) topic: pushed_at:2026-09 star:0.1k fork:0.0k metrics backend for swift-metrics that uses the statsd protocol
-- [apple/swift-string-processing-benchmarks](https://github.com/apple/swift-string-processing-benchmarks) topic: pushed_at:2024-05 star:0.0k fork:0.0k 
-- [apple/swift-system](https://github.com/apple/swift-system) topic:file-descriptor,file-path,posix pushed_at:2026-08 star:1.4k fork:0.2k Low-level system calls and types for Swift
+- [apple/swift-string-processing-benchmarks](https://github.com/apple/swift-string-processing-benchmarks) topic: pushed_at:2026-09 star:0.0k fork:0.0k 
+- [apple/swift-system](https://github.com/apple/swift-system) topic:file-descriptor,file-path,posix pushed_at:2026-09 star:1.4k fork:0.2k Low-level system calls and types for Swift
 - [apple/swift-system-metrics](https://github.com/apple/swift-system-metrics) topic:metrics,process,server,swift,swift-server,system pushed_at:2026-09 star:0.2k fork:0.0k Report process-level system metrics (memory, CPU, file descriptors) to Swift Metrics
 - [apple/swift-temporal-sdk](https://github.com/apple/swift-temporal-sdk) topic: pushed_at:2026-09 star:0.3k fork:0.0k Swift SDK for Temporal
 - [apple/swift-tls](https://github.com/apple/swift-tls) topic: pushed_at:2026-09 star:0.1k fork:0.0k Swift implementation of TLS 1.3 for QUIC.
@@ -280,13 +280,13 @@
 - [apple/swiftpm-on-llbuild2](https://github.com/apple/swiftpm-on-llbuild2) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
 - [apple/SwiftUsd-Tests](https://github.com/apple/SwiftUsd-Tests) topic: pushed_at:2026-09 star:0.0k fork:0.0k Unit tests for SwiftUsd
 - [apple/truetype-hinting-interpreter-example](https://github.com/apple/truetype-hinting-interpreter-example) topic: pushed_at:2026-06 star:0.2k fork:0.0k Swift TrueType Interpreter
-- [apple/xcode-project-format](https://github.com/apple/xcode-project-format) topic: pushed_at:2026-09 star:0.0k fork:0.0k A Swift library for reading, writing, and manipulating Xcode's JSON-based project.xcproj format. 
+- [apple/xcode-project-format](https://github.com/apple/xcode-project-format) topic: pushed_at:2026-09 star:0.5k fork:0.0k A Swift library for reading, writing, and manipulating Xcode's JSON-based project.xcproj format. 
 
 ## TypeScript
 
 - [apple/app-store-server-library-node](https://github.com/apple/app-store-server-library-node) topic: pushed_at:2026-09 star:0.4k fork:0.1k The Node.js server library for the App Store Server API and App Store Server Notifications.
 - [apple/apple-ads-platform-api-node](https://github.com/apple/apple-ads-platform-api-node) topic: pushed_at:2026-08 star:0.0k fork:0.0k A Node.js / TypeScript client library for the Apple Ads Platform API.
-- [apple/embedding-atlas](https://github.com/apple/embedding-atlas) topic:embedding,visualization pushed_at:2026-09 star:4.9k fork:0.3k Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
+- [apple/embedding-atlas](https://github.com/apple/embedding-atlas) topic:embedding,visualization pushed_at:2026-10 star:5.0k fork:0.3k Embedding Atlas is a tool that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and search embeddings and metadata.
 - [apple/mapkit-loader](https://github.com/apple/mapkit-loader) topic: pushed_at:2026-06 star:0.0k fork:0.0k Loads Apple MapKit JS script dynamically from Apple MapKit CDN.
 - [apple/pkl-vscode](https://github.com/apple/pkl-vscode) topic: pushed_at:2026-09 star:0.2k fork:0.0k Pkl language support for VS Code
 

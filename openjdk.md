@@ -44,7 +44,7 @@
 
 ## Java
 
-- [openjdk/aarch32-port-jdk8u](https://github.com/openjdk/aarch32-port-jdk8u) topic: pushed_at:2026-08 star:0.0k fork:0.0k https://openjdk.org/projects/aarch32-port
+- [openjdk/aarch32-port-jdk8u](https://github.com/openjdk/aarch32-port-jdk8u) topic: pushed_at:2026-09 star:0.0k fork:0.0k https://openjdk.org/projects/aarch32-port
 - [openjdk/aarch64-port](https://github.com/openjdk/aarch64-port) topic: pushed_at:2026-09 star:0.1k fork:0.0k Port: AArch64 Project
 - [openjdk/amber](https://github.com/openjdk/amber) topic: pushed_at:2026-09 star:0.2k fork:0.1k https://openjdk.org/projects/amber
 - [openjdk/apidiff](https://github.com/openjdk/apidiff) topic: pushed_at:2026-06 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/apidiff
@@ -54,14 +54,14 @@
 - [openjdk/bsd-port](https://github.com/openjdk/bsd-port) topic: pushed_at:2026-09 star:0.0k fork:0.0k https://openjdk.org/projects/bsd-port
 - [openjdk/client](https://github.com/openjdk/client) topic: pushed_at:2020-10 star:0.0k fork:0.0k JDK 16 era Client Libraries development
 - [openjdk/crac](https://github.com/openjdk/crac) topic: pushed_at:2026-09 star:0.2k fork:0.0k https://openjdk.org/projects/crac
-- [openjdk/detroit-js](https://github.com/openjdk/detroit-js) topic: pushed_at:2026-08 star:0.0k fork:0.0k https://openjdk.org/projects/detroit
-- [openjdk/detroit-python](https://github.com/openjdk/detroit-python) topic: pushed_at:2026-07 star:0.0k fork:0.0k https://openjdk.org/projects/detroit
+- [openjdk/detroit-js](https://github.com/openjdk/detroit-js) topic: pushed_at:2026-09 star:0.0k fork:0.0k https://openjdk.org/projects/detroit
+- [openjdk/detroit-python](https://github.com/openjdk/detroit-python) topic: pushed_at:2026-09 star:0.0k fork:0.0k https://openjdk.org/projects/detroit
 - [openjdk/doccheck](https://github.com/openjdk/doccheck) topic: pushed_at:2024-03 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/doccheck
 - [openjdk/friday-stats](https://github.com/openjdk/friday-stats) topic: pushed_at:2021-04 star:0.0k fork:0.0k https://openjdk.org/projects/code-tools/friday-stats
 - [openjdk/galahad](https://github.com/openjdk/galahad) topic: pushed_at:2025-12 star:0.0k fork:0.0k https://openjdk.org/projects/galahad
 - [openjdk/jcov](https://github.com/openjdk/jcov) topic: pushed_at:2026-08 star:0.0k fork:0.0k https://wiki.openjdk.org/display/CodeTools/jcov
 - [openjdk/jcstress](https://github.com/openjdk/jcstress) topic: pushed_at:2025-06 star:0.5k fork:0.1k https://openjdk.org/projects/code-tools/jcstress
-- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2026-09 star:23.4k fork:6.4k JDK main-line development https://openjdk.org/projects/jdk
+- [openjdk/jdk](https://github.com/openjdk/jdk) topic:java,jvm,openjdk pushed_at:2026-10 star:23.4k fork:6.5k JDK main-line development https://openjdk.org/projects/jdk
 - [openjdk/jdk-sandbox](https://github.com/openjdk/jdk-sandbox) topic: pushed_at:2026-09 star:0.1k fork:0.1k JDK Committers Sandbox
 - [openjdk/jdk10](https://github.com/openjdk/jdk10) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/10 released 2018-03-20
 - [openjdk/jdk11u](https://github.com/openjdk/jdk11u) topic: pushed_at:2026-09 star:0.2k fork:0.2k https://openjdk.org/projects/jdk-updates
@@ -112,7 +112,7 @@
 - [openjdk/jdk9u](https://github.com/openjdk/jdk9u) topic: pushed_at:2021-02 star:0.0k fork:0.0k https://openjdk.org/projects/jdk-updates last released 2018-01-16
 - [openjdk/jemmy-v2](https://github.com/openjdk/jemmy-v2) topic: pushed_at:2024-08 star:0.0k fork:0.0k UI test automation library - v2
 - [openjdk/jemmy-v3](https://github.com/openjdk/jemmy-v3) topic: pushed_at:2023-04 star:0.0k fork:0.0k UI test automation library - v3
-- [openjdk/jextract](https://github.com/openjdk/jextract) topic: pushed_at:2026-08 star:0.6k fork:0.1k https://openjdk.org/projects/code-tools
+- [openjdk/jextract](https://github.com/openjdk/jextract) topic: pushed_at:2026-09 star:0.6k fork:0.1k https://openjdk.org/projects/code-tools
 - [openjdk/jfx-tests](https://github.com/openjdk/jfx-tests) topic: pushed_at:2023-11 star:0.0k fork:0.0k JavaFX Jemmy-based tests
 - [openjdk/jmc](https://github.com/openjdk/jmc) topic:hacktoberfest,hacktoberfest2025,java,jmc,mission-control,openjdk pushed_at:2026-09 star:1.0k fork:0.2k https://openjdk.org/projects/jmc OpenJDK Mission Control, a production time profiling and diagnostics tools suite.
 - [openjdk/jmc7](https://github.com/openjdk/jmc7) topic:java,jmc,mission-control,openjdk pushed_at:2021-03 star:0.0k fork:0.0k https://openjdk.org/projects/jmc
@@ -153,7 +153,7 @@
 
 ## Makefile
 
-- [openjdk/babylon-docs](https://github.com/openjdk/babylon-docs) topic: pushed_at:2026-06 star:0.0k fork:0.0k https://openjdk.org/projects/babylon
+- [openjdk/babylon-docs](https://github.com/openjdk/babylon-docs) topic: pushed_at:2026-09 star:0.0k fork:0.0k https://openjdk.org/projects/babylon
 - [openjdk/guide](https://github.com/openjdk/guide) topic: pushed_at:2026-09 star:0.1k fork:0.0k OpenJDK Developers' Guide https://openjdk.org/guide
 - [openjdk/leyden-docs](https://github.com/openjdk/leyden-docs) topic: pushed_at:2026-01 star:0.0k fork:0.0k https://openjdk.org/projects/leyden
 
@@ -168,7 +168,7 @@
 - [openjdk/jdk11](https://github.com/openjdk/jdk11) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/11 released 2018-09-25
 - [openjdk/jdk12](https://github.com/openjdk/jdk12) topic: pushed_at:2020-08 star:0.0k fork:0.0k https://openjdk.org/projects/jdk/12 released 2019-03-19
 - [openjdk/jmc-graphics](https://github.com/openjdk/jmc-graphics) topic: pushed_at:2026-07 star:0.0k fork:0.0k https://openjdk.org/projects/jmc
-- [openjdk/webrevs](https://github.com/openjdk/webrevs) topic: pushed_at:2026-09 star:0.0k fork:0.0k Automatically generated JSON files for webrevs
+- [openjdk/webrevs](https://github.com/openjdk/webrevs) topic: pushed_at:2026-10 star:0.0k fork:0.0k Automatically generated JSON files for webrevs
 
 ## Python
 

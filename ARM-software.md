@@ -37,7 +37,7 @@
 - [ARM-software/ACI-GetStarted](https://github.com/ARM-software/ACI-GetStarted) topic: pushed_at:2026-08 star:0.0k fork:0.0k ACI-GetStarted
 - [ARM-software/Arm-2D](https://github.com/ARM-software/Arm-2D) topic: pushed_at:2026-09 star:0.4k fork:0.1k 2D Graphic Library optimized for Cortex-M processors
 - [ARM-software/arm-enterprise-acs](https://github.com/ARM-software/arm-enterprise-acs) topic: pushed_at:2022-06 star:0.0k fork:0.1k ARM Enterprise ACS
-- [ARM-software/arm-performance-studio-integration-for-godot](https://github.com/ARM-software/arm-performance-studio-integration-for-godot) topic: pushed_at:2025-10 star:0.0k fork:0.0k Arm Performance Studio integration with GDScript scripting for the Godot game engine
+- [ARM-software/arm-performance-studio-integration-for-godot](https://github.com/ARM-software/arm-performance-studio-integration-for-godot) topic: pushed_at:2026-09 star:0.0k fork:0.0k Arm Performance Studio integration with GDScript scripting for the Godot game engine
 - [ARM-software/arm-trusted-firmware](https://github.com/ARM-software/arm-trusted-firmware) topic: pushed_at:2026-09 star:2.3k fork:1.6k Read-only mirror of Trusted Firmware-A
 - [ARM-software/avh-api](https://github.com/ARM-software/avh-api) topic: pushed_at:2023-01 star:0.0k fork:0.0k 
 - [ARM-software/AVH-AWS_MQTT_Demo](https://github.com/ARM-software/AVH-AWS_MQTT_Demo) topic:deprecated-unmaintained pushed_at:2024-12 star:0.0k fork:0.0k [DEPRECATED] Active at https://github.com/arM-examples/awS_MQTT_Demo
@@ -134,8 +134,8 @@
 - [ARM-software/ktx-creator](https://github.com/ARM-software/ktx-creator) topic: pushed_at:2022-01 star:0.0k fork:0.0k [Deprecated use toktx from khronos instead] Use this to create ASTC KTX files
 - [ARM-software/lavatube](https://github.com/ARM-software/lavatube) topic: pushed_at:2026-09 star:0.0k fork:0.0k Experimental Vulkan tracer
 - [ARM-software/libcollector](https://github.com/ARM-software/libcollector) topic: pushed_at:2026-06 star:0.0k fork:0.0k 
-- [ARM-software/libGPUCounters](https://github.com/ARM-software/libGPUCounters) topic: pushed_at:2026-05 star:0.3k fork:0.1k A utility library for application developers to sample Arm Immortalis GPU or Arm Mali GPU performance counters.
-- [ARM-software/libGPUInfo](https://github.com/ARM-software/libGPUInfo) topic:arm,vulkan pushed_at:2026-07 star:0.1k fork:0.0k A utility library for application developers to query the configuration of the Arm Immortalis GPU or Arm Mali GPU present in their system.
+- [ARM-software/libGPUCounters](https://github.com/ARM-software/libGPUCounters) topic: pushed_at:2026-09 star:0.3k fork:0.1k A utility library for application developers to sample Arm Immortalis GPU or Arm Mali GPU performance counters.
+- [ARM-software/libGPUInfo](https://github.com/ARM-software/libGPUInfo) topic:arm,vulkan pushed_at:2026-09 star:0.1k fork:0.0k A utility library for application developers to query the configuration of the Arm Immortalis GPU or Arm Mali GPU present in their system.
 - [ARM-software/libGPULayers](https://github.com/ARM-software/libGPULayers) topic: pushed_at:2026-08 star:0.0k fork:0.0k A utility for building Vulkan API layer drivers, and a some off-the-shelf layers for the Arm Immortalis and Arm Mali GPUs.
 - [ARM-software/libGPUMan](https://github.com/ARM-software/libGPUMan) topic: pushed_at:2024-09 star:0.0k fork:0.0k 
 - [ARM-software/libTLE](https://github.com/ARM-software/libTLE) topic: pushed_at:2021-04 star:0.0k fork:0.0k This is a library of simple C11 and C++11 mutex primitives that provides support for Transactional Lock Elision (TLE) on Intel 64 with TSX and AArch64 with TME platforms.
@@ -252,7 +252,7 @@
 - [ARM-software/devlib](https://github.com/ARM-software/devlib) topic: pushed_at:2026-01 star:0.1k fork:0.1k Library for interaction with and instrumentation of remote devices.
 - [ARM-software/labgrid](https://github.com/ARM-software/labgrid) topic: pushed_at:2026-09 star:0.0k fork:0.0k Embedded systems control library for development, testing and installation
 - [ARM-software/ML-restructurable-activation-networks](https://github.com/ARM-software/ML-restructurable-activation-networks) topic: pushed_at:2022-09 star:0.0k fork:0.0k 
-- [ARM-software/mram_simulation_framework](https://github.com/ARM-software/mram_simulation_framework) topic:fokker-planck,llgs,mram,mtj,simulation,sllgs pushed_at:2026-03 star:0.0k fork:0.0k MRAM magnetization simulation framework. s-LLGS python and verilog-a solvers for transients simulation and  Fokker-planck equation solver for stochastic analysis
+- [ARM-software/mram_simulation_framework](https://github.com/ARM-software/mram_simulation_framework) topic:fokker-planck,llgs,mram,mtj,simulation,sllgs pushed_at:2026-03 star:0.1k fork:0.0k MRAM magnetization simulation framework. s-LLGS python and verilog-a solvers for transients simulation and  Fokker-planck equation solver for stochastic analysis
 - [ARM-software/PAT2](https://github.com/ARM-software/PAT2) topic: pushed_at:2026-09 star:0.0k fork:0.0k Parser and Analyzer for Tarmac Trace log
 - [ARM-software/perfsage](https://github.com/ARM-software/perfsage) topic: pushed_at:2021-10 star:0.0k fork:0.0k 
 - [ARM-software/sbmr-acs](https://github.com/ARM-software/sbmr-acs) topic: pushed_at:2026-09 star:0.0k fork:0.0k Arm SBMR Architecture Compliance Suite
