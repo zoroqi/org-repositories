@@ -31,7 +31,7 @@
 ## C++
 
 - [tuna/QSerial](https://github.com/tuna/QSerial) topic: pushed_at:2025-12 star:0.0k fork:0.0k An advanced cross-platform serial port utility
-- [tuna/tapa](https://github.com/tuna/tapa) topic: pushed_at:2026-08 star:0.0k fork:0.0k TAPA compiles task-parallel HLS program into high-performance FPGA accelerators.
+- [tuna/tapa](https://github.com/tuna/tapa) topic: pushed_at:2026-10 star:0.0k fork:0.0k TAPA compiles task-parallel HLS program into high-performance FPGA accelerators.
 
 ## CSS
 
@@ -59,8 +59,8 @@
 ## HTML
 
 - [tuna/mirrorcon](https://github.com/tuna/mirrorcon) topic: pushed_at:2017-09 star:0.0k fork:0.0k Website of MirrorCon 2017
-- [tuna/registr-lite](https://github.com/tuna/registr-lite) topic: pushed_at:2026-03 star:0.0k fork:0.0k A lightweight registr with only a bare RESTful API.
-- [tuna/tuna.moe](https://github.com/tuna/tuna.moe) topic: pushed_at:2026-08 star:0.1k fork:0.0k Source code for https://tuna.moe
+- [tuna/registr-lite](https://github.com/tuna/registr-lite) topic: pushed_at:2026-09 star:0.0k fork:0.0k A lightweight registr with only a bare RESTful API.
+- [tuna/tuna.moe](https://github.com/tuna/tuna.moe) topic: pushed_at:2026-09 star:0.1k fork:0.0k Source code for https://tuna.moe
 
 ## JavaScript
 
@@ -124,7 +124,7 @@
 
 - [tuna/THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme) topic: pushed_at:2020-12 star:0.5k fork:0.1k A LaTeX beamer theme template for Tsinghua students.
 - [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) topic: pushed_at:2026-04 star:0.5k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
-- [tuna/thuthesis](https://github.com/tuna/thuthesis) topic:ctan,latex,latex-thesis-template,tex,thuthesis,tsinghua,tsinghua-university pushed_at:2026-08 star:5.4k fork:1.2k LaTeX Thesis Template for Tsinghua University
+- [tuna/thuthesis](https://github.com/tuna/thuthesis) topic:ctan,latex,latex-thesis-template,tex,thuthesis,tsinghua,tsinghua-university pushed_at:2026-08 star:5.5k fork:1.2k LaTeX Thesis Template for Tsinghua University
 
 ## TypeScript
 

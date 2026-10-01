@@ -33,7 +33,7 @@
 
 ## C
 
-- [uber/h3](https://github.com/uber/h3) topic:geospatial,h3,hexagon,spatial-indexing,uber pushed_at:2026-09 star:6.5k fork:0.6k Hexagonal hierarchical geospatial indexing system
+- [uber/h3](https://github.com/uber/h3) topic:geospatial,h3,hexagon,spatial-indexing,uber pushed_at:2026-10 star:6.6k fork:0.6k Hexagonal hierarchical geospatial indexing system
 - [uber/tree-sitter-strings](https://github.com/uber/tree-sitter-strings) topic: pushed_at:2025-01 star:0.0k fork:0.0k Tree-sitter grammar for Apple's Strings Resources File.
 
 ## C++
@@ -49,13 +49,13 @@
 - [uber/aresdb](https://github.com/uber/aresdb) topic:analytics,cgo,cuda,data,database,golang,gpu-programming,query,real-time,storage pushed_at:2024-07 star:3.1k fork:0.2k A GPU-powered real-time analytics storage and query engine. 
 - [uber/assume-role-cli](https://github.com/uber/assume-role-cli) topic: pushed_at:2023-03 star:0.0k fork:0.0k CLI for AssumeRole is a tool for running programs with temporary credentials from AWS's AssumeRole API.
 - [uber/astro](https://github.com/uber/astro) topic: pushed_at:2023-03 star:0.4k fork:0.0k Astro is a tool for managing multiple Terraform executions as a single command
-- [uber/athenadriver](https://github.com/uber/athenadriver) topic:atg,athena,aws,database,driver,go,golang,hiveql,prestosql,s3,sandbox,sql,uber pushed_at:2025-06 star:0.2k fork:0.0k A fully-featured AWS Athena database driver (+ athenareader https://github.com/uber/athenadriver/tree/master/athenareader)
+- [uber/athenadriver](https://github.com/uber/athenadriver) topic:atg,athena,aws,database,driver,go,golang,hiveql,prestosql,s3,sandbox,sql,uber pushed_at:2026-09 star:0.2k fork:0.0k A fully-featured AWS Athena database driver (+ athenareader https://github.com/uber/athenadriver/tree/master/athenareader)
 - [uber/cadvisor](https://github.com/uber/cadvisor) topic: pushed_at:2023-06 star:0.0k fork:0.0k Analyzes resource usage and performance characteristics of running containers.
 - [uber/go-vertex-ai](https://github.com/uber/go-vertex-ai) topic: pushed_at:2026-07 star:0.0k fork:0.0k A go implementation of the Google VertexAI API
 - [uber/gonduit](https://github.com/uber/gonduit) topic: pushed_at:2021-06 star:0.0k fork:0.0k A Go package for connecting to Phabricator via the Conduit API.
 - [uber/gqlgen](https://github.com/uber/gqlgen) topic: pushed_at:2024-12 star:0.0k fork:0.0k Uber fork:  go generate based graphql server library
-- [uber/h3-go](https://github.com/uber/h3-go) topic:geospatial,go,golang,h3,hexagon,spatial-indexing,uber pushed_at:2026-07 star:0.5k fork:0.1k Go bindings for H3, a hierarchical hexagonal geospatial indexing system
-- [uber/kraken](https://github.com/uber/kraken) topic:bittorrent,container,containerd,docker,docker-image,docker-registry,p2p pushed_at:2026-09 star:6.7k fork:0.5k P2P Docker registry capable of distributing TBs of data in seconds
+- [uber/h3-go](https://github.com/uber/h3-go) topic:geospatial,go,golang,h3,hexagon,spatial-indexing,uber pushed_at:2026-09 star:0.5k fork:0.1k Go bindings for H3, a hierarchical hexagonal geospatial indexing system
+- [uber/kraken](https://github.com/uber/kraken) topic:bittorrent,container,containerd,docker,docker-image,docker-registry,p2p pushed_at:2026-09 star:6.8k fork:0.5k P2P Docker registry capable of distributing TBs of data in seconds
 - [uber/kubernetes](https://github.com/uber/kubernetes) topic: pushed_at:2023-11 star:0.0k fork:0.0k Uber downstream fork of Kubernetes - for contribution use only
 - [uber/kubernetes-enhancements](https://github.com/uber/kubernetes-enhancements) topic: pushed_at:2023-04 star:0.0k fork:0.0k Uber Fork of kubernetes-enhancements - for contribution use only
 - [uber/kubernetes-scheduler-plugins](https://github.com/uber/kubernetes-scheduler-plugins) topic: pushed_at:2024-10 star:0.0k fork:0.0k Uber fork of: Kubernetes out-of-tree scheduler plugins based on scheduler framework.
@@ -105,7 +105,7 @@
 - [uber/uForwarder](https://github.com/uber/uForwarder) topic: pushed_at:2026-06 star:0.2k fork:0.0k Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
 - [uber/uGroup](https://github.com/uber/uGroup) topic: pushed_at:2026-06 star:0.0k fork:0.0k  uGroup is a Kafka consumer lag monitoring service that reads the consumer offset topic to calculate and expose real-time lag metrics via Prometheus and REST API.
 - [uber/uReplicator](https://github.com/uber/uReplicator) topic: pushed_at:2023-12 star:0.9k fork:0.2k Improvement of Apache Kafka Mirrormaker
-- [uber/ussi](https://github.com/uber/ussi) topic: pushed_at:2026-09 star:0.0k fork:0.0k An in-memory Java library for k-nearest-neighbor similarity search with mutable ingestion and metadata filtering.
+- [uber/ussi](https://github.com/uber/ussi) topic: pushed_at:2026-10 star:0.0k fork:0.0k An in-memory Java library for similarity search with metadata filtering, supporting real-time ingestion, deletion, and updates.
 
 ## JavaScript
 
@@ -149,7 +149,7 @@
 - [uber/crumb](https://github.com/uber/crumb) topic:android,annotation-processor,java,kotlin,metadata pushed_at:2021-12 star:0.1k fork:0.0k An annotation processor for breadcrumbing metadata across compilation boundaries.
 - [uber/lint-checks](https://github.com/uber/lint-checks) topic:android,lint,sandbox,static-analysis pushed_at:2020-11 star:0.1k fork:0.0k A set of opinionated and useful lint checks
 - [uber/motif](https://github.com/uber/motif) topic: pushed_at:2026-08 star:0.5k fork:0.0k A simple DI API for Android / Java
-- [uber/RIBs](https://github.com/uber/RIBs) topic:android,architectural-patterns,architecture,mobile,mobile-app,mobile-development,mvc,mvp,mvvm,viper pushed_at:2026-07 star:7.9k fork:0.9k Uber's cross-platform mobile architecture framework - Android Repository
+- [uber/RIBs](https://github.com/uber/RIBs) topic:android,architectural-patterns,architecture,mobile,mobile-app,mobile-development,mvc,mvp,mvvm,viper pushed_at:2026-09 star:7.9k fork:0.9k Uber's cross-platform mobile architecture framework - Android Repository
 - [uber/stylist](https://github.com/uber/stylist) topic:android,codegen,kotlin,styles,themes pushed_at:2023-05 star:0.4k fork:0.0k A stylist creates cool styles. Stylist is a Gradle plugin that codegens a base set of Android XML themes.
 
 ## Makefile
@@ -187,7 +187,7 @@
 - [uber/ray](https://github.com/uber/ray) topic: pushed_at:2024-05 star:0.0k fork:0.0k UBER Fork for upstream contributions
 - [uber/terraform-provider-googleworkspace-fork](https://github.com/uber/terraform-provider-googleworkspace-fork) topic: pushed_at:2024-05 star:0.0k fork:0.0k Uber fork of the Terraform Provider for Google Workspace
 - [uber/timesfm-fork](https://github.com/uber/timesfm-fork) topic: pushed_at:2024-08 star:0.0k fork:0.0k Uber fork of the TimesFM project
-- [uber/uber-career-prep-playbook](https://github.com/uber/uber-career-prep-playbook) topic: pushed_at:2026-07 star:0.0k fork:0.0k 
+- [uber/uber-career-prep-playbook](https://github.com/uber/uber-career-prep-playbook) topic: pushed_at:2026-09 star:0.0k fork:0.0k Uber's Career Prep Open Source Playbook outlines the steps, recommendations, and guidance for building a program that helps undergraduate engineering students enter the tech industry.
 - [uber/velociraptor](https://github.com/uber/velociraptor) topic: pushed_at:2023-06 star:0.0k fork:0.0k Uber Fork of Velociraptor - for contribution use only, not for production
 - [uber/xviz-data](https://github.com/uber/xviz-data) topic: pushed_at:2019-03 star:0.0k fork:0.0k Public data storage related to https://github.com/uber/xviz
 
@@ -197,7 +197,7 @@
 
 ## Python
 
-- [uber/ADR](https://github.com/uber/ADR) topic:agent-security,ai-agents,ai-security,benchmark,claude,claude-code,codex,cursor,llm-security,mcp,model-context-protocol,prompt-injection,threat-detection pushed_at:2026-09 star:1.6k fork:0.1k ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
+- [uber/ADR](https://github.com/uber/ADR) topic:agent-security,ai-agents,ai-security,benchmark,claude,claude-code,codex,cursor,llm-security,mcp,model-context-protocol,prompt-injection,threat-detection pushed_at:2026-09 star:1.6k fork:0.2k ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.
 - [uber/aristotle](https://github.com/uber/aristotle) topic: pushed_at:2025-10 star:0.0k fork:0.0k Uber Fork of Aristotle - for contribution purposes
 - [uber/bayesmark](https://github.com/uber/bayesmark) topic:bayesian-optimization,benchmark-framework,machine-learning,sklearn pushed_at:2021-06 star:0.2k fork:0.0k Benchmark framework to easily compare Bayesian optimization methods on real machine learning tasks
 - [uber/cassette](https://github.com/uber/cassette) topic: pushed_at:2023-05 star:0.1k fork:0.0k Store and replay HTTP requests made in your Python app
