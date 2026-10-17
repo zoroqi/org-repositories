@@ -9,12 +9,12 @@
 - [CSS](#css) (3)
 - [Go](#go) (1)
 - [HTML](#html) (3)
-- [JavaScript](#javascript) (33)
+- [JavaScript](#javascript) (34)
 - [Jupyter Notebook](#jupyter-notebook) (2)
 - [Less](#less) (1)
 - [Others](#others) (25)
 - [Python](#python) (1)
-- [Shell](#shell) (3)
+- [Shell](#shell) (2)
 - [TypeScript](#typescript) (31)
 
 ## CSS
@@ -36,14 +36,15 @@
 ## JavaScript
 
 - [opencollective/babel-preset-opencollective](https://github.com/opencollective/babel-preset-opencollective) topic: pushed_at:2021-02 star:0.0k fork:0.0k 
-- [opencollective/contributors-svg](https://github.com/opencollective/contributors-svg) topic: pushed_at:2026-09 star:0.0k fork:0.0k 
+- [opencollective/contributors-svg](https://github.com/opencollective/contributors-svg) topic: pushed_at:2026-10 star:0.0k fork:0.0k 
 - [opencollective/country-currency-emoji-flags](https://github.com/opencollective/country-currency-emoji-flags) topic: pushed_at:2023-12 star:0.0k fork:0.0k Returns Country Flag Emojis Given the Country or Currency Codes
-- [opencollective/documentation](https://github.com/opencollective/documentation) topic: pushed_at:2026-09 star:0.0k fork:0.0k Open Collective documentation
+- [opencollective/documentation](https://github.com/opencollective/documentation) topic: pushed_at:2026-10 star:0.0k fork:0.0k Open Collective documentation
 - [opencollective/encrypt_dir](https://github.com/opencollective/encrypt_dir) topic: pushed_at:2025-01 star:0.0k fork:0.0k Scripts for encrypting and decrypting a dir of folders
-- [opencollective/eslint-config-opencollective](https://github.com/opencollective/eslint-config-opencollective) topic: pushed_at:2026-09 star:0.0k fork:0.0k https://www.npmjs.com/package/eslint-config-opencollective
+- [opencollective/eslint-config-opencollective](https://github.com/opencollective/eslint-config-opencollective) topic: pushed_at:2026-10 star:0.0k fork:0.0k https://www.npmjs.com/package/eslint-config-opencollective
 - [opencollective/express-server-status](https://github.com/opencollective/express-server-status) topic: pushed_at:2018-05 star:0.0k fork:0.0k Get a quick overview of the status of an express server (uptime, version, git sha, stats)
-- [opencollective/graphql-docs-v2](https://github.com/opencollective/graphql-docs-v2) topic: pushed_at:2026-09 star:0.0k fork:0.0k 
+- [opencollective/graphql-docs-v2](https://github.com/opencollective/graphql-docs-v2) topic: pushed_at:2026-10 star:0.0k fork:0.0k 
 - [opencollective/intelligence](https://github.com/opencollective/intelligence) topic: pushed_at:2018-06 star:0.0k fork:0.0k 
+- [opencollective/monorepo](https://github.com/opencollective/monorepo) topic: pushed_at:2026-10 star:0.0k fork:0.0k A monorepository with dev containers & tooling for the entire opencollective stack
 - [opencollective/native](https://github.com/opencollective/native) topic: pushed_at:2018-05 star:0.0k fork:0.0k native app
 - [opencollective/next-issues](https://github.com/opencollective/next-issues) topic: pushed_at:2018-08 star:0.0k fork:0.0k Minimal Next.js applications to highlight bugs or issues.
 - [opencollective/npm-postinstall](https://github.com/opencollective/npm-postinstall) topic: pushed_at:2018-05 star:0.0k fork:0.0k Lightweight npm postinstall message to invite people to donate to your collective
@@ -58,8 +59,8 @@
 - [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) topic: pushed_at:2023-03 star:0.1k fork:0.0k Prompt your users to donate to your collective after `npm install`
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) topic: pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
 - [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) topic: pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
-- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2026-09 star:0.0k fork:0.0k 
-- [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) topic: pushed_at:2026-09 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
+- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2026-10 star:0.0k fork:0.0k 
+- [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) topic: pushed_at:2026-10 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
 - [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) topic:opencollective,reactjs pushed_at:2018-07 star:0.1k fork:0.0k OpenCollective frontend
 - [opencollective/opencollective-zapier](https://github.com/opencollective/opencollective-zapier) topic:opencollective,zapier pushed_at:2021-02 star:0.0k fork:0.0k ⚠️ DEPRECATED ⚠️ Open Collective legacy Zapier integration
 - [opencollective/presentations](https://github.com/opencollective/presentations) topic: pushed_at:2018-10 star:0.0k fork:0.0k A collection of presentations for internal or external usage.
@@ -97,11 +98,11 @@
 - [opencollective/heroku-buildpack-vips](https://github.com/opencollective/heroku-buildpack-vips) topic: pushed_at:2023-09 star:0.0k fork:0.0k Heroku buildpack with vips and pdf support via poppler
 - [opencollective/netlify-cms-widget-markdown-toast-ui](https://github.com/opencollective/netlify-cms-widget-markdown-toast-ui) topic: pushed_at:2023-09 star:0.0k fork:0.0k An *unoffical* Netlify CMS Widget that wraps the [TOAST UI Editor](https://ui.toast.com/tui-editor).
 - [opencollective/next-auth-example](https://github.com/opencollective/next-auth-example) topic: pushed_at:2022-07 star:0.0k fork:0.0k Example showing how to use NextAuth.js with Next.js
-- [opencollective/opencollective](https://github.com/opencollective/opencollective) topic:open-source,sustainability,transparency pushed_at:2026-09 star:2.3k fork:0.5k We're tracking all our Issues, RFCs and a few other documents in this repository.
+- [opencollective/opencollective](https://github.com/opencollective/opencollective) topic:open-source,sustainability,transparency pushed_at:2026-10 star:2.3k fork:0.5k We're tracking all our Issues, RFCs and a few other documents in this repository.
 - [opencollective/opencollective-lib](https://github.com/opencollective/opencollective-lib) topic: pushed_at:2016-06 star:0.0k fork:0.0k Libraries in common in our repos
 - [opencollective/opensource](https://github.com/opencollective/opensource) topic: pushed_at:2016-07 star:0.0k fork:0.0k This is the Open Source Collective repo. Submit here issues related on how to spend the money and projects/ideas to get funded. 
 - [opencollective/react-currency-input-field](https://github.com/opencollective/react-currency-input-field) topic: pushed_at:2025-04 star:0.0k fork:0.0k React component for an input field
-- [opencollective/renovate-config](https://github.com/opencollective/renovate-config) topic: pushed_at:2026-06 star:0.0k fork:0.0k A shareable config preset for Renovate used in Open Collective. 
+- [opencollective/renovate-config](https://github.com/opencollective/renovate-config) topic: pushed_at:2026-10 star:0.0k fork:0.0k A shareable config preset for Renovate used in Open Collective. 
 - [opencollective/saferouter](https://github.com/opencollective/saferouter) topic: pushed_at:2025-07 star:0.0k fork:0.0k A SAFE module to route transactions to other address based on predefined rules
 - [opencollective/sustainer-resources](https://github.com/opencollective/sustainer-resources) topic: pushed_at:2019-03 star:0.0k fork:0.0k Useful resources for Open Source Sustainers
 - [opencollective/web3](https://github.com/opencollective/web3) topic: pushed_at:2024-11 star:0.0k fork:0.0k open collective, web3 edition
@@ -114,20 +115,19 @@
 
 - [opencollective/metabase-buildpack](https://github.com/opencollective/metabase-buildpack) topic: pushed_at:2026-08 star:0.0k fork:0.0k Buildpack de Metabase pour Scalingo
 - [opencollective/metabase-deploy](https://github.com/opencollective/metabase-deploy) topic: pushed_at:2026-07 star:0.0k fork:0.0k 
-- [opencollective/monorepo](https://github.com/opencollective/monorepo) topic: pushed_at:2026-10 star:0.0k fork:0.0k A monorepository with dev containers & tooling for the entire opencollective stack
 
 ## TypeScript
 
 - [opencollective/auth-simple-oauth-app.js](https://github.com/opencollective/auth-simple-oauth-app.js) topic: pushed_at:2023-05 star:0.0k fork:0.0k 
 - [opencollective/calendar](https://github.com/opencollective/calendar) topic: pushed_at:2025-07 star:0.0k fork:0.0k Decentralized Community Calendar using Nostr
 - [opencollective/chancery](https://github.com/opencollective/chancery) topic: pushed_at:2026-08 star:0.0k fork:0.0k The office that holds your community's keys — Nostr identity + NIP-46 signing for communities
-- [opencollective/discover](https://github.com/opencollective/discover) topic: pushed_at:2026-01 star:0.0k fork:0.0k Discover the impact of Open Collective
-- [opencollective/email](https://github.com/opencollective/email) topic: pushed_at:2026-09 star:0.0k fork:0.0k An email address for your collective — share the inbox, assign conversations, discuss internally. https://collective.email
+- [opencollective/discover](https://github.com/opencollective/discover) topic: pushed_at:2026-10 star:0.0k fork:0.0k Discover the impact of Open Collective
+- [opencollective/email](https://github.com/opencollective/email) topic: pushed_at:2026-10 star:0.0k fork:0.0k An email address for your collective — share the inbox, assign conversations, discuss internally. https://collective.email
 - [opencollective/funders-dashboard](https://github.com/opencollective/funders-dashboard) topic: pushed_at:2026-09 star:0.0k fork:0.0k 
 - [opencollective/funders-dashboard-2](https://github.com/opencollective/funders-dashboard-2) topic: pushed_at:2022-10 star:0.0k fork:0.0k 
 - [opencollective/lumatv](https://github.com/opencollective/lumatv) topic: pushed_at:2025-10 star:0.0k fork:0.0k Show on a big screen a slide show of your upcoming events
 - [opencollective/marketing-pages](https://github.com/opencollective/marketing-pages) topic: pushed_at:2025-05 star:0.0k fork:0.0k 
-- [opencollective/monerium-bot](https://github.com/opencollective/monerium-bot) topic: pushed_at:2025-08 star:0.0k fork:0.0k Fetch transactions from Monerium account, post in Discord
+- [opencollective/monerium-bot](https://github.com/opencollective/monerium-bot) topic: pushed_at:2026-10 star:0.0k fork:0.0k Fetch transactions from Monerium account, post in Discord
 - [opencollective/odoo-web3](https://github.com/opencollective/odoo-web3) topic: pushed_at:2026-06 star:0.0k fork:0.0k sync token transfers to an Odoo Bank Journal
 - [opencollective/openbunker](https://github.com/opencollective/openbunker) topic: pushed_at:2026-01 star:0.0k fork:0.0k Bunker to onboard members of your community to Nostr
 - [opencollective/opencollective-api](https://github.com/opencollective/opencollective-api) topic:graphql,nodejs,opencollective,postgres pushed_at:2026-10 star:0.5k fork:0.3k Open Collective's API. A GraphQL API powered by Sequelize and PostgreSQL.
@@ -139,14 +139,14 @@
 - [opencollective/opencollective-github-helpers](https://github.com/opencollective/opencollective-github-helpers) topic: pushed_at:2023-01 star:0.0k fork:0.0k An app to help with the maintainance and development tasks of Open Collective internal repositories
 - [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) topic:graphql,graphql-js,invoices-pdf,nodejs,opencollective,pdf,pdf-generation pushed_at:2026-10 star:0.1k fork:0.1k Open Collective's PDF Server
 - [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) topic: pushed_at:2026-10 star:0.1k fork:0.0k Open Collective's REST API legacy, v1, and v2!
-- [opencollective/opencollective-rss](https://github.com/opencollective/opencollective-rss) topic: pushed_at:2026-09 star:0.0k fork:0.0k GraphQL-to-RSS bridge for the Open Collective API
-- [opencollective/opencollective-taxes](https://github.com/opencollective/opencollective-taxes) topic: pushed_at:2026-09 star:0.0k fork:0.0k Shared code to calculate taxes for events, products and services (VAT)
+- [opencollective/opencollective-rss](https://github.com/opencollective/opencollective-rss) topic: pushed_at:2026-10 star:0.0k fork:0.0k GraphQL-to-RSS bridge for the Open Collective API
+- [opencollective/opencollective-taxes](https://github.com/opencollective/opencollective-taxes) topic: pushed_at:2026-10 star:0.0k fork:0.0k Shared code to calculate taxes for events, products and services (VAT)
 - [opencollective/opencollective.xyz](https://github.com/opencollective/opencollective.xyz) topic: pushed_at:2026-03 star:0.0k fork:0.0k New web3 native version of Open Collective
 - [opencollective/opendocs](https://github.com/opencollective/opendocs) topic: pushed_at:2025-10 star:0.0k fork:0.0k share your docs foryour collective
 - [opencollective/pricing](https://github.com/opencollective/pricing) topic: pushed_at:2025-12 star:0.0k fork:0.0k Research project to test an updated pricing model
 - [opencollective/requests](https://github.com/opencollective/requests) topic: pushed_at:2025-11 star:0.0k fork:0.0k Manage requests to the community, using Nostr.
-- [opencollective/stripe-bot](https://github.com/opencollective/stripe-bot) topic: pushed_at:2026-04 star:0.0k fork:0.0k Post on Discord new Stripe payments
-- [opencollective/token-bot](https://github.com/opencollective/token-bot) topic: pushed_at:2026-09 star:0.0k fork:0.0k Discord Bot
+- [opencollective/stripe-bot](https://github.com/opencollective/stripe-bot) topic: pushed_at:2026-10 star:0.0k fork:0.0k Post on Discord new Stripe payments
+- [opencollective/token-bot](https://github.com/opencollective/token-bot) topic: pushed_at:2026-10 star:0.0k fork:0.0k Discord Bot
 - [opencollective/token-factory](https://github.com/opencollective/token-factory) topic: pushed_at:2026-01 star:0.0k fork:0.0k Deploy and manage tokens for your community
 - [opencollective/txinfo](https://github.com/opencollective/txinfo) topic: pushed_at:2026-02 star:0.0k fork:0.0k A simple service to add or get more information about a given transaction
 

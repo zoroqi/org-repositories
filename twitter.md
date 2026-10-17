@@ -141,7 +141,7 @@
 
 ## SCSS
 
-- [twitter/opensource-website](https://github.com/twitter/opensource-website) topic:ospo pushed_at:2026-04 star:3.3k fork:0.8k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
+- [twitter/opensource-website](https://github.com/twitter/opensource-website) topic:ospo pushed_at:2026-04 star:3.4k fork:0.8k Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 
 ## Scala
 

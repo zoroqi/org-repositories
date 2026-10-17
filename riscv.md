@@ -11,28 +11,28 @@
 - [C](#c) (3)
 - [HTML](#html) (1)
 - [JavaScript](#javascript) (5)
-- [Makefile](#makefile) (23)
-- [Others](#others) (11)
+- [Makefile](#makefile) (22)
+- [Others](#others) (10)
 - [Python](#python) (6)
 - [Ruby](#ruby) (1)
 - [Sail](#sail) (1)
-- [Shell](#shell) (5)
-- [TeX](#tex) (19)
+- [Shell](#shell) (6)
+- [TeX](#tex) (20)
 - [TypeScript](#typescript) (1)
 
 ## Assembly
 
 - [riscv/riscv-arch-test](https://github.com/riscv/riscv-arch-test) topic: pushed_at:2026-10 star:0.8k fork:0.4k The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.
-- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) topic: pushed_at:2026-09 star:0.3k fork:0.1k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
+- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) topic: pushed_at:2026-10 star:0.3k fork:0.1k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
 
 ## BitBake
 
-- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) topic:openembedded,openembedded-layer,risc-v,riscv,yocto,yocto-layer,yocto-meta pushed_at:2026-10 star:0.4k fork:0.2k OpenEmbedded/Yocto layer for RISC-V Architecture
+- [riscv/meta-riscv](https://github.com/riscv/meta-riscv) topic:openembedded,openembedded-layer,risc-v,riscv,yocto,yocto-layer,yocto-meta pushed_at:2026-10 star:0.5k fork:0.2k OpenEmbedded/Yocto layer for RISC-V Architecture
 
 ## C
 
 - [riscv/riscv-crypto](https://github.com/riscv/riscv-crypto) topic: pushed_at:2026-03 star:0.4k fork:0.1k RISC-V cryptography extensions standardisation work.
-- [riscv/riscv-pqc](https://github.com/riscv/riscv-pqc) topic: pushed_at:2026-09 star:0.0k fork:0.0k Post Quantum Cryptography
+- [riscv/riscv-pqc](https://github.com/riscv/riscv-pqc) topic: pushed_at:2026-10 star:0.0k fork:0.0k Post Quantum Cryptography
 - [riscv/riscv-test-env](https://github.com/riscv/riscv-test-env) topic: pushed_at:2026-01 star:0.1k fork:0.1k 
 
 ## HTML
@@ -43,8 +43,8 @@
 
 - [riscv/adm-riscv-sde](https://github.com/riscv/adm-riscv-sde) topic: pushed_at:2026-10 star:0.0k fork:0.0k RISC-V Specification Development Explorer
 - [riscv/adm-spec-dashboard](https://github.com/riscv/adm-spec-dashboard) topic: pushed_at:2026-10 star:0.0k fork:0.0k Automation to collect Jira issues to generate the BoD reports
-- [riscv/adm-tc-dashboard](https://github.com/riscv/adm-tc-dashboard) topic: pushed_at:2026-09 star:0.0k fork:0.0k RISC-V Technical Committee Dashboard
-- [riscv/riscv-isa-explorer](https://github.com/riscv/riscv-isa-explorer) topic: pushed_at:2026-09 star:0.0k fork:0.1k A simple and intuitive approach to visualize RISC-V Extensions and Profiles.
+- [riscv/adm-tc-dashboard](https://github.com/riscv/adm-tc-dashboard) topic: pushed_at:2026-10 star:0.0k fork:0.0k RISC-V Technical Committee Dashboard
+- [riscv/riscv-isa-explorer](https://github.com/riscv/riscv-isa-explorer) topic: pushed_at:2026-10 star:0.0k fork:0.1k A simple and intuitive approach to visualize RISC-V Extensions and Profiles.
 - [riscv/riscv-tech-calendar](https://github.com/riscv/riscv-tech-calendar) topic: pushed_at:2026-08 star:0.0k fork:0.0k The RISC-V Technical Meetings Calendar dynamically displays meeting times according to the user's time zone.
 
 ## Makefile
@@ -54,16 +54,15 @@
 - [riscv/riscv-b](https://github.com/riscv/riscv-b) topic: pushed_at:2026-04 star:0.0k fork:0.0k "B" extension - that represents the collection of the Zba, Zbb, and Zbs extensions 
 - [riscv/riscv-bfloat16](https://github.com/riscv/riscv-bfloat16) topic: pushed_at:2026-03 star:0.0k fork:0.0k 
 - [riscv/riscv-bitmanip](https://github.com/riscv/riscv-bitmanip) topic: pushed_at:2024-03 star:0.2k fork:0.1k Working draft of the proposed RISC-V Bitmanipulation extension
-- [riscv/riscv-cfi](https://github.com/riscv/riscv-cfi) topic: pushed_at:2026-09 star:0.1k fork:0.0k This specification is integrated into the Priv. and Unpriv. specifications. This repo is no longer maintained. Please refer to the Priv. and Unpriv. specifications at https://github.com/riscv/riscv-isa-manual
+- [riscv/riscv-cfi](https://github.com/riscv/riscv-cfi) topic: pushed_at:2026-10 star:0.1k fork:0.0k This specification is integrated into the Priv. and Unpriv. specifications. This repo is no longer maintained. Please refer to the Priv. and Unpriv. specifications at https://github.com/riscv/riscv-isa-manual
 - [riscv/riscv-control-transfer-records](https://github.com/riscv/riscv-control-transfer-records) topic: pushed_at:2026-03 star:0.0k fork:0.0k This repo contains a RISC-V ISA extension (proposal) to allow recording of control transfer history to on-chip registers, to support usages associated with profiling and debug.
 - [riscv/riscv-dot-product](https://github.com/riscv/riscv-dot-product) topic: pushed_at:2026-03 star:0.0k fork:0.0k Dot-Product Extension
 - [riscv/riscv-double-trap](https://github.com/riscv/riscv-double-trap) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V Double Trap Fast-Track Extension
-- [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) topic: pushed_at:2026-09 star:0.0k fork:0.0k 
+- [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) topic: pushed_at:2026-10 star:0.0k fork:0.0k 
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) topic: pushed_at:2026-03 star:0.2k fork:0.0k Working Draft of the RISC-V J Extension Specification
-- [riscv/riscv-memory-tagging](https://github.com/riscv/riscv-memory-tagging) topic: pushed_at:2026-09 star:0.0k fork:0.0k Memory Tagging ISA extension that can be used by software to enforce memory tag checks on memory loads and stores
 - [riscv/riscv-performance-events](https://github.com/riscv/riscv-performance-events) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V Performance Events Specification
 - [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) topic: pushed_at:2026-07 star:0.2k fork:0.0k RISC-V Architecture Profiles
-- [riscv/riscv-smmtt](https://github.com/riscv/riscv-smmtt) topic:access-control,ap-tee,confidential-computing,io-mpt,smgeien,smmpt,smmtt,smqosid,smsdedbga,smsdetrca,smsdia,smsdid,supervisor-domains,trusted-computing,trusted-execution-environment pushed_at:2026-09 star:0.1k fork:0.0k This specification will define the RISC-V privilege ISA extensions required to support Supervisor Domain isolation for multi-tenant security use cases e.g. confidential-computing, trusted platform services, fault isolation and so on.
+- [riscv/riscv-smmtt](https://github.com/riscv/riscv-smmtt) topic:access-control,ap-tee,confidential-computing,io-mpt,smgeien,smmpt,smmtt,smqosid,smsdedbga,smsdetrca,smsdia,smsdid,supervisor-domains,trusted-computing,trusted-execution-environment pushed_at:2026-10 star:0.1k fork:0.0k This specification will define the RISC-V privilege ISA extensions required to support Supervisor Domain isolation for multi-tenant security use cases e.g. confidential-computing, trusted platform services, fault isolation and so on.
 - [riscv/riscv-spec-barrier](https://github.com/riscv/riscv-spec-barrier) topic: pushed_at:2026-05 star:0.0k fork:0.0k RISC-V Speculation Barrier
 - [riscv/riscv-spmp](https://github.com/riscv/riscv-spmp) topic: pushed_at:2026-09 star:0.0k fork:0.0k The repo contains the SPMP architectural specification, which includes capabilities like access control of read/write/execute requests by an hart, address matching, encoding of permissions, exceptions for access violation, and support for virtualization.
 - [riscv/riscv-ssdtso](https://github.com/riscv/riscv-ssdtso) topic: pushed_at:2026-03 star:0.0k fork:0.0k The Ssdtso is a fast-track extension adding a 'dynamic-RVTSO' mode of operation and on-demand per-hart switching between the memory models.
@@ -78,23 +77,22 @@
 - [riscv/.github](https://github.com/riscv/.github) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
 - [riscv/friendly-terminology](https://github.com/riscv/friendly-terminology) topic: pushed_at:2026-03 star:0.0k fork:0.0k This repository implements the Friendly Terminology for use with the in-solidarity-bot plugin.
 - [riscv/guides](https://github.com/riscv/guides) topic: pushed_at:2026-05 star:0.0k fork:0.0k RISC-V International Guides
-- [riscv/learn](https://github.com/riscv/learn) topic: pushed_at:2026-09 star:1.8k fork:0.2k Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. 
+- [riscv/learn](https://github.com/riscv/learn) topic: pushed_at:2026-10 star:1.9k fork:0.2k Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. 
 - [riscv/riscv-library](https://github.com/riscv/riscv-library) topic: pushed_at:2025-07 star:0.0k fork:0.0k This repository holds the front matter pages for the RISC-V Library
-- [riscv/riscv-long-instruction](https://github.com/riscv/riscv-long-instruction) topic: pushed_at:2026-09 star:0.0k fork:0.0k RISC-V Long Instruction
 - [riscv/riscv-optimization](https://github.com/riscv/riscv-optimization) topic: pushed_at:2026-07 star:0.0k fork:0.0k RISC-V Optimization Guide
 - [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) topic: pushed_at:2026-07 star:0.2k fork:0.0k PLIC Specification
-- [riscv/riscv-rvm-profile](https://github.com/riscv/riscv-rvm-profile) topic: pushed_at:2026-07 star:0.0k fork:0.0k RISC-V Instruction Set Manual
+- [riscv/riscv-rvm-profile](https://github.com/riscv/riscv-rvm-profile) topic: pushed_at:2026-10 star:0.0k fork:0.0k RISC-V Instruction Set Manual
 - [riscv/riscv-sscpuutil](https://github.com/riscv/riscv-sscpuutil) topic: pushed_at:2026-06 star:0.0k fork:0.0k RISC-V CPU Utilization Counter Extension (Sscpuutil) — fast-track ISA extension. Tracking: Jira RVS-4802.
 - [riscv/virtual-memory](https://github.com/riscv/virtual-memory) topic: pushed_at:2021-09 star:0.0k fork:0.0k 
 
 ## Python
 
-- [riscv/docs-resources](https://github.com/riscv/docs-resources) topic: pushed_at:2026-09 star:0.1k fork:0.0k 
-- [riscv/riscv-cheri](https://github.com/riscv/riscv-cheri) topic:capabilities,compartmentalization,memory-safety pushed_at:2026-09 star:0.1k fork:0.1k This repository contains the CHERI extension specification, adding hardware capabilities to RISC-V ISA to enable fine-grained memory protection and scalable compartmentalization.
+- [riscv/docs-resources](https://github.com/riscv/docs-resources) topic: pushed_at:2026-10 star:0.1k fork:0.0k 
+- [riscv/riscv-cheri](https://github.com/riscv/riscv-cheri) topic:capabilities,compartmentalization,memory-safety pushed_at:2026-10 star:0.1k fork:0.1k This repository contains the CHERI extension specification, adding hardware capabilities to RISC-V ISA to enable fine-grained memory protection and scalable compartmentalization.
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) topic: pushed_at:2026-08 star:0.5k fork:0.1k RISC-V Debug Specification Standard
-- [riscv/riscv-high-assurance-cryptography](https://github.com/riscv/riscv-high-assurance-cryptography) topic: pushed_at:2026-09 star:0.0k fork:0.0k  High Assurance Cryptography
-- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) topic: pushed_at:2026-09 star:0.9k fork:0.4k RISC-V Opcodes
-- [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) topic: pushed_at:2026-09 star:0.2k fork:0.1k RISC-V Packed SIMD Extension
+- [riscv/riscv-high-assurance-cryptography](https://github.com/riscv/riscv-high-assurance-cryptography) topic: pushed_at:2026-10 star:0.0k fork:0.0k  High Assurance Cryptography
+- [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) topic: pushed_at:2026-10 star:0.9k fork:0.4k RISC-V Opcodes
+- [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) topic: pushed_at:2026-10 star:0.2k fork:0.1k RISC-V Packed SIMD Extension
 
 ## Ruby
 
@@ -102,41 +100,43 @@
 
 ## Sail
 
-- [riscv/sail-riscv](https://github.com/riscv/sail-riscv) topic: pushed_at:2026-09 star:0.8k fork:0.3k Sail RISC-V model
+- [riscv/sail-riscv](https://github.com/riscv/sail-riscv) topic: pushed_at:2026-10 star:0.8k fork:0.3k Sail RISC-V model
 
 ## Shell
 
-- [riscv/docs-dev-guide](https://github.com/riscv/docs-dev-guide) topic: pushed_at:2026-09 star:0.1k fork:0.0k Documentation developer guide
-- [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) topic: pushed_at:2026-09 star:0.0k fork:0.0k 
-- [riscv/fake-spec](https://github.com/riscv/fake-spec) topic: pushed_at:2026-09 star:0.0k fork:0.0k Fake spec to test docs-spec-template.
-- [riscv/riscv-docs-base-container-image](https://github.com/riscv/riscv-docs-base-container-image) topic: pushed_at:2026-09 star:0.0k fork:0.0k A base container image populated with the dependencies to build the RISC-V Documentation.
-- [riscv/riscv-performance-event-sampling](https://github.com/riscv/riscv-performance-event-sampling) topic: pushed_at:2026-09 star:0.0k fork:0.0k Define 2 new extensions to, along with Zihpm and Sscofpmf, enable event and instruction sampling with precise attribution.
+- [riscv/docs-dev-guide](https://github.com/riscv/docs-dev-guide) topic: pushed_at:2026-10 star:0.1k fork:0.0k Documentation developer guide
+- [riscv/docs-spec-template](https://github.com/riscv/docs-spec-template) topic: pushed_at:2026-10 star:0.0k fork:0.0k 
+- [riscv/fake-spec](https://github.com/riscv/fake-spec) topic: pushed_at:2026-10 star:0.0k fork:0.0k Fake spec to test docs-spec-template.
+- [riscv/riscv-docs-base-container-image](https://github.com/riscv/riscv-docs-base-container-image) topic: pushed_at:2026-10 star:0.0k fork:0.0k A base container image populated with the dependencies to build the RISC-V Documentation.
+- [riscv/riscv-memory-tagging](https://github.com/riscv/riscv-memory-tagging) topic: pushed_at:2026-10 star:0.0k fork:0.0k Memory Tagging ISA extension that can be used by software to enforce memory tag checks on memory loads and stores
+- [riscv/riscv-performance-event-sampling](https://github.com/riscv/riscv-performance-event-sampling) topic: pushed_at:2026-10 star:0.0k fork:0.0k Define 2 new extensions to, along with Zihpm and Sscofpmf, enable event and instruction sampling with precise attribution.
 
 ## TeX
 
 - [riscv/ft-trigger-delegation](https://github.com/riscv/ft-trigger-delegation) topic: pushed_at:2026-03 star:0.0k fork:0.0k Trigger Delegation Fast-Track Specification
 - [riscv/integer-vector-absolute-difference](https://github.com/riscv/integer-vector-absolute-difference) topic: pushed_at:2026-10 star:0.0k fork:0.0k RISC-V Integer Vector Absolute Difference
-- [riscv/integrated-matrix-extension](https://github.com/riscv/integrated-matrix-extension) topic: pushed_at:2026-09 star:0.0k fork:0.0k RISC-V Integrated Matrix Development Repository
+- [riscv/integrated-matrix-extension](https://github.com/riscv/integrated-matrix-extension) topic: pushed_at:2026-10 star:0.0k fork:0.0k RISC-V Integrated Matrix Development Repository
 - [riscv/riscv-attached-matrix-extension](https://github.com/riscv/riscv-attached-matrix-extension) topic: pushed_at:2026-09 star:0.0k fork:0.0k AME repo without the UDB dependency!
-- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) topic: pushed_at:2026-10 star:4.8k fork:0.9k RISC-V Instruction Set Manual
+- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) topic: pushed_at:2026-10 star:4.9k fork:0.9k RISC-V Instruction Set Manual
 - [riscv/riscv-isa-manual-dmitry](https://github.com/riscv/riscv-isa-manual-dmitry) topic: pushed_at:2026-04 star:0.0k fork:0.0k RISC-V Instruction Set Manual for Dmitry
+- [riscv/riscv-long-instruction](https://github.com/riscv/riscv-long-instruction) topic: pushed_at:2026-10 star:0.0k fork:0.0k RISC-V Long Instruction
 - [riscv/riscv-memory-protection-hypervisor](https://github.com/riscv/riscv-memory-protection-hypervisor) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V Memory Protection for Hypervisor
-- [riscv/riscv-security-model](https://github.com/riscv/riscv-security-model) topic: pushed_at:2026-09 star:0.0k fork:0.0k RISC-V Security Model
+- [riscv/riscv-security-model](https://github.com/riscv/riscv-security-model) topic: pushed_at:2026-10 star:0.0k fork:0.0k RISC-V Security Model
 - [riscv/riscv-smbios](https://github.com/riscv/riscv-smbios) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V SMBIOS Type 44 Spec
 - [riscv/riscv-ssrastraps](https://github.com/riscv/riscv-ssrastraps) topic: pushed_at:2026-03 star:0.0k fork:0.0k The RAS exception and interrupts extension (Ssrastraps) defines standard local interrupt numbers and exception-cause codes for reporting errors detected by RAS functions in the system.
 - [riscv/riscv-timing-fences](https://github.com/riscv/riscv-timing-fences) topic: pushed_at:2026-03 star:0.0k fork:0.0k The Timing Fences Task Group proposes an ISA extension to mitigate timing channels by partitioning shared microarchitectural states.
 - [riscv/riscv-vme](https://github.com/riscv/riscv-vme) topic: pushed_at:2026-07 star:0.0k fork:0.0k RISC-V Vector Matrix Extension
 - [riscv/riscv-worlds](https://github.com/riscv/riscv-worlds) topic: pushed_at:2026-08 star:0.0k fork:0.0k RISC-V Worlds provides isolation in a hardware platform by constraining access to system physical addresses.
-- [riscv/riscv-zilx](https://github.com/riscv/riscv-zilx) topic: pushed_at:2026-07 star:0.0k fork:0.0k RISC-V Integer Indexed Load (Zilx) fast-track extension. Jira RVS-4890.
+- [riscv/riscv-zilx](https://github.com/riscv/riscv-zilx) topic: pushed_at:2026-10 star:0.0k fork:0.0k RISC-V Integer Indexed Load (Zilx) fast-track extension. Jira RVS-4890.
 - [riscv/sdtrigepm](https://github.com/riscv/sdtrigepm) topic: pushed_at:2026-03 star:0.0k fork:0.0k Sdtrig Effective Privilege Mode (Sdtrigepm) Fast-track ISA Extension
 - [riscv/sdtrigpend](https://github.com/riscv/sdtrigpend) topic: pushed_at:2026-03 star:0.0k fork:0.0k The intent of pending is to cleanly handle the case where action is 0, m is 0, u is 1, count is 1, and the U-mode instruction being executed causes a trap into M-mode.
 - [riscv/self-hosted-trace](https://github.com/riscv/self-hosted-trace) topic: pushed_at:2026-05 star:0.0k fork:0.0k RISC-V Self-hosted Trace Development Repositoty
-- [riscv/sig-functional-safety-whitepaper](https://github.com/riscv/sig-functional-safety-whitepaper) topic: pushed_at:2026-09 star:0.0k fork:0.0k GitHub repository for the Functional Safety SIG Whitepaper Development
-- [riscv/zibi](https://github.com/riscv/zibi) topic: pushed_at:2026-09 star:0.0k fork:0.0k Branch with Immediate (Zibi) Ratification Plan
+- [riscv/sig-functional-safety-whitepaper](https://github.com/riscv/sig-functional-safety-whitepaper) topic: pushed_at:2026-10 star:0.0k fork:0.0k GitHub repository for the Functional Safety SIG Whitepaper Development
+- [riscv/zibi](https://github.com/riscv/zibi) topic: pushed_at:2026-10 star:0.0k fork:0.0k Branch with Immediate (Zibi) Ratification Plan
 
 ## TypeScript
 
-- [riscv/adm-riscv-software-ecosystem](https://github.com/riscv/adm-riscv-software-ecosystem) topic: pushed_at:2026-09 star:0.0k fork:0.0k 
+- [riscv/adm-riscv-software-ecosystem](https://github.com/riscv/adm-riscv-software-ecosystem) topic: pushed_at:2026-10 star:0.0k fork:0.0k 
 
 
 ## License
