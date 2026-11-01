@@ -6,12 +6,16 @@
 
 ## Contents(2)
 
-- [Others](#others) (2)
+- [Makefile](#makefile) (1)
+- [Others](#others) (1)
+
+## Makefile
+
+- [eclipse/eclipse-projects](https://github.com/eclipse/eclipse-projects) topic:eclipse pushed_at:2026-10 star:0.0k fork:0.0k A collection of all Eclipse projects hosted on GitHub
 
 ## Others
 
 - [eclipse/.github](https://github.com/eclipse/.github) topic: pushed_at:2026-05 star:0.0k fork:0.0k Community Health files
-- [eclipse/eclipse-projects](https://github.com/eclipse/eclipse-projects) topic:eclipse pushed_at:2026-10 star:0.0k fork:0.0k A collection of all Eclipse projects hosted on GitHub
 
 
 ## License

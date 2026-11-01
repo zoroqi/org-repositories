@@ -710,7 +710,7 @@
 - [apachecn/edax-reversi](https://github.com/apachecn/edax-reversi) topic: pushed_at:2021-01 star:0.0k fork:0.0k Edax reversi version 4.4 and above
 - [apachecn/EDFLOW](https://github.com/apachecn/EDFLOW) topic: pushed_at:2022-01 star:0.0k fork:0.0k Vivado HLS implementation of EDFLOW IP
 - [apachecn/edgetunnel](https://github.com/apachecn/edgetunnel) topic: pushed_at:2024-07 star:0.0k fork:0.0k Running V2ray inside edge/serverless runtime
-- [apachecn/edgetunnel21](https://github.com/apachecn/edgetunnel21) topic: pushed_at:2026-04 star:0.0k fork:0.0k edgetunnel2 VLESS/Trojan 多功能面板
+- [apachecn/edgetunnel21](https://github.com/apachecn/edgetunnel21) topic: pushed_at:2026-04 star:0.2k fork:0.1k edgetunnel2 VLESS/Trojan 多功能面板
 - [apachecn/eeg-gcnn](https://github.com/apachecn/eeg-gcnn) topic: pushed_at:2022-03 star:0.0k fork:0.0k Resources for the paper titled "EEG-GCNN: Augmenting Electroencephalogram-based Neurological Disease Diagnosis using a Domain-guided Graph Convolutional Neural Network". Accepted for publication (with an oral spotlight!) at ML4H Workshop, NeurIPS 2020.
 - [apachecn/effective-java-3rd-chinese](https://github.com/apachecn/effective-java-3rd-chinese) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
 - [apachecn/embedded-notes](https://github.com/apachecn/embedded-notes) topic: pushed_at:2021-04 star:0.0k fork:0.0k 嵌入式linux软件开发、嵌入式linux驱动开发、c语言、单片机开发、IOT开发等面试要点记录
@@ -858,7 +858,7 @@
 - [apachecn/it-ebooks-2021-part1](https://github.com/apachecn/it-ebooks-2021-part1) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
 - [apachecn/it-ebooks-2021-part2](https://github.com/apachecn/it-ebooks-2021-part2) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
 - [apachecn/it-ebooks-blog](https://github.com/apachecn/it-ebooks-blog) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
-- [apachecn/ituring-cs-book](https://github.com/apachecn/ituring-cs-book) topic: pushed_at:2023-02 star:0.1k fork:0.0k :books: 图灵计算机科学丛书
+- [apachecn/ituring-cs-book](https://github.com/apachecn/ituring-cs-book) topic: pushed_at:2023-02 star:0.1k fork:0.1k :books: 图灵计算机科学丛书
 - [apachecn/ituring-math-stat-book](https://github.com/apachecn/ituring-math-stat-book) topic: pushed_at:2023-02 star:0.1k fork:0.0k :books: 图灵数学统计学丛书
 - [apachecn/jaeger-all-in-one](https://github.com/apachecn/jaeger-all-in-one) topic: pushed_at:2023-01 star:0.0k fork:0.0k Jaeger tracing all-in-one service for development purposes
 - [apachecn/Japanese](https://github.com/apachecn/Japanese) topic: pushed_at:2021-09 star:0.0k fork:0.0k 日语学习资料汇总

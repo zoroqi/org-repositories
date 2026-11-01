@@ -41,7 +41,7 @@
 - [mdn/archived_kumascript](https://github.com/mdn/archived_kumascript) topic: pushed_at:2017-01 star:0.0k fork:0.0k Archive of KumaScript Templates / macros, 2005-2016
 - [mdn/beginner-html-site](https://github.com/mdn/beginner-html-site) topic:example,html,learning pushed_at:2026-03 star:0.3k fork:0.5k A simple one page website created to help complete beginners learn HTML basics.
 - [mdn/beginner-html-site-scripted](https://github.com/mdn/beginner-html-site-scripted) topic:example,html,javascript,learning pushed_at:2026-10 star:0.3k fork:0.3k A single-page website created to help complete beginners learn HTML with JS added to help beginners learn JavaScript. Supports https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/JavaScript_basics 
-- [mdn/beginner-html-site-styled](https://github.com/mdn/beginner-html-site-styled) topic: pushed_at:2026-07 star:0.3k fork:1.0k A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics.
+- [mdn/beginner-html-site-styled](https://github.com/mdn/beginner-html-site-styled) topic: pushed_at:2026-07 star:0.3k fork:1.1k A simple one page website created to help complete beginners learn HTML basics, which in this repo has also been styled to help beginners learn CSS basics. The styling is explained over the course of https://developer.mozilla.org/en-US/Learn/Getting_started_with_the_web/CSS_basics.
 - [mdn/beginning-programming-content-kit](https://github.com/mdn/beginning-programming-content-kit) topic:content-kit,html pushed_at:2019-03 star:0.0k fork:0.0k This is a Content Kit for people who want to teach programming to beginners.
 - [mdn/content-kit-template](https://github.com/mdn/content-kit-template) topic:content-management,demo-material,mdn,mdn-content-kit,presentation-materials pushed_at:2016-05 star:0.0k fork:0.0k This is the repo to fork or clone when creating a new MDN Content Kit.
 - [mdn/css-examples](https://github.com/mdn/css-examples) topic:css,examples pushed_at:2026-10 star:0.6k fork:0.8k Code examples that accompany the MDN CSS documentation
@@ -73,7 +73,7 @@
 
 ## JSON
 
-- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) topic:compat,compatibility,data,dataset,json pushed_at:2026-10 star:5.8k fork:2.7k Browser compatibility data for Web technologies as displayed on MDN
+- [mdn/browser-compat-data](https://github.com/mdn/browser-compat-data) topic:compat,compatibility,data,dataset,json pushed_at:2026-11 star:5.8k fork:2.7k Browser compatibility data for Web technologies as displayed on MDN
 
 ## JavaScript
 
@@ -139,7 +139,7 @@
 ## Markdown
 
 - [mdn/content](https://github.com/mdn/content) topic:css,documentation,html,http,javascript,learning,mdn,reference,web-development,web-standards pushed_at:2026-10 star:11.1k fork:23.3k The official source for MDN Web Docs content. Home to over 14,000 pages of documentation about HTML, CSS, JS, HTTP, Web APIs, and more.
-- [mdn/translated-content](https://github.com/mdn/translated-content) topic:documentation,l10n,localization,mdn,web-development,web-platform pushed_at:2026-10 star:2.0k fork:8.3k 7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.
+- [mdn/translated-content](https://github.com/mdn/translated-content) topic:documentation,l10n,localization,mdn,web-development,web-platform pushed_at:2026-11 star:2.0k fork:8.3k 7 community-maintained translations of MDN Web Docs in ES, FR, JA, KO, PT-BR, RU, and ZH, to learn and contribute in your native language.
 - [mdn/translated-content-de](https://github.com/mdn/translated-content-de) topic: pushed_at:2026-10 star:0.0k fork:0.0k Experimental German locale for MDN, aimed at German-speaking users that prefer to read MDN Web Docs in their native language
 - [mdn/translated-content-it](https://github.com/mdn/translated-content-it) topic: pushed_at:2026-10 star:0.0k fork:0.0k Experimental Italian locale for MDN, aimed at Italian-speaking users that prefer to read MDN Web Docs in their native language 
 

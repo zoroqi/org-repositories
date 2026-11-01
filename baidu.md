@@ -28,7 +28,7 @@
 
 - [baidu/baidu-iot-samples](https://github.com/baidu/baidu-iot-samples) topic: pushed_at:2019-10 star:0.1k fork:0.1k 
 - [baidu/boteye_sensor](https://github.com/baidu/boteye_sensor) topic: pushed_at:2018-11 star:0.0k fork:0.0k 
-- [baidu/dperf](https://github.com/baidu/dperf) topic:benchmark,dpdk,l4lb,linux-networking,load-testing,network-benchmarking,packet-generator,performance,performance-testing,tcp,user-space-networking,user-space-tcp pushed_at:2026-08 star:5.6k fork:0.6k dperf: High-Performance Network Load Testing Tool Based on DPDK
+- [baidu/dperf](https://github.com/baidu/dperf) topic:benchmark,dpdk,l4lb,linux-networking,load-testing,network-benchmarking,packet-generator,performance,performance-testing,tcp,user-space-networking,user-space-tcp pushed_at:2026-08 star:5.7k fork:0.6k dperf: High-Performance Network Load Testing Tool Based on DPDK
 - [baidu/du1906_esp](https://github.com/baidu/du1906_esp) topic: pushed_at:2023-05 star:0.0k fork:0.0k DUHOME AIOT platform based on du1906 and esp32
 - [baidu/iot-edge-sdk-for-iot-parser](https://github.com/baidu/iot-edge-sdk-for-iot-parser) topic: pushed_at:2019-02 star:0.1k fork:0.1k 
 - [baidu/iot-sdk-c](https://github.com/baidu/iot-sdk-c) topic:device-management,edge-sdk,mqtt,sdk pushed_at:2022-04 star:0.1k fork:0.1k device sdk for baidu IoT Core service, in c. Including MQTT client
@@ -85,7 +85,7 @@
 
 ## Java
 
-- [baidu/brcc](https://github.com/baidu/brcc) topic:brcc,go,java,sdk-go,sdk-java pushed_at:2024-12 star:0.4k fork:0.1k BRCC（better remote config center）是一个分布式配置中心，用于统一管理应用服务的配置信息，避免各类资源散落在各个项目中，简化资源配置的维护成本。作为一种轻量级的解决方案，部署简单，同时支持多环境、多版本、多角色的资源管理，可以在不改变应用源码的情况下无缝切换和实时生效配置信息。
+- [baidu/brcc](https://github.com/baidu/brcc) topic:brcc,go,java,sdk-go,sdk-java pushed_at:2026-10 star:0.4k fork:0.1k BRCC（better remote config center）是一个分布式配置中心，用于统一管理应用服务的配置信息，避免各类资源散落在各个项目中，简化资源配置的维护成本。作为一种轻量级的解决方案，部署简单，同时支持多环境、多版本、多角色的资源管理，可以在不改变应用源码的情况下无缝切换和实时生效配置信息。
 - [baidu/Cafe](https://github.com/baidu/Cafe) topic: pushed_at:2014-05 star:0.4k fork:0.2k A powerful test framework for Android
 - [baidu/dlock](https://github.com/baidu/dlock) topic: pushed_at:2017-03 star:0.2k fork:0.1k An effective and reliable Distributed Lock
 - [baidu/Elasticsearch](https://github.com/baidu/Elasticsearch) topic: pushed_at:2018-07 star:0.4k fork:0.1k Baidu Elasticsearch
@@ -172,7 +172,7 @@
 - [baidu/pymochow](https://github.com/baidu/pymochow) topic: pushed_at:2026-10 star:0.0k fork:0.0k 
 - [baidu/QCompute](https://github.com/baidu/QCompute) topic: pushed_at:2023-12 star:0.1k fork:0.0k QCompute is a Python-based quantum software development kit (SDK). It provides a full-stack programming experience for advanced users via hybrid quantum programming language features and a high-performance simulator.
 - [baidu/Senta](https://github.com/baidu/Senta) topic:aspect-level-sentiment,natural-language-processing,opinion-target-extraction,paddlepaddle,sentiment-analysis,sentiment-classification pushed_at:2024-08 star:2.0k fork:0.4k Baidu's open-source Sentiment Analysis System.
-- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) topic: pushed_at:2026-10 star:27.7k fork:2.9k Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
+- [baidu/Unlimited-OCR](https://github.com/baidu/Unlimited-OCR) topic: pushed_at:2026-10 star:30.1k fork:3.2k Unlimited OCR Works: Welcome the Era of One-shot Long-horizon Parsing.
 - [baidu/vLLM-Kunlun](https://github.com/baidu/vLLM-Kunlun) topic: pushed_at:2026-10 star:0.5k fork:0.1k vLLM Kunlun (vllm-kunlun) is a community-maintained hardware plugin designed to seamlessly run vLLM on the Kunlun XPU.
 - [baidu/Youtube-8M](https://github.com/baidu/Youtube-8M) topic: pushed_at:2017-11 star:0.1k fork:0.0k PaddlePaddle models for Youtube-8M Video Understanding Challenge
 
