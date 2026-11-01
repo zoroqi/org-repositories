@@ -167,7 +167,7 @@
 - [sony/gibbsddrm](https://github.com/sony/gibbsddrm) topic: pushed_at:2023-05 star:0.0k fork:0.0k 
 - [sony/guda](https://github.com/sony/guda) topic: pushed_at:2026-05 star:0.0k fork:0.0k 
 - [sony/hero](https://github.com/sony/hero) topic: pushed_at:2025-11 star:0.0k fork:0.0k 
-- [sony/hFT-Transformer](https://github.com/sony/hFT-Transformer) topic: pushed_at:2023-07 star:0.1k fork:0.0k Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer).
+- [sony/hFT-Transformer](https://github.com/sony/hFT-Transformer) topic: pushed_at:2026-10 star:0.1k fork:0.0k Pytorch implementation of automatic music transcription method that uses a two-level hierarchical frequency-time Transformer architecture (hFT-Transformer).
 - [sony/humangif](https://github.com/sony/humangif) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
 - [sony/jys](https://github.com/sony/jys) topic: pushed_at:2025-11 star:0.0k fork:0.0k 
 - [sony/lensless-wide-aspect-iccp2021](https://github.com/sony/lensless-wide-aspect-iccp2021) topic: pushed_at:2021-05 star:0.0k fork:0.0k 

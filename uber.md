@@ -33,7 +33,7 @@
 
 ## C
 
-- [uber/h3](https://github.com/uber/h3) topic:geospatial,h3,hexagon,spatial-indexing,uber pushed_at:2026-10 star:6.6k fork:0.6k Hexagonal hierarchical geospatial indexing system
+- [uber/h3](https://github.com/uber/h3) topic:geospatial,h3,hexagon,spatial-indexing,uber pushed_at:2026-10 star:6.7k fork:0.7k Hexagonal hierarchical geospatial indexing system
 - [uber/tree-sitter-strings](https://github.com/uber/tree-sitter-strings) topic: pushed_at:2025-01 star:0.0k fork:0.0k Tree-sitter grammar for Apple's Strings Resources File.
 
 ## C++
@@ -86,12 +86,12 @@
 ## Java
 
 - [uber/android-template](https://github.com/uber/android-template) topic: pushed_at:2021-05 star:0.1k fork:0.1k This template provides a starting point for open source Android projects at Uber.
-- [uber/AutoDispose](https://github.com/uber/AutoDispose) topic:android,autodispose,kotlin,lifecycle,reactive-extensions,reactive-streams,rxandroid,rxjava,uber pushed_at:2026-05 star:3.3k fork:0.2k Automatic binding+disposal of RxJava streams.
+- [uber/AutoDispose](https://github.com/uber/AutoDispose) topic:android,autodispose,kotlin,lifecycle,reactive-extensions,reactive-streams,rxandroid,rxjava,uber pushed_at:2026-10 star:3.3k fork:0.2k Automatic binding+disposal of RxJava streams.
 - [uber/concurrency-loadbalancer](https://github.com/uber/concurrency-loadbalancer) topic: pushed_at:2024-03 star:0.0k fork:0.0k 
 - [uber/dynamodb-cross-region-library](https://github.com/uber/dynamodb-cross-region-library) topic: pushed_at:2023-03 star:0.0k fork:0.0k A library to facilitate cross-region replication with Amazon DynamoDB Streams.
 - [uber/h3-java](https://github.com/uber/h3-java) topic:geospatial,h3,hexagon,java,spatial-indexing,uber pushed_at:2026-10 star:0.3k fork:0.1k Java bindings for H3, a hierarchical hexagonal geospatial indexing system
 - [uber/marmaray](https://github.com/uber/marmaray) topic:avro-schema,data-lake,hadoop,ingest-data,schema-format,spark pushed_at:2023-03 star:0.5k fork:0.1k Generic Data Ingestion & Dispersal Library for Hadoop
-- [uber/NullAway](https://github.com/uber/NullAway) topic:android,java,nullability,nullability-analysis,static-analysis,static-code-analysis pushed_at:2026-10 star:4.1k fork:0.4k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
+- [uber/NullAway](https://github.com/uber/NullAway) topic:android,java,nullability,nullability-analysis,static-analysis,static-code-analysis pushed_at:2026-11 star:4.1k fork:0.4k A tool to help eliminate NullPointerExceptions (NPEs) in your Java code with low build-time overhead
 - [uber/okbuck](https://github.com/uber/okbuck) topic:android,buck,gradle,gradle-plugin,watchman pushed_at:2026-03 star:1.5k fork:0.2k OkBuck is a gradle plugin that lets developers utilize the Buck build system on a gradle project.
 - [uber/RemoteShuffleService](https://github.com/uber/RemoteShuffleService) topic: pushed_at:2023-09 star:0.3k fork:0.1k Remote shuffle service for Apache Spark to store shuffle data on remote servers. 
 - [uber/rides-android-sdk](https://github.com/uber/rides-android-sdk) topic: pushed_at:2026-06 star:0.3k fork:0.1k Uber Rides Android SDK (beta)
@@ -231,7 +231,7 @@
 
 ## Rust
 
-- [uber/piranha](https://github.com/uber/piranha) topic:ast,ast-matcher,clang-plugin,code-management,code-quality,deadcode,feature-flags,feature-toggles,java,javascript,objective-c,refactoring,refactoring-tools,stale-flags,swift,swift-syntax pushed_at:2026-04 star:2.5k fork:0.2k A tool for refactoring code related to feature flag APIs
+- [uber/piranha](https://github.com/uber/piranha) topic:ast,ast-matcher,clang-plugin,code-management,code-quality,deadcode,feature-flags,feature-toggles,java,javascript,objective-c,refactoring,refactoring-tools,stale-flags,swift,swift-syntax pushed_at:2026-10 star:2.5k fork:0.2k A tool for refactoring code related to feature flag APIs
 
 ## Scala
 
@@ -243,7 +243,7 @@
 
 ## Starlark
 
-- [uber/hermetic_cc_toolchain](https://github.com/uber/hermetic_cc_toolchain) topic: pushed_at:2026-07 star:0.4k fork:0.1k Bazel C/C++ toolchain for cross-compiling C/C++ programs
+- [uber/hermetic_cc_toolchain](https://github.com/uber/hermetic_cc_toolchain) topic: pushed_at:2026-10 star:0.4k fork:0.1k Bazel C/C++ toolchain for cross-compiling C/C++ programs
 
 ## Stata
 
@@ -273,7 +273,7 @@
 - [uber/ads-api-example](https://github.com/uber/ads-api-example) topic: pushed_at:2026-10 star:0.0k fork:0.0k 
 - [uber/base-design-docs](https://github.com/uber/base-design-docs) topic:design-system,documentation pushed_at:2024-01 star:0.0k fork:0.0k A documentation site for the Base design system.
 - [uber/baseweb](https://github.com/uber/baseweb) topic:component-library,design-systems,react,react-components pushed_at:2026-09 star:9.0k fork:0.9k A React Component library implementing the Base design language
-- [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) topic: pushed_at:2026-07 star:0.5k fork:0.1k grafana dash dash dash gen
+- [uber/grafana-dash-gen](https://github.com/uber/grafana-dash-gen) topic: pushed_at:2026-10 star:0.5k fork:0.1k grafana dash dash dash gen
 - [uber/nebula.gl](https://github.com/uber/nebula.gl) topic:deck-gl,uber,webgl pushed_at:2024-05 star:0.7k fork:0.2k A suite of 3D-enabled data editing overlays, suitable for deck.gl
 - [uber/react-view](https://github.com/uber/react-view) topic:code-generator,documentation,playground,react pushed_at:2024-10 star:0.7k fork:0.0k React View is an interactive playground, documentation and code generator for your components.
 - [uber/vscode-bazel-bsp](https://github.com/uber/vscode-bazel-bsp) topic:bazel,build-server-protocol,testing-tools,vscode-extension pushed_at:2026-05 star:0.0k fork:0.0k VS Code extension to provide integration with Bazel BSP, leveraging Build Server Protocol.  Currently focused on VS Code test explorer integration.

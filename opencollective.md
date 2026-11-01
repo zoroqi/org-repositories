@@ -9,13 +9,13 @@
 - [CSS](#css) (3)
 - [Go](#go) (1)
 - [HTML](#html) (3)
-- [JavaScript](#javascript) (34)
+- [JavaScript](#javascript) (32)
 - [Jupyter Notebook](#jupyter-notebook) (2)
 - [Less](#less) (1)
 - [Others](#others) (25)
 - [Python](#python) (1)
 - [Shell](#shell) (2)
-- [TypeScript](#typescript) (31)
+- [TypeScript](#typescript) (33)
 
 ## CSS
 
@@ -54,12 +54,10 @@
 - [opencollective/opencollective-email](https://github.com/opencollective/opencollective-email) topic: pushed_at:2019-01 star:0.0k fork:0.0k The email service for transparent and inclusive open collectives
 - [opencollective/opencollective-emails](https://github.com/opencollective/opencollective-emails) topic: pushed_at:2023-01 star:0.0k fork:0.0k The new Open Collective email service, powered by Eymail
 - [opencollective/opencollective-giftcards-generator](https://github.com/opencollective/opencollective-giftcards-generator) topic: pushed_at:2020-04 star:0.0k fork:0.0k Simple app to generate read-to-print Open Collective gift cards
-- [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) topic: pushed_at:2026-10 star:0.1k fork:0.0k Open Collective's Image Server. For badges, banners, avatar, etc ...
 - [opencollective/opencollective-jobs](https://github.com/opencollective/opencollective-jobs) topic: pushed_at:2018-05 star:0.0k fork:0.0k 
 - [opencollective/opencollective-postinstall](https://github.com/opencollective/opencollective-postinstall) topic: pushed_at:2023-03 star:0.1k fork:0.0k Prompt your users to donate to your collective after `npm install`
 - [opencollective/opencollective-setup](https://github.com/opencollective/opencollective-setup) topic: pushed_at:2021-08 star:0.0k fork:0.0k CLI tool to setup Open Collective in repositories
 - [opencollective/opencollective-site](https://github.com/opencollective/opencollective-site) topic: pushed_at:2018-05 star:0.0k fork:0.0k New frontend for Opencollective
-- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2026-10 star:0.0k fork:0.0k 
 - [opencollective/opencollective-watch](https://github.com/opencollective/opencollective-watch) topic: pushed_at:2026-10 star:0.0k fork:0.0k Monitoring HTTP traffic at Open Collective
 - [opencollective/opencollective-website](https://github.com/opencollective/opencollective-website) topic:opencollective,reactjs pushed_at:2018-07 star:0.1k fork:0.0k OpenCollective frontend
 - [opencollective/opencollective-zapier](https://github.com/opencollective/opencollective-zapier) topic:opencollective,zapier pushed_at:2021-02 star:0.0k fork:0.0k ⚠️ DEPRECATED ⚠️ Open Collective legacy Zapier integration
@@ -137,10 +135,12 @@
 - [opencollective/opencollective-frontend](https://github.com/opencollective/opencollective-frontend) topic:graphql,nextjs,opencollective,react,webpack pushed_at:2026-10 star:0.9k fork:0.5k Open Collective's Frontend. A React app powered by Next.js.
 - [opencollective/opencollective-frontend-template](https://github.com/opencollective/opencollective-frontend-template) topic: pushed_at:2025-10 star:0.0k fork:0.0k Kickstart a new frontend project at Open Collective.
 - [opencollective/opencollective-github-helpers](https://github.com/opencollective/opencollective-github-helpers) topic: pushed_at:2023-01 star:0.0k fork:0.0k An app to help with the maintainance and development tasks of Open Collective internal repositories
+- [opencollective/opencollective-images](https://github.com/opencollective/opencollective-images) topic: pushed_at:2026-10 star:0.1k fork:0.0k Open Collective's Image Server. For badges, banners, avatar, etc ...
 - [opencollective/opencollective-pdf](https://github.com/opencollective/opencollective-pdf) topic:graphql,graphql-js,invoices-pdf,nodejs,opencollective,pdf,pdf-generation pushed_at:2026-10 star:0.1k fork:0.1k Open Collective's PDF Server
 - [opencollective/opencollective-rest](https://github.com/opencollective/opencollective-rest) topic: pushed_at:2026-10 star:0.1k fork:0.0k Open Collective's REST API legacy, v1, and v2!
 - [opencollective/opencollective-rss](https://github.com/opencollective/opencollective-rss) topic: pushed_at:2026-10 star:0.0k fork:0.0k GraphQL-to-RSS bridge for the Open Collective API
 - [opencollective/opencollective-taxes](https://github.com/opencollective/opencollective-taxes) topic: pushed_at:2026-10 star:0.0k fork:0.0k Shared code to calculate taxes for events, products and services (VAT)
+- [opencollective/opencollective-tools](https://github.com/opencollective/opencollective-tools) topic: pushed_at:2026-10 star:0.0k fork:0.0k 
 - [opencollective/opencollective.xyz](https://github.com/opencollective/opencollective.xyz) topic: pushed_at:2026-03 star:0.0k fork:0.0k New web3 native version of Open Collective
 - [opencollective/opendocs](https://github.com/opencollective/opendocs) topic: pushed_at:2025-10 star:0.0k fork:0.0k share your docs foryour collective
 - [opencollective/pricing](https://github.com/opencollective/pricing) topic: pushed_at:2025-12 star:0.0k fork:0.0k Research project to test an updated pricing model

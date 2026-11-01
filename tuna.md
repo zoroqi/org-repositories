@@ -54,7 +54,7 @@
 - [tuna/freedns-go](https://github.com/tuna/freedns-go) topic: pushed_at:2021-11 star:0.2k fork:0.0k Optimized DNS Server for Chinese users.
 - [tuna/mirrorhub](https://github.com/tuna/mirrorhub) topic: pushed_at:2016-09 star:0.0k fork:0.0k Redirects the user to a nearby mirror site.
 - [tuna/tunaccount](https://github.com/tuna/tunaccount) topic: pushed_at:2023-12 star:0.0k fork:0.0k 
-- [tuna/tunasync](https://github.com/tuna/tunasync) topic: pushed_at:2026-08 star:1.9k fork:0.3k Mirror job management tool. 
+- [tuna/tunasync](https://github.com/tuna/tunasync) topic: pushed_at:2026-10 star:1.9k fork:0.3k Mirror job management tool. 
 
 ## HTML
 
@@ -82,7 +82,7 @@
 - [tuna/collection](https://github.com/tuna/collection) topic: pushed_at:2022-04 star:0.3k fork:0.0k idea collections from TUNA
 - [tuna/dataset-issues](https://github.com/tuna/dataset-issues) topic: pushed_at:2018-04 star:0.0k fork:0.0k Issues about academic dataset mirrors
 - [tuna/isofusion](https://github.com/tuna/isofusion) topic: pushed_at:2016-05 star:0.0k fork:0.0k scan and create iso filelist from mirrors
-- [tuna/issues](https://github.com/tuna/issues) topic: pushed_at:2025-11 star:0.4k fork:0.0k Code Unrelated Issues 
+- [tuna/issues](https://github.com/tuna/issues) topic: pushed_at:2026-10 star:0.4k fork:0.0k Code Unrelated Issues 
 - [tuna/ngx-fancyindex](https://github.com/tuna/ngx-fancyindex) topic: pushed_at:2020-03 star:0.0k fork:0.0k Fancy indexes module for the Nginx web server
 - [tuna/opentuna-site](https://github.com/tuna/opentuna-site) topic: pushed_at:2021-01 star:0.0k fork:0.0k 
 

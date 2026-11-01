@@ -6,14 +6,14 @@
 
 ## Contents(79)
 
-- [Assembly](#assembly) (2)
+- [Assembly](#assembly) (1)
 - [BitBake](#bitbake) (1)
 - [C](#c) (3)
 - [HTML](#html) (1)
-- [JavaScript](#javascript) (5)
-- [Makefile](#makefile) (22)
+- [JavaScript](#javascript) (4)
+- [Makefile](#makefile) (23)
 - [Others](#others) (10)
-- [Python](#python) (6)
+- [Python](#python) (7)
 - [Ruby](#ruby) (1)
 - [Sail](#sail) (1)
 - [Shell](#shell) (6)
@@ -22,8 +22,7 @@
 
 ## Assembly
 
-- [riscv/riscv-arch-test](https://github.com/riscv/riscv-arch-test) topic: pushed_at:2026-10 star:0.8k fork:0.4k The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.
-- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) topic: pushed_at:2026-10 star:0.3k fork:0.1k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
+- [riscv/riscv-arch-test](https://github.com/riscv/riscv-arch-test) topic: pushed_at:2026-11 star:0.8k fork:0.4k The RISC-V Architectural Certification Tests (ACTs) are a set of assembly language tests designed to certify that a design faithfully implements the RISC-V specification.
 
 ## BitBake
 
@@ -42,7 +41,6 @@
 ## JavaScript
 
 - [riscv/adm-riscv-sde](https://github.com/riscv/adm-riscv-sde) topic: pushed_at:2026-10 star:0.0k fork:0.0k RISC-V Specification Development Explorer
-- [riscv/adm-spec-dashboard](https://github.com/riscv/adm-spec-dashboard) topic: pushed_at:2026-10 star:0.0k fork:0.0k Automation to collect Jira issues to generate the BoD reports
 - [riscv/adm-tc-dashboard](https://github.com/riscv/adm-tc-dashboard) topic: pushed_at:2026-10 star:0.0k fork:0.0k RISC-V Technical Committee Dashboard
 - [riscv/riscv-isa-explorer](https://github.com/riscv/riscv-isa-explorer) topic: pushed_at:2026-10 star:0.0k fork:0.1k A simple and intuitive approach to visualize RISC-V Extensions and Profiles.
 - [riscv/riscv-tech-calendar](https://github.com/riscv/riscv-tech-calendar) topic: pushed_at:2026-08 star:0.0k fork:0.0k The RISC-V Technical Meetings Calendar dynamically displays meeting times according to the user's time zone.
@@ -58,13 +56,14 @@
 - [riscv/riscv-control-transfer-records](https://github.com/riscv/riscv-control-transfer-records) topic: pushed_at:2026-03 star:0.0k fork:0.0k This repo contains a RISC-V ISA extension (proposal) to allow recording of control transfer history to on-chip registers, to support usages associated with profiling and debug.
 - [riscv/riscv-dot-product](https://github.com/riscv/riscv-dot-product) topic: pushed_at:2026-03 star:0.0k fork:0.0k Dot-Product Extension
 - [riscv/riscv-double-trap](https://github.com/riscv/riscv-double-trap) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V Double Trap Fast-Track Extension
+- [riscv/riscv-fast-interrupt](https://github.com/riscv/riscv-fast-interrupt) topic: pushed_at:2026-10 star:0.3k fork:0.1k Proposal for a RISC-V Core-Local Interrupt Controller (CLIC)
 - [riscv/riscv-glossary](https://github.com/riscv/riscv-glossary) topic: pushed_at:2026-10 star:0.0k fork:0.0k 
 - [riscv/riscv-j-extension](https://github.com/riscv/riscv-j-extension) topic: pushed_at:2026-03 star:0.2k fork:0.0k Working Draft of the RISC-V J Extension Specification
-- [riscv/riscv-performance-events](https://github.com/riscv/riscv-performance-events) topic: pushed_at:2026-03 star:0.0k fork:0.0k RISC-V Performance Events Specification
+- [riscv/riscv-performance-events](https://github.com/riscv/riscv-performance-events) topic: pushed_at:2026-10 star:0.0k fork:0.0k RISC-V Performance Events Specification
 - [riscv/riscv-profiles](https://github.com/riscv/riscv-profiles) topic: pushed_at:2026-07 star:0.2k fork:0.0k RISC-V Architecture Profiles
 - [riscv/riscv-smmtt](https://github.com/riscv/riscv-smmtt) topic:access-control,ap-tee,confidential-computing,io-mpt,smgeien,smmpt,smmtt,smqosid,smsdedbga,smsdetrca,smsdia,smsdid,supervisor-domains,trusted-computing,trusted-execution-environment pushed_at:2026-10 star:0.1k fork:0.0k This specification will define the RISC-V privilege ISA extensions required to support Supervisor Domain isolation for multi-tenant security use cases e.g. confidential-computing, trusted platform services, fault isolation and so on.
 - [riscv/riscv-spec-barrier](https://github.com/riscv/riscv-spec-barrier) topic: pushed_at:2026-05 star:0.0k fork:0.0k RISC-V Speculation Barrier
-- [riscv/riscv-spmp](https://github.com/riscv/riscv-spmp) topic: pushed_at:2026-09 star:0.0k fork:0.0k The repo contains the SPMP architectural specification, which includes capabilities like access control of read/write/execute requests by an hart, address matching, encoding of permissions, exceptions for access violation, and support for virtualization.
+- [riscv/riscv-spmp](https://github.com/riscv/riscv-spmp) topic: pushed_at:2026-10 star:0.0k fork:0.0k The repo contains the SPMP architectural specification, which includes capabilities like access control of read/write/execute requests by an hart, address matching, encoding of permissions, exceptions for access violation, and support for virtualization.
 - [riscv/riscv-ssdtso](https://github.com/riscv/riscv-ssdtso) topic: pushed_at:2026-03 star:0.0k fork:0.0k The Ssdtso is a fast-track extension adding a 'dynamic-RVTSO' mode of operation and on-demand per-hart switching between the memory models.
 - [riscv/riscv-ssqosid](https://github.com/riscv/riscv-ssqosid) topic: pushed_at:2026-03 star:0.0k fork:0.0k This repo will hold the specification for the proposed QoS ID extension being pursued on the fast-track process.
 - [riscv/riscv-svvptc](https://github.com/riscv/riscv-svvptc) topic: pushed_at:2026-04 star:0.0k fork:0.0k Obviating Memory-Management Instructions after Marking PTEs Valid (Svvptc)
@@ -74,10 +73,10 @@
 
 ## Others
 
-- [riscv/.github](https://github.com/riscv/.github) topic: pushed_at:2025-02 star:0.0k fork:0.0k 
+- [riscv/.github](https://github.com/riscv/.github) topic: pushed_at:2026-10 star:0.0k fork:0.0k 
 - [riscv/friendly-terminology](https://github.com/riscv/friendly-terminology) topic: pushed_at:2026-03 star:0.0k fork:0.0k This repository implements the Friendly Terminology for use with the in-solidarity-bot plugin.
 - [riscv/guides](https://github.com/riscv/guides) topic: pushed_at:2026-05 star:0.0k fork:0.0k RISC-V International Guides
-- [riscv/learn](https://github.com/riscv/learn) topic: pushed_at:2026-10 star:1.9k fork:0.2k Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. 
+- [riscv/learn](https://github.com/riscv/learn) topic: pushed_at:2026-11 star:1.9k fork:0.2k Tracking RISC-V Actions on Education, Training, Courses, Monitorships, etc. 
 - [riscv/riscv-library](https://github.com/riscv/riscv-library) topic: pushed_at:2025-07 star:0.0k fork:0.0k This repository holds the front matter pages for the RISC-V Library
 - [riscv/riscv-optimization](https://github.com/riscv/riscv-optimization) topic: pushed_at:2026-07 star:0.0k fork:0.0k RISC-V Optimization Guide
 - [riscv/riscv-plic-spec](https://github.com/riscv/riscv-plic-spec) topic: pushed_at:2026-07 star:0.2k fork:0.0k PLIC Specification
@@ -87,10 +86,11 @@
 
 ## Python
 
+- [riscv/adm-spec-dashboard](https://github.com/riscv/adm-spec-dashboard) topic: pushed_at:2026-10 star:0.0k fork:0.0k Automation to collect Jira issues to generate the BoD reports
 - [riscv/docs-resources](https://github.com/riscv/docs-resources) topic: pushed_at:2026-10 star:0.1k fork:0.0k 
 - [riscv/riscv-cheri](https://github.com/riscv/riscv-cheri) topic:capabilities,compartmentalization,memory-safety pushed_at:2026-10 star:0.1k fork:0.1k This repository contains the CHERI extension specification, adding hardware capabilities to RISC-V ISA to enable fine-grained memory protection and scalable compartmentalization.
 - [riscv/riscv-debug-spec](https://github.com/riscv/riscv-debug-spec) topic: pushed_at:2026-08 star:0.5k fork:0.1k RISC-V Debug Specification Standard
-- [riscv/riscv-high-assurance-cryptography](https://github.com/riscv/riscv-high-assurance-cryptography) topic: pushed_at:2026-10 star:0.0k fork:0.0k  High Assurance Cryptography
+- [riscv/riscv-high-assurance-cryptography](https://github.com/riscv/riscv-high-assurance-cryptography) topic: pushed_at:2026-11 star:0.0k fork:0.0k  High Assurance Cryptography
 - [riscv/riscv-opcodes](https://github.com/riscv/riscv-opcodes) topic: pushed_at:2026-10 star:0.9k fork:0.4k RISC-V Opcodes
 - [riscv/riscv-p-spec](https://github.com/riscv/riscv-p-spec) topic: pushed_at:2026-10 star:0.2k fork:0.1k RISC-V Packed SIMD Extension
 
