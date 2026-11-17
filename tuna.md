@@ -31,7 +31,7 @@
 ## C++
 
 - [tuna/QSerial](https://github.com/tuna/QSerial) topic: pushed_at:2025-12 star:0.0k fork:0.0k An advanced cross-platform serial port utility
-- [tuna/tapa](https://github.com/tuna/tapa) topic: pushed_at:2026-10 star:0.0k fork:0.0k TAPA compiles task-parallel HLS program into high-performance FPGA accelerators.
+- [tuna/tapa](https://github.com/tuna/tapa) topic: pushed_at:2026-11 star:0.0k fork:0.0k TAPA compiles task-parallel HLS program into high-performance FPGA accelerators.
 
 ## CSS
 
@@ -67,7 +67,7 @@
 - [tuna/danmaQ](https://github.com/tuna/danmaQ) topic: pushed_at:2025-04 star:0.2k fork:0.0k danmaku client implemented in Qt
 - [tuna/fakeTunet](https://github.com/tuna/fakeTunet) topic: pushed_at:2016-05 star:0.0k fork:0.0k a fake net.tsinghua.edu.cn
 - [tuna/Logbot](https://github.com/tuna/Logbot) topic: pushed_at:2014-11 star:0.0k fork:0.0k Simple IRC logger with realtime web-based viewer
-- [tuna/mirror-web](https://github.com/tuna/mirror-web) topic: pushed_at:2026-10 star:0.9k fork:0.3k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
+- [tuna/mirror-web](https://github.com/tuna/mirror-web) topic: pushed_at:2026-11 star:0.9k fork:0.3k Source code of the web interface of https://mirrors.tuna.tsinghua.edu.cn/ 
 - [tuna/registr](https://github.com/tuna/registr) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [tuna/tunasay](https://github.com/tuna/tunasay) topic: pushed_at:2017-06 star:0.0k fork:0.0k tunasay is a configurable talking tuna
 
@@ -110,7 +110,7 @@
 - [tuna/scripts](https://github.com/tuna/scripts) topic: pushed_at:2018-01 star:0.0k fork:0.0k 
 - [tuna/telegram2irc](https://github.com/tuna/telegram2irc) topic: pushed_at:2015-06 star:0.0k fork:0.0k A bot connect IRC and Telegram. Multiple binding is supported.
 - [tuna/thuroutes](https://github.com/tuna/thuroutes) topic: pushed_at:2016-05 star:0.0k fork:0.0k Forked from https://chnroutes.googlecode.com/
-- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) topic: pushed_at:2026-10 star:0.5k fork:0.2k Custom scripts for mirror jobs
+- [tuna/tunasync-scripts](https://github.com/tuna/tunasync-scripts) topic: pushed_at:2026-11 star:0.5k fork:0.2k Custom scripts for mirror jobs
 
 ## Ruby
 
@@ -123,7 +123,7 @@
 ## TeX
 
 - [tuna/THU-Beamer-Theme](https://github.com/tuna/THU-Beamer-Theme) topic: pushed_at:2020-12 star:0.5k fork:0.1k A LaTeX beamer theme template for Tsinghua students.
-- [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) topic: pushed_at:2026-04 star:0.5k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
+- [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk) topic: pushed_at:2026-11 star:0.5k fork:0.1k 《如何使用 LaTeX 排版论文》讲稿
 - [tuna/thuthesis](https://github.com/tuna/thuthesis) topic:ctan,latex,latex-thesis-template,tex,thuthesis,tsinghua,tsinghua-university pushed_at:2026-08 star:5.5k fork:1.2k LaTeX Thesis Template for Tsinghua University
 
 ## TypeScript
@@ -133,7 +133,7 @@
 
 ## Typst
 
-- [tuna/thuthesis-typst](https://github.com/tuna/thuthesis-typst) topic:chinese,template,thu,tsinghua,tsinghua-university,typst,typst-template pushed_at:2026-08 star:0.0k fork:0.0k :page_facing_up: Typst Thesis Template for Tsinghua University (THU)
+- [tuna/thuthesis-typst](https://github.com/tuna/thuthesis-typst) topic:chinese,template,thu,tsinghua,tsinghua-university,typst,typst-template pushed_at:2026-11 star:0.0k fork:0.0k :page_facing_up: Typst Thesis Template for Tsinghua University (THU)
 
 
 ## License
