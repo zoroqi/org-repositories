@@ -34,7 +34,7 @@
 
 ## CSS
 
-- [apachecn/.github](https://github.com/apachecn/.github) topic:dl,ml,python,pytorch,solidity,spark pushed_at:2025-10 star:1.8k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
+- [apachecn/.github](https://github.com/apachecn/.github) topic:dl,ml,python,pytorch,solidity,spark pushed_at:2026-11 star:1.8k fork:0.2k ApacheCN  开源组织：公告、介绍、成员、活动、交流方式
 - [apachecn/airflow-doc-zh](https://github.com/apachecn/airflow-doc-zh) topic:airflow pushed_at:2023-07 star:0.2k fork:0.1k :book: [译] Airflow 中文文档
 - [apachecn/android-app-sec-guidebook-zh](https://github.com/apachecn/android-app-sec-guidebook-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k 
 - [apachecn/business-5min-notes](https://github.com/apachecn/business-5min-notes) topic:business,liurun,notes pushed_at:2021-01 star:0.1k fork:0.0k :book: 5 分钟商学院精细笔记
@@ -96,7 +96,7 @@
 - [apachecn/beam-site-zh](https://github.com/apachecn/beam-site-zh) topic: pushed_at:2020-02 star:0.1k fork:0.1k Apache Beam 官方网站中文版
 - [apachecn/crackme160](https://github.com/apachecn/crackme160) topic: pushed_at:2022-04 star:0.0k fork:0.0k 
 - [apachecn/cs61b-textbook-zh](https://github.com/apachecn/cs61b-textbook-zh) topic:cs61b,data-structures,java,textbook,ucb pushed_at:2021-01 star:0.4k fork:0.1k :book: [译] UCB CS61b Java 中的数据结构
-- [apachecn/data](https://github.com/apachecn/data) topic: pushed_at:2026-10 star:0.0k fork:0.0k 
+- [apachecn/data](https://github.com/apachecn/data) topic: pushed_at:2026-11 star:0.0k fork:0.0k 
 - [apachecn/data8-textbook-zh](https://github.com/apachecn/data8-textbook-zh) topic:data-science,data8,lecture-notes,python,statistics,ucb pushed_at:2020-09 star:0.1k fork:0.0k :book: [译] 计算与推断思维 中文版
 - [apachecn/Developer-Zero-To-Mastery](https://github.com/apachecn/Developer-Zero-To-Mastery) topic: pushed_at:2022-04 star:0.0k fork:0.0k :books: To Be Professional Developer From Zero To Mastery, Interactive MindMap, RoadMap(Learning Path/Interview Questions), xCompass, Weekly for Developer, to Learn Everything in ITCS  :dizzy: 程序员的技术视野、知识管理与职业规划，提高个人与团队的研发效能
 - [apachecn/devtools-snippets](https://github.com/apachecn/devtools-snippets) topic: pushed_at:2022-05 star:0.0k fork:0.0k A collection of helpful snippets to use inside of browser devtools
@@ -710,7 +710,7 @@
 - [apachecn/edax-reversi](https://github.com/apachecn/edax-reversi) topic: pushed_at:2021-01 star:0.0k fork:0.0k Edax reversi version 4.4 and above
 - [apachecn/EDFLOW](https://github.com/apachecn/EDFLOW) topic: pushed_at:2022-01 star:0.0k fork:0.0k Vivado HLS implementation of EDFLOW IP
 - [apachecn/edgetunnel](https://github.com/apachecn/edgetunnel) topic: pushed_at:2024-07 star:0.0k fork:0.0k Running V2ray inside edge/serverless runtime
-- [apachecn/edgetunnel21](https://github.com/apachecn/edgetunnel21) topic: pushed_at:2026-04 star:0.2k fork:0.1k edgetunnel2 VLESS/Trojan 多功能面板
+- [apachecn/edgetunnel21](https://github.com/apachecn/edgetunnel21) topic: pushed_at:2026-04 star:0.4k fork:0.1k edgetunnel2 VLESS/Trojan 多功能面板
 - [apachecn/eeg-gcnn](https://github.com/apachecn/eeg-gcnn) topic: pushed_at:2022-03 star:0.0k fork:0.0k Resources for the paper titled "EEG-GCNN: Augmenting Electroencephalogram-based Neurological Disease Diagnosis using a Domain-guided Graph Convolutional Neural Network". Accepted for publication (with an oral spotlight!) at ML4H Workshop, NeurIPS 2020.
 - [apachecn/effective-java-3rd-chinese](https://github.com/apachecn/effective-java-3rd-chinese) topic: pushed_at:2021-12 star:0.0k fork:0.0k 
 - [apachecn/embedded-notes](https://github.com/apachecn/embedded-notes) topic: pushed_at:2021-04 star:0.0k fork:0.0k 嵌入式linux软件开发、嵌入式linux驱动开发、c语言、单片机开发、IOT开发等面试要点记录
@@ -1241,7 +1241,7 @@
 - [apachecn/awesome-indie-zh](https://github.com/apachecn/awesome-indie-zh) topic: pushed_at:2020-09 star:0.9k fork:0.1k 独立开发/自由职业/远程工作资源列表
 - [apachecn/dnmp](https://github.com/apachecn/dnmp) topic: pushed_at:2022-04 star:0.0k fork:0.0k Docker LNMP (Nginx, PHP7/PHP5, MySQL, Redis)
 - [apachecn/fuzzingbook-zh](https://github.com/apachecn/fuzzingbook-zh) topic: pushed_at:2021-01 star:0.0k fork:0.0k :book: [译] 生成软件测试
-- [apachecn/hardware-fix](https://github.com/apachecn/hardware-fix) topic: pushed_at:2022-12 star:0.2k fork:0.0k :books: 硬件维修维护教程
+- [apachecn/hardware-fix](https://github.com/apachecn/hardware-fix) topic: pushed_at:2022-12 star:0.2k fork:0.1k :books: 硬件维修维护教程
 - [apachecn/interpretable-ml-book-zh](https://github.com/apachecn/interpretable-ml-book-zh) topic: pushed_at:2021-01 star:0.1k fork:0.0k interpretable-ml-book中文翻译
 - [apachecn/java8-tut-zh](https://github.com/apachecn/java8-tut-zh) topic: pushed_at:2020-09 star:0.0k fork:0.0k :book: [译] Java8 中文官方文档（施工中）
 - [apachecn/misc-docs-zh](https://github.com/apachecn/misc-docs-zh) topic: pushed_at:2020-09 star:0.1k fork:0.0k :books: [译] ApacheCN 短篇集
